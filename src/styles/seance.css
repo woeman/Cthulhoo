@@ -1,0 +1,2796 @@
+/* The Séance (party mode). Built on the app's plates, buttons and answer line,
+   and on the art thread's séance table (art/seance/, docs/art/06-interface.md):
+   the table's hands, candles and glass take their colours from custom
+   properties, and every colour here comes from the zone tokens, so the whole
+   mode follows the circle down as it sinks. */
+
+/* The glass lights slowly at a reveal, and a guttering flame flickers: both are animated custom properties. */
+@property --seance-glass {
+  syntax: '<color>';
+  inherits: true;
+  initial-value: transparent;
+}
+
+@property --seance-lit {
+  syntax: '<number>';
+  inherits: true;
+  initial-value: 1;
+}
+
+/* ------------------------------------------------------------ the screen */
+
+.seance-screen {
+  --sc-ease: var(--ease-surface);
+  padding-top: var(--space-2);
+}
+
+.seance-screen > .sc-stage {
+  display: grid;
+  flex: 1 0 auto;
+  align-content: start;
+}
+
+/* scenes share one cell, so one can drift off while the next surfaces */
+.sc-stage > .sc-scene {
+  grid-area: 1 / 1;
+  min-width: 0;
+}
+
+.sc-scene {
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-4);
+  padding-bottom: var(--space-5);
+}
+
+.sc-arriving {
+  animation: sc-arrive 620ms var(--ease-surface) both;
+}
+
+.sc-leaving {
+  pointer-events: none;
+  animation: sc-leave 400ms var(--ease-sink) forwards;
+}
+
+@keyframes sc-arrive {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+
+@keyframes sc-leave {
+  to {
+    opacity: 0;
+    transform: translateY(-22px);
+  }
+}
+
+.sc-scene h2,
+.sc-scene h3 {
+  margin: 0;
+  font-weight: 400;
+}
+
+.sc-scene :is(h2, h3)[tabindex='-1']:focus {
+  outline: none;
+}
+
+.sc-scene p {
+  margin: 0;
+}
+
+.sc-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+}
+
+/* An engraver's reserve, as the title screen keeps one (app.css): small lettering that sits straight on
+   the picture keeps a margin of clean ground, so the hatching of the surface never runs through the
+   words. In the deep the same reserve is a little darkness. Plates and cards need none. */
+.seance-screen :is(
+    .sc-back,
+    .sc-bar-title,
+    .sc-lede,
+    .sc-sign-block > .kicker,
+    .sc-handoff > .kicker,
+    .sc-reveal-head > .kicker,
+    .sc-herald > .kicker,
+    .sc-sign-say,
+    .sc-share,
+    .sc-holdup-btn,
+    .sc-hint,
+    .sc-wait-line,
+    .sc-config-read,
+    .sc-calling-sign,
+    .sc-handoff-note,
+    .sc-unsaid-k,
+    .sc-unsaid-sub
+  ) {
+  background: var(--reserve);
+  box-shadow: 0 0 10px 7px var(--reserve);
+}
+
+.seance-screen :is(.sc-unsaid-k, .sc-unsaid-sub) {
+  width: fit-content;
+  border-radius: 1.2em;
+}
+
+.seance-screen :is(.sc-bar-title, .sc-lede, .kicker, .sc-sign-say, .sc-hint, .sc-wait-line, .sc-config-read, .sc-calling-sign, .sc-handoff-note) {
+  border-radius: 1.2em;
+}
+
+.seance-screen :is(.sc-lede, .sc-hint, .sc-wait-line, .sc-config-read, .sc-handoff-note, .sc-calling-sign) {
+  width: fit-content;
+  max-width: min(100%, 30rem);
+  margin-inline: auto;
+  padding-inline: 0.4em;
+}
+
+/* the app bar the mode keeps for itself: the way out, and where you sit */
+.sc-bar {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 48px;
+  margin-bottom: var(--space-2);
+}
+
+/* with the app's sound switch at the end */
+.sc-bar.has-end {
+  grid-template-columns: auto minmax(0, 1fr) auto;
+}
+
+.sc-bar > .icon-btn {
+  justify-self: end;
+}
+
+.sc-back {
+  min-width: 48px;
+  padding-inline: var(--space-2) var(--space-3);
+  gap: 6px;
+  font-size: var(--step--1);
+}
+
+.sc-back svg {
+  width: 20px;
+  height: 20px;
+}
+
+.sc-bar-title {
+  justify-self: end;
+  margin: 0;
+  text-align: right;
+  line-height: 1.15;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-shadow: var(--halo);
+}
+
+.sc-bar-title .t {
+  display: block;
+}
+
+.sc-bar-sign {
+  font-family: var(--font-log);
+  letter-spacing: 0.08em;
+  color: var(--color-ink);
+}
+
+.sc-bar-sign:empty {
+  display: none;
+}
+
+.sc-confirm {
+  display: grid;
+  gap: var(--space-3);
+  margin: 0 0 var(--space-4);
+  padding: var(--space-4);
+  border: var(--rule-hair) solid var(--color-rule);
+  background: var(--color-plate-veil);
+  box-shadow: var(--shadow-plate);
+  text-align: center;
+  animation: sc-arrive 320ms var(--ease-surface) both;
+}
+
+.sc-confirm p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+.sc-confirm[hidden] {
+  display: none;
+}
+
+/* the line to the surface is down: said quietly, the last view kept */
+.sc-lost {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  width: fit-content !important;
+  margin: 0 auto var(--space-3);
+  padding: 6px 14px;
+  border: 1px solid var(--color-rule-soft);
+  border-radius: var(--radius-round);
+  background: var(--color-plate);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-lost[hidden],
+.sc-notice[hidden] {
+  display: none;
+}
+
+/* News of the circle (who left, who holds the candles now), for a few seconds. The rail takes no room,
+   so the pill hangs over the top of the scene without moving the candle or a button, lets every tap
+   through, and stays in sight when the screen scrolls. */
+.sc-notice-rail {
+  position: sticky;
+  top: 8px;
+  z-index: 30;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 0;
+  pointer-events: none;
+}
+
+.seance-screen.is-lost .sc-notice-rail {
+  display: none;
+}
+
+.sc-notice {
+  flex: none;
+  max-width: min(100%, 30rem);
+  margin: 0;
+  padding: 8px 18px;
+  border: 1px solid var(--color-rule);
+  border-radius: var(--radius-round);
+  background: var(--color-plate);
+  box-shadow: 0 10px 30px -12px rgb(0 0 0 / 0.6);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.35;
+  text-align: center;
+  text-wrap: balance;
+  color: var(--color-ink);
+  animation: sc-notice-in 0.5s var(--ease-drift) both;
+}
+
+.seance-screen.is-table .sc-notice {
+  max-width: min(100%, 46rem);
+  padding: 0.5em 1.4em;
+  font-size: var(--step-1);
+}
+
+@keyframes sc-notice-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+}
+
+.sc-lost-dot {
+  flex: none;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-refused);
+  animation: sc-throb 1.6s var(--ease-drift) infinite;
+}
+
+@keyframes sc-throb {
+  50% {
+    opacity: 0.25;
+  }
+}
+
+.seance-screen.is-lost .sc-stage {
+  filter: saturate(0.6);
+  opacity: 0.82;
+  transition: opacity var(--dur-ui), filter var(--dur-ui);
+}
+
+/* ------------------------------------------------------------ type */
+
+.sc-title {
+  font-family: var(--font-display);
+  font-size: var(--step-4);
+  line-height: var(--leading-display);
+  text-align: center;
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-lede {
+  max-width: 30rem;
+  margin-inline: auto !important;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+  text-align: center;
+  text-wrap: pretty;
+  text-shadow: var(--halo);
+}
+
+.sc-h {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin: 0 0 var(--space-3) !important;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+}
+
+.sc-count {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+}
+
+.sc-msg {
+  margin: var(--space-3) 0 0;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.45;
+  color: var(--color-refused);
+  text-wrap: pretty;
+}
+
+.sc-msg[hidden] {
+  display: none;
+}
+
+.sc-hint,
+.sc-wait-line,
+.sc-config-read {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-align: center;
+  text-wrap: pretty;
+  text-shadow: var(--halo);
+}
+
+.sc-wait-line {
+  font-size: var(--step-0);
+  color: var(--color-ink);
+}
+
+.sc-wait {
+  display: grid;
+  gap: var(--space-2);
+  padding: var(--space-3) 0;
+}
+
+.sc-actions {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+  padding-top: var(--space-2);
+}
+
+.sc-actions .btn.primary {
+  min-width: min(100%, 17rem);
+}
+
+/* the sign, set in the log face and read aloud as words */
+.sc-sign {
+  margin: 0;
+  font-family: var(--font-log);
+  line-height: 1;
+  letter-spacing: 0.06em;
+  white-space: nowrap;
+  color: var(--color-ink);
+}
+
+.sc-sign-text .d {
+  margin: 0 0.06em;
+  color: var(--color-ink-muted);
+}
+
+.sc-sign-text .n {
+  color: var(--color-glow);
+}
+
+/* ------------------------------------------------------------ the table */
+
+.sc-table {
+  --beast-body: var(--color-ground);
+  --seance-flame: var(--color-glow);
+  --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint));
+  --seance-glass: transparent;
+  --table-size: min(100%, 22rem);
+  /* the table's width is what its size is a share of, so it spans its column and centres its art */
+  justify-self: stretch;
+  min-width: 0;
+  margin: 0;
+  display: grid;
+  justify-items: center;
+  transition: --seance-glass 1.8s var(--ease-surface);
+}
+
+.sc-table.is-lit {
+  --seance-glass: color-mix(in oklab, var(--color-glow) 30%, transparent);
+}
+
+.sc-table-art {
+  position: relative;
+  width: var(--table-size);
+  aspect-ratio: 1;
+  container-type: inline-size;
+  color: var(--color-ink);
+}
+
+/* a reserve of still water under the table, so the abyss never shows through its hands */
+.sc-table-art::before {
+  content: '';
+  position: absolute;
+  inset: -3%;
+  border-radius: 50%;
+  background: radial-gradient(closest-side, var(--color-ground) 0 90%, color-mix(in oklab, var(--color-ground) 0%, transparent) 100%);
+}
+
+.sc-table-svg {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.sc-glass {
+  position: absolute;
+  inset: 37%;
+  display: grid;
+  place-items: center;
+  text-align: center;
+  pointer-events: none;
+}
+
+.sc-glass-t {
+  display: block;
+  font-family: var(--font-log);
+  /* the clear glass is about a fifth of the table across: the words fit inside it */
+  font-size: min(4.6cqw, calc(19cqw / (var(--chars, 7) * 0.62)));
+  letter-spacing: 0.02em;
+  line-height: 1.1;
+  white-space: nowrap;
+  color: var(--color-ink);
+  text-shadow: 0 0 6px var(--color-ground), 0 0 14px var(--color-ground);
+  animation: sc-glass-in 900ms var(--ease-surface) both;
+}
+
+.sc-glass[data-kind='secs'] .sc-glass-t {
+  font-family: var(--font-log);
+  font-size: 9cqw;
+  letter-spacing: 0;
+  font-variant-numeric: tabular-nums;
+  animation: none;
+}
+
+.sc-glass:is([data-kind='herald'], [data-kind='name']) .sc-glass-t {
+  font-family: var(--font-display);
+  letter-spacing: 0.01em;
+  font-size: min(6cqw, calc(19cqw / (var(--chars, 7) * 0.5)), calc(15cqw / var(--lines, 1)));
+  color: var(--color-glow);
+  text-shadow: var(--glow-line), 0 0 14px var(--color-ground);
+}
+
+@keyframes sc-glass-in {
+  from {
+    opacity: 0;
+    filter: blur(5px);
+  }
+}
+
+.sc-table.is-out .sc-glass-t {
+  color: var(--color-ink-muted);
+}
+
+/* names round the rim, for a screen the whole room reads */
+.sc-table.has-names {
+  padding: 2.6em 0;
+}
+
+.sc-table-names {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  pointer-events: none;
+}
+
+.sc-tname {
+  position: absolute;
+  left: calc(50% + var(--cos) * 51.5%);
+  top: calc(50% + var(--sin) * 51.5%);
+  max-width: 10em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  transform: translate(calc(-50% + var(--cos) * 50%), calc(-50% + var(--sin) * 50%));
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: max(0.95rem, 3.1cqw);
+  line-height: 1.2;
+  color: var(--sitter);
+  text-shadow: var(--halo);
+  transition: opacity 0.8s var(--ease-surface), color 0.8s var(--ease-surface);
+}
+
+.sc-tname:is(.is-waiting, .is-away, .is-dim) {
+  color: var(--color-ink-muted);
+  opacity: 0.75;
+}
+
+.sc-tname.is-away {
+  opacity: 0.45;
+}
+
+.sc-tname:is(.is-sealed, .is-lit) {
+  text-shadow: 0 0 10px color-mix(in oklab, var(--sitter) 45%, transparent), var(--halo);
+}
+
+.sc-tname.is-new {
+  animation: sc-name-bloom 1.1s var(--ease-surface);
+}
+
+@keyframes sc-name-bloom {
+  from {
+    letter-spacing: 0.3em;
+    opacity: 0.3;
+  }
+}
+
+/* ------------------------------------------------------------ marks */
+
+.sc-mark {
+  display: inline-grid;
+  place-items: center;
+  flex: none;
+  line-height: 0;
+  color: var(--sitter, var(--color-ink));
+}
+
+.sc-glyph {
+  display: block;
+  width: 0.9em;
+  height: 1.44em;
+}
+
+/* ------------------------------------------------------------ the way in */
+
+.sc-crest {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  padding-top: var(--space-2);
+}
+
+.sc-crest-table {
+  --table-size: min(58vw, 15rem);
+  margin-bottom: var(--space-1);
+}
+
+.sc-crest.is-small .sc-table {
+  --table-size: min(44vw, 11rem);
+}
+
+.sc-entry-plate {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.sc-field {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.sc-field[hidden] {
+  display: none;
+}
+
+.sc-field-k,
+.sc-choices-k {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-input {
+  width: 100%;
+  min-width: 0;
+  min-height: 52px;
+  padding: var(--space-2) var(--space-1);
+  border: 0;
+  border-bottom: 2px solid var(--color-ink-muted);
+  border-radius: 0;
+  background: transparent;
+  font-family: var(--font-log);
+  font-size: max(16px, var(--step-1));
+  letter-spacing: var(--tracking-log);
+  color: var(--color-ink);
+  caret-color: var(--color-glow);
+  outline: none;
+  transition: border-color var(--dur-ui), box-shadow var(--dur-ui);
+}
+
+.sc-input::placeholder {
+  color: var(--color-ink-muted);
+  font-family: var(--font-display);
+  font-style: italic;
+  letter-spacing: 0;
+  opacity: 1;
+}
+
+.sc-input:focus,
+.sc-input:focus-visible {
+  border-bottom-color: var(--color-focus);
+  box-shadow: 0 1px 0 var(--color-focus), 0 14px 18px -16px var(--color-focus);
+}
+
+.sc-input[aria-invalid='true'] {
+  border-bottom-color: var(--color-refused);
+}
+
+.sc-input:disabled {
+  opacity: 0.5;
+}
+
+.sc-sign-input {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.sc-sign-input::placeholder {
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+.sc-panel {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.sc-panel[hidden] {
+  display: none;
+}
+
+.sc-panel-k {
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  line-height: var(--leading-display);
+}
+
+.sc-panel-note {
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.sc-ways {
+  gap: var(--space-2);
+  margin-top: var(--space-1);
+}
+
+/* one way to sit: an engraved row with its sign, its name, a line on it, and a pointer */
+.sc-way {
+  appearance: none;
+  display: grid;
+  grid-template-columns: 2.5rem minmax(0, 1fr) 1.25rem;
+  align-items: center;
+  gap: var(--space-3);
+  width: 100%;
+  min-height: 64px;
+  padding: var(--space-3) var(--space-3) var(--space-3) var(--space-2);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  background: transparent;
+  color: var(--color-ink);
+  text-align: left;
+  cursor: pointer;
+  transition: border-color var(--dur-quick), background var(--dur-quick), box-shadow var(--dur-ui), transform var(--dur-quick);
+}
+
+.sc-way:hover {
+  border-color: var(--color-rule);
+  background: var(--color-glow-faint);
+}
+
+.sc-way:active {
+  transform: translateY(1px);
+}
+
+.sc-way.is-lead {
+  border-color: var(--color-action);
+  box-shadow: 0 0 0 3px var(--color-plate-veil), 0 0 0 4px var(--color-rule-soft);
+}
+
+.sc-way.is-lead:hover {
+  box-shadow: 0 0 0 3px var(--color-plate-veil), 0 0 0 4px var(--color-action), 0 0 24px var(--color-glow-soft);
+}
+
+.sc-way[disabled] {
+  opacity: 0.42;
+  cursor: default;
+  background: none;
+}
+
+.sc-way[disabled]:hover {
+  border-color: var(--color-rule-soft);
+}
+
+.sc-way-icon {
+  display: grid;
+  place-items: center;
+  width: 2.5rem;
+  height: 2.5rem;
+  border: 1px solid var(--color-rule-soft);
+  border-radius: 50%;
+  color: var(--color-glow);
+}
+
+.sc-way.is-lead .sc-way-icon {
+  border-color: var(--color-action);
+  color: var(--color-action);
+}
+
+.sc-way-icon svg {
+  width: 22px;
+  height: 22px;
+}
+
+.sc-way-text {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.sc-way-text .t {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+  line-height: 1.2;
+}
+
+.sc-way-text .d {
+  font-size: var(--step--1);
+  line-height: 1.35;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.sc-way-go {
+  display: grid;
+  place-items: center;
+  color: var(--color-ink-muted);
+}
+
+.sc-way-go svg {
+  width: 18px;
+  height: 18px;
+  transform: scaleX(-1);
+}
+
+.sc-norelay {
+  margin-top: var(--space-1) !important;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.45;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* while the surface is asked */
+.sc-scene.is-busy [data-busy-off] {
+  opacity: 0.55;
+  pointer-events: none;
+  cursor: progress;
+}
+
+.sc-or {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.sc-or::before,
+.sc-or::after {
+  content: '';
+  flex: 1 1 1.5rem;
+  min-width: 1rem;
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.sc-or span {
+  flex: 0 1 auto;
+  text-align: center;
+}
+
+.sc-tablejoin > .btn {
+  justify-self: center;
+}
+
+.sc-how {
+  margin: 0 6px;
+  padding: var(--space-2) var(--space-4);
+  border: 1px dotted var(--color-rule-soft);
+  background: var(--color-plate-veil);
+}
+
+.sc-how summary {
+  display: flex;
+  align-items: center;
+  min-height: 48px;
+  cursor: pointer;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  list-style: none;
+}
+
+.sc-how summary::-webkit-details-marker {
+  display: none;
+}
+
+.sc-how summary::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  margin-right: var(--space-3);
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform var(--dur-ui) var(--ease-surface);
+}
+
+.sc-how[open] summary::before {
+  transform: rotate(45deg);
+}
+
+.sc-how .howto-steps {
+  margin-top: var(--space-2);
+  font-size: var(--step--1);
+}
+
+/* ------------------------------------------------------------ calling */
+
+.sc-calling {
+  align-items: center;
+  justify-content: center;
+  min-height: min(70vh, 36rem);
+  text-align: center;
+}
+
+.sc-calling-table {
+  --table-size: min(56vw, 14rem);
+  --seance-fade: 0.6s;
+}
+
+.sc-calling-title {
+  font-size: var(--step-3);
+}
+
+.sc-calling-sign {
+  font-family: var(--font-log);
+  color: var(--color-ink-muted);
+}
+
+.sc-slow {
+  display: grid;
+  gap: var(--space-3);
+  max-width: 24rem;
+  margin-top: var(--space-3);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.sc-slow[hidden] {
+  display: none;
+}
+
+/* ------------------------------------------------------------ the lobby */
+
+.sc-sign-block {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+  text-align: center;
+}
+
+.sc-lobby-table {
+  --table-size: min(100%, 23rem);
+}
+
+.sc-sign-say {
+  max-width: 24rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-share-wrap {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-1);
+}
+
+.sc-share {
+  min-width: 12rem;
+}
+
+.sc-share-note {
+  min-height: 0;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-share-note:empty {
+  display: none;
+}
+
+.sc-share-url {
+  width: min(100%, 22rem);
+  margin-top: var(--space-1);
+  padding: 6px 8px;
+  border: 1px solid var(--color-rule-soft);
+  background: var(--color-plate);
+  font-family: var(--font-log);
+  font-size: 0.85rem;
+  color: var(--color-ink);
+}
+
+.sc-sign-acts {
+  align-items: start;
+}
+
+/* the sign held up for the room */
+.sc-holdup {
+  position: fixed;
+  inset: 0;
+  z-index: var(--z-overlay);
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: var(--space-4);
+  padding: var(--space-5);
+  border: 0;
+  background: color-mix(in oklab, var(--color-ground) 97%, transparent);
+  color: var(--color-ink);
+  cursor: pointer;
+  animation: fade-in var(--dur-ui) var(--ease-surface);
+}
+
+.sc-holdup:focus-visible {
+  outline-offset: -8px;
+}
+
+.sc-holdup-k,
+.sc-holdup-hint {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-transform: lowercase;
+}
+
+.sc-holdup-sign {
+  font-family: var(--font-display-caps);
+  font-size: min(30vh, calc(92vw / (var(--chars, 7) * 0.7)));
+  letter-spacing: 0.05em;
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--color-ink);
+  text-shadow: 0 0 28px var(--color-glow-faint);
+}
+
+.sc-holdup-sign .d {
+  color: var(--color-ink-muted);
+}
+
+.sc-holdup-sign .n {
+  color: var(--color-glow);
+}
+
+.sc-holdup-say {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-2);
+  color: var(--color-ink-muted);
+}
+
+.sc-holdup-hint {
+  margin-top: var(--space-5);
+  font-size: var(--step--2);
+}
+
+/* the circle */
+.sc-sitters {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: grid;
+}
+
+.sc-sitter {
+  display: grid;
+  grid-template-columns: 1.4rem minmax(0, 1fr) auto auto;
+  align-items: center;
+  gap: var(--space-3);
+  min-height: 48px;
+  padding: 4px 0;
+  border-bottom: 1px dotted var(--color-rule-soft);
+  animation: sc-arrive 520ms var(--ease-surface) both;
+}
+
+.sc-sitter:last-child {
+  border-bottom: 0;
+}
+
+.sc-sitter .sc-mark {
+  font-size: 1.05rem;
+}
+
+.sc-sitter-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: var(--step-0);
+}
+
+.sc-sitter.is-you .sc-sitter-name {
+  font-weight: 500;
+}
+
+.sc-sitter-tags {
+  display: flex;
+  gap: var(--space-1);
+}
+
+.sc-sitter-tags:empty {
+  display: none;
+}
+
+.sc-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 1px 8px;
+  border: 1px solid var(--color-rule-soft);
+  border-radius: var(--radius-round);
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  line-height: 1.6;
+  color: var(--color-ink-muted);
+  white-space: nowrap;
+}
+
+.sc-tag.is-medium {
+  border-color: var(--color-accent-soft);
+  color: var(--color-accent);
+}
+
+.sc-tag svg {
+  width: 13px;
+  height: 13px;
+}
+
+.sc-sitter-state {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+  white-space: nowrap;
+}
+
+.sc-dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--sitter, var(--color-glow));
+  box-shadow: 0 0 6px var(--color-glow-soft);
+}
+
+.sc-sitter.is-away {
+  color: var(--color-ink-muted);
+}
+
+.sc-sitter.is-away .sc-mark {
+  opacity: 0.45;
+}
+
+.sc-sitter.is-away .sc-dot {
+  background: transparent;
+  border: 1px solid var(--color-ink-muted);
+  box-shadow: none;
+}
+
+.sc-sitter.is-empty {
+  display: block;
+  min-height: 0;
+  padding: var(--space-2) 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.sc-tables {
+  margin-top: var(--space-3) !important;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.sc-tables[hidden] {
+  display: none;
+}
+
+/* the medium's choices: candles and seconds, as engraved stops */
+.sc-config {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.sc-choices {
+  display: grid;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+}
+
+.sc-choices-k {
+  padding: 0;
+}
+
+.sc-choice-opts {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--space-2);
+}
+
+.sc-choice {
+  position: relative;
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  gap: 5px;
+  min-height: 52px;
+  padding: var(--space-2);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  cursor: pointer;
+  align-content: center;
+  flex-wrap: wrap;
+  transition: border-color var(--dur-quick), background var(--dur-quick), box-shadow var(--dur-ui);
+}
+
+.sc-choice:hover {
+  border-color: var(--color-rule);
+}
+
+.sc-choice .v {
+  font-family: var(--font-log);
+  font-size: var(--step-2);
+  line-height: 1;
+}
+
+.sc-choice .u {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-choice:has(input:checked) {
+  border-color: var(--color-action);
+  background: color-mix(in oklab, var(--color-action) 12%, transparent);
+  box-shadow: 0 0 0 3px var(--color-plate-veil), 0 0 0 4px var(--color-rule-soft);
+}
+
+.sc-choice:has(input:checked) .v {
+  color: var(--color-action);
+}
+
+.sc-choice:has(input:focus-visible) {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 3px;
+}
+
+.sc-choice:has(input:disabled) {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* ------------------------------------------------------------ the table's lobby */
+
+.sc-table-lobby {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-6) var(--space-8);
+  min-height: calc(var(--vvh, 100dvh) - 9rem);
+}
+
+.sc-tl-stage {
+  display: grid;
+  justify-items: center;
+}
+
+.sc-table.is-grand {
+  --table-size: min(100%, 72vh, 44rem);
+}
+
+.sc-tl-stage .sc-table.is-grand {
+  --table-size: min(calc(100% - 15em), 70vh, 44rem);
+}
+
+.sc-tl-side {
+  display: grid;
+  gap: var(--space-4);
+  align-content: center;
+  /* the words for the room keep one wide reserve of clean ground, a cartouche on the engraving */
+  align-self: center;
+  padding: var(--space-3) var(--space-4);
+  border-radius: 2.5em;
+  background: var(--reserve);
+  box-shadow: 0 0 28px 22px var(--reserve);
+}
+
+.sc-tl-k {
+  font-size: var(--step-0);
+}
+
+.sc-sign-grand {
+  font-size: clamp(3.4rem, 8.4vw, 9rem);
+  letter-spacing: 0.04em;
+  text-shadow: 0 0 30px var(--color-glow-faint), var(--halo);
+}
+
+.sc-tl-how {
+  max-width: 28rem;
+  font-size: var(--step-1);
+  text-wrap: pretty;
+}
+
+.sc-tl-url {
+  font-family: var(--font-log);
+  font-size: var(--step-0);
+  color: var(--color-glow);
+  overflow-wrap: anywhere;
+}
+
+.sc-tl-wait {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-1);
+  color: var(--color-ink-muted);
+}
+
+.sc-tl-config {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ a candle burning */
+
+.sc-qplate {
+  margin-top: var(--space-2);
+}
+
+.sc-qplate .question {
+  text-shadow: none;
+}
+
+.sc-wick {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-3) var(--space-5);
+  margin-top: var(--space-4);
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.sc-wick-side {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+  margin-left: auto;
+  text-align: right;
+}
+
+.sc-holder {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+}
+
+.sc-holder-sub {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+/* the night's candles: spent, burning (the clock), waiting */
+.sc-candles {
+  --beast-body: var(--color-plate);
+  --seance-flame: var(--color-glow);
+  --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint));
+  display: flex;
+  align-items: flex-end;
+  gap: var(--space-3);
+}
+
+.sc-candle-row {
+  display: flex;
+  align-items: flex-end;
+  gap: 4px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-cdl {
+  line-height: 0;
+  color: var(--color-ink);
+  transition: opacity var(--dur-reveal) var(--ease-surface);
+}
+
+.sc-cdl-svg {
+  display: block;
+  width: 17px;
+  height: 29px;
+  overflow: visible;
+}
+
+.sc-cdl:is([data-state='burning'], [data-state='out']) .sc-cdl-svg {
+  width: 34px;
+  height: 57px;
+}
+
+.sc-cdl[data-state='waiting'] {
+  --seance-lit: 0;
+  opacity: 0.55;
+}
+
+.sc-cdl[data-state='spent'] {
+  --seance-lit: 0;
+  --seance-burn: 1;
+  opacity: 0.4;
+}
+
+.sc-cdl[data-state='burning'] {
+  --seance-lit: 0;
+}
+
+.sc-candles.is-lit .sc-cdl[data-state='burning'] {
+  --seance-lit: 1;
+}
+
+.sc-cdl[data-state='out'] {
+  --seance-lit: 0;
+  opacity: 0.7;
+}
+
+.sc-candles.is-low .sc-cdl[data-state='burning'] {
+  --seance-flame: var(--color-accent);
+  --seance-fade: 80ms;
+  animation: sc-gutter 1.3s var(--ease-drift) infinite;
+}
+
+@keyframes sc-gutter {
+  0%,
+  100% {
+    --seance-lit: 1;
+  }
+  22% {
+    --seance-lit: 0.55;
+  }
+  34% {
+    --seance-lit: 0.95;
+  }
+  61% {
+    --seance-lit: 0.7;
+  }
+  72% {
+    --seance-lit: 1;
+  }
+}
+
+.sc-secs {
+  display: flex;
+  align-items: baseline;
+  margin: 0 0 3px !important;
+  font-family: var(--font-log);
+  font-size: var(--step-3);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+  transition: color var(--dur-ui);
+}
+
+.sc-secs-u {
+  margin-left: 1px;
+  font-size: 0.5em;
+  color: var(--color-ink-muted);
+}
+
+.sc-candles.is-low .sc-secs {
+  color: var(--color-accent);
+}
+
+.sc-candles.is-out .sc-secs {
+  color: var(--color-ink-muted);
+}
+
+/* the circle's marks, hanging from one waterline, lighting as each seals */
+.sc-line {
+  display: grid;
+  justify-items: end;
+  gap: 4px;
+}
+
+.sc-line-glyphs {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 1px 3px;
+  padding: 0 2px;
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.sc-line-g {
+  display: block;
+  line-height: 0;
+  color: var(--color-ink-faint);
+  transition: color 0.6s var(--ease-surface), filter 0.6s var(--ease-surface);
+}
+
+.sc-line-g svg {
+  display: block;
+  width: 15px;
+  height: 21px;
+}
+
+.sc-line-g.is-sealed {
+  color: var(--sitter);
+  filter: drop-shadow(0 0 4px color-mix(in oklab, var(--sitter) 55%, transparent));
+}
+
+.sc-line-g.is-new {
+  animation: sc-mark-bloom 900ms var(--ease-surface);
+}
+
+@keyframes sc-mark-bloom {
+  from {
+    transform: translateY(-6px) scale(1.35);
+  }
+}
+
+.sc-line-g.is-away {
+  opacity: 0.4;
+}
+
+.sc-line-g.is-you {
+  border-bottom: 1px solid var(--color-ink-muted);
+}
+
+.sc-line-count {
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+/* sealed: your hand laid on the table, the answer under it */
+.sc-answer-slot {
+  min-height: 52px;
+}
+
+.sc-sealed {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  grid-template-areas: 'hand line' 'hand sub';
+  align-items: center;
+  gap: 0 var(--space-4);
+  margin-top: var(--space-3);
+  padding: var(--space-3) var(--space-4);
+  border: 1px solid color-mix(in oklab, var(--sitter, var(--color-glow)) 45%, transparent);
+  background: color-mix(in oklab, var(--sitter, var(--color-glow)) 7%, transparent);
+  animation: sc-arrive 600ms var(--ease-surface) both;
+}
+
+.sc-sealed.is-out {
+  grid-template-columns: minmax(0, 1fr);
+  grid-template-areas: 'line' 'sub';
+  border-color: var(--color-rule-soft);
+  background: none;
+}
+
+.sc-sealed-hand {
+  grid-area: hand;
+  line-height: 0;
+  color: var(--sitter, var(--color-glow));
+  --beast-body: var(--color-plate);
+  filter: drop-shadow(0 0 8px color-mix(in oklab, var(--sitter, var(--color-glow)) 35%, transparent));
+  animation: sc-lay 900ms var(--ease-surface) both;
+}
+
+.sc-hand-svg {
+  display: block;
+  width: 30px;
+  height: 55px;
+  overflow: visible;
+}
+
+@keyframes sc-lay {
+  from {
+    opacity: 0;
+    transform: translateY(-10px) scale(1.12);
+    filter: none;
+  }
+}
+
+.sc-sealed-line {
+  grid-area: line;
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+.sc-sealed-line q {
+  font-family: var(--font-log);
+  quotes: '“' '”';
+}
+
+.sc-sealed-sub {
+  grid-area: sub;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-note {
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ the table, while a candle burns */
+
+.sc-table-candle {
+  display: grid;
+  grid-template-rows: auto 1fr;
+  gap: var(--space-5);
+  min-height: calc(var(--vvh, 100dvh) - 7rem);
+}
+
+.sc-tc-head {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-3);
+}
+
+.sc-tc-head .kicker {
+  font-size: var(--step-0);
+}
+
+.sc-tc-sign {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+}
+
+.sc-tc-sign b,
+.sc-tr-sign b {
+  font-family: var(--font-log);
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  color: var(--color-ink);
+}
+
+.sc-tc-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1.1fr);
+  align-items: center;
+  gap: var(--space-6) var(--space-8);
+}
+
+.sc-tc-question {
+  display: grid;
+  gap: var(--space-3);
+  align-content: center;
+}
+
+.sc-tc-q {
+  margin: 0;
+  font-size: clamp(2rem, 3.7vw, 4.4rem);
+  line-height: 1.12;
+  text-shadow: var(--halo);
+}
+
+.sc-tc-question .rules,
+.sc-tc-question .flavor {
+  font-size: var(--step-1);
+  text-shadow: var(--halo);
+}
+
+.sc-tc-question .sc-candles {
+  margin-top: var(--space-5);
+}
+
+.sc-tc-stage {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+}
+
+.sc-tc-stage .sc-table.is-grand {
+  --table-size: min(calc(100% - 15em), 66vh, 44rem);
+}
+
+.sc-tc-count {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+  text-shadow: var(--halo);
+}
+
+.sc-candles.is-grand {
+  --beast-body: var(--color-ground);
+}
+
+/* the table's candles grow with the screen: a room reads them from the sofa */
+.sc-candles.is-grand {
+  --cdl: clamp(26px, 1.9vw, 40px);
+}
+
+.sc-candles.is-grand .sc-cdl-svg {
+  width: var(--cdl);
+  height: calc(var(--cdl) * 1.69);
+}
+
+.sc-candles.is-grand .sc-cdl:is([data-state='burning'], [data-state='out']) .sc-cdl-svg {
+  width: calc(var(--cdl) * 2);
+  height: calc(var(--cdl) * 3.36);
+}
+
+.sc-candles.is-grand .sc-candle-row {
+  gap: calc(var(--cdl) * 0.4);
+}
+
+.sc-candles.is-grand .sc-secs {
+  font-size: clamp(2.3rem, 1rem + 3vw, 4.6rem);
+}
+
+/* ------------------------------------------------------------ the reveal */
+
+.sc-reveal-head {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.sc-reveal-table {
+  --table-size: 7.5rem;
+  margin-bottom: var(--space-1);
+}
+
+.sc-reveal-q {
+  font-family: var(--font-text);
+  font-weight: 500 !important;
+  font-size: var(--step-2);
+  line-height: 1.2;
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-voices {
+  display: grid;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* one voice: who, what they said, how rare, how alone, how deep */
+.sc-voice {
+  --tier-color: var(--color-ink-muted);
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  grid-template-areas: 'who depth' 'said depth' 'meta meta';
+  gap: 2px var(--space-3);
+  padding: var(--space-3) var(--space-4) var(--space-3) calc(var(--space-4) + 3px);
+  border: 1px solid var(--color-rule-soft);
+  background: var(--color-plate-veil);
+  box-shadow: inset 3px 0 0 var(--tier-color);
+}
+
+.sc-voice.is-sunk {
+  opacity: 0;
+  transform: translateY(22px);
+  filter: blur(5px);
+}
+
+.sc-voice.is-up {
+  animation: sc-surface 1000ms var(--ease-surface) both;
+}
+
+@keyframes sc-surface {
+  from {
+    opacity: 0;
+    transform: translateY(22px);
+    filter: blur(5px);
+  }
+}
+
+.sc-voice-who {
+  grid-area: who;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-width: 0;
+}
+
+.sc-voice-who .sc-mark {
+  font-size: 0.95rem;
+}
+
+.sc-voice-name {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--sitter, var(--color-ink));
+}
+
+.sc-voice-said {
+  grid-area: said;
+  min-width: 0;
+  font-family: var(--font-log);
+  font-size: var(--step-1);
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+.sc-voice-said q {
+  quotes: '“' '”';
+}
+
+.sc-voice-taken {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-voice-said.is-silent {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+}
+
+.sc-voice-meta {
+  grid-area: meta;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2px var(--space-2);
+  margin-top: 2px;
+  font-size: var(--step--1);
+}
+
+.sc-voice-seal svg {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.sc-voice-tier {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--tier-color);
+}
+
+.sc-voice-note {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.sc-voice-note::before {
+  content: '·';
+  margin-right: var(--space-2);
+  font-style: normal;
+}
+
+.sc-voice-depth {
+  grid-area: depth;
+  align-self: center;
+  font-family: var(--font-log);
+  font-size: var(--step-2);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--tier-color);
+}
+
+.sc-voice-depth .u {
+  font-size: 0.55em;
+  color: var(--color-ink-muted);
+}
+
+.sc-voice.is-silent {
+  background: none;
+  border-style: dashed;
+  box-shadow: none;
+}
+
+.sc-voice.is-silent .sc-voice-depth {
+  color: var(--color-ink-muted);
+}
+
+.sc-voice.is-you {
+  border-color: color-mix(in oklab, var(--sitter) 50%, transparent);
+}
+
+/* an unspeakable answer: the card breathes in its own pale light */
+.sc-voice[data-tier='6'].is-up {
+  animation: sc-surface 1000ms var(--ease-surface) both, sc-unspeakable 3.5s var(--ease-drift) 1s infinite;
+}
+
+.sc-voice[data-tier='5'],
+.sc-voice[data-tier='6'] {
+  border-color: color-mix(in oklab, var(--tier-color) 55%, transparent);
+}
+
+@keyframes sc-unspeakable {
+  50% {
+    box-shadow: inset 3px 0 0 var(--tier-color), 0 0 26px color-mix(in oklab, var(--tier-color) 30%, transparent);
+  }
+}
+
+/* what the deep knew, and the circle's standings, rise after the voices */
+.sc-unsaid,
+.sc-board,
+.sc-reveal > .sc-actions,
+.sc-tr-foot,
+.sc-unsaid.is-grand {
+  transition: opacity 800ms var(--ease-surface), transform 800ms var(--ease-surface), filter 800ms var(--ease-surface);
+}
+
+:is(.sc-unsaid, .sc-board, .sc-actions, .sc-tr-foot).is-sunk {
+  opacity: 0;
+  transform: translateY(18px);
+  filter: blur(4px);
+}
+
+.sc-unsaid {
+  display: grid;
+  gap: var(--space-2);
+  padding: var(--space-2) 6px 0;
+}
+
+.sc-unsaid-k {
+  margin: 0 !important;
+}
+
+.sc-unsaid-sub {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-unsaid-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-unsaid-list li {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 12px 3px 6px;
+  border: 1px solid color-mix(in oklab, var(--tier-color) 45%, transparent);
+  border-radius: var(--radius-round);
+  /* a little reserve of its own, so the word reads on whatever water is behind it */
+  background: color-mix(in oklab, var(--tier-color) 8%, var(--reserve));
+}
+
+.sc-unsaid-list .a {
+  font-family: var(--font-log);
+  font-size: var(--step-0);
+}
+
+.sc-unsaid-list .t {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--tier-color);
+}
+
+.sc-unsaid-seal svg {
+  width: 1.3em;
+  height: 1.3em;
+}
+
+/* standings */
+.sc-standings {
+  display: grid;
+  gap: var(--space-1);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-stand {
+  display: grid;
+  grid-template-columns: 1.6rem 1.1rem minmax(0, 1fr) auto auto;
+  grid-template-areas: 'rank mark name gain total' 'line line line line line';
+  align-items: center;
+  column-gap: var(--space-2);
+  padding: 6px 0 4px;
+}
+
+.sc-stand-rank {
+  grid-area: rank;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-stand .sc-mark {
+  grid-area: mark;
+}
+
+.sc-stand-name {
+  grid-area: name;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.sc-you {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sc-stand-gain {
+  grid-area: gain;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-glow);
+}
+
+.sc-stand-total {
+  grid-area: total;
+  font-family: var(--font-log);
+  font-size: var(--step-0);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.sc-stand-total .u {
+  font-size: 0.75em;
+  color: var(--color-ink-muted);
+}
+
+.sc-stand-line {
+  grid-area: line;
+  display: block;
+  height: 3px;
+  margin-top: 4px;
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.sc-stand-line span {
+  display: block;
+  height: 3px;
+  min-width: 2px;
+  background: repeating-linear-gradient(90deg, var(--sitter) 0 3px, transparent 3px 5px);
+  transition: width 1.4s var(--ease-descent);
+}
+
+.sc-stand.is-first .sc-stand-name {
+  color: var(--sitter);
+  text-shadow: 0 0 10px color-mix(in oklab, var(--sitter) 40%, transparent);
+}
+
+.sc-stand.is-first .sc-stand-rank {
+  color: var(--color-glow);
+}
+
+/* ------------------------------------------------------------ the table's reveal */
+
+.sc-table-reveal {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: var(--space-5);
+  min-height: calc(var(--vvh, 100dvh) - 7rem);
+}
+
+.sc-tr-head {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-5);
+}
+
+.sc-tr-table {
+  --table-size: clamp(5.5rem, 13vh, 10rem);
+}
+
+.sc-tr-title {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.sc-tr-title .kicker {
+  font-size: var(--step-0);
+}
+
+.sc-tr-q {
+  font-family: var(--font-text);
+  font-weight: 500 !important;
+  font-size: clamp(1.6rem, 2.7vw, 3.2rem);
+  line-height: 1.15;
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-tr-body {
+  display: grid;
+  grid-template-columns: minmax(0, 1.55fr) minmax(16rem, 1fr);
+  gap: var(--space-6);
+  min-height: 0;
+}
+
+.sc-tr-left {
+  display: grid;
+  align-content: start;
+  gap: var(--space-5);
+}
+
+/* on the table's screen every voice is in sight at once: compact cards, two or three abreast */
+.sc-voices.is-grand {
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 15.5rem), 1fr));
+  align-content: start;
+  gap: var(--space-2) var(--space-3);
+}
+
+.sc-voice.is-grand {
+  grid-template-areas: 'who depth' 'said said' 'meta meta';
+  align-items: center;
+  gap: 2px var(--space-2);
+  padding: var(--space-2) var(--space-3) var(--space-2) calc(var(--space-3) + 4px);
+  box-shadow: inset 4px 0 0 var(--tier-color);
+}
+
+.sc-voice.is-grand .sc-voice-name {
+  font-size: var(--step-0);
+}
+
+.sc-voice.is-grand .sc-voice-said {
+  font-size: clamp(1rem, 0.4rem + 0.85vw, 1.5rem);
+}
+
+.sc-voice.is-grand .sc-voice-depth {
+  font-size: var(--step-2);
+}
+
+.sc-voice.is-grand .sc-voice-meta {
+  font-size: var(--step--1);
+}
+
+.sc-tr-right {
+  display: grid;
+  grid-template-rows: minmax(0, 1fr) auto;
+  gap: var(--space-3);
+  min-height: 0;
+}
+
+.sc-tr-right .sc-column,
+.sc-te-right .sc-column {
+  min-height: 16rem;
+}
+
+/* what the deep knew, lying on the floor under the divers */
+.sc-unsaid.is-grand {
+  padding: var(--space-2) var(--space-3);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-top: 0;
+  background: color-mix(in oklab, var(--color-ground) 70%, transparent);
+}
+
+.sc-unsaid.is-grand .sc-unsaid-k {
+  font-size: var(--step--1);
+}
+
+.sc-unsaid.is-grand .sc-unsaid-list .a {
+  font-size: var(--step-0);
+}
+
+.sc-tr-foot,
+.sc-te-foot {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-1);
+  color: var(--color-ink-muted);
+  text-align: center;
+  text-shadow: var(--halo);
+}
+
+.sc-tr-sign {
+  font-style: normal;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+}
+
+/* the water column: each sitter's diver on its cable, sunk to their running total */
+.sc-column {
+  --col-foot: 5.2rem;
+  position: relative;
+  margin: 0;
+  min-height: 24rem;
+  height: 100%;
+  overflow: hidden;
+  border: var(--rule-hair) solid var(--color-rule);
+  outline: var(--rule-hair) solid var(--color-rule-soft);
+  outline-offset: 4px;
+  background: var(--color-ground);
+  color: var(--color-ink);
+}
+
+.sc-col-water {
+  position: absolute;
+  inset: 0;
+  background: var(--water, var(--color-water));
+}
+
+/* the light comes down from the surface and gives out */
+.sc-col-water::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(90% 26% at 50% 0%, color-mix(in oklab, var(--color-fog) 40%, transparent), transparent 70%),
+    repeating-linear-gradient(180deg, transparent 0 7px, color-mix(in oklab, var(--color-ink) 4%, transparent) 7px 8px);
+}
+
+.sc-col-marks {
+  position: absolute;
+  inset: 0 0 var(--col-foot) 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-col-marks li {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: calc(var(--at) * 100%);
+  border-top: 1px dotted color-mix(in oklab, var(--color-ink) 18%, transparent);
+  padding: 2px 6px;
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: color-mix(in oklab, var(--color-ink) 55%, transparent);
+}
+
+.sc-col-marks li.is-major {
+  border-top-style: solid;
+  border-top-color: color-mix(in oklab, var(--color-ink) 22%, transparent);
+}
+
+.sc-col-divers {
+  position: absolute;
+  inset: 0 0 0 3.6rem;
+  display: grid;
+  grid-template-columns: repeat(var(--lanes), minmax(0, 1fr));
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-diver {
+  --y: calc(var(--at) * (100% - var(--col-foot)));
+  position: relative;
+  min-width: 0;
+  color: var(--sitter);
+}
+
+.sc-diver-cable {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 0;
+  height: var(--y);
+  border-left: 1px solid color-mix(in oklab, var(--sitter) 60%, transparent);
+  transition: height var(--dur-descent) var(--ease-descent);
+}
+
+.sc-diver-body {
+  position: absolute;
+  left: 50%;
+  top: var(--y);
+  line-height: 0;
+  transform: translate(-50%, -12%);
+  filter: drop-shadow(0 0 8px color-mix(in oklab, var(--sitter) 55%, transparent));
+  transition: top var(--dur-descent) var(--ease-descent);
+}
+
+.sc-diver-svg {
+  display: block;
+  width: clamp(1.8rem, 3.2vw, 2.8rem);
+  height: clamp(1.8rem, 3.2vw, 2.8rem);
+}
+
+.sc-diver-tag {
+  position: absolute;
+  left: 50%;
+  /* under the diver, or stepped down below a neighbour's name (set by the column) */
+  top: calc(var(--y) + clamp(2rem, 3.6vw, 3.1rem) + var(--tag-dy, 0px));
+  display: grid;
+  justify-items: center;
+  width: max-content;
+  max-width: calc(250% - 6px);
+  transform: translateX(calc(-50% + var(--tag-dx, 0px)));
+  text-align: center;
+  line-height: 1.15;
+  text-shadow: 0 0 6px var(--color-ground), 0 0 12px var(--color-ground);
+  transition: top var(--dur-descent) var(--ease-descent);
+}
+
+.sc-diver-g {
+  line-height: 0;
+}
+
+.sc-diver-g svg {
+  width: 0.9rem;
+  height: 1.35rem;
+}
+
+.sc-diver-name {
+  max-width: 100%;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-family: var(--font-display-caps);
+  letter-spacing: 0.06em;
+  font-size: clamp(0.72rem, 1.1vw, 1rem);
+}
+
+.sc-diver-m {
+  font-family: var(--font-log);
+  font-size: clamp(0.72rem, 1vw, 0.95rem);
+  color: var(--color-ink);
+  white-space: nowrap;
+}
+
+.sc-diver.is-deepest .sc-diver-body {
+  filter: drop-shadow(0 0 14px var(--sitter));
+}
+
+.sc-column.is-instant :is(.sc-diver-cable, .sc-diver-body, .sc-diver-tag) {
+  transition: none;
+}
+
+/* ------------------------------------------------------------ the last rites */
+
+.sc-herald {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.sc-herald-table {
+  --table-size: min(72vw, 17rem);
+  margin: var(--space-1) 0 var(--space-2);
+}
+
+.sc-herald-k {
+  font-family: var(--font-display) !important;
+  font-size: var(--step-3);
+  line-height: var(--leading-display);
+  text-shadow: var(--halo);
+}
+
+.sc-herald-name {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 0 var(--space-2);
+  font-family: var(--font-display);
+  font-size: var(--step-4);
+  line-height: 1.1;
+  text-shadow: var(--halo);
+}
+
+.sc-herald-name.is-tie {
+  font-size: var(--step-3);
+}
+
+.sc-herald-one {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25em;
+  color: var(--sitter, var(--color-ink));
+}
+
+.sc-herald-one .sc-mark {
+  font-size: 0.6em;
+}
+
+.sc-herald-and {
+  font-size: 0.6em;
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.sc-herald-name.is-nobody {
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.sc-herald-depth {
+  font-family: var(--font-log);
+  font-size: var(--step-1);
+}
+
+.sc-herald-depth .n {
+  font-size: var(--step-2);
+  color: var(--color-glow);
+}
+
+.sc-herald-depth .u {
+  color: var(--color-ink-muted);
+}
+
+.sc-herald-depth .p {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+}
+
+.sc-herald-line {
+  max-width: 26rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-end-actions {
+  grid-auto-flow: row;
+}
+
+/* the table's last rites: the Herald at the table, the circle in the water */
+.sc-table-end {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(16rem, 0.9fr);
+  gap: var(--space-6) var(--space-8);
+  align-items: stretch;
+  min-height: calc(var(--vvh, 100dvh) - 7rem);
+}
+
+.sc-te-left {
+  display: grid;
+  align-content: center;
+  gap: var(--space-5);
+}
+
+.sc-herald.is-grand .sc-herald-table {
+  --table-size: min(calc(100% - 14em), 34vh, 34rem);
+  padding-block: 2em;
+}
+
+.sc-herald.is-grand .sc-herald-k {
+  font-size: clamp(2rem, 1rem + 2.4vw, 3.5rem);
+}
+
+.sc-herald.is-grand .sc-herald-name {
+  font-size: clamp(2.4rem, 1rem + 3.4vw, 5rem);
+}
+
+.sc-herald.is-grand .sc-herald-depth {
+  font-size: var(--step-2);
+}
+
+.sc-herald.is-grand .sc-herald-line {
+  font-size: var(--step-1);
+  max-width: 34rem;
+}
+
+.sc-te-right {
+  display: grid;
+}
+
+/* ------------------------------------------------------------ pass the lantern */
+
+.sc-setup-table {
+  --table-size: min(46vw, 11.5rem);
+}
+
+.sc-lantern-list .sc-sitter {
+  grid-template-columns: 1.4rem minmax(0, 1fr) auto;
+}
+
+.sc-remove {
+  width: 48px;
+  height: 48px;
+  color: var(--color-ink-muted);
+}
+
+.sc-remove svg {
+  width: 18px;
+  height: 18px;
+}
+
+.sc-add {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: var(--space-3);
+  align-items: end;
+  margin-top: var(--space-2);
+}
+
+.sc-begin[aria-disabled='true'] {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.sc-handoff {
+  align-items: center;
+  text-align: center;
+  gap: var(--space-3);
+}
+
+.sc-handoff-table {
+  --table-size: min(74vw, 18rem);
+  --seance-glass: color-mix(in oklab, var(--color-glow) 14%, transparent);
+}
+
+.sc-handoff-to {
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  line-height: var(--leading-display);
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.sc-handoff-name {
+  color: var(--sitter);
+}
+
+.sc-iam {
+  min-width: min(100%, 18rem);
+  min-height: 64px;
+  margin-top: var(--space-2);
+  font-size: var(--step-1);
+}
+
+.sc-iam .sc-mark {
+  color: inherit;
+  font-size: 1.1rem;
+}
+
+.sc-handoff-note {
+  max-width: 24rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+.sc-turns {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+  margin: var(--space-2) 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.sc-turn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 2px 12px 2px 8px;
+  border: 1px solid var(--color-rule-soft);
+  border-radius: var(--radius-round);
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.sc-turn .sc-mark {
+  font-size: 0.8rem;
+}
+
+.sc-turn.is-done {
+  opacity: 0.55;
+  text-decoration: line-through;
+  text-decoration-color: var(--color-rule-soft);
+}
+
+.sc-turn.is-now {
+  border-color: var(--sitter);
+  color: var(--color-ink);
+  box-shadow: 0 0 12px color-mix(in oklab, var(--sitter) 30%, transparent);
+}
+
+.sc-lantern-sealed {
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-4);
+  min-height: min(68vh, 34rem);
+  text-align: center;
+}
+
+.sc-sealed-hand.is-large .sc-hand-svg {
+  width: 66px;
+  height: 120px;
+}
+
+.sc-spent {
+  line-height: 0;
+  color: var(--color-ink-muted);
+  --seance-burn: 1;
+  --seance-lit: 0;
+  --beast-body: var(--color-ground);
+}
+
+.sc-spent .sc-cdl-svg {
+  width: 66px;
+  height: 111px;
+}
+
+/* ------------------------------------------------------------ the table: a screen for the room */
+
+.seance-screen.is-table > * {
+  max-width: 120rem;
+}
+
+.seance-screen.is-table {
+  padding-inline: clamp(var(--space-4), 3vw, var(--space-8));
+}
+
+.seance-screen.is-table .sc-bar {
+  opacity: 0.55;
+  transition: opacity var(--dur-ui);
+}
+
+.seance-screen.is-table .sc-bar:is(:hover, :focus-within) {
+  opacity: 1;
+}
+
+/* a narrow or upright screen: the table's scenes stack */
+@media (max-width: 860px), (max-aspect-ratio: 1/1) {
+  .sc-table-lobby,
+  .sc-tc-body,
+  .sc-table-end {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .sc-tl-side {
+    justify-items: center;
+    text-align: center;
+  }
+
+  .sc-tr-body {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .sc-tr-right .sc-column {
+    min-height: 26rem;
+  }
+
+  .sc-tl-stage .sc-table.is-grand,
+  .sc-tc-stage .sc-table.is-grand {
+    --table-size: min(calc(100% - 13em), 52vh, 40rem);
+  }
+}
+
+@media (max-width: 560px) {
+  .sc-table.has-names {
+    font-size: 0.8rem;
+  }
+
+  .sc-tl-stage .sc-table.is-grand,
+  .sc-tc-stage .sc-table.is-grand,
+  .sc-herald.is-grand .sc-herald-table {
+    --table-size: min(calc(100% - 11em), 52vh);
+  }
+
+  .sc-tname {
+    max-width: 7.5em;
+    font-size: max(0.8rem, 3.1cqw);
+  }
+
+  .sc-tr-head {
+    grid-template-columns: minmax(0, 1fr);
+    justify-items: center;
+    text-align: center;
+  }
+}
+
+/* ------------------------------------------------------------ wider phones and tablets */
+
+@media (min-width: 560px) {
+  .sc-crest-table {
+    --table-size: 15rem;
+  }
+
+  .sc-sitter {
+    grid-template-columns: 1.4rem minmax(0, 1fr) auto auto;
+  }
+}
+
+/* ------------------------------------------------------------ short screens (a keyboard up, a phone on its side) */
+
+.short .seance-screen {
+  padding-top: 0;
+}
+
+.short .sc-bar {
+  min-height: 44px;
+  margin-bottom: 0;
+}
+
+.short .sc-crest-table,
+.short .sc-crest.is-small .sc-table,
+.short .sc-calling-table {
+  display: none;
+}
+
+.short .sc-crest .sc-title {
+  font-size: var(--step-3);
+}
+
+.short .sc-crest .sc-lede {
+  display: none;
+}
+
+.short .sc-qplate {
+  margin-top: 4px;
+}
+
+.short .sc-wick {
+  margin-top: var(--space-2);
+  padding-top: var(--space-2);
+}
+
+.short .sc-cdl:is([data-state='burning'], [data-state='out']) .sc-cdl-svg {
+  width: 24px;
+  height: 40px;
+}
+
+.short .sc-secs {
+  font-size: var(--step-2);
+}
+
+.short .sc-holder-sub {
+  display: none;
+}
+
+.short .sc-handoff-table,
+.short .sc-herald-table,
+.short .sc-lobby-table {
+  --table-size: min(44vh, 14rem);
+}
+
+.short .sc-reveal-table {
+  display: none;
+}
+
+/* ------------------------------------------------------------ reduced motion */
+
+.seance-screen.is-reduced {
+  --seance-fade: 0s;
+}
+
+.seance-screen.is-reduced *,
+.seance-screen.is-reduced *::before,
+.seance-screen.is-reduced *::after {
+  animation-duration: 1ms !important;
+  animation-iteration-count: 1 !important;
+  animation-delay: 0ms !important;
+  transition-duration: 1ms !important;
+}
+
+.seance-screen.is-reduced .question .w {
+  opacity: 1;
+  filter: none;
+  transform: none;
+  animation: none !important;
+}
+
+.seance-screen.is-reduced .sc-candles.is-low .sc-cdl[data-state='burning'] {
+  animation: none !important;
+  --seance-lit: 1;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .seance-screen {
+    --seance-fade: 0s;
+  }
+
+  .seance-screen .question .w {
+    opacity: 1;
+    filter: none;
+    transform: none;
+    animation: none !important;
+  }
+
+  .seance-screen .sc-candles.is-low .sc-cdl[data-state='burning'],
+  .seance-screen .sc-lost-dot,
+  .seance-screen .sc-notice,
+  .seance-screen .sc-voice[data-tier='6'].is-up {
+    animation: none !important;
+  }
+
+  .seance-screen :is(.sc-arriving, .sc-leaving, .sc-voice.is-up, .sc-sealed, .sc-sealed-hand, .sc-sitter, .sc-glass-t) {
+    animation-duration: 1ms !important;
+  }
+}

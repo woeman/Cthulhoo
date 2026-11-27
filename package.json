@@ -1,0 +1,19 @@
+{
+  "name": "cthulhoo",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A daily descent: one question, many answers, and the rarer your answer the deeper you sink.",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview --host",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "devDependencies": {
+    "typescript": "7.0.2",
+    "vite": "8.3.8",
+    "vitest": "5.1.0"
+  }
+}

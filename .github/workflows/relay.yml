@@ -1,0 +1,118 @@
+# Deploys the surface relay (worker/: séance rooms and cult boards) to
+# Cloudflare Workers on the free plan.
+# One-time setup, in Settings > Secrets and variables > Actions:
+#   CLOUDFLARE_API_TOKEN   a token made from the "Edit Cloudflare Workers" template
+#   CLOUDFLARE_ACCOUNT_ID  shown on the Workers & Pages page of the dashboard
+# The account also needs its free workers.dev address, which the dashboard offers
+# the first time Workers & Pages is opened. Until the secrets exist, this
+# workflow only leaves a note and stops.
+name: Deploy the relay
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'worker/**'
+      - 'src/party/**'
+      - 'src/game/matcher.ts'
+      - 'src/game/daily.ts'
+      - 'src/game/types.ts'
+      - '.github/workflows/relay.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: relay
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    env:
+      CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+      CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+    steps:
+      - name: Check for the Cloudflare secrets
+        id: secrets
+        run: |
+          if [ -n "$CLOUDFLARE_API_TOKEN" ] && [ -n "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "ready=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::The relay is not deployed yet. Add the CLOUDFLARE_API_TOKEN and CLOUDFLARE_ACCOUNT_ID secrets, then run this workflow again."
+          fi
+      # Say plainly what is missing before wrangler fails on it.
+      - name: Check the token and the workers.dev address
+        id: cf
+        if: steps.secrets.outputs.ready == 'true'
+        run: |
+          api=https://api.cloudflare.com/client/v4
+          auth="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
+          # The shape of the secrets, never their values: most mistakes show here.
+          tok="$CLOUDFLARE_API_TOKEN"
+          echo "The token secret is ${#tok} characters (an API token is 40; a Global API Key is 37)."
+          if [[ "$tok" =~ [[:space:]] ]]; then
+            echo "::warning::The CLOUDFLARE_API_TOKEN secret has a space or line break in it."
+            # Only the lengths of its parts, and which look like a token, so a paste of more than the token shows itself.
+            read -r -d '' -a parts <<< "$tok" || true
+            shape=""; like=0
+            for p in "${parts[@]}"; do
+              shape+="${#p} "
+              [[ "$p" =~ ^[A-Za-z0-9_-]{40}$ ]] && like=$((like + 1))
+            done
+            words=""
+            for w in curl Bearer Authorization verify; do [[ "$tok" == *"$w"* ]] && words+="$w "; done
+            echo "It has ${#parts[@]} parts, of lengths: $shape; parts shaped like an API token: $like; words in it: ${words:-none}"
+          fi
+          [[ "$tok" == Bearer* ]] && echo "::warning::The CLOUDFLARE_API_TOKEN secret starts with the word Bearer, which should be left out."
+          acct="$CLOUDFLARE_ACCOUNT_ID"
+          [[ "$acct" =~ ^[0-9a-f]{32}$ ]] || echo "::warning::The CLOUDFLARE_ACCOUNT_ID secret is not 32 letters and digits (0-9, a-f), as an account ID is (it is ${#acct} characters)."
+          check() {
+            code=$(curl -sS -o /tmp/cf.json -w '%{http_code}' -H "$auth" "$1" || echo 000)
+            echo "$2: HTTP $code $(jq -c '[.errors[]?.message, .messages[]?.message]' /tmp/cf.json 2> /dev/null)"
+            jq -e '.result.status == "active"' /tmp/cf.json > /dev/null 2>&1
+          }
+          # A token made on the profile page is the user's; one made under the account is the account's.
+          if ! check "$api/user/tokens/verify" "As a user token" && ! check "$api/accounts/$acct/tokens/verify" "As an account token"; then
+            echo "::error::Cloudflare does not accept the CLOUDFLARE_API_TOKEN secret. Make a new token from the \"Edit Cloudflare Workers\" template at https://dash.cloudflare.com/profile/api-tokens and paste it into the secret again."
+            exit 1
+          fi
+          body=$(curl -sS -H "$auth" "$api/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain")
+          sub=$(jq -r '.result.subdomain // empty' <<< "$body")
+          if [ -z "$sub" ]; then
+            echo "Cloudflare said: $(jq -c '[.errors[]? | {code, message}]' <<< "$body")"
+            echo "::error::This Cloudflare account has no workers.dev address yet (or the CLOUDFLARE_ACCOUNT_ID secret is not this account's ID). Open https://dash.cloudflare.com, choose Compute (Workers) > Workers & Pages, accept the free workers.dev subdomain it offers, then run this workflow again."
+            exit 1
+          fi
+          echo "sub=$sub" >> "$GITHUB_OUTPUT"
+          echo "::notice::The account's workers.dev address is $sub.workers.dev"
+      - uses: actions/checkout@v4
+        if: steps.secrets.outputs.ready == 'true'
+      - uses: actions/setup-node@v4
+        if: steps.secrets.outputs.ready == 'true'
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: worker/package-lock.json
+      - name: Install
+        if: steps.secrets.outputs.ready == 'true'
+        working-directory: worker
+        run: npm ci
+      - name: Check the types
+        if: steps.secrets.outputs.ready == 'true'
+        working-directory: worker
+        run: npx tsc --noEmit -p .
+      - name: Deploy
+        if: steps.secrets.outputs.ready == 'true'
+        working-directory: worker
+        run: npx wrangler deploy
+      - name: Say hello to it
+        if: steps.secrets.outputs.ready == 'true'
+        env:
+          SUB: ${{ steps.cf.outputs.sub }}
+        run: |
+          url="https://cthulhoo-relay.$SUB.workers.dev"
+          curl -fsS --retry 8 --retry-delay 4 --retry-all-errors "$url/health"
+          echo
+          echo "::notice::The relay is live at $url"

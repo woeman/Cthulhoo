@@ -4,3 +4,6 @@ dist/
 *.log
 .vite/
 coverage/
+__pycache__/
+worker/node_modules/
+worker/.wrangler/

@@ -1,0 +1,1271 @@
+<!doctype html>
+<html lang="en" data-zone="surface">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Cthulhoo Art Direction</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<meta name="description" content="Ink &amp; Phosphor: the look of Cthulhoo, a daily descent into the abyss. Scroll to sink from the surface to the Drowned City at 7,000 m.">
+<link rel="icon" href="../../../art/logo/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../../../art/css/fonts.css">
+<link rel="stylesheet" href="../../../art/tokens/tokens.css">
+<link rel="stylesheet" href="../../../art/css/base.css">
+<link rel="stylesheet" href="../../../art/css/components.css">
+<style>
+  /* Layout: one descending column, offset left, with the sounding line fixed at the right edge.
+     Scrolling is sinking: each leg of the page maps to a band of depth, and data-zone on <html>
+     re-themes everything through art/tokens. This block adds layout only; every colour is a token. */
+  :root {
+    --col: 46rem;
+    --gauge-w: 96px;
+    --leg-pad: clamp(4rem, 10vh, 7rem);
+  }
+  html { scroll-padding-top: 2rem; }
+  @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
+  body {
+    background: var(--color-ground);
+    color: var(--color-ink);
+    padding-left: max(16px, env(safe-area-inset-left, 0px));
+    padding-right: max(16px, env(safe-area-inset-right, 0px));
+    overflow-x: hidden;
+  }
+  #abyss {
+    position: fixed; inset: 0; z-index: 0;
+    width: 100%; height: 100%; display: block;
+    background: linear-gradient(to bottom, var(--live-fog, var(--color-fog)), var(--live-water, var(--color-water)));
+  }
+  .page { position: relative; z-index: 1; padding-right: var(--gauge-w); }
+  .leg { padding-block: var(--leg-pad); }
+  .leg__inner { position: relative; isolation: isolate; max-width: var(--col); margin-left: clamp(0rem, 7vw, 8rem); display: grid; gap: var(--space-6); }
+  .leg__inner > * { min-width: 0; }
+  .wide { max-width: 64rem; }
+  /* A clearing in the engraving behind each plate of text: the ground colour, feathered at
+     every edge, so the abyss still shows faintly through and never fights the words. */
+  :root { --veil: 80%; }
+  :root[data-zone="surface"] { --veil: 90%; }
+  .leg__inner::before {
+    --fx: clamp(1.5rem, 6vw, 6rem); --fy: var(--space-8);
+    content: ""; position: absolute; z-index: -1; pointer-events: none;
+    inset: calc(-1 * var(--fy)) calc(-1 * var(--fx));
+    background: color-mix(in oklab, var(--color-ground) var(--veil), transparent);
+    -webkit-mask: linear-gradient(to right, transparent, #000 var(--fx), #000 calc(100% - var(--fx)), transparent),
+                  linear-gradient(to bottom, transparent, #000 var(--fy), #000 calc(100% - var(--fy)), transparent);
+    -webkit-mask-composite: source-in;
+    mask: linear-gradient(to right, transparent, #000 var(--fx), #000 calc(100% - var(--fx)), transparent),
+          linear-gradient(to bottom, transparent, #000 var(--fy), #000 calc(100% - var(--fy)), transparent);
+    mask-composite: intersect;
+  }
+  /* Text that floats on open water gets a halo of the water's own colour. */
+  .halo { text-shadow: 0 0 2px var(--color-ground), 0 0 10px var(--color-ground), 0 0 24px var(--color-ground); }
+
+  /* ---------------------------------------------------------------- headings */
+  .eyebrow {
+    font: var(--step--2) / 1 var(--font-log);
+    letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--color-ink-muted);
+    display: flex; gap: var(--space-3); align-items: center; flex-wrap: wrap;
+  }
+  .eyebrow b { font-weight: 400; color: var(--color-glow); }
+  h2.title { font-size: var(--step-4); margin: 0; }
+  h2.title em { color: var(--color-glow); }
+  .lede { font-size: var(--step-1); line-height: 1.45; max-width: 36em; margin: 0; }
+  .body { max-width: 38em; margin: 0; }
+  .note { font: var(--step--1) / 1.5 var(--font-log); color: var(--color-ink-muted); margin: 0; }
+  .guess { font: var(--step--2) / 1.4 var(--font-log); color: var(--color-accent); letter-spacing: .06em; }
+
+  /* ---------------------------------------------------------------- frontispiece */
+  .front { padding-top: clamp(3rem, 9vh, 6rem); }
+  .clearing { position: relative; padding-block: clamp(0.5rem, 2vw, 1.5rem) clamp(1rem, 3vw, 2rem); }
+  .plate-no { font: var(--step--2) / 1.4 var(--font-log); letter-spacing: .2em; text-transform: uppercase; color: var(--color-ink-muted); margin: 0 0 var(--space-5); }
+  .lockup {
+    width: min(100%, 44rem); aspect-ratio: 309.2 / 112.4;
+    background: var(--color-ink);
+    -webkit-mask: url("../../../art/logo/lockup.svg") center / contain no-repeat;
+    mask: url("../../../art/logo/lockup.svg") center / contain no-repeat;
+    margin-bottom: var(--space-6);
+  }
+  .front h1 { font: italic var(--step-5) / 1 var(--font-display); margin: 0 0 var(--space-3); }
+  .front .sub { font: var(--step-1) / 1.3 var(--font-text); margin: 0 0 var(--space-5); color: var(--color-ink-muted); }
+  .cue { display: inline-flex; align-items: center; gap: var(--space-3); margin-top: var(--space-5); }
+  .cue svg { width: 22px; height: 22px; animation: cth-breathe 7s var(--ease-drift) infinite; }
+  .pillars { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr)); gap: var(--space-5); }
+  .pillars li { display: grid; grid-template-columns: 26px 1fr; gap: var(--space-3); align-items: start; }
+  .pillars svg { width: 20px; height: 32px; color: var(--color-glow); }
+  .pillars h3 { font: italic var(--step-1) / 1.2 var(--font-display); margin: 0 0 var(--space-1); }
+  .pillars p { margin: 0; font-size: var(--step--1); color: var(--color-ink-muted); }
+
+  /* ---------------------------------------------------------------- colour */
+  .strip-wrap { position: relative; }
+  #strip { width: 100%; height: 168px; display: block; border: 1px solid var(--color-rule-soft); }
+  .strip-key { display: flex; justify-content: space-between; font: var(--step--2) / 1 var(--font-log); color: var(--color-ink-muted); margin-top: var(--space-2); }
+  .zones { display: grid; grid-template-columns: repeat(auto-fit, minmax(14.5rem, 1fr)); gap: var(--space-5); }
+  .zone-card { display: grid; gap: var(--space-2); padding: var(--space-5); align-content: start; }
+  @media (min-width: 1180px) {
+    /* five plates in a row, each a step lower than the last: a descent */
+    .zones { grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--space-4); align-items: start; }
+    .zone-card { margin-top: calc(var(--i, 0) * var(--space-6)); padding: var(--space-5) var(--space-4); }
+  }
+  .zone-card h3 { font: italic var(--step-2) / 1.05 var(--font-display); margin: 0; }
+  .zone-card .range { font: var(--step--2) / 1 var(--font-log); letter-spacing: .14em; text-transform: uppercase; color: var(--color-ink-muted); }
+  .zone-card p { margin: 0; font-style: italic; color: var(--color-glow); }
+  .chips { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-top: var(--space-2); }
+  .chip { display: inline-flex; align-items: center; gap: 6px; font: var(--step--2) / 1 var(--font-log); color: var(--color-ink-muted); }
+  .chip i { width: 14px; height: 14px; border-radius: 50%; border: 1px solid var(--color-rule-soft); background: var(--c); }
+  .tier-row { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: var(--space-3); }
+  .tier-row div { display: grid; justify-items: center; gap: var(--space-2); text-align: center; font: var(--step--2) / 1.2 var(--font-display-caps); letter-spacing: .1em; text-transform: uppercase; color: var(--tc); }
+  .tier-row svg { width: 40px; height: 40px; }
+
+  /* ---------------------------------------------------------------- type */
+  .voices { display: grid; gap: var(--space-5); }
+  .voice { display: grid; grid-template-columns: minmax(8rem, 12rem) 1fr; gap: var(--space-5); align-items: baseline; padding-block: var(--space-4); border-top: 1px solid var(--color-rule-soft); }
+  .voice > * { min-width: 0; }
+  .voice dt { font: var(--step--2) / 1.4 var(--font-log); letter-spacing: .12em; text-transform: uppercase; color: var(--color-ink-muted); }
+  .voice dt b { display: block; font: var(--step-0) / 1.2 var(--font-display-caps); letter-spacing: .08em; color: var(--color-ink); margin-bottom: 4px; }
+  .voice dd { margin: 0; }
+  .tome { font: var(--step-4) / 1.05 var(--font-display); }
+  .tome i { font-size: 0.8em; color: var(--color-glow); }
+  .record { font: var(--step-2) / 1.25 var(--font-text); }
+  .logv { font: var(--step-0) / 1.6 var(--font-log); }
+  .scale { display: grid; gap: 2px; }
+  .scale div { display: grid; grid-template-columns: 4.5rem 1fr; gap: var(--space-3); align-items: baseline; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .scale code { font: var(--step--2) / 1 var(--font-log); color: var(--color-ink-muted); }
+
+  /* ---------------------------------------------------------------- chapters */
+  .chapter { min-height: 72vh; display: grid; place-items: center; padding-block: var(--leg-pad); }
+  .chapter .cth-zone-title { text-shadow: 0 0 2px var(--color-ground), 0 0 12px var(--color-ground), 0 0 30px var(--color-ground); }
+  .chapter .cth-zone-title__name { font-size: var(--step-6); }
+  .chapter .facts { font: var(--step--2) / 1 var(--font-log); letter-spacing: .14em; text-transform: uppercase; color: var(--color-ink); display: flex; gap: var(--space-4); flex-wrap: wrap; justify-content: center; }
+  .chapter .facts span + span::before { content: "·"; margin-right: var(--space-4); color: var(--color-glow); }
+
+  /* ---------------------------------------------------------------- components */
+  .demo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr)); gap: var(--space-6); align-items: start; }
+  .question-plate { display: grid; gap: var(--space-6); padding-block: var(--space-7) var(--space-6); }
+  .actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+
+  /* ---------------------------------------------------------------- rarity */
+  .seals { display: grid; grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr)); gap: var(--space-5) var(--space-3); justify-items: center; }
+  .seals .cth-seal { --size: 92px; }
+  .seals .cth-seal figcaption { letter-spacing: .14em; font-size: var(--step--2); }
+
+  /* ---------------------------------------------------------------- script */
+  .script { display: grid; grid-template-columns: repeat(auto-fill, minmax(6.5rem, 1fr)); gap: var(--space-4); }
+  .script figure { margin: 0; display: grid; justify-items: center; gap: var(--space-2); text-align: center; }
+  .script svg { width: 30px; height: 48px; color: var(--color-glow); filter: drop-shadow(0 0 6px var(--color-glow-soft)); }
+  .script figcaption { font: var(--step--2) / 1.3 var(--font-text); color: var(--color-ink-muted); }
+  .script figcaption b { display: block; font: var(--step--2) / 1.2 var(--font-log); letter-spacing: .1em; text-transform: uppercase; color: var(--color-ink); }
+  .city-name { display: flex; justify-content: center; gap: 0; color: var(--color-glow); filter: drop-shadow(0 0 10px var(--color-glow-soft)); }
+  .city-name svg { width: clamp(44px, 9vw, 72px); height: clamp(70px, 14.4vw, 115px); }
+
+  /* ---------------------------------------------------------------- creatures */
+  .bestiary { display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: var(--space-5); }
+  .beast { margin: 0; display: grid; gap: var(--space-3); align-content: start; }
+  /* Each creature is seen against a lamp: a dark shape with a thin rim of light,
+     never lit from the front. The leviathan's eye is a hole, so the lamp looks back at you. */
+  .beast .lamp {
+    position: relative; overflow: hidden;
+    display: grid; place-items: center;
+    height: var(--h, 14rem); padding: var(--space-4);
+    background:
+      radial-gradient(48% 58% at var(--lx, 50%) 52%, color-mix(in oklab, var(--color-glow) 34%, transparent), transparent 74%),
+      radial-gradient(90% 90% at 50% 50%, color-mix(in oklab, var(--color-fog) 70%, var(--color-ground)), var(--color-ground));
+    outline: 1px solid var(--color-rule-soft); outline-offset: -5px;
+    box-shadow: inset 0 0 40px var(--color-ground), 0 0 0 1px var(--color-rule-soft);
+  }
+  .beast .lamp::after {   /* film grain over the glass */
+    content: ""; position: absolute; inset: 0; pointer-events: none; opacity: .35;
+    background: url("../../../art/textures/film-grain.png") 0 0 / 256px 256px;
+    mix-blend-mode: overlay;
+  }
+  .beast .rim { width: 100%; height: 100%; display: grid; place-items: center;
+    filter: drop-shadow(0 0 1px var(--color-glow)) drop-shadow(0 0 12px var(--color-glow-soft)); }
+  .beast .sil {
+    width: 100%; height: 100%;
+    background: color-mix(in oklab, var(--color-ground) 85%, black);
+    -webkit-mask: var(--src) center / contain no-repeat; mask: var(--src) center / contain no-repeat;
+  }
+  .beast figcaption { font: var(--step--2) / 1.4 var(--font-log); color: var(--color-ink-muted); }
+  .beast figcaption b { display: block; font: italic var(--step-0) / 1.2 var(--font-display); color: var(--color-ink); letter-spacing: 0; }
+  .b-lev { grid-column: span 6; --h: clamp(12rem, 26vw, 22rem); --lx: 62%; } .b-tent { grid-column: span 3; } .b-cross { grid-column: span 3; }
+  .b-angler { grid-column: span 2; } .b-jelly { grid-column: span 2; } .b-siph { grid-column: span 1; } .b-bathy { grid-column: span 1; }
+  .skyline-plate { position: relative; height: clamp(150px, 24vw, 280px); overflow: hidden;
+    background: linear-gradient(to bottom, var(--color-ground), color-mix(in oklab, var(--color-glow) 26%, var(--color-ground)) 92%);
+    box-shadow: 0 0 0 1px var(--color-rule-soft); }
+  .skyline {
+    position: absolute; inset: 0;
+    background: color-mix(in oklab, var(--color-ground) 85%, black);
+    -webkit-mask: url("../../../art/textures/silhouettes/drowned-city.svg") left bottom / auto 100% repeat-x;
+    mask: url("../../../art/textures/silhouettes/drowned-city.svg") left bottom / auto 100% repeat-x;
+  }
+  .skyline-plate figcaption { position: absolute; left: var(--space-4); top: var(--space-3); font: var(--step--2) / 1.4 var(--font-log); color: var(--color-ink-muted); }
+  .skyline-plate figcaption b { display: block; font: italic var(--step-0) / 1.2 var(--font-display); color: var(--color-ink); }
+
+  /* ---------------------------------------------------------------- motion */
+  .rules { display: grid; gap: 0; margin: 0; }
+  .rules > div { display: grid; grid-template-columns: minmax(9rem, 14rem) 1fr; gap: var(--space-4); padding-block: var(--space-3); border-top: 1px solid var(--color-rule-soft); }
+  .rules > div > * { min-width: 0; }
+  .rules dt { font: italic var(--step-1) / 1.2 var(--font-display); }
+  .rules dd { margin: 0; color: var(--color-ink-muted); }
+  .rules code { font: var(--step--1) / 1 var(--font-log); color: var(--color-glow); }
+  .stage { display: grid; grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr)); gap: var(--space-4); }
+  .stage .cth-plate { display: grid; gap: var(--space-3); justify-items: start; padding: var(--space-5); }
+  .stage .specimen-slot { min-height: 64px; width: 100%; }
+  .stage h3 { font: italic var(--step-1) / 1 var(--font-display); margin: 0; }
+  .mad-demo { font: var(--step-3) / 1.15 var(--font-display); margin: 0; }
+  .mad-controls { display: flex; gap: var(--space-4); align-items: center; flex-wrap: wrap; font: var(--step--1) / 1 var(--font-log); color: var(--color-ink-muted); }
+  .mad-controls input { accent-color: var(--color-glow); width: min(16rem, 100%); }
+
+  /* ---------------------------------------------------------------- the Logbook */
+  .logbook { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.25fr); gap: var(--space-6) var(--space-7); align-items: start; margin-top: var(--space-6); }
+  .logbook__title { margin: 0; font: var(--step-4) / 1.05 var(--font-display); text-wrap: balance; }
+  .logbook__synopsis { margin: var(--space-3) 0 0; font: italic var(--step-1) / 1.35 var(--font-text); color: var(--color-ink-muted); text-wrap: pretty; }
+  .logbook__sigils { display: grid; grid-template-columns: repeat(5, minmax(0, 1fr)); gap: var(--space-5) var(--space-2); margin-top: var(--space-6); }
+  .logbook__sigils .cth-sigil { --size: 46px; }
+  .logbook__keep { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-2) var(--space-3); margin-top: var(--space-6); font: var(--step--1) / 1.2 var(--font-log); color: var(--color-ink-muted); }
+  .logbook__keep svg { flex: none; }
+  .logbook__keep .lantern { width: 24px; height: 24px; color: var(--color-glow); }
+  .logbook__keep .cth-ward { width: 30px; height: 30px; }
+  .logbook .note { margin-top: var(--space-5); }
+  .chart-frame { margin: 0; padding: 3px; border: 1px solid var(--color-rule); }
+  .chart { position: relative; margin: 0; height: 720px; overflow: hidden; isolation: isolate; background: var(--color-ground) url("../../../art/textures/paper-grain.png") 0 0 / 512px; background-blend-mode: multiply; }
+  .chart > svg { position: absolute; inset: 0; width: 100%; height: 100%; display: block; }
+  .chart__tick { position: absolute; left: 8px; translate: 0 -50%; font: 10px / 1 var(--font-log); letter-spacing: .04em; color: var(--color-ink-muted); white-space: nowrap; }
+  .chart__zone { position: absolute; right: 10px; font: 10.5px / 1 var(--font-display-caps); letter-spacing: var(--tracking-caps); color: var(--color-ink); white-space: nowrap; }
+  .chart__date { position: absolute; top: 10px; translate: -50% 0; font: 10px / 1 var(--font-log); letter-spacing: .08em; color: var(--color-ink-muted); white-space: nowrap; }
+  .chart__today { position: absolute; translate: 12px -80%; font: 11px / 1 var(--font-log); letter-spacing: .04em; color: var(--color-glow); white-space: nowrap; text-shadow: 0 0 8px var(--color-glow-soft); }
+  .chart .cth-milestone { position: absolute; translate: 0 -50%; gap: 4px; }
+  .chart .cth-milestone.flip { flex-direction: row-reverse; }
+  .chart .cth-milestone__mark { width: 22px; height: 22px; }
+  .chart .cth-milestone__plaque { padding: 4px 9px 5px; gap: 2px; }
+  .chart .cth-milestone__name { font-size: 12px; }
+  .chart .cth-milestone__depth { font-size: 9.5px; }
+  .chart .cth-milestone, .chart__today, .chart .lead { transition: opacity 1.2s var(--ease-surface); }
+  .chart [data-hide] { opacity: 0; }
+  @media (max-width: 760px) {
+    .logbook { grid-template-columns: minmax(0, 1fr); }
+    .logbook__sigils { gap: var(--space-4) 2px; }
+    .logbook__sigils .cth-sigil { --size: 40px; }
+    .logbook__sigils .cth-sigil figcaption { font-size: 10.5px; letter-spacing: 0.03em; }
+    .chart { height: 640px; }
+  }
+
+  /* ---------------------------------------------------------------- icons & marks */
+  .icons { display: grid; grid-template-columns: repeat(auto-fill, minmax(5.5rem, 1fr)); gap: var(--space-4); }
+  .icons figure { margin: 0; display: grid; justify-items: center; gap: var(--space-2); text-align: center; font: var(--step--2) / 1.2 var(--font-log); color: var(--color-ink-muted); }
+  .icons svg { width: 30px; height: 30px; color: var(--color-ink); }
+  .marks { display: grid; grid-template-columns: minmax(0, 2fr) minmax(0, 1fr); gap: var(--space-6); align-items: center; }
+  .marks .wordmark { aspect-ratio: 304.9 / 59.4; width: 100%; background: var(--color-ink);
+    -webkit-mask: url("../../../art/logo/wordmark.svg") center / contain no-repeat; mask: url("../../../art/logo/wordmark.svg") center / contain no-repeat;
+    filter: drop-shadow(0 0 14px var(--color-glow-soft)); }
+  .app-icons { margin: 0; display: grid; justify-items: center; gap: var(--space-5); }
+  .app-icon { width: 100%; max-width: 220px; height: auto; display: block; border-radius: 22%; box-shadow: 0 20px 50px -20px black, 0 0 0 1px var(--color-rule-soft); }
+  /* The icon where people will meet it, at its real size. */
+  .icon-uses { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(2, auto); justify-content: center; justify-items: center; align-items: end; gap: var(--space-4) var(--space-6); }
+  .icon-uses li { display: grid; justify-items: center; gap: var(--space-2); font: var(--step--2) / 1.2 var(--font-log); color: var(--color-ink-muted); }
+  .icon-uses .shape { position: relative; width: 60px; height: 60px; overflow: hidden; box-shadow: 0 10px 24px -12px black, 0 0 0 1px var(--color-rule-soft); }
+  .icon-uses .shape img { position: absolute; inset: 0; width: 100%; height: 100%; max-width: none; }
+  .icon-uses .shape--ios { border-radius: 22.4%; }
+  .icon-uses .shape--android { border-radius: 50%; }
+  .icon-uses .shape--android img { inset: -12.5%; width: 125%; height: 125%; }  /* a launcher circle keeps the middle 80 % */
+  /* Themed icons keep only the shape and paint it in the person's colours: here, the zone's. */
+  .icon-uses .shape--themed { border-radius: 50%; background: color-mix(in oklab, var(--color-glow) 16%, var(--color-ground)); }
+  .icon-uses .shape--themed .glyph { position: absolute; inset: -12.5%; background: color-mix(in oklab, var(--color-glow) 72%, white);
+    -webkit-mask: url("../../../art/logo/app-icon-monochrome.svg") center / contain no-repeat; mask: url("../../../art/logo/app-icon-monochrome.svg") center / contain no-repeat; }
+  .icon-uses .tab { display: inline-flex; align-items: center; gap: 8px; height: 34px; padding: 0 16px 0 11px; border-radius: 9px 9px 0 0; background: var(--color-plate); box-shadow: 0 0 0 1px var(--color-rule-soft); font: 13px / 1 var(--font-text); color: var(--color-ink); }
+  .icon-uses .tab img { width: 16px; height: 16px; display: block; }
+
+  /* ---------------------------------------------------------------- sound */
+  .sound { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
+  .sound th, .sound td { text-align: left; vertical-align: top; padding: var(--space-3) var(--space-3) var(--space-3) 0; border-top: 1px solid var(--color-rule-soft); }
+  .sound th { font: italic var(--step-0) / 1.2 var(--font-display); font-weight: 400; white-space: nowrap; }
+  .sound td:last-child { font-family: var(--font-log); color: var(--color-glow); white-space: nowrap; }
+  .table-scroll { overflow-x: auto; }
+
+  /* ---------------------------------------------------------------- the kit */
+  .kit { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 25rem), 1fr)); gap: 0 var(--space-6); margin: 0; }
+  .kit > div { display: grid; grid-template-columns: 9.5rem 1fr; gap: var(--space-3); padding-block: var(--space-3); border-top: 1px solid var(--color-rule-soft); }
+  .kit > div > * { min-width: 0; }
+  .kit dt code { font: var(--step--1) / 1.4 var(--font-log); color: var(--color-glow); overflow-wrap: anywhere; }
+  .kit dd { margin: 0; font-size: var(--step--1); color: var(--color-ink-muted); }
+  .kit dd code { font-family: var(--font-log); font-size: .92em; color: var(--color-ink); }
+
+  /* ---------------------------------------------------------------- the floor
+     The last two screens are left almost empty: the Eye opens behind them. */
+  .floor { position: relative; min-height: 230vh; }
+  .floor__log { list-style: none; margin: 0; padding: 0; position: absolute; inset: 0 auto 0 0; width: min(24rem, 70%); margin-left: clamp(0rem, 7vw, 8rem); }
+  .floor__log li { position: absolute; top: var(--y); font: var(--step--1) / 1.6 var(--font-log); color: var(--color-ink-muted); }
+  .floor__log time { display: block; color: var(--color-glow); letter-spacing: .1em; }
+  .floor__end { box-sizing: border-box; position: absolute; left: 0; right: 0; bottom: 0; height: 100vh; height: 100svh;
+    display: flex; flex-direction: column; justify-content: space-between; align-items: center; text-align: center;
+    padding-block: calc(env(safe-area-inset-top, 0px) + 6vh) calc(env(safe-area-inset-bottom, 0px) + 4vh); }
+  .floor__end header { display: grid; gap: var(--space-3); justify-items: center; }
+  .floor h2 { font: italic var(--step-5) / 1 var(--font-display); margin: 0; }
+  .floor__end footer { display: grid; gap: var(--space-3); justify-items: center; }
+  .floor .city-name svg { width: clamp(30px, 5vw, 44px); height: clamp(48px, 8vw, 70px); }
+  .colophon { font: var(--step--2) / 1.5 var(--font-log); color: var(--color-ink-muted); max-width: 44rem; margin: 0; }
+  .colophon a { color: var(--color-ink); }
+
+  /* ---------------------------------------------------------------- the sounding line */
+  .sounding {
+    position: fixed; z-index: 5;
+    top: calc(env(safe-area-inset-top, 0px) + 9vh); bottom: calc(env(safe-area-inset-bottom, 0px) + 9vh);
+    right: max(16px, env(safe-area-inset-right, 0px));
+    width: 84px;
+  }
+  .sounding::before {   /* the same feathered clearing as the plates, so the line reads on any water */
+    content: ""; position: absolute; inset: -3rem -1.5rem -4.5rem -3.5rem; z-index: -1; pointer-events: none;
+    background: color-mix(in oklab, var(--color-ground) var(--veil), transparent);
+    -webkit-mask: linear-gradient(to right, transparent, #000 2.5rem, #000 calc(100% - 1rem), transparent),
+                  linear-gradient(to bottom, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
+    -webkit-mask-composite: source-in;
+    mask: linear-gradient(to right, transparent, #000 2.5rem, #000 calc(100% - 1rem), transparent),
+          linear-gradient(to bottom, transparent, #000 3rem, #000 calc(100% - 3rem), transparent);
+    mask-composite: intersect;
+  }
+  .sounding .cth-gauge { width: 100%; height: 100%; min-height: 0; }
+  .sounding .cth-gauge__marks a { color: inherit; text-decoration: none; display: grid; gap: 2px; }
+  .sounding .cth-gauge__marks a:hover { color: var(--color-ink); }
+  .sounding .cth-gauge__marks span { font-size: 9px; letter-spacing: .12em; text-transform: uppercase; opacity: .8; }
+  .sounding .cth-gauge__readout { left: auto; right: calc(100% - 4px); }
+  /* the surface label sits above the line and the 200 m label below its mark, so the thin first band never collides */
+  .sounding .cth-gauge__marks li:first-child { translate: 0 -100%; }
+  .sounding .cth-gauge__marks li:nth-child(2) { translate: 0 0; }
+  .readings { position: absolute; right: 0; top: calc(100% + 1.9rem); font: 10px / 1.3 var(--font-log); color: var(--color-ink-muted); white-space: nowrap; text-align: right; }
+
+  @media (max-width: 760px) {
+    :root { --gauge-w: 46px; }
+    .leg__inner { margin-left: 0; }
+    .sounding { width: 40px; }
+    .sounding .cth-gauge__marks span, .readings { display: none; }
+    .sounding .cth-gauge__marks li { left: 22px; font-size: 9px; }
+    .sounding .cth-gauge__marks li:nth-child(n+2):nth-child(-n+3) { display: none; }
+    .voice { grid-template-columns: 1fr; gap: var(--space-2); }
+    .rules > div { grid-template-columns: 1fr; gap: var(--space-1); }
+    .marks { grid-template-columns: 1fr; }
+    .bestiary { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .b-lev, .b-tent, .b-cross { grid-column: span 2; } .b-angler, .b-jelly, .b-siph, .b-bathy { grid-column: span 1; }
+    .tier-row { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+    .kit > div { grid-template-columns: 1fr; gap: 2px; }
+    .floor__log { margin-left: 0; }
+    .beast .lamp { --h: 10rem; }
+    .b-lev { --h: 11rem; }
+    /* on a phone the readout rides at the top of the line instead of beside the bob, so it never covers text */
+    .sounding .cth-gauge__readout { top: -2.2rem; right: -12px; translate: none; font-size: 10px; padding: 1px 4px; transition: none; }
+    .sounding .cth-gauge__marks li:first-child { display: none; }
+    .sounding::before { inset: -3rem -0.75rem -1.5rem -0.75rem; }
+    .lockup { margin-bottom: var(--space-5); }
+  }
+  /* ---------------------------------------------------------------- the séance */
+  @property --seance-glass { syntax: '<color>'; inherits: true; initial-value: transparent; }
+  .seance { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: var(--space-6) var(--space-7); align-items: center; margin-top: var(--space-6); }
+  .seance__table { position: relative; margin: 0; width: 100%; max-width: 36rem; justify-self: center; container-type: inline-size;
+    --beast-body: var(--color-ground); --seance-flame: var(--color-glow);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint));
+    transition: --seance-glass 1.6s var(--ease-surface); }
+  .seance__table.is-revealed { --seance-glass: color-mix(in oklab, var(--color-glow) 30%, transparent); }
+  .seance__table > svg { display: block; width: 100%; height: auto; aspect-ratio: 1; }
+  .seance__glass { position: absolute; inset: 37.5%; display: grid; place-items: center; text-align: center; pointer-events: none; }
+  .seance__glass > * { grid-area: 1 / 1; transition: opacity 1s var(--ease-surface); }
+  .seance__code, .seance__herald { font: 3.8cqw / 1 var(--font-display-caps); letter-spacing: 0.1em; white-space: nowrap; color: var(--color-ink); }
+  .seance__glass small { display: block; margin-bottom: 0.7em; font-size: 0.42em; letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); }
+  .seance__herald { opacity: 0; color: var(--color-glow); text-shadow: var(--glow-line); }
+  .seance__table.is-revealed .seance__code { opacity: 0; }
+  .seance__table.is-revealed .seance__herald { opacity: 1; }
+  .seance__candles { display: flex; align-items: flex-end; gap: var(--space-3); margin: 0 0 var(--space-2); padding: 0; list-style: none; --seance-flame: var(--color-glow); }
+  .seance__candles svg { width: 34px; height: 57px; display: block; --beast-body: var(--color-ground);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint)); }
+  .seance__candles li[data-state="waiting"] { --seance-lit: 0; }
+  .seance__candles li[data-state="spent"] { --seance-lit: 0; --seance-burn: 1; opacity: 0.6; }
+  .seance__candle-note { margin: 0 0 var(--space-5); font: var(--step--2) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .seance__roster { list-style: none; margin: 0 0 var(--space-5); padding: 0; display: grid; gap: var(--space-2); }
+  .seance__roster li { display: grid; grid-template-columns: 14px minmax(0, 1fr) auto; align-items: center; gap: var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-rule-soft); font: var(--step-0) / 1.2 var(--font-text); }
+  .seance__roster svg { width: 14px; height: 22px; color: var(--tok, var(--color-ink)); }
+  .seance__roster small { font: var(--step--2) / 1 var(--font-log); color: var(--color-ink-muted); }
+  .seance__roster li[data-state="empty"] { color: var(--color-ink-muted); }
+  .seance__roster li[data-state="empty"] svg { color: var(--color-ink-muted); opacity: 0.5; }
+  .seance__roster li[data-state="empty"] .is-seated, .seance__roster li[data-state="seated"] .is-empty { display: none; }
+  .seance__roster li.chairs { grid-template-columns: minmax(0, 1fr); border: 0; font: var(--step--1) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .seance__vars { margin: 0 0 var(--space-5); display: grid; grid-template-columns: auto minmax(0, 1fr); gap: var(--space-2) var(--space-4); font: var(--step--1) / 1.35 var(--font-text); }
+  .seance__vars dt { font: var(--step--2) / 1.5 var(--font-log); color: var(--color-glow); }
+  .seance__vars dd { margin: 0; color: var(--color-ink-muted); }
+  .seance__vars code { font: inherit; white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { .seance__table { --seance-fade: 0s; transition: none; } .seance__glass > * { transition: none; } }
+
+  /* ---------------------------------------------------------------- the Drowned Codex */
+  .tomes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-6); align-items: start; margin-top: var(--space-6); }
+  .tomes figure { margin: 0; display: grid; gap: var(--space-3); }
+  .tomes figure:nth-child(2) { margin-top: var(--space-7); }
+  .tomes figcaption { font: var(--step--2) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .tomes .cth-tome { max-width: none; }
+
+  /* ---------------------------------------------------------------- the bestiary (specimen plates) */
+  .specimen-feature { display: grid; grid-template-columns: minmax(0, 22rem) minmax(0, 1fr); gap: var(--space-6); align-items: center; margin-top: var(--space-6); }
+  .specimen-feature svg { width: 100%; height: auto; aspect-ratio: 1; display: block; background: var(--color-plate); box-shadow: inset 0 0 0 1px var(--color-rule-soft); }
+  .specimen-feature .zone { margin: 0; font: var(--step--1) / 1.2 var(--font-display-caps); letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); }
+  .specimen-feature h3 { margin: var(--space-2) 0 var(--space-1); font: var(--step-3) / 1.05 var(--font-display); }
+  .specimen-feature .latin { margin: 0 0 var(--space-4); font: italic var(--step-0) / 1.3 var(--font-text); color: var(--color-ink-muted); }
+  .drawer { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-6) var(--space-5); margin-top: var(--space-7); }
+  .drawer__zone h3 { margin: 0 0 var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-rule); font: var(--step--1) / 1.2 var(--font-display-caps); letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); display: flex; justify-content: space-between; gap: var(--space-3); }
+  .drawer__zone h3 span { font: var(--step--2) / 1.2 var(--font-log); letter-spacing: 0; }
+  .drawer__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-3); }
+  .drawer__cell { position: relative; margin: 0; padding: 0; border: 0; display: grid; gap: var(--space-1); justify-items: stretch; text-align: center; color: var(--color-ink); background: none; font: var(--step--2) / 1.25 var(--font-log); }
+  .drawer__cell svg { grid-area: 1 / 1; width: 100%; height: auto; aspect-ratio: 1; display: block; background: var(--color-plate); box-shadow: inset 0 0 0 1px var(--color-rule-soft); }
+  .drawer__cell figcaption, .drawer__cell > span { grid-row: 2; color: var(--color-ink-muted); text-wrap: balance; }
+  .drawer__cell .drawer__sil { color: color-mix(in oklab, var(--color-ink) 16%, var(--color-plate)); }
+  .drawer__cell .drawer__plate { opacity: 0; }
+  button.drawer__cell { cursor: pointer; }
+  button.drawer__cell:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+  button.drawer__cell[aria-pressed="true"] .drawer__plate { opacity: 1; animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both; }
+  button.drawer__cell[aria-pressed="true"] .drawer__sil, button.drawer__cell[aria-pressed="true"] .is-unfound,
+  button.drawer__cell[aria-pressed="false"] .is-found { display: none; }
+  .bestiary-plates { --beast-body: var(--color-plate); --beast-glow: var(--color-glow); --beast-pupil: var(--color-accent);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow)) drop-shadow(0 0 5px var(--color-glow-soft)); }
+  @media (prefers-reduced-motion: reduce) { button.drawer__cell[aria-pressed="true"] .drawer__plate { animation: none; } }
+  @media (max-width: 760px) {
+    .seance { grid-template-columns: minmax(0, 1fr); }
+    .tomes { grid-template-columns: minmax(0, 1fr); }
+    .tomes figure:nth-child(2) { margin-top: 0; }
+    .specimen-feature { grid-template-columns: minmax(0, 1fr); }
+    .drawer { grid-template-columns: minmax(0, 1fr); gap: var(--space-5); }
+    .drawer__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--space-2); }
+    .drawer__cell { font-size: 10px; }
+  }
+</style>
+</head>
+<body>
+<canvas id="abyss" aria-hidden="true"></canvas>
+
+<nav class="sounding" aria-label="Depth">
+  <div class="cth-gauge">
+    <div class="cth-gauge__line"></div>
+    <ol class="cth-gauge__marks">
+      <li style="--at: 0"><a href="#frontispiece">0<span>Shallows</span></a></li>
+      <li style="--at: 0.02857"><a href="#gloaming">200<span>Gloaming</span></a></li>
+      <li style="--at: 0.14286"><a href="#stygian">1,000<span>Stygian</span></a></li>
+      <li style="--at: 0.57143"><a href="#cyclopean">4,000<span>Cyclopean</span></a></li>
+      <li style="--at: 0.85714"><a href="#dreaming">6,000<span>Dreaming</span></a></li>
+      <li style="--at: 1"><a href="#floor">7,000<span>The City</span></a></li>
+    </ol>
+    <div class="cth-gauge__bob" aria-hidden="true"></div>
+    <output class="cth-gauge__readout" id="readout">0&#8239;m</output>
+  </div>
+  <div class="readings" id="readings">1 atm · 15.0 °C</div>
+</nav>
+
+<main class="page">
+
+  <!-- ============================================================ 0 m · frontispiece -->
+  <section class="leg front" id="frontispiece" data-from="0" data-to="60">
+    <div class="leg__inner wide">
+      <div class="clearing">
+        <p class="plate-no">Plate I · Frontispiece · Ink &amp; Phosphor, v0.1 · 27 November 2026</p>
+        <div class="lockup" role="img" aria-label="Cthulhoo, a daily descent"></div>
+        <h1>Ink &amp; Phosphor</h1>
+        <p class="sub">The art direction for Cthulhoo, a daily descent into the abyss.</p>
+        <p class="lede">Every day the deep asks one question with many true answers. Common answers keep you near the surface; rare ones pay out more cable. The look follows you down. It begins as a copperplate engraving printed on bone paper, and as the light fails the same lines turn into the light of the things that live in the dark.</p>
+        <div class="cue note"><svg aria-hidden="true"><use href="../../../art/icons/sprite.svg#i-descend"/></svg> Scroll to descend. The page sinks to 7,000&#8239;m.</div>
+      </div>
+      <ul class="pillars" aria-label="Five rules">
+        <li><svg aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-eye"/></svg><div><h3>Ink becomes light</h3><p>Dark ink on paper at the surface; the page inverts below 200&#8239;m and every line glows.</p></div></li>
+        <li><svg aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-sounding"/></svg><div><h3>Science, then dread</h3><p>It starts as a sober 1920s oceanographic record. Horror creeps in through small errors.</p></div></li>
+        <li><svg aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-veil"/></svg><div><h3>Show less</h3><p>Never the whole creature. An eye, a limb across a border, scale implied by snow.</p></div></li>
+        <li><svg aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-coil"/></svg><div><h3>Nothing bounces</h3><p>Motion is heavy and slow, as in deep water. Idle things breathe once every seven seconds.</p></div></li>
+        <li><svg aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-spire"/></svg><div><h3>The wrong angle</h3><p>Almost-regular geometry: frames a degree off true, one spine too many, a hatch angle that should not exist.</p></div></li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- ============================================================ colour -->
+  <section class="leg" id="colour" data-from="60" data-to="140">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate II</span><b>Colour</b><span>0–7,000&#8239;m</span></div>
+      <h2 class="title">Colour follows <em>depth</em></h2>
+      <p class="body">One function, <code>paletteAt(metres)</code>, gives the water, fog, glow and accent of the sea at any depth. Colours ease through OKLCH, and between zones the chroma dips: the light dies before the next light appears. The strip below is drawn live from that function; the marker is you.</p>
+      <div class="strip-wrap">
+        <canvas id="strip" aria-label="Depth palette from 0 to 7,000 metres: water, fog, glow and accent"></canvas>
+        <div class="strip-key"><span>0&#8239;m</span><span>water · fog · glow · accent</span><span>7,000&#8239;m</span></div>
+      </div>
+      <div class="zones" id="zones"></div>
+      <div class="cth-plate">
+        <span class="cth-plate__label">The tier rule</span>
+        <p class="body" style="margin-bottom: var(--space-4)">A rarity tier shines with the glow of its zone. A tier-3 answer has the light of the Stygian Dark, wherever you are when you give it.</p>
+        <div class="tier-row" id="tier-row"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ type -->
+  <section class="leg" id="type" data-from="140" data-to="200">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate III</span><b>Type</b><span>three voices</span></div>
+      <h2 class="title">The tome, the record, the log</h2>
+      <dl class="voices">
+        <div class="voice"><dt><b>The tome</b>IM Fell English &amp; SC · titles, zones, depths</dt>
+          <dd class="tome">The Cyclopean Abyss <i>4,312 m</i></dd></div>
+        <div class="voice"><dt><b>The record</b>EB Garamond · questions, answers, body</dt>
+          <dd class="record">Name a creature that lives below a thousand metres. <i>Every true answer counts; the rarer it is, the deeper you sink.</i></dd></div>
+        <div class="voice"><dt><b>The log</b>Special Elite · the input, readings, telegrams</dt>
+          <dd class="logv">27.XI · 04:12 — DEPTH 4,312 M — 430 ATM — 2.6 °C — LAMP FAILING</dd></div>
+      </dl>
+      <div class="scale" aria-label="Type scale">
+        <div><code>step 6</code><span style="font: italic var(--step-6)/1 var(--font-display)">Dreaming</span></div>
+        <div><code>step 4</code><span style="font: var(--step-4)/1.1 var(--font-display)">The Gloaming</span></div>
+        <div><code>step 2</code><span style="font: var(--step-2)/1.2 var(--font-text)">Name a sunken ship.</span></div>
+        <div><code>step 0</code><span style="font: var(--step-0)/1.5 var(--font-text)">Body text, 16 to 17.6&#8239;px, fluid with the viewport.</span></div>
+        <div><code>step −2</code><span style="font: var(--step--2)/1.4 var(--font-log); letter-spacing: .14em">PLATE LABELS · READINGS</span></div>
+      </div>
+      <p class="note">All three are free: SIL Open Font License (IM Fell, EB Garamond) and Apache 2.0 (Special Elite). Self-hosted in <code>art/fonts</code>, so the game works offline.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ 200 m · The Gloaming -->
+  <section class="chapter" id="gloaming" data-from="200" data-to="260">
+    <div class="cth-zone-title">
+      <div class="facts"><span>Mesopelagic</span><span>200–1,000&#8239;m</span><span>lamp amber</span></div>
+      <h2 class="cth-zone-title__name">The Gloaming</h2>
+      <p class="cth-zone-title__subtitle">Where the light gives up.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ components -->
+  <section class="leg" id="components" data-from="260" data-to="700">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate IV</span><b>The instruments</b><span>components.css</span></div>
+      <h2 class="title">Questions, answers, telegrams</h2>
+      <p class="body">Every component takes its colours from the zone it is in. Scroll back up and these change with the water.</p>
+      <article class="cth-plate question-plate cth-question">
+        <span class="cth-plate__label">Descent No. 214 · Today</span>
+        <header class="cth-question__meta"><span>Twenty-seven November</span><span>Category: the living deep</span></header>
+        <h3 class="cth-question__text">Name a creature that lives below <em>a thousand metres</em>.</h3>
+        <form class="cth-field" id="answer-form" onsubmit="return false">
+          <label class="cth-field__label" for="answer">Your answer</label>
+          <input class="cth-field__input" id="answer" name="answer" autocomplete="off" placeholder="Type, and the deep will judge it…" value="Vampire squid">
+          <span class="cth-field__note">Three answers left · rarer answers sink further</span>
+        </form>
+        <div class="actions">
+          <button class="cth-btn cth-btn--lure" type="button"><svg aria-hidden="true"><use href="../../../art/icons/sprite.svg#i-descend"/></svg>Descend</button>
+          <button class="cth-btn cth-btn--ghost" type="button"><svg aria-hidden="true"><use href="../../../art/icons/sprite.svg#i-hint"/></svg>Hint</button>
+          <button class="cth-btn cth-btn--ghost cth-btn--icon" type="button" aria-label="Sound off"><svg aria-hidden="true"><use href="../../../art/icons/sprite.svg#i-sound-on"/></svg></button>
+        </div>
+      </article>
+      <div class="demo-grid">
+        <div class="cth-telegram" role="status">
+          <div class="cth-telegram__head"><span>Surface telegraph</span><span>04:12</span></div>
+          <p>Rare answer received <b>stop</b> paying out cable <b>stop</b> four hundred and twelve metres <b>stop</b> do not answer the voice <b>stop</b></p>
+        </div>
+        <div class="cth-plate">
+          <span class="cth-plate__label">Log</span>
+          <ul class="cth-log">
+            <li><time>04:02</time><span>Hatch sealed. Lamp lit.</span></li>
+            <li><time>04:07</time><span>Passed <mark>200 m</mark>. Daylight gone.</span></li>
+            <li><time>04:11</time><span>Lights outside the glass. Not ours.</span></li>
+            <li><time>04:12</time><span>Cable paid out: <mark>412 m</mark>.</span></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ the Logbook -->
+  <section class="leg" id="logbook" data-from="700" data-to="1000">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate V</span><b>The Logbook</b><span>a whole career</span></div>
+      <h2 class="title">A survey of one diver</h2>
+      <p class="body">The career page is a survey chart: paper at the top, black water below, and one cable paid out across every day you have dived. Missed days let it drift back up, a ward holds it level, and milestones are cut where it can never rise past again. The Sigils show what you know best.</p>
+      <div class="logbook">
+        <div>
+          <p class="logbook__title" data-madness>Drowned Cartographer of the Third Trench</p>
+          <p class="logbook__synopsis">It knows the names of rivers that no longer run.</p>
+          <div class="logbook__sigils" id="sigils"></div>
+          <div class="logbook__keep">
+            <svg class="lantern" viewBox="0 0 24 24" aria-hidden="true"><use href="../../../art/icons/sprite.svg#i-streak"/></svg><span>Lantern lit 9 days</span>
+            <svg class="cth-ward" data-state="held" viewBox="0 0 32 32" aria-hidden="true"><use href="../../../art/glyphs/marks-sprite.svg#ward"/></svg>
+            <svg class="cth-ward" data-state="empty" viewBox="0 0 32 32" aria-hidden="true"><use href="../../../art/glyphs/marks-sprite.svg#ward"/></svg>
+            <span>One ward held</span>
+          </div>
+          <p class="note">Sigils, wards and milestones are in components.css and marks-sprite.svg. The chart is described in docs/art/06-interface.md, under The Logbook.</p>
+        </div>
+        <div class="chart-frame"><figure class="chart" id="chart" data-zone="surface" role="img"></figure></div>
+      </div>
+      <p class="guess">A sample career. The game sets the real numbers, the scale and the milestone names.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ 1,000 m · The Stygian Dark -->
+  <section class="chapter" id="stygian" data-from="1000" data-to="1200">
+    <div class="cth-zone-title">
+      <div class="facts"><span>Bathypelagic</span><span>1,000–4,000&#8239;m</span><span>biolume cyan</span></div>
+      <h2 class="cth-zone-title__name">The Stygian Dark</h2>
+      <p class="cth-zone-title__subtitle">Lights that are not ours.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ rarity -->
+  <section class="leg" id="rarity" data-from="1200" data-to="1900">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate VI</span><b>Rarity</b><span>six tiers and a refusal</span></div>
+      <h2 class="title">Specimens, by how few people know them</h2>
+      <p class="body">Each answer is tagged like a museum specimen. Its seal is a radiolarian, the glass skeleton of deep-sea plankton, and it grows stranger with rarity: more spines, then a star, then an eye. Odd numbers only. Nothing down here is quite symmetrical.</p>
+      <ol class="cth-specimens" id="specimens" aria-label="Example answers to today's question">
+        <li class="cth-specimen" data-tier="1"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-1"/></svg><span class="cth-specimen__name">Anglerfish</span><span class="cth-specimen__tier">Commonplace</span><span class="cth-specimen__depth">+100 m</span></li>
+        <li class="cth-specimen" data-tier="2"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-2"/></svg><span class="cth-specimen__name">Gulper eel</span><span class="cth-specimen__tier">Curious</span><span class="cth-specimen__depth">+250 m</span></li>
+        <li class="cth-specimen" data-tier="3"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-3"/></svg><span class="cth-specimen__name">Vampire squid</span><span class="cth-specimen__tier">Obscure</span><span class="cth-specimen__depth">+400 m</span></li>
+        <li class="cth-specimen" data-tier="4"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-4"/></svg><span class="cth-specimen__name">Barreleye</span><span class="cth-specimen__tier">Arcane</span><span class="cth-specimen__depth">+600 m</span></li>
+        <li class="cth-specimen" data-tier="5"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-5"/></svg><span class="cth-specimen__name">Bigfin squid</span><span class="cth-specimen__tier">Forbidden</span><span class="cth-specimen__depth">+800 m</span></li>
+        <li class="cth-specimen" data-tier="6"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-6"/></svg><span class="cth-specimen__name">Pseudoliparis swirei</span><span class="cth-specimen__tier">Unspeakable</span><span class="cth-specimen__depth">+1,000 m</span></li>
+        <li class="cth-specimen" data-tier="refused"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#refused"/></svg><span class="cth-specimen__name">Kraken</span><span class="cth-specimen__tier">Refused</span><span class="cth-specimen__depth">+0 m</span></li>
+      </ol>
+      <p class="guess">Example answers. The depths are each tier's base value in the game.</p>
+      <div class="seals" id="seals"></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ the séance -->
+  <section class="leg" id="seance" data-from="1900" data-to="2600">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate VII</span><b>The Séance</b><span>party mode</span></div>
+      <h2 class="title">Twelve chairs at the table</h2>
+      <p class="body">Friends join a host with a code like DAGON-7, up to twelve of them. Each one holds a mark, one of the twelve letters of the Drowned Script round the table's edge, and when they sit, their hand is laid on the rim in their colour and their letter lights. Every question is a candle that burns down while it is asked. When it goes out, the glass lights and the answers are revealed together.</p>
+      <div class="seance">
+        <figure class="seance__table" id="seance-table">
+          <svg viewBox="0 0 240 240" role="img" aria-label="A séance table: twelve hands laid round a porthole, their fingertips on its rim, and the marks of the Drowned Script round the edge"><use href="../../../art/seance/seance-sprite.svg#seance"/></svg>
+          <div class="seance__glass" aria-live="polite">
+            <span class="seance__code"><small>The circle</small>DAGON-7</span>
+            <span class="seance__herald"><small>Herald of the Deep</small>Ilse</span>
+          </div>
+        </figure>
+        <div>
+          <ol class="seance__candles" id="seance-candles" aria-label="Five questions, one candle each"><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li></ol>
+          <p class="seance__candle-note">Five questions: one candle each, burning for as long as the question is open.</p>
+          <ol class="seance__roster" id="seance-roster" aria-label="Who has sat down"><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-tide"/></svg><span><span class="is-seated">Wren</span><span class="is-empty">An empty chair</span></span><small class="is-seated">tide, the host</small><small class="is-empty">tide</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-fang"/></svg><span><span class="is-seated">Harrow</span><span class="is-empty">An empty chair</span></span><small class="is-seated">fang</small><small class="is-empty">fang</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-anchor"/></svg><span><span class="is-seated">Ilse</span><span class="is-empty">An empty chair</span></span><small class="is-seated">anchor</small><small class="is-empty">anchor</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-talon"/></svg><span><span class="is-seated">Bram</span><span class="is-empty">An empty chair</span></span><small class="is-seated">talon</small><small class="is-empty">talon</small></li><li class="chairs">Eight chairs empty</li></ol>
+          <dl class="seance__vars">
+            <dt>--seance-hand-N</dt><dd>a sitter's colour, for the hand and mark at seat N (1 to 12, clockwise from the top; seat N is mark N − 1)</dd>
+            <dt>--seance-seat-N</dt><dd>1 for a sitter, about 0.16 for an empty chair</dd>
+            <dt>--seance-glass</dt><dd>the glass, lit at the reveal</dd>
+            <dt>--seance-burn</dt><dd>on a candle: 0 whole, 1 burnt down; <code>--seance-lit</code> puts it out</dd>
+          </dl>
+          <button class="cth-btn cth-btn--ghost" type="button" id="seance-again">Seat them again</button>
+        </div>
+      </div>
+      <p class="guess">The names and colours are samples; here the colours are the four zone glows. The game picks its own.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ script -->
+  <section class="leg" id="script" data-from="2600" data-to="3300">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate VIII</span><b>The Drowned Script</b><span>sixteen glyphs</span></div>
+      <h2 class="title">An alphabet that <em>hangs</em></h2>
+      <p class="body">An invented script whose letters hang from a waterline, the way weed and chain hang from a hull. Glyphs join along that line into words. It decorates borders, loading states and seals, and it is what the madness effect reaches for when a letter goes wrong.</p>
+      <div class="script" id="script-grid"></div>
+      <div class="cth-plate" style="display: grid; gap: var(--space-4); justify-items: center;">
+        <span class="cth-plate__label">The true name of the Drowned City</span>
+        <div class="city-name" aria-label="eye, coil, gate, sleeper">
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-eye"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-coil"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-gate"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-sleeper"/></svg>
+        </div>
+        <p class="note">eye · coil · gate · sleeper. It is never written in letters.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ riddles: the Drowned Codex -->
+  <section class="leg" id="riddles" data-from="3300" data-to="4000">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate IX</span><b>The Whispering Deep</b><span>riddles · .cth-tome</span></div>
+      <h2 class="title">A page of the Drowned Codex</h2>
+      <p class="body">One riddle a day, in verse, and five breaths to answer it. Solve it and the page is added to your Logbook: a leaf of a book that has been under water a long time, stained and foxed, with a red drop cap, a rule, and a catchword at the foot, the first word of the next page, as old printers set it. The page is paper in every zone; below the surface your lamp lights it.</p>
+      <div class="tomes">
+        <figure>
+          <article class="cth-tome" style="--tome-fox: 12% 64%">
+            <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+            <div class="cth-tome__verse"><p>Twice a day I leave the harbour,<br>twice a day I come again.<br>The moon keeps me on a leash,<br>and the drowned keep time by me.</p></div>
+            <hr class="cth-tome__rule">
+            <footer class="cth-tome__foot"><span>Five breaths left</span><span class="cth-tome__catchword">Of</span></footer>
+          </article>
+          <figcaption>The riddle. Its catchword is the first word of the page you earn.</figcaption>
+        </figure>
+        <figure>
+          <article class="cth-tome" data-state="solved" style="--tome-fox: 70% 30%">
+            <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+            <h3 class="cth-tome__title">Of the Tide That Keeps Time</h3>
+            <div class="cth-tome__text"><p>The sea rises and falls twice in a little under twenty-five hours, because the Moon drags a hill of water round the world and the Earth turns beneath it. The Sun pulls as well, more faintly. When the two pull together the tides run highest, and they are called spring tides, though they come in every season. In the Bay of Fundy the water climbs sixteen metres between low and high. The drowned are said to keep this clock exactly. Somewhere below, a door is opened and shut on the same schedule, and has been for longer than anyone has counted.</p></div>
+            <hr class="cth-tome__rule">
+            <footer class="cth-tome__foot"><span>The Whispering Deep</span><span class="cth-tome__catchword">Beneath</span></footer>
+            <p class="cth-tome__margin">Tide. One hint, 700 m.</p>
+          </article>
+          <figcaption>Solved: data-state="solved". The answer is written into the margin in a later hand.</figcaption>
+        </figure>
+      </div>
+      <p class="guess">The riddle is the example from the riddles format and the page is a sample. The game supplies both.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ 4,000 m · The Cyclopean Abyss -->
+  <section class="chapter" id="cyclopean" data-from="4000" data-to="4200">
+    <div class="cth-zone-title">
+      <div class="facts"><span>Abyssopelagic</span><span>4,000–6,000&#8239;m</span><span>eldritch green</span></div>
+      <h2 class="cth-zone-title__name" data-madness>The Cyclopean Abyss</h2>
+      <p class="cth-zone-title__subtitle">Stones cut by no human hand.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ the bestiary: specimen plates -->
+  <section class="leg" id="bestiary" data-from="4200" data-to="4700">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate X</span><b>The bestiary</b><span>24 specimen plates</span></div>
+      <h2 class="title">Four to a zone</h2>
+      <p class="body">A plate for every creature the dive can turn up, four in each zone and four in the Drowned City. Real animals are drawn whole and true, the way a naturalist would draw them; the largest, and the four of the city, are cut by the frame. Their eyes are empty rings: preserved specimens do not look back. A creature you have not met yet is only its silhouette.</p>
+      <div class="bestiary-plates">
+        <div class="specimen-feature">
+          <svg viewBox="0 0 240 240" role="img" aria-label="Black seadevil"><use href="../../../art/bestiary/bestiary-sprite.svg#b-black-seadevil"/></svg>
+          <div>
+            <p class="zone">The Stygian Dark · 1,000–4,000 m</p>
+            <h3>Black seadevil</h3>
+            <p class="latin">Melanocetus johnsonii</p>
+            <p class="note">A globe of a fish, all mouth, fishing in the dark with a light that grows on its own head. The lure is the plate's one living light: it takes --beast-glow.</p>
+          </div>
+        </div>
+        <div class="drawer" id="drawer"><section class="drawer__zone"><h3>The Shallows<span>0–200 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Lion&#x27;s mane jellyfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-lions-mane"/></svg><figcaption>Lion&#x27;s mane jellyfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Portuguese man o&#x27; war"><use href="../../../art/bestiary/bestiary-sprite.svg#b-man-o-war"/></svg><figcaption>Portuguese man o&#x27; war</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Leafy seadragon"><use href="../../../art/bestiary/bestiary-sprite.svg#b-leafy-seadragon"/></svg><figcaption>Leafy seadragon</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Ocean sunfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sunfish"/></svg><figcaption>Ocean sunfish</figcaption></figure></div></section><section class="drawer__zone"><h3>The Gloaming<span>200–1,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Barreleye"><use href="../../../art/bestiary/bestiary-sprite.svg#b-barreleye"/></svg><figcaption>Barreleye</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Vampire squid"><use href="../../../art/bestiary/bestiary-sprite.svg#b-vampire-squid"/></svg><figcaption>Vampire squid</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Hatchetfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-hatchetfish"/></svg><figcaption>Hatchetfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Giant siphonophore"><use href="../../../art/bestiary/bestiary-sprite.svg#b-siphonophore"/></svg><figcaption>Giant siphonophore</figcaption></figure></div></section><section class="drawer__zone"><h3>The Stygian Dark<span>1,000–4,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Black seadevil"><use href="../../../art/bestiary/bestiary-sprite.svg#b-black-seadevil"/></svg><figcaption>Black seadevil</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Gulper eel"><use href="../../../art/bestiary/bestiary-sprite.svg#b-gulper-eel"/></svg><figcaption>Gulper eel</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Colossal squid"><use href="../../../art/bestiary/bestiary-sprite.svg#b-colossal-squid"/></svg><figcaption>Colossal squid</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Fangtooth"><use href="../../../art/bestiary/bestiary-sprite.svg#b-fangtooth"/></svg><figcaption>Fangtooth</figcaption></figure></div></section><section class="drawer__zone"><h3>The Cyclopean Abyss<span>4,000–6,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Dumbo octopus"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dumbo-octopus"/></svg><figcaption>Dumbo octopus</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Tripod fish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-tripod-fish"/></svg><figcaption>Tripod fish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Sea pig"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sea-pig"/></svg><figcaption>Sea pig</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Xenophyophore"><use href="../../../art/bestiary/bestiary-sprite.svg#b-xenophyophore"/></svg><figcaption>Xenophyophore</figcaption></figure></div></section><section class="drawer__zone"><h3>The Dreaming Deep<span>6,000–7,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Mariana snailfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-snailfish"/></svg><figcaption>Mariana snailfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Supergiant amphipod"><use href="../../../art/bestiary/bestiary-sprite.svg#b-amphipod"/></svg><figcaption>Supergiant amphipod</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Swimming sea cucumber"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sea-cucumber"/></svg><figcaption>Swimming sea cucumber</figcaption></figure><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-deep-one-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-deep-one"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">A Deep One</span></span></button></div></section><section class="drawer__zone"><h3>The Drowned City<span>7,000 m</span></h3><div class="drawer__grid"><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-dagon-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dagon"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">Father Dagon</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-hydra-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-hydra"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">Mother Hydra</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-shoggoth-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-shoggoth"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">A shoggoth</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-dreamer-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dreamer"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">The Dreamer</span></span></button></div></section></div>
+      </div>
+      <p class="guess">The last five are shown as a player who has not found them sees them. Tap one to see its plate.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ creatures -->
+  <section class="leg" id="creatures" data-from="4700" data-to="5100">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XI</span><b>Shapes in the dark</b><span>textures/silhouettes</span></div>
+      <h2 class="title">Seen as an absence of light</h2>
+      <p class="body">Silhouettes for the abyss renderer, filled in a single colour so they can be lit, fogged or used as masks. The rule is to show less: cut them by the frame, half-hide them in murk, and never light one fully.</p>
+      <div class="bestiary">
+        <figure class="beast b-lev"><div class="lamp"><div class="rim"><div class="sil wide" style="--src: url('../../../art/textures/silhouettes/leviathan.svg'); --ar: 2.75" role="img" aria-label="A vast squid-like shape passing, arms trailing"></div></div></div><figcaption><b>Something passing</b>leviathan.svg · in the game, show a third of it at most</figcaption></figure>
+        <figure class="beast b-tent"><div class="lamp"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/tentacles-rising.svg'); --ar: 1.6" role="img" aria-label="Tentacles rising from below"></div></div></div><figcaption><b>Tentacles rising</b>tentacles-rising.svg · roots lost in fog</figcaption></figure>
+        <figure class="beast b-cross"><div class="lamp"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/tentacle-crossing.svg'); --ar: 1.89" role="img" aria-label="One limb crossing the frame"></div></div></div><figcaption><b>A limb crossing</b>tentacle-crossing.svg · far water</figcaption></figure>
+        <figure class="beast b-angler"><div class="lamp" style="--lx: 30%"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/anglerfish.svg'); --ar: 1.4" role="img" aria-label="An anglerfish"></div></div></div><figcaption><b>Anglerfish</b>anglerfish.svg · the lure is its own layer</figcaption></figure>
+        <figure class="beast b-jelly"><div class="lamp"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/jellyfish.svg'); --ar: 0.6" role="img" aria-label="A jellyfish"></div></div></div><figcaption><b>Medusa</b>jellyfish.svg</figcaption></figure>
+        <figure class="beast b-siph"><div class="lamp"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/siphonophore.svg'); --ar: 0.29" role="img" aria-label="A siphonophore"></div></div></div><figcaption><b>Siphonophore</b>one animal, many</figcaption></figure>
+        <figure class="beast b-bathy"><div class="lamp"><div class="rim"><div class="sil tall" style="--src: url('../../../art/textures/silhouettes/bathysphere.svg'); --ar: 0.8" role="img" aria-label="The bathysphere"></div></div></div><figcaption><b>Your vessel</b>bathysphere.svg</figcaption></figure>
+      </div>
+      <figure class="skyline-plate" style="margin: 0"><div class="skyline" role="img" aria-label="The Drowned City skyline: leaning monoliths, slanted tops, slit windows"></div><figcaption><b>The Drowned City</b>drowned-city.svg · tiles sideways, two depths of stone</figcaption></figure>
+    </div>
+  </section>
+
+  <!-- ============================================================ motion & madness -->
+  <section class="leg" id="motion" data-from="5100" data-to="6000">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XII</span><b>Motion &amp; madness</b><span>nothing bounces</span></div>
+      <h2 class="title">Heavy water</h2>
+      <dl class="rules">
+        <div><dt>Breathe</dt><dd>Anything idle pulses once every <code>7 s</code>, the breath of a sleeper. Never faster.</dd></div>
+        <div><dt>Ink bloom</dt><dd>New things arrive as ink dropped in water: blurred and spreading, then settling, <code>1.2 s</code>, ease <code>surface</code>.</dd></div>
+        <div><dt>Shudder</dt><dd>A refused answer shudders once and stops, damped like a hull under pressure. <code>520 ms</code>. No springs.</dd></div>
+        <div><dt>Sink</dt><dd>Things leave downward, accelerating as if pulled: ease <code>sink</code>, <code>700 ms</code>.</dd></div>
+        <div><dt>Descent</dt><dd>Depth eases like a cable paying out, <code>2.4 s</code> in and out. Marine snow rises past you while you fall.</dd></div>
+        <div><dt>Reduced motion</dt><dd>Every effect becomes a 200 ms fade, and the madness stops rewriting text.</dd></div>
+      </dl>
+      <div class="stage">
+        <div class="cth-plate"><span class="cth-plate__label">Bloom</span><h3>A new specimen</h3><div class="specimen-slot" id="bloom-slot"></div><button class="cth-btn cth-btn--ghost" type="button" id="bloom-btn">Replay</button></div>
+        <div class="cth-plate"><span class="cth-plate__label">Shudder</span><h3>The deep refuses</h3><div class="specimen-slot" id="refuse-slot"></div><button class="cth-btn cth-btn--ghost" type="button" id="refuse-btn">Answer “Kraken”</button></div>
+        <div class="cth-plate"><span class="cth-plate__label">Breathe</span><h3>A sealed answer</h3><figure class="cth-seal" data-tier="4" style="--size: 88px"><div class="cth-seal__disc"><svg aria-hidden="true" viewBox="0 0 32 32"><use href="../../../art/glyphs/tiers-sprite.svg#tier-4"/></svg></div><figcaption>Arcane</figcaption></figure></div>
+      </div>
+      <div class="cth-plate" style="display: grid; gap: var(--space-4)">
+        <span class="cth-plate__label">madness.js</span>
+        <p class="mad-demo" id="mad-demo">In his drowned house the sleeper waits, dreaming of you.</p>
+        <div class="mad-controls"><label for="mad-level">Madness</label><input id="mad-level" type="range" min="0" max="1" step="0.01" value="0.6"><output id="mad-out">0.60</output><button class="cth-btn cth-btn--ghost" type="button" id="mad-pulse">Pulse</button></div>
+        <p class="note">Rises with depth from 2,500&#8239;m. Letters briefly become look-alikes, colours split, marks crawl onto words, a glyph of the Drowned Script replaces a letter. Screen readers always get the clean text.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================ 6,000 m · The Dreaming Deep -->
+  <section class="chapter" id="dreaming" data-from="6000" data-to="6100">
+    <div class="cth-zone-title">
+      <div class="facts"><span>Hadopelagic</span><span>6,000–7,000&#8239;m</span><span>a colour out of space</span></div>
+      <h2 class="cth-zone-title__name" data-madness>The Dreaming Deep</h2>
+      <p class="cth-zone-title__subtitle">It knows you are coming.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ marks & icons -->
+  <section class="leg" id="marks" data-from="6100" data-to="6300">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XIII</span><b>Marks &amp; instruments</b><span>logo · icons</span></div>
+      <h2 class="title">Two portholes, watching</h2>
+      <p class="body">The double O of the name is a pair of riveted bathysphere portholes, and each one is an eye with a cuttlefish's W-shaped pupil. On a phone it is the app icon: two eyes in the dark.</p>
+      <div class="marks">
+        <div class="wordmark" role="img" aria-label="Cthulhoo wordmark"></div>
+        <figure class="app-icons">
+          <img class="app-icon" src="../../../art/logo/app-icon.svg" alt="App icon: two porthole eyes glowing cyan in dark water" width="512" height="512">
+          <ul class="icon-uses" aria-label="The icon in use">
+            <li><span class="shape shape--ios"><img src="../../../art/logo/app-icon.svg" alt=""></span>iOS</li>
+            <li><span class="shape shape--android"><img src="../../../art/logo/app-icon-maskable.svg" alt=""></span>Android</li>
+            <li><span class="shape shape--themed"><span class="glyph"></span></span>Android, themed</li>
+            <li><span class="tab"><img src="../../../art/logo/favicon.svg" alt="">Cthulhoo</span>Browser tab</li>
+          </ul>
+        </figure>
+      </div>
+      <div class="icons" id="icons"></div>
+    </div>
+  </section>
+
+  <!-- ============================================================ sound -->
+  <section class="leg" id="sound" data-from="6300" data-to="6480">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XIV</span><b>Sound</b><span>direction for the game's audio</span></div>
+      <h2 class="title">What the deep sounds like</h2>
+      <p class="body">One drone on D that never stops, and layers that come and go with depth. As you sink a low-pass filter closes over everything. At the floor it opens for the first time since the surface, and the choir sings a chord that sounds like an answer. It should not. No jump scares: dread is a held note, not a loud one.</p>
+      <div class="table-scroll">
+        <table class="sound">
+          <thead class="cth-sr-only"><tr><th>Zone</th><th>What you hear</th><th>Interval</th></tr></thead>
+          <tbody>
+            <tr><th>The Shallows</th><td>Wind in rigging, gulls far off, a bell buoy, water slapping the hull.</td><td>open fifth</td></tr>
+            <tr><th>The Gloaming</th><td>The hull creaks as pressure builds. Sonar pings, unanswered at first.</td><td>minor third</td></tr>
+            <tr><th>The Stygian Dark</th><td>Sub-bass drone, a choir pitched down an octave, faint clicks of living things.</td><td>tritone enters</td></tr>
+            <tr><th>The Cyclopean Abyss</th><td>Stone resonance, bowed metal, slow clusters a semitone apart.</td><td>minor second</td></tr>
+            <tr><th>The Dreaming Deep</th><td>Breathing on a seven-second cycle. A heartbeat that is not yours.</td><td>no resolution</td></tr>
+          </tbody>
+        </table>
+      </div>
+      <p class="note">UI sounds: a typewriter key for each letter, a brass dial tick per 100&#8239;m, a bell and a choir that grow stranger with rarity, a muffled low cluster for a refusal. The full brief, with instruments, intervals and pacing, is in docs/art/07-motion-and-sound.md.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ the kit -->
+  <section class="leg" id="kit" data-from="6480" data-to="6620">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XV</span><b>The kit</b><span>where everything lives</span></div>
+      <h2 class="title">Everything here is in the repository</h2>
+      <p class="body">The game builds on these files directly. Change a colour in one place and every screen follows.</p>
+      <dl class="kit">
+        <div><dt><code>art/tokens/</code></dt><dd>Colour, type, spacing and motion. Edit <code>tokens.json</code>, then rebuild <code>tokens.css</code> and <code>tokens.js</code>.</dd></div>
+        <div><dt><code>art/js/depth.js</code></dt><dd><code>paletteAt(m)</code> gives the sea's colours at any depth. <code>applyDepth(el, m)</code> re-themes a page.</dd></div>
+        <div><dt><code>art/js/madness.js</code></dt><dd><code>createMadness(el)</code> lets short text go wrong as you sink. Screen readers always get the clean text.</dd></div>
+        <div><dt><code>art/css/</code></dt><dd>Fonts, base styles and the components on this page: plates, fields, buttons, specimen tags, the sounding line, telegrams.</dd></div>
+        <div><dt><code>art/glyphs/</code></dt><dd>Six rarity seals and the refusal, plus the sixteen letters of the Drowned Script, as files and sprites.</dd></div>
+        <div><dt><code>art/icons/</code> · <code>art/logo/</code></dt><dd>Twenty-four interface icons; the wordmark, lockup, mark, app icons and favicon.</dd></div>
+        <div><dt><code>art/textures/</code></dt><dd>Paper, foxing, film grain, murk, hatching tiles, and the creature silhouettes. Every tile repeats seamlessly.</dd></div>
+        <div><dt><code>art/fonts/</code></dt><dd>IM Fell English and EB Garamond (SIL Open Font License), Special Elite (Apache 2.0). Free to ship.</dd></div>
+        <div><dt><code>docs/art/</code></dt><dd>The style bible, and this page with its concept shader in <code>showcase/</code>.</dd></div>
+      </dl>
+    </div>
+  </section>
+
+  <!-- ============================================================ 7,000 m · the floor -->
+  <section class="floor" id="floor" data-from="6620" data-to="7000">
+    <ol class="floor__log halo" aria-label="The last log entries">
+      <li style="--y: 3%"><time>6,640 m</time>The lamp gutters. The depth gauge has stopped turning.</li>
+      <li style="--y: 15%"><time>6,720 m</time>Below us the dark is the wrong shape.</li>
+      <li style="--y: 31%"><time>6,830 m</time>It is not a reef. It is a lid.</li>
+    </ol>
+    <div class="floor__end halo">
+      <header>
+        <div class="eyebrow"><span>7,000&#8239;m</span><b>The Drowned City</b></div>
+        <h2 data-madness>You have reached the floor.</h2>
+      </header>
+      <footer>
+        <div class="city-name" aria-label="The city's true name: eye, coil, gate, sleeper">
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-eye"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-coil"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-gate"/></svg>
+          <svg aria-hidden="true" viewBox="0 0 20 32"><use href="../../../art/glyphs/script-sprite.svg#g-sleeper"/></svg>
+        </div>
+        <p class="colophon">Cthulhoo · Ink &amp; Phosphor art direction, v0.1. Set in IM Fell English, EB Garamond and Special Elite. Every line, glyph and creature on this page was drawn for this game. <a href="#frontispiece">Return to the surface</a></p>
+      </footer>
+    </div>
+  </section>
+</main>
+
+<script type="module">
+  import { applyDepth, paletteAt, ZONES, TIERS, MAX_DEPTH, formatDepth, pressureAt, temperatureAt, hexToRgb } from '../../../art/js/depth.js';
+  import { createEtchingBackground } from './etching-concept.js';
+  import { createMadness, madnessForDepth } from '../../../art/js/madness.js';
+
+  const ASSET = '../../../art/';
+  const root = document.documentElement;
+  const params = new URLSearchParams(location.search);
+  const instant = params.has('instant');
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ------------------------------------------------------------ content built from the tokens */
+  const zonesEl = document.getElementById('zones');
+  const stopAt = (d) => paletteAt(d);
+  for (const z of ZONES) {
+    const p = stopAt(z.from + 1);
+    const card = document.createElement('article');
+    card.className = 'cth-plate zone-card';
+    card.dataset.zone = z.key;
+    card.style.setProperty("--i", ZONES.indexOf(z));
+    card.innerHTML = `<span class="cth-plate__label">${z.science}</span>
+      <span class="range">${z.from.toLocaleString('en-GB')}–${z.to.toLocaleString('en-GB')} m</span>
+      <h3>${z.name}</h3><p>${z.subtitle}</p>
+      <div class="chips">${[['ground', z.ui.ground], ['ink', z.ui.ink], ['glow', z.ui.glow], ['accent', z.ui.accent]]
+        .map(([n, c]) => `<span class="chip"><i style="--c:${c}"></i>${n}</span>`).join('')}</div>`;
+    zonesEl.appendChild(card);
+  }
+
+  document.getElementById('tier-row').innerHTML = TIERS.map((t) =>
+    `<div style="--tc: var(--color-tier-${t.n})"><svg aria-hidden="true" viewBox="0 0 32 32"><use href="${ASSET}glyphs/tiers-sprite.svg#tier-${t.n}"/></svg>${t.name}</div>`).join('');
+
+  document.getElementById('seals').innerHTML = TIERS.map((t) =>
+    `<figure class="cth-seal" data-tier="${t.n}"><div class="cth-seal__disc"><svg aria-hidden="true" viewBox="0 0 32 32"><use href="${ASSET}glyphs/tiers-sprite.svg#tier-${t.n}"/></svg></div><figcaption>${t.name}</figcaption></figure>`).join('') +
+    `<figure class="cth-seal" style="--tier-color: var(--color-refused)"><div class="cth-seal__disc"><svg aria-hidden="true" viewBox="0 0 32 32"><use href="${ASSET}glyphs/tiers-sprite.svg#refused"/></svg></div><figcaption>Refused</figcaption></figure>`;
+
+  const SCRIPT = [['eye', 'to see; the city'], ['coil', 'to sleep; patience'], ['gate', 'a door; to enter'], ['sleeper', 'the one who dreams'],
+    ['tide', 'to rise; to return'], ['fang', 'hunger'], ['anchor', 'to hold; to drown'], ['talon', 'to seize'], ['sounding', 'depth; to measure'],
+    ['maw', 'to speak; to devour'], ['root', 'old; before men'], ['veil', 'the sea; to hide'], ['spire', 'a tower that was not built'], ['knot', 'a bargain'],
+    ['hand', 'to reach'], ['void', 'nothing; the space between stars']];
+  document.getElementById('script-grid').innerHTML = SCRIPT.map(([k, m]) =>
+    `<figure><svg aria-hidden="true" viewBox="0 0 20 32"><use href="${ASSET}glyphs/script-sprite.svg#g-${k}"/></svg><figcaption><b>${k}</b>${m}</figcaption></figure>`).join('');
+
+  const ICONS = [['descend', 'Descend'], ['hint', 'Hint'], ['share', 'Share'], ['streak', 'Streak'], ['daily', 'Today'], ['stats', 'Soundings'],
+    ['leaderboard', 'The Roll'], ['timer', 'Timer'], ['depth', 'Depth'], ['sound-on', 'Sound'], ['sound-off', 'Silence'], ['settings', 'Settings'],
+    ['info', 'About'], ['help', 'How to play'], ['menu', 'Menu'], ['back', 'Back'], ['close', 'Close'], ['check', 'Accepted'],
+    ['career', 'Logbook'], ['drift', 'Drift'], ['ward', 'Ward'], ['riddle', 'Riddle'], ['seance', 'Séance'], ['cult', 'The Cult']];
+  document.getElementById('icons').innerHTML = ICONS.map(([k, n]) =>
+    `<figure><svg aria-hidden="true" viewBox="0 0 24 24"><use href="${ASSET}icons/sprite.svg#i-${k}"/></svg>${n}</figure>`).join('');
+
+  /* ------------------------------------------------------------ the Logbook: a career, charted */
+  const LEVELS = ['unlit', 'kindled', 'burning', 'blazing'];
+  const SIGILS = [['geography', 2], ['science', 1], ['nature', 3], ['culture', 0], ['history', 2],
+    ['myth', 3], ['food', 1], ['language', 0], ['sport', 1], ['misc', 2]];
+  document.getElementById('sigils').innerHTML = SIGILS.map(([t, l]) =>
+    `<figure class="cth-sigil" data-level="${l}"><svg class="cth-sigil__glyph" aria-hidden="true"><use href="${ASSET}glyphs/sigils-sprite.svg#sigil-${t}"/></svg>` +
+    `<figcaption>${t[0].toUpperCase() + t.slice(1)} <span>${LEVELS[l]}</span></figcaption></figure>`).join('');
+
+  const chart = document.getElementById('chart');
+  const MILESTONES = [[200, 'Below the Last Light'], [1000, 'Passed the Drowned Gate'], [4000, 'The Cyclopean Steps'], [6800, 'The Roofs of the Drowned City']];
+  const career = (() => {
+    const plan = 'PPPPPPPMMPPPPPPPPPPPPWPPPPPPPPPPMMPPPPPPP';   // P dived, M missed, W missed but a ward held
+    let d = 0, streak = 0, last = 0, seed = 11;
+    const rnd = () => (seed = (seed * 16807) % 2147483647) / 2147483647;
+    const floorOf = (m) => Math.max(0, ...MILESTONES.map(([x]) => x).filter((x) => x <= m));
+    return [{ d: 0, kind: 'start' }, ...[...plan].map((c) => {
+      if (c === 'P') { streak++; last = (55 + rnd() * 111) * (1 + Math.min(streak, 21) / 14); d += last; return { d, kind: 'dive' }; }
+      if (c === 'M') { streak = 0; d = Math.max(floorOf(d), d - last / 3); return { d, kind: 'drift' }; }   // the sea is patient: a third back, never past a milestone
+      return { d, kind: 'ward' };
+    })];
+  })();
+  const deepest = career[career.length - 1].d;
+  const passed = MILESTONES.filter(([m]) => m <= deepest), next = MILESTONES.find(([m]) => m > deepest);
+  chart.setAttribute('aria-label', `A sample career: ${formatDepth(Math.round(deepest / 10) * 10)} over ${career.length - 1} days, ` +
+    `with two drifts and one ward. ${passed.length} milestones passed; next, ${next[1]} at ${formatDepth(next[0])}.`);
+  const probe = (zone, v) => {
+    const el = document.createElement('i'); el.dataset.zone = zone; chart.appendChild(el);
+    const c = getComputedStyle(el).getPropertyValue(v).trim(); el.remove(); return c;
+  };
+  const zoneKey = (m) => (ZONES.find((z) => m < z.to) || ZONES[ZONES.length - 1]).key;
+  let reveal = reduce ? 1 : 0;   // how much of the cable has been paid out, 0..1
+  function showReveal() {
+    const r = chart.querySelector('#lb-reveal rect');
+    if (!r) return;
+    const W = chart.clientWidth, x = -10 + (W + 20) * reveal;
+    r.setAttribute('width', Math.max(0, x).toFixed(1));
+    chart.querySelectorAll('[data-x]').forEach((el) => el.toggleAttribute('data-hide', +el.dataset.x > x));
+  }
+  function drawChart() {
+    const W = chart.clientWidth, H = chart.clientHeight;
+    if (!W) return;
+    const narrow = W < 460;
+    const L = 60, R = narrow ? 58 : 76, T = 34, B = 20;
+    const yOf = (m) => T + (H - T - B) * Math.sqrt(Math.max(0, m) / 7000);   // a square-root scale gives the shallows room
+    const xOf = (i) => L + (W - L - R) * i / (career.length - 1);
+    const ink = probe('surface', '--color-ink');
+    const pts = career.map((p, i) => [xOf(i), yOf(p.d)]);
+    // the ink wash: water rising from below, with a ragged wet edge
+    let s2 = 5; const r2 = () => (s2 = (s2 * 48271) % 2147483647) / 2147483647;
+    const edge = []; for (let x = -6; x <= W + 6; x += 5) edge.push([x, yOf(165) + (r2() - 0.5) * 8 + Math.sin(x / 41) * 5]);
+    const ragged = (dy, jit) => edge.map(([x, y]) => `${x} ${(y + dy + (r2() - 0.5) * jit).toFixed(1)}`).join(' L');
+    const y0 = yOf(110);
+    const wStops = [110, 200, 340, 600, 1000, 1800, 2800, 4000, 5000, 6000, 6600, 7000]
+      .map((m) => `<stop offset="${((yOf(m) - y0) / (H - y0)).toFixed(4)}" stop-color="${paletteAt(Math.max(m, 200)).water}"/>`).join('');
+    const cStops = [[0, ink], [150, ink], [260, paletteAt(260).glow], ...[600, 1000, 2500, 4000, 5000, 6000, 7000].map((m) => [m, paletteAt(m).glow])]
+      .map(([m, c]) => `<stop offset="${(yOf(m) / H).toFixed(4)}" stop-color="${c}"/>`).join('');
+    const mStops = [[0, probe('surface', '--color-ink-muted')], [150, probe('surface', '--color-ink-muted')],
+      ...ZONES.slice(1).map((z) => [(z.from + z.to) / 2, probe(z.key, '--color-ink-muted')])]
+      .map(([m, c]) => `<stop offset="${(yOf(m) / H).toFixed(4)}" stop-color="${c}"/>`).join('');
+    const path = (from, to) => pts.slice(from, to + 1).map(([x, y], j) => `${j ? 'L' : 'M'}${x.toFixed(1)} ${y.toFixed(1)}`).join(' ');
+    // the descent is one path; each drift is a thinner dashed path over the same cable
+    let dive = '', drift = '', ticks = '', wards = '';
+    for (let i = 1; i < pts.length; i++) {
+      const [x0, ya] = pts[i - 1], [x, y] = pts[i], k = career[i].kind;
+      if (k === 'drift') drift += `M${x0.toFixed(1)} ${ya.toFixed(1)} L${x.toFixed(1)} ${y.toFixed(1)}`;
+      else dive += `${dive ? (career[i - 1].kind === 'drift' ? 'M' + x0.toFixed(1) + ' ' + ya.toFixed(1) + ' ' : '') : 'M' + x0.toFixed(1) + ' ' + ya.toFixed(1) + ' '}L${x.toFixed(1)} ${y.toFixed(1)} `;
+      if (k === 'dive') ticks += `M${(x - 2.6).toFixed(1)} ${y.toFixed(1)} H${(x + 2.6).toFixed(1)}`;
+      if (k === 'ward') wards += `<use href="${ASSET}glyphs/marks-sprite.svg#ward-spent" x="${(x - 8).toFixed(1)}" y="${(y + 4).toFixed(1)}" width="16" height="16" style="color:${paletteAt(career[i].d).glow}"/>` +
+        `<path d="M${x.toFixed(1)} ${y.toFixed(1)} V${(y + 6).toFixed(1)}" stroke="${paletteAt(career[i].d).glow}" stroke-width="0.75"/>`;
+    }
+    const crossAt = (m) => {
+      for (let i = 1; i < career.length; i++) {
+        const a = career[i - 1].d, b = career[i].d;
+        if (a < m && b >= m) return pts[i - 1][0] + (pts[i][0] - pts[i - 1][0]) * (m - a) / (b - a);
+      }
+      return null;
+    };
+    const [tx, ty] = pts[pts.length - 1];
+    const glow = paletteAt(deepest).glow;
+    let survey = '', html = '';
+    for (const [m, name] of [...passed, next]) {
+      const y = yOf(m), ahead = m === next[0], x = ahead ? tx : crossAt(m);
+      survey += `<path d="M${L - 6} ${y.toFixed(1)} H${W}" stroke="${probe(zoneKey(m + 1), '--color-rule')}"${ahead ? ' opacity="0.65"' : ''}/>`;
+      html += `<div class="cth-milestone" data-zone="${zoneKey(m + 1)}"${ahead ? ' data-state="ahead"' : ''} data-x="${(ahead ? W : x).toFixed(1)}" data-cx="${x.toFixed(1)}" style="top:${y.toFixed(1)}px">` +
+        `<svg class="cth-milestone__mark" viewBox="0 0 32 32" aria-hidden="true"><use href="${ASSET}glyphs/marks-sprite.svg#milestone"/></svg>` +
+        `<div class="cth-milestone__plaque"><span class="cth-milestone__name">${name}</span><span class="cth-milestone__depth">${formatDepth(m)}</span></div></div>`;
+    }
+    for (const m of [0, 200, 1000, 2000, 3000, 4000, 5000, 6000, 7000]) {
+      html += `<span class="chart__tick" data-zone="${zoneKey(m + 1)}" style="top:${yOf(m).toFixed(1)}px">${formatDepth(m)}</span>`;
+    }
+    for (const z of ZONES) html += `<span class="chart__zone" data-zone="${z.key}" data-limit="${Math.min(yOf(z.to), H - 4).toFixed(1)}" style="top:${(yOf(z.from) + (z.from ? 7 : 26)).toFixed(1)}px">${narrow ? z.short : z.name}</span>`;
+    for (const [i, t] of [[1, '18 OCT'], [15, '1 NOV'], [29, '15 NOV'], [41, '27 NOV']]) {
+      html += `<span class="chart__date" style="left:${xOf(i).toFixed(1)}px">${t}</span>`;
+    }
+    html += `<span class="chart__today" data-zone="${zoneKey(deepest)}" data-x="${W}" style="left:${tx.toFixed(1)}px;top:${ty.toFixed(1)}px;color:${glow}">${formatDepth(Math.round(deepest / 10) * 10)}<br>today</span>`;
+    const glowY = yOf(200);
+    chart.innerHTML = `<svg viewBox="0 0 ${W} ${H}" aria-hidden="true"><defs>
+        <linearGradient id="lb-water" gradientUnits="userSpaceOnUse" x1="0" y1="${y0}" x2="0" y2="${H}">${wStops}</linearGradient>
+        <linearGradient id="lb-cable" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="${H}">${cStops}</linearGradient>
+        <linearGradient id="lb-muted" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="${H}">${mStops}</linearGradient>
+        <filter id="lb-blur" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="4"/></filter>
+        <clipPath id="lb-deep"><rect x="0" y="${glowY}" width="${W}" height="${H - glowY}"/></clipPath>
+        <clipPath id="lb-reveal"><rect x="0" y="0" width="${W}" height="${H}"/></clipPath></defs>
+      <path d="M-6 ${H + 6} L${ragged(-10, 7)} L${W + 6} ${H + 6} Z" fill="url(#lb-water)" opacity="0.3"/>
+      <path d="M-6 ${H + 6} L${ragged(0, 3)} L${W + 6} ${H + 6} Z" fill="url(#lb-water)"/>
+      <g fill="none" stroke-width="1" stroke-dasharray="1 4">${survey}</g>
+      <g clip-path="url(#lb-reveal)">
+        <g clip-path="url(#lb-deep)" fill="none" stroke="url(#lb-cable)" stroke-width="5" opacity="0.55" filter="url(#lb-blur)"><path d="${dive}"/></g>
+        <path d="${dive}" fill="none" stroke="url(#lb-cable)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="${drift}" fill="none" stroke="url(#lb-muted)" stroke-width="1.25" stroke-dasharray="2 3"/>
+        <path d="${ticks}" fill="none" stroke="url(#lb-cable)" stroke-width="1" opacity="0.8"/>
+        <g fill="none">${wards}</g>
+      </g>
+      <path class="lead" data-x="${W}" d="M${(tx - 2).toFixed(1)} ${(ty - 1).toFixed(1)} h4 l1.6 10.5 q-3.6 2.4 -7.2 0 Z" fill="${glow}" style="filter: drop-shadow(0 0 5px ${glow})"/>
+    </svg>${html}`;
+    placeLabels(W);
+    showReveal();
+  }
+  // Each plaque goes on whichever side of its benchmark has room (wrapping if neither does),
+  // then the zone names step down out of the way of the plaques and the readout.
+  function placeLabels(W) {
+    const L = 60, box = chart.getBoundingClientRect();
+    const rel = (el) => { const r = el.getBoundingClientRect(); return { l: r.left - box.left, r: r.right - box.left, t: r.top - box.top, b: r.bottom - box.top }; };
+    const blocks = [];
+    chart.querySelectorAll('.cth-milestone').forEach((el) => {
+      const x = +el.dataset.cx, w = el.offsetWidth;
+      const roomR = W - 6 - (x - 11), roomL = x + 11 - (L - 4);
+      const left = (x > W * 0.5 && roomL >= w) || (roomR < w && roomL > roomR);
+      el.classList.toggle('flip', left);
+      el.style.maxWidth = `${Math.floor(left ? roomL : roomR)}px`;
+      if (left) el.style.right = `${(W - x - 11).toFixed(1)}px`; else el.style.left = `${(x - 11).toFixed(1)}px`;
+      blocks.push(rel(el));
+    });
+    chart.querySelectorAll('.chart__today').forEach((el) => blocks.push(rel(el)));
+    chart.querySelectorAll('.chart__zone').forEach((el) => {
+      const limit = +el.dataset.limit;
+      const hitAt = () => { const r = rel(el); return [r, blocks.find((b) => r.l < b.r + 4 && r.r > b.l - 4 && r.t < b.b + 2 && r.b > b.t - 2)]; };
+      for (let pass = 0; pass < 4; pass++) {
+        const [r, hit] = hitAt();
+        if (!hit) return;
+        if (hit.b + 3 + (r.b - r.t) <= limit) { el.style.top = `${(hit.b + 3).toFixed(1)}px`; continue; }   // step down below it
+        const right = W - hit.l + 8;                                                                       // or sit to its left
+        if (W - right - (r.r - r.l) >= L + 4) { el.style.right = `${right.toFixed(1)}px`; continue; }
+        break;
+      }
+      if (hitAt()[1]) el.hidden = true;   // nowhere clear: the plaque beside it already says where you are
+    });
+  }
+  drawChart();
+  new ResizeObserver(() => drawChart()).observe(chart);
+  // the cable pays itself out once, the first time the chart comes into view; reduced motion shows it drawn
+  if (!reduce) {
+    const io = new IntersectionObserver(([e]) => {
+      if (!e.isIntersecting) return;
+      io.disconnect();
+      const t0 = performance.now(), dur = 2400;
+      const step = (now) => {
+        const t = Math.min(1, (now - t0) / dur);
+        reveal = 1 - Math.pow(1 - t, 2);
+        showReveal();
+        if (t < 1) requestAnimationFrame(step);
+      };
+      requestAnimationFrame(step);
+    }, { threshold: 0.3 });
+    io.observe(chart);
+  }
+
+  /* ------------------------------------------------------------ the séance: the circle fills, a candle burns, the glass lights */
+  const table = document.getElementById('seance-table');
+  const rosterRows = [...document.querySelectorAll('#seance-roster li[data-state]')];
+  const candleRows = [...document.querySelectorAll('#seance-candles li')];
+  const TOKENS = ['#58d3ea', '#f0b562', '#b6ec66', '#ff69d3'];           // samples: the four zone glows
+  let seanceTimers = [], burnFrame = 0;
+  function seat(n) {
+    for (let k = 1; k <= 12; k++) {
+      table.style.setProperty(`--seance-seat-${k}`, k <= n ? 1 : 0.16);
+      if (TOKENS[k - 1]) table.style.setProperty(`--seance-hand-${k}`, TOKENS[k - 1]);
+    }
+    rosterRows.forEach((li, i) => { li.dataset.state = i < n ? 'seated' : 'empty'; li.style.setProperty('--tok', TOKENS[i]); });
+  }
+  function candles(spent, burning = -1, burn = 0) {
+    candleRows.forEach((li, i) => {
+      li.dataset.state = i < spent ? 'spent' : i === burning ? 'burning' : 'waiting';
+      li.style.setProperty('--seance-burn', i === burning ? burn : '');
+    });
+  }
+  function burnDown(i, ms, done) {
+    const t0 = performance.now();
+    const step = (now) => {
+      const t = Math.min(1, (now - t0) / ms);
+      candles(i, i, t);
+      if (t < 1) burnFrame = requestAnimationFrame(step); else done();
+    };
+    burnFrame = requestAnimationFrame(step);
+  }
+  function playSeance() {
+    seanceTimers.forEach(clearTimeout);
+    seanceTimers = [];
+    cancelAnimationFrame(burnFrame);
+    table.classList.remove('is-revealed');
+    if (reduce) { seat(4); candles(1); table.classList.add('is-revealed'); return; }
+    seat(0);
+    candles(0);
+    for (let n = 1; n <= 4; n++) seanceTimers.push(setTimeout(() => seat(n), 300 + n * 800));
+    seanceTimers.push(setTimeout(() => burnDown(0, 4200, () => { candles(1); table.classList.add('is-revealed'); }), 300 + 5 * 800));
+  }
+  seat(4);
+  candles(1);
+  table.classList.add('is-revealed');
+  const sio = new IntersectionObserver(([e]) => { if (e.isIntersecting) { sio.disconnect(); playSeance(); } }, { threshold: 0.45 });
+  sio.observe(table);
+  document.getElementById('seance-again').addEventListener('click', playSeance);
+
+  /* ------------------------------------------------------------ the bestiary: unfound plates show on a tap */
+  for (const b of document.querySelectorAll('button.drawer__cell')) {
+    b.addEventListener('click', () => {
+      const on = b.getAttribute('aria-pressed') !== 'true';
+      b.setAttribute('aria-pressed', on);
+      b.setAttribute('aria-label', on ? b.querySelector('.is-found').textContent : 'Not yet found: show the plate');
+    });
+  }
+
+  /* ------------------------------------------------------------ the abyss behind the page */
+  let bg = null;
+  try { bg = createEtchingBackground(document.getElementById('abyss'), { depth: 0, maxScale: 1.25 }); } catch (e) { console.warn('WebGL unavailable, using the CSS fallback.', e); }
+
+  /* ------------------------------------------------------------ depth strip */
+  const strip = document.getElementById('strip');
+  const sctx = strip.getContext('2d');
+  let stripImage = null;
+  function drawStrip() {
+    const dpr = Math.min(2, devicePixelRatio || 1);
+    const W = Math.round(strip.clientWidth * dpr), H = Math.round(strip.clientHeight * dpr);
+    if (!W || !H) return;
+    strip.width = W; strip.height = H;
+    const img = sctx.createImageData(W, H);
+    const keys = ['water', 'fog', 'glow', 'accent'];
+    const band = H / 4;
+    for (let x = 0; x < W; x++) {
+      const p = paletteAt((x / (W - 1)) * MAX_DEPTH);
+      keys.forEach((k, i) => {
+        const [r, g, b] = p.rgb[k];
+        for (let y = Math.round(i * band); y < Math.round((i + 1) * band) - (i < 3 ? dpr : 0); y++) {
+          const o = (y * W + x) * 4;
+          img.data[o] = r * 255; img.data[o + 1] = g * 255; img.data[o + 2] = b * 255; img.data[o + 3] = 255;
+        }
+      });
+    }
+    stripImage = img;
+    paintStrip();
+  }
+  function paintStrip() {
+    if (!stripImage) return;
+    const W = strip.width, H = strip.height, dpr = W / strip.clientWidth;
+    sctx.putImageData(stripImage, 0, 0);
+    const ink = getComputedStyle(root).getPropertyValue('--color-ink').trim() || '#000';
+    sctx.font = `${10 * dpr}px "Special Elite", monospace`;
+    let labelEnd = 0;
+    for (const z of ZONES) {
+      const x = (z.from / MAX_DEPTH) * W;
+      sctx.fillStyle = 'rgba(0,0,0,.55)'; sctx.fillRect(x, 0, dpr, H);
+      sctx.fillStyle = 'rgba(255,255,255,.85)';
+      const tw = sctx.measureText(z.short).width;
+      if (z.from > 0 && x + 4 * dpr > labelEnd && x + 4 * dpr + tw < W) { sctx.fillText(z.short, x + 4 * dpr, 12 * dpr); labelEnd = x + 10 * dpr + tw; }
+    }
+    const mx = (current / MAX_DEPTH) * W;
+    sctx.fillStyle = ink; sctx.fillRect(mx - dpr, 0, 2 * dpr, H);
+    sctx.beginPath(); sctx.arc(mx, H / 2, 5 * dpr, 0, Math.PI * 2); sctx.fill();
+  }
+
+  /* ------------------------------------------------------------ madness */
+  const mads = [...document.querySelectorAll('[data-madness]')].map((el) => createMadness(el));
+  const demo = createMadness(document.getElementById('mad-demo'), { level: 0.6 });
+  const madLevel = document.getElementById('mad-level'), madOut = document.getElementById('mad-out');
+  madLevel.addEventListener('input', () => { demo.set(+madLevel.value); madOut.textContent = (+madLevel.value).toFixed(2); });
+  document.getElementById('mad-pulse').addEventListener('click', () => demo.pulse());
+
+  /* ------------------------------------------------------------ motion demos */
+  const specimen = (tier, name, tierName, depth, sprite) =>
+    `<div class="cth-specimen" data-tier="${tier}"><svg class="cth-specimen__seal" aria-hidden="true"><use href="${ASSET}glyphs/tiers-sprite.svg#${sprite}"/></svg><span class="cth-specimen__name">${name}</span><span class="cth-specimen__tier">${tierName}</span><span class="cth-specimen__depth">${depth}</span></div>`;
+  const bloomSlot = document.getElementById('bloom-slot'), refuseSlot = document.getElementById('refuse-slot');
+  const bloom = () => { bloomSlot.innerHTML = specimen(5, 'Bigfin squid', 'Forbidden', '+800 m', 'tier-5'); };
+  const refuse = () => { refuseSlot.innerHTML = specimen('refused', 'Kraken', 'Refused', '+0 m', 'refused'); demo.pulse(0.8); };
+  bloom(); refuse();
+  document.getElementById('bloom-btn').addEventListener('click', bloom);
+  document.getElementById('refuse-btn').addEventListener('click', refuse);
+
+  /* ------------------------------------------------------------ scrolling is sinking */
+  const legs = [...document.querySelectorAll('[data-from]')];
+  const readout = document.getElementById('readout'), readings = document.getElementById('readings');
+  let current = -1;
+  /* Depth is a piecewise-linear function of scroll position. Each leg contributes two anchors:
+     its top crossing the middle of the screen (data-from) and its bottom doing the same (data-to).
+     Anchors are clamped to the real scroll range, so the top of the page is exactly 0 m and the
+     very bottom is exactly 7,000 m, whatever the window size. */
+  let anchors = [];
+  function measure() {
+    const vh = innerHeight, max = Math.max(0, document.documentElement.scrollHeight - vh);
+    anchors = [];
+    for (const s of legs) {
+      const top = s.getBoundingClientRect().top + scrollY, h = s.offsetHeight;
+      anchors.push([Math.min(max, Math.max(0, top - vh * 0.5)), +s.dataset.from]);
+      anchors.push([Math.min(max, Math.max(0, top + h - vh * 0.5)), +s.dataset.to]);
+    }
+    if (anchors.length) { anchors[0][0] = 0; anchors[anchors.length - 1][0] = max; }
+  }
+  function depthForScroll() {
+    const y = scrollY;
+    if (!anchors.length || y <= anchors[0][0]) return anchors.length ? anchors[0][1] : 0;
+    for (let i = 1; i < anchors.length; i++) {
+      const [y1, d1] = anchors[i];
+      if (y <= y1) {
+        const [y0, d0] = anchors[i - 1];
+        return y1 - y0 < 1 ? d1 : d0 + ((d1 - d0) * (y - y0)) / (y1 - y0);
+      }
+    }
+    return anchors[anchors.length - 1][1];
+  }
+  function update(force) {
+    const m = Math.max(0, Math.min(MAX_DEPTH, depthForScroll()));
+    if (!force && Math.abs(m - current) < 0.5) return;
+    current = m;
+    applyDepth(root, m);
+    if (bg) bg.setDepth(m, { instant: instant || reduce });
+    readout.textContent = formatDepth(m);
+    readings.textContent = `${Math.round(pressureAt(m))} atm · ${temperatureAt(m).toFixed(1)} °C`;
+    const lvl = madnessForDepth(m);
+    mads.forEach((x) => x.set(lvl));
+    paintStrip();
+  }
+  let ticking = false;
+  addEventListener('scroll', () => { if (!ticking) { ticking = true; requestAnimationFrame(() => { ticking = false; update(); }); } }, { passive: true });
+  addEventListener('resize', () => { measure(); drawStrip(); update(true); });
+  document.fonts?.ready.then(() => { measure(); drawStrip(); update(true); });
+  new ResizeObserver(() => { measure(); update(true); }).observe(document.querySelector('.page'));
+  measure();
+  drawStrip();
+  update(true);
+  window.__showcase = { mads, demo, bg };   // handy for screenshots and for poking at in the console
+  window.__ready = true;
+</script>
+</body>
+</html>

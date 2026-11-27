@@ -1,0 +1,136 @@
+{
+  "riddles": [
+    {
+      "id": "rust",
+      "verse": [
+        "I take the anchor one link at a time,",
+        "and the hull plate by plate, in no hurry.",
+        "The sea brings me salt, the air brings me breath.",
+        "Every old wreck wears my coat of red."
+      ],
+      "answers": [
+        { "answer": "Rust", "aliases": ["Corrosion", "Iron oxide", "Oxidation"] }
+      ],
+      "hints": [
+        "Iron fears me more than fire, and paint is its only armour.",
+        "Leave a nail out in the rain, and I will come for it by morning.",
+        "I am the flaking orange skin that grows on old ships and chains."
+      ],
+      "traps": [
+        { "answer": "Salt", "aliases": ["Sea salt"], "reason": "Salt only hurries me along. It is not me." },
+        { "answer": "Barnacles", "aliases": ["Barnacle"], "reason": "Barnacles cling to the iron. I eat it." },
+        { "answer": "Time", "reason": "Time is slower than I am. Ask any wreck." }
+      ],
+      "page": {
+        "title": "Of the Red Hunger",
+        "text": "Rust is iron that has married water and air. Left alone, the marriage never ends: the metal flakes away, layer by layer, until nothing of it is left. Salt water hurries the work. On the wreck of the Titanic, rust hangs in long red icicles that the explorers who found her named rusticles. They are alive, in their way. Microbes inside them feed on the iron of the hull, and in 2010 one of them was named for the ship it is eating. The liner is slowly becoming a stain on the sea floor."
+      }
+    },
+    {
+      "id": "pressure",
+      "verse": [
+        "I lay no hand on you, and still I squeeze.",
+        "Ten metres down, I have doubled my grip.",
+        "The whale was made to bear me. You were not.",
+        "At the floor I fold steel like wet paper."
+      ],
+      "answers": [
+        { "answer": "Pressure", "aliases": ["Water pressure", "Hydrostatic pressure", "The weight of the water", "Weight of water"] }
+      ],
+      "hints": [
+        "Divers feel me first in their ears.",
+        "Submarines are built round, like eggs, so they can bear me.",
+        "Measure me in atmospheres: one at the surface, more than a thousand in the deepest trench."
+      ],
+      "traps": [
+        { "answer": "Gravity", "reason": "Gravity pulls you down. I press on you from every side." },
+        { "answer": "Cold", "aliases": ["The cold"], "reason": "The cold keeps me company down there. It does not squeeze." },
+        { "answer": "Depth", "aliases": ["The deep"], "reason": "Depth is where I live. Name what it does to you." }
+      ],
+      "page": {
+        "title": "Of the Weight Above",
+        "text": "At the surface, air presses on everything with a weight we call one atmosphere. Sea water is far heavier, and every ten metres of it adds another. At four thousand metres a body carries four hundred atmospheres. The fish there bear it easily, because their bodies hold almost no air, and water can hardly be squeezed. Air can. A diver who rises too fast learns what it does to the gas in the blood. In the deepest trench the sea presses down with more than a thousand atmospheres, and waits."
+      }
+    },
+    {
+      "id": "driftwood",
+      "verse": [
+        "I grew up green with my feet in the hills.",
+        "A river stole me and the sea kept me.",
+        "Now I am grey and smooth as an old bone,",
+        "and I sleep on whatever beach the tide picks."
+      ],
+      "answers": [
+        { "answer": "Driftwood", "aliases": ["Drift log", "Sea wood"] }
+      ],
+      "hints": [
+        "Birds nested in me before the river came for me.",
+        "Beachcombers burn me, and the salt in me turns the flames strange colours.",
+        "I am a branch or a trunk, carried off by the water and left on the shore."
+      ],
+      "traps": [
+        { "answer": "Log", "aliases": ["A log"], "reason": "Close. A log the sea has carried earns a better name." },
+        { "answer": "Bone", "aliases": ["Bones"], "reason": "I am as pale as a bone, but I grew from a seed." },
+        { "answer": "Tree", "reason": "I was a tree once. Name what the sea made of me." },
+        { "answer": "Shipwreck", "aliases": ["Wreck", "Wreckage"], "reason": "No one built me. A storm brought me." }
+      ],
+      "page": {
+        "title": "Of the Wood the Sea Returns",
+        "text": "In the far north, where no trees grow, wood came from the sea. It began in the forests of Siberia. Rivers carried fallen trunks down to the Arctic Ocean, the ice locked them in, and the slow drift of the pack ice bore them across the top of the world. Years later they came ashore in Greenland and Iceland, grey and stripped of bark. People built houses, boats and tools from them. Whole settlements stood on trees that had crossed an ocean to reach them."
+      }
+    },
+    {
+      "id": "ammonite",
+      "verse": [
+        "Once I swam, coiled like a ram's horn.",
+        "Now I lie folded in a cliff.",
+        "The sea that fed me went away,",
+        "and stone grew in where I had been."
+      ],
+      "answers": [
+        { "answer": "Fossil", "aliases": ["Fossils", "Fossil shell", "Fossilised shell", "Fossilized shell"] },
+        { "answer": "Ammonite", "aliases": ["Ammonites", "Ammonoid"] }
+      ],
+      "hints": [
+        "Storms open the cliffs where I sleep, and collectors wait for them.",
+        "Split the right stone with a hammer and you will find me inside, curled tight.",
+        "I am the stony shape of a sea creature whose kind died out with the dinosaurs."
+      ],
+      "traps": [
+        { "answer": "Nautilus", "reason": "The nautilus is my cousin, and it still swims. I do not." },
+        { "answer": "Shell", "aliases": ["Seashell", "Sea shell"], "reason": "A shell is what I was. Name what I am now." },
+        { "answer": "Stone", "aliases": ["Rock"], "reason": "Stone is my coffin, not my name." },
+        { "answer": "Snail", "reason": "A snail never swam the open sea." }
+      ],
+      "page": {
+        "title": "Of the Coiled Dead",
+        "text": "Ammonites filled the seas for more than three hundred million years, and died out with the dinosaurs. They were kin to the octopus and the squid, and lived in coiled shells whose chambers they filled with gas to rise and sink. When they died, mud covered them, and minerals slowly took the place of their shells. On the coast at Whitby, people once carved snakes' heads onto them and sold them as serpents turned to stone. The cliffs there still give them up after every storm."
+      }
+    },
+    {
+      "id": "radar",
+      "verse": [
+        "Spell me forwards or spell me back,",
+        "I am the same word either way.",
+        "I throw a call no ear can hear into the fog,",
+        "and wait for the fog to throw it back."
+      ],
+      "answers": [{ "answer": "Radar" }],
+      "hints": [
+        "My name was made from the first letters of other words.",
+        "On a ship's bridge, a line of light sweeps round and round my dark face.",
+        "I find ships in fog with radio waves, and my name reads the same both ways."
+      ],
+      "traps": [
+        { "answer": "Sonar", "reason": "Sonar listens with sound, under the water, and reads differently backwards." },
+        { "answer": "Echo", "aliases": ["An echo"], "reason": "An echo is what I wait for, not what I am." },
+        { "answer": "Level", "aliases": ["Kayak", "Rotor", "Civic", "Refer"], "reason": "That word reads both ways too, but it cannot see through fog." }
+      ],
+      "exact": true,
+      "page": {
+        "title": "Of the Eye That Sees in Fog",
+        "text": "The word was made in 1940 from the first letters of radio detection and ranging, and it reads the same in either direction, like an echo coming home. It sends out pulses of radio waves and listens for them to return from whatever they strike. Fog, night and smoke do not stop it. Before it, ships in fog crept along and called to each other with bells and horns. Now they watch a line of light sweep round a dark screen, and the things around them glow there as small green ghosts."
+      }
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en-GB" data-zone="surface">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content" />
+    <title>Cthulhoo</title>
+    <meta name="description" content="A daily descent. Seven questions rise from the deep, each with many true answers. The rarer your answer, the deeper you sink." />
+    <meta name="theme-color" content="#e7ddc6" />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="icon" href="./icons/icon.svg" type="image/svg+xml" />
+    <link rel="icon" href="./icons/favicon-32.png" sizes="32x32" type="image/png" />
+    <link rel="apple-touch-icon" href="./icons/apple-touch-icon.png" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Cthulhoo" />
+    <meta property="og:title" content="Cthulhoo" />
+    <meta property="og:description" content="How deep does your knowledge go? A daily descent into the drowned city." />
+    <meta property="og:type" content="website" />
+    <style>
+      /* First paint, before the stylesheet arrives: bone paper, no flash of white. */
+      html { background: #e7ddc6; }
+      body { margin: 0; min-height: 100dvh; background: #e7ddc6; }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <noscript><p style="font: 18px Georgia, serif; padding: 24px">Cthulhoo needs JavaScript to descend.</p></noscript>
+    <script type="module" src="./src/main.ts"></script>
+  </body>
+</html>
