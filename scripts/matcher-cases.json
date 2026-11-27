@@ -1,0 +1,200 @@
+{
+  "about": "Shared test cases for judging typed answers. The reference matcher (scripts/lib/matcher.mjs) and the game's own matcher must both pass every case. Each case names a test prompt below, an input, and the expected result: accepted (with the answer shown), trap (with the trap's answer), decoy, ambiguous (with the tied answers), unknown or empty. Run: node scripts/check-matcher.mjs. The rules are in docs/content.md.",
+  "prompts": {
+    "places": {
+      "id": "test-places",
+      "text": "Name a place.",
+      "category": "geography",
+      "answers": [
+        { "answer": "Saint Lucia", "tier": 3 },
+        { "answer": "Mount Everest", "tier": 1 },
+        { "answer": "Fort William", "tier": 4 },
+        { "answer": "New Zealand", "tier": 1 },
+        { "answer": "Zambia", "tier": 2 },
+        { "answer": "Côte d'Ivoire", "aliases": ["Ivory Coast"], "tier": 2 },
+        { "answer": "Großglockner", "tier": 5 },
+        { "answer": "Faroe Islands", "aliases": "Føroyar", "tier": 4 },
+        { "answer": "Trinidad & Tobago", "tier": 3 },
+        { "answer": "Area 51", "aliases": [51], "tier": 5 }
+      ],
+      "traps": [
+        { "answer": "Gambia", "aliases": "Republic of the Gambia", "reason": "It has a coast." }
+      ],
+      "decoys": "Australia"
+    },
+    "monarchs": {
+      "id": "test-monarchs",
+      "text": "Name a monarch.",
+      "category": "history",
+      "answers": [
+        { "answer": "Henry VIII", "tier": 1 },
+        { "answer": "Henry VII", "tier": 3 },
+        { "answer": "Henry IV", "tier": 3 },
+        { "answer": "Elizabeth II", "tier": 1 },
+        { "answer": "George V", "tier": 2 },
+        { "answer": "Louis XIV", "tier": 2 },
+        { "answer": "John XXIII", "tier": 4 },
+        { "answer": "Richard I", "aliases": ["Richard the Lionheart"], "tier": 2 }
+      ],
+      "traps": [
+        { "answer": "Henry IX", "reason": "There was never a Henry IX." },
+        { "answer": "Henry", "reason": "Which Henry? There were eight." }
+      ]
+    },
+    "titles": {
+      "id": "test-titles",
+      "text": "Name a title.",
+      "category": "culture",
+      "answers": [
+        { "answer": "Nineteen Eighty-Four", "tier": 2 },
+        { "answer": "Catch-22", "tier": 2 },
+        { "answer": "101 Dalmatians", "tier": 1 },
+        { "answer": "2001: A Space Odyssey", "tier": 2 },
+        { "answer": "Apollo 13", "tier": 3 },
+        { "answer": "Ocean's Eleven", "tier": 2 },
+        { "answer": "Fahrenheit 451", "tier": 3 },
+        { "answer": "Dr. No", "tier": 1 },
+        { "answer": "Doctor Zhivago", "tier": 2 },
+        { "answer": "C", "tier": 1 },
+        { "answer": "C++", "tier": 2 },
+        { "answer": "C#", "tier": 2 },
+        { "answer": "If I Fell", "tier": 3 }
+      ]
+    },
+    "people": {
+      "id": "test-people",
+      "text": "Name a person.",
+      "category": "sport",
+      "answers": [
+        { "answer": "Damon Hill", "tier": 2 },
+        { "answer": "Graham Hill", "tier": 2 },
+        { "answer": "Maria", "tier": 1 },
+        { "answer": "Mario", "tier": 2 }
+      ],
+      "traps": [
+        { "answer": "Hill", "reason": "Which Hill? There were two." }
+      ]
+    },
+    "palindromes": {
+      "id": "test-palindromes",
+      "text": "Name a palindrome.",
+      "category": "language",
+      "exact": true,
+      "answers": [
+        { "answer": "Level", "tier": 1 },
+        { "answer": "Racecar", "tier": 1 },
+        { "answer": "Kayak", "tier": 2 },
+        { "answer": "Dr. Awkward", "tier": 5 },
+        { "answer": "A man, a plan, a canal: Panama", "tier": 4 }
+      ],
+      "traps": [
+        { "answer": "Palindrome", "reason": "Not itself a palindrome." }
+      ]
+    }
+  },
+  "cases": [
+    { "prompt": "places", "input": "SAINT LUCIA", "expect": "accepted", "answer": "Saint Lucia", "note": "case is ignored" },
+    { "prompt": "places", "input": "St Lucia", "expect": "accepted", "answer": "Saint Lucia", "note": "St before a word is Saint" },
+    { "prompt": "places", "input": "St. Lucia", "expect": "accepted", "answer": "Saint Lucia" },
+    { "prompt": "places", "input": "Mt Everest", "expect": "accepted", "answer": "Mount Everest" },
+    { "prompt": "places", "input": "Ft. William", "expect": "accepted", "answer": "Fort William" },
+    { "prompt": "places", "input": "St", "expect": "unknown", "note": "a lone abbreviation is not expanded, and 3 letters or fewer must be exact" },
+    { "prompt": "places", "input": "Newzealand", "expect": "accepted", "answer": "New Zealand", "note": "spaces are ignored" },
+    { "prompt": "places", "input": "new-zealand", "expect": "accepted", "answer": "New Zealand" },
+    { "prompt": "places", "input": "The New Zealand", "expect": "accepted", "answer": "New Zealand", "note": "a leading the, a or an is dropped" },
+    { "prompt": "places", "input": "Cote d'Ivoire", "expect": "accepted", "answer": "Côte d'Ivoire", "note": "accents are ignored" },
+    { "prompt": "places", "input": "Côte d’Ivoire", "expect": "accepted", "answer": "Côte d'Ivoire", "note": "curly apostrophes are ignored" },
+    { "prompt": "places", "input": "Ivory Coast", "expect": "accepted", "answer": "Côte d'Ivoire" },
+    { "prompt": "places", "input": "Grossglockner", "expect": "accepted", "answer": "Großglockner", "note": "ß is ss" },
+    { "prompt": "places", "input": "Foroyar", "expect": "accepted", "answer": "Faroe Islands", "note": "ø is o; a bare string alias is a list of one" },
+    { "prompt": "places", "input": "F", "expect": "unknown", "note": "a bare string alias is never split into letters" },
+    { "prompt": "places", "input": "Trinidad and Tobago", "expect": "accepted", "answer": "Trinidad & Tobago", "note": "& is and" },
+    { "prompt": "places", "input": "51", "expect": "accepted", "answer": "Area 51", "note": "a number in a list counts as its digits" },
+    { "prompt": "places", "input": "Zambias", "expect": "accepted", "answer": "Zambia", "note": "plurals" },
+    { "prompt": "places", "input": "Zambai", "expect": "accepted", "answer": "Zambia", "note": "swapped neighbours are one typo" },
+    { "prompt": "places", "input": "Zamba", "expect": "accepted", "answer": "Zambia" },
+    { "prompt": "places", "input": "Zmbaa", "expect": "unknown", "note": "two typos is too many for a 5-letter word" },
+    { "prompt": "places", "input": "Mount Everst", "expect": "accepted", "answer": "Mount Everest" },
+    { "prompt": "places", "input": "Gambia", "expect": "trap", "trap": "Gambia", "note": "a trap one letter from Zambia is never corrected into it" },
+    { "prompt": "places", "input": "Gambai", "expect": "trap", "trap": "Gambia" },
+    { "prompt": "places", "input": "Republic of the Gambia", "expect": "trap", "trap": "Gambia", "note": "a bare string trap alias" },
+    { "prompt": "places", "input": "Australia", "expect": "decoy", "note": "a bare string decoy list" },
+    { "prompt": "places", "input": "Новая Зеландия", "expect": "unknown", "note": "text that tidies away to nothing is a refusal" },
+    { "prompt": "places", "input": "   ", "expect": "empty" },
+
+    { "prompt": "monarchs", "input": "Henry the Eighth", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "henry viii", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "Henry 8", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "Henry 8th", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "Henry the 8th", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "Henry the VIII", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "monarchs", "input": "Henry Eighth", "expect": "accepted", "answer": "Henry VIII", "note": "an ordinal without the" },
+    { "prompt": "monarchs", "input": "Henry Eight", "expect": "accepted", "answer": "Henry VIII", "note": "number words are digits" },
+    { "prompt": "monarchs", "input": "Henry the Eigth", "expect": "accepted", "answer": "Henry VIII", "note": "common ordinal misspellings" },
+    { "prompt": "monarchs", "input": "Henry the Forth", "expect": "accepted", "answer": "Henry IV" },
+    { "prompt": "monarchs", "input": "Henry the Seventh", "expect": "accepted", "answer": "Henry VII" },
+    { "prompt": "monarchs", "input": "Henry VII", "expect": "accepted", "answer": "Henry VII", "note": "an exact match is never pulled to a neighbour" },
+    { "prompt": "monarchs", "input": "Henry IX", "expect": "trap", "trap": "Henry IX" },
+    { "prompt": "monarchs", "input": "Henry the Ninth", "expect": "trap", "trap": "Henry IX" },
+    { "prompt": "monarchs", "input": "Henry 9", "expect": "trap", "trap": "Henry IX" },
+    { "prompt": "monarchs", "input": "Henry", "expect": "trap", "trap": "Henry" },
+    { "prompt": "monarchs", "input": "Elizabeth the Second", "expect": "accepted", "answer": "Elizabeth II" },
+    { "prompt": "monarchs", "input": "Elizabeth 2nd", "expect": "accepted", "answer": "Elizabeth II" },
+    { "prompt": "monarchs", "input": "George Fifth", "expect": "accepted", "answer": "George V" },
+    { "prompt": "monarchs", "input": "Louis the Fourteenth", "expect": "accepted", "answer": "Louis XIV" },
+    { "prompt": "monarchs", "input": "Louis 14", "expect": "accepted", "answer": "Louis XIV" },
+    { "prompt": "monarchs", "input": "John the Twenty-Third", "expect": "accepted", "answer": "John XXIII" },
+    { "prompt": "monarchs", "input": "John Twenty-Third", "expect": "accepted", "answer": "John XXIII" },
+    { "prompt": "monarchs", "input": "Richard the Lionheart", "expect": "accepted", "answer": "Richard I" },
+    { "prompt": "monarchs", "input": "Richard the First", "expect": "accepted", "answer": "Richard I" },
+    { "prompt": "monarchs", "input": "Richard 1st", "expect": "accepted", "answer": "Richard I" },
+
+    { "prompt": "titles", "input": "1984", "expect": "accepted", "answer": "Nineteen Eighty-Four", "note": "number words in the answer fold to digits too" },
+    { "prompt": "titles", "input": "Nineteen Eighty Four", "expect": "accepted", "answer": "Nineteen Eighty-Four" },
+    { "prompt": "titles", "input": "Nineteen Eight-Four", "expect": "accepted", "answer": "Nineteen Eighty-Four", "note": "the plain key keeps typo tolerance in spelled-out numbers" },
+    { "prompt": "titles", "input": "Catch Twenty-Two", "expect": "accepted", "answer": "Catch-22" },
+    { "prompt": "titles", "input": "Catch 22", "expect": "accepted", "answer": "Catch-22" },
+    { "prompt": "titles", "input": "One Hundred and One Dalmatians", "expect": "accepted", "answer": "101 Dalmatians" },
+    { "prompt": "titles", "input": "Two Thousand and One: A Space Odyssey", "expect": "accepted", "answer": "2001: A Space Odyssey" },
+    { "prompt": "titles", "input": "Apollo Thirteen", "expect": "accepted", "answer": "Apollo 13" },
+    { "prompt": "titles", "input": "Oceans 11", "expect": "accepted", "answer": "Ocean's Eleven" },
+    { "prompt": "titles", "input": "Farenheit 451", "expect": "accepted", "answer": "Fahrenheit 451" },
+    { "prompt": "titles", "input": "Fahrenheit Four Five One", "expect": "accepted", "answer": "Fahrenheit 451" },
+    { "prompt": "titles", "input": "Doctor No", "expect": "accepted", "answer": "Dr. No" },
+    { "prompt": "titles", "input": "Dr No", "expect": "accepted", "answer": "Dr. No" },
+    { "prompt": "titles", "input": "Dr Zhivago", "expect": "accepted", "answer": "Doctor Zhivago" },
+    { "prompt": "titles", "input": "Dr", "expect": "unknown" },
+    { "prompt": "titles", "input": "c", "expect": "accepted", "answer": "C" },
+    { "prompt": "titles", "input": "c plus plus", "expect": "accepted", "answer": "C++", "note": "+ is plus" },
+    { "prompt": "titles", "input": "C sharp", "expect": "accepted", "answer": "C#", "note": "# is sharp" },
+
+    { "prompt": "people", "input": "Hill", "expect": "trap", "trap": "Hill" },
+    { "prompt": "people", "input": "Damon Hil", "expect": "accepted", "answer": "Damon Hill" },
+    { "prompt": "people", "input": "Marie", "expect": "ambiguous", "candidates": ["Maria", "Mario"], "note": "two answers equally close" },
+    { "prompt": "people", "input": "Maria", "expect": "accepted", "answer": "Maria" },
+
+    { "prompt": "palindromes", "input": "LEVEL", "expect": "accepted", "answer": "Level", "note": "exact prompts still ignore case" },
+    { "prompt": "palindromes", "input": "Race car", "expect": "accepted", "answer": "Racecar", "note": "and spaces" },
+    { "prompt": "palindromes", "input": "Race-car", "expect": "accepted", "answer": "Racecar" },
+    { "prompt": "palindromes", "input": "Levels", "expect": "unknown", "note": "no plurals on exact prompts" },
+    { "prompt": "palindromes", "input": "Levle", "expect": "unknown", "note": "no typos on exact prompts" },
+    { "prompt": "palindromes", "input": "Kayaks", "expect": "unknown" },
+    { "prompt": "palindromes", "input": "Doctor Awkward", "expect": "unknown", "note": "no folding on exact prompts" },
+    { "prompt": "palindromes", "input": "Dr Awkward", "expect": "accepted", "answer": "Dr. Awkward" },
+    { "prompt": "palindromes", "input": "A man, a plan, a canal, Panama!", "expect": "accepted", "answer": "A man, a plan, a canal: Panama" },
+    { "prompt": "palindromes", "input": "Palindrome", "expect": "trap", "trap": "Palindrome" },
+    { "prompt": "palindromes", "input": "Palindrom", "expect": "unknown", "note": "not even traps are typo-matched on exact prompts" },
+    { "prompt": "monarchs", "input": "Elizabeth III", "expect": "unknown", "note": "a typo never changes a number" },
+    { "prompt": "monarchs", "input": "George VI", "expect": "unknown", "note": "one letter from George V, but a different number" },
+    { "prompt": "monarchs", "input": "Louis XV", "expect": "unknown" },
+    { "prompt": "monarchs", "input": "Richard II", "expect": "unknown", "note": "one letter from Richard I, but a different number" },
+    { "prompt": "monarchs", "input": "Elizabth II", "expect": "accepted", "answer": "Elizabeth II", "note": "a typo in the name is still forgiven" },
+    { "prompt": "monarchs", "input": "Hnery the Eighth", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "titles", "input": "Apollo 12", "expect": "unknown", "note": "digits must match exactly" },
+    { "prompt": "titles", "input": "Apolo 13", "expect": "accepted", "answer": "Apollo 13" },
+    { "prompt": "titles", "input": "Fahrenheit 415", "expect": "unknown" },
+    { "prompt": "titles", "input": "Ninteen Eighty-Four", "expect": "accepted", "answer": "Nineteen Eighty-Four", "note": "a typo in a spelled-out number is still forgiven" },
+    { "prompt": "titles", "input": "Oceans Elevn", "expect": "accepted", "answer": "Ocean's Eleven" },
+    { "prompt": "titles", "input": "If Fell", "expect": "accepted", "answer": "If I Fell", "note": "a lone I in a title is the word I, so dropping it is just a typo" }
+  ]
+}
