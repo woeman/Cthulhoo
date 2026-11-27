@@ -87,13 +87,25 @@ export function osaDistance(a: string, b: string, max = Infinity): number {
 
 const cache = new WeakMap<PromptDef, Compiled>();
 
+/** A list field as a list of strings. A bare string counts as a list of one, so a
+ * slip in the data can never explode into single letters. */
+function listOf(value: unknown): string[] {
+  if (Array.isArray(value)) return value.filter((v): v is string => typeof v === 'string');
+  return typeof value === 'string' ? [value] : [];
+}
+
+/** A list of answers or traps, skipping anything malformed. */
+function objectsOf<T extends { answer: string }>(value: unknown): T[] {
+  return Array.isArray(value) ? value.filter((v): v is T => !!v && typeof v === 'object' && typeof (v as T).answer === 'string') : [];
+}
+
 function compile(p: PromptDef): Compiled {
   let c = cache.get(p);
   if (c) return c;
   const entries: Entry[] = [];
-  for (const a of p.answers ?? []) for (const f of [a.answer, ...(a.aliases ?? [])]) entries.push({ key: keyOf(f), kind: 'answer', ref: a });
-  for (const t of p.traps ?? []) for (const f of [t.answer, ...(t.aliases ?? [])]) entries.push({ key: keyOf(f), kind: 'trap', ref: t });
-  for (const d of p.decoys ?? []) entries.push({ key: keyOf(d), kind: 'decoy', ref: d });
+  for (const a of objectsOf<AnswerDef>(p.answers)) for (const f of [a.answer, ...listOf(a.aliases)]) entries.push({ key: keyOf(f), kind: 'answer', ref: a });
+  for (const t of objectsOf<TrapDef>(p.traps)) for (const f of [t.answer, ...listOf(t.aliases)]) entries.push({ key: keyOf(f), kind: 'trap', ref: t });
+  for (const d of listOf(p.decoys)) entries.push({ key: keyOf(d), kind: 'decoy', ref: d });
   const exact = new Map<string, Entry>();
   for (const e of entries) if (e.key && !exact.has(e.key)) exact.set(e.key, e);
   c = { entries, exact };
@@ -119,7 +131,8 @@ function verdict(e: Entry, fuzzy: boolean): MatchResult {
 
 export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
   const key = keyOf(input);
-  if (!key) return { kind: 'empty' };
+  // Text that folds to nothing (another alphabet, only symbols) is a refusal, not a blank.
+  if (!key) return String(input ?? '').trim() ? { kind: 'reject' } : { kind: 'empty' };
   const c = compile(prompt);
 
   for (const v of keyVariants(key)) {

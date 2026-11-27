@@ -111,10 +111,15 @@ describe('collecting the bank', () => {
     expect(bank.days).toEqual([{ date: '2026-12-25', prompts: ['d0'] }]);
   });
 
-  it('loads the placeholder bank while data/ is empty', () => {
+  // Passes before and after the question bank lands in data/.
+  it('loads data/ when it holds a day of questions, and the placeholder bank otherwise', () => {
     const bank = loadBank();
-    expect(bank.source).toBe('placeholder');
-    expect(bank.prompts).toHaveLength(raw.length);
-    expect([...bank.byId.keys()]).toEqual(raw.map((p) => p.id));
+    if (bank.source === 'placeholder') {
+      expect(bank.prompts).toHaveLength(raw.length);
+      expect([...bank.byId.keys()]).toEqual(raw.map((p) => p.id));
+    } else {
+      expect(bank.prompts.length).toBeGreaterThanOrEqual(7);
+    }
+    expect(bank.byId.size).toBe(bank.prompts.length);
   });
 });
