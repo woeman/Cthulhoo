@@ -1036,6 +1036,11 @@ export class App {
     // The tier's name goes strange in the deep, except the pearl of the Unspeakable.
     const title = screen.querySelector<HTMLElement>('#reveal-title:not(.iridescent)');
     if (title) madden(title, total, this.reduced, this.madLevel(total));
+    // Once the words have risen, the open Eye looks down at what was said.
+    if (beneath) {
+      const look = window.setTimeout(() => this.gazeAt(screen.querySelector('.echo') ?? screen.querySelector('#reveal-title')), this.reduced ? 0 : 900);
+      this.loops.push(() => clearTimeout(look));
+    }
     this.announce(said.filter(Boolean).join(' '));
     setTimeout(() => next.isConnected && !this.sheets.length && next.focus({ preventScroll: true }), this.reduced ? 0 : 700);
     // On a short screen the way on can rise below the fold: once it has risen, bring it just into view.
@@ -1198,10 +1203,22 @@ export class App {
   }
 
   private closeEye() {
+    this.abyss.lookAt(0, 0.4);
     if (!this.eyeIsOpen) return;
     this.eyeIsOpen = false;
     this.abyss.setEye(0);
     document.documentElement.classList.remove('eye-open');
+  }
+
+  /** Turn the Eye's gaze onto something on the page: the answer it has just heard. */
+  private gazeAt(el: Element | null) {
+    if (!el?.isConnected) return;
+    const r = el.getBoundingClientRect();
+    const h = Math.max(1, window.innerHeight);
+    const x = (r.left + r.width / 2 - window.innerWidth / 2) / (h * 0.3);
+    const y = (r.top + r.height / 2 - h * 0.36) / (h * 0.3);
+    const k = Math.min(1, 1 / Math.max(1e-3, Math.hypot(x, y)));
+    this.abyss.lookAt(x * k, y * k);
   }
 
   // =============================================================== sheets
