@@ -9,7 +9,7 @@ import { careerDay, computeCareer, type Career } from './game/career';
 import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
-import { loadDays, loadDisputes, loadFlag, loadNumber, loadSettings, playerId, saveDay, saveFlag, saveNumber, saveSettings } from './game/storage';
+import { loadDays, loadDisputes, loadFlag, loadNumber, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -19,6 +19,8 @@ import { ICONS } from './ui/icons';
 import { MadText, calmAll, icon, madden, madnessForDepth, sealSvg, wordmarkMarkup } from './ui/art';
 import { careerGainPlate, careerStrip, countUp, telegramEl } from './ui/career';
 import { disputeBlock } from './ui/disputes';
+import { bestiaryBody, sightingCard } from './ui/bestiary';
+import { SIGHTING_TIER, sightingAlong, type Sighting } from './game/bestiary';
 import { disputesText } from './game/disputes';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
@@ -820,12 +822,22 @@ export class App {
     rec.sanity = sanityAfterAnswer(rec.sanity, gain, answer.tier);
     if (rec.answers.length >= rec.promptIds.length) rec.finished = true;
     saveDay(rec);
+    // A rare answer pays out enough cable for something to pass the porthole.
+    let sighting: Sighting | null = null;
+    if (!rec.practice && answer.tier >= SIGHTING_TIER) {
+      const seen = loadSightings();
+      const s = sightingAlong(this.theme, this.theme.bestiary, new Set(Object.keys(seen)), before, before + gain, `${playerId()}|${rec.day}|${prompt.id}`);
+      if (s) {
+        sighting = { id: s.creature.id, day: rec.day, depth: s.depth, at: Date.now(), promptId: prompt.id };
+        saveSighting(sighting);
+      }
+    }
     this.abyss.tension = 0;
     this.sound.setTension(0);
     const screen = plate.closest('.screen');
     if (screen) screen.classList.add(this.reduced ? 'fade-away' : 'sink-away');
     await this.descend(before, before + gain, record);
-    this.showReveal(record, prompt, answer);
+    this.showReveal(record, prompt, answer, sighting);
   }
 
   private async timeout(prompt: PromptDef) {
@@ -951,7 +963,7 @@ export class App {
     window.setTimeout(() => b.remove(), 700);
   }
 
-  private showReveal(record: AnswerRecord, prompt: PromptDef, answer: AnswerDef | null) {
+  private showReveal(record: AnswerRecord, prompt: PromptDef, answer: AnswerDef | null, sighting: Sighting | null = null) {
     const rec = this.rec!;
     const n = rec.answers.length;
     const count = rec.promptIds.length;
@@ -977,6 +989,12 @@ export class App {
       if (answer.openSecret) said.push(`${this.theme.openSecret.name}.`);
       // Some lines open with the tier's own name; say it once.
       said.push(line.startsWith(`${tier.name}.`) ? line.slice(tier.name.length + 1).trim() : line, answer.lore ?? '');
+      const creature = sighting && this.theme.bestiary.find((c) => c.id === sighting.id);
+      if (sighting && creature) {
+        const seen = Object.keys(loadSightings()).filter((id) => this.theme.bestiary.some((c) => c.id === id)).length;
+        kids.push(sightingCard(creature, sighting, seen, this.theme.bestiary.length));
+        said.push(`A sighting at ${fmtMetres(sighting.depth)} metres: ${creature.name}. ${creature.line}`);
+      }
     } else {
       const line = pickLine(this.theme.refused.lines.timeout, prompt.id, rec.day);
       const rare = prompt.answers.filter((a) => a.tier >= 5).slice(0, 3);
@@ -1052,6 +1070,7 @@ export class App {
     const gain = day?.dive ? careerGainPlate(career, day, marks, resultsNews(career, this.theme.career, playerId(), rec.day)) : null;
     const deepestTier = Math.max(0, ...rec.answers.map((a) => a.tier));
 
+    const sightings = loadSightings();
     const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
     rec.answers.forEach((a, i) => {
       const p = this.bank.byId.get(a.promptId);
@@ -1064,6 +1083,10 @@ export class App {
         const common = p.answers.filter((x) => x.tier === 1).slice(0, 5);
         if (rarest.length) more.append(h('p', {}, h('b', {}, 'Unspeakable answers: '), rarest.map((x) => x.answer).join(', ')));
         if (common.length) more.append(h('p', {}, h('b', {}, 'What everyone said: '), common.map((x) => x.answer).join(', ')));
+      }
+      for (const s of Object.values(sightings)) {
+        const c = s.day === rec.day && s.promptId === a.promptId && !rec.practice ? this.theme.bestiary.find((x) => x.id === s.id) : null;
+        if (c) more.append(h('p', {}, h('b', {}, 'Sighted: '), `${c.name}, at ${fmtMetres(s.depth)} m.`));
       }
       const refused = disputeBlock(p, a.rejects, rec.day, { note: false, onDispute: (input, kept) => this.disputed(input, kept) });
       if (refused) more.append(refused);
@@ -1297,6 +1320,12 @@ export class App {
     sheet = this.sheet('How to descend', body, { actions: begin ? [begin] : undefined, focus: begin });
   }
 
+  /** Every creature by zone: the ones seen, and shapes in the dark for the rest. */
+  private openSightings() {
+    this.sound.click();
+    this.sheet('Sightings', bestiaryBody(this.theme, this.theme.bestiary, loadSightings()));
+  }
+
   /** The answers the player has said the deep was wrong to refuse, to copy for the surveyors. */
   private disputesSection(): HTMLElement[] {
     const list = loadDisputes();
@@ -1378,6 +1407,8 @@ export class App {
       h('p', { class: 'flavor' }, 'Dive on consecutive days to rise through the cult.'),
       h('h3', {}, 'Answers by rarity'),
       bars,
+      h('h3', {}, 'Sightings'),
+      h('button', { class: 'btn', type: 'button', onclick: () => this.openSightings() }, `Open the bestiary · ${Object.keys(loadSightings()).length} of ${this.theme.bestiary.length}`),
       ...this.disputesSection(),
       h('h3', {}, 'Settings'),
       h('label', { class: 'setting' }, h('span', {}, 'Sound'), sound),

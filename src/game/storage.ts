@@ -1,5 +1,6 @@
 import type { ActivePrompt, AnswerRecord, DayRecord, Settings } from './types';
 import type { Dispute } from './disputes';
+import type { Sighting } from './bestiary';
 
 // Everything lives in the player's own browser. Every access is guarded, because
 // storage can be missing or throw (private windows, blocked site data, previews).
@@ -176,6 +177,24 @@ export function loadDisputes(): Dispute[] {
 
 export function saveDisputes(list: Dispute[]): void {
   write('disputes', JSON.stringify(list));
+}
+
+/** The creatures the player has seen, by id. */
+export function loadSightings(): Record<string, Sighting> {
+  const out: Record<string, Sighting> = {};
+  for (const [id, v] of Object.entries(asObject(readJson('sightings')))) {
+    const s = asObject(v);
+    if (Number.isInteger(s.day) && isNum(s.depth) && isNum(s.at) && isStr(s.promptId)) out[id] = { id, day: s.day as number, depth: s.depth, at: s.at, promptId: s.promptId };
+  }
+  return out;
+}
+
+/** Keep a sighting. The first sighting of a creature is the one that stays. */
+export function saveSighting(s: Sighting): void {
+  const all = loadSightings();
+  if (all[s.id]) return;
+  all[s.id] = s;
+  write('sightings', JSON.stringify(all));
 }
 
 const ID_RE = /^[a-z0-9]{8,32}$/;
