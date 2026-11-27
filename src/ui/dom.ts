@@ -35,6 +35,13 @@ export function fmtMetres(m: number): string {
   return Math.round(m).toLocaleString('en-GB');
 }
 
+const FOCUSABLE = 'a[href], button:not([disabled]), input:not([disabled]), textarea:not([disabled]), select:not([disabled]), summary, [tabindex]:not([tabindex="-1"])';
+
+/** Everything inside `root` a keyboard can reach, in tab order (for focus traps). */
+export function focusables(root: Element): HTMLElement[] {
+  return [...root.querySelectorAll<HTMLElement>(FOCUSABLE)].filter((el) => !el.closest('[inert]') && el.getClientRects().length > 0);
+}
+
 /** Split text into word spans for the rising-from-the-deep reveal. */
 export function risingWords(text: string): HTMLElement {
   const wrap = h('span');
