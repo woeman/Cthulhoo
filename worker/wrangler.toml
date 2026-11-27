@@ -1,0 +1,24 @@
+# The surface relay: séance rooms and cult boards for Cthulhoo.
+# Free plan: Durable Objects must use SQLite storage (new_sqlite_classes).
+# Deployed by .github/workflows/relay.yml once the Cloudflare secrets exist.
+name = "cthulhoo-relay"
+main = "src/index.ts"
+compatibility_date = "2026-11-13"
+workers_dev = true
+preview_urls = false
+
+[[durable_objects.bindings]]
+name = "SEANCE"
+class_name = "Seance"
+
+[[durable_objects.bindings]]
+name = "CULT"
+class_name = "Cult"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Seance", "Cult"]
+
+[observability]
+enabled = true
+head_sampling_rate = 0.1
