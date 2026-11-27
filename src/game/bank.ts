@@ -66,6 +66,7 @@ export function cleanPrompt(p: unknown): PromptDef | null {
     answers,
     traps: Array.isArray(p.traps) ? traps : undefined,
     decoys: p.decoys !== undefined || decoys.length ? [...forms(p.decoys), ...decoys] : undefined,
+    exact: p.exact === true ? true : undefined,
   };
 }
 

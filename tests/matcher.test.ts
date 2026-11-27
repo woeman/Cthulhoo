@@ -92,6 +92,25 @@ describe('matchAnswer', () => {
     expect(matchAnswer(P('colours'), 'Москва').kind).toBe('reject');
   });
 
+  it('matches word-play prompts exactly, with no typos or plurals', () => {
+    const p = {
+      id: 'palindromes',
+      text: 'Name a palindrome.',
+      category: 'language',
+      exact: true,
+      answers: [{ answer: 'Noon', tier: 1 }, { answer: 'Racecar', aliases: ['Race car'], tier: 2 }],
+      traps: [{ answer: 'Palindrome', reason: 'Not one itself.' }],
+    } as PromptDef;
+    expect(matchAnswer(p, 'noon').kind).toBe('accept');
+    expect(matchAnswer(p, 'Race-car').kind).toBe('accept');
+    expect(matchAnswer(p, 'Moon').kind).toBe('reject');
+    expect(matchAnswer(p, 'Noons').kind).toBe('reject');
+    expect(matchAnswer(p, 'Racecra').kind).toBe('reject');
+    expect(matchAnswer(p, 'palindrome').kind).toBe('trap');
+    expect(matchAnswer(p, 'palindromes').kind).toBe('reject');
+    expect(matchAnswer({ ...p, exact: undefined }, 'Racecra').kind).toBe('accept');
+  });
+
   it('reads a bare-string alias as one alias, never as single letters', () => {
     const p = {
       id: 'x',

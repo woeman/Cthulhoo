@@ -135,6 +135,13 @@ export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
   if (!key) return String(input ?? '').trim() ? { kind: 'reject' } : { kind: 'empty' };
   const c = compile(prompt);
 
+  // Word play ("exact": true), where the spelling is the answer: only the exact key
+  // counts, with no plural forms and no forgiven typos. Traps still match exactly.
+  if (prompt.exact === true) {
+    const hit = c.exact.get(key);
+    return hit ? verdict(hit, false) : { kind: 'reject' };
+  }
+
   for (const v of keyVariants(key)) {
     const hit = c.exact.get(v);
     if (hit) return verdict(hit, false);

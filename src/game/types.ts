@@ -29,6 +29,8 @@ export interface PromptDef {
   answers: AnswerDef[];
   traps?: TrapDef[];
   decoys?: string[];
+  /** Word play, where the spelling is the answer: only exact matches count, no typos or plurals. */
+  exact?: boolean;
 }
 
 export interface BankDay {

@@ -57,6 +57,12 @@ describe('cleaning prompts', () => {
     expect(sun.kind === 'trap' && sun.trap.reason).toBe('A star.');
   });
 
+  it('keeps the exact-match flag for word play only when it is true', () => {
+    expect(cleanPrompt(prompt({ exact: true }))!.exact).toBe(true);
+    expect(cleanPrompt(prompt({ exact: 'yes' }))!.exact).toBeUndefined();
+    expect(cleanPrompt(prompt())!.exact).toBeUndefined();
+  });
+
   it('keeps optional text only when it is text', () => {
     const p = cleanPrompt(prompt({ flavor: 42, rules: { only: 'UN members' }, category: '' }))!;
     expect(p).toMatchObject({ flavor: undefined, rules: undefined, category: 'misc' });
