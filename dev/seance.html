@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en-GB" data-zone="surface">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, interactive-widget=resizes-content">
+<title>Séance bench</title>
+<link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+<style>
+  html { background: #e7ddc6; }
+  body { margin: 0; min-height: 100dvh; background: #e7ddc6; }
+  .bench-states { position: fixed; right: 6px; bottom: 6px; z-index: 200; max-width: min(92vw, 30rem); font: 11px/1.5 system-ui, sans-serif; }
+  .bench-states summary { cursor: pointer; padding: 2px 8px; background: #000a; color: #eee; border-radius: 4px; width: fit-content; margin-left: auto; }
+  .bench-states nav { display: flex; flex-wrap: wrap; gap: 4px; padding: 8px; background: #000c; border-radius: 4px; }
+  .bench-states a { color: #9cf; }
+  .shot .bench-states { display: none; }
+</style>
+</head>
+<body>
+<!--
+  Every screen of the Séance with a made-up circle, for tuning by eye. A real room
+  (src/party/room.ts) runs in the page in place of the surface relay, with bots for
+  the other sitters, so each view is one the relay would send. In a state made for a
+  screenshot the clock holds still until the first tap or key, or the medium lighting a
+  candle (&run=1 keeps it running from the start).
+
+  ?state=   entry entry-norelay join join-none join-full table-entry calling
+            lobby lobby-sitter lobby-lost table-lobby
+            candle candle-sealed candle-low candle-refused candle-out candle-sitter lost table-candle
+            reveal reveal-sitter reveal-last table-reveal
+            end end-tie end-sitter table-end
+            lantern-setup lantern-pass lantern-speak lantern-sealed lantern-out lantern-reveal lantern-end
+            cult cult-out cult-join cult-loading cult-gone cult-fail cult-norelay
+  &n=8          how many sit (1 to 12; the lantern takes 2 to 8)
+  &candles=5    &seconds=30    &at=2 (the candle shown, from 0)    &turn=1 (the lantern's turn)
+  &burnt=0.4    how far the candle has burnt down
+  &away=0|1     one sitter has stepped away (on by default from six sitters)
+  &bots=3       how many come to sit at a séance held from the entry
+  &keep=1       keep what this browser saved (a reload picks the séance up)
+  &norelay=1    as built without VITE_RELAY_URL      &today=9 (the day number; the cult's default)
+  &depth=3000   the water to start in    &reduced=1    &abyss=0 (no WebGL)    &shot=1 (hide this menu)
+  ?live=1       the real thing, through VITE_RELAY_URL: &seance=SIGN to join, &table=1 to be the table, &name=Bram
+  window.__bench has what was said aloud, the clock, the relay and the room, and can
+  drop the line (lose, mend) or send a sitter away (leave('Wren') hands the candles on).
+-->
+<div id="app"></div>
+<script type="module" src="./seance.ts"></script>
+</body>
+</html>
