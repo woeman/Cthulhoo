@@ -203,8 +203,7 @@ export function logbookScreen(data: LogbookData, actions: LogbookActions): HTMLE
     { class: 'lb-block lb-keep', 'aria-labelledby': id('keep') },
     sechead(id('keep'), 'The lantern', career.bestStreak > career.streak ? `longest ${tally(career.bestStreak, 'day')}` : ''),
     career.away ? awayNote(career) : null,
-    lantern(career),
-    wards(career, theme),
+    h('div', { class: 'lb-keep__pair' }, lantern(career), wards(career, theme)),
   );
 
   // ---------------------------------------------------------------- the chart

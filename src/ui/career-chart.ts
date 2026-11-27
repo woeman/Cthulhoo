@@ -265,7 +265,7 @@ export function chartSummary(career: Career, milestones: readonly MilestoneDef[]
 /** Margins, the floor's height and the band below it, for a sheet of a given width. */
 export function sheetLayout(width: number) {
   const narrow = width < 460;
-  return { narrow, L: narrow ? 52 : 62, R: narrow ? 60 : 84, T: 34, FOOT: 48, floorH: narrow ? 560 : 640, band: narrow ? 124 : 148 };
+  return { narrow, L: narrow ? 58 : 64, R: narrow ? 60 : 84, T: 34, FOOT: 48, floorH: narrow ? 560 : 640, band: narrow ? 124 : 148 };
 }
 
 // ================================================================== drawing
@@ -517,7 +517,7 @@ export function careerChart(o: ChartOptions): ChartHandle {
     // ---- labels in HTML, so the type stays sharp and the plaques can be read aloud
     const labels: HTMLElement[] = [];
     for (const m of depthMarks(beyond)) {
-      labels.push(h('span', { class: 'lb-tick', 'aria-hidden': 'true', 'data-zone': zoneKey(m + 1), 'data-below': m > FLOOR, style: `top:${r1(yOf(m))}px` }, `${fmtMetres(m)} m`));
+      labels.push(h('span', { class: 'lb-tick', 'aria-hidden': 'true', 'data-zone': zoneKey(m + 1), 'data-below': m > FLOOR, 'data-depth': m, style: `top:${r1(yOf(m))}px` }, `${fmtMetres(m)} m`));
     }
     const above = o.zones.filter((z) => z.from < FLOOR);
     above.forEach((z, i) => {
@@ -548,6 +548,7 @@ export function careerChart(o: ChartOptions): ChartHandle {
             'data-new': !s.ahead && s.day === today && o.motion,
             'data-x': r1(s.ahead ? W : cx),
             'data-cx': r1(cx),
+            'data-depth': s.mark.depth,
             style: `top:${r1(yOf(s.mark.depth))}px`,
           },
           benchmark(),
@@ -555,7 +556,7 @@ export function careerChart(o: ChartOptions): ChartHandle {
             'div',
             { class: 'cth-milestone__plaque' },
             h('span', { class: 'cth-milestone__name' }, h('span', { class: 'visually-hidden' }, s.ahead ? 'Next milestone: ' : 'Milestone passed: '), s.mark.name),
-            h('span', { class: 'cth-milestone__depth' }, `${fmtMetres(s.mark.depth)} m`, s.ahead ? ` · ${fmtMetres(toGo)} m to go` : ''),
+            h('span', { class: 'cth-milestone__depth' }, `${fmtMetres(s.mark.depth)} m`, s.ahead && toGo < s.mark.depth ? ` · ${fmtMetres(toGo)} m to go` : ''),
           ),
         ),
       );
@@ -679,9 +680,10 @@ function placeLabels(sheet: HTMLElement, W: number, L: number, cable: (r: Rect) 
   };
   const hits = (a: Rect, b: Rect, pad = 2) => a.l < b.r + 4 && a.r > b.l - 4 && a.t < b.b + pad && a.b > b.t - pad;
   const blocks: Rect[] = [];
-  // Below the floor the depth marks sit out on the water, where a plaque may need the room.
-  const deepTicks = [...sheet.querySelectorAll<HTMLElement>('.lb-tick[data-below]')];
-  deepTicks.forEach((t) => (t.hidden = false));
+  // A depth mark may sit where a plaque needs the room: beside a benchmark that the cable
+  // passes near the edge, or out on the water below the floor.
+  const ticks = [...sheet.querySelectorAll<HTMLElement>('.lb-tick')];
+  ticks.forEach((t) => (t.hidden = false));
 
   sheet.querySelectorAll<HTMLElement>('.cth-milestone').forEach((el) => {
     const x = Number(el.dataset.cx);
@@ -709,9 +711,10 @@ function placeLabels(sheet: HTMLElement, W: number, L: number, cable: (r: Rect) 
     const r = rel(el);
     blocks.push(r);
     // A plaque over its own depth mark says the depth already: the mark gives way.
-    for (const t of deepTicks) {
+    for (const t of ticks) {
+      if (t.hidden || t.dataset.depth !== el.dataset.depth) continue;
       const k = rel(t);
-      if (!t.hidden && k.l < r.r - 1 && k.r > r.l + 1 && k.t < r.b && k.b > r.t) t.hidden = true;
+      if (k.l < r.r + 3 && k.r > r.l - 3 && k.t < r.b && k.b > r.t) t.hidden = true;
     }
   });
 
@@ -743,8 +746,8 @@ function placeLabels(sheet: HTMLElement, W: number, L: number, cable: (r: Rect) 
       const r = rel(el);
       const hit = blocks.find((b) => hits(r, b));
       if (!hit) return;
-      if (hit.b + 3 + (r.b - r.t) <= limit) {
-        el.style.top = `${r1(hit.b + 3)}px`; // step down below it
+      if (hit.b + 7 + (r.b - r.t) <= limit) {
+        el.style.top = `${r1(hit.b + 7)}px`; // step down below it
         continue;
       }
       const right = W - hit.l + 8; // or sit to its left
