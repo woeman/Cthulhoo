@@ -9,7 +9,7 @@ import { careerDay, computeCareer, type Career } from './game/career';
 import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
-import { loadDays, loadDisputes, loadFlag, loadNumber, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
+import { loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -24,6 +24,8 @@ import { loadPlate } from './ui/plates';
 import { SIGHTING_TIER, sightingAlong, type Sighting } from './game/bestiary';
 import { disputesText } from './game/disputes';
 import { logbookScreen, type Keepsake } from './screens/logbook';
+import { breathsLeft, codexPages, loadRiddleDeck, todaysRiddle, type RiddleDeck, type RiddleResult } from './game/riddles';
+import { codexBody, riddleScreen } from './screens/riddle';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -31,6 +33,8 @@ import { applyDepth } from '../art/js/depth.js';
 // is asked underwater rather than on the waterline.
 const CAM_OFFSET = 40;
 const TITLE_DEPTH = -32;
+/** The riddle is read in the Gloaming, where the light begins to fail. */
+const RIDDLE_DEPTH = 640;
 const cam = (score: number) => score + CAM_OFFSET;
 // Browser chrome colour per zone (matches --color-ground in the art tokens).
 const CHROME: Record<string, string> = {
@@ -62,6 +66,7 @@ type SheetOpts = { onClose?: () => void; actions?: HTMLElement[]; focus?: HTMLEl
 
 export class App {
   private bank: Bank = loadBank();
+  private riddles: RiddleDeck = loadRiddleDeck();
   private theme: ThemeCopy = this.bank.theme;
   private settings: Settings = loadSettings();
   private sound = new Sound();
@@ -359,7 +364,7 @@ export class App {
   private careerNow(): { days: ReturnType<typeof loadDays>; marks: ThemeCopy['career']['milestones']; career: Career } {
     const days = loadDays();
     const marks = [...this.theme.career.milestones].sort((a, b) => a.depth - b.depth);
-    return { days, marks, career: computeCareer(days, this.today, marks) };
+    return { days, marks, career: computeCareer(days, this.today, marks, loadRiddles()) };
   }
 
   /** Who the deep thinks you are: the Logbook's title, on the title screen too. */
@@ -442,7 +447,7 @@ export class App {
       void this.abyss.descendTo(TITLE_DEPTH, 4600);
     } else if (Math.abs(this.abyss.depth - TITLE_DEPTH) > 1) void this.abyss.descendTo(TITLE_DEPTH, this.reduced ? 0 : 3800);
     this.closeEye();
-    const strip = career.daysPlayed ? careerStrip(career, marks, news) : null;
+    const strip = career.daysPlayed || career.fromRiddles ? careerStrip(career, marks, news) : null;
 
     let primary: HTMLElement;
     const actions = h('div', { class: 'title-actions' });
@@ -461,6 +466,7 @@ export class App {
       actions.append(primary);
     }
     actions.append(
+      h('div', { class: 'title-modes' }, this.riddleEntry()),
       h(
         'div',
         { class: 'row' },
@@ -1376,13 +1382,109 @@ export class App {
   }
 
   /** The Logbook: the whole career on its own screen, with the chart down to the floor. */
+  // ================================================================ the Whispering Deep
+
+  /** The title's way into today's riddle, saying how it stands. */
+  private riddleEntry(): HTMLElement {
+    const saved = loadRiddles()[this.today];
+    const { riddle, attempt } = todaysRiddle(this.riddles, this.today, localDateKey(new Date()), saved);
+    const status = riddle ? (attempt?.status ?? 'new') : 'gone';
+    const left = attempt ? breathsLeft(attempt) : 0;
+    const note =
+      status === 'solved'
+        ? `Answered · ${fmtMetres(attempt?.metres ?? 0)} m deeper`
+        : status === 'sunk'
+          ? 'Sunk beyond answering · read its page'
+          : status === 'playing'
+            ? `${left} ${left === 1 ? 'breath' : 'breaths'} left`
+            : status === 'gone'
+              ? 'Today’s riddle has sunk from the Codex'
+              : 'A riddle in verse · up to 1,000 m';
+    return h(
+      'button',
+      { class: 'mode-btn', type: 'button', 'data-state': status, disabled: status === 'gone', onclick: () => this.openRiddle() },
+      h('span', { class: 'mode-btn__icon', 'aria-hidden': 'true', html: icon('riddle') }),
+      h('span', { class: 'mode-btn__text' }, h('span', { class: 'mode-btn__name' }, 'The Whispering Deep'), h('span', { class: 'mode-btn__note' }, note)),
+    );
+  }
+
+  /** Today's riddle: a page of the Drowned Codex, read in the Gloaming. */
+  private openRiddle() {
+    void this.sound.start().then(() => this.sound.setMuted(this.settings.muted));
+    this.sound.click();
+    const day = this.today;
+    const date = localDateKey(new Date());
+    const { riddle, attempt } = todaysRiddle(this.riddles, day, date, loadRiddles()[day]);
+    if (!riddle) {
+      this.openCodex();
+      return;
+    }
+    const buzz = (pattern: number | number[]) => this.settings.haptics && Sound.buzz(pattern);
+    const screen = riddleScreen(
+      { riddle, day, date, attempt, reducedMotion: this.reduced },
+      {
+        onBack: () => {
+          this.sound.click();
+          this.showTitle();
+        },
+        onFinished: (result) => this.riddleFinished(result),
+        onCodex: () => this.openCodex(),
+        announce: (text, urgent) => (urgent ? this.shout(text) : this.announce(text)),
+        click: () => this.sound.click(),
+        key: () => this.sound.key(),
+        refuse: () => {
+          this.sound.refuse();
+          buzz(45);
+        },
+        accept: () => {
+          this.sound.accept(5);
+          buzz([20, 60, 80]);
+        },
+        whisper: () => this.sound.whisper(0.5),
+        breath: () => this.sound.bubbles(5, 0.06),
+        sink: () => {
+          this.sound.timeout();
+          buzz([60, 40, 60]);
+        },
+      },
+    );
+    this.hud.el.hidden = true;
+    this.sounding.el.hidden = true;
+    this.setMadness(100);
+    this.closeEye();
+    void this.abyss.descendTo(RIDDLE_DEPTH + CAM_OFFSET, this.reduced ? 0 : 3200);
+    this.show(screen, 'down', { bare: true });
+  }
+
+  /** A riddle ended on screen. Its metres are already in the career, worked out from the saved riddles. */
+  private riddleFinished(result: RiddleResult) {
+    if (result.status !== 'solved' || result.metres <= 0) return;
+    const { career } = this.careerNow();
+    this.loops.push(
+      ((t) => () => clearTimeout(t))(window.setTimeout(() => this.announce(`${fmtMetres(result.metres)} metres deeper. Your career depth is ${fmtMetres(career.depth)} metres.`), 2400)),
+    );
+  }
+
+  /** Every page the riddles have given up, the newest open. */
+  private openCodex() {
+    this.sound.click();
+    this.sheet('The Drowned Codex', codexBody(this.riddles, loadRiddles()));
+  }
+
   private openLogbook() {
     this.sound.click();
     const { days, career } = this.careerNow();
     const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
     const seen = Object.keys(loadSightings()).filter((id) => this.theme.bestiary.some((c) => c.id === id)).length;
+    const codex = codexPages(this.riddles, loadRiddles());
     const keepsakes: Keepsake[] = [
       { icon: 'hint', label: 'Sightings', note: `${seen} of ${this.theme.bestiary.length} creatures`, onOpen: () => this.openSightings() },
+      {
+        icon: 'riddle',
+        label: 'The Drowned Codex',
+        note: codex.found ? `${codex.found} of ${codex.found + codex.lost} pages found` : 'Answer a riddle to find its first page',
+        onOpen: () => this.openCodex(),
+      },
     ];
     const screen = logbookScreen(
       {
