@@ -41,6 +41,8 @@ export const SANITY = {
 };
 
 export function clampSanity(v: number): number {
+  // A damaged save must not print "NaN%" on the share card: unknown sanity starts afresh.
+  if (!Number.isFinite(v)) return SANITY.start;
   return Math.max(0, Math.min(100, Math.round(v)));
 }
 

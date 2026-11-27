@@ -24,7 +24,8 @@ export function computeStats(days: Record<number, DayRecord>, today: number): St
     const t = totalDepth(d);
     sum += t;
     deepest = Math.max(deepest, t);
-    for (const a of d.answers) tierCounts[a.tier] = (tierCounts[a.tier] ?? 0) + 1;
+    // Only real tiers: a stray value would grow the array and skew the logbook bars.
+    for (const a of d.answers) if (Number.isInteger(a.tier) && a.tier >= 0 && a.tier <= 6) tierCounts[a.tier]++;
   }
   const set = new Set(finished.map((d) => d.day));
   let streak = 0;
