@@ -1118,7 +1118,8 @@
         {"answer": "Bel and the Dragon", "aliases": ["Bel"], "tier": 6, "lore": "An addition to Daniel in which he kills a temple dragon by feeding it cakes of pitch, fat and hair."}
       ],
       "traps": [
-        {"answer": "Necronomicon", "aliases": ["Book of the Dead"], "reason": "Lovecraft's invention. Do not read it aloud."},
+        {"answer": "Necronomicon", "reason": "An invented book from H. P. Lovecraft's stories, and in no Bible."},
+        {"answer": "Book of the Dead", "aliases": ["Egyptian Book of the Dead"], "reason": "Egyptian, not biblical."},
         {"answer": "Gospel of Thomas", "aliases": ["Thomas"], "reason": "A lost gospel found buried in Egypt in 1945. It never made it into any Bible."},
         {"answer": "Gospel of Judas", "aliases": ["Judas", "Gospel of Mary", "Gospel of Philip"], "reason": "A Gnostic gospel, never accepted into any Bible."},
         {"answer": "Book of Mormon", "reason": "Scripture for Latter-day Saints, but not part of the Bible."},

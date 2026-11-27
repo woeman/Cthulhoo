@@ -172,7 +172,7 @@
         {"answer": "Olympus", "aliases": ["Mount Olympus"], "reason": "The mountain, not a god."},
         {"answer": "Odin", "aliases": ["Thor", "Loki", "Freya"], "reason": "Norse, not Greek."},
         {"answer": "Ra", "aliases": ["Osiris", "Isis", "Anubis", "Horus"], "reason": "Egyptian, not Greek."},
-        {"answer": "Cthulhu", "reason": "Not Greek, and not a god whose name you want to say aloud."},
+        {"answer": "Cthulhu", "reason": "Not Greek. A monster from H. P. Lovecraft's stories."},
         {"answer": "Xena", "reason": "A warrior princess from 1990s television."}
       ]
     },
@@ -718,9 +718,9 @@
         {"answer": "Hafgufa", "tier": 6, "lore": "A Norse sea monster so vast that sailors took it for islands. Whole shoals swam into its open mouth."}
       ],
       "traps": [
-        {"answer": "Cthulhu", "reason": "Invented by Lovecraft in 1928. He waits beneath the sea all the same."},
+        {"answer": "Cthulhu", "reason": "Invented by H. P. Lovecraft in 1928, not a monster of myth or folklore."},
         {"answer": "Dagon", "reason": "A grain god of the Philistines. Medieval scholars made him a fish, and Lovecraft made him worse."},
-        {"answer": "Deep Ones", "aliases": ["Deep One"], "reason": "Lovecraft's fish-folk of Innsmouth. Fiction, as far as anyone in Innsmouth will admit."},
+        {"answer": "Deep Ones", "aliases": ["Deep One"], "reason": "Fish-folk invented by H. P. Lovecraft, not creatures of myth or folklore."},
         {"answer": "Moby Dick", "reason": "A fictional whale, inspired by a real albino whale called Mocha Dick."},
         {"answer": "Jaws", "reason": "A film shark. The real ones are bad enough."},
         {"answer": "Godzilla", "aliases": ["Rodan", "Gamera"], "reason": "A film monster, born in 1954 from a nuclear test."},

@@ -83,8 +83,8 @@
       "emoji": "🐙",
       "blurb": "The rarest true answer the deep will accept.",
       "lines": [
-        "That is not dead which can eternal lie. And nobody else said it.",
-        "The stars are right. The deep opens for you.",
+        "What sleeps below has heard you. Nobody else said it.",
+        "The stars have turned. The deep opens for you.",
         "Unspeakable. No one at the surface will believe you.",
         "A drowned bell rings once, for you alone."
       ]
@@ -251,7 +251,7 @@
     {
       "zone": "floor", "from": 7000, "to": 7001, "name": "The Drowned City",
       "lines": [
-        "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. The city has been expecting you.",
+        "The doors are older than the sea, and they stand open. The city has been expecting you.",
         "Seven true and unspeakable answers. The door opens. The dreamer stirs."
       ]
     }

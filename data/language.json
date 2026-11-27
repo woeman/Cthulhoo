@@ -97,8 +97,8 @@
         {"answer": "William", "tier": 5},
         {"answer": "Zebra", "tier": 5},
         {"answer": "Oboe", "tier": 6, "lore": "The O of the Able Baker alphabet, used by British and American forces until 1956."},
-        {"answer": "Tare", "tier": 6},
-        {"answer": "Yoke", "tier": 6}
+        {"answer": "Tare", "tier": 6, "lore": "The T of the wartime Able Baker alphabet. In the Bible, tares are the weeds an enemy sows among the wheat."},
+        {"answer": "Yoke", "tier": 6, "lore": "The Y of the wartime Able Baker alphabet, spoken over the radio until NATO's Yankee replaced it in 1956."}
       ],
       "traps": [
         {"answer": "Over", "aliases": ["Out", "Over and out", "Mayday", "Wilco", "Copy", "Affirmative", "Negative", "Ten-four", "Pan-pan"], "reason": "Radio talk, not a letter."},
@@ -767,7 +767,7 @@
         {"answer": "Mayan", "aliases": ["Maya"], "reason": "Alive. Millions of people speak Mayan languages today."},
         {"answer": "Esperanto", "reason": "Invented, and still very much alive."},
         {"answer": "Klingon", "aliases": ["Elvish", "Quenya", "Sindarin", "Dothraki", "High Valyrian", "Newspeak", "Na'vi", "Parseltongue"], "reason": "Invented for Star Trek."},
-        {"answer": "R'lyehian", "aliases": ["Aklo"], "reason": "Not dead. Merely dreaming."},
+        {"answer": "R'lyehian", "aliases": ["Aklo"], "reason": "Invented for horror stories. No one ever spoke it."},
         {"answer": "Irish", "aliases": ["Irish Gaelic"], "reason": "Alive, and spoken every day in the Gaeltacht."},
         {"answer": "Welsh", "aliases": ["Scottish Gaelic", "Gaelic", "Breton"], "reason": "Alive, with hundreds of thousands of speakers."},
         {"answer": "Basque", "reason": "Alive, and older than any language around it."},

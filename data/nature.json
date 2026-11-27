@@ -650,7 +650,7 @@
       ],
       "traps": [
         {"answer": "Kraken", "reason": "A myth, probably born of the giant squid. Name the real thing."},
-        {"answer": "Cthulhu", "aliases": ["Great Cthulhu"], "reason": "Octopoid, admittedly. But the deep will not let you name him here."},
+        {"answer": "Cthulhu", "aliases": ["Great Cthulhu"], "reason": "Octopus-headed, admittedly, but invented by H. P. Lovecraft in 1928."},
         {"answer": "Jellyfish", "aliases": ["Man o' war", "Portuguese man o' war"], "reason": "A cnidarian, no relation. Cephalopods have brains."},
         {"answer": "Starfish", "aliases": ["Sea star"], "reason": "An echinoderm, with arms rather than tentacles, and no brain."},
         {"answer": "Sea anemone", "aliases": ["Anemone", "Coral"], "reason": "A cnidarian, not a cephalopod."},
