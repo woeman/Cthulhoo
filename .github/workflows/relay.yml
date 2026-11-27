@@ -3,9 +3,9 @@
 # One-time setup, in Settings > Secrets and variables > Actions:
 #   CLOUDFLARE_API_TOKEN   a token made from the "Edit Cloudflare Workers" template
 #   CLOUDFLARE_ACCOUNT_ID  shown on the Workers & Pages page of the dashboard
-# The account also needs its free workers.dev address, which the dashboard offers
-# the first time Workers & Pages is opened. Until the secrets exist, this
-# workflow only leaves a note and stops.
+# The relay lives at the account's free workers.dev address; if the account has
+# none yet, this workflow registers cthulhoo.workers.dev (or a name close to it).
+# Until the secrets exist, this workflow only leaves a note and stops.
 name: Deploy the relay
 
 on:
@@ -78,8 +78,22 @@ jobs:
             echo "::error::Cloudflare does not accept the CLOUDFLARE_API_TOKEN secret. Make a new token from the \"Edit Cloudflare Workers\" template at https://dash.cloudflare.com/profile/api-tokens and paste it into the secret again."
             exit 1
           fi
-          body=$(curl -sS -H "$auth" "$api/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain")
+          body=$(curl -sS -H "$auth" "$api/accounts/$acct/workers/subdomain")
           sub=$(jq -r '.result.subdomain // empty' <<< "$body")
+          # Error 10007: the account has no workers.dev address yet. Register one with a
+          # plain name, so the relay's public address carries nothing from the account's email.
+          if [ -z "$sub" ] && jq -e '[.errors[]?.code] | index(10007)' <<< "$body" > /dev/null; then
+            for want in cthulhoo cthulhoo-deep cthulhoo-abyss "cthulhoo-$((RANDOM % 9000 + 1000))"; do
+              res=$(curl -sS -X PUT -H "$auth" -H 'Content-Type: application/json' \
+                --data "{\"subdomain\":\"$want\"}" "$api/accounts/$acct/workers/subdomain")
+              sub=$(jq -r '.result.subdomain // empty' <<< "$res")
+              if [ -n "$sub" ]; then
+                echo "::notice::Registered the free workers.dev address $sub.workers.dev for this account."
+                break
+              fi
+              echo "Cloudflare would not register $want: $(jq -c '[.errors[]? | {code, message}]' <<< "$res")"
+            done
+          fi
           if [ -z "$sub" ]; then
             echo "Cloudflare said: $(jq -c '[.errors[]? | {code, message}]' <<< "$body")"
             echo "::error::This Cloudflare account has no workers.dev address yet (or the CLOUDFLARE_ACCOUNT_ID secret is not this account's ID). Open https://dash.cloudflare.com, choose Compute (Workers) > Workers & Pages, accept the free workers.dev subdomain it offers, then run this workflow again."
@@ -113,6 +127,15 @@ jobs:
           SUB: ${{ steps.cf.outputs.sub }}
         run: |
           url="https://cthulhoo-relay.$SUB.workers.dev"
-          curl -fsS --retry 8 --retry-delay 4 --retry-all-errors "$url/health"
-          echo
-          echo "::notice::The relay is live at $url"
+          # A workers.dev address registered a moment ago can take a few minutes to answer.
+          for i in $(seq 1 36); do
+            if out=$(curl -fsS -m 10 "$url/health" 2> /tmp/err); then
+              echo "$out"
+              echo "::notice::The relay is live at $url"
+              exit 0
+            fi
+            echo "Not answering yet: $(tr -d '\n' < /tmp/err). Trying again in 10 s."
+            sleep 10
+          done
+          echo "::error::The relay was deployed, but $url/health did not answer within six minutes. Run this workflow again in a few minutes."
+          exit 1
