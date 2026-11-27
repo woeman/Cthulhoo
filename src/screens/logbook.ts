@@ -10,6 +10,7 @@ import type { Persona } from '../game/persona';
 import { definingSigils, type Sigil } from '../game/sigils';
 import type { Stats } from '../game/stats';
 import type { MilestoneDef, ThemeCopy } from '../game/types';
+import { loadNumber, saveNumber } from '../game/storage';
 import { zoneFor } from '../game/theme';
 import { paletteAt, zoneForDepth } from '../../art/js/depth.js';
 import { fmtMetres, h } from '../ui/dom';
@@ -70,26 +71,11 @@ export const SIGIL_LEVEL_NAMES = ['unlit', 'kindled', 'burning', 'blazing'] as c
 /** The title may take the madness below 2,500 m, but never so much that it cannot be read. */
 const TITLE_MADNESS = 0.42;
 
-// The cable pays itself out the first time the Logbook opens each day. Remembered in
-// memory, and in this browser when it allows it.
-const CABLE_KEY = 'cthulhoo.v1.logbook.cable';
-let cableDay: number | null = null;
-
+// The cable pays itself out the first time the Logbook opens each day. Kept like the
+// rest of the player's things (memory only under ?fresh, or when storage is blocked).
 function firstOpenToday(today: number): boolean {
-  let last = cableDay;
-  try {
-    const saved = Number(localStorage.getItem(CABLE_KEY));
-    if (Number.isFinite(saved) && saved > 0) last = saved;
-  } catch {
-    /* storage blocked: memory only */
-  }
-  if (last === today) return false;
-  cableDay = today;
-  try {
-    localStorage.setItem(CABLE_KEY, String(today));
-  } catch {
-    /* memory only */
-  }
+  if (loadNumber('logbookCable') === today) return false;
+  saveNumber('logbookCable', today);
   return true;
 }
 
