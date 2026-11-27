@@ -97,6 +97,66 @@ export interface ThemeCopy {
   share: { template: string; missEmoji: string };
   howToPlay: string[];
   cultRanks: CultRank[];
+  career: CareerCopy;
+  bestiary: CreatureDef[];
+}
+
+/** A permanent depth on the career scale: once passed, you never drift back above it. */
+export interface MilestoneDef {
+  depth: number;
+  /** "The Roofs of the Drowned City" */
+  name: string;
+  /** The form used in a title: "the Roofs of the Drowned City" */
+  place: string;
+  line: string;
+}
+
+/** Copy for lifetime depth and the Logbook. Every list is chosen from with a stable seed. */
+export interface CareerCopy {
+  /** "{epithet} {role} of {place}" */
+  title: string;
+  milestones: MilestoneDef[];
+  /** The place in a title before the first milestone. */
+  surfacePlace: string;
+  /** Epithets by career depth: the last band whose `from` is passed. */
+  epithets: Array<{ from: number; words: string[] }>;
+  /** Epithets that replace the depth one: a long lantern, drifting back up, a new diver. */
+  stateEpithets: { unsleeping: string[]; surfacing: string[]; newcomer: string[] };
+  /** Roles by topic (category key), plus "none" before any topic stands out. */
+  roles: Record<string, string[]>;
+  /** Synopsis lines, in the third person ("It ..."). {topic} {days} {streak} placeholders. */
+  synopsis: {
+    strong: Record<string, string[]>;
+    weak: Record<string, string[]>;
+    fast: string[];
+    slow: string[];
+    rare: string[];
+    common: string[];
+    night: string[];
+    day: string[];
+    streak: string[];
+    drifting: string[];
+    newcomer: string[];
+    warded: string[];
+  };
+  /** Telegrams for the title screen. {metres} {days} {mult} {week} placeholders. */
+  drift: string[];
+  wardSpent: string[];
+  wardEarned: string[];
+  multiplier: string[];
+  ward: { name: string; blurb: string };
+}
+
+/** A creature in the bestiary, revealed now and then by a rare answer in its zone. */
+export interface CreatureDef {
+  id: string;
+  name: string;
+  zone: ZoneKey;
+  kind: 'real' | 'mythos';
+  /** One line in the expedition's voice. */
+  line: string;
+  /** A true fact for real animals; a scrap of lore for the others. */
+  fact: string;
 }
 
 /** One finished (or timed-out) prompt inside a dive. */
@@ -112,6 +172,8 @@ export interface AnswerRecord {
   depth: number;
   rejects: string[];
   timeMs: number;
+  /** The prompt's topic when it was answered, so Sigils survive the bank changing. */
+  category?: string;
 }
 
 export interface ActivePrompt {
@@ -133,6 +195,8 @@ export interface DayRecord {
   active?: ActivePrompt | null;
   whisperUsed?: boolean;
   practice?: boolean;
+  /** Wall-clock ms when the dive began (for the Logbook's synopsis). */
+  playedAt?: number;
 }
 
 export interface Settings {

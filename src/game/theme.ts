@@ -1,5 +1,6 @@
 import placeholder from '../content/theme.placeholder.json';
-import type { CultRank, Landmark, ThemeCopy, TierDef, ZoneDef, ZoneKey } from './types';
+import careerPlaceholder from '../content/career.placeholder.json';
+import type { CareerCopy, CreatureDef, CultRank, Landmark, MilestoneDef, ThemeCopy, TierDef, ZoneDef, ZoneKey } from './types';
 import { hashString } from './daily';
 
 // Copy comes from data/theme.json (question-bank thread). Until that file is in
@@ -50,6 +51,112 @@ const FALLBACK_ZONES: Array<Omit<ZoneDef, 'subtitle'>> = [
   { key: 'hadal', name: 'The Dreaming Deep', from: 6000, to: 7000 },
   { key: 'floor', name: 'The Drowned City', from: 7000, to: Infinity },
 ];
+
+const ZONE_KEYS: ZoneKey[] = ['surface', 'twilight', 'midnight', 'abyss', 'hadal', 'floor'];
+
+// The smallest career copy that still reads; src/content/career.placeholder.json
+// is laid over it, and a "career" key in data/theme.json over that.
+const MINIMAL_CAREER: CareerCopy = {
+  title: '{epithet} {role} of {place}',
+  milestones: [{ depth: 7000, name: 'The Roofs of the Drowned City', place: 'the Drowned City', line: 'You have touched the floor.' }],
+  surfacePlace: 'the Shallows',
+  epithets: [{ from: 0, words: ['Damp'] }],
+  stateEpithets: { unsleeping: ['Unsleeping'], surfacing: ['Surfacing'], newcomer: ['Untried'] },
+  roles: { none: ['Diver'] },
+  synopsis: {
+    strong: {},
+    weak: {},
+    fast: ['It answers quickly.'],
+    slow: ['It takes its time.'],
+    rare: ['It knows rare things.'],
+    common: ['It says what most people say.'],
+    night: ['It dives at night.'],
+    day: ['It dives by day.'],
+    streak: ['Its lantern has burned for {streak} days.'],
+    drifting: ['It has been away.'],
+    newcomer: ['It is new here.'],
+    warded: ['A ward kept its lantern lit.'],
+  },
+  drift: ['WHILE YOU WERE AWAY STOP YOU DRIFTED UP {metres} STOP'],
+  wardSpent: ['A WARD HELD FOR {days} STOP'],
+  wardEarned: ['A WARD IS YOURS STOP'],
+  multiplier: ['WEEK {week} STOP EVERYTHING COUNTS {mult} STOP'],
+  ward: { name: 'Ward', blurb: 'Keeps your lantern lit through one missed day.' },
+};
+
+const strMap = (v: unknown, d: Record<string, string[]>): Record<string, string[]> => {
+  const out: Record<string, string[]> = { ...d };
+  if (isObj(v)) for (const [k, list] of Object.entries(v)) if (Array.isArray(list) && list.length && list.every((x) => typeof x === 'string')) out[k] = list as string[];
+  return out;
+};
+
+/** Career copy read defensively over a fallback, so a partial "career" block only replaces what it holds. */
+export function buildCareer(raw: unknown, d: CareerCopy = BASE_CAREER): CareerCopy {
+  const r: Json = isObj(raw) ? raw : {};
+  const milestones: MilestoneDef[] = (Array.isArray(r.milestones) ? (r.milestones.filter(isObj) as Json[]) : [])
+    .map((m) => ({ depth: num(m.depth, NaN), name: str(m.name, ''), place: str(m.place, str(m.name, '')), line: str(m.line, '') }))
+    .filter((m) => m.depth > 0 && m.name)
+    .sort((a, b) => a.depth - b.depth)
+    .filter((m, i, all) => i === 0 || m.depth !== all[i - 1].depth);
+  const epithets = (Array.isArray(r.epithets) ? (r.epithets.filter(isObj) as Json[]) : [])
+    .map((e) => ({ from: num(e.from, NaN), words: strs(e.words, []) }))
+    .filter((e) => Number.isFinite(e.from) && e.from >= 0 && e.words.length)
+    .sort((a, b) => a.from - b.from);
+  const st: Json = isObj(r.stateEpithets) ? r.stateEpithets : {};
+  const sy: Json = isObj(r.synopsis) ? r.synopsis : {};
+  const w: Json = isObj(r.ward) ? r.ward : {};
+  const line = (k: keyof CareerCopy['synopsis']) => strs(sy[k], d.synopsis[k] as string[]);
+  return {
+    title: str(r.title, d.title),
+    milestones: milestones.length ? milestones : d.milestones,
+    surfacePlace: str(r.surfacePlace, d.surfacePlace),
+    epithets: epithets.length && epithets[0].from === 0 ? epithets : d.epithets,
+    stateEpithets: {
+      unsleeping: strs(st.unsleeping, d.stateEpithets.unsleeping),
+      surfacing: strs(st.surfacing, d.stateEpithets.surfacing),
+      newcomer: strs(st.newcomer, d.stateEpithets.newcomer),
+    },
+    roles: strMap(r.roles, d.roles),
+    synopsis: {
+      strong: strMap(sy.strong, d.synopsis.strong),
+      weak: strMap(sy.weak, d.synopsis.weak),
+      fast: line('fast'),
+      slow: line('slow'),
+      rare: line('rare'),
+      common: line('common'),
+      night: line('night'),
+      day: line('day'),
+      streak: line('streak'),
+      drifting: line('drifting'),
+      newcomer: line('newcomer'),
+      warded: line('warded'),
+    },
+    drift: strs(r.drift, d.drift),
+    wardSpent: strs(r.wardSpent, d.wardSpent),
+    wardEarned: strs(r.wardEarned, d.wardEarned),
+    multiplier: strs(r.multiplier, d.multiplier),
+    ward: { name: str(w.name, d.ward.name), blurb: str(w.blurb, d.ward.blurb) },
+  };
+}
+
+/** Bestiary entries read defensively; an unusable list falls back whole. */
+export function buildBestiary(raw: unknown, d: CreatureDef[] = BASE_BESTIARY): CreatureDef[] {
+  const seen = new Set<string>();
+  const list = (Array.isArray(raw) ? (raw.filter(isObj) as Json[]) : [])
+    .map((c) => ({
+      id: str(c.id, ''),
+      name: str(c.name, ''),
+      zone: (ZONE_KEYS.includes(c.zone as ZoneKey) ? c.zone : '') as ZoneKey,
+      kind: c.kind === 'mythos' ? ('mythos' as const) : ('real' as const),
+      line: str(c.line, ''),
+      fact: str(c.fact, ''),
+    }))
+    .filter((c) => c.id && c.name && c.zone && !seen.has(c.id) && (seen.add(c.id), true));
+  return list.length ? list : d;
+}
+
+const BASE_CAREER = buildCareer((careerPlaceholder as Json).career, MINIMAL_CAREER);
+const BASE_BESTIARY = buildBestiary((careerPlaceholder as Json).bestiary, []);
 
 export function buildTheme(raw: unknown): ThemeCopy {
   const r: Json = isObj(raw) ? raw : {};
@@ -124,6 +231,8 @@ export function buildTheme(raw: unknown): ThemeCopy {
     },
     howToPlay: strs(r.howToPlay, []),
     cultRanks: CULT_RANKS,
+    career: buildCareer(r.career),
+    bestiary: buildBestiary(r.bestiary),
   };
 }
 

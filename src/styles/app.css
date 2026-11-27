@@ -347,9 +347,18 @@ canvas.abyss {
   filter: drop-shadow(0 0 8px var(--color-ground)) drop-shadow(0 0 16px var(--color-ground));
 }
 
-.wordmark .tail {
-  display: inline-block;
-  transform-origin: 50% 80%;
+/* the art kit's wordmark: CTHULHOO, its double O two porthole eyes */
+.wordmark-art {
+  display: block;
+  line-height: 0;
+}
+
+.wordmark-art svg {
+  display: block;
+  width: min(86vw, 25rem);
+  height: auto;
+  margin-inline: auto;
+  overflow: visible;
 }
 
 .tagline {
@@ -1835,5 +1844,103 @@ a.btn {
    is read, and goes (the app times it). */
 .reduced-motion .zone-banner,
 .reduced-motion .zone-banner .name {
+  animation: none !important;
+}
+
+/* ------------------------------------------------------------ art kit: seals */
+
+.seal {
+  display: inline-grid;
+  place-items: center;
+  line-height: 0;
+  color: var(--tier-color, currentColor);
+}
+
+.seal svg {
+  width: 1.6em;
+  height: 1.6em;
+}
+
+.glyph-row {
+  gap: 10px;
+  font-size: 1rem;
+}
+
+.glyph-row .seal svg {
+  width: 30px;
+  height: 30px;
+}
+
+/* below the ink-wash line the seals give off their own light */
+:root:not([data-zone="surface"]) .glyph-row .seal,
+:root:not([data-zone="surface"]) .dive-log .seal {
+  filter: drop-shadow(0 0 6px color-mix(in oklab, var(--tier-color) 55%, transparent));
+}
+
+.dive-log .g.seal svg {
+  width: 28px;
+  height: 28px;
+}
+
+.tier-ladder li {
+  align-items: center;
+}
+
+.tier-ladder .seal svg {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+.tier-bars .bar-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-width: 0;
+}
+
+.tier-bars .bar-name .seal svg {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+/* the kit's rarity medallion, on the reveal and at the head of the log */
+.medallion {
+  margin: 0 auto var(--space-2);
+}
+
+.reveal-screen .medallion {
+  align-self: center;
+  margin-bottom: var(--space-3);
+  animation: medallion-in 1200ms var(--ease-surface) both;
+}
+
+@keyframes medallion-in {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+    filter: blur(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+    filter: none;
+  }
+}
+
+@media (max-height: 640px) {
+  .reveal-screen .medallion,
+  .result-head .medallion {
+    --size: 60px !important;
+  }
+}
+
+/* under the open Eye, the Eye is the seal */
+.reveal-screen.beneath-eye .medallion {
+  display: none;
+}
+
+.reduced-motion .cth-seal__disc,
+.reduced-motion .cth-seal__disc::after,
+.reduced-motion .medallion {
   animation: none !important;
 }

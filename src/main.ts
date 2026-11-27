@@ -1,7 +1,9 @@
 import '../art/tokens/tokens.css';
 import '../art/css/fonts.css';
+import '../art/css/components.css';
 import './styles/app.css';
 import { App } from './app';
+import { installArt } from './ui/art';
 import { setEphemeral } from './game/storage';
 import { ARTIFACT } from './env';
 
@@ -10,6 +12,7 @@ const params = new URLSearchParams(location.search);
 if (params.has('fresh')) setEphemeral(true);
 
 const root = document.getElementById('app');
+installArt();
 if (root) new App(root).start();
 
 // Offline play once installed. Only on https, so local dev never caches stale builds.

@@ -1,0 +1,38 @@
+{
+  "career": {
+    "title": "{epithet} {role} of {place}",
+    "surfacePlace": "the Shallows",
+    "milestones": [
+      { "depth": 1000, "name": "Below the Gloaming", "place": "the Gloaming", "line": "The last of the light is above you now." },
+      { "depth": 7000, "name": "The Roofs of the Drowned City", "place": "the Drowned City", "line": "You have touched the floor. It was not the floor." }
+    ],
+    "epithets": [
+      { "from": 0, "words": ["Damp"] },
+      { "from": 7000, "words": ["Drowned"] }
+    ],
+    "stateEpithets": { "unsleeping": ["Unsleeping"], "surfacing": ["Surfacing"], "newcomer": ["Untried"] },
+    "roles": { "none": ["Diver"] },
+    "synopsis": {
+      "strong": {},
+      "weak": {},
+      "fast": ["It answers before the question has finished rising."],
+      "slow": ["It waits, and the water waits with it."],
+      "rare": ["It speaks the words the deep keeps for itself."],
+      "common": ["It says what everyone says, and the sea forgives it."],
+      "night": ["It comes down after midnight, when the lamps are low."],
+      "day": ["It dives by daylight, as if that helps."],
+      "streak": ["Its lantern has burned for {streak} days."],
+      "drifting": ["It has been away. The sea noticed."],
+      "newcomer": ["It is new here. The deep is patient."],
+      "warded": ["Something kept its lantern lit while it slept."]
+    },
+    "drift": ["WHILE YOU WERE AWAY STOP THE SEA GAVE YOU BACK {metres} STOP"],
+    "wardSpent": ["A WARD HELD FOR {days} STOP LANTERN STILL LIT STOP"],
+    "wardEarned": ["SEVEN DAYS STOP A WARD IS YOURS STOP"],
+    "multiplier": ["WEEK {week} OF THE DESCENT STOP EVERYTHING COUNTS {mult} STOP"],
+    "ward": { "name": "Ward", "blurb": "Keeps your lantern lit through one missed day." }
+  },
+  "bestiary": [
+    { "id": "barreleye", "name": "Barreleye", "zone": "twilight", "kind": "real", "line": "It looked up at us through its own head.", "fact": "Its eyes sit inside a clear, fluid-filled dome and turn to look straight up." }
+  ]
+}

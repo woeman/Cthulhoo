@@ -77,10 +77,11 @@ export { madnessForDepth };
 /**
  * Let the deep get into a short label (a heading, a zone name, a tier name). Never the
  * question, the answer field, buttons or numbers. Does nothing above 2,500 m, where the
- * sea is still sane. Screen readers always get the real text.
+ * sea is still sane, unless `floor` (from a failing sanity) says otherwise. Screen
+ * readers always get the real text.
  */
-export function madden(el: HTMLElement, depth: number, reducedMotion = false): Madness | null {
-  const level = madnessForDepth(depth);
+export function madden(el: HTMLElement, depth: number, reducedMotion = false, floor = 0): Madness | null {
+  const level = Math.max(floor, madnessForDepth(depth));
   if (level <= 0 || reducedMotion) return null;
   const mad = createMadness(el, { level });
   live.add(mad);
@@ -98,4 +99,46 @@ export function calm(mad: Madness | null | undefined): void {
   if (!mad) return;
   mad.destroy();
   live.delete(mad);
+}
+
+/**
+ * A label that lives on (like the HUD's zone name): its text and its madness level
+ * change over time, and the effect is rebuilt whenever the text does.
+ */
+export class MadText {
+  private mad: Madness | null = null;
+  private level = 0;
+
+  constructor(
+    private el: HTMLElement,
+    private reduced: () => boolean,
+  ) {}
+
+  setText(text: string): void {
+    if (this.mad) this.mad.destroy();
+    this.mad = null;
+    this.el.textContent = text;
+    this.apply();
+  }
+
+  setLevel(level: number): void {
+    const v = Math.max(0, Math.min(1, level));
+    if (Math.abs(v - this.level) < 0.04 && v > 0 === this.level > 0) return;
+    this.level = v;
+    this.apply();
+  }
+
+  pulse(): void {
+    if (this.mad && this.level > 0) this.mad.pulse();
+  }
+
+  private apply(): void {
+    if (this.level <= 0 || this.reduced()) {
+      if (this.mad) this.mad.destroy();
+      this.mad = null;
+      return;
+    }
+    if (this.mad) this.mad.set(this.level);
+    else this.mad = createMadness(this.el, { level: this.level });
+  }
 }

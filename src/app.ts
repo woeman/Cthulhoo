@@ -1,5 +1,5 @@
 import { loadBank, type Bank } from './game/bank';
-import { dayNumberFor, localDateKey, msUntilNextDay, practicePrompts, promptsForDay } from './game/daily';
+import { dayNumberFor, localDateKey, msUntilNextDay, practicePrompts, promptsForDay, repairDive } from './game/daily';
 import { matchAnswer } from './game/matcher';
 import { omenById, omenForDay } from './game/omens';
 import { SANITY, clampSanity, depthFor, isBellQuestion, sanityAfterAnswer, timeLimitMs, totalDepth } from './game/scoring';
@@ -12,6 +12,7 @@ import { Sound } from './audio/engine';
 import { Abyss } from './render/abyss';
 import { fmtMetres, focusables, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
+import { MadText, calmAll, icon, madden, madnessForDepth, sealSvg, wordmarkMarkup } from './ui/art';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -20,7 +21,6 @@ import { applyDepth } from '../art/js/depth.js';
 const CAM_OFFSET = 40;
 const TITLE_DEPTH = -32;
 const cam = (score: number) => score + CAM_OFFSET;
-const GLYPHS = ['ᚦ', 'ᛟ', 'ᚨ', 'ʘ', 'ϟ', 'Ψ', 'ᛉ', '⸸'];
 // Browser chrome colour per zone (matches --color-ground in the art tokens).
 const CHROME: Record<string, string> = {
   surface: '#e7ddc6',
@@ -40,6 +40,11 @@ const SHORT_VIEW = 560;
 /** On mousedown: tapping a button beside the answer keeps the keyboard up instead of stealing focus. */
 const keepFocus = (e: Event) => e.preventDefault();
 const sentence = (s: string) => (s ? `${s[0].toUpperCase()}${s.slice(1)}${/[.?]$/.test(s) ? '' : '.'}` : '');
+/** A tier's seal (the closed eye for no answer), coloured for its tier. */
+const seal = (tier: number, cls = 'seal') => h('span', { class: cls, 'aria-hidden': 'true', style: `--tier-color: ${tier ? `var(--color-tier-${tier})` : 'var(--color-refused)'}`, html: sealSvg(tier || 'refused') });
+/** The kit's large rarity medallion: a breathing disc with the seal in it. */
+const medallion = (tier: number, size: number) =>
+  h('figure', { class: 'cth-seal medallion', 'data-tier': tier ? String(tier) : 'refused', 'aria-hidden': 'true', style: `--size: ${size}px${tier ? '' : '; --tier-color: var(--color-refused)'}` }, h('div', { class: 'cth-seal__disc', html: sealSvg(tier || 'refused') }));
 
 type Sheet = { el: HTMLElement; close: (quiet?: boolean, restoreFocus?: boolean) => void };
 type SheetOpts = { onClose?: () => void; actions?: HTMLElement[]; focus?: HTMLElement | null };
@@ -64,6 +69,8 @@ export class App {
   private bannerAt = 0;
   private titleVisits = 0;
   private eyeIsOpen = false;
+  /** The HUD's zone name, which the deep gets into as you sink. */
+  private zoneText!: MadText;
   /** Set by the screen that cares when the visible area changes (keyboard up or down, rotation). */
   private onViewport: (() => void) | null = null;
 
@@ -100,13 +107,14 @@ export class App {
 
   private buildShell() {
     const soundBtn = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() }) as HTMLButtonElement;
-    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Logbook and settings', title: 'Logbook and settings', onclick: () => this.openLogbook(), html: ICONS.book });
+    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Logbook and settings', title: 'Logbook and settings', onclick: () => this.openLogbook(), html: icon('info') });
     const title = h('div', { class: 'hud-title' });
     const num = h('span', { class: 'num' }, '0');
     const zone = h('span', { class: 'zone' });
     const depth = h('div', { class: 'hud-depth' }, h('span', { class: 'visually-hidden' }, 'Depth '), num, h('span', { class: 'unit' }, ' m'), zone);
     const hud = h('header', { class: 'hud', hidden: true }, menu, title, depth, soundBtn);
     this.hud = { el: hud, title, num, zone, sound: soundBtn };
+    this.zoneText = new MadText(zone, () => this.reduced);
     this.stage = h('main', { class: 'stage' });
     this.appEl = h('div', { class: 'app' }, hud, this.stage);
     // Live regions sit outside the app, so they still speak while a sheet makes the app inert.
@@ -203,11 +211,11 @@ export class App {
     const on = !this.settings.muted;
     for (const b of document.querySelectorAll<HTMLButtonElement>('[data-sound-toggle]')) {
       if (b.classList.contains('icon-btn')) {
-        b.innerHTML = on ? ICONS.soundOn : ICONS.soundOff;
+        b.innerHTML = icon(on ? 'sound-on' : 'sound-off');
         b.setAttribute('aria-pressed', String(on));
         b.title = on ? 'Sound on' : 'Sound off';
       } else {
-        b.innerHTML = `${on ? ICONS.soundOn : ICONS.soundOff}<span>${on ? 'Sound on · best with headphones' : 'Sound off'}</span>`;
+        b.innerHTML = `${icon(on ? 'sound-on' : 'sound-off')}<span>${on ? 'Sound on · best with headphones' : 'Sound off'}</span>`;
       }
     }
   }
@@ -257,6 +265,7 @@ export class App {
   private show(screen: HTMLElement, dir: 'down' | 'up' = 'down') {
     this.token++;
     this.stopLoops();
+    calmAll();
     this.onViewport = null;
     this.abyss.tension = 0;
     this.sound.setTension(0);
@@ -294,17 +303,25 @@ export class App {
     this.hud.num.textContent = fmtMetres(score);
     const top = (Math.min(score, 7000) / 7000) * 100;
     this.sounding.bob.style.top = `${top}%`;
-    const z = zoneFor(this.theme, score);
+    // The zone of the depth on show, so "4,000 m" never sits beside the zone above it.
+    const z = zoneFor(this.theme, Math.round(score));
     if (force || z.key !== this.zoneKey) {
       this.zoneKey = z.key;
-      this.hud.zone.textContent = z.name;
+      this.zoneText.setText(z.name);
     }
+    this.zoneText.setLevel(this.madLevel(score));
     applyDepth(document.documentElement, score);
     const zoneAttr = document.documentElement.dataset.zone ?? '';
     if (zoneAttr !== this.chromeZone) {
       this.chromeZone = zoneAttr;
       document.querySelector('meta[name="theme-color"]')?.setAttribute('content', CHROME[zoneAttr] ?? '#050b12');
     }
+  }
+
+  /** How far the deep has got into the lettering: by depth, and sooner when sanity fails. */
+  private madLevel(depth: number): number {
+    const sanity = this.rec && !this.hud.el.hidden ? this.rec.sanity : 100;
+    return Math.max(madnessForDepth(depth), sanity < 35 ? 0.4 : sanity < 60 ? 0.2 : 0);
   }
 
   private setMadness(sanity: number) {
@@ -327,15 +344,9 @@ export class App {
     this.today = dayNumberFor(now);
     const existing = loadDays()[this.today];
     const ids = promptsForDay(this.bank.prompts, this.today, this.bank.days, localDateKey(now));
-    if (existing) {
-      // If the bank changed since the dive began, keep what was played and refill the rest.
-      const known = existing.promptIds.filter((id) => this.bank.byId.has(id));
-      if (known.length < existing.promptIds.length) {
-        const played = new Set(existing.answers.map((a) => a.promptId));
-        existing.promptIds = [...existing.promptIds.filter((id) => played.has(id)), ...ids.filter((id) => !played.has(id))].slice(0, 7);
-      }
-      return existing;
-    }
+    // If the bank changed since the dive began, keep what was played and swap only
+    // the questions that no longer exist (the one in progress restarts fresh).
+    if (existing) return repairDive(existing, (id) => this.bank.byId.has(id), ids);
     return {
       day: this.today,
       date: localDateKey(now),
@@ -369,7 +380,7 @@ export class App {
         h('p', { class: 'done-note' }, `You reached ${fmtMetres(total)} m today.`),
         primary,
         h('button', { class: 'btn', type: 'button', onclick: () => this.beginPractice() }, 'Practice dive'),
-        this.countdownEl(),
+        this.countdownEl(rec.day),
       );
     } else {
       const label = progress ? `Continue the descent · ${progress + 1} of ${rec.promptIds.length}` : 'Begin the descent';
@@ -392,7 +403,7 @@ export class App {
         'div',
         { class: 'crest' },
         h('p', { class: 'kicker' }, `Dive No. ${rec.day} · ${dateText}`),
-        h('h1', { class: 'wordmark', id: 'wordmark', 'aria-label': 'Cthulhoo' }, 'Cthulh', h('span', { class: 'tail', 'aria-hidden': 'true' }, 'oo')),
+        h('h1', { class: 'wordmark', id: 'wordmark' }, h('span', { class: 'visually-hidden' }, 'Cthulhoo'), h('span', { class: 'wordmark-art', 'aria-hidden': 'true', html: wordmarkMarkup() })),
         h('p', { class: 'tagline' }, 'How deep does your knowledge go?'),
       ),
       h(
@@ -413,16 +424,17 @@ export class App {
     if (returning) window.setTimeout(() => primary.isConnected && !this.sheets.length && primary.focus({ preventScroll: true }), this.reduced ? 0 : 500);
   }
 
-  private countdownEl(): HTMLElement {
+  /** Time until the next descent. When the day it belongs to is over, the title comes back for the new one. */
+  private countdownEl(day: number): HTMLElement {
     const span = h('span', { class: 'countdown' });
     const el = h('p', { class: 'next-dive' }, 'The tide turns in ', span);
     const tick = () => {
-      const ms = msUntilNextDay(new Date());
-      if (ms < 900) {
+      const now = new Date();
+      if (dayNumberFor(now) !== day) {
         this.showTitle();
         return;
       }
-      const s = Math.floor(ms / 1000);
+      const s = Math.floor(msUntilNextDay(now) / 1000);
       span.textContent = `${String(Math.floor(s / 3600)).padStart(2, '0')}:${String(Math.floor((s % 3600) / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
     };
     tick();
@@ -442,7 +454,10 @@ export class App {
       return;
     }
     this.rec = this.dailyRecord();
-    if (!this.rec.answers.length && !this.rec.active) saveDay(this.rec);
+    if (!this.rec.answers.length && !this.rec.active) {
+      this.rec.playedAt ??= Date.now();
+      saveDay(this.rec);
+    }
     await this.plunge();
   }
 
@@ -450,7 +465,7 @@ export class App {
     void this.sound.start();
     this.sound.click();
     const today = this.dailyRecord();
-    const ids = practicePrompts(this.bank.prompts, today.promptIds, Date.now() & 0xffff);
+    const ids = practicePrompts(this.bank.prompts, today.promptIds, Date.now() & 0xffff, this.today, this.bank.days);
     this.rec = {
       day: this.today,
       date: localDateKey(new Date()),
@@ -476,7 +491,8 @@ export class App {
     this.setMadness(rec.sanity);
     this.sound.bubbles(16, 0.08);
     this.abyss.pulse(0.25);
-    const dur = this.reduced ? 0 : 2000 + Math.min(target, 7000) * 0.35;
+    // Back from a reload mid-question: the clock is already running, so no long plunge.
+    const dur = this.reduced || rec.active ? 0 : 2000 + Math.min(target, 7000) * 0.35;
     if (!rec.answers.length) this.banner('surface');
     await this.abyss.descendTo(cam(target), dur);
     await this.bannerRead();
@@ -548,7 +564,7 @@ export class App {
       'div',
       { class: 'plate question-plate' },
       h('p', { class: 'kicker' }, `Question ${index + 1} of ${count}`),
-      cat ? h('p', { class: 'category' }, cat.title) : null,
+      cat ? h('p', { class: 'category', 'data-mad': '' }, cat.title) : null,
       questionEl,
       prompt.rules ? h('p', { class: 'rules', id: 'rules' }, prompt.rules) : null,
       prompt.flavor ? h('p', { class: 'flavor' }, prompt.flavor) : null,
@@ -572,7 +588,7 @@ export class App {
           this.sound.whisper(0.55);
           input.focus();
         },
-        html: `${ICONS.ear}<span>Listen for a whisper</span>`,
+        html: `${icon('hint')}<span>Listen for a whisper</span>`,
       });
       plate.append(btn);
     }
@@ -631,24 +647,11 @@ export class App {
     let raf = requestAnimationFrame(tickTimer);
     this.loops.push(() => cancelAnimationFrame(raf));
 
-    // madness: letters of the question sometimes become something else
-    if (rec.sanity < 35 && !this.reduced) {
-      const id = window.setInterval(() => {
-        const ws = questionEl.querySelectorAll<HTMLElement>('.w');
-        const w = ws[Math.floor(Math.random() * ws.length)];
-        if (!w || w.dataset.orig) return;
-        const orig = w.textContent ?? '';
-        const i = Math.floor(Math.random() * orig.length);
-        w.dataset.orig = orig;
-        w.textContent = '';
-        w.append(orig.slice(0, i), h('span', { class: 'glitch' }, GLYPHS[Math.floor(Math.random() * GLYPHS.length)]), orig.slice(i + 1));
-        setTimeout(() => {
-          w.textContent = orig;
-          delete w.dataset.orig;
-        }, 160);
-      }, 2600);
-      this.loops.push(() => clearInterval(id));
-    }
+    // The deep gets into the short labels (never the question itself): by depth,
+    // and sooner as sanity fails.
+    const depthNow = totalDepth(rec);
+    const catMad = plate.querySelector<HTMLElement>('[data-mad]');
+    const madCat = catMad ? madden(catMad, depthNow, this.reduced, this.madLevel(depthNow)) : null;
 
     input.addEventListener('input', () => this.sound.key());
     form.addEventListener('submit', (e) => {
@@ -686,6 +689,9 @@ export class App {
         saveDay(rec);
       }
       this.sound.refuse();
+      // A refusal is an episode: the lettering lurches, if the deep is already in it.
+      madCat?.pulse();
+      this.zoneText.pulse();
       if (this.settings.haptics) Sound.buzz(45);
       form.classList.remove('shake');
       void form.offsetWidth;
@@ -729,6 +735,7 @@ export class App {
       depth: gain,
       rejects: rec.active?.rejects ?? [],
       timeMs: Math.max(0, Date.now() - (rec.active?.startedAt ?? Date.now())),
+      category: prompt.category,
     };
     rec.answers.push(record);
     rec.active = null;
@@ -753,6 +760,7 @@ export class App {
       depth: 0,
       rejects: rec.active?.rejects ?? [],
       timeMs: timeLimitMs(omenById(rec.omen)),
+      category: prompt.category,
     };
     rec.answers.push(record);
     rec.active = null;
@@ -825,8 +833,10 @@ export class App {
     this.dismissBanner(true);
     // Below the Eye when it is open, or will be by the end of this sink.
     const below = this.eyeIsOpen || Math.max(this.abyss.depth, dest) >= EYE_NEAR;
-    const b = h('div', { class: `zone-banner${below ? ' below-eye' : ''}`, 'aria-hidden': 'true' }, h('span', { class: 'name' }, z.name), h('span', { class: 'sub' }, z.subtitle));
+    const nameEl = h('span', { class: 'name' }, z.name);
+    const b = h('div', { class: `zone-banner${below ? ' below-eye' : ''}`, 'aria-hidden': 'true' }, nameEl, h('span', { class: 'sub' }, z.subtitle));
     document.body.append(b);
+    madden(nameEl, Math.max(z.from, dest - CAM_OFFSET), this.reduced);
     this.bannerEl = b;
     this.bannerAt = performance.now();
     if (zoneKey !== 'surface') this.announce(`${z.name}. ${sentence(z.subtitle)}`);
@@ -876,6 +886,7 @@ export class App {
       const bell = isBellQuestion(rec, n - 1);
       const line = answer.openSecret ? pickLine(this.theme.openSecret.lines, prompt.id, answer.answer) : pickLine(tier.lines, prompt.id, answer.answer);
       kids.push(
+        medallion(tier.tier, 88),
         h('h2', { class: `tier-name${tier.tier === 6 ? ' iridescent' : ''}`, id: 'reveal-title', style: `--tier-color: var(--color-tier-${tier.tier})` }, tier.name),
         h('div', { class: 'answer-row' }, h('p', { class: 'echo' }, `“${answer.answer}”`), h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`)),
         bell ? h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep') : null,
@@ -893,6 +904,7 @@ export class App {
       const rare = prompt.answers.filter((a) => a.tier >= 5).slice(0, 3);
       const might = rare.length ? `The deep would have taken ${rare.map((a) => `“${a.answer}”`).join(', ')}.` : '';
       kids.push(
+        medallion(0, 88),
         h('h2', { class: 'tier-name', id: 'reveal-title', style: '--tier-color: var(--color-refused)' }, 'Out of air'),
         h('div', { class: 'answer-row' }, h('p', { class: 'gain' }, '+0 m')),
         h('p', { class: 'line' }, line),
@@ -924,6 +936,9 @@ export class App {
     const beneath = eyeOpen || cam(total) >= EYE_NEAR;
     const screen = h('section', { class: `screen reveal-screen stagger${beneath ? ' beneath-eye' : ''}`, 'aria-labelledby': 'reveal-title' }, ...kids);
     this.show(screen);
+    // The tier's name goes strange in the deep, except the pearl of the Unspeakable.
+    const title = screen.querySelector<HTMLElement>('#reveal-title:not(.iridescent)');
+    if (title) madden(title, total, this.reduced, this.madLevel(total));
     this.announce(said.filter(Boolean).join(' '));
     setTimeout(() => next.isConnected && !this.sheets.length && next.focus({ preventScroll: true }), this.reduced ? 0 : 700);
     // On a short screen the way on can rise below the fold: once it has risen, bring it just into view.
@@ -953,7 +968,7 @@ export class App {
     const place = landmark?.name ?? zone.name;
     const stats = computeStats(loadDays(), this.today);
     const rank = cultRankFor(this.theme, stats.streak);
-    const glyph = (a: AnswerRecord) => (a.tier === 0 ? this.theme.share.missEmoji : a.openSecret ? this.theme.openSecret.emoji : tierDef(this.theme, a.tier)?.emoji ?? '');
+    const deepestTier = Math.max(0, ...rec.answers.map((a) => a.tier));
 
     const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
     rec.answers.forEach((a, i) => {
@@ -979,7 +994,7 @@ export class App {
             h(
               'summary',
               {},
-              h('span', { class: 'g', 'aria-hidden': 'true' }, glyph(a)),
+              seal(a.tier, 'g seal'),
               h(
                 'span',
                 {},
@@ -995,7 +1010,7 @@ export class App {
       );
     });
 
-    const shareBtn = h('button', { class: 'btn primary', type: 'button', html: `${ICONS.share}<span>Share</span>` }) as HTMLButtonElement;
+    const shareBtn = h('button', { class: 'btn primary', type: 'button', html: `${icon('share')}<span>Share</span>` }) as HTMLButtonElement;
     const cardBtn = h('button', { class: 'btn', type: 'button', html: `${ICONS.image}<span>Save card</span>` }) as HTMLButtonElement;
     const doShare = async (btn: HTMLButtonElement, img: boolean) => {
       if (btn.classList.contains('busy')) return; // drawing the card takes a moment; one tap is enough
@@ -1023,11 +1038,12 @@ export class App {
         'div',
         { class: 'result-head' },
         h('p', { class: 'kicker' }, rec.practice ? 'Practice dive · not recorded' : `Dive No. ${rec.day} · the log of your descent`),
+        rec.answers.length ? medallion(deepestTier, 76) : null,
         totalEl,
-        h('p', { class: 'landmark' }, place),
+        h('p', { class: 'landmark', 'data-mad': '' }, place),
         place !== zone.name ? h('p', { class: 'zone-name' }, zone.name) : null,
         h('p', { class: 'line' }, pickLine(landmark?.lines ?? [], rec.day, total)),
-        h('p', { class: 'glyph-row', 'aria-hidden': 'true' }, ...rec.answers.map((a) => h('span', {}, glyph(a)))),
+        h('p', { class: 'glyph-row', 'aria-hidden': 'true' }, ...rec.answers.map((a) => seal(a.tier))),
       ),
       h(
         'div',
@@ -1037,7 +1053,7 @@ export class App {
         h('div', {}, h('span', { class: 'v rank' }, rank.name), h('span', { class: 'k' }, 'rank')),
       ),
       h('div', { class: 'share-row' }, shareBtn, cardBtn),
-      rec.practice ? null : this.countdownEl(),
+      !rec.practice && rec.day === dayNumberFor(new Date()) ? this.countdownEl(rec.day) : null,
       log,
       h(
         'div',
@@ -1048,6 +1064,8 @@ export class App {
     );
     this.closeEye();
     this.show(screen);
+    const landmarkEl = screen.querySelector<HTMLElement>('.landmark[data-mad]');
+    if (landmarkEl) madden(landmarkEl, total, this.reduced);
     this.announce(`${rec.practice ? 'Practice dive over' : 'Dive complete'}. ${fmtMetres(total)} metres, ${place}.`);
     window.setTimeout(() => totalEl.isConnected && !this.sheets.length && totalEl.focus({ preventScroll: true }), this.reduced ? 0 : 450);
   }
@@ -1098,7 +1116,7 @@ export class App {
     const active = document.activeElement;
     const opener = active instanceof HTMLElement && active !== document.body ? active : null;
     const id = `sheet-title-${++this.sheetSeq}`;
-    const closeBtn = h('button', { class: 'icon-btn close', type: 'button', 'aria-label': 'Close', html: ICONS.close });
+    const closeBtn = h('button', { class: 'icon-btn close', type: 'button', 'aria-label': 'Close', html: icon('close') });
     const panel = h(
       'div',
       { class: 'sheet-panel', tabindex: '-1' },
@@ -1151,7 +1169,7 @@ export class App {
         ];
     const ladder = h('ul', { class: 'tier-ladder' });
     for (const t of this.theme.tiers) {
-      ladder.append(h('li', { style: `--tier-color: var(--color-tier-${t.tier})` }, h('span', { 'aria-hidden': 'true' }, t.emoji), h('span', { class: 'n' }, t.name), h('span', { class: 'd' }, `${fmtMetres(t.depth)} m`)));
+      ladder.append(h('li', { style: `--tier-color: var(--color-tier-${t.tier})` }, seal(t.tier), h('span', { class: 'n' }, t.name), h('span', { class: 'd' }, `${fmtMetres(t.depth)} m`)));
     }
     const body = [
       h('ol', { class: 'howto-steps' }, ...steps.map((s) => h('li', {}, h('span', {}, s)))),
@@ -1192,7 +1210,7 @@ export class App {
         h(
           'div',
           { class: 'bar', style: `--tier-color: var(--color-tier-${t.tier})` },
-          h('span', {}, `${t.emoji} ${t.name}`),
+          h('span', { class: 'bar-name' }, seal(t.tier), t.name),
           h('span', { class: 'track', 'aria-hidden': 'true' }, h('span', { class: 'fill', style: `width:${(n / most) * 100}%` })),
           h('span', { class: 'log' }, String(n)),
         ),
