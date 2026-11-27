@@ -28,7 +28,8 @@ body {
 }
 
 button,
-input {
+input,
+textarea {
   font: inherit;
   color: inherit;
 }
@@ -36,6 +37,10 @@ input {
 :focus-visible {
   outline: 2px solid var(--color-focus);
   outline-offset: 3px;
+}
+
+.nowrap {
+  white-space: nowrap;
 }
 
 .visually-hidden {
@@ -47,14 +52,42 @@ input {
   white-space: nowrap;
 }
 
+/* An engraver's reserve: lettering that sits straight on the picture keeps a
+   margin of clean ground around it, so hatching never runs through the words.
+   On the paper plate it is bare paper; in the deep it is a little darkness.
+   --halo does the same for a single line of type. */
+:root {
+  --reserve: color-mix(in oklab, var(--color-ground) 88%, transparent);
+  --halo: 0 0 2px var(--color-ground), 0 0 6px var(--color-ground), 0 0 14px var(--color-ground);
+  /* Where the great Eye's lower lid ends (the shader draws it from the middle
+     of the screen, larger on wide screens). Words that share the screen with
+     it start below this line. */
+  --eye-clear: 52dvh;
+  --hud-h: 68px;
+}
+
+@media (min-aspect-ratio: 3/4) {
+  :root {
+    --eye-clear: 56dvh;
+  }
+}
+
+@media (min-aspect-ratio: 1/1) {
+  :root {
+    --eye-clear: 61dvh;
+  }
+}
+
 /* ------------------------------------------------------------ the abyss */
 
 canvas.abyss {
   position: fixed;
   inset: 0;
   width: 100vw;
+  /* The renderer sizes its picture to the window, so the canvas follows the
+     dynamic viewport too: nothing stretches when a keyboard resizes the page. */
   height: 100vh;
-  height: 100lvh;
+  height: 100dvh;
   display: block;
   z-index: var(--z-abyss);
 }
@@ -76,6 +109,9 @@ canvas.abyss {
   z-index: var(--z-ui);
   height: 100vh;
   height: 100dvh;
+  /* fitted to the visible area, so an iPhone keyboard never sits over the answer */
+  height: var(--vvh, 100dvh);
+  transform: translateY(var(--vv-top, 0px));
   display: grid;
   grid-template-rows: auto 1fr;
   padding: env(safe-area-inset-top) env(safe-area-inset-right) 0 env(safe-area-inset-left);
@@ -87,7 +123,10 @@ canvas.abyss {
   grid-template-columns: 44px 1fr auto 44px;
   align-items: center;
   gap: var(--space-2);
-  padding: var(--space-2) var(--space-3);
+  /* the band reaches up under the status bar too */
+  margin-top: calc(-1 * env(safe-area-inset-top));
+  padding: calc(var(--space-2) + env(safe-area-inset-top)) var(--space-3) var(--space-4);
+  background: linear-gradient(to bottom, var(--reserve) 0%, var(--reserve) 62%, transparent 100%);
   font-family: var(--font-display-caps);
   letter-spacing: var(--tracking-caps);
   font-size: var(--step--1);
@@ -136,11 +175,21 @@ canvas.abyss {
   border-radius: var(--radius-round);
   color: var(--color-ink);
   cursor: pointer;
-  opacity: 0.8;
+  opacity: 0.85;
+  transition: opacity var(--dur-quick), background var(--dur-quick);
 }
 
 .icon-btn:hover {
   opacity: 1;
+}
+
+.icon-btn:active {
+  background: var(--color-glow-faint);
+}
+
+.icon-btn:focus-visible {
+  opacity: 1;
+  outline-offset: 0;
 }
 
 .icon-btn svg {
@@ -162,10 +211,11 @@ canvas.abyss {
   overflow-y: auto;
   overflow-x: hidden;
   -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: var(--space-3) var(--space-4) calc(var(--space-6) + env(safe-area-inset-bottom) + var(--kb, 0px));
+  padding: var(--space-3) var(--space-4) calc(var(--space-6) + env(safe-area-inset-bottom));
   scrollbar-width: none;
 }
 
@@ -176,6 +226,42 @@ canvas.abyss {
 .screen > * {
   width: 100%;
   max-width: 34rem;
+}
+
+/* One change of scene: the old words drift off (up as you sink, down as you
+   rise) while the new ones surface. */
+.screen-in {
+  animation: screen-in 560ms var(--ease-surface) both;
+}
+
+.screen-out {
+  pointer-events: none;
+  animation: screen-out-up 380ms var(--ease-sink) forwards;
+}
+
+.screen-out.out-down {
+  animation-name: screen-out-down;
+}
+
+@keyframes screen-in {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+
+@keyframes screen-out-up {
+  to {
+    opacity: 0;
+    transform: translateY(-26px);
+  }
+}
+
+@keyframes screen-out-down {
+  to {
+    opacity: 0;
+    transform: translateY(26px);
+  }
 }
 
 /* ------------------------------------------------------------ sounding line */
@@ -257,6 +343,8 @@ canvas.abyss {
   text-align: center;
   color: var(--color-ink);
   text-shadow: 0 1px 0 var(--color-plate);
+  /* the title is cut deeper: a wide reserve, then the ink */
+  filter: drop-shadow(0 0 8px var(--color-ground)) drop-shadow(0 0 16px var(--color-ground));
 }
 
 .wordmark .tail {
@@ -296,7 +384,7 @@ canvas.abyss {
 
 .plate {
   position: relative;
-  padding: var(--space-5) var(--space-5) var(--space-5);
+  padding: var(--space-5);
   background: var(--color-plate-veil);
   border: var(--rule-hair) solid var(--color-rule);
   outline: var(--rule-hair) solid var(--color-rule-soft);
@@ -330,17 +418,9 @@ canvas.abyss {
   border-top: 0;
 }
 
-/* An engraver's reserve: lettering that sits straight on the picture keeps a
-   margin of clean ground around it, so hatching never runs through the words.
-   On the paper plate it is bare paper; in the deep it is a little darkness. */
-:root {
-  --reserve: color-mix(in oklab, var(--color-ground) 88%, transparent);
-}
-
 .title-screen .crest .kicker,
 .title-screen .tagline,
 .title-screen .btn.ghost,
-.title-screen .meta,
 .done-note,
 .next-dive,
 .results-screen .btn.ghost {
@@ -357,19 +437,6 @@ canvas.abyss {
 .title-screen .btn.ghost:hover {
   border-color: transparent;
   color: var(--color-ink);
-}
-
-.hud {
-  /* the band reaches up under the status bar too */
-  margin-top: calc(-1 * env(safe-area-inset-top));
-  padding-top: calc(var(--space-2) + env(safe-area-inset-top));
-  padding-bottom: var(--space-4);
-  background: linear-gradient(to bottom, var(--reserve) 0%, var(--reserve) 62%, transparent 100%);
-}
-
-.wordmark {
-  /* the title is cut deeper: a wide reserve, then the ink */
-  filter: drop-shadow(0 0 8px var(--color-ground)) drop-shadow(0 0 16px var(--color-ground));
 }
 
 /* ------------------------------------------------------------ buttons */
@@ -389,11 +456,13 @@ canvas.abyss {
   font-family: var(--font-display-caps);
   letter-spacing: var(--tracking-caps);
   font-size: var(--step-0);
+  text-align: center;
   cursor: pointer;
   transition:
     background var(--dur-quick),
     color var(--dur-quick),
     box-shadow var(--dur-ui),
+    opacity var(--dur-quick),
     transform var(--dur-quick);
   user-select: none;
 }
@@ -413,6 +482,11 @@ canvas.abyss {
   box-shadow: 0 0 0 4px var(--color-plate-veil), 0 0 0 5px var(--color-action), 0 0 28px var(--color-glow-soft);
 }
 
+/* clear of the button's own engraved ring */
+.btn.primary:focus-visible {
+  outline-offset: 7px;
+}
+
 .btn.ghost {
   border-color: transparent;
   color: var(--color-ink-muted);
@@ -428,6 +502,12 @@ canvas.abyss {
   cursor: default;
 }
 
+/* drawing the card takes a moment */
+.btn.busy {
+  opacity: 0.7;
+  cursor: progress;
+}
+
 .btn.wide {
   width: 100%;
 }
@@ -436,6 +516,10 @@ canvas.abyss {
   flex: none;
   width: 1.3em;
   height: 1.3em;
+}
+
+a.btn {
+  text-decoration: none;
 }
 
 /* ------------------------------------------------------------ title */
@@ -450,11 +534,6 @@ canvas.abyss {
   display: grid;
   justify-items: center;
   gap: var(--space-1);
-}
-
-.title-screen .meta {
-  text-align: center;
-  margin: 0;
 }
 
 .omen-plate {
@@ -477,6 +556,7 @@ canvas.abyss {
 
 .omen-plate .effect {
   margin: 0;
+  text-wrap: balance;
 }
 
 .omen-plate .flavor {
@@ -507,6 +587,37 @@ canvas.abyss {
   color: var(--color-ink-muted);
 }
 
+/* the title's own sound switch (the HUD is hidden here) */
+.title-screen .sound-toggle {
+  min-height: 44px;
+  padding-block: var(--space-1);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: lowercase;
+}
+
+.sound-toggle svg {
+  width: 1.5em;
+  height: 1.5em;
+}
+
+/* a small phone: the whole title fits without scrolling */
+@media (max-height: 700px) {
+  .title-screen {
+    gap: var(--space-3);
+    padding-top: var(--space-3);
+  }
+
+  .title-screen .omen-plate {
+    padding: var(--space-4);
+  }
+
+  .title-screen .title-actions {
+    margin-top: 0;
+    gap: var(--space-2);
+  }
+}
+
 /* ------------------------------------------------------------ prompt */
 
 .prompt-screen {
@@ -517,6 +628,15 @@ canvas.abyss {
 
 .question-plate {
   margin-top: clamp(var(--space-2), 4vh, var(--space-7));
+}
+
+/* the category, as a chapter's subtitle under the count */
+.question-plate .category {
+  margin: 2px 0 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
 }
 
 .question {
@@ -534,7 +654,7 @@ canvas.abyss {
   filter: blur(6px);
   transform: translateY(0.4em);
   animation: word-rise 900ms var(--ease-surface) forwards;
-  animation-delay: calc(var(--i) * 70ms);
+  animation-delay: calc(var(--rise-lead, 0ms) + var(--i) * 70ms);
 }
 
 @keyframes word-rise {
@@ -549,6 +669,7 @@ canvas.abyss {
   margin: 0 0 var(--space-1);
   font-size: var(--step--1);
   color: var(--color-ink-muted);
+  text-wrap: pretty;
 }
 
 .flavor {
@@ -557,13 +678,14 @@ canvas.abyss {
   font-style: italic;
   font-size: var(--step--1);
   color: var(--color-ink-muted);
+  text-wrap: pretty;
 }
 
 .bell-mark {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  margin-top: var(--space-2);
+  margin: var(--space-2) 0 0;
   padding: 2px 10px;
   border: 1px solid var(--color-accent);
   color: var(--color-accent);
@@ -623,12 +745,13 @@ canvas.abyss {
   }
 }
 
+/* The answer is written on the same plate as the question, right under the gauge. */
 .answer-form {
   display: grid;
   grid-template-columns: 1fr auto;
-  gap: var(--space-2);
+  gap: var(--space-3);
   align-items: end;
-  margin-top: var(--space-2);
+  margin-top: var(--space-3);
 }
 
 .answer {
@@ -637,7 +760,7 @@ canvas.abyss {
   min-height: 52px;
   padding: var(--space-2) var(--space-1);
   border: 0;
-  border-bottom: 2px solid var(--color-rule);
+  border-bottom: 2px solid var(--color-ink-muted);
   border-radius: 0;
   background: transparent;
   font-family: var(--font-log);
@@ -646,15 +769,29 @@ canvas.abyss {
   color: var(--color-ink);
   caret-color: var(--color-glow);
   outline: none;
-  transition: border-color var(--dur-ui);
+  transition:
+    border-color var(--dur-ui),
+    box-shadow var(--dur-ui);
 }
 
 .answer::placeholder {
-  color: var(--color-ink-faint);
+  color: var(--color-ink-muted);
+  font-family: var(--font-display);
+  font-style: italic;
+  letter-spacing: 0;
+  opacity: 1;
 }
 
-.answer:focus {
-  border-bottom-color: var(--color-glow);
+/* Focus is a heavier line in the focus colour, so it reads in every zone. */
+.answer:focus,
+.answer:focus-visible {
+  outline: none;
+  border-bottom-color: var(--color-focus);
+  box-shadow: 0 1px 0 var(--color-focus), 0 14px 18px -16px var(--color-focus);
+}
+
+.answer:disabled {
+  opacity: 0.55;
 }
 
 .answer-form.shake {
@@ -669,25 +806,26 @@ canvas.abyss {
 }
 
 .feedback {
-  min-height: 3em;
-  margin: 0;
+  min-height: 2.9em;
+  margin: var(--space-2) 0 0;
   font-family: var(--font-log);
   font-size: var(--step--1);
+  line-height: 1.45;
   color: var(--color-refused);
-  text-wrap: balance;
-}
-
-.feedback.calm {
-  color: var(--color-ink-muted);
+  text-wrap: pretty;
 }
 
 .tries {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-2);
-  margin: 0;
+  gap: var(--space-1) var(--space-3);
+  margin: var(--space-1) 0 0;
   padding: 0;
   list-style: none;
+}
+
+.tries:empty {
+  display: none;
 }
 
 .tries li {
@@ -696,53 +834,132 @@ canvas.abyss {
   color: var(--color-ink-muted);
   text-decoration: line-through;
   text-decoration-color: var(--color-refused);
-  opacity: 0.8;
+  text-decoration-thickness: 1.5px;
 }
 
 .whisper-btn {
-  justify-self: start;
+  margin: var(--space-2) 0 0 calc(-1 * var(--space-2));
+  padding-inline: var(--space-2);
 }
 
 .whisper-text {
+  margin: var(--space-3) 0 0;
   font-family: var(--font-log);
   letter-spacing: 0.3em;
   color: var(--color-glow);
+  overflow-wrap: anywhere;
 }
 
 /* ------------------------------------------------------------ reveal */
 
 .reveal-screen {
-  justify-content: center;
   text-align: center;
   gap: var(--space-3);
+  /* A pool of clear water behind the words, so carvings and motes never run through them. */
+  background: radial-gradient(
+    ellipse 110% 46% at 50% 50%,
+    color-mix(in oklab, var(--color-ground) 82%, transparent) 0%,
+    color-mix(in oklab, var(--color-ground) 58%, transparent) 55%,
+    transparent 85%
+  );
 }
 
-/* A pool of clear water behind the words, so carvings and motes never run through them. */
-.reveal-screen {
-  background: radial-gradient(ellipse 92% 40% at 50% 50%, color-mix(in oklab, var(--color-ground) 74%, transparent) 0%, transparent 74%);
+/* Centred when there is room; when there is not, it scrolls from the top. */
+.reveal-screen > :first-child {
+  margin-top: auto;
+}
+
+.reveal-screen > :last-child {
+  margin-bottom: auto;
 }
 
 /* When the Eye opens, the words gather beneath it instead of across it. */
 .reveal-screen.beneath-eye {
-  justify-content: flex-end;
-  padding-bottom: max(var(--space-6), 6vh);
-  background: radial-gradient(ellipse 96% 34% at 50% 74%, color-mix(in oklab, var(--color-ground) 78%, transparent) 0%, transparent 74%);
+  gap: var(--space-2);
+  padding-top: max(var(--space-4), calc(var(--eye-clear) - var(--hud-h) - env(safe-area-inset-top)));
+  padding-bottom: max(var(--space-5), calc(env(safe-area-inset-bottom) + var(--space-3)));
+  background: radial-gradient(
+    ellipse 110% 32% at 50% 78%,
+    color-mix(in oklab, var(--color-ground) 84%, transparent) 0%,
+    color-mix(in oklab, var(--color-ground) 60%, transparent) 55%,
+    transparent 85%
+  );
 }
 
-.reveal-screen .bell-mark {
+.reveal-screen.beneath-eye > :last-child {
+  margin-bottom: 0;
+}
+
+.reveal-screen.beneath-eye .tier-name {
+  font-size: clamp(2.2rem, 10.5vw, 3.8rem);
+}
+
+.reveal-screen.beneath-eye .answer-row {
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: baseline;
+  column-gap: 0.75em;
+  row-gap: 0;
+}
+
+.reveal-screen.beneath-eye .lore {
+  padding-top: var(--space-2);
+}
+
+.reveal-screen.beneath-eye .actions {
+  margin-top: var(--space-2);
+}
+
+/* A laptop screen is wide but short, and the Eye fills most of it: the words pack closer. */
+@media (min-aspect-ratio: 1/1) and (max-height: 820px) {
+  .reveal-screen.beneath-eye {
+    gap: var(--space-1);
+    padding-bottom: max(var(--space-3), env(safe-area-inset-bottom));
+  }
+
+  .reveal-screen.beneath-eye .tier-name {
+    font-size: clamp(2.2rem, 7dvh, 3.8rem);
+  }
+
+  .reveal-screen.beneath-eye .lore {
+    padding-top: var(--space-1);
+  }
+
+  .reveal-screen.beneath-eye .actions {
+    margin-top: var(--space-1);
+  }
+}
+
+.reveal-screen .bell-mark,
+.reveal-screen .secret {
+  width: auto;
+  max-width: 100%;
   align-self: center;
   margin: 0;
 }
 
 /* Zone names are written below the Eye while it is open. */
-.eye-open .zone-banner {
-  top: 54%;
+.eye-open .zone-banner,
+.zone-banner.below-eye {
+  top: var(--eye-clear);
+}
+
+.reveal-screen .kicker {
+  font-size: var(--step--1);
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .tier-name {
   margin: 0;
+  /* shrink to the word, so the letters gather in evenly from both sides */
+  width: auto;
+  max-width: none;
+  align-self: center;
+  white-space: nowrap;
   font-family: var(--font-display-caps);
-  font-size: clamp(2.6rem, 13vw, 5rem);
+  font-weight: 400;
+  font-size: clamp(2.4rem, 12vw, 5rem);
   letter-spacing: 0.08em;
   line-height: 1;
   color: var(--tier-color, var(--color-glow));
@@ -751,7 +968,7 @@ canvas.abyss {
 }
 
 [data-zone='surface'] .reveal-screen .tier-name {
-  text-shadow: none;
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .tier-name.iridescent {
@@ -779,11 +996,19 @@ canvas.abyss {
   }
 }
 
+.reveal-screen .answer-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+}
+
 .reveal-screen .gain {
   margin: 0;
   font-family: var(--font-log);
   font-size: var(--step-2);
   color: var(--color-ink);
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .echo {
@@ -791,6 +1016,7 @@ canvas.abyss {
   font-family: var(--font-display);
   font-style: italic;
   font-size: var(--step-2);
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .line {
@@ -799,6 +1025,7 @@ canvas.abyss {
   font-size: var(--step-0);
   color: var(--color-ink-muted);
   text-wrap: balance;
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .lore {
@@ -809,18 +1036,19 @@ canvas.abyss {
   font-size: var(--step--1);
   font-style: italic;
   color: var(--color-ink-muted);
+  text-wrap: pretty;
+  text-shadow: var(--halo);
 }
 
 .reveal-screen .secret {
   display: inline-block;
-  margin: 0 auto;
   padding: 2px 10px;
   border: 1px dashed var(--color-ink-muted);
   border-radius: var(--radius-tag);
+  background: var(--reserve);
   font-family: var(--font-display-caps);
   letter-spacing: var(--tracking-caps);
   font-size: var(--step--1);
-  width: auto;
 }
 
 .reveal-screen .actions {
@@ -871,11 +1099,14 @@ canvas.abyss {
   position: fixed;
   left: 0;
   right: 0;
-  top: 38%;
+  top: 36%;
   z-index: var(--z-overlay);
   text-align: center;
   pointer-events: none;
-  padding: 0 var(--space-5);
+  padding: var(--space-5);
+  /* a band of still water behind the name */
+  background: radial-gradient(ellipse 72% 50% at 50% 50%, color-mix(in oklab, var(--color-ground) 80%, transparent) 0%, transparent 100%);
+  animation: banner 4200ms var(--ease-drift) forwards;
 }
 
 .zone-banner .name {
@@ -883,8 +1114,10 @@ canvas.abyss {
   font-family: var(--font-display-caps);
   font-size: clamp(1.8rem, 8vw, 3.4rem);
   letter-spacing: 0.14em;
+  line-height: 1.1;
   color: var(--color-glow);
-  text-shadow: var(--glow-line);
+  text-shadow: var(--glow-line), var(--halo);
+  animation: banner-name 4200ms var(--ease-surface) both;
 }
 
 .zone-banner .sub {
@@ -894,12 +1127,16 @@ canvas.abyss {
   font-style: italic;
   font-size: var(--step-0);
   letter-spacing: 0.02em;
-  color: var(--color-ink-muted);
-  text-shadow: 0 0 6px var(--color-ground), 0 0 14px var(--color-ground);
+  color: var(--color-ink);
+  text-shadow: var(--halo);
 }
 
-.zone-banner {
-  animation: banner 4200ms var(--ease-drift) forwards;
+.zone-banner.leaving {
+  opacity: 0 !important;
+  filter: blur(6px);
+  transition:
+    opacity 600ms var(--ease-drift),
+    filter 600ms var(--ease-drift);
 }
 
 @keyframes banner {
@@ -907,10 +1144,6 @@ canvas.abyss {
   18% { opacity: 1; filter: blur(0); }
   70% { opacity: 1; }
   100% { opacity: 0; filter: blur(8px); }
-}
-
-.zone-banner .name {
-  animation: banner-name 4200ms var(--ease-surface) both;
 }
 
 @keyframes banner-name {
@@ -928,22 +1161,35 @@ canvas.abyss {
   text-align: center;
   font-family: var(--font-log);
   font-size: var(--step-4);
+  line-height: 1.1;
   color: var(--color-ink);
   font-variant-numeric: tabular-nums;
   pointer-events: none;
-  text-shadow:
-    0 0 2px var(--color-ground),
-    0 0 8px var(--color-ground),
-    0 0 18px var(--color-ground),
-    0 0 36px var(--color-glow-soft);
+  text-shadow: var(--halo), 0 0 36px var(--color-glow-soft);
   animation: rise 600ms var(--ease-surface) both;
+}
+
+.descent-readout .n {
+  display: block;
 }
 
 .descent-readout small {
   display: block;
-  font-size: var(--step--1);
-  color: var(--color-ink-muted);
-  letter-spacing: 0.2em;
+  margin-top: var(--space-1);
+  font-size: var(--step-0);
+  letter-spacing: 0.16em;
+  color: var(--color-glow);
+}
+
+.descent-readout.leaving {
+  animation: readout-out 460ms var(--ease-drift) forwards;
+}
+
+@keyframes readout-out {
+  to {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
 }
 
 /* ------------------------------------------------------------ results */
@@ -953,8 +1199,24 @@ canvas.abyss {
   padding-top: var(--space-4);
 }
 
+/* the result is read off a pool of clear water, like the reveals */
 .result-head {
   text-align: center;
+  margin-block: calc(-1 * var(--space-5)) calc(-1 * var(--space-3));
+  padding: var(--space-6) var(--space-3);
+  background: radial-gradient(
+    closest-side,
+    color-mix(in oklab, var(--color-ground) 88%, transparent) 62%,
+    color-mix(in oklab, var(--color-ground) 55%, transparent) 84%,
+    transparent
+  );
+}
+
+.result-head .kicker,
+.result-head .landmark,
+.result-head .zone-name,
+.result-head .line {
+  text-shadow: var(--halo);
 }
 
 .result-head .total {
@@ -968,6 +1230,10 @@ canvas.abyss {
   font-variant-numeric: tabular-nums;
 }
 
+.result-head .total:focus {
+  outline: none;
+}
+
 .result-head .total small {
   font-size: 0.4em;
   margin-left: 0.15em;
@@ -978,6 +1244,7 @@ canvas.abyss {
   font-family: var(--font-display);
   font-size: var(--step-3);
   line-height: var(--leading-display);
+  text-wrap: balance;
 }
 
 .result-head .zone-name {
@@ -997,6 +1264,7 @@ canvas.abyss {
 
 .glyph-row {
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 6px;
   font-size: 1.6rem;
@@ -1008,37 +1276,76 @@ canvas.abyss {
   grid-template-columns: repeat(3, 1fr);
   text-align: center;
   gap: var(--space-2);
+  padding: var(--space-4) var(--space-3);
+}
+
+/* values sit on one line and labels on another, whatever their size */
+.stat-strip > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-width: 0;
 }
 
 .stat-strip .v {
   display: block;
   font-family: var(--font-log);
   font-size: var(--step-2);
+  line-height: 1.2;
   color: var(--color-ink);
+}
+
+.stat-strip .v.rank {
+  font-size: var(--step-0);
+  line-height: 1.25;
+  text-wrap: balance;
 }
 
 .stat-strip .k {
   display: block;
+  margin-top: var(--space-1);
   font-family: var(--font-display-caps);
   letter-spacing: var(--tracking-caps);
   font-size: var(--step--2);
   color: var(--color-ink-muted);
 }
 
+.share-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--space-3);
+}
+
+.share-row .btn {
+  padding-inline: var(--space-3);
+}
+
+.next-dive {
+  text-align: center;
+  margin: 0;
+  font-family: var(--font-log);
+  color: var(--color-ink-muted);
+}
+
+.next-dive .countdown {
+  color: var(--color-ink);
+  font-variant-numeric: tabular-nums;
+}
+
+/* the log of the dive, on its own plate so the deep never runs through it */
 .dive-log {
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 6px;
   display: grid;
   gap: 0;
 }
 
-.dive-log > li {
-  border-top: 1px solid var(--color-rule-soft);
+.dive-log.plate {
+  padding: 0 var(--space-3);
 }
 
-.dive-log > li:last-child {
-  border-bottom: 1px solid var(--color-rule-soft);
+.dive-log > li + li {
+  border-top: 1px solid var(--color-rule-soft);
 }
 
 .dive-log details > summary {
@@ -1055,6 +1362,10 @@ canvas.abyss {
   display: none;
 }
 
+.dive-log details > summary:focus-visible {
+  outline-offset: 0;
+}
+
 .dive-log .q {
   font-size: var(--step--1);
   color: var(--color-ink-muted);
@@ -1062,8 +1373,10 @@ canvas.abyss {
 }
 
 .dive-log .a {
+  display: block;
   font-family: var(--font-display);
   font-size: var(--step-1);
+  line-height: 1.25;
 }
 
 .dive-log .a.miss {
@@ -1099,24 +1412,6 @@ canvas.abyss {
   color: var(--color-ink);
 }
 
-.share-row {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  gap: var(--space-3);
-}
-
-.next-dive {
-  text-align: center;
-  margin: 0;
-  font-family: var(--font-log);
-  color: var(--color-ink-muted);
-}
-
-.next-dive .countdown {
-  color: var(--color-ink);
-  font-variant-numeric: tabular-nums;
-}
-
 /* ------------------------------------------------------------ sheets (modal) */
 
 .sheet {
@@ -1133,13 +1428,49 @@ canvas.abyss {
 .sheet-panel {
   width: min(36rem, 100%);
   max-height: min(88dvh, 52rem);
-  overflow-y: auto;
-  padding: var(--space-5) var(--space-5) calc(var(--space-6) + env(safe-area-inset-bottom));
+  display: flex;
+  flex-direction: column;
   background: var(--color-plate);
   border-top: 1px solid var(--color-rule);
   outline: 1px solid var(--color-rule-soft);
   outline-offset: -6px;
   animation: sheet-up var(--dur-reveal) var(--ease-surface);
+}
+
+/* the panel takes focus only so a screen reader starts at its title */
+.sheet-panel:focus,
+.sheet-panel:focus-visible {
+  outline: 1px solid var(--color-rule-soft);
+  outline-offset: -6px;
+}
+
+.sheet-head {
+  flex: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  padding: var(--space-4) var(--space-3) var(--space-2) var(--space-5);
+}
+
+.sheet-body {
+  flex: 1 1 auto;
+  min-height: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  padding: var(--space-1) var(--space-5) calc(var(--space-6) + env(safe-area-inset-bottom));
+}
+
+.sheet-actions {
+  flex: none;
+  display: grid;
+  justify-items: center;
+  padding: var(--space-4) var(--space-5) calc(var(--space-5) + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.sheet-body:has(+ .sheet-actions) {
+  padding-bottom: var(--space-4);
 }
 
 @media (min-width: 640px) {
@@ -1152,8 +1483,24 @@ canvas.abyss {
   }
 }
 
+.sheet.closing {
+  pointer-events: none;
+  animation: fade-out 240ms var(--ease-drift) forwards;
+}
+
+.sheet.closing .sheet-panel {
+  animation: sheet-down 240ms var(--ease-sink) forwards;
+}
+
 @keyframes sheet-up {
   from {
+    transform: translateY(40px);
+    opacity: 0;
+  }
+}
+
+@keyframes sheet-down {
+  to {
     transform: translateY(40px);
     opacity: 0;
   }
@@ -1165,11 +1512,18 @@ canvas.abyss {
   }
 }
 
+@keyframes fade-out {
+  to {
+    opacity: 0;
+  }
+}
+
 .sheet h2 {
-  margin: 0 0 var(--space-3);
+  margin: 0;
   font-family: var(--font-display);
   font-weight: 400;
   font-size: var(--step-3);
+  line-height: var(--leading-display);
 }
 
 .sheet h3 {
@@ -1181,11 +1535,12 @@ canvas.abyss {
   color: var(--color-ink-muted);
 }
 
+.sheet p {
+  text-wrap: pretty;
+}
+
 .sheet .close {
-  position: sticky;
-  top: 0;
-  float: right;
-  margin: -12px -12px 0 0;
+  flex: none;
 }
 
 .howto-steps {
@@ -1202,6 +1557,7 @@ canvas.abyss {
   display: grid;
   grid-template-columns: 2rem 1fr;
   gap: var(--space-2);
+  text-wrap: pretty;
 }
 
 .howto-steps li::before {
@@ -1293,19 +1649,25 @@ canvas.abyss {
   justify-content: space-between;
   align-items: center;
   gap: var(--space-3);
-  padding: var(--space-2) 0;
+  min-height: 48px;
+  padding: var(--space-1) 0;
   border-bottom: 1px dotted var(--color-rule-soft);
+  cursor: pointer;
 }
 
 .setting input[type='range'] {
   width: 50%;
+  min-height: 32px;
   accent-color: var(--color-action);
+  cursor: pointer;
 }
 
 .setting input[type='checkbox'] {
-  width: 22px;
-  height: 22px;
+  width: 24px;
+  height: 24px;
+  margin: 0 4px 0 0;
   accent-color: var(--color-action);
+  cursor: pointer;
 }
 
 /* ------------------------------------------------------------ toast */
@@ -1341,7 +1703,7 @@ canvas.abyss {
   animation:
     word-rise 900ms var(--ease-surface) forwards,
     waver 6s var(--ease-drift) infinite;
-  animation-delay: calc(var(--i) * 70ms), calc(var(--i) * -0.7s);
+  animation-delay: calc(var(--rise-lead, 0ms) + var(--i) * 70ms), calc(var(--i) * -0.7s);
 }
 
 @keyframes waver {
@@ -1358,17 +1720,6 @@ canvas.abyss {
   display: inline-block;
   color: var(--color-accent);
   transform: scaleX(-1);
-}
-
-/* ------------------------------------------------------------ reduced motion */
-
-.reduced-motion *,
-.reduced-motion *::before,
-.reduced-motion *::after {
-  animation-duration: 1ms !important;
-  animation-iteration-count: 1 !important;
-  animation-delay: 0ms !important;
-  transition-duration: 1ms !important;
 }
 
 /* ------------------------------------------------------------ share card sheet */
@@ -1388,7 +1739,6 @@ canvas.abyss {
 .share-text {
   display: block;
   width: 100%;
-  box-sizing: border-box;
   padding: var(--space-3);
   font-family: var(--font-log);
   font-size: var(--step--1);
@@ -1400,6 +1750,90 @@ canvas.abyss {
   resize: none;
 }
 
-a.btn {
-  text-decoration: none;
+/* ------------------------------------------------------------ short screens
+   The keyboard is up, or a phone lies on its side (html.short is set from the
+   visible height). The question, the gauge and the answer line must all stay
+   in sight above the keyboard, so the plate packs tighter. */
+
+.short .hud {
+  padding-top: calc(var(--space-1) + env(safe-area-inset-top));
+  padding-bottom: var(--space-2);
+}
+
+.short .hud-depth .zone {
+  display: none;
+}
+
+.short .sounding,
+.short .sounding[hidden] {
+  display: none;
+}
+
+.short .prompt-screen {
+  gap: var(--space-2);
+  padding: var(--space-1) var(--space-4) var(--space-3);
+}
+
+.short .question-plate {
+  margin-top: 6px;
+  padding: var(--space-3) var(--space-4);
+}
+
+.short .question-plate > .kicker,
+.short .question-plate > .category,
+.short .question-plate > .flavor {
+  display: none;
+}
+
+.short .question {
+  margin: 0 0 var(--space-1);
+  font-size: var(--step-2);
+  line-height: 1.15;
+}
+
+.short .rules {
+  line-height: 1.35;
+}
+
+.short .air {
+  margin-top: var(--space-2);
+}
+
+.short .answer-form {
+  margin-top: var(--space-1);
+}
+
+.short .answer,
+.short .answer-form .btn {
+  min-height: 46px;
+}
+
+.short .feedback {
+  min-height: 0;
+}
+
+/* ------------------------------------------------------------ reduced motion */
+
+.reduced-motion *,
+.reduced-motion *::before,
+.reduced-motion *::after {
+  animation-duration: 1ms !important;
+  animation-iteration-count: 1 !important;
+  animation-delay: 0ms !important;
+  transition-duration: 1ms !important;
+}
+
+/* With motion reduced the question is simply there. */
+.reduced-motion .question .w {
+  opacity: 1;
+  filter: none;
+  transform: none;
+  animation: none !important;
+}
+
+/* The zone banner keyframes end hidden: with motion reduced it simply appears,
+   is read, and goes (the app times it). */
+.reduced-motion .zone-banner,
+.reduced-motion .zone-banner .name {
+  animation: none !important;
 }

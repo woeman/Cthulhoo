@@ -10,7 +10,7 @@ import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/the
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
 import { Abyss } from './render/abyss';
-import { clear, fmtMetres, h, risingWords, sleep } from './ui/dom';
+import { fmtMetres, focusables, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
@@ -31,6 +31,18 @@ const CHROME: Record<string, string> = {
   floor: '#07040d',
   city: '#07040d',
 };
+/** How long a new zone's name is left to be read before the next words rise over it. */
+const BANNER_READ_MS = 2300;
+/** Camera depth where the floor's own Eye is a third open (the renderer opens it from 6,650 m). */
+const EYE_NEAR = 6760;
+/** Below this visible height (the phone keyboard is up, or the phone is on its side) the question packs tighter. */
+const SHORT_VIEW = 560;
+/** On mousedown: tapping a button beside the answer keeps the keyboard up instead of stealing focus. */
+const keepFocus = (e: Event) => e.preventDefault();
+const sentence = (s: string) => (s ? `${s[0].toUpperCase()}${s.slice(1)}${/[.?]$/.test(s) ? '' : '.'}` : '');
+
+type Sheet = { el: HTMLElement; close: (quiet?: boolean, restoreFocus?: boolean) => void };
+type SheetOpts = { onClose?: () => void; actions?: HTMLElement[]; focus?: HTMLElement | null };
 
 export class App {
   private bank: Bank = loadBank();
@@ -46,12 +58,22 @@ export class App {
   private zoneKey = '';
   private chromeZone = '';
   private loops: Array<() => void> = [];
+  private sheets: Sheet[] = [];
+  private sheetSeq = 0;
+  private bannerEl: HTMLElement | null = null;
+  private bannerAt = 0;
+  private titleVisits = 0;
+  private eyeIsOpen = false;
+  /** Set by the screen that cares when the visible area changes (keyboard up or down, rotation). */
+  private onViewport: (() => void) | null = null;
 
   private hud!: { el: HTMLElement; title: HTMLElement; num: HTMLElement; zone: HTMLElement; sound: HTMLButtonElement };
+  private appEl!: HTMLElement;
   private stage!: HTMLElement;
   private sounding!: { el: HTMLElement; bob: HTMLElement };
   private toastEl!: HTMLElement;
   private live!: HTMLElement;
+  private alert!: HTMLElement;
 
   constructor(private root: HTMLElement) {
     const mq = matchMedia('(prefers-reduced-motion: reduce)');
@@ -62,6 +84,10 @@ export class App {
     if (!this.abyss.ok) document.documentElement.classList.add('no-webgl');
     this.abyss.jumpTo(TITLE_DEPTH);
     this.abyss.onDepth = (d) => this.onCamera(d);
+    // Follow the device setting while the player has not chosen one.
+    mq.addEventListener('change', () => {
+      if (this.settings.reducedMotion === 'auto') this.setReduced(mq.matches);
+    });
     this.buildShell();
     this.sound.setMuted(this.settings.muted);
     this.sound.setVolume(this.settings.volume);
@@ -73,17 +99,19 @@ export class App {
   // ================================================================= shell
 
   private buildShell() {
-    const soundBtn = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Sound', onclick: () => this.toggleSound() }) as HTMLButtonElement;
-    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Logbook and settings', onclick: () => this.openLogbook(), html: ICONS.book });
+    const soundBtn = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() }) as HTMLButtonElement;
+    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Logbook and settings', title: 'Logbook and settings', onclick: () => this.openLogbook(), html: ICONS.book });
     const title = h('div', { class: 'hud-title' });
     const num = h('span', { class: 'num' }, '0');
     const zone = h('span', { class: 'zone' });
-    const depth = h('div', { class: 'hud-depth', 'aria-label': 'Depth' }, num, h('span', { class: 'unit' }, ' m'), zone);
+    const depth = h('div', { class: 'hud-depth' }, h('span', { class: 'visually-hidden' }, 'Depth '), num, h('span', { class: 'unit' }, ' m'), zone);
     const hud = h('header', { class: 'hud', hidden: true }, menu, title, depth, soundBtn);
     this.hud = { el: hud, title, num, zone, sound: soundBtn };
     this.stage = h('main', { class: 'stage' });
-    this.live = h('div', { class: 'visually-hidden', 'aria-live': 'polite' });
-    const app = h('div', { class: 'app' }, hud, this.stage, this.live);
+    this.appEl = h('div', { class: 'app' }, hud, this.stage);
+    // Live regions sit outside the app, so they still speak while a sheet makes the app inert.
+    this.live = h('div', { class: 'visually-hidden', role: 'status', 'aria-live': 'polite' });
+    this.alert = h('div', { class: 'visually-hidden', 'aria-live': 'assertive', 'aria-atomic': 'true' });
     const bob = h('div', { class: 'bob' });
     const sounding = h('aside', { class: 'sounding', 'aria-hidden': 'true', hidden: true });
     for (let m = 500; m < 7000; m += 500) sounding.append(h('div', { class: 'tick', style: `top:${(m / 7000) * 100}%` }));
@@ -91,7 +119,7 @@ export class App {
     sounding.append(bob);
     this.sounding = { el: sounding, bob };
     this.toastEl = h('div', { class: 'toast', role: 'status', hidden: true });
-    this.root.append(app, sounding, this.toastEl);
+    this.root.append(this.appEl, sounding, this.toastEl, this.live, this.alert);
     this.renderSoundIcon();
   }
 
@@ -104,24 +132,84 @@ export class App {
     window.addEventListener('pointerdown', unlock);
     window.addEventListener('keydown', unlock);
     document.addEventListener('visibilitychange', () => (document.hidden ? this.sound.suspend() : this.sound.resume()));
+    this.bindViewport();
+    window.addEventListener('keydown', (e) => this.onKey(e));
+  }
+
+  /**
+   * The visible area. Android (interactive-widget=resizes-content) shrinks the
+   * layout for the keyboard by itself; iOS lays the keyboard over the page, so
+   * the app is fitted to the visual viewport instead. Pinch zoom is left alone.
+   */
+  private bindViewport() {
+    const root = document.documentElement;
     const vv = window.visualViewport;
-    if (vv) {
-      const onVV = () => {
-        const kb = Math.max(0, window.innerHeight - vv.height - vv.offsetTop);
-        document.documentElement.style.setProperty('--kb', `${Math.round(kb)}px`);
-      };
-      vv.addEventListener('resize', onVV);
-      vv.addEventListener('scroll', onVV);
+    const update = () => {
+      let visible = window.innerHeight;
+      if (vv && Math.abs(vv.scale - 1) < 0.01) {
+        visible = vv.height;
+        root.style.setProperty('--kb', `${Math.round(Math.max(0, window.innerHeight - vv.height - vv.offsetTop))}px`);
+        root.style.setProperty('--vvh', `${Math.round(vv.height)}px`);
+        root.style.setProperty('--vv-top', `${Math.round(vv.offsetTop)}px`);
+      } else {
+        root.style.setProperty('--kb', '0px');
+        root.style.setProperty('--vvh', `${window.innerHeight}px`);
+        root.style.setProperty('--vv-top', '0px');
+      }
+      root.classList.toggle('short', visible < SHORT_VIEW);
+      this.onViewport?.();
+    };
+    vv?.addEventListener('resize', update);
+    vv?.addEventListener('scroll', update);
+    window.addEventListener('resize', update);
+    update();
+  }
+
+  /** Sheets: Escape closes the top one, and Tab stays inside it. */
+  private onKey(e: KeyboardEvent) {
+    const top = this.sheets[this.sheets.length - 1];
+    if (!top) return;
+    if (e.key === 'Escape') {
+      e.preventDefault();
+      top.close();
+      return;
     }
-    window.addEventListener('keydown', (e) => {
-      if (e.key === 'Escape') document.querySelector<HTMLElement>('.sheet .close')?.click();
-    });
+    if (e.key !== 'Tab') return;
+    const items = focusables(top.el);
+    if (!items.length) {
+      e.preventDefault();
+      return;
+    }
+    const first = items[0];
+    const last = items[items.length - 1];
+    const active = document.activeElement as HTMLElement | null;
+    const inside = !!active && items.includes(active);
+    if (e.shiftKey && (active === first || !inside)) {
+      e.preventDefault();
+      last.focus();
+    } else if (!e.shiftKey && (active === last || !inside)) {
+      e.preventDefault();
+      first.focus();
+    }
+  }
+
+  private setReduced(on: boolean) {
+    this.reduced = on;
+    document.documentElement.classList.toggle('reduced-motion', on);
+    this.abyss.setReducedMotion(on);
   }
 
   private renderSoundIcon() {
-    this.hud.sound.innerHTML = this.settings.muted ? ICONS.soundOff : ICONS.soundOn;
-    this.hud.sound.setAttribute('aria-pressed', String(!this.settings.muted));
-    this.hud.sound.setAttribute('aria-label', this.settings.muted ? 'Sound off' : 'Sound on');
+    const on = !this.settings.muted;
+    for (const b of document.querySelectorAll<HTMLButtonElement>('[data-sound-toggle]')) {
+      if (b.classList.contains('icon-btn')) {
+        b.innerHTML = on ? ICONS.soundOn : ICONS.soundOff;
+        b.setAttribute('aria-pressed', String(on));
+        b.title = on ? 'Sound on' : 'Sound off';
+      } else {
+        b.innerHTML = `${on ? ICONS.soundOn : ICONS.soundOff}<span>${on ? 'Sound on · best with headphones' : 'Sound off'}</span>`;
+      }
+    }
   }
 
   private toggleSound() {
@@ -141,8 +229,20 @@ export class App {
     t.dataset.timer = String(window.setTimeout(() => (t.hidden = true), ms));
   }
 
+  /** Polite: read when the reader has finished what it is saying. */
   private announce(msg: string) {
-    this.live.textContent = msg;
+    this.say(this.live, msg);
+  }
+
+  /** Assertive: read straight away (refusals). */
+  private shout(msg: string) {
+    this.say(this.alert, msg);
+  }
+
+  private say(region: HTMLElement, msg: string) {
+    // Emptied first, so the same words said twice are still read out.
+    region.textContent = '';
+    window.setTimeout(() => (region.textContent = msg), 60);
   }
 
   private stopLoops() {
@@ -150,15 +250,35 @@ export class App {
     this.loops = [];
   }
 
-  private show(screen: HTMLElement) {
+  /**
+   * One orchestrated change of screen: the old words drift away (up as you
+   * sink, down as you rise) while the new ones surface, instead of a hard swap.
+   */
+  private show(screen: HTMLElement, dir: 'down' | 'up' = 'down') {
     this.token++;
     this.stopLoops();
+    this.onViewport = null;
     this.abyss.tension = 0;
     this.sound.setTension(0);
-    clear(this.stage);
+    this.dismissBanner();
+    for (const old of [...this.stage.children] as HTMLElement[]) this.retire(old, dir);
+    if (!this.reduced && !screen.classList.contains('stagger')) screen.classList.add('screen-in');
     this.stage.append(screen);
     screen.scrollTop = 0;
     return this.token;
+  }
+
+  private retire(old: HTMLElement, dir: 'down' | 'up') {
+    if (this.reduced || !old.childElementCount || old.classList.contains('sink-away') || old.classList.contains('fade-away')) {
+      old.remove();
+      return;
+    }
+    old.inert = true;
+    old.classList.remove('screen-in');
+    old.classList.add('screen-out', dir === 'up' ? 'out-down' : 'out-up');
+    const done = () => old.remove();
+    old.addEventListener('animationend', (e) => e.target === old && done());
+    window.setTimeout(done, 700);
   }
 
   // ======================================================= depth plumbing
@@ -233,25 +353,28 @@ export class App {
     const omen = omenById(rec.omen);
     const dateText = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
     const progress = rec.answers.length;
+    const returning = this.titleVisits++ > 0;
     this.hud.el.hidden = true;
     this.sounding.el.hidden = true;
-    document.documentElement.classList.remove('mad-1', 'mad-2');
-    this.abyss.madness = 0;
+    this.setMadness(100);
     if (Math.abs(this.abyss.depth - TITLE_DEPTH) > 1) void this.abyss.descendTo(TITLE_DEPTH, this.reduced ? 0 : 3800);
     this.closeEye();
 
+    let primary: HTMLElement;
     const actions = h('div', { class: 'title-actions' });
     if (rec.finished) {
       const total = totalDepth(rec);
+      primary = h('button', { class: 'btn primary', type: 'button', onclick: () => this.openResults(rec) }, 'Read your log');
       actions.append(
         h('p', { class: 'done-note' }, `You reached ${fmtMetres(total)} m today.`),
-        h('button', { class: 'btn primary', type: 'button', onclick: () => this.openResults(rec) }, 'Read your log'),
+        primary,
         h('button', { class: 'btn', type: 'button', onclick: () => this.beginPractice() }, 'Practice dive'),
         this.countdownEl(),
       );
     } else {
       const label = progress ? `Continue the descent · ${progress + 1} of ${rec.promptIds.length}` : 'Begin the descent';
-      actions.append(h('button', { class: 'btn primary', type: 'button', onclick: () => this.beginDaily() }, label));
+      primary = h('button', { class: 'btn primary', type: 'button', onclick: () => this.beginDaily() }, label);
+      actions.append(primary);
     }
     actions.append(
       h(
@@ -282,9 +405,12 @@ export class App {
         h('p', { class: 'flavor' }, omen.flavor),
       ),
       actions,
-      h('p', { class: 'meta kicker' }, 'Sound on · best with headphones'),
+      // The HUD is hidden here, so the title carries its own sound switch.
+      h('button', { class: 'btn ghost sound-toggle', type: 'button', 'data-sound-toggle': '', onclick: () => this.toggleSound() }),
     );
-    this.show(screen);
+    this.show(screen, 'up');
+    this.renderSoundIcon();
+    if (returning) window.setTimeout(() => primary.isConnected && !this.sheets.length && primary.focus({ preventScroll: true }), this.reduced ? 0 : 500);
   }
 
   private countdownEl(): HTMLElement {
@@ -353,6 +479,7 @@ export class App {
     const dur = this.reduced ? 0 : 2000 + Math.min(target, 7000) * 0.35;
     if (!rec.answers.length) this.banner('surface');
     await this.abyss.descendTo(cam(target), dur);
+    await this.bannerRead();
     if (token !== this.token) return;
     this.nextPrompt();
   }
@@ -379,7 +506,9 @@ export class App {
     const omen = omenById(rec.omen);
     const limit = timeLimitMs(omen);
     const words = prompt.text.split(/\s+/).length;
-    const revealMs = this.reduced ? 150 : 700 + Math.min(words, 14) * 70;
+    // The words start to rise once the last screen has drifted off, and the clock waits for them.
+    const lead = this.reduced ? 0 : 180;
+    const revealMs = this.reduced ? 150 : lead + 700 + Math.min(words, 14) * 70;
     let active = rec.active && rec.active.index === index ? rec.active : null;
     if (!active) {
       active = { index, startedAt: Date.now() + revealMs, rejects: [] };
@@ -387,14 +516,15 @@ export class App {
       saveDay(rec);
     }
     const act = active;
-    this.hud.title.textContent = `${rec.practice ? 'Practice' : `No. ${rec.day}`} · ${index + 1}/${rec.promptIds.length}`;
+    const count = rec.promptIds.length;
+    this.hud.title.textContent = `${rec.practice ? 'Practice' : `No. ${rec.day}`} · ${index + 1}/${count}`;
     const cat = this.theme.categories[prompt.category];
     const bell = isBellQuestion(rec, index);
 
     const fill = h('div', { class: 'air-fill' });
     const label = h('span', { class: 'air-label' }, String(Math.round(limit / 1000)));
     const air = h('div', { class: 'air', role: 'timer', 'aria-label': 'Air remaining' }, h('div', { class: 'air-track' }, fill), label);
-    const feedback = h('p', { class: 'feedback', 'aria-live': 'assertive' });
+    const feedback = h('p', { class: 'feedback' });
     const tries = h('ul', { class: 'tries', 'aria-label': 'Refused answers' });
     for (const t of act.rejects) tries.append(h('li', {}, t));
     const input = h('input', {
@@ -409,45 +539,65 @@ export class App {
       maxlength: 60,
       placeholder: 'Speak a name…',
       'aria-label': 'Your answer',
+      'aria-describedby': prompt.rules ? 'question rules' : 'question',
     }) as HTMLInputElement;
-    const form = h('form', { class: 'answer-form', autocomplete: 'off' }, input, h('button', { class: 'btn primary', type: 'submit' }, 'Speak'));
-    const questionEl = h('h2', { class: 'question', id: 'question' }, risingWords(prompt.text));
+    const form = h('form', { class: 'answer-form', autocomplete: 'off' }, input, h('button', { class: 'btn primary', type: 'submit', onmousedown: keepFocus }, 'Speak'));
+    const questionEl = h('h2', { class: 'question', id: 'question', style: `--rise-lead:${lead}ms` }, risingWords(prompt.text));
+    // One plate holds the question and the answer, so the engraving never runs through what you type.
     const plate = h(
       'div',
       { class: 'plate question-plate' },
-      h('p', { class: 'kicker' }, `Question ${index + 1} of ${rec.promptIds.length}${cat ? ` · ${cat.title}` : ''}`),
+      h('p', { class: 'kicker' }, `Question ${index + 1} of ${count}`),
+      cat ? h('p', { class: 'category' }, cat.title) : null,
       questionEl,
-      prompt.rules ? h('p', { class: 'rules' }, prompt.rules) : null,
+      prompt.rules ? h('p', { class: 'rules', id: 'rules' }, prompt.rules) : null,
       prompt.flavor ? h('p', { class: 'flavor' }, prompt.flavor) : null,
-      bell ? h('div', { class: 'bell-mark' }, '♁ This question tolls · double depth') : null,
+      bell ? h('p', { class: 'bell-mark' }, '♁ This question tolls · double depth') : null,
       air,
+      form,
+      feedback,
+      tries,
     );
-    const extras = h('div', {});
     if (omen.whisper && !rec.whisperUsed) {
-      const btn = h(
-        'button',
-        {
-          class: 'btn ghost whisper-btn',
-          type: 'button',
-          onclick: () => {
-            rec.whisperUsed = true;
-            saveDay(rec);
-            const w = this.whisperFor(prompt);
-            btn.replaceWith(h('p', { class: 'whisper-text', 'aria-label': `A whisper: ${w.spoken}` }, w.shown));
-            this.sound.whisper(0.55);
-            input.focus();
-          },
-          html: `${ICONS.ear}<span>Listen for a whisper</span>`,
+      const btn = h('button', {
+        class: 'btn ghost whisper-btn',
+        type: 'button',
+        onmousedown: keepFocus,
+        onclick: () => {
+          rec.whisperUsed = true;
+          saveDay(rec);
+          const w = this.whisperFor(prompt);
+          btn.replaceWith(h('p', { class: 'whisper-text' }, h('span', { 'aria-hidden': 'true' }, w.shown), h('span', { class: 'visually-hidden' }, `A whisper: ${w.spoken}`)));
+          this.announce(`A whisper: ${w.spoken}`);
+          this.sound.whisper(0.55);
+          input.focus();
         },
-      );
-      extras.append(btn);
+        html: `${ICONS.ear}<span>Listen for a whisper</span>`,
+      });
+      plate.append(btn);
     }
-    const screen = h('section', { class: 'screen prompt-screen', 'aria-labelledby': 'question' }, plate, form, feedback, tries, extras);
+    const screen = h('section', { class: 'screen prompt-screen', 'aria-labelledby': 'question' }, plate);
     const token = this.show(screen);
     if (bell) this.sound.zone();
 
+    // Keep the gauge, the answer line and any refusal in sight above the keyboard.
+    const keepInView = () => {
+      if (token !== this.token || document.activeElement !== input) return;
+      const view = screen.getBoundingClientRect();
+      const below = (el: Element) => el.getBoundingClientRect().bottom + 8 - view.bottom;
+      const airTop = air.getBoundingClientRect().top - 6;
+      const room = Math.max(0, airTop - view.top); // how far down before the gauge leaves the top
+      // The answer line always; a refusal too, as long as the gauge stays in sight.
+      const down = Math.max(below(form), feedback.textContent ? Math.min(below(feedback), room) : 0);
+      if (down > 0) screen.scrollTop += down;
+      else if (airTop < view.top) screen.scrollTop -= Math.min(view.top - airTop, Math.max(0, -below(form)));
+    };
+    this.onViewport = () => requestAnimationFrame(keepInView);
+    input.addEventListener('focus', () => window.setTimeout(keepInView, 320));
+
     let locked = false;
     let lastSecond = -1;
+    const warned = new Set<number>();
     const tickTimer = () => {
       if (token !== this.token || locked) return;
       const now = Date.now();
@@ -459,6 +609,11 @@ export class App {
         lastSecond = secs;
         label.textContent = String(secs);
         if (secs <= 5 && secs > 0 && remaining < limit) this.sound.tick(secs <= 3);
+        // Spoken twice at most, never every second.
+        if ((secs === 10 || secs === 5) && remaining < limit && !warned.has(secs)) {
+          warned.add(secs);
+          this.announce(secs === 10 ? 'Ten seconds of air left.' : 'Five seconds of air.');
+        }
       }
       const low = remaining < 6000;
       air.classList.toggle('low', low);
@@ -467,6 +622,7 @@ export class App {
       this.sound.setTension(tension);
       if (remaining <= 0) {
         locked = true;
+        input.disabled = true;
         void this.timeout(prompt);
         return;
       }
@@ -499,7 +655,10 @@ export class App {
       e.preventDefault();
       if (locked) return;
       const text = input.value.trim();
-      if (!text) return;
+      if (!text) {
+        input.focus();
+        return;
+      }
       if (Date.now() < act.startedAt) act.startedAt = Date.now(); // answered during the reveal: start the clock
       const res = matchAnswer(prompt, text);
       if (res.kind === 'empty') return;
@@ -516,7 +675,8 @@ export class App {
       else if (res.kind === 'ambiguous') line = pickLine(this.theme.refused.lines.ambiguous, prompt.id, text);
       else line = pickLine(this.theme.refused.lines.unknown, prompt.id, text);
       feedback.textContent = '';
-      feedback.append(h('span', {}, `${this.theme.refused.name}: “${text}”. `), line);
+      feedback.append(h('span', { class: 'said' }, `${this.theme.refused.name}: “${text}”.`), ' ', line);
+      this.shout(`${this.theme.refused.name}: ${text}. ${line}`);
       const repeat = act.rejects.some((r) => r.toLowerCase() === text.toLowerCase());
       if (!repeat) {
         act.rejects.push(text);
@@ -532,6 +692,7 @@ export class App {
       if (!this.reduced) form.classList.add('shake');
       input.value = '';
       input.focus();
+      requestAnimationFrame(keepInView);
     });
     // Focus once the question has risen (keeps the keyboard from covering the reveal).
     setTimeout(() => {
@@ -548,7 +709,9 @@ export class App {
       .split('')
       .map((ch, i) => (i === 0 ? ch.toUpperCase() : /[a-z0-9]/i.test(ch) ? '·' : ch))
       .join('');
-    return { shown: `“${shown}”`, spoken: `it begins with ${name[0]}, ${name.length} letters` };
+    const letters = name.replace(/[^a-z0-9]/gi, '').length;
+    const parts = name.trim().split(/\s+/).length;
+    return { shown: `“${shown}”`, spoken: `it begins with ${name[0].toUpperCase()}. ${parts > 1 ? `${parts} words, ` : ''}${letters} letters.` };
   }
 
   private async accept(prompt: PromptDef, answer: AnswerDef, input: string, plate: HTMLElement) {
@@ -608,88 +771,144 @@ export class App {
   private async descend(from: number, to: number, record: AnswerRecord) {
     const gain = to - from;
     const tier = record.tier;
-    const token = this.token;
     const dur = this.reduced ? 400 : 1500 + Math.min(gain, 1600) * 1.5;
     this.sound.accept(tier);
     this.sound.descend(dur, gain);
-    if (this.settings.haptics) Sound.buzz(tier >= 5 ? [20, 60, 90] : 25);
+    // Buzz only for the rare finds, so a buzz means something.
+    if (this.settings.haptics && tier >= 4) Sound.buzz(tier === 6 ? [30, 70, 120] : tier === 5 ? [20, 60, 80] : 20);
     this.abyss.pulse(0.12 + tier * 0.07);
     if (tier >= 4) this.abyss.summon(0.55 + (tier - 4) * 0.2);
     if (tier === 6) this.openEye();
     this.setMadness(this.rec!.sanity);
 
-    const num = h('span', {}, fmtMetres(from));
+    const num = h('span', { class: 'n' }, fmtMetres(from));
     const readout = h('div', { class: 'descent-readout', 'aria-hidden': 'true' }, num, h('small', {}, gain ? `+${fmtMetres(gain)} m` : ''));
     document.body.append(readout);
     let zoneBefore = zoneFor(this.theme, from).key;
+    const crossed = (score: number) => {
+      const z = zoneFor(this.theme, score).key;
+      if (z === zoneBefore) return;
+      zoneBefore = z;
+      this.banner(z, cam(to));
+      this.sound.zone();
+    };
     const prev = this.abyss.onDepth;
     this.abyss.onDepth = (d) => {
-      prev?.(d);
-      const score = Math.max(0, d - CAM_OFFSET);
-      num.textContent = fmtMetres(Math.min(to, Math.max(from, score)));
-      const z = zoneFor(this.theme, score).key;
-      if (z !== zoneBefore) {
-        zoneBefore = z;
-        this.banner(z);
-        this.sound.zone();
-      }
+      // The first frame of a sink can sit a hair above where it began. Kept in
+      // range, a dive that starts on a zone's edge never seems to rise into the last zone.
+      const c = Math.min(cam(to), Math.max(cam(from), d));
+      prev?.(c);
+      const score = c - CAM_OFFSET;
+      num.textContent = fmtMetres(score);
+      crossed(score);
     };
     await this.abyss.descendTo(cam(to), dur);
     this.abyss.onDepth = prev;
     num.textContent = fmtMetres(to);
     this.paintDepth(to);
-    this.announce(`Sank ${fmtMetres(gain)} metres, now at ${fmtMetres(to)} metres.`);
-    await sleep(this.reduced ? 0 : 350);
-    readout.remove();
-    void token;
+    // Landing exactly on a zone's edge still counts as arriving in it.
+    crossed(to);
+    await sleep(this.reduced ? 0 : 380);
+    // A zone crossed late in the sink still gets its moment before the reveal rises.
+    await this.bannerRead();
+    if (this.reduced) readout.remove();
+    else {
+      readout.classList.add('leaving');
+      window.setTimeout(() => readout.remove(), 500);
+    }
   }
 
-  private banner(zoneKey: string) {
+  /** A zone's name written across the water. `dest` is where the camera is headed. */
+  private banner(zoneKey: string, dest = this.abyss.depth) {
     const z = this.theme.zones.find((x) => x.key === zoneKey);
     if (!z) return;
-    const b = h('div', { class: 'zone-banner', 'aria-hidden': 'true' }, h('span', { class: 'name' }, z.name), h('span', { class: 'sub' }, z.subtitle));
+    this.dismissBanner(true);
+    // Below the Eye when it is open, or will be by the end of this sink.
+    const below = this.eyeIsOpen || Math.max(this.abyss.depth, dest) >= EYE_NEAR;
+    const b = h('div', { class: `zone-banner${below ? ' below-eye' : ''}`, 'aria-hidden': 'true' }, h('span', { class: 'name' }, z.name), h('span', { class: 'sub' }, z.subtitle));
     document.body.append(b);
-    setTimeout(() => b.remove(), 4300);
+    this.bannerEl = b;
+    this.bannerAt = performance.now();
+    if (zoneKey !== 'surface') this.announce(`${z.name}. ${sentence(z.subtitle)}`);
+    window.setTimeout(
+      () => {
+        if (this.bannerEl === b) this.bannerEl = null;
+        b.remove();
+      },
+      this.reduced ? BANNER_READ_MS + 400 : 4300,
+    );
+  }
+
+  /** Wait until the current zone banner has been on screen long enough to read. */
+  private async bannerRead() {
+    if (!this.bannerEl) return;
+    const wait = this.bannerAt + (this.reduced ? 1500 : BANNER_READ_MS) - performance.now();
+    if (wait > 0) await sleep(wait);
+  }
+
+  /** Fade the zone banner out from wherever its own animation has got to. */
+  private dismissBanner(now = false) {
+    const b = this.bannerEl;
+    if (!b) return;
+    this.bannerEl = null;
+    if (now || this.reduced) {
+      b.remove();
+      return;
+    }
+    const opacity = getComputedStyle(b).opacity;
+    b.style.animation = 'none';
+    b.style.opacity = opacity;
+    void b.offsetWidth;
+    b.classList.add('leaving');
+    window.setTimeout(() => b.remove(), 700);
   }
 
   private showReveal(record: AnswerRecord, prompt: PromptDef, answer: AnswerDef | null) {
     const rec = this.rec!;
-    const last = rec.answers.length >= rec.promptIds.length;
+    const n = rec.answers.length;
+    const count = rec.promptIds.length;
+    const last = n >= count;
+    const total = totalDepth(rec);
     const tier = record.tier ? tierDef(this.theme, record.tier) : null;
-    const kids: Array<HTMLElement | null> = [];
-    kids.push(h('p', { class: 'kicker' }, `Question ${rec.answers.length} of ${rec.promptIds.length}`));
+    const kids: Array<HTMLElement | null> = [h('p', { class: 'kicker' }, `Question ${n} of ${count}`)];
+    const said: string[] = [];
     if (tier && answer) {
+      const bell = isBellQuestion(rec, n - 1);
+      const line = answer.openSecret ? pickLine(this.theme.openSecret.lines, prompt.id, answer.answer) : pickLine(tier.lines, prompt.id, answer.answer);
       kids.push(
-        h(
-          'p',
-          { class: `tier-name${tier.tier === 6 ? ' iridescent' : ''}`, style: `--tier-color: var(--color-tier-${tier.tier})` },
-          tier.name,
-        ),
+        h('h2', { class: `tier-name${tier.tier === 6 ? ' iridescent' : ''}`, id: 'reveal-title', style: `--tier-color: var(--color-tier-${tier.tier})` }, tier.name),
+        h('div', { class: 'answer-row' }, h('p', { class: 'echo' }, `“${answer.answer}”`), h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`)),
+        bell ? h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep') : null,
+        answer.openSecret ? h('p', { class: 'secret' }, `${this.theme.openSecret.emoji} ${this.theme.openSecret.name}`) : null,
+        h('p', { class: 'line' }, line),
+        answer.lore ? h('p', { class: 'lore' }, answer.lore) : null,
       );
-      const echo = h('p', { class: 'echo' }, `“${answer.answer}”`);
-      kids.push(echo);
-      kids.push(h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`));
-      if (isBellQuestion(rec, rec.answers.length - 1)) kids.push(h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep'));
-      if (answer.openSecret) {
-        kids.push(h('p', { class: 'secret' }, `${this.theme.openSecret.emoji} ${this.theme.openSecret.name}`));
-        kids.push(h('p', { class: 'line' }, pickLine(this.theme.openSecret.lines, prompt.id, answer.answer)));
-      } else {
-        kids.push(h('p', { class: 'line' }, pickLine(tier.lines, prompt.id, answer.answer)));
-      }
-      if (answer.lore) kids.push(h('p', { class: 'lore' }, answer.lore));
+      said.push(`${tier.name}. ${answer.answer}.`, `${fmtMetres(record.depth)} metres deeper, ${fmtMetres(total)} in all.`);
+      if (bell) said.push('The bell tolled: twice as deep.');
+      if (answer.openSecret) said.push(`${this.theme.openSecret.name}.`);
+      // Some lines open with the tier's own name; say it once.
+      said.push(line.startsWith(`${tier.name}.`) ? line.slice(tier.name.length + 1).trim() : line, answer.lore ?? '');
     } else {
-      kids.push(h('p', { class: 'tier-name', style: '--tier-color: var(--color-refused)' }, 'Out of air'));
-      kids.push(h('p', { class: 'line' }, pickLine(this.theme.refused.lines.timeout, prompt.id, rec.day)));
+      const line = pickLine(this.theme.refused.lines.timeout, prompt.id, rec.day);
       const rare = prompt.answers.filter((a) => a.tier >= 5).slice(0, 3);
-      if (rare.length) kids.push(h('p', { class: 'lore' }, `The deep would have taken ${rare.map((a) => `“${a.answer}”`).join(', ')}.`));
-      kids.push(h('p', { class: 'gain' }, '+0 m'));
+      const might = rare.length ? `The deep would have taken ${rare.map((a) => `“${a.answer}”`).join(', ')}.` : '';
+      kids.push(
+        h('h2', { class: 'tier-name', id: 'reveal-title', style: '--tier-color: var(--color-refused)' }, 'Out of air'),
+        h('div', { class: 'answer-row' }, h('p', { class: 'gain' }, '+0 m')),
+        h('p', { class: 'line' }, line),
+        might ? h('p', { class: 'lore' }, might) : null,
+      );
+      said.push('Out of air. No depth gained.', line, might);
     }
+    let leaving = false;
     const next = h(
       'button',
       {
         class: 'btn primary',
         type: 'button',
         onclick: () => {
+          if (leaving) return;
+          leaving = true;
           this.sound.click();
           this.closeEye();
           if (last) this.finishDive();
@@ -699,11 +918,16 @@ export class App {
       last ? 'Read the log of your descent' : 'Descend further',
     );
     kids.push(h('div', { class: 'actions' }, next));
-    const eyeOpen = record.tier === 6 || (last && totalDepth(rec) >= 7000);
+    const eyeOpen = record.tier === 6 || (last && total >= 7000);
     if (eyeOpen) this.openEye();
-    const screen = h('section', { class: `screen reveal-screen stagger${eyeOpen ? ' beneath-eye' : ''}`, 'aria-live': 'polite' }, ...kids);
+    // Near the floor the sea opens the Eye itself, whatever the answer was.
+    const beneath = eyeOpen || cam(total) >= EYE_NEAR;
+    const screen = h('section', { class: `screen reveal-screen stagger${beneath ? ' beneath-eye' : ''}`, 'aria-labelledby': 'reveal-title' }, ...kids);
     this.show(screen);
-    setTimeout(() => next.focus({ preventScroll: true }), this.reduced ? 0 : 600);
+    this.announce(said.filter(Boolean).join(' '));
+    setTimeout(() => next.isConnected && !this.sheets.length && next.focus({ preventScroll: true }), this.reduced ? 0 : 700);
+    // On a short screen the way on can rise below the fold: once it has risen, bring it just into view.
+    setTimeout(() => !leaving && next.isConnected && next.scrollIntoView({ block: 'nearest', behavior: this.reduced ? 'auto' : 'smooth' }), this.reduced ? 0 : 1600);
   }
 
   // ============================================================== results
@@ -726,14 +950,15 @@ export class App {
     this.setMadness(rec.sanity);
     const zone = zoneFor(this.theme, total);
     const landmark = landmarkFor(this.theme, total);
+    const place = landmark?.name ?? zone.name;
     const stats = computeStats(loadDays(), this.today);
     const rank = cultRankFor(this.theme, stats.streak);
+    const glyph = (a: AnswerRecord) => (a.tier === 0 ? this.theme.share.missEmoji : a.openSecret ? this.theme.openSecret.emoji : tierDef(this.theme, a.tier)?.emoji ?? '');
 
-    const log = h('ol', { class: 'dive-log' });
+    const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
     rec.answers.forEach((a, i) => {
       const p = this.bank.byId.get(a.promptId);
       const tier = a.tier ? tierDef(this.theme, a.tier) : null;
-      const emoji = a.tier === 0 ? this.theme.share.missEmoji : a.openSecret ? this.theme.openSecret.emoji : tier?.emoji ?? '';
       const more = h('div', { class: 'more' });
       if (p) {
         const def = p.answers.find((x) => x.answer === a.answer);
@@ -754,7 +979,7 @@ export class App {
             h(
               'summary',
               {},
-              h('span', { 'aria-hidden': 'true' }, emoji),
+              h('span', { class: 'g', 'aria-hidden': 'true' }, glyph(a)),
               h(
                 'span',
                 {},
@@ -770,18 +995,27 @@ export class App {
       );
     });
 
-    const shareBtn = h('button', { class: 'btn primary', type: 'button', html: `${ICONS.share}<span>Share</span>` });
-    const cardBtn = h('button', { class: 'btn', type: 'button', html: `${ICONS.image}<span>Save card</span>` });
-    const doShare = async (img: boolean) => {
+    const shareBtn = h('button', { class: 'btn primary', type: 'button', html: `${ICONS.share}<span>Share</span>` }) as HTMLButtonElement;
+    const cardBtn = h('button', { class: 'btn', type: 'button', html: `${ICONS.image}<span>Save card</span>` }) as HTMLButtonElement;
+    const doShare = async (btn: HTMLButtonElement, img: boolean) => {
+      if (btn.classList.contains('busy')) return; // drawing the card takes a moment; one tap is enough
       this.sound.click();
-      const out = await shareDive(this.theme, rec, img);
-      if (out === 'copied') this.toast('Copied your descent. Paste it anywhere.');
-      else if (out === 'failed') this.openShareText(shareText(this.theme, rec));
-      else if (typeof out === 'object') this.openCard(out.card, rec);
+      btn.classList.add('busy');
+      btn.setAttribute('aria-busy', 'true');
+      try {
+        const out = await shareDive(this.theme, rec, img);
+        if (out === 'copied') this.toast('Copied your descent. Paste it anywhere.');
+        else if (out === 'failed') this.openShareText(shareText(this.theme, rec));
+        else if (typeof out === 'object') this.openCard(out.card, rec);
+      } finally {
+        btn.classList.remove('busy');
+        btn.removeAttribute('aria-busy');
+      }
     };
-    shareBtn.addEventListener('click', () => void doShare(false));
-    cardBtn.addEventListener('click', () => void doShare(true));
+    shareBtn.addEventListener('click', () => void doShare(shareBtn, false));
+    cardBtn.addEventListener('click', () => void doShare(cardBtn, true));
 
+    const totalEl = h('h2', { class: 'total', id: 'total', tabindex: '-1' }, fmtMetres(total), h('small', {}, 'm'));
     const screen = h(
       'section',
       { class: 'screen results-screen stagger', 'aria-labelledby': 'total' },
@@ -789,22 +1023,22 @@ export class App {
         'div',
         { class: 'result-head' },
         h('p', { class: 'kicker' }, rec.practice ? 'Practice dive · not recorded' : `Dive No. ${rec.day} · the log of your descent`),
-        h('h2', { class: 'total', id: 'total' }, fmtMetres(total), h('small', {}, 'm')),
-        h('p', { class: 'landmark' }, landmark?.name ?? zone.name),
-        h('p', { class: 'zone-name' }, zone.name),
+        totalEl,
+        h('p', { class: 'landmark' }, place),
+        place !== zone.name ? h('p', { class: 'zone-name' }, zone.name) : null,
         h('p', { class: 'line' }, pickLine(landmark?.lines ?? [], rec.day, total)),
-        h('p', { class: 'glyph-row', 'aria-hidden': 'true' }, ...rec.answers.map((a) => h('span', {}, a.tier === 0 ? this.theme.share.missEmoji : a.openSecret ? this.theme.openSecret.emoji : tierDef(this.theme, a.tier)?.emoji ?? ''))),
+        h('p', { class: 'glyph-row', 'aria-hidden': 'true' }, ...rec.answers.map((a) => h('span', {}, glyph(a)))),
       ),
       h(
         'div',
         { class: 'plate stat-strip' },
         h('div', {}, h('span', { class: 'v' }, `${rec.sanity}%`), h('span', { class: 'k' }, 'sanity')),
         h('div', {}, h('span', { class: 'v' }, String(stats.streak)), h('span', { class: 'k' }, 'day streak')),
-        h('div', {}, h('span', { class: 'v', style: 'font-size: var(--step-0)' }, rank.name), h('span', { class: 'k' }, 'rank')),
+        h('div', {}, h('span', { class: 'v rank' }, rank.name), h('span', { class: 'k' }, 'rank')),
       ),
-      log,
       h('div', { class: 'share-row' }, shareBtn, cardBtn),
       rec.practice ? null : this.countdownEl(),
+      log,
       h(
         'div',
         { class: 'title-actions' },
@@ -814,9 +1048,9 @@ export class App {
     );
     this.closeEye();
     this.show(screen);
+    this.announce(`${rec.practice ? 'Practice dive over' : 'Dive complete'}. ${fmtMetres(total)} metres, ${place}.`);
+    window.setTimeout(() => totalEl.isConnected && !this.sheets.length && totalEl.focus({ preventScroll: true }), this.reduced ? 0 : 450);
   }
-
-  private eyeIsOpen = false;
 
   private openEye() {
     if (this.eyeIsOpen) return;
@@ -839,55 +1073,71 @@ export class App {
     const url = URL.createObjectURL(blob);
     const total = totalDepth(rec);
     const place = landmarkFor(this.theme, total)?.name ?? zoneFor(this.theme, total).name;
-    const body: HTMLElement[] = [
+    const body = [
       h('img', { class: 'card-preview', src: url, alt: `Sounding chart of the dive: ${fmtMetres(total)} metres, ${place}` }),
-      h('p', { class: 'flavor' }, 'Press and hold the card (or right-click it) to save or share it.'),
+      h('p', { class: 'flavor' }, 'Press and hold the card to save or share it. On a computer, ', h('span', { class: 'nowrap' }, 'right-click'), ' it.'),
     ];
-    if (!ARTIFACT) {
-      body.push(
-        h(
-          'div',
-          { class: 'title-actions' },
-          h('a', { class: 'btn primary', href: url, download: `cthulhoo-${rec.practice ? 'practice' : rec.day}.png`, html: `${ICONS.image}<span>Download the card</span>` }),
-        ),
-      );
-    }
-    this.sheet('Your sounding chart', body, () => URL.revokeObjectURL(url));
+    const actions = ARTIFACT
+      ? undefined
+      : [h('a', { class: 'btn primary', href: url, download: `cthulhoo-${rec.practice ? 'practice' : rec.day}.png`, html: `${ICONS.image}<span>Download the card</span>` })];
+    this.sheet('Your sounding chart', body, { actions, onClose: () => window.setTimeout(() => URL.revokeObjectURL(url), 400) });
   }
 
   private openShareText(text: string) {
     const area = h('textarea', { class: 'share-text', id: 'share-text', readonly: true, rows: 7, 'aria-label': 'Your descent, ready to copy' }) as HTMLTextAreaElement;
     area.value = text;
-    this.sheet('Copy your descent', [h('p', {}, 'This browser would not copy it for you. The text is selected: copy it and paste it anywhere.'), area]);
-    setTimeout(() => {
-      area.focus();
-      area.select();
-    }, 60);
+    this.sheet('Copy your descent', [h('p', {}, 'This browser would not copy it for you. The text is selected. Copy it and paste it anywhere.'), area], { focus: area });
+    area.select();
   }
 
-  private sheet(title: string, body: HTMLElement[], onClose?: () => void): HTMLElement {
-    const close = () => {
-      el.remove();
-      this.sound.click();
-      onClose?.();
-    };
-    const el = h(
+  /**
+   * A modal sheet: the page behind goes inert, Tab stays inside, Escape or a tap
+   * on the water closes it, and focus goes back to whatever opened it.
+   */
+  private sheet(title: string, body: Array<HTMLElement | null>, opts: SheetOpts = {}): Sheet {
+    const active = document.activeElement;
+    const opener = active instanceof HTMLElement && active !== document.body ? active : null;
+    const id = `sheet-title-${++this.sheetSeq}`;
+    const closeBtn = h('button', { class: 'icon-btn close', type: 'button', 'aria-label': 'Close', html: ICONS.close });
+    const panel = h(
       'div',
-      { class: 'sheet', role: 'dialog', 'aria-modal': 'true', 'aria-label': title },
-      h(
-        'div',
-        { class: 'sheet-panel' },
-        h('button', { class: 'icon-btn close', type: 'button', 'aria-label': 'Close', onclick: close, html: ICONS.close }),
-        h('h2', {}, title),
-        ...body,
-      ),
+      { class: 'sheet-panel', tabindex: '-1' },
+      h('div', { class: 'sheet-head' }, h('h2', { id }, title), closeBtn),
+      h('div', { class: 'sheet-body' }, ...body),
+      opts.actions?.length ? h('div', { class: 'sheet-actions' }, ...opts.actions) : null,
     );
+    const el = h('div', { class: 'sheet', role: 'dialog', 'aria-modal': 'true', 'aria-labelledby': id }, panel);
+    let closed = false;
+    const close = (quiet = false, restoreFocus = true) => {
+      if (closed) return;
+      closed = true;
+      this.sheets = this.sheets.filter((s) => s !== entry);
+      this.syncInert();
+      if (!quiet) this.sound.click();
+      opts.onClose?.();
+      if (this.reduced) el.remove();
+      else {
+        el.classList.add('closing');
+        window.setTimeout(() => el.remove(), 260);
+      }
+      if (restoreFocus && opener?.isConnected && !opener.closest('[inert]')) opener.focus({ preventScroll: true });
+    };
+    const entry: Sheet = { el, close };
+    closeBtn.addEventListener('click', () => close());
     el.addEventListener('click', (e) => {
       if (e.target === el) close();
     });
     document.body.append(el);
-    (el.querySelector('.sheet-panel button:not(.close)') as HTMLElement | null)?.focus({ preventScroll: true });
-    return el;
+    this.sheets.push(entry);
+    this.syncInert();
+    (opts.focus ?? panel).focus({ preventScroll: true });
+    return entry;
+  }
+
+  private syncInert() {
+    const top = this.sheets[this.sheets.length - 1]?.el ?? null;
+    this.appEl.inert = !!top;
+    for (const s of this.sheets) s.el.inert = s.el !== top;
   }
 
   private openHowTo(then?: () => void) {
@@ -903,20 +1153,31 @@ export class App {
     for (const t of this.theme.tiers) {
       ladder.append(h('li', { style: `--tier-color: var(--color-tier-${t.tier})` }, h('span', { 'aria-hidden': 'true' }, t.emoji), h('span', { class: 'n' }, t.name), h('span', { class: 'd' }, `${fmtMetres(t.depth)} m`)));
     }
-    let sheetEl: HTMLElement | null = null;
     const body = [
       h('ol', { class: 'howto-steps' }, ...steps.map((s) => h('li', {}, h('span', {}, s)))),
       h('h3', {}, 'How deep each answer sinks you'),
       ladder,
       h('h3', {}, 'Omens and sanity'),
-      h('p', {}, 'Each day brings an omen that bends the rules a little, the same for every diver. Knowledge has a price: every metre, every refusal and every unspeakable answer costs a little sanity, and the deep begins to look back.'),
+      h('p', {}, 'Each day brings an omen that bends the rules a little. Every diver shares it.'),
+      h('p', {}, 'Knowledge has a price. Each metre, each refusal and each unspeakable answer costs a little sanity, and the deep begins to look back. Sanity never changes your depth.'),
     ];
-    if (then) {
-      body.push(
-        h('div', { class: 'title-actions' }, h('button', { class: 'btn primary', type: 'button', onclick: () => { sheetEl?.remove(); then(); } }, 'Begin the descent')),
-      );
-    }
-    sheetEl = this.sheet('How to descend', body);
+    let sheet: Sheet | null = null;
+    // First time through, the way down stays in reach at the foot of the sheet.
+    const begin = then
+      ? h(
+          'button',
+          {
+            class: 'btn primary',
+            type: 'button',
+            onclick: () => {
+              sheet?.close(true, false);
+              then();
+            },
+          },
+          'Begin the descent',
+        )
+      : null;
+    sheet = this.sheet('How to descend', body, { actions: begin ? [begin] : undefined, focus: begin });
   }
 
   private openLogbook() {
@@ -932,35 +1193,35 @@ export class App {
           'div',
           { class: 'bar', style: `--tier-color: var(--color-tier-${t.tier})` },
           h('span', {}, `${t.emoji} ${t.name}`),
-          h('span', { class: 'track' }, h('span', { class: 'fill', style: `width:${(n / most) * 100}%` })),
+          h('span', { class: 'track', 'aria-hidden': 'true' }, h('span', { class: 'fill', style: `width:${(n / most) * 100}%` })),
           h('span', { class: 'log' }, String(n)),
         ),
       );
     }
-    const vol = h('input', { type: 'range', min: 0, max: 1, step: 0.05, value: this.settings.volume, 'aria-label': 'Volume' }) as HTMLInputElement;
+    const vol = h('input', { type: 'range', min: 0, max: 1, step: 0.05, value: this.settings.volume }) as HTMLInputElement;
     vol.addEventListener('input', () => {
       this.settings.volume = Number(vol.value);
       this.sound.setVolume(this.settings.volume);
       saveSettings(this.settings);
     });
-    const motion = h('input', { type: 'checkbox', 'aria-label': 'Reduce motion' }) as HTMLInputElement;
+    const motion = h('input', { type: 'checkbox' }) as HTMLInputElement;
     motion.checked = this.reduced;
     motion.addEventListener('change', () => {
       this.settings.reducedMotion = motion.checked ? 'on' : 'off';
-      this.reduced = motion.checked;
-      document.documentElement.classList.toggle('reduced-motion', this.reduced);
-      this.abyss.setReducedMotion(this.reduced);
+      this.setReduced(motion.checked);
       saveSettings(this.settings);
     });
-    const haptics = h('input', { type: 'checkbox', 'aria-label': 'Vibration' }) as HTMLInputElement;
+    const haptics = h('input', { type: 'checkbox' }) as HTMLInputElement;
     haptics.checked = this.settings.haptics;
     haptics.addEventListener('change', () => {
       this.settings.haptics = haptics.checked;
       saveSettings(this.settings);
     });
-    const sound = h('input', { type: 'checkbox', 'aria-label': 'Sound' }) as HTMLInputElement;
+    const sound = h('input', { type: 'checkbox' }) as HTMLInputElement;
     sound.checked = !this.settings.muted;
     sound.addEventListener('change', () => this.toggleSound());
+    // Only phones that can vibrate are offered vibration.
+    const canBuzz = typeof navigator.vibrate === 'function';
     this.sheet('Logbook', [
       h(
         'div',
@@ -980,8 +1241,8 @@ export class App {
       h('label', { class: 'setting' }, h('span', {}, 'Sound'), sound),
       h('label', { class: 'setting' }, h('span', {}, 'Volume'), vol),
       h('label', { class: 'setting' }, h('span', {}, 'Reduce motion'), motion),
-      h('label', { class: 'setting' }, h('span', {}, 'Vibration (Android)'), haptics),
-      h('p', { class: 'flavor' }, 'No sound on iPhone? Check the silent switch. Everything you play is saved only in this browser.'),
+      canBuzz ? h('label', { class: 'setting' }, h('span', {}, 'Vibration'), haptics) : null,
+      h('p', { class: 'flavor' }, 'No sound on an iPhone? Check the silent switch. Everything you play is kept only in this browser.'),
     ]);
   }
 }
