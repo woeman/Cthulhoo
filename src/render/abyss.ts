@@ -21,6 +21,8 @@ type UniformName = (typeof UNIFORMS)[number];
 
 export interface AbyssOptions {
   reducedMotion: boolean;
+  /** Fixed render scale (render pixels per CSS pixel), for screenshots and trailers. */
+  pinScale?: number;
 }
 
 export class Abyss {
@@ -31,6 +33,7 @@ export class Abyss {
   private t0 = performance.now();
   private last = performance.now();
   private scale = 1;
+  private pinScale = 0;
   private maxScale = 1;
   private frameTimes: number[] = [];
   private lastScaleChange = 0;
@@ -58,6 +61,7 @@ export class Abyss {
     this.canvas.setAttribute('aria-hidden', 'true');
     parent.prepend(this.canvas);
     this.motion = opts.reducedMotion ? 0.3 : 1;
+    this.pinScale = opts.pinScale && opts.pinScale > 0 ? Math.min(opts.pinScale, 3) : 0;
     this.init();
     window.addEventListener('resize', () => this.resize());
     document.addEventListener('visibilitychange', () => (document.hidden ? this.stop() : this.start()));
@@ -114,7 +118,7 @@ export class Abyss {
     });
     const dpr = Math.min(window.devicePixelRatio || 1, 2);
     const small = Math.min(window.innerWidth, window.innerHeight) < 600;
-    this.maxScale = small ? Math.min(dpr, 1.6) : Math.min(dpr, 1.35);
+    this.maxScale = this.pinScale || (small ? Math.min(dpr, 1.6) : Math.min(dpr, 1.35));
     this.scale = this.maxScale;
     this.resize();
   }
@@ -183,6 +187,7 @@ export class Abyss {
   }
 
   private adapt(dt: number, now: number) {
+    if (this.pinScale) return;
     this.frameTimes.push(dt);
     if (this.frameTimes.length < 45) return;
     const sorted = this.frameTimes.slice().sort((a, b) => a - b);

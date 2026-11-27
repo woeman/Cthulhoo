@@ -57,7 +57,8 @@ export class App {
     const mq = matchMedia('(prefers-reduced-motion: reduce)');
     this.reduced = this.settings.reducedMotion === 'on' || (this.settings.reducedMotion === 'auto' && mq.matches);
     document.documentElement.classList.toggle('reduced-motion', this.reduced);
-    this.abyss = new Abyss(document.body, { reducedMotion: this.reduced });
+    const pin = Number(new URLSearchParams(location.search).get('scale')) || 0; // ?scale=2 for crisp screenshots
+    this.abyss = new Abyss(document.body, { reducedMotion: this.reduced, pinScale: pin });
     if (!this.abyss.ok) document.documentElement.classList.add('no-webgl');
     this.abyss.jumpTo(TITLE_DEPTH);
     this.abyss.onDepth = (d) => this.onCamera(d);
@@ -237,7 +238,7 @@ export class App {
     document.documentElement.classList.remove('mad-1', 'mad-2');
     this.abyss.madness = 0;
     if (Math.abs(this.abyss.depth - TITLE_DEPTH) > 1) void this.abyss.descendTo(TITLE_DEPTH, this.reduced ? 0 : 3800);
-    this.abyss.setEye(0);
+    this.closeEye();
 
     const actions = h('div', { class: 'title-actions' });
     if (rec.finished) {
@@ -614,11 +615,7 @@ export class App {
     if (this.settings.haptics) Sound.buzz(tier >= 5 ? [20, 60, 90] : 25);
     this.abyss.pulse(0.12 + tier * 0.07);
     if (tier >= 4) this.abyss.summon(0.55 + (tier - 4) * 0.2);
-    if (tier === 6) {
-      this.abyss.setEye(1);
-      this.sound.eye();
-      setTimeout(() => this.abyss.setEye(0), dur + 2600);
-    }
+    if (tier === 6) this.openEye();
     this.setMadness(this.rec!.sanity);
 
     const num = h('span', {}, fmtMetres(from));
@@ -672,6 +669,7 @@ export class App {
       const echo = h('p', { class: 'echo' }, `“${answer.answer}”`);
       kids.push(echo);
       kids.push(h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`));
+      if (isBellQuestion(rec, rec.answers.length - 1)) kids.push(h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep'));
       if (answer.openSecret) {
         kids.push(h('p', { class: 'secret' }, `${this.theme.openSecret.emoji} ${this.theme.openSecret.name}`));
         kids.push(h('p', { class: 'line' }, pickLine(this.theme.openSecret.lines, prompt.id, answer.answer)));
@@ -693,6 +691,7 @@ export class App {
         type: 'button',
         onclick: () => {
           this.sound.click();
+          this.closeEye();
           if (last) this.finishDive();
           else this.nextPrompt();
         },
@@ -701,6 +700,7 @@ export class App {
     );
     kids.push(h('div', { class: 'actions' }, next));
     const eyeOpen = record.tier === 6 || (last && totalDepth(rec) >= 7000);
+    if (eyeOpen) this.openEye();
     const screen = h('section', { class: `screen reveal-screen stagger${eyeOpen ? ' beneath-eye' : ''}`, 'aria-live': 'polite' }, ...kids);
     this.show(screen);
     setTimeout(() => next.focus({ preventScroll: true }), this.reduced ? 0 : 600);
@@ -812,11 +812,25 @@ export class App {
         h('button', { class: 'btn ghost', type: 'button', onclick: () => this.showTitle() }, 'Return to the surface'),
       ),
     );
+    this.closeEye();
     this.show(screen);
-    if (total >= 7000) {
-      this.abyss.setEye(1);
-      this.sound.eye();
-    }
+  }
+
+  private eyeIsOpen = false;
+
+  private openEye() {
+    if (this.eyeIsOpen) return;
+    this.eyeIsOpen = true;
+    this.abyss.setEye(1);
+    this.sound.eye();
+    document.documentElement.classList.add('eye-open');
+  }
+
+  private closeEye() {
+    if (!this.eyeIsOpen) return;
+    this.eyeIsOpen = false;
+    this.abyss.setEye(0);
+    document.documentElement.classList.remove('eye-open');
   }
 
   // =============================================================== sheets

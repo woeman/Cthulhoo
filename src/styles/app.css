@@ -717,10 +717,26 @@ canvas.abyss {
   gap: var(--space-3);
 }
 
+/* A pool of clear water behind the words, so carvings and motes never run through them. */
+.reveal-screen {
+  background: radial-gradient(ellipse 92% 40% at 50% 50%, color-mix(in oklab, var(--color-ground) 74%, transparent) 0%, transparent 74%);
+}
+
 /* When the Eye opens, the words gather beneath it instead of across it. */
 .reveal-screen.beneath-eye {
   justify-content: flex-end;
   padding-bottom: max(var(--space-6), 6vh);
+  background: radial-gradient(ellipse 96% 34% at 50% 74%, color-mix(in oklab, var(--color-ground) 78%, transparent) 0%, transparent 74%);
+}
+
+.reveal-screen .bell-mark {
+  align-self: center;
+  margin: 0;
+}
+
+/* Zone names are written below the Eye while it is open. */
+.eye-open .zone-banner {
+  top: 54%;
 }
 
 .reveal-screen .tier-name {
