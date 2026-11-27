@@ -14,6 +14,8 @@ art/
   logo/       wordmark, lockup, mark, app icon (plus maskable and monochrome ones), favicon; png/ with the icon PNGs
   glyphs/     rarity seals tier-1…6 + refused, marks (ward, milestone, diver), the Drowned Script (script/), and sprites
   icons/      24 interface icons and sprite.svg
+  bestiary/   24 specimen plates (plates/), their silhouettes (silhouettes/), two sprites, bestiary.json
+  seance/     the séance table for party mode, and its sprite
   textures/   paper, foxing, film grain, murk, hatch tiles; silhouettes/ (SVG) and silhouettes/png/
   tools/      the scripts that generate all of the above
 ```
@@ -104,7 +106,9 @@ Sprite ids: `tier-1` … `tier-6`, `refused` (tiers-sprite); `ward`, `ward-spent
 `g-fang`, `g-anchor`, `g-talon`, `g-sounding`, `g-maw`, `g-root`, `g-veil`, `g-spire`, `g-knot`,
 `g-hand`, `g-void`; `i-close`, `i-back`, `i-menu`, `i-descend`, `i-share`, `i-settings`, `i-info`,
 `i-sound-on`, `i-sound-off`, `i-streak`, `i-daily`, `i-leaderboard`, `i-timer`, `i-stats`, `i-hint`,
-`i-depth`, `i-help`, `i-check`, `i-career`, `i-drift`, `i-ward`, `i-riddle`, `i-seance`, `i-cult`.
+`i-depth`, `i-help`, `i-check`, `i-career`, `i-drift`, `i-ward`, `i-riddle`, `i-seance`, `i-cult`;
+`b-<id>` (bestiary-sprite) and `b-<id>-sil` (silhouettes-sprite) for the 24 creatures; `seance`,
+`seance-hand`, `seance-candle`, `seance-flame`, `seance-porthole` (seance-sprite).
 
 ## App icons
 
@@ -136,6 +140,24 @@ are the same shapes in white on transparent, at native size, ready to upload as 
 The city comes as one image and as `drowned-city-far.png` / `drowned-city-near.png` for
 parallax; the Eye comes as five layers (`great-eye-lid`, `-folds`, `-iris`, `-pupil`, `-glint`).
 
+## Bestiary and séance
+
+```html
+<svg viewBox="0 0 240 240" role="img" aria-label="Barreleye"><use href="/art/bestiary/bestiary-sprite.svg#b-barreleye"/></svg>
+<svg viewBox="0 0 240 240" aria-hidden="true"><use href="/art/bestiary/silhouettes-sprite.svg#b-barreleye-sil"/></svg>
+<svg viewBox="0 0 240 240" role="img" aria-label="A séance table: four of twelve chairs taken"><use href="/art/seance/seance-sprite.svg#seance"/></svg>
+<svg width="34" height="57" aria-hidden="true" style="--seance-burn: 0.4"><use href="/art/seance/seance-sprite.svg#seance-candle"/></svg>
+```
+
+The plates are engravings, so they are heavier than the icons: the plates sprite is 646 KB
+(168 KB gzipped). Load it only on the bestiary screen; for a single creature, fetch its file
+from `bestiary/plates/` (27 KB on average). Names, zones and notes are in
+`bestiary/bestiary.json`. Set `--beast-body` to the ground colour behind a plate; the full list
+of custom properties is in [Creatures and glyphs](../docs/art/05-creatures-and-glyphs.md#the-bestiary)
+and [Interface](../docs/art/06-interface.md#the-séance). The séance table has twelve seats, one
+for each of the twelve marks, and its candle burns down as a question's timer
+(`--seance-burn` from 0 to 1).
+
 ## Regenerating
 
 Every asset is drawn by a script, from fixed random seeds, so the output is repeatable.
@@ -147,6 +169,8 @@ Every asset is drawn by a script, from fixed random seeds, so the output is repe
 | seals, marks and the Drowned Script | `python3 art/tools/draw_glyphs.py` | Python 3 |
 | icons | `python3 art/tools/draw_icons.py` | Python 3 |
 | silhouettes | `python3 art/tools/draw_silhouettes.py` | Python 3 |
+| bestiary plates, silhouettes, sprites and bestiary.json | `python3 art/tools/draw_bestiary.py` | Python 3 (uses `bestiary_kit.py`) |
+| the séance table | `python3 art/tools/draw_seance.py` | Python 3 (uses `bestiary_kit.py`) |
 | paper, grain, murk, hatching | `python3 art/tools/make_textures.py` | Python 3, numpy, Pillow |
 | all PNGs (app icon sizes, silhouette masks) | `node art/tools/render-pngs.cjs` | Node, Playwright with Chromium |
 

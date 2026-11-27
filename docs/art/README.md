@@ -31,8 +31,8 @@ and it opens. We call the style **Ink & Phosphor**: ink at the top, living light
 2. [Colour](02-colour.md): the palette for every depth, the five zone themes, rarity colours, contrast.
 3. [Type](03-type.md): three free typefaces, three voices, the type scale.
 4. [Line and texture](04-line-and-texture.md): engraving, paper, grain, hatching, and the background shader.
-5. [Creatures and glyphs](05-creatures-and-glyphs.md): silhouettes, rarity seals, the Drowned Script, logo and icons.
-6. [Interface](06-interface.md): every component, the main screens, accessibility.
+5. [Creatures and glyphs](05-creatures-and-glyphs.md): silhouettes, the bestiary's 24 specimen plates, rarity seals, the Drowned Script, logo and icons.
+6. [Interface](06-interface.md): every component (the Codex page among them), the main screens, the Logbook, the Séance, accessibility.
 7. [Motion and sound](07-motion-and-sound.md): how things move, how the madness works, and the full audio brief.
 8. [Voice](08-voice.md): how the game talks, names for things, sample copy.
 
@@ -86,4 +86,5 @@ shares nothing else. The name, every drawing, every glyph, the palette, the layo
 text were made for this game. The visual references are old and public: 19th-century
 natural-history engraving, early deep-sea expedition reports, the first bathysphere dives
 of the 1930s, and the cosmic-horror idea of a vast, indifferent deep. We use the idea of
-cosmic horror, not Lovecraft's characters or his prejudices (see [Voice](08-voice.md)).
+cosmic horror, not Lovecraft's prejudices, and of his characters only four creature names in
+the bestiary (see [Voice](08-voice.md)).
