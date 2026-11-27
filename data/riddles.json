@@ -1,0 +1,3224 @@
+{
+  "riddles": [
+    {
+      "id": "fog",
+      "verse": [
+        "I walk in from the sea at dusk",
+        "and take the harbour, roof by roof.",
+        "The bells must speak, for eyes cannot.",
+        "By noon I give it all back."
+      ],
+      "answers": [
+        {
+          "answer": "Fog",
+          "aliases": [
+            "Sea fog",
+            "Fog bank",
+            "Fogbank",
+            "Haar",
+            "Sea fret",
+            "Fret",
+            "Pea souper",
+            "Peasouper"
+          ]
+        },
+        {
+          "answer": "Mist",
+          "aliases": [
+            "Sea mist"
+          ]
+        }
+      ],
+      "hints": [
+        "I am made of water, and you can walk straight through me.",
+        "Ships slow to a crawl when I arrive, and the horns along the coast begin to call.",
+        "I am a cloud that has come down to rest on the sea."
+      ],
+      "traps": [
+        {
+          "answer": "Cloud",
+          "aliases": [
+            "Clouds"
+          ],
+          "reason": "Close, but you must name me lying low, on the water."
+        },
+        {
+          "answer": "Smoke",
+          "reason": "Smoke rises from fire. I rise from the cold sea."
+        },
+        {
+          "answer": "Steam",
+          "reason": "Steam is hot. I am cold, and patient."
+        }
+      ],
+      "page": {
+        "title": "Of the Grey That Walks Ashore",
+        "text": "Fog is a cloud that rests on the ground or the sea. It forms when damp air cools until it can no longer hold its water, which gathers on specks of salt and dust too small to see. Sea fog is born when warm air drifts over cold water. Off Newfoundland, where the warm Gulf Stream meets the cold Labrador Current, it is among the thickest and most frequent on Earth. Lighthouse keepers did not trust their eyes in it. They trusted their horns, and counted the seconds between the echoes."
+      }
+    },
+    {
+      "id": "key",
+      "verse": [
+        "My teeth are cut to fit one mouth.",
+        "I turn once, and a door forgives you.",
+        "Lose me, and the house forgets your name.",
+        "I sleep on a ring beside my brothers."
+      ],
+      "answers": [
+        {
+          "answer": "Key",
+          "aliases": [
+            "Keys",
+            "Door key",
+            "House key",
+            "Skeleton key"
+          ]
+        }
+      ],
+      "hints": [
+        "A gaoler wears a ring of me at his belt.",
+        "A piano has eighty-eight of me, and none of them opens anything.",
+        "You turn me in a lock."
+      ],
+      "traps": [
+        {
+          "answer": "Lock",
+          "aliases": [
+            "Padlock"
+          ],
+          "reason": "That is the mouth. Name what fits it."
+        },
+        {
+          "answer": "Comb",
+          "reason": "A comb has teeth too, but it opens nothing."
+        },
+        {
+          "answer": "Door",
+          "reason": "That is what I open."
+        }
+      ],
+      "page": {
+        "title": "Of the Small Iron That Opens",
+        "text": "The oldest known lock, found in the ruins of the Assyrian palace at Khorsabad in Iraq, is about 2,700 years old. It was a wooden pin lock, opened with a large wooden key. The Romans made keys small enough to wear as rings. A skeleton key is one cut down to its bare outline, so that it slips past the wards inside simple old locks. Gaolers, butlers and housekeepers carried the keys of a house on great rings, and so they carried its secrets too."
+      }
+    },
+    {
+      "id": "anglerfish",
+      "verse": [
+        "I hang a little moon above my face",
+        "to bring the small ones close.",
+        "My husband bit me once, and stayed,",
+        "and now he is a part of me."
+      ],
+      "answers": [
+        {
+          "answer": "Anglerfish",
+          "aliases": [
+            "Angler fish",
+            "Angler",
+            "Deep-sea anglerfish",
+            "Deep sea angler",
+            "Black seadevil",
+            "Sea devil",
+            "Monkfish"
+          ]
+        }
+      ],
+      "hints": [
+        "I live where no sunlight reaches, and I fish for my supper.",
+        "My lamp glows with bacteria that live inside it.",
+        "I am a deep-sea fish with a glowing lure dangling in front of my teeth."
+      ],
+      "traps": [
+        {
+          "answer": "Lanternfish",
+          "reason": "It glows, but it carries no rod."
+        },
+        {
+          "answer": "Jellyfish",
+          "reason": "It glows too, but it has no teeth."
+        },
+        {
+          "answer": "Vampire squid",
+          "aliases": [
+            "Squid"
+          ],
+          "reason": "A creature of the dark, but I am a fish."
+        }
+      ],
+      "page": {
+        "title": "Of the Lamp Above the Teeth",
+        "text": "Deep-sea anglerfish live in water too dark for eyes to be much use. The female carries a fishing rod, a spine grown from her back fin, tipped with a lure that glows with bacteria living inside it. Small fish swim to the light, and her jaws close. In some species the male is tiny. He finds a female by smell, bites her, and fuses to her body, sharing her blood until he is little more than a part of her. One female may carry several."
+      }
+    },
+    {
+      "id": "lighthouse",
+      "verse": [
+        "I stand alone where the rocks are hungry.",
+        "All night I turn one burning eye",
+        "and say the same word to the dark:",
+        "not here, not here, not here."
+      ],
+      "answers": [
+        {
+          "answer": "Lighthouse",
+          "aliases": [
+            "Lighthouses",
+            "Light house",
+            "Beacon",
+            "Pharos"
+          ]
+        }
+      ],
+      "hints": [
+        "Ships that see me steer away. I am a warning, not a welcome.",
+        "A keeper once lived inside me and trimmed my lamp each night.",
+        "I am a tall tower on the coast with a great turning light at the top."
+      ],
+      "traps": [
+        {
+          "answer": "Lightship",
+          "reason": "A ship that does my work. I stand on the rock itself."
+        },
+        {
+          "answer": "Lantern",
+          "reason": "Too small. I am a tower."
+        },
+        {
+          "answer": "Moon",
+          "reason": "The moon does not turn, and it warns no one."
+        }
+      ],
+      "page": {
+        "title": "Of the Tower That Says No",
+        "text": "The Pharos of Alexandria, finished around 280 BC, stood perhaps a hundred metres tall and was counted among the Seven Wonders of the ancient world. Earthquakes brought it down, and its stones were later built into a fort. In 1822 Augustin Fresnel showed how rings of glass prisms could bend a lamp's light into a single beam seen for miles, and his lens spread to lighthouses around the world. Keepers lived in the towers until machines replaced them. Britain's last were sent ashore in 1998."
+      }
+    },
+    {
+      "id": "shadow",
+      "verse": [
+        "I follow you down every stair.",
+        "I lie on the sea floor beneath your boat.",
+        "Light makes me, and light unmakes me.",
+        "At noon I hide beneath your feet."
+      ],
+      "answers": [
+        {
+          "answer": "Shadow",
+          "aliases": [
+            "Shadows",
+            "Shade",
+            "Your shadow"
+          ]
+        }
+      ],
+      "hints": [
+        "I have your shape, but no colour and no weight.",
+        "I am longest at dawn and dusk, and shortest at noon.",
+        "Stand between a lamp and a wall and you will see me there."
+      ],
+      "traps": [
+        {
+          "answer": "Reflection",
+          "aliases": [
+            "Mirror image"
+          ],
+          "reason": "That one copies your face. I copy only your outline."
+        },
+        {
+          "answer": "Ghost",
+          "reason": "Close in spirit. But I need light to exist."
+        },
+        {
+          "answer": "Darkness",
+          "aliases": [
+            "Dark",
+            "Night"
+          ],
+          "reason": "Too large. I am only the small dark that is shaped like you."
+        }
+      ],
+      "page": {
+        "title": "Of the One Who Walks Behind",
+        "text": "A shadow is not a thing but a place where light cannot reach. Its edges are soft because the Sun is not a point but a disc, so a shadow has a dark core, the umbra, and a paler fringe, the penumbra. During a total eclipse of the Sun, the Moon's umbra races across the Earth at more than a thousand kilometres an hour. Those who stand inside it see the day go out. Birds fall silent. The air turns cold."
+      }
+    },
+    {
+      "id": "pearl",
+      "verse": [
+        "I began as an itch in a living house.",
+        "My keeper wrapped me, coat on coat,",
+        "until the itch grew round and bright.",
+        "Divers drowned to bring me up."
+      ],
+      "answers": [
+        {
+          "answer": "Pearl",
+          "aliases": [
+            "Pearls",
+            "Natural pearl",
+            "Cultured pearl",
+            "Black pearl"
+          ]
+        }
+      ],
+      "hints": [
+        "I am a gem that no one mines. I grow inside an animal.",
+        "My mother is an oyster, and I am born from an irritation.",
+        "Strung on a necklace, I am the gem of June, and the sea's own jewel."
+      ],
+      "traps": [
+        {
+          "answer": "Oyster",
+          "aliases": [
+            "Clam",
+            "Mussel"
+          ],
+          "reason": "Not the house. What grows inside it?"
+        },
+        {
+          "answer": "Nacre",
+          "aliases": [
+            "Mother of pearl"
+          ],
+          "reason": "That is what I am made of. Name the whole of me."
+        },
+        {
+          "answer": "Diamond",
+          "reason": "Diamonds are dug from the earth. I am grown in the sea."
+        }
+      ],
+      "page": {
+        "title": "Of the Wound That Shines",
+        "text": "A natural pearl forms when something gets inside a mollusc's shell, a parasite more often than the grain of sand of the old story. The animal seals it away in layer upon layer of nacre, the same mother-of-pearl that lines its shell. Wild pearls are so rare that divers once opened thousands of oysters to find one. Almost every pearl sold today is cultured: a bead is set inside the oyster on purpose, and the animal does the rest. It cannot stop. It does not know how."
+      }
+    },
+    {
+      "id": "echo",
+      "verse": [
+        "Shout into the cave and I will answer,",
+        "but only ever with your words.",
+        "I live in wells and empty halls,",
+        "and the whales send me across the sea."
+      ],
+      "answers": [
+        {
+          "answer": "Echo",
+          "aliases": [
+            "Echoes",
+            "Reverberation",
+            "Your echo"
+          ]
+        }
+      ],
+      "hints": [
+        "I always have the last word, and it is always yours.",
+        "Bats and dolphins find their way by listening for me.",
+        "In the myth, I was a nymph who could only repeat what others said."
+      ],
+      "traps": [
+        {
+          "answer": "Sound",
+          "aliases": [
+            "Noise",
+            "Voice"
+          ],
+          "reason": "Too broad. I am the sound that comes back."
+        },
+        {
+          "answer": "Parrot",
+          "reason": "A parrot can choose its words. I cannot."
+        },
+        {
+          "answer": "Sonar",
+          "reason": "Sonar listens for me. Name what it hears."
+        }
+      ],
+      "page": {
+        "title": "Of the Voice That Returns",
+        "text": "An echo is sound thrown back by a hard surface. The ear can only tell an echo from the first sound if it arrives at least a tenth of a second later, so the wall must be about seventeen metres away. Ships measure the depth of the sea by timing an echo off the floor, for sound travels about 1,500 metres a second in seawater. In Greek myth Echo was a nymph cursed to repeat the last words spoken to her. She faded until only her voice was left."
+      }
+    },
+    {
+      "id": "candle",
+      "verse": [
+        "I wear a crown of fire,",
+        "and I spend myself to wear it.",
+        "The longer I keep watch for you,",
+        "the less of me remains."
+      ],
+      "answers": [
+        {
+          "answer": "Candle",
+          "aliases": [
+            "Candles",
+            "Taper",
+            "Candlelight",
+            "Wax candle",
+            "Tallow candle",
+            "Tea light",
+            "Tealight"
+          ]
+        }
+      ],
+      "hints": [
+        "Without a draught I stand very still. A breath can end me.",
+        "My body is wax, and my heart is a wick.",
+        "You put me on a birthday cake and blow me out."
+      ],
+      "traps": [
+        {
+          "answer": "Match",
+          "aliases": [
+            "Matchstick"
+          ],
+          "reason": "Too quick. I keep watch for hours."
+        },
+        {
+          "answer": "Lamp",
+          "aliases": [
+            "Oil lamp",
+            "Lantern"
+          ],
+          "reason": "Close. But I burn my own body, not oil."
+        },
+        {
+          "answer": "Torch",
+          "reason": "Too fierce. I am small and patient."
+        }
+      ],
+      "page": {
+        "title": "Of the Watcher Who Wanes",
+        "text": "A candle's flame does not burn solid wax. Heat melts the wax, the wick draws the liquid up, and the flame turns it to vapour, and it is the vapour that burns. Before clocks were common, candles marked in hours told the time through the night, and one is said to have measured out the working day of Alfred the Great. Tallow candles, made from animal fat, smoked and stank. Beeswax was for churches and the rich."
+      }
+    },
+    {
+      "id": "iceberg",
+      "verse": [
+        "I left my mother in the north",
+        "and wander south to die in warmer water.",
+        "You see my head, and think you know me.",
+        "My body waits below, nine times as large."
+      ],
+      "answers": [
+        {
+          "answer": "Iceberg",
+          "aliases": [
+            "Icebergs",
+            "Berg",
+            "Ice berg",
+            "Growler",
+            "Bergy bit"
+          ]
+        }
+      ],
+      "hints": [
+        "My mother is a glacier, and I broke away from her with a roar.",
+        "I am fresh water, though I float in the salt sea.",
+        "In 1912 I met a great liner on her first voyage."
+      ],
+      "traps": [
+        {
+          "answer": "Glacier",
+          "reason": "That is my mother. I broke away from her."
+        },
+        {
+          "answer": "Ice floe",
+          "aliases": [
+            "Floe",
+            "Pack ice",
+            "Sea ice"
+          ],
+          "reason": "Sea ice is frozen sea. I am a piece of land ice, set adrift."
+        },
+        {
+          "answer": "Titanic",
+          "reason": "That was my victim, not me."
+        }
+      ],
+      "page": {
+        "title": "Of the White Wanderer",
+        "text": "An iceberg is a piece of a glacier or ice shelf that has broken off and floated away, a birth that sailors call calving. Because ice is only a little lighter than seawater, about nine tenths of an iceberg lies below the surface. One of the largest ever measured, B-15, broke from Antarctica's Ross Ice Shelf in 2000 and was larger than Jamaica. Icebergs are made of snow that fell thousands of years ago. Drop a piece in a glass and you may hear the ancient air escape."
+      }
+    },
+    {
+      "id": "moon",
+      "verse": [
+        "I pull the whole sea by a thread",
+        "and never once come down to drink.",
+        "I show one face, and keep the other turned away.",
+        "The tides and the wolves are mine."
+      ],
+      "answers": [
+        {
+          "answer": "Moon",
+          "aliases": [
+            "Luna",
+            "Full moon",
+            "Crescent moon",
+            "New moon"
+          ]
+        }
+      ],
+      "hints": [
+        "Every month I grow fat and thin again.",
+        "Twelve men have walked on me, and left their footprints in my dust.",
+        "I am Earth's only natural satellite."
+      ],
+      "traps": [
+        {
+          "answer": "Sun",
+          "reason": "The Sun pulls the sea too, but less. Name the nearer one."
+        },
+        {
+          "answer": "Tide",
+          "aliases": [
+            "Tides"
+          ],
+          "reason": "That is what I pull."
+        },
+        {
+          "answer": "Earth",
+          "reason": "That is the one I circle."
+        }
+      ],
+      "page": {
+        "title": "Of the Pale Hand on the Water",
+        "text": "The Moon raises the tides by pulling on the oceans a little harder on the side of the Earth that faces it, and a little less on the far side, so the sea bulges twice. The same pull long ago slowed the Moon's own spin until it kept one face towards us. It is drifting away by nearly four centimetres a year, measured by lasers bounced off mirrors that the Apollo astronauts left behind. Twelve men walked on it between 1969 and 1972. No one has walked there since."
+      }
+    },
+    {
+      "id": "map",
+      "verse": [
+        "I hold the whole coast in my lap,",
+        "its rocks, its wrecks, its harbour lights,",
+        "and I am thinner than a leaf.",
+        "Old ones of me warn: here be monsters."
+      ],
+      "answers": [
+        {
+          "answer": "Map",
+          "aliases": [
+            "Maps",
+            "Chart",
+            "Sea chart",
+            "Nautical chart",
+            "Atlas",
+            "Treasure map"
+          ]
+        }
+      ],
+      "hints": [
+        "I am drawn to scale, and I am always smaller than the truth.",
+        "Pirates in stories mark buried treasure on me with an X.",
+        "Unfold me, find the compass rose, and you will know which way is north."
+      ],
+      "traps": [
+        {
+          "answer": "Globe",
+          "reason": "Close. But I lie flat."
+        },
+        {
+          "answer": "Compass",
+          "reason": "That tells you north. I tell you everything else."
+        },
+        {
+          "answer": "Sat nav",
+          "aliases": [
+            "GPS",
+            "Satnav"
+          ],
+          "reason": "Too new. I am paper and ink."
+        }
+      ],
+      "page": {
+        "title": "Of the Coast Folded Small",
+        "text": "The oldest known map of the world, the Babylonian Imago Mundi, was pressed into a clay tablet more than 2,500 years ago. It shows Babylon inside a ring of salt water, with strange lands beyond. Sea charts mark depths in soundings, once measured by dropping a weighted line. The phrase here be dragons appears on almost no real map, though one copper globe from about 1510 carries it in Latin. The monsters drawn in empty oceans were partly warning and partly decoration."
+      }
+    },
+    {
+      "id": "salt",
+      "verse": [
+        "I was the sea, until the sun drank it.",
+        "Old roads were named for carrying me.",
+        "I keep the dead from rotting",
+        "and make the living thirst."
+      ],
+      "answers": [
+        {
+          "answer": "Salt",
+          "aliases": [
+            "Sea salt",
+            "Rock salt",
+            "Sodium chloride",
+            "NaCl",
+            "Halite",
+            "Table salt"
+          ]
+        }
+      ],
+      "hints": [
+        "Drink the sea and you drink me, and I will make you thirstier still.",
+        "Cooks pinch me, and fishermen once packed their catch in barrels of me.",
+        "I am white, I come in grains, and I sit on the table beside the pepper."
+      ],
+      "traps": [
+        {
+          "answer": "Sugar",
+          "reason": "Too sweet. I am the other white grain."
+        },
+        {
+          "answer": "Sand",
+          "reason": "Sand will not dissolve. I vanish into water."
+        },
+        {
+          "answer": "Pepper",
+          "reason": "That is my companion at the table."
+        }
+      ],
+      "page": {
+        "title": "Of the White Crystal",
+        "text": "Seawater is about three and a half per cent salt, most of it sodium chloride. Drinking it makes thirst worse, because the body must spend more water than it gains to be rid of the salt. Salt kept food from rotting long before refrigerators, and it was precious enough to tax and to fight over. Rome's Via Salaria, the Salt Road, is among the city's oldest. In 1930 Gandhi walked to the sea at Dandi and made salt from it, defying the British law that taxed it."
+      }
+    },
+    {
+      "id": "octopus",
+      "verse": [
+        "Three hearts beat in me, and my blood is blue.",
+        "I taste with my arms and wear my thoughts on my skin.",
+        "I can pour myself through any gap",
+        "that my beak can pass."
+      ],
+      "answers": [
+        {
+          "answer": "Octopus",
+          "aliases": [
+            "Octopuses",
+            "Octopi",
+            "Octopodes",
+            "Devilfish"
+          ]
+        }
+      ],
+      "hints": [
+        "I have no bones, and I can change colour in a blink.",
+        "Most of my neurons live in my arms, not my head.",
+        "I have eight arms."
+      ],
+      "traps": [
+        {
+          "answer": "Squid",
+          "reason": "A cousin. But I have eight arms and no tentacles."
+        },
+        {
+          "answer": "Jellyfish",
+          "reason": "Brainless and boneless. I am only boneless."
+        },
+        {
+          "answer": "Kraken",
+          "reason": "A legend. I am real."
+        },
+        {
+          "answer": "Cuttlefish",
+          "reason": "A cousin with a bone inside. I have none."
+        }
+      ],
+      "page": {
+        "title": "Of the Mind in the Arms",
+        "text": "An octopus has three hearts: two pump blood through the gills, and one through the body. Its blood is blue because it carries oxygen with copper rather than iron. About two thirds of its neurons lie in its arms, which can taste what they touch and act half on their own. The only hard part of its body is its beak, so it can squeeze through any hole the beak fits. The plural is octopuses. Octopi rests on the mistaken idea that the word is Latin. It is Greek."
+      }
+    },
+    {
+      "id": "hourglass",
+      "verse": [
+        "Two rooms, one door, and a falling crowd",
+        "that never stops till all have passed.",
+        "Then you turn the house upside down,",
+        "and the crowd begins again."
+      ],
+      "answers": [
+        {
+          "answer": "Hourglass",
+          "aliases": [
+            "Hour glass",
+            "Hourglasses",
+            "Sand timer",
+            "Sandglass",
+            "Sand glass",
+            "Egg timer",
+            "Sand clock"
+          ]
+        }
+      ],
+      "hints": [
+        "I count time without a single number.",
+        "Ships once used a small one of me to measure their speed, half a minute at a time.",
+        "My waist is narrow, and I am full of sand."
+      ],
+      "traps": [
+        {
+          "answer": "Clock",
+          "aliases": [
+            "Watch"
+          ],
+          "reason": "Too many numbers. I count with grains."
+        },
+        {
+          "answer": "Sundial",
+          "reason": "That needs the sun. I work in the dark."
+        },
+        {
+          "answer": "Sand",
+          "reason": "That is what falls through me."
+        }
+      ],
+      "page": {
+        "title": "Of the House of Falling Sand",
+        "text": "A sandglass keeps time by letting grains fall through a narrow neck. Sailors turned a half-hour glass through every watch and struck the ship's bell each time it emptied, which is why bells still count the watches at sea. A smaller glass of about half a minute measured speed: a knotted line ran out behind the ship while it emptied, and the knots counted gave the speed in knots. The sand was not always sand. Powdered eggshell and marble flowed more evenly."
+      }
+    },
+    {
+      "id": "jellyfish",
+      "verse": [
+        "I have no brain, no bones, no blood,",
+        "and I was drifting here before the fish.",
+        "Touch me and I will sting you",
+        "even after I am dead."
+      ],
+      "answers": [
+        {
+          "answer": "Jellyfish",
+          "aliases": [
+            "Jelly fish",
+            "Jellyfishes",
+            "Jelly",
+            "Medusa",
+            "Sea jelly",
+            "Sea jellies",
+            "Box jellyfish",
+            "Portuguese man o' war",
+            "Man o' war",
+            "Man of war"
+          ]
+        }
+      ],
+      "hints": [
+        "Some of my kind glow in the dark, and one, they say, can turn young again.",
+        "I am ninety-five per cent water.",
+        "I pulse through the sea like an umbrella opening and closing, trailing stinging threads."
+      ],
+      "traps": [
+        {
+          "answer": "Octopus",
+          "aliases": [
+            "Squid"
+          ],
+          "reason": "Far too clever. I have no brain at all."
+        },
+        {
+          "answer": "Sea anemone",
+          "aliases": [
+            "Anemone"
+          ],
+          "reason": "A cousin of mine, but it stays put. I drift."
+        },
+        {
+          "answer": "Coral",
+          "reason": "Another cousin, and a builder. I am a wanderer."
+        }
+      ],
+      "page": {
+        "title": "Of the Drifting Bell",
+        "text": "Jellyfish have drifted through the oceans for more than 500 million years, longer than there have been fish. They have no brain and no blood, and are mostly water. Their stinging cells fire on touch, and can still fire after the animal has died and washed ashore. One small species, Turritopsis dohrnii, can turn its adult body back into a young polyp when it is stressed or injured, and begin its life again. In principle it need never die of old age."
+      }
+    },
+    {
+      "id": "compass",
+      "verse": [
+        "I have one thought, and it is north.",
+        "Spin me, shake me, carry me to sea:",
+        "I tremble, and I turn, and I remember.",
+        "Only iron can make me lie."
+      ],
+      "answers": [
+        {
+          "answer": "Compass",
+          "aliases": [
+            "Compasses",
+            "Magnetic compass",
+            "Compass needle",
+            "Ship's compass"
+          ]
+        },
+        {
+          "answer": "Lodestone",
+          "aliases": [
+            "Loadstone"
+          ]
+        }
+      ],
+      "hints": [
+        "Sailors steered by me when the stars were hidden.",
+        "My needle is a tiny magnet.",
+        "My face shows N, E, S and W."
+      ],
+      "traps": [
+        {
+          "answer": "Magnet",
+          "reason": "I hold one, but I am more than that."
+        },
+        {
+          "answer": "Map",
+          "aliases": [
+            "Chart"
+          ],
+          "reason": "I work beside one, but I am not one."
+        },
+        {
+          "answer": "Weathervane",
+          "aliases": [
+            "Weather vane",
+            "Weathercock"
+          ],
+          "reason": "That points where the wind goes. I point one way always."
+        }
+      ],
+      "page": {
+        "title": "Of the Needle That Remembers North",
+        "text": "A compass needle is a small magnet that turns to line up with the Earth's magnetic field. Magnetic north is not true north, and it wanders: in the past century it has crept from the Canadian Arctic towards Siberia. The Chinese scholar Shen Kuo described the magnetised needle in 1088, and sailors were using it in Europe by about 1190. Iron ships threw their compasses off, so they carried iron spheres beside the binnacle to correct them. Sailors called them Kelvin's balls."
+      }
+    },
+    {
+      "id": "ink",
+      "verse": [
+        "I am a drop of night that learned to speak.",
+        "I sleep in a well and wake on a quill,",
+        "and when I dry, I keep your secrets",
+        "longer than your bones."
+      ],
+      "answers": [
+        {
+          "answer": "Ink",
+          "aliases": [
+            "Inks",
+            "Squid ink",
+            "India ink",
+            "Indian ink",
+            "Iron gall ink"
+          ]
+        }
+      ],
+      "hints": [
+        "The squid and the octopus spit me into the water to hide.",
+        "Writers once dipped their pens into me.",
+        "I am the dark liquid inside a fountain pen."
+      ],
+      "traps": [
+        {
+          "answer": "Paper",
+          "aliases": [
+            "Parchment"
+          ],
+          "reason": "That is where I go to sleep."
+        },
+        {
+          "answer": "Pen",
+          "aliases": [
+            "Quill",
+            "Fountain pen"
+          ],
+          "reason": "That carries me. Name what it carries."
+        },
+        {
+          "answer": "Blood",
+          "reason": "Close in colour, in the dark. But I am made for writing."
+        }
+      ],
+      "page": {
+        "title": "Of the Night in a Bottle",
+        "text": "Iron gall ink, made from oak galls, iron salts and gum, was the ink of Europe for more than a thousand years. Leonardo and Bach wrote with it. It starts pale and darkens on the page as it meets the air, and over centuries it can eat through the paper. Cuttlefish ink gave the brown called sepia, after the animal's Greek name. A squid's ink is not only a smokescreen. Some squid squirt a blob shaped like themselves, and slip away while the predator strikes it."
+      }
+    },
+    {
+      "id": "bell",
+      "verse": [
+        "My tongue is iron, and it hangs inside me.",
+        "I call the living to their prayers",
+        "and the fog-bound ships away",
+        "from the hungry rocks."
+      ],
+      "answers": [
+        {
+          "answer": "Bell",
+          "aliases": [
+            "Bells",
+            "Church bell",
+            "Ship's bell",
+            "Ship bell",
+            "Bell buoy"
+          ]
+        }
+      ],
+      "hints": [
+        "I am struck, but I do not cry. I sing.",
+        "Ships carry me on deck and strike me every half hour.",
+        "I hang in a church tower and ring out for weddings."
+      ],
+      "traps": [
+        {
+          "answer": "Gong",
+          "reason": "Close. But I have a tongue inside me."
+        },
+        {
+          "answer": "Drum",
+          "reason": "A drum is skin. I am bronze, with a tongue."
+        },
+        {
+          "answer": "Whistle",
+          "reason": "A whistle needs a breath. I need a blow."
+        }
+      ],
+      "page": {
+        "title": "Of the Bronze Tongue",
+        "text": "A bell's metal is usually bronze, about four parts copper to one of tin, and the iron clapper inside it is called the tongue. Big Ben is not the clock or the tower but the great bell, cast in 1858 after the first one cracked. Off the coasts of Suffolk and Wales, legends tell of drowned churches whose bells can still be heard ringing beneath the waves on stormy nights. Bell buoys, rocked by the swell, ring their warnings with no one there to strike them."
+      }
+    },
+    {
+      "id": "net",
+      "verse": [
+        "I am more hole than thread,",
+        "and still I bring home the silver of the sea.",
+        "I hold everything but water.",
+        "Mend me, or go hungry."
+      ],
+      "answers": [
+        {
+          "answer": "Net",
+          "aliases": [
+            "Nets",
+            "Fishing net",
+            "Trawl",
+            "Trawl net",
+            "Seine",
+            "Seine net",
+            "Drift net",
+            "Driftnet",
+            "Fishnet",
+            "Cast net"
+          ]
+        }
+      ],
+      "hints": [
+        "Fishermen spend their evenings mending me on the quay.",
+        "Goalkeepers stand in front of one of me, and tightrope walkers fall into another.",
+        "Thrown from a boat, I sink, spread wide, and am hauled back full of fish."
+      ],
+      "traps": [
+        {
+          "answer": "Sieve",
+          "aliases": [
+            "Colander"
+          ],
+          "reason": "Close. But I go to sea."
+        },
+        {
+          "answer": "Spider web",
+          "aliases": [
+            "Web",
+            "Cobweb",
+            "Spiderweb"
+          ],
+          "reason": "A spider's cousin of mine. Name the one the fishermen use."
+        },
+        {
+          "answer": "Hook",
+          "aliases": [
+            "Fishing hook",
+            "Fishing rod",
+            "Rod"
+          ],
+          "reason": "That catches one fish. I catch hundreds."
+        }
+      ],
+      "page": {
+        "title": "Of the Mesh That Feeds",
+        "text": "Fragments of a willow-bark net found at Antrea, on the old border of Finland and Russia, are more than ten thousand years old. A net is measured by its mesh, the size of its holes, and laws now set the smallest mesh allowed so that young fish can slip through and grow. A trawl is dragged behind a boat. A seine hangs in the water like a wall and is drawn closed around a shoal. Lost nets go on fishing for years with no one to haul them in. They are called ghost nets."
+      }
+    },
+    {
+      "id": "seashell",
+      "verse": [
+        "I was a house. My owner left.",
+        "Hold me to your ear in a dry room",
+        "and I will pour the whole sea into it,",
+        "though I am lying."
+      ],
+      "answers": [
+        {
+          "answer": "Seashell",
+          "aliases": [
+            "Sea shell",
+            "Shell",
+            "Seashells",
+            "Conch",
+            "Conch shell",
+            "Whelk shell",
+            "Cockle shell",
+            "Scallop shell",
+            "Shells"
+          ]
+        }
+      ],
+      "hints": [
+        "Hermit crabs move into me when they outgrow their old home.",
+        "Children gather me on the beach in buckets.",
+        "Put me to your ear and you seem to hear the waves."
+      ],
+      "traps": [
+        {
+          "answer": "Snail",
+          "aliases": [
+            "Sea snail",
+            "Whelk"
+          ],
+          "reason": "Close. But I am the house, not the one who lived in it."
+        },
+        {
+          "answer": "Hermit crab",
+          "aliases": [
+            "Crab"
+          ],
+          "reason": "A crab may borrow me. Name what it borrows."
+        },
+        {
+          "answer": "Pearl",
+          "reason": "I may hold one, but I am the outside."
+        }
+      ],
+      "page": {
+        "title": "Of the House That Remembers the Sea",
+        "text": "A seashell is the skeleton a mollusc builds outside its body, laid down from calcium carbonate it draws from the sea. Its spiral grows by adding to the open end, so the oldest part is at the tip. The sea you hear in a shell is not the sea. It is the noise of the room around you, caught and echoed inside its curved chamber, which is why a cup or a cupped hand does the same. Children have been fooled for centuries. Most never ask."
+      }
+    },
+    {
+      "id": "silence",
+      "verse": [
+        "Monks keep me as a vow,",
+        "and libraries beg you for me.",
+        "I am golden, the proverb says,",
+        "where speech is only silver."
+      ],
+      "answers": [
+        {
+          "answer": "Silence",
+          "aliases": [
+            "Silent",
+            "Quiet",
+            "Quietness",
+            "Hush",
+            "Stillness",
+            "Peace and quiet"
+          ]
+        }
+      ],
+      "hints": [
+        "Crowds keep a minute or two of me to remember the dead.",
+        "A composer once wrote a piece made of nothing but four and a half minutes of me.",
+        "I am what you hear when no one makes a sound."
+      ],
+      "traps": [
+        {
+          "answer": "Darkness",
+          "aliases": [
+            "Dark"
+          ],
+          "reason": "That is for the eyes. I am for the ears."
+        },
+        {
+          "answer": "Secret",
+          "reason": "A secret is kept by me, but it is not me."
+        },
+        {
+          "answer": "Noise",
+          "aliases": [
+            "Sound"
+          ],
+          "reason": "My opposite."
+        }
+      ],
+      "page": {
+        "title": "Of the Golden Thing",
+        "text": "Perfect silence does not exist for a living listener. In the quietest rooms ever built, lined with wedges that swallow sound, people soon hear their own heartbeat, their blood and the faint ringing of their ears, and many find it unsettling. In 1952 the pianist David Tudor sat at a piano and played nothing for four minutes and thirty-three seconds, the whole of John Cage's 4'33\". The audience heard the wind outside, then rain on the roof, and then themselves."
+      }
+    },
+    {
+      "id": "breath",
+      "verse": [
+        "You gather me before you go under,",
+        "and spend me, coin by coin, in the dark.",
+        "On cold mornings you can watch me leave.",
+        "The last of me is the last of you."
+      ],
+      "answers": [
+        {
+          "answer": "Breath",
+          "aliases": [
+            "Breaths",
+            "Breathing",
+            "Last breath",
+            "Your breath"
+          ]
+        },
+        {
+          "answer": "Air",
+          "aliases": [
+            "Lungful",
+            "Lungful of air"
+          ]
+        }
+      ],
+      "hints": [
+        "Free divers fill their lungs with me and go down without tanks.",
+        "A mirror held to the lips of the dying will mist if I am still there.",
+        "You take me in and let me out about twenty thousand times a day."
+      ],
+      "traps": [
+        {
+          "answer": "Oxygen",
+          "reason": "Close. That is only part of me."
+        },
+        {
+          "answer": "Wind",
+          "aliases": [
+            "Breeze"
+          ],
+          "reason": "Too big. I am the small wind inside you."
+        },
+        {
+          "answer": "Soul",
+          "aliases": [
+            "Spirit"
+          ],
+          "reason": "Old tongues used one word for both. Name the one you can see on a cold morning."
+        }
+      ],
+      "page": {
+        "title": "Of the Coin Spent in the Dark",
+        "text": "Most people can hold their breath for about a minute. Trained free divers, who sink on a single lungful, have held theirs for more than ten minutes lying still in a pool, and dived past two hundred metres. The urge to breathe comes less from a lack of oxygen than from a build-up of carbon dioxide, and the danger is that a diver can black out without warning. The Latin spiritus meant breath before it meant spirit, and anima meant both breath and soul."
+      }
+    },
+    {
+      "id": "clock",
+      "verse": [
+        "When the master of the house died,",
+        "they stopped me, and covered the mirrors.",
+        "Every hour I clear my throat,",
+        "and the house remembers how late it is."
+      ],
+      "answers": [
+        {
+          "answer": "Clock",
+          "aliases": [
+            "Clocks",
+            "Grandfather clock",
+            "Longcase clock",
+            "Wall clock",
+            "Mantel clock",
+            "Mantelpiece clock",
+            "Cuckoo clock",
+            "Church clock"
+          ]
+        }
+      ],
+      "hints": [
+        "My heart beats with a tick, and I strike the hours.",
+        "A crocodile swallowed one of me, and ticked whenever it came near Captain Hook.",
+        "My two hands go round and round to tell you the time."
+      ],
+      "traps": [
+        {
+          "answer": "Watch",
+          "aliases": [
+            "Wristwatch",
+            "Pocket watch"
+          ],
+          "reason": "Too small to wake a house. Name the one on the wall."
+        },
+        {
+          "answer": "Hourglass",
+          "aliases": [
+            "Sundial"
+          ],
+          "reason": "Too quiet. I strike the hours."
+        },
+        {
+          "answer": "Heart",
+          "reason": "Close in spirit. But mine is brass."
+        }
+      ],
+      "page": {
+        "title": "Of the Stopped Hours",
+        "text": "In Victorian houses, when someone died, the clocks were stopped at the hour of death, the mirrors were covered and the curtains drawn. Some said it let the soul leave in peace; others that it simply marked the moment. In Great Expectations, Miss Havisham stopped every clock in her house at twenty to nine, the minute she was jilted, and wore her wedding dress for decades. The grandfather clock took its name from an 1876 song about one that stopped when its owner died."
+      }
+    },
+    {
+      "id": "egg",
+      "verse": [
+        "I am a locked room with a sleeper inside.",
+        "No door, no window, no seam.",
+        "To get out, the sleeper must break the house,",
+        "and the house can never be mended."
+      ],
+      "answers": [
+        {
+          "answer": "Egg",
+          "aliases": [
+            "Eggs",
+            "Hen's egg",
+            "Chicken egg",
+            "Bird's egg",
+            "Eggshell"
+          ]
+        }
+      ],
+      "hints": [
+        "Humpty Dumpty was one of me, they say, and he could not be put together again.",
+        "A hen sits on me to keep me warm.",
+        "You can fry me, boil me or scramble me for breakfast."
+      ],
+      "traps": [
+        {
+          "answer": "Chicken",
+          "aliases": [
+            "Hen",
+            "Chick"
+          ],
+          "reason": "That came first, or second. Name the other."
+        },
+        {
+          "answer": "Seed",
+          "reason": "A seed sleeps too, but no bird lays it."
+        },
+        {
+          "answer": "Nest",
+          "reason": "That is where I sleep."
+        }
+      ],
+      "page": {
+        "title": "Of the Room With No Door",
+        "text": "An egg's shell looks solid, but a hen's egg has thousands of tiny pores, so that the chick inside can breathe. Before it hatches, the chick grows a small sharp point on its beak, the egg tooth, to crack its way out, and it loses the tooth soon after. The largest egg laid by any living bird is the ostrich's, about fifteen centimetres long. The extinct elephant bird of Madagascar laid eggs that held as much as a hundred and fifty hen's eggs."
+      }
+    },
+    {
+      "id": "book",
+      "verse": [
+        "Open me and I speak without a sound.",
+        "Close me and I keep my counsel.",
+        "Some of me are bound in leather,",
+        "and some, they whisper, in worse."
+      ],
+      "answers": [
+        {
+          "answer": "Book",
+          "aliases": [
+            "Books",
+            "Tome",
+            "Volume",
+            "Novel",
+            "Codex",
+            "Grimoire",
+            "Hardback",
+            "Paperback"
+          ]
+        }
+      ],
+      "hints": [
+        "I live on shelves in quiet halls, and you must whisper near me.",
+        "My leaves no longer grow on trees, though they came from one.",
+        "You read me, one page at a time."
+      ],
+      "traps": [
+        {
+          "answer": "Letter",
+          "aliases": [
+            "Envelope"
+          ],
+          "reason": "Too short. I am many pages, bound."
+        },
+        {
+          "answer": "Library",
+          "aliases": [
+            "Bookshelf"
+          ],
+          "reason": "That is where I live."
+        },
+        {
+          "answer": "Newspaper",
+          "aliases": [
+            "Magazine"
+          ],
+          "reason": "That lives for a day. I am bound to last."
+        }
+      ],
+      "page": {
+        "title": "Of the Bound Voices",
+        "text": "The codex, pages bound along one edge, replaced the scroll in the late Roman world, and Christians took to it early. A few books in old libraries are bound in human skin, a practice called anthropodermic bibliopegy. Harvard tested one of its volumes in 2014 and confirmed it, and removed the binding in 2024. The world's largest library, the Library of Congress, holds more than 170 million items on some 1,350 kilometres of shelves."
+      }
+    },
+    {
+      "id": "message-in-a-bottle",
+      "verse": [
+        "I am a letter with no address,",
+        "sealed in glass and given to the tide.",
+        "Years from now, on a beach you'll never see,",
+        "a stranger will break me open to read you."
+      ],
+      "answers": [
+        {
+          "answer": "Message in a bottle",
+          "aliases": [
+            "Message in bottle",
+            "Bottle message",
+            "Bottled message",
+            "Note in a bottle",
+            "Letter in a bottle",
+            "Bottle with a message",
+            "Message bottle"
+          ]
+        }
+      ],
+      "hints": [
+        "Castaways in stories throw me into the sea, hoping for rescue.",
+        "I travel by current, and I may wash up decades later.",
+        "Write a note, roll it up, push it into an empty bottle and cork it."
+      ],
+      "traps": [
+        {
+          "answer": "Bottle",
+          "aliases": [
+            "Glass bottle"
+          ],
+          "reason": "Only my case. What is inside?"
+        },
+        {
+          "answer": "Letter",
+          "aliases": [
+            "Note",
+            "Message"
+          ],
+          "reason": "Only half of me. Where have you put it?"
+        },
+        {
+          "answer": "Shipwreck",
+          "reason": "I may be sent from one, but I am much smaller."
+        }
+      ],
+      "page": {
+        "title": "Of the Letter Given to the Tide",
+        "text": "The oldest message in a bottle yet found was thrown into the sea in 1886 from a German ship, one of thousands released to trace the ocean currents. It washed up in Western Australia in 2018, after 132 years. Messages like it taught oceanographers how the currents move long before satellites could follow them. Queen Elizabeth I is said to have appointed an Uncorker of Ocean Bottles, and to have made it a crime for anyone else to open one."
+      }
+    },
+    {
+      "id": "whale",
+      "verse": [
+        "I am the largest beast that ever lived,",
+        "and I live on the smallest things in the sea.",
+        "My song can cross an ocean.",
+        "My fallen body feeds the deep for decades."
+      ],
+      "answers": [
+        {
+          "answer": "Whale",
+          "aliases": [
+            "Whales",
+            "Blue whale",
+            "Humpback whale",
+            "Humpback",
+            "Fin whale",
+            "Baleen whale"
+          ]
+        }
+      ],
+      "hints": [
+        "I breathe air, though I never leave the water.",
+        "I strain tiny krill through plates of baleen in my mouth.",
+        "Jonah, in the old story, spent three days in the belly of one of me."
+      ],
+      "traps": [
+        {
+          "answer": "Shark",
+          "aliases": [
+            "Whale shark"
+          ],
+          "reason": "A fish, and a fine one. I am a mammal and breathe air."
+        },
+        {
+          "answer": "Dolphin",
+          "reason": "A cousin of mine, but far too small."
+        },
+        {
+          "answer": "Krill",
+          "reason": "That is what I eat."
+        },
+        {
+          "answer": "Elephant",
+          "reason": "The largest on land. I am larger still."
+        }
+      ],
+      "page": {
+        "title": "Of the Great Beast's Fall",
+        "text": "The blue whale is the largest animal known to have lived, up to thirty metres long and heavier than any dinosaur yet found. It lives almost entirely on krill, shrimp-like creatures a few centimetres long, and can eat several tonnes of them a day. When a whale dies, its body sinks to the floor. This whale fall feeds a whole community, hagfish and sharks first, then worms and bacteria, for fifty years or more. Some of those worms live nowhere else."
+      }
+    },
+    {
+      "id": "lantern",
+      "verse": [
+        "I carry a small fire in a glass room,",
+        "and swing from the hand of whoever is lost.",
+        "On the old ships I hung in the dark between decks.",
+        "Light me, and the shadows step back."
+      ],
+      "answers": [
+        {
+          "answer": "Lantern",
+          "aliases": [
+            "Lanterns",
+            "Lamp",
+            "Oil lamp",
+            "Storm lantern",
+            "Hurricane lamp",
+            "Hurricane lantern",
+            "Paraffin lamp",
+            "Miner's lamp",
+            "Davy lamp"
+          ]
+        }
+      ],
+      "hints": [
+        "Miners and watchmen carried me before there were electric torches.",
+        "Paper ones of me float up into the sky at festivals.",
+        "I am a light in a case of glass and metal, with a handle to carry me."
+      ],
+      "traps": [
+        {
+          "answer": "Candle",
+          "reason": "Close. A candle may live inside me."
+        },
+        {
+          "answer": "Torch",
+          "aliases": [
+            "Flashlight"
+          ],
+          "reason": "Too modern. My light is a flame."
+        },
+        {
+          "answer": "Lighthouse",
+          "reason": "Far too large. I fit in one hand."
+        }
+      ],
+      "page": {
+        "title": "Of the Fire in a Glass Room",
+        "text": "A lantern guards its flame from wind and rain inside a case of glass, horn or pierced metal. Before glass was cheap, thin sheets of cow horn did the job, which is why the English once spelled it lanthorn. In coal mines an open flame could ignite gas, so in 1815 Humphry Davy designed a lamp whose flame burned behind fine wire gauze, which cooled the gas before it could catch. Miners watched its flame, too. If a pale blue cap grew above it, there was gas."
+      }
+    },
+    {
+      "id": "submarine",
+      "verse": [
+        "I am a ship that wants to sink,",
+        "an iron whale that holds its breath.",
+        "Sailors live inside me for months",
+        "and never see the sun."
+      ],
+      "answers": [
+        {
+          "answer": "Submarine",
+          "aliases": [
+            "Submarines",
+            "Sub",
+            "U-boat",
+            "Submersible",
+            "Bathyscaphe",
+            "Nuclear submarine"
+          ]
+        }
+      ],
+      "hints": [
+        "I steer by sound, because there is nothing to see where I go.",
+        "I look up at the world through a periscope.",
+        "I am a boat that travels underwater."
+      ],
+      "traps": [
+        {
+          "answer": "Whale",
+          "reason": "Close. But I am made of iron, not flesh."
+        },
+        {
+          "answer": "Diving bell",
+          "reason": "A cousin. But it hangs from a cable. I swim free."
+        },
+        {
+          "answer": "Ship",
+          "aliases": [
+            "Boat"
+          ],
+          "reason": "Too broad. Name the one that goes under."
+        }
+      ],
+      "page": {
+        "title": "Of the Iron Whale",
+        "text": "Around 1620 the Dutch inventor Cornelis Drebbel rowed a covered wooden boat beneath the Thames, its crew breathing through tubes or, some accounts say, air he freshened by chemistry. The first submarine to sink a warship was the Confederate H. L. Hunley, in 1864. It sank too, and was not found until 1995. Modern nuclear submarines can stay submerged for months, limited mainly by the food they carry. Their crews keep time by the clock alone. Day and night mean nothing down there."
+      }
+    },
+    {
+      "id": "starfish",
+      "verse": [
+        "Cut off my arm and I will grow another.",
+        "I have no brain, yet I find my way,",
+        "with an eye at the end of every arm,",
+        "and my stomach leaves my mouth to eat."
+      ],
+      "answers": [
+        {
+          "answer": "Starfish",
+          "aliases": [
+            "Star fish",
+            "Starfishes",
+            "Sea star",
+            "Sea stars",
+            "Seastar"
+          ]
+        }
+      ],
+      "hints": [
+        "I am named for something in the sky, and I am not a fish at all.",
+        "I can open a mussel a crack and slide my stomach inside to eat it.",
+        "I lie on the rocks in the shape of a five-pointed star."
+      ],
+      "traps": [
+        {
+          "answer": "Jellyfish",
+          "reason": "Another fish that is not a fish. But I crawl, and I have arms."
+        },
+        {
+          "answer": "Sea urchin",
+          "aliases": [
+            "Urchin",
+            "Sand dollar"
+          ],
+          "reason": "A cousin of mine, but round, with no arms to speak of."
+        },
+        {
+          "answer": "Octopus",
+          "reason": "That one has a brain. I have none."
+        }
+      ],
+      "page": {
+        "title": "Of the Star That Crawls",
+        "text": "A starfish, or sea star, has no brain and no blood. It pumps seawater through its body instead, and moves on hundreds of tiny tube feet. Most species have five arms, but the sunflower sea star can have more than twenty. Many can regrow a lost arm, and a few can grow a whole new body from a single severed arm. To eat a mussel, a starfish pries the shell open a fraction and slides its own stomach inside, digesting its meal where it lies."
+      }
+    },
+    {
+      "id": "seahorse",
+      "verse": [
+        "I am a horse that never ran,",
+        "with a tail like a monkey's, curled round the weed.",
+        "My mate gives me her eggs,",
+        "and it is I who give birth."
+      ],
+      "answers": [
+        {
+          "answer": "Seahorse",
+          "aliases": [
+            "Sea horse",
+            "Seahorses",
+            "Sea horses",
+            "Hippocampus"
+          ]
+        }
+      ],
+      "hints": [
+        "I swim upright, slowly, by fluttering a fin on my back.",
+        "I am a fish, though I wear bony armour instead of scales.",
+        "My head looks like a tiny horse's, and the father carries the young."
+      ],
+      "traps": [
+        {
+          "answer": "Pipefish",
+          "aliases": [
+            "Sea dragon",
+            "Leafy sea dragon"
+          ],
+          "reason": "A close cousin, but straighter."
+        },
+        {
+          "answer": "Kelpie",
+          "reason": "A water horse of legend. I am real."
+        },
+        {
+          "answer": "Shrimp",
+          "reason": "Too small, and far too many legs."
+        }
+      ],
+      "page": {
+        "title": "Of the Father Who Gives Birth",
+        "text": "Seahorses are fish, and among the only animals in which the male becomes pregnant. The female places her eggs in a pouch on his belly, where he fertilises them and carries them for two to four weeks. Then he gives birth, sometimes to more than a thousand young at once. Seahorses are poor swimmers, steering with tiny fins, and they anchor themselves to seagrass with their curling tails. The part of the brain that stores memories is called the hippocampus, after its shape."
+      }
+    },
+    {
+      "id": "sand",
+      "verse": [
+        "I was a mountain once, and then a stone,",
+        "and then the sea chewed me small.",
+        "I keep the time in a glass,",
+        "and slip through every hand that holds me."
+      ],
+      "answers": [
+        {
+          "answer": "Sand",
+          "aliases": [
+            "Sands",
+            "Grains of sand",
+            "Grain of sand",
+            "Beach sand"
+          ]
+        }
+      ],
+      "hints": [
+        "Castles are built of me, and the tide knocks them down.",
+        "Melt me hot enough and I become glass.",
+        "Beaches and deserts are made of me."
+      ],
+      "traps": [
+        {
+          "answer": "Salt",
+          "reason": "Salt dissolves in water. I do not."
+        },
+        {
+          "answer": "Dust",
+          "reason": "Too fine. I am made of grains you can see."
+        },
+        {
+          "answer": "Stone",
+          "aliases": [
+            "Rock",
+            "Pebble",
+            "Pebbles"
+          ],
+          "reason": "That is what I was, before the sea wore me down."
+        },
+        {
+          "answer": "Time",
+          "reason": "I measure that, in a glass. Name me."
+        }
+      ],
+      "page": {
+        "title": "Of the Mountain Worn Small",
+        "text": "Most sand is quartz, the hardest common mineral left once rocks have weathered away, worn smooth over thousands of years by rivers and waves. Black sand beaches come from volcanic rock. The white beaches of the Maldives are mostly broken coral, and much of it has passed through the guts of parrotfish, which grind the coral as they feed. There may be more stars in the universe than grains of sand on all the Earth's beaches. Nobody has counted either."
+      }
+    },
+    {
+      "id": "eclipse",
+      "verse": [
+        "At noon the birds go home to roost,",
+        "the air turns cold, the stars come out,",
+        "and a black coin covers the sun",
+        "until its pale crown burns around it."
+      ],
+      "answers": [
+        {
+          "answer": "Eclipse",
+          "aliases": [
+            "Eclipses",
+            "Solar eclipse",
+            "Total eclipse",
+            "Total solar eclipse",
+            "Eclipse of the sun"
+          ]
+        }
+      ],
+      "hints": [
+        "I can be foretold to the second, centuries in advance.",
+        "In an old Chinese tale, two astronomers lost their heads for failing to warn of me.",
+        "The Moon passes in front of the Sun, and day turns briefly to night."
+      ],
+      "traps": [
+        {
+          "answer": "Night",
+          "aliases": [
+            "Nightfall",
+            "Midnight"
+          ],
+          "reason": "Too slow, and too long. I come at noon and leave in minutes."
+        },
+        {
+          "answer": "Moon",
+          "reason": "The Moon makes me. Name what it makes."
+        },
+        {
+          "answer": "Sunset",
+          "aliases": [
+            "Dusk"
+          ],
+          "reason": "Close. But I come in the middle of the day."
+        }
+      ],
+      "page": {
+        "title": "Of the Black Coin at Noon",
+        "text": "A total eclipse of the Sun happens because of a coincidence: the Sun is about 400 times wider than the Moon and about 400 times farther away, so the two look almost exactly the same size in our sky. When they line up, the Moon covers the Sun's bright face, and its faint outer atmosphere, the corona, appears as a pale crown. Totality never lasts more than about seven and a half minutes. The Moon is slowly drifting away. One day it will be too small to cover the Sun at all."
+      }
+    },
+    {
+      "id": "rainbow",
+      "verse": [
+        "I am a bridge that no one crosses.",
+        "I come when the sun and the rain both stay,",
+        "and wherever you walk, I walk away.",
+        "There is gold at my foot, they say. There never is."
+      ],
+      "answers": [
+        {
+          "answer": "Rainbow",
+          "aliases": [
+            "Rainbows",
+            "Double rainbow",
+            "Moonbow"
+          ]
+        }
+      ],
+      "hints": [
+        "No two people ever see quite the same one of me.",
+        "Newton counted seven colours in me, partly to match the seven notes of a scale.",
+        "Red, orange, yellow, green, blue, indigo, violet."
+      ],
+      "traps": [
+        {
+          "answer": "Bridge",
+          "reason": "I look like one, but no foot can cross me."
+        },
+        {
+          "answer": "Aurora",
+          "aliases": [
+            "Northern lights",
+            "Aurora borealis"
+          ],
+          "reason": "Another light in the sky, but I need rain and sun."
+        },
+        {
+          "answer": "Prism",
+          "reason": "That makes my colours indoors. Name me outside."
+        }
+      ],
+      "page": {
+        "title": "Of the Bridge No One Crosses",
+        "text": "A rainbow is sunlight bent and reflected inside countless raindrops, each colour leaving at a slightly different angle. It always appears opposite the Sun, centred on the shadow of your own head, which is why you can never reach its end and why no two people see quite the same one. In a double rainbow the second bow's colours are reversed. Newton named seven colours, perhaps so that they matched the seven notes of the musical scale. From an aeroplane a rainbow can be a full circle."
+      }
+    },
+    {
+      "id": "lightning",
+      "verse": [
+        "I am a crack in the sky, a white root",
+        "that grows downward in a single breath.",
+        "My voice comes after me, late and angry.",
+        "I never strike the same place twice, they lie."
+      ],
+      "answers": [
+        {
+          "answer": "Lightning",
+          "aliases": [
+            "Lightning bolt",
+            "Lightning strike",
+            "Thunderbolt",
+            "Bolt of lightning",
+            "Fork lightning",
+            "Forked lightning",
+            "Sheet lightning",
+            "Lightening"
+          ]
+        }
+      ],
+      "hints": [
+        "Count the seconds after you see me, and you will know how far away I am.",
+        "I am five times hotter than the surface of the Sun.",
+        "I flash in a thunderstorm, and thunder follows me."
+      ],
+      "traps": [
+        {
+          "answer": "Thunder",
+          "reason": "That is my voice. It always arrives late."
+        },
+        {
+          "answer": "Storm",
+          "aliases": [
+            "Thunderstorm"
+          ],
+          "reason": "I am born in one, but I am not the whole of it."
+        },
+        {
+          "answer": "Electricity",
+          "reason": "That is what I am made of. Name me as I appear in the sky."
+        }
+      ],
+      "page": {
+        "title": "Of the White Root in the Sky",
+        "text": "A bolt of lightning heats the air around it to about 30,000 degrees Celsius, five times hotter than the surface of the Sun. The air expands so fast that it bangs, and the bang is thunder. Light arrives at once and sound at about a kilometre every three seconds, so counting the gap tells you how far away the strike was. Lightning does strike the same place twice. The Empire State Building is struck around twenty times a year."
+      }
+    },
+    {
+      "id": "volcano",
+      "verse": [
+        "I am a mountain with a fire in my throat.",
+        "I sleep for centuries, and towns grow on my knees.",
+        "When I wake, I bury them in grey snow",
+        "and make new land out of the sea."
+      ],
+      "answers": [
+        {
+          "answer": "Volcano",
+          "aliases": [
+            "Volcanoes",
+            "Volcanos",
+            "Vesuvius",
+            "Mount Vesuvius",
+            "Etna",
+            "Mount Etna",
+            "Krakatoa",
+            "Stromboli",
+            "Mount St Helens",
+            "Mount Fuji",
+            "Fuji",
+            "Kilauea",
+            "Eruption"
+          ]
+        }
+      ],
+      "hints": [
+        "My blood is molten rock, and it glows as it runs down my sides.",
+        "Pompeii lay asleep at my feet in the year 79.",
+        "I am a mountain that erupts with lava and ash."
+      ],
+      "traps": [
+        {
+          "answer": "Mountain",
+          "aliases": [
+            "Hill"
+          ],
+          "reason": "Close. But mine has fire inside."
+        },
+        {
+          "answer": "Lava",
+          "aliases": [
+            "Magma"
+          ],
+          "reason": "That is my blood. Name me."
+        },
+        {
+          "answer": "Earthquake",
+          "reason": "My restless cousin. I am the one that burns."
+        },
+        {
+          "answer": "Geyser",
+          "reason": "That spits water. I spit fire."
+        }
+      ],
+      "page": {
+        "title": "Of the Mountain With Fire in Its Throat",
+        "text": "In the year 79, Vesuvius buried Pompeii and Herculaneum under ash and scalding gas, preserving the towns, and the shapes of their people, for seventeen centuries. Most of the Earth's volcanoes are hidden under the sea, along the ridges where the ocean floor is pulled apart. Iceland sits on one of those ridges where it rises above the water. In 1963 an eruption off its south coast built a new island, Surtsey, out of the sea. Scientists have watched life arrive on it ever since."
+      }
+    },
+    {
+      "id": "glacier",
+      "verse": [
+        "I am a river that forgot to run.",
+        "I crawl a little every day",
+        "and carve whole valleys as I go.",
+        "When I reach the sea, I break, and my children float away."
+      ],
+      "answers": [
+        {
+          "answer": "Glacier",
+          "aliases": [
+            "Glaciers",
+            "Ice sheet",
+            "Icefield",
+            "Ice field",
+            "Ice cap",
+            "Icecap",
+            "Ice river",
+            "River of ice",
+            "Ice shelf"
+          ]
+        }
+      ],
+      "hints": [
+        "Snow that falls on me does not melt. It turns to ice under its own weight.",
+        "Icebergs are my children.",
+        "I am a vast, slow mass of ice that creeps downhill."
+      ],
+      "traps": [
+        {
+          "answer": "Iceberg",
+          "aliases": [
+            "Icebergs"
+          ],
+          "reason": "That is my child. Name the parent."
+        },
+        {
+          "answer": "Avalanche",
+          "reason": "Too fast. I take centuries."
+        },
+        {
+          "answer": "River",
+          "aliases": [
+            "Frozen river"
+          ],
+          "reason": "Close. But I am frozen."
+        },
+        {
+          "answer": "Snow",
+          "reason": "That is what I am made from."
+        }
+      ],
+      "page": {
+        "title": "Of the River That Forgot to Run",
+        "text": "A glacier forms where more snow falls each winter than melts each summer, until the weight of the years presses the snow into ice. Then the ice begins to flow, usually a few centimetres to a metre a day, though some surge far faster. Glaciers carved the fjords of Norway and the valleys of the Lake District. Their ice can be so dense that it looks blue, because it absorbs red light. Some hold bubbles of air trapped since before the first cities were built."
+      }
+    },
+    {
+      "id": "island",
+      "verse": [
+        "I am a hill the sea forgot to drown,",
+        "a stone in the water where castaways wait.",
+        "Some of me are born of fire,",
+        "and some, in sailors' tales, were sleeping whales."
+      ],
+      "answers": [
+        {
+          "answer": "Island",
+          "aliases": [
+            "Islands",
+            "Isle",
+            "Islet",
+            "Atoll",
+            "Desert island",
+            "Isles"
+          ]
+        }
+      ],
+      "hints": [
+        "Robinson Crusoe spent twenty-eight years on one of me.",
+        "Greenland is the largest of me, unless you count Australia.",
+        "I am land with water all around me."
+      ],
+      "traps": [
+        {
+          "answer": "Peninsula",
+          "reason": "Almost. But one side of it still holds the mainland's hand."
+        },
+        {
+          "answer": "Continent",
+          "reason": "Too large. Well, usually."
+        },
+        {
+          "answer": "Boat",
+          "aliases": [
+            "Ship",
+            "Raft"
+          ],
+          "reason": "That floats. I am rooted to the seabed."
+        },
+        {
+          "answer": "Whale",
+          "reason": "In the old tale, sailors mistook one for me."
+        }
+      ],
+      "page": {
+        "title": "Of the Hill the Sea Forgot",
+        "text": "Greenland is the largest island on Earth; Australia, which is larger, counts as a continent. In the old voyage of Saint Brendan, monks landed on an island, lit a fire to cook their supper, and felt it move beneath them. It was a whale. Sailors told the same story for a thousand years. Some islands are new, raised by volcanoes in living memory. Others are going: rising seas are swallowing low islands in the Pacific, a little more each year."
+      }
+    },
+    {
+      "id": "spider-web",
+      "verse": [
+        "I am a net that no fish fear.",
+        "I hang between the branches, wet with dawn,",
+        "stronger, thread for thread, than steel.",
+        "My weaver waits at my heart for every tremor."
+      ],
+      "answers": [
+        {
+          "answer": "Spider web",
+          "aliases": [
+            "Spiderweb",
+            "Spider's web",
+            "Spider webs",
+            "Web",
+            "Cobweb",
+            "Cobwebs",
+            "Spider silk",
+            "Silk",
+            "Orb web"
+          ]
+        }
+      ],
+      "hints": [
+        "Dew makes me shine like a necklace in the morning.",
+        "Flies that blunder into me never leave.",
+        "A spider spins me to catch its dinner."
+      ],
+      "traps": [
+        {
+          "answer": "Net",
+          "aliases": [
+            "Fishing net"
+          ],
+          "reason": "Close. But no fisherman made me."
+        },
+        {
+          "answer": "Spider",
+          "reason": "That is my weaver. Name what it weaves."
+        },
+        {
+          "answer": "Lace",
+          "reason": "Lovely, but made by hands, not by eight legs."
+        }
+      ],
+      "page": {
+        "title": "Of the Net No Fish Fear",
+        "text": "Spider silk is, weight for weight, stronger than steel and tougher than Kevlar, and some silks can stretch to several times their length before breaking. A spider can make several kinds, each from its own gland: sticky threads for catching, dry ones for the spokes, and soft silk to wrap its eggs. Many orb weavers eat their web each night and spin a new one before dawn. The longest known threads, spun by Darwin's bark spider in Madagascar, can bridge rivers twenty-five metres wide."
+      }
+    },
+    {
+      "id": "bubble",
+      "verse": [
+        "I am a room of air in a house of water.",
+        "I rise from the drowned like a last word,",
+        "and I am gone the moment I arrive.",
+        "Children chase me with a ring and soap."
+      ],
+      "answers": [
+        {
+          "answer": "Bubble",
+          "aliases": [
+            "Bubbles",
+            "Air bubble",
+            "Soap bubble",
+            "Air bubbles",
+            "Soap bubbles"
+          ]
+        }
+      ],
+      "hints": [
+        "Divers leave a silver trail of me rising to the surface.",
+        "I am round because that is the smallest skin that can hold the air inside me.",
+        "You blow me from a wand dipped in soapy water."
+      ],
+      "traps": [
+        {
+          "answer": "Balloon",
+          "reason": "Close. But I need no rubber, and I never last."
+        },
+        {
+          "answer": "Foam",
+          "aliases": [
+            "Froth",
+            "Lather",
+            "Suds"
+          ],
+          "reason": "That is a crowd of me. Name just one."
+        },
+        {
+          "answer": "Breath",
+          "aliases": [
+            "Air"
+          ],
+          "reason": "I may carry one up, but name what rises."
+        }
+      ],
+      "page": {
+        "title": "Of the Room of Air",
+        "text": "A soap bubble's wall is a film of water held between two layers of soap, in places thinner than the wavelength of light, which is why it shimmers with colours. A bubble is round because a sphere holds the most air inside the least skin. Humpback whales hunt by blowing rings of bubbles around shoals of fish, which will not cross the curtain, and then rise through the middle with their mouths open. The bubbles in a glass of champagne rise in chains, born on specks of fibre clinging to the glass."
+      }
+    },
+    {
+      "id": "sponge",
+      "verse": [
+        "I am an animal with no heart, no head, no mouth.",
+        "The sea runs through me, and I keep what I need.",
+        "Divers once tore me from the rocks of Greece",
+        "to wash the backs of the rich."
+      ],
+      "answers": [
+        {
+          "answer": "Sponge",
+          "aliases": [
+            "Sponges",
+            "Sea sponge",
+            "Natural sponge",
+            "Bath sponge"
+          ]
+        }
+      ],
+      "hints": [
+        "I am full of holes, and proud of it.",
+        "Push me through a sieve and my cells can find each other and rebuild me.",
+        "You can soak up the bathwater with me."
+      ],
+      "traps": [
+        {
+          "answer": "Coral",
+          "reason": "A neighbour of mine on the reef, and a builder. I am a drinker."
+        },
+        {
+          "answer": "Seaweed",
+          "aliases": [
+            "Kelp"
+          ],
+          "reason": "That lives on light. I am an animal."
+        },
+        {
+          "answer": "Towel",
+          "aliases": [
+            "Flannel",
+            "Cloth"
+          ],
+          "reason": "It soaks things up too, but it never lived."
+        },
+        {
+          "answer": "Jellyfish",
+          "reason": "Another simple creature, but it drifts. I hold on."
+        }
+      ],
+      "page": {
+        "title": "Of the Animal That Drinks the Sea",
+        "text": "Sponges are animals, among the simplest and oldest there are. They have no nerves, no muscles and no organs. They live by pumping seawater through the tiny pores in their bodies and filtering out food, and a sponge the size of a fist can filter many litres an hour. Pass a living sponge through a fine sieve and its separated cells can crawl back together into a new sponge. Sponge divers of the Greek islands once went down holding their breath and a heavy flat stone."
+      }
+    },
+    {
+      "id": "coral",
+      "verse": [
+        "I build cities that astronauts can see,",
+        "though each of my builders is smaller than a pea.",
+        "I am stone, and garden, and animal at once.",
+        "When the sea grows too warm, I turn white and starve."
+      ],
+      "answers": [
+        {
+          "answer": "Coral",
+          "aliases": [
+            "Corals",
+            "Coral reef",
+            "Coral reefs",
+            "Reef",
+            "Great Barrier Reef",
+            "Polyp",
+            "Coral polyp"
+          ]
+        }
+      ],
+      "hints": [
+        "Bright fish hide among my branches.",
+        "Tiny animals make me, and share their bodies with the algae that feed them.",
+        "Australia's Great Barrier is the largest thing I have built."
+      ],
+      "traps": [
+        {
+          "answer": "Sponge",
+          "reason": "A neighbour of mine, but it builds no cities."
+        },
+        {
+          "answer": "Seaweed",
+          "aliases": [
+            "Kelp",
+            "Algae"
+          ],
+          "reason": "I may look like a plant, but I am an animal."
+        },
+        {
+          "answer": "Rock",
+          "aliases": [
+            "Stone",
+            "Limestone"
+          ],
+          "reason": "Close. I make it, but I am alive."
+        }
+      ],
+      "page": {
+        "title": "Of the Cities of Stone",
+        "text": "A coral reef is built by colonies of tiny animals called polyps, which lay down skeletons of limestone and live in partnership with algae inside their bodies. The algae feed the coral and give it its colour. When the water gets too hot, the corals expel the algae and turn white. This is bleaching, and if the heat lasts, they starve. The Great Barrier Reef, the largest structure ever built by living things, stretches for more than 2,300 kilometres off Australia."
+      }
+    },
+    {
+      "id": "giant-squid",
+      "verse": [
+        "Sailors swore I dragged down ships,",
+        "and gave me a monster's name.",
+        "My eyes are as wide as dinner plates,",
+        "and no camera caught me alive until 2004."
+      ],
+      "answers": [
+        {
+          "answer": "Giant squid",
+          "aliases": [
+            "Giant squids",
+            "Architeuthis",
+            "Kraken",
+            "Colossal squid",
+            "Squid"
+          ]
+        }
+      ],
+      "hints": [
+        "Sperm whales hunt me in the deep, and carry the scars of my suckers on their skin.",
+        "I am longer than a bus, if you count my two long feeding tentacles.",
+        "I am the real animal behind the old legend of Norway's great sea beast."
+      ],
+      "traps": [
+        {
+          "answer": "Octopus",
+          "aliases": [
+            "Giant octopus",
+            "Giant Pacific octopus"
+          ],
+          "reason": "Close. But I have ten limbs, not eight."
+        },
+        {
+          "answer": "Sperm whale",
+          "aliases": [
+            "Whale"
+          ],
+          "reason": "That is the one that hunts me."
+        },
+        {
+          "answer": "Sea serpent",
+          "aliases": [
+            "Sea monster"
+          ],
+          "reason": "Another sailor's tale, but I have tentacles."
+        }
+      ],
+      "page": {
+        "title": "Of the Beast With Plates for Eyes",
+        "text": "The giant squid can grow to around twelve metres, much of it two long feeding tentacles, and its eyes, as wide as dinner plates, are among the largest of any animal. Its only known predator is the sperm whale, and whales are often scarred by the toothed suckers of squid that fought back. For centuries it was known only from carcasses washed ashore and sailors' tales of the kraken. Japanese scientists took the first photographs of a living one, at 900 metres, in 2004."
+      }
+    },
+    {
+      "id": "barnacle",
+      "verse": [
+        "I stand on my head my whole life long,",
+        "glued to a ship, a rock or a whale,",
+        "and kick my supper into my mouth with my feet."
+      ],
+      "answers": [
+        {
+          "answer": "Barnacle",
+          "aliases": [
+            "Barnacles",
+            "Acorn barnacle",
+            "Goose barnacle",
+            "Gooseneck barnacle"
+          ]
+        }
+      ],
+      "hints": [
+        "Ships scrape me off their hulls, because I slow them down.",
+        "Medieval scholars believed a kind of goose hatched from my kind.",
+        "I am a small shelled creature, stuck fast to rocks and boats."
+      ],
+      "traps": [
+        {
+          "answer": "Limpet",
+          "reason": "Another clinger to rocks, but a snail. I am a crustacean."
+        },
+        {
+          "answer": "Mussel",
+          "aliases": [
+            "Clam",
+            "Oyster"
+          ],
+          "reason": "A shellfish with two shells. I live in a little house of plates."
+        },
+        {
+          "answer": "Crab",
+          "reason": "A cousin, oddly. But I gave up walking."
+        }
+      ],
+      "page": {
+        "title": "Of the One Who Stands on Its Head",
+        "text": "A barnacle is a crustacean, a cousin of crabs and lobsters, that spends its adult life glued head-down to a rock, a hull or a whale, and kicks food into its mouth with its feathery legs. Its glue sets underwater and is among the strongest natural adhesives known. In the Middle Ages the barnacle goose, which nested out of sight in the Arctic, was thought to hatch from goose barnacles, so some held that it could be eaten on fast days, as fish."
+      }
+    },
+    {
+      "id": "pufferfish",
+      "verse": [
+        "Threaten me and I become a ball of thorns.",
+        "My flesh holds a poison with no cure,",
+        "and yet chefs train for years to serve me,",
+        "and the brave pay well to dine on me."
+      ],
+      "answers": [
+        {
+          "answer": "Pufferfish",
+          "aliases": [
+            "Puffer fish",
+            "Puffer",
+            "Blowfish",
+            "Fugu",
+            "Globefish",
+            "Porcupinefish",
+            "Porcupine fish",
+            "Balloonfish"
+          ]
+        }
+      ],
+      "hints": [
+        "I swallow water until I am several times my usual size.",
+        "In Japan only licensed chefs may prepare me for the table.",
+        "I am a fish that blows itself up like a spiky balloon."
+      ],
+      "traps": [
+        {
+          "answer": "Sea urchin",
+          "aliases": [
+            "Urchin"
+          ],
+          "reason": "Spiny too, but no fish."
+        },
+        {
+          "answer": "Hedgehog",
+          "aliases": [
+            "Porcupine"
+          ],
+          "reason": "Wrong element. I live in the sea."
+        },
+        {
+          "answer": "Jellyfish",
+          "reason": "Poisonous, but no fish."
+        }
+      ],
+      "page": {
+        "title": "Of the Fish That Becomes a Thorn",
+        "text": "When threatened, a pufferfish gulps water until it swells into a ball several times its normal size, and many species are covered in spines that stand on end. Many also carry tetrodotoxin, a poison more than a thousand times deadlier than cyanide, for which there is no antidote. In Japan the fish is eaten as fugu, and chefs must train for years and pass a strict exam before they may prepare it. The emperor, by tradition, is forbidden to eat it."
+      }
+    },
+    {
+      "id": "kelp",
+      "verse": [
+        "I am a forest that has never seen a bird.",
+        "I grow half a metre in a day",
+        "and sway in the cold green dark,",
+        "while otters wrap themselves in me to sleep."
+      ],
+      "answers": [
+        {
+          "answer": "Kelp",
+          "aliases": [
+            "Kelps",
+            "Kelp forest",
+            "Giant kelp",
+            "Seaweed",
+            "Seaweeds",
+            "Sea weed",
+            "Wrack",
+            "Bladderwrack",
+            "Algae",
+            "Brown algae"
+          ]
+        }
+      ],
+      "hints": [
+        "Sea otters wrap themselves in me so they don't drift away as they sleep.",
+        "I am not a true plant, though I make my food from sunlight.",
+        "I am a giant brown alga that grows in underwater forests."
+      ],
+      "traps": [
+        {
+          "answer": "Seagrass",
+          "aliases": [
+            "Sea grass"
+          ],
+          "reason": "That is a true flowering plant. I am an alga."
+        },
+        {
+          "answer": "Coral",
+          "reason": "That is an animal. I live on light."
+        },
+        {
+          "answer": "Forest",
+          "aliases": [
+            "Tree",
+            "Trees"
+          ],
+          "reason": "Close. But name the thing my forest is made of."
+        }
+      ],
+      "page": {
+        "title": "Of the Forest Without Birds",
+        "text": "Giant kelp can grow more than half a metre in a single day, and rise from the seabed to the surface thirty metres above, held up by gas-filled floats. It is not a true plant but a brown alga, with no roots, only a holdfast that grips the rock. Kelp forests shelter fish, seals and sea otters, which wrap themselves in the fronds so that they do not drift away while they sleep. Where otters are hunted out, sea urchins multiply and eat the forests down."
+      }
+    },
+    {
+      "id": "telescope",
+      "verse": [
+        "I am a long eye that pulls far things near.",
+        "Galileo turned me on the night",
+        "and found four moons he was not meant to see.",
+        "Sailors folded me shut and kept me in their coats."
+      ],
+      "answers": [
+        {
+          "answer": "Telescope",
+          "aliases": [
+            "Telescopes",
+            "Spyglass",
+            "Spy glass",
+            "Refractor",
+            "Reflector",
+            "Refracting telescope",
+            "Reflecting telescope"
+          ]
+        }
+      ],
+      "hints": [
+        "Pirates in stories peer through me to spot a sail on the horizon.",
+        "My lenses or mirrors gather light, so that faint stars grow bright.",
+        "Astronomers use me to look at the stars."
+      ],
+      "traps": [
+        {
+          "answer": "Binoculars",
+          "aliases": [
+            "Field glasses"
+          ],
+          "reason": "Close. But I have only one eye."
+        },
+        {
+          "answer": "Microscope",
+          "reason": "That makes small things big. I make far things near."
+        },
+        {
+          "answer": "Periscope",
+          "reason": "That looks up from under the sea. I look out across it."
+        }
+      ],
+      "page": {
+        "title": "Of the Long Eye",
+        "text": "In 1608 a Dutch spectacle maker, Hans Lipperhey, asked for a patent on a tube that made distant things look near. Within two years Galileo had built his own and turned it on the night sky. He saw mountains on the Moon and four moons circling Jupiter, proof that not everything turned around the Earth. Today the largest telescopes gather light with mirrors many metres wide, and one, the James Webb, hangs in space a million and a half kilometres away, looking back in time."
+      }
+    },
+    {
+      "id": "sextant",
+      "verse": [
+        "I measure the angle between a star and the sea.",
+        "With me, a clock and a book of tables,",
+        "a lost ship can find itself",
+        "on a page of ocean with no roads."
+      ],
+      "answers": [
+        {
+          "answer": "Sextant",
+          "aliases": [
+            "Sextants"
+          ]
+        },
+        {
+          "answer": "Octant",
+          "aliases": [
+            "Octants"
+          ]
+        },
+        {
+          "answer": "Quadrant",
+          "aliases": [
+            "Quadrants"
+          ]
+        }
+      ],
+      "hints": [
+        "Navigators held me up at noon to bring the Sun down to the horizon.",
+        "I am named for the sixth part of a circle, the shape of my frame.",
+        "I am a brass navigating instrument with a small telescope, two mirrors and a curved scale."
+      ],
+      "traps": [
+        {
+          "answer": "Compass",
+          "reason": "That gives you direction. I give you your place."
+        },
+        {
+          "answer": "Astrolabe",
+          "reason": "An older cousin. I use mirrors."
+        },
+        {
+          "answer": "Telescope",
+          "aliases": [
+            "Spyglass"
+          ],
+          "reason": "I carry a small one, but I am more."
+        }
+      ],
+      "page": {
+        "title": "Of the Brass That Finds the Lost",
+        "text": "A sextant measures the angle between a star, the Sun or the Moon and the horizon. With that angle, an accurate clock and a book of tables, a navigator can work out the ship's position in the middle of an empty ocean. Its frame is a sixth of a circle, but thanks to its mirrors it can measure angles of up to about 120 degrees. Navies still teach it, because a sextant needs no satellite, no power and no signal. It cannot be jammed."
+      }
+    },
+    {
+      "id": "chain",
+      "verse": [
+        "I am many rings holding hands,",
+        "and none of us can let go.",
+        "I hold the anchor, the prisoner, the ghost.",
+        "My strength is only that of my weakest."
+      ],
+      "answers": [
+        {
+          "answer": "Chain",
+          "aliases": [
+            "Chains",
+            "Anchor chain",
+            "Iron chain",
+            "Chain cable"
+          ]
+        }
+      ],
+      "hints": [
+        "Marley's ghost dragged a long one of me, forged in life.",
+        "Bicycles and anchors both depend on me.",
+        "I am a row of metal links joined together."
+      ],
+      "traps": [
+        {
+          "answer": "Link",
+          "aliases": [
+            "Links"
+          ],
+          "reason": "Only one of us. Name the whole."
+        },
+        {
+          "answer": "Rope",
+          "reason": "Close. But I am iron, not fibre."
+        },
+        {
+          "answer": "Necklace",
+          "reason": "A pretty cousin. Name the plain iron one."
+        }
+      ],
+      "page": {
+        "title": "Of the Rings That Hold Hands",
+        "text": "The anchor chain of a great ship can weigh more than a hundred tonnes, each link as heavy as a person. Sailors measure it in shackles, lengths of about twenty-seven metres joined by a removable link. In the early nineteenth century navies began to replace hemp anchor cables with iron chain, which did not rot. In Dickens's A Christmas Carol, the ghost of Jacob Marley drags a chain of cash boxes, keys and padlocks. I wear the chain I forged in life, he says."
+      }
+    },
+    {
+      "id": "rope",
+      "verse": [
+        "I am a thousand threads that agreed to be one.",
+        "I tie ships to the land and climbers to their lives,",
+        "and on a ship, once I am working,",
+        "no sailor calls me by my name."
+      ],
+      "answers": [
+        {
+          "answer": "Rope",
+          "aliases": [
+            "Ropes",
+            "Cord",
+            "Cable",
+            "Hawser"
+          ]
+        },
+        {
+          "answer": "Line",
+          "aliases": [
+            "Lines",
+            "Mooring line"
+          ]
+        }
+      ],
+      "hints": [
+        "Sailors coil me neatly on deck, and give me other names once I am at work.",
+        "I am made by twisting fibres together, then twisting the twists.",
+        "You climb me in the gym, or pull on me in a tug of war."
+      ],
+      "traps": [
+        {
+          "answer": "String",
+          "aliases": [
+            "Twine",
+            "Thread"
+          ],
+          "reason": "Too thin. I can hold a ship."
+        },
+        {
+          "answer": "Chain",
+          "reason": "That is iron. I am twisted fibre."
+        },
+        {
+          "answer": "Knot",
+          "reason": "That is what you tie in me."
+        },
+        {
+          "answer": "Noose",
+          "reason": "Only one grim use of me."
+        }
+      ],
+      "page": {
+        "title": "Of the Threads That Agreed",
+        "text": "Rope is made by twisting fibres into yarns, the yarns into strands and the strands into rope, each twist in the opposite direction, so that the whole holds itself together. The Royal Navy's ropery at Chatham is more than a third of a kilometre long, so that a single rope a thousand feet long could be laid in one piece. On a ship there are said to be very few ropes. Once a rope has a job, it is a line, a sheet or a halyard."
+      }
+    },
+    {
+      "id": "skeleton",
+      "verse": [
+        "I hold you up from the inside,",
+        "and when you are gone I stay a while,",
+        "grinning, in the quiet dark.",
+        "There are two hundred and six of me in you."
+      ],
+      "answers": [
+        {
+          "answer": "Skeleton",
+          "aliases": [
+            "Skeletons",
+            "Skeletal system"
+          ]
+        },
+        {
+          "answer": "Bone",
+          "aliases": [
+            "Bones"
+          ]
+        }
+      ],
+      "hints": [
+        "Doctors can read your age, and sometimes your past, from me.",
+        "Your thigh holds the longest of me, and your ear the smallest.",
+        "Pirates fly a flag with a skull and two crossed ones of me."
+      ],
+      "traps": [
+        {
+          "answer": "Skull",
+          "aliases": [
+            "Skulls"
+          ],
+          "reason": "Only the crown of me."
+        },
+        {
+          "answer": "Ghost",
+          "aliases": [
+            "Spirit"
+          ],
+          "reason": "That one has no body at all."
+        },
+        {
+          "answer": "Teeth",
+          "aliases": [
+            "Tooth"
+          ],
+          "reason": "Close kin. But they are not counted among the 206."
+        }
+      ],
+      "page": {
+        "title": "Of the Frame That Stays",
+        "text": "An adult human skeleton has 206 bones, but a newborn baby has nearly three hundred; many fuse as the body grows. Bone is alive, and remakes itself constantly, so that over about ten years most of your skeleton is replaced. The smallest bone, the stirrup in the middle ear, is about the size of a grain of rice. Bones can outlast everything else of us by thousands of years. From them, scientists can tell a person's age, height, diet and sometimes the work they did."
+      }
+    },
+    {
+      "id": "ghost",
+      "verse": [
+        "I walk the corridors I once owned.",
+        "You feel me as a cold breath on the stair,",
+        "a door that opens on its own.",
+        "I am only a story, and still you lock the door."
+      ],
+      "answers": [
+        {
+          "answer": "Ghost",
+          "aliases": [
+            "Ghosts",
+            "Spirit",
+            "Spectre",
+            "Specter",
+            "Phantom",
+            "Spook",
+            "Apparition",
+            "Wraith",
+            "Poltergeist",
+            "Shade",
+            "Haunting",
+            "Ghost ship"
+          ]
+        }
+      ],
+      "hints": [
+        "Old castles and ships are said to keep me, like a tenant who will not leave.",
+        "Some say I am the soul of someone who died with business unfinished.",
+        "Children dress up as me with a white sheet over their heads."
+      ],
+      "traps": [
+        {
+          "answer": "Shadow",
+          "reason": "I need no light to walk."
+        },
+        {
+          "answer": "Wind",
+          "aliases": [
+            "Draught",
+            "Draft",
+            "Breeze"
+          ],
+          "reason": "That is what the sceptics say I am."
+        },
+        {
+          "answer": "Vampire",
+          "aliases": [
+            "Zombie",
+            "Mummy"
+          ],
+          "reason": "That one has a body. I have none."
+        }
+      ],
+      "page": {
+        "title": "Of Those Who Will Not Leave",
+        "text": "Nearly every people has told stories of the dead who return. Sailors had their own: the Flying Dutchman, a ghost ship doomed to sail forever without making port, whose sighting foretold disaster. In 1881 the future King George V, then a young midshipman, recorded that it was seen off the coast of Australia. Scientists who study haunted houses point to draughts, creaking timbers and low sounds below hearing, which can leave people uneasy without knowing why. People still lower their voices in an old, empty house."
+      }
+    },
+    {
+      "id": "dream",
+      "verse": [
+        "I come to you each night unbidden,",
+        "a play with you in every part.",
+        "I can be a door or a monster,",
+        "and by breakfast I am mostly gone."
+      ],
+      "answers": [
+        {
+          "answer": "Dream",
+          "aliases": [
+            "Dreams",
+            "Dreaming",
+            "Nightmare",
+            "Nightmares",
+            "Daydream"
+          ]
+        }
+      ],
+      "hints": [
+        "Your eyes dart beneath their lids while I am with you.",
+        "Most of me is forgotten within minutes of waking.",
+        "I am the story your mind tells while you sleep."
+      ],
+      "traps": [
+        {
+          "answer": "Sleep",
+          "aliases": [
+            "Slumber"
+          ],
+          "reason": "That is the house I live in."
+        },
+        {
+          "answer": "Memory",
+          "aliases": [
+            "Memories"
+          ],
+          "reason": "Close. But I am made up, not kept."
+        },
+        {
+          "answer": "Ghost",
+          "reason": "I visit at night too, but I come from inside you."
+        }
+      ],
+      "page": {
+        "title": "Of the Play in the Dark",
+        "text": "Most vivid dreams come in REM sleep, when the eyes flick beneath their lids and the body's muscles are held still, perhaps so that we do not act our dreams out. Adults spend about two hours a night dreaming, yet forget almost all of it within minutes of waking. Sleepers sometimes weave sounds from the room into their dreams. Mendeleev said the periodic table came to him in a dream. Many people have dreamed of falling, and woken with a jolt just before they landed."
+      }
+    },
+    {
+      "id": "diving-bell",
+      "verse": [
+        "Lower me, open-mouthed, into the sea,",
+        "and the sea will not come in.",
+        "Divers breathed inside my belly",
+        "long before there were tanks of air."
+      ],
+      "answers": [
+        {
+          "answer": "Diving bell",
+          "aliases": [
+            "Diving bells",
+            "Bell",
+            "Diving chamber",
+            "Wet bell"
+          ]
+        }
+      ],
+      "hints": [
+        "Aristotle wrote of divers breathing from a cauldron lowered upside down.",
+        "Edmond Halley, of the comet, built one of me and sent down barrels of fresh air.",
+        "I am a chamber lowered on a cable from a ship, with air trapped inside for divers."
+      ],
+      "traps": [
+        {
+          "answer": "Submarine",
+          "aliases": [
+            "Submersible"
+          ],
+          "reason": "That swims free. I hang from a cable."
+        },
+        {
+          "answer": "Diving suit",
+          "aliases": [
+            "Diving helmet",
+            "Wetsuit",
+            "Scuba"
+          ],
+          "reason": "That is worn. I am a room."
+        },
+        {
+          "answer": "Cauldron",
+          "reason": "That is how the Greeks began. Name what they built."
+        }
+      ],
+      "page": {
+        "title": "Of the Room Under the Sea",
+        "text": "Turn a glass upside down and push it under water, and the air inside stays put. Divers have used the same trick for more than two thousand years. Edmond Halley, better known for his comet, built a wooden diving bell in 1691 and kept its air fresh by sending down weighted barrels of air from the surface. He and four others stayed down for more than an hour and a half at about eighteen metres. Saturation divers still live for weeks in sealed bells and chambers."
+      }
+    },
+    {
+      "id": "wave",
+      "verse": [
+        "I travel thousands of miles,",
+        "yet the water I am made of stays where it is.",
+        "I am born of the wind's long breath,",
+        "and I die on the sand, in white."
+      ],
+      "answers": [
+        {
+          "answer": "Wave",
+          "aliases": [
+            "Waves",
+            "Breaker",
+            "Breakers",
+            "Swell",
+            "Ocean wave",
+            "Sea wave",
+            "Roller",
+            "Billow",
+            "Surf"
+          ]
+        }
+      ],
+      "hints": [
+        "Surfers wait for me, and ride me to the shore.",
+        "The water in me only goes round in circles. It is my strength that travels.",
+        "I rise, curl over and crash on the beach, again and again."
+      ],
+      "traps": [
+        {
+          "answer": "Tide",
+          "aliases": [
+            "Tides"
+          ],
+          "reason": "That is the slow rise of the whole sea. I am quicker."
+        },
+        {
+          "answer": "Tsunami",
+          "aliases": [
+            "Tidal wave"
+          ],
+          "reason": "My terrible cousin, born of earthquakes, not wind."
+        },
+        {
+          "answer": "Current",
+          "reason": "That carries the water away. I only pass through it."
+        },
+        {
+          "answer": "Wind",
+          "reason": "That is my parent."
+        }
+      ],
+      "page": {
+        "title": "Of the Traveller Who Stays",
+        "text": "A wave carries energy, not water. As it passes, each bit of water moves in a small circle and ends almost where it began, which is why a floating bottle bobs up and down instead of racing ahead. Swell raised by a storm can cross a whole ocean. Sailors spoke for centuries of rogue waves, and scientists doubted them until one struck a gas platform in the North Sea on New Year's Day 1995 and was measured at twenty-six metres."
+      }
+    },
+    {
+      "id": "whirlpool",
+      "verse": [
+        "I am a mouth in the open sea",
+        "that spins, and swallows, and is never full.",
+        "The Greeks gave me a name and a hunger.",
+        "Norway's fishermen still steer around me."
+      ],
+      "answers": [
+        {
+          "answer": "Whirlpool",
+          "aliases": [
+            "Whirlpools",
+            "Maelstrom",
+            "Vortex",
+            "Eddy",
+            "Charybdis",
+            "Saltstraumen",
+            "Moskstraumen",
+            "Corryvreckan"
+          ]
+        }
+      ],
+      "hints": [
+        "Odysseus clung to a fig tree above me while I drank his raft.",
+        "Edgar Allan Poe sent a fisherman down into me in a story, and he came back with white hair.",
+        "I am water spinning round and round, pulling things down into my middle."
+      ],
+      "traps": [
+        {
+          "answer": "Wave",
+          "aliases": [
+            "Waves"
+          ],
+          "reason": "I do not travel. I stay and turn."
+        },
+        {
+          "answer": "Waterspout",
+          "aliases": [
+            "Tornado",
+            "Twister"
+          ],
+          "reason": "That spins up into the sky. I spin down into the sea."
+        },
+        {
+          "answer": "Plughole",
+          "aliases": [
+            "Drain"
+          ],
+          "reason": "A small cousin of mine lives there. Name the one at sea."
+        }
+      ],
+      "page": {
+        "title": "Of the Mouth That Is Never Full",
+        "text": "The strongest tidal current on Earth runs through Saltstraumen in Norway, where the tide forces a vast weight of water through a narrow strait, and whirlpools up to ten metres across form and spin away. Farther north lies the Moskstraumen, the original maelstrom, which Poe and Jules Verne made famous. In Greek myth the monster Charybdis swallowed the sea three times a day and spat it out again. Sailors who steered too far from her met Scylla on the other side."
+      }
+    },
+    {
+      "id": "albatross",
+      "verse": [
+        "I sleep on the wind above the Southern Ocean",
+        "and may not touch land for years.",
+        "Kill me, the old poem warns,",
+        "and you will wear me round your neck."
+      ],
+      "answers": [
+        {
+          "answer": "Albatross",
+          "aliases": [
+            "Albatrosses",
+            "Wandering albatross",
+            "Gooney bird",
+            "Mollymawk"
+          ]
+        }
+      ],
+      "hints": [
+        "My wings are the widest of any living bird, more than three metres from tip to tip.",
+        "In golf, a score of three under par is named after me.",
+        "In Coleridge's poem, a sailor shot me with his crossbow, and the ship was cursed."
+      ],
+      "traps": [
+        {
+          "answer": "Seagull",
+          "aliases": [
+            "Gull"
+          ],
+          "reason": "A coastal cousin. I belong to the open ocean."
+        },
+        {
+          "answer": "Pelican",
+          "reason": "A great beak, but shorter wings than mine."
+        },
+        {
+          "answer": "Eagle",
+          "reason": "Mighty, but a bird of the land."
+        }
+      ],
+      "page": {
+        "title": "Of the Bird That Sleeps on the Wind",
+        "text": "The wandering albatross has the widest wingspan of any living bird, up to about three and a half metres. It can glide for hours without a single flap, riding the winds of the Southern Ocean, and young birds may stay at sea for five years or more before they first return to land. In Coleridge's Rime of the Ancient Mariner, a sailor shoots an albatross that has led the ship out of the ice, and his shipmates hang the dead bird round his neck as the curse falls."
+      }
+    },
+    {
+      "id": "nautilus",
+      "verse": [
+        "I carry my house in a spiral of rooms,",
+        "and live only in the last.",
+        "I fill the empty ones with gas",
+        "to rise at night from the deep."
+      ],
+      "answers": [
+        {
+          "answer": "Nautilus",
+          "aliases": [
+            "Nautiluses",
+            "Nautili",
+            "Chambered nautilus",
+            "Pearly nautilus"
+          ]
+        }
+      ],
+      "hints": [
+        "My family has drifted in the sea for five hundred million years.",
+        "Captain Nemo named his submarine after me.",
+        "I am a cousin of the octopus, living in a coiled shell of many chambers."
+      ],
+      "traps": [
+        {
+          "answer": "Snail",
+          "aliases": [
+            "Sea snail"
+          ],
+          "reason": "A spiral shell, but no tentacles."
+        },
+        {
+          "answer": "Ammonite",
+          "reason": "My extinct cousin. I am still alive."
+        },
+        {
+          "answer": "Octopus",
+          "aliases": [
+            "Squid"
+          ],
+          "reason": "My cousin. It gave up its shell long ago."
+        }
+      ],
+      "page": {
+        "title": "Of the House of Many Rooms",
+        "text": "The nautilus is a cousin of the octopus and squid that kept its shell. As it grows it builds a new, larger chamber and seals off the old one, so its shell becomes a spiral of rooms, with the animal living only in the newest. By adjusting the gas and liquid in the empty chambers it can rise and sink, and it climbs towards the surface at night to feed. Nautiloids have lived in the sea for some five hundred million years. Captain Nemo's submarine, in Verne's novel, was named after it."
+      }
+    },
+    {
+      "id": "sea-glass",
+      "verse": [
+        "I was a bottle once, thrown away.",
+        "The sea took me in and rocked me,",
+        "softened my edges, frosted my face,",
+        "and gave me back as a jewel."
+      ],
+      "answers": [
+        {
+          "answer": "Sea glass",
+          "aliases": [
+            "Seaglass",
+            "Beach glass",
+            "Mermaid's tears",
+            "Mermaid tears",
+            "Sea-worn glass"
+          ]
+        }
+      ],
+      "hints": [
+        "Collectors hunt me along the tideline: green, brown, white and, rarely, red.",
+        "It takes the sea decades to round my edges.",
+        "I am broken glass, worn smooth by waves and sand."
+      ],
+      "traps": [
+        {
+          "answer": "Pebble",
+          "aliases": [
+            "Stone",
+            "Pebbles"
+          ],
+          "reason": "Worn smooth too, but born that way. I was made by people."
+        },
+        {
+          "answer": "Seashell",
+          "aliases": [
+            "Shell"
+          ],
+          "reason": "A gift of the sea, but grown, not made."
+        },
+        {
+          "answer": "Bottle",
+          "reason": "That is what I was. Name me now."
+        }
+      ],
+      "page": {
+        "title": "Of the Bottle Made a Jewel",
+        "text": "Sea glass begins as rubbish: bottles, jars and windows broken and thrown into the sea. Over twenty to fifty years the waves tumble it against sand and stone, rounding its edges and frosting its surface, while the seawater slowly leaches the glass itself. Green, brown and clear pieces are common. Red is among the rarest, because red glass was coloured with gold and seldom made. As plastic replaces glass, new sea glass grows scarcer, and collectors fear the tideline is running dry."
+      }
+    },
+    {
+      "id": "shipwreck",
+      "verse": [
+        "I was a ship until the sea said no.",
+        "Now fish swim through my cabins,",
+        "my bell is green, my cargo sleeps,",
+        "and divers visit me as they would a grave."
+      ],
+      "answers": [
+        {
+          "answer": "Shipwreck",
+          "aliases": [
+            "Shipwrecks",
+            "Wreck",
+            "Wrecks",
+            "Sunken ship",
+            "Wreckage",
+            "Ship wreck",
+            "Wrecked ship"
+          ]
+        }
+      ],
+      "hints": [
+        "Coral and anemones make a garden of me.",
+        "The Titanic is the most famous one of me.",
+        "I am a ship that has sunk to the bottom of the sea."
+      ],
+      "traps": [
+        {
+          "answer": "Submarine",
+          "reason": "That goes down on purpose. I did not."
+        },
+        {
+          "answer": "Ghost ship",
+          "aliases": [
+            "Flying Dutchman"
+          ],
+          "reason": "That one still sails. I lie still."
+        },
+        {
+          "answer": "Anchor",
+          "reason": "I may have dropped one, too late."
+        }
+      ],
+      "page": {
+        "title": "Of the Ship the Sea Refused",
+        "text": "There may be three million shipwrecks on the ocean floor, by one UNESCO estimate, and most have never been found. In cold, dark water with little oxygen a wreck can last for centuries. The Swedish warship Vasa sank on her maiden voyage in 1628, barely a mile into it, and was raised almost whole in 1961, because the shipworms that eat timber cannot live in the Baltic's brackish water. In warm seas, a wreck becomes a reef within a few years."
+      }
+    },
+    {
+      "id": "gold",
+      "verse": [
+        "I do not rust, I do not rot.",
+        "The sea can keep me a thousand years",
+        "and give me back as bright as the day I drowned.",
+        "Men have killed for me. I have never cared."
+      ],
+      "answers": [
+        {
+          "answer": "Gold",
+          "aliases": [
+            "Au",
+            "Gold coin",
+            "Gold coins",
+            "Doubloon",
+            "Doubloons",
+            "Treasure",
+            "Gold bar",
+            "Gold bullion",
+            "Bullion"
+          ]
+        }
+      ],
+      "hints": [
+        "Alchemists spent their lives trying to make me from lead.",
+        "Chemists write me as two letters, from the Latin aurum.",
+        "I am the yellow metal of crowns and wedding rings."
+      ],
+      "traps": [
+        {
+          "answer": "Silver",
+          "reason": "Close, but silver darkens in the sea. I never do."
+        },
+        {
+          "answer": "Brass",
+          "aliases": [
+            "Bronze",
+            "Copper"
+          ],
+          "reason": "That turns green in the sea. I never do."
+        },
+        {
+          "answer": "Pyrite",
+          "aliases": [
+            "Fool's gold"
+          ],
+          "reason": "A fool would think so."
+        }
+      ],
+      "page": {
+        "title": "Of the Metal the Sea Cannot Eat",
+        "text": "Gold does not rust or tarnish, which is why coins and jewellery raised from wrecks centuries old can come up gleaming. All the gold ever mined would fit in a cube about twenty-two metres on each side. Seawater holds dissolved gold too, but so thinly spread that no one has found a way to profit from it. The chemist Fritz Haber spent years trying after the First World War, hoping to pay off Germany's war debts. He found far less than he had hoped, and gave up."
+      }
+    },
+    {
+      "id": "snowflake",
+      "verse": [
+        "I fall from the sky with six arms open,",
+        "and none of my sisters looks like me.",
+        "I am a winter's lace, a frozen star,",
+        "and I die on your warm tongue."
+      ],
+      "answers": [
+        {
+          "answer": "Snowflake",
+          "aliases": [
+            "Snowflakes",
+            "Snow flake",
+            "Snow",
+            "Snow crystal",
+            "Ice crystal",
+            "Snowfall"
+          ]
+        }
+      ],
+      "hints": [
+        "My shape is decided by the cold and the damp I fall through.",
+        "A Vermont farmer, Wilson Bentley, photographed more than five thousand of me.",
+        "I fall in winter, and enough of me together make a snowman."
+      ],
+      "traps": [
+        {
+          "answer": "Hail",
+          "aliases": [
+            "Hailstone",
+            "Sleet"
+          ],
+          "reason": "That is a frozen lump. I am lace."
+        },
+        {
+          "answer": "Rain",
+          "aliases": [
+            "Raindrop"
+          ],
+          "reason": "Too warm. I am frozen."
+        },
+        {
+          "answer": "Star",
+          "reason": "I look like one, but I fall."
+        },
+        {
+          "answer": "Frost",
+          "reason": "That forms on the ground. I fall from the sky."
+        }
+      ],
+      "page": {
+        "title": "Of the Lace That Falls",
+        "text": "Every snowflake is a crystal of ice that grew as it fell, and its six arms follow the shape in which water molecules lock together. The temperature and dampness of the air decide its form: plates, needles, columns or the branching stars we draw. Wilson Bentley, a Vermont farmer, photographed more than five thousand snowflakes through a microscope and never found two alike. Whether two truly identical flakes have ever fallen cannot be known. There are simply too many."
+      }
+    }
+  ],
+  "days": [
+    {
+      "date": "2026-12-21",
+      "riddle": "candle"
+    },
+    {
+      "date": "2026-12-25",
+      "riddle": "snowflake"
+    },
+    {
+      "date": "2026-12-31",
+      "riddle": "clock"
+    },
+    {
+      "date": "2027-10-31",
+      "riddle": "ghost"
+    }
+  ]
+}
