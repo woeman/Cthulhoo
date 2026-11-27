@@ -12,8 +12,8 @@ art/
   css/        fonts.css, base.css (page defaults), components.css (plates, buttons, tags, gauge…)
   fonts/      IM Fell English (+ SC), EB Garamond, Special Elite, with their licences
   logo/       wordmark, lockup, mark, app icon (plus maskable and monochrome ones), favicon; png/ with the icon PNGs
-  glyphs/     rarity seals tier-1…6 + refused, the Drowned Script (script/), and sprites
-  icons/      18 interface icons and sprite.svg
+  glyphs/     rarity seals tier-1…6 + refused, marks (ward, milestone, diver), the Drowned Script (script/), and sprites
+  icons/      24 interface icons and sprite.svg
   textures/   paper, foxing, film grain, murk, hatch tiles; silhouettes/ (SVG) and silhouettes/png/
   tools/      the scripts that generate all of the above
 ```
@@ -99,11 +99,12 @@ Use the sprites with `<use>`; everything is drawn in `currentColor`.
 <svg viewBox="0 0 24 24" width="24" height="24" aria-hidden="true"><use href="/art/icons/sprite.svg#i-share"/></svg>
 ```
 
-Sprite ids: `tier-1` … `tier-6`, `refused`; `g-eye`, `g-coil`, `g-gate`, `g-sleeper`, `g-tide`,
+Sprite ids: `tier-1` … `tier-6`, `refused` (tiers-sprite); `ward`, `ward-spent`, `milestone`, `diver`
+(marks-sprite); `g-eye`, `g-coil`, `g-gate`, `g-sleeper`, `g-tide`,
 `g-fang`, `g-anchor`, `g-talon`, `g-sounding`, `g-maw`, `g-root`, `g-veil`, `g-spire`, `g-knot`,
 `g-hand`, `g-void`; `i-close`, `i-back`, `i-menu`, `i-descend`, `i-share`, `i-settings`, `i-info`,
 `i-sound-on`, `i-sound-off`, `i-streak`, `i-daily`, `i-leaderboard`, `i-timer`, `i-stats`, `i-hint`,
-`i-depth`, `i-help`, `i-check`.
+`i-depth`, `i-help`, `i-check`, `i-career`, `i-drift`, `i-ward`, `i-riddle`, `i-seance`, `i-cult`.
 
 ## App icons
 
@@ -143,7 +144,7 @@ Every asset is drawn by a script, from fixed random seeds, so the output is repe
 |---|---|---|
 | tokens.css, tokens.js | `node art/tools/build-tokens.mjs` | Node 18+ |
 | logo and app icon (SVG) | `python3 art/tools/draw_logo.py` | Python 3, fontTools and brotli (it reads the IM Fell SC letter shapes from `fonts/`) |
-| seals and the Drowned Script | `python3 art/tools/draw_glyphs.py` | Python 3 |
+| seals, marks and the Drowned Script | `python3 art/tools/draw_glyphs.py` | Python 3 |
 | icons | `python3 art/tools/draw_icons.py` | Python 3 |
 | silhouettes | `python3 art/tools/draw_silhouettes.py` | Python 3 |
 | paper, grain, murk, hatching | `python3 art/tools/make_textures.py` | Python 3, numpy, Pillow |

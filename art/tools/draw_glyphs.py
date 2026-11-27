@@ -16,7 +16,7 @@ import os
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
-from svgkit import f, pt, poly, smooth, polar, svg, write
+from svgkit import f, pt, poly, smooth, polar, svg, write, circle_path
 
 ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..'))
 OUT = os.path.join(ROOT, 'glyphs')
@@ -107,6 +107,124 @@ def refused():
         lashes += P(f"M{f(c + x)} {f(y + 0.4)} L{f(c + x * 1.18)} {f(y + 3.2)}")
     return stroke_group(ring + crack + lid + lashes)
 
+
+# ------------------------------------------------------------------ marks (32 grid): ward, milestone, diver
+
+def catmull(points, closed=True, samples=10):
+    """Dense points along a Catmull-Rom spline, to cut and rejoin outlines."""
+    n = len(points)
+    out = []
+    rng_ = range(n) if closed else range(n - 1)
+    for i in rng_:
+        p0 = points[(i - 1) % n] if (closed or i > 0) else points[i]
+        p1, p2 = points[i], points[(i + 1) % n]
+        p3 = points[(i + 2) % n] if (closed or i + 2 < n) else points[(i + 1) % n]
+        for k in range(samples):
+            t = k / samples
+            t2, t3 = t * t, t * t * t
+            out.append(tuple(0.5 * ((2 * p1[j]) + (-p0[j] + p2[j]) * t + (2 * p0[j] - 5 * p1[j] + 4 * p2[j] - p3[j]) * t2
+                                    + (-p0[j] + 3 * p1[j] - 3 * p2[j] + p3[j]) * t3) for j in (0, 1)))
+    if not closed:
+        out.append(points[-1])
+    return out
+
+
+def nearest(pts, q):
+    return min(range(len(pts)), key=lambda i: math.dist(pts[i], q))
+
+
+def xform(pts, cx=0.0, cy=0.0, s=1.0, rot=0.0, dx=0.0, dy=0.0):
+    """Scale and turn points about (cx, cy), then move them."""
+    c, si = math.cos(math.radians(rot)), math.sin(math.radians(rot))
+    out = []
+    for x, y in pts:
+        x, y = (x - cx) * s, (y - cy) * s
+        out.append((cx + x * c - y * si + dx, cy + x * si + y * c + dy))
+    return out
+
+
+# The ward is a hag stone: a sea-worn pebble with a hole worn right through it. Fishermen
+# hung them in their boats against drowning and ill luck. Ours hangs from a cord.
+PEBBLE = [(4.8, 20.4), (6.0, 15.4), (9.8, 12.2), (15.6, 11.0), (21.6, 11.6), (26.0, 14.6),
+          (27.4, 19.6), (25.4, 24.4), (20.0, 27.2), (13.0, 27.6), (7.6, 25.4)]
+HOLE = [(9.4, 17.8), (10.2, 15.4), (12.8, 14.4), (15.8, 14.8), (17.1, 16.8), (16.2, 19.4), (13.4, 20.4), (10.6, 19.8)]
+LOOP = (14.6, 4.4, 1.6)
+
+
+def ring_slice(pts, a, b):
+    """Points a..b of a closed ring, wrapping round the end."""
+    return pts[a:b + 1] if a <= b else pts[a:] + pts[:b + 1]
+
+
+def ward_bands(s=1.0):
+    """Two worn bands across the lower right of the stone, away from the hole."""
+    out = ''
+    for k in (0.74, 0.5):
+        ring = catmull(xform(PEBBLE, 17.2, 19.6, k), samples=8)
+        a = nearest(ring, xform([(26.6, 16.0)], 17.2, 19.6, k)[0])
+        b = nearest(ring, xform([(16.0, 27.6)], 17.2, 19.6, k)[0])
+        out += P(poly([(x * s, y * s) for x, y in ring_slice(ring, a, b)], close=False))
+    return out
+
+
+def ward(s=1.0, bands=True):
+    """Held: the stone on its cord. s scales the drawing (0.75 puts it on the 24 grid)."""
+    S = lambda pts: [(x * s, y * s) for x, y in pts]
+    lx, ly, lr = LOOP
+    body = P(smooth(S(PEBBLE), close=True)) + P(smooth(S(HOLE), close=True))
+    body += C(lx * s, ly * s, lr * s)
+    # One strand runs over the front of the stone and down into the hole; the other comes
+    # up from behind, so it shows only above the stone's top edge.
+    body += P(smooth(S([(13.9, 6.0), (13.2, 9.6), (12.9, 12.6), (12.9, 15.6)])))
+    body += P(smooth(S([(15.4, 6.0), (16.9, 8.6), (17.6, 11.25)])))
+    if bands:
+        body += ward_bands(s)
+    return body
+
+
+def ward_spent():
+    """Spent: the stone has split through its hole and the cord has parted."""
+    outline = catmull(PEBBLE, samples=14)
+    hole = catmull(HOLE, samples=10)
+    crack_top = [(11.8, 12.0), (12.9, 12.9), (12.1, 13.6), (12.8, 14.4)]
+    crack_bot = [(13.4, 20.4), (14.9, 22.0), (13.8, 23.9), (15.6, 25.6), (14.9, 26.6), (15.6, 27.5)]
+    top_i, bot_i = nearest(outline, crack_top[0]), nearest(outline, crack_bot[-1])
+    h_top, h_bot = nearest(hole, crack_top[-1]), nearest(hole, crack_bot[0])
+    # Both rings run clockwise on screen (left, up, right, down).
+    left = ring_slice(outline, bot_i, top_i) + crack_top + ring_slice(hole, h_bot, h_top)[::-1][1:-1] + crack_bot
+    right = ring_slice(outline, top_i, bot_i) + crack_bot[::-1] + ring_slice(hole, h_top, h_bot)[::-1][1:-1] + crack_top[::-1]
+    left = xform(left, 12.0, 21.0, 1.0, -11, -2.0, 1.8)
+    right = xform(right, 16.0, 21.0, 1.0, 9, 1.8, 1.0)
+    lx, ly, lr = LOOP
+    body = P(poly(left)) + P(poly(right))
+    body += C(lx, ly, lr)
+    body += P(smooth([(14.6, 6.0), (14.0, 8.0), (14.4, 9.8)]))                          # the cord, parted
+    body += P("M14.4 9.8 L13.3 11.0 M14.4 9.8 L14.6 11.5 M14.4 9.8 L15.6 10.9")       # frayed end
+    return body
+
+
+def milestone():
+    """A surveyor's benchmark, carved where the line was passed: the datum bar, and the broad
+    arrow pointing up to it. You can never drift back above it."""
+    return (P("M4.5 10.6 L27.5 10.6", stroke_width='2.3')
+            + P("M16 12.9 L16 25.8 M16 12.9 L9.4 24.4 M16 12.9 L22.6 24.4"))
+
+
+def diver():
+    """One diver in the shared view: a bathysphere on its cable. Filled, so a player's
+    colour reads at any size; the porthole is punched through."""
+    hull = circle_path(16, 18.4, 9.6) + ' ' + circle_path(16, 18.4, 4.9, ccw=True)
+    return (P(hull, fill='currentColor', stroke='none', fill_rule='evenodd')
+            + C(16, 18.4, 3.3, fill='currentColor', stroke='none', opacity='0.45')
+            + C(16, 6.9, 1.5) + P("M16 0 L16 5.4"))
+
+
+MARKS = [
+    ('ward', 'Ward', 'A hag stone on its cord: a pebble with a hole worn through it. A ward you hold.', ward),
+    ('ward-spent', 'Ward, spent', 'The hag stone split through its hole, the cord parted. A ward that was used.', ward_spent),
+    ('milestone', 'Milestone', "A surveyor's benchmark: the datum bar and the broad arrow beneath it.", milestone),
+    ('diver', 'Diver', 'A bathysphere on its cable, filled, with the porthole punched through.', diver),
+]
 
 TIERS = [
     ('commonplace', 'Commonplace', 'A grain of sand. Everyone says it.'),
@@ -214,6 +332,13 @@ def main():
     write(os.path.join(OUT, 'drowned-city-name.svg'),
           svg(80, 32, stroke_group(inner, sw=2), title='The Drowned City',
               desc='Its true name in the Drowned Script: eye, coil, gate, sleeper.'))
+    marks = []
+    for key, name, desc, fn in MARKS:
+        body = stroke_group(fn())
+        write(os.path.join(OUT, f'{key}.svg'), svg(32, 32, body, title=name, desc=desc))
+        marks.append(f'<symbol id="{key}" viewBox="0 0 32 32"><title>{name}</title>{body}</symbol>')
+    write(os.path.join(OUT, 'marks-sprite.svg'),
+          '<svg xmlns="http://www.w3.org/2000/svg" style="display:none">' + ''.join(marks) + '</svg>\n')
     print('glyphs written to', OUT)
 
 

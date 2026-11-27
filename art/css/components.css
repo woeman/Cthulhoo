@@ -14,6 +14,8 @@
  *   .cth-log         typewritten expedition log lines
  *   .cth-zone-title  the chapter card shown when you enter a new zone
  *   .cth-rule        an engraved divider with an ornament
+ *   .cth-milestone   a depth carved into the career chart: a benchmark and a stone plaque
+ *   .cth-ward        a ward (hag stone) slot: held, spent or empty
  * Motion rules: nothing bounces; idle things breathe on a 7 s cycle; reduced
  * motion turns every animation into a short fade.
  */
@@ -461,6 +463,80 @@
 }
 .cth-rule > * { flex: none; width: 20px; height: 20px; color: var(--color-glow); }
 
+/* ------------------------------------------------------------------ milestone (career chart) */
+/* A depth you can never drift back above, carved where you passed it: a surveyor's
+ * benchmark on the line, and a stone plaque beside it.
+ *   <div class="cth-milestone">
+ *     <svg class="cth-milestone__mark" viewBox="0 0 32 32"><use href="art/glyphs/marks-sprite.svg#milestone"/></svg>
+ *     <div class="cth-milestone__plaque"><span class="cth-milestone__name">The Roofs of the Drowned City</span>
+ *       <span class="cth-milestone__depth">6,800 m</span></div>
+ *   </div>
+ * data-state="ahead" shows one not reached yet: cut faintly, not yet inked. */
+
+.cth-milestone {
+  --cut: 7px;
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  color: var(--color-ink);
+}
+.cth-milestone__mark { flex: none; width: 30px; height: 30px; color: var(--color-glow); }
+.cth-milestone__plaque {
+  position: relative;
+  isolation: isolate;
+  display: grid;
+  gap: 3px;
+  padding: var(--space-2) var(--space-4) calc(var(--space-2) + 1px);
+}
+/* the tablet: a rule-coloured cut stone with a plate inside it, both chamfered */
+.cth-milestone__plaque::before,
+.cth-milestone__plaque::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  clip-path: polygon(var(--c) 0, calc(100% - var(--c)) 0, 100% var(--c), 100% calc(100% - var(--c)),
+                     calc(100% - var(--c)) 100%, var(--c) 100%, 0 calc(100% - var(--c)), 0 var(--c));
+}
+.cth-milestone__plaque::before { --c: var(--cut); inset: 0; background: var(--color-rule); }
+.cth-milestone__plaque::after {
+  --c: calc(var(--cut) - 0.6px);
+  inset: 1px;
+  background: linear-gradient(180deg, color-mix(in oklab, var(--color-glow) 10%, var(--color-plate)), var(--color-plate));
+}
+[data-zone="surface"] .cth-milestone__plaque::after { background: var(--color-plate) url("../textures/paper-grain.png"); background-blend-mode: multiply; }
+.cth-milestone__name {
+  font: var(--step-0) / 1.1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+}
+.cth-milestone__depth {
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.08em;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink-muted);
+}
+[data-zone]:not([data-zone="surface"]) .cth-milestone__plaque::before {
+  background: color-mix(in oklab, var(--color-glow) 50%, var(--color-rule));
+}
+[data-zone]:not([data-zone="surface"]) .cth-milestone__mark {
+  filter: drop-shadow(0 0 5px var(--color-glow-soft));
+}
+.cth-milestone[data-state="ahead"] { color: var(--color-ink-muted); }
+.cth-milestone[data-state="ahead"] .cth-milestone__mark { color: var(--color-rule); filter: none; }
+.cth-milestone[data-state="ahead"] .cth-milestone__plaque::before { background: var(--color-rule-soft); }
+.cth-milestone[data-state="ahead"] .cth-milestone__plaque::after { background: var(--color-ground); }
+.cth-milestone[data-new] .cth-milestone__name { animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both; }
+
+/* ------------------------------------------------------------------ ward */
+/* A hag stone you hold against a missed day. Earned every 7 days, at most 2.
+ *   <svg class="cth-ward" data-state="held" viewBox="0 0 32 32"><use href="art/glyphs/marks-sprite.svg#ward"/></svg>
+ * data-state="spent" uses #ward-spent; "empty" is an unfilled slot (use #ward). */
+
+.cth-ward { width: 32px; height: 32px; color: var(--color-glow); }
+.cth-ward[data-state="held"] { animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite; }
+[data-zone]:not([data-zone="surface"]) .cth-ward[data-state="held"] { filter: drop-shadow(0 0 6px var(--color-glow-soft)); }
+.cth-ward[data-state="spent"] { color: var(--color-ink-muted); opacity: 0.75; }
+.cth-ward[data-state="empty"] { color: var(--color-rule); opacity: 0.55; }
+
 /* ------------------------------------------------------------------ motion */
 
 @keyframes cth-breathe {
@@ -503,7 +579,8 @@
 @media (prefers-reduced-motion: reduce) {
   .cth-plate, .cth-specimen, .cth-seal__disc, .cth-btn--lure, .cth-telegram,
   .cth-zone-title__name, .cth-seal[data-tier="6"] .cth-seal__disc::after,
-  .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth), .cth-field__input {
+  .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth), .cth-field__input,
+  .cth-ward[data-state="held"], .cth-milestone[data-new] .cth-milestone__name {
     animation: cth-fade 200ms linear both !important;
   }
   .cth-sink { animation: cth-fade 200ms linear reverse both !important; }

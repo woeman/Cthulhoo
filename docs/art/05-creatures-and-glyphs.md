@@ -68,6 +68,19 @@ on a 32-unit grid with a 1.75 stroke in `currentColor`, so they take the tier co
 <svg class="cth-specimen__seal"><use href="art/glyphs/tiers-sprite.svg#tier-4"/></svg>
 ```
 
+## Marks
+
+Four more signs on the seals' 32-unit grid, with the same 1.75 stroke in `currentColor`: one
+file each in [`art/glyphs/`](../../art/glyphs/) and one sprite, `marks-sprite.svg`, with symbols
+`#ward`, `#ward-spent`, `#milestone` and `#diver`.
+
+| Mark | Means | Drawn as |
+|---|---|---|
+| `ward` | a ward you hold: it protects one missed day | a **hag stone**: a sea-worn pebble with a hole worn right through it, hung on a cord. Fishermen kept them in their boats against drowning and ill luck. It is our own sign, not the Elder Sign or anyone else's. |
+| `ward-spent` | a ward that has been used | the same stone split through its hole, and the cord parted |
+| `milestone` | a depth you can never drift back above | a surveyor's **benchmark**: the datum bar with the broad arrow beneath it, the mark surveyors cut into stone to fix a height for good |
+| `diver` | one player in the Séance's shared view | a bathysphere on its cable, filled so that a player's colour reads at any size, with the porthole punched through |
+
 ## The Drowned Script
 
 An invented alphabet of sixteen glyphs. Its letters **hang from a waterline**, the way weed
@@ -141,7 +154,7 @@ Use it like this:
 
 ## Interface icons
 
-Eighteen icons in [`art/icons/`](../../art/icons/), on a 24-unit grid, 1.5 stroke, round
+Twenty-four icons in [`art/icons/`](../../art/icons/), on a 24-unit grid, 1.5 stroke, round
 caps and joins, in `currentColor`; plus `sprite.svg` with symbols `#i-<name>`. Where the
 game's world offers its own object, the icon uses it:
 
@@ -161,6 +174,12 @@ game's world offers its own object, the icon uses it:
 | `info` | about | an open book |
 | `help` | how to play | a question mark in a ring |
 | `menu`, `back`, `close`, `check` | the usual | the menu is three wavy lines, like water |
+| `career` | the Logbook, your whole career | a logbook with a stepped descent on its cover and a lead weight on its bookmark |
+| `drift` | drifting up after a missed day | an arrow rising to the surface, with bubbles |
+| `ward` | your wards | the hag stone on its cord |
+| `riddle` | the Whispering Deep (riddles) | a water-damaged page with a question for its initial |
+| `seance` | the Séance (party mode) | a planchette, with a porthole for its lens |
+| `cult` | the Cult (this week's friends board) | three hooded figures |
 
 ```html
 <svg width="24" height="24" aria-hidden="true"><use href="art/icons/sprite.svg#i-share"/></svg>
