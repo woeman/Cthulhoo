@@ -10,9 +10,7 @@ name: Deploy the relay
 
 on:
   push:
-    # The app's branch is listed only until its pull request is merged, so the
-    # relay can go live, and be checked, before the site does.
-    branches: [main, claude/project-thread-7i1b4w]
+    branches: [main]
     paths:
       - 'worker/**'
       - 'src/party/**'
