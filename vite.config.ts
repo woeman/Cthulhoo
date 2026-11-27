@@ -97,7 +97,9 @@ self.addEventListener('fetch', (event) => {
 
 // Relative base so the same build works on GitHub Pages (/Cthulhoo/),
 // inside a native wrapper (Capacitor) and from any static host.
-export default defineConfig({
+// The claude.ai preview (`--mode artifact`) is served as one file, so there
+// everything loaded on demand (the specimen plates) goes into the one script.
+export default defineConfig(({ mode }) => ({
   base: './',
   plugins: [serviceWorker()],
   build: {
@@ -105,10 +107,11 @@ export default defineConfig({
     outDir: 'dist',
     assetsInlineLimit: 0,
     sourcemap: false,
+    rolldownOptions: mode === 'artifact' ? { output: { codeSplitting: false } } : {},
   },
   server: { host: true },
   test: {
     environment: 'node',
     include: ['tests/**/*.test.ts'],
   },
-});
+}));

@@ -20,6 +20,7 @@ import { MadText, calmAll, icon, madden, madnessForDepth, sealSvg, wordmarkMarku
 import { careerGainPlate, careerStrip, countUp, telegramEl } from './ui/career';
 import { disputeBlock } from './ui/disputes';
 import { bestiaryBody, sightingCard } from './ui/bestiary';
+import { loadPlate } from './ui/plates';
 import { SIGHTING_TIER, sightingAlong, type Sighting } from './game/bestiary';
 import { disputesText } from './game/disputes';
 import { logbookScreen, type Keepsake } from './screens/logbook';
@@ -837,6 +838,7 @@ export class App {
       if (s) {
         sighting = { id: s.creature.id, day: rec.day, depth: s.depth, at: Date.now(), promptId: prompt.id };
         saveSighting(sighting);
+        void loadPlate(s.creature.id); // its plate arrives while the line pays out
       }
     }
     this.abyss.tension = 0;

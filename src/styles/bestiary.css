@@ -1,22 +1,67 @@
-/* Sightings: a creature at the porthole, and the collection by zone. */
+/* Sightings: a creature at the porthole, and the collection by zone, drawn from
+   the art kit's specimen plates (docs/art/05, "The bestiary"). A plate's lines
+   are currentColor; --beast-body is the ground behind them, so near parts hide
+   far ones, and the living lights take --beast-glow. */
 
-.roundel {
-  flex: none;
+.specimen-frame {
+  position: relative;
   display: grid;
   place-items: center;
-  width: 64px;
-  height: 64px;
-  border-radius: 50%;
-  border: var(--rule-hair) solid var(--color-rule);
-  outline: var(--rule-hair) solid var(--color-rule-soft);
-  outline-offset: 3px;
-  color: var(--color-glow);
-  background: radial-gradient(circle at 50% 45%, var(--color-glow-soft), transparent 70%);
+  aspect-ratio: 1;
+  width: 100%;
+  overflow: hidden;
+  color: var(--color-ink);
+  background: var(--color-ground);
+  box-shadow:
+    inset 0 0 0 1px var(--color-rule-soft),
+    inset 0 0 0 4px var(--color-ground),
+    inset 0 0 0 5px color-mix(in oklab, var(--color-rule) 30%, transparent);
+  --beast-body: var(--color-ground);
+  --beast-glow: var(--color-glow);
+  --beast-pupil: var(--color-accent);
+  --beast-glow-filter: none;
 }
 
-.specimen-glyph {
-  width: 26px;
-  height: 42px;
+.specimen-frame .beast {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+/* Not yet met: only its shape, near the colour of the ground, and the faint
+   lights of the ones that carry their own. */
+.specimen-frame.unseen {
+  color: color-mix(in oklab, var(--color-ink) 16%, var(--color-ground));
+  --beast-glow: color-mix(in oklab, var(--color-glow) 40%, var(--color-ground));
+}
+
+.specimen-frame .specimen-glyph {
+  width: 34%;
+  height: auto;
+  color: var(--color-glow);
+}
+
+.specimen-frame.bloom .beast {
+  animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both;
+}
+
+/* A plate seen on its own may light its lures, photophores and glimmers. */
+.specimen-frame.large,
+.sighting .specimen-frame {
+  --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow)) drop-shadow(0 0 5px var(--color-glow-soft));
+}
+
+/* The four of the city breathe. */
+.specimen-frame.large[data-kind='mythos'] .beast,
+.sighting .specimen-frame[data-kind='mythos'] .beast {
+  animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite;
+}
+
+.specimen-frame.large.bloom[data-kind='mythos'] .beast,
+.sighting .specimen-frame.bloom[data-kind='mythos'] .beast {
+  animation:
+    cth-ink-bloom var(--dur-ink) var(--ease-surface) both,
+    cth-breathe var(--dur-breath) var(--ease-drift) var(--dur-ink) infinite;
 }
 
 /* ------------------------------------------------------------ the reveal */
@@ -28,6 +73,11 @@
   margin-top: var(--space-4);
   padding: var(--space-4);
   text-align: left;
+}
+
+.sighting .specimen-frame {
+  flex: none;
+  width: 104px;
 }
 
 .sighting figcaption {
@@ -45,8 +95,15 @@
   color: var(--color-ink);
 }
 
-.sighting-line {
+.sighting-latin {
   margin: 0;
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.sighting-line {
+  margin: var(--space-1) 0 0;
   font-style: italic;
   font-size: var(--step--1);
   color: var(--color-ink-muted);
@@ -59,9 +116,102 @@
   color: var(--color-glow);
 }
 
-.sighting[data-kind='mythos'] .roundel {
-  color: var(--color-tier-6, var(--color-glow));
-  animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite;
+@media (max-width: 380px) {
+  .sighting .specimen-frame {
+    width: 84px;
+  }
+}
+
+/* ------------------------------------------------------------ the open plate */
+
+.specimen-feature {
+  display: grid;
+  grid-template-columns: minmax(0, 9.5rem) minmax(0, 1fr);
+  grid-template-areas:
+    'plate head'
+    'body body';
+  gap: var(--space-3) var(--space-4);
+  align-items: center;
+  margin: var(--space-4) 0 var(--space-2);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-rule-soft);
+  scroll-margin-top: var(--space-4);
+}
+
+.specimen-feature .specimen-frame {
+  grid-area: plate;
+}
+
+.specimen-feature__head {
+  grid-area: head;
+  min-width: 0;
+}
+
+.specimen-feature__body {
+  grid-area: body;
+  min-width: 0;
+}
+
+.sheet .specimen-feature p {
+  margin: 0;
+}
+
+.specimen-feature__zone {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.specimen-feature__zone .range {
+  white-space: nowrap;
+}
+
+.specimen-feature__name {
+  margin-top: var(--space-1) !important;
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  line-height: 1.05;
+  color: var(--color-ink);
+  text-wrap: balance;
+}
+
+.specimen-feature__latin {
+  margin-top: 2px !important;
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.specimen-feature__when {
+  margin-top: var(--space-2) !important;
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: var(--color-glow);
+}
+
+.specimen-feature__line {
+  font-style: italic;
+}
+
+.specimen-feature__fact {
+  margin-top: var(--space-2) !important;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+@media (min-width: 640px) {
+  .specimen-feature {
+    grid-template-columns: minmax(0, 13rem) minmax(0, 1fr);
+    grid-template-areas:
+      'plate head'
+      'plate body';
+    align-items: start;
+    row-gap: var(--space-3);
+  }
+
+  .specimen-feature__head {
+    align-self: end;
+  }
 }
 
 /* ------------------------------------------------------------ the collection */
@@ -71,77 +221,73 @@
   justify-content: space-between;
   align-items: baseline;
   gap: var(--space-3);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--color-rule);
 }
 
 .bestiary-zone .range {
   font-family: var(--font-log);
   font-size: var(--step--2);
   font-weight: 400;
+  letter-spacing: 0;
   color: var(--color-ink-muted);
   white-space: nowrap;
 }
 
-.bestiary-list {
+.bestiary-grid {
   list-style: none;
-  margin: 0 0 var(--space-4);
+  margin: var(--space-3) 0 var(--space-4);
   padding: 0;
   display: grid;
-  gap: var(--space-3);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: var(--space-3) var(--space-2);
 }
 
-.specimen {
-  display: flex;
-  gap: var(--space-3);
-  align-items: flex-start;
-}
-
-.specimen .roundel {
-  width: 52px;
-  height: 52px;
-}
-
-.specimen .specimen-glyph {
-  width: 22px;
-  height: 35px;
-}
-
-.specimen:not(.seen) .roundel {
-  color: var(--color-rule);
-  background: none;
-  opacity: 0.6;
-}
-
-.specimen-text {
-  min-width: 0;
-}
-
-.specimen-text p {
+.specimen-cell {
+  width: 100%;
   margin: 0;
+  padding: 0;
+  border: 0;
+  display: grid;
+  gap: var(--space-1);
+  align-content: start;
+  text-align: center;
+  color: var(--color-ink-muted);
+  background: none;
+  font: var(--step--2) / 1.25 var(--font-log);
 }
 
-.specimen-name {
-  font-family: var(--font-display-caps);
-  letter-spacing: var(--tracking-caps);
+.specimen-cell__name {
+  text-wrap: balance;
+  overflow-wrap: anywhere;
+}
+
+button.specimen-cell {
+  cursor: pointer;
   color: var(--color-ink);
 }
 
-.specimen:not(.seen) .specimen-name {
-  color: var(--color-ink-muted);
+button.specimen-cell:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 3px;
 }
 
-.specimen-line {
-  font-style: italic;
+button.specimen-cell[aria-pressed='true'] .specimen-frame {
+  box-shadow:
+    inset 0 0 0 1px var(--color-glow),
+    inset 0 0 0 4px var(--color-ground),
+    inset 0 0 0 5px color-mix(in oklab, var(--color-glow) 45%, transparent);
 }
 
-.specimen-fact,
-.specimen-unseen {
-  font-size: var(--step--1);
-  color: var(--color-ink-muted);
-}
-
-.specimen-when {
-  margin-top: 2px;
-  font-family: var(--font-log);
-  font-size: var(--step--2);
+button.specimen-cell[aria-pressed='true'] .specimen-cell__name {
   color: var(--color-glow);
+}
+
+@media (hover: hover) {
+  button.specimen-cell:hover .specimen-frame {
+    box-shadow:
+      inset 0 0 0 1px var(--color-rule),
+      inset 0 0 0 4px var(--color-ground),
+      inset 0 0 0 5px color-mix(in oklab, var(--color-rule) 45%, transparent);
+  }
 }
