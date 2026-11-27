@@ -1,0 +1,512 @@
+/* Cthulhoo components: the looks, not the logic.
+ * Needs tokens.css (and fonts.css). Every class is prefixed cth- so it will not
+ * collide with app styles. Colours come only from tokens, so every component
+ * re-themes itself when data-zone changes.
+ *
+ *   .cth-plate       a framed engraving plate (cards, modals, panels)
+ *   .cth-question    the day's question
+ *   .cth-field       the answer input: a typewriter on a ledger line
+ *   .cth-btn         buttons (primary is a lit lure; --ghost is a rule line)
+ *   .cth-specimen    an answer, tagged like a museum specimen, by rarity tier
+ *   .cth-seal        a large rarity medallion for results
+ *   .cth-gauge       the sounding line: depth gauge with zone bands
+ *   .cth-telegram    a toast: a telegram slip lowered from the surface
+ *   .cth-log         typewritten expedition log lines
+ *   .cth-zone-title  the chapter card shown when you enter a new zone
+ *   .cth-rule        an engraved divider with an ornament
+ * Motion rules: nothing bounces; idle things breathe on a 7 s cycle; reduced
+ * motion turns every animation into a short fade.
+ */
+
+@property --cth-angle { syntax: '<angle>'; inherits: false; initial-value: 0deg; }
+
+/* ------------------------------------------------------------------ plate */
+
+.cth-plate {
+  --plate-pad: var(--space-6);
+  position: relative;
+  padding: var(--plate-pad) var(--space-5);
+  color: var(--color-ink);
+  background: var(--color-plate-veil);
+  border: var(--rule-hair) solid var(--color-rule);
+  outline: var(--rule-hair) solid var(--color-rule-soft);
+  outline-offset: -6px;
+  box-shadow: var(--shadow-plate);
+  -webkit-backdrop-filter: blur(6px) saturate(1.15);
+  backdrop-filter: blur(6px) saturate(1.15);
+}
+/* corner diamonds, like the registration marks on a printing plate */
+.cth-plate::before {
+  content: "";
+  position: absolute;
+  inset: -6px;
+  pointer-events: none;
+  background: var(--color-rule);
+  --d: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M6 0 L12 6 L6 12 L0 6Z'/%3E%3C/svg%3E");
+  -webkit-mask: var(--d) top left / 11px 11px no-repeat, var(--d) top right / 11px 11px no-repeat,
+                var(--d) bottom left / 11px 11px no-repeat, var(--d) bottom right / 11px 11px no-repeat;
+  mask: var(--d) top left / 11px 11px no-repeat, var(--d) top right / 11px 11px no-repeat,
+        var(--d) bottom left / 11px 11px no-repeat, var(--d) bottom right / 11px 11px no-repeat;
+}
+[data-zone="surface"] .cth-plate,
+.cth-plate[data-zone="surface"] {
+  background-image: url("../textures/paper-grain.png");
+  background-blend-mode: multiply;
+}
+[data-zone]:not([data-zone="surface"]) .cth-plate,
+.cth-plate[data-zone]:not([data-zone="surface"]) {
+  border-color: color-mix(in oklab, var(--color-glow) 45%, var(--color-rule));
+  box-shadow: var(--shadow-plate), 0 0 24px -6px var(--color-glow-faint), inset 0 0 48px -12px var(--color-glow-faint);
+}
+.cth-plate__label {
+  position: absolute;
+  top: 0;
+  left: var(--space-5);
+  translate: 0 -50%;
+  padding: 0 var(--space-2);
+  background: var(--color-ground);
+  color: var(--color-ink-muted);
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+/* ------------------------------------------------------------------ question */
+
+.cth-question { text-align: center; }
+.cth-question__meta {
+  display: flex;
+  justify-content: center;
+  gap: var(--space-4);
+  margin-bottom: var(--space-4);
+  color: var(--color-ink-muted);
+  font: var(--step--2) / 1.2 var(--font-log);
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.cth-question__meta > * + *::before { content: "·"; margin-right: var(--space-4); opacity: 0.6; }
+.cth-question__text {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  line-height: 1.12;
+  text-wrap: balance;
+}
+.cth-question__text em { font-style: italic; color: var(--color-glow); }
+.cth-question__hint {
+  margin-top: var(--space-3);
+  color: var(--color-ink-muted);
+  font-style: italic;
+  font-size: var(--step--1);
+}
+
+/* ------------------------------------------------------------------ answer field */
+
+.cth-field { display: grid; gap: var(--space-2); }
+.cth-field__label {
+  font: var(--step--2) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+}
+.cth-field__input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: var(--space-3) var(--space-1) var(--space-2);
+  border: 0;
+  border-radius: 0;
+  background:
+    linear-gradient(var(--color-rule), var(--color-rule)) left bottom / 100% 1px no-repeat,
+    linear-gradient(var(--color-rule-soft), var(--color-rule-soft)) left calc(100% - 4px) / 100% 1px no-repeat;
+  color: var(--color-ink);
+  caret-color: var(--color-glow);
+  font: var(--step-1) / 1.3 var(--font-log);
+  letter-spacing: var(--tracking-log);
+  transition: background-size var(--dur-ui) var(--ease-surface), box-shadow var(--dur-ui) var(--ease-surface);
+}
+.cth-field__input::placeholder { color: var(--color-ink-faint); font-family: var(--font-text); font-style: italic; }
+.cth-field__input:focus { outline: none; }
+.cth-field__input:focus-visible {
+  background:
+    linear-gradient(var(--color-glow), var(--color-glow)) left bottom / 100% 2px no-repeat,
+    linear-gradient(var(--color-rule-soft), var(--color-rule-soft)) left calc(100% - 5px) / 100% 1px no-repeat;
+  box-shadow: 0 10px 18px -14px var(--color-glow-soft);
+}
+.cth-field__note { font: var(--step--2) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+.cth-field[data-state="refused"] .cth-field__input { animation: cth-shudder 520ms var(--ease-surface); }
+
+/* ------------------------------------------------------------------ buttons */
+
+.cth-btn {
+  --btn-bg: var(--color-action);
+  --btn-fg: var(--color-on-action);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-2);
+  min-height: 48px;
+  padding: 0 var(--space-6);
+  border: 1px solid var(--btn-bg);
+  border-radius: var(--radius-hair);
+  background: var(--btn-bg);
+  color: var(--btn-fg);
+  font: var(--step-0) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+  text-decoration: none;
+  cursor: pointer;
+  /* the engraved inner line */
+  box-shadow: inset 0 0 0 3px var(--btn-bg), inset 0 0 0 4px color-mix(in oklab, var(--btn-fg) 55%, transparent);
+  transition: background-color var(--dur-ui) var(--ease-surface), box-shadow var(--dur-ui) var(--ease-surface),
+              transform var(--dur-quick) var(--ease-surface), color var(--dur-ui) var(--ease-surface);
+}
+.cth-btn svg { width: 1.15em; height: 1.15em; }
+.cth-btn:hover { --btn-bg: color-mix(in oklab, var(--color-action) 88%, var(--color-ink)); }
+.cth-btn:active { transform: translateY(1px); }
+.cth-btn:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+.cth-btn:disabled, .cth-btn[aria-disabled="true"] { opacity: 0.45; cursor: not-allowed; }
+
+[data-zone]:not([data-zone="surface"]) .cth-btn:not(.cth-btn--ghost) {
+  box-shadow: inset 0 0 0 3px var(--btn-bg), inset 0 0 0 4px color-mix(in oklab, var(--btn-fg) 40%, transparent),
+              0 0 22px -4px var(--color-glow-soft);
+}
+/* the primary call to action is a lure: it breathes */
+.cth-btn--lure { animation: cth-lure var(--dur-breath) var(--ease-drift) infinite; }
+.cth-btn--ghost {
+  --btn-bg: transparent;
+  --btn-fg: var(--color-ink);
+  border-color: var(--color-rule);
+  box-shadow: inset 0 0 0 3px transparent, inset 0 0 0 4px var(--color-rule-soft);
+}
+.cth-btn--ghost:hover { --btn-bg: var(--color-glow-faint); }
+.cth-btn--icon { min-width: 48px; padding: 0; }
+
+/* ------------------------------------------------------------------ specimen (answer chip) */
+
+.cth-specimens { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-3); }
+.cth-specimen {
+  --tier-color: var(--color-tier-1);
+  position: relative;
+  display: grid;
+  grid-template-columns: 30px 1fr auto;
+  grid-template-areas: "seal name depth" "seal tier depth";
+  align-items: center;
+  column-gap: var(--space-3);
+  padding: var(--space-2) var(--space-4) var(--space-2) calc(var(--space-5) + 6px);
+  color: var(--color-ink);
+  background:
+    linear-gradient(90deg, color-mix(in oklab, var(--tier-color) 16%, transparent), transparent 60%),
+    var(--color-plate-veil);
+  border: 1px solid color-mix(in oklab, var(--tier-color) 55%, var(--color-rule));
+  /* a luggage-tag silhouette: chamfered left end with a punched eyelet */
+  clip-path: polygon(12px 0, 100% 0, 100% 100%, 12px 100%, 0 calc(100% - 12px), 0 12px);
+  -webkit-mask: radial-gradient(circle 4px at 13px 50%, transparent 97%, #000 100%);
+  mask: radial-gradient(circle 4px at 13px 50%, transparent 97%, #000 100%);
+  animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both;
+}
+.cth-specimen__seal { grid-area: seal; width: 30px; height: 30px; color: var(--tier-color); }
+.cth-specimen__name { grid-area: name; font: italic var(--step-1) / 1.15 var(--font-text); }
+.cth-specimen__tier {
+  grid-area: tier;
+  color: var(--tier-color);
+  font: var(--step--2) / 1.2 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  text-transform: uppercase;
+}
+.cth-specimen__depth {
+  grid-area: depth;
+  font: var(--step-0) / 1 var(--font-log);
+  font-variant-numeric: tabular-nums;
+  color: var(--tier-color);
+  white-space: nowrap;
+}
+.cth-specimen[data-tier="1"] { --tier-color: var(--color-tier-1); }
+.cth-specimen[data-tier="2"] { --tier-color: var(--color-tier-2); }
+.cth-specimen[data-tier="3"] { --tier-color: var(--color-tier-3); }
+.cth-specimen[data-tier="4"] { --tier-color: var(--color-tier-4); }
+.cth-specimen[data-tier="5"] { --tier-color: var(--color-tier-5); }
+.cth-specimen[data-tier="6"] { --tier-color: var(--color-tier-6); }
+[data-zone]:not([data-zone="surface"]) .cth-specimen[data-tier="4"],
+[data-zone]:not([data-zone="surface"]) .cth-specimen[data-tier="5"],
+[data-zone]:not([data-zone="surface"]) .cth-specimen[data-tier="6"] {
+  box-shadow: inset 0 0 22px -8px var(--tier-color);
+}
+@supports (background-clip: text) or (-webkit-background-clip: text) {
+  [data-zone]:not([data-zone="surface"]) .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth) {
+    background: linear-gradient(100deg, #ffd6f5, #c9b8ff 30%, #9fe9f5 55%, #ffe3a0 80%, #ffd6f5) 0 0 / 220% 100%;
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    animation: cth-pearl var(--dur-breath) linear infinite;
+  }
+}
+.cth-specimen[data-tier="refused"] {
+  --tier-color: var(--color-refused);
+  opacity: 0.86;
+  animation: cth-shudder 520ms var(--ease-surface);
+}
+.cth-specimen[data-tier="refused"] .cth-specimen__name {
+  text-decoration: line-through;
+  text-decoration-color: var(--color-refused);
+  text-decoration-thickness: 1.5px;
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------------ seal (large rarity medallion) */
+
+.cth-seal {
+  --tier-color: var(--color-tier-1);
+  --size: 132px;
+  display: inline-grid;
+  justify-items: center;
+  gap: var(--space-3);
+  margin: 0;
+}
+.cth-seal__disc {
+  position: relative;
+  display: grid;
+  place-items: center;
+  width: var(--size);
+  aspect-ratio: 1;
+  border-radius: 50%;
+  color: var(--tier-color);
+  border: 1px solid color-mix(in oklab, var(--tier-color) 70%, transparent);
+  outline: 1px solid color-mix(in oklab, var(--tier-color) 35%, transparent);
+  outline-offset: 5px;
+  background: radial-gradient(circle, color-mix(in oklab, var(--tier-color) 16%, transparent), transparent 68%);
+  box-shadow: 0 0 34px -6px color-mix(in oklab, var(--tier-color) 55%, transparent);
+  animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite;
+}
+.cth-seal__disc svg { width: 62%; height: 62%; }
+.cth-seal figcaption {
+  font: var(--step--1) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: uppercase;
+  color: var(--tier-color);
+}
+.cth-seal[data-tier="2"] { --tier-color: var(--color-tier-2); }
+.cth-seal[data-tier="3"] { --tier-color: var(--color-tier-3); }
+.cth-seal[data-tier="4"] { --tier-color: var(--color-tier-4); }
+.cth-seal[data-tier="5"] { --tier-color: var(--color-tier-5); }
+.cth-seal[data-tier="6"] { --tier-color: var(--color-tier-6); }
+.cth-seal[data-tier="6"] .cth-seal__disc::after {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  border-radius: 50%;
+  padding: 2px;
+  background: conic-gradient(from var(--cth-angle), #ffd6f5, #c9b8ff, #9fe9f5, #b6ec66, #ffe3a0, #ffd6f5);
+  -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  mask: linear-gradient(#000 0 0) content-box exclude, linear-gradient(#000 0 0);
+  animation: cth-turn var(--dur-breath) linear infinite;
+}
+
+/* ------------------------------------------------------------------ gauge (sounding line) */
+
+.cth-gauge {
+  /* reads --depth (0..1) from applyDepth() on an ancestor, or set it inline */
+  position: relative;
+  width: 76px;
+  height: 100%;
+  min-height: 320px;
+  color: var(--color-ink-muted);
+  font: var(--step--2) / 1 var(--font-log);
+}
+.cth-gauge__line {
+  position: absolute;
+  top: 0; bottom: 0; left: 14px;
+  width: 7px;
+  /* zone bands, then fathom ticks every 500 m */
+  background:
+    repeating-linear-gradient(to bottom, var(--color-rule) 0 1px, transparent 1px calc(100% / 14)),
+    linear-gradient(to bottom,
+      color-mix(in oklab, var(--color-tier-1) 30%, transparent) 0 2.857%,
+      color-mix(in oklab, var(--color-tier-2) 30%, transparent) 2.857% 14.286%,
+      color-mix(in oklab, var(--color-tier-3) 30%, transparent) 14.286% 57.143%,
+      color-mix(in oklab, var(--color-tier-4) 30%, transparent) 57.143% 85.714%,
+      color-mix(in oklab, var(--color-tier-5) 30%, transparent) 85.714% 100%);
+  border-left: 1px solid var(--color-rule);
+}
+.cth-gauge__line::after {          /* cable paid out so far */
+  content: "";
+  position: absolute;
+  left: 2px; top: 0;
+  width: 2px;
+  height: calc(var(--depth, 0) * 100%);
+  background: var(--color-glow);
+  box-shadow: 0 0 8px var(--color-glow-soft);
+  transition: height var(--dur-descent) var(--ease-descent);
+}
+.cth-gauge__marks { list-style: none; margin: 0; padding: 0; }
+.cth-gauge__marks li {
+  position: absolute;
+  left: 28px;
+  top: calc(var(--at) * 100%);
+  translate: 0 -50%;
+  white-space: nowrap;
+}
+.cth-gauge__bob {
+  position: absolute;
+  left: 8px;
+  top: calc(var(--depth, 0) * 100%);
+  width: 20px; height: 20px;
+  translate: 0 -50%;
+  border-radius: 50%;
+  border: 2px solid var(--color-ink);
+  background: radial-gradient(circle at 60% 55%, var(--color-glow) 0 3px, transparent 4px), var(--color-ground);
+  box-shadow: 0 0 14px var(--color-glow-soft);
+  transition: top var(--dur-descent) var(--ease-descent);
+}
+.cth-gauge__readout {
+  position: absolute;
+  left: 32px;
+  top: calc(var(--depth, 0) * 100%);
+  translate: 0 -50%;
+  padding: 2px 6px;
+  background: var(--color-ground);
+  color: var(--color-glow);
+  border: 1px solid var(--color-glow-soft);
+  font-size: var(--step--1);
+  white-space: nowrap;
+  transition: top var(--dur-descent) var(--ease-descent);
+}
+
+/* ------------------------------------------------------------------ telegram (toast) */
+
+.cth-telegram {
+  /* always a slip of surface paper, whatever the depth */
+  --paper: #efe7d4;
+  --ink: #1d1813;
+  position: relative;
+  max-width: 34ch;
+  padding: var(--space-4) var(--space-5);
+  color: var(--ink);
+  background: url("../textures/paper-grain.png") var(--paper);
+  background-blend-mode: multiply;
+  font: var(--step--1) / 1.5 var(--font-log);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  rotate: -1.2deg;
+  box-shadow: 0 14px 30px -12px rgb(0 0 0 / 0.6);
+  /* perforated top and bottom edges */
+  -webkit-mask: radial-gradient(circle 3px at 6px 0, transparent 97%, #000) top left / 12px 51% repeat-x,
+                radial-gradient(circle 3px at 6px 100%, transparent 97%, #000) bottom left / 12px 51% repeat-x;
+  mask: radial-gradient(circle 3px at 6px 0, transparent 97%, #000) top left / 12px 51% repeat-x,
+        radial-gradient(circle 3px at 6px 100%, transparent 97%, #000) bottom left / 12px 51% repeat-x;
+  animation: cth-lowered var(--dur-reveal) var(--ease-surface) both, cth-sway 7s var(--ease-drift) var(--dur-reveal) infinite;
+}
+.cth-telegram__head {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin-bottom: var(--space-2);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px dashed rgb(29 24 19 / 0.4);
+  font-size: var(--step--2);
+  letter-spacing: 0.16em;
+  opacity: 0.75;
+}
+.cth-telegram b { font-weight: 400; color: #8e2b1d; letter-spacing: 0.12em; }
+.cth-telegram p { margin: 0; }
+
+/* ------------------------------------------------------------------ log */
+
+.cth-log {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  color: var(--color-ink-muted);
+  font: var(--step--1) / var(--leading-log) var(--font-log);
+  letter-spacing: var(--tracking-log);
+}
+.cth-log li { display: grid; grid-template-columns: 7ch 1fr; gap: var(--space-3); }
+.cth-log time { color: var(--color-ink-faint); }
+.cth-log mark { background: none; color: var(--color-glow); }
+
+/* ------------------------------------------------------------------ zone title (chapter card) */
+
+.cth-zone-title { text-align: center; display: grid; justify-items: center; gap: var(--space-2); }
+.cth-zone-title__range {
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+}
+.cth-zone-title__name {
+  margin: 0;
+  font: italic var(--step-5) / 1 var(--font-display);
+  color: var(--color-ink);
+  text-shadow: 0 0 28px var(--color-glow-faint);
+  animation: cth-ink-bloom 2.4s var(--ease-surface) both;
+}
+.cth-zone-title__subtitle { margin: 0; font: italic var(--step-1) / 1.3 var(--font-text); color: var(--color-glow); }
+
+/* ------------------------------------------------------------------ rule */
+
+.cth-rule {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  color: var(--color-rule);
+  margin: var(--space-6) 0;
+}
+.cth-rule::before, .cth-rule::after {
+  content: "";
+  flex: 1;
+  height: 3px;
+  border-top: 1px solid currentColor;
+  border-bottom: 1px solid var(--color-rule-soft);
+}
+.cth-rule > * { flex: none; width: 20px; height: 20px; color: var(--color-glow); }
+
+/* ------------------------------------------------------------------ motion */
+
+@keyframes cth-breathe {
+  0%, 100% { filter: brightness(0.92); }
+  50% { filter: brightness(1.12); }
+}
+@keyframes cth-lure {
+  0%, 100% { filter: brightness(0.94) saturate(0.95); }
+  50% { filter: brightness(1.1) saturate(1.1); }
+}
+/* ink dropped in water: arrives blurred and spreading, then settles */
+@keyframes cth-ink-bloom {
+  0% { opacity: 0; filter: blur(8px); letter-spacing: 0.08em; transform: translateY(6px); }
+  60% { opacity: 1; filter: blur(0.6px); }
+  100% { opacity: 1; filter: none; letter-spacing: normal; transform: none; }
+}
+/* the deep refuses: a slow, damped shudder (no spring) */
+@keyframes cth-shudder {
+  0% { transform: translateX(0); }
+  18% { transform: translateX(-5px); }
+  38% { transform: translateX(3px); }
+  60% { transform: translateX(-1.5px); }
+  100% { transform: translateX(0); }
+}
+@keyframes cth-lowered {
+  from { opacity: 0; transform: translateY(-40px); }
+  to { opacity: 1; transform: none; }
+}
+@keyframes cth-sway {
+  0%, 100% { rotate: -1.2deg; }
+  50% { rotate: -0.4deg; }
+}
+@keyframes cth-pearl { to { background-position: -220% 0; } }
+@keyframes cth-turn { to { --cth-angle: 360deg; } }
+@keyframes cth-sink {
+  to { opacity: 0; transform: translateY(24px); filter: blur(4px); }
+}
+.cth-sink { animation: cth-sink var(--dur-reveal) var(--ease-sink) both; }
+
+@media (prefers-reduced-motion: reduce) {
+  .cth-plate, .cth-specimen, .cth-seal__disc, .cth-btn--lure, .cth-telegram,
+  .cth-zone-title__name, .cth-seal[data-tier="6"] .cth-seal__disc::after,
+  .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth), .cth-field__input {
+    animation: cth-fade 200ms linear both !important;
+  }
+  .cth-sink { animation: cth-fade 200ms linear reverse both !important; }
+  .cth-gauge__line::after, .cth-gauge__bob, .cth-gauge__readout { transition-duration: 1ms; }
+}
+@keyframes cth-fade { from { opacity: 0; } to { opacity: 1; } }
