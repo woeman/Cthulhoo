@@ -2,7 +2,8 @@ import type { DayRecord, ThemeCopy } from './types';
 import { landmarkFor, tierDef, zoneFor } from './theme';
 import { totalDepth } from './scoring';
 import { omenById } from './omens';
-import { paletteAt } from '../../art/js/depth.js';
+import { paletteAt, tierColor } from '../../art/js/depth.js';
+import { sealImageSrc, wordmarkImageSrc } from '../ui/art';
 
 // The share text (an emoji sounding line) and a portrait share card drawn on a
 // canvas in the house style: a sounding chart from bone paper to black water.
@@ -78,6 +79,19 @@ export function spreadLabels(ys: number[], gap: number, min: number, max: number
   return out;
 }
 
+const loadImage = (src: string) =>
+  new Promise<HTMLImageElement | null>((done) => {
+    const img = new Image();
+    img.onload = () => done(img);
+    img.onerror = () => done(null);
+    img.src = src;
+  });
+
+const REFUSED_ON_PAPER = '#a2321f';
+const REFUSED_ON_DARK = '#ff8a6e';
+const sealColour = (tier: number, onPaper: boolean) =>
+  tier < 1 ? (onPaper ? REFUSED_ON_PAPER : REFUSED_ON_DARK) : tierColor(tier, onPaper ? 'paper' : 'dark');
+
 export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob | null> {
   const W = 1080;
   const H = 1350;
@@ -86,16 +100,15 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   c.height = H;
   const g = c.getContext('2d');
   if (!g) return null;
-  try {
-    await Promise.all([
-      document.fonts.load('80px "IM Fell English SC"'),
-      document.fonts.load('italic 40px "IM Fell English"'),
-      document.fonts.load('60px "Special Elite"'),
-      document.fonts.load('36px "EB Garamond"'),
-    ]);
-  } catch {
+  const fontsReady = Promise.all([
+    document.fonts.load('80px "IM Fell English SC"'),
+    document.fonts.load('italic 40px "IM Fell English"'),
+    document.fonts.load('56px "IM Fell English"'),
+    document.fonts.load('60px "Special Elite"'),
+    document.fonts.load('36px "EB Garamond"'),
+  ]).catch(() => {
     /* fall back to whatever is available */
-  }
+  });
 
   const depth = totalDepth(rec);
   const end = paletteAt(Math.min(Math.max(depth, 1), 7000));
@@ -108,6 +121,37 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   const washBottom = yFor(340);
   const inversionAt = (y: number) => smooth(washTop, washBottom, y);
   const depthAtY = (y: number) => (y <= surfaceY ? 0 : Math.pow((y - surfaceY) / (chartBottom - surfaceY), 2) * 7000);
+
+  // The seven soundings, alternating sides of the line, each labelled with its rarity seal
+  // (the closed eye where the air ran out). Worked out first so the seals can load.
+  const x0 = 780;
+  const marks: Array<{ y: number; ly: number; tier: number; emoji: string; side: number; onPaper: boolean }> = [];
+  let sum = 0;
+  rec.answers.forEach((a, i) => {
+    sum += a.depth;
+    const emoji = a.tier === 0 ? theme.share.missEmoji : a.openSecret ? theme.openSecret.emoji : tierDef(theme, a.tier)?.emoji ?? '·';
+    marks.push({ y: yFor(sum), ly: 0, tier: a.tier, emoji, side: i % 2 === 0 ? -1 : 1, onPaper: false });
+  });
+  for (const side of [-1, 1]) {
+    const group = marks.filter((k) => k.side === side);
+    const ys = spreadLabels(group.map((k) => k.y), 62, surfaceY + 34, chartBottom + 40);
+    group.forEach((k, j) => {
+      k.ly = ys[j];
+      k.onPaper = inversionAt(k.ly) < 0.5;
+    });
+  }
+  const images = new Map<string, Promise<HTMLImageElement | null>>();
+  const image = (src: string) => {
+    if (!images.has(src)) images.set(src, loadImage(src));
+    return images.get(src)!;
+  };
+  const sealSrc = (tier: number, onPaper: boolean) => sealImageSrc(tier < 1 ? 'refused' : tier, sealColour(tier, onPaper));
+  const wordmarkReady = image(wordmarkImageSrc('#1d1813'));
+  marks.forEach((k) => (image(sealSrc(k.tier, k.onPaper)), image(sealSrc(k.tier, false))));
+  await fontsReady;
+  const loaded = new Map<string, HTMLImageElement | null>();
+  await Promise.all([...images].map(async ([src, p]) => loaded.set(src, await p)));
+  const sealImg = (tier: number, onPaper: boolean) => loaded.get(sealSrc(tier, onPaper)) ?? null;
 
   // ground: paper above, then the water column through the zone colours to black
   for (let y = 0; y < H; y += 2) {
@@ -164,7 +208,6 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   }
 
   // the plumb line, from a buoy on the surface down to where you came to rest
-  const x0 = 780;
   const restY = yFor(depth);
   g.lineWidth = 3;
   const lineGrad = g.createLinearGradient(0, surfaceY - 60, 0, restY);
@@ -183,33 +226,33 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   g.fill();
   g.fillRect(x0 - 2, surfaceY - 96, 4, 30);
 
-  // the seven soundings, labelled with their glyphs, alternating sides
-  const marks: Array<{ y: number; emoji: string; side: number }> = [];
-  let m = 0;
-  rec.answers.forEach((a, i) => {
-    m += a.depth;
-    const emoji = a.tier === 0 ? theme.share.missEmoji : a.openSecret ? theme.openSecret.emoji : tierDef(theme, a.tier)?.emoji ?? '·';
-    marks.push({ y: yFor(m), emoji, side: i % 2 === 0 ? -1 : 1 });
-  });
-  g.font = '46px system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif';
+  // the soundings and their seals
+  const emojiFont = '46px system-ui, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif';
   g.textAlign = 'center';
-  for (const side of [-1, 1]) {
-    const group = marks.filter((k) => k.side === side);
-    const ys = spreadLabels(group.map((k) => k.y), 58, surfaceY + 30, chartBottom + 40);
-    group.forEach((k, j) => {
-      const ly = ys[j];
-      const inv = inversionAt(k.y);
-      const tick = inv < 0.5 ? css(INK, 0.9) : css(end.rgb.glow, 0.85);
-      g.strokeStyle = tick;
-      g.lineWidth = 2;
-      g.beginPath();
-      g.moveTo(x0, k.y);
-      g.lineTo(x0 + side * 22, k.y);
-      g.lineTo(x0 + side * 46, ly);
-      g.lineTo(x0 + side * 58, ly);
-      g.stroke();
-      g.fillText(k.emoji, x0 + side * 92, ly + 2);
-    });
+  const SEAL = 58;
+  for (const k of marks) {
+    const inv = inversionAt(k.y);
+    g.strokeStyle = inv < 0.5 ? css(INK, 0.9) : css(end.rgb.glow, 0.85);
+    g.lineWidth = 2;
+    g.beginPath();
+    g.moveTo(x0, k.y);
+    g.lineTo(x0 + k.side * 22, k.y);
+    g.lineTo(x0 + k.side * 46, k.ly);
+    g.lineTo(x0 + k.side * 56, k.ly);
+    g.stroke();
+    const img = sealImg(k.tier, k.onPaper);
+    const cx = x0 + k.side * 92;
+    if (img) {
+      if (!k.onPaper) {
+        g.shadowColor = sealColour(k.tier, false);
+        g.shadowBlur = 18;
+      }
+      g.drawImage(img, cx - SEAL / 2, k.ly - SEAL / 2, SEAL, SEAL);
+      g.shadowBlur = 0;
+    } else {
+      g.font = emojiFont;
+      g.fillText(k.emoji, cx, k.ly + 2);
+    }
   }
   // the lead, resting
   g.beginPath();
@@ -220,12 +263,19 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   g.lineWidth = 3;
   g.stroke();
 
-  // masthead, printed on the paper above the water
+  // masthead, printed on the paper above the water: the wordmark, its double O two porthole eyes
   g.textAlign = 'center';
   g.textBaseline = 'alphabetic';
   g.fillStyle = css(INK);
-  g.font = '124px "IM Fell English SC", Georgia, serif';
-  g.fillText('Cthulhoo', W / 2, 168);
+  const mark = await wordmarkReady;
+  if (mark && mark.naturalWidth > 0) {
+    const mw = 700;
+    const mh = (mw * mark.naturalHeight) / mark.naturalWidth;
+    g.drawImage(mark, (W - mw) / 2, 176 - mh, mw, mh);
+  } else {
+    g.font = '124px "IM Fell English SC", Georgia, serif';
+    g.fillText('Cthulhoo', W / 2, 168);
+  }
   g.font = 'italic 36px "IM Fell English", Georgia, serif';
   g.fillStyle = '#5b5143';
   const omen = omenById(rec.omen);
@@ -245,9 +295,32 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   g.fillStyle = '#efe6d2';
   g.font = '56px "IM Fell English", Georgia, serif';
   g.fillText(landmark, W / 2, 1228);
+  // sanity, and the day's seals in a row (the emoji row where a seal will not draw)
   g.font = '30px "Special Elite", "Courier New", monospace';
   g.fillStyle = 'rgb(239 230 210 / 0.72)';
-  g.fillText(`sanity ${rec.sanity}%   ·   ${emojiRow(theme, rec)}`, W / 2, 1288);
+  const sanity = `sanity ${rec.sanity}%`;
+  const rowSeal = 36;
+  const rowGap = 12;
+  const row = rec.answers.map((a) => sealImg(a.tier, false));
+  if (row.length && row.every(Boolean)) {
+    const sanityW = g.measureText(sanity).width;
+    const rowW = row.length * rowSeal + (row.length - 1) * rowGap;
+    let x = W / 2 - (sanityW + 64 + rowW) / 2;
+    g.textAlign = 'left';
+    g.fillText(sanity, x, 1288);
+    g.textAlign = 'center';
+    g.fillText('·', x + sanityW + 32, 1288);
+    x += sanityW + 64;
+    row.forEach((img, i) => {
+      const tier = rec.answers[i].tier;
+      g.shadowColor = sealColour(tier, false);
+      g.shadowBlur = 10;
+      g.drawImage(img!, x + i * (rowSeal + rowGap), 1278 - rowSeal / 2, rowSeal, rowSeal);
+    });
+    g.shadowBlur = 0;
+  } else {
+    g.fillText(`${sanity}   ·   ${emojiRow(theme, rec)}`, W / 2, 1288);
+  }
 
   // burnt plate edge and a double rule
   const v = g.createRadialGradient(W / 2, H / 2, H * 0.38, W / 2, H / 2, H * 0.8);
