@@ -94,7 +94,7 @@ describe('a day in the career', () => {
   it('knows what the day added, and the milestones it passed', () => {
     const marks = [M(1500), M(2500), M(10000)];
     const c = computeCareer(days(...run(1, 2), dive(3, 2000)), 3, marks);
-    expect(careerDay(c, 3)).toEqual({ dive: { dive: 2000, mult: 1, gained: 2000, streak: 3 }, milestones: [1], wardEarned: false, before: 2000, after: 4000 });
+    expect(careerDay(c, 3)).toEqual({ dive: { dive: 2000, mult: 1, gained: 2000, streak: 3 }, riddle: 0, milestones: [1], wardEarned: false, before: 2000, after: 4000 });
     expect(careerDay(c, 2).milestones).toEqual([0]);
     expect(careerDay(c, 1).before).toBe(0);
   });

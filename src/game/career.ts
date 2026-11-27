@@ -5,8 +5,11 @@ import { totalDepth } from './scoring';
 // multiplies what each dive earns, a step for every full week it has burned.
 // A missed day lets you drift back up by a third of an average day, unless a ward
 // keeps the lantern lit, and milestones once passed are floors you never rise
-// above again. Everything is worked out afresh from the saved dives, so there is
-// no second store to fall out of step with them.
+// above again. A riddle of the Whispering Deep solved adds its metres on the
+// day it was solved, as they are: riddles never light the lantern, spend a ward
+// or change what an average day of drift is. Everything is worked out afresh
+// from the saved dives and riddles, so there is no second store to fall out of
+// step with them.
 
 export const WEEK = 7;
 export const MAX_WARDS = 2;
@@ -29,7 +32,16 @@ export type CareerEvent =
   | { kind: 'ward-earned'; day: number; streak: number }
   | { kind: 'ward-spent'; day: number }
   | { kind: 'drift'; day: number; metres: number }
+  | { kind: 'riddle'; day: number; metres: number }
   | { kind: 'milestone'; day: number; index: number };
+
+/** What the career needs of a day's riddle (the riddles' own saved attempt fits). */
+export interface RiddleSolve {
+  day: number;
+  status: string;
+  /** What solving it earned, after the whispers heard. */
+  metres?: number;
+}
 
 export interface CareerPoint {
   day: number;
@@ -55,6 +67,9 @@ export interface Career {
   /** What the next dive will earn at: today's, if today is not played yet. */
   nextMult: number;
   daysPlayed: number;
+  /** Metres the riddles have added, all told. */
+  fromRiddles: number;
+  riddlesSolved: number;
   firstDay: number | null;
   lastPlayed: number | null;
   points: CareerPoint[];
@@ -65,6 +80,11 @@ export interface Career {
   playedToday: boolean;
 }
 
+/** A riddle counts once solved, on its own day (never a day still to come). */
+function riddleCounts(r: RiddleSolve | undefined, today: number): r is RiddleSolve & { metres: number } {
+  return !!r && r.status === 'solved' && Number.isInteger(r.day) && r.day <= today && typeof r.metres === 'number' && r.metres > 0;
+}
+
 /** A dive counts for the career once it is finished, or if any answer was given before its day ended. */
 function counts(rec: DayRecord | undefined, today: number): boolean {
   if (!rec || rec.practice || !Number.isInteger(rec.day) || rec.day > today) return false;
@@ -72,9 +92,16 @@ function counts(rec: DayRecord | undefined, today: number): boolean {
   return rec.day < today && rec.answers.length > 0;
 }
 
-export function computeCareer(days: Record<number, DayRecord>, today: number, milestones: MilestoneDef[]): Career {
+export function computeCareer(
+  days: Record<number, DayRecord>,
+  today: number,
+  milestones: MilestoneDef[],
+  riddles: Record<number, RiddleSolve> = {},
+): Career {
   const dives = new Map<number, number>();
   for (const rec of Object.values(days)) if (counts(rec, today)) dives.set(rec.day, totalDepth(rec));
+  const solved = new Map<number, number>();
+  for (const r of Object.values(riddles)) if (riddleCounts(r, today)) solved.set(r.day, Math.round(r.metres));
   const marks = [...milestones].sort((a, b) => a.depth - b.depth);
 
   const career: Career = {
@@ -88,6 +115,8 @@ export function computeCareer(days: Record<number, DayRecord>, today: number, mi
     wards: 0,
     nextMult: 1,
     daysPlayed: dives.size,
+    fromRiddles: 0,
+    riddlesSolved: solved.size,
     firstDay: null,
     lastPlayed: null,
     points: [],
@@ -95,9 +124,9 @@ export function computeCareer(days: Record<number, DayRecord>, today: number, mi
     away: null,
     playedToday: dives.has(today),
   };
-  if (!dives.size) return career;
+  if (!dives.size && !solved.size) return career;
 
-  const first = Math.min(...dives.keys());
+  const first = Math.min(...dives.keys(), ...solved.keys());
   career.firstDay = first;
   const recent: number[] = [];
   let away = { days: 0, drift: 0, wardsSpent: 0 };
@@ -145,6 +174,13 @@ export function computeCareer(days: Record<number, DayRecord>, today: number, mi
       kind = 'today';
     }
 
+    const riddle = solved.get(day);
+    if (riddle !== undefined) {
+      career.depth += riddle;
+      career.fromRiddles += riddle;
+      career.events.push({ kind: 'riddle', day, metres: riddle });
+    }
+
     while (career.next >= 0 && career.depth >= marks[career.next].depth) {
       career.passed.push({ index: career.next, day });
       career.events.push({ kind: 'milestone', day, index: career.next });
@@ -158,7 +194,8 @@ export function computeCareer(days: Record<number, DayRecord>, today: number, mi
   // The lantern is still lit if yesterday was played or warded; the next dive
   // continues it. Otherwise it was put out by the last missed day (streak 0).
   career.nextMult = multiplierFor(career.streak + 1);
-  if (!career.playedToday && away.days > 0) career.away = away;
+  // Away is from the dives: a diver who has only solved riddles has nothing to be away from.
+  if (!career.playedToday && away.days > 0 && career.lastPlayed !== null) career.away = away;
   return career;
 }
 
@@ -174,6 +211,8 @@ export function toNextMilestone(career: Career, milestones: MilestoneDef[]): num
 export interface CareerDay {
   /** What the day's dive scored, the lantern's multiplier, and what it added to the career. */
   dive: { dive: number; mult: number; gained: number; streak: number } | null;
+  /** Metres the day's riddle added, 0 if none was solved. */
+  riddle: number;
   /** Milestones passed that day, as indices into the milestones sorted by depth. */
   milestones: number[];
   wardEarned: boolean;
@@ -187,14 +226,16 @@ export function careerDay(career: Career, day: number): CareerDay {
   let dive: CareerDay['dive'] = null;
   const milestones: number[] = [];
   let wardEarned = false;
+  let riddle = 0;
   for (const e of career.events) {
     if (e.day !== day) continue;
     if (e.kind === 'dive') dive = { dive: e.dive, mult: e.mult, gained: e.gained, streak: e.streak };
+    else if (e.kind === 'riddle') riddle += e.metres;
     else if (e.kind === 'milestone') milestones.push(e.index);
     else if (e.kind === 'ward-earned') wardEarned = true;
   }
   const i = career.points.findIndex((p) => p.day === day);
   const after = i >= 0 ? career.points[i].depth : career.depth;
   const before = i > 0 ? career.points[i - 1].depth : i === 0 ? 0 : career.depth;
-  return { dive, milestones, wardEarned, before, after };
+  return { dive, riddle, milestones, wardEarned, before, after };
 }

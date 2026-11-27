@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { computeCareer, lanternWeek, multiplierFor, toNextMilestone } from '../src/game/career';
+import { careerDay, computeCareer, lanternWeek, multiplierFor, toNextMilestone } from '../src/game/career';
 import type { DayRecord, MilestoneDef } from '../src/game/types';
 
 /** A finished dive worth `depth` metres on `day` (one answer carries it all). */
@@ -139,5 +139,39 @@ describe('career depth', () => {
       [4, 'today'],
     ]);
     expect(c.points[2].depth).toBeLessThan(c.points[1].depth);
+  });
+});
+
+describe('riddles in the career', () => {
+  const solved = (day: number, metres: number) => ({ day, status: 'solved', metres });
+  const riddles = (...rs: Array<{ day: number; status: string; metres?: number }>) => Object.fromEntries(rs.map((r) => [r.day, r]));
+
+  it('adds a solved riddle’s metres as they are, on its day', () => {
+    // Day 8 is the lantern's second week: the dive earns 1,100, the riddle its own 700.
+    const c = computeCareer(days(...run(1, 8)), 8, [], riddles(solved(8, 700), solved(3, 450)));
+    expect(c.depth).toBe(7 * 1000 + 1100 + 700 + 450);
+    expect(c.fromRiddles).toBe(1150);
+    expect(c.riddlesSolved).toBe(2);
+    expect(careerDay(c, 8)).toMatchObject({ riddle: 700, before: 7450, after: 9250 });
+    expect(careerDay(c, 4).riddle).toBe(0);
+  });
+
+  it('never lights the lantern, spends a ward or softens the drift', () => {
+    // Played days 1 to 3, then only the riddle on days 4 and 5: both are missed dives.
+    const c = computeCareer(days(...run(1, 3)), 6, [], riddles(solved(4, 1000), solved(5, 1000)));
+    expect(c.streak).toBe(0);
+    expect(c.daysPlayed).toBe(3);
+    // Each missed day drifts a third of the average dive (1,000), then the riddle adds its own.
+    expect(c.depth).toBe(3000 - 333 + 1000 - 333 + 1000);
+    expect(c.away).toMatchObject({ days: 2, drift: 666 });
+  });
+
+  it('counts a riddle solved before any dive, and only riddles solved', () => {
+    const c = computeCareer({}, 5, [M(900)], riddles(solved(2, 1000), { day: 3, status: 'sunk' }, { day: 4, status: 'playing' }, solved(9, 250)));
+    expect(c.depth).toBe(1000);
+    expect(c.firstDay).toBe(2);
+    expect(c.passed).toEqual([{ index: 0, day: 2 }]);
+    expect(c.daysPlayed).toBe(0);
+    expect(c.away).toBeNull(); // nothing to drift from: no telegram
   });
 });
