@@ -440,9 +440,12 @@ spelling from the last committed version of each prompt you changed, plus
 every typo with one letter missing or two letters swapped, and lists anything
 that now lands differently. That is how you catch a new spelling that quietly
 steals typos from a common answer. Adding the old unit "Tola" to `units`,
-for example, would make "Tsla" ambiguous between it and Tesla. Some changes
-are meant (a trap that became an answer, a new tier), so read the list rather
-than aiming for zero. Add `--base origin/main` to compare against main
+for example, would make "Tsla" ambiguous between it and Tesla. A brand-new
+prompt is checked against itself instead: a typo of each answer should land
+on that answer or nowhere, so it lists the typos that land on another answer,
+a trap or "which one?", commonest answers first. Some of these are meant (a
+trap that became an answer, a new tier, two answers that really are a letter
+apart), so read the list rather than aiming for zero. Add `--base origin/main` to compare against main
 instead of the last commit, or name files (`sport misc`) to check only those.
 
 ## Keeping it fresh
