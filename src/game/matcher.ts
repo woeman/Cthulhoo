@@ -78,6 +78,8 @@ const ORDINALS = new Map(
     first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8, ninth: 9,
     tenth: 10, eleventh: 11, twelfth: 12, thirteenth: 13, fourteenth: 14, fifteenth: 15, sixteenth: 16,
     seventeenth: 17, eighteenth: 18, nineteenth: 19, twentieth: 20, thirtieth: 30,
+    // Common misspellings, so "Henry the Eigth" still meets Henry VIII.
+    eigth: 8, nineth: 9, twelth: 12, twelveth: 12, forth: 4,
   }),
 );
 const ROMAN = new Map<string, number>();
@@ -86,15 +88,24 @@ for (let n = 1; n <= 39; n++) {
   ROMAN.set('x'.repeat(Math.floor(n / 10)) + ones, n);
 }
 
-/** The number a regnal ordinal names, as [value, words used]: "eighth", "twenty third", "8" or "viii". */
-function ordinalAt(words: string[], i: number): [number, number] | null {
+/** The number an ordinal word names, as [value, words used]: "eighth" or "twenty third". */
+function ordinalWordAt(words: string[], i: number): [number, number] | null {
   const w = words[i];
   if (w === undefined) return null;
   const ord = ORDINALS.get(w);
   if (ord !== undefined) return [ord, 1];
   const tens = TENS.get(w);
-  const unit = ORDINALS.get(words[i + 1] ?? '');
-  if (tens !== undefined && unit !== undefined && unit < 10) return [tens + unit, 2];
+  const unit = ORDINALS.get(words[i + 1] ?? '') ?? 10;
+  if (tens !== undefined && unit < 10) return [tens + unit, 2];
+  return null;
+}
+
+/** The number a regnal ordinal names, as [value, words used]: "eighth", "twenty third", "8" or "viii". */
+function ordinalAt(words: string[], i: number): [number, number] | null {
+  const w = words[i];
+  if (w === undefined) return null;
+  const word = ordinalWordAt(words, i);
+  if (word) return word;
   if (/^\d+$/.test(w)) return [Number(w), 1];
   const roman = ROMAN.get(w);
   if (roman !== undefined) return [roman, 1];
@@ -155,10 +166,13 @@ function foldNumberWords(words: string[]): string[] {
 }
 
 /**
- * The folded form of an already normalised string: "st", "mt", "ft" and "dr" before
- * another word become saint, mount, fort and doctor; "8th" becomes "8"; after the
- * first word, "the eighth", "the 8" and "the viii" become "8" and a Roman numeral
- * from i to xxxix becomes its number; runs of number words become digits.
+ * The folded form of an already normalised string:
+ * - "st", "mt", "ft" and "dr" before another word become saint, mount, fort and doctor;
+ * - "8th" becomes "8";
+ * - "twenty third" becomes "23" anywhere;
+ * - after the first word, "the eighth", "the 8" and "the viii" become "8", and so do
+ *   a bare "eighth" and a Roman numeral from i to xxxix;
+ * - runs of number words become digits.
  */
 export function fold(normalized: string): string {
   const split = normalized.split(' ').filter(Boolean);
@@ -170,16 +184,36 @@ export function fold(normalized: string): string {
   const out: string[] = [];
   for (let i = 0; i < words.length; i++) {
     const w = words[i];
-    if (out.length > 0 && w === 'the') {
-      const ord = ordinalAt(words, i + 1);
-      if (ord) {
-        out.push(String(ord[0]));
-        i += ord[1];
+    // "twenty third" is one ordinal wherever it stands: "21st Century" meets "Twenty-first Century".
+    const tens = TENS.get(w);
+    const unit = ORDINALS.get(words[i + 1] ?? '') ?? 10;
+    if (tens !== undefined && unit < 10) {
+      out.push(String(tens + unit));
+      i += 1;
+      continue;
+    }
+    if (out.length > 0) {
+      if (w === 'the') {
+        const ord = ordinalAt(words, i + 1);
+        if (ord) {
+          out.push(String(ord[0]));
+          i += ord[1];
+          continue;
+        }
+      }
+      const word = ordinalWordAt(words, i);
+      if (word) {
+        out.push(String(word[0]));
+        i += word[1] - 1;
+        continue;
+      }
+      const roman = ROMAN.get(w);
+      if (roman !== undefined) {
+        out.push(String(roman));
         continue;
       }
     }
-    const roman = out.length > 0 ? ROMAN.get(w) : undefined;
-    out.push(roman !== undefined ? String(roman) : w);
+    out.push(w);
   }
   return foldNumberWords(out).join(' ');
 }
@@ -235,10 +269,10 @@ export function osaDistance(a: string, b: string, max = Infinity): number {
 const cache = new WeakMap<PromptDef, Compiled>();
 
 /** A list field as a list of strings. A bare string counts as a list of one, so a
- * slip in the data can never explode into single letters. */
+ * slip in the data can never explode into single letters, and a number counts as its digits. */
 function listOf(value: unknown): string[] {
-  if (Array.isArray(value)) return value.filter((v): v is string => typeof v === 'string');
-  return typeof value === 'string' ? [value] : [];
+  const text = (v: unknown) => (typeof v === 'number' && Number.isFinite(v) ? String(v) : v);
+  return (Array.isArray(value) ? value : [value]).map(text).filter((v): v is string => typeof v === 'string');
 }
 
 /** A list of answers or traps, skipping anything malformed. */
