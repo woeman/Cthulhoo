@@ -216,3 +216,77 @@ export function playerId(): string {
   write('id', id);
   return id;
 }
+
+// ---------------------------------------------------------------- riddles
+// The Whispering Deep keeps one attempt a day, keyed by day like the dives.
+
+type RiddleAttempt = import('./riddles').RiddleAttempt;
+type RiddleTry = import('./riddles').RiddleTry;
+const RIDDLE_STATES = ['playing', 'solved', 'sunk'];
+
+function cleanRiddleTry(v: unknown): RiddleTry | null {
+  const t = asObject(v);
+  if (!isStr(t.text) || !t.text.trim()) return null;
+  return t.near === true ? { text: t.text, near: true } : { text: t.text };
+}
+
+/** A saved riddle attempt as the game can use it, or null when it is too damaged to trust. */
+function cleanRiddleAttempt(v: unknown, key: string): RiddleAttempt | null {
+  const a = asObject(v);
+  if (!Number.isInteger(a.day) || String(a.day) !== key || !isStr(a.riddleId) || !a.riddleId || !RIDDLE_STATES.includes(a.status as string)) return null;
+  if (!Array.isArray(a.tries) || !Number.isInteger(a.hints) || (a.hints as number) < 0) return null;
+  const tries = a.tries.map(cleanRiddleTry);
+  if (!tries.every((t): t is RiddleTry => !!t)) return null;
+  const page = asObject(a.page);
+  return {
+    day: a.day as number,
+    date: isStr(a.date) ? a.date : '',
+    riddleId: a.riddleId,
+    tries,
+    hints: a.hints as number,
+    status: a.status as RiddleAttempt['status'],
+    ...(a.gaveUp === true ? { gaveUp: true } : {}),
+    ...(isStr(a.answer) ? { answer: a.answer } : {}),
+    ...(isStr(a.input) ? { input: a.input } : {}),
+    ...(isNum(a.metres) && a.metres >= 0 ? { metres: a.metres } : {}),
+    ...(isStr(page.title) && isStr(page.text) ? { page: { title: page.title, text: page.text } } : {}),
+    ...(isNum(a.startedAt) ? { startedAt: a.startedAt } : {}),
+    ...(isNum(a.endedAt) ? { endedAt: a.endedAt } : {}),
+  };
+}
+
+/** Saved riddle attempts by day. Parseable but damaged entries are dropped rather than crashing the game. */
+export function loadRiddles(): Record<number, RiddleAttempt> {
+  const out: Record<number, RiddleAttempt> = {};
+  for (const [key, v] of Object.entries(asObject(readJson('riddles')))) {
+    const rec = cleanRiddleAttempt(v, key);
+    if (rec) out[rec.day] = rec;
+  }
+  return out;
+}
+
+/**
+ * True when `next` only adds to `prev`: every refused guess kept in order, no
+ * whisper forgotten, and a finished riddle left as it ended. An unfinished attempt
+ * at a riddle the bank has since lost may be replaced by today's riddle.
+ */
+function extendsRiddle(prev: RiddleAttempt | undefined, next: RiddleAttempt): boolean {
+  if (!prev) return true;
+  if (prev.riddleId !== next.riddleId) return prev.status === 'playing';
+  if (prev.status !== 'playing') return next.status === prev.status && next.hints === prev.hints && next.tries.length === prev.tries.length;
+  return next.hints >= prev.hints && prev.tries.every((t, i) => next.tries[i]?.text === t.text);
+}
+
+/**
+ * Saves a day's riddle attempt and says whether it did. A save that would undo
+ * progress, such as a second tab still a guess behind, is refused, so a stale copy
+ * can never give back a breath, unhear a whisper or play a finished riddle again.
+ */
+export function saveRiddle(a: RiddleAttempt): boolean {
+  if (!Number.isInteger(a.day)) return false;
+  const all = loadRiddles();
+  if (!extendsRiddle(all[a.day], a)) return false;
+  all[a.day] = a;
+  write('riddles', JSON.stringify(all));
+  return true;
+}
