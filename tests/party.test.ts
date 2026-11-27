@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { SIGN_WORDS, makeSign, parseSign, signSpoken } from '../src/party/codes';
 import {
+  AWAY_GRACE_MS,
   GRACE_MS,
   LONE_BONUS,
   RISE_MS,
@@ -17,6 +18,7 @@ import {
   heraldsOf,
   join,
   leave,
+  lineDropped,
   mediumOf,
   newRoom,
   scoreCandle,
@@ -278,6 +280,63 @@ describe('a séance', () => {
     expect(r.phase).toBe('reveal');
     expect(alarmAt(r)).toBeNull();
     expect(r.totals.ada1).toBe(150);
+  });
+
+  it('waits a moment for a sitter whose line dropped, so a reload keeps its answer', () => {
+    const r = room();
+    begin(r, 'ada1', [planets], DEPTHS, 0);
+    speak(r, 'ada1', 'Mars', 3000);
+    // Cleo's phone reloads; Bram seals while it does. The candle waits.
+    expect(lineDropped(r, 'cleo', 4000)).toBe(true);
+    speak(r, 'bram', 'Saturn', 5000);
+    expect(r.phase).toBe('candle');
+    expect(alarmAt(r, 5000)).toBe(4000 + AWAY_GRACE_MS + 50);
+    // She is back in time and seals: the candle goes out at once.
+    join(r, 'cleo', 'Cleo', false, 7000);
+    expect(r.away?.cleo).toBeUndefined();
+    expect(alarmAt(r, 7000)).toBe(r.deadline + GRACE_MS + 50);
+    speak(r, 'cleo', 'Neptune', 7500);
+    expect(r.phase).toBe('reveal');
+    expect(r.results[0].voices.find((v) => v.sitter === 'cleo')).toMatchObject({ answer: 'Neptune' });
+  });
+
+  it('stops waiting for a dropped line once the grace runs out', () => {
+    const r = room();
+    begin(r, 'ada1', [planets], DEPTHS, 0);
+    speak(r, 'ada1', 'Mars', 3000);
+    speak(r, 'bram', 'Saturn', 3500);
+    lineDropped(r, 'cleo', 4000);
+    expect(tick(r, 4000 + AWAY_GRACE_MS - 1)).toBe(false);
+    expect(r.phase).toBe('candle');
+    expect(tick(r, 4000 + AWAY_GRACE_MS)).toBe(true);
+    expect(r.phase).toBe('reveal');
+    expect(r.results[0].voices.find((v) => v.sitter === 'cleo')).toMatchObject({ input: null, depth: 0 });
+  });
+
+  it('only sets the clock for a dropped line that still has to seal', () => {
+    const r = room();
+    begin(r, 'ada1', [planets], DEPTHS, 0);
+    speak(r, 'cleo', 'Neptune', 2000);
+    lineDropped(r, 'cleo', 3000);
+    expect(alarmAt(r, 3000)).toBe(r.deadline + GRACE_MS + 50);
+    // A sealed voice is not waited for: the others sealing puts the candle out.
+    speak(r, 'ada1', 'Mars', 4000);
+    speak(r, 'bram', 'Saturn', 4500);
+    expect(r.phase).toBe('reveal');
+    // And a wait that is over is never set again, so the clock cannot spin.
+    const r2 = room();
+    begin(r2, 'ada1', [planets], DEPTHS, 0);
+    lineDropped(r2, 'cleo', 3000);
+    expect(alarmAt(r2, 3000 + AWAY_GRACE_MS + 50)).toBe(r2.deadline + GRACE_MS + 50);
+  });
+
+  it('does not wait for a sitter who chose to leave', () => {
+    const r = room();
+    begin(r, 'ada1', [planets], DEPTHS, 0);
+    speak(r, 'ada1', 'Mars', 3000);
+    speak(r, 'bram', 'Saturn', 3500);
+    leave(r, 'cleo', 4000);
+    expect(r.phase).toBe('reveal');
   });
 
   it('lets a latecomer answer the candle that burns', () => {

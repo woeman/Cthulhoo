@@ -12,10 +12,9 @@ import {
   configure,
   join,
   leave,
+  lineDropped,
   newRoom,
   reviveRoom,
-  setOnline,
-  settle,
   speak,
   tick,
   viewFor,
@@ -172,10 +171,8 @@ export class Seance extends DurableObject<Env> {
     ws.serializeAttachment(null);
     const still = this.ctx.getWebSockets().some((other) => other !== ws && (other.deserializeAttachment() as Attachment | null)?.id === id);
     if (still) return;
-    if (setOnline(room, id, false)) {
-      settle(room);
-      void this.commit();
-    }
+    // A burning candle waits a moment for a reload before it goes out without them.
+    if (lineDropped(room, id, Date.now())) void this.commit();
   }
 
   private async after(ws: WebSocket, res: { ok: true } | { ok: false; code: ErrorCode; message: string }) {
@@ -198,7 +195,7 @@ export class Seance extends DurableObject<Env> {
   private async schedule() {
     const room = this.room;
     if (!room) return;
-    const candle = alarmAt(room);
+    const candle = alarmAt(room, Date.now());
     const expiry = room.touched + ROOM_TTL_MS;
     await this.ctx.storage.setAlarm(Math.min(candle ?? expiry, expiry));
   }

@@ -33,6 +33,12 @@ export const GRACE_MS = 800;
 export const UNSAID_SHOWN = 3;
 /** A room nobody has touched for this long is forgotten. */
 export const ROOM_TTL_MS = 12 * 60 * 60 * 1000;
+/**
+ * A voice whose line dropped (a phone reloading, locking, going under a bridge) is
+ * waited for this long before a candle may go out without it, so the reload does
+ * not cost the answer it came back to give.
+ */
+export const AWAY_GRACE_MS = 10_000;
 /** The Drowned Script has this many glyphs for the circle's marks. */
 export const MARKS = 12;
 
@@ -70,6 +76,8 @@ export interface Room {
   totals: Record<string, number>;
   heralds: string[];
   nextMark: number;
+  /** When each sitter's line dropped, while they are away. Rooms saved before this have none. */
+  away?: Record<string, number>;
 }
 
 export type Outcome<T = object> = ({ ok: true } & T) | { ok: false; code: ErrorCode; message: string };
@@ -271,6 +279,7 @@ export function join(room: Room, id: string, rawName: unknown, table: boolean, n
   const known = byId(room, id);
   if (known) {
     known.online = true;
+    if (room.away) delete room.away[id];
     const name = cleanName(rawName);
     if (!known.table && name && room.phase === 'lobby') known.name = uniqueName(room, id, name);
     return { ok: true, sitter: known };
@@ -290,11 +299,24 @@ export function join(room: Room, id: string, rawName: unknown, table: boolean, n
   return { ok: true, sitter };
 }
 
-/** A device dropped or came back. Returns whether the circle should be told. */
+/** A device is here or gone, at once. Returns whether the circle should be told. */
 export function setOnline(room: Room, id: string, online: boolean): boolean {
   const s = byId(room, id);
   if (!s || s.online === online) return false;
   s.online = online;
+  if (room.away) delete room.away[id];
+  return true;
+}
+
+/**
+ * A device's line dropped without its sitter leaving. A burning candle waits for
+ * them a little (AWAY_GRACE_MS) before it may go out without their answer.
+ * Returns whether the circle should be told.
+ */
+export function lineDropped(room: Room, id: string, now: number): boolean {
+  if (!setOnline(room, id, false)) return false;
+  (room.away ??= {})[id] = now;
+  settle(room, now);
   return true;
 }
 
@@ -304,7 +326,11 @@ export function leave(room: Room, id: string, now: number): void {
   if (room.phase === 'lobby') {
     room.sitters = room.sitters.filter((s) => s.id !== id);
     delete room.totals[id];
-  } else setOnline(room, id, false);
+  } else {
+    setOnline(room, id, false);
+    // Nobody waits for a voice that chose to go.
+    settle(room, now);
+  }
 }
 
 const mediumOnly = (room: Room, actor: string) => (mediumOf(room) === actor ? null : fail('medium', 'Only the medium can do that.'));
@@ -339,6 +365,7 @@ export function begin(room: Room, actor: string, prompts: unknown, depths: unkno
   if (!list.length || !table) return fail('bad', 'The medium sent nothing the deep could ask.');
   // Seats left empty before the first candle are cleared away.
   room.sitters = room.sitters.filter((s) => s.online || s.table);
+  room.away = {};
   if (!sittersOf(room).length) return fail('phase', 'Nobody is sitting.');
   room.prompts = list;
   room.depths = table;
@@ -375,15 +402,21 @@ export function speak(room: Room, actor: string, rawText: unknown, now: number):
     if (!tries.some((t) => fold(t) === fold(text)) && tries.length < 30) tries.push(text);
   } else if (heard.kind === 'sealed') {
     room.seals[actor] = { sitter: actor, input: text, answer: heard.answer, tier: heard.tier, at: now };
-    settle(room);
+    settle(room, now);
   }
   return { ok: true, heard };
 }
 
-/** Every voice still here has sealed: no need to wait for the wax. Returns whether the candle went out. */
-export function settle(room: Room): boolean {
+/** Whether a sitter's line dropped so lately that a candle still waits for them. */
+const awaited = (room: Room, id: string, now: number) => {
+  const at = room.away?.[id];
+  return at !== undefined && now - at < AWAY_GRACE_MS;
+};
+
+/** Every voice still here (or only just dropped) has sealed: no need to wait for the wax. Returns whether the candle went out. */
+export function settle(room: Room, now: number): boolean {
   if (room.phase !== 'candle') return false;
-  const here = room.circle.filter((id) => byId(room, id)?.online);
+  const here = room.circle.filter((id) => byId(room, id)?.online || awaited(room, id, now));
   if (!here.length || here.some((id) => !room.seals[id])) return false;
   snuff(room);
   return true;
@@ -391,15 +424,30 @@ export function settle(room: Room): boolean {
 
 /** Called by the clock. Returns whether anything changed. */
 export function tick(room: Room, now: number): boolean {
-  if (room.phase === 'candle' && now > room.deadline + GRACE_MS) {
+  if (room.phase !== 'candle') return false;
+  if (now > room.deadline + GRACE_MS) {
     snuff(room);
     return true;
   }
-  return false;
+  // A dropped line that did not come back in time is waited for no longer.
+  return settle(room, now);
 }
 
-/** When the clock must look at the room again. */
-export const alarmAt = (room: Room): number | null => (room.phase === 'candle' ? room.deadline + GRACE_MS + 50 : null);
+/**
+ * When the clock must look at the room again: when the candle gutters, or sooner,
+ * when the wait for a dropped line that has not sealed runs out.
+ */
+export function alarmAt(room: Room, now = -Infinity): number | null {
+  if (room.phase !== 'candle') return null;
+  let at = room.deadline + GRACE_MS + 50;
+  for (const id of room.circle) {
+    const since = room.away?.[id];
+    if (since === undefined || room.seals[id]) continue;
+    const ends = since + AWAY_GRACE_MS + 50;
+    if (ends > now && ends < at) at = ends;
+  }
+  return at;
+}
 
 export function advance(room: Room, actor: string, now: number): Outcome {
   const no = mediumOnly(room, actor);
@@ -428,6 +476,7 @@ export function again(room: Room, actor: string, now: number): Outcome {
   room.tries = {};
   room.circle = [];
   room.sitters = room.sitters.filter((s) => s.online);
+  room.away = {};
   room.totals = Object.fromEntries(sittersOf(room).map((s) => [s.id, 0]));
   room.touched = now;
   return { ok: true };

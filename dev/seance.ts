@@ -19,7 +19,7 @@ import { makeSign } from '../src/party/codes';
 import { boardFor, joinCult, leaveCult, newCult, weekOf, type Cult } from '../src/party/cult';
 import { RelayError, saveSeat, type Hello, type LinkHandlers, type LinkStatus, type SeancePeek } from '../src/party/online';
 import { addSitter, gutter, holder, newPass, nextCandle, passOn, speakPass, startPass, takeLantern, type PassState } from '../src/party/passplay';
-import { advance, again, alarmAt, begin, configure, GRACE_MS, join, leave, newRoom, setOnline, settle, speak, tick, viewFor, type Room } from '../src/party/room';
+import { advance, again, alarmAt, begin, configure, GRACE_MS, join, leave, lineDropped, newRoom, setOnline, speak, tick, viewFor, type Room } from '../src/party/room';
 import type { ClientMsg, ErrorCode, SeanceView, ServerMsg } from '../src/party/types';
 import { Abyss } from '../src/render/abyss';
 import { cultBody, PASS_KEY, postDiveToCult, seanceScreen, type SeanceDeps, type SeanceEnv, type SeanceOpts } from '../src/screens/seance';
@@ -473,10 +473,7 @@ class BenchRelay {
     if (!room || !id) return;
     const still = [...this.links].some((l) => l !== link && l.id === id && !l.cut && !l.closed);
     if (still) return;
-    if (setOnline(room, id, false)) {
-      settle(room);
-      this.commit(room);
-    }
+    if (lineDropped(room, id, this.clock.now())) this.commit(room);
   }
 
   /** Save, set the clock, and show every device its view. */
@@ -493,7 +490,7 @@ class BenchRelay {
   private schedule(room: Room) {
     clearTimeout(this.alarms.get(room.sign));
     if (!this.clock.running) return;
-    const at = alarmAt(room);
+    const at = alarmAt(room, this.clock.now());
     if (at !== null)
       this.alarms.set(
         room.sign,
@@ -1023,7 +1020,6 @@ Object.assign(window, {
       const r = relay.rooms.get(SIGN) ?? [...relay.rooms.values()].pop();
       if (!r) return;
       leave(r, botId(name), clock.now());
-      settle(r);
       relay.commit(r);
     },
     mend: () => {
