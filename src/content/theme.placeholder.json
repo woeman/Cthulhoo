@@ -1,0 +1,282 @@
+{
+  "version": 1,
+  "maxDepth": 7000,
+  "promptsPerDay": 7,
+  "secondsPerPrompt": 25,
+  "tiers": [
+    {
+      "tier": 1,
+      "key": "commonplace",
+      "name": "Commonplace",
+      "depth": 100,
+      "emoji": "🌊",
+      "blurb": "What most people say first.",
+      "lines": [
+        "Everyone said that. The gulls are laughing.",
+        "A safe answer. Safe answers stay near the surface.",
+        "The crowd agrees with you. The deep is unimpressed.",
+        "Half the world got there first. The water barely ripples.",
+        "Sensible. The abyss has no use for sensible."
+      ]
+    },
+    {
+      "tier": 2,
+      "key": "curious",
+      "name": "Curious",
+      "depth": 250,
+      "emoji": "🐟",
+      "blurb": "A step off the beaten shore.",
+      "lines": [
+        "A step off the beaten shore. The water cools.",
+        "Not the first answer anyone reaches for. You sink a little.",
+        "Some followed you here. Not many.",
+        "The sunlight thins. Curious."
+      ]
+    },
+    {
+      "tier": 3,
+      "key": "obscure",
+      "name": "Obscure",
+      "depth": 400,
+      "emoji": "🪼",
+      "blurb": "Few minds wander this far.",
+      "lines": [
+        "The light is going. Few minds wander this far down.",
+        "An answer from the dim places. The pressure builds.",
+        "The fish down here have stopped bothering with colour.",
+        "Fewer and fewer footprints in the silt."
+      ]
+    },
+    {
+      "tier": 4,
+      "key": "arcane",
+      "name": "Arcane",
+      "depth": 600,
+      "emoji": "🦑",
+      "blurb": "Old knowledge, rarely spoken.",
+      "lines": [
+        "Something with too many eyes takes note.",
+        "Only a handful of divers have reached for that one.",
+        "Old knowledge. The kind they stopped teaching.",
+        "The dark presses in, approving."
+      ]
+    },
+    {
+      "tier": 5,
+      "key": "forbidden",
+      "name": "Forbidden",
+      "depth": 800,
+      "emoji": "👁️",
+      "blurb": "You should not know that.",
+      "lines": [
+        "You should not know that. The deep is delighted.",
+        "Something vast turns over in its sleep. It heard you.",
+        "Almost no one went there. Almost.",
+        "The water around you has gone very still."
+      ]
+    },
+    {
+      "tier": 6,
+      "key": "unspeakable",
+      "name": "Unspeakable",
+      "depth": 1000,
+      "emoji": "🐙",
+      "blurb": "The rarest true answer the deep will accept.",
+      "lines": [
+        "That is not dead which can eternal lie. And nobody else said it.",
+        "The stars are right. The deep opens for you.",
+        "Unspeakable. No one at the surface will believe you.",
+        "A drowned bell rings once, for you alone."
+      ]
+    }
+  ],
+  "openSecret": {
+    "name": "Open Secret",
+    "emoji": "🤫",
+    "blurb": "Feels like forbidden knowledge. Everyone whispers it.",
+    "lines": [
+      "You thought that was forbidden knowledge. Everyone whispers it.",
+      "A secret, yes. The kind the whole village keeps.",
+      "So clever. So very, very common.",
+      "Every cultist in the coven had that one."
+    ]
+  },
+  "refused": {
+    "name": "Refused",
+    "emoji": "🫧",
+    "lines": {
+      "unknown": [
+        "The deep does not know that word.",
+        "Nothing answers from below.",
+        "The water swallows it without a sound.",
+        "Not among the drowned names. Try again."
+      ],
+      "decoy": [
+        "A real thing, but not one of these. The deep is particular.",
+        "Close to the truth, which is not the same as true.",
+        "True of something. Not of this."
+      ],
+      "ambiguous": [
+        "The deep heard two names at once. Be more precise.",
+        "Which one? The abyss wants the full name."
+      ],
+      "timeout": [
+        "You hesitated. The water closed over the question.",
+        "Too slow. The tide took your answer.",
+        "Silence. The deep takes silence as a no."
+      ]
+    }
+  },
+  "zones": [
+    { "key": "surface", "name": "The Shallows", "from": 0, "to": 200 },
+    { "key": "twilight", "name": "The Gloaming", "from": 200, "to": 1000 },
+    { "key": "midnight", "name": "The Stygian Dark", "from": 1000, "to": 4000 },
+    { "key": "abyss", "name": "The Cyclopean Abyss", "from": 4000, "to": 6000 },
+    { "key": "hadal", "name": "The Dreaming Deep", "from": 6000, "to": 7000 },
+    { "key": "floor", "name": "The Drowned City", "from": 7000, "to": 7001 }
+  ],
+  "landmarks": [
+    {
+      "zone": "surface", "from": 0, "to": 1, "name": "Still in the Boat",
+      "lines": [
+        "You never left the surface. The water is patient.",
+        "The boat rocks gently. Below, something is disappointed."
+      ]
+    },
+    {
+      "zone": "surface", "from": 1, "to": 200, "name": "The Harbour Lights",
+      "lines": [
+        "The harbour lamps still reach you. You could swim back. You won't.",
+        "Gulls circle overhead, waiting to see what you'll do."
+      ]
+    },
+    {
+      "zone": "twilight", "from": 200, "to": 600, "name": "The Kelp Cathedral",
+      "lines": [
+        "Columns of kelp sway like a congregation. Something here hums a hymn with no tune.",
+        "The light turns green and old. The kelp leans towards you as you pass."
+      ]
+    },
+    {
+      "zone": "twilight", "from": 600, "to": 1000, "name": "The Last Blue",
+      "lines": [
+        "The last trace of daylight drains away above you, like a door closing.",
+        "Blue becomes black. You did not notice the moment it happened."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 1000, "to": 1500, "name": "The Lantern Fields",
+      "lines": [
+        "Lights drift past at eye level. Some of them have teeth.",
+        "Every lantern down here is a lure. You followed one anyway."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 1500, "to": 2000, "name": "The Pale Shoals",
+      "lines": [
+        "Blind white fish part around you. They have never needed eyes.",
+        "Things without colour drift past without curiosity. You are the strange one here."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 2000, "to": 2500, "name": "The Silt Choir",
+      "lines": [
+        "The pressure sings in your ears. You are fairly sure it is singing your name.",
+        "The silt rises in slow clouds, like breath in cold air."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 2500, "to": 3000, "name": "The Sunken Steeple",
+      "lines": [
+        "A church spire rises from the mud, its bell still swaying. No one has rung it in centuries. It is ringing now.",
+        "A drowned steeple leans out of the dark. The weathervane points down."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 3000, "to": 3500, "name": "The Whale Fall",
+      "lines": [
+        "The ribs of something enormous arch over you like a ruined nave.",
+        "A whale came to rest here long ago. Something has been living inside it ever since."
+      ]
+    },
+    {
+      "zone": "midnight", "from": 3500, "to": 4000, "name": "The Black Smokers",
+      "lines": [
+        "Vents breathe heat into the cold. Things live here that should not live anywhere.",
+        "Chimneys of black stone exhale. The water tastes of iron and old pennies."
+      ]
+    },
+    {
+      "zone": "abyss", "from": 4000, "to": 4500, "name": "The Cyclopean Steps",
+      "lines": [
+        "Stairs carved for feet far larger than yours lead further down.",
+        "Each step is taller than a house. Someone built these. Someone used them."
+      ]
+    },
+    {
+      "zone": "abyss", "from": 4500, "to": 5000, "name": "The Wrong Angles",
+      "lines": [
+        "The stones meet at angles that make your eyes water. Geometry gives up here.",
+        "A corner that should be convex is somehow concave. Do not look at it for too long."
+      ]
+    },
+    {
+      "zone": "abyss", "from": 5000, "to": 5500, "name": "The Monolith Field",
+      "lines": [
+        "Great carved stones stand in rows. The carvings move when you stop looking.",
+        "Each monolith bears the same glyph. You almost understand it."
+      ]
+    },
+    {
+      "zone": "abyss", "from": 5500, "to": 6000, "name": "The Lip of the Trench",
+      "lines": [
+        "The seabed simply ends. Below is a darkness with depth to it.",
+        "You stand at the edge of a trench that has no bottom you can see. It can see you."
+      ]
+    },
+    {
+      "zone": "hadal", "from": 6000, "to": 6500, "name": "The Breathing Dark",
+      "lines": [
+        "You hear breathing. It is very slow, and very large, and it is not yours.",
+        "The water moves in long, patient tides, in and out, in and out."
+      ]
+    },
+    {
+      "zone": "hadal", "from": 6500, "to": 7000, "name": "The Threshold",
+      "lines": [
+        "A door the size of a cliff stands ajar. Warm water flows out of it.",
+        "Carved on the lintel, in letters older than letters: your name."
+      ]
+    },
+    {
+      "zone": "floor", "from": 7000, "to": 7001, "name": "The Drowned City",
+      "lines": [
+        "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn. The city has been expecting you.",
+        "Seven true and unspeakable answers. The door opens. The dreamer stirs."
+      ]
+    }
+  ],
+  "categories": {
+    "geography": { "name": "Geography", "title": "Charts of the Drowned World" },
+    "science": { "name": "Science", "title": "The Alchemist's Ledger" },
+    "nature": { "name": "Nature", "title": "The Bestiary" },
+    "culture": { "name": "Culture", "title": "The Library Below" },
+    "history": { "name": "History", "title": "The Sunken Archive" },
+    "myth": { "name": "Myth", "title": "Old Gods and Older Things" },
+    "food": { "name": "Food & Drink", "title": "The Sea-Cook's Pantry" },
+    "language": { "name": "Language", "title": "The Lexicon of Whispers" },
+    "sport": { "name": "Sport", "title": "The Drowned Games" },
+    "misc": { "name": "Miscellany", "title": "Flotsam and Jetsam" }
+  },
+  "share": {
+    "template": "Cthulhoo #{day} · {depth} m\n{emoji}\n{landmark}",
+    "missEmoji": "🫧"
+  },
+  "howToPlay": [
+    "Seven questions rise from the deep each day. Each has many true answers.",
+    "Answer before the water closes over the question. You have 25 seconds.",
+    "Common answers keep you in the shallows. The rarer your true answer, the deeper you sink.",
+    "A wrong answer costs nothing but time. Try again until the clock runs out.",
+    "Sink 7,000 metres and you reach the Drowned City."
+  ]
+}

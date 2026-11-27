@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Abyss Playground</title>
+<style>
+  html, body { margin: 0; height: 100%; background: #000; color: #e4d9bd; font: 13px/1.4 ui-monospace, monospace; overflow: hidden; }
+  canvas.abyss { position: fixed; inset: 0; width: 100vw; height: 100vh; display: block; }
+  #panel { position: fixed; left: 8px; bottom: 8px; background: rgb(0 0 0 / .6); padding: 8px 10px; border-radius: 6px; display: grid; grid-template-columns: auto 1fr auto; gap: 4px 8px; align-items: center; width: min(420px, calc(100vw - 16px)); box-sizing: border-box; }
+  #panel input { width: 100%; }
+  #panel.hidden { display: none; }
+</style>
+</head>
+<body>
+<div id="panel"></div>
+<script type="module">
+  import { Abyss } from '../src/render/abyss.ts';
+  const q = new URLSearchParams(location.search);
+  const abyss = new Abyss(document.body, { reducedMotion: false });
+  const panel = document.getElementById('panel');
+  if (q.has('clean')) panel.classList.add('hidden');
+  const controls = [
+    ['depth', -60, 9000, 10, Number(q.get('depth') ?? -32), (v) => abyss.jumpTo(v)],
+    ['eye', 0, 1, 0.01, Number(q.get('eye') ?? 0), (v) => abyss.setEye(v)],
+    ['madness', 0, 1, 0.01, Number(q.get('madness') ?? 0), (v) => (abyss.madness = v)],
+    ['tension', 0, 1, 0.01, Number(q.get('tension') ?? 0), (v) => (abyss.tension = v)],
+    ['flash', 0, 1, 0.01, Number(q.get('flash') ?? 0), (v) => abyss.pulse(v)],
+  ];
+  for (const [name, min, max, step, val, set] of controls) {
+    const label = document.createElement('label'); label.textContent = name;
+    const input = Object.assign(document.createElement('input'), { type: 'range', min, max, step, value: val });
+    const out = document.createElement('output'); out.textContent = val;
+    input.addEventListener('input', () => { out.textContent = input.value; set(Number(input.value)); });
+    panel.append(label, input, out);
+    set(val);
+  }
+  window.abyss = abyss;
+  abyss.start();
+</script>
+</body>
+</html>

@@ -1,0 +1,6406 @@
+{
+ "prompts": [
+  {
+   "id": "deep-sea-creatures",
+   "text": "Name a creature that lives in the deep sea",
+   "category": "nature",
+   "rules": "Anything that makes its home below the sunlit zone.",
+   "flavor": "Some of them have never seen light. Some of them make it.",
+   "answers": [
+    {
+     "answer": "Anglerfish",
+     "tier": 1,
+     "aliases": [
+      "angler fish",
+      "angler",
+      "deep sea anglerfish"
+     ]
+    },
+    {
+     "answer": "Giant squid",
+     "tier": 1
+    },
+    {
+     "answer": "Octopus",
+     "tier": 1,
+     "aliases": [
+      "octopi",
+      "octopuses"
+     ]
+    },
+    {
+     "answer": "Jellyfish",
+     "tier": 1,
+     "aliases": [
+      "jelly fish",
+      "jellies"
+     ]
+    },
+    {
+     "answer": "Shark",
+     "tier": 1,
+     "aliases": [
+      "sharks"
+     ]
+    },
+    {
+     "answer": "Squid",
+     "tier": 1
+    },
+    {
+     "answer": "Blobfish",
+     "tier": 2,
+     "aliases": [
+      "blob fish"
+     ]
+    },
+    {
+     "answer": "Colossal squid",
+     "tier": 2
+    },
+    {
+     "answer": "Sea cucumber",
+     "tier": 2,
+     "aliases": [
+      "holothurian"
+     ]
+    },
+    {
+     "answer": "Starfish",
+     "tier": 2,
+     "aliases": [
+      "sea star"
+     ]
+    },
+    {
+     "answer": "Vampire squid",
+     "tier": 3,
+     "aliases": [
+      "vampyroteuthis"
+     ]
+    },
+    {
+     "answer": "Gulper eel",
+     "tier": 3,
+     "aliases": [
+      "pelican eel",
+      "umbrellamouth gulper"
+     ]
+    },
+    {
+     "answer": "Viperfish",
+     "tier": 3,
+     "aliases": [
+      "viper fish"
+     ]
+    },
+    {
+     "answer": "Dumbo octopus",
+     "tier": 3,
+     "aliases": [
+      "dumbo",
+      "grimpoteuthis"
+     ]
+    },
+    {
+     "answer": "Giant isopod",
+     "tier": 3,
+     "aliases": [
+      "isopod"
+     ]
+    },
+    {
+     "answer": "Goblin shark",
+     "tier": 3
+    },
+    {
+     "answer": "Lanternfish",
+     "tier": 3,
+     "aliases": [
+      "lantern fish",
+      "myctophid"
+     ]
+    },
+    {
+     "answer": "Oarfish",
+     "tier": 3,
+     "aliases": [
+      "oar fish",
+      "giant oarfish"
+     ]
+    },
+    {
+     "answer": "Tube worm",
+     "tier": 3,
+     "aliases": [
+      "giant tube worm",
+      "tubeworm",
+      "riftia"
+     ]
+    },
+    {
+     "answer": "Nautilus",
+     "tier": 3,
+     "aliases": [
+      "chambered nautilus"
+     ]
+    },
+    {
+     "answer": "Greenland shark",
+     "tier": 3
+    },
+    {
+     "answer": "Japanese spider crab",
+     "tier": 3,
+     "aliases": [
+      "spider crab"
+     ]
+    },
+    {
+     "answer": "Coelacanth",
+     "tier": 4
+    },
+    {
+     "answer": "Frilled shark",
+     "tier": 4
+    },
+    {
+     "answer": "Barreleye",
+     "tier": 4,
+     "aliases": [
+      "barreleye fish",
+      "barrel eye",
+      "spookfish"
+     ]
+    },
+    {
+     "answer": "Fangtooth",
+     "tier": 4,
+     "aliases": [
+      "fangtooth fish",
+      "ogrefish"
+     ]
+    },
+    {
+     "answer": "Hatchetfish",
+     "tier": 4,
+     "aliases": [
+      "hatchet fish"
+     ]
+    },
+    {
+     "answer": "Sea pig",
+     "tier": 4,
+     "aliases": [
+      "scotoplanes"
+     ]
+    },
+    {
+     "answer": "Cookiecutter shark",
+     "tier": 4,
+     "aliases": [
+      "cookie cutter shark"
+     ]
+    },
+    {
+     "answer": "Black dragonfish",
+     "tier": 4,
+     "aliases": [
+      "dragonfish",
+      "dragon fish"
+     ]
+    },
+    {
+     "answer": "Comb jelly",
+     "tier": 4,
+     "aliases": [
+      "ctenophore"
+     ]
+    },
+    {
+     "answer": "Chimaera",
+     "tier": 4,
+     "aliases": [
+      "ghost shark",
+      "ratfish"
+     ]
+    },
+    {
+     "answer": "Firefly squid",
+     "tier": 4,
+     "aliases": [
+      "hotaru ika"
+     ]
+    },
+    {
+     "answer": "Brittle star",
+     "tier": 4
+    },
+    {
+     "answer": "Orange roughy",
+     "tier": 4,
+     "aliases": [
+      "slimehead"
+     ]
+    },
+    {
+     "answer": "Hagfish",
+     "tier": 4,
+     "aliases": [
+      "slime eel"
+     ]
+    },
+    {
+     "answer": "King crab",
+     "tier": 4
+    },
+    {
+     "answer": "Sixgill shark",
+     "tier": 5,
+     "aliases": [
+      "bluntnose sixgill shark",
+      "six gill shark"
+     ]
+    },
+    {
+     "answer": "Megamouth shark",
+     "tier": 5,
+     "aliases": [
+      "megamouth"
+     ]
+    },
+    {
+     "answer": "Yeti crab",
+     "tier": 5,
+     "aliases": [
+      "kiwa"
+     ]
+    },
+    {
+     "answer": "Zombie worm",
+     "tier": 5,
+     "aliases": [
+      "osedax",
+      "bone worm"
+     ]
+    },
+    {
+     "answer": "Bristlemouth",
+     "tier": 5
+    },
+    {
+     "answer": "Black swallower",
+     "tier": 5
+    },
+    {
+     "answer": "Siphonophore",
+     "tier": 5,
+     "aliases": [
+      "giant siphonophore"
+     ]
+    },
+    {
+     "answer": "Pompeii worm",
+     "tier": 5,
+     "aliases": [
+      "alvinella"
+     ]
+    },
+    {
+     "answer": "Snailfish",
+     "tier": 5,
+     "aliases": [
+      "hadal snailfish",
+      "mariana snailfish"
+     ]
+    },
+    {
+     "answer": "Giant amphipod",
+     "tier": 5,
+     "aliases": [
+      "amphipod",
+      "hadal amphipod"
+     ]
+    },
+    {
+     "answer": "Basket star",
+     "tier": 5
+    },
+    {
+     "answer": "Glass sponge",
+     "tier": 5,
+     "aliases": [
+      "venus flower basket"
+     ]
+    },
+    {
+     "answer": "Tripod fish",
+     "tier": 5,
+     "aliases": [
+      "tripodfish",
+      "bathypterois"
+     ]
+    },
+    {
+     "answer": "Rattail",
+     "tier": 5,
+     "aliases": [
+      "grenadier",
+      "rat tail"
+     ]
+    },
+    {
+     "answer": "Glass squid",
+     "tier": 5,
+     "aliases": [
+      "cranchiid"
+     ]
+    },
+    {
+     "answer": "Sea spider",
+     "tier": 5,
+     "aliases": [
+      "pycnogonid"
+     ]
+    },
+    {
+     "answer": "Sea lily",
+     "tier": 5,
+     "aliases": [
+      "crinoid"
+     ]
+    },
+    {
+     "answer": "Lancetfish",
+     "tier": 5
+    },
+    {
+     "answer": "Deep sea coral",
+     "tier": 5,
+     "aliases": [
+      "cold water coral",
+      "lophelia"
+     ]
+    },
+    {
+     "answer": "Telescope octopus",
+     "tier": 6,
+     "aliases": [
+      "amphitretus"
+     ]
+    },
+    {
+     "answer": "Bigfin squid",
+     "tier": 6,
+     "aliases": [
+      "magnapinna"
+     ],
+     "lore": "Arms up to eight metres long, held out at strange elbows. Barely ever filmed."
+    },
+    {
+     "answer": "Stoplight loosejaw",
+     "tier": 6,
+     "aliases": [
+      "loosejaw"
+     ],
+     "lore": "Sees red light that its prey cannot, and hunts by it."
+    },
+    {
+     "answer": "Pacific blackdragon",
+     "tier": 6,
+     "aliases": [
+      "blackdragon"
+     ]
+    },
+    {
+     "answer": "Hairy angler",
+     "tier": 6,
+     "aliases": [
+      "caulophryne",
+      "fanfin angler"
+     ]
+    },
+    {
+     "answer": "Scaly-foot gastropod",
+     "tier": 6,
+     "aliases": [
+      "scaly foot snail",
+      "sea pangolin"
+     ],
+     "lore": "A snail that grows iron armour from the minerals of hydrothermal vents."
+    },
+    {
+     "answer": "Halosaur",
+     "tier": 6
+    },
+    {
+     "answer": "Cock-eyed squid",
+     "tier": 6,
+     "aliases": [
+      "cockeyed squid",
+      "histioteuthis"
+     ]
+    },
+    {
+     "answer": "Atolla jellyfish",
+     "tier": 6,
+     "aliases": [
+      "atolla",
+      "crown jellyfish"
+     ],
+     "lore": "When attacked it flashes in a spiral, calling bigger predators to eat its attacker."
+    },
+    {
+     "answer": "Giant phantom jelly",
+     "tier": 6,
+     "aliases": [
+      "stygiomedusa"
+     ],
+     "lore": "A bell a metre wide and ten-metre ribbons. Seen only around a hundred times."
+    },
+    {
+     "answer": "Cusk eel",
+     "tier": 6
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Whale",
+     "aliases": [
+      "whales",
+      "blue whale"
+     ],
+     "reason": "Whales breathe air; they only visit the deep."
+    },
+    {
+     "answer": "Sperm whale",
+     "reason": "It dives two kilometres down, but it always has to come back up for air."
+    },
+    {
+     "answer": "Dolphin",
+     "aliases": [
+      "dolphins"
+     ],
+     "reason": "Dolphins breathe air and keep to the light."
+    },
+    {
+     "answer": "Kraken",
+     "reason": "Science has not catalogued it. Yet."
+    },
+    {
+     "answer": "Cthulhu",
+     "reason": "He is not a creature of the deep. He is the deep's dreamer."
+    },
+    {
+     "answer": "Megalodon",
+     "reason": "Extinct, as far as anyone has been able to tell."
+    }
+   ],
+   "decoys": [
+    "Mermaid",
+    "Orca",
+    "Clownfish",
+    "Seahorse",
+    "Salmon",
+    "Tuna",
+    "Seal",
+    "Turtle",
+    "Crab",
+    "Eel",
+    "Lobster"
+   ]
+  },
+  {
+   "id": "solar-system-bodies",
+   "text": "Name a planet, moon or dwarf planet of our solar system",
+   "category": "science",
+   "rules": "Planets, dwarf planets and named moons. The Sun is a star.",
+   "flavor": "The stars are right. Are the planets?",
+   "answers": [
+    {
+     "answer": "Earth",
+     "tier": 1
+    },
+    {
+     "answer": "Mars",
+     "tier": 1
+    },
+    {
+     "answer": "Jupiter",
+     "tier": 1
+    },
+    {
+     "answer": "Saturn",
+     "tier": 1
+    },
+    {
+     "answer": "Moon",
+     "tier": 1,
+     "aliases": [
+      "the moon",
+      "luna"
+     ]
+    },
+    {
+     "answer": "Venus",
+     "tier": 2
+    },
+    {
+     "answer": "Mercury",
+     "tier": 2
+    },
+    {
+     "answer": "Neptune",
+     "tier": 2
+    },
+    {
+     "answer": "Uranus",
+     "tier": 2
+    },
+    {
+     "answer": "Pluto",
+     "tier": 2
+    },
+    {
+     "answer": "Titan",
+     "tier": 3
+    },
+    {
+     "answer": "Europa",
+     "tier": 3
+    },
+    {
+     "answer": "Io",
+     "tier": 3
+    },
+    {
+     "answer": "Ganymede",
+     "tier": 3
+    },
+    {
+     "answer": "Phobos",
+     "tier": 3
+    },
+    {
+     "answer": "Callisto",
+     "tier": 3
+    },
+    {
+     "answer": "Enceladus",
+     "tier": 3
+    },
+    {
+     "answer": "Triton",
+     "tier": 3
+    },
+    {
+     "answer": "Charon",
+     "tier": 3
+    },
+    {
+     "answer": "Deimos",
+     "tier": 4
+    },
+    {
+     "answer": "Ceres",
+     "tier": 4
+    },
+    {
+     "answer": "Eris",
+     "tier": 4
+    },
+    {
+     "answer": "Miranda",
+     "tier": 4
+    },
+    {
+     "answer": "Oberon",
+     "tier": 4
+    },
+    {
+     "answer": "Titania",
+     "tier": 4
+    },
+    {
+     "answer": "Mimas",
+     "tier": 4
+    },
+    {
+     "answer": "Makemake",
+     "tier": 5
+    },
+    {
+     "answer": "Haumea",
+     "tier": 5
+    },
+    {
+     "answer": "Ariel",
+     "tier": 5
+    },
+    {
+     "answer": "Umbriel",
+     "tier": 5
+    },
+    {
+     "answer": "Rhea",
+     "tier": 5
+    },
+    {
+     "answer": "Dione",
+     "tier": 5
+    },
+    {
+     "answer": "Tethys",
+     "tier": 5
+    },
+    {
+     "answer": "Iapetus",
+     "tier": 5,
+     "lore": "Two-toned: one face as dark as coal, the other as bright as snow."
+    },
+    {
+     "answer": "Hyperion",
+     "tier": 5
+    },
+    {
+     "answer": "Phoebe",
+     "tier": 5
+    },
+    {
+     "answer": "Proteus",
+     "tier": 5
+    },
+    {
+     "answer": "Nereid",
+     "tier": 5
+    },
+    {
+     "answer": "Sedna",
+     "tier": 5,
+     "lore": "So far out that one orbit of the Sun takes it about eleven thousand years."
+    },
+    {
+     "answer": "Amalthea",
+     "tier": 6
+    },
+    {
+     "answer": "Himalia",
+     "tier": 6
+    },
+    {
+     "answer": "Gonggong",
+     "tier": 6
+    },
+    {
+     "answer": "Quaoar",
+     "tier": 6
+    },
+    {
+     "answer": "Orcus",
+     "tier": 6
+    },
+    {
+     "answer": "Pan",
+     "tier": 6
+    },
+    {
+     "answer": "Atlas",
+     "tier": 6
+    },
+    {
+     "answer": "Prometheus",
+     "tier": 6
+    },
+    {
+     "answer": "Pandora",
+     "tier": 6
+    },
+    {
+     "answer": "Janus",
+     "tier": 6
+    },
+    {
+     "answer": "Epimetheus",
+     "tier": 6
+    },
+    {
+     "answer": "Thebe",
+     "tier": 6
+    },
+    {
+     "answer": "Metis",
+     "tier": 6
+    },
+    {
+     "answer": "Adrastea",
+     "tier": 6
+    },
+    {
+     "answer": "Puck",
+     "tier": 6
+    },
+    {
+     "answer": "Larissa",
+     "tier": 6
+    },
+    {
+     "answer": "Galatea",
+     "tier": 6
+    },
+    {
+     "answer": "Despina",
+     "tier": 6
+    },
+    {
+     "answer": "Thalassa",
+     "tier": 6
+    },
+    {
+     "answer": "Naiad",
+     "tier": 6
+    },
+    {
+     "answer": "Hydra",
+     "tier": 6
+    },
+    {
+     "answer": "Nix",
+     "tier": 6
+    },
+    {
+     "answer": "Kerberos",
+     "tier": 6
+    },
+    {
+     "answer": "Styx",
+     "tier": 6
+    },
+    {
+     "answer": "Dysnomia",
+     "tier": 6
+    },
+    {
+     "answer": "Elara",
+     "tier": 6
+    },
+    {
+     "answer": "Pasiphae",
+     "tier": 6
+    },
+    {
+     "answer": "Sinope",
+     "tier": 6
+    },
+    {
+     "answer": "Lysithea",
+     "tier": 6
+    },
+    {
+     "answer": "Carme",
+     "tier": 6
+    },
+    {
+     "answer": "Ananke",
+     "tier": 6
+    },
+    {
+     "answer": "Leda",
+     "tier": 6
+    },
+    {
+     "answer": "Cordelia",
+     "tier": 6
+    },
+    {
+     "answer": "Ophelia",
+     "tier": 6
+    },
+    {
+     "answer": "Bianca",
+     "tier": 6
+    },
+    {
+     "answer": "Cressida",
+     "tier": 6
+    },
+    {
+     "answer": "Desdemona",
+     "tier": 6
+    },
+    {
+     "answer": "Juliet",
+     "tier": 6
+    },
+    {
+     "answer": "Portia",
+     "tier": 6
+    },
+    {
+     "answer": "Rosalind",
+     "tier": 6
+    },
+    {
+     "answer": "Belinda",
+     "tier": 6
+    },
+    {
+     "answer": "Caliban",
+     "tier": 6
+    },
+    {
+     "answer": "Sycorax",
+     "tier": 6
+    },
+    {
+     "answer": "Setebos",
+     "tier": 6
+    },
+    {
+     "answer": "Prospero",
+     "tier": 6
+    },
+    {
+     "answer": "Halimede",
+     "tier": 6
+    },
+    {
+     "answer": "Psamathe",
+     "tier": 6
+    },
+    {
+     "answer": "Sao",
+     "tier": 6
+    },
+    {
+     "answer": "Laomedeia",
+     "tier": 6
+    },
+    {
+     "answer": "Neso",
+     "tier": 6
+    },
+    {
+     "answer": "Hippocamp",
+     "tier": 6,
+     "lore": "A tiny moon of Neptune, probably a chip knocked off Proteus long ago."
+    },
+    {
+     "answer": "Weywot",
+     "tier": 6
+    },
+    {
+     "answer": "Vanth",
+     "tier": 6
+    },
+    {
+     "answer": "Hiiaka",
+     "tier": 6,
+     "aliases": [
+      "hi'iaka"
+     ]
+    },
+    {
+     "answer": "Namaka",
+     "tier": 6
+    },
+    {
+     "answer": "Xiangliu",
+     "tier": 6
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Sun",
+     "aliases": [
+      "the sun",
+      "sol"
+     ],
+     "reason": "The Sun is a star, not a planet or a moon."
+    },
+    {
+     "answer": "Planet X",
+     "aliases": [
+      "nibiru"
+     ],
+     "reason": "A myth. Nothing is out there but hope. Probably."
+    },
+    {
+     "answer": "Vulcan",
+     "reason": "A planet once predicted inside Mercury's orbit. It was never there."
+    },
+    {
+     "answer": "Theia",
+     "reason": "It struck the young Earth and made the Moon. It no longer exists."
+    },
+    {
+     "answer": "Vesta",
+     "reason": "An asteroid, not quite round enough to count as a dwarf planet."
+    },
+    {
+     "answer": "Halley's Comet",
+     "aliases": [
+      "halleys comet",
+      "halley"
+     ],
+     "reason": "A comet, not a planet or a moon."
+    }
+   ],
+   "decoys": [
+    "Sirius",
+    "Polaris",
+    "Andromeda",
+    "Orion",
+    "Asteroid",
+    "Kepler",
+    "Vega"
+   ]
+  },
+  {
+   "id": "colours",
+   "text": "Name a colour",
+   "category": "misc",
+   "rules": "Named colours. Simple qualifiers like 'navy blue' are fine.",
+   "flavor": "Lovecraft wrote of a colour out of space. We will settle for earthly ones.",
+   "answers": [
+    {
+     "answer": "Red",
+     "tier": 1
+    },
+    {
+     "answer": "Blue",
+     "tier": 1
+    },
+    {
+     "answer": "Green",
+     "tier": 1
+    },
+    {
+     "answer": "Yellow",
+     "tier": 1
+    },
+    {
+     "answer": "Black",
+     "tier": 1
+    },
+    {
+     "answer": "White",
+     "tier": 1
+    },
+    {
+     "answer": "Purple",
+     "tier": 1
+    },
+    {
+     "answer": "Orange",
+     "tier": 1
+    },
+    {
+     "answer": "Pink",
+     "tier": 1
+    },
+    {
+     "answer": "Brown",
+     "tier": 1
+    },
+    {
+     "answer": "Grey",
+     "tier": 1,
+     "aliases": [
+      "gray"
+     ]
+    },
+    {
+     "answer": "Violet",
+     "tier": 2
+    },
+    {
+     "answer": "Indigo",
+     "tier": 2
+    },
+    {
+     "answer": "Turquoise",
+     "tier": 2
+    },
+    {
+     "answer": "Teal",
+     "tier": 2
+    },
+    {
+     "answer": "Maroon",
+     "tier": 2
+    },
+    {
+     "answer": "Navy",
+     "tier": 2,
+     "aliases": [
+      "navy blue"
+     ]
+    },
+    {
+     "answer": "Beige",
+     "tier": 2
+    },
+    {
+     "answer": "Cyan",
+     "tier": 2
+    },
+    {
+     "answer": "Magenta",
+     "tier": 2
+    },
+    {
+     "answer": "Lavender",
+     "tier": 2
+    },
+    {
+     "answer": "Gold",
+     "tier": 2,
+     "aliases": [
+      "golden"
+     ]
+    },
+    {
+     "answer": "Silver",
+     "tier": 2
+    },
+    {
+     "answer": "Olive",
+     "tier": 2,
+     "aliases": [
+      "olive green"
+     ]
+    },
+    {
+     "answer": "Lime",
+     "tier": 2,
+     "aliases": [
+      "lime green"
+     ]
+    },
+    {
+     "answer": "Crimson",
+     "tier": 3
+    },
+    {
+     "answer": "Scarlet",
+     "tier": 3
+    },
+    {
+     "answer": "Lilac",
+     "tier": 3
+    },
+    {
+     "answer": "Mauve",
+     "tier": 3
+    },
+    {
+     "answer": "Ochre",
+     "tier": 3,
+     "aliases": [
+      "ocher"
+     ]
+    },
+    {
+     "answer": "Taupe",
+     "tier": 3
+    },
+    {
+     "answer": "Fuchsia",
+     "tier": 3
+    },
+    {
+     "answer": "Amber",
+     "tier": 3
+    },
+    {
+     "answer": "Khaki",
+     "tier": 3
+    },
+    {
+     "answer": "Bronze",
+     "tier": 3
+    },
+    {
+     "answer": "Copper",
+     "tier": 3
+    },
+    {
+     "answer": "Cream",
+     "tier": 3
+    },
+    {
+     "answer": "Coral",
+     "tier": 3
+    },
+    {
+     "answer": "Salmon",
+     "tier": 3
+    },
+    {
+     "answer": "Peach",
+     "tier": 3
+    },
+    {
+     "answer": "Mint",
+     "tier": 3,
+     "aliases": [
+      "mint green"
+     ]
+    },
+    {
+     "answer": "Plum",
+     "tier": 3
+    },
+    {
+     "answer": "Burgundy",
+     "tier": 3
+    },
+    {
+     "answer": "Charcoal",
+     "tier": 3
+    },
+    {
+     "answer": "Jade",
+     "tier": 3
+    },
+    {
+     "answer": "Emerald",
+     "tier": 3
+    },
+    {
+     "answer": "Azure",
+     "tier": 3
+    },
+    {
+     "answer": "Ivory",
+     "tier": 3
+    },
+    {
+     "answer": "Tan",
+     "tier": 3
+    },
+    {
+     "answer": "Aqua",
+     "tier": 3
+    },
+    {
+     "answer": "Rust",
+     "tier": 3
+    },
+    {
+     "answer": "Mustard",
+     "tier": 3
+    },
+    {
+     "answer": "Sage",
+     "tier": 3
+    },
+    {
+     "answer": "Slate",
+     "tier": 3
+    },
+    {
+     "answer": "Sepia",
+     "tier": 4
+    },
+    {
+     "answer": "Umber",
+     "tier": 4,
+     "aliases": [
+      "burnt umber",
+      "raw umber"
+     ]
+    },
+    {
+     "answer": "Vermilion",
+     "tier": 4,
+     "aliases": [
+      "vermillion"
+     ]
+    },
+    {
+     "answer": "Cerulean",
+     "tier": 4
+    },
+    {
+     "answer": "Chartreuse",
+     "tier": 4
+    },
+    {
+     "answer": "Aquamarine",
+     "tier": 4
+    },
+    {
+     "answer": "Ultramarine",
+     "tier": 4
+    },
+    {
+     "answer": "Ebony",
+     "tier": 4
+    },
+    {
+     "answer": "Periwinkle",
+     "tier": 4
+    },
+    {
+     "answer": "Carmine",
+     "tier": 4
+    },
+    {
+     "answer": "Cobalt",
+     "tier": 4,
+     "aliases": [
+      "cobalt blue"
+     ]
+    },
+    {
+     "answer": "Russet",
+     "tier": 4
+    },
+    {
+     "answer": "Sienna",
+     "tier": 4,
+     "aliases": [
+      "burnt sienna",
+      "raw sienna"
+     ]
+    },
+    {
+     "answer": "Sapphire",
+     "tier": 4
+    },
+    {
+     "answer": "Ruby",
+     "tier": 4
+    },
+    {
+     "answer": "Aubergine",
+     "tier": 4
+    },
+    {
+     "answer": "Magnolia",
+     "tier": 4
+    },
+    {
+     "answer": "Mahogany",
+     "tier": 4
+    },
+    {
+     "answer": "Saffron",
+     "tier": 4
+    },
+    {
+     "answer": "Terracotta",
+     "tier": 4
+    },
+    {
+     "answer": "Pewter",
+     "tier": 4
+    },
+    {
+     "answer": "Oxblood",
+     "tier": 4
+    },
+    {
+     "answer": "Champagne",
+     "tier": 4
+    },
+    {
+     "answer": "Cerise",
+     "tier": 4
+    },
+    {
+     "answer": "Chestnut",
+     "tier": 4
+    },
+    {
+     "answer": "Auburn",
+     "tier": 4
+    },
+    {
+     "answer": "Fawn",
+     "tier": 4
+    },
+    {
+     "answer": "Ecru",
+     "tier": 4
+    },
+    {
+     "answer": "Gunmetal",
+     "tier": 4
+    },
+    {
+     "answer": "Cinnamon",
+     "tier": 4
+    },
+    {
+     "answer": "Puce",
+     "tier": 5
+    },
+    {
+     "answer": "Viridian",
+     "tier": 5
+    },
+    {
+     "answer": "Cinnabar",
+     "tier": 5
+    },
+    {
+     "answer": "Celadon",
+     "tier": 5
+    },
+    {
+     "answer": "Heliotrope",
+     "tier": 5
+    },
+    {
+     "answer": "Amaranth",
+     "tier": 5
+    },
+    {
+     "answer": "Verdigris",
+     "tier": 5
+    },
+    {
+     "answer": "Wisteria",
+     "tier": 5
+    },
+    {
+     "answer": "Byzantium",
+     "tier": 5
+    },
+    {
+     "answer": "Tyrian purple",
+     "tier": 5,
+     "aliases": [
+      "tyrian"
+     ]
+    },
+    {
+     "answer": "Prussian blue",
+     "tier": 5
+    },
+    {
+     "answer": "Alizarin",
+     "tier": 5,
+     "aliases": [
+      "alizarin crimson"
+     ]
+    },
+    {
+     "answer": "Cochineal",
+     "tier": 5
+    },
+    {
+     "answer": "Celeste",
+     "tier": 5
+    },
+    {
+     "answer": "Carnelian",
+     "tier": 5
+    },
+    {
+     "answer": "Citrine",
+     "tier": 5
+    },
+    {
+     "answer": "Buff",
+     "tier": 5
+    },
+    {
+     "answer": "Greige",
+     "tier": 5
+    },
+    {
+     "answer": "Orchid",
+     "tier": 5
+    },
+    {
+     "answer": "Drab",
+     "tier": 5,
+     "aliases": [
+      "olive drab"
+     ]
+    },
+    {
+     "answer": "Lapis",
+     "tier": 5,
+     "aliases": [
+      "lapis lazuli"
+     ]
+    },
+    {
+     "answer": "Xanadu",
+     "tier": 6
+    },
+    {
+     "answer": "Eau de nil",
+     "tier": 6,
+     "aliases": [
+      "eau de nile"
+     ]
+    },
+    {
+     "answer": "Gamboge",
+     "tier": 6
+    },
+    {
+     "answer": "Glaucous",
+     "tier": 6,
+     "lore": "The dusty blue-grey of a sea seen through fog, or of an old eye."
+    },
+    {
+     "answer": "Isabelline",
+     "tier": 6,
+     "lore": "A pale greyish yellow, said to be named for a princess's unwashed linen."
+    },
+    {
+     "answer": "Sarcoline",
+     "tier": 6,
+     "lore": "Flesh-coloured. From the Greek for 'flesh'."
+    },
+    {
+     "answer": "Smaragdine",
+     "tier": 6
+    },
+    {
+     "answer": "Zaffre",
+     "tier": 6
+    },
+    {
+     "answer": "Coquelicot",
+     "tier": 6
+    },
+    {
+     "answer": "Falu red",
+     "tier": 6,
+     "aliases": [
+      "falun red"
+     ]
+    },
+    {
+     "answer": "Wenge",
+     "tier": 6
+    },
+    {
+     "answer": "Fulvous",
+     "tier": 6
+    },
+    {
+     "answer": "Sinopia",
+     "tier": 6
+    },
+    {
+     "answer": "Caput mortuum",
+     "tier": 6,
+     "lore": "'Dead head': a purple-brown pigment once said to be ground from mummies."
+    },
+    {
+     "answer": "Feldgrau",
+     "tier": 6
+    },
+    {
+     "answer": "Bistre",
+     "tier": 6,
+     "aliases": [
+      "bister"
+     ]
+    },
+    {
+     "answer": "Nankeen",
+     "tier": 6
+    },
+    {
+     "answer": "Payne's grey",
+     "tier": 6,
+     "aliases": [
+      "paynes grey",
+      "payne's gray"
+     ]
+    },
+    {
+     "answer": "Cyclamen",
+     "tier": 6
+    },
+    {
+     "answer": "Liver",
+     "tier": 6
+    },
+    {
+     "answer": "Thistle",
+     "tier": 6
+    },
+    {
+     "answer": "Gainsboro",
+     "tier": 6
+    },
+    {
+     "answer": "Damask",
+     "tier": 6
+    },
+    {
+     "answer": "Mikado",
+     "tier": 6
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Colour out of space",
+     "aliases": [
+      "the colour out of space",
+      "color out of space"
+     ],
+     "reason": "No one has ever named it. That is rather the point."
+    },
+    {
+     "answer": "Clear",
+     "aliases": [
+      "transparent",
+      "invisible"
+     ],
+     "reason": "The absence of colour is not a colour."
+    },
+    {
+     "answer": "Rainbow",
+     "reason": "Every colour at once is not a colour."
+    }
+   ],
+   "decoys": [
+    "Plaid",
+    "Tartan",
+    "Paisley",
+    "Polka dot",
+    "Neon"
+   ]
+  },
+  {
+   "id": "famous-ships",
+   "text": "Name a famous ship, real or fictional",
+   "category": "history",
+   "rules": "Sailing ships, warships, liners, submarines and wrecks. Spacecraft don't count.",
+   "flavor": "The sea remembers every hull it has swallowed.",
+   "answers": [
+    {
+     "answer": "Titanic",
+     "tier": 1,
+     "aliases": [
+      "rms titanic"
+     ]
+    },
+    {
+     "answer": "Mayflower",
+     "tier": 1
+    },
+    {
+     "answer": "Black Pearl",
+     "tier": 1
+    },
+    {
+     "answer": "Santa Maria",
+     "tier": 2
+    },
+    {
+     "answer": "Flying Dutchman",
+     "tier": 2
+    },
+    {
+     "answer": "Bounty",
+     "tier": 2,
+     "aliases": [
+      "hms bounty"
+     ]
+    },
+    {
+     "answer": "Lusitania",
+     "tier": 2
+    },
+    {
+     "answer": "Noah's Ark",
+     "tier": 2,
+     "aliases": [
+      "ark",
+      "noahs ark"
+     ]
+    },
+    {
+     "answer": "Bismarck",
+     "tier": 2
+    },
+    {
+     "answer": "Mary Rose",
+     "tier": 2
+    },
+    {
+     "answer": "Queen Mary",
+     "tier": 2
+    },
+    {
+     "answer": "Cutty Sark",
+     "tier": 2
+    },
+    {
+     "answer": "HMS Victory",
+     "tier": 2,
+     "aliases": [
+      "victory"
+     ]
+    },
+    {
+     "answer": "Enterprise",
+     "tier": 2,
+     "aliases": [
+      "uss enterprise"
+     ]
+    },
+    {
+     "answer": "Endurance",
+     "tier": 3
+    },
+    {
+     "answer": "Nautilus",
+     "tier": 3
+    },
+    {
+     "answer": "Pequod",
+     "tier": 3
+    },
+    {
+     "answer": "Mary Celeste",
+     "tier": 3,
+     "aliases": [
+      "marie celeste"
+     ]
+    },
+    {
+     "answer": "Golden Hind",
+     "tier": 3,
+     "aliases": [
+      "golden hinde"
+     ]
+    },
+    {
+     "answer": "USS Arizona",
+     "tier": 3,
+     "aliases": [
+      "arizona"
+     ]
+    },
+    {
+     "answer": "Yamato",
+     "tier": 3
+    },
+    {
+     "answer": "Endeavour",
+     "tier": 3,
+     "aliases": [
+      "endeavor",
+      "hms endeavour"
+     ]
+    },
+    {
+     "answer": "Beagle",
+     "tier": 3,
+     "aliases": [
+      "hms beagle"
+     ]
+    },
+    {
+     "answer": "Jolly Roger",
+     "tier": 3
+    },
+    {
+     "answer": "Argo",
+     "tier": 3
+    },
+    {
+     "answer": "Kon-Tiki",
+     "tier": 3,
+     "aliases": [
+      "kon tiki"
+     ]
+    },
+    {
+     "answer": "Queen Elizabeth 2",
+     "tier": 3,
+     "aliases": [
+      "qe2"
+     ]
+    },
+    {
+     "answer": "USS Constitution",
+     "tier": 3,
+     "aliases": [
+      "constitution",
+      "old ironsides"
+     ]
+    },
+    {
+     "answer": "Missouri",
+     "tier": 3,
+     "aliases": [
+      "uss missouri"
+     ]
+    },
+    {
+     "answer": "HMS Hood",
+     "tier": 3,
+     "aliases": [
+      "hood"
+     ]
+    },
+    {
+     "answer": "Vasa",
+     "tier": 3,
+     "aliases": [
+      "wasa"
+     ]
+    },
+    {
+     "answer": "Pinta",
+     "tier": 3
+    },
+    {
+     "answer": "Nina",
+     "tier": 3,
+     "aliases": [
+      "niña"
+     ]
+    },
+    {
+     "answer": "Queen Anne's Revenge",
+     "tier": 3,
+     "aliases": [
+      "queen annes revenge"
+     ]
+    },
+    {
+     "answer": "Edmund Fitzgerald",
+     "tier": 4
+    },
+    {
+     "answer": "Essex",
+     "tier": 4
+    },
+    {
+     "answer": "Andrea Doria",
+     "tier": 4
+    },
+    {
+     "answer": "Carpathia",
+     "tier": 4
+    },
+    {
+     "answer": "Erebus",
+     "tier": 4,
+     "aliases": [
+      "hms erebus"
+     ]
+    },
+    {
+     "answer": "Terror",
+     "tier": 4,
+     "aliases": [
+      "hms terror"
+     ]
+    },
+    {
+     "answer": "Monitor",
+     "tier": 4,
+     "aliases": [
+      "uss monitor"
+     ]
+    },
+    {
+     "answer": "Merrimack",
+     "tier": 4,
+     "aliases": [
+      "css virginia"
+     ]
+    },
+    {
+     "answer": "Olympic",
+     "tier": 4
+    },
+    {
+     "answer": "Calypso",
+     "tier": 4
+    },
+    {
+     "answer": "Discovery",
+     "tier": 4
+    },
+    {
+     "answer": "Tirpitz",
+     "tier": 4
+    },
+    {
+     "answer": "Kursk",
+     "tier": 4
+    },
+    {
+     "answer": "Exxon Valdez",
+     "tier": 4
+    },
+    {
+     "answer": "Costa Concordia",
+     "tier": 4
+    },
+    {
+     "answer": "Red October",
+     "tier": 4
+    },
+    {
+     "answer": "Dawn Treader",
+     "tier": 4
+    },
+    {
+     "answer": "Hispaniola",
+     "tier": 4
+    },
+    {
+     "answer": "Britannic",
+     "tier": 4
+    },
+    {
+     "answer": "Bluenose",
+     "tier": 5
+    },
+    {
+     "answer": "Fram",
+     "tier": 5
+    },
+    {
+     "answer": "Batavia",
+     "tier": 5
+    },
+    {
+     "answer": "Resolute",
+     "tier": 5
+    },
+    {
+     "answer": "Graf Spee",
+     "tier": 5,
+     "aliases": [
+      "admiral graf spee"
+     ]
+    },
+    {
+     "answer": "Scharnhorst",
+     "tier": 5
+    },
+    {
+     "answer": "Rainbow Warrior",
+     "tier": 5
+    },
+    {
+     "answer": "Estonia",
+     "tier": 5,
+     "aliases": [
+      "ms estonia"
+     ]
+    },
+    {
+     "answer": "Wilhelm Gustloff",
+     "tier": 5
+    },
+    {
+     "answer": "Sewol",
+     "tier": 5
+    },
+    {
+     "answer": "Andrea Gail",
+     "tier": 5
+    },
+    {
+     "answer": "Orca",
+     "tier": 5
+    },
+    {
+     "answer": "Lady Lovibond",
+     "tier": 6,
+     "lore": "Said to reappear on the Goodwin Sands every fifty years."
+    },
+    {
+     "answer": "Octavius",
+     "tier": 6,
+     "lore": "Said to have drifted for thirteen years with her frozen crew still at their posts."
+    },
+    {
+     "answer": "Caleuche",
+     "tier": 6,
+     "lore": "A ghost ship of Chiloé that sails beneath the water, crewed by the drowned."
+    },
+    {
+     "answer": "Sea Venture",
+     "tier": 6
+    },
+    {
+     "answer": "Thresher",
+     "tier": 6,
+     "aliases": [
+      "uss thresher"
+     ]
+    },
+    {
+     "answer": "Lancastria",
+     "tier": 6
+    },
+    {
+     "answer": "Doña Paz",
+     "tier": 6,
+     "aliases": [
+      "dona paz"
+     ]
+    },
+    {
+     "answer": "Alert",
+     "tier": 6,
+     "lore": "The steam yacht whose crew found a risen island in the Pacific, in a story from 1928."
+    },
+    {
+     "answer": "Emma",
+     "tier": 6,
+     "lore": "The schooner sunk by the Alert's crew before they found the city, in that same story."
+    },
+    {
+     "answer": "Narcissus",
+     "tier": 6
+    },
+    {
+     "answer": "Patna",
+     "tier": 6
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Millennium Falcon",
+     "reason": "A spacecraft. The deep asked for the sea."
+    },
+    {
+     "answer": "Nostromo",
+     "reason": "A spacecraft, though the name was borrowed from a novel. The deep asked for the sea."
+    },
+    {
+     "answer": "Serenity",
+     "reason": "A spacecraft. The deep asked for the sea."
+    }
+   ],
+   "decoys": [
+    "Boaty McBoatface",
+    "Spirit of St Louis",
+    "Hindenburg",
+    "Apollo 11",
+    "Columbia"
+   ]
+  },
+  {
+   "id": "words-for-fear",
+   "text": "Name a word that means fear",
+   "category": "language",
+   "rules": "Nouns and well-known expressions for fear. 'Fear' itself doesn't count.",
+   "flavor": "The oldest and strongest emotion of mankind is fear.",
+   "answers": [
+    {
+     "answer": "Terror",
+     "tier": 1
+    },
+    {
+     "answer": "Horror",
+     "tier": 1
+    },
+    {
+     "answer": "Panic",
+     "tier": 1
+    },
+    {
+     "answer": "Fright",
+     "tier": 1
+    },
+    {
+     "answer": "Dread",
+     "tier": 1
+    },
+    {
+     "answer": "Anxiety",
+     "tier": 2
+    },
+    {
+     "answer": "Phobia",
+     "tier": 2
+    },
+    {
+     "answer": "Alarm",
+     "tier": 2
+    },
+    {
+     "answer": "Worry",
+     "tier": 2
+    },
+    {
+     "answer": "Scare",
+     "tier": 2
+    },
+    {
+     "answer": "Angst",
+     "tier": 3
+    },
+    {
+     "answer": "Apprehension",
+     "tier": 3
+    },
+    {
+     "answer": "Unease",
+     "tier": 3
+    },
+    {
+     "answer": "Jitters",
+     "tier": 3
+    },
+    {
+     "answer": "Nerves",
+     "tier": 3
+    },
+    {
+     "answer": "Creeps",
+     "tier": 3
+    },
+    {
+     "answer": "Willies",
+     "tier": 3
+    },
+    {
+     "answer": "Trepidation",
+     "tier": 3
+    },
+    {
+     "answer": "Foreboding",
+     "tier": 3
+    },
+    {
+     "answer": "Paranoia",
+     "tier": 3
+    },
+    {
+     "answer": "Fearfulness",
+     "tier": 3
+    },
+    {
+     "answer": "Nervousness",
+     "tier": 3
+    },
+    {
+     "answer": "Heebie-jeebies",
+     "tier": 4,
+     "aliases": [
+      "heebie jeebies",
+      "heebiejeebies"
+     ]
+    },
+    {
+     "answer": "Misgiving",
+     "tier": 4
+    },
+    {
+     "answer": "Qualm",
+     "tier": 4
+    },
+    {
+     "answer": "Consternation",
+     "tier": 4
+    },
+    {
+     "answer": "Disquiet",
+     "tier": 4
+    },
+    {
+     "answer": "Hysteria",
+     "tier": 4
+    },
+    {
+     "answer": "Dismay",
+     "tier": 4
+    },
+    {
+     "answer": "Awe",
+     "tier": 4
+    },
+    {
+     "answer": "Distress",
+     "tier": 4
+    },
+    {
+     "answer": "Trembling",
+     "tier": 4
+    },
+    {
+     "answer": "Cold feet",
+     "tier": 4
+    },
+    {
+     "answer": "Butterflies",
+     "tier": 4
+    },
+    {
+     "answer": "Timidity",
+     "tier": 5
+    },
+    {
+     "answer": "Disquietude",
+     "tier": 5
+    },
+    {
+     "answer": "Perturbation",
+     "tier": 5
+    },
+    {
+     "answer": "Funk",
+     "tier": 5,
+     "aliases": [
+      "blue funk"
+     ]
+    },
+    {
+     "answer": "Frisson",
+     "tier": 5
+    },
+    {
+     "answer": "Jumpiness",
+     "tier": 5
+    },
+    {
+     "answer": "Collywobbles",
+     "tier": 5
+    },
+    {
+     "answer": "Agitation",
+     "tier": 5
+    },
+    {
+     "answer": "Shudder",
+     "tier": 5
+    },
+    {
+     "answer": "Affright",
+     "tier": 5
+    },
+    {
+     "answer": "Pavor",
+     "tier": 6,
+     "aliases": [
+      "pavor nocturnus"
+     ]
+    },
+    {
+     "answer": "Horripilation",
+     "tier": 6,
+     "lore": "The bristling of hair on the skin: what fear does before you know you are afraid."
+    },
+    {
+     "answer": "Phobophobia",
+     "tier": 6,
+     "lore": "The fear of fear itself."
+    },
+    {
+     "answer": "Panophobia",
+     "tier": 6,
+     "lore": "The fear of everything."
+    },
+    {
+     "answer": "Timorousness",
+     "tier": 6
+    },
+    {
+     "answer": "Alarum",
+     "tier": 6,
+     "lore": "The old form of 'alarm', a call to arms."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Fear",
+     "aliases": [
+      "fears"
+     ],
+     "reason": "The question already said that one."
+    }
+   ],
+   "decoys": [
+    "Courage",
+    "Bravery",
+    "Ghost",
+    "Monster",
+    "Scream",
+    "Nightmare"
+   ]
+  },
+  {
+   "id": "sea-monsters-and-gods",
+   "text": "Name a monster or god of the sea or deep waters, from any myth or legend",
+   "category": "myth",
+   "rules": "Myth, folklore and fiction all count.",
+   "flavor": "Some of these are only stories.",
+   "answers": [
+    {
+     "answer": "Kraken",
+     "tier": 1
+    },
+    {
+     "answer": "Poseidon",
+     "tier": 1
+    },
+    {
+     "answer": "Neptune",
+     "tier": 1
+    },
+    {
+     "answer": "Leviathan",
+     "tier": 2
+    },
+    {
+     "answer": "Cthulhu",
+     "tier": 2,
+     "openSecret": true
+    },
+    {
+     "answer": "Loch Ness Monster",
+     "tier": 2,
+     "aliases": [
+      "nessie"
+     ]
+    },
+    {
+     "answer": "Mermaid",
+     "tier": 2,
+     "aliases": [
+      "mermaids"
+     ]
+    },
+    {
+     "answer": "Siren",
+     "tier": 2,
+     "aliases": [
+      "sirens"
+     ]
+    },
+    {
+     "answer": "Sea serpent",
+     "tier": 2
+    },
+    {
+     "answer": "Davy Jones",
+     "tier": 3
+    },
+    {
+     "answer": "Scylla",
+     "tier": 3
+    },
+    {
+     "answer": "Charybdis",
+     "tier": 3
+    },
+    {
+     "answer": "Triton",
+     "tier": 3
+    },
+    {
+     "answer": "Dagon",
+     "tier": 3
+    },
+    {
+     "answer": "Hydra",
+     "tier": 3,
+     "aliases": [
+      "lernaean hydra"
+     ]
+    },
+    {
+     "answer": "Selkie",
+     "tier": 3
+    },
+    {
+     "answer": "Kelpie",
+     "tier": 3
+    },
+    {
+     "answer": "Godzilla",
+     "tier": 3
+    },
+    {
+     "answer": "Moby Dick",
+     "tier": 3,
+     "aliases": [
+      "moby-dick"
+     ]
+    },
+    {
+     "answer": "Jaws",
+     "tier": 3
+    },
+    {
+     "answer": "Proteus",
+     "tier": 4
+    },
+    {
+     "answer": "Oceanus",
+     "tier": 4
+    },
+    {
+     "answer": "Amphitrite",
+     "tier": 4
+    },
+    {
+     "answer": "Jormungandr",
+     "tier": 4,
+     "aliases": [
+      "jörmungandr",
+      "midgard serpent",
+      "world serpent"
+     ]
+    },
+    {
+     "answer": "Tiamat",
+     "tier": 4
+    },
+    {
+     "answer": "Cetus",
+     "tier": 4,
+     "aliases": [
+      "ketos"
+     ]
+    },
+    {
+     "answer": "Hippocampus",
+     "tier": 4
+    },
+    {
+     "answer": "Lorelei",
+     "tier": 4
+    },
+    {
+     "answer": "Kappa",
+     "tier": 4
+    },
+    {
+     "answer": "Nereid",
+     "tier": 4,
+     "aliases": [
+      "nereids"
+     ]
+    },
+    {
+     "answer": "Undine",
+     "tier": 4,
+     "aliases": [
+      "ondine"
+     ]
+    },
+    {
+     "answer": "Aegir",
+     "tier": 4,
+     "aliases": [
+      "ægir"
+     ]
+    },
+    {
+     "answer": "Njord",
+     "tier": 4,
+     "aliases": [
+      "njörd",
+      "njordr"
+     ]
+    },
+    {
+     "answer": "Calypso",
+     "tier": 4
+    },
+    {
+     "answer": "Thetis",
+     "tier": 4
+    },
+    {
+     "answer": "Ursula",
+     "tier": 4
+    },
+    {
+     "answer": "Nereus",
+     "tier": 5
+    },
+    {
+     "answer": "Rusalka",
+     "tier": 5
+    },
+    {
+     "answer": "Ran",
+     "tier": 5,
+     "aliases": [
+      "rán"
+     ]
+    },
+    {
+     "answer": "Ryujin",
+     "tier": 5,
+     "aliases": [
+      "ryūjin"
+     ]
+    },
+    {
+     "answer": "Umibozu",
+     "tier": 5
+    },
+    {
+     "answer": "Sedna",
+     "tier": 5
+    },
+    {
+     "answer": "Yemaya",
+     "tier": 5,
+     "aliases": [
+      "yemoja",
+      "iemanja"
+     ]
+    },
+    {
+     "answer": "Mami Wata",
+     "tier": 5
+    },
+    {
+     "answer": "Tangaroa",
+     "tier": 5,
+     "aliases": [
+      "tangaloa",
+      "tagaloa"
+     ]
+    },
+    {
+     "answer": "Manannan",
+     "tier": 5,
+     "aliases": [
+      "manannán",
+      "manannan mac lir"
+     ]
+    },
+    {
+     "answer": "Glaucus",
+     "tier": 5
+    },
+    {
+     "answer": "Thalassa",
+     "tier": 5
+    },
+    {
+     "answer": "Pontus",
+     "tier": 5
+    },
+    {
+     "answer": "Ceto",
+     "tier": 5
+    },
+    {
+     "answer": "Tethys",
+     "tier": 5
+    },
+    {
+     "answer": "Melusine",
+     "tier": 5
+    },
+    {
+     "answer": "Ningyo",
+     "tier": 5
+    },
+    {
+     "answer": "Bunyip",
+     "tier": 5
+    },
+    {
+     "answer": "Taniwha",
+     "tier": 5
+    },
+    {
+     "answer": "Lusca",
+     "tier": 5
+    },
+    {
+     "answer": "Deep Ones",
+     "tier": 5,
+     "aliases": [
+      "deep one"
+     ]
+    },
+    {
+     "answer": "Phorcys",
+     "tier": 6
+    },
+    {
+     "answer": "Doris",
+     "tier": 6
+    },
+    {
+     "answer": "Eurybia",
+     "tier": 6
+    },
+    {
+     "answer": "Thaumas",
+     "tier": 6
+    },
+    {
+     "answer": "Kymopoleia",
+     "tier": 6
+    },
+    {
+     "answer": "Palaemon",
+     "tier": 6
+    },
+    {
+     "answer": "Leucothea",
+     "tier": 6
+    },
+    {
+     "answer": "Nuckelavee",
+     "tier": 6,
+     "lore": "An Orkney sea-devil, a horse and rider fused together, with no skin at all."
+    },
+    {
+     "answer": "Ceasg",
+     "tier": 6
+    },
+    {
+     "answer": "Blue Men of the Minch",
+     "tier": 6
+    },
+    {
+     "answer": "Hafgufa",
+     "tier": 6,
+     "lore": "The Norse 'sea-mist': a monster that disguised itself as islands and rocks."
+    },
+    {
+     "answer": "Lyngbakr",
+     "tier": 6
+    },
+    {
+     "answer": "Aspidochelone",
+     "tier": 6,
+     "lore": "A sea beast so vast that sailors mistook its back for an island, and lit fires on it."
+    },
+    {
+     "answer": "Zaratan",
+     "tier": 6
+    },
+    {
+     "answer": "Bakunawa",
+     "tier": 6,
+     "lore": "A Philippine sea serpent said to cause eclipses by swallowing the Moon."
+    },
+    {
+     "answer": "Isonade",
+     "tier": 6
+    },
+    {
+     "answer": "Bake-kujira",
+     "tier": 6,
+     "aliases": [
+      "bakekujira"
+     ]
+    },
+    {
+     "answer": "Watatsumi",
+     "tier": 6
+    },
+    {
+     "answer": "Makara",
+     "tier": 6
+    },
+    {
+     "answer": "Varuna",
+     "tier": 6
+    },
+    {
+     "answer": "Rahab",
+     "tier": 6
+    },
+    {
+     "answer": "Vodyanoy",
+     "tier": 6
+    },
+    {
+     "answer": "Ahuizotl",
+     "tier": 6
+    },
+    {
+     "answer": "Encantado",
+     "tier": 6
+    },
+    {
+     "answer": "Iara",
+     "tier": 6,
+     "aliases": [
+      "yara"
+     ]
+    },
+    {
+     "answer": "Adaro",
+     "tier": 6
+    },
+    {
+     "answer": "Kanaloa",
+     "tier": 6
+    },
+    {
+     "answer": "Namaka",
+     "tier": 6
+    },
+    {
+     "answer": "Mother Hydra",
+     "tier": 6,
+     "lore": "Consort of Father Dagon, worshipped by the Deep Ones of Innsmouth."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Behemoth",
+     "reason": "Behemoth ruled the land. Its sibling Leviathan had the sea."
+    },
+    {
+     "answer": "Hastur",
+     "reason": "He waits by the Lake of Hali, on a world far from this sea."
+    },
+    {
+     "answer": "Nyarlathotep",
+     "reason": "The Crawling Chaos walks among people, not beneath the waves."
+    },
+    {
+     "answer": "Medusa",
+     "reason": "A gorgon of a far island, not a creature of the waves."
+    }
+   ],
+   "decoys": [
+    "Zeus",
+    "Thor",
+    "Dracula",
+    "Bigfoot",
+    "Yeti",
+    "Minotaur",
+    "Cerberus"
+   ]
+  },
+  {
+   "id": "countries-africa",
+   "text": "Name a country in Africa.",
+   "category": "geography",
+   "flavor": "The oldest bones of humankind lie here. Name a nation built above them.",
+   "rules": "Any of Africa's 54 sovereign states, island nations included.",
+   "answers": [
+    {
+     "answer": "Egypt",
+     "tier": 1
+    },
+    {
+     "answer": "Nigeria",
+     "tier": 1
+    },
+    {
+     "answer": "South Africa",
+     "aliases": [
+      "RSA",
+      "Republic of South Africa"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Kenya",
+     "tier": 1
+    },
+    {
+     "answer": "Morocco",
+     "tier": 1
+    },
+    {
+     "answer": "Ethiopia",
+     "aliases": [
+      "Abyssinia"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Ghana",
+     "tier": 2
+    },
+    {
+     "answer": "Madagascar",
+     "aliases": [
+      "Malagasy Republic"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "Home to lemurs, which live wild nowhere else on Earth."
+    },
+    {
+     "answer": "Algeria",
+     "tier": 2
+    },
+    {
+     "answer": "Libya",
+     "tier": 2
+    },
+    {
+     "answer": "Somalia",
+     "tier": 2
+    },
+    {
+     "answer": "Zimbabwe",
+     "aliases": [
+      "Rhodesia"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Uganda",
+     "tier": 2
+    },
+    {
+     "answer": "Tanzania",
+     "tier": 2
+    },
+    {
+     "answer": "Sudan",
+     "tier": 2
+    },
+    {
+     "answer": "Tunisia",
+     "tier": 2
+    },
+    {
+     "answer": "Rwanda",
+     "tier": 2
+    },
+    {
+     "answer": "Democratic Republic of the Congo",
+     "aliases": [
+      "DR Congo",
+      "DRC",
+      "Democratic Republic of Congo",
+      "Congo-Kinshasa",
+      "Zaire"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Senegal",
+     "tier": 3
+    },
+    {
+     "answer": "Cameroon",
+     "tier": 3
+    },
+    {
+     "answer": "Namibia",
+     "tier": 3
+    },
+    {
+     "answer": "Chad",
+     "tier": 3
+    },
+    {
+     "answer": "Mali",
+     "tier": 3
+    },
+    {
+     "answer": "Botswana",
+     "aliases": [
+      "Bechuanaland"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Angola",
+     "tier": 3
+    },
+    {
+     "answer": "Zambia",
+     "aliases": [
+      "Northern Rhodesia"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Niger",
+     "tier": 3
+    },
+    {
+     "answer": "Côte d'Ivoire",
+     "aliases": [
+      "Ivory Coast"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Mozambique",
+     "tier": 3
+    },
+    {
+     "answer": "Liberia",
+     "tier": 3
+    },
+    {
+     "answer": "Sierra Leone",
+     "tier": 3
+    },
+    {
+     "answer": "Eritrea",
+     "tier": 4
+    },
+    {
+     "answer": "Malawi",
+     "aliases": [
+      "Nyasaland"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Gambia",
+     "tier": 4
+    },
+    {
+     "answer": "Gabon",
+     "tier": 4
+    },
+    {
+     "answer": "Togo",
+     "tier": 4
+    },
+    {
+     "answer": "Benin",
+     "aliases": [
+      "Dahomey"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Burkina Faso",
+     "aliases": [
+      "Burkina",
+      "Upper Volta"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Lesotho",
+     "aliases": [
+      "Basutoland"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Guinea",
+     "tier": 4
+    },
+    {
+     "answer": "Mauritania",
+     "tier": 4
+    },
+    {
+     "answer": "Mauritius",
+     "tier": 4
+    },
+    {
+     "answer": "Seychelles",
+     "tier": 4
+    },
+    {
+     "answer": "South Sudan",
+     "tier": 4,
+     "lore": "The world's newest country, independent since 2011."
+    },
+    {
+     "answer": "Burundi",
+     "tier": 5
+    },
+    {
+     "answer": "Central African Republic",
+     "aliases": [
+      "CAR"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Djibouti",
+     "tier": 5
+    },
+    {
+     "answer": "Eswatini",
+     "aliases": [
+      "Swaziland"
+     ],
+     "tier": 5,
+     "lore": "Called Swaziland until 2018. Africa's last absolute monarchy."
+    },
+    {
+     "answer": "Republic of the Congo",
+     "aliases": [
+      "Republic of Congo",
+      "Congo-Brazzaville",
+      "Congo Republic"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Equatorial Guinea",
+     "tier": 5,
+     "lore": "The only African country with Spanish as an official language."
+    },
+    {
+     "answer": "Cabo Verde",
+     "aliases": [
+      "Cape Verde"
+     ],
+     "tier": 5,
+     "lore": "In 2013 it asked the world to stop translating its name and call it Cabo Verde."
+    },
+    {
+     "answer": "Guinea-Bissau",
+     "tier": 5
+    },
+    {
+     "answer": "Comoros",
+     "tier": 6,
+     "lore": "Its deep waters hide the coelacanth, a fish once thought to have died out with the dinosaurs."
+    },
+    {
+     "answer": "São Tomé and Príncipe",
+     "aliases": [
+      "São Tomé"
+     ],
+     "tier": 6,
+     "lore": "Africa's second-smallest country: two volcanic islands, with the equator crossing a tiny islet just offshore."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Congo",
+     "reason": "There are two Congos. Say which: the Republic of the Congo or DR Congo."
+    },
+    {
+     "answer": "Western Sahara",
+     "reason": "A disputed territory, not one of Africa's 54 recognised states."
+    },
+    {
+     "answer": "Somaliland",
+     "reason": "It has governed itself since 1991, but is not recognised as a state."
+    },
+    {
+     "answer": "Zanzibar",
+     "reason": "Part of Tanzania since 1964."
+    },
+    {
+     "answer": "Canary Islands",
+     "aliases": [
+      "Canaries"
+     ],
+     "reason": "Spanish islands, though they sit off the coast of Morocco."
+    },
+    {
+     "answer": "Réunion",
+     "reason": "A French overseas department, not a country."
+    },
+    {
+     "answer": "Mayotte",
+     "reason": "A French overseas department, not a country."
+    },
+    {
+     "answer": "Sahara",
+     "reason": "A desert, not a country. It is larger than most countries."
+    },
+    {
+     "answer": "Timbuktu",
+     "reason": "A city in Mali, not a country. It is real, though."
+    },
+    {
+     "answer": "Wakanda",
+     "reason": "Fictional. The deep checked."
+    }
+   ],
+   "decoys": [
+    "Guyana",
+    "Papua New Guinea",
+    "Bali",
+    "Brunei",
+    "Siberia",
+    "Yemen",
+    "Oman",
+    "Malta",
+    "Tonga",
+    "Mongolia",
+    "Monaco",
+    "Saudi Arabia",
+    "Iran",
+    "Iraq",
+    "Syria",
+    "Jordan",
+    "Lebanon",
+    "Israel",
+    "Palestine",
+    "Persia",
+    "Arabia",
+    "Romania",
+    "Tasmania",
+    "Bengal"
+   ]
+  },
+  {
+   "id": "landlocked-countries",
+   "text": "Name a landlocked country.",
+   "category": "geography",
+   "flavor": "Nations the sea has never touched. They sleep soundly. For now.",
+   "rules": "Any sovereign state with no coastline on an ocean or sea. Shores on the Caspian, which is a lake, don't count.",
+   "answers": [
+    {
+     "answer": "Switzerland",
+     "aliases": [
+      "Swiss Confederation",
+      "Schweiz",
+      "Suisse",
+      "Svizzera",
+      "Helvetia"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Austria",
+     "aliases": [
+      "Österreich"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Bolivia",
+     "tier": 1,
+     "lore": "Lost its coast to Chile in the War of the Pacific (1879 to 1884), and still keeps a navy."
+    },
+    {
+     "answer": "Hungary",
+     "aliases": [
+      "Magyarország"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Mongolia",
+     "tier": 1
+    },
+    {
+     "answer": "Paraguay",
+     "tier": 1
+    },
+    {
+     "answer": "Nepal",
+     "tier": 2
+    },
+    {
+     "answer": "Afghanistan",
+     "tier": 2
+    },
+    {
+     "answer": "Czechia",
+     "aliases": [
+      "Czech Republic"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Luxembourg",
+     "aliases": [
+      "Luxemburg"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Kazakhstan",
+     "aliases": [
+      "Kazakstan"
+     ],
+     "tier": 2,
+     "lore": "The largest landlocked country on Earth."
+    },
+    {
+     "answer": "Liechtenstein",
+     "tier": 2,
+     "openSecret": true,
+     "lore": "One of only two doubly landlocked countries: every neighbour is landlocked too."
+    },
+    {
+     "answer": "Vatican City",
+     "aliases": [
+      "Vatican",
+      "Holy See",
+      "Vatican City State"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The smallest country in the world, sealed inside Rome."
+    },
+    {
+     "answer": "Andorra",
+     "tier": 2,
+     "openSecret": true
+    },
+    {
+     "answer": "Chad",
+     "aliases": [
+      "Tchad"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Slovakia",
+     "aliases": [
+      "Slovak Republic"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Belarus",
+     "aliases": [
+      "Byelorussia",
+      "Belorussia"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Serbia",
+     "tier": 3
+    },
+    {
+     "answer": "Zambia",
+     "aliases": [
+      "Northern Rhodesia"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Zimbabwe",
+     "aliases": [
+      "Rhodesia",
+      "Southern Rhodesia"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Ethiopia",
+     "aliases": [
+      "Abyssinia"
+     ],
+     "tier": 3,
+     "lore": "Landlocked since Eritrea became independent in 1993."
+    },
+    {
+     "answer": "Mali",
+     "tier": 3
+    },
+    {
+     "answer": "Niger",
+     "tier": 3
+    },
+    {
+     "answer": "Uganda",
+     "tier": 3
+    },
+    {
+     "answer": "Rwanda",
+     "aliases": [
+      "Ruanda"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "San Marino",
+     "tier": 3
+    },
+    {
+     "answer": "Laos",
+     "aliases": [
+      "Lao PDR",
+      "Lao"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Bhutan",
+     "tier": 3
+    },
+    {
+     "answer": "Uzbekistan",
+     "tier": 4,
+     "lore": "The other doubly landlocked country. Reaching the sea means crossing two borders."
+    },
+    {
+     "answer": "Botswana",
+     "aliases": [
+      "Bechuanaland"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Lesotho",
+     "aliases": [
+      "Basutoland"
+     ],
+     "tier": 4,
+     "lore": "Entirely surrounded by South Africa."
+    },
+    {
+     "answer": "Malawi",
+     "aliases": [
+      "Nyasaland"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Moldova",
+     "aliases": [
+      "Moldavia",
+      "Republic of Moldova"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "North Macedonia",
+     "aliases": [
+      "Macedonia",
+      "FYROM"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Burkina Faso",
+     "aliases": [
+      "Burkina",
+      "Upper Volta"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Armenia",
+     "tier": 4
+    },
+    {
+     "answer": "Kyrgyzstan",
+     "aliases": [
+      "Kirghizia",
+      "Kyrgyz Republic",
+      "Kirgizstan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Tajikistan",
+     "aliases": [
+      "Tadjikistan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Turkmenistan",
+     "aliases": [
+      "Turkmenia"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Burundi",
+     "tier": 5
+    },
+    {
+     "answer": "Central African Republic",
+     "aliases": [
+      "CAR"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "South Sudan",
+     "tier": 5,
+     "lore": "The world's newest country, independent since 2011."
+    },
+    {
+     "answer": "Kosovo",
+     "aliases": [
+      "Kosova"
+     ],
+     "tier": 5,
+     "lore": "Declared independence in 2008 and is recognised by roughly half the world's countries."
+    },
+    {
+     "answer": "Eswatini",
+     "aliases": [
+      "Swaziland",
+      "Kingdom of Eswatini"
+     ],
+     "tier": 6,
+     "lore": "Called Swaziland until 2018, it is one of the world's last absolute monarchies."
+    },
+    {
+     "answer": "Azerbaijan",
+     "tier": 6,
+     "lore": "Its long shoreline faces only the Caspian, usually counted as a lake, so it is landlocked after all."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Sudan",
+     "reason": "Sudan has a Red Sea coast. Its southern neighbour, South Sudan, does not."
+    },
+    {
+     "answer": "Eritrea",
+     "reason": "Eritrea took Ethiopia's coastline with it when it became independent in 1993."
+    },
+    {
+     "answer": "Slovenia",
+     "reason": "Slovenia keeps a short stretch of Adriatic coast, about 47 km of it."
+    },
+    {
+     "answer": "Bosnia and Herzegovina",
+     "aliases": [
+      "Bosnia",
+      "Bosnia-Herzegovina"
+     ],
+     "reason": "Bosnia keeps a sliver of Adriatic coast at Neum."
+    },
+    {
+     "answer": "Congo",
+     "aliases": [
+      "DR Congo",
+      "DRC",
+      "Democratic Republic of the Congo",
+      "Republic of the Congo",
+      "Congo-Brazzaville",
+      "Zaire"
+     ],
+     "reason": "Both Congos touch the Atlantic, if only just."
+    },
+    {
+     "answer": "Iraq",
+     "reason": "Iraq has a short coast on the Persian Gulf."
+    },
+    {
+     "answer": "Jordan",
+     "reason": "Jordan holds a small foothold on the Red Sea at Aqaba."
+    },
+    {
+     "answer": "Monaco",
+     "reason": "Monaco is practically all coast."
+    },
+    {
+     "answer": "Transnistria",
+     "reason": "A breakaway region of Moldova that no UN member recognises."
+    }
+   ],
+   "decoys": [
+    "Australia",
+    "Gambia",
+    "Nigeria",
+    "Uruguay",
+    "Albania",
+    "Malta",
+    "Mauritania",
+    "Algeria",
+    "Somalia",
+    "Romania",
+    "Bulgaria",
+    "Siberia",
+    "Liberia",
+    "Ghana",
+    "Guinea",
+    "Iran",
+    "Syria",
+    "Cambodia",
+    "Myanmar",
+    "Mozambique",
+    "Namibia",
+    "Tanzania",
+    "Kenya",
+    "Cameroon",
+    "Gabon",
+    "Angola",
+    "Belgium",
+    "Germany",
+    "Poland",
+    "Ukraine",
+    "Russia",
+    "Georgia",
+    "Turkey",
+    "Pakistan",
+    "India",
+    "China",
+    "Thailand",
+    "Vietnam",
+    "Peru",
+    "Chile",
+    "Brazil",
+    "Argentina",
+    "Wales",
+    "Scotland",
+    "Brunei",
+    "Persia",
+    "Bali",
+    "Moravia"
+   ]
+  },
+  {
+   "id": "mediterranean-countries",
+   "text": "Name a country with a Mediterranean coastline.",
+   "category": "geography",
+   "flavor": "Homer called it the wine-dark sea. Something old still swims in it.",
+   "rules": "Any country whose own mainland or islands touch the Mediterranean or one of its arms, such as the Adriatic or Aegean.",
+   "answers": [
+    {
+     "answer": "Italy",
+     "aliases": [
+      "Italia"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Spain",
+     "aliases": [
+      "España"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Greece",
+     "aliases": [
+      "Hellas",
+      "Hellenic Republic"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "France",
+     "tier": 1
+    },
+    {
+     "answer": "Turkey",
+     "aliases": [
+      "Türkiye"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Egypt",
+     "tier": 2
+    },
+    {
+     "answer": "Croatia",
+     "aliases": [
+      "Hrvatska"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Malta",
+     "tier": 2
+    },
+    {
+     "answer": "Cyprus",
+     "tier": 2
+    },
+    {
+     "answer": "Israel",
+     "tier": 2
+    },
+    {
+     "answer": "Monaco",
+     "tier": 2,
+     "openSecret": true,
+     "lore": "A country smaller than many city parks, with more coastline than land border to spare."
+    },
+    {
+     "answer": "Morocco",
+     "tier": 3
+    },
+    {
+     "answer": "Tunisia",
+     "tier": 3
+    },
+    {
+     "answer": "Libya",
+     "tier": 3
+    },
+    {
+     "answer": "Lebanon",
+     "tier": 3
+    },
+    {
+     "answer": "Algeria",
+     "tier": 3
+    },
+    {
+     "answer": "Albania",
+     "tier": 4
+    },
+    {
+     "answer": "Syria",
+     "tier": 4
+    },
+    {
+     "answer": "Montenegro",
+     "aliases": [
+      "Crna Gora"
+     ],
+     "tier": 4,
+     "lore": "Its Bay of Kotor is often called southern Europe's deepest fjord, though it is really a drowned river canyon."
+    },
+    {
+     "answer": "Palestine",
+     "aliases": [
+      "State of Palestine"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Bosnia and Herzegovina",
+     "aliases": [
+      "Bosnia",
+      "Bosnia-Herzegovina",
+      "BiH"
+     ],
+     "tier": 6,
+     "lore": "Its entire coastline is about 20 km long, around the town of Neum."
+    },
+    {
+     "answer": "Slovenia",
+     "aliases": [
+      "Slovenija"
+     ],
+     "tier": 6,
+     "lore": "Squeezes about 47 km of Adriatic coast between Italy and Croatia."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Portugal",
+     "reason": "Portugal faces only the Atlantic."
+    },
+    {
+     "answer": "Jordan",
+     "reason": "Jordan's only coast is on the Red Sea."
+    },
+    {
+     "answer": "Bulgaria",
+     "reason": "Bulgaria's coast is on the Black Sea."
+    },
+    {
+     "answer": "Romania",
+     "reason": "Romania's coast is on the Black Sea."
+    },
+    {
+     "answer": "United Kingdom",
+     "aliases": [
+      "UK",
+      "Britain",
+      "Great Britain",
+      "England"
+     ],
+     "reason": "Gibraltar is a British territory, but the UK itself has no Mediterranean shore."
+    },
+    {
+     "answer": "Gibraltar",
+     "reason": "A British Overseas Territory, not a country."
+    },
+    {
+     "answer": "Saudi Arabia",
+     "reason": "Saudi Arabia's coasts are on the Red Sea and the Persian Gulf."
+    },
+    {
+     "answer": "Andorra",
+     "reason": "Andorra is landlocked, high in the Pyrenees."
+    },
+    {
+     "answer": "San Marino",
+     "reason": "San Marino is landlocked, inside Italy."
+    },
+    {
+     "answer": "Vatican City",
+     "aliases": [
+      "Vatican"
+     ],
+     "reason": "Landlocked, inside Rome."
+    }
+   ],
+   "decoys": [
+    "Serbia",
+    "North Macedonia",
+    "Macedonia",
+    "Iraq",
+    "Iran",
+    "Ukraine",
+    "Georgia",
+    "Hungary",
+    "Austria",
+    "Switzerland",
+    "Germany",
+    "Sudan",
+    "Mauritania",
+    "Yemen",
+    "Oman",
+    "Kuwait",
+    "Cuba",
+    "Chad",
+    "Niger",
+    "Mali",
+    "Malawi",
+    "Moldova",
+    "Mongolia",
+    "Sicily",
+    "Sardinia",
+    "Corsica",
+    "Crete",
+    "Siberia",
+    "Liberia",
+    "Malaysia",
+    "Maldives",
+    "Persia",
+    "Bali",
+    "Slovakia"
+   ]
+  },
+  {
+   "id": "us-states",
+   "text": "Name a US state.",
+   "category": "geography",
+   "flavor": "Fifty stars on one flag. Some burn brighter than others.",
+   "rules": "Any of the 50 states. Territories and Washington, D.C. don't count.",
+   "answers": [
+    {
+     "answer": "California",
+     "aliases": [
+      "CA",
+      "Cali"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Texas",
+     "aliases": [
+      "TX"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Florida",
+     "aliases": [
+      "FL"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "New York",
+     "aliases": [
+      "NY",
+      "New York State",
+      "NYS"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Alaska",
+     "aliases": [
+      "AK"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Hawaii",
+     "aliases": [
+      "HI"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Washington",
+     "aliases": [
+      "WA",
+      "Washington State"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Ohio",
+     "aliases": [
+      "OH"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Nevada",
+     "aliases": [
+      "NV"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Arizona",
+     "aliases": [
+      "AZ"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Colorado",
+     "aliases": [
+      "CO"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Georgia",
+     "aliases": [
+      "GA"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Michigan",
+     "aliases": [
+      "MI"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Illinois",
+     "aliases": [
+      "IL"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Massachusetts",
+     "aliases": [
+      "MA",
+      "Mass"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Rhode Island",
+     "aliases": [
+      "RI"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The smallest state by area."
+    },
+    {
+     "answer": "Wyoming",
+     "aliases": [
+      "WY"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The least populous state."
+    },
+    {
+     "answer": "Delaware",
+     "aliases": [
+      "DE"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The first state to ratify the Constitution, in 1787."
+    },
+    {
+     "answer": "Oregon",
+     "aliases": [
+      "OR"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Utah",
+     "aliases": [
+      "UT"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Montana",
+     "aliases": [
+      "MT"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Idaho",
+     "aliases": [
+      "ID"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Vermont",
+     "aliases": [
+      "VT"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Maine",
+     "aliases": [
+      "ME"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Louisiana",
+     "aliases": [
+      "LA"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Tennessee",
+     "aliases": [
+      "TN"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Pennsylvania",
+     "aliases": [
+      "PA"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "New Jersey",
+     "aliases": [
+      "NJ",
+      "Jersey"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Virginia",
+     "aliases": [
+      "VA"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "North Carolina",
+     "aliases": [
+      "NC"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Minnesota",
+     "aliases": [
+      "MN"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Kentucky",
+     "aliases": [
+      "KY"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "North Dakota",
+     "aliases": [
+      "ND"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "New Mexico",
+     "aliases": [
+      "NM"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Oklahoma",
+     "aliases": [
+      "OK"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Alabama",
+     "aliases": [
+      "AL"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Mississippi",
+     "aliases": [
+      "MS"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Connecticut",
+     "aliases": [
+      "CT"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "South Dakota",
+     "aliases": [
+      "SD"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Kansas",
+     "aliases": [
+      "KS"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Iowa",
+     "aliases": [
+      "IA"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Arkansas",
+     "aliases": [
+      "AR"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Wisconsin",
+     "aliases": [
+      "WI"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "New Hampshire",
+     "aliases": [
+      "NH"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Maryland",
+     "aliases": [
+      "MD"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "South Carolina",
+     "aliases": [
+      "SC"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "West Virginia",
+     "aliases": [
+      "WV"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Indiana",
+     "aliases": [
+      "IN"
+     ],
+     "tier": 5,
+     "lore": "Its name means 'land of the Indians'."
+    },
+    {
+     "answer": "Nebraska",
+     "aliases": [
+      "NE"
+     ],
+     "tier": 5,
+     "lore": "The only state with a single-chamber legislature."
+    },
+    {
+     "answer": "Missouri",
+     "aliases": [
+      "MO"
+     ],
+     "tier": 6,
+     "lore": "Borders eight other states, tied with Tennessee for the most."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Washington, D.C.",
+     "aliases": [
+      "DC",
+      "District of Columbia"
+     ],
+     "reason": "A federal district, not a state. Its licence plates still complain about it."
+    },
+    {
+     "answer": "Puerto Rico",
+     "reason": "A US territory, not a state."
+    },
+    {
+     "answer": "Guam",
+     "reason": "A US territory in the Pacific, not a state."
+    },
+    {
+     "answer": "US Virgin Islands",
+     "aliases": [
+      "Virgin Islands"
+     ],
+     "reason": "A US territory, not a state."
+    },
+    {
+     "answer": "American Samoa",
+     "reason": "A US territory, not a state."
+    },
+    {
+     "answer": "Northern Mariana Islands",
+     "reason": "A US territory, not a state."
+    },
+    {
+     "answer": "Dakota",
+     "reason": "North or South? The deep needs to know which."
+    },
+    {
+     "answer": "Carolina",
+     "reason": "North or South? Choose."
+    },
+    {
+     "answer": "New England",
+     "reason": "A region of six states, not a state."
+    }
+   ],
+   "decoys": [
+    "Ontario",
+    "Quebec",
+    "British Columbia",
+    "Alberta",
+    "Manitoba",
+    "Saskatchewan",
+    "Nova Scotia",
+    "Columbia",
+    "Kansas City",
+    "Jefferson",
+    "Sonora",
+    "Chihuahua",
+    "Baja California",
+    "Yukon"
+   ]
+  },
+  {
+   "id": "european-capitals",
+   "text": "Name the capital city of a European country.",
+   "category": "geography",
+   "flavor": "Bells ring in every capital. In the drowned ones, they ring from below.",
+   "rules": "The capital of any European country, including Russia, Turkey, Cyprus, Kazakhstan and the Caucasus. Scotland, Wales and Northern Ireland count too.",
+   "answers": [
+    {
+     "answer": "London",
+     "tier": 1
+    },
+    {
+     "answer": "Paris",
+     "tier": 1
+    },
+    {
+     "answer": "Berlin",
+     "tier": 1
+    },
+    {
+     "answer": "Madrid",
+     "tier": 1
+    },
+    {
+     "answer": "Rome",
+     "aliases": [
+      "Roma"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Lisbon",
+     "aliases": [
+      "Lisboa"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Dublin",
+     "tier": 2
+    },
+    {
+     "answer": "Amsterdam",
+     "tier": 2
+    },
+    {
+     "answer": "Brussels",
+     "aliases": [
+      "Bruxelles",
+      "Brussel"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Vienna",
+     "aliases": [
+      "Wien"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Athens",
+     "aliases": [
+      "Athina"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Prague",
+     "aliases": [
+      "Praha"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Moscow",
+     "aliases": [
+      "Moskva"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Stockholm",
+     "tier": 2
+    },
+    {
+     "answer": "Oslo",
+     "tier": 2
+    },
+    {
+     "answer": "Copenhagen",
+     "aliases": [
+      "København"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Warsaw",
+     "aliases": [
+      "Warszawa"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Budapest",
+     "tier": 2
+    },
+    {
+     "answer": "Bern",
+     "aliases": [
+      "Berne"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "Switzerland officially has no capital. Bern is merely its 'federal city'."
+    },
+    {
+     "answer": "Ankara",
+     "aliases": [
+      "Angora"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "Chosen as capital in 1923, partly because it was far from the reach of enemy warships."
+    },
+    {
+     "answer": "Helsinki",
+     "aliases": [
+      "Helsingfors"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Reykjavík",
+     "tier": 3
+    },
+    {
+     "answer": "Edinburgh",
+     "tier": 3
+    },
+    {
+     "answer": "Bucharest",
+     "aliases": [
+      "București"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Kyiv",
+     "aliases": [
+      "Kiev"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Belgrade",
+     "aliases": [
+      "Beograd"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Sofia",
+     "tier": 3
+    },
+    {
+     "answer": "Zagreb",
+     "tier": 3
+    },
+    {
+     "answer": "Luxembourg",
+     "aliases": [
+      "Luxembourg City",
+      "Luxemburg"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Valletta",
+     "tier": 3,
+     "lore": "Built by the Knights of St John after the Great Siege of 1565."
+    },
+    {
+     "answer": "Cardiff",
+     "aliases": [
+      "Caerdydd"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Tallinn",
+     "tier": 3
+    },
+    {
+     "answer": "Riga",
+     "tier": 3
+    },
+    {
+     "answer": "Vilnius",
+     "aliases": [
+      "Vilna"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Bratislava",
+     "aliases": [
+      "Pressburg"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Ljubljana",
+     "tier": 4
+    },
+    {
+     "answer": "Minsk",
+     "tier": 4
+    },
+    {
+     "answer": "Sarajevo",
+     "tier": 4
+    },
+    {
+     "answer": "Tirana",
+     "tier": 4
+    },
+    {
+     "answer": "Belfast",
+     "tier": 4
+    },
+    {
+     "answer": "Nicosia",
+     "aliases": [
+      "Lefkosia"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Vaduz",
+     "tier": 4,
+     "lore": "Liechtenstein's prince still lives in the castle above the town."
+    },
+    {
+     "answer": "San Marino",
+     "tier": 4
+    },
+    {
+     "answer": "Andorra la Vella",
+     "tier": 4
+    },
+    {
+     "answer": "Vatican City",
+     "tier": 4
+    },
+    {
+     "answer": "Monaco",
+     "aliases": [
+      "Monaco-Ville"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Skopje",
+     "tier": 4
+    },
+    {
+     "answer": "Tbilisi",
+     "aliases": [
+      "Tiflis"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Chișinău",
+     "aliases": [
+      "Kishinev"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Pristina",
+     "aliases": [
+      "Prishtina"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Yerevan",
+     "tier": 5
+    },
+    {
+     "answer": "Baku",
+     "tier": 5
+    },
+    {
+     "answer": "Astana",
+     "aliases": [
+      "Nur-Sultan",
+      "Akmola"
+     ],
+     "tier": 5,
+     "lore": "Has changed its name four times since 1961."
+    },
+    {
+     "answer": "Podgorica",
+     "aliases": [
+      "Titograd"
+     ],
+     "tier": 6,
+     "lore": "Called Titograd from 1946 to 1992, after the Yugoslav leader Tito."
+    },
+    {
+     "answer": "Tórshavn",
+     "tier": 6,
+     "lore": "Capital of the Faroe Islands, a self-governing nation within the Danish realm. One of the smallest capitals anywhere."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Istanbul",
+     "aliases": [
+      "Constantinople"
+     ],
+     "reason": "Turkey's largest city, but the capital is Ankara."
+    },
+    {
+     "answer": "Zurich",
+     "reason": "Switzerland's largest city. The capital is Bern."
+    },
+    {
+     "answer": "Geneva",
+     "reason": "Switzerland's capital is Bern."
+    },
+    {
+     "answer": "Barcelona",
+     "reason": "Spain's second city. The capital is Madrid."
+    },
+    {
+     "answer": "Milan",
+     "reason": "Italy's capital is Rome."
+    },
+    {
+     "answer": "Saint Petersburg",
+     "aliases": [
+      "St Petersburg",
+      "Petrograd",
+      "Leningrad"
+     ],
+     "reason": "Russia's capital moved back to Moscow in 1918."
+    },
+    {
+     "answer": "Kraków",
+     "aliases": [
+      "Cracow"
+     ],
+     "reason": "Poland's capital until about 1596. Now it is Warsaw."
+    },
+    {
+     "answer": "The Hague",
+     "aliases": [
+      "Den Haag"
+     ],
+     "reason": "The Dutch government sits in The Hague, but the capital is Amsterdam."
+    },
+    {
+     "answer": "Bonn",
+     "reason": "West Germany's capital until 1990. Germany's is Berlin."
+    },
+    {
+     "answer": "Glasgow",
+     "reason": "Scotland's biggest city. Its capital is Edinburgh."
+    },
+    {
+     "answer": "Porto",
+     "reason": "Portugal's capital is Lisbon."
+    },
+    {
+     "answer": "Kaunas",
+     "reason": "Lithuania's temporary capital between the world wars. Now it is Vilnius."
+    },
+    {
+     "answer": "Turku",
+     "reason": "Finland's capital until 1812. Now it is Helsinki."
+    },
+    {
+     "answer": "Monte Carlo",
+     "reason": "A district of Monaco. The capital is Monaco itself."
+    },
+    {
+     "answer": "Nuuk",
+     "reason": "Greenland's capital, but Greenland belongs to North America."
+    },
+    {
+     "answer": "Almaty",
+     "reason": "Kazakhstan's capital until 1997. Now it is Astana."
+    }
+   ],
+   "decoys": [
+    "Manchester",
+    "Birmingham",
+    "Liverpool",
+    "Munich",
+    "Frankfurt",
+    "Hamburg",
+    "Cologne",
+    "Antwerp",
+    "Rotterdam",
+    "Gothenburg",
+    "Thessaloniki",
+    "Salzburg",
+    "Brno",
+    "Seville",
+    "Valencia",
+    "Naples",
+    "Venice",
+    "Florence",
+    "Turin",
+    "Lyon",
+    "Marseille",
+    "Nice",
+    "Lille",
+    "Gdansk",
+    "Odesa",
+    "Lviv",
+    "Kharkiv",
+    "Novosibirsk",
+    "Izmir",
+    "Bergen",
+    "Aarhus",
+    "Malmo",
+    "Cork",
+    "Leeds",
+    "Pinsk",
+    "Vientiane",
+    "Rabat",
+    "Tunis",
+    "Cairo",
+    "Beirut",
+    "Jerusalem",
+    "Tehran",
+    "Baghdad",
+    "Riyadh",
+    "Tokyo",
+    "Washington",
+    "Ottawa",
+    "Canberra",
+    "Wellington",
+    "Berlin Wall",
+    "Praia",
+    "Lomé"
+   ]
+  },
+  {
+   "id": "deserts",
+   "text": "Name a desert.",
+   "category": "geography",
+   "flavor": "Not every drowned place is under water. Some are drowned in sand.",
+   "rules": "Any named desert on Earth, hot or cold. Saying 'desert' after the name is optional.",
+   "answers": [
+    {
+     "answer": "Sahara",
+     "aliases": [
+      "Sahara Desert",
+      "Great Sahara"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Gobi",
+     "aliases": [
+      "Gobi Desert"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Kalahari",
+     "aliases": [
+      "Kalahari Desert"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Atacama",
+     "aliases": [
+      "Atacama Desert"
+     ],
+     "tier": 2,
+     "lore": "Parts of it have never recorded rain. NASA tests Mars rovers there."
+    },
+    {
+     "answer": "Mojave",
+     "aliases": [
+      "Mojave Desert"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Sonoran",
+     "aliases": [
+      "Sonoran Desert"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Arabian Desert",
+     "aliases": [
+      "Arabian"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Antarctic Desert",
+     "aliases": [
+      "Antarctica",
+      "Antarctic",
+      "Antarctic Polar Desert"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The largest desert on Earth. Deserts are defined by how little falls from the sky, not by heat."
+    },
+    {
+     "answer": "Namib",
+     "aliases": [
+      "Namib Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Great Victoria Desert",
+     "aliases": [
+      "Great Victoria"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Thar",
+     "aliases": [
+      "Thar Desert",
+      "Great Indian Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Taklamakan",
+     "aliases": [
+      "Taklimakan",
+      "Taklamakan Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Chihuahuan",
+     "aliases": [
+      "Chihuahuan Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Great Basin Desert",
+     "aliases": [
+      "Great Basin"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Simpson Desert",
+     "aliases": [
+      "Simpson"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Great Sandy Desert",
+     "aliases": [
+      "Great Sandy"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Arctic Desert",
+     "aliases": [
+      "Arctic",
+      "Arctic Polar Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Negev",
+     "aliases": [
+      "Negev Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Patagonian Desert",
+     "aliases": [
+      "Patagonian"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Rub' al Khali",
+     "aliases": [
+      "Empty Quarter",
+      "Rub' al Khali Desert"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Syrian Desert",
+     "aliases": [
+      "Syrian"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Karakum",
+     "aliases": [
+      "Garagum",
+      "Karakum Desert"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Kyzylkum",
+     "aliases": [
+      "Qizilqum",
+      "Kyzylkum Desert"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Tanami",
+     "aliases": [
+      "Tanami Desert"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Danakil",
+     "aliases": [
+      "Danakil Desert",
+      "Danakil Depression"
+     ],
+     "tier": 4,
+     "lore": "Lava lakes, acid pools and salt flats, and one of the hottest inhabited places on the planet."
+    },
+    {
+     "answer": "Nubian Desert",
+     "aliases": [
+      "Nubian"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Libyan Desert",
+     "aliases": [
+      "Western Desert",
+      "Libyan"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sinai Desert",
+     "aliases": [
+      "Sinai"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Judaean Desert",
+     "aliases": [
+      "Judaean"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Black Rock Desert",
+     "aliases": [
+      "Black Rock"
+     ],
+     "tier": 4,
+     "lore": "A dry lakebed in Nevada that holds a temporary city, Burning Man, each summer."
+    },
+    {
+     "answer": "Painted Desert",
+     "aliases": [
+      "Painted"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Wadi Rum",
+     "aliases": [
+      "Valley of the Moon",
+      "Wadi Rum Desert"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Karoo",
+     "aliases": [
+      "Great Karoo",
+      "Karoo Desert"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Dasht-e Kavir",
+     "aliases": [
+      "Great Salt Desert",
+      "Kavir Desert",
+      "Dasht-i-Kavir",
+      "Dasht-e Kavir Desert"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Dasht-e Lut",
+     "aliases": [
+      "Lut Desert",
+      "Lut",
+      "Dasht-i-Lut",
+      "Dasht-e Lut Desert"
+     ],
+     "tier": 5,
+     "lore": "Satellites have measured ground temperatures there above 70°C, among the hottest ever recorded."
+    },
+    {
+     "answer": "Gibson Desert",
+     "aliases": [
+      "Gibson"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Strzelecki Desert",
+     "aliases": [
+      "Strzelecki"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Little Sandy Desert",
+     "aliases": [
+      "Little Sandy"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sturt Stony Desert",
+     "aliases": [
+      "Sturt Stony"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Ordos Desert",
+     "aliases": [
+      "Mu Us Desert",
+      "Mu Us",
+      "Ordos"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Badain Jaran",
+     "aliases": [
+      "Badain Jaran Desert"
+     ],
+     "tier": 5,
+     "lore": "Home to some of the tallest stationary sand dunes on Earth, with lakes hidden between them."
+    },
+    {
+     "answer": "Tengger Desert",
+     "aliases": [
+      "Tengger"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Kumtag Desert",
+     "aliases": [
+      "Kumtag"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Gurbantünggüt",
+     "aliases": [
+      "Gurbantunggut Desert",
+      "Dzungarian Desert"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Chalbi Desert",
+     "aliases": [
+      "Chalbi"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Eastern Desert",
+     "aliases": [
+      "Eastern"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Owyhee Desert",
+     "aliases": [
+      "Owyhee"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Red Desert",
+     "aliases": [
+      "Red"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Colorado Desert",
+     "aliases": [
+      "Colorado"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Yuma Desert",
+     "aliases": [
+      "Yuma"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Great Salt Lake Desert",
+     "aliases": [
+      "Great Salt Lake"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sechura Desert",
+     "aliases": [
+      "Sechura"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "La Guajira Desert",
+     "aliases": [
+      "La Guajira"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Thal Desert",
+     "aliases": [
+      "Thal"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Cholistan Desert",
+     "aliases": [
+      "Cholistan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Kharan Desert",
+     "aliases": [
+      "Kharan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Registan Desert",
+     "aliases": [
+      "Registan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Nefud",
+     "aliases": [
+      "An Nafud",
+      "Nefud Desert"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Lop Desert",
+     "aliases": [
+      "Lop"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Kubuqi Desert",
+     "aliases": [
+      "Kubuqi"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Bardenas Reales",
+     "aliases": [
+      "Bardenas",
+      "Bardenas Reales Desert"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Błędów Desert",
+     "aliases": [
+      "Błędów"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Tirari Desert",
+     "aliases": [
+      "Tirari"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Monte Desert",
+     "aliases": [
+      "Monte"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Vizcaíno Desert",
+     "aliases": [
+      "Vizcaíno"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Ténéré",
+     "aliases": [
+      "Ténéré Desert"
+     ],
+     "tier": 6,
+     "lore": "Once home to the Tree of Ténéré, thought the most isolated tree on Earth, until a lorry drove into it in 1973."
+    },
+    {
+     "answer": "Tabernas Desert",
+     "aliases": [
+      "Tabernas"
+     ],
+     "tier": 6,
+     "lore": "Often called Europe's only true desert. Dozens of spaghetti westerns were filmed there."
+    },
+    {
+     "answer": "Jornada del Muerto",
+     "aliases": [
+      "Jornada del Muerto Desert"
+     ],
+     "tier": 6,
+     "lore": "Its name means 'journey of the dead man'. The first atomic bomb was tested there in 1945."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Dessert",
+     "reason": "That is pudding. The deep has no sweet tooth."
+    },
+    {
+     "answer": "Death Valley",
+     "reason": "A valley inside the Mojave Desert, not a desert of its own. Hot, though."
+    },
+    {
+     "answer": "Sahel",
+     "reason": "The semi-arid belt south of the Sahara. Dry, but not desert."
+    },
+    {
+     "answer": "Outback",
+     "reason": "A vast region, not one desert, though it holds several."
+    },
+    {
+     "answer": "Arrakis",
+     "aliases": [
+      "Dune"
+     ],
+     "reason": "Fictional. The spice, regrettably, does not flow."
+    },
+    {
+     "answer": "Tatooine",
+     "reason": "Fictional. The deep has checked every sky."
+    },
+    {
+     "answer": "Serengeti",
+     "reason": "A savanna, not a desert."
+    },
+    {
+     "answer": "Tundra",
+     "reason": "A kind of landscape, not a named desert."
+    },
+    {
+     "answer": "Grand Canyon",
+     "reason": "A canyon, not a desert."
+    }
+   ],
+   "decoys": [
+    "Sahel Desert",
+    "Steppe",
+    "Siberia",
+    "Patagonia",
+    "Mongolia",
+    "Sarah",
+    "Gobbi"
+   ]
+  },
+  {
+   "id": "seas",
+   "text": "Name a sea.",
+   "category": "geography",
+   "flavor": "Every sea has a floor. Not every floor is the bottom.",
+   "rules": "Anything named a sea counts, even the ones that are really lakes. Oceans, bays and gulfs don't.",
+   "answers": [
+    {
+     "answer": "Mediterranean Sea",
+     "aliases": [
+      "Mare Nostrum",
+      "Mediterranean"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Red Sea",
+     "tier": 1
+    },
+    {
+     "answer": "Black Sea",
+     "aliases": [
+      "Euxine"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Dead Sea",
+     "aliases": [
+      "Salt Sea"
+     ],
+     "tier": 1,
+     "lore": "Its shore is the lowest land on Earth, more than 400 m below sea level."
+    },
+    {
+     "answer": "Caribbean Sea",
+     "aliases": [
+      "Caribbean"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "North Sea",
+     "aliases": [
+      "German Ocean"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Baltic Sea",
+     "aliases": [
+      "Baltic"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Caspian Sea",
+     "aliases": [
+      "Hyrcanian Sea",
+      "Caspian"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Irish Sea",
+     "tier": 2
+    },
+    {
+     "answer": "Arabian Sea",
+     "aliases": [
+      "Arabian"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "South China Sea",
+     "tier": 2
+    },
+    {
+     "answer": "Aegean Sea",
+     "aliases": [
+      "Aegean"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Adriatic Sea",
+     "aliases": [
+      "Adriatic"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Sargasso Sea",
+     "aliases": [
+      "Sargasso"
+     ],
+     "tier": 2,
+     "openSecret": true,
+     "lore": "The only sea with no coastline, bounded by ocean currents alone. Eels cross the Atlantic to spawn there."
+    },
+    {
+     "answer": "Sea of Japan",
+     "aliases": [
+      "East Sea",
+      "Japan Sea"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Coral Sea",
+     "tier": 2
+    },
+    {
+     "answer": "Bering Sea",
+     "aliases": [
+      "Bering"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Tasman Sea",
+     "aliases": [
+      "Tasman"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Ionian Sea",
+     "aliases": [
+      "Ionian"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Tyrrhenian Sea",
+     "aliases": [
+      "Tyrrhenian"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Yellow Sea",
+     "aliases": [
+      "Yellow"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "East China Sea",
+     "tier": 3
+    },
+    {
+     "answer": "Philippine Sea",
+     "aliases": [
+      "Philippine"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Barents Sea",
+     "aliases": [
+      "Barents"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Norwegian Sea",
+     "aliases": [
+      "Norwegian"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Celtic Sea",
+     "aliases": [
+      "Celtic"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Labrador Sea",
+     "aliases": [
+      "Labrador"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Sea of Okhotsk",
+     "aliases": [
+      "Okhotsk Sea"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Weddell Sea",
+     "aliases": [
+      "Weddell"
+     ],
+     "tier": 3,
+     "lore": "The ice there crushed Shackleton's ship Endurance in 1915. The wreck was found in 2022, 3,000 m down."
+    },
+    {
+     "answer": "Ross Sea",
+     "tier": 3
+    },
+    {
+     "answer": "Aral Sea",
+     "tier": 3,
+     "lore": "Once one of the four largest lakes in the world, now mostly dust after its rivers were diverted."
+    },
+    {
+     "answer": "Sea of Galilee",
+     "aliases": [
+      "Lake of Galilee",
+      "Kinneret",
+      "Lake Tiberias",
+      "Galilee Sea"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Sea of Marmara",
+     "aliases": [
+      "Marmara Sea"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Andaman Sea",
+     "aliases": [
+      "Andaman"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Java Sea",
+     "tier": 3
+    },
+    {
+     "answer": "Greenland Sea",
+     "aliases": [
+      "Greenland"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Beaufort Sea",
+     "aliases": [
+      "Beaufort"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Ligurian Sea",
+     "aliases": [
+      "Ligurian"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Wadden Sea",
+     "aliases": [
+      "Wadden"
+     ],
+     "tier": 3,
+     "lore": "At low tide you can walk across its seabed from the mainland to the islands."
+    },
+    {
+     "answer": "Salton Sea",
+     "aliases": [
+      "Salton"
+     ],
+     "tier": 3,
+     "lore": "Created by accident in 1905, when the Colorado River burst through an irrigation canal."
+    },
+    {
+     "answer": "Sea of Azov",
+     "aliases": [
+      "Azov Sea"
+     ],
+     "tier": 3,
+     "lore": "The shallowest sea in the world, nowhere much deeper than 14 m."
+    },
+    {
+     "answer": "White Sea",
+     "tier": 3
+    },
+    {
+     "answer": "Sea of Cortez",
+     "aliases": [
+      "Sea of Cortés",
+      "Gulf of California",
+      "Cortez Sea"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Kara Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Laptev Sea",
+     "aliases": [
+      "Laptev"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "East Siberian Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Chukchi Sea",
+     "aliases": [
+      "Chukchi"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Balearic Sea",
+     "aliases": [
+      "Balearic"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Alboran Sea",
+     "aliases": [
+      "Alboran"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Levantine Sea",
+     "aliases": [
+      "Levantine"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Banda Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Arafura Sea",
+     "aliases": [
+      "Arafura"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Timor Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Celebes Sea",
+     "aliases": [
+      "Celebes"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sulu Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Bismarck Sea",
+     "aliases": [
+      "Bismarck"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Solomon Sea",
+     "aliases": [
+      "Solomon"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Scotia Sea",
+     "aliases": [
+      "Scotia"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Amundsen Sea",
+     "aliases": [
+      "Amundsen"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Bellingshausen Sea",
+     "aliases": [
+      "Bellingshausen"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sea of the Hebrides",
+     "aliases": [
+      "Hebrides Sea",
+      "Hebridean Sea"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Irminger Sea",
+     "aliases": [
+      "Irminger"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Lincoln Sea",
+     "aliases": [
+      "Lincoln"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Seto Inland Sea",
+     "aliases": [
+      "Inland Sea",
+      "Seto Naikai"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sea of Crete",
+     "aliases": [
+      "Crete Sea"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Libyan Sea",
+     "aliases": [
+      "Libyan"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Thracian Sea",
+     "aliases": [
+      "Thracian"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Laccadive Sea",
+     "aliases": [
+      "Laccadive"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Molucca Sea",
+     "aliases": [
+      "Molucca"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Flores Sea",
+     "aliases": [
+      "Flores"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Bali Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Salish Sea",
+     "aliases": [
+      "Salish"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Bohai Sea",
+     "tier": 4
+    },
+    {
+     "answer": "Bothnian Sea",
+     "aliases": [
+      "Sea of Bothnia",
+      "Bothnian"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sea of Serenity",
+     "aliases": [
+      "Mare Serenitatis",
+      "Serenity Sea"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sea of Rains",
+     "aliases": [
+      "Mare Imbrium",
+      "Sea of Showers",
+      "Rains Sea"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Sea of Clouds",
+     "aliases": [
+      "Mare Nubium",
+      "Clouds Sea"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Savu Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Halmahera Sea",
+     "aliases": [
+      "Halmahera"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Seram Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Sibuyan Sea",
+     "aliases": [
+      "Sibuyan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Visayan Sea",
+     "aliases": [
+      "Visayan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Camotes Sea",
+     "aliases": [
+      "Camotes"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Bohol Sea",
+     "aliases": [
+      "Mindanao Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Pechora Sea",
+     "aliases": [
+      "Pechora"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Wandel Sea",
+     "aliases": [
+      "Wandel"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Åland",
+     "aliases": [
+      "Åland Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Archipelago Sea",
+     "aliases": [
+      "Archipelago"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Sardinia",
+     "aliases": [
+      "Sardinia Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Sicily",
+     "aliases": [
+      "Sicily Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Icarian Sea",
+     "aliases": [
+      "Icarian"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Myrtoan Sea",
+     "aliases": [
+      "Myrtoan"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Cilician Sea",
+     "aliases": [
+      "Cilician"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Cosmonauts Sea",
+     "aliases": [
+      "Cosmonauts"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Cooperation Sea",
+     "aliases": [
+      "Cooperation"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Davis Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Mawson Sea",
+     "aliases": [
+      "Mawson"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Dumont d'Urville Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Somov Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Lazarev Sea",
+     "aliases": [
+      "Lazarev"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Riiser-Larsen Sea",
+     "aliases": [
+      "Riiser-Larsen"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "King Haakon VII Sea",
+     "tier": 5
+    },
+    {
+     "answer": "Argentine Sea",
+     "aliases": [
+      "Argentine"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Grau",
+     "aliases": [
+      "Mar de Grau",
+      "Grau Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Chiloé",
+     "aliases": [
+      "Chiloé Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Ariake Sea",
+     "aliases": [
+      "Ariake"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Fertility",
+     "aliases": [
+      "Mare Fecunditatis",
+      "Fertility Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Nectar",
+     "aliases": [
+      "Mare Nectaris",
+      "Nectar Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Vapours",
+     "aliases": [
+      "Mare Vaporum",
+      "Sea of Vapors",
+      "Vapours Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Cold",
+     "aliases": [
+      "Mare Frigoris",
+      "Cold Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Moisture",
+     "aliases": [
+      "Mare Humorum",
+      "Moisture Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Islands",
+     "aliases": [
+      "Mare Insularum",
+      "Islands Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Waves",
+     "aliases": [
+      "Mare Undarum",
+      "Waves Sea"
+     ],
+     "tier": 5
+    },
+    {
+     "answer": "Sea of Moscow",
+     "aliases": [
+      "Mare Moscoviense",
+      "Moscow Sea"
+     ],
+     "tier": 5,
+     "lore": "One of the few seas on the far side of the Moon, named by the Soviets who first photographed it."
+    },
+    {
+     "answer": "Sea of Tranquility",
+     "aliases": [
+      "Mare Tranquillitatis",
+      "Sea of Tranquillity",
+      "Tranquility Sea"
+     ],
+     "tier": 6,
+     "lore": "On the Moon. Apollo 11 landed there in 1969. It has never held a drop of water."
+    },
+    {
+     "answer": "Sea of Crises",
+     "aliases": [
+      "Mare Crisium",
+      "Crises Sea"
+     ],
+     "tier": 6,
+     "lore": "On the Moon. In 1976 the Soviet probe Luna 24 scooped up its soil and flew it back to Earth."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Atlantic Ocean",
+     "aliases": [
+      "Atlantic"
+     ],
+     "reason": "That is an ocean. The deep is offended by the confusion."
+    },
+    {
+     "answer": "Pacific Ocean",
+     "aliases": [
+      "Pacific"
+     ],
+     "reason": "That is an ocean. The deep is offended by the confusion."
+    },
+    {
+     "answer": "Indian Ocean",
+     "reason": "That is an ocean, not a sea."
+    },
+    {
+     "answer": "Arctic Ocean",
+     "reason": "That is an ocean, the smallest one, but still not a sea."
+    },
+    {
+     "answer": "Southern Ocean",
+     "reason": "That is an ocean, not a sea."
+    },
+    {
+     "answer": "Bay of Bengal",
+     "reason": "A bay, though it is larger than most seas."
+    },
+    {
+     "answer": "Bay of Biscay",
+     "reason": "A bay, not a sea."
+    },
+    {
+     "answer": "Gulf of Mexico",
+     "reason": "A gulf, not a sea."
+    },
+    {
+     "answer": "Persian Gulf",
+     "aliases": [
+      "Arabian Gulf"
+     ],
+     "reason": "A gulf, not a sea."
+    },
+    {
+     "answer": "Hudson Bay",
+     "reason": "A bay, not a sea."
+    },
+    {
+     "answer": "English Channel",
+     "aliases": [
+      "La Manche"
+     ],
+     "reason": "A channel, not a sea."
+    },
+    {
+     "answer": "Ocean of Storms",
+     "aliases": [
+      "Oceanus Procellarum"
+     ],
+     "reason": "On the Moon, but it is an ocean, not a sea."
+    },
+    {
+     "answer": "Seven Seas",
+     "reason": "That is all of them at once. Pick one."
+    },
+    {
+     "answer": "Sea of Thieves",
+     "reason": "A video game, not a sea."
+    }
+   ],
+   "decoys": [
+    "Lake Superior",
+    "Lake Victoria",
+    "Lake Baikal",
+    "Lake Titicaca",
+    "Great Salt Lake",
+    "Gulf of Aden",
+    "Gulf of Thailand",
+    "Gulf of Finland",
+    "Bay of Fundy",
+    "Strait of Gibraltar",
+    "Bosphorus",
+    "Red River",
+    "Black River",
+    "Coral Reef",
+    "Great Barrier Reef"
+   ]
+  },
+  {
+   "id": "olympic-host-cities",
+   "text": "Name a city that has hosted the Olympic Games.",
+   "category": "geography",
+   "flavor": "A flame has passed from city to city for a century. Name one that held it.",
+   "rules": "Any city that has hosted a Summer or Winter Olympics, up to Milan and Cortina in 2026. Future hosts don't count yet.",
+   "answers": [
+    {
+     "answer": "London",
+     "tier": 1
+    },
+    {
+     "answer": "Paris",
+     "tier": 1
+    },
+    {
+     "answer": "Beijing",
+     "aliases": [
+      "Peking"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Tokyo",
+     "tier": 1
+    },
+    {
+     "answer": "Rio de Janeiro",
+     "aliases": [
+      "Rio"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Los Angeles",
+     "aliases": [
+      "LA"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Sydney",
+     "tier": 1
+    },
+    {
+     "answer": "Athens",
+     "aliases": [
+      "Athina"
+     ],
+     "tier": 1
+    },
+    {
+     "answer": "Barcelona",
+     "tier": 2
+    },
+    {
+     "answer": "Atlanta",
+     "tier": 2
+    },
+    {
+     "answer": "Moscow",
+     "aliases": [
+      "Moskva"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Seoul",
+     "tier": 2
+    },
+    {
+     "answer": "Montreal",
+     "tier": 2
+    },
+    {
+     "answer": "Munich",
+     "aliases": [
+      "München"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Rome",
+     "aliases": [
+      "Roma"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Berlin",
+     "tier": 2
+    },
+    {
+     "answer": "Mexico City",
+     "aliases": [
+      "Ciudad de México",
+      "Mexico"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Vancouver",
+     "tier": 2
+    },
+    {
+     "answer": "Sochi",
+     "tier": 2
+    },
+    {
+     "answer": "Salt Lake City",
+     "aliases": [
+      "Salt Lake"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Milan",
+     "aliases": [
+      "Milano",
+      "Milano Cortina",
+      "Milan Cortina"
+     ],
+     "tier": 2
+    },
+    {
+     "answer": "Amsterdam",
+     "tier": 3,
+     "lore": "The Olympic flame was first lit here, in 1928."
+    },
+    {
+     "answer": "Stockholm",
+     "tier": 3
+    },
+    {
+     "answer": "Helsinki",
+     "aliases": [
+      "Helsingfors"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Melbourne",
+     "tier": 3
+    },
+    {
+     "answer": "Calgary",
+     "tier": 3
+    },
+    {
+     "answer": "Lillehammer",
+     "tier": 3
+    },
+    {
+     "answer": "Nagano",
+     "tier": 3
+    },
+    {
+     "answer": "Turin",
+     "aliases": [
+      "Torino"
+     ],
+     "tier": 3
+    },
+    {
+     "answer": "Pyeongchang",
+     "tier": 3
+    },
+    {
+     "answer": "Lake Placid",
+     "tier": 3,
+     "lore": "Scene of the 1980 'Miracle on Ice', when a team of American college players beat the Soviet Union."
+    },
+    {
+     "answer": "Sapporo",
+     "tier": 3
+    },
+    {
+     "answer": "Sarajevo",
+     "tier": 4,
+     "lore": "The bobsleigh track from its 1984 Winter Games still winds, ruined and covered in graffiti, through the woods above the city."
+    },
+    {
+     "answer": "Innsbruck",
+     "tier": 4
+    },
+    {
+     "answer": "Grenoble",
+     "tier": 4
+    },
+    {
+     "answer": "Albertville",
+     "tier": 4
+    },
+    {
+     "answer": "Oslo",
+     "tier": 4
+    },
+    {
+     "answer": "St. Moritz",
+     "aliases": [
+      "Saint Moritz",
+      "Sankt Moritz",
+      "San Murezzan"
+     ],
+     "tier": 4
+    },
+    {
+     "answer": "Chamonix",
+     "aliases": [
+      "Chamonix-Mont-Blanc"
+     ],
+     "tier": 4,
+     "lore": "Hosted the first Winter Olympics, in 1924."
+    },
+    {
+     "answer": "Cortina d'Ampezzo",
+     "aliases": [
+      "Cortina"
+     ],
+     "tier": 4,
+     "lore": "Hosted in 1956, then again with Milan seventy years later."
+    },
+    {
+     "answer": "Antwerp",
+     "aliases": [
+      "Antwerpen",
+      "Anvers"
+     ],
+     "tier": 5,
+     "lore": "Its 1920 Games were the first to fly the Olympic flag and the first where athletes swore the Olympic oath."
+    },
+    {
+     "answer": "Garmisch-Partenkirchen",
+     "aliases": [
+      "Garmisch",
+      "Partenkirchen"
+     ],
+     "tier": 5,
+     "lore": "Two towns merged in 1935 so they could host the 1936 Winter Games together."
+    },
+    {
+     "answer": "Squaw Valley",
+     "aliases": [
+      "Palisades Tahoe",
+      "Olympic Valley"
+     ],
+     "tier": 5,
+     "lore": "Hosted the 1960 Winter Games. The resort was renamed Palisades Tahoe in 2021."
+    },
+    {
+     "answer": "St. Louis",
+     "aliases": [
+      "Saint Louis"
+     ],
+     "tier": 6,
+     "lore": "In its 1904 marathon, the first man home had ridden part of the way in a car, and the winner ran on strychnine and brandy."
+    }
+   ],
+   "traps": [
+    {
+     "answer": "Brisbane",
+     "reason": "Brisbane's Games are still to come, in 2032."
+    },
+    {
+     "answer": "Olympia",
+     "reason": "The ancient Games were held at Olympia, but it has never hosted a modern Olympics."
+    },
+    {
+     "answer": "Pyongyang",
+     "reason": "That is North Korea's capital. The 2018 Winter Games were in Pyeongchang, in the South."
+    },
+    {
+     "answer": "Verona",
+     "reason": "Verona's arena held the 2026 closing ceremony, but the host cities were Milan and Cortina."
+    },
+    {
+     "answer": "Whistler",
+     "reason": "Whistler held the skiing in 2010, but the host city was Vancouver."
+    },
+    {
+     "answer": "Istanbul",
+     "reason": "Istanbul has bid again and again, but never hosted."
+    },
+    {
+     "answer": "Madrid",
+     "reason": "Madrid has bid several times, but never hosted."
+    },
+    {
+     "answer": "Chicago",
+     "reason": "Chicago bid for 2016 and lost to Rio."
+    },
+    {
+     "answer": "New York",
+     "aliases": [
+      "New York City",
+      "NYC"
+     ],
+     "reason": "New York bid for 2012 and lost to London."
+    },
+    {
+     "answer": "Dakar",
+     "reason": "Dakar hosted the Youth Olympic Games, not the main event."
+    }
+   ],
+   "decoys": [
+    "Montreux",
+    "Madras",
+    "Mumbai",
+    "Delhi",
+    "Shanghai",
+    "Osaka",
+    "Kyoto",
+    "Busan",
+    "Toronto",
+    "Ottawa",
+    "Quebec City",
+    "Edmonton",
+    "Perth",
+    "Adelaide",
+    "Auckland",
+    "Wellington",
+    "Buenos Aires",
+    "Sao Paulo",
+    "Lima",
+    "Bogota",
+    "Cairo",
+    "Cape Town",
+    "Johannesburg",
+    "Durban",
+    "Nairobi",
+    "Doha",
+    "Dubai",
+    "Riyadh",
+    "Jakarta",
+    "Manila",
+    "Bangkok",
+    "Singapore",
+    "Hong Kong",
+    "Taipei",
+    "Seville",
+    "Lisbon",
+    "Dublin",
+    "Prague",
+    "Vienna",
+    "Budapest",
+    "Warsaw",
+    "Krakow",
+    "Kyiv",
+    "Minsk",
+    "Saint Petersburg",
+    "Kazan",
+    "Zurich",
+    "Geneva",
+    "Lausanne",
+    "Salzburg",
+    "Lyon",
+    "Marseille",
+    "Nice",
+    "Venice",
+    "Naples",
+    "Florence",
+    "Hamburg",
+    "Frankfurt",
+    "Cologne",
+    "Manchester",
+    "Liverpool",
+    "Birmingham",
+    "Glasgow",
+    "Edinburgh",
+    "Cardiff",
+    "Belfast",
+    "Boston",
+    "Seattle",
+    "Denver",
+    "Phoenix",
+    "Dallas",
+    "Houston",
+    "Miami",
+    "Detroit",
+    "Philadelphia",
+    "San Francisco",
+    "San Diego",
+    "Las Vegas",
+    "Reno",
+    "Aspen",
+    "Vail",
+    "Bormio",
+    "Livigno",
+    "Val di Fiemme",
+    "Zhangjiakou",
+    "Gangneung",
+    "Sestriere",
+    "Courchevel",
+    "Nome",
+    "Rouen",
+    "Romeo"
+   ]
+  }
+ ]
+}
