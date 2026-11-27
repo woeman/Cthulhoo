@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="44%" r="72%">
+      <stop offset="0" stop-color="#143241"/>
+      <stop offset="0.5" stop-color="#061420"/>
+      <stop offset="1" stop-color="#030308"/>
+    </radialGradient>
+    <pattern id="lines" width="512" height="10" patternUnits="userSpaceOnUse">
+      <path d="M0 5H512" stroke="#58d3ea" stroke-opacity="0.17" stroke-width="1.8"/>
+    </pattern>
+    <radialGradient id="iris" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff2cf"/>
+      <stop offset="0.42" stop-color="#f0b562"/>
+      <stop offset="1" stop-color="#8a3f0c"/>
+    </radialGradient>
+    <radialGradient id="lid" cx="50%" cy="50%" r="50%">
+      <stop offset="0.55" stop-color="#58d3ea" stop-opacity="0"/>
+      <stop offset="1" stop-color="#58d3ea" stop-opacity="0.35"/>
+    </radialGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="almond"><path d="M92 256Q256 112 420 256Q256 400 92 256Z"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <rect width="512" height="512" fill="url(#lines)"/>
+  <g fill="#58d3ea" fill-opacity="0.8"><circle cx="118" cy="118" r="3.2"/><circle cx="402" cy="132" r="2.4"/><circle cx="372" cy="404" r="3"/><circle cx="140" cy="392" r="2.2"/><circle cx="84" cy="300" r="1.6"/><circle cx="436" cy="210" r="1.8"/><circle cx="220" cy="82" r="1.5"/><circle cx="300" cy="440" r="1.7"/></g>
+  <path d="M92 256Q256 112 420 256Q256 400 92 256Z" fill="#020206"/>
+  <g clip-path="url(#almond)">
+    <rect x="92" y="112" width="328" height="288" fill="url(#lid)"/>
+    <circle cx="256" cy="256" r="76" fill="url(#iris)"/>
+    <g stroke="#4a1f05" stroke-opacity="0.6" stroke-width="2.2" stroke-linecap="round"><path d="M284.0 256.0L329.0 256.0"/><path d="M286.8 259.5L328.5 264.2"/><path d="M289.1 263.6L327.2 272.2"/><path d="M282.4 265.2L324.9 280.1"/><path d="M283.9 269.5L321.8 287.7"/><path d="M284.8 274.1L317.8 294.8"/><path d="M277.9 273.5L313.1 301.5"/><path d="M277.9 277.9L307.6 307.6"/><path d="M277.2 282.6L301.5 313.1"/><path d="M270.9 279.7L294.8 317.8"/><path d="M269.5 283.9L287.7 321.8"/><path d="M267.2 288.1L280.1 324.9"/><path d="M262.2 283.3L272.2 327.2"/><path d="M259.5 286.8L264.2 328.5"/><path d="M256.0 290.0L256.0 329.0"/><path d="M252.9 283.8L247.8 328.5"/><path d="M249.1 286.2L239.8 327.2"/><path d="M244.8 288.1L231.9 324.9"/><path d="M243.9 281.2L224.3 321.8"/><path d="M239.5 282.2L217.2 317.8"/><path d="M234.8 282.6L210.5 313.1"/><path d="M236.2 275.8L204.4 307.6"/><path d="M231.8 275.3L198.9 301.5"/><path d="M227.2 274.1L194.2 294.8"/><path d="M230.8 268.1L190.2 287.7"/><path d="M226.7 266.2L187.1 280.1"/><path d="M222.9 263.6L184.8 272.2"/><path d="M228.2 259.1L183.5 264.2"/><path d="M225.0 256.0L183.0 256.0"/><path d="M222.2 252.2L183.5 247.8"/><path d="M228.7 249.8L184.8 239.8"/><path d="M226.7 245.8L187.1 231.9"/><path d="M225.4 241.2L190.2 224.3"/><path d="M232.3 241.1L194.2 217.2"/><path d="M231.8 236.7L198.9 210.5"/><path d="M232.0 232.0L204.4 204.4"/><path d="M238.5 234.1L210.5 198.9"/><path d="M239.5 229.8L217.2 194.2"/><path d="M241.2 225.4L224.3 190.2"/><path d="M246.8 229.6L231.9 187.1"/><path d="M249.1 225.8L239.8 184.8"/><path d="M252.2 222.2L247.8 183.5"/><path d="M256.0 228.0L256.0 183.0"/><path d="M259.5 225.2L264.2 183.5"/><path d="M263.6 222.9L272.2 184.8"/><path d="M265.2 229.6L280.1 187.1"/><path d="M269.5 228.1L287.7 190.2"/><path d="M274.1 227.2L294.8 194.2"/><path d="M273.5 234.1L301.5 198.9"/><path d="M277.9 234.1L307.6 204.4"/><path d="M282.6 234.8L313.1 210.5"/><path d="M279.7 241.1L317.8 217.2"/><path d="M283.9 242.5L321.8 224.3"/><path d="M288.1 244.8L324.9 231.9"/><path d="M283.3 249.8L327.2 239.8"/><path d="M286.8 252.5L328.5 247.8"/></g>
+    <circle cx="256" cy="256" r="76" fill="none" stroke="#2a1003" stroke-width="5"/>
+    <path d="M256 178Q279 256 256 334Q233 256 256 178Z" fill="#020206"/>
+    <ellipse cx="232" cy="226" rx="9" ry="6" fill="#fff6dc" fill-opacity="0.85"/>
+  </g>
+  <path d="M92 256Q256 112 420 256Q256 400 92 256Z" fill="none" stroke="#7fe3f2" stroke-width="6" stroke-linejoin="round" filter="url(#glow)"/>
+</svg>

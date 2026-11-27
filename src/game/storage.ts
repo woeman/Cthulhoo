@@ -5,8 +5,15 @@ import type { DayRecord, Settings } from './types';
 
 const NS = 'cthulhoo.v1';
 const mem = new Map<string, string>();
+let ephemeral = false;
+
+/** Keep everything in memory only (used by ?fresh for previews and tests). */
+export function setEphemeral(on: boolean): void {
+  ephemeral = on;
+}
 
 function read(key: string): string | null {
+  if (ephemeral) return mem.get(key) ?? null;
   try {
     const v = localStorage.getItem(`${NS}.${key}`);
     if (v !== null) return v;
@@ -18,6 +25,7 @@ function read(key: string): string | null {
 
 function write(key: string, value: string): void {
   mem.set(key, value);
+  if (ephemeral) return;
   try {
     localStorage.setItem(`${NS}.${key}`, value);
   } catch {

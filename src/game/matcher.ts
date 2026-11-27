@@ -39,7 +39,7 @@ export function normalize(input: string): string {
   s = s.replace(/[ßæœøłđðþı]/g, (c) => SPECIAL[c] ?? c);
   s = s.normalize('NFKD').replace(/[̀-ͯ]/g, '');
   s = s.replace(APOSTROPHES, '');
-  s = s.replace(/&/g, ' and ');
+  s = s.replace(/&/g, ' and ').replace(/\+/g, ' plus ').replace(/#/g, ' sharp ');
   s = s.replace(/[^a-z0-9]+/g, ' ').trim();
   s = s.replace(/^(the|a|an) (?=\S)/, '');
   return s;

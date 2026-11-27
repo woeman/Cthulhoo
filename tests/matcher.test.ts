@@ -99,3 +99,12 @@ describe('matchAnswer', () => {
     }
   });
 });
+
+describe('symbol spelling', () => {
+  it('keeps C, C++ and C# apart', () => {
+    expect(keyOf('C')).toBe('c');
+    expect(keyOf('C++')).toBe('cplusplus');
+    expect(keyOf('C#')).toBe('csharp');
+    expect(keyOf('F#')).toBe('fsharp');
+  });
+});
