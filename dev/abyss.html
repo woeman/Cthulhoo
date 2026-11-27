@@ -15,25 +15,61 @@
 <body>
 <div id="panel"></div>
 <script type="module">
+  // Query parameters, all optional:
+  //   depth, eye, madness, tension, flash   starting slider values
+  //   clean=1        hide the sliders
+  //   scale=1.6      pin the render scale (render px per CSS px), as the game's ?scale does
+  //   time=12.5      freeze the shader clock at this many seconds (repeatable screenshots)
+  //   visit=0.8      call summon() so the things in the dark come close
+  //   look=x,y       where the Eye looks (lookAt)
+  //   reduced=1      reduced motion
   import { Abyss } from '../src/render/abyss.ts';
   const q = new URLSearchParams(location.search);
-  const abyss = new Abyss(document.body, { reducedMotion: false });
+  const num = (k, d) => (q.has(k) && q.get(k) !== '' && Number.isFinite(Number(q.get(k))) ? Number(q.get(k)) : d);
+  const abyss = new Abyss(document.body, { reducedMotion: q.get('reduced') === '1', pinScale: num('scale', 0) });
   const panel = document.getElementById('panel');
   if (q.has('clean')) panel.classList.add('hidden');
+  // The fields poked below (clock, last, visit, gaze, pupil, nextBlink, eye) are the
+  // renderer's private state; this page reaches in so screenshots are repeatable.
+  if (q.has('time')) {
+    // Freeze everything: the shader clock, and every eased value (each frame sees dt = 0).
+    const at = num('time', 0);
+    const frame = abyss.frame.bind(abyss);
+    abyss.frame = (now) => {
+      abyss.last = now;
+      abyss.clock = at;
+      frame(now);
+    };
+    abyss.nextBlink = Infinity;
+    abyss.nextGlance = Infinity;
+    abyss.pupil = num('pupil', 0.3);
+    abyss.wasOpen = true; // or the first frame opens the pupil wide, and with dt = 0 it stays so
+  }
+  if (q.has('visit')) {
+    abyss.summon(num('visit', 0));
+    abyss.visit = num('visit', 0);
+    if (q.has('time')) abyss.noticeAt = -1e9; // no brightening motes in a still
+  }
+  if (q.has('look')) {
+    const [x, y] = q.get('look').split(',').map(Number);
+    abyss.lookAt(x || 0, y || 0);
+    abyss.gaze = { x: x || 0, y: y || 0 };
+  }
   const controls = [
-    ['depth', -60, 9000, 10, Number(q.get('depth') ?? -32), (v) => abyss.jumpTo(v)],
-    ['eye', 0, 1, 0.01, Number(q.get('eye') ?? 0), (v) => abyss.setEye(v)],
-    ['madness', 0, 1, 0.01, Number(q.get('madness') ?? 0), (v) => (abyss.madness = v)],
-    ['tension', 0, 1, 0.01, Number(q.get('tension') ?? 0), (v) => (abyss.tension = v)],
-    ['flash', 0, 1, 0.01, Number(q.get('flash') ?? 0), (v) => abyss.pulse(v)],
+    ['depth', -60, 9000, 10, num('depth', -32), (v) => abyss.jumpTo(v)],
+    // Snap the Eye as well as aiming it, so a screenshot need not wait for it to open.
+    ['eye', 0, 1, 0.01, num('eye', 0), (v, first) => { abyss.setEye(v); if (first) abyss.eye = v; }],
+    ['madness', 0, 1, 0.01, num('madness', 0), (v) => (abyss.madness = v)],
+    ['tension', 0, 1, 0.01, num('tension', 0), (v) => (abyss.tension = v)],
+    ['flash', 0, 1, 0.01, num('flash', 0), (v) => abyss.pulse(v)],
   ];
   for (const [name, min, max, step, val, set] of controls) {
     const label = document.createElement('label'); label.textContent = name;
     const input = Object.assign(document.createElement('input'), { type: 'range', min, max, step, value: val });
     const out = document.createElement('output'); out.textContent = val;
-    input.addEventListener('input', () => { out.textContent = input.value; set(Number(input.value)); });
+    input.addEventListener('input', () => { out.textContent = input.value; set(Number(input.value), false); });
     panel.append(label, input, out);
-    set(val);
+    set(val, true);
   }
   window.abyss = abyss;
   abyss.start();
