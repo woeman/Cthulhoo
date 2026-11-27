@@ -67,7 +67,7 @@ in pearl in the deep.
   <svg class="cth-specimen__seal"><use href="art/glyphs/tiers-sprite.svg#tier-3"/></svg>
   <span class="cth-specimen__name">Vampire squid</span>
   <span class="cth-specimen__tier">Obscure</span>
-  <span class="cth-specimen__depth">+480 m</span>
+  <span class="cth-specimen__depth">+400 m</span>
 </li>
 ```
 

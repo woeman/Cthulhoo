@@ -47,8 +47,10 @@ and it opens. We call the style **Ink & Phosphor**: ink at the top, living light
 | 6,000–7,000 m | The Dreaming Deep | Hadopelagic | a colour out of space `#ff69d3` | It knows you are coming. |
 | 7,000 m | The Drowned City | the floor | the Eye opens | Its true name is written only in glyphs. |
 
-The zone depths follow the real layers of the ocean. Rarer answers send you deeper,
-so the zones double as a rarity scale: **a rarity tier shines with the glow of its zone.**
+The zone depths follow the real layers of the ocean, and the game uses the same ones. In
+the game each accepted answer adds a base depth set by its tier, from 100 m for Commonplace
+to 1,000 m for Unspeakable, so rarer answers send you deeper. The zones double as the colour
+scale for rarity: **tier N always shines with the glow of zone N**, whatever depth you are at.
 
 | Tier | Name | Seal | Blurb |
 |---|---|---|---|
@@ -64,9 +66,6 @@ so the zones double as a rarity scale: **a rarity tier shines with the glow of i
 
 These are choices I made without being told. Each is easy to change.
 
-- **Guess:** the zone boundaries (200, 1,000, 4,000, 6,000 m) are also where the game's
-  rarity tiers change. The build thread owns the real scoring; if its tiers map to other
-  depths, only the token file changes.
 - **Guess:** the game is dark-only below the surface. There is no "light mode" for the
   deep, because the dark is the point. The surface is the light theme.
 - **Guess:** English only for now. The fonts are Latin subsets; other languages would

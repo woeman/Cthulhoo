@@ -11,7 +11,7 @@ art/
   js/         depth.js (colour at any depth), madness.js (text that goes wrong), tokens.js
   css/        fonts.css, base.css (page defaults), components.css (plates, buttons, tags, gauge…)
   fonts/      IM Fell English (+ SC), EB Garamond, Special Elite, with their licences
-  logo/       wordmark, lockup, mark, app icon, favicon; png/ with app-icon PNGs
+  logo/       wordmark, lockup, mark, app icon (plus a maskable one), favicon; png/ with the icon PNGs
   glyphs/     rarity seals tier-1…6 + refused, the Drowned Script (script/), and sprites
   icons/      18 interface icons and sprite.svg
   textures/   paper, foxing, film grain, murk, hatch tiles; silhouettes/ (SVG) and silhouettes/png/
@@ -104,6 +104,26 @@ Sprite ids: `tier-1` … `tier-6`, `refused`; `g-eye`, `g-coil`, `g-gate`, `g-sl
 `g-hand`, `g-void`; `i-close`, `i-back`, `i-menu`, `i-descend`, `i-share`, `i-settings`, `i-info`,
 `i-sound-on`, `i-sound-off`, `i-streak`, `i-daily`, `i-leaderboard`, `i-timer`, `i-stats`, `i-hint`,
 `i-depth`, `i-help`, `i-check`.
+
+## App icons
+
+`app-icon` is full bleed, for iOS and stores, which cut their own rounded corners.
+`app-icon-maskable` keeps the portholes inside the middle 80 % circle, for Android launchers,
+which cut circles and squircles. In the page and the web app manifest:
+
+```html
+<link rel="icon" href="/art/logo/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/art/logo/png/app-icon-180.png">
+```
+
+```json
+"icons": [
+  { "src": "/art/logo/png/app-icon-192.png", "sizes": "192x192", "type": "image/png" },
+  { "src": "/art/logo/png/app-icon-512.png", "sizes": "512x512", "type": "image/png" },
+  { "src": "/art/logo/png/app-icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+  { "src": "/art/logo/png/app-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+]
+```
 
 ## Silhouettes for the renderer
 
