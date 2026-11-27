@@ -18,10 +18,10 @@ import { icon } from '../ui/art';
 import { h } from '../ui/dom';
 import { installSeanceArt } from './seance/art';
 import { CandleScene, TableCandleScene, type CandleData } from './seance/candle';
-import { CallingScene, EntryScene, NO_RELAY, type EntryInit } from './seance/entry';
+import { CallingScene, EntryScene, NO_RELAY_LINK, type EntryInit } from './seance/entry';
 import { HandoffScene, LanternSealedScene, LanternSetupScene } from './seance/lantern';
 import { LobbyScene, TableLobbyScene } from './seance/lobby';
-import { choosePrompts, deepest, lanternResume, relayId, seatsOf, tierDepths } from './seance/model';
+import { choosePrompts, deepest, lanternResume, listNames, relayId, seatsOf, tierDepths } from './seance/model';
 import { dropStore, loadName, readJson, writeStore } from './seance/parts';
 import { EndScene, RevealScene, TableEndScene, TableRevealScene, type Role } from './seance/reveal';
 import type { Ctx, Scene } from './seance/scene';
@@ -34,6 +34,10 @@ export const PASS_KEY = 'cthulhoo.v1.pass';
 const ASKED_KEY = 'cthulhoo.v1.seanceAsked';
 /** How long the line may stay lost before we ask the surface whether the séance still exists. */
 const LOST_CHECK_MS = 15_000;
+/** A new medium is announced only once it has held this long: a reload hands the candles straight back. */
+const MEDIUM_SETTLE_MS = 2_500;
+/** How long news of the circle stays under the bar. */
+const NOTICE_MS = 7_000;
 
 const realLink: LinkFactory = (sign, hello, on, rejoin) => new SeanceLink(sign, hello, on, rejoin);
 
@@ -80,6 +84,11 @@ class SeanceScreen {
   private barSign: HTMLElement;
   private confirmBox: HTMLElement;
   private lostEl: HTMLElement;
+  private noticeEl: HTMLElement;
+  private noticeOff = 0;
+  private noticeStays = false;
+  /** The medium the circle was last told of, so a reload's flicker is never announced. */
+  private toldMedium: string | null = null;
   private scene: Scene | null = null;
   private ctx: Ctx;
   private relay: boolean;
@@ -119,6 +128,8 @@ class SeanceScreen {
     this.barSign = h('span', { class: 'sc-bar-sign' });
     this.confirmBox = h('div', { class: 'sc-confirm', hidden: true, role: 'group', 'aria-label': 'Leave the circle?' });
     this.lostEl = h('p', { class: 'sc-lost', hidden: true }, h('span', { class: 'sc-lost-dot', 'aria-hidden': 'true' }), 'The line to the surface is lost. Calling again…');
+    this.noticeEl = h('p', { class: 'sc-notice', hidden: true });
+    const rail = h('div', { class: 'sc-notice-rail' }, this.noticeEl);
     this.stage = h('div', { class: 'sc-stage' });
     this.el = h(
       'section',
@@ -126,6 +137,7 @@ class SeanceScreen {
       h('div', { class: 'sc-bar' }, this.backBtn, h('p', { class: 'sc-bar-title' }, h('span', { class: 't' }, 'The Séance'), this.barSign)),
       this.confirmBox,
       this.lostEl,
+      rail,
       this.stage,
     );
     this.ctx = {
@@ -195,7 +207,7 @@ class SeanceScreen {
     const seat = this.relay ? loadSeat() : null;
     if (opts.sign) {
       const sign = parseSign(opts.sign, 'seance');
-      if (!this.relay) return this.entry({ message: NO_RELAY });
+      if (!this.relay) return this.entry({ message: NO_RELAY_LINK });
       if (sign && seat && seat.sign === sign) return void this.rejoin(seat);
       if (sign && opts.table) return void this.sitTable(sign);
       return this.entry({ panel: opts.table ? 'table' : 'join', sign: sign ?? opts.sign, message: sign ? undefined : 'That is not a séance’s sign. It looks like DAGON-7: a word and one number.' });
@@ -346,6 +358,8 @@ class SeanceScreen {
     this.sign = sign;
     this.table = table;
     this.view = null;
+    this.toldMedium = null;
+    this.notice('');
     this.setBar('online', sign);
     if (!(this.scene instanceof CallingScene)) this.show(new CallingScene(this.ctx, sign, table, () => this.giveUp(), () => this.connect(sign, table, true)));
     const hello: Hello = { id: relayId(this.env.playerId, table), name: table ? '' : cleanName(loadName()), table };
@@ -432,9 +446,13 @@ class SeanceScreen {
 
   private onView(v: SeanceView) {
     if (this.dead) return;
-    const first = !this.view;
+    const prev = this.view;
+    const first = !prev;
     this.view = v;
-    if (first) saveSeat(this.sign, this.table);
+    if (first) {
+      saveSeat(this.sign, this.table);
+      this.toldMedium = v.medium;
+    } else this.noteCircle(prev, v);
     if (v.results.length) {
       const a = loadAsked(v.sign);
       let changed = false;
@@ -513,6 +531,44 @@ class SeanceScreen {
         return;
       }
     }
+  }
+
+  /**
+   * Who left, and who holds the candles now. A departure is said at once; a new medium only once it has
+   * held for a moment, so a phone that reloads and sits straight back down changes nothing anyone hears.
+   */
+  private noteCircle(prev: SeanceView, v: SeanceView) {
+    const gone = prev.sitters.filter((s) => !s.table && !v.sitters.some((x) => x.id === s.id)).map((s) => s.name);
+    if (gone.length) this.tell(`${listNames(gone)} ${gone.length === 1 ? 'leaves' : 'leave'} the circle.`);
+    // Only a table can watch the last phone go: it keeps saying so until someone sits back down.
+    const here = (x: SeanceView) => x.sitters.some((s) => !s.table && s.online);
+    if (here(prev) && !here(v) && v.phase !== 'lobby') this.tell(`Everyone has left the circle. Join again with ${v.sign}.`, 0);
+    else if (!here(prev) && here(v) && this.noticeStays) this.notice('');
+    if (v.medium === prev.medium) return;
+    const medium = v.medium;
+    this.later(() => {
+      const now = this.view;
+      if (!now || !medium || now.medium !== medium || medium === this.toldMedium) return;
+      // With nobody left, the rules hand the candles to the first to arrive; that is no news to tell.
+      const who = now.sitters.find((s) => s.id === medium);
+      if (!who?.online) return;
+      this.toldMedium = medium;
+      this.tell(medium === now.you ? 'The candles pass to you: you are the medium now.' : `The candles pass to ${who.name}: ${who.name} is the medium now.`);
+    }, MEDIUM_SETTLE_MS);
+  }
+
+  private tell(words: string, ms = NOTICE_MS) {
+    this.env.announce(words);
+    this.notice(words, ms);
+  }
+
+  /** A line over the top of the screen, for news the circle would otherwise only hear. 0 ms keeps it up. */
+  private notice(words: string, ms = NOTICE_MS) {
+    clearTimeout(this.noticeOff);
+    this.noticeEl.textContent = words;
+    this.noticeEl.hidden = !words;
+    this.noticeStays = !!words && !ms;
+    if (words && ms) this.noticeOff = this.later(() => (this.noticeEl.hidden = true), ms);
   }
 
   /** The medium lights the first candle: the questions are chosen on this device and sent whole. */

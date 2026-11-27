@@ -206,7 +206,7 @@ export class CandleScene extends Scene {
   update(data: CandleData) {
     this.data = { ...this.data, ...data };
     if (this.line && data.seats) {
-      this.line.setSeats(data.seats, data.sealed);
+      this.line.setSeats(data.seats);
       const fresh = this.line.set(data.sealed);
       const names = fresh.map((id) => data.seats?.find((s) => s.id === id)).filter((s): s is Seat => !!s && !s.you);
       if (names.length) this.env.announce(`${names.map((s) => s.name).join(' and ')} ${names.length === 1 ? 'has' : 'have'} sealed.`);

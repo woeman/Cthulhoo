@@ -84,8 +84,8 @@ const store = {
   },
 };
 
-// Each state starts clean: no seat to rejoin, no lantern burning, no cult.
-if (!LIVE) for (const k of [SEAT_KEY, PASS_KEY, ASKED_KEY, CULT_KEY]) store.drop(k);
+// Each state starts clean (no seat to rejoin, no lantern burning, no cult), unless &keep=1: a reload then picks up.
+if (!LIVE && !flag('keep')) for (const k of [SEAT_KEY, PASS_KEY, ASKED_KEY, CULT_KEY]) store.drop(k);
 if (q.get('name')) store.set(NAME_KEY, q.get('name') ?? '');
 
 const PID = playerId();
@@ -237,7 +237,10 @@ class Clock {
   }
 }
 
-const clock = new Clock(!RUN);
+// A state made for a screenshot holds the clock until the first tap or key; the ways in let it run.
+const OPENINGS = ['entry', 'entry-norelay', 'join', 'join-none', 'join-full', 'table-entry', 'lantern-setup'];
+const clock = new Clock(!RUN && !LIVE && !OPENINGS.includes(STATE));
+for (const ev of ['pointerdown', 'keydown'] as const) window.addEventListener(ev, () => clock.release(), { once: true, capture: true });
 
 // ------------------------------------------------------------------ who says what
 
@@ -1014,6 +1017,14 @@ Object.assign(window, {
     },
     lose: () => {
       for (const l of relay.links) l.lose();
+    },
+    /** One of the bench's sitters leaves the circle (the medium, Wren, by default). */
+    leave: (name = NAMES[0]) => {
+      const r = relay.rooms.get(SIGN) ?? [...relay.rooms.values()].pop();
+      if (!r) return;
+      leave(r, botId(name), clock.now());
+      settle(r);
+      relay.commit(r);
     },
     mend: () => {
       for (const l of relay.links) l.mend();

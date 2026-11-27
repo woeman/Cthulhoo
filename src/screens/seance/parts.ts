@@ -137,12 +137,14 @@ export class CircleLine {
     }
   }
 
-  /** New sitters, or someone stepped away. */
-  setSeats(seats: Seat[], sealed: Iterable<string>) {
+  /** New sitters, or someone stepped away. Who had sealed stays sealed; set() lights the rest. */
+  setSeats(seats: Seat[]) {
     const same = seats.length === this.seats.length && seats.every((s, i) => s.id === this.seats[i].id && s.online === this.seats[i].online);
+    if (same) return;
+    const was = [...this.cells].filter(([, cell]) => cell.classList.contains('is-sealed')).map(([id]) => id);
     this.seats = seats;
-    if (!same) this.build();
-    this.set(sealed, false);
+    this.build();
+    this.set(was, false);
   }
 
   /** Light the glyphs of those who have sealed. Returns the ones lit just now. */

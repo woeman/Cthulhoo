@@ -88,6 +88,41 @@
   gap: var(--space-3);
 }
 
+/* An engraver's reserve, as the title screen keeps one (app.css): small lettering that sits straight on
+   the picture keeps a margin of clean ground, so the hatching of the surface never runs through the
+   words. In the deep the same reserve is a little darkness. Plates and cards need none. */
+.seance-screen :is(
+    .sc-back,
+    .sc-bar-title,
+    .sc-lede,
+    .sc-sign-block > .kicker,
+    .sc-handoff > .kicker,
+    .sc-reveal-head > .kicker,
+    .sc-herald > .kicker,
+    .sc-sign-say,
+    .sc-share,
+    .sc-holdup-btn,
+    .sc-hint,
+    .sc-wait-line,
+    .sc-config-read,
+    .sc-calling-sign,
+    .sc-handoff-note
+  ) {
+  background: var(--reserve);
+  box-shadow: 0 0 10px 7px var(--reserve);
+}
+
+.seance-screen :is(.sc-bar-title, .sc-lede, .kicker, .sc-sign-say, .sc-hint, .sc-wait-line, .sc-config-read, .sc-calling-sign, .sc-handoff-note) {
+  border-radius: 1.2em;
+}
+
+.seance-screen :is(.sc-lede, .sc-hint, .sc-wait-line, .sc-config-read, .sc-handoff-note, .sc-calling-sign) {
+  width: fit-content;
+  max-width: min(100%, 30rem);
+  margin-inline: auto;
+  padding-inline: 0.4em;
+}
+
 /* the app bar the mode keeps for itself: the way out, and where you sit */
 .sc-bar {
   display: grid;
@@ -176,8 +211,58 @@
   color: var(--color-ink-muted);
 }
 
-.sc-lost[hidden] {
+.sc-lost[hidden],
+.sc-notice[hidden] {
   display: none;
+}
+
+/* News of the circle (who left, who holds the candles now), for a few seconds. The rail takes no room,
+   so the pill hangs over the top of the scene without moving the candle or a button, lets every tap
+   through, and stays in sight when the screen scrolls. */
+.sc-notice-rail {
+  position: sticky;
+  top: 8px;
+  z-index: 30;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  height: 0;
+  pointer-events: none;
+}
+
+.seance-screen.is-lost .sc-notice-rail {
+  display: none;
+}
+
+.sc-notice {
+  flex: none;
+  max-width: min(100%, 30rem);
+  margin: 0;
+  padding: 8px 18px;
+  border: 1px solid var(--color-rule);
+  border-radius: var(--radius-round);
+  background: var(--color-plate);
+  box-shadow: 0 10px 30px -12px rgb(0 0 0 / 0.6);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.35;
+  text-align: center;
+  text-wrap: balance;
+  color: var(--color-ink);
+  animation: sc-notice-in 0.5s var(--ease-drift) both;
+}
+
+.seance-screen.is-table .sc-notice {
+  max-width: min(100%, 46rem);
+  padding: 0.5em 1.4em;
+  font-size: var(--step-1);
+}
+
+@keyframes sc-notice-in {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
 }
 
 .sc-lost-dot {
@@ -1161,6 +1246,12 @@
   display: grid;
   gap: var(--space-4);
   align-content: center;
+  /* the words for the room keep one wide reserve of clean ground, a cartouche on the engraving */
+  align-self: center;
+  padding: var(--space-3) var(--space-4);
+  border-radius: 2.5em;
+  background: var(--reserve);
+  box-shadow: 0 0 28px 22px var(--reserve);
 }
 
 .sc-tl-k {
@@ -2677,6 +2768,7 @@
 
   .seance-screen .sc-candles.is-low .sc-cdl[data-state='burning'],
   .seance-screen .sc-lost-dot,
+  .seance-screen .sc-notice,
   .seance-screen .sc-voice[data-tier='6'].is-up {
     animation: none !important;
   }

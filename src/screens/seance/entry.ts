@@ -29,6 +29,8 @@ const TABLE_ICON =
   '<svg class="icon" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><g fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="2.8" y="4.2" width="18.4" height="12.4" rx="1"/><path d="M8.6 20.2 H15.4 M12 16.6 V20.2"/><path d="M12 7.2 C13.3 8.7 14 9.9 13.9 11.1 C13.8 12.1 13 12.8 12 12.8 C11 12.8 10.2 12.1 10.1 11.1 C10 9.9 10.7 8.7 12 7.2 Z"/></g></svg>';
 
 export const NO_RELAY = 'Séances across phones need the surface relay, which is not set up yet.';
+/** A séance's link opened where no relay is set up: say what the link was for, and what can be done here. */
+export const NO_RELAY_LINK = 'That link is to a séance across phones, and those cannot be held here yet. Pass the lantern round one phone instead.';
 
 /** Every chair at the table, as the scene wants it: for the table drawn as a crest. */
 const allSeats = (state: (mark: number) => SeatState): TableSeat[] => Array.from({ length: SEATS }, (_, m) => ({ id: `chair-${m}`, name: '', mark: m, state: state(m) }));

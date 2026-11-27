@@ -19,8 +19,9 @@
 <!--
   Every screen of the Séance with a made-up circle, for tuning by eye. A real room
   (src/party/room.ts) runs in the page in place of the surface relay, with bots for
-  the other sitters, so each view is one the relay would send. The clock holds still
-  until the medium lights a candle (&run=1 keeps it running from the start).
+  the other sitters, so each view is one the relay would send. In a state made for a
+  screenshot the clock holds still until the first tap or key, or the medium lighting a
+  candle (&run=1 keeps it running from the start).
 
   ?state=   entry entry-norelay join join-none join-full table-entry calling
             lobby lobby-sitter lobby-lost table-lobby
@@ -34,10 +35,12 @@
   &burnt=0.4    how far the candle has burnt down
   &away=0|1     one sitter has stepped away (on by default from six sitters)
   &bots=3       how many come to sit at a séance held from the entry
+  &keep=1       keep what this browser saved (a reload picks the séance up)
   &norelay=1    as built without VITE_RELAY_URL      &today=9 (the day number; the cult's default)
   &depth=3000   the water to start in    &reduced=1    &abyss=0 (no WebGL)    &shot=1 (hide this menu)
   ?live=1       the real thing, through VITE_RELAY_URL: &seance=SIGN to join, &table=1 to be the table, &name=Bram
-  window.__bench has what was said aloud, the clock, the relay and the room.
+  window.__bench has what was said aloud, the clock, the relay and the room, and can
+  drop the line (lose, mend) or send a sitter away (leave('Wren') hands the candles on).
 -->
 <div id="app"></div>
 <script type="module" src="./seance.ts"></script>
