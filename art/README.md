@@ -11,7 +11,7 @@ art/
   js/         depth.js (colour at any depth), madness.js (text that goes wrong), tokens.js
   css/        fonts.css, base.css (page defaults), components.css (plates, buttons, tags, gauge…)
   fonts/      IM Fell English (+ SC), EB Garamond, Special Elite, with their licences
-  logo/       wordmark, lockup, mark, app icon (plus a maskable one), favicon; png/ with the icon PNGs
+  logo/       wordmark, lockup, mark, app icon (plus maskable and monochrome ones), favicon; png/ with the icon PNGs
   glyphs/     rarity seals tier-1…6 + refused, the Drowned Script (script/), and sprites
   icons/      18 interface icons and sprite.svg
   textures/   paper, foxing, film grain, murk, hatch tiles; silhouettes/ (SVG) and silhouettes/png/
@@ -109,7 +109,9 @@ Sprite ids: `tier-1` … `tier-6`, `refused`; `g-eye`, `g-coil`, `g-gate`, `g-sl
 
 `app-icon` is full bleed, for iOS and stores, which cut their own rounded corners.
 `app-icon-maskable` keeps the portholes inside the middle 80 % circle, for Android launchers,
-which cut circles and squircles. In the page and the web app manifest:
+which cut circles and squircles. `app-icon-monochrome` is the same mark in white on transparent,
+for Android's themed icons, which keep only its shape and paint it in the person's colours.
+In the page and the web app manifest:
 
 ```html
 <link rel="icon" href="/art/logo/favicon.svg" type="image/svg+xml">
@@ -121,7 +123,8 @@ which cut circles and squircles. In the page and the web app manifest:
   { "src": "/art/logo/png/app-icon-192.png", "sizes": "192x192", "type": "image/png" },
   { "src": "/art/logo/png/app-icon-512.png", "sizes": "512x512", "type": "image/png" },
   { "src": "/art/logo/png/app-icon-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
-  { "src": "/art/logo/png/app-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  { "src": "/art/logo/png/app-icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+  { "src": "/art/logo/png/app-icon-monochrome-512.png", "sizes": "512x512", "type": "image/png", "purpose": "monochrome" }
 ]
 ```
 
