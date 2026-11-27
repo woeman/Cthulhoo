@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Etching shader lab</title>
+<link rel="stylesheet" href="../../../art/css/fonts.css">
+<style>
+  html, body { margin: 0; height: 100%; background: #030107; color: #e6f2dc; font: 14px/1.4 "Special Elite", monospace; }
+  canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+  .bar { position: fixed; left: 12px; right: 12px; bottom: 12px; display: flex; gap: 12px; align-items: center;
+         padding: 10px 14px; background: rgb(0 0 0 / 0.55); border: 1px solid rgb(255 255 255 / 0.15); }
+  .bar input { flex: 1; }
+  .bar output { min-width: 9ch; text-align: right; }
+  .static .bar { display: none; }
+</style>
+</head>
+<body>
+<canvas id="c"></canvas>
+<div class="bar">
+  <label for="d">Depth</label><input id="d" type="range" min="0" max="7000" step="10" value="0">
+  <output id="o">0 m</output>
+  <label for="m">Madness</label><input id="m" type="range" min="0" max="1" step="0.01" value="0" style="flex:0 0 120px">
+</div>
+<script type="module">
+  // Lab for the concept shader. Query: ?d=4800 (depth in m) &t=12 (time) &static=1 (one frame, for screenshots) &mad=0.5
+  import { createEtchingBackground } from './etching-concept.js';
+  import { formatDepth } from '../../../art/js/depth.js';
+  const q = new URLSearchParams(location.search);
+  const isStatic = q.get('static') === '1';
+  const depth = +(q.get('d') || 0);
+  document.body.classList.toggle('static', isStatic);
+  const bg = createEtchingBackground(document.getElementById('c'), { static: isStatic, preserve: isStatic, depth, time: +(q.get('t') || 12) });
+  bg.setDepth(depth, { instant: true });
+  bg.setMadness(+(q.get('mad') || 0));
+  const d = document.getElementById('d'), o = document.getElementById('o'), m = document.getElementById('m');
+  d.value = depth; o.textContent = formatDepth(depth);
+  d.addEventListener('input', () => { bg.setDepth(+d.value); o.textContent = formatDepth(+d.value); });
+  m.addEventListener('input', () => bg.setMadness(+m.value));
+  window.__ready = true;
+</script>
+</body>
+</html>

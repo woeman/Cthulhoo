@@ -1,0 +1,251 @@
+/* Cthulhoo design tokens (CSS custom properties)
+ * GENERATED from art/tokens/tokens.json by art/tools/build-tokens.mjs. Do not edit by hand.
+ * Style: Ink & Phosphor · v0.1.0
+ */
+
+@property --color-ground { syntax: '<color>'; inherits: true; initial-value: #e7ddc6; }
+@property --color-plate { syntax: '<color>'; inherits: true; initial-value: #efe7d4; }
+@property --color-ink { syntax: '<color>'; inherits: true; initial-value: #1d1813; }
+@property --color-ink-muted { syntax: '<color>'; inherits: true; initial-value: #5b5143; }
+@property --color-rule { syntax: '<color>'; inherits: true; initial-value: #3b3227; }
+@property --color-glow { syntax: '<color>'; inherits: true; initial-value: #7a5810; }
+@property --color-accent { syntax: '<color>'; inherits: true; initial-value: #9e2f22; }
+@property --color-action { syntax: '<color>'; inherits: true; initial-value: #8e2b1d; }
+@property --color-on-action { syntax: '<color>'; inherits: true; initial-value: #f7efdc; }
+@property --color-refused { syntax: '<color>'; inherits: true; initial-value: #a2321f; }
+@property --color-focus { syntax: '<color>'; inherits: true; initial-value: #8e2b1d; }
+@property --color-water { syntax: '<color>'; inherits: true; initial-value: #9aaea9; }
+@property --color-fog { syntax: '<color>'; inherits: true; initial-value: #e3dccb; }
+
+:root {
+  /* Type families. Fonts are self-hosted in art/fonts (see art/css/fonts.css). */
+  --font-display: "IM Fell English", "EB Garamond", Georgia, serif;
+  --font-display-caps: "IM Fell English SC", "IM Fell English", Georgia, serif;
+  --font-text: "EB Garamond", Georgia, "Times New Roman", serif;
+  --font-log: "Special Elite", "Courier Prime", "Courier New", monospace;
+
+  /* Fluid type scale: --step-0 is body text. */
+  --step--2: clamp(0.72rem, 0.70rem + 0.10vw, 0.78rem);
+  --step--1: clamp(0.84rem, 0.81rem + 0.15vw, 0.92rem);
+  --step-0: clamp(1.00rem, 0.96rem + 0.20vw, 1.10rem);
+  --step-1: clamp(1.20rem, 1.12rem + 0.40vw, 1.40rem);
+  --step-2: clamp(1.45rem, 1.30rem + 0.75vw, 1.85rem);
+  --step-3: clamp(1.80rem, 1.55rem + 1.25vw, 2.50rem);
+  --step-4: clamp(2.30rem, 1.85rem + 2.25vw, 3.50rem);
+  --step-5: clamp(3.00rem, 2.20rem + 4.00vw, 5.20rem);
+  --step-6: clamp(3.80rem, 2.40rem + 7.00vw, 8.00rem);
+  --leading-tight: 1.05;
+  --leading-display: 1.15;
+  --leading-text: 1.5;
+  --leading-log: 1.6;
+  --tracking-caps: 0.12em;
+  --tracking-caps-wide: 0.28em;
+  --tracking-log: 0.02em;
+
+  /* Space, radius, rules */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-5: 24px;
+  --space-6: 32px;
+  --space-7: 48px;
+  --space-8: 64px;
+  --space-9: 96px;
+  --radius-none: 0;
+  --radius-hair: 2px;
+  --radius-tag: 6px;
+  --radius-round: 999px;
+  --rule-hair: 1px;
+  --rule-plate: 3px;
+
+  /* Motion. Nothing bounces in deep water: no overshoot easings. */
+  --ease-surface: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-sink: cubic-bezier(0.7, 0, 0.84, 0);
+  --ease-descent: cubic-bezier(0.65, 0, 0.35, 1);
+  --ease-drift: cubic-bezier(0.37, 0, 0.63, 1);
+  --dur-quick: 160ms;
+  --dur-ui: 280ms;
+  --dur-reveal: 700ms;
+  --dur-ink: 1200ms;
+  --dur-descent: 2400ms;
+  --dur-breath: 7000ms;
+
+  /* Layers */
+  --z-abyss: 0;
+  --z-murk: 1;
+  --z-ui: 10;
+  --z-overlay: 50;
+  --z-telegram: 80;
+  --z-madness: 90;
+
+  /* Live depth, written by depth.js applyDepth(): 0 at the surface, 1 at the floor. */
+  --depth: 0;
+  --depth-m: 0;
+
+  /* Rarity tiers on dark water (re-mapped for paper inside the Shallows). */
+  --color-tier-1: #e9e1cf;
+  --color-tier-2: #f0b562;
+  --color-tier-3: #58d3ea;
+  --color-tier-4: #b6ec66;
+  --color-tier-5: #ff69d3;
+  --color-tier-6: #f1e2ff;
+
+  /* Default theme = the Shallows. */
+  --color-ground: #e7ddc6;
+  --color-plate: #efe7d4;
+  --color-ink: #1d1813;
+  --color-ink-muted: #5b5143;
+  --color-rule: #3b3227;
+  --color-glow: #7a5810;
+  --color-accent: #9e2f22;
+  --color-action: #8e2b1d;
+  --color-on-action: #f7efdc;
+  --color-refused: #a2321f;
+  --color-focus: #8e2b1d;
+  --color-water: #9aaea9;
+  --color-fog: #e3dccb;
+  color-scheme: light;
+}
+
+/* The Shallows · 0–200 m · Fog on the water, the last of the sun. */
+[data-zone="surface"] {
+  --color-ground: #e7ddc6;
+  --color-plate: #efe7d4;
+  --color-ink: #1d1813;
+  --color-ink-muted: #5b5143;
+  --color-rule: #3b3227;
+  --color-glow: #7a5810;
+  --color-accent: #9e2f22;
+  --color-action: #8e2b1d;
+  --color-on-action: #f7efdc;
+  --color-refused: #a2321f;
+  --color-focus: #8e2b1d;
+  --color-water: #9aaea9;
+  --color-fog: #e3dccb;
+  --color-tier-1: #665e51;
+  --color-tier-2: #8a5810;
+  --color-tier-3: #17687a;
+  --color-tier-4: #436816;
+  --color-tier-5: #992a7a;
+  --color-tier-6: #5d3f94;
+  color-scheme: light;
+}
+
+/* The Gloaming · 200–1000 m · Where the light gives up. */
+[data-zone="twilight"] {
+  --color-ground: #0f2530;
+  --color-plate: #143241;
+  --color-ink: #e3ece8;
+  --color-ink-muted: #9db5b4;
+  --color-rule: #4f7477;
+  --color-glow: #f0b562;
+  --color-accent: #8fd0e8;
+  --color-action: #f0b562;
+  --color-on-action: #22160a;
+  --color-refused: #ff8a6e;
+  --color-focus: #f0b562;
+  --color-water: #2c5360;
+  --color-fog: #7a9799;
+  --color-tier-1: #e9e1cf;
+  --color-tier-2: #f0b562;
+  --color-tier-3: #58d3ea;
+  --color-tier-4: #b6ec66;
+  --color-tier-5: #ff69d3;
+  --color-tier-6: #f1e2ff;
+  color-scheme: dark;
+}
+
+/* The Stygian Dark · 1000–4000 m · Lights that are not ours. */
+[data-zone="midnight"] {
+  --color-ground: #061420;
+  --color-plate: #0b2030;
+  --color-ink: #dcf4f5;
+  --color-ink-muted: #86aab0;
+  --color-rule: #2d5a66;
+  --color-glow: #58d3ea;
+  --color-accent: #ff5a4c;
+  --color-action: #58d3ea;
+  --color-on-action: #04212a;
+  --color-refused: #ff6a5c;
+  --color-focus: #58d3ea;
+  --color-water: #0a2231;
+  --color-fog: #1a3947;
+  --color-tier-1: #e9e1cf;
+  --color-tier-2: #f0b562;
+  --color-tier-3: #58d3ea;
+  --color-tier-4: #b6ec66;
+  --color-tier-5: #ff69d3;
+  --color-tier-6: #f1e2ff;
+  color-scheme: dark;
+}
+
+/* The Cyclopean Abyss · 4000–6000 m · Stones cut by no human hand. */
+[data-zone="abyss"] {
+  --color-ground: #050b12;
+  --color-plate: #0b1420;
+  --color-ink: #e6f2dc;
+  --color-ink-muted: #9aab93;
+  --color-rule: #364a3c;
+  --color-glow: #b6ec66;
+  --color-accent: #ff5470;
+  --color-action: #b6ec66;
+  --color-on-action: #142204;
+  --color-refused: #ff6b80;
+  --color-focus: #b6ec66;
+  --color-water: #050c15;
+  --color-fog: #112032;
+  --color-tier-1: #e9e1cf;
+  --color-tier-2: #f0b562;
+  --color-tier-3: #58d3ea;
+  --color-tier-4: #b6ec66;
+  --color-tier-5: #ff69d3;
+  --color-tier-6: #f1e2ff;
+  color-scheme: dark;
+}
+
+/* The Dreaming Deep · 6000–7000 m · It knows you are coming. */
+[data-zone="hadal"] {
+  --color-ground: #07040d;
+  --color-plate: #130a1e;
+  --color-ink: #f6e9f6;
+  --color-ink-muted: #b9a0bf;
+  --color-rule: #553a64;
+  --color-glow: #ff69d3;
+  --color-accent: #ffc95c;
+  --color-action: #ff69d3;
+  --color-on-action: #2a0620;
+  --color-refused: #ff8080;
+  --color-focus: #ffc95c;
+  --color-water: #06040d;
+  --color-fog: #1f1034;
+  --color-tier-1: #e9e1cf;
+  --color-tier-2: #f0b562;
+  --color-tier-3: #58d3ea;
+  --color-tier-4: #b6ec66;
+  --color-tier-5: #ff69d3;
+  --color-tier-6: #f1e2ff;
+  color-scheme: dark;
+}
+
+/* Derived tokens. Declared on every themed element so they follow its zone. */
+:root, [data-zone] {
+  --color-ink-faint: color-mix(in oklab, var(--color-ink) 38%, transparent);
+  --color-rule-soft: color-mix(in oklab, var(--color-rule) 55%, transparent);
+  --color-plate-veil: color-mix(in oklab, var(--color-plate) 82%, transparent);
+  --color-glow-soft: color-mix(in oklab, var(--color-glow) 34%, transparent);
+  --color-glow-faint: color-mix(in oklab, var(--color-glow) 14%, transparent);
+  --color-accent-soft: color-mix(in oklab, var(--color-accent) 34%, transparent);
+  --shadow-plate: 0 1px 0 var(--color-rule-soft), 0 18px 40px -24px color-mix(in oklab, var(--color-water) 80%, black);
+  --glow-line: 0 0 6px var(--color-glow-soft), 0 0 22px var(--color-glow-faint);
+}
+
+/* Zone changes ink-wash across the page instead of snapping. */
+[data-zone] {
+  transition-property: --color-ground, --color-plate, --color-ink, --color-ink-muted, --color-rule, --color-glow, --color-accent, --color-action, --color-on-action, --color-refused, --color-focus, --color-water, --color-fog;
+  transition-duration: var(--dur-ink);
+  transition-timing-function: var(--ease-descent);
+}
+@media (prefers-reduced-motion: reduce) {
+  [data-zone] { transition-duration: 1ms; }
+}

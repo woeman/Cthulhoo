@@ -1,0 +1,52 @@
+/* Cthulhoo fonts, self-hosted so the game works offline.
+ * Latin subsets from Fontsource (Google Fonts builds). Licences sit next to the files in art/fonts.
+ *   IM Fell English + IM Fell English SC — SIL Open Font License 1.1 (Igino Marini's revival of the Fell types, c. 1670)
+ *   EB Garamond (variable weight 400–800) — SIL Open Font License 1.1
+ *   Special Elite — Apache License 2.0
+ * If you install the npm packages instead, see the "packages" block in art/tokens/tokens.json.
+ */
+
+@font-face {
+  font-family: "IM Fell English";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/im-fell-english-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IM Fell English";
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/im-fell-english-400-italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "IM Fell English SC";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/im-fell-english-sc-400.woff2") format("woff2");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/eb-garamond-variable.woff2") format("woff2-variations"),
+       url("../fonts/eb-garamond-variable.woff2") format("woff2");
+}
+@font-face {
+  font-family: "EB Garamond";
+  font-style: italic;
+  font-weight: 400 800;
+  font-display: swap;
+  src: url("../fonts/eb-garamond-variable-italic.woff2") format("woff2-variations"),
+       url("../fonts/eb-garamond-variable-italic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Special Elite";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../fonts/special-elite-400.woff2") format("woff2");
+}
