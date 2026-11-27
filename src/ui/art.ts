@@ -7,6 +7,7 @@ import tiersSprite from '../../art/glyphs/tiers-sprite.svg?raw';
 import iconSprite from '../../art/icons/sprite.svg?raw';
 import scriptSprite from '../../art/glyphs/script-sprite.svg?raw';
 import marksSprite from '../../art/glyphs/marks-sprite.svg?raw';
+import sigilsSprite from '../../art/glyphs/sigils-sprite.svg?raw';
 import wordmarkSvg from '../../art/logo/wordmark.svg?raw';
 import { createMadness, madnessForDepth } from '../../art/js/madness.js';
 
@@ -37,7 +38,7 @@ export function installArt(doc: Document = document): void {
     return el;
   };
   // madness.js looks for its Drowned Script sprite under this id, and fetches it otherwise.
-  doc.body.prepend(holder('cth-sprites', untitled(tiersSprite) + untitled(iconSprite) + untitled(marksSprite)), holder('cth-mad-sprite', scriptSprite));
+  doc.body.prepend(holder('cth-sprites', untitled(tiersSprite) + untitled(iconSprite) + untitled(marksSprite) + untitled(sigilsSprite)), holder('cth-mad-sprite', scriptSprite));
 }
 
 /** An interface icon from the kit, as markup for a button. Decorative: label the button. */
