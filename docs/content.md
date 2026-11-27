@@ -59,7 +59,7 @@ Ten categories, which are also the topics for the Logbook's Sigils:
 | `sport`     | Sport        | The Drowned Games           | 6       |
 | `misc`      | Miscellany   | Flotsam and Jetsam          | 7       |
 
-That is 73 prompts with about 7,500 accepted answers, not counting the
+That is 73 prompts with about 8,700 accepted answers, not counting the
 thousands of extra spellings. Run `node scripts/validate-content.mjs --stats`
 for the exact numbers.
 
@@ -76,6 +76,7 @@ presentation is horror: the flavour lines, the trap messages and the lore.
 | `scripts/lib/matcher.mjs`           | The reference matcher. The game's matcher must behave the same    |
 | `scripts/validate-content.mjs`      | Checks every file and explains anything wrong                     |
 | `scripts/try-answer.mjs`            | Type answers at a prompt and see what the game would do           |
+| `scripts/diff-answers.mjs`          | Shows what your edits change for players, typos included          |
 | `scripts/matcher-cases.json`        | Test cases both matchers must pass, run by `scripts/check-matcher.mjs` |
 | `scripts/lexicons/*.json`           | Lists of real countries and cities, used to catch near-misses      |
 
@@ -405,6 +406,7 @@ folder:
 node scripts/validate-content.mjs           # errors and warnings
 node scripts/validate-content.mjs --stats   # plus answers per tier for every prompt
 node scripts/try-answer.mjs dog-breeds "Sausage dog" "Alsation" "Labradoodle"
+node scripts/diff-answers.mjs              # what your edits changed, typos included
 node scripts/check-matcher.mjs              # only needed after changing the matcher
 ```
 
@@ -432,6 +434,16 @@ warns about long lines, a page outside 60 to 120 words, and any verse, hint
 or trap reason that says the answer.
 
 The bank should always pass with no errors and no warnings.
+
+Before you commit a change to the data, run `diff-answers`. It replays every
+spelling from the last committed version of each prompt you changed, plus
+every typo with one letter missing or two letters swapped, and lists anything
+that now lands differently. That is how you catch a new spelling that quietly
+steals typos from a common answer. Adding the old unit "Tola" to `units`,
+for example, would make "Tsla" ambiguous between it and Tesla. Some changes
+are meant (a trap that became an answer, a new tier), so read the list rather
+than aiming for zero. Add `--base origin/main` to compare against main
+instead of the last commit, or name files (`sport misc`) to check only those.
 
 ## Keeping it fresh
 
