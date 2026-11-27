@@ -1,0 +1,990 @@
+/* The Logbook: one diver's career as an expedition's survey chart.
+   docs/art/06-interface.md, "The Logbook". The section carries the zone of the career
+   depth (data-zone), so the head sits in that water; the chart sheet starts on paper
+   (its own data-zone="surface") and every label on it carries the zone of its depth. */
+
+.screen.logbook-screen {
+  --lb-bar-h: 56px;
+  --lb-reserve: color-mix(in oklab, var(--color-ground) 92%, transparent);
+  display: block;
+  padding: 0 0 calc(var(--space-8) + env(safe-area-inset-bottom));
+  color: var(--color-ink);
+  background-color: var(--color-ground);
+  background-image:
+    radial-gradient(120% 70% at 50% 0%, color-mix(in oklab, var(--lb-fog) 70%, transparent) 0%, transparent 62%),
+    linear-gradient(var(--lb-water), var(--color-ground) 78%);
+  scroll-padding-top: var(--lb-bar-h);
+}
+
+/* the Shallows: the head is printed on the paper itself */
+.screen.logbook-screen[data-zone="surface"] {
+  background-image:
+    radial-gradient(110% 60% at 50% 0%, color-mix(in oklab, var(--color-plate) 70%, transparent) 0%, transparent 70%),
+    url("../../art/textures/paper-grain.png");
+  background-size: auto, 512px;
+  background-blend-mode: normal, multiply;
+}
+
+.screen.logbook-screen > * {
+  width: auto;
+  max-width: none;
+}
+
+:where(.logbook-screen) :where(p, h1, h2, h3, figure) {
+  margin: 0;
+}
+
+/* ------------------------------------------------------------ the bar */
+
+.lb-bar {
+  position: sticky;
+  top: 0;
+  z-index: 6;
+  display: grid;
+  grid-template-columns: 48px minmax(0, 1fr) 48px;
+  align-items: center;
+  height: var(--lb-bar-h);
+  padding: 0 var(--space-2);
+  background: linear-gradient(to bottom, var(--lb-reserve) 0%, var(--lb-reserve) 64%, transparent 100%);
+}
+
+.lb-iconbtn.icon-btn {
+  width: 48px;
+  height: 48px;
+}
+
+.lb-bar__name {
+  text-align: center;
+  font: var(--step--1) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ------------------------------------------------------------ the page */
+
+.lb-page {
+  width: min(100%, 46rem);
+  margin: 0 auto;
+  padding: 0 var(--space-4);
+}
+
+.lb-block {
+  margin-top: var(--space-7);
+}
+
+.lb-sechead {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
+}
+
+/* an engraved double rule between the heading and its note */
+.lb-sechead::after {
+  content: "";
+  order: 1;
+  flex: 1;
+  min-width: var(--space-5);
+  height: 3px;
+  border-top: 1px solid var(--color-rule);
+  border-bottom: 1px solid var(--color-rule-soft);
+}
+
+.lb-h2 {
+  flex: none;
+  font: var(--step--1) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: lowercase;
+  color: var(--color-ink);
+}
+
+.lb-aside {
+  order: 2;
+  flex: none;
+  max-width: 55%;
+  font: var(--step--2) / 1.2 var(--font-log);
+  letter-spacing: 0.06em;
+  color: var(--color-ink-muted);
+  text-align: right;
+}
+
+.lb-h3 {
+  font: var(--step-0) / 1.15 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink);
+}
+
+.lb-h3--rule {
+  margin: var(--space-6) 0 var(--space-3);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid var(--color-rule-soft);
+  font-size: var(--step--1);
+}
+
+.lb-h3__count {
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.06em;
+  color: var(--color-ink-muted);
+}
+
+.lb-note {
+  margin-top: var(--space-4);
+  font: italic var(--step--1) / 1.45 var(--font-text);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.lb-line {
+  margin-top: var(--space-1);
+  font: var(--step--1) / 1.45 var(--font-text);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* ------------------------------------------------------------ the cartouche */
+
+.lb-cartouche {
+  position: relative;
+  margin: var(--space-3) 6px 0;
+  padding: var(--space-6) var(--space-4) var(--space-5);
+  text-align: center;
+  border: 1px solid var(--color-rule);
+  outline: 1px solid var(--color-rule-soft);
+  outline-offset: 4px;
+  background: color-mix(in oklab, var(--color-plate) 55%, transparent);
+  box-shadow: var(--shadow-plate);
+}
+
+.logbook-screen[data-zone="surface"] .lb-cartouche {
+  background: color-mix(in oklab, var(--color-plate) 70%, transparent);
+}
+
+.logbook-screen:not([data-zone="surface"]) .lb-cartouche {
+  border-color: color-mix(in oklab, var(--color-glow) 38%, var(--color-rule));
+  box-shadow: var(--shadow-plate), inset 0 0 60px -18px var(--color-glow-faint);
+}
+
+/* the corners of a printing plate: four small diamonds on the outer rule */
+.lb-cartouche::before {
+  content: "";
+  position: absolute;
+  inset: -9px;
+  pointer-events: none;
+  background: var(--color-rule);
+  --d: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 12'%3E%3Cpath d='M6 0 L12 6 L6 12 L0 6Z'/%3E%3C/svg%3E");
+  -webkit-mask: var(--d) top left / 10px 10px no-repeat, var(--d) top right / 10px 10px no-repeat, var(--d) bottom left / 10px 10px no-repeat,
+    var(--d) bottom right / 10px 10px no-repeat;
+  mask: var(--d) top left / 10px 10px no-repeat, var(--d) top right / 10px 10px no-repeat, var(--d) bottom left / 10px 10px no-repeat,
+    var(--d) bottom right / 10px 10px no-repeat;
+}
+
+.lb-kicker {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  font: var(--step--2) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.lb-kicker::before,
+.lb-kicker::after {
+  content: "";
+  width: var(--space-6);
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.lb-title {
+  margin-top: var(--space-3);
+  font: var(--step-4) / 1.04 var(--font-display);
+  letter-spacing: -0.005em;
+  color: var(--color-ink);
+  text-wrap: balance;
+  overflow-wrap: break-word;
+}
+
+.logbook-screen:not([data-zone="surface"]) .lb-title {
+  text-shadow: 0 0 30px var(--color-glow-faint);
+}
+
+.lb-cartouche__rule.cth-rule {
+  max-width: 15rem;
+  margin: var(--space-4) auto;
+}
+
+.lb-cartouche__rule.cth-rule > svg {
+  width: 22px;
+  height: 22px;
+}
+
+.lb-synopsis {
+  max-width: 32ch;
+  margin: 0 auto;
+  font: italic var(--step-1) / 1.38 var(--font-text);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.lb-depth {
+  display: grid;
+  justify-items: center;
+  gap: 6px;
+  margin-top: var(--space-5);
+  padding-top: var(--space-4);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.lb-depth__m {
+  font: var(--step-3) / 1 var(--font-log);
+  letter-spacing: var(--tracking-log);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-glow);
+  text-shadow: var(--glow-line);
+}
+
+.logbook-screen[data-zone="surface"] .lb-depth__m {
+  color: var(--color-ink);
+  text-shadow: none;
+}
+
+.lb-depth__k {
+  font: var(--step--2) / 1.25 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.lb-depth__next {
+  font: italic var(--step--1) / 1.35 var(--font-text);
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+/* ------------------------------------------------------------ the Sigils */
+
+.lb-sigils {
+  container-type: inline-size;
+}
+
+.lb-sigils__grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  gap: var(--space-5) 2px;
+}
+
+.lb-sigils__cell {
+  display: grid;
+  justify-items: center;
+  min-width: 0;
+}
+
+.lb-sigils .cth-sigil {
+  --size: 40px;
+  max-width: 100%;
+}
+
+.lb-sigils .cth-sigil figcaption {
+  font-size: var(--step--2);
+  letter-spacing: 0.03em;
+  overflow-wrap: anywhere;
+}
+
+.lb-sigils .cth-sigil figcaption > span:not(.visually-hidden) {
+  font-size: 10px;
+  letter-spacing: 0.08em;
+}
+
+/* the strongest Sigil is underscored, like the line a surveyor rules under a reading */
+.lb-sigils__cell[data-top] .cth-sigil figcaption {
+  color: var(--color-ink);
+}
+
+.lb-sigils__cell[data-top] .cth-sigil::after {
+  content: "";
+  width: 18px;
+  height: 3px;
+  border-top: 1px solid currentColor;
+  border-bottom: 1px solid currentColor;
+  opacity: 0.8;
+}
+
+@container (min-width: 30rem) {
+  .lb-sigils .cth-sigil {
+    --size: 48px;
+  }
+}
+
+@container (min-width: 40rem) {
+  .lb-sigils__grid {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+  .lb-sigils .cth-sigil {
+    --size: 46px;
+  }
+}
+
+/* Sigil colours follow the head's water, never the page behind it. */
+.screen.logbook-screen:not([data-zone="surface"]) .cth-sigil[data-level="2"] {
+  color: var(--color-glow);
+}
+
+.screen.logbook-screen:not([data-zone="surface"]) .cth-sigil[data-level="3"] {
+  color: color-mix(in oklab, var(--color-glow) 72%, white);
+}
+
+.screen.logbook-screen[data-zone="surface"] .cth-sigil[data-level] .cth-sigil__glyph,
+.screen.logbook-screen[data-zone="surface"] .cth-ward[data-state],
+.screen.logbook-screen[data-zone="surface"] .lb-lantern__icon {
+  filter: none;
+}
+
+/* ------------------------------------------------------------ the lantern and the wards */
+
+.lb-away {
+  display: grid;
+  grid-template-columns: 22px minmax(0, 1fr);
+  gap: var(--space-3);
+  align-items: start;
+  margin-bottom: var(--space-5);
+  padding: var(--space-3) var(--space-4);
+  border: 1px dashed var(--color-rule-soft);
+  font: italic var(--step-0) / 1.45 var(--font-text);
+  color: var(--color-ink-muted);
+}
+
+.lb-away__icon svg {
+  display: block;
+  width: 22px;
+  height: 22px;
+  margin-top: 2px;
+  color: var(--color-ink-muted);
+}
+
+.lb-lantern,
+.lb-wards {
+  display: grid;
+  grid-template-columns: 84px minmax(0, 1fr);
+  gap: var(--space-4);
+  align-items: start;
+}
+
+.lb-wards {
+  margin-top: var(--space-5);
+  padding-top: var(--space-5);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.lb-lantern__art {
+  display: grid;
+  place-items: center;
+  height: 64px;
+}
+
+.lb-lantern__icon {
+  width: 48px;
+  height: 48px;
+  color: var(--color-glow);
+  filter: drop-shadow(0 0 6px var(--color-glow-soft)) drop-shadow(0 0 18px var(--color-glow-faint));
+  animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite;
+}
+
+.lb-lantern[data-state="out"] .lb-lantern__icon,
+.lb-lantern[data-state="unlit"] .lb-lantern__icon {
+  color: var(--color-rule);
+  filter: none;
+  animation: none;
+}
+
+.logbook-screen[data-zone="surface"] .lb-lantern[data-state="lit"] .lb-lantern__icon {
+  color: var(--color-accent);
+}
+
+.lb-figure {
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+}
+
+.lb-big {
+  font: var(--step-3) / 1 var(--font-log);
+  letter-spacing: var(--tracking-log);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+}
+
+.lb-big--word {
+  font: var(--step-2) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink-muted);
+}
+
+.lb-unit {
+  font: var(--step--1) / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.lb-wards__slots {
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  padding-top: 4px;
+}
+
+.lb-wards .cth-ward {
+  width: 38px;
+  height: 38px;
+}
+
+.lb-wards__text .lb-h3 {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--space-2);
+}
+
+/* Still: with motion reduced nothing breathes. */
+.logbook-screen[data-still] .cth-ward,
+.logbook-screen[data-still] .cth-sigil__glyph,
+.logbook-screen[data-still] .lb-lantern__icon {
+  animation: none !important;
+}
+
+/* ------------------------------------------------------------ the chart */
+
+.lb-chart {
+  margin: 0;
+}
+
+.lb-chart__frame {
+  padding: 3px;
+  border: 1px solid var(--color-rule);
+  background: var(--color-plate-veil);
+  box-shadow: var(--shadow-plate);
+}
+
+.lb-sheet {
+  position: relative;
+  min-height: 160px;
+  overflow: hidden;
+  isolation: isolate;
+  background: var(--color-ground) url("../../art/textures/paper-grain.png") 0 0 / 512px;
+  background-blend-mode: multiply;
+  color: var(--color-ink);
+}
+
+.lb-sheet > svg {
+  position: absolute;
+  inset: 0;
+  display: block;
+  overflow: visible;
+}
+
+.lb-tick,
+.lb-zone,
+.lb-date {
+  position: absolute;
+  margin: 0;
+  white-space: nowrap;
+  pointer-events: none;
+  text-shadow: 0 0 2px var(--color-ground), 0 0 7px var(--color-ground);
+}
+
+.lb-tick {
+  left: 8px;
+  translate: 0 -50%;
+  font: 10px / 1 var(--font-log);
+  letter-spacing: 0.04em;
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink-muted);
+}
+
+/* below the floor a band is marked just above its survey line, over open water */
+.lb-tick[data-below] {
+  translate: 0 calc(-100% - 3px);
+}
+
+.lb-zone {
+  right: 10px;
+  font: 10.5px / 1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink);
+}
+
+.lb-date {
+  top: 11px;
+  translate: -50% 0;
+  font: 10px / 1 var(--font-log);
+  letter-spacing: 0.08em;
+  color: var(--color-ink-muted);
+}
+
+.lb-plaques {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lb-sheet .cth-milestone {
+  position: absolute;
+  translate: 0 -50%;
+  gap: 4px;
+}
+
+.lb-sheet .cth-milestone.flip {
+  flex-direction: row-reverse;
+}
+
+/* the benchmark's bar sits on the survey line */
+.lb-sheet .cth-milestone__mark {
+  width: 22px;
+  height: 22px;
+  translate: 0 3.7px;
+}
+
+.lb-sheet .cth-milestone__plaque {
+  padding: 4px 9px 5px;
+  gap: 2px;
+}
+
+.lb-sheet .cth-milestone__name {
+  font-size: 12px;
+  line-height: 1.12;
+  letter-spacing: 0.06em;
+}
+
+.lb-sheet .cth-milestone__depth {
+  font-size: 9.5px;
+  white-space: nowrap;
+}
+
+/* A plaque cut below the wash is a deep one, whatever the sheet above it is printed on. */
+.lb-sheet .cth-milestone:not([data-zone="surface"]):not([data-state="ahead"]) .cth-milestone__plaque::after {
+  background: linear-gradient(180deg, color-mix(in oklab, var(--color-glow) 10%, var(--color-plate)), var(--color-plate));
+}
+
+.lb-sheet .cth-milestone[data-zone="surface"] .cth-milestone__plaque::before {
+  background: var(--color-rule);
+}
+
+.lb-sheet .cth-milestone[data-zone="surface"] .cth-milestone__mark {
+  filter: none;
+}
+
+.lb-today {
+  position: absolute;
+  z-index: 2;
+  display: grid;
+  gap: 3px;
+  justify-items: start;
+  left: calc(var(--x) + 12px);
+  top: var(--y);
+  translate: 0 -80%;
+  font: 12px / 1 var(--font-log);
+  letter-spacing: 0.04em;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-shadow: 0 0 2px var(--color-ground), 0 0 8px var(--color-glow-soft);
+}
+
+.lb-today[data-at="below"] {
+  left: auto;
+  right: 6px;
+  top: calc(var(--y) + 17px);
+  translate: 0 0;
+  justify-items: end;
+}
+
+.lb-today[data-at="above"] {
+  left: auto;
+  right: 6px;
+  top: calc(var(--y) - 9px);
+  translate: 0 -100%;
+  justify-items: end;
+}
+
+.lb-today__k {
+  font-size: 9px;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+
+.lb-sheet .cth-milestone,
+.lb-today,
+.lb-lead {
+  transition: opacity 1.2s var(--ease-surface);
+}
+
+.lb-sheet [data-hide] {
+  opacity: 0;
+}
+
+.lb-empty-note {
+  position: absolute;
+  left: 50%;
+  top: 46%;
+  width: min(80%, 22rem);
+  translate: -50% 0;
+  text-align: center;
+  font: italic var(--step-0) / 1.4 var(--font-text);
+  color: var(--color-ink-muted);
+}
+
+.lb-deep-words {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0;
+  text-align: center;
+  font: italic var(--step-0) / 1 var(--font-display);
+  letter-spacing: 0.06em;
+  color: var(--color-glow);
+  opacity: 0.62;
+  text-shadow: 0 0 14px var(--color-glow-soft);
+}
+
+/* the key */
+.lb-key {
+  list-style: none;
+  margin: var(--space-3) 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-5);
+  font: var(--step--2) / 1.2 var(--font-log);
+  letter-spacing: 0.05em;
+  color: var(--color-ink-muted);
+}
+
+.lb-key li {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.lb-key__sw {
+  width: 28px;
+  height: 16px;
+  overflow: visible;
+  color: var(--color-glow);
+}
+
+.logbook-screen[data-zone="surface"] .lb-key__sw {
+  color: var(--color-ink);
+}
+
+.lb-key__cable {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+}
+
+.lb-key__tick {
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 1;
+}
+
+.lb-key__drift {
+  fill: none;
+  stroke: var(--color-ink-muted);
+  stroke-width: 1.25;
+  stroke-dasharray: 2 3;
+}
+
+/* ------------------------------------------------------------ your soundings */
+
+.lb-stats {
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  column-gap: var(--space-5);
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.lb-stats > div {
+  display: grid;
+  gap: 6px;
+  padding: var(--space-3) 0;
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.lb-stats dt {
+  font: var(--step--2) / 1.1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.lb-stats dd {
+  margin: 0;
+  font: var(--step-2) / 1 var(--font-log);
+  letter-spacing: var(--tracking-log);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+}
+
+@container (min-width: 30rem) {
+  .lb-stats {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.lb-soundings {
+  container-type: inline-size;
+}
+
+.lb-tiers.tier-bars .bar {
+  grid-template-columns: minmax(7rem, 9rem) minmax(0, 1fr) 2.6rem;
+  min-height: 30px;
+}
+
+.lb-tiers .log {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.logbook-screen:not([data-zone="surface"]) .lb-tiers .seal {
+  filter: drop-shadow(0 0 5px color-mix(in oklab, var(--tier-color) 55%, transparent));
+}
+
+.lb-topics {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: var(--space-1);
+}
+
+.lb-topic {
+  display: grid;
+  grid-template-columns: 30px minmax(0, 1fr) auto;
+  grid-template-areas: "glyph name level" "glyph bar bar";
+  align-items: center;
+  column-gap: var(--space-3);
+  row-gap: 6px;
+  padding: var(--space-2) 0 var(--space-3);
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.lb-topic__glyph {
+  grid-area: glyph;
+  width: 30px;
+  height: 30px;
+  overflow: visible;
+  color: var(--color-ink-muted);
+  --sigil-ring: 0.85;
+  --sigil-dash: none;
+  --sigil-rays: 0;
+}
+
+.lb-topic[data-level="0"] .lb-topic__glyph {
+  --sigil-dash: 1.2 2.6;
+  color: color-mix(in oklab, var(--color-rule), var(--color-ink-muted) 35%);
+}
+
+.lb-topic[data-level="2"] .lb-topic__glyph,
+.lb-topic[data-level="3"] .lb-topic__glyph {
+  color: var(--color-glow);
+}
+
+.lb-topic[data-level="3"] .lb-topic__glyph {
+  --sigil-rays: 1;
+}
+
+.logbook-screen[data-zone="surface"] .lb-topic[data-level="2"] .lb-topic__glyph {
+  color: var(--color-ink);
+}
+
+.logbook-screen[data-zone="surface"] .lb-topic[data-level="3"] .lb-topic__glyph {
+  color: var(--color-accent);
+}
+
+.lb-topic__name {
+  grid-area: name;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 2px var(--space-3);
+  min-width: 0;
+  font: var(--step-0) / 1.1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink);
+}
+
+.lb-topic__level {
+  grid-area: level;
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.1em;
+  color: var(--color-ink-muted);
+}
+
+.lb-topic__bar {
+  grid-area: bar;
+  position: relative;
+  height: 8px;
+  border-bottom: 1px dotted var(--color-rule-soft);
+  /* the three marks where a Sigil kindles, burns and blazes */
+  background:
+    linear-gradient(var(--color-rule-soft), var(--color-rule-soft)) 20% 100% / 1px 8px no-repeat,
+    linear-gradient(var(--color-rule-soft), var(--color-rule-soft)) 40% 100% / 1px 8px no-repeat,
+    linear-gradient(var(--color-rule-soft), var(--color-rule-soft)) 60% 100% / 1px 8px no-repeat;
+}
+
+.lb-topic__bar > span {
+  position: absolute;
+  inset: 0 auto 0 0;
+  min-width: 2px;
+  background: repeating-linear-gradient(90deg, var(--color-glow) 0 3px, transparent 3px 5px);
+}
+
+.logbook-screen[data-zone="surface"] .lb-topic__bar > span {
+  background: repeating-linear-gradient(90deg, var(--color-ink) 0 3px, transparent 3px 5px);
+}
+
+.lb-topic__n {
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.04em;
+  color: var(--color-ink-muted);
+  white-space: nowrap;
+}
+
+/* ------------------------------------------------------------ the settings row */
+
+.lb-foot {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-4);
+  margin-top: var(--space-8);
+  padding-top: var(--space-6);
+  border-top: 1px solid var(--color-rule-soft);
+  text-align: center;
+}
+
+.lb-foot__row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3);
+}
+
+.lb-foot .btn {
+  min-height: 48px;
+}
+
+.lb-foot__note {
+  font: italic var(--step--1) / 1.4 var(--font-text);
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ a wide screen */
+/* The chart gets a pane of its own beside the cartouche, as tall as the window, and
+   scrolls inside it; the rest of the page scrolls under the bar on the left. */
+
+@media (min-width: 960px) and (min-height: 600px) {
+  .lb-page {
+    width: min(100%, 80rem);
+    display: grid;
+    grid-template-columns: minmax(22rem, 30rem) minmax(0, 1fr);
+    grid-template-rows: auto 1fr;
+    grid-template-areas: "head survey" "tail survey";
+    column-gap: clamp(32px, 4vw, 64px);
+    align-items: start;
+    padding: 0 clamp(24px, 3vw, 48px);
+  }
+
+  .lb-head {
+    grid-area: head;
+  }
+
+  .lb-tail {
+    grid-area: tail;
+  }
+
+  .lb-survey {
+    grid-area: survey;
+    position: sticky;
+    top: var(--lb-bar-h);
+    margin-top: var(--space-3);
+    max-height: calc(var(--lb-vh, 100vh) - var(--lb-bar-h) - var(--space-5));
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    scrollbar-width: thin;
+    scrollbar-color: var(--color-rule) transparent;
+    padding-right: 6px;
+  }
+
+  .lb-survey > .lb-sechead {
+    position: sticky;
+    top: 0;
+    z-index: 4;
+    margin-bottom: 0;
+    padding-bottom: var(--space-3);
+    background: linear-gradient(to bottom, var(--color-ground) 0 82%, transparent);
+  }
+
+  .lb-cartouche {
+    margin-top: var(--space-3);
+  }
+}
+
+/* ------------------------------------------------------------ the entrance */
+/* Ink dropped in water: the title arrives blurred and settles, then the rest surfaces. */
+
+.logbook-screen[data-bloom] .lb-title {
+  animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both;
+}
+
+.logbook-screen[data-bloom] .lb-synopsis {
+  animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) 220ms both;
+}
+
+.logbook-screen[data-bloom] .lb-depth,
+.logbook-screen[data-bloom] .lb-sechead,
+.logbook-screen[data-bloom] .lb-keep > :not(.lb-sechead),
+.logbook-screen[data-bloom] .lb-note {
+  animation: lb-surface 900ms var(--ease-surface) 420ms both;
+}
+
+.logbook-screen[data-bloom] .lb-sigils__cell {
+  animation: lb-surface 900ms var(--ease-surface) both;
+  animation-delay: calc(480ms + var(--i, 0) * 55ms);
+}
+
+@keyframes lb-surface {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+    filter: blur(3px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .logbook-screen .lb-title,
+  .logbook-screen .lb-synopsis,
+  .logbook-screen .lb-depth,
+  .logbook-screen .lb-sechead,
+  .logbook-screen .lb-keep > *,
+  .logbook-screen .lb-note,
+  .logbook-screen .lb-sigils__cell,
+  .logbook-screen .lb-lantern__icon {
+    animation: none !important;
+  }
+  .lb-sheet .cth-milestone,
+  .lb-today,
+  .lb-lead {
+    transition: none;
+  }
+}
