@@ -6,12 +6,17 @@
 import tiersSprite from '../../art/glyphs/tiers-sprite.svg?raw';
 import iconSprite from '../../art/icons/sprite.svg?raw';
 import scriptSprite from '../../art/glyphs/script-sprite.svg?raw';
+import marksSprite from '../../art/glyphs/marks-sprite.svg?raw';
 import wordmarkSvg from '../../art/logo/wordmark.svg?raw';
 import { createMadness, madnessForDepth } from '../../art/js/madness.js';
 
 export type IconName =
   | 'close' | 'back' | 'menu' | 'descend' | 'share' | 'settings' | 'info' | 'sound-on' | 'sound-off'
-  | 'streak' | 'daily' | 'leaderboard' | 'timer' | 'stats' | 'hint' | 'depth' | 'help' | 'check';
+  | 'streak' | 'daily' | 'leaderboard' | 'timer' | 'stats' | 'hint' | 'depth' | 'help' | 'check'
+  | 'career' | 'drift' | 'ward' | 'riddle' | 'seance' | 'cult';
+
+/** The career marks: the ward (a hag stone), a spent ward, the benchmark and the diver. */
+export type MarkName = 'ward' | 'ward-spent' | 'milestone' | 'diver';
 
 // Titles inside symbols turn into hover tooltips wherever a symbol is used; the app
 // names every icon and seal itself.
@@ -32,7 +37,7 @@ export function installArt(doc: Document = document): void {
     return el;
   };
   // madness.js looks for its Drowned Script sprite under this id, and fetches it otherwise.
-  doc.body.prepend(holder('cth-sprites', untitled(tiersSprite) + untitled(iconSprite)), holder('cth-mad-sprite', scriptSprite));
+  doc.body.prepend(holder('cth-sprites', untitled(tiersSprite) + untitled(iconSprite) + untitled(marksSprite)), holder('cth-mad-sprite', scriptSprite));
 }
 
 /** An interface icon from the kit, as markup for a button. Decorative: label the button. */
@@ -42,6 +47,10 @@ export const icon = (name: IconName, cls = 'icon'): string =>
 /** A rarity seal (tier 1–6, or the closed eye for an answer the deep refused), as markup. */
 export const sealSvg = (tier: number | 'refused', cls = 'seal'): string =>
   `<svg class="${cls}" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><use href="#${tier === 'refused' || tier < 1 ? 'refused' : `tier-${Math.min(6, tier)}`}"/></svg>`;
+
+/** A career mark (ward, spent ward, benchmark, diver), as markup. Decorative: label it nearby. */
+export const markSvg = (name: MarkName, cls = 'mark', attrs = ''): string =>
+  `<svg class="${cls}" viewBox="0 0 32 32" aria-hidden="true" focusable="false"${attrs ? ` ${attrs}` : ''}><use href="#${name}"/></svg>`;
 
 /** The wordmark: CTHULHOO with the double O drawn as two porthole eyes. Inherits currentColor. */
 export function wordmarkMarkup(cls = 'wordmark-art'): string {
