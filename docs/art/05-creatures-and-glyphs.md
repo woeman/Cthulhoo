@@ -115,6 +115,8 @@ Rules:
 - Never mix it into English words, except when the madness effect swaps a letter for a
   moment.
 - Always hang it from a line. A glyph without its waterline looks like clip art.
+- Ten of its words are also the Logbook's **Sigils**, one for each question topic, hung inside
+  a porthole whose waterline is a chord across the ring (see [Interface](06-interface.md#sigil-cth-sigil)).
 
 ## The logo
 

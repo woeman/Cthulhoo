@@ -16,6 +16,7 @@
  *   .cth-rule        an engraved divider with an ornament
  *   .cth-milestone   a depth carved into the career chart: a benchmark and a stone plaque
  *   .cth-ward        a ward (hag stone) slot: held, spent or empty
+ *   .cth-sigil       a topic Sigil on the Logbook, at four brightness levels
  * Motion rules: nothing bounces; idle things breathe on a 7 s cycle; reduced
  * motion turns every animation into a short fade.
  */
@@ -537,6 +538,60 @@
 .cth-ward[data-state="spent"] { color: var(--color-ink-muted); opacity: 0.75; }
 .cth-ward[data-state="empty"] { color: var(--color-rule); opacity: 0.55; }
 
+/* ------------------------------------------------------------------ sigil (topic strength) */
+/* One Sigil per topic: a Drowned Script word hung in a porthole. It brightens with the
+ * player's strength in that topic: data-level 0 unlit, 1 kindled, 2 burning, 3 blazing.
+ * Unlit is carved, not dimmed, so it still reads.
+ *   <figure class="cth-sigil" data-level="2">
+ *     <svg class="cth-sigil__glyph" aria-hidden="true"><use href="art/glyphs/sigils-sprite.svg#sigil-history"/></svg>
+ *     <figcaption>History <span>burning</span></figcaption>
+ *   </figure> */
+
+.cth-sigil {
+  --size: 56px;
+  display: inline-grid;
+  justify-items: center;
+  gap: var(--space-2);
+  margin: 0;
+  color: var(--color-rule);
+  text-align: center;
+}
+.cth-sigil__glyph { width: var(--size); height: var(--size); display: block; overflow: visible; }
+.cth-sigil figcaption {
+  display: grid;
+  gap: 2px;
+  font: var(--step--1) / 1.1 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink-muted);
+}
+.cth-sigil figcaption span {
+  font: var(--step--2) / 1 var(--font-log);
+  letter-spacing: 0.1em;
+  text-transform: lowercase;
+  color: currentColor;
+}
+/* 0 unlit: cut into the plate, not yet inked */
+.cth-sigil, .cth-sigil[data-level="0"] {
+  --sigil-ring: 0.75; --sigil-dash: 1.2 2.6; --sigil-rays: 0;
+  color: color-mix(in oklab, var(--color-rule), var(--color-ink-muted) 35%);
+}
+/* 1 kindled */
+.cth-sigil[data-level="1"] { --sigil-ring: 0.85; --sigil-dash: none; color: var(--color-ink-muted); }
+/* 2 burning */
+.cth-sigil[data-level="2"] { --sigil-ring: 1; --sigil-dash: none; color: var(--color-glow); }
+/* 3 blazing: the rays come out, and it breathes */
+.cth-sigil[data-level="3"] { --sigil-ring: 1; --sigil-dash: none; --sigil-rays: 1; color: color-mix(in oklab, var(--color-glow) 72%, white); }
+.cth-sigil[data-level="3"] .cth-sigil__glyph { animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite; }
+.cth-sigil[data-level="3"] figcaption { color: var(--color-ink); }
+[data-zone]:not([data-zone="surface"]) .cth-sigil[data-level="1"] .cth-sigil__glyph { filter: drop-shadow(0 0 3px var(--color-glow-faint)); }
+[data-zone]:not([data-zone="surface"]) .cth-sigil[data-level="2"] .cth-sigil__glyph { filter: drop-shadow(0 0 6px var(--color-glow-soft)); }
+[data-zone]:not([data-zone="surface"]) .cth-sigil[data-level="3"] .cth-sigil__glyph {
+  filter: drop-shadow(0 0 4px var(--color-glow)) drop-shadow(0 0 14px var(--color-glow-soft));
+}
+/* on paper there is no glow: the stronger Sigils are inked heavier, the strongest gilded */
+[data-zone="surface"] .cth-sigil[data-level="2"] { color: var(--color-ink); }
+[data-zone="surface"] .cth-sigil[data-level="3"] { color: var(--color-accent); }
+
 /* ------------------------------------------------------------------ motion */
 
 @keyframes cth-breathe {
@@ -580,7 +635,7 @@
   .cth-plate, .cth-specimen, .cth-seal__disc, .cth-btn--lure, .cth-telegram,
   .cth-zone-title__name, .cth-seal[data-tier="6"] .cth-seal__disc::after,
   .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth), .cth-field__input,
-  .cth-ward[data-state="held"], .cth-milestone[data-new] .cth-milestone__name {
+  .cth-ward[data-state="held"], .cth-milestone[data-new] .cth-milestone__name, .cth-sigil[data-level="3"] .cth-sigil__glyph {
     animation: cth-fade 200ms linear both !important;
   }
   .cth-sink { animation: cth-fade 200ms linear reverse both !important; }
