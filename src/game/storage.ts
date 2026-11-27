@@ -149,3 +149,23 @@ export function loadFlag(name: string): boolean {
 export function saveFlag(name: string, on = true): void {
   write(`flag.${name}`, on ? '1' : '0');
 }
+
+const ID_RE = /^[a-z0-9]{8,32}$/;
+
+/**
+ * A random name for this browser, made once and kept: the seed for the Logbook's
+ * title and synopsis, and later the player's mark in a séance. Not an account.
+ */
+export function playerId(): string {
+  const saved = read('id');
+  if (saved && ID_RE.test(saved)) return saved;
+  const bytes = new Uint8Array(12);
+  try {
+    crypto.getRandomValues(bytes);
+  } catch {
+    for (let i = 0; i < bytes.length; i++) bytes[i] = Math.floor(Math.random() * 256);
+  }
+  const id = Array.from(bytes, (b) => (b % 36).toString(36)).join('');
+  write('id', id);
+  return id;
+}
