@@ -1,13 +1,11 @@
-import { existsSync, readFileSync } from 'node:fs';
-import { resolve } from 'node:path';
 import { describe, expect, it } from 'vitest';
 import { matchAnswer } from '../src/game/matcher';
 import type { PromptDef } from '../src/game/types';
 
 // The question bank's shared matcher cases (scripts/matcher-cases.json), which its
 // reference matcher also passes, so the game and the bank judge answers alike.
-// They arrive with the bank; until then point MATCHER_CASES at a copy.
-const path = process.env.MATCHER_CASES ?? resolve(__dirname, '../scripts/matcher-cases.json');
+// They arrive with the bank's files; until then this suite is skipped.
+const found = import.meta.glob('/scripts/matcher-cases.json', { eager: true, import: 'default' }) as Record<string, unknown>;
 
 interface Case {
   prompt: string;
@@ -19,7 +17,7 @@ interface Case {
   note?: string;
 }
 
-const file = existsSync(path) ? (JSON.parse(readFileSync(path, 'utf8')) as { prompts: Record<string, PromptDef>; cases: Case[] }) : null;
+const file = (Object.values(found)[0] as { prompts: Record<string, PromptDef>; cases: Case[] } | undefined) ?? null;
 
 function describeResult(prompt: PromptDef, input: string): string {
   const r = matchAnswer(prompt, input);
