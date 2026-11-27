@@ -7,6 +7,7 @@
  * Needs Playwright with Chromium (npm i -D playwright && npx playwright install chromium).
  * Outputs:
  *   art/logo/png/app-icon-{1024,512,192,180,48}.png    full bleed, no transparency
+ *   art/logo/png/app-icon-maskable-{512,192}.png        the maskable version, for Android
  *   art/textures/silhouettes/png/<name>.png             white on transparent, at native size,
  *                                                       for use as alpha masks in a shader
  *   art/textures/silhouettes/png/drowned-city-{far,near}.png   the two parallax layers apart
@@ -48,6 +49,10 @@ async function renderSvg(page, svgText, out, { width, height, css = '', transpar
   const icon = fs.readFileSync(path.join(ART, 'logo', 'app-icon.svg'), 'utf8');
   for (const n of [1024, 512, 192, 180, 48]) {
     await renderSvg(page, icon, path.join(iconDir, `app-icon-${n}.png`), { width: n, height: n, transparent: false });
+  }
+  const maskable = fs.readFileSync(path.join(ART, 'logo', 'app-icon-maskable.svg'), 'utf8');
+  for (const n of [512, 192]) {
+    await renderSvg(page, maskable, path.join(iconDir, `app-icon-maskable-${n}.png`), { width: n, height: n, transparent: false });
   }
 
   // Silhouettes, white on transparent

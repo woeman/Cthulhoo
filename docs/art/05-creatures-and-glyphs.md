@@ -113,8 +113,10 @@ Files in [`art/logo/`](../../art/logo/):
 | `lockup.svg` | the wordmark with the tagline "A DAILY DESCENT" between two rules | `currentColor` |
 | `mark.svg` | just the double O: two porthole eyes | `currentColor` |
 | `app-icon.svg` | the two portholes glowing cyan in the Stygian Dark, full bleed 512 × 512 | full colour |
+| `app-icon-maskable.svg` | the same picture with the portholes inside the central safe circle, for Android and installed web apps | full colour |
 | `favicon.svg` | a simplified mark at 64 × 64 | full colour |
 | `png/app-icon-{1024,512,192,180,48}.png` | the icon for stores, home screens and browsers | full colour |
+| `png/app-icon-maskable-{512,192}.png` | the maskable icon, for the web app manifest | full colour |
 
 **The idea.** The double O of the name is a pair of riveted bathysphere portholes, and each
 one is an eye with a **cuttlefish's W-shaped pupil**. The name looks back at you. The iris is
@@ -126,8 +128,10 @@ Use it like this:
 - Clear space around the wordmark: at least the height of one porthole on every side.
 - Smallest sizes: wordmark 96 px wide; mark 24 px wide. Below 24 px use the favicon.
 - On paper, the logo is ink (`--color-ink`). On water, it is ink or glow, never both.
-- The app icon is full bleed; iOS and Android cut their own rounded corners. Never add a
-  border, a shadow or text to it.
+- The app icon is full bleed; iOS cuts its own rounded corners. Android launchers cut
+  circles, squircles and other shapes, so Android and installed web apps use the **maskable**
+  version: the same sea to every edge, with the portholes inside the middle circle (80 % of
+  the width) that every launcher shape keeps. Never add a border, a shadow or text to either.
 - Never stretch it, outline it, set it in another typeface, or draw the O's as plain circles.
 
 ## Interface icons

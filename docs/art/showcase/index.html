@@ -222,7 +222,18 @@
   .marks .wordmark { aspect-ratio: 304.9 / 59.4; width: 100%; background: var(--color-ink);
     -webkit-mask: url("../../../art/logo/wordmark.svg") center / contain no-repeat; mask: url("../../../art/logo/wordmark.svg") center / contain no-repeat;
     filter: drop-shadow(0 0 14px var(--color-glow-soft)); }
-  .marks img { width: 100%; max-width: 220px; height: auto; display: block; justify-self: center; border-radius: 22%; box-shadow: 0 20px 50px -20px black, 0 0 0 1px var(--color-rule-soft); }
+  .app-icons { margin: 0; display: grid; justify-items: center; gap: var(--space-5); }
+  .app-icon { width: 100%; max-width: 220px; height: auto; display: block; border-radius: 22%; box-shadow: 0 20px 50px -20px black, 0 0 0 1px var(--color-rule-soft); }
+  /* The icon where people will meet it, at its real size. */
+  .icon-uses { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; align-items: flex-end; gap: var(--space-4) var(--space-5); }
+  .icon-uses li { display: grid; justify-items: center; gap: var(--space-2); font: var(--step--2) / 1.2 var(--font-log); color: var(--color-ink-muted); }
+  .icon-uses .shape { position: relative; width: 60px; height: 60px; overflow: hidden; box-shadow: 0 10px 24px -12px black, 0 0 0 1px var(--color-rule-soft); }
+  .icon-uses .shape img { position: absolute; inset: 0; width: 100%; height: 100%; max-width: none; }
+  .icon-uses .shape--ios { border-radius: 22.4%; }
+  .icon-uses .shape--android { border-radius: 50%; }
+  .icon-uses .shape--android img { inset: -12.5%; width: 125%; height: 125%; }  /* a launcher circle keeps the middle 80 % */
+  .icon-uses .tab { display: inline-flex; align-items: center; gap: 8px; height: 34px; padding: 0 16px 0 11px; border-radius: 9px 9px 0 0; background: var(--color-plate); box-shadow: 0 0 0 1px var(--color-rule-soft); font: 13px / 1 var(--font-text); color: var(--color-ink); }
+  .icon-uses .tab img { width: 16px; height: 16px; display: block; }
 
   /* ---------------------------------------------------------------- sound */
   .sound { width: 100%; border-collapse: collapse; font-size: var(--step--1); }
@@ -457,15 +468,15 @@
       <h2 class="title">Specimens, by how few people know them</h2>
       <p class="body">Each answer is tagged like a museum specimen. Its seal is a radiolarian, the glass skeleton of deep-sea plankton, and it grows stranger with rarity: more spines, then a star, then an eye. Odd numbers only. Nothing down here is quite symmetrical.</p>
       <ol class="cth-specimens" id="specimens" aria-label="Example answers to today's question">
-        <li class="cth-specimen" data-tier="1"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-1"/></svg><span class="cth-specimen__name">Anglerfish</span><span class="cth-specimen__tier">Commonplace</span><span class="cth-specimen__depth">+120 m</span></li>
-        <li class="cth-specimen" data-tier="2"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-2"/></svg><span class="cth-specimen__name">Gulper eel</span><span class="cth-specimen__tier">Curious</span><span class="cth-specimen__depth">+260 m</span></li>
-        <li class="cth-specimen" data-tier="3"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-3"/></svg><span class="cth-specimen__name">Vampire squid</span><span class="cth-specimen__tier">Obscure</span><span class="cth-specimen__depth">+480 m</span></li>
-        <li class="cth-specimen" data-tier="4"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-4"/></svg><span class="cth-specimen__name">Barreleye</span><span class="cth-specimen__tier">Arcane</span><span class="cth-specimen__depth">+820 m</span></li>
-        <li class="cth-specimen" data-tier="5"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-5"/></svg><span class="cth-specimen__name">Bigfin squid</span><span class="cth-specimen__tier">Forbidden</span><span class="cth-specimen__depth">+1,240 m</span></li>
-        <li class="cth-specimen" data-tier="6"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-6"/></svg><span class="cth-specimen__name">Pseudoliparis swirei</span><span class="cth-specimen__tier">Unspeakable</span><span class="cth-specimen__depth">+1,900 m</span></li>
+        <li class="cth-specimen" data-tier="1"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-1"/></svg><span class="cth-specimen__name">Anglerfish</span><span class="cth-specimen__tier">Commonplace</span><span class="cth-specimen__depth">+100 m</span></li>
+        <li class="cth-specimen" data-tier="2"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-2"/></svg><span class="cth-specimen__name">Gulper eel</span><span class="cth-specimen__tier">Curious</span><span class="cth-specimen__depth">+250 m</span></li>
+        <li class="cth-specimen" data-tier="3"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-3"/></svg><span class="cth-specimen__name">Vampire squid</span><span class="cth-specimen__tier">Obscure</span><span class="cth-specimen__depth">+400 m</span></li>
+        <li class="cth-specimen" data-tier="4"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-4"/></svg><span class="cth-specimen__name">Barreleye</span><span class="cth-specimen__tier">Arcane</span><span class="cth-specimen__depth">+600 m</span></li>
+        <li class="cth-specimen" data-tier="5"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-5"/></svg><span class="cth-specimen__name">Bigfin squid</span><span class="cth-specimen__tier">Forbidden</span><span class="cth-specimen__depth">+800 m</span></li>
+        <li class="cth-specimen" data-tier="6"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#tier-6"/></svg><span class="cth-specimen__name">Pseudoliparis swirei</span><span class="cth-specimen__tier">Unspeakable</span><span class="cth-specimen__depth">+1,000 m</span></li>
         <li class="cth-specimen" data-tier="refused"><svg class="cth-specimen__seal" aria-hidden="true"><use href="../../../art/glyphs/tiers-sprite.svg#refused"/></svg><span class="cth-specimen__name">Kraken</span><span class="cth-specimen__tier">Refused</span><span class="cth-specimen__depth">+0 m</span></li>
       </ol>
-      <p class="guess">Example answers and depths are illustrative. The real scoring comes from the game.</p>
+      <p class="guess">Example answers. The depths are each tier's base value in the game.</p>
       <div class="seals" id="seals"></div>
     </div>
   </section>
@@ -562,7 +573,14 @@
       <p class="body">The double O of the name is a pair of riveted bathysphere portholes, and each one is an eye with a cuttlefish's W-shaped pupil. On a phone it is the app icon: two eyes in the dark.</p>
       <div class="marks">
         <div class="wordmark" role="img" aria-label="Cthulhoo wordmark"></div>
-        <img src="../../../art/logo/app-icon.svg" alt="App icon: two porthole eyes glowing cyan in dark water" width="512" height="512">
+        <figure class="app-icons">
+          <img class="app-icon" src="../../../art/logo/app-icon.svg" alt="App icon: two porthole eyes glowing cyan in dark water" width="512" height="512">
+          <ul class="icon-uses" aria-label="The icon in use">
+            <li><span class="shape shape--ios"><img src="../../../art/logo/app-icon.svg" alt=""></span>iOS</li>
+            <li><span class="shape shape--android"><img src="../../../art/logo/app-icon-maskable.svg" alt=""></span>Android</li>
+            <li><span class="tab"><img src="../../../art/logo/favicon.svg" alt="">Cthulhoo</span>Browser tab</li>
+          </ul>
+        </figure>
       </div>
       <div class="icons" id="icons"></div>
     </div>
@@ -742,7 +760,7 @@
   const specimen = (tier, name, tierName, depth, sprite) =>
     `<div class="cth-specimen" data-tier="${tier}"><svg class="cth-specimen__seal" aria-hidden="true"><use href="${ASSET}glyphs/tiers-sprite.svg#${sprite}"/></svg><span class="cth-specimen__name">${name}</span><span class="cth-specimen__tier">${tierName}</span><span class="cth-specimen__depth">${depth}</span></div>`;
   const bloomSlot = document.getElementById('bloom-slot'), refuseSlot = document.getElementById('refuse-slot');
-  const bloom = () => { bloomSlot.innerHTML = specimen(5, 'Bigfin squid', 'Forbidden', '+1,240 m', 'tier-5'); };
+  const bloom = () => { bloomSlot.innerHTML = specimen(5, 'Bigfin squid', 'Forbidden', '+800 m', 'tier-5'); };
   const refuse = () => { refuseSlot.innerHTML = specimen('refused', 'Kraken', 'Refused', '+0 m', 'refused'); demo.pulse(0.8); };
   bloom(); refuse();
   document.getElementById('bloom-btn').addEventListener('click', bloom);

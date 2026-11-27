@@ -134,39 +134,24 @@ def wordmark(tracking=95, with_tagline=False):
     return '<g fill="currentColor">' + ''.join(body) + '</g>', vb, (width + 40) / 10, (height - top) / 10
 
 
-def main():
-    os.makedirs(OUT, exist_ok=True)
-    g, vb, w, h = wordmark()
-    write(os.path.join(OUT, 'wordmark.svg'), svg(w, h, g, viewbox=vb, title='Cthulhoo',
-          desc='Wordmark: IM Fell English SC capitals, the double O drawn as riveted portholes with W-pupilled eyes. Uses currentColor.'))
-    g, vb, w, h = wordmark(with_tagline=True)
-    write(os.path.join(OUT, 'lockup.svg'), svg(w, h, g, viewbox=vb, title='Cthulhoo: a daily descent',
-          desc='Wordmark with tagline. Uses currentColor.'))
+def draw(parts, colours):
+    """Fill each named part of a porthole eye with its own colour."""
+    return ''.join(f'<path fill="{colours[n]}" fill-rule="evenodd" d="{d}"/>' for n, d in parts)
 
-    # The mark: just the two portholes.
-    R = 100
-    parts = porthole_eye(R + 6, R + 6, R, seed=3) + porthole_eye(3 * R + 20, R + 6, R, seed=5, rot=math.radians(-7))
-    body = '<g fill="currentColor">' + ''.join(f'<path data-part="{n}" fill-rule="evenodd" d="{d}"/>' for n, d in parts) + '</g>'
-    write(os.path.join(OUT, 'mark.svg'), svg(4 * R + 26, 2 * R + 12, body, title='Cthulhoo mark',
-          desc='The double O: two porthole eyes. Uses currentColor.'))
 
-    # App icon, 512 x 512, full bleed (the platform rounds the corners).
-    S = 512
-    R = 98
-    cy = 262
+def app_icon(S=512, R=98, cy=262, gap=9, halo=(250, 170)):
+    """The app icon's picture: two portholes glowing in the Stygian Dark, full bleed. Returns SVG body markup."""
     lines = ''.join(
         f'<path d="M0 {f(y)} C 128 {f(y - 5 + 4 * math.sin(y))} 256 {f(y + 5)} 384 {f(y - 3)} S 512 {f(y + 2)} 512 {f(y + 2)}"/>'
         for y in [i * 9 + 4 for i in range(57)])
-    eye1 = porthole_eye(S / 2 - R - 9, cy, R, seed=3)
-    eye2 = porthole_eye(S / 2 + R + 9, cy, R, seed=5, rot=math.radians(-7))
-
-    def draw(parts, colours):
-        return ''.join(f'<path fill="{colours[n]}" fill-rule="evenodd" d="{d}"/>' for n, d in parts)
+    x1, x2 = S / 2 - R - gap, S / 2 + R + gap
+    eye1 = porthole_eye(x1, cy, R, seed=3)
+    eye2 = porthole_eye(x2, cy, R, seed=5, rot=math.radians(-7))
 
     col = {'frame': '#22323a', 'iris': '#7fe6f5', 'limbus': '#58d3ea', 'glint': '#dcf4f5', 'pupil': '#010406'}
     snow = rng(11)
     motes = ''.join(f'<circle cx="{f(snow.uniform(0, S))}" cy="{f(snow.uniform(0, S))}" r="{f(snow.uniform(0.8, 2.2))}" fill="#9fe9f5" opacity="{f(snow.uniform(0.15, 0.55))}"/>' for _ in range(60))
-    icon = (
+    return (
         '<defs>'
         '<radialGradient id="sea" cx="50%" cy="38%" r="75%">'
         '<stop offset="0" stop-color="#0d2a3a"/><stop offset="0.55" stop-color="#061420"/><stop offset="1" stop-color="#020509"/>'
@@ -184,17 +169,46 @@ def main():
         f'<rect width="{S}" height="{S}" fill="url(#sea)"/>'
         f'<g fill="none" stroke="#58d3ea" stroke-opacity="0.09" stroke-width="1.6">{lines}</g>'
         f'{motes}'
-        f'<ellipse cx="{f(S / 2)}" cy="{f(cy)}" rx="250" ry="170" fill="url(#halo)"/>'
-        f'<circle cx="{f(S / 2 - R - 9)}" cy="{f(cy)}" r="{f(R * 0.8)}" fill="url(#glass)"/>'
-        f'<circle cx="{f(S / 2 + R + 9)}" cy="{f(cy)}" r="{f(R * 0.8)}" fill="url(#glass)"/>'
-        f'<circle cx="{f(S / 2 - R - 9)}" cy="{f(cy)}" r="{f(R * 0.6)}" fill="url(#iris)"/>'
-        f'<circle cx="{f(S / 2 + R + 9)}" cy="{f(cy)}" r="{f(R * 0.6)}" fill="url(#iris)"/>'
+        f'<ellipse cx="{f(S / 2)}" cy="{f(cy)}" rx="{halo[0]}" ry="{halo[1]}" fill="url(#halo)"/>'
+        f'<circle cx="{f(x1)}" cy="{f(cy)}" r="{f(R * 0.8)}" fill="url(#glass)"/>'
+        f'<circle cx="{f(x2)}" cy="{f(cy)}" r="{f(R * 0.8)}" fill="url(#glass)"/>'
+        f'<circle cx="{f(x1)}" cy="{f(cy)}" r="{f(R * 0.6)}" fill="url(#iris)"/>'
+        f'<circle cx="{f(x2)}" cy="{f(cy)}" r="{f(R * 0.6)}" fill="url(#iris)"/>'
         + draw(eye1, col) + draw(eye2, col)
         + f'<g fill="none" stroke="#58d3ea" stroke-opacity="0.45" stroke-width="2">'
-          f'<circle cx="{f(S / 2 - R - 9)}" cy="{f(cy)}" r="{f(R - 1)}"/><circle cx="{f(S / 2 + R + 9)}" cy="{f(cy)}" r="{f(R - 1)}"/></g>'
+          f'<circle cx="{f(x1)}" cy="{f(cy)}" r="{f(R - 1)}"/><circle cx="{f(x2)}" cy="{f(cy)}" r="{f(R - 1)}"/></g>'
     )
-    write(os.path.join(OUT, 'app-icon.svg'), svg(S, S, icon, title='Cthulhoo app icon',
+
+
+def main():
+    os.makedirs(OUT, exist_ok=True)
+    g, vb, w, h = wordmark()
+    write(os.path.join(OUT, 'wordmark.svg'), svg(w, h, g, viewbox=vb, title='Cthulhoo',
+          desc='Wordmark: IM Fell English SC capitals, the double O drawn as riveted portholes with W-pupilled eyes. Uses currentColor.'))
+    g, vb, w, h = wordmark(with_tagline=True)
+    write(os.path.join(OUT, 'lockup.svg'), svg(w, h, g, viewbox=vb, title='Cthulhoo: a daily descent',
+          desc='Wordmark with tagline. Uses currentColor.'))
+
+    # The mark: just the two portholes.
+    R = 100
+    parts = porthole_eye(R + 6, R + 6, R, seed=3) + porthole_eye(3 * R + 20, R + 6, R, seed=5, rot=math.radians(-7))
+    body = '<g fill="currentColor">' + ''.join(f'<path data-part="{n}" fill-rule="evenodd" d="{d}"/>' for n, d in parts) + '</g>'
+    write(os.path.join(OUT, 'mark.svg'), svg(4 * R + 26, 2 * R + 12, body, title='Cthulhoo mark',
+          desc='The double O: two porthole eyes. Uses currentColor.'))
+
+    # App icon, 512 x 512, full bleed (the platform rounds the corners).
+    write(os.path.join(OUT, 'app-icon.svg'), svg(512, 512, app_icon(), title='Cthulhoo app icon',
           desc='Two porthole eyes glowing in the Stygian Dark. Full bleed; the platform applies its own corner mask.'))
+
+    # Maskable app icon: the same picture with the portholes pulled into the safe circle
+    # (radius 40 % of the icon) that every Android launcher shape keeps, so a circle or
+    # squircle mask never cuts a rim. The sea still runs to every edge.
+    R, gap = 86, 8
+    reach = 2 * R + gap                         # from the icon's centre to either porthole's outer rim
+    assert reach <= 0.4 * 512 * 0.9, reach      # keep a tenth of the safe radius spare
+    write(os.path.join(OUT, 'app-icon-maskable.svg'), svg(512, 512, app_icon(R=R, cy=256, gap=gap, halo=(220, 150)),
+          title='Cthulhoo app icon (maskable)',
+          desc='Two porthole eyes glowing in the Stygian Dark, drawn inside the central safe circle for Android and installed web apps. Full bleed.'))
 
     # Favicon: one porthole eye, bold.
     R = 30
