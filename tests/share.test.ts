@@ -70,6 +70,14 @@ describe('share text', () => {
     expect(placed).toBe('#12 under The Drowned Bell');
   });
 
+  it('adds the career to a daily dive, and never to a practice dive', () => {
+    const career = { title: 'Lamp-Lit Cartographer of the Midnight Line', depth: 12450, lantern: 9 };
+    expect(shareText(PLACEHOLDER_THEME, dive([2], { omen: 'still' }), career).split('\n').pop()).toBe('Career 12,450 m · lantern 9 days');
+    expect(shareText(PLACEHOLDER_THEME, dive([2], { omen: 'still' }), { ...career, lantern: 1 }).split('\n').pop()).toBe('Career 12,450 m');
+    expect(shareText(PLACEHOLDER_THEME, dive([2], { practice: true, omen: 'still' }), career)).not.toMatch(/Career/);
+    expect(shareText(withTemplate('#{day} {career} m, {title}'), dive([2], { omen: 'still' }), career)).toBe('#12 12,450 m, Lamp-Lit Cartographer of the Midnight Line');
+  });
+
   it('copies names exactly, even with "$" or braces in them', () => {
     const odd = buildTheme({
       landmarks: [{ zone: 'surface', from: 0, to: 7001, name: 'The $& Shoal of {zone}', lines: [] }],

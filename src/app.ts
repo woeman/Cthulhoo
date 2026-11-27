@@ -1063,8 +1063,9 @@ export class App {
     const zone = zoneFor(this.theme, total);
     const landmark = landmarkFor(this.theme, total);
     const place = landmark?.name ?? zone.name;
-    const { marks, career } = this.careerNow();
+    const { days, marks, career } = this.careerNow();
     const rank = cultRankFor(this.theme, career.streak);
+    const shareCareer = rec.practice || !career.daysPlayed ? null : { title: this.personaTitle(career, days), depth: career.depth, lantern: career.streak };
     // What today's dive did to the career: the metres it added, milestones carved, a ward.
     const day = rec.practice ? null : careerDay(career, rec.day);
     const gain = day?.dive ? careerGainPlate(career, day, marks, resultsNews(career, this.theme.career, playerId(), rec.day)) : null;
@@ -1124,9 +1125,9 @@ export class App {
       btn.classList.add('busy');
       btn.setAttribute('aria-busy', 'true');
       try {
-        const out = await shareDive(this.theme, rec, img);
+        const out = await shareDive(this.theme, rec, img, shareCareer);
         if (out === 'copied') this.toast('Copied your descent. Paste it anywhere.');
-        else if (out === 'failed') this.openShareText(shareText(this.theme, rec));
+        else if (out === 'failed') this.openShareText(shareText(this.theme, rec, shareCareer));
         else if (typeof out === 'object') this.openCard(out.card, rec);
       } finally {
         btn.classList.remove('busy');

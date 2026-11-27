@@ -26,7 +26,10 @@ const rec: DayRecord = {
   finished: true,
   practice: q.has('practice'),
 };
-renderCard(PLACEHOLDER_THEME, rec).then((blob) => {
+// ?title=… adds the diver's career line under the masthead.
+const title = q.get('title');
+const career = title ? { title, depth: Number(q.get('career') || 12450), lantern: Number(q.get('lantern') || 9) } : null;
+renderCard(PLACEHOLDER_THEME, rec, career).then((blob) => {
   const img = document.getElementById('card') as HTMLImageElement;
   if (blob) img.src = URL.createObjectURL(blob);
   document.body.dataset.ready = blob ? 'yes' : 'failed';

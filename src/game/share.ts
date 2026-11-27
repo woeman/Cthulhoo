@@ -26,7 +26,14 @@ export function shareUrl(): string {
   }
 }
 
-export function shareText(theme: ThemeCopy, rec: DayRecord): string {
+/** The diver's career, for the share: their title, lifetime depth and lantern. Daily dives only. */
+export interface ShareCareer {
+  title: string;
+  depth: number;
+  lantern: number;
+}
+
+export function shareText(theme: ThemeCopy, rec: DayRecord, career?: ShareCareer | null): string {
   const depth = totalDepth(rec);
   const zone = zoneFor(theme, depth).name;
   const omen = omenById(rec.omen);
@@ -40,6 +47,9 @@ export function shareText(theme: ThemeCopy, rec: DayRecord): string {
     ['sanity', `${rec.sanity}%`],
     ['omen', omen.name],
     ['url', url],
+    ['career', career && !rec.practice ? fmt(career.depth) : ''],
+    ['title', career && !rec.practice ? career.title : ''],
+    ['lantern', career && !rec.practice ? String(career.lantern) : ''],
   ]);
   // One pass with a replacer: copy containing "$&" or "{zone}" goes in exactly as
   // written. A practice dive has no number, so "#{day}" reads "practice dive".
@@ -54,6 +64,10 @@ export function shareText(theme: ThemeCopy, rec: DayRecord): string {
   });
   let text = lines.join('\n');
   if (omen.id !== 'still' && !theme.share.template.includes('{omen}')) text += `\nOmen: ${omen.name} ${omen.glyph}`;
+  // The career, unless the template already places it.
+  if (career && !rec.practice && career.depth > 0 && !theme.share.template.includes('{career}')) {
+    text += `\nCareer ${fmt(career.depth)} m${career.lantern > 1 ? ` · lantern ${career.lantern} days` : ''}`;
+  }
   if (url && !text.includes(url)) text += `\n${url}`;
   return text;
 }
@@ -92,7 +106,7 @@ const REFUSED_ON_DARK = '#ff8a6e';
 const sealColour = (tier: number, onPaper: boolean) =>
   tier < 1 ? (onPaper ? REFUSED_ON_PAPER : REFUSED_ON_DARK) : tierColor(tier, onPaper ? 'paper' : 'dark');
 
-export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob | null> {
+export async function renderCard(theme: ThemeCopy, rec: DayRecord, career?: ShareCareer | null): Promise<Blob | null> {
   const W = 1080;
   const H = 1350;
   const c = document.createElement('canvas');
@@ -281,8 +295,32 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   const omen = omenById(rec.omen);
   const subtitle = rec.practice ? 'a practice dive' : `Dive No. ${rec.day}${omen.id !== 'still' ? ` · ${omen.name}` : ''}`;
   g.fillText(subtitle, W / 2, 228);
-  g.fillStyle = css(INK, 0.55);
-  g.fillRect(W / 2 - 120, 256, 240, 1.5);
+  // Who dived it: the title the deep has given them, left of the buoy, and their
+  // lifetime depth beside the buoy, written like a sounding on a chart.
+  const named = !!(career && !rec.practice && career.title);
+  if (career && named) {
+    const left = 70;
+    const right = x0 - 46;
+    const mid = (left + right) / 2;
+    let size = 30;
+    g.font = `italic ${size}px "IM Fell English", Georgia, serif`;
+    while (size > 18 && g.measureText(career.title).width > right - left) g.font = `italic ${(size -= 1)}px "IM Fell English", Georgia, serif`;
+    g.fillStyle = 'rgb(91 81 67 / 0.95)';
+    g.fillText(career.title, mid, 276);
+    g.fillStyle = css(INK, 0.55);
+    g.fillRect(mid - 100, 296, 200, 1.5);
+    g.textAlign = 'left';
+    g.font = '20px "IM Fell English SC", Georgia, serif';
+    g.fillStyle = 'rgb(91 81 67 / 0.9)';
+    g.fillText('career', x0 + 30, 252);
+    g.font = '28px "Special Elite", "Courier New", monospace';
+    g.fillStyle = css(INK, 0.92);
+    g.fillText(`${fmt(career.depth)} m`, x0 + 30, 284);
+    g.textAlign = 'center';
+  } else {
+    g.fillStyle = css(INK, 0.55);
+    g.fillRect(W / 2 - 120, 256, 240, 1.5);
+  }
 
   // the result, in the dark at the bottom of the plate
   const landmark = landmarkFor(theme, depth)?.name ?? zoneFor(theme, depth).name;
@@ -342,9 +380,9 @@ export type ShareOutcome = 'shared' | 'copied' | 'failed' | 'cancelled' | { card
  * Share through the phone's share sheet where there is one. Otherwise the text
  * goes to the clipboard, and the card comes back so the game can show it.
  */
-export async function shareDive(theme: ThemeCopy, rec: DayRecord, withImage: boolean): Promise<ShareOutcome> {
-  const text = shareText(theme, rec);
-  const blob = withImage ? await renderCard(theme, rec) : null;
+export async function shareDive(theme: ThemeCopy, rec: DayRecord, withImage: boolean, career?: ShareCareer | null): Promise<ShareOutcome> {
+  const text = shareText(theme, rec, career);
+  const blob = withImage ? await renderCard(theme, rec, career) : null;
   const file = blob ? new File([blob], `cthulhoo-${rec.practice ? 'practice' : rec.day}.png`, { type: 'image/png' }) : null;
   const nav = navigator as Navigator & { canShare?: (d: ShareData) => boolean };
   try {
