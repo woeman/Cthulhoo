@@ -11,6 +11,8 @@ import type { AnswerDef, PromptDef, TrapDef } from './types';
 //   traps and decoys are part of the exact table too.
 // - Typo allowance comes from the shorter key: <=3 exact only, 4-7 one edit,
 //   8-11 two, 12+ three. Adjacent swaps count as one edit.
+// - A typo never changes a number: keys are typo-matched only when their digits
+//   agree, and a spelling with a Roman numeral only by its folded, digit key.
 // - In the fuzzy pass traps and decoys compete on equal terms, so a wrong
 //   answer can never be "corrected" into a valid one; tied answers are ambiguous.
 
@@ -22,10 +24,12 @@ export type MatchResult =
   | { kind: 'reject' }
   | { kind: 'empty' };
 
-type Entry =
-  | { key: string; kind: 'answer'; ref: AnswerDef }
-  | { key: string; kind: 'trap'; ref: TrapDef }
-  | { key: string; kind: 'decoy'; ref: string };
+/** `typo`: whether typos may reach this key; `digits`: its digits in order, which a typo never changes. */
+type Entry = { key: string; typo: boolean; digits: string } & (
+  | { kind: 'answer'; ref: AnswerDef }
+  | { kind: 'trap'; ref: TrapDef }
+  | { kind: 'decoy'; ref: string }
+);
 
 interface Compiled {
   entries: Entry[];
@@ -231,6 +235,29 @@ export function keysOf(input: string, exact = false): string[] {
   return folded && folded !== plain ? [plain, folded] : [plain];
 }
 
+/**
+ * True when folding reads a Roman numeral of two or more letters, or a lone v or x:
+ * a word after the first, as in "Henry VIII". A lone "i" is left out, because it is
+ * far more often the word I, as in "If I Fell", and a typo there is just a typo.
+ */
+function readsRomanNumeral(normalized: string): boolean {
+  return normalized.split(' ').some((w, i) => i > 0 && w !== 'i' && ROMAN.has(w));
+}
+
+/**
+ * The keys a spelling is typo-matched by. A Roman numeral is one wrong letter away
+ * from another number ("Elizabeth III" and "Elizabeth II"), so a spelling that has
+ * one is typo-matched by its folded key alone, where the number is in digits, and
+ * digits never change (see matchAnswer).
+ */
+export function typoKeysOf(input: string): string[] {
+  const keys = keysOf(input);
+  return keys.length > 1 && readsRomanNumeral(normalize(input)) ? keys.slice(1) : keys;
+}
+
+/** The digits in a key, in order. */
+const digitsOf = (key: string): string => key.replace(/[^0-9]/g, '');
+
 export function typoAllowance(len: number): number {
   if (len <= 3) return 0;
   if (len <= 7) return 1;
@@ -286,11 +313,13 @@ function compile(p: PromptDef): Compiled {
   const exactMode = p.exact === true;
   const entries: Entry[] = [];
   // One entry per key per spelling, the plain key before the folded one.
-  for (const a of objectsOf<AnswerDef>(p.answers))
-    for (const f of [a.answer, ...listOf(a.aliases)]) for (const key of keysOf(f, exactMode)) entries.push({ key, kind: 'answer', ref: a });
-  for (const t of objectsOf<TrapDef>(p.traps))
-    for (const f of [t.answer, ...listOf(t.aliases)]) for (const key of keysOf(f, exactMode)) entries.push({ key, kind: 'trap', ref: t });
-  for (const d of listOf(p.decoys)) for (const key of keysOf(d, exactMode)) entries.push({ key, kind: 'decoy', ref: d });
+  const add = (form: string, ref: Pick<Entry, 'kind' | 'ref'>) => {
+    const typoKeys = exactMode ? [] : typoKeysOf(form);
+    for (const key of keysOf(form, exactMode)) entries.push({ key, typo: typoKeys.includes(key), digits: digitsOf(key), ...ref } as Entry);
+  };
+  for (const a of objectsOf<AnswerDef>(p.answers)) for (const f of [a.answer, ...listOf(a.aliases)]) add(f, { kind: 'answer', ref: a });
+  for (const t of objectsOf<TrapDef>(p.traps)) for (const f of [t.answer, ...listOf(t.aliases)]) add(f, { kind: 'trap', ref: t });
+  for (const d of listOf(p.decoys)) add(d, { kind: 'decoy', ref: d });
   const exact = new Map<string, Entry>();
   for (const e of entries) if (!exact.has(e.key)) exact.set(e.key, e);
   c = { entries, exact };
@@ -337,12 +366,18 @@ export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
   }
 
   // 2. Forgiven typos. A spelling's distance is the smallest between any of the input's
-  //    keys and that entry's key, each within its own allowance.
+  //    keys and that entry's key, each within its own allowance. A typo never changes
+  //    a number: the two keys must hold the same digits in the same order, so "Apollo
+  //    12" is not a slip for "Apollo 11", and with Roman numerals typo-matched only as
+  //    digits, "Elizabeth III" is not a slip for "Elizabeth II".
+  const typoKeys = typoKeysOf(input);
   let best = Infinity;
   let hits: Entry[] = [];
   for (const e of c.entries) {
+    if (!e.typo) continue;
     let d = Infinity;
-    for (const key of keys) {
+    for (const key of typoKeys) {
+      if (digitsOf(key) !== e.digits) continue;
       const limit = typoAllowance(Math.min(key.length, e.key.length));
       if (limit === 0) continue;
       const dk = osaDistance(key, e.key, limit);
