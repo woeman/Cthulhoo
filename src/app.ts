@@ -9,7 +9,7 @@ import { careerDay, computeCareer, type Career } from './game/career';
 import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
-import { loadDays, loadFlag, loadNumber, loadSettings, playerId, saveDay, saveFlag, saveNumber, saveSettings } from './game/storage';
+import { loadDays, loadDisputes, loadFlag, loadNumber, loadSettings, playerId, saveDay, saveFlag, saveNumber, saveSettings } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -18,6 +18,8 @@ import { fmtMetres, focusables, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
 import { MadText, calmAll, icon, madden, madnessForDepth, sealSvg, wordmarkMarkup } from './ui/art';
 import { careerGainPlate, careerStrip, countUp, telegramEl } from './ui/career';
+import { disputeBlock } from './ui/disputes';
+import { disputesText } from './game/disputes';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -357,6 +359,13 @@ export class App {
   private personaTitle(career: Career, days: ReturnType<typeof loadDays>): string {
     const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
     return personaFor(career, sigils, days, this.theme, playerId(), this.today).title;
+  }
+
+  /** After a dispute: a word from the surface. */
+  private disputed(input: string, kept: boolean) {
+    this.sound.click();
+    if (kept) this.toast('Disputed. The surveyors will look again.');
+    else this.toast(`The deep knows “${input}” now.`);
   }
 
   /** A telegram lowered from the surface. It goes back up on a tap, or by itself. */
@@ -999,6 +1008,7 @@ export class App {
       last ? 'Read the log of your descent' : 'Descend further',
     );
     kids.push(h('div', { class: 'actions' }, next));
+    kids.push(disputeBlock(prompt, record.rejects, rec.day, { onDispute: (input, kept) => this.disputed(input, kept) }));
     const eyeOpen = record.tier === 6 || (last && total >= 7000);
     if (eyeOpen) this.openEye();
     // Near the floor the sea opens the Eye itself, whatever the answer was.
@@ -1055,7 +1065,8 @@ export class App {
         if (rarest.length) more.append(h('p', {}, h('b', {}, 'Unspeakable answers: '), rarest.map((x) => x.answer).join(', ')));
         if (common.length) more.append(h('p', {}, h('b', {}, 'What everyone said: '), common.map((x) => x.answer).join(', ')));
       }
-      if (a.rejects.length) more.append(h('p', {}, h('b', {}, 'Refused: '), a.rejects.join(', ')));
+      const refused = disputeBlock(p, a.rejects, rec.day, { note: false, onDispute: (input, kept) => this.disputed(input, kept) });
+      if (refused) more.append(refused);
       log.append(
         h(
           'li',
@@ -1286,6 +1297,28 @@ export class App {
     sheet = this.sheet('How to descend', body, { actions: begin ? [begin] : undefined, focus: begin });
   }
 
+  /** The answers the player has said the deep was wrong to refuse, to copy for the surveyors. */
+  private disputesSection(): HTMLElement[] {
+    const list = loadDisputes();
+    if (!list.length) return [];
+    const copy = h('button', { class: 'btn', type: 'button' }, 'Copy the list') as HTMLButtonElement;
+    copy.addEventListener('click', async () => {
+      this.sound.click();
+      const text = disputesText(list);
+      try {
+        await navigator.clipboard.writeText(text);
+        this.toast('Copied. Send it to the surveyors.');
+      } catch {
+        this.openShareText(text);
+      }
+    });
+    return [
+      h('h3', {}, 'Answers you disputed'),
+      h('p', { class: 'flavor' }, `${list.length === 1 ? 'One answer' : `${list.length} answers`} you said the deep was wrong to refuse. Until the surveyors have a line to the surface, copy the list and send it to them.`),
+      copy,
+    ];
+  }
+
   private openLogbook() {
     this.sound.click();
     const stats = computeStats(loadDays(), this.today);
@@ -1345,6 +1378,7 @@ export class App {
       h('p', { class: 'flavor' }, 'Dive on consecutive days to rise through the cult.'),
       h('h3', {}, 'Answers by rarity'),
       bars,
+      ...this.disputesSection(),
       h('h3', {}, 'Settings'),
       h('label', { class: 'setting' }, h('span', {}, 'Sound'), sound),
       h('label', { class: 'setting' }, h('span', {}, 'Volume'), vol),

@@ -1,4 +1,5 @@
 import type { ActivePrompt, AnswerRecord, DayRecord, Settings } from './types';
+import type { Dispute } from './disputes';
 
 // Everything lives in the player's own browser. Every access is guarded, because
 // storage can be missing or throw (private windows, blocked site data, previews).
@@ -159,6 +160,22 @@ export function loadNumber(name: string): number | null {
 
 export function saveNumber(name: string, value: number): void {
   write(`num.${name}`, String(value));
+}
+
+const VERDICTS = ['unknown', 'decoy', 'trap', 'ambiguous'];
+
+/** Answers the player says the deep was wrong to refuse, oldest first. */
+export function loadDisputes(): Dispute[] {
+  const raw = readJson('disputes');
+  if (!Array.isArray(raw)) return [];
+  return raw
+    .map(asObject)
+    .filter((d) => isStr(d.promptId) && isStr(d.input) && isStr(d.question) && VERDICTS.includes(d.verdict as string) && Number.isInteger(d.day) && isNum(d.at))
+    .map((d) => d as unknown as Dispute);
+}
+
+export function saveDisputes(list: Dispute[]): void {
+  write('disputes', JSON.stringify(list));
 }
 
 const ID_RE = /^[a-z0-9]{8,32}$/;
