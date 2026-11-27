@@ -73,7 +73,7 @@ These are choices I made without being told. Each is easy to change.
   need other subsets of the same families (see [Type](03-type.md)).
 - **Guess:** the sound is synthesised in the browser (Web Audio) rather than recorded.
   The brief in [Motion and sound](07-motion-and-sound.md) works either way.
-- **Guess:** the five rarity tiers plus "Refused" match the game's answer outcomes. If the
+- **Guess:** the six rarity tiers plus "Refused" match the game's answer outcomes. If the
   game adds outcomes (for example "already given"), they need a seal and a colour.
 - **Open:** whether the madness effect should ever touch the question itself on the real
   game screen. It is beautiful on headings, but a player must always be able to read the
