@@ -4,6 +4,7 @@ import { defineConfig, type Plugin } from 'vitest/config';
 const PUBLIC_FILES = [
   'manifest.webmanifest',
   'icons/icon.svg',
+  'icons/app-icon.svg',
   'icons/icon-192.png',
   'icons/icon-512.png',
   'icons/icon-maskable-512.png',
