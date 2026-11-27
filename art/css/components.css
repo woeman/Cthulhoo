@@ -88,7 +88,7 @@
 .cth-question__meta > * + *::before { content: "·"; margin-right: var(--space-4); opacity: 0.6; }
 .cth-question__text {
   margin: 0;
-  font-family: var(--font-display);
+  font-family: var(--font-text);   /* the question is always the calm, readable voice */
   font-size: var(--step-3);
   line-height: 1.12;
   text-wrap: balance;
