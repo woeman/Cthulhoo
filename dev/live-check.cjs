@@ -113,6 +113,17 @@ async function foundCult(page) {
   return sign;
 }
 
+/** Leave the cult from its sheet; when the last member leaves, the relay forgets it. */
+async function leaveCult(page) {
+  await page.getByRole('button', { name: 'Logbook', exact: true }).click();
+  await page.getByRole('button', { name: /The Cult/ }).first().click();
+  await page.waitForSelector('.cult-board', { timeout: 20000 });
+  await page.locator('.cult-leave button', { hasText: 'Leave the cult' }).click();
+  await page.locator('.cult-leave button', { hasText: /^Leave$/ }).click();
+  await page.waitForSelector('.cult-found', { timeout: 20000 });
+  await page.keyboard.press('Escape');
+}
+
 async function seance(m, s, sign) {
   // The medium holds, the sitter comes in by the link.
   await s.waitForSelector('form.sc-join:not([hidden])', { timeout: 20000 });
@@ -243,10 +254,44 @@ async function seance(m, s, sign) {
         pass(`Bram came in by the link and three candles were played. ${r.reveals.map((x, i) => `Candle ${i + 1}: ${x}`).join('; ')}`);
         if (r.herald && r.herald === r.sitterSees) pass(`Both phones agree the Herald of the Deep is ${r.herald}.`);
         else fail(`The phones disagree on the Herald: "${r.herald}" and "${r.sitterSees}".`);
+        // Both rise from the séance, back to the title.
+        for (const page of [p, s]) {
+          await page.click('.sc-back');
+          await page.waitForSelector('.title-screen', { timeout: 15000 });
+        }
       } catch (e) {
         await shot(p, '12-seance-fail-medium');
         if (bram.page) await shot(bram.page, '12-seance-fail-sitter');
         fail(`The séance stopped: ${e.message.split('\n')[0]}`);
+      }
+    }
+
+    // ------------------------------------------------ tidy up: both leave the cult, so the relay forgets it
+    if (relay && cult && bram.page) {
+      try {
+        for (const page of [bram.page, p]) {
+          if (!(await page.locator('.title-screen').count())) {
+            await page.goto(BASE + '?scale=1');
+            await page.waitForSelector('.title-screen, .seance-screen', { timeout: 30000 });
+            if (await page.locator('.seance-screen').count()) {
+              await page.click('.sc-back');
+              await page.waitForSelector('.title-screen', { timeout: 15000 });
+            }
+          }
+          await leaveCult(page);
+        }
+        // A third phone tries the sign; the relay's "no such cult" is a 404 the browser logs, so its errors are not counted.
+        const probe = await device(browser, 'Probe');
+        const gone = await probe.open(`${BASE}?scale=1&cult=${cult}`);
+        await gone.waitForSelector('.sheet .cult-join', { timeout: 30000 });
+        await gone.click('.cult-join-btn');
+        const said = await gone
+          .waitForFunction(() => /No cult has that sign/i.test(document.querySelector('.sheet')?.textContent ?? ''), null, { timeout: 15000 })
+          .then(() => true, () => false);
+        if (said) pass(`Both left ${cult}, and the relay has forgotten it.`);
+        else fail(`Both left ${cult}, but its sign still opens a cult.`);
+      } catch (e) {
+        fail(`Leaving the cult failed: ${e.message.split('\n')[0]}`);
       }
     }
 
