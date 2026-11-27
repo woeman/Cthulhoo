@@ -674,7 +674,7 @@ export class App {
     }
     const screen = h('section', { class: 'screen prompt-screen', 'aria-labelledby': 'question' }, plate);
     const token = this.show(screen);
-    if (bell) this.sound.zone();
+    if (bell) this.sound.toll();
 
     // Keep the gauge, the answer line and any refusal in sight above the keyboard.
     const keepInView = () => {
@@ -733,7 +733,10 @@ export class App {
     const catMad = plate.querySelector<HTMLElement>('[data-mad]');
     const madCat = catMad ? madden(catMad, depthNow, this.reduced, this.madLevel(depthNow)) : null;
 
-    input.addEventListener('input', () => this.sound.key());
+    input.addEventListener('input', (e) => {
+      const ie = e as InputEvent;
+      this.sound.key(ie.inputType?.startsWith('delete') ? 'back' : ie.data === ' ' ? 'space' : undefined);
+    });
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       if (locked) return;
