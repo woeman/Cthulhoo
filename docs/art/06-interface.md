@@ -116,6 +116,33 @@ The chapter card shown when you cross into a new zone: `__range` ("1,000–4,000
 
 A double engraved divider with an ornament in the middle (a seal or a Drowned Script glyph).
 
+### Milestone: `.cth-milestone`
+
+A depth you can never drift back above, carved where you passed it: the benchmark on the
+chart's line, and a stone plaque beside it with the name in small capitals and the depth in the
+log face. `data-state="ahead"` shows one you have not reached yet: cut faintly, not yet inked.
+`data-new` makes the name bloom in like ink on the day it is carved.
+
+```html
+<div class="cth-milestone">
+  <svg class="cth-milestone__mark" viewBox="0 0 32 32"><use href="art/glyphs/marks-sprite.svg#milestone"/></svg>
+  <div class="cth-milestone__plaque">
+    <span class="cth-milestone__name">The Roofs of the Drowned City</span>
+    <span class="cth-milestone__depth">6,800 m</span>
+  </div>
+</div>
+```
+
+### Ward: `.cth-ward`
+
+A ward slot. `data-state="held"` is the hag stone, glowing and breathing on the 7 s cycle;
+`"spent"` is the split stone (use `#ward-spent`), muted; `"empty"` is a faint stone for a ward
+not yet earned. You can hold at most two, so show two slots.
+
+```html
+<svg class="cth-ward" data-state="held" viewBox="0 0 32 32"><use href="art/glyphs/marks-sprite.svg#ward"/></svg>
+```
+
 ## The main screens
 
 **Guess:** the game thread owns the real screens; these are the art direction for them.

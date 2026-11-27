@@ -625,7 +625,7 @@
         <div><dt><code>art/js/madness.js</code></dt><dd><code>createMadness(el)</code> lets short text go wrong as you sink. Screen readers always get the clean text.</dd></div>
         <div><dt><code>art/css/</code></dt><dd>Fonts, base styles and the components on this page: plates, fields, buttons, specimen tags, the sounding line, telegrams.</dd></div>
         <div><dt><code>art/glyphs/</code></dt><dd>Six rarity seals and the refusal, plus the sixteen letters of the Drowned Script, as files and sprites.</dd></div>
-        <div><dt><code>art/icons/</code> · <code>art/logo/</code></dt><dd>Eighteen interface icons; the wordmark, lockup, mark, app icon and favicon.</dd></div>
+        <div><dt><code>art/icons/</code> · <code>art/logo/</code></dt><dd>Twenty-four interface icons; the wordmark, lockup, mark, app icons and favicon.</dd></div>
         <div><dt><code>art/textures/</code></dt><dd>Paper, foxing, film grain, murk, hatching tiles, and the creature silhouettes. Every tile repeats seamlessly.</dd></div>
         <div><dt><code>art/fonts/</code></dt><dd>IM Fell English and EB Garamond (SIL Open Font License), Special Elite (Apache 2.0). Free to ship.</dd></div>
         <div><dt><code>docs/art/</code></dt><dd>The style bible, and this page with its concept shader in <code>showcase/</code>.</dd></div>
@@ -702,7 +702,8 @@
 
   const ICONS = [['descend', 'Descend'], ['hint', 'Hint'], ['share', 'Share'], ['streak', 'Streak'], ['daily', 'Today'], ['stats', 'Soundings'],
     ['leaderboard', 'The Roll'], ['timer', 'Timer'], ['depth', 'Depth'], ['sound-on', 'Sound'], ['sound-off', 'Silence'], ['settings', 'Settings'],
-    ['info', 'About'], ['help', 'How to play'], ['menu', 'Menu'], ['back', 'Back'], ['close', 'Close'], ['check', 'Accepted']];
+    ['info', 'About'], ['help', 'How to play'], ['menu', 'Menu'], ['back', 'Back'], ['close', 'Close'], ['check', 'Accepted'],
+    ['career', 'Logbook'], ['drift', 'Drift'], ['ward', 'Ward'], ['riddle', 'Riddle'], ['seance', 'Séance'], ['cult', 'The Cult']];
   document.getElementById('icons').innerHTML = ICONS.map(([k, n]) =>
     `<figure><svg aria-hidden="true" viewBox="0 0 24 24"><use href="${ASSET}icons/sprite.svg#i-${k}"/></svg>${n}</figure>`).join('');
 
