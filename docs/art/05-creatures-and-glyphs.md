@@ -13,9 +13,11 @@ creature in the game, in the background, in illustrations and in marketing:
 3. **Half-hidden by murk.** Fog covers its roots, its far end, its true size.
 4. **Scale through small things.** Marine snow drifting past a limb tells you how big it is.
 5. **Eyes are rare.** Eyes appear in only four places: the logo's portholes, the Hint icon,
-   the two highest rarity seals, and the Eye at the floor. That is what makes them land.
+   the two highest rarity seals, and the Eye at the floor. That is what makes them land. (The
+   bestiary's specimens have eyes, but drawn as empty rings: preserved specimens do not look back.)
 6. **Real animals first.** Above 4,000 m the creatures are real deep-sea animals (anglerfish,
    siphonophores, jellyfish, squid), drawn accurately. Only deeper do shapes stop making sense.
+   In the bestiary, everything above the Drowned City is a real animal except the Deep One.
 
 ### The silhouettes
 
@@ -43,6 +45,75 @@ city looks back. No domes, no windows, nothing a person would build.
 PNG masks: `png/<name>.png` at the sizes above; the city also as `drowned-city-far.png` and
 `drowned-city-near.png`, and the Eye as `great-eye-lid.png`, `-folds`, `-iris`, `-pupil`,
 `-glint`. Regenerate with `node art/tools/render-pngs.cjs`.
+
+## The bestiary
+
+Twenty-four specimen plates, one for each creature the dive can turn up: four in each zone,
+and four in the Drowned City. Each is engraved on a 240 × 240 grid in `currentColor`, so it
+reads at 64 px and holds up at 320 px, and each has a silhouette for a creature the player has
+not found yet. They are drawn like a naturalist's plates, not like the background creatures
+above: real animals whole and true, on an empty ground.
+
+| Zone (its key) | Plates, by id |
+|---|---|
+| The Shallows (`surface`) | `lions-mane`, `man-o-war`, `leafy-seadragon`, `sunfish` |
+| The Gloaming (`twilight`) | `barreleye`, `vampire-squid`, `hatchetfish`, `siphonophore` |
+| The Stygian Dark (`midnight`) | `black-seadevil`, `gulper-eel`, `colossal-squid`, `fangtooth` |
+| The Cyclopean Abyss (`abyss`) | `dumbo-octopus`, `tripod-fish`, `sea-pig`, `xenophyophore` |
+| The Dreaming Deep (`hadal`) | `snailfish`, `amphipod`, `sea-cucumber`, `deep-one` |
+| The Drowned City (`floor`) | `dagon` (Father Dagon), `hydra` (Mother Hydra), `shoggoth`, `dreamer` (the Dreamer) |
+
+Every plate's name and a one-line note (the Latin name, then one true and strange fact) are in
+[`art/bestiary/bestiary.json`](../../art/bestiary/bestiary.json), with its zone.
+
+How they are drawn:
+
+- **One light.** Upper left on every plate. Burin hatching at −30° and 55° on the side away from
+  it, and a contour that swells where the form turns into shadow.
+- **Whole, or cut.** Real animals are shown whole, the way a naturalist draws a specimen. The
+  colossal squid and the four of the city are too big for the plate, so the frame cuts them
+  (rule 1).
+- **Empty eyes.** Every eye is an empty ring. Only the Dreamer has a pupil, because the Dreamer
+  is the Eye at the floor.
+- **The wrong angle.** The four of the city carry a third set of hatching at 84°, six degrees
+  off true.
+- **Names.** The city's four use names from the old stories (see [Voice](08-voice.md)). They
+  are drawn as sea creatures, never as people. Father Dagon is a vast thing holding a carved
+  standing stone, Mother Hydra a polyp the height of a tower, the shoggoth a self-lit mass
+  pouring out of a gate, and the Dreamer only an eye: the rest of it is the city, asleep.
+
+Files in [`art/bestiary/`](../../art/bestiary/):
+
+| File | What | Size |
+|---|---|---|
+| `plates/<id>.svg` | one plate each, with its name and note as `<title>` and `<desc>` | 27 KB on average (8 KB gzipped); the shoggoth is the largest at 82 KB |
+| `silhouettes/<id>.svg` | the same creature as a solid shape | 2 to 9 KB |
+| `bestiary-sprite.svg` | every plate, as symbols `#b-<id>` | 646 KB (168 KB gzipped) |
+| `silhouettes-sprite.svg` | every silhouette, as symbols `#b-<id>-sil` | 107 KB (34 KB gzipped) |
+| `bestiary.json` | id, name, zone and note for each | |
+
+```html
+<svg viewBox="0 0 240 240" role="img" aria-label="Ocean sunfish"><use href="art/bestiary/bestiary-sprite.svg#b-sunfish"/></svg>
+<svg viewBox="0 0 240 240" aria-hidden="true"><use href="art/bestiary/silhouettes-sprite.svg#b-sunfish-sil"/></svg>
+```
+
+Custom properties (they pass into `<use>`, so set them on the `<svg>` or any parent):
+
+| Property | Default | Use |
+|---|---|---|
+| `--beast-body` | `none` | the fill behind the lines, so near parts hide far ones; set it to the plate's ground colour |
+| `--beast-glow` | `currentColor` | the living lights: lures, photophores, the shoggoth's glimmers |
+| `--beast-glow-filter` | `none` | a filter for those lights, such as `drop-shadow(0 0 3px var(--color-glow))` |
+| `--beast-pupil` | `currentColor` | the Dreamer's pupil |
+
+- **Not yet found.** Show the silhouette in a colour close to the ground, for example
+  `color-mix(in oklab, var(--color-ink) 16%, var(--color-plate))`, with "Not yet found" as its
+  caption, and never the name. When a player finds it, swap in the plate; the ink-bloom motion
+  suits the moment.
+- **Load the plates sprite only where the bestiary is shown.** For one creature on its own (a
+  find during the dive, a share card), fetch its file from `plates/` instead.
+- Regenerate with `python3 art/tools/draw_bestiary.py` (it uses `bestiary_kit.py`, the
+  engraver's kit, which [the séance](06-interface.md#the-séance) is drawn with as well).
 
 ## Rarity seals
 

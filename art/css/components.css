@@ -17,6 +17,7 @@
  *   .cth-milestone   a depth carved into the career chart: a benchmark and a stone plaque
  *   .cth-ward        a ward (hag stone) slot: held, spent or empty
  *   .cth-sigil       a topic Sigil on the Logbook, at four brightness levels
+ *   .cth-tome        a riddle's page from the Drowned Codex: stained paper, drop cap, catchword
  * Motion rules: nothing bounces; idle things breathe on a 7 s cycle; reduced
  * motion turns every animation into a short fade.
  */
@@ -592,6 +593,140 @@
 [data-zone="surface"] .cth-sigil[data-level="2"] { color: var(--color-ink); }
 [data-zone="surface"] .cth-sigil[data-level="3"] { color: var(--color-accent); }
 
+/* ------------------------------------------------------------------ tome (a page of the Drowned Codex) */
+/* A riddle is a page torn from a drowned book: water-stained paper, a rubricated drop cap,
+ * the verse, a rule, and a catchword at the foot, the way old printers set the first word of
+ * the next page. The page is paper in every zone; below the surface your lamp lights it.
+ * The riddle:
+ *   <article class="cth-tome">
+ *     <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+ *     <div class="cth-tome__verse"><p>Twice a day I leave the harbour,<br>twice a day I come again.<br>…</p></div>
+ *     <hr class="cth-tome__rule">
+ *     <footer class="cth-tome__foot"><span>Five breaths left</span><span class="cth-tome__catchword">Of</span></footer>
+ *   </article>
+ * Solved, the same page shows its text: data-state="solved", a <h3 class="cth-tome__title">, the
+ * page's prose in <div class="cth-tome__text"> (one <p> per paragraph), and the player's answer
+ * written into the margin as <p class="cth-tome__margin">, last.
+ * Verse goes in one <p> with <br> between the lines, so the drop cap sinks into three of them.
+ * Vary --tome-fox per page (a background-position) so the foxing never repeats. */
+
+.cth-tome {
+  --tome-paper: #ebe0c7;
+  --tome-ink: #231b13;
+  --tome-muted: #645847;
+  --tome-rubric: #9e2f22;
+  --tome-stain: 105 78 42;                    /* the tide marks, as an RGB triplet */
+  position: relative;
+  isolation: isolate;
+  max-width: 34rem;
+  padding: var(--space-5) clamp(var(--space-5), 6vw, var(--space-7)) var(--space-4);
+  color: var(--tome-ink);
+  background:
+    radial-gradient(ellipse 64% 50% at 90% 106%, transparent 60%, rgb(var(--tome-stain) / 0.17) 63%, rgb(var(--tome-stain) / 0.07) 69%, transparent 74%),
+    radial-gradient(ellipse 36% 26% at 4% 2%, transparent 52%, rgb(var(--tome-stain) / 0.15) 58%, transparent 68%),
+    radial-gradient(ellipse 120% 95% at 50% 42%, transparent 56%, rgb(var(--tome-stain) / 0.24)),
+    url("../textures/paper-grain.png") 0 0 / 512px,
+    var(--tome-paper);
+  background-blend-mode: normal, normal, normal, multiply, normal;
+  box-shadow: inset 0 0 0 1px rgb(var(--tome-stain) / 0.28), inset 0 0 40px rgb(var(--tome-stain) / 0.2), var(--shadow-plate);
+  font: var(--step-1) / 1.5 var(--font-text);
+  font-variant-numeric: oldstyle-nums proportional-nums;
+  text-align: left;
+}
+.cth-tome::before {                          /* foxing: rust spots and old damp */
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  pointer-events: none;
+  background: url("../textures/foxing.png") var(--tome-fox, 30% 20%) / 1024px;
+  opacity: 0.45;
+  mix-blend-mode: multiply;
+}
+.cth-tome__head {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--space-4);
+  margin-bottom: var(--space-5);
+  padding-bottom: var(--space-2);
+  border-bottom: 1px solid rgb(var(--tome-stain) / 0.5);
+  font: var(--step--1) / 1.2 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--tome-muted);
+}
+.cth-tome__title {
+  margin: 0 0 var(--space-4);
+  font: var(--step-2) / 1.15 var(--font-display);
+  text-align: center;
+  text-wrap: balance;
+}
+.cth-tome__verse p { margin: 0; text-wrap: pretty; }
+.cth-tome { container-type: inline-size; }
+@container (max-width: 26rem) {                /* a narrow page: the verse steps down so its lines stay whole */
+  .cth-tome__verse { font-size: var(--step-0); }
+}
+.cth-tome__text { font-size: var(--step-0); line-height: 1.6; }
+.cth-tome__text p { margin: 0 0 var(--space-3); text-wrap: pretty; hyphens: auto; }
+.cth-tome__text p:last-child { margin-bottom: 0; }
+/* the drop cap, rubricated: red ink, as a scribe would have it */
+.cth-tome__verse p:first-child::first-letter,
+.cth-tome__text p:first-child::first-letter {
+  float: left;
+  margin: 0.04em 0.1em 0 0;
+  font: 3.3em / 0.8 var(--font-display);
+  color: var(--tome-rubric);
+}
+.cth-tome__text p:first-child::first-letter { font-size: 3.9em; }
+@supports (initial-letter: 3) {
+  .cth-tome__verse p:first-child::first-letter,
+  .cth-tome__text p:first-child::first-letter { float: none; margin: 0 0.12em 0 0; font-size: inherit; line-height: inherit; initial-letter: 3; }
+}
+.cth-tome__rule {
+  position: relative;
+  height: 4px;
+  margin: var(--space-5) 0 var(--space-3);
+  border: 0;
+  border-block: 1px solid rgb(var(--tome-stain) / 0.7);
+  overflow: visible;
+}
+.cth-tome__rule::after {
+  content: "";
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 9px;
+  height: 9px;
+  translate: -50% -50%;
+  rotate: 45deg;
+  background: var(--tome-paper);
+  border: 1px solid rgb(var(--tome-stain) / 0.8);
+}
+.cth-tome__foot {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-4);
+  font: var(--step--1) / 1.2 var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--tome-muted);
+}
+.cth-tome__catchword { margin-left: auto; font: italic var(--step-0) / 1 var(--font-text); letter-spacing: 0; }
+/* solved: the answer, written into the margin in a later hand */
+.cth-tome__margin {
+  margin: var(--space-4) 0 0;
+  font: var(--step-0) / 1.2 var(--font-log);
+  color: var(--tome-rubric);
+  rotate: -2.5deg;
+  transform-origin: left center;
+}
+.cth-tome[data-state="solved"] .cth-tome__margin { animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both; }
+/* below the surface the page is the only paper for miles: dimmer, and lit by the lamp */
+[data-zone]:not([data-zone="surface"]) .cth-tome {
+  --tome-paper: #d9cbaf;
+  box-shadow: inset 0 0 0 1px rgb(var(--tome-stain) / 0.32), inset 0 0 64px rgb(var(--tome-stain) / 0.5),
+              0 0 0 1px rgb(0 0 0 / 0.35), 0 30px 80px -24px rgb(255 206 140 / 0.28);
+}
+
 /* ------------------------------------------------------------------ motion */
 
 @keyframes cth-breathe {
@@ -635,7 +770,8 @@
   .cth-plate, .cth-specimen, .cth-seal__disc, .cth-btn--lure, .cth-telegram,
   .cth-zone-title__name, .cth-seal[data-tier="6"] .cth-seal__disc::after,
   .cth-specimen[data-tier="6"] :is(.cth-specimen__name, .cth-specimen__tier, .cth-specimen__depth), .cth-field__input,
-  .cth-ward[data-state="held"], .cth-milestone[data-new] .cth-milestone__name, .cth-sigil[data-level="3"] .cth-sigil__glyph {
+  .cth-ward[data-state="held"], .cth-milestone[data-new] .cth-milestone__name, .cth-sigil[data-level="3"] .cth-sigil__glyph,
+  .cth-tome[data-state="solved"] .cth-tome__margin {
     animation: cth-fade 200ms linear both !important;
   }
   .cth-sink { animation: cth-fade 200ms linear reverse both !important; }

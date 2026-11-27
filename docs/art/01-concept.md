@@ -99,5 +99,6 @@ share. Everything you can see or hear must be ours:
   bathysphere dives. None of our art is traced or copied from them; they are a mood.
 - We never borrow another game's palette, layout, iconography, typeface pairing or wording.
 - The cosmic-horror idea (a vast, ancient, indifferent deep) is ours to use. Specific
-  characters and texts from Lovecraft's stories are not used. Our sleeping thing is
-  simply "the Sleeper", our city is "the Drowned City", and its name is four glyphs.
+  characters and texts from Lovecraft's stories are not used, except four creature names in
+  the bestiary (see [Voice](08-voice.md)). Our sleeping thing is simply "the Sleeper", our
+  city is "the Drowned City", and its name is four glyphs.

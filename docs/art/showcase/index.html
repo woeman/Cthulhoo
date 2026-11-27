@@ -354,6 +354,81 @@
     .sounding::before { inset: -3rem -0.75rem -1.5rem -0.75rem; }
     .lockup { margin-bottom: var(--space-5); }
   }
+  /* ---------------------------------------------------------------- the séance */
+  @property --seance-glass { syntax: '<color>'; inherits: true; initial-value: transparent; }
+  .seance { display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: var(--space-6) var(--space-7); align-items: center; margin-top: var(--space-6); }
+  .seance__table { position: relative; margin: 0; width: 100%; max-width: 36rem; justify-self: center; container-type: inline-size;
+    --beast-body: var(--color-ground); --seance-flame: var(--color-glow);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint));
+    transition: --seance-glass 1.6s var(--ease-surface); }
+  .seance__table.is-revealed { --seance-glass: color-mix(in oklab, var(--color-glow) 30%, transparent); }
+  .seance__table > svg { display: block; width: 100%; height: auto; aspect-ratio: 1; }
+  .seance__glass { position: absolute; inset: 37.5%; display: grid; place-items: center; text-align: center; pointer-events: none; }
+  .seance__glass > * { grid-area: 1 / 1; transition: opacity 1s var(--ease-surface); }
+  .seance__code, .seance__herald { font: 3.8cqw / 1 var(--font-display-caps); letter-spacing: 0.1em; white-space: nowrap; color: var(--color-ink); }
+  .seance__glass small { display: block; margin-bottom: 0.7em; font-size: 0.42em; letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); }
+  .seance__herald { opacity: 0; color: var(--color-glow); text-shadow: var(--glow-line); }
+  .seance__table.is-revealed .seance__code { opacity: 0; }
+  .seance__table.is-revealed .seance__herald { opacity: 1; }
+  .seance__candles { display: flex; align-items: flex-end; gap: var(--space-3); margin: 0 0 var(--space-2); padding: 0; list-style: none; --seance-flame: var(--color-glow); }
+  .seance__candles svg { width: 34px; height: 57px; display: block; --beast-body: var(--color-ground);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow-soft)) drop-shadow(0 0 6px var(--color-glow-faint)); }
+  .seance__candles li[data-state="waiting"] { --seance-lit: 0; }
+  .seance__candles li[data-state="spent"] { --seance-lit: 0; --seance-burn: 1; opacity: 0.6; }
+  .seance__candle-note { margin: 0 0 var(--space-5); font: var(--step--2) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .seance__roster { list-style: none; margin: 0 0 var(--space-5); padding: 0; display: grid; gap: var(--space-2); }
+  .seance__roster li { display: grid; grid-template-columns: 14px minmax(0, 1fr) auto; align-items: center; gap: var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-rule-soft); font: var(--step-0) / 1.2 var(--font-text); }
+  .seance__roster svg { width: 14px; height: 22px; color: var(--tok, var(--color-ink)); }
+  .seance__roster small { font: var(--step--2) / 1 var(--font-log); color: var(--color-ink-muted); }
+  .seance__roster li[data-state="empty"] { color: var(--color-ink-muted); }
+  .seance__roster li[data-state="empty"] svg { color: var(--color-ink-muted); opacity: 0.5; }
+  .seance__roster li[data-state="empty"] .is-seated, .seance__roster li[data-state="seated"] .is-empty { display: none; }
+  .seance__roster li.chairs { grid-template-columns: minmax(0, 1fr); border: 0; font: var(--step--1) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .seance__vars { margin: 0 0 var(--space-5); display: grid; grid-template-columns: auto minmax(0, 1fr); gap: var(--space-2) var(--space-4); font: var(--step--1) / 1.35 var(--font-text); }
+  .seance__vars dt { font: var(--step--2) / 1.5 var(--font-log); color: var(--color-glow); }
+  .seance__vars dd { margin: 0; color: var(--color-ink-muted); }
+  .seance__vars code { font: inherit; white-space: nowrap; }
+  @media (prefers-reduced-motion: reduce) { .seance__table { --seance-fade: 0s; transition: none; } .seance__glass > * { transition: none; } }
+
+  /* ---------------------------------------------------------------- the Drowned Codex */
+  .tomes { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-6); align-items: start; margin-top: var(--space-6); }
+  .tomes figure { margin: 0; display: grid; gap: var(--space-3); }
+  .tomes figure:nth-child(2) { margin-top: var(--space-7); }
+  .tomes figcaption { font: var(--step--2) / 1.3 var(--font-log); color: var(--color-ink-muted); }
+  .tomes .cth-tome { max-width: none; }
+
+  /* ---------------------------------------------------------------- the bestiary (specimen plates) */
+  .specimen-feature { display: grid; grid-template-columns: minmax(0, 22rem) minmax(0, 1fr); gap: var(--space-6); align-items: center; margin-top: var(--space-6); }
+  .specimen-feature svg { width: 100%; height: auto; aspect-ratio: 1; display: block; background: var(--color-plate); box-shadow: inset 0 0 0 1px var(--color-rule-soft); }
+  .specimen-feature .zone { margin: 0; font: var(--step--1) / 1.2 var(--font-display-caps); letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); }
+  .specimen-feature h3 { margin: var(--space-2) 0 var(--space-1); font: var(--step-3) / 1.05 var(--font-display); }
+  .specimen-feature .latin { margin: 0 0 var(--space-4); font: italic var(--step-0) / 1.3 var(--font-text); color: var(--color-ink-muted); }
+  .drawer { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: var(--space-6) var(--space-5); margin-top: var(--space-7); }
+  .drawer__zone h3 { margin: 0 0 var(--space-3); padding-bottom: var(--space-2); border-bottom: 1px solid var(--color-rule); font: var(--step--1) / 1.2 var(--font-display-caps); letter-spacing: var(--tracking-caps); color: var(--color-ink-muted); display: flex; justify-content: space-between; gap: var(--space-3); }
+  .drawer__zone h3 span { font: var(--step--2) / 1.2 var(--font-log); letter-spacing: 0; }
+  .drawer__grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-3); }
+  .drawer__cell { position: relative; margin: 0; padding: 0; border: 0; display: grid; gap: var(--space-1); justify-items: stretch; text-align: center; color: var(--color-ink); background: none; font: var(--step--2) / 1.25 var(--font-log); }
+  .drawer__cell svg { grid-area: 1 / 1; width: 100%; height: auto; aspect-ratio: 1; display: block; background: var(--color-plate); box-shadow: inset 0 0 0 1px var(--color-rule-soft); }
+  .drawer__cell figcaption, .drawer__cell > span { grid-row: 2; color: var(--color-ink-muted); text-wrap: balance; }
+  .drawer__cell .drawer__sil { color: color-mix(in oklab, var(--color-ink) 16%, var(--color-plate)); }
+  .drawer__cell .drawer__plate { opacity: 0; }
+  button.drawer__cell { cursor: pointer; }
+  button.drawer__cell:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+  button.drawer__cell[aria-pressed="true"] .drawer__plate { opacity: 1; animation: cth-ink-bloom var(--dur-ink) var(--ease-surface) both; }
+  button.drawer__cell[aria-pressed="true"] .drawer__sil, button.drawer__cell[aria-pressed="true"] .is-unfound,
+  button.drawer__cell[aria-pressed="false"] .is-found { display: none; }
+  .bestiary-plates { --beast-body: var(--color-plate); --beast-glow: var(--color-glow); --beast-pupil: var(--color-accent);
+    --beast-glow-filter: drop-shadow(0 0 1.5px var(--color-glow)) drop-shadow(0 0 5px var(--color-glow-soft)); }
+  @media (prefers-reduced-motion: reduce) { button.drawer__cell[aria-pressed="true"] .drawer__plate { animation: none; } }
+  @media (max-width: 760px) {
+    .seance { grid-template-columns: minmax(0, 1fr); }
+    .tomes { grid-template-columns: minmax(0, 1fr); }
+    .tomes figure:nth-child(2) { margin-top: 0; }
+    .specimen-feature { grid-template-columns: minmax(0, 1fr); }
+    .drawer { grid-template-columns: minmax(0, 1fr); gap: var(--space-5); }
+    .drawer__grid { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--space-2); }
+    .drawer__cell { font-size: 10px; }
+  }
 </style>
 </head>
 <body>
@@ -525,9 +600,9 @@
   </section>
 
   <!-- ============================================================ rarity -->
-  <section class="leg" id="rarity" data-from="1200" data-to="2600">
+  <section class="leg" id="rarity" data-from="1200" data-to="1900">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate V</span><b>Rarity</b><span>six tiers and a refusal</span></div>
+      <div class="eyebrow"><span>Plate VI</span><b>Rarity</b><span>six tiers and a refusal</span></div>
       <h2 class="title">Specimens, by how few people know them</h2>
       <p class="body">Each answer is tagged like a museum specimen. Its seal is a radiolarian, the glass skeleton of deep-sea plankton, and it grows stranger with rarity: more spines, then a star, then an eye. Odd numbers only. Nothing down here is quite symmetrical.</p>
       <ol class="cth-specimens" id="specimens" aria-label="Example answers to today's question">
@@ -544,10 +619,41 @@
     </div>
   </section>
 
-  <!-- ============================================================ script -->
-  <section class="leg" id="script" data-from="2600" data-to="4000">
+  <!-- ============================================================ the séance -->
+  <section class="leg" id="seance" data-from="1900" data-to="2600">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate VI</span><b>The Drowned Script</b><span>sixteen glyphs</span></div>
+      <div class="eyebrow"><span>Plate VII</span><b>The Séance</b><span>party mode</span></div>
+      <h2 class="title">Twelve chairs at the table</h2>
+      <p class="body">Friends join a host with a code like DAGON-7, up to twelve of them. Each one holds a mark, one of the twelve letters of the Drowned Script round the table's edge, and when they sit, their hand is laid on the rim in their colour and their letter lights. Every question is a candle that burns down while it is asked. When it goes out, the glass lights and the answers are revealed together.</p>
+      <div class="seance">
+        <figure class="seance__table" id="seance-table">
+          <svg viewBox="0 0 240 240" role="img" aria-label="A séance table: twelve hands laid round a porthole, their fingertips on its rim, and the marks of the Drowned Script round the edge"><use href="../../../art/seance/seance-sprite.svg#seance"/></svg>
+          <div class="seance__glass" aria-live="polite">
+            <span class="seance__code"><small>The circle</small>DAGON-7</span>
+            <span class="seance__herald"><small>Herald of the Deep</small>Ilse</span>
+          </div>
+        </figure>
+        <div>
+          <ol class="seance__candles" id="seance-candles" aria-label="Five questions, one candle each"><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li><li data-state="waiting"><svg aria-hidden="true"><use href="../../../art/seance/seance-sprite.svg#seance-candle"/></svg></li></ol>
+          <p class="seance__candle-note">Five questions: one candle each, burning for as long as the question is open.</p>
+          <ol class="seance__roster" id="seance-roster" aria-label="Who has sat down"><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-tide"/></svg><span><span class="is-seated">Wren</span><span class="is-empty">An empty chair</span></span><small class="is-seated">tide, the host</small><small class="is-empty">tide</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-fang"/></svg><span><span class="is-seated">Harrow</span><span class="is-empty">An empty chair</span></span><small class="is-seated">fang</small><small class="is-empty">fang</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-anchor"/></svg><span><span class="is-seated">Ilse</span><span class="is-empty">An empty chair</span></span><small class="is-seated">anchor</small><small class="is-empty">anchor</small></li><li data-state="seated"><svg viewBox="0 0 20 32" aria-hidden="true"><use href="../../../art/glyphs/script-sprite.svg#g-talon"/></svg><span><span class="is-seated">Bram</span><span class="is-empty">An empty chair</span></span><small class="is-seated">talon</small><small class="is-empty">talon</small></li><li class="chairs">Eight chairs empty</li></ol>
+          <dl class="seance__vars">
+            <dt>--seance-hand-N</dt><dd>a sitter's colour, for the hand and mark at seat N (1 to 12, clockwise from the top; seat N is mark N − 1)</dd>
+            <dt>--seance-seat-N</dt><dd>1 for a sitter, about 0.16 for an empty chair</dd>
+            <dt>--seance-glass</dt><dd>the glass, lit at the reveal</dd>
+            <dt>--seance-burn</dt><dd>on a candle: 0 whole, 1 burnt down; <code>--seance-lit</code> puts it out</dd>
+          </dl>
+          <button class="cth-btn cth-btn--ghost" type="button" id="seance-again">Seat them again</button>
+        </div>
+      </div>
+      <p class="guess">The names and colours are samples; here the colours are the four zone glows. The game picks its own.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ script -->
+  <section class="leg" id="script" data-from="2600" data-to="3300">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate VIII</span><b>The Drowned Script</b><span>sixteen glyphs</span></div>
       <h2 class="title">An alphabet that <em>hangs</em></h2>
       <p class="body">An invented script whose letters hang from a waterline, the way weed and chain hang from a hull. Glyphs join along that line into words. It decorates borders, loading states and seals, and it is what the madness effect reaches for when a letter goes wrong.</p>
       <div class="script" id="script-grid"></div>
@@ -564,6 +670,38 @@
     </div>
   </section>
 
+  <!-- ============================================================ riddles: the Drowned Codex -->
+  <section class="leg" id="riddles" data-from="3300" data-to="4000">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate IX</span><b>The Whispering Deep</b><span>riddles · .cth-tome</span></div>
+      <h2 class="title">A page of the Drowned Codex</h2>
+      <p class="body">One riddle a day, in verse, and five breaths to answer it. Solve it and the page is added to your Logbook: a leaf of a book that has been under water a long time, stained and foxed, with a red drop cap, a rule, and a catchword at the foot, the first word of the next page, as old printers set it. The page is paper in every zone; below the surface your lamp lights it.</p>
+      <div class="tomes">
+        <figure>
+          <article class="cth-tome" style="--tome-fox: 12% 64%">
+            <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+            <div class="cth-tome__verse"><p>Twice a day I leave the harbour,<br>twice a day I come again.<br>The moon keeps me on a leash,<br>and the drowned keep time by me.</p></div>
+            <hr class="cth-tome__rule">
+            <footer class="cth-tome__foot"><span>Five breaths left</span><span class="cth-tome__catchword">Of</span></footer>
+          </article>
+          <figcaption>The riddle. Its catchword is the first word of the page you earn.</figcaption>
+        </figure>
+        <figure>
+          <article class="cth-tome" data-state="solved" style="--tome-fox: 70% 30%">
+            <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+            <h3 class="cth-tome__title">Of the Tide That Keeps Time</h3>
+            <div class="cth-tome__text"><p>The sea rises and falls twice in a little under twenty-five hours, because the Moon drags a hill of water round the world and the Earth turns beneath it. The Sun pulls as well, more faintly. When the two pull together the tides run highest, and they are called spring tides, though they come in every season. In the Bay of Fundy the water climbs sixteen metres between low and high. The drowned are said to keep this clock exactly. Somewhere below, a door is opened and shut on the same schedule, and has been for longer than anyone has counted.</p></div>
+            <hr class="cth-tome__rule">
+            <footer class="cth-tome__foot"><span>The Whispering Deep</span><span class="cth-tome__catchword">Beneath</span></footer>
+            <p class="cth-tome__margin">Tide. One hint, 700 m.</p>
+          </article>
+          <figcaption>Solved: data-state="solved". The answer is written into the margin in a later hand.</figcaption>
+        </figure>
+      </div>
+      <p class="guess">The riddle is the example from the riddles format and the page is a sample. The game supplies both.</p>
+    </div>
+  </section>
+
   <!-- ============================================================ 4,000 m · The Cyclopean Abyss -->
   <section class="chapter" id="cyclopean" data-from="4000" data-to="4200">
     <div class="cth-zone-title">
@@ -573,10 +711,32 @@
     </div>
   </section>
 
-  <!-- ============================================================ creatures -->
-  <section class="leg" id="creatures" data-from="4200" data-to="5100">
+  <!-- ============================================================ the bestiary: specimen plates -->
+  <section class="leg" id="bestiary" data-from="4200" data-to="4700">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate VII</span><b>The bestiary</b><span>textures/silhouettes</span></div>
+      <div class="eyebrow"><span>Plate X</span><b>The bestiary</b><span>24 specimen plates</span></div>
+      <h2 class="title">Four to a zone</h2>
+      <p class="body">A plate for every creature the dive can turn up, four in each zone and four in the Drowned City. Real animals are drawn whole and true, the way a naturalist would draw them; the largest, and the four of the city, are cut by the frame. Their eyes are empty rings: preserved specimens do not look back. A creature you have not met yet is only its silhouette.</p>
+      <div class="bestiary-plates">
+        <div class="specimen-feature">
+          <svg viewBox="0 0 240 240" role="img" aria-label="Black seadevil"><use href="../../../art/bestiary/bestiary-sprite.svg#b-black-seadevil"/></svg>
+          <div>
+            <p class="zone">The Stygian Dark · 1,000–4,000 m</p>
+            <h3>Black seadevil</h3>
+            <p class="latin">Melanocetus johnsonii</p>
+            <p class="note">A globe of a fish, all mouth, fishing in the dark with a light that grows on its own head. The lure is the plate's one living light: it takes --beast-glow.</p>
+          </div>
+        </div>
+        <div class="drawer" id="drawer"><section class="drawer__zone"><h3>The Shallows<span>0–200 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Lion&#x27;s mane jellyfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-lions-mane"/></svg><figcaption>Lion&#x27;s mane jellyfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Portuguese man o&#x27; war"><use href="../../../art/bestiary/bestiary-sprite.svg#b-man-o-war"/></svg><figcaption>Portuguese man o&#x27; war</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Leafy seadragon"><use href="../../../art/bestiary/bestiary-sprite.svg#b-leafy-seadragon"/></svg><figcaption>Leafy seadragon</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Ocean sunfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sunfish"/></svg><figcaption>Ocean sunfish</figcaption></figure></div></section><section class="drawer__zone"><h3>The Gloaming<span>200–1,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Barreleye"><use href="../../../art/bestiary/bestiary-sprite.svg#b-barreleye"/></svg><figcaption>Barreleye</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Vampire squid"><use href="../../../art/bestiary/bestiary-sprite.svg#b-vampire-squid"/></svg><figcaption>Vampire squid</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Hatchetfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-hatchetfish"/></svg><figcaption>Hatchetfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Giant siphonophore"><use href="../../../art/bestiary/bestiary-sprite.svg#b-siphonophore"/></svg><figcaption>Giant siphonophore</figcaption></figure></div></section><section class="drawer__zone"><h3>The Stygian Dark<span>1,000–4,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Black seadevil"><use href="../../../art/bestiary/bestiary-sprite.svg#b-black-seadevil"/></svg><figcaption>Black seadevil</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Gulper eel"><use href="../../../art/bestiary/bestiary-sprite.svg#b-gulper-eel"/></svg><figcaption>Gulper eel</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Colossal squid"><use href="../../../art/bestiary/bestiary-sprite.svg#b-colossal-squid"/></svg><figcaption>Colossal squid</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Fangtooth"><use href="../../../art/bestiary/bestiary-sprite.svg#b-fangtooth"/></svg><figcaption>Fangtooth</figcaption></figure></div></section><section class="drawer__zone"><h3>The Cyclopean Abyss<span>4,000–6,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Dumbo octopus"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dumbo-octopus"/></svg><figcaption>Dumbo octopus</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Tripod fish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-tripod-fish"/></svg><figcaption>Tripod fish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Sea pig"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sea-pig"/></svg><figcaption>Sea pig</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Xenophyophore"><use href="../../../art/bestiary/bestiary-sprite.svg#b-xenophyophore"/></svg><figcaption>Xenophyophore</figcaption></figure></div></section><section class="drawer__zone"><h3>The Dreaming Deep<span>6,000–7,000 m</span></h3><div class="drawer__grid"><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Mariana snailfish"><use href="../../../art/bestiary/bestiary-sprite.svg#b-snailfish"/></svg><figcaption>Mariana snailfish</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Supergiant amphipod"><use href="../../../art/bestiary/bestiary-sprite.svg#b-amphipod"/></svg><figcaption>Supergiant amphipod</figcaption></figure><figure class="drawer__cell"><svg viewBox="0 0 240 240" role="img" aria-label="Swimming sea cucumber"><use href="../../../art/bestiary/bestiary-sprite.svg#b-sea-cucumber"/></svg><figcaption>Swimming sea cucumber</figcaption></figure><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-deep-one-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-deep-one"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">A Deep One</span></span></button></div></section><section class="drawer__zone"><h3>The Drowned City<span>7,000 m</span></h3><div class="drawer__grid"><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-dagon-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dagon"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">Father Dagon</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-hydra-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-hydra"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">Mother Hydra</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-shoggoth-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-shoggoth"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">A shoggoth</span></span></button><button class="drawer__cell" type="button" aria-pressed="false" aria-label="Not yet found: show the plate"><svg class="drawer__sil" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/silhouettes-sprite.svg#b-dreamer-sil"/></svg><svg class="drawer__plate" viewBox="0 0 240 240" aria-hidden="true"><use href="../../../art/bestiary/bestiary-sprite.svg#b-dreamer"/></svg><span><span class="is-unfound">Not yet found</span><span class="is-found">The Dreamer</span></span></button></div></section></div>
+      </div>
+      <p class="guess">The last five are shown as a player who has not found them sees them. Tap one to see its plate.</p>
+    </div>
+  </section>
+
+  <!-- ============================================================ creatures -->
+  <section class="leg" id="creatures" data-from="4700" data-to="5100">
+    <div class="leg__inner wide">
+      <div class="eyebrow"><span>Plate XI</span><b>Shapes in the dark</b><span>textures/silhouettes</span></div>
       <h2 class="title">Seen as an absence of light</h2>
       <p class="body">Silhouettes for the abyss renderer, filled in a single colour so they can be lit, fogged or used as masks. The rule is to show less: cut them by the frame, half-hide them in murk, and never light one fully.</p>
       <div class="bestiary">
@@ -595,7 +755,7 @@
   <!-- ============================================================ motion & madness -->
   <section class="leg" id="motion" data-from="5100" data-to="6000">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate VIII</span><b>Motion &amp; madness</b><span>nothing bounces</span></div>
+      <div class="eyebrow"><span>Plate XII</span><b>Motion &amp; madness</b><span>nothing bounces</span></div>
       <h2 class="title">Heavy water</h2>
       <dl class="rules">
         <div><dt>Breathe</dt><dd>Anything idle pulses once every <code>7 s</code>, the breath of a sleeper. Never faster.</dd></div>
@@ -631,7 +791,7 @@
   <!-- ============================================================ marks & icons -->
   <section class="leg" id="marks" data-from="6100" data-to="6300">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate IX</span><b>Marks &amp; instruments</b><span>logo · icons</span></div>
+      <div class="eyebrow"><span>Plate XIII</span><b>Marks &amp; instruments</b><span>logo · icons</span></div>
       <h2 class="title">Two portholes, watching</h2>
       <p class="body">The double O of the name is a pair of riveted bathysphere portholes, and each one is an eye with a cuttlefish's W-shaped pupil. On a phone it is the app icon: two eyes in the dark.</p>
       <div class="marks">
@@ -653,7 +813,7 @@
   <!-- ============================================================ sound -->
   <section class="leg" id="sound" data-from="6300" data-to="6480">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate X</span><b>Sound</b><span>direction for the game's audio</span></div>
+      <div class="eyebrow"><span>Plate XIV</span><b>Sound</b><span>direction for the game's audio</span></div>
       <h2 class="title">What the deep sounds like</h2>
       <p class="body">One drone on D that never stops, and layers that come and go with depth. As you sink a low-pass filter closes over everything. At the floor it opens for the first time since the surface, and the choir sings a chord that sounds like an answer. It should not. No jump scares: dread is a held note, not a loud one.</p>
       <div class="table-scroll">
@@ -675,7 +835,7 @@
   <!-- ============================================================ the kit -->
   <section class="leg" id="kit" data-from="6480" data-to="6620">
     <div class="leg__inner wide">
-      <div class="eyebrow"><span>Plate XI</span><b>The kit</b><span>where everything lives</span></div>
+      <div class="eyebrow"><span>Plate XV</span><b>The kit</b><span>where everything lives</span></div>
       <h2 class="title">Everything here is in the repository</h2>
       <p class="body">The game builds on these files directly. Change a colour in one place and every screen follows.</p>
       <dl class="kit">
@@ -931,6 +1091,61 @@
       requestAnimationFrame(step);
     }, { threshold: 0.3 });
     io.observe(chart);
+  }
+
+  /* ------------------------------------------------------------ the séance: the circle fills, a candle burns, the glass lights */
+  const table = document.getElementById('seance-table');
+  const rosterRows = [...document.querySelectorAll('#seance-roster li[data-state]')];
+  const candleRows = [...document.querySelectorAll('#seance-candles li')];
+  const TOKENS = ['#58d3ea', '#f0b562', '#b6ec66', '#ff69d3'];           // samples: the four zone glows
+  let seanceTimers = [], burnFrame = 0;
+  function seat(n) {
+    for (let k = 1; k <= 12; k++) {
+      table.style.setProperty(`--seance-seat-${k}`, k <= n ? 1 : 0.16);
+      if (TOKENS[k - 1]) table.style.setProperty(`--seance-hand-${k}`, TOKENS[k - 1]);
+    }
+    rosterRows.forEach((li, i) => { li.dataset.state = i < n ? 'seated' : 'empty'; li.style.setProperty('--tok', TOKENS[i]); });
+  }
+  function candles(spent, burning = -1, burn = 0) {
+    candleRows.forEach((li, i) => {
+      li.dataset.state = i < spent ? 'spent' : i === burning ? 'burning' : 'waiting';
+      li.style.setProperty('--seance-burn', i === burning ? burn : '');
+    });
+  }
+  function burnDown(i, ms, done) {
+    const t0 = performance.now();
+    const step = (now) => {
+      const t = Math.min(1, (now - t0) / ms);
+      candles(i, i, t);
+      if (t < 1) burnFrame = requestAnimationFrame(step); else done();
+    };
+    burnFrame = requestAnimationFrame(step);
+  }
+  function playSeance() {
+    seanceTimers.forEach(clearTimeout);
+    seanceTimers = [];
+    cancelAnimationFrame(burnFrame);
+    table.classList.remove('is-revealed');
+    if (reduce) { seat(4); candles(1); table.classList.add('is-revealed'); return; }
+    seat(0);
+    candles(0);
+    for (let n = 1; n <= 4; n++) seanceTimers.push(setTimeout(() => seat(n), 300 + n * 800));
+    seanceTimers.push(setTimeout(() => burnDown(0, 4200, () => { candles(1); table.classList.add('is-revealed'); }), 300 + 5 * 800));
+  }
+  seat(4);
+  candles(1);
+  table.classList.add('is-revealed');
+  const sio = new IntersectionObserver(([e]) => { if (e.isIntersecting) { sio.disconnect(); playSeance(); } }, { threshold: 0.45 });
+  sio.observe(table);
+  document.getElementById('seance-again').addEventListener('click', playSeance);
+
+  /* ------------------------------------------------------------ the bestiary: unfound plates show on a tap */
+  for (const b of document.querySelectorAll('button.drawer__cell')) {
+    b.addEventListener('click', () => {
+      const on = b.getAttribute('aria-pressed') !== 'true';
+      b.setAttribute('aria-pressed', on);
+      b.setAttribute('aria-label', on ? b.querySelector('.is-found').textContent : 'Not yet found: show the plate');
+    });
   }
 
   /* ------------------------------------------------------------ the abyss behind the page */

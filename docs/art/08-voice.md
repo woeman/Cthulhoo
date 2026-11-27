@@ -80,6 +80,12 @@ And one more, used very sparingly: **the deep**, which speaks only in italics, o
   bigotry. None of that belongs here. The horror is the ocean's size, age and indifference, never
   a people, a culture or a religion. Do not name real religions, real peoples or real places as
   sources of evil.
-- **Our own names.** We do not use Cthulhu, R'lyeh, the Necronomicon or other named characters,
-  places or books from Lovecraft's fiction in the game. The game's own name plays on the idea; the
-  game's world is ours: the Sleeper, the Drowned City, the Drowned Script.
+- **Our own names, with four exceptions.** We do not use Cthulhu, R'lyeh, the Necronomicon or other
+  named characters, places or books from Lovecraft's fiction in the game. The game's own name plays
+  on the idea; the game's world is ours: the Sleeper, the Drowned City, the Drowned Script. The
+  exceptions are four creatures of the old stories in the bestiary, named because the game's
+  feature list asks for them (27 November 2026): Father Dagon, Mother Hydra, the shoggoth and the
+  Deep Ones. Party codes such as DAGON-7 may use them too. They are drawn as sea creatures, never as
+  a people, and none of Lovecraft's lore about bloodlines or "tainted" towns comes with them. The
+  bestiary's Dreamer is our own Sleeper, seen only as its eye. **Guess:** these names are reused
+  across many games and books; keep them out of the game's name, logo and store listing.
