@@ -1,0 +1,971 @@
+/* The Whispering Deep: the layout round the day's riddle, its breaths and whispers,
+   and the Drowned Codex. The page itself is the art kit's tome (.cth-tome, in
+   art/css/components.css): always paper, with its own drop cap, foxing and
+   catchword. Everything else takes the zone's colours, so the screen re-themes
+   itself with the depth. */
+
+/* ------------------------------------------------------------ the screen */
+
+.riddle-screen {
+  justify-content: flex-start;
+  gap: var(--space-3);
+  padding-top: var(--space-2);
+}
+
+.riddle-screen [hidden] {
+  display: none !important;
+}
+
+.riddle-top {
+  display: flex;
+  align-items: center;
+  gap: var(--space-1);
+  min-height: 48px;
+}
+
+/* the back arrow keeps a little clear water round it, like every word on the picture */
+.riddle-back.icon-btn {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  margin-left: calc(-1 * var(--space-2));
+  background: radial-gradient(closest-side, var(--reserve) 55%, transparent);
+}
+
+.riddle-title {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-width: 0;
+  margin: 0;
+  padding: 2px 0.6em;
+  border-radius: 999px;
+  background: var(--reserve);
+  box-shadow: 0 0 10px 6px var(--reserve);
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  line-height: 1.2;
+  color: var(--color-ink-muted);
+}
+
+.riddle-title__icon,
+.riddle-title__icon svg {
+  display: block;
+  flex: none;
+  width: 1.25em;
+  height: 1.25em;
+}
+
+.riddle-no {
+  margin: 0 0 0 auto;
+  padding: 0 0.5em;
+  border-radius: 999px;
+  background: var(--reserve);
+  box-shadow: 0 0 10px 6px var(--reserve);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+  white-space: nowrap;
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ the riddle's page */
+
+.riddle-screen > .cth-tome {
+  width: 100%;
+  margin-inline: auto;
+}
+
+.riddle-verse:focus,
+.riddle-verse:focus-visible,
+.riddle-screen .cth-tome__title:focus,
+.riddle-screen .cth-tome__title:focus-visible {
+  outline: none;
+}
+
+/* Each line inks itself in, in turn, as the daily question's words rise. The lines
+   stay inline (the drop cap sinks into the first three), so they only blur and fade. */
+.riddle-line {
+  opacity: 0;
+  filter: blur(5px);
+  animation: riddle-rise 1100ms var(--ease-surface) forwards;
+  animation-delay: calc(var(--rise-lead, 0ms) + var(--i, 0) * 340ms);
+}
+
+@keyframes riddle-rise {
+  to {
+    opacity: 1;
+    filter: none;
+  }
+}
+
+/* A verse line too long for a small page turns over indented, as printed verse does,
+   so a wrapped line never reads as the start of a new one. */
+@supports (text-indent: 1em each-line hanging) {
+  .riddle-verse p {
+    text-indent: 1.2em each-line hanging;
+  }
+}
+
+/* solved: the riddle goes, and what it hid is written in its place, the answer last */
+.riddle-turn > :not(.cth-tome__margin) {
+  animation: riddle-ink 1400ms var(--ease-surface) both;
+}
+
+.riddle-turn > :nth-child(2) {
+  animation-delay: 140ms;
+}
+
+.riddle-turn > :nth-child(3) {
+  animation-delay: 320ms;
+}
+
+.riddle-turn > :nth-child(n + 4) {
+  animation-delay: 520ms;
+}
+
+.riddle-turn.cth-tome[data-state='solved'] .cth-tome__margin {
+  animation-delay: 1300ms;
+}
+
+/* sunk: the deep keeps the page, and seals it at the corner */
+.riddle-seal {
+  position: absolute;
+  right: -10px;
+  bottom: -14px;
+  display: grid;
+  place-items: center;
+  width: 62px;
+  height: 62px;
+  border-radius: 47% 53% 49% 51% / 52% 47% 53% 48%;
+  color: #f1e3c8;
+  background: radial-gradient(circle at 38% 32%, #b4503a, #8a2a1a 58%, #6a1c10);
+  box-shadow:
+    0 2px 0 rgb(60 16 8 / 0.35),
+    0 8px 16px -6px rgb(40 12 6 / 0.7),
+    inset 0 0 0 4px rgb(255 230 200 / 0.07),
+    inset 0 0 0 5px rgb(60 10 4 / 0.25);
+  rotate: -12deg;
+}
+
+.riddle-seal__mark {
+  width: 32px;
+  height: 32px;
+}
+
+.riddle-seal.arriving {
+  animation: riddle-seal 900ms var(--ease-sink) 500ms both;
+}
+
+/* pressed down onto the page */
+@keyframes riddle-seal {
+  from {
+    opacity: 0;
+    scale: 1.5;
+    filter: blur(3px);
+  }
+  70% {
+    opacity: 1;
+    scale: 0.96;
+    filter: none;
+  }
+}
+
+/* ------------------------------------------------------------ the plate below it */
+
+.riddle-plate {
+  padding: var(--space-4) var(--space-5);
+  text-align: center;
+}
+
+/* The play rises after the verse, so the riddle is read first. */
+.riddle-play {
+  animation: riddle-play-in 900ms var(--ease-surface) both;
+  animation-delay: var(--play-delay, 0ms);
+}
+
+@keyframes riddle-play-in {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+    filter: blur(3px);
+  }
+}
+
+/* ------------------------------------------------------------ breaths and worth */
+
+.riddle-status {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-3);
+  text-align: left;
+}
+
+.riddle-status__breaths {
+  display: grid;
+  gap: 6px;
+  justify-items: start;
+}
+
+.riddle-label {
+  font-family: var(--font-display-caps);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-caps-wide);
+  line-height: 1;
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.riddle-breaths {
+  display: flex;
+  gap: 3px;
+  margin-left: -3px;
+}
+
+/* Air, not coin: pale as the ink, clear in the middle, bright at the rim, with the
+   light caught in a crescent at the top. */
+.riddle-bubble {
+  display: block;
+  width: 30px;
+  height: 30px;
+  color: color-mix(in oklab, var(--color-ink) 86%, var(--color-glow));
+  transition:
+    color var(--dur-reveal) var(--ease-drift),
+    opacity var(--dur-reveal) var(--ease-drift);
+}
+
+.riddle-bubble svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+}
+
+.riddle-bubble .b-ring {
+  stroke-width: 0.85;
+  stroke-opacity: 0.8;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+.riddle-bubble .b-shine {
+  stroke-width: 1.8;
+  opacity: 0.92;
+}
+
+.riddle-bubble .b-under {
+  stroke-width: 0.9;
+  opacity: 0.42;
+}
+
+.riddle-bubble .b-glint {
+  fill: currentColor;
+  stroke: none;
+}
+
+.riddle-bubble .b-spray {
+  opacity: 0;
+  stroke-width: 1.3;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+:root:not([data-zone='surface']) .riddle-bubble[data-state='held'] {
+  filter: drop-shadow(0 0 3px var(--color-glow-faint)) drop-shadow(0 0 1px var(--color-glow-soft));
+}
+
+/* held breaths drift, each on its own phase of the seven-second swell */
+.riddle-bubble[data-state='held'] {
+  animation: riddle-bob var(--dur-breath) var(--ease-drift) infinite;
+  animation-delay: calc(var(--i, 0) * -1.37s);
+}
+
+@keyframes riddle-bob {
+  0%,
+  100% {
+    transform: translateY(0.5px);
+  }
+  50% {
+    transform: translateY(-2px);
+  }
+}
+
+.riddle-bubble[data-state='spent'] {
+  color: var(--color-ink-muted);
+  opacity: 0.5;
+}
+
+.riddle-bubble[data-state='spent'] .b-ring {
+  fill: none;
+  stroke-width: 1.1;
+  stroke-opacity: 1;
+  stroke-dasharray: 1.6 3.1;
+}
+
+.riddle-bubble[data-state='spent'] .b-shine,
+.riddle-bubble[data-state='spent'] .b-under,
+.riddle-bubble[data-state='spent'] .b-glint {
+  opacity: 0;
+}
+
+/* a breath lost: the bubble swells, bursts into spray and is gone */
+.riddle-bubble[data-state='burst'] .b-ring {
+  animation: riddle-burst 640ms var(--ease-surface) forwards;
+}
+
+.riddle-bubble[data-state='burst'] .b-shine,
+.riddle-bubble[data-state='burst'] .b-under,
+.riddle-bubble[data-state='burst'] .b-glint {
+  opacity: 0;
+  transition: opacity 120ms linear;
+}
+
+.riddle-bubble[data-state='burst'] .b-spray {
+  animation: riddle-spray 640ms var(--ease-surface) forwards;
+}
+
+@keyframes riddle-burst {
+  0% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  30% {
+    transform: scale(1.28);
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1.7);
+    opacity: 0;
+    stroke-width: 0.4;
+  }
+}
+
+@keyframes riddle-spray {
+  0% {
+    opacity: 0;
+    transform: scale(0.55);
+  }
+  25% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.3);
+  }
+}
+
+.riddle-worth {
+  display: grid;
+  justify-items: end;
+  gap: 6px;
+  margin: 0 0 3px;
+}
+
+.riddle-worth__v {
+  font-family: var(--font-log);
+  font-size: var(--step-1);
+  line-height: 1;
+  letter-spacing: var(--tracking-log);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  color: var(--color-ink);
+}
+
+.riddle-worth__v.changed {
+  animation: riddle-worth 1100ms var(--ease-surface);
+}
+
+@keyframes riddle-worth {
+  from {
+    color: var(--color-refused);
+    filter: blur(1.5px);
+  }
+}
+
+/* ------------------------------------------------------------ the answer */
+
+.riddle-form {
+  margin-top: var(--space-3);
+  text-align: left;
+}
+
+.riddle-feedback {
+  min-height: 0;
+  text-align: center;
+  text-wrap: balance;
+}
+
+.riddle-feedback:empty {
+  display: none;
+}
+
+.riddle-feedback .said {
+  color: var(--color-ink);
+}
+
+.riddle-feedback__cost {
+  color: var(--color-ink-muted);
+}
+
+.riddle-tries {
+  justify-content: center;
+  margin-top: var(--space-2);
+}
+
+/* a near miss cost no breath: struck lightly */
+.riddle-tries li.near {
+  text-decoration-style: dotted;
+  text-decoration-color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ whispers */
+
+.riddle-whispers {
+  list-style: none;
+  display: grid;
+  gap: var(--space-2);
+  margin: var(--space-4) 0 0;
+  padding: 0;
+}
+
+.riddle-whispers:empty {
+  display: none;
+}
+
+.riddle-whisper {
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.riddle-whisper__label {
+  margin: 0;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-caps-wide);
+  line-height: 1.2;
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.riddle-whisper__text {
+  margin: var(--space-1) auto 0;
+  max-width: 30rem;
+  font-family: var(--font-text);
+  font-style: italic;
+  font-size: var(--step-0);
+  line-height: 1.42;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.riddle-whisper__text::before {
+  content: '\201C';
+}
+
+.riddle-whisper__text::after {
+  content: '\201D';
+}
+
+/* each whisper comes closer than the last */
+.riddle-whisper[data-n='2'] .riddle-whisper__label {
+  color: var(--color-glow);
+}
+
+.riddle-whisper[data-n='2'] .riddle-whisper__text {
+  color: var(--color-ink);
+}
+
+.riddle-whisper[data-n='3'] .riddle-whisper__label {
+  color: var(--color-accent);
+}
+
+.riddle-whisper[data-n='3'] .riddle-whisper__text {
+  color: var(--color-ink);
+  letter-spacing: 0.01em;
+  text-shadow: 0 0 16px var(--color-accent-soft);
+}
+
+.riddle-whisper.fresh .riddle-whisper__label {
+  animation: riddle-whisper-in 1200ms var(--ease-surface) both;
+}
+
+.riddle-whisper.fresh .riddle-whisper__text {
+  animation: riddle-whisper-in 1800ms var(--ease-surface) 150ms both;
+}
+
+@keyframes riddle-whisper-in {
+  from {
+    opacity: 0;
+    filter: blur(6px);
+    letter-spacing: 0.16em;
+  }
+  60% {
+    opacity: 0.9;
+  }
+}
+
+.riddle-listen-row {
+  display: flex;
+  justify-content: center;
+  margin-top: var(--space-3);
+}
+
+.btn.riddle-listen {
+  gap: var(--space-2);
+  padding-inline: var(--space-4);
+  border-color: var(--color-rule-soft);
+  color: var(--color-ink);
+}
+
+.btn.riddle-listen:hover {
+  border-color: var(--color-rule);
+  background: var(--color-glow-faint);
+}
+
+.riddle-listen__cost {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+  color: var(--color-refused);
+  white-space: nowrap;
+}
+
+.btn.riddle-listen.spent {
+  border-color: transparent;
+  color: var(--color-ink-muted);
+  font-family: var(--font-display);
+  font-style: italic;
+  letter-spacing: 0;
+  cursor: default;
+}
+
+.btn.riddle-listen.spent:hover {
+  background: none;
+}
+
+.riddle-quit {
+  display: grid;
+  justify-items: center;
+  margin-top: var(--space-1);
+}
+
+.btn.riddle-give-up {
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-caps-wide);
+  text-transform: lowercase;
+}
+
+.riddle-confirm {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+}
+
+.riddle-confirm p {
+  margin: 0;
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+.riddle-confirm__row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+}
+
+/* small enough to sit side by side on a phone, as the two halves of one choice */
+.riddle-confirm__row .btn {
+  padding-inline: var(--space-4);
+  font-size: var(--step--1);
+}
+
+.btn.riddle-sink {
+  border-color: var(--color-refused);
+  color: var(--color-refused);
+}
+
+/* ------------------------------------------------------------ the end */
+
+.riddle-end {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+}
+
+.riddle-medal {
+  display: grid;
+  place-items: center;
+  width: 64px;
+  height: 64px;
+  margin-bottom: var(--space-1);
+  border-radius: 50%;
+  border: 1px solid color-mix(in oklab, currentColor 65%, transparent);
+  outline: 1px solid color-mix(in oklab, currentColor 30%, transparent);
+  outline-offset: 4px;
+  color: var(--color-glow);
+  background: radial-gradient(circle, color-mix(in oklab, currentColor 16%, transparent), transparent 68%);
+  animation: cth-breathe var(--dur-breath) var(--ease-drift) infinite;
+}
+
+:root:not([data-zone='surface']) .riddle-medal {
+  box-shadow: 0 0 30px -6px color-mix(in oklab, currentColor 55%, transparent);
+}
+
+.riddle-medal__icon {
+  width: 32px;
+  height: 32px;
+}
+
+.riddle-end__title {
+  margin: 0;
+  font-family: var(--font-display-caps);
+  font-weight: 400;
+  font-size: clamp(1.9rem, 1.45rem + 2.4vw, 2.8rem);
+  line-height: 1.05;
+  letter-spacing: 0.08em;
+  color: var(--color-glow);
+  text-wrap: balance;
+}
+
+:root:not([data-zone='surface']) .riddle-end[data-end='solved'] .riddle-end__title {
+  text-shadow: 0 0 18px var(--color-glow-soft);
+}
+
+.riddle-end[data-end='sunk'] .riddle-end__title {
+  color: var(--color-ink);
+}
+
+.riddle-end__title:focus,
+.riddle-end__title:focus-visible {
+  outline: none;
+}
+
+.riddle-end__answer {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-2);
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.riddle-end__answer--gentle {
+  font-size: var(--step-1);
+  color: var(--color-ink);
+}
+
+.riddle-end__gain {
+  margin: 0;
+  font-family: var(--font-log);
+  font-size: var(--step-2);
+  line-height: 1.1;
+  letter-spacing: var(--tracking-log);
+  font-variant-numeric: tabular-nums;
+}
+
+.riddle-end[data-end='sunk'] .riddle-end__gain {
+  font-size: var(--step-1);
+  color: var(--color-ink-muted);
+}
+
+.riddle-end__note {
+  margin: 0;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-caps);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.riddle-end__also {
+  margin: 0;
+  max-width: 26rem;
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+.riddle-end__line {
+  margin: var(--space-2) 0 0;
+  max-width: 26rem;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-1);
+  line-height: 1.3;
+  text-wrap: balance;
+}
+
+.riddle-end.arriving > * {
+  animation: riddle-ink 1200ms var(--ease-surface) both;
+}
+
+.riddle-end.arriving > :nth-child(2) { animation-delay: 120ms; }
+.riddle-end.arriving > :nth-child(3) { animation-delay: 240ms; }
+.riddle-end.arriving > :nth-child(4) { animation-delay: 360ms; }
+.riddle-end.arriving > :nth-child(5) { animation-delay: 480ms; }
+.riddle-end.arriving > :nth-child(6) { animation-delay: 600ms; }
+.riddle-end.arriving > :nth-child(7) { animation-delay: 720ms; }
+
+/* ink dropped in water: blurred and spread, then drawing together */
+@keyframes riddle-ink {
+  from {
+    opacity: 0;
+    filter: blur(8px);
+    transform: translateY(8px);
+  }
+  60% {
+    opacity: 1;
+    filter: blur(0.6px);
+  }
+}
+
+.riddle-after {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-5);
+  margin-top: var(--space-2);
+}
+
+.riddle-after:empty {
+  display: none;
+}
+
+.riddle-after.arriving > * {
+  animation: riddle-surface 1500ms var(--ease-surface) 900ms both;
+}
+
+@keyframes riddle-surface {
+  from {
+    opacity: 0;
+    transform: translateY(26px);
+    filter: blur(5px);
+  }
+}
+
+.riddle-actions {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+  width: 100%;
+}
+
+.riddle-next {
+  margin: 0;
+  padding: 0 0.6em;
+  border-radius: 999px;
+  background: var(--reserve);
+  box-shadow: 0 0 10px 7px var(--reserve);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.riddle-actions .btn.ghost {
+  background: var(--reserve);
+}
+
+/* ------------------------------------------------------------ the Codex, in the Logbook
+   The newest page lies open; the older ones are a stack of folios to open. */
+
+/* the Logbook's sheet sets its own headings; a page of the Codex keeps the tome's */
+.sheet .cth-tome .cth-tome__title {
+  margin: 0 0 var(--space-4);
+  font: var(--step-2) / 1.15 var(--font-display);
+  letter-spacing: normal;
+  color: inherit;
+}
+
+.codex-intro {
+  margin: 0;
+}
+
+.codex-tally {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--space-1) var(--space-3);
+  margin: var(--space-3) 0 var(--space-5);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.codex-tally b {
+  font-weight: 400;
+  font-size: var(--step-1);
+  color: var(--color-ink);
+  font-variant-numeric: tabular-nums;
+}
+
+.codex-empty {
+  margin: 0;
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.codex-pages {
+  list-style: none;
+  display: grid;
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid var(--color-rule-soft);
+}
+
+.codex-leaf > summary {
+  list-style: none;
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-3);
+  min-height: 48px;
+  padding: var(--space-3) var(--space-1);
+  border-top: 1px solid var(--color-rule-soft);
+  cursor: pointer;
+  color: var(--color-ink-muted);
+  transition: color var(--dur-quick);
+}
+
+.codex-leaf > summary::-webkit-details-marker {
+  display: none;
+}
+
+.codex-leaf > summary:hover {
+  color: var(--color-ink);
+}
+
+.codex-leaf__folio {
+  flex: none;
+  min-width: 5.2em;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink);
+}
+
+.codex-leaf__title {
+  min-width: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  line-height: 1.25;
+}
+
+/* a small plus that turns to a minus, drawn in the rule colour */
+.codex-leaf > summary::after {
+  content: '';
+  flex: none;
+  align-self: center;
+  width: 11px;
+  height: 11px;
+  margin-left: auto;
+  background:
+    linear-gradient(currentColor, currentColor) center / 11px 1px no-repeat,
+    linear-gradient(currentColor, currentColor) center / 1px 11px no-repeat;
+  opacity: 0.8;
+}
+
+.codex-leaf[open] > summary::after {
+  background: linear-gradient(currentColor, currentColor) center / 11px 1px no-repeat;
+}
+
+.codex-leaf > .cth-tome {
+  margin: var(--space-1) auto var(--space-5);
+}
+
+/* ------------------------------------------------------------ short screens
+   The keyboard is up, or the phone lies on its side (html.short comes from the
+   visible height): the page keeps its verse and lets its head and foot go, so the
+   verse and the answer line stay together. */
+
+.short .riddle-screen {
+  gap: var(--space-2);
+  padding-top: 0;
+}
+
+.short .riddle-tome {
+  padding-block: var(--space-3);
+}
+
+.short .riddle-tome .cth-tome__head,
+.short .riddle-tome .cth-tome__rule,
+.short .riddle-tome .cth-tome__foot {
+  display: none;
+}
+
+.short .riddle-plate {
+  padding-block: var(--space-3);
+}
+
+.short .riddle-form {
+  margin-top: var(--space-2);
+}
+
+/* A long verse that would push the answer line off the screen (the screen measures
+   itself and adds the class): a tighter page, so the verse and the answer line share it. */
+.riddle-screen--tight {
+  gap: var(--space-2);
+}
+
+.riddle-screen--tight .riddle-tome {
+  padding-top: var(--space-4);
+  padding-bottom: var(--space-3);
+}
+
+/* the book's name and the folio can wait: the verse and the answer line cannot */
+.riddle-screen--tight .riddle-tome .cth-tome__head {
+  display: none;
+}
+
+.riddle-screen--tight .riddle-tome .cth-tome__verse {
+  line-height: 1.36;
+}
+
+.riddle-screen--tight .riddle-tome .cth-tome__rule {
+  margin: var(--space-3) 0 var(--space-2);
+}
+
+.riddle-screen--tight .riddle-plate {
+  padding-top: var(--space-3);
+}
+
+.riddle-screen--tight .riddle-form {
+  margin-top: var(--space-2);
+}
+
+/* a small phone: a little less water round everything */
+@media (max-width: 400px) {
+  .riddle-plate {
+    padding-inline: var(--space-4);
+  }
+}
+
+/* ------------------------------------------------------------ reduced motion */
+
+.reduced-motion .riddle-line {
+  opacity: 1;
+  filter: none;
+  animation: none !important;
+}
+
+.reduced-motion .riddle-play,
+.reduced-motion .riddle-bubble,
+.reduced-motion .riddle-bubble .b-ring,
+.reduced-motion .riddle-bubble .b-spray,
+.reduced-motion .riddle-whisper.fresh .riddle-whisper__label,
+.reduced-motion .riddle-whisper.fresh .riddle-whisper__text,
+.reduced-motion .riddle-worth__v.changed,
+.reduced-motion .riddle-end.arriving > *,
+.reduced-motion .riddle-after.arriving > *,
+.reduced-motion .riddle-turn > *,
+.reduced-motion .riddle-seal,
+.reduced-motion .riddle-medal {
+  animation: none !important;
+}
