@@ -27,21 +27,32 @@ export function shareUrl(): string {
 
 export function shareText(theme: ThemeCopy, rec: DayRecord): string {
   const depth = totalDepth(rec);
-  const landmark = landmarkFor(theme, depth)?.name ?? zoneFor(theme, depth).name;
+  const zone = zoneFor(theme, depth).name;
   const omen = omenById(rec.omen);
-  const fill = (s: string) =>
-    s
-      .replace(/\{day\}/g, rec.practice ? 'practice' : String(rec.day))
-      .replace(/\{depth\}/g, fmt(depth))
-      .replace(/\{emoji\}/g, emojiRow(theme, rec))
-      .replace(/\{landmark\}/g, landmark)
-      .replace(/\{zone\}/g, zoneFor(theme, depth).name)
-      .replace(/\{sanity\}/g, `${rec.sanity}%`)
-      .replace(/\{omen\}/g, omen.name)
-      .replace(/\{url\}/g, shareUrl());
-  let text = fill(theme.share.template);
-  if (omen.id !== 'still' && !theme.share.template.includes('{omen}')) text += `\nOmen: ${omen.name} ${omen.glyph}`;
   const url = shareUrl();
+  const values = new Map([
+    ['day', String(rec.day)],
+    ['depth', fmt(depth)],
+    ['emoji', emojiRow(theme, rec)],
+    ['landmark', landmarkFor(theme, depth)?.name ?? zone],
+    ['zone', zone],
+    ['sanity', `${rec.sanity}%`],
+    ['omen', omen.name],
+    ['url', url],
+  ]);
+  // One pass with a replacer: copy containing "$&" or "{zone}" goes in exactly as
+  // written. A practice dive has no number, so "#{day}" reads "practice dive".
+  const fill = (line: string) =>
+    line.replace(/(#?)\{(\w+)\}/g, (all, hash: string, key: string) =>
+      key === 'day' && rec.practice ? 'practice dive' : values.has(key) ? hash + values.get(key) : all,
+    );
+  // A line that only held an empty placeholder (no URL when not on the web) goes.
+  const lines = theme.share.template.split('\n').flatMap((t) => {
+    const f = fill(t);
+    return f.trim() || !t.trim() ? [f] : [];
+  });
+  let text = lines.join('\n');
+  if (omen.id !== 'still' && !theme.share.template.includes('{omen}')) text += `\nOmen: ${omen.name} ${omen.glyph}`;
   if (url && !text.includes(url)) text += `\n${url}`;
   return text;
 }

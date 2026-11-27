@@ -1,4 +1,4 @@
-import { mulberry32 } from './daily';
+import { mulberry32, seededShuffle } from './daily';
 
 // A daily omen: one small, fair twist that everyone diving that day shares.
 
@@ -74,17 +74,16 @@ export const OMENS: OmenDef[] = [
 const WHEEL = ['bell', 'still', 'stars', 'whisper', 'slack', 'still', 'blood'];
 
 export function omenForDay(day: number): OmenDef {
-  // Day 1 always opens with the bell; after that the wheel is shuffled per week.
-  if (day <= 1) return OMENS.find((o) => o.id === 'bell')!;
-  const week = Math.floor((day - 1) / 7);
-  const order = WHEEL.slice();
-  const rnd = mulberry32(0xd00d + week * 131);
-  for (let i = order.length - 1; i > 0; i--) {
-    const j = Math.floor(rnd() * (i + 1));
-    [order[i], order[j]] = [order[j], order[i]];
+  const n = Math.max(0, day - 1);
+  const week = Math.floor(n / 7);
+  const order = seededShuffle(WHEEL, 0xd00d + week * 131);
+  // Day 1 always opens with the bell. The bell's own slot that week takes the
+  // omen day 1 displaced, so the first week still holds each omen once.
+  if (week === 0) {
+    const b = order.indexOf('bell');
+    [order[0], order[b]] = [order[b], order[0]];
   }
-  const id = order[(day - 1) % 7];
-  return OMENS.find((o) => o.id === id) ?? OMENS[0];
+  return omenById(order[n % 7]);
 }
 
 export function omenById(id: string): OmenDef {
