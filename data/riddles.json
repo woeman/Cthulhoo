@@ -294,6 +294,58 @@
       }
     },
     {
+      "id": "anchor",
+      "verse": [
+        "I am thrown away to keep you near.",
+        "I dig my iron fingers into the mud",
+        "and hold the ship against the storm.",
+        "When I am raised, the journey starts."
+      ],
+      "answers": [
+        {
+          "answer": "Anchor",
+          "aliases": [
+            "Anchors",
+            "Ship's anchor",
+            "Kedge",
+            "Kedge anchor",
+            "Grapnel",
+            "Sea anchor"
+          ]
+        }
+      ],
+      "hints": [
+        "Sailors wear me in ink on their arms, for hope.",
+        "I hang from a chain at the bow, heavy and cold.",
+        "When a ship stops at sea, it drops me to the bottom so it will not drift."
+      ],
+      "traps": [
+        {
+          "answer": "Chain",
+          "aliases": [
+            "Anchor chain",
+            "Cable"
+          ],
+          "reason": "The chain only holds me. Name what it holds."
+        },
+        {
+          "answer": "Mooring",
+          "aliases": [
+            "Moorings"
+          ],
+          "reason": "A mooring stays put. I travel with the ship."
+        },
+        {
+          "answer": "Buoy",
+          "reason": "A buoy floats. I sink, on purpose."
+        }
+      ],
+      "page": {
+        "title": "Of the Iron That Holds",
+        "text": "An anchor holds a ship less by its weight than by its grip. Its flukes, the broad points of its arms, are shaped to bite into the seabed and dig deeper as the ship pulls. The chain helps too: its weight lies along the bottom and keeps the pull low and level. Sailors measure the chain let out against the depth and call it the scope, and in a storm they let out more. Early Christians, it is said, drew an anchor in place of a cross. It meant hope."
+      }
+    },
+    {
       "id": "echo",
       "verse": [
         "Shout into the cave and I will answer,",
@@ -389,7 +441,7 @@
       ],
       "page": {
         "title": "Of the Watcher Who Wanes",
-        "text": "A candle's flame does not burn solid wax. Heat melts the wax, the wick draws the liquid up, and the flame turns it to vapour, and it is the vapour that burns. Before clocks were common, candles marked in hours told the time through the night, and one is said to have measured out the working day of Alfred the Great. Tallow candles, made from animal fat, smoked and stank. Beeswax was for churches and the rich."
+        "text": "A candle's flame does not burn solid wax. Heat melts the wax, the wick draws the liquid up, and the flame turns it to vapour, and it is the vapour that burns. Before clocks were common, candles marked in hours told the time through the day and the night, and Alfred the Great is said to have divided his days by them. Tallow candles, made from animal fat, smoked and stank. Beeswax was for churches and the rich."
       }
     },
     {
@@ -942,7 +994,7 @@
       ],
       "page": {
         "title": "Of the Mesh That Feeds",
-        "text": "Fragments of a willow-bark net found at Antrea, on the old border of Finland and Russia, are more than ten thousand years old. A net is measured by its mesh, the size of its holes, and laws now set the smallest mesh allowed so that young fish can slip through and grow. A trawl is dragged behind a boat. A seine hangs in the water like a wall and is drawn closed around a shoal. Lost nets go on fishing for years with no one to haul them in. They are called ghost nets."
+        "text": "Fragments of a willow-bark net found at Antrea, in Karelia, once Finnish and now Russian, are more than ten thousand years old. A net is measured by its mesh, the size of its holes, and laws now set the smallest mesh allowed so that young fish can slip through and grow. A trawl is dragged behind a boat. A seine hangs in the water like a wall and is drawn closed around a shoal. Lost nets go on fishing for years with no one to haul them in. They are called ghost nets."
       }
     },
     {
@@ -1207,6 +1259,58 @@
       "page": {
         "title": "Of the Room With No Door",
         "text": "An egg's shell looks solid, but a hen's egg has thousands of tiny pores, so that the chick inside can breathe. Before it hatches, the chick grows a small sharp point on its beak, the egg tooth, to crack its way out, and it loses the tooth soon after. The largest egg laid by any living bird is the ostrich's, about fifteen centimetres long. The extinct elephant bird of Madagascar laid eggs that held as much as a hundred and fifty hen's eggs."
+      }
+    },
+    {
+      "id": "mirror",
+      "verse": [
+        "I give you your face, but backwards.",
+        "I have no thoughts but yours.",
+        "Break me and, they say, seven years",
+        "of bad luck will follow you home."
+      ],
+      "answers": [
+        {
+          "answer": "Mirror",
+          "aliases": [
+            "Mirrors",
+            "Looking glass",
+            "Looking-glass",
+            "Glass",
+            "Hand mirror"
+          ]
+        }
+      ],
+      "hints": [
+        "Vampires, in stories, have no face in me.",
+        "The queen in the fairy tale asked me who was fairest of them all.",
+        "You look into me to brush your hair and see yourself."
+      ],
+      "traps": [
+        {
+          "answer": "Reflection",
+          "aliases": [
+            "Your reflection"
+          ],
+          "reason": "That is what I give you. Name me."
+        },
+        {
+          "answer": "Window",
+          "reason": "Close. But you can see through a window."
+        },
+        {
+          "answer": "Water",
+          "aliases": [
+            "Lake",
+            "Pool",
+            "Puddle"
+          ],
+          "reason": "Still water can do my work. Name the thing made for it."
+        }
+      ],
+      "page": {
+        "title": "Of the Glass That Turns You Round",
+        "text": "The first mirrors were polished stone: mirrors of volcanic glass found at Çatalhöyük, in what is now Turkey, are about 8,000 years old. Glass mirrors backed with metal came much later, and Venice guarded the secret of the finest so closely that its glassmakers were forbidden to leave. A mirror does not really swap left and right. It swaps front and back, and the mind does the rest. In many homes mirrors were covered after a death, lest the soul of the dead be caught inside."
       }
     },
     {
@@ -2727,7 +2831,7 @@
       ],
       "page": {
         "title": "Of the Play in the Dark",
-        "text": "Most vivid dreams come in REM sleep, when the eyes flick beneath their lids and the body's muscles are held still, perhaps so that we do not act our dreams out. Adults spend about two hours a night dreaming, yet forget almost all of it within minutes of waking. Sleepers sometimes weave sounds from the room into their dreams. Mendeleev said the periodic table came to him in a dream. Many people have dreamed of falling, and woken with a jolt just before they landed."
+        "text": "Most vivid dreams come in REM sleep, when the eyes flick beneath their lids and the body's muscles are held still, perhaps so that we do not act our dreams out. Adults spend about two hours a night dreaming, yet forget almost all of it within minutes of waking. Sleepers sometimes weave sounds from the room into their dreams. Mendeleev is said to have seen the periodic table in a dream. Many people have dreamed of falling, and woken with a jolt just before they landed."
       }
     },
     {
@@ -2750,7 +2854,7 @@
         }
       ],
       "hints": [
-        "Aristotle wrote of divers breathing from a cauldron lowered upside down.",
+        "A book credited to Aristotle tells of divers breathing from a cauldron lowered upside down.",
         "Edmond Halley, of the comet, built one of me and sent down barrels of fresh air.",
         "I am a chamber lowered on a cable from a ship, with air trapped inside for divers."
       ],
