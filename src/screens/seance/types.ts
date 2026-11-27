@@ -46,6 +46,8 @@ export interface SeanceOpts {
   sign?: string;
   /** Open as the table (a shared screen): with a sign, it sits straight down. */
   table?: boolean;
+  /** Something of the app's for the end of the bar (its sound switch). */
+  barEnd?: HTMLElement;
   onExit(): void;
 }
 

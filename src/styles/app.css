@@ -672,6 +672,22 @@ a.btn {
   color: var(--color-ink-muted);
 }
 
+/* a note breaks only between its parts, never inside "1,000 m" */
+.mode-btn__note > span {
+  white-space: nowrap;
+}
+
+/* a wide screen: the two ways side by side, each note on one line */
+@media (min-width: 900px) and (min-height: 540px) {
+  .title-screen > .title-actions {
+    max-width: 46rem;
+  }
+
+  .title-modes {
+    width: min(100%, 46rem);
+  }
+}
+
 .mode-btn[data-state='solved'] .mode-btn__note {
   color: var(--color-glow);
 }
@@ -701,6 +717,15 @@ a.btn {
 .sound-toggle svg {
   width: 1.5em;
   height: 1.5em;
+}
+
+/* A returning diver's title carries the career as well: less air above the
+   crest on a phone, so the ways down (the descent, the riddle, the séance) stay
+   on the first screen. */
+@media (max-height: 940px) and (max-width: 639px) {
+  .title-screen.has-career {
+    padding-top: var(--space-1);
+  }
 }
 
 /* a small phone: the whole title fits without scrolling */

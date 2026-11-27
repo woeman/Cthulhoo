@@ -26,6 +26,9 @@ import { disputesText } from './game/disputes';
 import { logbookScreen, type Keepsake } from './screens/logbook';
 import { breathsLeft, codexPages, loadRiddleDeck, todaysRiddle, type RiddleDeck, type RiddleResult } from './game/riddles';
 import { codexBody, riddleScreen } from './screens/riddle';
+import { cultBody, loadPass, postDiveToCult, seanceScreen, type SeanceEnv } from './screens/seance';
+import { loadCult } from './screens/cult';
+import { hasRelay, loadSeat } from './party/online';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -60,6 +63,32 @@ const seal = (tier: number, cls = 'seal') => h('span', { class: cls, 'aria-hidde
 /** The kit's large rarity medallion: a breathing disc with the seal in it. */
 const medallion = (tier: number, size: number) =>
   h('figure', { class: 'cth-seal medallion', 'data-tier': tier ? String(tier) : 'refused', 'aria-hidden': 'true', style: `--size: ${size}px${tier ? '' : '; --tier-color: var(--color-refused)'}` }, h('div', { class: 'cth-seal__disc', html: sealSvg(tier || 'refused') }));
+
+/** Take a followed link's sign (?seance=, ?cult=) off the address, so a reload does not follow it again. */
+function dropParams(...names: string[]) {
+  try {
+    const url = new URL(location.href);
+    if (!names.some((n) => url.searchParams.has(n))) return;
+    for (const n of names) url.searchParams.delete(n);
+    history.replaceState(history.state, '', `${url.pathname}${url.search}${url.hash}`);
+  } catch {
+    /* a sandboxed page may not rewrite its own address */
+  }
+}
+
+/** A title way down (the riddle, the séance): its glyph, its name, and how it stands. */
+const modeButton = (iconName: Parameters<typeof icon>[0], name: string, note: string, state: string, onclick: () => void, disabled = false) =>
+  h(
+    'button',
+    { class: 'mode-btn', type: 'button', 'data-state': state, disabled, onclick },
+    h('span', { class: 'mode-btn__icon', 'aria-hidden': 'true', html: icon(iconName) }),
+    h(
+      'span',
+      { class: 'mode-btn__text' },
+      h('span', { class: 'mode-btn__name' }, name),
+      h('span', { class: 'mode-btn__note' }, ...note.split(' · ').flatMap((part, i) => [i ? ' · ' : null, h('span', {}, part)])),
+    ),
+  );
 
 type Sheet = { el: HTMLElement; close: (quiet?: boolean, restoreFocus?: boolean) => void };
 type SheetOpts = { onClose?: () => void; actions?: HTMLElement[]; focus?: HTMLElement | null };
@@ -312,9 +341,10 @@ export class App {
   // ======================================================= depth plumbing
 
   private onCamera(camDepth: number) {
-    const score = Math.max(0, camDepth - CAM_OFFSET);
+    // Whole metres: a camera that comes to rest at 239.6 paints 200 m, the Gloaming, not 199.6 m on the surface.
+    const score = Math.max(0, Math.round(camDepth - CAM_OFFSET));
     this.sound.setDepth(camDepth);
-    if (Math.round(score) !== Math.round(this.shown)) this.paintDepth(score);
+    if (score !== this.shown) this.paintDepth(score);
   }
 
   private paintDepth(score: number, force = false) {
@@ -355,7 +385,16 @@ export class App {
   // ================================================================ title
 
   start() {
+    const q = new URLSearchParams(location.search);
+    const sign = q.get('seance');
+    // A link to a séance, or a reload in the middle of one, goes straight back to the circle.
+    if (sign || (hasRelay() && loadSeat())) {
+      this.openSeance({ sign: sign ?? undefined, table: q.has('table') }, false);
+      return;
+    }
     this.showTitle();
+    const cult = q.get('cult');
+    if (cult) this.openCult(cult);
   }
 
   // ================================================================ career
@@ -466,7 +505,7 @@ export class App {
       actions.append(primary);
     }
     actions.append(
-      h('div', { class: 'title-modes' }, this.riddleEntry()),
+      h('div', { class: 'title-modes' }, this.riddleEntry(), this.seanceEntry()),
       h(
         'div',
         { class: 'row' },
@@ -477,7 +516,7 @@ export class App {
 
     const screen = h(
       'section',
-      { class: 'screen title-screen stagger', 'aria-labelledby': 'wordmark' },
+      { class: `screen title-screen stagger${strip ? ' has-career' : ''}`, 'aria-labelledby': 'wordmark' },
       h(
         'div',
         { class: 'crest' },
@@ -1069,6 +1108,8 @@ export class App {
     rec.finished = true;
     rec.active = null;
     saveDay(rec);
+    // The cult's board hears of it (if this browser belongs to one); it never holds the log up.
+    if (!rec.practice) void postDiveToCult({ playerId: playerId() }, rec.day, totalDepth(rec));
     this.openResults(rec);
   }
 
@@ -1400,12 +1441,7 @@ export class App {
             : status === 'gone'
               ? 'Today’s riddle has sunk from the Codex'
               : 'A riddle in verse · up to 1,000 m';
-    return h(
-      'button',
-      { class: 'mode-btn', type: 'button', 'data-state': status, disabled: status === 'gone', onclick: () => this.openRiddle() },
-      h('span', { class: 'mode-btn__icon', 'aria-hidden': 'true', html: icon('riddle') }),
-      h('span', { class: 'mode-btn__text' }, h('span', { class: 'mode-btn__name' }, 'The Whispering Deep'), h('span', { class: 'mode-btn__note' }, note)),
-    );
+    return modeButton('riddle', 'The Whispering Deep', note, status, () => this.openRiddle(), status === 'gone');
   }
 
   /** Today's riddle: a page of the Drowned Codex, read in the Gloaming. */
@@ -1471,6 +1507,111 @@ export class App {
     this.sheet('The Drowned Codex', codexBody(this.riddles, loadRiddles()));
   }
 
+  // ================================================================ the Séance
+
+  /** What the Séance and the Cult need from the app. */
+  private seanceEnv(): SeanceEnv {
+    const now = new Date();
+    const today = dayNumberFor(now);
+    // Today's own questions are never asked by candlelight, so a séance cannot spoil the dive.
+    const avoid = new Set([...(loadDays()[today]?.promptIds ?? []), ...promptsForDay(this.bank.prompts, today, this.bank.days, localDateKey(now))]);
+    const tier = (t: number) => Math.max(1, Math.min(6, Math.round(t) || 1)) as Tier;
+    return {
+      prompts: this.bank.prompts,
+      byId: this.bank.byId,
+      days: this.bank.days,
+      avoid: [...avoid],
+      theme: this.theme,
+      today,
+      reduced: this.reduced,
+      playerId: playerId(),
+      sound: {
+        click: () => this.sound.click(),
+        key: () => this.sound.key(),
+        refuse: () => this.sound.refuse(),
+        accept: (t) => this.sound.accept(tier(t)),
+        tick: (urgent) => this.sound.tick(urgent),
+        whisper: () => this.sound.whisper(0.4),
+        zone: () => this.sound.zone(),
+      },
+      announce: (m) => this.announce(m),
+      shout: (m) => this.shout(m),
+      buzz: (pattern) => {
+        if (this.settings.haptics) Sound.buzz(pattern);
+      },
+      // The water sinks with the deepest in the circle; the page takes the colour of where it is.
+      onDepth: (m) => void this.abyss.descendTo(this.seanceCam(m), this.reduced ? 0 : 2600),
+    };
+  }
+
+  /**
+   * Where the water sits for the depth the circle has reached. From the Gloaming
+   * down it is where the circle is. Shallower, it stays up where the light holds:
+   * the Gloaming's dark rises from below while the page is still paper, and the
+   * words set straight on the picture would sink into it.
+   */
+  private seanceCam(m: number): number {
+    if (m <= 0) return TITLE_DEPTH;
+    const dusk = Math.min(...this.theme.zones.map((z) => z.from).filter((f) => f > 0));
+    return m >= dusk ? cam(m) : CAM_OFFSET + (m / dusk) * 60;
+  }
+
+  /** The title's way into the Séance, saying how it stands. */
+  private seanceEntry(): HTMLElement {
+    const relay = hasRelay();
+    const seat = relay ? loadSeat() : null;
+    const pass = loadPass();
+    const lit = !!pass && pass.phase !== 'setup' && pass.phase !== 'ended';
+    const note = seat
+      ? `Your seat at ${seat.sign} is kept · sit back down`
+      : lit
+        ? 'A lantern is still lit · return to the circle'
+        : relay
+          ? 'A party for 2 to 12 · join with a sign like DAGON-7'
+          : 'A party round one phone · 2 to 8 friends';
+    return modeButton('seance', 'The Séance', note, seat || lit ? 'playing' : 'new', () => this.openSeance());
+  }
+
+  /** The Séance: friends answering the same questions by candlelight, across phones or round one. */
+  private openSeance(opts: { sign?: string; table?: boolean } = {}, tapped = true) {
+    if (tapped) {
+      void this.sound.start().then(() => this.sound.setMuted(this.settings.muted));
+      this.sound.click();
+    }
+    const soundBtn = h('button', { class: 'icon-btn sc-sound', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() });
+    const s = seanceScreen(this.seanceEnv(), {
+      ...opts,
+      barEnd: soundBtn,
+      onExit: () => {
+        dropParams('seance', 'table');
+        this.showTitle();
+      },
+    });
+    this.hud.el.hidden = true;
+    this.sounding.el.hidden = true;
+    this.setMadness(100);
+    this.closeEye();
+    this.show(s.el, 'down', { bare: true });
+    this.renderSoundIcon();
+    // Whatever screen comes next puts the candles out and closes the line.
+    this.loops.push(() => s.destroy());
+  }
+
+  /** The Cult's line in the Logbook. */
+  private cultNote(): string {
+    if (!hasRelay()) return 'Opens when the surface relay is set up';
+    const c = loadCult();
+    return c ? `Your cult · ${c.sign}` : 'Found one, or join with a sign like BRINE-42';
+  }
+
+  /** The Cult: how deep your friends dived this week, on the surface relay's board. */
+  private openCult(sign?: string) {
+    this.sound.click();
+    const rec = loadDays()[dayNumberFor(new Date())];
+    const env = this.seanceEnv();
+    this.sheet('The Cult', [cultBody(env, { sign, todayDepth: rec?.finished && !rec.practice ? totalDepth(rec) : undefined })], { onClose: () => dropParams('cult') });
+  }
+
   private openLogbook() {
     this.sound.click();
     const { days, career } = this.careerNow();
@@ -1485,6 +1626,7 @@ export class App {
         note: codex.found ? `${codex.found} of ${codex.found + codex.lost} pages found` : 'Answer a riddle to find its first page',
         onOpen: () => this.openCodex(),
       },
+      { icon: 'cult', label: 'The Cult', note: this.cultNote(), onOpen: () => this.openCult() },
     ];
     const screen = logbookScreen(
       {

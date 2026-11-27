@@ -106,10 +106,17 @@
     .sc-wait-line,
     .sc-config-read,
     .sc-calling-sign,
-    .sc-handoff-note
+    .sc-handoff-note,
+    .sc-unsaid-k,
+    .sc-unsaid-sub
   ) {
   background: var(--reserve);
   box-shadow: 0 0 10px 7px var(--reserve);
+}
+
+.seance-screen :is(.sc-unsaid-k, .sc-unsaid-sub) {
+  width: fit-content;
+  border-radius: 1.2em;
 }
 
 .seance-screen :is(.sc-bar-title, .sc-lede, .kicker, .sc-sign-say, .sc-hint, .sc-wait-line, .sc-config-read, .sc-calling-sign, .sc-handoff-note) {
@@ -131,6 +138,15 @@
   gap: var(--space-3);
   min-height: 48px;
   margin-bottom: var(--space-2);
+}
+
+/* with the app's sound switch at the end */
+.sc-bar.has-end {
+  grid-template-columns: auto minmax(0, 1fr) auto;
+}
+
+.sc-bar > .icon-btn {
+  justify-self: end;
 }
 
 .sc-back {
@@ -1928,7 +1944,8 @@
   padding: 3px 12px 3px 6px;
   border: 1px solid color-mix(in oklab, var(--tier-color) 45%, transparent);
   border-radius: var(--radius-round);
-  background: color-mix(in oklab, var(--tier-color) 8%, transparent);
+  /* a little reserve of its own, so the word reads on whatever water is behind it */
+  background: color-mix(in oklab, var(--tier-color) 8%, var(--reserve));
 }
 
 .sc-unsaid-list .a {

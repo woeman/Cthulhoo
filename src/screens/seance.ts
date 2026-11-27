@@ -134,7 +134,7 @@ class SeanceScreen {
     this.el = h(
       'section',
       { class: `screen seance-screen${this.reduced ? ' is-reduced' : ''}`, 'aria-label': 'The Séance' },
-      h('div', { class: 'sc-bar' }, this.backBtn, h('p', { class: 'sc-bar-title' }, h('span', { class: 't' }, 'The Séance'), this.barSign)),
+      h('div', { class: `sc-bar${opts.barEnd ? ' has-end' : ''}` }, this.backBtn, h('p', { class: 'sc-bar-title' }, h('span', { class: 't' }, 'The Séance'), this.barSign), opts.barEnd ?? null),
       this.confirmBox,
       this.lostEl,
       rail,
