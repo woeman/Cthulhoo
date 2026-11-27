@@ -3,7 +3,7 @@ import { dayNumberFor, localDateKey, msUntilNextDay, practicePrompts, promptsFor
 import { matchAnswer } from './game/matcher';
 import { omenById, omenForDay } from './game/omens';
 import { SANITY, clampSanity, depthFor, isBellQuestion, sanityAfterAnswer, timeLimitMs, totalDepth } from './game/scoring';
-import { shareDive } from './game/share';
+import { shareDive, shareText } from './game/share';
 import { computeStats } from './game/stats';
 import { loadDays, loadFlag, loadSettings, saveDay, saveFlag, saveSettings } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
@@ -12,6 +12,7 @@ import { Sound } from './audio/engine';
 import { Abyss } from './render/abyss';
 import { clear, fmtMetres, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
+import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
 // The camera always sits a little below the score depth, so the first question
@@ -775,8 +776,8 @@ export class App {
       this.sound.click();
       const out = await shareDive(this.theme, rec, img);
       if (out === 'copied') this.toast('Copied your descent. Paste it anywhere.');
-      else if (out === 'downloaded') this.toast('Card saved.');
-      else if (out === 'failed') this.toast('Could not share from this browser.');
+      else if (out === 'failed') this.openShareText(shareText(this.theme, rec));
+      else if (typeof out === 'object') this.openCard(out.card, rec);
     };
     shareBtn.addEventListener('click', () => void doShare(false));
     cardBtn.addEventListener('click', () => void doShare(true));
@@ -819,6 +820,36 @@ export class App {
   }
 
   // =============================================================== sheets
+
+  private openCard(blob: Blob, rec: DayRecord) {
+    const url = URL.createObjectURL(blob);
+    const total = totalDepth(rec);
+    const place = landmarkFor(this.theme, total)?.name ?? zoneFor(this.theme, total).name;
+    const body: HTMLElement[] = [
+      h('img', { class: 'card-preview', src: url, alt: `Sounding chart of the dive: ${fmtMetres(total)} metres, ${place}` }),
+      h('p', { class: 'flavor' }, 'Press and hold the card (or right-click it) to save or share it.'),
+    ];
+    if (!ARTIFACT) {
+      body.push(
+        h(
+          'div',
+          { class: 'title-actions' },
+          h('a', { class: 'btn primary', href: url, download: `cthulhoo-${rec.practice ? 'practice' : rec.day}.png`, html: `${ICONS.image}<span>Download the card</span>` }),
+        ),
+      );
+    }
+    this.sheet('Your sounding chart', body, () => URL.revokeObjectURL(url));
+  }
+
+  private openShareText(text: string) {
+    const area = h('textarea', { class: 'share-text', id: 'share-text', readonly: true, rows: 7, 'aria-label': 'Your descent, ready to copy' }) as HTMLTextAreaElement;
+    area.value = text;
+    this.sheet('Copy your descent', [h('p', {}, 'This browser would not copy it for you. The text is selected: copy it and paste it anywhere.'), area]);
+    setTimeout(() => {
+      area.focus();
+      area.select();
+    }, 60);
+  }
 
   private sheet(title: string, body: HTMLElement[], onClose?: () => void): HTMLElement {
     const close = () => {

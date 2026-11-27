@@ -252,8 +252,12 @@ export async function renderCard(theme: ThemeCopy, rec: DayRecord): Promise<Blob
   return new Promise((res) => c.toBlob((b) => res(b), 'image/png'));
 }
 
-export type ShareOutcome = 'shared' | 'copied' | 'downloaded' | 'failed' | 'cancelled';
+export type ShareOutcome = 'shared' | 'copied' | 'failed' | 'cancelled' | { card: Blob };
 
+/**
+ * Share through the phone's share sheet where there is one. Otherwise the text
+ * goes to the clipboard, and the card comes back so the game can show it.
+ */
 export async function shareDive(theme: ThemeCopy, rec: DayRecord, withImage: boolean): Promise<ShareOutcome> {
   const text = shareText(theme, rec);
   const blob = withImage ? await renderCard(theme, rec) : null;
@@ -271,16 +275,7 @@ export async function shareDive(theme: ThemeCopy, rec: DayRecord, withImage: boo
   } catch (e) {
     if ((e as Error)?.name === 'AbortError') return 'cancelled';
   }
-  if (file) {
-    const a = document.createElement('a');
-    a.href = URL.createObjectURL(file);
-    a.download = file.name;
-    document.body.append(a);
-    a.click();
-    a.remove();
-    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
-    return 'downloaded';
-  }
+  if (blob) return { card: blob };
   try {
     await navigator.clipboard.writeText(text);
     return 'copied';

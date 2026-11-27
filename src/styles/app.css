@@ -82,6 +82,7 @@ canvas.abyss {
 }
 
 .hud {
+  grid-row: 1;
   display: grid;
   grid-template-columns: 44px 1fr auto 44px;
   align-items: center;
@@ -148,6 +149,8 @@ canvas.abyss {
 }
 
 .stage {
+  /* explicit row, so a hidden HUD never lets the stage collapse into its row */
+  grid-row: 2;
   position: relative;
   overflow: hidden;
   min-height: 0;
@@ -1350,4 +1353,37 @@ canvas.abyss {
   animation-iteration-count: 1 !important;
   animation-delay: 0ms !important;
   transition-duration: 1ms !important;
+}
+
+/* ------------------------------------------------------------ share card sheet */
+
+.card-preview {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto var(--space-3);
+  border: var(--rule-hair) solid var(--color-rule);
+  box-shadow: 0 10px 40px rgb(0 0 0 / 0.35);
+  -webkit-touch-callout: default;
+  user-select: auto;
+}
+
+.share-text {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: var(--space-3);
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.5;
+  color: var(--color-ink);
+  background: var(--color-plate);
+  border: var(--rule-hair) solid var(--color-rule);
+  border-radius: var(--radius-hair);
+  resize: none;
+}
+
+a.btn {
+  text-decoration: none;
 }
