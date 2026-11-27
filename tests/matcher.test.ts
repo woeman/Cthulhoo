@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import bank from '../src/content/placeholder-bank.json';
-import { keyOf, matchAnswer, normalize, osaDistance, typoAllowance } from '../src/game/matcher';
+import { fold, foldKey, keyOf, keysOf, matchAnswer, normalize, osaDistance, typoAllowance } from '../src/game/matcher';
 import type { PromptDef } from '../src/game/types';
 
 const prompts = (bank as { prompts: PromptDef[] }).prompts;
@@ -146,5 +146,71 @@ describe('symbol spelling', () => {
     expect(keyOf('C++')).toBe('cplusplus');
     expect(keyOf('C#')).toBe('csharp');
     expect(keyOf('F#')).toBe('fsharp');
+  });
+});
+
+describe('folding', () => {
+  it('spells out St, Mt, Ft and Dr only before another word', () => {
+    expect(fold('st lucia')).toBe('saint lucia');
+    expect(fold('mt everest')).toBe('mount everest');
+    expect(fold('ft william')).toBe('fort william');
+    expect(fold('dr who')).toBe('doctor who');
+    expect(fold('ft')).toBe('ft');
+    expect(fold('mt')).toBe('mt');
+  });
+
+  it('reads regnal numbers every way, but never the first word', () => {
+    for (const s of ['henry viii', 'henry 8', 'henry 8th', 'henry the eighth', 'henry the 8th', 'henry the viii']) expect(foldKey(s)).toBe('henry8');
+    expect(foldKey('Louis the Twenty Third')).toBe('louis23');
+    expect(fold('xi jinping')).toBe('xi jinping');
+    expect(fold('mix')).toBe('mix');
+    expect(fold('malcolm x')).toBe('malcolm 10');
+  });
+
+  it('turns runs of number words into digits', () => {
+    expect(fold('nineteen eighty four')).toBe('19 84');
+    expect(foldKey('Nineteen Eighty-Four')).toBe(keyOf('1984'));
+    expect(fold('one hundred and one dalmatians')).toBe('101 dalmatians');
+    expect(fold('two thousand and six')).toBe('2006');
+    expect(fold('catch twenty two')).toBe('catch 22');
+    expect(fold('rock and roll')).toBe('rock and roll');
+  });
+
+  it('only ever adds a key, so the plain spelling still forgives typos', () => {
+    expect(keysOf('Seven Samurai')).toEqual(['sevensamurai', '7samurai']);
+    expect(keysOf('Saturn')).toEqual(['saturn']);
+    expect(keysOf('St Lucia', true)).toEqual(['stlucia']);
+    expect(keysOf('  ')).toEqual([]);
+  });
+
+  it('accepts folded spellings, and typos on spelled-out numbers', () => {
+    const p: PromptDef = {
+      id: 'f',
+      text: 'f',
+      category: 'history',
+      answers: [
+        { answer: 'Henry VIII', tier: 2 },
+        { answer: 'Saint Lucia', tier: 4 },
+        { answer: 'Nineteen Eighty-Four', aliases: ['1984'], tier: 3 },
+        { answer: 'Seven Samurai', tier: 5 },
+      ],
+    };
+    const got = (input: string) => {
+      const r = matchAnswer(p, input);
+      return r.kind === 'accept' ? r.answer.answer : r.kind;
+    };
+    expect(got('Henry the Eighth')).toBe('Henry VIII');
+    expect(got('henry 8th')).toBe('Henry VIII');
+    expect(got('St. Lucia')).toBe('Saint Lucia');
+    expect(got('nineteen eighty four')).toBe('Nineteen Eighty-Four');
+    expect(got('1984')).toBe('Nineteen Eighty-Four');
+    expect(got('7 Samurai')).toBe('Seven Samurai');
+    expect(got('Sevn Samurai')).toBe('Seven Samurai');
+  });
+
+  it('never folds word play', () => {
+    const p: PromptDef = { id: 'w', text: 'w', category: 'language', exact: true, answers: [{ answer: 'Seven', tier: 2 }] };
+    expect(matchAnswer(p, 'Seven').kind).toBe('accept');
+    expect(matchAnswer(p, '7').kind).toBe('reject');
   });
 });

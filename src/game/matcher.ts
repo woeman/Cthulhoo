@@ -4,7 +4,9 @@ import type { AnswerDef, PromptDef, TrapDef } from './types';
 // reference matcher (scripts/lib/matcher.mjs, described in docs/content.md),
 // which its validator replays every real-but-wrong name through. The bank is
 // only proven safe at exactly these rules, so keep them in step:
-// - The key is the normalised text with spaces removed.
+// - The key is the normalised text with spaces removed. Every spelling also gets a
+//   folded key ("St" = "Saint", "the Eighth" = "VIII" = "8", "nineteen eighty four"
+//   = "1984"), which only ever adds matches. Word play ("exact") never folds.
 // - Exact matches (and simple singular/plural variants) beat fuzzy ones;
 //   traps and decoys are part of the exact table too.
 // - Typo allowance comes from the shorter key: <=3 exact only, 4-7 one edit,
@@ -48,6 +50,151 @@ export function normalize(input: string): string {
 /** Comparison key: normalised with spaces removed ("New Zealand" == "Newzealand"). */
 export function keyOf(input: string): string {
   return normalize(input).replace(/ /g, '');
+}
+
+// ---------------------------------------------------------------- folding
+// Folding gives every spelling a second, more forgiving key, so that "St Lucia"
+// meets "Saint Lucia", "Henry 8" and "Henry the Eighth" meet "Henry VIII", and
+// "Nineteen Eighty-Four" meets "1984". The plain key is always kept too, so typo
+// tolerance on spelled-out numbers is never lost.
+
+const ABBREVIATIONS = new Map([
+  ['st', 'saint'],
+  ['mt', 'mount'],
+  ['ft', 'fort'],
+  ['dr', 'doctor'],
+]);
+const SMALL_NUMBERS = new Map(
+  Object.entries({
+    zero: 0, one: 1, two: 2, three: 3, four: 4, five: 5, six: 6, seven: 7, eight: 8, nine: 9,
+    ten: 10, eleven: 11, twelve: 12, thirteen: 13, fourteen: 14, fifteen: 15, sixteen: 16,
+    seventeen: 17, eighteen: 18, nineteen: 19,
+  }),
+);
+const TENS = new Map(Object.entries({ twenty: 20, thirty: 30, forty: 40, fourty: 40, fifty: 50, sixty: 60, seventy: 70, eighty: 80, ninety: 90 }));
+const SCALES = new Map(Object.entries({ hundred: 100, thousand: 1000, million: 1000000 }));
+const ORDINALS = new Map(
+  Object.entries({
+    first: 1, second: 2, third: 3, fourth: 4, fifth: 5, sixth: 6, seventh: 7, eighth: 8, ninth: 9,
+    tenth: 10, eleventh: 11, twelfth: 12, thirteenth: 13, fourteenth: 14, fifteenth: 15, sixteenth: 16,
+    seventeenth: 17, eighteenth: 18, nineteenth: 19, twentieth: 20, thirtieth: 30,
+  }),
+);
+const ROMAN = new Map<string, number>();
+for (let n = 1; n <= 39; n++) {
+  const ones = ['', 'i', 'ii', 'iii', 'iv', 'v', 'vi', 'vii', 'viii', 'ix'][n % 10];
+  ROMAN.set('x'.repeat(Math.floor(n / 10)) + ones, n);
+}
+
+/** The number a regnal ordinal names, as [value, words used]: "eighth", "twenty third", "8" or "viii". */
+function ordinalAt(words: string[], i: number): [number, number] | null {
+  const w = words[i];
+  if (w === undefined) return null;
+  const ord = ORDINALS.get(w);
+  if (ord !== undefined) return [ord, 1];
+  const tens = TENS.get(w);
+  const unit = ORDINALS.get(words[i + 1] ?? '');
+  if (tens !== undefined && unit !== undefined && unit < 10) return [tens + unit, 2];
+  if (/^\d+$/.test(w)) return [Number(w), 1];
+  const roman = ROMAN.get(w);
+  if (roman !== undefined) return [roman, 1];
+  return null;
+}
+
+const isNumberWord = (w: string) => SMALL_NUMBERS.has(w) || TENS.has(w) || SCALES.has(w);
+
+/** Runs of number words as digits: "nineteen eighty four" is "19 84", "one hundred and one" is "101". */
+function foldNumberWords(words: string[]): string[] {
+  const out: string[] = [];
+  let i = 0;
+  while (i < words.length) {
+    if (!isNumberWord(words[i])) {
+      out.push(words[i++]);
+      continue;
+    }
+    let total = 0;
+    let current = 0;
+    let last: 'small' | 'tens' | 'scale' | null = null;
+    const emit = () => {
+      out.push(String(total + current));
+      total = 0;
+      current = 0;
+      last = null;
+    };
+    while (i < words.length) {
+      const w = words[i];
+      const next = words[i + 1] ?? '';
+      if (w === 'and' && last === 'scale' && (SMALL_NUMBERS.has(next) || TENS.has(next))) {
+        i++;
+        continue;
+      }
+      const small = SMALL_NUMBERS.get(w);
+      const tens = TENS.get(w);
+      const scale = SCALES.get(w);
+      if (small !== undefined) {
+        if (last === 'small' || (last === 'tens' && small >= 10)) emit();
+        current += small;
+        last = 'small';
+      } else if (tens !== undefined) {
+        if (last === 'small' || last === 'tens') emit();
+        current += tens;
+        last = 'tens';
+      } else if (scale !== undefined) {
+        if (scale === 100) current = (current || 1) * 100;
+        else {
+          total += (current || 1) * scale;
+          current = 0;
+        }
+        last = 'scale';
+      } else break;
+      i++;
+    }
+    emit();
+  }
+  return out;
+}
+
+/**
+ * The folded form of an already normalised string: "st", "mt", "ft" and "dr" before
+ * another word become saint, mount, fort and doctor; "8th" becomes "8"; after the
+ * first word, "the eighth", "the 8" and "the viii" become "8" and a Roman numeral
+ * from i to xxxix becomes its number; runs of number words become digits.
+ */
+export function fold(normalized: string): string {
+  const split = normalized.split(' ').filter(Boolean);
+  const words = split.map((w, i) => {
+    const long = ABBREVIATIONS.get(w);
+    if (long && i + 1 < split.length) return long;
+    return w.replace(/^(\d+)(?:st|nd|rd|th)$/, '$1');
+  });
+  const out: string[] = [];
+  for (let i = 0; i < words.length; i++) {
+    const w = words[i];
+    if (out.length > 0 && w === 'the') {
+      const ord = ordinalAt(words, i + 1);
+      if (ord) {
+        out.push(String(ord[0]));
+        i += ord[1];
+        continue;
+      }
+    }
+    const roman = out.length > 0 ? ROMAN.get(w) : undefined;
+    out.push(roman !== undefined ? String(roman) : w);
+  }
+  return foldNumberWords(out).join(' ');
+}
+
+/** The folded comparison key. */
+export function foldKey(input: string): string {
+  return fold(normalize(input)).replace(/ /g, '');
+}
+
+/** The keys a spelling is known by: its plain key, then its folded key if that differs. */
+export function keysOf(input: string, exact = false): string[] {
+  const plain = keyOf(input);
+  if (!plain || exact) return plain ? [plain] : [];
+  const folded = foldKey(input);
+  return folded && folded !== plain ? [plain, folded] : [plain];
 }
 
 export function typoAllowance(len: number): number {
@@ -102,12 +249,16 @@ function objectsOf<T extends { answer: string }>(value: unknown): T[] {
 function compile(p: PromptDef): Compiled {
   let c = cache.get(p);
   if (c) return c;
+  const exactMode = p.exact === true;
   const entries: Entry[] = [];
-  for (const a of objectsOf<AnswerDef>(p.answers)) for (const f of [a.answer, ...listOf(a.aliases)]) entries.push({ key: keyOf(f), kind: 'answer', ref: a });
-  for (const t of objectsOf<TrapDef>(p.traps)) for (const f of [t.answer, ...listOf(t.aliases)]) entries.push({ key: keyOf(f), kind: 'trap', ref: t });
-  for (const d of listOf(p.decoys)) entries.push({ key: keyOf(d), kind: 'decoy', ref: d });
+  // One entry per key per spelling, the plain key before the folded one.
+  for (const a of objectsOf<AnswerDef>(p.answers))
+    for (const f of [a.answer, ...listOf(a.aliases)]) for (const key of keysOf(f, exactMode)) entries.push({ key, kind: 'answer', ref: a });
+  for (const t of objectsOf<TrapDef>(p.traps))
+    for (const f of [t.answer, ...listOf(t.aliases)]) for (const key of keysOf(f, exactMode)) entries.push({ key, kind: 'trap', ref: t });
+  for (const d of listOf(p.decoys)) for (const key of keysOf(d, exactMode)) entries.push({ key, kind: 'decoy', ref: d });
   const exact = new Map<string, Entry>();
-  for (const e of entries) if (e.key && !exact.has(e.key)) exact.set(e.key, e);
+  for (const e of entries) if (!exact.has(e.key)) exact.set(e.key, e);
   c = { entries, exact };
   cache.set(p, c);
   return c;
@@ -130,31 +281,40 @@ function verdict(e: Entry, fuzzy: boolean): MatchResult {
 }
 
 export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
-  const key = keyOf(input);
+  const plain = keyOf(input);
   // Text that folds to nothing (another alphabet, only symbols) is a refusal, not a blank.
-  if (!key) return String(input ?? '').trim() ? { kind: 'reject' } : { kind: 'empty' };
+  if (!plain) return String(input ?? '').trim() ? { kind: 'reject' } : { kind: 'empty' };
   const c = compile(prompt);
 
   // Word play ("exact": true), where the spelling is the answer: only the exact key
-  // counts, with no plural forms and no forgiven typos. Traps still match exactly.
+  // counts, with no folding, no plural forms and no forgiven typos. Traps still match exactly.
   if (prompt.exact === true) {
-    const hit = c.exact.get(key);
+    const hit = c.exact.get(plain);
     return hit ? verdict(hit, false) : { kind: 'reject' };
   }
+  const keys = keysOf(input);
 
-  for (const v of keyVariants(key)) {
-    const hit = c.exact.get(v);
-    if (hit) return verdict(hit, false);
+  // 1. An exact match on the plain key, then on the folded key, each with its plural forms.
+  for (const key of keys) {
+    for (const v of keyVariants(key)) {
+      const hit = c.exact.get(v);
+      if (hit) return verdict(hit, false);
+    }
   }
 
-  if (key.length < 4) return { kind: 'reject' };
+  // 2. Forgiven typos. A spelling's distance is the smallest between any of the input's
+  //    keys and that entry's key, each within its own allowance.
   let best = Infinity;
   let hits: Entry[] = [];
   for (const e of c.entries) {
-    const limit = typoAllowance(Math.min(key.length, e.key.length));
-    if (limit === 0) continue;
-    const d = osaDistance(key, e.key, limit);
-    if (d > limit) continue;
+    let d = Infinity;
+    for (const key of keys) {
+      const limit = typoAllowance(Math.min(key.length, e.key.length));
+      if (limit === 0) continue;
+      const dk = osaDistance(key, e.key, limit);
+      if (dk <= limit && dk < d) d = dk;
+    }
+    if (d === Infinity) continue;
     if (d < best) {
       best = d;
       hits = [e];
