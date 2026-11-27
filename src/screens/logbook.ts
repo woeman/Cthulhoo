@@ -13,7 +13,7 @@ import type { MilestoneDef, ThemeCopy } from '../game/types';
 import { zoneFor } from '../game/theme';
 import { paletteAt, zoneForDepth } from '../../art/js/depth.js';
 import { fmtMetres, h } from '../ui/dom';
-import { icon, madden, madnessForDepth, markSvg, sealSvg } from '../ui/art';
+import { icon, madden, madnessForDepth, markSvg, sealSvg, type IconName } from '../ui/art';
 import { FLOOR, careerChart, driftCount } from '../ui/career-chart';
 
 export interface LogbookData {
@@ -24,6 +24,16 @@ export interface LogbookData {
   stats: Stats;
   today: number;
   reduced: boolean;
+  /** What else the deep has given: the Sightings, the Drowned Codex, the Cult. */
+  keepsakes?: Keepsake[];
+}
+
+export interface Keepsake {
+  icon: IconName;
+  label: string;
+  /** One short line: "7 of 24 creatures". */
+  note: string;
+  onOpen: () => void;
 }
 
 export interface LogbookActions {
@@ -248,8 +258,28 @@ export function logbookScreen(data: LogbookData, actions: LogbookActions): HTMLE
     h('p', { class: 'lb-foot__note' }, 'Your logbook is kept only in this browser.'),
   );
 
+  const keepsakes = data.keepsakes?.length
+    ? h(
+        'section',
+        { class: 'lb-block lb-keepsakes', 'aria-labelledby': id('keepsakes') },
+        sechead(id('keepsakes'), 'Keepsakes', ''),
+        h(
+          'div',
+          { class: 'lb-keepsakes__row' },
+          ...data.keepsakes.map((k) =>
+            h(
+              'button',
+              { class: 'btn lb-keepsake', type: 'button', onclick: () => k.onOpen() },
+              h('span', { class: 'lb-keepsake__icon', 'aria-hidden': 'true', html: icon(k.icon) }),
+              h('span', { class: 'lb-keepsake__label' }, k.label),
+              h('span', { class: 'lb-keepsake__note' }, k.note),
+            ),
+          ),
+        ),
+      )
+    : null;
   const head = h('div', { class: 'lb-head' }, cartouche, sigilBlock, keep);
-  const tail = h('div', { class: 'lb-tail' }, soundings, foot);
+  const tail = h('div', { class: 'lb-tail' }, soundings, keepsakes, foot);
   section.append(bar, h('div', { class: 'lb-page' }, head, survey, tail));
 
   // The chart's pane on a wide screen is as tall as the screen itself.

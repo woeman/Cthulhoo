@@ -140,6 +140,11 @@ canvas.abyss {
   opacity: 0;
 }
 
+/* A screen with its own bar (the Logbook) takes the HUD's row as well. */
+.app.bare .hud {
+  display: none;
+}
+
 .hud-title {
   white-space: nowrap;
   overflow: hidden;

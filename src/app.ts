@@ -22,6 +22,7 @@ import { disputeBlock } from './ui/disputes';
 import { bestiaryBody, sightingCard } from './ui/bestiary';
 import { SIGHTING_TIER, sightingAlong, type Sighting } from './game/bestiary';
 import { disputesText } from './game/disputes';
+import { logbookScreen, type Keepsake } from './screens/logbook';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -116,7 +117,8 @@ export class App {
 
   private buildShell() {
     const soundBtn = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() }) as HTMLButtonElement;
-    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Logbook and settings', title: 'Logbook and settings', onclick: () => this.openLogbook(), html: icon('info') });
+    // Settings in a sheet: opening it never leaves the dive, and the clock keeps running.
+    const menu = h('button', { class: 'icon-btn', type: 'button', 'aria-label': 'Settings', title: 'Settings', onclick: () => this.openSettings(), html: icon('settings') });
     const title = h('div', { class: 'hud-title' });
     const num = h('span', { class: 'num' }, '0');
     const zone = h('span', { class: 'zone' });
@@ -271,8 +273,10 @@ export class App {
    * One orchestrated change of screen: the old words drift away (up as you
    * sink, down as you rise) while the new ones surface, instead of a hard swap.
    */
-  private show(screen: HTMLElement, dir: 'down' | 'up' = 'down') {
+  private show(screen: HTMLElement, dir: 'down' | 'up' = 'down', opts: { bare?: boolean } = {}) {
     this.token++;
+    // A screen with its own bar (the Logbook, the Séance) takes the HUD's row too.
+    this.appEl.classList.toggle('bare', !!opts.bare);
     this.stopLoops();
     calmAll();
     this.onViewport = null;
@@ -1369,26 +1373,44 @@ export class App {
     ];
   }
 
+  /** The Logbook: the whole career on its own screen, with the chart down to the floor. */
   private openLogbook() {
     this.sound.click();
-    const stats = computeStats(loadDays(), this.today);
-    const { career } = this.careerNow();
-    const rank = cultRankFor(this.theme, career.streak);
-    const most = Math.max(1, ...stats.tierCounts.slice(1));
-    const bars = h('div', { class: 'tier-bars' });
-    for (const t of this.theme.tiers) {
-      const n = stats.tierCounts[t.tier] ?? 0;
-      bars.append(
-        h(
-          'div',
-          { class: 'bar', style: `--tier-color: var(--color-tier-${t.tier})` },
-          h('span', { class: 'bar-name' }, seal(t.tier), t.name),
-          h('span', { class: 'track', 'aria-hidden': 'true' }, h('span', { class: 'fill', style: `width:${(n / most) * 100}%` })),
-          h('span', { class: 'log' }, String(n)),
-        ),
-      );
-    }
-    const vol = h('input', { type: 'range', min: 0, max: 1, step: 0.05, value: this.settings.volume }) as HTMLInputElement;
+    const { days, career } = this.careerNow();
+    const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
+    const seen = Object.keys(loadSightings()).filter((id) => this.theme.bestiary.some((c) => c.id === id)).length;
+    const keepsakes: Keepsake[] = [
+      { icon: 'hint', label: 'Sightings', note: `${seen} of ${this.theme.bestiary.length} creatures`, onOpen: () => this.openSightings() },
+    ];
+    const screen = logbookScreen(
+      {
+        theme: this.theme,
+        career,
+        persona: personaFor(career, sigils, days, this.theme, playerId(), this.today),
+        sigils,
+        stats: computeStats(days, this.today),
+        today: this.today,
+        reduced: this.reduced,
+        keepsakes,
+      },
+      {
+        onBack: () => {
+          this.sound.click();
+          this.showTitle();
+        },
+        onSettings: () => this.openSettings(),
+      },
+    );
+    this.hud.el.hidden = true;
+    this.sounding.el.hidden = true;
+    this.closeEye();
+    this.show(screen, 'down', { bare: true });
+  }
+
+  /** Sound, motion and vibration, and the answers you have disputed. */
+  private openSettings() {
+    this.sound.click();
+    const vol = h('input', { type: 'range', min: 0, max: 1, step: 0.05, value: this.settings.volume, 'aria-label': 'Volume' }) as HTMLInputElement;
     vol.addEventListener('input', () => {
       this.settings.volume = Number(vol.value);
       this.sound.setVolume(this.settings.volume);
@@ -1412,31 +1434,13 @@ export class App {
     sound.addEventListener('change', () => this.toggleSound());
     // Only phones that can vibrate are offered vibration.
     const canBuzz = typeof navigator.vibrate === 'function';
-    this.sheet('Logbook', [
-      h(
-        'div',
-        { class: 'stats-grid' },
-        h('div', {}, h('span', { class: 'v' }, String(stats.played)), h('span', { class: 'k' }, 'dives')),
-        h('div', {}, h('span', { class: 'v' }, `${fmtMetres(stats.deepest)} m`), h('span', { class: 'k' }, 'deepest')),
-        h('div', {}, h('span', { class: 'v' }, `${fmtMetres(stats.average)} m`), h('span', { class: 'k' }, 'average')),
-        h('div', {}, h('span', { class: 'v' }, String(stats.unspeakables)), h('span', { class: 'k' }, 'unspeakables')),
-        h('div', {}, h('span', { class: 'v' }, String(career.streak)), h('span', { class: 'k' }, 'lantern')),
-        h('div', {}, h('span', { class: 'v' }, String(career.bestStreak)), h('span', { class: 'k' }, 'best lantern')),
-      ),
-      h('h3', {}, `Career depth: ${fmtMetres(career.depth)} m`),
-      h('h3', {}, `Rank: ${rank.name}`),
-      h('p', { class: 'flavor' }, 'Dive on consecutive days to rise through the cult.'),
-      h('h3', {}, 'Answers by rarity'),
-      bars,
-      h('h3', {}, 'Sightings'),
-      h('button', { class: 'btn', type: 'button', onclick: () => this.openSightings() }, `Open the bestiary · ${Object.keys(loadSightings()).length} of ${this.theme.bestiary.length}`),
-      ...this.disputesSection(),
-      h('h3', {}, 'Settings'),
+    this.sheet('Settings', [
       h('label', { class: 'setting' }, h('span', {}, 'Sound'), sound),
       h('label', { class: 'setting' }, h('span', {}, 'Volume'), vol),
       h('label', { class: 'setting' }, h('span', {}, 'Reduce motion'), motion),
       canBuzz ? h('label', { class: 'setting' }, h('span', {}, 'Vibration'), haptics) : null,
       h('p', { class: 'flavor' }, 'No sound on an iPhone? Check the silent switch. Everything you play is kept only in this browser.'),
+      ...this.disputesSection(),
     ]);
   }
 }
