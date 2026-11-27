@@ -51,9 +51,20 @@ jobs:
         run: |
           api=https://api.cloudflare.com/client/v4
           auth="Authorization: Bearer $CLOUDFLARE_API_TOKEN"
-          active() { curl -fsS -H "$auth" "$1" 2> /dev/null | jq -e '.result.status == "active"' > /dev/null; }
+          # The shape of the secrets, never their values: most mistakes show here.
+          tok="$CLOUDFLARE_API_TOKEN"
+          echo "The token secret is ${#tok} characters (an API token is 40; a Global API Key is 37)."
+          [[ "$tok" =~ [[:space:]] ]] && echo "::warning::The CLOUDFLARE_API_TOKEN secret has a space or line break in it."
+          [[ "$tok" == Bearer* ]] && echo "::warning::The CLOUDFLARE_API_TOKEN secret starts with the word Bearer, which should be left out."
+          acct="$CLOUDFLARE_ACCOUNT_ID"
+          [[ "$acct" =~ ^[0-9a-f]{32}$ ]] || echo "::warning::The CLOUDFLARE_ACCOUNT_ID secret is not 32 letters and digits (0-9, a-f), as an account ID is (it is ${#acct} characters)."
+          check() {
+            code=$(curl -sS -o /tmp/cf.json -w '%{http_code}' -H "$auth" "$1" || echo 000)
+            echo "$2: HTTP $code $(jq -c '[.errors[]?.message, .messages[]?.message]' /tmp/cf.json 2> /dev/null)"
+            jq -e '.result.status == "active"' /tmp/cf.json > /dev/null 2>&1
+          }
           # A token made on the profile page is the user's; one made under the account is the account's.
-          if ! active "$api/user/tokens/verify" && ! active "$api/accounts/$CLOUDFLARE_ACCOUNT_ID/tokens/verify"; then
+          if ! check "$api/user/tokens/verify" "As a user token" && ! check "$api/accounts/$acct/tokens/verify" "As an account token"; then
             echo "::error::Cloudflare does not accept the CLOUDFLARE_API_TOKEN secret. Make a new token from the \"Edit Cloudflare Workers\" template at https://dash.cloudflare.com/profile/api-tokens and paste it into the secret again."
             exit 1
           fi
