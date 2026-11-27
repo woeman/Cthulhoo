@@ -57,7 +57,8 @@
         { "answer": "Doctor Zhivago", "tier": 2 },
         { "answer": "C", "tier": 1 },
         { "answer": "C++", "tier": 2 },
-        { "answer": "C#", "tier": 2 }
+        { "answer": "C#", "tier": 2 },
+        { "answer": "If I Fell", "tier": 3 }
       ]
     },
     "people": {
@@ -182,6 +183,18 @@
     { "prompt": "palindromes", "input": "Dr Awkward", "expect": "accepted", "answer": "Dr. Awkward" },
     { "prompt": "palindromes", "input": "A man, a plan, a canal, Panama!", "expect": "accepted", "answer": "A man, a plan, a canal: Panama" },
     { "prompt": "palindromes", "input": "Palindrome", "expect": "trap", "trap": "Palindrome" },
-    { "prompt": "palindromes", "input": "Palindrom", "expect": "unknown", "note": "not even traps are typo-matched on exact prompts" }
+    { "prompt": "palindromes", "input": "Palindrom", "expect": "unknown", "note": "not even traps are typo-matched on exact prompts" },
+    { "prompt": "monarchs", "input": "Elizabeth III", "expect": "unknown", "note": "a typo never changes a number" },
+    { "prompt": "monarchs", "input": "George VI", "expect": "unknown", "note": "one letter from George V, but a different number" },
+    { "prompt": "monarchs", "input": "Louis XV", "expect": "unknown" },
+    { "prompt": "monarchs", "input": "Richard II", "expect": "unknown", "note": "one letter from Richard I, but a different number" },
+    { "prompt": "monarchs", "input": "Elizabth II", "expect": "accepted", "answer": "Elizabeth II", "note": "a typo in the name is still forgiven" },
+    { "prompt": "monarchs", "input": "Hnery the Eighth", "expect": "accepted", "answer": "Henry VIII" },
+    { "prompt": "titles", "input": "Apollo 12", "expect": "unknown", "note": "digits must match exactly" },
+    { "prompt": "titles", "input": "Apolo 13", "expect": "accepted", "answer": "Apollo 13" },
+    { "prompt": "titles", "input": "Fahrenheit 415", "expect": "unknown" },
+    { "prompt": "titles", "input": "Ninteen Eighty-Four", "expect": "accepted", "answer": "Nineteen Eighty-Four", "note": "a typo in a spelled-out number is still forgiven" },
+    { "prompt": "titles", "input": "Oceans Elevn", "expect": "accepted", "answer": "Ocean's Eleven" },
+    { "prompt": "titles", "input": "If Fell", "expect": "accepted", "answer": "If I Fell", "note": "a lone I in a title is the word I, so dropping it is just a typo" }
   ]
 }

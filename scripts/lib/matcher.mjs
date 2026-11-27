@@ -197,6 +197,28 @@ export function keysOf(input, exact = false) {
   return folded && folded !== plain ? [plain, folded] : [plain];
 }
 
+/** True when folding reads a Roman numeral of two or more letters, or a lone
+ * v or x: a word after the first, as in "Henry VIII". A lone "i" is left out,
+ * because it is far more often the word I, as in "If I Fell", and a typo there
+ * is just a typo. */
+function readsRomanNumeral(normalized) {
+  return normalized.split(" ").some((w, i) => i > 0 && w !== "i" && ROMAN.has(w));
+}
+
+/** The keys a spelling is typo-matched by. A Roman numeral is one wrong letter
+ * away from another number ("Elizabeth III" and "Elizabeth II"), so a spelling
+ * that has one is typo-matched by its folded key alone, where the number is in
+ * digits, and digits never change (see matchAnswer). */
+export function typoKeysOf(input) {
+  const keys = keysOf(input);
+  return keys.length > 1 && readsRomanNumeral(normalize(input)) ? keys.slice(1) : keys;
+}
+
+/** The digits in a key, in order. */
+function digitsOf(key) {
+  return key.replace(/[^0-9]/g, "");
+}
+
 /** How many typos to forgive, based on the shorter of the two keys. */
 export function allowedEdits(length) {
   if (length <= 3) return 0;
@@ -252,7 +274,10 @@ export function compilePrompt(prompt) {
   const exactMode = prompt?.exact === true;
   const entries = [];
   const add = (form, kind, ref) => {
-    for (const key of keysOf(form, exactMode)) entries.push({ key, form, kind, ref });
+    const typoKeys = exactMode ? [] : typoKeysOf(form);
+    for (const key of keysOf(form, exactMode)) {
+      entries.push({ key, form, kind, ref, typo: typoKeys.includes(key), digits: digitsOf(key) });
+    }
   };
   for (const answer of objectsOf(prompt.answers)) {
     for (const form of [answer.answer, ...listOf(answer.aliases)]) add(form, "answer", answer);
@@ -329,12 +354,18 @@ export function matchAnswer(compiled, input) {
   // 2. Typo-tolerant match. A spelling's distance is the smallest between any
   //    of the input's keys and that entry's key. Traps and decoys compete on
   //    equal terms, so a real-but-wrong answer can never be "corrected" into
-  //    a valid one.
+  //    a valid one. A typo never changes a number: the two keys must hold the
+  //    same digits in the same order, so "Apollo 12" is not a slip for
+  //    "Apollo 11", and with Roman numerals typo-matched only as digits,
+  //    "Elizabeth III" is not a slip for "Elizabeth II".
+  const typoKeys = typoKeysOf(input);
   let best = Infinity;
   let hits = [];
   for (const entry of compiled.entries) {
+    if (!entry.typo) continue;
     let d = Infinity;
-    for (const key of keys) {
+    for (const key of typoKeys) {
+      if (digitsOf(key) !== entry.digits) continue;
       const limit = allowedEdits(Math.min(key.length, entry.key.length));
       if (limit === 0) continue;
       const dk = editDistance(key, entry.key, limit);

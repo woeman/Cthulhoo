@@ -196,6 +196,17 @@ shorter of the two keys:
 
 Both the plain and folded keys are tried, and the smaller distance counts.
 
+**A typo never changes a number.** Two keys are only compared when they hold
+the same digits in the same order, so "Apollo 12" is never a slip for Apollo
+13, and "Fahrenheit 415" is never Fahrenheit 451. Roman numerals are only a
+letter apart ("Elizabeth III" and "Elizabeth II"), so a spelling with one is
+typo-matched by its folded key alone, where the numeral has become digits. A
+lone "i" is the exception: in a title it is usually the word I ("If I Fell"),
+so that spelling keeps its plain key too. Typos in the name are still forgiven
+("Elizabth II"), and so are typos in spelled-out numbers ("Ninteen
+Eighty-Four"). A number that never existed, such as Henry IX, is refused
+unless a trap names it.
+
 ### 5. Break ties
 
 - If a trap or decoy is at least as close as any right answer, the wrong
@@ -226,7 +237,7 @@ must therefore be listed, plurals included, where the rule allows them.
 
 ### Keeping the two matchers in step
 
-`scripts/matcher-cases.json` holds small test prompts and about ninety typed
+`scripts/matcher-cases.json` holds small test prompts and about a hundred typed
 inputs with the result each must give, covering every rule above.
 `node scripts/check-matcher.mjs` runs them against the reference matcher, and
 the game's tests run the same file against the game's matcher. If the rules
