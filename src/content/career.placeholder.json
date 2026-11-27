@@ -3,36 +3,348 @@
     "title": "{epithet} {role} of {place}",
     "surfacePlace": "the Shallows",
     "milestones": [
-      { "depth": 1000, "name": "Below the Gloaming", "place": "the Gloaming", "line": "The last of the light is above you now." },
-      { "depth": 7000, "name": "The Roofs of the Drowned City", "place": "the Drowned City", "line": "You have touched the floor. It was not the floor." }
+      { "depth": 1000, "name": "The Midnight Line", "place": "the Midnight Line", "line": "Below this line the sun has never been, and the cable is still paying out." },
+      { "depth": 2500, "name": "The Long Snowfall", "place": "the Long Snowfall", "line": "Snow falls here for weeks before it lands, and it is not snow." },
+      { "depth": 5000, "name": "The Plain of Slow Stones", "place": "the Plain of Slow Stones", "line": "The black stones on this plain grow a few millimetres in a million years." },
+      { "depth": 7000, "name": "The Roofs of the Drowned City", "place": "the Drowned City", "line": "You have touched the floor, and it was not the floor." },
+      { "depth": 10000, "name": "The Streets Beneath", "place": "the Streets Beneath", "line": "Under the roofs there are streets, and every one of them runs downhill." },
+      { "depth": 15000, "name": "The First Trench", "place": "the First Trench", "line": "The rock beneath the city splits open, and the sounding lead finds no bottom." },
+      { "depth": 20000, "name": "The Second Trench", "place": "the Second Trench", "line": "The floor of the first trench was only the lip of the second." },
+      { "depth": 30000, "name": "The Third Trench", "place": "the Third Trench", "line": "Someone has cut soundings into the walls of this trench, and every one is right." },
+      { "depth": 40000, "name": "The Seventh Trench", "place": "the Seventh Trench", "line": "Your chart names this the Seventh Trench, though you have crossed only three." },
+      { "depth": 50000, "name": "The Far Shore", "place": "the Far Shore", "line": "There is a beach down here, and the tide is coming in." },
+      { "depth": 75000, "name": "The Lantern Grave", "place": "the Lantern Grave", "line": "Every lantern that ever went out sank this far, and a few are still warm." },
+      { "depth": 100000, "name": "The Great Quiet", "place": "the Great Quiet", "line": "Nothing here has made a sound since before there were ears to hear one." },
+      { "depth": 150000, "name": "The Unbuilt Spires", "place": "the Unbuilt Spires", "line": "Towers stand here that no hand built, and they are still rising." },
+      { "depth": 200000, "name": "The Bell Below", "place": "the Bell Below", "line": "This is the bell you have heard ringing all along, and it has no rope." },
+      { "depth": 300000, "name": "The Lees of Dreaming", "place": "the Lees of Dreaming", "line": "The Sleeper's dreams are heavier than water, and this is where they settle." },
+      { "depth": 400000, "name": "The Cradle of Tides", "place": "the Cradle of Tides", "line": "The tides are made here, and not by the moon." },
+      { "depth": 500000, "name": "The Ocean in the Stone", "place": "the Ocean in the Stone", "line": "There is more water held in this stone than in all the seas above it." },
+      { "depth": 750000, "name": "The Sleeper's Shadow", "place": "the Sleeper's Shadow", "line": "You have come this far down and are still standing in its shadow." },
+      { "depth": 1000000, "name": "The Cable's End", "place": "the Cable's End", "line": "The cable ran out some time ago, and you are still going down." },
+      { "depth": 1500000, "name": "The Last of the Water", "place": "the Last of the Water", "line": "The water thins here, the way air thins near the top of a mountain." },
+      { "depth": 2000000, "name": "The Space Between Stars", "place": "the Space Between Stars", "line": "Below the last of the water there are stars, a very long way down." }
     ],
     "epithets": [
-      { "from": 0, "words": ["Damp"] },
-      { "from": 7000, "words": ["Drowned"] }
+      { "from": 0, "words": ["Salt-Stung", "Sun-Warmed", "Fog-Bound"] },
+      { "from": 1000, "words": ["Lamp-Lit", "Cold-Handed", "Ink-Washed"] },
+      { "from": 5000, "words": ["Heavy-Lidded", "Glyph-Marked", "Dream-Drawn"] },
+      { "from": 10000, "words": ["Sunless", "Far-Fallen", "Silt-Shod"] },
+      { "from": 20000, "words": ["Drowned", "Hollow-Eyed", "Sea-Changed"] },
+      { "from": 50000, "words": ["Pearl-Eyed", "Barnacled", "Wrack-Crowned"] },
+      { "from": 100000, "words": ["Long-Drowned", "Unremembered", "Moon-Forsaken"] },
+      { "from": 250000, "words": ["Nameless", "Shadowless", "Unwaking"] },
+      { "from": 500000, "words": ["Aeon-Old", "Brine-Veined", "Patient"] },
+      { "from": 1000000, "words": ["Unsounded", "Fathomless", "Untethered"] }
     ],
-    "stateEpithets": { "unsleeping": ["Unsleeping"], "surfacing": ["Surfacing"], "newcomer": ["Untried"] },
-    "roles": { "none": ["Diver"] },
-    "synopsis": {
-      "strong": {},
-      "weak": {},
-      "fast": ["It answers before the question has finished rising."],
-      "slow": ["It waits, and the water waits with it."],
-      "rare": ["It speaks the words the deep keeps for itself."],
-      "common": ["It says what everyone says, and the sea forgives it."],
-      "night": ["It comes down after midnight, when the lamps are low."],
-      "day": ["It dives by daylight, as if that helps."],
-      "streak": ["Its lantern has burned for {streak} days."],
-      "drifting": ["It has been away. The sea noticed."],
-      "newcomer": ["It is new here. The deep is patient."],
-      "warded": ["Something kept its lantern lit while it slept."]
+    "stateEpithets": {
+      "unsleeping": ["Unsleeping", "Unblinking", "Wakeful"],
+      "surfacing": ["Surfacing", "Unmoored", "Wavering"],
+      "newcomer": ["Untried", "Dry-Shod", "Wide-Eyed"]
     },
-    "drift": ["WHILE YOU WERE AWAY STOP THE SEA GAVE YOU BACK {metres} STOP"],
-    "wardSpent": ["A WARD HELD FOR {days} STOP LANTERN STILL LIT STOP"],
-    "wardEarned": ["SEVEN DAYS STOP A WARD IS YOURS STOP"],
-    "multiplier": ["WEEK {week} OF THE DESCENT STOP EVERYTHING COUNTS {mult} STOP"],
-    "ward": { "name": "Ward", "blurb": "Keeps your lantern lit through one missed day." }
+    "roles": {
+      "geography": ["Cartographer", "Surveyor", "Navigator"],
+      "science": ["Alchemist", "Natural Philosopher", "Astronomer"],
+      "nature": ["Naturalist", "Taxonomist", "Collector"],
+      "culture": ["Librarian", "Balladeer", "Playwright"],
+      "history": ["Archivist", "Chronicler", "Antiquarian"],
+      "myth": ["Mythographer", "Augur", "Oracle"],
+      "food": ["Sea-Cook", "Victualler", "Steward"],
+      "language": ["Lexicographer", "Scrivener", "Interpreter"],
+      "sport": ["Champion", "Timekeeper", "Contender"],
+      "misc": ["Beachcomber", "Mudlark", "Polymath"],
+      "none": ["Diver", "Passenger", "Stowaway"]
+    },
+    "synopsis": {
+      "strong": {
+        "geography": [
+          "It knows the names of rivers that no longer run.",
+          "It could name every sea, and one more that is on no chart.",
+          "It can find its way home from any coast, though it seldom goes."
+        ],
+        "science": [
+          "It knows what every element is afraid of.",
+          "It names the moons of other worlds as though it had been there.",
+          "It measures the world in fathoms and furlongs, and is never wrong."
+        ],
+        "nature": [
+          "It calls each creature by its Latin name, and some by older ones.",
+          "Animals do not startle when it passes.",
+          "It tells one shark from another by the shape of the dark alone."
+        ],
+        "culture": [
+          "It can quote from the play that was lost.",
+          "It hums along to music from the next room, though there is no next room.",
+          "It reads by lantern light, and something reads over its shoulder."
+        ],
+        "history": [
+          "It remembers kings their own subjects forgot.",
+          "Ask it which ships went down, and it will tell you the tide.",
+          "It keeps a list of countries that no longer exist, and the list is growing."
+        ],
+        "myth": [
+          "It knows the old gods by their first names.",
+          "It could tell you which of the monsters were true.",
+          "It reads the tarot before the cards are dealt."
+        ],
+        "food": [
+          "It can tell a cheese by the cellar it was aged in.",
+          "It has learned every shape that pasta has been asked to take.",
+          "It can still name apples that no orchard grows any more."
+        ],
+        "language": [
+          "It has a word for the feeling of being watched from below.",
+          "It still speaks a little of languages with no one left to answer.",
+          "Words come to it in the dark, already spelt."
+        ],
+        "sport": [
+          "It remembers who won, long after the crowd has gone home.",
+          "It could referee games that nobody has played in a century.",
+          "It keeps score even when no one else is playing."
+        ],
+        "misc": [
+          "Nothing that washes ashore is a stranger to it.",
+          "It knows a little of everything, and a great deal of one thing it will not name.",
+          "It can name colours that only appear under water."
+        ]
+      },
+      "weak": {
+        "geography": [
+          "It is lost the moment the coast drops out of sight.",
+          "Maps unsettle it, as if they might be moving while it sleeps."
+        ],
+        "science": [
+          "Numbers make it uneasy, the way deep water does.",
+          "It looks up at the night sky and sees only weather."
+        ],
+        "nature": [
+          "It names animals the way children do, by noise and colour.",
+          "It cannot tell a wolf from a dog in poor light, and here all light is poor."
+        ],
+        "culture": [
+          "It leaves the theatre before the second act, every time.",
+          "It knows the tune but never the name of the song."
+        ],
+        "history": [
+          "To it, everything happened at once, a long time ago.",
+          "It mixes up its emperors, and none of them is left to object."
+        ],
+        "myth": [
+          "It does not believe in monsters, which suits the monsters.",
+          "It calls the old gods by the wrong names, and they answer anyway."
+        ],
+        "food": [
+          "It eats without asking what anything is called.",
+          "All bread is the same bread to it."
+        ],
+        "language": [
+          "It has the words, but not always in the right order.",
+          "Old alphabets look to it like weed on a hull."
+        ],
+        "sport": [
+          "It has never understood a race, or what it is people are running from.",
+          "It cheers at the wrong moment, and the crowd turns to look."
+        ],
+        "misc": [
+          "Odd things slip through its fingers, and the tide takes them back.",
+          "It walks past the strange shell on the beach without stopping."
+        ]
+      },
+      "fast": [
+        "It answers before the question has finished rising.",
+        "It speaks first and is seldom wrong, which unsettles the ones who wait.",
+        "It does not hesitate, and the water barely has time to close."
+      ],
+      "slow": [
+        "It waits, and the water waits with it.",
+        "It turns each question over twice, like a stone with something under it.",
+        "It answers late, as though listening first for another voice."
+      ],
+      "rare": [
+        "It says the words the deep keeps for itself.",
+        "It reaches past the first answer, and the second, for one that no one else gives.",
+        "When it speaks, something far below writes it down."
+      ],
+      "common": [
+        "It says what everyone says, and the sea forgives it.",
+        "It keeps to the well-lit answers, where the crowd is.",
+        "It never strays far from the harbour lights."
+      ],
+      "night": [
+        "It comes down after dark, when the lamps are low.",
+        "It dives while the house sleeps, and it is not the only one awake.",
+        "It keeps late hours, as the deep does."
+      ],
+      "day": [
+        "It dives while the world is awake, as if that helps.",
+        "It is always back before the house goes quiet.",
+        "It likes to descend while there are still people about."
+      ],
+      "streak": [
+        "Its lantern has burned for {streak} days without a flicker.",
+        "It has come down {streak} days running, and a place is now laid for it.",
+        "After {streak} days, the things below have learned when to expect its light."
+      ],
+      "drifting": [
+        "It has been away, and the water is letting it go, slowly.",
+        "Its cable has gone slack, and the current is carrying it up.",
+        "The deep is keeping its place, but not for ever."
+      ],
+      "newcomer": [
+        "It is new here, and the deep is patient.",
+        "It has only just learned which way is down.",
+        "It still smells of the harbour."
+      ],
+      "warded": [
+        "Something kept its lantern lit while it slept.",
+        "It was absent, and a sign it had earned kept watch in its place."
+      ]
+    },
+    "drift": [
+      "{days} AWAY STOP LANTERN OUT STOP ROSE {metres} STOP",
+      "LINE SLACK WHILE YOU WERE GONE STOP YOU ROSE {metres} STOP",
+      "THE SEA GAVE BACK {metres} STOP IT IS PATIENT STOP"
+    ],
+    "wardSpent": [
+      "WARDED FOR {days} STOP YOUR LANTERN BURNED ON WITHOUT YOU STOP",
+      "{days} KEPT BY WARD STOP THE CREW TENDED YOUR LANTERN STOP",
+      "{days} UNWATCHED STOP SOMETHING YOU EARNED STOOD WATCH STOP"
+    ],
+    "wardEarned": [
+      "{days} UNBROKEN STOP A WARD IS YOURS STOP",
+      "LANTERN LIT {days} STOP THE CREW HAVE CUT YOU A WARD STOP",
+      "WARD EARNED STOP IT WILL HOLD YOUR LANTERN THROUGH ONE MISSED DAY STOP"
+    ],
+    "multiplier": [
+      "WEEK {week} OF THE LANTERN STOP EVERY METRE COUNTS {mult} STOP",
+      "LANTERN INTO WEEK {week} STOP CABLE PAYING OUT {mult} AS FAST STOP",
+      "WEEK {week} STOP THE DEEP PULLS HARDER STOP DEPTH COUNTS {mult} STOP"
+    ],
+    "ward": {
+      "name": "Ward",
+      "blurb": "Keeps your lantern lit through one missed day, so you do not drift up; you earn one for every seven days in a row and can hold two."
+    }
   },
   "bestiary": [
-    { "id": "barreleye", "name": "Barreleye", "zone": "twilight", "kind": "real", "line": "It looked up at us through its own head.", "fact": "Its eyes sit inside a clear, fluid-filled dome and turn to look straight up." }
+    {
+      "id": "lions-mane", "name": "Lion's Mane Jellyfish", "zone": "surface", "kind": "real",
+      "line": "We followed its tentacles from bow to stern and found no end to them.",
+      "fact": "The largest known jellyfish, and the culprit in the 1926 Sherlock Holmes story 'The Adventure of the Lion's Mane'."
+    },
+    {
+      "id": "man-o-war", "name": "Portuguese Man o' War", "zone": "surface", "kind": "real",
+      "line": "It came in on the wind under a sail of its own, and the crew stood back from the rail.",
+      "fact": "Not a jellyfish but a colony of zooids that cannot live apart. It cannot swim: its float is a sail, and it goes where the wind sends it."
+    },
+    {
+      "id": "leafy-seadragon", "name": "Leafy Seadragon", "zone": "surface", "kind": "real",
+      "line": "We took it for a scrap of drifting weed until the weed turned its head.",
+      "fact": "Found only off southern Australia. Its leafy lobes are for hiding, not swimming, and the male carries the eggs on his tail until they hatch."
+    },
+    {
+      "id": "sunfish", "name": "Ocean Sunfish", "zone": "surface", "kind": "real",
+      "line": "It lay on its side in the swell, taking the sun, and watched us with no interest at all.",
+      "fact": "Its name, Mola, is Latin for millstone. It basks on its side at the surface, where seabirds pick parasites from its skin."
+    },
+    {
+      "id": "barreleye", "name": "Barreleye", "zone": "twilight", "kind": "real",
+      "line": "It looked up at us through its own head.",
+      "fact": "Its head is a clear, fluid-filled dome. The dark spots on its face are nostrils; its real eyes, with green lenses, turn within to look up or ahead."
+    },
+    {
+      "id": "vampire-squid", "name": "Vampire Squid", "zone": "twilight", "kind": "real",
+      "line": "It drew its cloak up over itself and showed us only the soft spines inside.",
+      "fact": "Neither squid nor octopus, it is the last of its order. It eats marine snow, gathered on two long threads and wrapped in mucus."
+    },
+    {
+      "id": "hatchetfish", "name": "Hatchetfish", "zone": "twilight", "kind": "real",
+      "line": "It was thin and bright as a coin, and it lit itself so as not to be seen.",
+      "fact": "Lights on its belly match the faint light from above, hiding its outline from hunters below. It can dim or brighten them to suit."
+    },
+    {
+      "id": "siphonophore", "name": "Giant Siphonophore", "zone": "twilight", "kind": "real",
+      "line": "It passed the porthole for seven minutes, and we never saw either end.",
+      "fact": "It can reach 40 m, longer than a blue whale, yet it is a colony of thousands of zooids on a single stem. It lures prey with blue light."
+    },
+    {
+      "id": "black-seadevil", "name": "Black Seadevil", "zone": "midnight", "kind": "real",
+      "line": "We watched a small light for some time before we saw what was holding it.",
+      "fact": "Only the female has a lure, lit by bacteria that live in it. The tiny males do not fuse to her as some anglerfish do; they hold on only briefly."
+    },
+    {
+      "id": "gulper-eel", "name": "Gulper Eel", "zone": "midnight", "kind": "real",
+      "line": "Its mouth unfolded like a net, wider than the whole of the rest of it.",
+      "fact": "Its mouth is far larger than its body, yet it mostly eats small crustaceans. The tip of its whip-like tail glows pink, with the odd red flash."
+    },
+    {
+      "id": "colossal-squid", "name": "Colossal Squid", "zone": "midnight", "kind": "real",
+      "line": "Its eye was wider than our porthole, and for a moment the two were level.",
+      "fact": "The heaviest invertebrate known, with the largest eyes of any animal, about 27 cm across. No one filmed one alive in the deep until 2025."
+    },
+    {
+      "id": "fangtooth", "name": "Fangtooth", "zone": "midnight", "kind": "real",
+      "line": "It was small enough to hold in one hand, and it seemed to be mostly teeth.",
+      "fact": "For its size it has the largest teeth of any fish in the sea. Its two longest fangs slide into sockets beside its brain when it shuts its mouth."
+    },
+    {
+      "id": "dumbo-octopus", "name": "Dumbo Octopus", "zone": "abyss", "kind": "real",
+      "line": "It rowed past on two small fins like ears, and did not look our way.",
+      "fact": "The deepest-dwelling octopus known: one was filmed at 6,957 m in the Java Trench. It swims with the two ear-like fins above its eyes."
+    },
+    {
+      "id": "tripod-fish", "name": "Tripod Fish", "zone": "abyss", "kind": "real",
+      "line": "It stood on three thin stilts above the ooze and faced the current like a sentry.",
+      "fact": "It perches on three fin rays up to a metre long, facing the current to catch what drifts past. Each one is both male and female."
+    },
+    {
+      "id": "sea-pig", "name": "Sea Pig", "zone": "abyss", "kind": "real",
+      "line": "A herd of them crossed the plain below us, grazing, and none of them looked up.",
+      "fact": "A sea cucumber that walks on leg-like tube feet, pumped up with water. Herds of hundreds roam the abyssal plain, eating fresh scraps in the mud."
+    },
+    {
+      "id": "xenophyophore", "name": "Xenophyophore", "zone": "abyss", "kind": "real",
+      "line": "A crumbling stone on the floor turned out to be alive, and to be a single cell.",
+      "fact": "A single cell up to 20 cm across that builds a fragile shell from grains of mud. Its name means 'bearer of foreign bodies'."
+    },
+    {
+      "id": "snailfish", "name": "Mariana Snailfish", "zone": "hadal", "kind": "real",
+      "line": "It was small and pale and nearly clear, and it was not troubled by any of this.",
+      "fact": "It lives deeper than almost any other fish, down to about 8,000 m. Its bones, even its skull, are not fully hardened."
+    },
+    {
+      "id": "amphipod", "name": "Supergiant Amphipod", "zone": "hadal", "kind": "real",
+      "line": "Its cousins in the rock pools fit on a fingernail; this one was as long as a forearm.",
+      "fact": "The largest amphipod known, it grows to about 34 cm, longer than a school ruler. Few have ever come up in a baited trap."
+    },
+    {
+      "id": "sea-cucumber", "name": "Swimming Sea Cucumber", "zone": "hadal", "kind": "real",
+      "line": "It lifted off the mud like a veil of pink glass, swam a little way, and came down again.",
+      "fact": "Its genus name, Enypniastes, means 'dreamer'. If something touches it, its fragile skin can slough off in a glowing cloud."
+    },
+    {
+      "id": "deep-one", "name": "Deep One", "zone": "hadal", "kind": "mythos",
+      "line": "It stood upright at the edge of the lamp, which nothing down here has any reason to do.",
+      "fact": "The log records it seven times, always at the same depth and each time a little nearer the lamp. It has never been seen to swim."
+    },
+    {
+      "id": "dagon", "name": "Father Dagon", "zone": "floor", "kind": "mythos",
+      "line": "A hill we had charted rose a little in the night, and was a hill again by morning.",
+      "fact": "The city's carvings call him father, and never say of what. In the oldest carvings he is smaller."
+    },
+    {
+      "id": "hydra", "name": "Mother Hydra", "zone": "floor", "kind": "mythos",
+      "line": "We heard her as a slow chorus of breathing, no two breaths quite in time.",
+      "fact": "No carving in the city shows her whole. Each shows a different part, and no two of the parts agree."
+    },
+    {
+      "id": "shoggoth", "name": "Shoggoth", "zone": "floor", "kind": "mythos",
+      "line": "It learned the shape of our sphere on a single pass, and wore it for a while.",
+      "fact": "It has no shape of its own, only borrowed ones, and some of the shapes it borrows belong to nothing still alive."
+    },
+    {
+      "id": "dreamer", "name": "The Dreamer", "zone": "floor", "kind": "mythos",
+      "line": "What we took for a ridge of pale rock closed, very slowly, like a hand.",
+      "fact": "Its glyph means 'the one who dreams'. In all the city's writing there is no glyph for waking."
+    }
   ]
 }
