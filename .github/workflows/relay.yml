@@ -54,7 +54,19 @@ jobs:
           # The shape of the secrets, never their values: most mistakes show here.
           tok="$CLOUDFLARE_API_TOKEN"
           echo "The token secret is ${#tok} characters (an API token is 40; a Global API Key is 37)."
-          [[ "$tok" =~ [[:space:]] ]] && echo "::warning::The CLOUDFLARE_API_TOKEN secret has a space or line break in it."
+          if [[ "$tok" =~ [[:space:]] ]]; then
+            echo "::warning::The CLOUDFLARE_API_TOKEN secret has a space or line break in it."
+            # Only the lengths of its parts, and which look like a token, so a paste of more than the token shows itself.
+            read -r -d '' -a parts <<< "$tok" || true
+            shape=""; like=0
+            for p in "${parts[@]}"; do
+              shape+="${#p} "
+              [[ "$p" =~ ^[A-Za-z0-9_-]{40}$ ]] && like=$((like + 1))
+            done
+            words=""
+            for w in curl Bearer Authorization verify; do [[ "$tok" == *"$w"* ]] && words+="$w "; done
+            echo "It has ${#parts[@]} parts, of lengths: $shape; parts shaped like an API token: $like; words in it: ${words:-none}"
+          fi
           [[ "$tok" == Bearer* ]] && echo "::warning::The CLOUDFLARE_API_TOKEN secret starts with the word Bearer, which should be left out."
           acct="$CLOUDFLARE_ACCOUNT_ID"
           [[ "$acct" =~ ^[0-9a-f]{32}$ ]] || echo "::warning::The CLOUDFLARE_ACCOUNT_ID secret is not 32 letters and digits (0-9, a-f), as an account ID is (it is ${#acct} characters)."
