@@ -227,7 +227,8 @@ export function logbookScreen(data: LogbookData, actions: LogbookActions): HTMLE
     uid: id('chart'),
     onDrawn: (first) => {
       if (!first) return;
-      showLead(section, chart.lead());
+      // A new diver opens at the top, on the empty title; anyone else at today's weight.
+      if (career.daysPlayed > 0) showLead(section, chart.lead());
       // The deep gets into the title below 2,500 m (never the synopsis), once the
       // screen is in the page, so the app's change of screen does not calm it at once.
       const level = Math.min(TITLE_MADNESS, madnessForDepth(depth));
