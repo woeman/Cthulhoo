@@ -114,9 +114,11 @@ Files in [`art/logo/`](../../art/logo/):
 | `mark.svg` | just the double O: two porthole eyes | `currentColor` |
 | `app-icon.svg` | the two portholes glowing cyan in the Stygian Dark, full bleed 512 × 512 | full colour |
 | `app-icon-maskable.svg` | the same picture with the portholes inside the central safe circle, for Android and installed web apps | full colour |
+| `app-icon-monochrome.svg` | the two portholes alone, bolder, inside the same safe circle, for Android's themed icons | white on transparent |
 | `favicon.svg` | a simplified mark at 64 × 64 | full colour |
 | `png/app-icon-{1024,512,192,180,48}.png` | the icon for stores, home screens and browsers | full colour |
 | `png/app-icon-maskable-{512,192}.png` | the maskable icon, for the web app manifest | full colour |
+| `png/app-icon-monochrome-512.png` | the themed icon, for the web app manifest | white on transparent |
 
 **The idea.** The double O of the name is a pair of riveted bathysphere portholes, and each
 one is an eye with a **cuttlefish's W-shaped pupil**. The name looks back at you. The iris is
@@ -131,7 +133,10 @@ Use it like this:
 - The app icon is full bleed; iOS cuts its own rounded corners. Android launchers cut
   circles, squircles and other shapes, so Android and installed web apps use the **maskable**
   version: the same sea to every edge, with the portholes inside the middle circle (80 % of
-  the width) that every launcher shape keeps. Never add a border, a shadow or text to either.
+  the width) that every launcher shape keeps. When someone turns on Android's themed icons, the
+  **monochrome** version takes over: only its shape counts, and the system paints it in that
+  person's colours, so it has fewer, bolder iris strokes. Never add a border, a shadow or text
+  to any of them.
 - Never stretch it, outline it, set it in another typeface, or draw the O's as plain circles.
 
 ## Interface icons

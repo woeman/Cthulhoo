@@ -63,8 +63,11 @@ def w_pupil(cx, cy, L, A, T, rot=0.0, n=48):
     return smooth(pts, close=True)
 
 
-def porthole_eye(cx, cy, R, seed=1, rot=0.0, rivets=8, detail=1.0):
-    """One O: riveted frame, engraved iris, W pupil, a glint on the glass. Returns filled path data."""
+def porthole_eye(cx, cy, R, seed=1, rot=0.0, rivets=8, detail=1.0, weight=1.0):
+    """One O: riveted frame, engraved iris, W pupil, a glint on the glass. Returns filled path data.
+
+    detail scales the number of iris strokes; weight thickens the iris strokes and the limbus
+    ring, for versions that must hold up small in a single colour."""
     r = rng(seed)
     parts = []
     # Frame with rivets punched through (evenodd).
@@ -82,12 +85,12 @@ def porthole_eye(cx, cy, R, seed=1, rot=0.0, rivets=8, detail=1.0):
         a = math.tau * k / n + r.uniform(-0.04, 0.04)
         rr1 = r1 * r.uniform(0.95, 1.12)
         rr2 = r2 * r.uniform(0.9, 1.0)
-        w1, w2 = 0.010, 0.043 * r.uniform(0.8, 1.15)
+        w1, w2 = 0.010 * weight, 0.043 * weight * r.uniform(0.8, 1.15)
         strokes.append(poly([polar(cx, cy, rr1, a - w1), polar(cx, cy, rr2, a - w2),
                              polar(cx, cy, rr2 * 1.01, a), polar(cx, cy, rr2, a + w2),
                              polar(cx, cy, rr1, a + w1)]))
     parts.append(('iris', ' '.join(strokes)))
-    parts.append(('limbus', ring_path(cx, cy, R * 0.635, R * 0.6)))
+    parts.append(('limbus', ring_path(cx, cy, R * (0.6 + 0.035 * weight), R * 0.6)))
     # Glint: a thin crescent of reflected light on the glass, upper left.
     g = []
     for i in range(13):
@@ -209,6 +212,17 @@ def main():
     write(os.path.join(OUT, 'app-icon-maskable.svg'), svg(512, 512, app_icon(R=R, cy=256, gap=gap, halo=(220, 150)),
           title='Cthulhoo app icon (maskable)',
           desc='Two porthole eyes glowing in the Stygian Dark, drawn inside the central safe circle for Android and installed web apps. Full bleed.'))
+
+    # Monochrome icon for Android's themed icons. Only its shape counts: the system paints it
+    # in the user's colours. White on transparent, the two portholes alone, a little smaller
+    # than the maskable art, with fewer and bolder iris strokes so it holds up at launcher size.
+    R, gap = 72, 7
+    assert 2 * R + gap <= 0.4 * 512 * 0.9, 2 * R + gap
+    parts = (porthole_eye(256 - R - gap, 256, R, seed=3, detail=0.6, weight=1.8)
+             + porthole_eye(256 + R + gap, 256, R, seed=5, rot=math.radians(-7), detail=0.6, weight=1.8))
+    body = '<g fill="#fff">' + ''.join(f'<path data-part="{n}" fill-rule="evenodd" d="{d}"/>' for n, d in parts) + '</g>'
+    write(os.path.join(OUT, 'app-icon-monochrome.svg'), svg(512, 512, body, title='Cthulhoo app icon (monochrome)',
+          desc='The two porthole eyes in white on transparent, inside the central safe circle, for Android themed icons. Only the shape is used.'))
 
     # Favicon: one porthole eye, bold.
     R = 30

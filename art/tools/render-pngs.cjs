@@ -8,6 +8,7 @@
  * Outputs:
  *   art/logo/png/app-icon-{1024,512,192,180,48}.png    full bleed, no transparency
  *   art/logo/png/app-icon-maskable-{512,192}.png        the maskable version, for Android
+ *   art/logo/png/app-icon-monochrome-512.png            white on transparent, for Android themed icons
  *   art/textures/silhouettes/png/<name>.png             white on transparent, at native size,
  *                                                       for use as alpha masks in a shader
  *   art/textures/silhouettes/png/drowned-city-{far,near}.png   the two parallax layers apart
@@ -54,6 +55,8 @@ async function renderSvg(page, svgText, out, { width, height, css = '', transpar
   for (const n of [512, 192]) {
     await renderSvg(page, maskable, path.join(iconDir, `app-icon-maskable-${n}.png`), { width: n, height: n, transparent: false });
   }
+  const mono = fs.readFileSync(path.join(ART, 'logo', 'app-icon-monochrome.svg'), 'utf8');
+  await renderSvg(page, mono, path.join(iconDir, 'app-icon-monochrome-512.png'), { width: 512, height: 512 });
 
   // Silhouettes, white on transparent
   const pngDir = path.join(SIL, 'png');
