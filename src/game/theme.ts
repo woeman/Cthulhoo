@@ -261,6 +261,9 @@ export function cultRankFor(theme: ThemeCopy, streak: number): CultRank {
 }
 
 /** Deterministic line choice, so friends who give the same answer see the same line. */
+/** Fill {placeholders} in a line of copy; unknown ones are left as they are. */
+export const fillLine = (line: string, values: Record<string, string>): string => line.replace(/\{(\w+)\}/g, (all, k: string) => values[k] ?? all);
+
 export function pickLine(lines: string[], ...keys: Array<string | number>): string {
   if (!lines.length) return '';
   return lines[hashString(keys.join('|').toLowerCase()) % lines.length];

@@ -1,0 +1,340 @@
+/* The career on the title and results: lifetime depth, the lantern, the wards,
+   the next milestone, and the ship's telegrams. */
+
+/* ------------------------------------------------------------ title strip */
+
+.career-strip {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-3) var(--space-4);
+  padding: var(--space-4) var(--space-5);
+}
+
+.cs-depth {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.cs-big,
+.cg-total {
+  font-family: var(--font-log);
+  letter-spacing: var(--tracking-log);
+  line-height: 1;
+  color: var(--color-ink);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cs-big {
+  font-size: clamp(1.55rem, 1.1rem + 2.4vw, 2.2rem);
+}
+
+.cs-big .unit,
+.cg-total .unit {
+  font-size: 0.6em;
+  color: var(--color-ink-muted);
+}
+
+.cs-k,
+.cs-wards .cs-v {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+  text-transform: lowercase;
+}
+
+.cs-side {
+  display: grid;
+  gap: var(--space-2);
+  justify-items: start;
+  min-width: 0;
+}
+
+.cs-lantern,
+.cs-wards {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  min-width: 0;
+}
+
+.cs-lantern .cs-icon svg {
+  display: block;
+  width: 22px;
+  height: 22px;
+  color: var(--color-glow);
+}
+
+.cs-lantern .cs-v {
+  font-family: var(--font-log);
+  font-size: var(--step-0);
+  white-space: nowrap;
+}
+
+.cs-lantern.out .cs-v,
+.cs-lantern.out .cs-icon svg {
+  color: var(--color-ink-muted);
+}
+
+.cs-mult {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  padding: 1px 6px;
+  border: 1px solid var(--color-rule-soft);
+  color: var(--color-glow);
+  white-space: nowrap;
+}
+
+.ward-slots {
+  display: inline-flex;
+  gap: 2px;
+}
+
+.ward-slots .cth-ward {
+  width: 26px;
+  height: 26px;
+}
+
+.cs-next {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
+  align-items: center;
+  gap: var(--space-1) var(--space-2);
+  padding-top: var(--space-3);
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.cs-next-mark svg {
+  display: block;
+  width: 22px;
+  height: 22px;
+  color: var(--color-ink-muted);
+}
+
+.cs-next-text {
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  min-width: 0;
+  text-wrap: balance;
+}
+
+.cs-togo {
+  font-family: var(--font-log);
+  color: var(--color-ink);
+  white-space: nowrap;
+}
+
+.cs-next-name {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink);
+}
+
+/* cable paid out from the last milestone to the next */
+.cs-line {
+  grid-column: 1 / -1;
+  position: relative;
+  display: block;
+  height: 3px;
+  background: repeating-linear-gradient(to right, var(--color-rule-soft) 0 1px, transparent 1px 10%);
+  border-bottom: 1px solid var(--color-rule-soft);
+}
+
+.cs-line > span {
+  position: absolute;
+  inset: 0 auto 0 0;
+  background: var(--color-glow);
+  box-shadow: 0 0 6px var(--color-glow-soft);
+}
+
+.cs-news {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  margin: 0;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.cs-news-icon svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+  color: var(--color-glow);
+}
+
+/* the number rises while the sea gives the diver back */
+.career-strip.rising .cs-big .num {
+  color: var(--color-glow);
+  transition: color 1.6s var(--ease-surface);
+}
+
+/* the persona title in place of the tagline, once there is a career to name */
+.persona-line {
+  margin: var(--space-2) 0 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  line-height: 1.3;
+  text-align: center;
+  text-wrap: balance;
+  color: var(--color-ink-muted);
+  max-width: 26rem;
+}
+
+/* ------------------------------------------------------------ results */
+
+.career-gain {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.cg-total {
+  margin: 0;
+  font-size: var(--step-3);
+}
+
+.cg-gain {
+  margin: 0;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-glow);
+}
+
+.cg-mult {
+  color: var(--color-ink-muted);
+}
+
+.cg-carved {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  margin-top: var(--space-2);
+}
+
+.cg-carved-k {
+  margin: 0;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps-wide);
+  font-size: var(--step--2);
+  text-transform: lowercase;
+  color: var(--color-ink-muted);
+}
+
+.cg-carved-line {
+  margin: 0;
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+.cg-ward {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin: var(--space-2) 0 0;
+  text-align: left;
+  font-size: var(--step--1);
+}
+
+.career-gain .cs-next {
+  width: 100%;
+  text-align: left;
+}
+
+/* ------------------------------------------------------------ telegram */
+
+.telegram-toast {
+  position: fixed;
+  top: calc(env(safe-area-inset-top) + var(--space-3));
+  left: 0;
+  right: 0;
+  z-index: var(--z-telegram);
+  width: min(34ch, calc(100vw - 32px));
+  margin-inline: auto;
+  cursor: pointer;
+  transition: opacity 600ms var(--ease-sink), transform 600ms var(--ease-sink);
+}
+
+.telegram-toast.lifted {
+  opacity: 0;
+  transform: translateY(-48px);
+}
+
+.telegram-toast p + p {
+  margin-top: var(--space-2);
+}
+
+/* lettering on the open sea keeps a little paper behind it */
+.title-screen .persona-line {
+  width: fit-content;
+  margin-inline: auto;
+  padding: 0.1em 0.7em;
+  border-radius: 1.4em;
+  background: var(--reserve);
+  box-shadow: 0 0 12px 9px var(--reserve);
+}
+
+/* ------------------------------------------------------------ title layout */
+
+.title-plates {
+  display: grid;
+  gap: var(--space-4);
+  align-items: stretch;
+}
+
+.title-screen > .title-plates.two {
+  max-width: 34rem;
+}
+
+/* a wide screen: the career and the omen side by side under the wordmark */
+@media (min-width: 900px) and (min-height: 540px) {
+  .title-screen > .title-plates.two {
+    max-width: 60rem;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .title-plates.two .omen-plate,
+  .title-plates.two .career-strip {
+    align-content: center;
+  }
+}
+
+/* a small phone: the way down stays on the first screen */
+@media (max-height: 700px) {
+  .title-screen:has(.career-strip) {
+    gap: var(--space-2);
+  }
+
+  .title-plates.two {
+    gap: var(--space-2);
+  }
+
+  .career-strip {
+    padding: var(--space-3) var(--space-4);
+    gap: var(--space-2) var(--space-3);
+  }
+
+  .career-strip .cs-next {
+    padding-top: var(--space-2);
+  }
+
+  /* the telegram has said it; the Logbook keeps it */
+  .career-strip .cs-news,
+  .title-plates.two .omen-plate .flavor {
+    display: none;
+  }
+
+  .title-plates.two .omen-plate h2 {
+    font-size: var(--step-2);
+  }
+}

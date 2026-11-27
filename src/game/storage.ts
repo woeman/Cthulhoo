@@ -150,6 +150,17 @@ export function saveFlag(name: string, on = true): void {
   write(`flag.${name}`, on ? '1' : '0');
 }
 
+/** A small number kept between visits (such as the day a telegram was last shown). */
+export function loadNumber(name: string): number | null {
+  const raw = read(`num.${name}`);
+  const v = raw === null ? NaN : Number(raw);
+  return Number.isFinite(v) ? v : null;
+}
+
+export function saveNumber(name: string, value: number): void {
+  write(`num.${name}`, String(value));
+}
+
 const ID_RE = /^[a-z0-9]{8,32}$/;
 
 /**

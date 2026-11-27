@@ -1,7 +1,7 @@
 import type { DayRecord, ThemeCopy } from './types';
 import type { Career } from './career';
 import { definingSigils, type Sigil } from './sigils';
-import { pickLine } from './theme';
+import { fillLine as fill, pickLine } from './theme';
 
 // Who the deep thinks you are: a title built from depth, the lantern and your
 // strongest topic, and a short synopsis rewritten each week. Every choice comes
@@ -30,8 +30,6 @@ const median = (xs: number[]) => {
   const m = s.length >> 1;
   return s.length % 2 ? s[m] : (s[m - 1] + s[m]) / 2;
 };
-
-const fill = (line: string, values: Record<string, string>) => line.replace(/\{(\w+)\}/g, (all, k: string) => values[k] ?? all);
 
 export function weekOf(day: number): number {
   return Math.floor((Math.max(1, day) - 1) / 7) + 1;

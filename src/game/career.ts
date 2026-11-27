@@ -170,3 +170,31 @@ export function toNextMilestone(career: Career, milestones: MilestoneDef[]): num
   const marks = [...milestones].sort((a, b) => a.depth - b.depth);
   return career.next >= 0 ? Math.max(0, marks[career.next].depth - career.depth) : null;
 }
+
+export interface CareerDay {
+  /** What the day's dive scored, the lantern's multiplier, and what it added to the career. */
+  dive: { dive: number; mult: number; gained: number; streak: number } | null;
+  /** Milestones passed that day, as indices into the milestones sorted by depth. */
+  milestones: number[];
+  wardEarned: boolean;
+  /** Career depth at the end of the day before, and at the end of this one. */
+  before: number;
+  after: number;
+}
+
+/** What one day did to the career. */
+export function careerDay(career: Career, day: number): CareerDay {
+  let dive: CareerDay['dive'] = null;
+  const milestones: number[] = [];
+  let wardEarned = false;
+  for (const e of career.events) {
+    if (e.day !== day) continue;
+    if (e.kind === 'dive') dive = { dive: e.dive, mult: e.mult, gained: e.gained, streak: e.streak };
+    else if (e.kind === 'milestone') milestones.push(e.index);
+    else if (e.kind === 'ward-earned') wardEarned = true;
+  }
+  const i = career.points.findIndex((p) => p.day === day);
+  const after = i >= 0 ? career.points[i].depth : career.depth;
+  const before = i > 0 ? career.points[i - 1].depth : i === 0 ? 0 : career.depth;
+  return { dive, milestones, wardEarned, before, after };
+}

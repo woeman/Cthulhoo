@@ -5,7 +5,11 @@ import { omenById, omenForDay } from './game/omens';
 import { SANITY, clampSanity, depthFor, isBellQuestion, sanityAfterAnswer, timeLimitMs, totalDepth } from './game/scoring';
 import { shareDive, shareText } from './game/share';
 import { computeStats } from './game/stats';
-import { loadDays, loadFlag, loadSettings, saveDay, saveFlag, saveSettings } from './game/storage';
+import { careerDay, computeCareer, type Career } from './game/career';
+import { resultsNews, titleNews, type News } from './game/news';
+import { personaFor } from './game/persona';
+import { computeSigils } from './game/sigils';
+import { loadDays, loadFlag, loadNumber, loadSettings, playerId, saveDay, saveFlag, saveNumber, saveSettings } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -13,6 +17,7 @@ import { Abyss } from './render/abyss';
 import { fmtMetres, focusables, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
 import { MadText, calmAll, icon, madden, madnessForDepth, sealSvg, wordmarkMarkup } from './ui/art';
+import { careerGainPlate, careerStrip, countUp, telegramEl } from './ui/career';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -339,6 +344,46 @@ export class App {
     this.showTitle();
   }
 
+  // ================================================================ career
+
+  /** The lifetime career, worked out afresh from the saved dives. */
+  private careerNow(): { days: ReturnType<typeof loadDays>; marks: ThemeCopy['career']['milestones']; career: Career } {
+    const days = loadDays();
+    const marks = [...this.theme.career.milestones].sort((a, b) => a.depth - b.depth);
+    return { days, marks, career: computeCareer(days, this.today, marks) };
+  }
+
+  /** Who the deep thinks you are: the Logbook's title, on the title screen too. */
+  private personaTitle(career: Career, days: ReturnType<typeof loadDays>): string {
+    const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
+    return personaFor(career, sigils, days, this.theme, playerId(), this.today).title;
+  }
+
+  /** A telegram lowered from the surface. It goes back up on a tap, or by itself. */
+  private telegram(news: News, delay = 0) {
+    for (const old of document.querySelectorAll('.telegram-toast')) old.remove();
+    const time = new Date().toLocaleTimeString('en-GB', { hour: '2-digit', minute: '2-digit' });
+    const el = telegramEl(news, ['Surface telegraph', time]);
+    let gone = false;
+    const lift = () => {
+      if (gone) return;
+      gone = true;
+      el.classList.add('lifted');
+      window.setTimeout(() => el.remove(), this.reduced ? 0 : 650);
+    };
+    el.addEventListener('click', lift);
+    const show = window.setTimeout(() => {
+      this.root.append(el);
+      this.announce(news.plain);
+    }, delay);
+    const hide = window.setTimeout(lift, delay + 9000);
+    this.loops.push(() => {
+      clearTimeout(show);
+      clearTimeout(hide);
+      if (el.isConnected) lift();
+    });
+  }
+
   private dailyRecord(): DayRecord {
     const now = new Date();
     this.today = dayNumberFor(now);
@@ -368,8 +413,20 @@ export class App {
     this.hud.el.hidden = true;
     this.sounding.el.hidden = true;
     this.setMadness(100);
-    if (Math.abs(this.abyss.depth - TITLE_DEPTH) > 1) void this.abyss.descendTo(TITLE_DEPTH, this.reduced ? 0 : 3800);
+    // The career, and any telegram about it (once a day). Back after days away, the
+    // sea gives the diver back: the view rises to the surface as the number climbs.
+    const { days, marks, career } = this.careerNow();
+    const news = titleNews(career, this.theme.career, playerId(), this.today);
+    const fresh = !!news && loadNumber('news') !== this.today;
+    if (fresh) saveNumber('news', this.today);
+    const drift = fresh && news?.kind === 'drift' ? career.away?.drift ?? 0 : 0;
+    const riseFrom = drift > 0 && !this.reduced ? Math.min(900, 160 + drift * 0.35) : 0;
+    if (riseFrom) {
+      this.abyss.jumpTo(riseFrom);
+      void this.abyss.descendTo(TITLE_DEPTH, 4600);
+    } else if (Math.abs(this.abyss.depth - TITLE_DEPTH) > 1) void this.abyss.descendTo(TITLE_DEPTH, this.reduced ? 0 : 3800);
     this.closeEye();
+    const strip = career.daysPlayed ? careerStrip(career, marks, news) : null;
 
     let primary: HTMLElement;
     const actions = h('div', { class: 'title-actions' });
@@ -404,16 +461,21 @@ export class App {
         { class: 'crest' },
         h('p', { class: 'kicker' }, `Dive No. ${rec.day} · ${dateText}`),
         h('h1', { class: 'wordmark', id: 'wordmark' }, h('span', { class: 'visually-hidden' }, 'Cthulhoo'), h('span', { class: 'wordmark-art', 'aria-hidden': 'true', html: wordmarkMarkup() })),
-        h('p', { class: 'tagline' }, 'How deep does your knowledge go?'),
+        career.daysPlayed ? h('p', { class: 'persona-line' }, this.personaTitle(career, days)) : h('p', { class: 'tagline' }, 'How deep does your knowledge go?'),
       ),
       h(
         'div',
-        { class: 'plate omen-plate' },
-        h('p', { class: 'kicker' }, "Today's omen"),
-        h('div', { class: 'glyph', 'aria-hidden': 'true' }, omen.glyph),
-        h('h2', {}, omen.name),
-        h('p', { class: 'effect' }, omen.effect),
-        h('p', { class: 'flavor' }, omen.flavor),
+        { class: `title-plates${strip ? ' two' : ''}` },
+        strip?.el ?? null,
+        h(
+          'div',
+          { class: 'plate omen-plate' },
+          h('p', { class: 'kicker' }, "Today's omen"),
+          h('div', { class: 'glyph', 'aria-hidden': 'true' }, omen.glyph),
+          h('h2', {}, omen.name),
+          h('p', { class: 'effect' }, omen.effect),
+          h('p', { class: 'flavor' }, omen.flavor),
+        ),
       ),
       actions,
       // The HUD is hidden here, so the title carries its own sound switch.
@@ -421,6 +483,13 @@ export class App {
     );
     this.show(screen, 'up');
     this.renderSoundIcon();
+    if (strip && riseFrom) {
+      strip.el.classList.add('rising');
+      this.loops.push(countUp(strip.num, career.depth + drift, career.depth, 4200, false));
+      const settle = window.setTimeout(() => strip.el.classList.remove('rising'), 4400);
+      this.loops.push(() => clearTimeout(settle));
+    }
+    if (news && fresh) this.telegram(news, this.reduced ? 0 : 1400);
     if (returning) window.setTimeout(() => primary.isConnected && !this.sheets.length && primary.focus({ preventScroll: true }), this.reduced ? 0 : 500);
   }
 
@@ -966,8 +1035,11 @@ export class App {
     const zone = zoneFor(this.theme, total);
     const landmark = landmarkFor(this.theme, total);
     const place = landmark?.name ?? zone.name;
-    const stats = computeStats(loadDays(), this.today);
-    const rank = cultRankFor(this.theme, stats.streak);
+    const { marks, career } = this.careerNow();
+    const rank = cultRankFor(this.theme, career.streak);
+    // What today's dive did to the career: the metres it added, milestones carved, a ward.
+    const day = rec.practice ? null : careerDay(career, rec.day);
+    const gain = day?.dive ? careerGainPlate(career, day, marks, resultsNews(career, this.theme.career, playerId(), rec.day)) : null;
     const deepestTier = Math.max(0, ...rec.answers.map((a) => a.tier));
 
     const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
@@ -1049,9 +1121,10 @@ export class App {
         'div',
         { class: 'plate stat-strip' },
         h('div', {}, h('span', { class: 'v' }, `${rec.sanity}%`), h('span', { class: 'k' }, 'sanity')),
-        h('div', {}, h('span', { class: 'v' }, String(stats.streak)), h('span', { class: 'k' }, 'day streak')),
+        h('div', {}, h('span', { class: 'v' }, String(career.streak)), h('span', { class: 'k' }, career.streak === 1 ? 'day lantern' : 'days lantern')),
         h('div', {}, h('span', { class: 'v rank' }, rank.name), h('span', { class: 'k' }, 'rank')),
       ),
+      gain?.el ?? null,
       h('div', { class: 'share-row' }, shareBtn, cardBtn),
       !rec.practice && rec.day === dayNumberFor(new Date()) ? this.countdownEl(rec.day) : null,
       log,
@@ -1066,7 +1139,18 @@ export class App {
     this.show(screen);
     const landmarkEl = screen.querySelector<HTMLElement>('.landmark[data-mad]');
     if (landmarkEl) madden(landmarkEl, total, this.reduced);
-    this.announce(`${rec.practice ? 'Practice dive over' : 'Dive complete'}. ${fmtMetres(total)} metres, ${place}.`);
+    if (gain && day) {
+      // The career counts up to its new depth once the log has surfaced.
+      if (!this.reduced) gain.num.textContent = fmtMetres(day.before);
+      const start = window.setTimeout(() => this.loops.push(countUp(gain.num, day.before, day.after, 1800, this.reduced)), this.reduced ? 0 : 900);
+      this.loops.push(() => clearTimeout(start));
+    }
+    const carved = day ? day.milestones.map((i) => marks[i]?.name).filter(Boolean) : [];
+    this.announce(
+      `${rec.practice ? 'Practice dive over' : 'Dive complete'}. ${fmtMetres(total)} metres, ${place}.` +
+        (day?.dive ? ` Career depth ${fmtMetres(day.after)} metres.` : '') +
+        (carved.length ? ` Milestone carved: ${carved.join(', ')}.` : ''),
+    );
     window.setTimeout(() => totalEl.isConnected && !this.sheets.length && totalEl.focus({ preventScroll: true }), this.reduced ? 0 : 450);
   }
 
@@ -1178,6 +1262,10 @@ export class App {
       h('h3', {}, 'Omens and sanity'),
       h('p', {}, 'Each day brings an omen that bends the rules a little. Every diver shares it.'),
       h('p', {}, 'Knowledge has a price. Each metre, each refusal and each unspeakable answer costs a little sanity, and the deep begins to look back. Sanity never changes your depth.'),
+      h('h3', {}, 'Your career'),
+      h('p', {}, 'Every daily dive adds to your career depth. Dive on days in a row and your lantern burns brighter: each full week adds ×0.1 to what a dive earns, up to ×2.'),
+      h('p', {}, 'Every seventh day in a row earns a ward, and you can hold two. A ward keeps the lantern lit through a missed day.'),
+      h('p', {}, 'Miss a day with no ward and the sea gives you back a little, about a third of a usual dive. Milestones, once passed, are carved for good: you never drift above them.'),
     ];
     let sheet: Sheet | null = null;
     // First time through, the way down stays in reach at the foot of the sheet.
@@ -1201,7 +1289,8 @@ export class App {
   private openLogbook() {
     this.sound.click();
     const stats = computeStats(loadDays(), this.today);
-    const rank = cultRankFor(this.theme, stats.streak);
+    const { career } = this.careerNow();
+    const rank = cultRankFor(this.theme, career.streak);
     const most = Math.max(1, ...stats.tierCounts.slice(1));
     const bars = h('div', { class: 'tier-bars' });
     for (const t of this.theme.tiers) {
@@ -1248,9 +1337,10 @@ export class App {
         h('div', {}, h('span', { class: 'v' }, `${fmtMetres(stats.deepest)} m`), h('span', { class: 'k' }, 'deepest')),
         h('div', {}, h('span', { class: 'v' }, `${fmtMetres(stats.average)} m`), h('span', { class: 'k' }, 'average')),
         h('div', {}, h('span', { class: 'v' }, String(stats.unspeakables)), h('span', { class: 'k' }, 'unspeakables')),
-        h('div', {}, h('span', { class: 'v' }, String(stats.streak)), h('span', { class: 'k' }, 'streak')),
-        h('div', {}, h('span', { class: 'v' }, String(stats.bestStreak)), h('span', { class: 'k' }, 'best streak')),
+        h('div', {}, h('span', { class: 'v' }, String(career.streak)), h('span', { class: 'k' }, 'lantern')),
+        h('div', {}, h('span', { class: 'v' }, String(career.bestStreak)), h('span', { class: 'k' }, 'best lantern')),
       ),
+      h('h3', {}, `Career depth: ${fmtMetres(career.depth)} m`),
       h('h3', {}, `Rank: ${rank.name}`),
       h('p', { class: 'flavor' }, 'Dive on consecutive days to rise through the cult.'),
       h('h3', {}, 'Answers by rarity'),
