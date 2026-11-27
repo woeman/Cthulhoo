@@ -143,6 +143,44 @@ not yet earned. You can hold at most two, so show two slots.
 <svg class="cth-ward" data-state="held" viewBox="0 0 32 32"><use href="art/glyphs/marks-sprite.svg#ward"/></svg>
 ```
 
+### Sigil: `.cth-sigil`
+
+One for each question topic on the Logbook: a Drowned Script word hung inside a porthole,
+brightening with the player's strength in that topic. `data-level` runs from 0 to 3:
+
+- **0, unlit:** cut into the plate, with a dashed ring. Dim, but it still reads.
+- **1, kindled:** inked, with a solid ring.
+- **2, burning:** lit in the zone's glow.
+- **3, blazing:** seven rays come out around the ring, and it breathes on the 7 s cycle.
+
+On paper there is no glow, so burning is heavy ink and blazing is the accent red, like a
+rubric in an old book.
+
+| Topic | Sigil (script word) | Meaning |
+|---|---|---|
+| geography | sounding | depth; to measure |
+| science | void | the space between stars |
+| nature | coil | patience; the spiral of a shell |
+| culture | spire | a tower that was not built |
+| history | root | old; before men |
+| myth | sleeper | the one who dreams |
+| food | fang | hunger |
+| language | maw | to speak |
+| sport | talon | to seize |
+| misc | knot | a bargain; loose ends tied together |
+
+```html
+<figure class="cth-sigil" data-level="2">
+  <svg class="cth-sigil__glyph" aria-hidden="true"><use href="art/glyphs/sigils-sprite.svg#sigil-history"/></svg>
+  <figcaption>History <span>burning</span></figcaption>
+</figure>
+```
+
+The sprite is `art/glyphs/sigils-sprite.svg` (`#sigil-geography` and so on), with one file each
+in `art/glyphs/sigils/`. The ring, its dashes and the rays inside each symbol are driven by CSS
+variables (`--sigil-ring`, `--sigil-dash`, `--sigil-rays`). Variables pass into `<use>`, so one
+symbol shows every level. Size it with `--size` (56 px by default; it reads down to 32 px).
+
 ## The main screens
 
 **Guess:** the game thread owns the real screens; these are the art direction for them.
@@ -159,6 +197,69 @@ not yet earned. You can hold at most two, so show two slots.
 4. **Share card.** **Guess:** an image, 1080 × 1350, showing the engraving at your final depth,
    your seals in a row, the depth, and the wordmark. No answers, so it never spoils the puzzle.
 5. **Menu and settings.** Surface paper plates (the ship's cabin), whatever the current depth.
+
+## The Logbook
+
+The career page reads like an expedition's survey chart: one long printed sheet that starts on
+paper at the top and runs down into black water. The showcase has a working sketch of it.
+
+**From the top of the page:**
+
+1. **The title**, set like the cartouche on an old chart: the poetic title in IM Fell English
+   at `--step-4` (for example "Drowned Cartographer of the Third Trench"), and the synopsis
+   under it in italic EB Garamond, one or two lines. The title may take the madness effect
+   below 2,500 m. The synopsis never does.
+2. **The Sigils**, one row of ten, each with its topic and level. On a phone, two rows of five
+   at `--size: 40px`, with the captions at `--step--2` so "Geography" fits its column.
+3. **The lantern and the wards**: the streak, then two ward slots.
+4. **The chart.**
+
+The head of the page (title to wards) sits in the water of the player's career depth, like every
+other screen. Only the chart runs the whole way from paper to the floor.
+
+**The chart:**
+
+- **Depth runs down the page and days run left to right**, so a whole career fits the width
+  and the page grows taller as you sink. Use a **square-root depth scale**, so the shallow
+  zones, where every player starts, get room while 7,000 m still fits; label the axis in true
+  metres. **Guess:** the game build owns the scale. If career depth runs past 7,000 m,
+  continue in the Dreaming Deep's colours below the floor and let milestones mark the way.
+- **The water is the background.** Paint each height with `paletteAt(depth)`: a CSS
+  `linear-gradient` with a stop at every zone boundary does it. Paper (with the paper grain)
+  above 200 m, the ink wash from about 110 to 340 m with a ragged wet edge (an SVG turbulence
+  displacement on that boundary, or the murk texture as a mask), then black water.
+- **The line is the sounding cable**: one continuous 2 px stroke. Ink on paper. Below the wash
+  it glows in each zone's colour (a vertical gradient on the stroke with stops at the zone
+  boundaries, and a copy behind it blurred by 4 px). Days are small ticks across the cable,
+  never dots.
+- **Drift**, after missed days, is the same cable rising, drawn thinner (1.25 px) and dashed
+  2 / 3 in `--color-ink-muted`. Never red, and nothing alarming: drifting is the sea being
+  patient, not a punishment.
+- **Wards**: where a ward saved a day, the cable stays level and the spent hag stone
+  (`#ward-spent`) hangs from it on that day.
+- **Milestones**: a hairline survey line right across the chart at the milestone's depth,
+  dashed 1 / 4 in `--color-rule`; the benchmark (`#milestone`) where the cable crosses it; and
+  the plaque (`.cth-milestone`) beside it, on whichever side has room (let the name wrap when
+  neither side has enough). Show only the next milestone ahead, as `data-state="ahead"`, with its
+  benchmark under today's lead weight.
+- **Today** is the lead weight at the end of the cable, with a typewritten readout, as on the
+  sounding line.
+- **Labels**: depth marks on the left edge at each zone boundary and every 1,000 m, in Special
+  Elite at `--step--2`; zone names in small capitals at the top right of each band; and a few
+  dates along the top edge in the log face ("27 NOV"). Milestones often fall on zone boundaries,
+  so keep the zone names clear of the plaques: step a name down below a plaque, and leave it
+  out where there is no room, because the plaque already says where you are.
+- **Motion**: the page opens scrolled so that today's lead weight is in view. The cable pays
+  itself out over 2.4 s the first time the page opens each day (a clip that widens from left to
+  right, so the descent and the drift draw together), and never on scroll. Reduced motion shows
+  it drawn.
+- **Long careers**: every day keeps its place across the width. Past about 60 days, keep one
+  tick a week instead of one a day, and fewer dates along the top.
+- **Build it as** one SVG for the cable (one path for the descent, one for the drift) over the
+  gradient, with HTML for the plaques and labels, positioned absolutely, so the text stays sharp
+  and screen readers can read it. Give the chart a text alternative, such as "Career depth
+  5,580 m over 41 days, with two drifts and one ward. Three milestones passed; next, The Roofs
+  of the Drowned City at 6,800 m."
 
 ## Accessibility
 

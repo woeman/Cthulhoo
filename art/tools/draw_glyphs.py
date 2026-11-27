@@ -303,6 +303,44 @@ def script_glyph(spec, cell_w=20, with_line=True):
     return ''.join(out)
 
 
+# ------------------------------------------------------------------ Sigils (32 grid)
+# One per question topic, on the Logbook. Each is a Drowned Script word hung inside a
+# porthole: the waterline becomes a chord across the ring. Parts are wired to CSS custom
+# properties so one symbol can show all four brightness levels (see .cth-sigil):
+#   --sigil-ring   opacity of the ring (default 1)
+#   --sigil-dash   dash pattern of the ring (default none)
+#   --sigil-rays   opacity of the seven rays that appear when a Sigil blazes (default 0)
+
+SIGILS = [
+    ('geography', 'sounding', 'Geography: the sounding line, to measure the world'),
+    ('science', 'void', 'Science: the space between stars'),
+    ('nature', 'coil', 'Nature: the coil of a shell, patience'),
+    ('culture', 'spire', 'Culture: a tower that was not built'),
+    ('history', 'root', 'History: old, before men'),
+    ('myth', 'sleeper', 'Myth: the one who dreams'),
+    ('food', 'fang', 'Food: hunger'),
+    ('language', 'maw', 'Language: to speak'),
+    ('sport', 'talon', 'Sport: to seize'),
+    ('misc', 'knot', 'Everything else: a knot of loose ends'),
+]
+
+
+def sigil(glyph_key):
+    c, R, chord_y = 16, 14.0, 8.0
+    half = math.sqrt(R * R - (chord_y - c) ** 2)
+    k = 0.78                                   # glyph cell (20 x 32) scaled into the ring
+    tx, ty = c - 10 * k, chord_y - TOP * k
+    ring = C(c, c, R, style='opacity: var(--sigil-ring, 1); stroke-dasharray: var(--sigil-dash, none)')
+    chord = P(f"M{f(c - half)} {f(chord_y)} L{f(c + half)} {f(chord_y)}")
+    rays = ''
+    for i in range(7):
+        a = math.radians(-90 + 360 * (i + 0.5) / 7)
+        rays += P(f"M{pt(polar(c, c, R + 1.6, a))} L{pt(polar(c, c, R + 3.6, a))}")
+    glyph = (f'<g transform="translate({f(tx)} {f(ty)}) scale({k})" stroke-width="{f(SW / k)}">'
+             + script_glyph(SCRIPT[glyph_key], with_line=False) + '</g>')
+    return ring + chord + glyph + f'<g style="opacity: var(--sigil-rays, 0)">{rays}</g>'
+
+
 def main():
     os.makedirs(OUT, exist_ok=True)
     os.makedirs(os.path.join(OUT, 'script'), exist_ok=True)
@@ -339,6 +377,14 @@ def main():
         marks.append(f'<symbol id="{key}" viewBox="0 0 32 32"><title>{name}</title>{body}</symbol>')
     write(os.path.join(OUT, 'marks-sprite.svg'),
           '<svg xmlns="http://www.w3.org/2000/svg" style="display:none">' + ''.join(marks) + '</svg>\n')
+    os.makedirs(os.path.join(OUT, 'sigils'), exist_ok=True)
+    sigils = []
+    for topic, key, desc in SIGILS:
+        body = stroke_group(sigil(key))
+        write(os.path.join(OUT, 'sigils', f'{topic}.svg'), svg(32, 32, body, viewbox='-4 -4 40 40', title=f'Sigil: {topic}', desc=desc))
+        sigils.append(f'<symbol id="sigil-{topic}" viewBox="-4 -4 40 40"><title>{desc}</title>{body}</symbol>')
+    write(os.path.join(OUT, 'sigils-sprite.svg'),
+          '<svg xmlns="http://www.w3.org/2000/svg" style="display:none">' + ''.join(sigils) + '</svg>\n')
     print('glyphs written to', OUT)
 
 
