@@ -1,0 +1,461 @@
+/* The Cult: the body of the app's sheet of that name. The way in (found a cult,
+   or join one with its sign), and this week's board: each member's week as
+   seven little soundings, today marked, the days to come left empty. */
+
+.cult-body {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.cult-body[aria-busy='true'] {
+  cursor: progress;
+}
+
+.cult-norelay {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* ------------------------------------------------------------ the way in */
+
+.cult-out {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.cult-emblem {
+  justify-self: center;
+  width: 5.5rem;
+  margin-top: var(--space-2);
+  color: var(--color-glow);
+}
+
+.cult-emblem svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.cult-emblem .ce-rule {
+  stroke: currentColor;
+  stroke-width: 0.9;
+}
+
+.cult-emblem .ce-fine {
+  stroke-width: 0.5;
+  opacity: 0.75;
+}
+
+.cult-emblem .ce-ticks line {
+  stroke: currentColor;
+  stroke-width: 0.9;
+  stroke-linecap: round;
+}
+
+.cult-emblem .ce-icon {
+  color: var(--color-ink);
+}
+
+.cult-lede {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-align: center;
+  text-wrap: pretty;
+}
+
+.cult-field {
+  margin-top: var(--space-2);
+}
+
+.cult-msg {
+  margin: 0;
+}
+
+.cult-found {
+  justify-self: center;
+  min-width: min(100%, 16rem);
+  margin-top: var(--space-2);
+}
+
+.cult-or {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin: var(--space-2) 0 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cult-or::before,
+.cult-or::after {
+  content: '';
+  flex: 1;
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.cult-join {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.cult-join-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: var(--space-3);
+}
+
+/* ------------------------------------------------------------ the cult's sign */
+
+.cult-head {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  padding-bottom: var(--space-4);
+  border-bottom: 1px solid var(--color-rule-soft);
+  text-align: center;
+}
+
+.cult-sign {
+  font-size: var(--step-4);
+  text-shadow: 0 0 22px var(--color-glow-faint);
+}
+
+.cult-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-3);
+  min-height: 6rem;
+  margin: 0;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+/* a sounding line going down while the board is read */
+.cult-plumb {
+  position: relative;
+  width: 1px;
+  height: 2.2em;
+  background: linear-gradient(currentColor, transparent);
+  transform-origin: top;
+  animation: cult-plumb 1.4s var(--ease-descent) infinite;
+}
+
+.cult-plumb::after {
+  content: '';
+  position: absolute;
+  left: -3px;
+  bottom: -2px;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--color-glow);
+}
+
+@keyframes cult-plumb {
+  0% {
+    transform: scaleY(0.2);
+  }
+  60%,
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+.cult-fail {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+  padding: var(--space-3) 0;
+  text-align: center;
+}
+
+.cult-fail p {
+  margin: 0;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-refused);
+  text-wrap: pretty;
+}
+
+/* ------------------------------------------------------------ the week */
+
+.cult-week {
+  display: grid;
+}
+
+.cult-week-title {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-1) var(--space-3);
+  margin: 0 0 var(--space-2) !important;
+}
+
+.cult-week-title:focus {
+  outline: none;
+}
+
+.cult-span {
+  font-family: var(--font-log);
+  letter-spacing: 0;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+/* the rows' grid: rank, mark, name, the week's metres; the seven days under the name */
+.cult-row,
+.cult-days-head {
+  --cult-lead: calc(1.5rem + var(--space-2));
+}
+
+.cult-days-head {
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 3px;
+  margin-left: var(--cult-lead);
+  padding-bottom: 2px;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--2);
+  letter-spacing: 0.04em;
+  text-align: center;
+  color: var(--color-ink-muted);
+}
+
+.cult-days-head .is-today {
+  color: var(--color-glow);
+}
+
+.cult-days-head .is-today::after {
+  content: '';
+  display: block;
+  width: 4px;
+  height: 4px;
+  margin: 1px auto 0;
+  border-radius: 50%;
+  background: currentColor;
+}
+
+.cult-board {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.cult-row {
+  display: grid;
+  grid-template-columns: 1.5rem 1.15rem minmax(0, 1fr) auto;
+  grid-template-areas: 'rank mark name metres' '. days days days';
+  align-items: center;
+  gap: 6px var(--space-2);
+  padding: var(--space-2) 0 var(--space-3);
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.cult-row.is-you {
+  position: relative;
+}
+
+.cult-row.is-you::before {
+  content: '';
+  position: absolute;
+  inset: 0 calc(-1 * var(--space-2));
+  z-index: -1;
+  background: color-mix(in oklab, var(--sitter) 7%, transparent);
+}
+
+.cult-rank {
+  grid-area: rank;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cult-row:first-child:not(.is-dry) .cult-rank {
+  color: var(--color-glow);
+}
+
+.cult-mark {
+  grid-area: mark;
+  color: var(--sitter);
+}
+
+.cult-mark svg {
+  width: 0.9rem;
+  height: 1.4rem;
+}
+
+.cult-name {
+  grid-area: name;
+  display: flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  min-width: 0;
+}
+
+.cult-name .n {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.cult-you {
+  flex: none;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cult-metres {
+  grid-area: metres;
+  font-family: var(--font-log);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cult-row.is-dry .cult-metres {
+  color: var(--color-ink-muted);
+}
+
+.cult-days {
+  grid-area: days;
+  display: grid;
+  grid-template-columns: repeat(7, minmax(0, 1fr));
+  gap: 3px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cult-day {
+  display: grid;
+  justify-items: center;
+  gap: 3px;
+  min-width: 0;
+}
+
+/* a day as a sounding: the surface at the top, the day's dive hatched down from it */
+.cult-day-col {
+  position: relative;
+  width: 100%;
+  height: 28px;
+  overflow: hidden;
+  border: 1px solid var(--color-rule-soft);
+  border-top-color: var(--color-rule);
+}
+
+.cult-day-line {
+  position: absolute;
+  inset: 0 0 auto;
+  height: calc(var(--fill, 0) * 100%);
+  background: repeating-linear-gradient(180deg, color-mix(in oklab, var(--sitter) 80%, transparent) 0 2px, transparent 2px 4px);
+  border-bottom: 2px solid var(--sitter);
+}
+
+.cult-day:not(.has-dive) .cult-day-line {
+  display: none;
+}
+
+.cult-day.is-today .cult-day-col {
+  border-color: var(--color-glow);
+  box-shadow: 0 0 0 1px var(--color-glow-faint), 0 0 10px var(--color-glow-faint);
+}
+
+.cult-day.is-future .cult-day-col {
+  border-style: dotted;
+  border-top-style: dotted;
+  border-color: var(--color-rule-soft);
+  opacity: 0.6;
+}
+
+.cult-day-v {
+  min-height: 1em;
+  font-family: var(--font-log);
+  font-size: 0.68rem;
+  line-height: 1;
+  white-space: nowrap;
+  color: var(--color-ink-muted);
+}
+
+.cult-day.has-dive .cult-day-v {
+  color: var(--color-ink);
+}
+
+/* ------------------------------------------------------------ the cult's week, and last week's Herald */
+
+.cult-stats {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--space-3);
+}
+
+.cult-stat {
+  display: grid;
+  align-content: start;
+  gap: 2px;
+  padding: var(--space-3);
+  border: 1px solid var(--color-rule-soft);
+  min-width: 0;
+}
+
+.cult-stat .v {
+  font-family: var(--font-log);
+  font-size: var(--step-2);
+  line-height: 1.15;
+  overflow-wrap: anywhere;
+}
+
+.cult-stat .v.n {
+  font-family: var(--font-display);
+  color: var(--color-glow);
+}
+
+.cult-stat .v.is-none {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.cult-stat .k {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.cult-leave {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-3);
+  padding-top: var(--space-2);
+  text-align: center;
+}
+
+.cult-leave-note {
+  margin: 0;
+  max-width: 24rem;
+  text-wrap: pretty;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .cult-plumb {
+    animation: none;
+  }
+}
+
+.reduced-motion .cult-plumb {
+  animation: none;
+}
