@@ -181,6 +181,46 @@ in `art/glyphs/sigils/`. The ring, its dashes and the rays inside each symbol ar
 variables (`--sigil-ring`, `--sigil-dash`, `--sigil-rays`). Variables pass into `<use>`, so one
 symbol shows every level. Size it with `--size` (56 px by default; it reads down to 32 px).
 
+### Tome: `.cth-tome`
+
+A page of the Drowned Codex, for the riddles mode (the Whispering Deep). Like the telegram it
+is **always paper**, whatever the depth: stained at the edges by old water, foxed, with a red
+drop cap, a double rule, and a **catchword** at the foot, the first word of the next page, as old
+printers set it. Below the surface the page keeps its paper and your lamp lights it.
+
+It has two states, and both are the same page:
+
+- **The riddle.** `.cth-tome__head` (the book on the left, the folio on the right), the verse in
+  `.cth-tome__verse` as one `<p>` with a `<br>` between lines (so the drop cap sinks into three of
+  them), the rule, and `.cth-tome__foot` (breaths left, and the catchword).
+- **Solved**, with `data-state="solved"`: the page shows its text. `.cth-tome__title` holds the
+  riddle's `page.title`, `.cth-tome__text` its `page.text` (one `<p>` per paragraph), and last, the
+  player's answer is written into the margin in the log hand, `.cth-tome__margin`, which inks
+  itself in.
+
+```html
+<article class="cth-tome" data-state="solved" style="--tome-fox: 70% 30%">
+  <header class="cth-tome__head"><span>The Drowned Codex</span><span>Folio xiv</span></header>
+  <h3 class="cth-tome__title">Of the Tide That Keeps Time</h3>
+  <div class="cth-tome__text"><p>The sea rises and falls twice in a little under twenty-five hours…</p></div>
+  <hr class="cth-tome__rule">
+  <footer class="cth-tome__foot"><span>The Whispering Deep</span><span class="cth-tome__catchword">Beneath</span></footer>
+  <p class="cth-tome__margin">Tide. One hint, 700 m.</p>
+</article>
+```
+
+- Folios are numbered in small Roman numerals. **Guess:** number them in the order the player
+  solved them, so their Codex never has a gap.
+- The riddle's catchword is the first word of the page it hides, so long as that word does not
+  give the answer away (a title in the house style starts "Of the…"). On a solved page, use the
+  first word of the next page in the player's Codex, or leave it out.
+- Vary `--tome-fox` (a background position) from page to page so the foxing never repeats. The
+  paper colours are the page's own (`--tome-paper`, `--tome-ink`, `--tome-rubric`, `--tome-muted`,
+  `--tome-stain`), not the zone's.
+- Up to 34rem wide. When the page is narrower than 26rem, the verse steps down a size so its
+  lines stay whole.
+- Reduced motion: the margin note appears without inking itself in.
+
 ## The main screens
 
 **Guess:** the game thread owns the real screens; these are the art direction for them.
@@ -213,6 +253,9 @@ paper at the top and runs down into black water. The showcase has a working sket
    at `--size: 40px`, with the captions at `--step--2` so "Geography" fits its column.
 3. **The lantern and the wards**: the streak, then two ward slots.
 4. **The chart.**
+5. **The Drowned Codex**: the pages of every riddle the player has solved, as `.cth-tome` pages
+   (see [Tome](#tome-cth-tome)). **Guess:** below the chart, the newest page open and the rest
+   as a stack of folio numbers to open.
 
 The head of the page (title to wards) sits in the water of the player's career depth, like every
 other screen. Only the chart runs the whole way from paper to the floor.
@@ -260,6 +303,74 @@ other screen. Only the chart runs the whole way from paper to the floor.
   and screen readers can read it. Give the chart a text alternative, such as "Career depth
   5,580 m over 41 days, with two drifts and one ward. Three milestones passed; next, The Roofs
   of the Drowned City at 6,800 m."
+
+## The Séance
+
+Party mode. Its motif is the séance table seen from above, engraved like the bestiary: twelve
+hands laid round a porthole with their fingertips on its rim, and round the edge, like the
+letters of a talking board, the twelve **marks**: the glyphs of the Drowned Script that are not
+letters of the city's true name. A séance holds twelve sitters (`MAX_SITTERS` in the game), and
+each sitter holds a mark, so **seat N belongs to mark N − 1**, clockwise from the top, and a sitter
+always sits at their own letter.
+
+| Seat | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Mark | tide | fang | anchor | talon | sounding | maw | root | veil | spire | knot | hand | void |
+
+Use the same glyph wherever a sitter is shown (a list of who has sat down, their answer at the
+reveal, their diver in the shared view), from `script-sprite.svg` (`#g-tide` and so on).
+
+Each question is a **candle** that burns while it is open and goes out when its time is up, so
+the candle is also the timer: `#seance-candle` shortens as `--seance-burn` goes from 0 to 1.
+Show the night's candles in a row (3, 5 or 7): waiting ones unlit, the one burning, spent ones
+burnt down and out.
+
+Files in [`art/seance/`](../../art/seance/): `seance.svg`, the table at 240 × 240 (92 KB,
+23 KB gzipped), and `seance-sprite.svg` (111 KB, 27 KB gzipped) with these symbols:
+
+| Symbol | What |
+|---|---|
+| `#seance` | the table, viewBox 0 0 240 240 |
+| `#seance-candle` | one candle in its chamberstick, which burns down |
+| `#seance-flame` | the flame and its rays alone |
+| `#seance-hand` | one hand with its lace cuff and its sleeve going into the dark, fingers up |
+| `#seance-porthole` | the porthole alone |
+
+Give the outer `<svg>` a size and let the symbol bring its own viewBox:
+
+```html
+<svg viewBox="0 0 240 240" role="img" aria-label="A séance table: four of twelve chairs taken"><use href="art/seance/seance-sprite.svg#seance"/></svg>
+<svg width="34" height="57" aria-hidden="true" style="--seance-burn: 0.4"><use href="art/seance/seance-sprite.svg#seance-candle"/></svg>
+```
+
+Custom properties, set on the `<svg>` or any parent (they pass into the `<use>`):
+
+| Property | Default | Use |
+|---|---|---|
+| `--seance-hand-N` | `currentColor` | seat N's colour, for its hand, cuff, sleeve and mark |
+| `--seance-seat-N` | `1` | opacity of seat N's hand: about 0.16 for an empty chair. Its mark never fades below 0.35, so the board keeps its letters |
+| `--seance-glass` | `none` | the porthole's glass: light it at the reveal |
+| `--seance-burn` | `0` | on a candle: 0 whole, 1 burnt down to a stub |
+| `--seance-lit` | `1` | on a candle or flame: 0 puts it out |
+| `--seance-flame` | `currentColor` | the flame's colour: the zone glow |
+| `--seance-fade` | `0.8s` | how long a hand or a flame takes to change; 0s for reduced motion |
+| `--beast-body`, `--beast-glow-filter` | as on the bestiary plates | the fill behind the lines, and the flame's glow |
+
+- **The lobby.** The room code sits in the glass, in the display capitals on one line, as HTML
+  laid over the middle quarter of the motif. As each sitter joins, their seat's hand appears in
+  their colour and their mark lights. Empty chairs stay dim. A shared screen (a "table") has no
+  seat.
+- **A question.** Light its candle and run `--seance-burn` from 0 to 1 over the question's
+  seconds (register it with `@property` as a `<number>` and animate it, or set it each frame).
+  When time is up, put it out (`--seance-lit: 0`) and leave it burnt down.
+- **The reveal.** Light the glass (`--seance-glass` in the zone glow at about 30 %), then show
+  the answers together, each with its sitter's mark. The Herald of the Deep's name can sit in the
+  glass. Register `--seance-glass` with `@property` (syntax `<color>`) so the light comes up
+  slowly; hands and flames fade by themselves.
+- **Pass and play** (one phone, up to eight sitters) uses the same table: seats 1 to 8 at most.
+- Give the table a text alternative that says who has sat down, such as "A séance table: four
+  of twelve chairs taken, by Wren, Harrow, Ilse and Bram."
+- Regenerate with `python3 art/tools/draw_seance.py`.
 
 ## Accessibility
 

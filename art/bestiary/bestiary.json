@@ -1,0 +1,146 @@
+[
+  {
+    "id": "lions-mane",
+    "name": "Lion's mane jellyfish",
+    "zone": "surface",
+    "note": "Cyanea capillata: a bell as wide as a cartwheel and a mane of threads that trails for thirty metres."
+  },
+  {
+    "id": "man-o-war",
+    "name": "Portuguese man o' war",
+    "zone": "surface",
+    "note": "Physalia physalis: not one animal but a colony. A float sails the surface; the threads below sting."
+  },
+  {
+    "id": "leafy-seadragon",
+    "name": "Leafy seadragon",
+    "zone": "surface",
+    "note": "Phycodurus eques: a pipefish dressed as drifting weed. The leaves are skin, not fins."
+  },
+  {
+    "id": "sunfish",
+    "name": "Ocean sunfish",
+    "zone": "surface",
+    "note": "Mola mola: the heaviest bony fish, a head with a fin above and below and no tail at all."
+  },
+  {
+    "id": "barreleye",
+    "name": "Barreleye",
+    "zone": "twilight",
+    "note": "Macropinna microstoma: its head is a clear dome, and the eyes inside it turn to look straight up through it."
+  },
+  {
+    "id": "vampire-squid",
+    "name": "Vampire squid",
+    "zone": "twilight",
+    "note": "Vampyroteuthis infernalis: neither squid nor octopus. It wraps itself in its own cloak and lights its arm tips."
+  },
+  {
+    "id": "hatchetfish",
+    "name": "Hatchetfish",
+    "zone": "twilight",
+    "note": "Argyropelecus: thin as a blade and silver, with lights along its keel to erase its own shadow."
+  },
+  {
+    "id": "siphonophore",
+    "name": "Giant siphonophore",
+    "zone": "twilight",
+    "note": "Praya dubia: one of the longest animals alive, a colony of thousands strung on one stem and fishing with all of them."
+  },
+  {
+    "id": "black-seadevil",
+    "name": "Black seadevil",
+    "zone": "midnight",
+    "note": "Melanocetus johnsonii: a globe of a fish, all mouth, fishing in the dark with a light that grows on its own head."
+  },
+  {
+    "id": "gulper-eel",
+    "name": "Gulper eel",
+    "zone": "midnight",
+    "note": "Eurypharynx pelecanoides: a mouth that unhinges like a net, a body like a whip, and a red light at the end of it."
+  },
+  {
+    "id": "colossal-squid",
+    "name": "Colossal squid",
+    "zone": "midnight",
+    "note": "Mesonychoteuthis hamiltoni: the heaviest invertebrate, with the largest eye of any animal, and hooks that turn in its arms."
+  },
+  {
+    "id": "fangtooth",
+    "name": "Fangtooth",
+    "zone": "midnight",
+    "note": "Anoplogaster cornuta: for its size, the longest teeth of any fish in the sea. Its lower fangs fold up into sockets beside its brain."
+  },
+  {
+    "id": "dumbo-octopus",
+    "name": "Dumbo octopus",
+    "zone": "abyss",
+    "note": "Grimpoteuthis: the deepest-living octopus, which swims by flapping two fins like ears and drifts in its own skirt."
+  },
+  {
+    "id": "tripod-fish",
+    "name": "Tripod fish",
+    "zone": "abyss",
+    "note": "Bathypterois grallator: it stands on the ooze on three long fin rays, faces into the current, and waits."
+  },
+  {
+    "id": "sea-pig",
+    "name": "Sea pig",
+    "zone": "abyss",
+    "note": "Scotoplanes: a sea cucumber that walks the abyssal plain in herds, on fat legs that are really tube feet."
+  },
+  {
+    "id": "xenophyophore",
+    "name": "Xenophyophore",
+    "zone": "abyss",
+    "note": "Syringammina fragilissima: a single cell the size of a fist, which builds itself a house out of the sea floor."
+  },
+  {
+    "id": "snailfish",
+    "name": "Mariana snailfish",
+    "zone": "hadal",
+    "note": "Pseudoliparis swirei: the deepest fish ever caught, soft as jelly, at home under eight hundred atmospheres."
+  },
+  {
+    "id": "amphipod",
+    "name": "Supergiant amphipod",
+    "zone": "hadal",
+    "note": "Alicella gigantea: a beach hopper the length of a hand, scavenging at the bottom of the trenches."
+  },
+  {
+    "id": "sea-cucumber",
+    "name": "Swimming sea cucumber",
+    "zone": "hadal",
+    "note": "Enypniastes eximia: the \"headless chicken monster\", a sea cucumber that swims with a veil and keeps its gut behind glass."
+  },
+  {
+    "id": "deep-one",
+    "name": "A Deep One",
+    "zone": "hadal",
+    "note": "An amphibious thing of the trench floor, gilled and webbed. Fishermen tell older stories about it than scientists do."
+  },
+  {
+    "id": "dagon",
+    "name": "Father Dagon",
+    "zone": "floor",
+    "note": "It came up out of the deep and threw its arms about the stone. The stone is carved in the Drowned Script: the Sleeper sees; the tide returns."
+  },
+  {
+    "id": "hydra",
+    "name": "Mother Hydra",
+    "zone": "floor",
+    "note": "A polyp the height of a tower, crowned with seven arms. Like the small hydras of ponds it does not grow old, and it buds daughters."
+  },
+  {
+    "id": "shoggoth",
+    "name": "A shoggoth",
+    "zone": "floor",
+    "note": "A mass of bubbling, self-lit flesh that takes whatever shape it needs, pouring out of a gate in the city."
+  },
+  {
+    "id": "dreamer",
+    "name": "The Dreamer",
+    "zone": "floor",
+    "note": "Only the eye. The rest of it is the Drowned City, and the city is asleep."
+  }
+]
