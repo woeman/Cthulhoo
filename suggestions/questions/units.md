@@ -1,0 +1,1287 @@
+# Name a unit of measurement.
+
+Question id: `units` · category: science · source: `data/science.json`
+
+Rules: Any unit for measuring something: length, mass, time, temperature, energy, data and so on. Prefixed units such as the kilometre count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (1246 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Metre — Meter
+- Kilogram — Kilo | kg | Kilogramme
+- Inch — Inches
+- Foot — Feet | ft
+- Mile — Miles | Statute mile | Land mile
+- Litre — Liter
+- Second — sec | secs
+- Gram — Gramme
+- Pound — lb | lbs
+- Kilometre — Kilometer | km | Klick | Click | Klicks
+- Centimetre — Centimeter | cm
+
+### Tier 2: common (21)
+
+- Yard — yd | yds
+- Ounce — oz
+- Gallon — gal | Imperial gallon | US gallon
+- Pint — Imperial pint | US pint
+- Minute — min | mins
+- Hour — hr | hrs
+- Ton — Short ton | Long ton
+- Celsius — Centigrade | Degree Celsius | Degrees Celsius | Degree centigrade | Degrees centigrade | Centigrad
+- Fahrenheit — Degree Fahrenheit | Degrees Fahrenheit
+- Kelvin — Degree Kelvin | Degrees Kelvin
+- Millimetre — Millimeter | mm
+- Millilitre — Milliliter | ml
+- Stone
+- Volt
+- Watt
+- Joule
+- Newton
+- Ampere — Amp
+- Calorie — Kilocalorie | kcal | Small calorie | Gram calorie
+- Degree — Degrees
+- Light-year — ly
+
+### Tier 3: known to fans (53)
+
+- Hertz — Hz | Cycles per second | Cycle per second
+- Ohm
+- Pascal — Pa
+- Decibel — dB
+- Acre
+- Hectare
+- Knot
+- Nautical mile — Sea mile | nmi
+- Byte — Octet
+- Bit
+- Megabyte — MB | Meg | Megs
+- Gigabyte — GB | Gig | Gigs
+- Kilobyte — KB
+- Terabyte — TB
+- Horsepower — hp | Brake horsepower | bhp | Metric horsepower
+- Mole — Mol
+- Fathom
+- Furlong
+- Quart — qt
+- Day
+- Week
+- Year — yr | yrs
+- Carat — Karat
+- Parsec
+- Astronomical unit — AU
+- Cup
+- Teaspoon — tsp
+- Tablespoon — tbsp
+- Mach — Mach number
+- Tonne — Metric ton | Metric tonne
+- Kilowatt — kW
+- Kilowatt-hour — kWh
+- Milligram — mg
+- Millisecond
+- Month — Months
+- Square metre — Square meter | m2 | sq m
+- Square foot — Square feet | sq ft
+- Square mile — Square miles
+- Square kilometre — Square kilometer | km2 | sq km
+- Cubic metre — Cubic meter | m3
+- Cubic centimetre — Cubic centimeter | cc | cm3
+- Miles per hour — mph | Mile per hour
+- Kilometres per hour — Kilometers per hour | Kilometre per hour | km/h | kph
+- Metres per second — Meters per second | Metre per second | m/s
+- Revolutions per minute — Revolution per minute | rpm
+- Fluid ounce — fl oz
+- Megahertz — MHz
+- Gigahertz — GHz
+- Kilojoule — kJ
+- Decilitre — Deciliter | dl
+- Centilitre — Centiliter | cl
+- Megapixel — Megapixels | MP
+- Gas mark — Regulo
+
+### Tier 4: obscure (132)
+
+- Lumen
+- Lux
+- Tesla
+- Coulomb
+- Farad
+- Henry
+- Weber
+- Siemens — Mho
+- Candela
+- Becquerel
+- Gray
+- Sievert
+- Radian
+- Bar
+- Atmosphere — atm | Standard atmosphere
+- PSI — Pounds per square inch
+- Ångström
+- Micron — Micrometre | Micrometer
+- Cubit
+- Hand
+- Barrel
+- Bushel
+- Hundredweight — cwt | Long hundredweight
+- League
+- Chain
+- Electronvolt — eV
+- Torr
+- Dram
+- Grain
+- Troy ounce
+- Erg
+- Dyne
+- Gauss
+- Curie
+- Roentgen — Röntgen
+- Rad
+- Rem
+- Scoville
+- Pixel
+- Baud
+- Microgram — mcg
+- Nanometre — Nanometer | nm
+- Nanosecond
+- Microsecond
+- Megawatt
+- Gigawatt
+- Petabyte — PB
+- Decade
+- Century
+- Millennium
+- Fortnight
+- Kilolitre — Kiloliter
+- Microlitre — Microliter
+- Hectolitre — Hectoliter
+- Megalitre — Megaliter
+- Terawatt — TW
+- Milliwatt — mW
+- Gradian — Grad | Gon
+- Milligray
+- Sone
+- Toise
+- Slug
+- Therm
+- Kilohertz — kHz
+- Terahertz — THz
+- Kilobit
+- Megabit
+- Gigabit
+- Terabit
+- Kibibyte — KiB
+- Mebibyte — MiB
+- Gibibyte — GiB
+- Kilovolt — kV
+- Millivolt — mV
+- Milliamp — Milliampere | mA
+- Microamp — Microampere
+- Kilohm — Kiloohm
+- Megohm — Megaohm
+- Microfarad
+- Nanofarad
+- Picofarad
+- Megajoule — MJ
+- Gigajoule — GJ
+- Watt-hour — Wh
+- Megawatt-hour — MWh
+- Gigawatt-hour — GWh
+- Terawatt-hour — TWh
+- Kiloton — Kilotonne
+- Megaton — Megatonne
+- Gigaton — Gigatonne
+- Megapascal — MPa
+- Gigapascal — GPa
+- Kilonewton — kN
+- Millisievert — mSv
+- Microsievert
+- Millimole — mmol
+- Decimetre — Decimeter
+- Picometre — Picometer
+- Nanogram — ng
+- Arcminute — Arcmin | Minute of arc
+- Arcsecond — Arcsec | Second of arc
+- Kiloparsec — kpc
+- Square inch — Square inches
+- Square yard — Square yards
+- Cubic foot — Cubic feet
+- Cubic inch — Cubic inches
+- Cubic yard
+- Dots per inch — dpi
+- Beats per minute — bpm
+- Frames per second — fps
+- Miles per gallon — mpg
+- Ampere-hour — Amp-hour | Ah
+- Milliampere-hour — mAh | Milliamp-hour
+- Tog — Tog rating
+- Denier
+- Dioptre — Diopter
+- Parts per million — ppm | Part per million
+- Bits per second — bps | Bit per second
+- Megabits per second — Mbps | Megabit per second | Mb/s
+- Pound-force — lbf | Pounds-force
+- Kilogram-force — kgf | Kilopond | Kilogramme-force
+- Volt-ampere — VA | Volt-amp
+- Man-hour — Person-hour | Working hour
+- International unit — IU | International units
+- G-force — Standard gravity | Gee
+- Feet per second — Foot per second | ft/s
+- Square centimetre — Square centimeter | cm2 | sq cm
+- Dessertspoon — dsp
+- Jigger
+- Molar — Molarity | Moles per litre | Mole per litre | Moles per liter
+- Pixels per inch — ppi | Pixel per inch
+- FLOPS — Flop | Floating point operations per second
+
+### Tier 5: expert (1026)
+
+- Katal
+- Steradian
+- Peck
+- Gill
+- Pennyweight
+- BTU — British thermal unit
+- Poise
+- Stokes
+- Maxwell
+- Rankine — Degree Rankine | Degrees Rankine
+- Réaumur
+- Dalton — Atomic mass unit | amu | Unified atomic mass unit
+- Planck length
+- Planck time
+- Jiffy
+- Shake
+- Hogshead
+- Firkin
+- Kilderkin
+- Tun
+- Rood
+- Rod — Pole | Perch
+- Link
+- Ell
+- Cable
+- Span
+- Barleycorn
+- Mil — Thou
+- Point — Compass point
+- Pica
+- Em
+- Jansky
+- Nit
+- Sol
+- Megaparsec
+- Light-second
+- Aeon — Eon
+- Exabyte
+- Zettabyte
+- Yottabyte
+- Nibble
+- Pinch
+- Dash
+- Picosecond
+- Femtosecond
+- Millimetre of mercury — mmHg | Millimeter of mercury
+- Hectopascal — Millibar
+- Kilopascal
+- Calorie (food) — Food calorie | Large calorie
+- Gigaparsec
+- Zeptosecond
+- Attosecond
+- Yoctosecond
+- Quettabyte
+- Ronnabyte
+- Tebibyte
+- Femtometre — Femtometer | Fermi
+- Hectometre — Hectometer
+- Decametre — Decameter | Dekametre
+- Decagram — Dekagram
+- Hectogram
+- Picogram
+- Kiloelectronvolt — keV
+- Megaelectronvolt — MeV
+- Gigaelectronvolt — GeV
+- Teraelectronvolt — TeV
+- Millikelvin
+- Nanokelvin
+- Millicurie
+- Centipoise — cP
+- Centistokes
+- Solar mass — Solar masses
+- Solar radius
+- Earth mass
+- Jupiter mass
+- Light-minute
+- Megaannum — Megayear | Myr
+- Gigaannum — Gigayear | Gyr
+- Bel
+- Neper
+- Phon
+- Oersted
+- Gilbert
+- Galileo
+- Shannon
+- Hartley — Ban
+- Rutherford
+- Hartree
+- Rydberg
+- Foot-pound — Foot-pounds
+- Poundal
+- Kip
+- Scruple
+- Minim
+- Cord
+- Acre-foot
+- Are
+- Dunam
+- Rømer — Roemer
+- Delisle
+- Inch of mercury
+- Foot-candle
+- Lustrum
+- Quintal
+- Tael
+- Catty — Jin
+- Picul
+- Maund
+- Verst
+- Tsubo
+- Light-hour
+- Light-day
+- Pace — Passus | Roman pace
+- Roman mile — Mille passus
+- Stadion — Stade | Stadium | Stadia
+- Digit
+- Palm
+- Finger
+- Arshin
+- Sazhen
+- Vershok
+- Li
+- Chi
+- Shaku
+- Bohr radius
+- Earth radius
+- Lunar distance
+- Twip
+- Didot point — Didot
+- Cicero
+- Agate
+- En
+- Siriometer
+- Beard-second
+- Talent
+- Mina
+- Shekel
+- Troy pound
+- Planck mass
+- Momme
+- Arroba
+- Moment
+- Olympiad
+- Kiloannum — Kiloyear | kyr
+- Sidereal day
+- Sidereal year
+- Tropical year — Solar year
+- Lunar month — Synodic month
+- Biennium
+- Triennium
+- Quinquennium
+- Era
+- Epoch
+- Kalpa
+- Yuga
+- Galactic year — Cosmic year
+- Sennight
+- Twelvemonth
+- Ton of TNT — Tonne of TNT | Tons of TNT
+- Tonne of oil equivalent — Ton of oil equivalent
+- Barrel of oil equivalent — BOE
+- Foe — Bethe
+- Inch-pound
+- Horsepower-hour
+- Thermie
+- Kilovolt-ampere — kVA
+- Var — Volt-ampere reactive
+- Ton of refrigeration — Refrigeration ton
+- Decibel-milliwatt — dBm
+- Sthène
+- Ton-force
+- Technical atmosphere
+- Inch of water
+- Centimetre of water — Centimeter of water
+- Pieze
+- Faraday
+- Statcoulomb
+- Statvolt
+- Statampere
+- Abampere — Biot
+- Abcoulomb
+- Abvolt
+- Abohm
+- Franklin
+- Ampere-turn
+- Phot
+- Stilb
+- Lambert
+- Foot-lambert
+- Candlepower — International candle
+- Talbot
+- Mired
+- Banana equivalent dose
+- Millirem
+- Pebibyte — PiB
+- Exbibyte — EiB
+- Zebibyte — ZiB
+- Yobibyte — YiB
+- Kibibit
+- Mebibit
+- Gibibit
+- Nat — Nepit
+- Trit
+- Qubit
+- Kilobits per second — kbps | Kilobit per second
+- Gigabits per second — Gbps | Gigabit per second
+- Megabytes per second — Megabyte per second
+- Teraflops — Teraflop
+- Petaflops — Petaflop
+- Gigaflops — Gigaflop
+- Exaflops — Exaflop
+- Voxel
+- Revolutions per second — rps | Revolution per second
+- Radians per second — Radian per second
+- Milliradian — mrad
+- Turn — Revolution | Full turn
+- Quadrant
+- Milliarcsecond
+- Square degree
+- Inches per second — Inch per second
+- Furlongs per fortnight — Furlong per fortnight
+- Metres per second squared — Meters per second squared | Metre per second squared | m/s2
+- Square millimetre — Square millimeter | mm2 | sq mm
+- Centiare
+- Section
+- Hide
+- Virgate
+- Carucate
+- Oxgang — Bovate
+- Morgen
+- Arpent
+- Bigha
+- Kanal
+- Marla
+- Feddan
+- Rai
+- Mu
+- Tatami
+- Circular mil
+- Shed
+- Cubic millimetre — Cubic millimeter | mm3
+- Cubic kilometre — Cubic kilometer | km3
+- Cubic decimetre — Cubic decimeter | dm3
+- Fluid dram — Fluid drachm | Fluidram
+- Drop
+- Smidgen — Smidge
+- Board foot
+- TEU — Twenty-foot equivalent unit
+- Pottle
+- Puncheon
+- Tierce
+- Rundlet
+- Magnum
+- Jeroboam
+- Rehoboam
+- Methuselah
+- Salmanazar
+- Balthazar
+- Nebuchadnezzar
+- Standard drink
+- Unit of alcohol — Alcohol unit | Units of alcohol
+- Chaldron
+- Litres per 100 kilometres — Liters per 100 kilometers | L/100 km | Litres per hundred kilometres
+- Reyn
+- Pascal-second
+- Molal — Molality
+- Parts per billion — ppb | Part per billion
+- Svedberg
+- Debye
+- Darcy
+- Einstein
+- Langley
+- Clo
+- Tex
+- Decitex — dtex
+- Erlang
+- Mel
+- Cent
+- Octave
+- Semitone
+- Brix — Degrees Brix | Degree Brix
+- Baumé — Degrees Baumé
+- Gauge
+- Dobson unit — DU
+- Hounsfield unit — HU
+- Millihelen — Helen
+- Mickey
+- Eötvös
+- Kayser
+- Solar luminosity
+- Planck temperature
+- Quectometre — Quectometer
+- Rontometre — Rontometer
+- Yoctometre — Yoctometer
+- Zeptometre — Zeptometer
+- Attometre — Attometer
+- Megametre — Megameter
+- Gigametre — Gigameter
+- Terametre — Terameter
+- Petametre — Petameter
+- Exametre — Exameter
+- Zettametre — Zettameter
+- Yottametre — Yottameter
+- Ronnametre — Ronnameter
+- Quettametre — Quettameter
+- Quectogram — Quectogramme
+- Rontogram — Rontogramme
+- Yoctogram — Yoctogramme
+- Zeptogram — Zeptogramme
+- Attogram — Attogramme
+- Femtogram — Femtogramme
+- Centigram — Centigramme
+- Decigram — Decigramme
+- Megagram — Megagramme
+- Gigagram — Gigagramme
+- Teragram — Teragramme
+- Petagram — Petagramme
+- Exagram — Exagramme
+- Zettagram — Zettagramme
+- Yottagram — Yottagramme
+- Ronnagram — Ronnagramme
+- Quettagram — Quettagramme
+- Quectosecond
+- Rontosecond
+- Centisecond
+- Decisecond
+- Decasecond — Dekasecond
+- Hectosecond
+- Kilosecond
+- Megasecond
+- Gigasecond
+- Terasecond
+- Petasecond
+- Exasecond
+- Zettasecond
+- Yottasecond
+- Ronnasecond
+- Quettasecond
+- Quectolitre — Quectoliter
+- Rontolitre — Rontoliter
+- Yoctolitre — Yoctoliter
+- Zeptolitre — Zeptoliter
+- Attolitre — Attoliter
+- Femtolitre — Femtoliter
+- Picolitre — Picoliter
+- Nanolitre — Nanoliter
+- Gigalitre — Gigaliter
+- Teralitre — Teraliter
+- Petalitre — Petaliter
+- Exalitre — Exaliter
+- Zettalitre — Zettaliter
+- Yottalitre — Yottaliter
+- Ronnalitre — Ronnaliter
+- Quettalitre — Quettaliter
+- Quectoampere — Quectoamp
+- Rontoampere — Rontoamp
+- Yoctoampere — Yoctoamp
+- Zeptoampere — Zeptoamp
+- Attoampere — Attoamp
+- Femtoampere — Femtoamp
+- Picoampere — Picoamp
+- Nanoampere — Nanoamp
+- Centiampere — Centiamp
+- Deciampere — Deciamp
+- Decaampere — Decaamp | Dekaampere
+- Hectoampere — Hectoamp
+- Kiloampere — Kiloamp
+- Megaampere — Megaamp
+- Gigaampere — Gigaamp
+- Teraampere — Teraamp
+- Petaampere — Petaamp
+- Exaampere — Exaamp
+- Zettaampere — Zettaamp
+- Yottaampere — Yottaamp
+- Ronnaampere — Ronnaamp
+- Quettaampere — Quettaamp
+- Quectokelvin
+- Rontokelvin
+- Yoctokelvin
+- Zeptokelvin
+- Attokelvin
+- Femtokelvin
+- Picokelvin
+- Microkelvin
+- Centikelvin
+- Decikelvin
+- Decakelvin — Dekakelvin
+- Hectokelvin
+- Kilokelvin
+- Megakelvin
+- Gigakelvin
+- Terakelvin
+- Petakelvin
+- Exakelvin
+- Zettakelvin
+- Yottakelvin
+- Ronnakelvin
+- Quettakelvin
+- Quectomole
+- Rontomole
+- Yoctomole
+- Zeptomole
+- Attomole
+- Femtomole
+- Picomole
+- Nanomole
+- Micromole
+- Centimole
+- Decimole
+- Decamole — Dekamole
+- Hectomole
+- Kilomole
+- Megamole
+- Gigamole
+- Teramole
+- Petamole
+- Examole
+- Zettamole
+- Yottamole
+- Ronnamole
+- Quettamole
+- Quectocandela
+- Rontocandela
+- Yoctocandela
+- Zeptocandela
+- Attocandela
+- Femtocandela
+- Picocandela
+- Nanocandela
+- Microcandela
+- Millicandela
+- Centicandela
+- Decicandela
+- Decacandela — Dekacandela
+- Hectocandela
+- Kilocandela
+- Megacandela
+- Gigacandela
+- Teracandela
+- Petacandela
+- Exacandela
+- Zettacandela
+- Yottacandela
+- Ronnacandela
+- Quettacandela
+- Quectohertz
+- Rontohertz
+- Yoctohertz
+- Zeptohertz
+- Attohertz
+- Femtohertz
+- Picohertz
+- Nanohertz
+- Microhertz
+- Millihertz
+- Centihertz
+- Decihertz
+- Decahertz — Dekahertz
+- Hectohertz
+- Petahertz
+- Exahertz
+- Zettahertz
+- Yottahertz
+- Ronnahertz
+- Quettahertz
+- Quectonewton
+- Rontonewton
+- Yoctonewton
+- Zeptonewton
+- Attonewton
+- Femtonewton
+- Piconewton
+- Nanonewton
+- Micronewton
+- Millinewton
+- Centinewton
+- Decinewton
+- Decanewton — Dekanewton
+- Hectonewton
+- Meganewton
+- Giganewton
+- Teranewton
+- Petanewton
+- Exanewton
+- Zettanewton
+- Yottanewton
+- Ronnanewton
+- Quettanewton
+- Quectopascal
+- Rontopascal
+- Yoctopascal
+- Zeptopascal
+- Attopascal
+- Femtopascal
+- Picopascal
+- Nanopascal
+- Micropascal
+- Millipascal
+- Centipascal
+- Decipascal
+- Decapascal — Dekapascal
+- Terapascal
+- Petapascal
+- Exapascal
+- Zettapascal
+- Yottapascal
+- Ronnapascal
+- Quettapascal
+- Quectojoule
+- Rontojoule
+- Yoctojoule
+- Zeptojoule
+- Attojoule
+- Femtojoule
+- Picojoule
+- Nanojoule
+- Microjoule
+- Millijoule
+- Centijoule
+- Decijoule
+- Decajoule — Dekajoule
+- Hectojoule
+- Terajoule
+- Petajoule
+- Exajoule
+- Zettajoule
+- Yottajoule
+- Ronnajoule
+- Quettajoule
+- Quectowatt
+- Rontowatt
+- Yoctowatt
+- Zeptowatt
+- Attowatt
+- Femtowatt
+- Picowatt
+- Nanowatt
+- Microwatt
+- Centiwatt
+- Deciwatt
+- Decawatt — Dekawatt
+- Hectowatt
+- Petawatt
+- Exawatt
+- Zettawatt
+- Yottawatt
+- Ronnawatt
+- Quettawatt
+- Quectocoulomb
+- Rontocoulomb
+- Yoctocoulomb
+- Zeptocoulomb
+- Attocoulomb
+- Femtocoulomb
+- Picocoulomb
+- Nanocoulomb
+- Microcoulomb
+- Millicoulomb
+- Centicoulomb
+- Decicoulomb
+- Decacoulomb — Dekacoulomb
+- Hectocoulomb
+- Kilocoulomb
+- Megacoulomb
+- Gigacoulomb
+- Teracoulomb
+- Petacoulomb
+- Exacoulomb
+- Zettacoulomb
+- Yottacoulomb
+- Ronnacoulomb
+- Quettacoulomb
+- Quectovolt
+- Rontovolt
+- Yoctovolt
+- Zeptovolt
+- Attovolt
+- Femtovolt
+- Picovolt
+- Nanovolt
+- Microvolt
+- Centivolt
+- Decivolt
+- Decavolt — Dekavolt
+- Hectovolt
+- Megavolt
+- Gigavolt
+- Teravolt
+- Petavolt
+- Exavolt
+- Zettavolt
+- Yottavolt
+- Ronnavolt
+- Quettavolt
+- Quectofarad
+- Rontofarad
+- Yoctofarad
+- Zeptofarad
+- Attofarad
+- Femtofarad
+- Millifarad
+- Centifarad
+- Decifarad
+- Decafarad — Dekafarad
+- Hectofarad
+- Kilofarad
+- Megafarad
+- Gigafarad
+- Terafarad
+- Petafarad
+- Exafarad
+- Zettafarad
+- Yottafarad
+- Ronnafarad
+- Quettafarad
+- Quectoohm
+- Rontoohm
+- Yoctoohm
+- Zeptoohm
+- Attoohm
+- Femtoohm
+- Picoohm
+- Nanoohm
+- Microohm
+- Milliohm
+- Centiohm
+- Deciohm
+- Decaohm — Dekaohm
+- Hectoohm
+- Gigaohm
+- Teraohm
+- Petaohm
+- Exaohm
+- Zettaohm
+- Yottaohm
+- Ronnaohm
+- Quettaohm
+- Quectosiemens
+- Rontosiemens
+- Yoctosiemens
+- Zeptosiemens
+- Attosiemens
+- Femtosiemens
+- Picosiemens
+- Nanosiemens
+- Microsiemens
+- Millisiemens
+- Centisiemens
+- Decisiemens
+- Decasiemens — Dekasiemens
+- Hectosiemens
+- Kilosiemens
+- Megasiemens
+- Gigasiemens
+- Terasiemens
+- Petasiemens
+- Exasiemens
+- Zettasiemens
+- Yottasiemens
+- Ronnasiemens
+- Quettasiemens
+- Quectoweber
+- Rontoweber
+- Yoctoweber
+- Zeptoweber
+- Attoweber
+- Femtoweber
+- Picoweber
+- Nanoweber
+- Microweber
+- Milliweber
+- Centiweber
+- Deciweber
+- Decaweber — Dekaweber
+- Hectoweber
+- Kiloweber
+- Megaweber
+- Gigaweber
+- Teraweber
+- Petaweber
+- Exaweber
+- Zettaweber
+- Yottaweber
+- Ronnaweber
+- Quettaweber
+- Quectotesla
+- Rontotesla
+- Yoctotesla
+- Zeptotesla
+- Attotesla
+- Femtotesla
+- Picotesla
+- Nanotesla
+- Microtesla
+- Millitesla
+- Centitesla
+- Decitesla
+- Decatesla — Dekatesla
+- Hectotesla
+- Kilotesla
+- Megatesla
+- Gigatesla
+- Teratesla
+- Petatesla
+- Exatesla
+- Zettatesla
+- Yottatesla
+- Ronnatesla
+- Quettatesla
+- Quectohenry
+- Rontohenry
+- Yoctohenry
+- Zeptohenry
+- Attohenry
+- Femtohenry
+- Picohenry
+- Nanohenry
+- Microhenry
+- Millihenry
+- Centihenry
+- Decihenry
+- Decahenry — Dekahenry
+- Hectohenry
+- Kilohenry
+- Megahenry
+- Gigahenry
+- Terahenry
+- Petahenry
+- Exahenry
+- Zettahenry
+- Yottahenry
+- Ronnahenry
+- Quettahenry
+- Quectolumen
+- Rontolumen
+- Yoctolumen
+- Zeptolumen
+- Attolumen
+- Femtolumen
+- Picolumen
+- Nanolumen
+- Microlumen
+- Millilumen
+- Centilumen
+- Decilumen
+- Decalumen — Dekalumen
+- Hectolumen
+- Kilolumen
+- Megalumen
+- Gigalumen
+- Teralumen
+- Petalumen
+- Exalumen
+- Zettalumen
+- Yottalumen
+- Ronnalumen
+- Quettalumen
+- Quectolux
+- Rontolux
+- Yoctolux
+- Zeptolux
+- Attolux
+- Femtolux
+- Picolux
+- Nanolux
+- Microlux
+- Millilux
+- Centilux
+- Decilux
+- Decalux — Dekalux
+- Hectolux
+- Kilolux
+- Megalux
+- Gigalux
+- Teralux
+- Petalux
+- Exalux
+- Zettalux
+- Yottalux
+- Ronnalux
+- Quettalux
+- Quectobecquerel
+- Rontobecquerel
+- Yoctobecquerel
+- Zeptobecquerel
+- Attobecquerel
+- Femtobecquerel
+- Picobecquerel
+- Nanobecquerel
+- Microbecquerel
+- Millibecquerel
+- Centibecquerel
+- Decibecquerel
+- Decabecquerel — Dekabecquerel
+- Hectobecquerel
+- Kilobecquerel
+- Megabecquerel
+- Gigabecquerel
+- Terabecquerel
+- Petabecquerel
+- Exabecquerel
+- Zettabecquerel
+- Yottabecquerel
+- Ronnabecquerel
+- Quettabecquerel
+- Quectogray
+- Rontogray
+- Yoctogray
+- Zeptogray
+- Attogray
+- Femtogray
+- Picogray
+- Nanogray
+- Microgray
+- Centigray
+- Decigray
+- Decagray — Dekagray
+- Hectogray
+- Megagray
+- Gigagray
+- Teragray
+- Petagray
+- Exagray
+- Zettagray
+- Yottagray
+- Ronnagray
+- Quettagray
+- Quectosievert
+- Rontosievert
+- Yoctosievert
+- Zeptosievert
+- Attosievert
+- Femtosievert
+- Picosievert
+- Nanosievert
+- Centisievert
+- Decisievert
+- Decasievert — Dekasievert
+- Hectosievert
+- Kilosievert
+- Megasievert
+- Gigasievert
+- Terasievert
+- Petasievert
+- Exasievert
+- Zettasievert
+- Yottasievert
+- Ronnasievert
+- Quettasievert
+- Quectokatal
+- Rontokatal
+- Yoctokatal
+- Zeptokatal
+- Attokatal
+- Femtokatal
+- Picokatal
+- Nanokatal
+- Microkatal
+- Millikatal
+- Centikatal
+- Decikatal
+- Decakatal — Dekakatal
+- Hectokatal
+- Kilokatal
+- Megakatal
+- Gigakatal
+- Terakatal
+- Petakatal
+- Exakatal
+- Zettakatal
+- Yottakatal
+- Ronnakatal
+- Quettakatal
+- Quectoelectronvolt
+- Rontoelectronvolt
+- Yoctoelectronvolt
+- Zeptoelectronvolt
+- Attoelectronvolt
+- Femtoelectronvolt
+- Picoelectronvolt
+- Nanoelectronvolt
+- Microelectronvolt
+- Millielectronvolt
+- Centielectronvolt
+- Decielectronvolt
+- Decaelectronvolt — Dekaelectronvolt
+- Hectoelectronvolt
+- Petaelectronvolt
+- Exaelectronvolt
+- Zettaelectronvolt
+- Yottaelectronvolt
+- Ronnaelectronvolt
+- Quettaelectronvolt
+- Quectobar
+- Rontobar
+- Yoctobar
+- Zeptobar
+- Attobar
+- Femtobar
+- Picobar
+- Nanobar
+- Microbar
+- Centibar
+- Decibar
+- Decabar — Dekabar
+- Hectobar
+- Kilobar
+- Megabar
+- Gigabar
+- Terabar
+- Petabar
+- Exabar
+- Zettabar
+- Yottabar
+- Ronnabar
+- Quettabar
+- Quectocalorie
+- Rontocalorie
+- Yoctocalorie
+- Zeptocalorie
+- Attocalorie
+- Femtocalorie
+- Picocalorie
+- Nanocalorie
+- Microcalorie
+- Millicalorie
+- Centicalorie
+- Decicalorie
+- Decacalorie — Dekacalorie
+- Hectocalorie
+- Megacalorie
+- Gigacalorie
+- Teracalorie
+- Petacalorie
+- Exacalorie
+- Zettacalorie
+- Yottacalorie
+- Ronnacalorie
+- Quettacalorie
+- Quectocurie
+- Rontocurie
+- Yoctocurie
+- Zeptocurie
+- Attocurie
+- Femtocurie
+- Picocurie
+- Nanocurie
+- Microcurie
+- Centicurie
+- Decicurie
+- Decacurie — Dekacurie
+- Hectocurie
+- Kilocurie
+- Megacurie
+- Gigacurie
+- Teracurie
+- Petacurie
+- Exacurie
+- Zettacurie
+- Yottacurie
+- Ronnacurie
+- Quettacurie
+- Quectogauss
+- Rontogauss
+- Yoctogauss
+- Zeptogauss
+- Attogauss
+- Femtogauss
+- Picogauss
+- Nanogauss
+- Microgauss
+- Milligauss
+- Centigauss
+- Decigauss
+- Decagauss — Dekagauss
+- Hectogauss
+- Kilogauss
+- Megagauss
+- Gigagauss
+- Teragauss
+- Petagauss
+- Exagauss
+- Zettagauss
+- Yottagauss
+- Ronnagauss
+- Quettagauss
+- Quectoparsec
+- Rontoparsec
+- Yoctoparsec
+- Zeptoparsec
+- Attoparsec
+- Femtoparsec
+- Picoparsec
+- Nanoparsec
+- Microparsec
+- Milliparsec
+- Centiparsec
+- Deciparsec
+- Decaparsec — Dekaparsec
+- Hectoparsec
+- Teraparsec
+- Petaparsec
+- Exaparsec
+- Zettaparsec
+- Yottaparsec
+- Ronnaparsec
+- Quettaparsec
+- Decatonne — Dekatonne
+- Hectotonne
+- Teratonne
+- Petatonne
+- Exatonne
+- Zettatonne
+- Yottatonne
+- Ronnatonne
+- Quettatonne
+- Decabit — Dekabit
+- Hectobit
+- Petabit
+- Exabit
+- Zettabit
+- Yottabit
+- Ronnabit
+- Quettabit
+- Decabyte — Dekabyte
+- Hectobyte
+
+### Tier 6: rare jackpots (3)
+
+- Smoot
+- Sverdrup
+- Barn
+
+## Refused on purpose (7)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Richter scale | Richter | Beaufort scale | Beaufort | Mohs scale | pH | pH scale | Fujita scale | Enhanced Fujita scale | Saffir-Simpson scale | Moment magnitude scale — "A scale rather than a unit. The deep is a pedant."
+- Banana | Bananas | Banana for scale | Football pitch | Football field | Olympic swimming pool | Double-decker bus | Blue whale | Size of Wales — "Only for scale."
+- Dozen | Gross | Score | Baker's dozen | Half-dozen | Half a dozen | Pair | Brace — "A number, not a measurement."
+- Ruler | Tape measure | Thermometer | Scales | Barometer | Clock | Stopwatch | Speedometer | Odometer | Protractor | Measuring tape | Measuring jug | Yardstick | Metre stick | Metre rule — "That measures things. It is not what they're measured in."
+- Length | Weight | Distance | Temperature | Volume | Energy | Pressure | Height | Density | Frequency | Velocity — "That's what gets measured. Name a unit that measures it."
+- Unit of measurement | Units of measurement | Measurement | SI unit | SI units | Unit of measure — "That's the category itself. Name a particular one."
+- Metric system | Metric | Imperial | Imperial system | Imperial units | SI | International System of Units | US customary units | CGS | MKS — "A whole system of units. Name one of them."

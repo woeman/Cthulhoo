@@ -1,0 +1,476 @@
+# Name a famous shipwreck.
+
+Question id: `shipwrecks` · category: history · source: `data/history.json`
+
+Rules: Any real ship that was wrecked, sank or was lost at sea, in any century. Submarines count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (411 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (1)
+
+- Titanic — RMS Titanic | Titanc | Titani | SS Titanic | HMS Titanic
+
+### Tier 2: common (12)
+
+- Lusitania — RMS Lusitania | SS Lusitania
+- Mary Rose — Henry VIII's flagship
+- Bismarck — KMS Bismarck | DKM Bismarck | Battleship Bismarck
+- Edmund Fitzgerald — SS Edmund Fitzgerald | The Fitz | Fitzgerald | Big Fitz | Mighty Fitz
+- Endurance — SY Endurance | Shackleton's ship
+- Costa Concordia — Concordia
+- Mary Celeste — Marie Celeste
+- USS Arizona — Arizona | Arizona Memorial
+- Britannic — HMHS Britannic | RMS Britannic
+- Andrea Doria — SS Andrea Doria
+- Bounty — HMS Bounty | HMAV Bounty | Bligh's ship
+- Santa María — La Santa María | La Gallega | Columbus's ship | Columbus's flagship
+
+### Tier 3: known to fans (36)
+
+- Vasa — Wasa
+- Yamato — IJN Yamato | Battleship Yamato
+- HMS Hood — Hood
+- Wilhelm Gustloff — MV Wilhelm Gustloff | Gustloff
+- Empress of Ireland — RMS Empress of Ireland
+- Kursk — K-141 Kursk
+- USS Indianapolis — Indianapolis
+- HMS Erebus — Erebus | Franklin's ship | Franklin expedition
+- HMS Terror — Terror
+- Whydah Gally — Whydah | Whydah Galley
+- Queen Anne's Revenge — Blackbeard's ship
+- Batavia
+- MS Estonia — Estonia | MV Estonia
+- Herald of Free Enterprise — MS Herald of Free Enterprise | Zeebrugge ferry
+- Essex — Whaleship Essex
+- Medusa — Méduse | La Méduse | Raft of the Medusa
+- Admiral Graf Spee — Graf Spee | KMS Admiral Graf Spee
+- Tirpitz — KMS Tirpitz
+- Scharnhorst — KMS Scharnhorst | SMS Scharnhorst
+- Lancastria — RMS Lancastria | HMT Lancastria
+- Antikythera wreck — Antikythera | Antikythera shipwreck
+- Sultana — SS Sultana
+- Eastland — SS Eastland
+- Doña Paz — MV Doña Paz
+- Torrey Canyon — SS Torrey Canyon
+- Rainbow Warrior
+- SS Central America — Central America | Ship of Gold
+- HMS Birkenhead — Birkenhead
+- USS Maine — Maine
+- General Belgrano — Belgrano | ARA General Belgrano
+- Moskva — Moskva cruiser
+- Sewol — MV Sewol
+- Musashi — IJN Musashi
+- Titan — OceanGate Titan | Titan submersible | Titan sub
+- HMS Wager — Wager
+- USS Cyclops — Cyclops
+
+### Tier 4: obscure (104)
+
+- Nuestra Señora de Atocha — Atocha
+- San José — San José galleon
+- Royal Charter
+- General Slocum — PS General Slocum
+- HMS Royal Oak — Royal Oak
+- USS Thresher — Thresher
+- Goya
+- Cap Arcona
+- Princess Alice — SS Princess Alice
+- SS Thistlegorm — Thistlegorm
+- SS Yongala — Yongala
+- Amoco Cadiz
+- Hunley — H. L. Hunley | CSS Hunley
+- Monitor — USS Monitor
+- Kronan
+- Uluburun — Uluburun shipwreck
+- Le Griffon — Griffon
+- SS Waratah — Waratah
+- HMS Prince of Wales — Prince of Wales
+- HMS Repulse — Repulse
+- Akagi — IJN Akagi
+- Kaga — IJN Kaga
+- Soryu — IJN Soryu
+- Hiryu — IJN Hiryu
+- USS Yorktown — Yorktown
+- USS Lexington — Lexington
+- PT-109
+- Andrea Gail
+- Carpathia — RMS Carpathia
+- USS Scorpion — Scorpion
+- El Faro — SS El Faro
+- Le Joola — Joola | MV Le Joola
+- Achille Lauro — MS Achille Lauro
+- Laconia — RMS Laconia
+- CSS Alabama — Alabama
+- Merrimack — CSS Virginia | USS Merrimack
+- White Ship — Blanche-Nef | La Blanche-Nef
+- SS Californian — Californian
+- RMS Republic — Republic
+- RMS Leinster — Leinster
+- SS Morro Castle — Morro Castle
+- SS President Coolidge — President Coolidge
+- Zenobia — MS Zenobia
+- HMS Invincible — Invincible
+- HMS Indefatigable — Indefatigable
+- HMS Hampshire — Hampshire
+- SMS Blücher — Blücher
+- Szent István — SMS Szent István
+- SS Mont-Blanc — Mont-Blanc
+- Shinano — IJN Shinano
+- USS Oklahoma — Oklahoma
+- USS Hornet — Hornet
+- USS Juneau — Juneau
+- USS Johnston — Johnston
+- USS Reuben James — Reuben James
+- HMS Ark Royal — Ark Royal
+- HMS Barham — Barham
+- HMS Glorious — Glorious
+- HMS Edinburgh — Edinburgh
+- HMS Thetis — Thetis
+- HMS Sheffield — Sheffield
+- SS Athenia — Athenia
+- SS City of Benares — City of Benares
+- Montevideo Maru
+- Arandora Star
+- MV Struma — Struma
+- SS Richard Montgomery — Richard Montgomery
+- USAT Dorchester — Dorchester | SS Dorchester
+- Armenia — MV Armenia
+- Admiral Nakhimov — SS Admiral Nakhimov
+- Mikhail Lermontov — MS Mikhail Lermontov
+- Novorossiysk — Giulio Cesare
+- Toya Maru
+- Ertuğrul — Ottoman frigate Ertuğrul | Ertogrul
+- MV Salem Express — Salem Express
+- TEV Wahine — Wahine
+- Loch Ard
+- HMAS Sydney
+- AHS Centaur — Centaur | HMAS Centaur
+- HMS Orpheus — Orpheus
+- Mignonette
+- Forfarshire — SS Forfarshire
+- HMS Eurydice — Eurydice
+- HMS Victoria
+- HMS Association — Scilly naval disaster
+- L'Orient — Orient
+- Bonhomme Richard — USS Bonhomme Richard
+- HMS Endeavour — Endeavour | Cook's ship | Lord Sandwich | HM Bark Endeavour
+- Karluk
+- Carroll A. Deering — Carroll Deering
+- Prestige — MV Prestige
+- Deepwater Horizon
+- MV Derbyshire — Derbyshire
+- Bayesian
+- Marchioness
+- KRI Nanggala — Nanggala
+- ROKS Cheonan — Cheonan
+- U-20 — SM U-20
+- U-869
+- USS Housatonic — Housatonic
+- La Girona — Girona
+- Clotilda
+- RMS Rhone — Rhone
+- SMS Emden — Emden
+
+### Tier 5: expert (256)
+
+- Flor de la Mar
+- Belitung wreck — Belitung
+- Nanhai One — Nanhai No. 1
+- Mars
+- HMS Victory (1737) — HMS Victory 1744 | Victory 1744 | Victory 1737 | Balchin's Victory
+- Kyrenia ship — Kyrenia
+- La Belle
+- SS Atlantic
+- SS Arctic
+- Pamir
+- HMS Queen Mary
+- K-129
+- Komsomolets — K-278 Komsomolets | K-278
+- ARA San Juan — San Juan
+- Normandie — SS Normandie
+- HMS Royal George — Royal George
+- Lutine — HMS Lutine
+- Sea Venture
+- HMS Pandora — Pandora
+- Mendi — SS Mendi
+- Gneisenau — KMS Gneisenau | SMS Gneisenau
+- RMS Queen Elizabeth — Queen Elizabeth | Seawise University
+- SS Pacific
+- SS Brother Jonathan — Brother Jonathan
+- SS Vestris — Vestris
+- SS Noronic — Noronic
+- SS Daniel J. Morrell — Daniel J. Morrell
+- SS Carl D. Bradley — Carl D. Bradley
+- Lady Elgin — PS Lady Elgin
+- MV Princess Victoria — Princess Victoria
+- Fujikawa Maru
+- HMS Defence
+- HMS Black Prince
+- SMS Lützow — Lützow
+- SMS Pommern
+- SMS Wiesbaden
+- HMS Aboukir
+- HMS Cressy
+- HMS Hogue
+- HMS Audacious
+- HMS Formidable
+- HMS Goliath
+- HMS Majestic
+- HMS Triumph
+- HMS Irresistible
+- HMS Ocean
+- Bouvet
+- HMS Natal
+- HMS Vanguard (1909) — HMS Vanguard
+- HMS Bulwark
+- SMS Königsberg
+- Léon Gambetta
+- SS Persia
+- RMS Hesperian
+- SS Arabic
+- SS Ancona
+- SS Sussex
+- SS Tuscania
+- HMHS Rohilla — Rohilla
+- SS Laurentic — Laurentic
+- Shokaku
+- Zuikaku
+- Taiho
+- Hiei
+- Kirishima
+- Fuso
+- Yamashiro
+- Mutsu
+- Kongo
+- Nagato
+- USS Utah
+- USS Wasp
+- USS Houston
+- USS Samuel B. Roberts
+- USS Liscome Bay
+- USS Princeton
+- USS Saratoga
+- USS Squalus
+- USS Tang
+- USS Wahoo
+- USS Grunion
+- USS Harder
+- HMS Courageous
+- HMS Hermes
+- HMS Eagle
+- HMS Exeter
+- HMS Dasher
+- HMS Neptune
+- HMS Curacoa
+- HMS Affray
+- HMS Truculent
+- HMS Glowworm
+- HMS Gloucester
+- HMS Coventry
+- HMS Ardent
+- HMS Antelope
+- RFA Sir Galahad — Sir Galahad
+- Atlantic Conveyor — SS Atlantic Conveyor
+- SS General von Steuben — General von Steuben | Steuben
+- Junyo Maru
+- Lisbon Maru
+- Tsushima Maru
+- SS Ceramic
+- SS Leopoldville
+- SS Patria
+- HMT Rohna — Rohna
+- K-8
+- K-219
+- K-159
+- Petropavlovsk
+- Varyag
+- Knyaz Suvorov
+- Oslyabya
+- Imperatritsa Mariya — Empress Maria
+- MS Princess of the Stars — Princess of the Stars
+- MV Bukoba
+- MV Spice Islander I — Spice Islander
+- MV Nyerere
+- SS Kiangya — Kiangya
+- Taiping — SS Taiping
+- Eastern Star — Dongfang zhi Xing
+- Al-Salam Boccaccio 98 — Al Salam Boccaccio
+- Admella
+- Dunbar
+- Cataraqui
+- HSK Kormoran — Kormoran
+- HMAS Perth
+- HMAS Voyager
+- SS Gothenburg
+- SS Koombana — Koombana
+- Zuytdorp
+- Vergulde Draeck — Gilt Dragon
+- Zeewijk
+- HMS Sirius
+- SS Tararua
+- SS Penguin
+- Boyd
+- Mahdia shipwreck — Mahdia
+- Cape Gelidonya wreck — Cape Gelidonya
+- Madrague de Giens
+- Nemi ships — Caligula's ships
+- Skuldelev ships — Skuldelev
+- Grace Dieu
+- Svärdet
+- Gribshunden
+- Bremen cog
+- Newport ship
+- Quanzhou ship
+- Sinan shipwreck — Shinan wreck | Sinan wreck
+- San Juan de Sicilia — Tobermory galleon
+- El Gran Grifón
+- La Trinidad Valencera
+- Santa Margarita
+- Nuestra Señora de las Mercedes
+- Nuestra Señora de la Concepción
+- Adventure Galley
+- HMS Stirling Castle
+- HMS Northumberland
+- HMS London
+- HMS Colossus
+- HMS Captain
+- HMS Atalanta
+- HMS Serpent
+- HMS Sussex
+- HMS Investigator
+- HMS Breadalbane
+- Aurora — SY Aurora
+- Nimrod
+- Terra Nova — SS Terra Nova
+- Quest
+- Polaris
+- Belgica
+- SS Antarctic
+- Ann Alexander
+- Joyita — MV Joyita
+- Lyubov Orlova
+- SS Marine Electric
+- SS Poet
+- SS Marine Sulphur Queen
+- Witchcraft
+- SS Cotopaxi — Cotopaxi
+- Erika
+- Braer
+- MV Wakashio
+- Atlantic Empress
+- MV Golden Ray
+- MS Express Samina
+- MS Scandinavian Star
+- MV Tricolor
+- MV Rena
+- MS Sea Diamond
+- MS Explorer
+- MV Hans Hedtoft
+- TSMS Lakonia — Lakonia
+- SS Yarmouth Castle
+- SS Paris
+- RMS Tayleur — Tayleur
+- SS London
+- SS Schiller
+- SS Deutschland — Wreck of the Deutschland
+- SS Elbe
+- La Bourgogne
+- SS Norge
+- SS Valencia
+- SS Berlin
+- SS Stella
+- SS Mohegan
+- SS Drummond Castle
+- SS Utopia
+- Príncipe de Asturias
+- SS Sirio
+- SS Valbanera
+- SS Afrique
+- Principessa Mafalda
+- MV Neptune
+- USS Kearsarge
+- USS Cairo
+- SS Republic
+- Gaspee
+- Hamilton and Scourge
+- Redoutable
+- Santísima Trinidad
+- Bucentaure
+- Cospatrick
+- Northfleet
+- Grosvenor
+- Halsewell
+- Earl of Abergavenny
+- Arniston
+- Rothsay Castle
+- Amphitrite
+- Neva
+- Schomberg
+- Ly-ee-Moon
+- SS Wairarapa
+- General Grant
+- Grafton
+- SS Elingamite
+- William Brown
+- Henrietta Marie
+- São José Paquete de África
+- Rouse Simmons — Christmas Tree Ship
+- Calypso
+- U-864
+- U-85
+- U-352
+- U-166
+- U-47
+- Minerve
+- INS Dakar
+- INS Khukri
+- PNS Ghazi
+- Surcouf
+- I-52
+- I-400
+- Ehime Maru
+
+### Tier 6: rare jackpots (2)
+
+- Baychimo — SS Baychimo
+- Jeannette — USS Jeannette
+
+## Refused on purpose (31)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Flying Dutchman — "A ghost ship of legend, doomed never to make port."
+- Ourang Medan — "A legendary 'death ship' found with all its crew dead. There is no proof it ever existed."
+- Black Pearl — "Fictional, and cursed."
+- Pequod — "Captain Ahab's ship in Moby-Dick. Fictional."
+- Poseidon | SS Poseidon — "The upside-down liner of The Poseidon Adventure. Fictional."
+- Nautilus — "Captain Nemo's submarine is fiction, and the real USS Nautilus is a museum."
+- HMS Victory | Victory — "Nelson's flagship is still in dry dock at Portsmouth. An older Victory sank in 1744: add the year."
+- Cutty Sark — "A tea clipper, preserved at Greenwich. Never wrecked."
+- Mayflower — "It reached America safely in 1620, and was probably broken up for timber later."
+- Noah's Ark | Ark — "Legend says it came to rest on a mountain."
+- Exxon Valdez — "Ran aground and spilled its oil in 1989, but was repaired and sailed for decades."
+- Sutton Hoo — "A ship buried on land as a king's grave, not wrecked at sea."
+- Queen Mary | RMS Queen Mary — "Retired to Long Beach, California, as a hotel. Said to be haunted, but still afloat."
+- Kon-Tiki — "It ended on a reef in 1947, but survived and sits in a museum in Oslo."
+- Argo — "Jason's ship. Mythical."
+- Olympic | RMS Olympic — "Titanic's older sister. She survived and was scrapped in 1935."
+- Hindenburg — "An airship, not a ship. It burned in New Jersey in 1937."
+- Golden Hind — "Drake's ship was left to rot at Deptford. The one in London is a replica."
+- Pinta | Niña — "It made it home from Columbus's first voyage. His flagship was the one that wrecked."
+- Hesperus | Wreck of the Hesperus — "Longfellow's poem. The schooner is fiction, though its reef is real."
+- Ever Given — "It blocked the Suez Canal for six days in 2021, then floated free."
+- Dali — "It brought down Baltimore's Key Bridge in 2024, but stayed afloat."
+- K-19 — "The 'Widowmaker' survived its 1961 reactor accident and was scrapped decades later."
+- Flight 19 — "Five planes, not ships. They vanished in 1945."
+- Spanish Armada | Armada — "A whole fleet. Name one of the ships it lost in 1588."
+- U-boat | U-boats — "A whole class of German submarine. Name one by its number."
+- Oseberg ship | Gokstad ship — "Viking ships buried on land as graves, not wrecked at sea."
+- Fram — "Nansen's polar ship is safe in a museum in Oslo."
+- HMS Beagle | Beagle — "Darwin's ship ended as a coastguard watch vessel and was broken up in 1870."
+- USS Constitution | Old Ironsides — "Still afloat in Boston, and still in commission."
+- Bermuda Triangle — "A stretch of sea, not a ship."

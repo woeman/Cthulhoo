@@ -1,0 +1,592 @@
+# Name a musical instrument.
+
+Question id: `musical-instruments` · category: culture · source: `data/culture.json`
+
+Rules: Any musical instrument, from any culture or century.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (550 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Piano — Pianoforte | Grand Piano | Upright Piano | Baby Grand | Klavier | Prepared piano | Concert grand | Honky-tonk piano | Steinway
+- Guitar — Acoustic Guitar | Classical Guitar | Spanish Guitar | 12-String Guitar | Gutar | Gitar | Flamenco guitar | Seven-string guitar | Steel-string guitar | Nylon-string guitar | Parlour guitar | Folk guitar
+- Drums — Drum Kit | Drum Set | Trap set | Trap kit | Kit | Electronic drums | Electronic drum kit | E-drums | Electric drums
+- Violin — Fiddle | Violine | Violon | Electric violin | Baroque violin
+- Trumpet — Piccolo trumpet | Pocket trumpet | Herald trumpet | Fanfare trumpet
+- Flute — Concert flute | Transverse flute | Western concert flute | Irish flute | Wooden flute | Silver flute | Boehm flute | Baroque flute | Traverso | Flauto traverso
+- Saxophone — Sax | Alto Saxophone | Tenor Saxophone | Baritone Saxophone | Soprano Saxophone | Alto Sax | Tenor Sax | Sopranino saxophone | Bass saxophone | Contrabass saxophone | Bari sax | Soprano sax | Baritone sax
+- Cello — Violoncello | Electric cello | Baroque cello
+- Clarinet — Clarionet | E-flat clarinet | B-flat clarinet
+- Harp — Concert harp | Pedal harp | Lever harp | Celtic harp | Irish harp | Clàrsach | Folk harp | Gaelic harp
+
+### Tier 2: common (36)
+
+- Bass Guitar — Bass | Electric Bass | Fretless bass | Acoustic bass guitar | Precision Bass | Fender Precision | Five-string bass
+- Electric Guitar — Stratocaster | Strat | Fender Stratocaster | Telecaster | Les Paul | Gibson Les Paul | Semi-acoustic guitar | Hollow-body guitar | Solid-body guitar | Lead guitar | Rhythm guitar | Flying V
+- Keyboard — Electronic Keyboard | Casio keyboard | Digital keyboard | Portable keyboard | Home keyboard
+- Ukulele — Uke | Ukelele | Ukalele | Tenor ukulele | Baritone ukulele | Soprano ukulele | Concert ukulele
+- Banjo — Five-string banjo | Tenor banjo | Plectrum banjo | Bluegrass banjo
+- Harmonica — Mouth Organ | Blues Harp | Chromatic harmonica | Diatonic harmonica | French harp | Moothie
+- Accordion — Squeezebox | Piano Accordion | Button accordion | Accordian | Chromatic accordion | Free-bass accordion
+- Trombone — Bass trombone | Alto trombone | Tenor trombone | Valve trombone | Slide trombone
+- Tuba — Bass tuba | Contrabass tuba
+- French Horn — Horn | Double horn | Orchestral horn | Vienna horn
+- Oboe — Hautboy | Hautbois
+- Bassoon
+- Viola
+- Double Bass — Upright Bass | Contrabass | String Bass | Bass Fiddle | Bull fiddle | Doghouse bass | Stand-up bass | Acoustic bass
+- Xylophone — Zylophone
+- Organ — Pipe Organ | Church Organ | Hammond Organ | Hammond | Electric organ | Electronic organ | Hammond B3 | Chamber organ | Cathedral organ
+- Recorder — Descant recorder | Soprano recorder | Treble recorder | Alto recorder | Tenor recorder | Bass recorder | Blockflöte | Flûte à bec
+- Triangle
+- Tambourine — Timbrel
+- Bagpipes — Great Highland Bagpipe | Pipes | Highland bagpipes | Scottish bagpipes | Cornemuse | Highland pipes | Great Highland pipes
+- Synthesizer — Synth | Synthesiser | Moog | Minimoog | Modular synth | Modular synthesizer | Analogue synth | Analog synthesizer
+- Mandolin
+- Piccolo
+- Cymbals — Hi-hat | Crash Cymbal | Ride cymbal | Splash cymbal | China cymbal | Crash | Ride | Hi-hats | Clash cymbals | Orchestral cymbals | Suspended cymbal
+- Glockenspiel — Glock | Orchestra bells
+- Bongos — Bongo Drums
+- Maracas
+- Sitar
+- Kazoo
+- Harpsichord — Cembalo | Clavecin | Clavicembalo
+- Bell — Bells | Church bell | Church bells
+- Tom-tom — Tom | Floor tom | Rack tom
+- Whistle
+- Music Box — Musical box
+- Wind Chimes — Wind chime
+- Shaker — Egg shaker
+
+### Tier 3: known to fans (89)
+
+- Lute — Renaissance lute | Baroque lute
+- Lyre
+- Sousaphone
+- Euphonium
+- Cornet
+- Bugle
+- Flugelhorn
+- Cor Anglais — English Horn
+- Celesta — Celeste
+- Marimba
+- Vibraphone — Vibes | Vibraharp
+- Timpani — Kettle Drum | Kettledrums | Timps | Tympani
+- Snare Drum — Snare | Side drum | Field drum
+- Bass Drum — Kick Drum | Gran cassa
+- Tabla
+- Didgeridoo — Didjeridu | Yidaki | Didge | Didjeridoo | Didgeridu
+- Steel Drum — Steelpan | Pan | Steel drums | Tenor pan
+- Theremin
+- Bodhrán — Bowran
+- Zither — Concert zither | Alpine zither
+- Dulcimer — Mountain Dulcimer | Appalachian dulcimer | Lap dulcimer
+- Hurdy-gurdy — Wheel Fiddle | Vielle à roue | Drehleier | Zanfona | Organistrum
+- Pan Flute — Panpipes | Syrinx | Siku | Zampoña | Antara | Nai | Rondador | Pan pipe | Pipes of Pan
+- Ocarina — Sweet potato | Vessel flute
+- Tin Whistle — Penny Whistle | Irish Whistle | Feadóg
+- Castanets — Castañuelas | Palillos
+- Cowbell
+- Gong — Chinese gong | Chau gong | Wind gong | Opera gong
+- Djembe — Jembe
+- Conga — Conga Drum
+- Cajón
+- Harmonium — Reed Organ | Pump organ | Hand harmonium | Indian harmonium
+- Melodica — Pianica | Blow organ
+- Bouzouki — Irish bouzouki | Bazouki | Buzuki
+- Balalaika
+- Koto
+- Shamisen — Samisen
+- Erhu — Chinese violin | Chinese fiddle | Nanhu
+- Kalimba — Thumb Piano
+- Clavichord
+- Concertina — English concertina | Anglo concertina | Duet concertina
+- Mellotron
+- Steel Guitar — Pedal Steel Guitar | Pedal Steel | Lap Steel Guitar | Lap Steel | Hawaiian Guitar | Slide guitar
+- Resonator Guitar — Dobro | Resonator | Resophonic guitar | National guitar
+- Washboard — Frottoir | Rubboard | Zydeco rubboard
+- Spoons
+- Jaw Harp — Jew's Harp | Mouth Harp | Khomus | Morsing | Guimbarde | Juice harp | Jaw's harp | Mukkuri | Kubing | Dan moi | Kouxian
+- Handbells
+- Handpan — Hang | Hang Drum
+- Glass Harmonica — Glass Armonica | Armonica
+- Fife
+- Tubular Bells — Chimes | Orchestral Chimes
+- Electric Piano — Rhodes | Fender Rhodes | Wurlitzer | Digital piano | Stage piano | Electronic piano | Wurly | E-piano
+- Keytar
+- Contrabassoon — Double Bassoon
+- Bass Clarinet
+- Alphorn — Alpenhorn | Alpine horn
+- Conch — Conch Shell | Shell Trumpet | Shankha | Pututu | Seashell trumpet
+- Shofar — Ram's Horn
+- Vuvuzela
+- Bandoneon
+- Musical Saw — Singing Saw | Saw
+- Wood Block
+- Claves
+- Guiro
+- Rainstick
+- Mbira — Likembe | Sanza | Sansa | Lamellophone
+- Uilleann Pipes — Union Pipes | Irish Pipes | Uilleann bagpipes
+- Taiko — Taiko Drum | Wadaiko | Odaiko | Shime-daiko
+- Sleigh Bells — Jingle bells
+- Autoharp
+- Drum Machine — Rhythm machine | Beat machine | TR-808 | Roland TR-808 | 808 | TR-909 | LinnDrum
+- Timbales — Pailas
+- Tam-tam
+- Carillon
+- Slide Whistle — Swanee Whistle
+- Toy Piano
+- Spinet
+- Frame Drum
+- Singing Bowl — Tibetan singing bowl | Standing bell | Himalayan singing bowl
+- Finger Cymbals — Zills | Zils | Sagat
+- Temple Blocks
+- Banjolele — Banjo ukulele | Banjo uke
+- Washtub Bass — Tea chest bass | Gutbucket | Bush bass
+- Jug
+- Bones
+- Qanun — Kanun
+- Dholak
+- Rattle — Rattles | Gourd rattle | Baby rattle
+
+### Tier 4: obscure (176)
+
+- Shakuhachi
+- Oud — Ud
+- Saz — Bağlama
+- Santoor — Santur
+- Sarod
+- Veena — Vina | Rudra veena | Saraswati veena
+- Sarangi
+- Shehnai — Shenai
+- Bansuri
+- Mridangam
+- Dhol
+- Tanpura — Tambura | Tamboura
+- Guzheng — Zheng | Chinese Zither
+- Pipa
+- Dizi
+- Sheng
+- Suona
+- Kora
+- Ngoni — Jeli ngoni | Kamale ngoni
+- Balafon
+- Talking Drum — Dundun | Gangan | Kalangu
+- Udu
+- Berimbau
+- Cuíca
+- Charango
+- Quena
+- Cavaquinho
+- Rebec
+- Viola da Gamba — Viol | Gamba
+- Sackbut
+- Shawm — Pommer
+- Crumhorn — Krummhorn
+- Psaltery — Bowed psaltery
+- Hammered Dulcimer — Hackbrett
+- Nyckelharpa — Keyed Fiddle
+- Hardanger Fiddle — Hardingfele
+- Kantele
+- Bombarde
+- Bandura
+- Darbuka — Doumbek | Goblet drum | Dumbek | Derbake | Darabukka | Dumbelek
+- Riq
+- Ney — Nay
+- Zurna
+- Duduk
+- Kaval
+- Gaida
+- Theorbo — Chitarrone
+- Cittern
+- Vihuela
+- Ondes Martenot — Ondes
+- Stylophone
+- Clavinet
+- Crotales — Antique cymbals
+- Flexatone
+- Vibraslap
+- Cabasa
+- Agogô — Agogo Bells
+- Shekere
+- Thunder Sheet
+- Wind Machine — Aeoliphone
+- Anvil
+- Cimbalom
+- Melodeon — Diatonic accordion | Diatonic button accordion | Cajun accordion
+- Basset Horn
+- Wagner Tuba
+- Mellophone
+- Sistrum
+- Aulos
+- Kithara — Cithara
+- Barrel Organ — Street Organ | Fairground organ | Band organ | Dutch street organ
+- Calliope — Steam Organ
+- Pianola — Player Piano
+- Fortepiano
+- Virginal
+- Morin Khuur — Horsehead Fiddle | Matouqin
+- Dombra
+- Gayageum — Kayagum
+- Janggu — Changgo | Janggo
+- Biwa
+- Shō
+- Guqin — Qin
+- Yangqin
+- Sanxian
+- Hulusi
+- Xun
+- Valiha
+- Angklung
+- Kulintang
+- Rebab
+- Bullroarer — Pūrerehua | Turndun
+- Clapsticks — Bilma
+- Lagerphone — Zob stick | Monkey stick
+- Cornett — Zink | Cornetto
+- Tenor Horn — Alto Horn
+- Baritone Horn — Baritone
+- Saxhorn
+- Daf
+- Tar
+- Metallophone
+- Slapstick — Whip
+- Domra
+- Tongue Drum — Steel tongue drum
+- Surdo
+- Pandeiro
+- Slit Drum — Log drum
+- Glass Harp — Musical glasses | Singing glasses
+- Monochord
+- Diddley Bow
+- Cigar Box Guitar
+- Viola d'amore
+- Oboe d'amore
+- Mandola
+- Cuatro
+- Helicon
+- Chalumeau
+- Tárogató
+- Kemenche
+- Davul — Tapan
+- Gusli
+- Bayan
+- Khaen — Khene
+- Ghatam
+- Sampler — MPC | Akai MPC
+- Alto flute
+- Bass flute
+- Low whistle
+- Boomwhackers — Boomwhacker
+- Otamatone
+- Omnichord
+- Vocoder
+- Tenor drum
+- Ratchet — Football rattle | Cog rattle
+- Bell tree
+- Mark tree — Bar chimes
+- Lambeg drum — Lambeg
+- Tabor — Pipe and tabor
+- Native American flute — Plains flute | Love flute | Courting flute
+- Nose flute
+- Pungi — Snake charmer's flute | Snake charmer's pipe | Bansuri pungi
+- Ektara
+- Esraj
+- Dilruba
+- Pakhawaj — Pakhavaj
+- Kanjira — Khanjira
+- Damaru — Damru
+- Nadaswaram — Nagaswaram | Nathaswaram
+- Kamancheh — Kamancha | Kamanche
+- Ruan — Zhongruan | Ruanxian
+- Yueqin — Moon guitar | Moon lute
+- Xiao
+- Bianzhong — Chime bells | Chinese bells
+- Wooden fish — Muyu | Mokugyo | Wood fish
+- Geomungo — Komungo | Geomungo zither
+- Haegeum — Haegum
+- Sanshin
+- Shinobue — Takebue
+- Tsuzumi — Kotsuzumi | Ōtsuzumi
+- Gaita — Galician bagpipe | Gaita gallega
+- Northumbrian smallpipes — Northumbrian pipes | Smallpipes | Scottish smallpipes
+- Krar
+- Guembri — Gimbri | Sintir | Gembri | Hajhouj
+- Dunun — Doundoun | Dununba | Djun djun
+- Tamborim
+- Guitarrón — Guitarrón mexicano
+- Tres — Cuban tres | Tres cubano
+- Portuguese guitar — Guitarra portuguesa | Fado guitar
+- Archtop guitar — Archtop | Jazz guitar
+- Baritone guitar
+- Combo organ — Farfisa | Farfisa organ | Vox Continental
+- Theatre organ — Theater organ | Cinema organ | Mighty Wurlitzer
+- Dutar — Dotar | Dotara
+- Alto clarinet
+- Post horn — Coach horn
+- Hunting horn — Cor de chasse | Trompe de chasse | Hunting bugle
+- Natural horn — Hand horn
+- Bell lyre — Lyra glockenspiel | Marching glockenspiel | Glockenspiel lyre
+
+### Tier 5: expert (236)
+
+- Ophicleide
+- Serpent
+- Crwth
+- Tromba Marina — Trumpet marine
+- Baryton
+- Arpeggione
+- Hydraulis — Water Organ
+- Carnyx
+- Lur
+- Sarrusophone
+- Heckelphone
+- Lion's Roar — String Drum
+- Aeolian Harp — Wind Harp
+- Archlute
+- Gittern
+- Rackett — Racket
+- Dulcian — Curtal
+- Gemshorn
+- Flageolet
+- Sordun
+- Rauschpfeife
+- Trautonium
+- Telharmonium
+- Stroh Violin — Stroviol | Horn Violin
+- Daxophone
+- Hichiriki
+- Kokyū
+- Marovany
+- Contrabass Clarinet
+- Subcontrabass Saxophone
+- Orchestrion
+- Ondioline
+- Optigan
+- Cristal Baschet
+- Pyrophone — Fire Organ
+- Octobass
+- Bonang
+- Saron
+- Kendang
+- Batá Drum — Bata
+- Setar
+- Rubab — Rabab | Robab
+- Chapman Stick — Chapman stick guitar
+- Portative organ — Portative | Organetto
+- Positive organ — Positiv | Positive
+- Regal — Regals
+- Square piano
+- Pedal piano
+- Tangent piano
+- Barrel piano — Street piano
+- Dulcitone
+- Clavicytherium
+- Claviorgan
+- Lautenwerck — Lute-harpsichord
+- Novachord
+- Clavioline
+- Chamberlin
+- Seaboard — ROLI Seaboard
+- Eigenharp
+- Reactable
+- Hydraulophone
+- Laser harp
+- Verrophone
+- Bass trumpet
+- Natural trumpet — Baroque trumpet
+- Keyed trumpet
+- Keyed bugle — Kent bugle
+- Cimbasso
+- Cretan lyra — Lyra of Crete
+- Kinnor
+- Phorminx
+- Barbiton
+- Salpinx
+- Lituus
+- Buccina
+- Cornu
+- Tibia
+- Tympanum
+- Nakers
+- Kortholt
+- Douçaine
+- Citole
+- Orpharion
+- Lira da braccio
+- Lirone
+- Violone
+- Pochette — Kit violin | Dancing master's kit
+- Langeleik
+- Hummel
+- Épinette des Vosges
+- Scheitholt
+- Kokle — Kokles
+- Kanklės
+- Kannel
+- Jouhikko — Bowed lyre | Jouhikantele
+- Talharpa
+- Willow flute — Seljefløyte
+- Galoubet
+- Vielle — Medieval fiddle
+- Colascione
+- Chitarra battente
+- Lyre-guitar
+- Harp guitar
+- Zampogna
+- Biniou
+- Musette — Musette de cour
+- Duda
+- Tulum
+- Tsambouna
+- Border pipes
+- Txalaparta
+- Txistu
+- Alboka
+- Bandurria
+- Laúd
+- Timple
+- Tiple
+- Requinto
+- Jarana
+- Bajo sexto
+- Viola caipira
+- Rabeca
+- Repinique — Repique
+- Zabumba
+- Atabaque
+- Caxixi
+- Reco-reco
+- Ganzá
+- Bombo legüero
+- Quijada — Jawbone | Donkey jawbone
+- Teponaztli
+- Huehuetl
+- Death whistle — Aztec death whistle
+- Water drum
+- Roto-tom
+- Ocean drum
+- Spring drum — Thunder drum | Thunder tube
+- Brake drum
+- Tingsha
+- Siren
+- Comb and paper — Paper and comb
+- Wobble board
+- Gum leaf
+- Marimbula
+- Dungchen — Tibetan horn | Radung
+- Kangling
+- Gyaling
+- Bianqing — Stone chimes
+- Konghou
+- Liuqin
+- Banhu
+- Gaohu
+- Jinghu
+- Bawu
+- Paiban
+- Daegeum
+- Piri
+- Kkwaenggwari
+- Ajaeng
+- Taepyeongso
+- Ryūteki
+- Nohkan
+- Hyōshigi
+- Tonkori
+- Gendèr
+- Gambang
+- Kenong
+- Suling
+- Kecapi — Kacapi
+- Sasando
+- Sape — Sapeh
+- Ranat ek — Ranat
+- Khong wong
+- Đàn bầu
+- Đàn tranh
+- Saung — Saung-gauk | Burmese harp
+- Khim
+- Pūtōrino
+- Kōauau
+- Lali
+- Kundu
+- Ipu
+- Pahu
+- Swarmandal
+- Surbahar
+- Shruti box
+- Jal tarang
+- Venu
+- Thavil
+- Chenda
+- Nagara — Naqqara | Nagada | Naqareh
+- Tumbi
+- Chimta
+- Kartal — Khartal
+- Manjira — Manjeera
+- Ghungroo — Ghungru | Ankle bells
+- Tombak — Zarb | Tonbak
+- Buzuq
+- Mizmar
+- Arghul
+- Mijwiz
+- Bendir
+- Qraqeb — Krakebs
+- Imzad
+- Akonting
+- Xalam
+- Sabar
+- Bougarabou
+- Kpanlogo
+- Atumpan
+- Ngoma
+- Begena
+- Masenqo — Masinko
+- Washint
+- Kebero
+- Inanga
+- Adungu
+- Goje
+- Timbila
+- Amadinda
+- Kakaki
+- Tanbur
+- Komuz
+- Igil
+- Topshur
+- Gadulka
+- Gusle
+- Tamburica
+- Laouto
+- Tzouras
+- Panduri
+- Chonguri
+- Fujara
+- Ashiko
+- Triple harp — Welsh triple harp
+- Garmon
+
+### Tier 6: rare jackpots (3)
+
+- Sea Organ — Zadar Sea Organ | Morske Orgulje
+- Great Stalacpipe Organ — Stalacpipe Organ | Stalacpipe
+- Waterphone
+
+## Refused on purpose (8)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Voice | Human Voice | Singing | Beatbox | Beatboxing | Humming | Whistling | Clapping | Hand claps | Body percussion — "Arguably the first instrument of all, but the deep means something you can hold."
+- Orchestra | Band | Choir | Ensemble | Brass Band | Quartet | Symphony orchestra | Big band | Rock band | Jazz band | String quartet | Duo | Symphony — "A crowd of instruments, not a single one."
+- Gamelan — "An Indonesian ensemble, not a single instrument. Its gongs and metallophones count on their own."
+- Plectrum | Pick | Drumstick | Drumsticks | Baton | Capo | Reed | Bow | Mallet | Mallets | Sticks | Rosin | Mouthpiece | Tuning fork — "Something you play with, not an instrument."
+- Amplifier | Amp | Speaker | Microphone | Mic | Effects pedal | Loop pedal | Mixer | Mixing desk | Headphones — "It makes instruments louder. It isn't one."
+- Metronome | Tuner | Music stand — "It keeps time. It doesn't play music."
+- Gramophone | Record Player | Jukebox | Radio | CD player | Walkman | Cassette player | iPod | Boombox | Stereo — "It plays records, but nobody plays it."
+- Brass | Woodwind | Strings | Percussion | String | Keyboards | Wind | Winds | Wind instrument | Brass instrument | Woodwinds | String instrument | Percussion instrument | Idiophone | Membranophone | Chordophone | Aerophone | Electrophone | Instrument | Musical instrument — "A whole family. Name one instrument."

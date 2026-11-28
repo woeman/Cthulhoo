@@ -1,0 +1,346 @@
+# Name a type of boat or ship.
+
+Question id: `boats-ships` · category: misc · source: `data/misc.json`
+
+Rules: Any kind of vessel, from canoe to aircraft carrier. Named ships, like the Titanic, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (304 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Yacht — Superyacht | Sailing yacht | Megayacht | Motor yacht | Racing yacht | Royal yacht | Steam yacht | Luxury yacht | Gigayacht | Yacht boat
+- Canoe — Canadian canoe | Open canoe | Racing canoe | Canoe boat
+- Kayak — Sea kayak | Folding kayak | Sit-on-top kayak | Whitewater kayak | Qajaq | Kayak boat
+- Submarine — Sub | Nuclear submarine | Nuclear sub | Attack submarine | Ballistic missile submarine | Hunter-killer submarine | Diesel submarine | Diesel-electric submarine | Submarine boat
+- Ferry — Ferryboat | Car ferry | Passenger ferry | Fast ferry | Foot ferry | Ferry ship
+- Rowing boat — Rowboat
+- Sailing boat — Sailboat | Sailing ship | Sailing vessel | Sailing dinghy | Sailing craft
+- Speedboat — Powerboat
+- Cruise ship — Cruise liner | Cruise boat | River cruise ship | Cruise vessel
+- Raft — Life raft | Log raft | Bamboo raft | River raft | Whitewater raft | Raft boat
+
+### Tier 2: common (30)
+
+- Dinghy — Rowing dinghy | Dinghy boat
+- Catamaran — Hobie Cat | Power catamaran | Catamaran boat
+- Gondola — Gondola boat | Venetian gondola
+- Barge — Canal barge | River barge | Dumb barge | Hopper barge | Dutch barge | Coal barge | Barge boat
+- Tugboat — Tug | Harbour tug | Harbor tug | Tractor tug | Ocean tug | Salvage tug | Tug ship
+- Trawler — Fishing trawler | Beam trawler | Stern trawler | Side trawler
+- Tanker — Oil tanker | Chemical tanker | Product tanker | Tanker ship | Crude carrier
+- Lifeboat — Rescue boat | Inshore lifeboat | Lifeboat ship
+- Pedalo — Pedal boat | Paddle boat
+- Narrowboat — Canal boat
+- Aircraft carrier — Carrier | Supercarrier | Flattop | Fleet carrier | Carrier ship | Nuclear carrier
+- Battleship — Battlewagon
+- Destroyer — Guided-missile destroyer | Torpedo boat destroyer | Tin can | Destroyer ship
+- Frigate — Guided-missile frigate | Frigate ship
+- Galleon — Spanish galleon | Manila galleon | Treasure galleon | Galleon ship
+- Longship — Viking ship | Viking longship | Drakkar | Viking boat | Viking longboat | Dragon ship
+- Pirate ship — Pirate boat | Pirate galleon
+- Steamboat — Steamship | Steamer | Mississippi steamboat
+- Paddle steamer — Paddle wheeler | Side-wheeler
+- Hovercraft — Air-cushion vehicle | ACV
+- Jet ski — Personal watercraft | Waverunner | Sea-Doo | Water scooter | PWC
+- Punt — Punt boat
+- Houseboat — Floating home
+- Fishing boat — Fishing vessel | Fishing ship
+- Container ship — Container vessel | Box ship | Container boat | Feeder ship
+- Ocean liner — Liner | Transatlantic liner | Passenger liner
+- Motorboat — Motor launch | Launch | Steam launch
+- Warship
+- Cargo ship — Freighter | Cargo vessel | Merchant ship | Merchantman | Merchant vessel | General cargo ship | Cargo boat
+- Tall ship — Square-rigger | Windjammer | Full-rigger
+
+### Tier 3: known to fans (68)
+
+- Trimaran — Trimaran boat
+- Sloop
+- Ketch
+- Yawl
+- Cutter — Revenue cutter | Coast Guard cutter | Pilot cutter
+- Brig — Brig ship
+- Brigantine — Hermaphrodite brig
+- Barque — Bark | Four-masted barque
+- Corvette — Corvette ship
+- Gunboat — Motor gunboat | River gunboat
+- Ironclad — Ironclad warship
+- Man-of-war — Man o' war | Ship of the line | Line-of-battle ship | First-rate
+- Dreadnought — Super-dreadnought
+- Minesweeper
+- Icebreaker
+- Dredger — Dredge | Hopper dredger
+- Whaler — Whaleship | Whaling ship | Whale catcher
+- Lugger — Chasse-marée | Pearling lugger
+- Felucca — Feluca | Felucca boat
+- Outrigger canoe — Outrigger | Va'a | Waka ama
+- Galley — Roman galley | War galley
+- Carrack — Nao | Carrack ship
+- Caravel — Caravela | Caravel ship
+- Hydrofoil — Jetfoil | Hydrofoil boat
+- Airboat — Swamp boat | Fan boat
+- Longboat
+- Skiff — Skiff boat
+- Dory — Dory boat
+- Junk — Chinese junk | Junk boat
+- Dhow — Arab dhow | Dhow boat
+- Sampan — Sampan boat
+- Coracle — Coracle boat
+- Clipper — Clipper ship | Tea clipper | Baltimore clipper | Extreme clipper
+- Schooner — Topsail schooner | Grand Banks schooner | Pilot schooner | Schooner ship
+- Trireme — Trieres
+- Dragon boat
+- Pontoon boat — Pontoon
+- Cruiser — Heavy cruiser | Light cruiser | Guided-missile cruiser | Missile cruiser | Armoured cruiser | Armored cruiser | Protected cruiser
+- Riverboat
+- Supertanker — Oil supertanker | VLCC | ULCC | Very large crude carrier
+- Bulk carrier — Bulker | Bulk freighter
+- Inflatable boat — Inflatable | Rubber dinghy | Zodiac | Rubber boat | Inflatable dinghy
+- RIB — Rigid inflatable boat | Rigid-hulled inflatable boat | RHIB
+- Fireboat
+- Lightship — Light vessel
+- Ark
+- U-boat — Unterseeboot
+- Patrol boat
+- Torpedo boat — PT boat | Motor torpedo boat
+- Landing craft — Higgins boat | LCVP
+- Sternwheeler
+- Showboat
+- Ice yacht — Iceboat
+- Logboat — Dugout | Dugout canoe | Cayuco | Monoxylon
+- Submersible — Deep-sea submersible | DSV
+- Battlecruiser
+- Ghost ship — Phantom ship | Derelict ship | Derelict
+- Cabin cruiser — Motor cruiser
+- Police boat — Police launch
+- Passenger ship — Passenger vessel
+- Pleasure boat — Pleasure craft
+- Tour boat — Sightseeing boat | Excursion boat | Tourist boat
+- Glass-bottom boat — Glass-bottomed boat
+- Jet boat
+- Banana boat
+- Bathysphere
+- Flagship
+- Midget submarine — Midget sub | Mini-sub | Mini submarine | X-craft
+
+### Tier 4: obscure (103)
+
+- Cog — Kogge | Hanseatic cog
+- Pinnace — Steam pinnace
+- Jolly boat
+- Tender
+- Bumboat
+- Wherry — Norfolk wherry | Thames wherry
+- Smack — Fishing smack
+- Pirogue — Piragua | Pirogue boat
+- Umiak — Umiaq | Oomiak
+- Proa — Prao | Prau | Prahu | Perahu | Flying proa
+- Bireme
+- Bathyscaphe — Bathyscaph
+- Hospital ship
+- Troopship — Troop transport | Troop carrier | Transport ship
+- Fire ship
+- Prison hulk — Hulk | Prison ship
+- Keelboat
+- Flatboat — Broadhorn
+- Scow
+- Lighter
+- Collier — Coal ship | Collier brig
+- Ro-ro ferry — Ro-ro | Roll-on roll-off ferry | Ropax
+- Q-ship — Q-boat | Mystery ship
+- Currach — Curragh | Naomhog
+- Waka — Waka taua | Vaka
+- Drifter — Steam drifter | Herring drifter
+- Seiner — Purse seiner
+- Factory ship — Factory trawler | Fish factory ship
+- Research vessel — Research ship | Oceanographic vessel
+- Amphibious vehicle — DUKW | Duck boat | Amphibious car
+- Lake freighter
+- Racing shell — Rowing shell | Scull | Shell | Single scull | Sculling boat
+- Swan boat
+- Bark canoe — Birchbark canoe
+- Reed boat — Balsa raft | Totora boat | Caballito de totora | Papyrus boat
+- Slave ship — Slaver
+- E-boat — S-boat | Schnellboot
+- Towboat — Pushboat | Pusher | Push tug
+- Liberty ship
+- Barquentine — Barkentine
+- Minelayer
+- Monitor
+- East Indiaman — Indiaman
+- Privateer
+- Vaporetto
+- Water taxi
+- Tramp steamer — Tramp ship
+- Sloop-of-war
+- Escort carrier — Jeep carrier | Baby flattop | Escort aircraft carrier
+- Helicopter carrier
+- Amphibious assault ship — Assault ship | LHD | LHA
+- Landing ship — LST | Tank landing ship | Landing ship tank
+- Pocket battleship — Panzerschiff
+- Destroyer escort
+- Pre-dreadnought
+- Minehunter — Mine countermeasures vessel
+- Submarine chaser — Sub chaser
+- Missile boat — Fast attack craft | Missile patrol boat
+- Oiler — Fleet oiler | Replenishment oiler | Replenishment ship | Fleet tanker
+- Spy ship — Intelligence ship | Surveillance ship
+- Training ship — Sail training ship | Training vessel
+- Full-rigged ship — Fully rigged ship | Ship-rigged vessel
+- Catboat
+- Whaleboat
+- Gig — Pilot gig | Cornish pilot gig | Captain's gig
+- Jon boat — Johnboat
+- Drift boat — McKenzie drift boat
+- Bass boat
+- Runabout
+- Cigarette boat — Go-fast boat | Offshore powerboat
+- Hydroplane — Hydroplane racer | Unlimited hydroplane
+- Party boat — Party barge | Booze cruise boat
+- Bumper boat
+- Water bus — River bus | Sea bus
+- Bateau mouche — Bateaux mouches
+- Mail boat — Royal Mail Ship
+- Packet ship — Packet boat | Packet | Steam packet
+- Pilot boat — Pilot vessel
+- Coaster — Coastal freighter | Coastal trader | Coastal vessel
+- Car carrier — Car transporter | Vehicle carrier | PCTC
+- LNG carrier — Gas carrier | LNG tanker | LPG carrier
+- Ore carrier
+- Reefer ship — Reefer | Refrigerated ship
+- Heavy-lift ship — Heavy lift vessel
+- Cable ship — Cable layer | Cable-laying ship
+- Drillship — Drilling ship
+- Supply ship — Supply vessel | Platform supply vessel | Offshore supply vessel
+- Survey ship — Survey vessel | Hydrographic survey ship
+- Chain ferry — Cable ferry | Floating bridge
+- Train ferry — Rail ferry
+- Longliner
+- Crab boat — Crabber
+- Lobster boat
+- Shrimp boat — Shrimper | Shrimp trawler
+- Long-tail boat — Longtail
+- Panga
+- Gulet
+- War canoe
+- Multihull
+- Monohull
+- Treasure ship
+- Mother ship
+- Galway hooker — Hooker
+
+### Tier 5: expert (90)
+
+- Galleass — Galeass | Galeazza
+- Xebec — Chebec | Zebec | Xebeck
+- Knarr — Knorr
+- Birlinn — Lymphad
+- Quinquereme — Quinquireme | Penteres
+- Turtle ship — Geobukseon | Kobukson | Kobukseon
+- Coble
+- Skipjack
+- Sharpie
+- Hoy
+- Polacre — Polacca
+- Bilander
+- Faering
+- Flying Dutchman
+- Baidarka — Bidarka
+- Tartane — Tartana
+- Pink — Pinky | Pinkie
+- Bawley
+- Nobby
+- Thames barge — Thames sailing barge | Spritsail barge | Sailing barge
+- Bugeye
+- Victory ship
+- Ekranoplan — Wing-in-ground craft | WIG craft | Ground-effect vehicle | Caspian Sea Monster
+- Narco-submarine — Narco sub | Drug sub
+- Semi-submersible — Semi-submersible ship
+- Convict ship
+- Solar barque — Solar boat | Sun boat | Solar barge
+- Royal barge — State barge
+- Weather ship — Ocean station vessel
+- Repair ship
+- Depot ship — Submarine tender | Destroyer tender
+- Seaplane tender — Seaplane carrier
+- Command ship
+- Ammunition ship
+- Bomb vessel — Bomb ketch
+- Turret ship
+- Littoral combat ship
+- Livestock carrier
+- Pipe-laying ship — Pipelayer | Pipe-laying vessel
+- Crane vessel — Crane ship | Floating crane
+- Snagboat
+- Whaleback
+- York boat
+- Durham boat
+- Mackinaw boat
+- Bateau — Batteau
+- Gundalow
+- Shallop — Chaloupe
+- Galiot — Galliot
+- Fusta
+- Fluyt — Fluit | Flute
+- Dogger
+- Herring buss — Buss
+- Gillnetter
+- Caique — Kaiki
+- Dahabiya — Dahabeah | Dahabiyeh
+- Jangada
+- Balangay — Balanghai | Butuan boat
+- Vinta
+- Pinisi — Phinisi
+- Bangka — Banca
+- Dhoni
+- Kettuvallam — Kerala houseboat
+- Shikara
+- Yakatabune
+- Atakebune
+- Panokseon
+- Lorcha
+- Baghlah
+- Sambuk
+- Tomol
+- Bullboat
+- Basket boat — Thung chai
+- Quffa — Guffa
+- Dromon
+- Liburna — Liburnian
+- Quadrireme
+- Karve
+- Snekkja
+- Clyde puffer — Puffer
+- Widebeam — Widebeam narrowboat
+- Butty — Butty boat
+- Pram dinghy — Pram
+- Cockboat
+- Day sailer — Daysailor
+- Lakatoi
+- Traghetto
+- Tjalk
+- Humber keel
+- Motorsailer
+
+### Tier 6: rare jackpots (3)
+
+- Snow
+- Bucentaur — Bucintoro
+- Penteconter — Pentekonter | Penteconteros
+
+## Refused on purpose (8)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Titanic | Mary Rose | HMS Victory | Victory | Cutty Sark | Mayflower | Santa Maria | Lusitania | Bismarck | Endeavour | Golden Hind | Queen Mary | Noah's Ark | Black Pearl | Nautilus | Mary Celeste | Argo | Kon-Tiki | Enterprise | Bounty | HMS Bounty — "A named ship, not a type of ship."
+- Boat | Ship | Vessel | Watercraft | Craft — "Which kind of boat? The deep wants a name."
+- Seaplane | Flying boat | Floatplane — "An aircraft that lands on water. Close, but it flies."
+- Spaceship | Rocket | Spacecraft | Space shuttle | Starship — "It sails the void, not the sea."
+- Surfboard | Paddleboard | Stand-up paddleboard | Bodyboard | Windsurfer | Sailboard | Kiteboard | Water skis | Lilo — "A board, not a boat."
+- Gravy boat | Sauce boat — "Floats on gravy, and only just."
+- Dreamboat — "A handsome person, not a vessel."
+- Zeppelin | Blimp | Dirigible — "An airship. It sails the sky, not the sea."
