@@ -33,8 +33,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Aubergine — Eggplant | Brinjal | Baingan | Melanzana | Thai eggplant | Japanese eggplant | Garden egg | Eggplants
 - Sweet potato — Kumara | Camote | Batata | Satsumaimo | Japanese sweet potato | Purple sweet potato | Sweet potatoes | Shakarkand
 - Parsnip
-- Beetroot — Beet | Beets | Golden beet | Chioggia | Red beet | Beet greens | Beetroots | Chukandar
-- Green beans — French beans | String beans | Haricots verts | Haricot vert | Fine beans | Snap beans | Bush beans | Pole beans | Bobby beans | Stringless beans | Kenyan beans | Dwarf beans | Green bean
+- Beetroot — Beet | Beets | Golden beet | Chioggia | Red beet | Beet greens | Beetroots | Chukandar | Beat | Beats
+- Green beans — French beans | String beans | Haricots verts | Haricot vert | Fine beans | Snap beans | Bush beans | Pole beans | Bobby beans | Stringless beans | Kenyan beans | Dwarf beans | Green bean | Beans | Bean
 - Kale — Curly kale | Red Russian kale | Borecole
 - Turnip — Baby turnip | Navet | Hakurei | Shalgam | Turnips
 
@@ -134,7 +134,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Callaloo
 - Broccoli rabe — Rapini | Cime di rapa | Broccoletti | Broccoli raab | Rape greens
 - Choy sum — Cai xin | Yu choy | Chinese flowering cabbage | Choi sum
-- Snake beans — Yardlong beans | Long beans | Chinese long beans | Yard-long bean
+- Snake beans — Yardlong beans | Long beans | Chinese long beans | Yard-long bean | Asparagus bean | Asparagus beans
 - Wax beans — Yellow beans | Yellow wax beans
 - Acorn squash
 - Kabocha — Japanese pumpkin | Kabocha squash

@@ -6,48 +6,48 @@ Rules: Any language for writing computer programs, old or new, serious or joke. 
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (350 answers)
+## Accepted now (362 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (6)
 
-- Python — Python 3 | Python 2 | CPython | Cython | Jython | IronPython | PyPy | MicroPython | Py | Python language | CircuitPython | Stackless Python | Pyodide
+- Python — Python 3 | Python 2 | CPython | Cython | Jython | IronPython | PyPy | MicroPython | Py | Python language | CircuitPython | Stackless Python | Pyodide | Phyton | Pithon
 - Java — Oak | Java SE | Java EE | Core Java | Java 8 | Java language
 - JavaScript — JS | ECMAScript | ES6 | ES2015 | ES5 | Mocha | LiveScript | Vanilla JS | Vanilla JavaScript | JSX | Asm.js | JS ES6
-- C++ — CPP | Visual C++ | C with Classes | C++11 | C++14 | C++17 | C++20 | C++23 | C++98 | C++/CLI | Managed C++ | Cpp language
-- C — ANSI C | K&R C | C89 | C90 | C99 | C11 | C language | C programming language | Embedded C | C17 | C18 | C23 | GNU C
-- C# — Visual C# | C# .NET
+- C++ — CPP | Visual C++ | C with Classes | C++11 | C++14 | C++17 | C++20 | C++23 | C++98 | C++/CLI | Managed C++ | Cpp language | See plus plus | Turbo C++ | Borland C++
+- C — ANSI C | K&R C | C89 | C90 | C99 | C11 | C language | C programming language | Embedded C | C17 | C18 | C23 | GNU C | Turbo C | Borland C
+- C# — Visual C# | C# .NET | See sharp
 
 ### Tier 2: common (12)
 
-- Ruby — JRuby | mruby | IronRuby | Ruby language | MRI Ruby
+- Ruby — JRuby | mruby | IronRuby | Ruby language | MRI Ruby | Rubie
 - PHP — PHP: Hypertext Preprocessor | Personal Home Page | PHP 7 | PHP 8 | PHP5
 - SQL — Structured Query Language | T-SQL | PL/SQL | SEQUEL | Transact-SQL | PL/pgSQL | HiveQL | Spark SQL | ANSI SQL | Oracle SQL | SQL language
 - Swift — Swift language | Apple Swift
 - Rust — Rust lang
-- Go — Golang | Go language | Google Go
+- Go — Golang | Go language | Google Go | Olang | Glang
 - Fortran — FORTRAN II | FORTRAN IV | FORTRAN 66 | FORTRAN 77 | Fortran 90 | Fortran 95 | Fortran 2003 | Fortran 2008 | Formula Translation | Fortran I | FORTRAN 4
 - COBOL — Common Business-Oriented Language | COBOL-85 | COBOL 74 | Cobal
 - BASIC — QBasic | BBC BASIC | QuickBASIC | GW-BASIC | Applesoft BASIC | Sinclair BASIC | Microsoft BASIC | Dartmouth BASIC | TI-BASIC | True BASIC | FreeBASIC | PureBasic | Blitz BASIC | BlitzMax | DarkBASIC | Liberty BASIC | Small Basic | Microsoft Small Basic | Commodore BASIC | Atari BASIC | Locomotive BASIC | Integer BASIC | QB64 | ZX BASIC | AMOS | AMOS BASIC | STOS BASIC | BASICA | Tiny BASIC | PowerBASIC | Casio BASIC | Beginner's All-purpose Symbolic Instruction Code | MSX BASIC
 - Assembly — Assembler | Assembly language | ASM | x86 assembly | x86 | x64 assembly | ARM assembly | MIPS assembly | 6502 assembly | Z80 assembly | 68000 assembly | RISC-V assembly | NASM | MASM | TASM | GAS | Asm language | Assembler language | Assembly code | Macro assembler
-- Perl — Perl 5 | Pearl | Practical Extraction and Report Language | Perl language
-- TypeScript — TS
+- Perl — Perl 5 | Pearl | Practical Extraction and Report Language | Perl language | Pearl script
+- TypeScript — TS | TSX
 
 ### Tier 3: known to fans (10)
 
 - Kotlin — Kotlin/Native | Kotlin JVM
-- R — R language | GNU R | R programming | RStats
-- Pascal — Turbo Pascal | Free Pascal | UCSD Pascal | Standard Pascal | Pascal language
-- Lisp — Common Lisp | Emacs Lisp | Lisp 1.5 | MacLisp | Interlisp | Franz Lisp | ZetaLisp | AutoLISP | Elisp | CLISP | Lisp Machine Lisp
+- R — R language | GNU R | R programming | RStats | R lang | R project
+- Pascal — Turbo Pascal | Free Pascal | UCSD Pascal | Standard Pascal | Pascal language | Puscal
+- Lisp — Common Lisp | Emacs Lisp | Lisp 1.5 | MacLisp | Interlisp | Franz Lisp | ZetaLisp | AutoLISP | Elisp | CLISP | Lisp Machine Lisp | Lesp
 - Haskell — GHC | Haskell 98 | Haskell 2010
 - MATLAB — MATrix LABoratory | Simulink
 - Visual Basic — VB | VB.NET | Visual Basic .NET | VBA | Visual Basic for Applications | VB6 | Visual Basic 6 | VB5 | Visual Basic 5 | Visual Basic for Apps | Excel VBA | Excel macros
 - Scratch — Snap! | Scratch Jr | MIT Scratch
 - Lua — LuaJIT | Roblox Lua | Lua script
-- Bash — Shell | Shell script | Bourne shell | Zsh | Bourne Again Shell | sh | Ksh | Korn shell | C shell | csh | tcsh | Unix shell | Dash | Fish shell | Shell scripting | Bash script | Shell scripts | Sh script | Bourne | POSIX shell
+- Bash — Shell | Shell script | Bourne shell | Zsh | Bourne Again Shell | sh | Ksh | Korn shell | C shell | csh | tcsh | Unix shell | Dash | Fish shell | Shell scripting | Bash script | Shell scripts | Sh script | Bourne | POSIX shell | Fish | fish script | Friendly interactive shell
 
-### Tier 4: obscure (22)
+### Tier 4: obscure (23)
 
 - Scala — Scala 3 | Dotty | Scala.js
 - Objective-C — ObjC | Objective-C++
@@ -56,11 +56,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Erlang — Erlang/OTP
 - Elixir
 - Clojure — ClojureScript | Clojure CLR
-- Prolog — SWI-Prolog | Turbo Prolog | Visual Prolog | GNU Prolog
+- Prolog — SWI-Prolog | Turbo Prolog | Visual Prolog | GNU Prolog | Prologue
 - Logo — Turtle graphics | UCBLogo | MSWLogo | Turtle Logo | LibreLogo
 - Brainf*ck — Brainfuck | Brainfsck | BF | Brainf**k
 - PowerShell — Windows PowerShell | PowerShell Core
-- Delphi — Object Pascal | Borland Delphi | Embarcadero Delphi
+- Delphi — Object Pascal | Borland Delphi | Embarcadero Delphi | Delfi
 - ALGOL — ALGOL 58 | ALGOL 60 | ALGOL 68 | ALGOL W | Algorithmic Language
 - Smalltalk — Smalltalk-80
 - Ada — Ada 83 | Ada 95 | Ada 2012 | Ada language
@@ -71,8 +71,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Batch — Batch file | Batch script | DOS batch | Windows batch | Command Prompt | Batch programming | BAT
 - WebAssembly — Wasm | WAT | WebAssembly text format
 - CUDA — CUDA C | CUDA C++ | Compute Unified Device Architecture
+- Sass — SCSS | Syntactically Awesome Style Sheets
 
-### Tier 5: expert (297)
+### Tier 5: expert (308)
 
 - Groovy — Apache Groovy
 - Simula — Simula 67 | Simula I
@@ -181,7 +182,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Karel — Karel the Robot | Karel++
 - Apex
 - Squirrel
-- V — V language
+- V — V language | Vlang
 - Jai
 - Hare
 - C3
@@ -274,7 +275,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Clarion
 - LotusScript
 - PowerBuilder — PowerScript
-- OpenEdge ABL — Progress 4GL | ABL
+- OpenEdge ABL — Progress 4GL | ABL | Progress ABL | OpenEdge | Progress
 - Concurrent Pascal
 - Unicon
 - SPITBOL
@@ -371,6 +372,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Whenever
 - Bitwise Cyclic Tag
 - Brainloller
+- Less — Less CSS | Leaner Style Sheets
+- Vale
+- BQN
+- Uiua
+- Isabelle — Isabelle/HOL | Isar
+- TLA+ — TLA | PlusCal
+- Alloy
+- NewtonScript
+- Ioke
+- Ring
+- Carp
 
 ### Tier 6: rare jackpots (3)
 
@@ -378,12 +390,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Malbolge
 - Plankalkül
 
-## Refused on purpose (17)
+## Refused on purpose (19)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - HTML | HTML5 | XHTML | SVG | Hypertext Markup Language — "A markup language. It describes a page but cannot compute anything."
-- CSS — "A style sheet language. It makes things pretty, not clever."
+- CSS | CSS3 — "A style sheet language. It makes things pretty, not clever."
 - XML | JSON | YAML | TOML | CSV | Protobuf — "A data format, not a programming language."
 - Excel | Microsoft Excel — "A spreadsheet program, not a language."
 - Linux | Windows | macOS | Unix | Android | iOS | DOS | MS-DOS | Ubuntu — "An operating system, not a language."
@@ -392,10 +404,12 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Binary | Hexadecimal — "A number system, not a language."
 - Morse code — "A code, not a programming language."
 - Parseltongue — "Spoken by snakes and dark wizards, and by Python programmers when they're joking."
-- React | Angular | Vue | Django | Rails | Ruby on Rails | jQuery | .NET | Node.js | Node | Flask | Spring | Unity | Flutter | Laravel | Express | Express.js | Svelte | Next.js | TensorFlow | PyTorch | NumPy | Pandas | Qt | Bootstrap | Tailwind | Unreal Engine | Godot | Symfony | Spring Boot | Xamarin | React Native | Electron | Deno | Bun — "A framework or library, not a language."
+- React | Angular | Vue | Django | Rails | Ruby on Rails | jQuery | .NET | Node.js | Node | Flask | Spring | Unity | Flutter | Laravel | Express | Express.js | Svelte | Next.js | TensorFlow | PyTorch | NumPy | Pandas | Qt | Bootstrap | Tailwind | Unreal Engine | Godot | Symfony | Spring Boot | Xamarin | React Native | Electron | Deno | Bun | ASP.NET | ASP | dotnet | Unreal — "A framework or library, not a language."
 - MySQL | PostgreSQL | SQLite | Oracle | SQL Server | Microsoft SQL Server | MongoDB | Redis | MariaDB | Microsoft Access — "A database. The language it speaks, SQL, would count."
-- ChatGPT | Claude | GPT — "A chatbot, not a programming language."
+- ChatGPT | Claude | GPT | Copilot | GitHub Copilot | Gemini | AI — "A chatbot, not a programming language."
 - Markdown — "A markup language: it formats text but cannot compute."
 - OpenGL | DirectX | Vulkan | Direct3D — "A graphics library, not a language, though the shading language that comes with it would count."
 - Pseudocode — "Written for people to read, not for machines to run."
 - Regex | Regular expressions | Regular expression | RegExp — "A pattern language for searching text. It can match, but not compute."
+- Xcode | Visual Studio | VS Code | Visual Studio Code | IntelliJ | IntelliJ IDEA | Eclipse | PyCharm | Android Studio | Vim | Emacs | Notepad++ | Notepad | Sublime Text | Sublime | Jupyter | Jupyter Notebook | NetBeans | BlueJ | Greenfoot | RStudio | Replit | Cursor — "An editor: a place to write code, not a language to write it in."
+- Git | GitHub | GitLab | Docker | Kubernetes | Jenkins | npm | Webpack | Maven | Gradle | Terraform | Ansible | Stack Overflow — "A tool programmers rely on, not a language they write."

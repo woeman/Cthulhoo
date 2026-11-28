@@ -6,7 +6,7 @@ Rules: Any unit for measuring something: length, mass, time, temperature, energy
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (1246 answers)
+## Accepted now (1247 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -239,7 +239,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pixels per inch — ppi | Pixel per inch
 - FLOPS — Flop | Floating point operations per second
 
-### Tier 5: expert (1026)
+### Tier 5: expert (1027)
 
 - Katal
 - Steradian
@@ -1267,6 +1267,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Quettabit
 - Decabyte — Dekabyte
 - Hectobyte
+- Dactyl — Daktylos | Dactylos | Dactylus
 
 ### Tier 6: rare jackpots (3)
 

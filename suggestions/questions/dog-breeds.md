@@ -6,7 +6,7 @@ Rules: Any dog breed, past or present. Established crossbreeds with their own na
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (597 answers)
+## Accepted now (600 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -16,37 +16,37 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - German Shepherd — Alsatian | German Shepherd Dog | GSD | Deutscher Schäferhund | Schäferhund | Berger Allemand | Pastor Alemán | German Shepard | German Sheperd | Long-haired German Shepherd | Black German Shepherd | Alsatian dog | Deutscher Schäferhund dog | Schäferhund dog | Berger Allemand dog | Pastor Alemán dog | German Shepard dog | German Sheperd dog | Long-haired German Shepherd dog | Black German Shepherd dog
 - Golden Retriever — Golden | Goldie | English Cream Golden Retriever | Golden retreiver | Golden Retriever dog | Golden dog | Goldie dog | English Cream Golden Retriever dog | Golden retreiver dog
 - Poodle — Standard Poodle | Toy Poodle | Miniature Poodle | Mini Poodle | Teacup Poodle | Medium Poodle | Caniche | Pudel | French Poodle | Moyen Poodle | Poodle dog | Standard Poodle dog | Toy Poodle dog | Miniature Poodle dog | Mini Poodle dog | Teacup Poodle dog | Medium Poodle dog | Caniche dog | Pudel dog | French Poodle dog | Moyen Poodle dog
-- Bulldog — English Bulldog | British Bulldog | Bulldogge
-- Chihuahua — Chiwawa | Chiwowa | Teacup Chihuahua | Long-haired Chihuahua | Apple head Chihuahua | Chi | Chihuahua dog | Chiwawa dog | Chiwowa dog | Teacup Chihuahua dog | Long-haired Chihuahua dog | Apple head Chihuahua dog
+- Bulldog — English Bulldog | British Bulldog | Bulldogge | Bolldog | Bullldog | Bullddog | Billdog
+- Chihuahua — Chiwawa | Chiwowa | Teacup Chihuahua | Long-haired Chihuahua | Apple head Chihuahua | Chi | Chihuahua dog | Chiwawa dog | Chiwowa dog | Teacup Chihuahua dog | Long-haired Chihuahua dog | Apple head Chihuahua dog | Chiuaua | Chihuaha | Chiuahua
 - Beagle — Beagle dog
 - Pug — Mops | Carlin | Pug dog | Mops dog | Carlin dog
-- Dachshund — Sausage dog | Wiener dog | Doxie | Miniature Dachshund | Daschund | Dachsund | Teckel | Dackel | Mini Dachshund | Wire-haired Dachshund | Long-haired Dachshund | Badger dog | Dashund | Daxie | Dachshund dog | Doxie dog | Miniature Dachshund dog | Daschund dog | Dachsund dog | Teckel dog | Dackel dog | Mini Dachshund dog | Wire-haired Dachshund dog | Long-haired Dachshund dog | Dashund dog | Daxie dog
-- Siberian Husky — Husky | Siberian | Sibe | Siberian Huskie | Siberian Husky dog | Husky dog | Siberian dog | Sibe dog | Siberian Huskie dog
+- Dachshund — Sausage dog | Wiener dog | Doxie | Miniature Dachshund | Daschund | Dachsund | Teckel | Dackel | Mini Dachshund | Wire-haired Dachshund | Long-haired Dachshund | Badger dog | Dashund | Daxie | Dachshund dog | Doxie dog | Miniature Dachshund dog | Daschund dog | Dachsund dog | Teckel dog | Dackel dog | Mini Dachshund dog | Wire-haired Dachshund dog | Long-haired Dachshund dog | Dashund dog | Daxie dog | Sausage
+- Siberian Husky — Husky | Siberian | Sibe | Siberian Huskie | Siberian Husky dog | Husky dog | Siberian dog | Sibe dog | Siberian Huskie dog | Huskie | Huskey
 
 ### Tier 2: common (31)
 
-- Rottweiler — Rottie | Rotweiler | Rottweiller | Rott | Rottweiler dog | Rottie dog | Rotweiler dog | Rottweiller dog | Rott dog
+- Rottweiler — Rottie | Rotweiler | Rottweiller | Rott | Rottweiler dog | Rottie dog | Rotweiler dog | Rottweiller dog | Rott dog | Tott
 - Border Collie — Border Collie dog
 - Boxer — Boxer dog
 - Dalmatian — Dalmation | Dalmatian dog | Carriage dog | Firehouse dog | Dalmation dog
 - Great Dane — Deutsche Dogge | Dane | German Mastiff | Dogue Allemand | Boarhound | German Boarhound | Apollo of dogs | Great Dane dog | Dane dog | German Mastiff dog | Boarhound dog | German Boarhound dog
 - Yorkshire Terrier — Yorkie | Yorky | Yorkshire | Teacup Yorkie | Yorkshire Terrier dog | Yorkie dog | Yorky dog | Yorkshire dog | Teacup Yorkie dog
-- Jack Russell Terrier — Jack Russell | Russell Terrier | Jack Russell Terrier dog | Jack Russell dog | Russell Terrier dog
+- Jack Russell Terrier — Jack Russell | Russell Terrier | Jack Russell Terrier dog | Jack Russell dog | Russell Terrier dog | JRT
 - Cocker Spaniel — English Cocker Spaniel | American Cocker Spaniel | Cocker | Cocker Spaniel dog | English Cocker Spaniel dog | American Cocker Spaniel dog | Cocker dog
 - Pomeranian — Pom | Pomeranian Spitz | Zwergspitz | Dwarf Spitz | Toy German Spitz | Pomeranian dog | Pomeranian Spitz dog | Zwergspitz dog | Dwarf Spitz dog | Toy German Spitz dog
 - Shih Tzu — Shitzu | Shitsu | Shitzhu | Imperial Shih Tzu | Shih Tzu dog | Shitzu dog | Shitsu dog | Shitzhu dog | Imperial Shih Tzu dog
 - French Bulldog — Frenchie | Bouledogue Français | Frenchy | Frenchie dog | Frenchy dog
 - Dobermann — Doberman | Doberman Pinscher | Dobie | Dobe | Dobermann Pinscher | Doberman dog | Dobermann dog | Doberman Pinscher dog | Dobie dog | Dobe dog | Dobermann Pinscher dog
 - Greyhound — English Greyhound | Racing Greyhound | Greyhound dog | English Greyhound dog | Racing Greyhound dog
-- Pembroke Welsh Corgi — Corgi | Welsh Corgi | Pembroke Corgi | Pembroke | Pembroke Welsh Corgi dog | Corgi dog | Welsh Corgi dog | Pembroke Corgi dog | Pembroke dog
+- Pembroke Welsh Corgi — Corgi | Welsh Corgi | Pembroke Corgi | Pembroke | Pembroke Welsh Corgi dog | Corgi dog | Welsh Corgi dog | Pembroke Corgi dog | Pembroke dog | Queen's corgi
 - Labradoodle — Labradoodle dog | Labrapoo | Doodle | Labrapoo dog | Doodle dog
 - Cockapoo — Cockerpoo | Spoodle | Cocker Poodle | Cockadoodle | Cockapoo dog | Cockerpoo dog | Spoodle dog | Cocker Poodle dog | Cockadoodle dog
 - Saint Bernard — St Bernard | St. Bernard dog | Saint Bernard dog | Bernhardiner | Bernhardiner dog
 - Rough Collie — Collie | Scottish Collie | Long-haired Collie | Lassie Collie | Rough Collie dog | Collie dog | Scottish Collie dog | Long-haired Collie dog | Lassie Collie dog
-- Staffordshire Bull Terrier — Staffy | Staffie | Staff | Stafford | English Staffordshire Bull Terrier | Staffordshire Bull Terrier dog | Staffy dog | Staffie dog | Staff dog | Stafford dog | English Staffordshire Bull Terrier dog
+- Staffordshire Bull Terrier — Staffy | Staffie | Staff | Stafford | English Staffordshire Bull Terrier | Staffordshire Bull Terrier dog | Staffy dog | Staffie dog | Staff dog | Stafford dog | English Staffordshire Bull Terrier dog | English staffy | English staffie
 - American Pit Bull Terrier — Pit Bull | Pittie | Pitty | Pit | American Pit Bull | Pit Bull Terrier | Pitbull dog | American Pit Bull Terrier dog | Pittie dog | Pitty dog | American Pit Bull dog | Pit Bull Terrier dog
-- Schnauzer — Miniature Schnauzer | Giant Schnauzer | Standard Schnauzer | Mini Schnauzer | Riesenschnauzer | Zwergschnauzer | Mittelschnauzer | Schnauzer dog | Miniature Schnauzer dog | Giant Schnauzer dog | Standard Schnauzer dog | Mini Schnauzer dog | Riesenschnauzer dog | Zwergschnauzer dog | Mittelschnauzer dog
-- Maltese — Maltese dog
+- Schnauzer — Miniature Schnauzer | Giant Schnauzer | Standard Schnauzer | Mini Schnauzer | Riesenschnauzer | Zwergschnauzer | Mittelschnauzer | Schnauzer dog | Miniature Schnauzer dog | Giant Schnauzer dog | Standard Schnauzer dog | Mini Schnauzer dog | Riesenschnauzer dog | Zwergschnauzer dog | Mittelschnauzer dog | Snauzer | Shnauzer | Schnauser
+- Maltese — Maltese dog | Maltese terrier
 - Whippet — Snap dog | Poor man's racehorse | Whippet dog | Poor man's racehorse dog
 - Chow Chow — Chow | Chinese Chow | Songshi Quan | Chow Chow dog | Chow dog | Chinese Chow dog | Songshi Quan dog
 - Akita — Akita Inu | American Akita | Japanese Akita | Great Japanese Dog | Akita Ken | Akita dog | Akita Inu dog | American Akita dog | Japanese Akita dog | Akita Ken dog
@@ -59,12 +59,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (64)
 
-- Cavalier King Charles Spaniel — Cavalier | Cav | King Charles Cavalier | Cavalier King Charles | CKCS | Cavalier King Charles Spaniel dog | Cavalier dog | King Charles Cavalier dog | Cavalier King Charles dog | CKCS dog
+- Cavalier King Charles Spaniel — Cavalier | Cav | King Charles Cavalier | Cavalier King Charles | CKCS | Cavalier King Charles Spaniel dog | Cavalier dog | King Charles Cavalier dog | Cavalier King Charles dog | CKCS dog | King Charles | Cavvy
 - Weimaraner — Weim | Grey Ghost | Weimaraner Vorstehhund | Weimeraner | Long-haired Weimaraner | Weimaraner dog | Weim dog | Grey Ghost dog | Weimaraner Vorstehhund dog | Weimeraner dog | Long-haired Weimaraner dog
 - Vizsla — Hungarian Vizsla | Magyar Vizsla | Hungarian Pointer | Vizla | Vizsla dog | Hungarian Vizsla dog | Magyar Vizsla dog | Hungarian Pointer dog | Vizla dog
-- Samoyed — Samoyed dog
+- Samoyed — Samoyed dog | Sammy | Sammie
 - Alaskan Malamute — Malamute | Alaskan Malamute dog | Malamute dog
-- Shiba Inu — Shiba | Shiba Inu dog | Shiba dog
+- Shiba Inu — Shiba | Shiba Inu dog | Shiba dog | Doge
 - Bernese Mountain Dog — Bernese | Berner | Berner Sennenhund | Bernese Mountain | Berner Sennen | Bernese dog | Berner dog | Berner Sennenhund dog | Berner Sennen dog
 - Newfoundland — Newfie | Newfoundland dog | Newf | Newfie dog | Newf dog
 - Irish Wolfhound — Wolfhound | Cú Faoil | Irish Wolf Dog | Irish Wolfhound dog | Wolfhound dog | Cú Faoil dog
@@ -77,17 +77,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bull Terrier — English Bull Terrier | Bull Terrier dog | English Bull Terrier dog
 - Airedale Terrier — Airedale | Airedale Terrier dog | Airedale dog
 - Border Terrier — Border Terrier dog
-- Old English Sheepdog — Bobtail | Bobtail dog
+- Old English Sheepdog — Bobtail | Bobtail dog | Dulux dog
 - Shetland Sheepdog — Sheltie | Shetland Collie | Miniature Collie | Sheltie dog | Shetland Collie dog | Miniature Collie dog
 - Australian Shepherd — Aussie | Aussie Shepherd | Australian Shepard | Australian Shepherd dog | Aussie dog | Aussie Shepherd dog | Australian Shepard dog
 - Mastiff — English Mastiff | Mastiff dog | English Mastiff dog
 - Bullmastiff — Bullmastiff dog
 - Cane Corso — Italian Mastiff | Corso | Cane Corso Italiano | Cane Corso dog | Italian Mastiff dog | Corso dog | Cane Corso Italiano dog
-- Rhodesian Ridgeback — Ridgeback | African Lion Hound | African Lion Dog | Rhodesian Ridgeback dog | Ridgeback dog | African Lion Hound dog
+- Rhodesian Ridgeback — Ridgeback | African Lion Hound | African Lion Dog | Rhodesian Ridgeback dog | Ridgeback dog | African Lion Hound dog | Ridgie
 - Boston Terrier — Boston Terrier dog
 - Miniature Pinscher — Min Pin | Zwergpinscher | Mini Pinscher | Miniature Pinscher dog | Min Pin dog | Zwergpinscher dog | Mini Pinscher dog
 - Havanese — Bichon Havanais | Havana Silk Dog | Havanese dog | Bichon Havanais dog
-- Dogue de Bordeaux — French Mastiff | French Mastiff dog
+- Dogue de Bordeaux — French Mastiff | French Mastiff dog | Dogue | Bordeaux
 - Great Pyrenees — Pyrenean Mountain Dog | Pyrenean | Pyr | Chien de Montagne des Pyrénées | Patou | Great Pyrenees dog | Pyrenean dog | Chien de Montagne des Pyrénées dog | Patou dog
 - Pointer — English Pointer | Pointer dog | English Pointer dog
 - Irish Setter — Red Setter | Irish Red Setter | Irish Setter dog | Red Setter dog | Irish Red Setter dog
@@ -101,7 +101,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cavapoo — Cavoodle | Cavadoodle | Cavoodle dog | Cavapoo dog | Cavadoodle dog
 - Puggle — Pug Beagle | Puggle dog | Pug Beagle dog
 - Maltipoo — Moodle | Maltepoo | Maltapoo | Maltese Poodle | Maltipoo dog | Moodle dog | Maltepoo dog | Maltapoo dog | Maltese Poodle dog
-- Australian Cattle Dog — Blue Heeler | Heeler | Red Heeler | Queensland Heeler | Cattle dog | Queensland Blue Heeler | Blue heeler dog | Heeler dog | Red Heeler dog | Queensland Heeler dog | Queensland Blue Heeler dog
+- Australian Cattle Dog — Blue Heeler | Heeler | Red Heeler | Queensland Heeler | Cattle dog | Queensland Blue Heeler | Blue heeler dog | Heeler dog | Red Heeler dog | Queensland Heeler dog | Queensland Blue Heeler dog | Bluey
 - Kelpie — Australian Kelpie | Working Kelpie | Show Kelpie | Kelpie dog | Australian Kelpie dog | Working Kelpie dog | Show Kelpie dog
 - Belgian Malinois — Malinois | Mal | Belgian Shepherd Malinois | Mechelaar | Belgian Malinois dog | Malinois dog | Belgian Shepherd Malinois dog | Mechelaar dog
 - German Shorthaired Pointer — GSP | Deutsch Kurzhaar | Kurzhaar | German Shorthaired Pointer dog | Deutsch Kurzhaar dog | Kurzhaar dog
@@ -110,7 +110,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Xoloitzcuintli — Xolo | Mexican Hairless | Xoloitzcuintle | Mexican Hairless Dog | Xolos | Xoloitzquintle | Xoloitzcuintle dog | Xoloitzcuintli dog | Xolo dog | Xolos dog | Xoloitzquintle dog
 - Chinese Crested — Chinese Crested Dog
 - Cairn Terrier — Cairn Terrier dog
-- Fox Terrier — Wire Fox Terrier | Smooth Fox Terrier | Wire-haired Fox Terrier | Wire Fox | Smooth Fox | Fox Terrier dog | Wire Fox Terrier dog | Smooth Fox Terrier dog | Wire-haired Fox Terrier dog | Wire Fox dog | Smooth Fox dog
+- Fox Terrier — Wire Fox Terrier | Smooth Fox Terrier | Wire-haired Fox Terrier | Wire Fox | Smooth Fox | Fox Terrier dog | Wire Fox Terrier dog | Smooth Fox Terrier dog | Wire-haired Fox Terrier dog | Wire Fox dog | Smooth Fox dog | Foxie | Foxy | Foxies
 - American Staffordshire Terrier — AmStaff | Staffordshire Terrier | American Staffordshire Terrier dog | AmStaff dog | Staffordshire Terrier dog
 - Patterdale Terrier — Patterdale | Black Fell Terrier | Patterdale Terrier dog | Patterdale dog | Black Fell Terrier dog
 - Lurcher — Lurcher dog
@@ -124,7 +124,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pomchi — Pomchi dog
 - Zuchon — Shichon | Teddy Bear Dog | Teddy Bear | Zuchon dog | Shichon dog
 
-### Tier 4: obscure (202)
+### Tier 4: obscure (203)
 
 - Puli — Pulik | Puli dog | Pulik dog
 - Bedlington Terrier — Bedlington Terrier dog
@@ -200,7 +200,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Saarloos Wolfdog
 - Alaskan Klee Kai — Klee Kai | Miniature Husky | Mini Husky | Alaskan Klee Kai dog | Klee Kai dog | Miniature Husky dog | Mini Husky dog
 - Australian Terrier — Aussie Terrier | Australian Terrier dog | Aussie Terrier dog
-- Silky Terrier — Australian Silky Terrier | Sydney Silky | Silky Terrier dog | Australian Silky Terrier dog | Sydney Silky dog
+- Silky Terrier — Australian Silky Terrier | Sydney Silky | Silky Terrier dog | Australian Silky Terrier dog | Sydney Silky dog | Silky | Silkie
 - Toy Fox Terrier — Toy Fox Terrier dog
 - Chinook — Chinook dog
 - Eurasier — Eurasier dog
@@ -290,7 +290,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Polish Greyhound — Chart Polski | Polish Greyhound dog | Chart Polski dog
 - Hungarian Greyhound — Magyar Agár | Hungarian Greyhound dog | Magyar Agár dog
 - Longdog
-- Kangaroo Dog — Australian Kangaroo Dog
+- Kangaroo Dog — Australian Kangaroo Dog | Roo dog
 - Peekapoo — Peke-a-poo | Peekapoo dog | Peke-a-poo dog
 - Poochon — Bichon-poo | Bichpoo | Poochon dog | Bichon-poo dog | Bichpoo dog
 - Chorkie — Chorkie dog
@@ -306,7 +306,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Irish Doodle — Irish Setter Doodle | Irish Doodle dog | Irish Setter Doodle dog
 - Saint Berdoodle — St Berdoodle | Saint Berdoodle dog | St Berdoodle dog
 - Newfypoo — Newfiedoodle | Newfoundland Poodle | Newfypoo dog | Newfiedoodle dog | Newfoundland Poodle dog
-- Mal-shi — Malti-Tzu | Mal-shi dog | Malti-Tzu dog
+- Mal-shi — Malti-Tzu | Mal-shi dog | Malti-Tzu dog | Maltese shih tzu | Maltese x shih tzu | Maltese cross shih tzu | Maltese shih tzu cross | Shih tzu maltese | Shih tzu x maltese | Maltese shitzu
 - Cockalier — Cockalier dog
 - Corgipoo — Corgidoodle | Corgipoo dog | Corgidoodle dog
 - Westiepoo — Wee-poo | Westipoo | Westiepoo dog | Wee-poo dog | Westipoo dog
@@ -328,8 +328,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Australian Labradoodle — Aussie Labradoodle | Cobberdog | Australian Cobberdog | Australian Labradoodle dog | Aussie Labradoodle dog
 - Double Doodle — North American Retriever | Double Doodle dog | North American Retriever dog
 - Golden Cocker Retriever — Dakota Sport Retriever | Comfort Retriever | Golden Cocker Retriever dog | Dakota Sport Retriever dog | Comfort Retriever dog
+- Miniature Fox Terrier — Mini foxie | Mini Fox Terrier | Mini foxy | Miniature foxie
 
-### Tier 5: expert (288)
+### Tier 5: expert (290)
 
 - Azawakh — Azawakh dog
 - Sloughi — Sloughi Moghrebi | Arabian Sloughi | Sloughi dog | Sloughi Moghrebi dog | Arabian Sloughi dog
@@ -379,7 +380,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Africanis — African village dog | Africanis dog
 - Koolie — Koolie dog
 - Tenterfield Terrier — Tenterfield Terrier dog
-- Australian Stumpy Tail Cattle Dog
+- Australian Stumpy Tail Cattle Dog — Stumpy tail cattle dog | Stumpy | Stumpy tail | Stumpy tail heeler
 - Grand Basset Griffon Vendéen — Grand Basset Griffon | GBGV | Grand Basset Griffon Vendéen dog | Grand Basset Griffon dog | GBGV dog
 - Basset Fauve de Bretagne — Basset Fauve de Bretagne dog
 - Wirehaired Pointing Griffon — Korthals Griffon | Griffon Korthals | Wirehaired Pointing Griffon dog | Korthals Griffon dog | Griffon Korthals dog
@@ -619,18 +620,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dogo Guatemalteco — Guatemalan Dogo
 - Bulldog Campeiro — Campeiro Bulldog
 - Cão de Gado Transmontano — Transmontano Mastiff | Cão de Gado Transmontano dog | Transmontano Mastiff dog
+- Bordoodle — Borderdoodle | Border collie poodle
+- Pugalier — Pug cavalier
 
 ### Tier 6: rare jackpots (2)
 
 - Norwegian Lundehund — Lundehund | Puffin dog | Norwegian Lundehund dog | Lundehund dog
 - Turnspit Dog — Turnspit | Kitchen dog | Vernepator Cur | Vernepator | Vernepator Cur dog | Vernepator dog
 
-## Refused on purpose (16)
+## Refused on purpose (23)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Wolf — "The ancestor, not a breed."
-- Mongrel | Mutt | Mixed breed | Heinz 57 | Mutt dog | Crossbreed | Mixed | Bitsa | Bitzer | Heinz | Pound puppy | Rescue dog | Designer dog | Designer breed — "Beloved, but a mixture, not a breed."
+- Mongrel | Mutt | Mixed breed | Heinz 57 | Mutt dog | Crossbreed | Mixed | Bitsa | Bitzer | Heinz | Pound puppy | Rescue dog | Designer dog | Designer breed | Rescue | Pound dog | Bitser — "Beloved, but a mixture, not a breed."
 - Hyena — "Closer to a cat than a dog, believe it or not."
 - Fox | Coyote | Jackal | Dhole | African wild dog | Painted dog | Raccoon dog | Maned wolf | Bush dog | Fennec | Arctic fox | Red fox | Prairie dog | Dogfish | Tanuki | Thylacine | Tasmanian tiger — "A different animal, however much it looks like a dog."
 - Scooby-Doo | Scooby — "A Great Dane, if you want the breed."
@@ -645,3 +648,10 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Balto | Togo — "A Siberian Husky, if you want the breed."
 - Hachikō | Hachi — "An Akita, if you want the breed."
 - Gromit — "A Beagle, if you want the breed."
+- Toto — "The dog from Oz. A character, not a breed: name the kind of terrier he was."
+- Red Dog — "A film star of the Pilbara, not a breed. Name the kind of dog he was."
+- Marley — "A Labrador, if you want the breed."
+- Santa's Little Helper — "A Greyhound, if you want the breed."
+- Bingo | Bandit | Chilli | Bandit Heeler | Chilli Heeler | Bingo Heeler — "A cartoon dog, not a breed. Name the kind of dog the family is."
+- Dog | Dogs | Puppy | Puppies | Pup | Doggo — "The whole species. Which breed?"
+- Hot dog | Dagwood dog | Pluto pup | Chilli dog | Chili dog — "That is lunch."

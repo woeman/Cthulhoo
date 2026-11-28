@@ -15,7 +15,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Femur — Thigh bone | Femur bone | Femora | Leg bone | Upper leg bone | Femoral bone | Os femoris | Femurs
 - Skull — Skull bone | Head bone | Human skull
 - Rib — Rib cage | Rib bone | Ribs | Costa | Costae | Floating rib | Floating ribs | True rib | True ribs | False rib | False ribs | Thoracic cage | Rib bones
-- Tibia — Shin bone | Tibia bone | Lower leg bone | Tibiae | Shin bones
+- Tibia — Shin bone | Tibia bone | Lower leg bone | Tibiae | Shin bones | Shin | Shins
 - Humerus — Humorous | Humerus bone | Humeri | Arm bone | Upper arm bone | Humourous | Humerous | Humerous bone
 
 ### Tier 2: common (14)
@@ -26,7 +26,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ulna — Ulna bone | Ulnae | Elbow bone | Ulnar bone
 - Clavicle — Collarbone | Clavicle bone | Clavicula | Clavical | Clavicles
 - Pelvis — Hip bone | Os coxae | Innominate bone | Coxal bone | Pelvic bone | Pelvis bone | Pelvic girdle | Os innominatum | Ossa coxae | Pelvic bones | Hip bones
-- Vertebra — Vertebrae | Spine | Backbone | Spinal column | Vertebral column | Vertebrae bones | Vertebra bone | Cervical vertebra | Cervical vertebrae | Thoracic vertebra | Thoracic vertebrae | Lumbar vertebra | Lumbar vertebrae | Neck bone | Neck bones | Neck vertebrae | Spinal bone | Spinal bones | Spinal vertebrae | Cervical spine | Thoracic spine | Lumbar spine | Vertebrae bone | Vertebral bone | Vertebral bones | Dorsal vertebrae | Back bones | Spine bone | Lumbar
+- Vertebra — Vertebrae | Spine | Backbone | Spinal column | Vertebral column | Vertebrae bones | Vertebra bone | Cervical vertebra | Cervical vertebrae | Thoracic vertebra | Thoracic vertebrae | Lumbar vertebra | Lumbar vertebrae | Neck bone | Neck bones | Neck vertebrae | Spinal bone | Spinal bones | Spinal vertebrae | Cervical spine | Thoracic spine | Lumbar spine | Vertebrae bone | Vertebral bone | Vertebral bones | Dorsal vertebrae | Back bones | Spine bone | Lumbar | Spin
 - Sternum — Breastbone | Sternum bone | Chest bone | Sterna
 - Mandible — Jaw | Jawbone | Lower jaw | Mandible bone | Chin bone | Mandibula | Chin | Lower jawbone | Mandable
 - Coccyx — Tailbone | Coccyx bone | Os coccygis | Coccygeal vertebrae | Coxyx | Coxix | Coccyks

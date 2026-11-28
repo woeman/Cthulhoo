@@ -6,7 +6,7 @@ Rules: Any named mixed drink with alcohol in it. A spirit, wine or beer on its o
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (350 answers)
+## Accepted now (351 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -220,7 +220,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Long Beach Iced Tea — Long Beach
 - John Daly — Spiked Arnold Palmer
 
-### Tier 5: expert (150)
+### Tier 5: expert (151)
 
 - Navy Grog
 - Fog Cutter
@@ -372,6 +372,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - El Floridita — Floridita
 - Cuban Manhattan
 - Tequila Sour
+- Chartreuse Swizzle
 
 ### Tier 6: rare jackpots (2)
 

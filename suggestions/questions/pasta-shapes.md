@@ -193,7 +193,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Su filindeu — Filindeu | Threads of God | Su filindeu pasta | Filindeu pasta | Threads of God pasta
 - Maccheroncini di Campofilone — Campofilone | Maccheroncini di Campofilone pasta | Campofilone pasta
 
-## Refused on purpose (8)
+## Refused on purpose (9)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -205,3 +205,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Risotto | Rice | Paella — "Rice."
 - Polenta — "Cornmeal, not pasta."
 - Cannoli | Cannolo — "A Sicilian pastry with a sweet filling, not pasta."
+- Pasta mista | Pasta ammescata | Pasta ammiscata | Mixed pasta — "A Neapolitan bag of odds and ends, mixed on purpose. Lovely with beans, but not one shape."

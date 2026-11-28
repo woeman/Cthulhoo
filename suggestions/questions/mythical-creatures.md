@@ -6,58 +6,58 @@ Rules: Any monster or creature from the world's myths, legends and folklore, cry
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (1287 answers)
+## Accepted now (1321 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (15)
 
-- Dragon — Chinese dragon | Wyrm | Drake | Firedrake | Draco | Drakon | European dragon | Western dragon | Long | Lung | Ejderha | Azhdaha | Ajdaha | Fire-breathing dragon | Dragons | Drache | Dragão
-- Unicorn — Unicorns | Licorne | Einhorn | Alicorn | Unicornio | Winged unicorn
-- Phoenix — Phenix | Phoinix
-- Mermaid — Merman | Merfolk | Mermen | Sirena | Meerjungfrau | Sea maiden | Merpeople | Merwoman | Mermaids | Sea-maid | Havfrue | Havmand | Havmann | Meerfrau
+- Dragon — Chinese dragon | Wyrm | Drake | Firedrake | Draco | Drakon | European dragon | Western dragon | Long | Lung | Ejderha | Azhdaha | Ajdaha | Fire-breathing dragon | Dragons | Drache | Dragão | Dragen
+- Unicorn — Unicorns | Licorne | Einhorn | Alicorn | Unicornio | Winged unicorn | Younicorn
+- Phoenix — Phenix | Phoinix | Fenix | Feenix | Foenix | Phoenicks
+- Mermaid — Merman | Merfolk | Mermen | Sirena | Meerjungfrau | Sea maiden | Merpeople | Merwoman | Mermaids | Sea-maid | Havfrue | Havmand | Havmann | Meerfrau | Sirenna | Mermade
 - Vampire — Vampyre | Vampir | Vampyr | Wampir | Nosferatu | Vampyres | Vampiro | Vampires | Bloodsucker
 - Werewolf — Lycanthrope | Loup-garou | Werewolves | Wolfman | Lycan | Werwolf | Weerwolf | Varulv | Lobisomem | Hombre lobo | Lupo mannaro | Lupin garou | Man-wolf | Lycanthropes
-- Griffin — Gryphon | Griffon | Griffins | Gryphons | Griffen | Gryphen | Grifon | Gryphus | Greif
-- Centaur — Centaurs | Kentauros | Centaurus
-- Minotaur — Asterion | Minotauros | Minotaurus
+- Griffin — Gryphon | Griffon | Griffins | Gryphons | Griffen | Gryphen | Grifon | Gryphus | Greif | Gryfin
+- Centaur — Centaurs | Kentauros | Centaurus | Centor | Centore
+- Minotaur — Asterion | Minotauros | Minotaurus | Minotor | Minator
 - Pegasus — Pegasos | Winged horse | Flying horse | Pegasi
 - Yeti — Abominable Snowman | Meh-teh | Migoi | Migyur | Kang Admi
-- Bigfoot — Sasquatch | Sasquatches | Sasquatsch | Saskehavis
+- Bigfoot — Sasquatch | Sasquatches | Sasquatsch | Saskehavis | Bigfeet
 - Loch Ness Monster — Nessie | Loch Ness | Niseag | Nessy
 - Fairy — Faerie | Fae | Fey | Fairies | Faery | Fair Folk | Good Folk | Little people | Wee folk | Fée | Fata | Faerie folk | Fairy folk
-- Troll — Trol | Trolls | Trold | Mountain troll | Bridge troll | Cave troll
+- Troll — Trol | Trolls | Trold | Mountain troll | Bridge troll | Cave troll | Trul
 
-### Tier 2: common (40)
+### Tier 2: common (42)
 
-- Kraken — Krake | Krakens | Kraaken
+- Kraken — Krake | Krakens | Kraaken | Cracken | Crakken | Krackin
 - Hydra — Lernaean Hydra | Hydra of Lerna | Lernean Hydra | Hydras
 - Cyclops — Cyclopes | Kyklops | Polyphemus | Polyphemos | Cyclopses | Kyklopes
-- Sphinx — Sphynx | Androsphinx | Great Sphinx | Theban Sphinx | Sphinxes
-- Chimera — Chimaera | Khimaira | Chimaira | Chimeras
+- Sphinx — Sphynx | Androsphinx | Great Sphinx | Theban Sphinx | Sphinxes | Sfinx | Sphinks | Sfinks
+- Chimera — Chimaera | Khimaira | Chimaira | Chimeras | Kimera | Kymera
 - Basilisk — Basilisco | Basiliscus | King of serpents
-- Cerberus — Kerberos | Cerberos | Hound of Hades | Kerberos the hound | Three-headed dog
+- Cerberus — Kerberos | Cerberos | Hound of Hades | Kerberos the hound | Three-headed dog | Cerebus
 - Banshee — Bean sídhe | Banshe | Bashee | Banshie | Banshi | Bean sí | Ban sith | Banshees
-- Leprechaun — Lepracaun | Leprachaun | Luchorpán | Lucharachán | Leprecaun | Leprechauns | Leprauchan
-- Gorgon — Gorgons | Gorgones | Gorgo
-- Medusa — Medousa | Méduse
+- Leprechaun — Lepracaun | Leprachaun | Luchorpán | Lucharachán | Leprecaun | Leprechauns | Leprauchan | Lepricorn | Lepricon | Leprekon | Leprakon | Lepercon
+- Gorgon — Gorgons | Gorgones | Gorgo | Gorgen
+- Medusa — Medousa | Méduse | Madussa
 - Harpy — Harpie | Harpies
-- Siren — Sirens | Seirenes | Seiren
+- Siren — Sirens | Seirenes | Seiren | Sirenn
 - Satyr — Faun | Satyrs | Satyros | Fauns
 - Golem — Golems | Golem of Prague
 - Kelpie — Kelpy | Water horse | Water kelpie | Kelpies
 - Chupacabra — Chupacabras | Goatsucker | El Chupacabra | Chupacabre
 - Wendigo — Windigo | Wiindigoo | Witiko | Windago | Wetiko | Weendigo
-- Zombie — Zombi | Zonbi | Undead | Walking dead | Zombies | Zombi astral
-- Ghoul — Ghul
-- Goblin — Goblins | Gobelin
+- Zombie — Zombi | Zonbi | Undead | Walking dead | Zombies | Zombi astral | Zumbie | Zombey
+- Ghoul — Ghul | Ghool
+- Goblin — Goblins | Gobelin | Gobblen
 - Gnome — Gnomes | Garden gnome | Kabouter
-- Ogre — Ogress
+- Ogre — Ogress | Ogar
 - Giant — Giants | Gigantes | Gigas | Ettin | Stone giant
-- Pixie — Piskie | Pisky | Pixies | Pixy
-- Elf — Elves | Álfar | Light elves | Dark elves | Ljósálfar | Dökkálfar | Svartálfar | Alf | Elven | Elfs
+- Pixie — Piskie | Pisky | Pixies | Pixy | Pixi
+- Elf — Elves | Álfar | Light elves | Dark elves | Ljósálfar | Dökkálfar | Svartálfar | Alf | Elven | Elfs | Christmas elf | Christmas elves | Santa's elf | Santa's elves
 - Dwarf — Dwarves | Dvergar | Dvergr | Dwarfs | Zwerg
-- Genie — Djinn | Jinn | Djinni | Jinni | Genies | Jinnee | Djin | Djinns | Jinns | Jinniyah | Djinniyah
+- Genie — Djinn | Jinn | Djinni | Jinni | Genies | Jinnee | Djin | Djinns | Jinns | Jinniyah | Djinniyah | Jeanie | Jeannie | Jeenie
 - Thunderbird — Wakinyan | Animikii | Thunderbirds
 - Imp — Imps
 - Ghost — Spectre | Specter | Phantom | Apparition | Wraith | Spook | Shade | Ghosts | Spirit of the dead | Hantu | Haunt | Spectres
@@ -65,18 +65,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Grim Reaper — The Reaper | Death | Angel of death
 - Sea serpent — Sea dragon | Sea monster | Sea serpents
 - Hobgoblin — Hob | Hobgoblins | Hobthrush | Hobthrust
-- Demon — Devil | Daemon | Daimon | Demons | Fiend | Fiends | Devils
+- Demon — Devil | Daemon | Daimon | Demons | Fiend | Fiends | Devils | Satan | Lucifer | Old Nick | Old Scratch
 - Charybdis — Kharybdis
 - Naiad — Water nymph
 - Cetus — Ketos | Ketea | Aethiopian Cetus | Trojan Cetus
 - Easter Bunny — Easter Rabbit | Easter Hare | Osterhase | Easter bunnies
+- Santa Claus — Santa | Father Christmas | Saint Nick | St Nick | Saint Nicholas | St Nicholas | Kris Kringle | Sinterklaas | Père Noël | Papa Noel | Babbo Natale | Weihnachtsmann | Santa Clause | Santa Klaus | Old Saint Nick | Jolly Old Saint Nick | Father Xmas
+- Angel — Angels | Archangel | Archangels | Guardian angel | Cherub | Cherubim | Seraph | Seraphim
 
 ### Tier 3: known to fans (132)
 
 - Manticore — Mantichora | Mantichoras | Martichoras | Mardykhor | Martikhora | Manticora | Mantikhoras
 - Cockatrice — Cocatrice | Cockatrix
 - Wyvern — Wivern | Wyverns | Wiverne
-- Selkie — Silkie | Selchie | Selkies | Seal folk | Seal people | Seal wife | Roane | Silkies
+- Selkie — Silkie | Selchie | Selkies | Seal folk | Seal people | Seal wife | Roane | Silkies | Selky
 - Dryad
 - Nymph
 - Valkyrie — Valkyrja | Valkyries | Walküre | Valkyr
@@ -84,12 +86,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Jormungandr — Midgard Serpent | World Serpent | Jormungand | Midgardsormr | Midgard Snake | Midgard Worm
 - Sleipnir — Odin's horse | Slepnir | Sleipner
 - Bunyip — Kianpraty | Bunyips
-- Yowie — Hairy man | Yowies | Australian bigfoot
+- Yowie — Hairy man | Yowies | Australian bigfoot | Yowy
 - Tengu — Tengus
 - Kitsune
 - Kappa — Kappas
 - Oni — Onis
-- Naga — Nogga | Nagga | Naag | Nagin | Naagin | Nagini | Phaya Naga | Phaya Nak | Nak | Nagas
+- Naga — Nogga | Nagga | Naag | Nagin | Naagin | Nagini | Phaya Naga | Phaya Nak | Nak | Nagas | Nagun | Naagun
 - Garuda — Khan Garid | Garula | Garudas
 - Qilin — Kirin | Kylin
 - Roc — Rukh | Rokh | Rocs | Roc bird
@@ -149,7 +151,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Namazu — Ōnamazu
 - Davy Jones
 - Gargoyle — La Gargouille | Gargouille | Gargoyles | Grotesque
-- Yōkai — Youkai
+- Yōkai — Youkai | Yokoi
 - Wild man — Woodwose | Wodewose | Wild man of the woods | Wild men | Woodwoses | Wudewasa
 - Dokkaebi — Tokkaebi | Korean goblin
 - Yūrei — Yuurei | Yuhrei | Japanese ghost
@@ -192,21 +194,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Abaddon — Apollyon
 - Azazel — Azazael
 - Astaroth — Ashtaroth
-- Mammon
+- Mammon — Mammoh
 - Moloch — Molech
 - Asura — Asuras | Ashura
 - Demogorgon — Demogorgo
 - Anansi — Ananse | Kwaku Ananse | Anancy | Aunt Nancy | Kwaku Anansi | Anansi the Spider
 - Bhoot — Bhut | Bhoota | Bhuta | Bhoot ghost
 - Pontianak — Kuntilanak | Puntianak | Matianak | Kuntianak | Pontianac
-- Rainbow Serpent — Rainbow Snake | Wagyl | Waugal | Ngalyod | Yurlungur | Rainbow serpents
+- Rainbow Serpent — Rainbow Snake | Wagyl | Waugal | Ngalyod | Yurlungur | Rainbow serpents | Julunggul | Yurlunggur
 - Feathered serpent — Plumed serpent | Quetzalcoatl | Kukulkan | Q'uq'umatz | Gucumatz | Kukulcan
 - Hoop snake — Hoop snakes
 - Dover Demon
 - Flatwoods Monster — Braxton County Monster
 - Skunk ape — Florida skunk ape
 
-### Tier 4: obscure (324)
+### Tier 4: obscure (328)
 
 - Nuckelavee
 - Barghest — Barguest | Bargest | Barguist | Bargtjest
@@ -479,8 +481,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ahool
 - Siyokoy — Siyokoys
 - Menehune — Menehunes
-- Patupaiarehe — Patupairehe
-- Min Min light — Min Min lights
+- Patupaiarehe — Patupairehe | Turehu
+- Min Min light — Min Min lights | Min Min
 - Piasa — Piasa bird
 - Pukwudgie — Puckwudgie | Pukwudgies
 - Deer Woman
@@ -532,8 +534,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Turul — Turul bird
 - Kratt — Puuk | Pisuhänd | Krattid
 - Erlking — Erlkönig | Elf King | Erlkoenig
+- Ded Moroz — Father Frost | Grandfather Frost | Morozko | Dzied Maroz
+- Tiddalik — Tiddalick | Tiddalik the frog | Tiddalick the frog
+- Norn — Norns | Nornir
+- Phantom cat — Alien big cat | Phantom big cat | Mystery big cat | Phantom panther | Blue Mountains panther | Lithgow panther | Penrith panther | Gippsland phantom cat | Gippsland panther | Gippsland big cat | Grampians puma | British big cat
 
-### Tier 5: expert (774)
+### Tier 5: expert (802)
 
 - Amphisbaena — Amphisbaina | Amphisbaenia | Amphivena
 - Tarasque
@@ -1309,13 +1315,41 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Longma — Dragon-horse of the Yellow River
 - Feilian
 - Chi dragon — Hornless dragon
+- Snegurochka — Snow Maiden | Snegurka
+- Knecht Ruprecht — Servant Rupert | Farmhand Rupert
+- Père Fouettard — Father Whipper
+- Hawkesbury River monster — Hawkesbury monster | Hawkesbury River Nessie
+- Nargun
+- Garkain
+- Malingee
+- Namorrodor — Namorrodo | Namorodo
+- Papinijuwari
+- Yee-Na-Pah
+- Wulgaru
+- Dirawong
+- Junjudee — Junjadee
+- Mamu
+- Pangkarlangu
+- Kurrea
+- Gurangatch
+- Kinie Ger
+- Keen Keeng
+- Thardid Jimbo
+- Adnoartina
+- Mokoi
+- Manaia
+- Tipua — Tupua
+- Hakawai
+- Waitoreke — Waitoreki
+- Marakihau
+- Kumi — Kumi lizard
 
 ### Tier 6: rare jackpots (2)
 
 - Peluda — La Velue | Shaggy Beast | Shaggy Beast of La Ferté-Bernard
 - Bonnacon — Bonasus
 
-## Refused on purpose (20)
+## Refused on purpose (23)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -1326,7 +1360,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Orc — "Tolkien made orcs, though he borrowed the word from Old English."
 - Pokémon | Pikachu | Creeper — "Invented for a video game."
 - Xenomorph | Predator — "Invented for the film Alien."
-- Gruffalo | Wild Thing | Moomin | Grinch | Jabberwock | Jabberwocky | Snark | Bandersnatch | Jubjub bird — "Invented for a book."
+- Gruffalo | Wild Thing | Moomin | Grinch | Jabberwock | Jabberwocky | Snark | Bandersnatch | Jubjub bird | Rudolph | Rudolph the Red-Nosed Reindeer | Elf on the Shelf — "Invented for a book."
 - Slender Man — "Born on an internet forum in 2009."
 - Shrek — "A fictional ogre."
 - Dracula — "A novel's vampire. The species counts, but not the count."
@@ -1339,3 +1373,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Cupid | Zeus | Thor | Odin | Anubis — "A god, not a creature."
 - Megalodon | Megalodon shark — "Real, though it died out over three million years ago. Only the sightings since are folklore."
 - Thylacine | Tasmanian tiger | Tasmanian wolf — "Real. Thought extinct since 1936, though people still report seeing one."
+- Dinosaur | Dinosaurs | T. rex | Tyrannosaurus | Tyrannosaurus rex | Velociraptor | Triceratops | Pterodactyl | Brontosaurus | Stegosaurus | Mammoth | Woolly mammoth | Sabre-toothed tiger | Sabertooth tiger | Saber-toothed tiger — "Real once. The bones are in museums, not in folklore."
+- Mummy | Mummies — "Real, and very still. The walking kind was invented for novels and films."
+- Moa | Haast's eagle | Haast eagle | Giant moa — "Real. New Zealand lost it around 1400."

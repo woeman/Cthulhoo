@@ -170,7 +170,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Chicken | Hen | Rooster | Cockerel — "Chickens can fly, a little. Briefly, and without dignity."
+- Chicken | Hen | Rooster | Cockerel | Chook | Chooks — "Chickens can fly, a little. Briefly, and without dignity."
 - Turkey — "Wild turkeys fly surprisingly well."
 - Peacock | Peahen | Peafowl — "Peafowl fly up into trees to roost."
 - Puffin — "Puffins fly, beating their wings around 400 times a minute."

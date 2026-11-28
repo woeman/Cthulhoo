@@ -6,14 +6,14 @@ Rules: Any real field of study whose name ends in -ology or -logy. Words that on
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (353 answers)
+## Accepted now (357 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (15)
 
-- Biology
-- Psychology — Psycology | Physcology | Physchology | Pyschology
+- Biology — Byology
+- Psychology — Psycology | Physcology | Physchology | Pyschology | Phsycology
 - Geology
 - Sociology — Socology
 - Archaeology — Archeology
@@ -24,25 +24,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Anthropology
 - Criminology
 - Radiology
-- Cardiology — Caridology | Cadriology | Cardology
+- Cardiology — Caridology | Cadriology | Cardology | Cartiology
 - Dermatology
 - Neurology
 
 ### Tier 2: common (25)
 
 - Meteorology — Meterology | Metorology
-- Mythology
+- Mythology — Mithology
 - Palaeontology — Paleontology
-- Physiology
+- Physiology — Phsyiology
 - Pathology
-- Oncology
+- Oncology — Onchology
 - Gynaecology — Gynecology
 - Ophthalmology — Opthomology | Ophthomology | Opthamology | Opthalmology
-- Entomology
+- Entomology — Entymology
 - Ornithology
 - Egyptology
 - Cosmology
-- Etymology
+- Etymology — Ettymology | Eetymology
 - Seismology
 - Toxicology — Toxcology
 - Virology
@@ -119,7 +119,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Histopathology
 - Zoopsychology — Animal psychology
 
-### Tier 4: obscure (101)
+### Tier 4: obscure (102)
 
 - Glaciology
 - Speleology — Spelaeology
@@ -222,8 +222,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Zythology
 - Polemology
 - Periodontology
+- Symbology
 
-### Tier 5: expert (150)
+### Tier 5: expert (153)
 
 - Palynology
 - Bryology
@@ -375,13 +376,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gerontechnology
 - Ethnobiology
 - Ethnopharmacology
+- Martyrology
+- Buddhology
+- Podology
 
 ### Tier 6: rare jackpots (2)
 
 - Teuthology
 - Batology
 
-## Refused on purpose (7)
+## Refused on purpose (8)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -392,3 +396,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Astronomy — "No -ology in it. Astrology is the other one."
 - Pedagogy — "-agogy, not -ology."
 - Ideology — "A system of beliefs, not a field of study."
+- Agronomy | Economy | Economics | Anatomy | Botany | Chemistry | Physics | Maths | Mathematics | Taxonomy | Gastronomy | Geography | History | Medicine | Science | Engineering | Philosophy | Psychiatry | Dentistry | Forestry | Geometry | Optometry | Podiatry — "A field of study, but with no -ology in its name."

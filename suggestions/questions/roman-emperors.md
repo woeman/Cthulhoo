@@ -13,22 +13,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (9)
 
 - Augustus — Octavian | Octavius | Caesar Augustus | Augustus Caesar | Gaius Octavius | Emperor Augustus | Emperor Octavian | Emperor Octavius | Emperor Caesar Augustus | Emperor Augustus Caesar | Emperor Gaius Octavius | Octavianus | Imperator Caesar Augustus | Augustus Octavian | Caesar Octavian | Octavian Augustus | Emperor Octavianus | Emperor Imperator Caesar Augustus | Emperor Augustus Octavian | Emperor Caesar Octavian | Emperor Octavian Augustus
-- Nero — Emperor Nero | Nero Claudius Caesar | Nero Caesar | Lucius Domitius Ahenobarbus | Emperor Nero Claudius Caesar | Emperor Nero Caesar | Emperor Lucius Domitius Ahenobarbus
-- Caligula — Gaius | Little Boots | Emperor Caligula | Gaius Caesar | Gaius Caesar Germanicus | Emperor Gaius | Emperor Little Boots | Emperor Gaius Caesar | Emperor Gaius Caesar Germanicus
+- Nero — Emperor Nero | Nero Claudius Caesar | Nero Caesar | Lucius Domitius Ahenobarbus | Emperor Nero Claudius Caesar | Emperor Nero Caesar | Emperor Lucius Domitius Ahenobarbus | Nero Claudius Caesar Augustus Germanicus
+- Caligula — Gaius | Little Boots | Emperor Caligula | Gaius Caesar | Gaius Caesar Germanicus | Emperor Gaius | Emperor Little Boots | Emperor Gaius Caesar | Emperor Gaius Caesar Germanicus | Gaius Caesar Augustus Germanicus | Gaius Julius Caesar Germanicus
 - Marcus Aurelius — Aurelius | Marcus | Emperor Marcus Aurelius | Emperor Marcus | Marcus Aurelius Antoninus | Emperor Aurelius | Emperor Marcus Aurelius Antoninus
 - Hadrian — Emperor Hadrian | Hadrianus | Publius Aelius Hadrianus | Adrian | Emperor Hadrianus | Emperor Publius Aelius Hadrianus | Emperor Adrian
 - Constantine the Great — Constantine | Constantine I | Constantine 1 | Emperor Constantine the Great | Emperor Constantine | Emperor Constantine I | Constantinus | Saint Constantine | Constantine I the Great | Emperor Constantine 1 | Emperor Constantinus | Emperor Saint Constantine | Emperor Constantine I the Great
-- Claudius — Emperor Claudius | Tiberius Claudius Caesar | Claudius Caesar | Claudius I | Emperor Tiberius Claudius Caesar | Emperor Claudius Caesar | Emperor Claudius I
+- Claudius — Emperor Claudius | Tiberius Claudius Caesar | Claudius Caesar | Claudius I | Emperor Tiberius Claudius Caesar | Emperor Claudius Caesar | Emperor Claudius I | Tiberius Claudius Caesar Augustus Germanicus | Tiberius Claudius Caesar Augustus | Tiberius Claudius Drusus Nero Germanicus
 - Tiberius — Emperor Tiberius | Tiberius Caesar | Tiberius Caesar Augustus | Tiberius Claudius Nero | Tiberius I | Emperor Tiberius Caesar | Emperor Tiberius Caesar Augustus | Emperor Tiberius Claudius Nero | Emperor Tiberius I
 - Commodus — Emperor Commodus | Lucius Aurelius Commodus | Emperor Lucius Aurelius Commodus
 
 ### Tier 2: common (14)
 
 - Trajan — Emperor Trajan | Traianus | Trajanus | Marcus Ulpius Traianus | Optimus Princeps | Emperor Traianus | Emperor Trajanus | Emperor Marcus Ulpius Traianus | Emperor Optimus Princeps
-- Vespasian — Emperor Vespasian | Vespasianus | Emperor Vespasianus
+- Vespasian — Emperor Vespasian | Vespasianus | Emperor Vespasianus | Titus Flavius Vespasianus | Caesar Vespasianus Augustus
 - Titus — Emperor Titus
 - Domitian — Domitianus | Titus Flavius Domitianus | Emperor Domitian | Emperor Domitianus | Emperor Titus Flavius Domitianus
-- Diocletian — Emperor Diocletian | Diocletianus | Diocles | Emperor Diocletianus | Emperor Diocles
+- Diocletian — Emperor Diocletian | Diocletianus | Diocles | Emperor Diocletianus | Emperor Diocles | Gaius Aurelius Valerius Diocletianus | Gaius Valerius Diocletianus
 - Caracalla — Emperor Caracalla
 - Septimius Severus — Severus | Emperor Septimius Severus | Lucius Septimius Severus | Emperor Severus | Emperor Lucius Septimius Severus
 - Justinian I — Justinian | Justinian the Great | Justinian 1 | Justinian the First | Emperor Justinian I | Emperor Justinian | Emperor Justinian the Great | Emperor Justinian 1 | Emperor Justinian the First

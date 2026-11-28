@@ -6,7 +6,7 @@ Rules: Any real English word that rhymes with deep. Phrases don't count, and spe
 
 Spelling counts on this question: answers must match exactly.
 
-## Accepted now (51 answers)
+## Accepted now (65 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -54,7 +54,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Slagheap
 - Dirt-cheap
 
-### Tier 5: expert (16)
+### Tier 5: expert (29)
 
 - Housekeep
 - Outleap
@@ -72,20 +72,36 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Muckheap
 - Minesweep
 - Tweep
+- Geep
+- Upleap
+- Outweep
+- Outcreep
+- Unheap
+- Outkeep
+- Overkeep
+- Safekeep
+- Aheap
+- Estrepe
+- Ensweep
+- Wheep
+- Leep
 
-### Tier 6: rare jackpots (3)
+### Tier 6: rare jackpots (4)
 
-- Clepe
-- Threap
+- Clepe — Cleep
+- Threap — Threep
 - Beweep
+- Cassareep
 
-## Refused on purpose (6)
+## Refused on purpose (8)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Deep | Deeper | Deepest | Deeply | Knee-deep | Skin-deep | Ankle-deep | Waist-deep | Deep-sea — "That's the word itself. Nice try."
+- Deep | Deeper | Deepest | Deeply | Knee-deep | Skin-deep | Ankle-deep | Waist-deep | Deep-sea | Deeps — "That's the word itself. Nice try."
 - Black sheep | Lost sheep — "Just sheep, in a darker coat."
 - Chimney sweep | Clean sweep — "Just sweep, with soot on."
 - Sheet | Seat | Sleet | Street | Sweet | Week | Weak | Seek | Peak | Keen | Seen | Dream | Steam | Team | Seem | Leak | Cheek | Heat | Jeer | Deer | Beat | Feet | Keel | Peel — "A near rhyme. The deep wants a true one."
 - Ship | Dip | Drip | Kip | Sip | Tip | Slip — "A different vowel."
-- Sleeps | Keeps | Weeps | Creeps | Peeps | Beeps | Jeeps | Leaps | Heaps | Reaps | Seeps | Sweeps | Steeps | Bleeps | Cheeps | Sheeps | Veeps — "That ends in -eeps, so it rhymes with deeps, not deep."
+- Sleeps | Keeps | Weeps | Creeps | Peeps | Beeps | Jeeps | Leaps | Heaps | Reaps | Seeps | Sweeps | Steeps | Bleeps | Cheeps | Sheeps | Veeps | Neeps | Geeps — "That ends in -eeps, so it rhymes with deeps, not deep."
+- Quantum leap | Giant leap | Beauty sleep | Deep sleep | Light sleep | Go to sleep | Fall asleep | Junk heap | Compost heap | Rubbish heap | Trash heap | Ant heap | Ash heap | Counting sheep | Road sweep | Mission creep | Peep peep | Beep beep | Cheep cheep — "A phrase. Its last word alone would count."
+- Streep | Meryl Streep | Heep | Uriah Heep — "A name, not a word. The deep keeps a dictionary, not a phone book."

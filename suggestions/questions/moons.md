@@ -58,7 +58,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hydra — Pluto III | Hydra moon | Pluto III moon
 - Kerberos — Cerberus | Pluto IV | Kerberos moon | Cerberus moon | Pluto IV moon
 - Styx — Pluto V | Styx moon | Pluto V moon
-- Dysnomia — Eris I | Dysnomia moon | Eris I moon
+- Dysnomia — Eris I | Dysnomia moon | Eris I moon | Eris's moon | Eris moon | Moon of Eris
 - Himalia — Jupiter VI | Himalia moon | Jupiter VI moon
 - Thebe — Jupiter XIV | Thebe moon | Jupiter XIV moon
 - Metis — Jupiter XVI | Metis moon | Jupiter XVI moon
@@ -144,13 +144,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sao
 - Laomedeia — Laomedeia moon
 - Neso — Neso moon
-- Hiʻiaka — Haumea I | Hiʻiaka moon | Haumea I moon
+- Hiʻiaka — Haumea I | Hiʻiaka moon | Haumea I moon | Haumea's moon | Haumea moon
 - Namaka — Haumea II | Namaka moon | Haumea II moon
-- Vanth — Orcus I | Vanth moon | Orcus I moon
-- Weywot — Quaoar I | Weywot moon | Quaoar I moon
+- Vanth — Orcus I | Vanth moon | Orcus I moon | Orcus's moon | Orcus moon | Moon of Orcus
+- Weywot — Quaoar I | Weywot moon | Quaoar I moon | Quaoar's moon | Quaoar moon | Moon of Quaoar
 - Actaea — Actaea moon
 - Ilmarë — Ilmarë moon
-- Xiangliu — Xiangliu moon
+- Xiangliu — Xiangliu moon | Gonggong's moon | Gonggong moon | Moon of Gonggong
 - Megaclite — Megaclite moon
 - Taygete — Taygete moon
 - Chaldene — Chaldene moon
@@ -230,7 +230,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Valetudo — Valetudo moon
 - Hippocamp — Hippocamp moon
 
-## Refused on purpose (11)
+## Refused on purpose (14)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -245,3 +245,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Endor — "Fictional. The Ewoks are also fictional, sadly."
 - Didymos | Ida | Kalliope | Dinkinesh — "An asteroid, though it has a little moon of its own."
 - Cruithne | 3753 Cruithne | Kamoʻoalewa | Second moon | Mini moon — "An asteroid that shadows Earth around the Sun. Some call it a second moon, but it orbits the Sun, not us."
+- Eris | Makemake | Haumea | Sedna | Gonggong | Quaoar | Orcus | Dwarf planet — "A dwarf planet out past Neptune, not a moon, though most of them keep one."
+- Yavin 4 | Yavin IV | Yavin | LV-426 | Tatooine | Krypton | Arrakis — "Fictional. The deep has checked."
+- ISS | International Space Station | Space station | Sputnik | Hubble | Hubble Space Telescope | Satellite | Starlink | Mir | Tiangong | Skylab — "Built by people. The deep wants the natural kind."

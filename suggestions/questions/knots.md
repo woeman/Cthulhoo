@@ -76,7 +76,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stevedore knot — Stevedore
 - Heaving line knot — Heaving line
 - Marlinspike hitch — Marlinspike | Marlinspike knot
-- Buntline hitch — Buntline | Buntline knot
+- Buntline hitch — Buntline | Buntline knot | Slipped buntline hitch | Slipped buntline
 - Klemheist knot — Klemheist
 - Diamond knot — Lanyard knot | Diamond | Knife lanyard knot
 - Crown knot — Crown
@@ -175,7 +175,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Directional figure-eight
 - Bell ringer's knot
 - Adjustable grip hitch
-- Distel hitch
+- Distel hitch — Distel
 - Valdotain tresse — Valdotain | VT hitch
 - Schwabisch hitch
 - Purcell prusik

@@ -257,6 +257,61 @@ describe('a class pack’s copy of a daily question', () => {
   });
 });
 
+describe('two class packs that ask the same thing', () => {
+  // Anatomy and psychology may both ask for a part of the brain, each under its own id and with its own answers.
+  const brain = (id: string, text: string): PromptDef => ({ ...q(id, 'science'), text });
+  const files: Record<string, unknown> = {
+    'index.json': {
+      packs: [
+        { id: 'body', name: 'Body', group: 'Science', order: 1, file: 'body.json', prompts: 2, answers: 6 },
+        { id: 'mind', name: 'Mind', group: 'Science', order: 2, file: 'mind.json', prompts: 3, answers: 9 },
+      ],
+    },
+    'body.json': { prompts: [brain('body-brain-parts', 'Name a part of the human brain.'), q('body-bones', 'science')] },
+    'mind.json': { prompts: [brain('mind-brain-parts', 'Name a part of  the human BRAIN'), brain('mind-sci', 'name a sci-3'), q('mind-biases', 'science')] },
+  };
+  const book = () => new TopicBook(bank(), theme, async (file) => files[file]);
+
+  it('are the one question, whichever pack was loaded first', async () => {
+    const b = book();
+    await b.pool(['pack:body']);
+    expect(b.sameAs('body-brain-parts')).toBe('body-brain-parts');
+    await b.pool(['pack:mind']);
+    expect(b.sameAs('mind-brain-parts')).toBe('body-brain-parts');
+    expect(b.sameAs('body-brain-parts')).toBe('body-brain-parts');
+    expect(b.sameAs('mind-biases')).toBe('mind-biases');
+    const other = book();
+    await other.pool(['pack:mind']);
+    await other.pool(['pack:body']);
+    expect(other.sameAs('body-brain-parts')).toBe('mind-brain-parts');
+    expect(other.sameAs('mind-brain-parts')).toBe('mind-brain-parts');
+  });
+
+  it('are the daily question when the daily bank asks it too', async () => {
+    const b = book();
+    await b.pool(['pack:mind']);
+    // "name a sci-3" is the daily bank's "Name a sci-3." again, though the id does not say so.
+    expect(b.sameAs('mind-sci')).toBe('sci-3');
+    expect(b.sameAs('sci-3')).toBe('sci-3');
+  });
+
+  it('are never both asked in a mixed sitting', async () => {
+    const b = book();
+    const bk = bank();
+    const among = await b.pool(['pack:body', 'pack:mind']);
+    expect(among).toHaveLength(5);
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
+    const all = { ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) };
+    for (let sitting = 0; sitting < 12; sitting++) {
+      const asked = choosePrompts(all, ['sci-3'], 'DAGON-7', sitting, 3, 5, [], from).map((p) => p.id);
+      // Five questions less the twin and less the one today's dive holds.
+      expect(asked, `sitting ${sitting}`).toHaveLength(3);
+      expect(asked.filter((id) => id.endsWith('brain-parts')), `sitting ${sitting}`).toHaveLength(1);
+      expect(asked).not.toContain('mind-sci');
+    }
+  });
+});
+
 // ---------------------------------------------------------------- the published packs
 
 // Every class pack in the repo, as the build will publish it. None yet is not a failure.

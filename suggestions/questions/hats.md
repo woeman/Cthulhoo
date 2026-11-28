@@ -30,7 +30,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Boater — Straw boater | Skimmer | Boater hat | Straw boater hat | Skimmer hat | Canotier
 - Deerstalker — Sherlock Holmes hat | Deerstalker hat | Sherlock hat
-- Fez — Tarboosh | Tarboosh hat | Tarbush
+- Fez — Tarboosh | Tarboosh hat | Tarbush | Fezzes | Fezes
 - Turban — Dastar | Pagri | Pagdi | Turban hat | Dastar hat | Pagri hat | Pagdi hat | Puggaree | Pugree | Dastaar
 - Stovepipe hat — Stovepipe | Lincoln hat | Abe Lincoln hat
 - Pork pie hat — Porkpie

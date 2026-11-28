@@ -6,31 +6,31 @@ Rules: Any fighting art or combat sport, including named styles and schools. Wea
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (264 answers)
+## Accepted now (267 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (4)
 
-- Karate — Karate-do | Okinawan karate | Okinawa-te | Japanese karate | Sport karate
+- Karate — Karate-do | Okinawan karate | Okinawa-te | Japanese karate | Sport karate | Karatay
 - Judo — Kodokan judo | Kodokan | Kosen judo | Olympic judo
-- Kung fu — Gung fu | Shaolin kung fu | Shaolin | Chinese boxing | Gongfu | Chinese martial arts | Kuoshu | Guoshu | Quanfa | Chuan fa | Kempo kung fu | Kung fu wushu | Shaolin Temple boxing
-- Taekwondo — TKD | ITF Taekwondo | WT Taekwondo | Olympic taekwondo | Tae kwan do | Taikwondo | Teakwondo
+- Kung fu — Gung fu | Shaolin kung fu | Shaolin | Chinese boxing | Gongfu | Chinese martial arts | Kuoshu | Guoshu | Quanfa | Chuan fa | Kempo kung fu | Kung fu wushu | Shaolin Temple boxing | Kung foo | Kong foo
+- Taekwondo — TKD | ITF Taekwondo | WT Taekwondo | Olympic taekwondo | Tae kwan do | Taikwondo | Teakwondo | Reakwondo | Tai quan do | Rhee Taekwondo
 
 ### Tier 2: common (12)
 
-- Jujutsu — Jiu-jitsu | Ju-jitsu | Japanese jujutsu | Yawara | Japanese jiu-jitsu | Traditional jujutsu
-- Brazilian jiu-jitsu — BJJ | Brazilian jujitsu | Gracie jiu-jitsu | Brazilian jujutsu | Gracie jujitsu | Gracie | No-gi jiu-jitsu | No-gi | Sport jiu-jitsu
+- Jujutsu — Jiu-jitsu | Ju-jitsu | Japanese jujutsu | Yawara | Japanese jiu-jitsu | Traditional jujutsu | Jitsu
+- Brazilian jiu-jitsu — BJJ | Brazilian jujitsu | Gracie jiu-jitsu | Brazilian jujutsu | Gracie jujitsu | Gracie | No-gi jiu-jitsu | No-gi | Sport jiu-jitsu | Jits | Jitz
 - Kickboxing — Dutch kickboxing | American kickboxing | Japanese kickboxing | Full contact karate | Full contact | K-1 | K1 kickboxing
 - Boxing — Pugilism | Bare-knuckle boxing | Bare-knuckle | Fisticuffs | Prizefighting | Western boxing | English boxing | Fist fighting
-- Muay Thai — Thai boxing | Muay | Thai kickboxing | Muay Thai boxing | Thai box
-- Aikido — Aikikai | Yoshinkan | Yoshinkan aikido | Tomiki aikido | Shodokan aikido | Ki aikido
+- Muay Thai — Thai boxing | Muay | Thai kickboxing | Muay Thai boxing | Thai box | Muay ty | Moy tai | Moy thai | Mai tai | Mui tai | Mui thai | Muay tie | Mu thai | Moi thai | Muy tai
+- Aikido — Aikikai | Yoshinkan | Yoshinkan aikido | Tomiki aikido | Shodokan aikido | Ki aikido | Ikido
 - Krav Maga — Krav
-- Tai chi — Tai chi chuan | Taiji | Taijiquan | Chen tai chi | Chen-style tai chi | Yang tai chi | Yang-style tai chi | Wu-style tai chi | Tai chi kung fu
-- Wrestling — Freestyle wrestling | Greco-Roman wrestling | Catch wrestling | Greco-Roman | Grappling | Submission wrestling | Folkstyle wrestling | Amateur wrestling | Olympic wrestling | Collegiate wrestling | Scholastic wrestling | Lancashire wrestling | Catch-as-catch-can | Sport wrestling | Freestyle | Greco
-- Mixed martial arts — MMA | Cage fighting | Vale tudo | UFC | Ultimate fighting | Mixed martial art | Mixed fighting | Pancrase
-- Capoeira — Capoeira Angola | Capoeira Regional | Capoeira Contemporânea
-- Sumo — Sumo wrestling | Sumai | Japanese wrestling
+- Tai chi — Tai chi chuan | Taiji | Taijiquan | Chen tai chi | Chen-style tai chi | Yang tai chi | Yang-style tai chi | Wu-style tai chi | Tai chi kung fu | Taijo | Tie chi | Tai chee | Ty chi | Thai chee
+- Wrestling — Freestyle wrestling | Greco-Roman wrestling | Catch wrestling | Greco-Roman | Grappling | Submission wrestling | Folkstyle wrestling | Amateur wrestling | Olympic wrestling | Collegiate wrestling | Scholastic wrestling | Lancashire wrestling | Catch-as-catch-can | Sport wrestling | Freestyle | Greco | Wrestle
+- Mixed martial arts — MMA | Cage fighting | Vale tudo | UFC | Ultimate fighting | Mixed martial art | Mixed fighting | Pancrase | MMA fighting | Cage fight
+- Capoeira — Capoeira Angola | Capoeira Regional | Capoeira Contemporânea | Capwera | Kapoera | Capuera | Cappuera | Kapuera
+- Sumo — Sumo wrestling | Sumai | Japanese wrestling | Somo | Sumo wrestle
 
 ### Tier 3: known to fans (7)
 
@@ -98,7 +98,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Five Animals — Five Animals kung fu | Shaolin Five Animals | Ng Ying Kungfu | Wu Xing Quan
 - 10th Planet Jiu-Jitsu — 10th Planet | Tenth Planet Jiu-Jitsu | 10th Planet jujitsu
 
-### Tier 5: expert (185)
+### Tier 5: expert (188)
 
 - Kalaripayattu — Kalari | Kalarippayattu | Kalaripayat | Kalaripayit
 - Hung Gar — Hung Ga | Hung Kuen | Hung Gar kung fu | Hung Gar Kuen | Hong Jia Quan | Hung Kuen kung fu | Tiger crane
@@ -285,6 +285,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ryukyu Kempo — Ryukyu kenpo
 - Pygmachia — Pygme | Ancient Greek boxing
 - Gladiatorial combat — Gladiator fighting | Gladiatorial fighting
+- Coreeda — Coreeda wrestling
+- Zen Do Kai — ZDK
+- Go-Kan-Ryu — GKR | GKR Karate | Go Kan Ryu karate
 
 ### Tier 6: rare jackpots (3)
 
@@ -292,7 +295,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bokator — Kun Lbokator | Labokator | Lbokator | Kun Bokator
 - Kajukenbo
 
-## Refused on purpose (12)
+## Refused on purpose (18)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -306,4 +309,10 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Dim mak | Death touch — "The legendary death touch. No one has ever shown that it works."
 - Self-defence | Self-defense — "A goal, not a style. Name the art."
 - Martial arts | Martial art | Fighting | Combat — "That's the whole category. Name one of them."
+- Arm wrestling | Arm wrestle | Thumb war | Thumb wrestling — "A test of strength across a table. A sport, but not a fighting art."
+- Mud wrestling | Jelly wrestling | Pillow fighting | Pillow fight — "A show, not a fighting art."
+- Street fighting | Street fight | Brawling | Bar fighting | Bar brawl | Pub brawl | Scrapping — "No rules and no school. The deep wants an art with a name."
+- Slap fighting | Slap fight | Slapping | Power Slap — "Two people take turns, and neither may defend. A contest, not an art."
+- Rex Kwon Do | Rex Kwan Do — "Taught only in the film Napoleon Dynamite."
+- Boxercise | Cardio kickboxing | Cardio boxing | Body Combat | Les Mills Body Combat | Boxfit — "A workout borrowed from the ring. Nobody hits back."
 - Refused without a reason (near misses of real answers): Ludo | Samba

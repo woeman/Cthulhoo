@@ -6,7 +6,7 @@ Rules: Any real ship that was wrecked, sank or was lost at sea, in any century. 
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (411 answers)
+## Accepted now (414 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -175,7 +175,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - RMS Rhone — Rhone
 - SMS Emden — Emden
 
-### Tier 5: expert (256)
+### Tier 5: expert (259)
 
 - Flor de la Mar
 - Belitung wreck — Belitung
@@ -433,6 +433,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - I-52
 - I-400
 - Ehime Maru
+- Oceanos — MTS Oceanos
+- München — MS München | Muenchen | MS Muenchen | Munich | MS Munich
+- Tek Sing — Tek Sing junk | True Star
 
 ### Tier 6: rare jackpots (2)
 
