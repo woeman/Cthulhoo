@@ -1,0 +1,84 @@
+id: psychology-approaches
+text: Name a branch of psychology or a school of thought within it.
+flavor: A hundred and fifty years of argument about what a mind is. Nobody has won yet.
+rules: Any field, specialty, approach or perspective in psychology.
+section: History and approaches
+---
+1 Clinical psychology | Clinical
+1 Behaviourism | Behaviorism | Behavioural psychology | Behavioural | Behavioral psychology | Behaviourist
+1 Cognitive psychology | Cognitive | Cognitivism
+1 Developmental psychology | Developmental | Child psychology | Child development
+1 Social psychology | Social
+1 Forensic psychology | Forensic | Criminal psychology | Criminology
+1 Sports psychology | Sport psychology | Sport and exercise psychology
+2 Psychoanalysis | Psychodynamic | Freudian | Psychoanalytic | Psychodynamic approach
+2 Neuropsychology | Neuroscience | Biological psychology | Biopsychology | Biological | Behavioural neuroscience | Cognitive neuroscience | Physiological psychology
+2 Educational psychology | School psychology | Educational
+2 Organisational psychology | Industrial and organisational psychology | Organizational psychology | I/O psychology | Occupational psychology | Work psychology | Industrial psychology
+2 Humanistic psychology | Humanism | Humanistic
+2 Counselling psychology | Counseling psychology | Counselling
+2 Health psychology
+2 Evolutionary psychology | Evolutionary
+2 Positive psychology
+2 Abnormal psychology | Psychopathology
+2 Personality psychology | Personality | Individual differences
+2 Psychiatry
+2 Gestalt psychology | Gestalt
+2 Experimental psychology | Experimental
+2 Community psychology
+2 Cross-cultural psychology | Cultural psychology | Sociocultural | Sociocultural approach
+2 Environmental psychology | Conservation psychology
+2 Consumer psychology | Marketing psychology | Behavioural economics | Behavioral economics
+2 Psychometrics | Psychological testing | Quantitative psychology
+3 Structuralism
+3 Functionalism
+3 Jungian psychology | Analytical psychology
+3 Existential psychology | Existentialism
+3 Transpersonal psychology
+3 Indigenous psychology | Aboriginal psychology | Social and emotional wellbeing
+3 Feminist psychology | Psychology of women
+3 Critical psychology
+3 Narrative psychology | Discursive psychology
+3 Ecological psychology | Ecological systems theory
+3 Comparative psychology | Animal psychology | Ethology | Animal behaviour
+3 Psychophysics
+3 Psycholinguistics | Psychology of language
+3 Psychopharmacology
+3 Psychoneuroimmunology
+3 Behavioural genetics | Behavior genetics
+3 Geropsychology | Psychology of ageing | Gerontology | Lifespan psychology
+3 Paediatric psychology | Adolescent psychology
+3 Rehabilitation psychology
+3 Military psychology
+3 Aviation psychology | Human factors | Ergonomics | Engineering psychology
+3 Traffic psychology
+3 Legal psychology | Police psychology | Investigative psychology | Criminal profiling
+3 Political psychology
+3 Media psychology | Cyberpsychology
+3 Music psychology | Psychology of music
+3 Psychology of religion
+3 Parapsychology
+3 Mathematical psychology | Computational psychology | Cognitive science
+3 Social cognition | Social cognitive | Social learning theory
+4 Connectionism
+4 Associationism
+5 Phrenology :: Reading character from the bumps of the skull. It was nonsense, but its core idea, that different parts of the brain do different jobs, turned out to be right.
+4 Mesmerism
+4 Introspectionism | Introspection
+4 Radical behaviourism | Neobehaviourism
+4 Ego psychology | Object relations | Self psychology | Attachment theory
+4 Adlerian psychology | Individual psychology
+4 Phenomenology | Phenomenological psychology
+4 Cultural-historical psychology | Activity theory
+4 Liberation psychology
+4 Coaching psychology
+4 Peace psychology
+4 Space psychology
+6 Psychohistory :: The study of the hidden motives behind historical events, often by putting dead leaders on the couch. Isaac Asimov borrowed the word for predicting the future.
+4 Anomalistic psychology
+4 Differential psychology
+4 Würzburg School | Wurzburg School
+6 Hormic psychology :: William McDougall's theory that all behaviour is driven by purpose and instinct. From the Greek hormē, an urge. It lost to behaviourism and is all but forgotten.
+4 Act psychology
+x Sociology | Philosophy | Anthropology | Biology | Economics | Medicine | Neurology | Astrology | Psychic :: A neighbour of psychology, or a pretender, but not a branch of it.
+x Psychology | Psych | Mind | Brain | Therapy | Science | Study of the mind :: Which branch? Name it.

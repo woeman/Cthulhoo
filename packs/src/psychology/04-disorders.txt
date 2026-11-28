@@ -1,0 +1,112 @@
+id: psychology-disorders
+text: Name a mental health condition or psychological disorder.
+flavor: The mind can turn on itself in more ways than there are names for. These are the names.
+rules: Any recognised mental, neurodevelopmental or behavioural condition, by its clinical or common name.
+section: Mental health
+---
+1 Depression | Major depression | Major depressive disorder | Clinical depression | MDD
+1 Anxiety | Anxiety disorder | Generalised anxiety disorder | GAD | Generalized anxiety disorder
+1 ADHD | Attention deficit hyperactivity disorder | ADD | Attention deficit disorder
+1 OCD | Obsessive-compulsive disorder | Obsessive compulsive disorder
+1 Bipolar | Bipolar disorder | Manic depression | Bipolar I | Bipolar II
+1 Schizophrenia
+1 PTSD | Post-traumatic stress disorder | Post traumatic stress disorder | Shell shock | Complex PTSD | C-PTSD
+1 Autism | Autism spectrum disorder | ASD | Asperger's | Aspergers | Asperger syndrome | Asperger's syndrome
+2 Anorexia | Anorexia nervosa
+2 Bulimia | Bulimia nervosa
+2 Dementia | Alzheimer's | Alzheimers | Alzheimer's disease
+2 Insomnia
+2 Phobia | Phobias | Specific phobia
+2 Panic disorder | Panic attacks | Panic attack
+2 Social anxiety | Social anxiety disorder | Social phobia
+2 Borderline personality disorder | BPD | Emotionally unstable personality disorder
+2 Narcissism | Narcissistic personality disorder | NPD
+2 Psychopathy | Psychopath | Sociopathy | Sociopath | Antisocial personality disorder | ASPD
+2 Addiction | Substance use disorder | Alcoholism | Alcohol use disorder | Drug addiction | Substance abuse | Gambling addiction | Gambling disorder
+2 Eating disorder | Binge eating disorder | Binge eating
+2 Postnatal depression | Postpartum depression | PND | Perinatal depression
+2 Dissociative identity disorder | DID | Multiple personality disorder | Split personality
+2 Psychosis
+2 Tourette's | Tourette syndrome | Tourettes | Tourette's syndrome
+2 Dyslexia
+2 Agoraphobia
+2 Claustrophobia
+2 Kleptomania
+2 Seasonal affective disorder | SAD
+2 Hoarding | Hoarding disorder
+2 Amnesia
+2 Paranoia | Paranoid personality disorder
+2 Stockholm syndrome
+2 Body dysmorphia | Body dysmorphic disorder | BDD
+2 Hypochondria | Hypochondriasis | Illness anxiety disorder | Health anxiety
+3 Schizoaffective disorder
+3 Schizoid personality disorder | Schizotypal personality disorder
+3 Histrionic personality disorder
+3 Avoidant personality disorder
+3 Dependent personality disorder
+3 Obsessive-compulsive personality disorder | OCPD
+3 Dysthymia | Persistent depressive disorder
+3 Cyclothymia | Cyclothymic disorder
+3 Mania | Hypomania
+3 Delusional disorder
+3 Catatonia
+3 Separation anxiety | Separation anxiety disorder
+3 Selective mutism
+3 Adjustment disorder
+3 Acute stress disorder
+3 Reactive attachment disorder | Attachment disorder
+3 Conduct disorder
+3 Oppositional defiant disorder | ODD
+3 Intermittent explosive disorder
+3 Pyromania
+3 Trichotillomania | Hair pulling
+3 Dermatillomania | Excoriation disorder | Skin picking
+3 Tic disorder
+3 Dyscalculia | Dysgraphia | Dyspraxia | Specific learning disorder
+3 Intellectual disability
+3 Stuttering | Stammering
+3 Narcolepsy
+3 Sleepwalking | Somnambulism | Night terrors | Sleep apnoea | Sleep apnea
+3 Pica
+3 ARFID | Avoidant restrictive food intake disorder
+3 Orthorexia
+3 Gender dysphoria
+3 Conversion disorder | Functional neurological disorder | Hysteria
+3 Somatic symptom disorder | Somatisation
+3 Factitious disorder | Munchausen syndrome | Munchausen's | Munchausen by proxy
+3 Depersonalisation | Depersonalization | Derealisation | Depersonalisation-derealisation disorder
+3 Dissociative amnesia | Dissociative fugue | Fugue
+3 Delirium
+3 Korsakoff syndrome | Wernicke-Korsakoff syndrome
+3 Premenstrual dysphoric disorder | PMDD
+3 Postpartum psychosis | Postnatal psychosis
+3 Prolonged grief disorder | Complicated grief
+3 Burnout
+3 Internet gaming disorder | Gaming disorder | Internet addiction
+3 Sex addiction | Compulsive sexual behaviour disorder
+4 Erotomania
+4 Folie à deux | Folie a deux | Shared psychosis
+4 Capgras delusion | Capgras syndrome
+6 Cotard delusion | Cotard's syndrome | Walking corpse syndrome :: The fixed belief that you are dead, do not exist, or have lost your organs. Described in 1880 by Jules Cotard, whose patient saw no need to eat.
+4 Fregoli delusion
+4 Alice in Wonderland syndrome
+4 Stendhal syndrome
+4 Paris syndrome
+4 Jerusalem syndrome
+6 Koro :: A sudden terror that one's genitals are shrinking into the body and that death will follow. It comes in epidemics: Singapore had hundreds of cases in 1967.
+4 Amok | Running amok
+4 Hikikomori
+4 Taijin kyofusho
+4 Diogenes syndrome
+4 Ganser syndrome
+4 Ekbom syndrome | Delusional parasitosis
+4 Clinical lycanthropy | Lycanthropy
+4 Alien hand syndrome
+4 Prosopagnosia | Face blindness
+4 Aphasia
+4 Misophonia
+4 Exploding head syndrome
+4 Foreign accent syndrome
+x Stress | Sadness | Grief | Shyness | Worry | Anger | Loneliness | Tiredness | Nerves | Introversion | Imposter syndrome | Synaesthesia :: Part of being human, and sometimes very hard, but not a diagnosis in itself.
+x Epilepsy | Migraine | Stroke | Parkinson's | Multiple sclerosis | Brain tumour | Concussion | Cerebral palsy :: A condition of the brain and nerves, treated by a neurologist rather than counted as a mental disorder.
+x Crazy | Mad | Insane | Mental illness | Disorder | Madness | Lunacy :: Which one? Name the condition.
