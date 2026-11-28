@@ -334,9 +334,10 @@ async function reliquary(page, who) {
       const sign = flat(await d.textContent('.sc-bar-sign'));
       // Wren's phone was put away after her dive: a third diver, Ada, comes in by the link beside Bram.
       const ada = await device(browser, 'Ada');
-      await ada.open('about:blank');
+      const link = `${BASE}?scale=1&class=${sign}`;
+      await ada.open(link);
+      await bram.page.goto(link);
       for (const dev of [ada, bram]) {
-        await dev.page.goto(`${BASE}?scale=1&class=${sign}`);
         await dev.page.waitForSelector('.cv-entry .sc-join', { timeout: 45000 });
         await dev.page.fill('.sc-join input[name="diver-name"]', dev.name);
         await dev.page.click('.sc-join button[type="submit"]');
