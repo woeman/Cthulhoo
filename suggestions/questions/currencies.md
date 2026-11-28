@@ -6,21 +6,21 @@ Rules: Any currency, past or present, from any country. Ancient money and crypto
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (239 answers)
+## Accepted now (242 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (4)
 
 - Pound — Pound sterling | Sterling | British pound | GBP | Quid | Egyptian pound | Lebanese pound | Sudanese pound | Syrian pound | Scottish pound | English pound | UK pound | Gibraltar pound | Falkland Islands pound | Saint Helena pound | Jersey pound | Guernsey pound | Manx pound | South Sudanese pound | Cypriot pound | Maltese pound | Israeli pound | Australian pound | New Zealand pound | South African pound | Jamaican pound | Palestine pound | EGP | SDG | SYP | LBP | SSP | GIP | FKP | SHP | Pound Scots | Nicker | Pound coin | Sterling pound | Pounds sterling | Livre sterling | Lira sterlina | Palestinian pound
-- Dollar — US dollar | American dollar | Australian dollar | Canadian dollar | New Zealand dollar | Hong Kong dollar | Singapore dollar | Zimbabwean dollar | Jamaican dollar | Greenback | Buck | Loonie | USD | AUD | CAD | NZD | Simoleon | New Taiwan dollar | Taiwan dollar | Taiwanese dollar | Bahamian dollar | Barbadian dollar | Belize dollar | Bermudian dollar | Brunei dollar | Cayman Islands dollar | East Caribbean dollar | Eastern Caribbean dollar | Fijian dollar | Guyanese dollar | Liberian dollar | Namibian dollar | Solomon Islands dollar | Surinamese dollar | Trinidad and Tobago dollar | Trinidadian dollar | Straits dollar | Hawaiian dollar | Confederate dollar | Continental dollar | Tuvaluan dollar | Kiribati dollar | Rhodesian dollar | Malaysian dollar | Toonie | Twoonie | Aussie dollar | Kiwi dollar | Silver dollar | Trade dollar | Zimbabwe dollar | HKD | SGD | TWD | NTD | JMD | BSD | BBD | BZD | BMD | BND | KYD | XCD | FJD | GYD | LRD | NAD | SBD | SRD | TTD | ZWL | Yankee dollar | Smackers | Dollarydoos | Dollarydoo
+- Dollar — US dollar | American dollar | Australian dollar | Canadian dollar | New Zealand dollar | Hong Kong dollar | Singapore dollar | Zimbabwean dollar | Jamaican dollar | Greenback | Buck | Loonie | USD | AUD | CAD | NZD | Simoleon | New Taiwan dollar | Taiwan dollar | Taiwanese dollar | Bahamian dollar | Barbadian dollar | Belize dollar | Bermudian dollar | Brunei dollar | Cayman Islands dollar | East Caribbean dollar | Eastern Caribbean dollar | Fijian dollar | Guyanese dollar | Liberian dollar | Namibian dollar | Solomon Islands dollar | Surinamese dollar | Trinidad and Tobago dollar | Trinidadian dollar | Straits dollar | Hawaiian dollar | Confederate dollar | Continental dollar | Tuvaluan dollar | Kiribati dollar | Rhodesian dollar | Malaysian dollar | Toonie | Twoonie | Aussie dollar | Kiwi dollar | Silver dollar | Trade dollar | Zimbabwe dollar | HKD | SGD | TWD | NTD | JMD | BSD | BBD | BZD | BMD | BND | KYD | XCD | FJD | GYD | LRD | NAD | SBD | SRD | TTD | ZWL | Yankee dollar | Smackers | Dollarydoos | Dollarydoo | Cook Islands dollar | Niue dollar | Kiwi | Continental | Continental currency
 - Euro — EUR | Eura
 - Yen — Japanese yen | JPY
 
 ### Tier 2: common (18)
 
 - Rupee — Indian rupee | Pakistani rupee | Sri Lankan rupee | Nepalese rupee | Mauritian rupee | INR | Seychellois rupee | Burmese rupee | Afghan rupee | Gulf rupee | PKR | LKR | NPR | MUR | SCR | Rupaiya | Rupaya | Indian rupees
-- Peso — Mexican peso | Argentine peso | Chilean peso | Colombian peso | Cuban peso | Philippine peso | Uruguayan peso | Dominican peso | MXN | Bolivian peso | Guinea-Bissau peso | Puerto Rican peso | Paraguayan peso | ARS | CLP | COP | CUP | CUC | PHP | UYU | DOP | Cuban convertible peso | Peso convertible | Peso fuerte | Peso oro
+- Peso — Mexican peso | Argentine peso | Chilean peso | Colombian peso | Cuban peso | Philippine peso | Uruguayan peso | Dominican peso | MXN | Bolivian peso | Guinea-Bissau peso | Puerto Rican peso | Paraguayan peso | ARS | CLP | COP | CUP | CUC | PHP | UYU | DOP | Cuban convertible peso | Peso convertible | Peso fuerte | Peso oro | Convertible peso
 - Franc — Swiss franc | French franc | Belgian franc | CFA franc | Congolese franc | Rwandan franc | CHF | West African CFA franc | Central African CFA franc | CFP franc | Luxembourg franc | Monegasque franc | Burundian franc | Djiboutian franc | Guinean franc | Comorian franc | Malagasy franc | Malian franc | Moroccan franc | Algerian franc | XOF | XAF | XPF | BIF | CDF | DJF | GNF | KMF | RWF | Franc CFA | Franken | Swiss franken | Franc suisse | Franco | Katanga franc | Franc Pacifique | Pacific franc
 - Yuan — Renminbi | RMB | CNY | Chinese yuan | Kuai | Kwai | Chinese renminbi | Yuan renminbi
 - Ruble — Rouble | Russian ruble | Belarusian ruble | RUB | Soviet ruble | Transnistrian ruble | Tajik ruble | Latvian ruble | Soviet rouble | Transnistrian rouble | Tajik rouble | Latvian rouble | Rubl | Rubel | Rubli | BYN | Russian rouble | Belarusian rouble | Belarussian ruble
@@ -33,7 +33,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Shekel — Sheqel | New shekel | Israeli shekel | ILS | NIS | New Israeli shekel | New Israeli sheqel | Sheqalim | Shekalim | Shkalim
 - Dinar — Kuwaiti dinar | Iraqi dinar | Serbian dinar | Jordanian dinar | Bahraini dinar | Libyan dinar | Algerian dinar | Tunisian dinar | Yugoslav dinar | Bosnian dinar | Croatian dinar | Sudanese dinar | South Yemeni dinar | KWD | IQD | RSD | JOD | BHD | LYD | DZD | TND | Gold dinar | Dinara
 - Mark — Deutsche Mark | Deutschmark | German mark | D-Mark | DM | Convertible mark | Bosnian mark | Polish mark | Estonian mark | Goldmark | German marks | Deutsche Marks | Papiermarks
-- Drachma — Greek drachma | Drachmae | Tetradrachm | Didrachm | Drachmai | Drachme | Drachmes
+- Drachma — Greek drachma | Drachmae | Tetradrachm | Didrachm | Drachmai | Drachme | Drachmes | Drakma
 - Shilling — Kenyan shilling | Ugandan shilling | Tanzanian shilling | Somali shilling | British shilling | Bob | East African shilling | KES | UGX | TZS | Shilingi | Somaliland shilling | Deener | Deaner | Two bob | Ten bob
 - Baht — Thai baht | THB | Tical | Ticals | Bant
 - Bitcoin — BTC | XBT | Bitcoins
@@ -140,7 +140,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Libra — Diem | Facebook Libra
 - Official Trump — $TRUMP | Trump coin
 
-### Tier 5: expert (118)
+### Tier 5: expert (121)
 
 - Kip — LAK | Lao kip
 - Riel — KHR | Cambodian riel
@@ -260,6 +260,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Fartcoin
 - Hyperliquid — HYPE
 - Bittensor — TAO
+- Chervonets — Chervonetz
+- Bristol pound
+- Brixton pound
 
 ### Tier 6: rare jackpots (3)
 
@@ -267,12 +270,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Inti
 - Manilla — Manillas
 
-## Refused on purpose (10)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Cent | Penny | Pence | Kopek | Kopeck | Centavo | Centime | Paisa | Satang | Fils | Pfennig | Grosz | Haler | Stotinka | Öre | Nickel | Dime | Quarter | Farthing | Halfpenny | Groschen | Euro cent | Satoshi | Satoshis | Sats | Kreuzer | Heller | Anna | Annas | Paise | Sen | Jiao | Fen | Agorot | Halala | Kobo | Ngwee | Tambala | Rappen | Fillér | Bani | Kopiyka | Centavos | Centimes | Céntimo | Centesimo | Centesimi | Aurar | Eyrir | Pya | Tetri | Luma | Qəpik | Tiyin | Tyiyn | Lisente | Sente | Thebe | Millime | Qindarka | Santims | Centas | Senti | Seniti | Kopeks | Pfennigs | Groszy | Gwei | Wei | Mill | Mils | Ha'penny — "A fraction of a currency, not a currency itself."
-- Groat | Sovereign | Half sovereign | Half crown | Sixpence | Threepence | Thruppence | Krugerrand | Krugerrands | Florin coin | Crown coin | Napoléon d'or | Britannia | Maple Leaf | Gold eagle | Double eagle | Half eagle | Eagle coin | Zac | Trey | Trey bit | Gold coin — "A coin, not a currency of its own."
+- Cent | Penny | Pence | Kopek | Kopeck | Centavo | Centime | Paisa | Satang | Fils | Pfennig | Grosz | Haler | Stotinka | Öre | Nickel | Dime | Quarter | Farthing | Halfpenny | Groschen | Euro cent | Satoshi | Satoshis | Sats | Kreuzer | Heller | Anna | Annas | Paise | Sen | Jiao | Fen | Agorot | Halala | Kobo | Ngwee | Tambala | Rappen | Fillér | Bani | Kopiyka | Centavos | Centimes | Céntimo | Centesimo | Centesimi | Aurar | Eyrir | Pya | Tetri | Luma | Qəpik | Tiyin | Tyiyn | Lisente | Sente | Thebe | Millime | Qindarka | Santims | Centas | Senti | Seniti | Kopeks | Pfennigs | Groszy | Gwei | Wei | Mill | Mils | Ha'penny | Fifty cent | 50 cent | Fifty cents | Five cents — "A fraction of a currency, not a currency itself."
+- Groat | Sovereign | Half sovereign | Half crown | Sixpence | Threepence | Thruppence | Krugerrand | Krugerrands | Florin coin | Crown coin | Napoléon d'or | Britannia | Maple Leaf | Gold eagle | Double eagle | Half eagle | Eagle coin | Zac | Trey | Trey bit | Gold coin | Sou | Napoleon | Holey dollar | Holy dollar | Two dollar coin | Dollar coin | Fifty cent coin — "A coin, not a currency of its own."
 - Galleon | Sickle | Knut — "Wizarding money, and sadly fictional."
 - Gold | Silver | Bullion | Copper — "A metal, not a currency, though plenty of currencies were made of it."
 - Credit card | Cheque | Check | Cash | Money | Coins | Banknotes | PayPal | Visa | Mastercard | Afterpay | Eftpos | Paywave | Card | Debit card | Amex | American Express | Apple Pay | Google Pay | Venmo | BPAY | PayID | Tap and go | Bank transfer | Dosh | Moolah | Moola | Dough — "A way to pay, not a currency."
@@ -281,3 +284,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Fiver | Tenner | Pineapple | Lobster | Grey nurse | Blue swimmer | Banknote | Benjamin | Benjamins | C-note — "A banknote or a sum, not a currency. Name the money it is counted in."
 - Cryptocurrency | Crypto | Cryptocurrencies | Stablecoin | Altcoin | Memecoin | Digital currency — "A whole family of them. Name one coin."
 - Shares | Stocks | Stock | Stonks | Bonds | NFT | NFTs — "Something money buys, not money itself."
+- Frequent flyer points | Flybuys | Qantas points | Reward points | Loyalty points | Velocity points | Everyday Rewards | Air miles — "Points, not money, whatever the airline says."

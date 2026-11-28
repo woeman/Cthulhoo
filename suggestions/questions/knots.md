@@ -6,22 +6,22 @@ Rules: Any named knot, bend, hitch, loop, splice or lashing. Necktie knots and d
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (243 answers)
+## Accepted now (262 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
 - Reef knot — Square knot | Hercules knot | Reef | Square | Sailor's knot | Heracles knot | Herakles knot
-- Bowline — Bowline knot | King of knots | King of the knots
+- Bowline — Bowline knot | King of knots | King of the knots | Bo'lin | Bowlyn | Rabbit knot | Rabbit hole knot
 - Granny knot — Granny
 - Slip knot — Slipped knot | Running knot | Slip
-- Figure-eight knot — Figure of eight | Figure-of-eight knot | Figure 8 knot | Figure eight | Flemish knot | Savoy knot | Stopper knot | Stopper
+- Figure-eight knot — Figure of eight | Figure-of-eight knot | Figure 8 knot | Figure eight | Flemish knot | Savoy knot | Stopper knot | Stopper | Fig 8
 - Clove hitch — Clove | Clove knot | Builder's knot | Builder's hitch
 - Sheepshank — Sheepshank knot
-- Hangman's knot — Noose | Hangman's noose | Hangman's | Gallows knot | Noose knot | Hangman's noose knot
+- Hangman's knot — Noose | Hangman's noose | Hangman's | Gallows knot | Noose knot | Hangman's noose knot | Slip noose | Jack Ketch's knot
 - Overhand knot — Overhand | Thumb knot
-- Bow — Bow knot | Shoelace knot | Shoelace bow | Bunny ears | Bow tie | Bow tie knot | Shoelace bow knot | Bunny ears knot | Double bow | Double slipped reef knot | Shoelace
+- Bow — Bow knot | Shoelace knot | Shoelace bow | Bunny ears | Bow tie | Bow tie knot | Shoelace bow knot | Bunny ears knot | Double bow | Double slipped reef knot | Shoelace | Reef bow | Granny bow | Slipped reef knot | Slippery reef knot
 
 ### Tier 2: common (18)
 
@@ -30,11 +30,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Half hitch — Two half hitches
 - Round turn and two half hitches — Round turn | Round turn knot
 - Sheet bend — Weaver's knot | Becket bend | Sheet | Sheet knot | Becket hitch
-- Fisherman's knot — Angler's knot | Englishman's knot | Fisherman's
+- Fisherman's knot — Angler's knot | Englishman's knot | Fisherman's | Waterman's knot
 - Timber hitch — Timber | Timber knot
 - Rolling hitch — Rolling | Rolling knot
 - Trucker's hitch — Trucker's | Trucker's knot | Waggoner's hitch | Lorry driver's hitch | Dolly knot
-- Taut-line hitch — Tautline | Tautline knot | Tent hitch
+- Taut-line hitch — Tautline | Tautline knot | Tent hitch | Adjustable hitch | Guy line hitch
 - Prusik knot — Prusik | Prussik | Prussik knot | Prussic | Prussick
 - Monkey's fist — Monkey fist | Monkey's fist knot | Monkey fist knot | Monkey paw | Monkey's paw
 - Turk's head — Turk's head knot
@@ -57,11 +57,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cleat hitch — Cleat | Cleat knot
 - Highwayman's hitch — Highwayman's | Highwayman's knot
 - Carrick bend — Carrick | Carrick knot
-- Anchor bend — Fisherman's bend | Anchor | Anchor knot
+- Anchor bend — Fisherman's bend | Anchor | Anchor knot | Anchor hitch
 - Munter hitch — Italian hitch | Munter | Munter knot | HMS knot
 - Surgeon's knot — Surgeon's
 - Figure-eight loop — Figure of eight loop | Figure 8 loop | Figure-eight on a bight | Figure-eight follow-through | Rethreaded figure eight | Figure-of-eight follow-through | Figure-eight on a bight knot | Figure-eight follow-through knot | Rethreaded figure eight knot | Figure-of-eight follow-through knot | Retraced figure eight
-- Double fisherman's knot — Grapevine knot | Grapevine bend | Double fisherman's
+- Double fisherman's knot — Grapevine knot | Grapevine bend | Double fisherman's | Double Englishman's knot
 - Overhand loop — Loop knot
 - Cat's paw — Cat's paw knot
 - Eye splice
@@ -82,7 +82,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Crown knot — Crown
 - Uni knot — Grinner knot | Duncan loop
 - Surgeon's loop
-- Dropper loop — Dropper | Dropper knot
+- Dropper loop — Dropper | Dropper knot | Blood loop
 - Perfection loop — Angler's loop | Perfection | Perfection knot
 - Snell knot — Snell
 - Spanish bowline — Spanish bowline knot
@@ -104,7 +104,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stafford knot — Stafford
 - Halter hitch — Quick-release knot | Halter | Halter knot | Hitching tie
 - Ian knot — Ian's knot
-- Overhand bend — EDK | Offset overhand bend | European death knot | Flat overhand bend
+- Overhand bend — EDK | Offset overhand bend | European death knot | Flat overhand bend | Offset water knot
 - Honda knot — Lariat loop | Honda | Lariat | Lasso | Lasso knot
 - Blake's hitch — Blake's | Blake's knot
 - Scaffold knot — Scaffold
@@ -122,7 +122,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chain sinnet — Daisy chain | Monkey chain | Monkey braid
 - Double constrictor knot — Double constrictor
 
-### Tier 5: expert (140)
+### Tier 5: expert (159)
 
 - Icicle hitch — Icicle | Icicle knot
 - Bachmann hitch — Bachmann | Bachmann knot
@@ -196,7 +196,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Vice versa bend — Vice versa
 - Grief knot
 - Tumble hitch
-- Double uni knot
+- Double uni knot — Double uni
 - San Diego jam — San Diego jam knot
 - Orvis knot
 - Davy knot
@@ -264,6 +264,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bourchier knot
 - Spanish windlass
 - Gathering knot — Wrapping knot
+- Fisherman's loop — Fisherman's eye | Englishman's loop
+- Trefoil knot — Trefoil
+- Unknot — Trivial knot
+- Half knot
+- Farrimond friction hitch — Farrimond hitch
+- Slippery hitch
+- Catshank
+- Dogshank
+- Seizing — Round seizing | Racking seizing
+- Knute hitch
+- Studding sail halyard bend — Stunsail halyard bend
+- Australian plait — Aussie plait | Australian braid | Aussie braid | Plaited double
+- Slim Beauty — Slim Beauty knot
+- Bristol knot — No-name knot
+- PR knot — PR bobbin knot
+- GT knot
+- Surgeon's shoelace knot — Surgeon's bow | Shoemaker's knot | Tibetan trekking knot | Sherpa knot | Better bow knot
+- Loop-to-loop connection — Loop to loop
+- Sebile knot
 
 ### Tier 6: rare jackpots (3)
 
@@ -271,14 +290,18 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Balthus knot — Balthus
 - Matthew Walker knot — Matthew Walker
 
-## Refused on purpose (7)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Knot | Hitch | Bend | Loop | Splice | Rope — "Which knot? The deep wants a name."
-- Tie knot | Necktie knot | Tie — "Which tie knot? Name it, from the Windsor to the four-in-hand."
+- Knot | Hitch | Bend | Loop | Splice | Rope | Lashing | String — "Which knot? The deep wants a name."
+- Tie knot | Necktie knot | Tie | Necktie — "Which tie knot? Name it, from the Windsor to the four-in-hand."
 - Knotweed | Japanese knotweed — "A plant, not a knot."
 - Red knot | Great knot — "A bird, not a knot. A fine bird, though."
-- Top knot | Bun | Man bun — "A hairstyle. The deep wants rope."
+- Top knot | Bun | Man bun | Ponytail | French braid — "A hairstyle. The deep wants rope."
 - Pretzel — "A twisted bread, not a knot."
 - Tying the knot | Tie the knot — "That's a wedding. Congratulations, though."
+- Woggle — "A woggle holds a scout's scarf. Name the knot it is plaited from."
+- Macrame | Macrame knot — "A craft made of knots. Name one of them."
+- Muscle knot | Stomach knot | Knot in my stomach | Knot in wood — "A knot, but not one anybody tied."
+- Velcro | Zip tie | Cable tie — "The opposite of a knot."

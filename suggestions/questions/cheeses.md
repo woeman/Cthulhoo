@@ -6,18 +6,18 @@ Rules: Any named cheese from anywhere in the world, brands included. A kind of m
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (624 answers)
+## Accepted now (640 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
-- Cheddar — Mature cheddar | Mild cheddar | Extra mature cheddar | Vintage cheddar | Sharp cheddar | Cheddar cheese | Mature cheddar cheese | Mild cheddar cheese | Extra mature cheddar cheese | Vintage cheddar cheese | Sharp cheddar cheese | Tasty | Tasty cheese | Farmhouse cheddar | West Country Farmhouse Cheddar | Somerset cheddar | Vermont cheddar | Wisconsin cheddar | White cheddar | Red cheddar | Smoked cheddar | Montgomery's Cheddar | Keen's Cheddar | Westcombe Cheddar | Quicke's Cheddar | Wookey Hole Cheddar | Cheddar Gorge cheese | Chedder | Old cheddar | Medium cheddar | Irish cheddar | Mature Irish cheddar | Scottish cheddar | Welsh cheddar | Canadian cheddar | Farmhouse cheddar cheese | West Country Farmhouse Cheddar cheese | Somerset cheddar cheese | Vermont cheddar cheese | Wisconsin cheddar cheese | White cheddar cheese | Red cheddar cheese | Smoked cheddar cheese | Montgomery's Cheddar cheese | Keen's Cheddar cheese | Westcombe Cheddar cheese | Quicke's Cheddar cheese | Wookey Hole Cheddar cheese | Chedder cheese | Old cheddar cheese | Medium cheddar cheese | Irish cheddar cheese | Mature Irish cheddar cheese | Scottish cheddar cheese | Welsh cheddar cheese | Canadian cheddar cheese | Cheder | Tasty cheddar | Extra tasty | Extra tasty cheddar | Vintage | Vintage tasty
-- Brie — Brie de Meaux | Brie cheese | Brie de Meaux cheese | Brie de Melun | Somerset Brie | Cornish Brie | Brie de Melun cheese | Somerset Brie cheese | Cornish Brie cheese
+- Cheddar — Mature cheddar | Mild cheddar | Extra mature cheddar | Vintage cheddar | Sharp cheddar | Cheddar cheese | Mature cheddar cheese | Mild cheddar cheese | Extra mature cheddar cheese | Vintage cheddar cheese | Sharp cheddar cheese | Tasty | Tasty cheese | Farmhouse cheddar | West Country Farmhouse Cheddar | Somerset cheddar | Vermont cheddar | Wisconsin cheddar | White cheddar | Red cheddar | Smoked cheddar | Montgomery's Cheddar | Keen's Cheddar | Westcombe Cheddar | Quicke's Cheddar | Wookey Hole Cheddar | Cheddar Gorge cheese | Chedder | Old cheddar | Medium cheddar | Irish cheddar | Mature Irish cheddar | Scottish cheddar | Welsh cheddar | Canadian cheddar | Farmhouse cheddar cheese | West Country Farmhouse Cheddar cheese | Somerset cheddar cheese | Vermont cheddar cheese | Wisconsin cheddar cheese | White cheddar cheese | Red cheddar cheese | Smoked cheddar cheese | Montgomery's Cheddar cheese | Keen's Cheddar cheese | Westcombe Cheddar cheese | Quicke's Cheddar cheese | Wookey Hole Cheddar cheese | Chedder cheese | Old cheddar cheese | Medium cheddar cheese | Irish cheddar cheese | Mature Irish cheddar cheese | Scottish cheddar cheese | Welsh cheddar cheese | Canadian cheddar cheese | Cheder | Tasty cheddar | Extra tasty | Extra tasty cheddar | Vintage | Vintage tasty | Mild | Clothbound cheddar | Cloth cheddar | Cave aged cheddar | Quicke's
+- Brie — Brie de Meaux | Brie cheese | Brie de Meaux cheese | Brie de Melun | Somerset Brie | Cornish Brie | Brie de Melun cheese | Somerset Brie cheese | Cornish Brie cheese | Triple cream brie | Double brie | Double cream brie
 - Mozzarella — Mozzarella cheese | Mozz | Fresh mozzarella | Smoked mozzarella | Mozarella | Low-moisture mozzarella | Mozz cheese | Fresh mozzarella cheese | Smoked mozzarella cheese | Mozarella cheese | Low-moisture mozzarella cheese
 - Parmesan — Parmigiano-Reggiano | Parmigiano | Parmesan cheese | Parmigiano-Reggiano cheese | Parmigiano cheese | Parm | Reggiano | Parmezan | Parmesano | Parm cheese | Reggiano cheese | Parmezan cheese | Parmesano cheese
 - Camembert — Camembert cheese | Camembert de Normandie | Camembert de Normandie cheese
-- Stilton — Blue Stilton | Stilton cheese | Blue Stilton cheese | Colston Bassett Stilton | White Stilton | Cropwell Bishop Stilton | Long Clawson Stilton | Colston Bassett Stilton cheese | White Stilton cheese | Cropwell Bishop Stilton cheese | Long Clawson Stilton cheese
+- Stilton — Blue Stilton | Stilton cheese | Blue Stilton cheese | Colston Bassett Stilton | White Stilton | Cropwell Bishop Stilton | Long Clawson Stilton | Colston Bassett Stilton cheese | White Stilton cheese | Cropwell Bishop Stilton cheese | Long Clawson Stilton cheese | Stilton blue
 - Feta — Fetta | Feta cheese | Fetta cheese | Fega | Persian feta | Persian fetta | Danish feta | Danish fetta | Greek feta | Greek fetta | Marinated feta | Marinated fetta | Australian feta | Australian fetta
 - Gouda — Smoked Gouda | Gouda cheese | Smoked Gouda cheese | Goudse kaas | Aged Gouda | Young Gouda | Goudse kaas cheese | Aged Gouda cheese | Young Gouda cheese
 - Edam — Edam cheese | Edammer | Queso de bola | Eidam | Edammer cheese | Queso de bola cheese | Eidam cheese
@@ -25,9 +25,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 2: common (23)
 
-- Roquefort — Roquefort cheese | Société Roquefort | Société Roquefort cheese | Rockfort | Rochefort | Rokfor
+- Roquefort — Roquefort cheese | Société Roquefort | Société Roquefort cheese | Rockfort | Rochefort | Rokfor | Roqfort | Roquefort blue
 - Halloumi — Hellim | Haloumi | Halloumi cheese | Hellim cheese | Haloumi cheese | Hallumi | Hallumi cheese
-- Red Leicester — Leicester | Red Leicester cheese | Leicester cheese | Sparkenhoe Red Leicester | Sparkenhoe Red Leicester cheese
+- Red Leicester — Leicester | Red Leicester cheese | Leicester cheese | Sparkenhoe Red Leicester | Sparkenhoe Red Leicester cheese | Red Lester
 - Wensleydale — Wensleydale cheese | Yorkshire Wensleydale | Wensleydale with cranberries | Yorkshire Wensleydale cheese | Wensleydale with cranberries cheese
 - Gorgonzola — Gorgonzola cheese | Gorgonzola dolce | Gorgonzola piccante | Gorgonzola dolce cheese | Gorgonzola piccante cheese
 - Ricotta — Ricotta cheese
@@ -43,10 +43,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pecorino — Pecorino Sardo | Pecorino Toscano | Pecorino cheese | Pecorino Sardo cheese | Pecorino Toscano cheese | Pecorino Siciliano | Pecorino di Pienza | Pecorino Siciliano cheese | Pecorino di Pienza cheese
 - Burrata — Burrata cheese
 - Double Gloucester — Gloucester | Double Gloucester cheese | Gloucester cheese
-- American cheese — Processed cheese | Cheese slices | Kraft Singles | Kraft Singles cheese | American | Kraft | Kraft cheese | Process cheese | Plastic cheese | Cheese singles | Burger cheese | Singles | Sliced cheese
+- American cheese — Processed cheese | Cheese slices | Kraft Singles | Kraft Singles cheese | American | Kraft | Kraft cheese | Process cheese | Plastic cheese | Cheese singles | Burger cheese | Singles | Sliced cheese | Kraft cheddar
 - Danish Blue — Danish Blue cheese | Danablu | Danablu cheese
 - Cathedral City — Cathedral City cheese
-- Chèvre — Chèvre cheese | Goat's cheese | Goat cheese | Fromage de chèvre | Goat's milk cheese | Chèvre log | Fromage de chèvre cheese | Chevr | Chever
+- Chèvre — Chèvre cheese | Goat's cheese | Goat cheese | Fromage de chèvre | Goat's milk cheese | Chèvre log | Fromage de chèvre cheese | Chevr | Chever | Goat
 - Blue cheese — Blue | Blue vein | Blue veined cheese
 
 ### Tier 3: known to fans (45)
@@ -65,7 +65,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Grana Padano — Grana Padano cheese | Grana | Grana cheese
 - Havarti — Havarti cheese | Harvati
 - Boursin — Boursin cheese
-- Babybel — Mini Babybel | Babybel cheese | Mini Babybel cheese
+- Babybel — Mini Babybel | Babybel cheese | Mini Babybel cheese | Babybel light
 - Velveeta — Velveeta cheese
 - Leerdammer — Leerdammer cheese
 - Reblochon — Reblochon cheese
@@ -78,8 +78,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Quark — Quark cheese | Kvarg | Curd cheese | Topfen | Speisequark | Kwark | Kvarg cheese | Topfen cheese | Speisequark cheese | Kwark cheese
 - Queso fresco — Fresh cheese | Queso fresco cheese | Queijo fresco | Queijo fresco cheese
 - Dolcelatte — Dolcelatte cheese
-- Cambozola — Cambozola cheese
-- Philadelphia — Philadelphia cheese | Philly | Philly cream cheese
+- Cambozola — Cambozola cheese | Blue brie
+- Philadelphia — Philadelphia cheese | Philly | Philly cream cheese | Philadelphia cream cheese
 - Laughing Cow — La Vache qui rit | Laughing Cow cheese | La Vache qui rit cheese
 - Dairylea — Dairylea cheese
 - Applewood — Applewood cheese
@@ -129,11 +129,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Old Amsterdam — Old Amsterdam cheese
 - Brunost — Gjetost | Brown cheese | Mysost | Brunost cheese | Gjetost cheese | Mysost cheese | Geitost | Norwegian brown cheese | Ekte geitost | Mesost | Messmör | Geitost cheese | Ekte geitost cheese | Mesost cheese | Messmör cheese
 - Cashel Blue — Cashel Blue cheese
-- Dubliner — Dubliner cheese
+- Dubliner — Dubliner cheese | Kerrygold Dubliner
 - Stracchino — Crescenza | Stracchino cheese | Crescenza cheese
 - Scamorza — Scamorza cheese | Scamorza affumicata | Scamorza affumicata cheese
 - Caciocavallo — Caciocavallo cheese | Caciocavallo Silano | Caciocavallo Podolico | Caciocavallo Silano cheese | Caciocavallo Podolico cheese
-- Bocconcini — Bocconcini cheese | Ciliegine | Ovolini | Mozzarella balls | Ciliegine cheese | Ovolini cheese | Mozzarella balls cheese
+- Bocconcini — Bocconcini cheese | Ciliegine | Ovolini | Mozzarella balls | Ciliegine cheese | Ovolini cheese | Mozzarella balls cheese | Cherry bocconcini | Baby bocconcini
 - Mozzarella di bufala — Buffalo mozzarella | Mozzarella di bufala cheese | Buffalo mozzarella cheese
 - Labneh — Labne | Labneh cheese | Labne cheese | Labna | Lebni | Labna cheese | Lebni cheese
 - Akkawi — Akkawi cheese | Ackawi | Akawi | Ackawi cheese | Akawi cheese
@@ -152,7 +152,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Primula — Primula cheese
 - Seriously Strong — Seriously | Seriously Strong cheese | Seriously cheese
 - Pilgrims Choice — Pilgrims Choice cheese
-- Castello — Castello cheese
+- Castello — Castello cheese | Castello Blue | Blue Castello | Creamy blue
 - Galbani — Galbani cheese
 - Easy Cheese — Squirty cheese | Spray cheese | Cheese in a can
 - Single Gloucester — Single Gloucester cheese
@@ -257,14 +257,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Liederkranz — Liederkranz cheese
 - Cheer — Cheer cheese | Cheer Tasty | Cheer Tasty cheese | Coon | Coon cheese | Cher
 - Bega — Bega cheese | Bega Tasty | Bega cheddar
-- Mainland — Mainland cheese
+- Mainland — Mainland cheese | Epicure | Mainland Epicure
 - King Island — King Island Dairy | King Island cheese | King Island Dairy cheese | King Island brie | King Island cheddar
 - Kapiti — Kapiti cheese
 - Milkana — Milkana cheese
 - Cracker Barrel — Kraft Cracker Barrel | Cracker Barrel cheese | Kraft Cracker Barrel cheese
 - Saganaki — Saganaki cheese
 
-### Tier 5: expert (380)
+### Tier 5: expert (396)
 
 - Chaource — Chaource cheese
 - Banon — Banon cheese
@@ -633,7 +633,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kameruka — Kameruka cheddar
 - Ashgrove — Ashgrove cheddar
 - Heidi Farm — Heidi Farm raclette | Heidi tilsit
-- Tilba — Tilba Club | Tilba Real Dairy | ABC Cheese Factory
+- Tilba — Tilba Club | Tilba Real Dairy | ABC Cheese Factory | ABC cheese
 - Bodalla — Bodalla Dairy
 - Woodside — Woodside Cheese Wrights | Woodside Edith | Edith
 - Udder Delights
@@ -646,23 +646,40 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Roaring Forties — Roaring Forties Blue | Roaring 40s | Roaring 40s Blue
 - Lemnos — Lemnos fetta | Lemnos feta | Lemnos haloumi
 - Tasmanian Heritage — Tasmanian Heritage brie | Tasmanian Heritage camembert
+- Dodoni — Dodoni feta
+- Liddells — Liddells cheese
+- Westacre
+- Maleny Cheese — Maleny
+- Kenilworth Dairies — Kenilworth | Kenilworth cheese
+- Hunter Belle — Hunter Belle cheese
+- Paesanella
+- Floridia — Floridia Cheese
+- Montefiore — Montefiore cheese
+- Bay of Fires cheddar — Bay of Fires
+- Saint André — St Andre
+- Government cheese
+- Barber's — Barber's 1833 | Barber's cheddar
+- Bonbel
+- Ile de France
+- Coastal cheddar — Coastal
 
 ### Tier 6: rare jackpots (2)
 
 - Milbenkäse — Mite cheese | Würchwitzer Milbenkäse | Milbenkäse cheese | Würchwitzer Milbenkäse cheese
 - Pule — Donkey cheese | Pule cheese
 
-## Refused on purpose (10)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Cheese | Hard cheese | Soft cheese | Smoked cheese | Mature cheese | Mild cheese — "Yes, but which?"
+- Cheese | Hard cheese | Soft cheese | Smoked cheese | Mature cheese | Mild cheese | Pizza cheese | Grated cheese | Shredded cheese | Smelly cheese | Stinky cheese | Dutch cheese | Cheese with holes | Cheese spread | Fromage | Formaggio | Queso | Triple cream | Washed rind | White mould — "Yes, but which?"
 - Tofu — "Bean curd. A cheese only in spirit."
-- Butter | Yoghurt | Yogurt | Cream | Milk | Ghee — "Dairy, but not cheese."
+- Butter | Yoghurt | Yogurt | Cream | Milk | Ghee | Sour cream | Kefir | Custard | Ice cream — "Dairy, but not cheese."
 - Cheesecake — "A pudding, not a cheese."
-- Fondue | Welsh rarebit | Mac and cheese | Macaroni cheese | Cheese on toast — "A dish of melted cheese, not a cheese."
+- Fondue | Welsh rarebit | Mac and cheese | Macaroni cheese | Cheese on toast | Cheese toastie | Toastie | Cheeseburger | Cauliflower cheese | Cheese pizza | Cheese sandwich | Grilled cheese | Cheese platter | Cheese board — "A dish of melted cheese, not a cheese."
 - Nacho cheese | Cheese sauce | Cheez Whiz — "A sauce."
 - Moon — "Not made of cheese, whatever you were told."
-- Sheep's cheese | Cow's cheese | Buffalo cheese — "A kind of milk, not a named cheese."
+- Sheep's cheese | Cow's cheese | Buffalo cheese | Moose cheese | Camel cheese — "A kind of milk, not a named cheese."
 - Vegan cheese | Cashew cheese | Bio cheese | Nutritional yeast | Nooch | Dairy-free cheese | Plant-based cheese — "No milk in it. The deep keeps to the dairy."
 - Head cheese | Brawn — "A meat terrine, despite the name. No milk came near it."
+- Cheezels | Cheetos | Twisties | Cheese and bacon balls | CC's | Cheese puffs — "A cheese-flavoured snack, not a cheese."

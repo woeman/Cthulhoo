@@ -43,7 +43,9 @@
     "Emperor Nero Claudius Caesar",
     "Emperor Nero Caesar",
     "Emperor Lucius Domitius Ahenobarbus",
-    "Nero Claudius Caesar Augustus Germanicus"
+    "Nero Claudius Caesar Augustus Germanicus",
+    "Nero Claudius",
+    "Caesar Nero"
    ],
    "tier": 1,
    "lore": "Did not fiddle while Rome burned. The fiddle hadn't been invented."
@@ -61,7 +63,9 @@
     "Emperor Gaius Caesar",
     "Emperor Gaius Caesar Germanicus",
     "Gaius Caesar Augustus Germanicus",
-    "Gaius Julius Caesar Germanicus"
+    "Gaius Julius Caesar Germanicus",
+    "Caligula Caesar",
+    "Gaius Caligula"
    ],
    "tier": 1,
    "lore": "Said to have planned to make his horse a consul, though the tale may be slander."
@@ -75,7 +79,10 @@
     "Emperor Marcus",
     "Marcus Aurelius Antoninus",
     "Emperor Aurelius",
-    "Emperor Marcus Aurelius Antoninus"
+    "Emperor Marcus Aurelius Antoninus",
+    "Philosopher king",
+    "Philosopher emperor",
+    "The Philosopher"
    ],
    "tier": 1,
    "lore": "A philosopher-emperor whose private notebook, the Meditations, is still a bestseller."
@@ -140,7 +147,9 @@
     "Emperor Tiberius Caesar",
     "Emperor Tiberius Caesar Augustus",
     "Emperor Tiberius Claudius Nero",
-    "Emperor Tiberius I"
+    "Emperor Tiberius I",
+    "Tiberius Claudius",
+    "Tiberius Nero"
    ],
    "tier": 1
   },
@@ -149,7 +158,8 @@
    "aliases": [
     "Emperor Commodus",
     "Lucius Aurelius Commodus",
-    "Emperor Lucius Aurelius Commodus"
+    "Emperor Lucius Aurelius Commodus",
+    "Commodus Aurelius"
    ],
    "tier": 1,
    "lore": "Fought as a gladiator in the arena, and was strangled in his bath by a wrestler named Narcissus."
@@ -215,7 +225,8 @@
   {
    "answer": "Caracalla",
    "aliases": [
-    "Emperor Caracalla"
+    "Emperor Caracalla",
+    "Bassianus"
    ],
    "tier": 2,
    "lore": "Gave citizenship to almost every free man in the empire, and built enormous baths."
@@ -227,7 +238,8 @@
     "Emperor Septimius Severus",
     "Lucius Septimius Severus",
     "Emperor Severus",
-    "Emperor Lucius Septimius Severus"
+    "Emperor Lucius Septimius Severus",
+    "Septimius"
    ],
    "tier": 2
   },
@@ -301,7 +313,8 @@
     "Emperor Antoninus Pius",
     "Antonine",
     "Emperor Antoninus",
-    "Emperor Antonine"
+    "Emperor Antonine",
+    "Pius"
    ],
    "tier": 2
   },
@@ -318,7 +331,8 @@
     "Emperor Julianus",
     "Emperor Flavius Claudius Julianus",
     "Emperor Julian II",
-    "Emperor Julian the Philosopher"
+    "Emperor Julian the Philosopher",
+    "The Apostate"
    ],
    "tier": 2
   },
@@ -354,7 +368,8 @@
    "aliases": [
     "Verus",
     "Emperor Lucius Verus",
-    "Emperor Verus"
+    "Emperor Verus",
+    "Lucius"
    ],
    "tier": 3
   },
@@ -396,7 +411,8 @@
    "aliases": [
     "Alexander Severus",
     "Emperor Severus Alexander",
-    "Emperor Alexander Severus"
+    "Emperor Alexander Severus",
+    "Alexianus"
    ],
    "tier": 3
   },
@@ -409,7 +425,9 @@
     "Emperor Maximinus",
     "Emperor Maximinus I",
     "Maximinus the Thracian",
-    "Emperor Maximinus the Thracian"
+    "Emperor Maximinus the Thracian",
+    "Thrax",
+    "The Thracian"
    ],
    "tier": 3
   },
@@ -426,7 +444,8 @@
     "Philip the Arabian",
     "Marcus Julius Philippus",
     "Emperor Philip the Arabian",
-    "Emperor Marcus Julius Philippus"
+    "Emperor Marcus Julius Philippus",
+    "The Arab"
    ],
    "tier": 3
   },
@@ -615,7 +634,8 @@
     "Basil",
     "Emperor Basil 2",
     "Emperor Basil the Second",
-    "Emperor Basil"
+    "Emperor Basil",
+    "Bulgar Slayer"
    ],
    "tier": 3,
    "lore": "Called the Bulgar-Slayer. He ruled for almost 50 years, and never married."
@@ -1208,7 +1228,9 @@
     "Leo the Philosopher",
     "Emperor Leo 6",
     "Emperor Leo the Sixth",
-    "Emperor Leo the Philosopher"
+    "Emperor Leo the Philosopher",
+    "Leo VI the Wise",
+    "The Wise"
    ],
    "tier": 4
   },
@@ -1233,7 +1255,8 @@
     "Emperor Nikephoros 2 Phokas",
     "Emperor Nikephoros",
     "Emperor Nicephorus",
-    "Emperor Nicephorus Phocas"
+    "Emperor Nicephorus Phocas",
+    "Nicephorus II"
    ],
    "tier": 4
   },
@@ -2649,7 +2672,13 @@
    "aliases": [
     "Attila the Hun",
     "Emperor Attila",
-    "Emperor Attila the Hun"
+    "Emperor Attila the Hun",
+    "Alaric",
+    "Genseric",
+    "Gaiseric",
+    "Arminius",
+    "Shapur",
+    "Decebalus"
    ],
    "reason": "He fought the emperors. He wasn't one."
   },
@@ -2688,7 +2717,9 @@
   {
    "answer": "Crassus",
    "aliases": [
-    "Emperor Crassus"
+    "Emperor Crassus",
+    "Marcus Crassus",
+    "Marcus Licinius Crassus"
    ],
    "reason": "The richest man in Rome, but never emperor."
   },
@@ -2739,7 +2770,9 @@
    "aliases": [
     "Maximus Meridius",
     "Emperor Maximus Decimus Meridius",
-    "Emperor Maximus Meridius"
+    "Emperor Maximus Meridius",
+    "Gladiator",
+    "Russell Crowe"
    ],
    "reason": "Russell Crowe's general in Gladiator. Fiction."
   },
@@ -2764,7 +2797,8 @@
   {
    "answer": "Germanicus",
    "aliases": [
-    "Emperor Germanicus"
+    "Emperor Germanicus",
+    "Germanicus Caesar"
    ],
    "reason": "A celebrated general and heir who died before he could rule."
   },
@@ -2832,9 +2866,175 @@
     "Barbarossa",
     "Otto the Great",
     "Otto I",
-    "Charles V"
+    "Charles V",
+    "Francis II",
+    "Frederick II",
+    "Henry IV",
+    "Rudolf II"
    ],
    "reason": "A later Western line, crowned by popes from 800 on. The deep wants the older Rome."
+  },
+  {
+   "answer": "Palpatine",
+   "aliases": [
+    "Emperor Palpatine",
+    "Darth Sidious",
+    "Zurg",
+    "Emperor Zurg",
+    "Caesar Flickerman",
+    "Coriolanus Snow",
+    "President Snow",
+    "Titus Andronicus",
+    "Lucius Vorenus",
+    "Titus Pullo"
+   ],
+   "reason": "A creature of fiction. Rome's real emperors were stranger."
+  },
+  {
+   "answer": "Seneca",
+   "aliases": [
+    "Seneca the Younger"
+   ],
+   "reason": "Nero's tutor, never an emperor. His pupil ordered him to die."
+  },
+  {
+   "answer": "Virgil",
+   "aliases": [
+    "Ovid",
+    "Horace",
+    "Pliny",
+    "Pliny the Elder",
+    "Pliny the Younger",
+    "Livy",
+    "Suetonius",
+    "Plutarch",
+    "Juvenal",
+    "Catullus",
+    "Lucretius",
+    "Vitruvius"
+   ],
+   "reason": "A writer of Rome, not a ruler of it."
+  },
+  {
+   "answer": "Herod the Great",
+   "aliases": [
+    "King Herod",
+    "Herod Antipas"
+   ],
+   "reason": "A client king in Judaea, ruling by Rome's leave. Never emperor."
+  },
+  {
+   "answer": "Stilicho",
+   "aliases": [
+    "Flavius Aetius",
+    "Ricimer",
+    "Arbogast"
+   ],
+   "reason": "The power behind a weak emperor's throne, never on it."
+  },
+  {
+   "answer": "Kaiser",
+   "aliases": [
+    "Tsar",
+    "Czar"
+   ],
+   "reason": "A title that grew from Caesar's own name, centuries on. Name one of the Romans who wore the original."
+  },
+  {
+   "answer": "Imperator",
+   "aliases": [
+    "Princeps",
+    "Basileus"
+   ],
+   "reason": "A title, not a man. Name one who held it."
+  },
+  {
+   "answer": "Pope",
+   "aliases": [
+    "Pontifex Maximus",
+    "Saint Peter",
+    "St Peter"
+   ],
+   "reason": "He inherited the emperors' old priestly title, and their city, but not their throne."
+  },
+  {
+   "answer": "Mussolini",
+   "aliases": [
+    "Benito Mussolini",
+    "Il Duce",
+    "Victor Emmanuel",
+    "Victor Emmanuel III",
+    "Garibaldi"
+   ],
+   "reason": "Rome again, but two thousand years late."
+  },
+  {
+   "answer": "Gracchus",
+   "aliases": [
+    "Tiberius Gracchus",
+    "Gaius Gracchus",
+    "The Gracchi",
+    "Cincinnatus",
+    "Coriolanus",
+    "Horatius",
+    "Camillus",
+    "Fabius Maximus"
+   ],
+   "reason": "A hero of the Republic, dead long before Rome had emperors."
+  },
+  {
+   "answer": "Lepidus",
+   "aliases": [
+    "Marcus Lepidus"
+   ],
+   "reason": "The third man of the Second Triumvirate, pushed aside by Octavian. Never emperor."
+  },
+  {
+   "answer": "Britannicus",
+   "aliases": [
+    "Drusus",
+    "Marcellus",
+    "Agrippa Postumus",
+    "Aelius Caesar",
+    "Lucius Aelius",
+    "Lucius Aelius Caesar",
+    "Crispus"
+   ],
+   "reason": "An heir who died before he could rule."
+  },
+  {
+   "answer": "Antinous",
+   "reason": "Hadrian's beloved, made a god after he drowned in the Nile. Never an emperor."
+  },
+  {
+   "answer": "Tetrarchy",
+   "aliases": [
+    "Triumvirate",
+    "First Triumvirate",
+    "Second Triumvirate",
+    "Five Good Emperors",
+    "Year of the Four Emperors",
+    "Julio-Claudians",
+    "Flavians"
+   ],
+   "reason": "More than one man. Name one of them."
+  },
+  {
+   "answer": "Hadrian's Wall",
+   "aliases": [
+    "Trajan's Column",
+    "Arch of Titus",
+    "Arch of Constantine",
+    "Baths of Caracalla",
+    "Baths of Diocletian",
+    "Colosseum",
+    "Pantheon",
+    "Constantinople",
+    "Antonine Wall",
+    "Aurelian Walls",
+    "Trajan's Market"
+   ],
+   "reason": "A thing an emperor built, not the emperor. Name the man behind it."
   }
  ],
  "section": "World history",

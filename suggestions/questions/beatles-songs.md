@@ -12,16 +12,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (19)
 
-- Hey Jude — Hey Jules
+- Hey Jude — Hey Jules | Hey Jood | Hey Jude Don't Make It Bad | Jude
 - Let It Be
 - Yesterday — Scrambled Eggs
-- Yellow Submarine — We All Live in a Yellow Submarine
-- Help! — Help Me If You Can
-- Here Comes the Sun
+- Yellow Submarine — We All Live in a Yellow Submarine | Yellow Sub
+- Help! — Help Me If You Can | Help I Need Somebody | I Need Somebody
+- Here Comes the Sun — Sun Sun Sun Here It Comes
 - Come Together — Come Together Right Now | Here Come Old Flat Top
 - Twist and Shout — Shake It Up Baby
 - I Want to Hold Your Hand — I Wanna Hold Your Hand | Hold Your Hand
-- All You Need Is Love — Love Is All You Need | All You Need
+- All You Need Is Love — Love Is All You Need | All You Need | Love Love Love
 - Love Me Do — Love Love Me Do
 - She Loves You — She Loves You Yeah Yeah Yeah | Yeah Yeah Yeah
 - Eleanor Rigby — All the Lonely People | Elenor Rigby | Eleanor Rigsby
@@ -35,24 +35,24 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 2: common (47)
 
 - Something — Something in the Way She Moves
-- Get Back — Get Back to Where You Once Belonged
+- Get Back — Get Back to Where You Once Belonged | Get Back Jojo
 - Revolution — You Say You Want a Revolution
 - Paperback Writer
 - Day Tripper
 - We Can Work It Out — Work It Out
-- Ticket to Ride
-- Michelle — Michelle Ma Belle
+- Ticket to Ride — Ticket 2 Ride
+- Michelle — Michelle Ma Belle | Ma Belle
 - In My Life
 - Norwegian Wood (This Bird Has Flown) — Norwegian Wood | This Bird Has Flown
 - With a Little Help from My Friends — A Little Help from My Friends | With a Little Help | I Get By with a Little Help | Little Help | Bad Finger Boogie | With a Little Help from Your Friends
 - Ob-La-Di, Ob-La-Da — Ob La Di
 - While My Guitar Gently Weeps — While My Guitar | My Guitar Gently Weeps | Guitar Gently Weeps | Gently Weeps
-- The Long and Winding Road
+- The Long and Winding Road — Winding Road
 - Drive My Car — Baby You Can Drive My Car
 - Nowhere Man
-- Back in the U.S.S.R. — Back in the Soviet Union
-- Helter Skelter
-- I Am the Walrus — I'm the Walrus | The Walrus | Goo Goo G'joob
+- Back in the U.S.S.R. — Back in the Soviet Union | USSR | Back in USSR
+- Helter Skelter — Helta Skelta
+- I Am the Walrus — I'm the Walrus | The Walrus | Goo Goo G'joob | I am the Eggman | Eggman
 - Magical Mystery Tour
 - Please Please Me
 - From Me to You
@@ -66,7 +66,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - I Feel Fine
 - Hello, Goodbye
 - Sgt. Pepper's Lonely Hearts Club Band — Sgt Pepper | Sergeant Pepper | Sergeant Pepper's Lonely Hearts Club Band | Lonely Hearts Club Band | Sgt. Pepper's Lonely Hearts Club Band (Reprise) | Sgt Pepper Reprise
-- Octopus's Garden — Octopus Garden | Octopuses Garden | In an Octopus's Garden
+- Octopus's Garden — Octopus Garden | Octopuses Garden | In an Octopus's Garden | Octopus
 - Golden Slumbers
 - Don't Let Me Down
 - I Saw Her Standing There — She Was Just Seventeen
@@ -347,7 +347,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Carnival of Light
 - Cry for a Shadow
 
-## Refused on purpose (28)
+## Refused on purpose (30)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -371,11 +371,13 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hey Joe — "Jimi Hendrix. You want Jude."
 - Wonderwall — "Oasis. The influence is audible, but no."
 - Bohemian Rhapsody — "Queen."
-- Satisfaction | (I Can't Get No) Satisfaction | Paint It Black | Sympathy for the Devil — "The Rolling Stones."
+- Satisfaction | (I Can't Get No) Satisfaction | Paint It Black | Sympathy for the Devil | Angie | Let It Bleed | Gimme Shelter | Jumpin' Jack Flash | Brown Sugar | Ruby Tuesday | Start Me Up | You Can't Always Get What You Want — "The Rolling Stones."
 - Abbey Road | Rubber Soul | Revolver | Beatles for Sale | With the Beatles | White Album | The Beatles | Past Masters | Anthology | Meet the Beatles — "An album, not a song. Name one of its tracks."
 - Beautiful Boy | Beautiful Boy (Darling Boy) | Watching the Wheels | Mind Games | Power to the People | Nobody Told Me | Whatever Gets You Thru the Night | #9 Dream | Stand by Me — "John Lennon on his own, after the band."
-- Wonderful Christmastime | Say Say Say | Coming Up | Uncle Albert/Admiral Halsey | Uncle Albert | Let 'Em In | With a Little Luck | My Love | No More Lonely Nights | Hope of Deliverance | Pipes of Peace | Hi, Hi, Hi | Junior's Farm | Listen to What the Man Said | Helen Wheels | Venus and Mars | Goodnight Tonight | The Girl Is Mine | Temporary Secretary — "Paul McCartney after the Beatles, solo or with Wings."
+- Wonderful Christmastime | Say Say Say | Coming Up | Uncle Albert/Admiral Halsey | Uncle Albert | Let 'Em In | With a Little Luck | My Love | No More Lonely Nights | Hope of Deliverance | Pipes of Peace | Hi, Hi, Hi | Junior's Farm | Listen to What the Man Said | Helen Wheels | Venus and Mars | Goodnight Tonight | The Girl Is Mine | Temporary Secretary | We All Stand Together | Frog Chorus — "Paul McCartney after the Beatles, solo or with Wings."
 - All Those Years Ago | Give Me Love (Give Me Peace on Earth) | Give Me Love | Crackerbox Palace | Blow Away | When We Was Fab | Handle with Care | End of the Line — "George Harrison after the Beatles, solo or with the Traveling Wilburys."
 - Back Off Boogaloo | You're Sixteen | Oh My My | No No Song — "Ringo on his own, after the band."
-- Mrs. Robinson | Good Vibrations | Mr. Tambourine Man | Happy Together | Daydream Believer | I'm a Believer | House of the Rising Sun | My Generation | Waterloo Sunset | You Really Got Me — "A sixties classic, but not one of theirs."
+- Mrs. Robinson | Good Vibrations | Mr. Tambourine Man | Happy Together | Daydream Believer | I'm a Believer | House of the Rising Sun | My Generation | Waterloo Sunset | You Really Got Me | Sweet Caroline | Brown Eyed Girl | California Dreamin | California Dreaming | The Sound of Silence | Space Oddity | Surfin USA | Blowin in the Wind | Blowing in the Wind | Like a Rolling Stone | Friday on My Mind | Wild Thing | The Twist | Let's Twist Again | Hey Hey We're the Monkees | Bridge Over Troubled Water — "A sixties classic, but not one of theirs."
 - A World Without Love — "Written by Paul, but a hit for Peter and Gordon in 1964."
+- John Lennon | Paul McCartney | George Harrison | Ringo Starr | Ringo | Lennon | McCartney | Lennon and McCartney | Lennon McCartney — "One of the band, not one of the songs."
+- Stairway to Heaven | Hotel California | Dancing Queen | Rocket Man | Goodbye Yellow Brick Road | Khe Sanh | Down Under | You're the Voice | Sweet Child o' Mine | Smells Like Teen Spirit | Billie Jean | Thriller | Don't Stop Believin' | Livin' on a Prayer | Hey Ya | Yellow Brick Road — "Someone else's song, and from after the band had split."

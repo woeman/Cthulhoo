@@ -6,25 +6,25 @@ Rules: Any monster, spirit or creature of the sea, rivers or lakes from the worl
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (231 answers)
+## Accepted now (242 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (5)
 
-- Kraken — Krake | Kraaken
-- Mermaid — Merman | Merfolk | Mermen | Sea maid | Merpeople | Sea maiden | Havfrue | Havmand | Meerjungfrau | Sirena | Jalpari
-- Loch Ness Monster — Nessie | Loch Ness | Ness monster | Nessiteras rhombopteryx
+- Kraken — Krake | Kraaken | Cracken | Craken
+- Mermaid — Merman | Merfolk | Mermen | Sea maid | Merpeople | Sea maiden | Havfrue | Havmand | Meerjungfrau | Sirena | Jalpari | Mermade
+- Loch Ness Monster — Nessie | Loch Ness | Ness monster | Nessiteras rhombopteryx | Nessy
 - Siren — Seirenes | Sea siren
 - Leviathan
 
 ### Tier 2: common (9)
 
-- Kelpie — Water horse
+- Kelpie — Water horse | Kelpy | Water kelpie
 - Selkie — Silkie | Selchie | Seal folk | Roane | Seal woman | Seal wife | Seal people | Selky
 - Scylla — Skylla
 - Charybdis — Kharybdis
-- Sea serpent — Sea dragon | Sea orm | Sea wyrm | Sea worm | Sea snake monster
+- Sea serpent — Sea dragon | Sea orm | Sea wyrm | Sea worm | Sea snake monster | Serpent | Giant sea snake | Giant sea serpent | Sea snake
 - Jormungandr — Midgard Serpent | World Serpent | Jormungand | Midgardsormr | Midgard Worm | Midgard Snake | Iormungandr
 - Hydra — Lernaean Hydra | Hydra of Lerna
 - Naiad — Water nymph | Nymph | Nymphs | Water nymphs | Naiades | River nymph | Spring nymph | Freshwater nymph
@@ -52,7 +52,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nuckelavee — Nuckalavee | Nuckelavey
 - Vodyanoy — Vodyanoi | Vodnik | Wodnik | Vodenjak | Vodyanik | Vodianoi | Vodianoy | Vodyanoj | Water grandfather
 - Bakunawa
-- Taniwha
+- Taniwha — Tanifa | Taniwa
 - Mami Wata — Mammy Water | Mami Water | Mama Wata | Watramama | Mamy Wata
 - Iara — Yara | Uiara | Mãe-d'água | Mother of Waters
 - Encantado — Boto | Boto encantado | Bufeo colorado
@@ -83,13 +83,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ceasg — Maighdean na tuinne | Maid of the wave
 - Funayurei — Ship ghost | Ship ghosts
 - Mizuchi
-- Aspidochelone
-- Zaratan
+- Aspidochelone — Fastitocalon | Devil whale | Island whale
+- Zaratan — Giant turtle | Giant sea turtle | Island turtle
 - Qalupalik — Qallupilluk | Qallupilluit | Kalupalik
 - Tarasque — Tarasca
 - Mokele-mbembe
 - Tokoloshe — Tikoloshe | Tokolosh | Tokoloshi
-- Oceanid — Oceanids
+- Oceanid — Oceanids | Calypso
 - Horned Serpent — Uktena | Horned water serpent
 - Cadborosaurus — Caddy
 - Chessie — Chesapeake Bay Monster
@@ -128,7 +128,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Grendel's mother — Grendel's mum | Grendel's dam
 - Jonah's whale — Jonah's fish | Great fish | Dag gadol | Whale of Jonah
 
-### Tier 5: expert (123)
+### Tier 5: expert (134)
 
 - Isonade
 - Tannin — Tanin | Tanninim
@@ -253,26 +253,37 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - White River Monster — Whitey
 - Telchines — Telkhines
 - Abaia
+- Hawkesbury River Monster — Hawkesbury Monster | Hawkesbury River serpent
+- Moha-moha
+- Adaro
+- Tahoe Tessie
+- Shachihoko
+- Nanaue
+- Nyami Nyami
+- Ningen
+- Sea witch
+- Old Man of the Sea
+- Loveland Frog — Loveland Frogman
 
 ### Tier 6: rare jackpots (2)
 
 - Bake-kujira — Ghost whale
 - Hafgufa
 
-## Refused on purpose (24)
+## Refused on purpose (25)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Cthulhu — "Invented by H. P. Lovecraft in 1928, not a monster of myth or folklore."
 - Dagon — "A grain god of the Philistines. Medieval scholars made him a fish, and Lovecraft made him worse."
 - Deep Ones | Deep One — "Fish-folk invented by H. P. Lovecraft, not creatures of myth or folklore."
-- Moby Dick — "A fictional whale, inspired by a real albino whale called Mocha Dick."
+- Moby Dick | White whale — "A fictional whale, inspired by a real albino whale called Mocha Dick."
 - Jaws — "A film shark. The real ones are bad enough."
 - Godzilla | Rodan | Gamera — "A film monster, born in 1954 from a nuclear test."
 - Ariel | The Little Mermaid | Ursula — "A Disney mermaid. Andersen's little mermaid had no name."
 - Flying Dutchman — "A ghost ship, not a creature. Its captain may disagree."
-- Poseidon | Neptune | Njord | Aegir | Ran | Tiamat | Ryujin | Sedna | Yemoja | Oceanus | Dragon King | Longwang | Watatsumi | Suijin | He Bo | Gonggong | Nereus | Proteus | Phorcys | Pontus | Amphitrite | Glaucus | Manannán mac Lir | Manannan | Llŷr | Agwé | Olokun | Iemanjá | Ahti | Vellamo | Varuna | Apsu | Sobek | Tangaroa | Kanaloa — "A god, not a monster."
-- Megalodon — "Real, and extinct. Probably."
+- Poseidon | Neptune | Njord | Aegir | Ran | Tiamat | Ryujin | Sedna | Yemoja | Oceanus | Dragon King | Longwang | Watatsumi | Suijin | He Bo | Gonggong | Nereus | Proteus | Phorcys | Pontus | Amphitrite | Glaucus | Manannán mac Lir | Manannan | Llŷr | Agwé | Olokun | Iemanjá | Ahti | Vellamo | Varuna | Apsu | Sobek | Tangaroa | Kanaloa | Yemaya — "A god, not a monster."
+- Megalodon | The Meg — "Real, and extinct. Probably."
 - Giant squid | Colossal squid | Giant octopus | Octopus — "Real, and probably where one famous monster came from."
 - Oarfish — "Real, and probably behind many a sea-serpent sighting."
 - Manatee | Dugong | Sea cow — "Real. Sailors may have mistaken them for mermaids."
@@ -283,7 +294,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Sea monkey | Sea monkeys — "Brine shrimp, sold as pets by mail order."
 - Cecaelia — "A modern name for octopus-folk. Old folklore never used it."
 - Dragon — "Too broad. Name one from the deep."
-- Tengu | Pixie | Leprechaun | Banshee | Unicorn | Griffin | Phoenix | Yeti | Bigfoot | Wendigo | Chupacabra | Werewolf | Minotaur | Basilisk — "Folklore, but not from the water."
-- Sea monster | Lake monster | Water spirit | River monster | Water monster | Sea creature | Water demon — "That's the whole category. Name one, like the kraken."
-- Whale | Blue whale | Sperm whale | Killer whale | Orca | Shark | Great white shark | Crocodile | Anaconda | Jellyfish — "Real, and monstrous enough. Myth has its own."
+- Tengu | Pixie | Leprechaun | Banshee | Unicorn | Griffin | Phoenix | Yeti | Bigfoot | Wendigo | Chupacabra | Werewolf | Minotaur | Basilisk | Medusa | Cyclops | Cerberus | Pegasus | Chimera | Sphinx | Vampire | Yowie | Behemoth | Drop bear — "Folklore, but not from the water."
+- Sea monster | Lake monster | Water spirit | River monster | Water monster | Sea creature | Water demon | Swamp monster | Monster | Water fairy — "That's the whole category. Name one, like the kraken."
+- Whale | Blue whale | Sperm whale | Killer whale | Orca | Shark | Great white shark | Crocodile | Anaconda | Jellyfish | Sea lion | Squid | Turtle | Sea turtle | Stingray | Eel — "Real, and monstrous enough. Myth has its own."
 - Bloop — "A real underwater sound from 1997, most likely an icequake."
+- Aquaman | Sharknado | Sharktopus | Tamatoa | Dory | Mermaid Man | Swamp Thing | King Shark | Gyarados | Lapras | Kyogre | Pokemon | Siren Head — "Fiction of the last hundred years. The deep wants older stories."

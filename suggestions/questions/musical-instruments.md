@@ -6,18 +6,18 @@ Rules: Any musical instrument, from any culture or century.
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (550 answers)
+## Accepted now (558 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
 - Piano — Pianoforte | Grand Piano | Upright Piano | Baby Grand | Klavier | Prepared piano | Concert grand | Honky-tonk piano | Steinway
-- Guitar — Acoustic Guitar | Classical Guitar | Spanish Guitar | 12-String Guitar | Gutar | Gitar | Flamenco guitar | Seven-string guitar | Steel-string guitar | Nylon-string guitar | Parlour guitar | Folk guitar
+- Guitar — Acoustic Guitar | Classical Guitar | Spanish Guitar | 12-String Guitar | Gutar | Gitar | Flamenco guitar | Seven-string guitar | Steel-string guitar | Nylon-string guitar | Parlour guitar | Folk guitar | Double neck guitar | Double-necked guitar | Twin neck guitar
 - Drums — Drum Kit | Drum Set | Trap set | Trap kit | Kit | Electronic drums | Electronic drum kit | E-drums | Electric drums
 - Violin — Fiddle | Violine | Violon | Electric violin | Baroque violin
 - Trumpet — Piccolo trumpet | Pocket trumpet | Herald trumpet | Fanfare trumpet
-- Flute — Concert flute | Transverse flute | Western concert flute | Irish flute | Wooden flute | Silver flute | Boehm flute | Baroque flute | Traverso | Flauto traverso
+- Flute — Concert flute | Transverse flute | Western concert flute | Irish flute | Wooden flute | Silver flute | Boehm flute | Baroque flute | Traverso | Flauto traverso | Floot
 - Saxophone — Sax | Alto Saxophone | Tenor Saxophone | Baritone Saxophone | Soprano Saxophone | Alto Sax | Tenor Sax | Sopranino saxophone | Bass saxophone | Contrabass saxophone | Bari sax | Soprano sax | Baritone sax
 - Cello — Violoncello | Electric cello | Baroque cello
 - Clarinet — Clarionet | E-flat clarinet | B-flat clarinet
@@ -27,15 +27,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Bass Guitar — Bass | Electric Bass | Fretless bass | Acoustic bass guitar | Precision Bass | Fender Precision | Five-string bass
 - Electric Guitar — Stratocaster | Strat | Fender Stratocaster | Telecaster | Les Paul | Gibson Les Paul | Semi-acoustic guitar | Hollow-body guitar | Solid-body guitar | Lead guitar | Rhythm guitar | Flying V
-- Keyboard — Electronic Keyboard | Casio keyboard | Digital keyboard | Portable keyboard | Home keyboard | Keyboards
+- Keyboard — Electronic Keyboard | Casio keyboard | Digital keyboard | Portable keyboard | Home keyboard | Keyboards | MIDI keyboard | Electric keyboard
 - Ukulele — Uke | Ukelele | Ukalele | Tenor ukulele | Baritone ukulele | Soprano ukulele | Concert ukulele
 - Banjo — Five-string banjo | Tenor banjo | Plectrum banjo | Bluegrass banjo
 - Harmonica — Mouth Organ | Blues Harp | Chromatic harmonica | Diatonic harmonica | French harp | Moothie
 - Accordion — Squeezebox | Piano Accordion | Button accordion | Accordian | Chromatic accordion | Free-bass accordion
 - Trombone — Bass trombone | Alto trombone | Tenor trombone | Valve trombone | Slide trombone
-- Tuba — Bass tuba | Contrabass tuba
+- Tuba — Bass tuba | Contrabass tuba | Tooba
 - French Horn — Horn | Double horn | Orchestral horn | Vienna horn
-- Oboe — Hautboy | Hautbois
+- Oboe — Hautboy | Hautbois | Obo
 - Bassoon
 - Viola
 - Double Bass — Upright Bass | Contrabass | String Bass | Bass Fiddle | Bull fiddle | Doghouse bass | Stand-up bass | Acoustic bass
@@ -43,12 +43,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Organ — Pipe Organ | Church Organ | Hammond Organ | Hammond | Electric organ | Electronic organ | Hammond B3 | Chamber organ | Cathedral organ
 - Recorder — Descant recorder | Soprano recorder | Treble recorder | Alto recorder | Tenor recorder | Bass recorder | Blockflöte | Flûte à bec
 - Triangle
-- Tambourine — Timbrel
+- Tambourine — Timbrel | Tambo
 - Bagpipes — Great Highland Bagpipe | Pipes | Highland bagpipes | Scottish bagpipes | Cornemuse | Highland pipes | Great Highland pipes
 - Synthesizer — Synth | Synthesiser | Moog | Minimoog | Modular synth | Modular synthesizer | Analogue synth | Analog synthesizer
 - Mandolin
 - Piccolo
-- Cymbals — Hi-hat | Crash Cymbal | Ride cymbal | Splash cymbal | China cymbal | Crash | Ride | Hi-hats | Clash cymbals | Orchestral cymbals | Suspended cymbal
+- Cymbals — Hi-hat | Crash Cymbal | Ride cymbal | Splash cymbal | China cymbal | Crash | Ride | Hi-hats | Clash cymbals | Orchestral cymbals | Suspended cymbal | Symbols | Symbals | High hat | High hats
 - Glockenspiel — Glock | Orchestra bells
 - Bongos — Bongo Drums
 - Maracas
@@ -261,7 +261,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Surdo
 - Pandeiro
 - Slit Drum — Log drum
-- Glass Harp — Musical glasses | Singing glasses
+- Glass Harp — Musical glasses | Singing glasses | Wine glasses
 - Monochord
 - Diddley Bow
 - Cigar Box Guitar
@@ -325,7 +325,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Archtop guitar — Archtop | Jazz guitar
 - Baritone guitar
 - Combo organ — Farfisa | Farfisa organ | Vox Continental
-- Theatre organ — Theater organ | Cinema organ | Mighty Wurlitzer
+- Theatre organ — Theater organ | Cinema organ | Mighty Wurlitzer | Wurlitzer organ
 - Dutar — Dotar | Dotara
 - Alto clarinet
 - Post horn — Coach horn
@@ -333,7 +333,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Natural horn — Hand horn
 - Bell lyre — Lyra glockenspiel | Marching glockenspiel | Glockenspiel lyre
 
-### Tier 5: expert (236)
+### Tier 5: expert (244)
 
 - Ophicleide
 - Serpent
@@ -571,6 +571,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ashiko
 - Triple harp — Welsh triple harp
 - Garmon
+- Bass ukulele — U-Bass | Bass uke
+- Guitalele — Guitarlele | Guilele
+- Mandocello
+- Turntables — Turntable | Decks | DJ decks | Record decks
+- Musical bow — Mouth bow
+- Chime bars
+- Tenor guitar
+- Tenori-on
 
 ### Tier 6: rare jackpots (3)
 
@@ -578,11 +586,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Great Stalacpipe Organ — Stalacpipe Organ | Stalacpipe
 - Waterphone
 
-## Refused on purpose (8)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Voice | Human Voice | Singing | Beatbox | Beatboxing | Humming | Whistling | Clapping | Hand claps | Body percussion — "Arguably the first instrument of all, but the deep means something you can hold."
+- Voice | Human Voice | Singing | Beatbox | Beatboxing | Humming | Whistling | Clapping | Hand claps | Body percussion | Vocals | Vocal | Vocal cords — "Arguably the first instrument of all, but the deep means something you can hold."
 - Orchestra | Band | Choir | Ensemble | Brass Band | Quartet | Symphony orchestra | Big band | Rock band | Jazz band | String quartet | Duo | Symphony — "A crowd of instruments, not a single one."
 - Gamelan — "An Indonesian ensemble, not a single instrument. Its gongs and metallophones count on their own."
 - Plectrum | Pick | Drumstick | Drumsticks | Baton | Capo | Reed | Bow | Mallet | Mallets | Sticks | Rosin | Mouthpiece | Tuning fork — "Something you play with, not an instrument."
@@ -590,3 +598,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Metronome | Tuner | Music stand — "It keeps time. It doesn't play music."
 - Gramophone | Record Player | Jukebox | Radio | CD player | Walkman | Cassette player | iPod | Boombox | Stereo — "It plays records, but nobody plays it."
 - Brass | Woodwind | Strings | Percussion | String | Wind | Winds | Wind instrument | Brass instrument | Woodwinds | String instrument | Percussion instrument | Idiophone | Membranophone | Chordophone | Aerophone | Electrophone | Instrument | Musical instrument — "A whole family. Name one instrument."
+- GarageBand | Ableton | Ableton Live | Logic Pro | Pro Tools | FL Studio | Fruity Loops | Auto-Tune — "Software. The deep wants something you can hit, blow, pluck or bow."
+- Wah pedal | Wah-wah pedal | Guitar pedal | Looper | Loop station | Talk box | Distortion pedal — "It bends the sound of an instrument. It isn't one."
+- Air guitar | Air drums | Guitar Hero — "No strings, no sound, no instrument. Full marks for commitment."
