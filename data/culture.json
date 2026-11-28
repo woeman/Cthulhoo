@@ -8,12 +8,12 @@
       "rules": "Any play Shakespeare wrote or co-wrote, including lost ones. A history in several parts counts once. His poems don't count.",
       "answers": [
         {"answer": "Romeo and Juliet", "aliases": ["Romeo + Juliet", "Romeo", "The Tragedy of Romeo and Juliet", "Juliet", "Romeo and Juliette", "R and J", "Romeo y Julieta", "The Most Excellent and Lamentable Tragedy of Romeo and Juliet"], "tier": 1},
-        {"answer": "Hamlet", "aliases": ["Hamlet, Prince of Denmark", "The Tragedy of Hamlet", "The Tragedy of Hamlet, Prince of Denmark", "Prince Hamlet", "Prince of Denmark"], "tier": 1, "lore": "Shakespeare's longest play, at over 4,000 lines."},
-        {"answer": "Macbeth", "aliases": ["The Scottish Play", "The Tragedy of Macbeth", "The Tragedie of Macbeth"], "tier": 1, "lore": "Actors call it 'the Scottish Play', to dodge a curse said to follow its name."},
-        {"answer": "A Midsummer Night's Dream", "aliases": ["Midsummer", "A Midsummer's Night Dream", "MND", "Dream"], "tier": 1},
-        {"answer": "Othello", "aliases": ["Othello, the Moor of Venice", "The Tragedy of Othello", "The Moor of Venice"], "tier": 1},
+        {"answer": "Hamlet", "aliases": ["Hamlet, Prince of Denmark", "The Tragedy of Hamlet", "The Tragedy of Hamlet, Prince of Denmark", "Prince Hamlet", "Prince of Denmark", "Hamlette"], "tier": 1, "lore": "Shakespeare's longest play, at over 4,000 lines."},
+        {"answer": "Macbeth", "aliases": ["The Scottish Play", "The Tragedy of Macbeth", "The Tragedie of Macbeth", "McBeath", "MacBeath"], "tier": 1, "lore": "Actors call it 'the Scottish Play', to dodge a curse said to follow its name."},
+        {"answer": "A Midsummer Night's Dream", "aliases": ["Midsummer", "A Midsummer's Night Dream", "MND", "Dream", "A Midnight Summer's Dream", "Midsummer Dream", "Midsummer's Dream"], "tier": 1},
+        {"answer": "Othello", "aliases": ["Othello, the Moor of Venice", "The Tragedy of Othello", "The Moor of Venice", "Otelo", "Othello the Moor"], "tier": 1},
         {"answer": "King Lear", "aliases": ["Lear", "The Tragedy of King Lear"], "tier": 1},
-        {"answer": "Julius Caesar", "aliases": ["The Tragedy of Julius Caesar", "Caesar", "Julius"], "tier": 2},
+        {"answer": "Julius Caesar", "aliases": ["The Tragedy of Julius Caesar", "Caesar", "Julius", "Ceaser", "Julius Seizer", "Julius Seazer", "Julius Seezer"], "tier": 2},
         {"answer": "The Tempest", "tier": 2, "lore": "Storms, spirits and a sorcerer who promises to drown his book 'deeper than did ever plummet sound'."},
         {"answer": "Twelfth Night", "aliases": ["Twelfth Night, or What You Will", "What You Will", "12th Night"], "tier": 2},
         {"answer": "The Merchant of Venice", "aliases": ["The Jew of Venice", "Merchant", "The Comical History of the Merchant of Venice"], "tier": 2},
@@ -22,7 +22,7 @@
         {"answer": "Richard III", "aliases": ["Richard 3", "Richard the Third", "King Richard III", "Richard", "The Tragedy of King Richard the Third", "Richard Three", "Richard Crookback"], "tier": 2},
         {"answer": "Henry V", "aliases": ["Henry 5", "Henry the Fifth", "King Henry V", "The Life of Henry the Fifth", "The Life of King Henry the Fifth", "Henry"], "tier": 2},
         {"answer": "As You Like It", "tier": 2},
-        {"answer": "Antony and Cleopatra", "aliases": ["Anthony and Cleopatra", "The Tragedy of Antony and Cleopatra", "Cleopatra"], "tier": 2},
+        {"answer": "Antony and Cleopatra", "aliases": ["Anthony and Cleopatra", "The Tragedy of Antony and Cleopatra", "Cleopatra", "Mark Antony and Cleopatra", "Marc Antony and Cleopatra", "Mark Anthony and Cleopatra", "Marc Anthony and Cleopatra"], "tier": 2},
         {"answer": "The Winter's Tale", "tier": 3},
         {"answer": "The Comedy of Errors", "aliases": ["Errors"], "tier": 3, "lore": "Shakespeare's shortest play."},
         {"answer": "Richard II", "aliases": ["Richard 2", "Richard the Second", "King Richard II", "The Tragedy of King Richard the Second", "Richard Two"], "tier": 3},
@@ -30,7 +30,7 @@
         {"answer": "Henry VIII", "aliases": ["Henry 8", "Henry the Eighth", "All Is True", "King Henry VIII", "The Famous History of the Life of King Henry the Eighth"], "tier": 3},
         {"answer": "Titus Andronicus", "aliases": ["Titus", "The Tragedy of Titus Andronicus"], "tier": 3, "lore": "His bloodiest play: over a dozen deaths, and a pie with a dreadful filling."},
         {"answer": "Coriolanus", "aliases": ["The Tragedy of Coriolanus"], "tier": 3},
-        {"answer": "Measure for Measure", "aliases": ["Measure"], "tier": 3},
+        {"answer": "Measure for Measure", "aliases": ["Measure", "Measure 4 Measure"], "tier": 3},
         {"answer": "The Merry Wives of Windsor", "aliases": ["Merry Wives"], "tier": 3},
         {"answer": "Love's Labour's Lost", "aliases": ["Love's Labor's Lost"], "tier": 3},
         {"answer": "The Two Gentlemen of Verona", "aliases": ["Two Gents"], "tier": 3},
@@ -86,7 +86,8 @@
         {"answer": "Gnomeo and Juliet", "reason": "Romeo and Juliet with garden gnomes, from 2011."},
         {"answer": "She's the Man", "reason": "Twelfth Night, moved to a school football team in 2006."},
         {"answer": "Forbidden Planet", "reason": "The Tempest in outer space, from 1956."},
-        {"answer": "Upstart Crow", "reason": "A sitcom about him, not by him."}
+        {"answer": "Upstart Crow", "reason": "A sitcom about him, not by him."},
+        {"answer": "Sonnet 18", "aliases": ["Sonnet", "Sonnet 116", "Sonnet 130"], "reason": "Fourteen lines of verse, not a play."}
       ]
     },
     {

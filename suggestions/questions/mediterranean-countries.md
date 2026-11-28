@@ -13,25 +13,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (4)
 
 - Italy — Italia | Italian Republic | Repubblica Italiana
-- Spain — España | Kingdom of Spain | Reino de España | Espanya
-- Greece — Hellas | Hellenic Republic | Ellada | Hellenic | Ellas
-- France — French Republic | République française | La France
+- Spain — España | Kingdom of Spain | Reino de España | Espanya | Spane
+- Greece — Hellas | Hellenic Republic | Ellada | Hellenic | Ellas | Grease
+- France — French Republic | République française | La France | Frans
 
 ### Tier 2: common (7)
 
 - Turkey — Türkiye | Republic of Turkey | Republic of Türkiye | Turkish Republic | Türkiye Cumhuriyeti
 - Egypt — Misr | Masr | Arab Republic of Egypt | Egypte
-- Croatia — Hrvatska | Republic of Croatia | Republika Hrvatska
-- Malta — Republic of Malta | Repubblika ta' Malta
-- Cyprus — Republic of Cyprus | Kypros | Kıbrıs | Kypriaki Dimokratia
-- Israel — State of Israel | Yisrael | Medinat Yisrael
+- Croatia — Hrvatska | Republic of Croatia | Republika Hrvatska | Croasha
+- Malta — Republic of Malta | Repubblika ta' Malta | Moltar | Malter | Molter
+- Cyprus — Republic of Cyprus | Kypros | Kıbrıs | Kypriaki Dimokratia | Cypress | Siprus | Sypris | Sypress
+- Israel — State of Israel | Yisrael | Medinat Yisrael | Isrial | Izreal
 - Monaco — Principality of Monaco | Principauté de Monaco | Monte Carlo
 
 ### Tier 3: known to fans (5)
 
-- Morocco — Kingdom of Morocco | Maroc | Al-Maghrib | Marruecos
-- Tunisia — Tunisian Republic | Republic of Tunisia | Tunis | Tunisie
-- Libya — State of Libya | Libyan Arab Jamahiriya | Libia | Libye
+- Morocco — Kingdom of Morocco | Maroc | Al-Maghrib | Marruecos | Morroco | Morroko | Moroko | Marroco
+- Tunisia — Tunisian Republic | Republic of Tunisia | Tunis | Tunisie | Tunezia | Tuneesia
+- Libya — State of Libya | Libyan Arab Jamahiriya | Libia | Libye | Lybia
 - Lebanon — Lebanese Republic | Lubnan
 - Algeria — People's Democratic Republic of Algeria | Algérie | Al-Jazair | Algiers
 

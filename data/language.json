@@ -1398,23 +1398,23 @@
       "flavor": "Words nobody speaks any more, carved into stone and clay. Some of them may still be listening.",
       "rules": "Any language with no native speakers left, ancient or recent. Revived languages count if they died out first, like Cornish.",
       "answers": [
-        {"answer": "Latin", "aliases": ["Classical Latin", "Vulgar Latin", "Old Latin", "Late Latin", "Medieval Latin", "Ecclesiastical Latin", "Church Latin", "Lingua Latina", "Latine", "Neo-Latin", "New Latin", "Renaissance Latin", "Archaic Latin", "Early Latin", "Golden Age Latin", "Silver Latin", "Imperial Latin", "Ancient Latin", "Roman Latin", "Ancient Roman", "Latin language"], "tier": 1, "lore": "Dead, though the Vatican still writes in it, and one of its cash machines offered instructions in Latin."},
+        {"answer": "Latin", "aliases": ["Classical Latin", "Vulgar Latin", "Old Latin", "Late Latin", "Medieval Latin", "Ecclesiastical Latin", "Church Latin", "Lingua Latina", "Latine", "Neo-Latin", "New Latin", "Renaissance Latin", "Archaic Latin", "Early Latin", "Golden Age Latin", "Silver Latin", "Imperial Latin", "Ancient Latin", "Roman Latin", "Ancient Roman", "Latin language", "Latten"], "tier": 1, "lore": "Dead, though the Vatican still writes in it, and one of its cash machines offered instructions in Latin."},
         {"answer": "Ancient Greek", "aliases": ["Classical Greek", "Attic Greek", "Homeric Greek", "Koine Greek", "Koine", "Hellenistic Greek", "Biblical Greek", "Doric Greek", "Old Greek", "Archaic Greek", "Aeolic Greek", "Ionic Greek", "Epic Greek", "New Testament Greek", "Arcadocypriot Greek", "Greek (ancient)", "Ancient Greek language", "Hellenistic Koine"], "tier": 1},
         {"answer": "Sanskrit", "aliases": ["Vedic Sanskrit", "Vedic", "Classical Sanskrit", "Samskrita", "Samskritam", "Sanskrut", "Sanscrit", "Ancient Sanskrit", "Old Indo-Aryan", "Sanskrit language"], "tier": 1},
         {"answer": "Old English", "aliases": ["Anglo-Saxon", "Englisc", "Saxon", "Ancient English", "Old Anglo-Saxon", "Anglo-Saxon English", "Old English language"], "tier": 1},
         {"answer": "Ancient Egyptian", "aliases": ["Egyptian", "Middle Egyptian", "Old Egyptian", "Late Egyptian", "Demotic", "Pharaonic Egyptian", "Classical Egyptian", "Egyptian language", "Old Egyptian language", "Ancient Egyptian language"], "tier": 1, "lore": "Cracked in 1822 by Champollion, using the Rosetta Stone."},
         {"answer": "Cornish", "aliases": ["Kernewek", "Kernowek", "Old Cornish", "Middle Cornish", "Cornish language"], "tier": 2, "lore": "Dolly Pentreath, who died in 1777, is often called its last native speaker. It has since been revived."},
-        {"answer": "Manx", "aliases": ["Manx Gaelic", "Gaelg", "Gailck", "Manx language"], "tier": 2, "lore": "Its last native speaker, Ned Maddrell, died in 1974. It has since been revived."},
+        {"answer": "Manx", "aliases": ["Manx Gaelic", "Gaelg", "Gailck", "Manx language", "Manks"], "tier": 2, "lore": "Its last native speaker, Ned Maddrell, died in 1974. It has since been revived."},
         {"answer": "Sumerian", "aliases": ["Emegir", "Emesal", "Ancient Sumerian", "Sumerian language"], "tier": 2, "lore": "One of the first languages ever written down, pressed into clay over 5,000 years ago."},
         {"answer": "Etruscan", "aliases": ["Etrurian", "Rasenna", "Ancient Etruscan", "Etruscan language"], "tier": 2, "lore": "We can read its letters, but understand only a few hundred of its words."},
         {"answer": "Old Norse", "aliases": ["Norse", "Old Icelandic", "Old Norwegian", "Old West Norse", "Old East Norse", "Old Nordic", "Ancient Norse", "Norrœnt", "Old Scandinavian", "Old Norse language"], "tier": 2},
         {"answer": "Middle English", "aliases": ["Chaucerian English", "Chaucer's English", "Medieval English", "Middle English language"], "tier": 2},
         {"answer": "Akkadian", "aliases": ["Babylonian", "Old Assyrian", "Old Babylonian", "Assyrian", "Neo-Assyrian", "Middle Assyrian", "Neo-Babylonian", "Middle Babylonian", "Standard Babylonian", "Old Akkadian", "Assyro-Babylonian", "Accadian", "Ancient Assyrian", "Ancient Babylonian", "Ancient Akkadian", "Akkadian language"], "tier": 2, "lore": "The language of Hammurabi's laws and of the Epic of Gilgamesh."},
-        {"answer": "Hittite", "aliases": ["Nesite", "Nesili", "Neshili", "Kanesian", "Ancient Hittite", "Hittite language"], "tier": 2, "lore": "Forgotten for 3,000 years, until clay tablets in Turkey revealed the oldest written Indo-European language."},
+        {"answer": "Hittite", "aliases": ["Nesite", "Nesili", "Neshili", "Kanesian", "Ancient Hittite", "Hittite language", "Hetite"], "tier": 2, "lore": "Forgotten for 3,000 years, until clay tablets in Turkey revealed the oldest written Indo-European language."},
         {"answer": "Coptic", "aliases": ["Sahidic", "Bohairic", "Sahidic Coptic", "Bohairic Coptic", "Coptic Egyptian", "Coptic language"], "tier": 2, "lore": "The last stage of Egyptian, still heard in the services of the Coptic Church."},
         {"answer": "Gothic", "aliases": ["Visigothic", "Ostrogothic", "Biblical Gothic", "Ancient Gothic", "Gothic language"], "tier": 2},
-        {"answer": "Phoenician", "aliases": ["Canaanite", "Ancient Phoenician", "Phoenician language"], "tier": 2},
-        {"answer": "Hebrew", "aliases": ["Hebrew language"], "tier": 2, "lore": "Nobody's mother tongue for some 1,700 years, until Eliezer Ben-Yehuda raised his son in it in 1880s Jerusalem."},
+        {"answer": "Phoenician", "aliases": ["Canaanite", "Ancient Phoenician", "Phoenician language", "Fonecian", "Fonician", "Finician"], "tier": 2},
+        {"answer": "Hebrew", "aliases": ["Hebrew language", "Hebrue", "Hebru"], "tier": 2, "lore": "Nobody's mother tongue for some 1,700 years, until Eliezer Ben-Yehuda raised his son in it in 1880s Jerusalem."},
         {"answer": "Old Church Slavonic", "aliases": ["Old Slavonic", "Church Slavonic", "Old Bulgarian", "Old Slavic", "OCS", "Church Slavic", "Old Church Slavic", "Ancient Slavic", "Old Slavonic language", "Old Church Slavonic language"], "tier": 3},
         {"answer": "Old French", "aliases": ["Medieval French", "Ancien français", "Ancient French", "Old French language"], "tier": 3},
         {"answer": "Old Irish", "aliases": ["Old Gaelic", "Early Irish", "Ancient Irish", "Ancient Gaelic", "Old Irish language"], "tier": 3},
@@ -1687,7 +1687,7 @@
         {"answer": "ǀXam", "tier": 5},
         {"answer": "Moriori", "aliases": ["Moriori language"], "tier": 5},
         {"answer": "Kaurna", "aliases": ["Kaurna language"], "tier": 5},
-        {"answer": "Dharug", "aliases": ["Darug", "Dharuk", "Sydney language", "Eora", "Dharug language"], "tier": 5},
+        {"answer": "Dharug", "aliases": ["Darug", "Dharuk", "Sydney language", "Eora", "Dharug language", "Gadigal", "Cadigal", "Gadigal language"], "tier": 5},
         {"answer": "Mbabaram", "aliases": ["Mbabaram language"], "tier": 5},
         {"answer": "Himyaritic", "aliases": ["Himyarite", "Himyaritic language"], "tier": 5},
         {"answer": "Minaean", "aliases": ["Minaic", "Minaean language"], "tier": 5},
@@ -1749,6 +1749,9 @@
         {"answer": "Kathlamet", "aliases": ["Kathlamet language"], "tier": 5},
         {"answer": "Wichita", "aliases": ["Wichita language"], "tier": 5},
         {"answer": "Etchemin", "aliases": ["Etchemin language"], "tier": 5},
+        {"answer": "Awabakal", "aliases": ["Awabagal", "Awabakal language"], "tier": 5, "lore": "Spoken around Lake Macquarie and Newcastle. A missionary and a man named Biraban wrote its grammar down in the 1830s."},
+        {"answer": "Dharawal", "aliases": ["Tharawal", "Thurawal", "Dharawal language"], "tier": 5, "lore": "The language of Sydney's southern shore and the Illawarra, now being pieced back together from old wordlists."},
+        {"answer": "Ngunnawal", "aliases": ["Ngunawal", "Ngunnawal language"], "tier": 5, "lore": "The language of the country Canberra was built on. Its people are teaching it again."},
         {"answer": "Crimean Gothic", "aliases": ["Crimean Gothic language"], "tier": 6, "lore": "Still spoken in Crimea in the 1560s. All that survives is a list of about 80 words a Flemish diplomat wrote down."},
         {"answer": "Eteocretan", "aliases": ["Eteocretan language"], "tier": 6, "lore": "A lost language of ancient Crete, written in Greek letters but still not understood."}
       ],
@@ -1776,7 +1779,8 @@
         {"answer": "Volapük", "aliases": ["Ido", "Interlingua", "Solresol", "Lingua Ignota", "Enochian", "Lojban", "Toki Pona", "Novial", "Occidental"], "reason": "Invented, and never anyone's mother tongue."},
         {"answer": "Pig Latin", "aliases": ["Dog Latin"], "reason": "A word game played inside English, not a language of its own."},
         {"answer": "Persian", "aliases": ["Farsi"], "reason": "Alive, as Farsi, with tens of millions of speakers. Its older forms would have counted."},
-        {"answer": "Macedonian", "reason": "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."}
+        {"answer": "Macedonian", "reason": "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."},
+        {"answer": "Aboriginal languages", "aliases": ["Aboriginal", "Aboriginal language", "Australian Aboriginal", "Australian languages", "Indigenous languages", "Indigenous Australian languages"], "reason": "Hundreds of languages, and many are still spoken. Name one that has fallen silent."}
       ]
     }
   ]

@@ -13,15 +13,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (6)
 
 - Romeo and Juliet — Romeo + Juliet | Romeo | The Tragedy of Romeo and Juliet | Juliet | Romeo and Juliette | R and J | Romeo y Julieta | The Most Excellent and Lamentable Tragedy of Romeo and Juliet
-- Hamlet — Hamlet, Prince of Denmark | The Tragedy of Hamlet | The Tragedy of Hamlet, Prince of Denmark | Prince Hamlet | Prince of Denmark
-- Macbeth — The Scottish Play | The Tragedy of Macbeth | The Tragedie of Macbeth
-- A Midsummer Night's Dream — Midsummer | A Midsummer's Night Dream | MND | Dream
-- Othello — Othello, the Moor of Venice | The Tragedy of Othello | The Moor of Venice
+- Hamlet — Hamlet, Prince of Denmark | The Tragedy of Hamlet | The Tragedy of Hamlet, Prince of Denmark | Prince Hamlet | Prince of Denmark | Hamlette
+- Macbeth — The Scottish Play | The Tragedy of Macbeth | The Tragedie of Macbeth | McBeath | MacBeath
+- A Midsummer Night's Dream — Midsummer | A Midsummer's Night Dream | MND | Dream | A Midnight Summer's Dream | Midsummer Dream | Midsummer's Dream
+- Othello — Othello, the Moor of Venice | The Tragedy of Othello | The Moor of Venice | Otelo | Othello the Moor
 - King Lear — Lear | The Tragedy of King Lear
 
 ### Tier 2: common (10)
 
-- Julius Caesar — The Tragedy of Julius Caesar | Caesar | Julius
+- Julius Caesar — The Tragedy of Julius Caesar | Caesar | Julius | Ceaser | Julius Seizer | Julius Seazer | Julius Seezer
 - The Tempest
 - Twelfth Night — Twelfth Night, or What You Will | What You Will | 12th Night
 - The Merchant of Venice — The Jew of Venice | Merchant | The Comical History of the Merchant of Venice
@@ -30,7 +30,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Richard III — Richard 3 | Richard the Third | King Richard III | Richard | The Tragedy of King Richard the Third | Richard Three | Richard Crookback
 - Henry V — Henry 5 | Henry the Fifth | King Henry V | The Life of Henry the Fifth | The Life of King Henry the Fifth | Henry
 - As You Like It
-- Antony and Cleopatra — Anthony and Cleopatra | The Tragedy of Antony and Cleopatra | Cleopatra
+- Antony and Cleopatra — Anthony and Cleopatra | The Tragedy of Antony and Cleopatra | Cleopatra | Mark Antony and Cleopatra | Marc Antony and Cleopatra | Mark Anthony and Cleopatra | Marc Anthony and Cleopatra
 
 ### Tier 3: known to fans (13)
 
@@ -41,7 +41,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Henry VIII — Henry 8 | Henry the Eighth | All Is True | King Henry VIII | The Famous History of the Life of King Henry the Eighth
 - Titus Andronicus — Titus | The Tragedy of Titus Andronicus
 - Coriolanus — The Tragedy of Coriolanus
-- Measure for Measure — Measure
+- Measure for Measure — Measure | Measure 4 Measure
 - The Merry Wives of Windsor — Merry Wives
 - Love's Labour's Lost — Love's Labor's Lost
 - The Two Gentlemen of Verona — Two Gents
@@ -68,7 +68,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cardenio — The History of Cardenio
 - Love's Labour's Won — Love's Labor's Won
 
-## Refused on purpose (38)
+## Refused on purpose (39)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -110,3 +110,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - She's the Man — "Twelfth Night, moved to a school football team in 2006."
 - Forbidden Planet — "The Tempest in outer space, from 1956."
 - Upstart Crow — "A sitcom about him, not by him."
+- Sonnet 18 | Sonnet | Sonnet 116 | Sonnet 130 — "Fourteen lines of verse, not a play."

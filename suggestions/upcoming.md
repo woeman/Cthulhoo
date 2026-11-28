@@ -4,12 +4,12 @@ Each day's dive has seven questions, the same for every player on that local dat
 
 ## Sunday, 29 November 2026
 
-1. [Name a dead or extinct language.](questions/dead-languages.md) (`dead-languages`, 353 answers so far)
+1. [Name a dead or extinct language.](questions/dead-languages.md) (`dead-languages`, 356 answers so far)
 2. [Name a country with a Mediterranean coastline.](questions/mediterranean-countries.md) (`mediterranean-countries`, 22 answers so far)
 3. [Name a play by William Shakespeare.](questions/shakespeare-plays.md) (`shakespeare-plays`, 40 answers so far)
-4. [Name a board game.](questions/board-games.md) (`board-games`, 359 answers so far)
+4. [Name a board game.](questions/board-games.md) (`board-games`, 365 answers so far)
 5. [Name a card of the tarot's Major Arcana.](questions/tarot-major-arcana.md) (`tarot-major-arcana`, 22 answers so far)
-6. [Name a vegetable.](questions/vegetables.md) (`vegetables`, 221 answers so far)
+6. [Name a vegetable.](questions/vegetables.md) (`vegetables`, 224 answers so far)
 7. [Name a republic of the Soviet Union.](questions/soviet-republics.md) (`soviet-republics`, 17 answers so far)
 
 ## Monday, 30 November 2026
