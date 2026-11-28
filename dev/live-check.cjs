@@ -228,28 +228,36 @@ async function seance(m, s, sign) {
     }
 
     // ------------------------------------------------ topics, the class packs and the music
+    // Run from a branch, this script may be ahead of the live game: what is not live yet is noted, not failed.
+    const ahead = !!process.env.GITHUB_REF_NAME && process.env.GITHUB_REF_NAME !== 'main';
+    const missing = (text) => (ahead ? info(`${text} (not live yet: this check ran from the branch ${process.env.GITHUB_REF_NAME})`) : fail(text));
     await p.goto(BASE + '?scale=1');
     await p.waitForSelector('.title-screen', { timeout: 30000 });
-    try {
-      await p.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
-      await p.waitForSelector('.sheet .tp-chip', { timeout: 20000 });
-      // The class packs arrive a moment after the daily topics.
-      await p.waitForFunction(() => document.querySelectorAll('.sheet .tp-group').length > 1, null, { timeout: 15000 }).catch(() => {});
-      const groups = (await p.locator('.sheet .tp-group-k').allInnerTexts()).map(flat);
-      const chips = (await p.locator('.sheet .tp-group .tp-chip').allInnerTexts()).map(flat);
-      await shot(p, '08-topics');
-      if (groups.length > 1) pass(`Charted Waters offers ${chips.length} topics under ${groups.join(', ')}.`);
-      else fail(`Charted Waters shows no class packs, only: ${chips.join(' | ')}`);
-      await p.keyboard.press('Escape');
-    } catch (e) {
-      await shot(p, '08-topics-fail');
-      fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
+    await p.waitForTimeout(1000);
+    if (!(await p.locator('.mode-btn', { hasText: 'Charted Waters' }).count())) {
+      missing('The title has no Charted Waters.');
+    } else {
+      try {
+        await p.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
+        await p.waitForSelector('.sheet .tp-chip', { timeout: 20000 });
+        // The class packs arrive a moment after the daily topics.
+        await p.waitForFunction(() => document.querySelectorAll('.sheet .tp-group').length > 1, null, { timeout: 15000 }).catch(() => {});
+        const groups = (await p.locator('.sheet .tp-group-k').allInnerTexts()).map(flat);
+        const chips = (await p.locator('.sheet .tp-group .tp-chip').allInnerTexts()).map(flat);
+        await shot(p, '08-topics');
+        if (groups.length > 1) pass(`Charted Waters offers ${chips.length} topics under ${groups.join(', ')}.`);
+        else missing(`Charted Waters shows no class packs, only: ${chips.join(' | ')}`);
+        await p.keyboard.press('Escape');
+      } catch (e) {
+        await shot(p, '08-topics-fail');
+        fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
+      }
     }
     for (const [what, file, type] of [['The list of class packs', 'packs/index.json', /json/], ['The music', 'music/surface-a.mp3', /audio/]]) {
       const res = await fetch(new URL(file, BASE), { headers: { Range: 'bytes=0-1023' } }).catch(() => null);
       const kind = res?.headers.get('content-type') ?? '';
       if (res && res.status < 300 && type.test(kind)) pass(`${what} is published (${file}: ${res.status}, ${kind}).`);
-      else fail(`${what} is not published: ${file} answered ${res ? `${res.status} ${kind}` : 'nothing'}.`);
+      else missing(`${what} is not published: ${file} answered ${res ? `${res.status} ${kind}` : 'nothing'}.`);
     }
 
     // ------------------------------------------------ the Cult board seen by a friend through the link
