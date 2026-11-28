@@ -13,7 +13,7 @@ import { isEphemeral, loadTopics, saveTopics, keepCensus, loadCensusKept, loadDa
 import { slipRemark } from './game/slips';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import { TopicBook, filedUnder, packFetcher } from './game/packs';
-import { dealByTopic, dropCopies } from './game/topics';
+import { dealByTopic, dropCopies, packOfTopic } from './game/topics';
 import { topicPicker } from './ui/topics';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -32,6 +32,7 @@ import { logbookScreen, type Keepsake } from './screens/logbook';
 import { breathsLeft, codexPages, loadRiddleDeck, todaysRiddle, type RiddleDeck, type RiddleResult } from './game/riddles';
 import { codexBody, riddleScreen } from './screens/riddle';
 import { classScreen } from './screens/classroom';
+import { revisionScreen } from './screens/revision';
 import { cultBody, loadPass, postDiveToCult, seanceScreen, type SeanceEnv } from './screens/seance';
 import { loadCult } from './screens/cult';
 import { loadClassPlace } from './party/class-link';
@@ -455,6 +456,12 @@ export class App {
       this.openClass({}, false);
       return;
     }
+    // A link to a revision dive (a teacher's "revise finance before Friday") opens that class pack.
+    const revise = q.get('revise');
+    if (revise !== null) {
+      this.openRevision(revise.trim().toLowerCase() || undefined, false);
+      return;
+    }
     this.showTitle();
     const cult = q.get('cult');
     if (cult) this.openCult(cult);
@@ -697,7 +704,7 @@ export class App {
   }
 
   private chartEntry(): HTMLElement {
-    return modeButton('descend', 'Charted Waters', 'Pick your topics · a practice dive', 'new', () => this.openChart());
+    return modeButton('descend', 'Charted Waters', 'Pick your topics · practise or revise', 'new', () => this.openChart());
   }
 
   /** Charted Waters: tick what the deep asks about, then dive. Practice, so nothing is kept. */
@@ -708,11 +715,23 @@ export class App {
     void this.topics.all().then((all) => picker.setTopics(all));
     const fail = h('p', { class: 'chart-fail', role: 'alert', hidden: true });
     const go = h('button', { class: 'btn primary', type: 'button' }, 'Begin the dive') as HTMLButtonElement;
+    const revise = h('button', { class: 'btn', type: 'button' }, 'Revise a class pack') as HTMLButtonElement;
     const sheet = this.sheet(
       'Charted Waters',
-      [h('p', { class: 'chart-lede' }, 'Choose what the deep asks about. Seven questions, one answer each, as in the daily dive. Nothing is recorded: no depth is kept and no streak is at stake.'), picker.el, fail],
-      { actions: [go] },
+      [
+        h('p', { class: 'chart-lede' }, 'Choose what the deep asks about. Seven questions, one answer each, as in the daily dive. Nothing is recorded: no depth is kept and no streak is at stake.'),
+        picker.el,
+        fail,
+        h('p', { class: 'chart-lede chart-revise' }, 'Revising for an exam? A revision dive takes one class pack, a question at a time: name every answer you can, then see what you missed.'),
+      ],
+      { actions: [go, revise] },
     );
+    revise.addEventListener('click', () => {
+      // With one class pack ticked, the revision opens on it; otherwise on the shelf of packs.
+      const packs = picker.choice().flatMap((id) => packOfTopic(id) ?? []);
+      sheet.close(true, false);
+      this.openRevision(packs.length === 1 ? packs[0] : undefined);
+    });
     go.addEventListener('click', () => {
       if (go.disabled) return;
       go.disabled = true;
@@ -1874,6 +1893,37 @@ export class App {
       s.destroy();
       this.music.setScene('dive');
     });
+  }
+
+  /**
+   * A revision dive: one class pack, a question at a time, every answer the diver
+   * can name, then what they missed. Reached from Charted Waters, or by a link
+   * (?revise=finance).
+   */
+  private openRevision(pack?: string, tapped = true) {
+    if (tapped) {
+      void this.sound.start().then(() => this.sound.setMuted(this.settings.muted));
+      this.sound.click();
+    }
+    const soundBtn = h('button', { class: 'icon-btn sc-sound', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() });
+    const today = this.dailyRecord();
+    const r = revisionScreen(this.seanceEnv(), {
+      pack,
+      barEnd: soundBtn,
+      // A dive still to be made today is not given away by a class pack's copy of its questions.
+      heldBack: (id) => !today.finished && today.promptIds.includes(this.topics.sameAs(id)),
+      onExit: () => {
+        dropParams('revise');
+        this.showTitle();
+      },
+    });
+    this.hud.el.hidden = true;
+    this.sounding.el.hidden = true;
+    this.setMadness(100);
+    this.closeEye();
+    this.show(r.el, 'down', { bare: true });
+    this.renderSoundIcon();
+    this.loops.push(() => r.destroy());
   }
 
   /** The title's way into the Convocation: a séance for a whole class, held on one big screen. */

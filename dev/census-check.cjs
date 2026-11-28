@@ -1,7 +1,8 @@
 // Seeds a preview's census with pretend divers, then plays it on two phones and a
 // desktop: the share on each reveal, the answers most given in the log, and the
-// Reliquary. It refuses any relay but a preview's or one on this machine, so
-// pretend divers never reach the live game.
+// Reliquary; then the topics and the music, a class held on the desk with the
+// phones in it, and a revision dive. It refuses any relay but a preview's or one
+// on this machine, so pretend divers never reach the live game.
 // Run by .github/workflows/preview.yml, or by hand against `wrangler dev`.
 // usage: node dev/census-check.cjs <outDir>
 //   env BASE   the site (required)
@@ -382,6 +383,64 @@ async function reliquary(page, who) {
       await shot(d, 'class-fail-host');
       if (bram.page) await shot(bram.page, 'class-fail-diver');
       fail(`The Convocation stopped: ${e.message.split('\n')[0]}`);
+    }
+
+    // ------------------------------------------------ a revision dive: one class pack, sat alone on the desk
+    try {
+      const packsDir = path.join(root, 'packs');
+      const indexFile = path.join(packsDir, 'index.json');
+      const index = fs.existsSync(indexFile) ? (JSON.parse(fs.readFileSync(indexFile, 'utf8')).packs ?? []) : [];
+      if (!index.length) info('No class packs are in this branch, so no revision dive was made.');
+      else {
+        // Whatever the class left on the desk, the dive begins from a fresh title.
+        const slow = { waitUntil: 'commit', timeout: 120000 };
+        await d.goto(`${BASE}?scale=1`, slow);
+        await d.waitForSelector('.title-screen', { timeout: 120000 });
+        await d.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
+        await d.locator('.sheet button', { hasText: 'Revise a class pack' }).click();
+        await d.waitForSelector('.rv-shelf .rv-pack', { timeout: 45000 });
+        const shelf = (await d.locator('.rv-pack-name').allInnerTexts()).map(flat);
+        await shot(d, 'revise-shelf');
+        const at = shelf.findIndex((name) => index.some((p) => p.name === name));
+        const pack = index.find((p) => p.name === shelf[at]);
+        if (!pack) throw new Error(`the shelf (${shelf.join(', ') || 'empty'}) holds none of the packs of this branch`);
+        await d.locator('.rv-pack').nth(at).click();
+        await d.waitForSelector('.rv-pack-scene .rv-q', { timeout: 45000 });
+        // A question in today's dive is held back until the dive is made: sit the first that is open.
+        const row = d.locator('.rv-q:not([disabled])').first();
+        const q = flat(await row.locator('.rv-q-text').innerText());
+        const prompt = JSON.parse(fs.readFileSync(path.join(packsDir, pack.file), 'utf8')).prompts.find((p) => flat(p.text) === q);
+        if (!prompt) throw new Error(`"${q}" is not in packs/${pack.file}`);
+        const sorted = [...prompt.answers].sort((a, b) => a.tier - b.tier);
+        const give = [sorted[0], sorted[sorted.length - 1]];
+        await row.click();
+        await d.waitForSelector('.rv-ask input.answer', { timeout: 45000 });
+        for (const [i, a] of give.entries()) {
+          await d.fill('.rv-ask input.answer', a.answer);
+          await d.press('.rv-ask input.answer', 'Enter');
+          await d.waitForFunction((n) => document.querySelectorAll('.rv-ask .rv-named .cv-named-a').length === n, i + 1, { timeout: 15000 });
+        }
+        const depth = flat(await d.textContent('.rv-ask .rv-depth'));
+        await shot(d, 'revise-ask');
+        await d.click('.rv-done');
+        await d.waitForSelector('.rv-result', { timeout: 20000 });
+        await d.waitForTimeout(600);
+        await shot(d, 'revise-missed');
+        const count = flat(await d.textContent('.rv-result .rv-count'));
+        const tiers = await d.locator('.rv-tier').count();
+        const missed = (await d.locator('.rv-chips.is-missed .cv-named-a').allInnerTexts()).map(flat);
+        if (parseInt(depth.replace(/\D/g, ''), 10) > 0 && tiers && missed.length) pass(`A revision dive on ${pack.name}: "${q}" took ${give.map((a) => a.answer).join(' and ')} down to ${depth} (${count}), then showed what was missed in ${tiers} tiers, beginning ${missed.slice(0, 5).join(', ')}.`);
+        else fail(`The revision dive on ${pack.name} came up short: depth "${depth}", ${tiers} tiers and ${missed.length} missed answers shown for "${q}".`);
+        // What was reached is kept on the device: the pack, opened again by its own link, remembers it.
+        await d.goto(`${BASE}?scale=1&revise=${pack.id}`, slow);
+        await d.waitForSelector('.rv-pack-scene .rv-q', { timeout: 120000 });
+        const kept = flat(await d.textContent('.rv-progress-line'));
+        if (/of the way down/.test(kept)) pass(`Opened again by its link (?revise=${pack.id}), the pack remembers the sitting: "${kept}".`);
+        else fail(`Opened again by its link (?revise=${pack.id}), the pack has forgotten the sitting: "${kept}".`);
+      }
+    } catch (e) {
+      await shot(d, 'revise-fail');
+      fail(`The revision dive stopped: ${e.message.split('\n')[0]}`);
     }
     for (const dev of [wren, bram, desk]) {
       const errs = [...new Set(dev.errors)];

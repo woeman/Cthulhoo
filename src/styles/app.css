@@ -1710,6 +1710,7 @@ a.btn {
   flex: none;
   display: grid;
   justify-items: center;
+  gap: var(--space-3);
   padding: var(--space-4) var(--space-5) calc(var(--space-5) + env(safe-area-inset-bottom));
   border-top: 1px solid var(--color-rule-soft);
 }

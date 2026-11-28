@@ -49,6 +49,16 @@ the engraved sea with sliders for depth, madness and the Eye.
   evenly. Class packs are never part of the daily dive: the build publishes
   each as its own file (`packs/<id>.json`) and the game fetches a pack when it
   is ticked.
+- Revision dives: from Charted Waters, one class pack studied alone before an
+  exam. A question at a time, name every answer you can: each sinks you its
+  tier's depth towards the floor at 7,000 m (or the depth of the whole list,
+  when the list is too short to reach it), and the page sinks with you. Then the
+  deep shows what was missed, the commonest tier first, and what was named in
+  an earlier sitting but not today. The deepest reached on each question is kept
+  on the device, so the next dive begins with what is known least. A candle of
+  one or two minutes is optional. A link ending `?revise=finance` opens a pack.
+  A question that is in today's dive is held back until the dive is made. The
+  rules are `src/game/revision.ts`; the screen is `src/screens/revision.ts`.
 - The Convocation (a class): one screen at the front of the room hosts and never
   answers. Up to 300 divers join on their own phones in a browser, with a sign
   like DAGON-247, a link, or the square code the big screen shows. Nothing to
