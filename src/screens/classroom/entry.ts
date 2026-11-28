@@ -16,11 +16,16 @@ export interface ClassEntryInit {
   panel?: ClassPanel;
   sign?: string;
   message?: string;
+  /** Classes are kept on this device: their results are offered. */
+  past?: boolean;
 }
 
 export interface ClassEntryActions {
   hold(): void;
   join(name: string, sign: string): void;
+  /** The host's own question sets, and what past classes came to: both live on this device and need no relay. */
+  sets(): void;
+  past(): void;
 }
 
 export const NO_CLASS_RELAY = 'A class is held across phones through the surface relay, which is not set up here yet.';
@@ -44,10 +49,10 @@ export class ClassEntryScene extends Scene {
   ) {
     super(ctx);
     this.msg = h('p', { class: 'sc-msg', hidden: true });
-    const way = (kind: string, glyph: string, title: string, line: string, onPick: () => void, lead = false) => {
+    const way = (kind: string, glyph: string, title: string, line: string, onPick: () => void, lead = false, needsRelay = true) => {
       const b = h(
         'button',
-        { class: `sc-way${lead ? ' is-lead' : ''}`, type: 'button', 'data-way': kind, disabled: !relay },
+        { class: `sc-way${lead ? ' is-lead' : ''}`, type: 'button', 'data-way': kind, disabled: needsRelay && !relay },
         h('span', { class: 'sc-way-icon', html: glyph }),
         h('span', { class: 'sc-way-text' }, h('span', { class: 't' }, title), h('span', { class: 'd' }, line)),
         h('span', { class: 'sc-way-go', 'aria-hidden': 'true', html: icon('back') }),
@@ -66,6 +71,9 @@ export class ClassEntryScene extends Scene {
       way('hold', icon('seance'), 'Hold a class', 'This screen goes at the front of the room. The class joins on their phones.', () => this.actions.hold(), true),
       way('join', icon('cult'), 'Join a class', 'Sit in with the sign on the big screen.', () => this.show('join')),
       relay ? null : h('p', { class: 'sc-norelay' }, NO_CLASS_RELAY),
+      h('p', { class: 'cv-ways-k' }, 'For whoever holds the class'),
+      way('sets', icon('riddle'), 'Your question sets', 'Write your own questions, and tick them when you hold a class.', () => this.actions.sets(), false, false),
+      init.past ? way('past', icon('stats'), 'Past classes', 'What each class came to: read it, print it, or take it as a spreadsheet.', () => this.actions.past(), false, false) : null,
     );
 
     const nameId = uniq('cv-name');

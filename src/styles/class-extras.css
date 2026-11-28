@@ -1,0 +1,944 @@
+/* The Convocation's pages for whoever holds the class: what a class came to
+   (read on the screen, printed, or taken as a spreadsheet), the classes kept on
+   the device, and the host's own question sets. Built on the Séance's plates
+   and type (seance.css) and the Convocation's answer lines (classroom.css). */
+
+/* these pages are read and written, not watched from the back row: a column of their own width */
+.class-screen.is-wide > .sc-stage {
+  max-width: 76rem;
+}
+
+.class-screen :is(.cr-results, .cr-past, .cs-sets, .cs-edit) {
+  width: 100%;
+  margin-inline: auto;
+}
+
+.class-screen :is(.cr-past, .cs-sets) {
+  max-width: 40rem;
+}
+
+.cr-head {
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+/* lettering set straight on the picture keeps its reserve of clean ground */
+.class-screen .cr-head > *,
+.class-screen .cr-note,
+.class-screen .cr-questions-head > * {
+  width: fit-content;
+  max-width: 100%;
+  padding-inline: 0.5em;
+  border-radius: 1.2em;
+  background: var(--reserve);
+  box-shadow: 0 0 10px 7px var(--reserve);
+}
+
+/* so do the quiet buttons that stand on the picture with no plate under them (the dive's own results do the same) */
+.class-screen :is(.cr-results, .cr-past, .cs-sets, .cs-edit, .cv-host-end) :is(.sc-actions, .cr-acts) .btn.ghost {
+  border-radius: 999px;
+  background: var(--reserve);
+  box-shadow: 0 0 10px 7px var(--reserve);
+}
+
+/* a button put away stays away (.btn lays itself out, which would bring it back) */
+.class-screen .btn[hidden] {
+  display: none;
+}
+
+.cr-title {
+  font-family: var(--font-display);
+  font-size: var(--step-3);
+  line-height: var(--leading-display);
+  text-wrap: balance;
+}
+
+.cr-line {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.cr-note {
+  margin-inline: auto !important;
+  max-width: 44rem !important;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-align: center;
+  text-wrap: pretty;
+}
+
+.cr-note.is-warn {
+  font-style: normal;
+  color: var(--color-refused);
+}
+
+/* ------------------------------------------------------------ the class: one row a diver */
+
+/* positioned, so the words kept for screen readers (the caption, "refused:") scroll with the table and are not left hanging past the page's edge */
+.cr-scroll {
+  position: relative;
+  overflow-x: auto;
+  margin-inline: calc(-1 * var(--space-2));
+  padding: 0 var(--space-2) var(--space-1);
+  overscroll-behavior-x: contain;
+}
+
+.cr-scroll:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.cr-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: var(--step--1);
+  line-height: 1.35;
+}
+
+.cr-table :is(th, td) {
+  padding: 7px 10px;
+  border-bottom: 1px dotted var(--color-rule-soft);
+  text-align: left;
+  vertical-align: top;
+  font-weight: 400;
+}
+
+.cr-table tbody tr:last-child :is(th, td) {
+  border-bottom: 0;
+}
+
+.cr-table thead th {
+  border-bottom: 1px solid var(--color-rule);
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+  white-space: nowrap;
+  vertical-align: bottom;
+}
+
+.cr-table abbr {
+  text-decoration: none;
+  cursor: help;
+}
+
+.cr-table .cr-num {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+.cr-name {
+  font-family: var(--font-log);
+  letter-spacing: var(--tracking-log);
+  white-space: nowrap;
+}
+
+.cr-depth {
+  font-family: var(--font-log);
+}
+
+.cr-depth .u,
+.cr-g {
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.cr-tbl {
+  white-space: nowrap;
+}
+
+.cr-tbl .cv-dot,
+.cr-tables .cv-dot {
+  display: inline-block;
+  margin-right: 0.4em;
+}
+
+.cr-c {
+  min-width: 8.5rem;
+  overflow-wrap: anywhere;
+}
+
+.cr-a::before {
+  content: '';
+  display: inline-block;
+  width: 0.5em;
+  height: 0.5em;
+  margin-right: 0.35em;
+  border-radius: 50%;
+  background: var(--tier-color);
+  vertical-align: 0.08em;
+}
+
+.cr-g {
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.cr-c:is(.is-none, .is-away, .is-refused) {
+  color: var(--color-ink-muted);
+}
+
+.cr-x {
+  font-family: var(--font-log);
+  text-decoration: line-through;
+  text-decoration-color: var(--color-refused);
+  text-decoration-thickness: 1px;
+}
+
+.cr-c.is-away {
+  font-family: var(--font-display);
+  font-style: italic;
+}
+
+.cr-tables {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-4);
+  margin-top: var(--space-3) !important;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+}
+
+.cr-print-note {
+  display: none;
+}
+
+/* ------------------------------------------------------------ question by question */
+
+.cr-questions {
+  display: grid;
+  gap: var(--space-4);
+}
+
+.cr-questions-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2) var(--space-4);
+  padding-inline: 6px;
+}
+
+.cr-questions-k {
+  margin: 0 !important;
+}
+
+.cr-toggle {
+  min-height: 44px;
+}
+
+.cr-q {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.cr-q-k {
+  margin: 0;
+}
+
+.cr-q-text {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 400;
+  font-size: var(--step-2);
+  line-height: var(--leading-display);
+  text-wrap: balance;
+}
+
+.cr-q-rules {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.cr-q-sum {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+  color: var(--color-ink-muted);
+}
+
+.cr-answers,
+.cr-refusals {
+  display: grid;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cr-answer {
+  display: grid;
+  grid-template-columns: 1.4rem minmax(0, 1fr) auto;
+  grid-template-areas: 'seal a d' 'seal t d' 'seal who who';
+  align-items: baseline;
+  column-gap: var(--space-2);
+  padding: 6px 0;
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.cr-answer:last-child {
+  border-bottom: 0;
+}
+
+.cr-answer-seal {
+  grid-area: seal;
+  align-self: start;
+  margin-top: 1px;
+}
+
+.cr-answer-seal svg {
+  width: 1.4rem;
+  height: 1.4rem;
+}
+
+.cr-answer-a {
+  grid-area: a;
+  min-width: 0;
+  font-family: var(--font-log);
+  overflow-wrap: anywhere;
+}
+
+.cr-answer-t {
+  grid-area: t;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--tier-color);
+}
+
+.cr-answer-d {
+  grid-area: d;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+  text-align: right;
+}
+
+.cr-answer-who,
+.cr-refusal-who {
+  min-width: 0;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  overflow-wrap: anywhere;
+}
+
+.cr-answer-who {
+  grid-area: who;
+}
+
+@media (min-width: 760px) {
+  .cr-answer {
+    grid-template-columns: 1.4rem minmax(8rem, 17rem) 7.5rem 5rem minmax(0, 1fr);
+    grid-template-areas: 'seal a t d who';
+  }
+}
+
+.cr-q-line {
+  font-size: var(--step--1);
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+
+.cr-q-line .k,
+.cs-problems .k,
+.cs-q-not .k {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.cr-q-line.is-cut {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.cr-refused {
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.cr-refused summary {
+  display: flex;
+  align-items: center;
+  min-height: 44px;
+  cursor: pointer;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  list-style: none;
+}
+
+.cr-refused summary::-webkit-details-marker {
+  display: none;
+}
+
+.cr-refused summary::before {
+  content: '';
+  width: 7px;
+  height: 7px;
+  margin-right: var(--space-3);
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform: rotate(-45deg);
+  transition: transform var(--dur-ui) var(--ease-surface);
+}
+
+.cr-refused[open] summary::before {
+  transform: rotate(45deg);
+}
+
+.cr-refusal {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 2px var(--space-3);
+  padding: 5px 0;
+  border-bottom: 1px dotted var(--color-rule-soft);
+}
+
+.cr-refusal:last-child {
+  border-bottom: 0;
+}
+
+.cr-refusal-a {
+  font-family: var(--font-log);
+  overflow-wrap: anywhere;
+  text-decoration: line-through;
+  text-decoration-color: var(--color-refused);
+  text-decoration-thickness: 1px;
+}
+
+.cr-refusal-who {
+  grid-column: 1;
+}
+
+.cr-add,
+.cr-past-drop {
+  appearance: none;
+  min-height: 40px;
+  padding: 0 var(--space-3);
+  border: 1px solid var(--color-rule-soft);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--color-ink-muted);
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.cr-add {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+
+.cr-add:hover:not([disabled]) {
+  border-color: var(--color-action);
+  color: var(--color-ink);
+}
+
+.cr-add[disabled] {
+  border-style: dotted;
+  cursor: default;
+}
+
+/* ------------------------------------------------------------ lists: past classes, the host's sets */
+
+.cr-past-list,
+.cs-list {
+  display: grid;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cr-past-row {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: var(--space-2);
+}
+
+.cr-past-open,
+.cs-open {
+  appearance: none;
+  display: grid;
+  gap: 2px;
+  width: 100%;
+  min-height: 60px;
+  padding: var(--space-2) var(--space-3);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  background: transparent;
+  color: var(--color-ink);
+  text-align: left;
+  cursor: pointer;
+  transition: border-color var(--dur-quick), background var(--dur-quick);
+}
+
+:is(.cr-past-open, .cs-open):hover {
+  border-color: var(--color-rule);
+  background: var(--color-glow-faint);
+}
+
+:is(.cr-past-open, .cs-open) .t {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+  line-height: 1.25;
+  overflow-wrap: anywhere;
+}
+
+:is(.cr-past-open, .cs-open) .d {
+  font-size: var(--step--1);
+  line-height: 1.35;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.cr-past-drop:hover,
+.cr-past-drop.is-armed,
+.cs-drop.is-armed {
+  border-color: var(--color-refused);
+  color: var(--color-refused);
+}
+
+.cv-ways-k {
+  margin-top: var(--space-2) !important;
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.cv-own-hint {
+  margin-top: var(--space-2) !important;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* ------------------------------------------------------------ writing a set */
+
+.cs-grid {
+  display: grid;
+  gap: var(--space-4);
+  align-items: start;
+}
+
+@media (min-width: 900px) {
+  .cs-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  }
+}
+
+.cs-write,
+.cs-read {
+  display: grid;
+  gap: var(--space-3);
+  align-content: start;
+}
+
+.cs-text {
+  display: block;
+  width: 100%;
+  min-height: 18rem;
+  padding: var(--space-3);
+  border: 1px solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  background: var(--color-glow-faint);
+  color: var(--color-ink);
+  caret-color: var(--color-glow);
+  font-family: var(--font-log);
+  font-size: max(16px, var(--step-0));
+  letter-spacing: var(--tracking-log);
+  line-height: 1.5;
+  resize: vertical;
+  outline: none;
+  tab-size: 4;
+}
+
+.cs-text::placeholder {
+  color: var(--color-ink-muted);
+  opacity: 0.8;
+}
+
+.cs-text:focus-visible {
+  border-color: var(--color-focus);
+  box-shadow: 0 0 0 1px var(--color-focus);
+}
+
+.cs-write-foot {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-2);
+  min-height: 1.5em;
+}
+
+.cs-kept {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cs-kept.is-warn {
+  font-style: normal;
+  color: var(--color-refused);
+}
+
+.cs-how {
+  margin: 0;
+}
+
+.cs-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-1) var(--space-4);
+  margin: var(--space-3) 0 var(--space-2);
+  padding: 0;
+  list-style: none;
+  font-size: var(--step--1);
+}
+
+.cs-legend li {
+  color: var(--tier-color);
+}
+
+.cs-legend-n {
+  font-family: var(--font-log);
+}
+
+.cs-legend .u,
+.cs-chip .m {
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+.cs-status {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-log);
+  text-transform: none;
+}
+
+.cs-problems {
+  display: grid;
+  gap: var(--space-1);
+  margin: 0;
+  padding: var(--space-2) var(--space-3);
+  border-left: 2px solid var(--color-refused);
+  list-style: none;
+  font-size: var(--step--1);
+  line-height: 1.4;
+}
+
+.cs-problems[hidden] {
+  display: none;
+}
+
+.cs-preview {
+  display: grid;
+  gap: var(--space-4);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  counter-reset: cs-q;
+}
+
+.cs-q {
+  display: grid;
+  gap: var(--space-2);
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+  counter-increment: cs-q;
+}
+
+.cs-q:first-child {
+  padding-top: 0;
+  border-top: 0;
+}
+
+.cs-q-text {
+  font-family: var(--font-display);
+  font-size: var(--step-1);
+  line-height: var(--leading-display);
+  text-wrap: balance;
+}
+
+.cs-q-text::before {
+  content: counter(cs-q) '. ';
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cs-q-rules {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cs-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cs-chip {
+  max-width: 100%;
+  padding: 3px 10px;
+  border: 1px solid var(--tier-color);
+  border-radius: 999px;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.35;
+  overflow-wrap: anywhere;
+}
+
+.cs-chip .alt {
+  color: var(--color-ink-muted);
+}
+
+/* an answer no diver could type: it stands in the question, but nothing reaches it */
+.cs-chip.is-mute {
+  border-style: dashed;
+  border-color: var(--color-refused);
+  color: var(--color-ink-muted);
+}
+
+.cs-q-not,
+.cs-preview-empty {
+  font-size: var(--step--1);
+  line-height: 1.4;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.cs-preview-empty {
+  font-family: var(--font-display);
+  font-style: italic;
+}
+
+.cs-try {
+  display: grid;
+  gap: 2px;
+}
+
+.cs-try-in {
+  width: 100%;
+  max-width: 24rem;
+  min-height: 40px;
+  padding: 4px 2px;
+  border: 0;
+  border-bottom: 1px solid var(--color-rule-soft);
+  border-radius: 0;
+  background: transparent;
+  color: var(--color-ink);
+  font-family: var(--font-log);
+  font-size: max(16px, var(--step--1));
+  outline: none;
+}
+
+.cs-try-in::placeholder {
+  color: var(--color-ink-muted);
+  font-family: var(--font-display);
+  font-style: italic;
+  opacity: 0.85;
+}
+
+.cs-try-in:focus-visible {
+  border-bottom-color: var(--color-focus);
+}
+
+.cs-try-out {
+  min-height: 1.3em;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.cs-try-out.is-taken {
+  color: var(--color-ink);
+}
+
+.cs-try-out.is-refused {
+  color: var(--color-refused);
+}
+
+/* ------------------------------------------------------------ on paper
+
+   The game is a window on a page that scrolls inside itself, in ink colours of
+   the deep. Paper wants the whole page, black on white. The rules below hold
+   only while a class's results are on show (the page is marked then). */
+
+@media print {
+  html.cr-printing,
+  html.cr-printing body {
+    height: auto !important;
+    overflow: visible !important;
+    background: #fff !important;
+    color: #000 !important;
+  }
+
+  /* the page's colours ease from one depth's to the next: paper takes its own at once, or it is printed mid-change */
+  html.cr-printing,
+  html.cr-printing * {
+    transition: none !important;
+    animation: none !important;
+  }
+
+  html.cr-printing {
+    --color-ink: #000 !important;
+    --color-ink-muted: #444 !important;
+    --color-rule: #777 !important;
+    --color-rule-soft: #bbb !important;
+    --color-refused: #000 !important;
+    --color-glow: #000 !important;
+    --color-plate-veil: transparent !important;
+    --reserve: transparent !important;
+    --halo: none !important;
+  }
+
+  html.cr-printing :is(canvas.abyss, .hud, .sounding, .toast, .zone-banner, .descent-readout, .sc-bar, .sc-confirm, .sc-lost, .no-print) {
+    display: none !important;
+  }
+
+  html.cr-printing .app {
+    display: block !important;
+    height: auto !important;
+    padding: 0 !important;
+    transform: none !important;
+  }
+
+  html.cr-printing .stage {
+    overflow: visible !important;
+  }
+
+  html.cr-printing .screen {
+    position: static !important;
+    display: block !important;
+    overflow: visible !important;
+    padding: 0 !important;
+    animation: none !important;
+  }
+
+  html.cr-printing .screen > *,
+  html.cr-printing .class-screen > .sc-stage {
+    max-width: none !important;
+  }
+
+  html.cr-printing .cr-results {
+    display: block;
+    padding: 0;
+    animation: none !important;
+    font-size: 10.5pt;
+  }
+
+  html.cr-printing .cr-results * {
+    text-shadow: none !important;
+    box-shadow: none !important;
+  }
+
+  html.cr-printing .cr-head {
+    margin-bottom: 10pt;
+  }
+
+  html.cr-printing .cr-title {
+    font-size: 18pt;
+  }
+
+  html.cr-printing .plate {
+    width: auto;
+    margin: 0 0 10pt;
+    padding: 8pt 10pt;
+    border: 0.5pt solid #777;
+    outline: 0;
+    background: none;
+  }
+
+  html.cr-printing .plate::before,
+  html.cr-printing .plate::after {
+    display: none;
+  }
+
+  html.cr-printing .cr-q {
+    break-inside: avoid-page;
+  }
+
+  html.cr-printing .cr-scroll {
+    overflow: visible;
+    margin: 0;
+    padding: 0;
+  }
+
+  html.cr-printing .cr-table tr {
+    break-inside: avoid;
+  }
+
+  html.cr-printing .cr-table thead {
+    display: table-header-group;
+  }
+
+  /* a long class: the table keeps to places and depths, and the questions below carry the answers */
+  html.cr-printing .cr-table.is-wide :is(.cr-qh, .cr-c) {
+    display: none;
+  }
+
+  html.cr-printing .cr-print-note {
+    display: block;
+    margin-top: 6pt !important;
+    font-style: italic;
+    color: #444;
+  }
+
+  html.cr-printing .cr-c {
+    min-width: 0;
+  }
+
+  /* tier colours are for a screen: on paper each answer's tier is named beside it */
+  html.cr-printing .cr-a::before,
+  html.cr-printing .cv-dot,
+  html.cr-printing .cr-answer-seal {
+    display: none;
+  }
+
+  html.cr-printing .cr-answer {
+    grid-template-columns: minmax(7rem, 15rem) 6.5rem 4.5rem minmax(0, 1fr);
+    grid-template-areas: 'a t d who';
+  }
+
+  html.cr-printing .cr-answer-t {
+    color: #444;
+  }
+
+  html.cr-printing .cr-questions-head {
+    padding: 0;
+    margin-bottom: 4pt;
+  }
+
+  html.cr-printing .cr-refused summary::before {
+    display: none;
+  }
+}

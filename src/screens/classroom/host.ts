@@ -2,7 +2,8 @@
 // It shows the class how to join, asks each question in letters the back row
 // can read, and surfaces the answers and the standings. It never answers.
 
-import { choiceNames } from '../../game/topics';
+import { ownTopics } from '../../game/ownsets';
+import { DAILY_GROUP, choiceNames, ownOfTopic, type Topic } from '../../game/topics';
 import { filedUnder } from '../../game/packs';
 import { CLASS_LANTERNS, CLASS_MAX_SEATS, CLASS_MODES, CLASS_QUESTIONS, CLASS_SECONDS, CLASS_TABLES, LAST_MAX_ALONE, type ClassConfig, type ClassMode, type ClassSeatPublic, type ClassView } from '../../party/class-types';
 import { signSpoken } from '../../party/codes';
@@ -13,7 +14,7 @@ import { questionBlock } from '../seance/candle';
 import { listNames, shareLink } from '../seance/model';
 import { CandleRow, shareButton, signEl, unsaidList } from '../seance/parts';
 import { Scene, uniq, type Ctx } from '../seance/scene';
-import { answerList, boutLine, classStandings, lanternsEl, MODE_COPY, pickRow, plural, questionOf, tableBoard, tableName, tableRows, tableStyle, type PickRow } from './parts';
+import { answerList, boutLine, classStandings, lanternsEl, MODE_COPY, pickRow, plural, questionOf, tableBoard, tableName, tableRows, tableStyle, type Choice, type PickRow } from './parts';
 
 /** The game's own address with the class's sign on it: what the QR code holds. */
 export const classLink = (sign: string): string => shareLink(location.href, sign, 'class');
@@ -50,6 +51,11 @@ export class HostLobbyScene extends Scene {
   private how: HTMLElement;
   private picker?: TopicPicker;
   private names: string[] = [];
+  /** The host's own sets, as topics, and how many questions the ticked ones held when last looked at. */
+  private own: Topic[] = [];
+  private ownWas = 0;
+  /** The number of questions last chosen from the usual few, to come back to when own sets are unticked. */
+  private usual: number;
   private paint = 0;
   /** The diver the host has pressed once to remove: a second press does it. */
   private armed: string | null = null;
@@ -63,6 +69,7 @@ export class HostLobbyScene extends Scene {
   ) {
     super(ctx);
     this.view = view;
+    this.usual = (CLASS_QUESTIONS as readonly number[]).includes(view.config.questions) ? view.config.questions : CLASS_QUESTIONS[1];
     const titleId = uniq('cv-host');
     const link = classLink(view.sign);
     let qr: HTMLElement | null = null;
@@ -109,21 +116,30 @@ export class HostLobbyScene extends Scene {
     this.seconds = pickRow<number>('Each question burns for', secondsChoices(c.mode), c.seconds, (seconds) => send({ seconds }));
     this.lanterns = pickRow<number>('Lanterns each', CLASS_LANTERNS.map((n) => ({ value: n, v: String(n), u: n === 1 ? 'lantern' : 'lanterns' })), c.lanterns ?? CLASS_LANTERNS[0], (lanterns) => send({ lanterns }));
     this.tables = pickRow<number>('Tables', CLASS_TABLES.map((t) => (t ? { value: t, v: String(t), u: 'tables' } : { value: 0, v: 'None', u: 'everyone alone' })), c.tables, (tables) => send({ tables }), 'is-tables');
-    this.questions = pickRow<number>('Questions', CLASS_QUESTIONS.map((q) => ({ value: q, v: String(q), u: 'questions' })), c.questions, (questions) => send({ questions }));
+    this.questions = pickRow<number>('Questions', this.questionChoices(), c.questions, (questions) => {
+      if (!this.ownCount()) this.usual = questions;
+      send({ questions });
+    });
     const setup = h('section', { class: 'plate sc-config cv-setup', 'aria-label': 'How the class is held' }, h('h3', { class: 'sc-h' }, 'How the class is held'), this.mode.el, this.how, this.seconds.el, this.lanterns.el, this.questions.el, this.tables.el);
 
     const parts: HTMLElement[] = [join, rollPlate, setup];
     const topics = this.env.topics;
     if (topics) {
       this.names = c.topics ?? [];
-      const retell = (all: ReturnType<typeof topics.daily>) => {
+      // The host's own sets stand between the daily deep and the class packs.
+      this.own = ownTopics();
+      const withOwn = (all: Topic[]) => [...all.filter((t) => t.group === DAILY_GROUP), ...this.own, ...all.filter((t) => t.group !== DAILY_GROUP)];
+      const retell = (all: Topic[]) => {
         const names = choiceNames(this.picker?.choice() ?? [], all);
-        if (names.join('|') === this.names.join('|')) return;
-        this.names = names;
         const cur = this.view.config;
-        this.actions.config({ mode: cur.mode, seconds: cur.seconds, tables: cur.tables, questions: cur.questions, ...(cur.lanterns ? { lanterns: cur.lanterns } : {}) }, names);
+        const questions = this.fitQuestions();
+        if (names.join('|') === this.names.join('|') && questions === cur.questions) return;
+        this.names = names;
+        if (questions !== cur.questions) this.view = { ...this.view, config: { ...cur, questions } };
+        this.syncConfig();
+        this.actions.config({ mode: cur.mode, seconds: cur.seconds, tables: cur.tables, questions, ...(cur.lanterns ? { lanterns: cur.lanterns } : {}) }, names);
       };
-      let known = topics.daily();
+      let known = withOwn(topics.daily());
       this.picker = topicPicker({
         topics: known,
         choice: topics.load(),
@@ -139,11 +155,20 @@ export class HostLobbyScene extends Scene {
       this.stops.push(() => (live = false));
       void topics.all().then((all) => {
         if (!live) return;
-        known = all;
-        this.picker?.setTopics(all);
-        retell(all);
+        known = withOwn(all);
+        this.picker?.setTopics(known);
+        retell(known);
       });
-      parts.push(h('section', { class: 'plate sc-config sc-topics cv-topics', 'aria-label': 'What the class is asked about' }, h('h3', { class: 'sc-h' }, 'The questions'), this.picker.el));
+      this.ownWas = this.ownCount();
+      parts.push(
+        h(
+          'section',
+          { class: 'plate sc-config sc-topics cv-topics', 'aria-label': 'What the class is asked about' },
+          h('h3', { class: 'sc-h' }, 'The questions'),
+          this.picker.el,
+          this.own.length ? null : h('p', { class: 'cv-own-hint' }, 'Questions of your own? Write a set under “Your question sets” on the Convocation’s first page, and it is offered here to tick.'),
+        ),
+      );
     }
 
     this.begin = h('button', { class: 'btn primary sc-begin cv-begin', type: 'button' }, this.beginLabel()) as HTMLButtonElement;
@@ -176,6 +201,40 @@ export class HostLobbyScene extends Scene {
     return this.picker?.choice() ?? [];
   }
 
+  /** How many questions the ticked sets hold, when the host's own sets are all that is ticked; else 0. */
+  private ownCount(): number {
+    const choice = this.choice();
+    if (!choice.length || !choice.every((id) => ownOfTopic(id))) return 0;
+    return this.own.filter((t) => choice.includes(t.id)).reduce((n, t) => n + t.count, 0);
+  }
+
+  /** The numbers of questions on offer: the usual few, or with only own sets ticked, no more than they hold and all of them at a press. */
+  private questionChoices(): Array<Choice<number>> {
+    const usual: Array<Choice<number>> = CLASS_QUESTIONS.map((q) => ({ value: q, v: String(q), u: 'questions' }));
+    const n = this.ownCount();
+    if (!n) return usual;
+    if (n > 30) return [...usual, { value: 20, v: '20', u: 'questions' }, { value: 30, v: '30', u: 'questions' }];
+    return [...usual.filter((o) => o.value < n), { value: n, v: `All ${n}`, u: n === 1 ? 'question' : 'questions' }];
+  }
+
+  /**
+   * The number of questions for what is ticked now. Ticking a short set of the
+   * host's own asks all of it; unticking it comes back to the usual number; a
+   * number no longer on offer gives way to the largest that is.
+   */
+  private fitQuestions(): number {
+    const cur = this.view.config.questions;
+    const offered = this.questionChoices().map((o) => o.value);
+    const n = this.ownCount();
+    const was = this.ownWas;
+    this.ownWas = n;
+    if (n !== was) {
+      if (!n) return this.usual;
+      if (n <= 12) return n;
+    }
+    return offered.includes(cur) ? cur : offered[offered.length - 1];
+  }
+
   private syncConfig() {
     const c = this.view.config;
     const bout = c.mode === 'last';
@@ -185,7 +244,7 @@ export class HostLobbyScene extends Scene {
     this.lanterns.el.hidden = !bout;
     this.lanterns.set(c.lanterns ?? CLASS_LANTERNS[0]);
     this.tables.set(c.tables);
-    this.questions.set(c.questions);
+    this.questions.setOptions(this.questionChoices(), c.questions);
     this.how.textContent = bout
       ? `${MODE_COPY.last.how} ${c.tables ? 'The tables take the turns, and anyone at a table may answer for it.' : `With no tables every diver takes turns alone: that suits ${LAST_MAX_ALONE} divers or fewer.`}`
       : `${MODE_COPY[c.mode].how}${c.tables ? ' Each table also wins its deepest different answers.' : ''}`;
@@ -437,6 +496,8 @@ export class HostRevealScene extends Scene {
 export interface HostEndActions {
   again(): void;
   close(): void;
+  /** Opens what the class came to, diver by diver: absent when this device kept no record (an older relay). */
+  results?(): void;
 }
 
 export class HostEndScene extends Scene {
@@ -461,6 +522,11 @@ export class HostEndScene extends Scene {
       this.click();
       actions.close();
     });
+    const results = actions.results ? (h('button', { class: 'btn ghost cv-results-btn', type: 'button' }, 'See the class results') as HTMLButtonElement) : null;
+    results?.addEventListener('click', () => {
+      this.click();
+      actions.results?.();
+    });
     const herald = first.length ? listNames(first.slice(0, 3).map((s) => s.name)) + (first.length > 3 ? ` and ${first.length - 3} more` : '') : 'Nobody sank at all';
     this.el = h(
       'div',
@@ -479,7 +545,12 @@ export class HostEndScene extends Scene {
         tables ? h('section', { class: 'plate cv-board', 'aria-label': 'The tables' }, h('h3', { class: 'sc-h' }, 'The tables'), tableBoard(trows)) : null,
         h('section', { class: 'plate cv-board', 'aria-label': 'The class' }, h('h3', { class: 'sc-h' }, 'The class', h('span', { class: 'sc-count' }, plural(standings.length, 'diver'))), classStandings(standings, { tables, max: 20 }), standings.length > 20 ? h('p', { class: 'cv-answer-more' }, `and ${plural(standings.length - 20, 'more diver')}`) : null),
       ),
-      h('div', { class: 'sc-actions' }, h('div', { class: 'sc-row' }, again, close), h('p', { class: 'sc-hint' }, 'Another round keeps the class seated and starts everyone from the surface.')),
+      h(
+        'div',
+        { class: 'sc-actions' },
+        h('div', { class: 'sc-row' }, again, results, close),
+        h('p', { class: 'sc-hint' }, results ? 'Another round keeps the class seated and starts everyone from the surface. The results show every diver’s answers, to print or take as a spreadsheet: they are kept on this device.' : 'Another round keeps the class seated and starts everyone from the surface.'),
+      ),
     );
     this.env.announce(first.length ? `The class has surfaced. ${herald} ${first.length === 1 ? 'is the Herald' : 'are the Heralds'} of the Deep, at ${fmtMetres(first[0].total)} metres.` : 'The class has surfaced.');
     this.ctx.sink(first[0]?.total ?? 0);

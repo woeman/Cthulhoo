@@ -19,6 +19,8 @@ import {
   type ClassLastEnd,
   type ClassLastSide,
   type ClassLastView,
+  type ClassLedger,
+  type ClassLedgerRow,
   type ClassMode,
   type ClassOutcome,
   type ClassPhase,
@@ -46,8 +48,13 @@ export const CLASS_NAMES = 3;
 export const TABLE_COUNTS: Record<ClassMode, number> = { classic: 3, blitz: 10, last: Infinity };
 /** A table's counted answers a reveal lists. */
 const TABLE_LISTED = 10;
-/** Refused answers a diver is shown again after a reload. */
-const TRIES_KEPT = 6;
+/** Refused answers kept for each diver on a question, for the host's record; and how many of them a diver is shown again after a reload. */
+export const TRIES_KEPT = 20;
+export const TRIES_SHOWN = 6;
+/** Answers of one diver a ledger lists for one question: nobody types more in a blitz. */
+export const LEDGER_SAID = 150;
+/** Answers and refusals a ledger carries whole. Past this, the refused are left out; past it again, what was typed. One message to the host stays well under the relay's limit. */
+export const LEDGER_CELLS = 6000;
 /** Answers one diver may send to one question, right or wrong: a script gets no further. */
 export const CLASS_SHOTS_MAX = 400;
 /** Once every diver here has answered a classic question, it is revealed this soon. */
@@ -128,6 +135,8 @@ export interface ClassRoom {
   config: ClassConfig;
   /** The question being asked or last revealed, from 1; 0 before the first. */
   n: number;
+  /** Which round of the class this is, from 1: "Hold another round" begins the next. */
+  round: number;
   prompt: PromptDef | null;
   /** Metres for each tier, by tier number; [0] is silence. */
   depths: number[];
@@ -160,6 +169,7 @@ export function newClass(sign: string, key: string, now: number): ClassRoom {
     phase: 'lobby',
     config: { ...DEFAULT_CLASS_CONFIG },
     n: 0,
+    round: 1,
     prompt: null,
     depths: [0, 0, 0, 0, 0, 0, 0],
     litAt: 0,
@@ -179,6 +189,7 @@ export function reviveClass(v: unknown): ClassRoom | null {
   if (!r || r.v !== 1 || typeof r.sign !== 'string' || typeof r.key !== 'string' || !Array.isArray(r.seats)) return null;
   r.earlyAt ??= 0;
   r.last ??= null;
+  r.round ??= 1;
   return r;
 }
 
@@ -420,7 +431,8 @@ export function say(room: ClassRoom, id: string, rawText: unknown, now: number):
     const over = settle(room, bout, now);
     return { ok: true, heard: { kind: 'sealed', input: text, answer: res.answer, sealed: seat.said.length }, turn: over ? 'over' : 'next' };
   }
-  if (seat.said.includes(place)) return refuse('said', `You have already given ${res.answer}.`);
+  // Their own answer again: said so, and not kept with what the deep refused (the host's record lists those).
+  if (seat.said.includes(place)) return { ok: true, heard: { kind: 'refused', text, verdict: 'said', reason: `You have already given ${res.answer}.` } };
   seat.said.push(place);
   seat.typed.push(text);
   // The last of the class to answer closes a classic question a moment early.
@@ -746,6 +758,7 @@ export function againClass(room: ClassRoom, now: number): ClassOutcomeOf {
   }
   room.tables = new Array<number>(room.config.tables + 1).fill(0);
   room.n = 0;
+  room.round += 1;
   room.prompt = null;
   room.result = null;
   room.last = null;
@@ -874,14 +887,72 @@ function boutPart(room: ClassRoom, max: number): { last?: ClassLastView } {
   return last ? { last } : {};
 }
 
-/** What the big screen is shown: the whole roll and every standing, never a diver's sealed answer. */
+/** What was typed, when it does not read as the answer it was taken for. */
+const typedOf = (typed: string | undefined, answer: string): string => {
+  const t = (typed ?? '').trim();
+  return t.toLowerCase() === answer.toLowerCase() ? '' : t;
+};
+
+/**
+ * The question last revealed, in full: every diver's answers, what they typed
+ * and what the deep refused. Null while a question burns and before the first.
+ * It is drawn from the seats as they stand, so it can be had until the next
+ * question is asked; a diver sent out since is not in it.
+ */
+export function ledgerOf(room: ClassRoom): ClassLedger | null {
+  const prompt = room.prompt;
+  const result = room.result;
+  if (!prompt || !result || room.phase === 'asking') return null;
+  // In a bout of last diver standing every answer was named once, and is worth its plain depth.
+  const bout = result.mode === 'last';
+  const voices = voicesOf(room);
+  const lone = (i: number) => !bout && voices.get(i)?.length === 1;
+  const places = [...voices.keys()].sort((a, b) => {
+    const x = prompt.answers[a];
+    const y = prompt.answers[b];
+    return y.tier - x.tier || (voices.get(a)?.length ?? 0) - (voices.get(b)?.length ?? 0) || (x.answer < y.answer ? -1 : 1);
+  });
+  const at = new Map(places.map((place, k) => [place, k]));
+  const rows: ClassLedgerRow[] = room.seats.map((s) => ({
+    id: s.id,
+    name: s.name,
+    table: s.table,
+    here: s.online,
+    said: s.said.slice(0, LEDGER_SAID).map((place, k): [number, string] => [at.get(place) ?? -1, typedOf(s.typed[k], prompt.answers[place]?.answer ?? '')]),
+    tries: s.tries,
+    gain: s.gain,
+    total: s.total,
+  }));
+  const cells = (pick: (r: ClassLedgerRow) => number) => rows.reduce((n, r) => n + pick(r), 0);
+  let cut: ClassLedger['cut'];
+  if (cells((r) => r.said.length + r.tries.length) > LEDGER_CELLS) {
+    cut = 'tries';
+    for (const r of rows) r.tries = [];
+    if (cells((r) => r.said.length) > LEDGER_CELLS) {
+      cut = 'typed';
+      for (const r of rows) r.said = r.said.map(([k]): [number, string] => [k, '']);
+    }
+  }
+  return {
+    born: room.created,
+    round: room.round,
+    n: room.n,
+    answers: places.map((i) => ({ answer: prompt.answers[i].answer, tier: prompt.answers[i].tier, voices: bout ? 1 : (voices.get(i)?.length ?? 0), depth: depthOf(room, prompt, i, lone(i)) })),
+    rows,
+    ...(cut ? { cut } : {}),
+  };
+}
+
+/** What the big screen is shown: the whole roll and every standing, never a diver's sealed answer. Once the answers have surfaced, the host is also handed the question in full, to keep. */
 export function hostView(room: ClassRoom, snap: ClassSnap): ClassView {
+  const ledger = ledgerOf(room);
   return {
     ...baseView(room, snap, 'host'),
     ...boutPart(room, Infinity),
     ...(room.result && room.phase !== 'asking' ? { result: room.result } : {}),
     standings: snap.standings,
     roll: room.seats.map(publicSeat),
+    ...(ledger ? { ledger } : {}),
   };
 }
 
@@ -916,7 +987,7 @@ export function seatView(room: ClassRoom, id: string, snap: ClassSnap): ClassVie
       total: s.total,
       rank: snap.rank.get(s.id) ?? room.seats.length,
       sealed,
-      tries: room.phase === 'asking' ? s.tries : [],
+      tries: room.phase === 'asking' ? s.tries.slice(-TRIES_SHOWN) : [],
       ...(outcome ? { outcome } : {}),
     },
   };

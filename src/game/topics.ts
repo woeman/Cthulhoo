@@ -31,6 +31,13 @@ export const packTopic = (packId: string): string => `${PACK}${packId}`;
 /** The class pack a topic id names, or null for a daily category. */
 export const packOfTopic = (topic: string): string | null => (topic.startsWith(PACK) ? topic.slice(PACK.length) : null);
 
+/** The heading over a teacher's own question sets (see ownsets.ts), which a class may be asked from. */
+export const OWN_GROUP = 'Your own sets';
+const OWN = 'own:';
+export const ownTopic = (setId: string): string => `${OWN}${setId}`;
+/** The teacher's own set a topic id names, or null for any other topic. */
+export const ownOfTopic = (topic: string): string | null => (topic.startsWith(OWN) ? topic.slice(OWN.length) : null);
+
 /** The daily bank's categories as topics, in the theme's order: only those with questions. */
 export function dailyTopics(prompts: Array<Pick<PromptDef, 'category'>>, theme: Pick<ThemeCopy, 'categories'>): Topic[] {
   const counts = new Map<string, number>();

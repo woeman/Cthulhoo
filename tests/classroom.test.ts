@@ -6,6 +6,10 @@ import {
   CLASS_SHOTS_MAX,
   CLASS_TOP,
   CLASS_TTL_MS,
+  LEDGER_CELLS,
+  LEDGER_SAID,
+  TRIES_KEPT,
+  TRIES_SHOWN,
   againClass,
   ask,
   classAlarmAt,
@@ -15,6 +19,7 @@ import {
   everyoneIn,
   hostView,
   leaveSeat,
+  ledgerOf,
   makeKey,
   newClass,
   removeSeat,
@@ -340,7 +345,7 @@ describe('a convocation: blitz', () => {
     const at = asked(room);
     for (let i = 0; i < CLASS_SHOTS_MAX; i++) expect(say(room, dev(1), `nonsense ${i}`, at).ok).toBe(true);
     expect(say(room, dev(1), 'Mars', at)).toMatchObject({ ok: false, code: 'late' });
-    expect(room.seats[0].tries.length).toBeLessThanOrEqual(6);
+    expect(room.seats[0].tries.length).toBeLessThanOrEqual(TRIES_KEPT);
   });
 });
 
@@ -446,6 +451,159 @@ describe('a convocation: what each device is shown', () => {
     expect(v.tableSeats).toEqual([0, 2, 2]);
     expect(v.tableTotals).toEqual([0, 1200, 0]);
     expect(v.you!.table).toBe(2);
+  });
+});
+
+describe('a convocation: the ledger the host keeps', () => {
+  it('hands the host each question in full once its answers surface, and never while it burns', () => {
+    const room = classOf(5);
+    const at = asked(room);
+    heard(room, 1, 'Mars', at);
+    heard(room, 2, 'Narnia', at);
+    heard(room, 2, 'Pluto', at);
+    heard(room, 2, 'mars', at);
+    heard(room, 3, 'Uranos', at); // a slip of the keys
+    seatOnline(room, dev(5), false);
+    expect(ledgerOf(room)).toBeNull();
+    expect(hostView(room, snapshot(room, at)).ledger).toBeUndefined();
+    reveal(room, at + 10);
+    const host = hostView(room, snapshot(room, at + 10));
+    expect(host.ledger).toEqual({
+      born: T0,
+      round: 1,
+      n: 1,
+      answers: [
+        { answer: 'Uranus', tier: 5, voices: 1, depth: 1200 },
+        { answer: 'Mars', tier: 1, voices: 2, depth: 100 },
+      ],
+      rows: [
+        { id: dev(1), name: 'D1', table: 0, here: true, said: [[1, '']], tries: [], gain: 100, total: 100 },
+        { id: dev(2), name: 'D2', table: 0, here: true, said: [[1, '']], tries: ['Narnia', 'Pluto'], gain: 100, total: 100 },
+        { id: dev(3), name: 'D3', table: 0, here: true, said: [[0, 'Uranos']], tries: [], gain: 1200, total: 1200 },
+        { id: dev(4), name: 'D4', table: 0, here: true, said: [], tries: [], gain: 0, total: 0 },
+        { id: dev(5), name: 'D5', table: 0, here: false, said: [], tries: [], gain: 0, total: 0 },
+      ],
+    });
+    // A diver's phone is never handed it.
+    expect(seatView(room, dev(1), snapshot(room, at + 10))!.ledger).toBeUndefined();
+    // It can be had again once the class has ended, and is gone when the next question is asked.
+    endClass(room, at + 20);
+    expect(hostView(room, snapshot(room, at + 20)).ledger).toEqual(host.ledger);
+  });
+
+  it('counts the questions and the rounds, so a host keeps each ledger once', () => {
+    const room = classOf(2);
+    let at = asked(room);
+    heard(room, 1, 'Mars', at);
+    reveal(room, at + 5);
+    expect(ledgerOf(room)).toMatchObject({ born: T0, round: 1, n: 1 });
+    at = asked(room, at + 10_000);
+    expect(ledgerOf(room)).toBeNull();
+    heard(room, 2, 'Venus', at);
+    reveal(room, at + 5);
+    expect(ledgerOf(room)).toMatchObject({ round: 1, n: 2, answers: [{ answer: 'Venus', voices: 1 }] });
+    expect(ledgerOf(room)!.rows.map((r) => [r.said.length, r.gain, r.total])).toEqual([
+      [0, 0, 150],
+      [1, 380, 380],
+    ]);
+    endClass(room, at + 10);
+    againClass(room, at + 20);
+    expect(room.round).toBe(2);
+    expect(ledgerOf(room)).toBeNull();
+    at = asked(room, at + 30);
+    heard(room, 1, 'Mars', at);
+    reveal(room, at + 5);
+    expect(ledgerOf(room)).toMatchObject({ born: T0, round: 2, n: 1 });
+  });
+
+  it('lists every answer of a blitz with who gave it, and each table of a class with tables', () => {
+    const room = classOf(4, 2);
+    expect(configureClass(room, { mode: 'blitz', seconds: 60, tables: 2, questions: 3 }, T0).ok).toBe(true);
+    const at = asked(room);
+    heard(room, 1, 'Mars', at);
+    heard(room, 1, 'uranus', at);
+    heard(room, 1, 'Mars', at); // their own answer again: not a refusal to keep
+    heard(room, 2, 'Mars', at);
+    heard(room, 2, 'Venus', at);
+    reveal(room, at + 10);
+    const l = ledgerOf(room)!;
+    expect(l.answers).toEqual([
+      { answer: 'Uranus', tier: 5, voices: 1, depth: 1200 },
+      { answer: 'Venus', tier: 2, voices: 1, depth: 380 },
+      { answer: 'Mars', tier: 1, voices: 2, depth: 100 },
+    ]);
+    expect(l.rows.map((r) => [r.name, r.table, r.said, r.tries, r.gain])).toEqual([
+      ['D1', 1, [[2, ''], [0, '']], [], 1300],
+      ['D2', 2, [[2, ''], [1, '']], [], 480],
+      ['D3', 1, [], [], 0],
+      ['D4', 2, [], [], 0],
+    ]);
+  });
+
+  it('names each answer of a bout once, at its plain depth', () => {
+    const room = classOf(2);
+    expect(configureClass(room, { mode: 'last', seconds: 15, tables: 0, questions: 3 }, T0).ok).toBe(true);
+    expect(ask(room, planets, DEPTHS, T0)).toEqual({ ok: true });
+    const bout = room.last!;
+    const first = bout.order[bout.turn] === dev(1) ? 1 : 2;
+    expect(say(room, dev(first), 'Uranus', bout.turnLit + 1)).toMatchObject({ ok: true, heard: { kind: 'sealed' } });
+    reveal(room, room.last!.turnLit + 5);
+    const l = ledgerOf(room)!;
+    expect(l.answers).toEqual([{ answer: 'Uranus', tier: 5, voices: 1, depth: 800 }]);
+    expect(l.rows.find((r) => r.id === dev(first))).toMatchObject({ said: [[0, '']], gain: 800 });
+  });
+
+  it('keeps more of what the deep refused than a diver is shown again', () => {
+    const room = classOf(1);
+    expect(configureClass(room, { mode: 'blitz', seconds: 60, tables: 0, questions: 3 }, T0).ok).toBe(true);
+    const at = asked(room);
+    for (let i = 0; i < TRIES_KEPT + 5; i++) heard(room, 1, `nonsense ${i}`, at);
+    expect(room.seats[0].tries).toHaveLength(TRIES_KEPT);
+    const mine = seatView(room, dev(1), snapshot(room, at))!;
+    expect(mine.you!.tries).toHaveLength(TRIES_SHOWN);
+    expect(mine.you!.tries.at(-1)).toBe(`nonsense ${TRIES_KEPT + 4}`);
+    reveal(room, at + 5);
+    expect(ledgerOf(room)!.rows[0].tries).toEqual(room.seats[0].tries);
+  });
+
+  it('leaves out the refused, then what was typed, when a class is too busy for one message', () => {
+    const many: PromptDef = { id: 'numbers', text: 'Name a number.', category: 'misc', answers: Array.from({ length: 400 }, (_, i) => ({ answer: `Number ${i}`, aliases: [`no ${i}`], tier: 1 + (i % 6) })) };
+    const busy = (seats: number, each: number, tries: number) => {
+      const room = classOf(seats);
+      expect(configureClass(room, { mode: 'blitz', seconds: 120, tables: 0, questions: 3 }, T0).ok).toBe(true);
+      expect(ask(room, many, DEPTHS, T0)).toEqual({ ok: true });
+      // Straight onto the seats: three hundred divers typing would take the matcher a while.
+      for (const s of room.seats) {
+        s.said = Array.from({ length: each }, (_, i) => i);
+        s.typed = s.said.map((i) => `no ${i}`);
+        s.tries = Array.from({ length: tries }, (_, i) => `wrong ${i}`);
+      }
+      reveal(room, room.litAt + 5);
+      return ledgerOf(room)!;
+    };
+    const calm = busy(40, 10, 5);
+    expect(calm.cut).toBeUndefined();
+    expect(calm.rows[0].tries).toHaveLength(5);
+    expect(calm.rows[0].said[0][1]).toBe('no 0');
+
+    const loud = busy(300, 15, 10); // 4,500 answers and 3,000 refusals
+    expect(300 * 25).toBeGreaterThan(LEDGER_CELLS);
+    expect(loud.cut).toBe('tries');
+    expect(loud.rows.every((r) => r.tries.length === 0)).toBe(true);
+    expect(loud.rows[0].said[0][1]).toBe('no 0');
+
+    const roar = busy(300, 200, 10);
+    expect(roar.cut).toBe('typed');
+    expect(roar.rows[0].said).toHaveLength(LEDGER_SAID);
+    expect(roar.rows.every((r) => r.said.every(([, typed]) => typed === ''))).toBe(true);
+    expect(JSON.stringify(roar).length).toBeLessThan(900_000);
+  });
+
+  it('reads a room written down before rounds were counted', () => {
+    const room = classOf(2);
+    const old = JSON.parse(JSON.stringify(room)) as Record<string, unknown>;
+    delete old.round;
+    expect(reviveClass(old)!.round).toBe(1);
   });
 });
 
