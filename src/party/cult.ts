@@ -74,7 +74,7 @@ export function reviveCult(raw: unknown): Cult | null {
   return c.v === 1 && typeof c.sign === 'string' && Array.isArray(c.members) && c.dives && typeof c.dives === 'object' ? c : null;
 }
 
-const validId = (id: unknown): id is string => typeof id === 'string' && /^[a-z0-9-]{4,40}$/.test(id);
+export const validId = (id: unknown): id is string => typeof id === 'string' && /^[a-z0-9-]{4,40}$/.test(id);
 
 export function joinCult(cult: Cult, id: unknown, rawName: unknown, now: number): Outcome<{ member: CultMember }> {
   if (!validId(id)) return fail('bad', 'That device has no proper mark.');

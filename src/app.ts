@@ -9,7 +9,7 @@ import { careerDay, computeCareer, type Career } from './game/career';
 import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
-import { loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
+import { isEphemeral, keepCensus, loadCensusKept, loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -28,7 +28,10 @@ import { breathsLeft, codexPages, loadRiddleDeck, todaysRiddle, type RiddleDeck,
 import { codexBody, riddleScreen } from './screens/riddle';
 import { cultBody, loadPass, postDiveToCult, seanceScreen, type SeanceEnv } from './screens/seance';
 import { loadCult } from './screens/cult';
-import { hasRelay, loadSeat } from './party/online';
+import { censusRead, censusReport, hasRelay, loadSeat } from './party/online';
+import { CENSUS_MIN, airLine, censusLine, censusRows, censusWait, diversSaid, outOfAir, shareTag, type CensusCount } from './party/census';
+import { relayId } from './screens/seance/model';
+import { collectRelics, reliquaryBody, reliquaryNote } from './screens/reliquary';
 import { ARTIFACT } from './env';
 import { applyDepth } from '../art/js/depth.js';
 
@@ -93,6 +96,24 @@ const modeButton = (iconName: Parameters<typeof icon>[0], name: string, note: st
 type Sheet = { el: HTMLElement; close: (quiet?: boolean, restoreFocus?: boolean) => void };
 type SheetOpts = { onClose?: () => void; actions?: HTMLElement[]; focus?: HTMLElement | null };
 
+/** One answer's row in the log of a dive, kept so the census can fill it in when it arrives. */
+interface LogRow {
+  a: AnswerRecord;
+  p: PromptDef | undefined;
+  /** The tier's name under the answer, where its share goes. */
+  t: HTMLElement;
+  slot: HTMLElement;
+  /** The bank's own guess at what everyone said, which the census replaces. */
+  common: HTMLElement | null;
+}
+
+/** A daily answer told to the census: what came back, once it has. */
+interface Heard {
+  done: boolean;
+  count: CensusCount | null;
+  wait: Promise<CensusCount | null>;
+}
+
 export class App {
   private bank: Bank = loadBank();
   private riddles: RiddleDeck = loadRiddleDeck();
@@ -118,6 +139,8 @@ export class App {
   private zoneText!: MadText;
   /** Set by the screen that cares when the visible area changes (keyboard up or down, rotation). */
   private onViewport: (() => void) | null = null;
+  /** Each daily answer told to the census this visit, by day and question. */
+  private heard = new Map<string, Heard>();
 
   private hud!: { el: HTMLElement; title: HTMLElement; num: HTMLElement; zone: HTMLElement; sound: HTMLButtonElement };
   private appEl!: HTMLElement;
@@ -875,6 +898,8 @@ export class App {
     rec.sanity = sanityAfterAnswer(rec.sanity, gain, answer.tier);
     if (rec.answers.length >= rec.promptIds.length) rec.finished = true;
     saveDay(rec);
+    // The census hears it while the line pays out, so its share is ready for the reveal.
+    this.tellCensus(rec, prompt.id, answer.answer);
     // A rare answer pays out enough cable for something to pass the porthole.
     let sighting: Sighting | null = null;
     if (!rec.practice && answer.tier >= SIGHTING_TIER) {
@@ -911,6 +936,7 @@ export class App {
     rec.sanity = clampSanity(rec.sanity - SANITY.timeout);
     if (rec.answers.length >= rec.promptIds.length) rec.finished = true;
     saveDay(rec);
+    this.tellCensus(rec, prompt.id, null);
     this.setMadness(rec.sanity);
     this.sound.timeout();
     if (this.settings.haptics) Sound.buzz([60, 40, 60]);
@@ -1026,6 +1052,7 @@ export class App {
     const tier = record.tier ? tierDef(this.theme, record.tier) : null;
     const kids: Array<HTMLElement | null> = [h('p', { class: 'kicker' }, `Question ${n} of ${count}`)];
     const said: string[] = [];
+    const census = this.censusEl(rec, prompt.id, !!(tier && answer));
     if (tier && answer) {
       const bell = isBellQuestion(rec, n - 1);
       const line = answer.openSecret ? pickLine(this.theme.openSecret.lines, prompt.id, answer.answer) : pickLine(tier.lines, prompt.id, answer.answer);
@@ -1033,12 +1060,13 @@ export class App {
         medallion(tier.tier, 88),
         h('h2', { class: `tier-name${tier.tier === 6 ? ' iridescent' : ''}`, id: 'reveal-title', style: `--tier-color: var(--color-tier-${tier.tier})` }, tier.name),
         h('div', { class: 'answer-row' }, h('p', { class: 'echo' }, `“${answer.answer}”`), h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`)),
+        census?.el ?? null,
         bell ? h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep') : null,
         answer.openSecret ? h('p', { class: 'secret' }, `${this.theme.openSecret.emoji} ${this.theme.openSecret.name}`) : null,
         h('p', { class: 'line' }, line),
         answer.lore ? h('p', { class: 'lore' }, answer.lore) : null,
       );
-      said.push(`${tier.name}. ${answer.answer}.`, `${fmtMetres(record.depth)} metres deeper, ${fmtMetres(total)} in all.`);
+      said.push(`${tier.name}. ${answer.answer}.`, `${fmtMetres(record.depth)} metres deeper, ${fmtMetres(total)} in all.`, census?.said ?? '');
       if (bell) said.push('The bell tolled: twice as deep.');
       if (answer.openSecret) said.push(`${this.theme.openSecret.name}.`);
       // Some lines open with the tier's own name; say it once.
@@ -1057,10 +1085,11 @@ export class App {
         medallion(0, 88),
         h('h2', { class: 'tier-name', id: 'reveal-title', style: '--tier-color: var(--color-refused)' }, 'Out of air'),
         h('div', { class: 'answer-row' }, h('p', { class: 'gain' }, '+0 m')),
+        census?.el ?? null,
         h('p', { class: 'line' }, line),
         might ? h('p', { class: 'lore' }, might) : null,
       );
-      said.push('Out of air. No depth gained.', line, might);
+      said.push('Out of air. No depth gained.', census?.said ?? '', line, might);
     }
     let leaving = false;
     const next = h(
@@ -1101,6 +1130,115 @@ export class App {
     setTimeout(() => !leaving && next.isConnected && next.scrollIntoView({ block: 'nearest', behavior: this.reduced ? 'auto' : 'smooth' }), this.reduced ? 0 : 1600);
   }
 
+  // ============================================================== the census
+
+  /** Whether this dive joins the census: a daily dive, kept, with a relay to tell. */
+  private counts(rec: DayRecord): boolean {
+    return !rec.practice && hasRelay() && !isEphemeral();
+  }
+
+  /** Tell the census of a daily answer (null: out of air). It never holds the dive up, and a failure is only silence. */
+  private tellCensus(rec: DayRecord, promptId: string, answer: string | null) {
+    if (!this.counts(rec)) return;
+    const key = `${rec.day}|${promptId}`;
+    if (this.heard.has(key)) return;
+    const heard: Heard = { done: false, count: null, wait: Promise.resolve(null) };
+    heard.wait = censusReport(rec.day, relayId(playerId()), promptId, answer)
+      .catch(() => null)
+      .then((c) => {
+        heard.done = true;
+        heard.count = c;
+        if (c) keepCensus(rec.day, promptId, { total: c.total, mine: c.mine });
+        return c;
+      });
+    this.heard.set(key, heard);
+  }
+
+  /**
+   * The reveal's census line: "4% of today’s 212 divers said it." Written at once
+   * when the relay has answered during the descent, or as soon as it does (and
+   * read out then); left out when there is no relay or it cannot be reached.
+   */
+  private censusEl(rec: DayRecord, promptId: string, answered: boolean): { el: HTMLElement; said: string } | null {
+    const heard = this.heard.get(`${rec.day}|${promptId}`);
+    if (rec.practice || !heard || (heard.done && !heard.count)) return null;
+    const el = h('p', { class: 'census' });
+    if (heard.count) {
+      el.textContent = censusLine(heard.count, CENSUS_MIN, answered);
+      return { el, said: el.textContent };
+    }
+    el.classList.add('waiting');
+    el.setAttribute('aria-live', 'polite');
+    void heard.wait.then((c) => {
+      if (!el.isConnected) return;
+      if (!c) el.remove();
+      else {
+        el.textContent = censusLine(c, CENSUS_MIN, answered);
+        el.classList.remove('waiting');
+      }
+    });
+    return { el, said: '' };
+  }
+
+  /**
+   * The log's census: each answer's share beside its tier, and under it the
+   * answers today's divers gave most. Anything the relay has not heard from this
+   * device yet is counted on the way (it never counts twice).
+   */
+  private censusForLog(rec: DayRecord, rows: LogRow[], token: number) {
+    const items = rec.answers.map((a) => ({ id: a.promptId, answer: a.answer }));
+    void censusRead(rec.day, relayId(playerId()), items)
+      .then((counts) => {
+        for (const c of counts) {
+          keepCensus(rec.day, c.prompt, { total: c.total, mine: c.mine });
+          const row = rows.find((r) => r.a.promptId === c.prompt);
+          if (row && token === this.token) this.fillCensusRow(row, c);
+        }
+      })
+      .catch(() => {
+        /* the log simply has no census today */
+      });
+  }
+
+  private fillCensusRow(row: LogRow, c: CensusCount) {
+    const { a, p } = row;
+    const answered = !!a.answer;
+    const tag = shareTag(c, CENSUS_MIN, answered);
+    row.t.querySelector('.share')?.remove();
+    if (tag) row.t.append(h('span', { class: 'share' }, ` · ${tag}`));
+    row.slot.replaceChildren();
+    if (c.total < CENSUS_MIN) {
+      row.slot.append(h('p', { class: 'census-note' }, censusWait(c.total, CENSUS_MIN)));
+      return;
+    }
+    const tierOf = new Map(p?.answers.map((x) => [x.answer, x.tier]) ?? []);
+    const list = p ? censusRows(c, new Set(tierOf.keys()), a.answer) : [];
+    const air = outOfAir(c);
+    if (!list.length && !air) return;
+    row.common?.remove(); // the census says it better than the bank's guess
+    const parts: Array<HTMLElement | null> = [
+      h('p', { class: 'census-head' }, h('b', {}, diversSaid(c))),
+      list.length
+        ? h(
+            'ol',
+            { class: 'census-rows' },
+            ...list.map((r) => {
+              const tier = tierOf.get(r.answer) ?? 0;
+              return h(
+                'li',
+                { class: r.yours ? 'yours' : '', style: `--part: ${r.part.toFixed(3)}; --tier-color: ${tier ? `var(--color-tier-${tier})` : 'var(--color-ink-muted)'}` },
+                seal(tier),
+                h('span', { class: 'ans' }, r.answer, r.yours ? h('span', { class: 'you' }, ' · yours') : null),
+                h('span', { class: 'pct' }, r.share),
+              );
+            }),
+          )
+        : null,
+      air ? h('p', { class: 'census-foot' }, airLine(air, c.total, !answered)) : null,
+    ];
+    row.slot.append(...parts.filter((x): x is HTMLElement => !!x));
+  }
+
   // ============================================================== results
 
   private finishDive() {
@@ -1134,18 +1272,25 @@ export class App {
 
     const sightings = loadSightings();
     const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
+    const rows: LogRow[] = [];
     rec.answers.forEach((a, i) => {
       const p = this.bank.byId.get(a.promptId);
       const tier = a.tier ? tierDef(this.theme, a.tier) : null;
       const more = h('div', { class: 'more' });
+      // The census of the day's divers goes here, after the lore, once the relay answers.
+      const slot = h('div', { class: 'census-slot' });
+      let common: HTMLElement | null = null;
       if (p) {
         const def = p.answers.find((x) => x.answer === a.answer);
         if (def?.lore) more.append(h('p', {}, def.lore));
+        more.append(slot);
         const rarest = p.answers.filter((x) => x.tier === 6).slice(0, 6);
-        const common = p.answers.filter((x) => x.tier === 1).slice(0, 5);
+        const commonest = p.answers.filter((x) => x.tier === 1).slice(0, 5);
         if (rarest.length) more.append(h('p', {}, h('b', {}, 'Unspeakable answers: '), rarest.map((x) => x.answer).join(', ')));
-        if (common.length) more.append(h('p', {}, h('b', {}, 'What everyone said: '), common.map((x) => x.answer).join(', ')));
-      }
+        if (commonest.length) more.append((common = h('p', {}, h('b', {}, 'What everyone said: '), commonest.map((x) => x.answer).join(', '))));
+      } else more.append(slot);
+      const t = h('span', { class: 't', style: tier ? `color: var(--color-tier-${tier.tier})` : '' }, a.openSecret ? this.theme.openSecret.name : tier?.name ?? this.theme.refused.name);
+      rows.push({ a, p, t, slot, common });
       for (const s of Object.values(sightings)) {
         const c = s.day === rec.day && s.promptId === a.promptId && !rec.practice ? this.theme.bestiary.find((x) => x.id === s.id) : null;
         if (c) more.append(h('p', {}, h('b', {}, 'Sighted: '), `${c.name}, at ${fmtMetres(s.depth)} m.`));
@@ -1168,7 +1313,7 @@ export class App {
                 {},
                 h('span', { class: 'q' }, `${i + 1}. ${p?.text ?? ''}`),
                 h('span', { class: `a${a.answer ? '' : ' miss'}` }, a.answer ?? 'Out of air'),
-                h('span', { class: 't', style: tier ? `color: var(--color-tier-${tier.tier})` : '' }, a.openSecret ? this.theme.openSecret.name : tier?.name ?? this.theme.refused.name),
+                t,
               ),
               h('span', { class: 'm' }, `${fmtMetres(a.depth)} m`),
             ),
@@ -1232,7 +1377,8 @@ export class App {
       ),
     );
     this.closeEye();
-    this.show(screen);
+    const token = this.show(screen);
+    if (this.counts(rec)) this.censusForLog(rec, rows, token);
     const landmarkEl = screen.querySelector<HTMLElement>('.landmark[data-mad]');
     if (landmarkEl) madden(landmarkEl, total, this.reduced);
     if (gain && day) {
@@ -1501,6 +1647,13 @@ export class App {
     );
   }
 
+  /** Every Forbidden and Unspeakable answer given in a daily dive, newest first. */
+  private openReliquary() {
+    this.sound.click();
+    const relics = collectRelics(loadDays(), (id) => this.bank.byId.get(id), this.theme, loadCensusKept());
+    this.sheet('The Reliquary', reliquaryBody(relics, { theme: this.theme, min: CENSUS_MIN, today: dayNumberFor(new Date()) }));
+  }
+
   /** Every page the riddles have given up, the newest open. */
   private openCodex() {
     this.sound.click();
@@ -1618,8 +1771,10 @@ export class App {
     const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
     const seen = Object.keys(loadSightings()).filter((id) => this.theme.bestiary.some((c) => c.id === id)).length;
     const codex = codexPages(this.riddles, loadRiddles());
+    const relics = collectRelics(days, (id) => this.bank.byId.get(id), this.theme);
     const keepsakes: Keepsake[] = [
       { icon: 'hint', label: 'Sightings', note: `${seen} of ${this.theme.bestiary.length} creatures`, onOpen: () => this.openSightings() },
+      { icon: 'depth', iconHtml: sealSvg(6, 'icon'), label: 'The Reliquary', note: reliquaryNote(relics, this.theme), onOpen: () => this.openReliquary() },
       {
         icon: 'riddle',
         label: 'The Drowned Codex',

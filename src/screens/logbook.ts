@@ -25,12 +25,14 @@ export interface LogbookData {
   stats: Stats;
   today: number;
   reduced: boolean;
-  /** What else the deep has given: the Sightings, the Drowned Codex, the Cult. */
+  /** What else the deep has given: the Sightings, the Reliquary, the Drowned Codex, the Cult. */
   keepsakes?: Keepsake[];
 }
 
 export interface Keepsake {
   icon: IconName;
+  /** Markup to draw in place of the icon (the Reliquary shows a seal). */
+  iconHtml?: string;
   label: string;
   /** One short line: "7 of 24 creatures". */
   note: string;
@@ -257,7 +259,7 @@ export function logbookScreen(data: LogbookData, actions: LogbookActions): HTMLE
             h(
               'button',
               { class: 'btn lb-keepsake', type: 'button', onclick: () => k.onOpen() },
-              h('span', { class: 'lb-keepsake__icon', 'aria-hidden': 'true', html: icon(k.icon) }),
+              h('span', { class: 'lb-keepsake__icon', 'aria-hidden': 'true', html: k.iconHtml ?? icon(k.icon) }),
               h('span', { class: 'lb-keepsake__label' }, k.label),
               h('span', { class: 'lb-keepsake__note' }, k.note),
             ),

@@ -17,6 +17,9 @@ export function setEphemeral(on: boolean): void {
   ephemeral = on;
 }
 
+/** Whether nothing is being kept (?fresh): such a dive is not told to the census either. */
+export const isEphemeral = (): boolean => ephemeral;
+
 function read(key: string): string | null {
   if (ephemeral || unsaved.has(key)) return mem.get(key) ?? null;
   try {
@@ -196,6 +199,45 @@ export function saveSighting(s: Sighting): void {
   all[s.id] = s;
   write('sightings', JSON.stringify(all));
 }
+
+/** A daily question's census as this browser last heard it: divers that day, and how many gave your answer. */
+export interface CensusKept {
+  total: number;
+  mine: number;
+}
+
+const CENSUS_KEPT_MAX = 3000; // about a year of dives; the oldest days go first
+
+const censusKey = (day: number, promptId: string) => `${day}|${promptId}`;
+
+/** The census shares heard for past daily answers, by day and question ("12|cap-1"). */
+export function loadCensusKept(): Record<string, CensusKept> {
+  const out: Record<string, CensusKept> = {};
+  for (const [key, v] of Object.entries(asObject(readJson('census')))) {
+    const c = asObject(v);
+    if (!/^\d+\|/.test(key) || !isNum(c.total) || !isNum(c.mine) || c.total < 0 || c.mine < 0) continue;
+    out[key] = { total: Math.floor(c.total), mine: Math.floor(Math.min(c.mine, c.total)) };
+  }
+  return out;
+}
+
+/** The census for one daily answer as heard. Counts only grow in a day, so the larger is kept. */
+export function keepCensus(day: number, promptId: string, c: CensusKept): void {
+  const all = loadCensusKept();
+  const key = censusKey(day, promptId);
+  const was = all[key];
+  if (was && was.total >= c.total) return;
+  all[key] = { total: c.total, mine: Math.min(c.mine, c.total) };
+  const keys = Object.keys(all);
+  if (keys.length > CENSUS_KEPT_MAX) {
+    keys.sort((a, b) => parseInt(a, 10) - parseInt(b, 10));
+    for (const k of keys.slice(0, keys.length - CENSUS_KEPT_MAX)) delete all[k];
+  }
+  write('census', JSON.stringify(all));
+}
+
+/** The kept census for one daily answer, if any was heard. */
+export const censusKeptFor = (kept: Record<string, CensusKept>, day: number, promptId: string): CensusKept | undefined => kept[censusKey(day, promptId)];
 
 const ID_RE = /^[a-z0-9]{8,32}$/;
 

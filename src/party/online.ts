@@ -3,6 +3,7 @@
 // The relay's address is set at build time (VITE_RELAY_URL). Without one, the
 // Séance is played by passing one device round, and there is no cult board.
 
+import { cleanCount, type CensusCount } from './census';
 import type { CultBoard } from './cult';
 import type { ClientMsg, ErrorCode, SeanceView, ServerMsg, Verdict } from './types';
 
@@ -249,3 +250,19 @@ export const cultDive = (sign: string, id: string, day: number, depth: number) =
 export const cultBoard = (sign: string, id: string, day: number) =>
   call<{ board: CultBoard }>(`/cult/${encodeURIComponent(sign)}?id=${encodeURIComponent(id)}&day=${day}`).then((r) => r.board);
 export const cultLeave = (sign: string, id: string) => call<{ left: boolean }>(`/cult/${encodeURIComponent(sign)}/leave`, post({ id })).then((r) => r.left);
+
+// ------------------------------------------------------------------ the census
+
+/** Count one daily answer (null: the air ran out), and hear how the question stands. */
+export const censusReport = (day: number, id: string, prompt: string, answer: string | null): Promise<CensusCount | null> =>
+  call<{ count: unknown }>(`/census/${day}`, post({ id, prompt, answer })).then((r) => cleanCount(r.count));
+
+/**
+ * How a dive's questions stand: each with the share of the answer given to it and
+ * the answers most given. The device's mark lets the relay count any answer whose
+ * report was lost on the way (it never counts one twice).
+ */
+export const censusRead = (day: number, id: string, items: Array<{ id: string; answer: string | null }>): Promise<CensusCount[]> =>
+  call<{ counts: unknown }>(`/census/${day}/read`, post({ id, prompts: items })).then((r) =>
+    (Array.isArray(r.counts) ? r.counts : []).map(cleanCount).filter((c): c is CensusCount => !!c),
+  );
