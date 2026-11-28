@@ -90,6 +90,95 @@
       "traps": [
         { "answer": "Palindrome", "reason": "Not itself a palindrome." }
       ]
+    },
+    "cheeses": {
+      "id": "test-cheeses",
+      "text": "Name a cheese.",
+      "category": "food",
+      "answers": [
+        { "answer": "Cheddar", "tier": 1 },
+        { "answer": "Gouda", "tier": 1 },
+        { "answer": "Blue cheese", "tier": 2 }
+      ],
+      "traps": [
+        { "answer": "Blue", "reason": "A whole family of cheeses. Which one?" }
+      ]
+    },
+    "cocktails": {
+      "id": "test-cocktails",
+      "text": "Name a cocktail.",
+      "category": "food",
+      "answers": [
+        { "answer": "Mojito", "tier": 1 },
+        { "answer": "Negroni", "tier": 2 }
+      ],
+      "traps": [
+        { "answer": "Molotov cocktail", "reason": "Not one you would drink." }
+      ]
+    },
+    "sharks": {
+      "id": "test-sharks",
+      "text": "Name a kind of shark.",
+      "category": "nature",
+      "answers": [
+        { "answer": "Bull Shark", "tier": 2 },
+        { "answer": "Great White Shark", "tier": 1 }
+      ]
+    },
+    "musicals": {
+      "id": "test-musicals",
+      "text": "Name a musical.",
+      "category": "culture",
+      "answers": [
+        { "answer": "Carrie", "aliases": ["Carrie the Musical"], "tier": 5 },
+        { "answer": "Cats", "tier": 1 }
+      ]
+    },
+    "seas": {
+      "id": "test-seas",
+      "text": "Name a sea.",
+      "category": "geography",
+      "answers": [
+        { "answer": "Sea of Japan", "tier": 3 },
+        { "answer": "Red Sea", "tier": 1 }
+      ]
+    },
+    "rulers": {
+      "id": "test-rulers",
+      "text": "Name a king or queen of England.",
+      "category": "history",
+      "answers": [
+        { "answer": "Henry VIII", "tier": 1 },
+        { "answer": "Victoria", "tier": 1 }
+      ]
+    },
+    "scientists": {
+      "id": "test-scientists",
+      "text": "Name a scientist.",
+      "category": "science",
+      "answers": [
+        { "answer": "Isaac Newton", "tier": 1 },
+        { "answer": "Marie Curie", "tier": 1 }
+      ]
+    },
+    "films": {
+      "id": "test-films",
+      "text": "Name a film.",
+      "category": "culture",
+      "answers": [
+        { "answer": "Toy Story", "tier": 1 },
+        { "answer": "Blade Runner 2049", "tier": 3 },
+        { "answer": "The Lion King", "tier": 1 }
+      ]
+    },
+    "gods": {
+      "id": "test-gods",
+      "text": "Name a god or goddess of Norse mythology.",
+      "category": "myth",
+      "answers": [
+        { "answer": "Freya", "tier": 2 },
+        { "answer": "Thor", "tier": 1 }
+      ]
     }
   },
   "cases": [
@@ -195,6 +284,30 @@
     { "prompt": "titles", "input": "Fahrenheit 415", "expect": "unknown" },
     { "prompt": "titles", "input": "Ninteen Eighty-Four", "expect": "accepted", "answer": "Nineteen Eighty-Four", "note": "a typo in a spelled-out number is still forgiven" },
     { "prompt": "titles", "input": "Oceans Elevn", "expect": "accepted", "answer": "Ocean's Eleven" },
-    { "prompt": "titles", "input": "If Fell", "expect": "accepted", "answer": "If I Fell", "note": "a lone I in a title is the word I, so dropping it is just a typo" }
+    { "prompt": "titles", "input": "If Fell", "expect": "accepted", "answer": "If I Fell", "note": "a lone I in a title is the word I, so dropping it is just a typo" },
+    { "prompt": "cheeses", "input": "Cheddar cheese", "expect": "accepted", "answer": "Cheddar", "note": "the question's own word after an answer is left out" },
+    { "prompt": "cheeses", "input": "Gouda cheeses", "expect": "accepted", "answer": "Gouda" },
+    { "prompt": "cheeses", "input": "Chedar cheese", "expect": "accepted", "answer": "Cheddar", "note": "a typo next to the question's own word is still forgiven" },
+    { "prompt": "cheeses", "input": "Blue cheese", "expect": "accepted", "answer": "Blue cheese", "note": "a spelling that holds the word is itself" },
+    { "prompt": "cocktails", "input": "Mojito cocktail", "expect": "accepted", "answer": "Mojito", "note": "an exact match without the question's word comes before any typo" },
+    { "prompt": "cocktails", "input": "Mojto cocktail", "expect": "accepted", "answer": "Mojito", "note": "the shared word does not stretch the typo allowance onto the trap" },
+    { "prompt": "cocktails", "input": "Molotv cocktail", "expect": "trap", "trap": "Molotov cocktail" },
+    { "prompt": "sharks", "input": "Bul shark", "expect": "accepted", "answer": "Bull Shark", "note": "a typo in a short name before the shared word is judged by the longer name" },
+    { "prompt": "sharks", "input": "Great whte shark", "expect": "accepted", "answer": "Great White Shark" },
+    { "prompt": "musicals", "input": "Barbie the Musical", "expect": "unknown", "note": "\"the Musical\" on both sides no longer makes Barbie a slip for Carrie" },
+    { "prompt": "musicals", "input": "Carrie the Musical", "expect": "accepted", "answer": "Carrie" },
+    { "prompt": "musicals", "input": "Cats the musical", "expect": "accepted", "answer": "Cats" },
+    { "prompt": "seas", "input": "Sea of Japan", "expect": "accepted", "answer": "Sea of Japan", "note": "a question's word before \"of\" is part of the name" },
+    { "prompt": "rulers", "input": "King Henry VIII", "expect": "accepted", "answer": "Henry VIII", "note": "a title before a name is left out" },
+    { "prompt": "rulers", "input": "Queen Victoria", "expect": "accepted", "answer": "Victoria" },
+    { "prompt": "scientists", "input": "Sir Isaac Newton", "expect": "accepted", "answer": "Isaac Newton" },
+    { "prompt": "films", "input": "Toy Story 1995", "expect": "accepted", "answer": "Toy Story", "note": "a year after a title is left out" },
+    { "prompt": "films", "input": "Toy Stroy (1995)", "expect": "accepted", "answer": "Toy Story" },
+    { "prompt": "films", "input": "Blade Runner 2049", "expect": "accepted", "answer": "Blade Runner 2049", "note": "a year that is part of the title stays" },
+    { "prompt": "films", "input": "Teh Lion King", "expect": "accepted", "answer": "The Lion King", "note": "\"teh\" is read as \"the\"" },
+    { "prompt": "films", "input": "Toy Story film", "expect": "accepted", "answer": "Toy Story" },
+    { "prompt": "gods", "input": "Goddess Freya", "expect": "accepted", "answer": "Freya", "note": "the question's own word before a name is left out too" },
+    { "prompt": "gods", "input": "Freya goddess", "expect": "accepted", "answer": "Freya" },
+    { "prompt": "palindromes", "input": "Racecar 2020", "expect": "unknown", "note": "word play never gets a second chance" }
   ]
 }

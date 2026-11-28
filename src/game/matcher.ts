@@ -15,8 +15,13 @@ import type { AnswerDef, PromptDef, TrapDef } from './types';
 //   agree, and a spelling with a Roman numeral only by its folded, digit key.
 // - In the fuzzy pass traps and decoys compete on equal terms, so a wrong
 //   answer can never be "corrected" into a valid one; tied answers are ambiguous.
+// - Second chances: when the whole input has no exact match, it is tried for an
+//   exact match without a leading title, without words from the question itself
+//   ("Cheddar cheese"), without a trailing year, and with "teh" read as "the",
+//   before any typo is forgiven (see secondChances).
 
 export type MatchResult =
+  /** `fuzzy`: a spelling slip was forgiven, so the player may want to see the answer's right spelling. */
   | { kind: 'accept'; answer: AnswerDef; fuzzy: boolean }
   | { kind: 'trap'; trap: TrapDef }
   | { kind: 'decoy'; decoy: string }
@@ -34,6 +39,8 @@ type Entry = { key: string; typo: boolean; digits: string } & (
 interface Compiled {
   entries: Entry[];
   exact: Map<string, Entry>;
+  /** Words of the question itself ("cheese" in "Name a cheese"), which a player may add after an answer. */
+  generic: Set<string>;
 }
 
 const APOSTROPHES = /['‘’ʻʼ`´]/g;
@@ -322,9 +329,120 @@ function compile(p: PromptDef): Compiled {
   for (const d of listOf(p.decoys)) add(d, { kind: 'decoy', ref: d });
   const exact = new Map<string, Entry>();
   for (const e of entries) if (!exact.has(e.key)) exact.set(e.key, e);
-  c = { entries, exact };
+  // A riddle's text is its verse, which says nothing about what kind of answer it wants.
+  const generic = p.category === 'riddle' ? new Set<string>() : genericWords(p.text);
+  c = { entries, exact, generic };
   cache.set(p, c);
   return c;
+}
+
+// ---------------------------------------------------------------- second chances
+// An input often holds a right answer among words the bank leaves out: a title
+// before a name ("Sir Isaac Newton", "King Henry VIII"), the kind of thing the
+// question asks for ("Cheddar cheese", "Goddess Freya", "Barbie the Musical"), a
+// year ("Toy Story 1995"), or "teh" for "the". When the whole input has no exact
+// match, it is tried without them, and what is left must match a spelling exactly
+// (plurals and folding allowed, typos not: a bare name like "Galba" or "Lear" is
+// too close to too many answers). This comes before typos are forgiven on the
+// whole input, whose extra words would otherwise stretch the typo allowance:
+// "Mojito cocktail" is three edits from the trap "Molotov cocktail". Word play
+// ("exact") never gets a second chance.
+
+/** Words that can stand before a name without being part of it. */
+const TITLES = new Set([
+  'sir', 'dame', 'lord', 'lady', 'king', 'queen', 'prince', 'princess', 'emperor', 'empress', 'tsar', 'czar',
+  'pharaoh', 'pope', 'president', 'general', 'admiral', 'captain', 'dr', 'doctor',
+  'professor', 'mr', 'mrs', 'ms', 'miss', 'mister',
+]);
+
+/** Words of a question too common to say what kind of answer it wants. */
+const COMMON = new Set([
+  'name', 'the', 'and', 'any', 'are', 'can', 'cannot', 'did', 'does', 'for', 'from', 'has', 'have', 'had', 'its',
+  'isnt', 'not', 'one', 'our', 'that', 'their', 'there', 'this', 'was', 'were', 'what', 'which', 'who', 'whose',
+  'with', 'been', 'ever', 'still', 'famous', 'something', 'someone',
+]);
+
+/** Small words that may sit between an answer and the generic words after it ("Barbie the Musical"). */
+const JOINERS = new Set(['the', 'a', 'an', 'of']);
+
+const YEAR = /^(1\d{3}|20\d{2})$/;
+
+/** A word's singular, roughly: enough to read "sharks" as "shark". */
+function singular(w: string): string {
+  if (w.length > 4 && w.endsWith('ies')) return w.slice(0, -3) + 'y';
+  if (w.length > 4 && /(sses|shes|ches|xes)$/.test(w)) return w.slice(0, -2);
+  if (w.length > 3 && w.endsWith('s') && !w.endsWith('ss')) return w.slice(0, -1);
+  return w;
+}
+
+/** The words of a question that a player may add after an answer: "Name a kind of shark." gives kind, shark. */
+export function genericWords(text: unknown): Set<string> {
+  const out = new Set<string>();
+  for (const w of normalize(typeof text === 'string' ? text : '').split(' ')) {
+    if (w.length >= 3 && !COMMON.has(w) && !/\d/.test(w)) out.add(singular(w));
+  }
+  return out;
+}
+
+/**
+ * Where the question's own words begin at the end of an input: generic words, and the
+ * joiners before them ("the" in "Barbie the Musical"). One word always stays.
+ */
+function genericTailAt(w: string[], generic: Set<string>): number {
+  let end = w.length;
+  let at = w.length;
+  while (end > 1) {
+    const last = w[end - 1];
+    if (generic.has(singular(last))) at = end - 1;
+    else if (at === w.length || !JOINERS.has(last)) break;
+    end--;
+  }
+  return at < w.length ? end : w.length;
+}
+
+/** The question's own words at the end of a normalised input, as keys, plain then folded. */
+function genericTails(normalized: string, generic: Set<string>): string[] {
+  const words = normalized.split(' ').filter(Boolean);
+  const tail = words.slice(genericTailAt(words, generic));
+  if (!tail.length) return [];
+  const plain = tail.join('');
+  const folded = fold(tail.join(' ')).replace(/ /g, '');
+  return folded && folded !== plain ? [plain, folded] : [plain];
+}
+
+/** The reading of an input whose typos get a second chance: without the question's own words, a year or "teh", never without a title. */
+export function typoReading(normalized: string, generic: Set<string>): string | null {
+  let w = normalized.split(' ').filter(Boolean);
+  if (w.length > 1 && w[0] === 'teh') w = w.slice(1);
+  if (w.length > 1 && YEAR.test(w[w.length - 1])) w = w.slice(0, -1);
+  w = w.slice(0, genericTailAt(w, generic));
+  const s = w.join(' ');
+  return s && s !== normalized ? s : null;
+}
+
+/** Shorter readings of a refused, normalised input, in the order they are tried. */
+export function secondChances(normalized: string, generic: Set<string>): string[] {
+  const words = normalized.split(' ').filter(Boolean);
+  const tehless = (w: string[]) => (w.length > 1 && w[0] === 'teh' ? w.slice(1) : w);
+  // From the start: titles and generic words, but not one before a joiner ("Sea of Japan"). One word always stays.
+  const untitled = (w: string[]) => {
+    let i = 0;
+    while (i < w.length - 1 && (TITLES.has(w[i]) || generic.has(singular(w[i]))) && !JOINERS.has(w[i + 1])) i++;
+    return w.slice(i);
+  };
+  const ungeneric = (w: string[]) => w.slice(0, genericTailAt(w, generic));
+  const unyeared = (w: string[]) => (w.length > 1 && YEAR.test(w[w.length - 1]) ? w.slice(0, -1) : w);
+  const out: string[] = [];
+  const add = (w: string[]) => {
+    const s = w.join(' ');
+    if (s && s !== normalized && !out.includes(s)) out.push(s);
+  };
+  add(tehless(words));
+  add(untitled(words));
+  add(ungeneric(words));
+  add(unyeared(words));
+  add(ungeneric(unyeared(untitled(tehless(words)))));
+  return out;
 }
 
 /** Singular and plural forms tried for an exact match. */
@@ -355,22 +473,47 @@ export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
     const hit = c.exact.get(plain);
     return hit ? verdict(hit, false) : { kind: 'reject' };
   }
-  const keys = keysOf(input);
+  // 1. An exact match on the whole input.
+  const whole = exactMatch(c, input);
+  if (whole) return whole;
 
-  // 1. An exact match on the plain key, then on the folded key, each with its plural forms.
-  for (const key of keys) {
+  // 2. Second chances: an exact match without the words the bank leaves out.
+  for (const shorter of secondChances(normalize(input), c.generic)) {
+    const hit = exactMatch(c, shorter);
+    if (hit) return hit;
+  }
+
+  // 3. Forgiven typos on the whole input.
+  const typo = typoMatch(c, input);
+  if (typo.kind !== 'reject') return typo;
+
+  // 4. Forgiven typos without the question's own words, a year or "teh" ("Mojto cocktail").
+  const rest = typoReading(normalize(input), c.generic);
+  return rest ? typoMatch(c, rest) : typo;
+}
+
+/** An exact match on the plain key, then on the folded key, each with its plural forms. */
+function exactMatch(c: Compiled, input: string): MatchResult | null {
+  for (const key of keysOf(input)) {
     for (const v of keyVariants(key)) {
       const hit = c.exact.get(v);
       if (hit) return verdict(hit, false);
     }
   }
+  return null;
+}
 
-  // 2. Forgiven typos. A spelling's distance is the smallest between any of the input's
+function typoMatch(c: Compiled, input: string): MatchResult {
+  // Forgiven typos. A spelling's distance is the smallest between any of the input's
   //    keys and that entry's key, each within its own allowance. A typo never changes
   //    a number: the two keys must hold the same digits in the same order, so "Apollo
   //    12" is not a slip for "Apollo 11", and with Roman numerals typo-matched only as
   //    digits, "Elizabeth III" is not a slip for "Elizabeth II".
+  //    The question's own words at the end of both keys would stretch the allowance
+  //    ("Mojto cocktail" is three edits from "Molotov cocktail"), so then the rest is
+  //    judged alone, by the longer of the two.
   const typoKeys = typoKeysOf(input);
+  const tails = genericTails(normalize(input), c.generic);
   let best = Infinity;
   let hits: Entry[] = [];
   for (const e of c.entries) {
@@ -378,7 +521,9 @@ export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
     let d = Infinity;
     for (const key of typoKeys) {
       if (digitsOf(key) !== e.digits) continue;
-      const limit = typoAllowance(Math.min(key.length, e.key.length));
+      let limit = typoAllowance(Math.min(key.length, e.key.length));
+      const tail = tails.find((t) => key.length > t.length && e.key.length > t.length && key.endsWith(t) && e.key.endsWith(t));
+      if (tail) limit = Math.min(limit, typoAllowance(Math.max(key.length, e.key.length) - tail.length));
       if (limit === 0) continue;
       const dk = osaDistance(key, e.key, limit);
       if (dk <= limit && dk < d) d = dk;
@@ -391,10 +536,10 @@ export function matchAnswer(prompt: PromptDef, input: string): MatchResult {
   }
   if (!hits.length) return { kind: 'reject' };
   const wrong = hits.filter((h) => h.kind !== 'answer');
-  if (wrong.length) return verdict(wrong.find((h) => h.kind === 'trap') ?? wrong[0], true);
+  if (wrong.length) return verdict(wrong.find((h) => h.kind === 'trap') ?? wrong[0], best > 0);
   const answers = [...new Set(hits.map((h) => h.ref as AnswerDef))];
   if (answers.length > 1) return { kind: 'ambiguous', options: answers.map((a) => a.answer) };
-  return verdict(hits[0], true);
+  return verdict(hits[0], best > 0);
 }
 
 /** All accepted answers grouped by tier, rarest first. Used for the post-dive reveal. */
