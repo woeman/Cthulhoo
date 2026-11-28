@@ -324,6 +324,62 @@ async function reliquary(page, who) {
       await shot(d, 'desk-topics-fail');
       fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
     }
+
+    // ------------------------------------------------ the Convocation: a class held on the desk, the two phones in it
+    try {
+      await d.waitForSelector('.title-screen', { timeout: 15000 });
+      await d.locator('.mode-btn', { hasText: 'The Convocation' }).click();
+      await d.click('[data-way="hold"]');
+      await d.waitForSelector('.cv-host-lobby', { timeout: 45000 });
+      const sign = flat(await d.textContent('.sc-bar-sign'));
+      // Wren's phone was put away after her dive: a third diver, Ada, comes in by the link beside Bram.
+      const ada = await device(browser, 'Ada');
+      await ada.open('about:blank');
+      for (const dev of [ada, bram]) {
+        await dev.page.goto(`${BASE}?scale=1&class=${sign}`);
+        await dev.page.waitForSelector('.cv-entry .sc-join', { timeout: 45000 });
+        await dev.page.fill('.sc-join input[name="diver-name"]', dev.name);
+        await dev.page.click('.sc-join button[type="submit"]');
+        await dev.page.waitForSelector('.cv-diver-lobby', { timeout: 45000 });
+      }
+      await d.waitForFunction(() => document.querySelectorAll('.cv-diver').length === 2, null, { timeout: 20000 });
+      await shot(d, 'class-host-lobby');
+      await shot(ada.page, 'class-diver-lobby');
+      await d.click('.cv-begin');
+      await d.waitForSelector('.cv-host-ask', { timeout: 45000 });
+      const q = flat(await d.textContent('.cv-hq-text'));
+      const answers = answersFor(q);
+      if (!answers.length) throw new Error(`no answers are known here for "${q}"`);
+      await shot(d, 'class-host-ask');
+      for (const [dev, a] of [[ada, answers[0]], [bram, answers[answers.length - 1]]]) {
+        await dev.page.waitForSelector('.cv-ask input.answer', { timeout: 45000 });
+        await dev.page.fill('.cv-ask input.answer', a);
+        await dev.page.press('.cv-ask input.answer', 'Enter');
+      }
+      // Everyone has answered, so the question closes by itself.
+      await d.waitForSelector('.cv-host-reveal', { timeout: 45000 });
+      await bram.page.waitForSelector('.cv-reveal', { timeout: 20000 });
+      await d.waitForTimeout(800);
+      await shot(d, 'class-host-reveal');
+      await shot(bram.page, 'class-diver-reveal');
+      const said = flat(await d.textContent('.cv-hr-said .cv-answers'));
+      const mine = flat(await bram.page.textContent('.cv-yours'));
+      pass(`A class was held at ${sign}: the desk asked "${q}", the two phones joined by its link and answered, and the answers surfaced: ${said.slice(0, 220)}`);
+      if (/\+[\d,]+ m/.test(mine)) pass(`Bram's phone shows his own answer and what it earned: ${mine.slice(0, 160)}`);
+      else fail(`Bram's phone does not show what his answer earned: "${mine.slice(0, 160)}"`);
+      // The host closes the class: it ends for the phones too.
+      await d.click('.sc-back');
+      await d.locator('.sc-confirm .btn.primary').click();
+      await d.waitForSelector('.title-screen', { timeout: 20000 });
+      await bram.page.waitForSelector('.cv-end', { timeout: 20000 });
+      pass('The host closed the class, and the phones were told it had surfaced.');
+      if (ada.errors.length) fail(`Ada's browser logged errors: ${[...new Set(ada.errors)].slice(0, 5).join(' | ')}`);
+      await ada.ctx.close();
+    } catch (e) {
+      await shot(d, 'class-fail-host');
+      if (bram.page) await shot(bram.page, 'class-fail-diver');
+      fail(`The Convocation stopped: ${e.message.split('\n')[0]}`);
+    }
     for (const dev of [wren, bram, desk]) {
       const errs = [...new Set(dev.errors)];
       if (errs.length) fail(`${dev.name}'s browser logged errors: ${errs.slice(0, 5).join(' | ')}`);

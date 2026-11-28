@@ -49,6 +49,18 @@ the engraved sea with sliders for depth, madness and the Eye.
   evenly. Class packs are never part of the daily dive: the build publishes
   each as its own file (`packs/<id>.json`) and the game fetches a pack when it
   is ticked.
+- The Convocation (a class): one screen at the front of the room hosts and never
+  answers. Up to 300 divers join on their own phones in a browser, with a sign
+  like DAGON-247, a link, or the square code the big screen shows. Nothing to
+  download and no account. The host asks one question at a time, from the ticked
+  topics. Classic: one answer each. Blitz: every right answer you can before the
+  candle is out. Rarer answers sink deeper, and a lone voice half as deep again.
+  With tables (two to eight), each table also wins its few deepest different
+  answers. The rules are `src/party/classroom.ts`, run by the relay's
+  `Classroom` room (`worker/src/classroom.ts`), which matches the answers so a
+  phone never holds the answer list; the screens are `src/screens/classroom/`.
+  `node dev/class-load.mjs 300` plays a pretend class of 300 against a local
+  relay (`cd worker && npx wrangler dev --port 8787`).
 - Music: eight recorded ambient tracks (made for the game on Suno) lie under the
   generated sound, two for each of the surface, the mid-depths, the abyss and
   the séance. A dive hears the bed of its depth; the two tracks of a place take
