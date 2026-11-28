@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { SIGN_WORDS, makeSign, parseSign, signSpoken } from '../src/party/codes';
+import { SIGN_WORDS, makeSign, parseSign, signKind, signSpoken } from '../src/party/codes';
 import {
   AWAY_GRACE_MS,
   GRACE_MS,
@@ -97,6 +97,26 @@ describe('signs', () => {
   it('keeps every word at least two slips from every other', () => {
     for (const w of SIGN_WORDS) expect(parseSign(`${w}-5`, 'seance')).toBe(`${w}-5`);
     expect(new Set(SIGN_WORDS).size).toBe(SIGN_WORDS.length);
+  });
+
+  it('gives a class a word and three numbers, none of them 0 or 1', () => {
+    let n = 0;
+    const rand = () => [0, 0, 0.999, 0.5][n++ % 4];
+    expect(makeSign('class', rand)).toBe(`${SIGN_WORDS[0]}-296`);
+    for (let i = 0; i < 200; i++) expect(makeSign('class')).toMatch(/^[A-Z]{4,7}-[2-9]{3}$/);
+    for (const s of ['DAGON-247', 'dagon 247', 'Dagon247', ' dagon—247 ', 'DAGNO-247']) expect(parseSign(s, 'class')).toBe('DAGON-247');
+    for (const s of ['DAGON-7', 'DAGON-42', 'DAGON-217', 'DAGON-2470', 'DAGON']) expect(parseSign(s, 'class')).toBeNull();
+    expect(parseSign('DAGON-247', 'seance')).toBeNull();
+    expect(parseSign('DAGON-247', 'cult')).toBeNull();
+  });
+
+  it('tells which kind of sign was typed', () => {
+    expect(signKind('dagon 7')).toBe('seance');
+    expect(signKind('BRINE-42')).toBe('cult');
+    expect(signKind('Hydra 382')).toBe('class');
+    expect(signKind('DAGON-1')).toBeNull();
+    expect(signKind('hello')).toBeNull();
+    expect(signSpoken('DAGON-247')).toBe('Dagon two four seven');
   });
 
   it('says a sign aloud', () => {
