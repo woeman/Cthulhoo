@@ -1,0 +1,638 @@
+# Name a creature from myth or folklore.
+
+Question id: `mythical-creatures` · category: myth · source: `data/myth.json`
+
+Rules: Any monster or creature from the world's myths, legends and folklore, cryptids included. Creatures invented for books, films or games don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (586 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Dragon — Chinese dragon | Wyrm
+- Unicorn
+- Phoenix
+- Mermaid — Merman | Merfolk | Mermen
+- Vampire — Vampyre | Vampir | Vampyr | Wampir
+- Werewolf — Lycanthrope | Loup-garou | Werewolves | Wolfman
+- Griffin — Gryphon | Griffon
+- Centaur
+- Minotaur
+- Pegasus
+- Yeti — Abominable Snowman
+- Bigfoot — Sasquatch
+- Loch Ness Monster — Nessie | Loch Ness
+- Fairy — Faerie | Fae | Fey
+- Troll — Trol
+
+### Tier 2: common (39)
+
+- Kraken
+- Hydra — Lernaean Hydra
+- Cyclops — Cyclopes | Kyklops
+- Sphinx
+- Chimera — Chimaera
+- Basilisk
+- Cerberus — Kerberos
+- Banshee — Bean sídhe | Banshe | Bashee | Banshie | Banshi
+- Leprechaun
+- Gorgon
+- Medusa
+- Harpy
+- Siren
+- Satyr — Faun
+- Golem
+- Kelpie
+- Chupacabra — Chupacabras
+- Wendigo — Windigo
+- Zombie
+- Ghoul — Ghul
+- Goblin
+- Gnome
+- Ogre — Ogress
+- Giant
+- Pixie — Piskie | Pisky
+- Elf — Elves
+- Dwarf — Dwarves
+- Genie — Djinn | Jinn | Djinni | Jinni
+- Thunderbird
+- Imp
+- Ghost — Spectre | Specter | Phantom | Apparition | Wraith | Spook
+- Bogeyman — Boogeyman | Bogey | Boogie man
+- Grim Reaper — The Reaper
+- Sea serpent
+- Hobgoblin
+- Demon — Devil
+- Charybdis
+- Naiad — Water nymph
+- Cetus — Ketos | Ketea
+
+### Tier 3: known to fans (102)
+
+- Manticore
+- Cockatrice
+- Wyvern
+- Selkie — Silkie | Selchie
+- Dryad
+- Nymph
+- Valkyrie
+- Fenrir — Fenris | Fenris Wolf
+- Jormungandr — Midgard Serpent | World Serpent
+- Sleipnir
+- Bunyip
+- Yowie
+- Tengu
+- Kitsune
+- Kappa
+- Oni
+- Naga — Nogga | Nagga | Naag
+- Garuda
+- Qilin — Kirin | Kylin
+- Roc — Rukh
+- Leviathan
+- Behemoth
+- Will-o'-the-wisp — Ignis fatuus | Jack-o'-lantern
+- Boggart
+- Brownie
+- Changeling
+- Succubus
+- Incubus
+- Lamia
+- Typhon
+- Scylla
+- Krampus
+- Jackalope
+- Mothman
+- Jersey Devil
+- Hippogriff — Hippogryph
+- Gremlin
+- Hellhound
+- Black Shuck — Shuck
+- Ogopogo
+- Poltergeist
+- Firebird — Zhar-ptitsa
+- Baba Yaga
+- Hippocampus — Hippocamp
+- Nian
+- Kobold
+- Sprite
+- Sylph
+- Doppelgänger
+- Skinwalker
+- Ifrit — Efreet | Afreet
+- Lilith
+- Yuki-onna — Yukioh | Snow woman | Yuki-onago
+- Tanuki
+- Black dog
+- Drop bear
+- Nereid
+- Triton
+- Lorelei — Loreley
+- Nix — Nixie | Nøkk | Nokken | Näcken
+- Undine — Ondine
+- Ningyo
+- Umibozu
+- Merrow
+- Melusine
+- Jenny Greenteeth
+- Blue Men of the Minch — Blue Men | Storm kelpies
+- Vodyanoy — Vodyanoi | Vodnik
+- Mami Wata
+- Iara — Yara | Uiara
+- Grindylow
+- Champ — Champy
+- Lusca
+- Namazu — Ōnamazu
+- Davy Jones
+- Gargoyle — La Gargouille | Gargouille
+- Yōkai — Youkai
+- Wild man — Woodwose | Wodewose | Wild man of the woods | Wild men | Woodwoses
+- Dokkaebi — Tokkaebi | Korean goblin
+- Yūrei — Yuurei | Yuhrei | Japanese ghost
+- Ryū — Ryuu | Ryuh | Tatsu | Japanese dragon
+- Kodama — Tree spirit | Tree spirits
+- Rokurokubi — Long-necked woman | Long neck woman
+- Kuchisake-onna — Kuchisake | Slit-mouthed woman | Slit-mouth woman
+- Jorōgumo — Jorougumo | Joroogumo | Spider woman
+- Nopperabō — Nopperabou | Nupperabō | Faceless ghost
+- Kasa-obake — Karakasa-obake | Karakasa | Umbrella ghost | Umbrella yokai
+- Tsukumogami — Haunted objects | Haunted object
+- Gashadokuro — Gashadokuro skeleton | Ōdokuro | Giant skeleton
+- Shinigami — Death god | God of death | Death gods
+- Kyūbi no Kitsune — Kyubi | Kyuubi | Nine-tails | Kyuubi no kitsune
+- Hannya — Hannya mask
+- Hanako-san — Hanako | Toire no Hanako-san | Hanako of the toilet | Toilet Hanako
+- Onryō — Onryou | Vengeful ghost | Vengeful spirit
+- Upir — Upyr | Upiór | Upiro | Upierz
+- Red Dragon — Y Ddraig Goch | Welsh Dragon | Red Dragon of Wales
+- Balor — Balor of the Evil Eye | Balar
+- Jade Rabbit — Moon Rabbit | Moon Hare | Jade Hare | Yutu | Rabbit in the Moon | Moon bunny | Yuetu
+- Azure Dragon — Ch'ing-lung | Green Dragon | Blue Dragon | Azure Dragon of the East | Seiryu | Cerulean Dragon
+- White Tiger — Baihu | Pai-hu | Byakko | White Tiger of the West
+- Shishi — Chinese guardian lions | Foo dog | Fu dog | Foo lion | Fu lion | Stone lions | Chinese lion | Imperial guardian lions | Shizi
+- Bai Suzhen — White Snake | Lady White Snake | Madame White Snake | Madam White Snake | White Snake Lady | Bai Niangzi | Pai Su-chen | White Lady
+
+### Tier 4: obscure (157)
+
+- Nuckelavee
+- Barghest — Barguest
+- Redcap
+- Strix
+- Empusa
+- Echidna
+- Ladon
+- Talos
+- Nemean Lion
+- Hecatoncheires — Hundred-Handed Ones | Hekatonkheires
+- Simurgh — Simorgh
+- Lamassu — Shedu
+- Ziz
+- Nidhogg — Níðhöggr
+- Lindworm — Lindwurm
+- Tatzelwurm
+- Wolpertinger
+- Aswang
+- Manananggal
+- Tikbalang
+- Bakunawa
+- Taniwha
+- Mokele-mbembe
+- Grootslang
+- Tokoloshe — Tikoloshe
+- Impundulu — Lightning bird
+- Ahuizotl
+- Camazotz
+- Bake-neko
+- Jiangshi — Hopping vampire
+- Baku
+- Nue
+- Rakshasa
+- Vetala
+- Makara
+- Huli jing — Nine-tailed fox
+- Pixiu — Bixie
+- Bai Ze
+- Hodag
+- Cadejo
+- La Llorona
+- Afanc
+- Bugbear
+- Sluagh
+- Dullahan
+- Púca — Pooka | Phouka
+- Each-uisge
+- Kikimora
+- Domovoi
+- Leshy — Leshii | Leshi
+- Rusalka
+- Koschei — Koschei the Deathless | Kashchey
+- Zmey — Zmei
+- Draugr — Draugar
+- Huldra
+- Nisse — Tomte
+- Ammit — Ammut
+- Encantado
+- Horned Serpent — Uktena
+- Gumiho — Kumiho
+- Fenghuang
+- Yamata no Orochi
+- Pazuzu
+- Dybbuk
+- Orthrus — Orthros
+- Cait Sith
+- Spring-heeled Jack
+- Mongolian death worm — Olgoi-khorkhoi | Death worm
+- Mishipeshu — Underwater panther | Mishibijiw
+- Stoor worm — Mester Stoor Worm
+- Finfolk
+- Jengu — Miengu
+- Lotan
+- Rahab
+- Sea monk — Monk fish
+- Peg Powler
+- Ceasg
+- Funayurei
+- Mizuchi
+- Aspidochelone
+- Zaratan
+- Qalupalik
+- Oceanid — Oceanids
+- Cadborosaurus — Caddy
+- Chessie
+- Morgawr
+- Haetae — Haechi | Haitai | Haetae lion
+- Gwisin — Kwisin | Korean ghost
+- Imugi — Imoogi | Ishmugi
+- Cheollima — Chollima | Chollima horse | Cheonrima
+- Jeoseung Saja — Korean grim reaper
+- Korean dragon — Yong | Mireu | Yongwang dragon
+- Nekomata — Two-tailed cat
+- Zashiki-warashi
+- Nurikabe — Wall yokai
+- Ittan-momen — Flying cloth
+- Hitotsume-kozō — Hitotsume-kozou | One-eyed boy | One-eyed monk
+- Chōchin-obake — Chōchin | Lantern ghost | Paper lantern ghost | Chouchin obake
+- Nurarihyon
+- Yamauba — Yamanba | Mountain hag | Mountain witch
+- Futakuchi-onna — Two-mouthed woman
+- Tsuchigumo — Earth spider
+- Inugami — Dog god
+- Karasu-tengu — Kotengu | Crow tengu
+- Shuten-dōji — Shuten-douji
+- Tamamo-no-Mae — Tamamo
+- Ryōmen Sukuna — Sukuna | Ryoumen Sukuna
+- Mujina
+- Kamaitachi — Sickle weasel
+- Hitodama — Soul fire
+- Gaki — Hungry ghost | Hungry ghosts | Preta
+- Daidarabotchi — Daidara-bocchi | Didarabotchi | Daidara | Daidarabotch
+- Tsuchinoko
+- Teke Teke — Tekketeke
+- Komainu — Lion-dog | Lion dogs | Guardian lion | Guardian lions
+- Shisa — Shiisaa | Okinawan lion
+- Shikigami — Shiki
+- Namahage
+- Raijū — Raijuu | Thunder beast
+- Hōō — Houou | Ho-oh | Japanese phoenix
+- Oiwa — Oiwa-san | Yotsuya Kaidan
+- Kitsunebi — Fox fire
+- Onibi — Demon fire
+- Bannik — Bayannik | Baennik | Bath spirit
+- Ovinnik
+- Dvorovoi — Dvorovoy | Dvorovik | Yard spirit
+- Polevik — Polevoi | Polevoy | Field spirit
+- Poludnitsa — Lady Midday | Południca | Polednice | Pschipolnitza
+- Strzyga — Striga | Strzygoń | Shtriga
+- Likho — One-Eyed Likho | Licho | Likho Odnoglazoye | Liho
+- Chort — Chert | Čert | Czart | Chyort
+- Bies — Bes | Biesy
+- Mavka — Navka | Nyavka | Niavka | Mavky | Mavki
+- Babay — Babai
+- Wawel Dragon — Smok Wawelski | Smok | Dragon of Wawel | Wawel Hill dragon | Krakow dragon
+- Zmaj — Zmaj Ognjeni
+- Vukodlak — Vlkodlak | Wilkołak | Volkodlak | Volkolak
+- Simargl — Semargl | Simargl the winged dog
+- Salmon of Knowledge — Salmon of Wisdom | Bradán Feasa
+- Brown Bull of Cooley — Donn Cuailnge | Brown Bull
+- Fomorians — Fomoire | Fomori | Fomorian
+- Tylwyth Teg — Fair Family
+- Cŵn Annwn — Hounds of Annwn | Cŵn Annwfn | Wild Hunt
+- Ankou
+- Black Tortoise — Xuanwu | Hsüan-wu | Black Warrior | Dark Warrior | Genbu | Black Turtle | Black Tortoise of the North | Dark Tortoise
+- Vermilion Bird — Zhuque | Chu-ch'üeh | Red Bird | Scarlet Bird | Vermilion Bird of the South | Suzaku | Red Phoenix | Scarlet Phoenix
+- White Dragon Horse — Bai Long Ma | White Horse | Dragon Horse | Ao Lie | Yulong | Jade Dragon Prince
+- Bull Demon King — Niu Mowang | Demon Bull King | Bull King | Ox Demon King | Bull Demon
+- Red Boy — Honghaier | Red Child | Shancai | Shancai Tongzi | Hung Hai-erh | Sudhana | Holy Child King
+- White Bone Demon — Baigujing | White Bone Spirit | Lady White Bone | White Bone Lady | White Skeleton Demon | Skeleton Demon | White Bone Demoness
+- Tiangou — Heavenly Dog | Celestial Dog | T'ien-kou | Sky dog | Heavenly Hound
+- Sanzuwu — Three-legged crow | Sun crow | Golden Crow | Jinwu | Three-legged bird | Crow of the Sun | Yangwu
+- Jin Chan — Money toad | Money frog | Three-legged toad | Golden Toad | Chan Chu | Lucky toad | Fortune toad | Moon toad
+- Taotie — T'ao-t'ieh
+- Peng — Peng bird | Dapeng | Kunpeng | Great Peng | Golden-winged Peng
+- Yaoguai — Yao-kuai | Yaojing | Yaomo
+- Xiaoqing — Green Snake | Qingshe | Little Green | Blue Snake | Hsiao-ch'ing
+
+### Tier 5: expert (271)
+
+- Amphisbaena
+- Tarasque
+- Catoblepas
+- Leucrotta
+- Yale
+- Questing Beast
+- Bennu
+- Fossegrim
+- Alp
+- Rompo
+- Adze
+- Popobawa
+- Ninki Nanka
+- Abada
+- Fear Liath — Big Grey Man | Am Fear Liath Mòr
+- Yara-ma-yha-who
+- Muldjewangk
+- Alkonost
+- Sirin
+- Gamayun
+- Vila — Wila | Veela
+- Snallygaster
+- Fachan
+- Kushtaka
+- Yali
+- Isonade
+- Tannin — Tanin
+- Morgen — Mari-Morgan
+- Shellycoat
+- Glashtyn
+- Ceffyl Dŵr
+- Storsjöodjuret — Storsie | Great Lake Monster
+- Lagarfljót Worm — Lagarfljótsormurinn | Iceland Worm
+- Bessie — South Bay Bessie | Lake Erie Monster
+- Sea bishop — Bishop fish
+- Ichthyocentaur
+- Lyngbakr
+- Jasconius
+- Marool
+- Cirein-cròin
+- Bake-kujira — Ghost whale
+- Hafgufa
+- Akkorokamui
+- Amabie
+- Iku-Turso
+- Morag
+- Kkachi-horangi — Magpie and tiger | Korean magpie and tiger | Tiger and magpie | Jakhodo | Hojakdo | Magpie tiger
+- Bulgasari — Pulgasari | Bulgasal
+- Bulgae — Fire dogs | Bulgae fire dogs
+- Inmyeonjo — Human-faced bird
+- Samjokgo — Samjok-o | Samjogo | Samjokoh
+- Jangsanbeom — Jangsan tiger
+- Bonghwang — Korean phoenix
+- Dalgyal gwisin — Egg ghost
+- Mul gwisin — Water ghost
+- Cheonyeo gwisin — Virgin ghost
+- Aka-oni — Red oni
+- Ao-oni — Blue oni
+- Kijo
+- Onibaba — Demon hag
+- Ibaraki-dōji — Ibaraki-douji
+- Sōjōbō — Soujoubou | Kurama tengu
+- Kasha
+- Okuri-inu — Okuri-ōkami | Sending-off dog
+- Ōmukade — Oomukade | Giant centipede
+- Ubume
+- Nure-onna
+- Ushi-oni — Gyūki
+- Ikiryō — Ikiryou | Living ghost
+- Okiku — Okiku's ghost | Banchō Sarayashiki
+- Kiyohime
+- Hashihime
+- Kuzunoha — Kuzunoha fox
+- Nukekubi
+- Hone-onna — Bone woman
+- Mokumokuren
+- Bake-zōri — Sandal ghost
+- Akaname — Filth licker
+- Azukiarai — Azuki bean washer | Bean washer
+- Ohaguro-bettari
+- Mikoshi-nyūdō — Mikoshi-nyuudou
+- Ashinaga-tenaga — Long-legs and long-arms
+- Tenome — Hand-eye
+- Satori
+- Shōjō — Shoujou
+- Wanyūdō — Wanyuudou
+- Amanojaku — Amanojaku imp | Amanjaku
+- Yamabiko — Echo spirit
+- Jubokko — Vampire tree
+- Kudan
+- Jinmenken — Human-faced dog
+- Aka Manto — Red Cloak
+- Hachishakusama — Hasshaku-sama | Eight-foot-tall woman
+- Jikininki
+- Ayakashi
+- Crane wife — Tsuru no Ongaeshi | Tsuru Nyōbō | Grateful crane
+- Tennin — Tennyo | Celestial maiden | Hagoromo
+- Korpokkur — Koropokkuru | Koropokguru | Korobokkuru
+- Ōtakemaru
+- Goryō
+- Otsuyu — Peony Lantern | Botan Dōrō
+- Iso-onna
+- Kerakera-onna
+- Ame-onna — Rain woman
+- Hari-onago
+- Tsurara-onna — Icicle woman
+- Kyōkotsu
+- Ungaikyō — Haunted mirror
+- Biwa-bokuboku
+- Katawaguruma
+- Tsurube-otoshi
+- Dorotabō
+- Otoroshi
+- Ōnyūdō — Oonyuudou
+- Hyakume
+- Nuppeppō
+- Yanari
+- Tenjōname — Ceiling licker
+- Abura-sumashi
+- Basan
+- Amanozako
+- Yama-otoko — Mountain man
+- Yamawaro
+- Kawauso — Otter spirit
+- Hyōsube
+- Garappa
+- Kenmun
+- Wani
+- Kuda-gitsune — Pipe fox
+- Nogitsune — Field fox
+- Zenko
+- Shiranui — Shiranui lights
+- Hibagon
+- Jinmenju — Human-faced tree
+- Kunekune
+- Datsue-ba
+- Kijimuna — Kijimunaa | Bunagaya
+- Hakutaku
+- Polunochnitsa — Nocnitsa | Nocnica | Lady Midnight | Krixae
+- Bolotnik — Bolotny | Bolotnyi
+- Psoglav
+- Ala — Hala
+- Samodiva — Samovila | Samodivi | Samovili
+- Topielec — Utopiec | Utopce | Topielce
+- Skrzat — Skřítek | Skrat | Skrzatek
+- Boginka — Boginki
+- Drekavac
+- Bereginya — Berehynia | Berehinia | Bereginia
+- Tugarin Zmeyevich — Tugarin
+- Chudo-Yudo
+- Solovei-Razboinik — Nightingale the Robber | Solovey Razboynik | Solovei the Robber
+- Tsar Morskoi — Sea Tsar | Morskoy Tsar | Tsar of the Sea | Sea King
+- Indrik — Indrik-zver | Indrik the Beast
+- Rarog — Raroh | Rarach
+- Bukavac
+- Shishiga — Shishigi
+- Anchutka
+- Obderiha — Bannikha
+- Vazila
+- Dziwożona — Mamuna
+- Stratim — Strafil
+- Sivko-Burko — Sivka-Burka
+- Karzełek — Skarbnik
+- Kłobuk
+- Płanetnik — Chmurnik
+- Bagiennik
+- Błudnik
+- Ubożę
+- Zduhać — Zduhach | Stuhać | Vjedogonja
+- Far Darrig — Fear Dearg | Fear Darrig
+- Clurichaun — Cluricaune | Clúracán
+- Leanan sídhe — Leannán sí | Lhiannan Shee
+- Fetch
+- Dobhar-chú — Water hound | Irish crocodile | Master Otter
+- Ghillie Dhu — Gille Dubh
+- Baobhan sith
+- Wulver
+- Trow — Trowie
+- Glaistig — Green Lady
+- Cù-sìth
+- White Dragon — Y Ddraig Wen
+- Gwrach y Rhibyn — Hag of the Mist
+- Gwyllgi — Dog of Darkness
+- Cormoran — Cormelian
+- Gogmagog — Goemagot
+- Knockers — Knocker | Tommyknockers
+- Spriggans — Spriggan
+- Mermaid of Zennor
+- Moddey Dhoo — Mauthe Doog | Moddey Doo
+- Korrigan — Korrigans
+- Twrch Trwyth — Troit | Troynt
+- Ysbaddaden — Ysbaddaden Pencawr
+- Benandonner
+- Aillen — Aillén mac Midgna | Aillen mac Midna
+- Grogoch
+- Fear Gorta — Fear Gortach | Man of Hunger
+- Abhartach
+- Dearg Due — Dearg Dur
+- Caoránach — Caorthannach
+- Werewolves of Ossory — Wolves of Ossory | Ossory werewolves | Faoladh | Irish werewolf
+- Fuath
+- Mither o' the Sea — Sea Mither
+- Teran
+- Gruagach
+- Urisk — Ùruisg
+- Bodach
+- Brollachan
+- Beithir
+- Hogboon — Hogboy | Hogboon of Orkney
+- Kilmoulis
+- Habetrot
+- Whuppity Stoorie
+- Linton Worm — Linton Wyrm
+- Boobrie
+- Lavellan
+- Muileartach
+- Gyre-Carling
+- Mallt-y-Nos
+- Gwiber
+- Coblynau
+- Bwbach
+- Ellyllon
+- Bolster
+- Blunderbore
+- Bucca
+- Jan Tregeagle — Tregeagle
+- Fenodyree — Fynnoderee | Phynnodderee
+- Buggane
+- Cabbyl-ushtey — Cabyll-ushtey
+- Ben-varrey
+- Arkan Sonney
+- Seelie Court — Seelie
+- Unseelie Court — Unseelie
+- Rhitta Gawr — Rhita Gawr | Rhitta | Rhita | Ritho
+- Six-eared Macaque — Liu'er Mihou | False Monkey King | Fake Monkey King | Six-eared Monkey
+- Golden Horn and Silver Horn — Golden Horn | Silver Horn | Jinjiao | Yinjiao | Golden Horn King | Silver Horn King
+- Xiaotian Quan — Howling Celestial Dog | Roaring Celestial Dog | Erlang's dog | Celestial Hound | Hsiao-t'ien Ch'üan
+- Ox-Head and Horse-Face — Ox-Head | Horse-Face | Niutou Mamian | Niutou | Mamian | Bull Head and Horse Face
+- Heibai Wuchang — Black and White Impermanence | Hei Wuchang | Bai Wuchang | Wuchang | White Impermanence | Black Impermanence | Xie Bi'an | Fan Wujiu | Hak Bak Mo Seung
+- Xiezhi — Hsieh-chih | Xiezhai | Haizhi
+- Hundun — Hun-tun | Emperor Hundun
+- Qiongqi — Ch'iung-ch'i
+- Taowu
+- Yellow Dragon — Huanglong | Huang-lung | Yellow Dragon of the Centre | Yellow Dragon of the Center
+- Jiaolong — Jiao | Flood dragon | Chiao-lung
+- Yinglong — Ying-lung | Responding Dragon | Winged dragon
+- Shenlong — Spirit Dragon | Divine Dragon
+- Kun — Kun fish
+- Bifang — Pi-fang | Bifang bird
+- Xiangliu — Hsiang-liu | Xiangyao | Nine-headed snake
+- Kui — Kui ox | One-legged Kui
+- Gui — Kuei | Kwei | Gwai | Chinese ghost
+- Jingwei — Ching-wei | Jingwei bird
+- Xingtian — Hsing-t'ien | Headless giant
+- Yellow Wind Demon — Yellow Wind King | Huangfeng Guai | Yellow Wind Monster
+- Black Bear Demon — Black Bear Spirit | Black Bear King | Black Wind King | Heixiong Jing | Black Bear Monster
+- Spider Demons — Spider Demon | Spider Spirits | Seven Spider Demons | Spider women | Spider Sisters
+- Scorpion Demon — Scorpion Spirit | Scorpion Demoness | Scorpion Queen
+- Yellow-Robed Demon — Yellow Robe Demon | Huangpao Guai | Yellow-robed Monster
+- Chiwen — Ch'ih-wen | Chiwei | Roof dragon
+- Pulao — Bell dragon
+- Qiuniu — Ch'iu-niu
+- Suanni
+- Jiaotu — Chiao-t'u
+- Zhulong — Torch Dragon | Zhuyin | Candle Dragon
+- Panlong — P'an-lung | Coiled dragon
+- Jiufeng — Nine-headed bird | Nine-headed phoenix | Chiu-feng
+- Yeren — Yeh-jen | Chinese wildman | Chinese Bigfoot | Chinese yeti | Shennongjia wildman
+- Bashe — Ba snake | Pa She | Elephant-eating snake
+- Luduan — Lu-tuan
+- Hanba — Han-pa | Drought demon | Drought goddess | Drought fiend | Goddess of drought
+
+### Tier 6: rare jackpots (2)
+
+- Peluda — La Velue
+- Bonnacon — Bonasus
+
+## Refused on purpose (18)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Cthulhu — "Invented by H. P. Lovecraft in 1928. Folklore has not caught up with him yet."
+- Godzilla | King Kong | Mothra | Gamera — "Born in a film, not in folklore."
+- Dementor | Thestral | Niffler | Bowtruckle | Blast-Ended Skrewt | Nargle — "Invented for Harry Potter."
+- Hobbit | Ent | Balrog | Nazgul | Uruk-hai | Smaug | Gollum | Shelob — "Tolkien's invention."
+- Orc — "Tolkien made orcs, though he borrowed the word from Old English."
+- Pokémon | Pikachu | Creeper — "Invented for a video game."
+- Xenomorph | Predator — "Invented for the film Alien."
+- Gruffalo | Wild Thing | Moomin | Grinch | Jabberwock | Jabberwocky | Snark | Bandersnatch | Jubjub bird — "Invented for a book."
+- Slender Man — "Born on an internet forum in 2009."
+- Shrek — "A fictional ogre."
+- Dracula — "A novel's vampire. The species counts, but not the count."
+- Frankenstein | Frankenstein's monster — "A novel's scientist. His creature has no name."
+- Platypus — "Real, despite appearances. Naturalists first thought it was a hoax."
+- Narwhal — "Real. Its tusk was once sold as unicorn horn."
+- Komodo dragon — "Real, and venomous."
+- Giant squid | Colossal squid — "Real, and probably where one famous monster came from."
+- Dodo — "Real, though it has been gone since the 1600s."
+- Cupid | Zeus | Thor | Odin | Anubis — "A god, not a creature."

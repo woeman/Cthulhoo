@@ -1,0 +1,411 @@
+# Name a dead or extinct language.
+
+Question id: `dead-languages` · category: language · source: `data/language.json`
+
+Rules: Any language with no native speakers left, ancient or recent. Revived languages count if they died out first, like Cornish.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (353 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (5)
+
+- Latin — Classical Latin | Vulgar Latin | Old Latin | Late Latin | Medieval Latin | Ecclesiastical Latin | Church Latin | Lingua Latina | Latine | Neo-Latin | New Latin | Renaissance Latin | Archaic Latin | Early Latin | Golden Age Latin | Silver Latin | Imperial Latin | Ancient Latin | Roman Latin | Ancient Roman | Latin language
+- Ancient Greek — Classical Greek | Attic Greek | Homeric Greek | Koine Greek | Koine | Hellenistic Greek | Biblical Greek | Doric Greek | Old Greek | Archaic Greek | Aeolic Greek | Ionic Greek | Epic Greek | New Testament Greek | Arcadocypriot Greek | Greek (ancient) | Ancient Greek language | Hellenistic Koine
+- Sanskrit — Vedic Sanskrit | Vedic | Classical Sanskrit | Samskrita | Samskritam | Sanskrut | Sanscrit | Ancient Sanskrit | Old Indo-Aryan | Sanskrit language
+- Old English — Anglo-Saxon | Englisc | Saxon | Ancient English | Old Anglo-Saxon | Anglo-Saxon English | Old English language
+- Ancient Egyptian — Egyptian | Middle Egyptian | Old Egyptian | Late Egyptian | Demotic | Pharaonic Egyptian | Classical Egyptian | Egyptian language | Old Egyptian language | Ancient Egyptian language
+
+### Tier 2: common (12)
+
+- Cornish — Kernewek | Kernowek | Old Cornish | Middle Cornish | Cornish language
+- Manx — Manx Gaelic | Gaelg | Gailck | Manx language
+- Sumerian — Emegir | Emesal | Ancient Sumerian | Sumerian language
+- Etruscan — Etrurian | Rasenna | Ancient Etruscan | Etruscan language
+- Old Norse — Norse | Old Icelandic | Old Norwegian | Old West Norse | Old East Norse | Old Nordic | Ancient Norse | Norrœnt | Old Scandinavian | Old Norse language
+- Middle English — Chaucerian English | Chaucer's English | Medieval English | Middle English language
+- Akkadian — Babylonian | Old Assyrian | Old Babylonian | Assyrian | Neo-Assyrian | Middle Assyrian | Neo-Babylonian | Middle Babylonian | Standard Babylonian | Old Akkadian | Assyro-Babylonian | Accadian | Ancient Assyrian | Ancient Babylonian | Ancient Akkadian | Akkadian language
+- Hittite — Nesite | Nesili | Neshili | Kanesian | Ancient Hittite | Hittite language
+- Coptic — Sahidic | Bohairic | Sahidic Coptic | Bohairic Coptic | Coptic Egyptian | Coptic language
+- Gothic — Visigothic | Ostrogothic | Biblical Gothic | Ancient Gothic | Gothic language
+- Phoenician — Canaanite | Ancient Phoenician | Phoenician language
+- Hebrew — Hebrew language
+
+### Tier 3: known to fans (21)
+
+- Old Church Slavonic — Old Slavonic | Church Slavonic | Old Bulgarian | Old Slavic | OCS | Church Slavic | Old Church Slavic | Ancient Slavic | Old Slavonic language | Old Church Slavonic language
+- Old French — Medieval French | Ancien français | Ancient French | Old French language
+- Old Irish — Old Gaelic | Early Irish | Ancient Irish | Ancient Gaelic | Old Irish language
+- Pictish — Pictish language
+- Gaulish — Gallic | Gaulic | Ancient Celtic | Old Celtic | Continental Celtic | Cisalpine Gaulish | Transalpine Gaulish | Gaulish Celtic | Gaulish language
+- Pali — Pāli language
+- Mycenaean Greek — Mycenaean | Mycenean Greek | Mycenaean language | Mycenaean Greek language
+- Minoan — Minoan language | Linear A language
+- Ugaritic — Ugaritian | Ugaritic language
+- Punic — Carthaginian | Neo-Punic | Phoenicio-Punic | Phoenico-Punic | Ancient Carthaginian | Punic language
+- Elamite — Elamian | Elamitic | Susian | Achaemenid Elamite | Elamite language
+- Hurrian — Hurrite | Mitannian | Hurri | Hurrian language
+- Ancient Hebrew — Biblical Hebrew | Classical Hebrew | Mishnaic Hebrew | Old Hebrew | Archaic Hebrew | Paleo-Hebrew | Rabbinic Hebrew | Medieval Hebrew | Samaritan Hebrew | Hebrew of the Bible | Ancient Hebrew language
+- Classical Aramaic — Biblical Aramaic | Old Aramaic | Ancient Aramaic | Imperial Aramaic | Official Aramaic | Galilean Aramaic | Jewish Palestinian Aramaic | Jewish Babylonian Aramaic | Talmudic Aramaic | Targumic Aramaic | Achaemenid Aramaic | Old Aramic | Ancient Aramic | Classical Aramic | Biblical Aramic | Old Arameic | Classical Aramaic language
+- Proto-Indo-European — PIE | Indo-European | Proto-IE | PIE language | Proto Indo European language | Indo-European language | Proto-Indo-Europeans
+- Ottoman Turkish — Ottoman | Osmanli | Osmanlıca | Lisan-i Osmani | Old Turkish | Ottoman language | Ottoman Turkish language
+- Anglo-Norman — Anglo-French | Law French | Norman French | Anglo-Norman French | Anglo-Norman language
+- Old Chinese — Archaic Chinese | Ancient Chinese | Old Sinitic | Old Chinese language
+- Middle Persian — Pahlavi | Pehlevi | Pahlavi language | Sasanian Persian | Sassanid Persian | Book Pahlavi | Parsik | Middle Persian language
+- Medieval Greek — Byzantine Greek | Middle Greek | Medieval Greek language
+- Classic Maya — Classic Mayan | Ancient Maya | Ancient Mayan | Classical Maya | Classical Mayan | Classic Mayan language | Old Maya | Epigraphic Maya | Classic Ch'olti'an | Classic Maya language
+
+### Tier 4: obscure (67)
+
+- Cumbric — Cumbrian | Cumbrian Brittonic | Cumbric language
+- Norn — Orkney Norn | Shetland Norn | Norn language
+- Celtiberian — Hispano-Celtic | Celtiberic | Celtiberian language
+- Oscan — Samnite | Oscan language
+- Umbrian — Umbrian language
+- Luwian — Luvian | Hieroglyphic Luwian | Cuneiform Luwian | Luwish | Luwian language
+- Lycian — Lycian language
+- Phrygian — Phrygian language
+- Thracian — Ancient Thracian | Daco-Thracian | Thracian language
+- Illyrian — Ancient Illyrian | Illyrian language
+- Urartian — Vannic | Chaldian | Haldian | Urartean | Urartian language
+- Sogdian — Sogdic | Sogdian language
+- Tocharian — Tocharian A | Tocharian B | Tokharian | Agnean | Kuchean | Tocharic | Turfanian | Tocharian language
+- Prakrit — Prakrits | Maharashtri | Shauraseni | Ardhamagadhi | Magadhi Prakrit | Middle Indo-Aryan | Prakrit language
+- Old Prussian — Prussian | Baltic Prussian | Old Prussian language
+- Old High German — Althochdeutsch | OHG | Old High German language
+- Frankish — Old Frankish | Frankonian | Frankish language
+- Ubykh — Ubyx | Pekhi | Oubykh | Ubyk | Ubykh language
+- Taíno — Classic Taíno | Taino language
+- Avestan — Zend | Old Avestan | Young Avestan | Gathic Avestan | Avesta | Zend-Avesta | Avestan language
+- Old Persian — Achaemenid Persian | Ancient Persian | Old Iranian Persian | Old Persian language
+- Geʽez — Ethiopic | Gi'iz | Classical Ethiopic | Old Ethiopic | Ancient Ethiopian | Ethiopic language | Geʽez language
+- Dalmatian — Vegliot | Ragusan | Dalmatic | Dalmatian Romance | Dalmatian language
+- Classical Syriac — Syriac | Old Syriac | Edessan Aramaic | Syriac Aramaic | Ancient Syriac | Classical Syriac language
+- Classical Arabic — Quranic Arabic | Koranic Arabic | Old Arabic | Pre-Islamic Arabic | Fusha | Ancient Arabic | Classical Arabic language
+- Middle Chinese — Middle Chinese language
+- Classical Chinese — Literary Chinese | Wenyan | Wenyanwen | Classical Literary Chinese | Classical Chinese language
+- Livonian — Liv | Livõ | Livonian language
+- Scythian — Scytho-Sarmatian | Scythic | Ancient Scythian | Scythian language
+- Parthian — Arsacid Pahlavi | Pahlavanig | Parthian language
+- Old Japanese — Ancient Japanese | Archaic Japanese | Jōdai Japanese | Nara Japanese | Old Japanese language
+- Meroitic — Meroitic Kushite | Meroitic language
+- Guanche — Old Canarian | Canarian Berber | Guanche Berber | Guanche language
+- Iberian — Ancient Iberian | Iberic | Northeastern Iberian | Iberian language
+- Ancient Macedonian — Ancient Macedonian language
+- Mozarabic — Andalusi Romance | Mozarab | Mozarabic Romance | Mozarabic language
+- Beothuk — Beothuk language
+- Wampanoag — Massachusett | Natick | Massachusett-Wampanoag | Wôpanâak | Wampanoag language
+- Chagatai — Chaghatay | Chagatay | Jagatai | Chaghatai | Turki | Chagatai Turkic | Chagatai language
+- Old Turkic — Orkhon Turkic | Göktürk | Old Turkic language | Ancient Turkish | Kök-Türk
+- Middle High German — Mittelhochdeutsch | MHG | Middle High German language
+- Middle Irish — Middle Irish language
+- Middle French — Middle French language
+- Old Welsh — Ancient Welsh | Old Welsh language
+- Old Spanish — Old Castilian | Medieval Spanish | Medieval Castilian | Ancient Spanish | Old Spanish language
+- Old Portuguese — Galician-Portuguese | Galaico-Portuguese | Old Galician | Medieval Galician | Medieval Portuguese | Old Portuguese language
+- Old Occitan — Old Provençal | Troubadour Occitan | Medieval Occitan | Old Occitan language
+- Old Dutch — Old Low Franconian | Old Netherlandic | Old Flemish | Old Dutch language
+- Middle Dutch — Diets | Dietsc | Medieval Dutch | Middle Dutch language
+- Middle Low German — Hanseatic German | Mittelniederdeutsch | Middle Low German language
+- Old Frisian — Ancient Frisian | Old Frisian language
+- Old East Slavic — Old Russian | Old East Slavonic | Old Rus | Old Rusian | Ancient Russian | Old Ukrainian | Old Belarusian | Kievan Rus language | Old East Slavic language
+- Middle Scots — Early Scots | Older Scots | Old Scots | Middle Scots language
+- Early Modern English — Elizabethan English | Shakespearean English | Shakespeare's English | Jacobean English | Tudor English | King James English | Renaissance English | Early Modern English language
+- Classical Armenian — Grabar | Old Armenian | Ancient Armenian | Classical Armenian language
+- Classical Tibetan — Literary Tibetan | Old Tibetan | Ancient Tibetan | Classical Tibetan language
+- Classical Nahuatl — Old Nahuatl | Aztec Nahuatl | Ancient Nahuatl | Classical Aztec | Ancient Aztec | Classical Nahuatl language
+- Old Tupi — Tupinambá | Tupi | Tupi antigo | Classical Tupi | Old Tupi language
+- Common Brittonic — Common Brythonic | Brittonic | Brythonic | Old British | Ancient British | British Celtic | Proto-Brittonic | Proto-Brythonic | Common Brittonic language
+- Proto-Germanic — Common Germanic | Ancient Germanic | Primitive Germanic | Proto-Germanic language
+- Proto-Celtic — Common Celtic | Proto-Celtic language
+- Proto-Slavic — Common Slavic | Proto-Slavonic | Common Slavonic | Proto-Slavic language
+- Proto-Norse — Primitive Norse | Ancient Nordic | Runic Norse | Proto-Nordic | Proto-Scandinavian | Proto-Norse language
+- Mediterranean Lingua Franca — Lingua Franca | Sabir | Petit Mauresque | Mediterranean Lingua Franca language
+- Tasmanian — Tasmanian Aboriginal | Tasmanian languages | Palawa kani | Palawa | Tasmanian Aboriginal languages | Tasmanian language
+- Sakhalin Ainu — Ainu | Karafuto Ainu | Ainu language | Sakhalin Ainu language
+- Old Yiddish — Early Yiddish | Old Yiddish language
+
+### Tier 5: expert (246)
+
+- Faliscan — Faliscan language
+- Messapic — Messapian | Messapic language
+- Venetic — Venetic language
+- Lepontic — Lepontic language
+- Raetic — Rhaetian | Rhaetic | Raetian | Raetic language
+- Lydian — Ancient Lydian | Lydian language
+- Dacian — Ancient Dacian | Dacian language
+- Moabite — Moabitic | Moabite language
+- Edomite — Edomite language
+- Nabataean — Nabatean | Nabataean Aramaic | Nabatean Aramaic | Nabataean language
+- Bactrian — Bactrian language
+- Khotanese — Khotanese language
+- Tangut — Xixia | Hsi-hsia | Western Xia | Tangut Xia | Tangut language
+- Khitan — Kitan | Qidan | Khitai | Khitan language
+- Jurchen — Jurchin | Jurched | Nüzhen | Jurchen language
+- Mochica — Muchik | Yunga | Moche | Mochica language
+- Yahgan — Yaghan | Yámana | Yagan | Yahgan language
+- Eyak — Eyak language
+- Polabian — Drevani | Draväno-Polabian | Elbe Slavic | Polabian language
+- Curonian — Old Curonian | Curonian language
+- Yola — Forth and Bargy | Forth and Bargy dialect | Yola language
+- Old Saxon — Old Low German | Old Saxon language
+- Langobardic — Lombardic | Lombard | Longobardic | Langobardic language
+- Vandalic — Vandalic language
+- Burgundian — Burgundian language
+- Ammonite — Ammonite language
+- Carian — Carian language
+- Sidetic — Sidetic language
+- Kassite — Cassite | Kassite language
+- Amorite — Amoritic | Amorite language
+- Cuman — Kipchak | Cuman-Kipchak | Kuman | Polovtsian | Kipchak-Cuman | Cuman language
+- Pecheneg — Patzinak | Pecheneg language
+- Hunnic — Hunic | Hun language | Hunnic language
+- Galatian — Galatian Celtic | Galatian language
+- Hattic — Hattian | Hattili | Hattic language
+- Palaic — Palaic language
+- Eblaite — Eblan | Eblaic | Eblaite language
+- Sabaean — Sabaic | Sabean | Old South Arabian | Ancient South Arabian | Epigraphic South Arabian | Sabaean language
+- Tartessian — Tartessian language
+- Lusitanian — Lusitanian language
+- Kamassian — Kamas | Kamassian Samoyed | Kamassian language
+- Akkala Sami — Babino Sami | Akkala Saami | Akkala | Akkala Sami language
+- Chumash — Barbareño | Ventureño | Obispeño | Ineseño | Purisimeño | Chumashan | Chumash language
+- Timucua — Timucua language
+- Tunica — Tunica language
+- Klallam — S'Klallam | Clallam | Klallam language
+- Old Javanese — Kawi | Kawi language | Old Javanese language
+- Middle Welsh — Medieval Welsh | Middle Welsh language
+- Old Breton — Old Breton language
+- Primitive Irish — Ogham Irish | Archaic Irish | Primitive Irish language
+- Old Catalan — Old Catalan language
+- Old Italian — Old Tuscan | Medieval Italian | Old Italian language
+- Old Swedish — Runic Swedish | Old Swedish language
+- Old Danish — Runic Danish | Old Danish language
+- Old Gutnish — Old Gotlandic | Old Gutnish language
+- Ruthenian — Old Ruthenian | Chancery Slavonic | Prosta mova | Ruthenian language
+- Old Polish — Old Polish language
+- Old Czech — Old Czech language
+- Old Novgorod dialect — Old Novgorodian | Old Novgorod dialect language
+- Old Hungarian — Ancient Hungarian | Old Hungarian language
+- Old Georgian — Classical Georgian | Ancient Georgian | Old Georgian language
+- Old Tamil — Sangam Tamil | Ancient Tamil | Old Tamil language
+- Old Korean — Ancient Korean | Silla language | Old Korean language
+- Middle Korean — Middle Korean language
+- Middle Japanese — Early Middle Japanese | Late Middle Japanese | Heian Japanese | Middle Japanese language
+- Classical Japanese — Bungo | Literary Japanese | Bungo Japanese | Classical Japanese language
+- Old Khmer — Ancient Khmer | Angkorian Khmer | Old Khmer language
+- Old Mon — Old Mon language
+- Old Burmese — Old Burmese language
+- Old Malay — Ancient Malay | Old Malay language
+- Old Uyghur — Old Uighur | Old Uyghur language
+- Middle Mongol — Middle Mongolian | Middle Mongol language
+- Old Nubian — Ancient Nubian | Medieval Nubian | Old Nubian language
+- Old Anatolian Turkish — Old Ottoman | Old Anatolian Turkish language
+- Classical Mandaic — Mandaic | Mandaean Aramaic | Mandean | Classical Mandaic language
+- Samaritan Aramaic — Samaritan Aramaic language
+- Palmyrene — Palmyrene Aramaic | Palmyrene language
+- Andalusi Arabic — Andalusian Arabic | Hispano-Arabic | Andalusi Arabic language
+- Siculo-Arabic — Sicilian Arabic | Siculo-Arabic language
+- Russenorsk — Russonorsk | Russenorsk language
+- Negerhollands — Virgin Islands Dutch Creole | Virgin Islands Creole Dutch | Negerhollands language
+- Berbice Dutch — Berbice Creole Dutch | Berbice Dutch language
+- Jersey Dutch — Jersey Dutch language
+- Martha's Vineyard Sign Language — MVSL | Chilmark Sign Language | Martha's Vineyard Sign
+- Proto-Semitic — Proto-Semitic language
+- Proto-Uralic — Proto-Uralic language
+- Proto-Indo-Iranian — Proto-Aryan | Proto-Indo-Iranian language
+- Proto-Italic — Proto-Italic language
+- Proto-Greek — Proto-Hellenic | Proto-Greek language
+- Proto-Austronesian — Proto-Austronesian language
+- Proto-Bantu — Proto-Bantu language
+- Proto-Afroasiatic — Proto-Hamito-Semitic | Proto-Afroasiatic language
+- Proto-Turkic — Proto-Turkic language
+- Proto-Dravidian — Proto-Dravidian language
+- Proto-Sino-Tibetan — Proto-Tibeto-Burman | Proto-Sino-Tibetan language
+- Proto-Balto-Slavic — Proto-Balto-Slavic language
+- Proto-Algonquian — Proto-Algonquian language
+- Proto-Polynesian — Proto-Polynesian language
+- Proto-Mayan — Proto-Mayan language
+- Proto-Romance — Proto-Romance language
+- Proto-Finnic — Proto-Finnic language
+- Proto-Japonic — Proto-Japanese | Proto-Japonic language
+- Proto-Basque — Pre-Proto-Basque | Proto-Basque language
+- Proto-Anatolian — Proto-Anatolian language
+- Proto-Iranian — Proto-Iranian language
+- Proto-Baltic — Proto-Baltic language
+- Proto-Kartvelian — Proto-Kartvelian language
+- Proto-Mongolic — Proto-Mongolic language
+- Proto-Austroasiatic — Proto-Austroasiatic language
+- Proto-Uto-Aztecan — Proto-Uto-Aztecan language
+- Proto-Athabaskan — Proto-Athabaskan language
+- Aquitanian — Old Aquitanian | Aquitanian language
+- Ancient Ligurian — Ligurian | Paleo-Ligurian | Ancient Ligurian language
+- Sicel — Siculian | Sikel | Sicel language
+- Elymian — Elymian language
+- Sicanian — Sicanian language
+- South Picene — Picene | Old Sabellic | South Picene language
+- North Picene — North Picene language
+- Volscian — Volscian language
+- Marsian — Marsian language
+- Sabine — Sabine language
+- Paelignian — Paelignian language
+- Noric — Noric language
+- Gallaecian — Gallaecian language
+- Paeonian — Paeonian language
+- Mysian — Mysian language
+- Pisidian — Pisidian language
+- Milyan — Milyan language
+- Liburnian — Liburnian language
+- Eteocypriot — Eteocyprian | Eteocypriot language
+- Lemnian — Lemnian language
+- Camunic — Camunic language
+- Sarmatian — Sarmatian language
+- Alanic — Alanian | Alan language | Alanic language
+- Khazar — Khazarian | Khazar language
+- Bulgar — Volga Bulgar | Volga Bulgarian | Bulgar Turkic | Bolgar | Bulgar language
+- Median — Medean | Median language
+- Khwarezmian — Chorasmian | Khwarazmian | Khorezmian | Khwarezmian language
+- Tumshuqese — Tumshuqese language
+- Old Azeri — Old Azari | Azari | Old Azeri language
+- Selonian — Selonian language
+- Semigallian — Semigallian language
+- Galindian — Galindian language
+- Sudovian — Yotvingian | Sudovian language
+- Slovincian — Slovincian language
+- Fingallian — Fingallian language
+- Merya — Merian | Merya language
+- Muromian — Muromian language
+- Krevinian — Krevinian language
+- Kemi Sami — Kemi Saami | Kemi Sami language
+- Gepid — Gepidic | Gepid language
+- British Latin — British Latin language
+- African Romance — African Latin | African Romance language
+- Pannonian Romance — Pannonian Romance language
+- Moselle Romance — Moselle Romance language
+- Caucasian Albanian — Aghwan | Old Udi | Albanian of the Caucasus | Caucasian Albanian language
+- Gutian — Gutian language
+- Kaskian — Kaska | Kaskian language
+- Shuadit — Judeo-Provençal | Judeo-Occitan | Judeo-Comtadine | Shuadit language
+- Zarphatic — Judeo-French | Zarphatic language
+- Knaanic — Judeo-Slavic | Judeo-Czech | Leshon Kna'an | Knaanic language
+- Gandhari — Gandhari language
+- Apabhramsha — Apabhramsa | Apabhramsha language
+- Elu — Hela | Old Sinhala
+- Harappan — Indus Valley language | Harappan language | Indus language
+- Xiongnu — Xiongnu language
+- Xianbei — Xianbei language
+- Goguryeo — Koguryo | Goguryeoan | Goguryeo language
+- Pyu — Tircul
+- Zhang-Zhung — Zhang-Zhung language
+- Kuril Ainu — Kurile Ainu | Kuril Ainu language
+- Kott — Kott language
+- Arin — Arin language
+- Yugh — Yugh language
+- Pumpokol — Pumpokol language
+- Mator — Mator language
+- Omok — Omok language
+- Sireniki Yupik — Sirenik | Sirenikski | Sireniki Yupik language
+- Aka-Bo — Bo | Bo language | Aka-Bo language
+- Numidian — Libyco-Berber | Old Libyan | Ancient Libyan | Ancient Berber | Numidian language
+- Kwadi — Kwadi language
+- ǀXam
+- Moriori — Moriori language
+- Kaurna — Kaurna language
+- Dharug — Darug | Dharuk | Sydney language | Eora | Dharug language
+- Mbabaram — Mbabaram language
+- Himyaritic — Himyarite | Himyaritic language
+- Minaean — Minaic | Minaean language
+- Qatabanian — Qatabanian language
+- Hadramautic — Hadrami | Hadramautic language
+- Ch'olti' — Ch'olti' language
+- Chicomuceltec — Chicomuceltec language
+- Mangue — Chorotega | Mangue language
+- Island Carib — Iñeri | Igneri | Kalhíphona | Island Carib language
+- Puquina — Puquina language
+- Muisca — Chibcha | Muysccubun | Muisca language
+- Selk'nam — Ona | Selk'nam language
+- Tehuelche — Aonikenk | Aonek'o 'a'jen | Tehuelche language
+- Puelche — Gününa Küne | Gennaken | Puelche language
+- Charrúa — Charrúa language
+- Kunza — Atacameño | Atacama | Kunza language
+- Mohican — Mahican | Stockbridge Mohican | Mohican language
+- Unami — Lenape | Unami Lenape | Unami Delaware | Unami language
+- Susquehannock — Susquehannock language
+- Powhatan — Virginia Algonquian | Powhatan language
+- Narragansett — Narragansett language
+- Mohegan-Pequot — Mohegan | Pequot | Mohegan-Montauk | Mohegan-Pequot language
+- Quiripi — Quiripi language
+- Nanticoke — Nanticoke language
+- Wyandot — Huron | Wendat | Huron-Wyandot | Wyandotte | Wyandot language
+- Laurentian — St. Lawrence Iroquoian | Saint Lawrence Iroquoian | Laurentian language
+- Natchez — Natchez language
+- Atakapa — Atakapan | Atakapa language
+- Chitimacha — Chitimacha language
+- Biloxi — Biloxi language
+- Ofo
+- Catawba — Catawba language
+- Tutelo — Tutelo language
+- Calusa — Calusa language
+- Apalachee — Apalachee language
+- Mobilian Jargon — Mobilian | Mobilian trade language | Mobilian Jargon language
+- Esselen — Esselen language
+- Tongva — Gabrielino | Gabrieleño | Tongva language
+- Serrano — Serrano language
+- Cupeño — Cupeño language
+- Chimariko — Chimariko language
+- Yana — Yahi | Yana language
+- Wappo — Wappo language
+- Salinan — Salinan language
+- Coahuilteco — Coahuiltecan | Coahuilteco language
+- Karankawa — Karankawa language
+- Tonkawa — Tonkawa language
+- Kitsai — Kitsai language
+- Tillamook — Tillamook language
+- Kalapuya — Kalapuyan | Kalapuya language
+- Takelma — Takelma language
+- Siuslaw — Siuslaw language
+- Alsea — Alsea language
+- Molala — Molala language
+- Cayuse — Cayuse language
+- Mattole — Mattole language
+- Miami-Illinois — Myaamia | Miami | Miami-Illinois language
+- Lower Chinook — Chinook | Shoalwater Chinook | Lower Chinook language
+- Kathlamet — Kathlamet language
+- Wichita — Wichita language
+- Etchemin — Etchemin language
+
+### Tier 6: rare jackpots (2)
+
+- Crimean Gothic — Crimean Gothic language
+- Eteocretan — Eteocretan language
+
+## Refused on purpose (24)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Aramaic — "Still alive: modern forms are spoken by hundreds of thousands of people."
+- Mayan | Maya — "Alive. Millions of people speak Mayan languages today."
+- Esperanto — "Invented, and still very much alive."
+- Klingon | Elvish | Quenya | Sindarin | Dothraki | High Valyrian | Newspeak | Na'vi | Parseltongue — "Invented for fiction, and alive among fans."
+- R'lyehian | Aklo — "Invented for horror stories. No one ever spoke it."
+- Irish | Irish Gaelic — "Alive, and spoken every day in the Gaeltacht."
+- Welsh | Scottish Gaelic | Gaelic | Breton — "Alive, with tens of thousands of speakers or more."
+- Basque — "Alive, and older than any language around it."
+- Icelandic — "Alive, and still close to the Norse of the sagas."
+- Greek | Modern Greek — "Alive. Its ancient form would have counted."
+- Hieroglyphics | Hieroglyphs | Cuneiform | Runes | Linear B | Linear A | Ogham | Egyptian hieroglyphics | Egyptian hieroglyphs | Hieratic | Runic | Futhark | Rongorongo | Indus script | Maya glyphs | Mayan glyphs | Mayan hieroglyphs | Glagolitic | Hieroglyphic | Phoenician alphabet | Greek alphabet — "A script, not a language."
+- Morse code | Braille | Semaphore — "A code, not a language."
+- Viking — "A people, not a language."
+- Inca — "A people, not a language. Their language is still spoken."
+- Aztec — "A people, not a language. Their language is still spoken."
+- Quechua — "Alive, and spoken by millions in the Andes."
+- Nahuatl — "Alive, and spoken by well over a million people in Mexico."
+- Celtic — "A family of languages, some of them alive. Which one?"
+- Yiddish — "Alive, with hundreds of thousands of speakers."
+- Modern Hebrew — "Alive, and spoken by millions. Plain Hebrew counts: it died out as a mother tongue first."
+- Volapük | Ido | Interlingua | Solresol | Lingua Ignota | Enochian | Lojban | Toki Pona | Novial | Occidental — "Invented, and never anyone's mother tongue."
+- Pig Latin | Dog Latin — "A word game played inside English, not a language of its own."
+- Persian | Farsi — "Alive, as Farsi, with tens of millions of speakers. Its older forms would have counted."
+- Macedonian — "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."

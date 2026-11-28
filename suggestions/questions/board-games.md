@@ -1,0 +1,394 @@
+# Name a board game.
+
+Question id: `board-games` · category: misc · source: `data/misc.json`
+
+Rules: Any board game, ancient or modern, including tile games like mahjong. Plain card and dice games, like poker, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (347 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Chess — Western chess | International chess | Speed chess | Blitz chess
+- Monopoly — Monopoly Junior | Monopoly board game
+- Scrabble — Junior Scrabble | Scrabble Junior | Super Scrabble
+- Checkers — Draughts | Chequers | International draughts | American checkers | English draughts | Straight checkers
+- Cluedo — Clue
+- Snakes and Ladders — Chutes and Ladders | Moksha patam | Gyan chaupar | Leela | Snakes and Ladder
+- Ludo — Uckers | Ludo King
+- Backgammon — Tavla | Nardy | Tables | Shesh besh | Nard | Trictrac | Jacquet | Plakoto | Acey-deucey | Gammon | Tavli
+- Risk
+- Trivial Pursuit
+
+### Tier 2: common (18)
+
+- Go — Weiqi | Baduk | Igo | Wei-chi | Paduk | Go board game
+- Catan — Settlers of Catan | Settlers | Die Siedler von Catan | Siedler
+- Ticket to Ride — Ticket to Ride Europe | TTR
+- Mahjong — Mah-jongg | Majiang | Mahjong solitaire | Riichi mahjong | Riichi
+- Dominoes — Domino | Dominos | Mexican Train | Mexican Train dominoes | Chickenfoot
+- Othello — Reversi
+- Game of Life — Life | The Checkered Game of Life | Life board game
+- Guess Who?
+- Connect Four — Connect 4 | Four in a row
+- Battleship — Battleships
+- Pictionary
+- Mastermind
+- Chinese checkers — Sternhalma | Chinese chequers
+- Pandemic
+- Carcassonne
+- Sorry!
+- Candy Land
+- Tic-tac-toe — Noughts and crosses | Xs and Os | Tick tack toe
+
+### Tier 3: known to fans (22)
+
+- Operation
+- Mouse Trap
+- Hungry Hippos — Hungry Hungry Hippos
+- Cranium
+- Stratego
+- Nine men's morris — Mill | Morris | Merels | Mills | Ninepenny marl | Merrills | Mühle | Nine-man morris
+- Mancala — Oware | Bao | Kalah | Sungka | Congkak | Awale | Awari | Ayo | Kalaha | Owari | Warri | Wari | Sowing game
+- Shogi — Japanese chess
+- Xiangqi — Chinese chess
+- Parcheesi — Parchis
+- Trouble — Frustration | Pop-O-Matic Trouble
+- Blokus
+- Azul
+- Wingspan
+- Codenames
+- Rummikub — Rummy-O | Rummy tiles
+- Arkham Horror
+- Carrom — Carom | Karrom | Carrom board | Carroms
+- Cribbage — Crib | Cribbage board
+- Game of the Goose — Goose game | Jeu de l'oie | Gioco dell'oca | Goose
+- Sequence
+- Words with Friends
+
+### Tier 4: obscure (85)
+
+- Halma
+- Chaturanga
+- Senet
+- Pachisi
+- Pente
+- Gomoku — Renju | Five in a row | Gobang | Gomokunarabe
+- Hex — Nash | Con-tac-tix
+- Splendor
+- Terraforming Mars
+- Gloomhaven
+- Dixit
+- Agricola
+- Puerto Rico
+- Scythe
+- Dominion
+- Small World
+- 7 Wonders — Seven Wonders
+- Diplomacy
+- Axis & Allies
+- Talisman
+- HeroQuest
+- Betrayal at House on the Hill — Betrayal | Betrayal at the House on the Hill
+- Scotland Yard
+- Hotel — Hotels | Hotel Tycoon
+- Balderdash — Absolute Balderdash
+- Articulate
+- Aggravation
+- Payday
+- Ouija — Ouija board | Talking board
+- Peg solitaire — Solo noble | Solitaire
+- Fischer random chess — Chess960 | Freestyle chess
+- Bananagrams
+- Qwirkle
+- Jumanji
+- Acquire
+- Brass: Birmingham — Brass | Brass: Lancashire
+- Twilight Struggle
+- King of Tokyo
+- Kingdomino
+- Patchwork
+- Cascadia
+- Everdell
+- Ark Nova
+- Dune: Imperium
+- Cosmic Encounter
+- Forbidden Island
+- Labyrinth — The aMAZEing Labyrinth | Amazing Labyrinth | Das verrückte Labyrinth | Crazy Labyrinth
+- Abalone
+- Hive
+- Castles of Burgundy
+- Mysterium
+- Takenoko
+- Sagrada
+- Lords of Waterdeep
+- Zombicide
+- War of the Ring
+- Upwords
+- Triominoes — Tri-Ominos
+- Hi Ho! Cherry-O — Cherry-O
+- Fireball Island
+- Atmosfear — Nightmare | Atmosphere board game
+- Escape from Atlantis — Survive!
+- Pandemic Legacy
+- Terra Mystica
+- Stone Age
+- Alhambra
+- Five Tribes
+- Istanbul
+- Camel Up — Camel Cup
+- Blood Rage
+- Clank!
+- Forbidden Desert
+- Memoir '44
+- Quoridor
+- Santorini
+- Blood Bowl
+- Three men's morris
+- Dots and Boxes — Dots and dashes | Boxes
+- Three-dimensional chess — 3D chess | Tri-dimensional chess | Star Trek chess
+- Secret Hitler
+- Subbuteo
+- Perfection
+- Scene It?
+- Tsuro
+- Hey, That's My Fish! — Fish Fish Fish
+
+### Tier 5: expert (209)
+
+- Janggi — Korean chess | Changgi
+- Makruk — Thai chess
+- Shatranj
+- Hnefatafl — Tafl | Viking chess | Tablut | King's table
+- Royal Game of Ur — Game of Ur | Ur
+- Fanorona
+- Alquerque — Qirkat
+- Fox and geese — Fox and hounds
+- Chaupar — Chaupur | Chopad
+- Mensch ärgere Dich nicht — Mensch | Don't Get Angry | Man, Don't Get Angry
+- Power Grid — Funkenschlag
+- Twilight Imperium — TI4
+- Root
+- Spirit Island
+- Eldritch Horror
+- Mansions of Madness
+- Dead of Winter
+- Escape from Colditz — Colditz
+- Totopoly
+- Mall Madness
+- Crokinole
+- Bagatelle
+- Shove ha'penny — Shove halfpenny | Shovelboard
+- Cthulhu Wars
+- Concordia
+- Caylus
+- Viticulture
+- Great Western Trail
+- Tzolk'in — Tzolk'in: The Mayan Calendar
+- Gaia Project
+- Through the Ages
+- Don't Wake Daddy
+- Mystery Date
+- Girl Talk
+- Dream Phone
+- 13 Dead End Drive — Thirteen Dead End Drive
+- Stay Alive
+- Careers
+- Masterpiece
+- Mine a Million
+- Buccaneer
+- Go for Broke
+- Downfall
+- Anti-Monopoly
+- Cashflow — Cashflow 101
+- Game of Thrones: The Board Game — A Game of Thrones board game
+- Star Wars: Rebellion
+- Descent: Journeys in the Dark — Descent
+- Space Hulk
+- Battle Masters
+- Space Crusade
+- Dungeon!
+- Dark Tower
+- Kingdom Death: Monster — Kingdom Death
+- Frosthaven
+- Mage Knight
+- Eclipse
+- Cyclades
+- Kemet
+- Inis
+- Rising Sun
+- Dominant Species
+- Food Chain Magnate
+- Age of Steam
+- 1830 — 18xx | 1830: Railways & Robber Barons
+- Civilization — Advanced Civilization | Civilization board game | Sid Meier's Civilization board game
+- Titan
+- Kingmaker
+- Britannia
+- History of the World
+- Shogun — Samurai Swords | Ikusa
+- Fortress America
+- Paths of Glory
+- Here I Stand
+- Squad Leader — Advanced Squad Leader | ASL
+- PanzerBlitz
+- Tactics
+- Kriegsspiel — Prussian wargame
+- Battle Cry
+- Tigris & Euphrates
+- El Grande
+- Torres
+- Samurai
+- Ra
+- Tikal
+- Le Havre
+- Caverna
+- A Feast for Odin
+- Ora et Labora
+- Orléans
+- Troyes
+- Trajan
+- Grand Austria Hotel
+- Lorenzo il Magnifico
+- The Voyages of Marco Polo — Marco Polo
+- Lost Ruins of Arnak — Arnak
+- Oath
+- Parks
+- Heat: Pedal to the Metal — Heat
+- Flamme Rouge
+- King of New York
+- Sheriff of Nottingham
+- Tokaido
+- Robinson Crusoe
+- Flash Point: Fire Rescue — Flash Point
+- Fury of Dracula
+- Letters from Whitechapel
+- Mr. Jack
+- Isle of Skye
+- Ingenious
+- Onitama
+- Quarto
+- Quixo
+- Tak
+- YINSH
+- GIPF
+- DVONN
+- ZÈRTZ
+- TZAAR
+- Havannah
+- TwixT
+- Lines of Action
+- Game of the Amazons — Amazons
+- Arimaa
+- Black Box
+- Can't Stop
+- Kingsburg
+- Malefiz — Barricade
+- Hare and Tortoise
+- Sagaland
+- Fia — Fia med knuff
+- Parqués
+- Battlestar Galactica
+- Gloomhaven: Jaws of the Lion — Jaws of the Lion
+- Risk Legacy
+- Pandemic Iberia
+- Hansa Teutonica
+- Imperial
+- Navegador
+- Tobago
+- Zooloretto
+- Mexica
+- Pillars of the Earth
+- Vinci
+- Photosynthesis
+- Sky Team
+- Harmonies
+- Hounds and Jackals — 58 Holes | Fifty-eight holes | Hounds and Jackals game
+- Ludus latrunculorum — Latrunculi | Latrones | Ludus latrunculi
+- Petteia
+- Duodecim scripta — Ludus duodecim scriptorum | XII scripta | Twelve lines
+- Tabula
+- Liubo
+- Ashtapada
+- Pallanguzhi — Pallankuzhi
+- Toguz kumalak — Toguz korgool
+- Omweso
+- Yut — Yunnori | Yut nori | Nyout
+- Sugoroku
+- Bagh-chal — Tigers and goats
+- Mū tōrere
+- Kōnane
+- Dara
+- Seega
+- Fidchell — Fidhcheall | Fithchell
+- Gwyddbwyll
+- Brandubh
+- Tawlbwrdd
+- Alea evangelii
+- Rithmomachia — Rithmomachy | The Philosophers' Game
+- Six men's morris
+- Twelve men's morris
+- Achi
+- Hasami shogi
+- Chu shogi
+- Sittuyin — Burmese chess
+- Shatar — Mongolian chess
+- Ouk chatrang — Cambodian chess | Khmer chess | Ouk
+- Four-player chess — Four-handed chess | 4 player chess
+- Bughouse — Bughouse chess
+- Crazyhouse
+- Capablanca chess
+- Losing chess — Antichess | Giveaway chess | Suicide chess
+- Turkish draughts — Dama
+- Russian draughts — Shashki
+- Frisian draughts
+- Lasca
+- Banqi — Dark chess | Half chess
+- Jungle — Dou Shou Qi | Animal chess | Jungle chess
+- Luzhanqi — Army chess
+- Aeroplane chess — Fei xing qi | Flying chess
+- Tâb
+- Bul
+- Puluc
+- Kriegspiel — Kriegspiel chess
+- The Quacks of Quedlinburg — Quacks
+- Concept
+- Star Wars: Imperial Assault — Imperial Assault
+- Mice and Mystics
+- Ghost Stories
+- Pax Pamir
+- Barrage
+- Underwater Cities
+- Nemesis
+- Kensington
+- Ratrace
+- Hare and Hounds — Hare games | French military game
+- Aadu puli attam — Lambs and tigers
+- Ashta chamma
+
+### Tier 6: rare jackpots (3)
+
+- Mehen
+- Patolli
+- The Landlord's Game
+
+## Refused on purpose (13)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Poker | Bridge | Blackjack | Rummy | Uno | Snap | Go Fish | Exploding Kittens | Cards Against Humanity | Magic: The Gathering | Patience | Klondike | Canasta | Taboo | Hearts | Spades | Gin rummy | Crazy eights | Old maid | Euchre | Whist | Pinochle | Baccarat | Skip-Bo | Phase 10 | Top Trumps | Pokémon cards | Yu-Gi-Oh! | Love Letter | Coup | Sushi Go | Hanabi | Bohnanza | Munchkin | Fluxx | Dobble | Spot It | Happy Families | Cheat | Durak | Apples to Apples | Solitaire card game | Gin | Cribbage card game | Mille Bornes | Monopoly Deal | Uno Flip | Snap card game — "A card game, not a board game."
+- Yahtzee | Craps | Liar's dice | Farkle | Boggle | Pass the Pigs | Shut the box | Bunco | Perudo | Qwixx | Tenzi | Sic bo | Chuck-a-luck | Dice — "A dice game, not a board game."
+- Dungeons & Dragons | D&D | DnD | Call of Cthulhu | Pathfinder | Vampire: The Masquerade | Shadowrun | Traveller — "A role-playing game. No board required."
+- Warhammer | Warhammer 40k | Warhammer 40,000 | Age of Sigmar | Warmachine | Bolt Action | Necromunda | Kill Team | Mordheim | Flames of War — "A miniatures wargame, played across a tabletop, not a board."
+- Jenga | Kerplunk | Buckaroo | Pop-up Pirate | Crocodile Dentist | Don't Break the Ice | Tumblin' Monkeys — "A game of steady hands. No board."
+- Twister — "Played on a mat with your own body. Close, but no board."
+- Charades | Hangman | Scattergories | Twenty questions | I spy | Mafia | Werewolf | Wink murder | Truth or dare | Spin the bottle | Heads Up! | Simon says | Musical chairs — "A parlour game. No board needed."
+- Rubik's Cube | Sudoku | Crossword | Jigsaw puzzle | Wordle — "A puzzle, not a board game."
+- Tetris | Minecraft | Fortnite | Mario Kart | Call of Duty | FIFA — "A video game, not a board game."
+- Mario Party — "A video game, if a very board-game-like one."
+- Darts | Dartboard — "Played on a board, but you throw things at it. Not a board game."
+- Pool | Snooker | Billiards | Eight-ball | Bar billiards — "A cue sport, not a board game."
+- Table football | Foosball | Air hockey | Table tennis | Ping pong — "A table game, not a board game."

@@ -1,0 +1,393 @@
+# Name a cocktail.
+
+Question id: `cocktails` · category: food · source: `data/food.json`
+
+Rules: Any named mixed drink with alcohol in it. A spirit, wine or beer on its own doesn't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (350 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Mojito — Mohito | Strawberry mojito | Classic mojito
+- Margarita — Frozen margarita | Strawberry margarita | Marg | Margs | Spicy margarita | Cadillac margarita | Classic margarita | Margarita on the rocks | Mango margarita | Watermelon margarita | Tequila margarita | Mezcal margarita
+- Martini — Dirty martini | Vodka martini | Dry martini | Gin martini | Vodkatini | Gin and French | Wet martini | Perfect martini | Classic martini | Extra dry martini
+- Piña Colada — Colada | Piña colada cocktail
+- Cosmopolitan — Cosmo
+- Daiquiri — Daquiri | Daiquiry | Strawberry daiquiri | Frozen daiquiri | Banana daiquiri | Classic daiquiri | Rum daiquiri
+- Old Fashioned — Bourbon Old Fashioned | Whisky Old Fashioned | Whiskey Old Fashioned | Old Fashion | Rye Old Fashioned
+- Bloody Mary — Bloody Marys | Bloody Marie
+- Long Island Iced Tea — Long Island | Long Island Tea | LIIT | Long Island Ice Tea | Long Island Iced Teas
+- Sex on the Beach — Sex on a Beach | Sex on Beach
+- Gin and tonic — G&T | Gin tonic | Gin tonica | Gin and tonic water | GT
+
+### Tier 2: common (23)
+
+- Pornstar Martini — Passion fruit martini | Pornstar
+- Espresso Martini — Expresso martini | Espresso tini | Coffee martini | Vodka espresso
+- Manhattan — Perfect Manhattan | Dry Manhattan | Rye Manhattan | Bourbon Manhattan
+- Negroni — Classic Negroni | Mezcal Negroni
+- Mai Tai
+- Aperol Spritz — Spritz | Spritz Veneziano | Venetian spritz | Aperol spritzer
+- Caipirinha — Caipi
+- Tequila Sunrise — Sunrise
+- Moscow Mule — Mule | Vodka mule | Vodka and ginger beer
+- White Russian — Caucasian
+- Cuba Libre — Rum and Coke | Rum and Cola | Bacardi and Coke | Bacardi Coke | Rum Coke | Rum and Coca-Cola | Cuba Libra
+- Screwdriver — Vodka orange | Vodka and orange | Vodka and orange juice | Vodka OJ
+- Whisky Sour — Whiskey Sour | Sour | Bourbon sour | Scotch sour
+- Mimosa — Mimosa cocktail
+- Bellini — Peach Bellini
+- Irish Coffee — Gaelic coffee
+- Sangria
+- Pimm's — Pimm's Cup | Pimm's No. 1 | Pimm's No. 1 Cup
+- Buck's Fizz
+- Mulled wine — Glühwein | Vin chaud | Glögg | Vin brulé | Hot wine | Spiced wine
+- Rum punch — Punch | Bajan rum punch | Jamaican rum punch
+- Vodka tonic — Vodka and tonic
+- Jack and Coke — Jack Coke | JD and Coke | Whiskey and Coke | Whisky and Coke | Whiskey Coke | Bourbon and Coke | Bourbon Coke | Jack and Coca-Cola
+
+### Tier 3: known to fans (66)
+
+- Black Russian
+- Pisco Sour
+- Amaretto Sour
+- Kir Royale — Kir Royal
+- Kir
+- Sidecar
+- Tom Collins — Collins | Gin Collins
+- Gimlet — Vodka gimlet | Gin Gimlet
+- Sazerac
+- Mint Julep — Julep
+- Zombie — Zombie punch
+- Hurricane — Hurricane cocktail
+- Dark 'n' Stormy — Dark and Stormy
+- Paloma — Tequila and grapefruit | Spicy Paloma
+- Gin Fizz — Fizz
+- French 75
+- Singapore Sling — Sling
+- Harvey Wallbanger
+- Grasshopper
+- Brandy Alexander — Alexander
+- Eggnog — Brandy eggnog | Rum eggnog
+- Snowball
+- Champagne cocktail
+- Mudslide
+- B-52
+- Kamikaze
+- Lemon Drop — Lemon Drop Martini | Lemon drop shot
+- Appletini — Apple martini | Sour apple martini
+- Blue Lagoon
+- Woo Woo
+- Fuzzy Navel
+- Sea Breeze
+- Rob Roy
+- Rusty Nail
+- Boulevardier
+- Americano
+- Aviation
+- Bramble
+- Vesper — Vesper martini
+- Michelada
+- Shandy — Radler | Panaché | Lager shandy | Beer shandy | Shandygaff
+- Snakebite — Snakebite and black
+- Jägerbomb — Jägerbomb shot
+- Hot toddy — Toddy | Hot whisky | Hot whiskey | Whisky toddy
+- Vodka Red Bull — Vodka and Red Bull | Vodbull
+- Negroni Sbagliato — Sbagliato
+- Tequila slammer — Slammer
+- Screaming orgasm
+- Slippery nipple
+- Midori sour
+- Vodka soda — Vodka and soda
+- Vodka Coke — Vodka and Coke | Vodka and Coca-Cola | Vodka cola
+- Baby Guinness
+- Highball — Whisky highball | Whiskey highball | Japanese highball | Scotch and soda | Whisky and soda | Whiskey and soda | Whisky soda | Scotch soda | Highball cocktail
+- Spritzer — White wine spritzer | Wine spritzer | Wine and soda | Gespritzter
+- Vodka lemonade — Vodka and lemonade | Vodka lemon
+- Rum Runner
+- Campari Spritz — Campari spritzer
+- Gin Sour
+- Brandy Sour
+- Dirty Shirley — Dirty Shirley Temple
+- Garibaldi — Campari and orange | Campari orange | Campari and orange juice
+- Campari Soda — Campari and soda
+- Malibu and pineapple — Malibu pineapple | Malibu and pineapple juice
+- Archers and lemonade — Peach schnapps and lemonade | Archers lemonade
+- Pimm's and lemonade — Pimms lemonade
+
+### Tier 4: obscure (98)
+
+- John Collins
+- Ramos Gin Fizz — Ramos Fizz | New Orleans Fizz
+- Bay Breeze
+- Cape Codder — Vodka cranberry | Vodka and cranberry | Vodka cran | Cape Cod
+- Salty Dog
+- Greyhound
+- Godfather
+- Stinger
+- Last Word
+- Corpse Reviver — Corpse Reviver No. 2 | Corpse Reviver 2
+- Clover Club
+- Hanky Panky
+- Bee's Knees
+- Southside
+- Paper Plane
+- Penicillin
+- Jungle Bird
+- Painkiller
+- Mary Pickford
+- El Presidente — Presidente
+- Hemingway Daiquiri — Papa Doble | Hemingway special
+- Planter's Punch
+- Bahama Mama
+- Blue Hawaii — Blue Hawaiian
+- Scorpion — Scorpion bowl
+- Suffering Bastard
+- Vieux Carré
+- Martinez
+- Blood and Sand
+- Death in the Afternoon
+- Tom and Jerry
+- Pink Lady
+- White Lady
+- Caipiroska — Caipivodka | Caipiroshka
+- Bloody Caesar — Caesar
+- Black Velvet
+- Boilermaker — Depth charge | Beer and a shot
+- Hugo — Hugo Spritz
+- Rossini
+- Tinto de verano
+- Kalimotxo — Calimocho | Kalimocho | Calimotxo
+- Wassail
+- Pink gin
+- French Martini
+- Tommy's Margarita
+- Ranch water
+- Gibson
+- Hot buttered rum
+- Gin Rickey — Rickey | Lime Rickey with gin
+- Whiskey Smash — Whisky Smash | Bourbon Smash | Smash
+- Gold Rush
+- New York Sour
+- Gin Basil Smash — Basil Smash | Gin Pesto
+- Gin and It — Gin and Italian | Gin It
+- Gin and Juice
+- Bloody Maria
+- El Diablo — Diablo
+- Mexican Mule — Tequila Mule
+- Kentucky Mule — Bourbon Mule | Whiskey Mule | Whisky Mule
+- Irish Mule
+- Lynchburg Lemonade
+- Whisky Mac — Whisky Macdonald | Whiskey Mac
+- Seven and Seven — 7 and 7 | Seven Seven
+- Rye and ginger — Whisky ginger | Whiskey ginger | Whisky and ginger | Whiskey and ginger | Whisky and ginger ale | Whiskey ginger ale | Rye and ginger ale
+- Madras
+- Mind Eraser
+- Chocolate Martini — Chocolatini
+- Lychee Martini — Lychee-tini
+- Ti' Punch — Petit Punch
+- Rum Swizzle — Swizzle | Bermuda Rum Swizzle | Rum swizzle Bermuda
+- Goombay Smash
+- Bushwacker — Bushwhacker
+- Grog — Naval grog | Rum grog
+- Jungle Juice
+- Lava Flow
+- Dirty Banana
+- Chilcano — Chilcano de pisco
+- Piscola — Pisco and Coke | Pisco and cola
+- Carajillo
+- Coquito
+- Mulled cider — Hot spiced cider | Spiced cider | Hot cider
+- Milk Punch — Brandy Milk Punch | Clarified Milk Punch | Bourbon Milk Punch
+- Agua de Valencia
+- Black and Tan — Half and half
+- Flaming Dr Pepper — Flaming Doctor Pepper
+- Washington Apple
+- Buttery Nipple
+- Alabama Slammer
+- Irish Slammer — Irish Car Bomb | Irish Bomb
+- Brain Haemorrhage — Brain Hemorrhage | Bloody Brain | Brain Tumour
+- Jelly shots — Jello shots | Jelly shot | Vodka jelly | Vodka jellies
+- Sloe Gin Fizz
+- Fernet and Coke — Fernet con Coca | Fernet Cola | Fernet and Cola | Fernando
+- Soju bomb — Somaek | Somek | Poktanju | Soju beer bomb
+- Sake bomb — Sake bomber
+- Chūhai — Chu-hi | Shochu highball
+- Long Beach Iced Tea — Long Beach
+- John Daly — Spiked Arnold Palmer
+
+### Tier 5: expert (150)
+
+- Navy Grog
+- Fog Cutter
+- Missionary's Downfall
+- Brooklyn
+- Bronx
+- Tuxedo
+- Pegu Club
+- Monkey Gland
+- Bobby Burns
+- Widow's Kiss
+- Sherry Cobbler — Cobbler
+- Brandy Crusta — Crusta
+- Sgroppino
+- Fish House Punch
+- Vampiro
+- Twentieth Century — 20th Century
+- Chrysanthemum
+- Ward Eight
+- Jack Rose
+- Bijou
+- Alaska
+- Japanese Cocktail
+- Rum Sour
+- Boston Sour
+- Trinidad Sour
+- Pisco Punch
+- Red Snapper
+- Bloody Bull
+- Tequila Sunset
+- Batanga
+- Matador
+- Tequila Mockingbird
+- Brave Bull
+- Rosita
+- Oaxaca Old Fashioned
+- Naked and Famous
+- Siesta
+- Cantarito
+- Charro Negro
+- Yellow Bird
+- Hand Grenade
+- Chi-Chi
+- Three Dots and a Dash
+- Test Pilot
+- Ancient Mariner
+- Pearl Diver
+- Dr. Funk — Doctor Funk
+- Cobra's Fang
+- Bacardi Cocktail
+- Canchánchara
+- Hotel Nacional
+- Air Mail
+- Queen's Park Swizzle
+- Corn 'n' Oil — Corn and Oil
+- Batida
+- Old Cuban
+- Godmother
+- Colorado Bulldog
+- Russian Spring Punch
+- Breakfast Martini
+- Gin Daisy
+- Gin Sling
+- Silver Fizz
+- Golden Fizz
+- Royal Fizz
+- Casino
+- Army & Navy
+- Paradise
+- Floradora
+- Gin-Gin Mule
+- Charlie Chaplin
+- White Negroni
+- Old Pal
+- Milano-Torino
+- Puccini
+- Tintoretto
+- Bicicletta
+- Mamie Taylor
+- Presbyterian
+- Scotch Mist
+- Algonquin
+- Toronto
+- Blinker
+- Remember the Maine
+- Brown Derby
+- Seelbach
+- Revolver
+- Black Manhattan
+- Affinity
+- Atholl Brose
+- Horse's Neck
+- Between the Sheets
+- Champs-Élysées
+- Brandy Old Fashioned
+- B&B — Benedictine and brandy | Brandy and Benedictine
+- French Connection
+- Brandy Daisy
+- Golden Cadillac
+- Pink Squirrel
+- Toblerone
+- Prairie Fire
+- Pickleback
+- Duck Fart
+- Sloe Comfortable Screw
+- Negus
+- Sangaree
+- Hippocras — Hypocras
+- Claret Cup
+- Kir Impérial
+- Poinsettia
+- Lager top — Lager tops
+- Lager and lime
+- Red Eye — Red eye beer
+- Chelada
+- Yorsh — Yorsh cocktail | Ersh
+- Bombardino
+- Queimada
+- Rebujito
+- Feuerzangenbowle
+- Lumumba
+- Rompope
+- Ponche crema
+- Flip — Egg flip | Brandy flip | Porto flip
+- Terremoto
+- Cola de mono
+- Canelazo
+- Saketini — Sake martini | Sakitini
+- Tokyo Tea
+- Electric Lemonade
+- Gin and Dubonnet — Dubonnet and gin | Zaza
+- Kentucky Buck
+- Division Bell
+- Benton's Old Fashioned
+- Cable Car
+- Final Ward
+- Greenpoint
+- Red Hook
+- Little Italy
+- Tipperary
+- Earthquake — Tremblement de terre
+- Gloom Lifter
+- Bosom Caresser
+- Corpse Reviver No. 1 — Corpse Reviver 1
+- Fallen Angel
+- Morning Glory Fizz
+- Diamond Fizz
+- Coffee Cocktail
+- El Floridita — Floridita
+- Cuban Manhattan
+- Tequila Sour
+
+### Tier 6: rare jackpots (2)
+
+- Satan's Whiskers
+- Blue Blazer
+
+## Refused on purpose (9)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Vodka | Gin | Rum | Tequila | Whisky | Whiskey | Brandy | Cognac | Bourbon | Mezcal | Sambuca | Ouzo | Limoncello | Baileys | Jägermeister | Aperol | Campari | Vermouth | Port | Sherry | Prosecco | Champagne | Wine | Beer | Cider | Sake | Amaretto | Pisco | Cachaça | Grappa | Schnapps | Soju | Baijiu | Shochu | Arak | Raki | Rakia | Slivovitz | Aquavit | Akvavit | Pastis | Pernod | Ricard | Chartreuse | Cointreau | Kahlúa | Midori | Malibu | Southern Comfort | Drambuie | Frangelico | Triple sec | Grand Marnier | Advocaat | Mead | Madeira | Marsala | Calvados | Armagnac | Scotch | Rye whiskey | Moonshine | Lillet | Dubonnet | Sloe gin | Cava | Lager | Ale | Stout | Guinness | Perry | Pálinka | Metaxa | Fernet | Fernet-Branca | Bénédictine | Tia Maria | Irish cream | Fireball | Applejack | Poitín | Genever | Kirsch | Eau de vie | Amaro | Cynar | Galliano | Maraschino | Curaçao | Blue curaçao | Crème de menthe | Crème de cassis | Red wine | White wine | Rosé | Sparkling wine | Liqueur — "A drink on its own, not a cocktail."
+- Absinthe — "A spirit, not a cocktail. The green fairy works alone."
+- Kraken — "A rum, not a cocktail. Well named, though."
+- Shirley Temple | Arnold Palmer | Mocktail | Virgin Mojito | Virgin Mary | Roy Rogers | Virgin Piña Colada | Virgin Colada | Virgin Margarita | Virgin Daiquiri | Cinderella | Pussyfoot | Safe Sex on the Beach | Kiddie cocktail — "A mocktail. The deep requires something stronger."
+- Molotov cocktail | Molotov — "Please don't."
+- Prawn cocktail | Shrimp cocktail | Fruit cocktail — "A starter, not a drink."
+- Smoothie | Milkshake | Lemonade | Slushie | Fruit punch | Iced tea | Ginger beer | Tonic | Tonic water | Coca-Cola | Coke | Cola | Lemon squash | Squash | Lassi | Horchata — "Not a drop of alcohol in it."
+- Cocktail | Mixed drink | Tiki | Tiki drink | Shooter | Shot | Long drink | Alcopop — "Which one?"
+- Pan Galactic Gargle Blaster | Gargle Blaster | Butterbeer | Romulan Ale — "A drink from fiction, and probably for the best. Order a real one."
