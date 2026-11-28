@@ -1,0 +1,2832 @@
+{
+ "id": "history-roman-emperors",
+ "text": "Name a Roman emperor.",
+ "category": "history",
+ "flavor": "They called themselves gods. Most of them died the way men do, and several of them died badly.",
+ "rules": "Any Roman emperor, including usurpers who held real power and the Eastern emperors who ruled from Constantinople until 1453. A name that several emperors shared counts for the best known of them.",
+ "answers": [
+  {
+   "answer": "Augustus",
+   "aliases": [
+    "Octavian",
+    "Octavius",
+    "Caesar Augustus",
+    "Augustus Caesar",
+    "Gaius Octavius",
+    "Emperor Augustus",
+    "Emperor Octavian",
+    "Emperor Octavius",
+    "Emperor Caesar Augustus",
+    "Emperor Augustus Caesar",
+    "Emperor Gaius Octavius",
+    "Octavianus",
+    "Imperator Caesar Augustus",
+    "Augustus Octavian",
+    "Caesar Octavian",
+    "Octavian Augustus",
+    "Emperor Octavianus",
+    "Emperor Imperator Caesar Augustus",
+    "Emperor Augustus Octavian",
+    "Emperor Caesar Octavian",
+    "Emperor Octavian Augustus"
+   ],
+   "tier": 1,
+   "lore": "Rome's first emperor. The month of August is named after him."
+  },
+  {
+   "answer": "Nero",
+   "aliases": [
+    "Emperor Nero",
+    "Nero Claudius Caesar",
+    "Nero Caesar",
+    "Lucius Domitius Ahenobarbus",
+    "Emperor Nero Claudius Caesar",
+    "Emperor Nero Caesar",
+    "Emperor Lucius Domitius Ahenobarbus"
+   ],
+   "tier": 1,
+   "lore": "Did not fiddle while Rome burned. The fiddle hadn't been invented."
+  },
+  {
+   "answer": "Caligula",
+   "aliases": [
+    "Gaius",
+    "Little Boots",
+    "Emperor Caligula",
+    "Gaius Caesar",
+    "Gaius Caesar Germanicus",
+    "Emperor Gaius",
+    "Emperor Little Boots",
+    "Emperor Gaius Caesar",
+    "Emperor Gaius Caesar Germanicus"
+   ],
+   "tier": 1,
+   "lore": "Said to have planned to make his horse a consul, though the tale may be slander."
+  },
+  {
+   "answer": "Marcus Aurelius",
+   "aliases": [
+    "Aurelius",
+    "Marcus",
+    "Emperor Marcus Aurelius",
+    "Emperor Marcus",
+    "Marcus Aurelius Antoninus",
+    "Emperor Aurelius",
+    "Emperor Marcus Aurelius Antoninus"
+   ],
+   "tier": 1,
+   "lore": "A philosopher-emperor whose private notebook, the Meditations, is still a bestseller."
+  },
+  {
+   "answer": "Hadrian",
+   "aliases": [
+    "Emperor Hadrian",
+    "Hadrianus",
+    "Publius Aelius Hadrianus",
+    "Adrian",
+    "Emperor Hadrianus",
+    "Emperor Publius Aelius Hadrianus",
+    "Emperor Adrian"
+   ],
+   "tier": 1,
+   "lore": "Built a wall across Britain, and was the first emperor to wear a full beard."
+  },
+  {
+   "answer": "Constantine the Great",
+   "aliases": [
+    "Constantine",
+    "Constantine I",
+    "Constantine 1",
+    "Emperor Constantine the Great",
+    "Emperor Constantine",
+    "Emperor Constantine I",
+    "Constantinus",
+    "Saint Constantine",
+    "Constantine I the Great",
+    "Emperor Constantine 1",
+    "Emperor Constantinus",
+    "Emperor Saint Constantine",
+    "Emperor Constantine I the Great"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Claudius",
+   "aliases": [
+    "Emperor Claudius",
+    "Tiberius Claudius Caesar",
+    "Claudius Caesar",
+    "Claudius I",
+    "Emperor Tiberius Claudius Caesar",
+    "Emperor Claudius Caesar",
+    "Emperor Claudius I"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Tiberius",
+   "aliases": [
+    "Emperor Tiberius",
+    "Tiberius Caesar",
+    "Tiberius Caesar Augustus",
+    "Tiberius Claudius Nero",
+    "Tiberius I",
+    "Emperor Tiberius Caesar",
+    "Emperor Tiberius Caesar Augustus",
+    "Emperor Tiberius Claudius Nero",
+    "Emperor Tiberius I"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Commodus",
+   "aliases": [
+    "Emperor Commodus",
+    "Lucius Aurelius Commodus",
+    "Emperor Lucius Aurelius Commodus"
+   ],
+   "tier": 1,
+   "lore": "Fought as a gladiator in the arena, and was strangled in his bath by a wrestler named Narcissus."
+  },
+  {
+   "answer": "Trajan",
+   "aliases": [
+    "Emperor Trajan",
+    "Traianus",
+    "Trajanus",
+    "Marcus Ulpius Traianus",
+    "Optimus Princeps",
+    "Emperor Traianus",
+    "Emperor Trajanus",
+    "Emperor Marcus Ulpius Traianus",
+    "Emperor Optimus Princeps"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vespasian",
+   "aliases": [
+    "Emperor Vespasian",
+    "Vespasianus",
+    "Emperor Vespasianus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Titus",
+   "aliases": [
+    "Emperor Titus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Domitian",
+   "aliases": [
+    "Domitianus",
+    "Titus Flavius Domitianus",
+    "Emperor Domitian",
+    "Emperor Domitianus",
+    "Emperor Titus Flavius Domitianus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Diocletian",
+   "aliases": [
+    "Emperor Diocletian",
+    "Diocletianus",
+    "Diocles",
+    "Emperor Diocletianus",
+    "Emperor Diocles"
+   ],
+   "tier": 2,
+   "lore": "Split the empire in four, then retired to grow cabbages in what is now Croatia."
+  },
+  {
+   "answer": "Caracalla",
+   "aliases": [
+    "Emperor Caracalla"
+   ],
+   "tier": 2,
+   "lore": "Gave citizenship to almost every free man in the empire, and built enormous baths."
+  },
+  {
+   "answer": "Septimius Severus",
+   "aliases": [
+    "Severus",
+    "Emperor Septimius Severus",
+    "Lucius Septimius Severus",
+    "Emperor Severus",
+    "Emperor Lucius Septimius Severus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Justinian I",
+   "aliases": [
+    "Justinian",
+    "Justinian the Great",
+    "Justinian 1",
+    "Justinian the First",
+    "Emperor Justinian I",
+    "Emperor Justinian",
+    "Emperor Justinian the Great",
+    "Emperor Justinian 1",
+    "Emperor Justinian the First"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Romulus Augustulus",
+   "aliases": [
+    "Romulus Augustus",
+    "Augustulus",
+    "Emperor Romulus Augustulus",
+    "Emperor Romulus Augustus",
+    "Romulus",
+    "Emperor Augustulus",
+    "Emperor Romulus"
+   ],
+   "tier": 2,
+   "lore": "The last emperor in the West, deposed in 476 as a teenager and pensioned off."
+  },
+  {
+   "answer": "Theodosius I",
+   "aliases": [
+    "Theodosius",
+    "Theodosius the Great",
+    "Theodosius 1",
+    "Theodosius the First",
+    "Emperor Theodosius I",
+    "Emperor Theodosius",
+    "Emperor Theodosius the Great",
+    "Emperor Theodosius 1",
+    "Emperor Theodosius the First"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Elagabalus",
+   "aliases": [
+    "Heliogabalus",
+    "Emperor Elagabalus",
+    "Emperor Heliogabalus"
+   ],
+   "tier": 2,
+   "lore": "A teenage priest of a sun god, notorious for scandal. Murdered at eighteen."
+  },
+  {
+   "answer": "Nerva",
+   "aliases": [
+    "Emperor Nerva",
+    "Marcus Cocceius Nerva",
+    "Emperor Marcus Cocceius Nerva"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Antoninus Pius",
+   "aliases": [
+    "Antoninus",
+    "Emperor Antoninus Pius",
+    "Antonine",
+    "Emperor Antoninus",
+    "Emperor Antonine"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Julian",
+   "aliases": [
+    "Julian the Apostate",
+    "Emperor Julian",
+    "Emperor Julian the Apostate",
+    "Julianus",
+    "Flavius Claudius Julianus",
+    "Julian II",
+    "Julian the Philosopher",
+    "Emperor Julianus",
+    "Emperor Flavius Claudius Julianus",
+    "Emperor Julian II",
+    "Emperor Julian the Philosopher"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Galba",
+   "aliases": [
+    "Emperor Galba",
+    "Servius Sulpicius Galba",
+    "Emperor Servius Sulpicius Galba"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Otho",
+   "aliases": [
+    "Emperor Otho",
+    "Marcus Salvius Otho",
+    "Emperor Marcus Salvius Otho"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vitellius",
+   "aliases": [
+    "Emperor Vitellius",
+    "Aulus Vitellius",
+    "Emperor Aulus Vitellius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lucius Verus",
+   "aliases": [
+    "Verus",
+    "Emperor Lucius Verus",
+    "Emperor Verus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pertinax",
+   "aliases": [
+    "Emperor Pertinax",
+    "Publius Helvius Pertinax",
+    "Emperor Publius Helvius Pertinax"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Didius Julianus",
+   "aliases": [
+    "Didius Julian",
+    "Emperor Didius Julianus",
+    "Emperor Didius Julian"
+   ],
+   "tier": 3,
+   "lore": "Bought the throne at auction from the Praetorian Guard in 193. He lasted 66 days."
+  },
+  {
+   "answer": "Geta",
+   "aliases": [
+    "Emperor Geta"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Macrinus",
+   "aliases": [
+    "Emperor Macrinus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Severus Alexander",
+   "aliases": [
+    "Alexander Severus",
+    "Emperor Severus Alexander",
+    "Emperor Alexander Severus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maximinus Thrax",
+   "aliases": [
+    "Maximinus",
+    "Maximinus I",
+    "Emperor Maximinus Thrax",
+    "Emperor Maximinus",
+    "Emperor Maximinus I",
+    "Maximinus the Thracian",
+    "Emperor Maximinus the Thracian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Philip the Arab",
+   "aliases": [
+    "Philip I",
+    "Philippus Arabs",
+    "Philip",
+    "Emperor Philip the Arab",
+    "Emperor Philip I",
+    "Emperor Philippus Arabs",
+    "Emperor Philip",
+    "Philip the Arabian",
+    "Marcus Julius Philippus",
+    "Emperor Philip the Arabian",
+    "Emperor Marcus Julius Philippus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Decius",
+   "aliases": [
+    "Trajan Decius",
+    "Emperor Decius",
+    "Emperor Trajan Decius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Valerian",
+   "aliases": [
+    "Emperor Valerian",
+    "Valerianus",
+    "Valerian I",
+    "Emperor Valerianus",
+    "Emperor Valerian I"
+   ],
+   "tier": 3,
+   "lore": "The first emperor taken prisoner by a foreign enemy, captured by the Persian king Shapur I in 260."
+  },
+  {
+   "answer": "Gallienus",
+   "aliases": [
+    "Emperor Gallienus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aurelian",
+   "aliases": [
+    "Emperor Aurelian",
+    "Restitutor Orbis",
+    "Emperor Restitutor Orbis"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Probus",
+   "aliases": [
+    "Emperor Probus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maximian",
+   "aliases": [
+    "Emperor Maximian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Galerius",
+   "aliases": [
+    "Emperor Galerius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Constantius Chlorus",
+   "aliases": [
+    "Constantius I",
+    "Emperor Constantius Chlorus",
+    "Emperor Constantius I",
+    "Constantius",
+    "Constantius the Pale",
+    "Emperor Constantius",
+    "Emperor Constantius the Pale"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maxentius",
+   "aliases": [
+    "Emperor Maxentius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Licinius",
+   "aliases": [
+    "Emperor Licinius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Constantius II",
+   "aliases": [
+    "Constantius 2",
+    "Constantius the Second",
+    "Emperor Constantius II",
+    "Emperor Constantius 2",
+    "Emperor Constantius the Second"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jovian",
+   "aliases": [
+    "Emperor Jovian",
+    "Jovianus",
+    "Emperor Jovianus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Valentinian I",
+   "aliases": [
+    "Valentinian",
+    "Valentinian 1",
+    "Valentinian the First",
+    "Emperor Valentinian I",
+    "Emperor Valentinian",
+    "Valentinian the Great",
+    "Valentinianus",
+    "Emperor Valentinian 1",
+    "Emperor Valentinian the First",
+    "Emperor Valentinian the Great",
+    "Emperor Valentinianus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Valens",
+   "aliases": [
+    "Emperor Valens"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gratian",
+   "aliases": [
+    "Emperor Gratian",
+    "Gratianus",
+    "Emperor Gratianus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Honorius",
+   "aliases": [
+    "Emperor Honorius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arcadius",
+   "aliases": [
+    "Emperor Arcadius"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Valentinian III",
+   "aliases": [
+    "Valentinian 3",
+    "Valentinian the Third",
+    "Emperor Valentinian III",
+    "Emperor Valentinian 3",
+    "Emperor Valentinian the Third"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Heraclius",
+   "aliases": [
+    "Herakleios",
+    "Emperor Heraclius",
+    "Emperor Herakleios"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Basil II",
+   "aliases": [
+    "Basil the Bulgar-Slayer",
+    "Bulgaroktonos",
+    "Basil 2",
+    "Basil the Second",
+    "Emperor Basil II",
+    "Emperor Basil the Bulgar-Slayer",
+    "Emperor Bulgaroktonos",
+    "Basil",
+    "Emperor Basil 2",
+    "Emperor Basil the Second",
+    "Emperor Basil"
+   ],
+   "tier": 3,
+   "lore": "Called the Bulgar-Slayer. He ruled for almost 50 years, and never married."
+  },
+  {
+   "answer": "Constantine XI",
+   "aliases": [
+    "Constantine XI Palaiologos",
+    "Constantine Palaiologos",
+    "Constantine Dragases",
+    "Constantine 11",
+    "Constantine the Eleventh",
+    "Emperor Constantine XI",
+    "Emperor Constantine XI Palaiologos",
+    "Emperor Constantine Palaiologos",
+    "Emperor Constantine Dragases",
+    "Emperor Constantine 11",
+    "Emperor Constantine the Eleventh"
+   ],
+   "tier": 3,
+   "lore": "The last Roman emperor. He died defending the walls of Constantinople in 1453."
+  },
+  {
+   "answer": "Justinian II",
+   "aliases": [
+    "Justinian 2",
+    "Justinian the Second",
+    "Emperor Justinian II",
+    "Justinian Rhinotmetos",
+    "Rhinotmetos",
+    "Justinian the Slit-nosed",
+    "Emperor Justinian 2",
+    "Emperor Justinian the Second",
+    "Emperor Justinian Rhinotmetos",
+    "Emperor Rhinotmetos",
+    "Emperor Justinian the Slit-nosed"
+   ],
+   "tier": 3,
+   "lore": "Had his nose cut off when deposed, then came back and ruled again, some say with a golden one."
+  },
+  {
+   "answer": "Irene",
+   "aliases": [
+    "Irene of Athens",
+    "Empress Irene",
+    "Empress Irene of Athens"
+   ],
+   "tier": 3,
+   "lore": "The first woman to rule the empire in her own right, from 797."
+  },
+  {
+   "answer": "Alexios I Komnenos",
+   "aliases": [
+    "Alexius I Comnenus",
+    "Alexios Komnenos",
+    "Alexios 1",
+    "Alexios the First",
+    "Alexios I",
+    "Alexios 1 Komnenos",
+    "Emperor Alexios I Komnenos",
+    "Emperor Alexius I Comnenus",
+    "Emperor Alexios Komnenos",
+    "Emperor Alexios I",
+    "Alexios",
+    "Alexius",
+    "Alexius Comnenus",
+    "Alexius I",
+    "Alexios Comnenus",
+    "Emperor Alexios 1",
+    "Emperor Alexios the First",
+    "Emperor Alexios 1 Komnenos",
+    "Emperor Alexios",
+    "Emperor Alexius",
+    "Emperor Alexius Comnenus",
+    "Emperor Alexius I",
+    "Emperor Alexios Comnenus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Theodosius II",
+   "aliases": [
+    "Theodosius 2",
+    "Theodosius the Second",
+    "Emperor Theodosius II",
+    "Theodosius the Younger",
+    "Theodosius the Calligrapher",
+    "Emperor Theodosius 2",
+    "Emperor Theodosius the Second",
+    "Emperor Theodosius the Younger",
+    "Emperor Theodosius the Calligrapher"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Majorian",
+   "aliases": [
+    "Emperor Majorian",
+    "Majorianus",
+    "Emperor Majorianus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Julius Nepos",
+   "aliases": [
+    "Nepos",
+    "Emperor Julius Nepos",
+    "Emperor Nepos"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gordian I",
+   "aliases": [
+    "Gordian 1",
+    "Gordian the First",
+    "Emperor Gordian I",
+    "Gordian the Elder",
+    "Emperor Gordian 1",
+    "Emperor Gordian the First",
+    "Emperor Gordian the Elder"
+   ],
+   "tier": 4,
+   "lore": "Ruled for about three weeks, at around eighty years old."
+  },
+  {
+   "answer": "Gordian II",
+   "aliases": [
+    "Gordian 2",
+    "Gordian the Second",
+    "Emperor Gordian II",
+    "Gordian the Younger",
+    "Emperor Gordian 2",
+    "Emperor Gordian the Second",
+    "Emperor Gordian the Younger"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gordian III",
+   "aliases": [
+    "Gordian 3",
+    "Gordian the Third",
+    "Emperor Gordian III",
+    "Gordian",
+    "Gordianus",
+    "Emperor Gordian 3",
+    "Emperor Gordian the Third",
+    "Emperor Gordian",
+    "Emperor Gordianus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pupienus",
+   "aliases": [
+    "Emperor Pupienus",
+    "Pupienus Maximus",
+    "Emperor Pupienus Maximus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Balbinus",
+   "aliases": [
+    "Emperor Balbinus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Trebonianus Gallus",
+   "aliases": [
+    "Gallus",
+    "Emperor Trebonianus Gallus",
+    "Emperor Gallus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aemilian",
+   "aliases": [
+    "Emperor Aemilian",
+    "Aemilianus",
+    "Emperor Aemilianus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Claudius Gothicus",
+   "aliases": [
+    "Claudius II",
+    "Emperor Claudius Gothicus",
+    "Emperor Claudius II"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quintillus",
+   "aliases": [
+    "Emperor Quintillus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tacitus",
+   "aliases": [
+    "Emperor Tacitus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Florianus",
+   "aliases": [
+    "Emperor Florianus",
+    "Florian",
+    "Emperor Florian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Carus",
+   "aliases": [
+    "Emperor Carus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Carinus",
+   "aliases": [
+    "Emperor Carinus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Numerian",
+   "aliases": [
+    "Emperor Numerian",
+    "Numerianus",
+    "Emperor Numerianus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Severus II",
+   "aliases": [
+    "Severus 2",
+    "Severus the Second",
+    "Emperor Severus II",
+    "Emperor Severus 2",
+    "Emperor Severus the Second"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Maximinus Daza",
+   "aliases": [
+    "Maximinus II",
+    "Maximinus Daia",
+    "Emperor Maximinus Daza",
+    "Emperor Maximinus II",
+    "Emperor Maximinus Daia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constantine II",
+   "aliases": [
+    "Constantine 2",
+    "Constantine the Second",
+    "Emperor Constantine II",
+    "Emperor Constantine 2",
+    "Emperor Constantine the Second"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constans",
+   "aliases": [
+    "Constans I",
+    "Constans 1",
+    "Emperor Constans",
+    "Emperor Constans I",
+    "Emperor Constans 1"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Magnentius",
+   "aliases": [
+    "Emperor Magnentius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vetranio",
+   "aliases": [
+    "Emperor Vetranio"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Valentinian II",
+   "aliases": [
+    "Valentinian 2",
+    "Valentinian the Second",
+    "Emperor Valentinian II",
+    "Emperor Valentinian 2",
+    "Emperor Valentinian the Second"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Magnus Maximus",
+   "aliases": [
+    "Emperor Magnus Maximus",
+    "Maximus",
+    "Macsen Wledig",
+    "Macsen",
+    "Emperor Maximus",
+    "Emperor Macsen Wledig",
+    "Emperor Macsen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eugenius",
+   "aliases": [
+    "Emperor Eugenius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constantius III",
+   "aliases": [
+    "Constantius 3",
+    "Constantius the Third",
+    "Emperor Constantius III",
+    "Emperor Constantius 3",
+    "Emperor Constantius the Third"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Petronius Maximus",
+   "aliases": [
+    "Emperor Petronius Maximus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Avitus",
+   "aliases": [
+    "Emperor Avitus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Libius Severus",
+   "aliases": [
+    "Emperor Libius Severus",
+    "Severus III",
+    "Emperor Severus III"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anthemius",
+   "aliases": [
+    "Emperor Anthemius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Olybrius",
+   "aliases": [
+    "Emperor Olybrius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Glycerius",
+   "aliases": [
+    "Emperor Glycerius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Postumus",
+   "aliases": [
+    "Emperor Postumus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tetricus I",
+   "aliases": [
+    "Tetricus",
+    "Tetricus 1",
+    "Tetricus the First",
+    "Emperor Tetricus I",
+    "Emperor Tetricus",
+    "Emperor Tetricus 1",
+    "Emperor Tetricus the First"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Carausius",
+   "aliases": [
+    "Emperor Carausius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Allectus",
+   "aliases": [
+    "Emperor Allectus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Marcian",
+   "aliases": [
+    "Marcianus",
+    "Emperor Marcian",
+    "Emperor Marcianus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Leo I",
+   "aliases": [
+    "Leo 1",
+    "Leo the First",
+    "Emperor Leo I",
+    "Leo the Thracian",
+    "Leo the Great",
+    "Leo the Butcher",
+    "Emperor Leo 1",
+    "Emperor Leo the First",
+    "Emperor Leo the Thracian",
+    "Emperor Leo the Great",
+    "Emperor Leo the Butcher"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zeno",
+   "aliases": [
+    "Zenon",
+    "Zeno the Isaurian",
+    "Emperor Zeno",
+    "Emperor Zenon",
+    "Emperor Zeno the Isaurian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anastasius I",
+   "aliases": [
+    "Anastasius",
+    "Anastasius 1",
+    "Anastasius the First",
+    "Emperor Anastasius I",
+    "Emperor Anastasius",
+    "Anastasius Dicorus",
+    "Emperor Anastasius 1",
+    "Emperor Anastasius the First",
+    "Emperor Anastasius Dicorus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Justin I",
+   "aliases": [
+    "Justin",
+    "Justin 1",
+    "Justin the First",
+    "Emperor Justin I",
+    "Emperor Justin",
+    "Emperor Justin 1",
+    "Emperor Justin the First"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Justin II",
+   "aliases": [
+    "Justin 2",
+    "Justin the Second",
+    "Emperor Justin II",
+    "Emperor Justin 2",
+    "Emperor Justin the Second"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Maurice",
+   "aliases": [
+    "Maurikios",
+    "Emperor Maurice",
+    "Emperor Maurikios",
+    "Mauricius",
+    "Emperor Mauricius"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Phocas",
+   "aliases": [
+    "Phokas",
+    "Emperor Phocas",
+    "Emperor Phokas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constans II",
+   "aliases": [
+    "Constans 2",
+    "Constans the Second",
+    "Emperor Constans II",
+    "Constans Pogonatus",
+    "Constans the Bearded",
+    "Emperor Constans 2",
+    "Emperor Constans the Second",
+    "Emperor Constans Pogonatus",
+    "Emperor Constans the Bearded"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Leo III",
+   "aliases": [
+    "Leo the Isaurian",
+    "Leo 3",
+    "Leo the Third",
+    "Emperor Leo III",
+    "Emperor Leo the Isaurian",
+    "Leo",
+    "Leo the Syrian",
+    "Emperor Leo 3",
+    "Emperor Leo the Third",
+    "Emperor Leo",
+    "Emperor Leo the Syrian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constantine V",
+   "aliases": [
+    "Constantine 5",
+    "Constantine the Fifth",
+    "Emperor Constantine V",
+    "Constantine Copronymus",
+    "Copronymus",
+    "Kopronymos",
+    "Constantine Kopronymos",
+    "Emperor Constantine 5",
+    "Emperor Constantine the Fifth",
+    "Emperor Constantine Copronymus",
+    "Emperor Copronymus",
+    "Emperor Kopronymos",
+    "Emperor Constantine Kopronymos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Basil I",
+   "aliases": [
+    "Basil the Macedonian",
+    "Basil 1",
+    "Basil the First",
+    "Emperor Basil I",
+    "Emperor Basil the Macedonian",
+    "Emperor Basil 1",
+    "Emperor Basil the First"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Leo VI",
+   "aliases": [
+    "Leo the Wise",
+    "Leo 6",
+    "Leo the Sixth",
+    "Emperor Leo VI",
+    "Emperor Leo the Wise",
+    "Leo the Philosopher",
+    "Emperor Leo 6",
+    "Emperor Leo the Sixth",
+    "Emperor Leo the Philosopher"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nikephoros II Phokas",
+   "aliases": [
+    "Nicephorus II Phocas",
+    "Nikephoros Phokas",
+    "Nikephoros 2",
+    "Nikephoros the Second",
+    "Nikephoros II",
+    "Nikephoros 2 Phokas",
+    "Emperor Nikephoros II Phokas",
+    "Emperor Nicephorus II Phocas",
+    "Emperor Nikephoros Phokas",
+    "Emperor Nikephoros II",
+    "Nikephoros",
+    "Nicephorus",
+    "Nicephorus Phocas",
+    "Emperor Nikephoros 2",
+    "Emperor Nikephoros the Second",
+    "Emperor Nikephoros 2 Phokas",
+    "Emperor Nikephoros",
+    "Emperor Nicephorus",
+    "Emperor Nicephorus Phocas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John I Tzimiskes",
+   "aliases": [
+    "John Tzimiskes",
+    "John 1",
+    "John the First",
+    "John I",
+    "John 1 Tzimiskes",
+    "Emperor John I Tzimiskes",
+    "Emperor John Tzimiskes",
+    "Emperor John I",
+    "John",
+    "John Tzimisces",
+    "Emperor John 1",
+    "Emperor John the First",
+    "Emperor John 1 Tzimiskes",
+    "Emperor John",
+    "Emperor John Tzimisces"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Romanos IV Diogenes",
+   "aliases": [
+    "Romanus IV",
+    "Romanos Diogenes",
+    "Romanos 4",
+    "Romanos the Fourth",
+    "Romanos IV",
+    "Romanos 4 Diogenes",
+    "Emperor Romanos IV Diogenes",
+    "Emperor Romanus IV",
+    "Emperor Romanos Diogenes",
+    "Emperor Romanos IV",
+    "Romanos",
+    "Romanus",
+    "Romanus Diogenes",
+    "Emperor Romanos 4",
+    "Emperor Romanos the Fourth",
+    "Emperor Romanos 4 Diogenes",
+    "Emperor Romanos",
+    "Emperor Romanus",
+    "Emperor Romanus Diogenes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John II Komnenos",
+   "aliases": [
+    "John 2",
+    "John the Second",
+    "John II",
+    "John 2 Komnenos",
+    "Emperor John II Komnenos",
+    "Emperor John II",
+    "John Komnenos",
+    "John Comnenus",
+    "John the Beautiful",
+    "Kaloioannes",
+    "Emperor John 2",
+    "Emperor John the Second",
+    "Emperor John 2 Komnenos",
+    "Emperor John Komnenos",
+    "Emperor John Comnenus",
+    "Emperor John the Beautiful",
+    "Emperor Kaloioannes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Manuel I Komnenos",
+   "aliases": [
+    "Manuel Komnenos",
+    "Manuel 1",
+    "Manuel the First",
+    "Manuel I",
+    "Manuel 1 Komnenos",
+    "Emperor Manuel I Komnenos",
+    "Emperor Manuel Komnenos",
+    "Emperor Manuel I",
+    "Manuel",
+    "Manuel Comnenus",
+    "Manuel the Great",
+    "Emperor Manuel 1",
+    "Emperor Manuel the First",
+    "Emperor Manuel 1 Komnenos",
+    "Emperor Manuel",
+    "Emperor Manuel Comnenus",
+    "Emperor Manuel the Great"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Andronikos I Komnenos",
+   "aliases": [
+    "Andronicus I",
+    "Andronikos 1",
+    "Andronikos the First",
+    "Andronikos I",
+    "Andronikos 1 Komnenos",
+    "Emperor Andronikos I Komnenos",
+    "Emperor Andronicus I",
+    "Emperor Andronikos I",
+    "Andronikos",
+    "Andronicus",
+    "Andronikos Komnenos",
+    "Andronicus Comnenus",
+    "Emperor Andronikos 1",
+    "Emperor Andronikos the First",
+    "Emperor Andronikos 1 Komnenos",
+    "Emperor Andronikos",
+    "Emperor Andronicus",
+    "Emperor Andronikos Komnenos",
+    "Emperor Andronicus Comnenus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Isaac II Angelos",
+   "aliases": [
+    "Isaac Angelos",
+    "Isaac 2",
+    "Isaac the Second",
+    "Isaac II",
+    "Isaac 2 Angelos",
+    "Emperor Isaac II Angelos",
+    "Emperor Isaac Angelos",
+    "Emperor Isaac II",
+    "Isaac",
+    "Isaac Angelus",
+    "Emperor Isaac 2",
+    "Emperor Isaac the Second",
+    "Emperor Isaac 2 Angelos",
+    "Emperor Isaac",
+    "Emperor Isaac Angelus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Michael VIII Palaiologos",
+   "aliases": [
+    "Michael Palaiologos",
+    "Michael 8",
+    "Michael the Eighth",
+    "Michael VIII",
+    "Michael 8 Palaiologos",
+    "Emperor Michael VIII Palaiologos",
+    "Emperor Michael Palaiologos",
+    "Emperor Michael VIII",
+    "Michael",
+    "Michael Palaeologus",
+    "Emperor Michael 8",
+    "Emperor Michael the Eighth",
+    "Emperor Michael 8 Palaiologos",
+    "Emperor Michael",
+    "Emperor Michael Palaeologus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Manuel II Palaiologos",
+   "aliases": [
+    "Manuel 2",
+    "Manuel the Second",
+    "Manuel II",
+    "Manuel 2 Palaiologos",
+    "Emperor Manuel II Palaiologos",
+    "Emperor Manuel II",
+    "Manuel Palaiologos",
+    "Manuel Palaeologus",
+    "Emperor Manuel 2",
+    "Emperor Manuel the Second",
+    "Emperor Manuel 2 Palaiologos",
+    "Emperor Manuel Palaiologos",
+    "Emperor Manuel Palaeologus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John VIII Palaiologos",
+   "aliases": [
+    "John 8",
+    "John the Eighth",
+    "John VIII",
+    "John 8 Palaiologos",
+    "Emperor John VIII Palaiologos",
+    "Emperor John VIII",
+    "John Palaiologos",
+    "John Palaeologus",
+    "Emperor John 8",
+    "Emperor John the Eighth",
+    "Emperor John 8 Palaiologos",
+    "Emperor John Palaiologos",
+    "Emperor John Palaeologus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zoe",
+   "aliases": [
+    "Empress Zoe",
+    "Zoe Porphyrogenita"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Theodora",
+   "aliases": [
+    "Empress Theodora",
+    "Theodora Porphyrogenita"
+   ],
+   "tier": 4,
+   "lore": "Justinian's formidable wife was an empress, not a ruler. A later Theodora did rule alone, in 1055."
+  },
+  {
+   "answer": "Constantine VII",
+   "aliases": [
+    "Constantine VII Porphyrogennetos",
+    "Constantine Porphyrogenitus",
+    "Constantine 7",
+    "Constantine the Seventh",
+    "Emperor Constantine VII",
+    "Emperor Constantine VII Porphyrogennetos",
+    "Emperor Constantine Porphyrogenitus",
+    "Emperor Constantine 7",
+    "Emperor Constantine the Seventh"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Romanos I Lekapenos",
+   "aliases": [
+    "Romanus Lecapenus",
+    "Romanos 1",
+    "Romanos the First",
+    "Romanos I",
+    "Romanos 1 Lekapenos",
+    "Emperor Romanos I Lekapenos",
+    "Emperor Romanus Lecapenus",
+    "Emperor Romanos I",
+    "Romanos Lekapenos",
+    "Romanus I",
+    "Emperor Romanos 1",
+    "Emperor Romanos the First",
+    "Emperor Romanos 1 Lekapenos",
+    "Emperor Romanos Lekapenos",
+    "Emperor Romanus I"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Michael III",
+   "aliases": [
+    "Michael 3",
+    "Michael the Third",
+    "Emperor Michael III",
+    "Michael the Drunkard",
+    "Michael the Sot",
+    "Emperor Michael 3",
+    "Emperor Michael the Third",
+    "Emperor Michael the Drunkard",
+    "Emperor Michael the Sot"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Theophilos",
+   "aliases": [
+    "Emperor Theophilos",
+    "Theophilus",
+    "Emperor Theophilus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nikephoros I",
+   "aliases": [
+    "Nikephoros 1",
+    "Nikephoros the First",
+    "Emperor Nikephoros I",
+    "Nikephoros the Logothete",
+    "Nicephorus I",
+    "Emperor Nikephoros 1",
+    "Emperor Nikephoros the First",
+    "Emperor Nikephoros the Logothete",
+    "Emperor Nicephorus I"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Michael IV",
+   "aliases": [
+    "Michael 4",
+    "Michael the Fourth",
+    "Emperor Michael IV",
+    "Michael the Paphlagonian",
+    "Emperor Michael 4",
+    "Emperor Michael the Fourth",
+    "Emperor Michael the Paphlagonian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Constantine IX Monomachos",
+   "aliases": [
+    "Constantine Monomachos",
+    "Constantine 9",
+    "Constantine the Ninth",
+    "Constantine IX",
+    "Constantine 9 Monomachos",
+    "Emperor Constantine IX Monomachos",
+    "Emperor Constantine Monomachos",
+    "Emperor Constantine IX",
+    "Emperor Constantine 9",
+    "Emperor Constantine the Ninth",
+    "Emperor Constantine 9 Monomachos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Isaac I Komnenos",
+   "aliases": [
+    "Isaac 1",
+    "Isaac the First",
+    "Isaac I",
+    "Isaac 1 Komnenos",
+    "Emperor Isaac I Komnenos",
+    "Emperor Isaac I",
+    "Isaac Komnenos",
+    "Isaac Comnenus",
+    "Emperor Isaac 1",
+    "Emperor Isaac the First",
+    "Emperor Isaac 1 Komnenos",
+    "Emperor Isaac Komnenos",
+    "Emperor Isaac Comnenus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alexios III Angelos",
+   "aliases": [
+    "Alexios 3",
+    "Alexios the Third",
+    "Alexios III",
+    "Alexios 3 Angelos",
+    "Emperor Alexios III Angelos",
+    "Emperor Alexios III",
+    "Alexios Angelos",
+    "Alexius III",
+    "Alexius Angelus",
+    "Emperor Alexios 3",
+    "Emperor Alexios the Third",
+    "Emperor Alexios 3 Angelos",
+    "Emperor Alexios Angelos",
+    "Emperor Alexius III",
+    "Emperor Alexius Angelus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alexios IV Angelos",
+   "aliases": [
+    "Alexios 4",
+    "Alexios the Fourth",
+    "Alexios IV",
+    "Alexios 4 Angelos",
+    "Emperor Alexios IV Angelos",
+    "Emperor Alexios IV",
+    "Alexius IV",
+    "Emperor Alexios 4",
+    "Emperor Alexios the Fourth",
+    "Emperor Alexios 4 Angelos",
+    "Emperor Alexius IV"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alexios V Doukas",
+   "aliases": [
+    "Mourtzouphlos",
+    "Alexios 5",
+    "Alexios the Fifth",
+    "Alexios V",
+    "Alexios 5 Doukas",
+    "Emperor Alexios V Doukas",
+    "Emperor Mourtzouphlos",
+    "Emperor Alexios V",
+    "Murtzuphlus",
+    "Alexius V",
+    "Alexios Doukas",
+    "Emperor Alexios 5",
+    "Emperor Alexios the Fifth",
+    "Emperor Alexios 5 Doukas",
+    "Emperor Murtzuphlus",
+    "Emperor Alexius V",
+    "Emperor Alexios Doukas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John III Vatatzes",
+   "aliases": [
+    "John Vatatzes",
+    "John 3",
+    "John the Third",
+    "John III",
+    "John 3 Vatatzes",
+    "Emperor John III Vatatzes",
+    "Emperor John Vatatzes",
+    "Emperor John III",
+    "John Doukas Vatatzes",
+    "Emperor John 3",
+    "Emperor John the Third",
+    "Emperor John 3 Vatatzes",
+    "Emperor John Doukas Vatatzes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John VI Kantakouzenos",
+   "aliases": [
+    "John Kantakouzenos",
+    "John Cantacuzene",
+    "John 6",
+    "John the Sixth",
+    "John VI",
+    "John 6 Kantakouzenos",
+    "Emperor John VI Kantakouzenos",
+    "Emperor John Kantakouzenos",
+    "Emperor John Cantacuzene",
+    "Emperor John VI",
+    "Emperor John 6",
+    "Emperor John the Sixth",
+    "Emperor John 6 Kantakouzenos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John V Palaiologos",
+   "aliases": [
+    "John 5",
+    "John the Fifth",
+    "John V",
+    "John 5 Palaiologos",
+    "Emperor John V Palaiologos",
+    "Emperor John V",
+    "Emperor John 5",
+    "Emperor John the Fifth",
+    "Emperor John 5 Palaiologos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Clodius Albinus",
+   "aliases": [
+    "Albinus",
+    "Emperor Clodius Albinus",
+    "Emperor Albinus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pescennius Niger",
+   "aliases": [
+    "Niger",
+    "Emperor Pescennius Niger",
+    "Emperor Niger"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Diadumenian",
+   "aliases": [
+    "Diadumenianus",
+    "Emperor Diadumenian",
+    "Emperor Diadumenianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herennius Etruscus",
+   "aliases": [
+    "Emperor Herennius Etruscus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hostilian",
+   "aliases": [
+    "Hostilianus",
+    "Emperor Hostilian",
+    "Emperor Hostilianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Volusianus",
+   "aliases": [
+    "Volusian",
+    "Emperor Volusianus",
+    "Emperor Volusian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saloninus",
+   "aliases": [
+    "Emperor Saloninus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Victorinus",
+   "aliases": [
+    "Emperor Victorinus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vaballathus",
+   "aliases": [
+    "Emperor Vaballathus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Philip II",
+   "aliases": [
+    "Philip 2",
+    "Philip the Second",
+    "Emperor Philip II",
+    "Philip the Younger",
+    "Emperor Philip 2",
+    "Emperor Philip the Second",
+    "Emperor Philip the Younger"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Joannes",
+   "aliases": [
+    "Emperor Joannes",
+    "John the Usurper",
+    "Ioannes",
+    "Johannes",
+    "Emperor John the Usurper",
+    "Emperor Ioannes",
+    "Emperor Johannes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leo II",
+   "aliases": [
+    "Leo 2",
+    "Leo the Second",
+    "Emperor Leo II",
+    "Leo the Younger",
+    "Emperor Leo 2",
+    "Emperor Leo the Second",
+    "Emperor Leo the Younger"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Basiliscus",
+   "aliases": [
+    "Emperor Basiliscus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tiberius II Constantine",
+   "aliases": [
+    "Tiberius 2",
+    "Tiberius the Second",
+    "Tiberius II",
+    "Tiberius 2 Constantine",
+    "Emperor Tiberius II Constantine",
+    "Emperor Tiberius II",
+    "Emperor Tiberius 2",
+    "Emperor Tiberius the Second",
+    "Emperor Tiberius 2 Constantine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Constantine III",
+   "aliases": [
+    "Constantine 3",
+    "Constantine the Third",
+    "Emperor Constantine III",
+    "Heraclius Constantine",
+    "Emperor Constantine 3",
+    "Emperor Constantine the Third",
+    "Emperor Heraclius Constantine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Constantine IV",
+   "aliases": [
+    "Constantine 4",
+    "Constantine the Fourth",
+    "Emperor Constantine IV",
+    "Constantine Pogonatus",
+    "Constantine the Bearded",
+    "Emperor Constantine 4",
+    "Emperor Constantine the Fourth",
+    "Emperor Constantine Pogonatus",
+    "Emperor Constantine the Bearded"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leontios",
+   "aliases": [
+    "Emperor Leontios",
+    "Leontius",
+    "Emperor Leontius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tiberios III",
+   "aliases": [
+    "Tiberius III",
+    "Tiberios 3",
+    "Tiberios the Third",
+    "Emperor Tiberios III",
+    "Emperor Tiberius III",
+    "Apsimar",
+    "Emperor Tiberios 3",
+    "Emperor Tiberios the Third",
+    "Emperor Apsimar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Philippikos",
+   "aliases": [
+    "Emperor Philippikos",
+    "Philippicus",
+    "Bardanes",
+    "Emperor Philippicus",
+    "Emperor Bardanes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anastasios II",
+   "aliases": [
+    "Anastasios 2",
+    "Anastasios the Second",
+    "Emperor Anastasios II",
+    "Anastasius II",
+    "Emperor Anastasios 2",
+    "Emperor Anastasios the Second",
+    "Emperor Anastasius II"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Theodosios III",
+   "aliases": [
+    "Theodosius III",
+    "Theodosios 3",
+    "Theodosios the Third",
+    "Emperor Theodosios III",
+    "Emperor Theodosius III",
+    "Emperor Theodosios 3",
+    "Emperor Theodosios the Third"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leo IV",
+   "aliases": [
+    "Leo 4",
+    "Leo the Fourth",
+    "Emperor Leo IV",
+    "Leo the Khazar",
+    "Emperor Leo 4",
+    "Emperor Leo the Fourth",
+    "Emperor Leo the Khazar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Constantine VI",
+   "aliases": [
+    "Constantine 6",
+    "Constantine the Sixth",
+    "Emperor Constantine VI",
+    "Emperor Constantine 6",
+    "Emperor Constantine the Sixth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Staurakios",
+   "aliases": [
+    "Emperor Staurakios",
+    "Stauracius",
+    "Emperor Stauracius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael I Rangabe",
+   "aliases": [
+    "Michael Rangabe",
+    "Michael 1",
+    "Michael the First",
+    "Michael I",
+    "Michael 1 Rangabe",
+    "Emperor Michael I Rangabe",
+    "Emperor Michael Rangabe",
+    "Emperor Michael I",
+    "Michael Rhangabe",
+    "Emperor Michael 1",
+    "Emperor Michael the First",
+    "Emperor Michael 1 Rangabe",
+    "Emperor Michael Rhangabe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leo V",
+   "aliases": [
+    "Leo 5",
+    "Leo the Fifth",
+    "Emperor Leo V",
+    "Leo the Armenian",
+    "Emperor Leo 5",
+    "Emperor Leo the Fifth",
+    "Emperor Leo the Armenian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael II",
+   "aliases": [
+    "Michael 2",
+    "Michael the Second",
+    "Emperor Michael II",
+    "Michael the Amorian",
+    "Michael the Stammerer",
+    "Emperor Michael 2",
+    "Emperor Michael the Second",
+    "Emperor Michael the Amorian",
+    "Emperor Michael the Stammerer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Romanos II",
+   "aliases": [
+    "Romanos 2",
+    "Romanos the Second",
+    "Emperor Romanos II",
+    "Romanus II",
+    "Emperor Romanos 2",
+    "Emperor Romanos the Second",
+    "Emperor Romanus II"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Constantine VIII",
+   "aliases": [
+    "Constantine 8",
+    "Constantine the Eighth",
+    "Emperor Constantine VIII",
+    "Emperor Constantine 8",
+    "Emperor Constantine the Eighth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Romanos III Argyros",
+   "aliases": [
+    "Romanos 3",
+    "Romanos the Third",
+    "Romanos III",
+    "Romanos 3 Argyros",
+    "Emperor Romanos III Argyros",
+    "Emperor Romanos III",
+    "Romanos Argyros",
+    "Romanus Argyrus",
+    "Emperor Romanos 3",
+    "Emperor Romanos the Third",
+    "Emperor Romanos 3 Argyros",
+    "Emperor Romanos Argyros",
+    "Emperor Romanus Argyrus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael V",
+   "aliases": [
+    "Michael 5",
+    "Michael the Fifth",
+    "Emperor Michael V",
+    "Michael Kalaphates",
+    "Michael the Caulker",
+    "Emperor Michael 5",
+    "Emperor Michael the Fifth",
+    "Emperor Michael Kalaphates",
+    "Emperor Michael the Caulker"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael VI",
+   "aliases": [
+    "Michael 6",
+    "Michael the Sixth",
+    "Emperor Michael VI",
+    "Michael Bringas",
+    "Michael Stratiotikos",
+    "Michael the Old",
+    "Emperor Michael 6",
+    "Emperor Michael the Sixth",
+    "Emperor Michael Bringas",
+    "Emperor Michael Stratiotikos",
+    "Emperor Michael the Old"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Constantine X Doukas",
+   "aliases": [
+    "Constantine Doukas",
+    "Constantine 10",
+    "Constantine the Tenth",
+    "Constantine X",
+    "Constantine 10 Doukas",
+    "Emperor Constantine X Doukas",
+    "Emperor Constantine Doukas",
+    "Emperor Constantine X",
+    "Emperor Constantine 10",
+    "Emperor Constantine the Tenth",
+    "Emperor Constantine 10 Doukas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael VII Doukas",
+   "aliases": [
+    "Michael Doukas",
+    "Michael 7",
+    "Michael the Seventh",
+    "Michael VII",
+    "Michael 7 Doukas",
+    "Emperor Michael VII Doukas",
+    "Emperor Michael Doukas",
+    "Emperor Michael VII",
+    "Michael Parapinakes",
+    "Emperor Michael 7",
+    "Emperor Michael the Seventh",
+    "Emperor Michael 7 Doukas",
+    "Emperor Michael Parapinakes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nikephoros III",
+   "aliases": [
+    "Nikephoros 3",
+    "Nikephoros the Third",
+    "Emperor Nikephoros III",
+    "Nikephoros Botaneiates",
+    "Nicephorus Botaniates",
+    "Emperor Nikephoros 3",
+    "Emperor Nikephoros the Third",
+    "Emperor Nikephoros Botaneiates",
+    "Emperor Nicephorus Botaniates"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alexios II Komnenos",
+   "aliases": [
+    "Alexios 2",
+    "Alexios the Second",
+    "Alexios II",
+    "Alexios 2 Komnenos",
+    "Emperor Alexios II Komnenos",
+    "Emperor Alexios II",
+    "Alexius II",
+    "Emperor Alexios 2",
+    "Emperor Alexios the Second",
+    "Emperor Alexios 2 Komnenos",
+    "Emperor Alexius II"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Theodore I Laskaris",
+   "aliases": [
+    "Theodore Laskaris",
+    "Theodore 1",
+    "Theodore the First",
+    "Theodore I",
+    "Theodore 1 Laskaris",
+    "Emperor Theodore I Laskaris",
+    "Emperor Theodore Laskaris",
+    "Emperor Theodore I",
+    "Theodore",
+    "Theodore Lascaris",
+    "Emperor Theodore 1",
+    "Emperor Theodore the First",
+    "Emperor Theodore 1 Laskaris",
+    "Emperor Theodore",
+    "Emperor Theodore Lascaris"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Theodore II Laskaris",
+   "aliases": [
+    "Theodore 2",
+    "Theodore the Second",
+    "Theodore II",
+    "Theodore 2 Laskaris",
+    "Emperor Theodore II Laskaris",
+    "Emperor Theodore II",
+    "Emperor Theodore 2",
+    "Emperor Theodore the Second",
+    "Emperor Theodore 2 Laskaris"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John IV Laskaris",
+   "aliases": [
+    "John 4",
+    "John the Fourth",
+    "John IV",
+    "John 4 Laskaris",
+    "Emperor John IV Laskaris",
+    "Emperor John IV",
+    "Emperor John 4",
+    "Emperor John the Fourth",
+    "Emperor John 4 Laskaris"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Andronikos II Palaiologos",
+   "aliases": [
+    "Andronikos 2",
+    "Andronikos the Second",
+    "Andronikos II",
+    "Andronikos 2 Palaiologos",
+    "Emperor Andronikos II Palaiologos",
+    "Emperor Andronikos II",
+    "Andronikos the Elder",
+    "Andronicus II",
+    "Emperor Andronikos 2",
+    "Emperor Andronikos the Second",
+    "Emperor Andronikos 2 Palaiologos",
+    "Emperor Andronikos the Elder",
+    "Emperor Andronicus II"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Andronikos III Palaiologos",
+   "aliases": [
+    "Andronikos 3",
+    "Andronikos the Third",
+    "Andronikos III",
+    "Andronikos 3 Palaiologos",
+    "Emperor Andronikos III Palaiologos",
+    "Emperor Andronikos III",
+    "Andronikos the Younger",
+    "Andronicus III",
+    "Emperor Andronikos 3",
+    "Emperor Andronikos the Third",
+    "Emperor Andronikos 3 Palaiologos",
+    "Emperor Andronikos the Younger",
+    "Emperor Andronicus III"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Andronikos IV Palaiologos",
+   "aliases": [
+    "Andronikos 4",
+    "Andronikos the Fourth",
+    "Andronikos IV",
+    "Andronikos 4 Palaiologos",
+    "Emperor Andronikos IV Palaiologos",
+    "Emperor Andronikos IV",
+    "Andronicus IV",
+    "Emperor Andronikos 4",
+    "Emperor Andronikos the Fourth",
+    "Emperor Andronikos 4 Palaiologos",
+    "Emperor Andronicus IV"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John VII Palaiologos",
+   "aliases": [
+    "John 7",
+    "John the Seventh",
+    "John VII",
+    "John 7 Palaiologos",
+    "Emperor John VII Palaiologos",
+    "Emperor John VII",
+    "Emperor John 7",
+    "Emperor John the Seventh",
+    "Emperor John 7 Palaiologos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tetricus II",
+   "aliases": [
+    "Tetricus 2",
+    "Tetricus the Second",
+    "Emperor Tetricus II",
+    "Emperor Tetricus 2",
+    "Emperor Tetricus the Second"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alexander",
+   "aliases": [
+    "Alexander of Byzantium",
+    "Emperor Alexander",
+    "Emperor Alexander of Byzantium"
+   ],
+   "tier": 5,
+   "lore": "Not the Great one: a Byzantine emperor who ruled alone from 912 and is said to have died of exhaustion after a game of polo."
+  },
+  {
+   "answer": "Marius",
+   "aliases": [
+    "Marcus Aurelius Marius",
+    "Emperor Marius",
+    "Emperor Marcus Aurelius Marius"
+   ],
+   "tier": 5,
+   "lore": "A Gallic emperor of 269. Legend gives him a reign of two days; his coins suggest a few months."
+  },
+  {
+   "answer": "Macrianus",
+   "aliases": [
+    "Macrianus Minor",
+    "Emperor Macrianus",
+    "Emperor Macrianus Minor"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aureolus",
+   "aliases": [
+    "Emperor Aureolus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Procopius",
+   "aliases": [
+    "Emperor Procopius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Heraklonas",
+   "aliases": [
+    "Heraclonas",
+    "Emperor Heraklonas",
+    "Emperor Heraclonas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Artabasdos",
+   "aliases": [
+    "Artabasdus",
+    "Emperor Artabasdos",
+    "Emperor Artabasdus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael IX Palaiologos",
+   "aliases": [
+    "Michael IX",
+    "Michael 9",
+    "Michael the Ninth",
+    "Emperor Michael IX Palaiologos",
+    "Emperor Michael IX",
+    "Emperor Michael 9",
+    "Emperor Michael the Ninth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Priscus Attalus",
+   "aliases": [
+    "Attalus",
+    "Emperor Priscus Attalus",
+    "Emperor Attalus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Laelianus",
+   "aliases": [
+    "Ulpius Cornelius Laelianus",
+    "Emperor Laelianus",
+    "Emperor Ulpius Cornelius Laelianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Avidius Cassius",
+   "aliases": [
+    "Emperor Avidius Cassius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uranius Antoninus",
+   "aliases": [
+    "Emperor Uranius Antoninus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jotapianus",
+   "aliases": [
+    "Iotapianus",
+    "Emperor Jotapianus",
+    "Emperor Iotapianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pacatianus",
+   "aliases": [
+    "Emperor Pacatianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ingenuus",
+   "aliases": [
+    "Emperor Ingenuus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Regalianus",
+   "aliases": [
+    "Emperor Regalianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quietus",
+   "aliases": [
+    "Emperor Quietus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saturninus",
+   "aliases": [
+    "Emperor Saturninus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proculus",
+   "aliases": [
+    "Emperor Proculus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bonosus",
+   "aliases": [
+    "Emperor Bonosus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silbannacus",
+   "aliases": [
+    "Emperor Silbannacus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Valerius Valens",
+   "aliases": [
+    "Emperor Valerius Valens"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Martinian",
+   "aliases": [
+    "Martinianus",
+    "Emperor Martinian",
+    "Emperor Martinianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Domitius Alexander",
+   "aliases": [
+    "Emperor Domitius Alexander"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nepotianus",
+   "aliases": [
+    "Emperor Nepotianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silvanus",
+   "aliases": [
+    "Emperor Silvanus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Flavius Victor",
+   "aliases": [
+    "Emperor Flavius Victor"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jovinus",
+   "aliases": [
+    "Emperor Jovinus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sebastianus",
+   "aliases": [
+    "Emperor Sebastianus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maximus of Hispania",
+   "aliases": [
+    "Emperor Maximus of Hispania"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Matthew Kantakouzenos",
+   "aliases": [
+    "Matthew Cantacuzenus",
+    "Matthaios Kantakouzenos",
+    "Emperor Matthew Kantakouzenos",
+    "Emperor Matthew Cantacuzenus",
+    "Emperor Matthaios Kantakouzenos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nicholas Kanabos",
+   "aliases": [
+    "Nicholas Canabus",
+    "Emperor Nicholas Kanabos",
+    "Emperor Nicholas Canabus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eudokia Makrembolitissa",
+   "aliases": [
+    "Eudokia",
+    "Eudocia",
+    "Eudocia Macrembolitissa",
+    "Empress Eudokia Makrembolitissa",
+    "Empress Eudokia",
+    "Empress Eudocia",
+    "Empress Eudocia Macrembolitissa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Domitianus II",
+   "aliases": [
+    "Domitian II",
+    "Emperor Domitianus II",
+    "Emperor Domitian II"
+   ],
+   "tier": 6,
+   "lore": "A Gallic usurper of around 271, known from just two coins. One turned up in an Oxfordshire field in 2003."
+  },
+  {
+   "answer": "Sponsian",
+   "aliases": [
+    "Sponsianus",
+    "Emperor Sponsian",
+    "Emperor Sponsianus"
+   ],
+   "tier": 6,
+   "lore": "Known only from gold coins found in Transylvania in 1713 and long dismissed as fakes. A 2022 study argued they are real."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Julius Caesar",
+   "aliases": [
+    "Caesar",
+    "Gaius Julius Caesar",
+    "Emperor Julius Caesar",
+    "Emperor Caesar",
+    "Emperor Gaius Julius Caesar"
+   ],
+   "reason": "Dictator for life, never emperor. His adopted heir, Augustus, was the first."
+  },
+  {
+   "answer": "Mark Antony",
+   "aliases": [
+    "Marc Antony",
+    "Marcus Antonius",
+    "Emperor Mark Antony",
+    "Emperor Marc Antony",
+    "Emperor Marcus Antonius"
+   ],
+   "reason": "Triumvir, Cleopatra's lover, loser at Actium. Never emperor."
+  },
+  {
+   "answer": "Pompey",
+   "aliases": [
+    "Pompey the Great",
+    "Emperor Pompey",
+    "Emperor Pompey the Great"
+   ],
+   "reason": "Caesar's great rival, never emperor."
+  },
+  {
+   "answer": "Spartacus",
+   "aliases": [
+    "Emperor Spartacus"
+   ],
+   "reason": "A gladiator who led a slave revolt."
+  },
+  {
+   "answer": "Cicero",
+   "aliases": [
+    "Emperor Cicero"
+   ],
+   "reason": "An orator and consul, murdered on Mark Antony's orders."
+  },
+  {
+   "answer": "Brutus",
+   "aliases": [
+    "Cassius",
+    "Emperor Brutus",
+    "Emperor Cassius"
+   ],
+   "reason": "One of Caesar's assassins."
+  },
+  {
+   "answer": "Charlemagne",
+   "aliases": [
+    "Emperor Charlemagne"
+   ],
+   "reason": "Crowned 'Emperor of the Romans' in 800, but by the Pope, founding a new Western line."
+  },
+  {
+   "answer": "Cleopatra",
+   "aliases": [
+    "Empress Cleopatra",
+    "Emperor Cleopatra",
+    "Emperor Empress Cleopatra"
+   ],
+   "reason": "Queen of Egypt, never of Rome."
+  },
+  {
+   "answer": "Zenobia",
+   "aliases": [
+    "Empress Zenobia",
+    "Emperor Zenobia",
+    "Emperor Empress Zenobia"
+   ],
+   "reason": "Queen of Palmyra, who defied Rome. Her son did claim the title, briefly."
+  },
+  {
+   "answer": "Alexander the Great",
+   "aliases": [
+    "Emperor Alexander the Great"
+   ],
+   "reason": "Macedonian, and three centuries too early."
+  },
+  {
+   "answer": "Attila",
+   "aliases": [
+    "Attila the Hun",
+    "Emperor Attila",
+    "Emperor Attila the Hun"
+   ],
+   "reason": "He fought the emperors. He wasn't one."
+  },
+  {
+   "answer": "Odoacer",
+   "aliases": [
+    "Odovacar",
+    "Emperor Odoacer",
+    "Emperor Odovacar"
+   ],
+   "reason": "The general who deposed the last Western emperor, then ruled Italy as king, not emperor."
+  },
+  {
+   "answer": "Theodoric",
+   "aliases": [
+    "Theodoric the Great",
+    "Emperor Theodoric",
+    "Emperor Theodoric the Great"
+   ],
+   "reason": "King of the Ostrogoths, who ruled Italy without the imperial title."
+  },
+  {
+   "answer": "Belisarius",
+   "aliases": [
+    "Emperor Belisarius"
+   ],
+   "reason": "Justinian's great general, never emperor."
+  },
+  {
+   "answer": "Sulla",
+   "aliases": [
+    "Emperor Sulla"
+   ],
+   "reason": "Dictator, not emperor."
+  },
+  {
+   "answer": "Crassus",
+   "aliases": [
+    "Emperor Crassus"
+   ],
+   "reason": "The richest man in Rome, but never emperor."
+  },
+  {
+   "answer": "Livia",
+   "aliases": [
+    "Agrippina",
+    "Messalina",
+    "Empress Livia",
+    "Empress Agrippina",
+    "Empress Messalina",
+    "Julia Domna",
+    "Julia Maesa",
+    "Poppaea",
+    "Poppaea Sabina",
+    "Faustina",
+    "Plotina",
+    "Fausta",
+    "Galla Placidia"
+   ],
+   "reason": "An empress by marriage, never a ruler in her own right."
+  },
+  {
+   "answer": "Boudica",
+   "aliases": [
+    "Boadicea",
+    "Emperor Boudica",
+    "Emperor Boadicea"
+   ],
+   "reason": "Queen of the Iceni, who burned Roman London."
+  },
+  {
+   "answer": "Hannibal",
+   "aliases": [
+    "Emperor Hannibal"
+   ],
+   "reason": "Rome's greatest enemy, not its emperor."
+  },
+  {
+   "answer": "Gaius Marius",
+   "aliases": [
+    "Emperor Gaius Marius"
+   ],
+   "reason": "A general and seven-time consul, never emperor."
+  },
+  {
+   "answer": "Maximus Decimus Meridius",
+   "aliases": [
+    "Maximus Meridius",
+    "Emperor Maximus Decimus Meridius",
+    "Emperor Maximus Meridius"
+   ],
+   "reason": "Russell Crowe's general in Gladiator. Fiction."
+  },
+  {
+   "answer": "Remus",
+   "aliases": [
+    "Emperor Remus"
+   ],
+   "reason": "One of Rome's legendary founders, never an emperor."
+  },
+  {
+   "answer": "Agrippa",
+   "aliases": [
+    "Marcus Agrippa",
+    "Marcus Vipsanius Agrippa",
+    "Emperor Agrippa",
+    "Emperor Marcus Agrippa",
+    "Emperor Marcus Vipsanius Agrippa"
+   ],
+   "reason": "Augustus's general and right-hand man, never emperor."
+  },
+  {
+   "answer": "Germanicus",
+   "aliases": [
+    "Emperor Germanicus"
+   ],
+   "reason": "A celebrated general and heir who died before he could rule."
+  },
+  {
+   "answer": "Sejanus",
+   "aliases": [
+    "Emperor Sejanus"
+   ],
+   "reason": "Tiberius's ambitious prefect, who fell before he could rise further."
+  },
+  {
+   "answer": "Scipio Africanus",
+   "aliases": [
+    "Scipio",
+    "Emperor Scipio Africanus",
+    "Emperor Scipio"
+   ],
+   "reason": "A general of the Republic, long before the emperors."
+  },
+  {
+   "answer": "Cato",
+   "aliases": [
+    "Cato the Elder",
+    "Cato the Younger",
+    "Emperor Cato",
+    "Emperor Cato the Elder",
+    "Emperor Cato the Younger"
+   ],
+   "reason": "A senator of the Republic, never emperor."
+  },
+  {
+   "answer": "Tarquin",
+   "aliases": [
+    "Tarquinius Superbus",
+    "Tarquin the Proud",
+    "Emperor Tarquin",
+    "Emperor Tarquinius Superbus",
+    "Emperor Tarquin the Proud"
+   ],
+   "reason": "Rome's last king, long before the emperors."
+  },
+  {
+   "answer": "Pontius Pilate",
+   "aliases": [
+    "Pilate",
+    "Emperor Pontius Pilate",
+    "Emperor Pilate"
+   ],
+   "reason": "A governor of Judaea, never emperor."
+  },
+  {
+   "answer": "Napoleon",
+   "aliases": [
+    "Napoleon Bonaparte",
+    "Emperor Napoleon",
+    "Emperor Napoleon Bonaparte"
+   ],
+   "reason": "Emperor of the French, not of the Romans."
+  },
+  {
+   "answer": "Holy Roman Emperor",
+   "aliases": [
+    "Holy Roman Emperors",
+    "Frederick Barbarossa",
+    "Barbarossa",
+    "Otto the Great",
+    "Otto I",
+    "Charles V"
+   ],
+   "reason": "A later Western line, crowned by popes from 800 on. The deep wants the older Rome."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"roman-emperors\" on 28 November 2026."
+}

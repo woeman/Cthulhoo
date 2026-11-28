@@ -1,0 +1,80 @@
+id: marketing-pricing
+text: Name a pricing strategy or tactic.
+flavor: The price was never about the cost. It was always about you.
+rules: Any named way of setting, framing or changing a price.
+section: Price
+---
+1 Discount | Discounting | Sale | Sales | Markdown | Clearance | Discount pricing | Mark-down
+1 Penetration pricing | Penetration | Market penetration
+1 Price skimming | Skimming | Market skimming
+1 Cost-plus pricing | Cost plus | Markup | Mark-up | Cost-plus | Markup pricing | Cost-based pricing
+1 Psychological pricing | Charm pricing | 99 cents | Odd pricing | $9.99 | Odd-even pricing | Just-below pricing
+1 Competitive pricing | Competition-based pricing | Competitor pricing | Going rate | Price matching | Price match | Market pricing | Competition pricing
+2 Premium pricing | Prestige pricing | Luxury pricing | Image pricing
+2 Loss leader | Loss leader pricing | Loss leading | Loss-leader
+2 Bundle pricing | Bundling | Bundle | Product bundling | Package deal | Meal deal | Combo
+2 Dynamic pricing | Surge pricing | Demand pricing | Real-time pricing
+2 Value-based pricing | Value pricing | Perceived value pricing
+2 Economy pricing | Budget pricing | No-frills pricing | Low-cost pricing
+2 Buy one get one free | BOGOF | BOGO | Two for one | 2 for 1 | Multibuy | Multi-buy | 3 for 2
+2 Subscription | Subscription pricing | Membership
+2 Freemium
+2 Price discrimination | Differential pricing | Tiered pricing | Student discount | Concession | Seniors discount
+2 Promotional pricing | Specials | Special | Introductory offer | Introductory pricing | Limited time offer
+2 Everyday low prices | Everyday low pricing | EDLP | Down Down
+2 Price leadership | Price leader
+2 Predatory pricing | Dumping
+2 Auction | Bidding | Auction pricing
+2 Haggling | Negotiation | Bargaining
+2 Pay what you want | Pay what you can | PWYW | Honesty box
+2 Peak pricing | Off-peak pricing | Peak and off-peak | Happy hour | Time-based pricing | Seasonal pricing
+2 Bulk discount | Volume discount | Quantity discount | Bulk buy
+2 Coupon | Coupons | Voucher | Cashback | Rebate | Rebates
+2 Free shipping | Free delivery
+2 Price fixing | Collusion
+3 Captive pricing | Captive product pricing | Razor and blades | Razor-and-blades | Razor blade model
+3 Decoy pricing | Decoy effect | Decoy
+3 Anchoring | Price anchoring | Anchor pricing | Was-now pricing | Reference pricing
+3 Geographic pricing | Zone pricing | Regional pricing
+3 Price lining | Product line pricing | Good-better-best | Good better best
+3 High-low pricing | Hi-lo pricing | High low
+5 Drip pricing :: A low headline price that grows as fees drip in before the checkout. The ACCC took Jetstar and Virgin to court over it in 2014, and won.
+3 Partitioned pricing
+6 Shrinkflation :: Same price, smaller packet. The word caught on in the 2010s. The Toblerone that grew wider gaps between its peaks in 2016 is the classic case.
+3 Price gouging | Gouging
+3 Yield management | Revenue management
+3 Target pricing | Target return pricing | Target costing
+3 Marginal cost pricing | Marginal pricing
+3 Break-even pricing
+3 Full cost pricing | Absorption pricing
+3 Contribution pricing
+3 Keystone pricing | Keystone
+3 Two-part tariff | Two part tariff
+3 Pay-per-use | Pay as you go | Usage-based pricing | Metered pricing | PAYG
+3 Flat rate | Flat fee | All you can eat | Unlimited
+3 Optional pricing | Add-ons | Optional product pricing | Upselling | Upsell
+3 Honeymoon rate | Teaser rate
+3 Lay-by | Buy now pay later | Afterpay | Interest-free
+3 Trade-in | Trade in
+3 Early bird | Early bird pricing | Presale
+3 Last-minute pricing | Stand-by | Rush tickets
+3 Group discount | Group buying | Family pass
+3 Loyalty discount | Member price | Members' price | Rewards
+3 Price ceiling | Price floor | Recommended retail price | RRP | Resale price maintenance | MAP
+4 Limit pricing
+4 Transfer pricing
+4 Experience curve pricing
+4 Sealed bid | Tender | Dutch auction | Reverse auction | Name your own price
+4 Personalised pricing | Personalized pricing | Algorithmic pricing
+4 Bait and switch | Bait pricing
+4 Veblen pricing | Veblen good
+4 Unit pricing
+4 Round pricing | Even pricing | Whole number pricing
+4 Price war
+4 Cross-subsidy | Cross subsidisation
+4 Ramsey pricing
+4 Congestion pricing | Road pricing
+4 Sliding scale
+4 Tipping | Service charge | Surcharge | Public holiday surcharge
+x Price | Cost | Profit | Cheap | Expensive | Money | Supply and demand | Inflation | GST :: The thing itself, not a strategy for setting it.
+x Product | Place | Promotion | Advertising | Branding :: A different one of the four Ps.

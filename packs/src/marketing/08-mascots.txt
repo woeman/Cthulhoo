@@ -1,0 +1,114 @@
+id: marketing-mascots
+text: Name a brand mascot or advertising character.
+flavor: A smiling face with nothing behind it, built to be loved. It has been watching you since childhood.
+rules: Any character invented to sell a product, a company or a cause. The brand's name counts if it is the character's name.
+section: Brands
+---
+1 Ronald McDonald | Ronald
+1 Colonel Sanders | The Colonel | Colonel
+1 Tony the Tiger | Tony
+6 Louie the Fly | Louie :: "Straight from rubbish tip to you." Drawn in 1957 for Mortein, with a jingle by a young copywriter named Bryce Courtenay, later Australia's best-selling novelist.
+1 Mr Sheen | Mister Sheen
+5 Michelin Man | Bibendum :: His real name is Bibendum, he is made of tyres, and he dates from 1898, when tyres were white. He once smoked cigars and drank nails and broken glass.
+2 M&M's | M&Ms characters | Red and Yellow | M&M
+2 Snap, Crackle and Pop | Snap Crackle Pop | Snap Crackle and Pop
+2 Coco the Monkey | Coco | Coco Pops monkey
+2 Toucan Sam
+2 Freddo Frog | Freddo
+2 Caramello Koala
+2 Paddle Pop Lion | Paddle Pop
+2 Milky Bar Kid | Milkybar Kid
+6 Chesty Bond :: A square-jawed hero in a white singlet who ran as a newspaper comic strip from 1938 to 1964. It was among the first strips ever built around a product.
+2 Dollarmite | Dollarmites
+2 Qantas kangaroo | Flying Kangaroo
+2 Bundy Bear | Bundaberg bear | Bundy R. Bear
+2 Duracell Bunny | Energizer Bunny
+2 Mr Peanut | Mister Peanut
+2 Pillsbury Doughboy | Poppin' Fresh | Doughboy
+2 Kool-Aid Man
+2 Jolly Green Giant | Green Giant
+2 Uncle Toby
+2 Captain Birdseye | Captain Birds Eye | Captain Iglo
+2 Mr Muscle
+2 Mr Clean | Mr. Clean
+2 Cap'n Crunch | Captain Crunch
+3 Chester Cheetah
+3 Hamburglar | Grimace | Birdie
+3 The Burger King | Burger King
+3 Geico Gecko | Gecko
+3 Compare the Meerkat | Aleksandr Orlov | Meerkat | Aleksandr the Meerkat | Sergei
+3 Marlboro Man
+3 Joe Camel
+3 Smokey Bear | Smokey the Bear
+3 Healthy Harold | Harold the Giraffe
+3 Sid the Seagull | Slip Slop Slap seagull
+3 Norm | Life Be In It
+3 Hector the Cat | Hector the Road Safety Cat
+3 Syd, Olly and Millie | Syd | Olly | Millie | Fatso | Fatso the Fat-Arsed Wombat
+3 Borobi
+3 Boxing Kangaroo
+3 Sam Kekovich | Lambassador
+3 The Goggomobil man | Goggomobil | Tommy Dysart
+3 Rhonda and Ketut | Rhonda | Ketut
+4 Uncle Ben
+4 Aunt Jemima
+4 Betty Crocker
+4 Mrs Butterworth
+4 Quaker Oats man | Quaker
+4 Sun-Maid girl | Sun-Maid
+4 Morton Salt Girl
+4 Julius Pringles | Mr Pringles | Pringles man | Pringles
+4 Kellogg's rooster | Cornelius | Cornelius Rooster
+4 Trix Rabbit
+4 Lucky the Leprechaun | Lucky
+4 Count Chocula
+4 Nesquik Bunny | Quicky | Quiky
+4 Keebler Elves | Ernie Keebler
+4 Charlie the Tuna
+4 Chiquita Banana | Miss Chiquita
+4 California Raisins
+4 Mr Kipling
+4 Bertie Bassett
+4 Tetley Tea Folk
+4 PG Tips chimps | Monkey
+4 Churchill | Churchill the dog
+4 Andrex puppy | Kleenex puppy | Labrador puppy
+4 Dulux dog | Old English sheepdog
+4 Nipper | HMV dog
+4 Spuds MacKenzie
+4 Budweiser frogs | Budweiser Clydesdales
+4 Taco Bell chihuahua | Gidget
+4 Jack | Jack Box
+4 The Noid
+4 Little Caesar
+4 Chuck E. Cheese | Chuck E Cheese
+4 Big Boy
+4 The Laughing Cow | La Vache qui rit
+4 Elsie the Cow
+4 Haribo bear | Goldbear
+4 Milka cow
+4 Lacoste crocodile
+4 Johnnie Walker | Striding Man
+4 Captain Morgan
+4 Mr Monopoly | Rich Uncle Pennybags | Monopoly Man | Uncle Pennybags
+4 Reddy Kilowatt
+4 Clippy | Clippit
+4 Android robot | Bugdroid
+4 Tux | Linux penguin
+4 Duo | Duolingo owl
+4 Snoo | Reddit alien
+4 Mailchimp | Freddie
+4 Bazooka Joe
+4 Flo | Flo from Progressive
+4 Jake from State Farm
+4 The Most Interesting Man in the World
+4 Old Spice Guy | Old Spice man
+4 Wenlock and Mandeville | Wenlock | Mandeville
+4 Misha
+4 Zakumi | Footix | Fuleco | World Cup Willie
+4 Phryges | Miraitowa
+4 Gritty | Phillie Phanatic
+4 Big Kev
+4 Demtel man | Tim Shaw
+x Nike swoosh | Swoosh | Apple logo | Golden Arches | Logo | Slogan | Jingle :: A logo or a tune, not a character.
+x Bluey | Bugs Bunny | Homer Simpson | Peppa Pig | Spider-Man | Harry Potter | Shrek | Elsa :: A character from a story. Mascots are born in the marketing department.

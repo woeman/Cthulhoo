@@ -1,0 +1,120 @@
+id: psychology-experiments
+text: Name a famous psychology experiment or study.
+flavor: Somebody volunteered. Somebody signed a form. Nobody told them what was really being measured.
+rules: Any well-known experiment, study or case in psychology, by its usual name or by the researcher's.
+section: Research methods
+---
+1 Pavlov's dogs | Pavlov's dog | Pavlov | Pavlovs dogs | Classical conditioning experiment
+1 Stanford prison experiment | Stanford prison | Zimbardo | Zimbardo's prison experiment | Prison experiment
+1 Milgram experiment | Milgram | Milgram's obedience study | Obedience experiment | Milgram shock experiment | Electric shock experiment
+1 Marshmallow test | Marshmallow experiment | Stanford marshmallow experiment | Mischel
+2 Little Albert | Little Albert experiment | Watson and Rayner
+2 Bobo doll | Bobo doll experiment | Bandura | Bandura's Bobo doll
+2 Asch conformity experiment | Asch | Asch line experiment | Asch conformity | Line experiment | Conformity experiment
+2 Skinner box | Skinner | Skinner's pigeons | Skinner's rats | Operant conditioning chamber
+2 Rorschach test | Inkblot test | Rorschach | Ink blot test
+2 Harlow's monkeys | Harlow | Wire mother experiment | Harlow monkey experiment | Cloth mother
+2 Bystander effect | Kitty Genovese | Darley and Latané | Bystander experiment | Smoke-filled room
+2 Blue eyes brown eyes | Blue eyes/brown eyes | Jane Elliott | Brown eyes blue eyes
+2 Phineas Gage | Gage
+2 Placebo effect | Placebo
+2 Robbers Cave | Robbers Cave experiment | Sherif
+2 Strange Situation | Ainsworth | Ainsworth's Strange Situation
+2 Invisible gorilla | Gorilla experiment | Selective attention test | Simons and Chabris | Inattentional blindness
+2 Stroop test | Stroop effect | Stroop
+2 Learned helplessness | Seligman's dogs | Seligman
+2 Hawthorne effect | Hawthorne studies | Hawthorne experiments | Hawthorne
+2 IQ test | Stanford-Binet | Binet
+2 Twin studies | Minnesota twin study | Twin study
+2 Piaget's conservation tasks | Conservation task | Piaget | Three mountains task
+2 Loftus and Palmer | Car crash experiment | Lost in the mall | Loftus | Misinformation effect
+2 Split-brain experiments | Split brain | Sperry | Sperry and Gazzaniga
+2 Rosenhan experiment | On being sane in insane places | Rosenhan | Pseudopatient study
+2 HM | H.M. | Henry Molaison | Patient HM
+2 Genie | Genie Wiley
+5 Monster Study :: In 1939 Iowa researchers told orphans with normal speech that they stuttered, to see if it would make them. For some it did, for life.
+2 MKUltra | MK-Ultra | MK Ultra
+2 Tuskegee | Tuskegee syphilis study
+2 Dunning-Kruger | Dunning-Kruger effect | Dunning Kruger
+2 Rat Park
+2 Sally-Anne test | Sally Anne | False belief task | Theory of mind test
+2 Mirror test | Mirror self-recognition | Rouge test
+2 Visual cliff | Gibson and Walk
+2 Good Samaritan experiment | Good Samaritan study
+3 Thorndike's puzzle box | Puzzle box | Thorndike | Thorndike's cats
+3 Köhler's apes | Kohler | Sultan | Insight learning
+3 Tolman's rats | Latent learning | Cognitive maps
+3 Ebbinghaus forgetting curve | Forgetting curve | Ebbinghaus
+3 Miller's magic number | Magical number seven | Seven plus or minus two
+3 Peterson and Peterson | Brown-Peterson
+3 Bartlett's War of the Ghosts | War of the Ghosts | Bartlett
+3 Craik and Lockhart | Levels of processing
+3 Godden and Baddeley | Underwater memory experiment | Divers experiment
+3 Festinger and Carlsmith | Cognitive dissonance experiment | Boring task | When Prophecy Fails | Festinger
+3 Schachter and Singer | Adrenaline experiment
+3 Capilano Bridge | Dutton and Aron | Suspension bridge experiment | Shaky bridge
+3 Facial feedback | Pen in mouth
+3 Pygmalion effect | Rosenthal and Jacobson | Pygmalion in the classroom | Rosenthal
+6 Clever Hans :: A horse in 1900s Berlin that appeared to do arithmetic by tapping a hoof. He was really reading his questioner's face. Researchers have feared the effect ever since.
+3 Clark doll test | Doll test | Clark and Clark
+3 Minimal group paradigm | Tajfel | Klee and Kandinsky
+4 Hofling hospital experiment | Hofling
+4 Third Wave | The Third Wave
+4 BBC Prison Study
+4 Autokinetic effect | Sherif autokinetic
+4 Piliavin subway study | Piliavin
+4 Lost letter experiment | Small world experiment | Six degrees of separation
+3 Halo effect | Nisbett and Wilson
+4 Fundamental attribution error | Jones and Harris | Castro essay
+3 Ultimatum game | Dictator game | Prisoner's dilemma | Public goods game
+3 Asian disease problem | Kahneman and Tversky | Linda problem | Prospect theory
+4 Wason selection task | Wason
+4 Ego depletion | Radish experiment | Baumeister
+3 Power pose | Power posing
+3 Growth mindset | Dweck
+3 Stereotype threat | Steele and Aronson
+3 Implicit Association Test | IAT
+3 Change blindness | Door study
+3 Cocktail party effect | Dichotic listening | Cherry
+3 McGurk effect
+3 Rubber hand illusion
+3 Müller-Lyer illusion | Muller-Lyer
+4 Phi phenomenon
+4 Ganzfeld experiment | Ganzfeld
+4 Sensory deprivation | Hebb's sensory deprivation
+4 Kellogg's ape and child | Gua
+3 Washoe | Koko | Nim Chimpsky | Project Nim | Kanzi | Alex the parrot
+4 Wild Boy of Aveyron | Victor of Aveyron
+3 Anna O | Anna O.
+3 Little Hans
+4 Rat Man | Wolf Man | Dora
+6 Three Christs of Ypsilanti :: In 1959 Milton Rokeach brought together three patients who each believed he was Jesus, to see whose belief would give way. None did. He later apologised.
+3 David Reimer | John/Joan case
+3 Clive Wearing
+4 Patient Tan | Tan | Leborgne
+4 Kim Peek
+4 S. | Solomon Shereshevsky | Shereshevsky
+4 Bucharest Early Intervention Project | Romanian orphans | Rutter
+3 Dunedin Study | Dunedin longitudinal study
+4 Grant Study | Harvard Study of Adult Development
+4 Terman's Termites | Terman study | Genetic Studies of Genius
+4 Up series | Seven Up
+4 ACE Study | Adverse Childhood Experiences Study
+3 Kinsey Reports | Kinsey
+4 Masters and Johnson
+3 Calhoun's rats | Universe 25 | Behavioural sink | Mouse utopia
+4 Zeigarnik effect | Zeigarnik
+4 Operation Midnight Climax
+4 Landis facial expressions | Landis
+3 Still face experiment | Still Face | Tronick
+4 Hubel and Wiesel | Kitten experiments
+4 Blakemore and Cooper
+4 Held and Hein | Kitten carousel
+4 Olds and Milner | Pleasure centre
+4 Delgado's bull | Delgado
+4 Libet experiment | Libet
+3 Mozart effect
+4 Facebook emotional contagion study | Emotional contagion
+4 Reproducibility Project | Replication crisis
+x Schrödinger's cat | Trolley problem | Double-slit experiment | Manhattan Project | Large Hadron Collider | Mendel's peas | Galileo :: An experiment, real or imagined, but from another field.
+x Experiment | Study | Research | Test | Survey | Science | Psychology :: Which one? Name it.

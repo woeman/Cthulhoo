@@ -1,0 +1,70 @@
+id: law-courtroom-roles
+text: Name a person or role you would find in a courtroom or the legal system.
+flavor: Everyone in the room has a part and a place to stand. One of them would rather be elsewhere.
+rules: Any job, office or role in a court or in the practice of law.
+section: Courts
+---
+1 Judge | Justice | Your Honour | Chief Justice | The bench
+1 Lawyer | Attorney | Counsel | Legal practitioner
+1 Jury | Juror | Jurors | Jury member | Foreperson | Jury foreman | Foreman
+1 Barrister | Advocate
+1 Solicitor
+1 Witness | Eyewitness | Expert witness | Character witness
+1 Defendant | The accused | Accused | Respondent
+2 Prosecutor | Prosecution | Crown prosecutor | DPP | Director of Public Prosecutions | Police prosecutor | District attorney | DA
+2 Magistrate
+2 Plaintiff | Applicant | Claimant | Complainant | Appellant | Litigant
+2 Police officer | Police | Detective | Informant | Arresting officer
+2 Bailiff | Sheriff | Sheriff's officer | Court officer | Court security
+2 Victim
+2 Court reporter | Stenographer | Transcriber | Court recorder
+2 Clerk | Court clerk | Clerk of the court | Registrar | Judge's associate | Associate
+6 Tipstaff | Tipstaves :: A judge's attendant in New South Wales and Victoria, named for the metal-tipped staff the office once carried, which was hollow to hold a warrant.
+2 Defence lawyer | Defence counsel | Public defender | Legal Aid | Legal aid lawyer | Defence
+2 Paralegal | Legal secretary | Law clerk
+2 Interpreter | Translator
+2 Coroner
+2 KC | SC | QC | Senior Counsel | King's Counsel | Queen's Counsel | Silk
+2 Attorney-General | Solicitor-General
+2 Notary | Notary public | Justice of the Peace | JP | Commissioner for declarations
+2 Mediator | Arbitrator | Conciliator
+2 Conveyancer
+2 Prisoner | Inmate | Convict | Offender
+2 Parole officer | Probation officer | Corrections officer | Prison guard | Corrective services officer
+2 Journalist | Sketch artist | Court artist | Public gallery | Spectators | Public
+3 Instructing solicitor | Junior counsel | Junior
+3 Amicus curiae | Friend of the court | Intervener
+6 McKenzie friend | Support person :: Someone who sits beside a person with no lawyer, to take notes and quietly advise. Named for a 1970 divorce case in which an Australian barrister was turned away.
+3 Litigant in person | Self-represented litigant | Self-represented
+3 Litigation guardian | Guardian ad litem | Next friend | Tutor
+3 Executor | Administrator | Trustee | Beneficiary | Testator
+3 Liquidator | Receiver | Trustee in bankruptcy | Official Receiver
+3 Process server
+3 Court usher | Usher | Court crier | Orderly
+3 Master | Associate judge | Judicial registrar | Commissioner
+3 Tribunal member | Member | Assessor | Referee
+3 Ombudsman
+3 Law reporter
+3 Patent attorney | Trade marks attorney
+3 In-house counsel | General counsel | Corporate counsel
+3 Legal academic | Law professor | Law student | Articled clerk | Graduate lawyer | Trainee
+3 Bondsman | Bail bondsman | Surety
+3 Hangman | Executioner
+3 Chief Magistrate | President | Chancellor | Lord Chancellor | Lord Chief Justice | Master of the Rolls
+4 Puisne judge
+4 Recorder
+4 Serjeant-at-law | Serjeant
+4 Proctor
+4 Scrivener
+4 Beadle
+4 Reeve | Shire reeve
+4 Praetor
+4 Qadi | Kadi
+4 Advocate General | Procurator fiscal | Juge d'instruction | Examining magistrate
+4 Grand jury | Grand juror
+4 Special magistrate | Acting judge
+4 Elders | Elder | Respected person
+4 Witness assistance officer | Court support volunteer | Court Network
+4 Forensic scientist | Forensic pathologist | Psychiatrist | Psychologist
+x Gavel | Wig | Gown | Dock | Witness box | Bench seat | Bible | Bar table :: A thing in the courtroom, not a person. And Australian judges do not use gavels.
+x Person | People | Someone | Staff | Worker | Criminal :: Which role? Name it.

@@ -1,0 +1,153 @@
+id: law-cases
+text: Name a landmark court case.
+flavor: Two names with a small letter v between them. One of them lost, and became famous anyway.
+rules: Any famous decided case, Australian or foreign, by its full or its popular name.
+section: Case law
+---
+1 Mabo | Mabo v Queensland | Mabo v Queensland (No 2) | Mabo case | Mabo decision | Mabo No 2
+1 Donoghue v Stevenson | Snail in the bottle | Donoghue and Stevenson | Paisley snail | Donoghue | Snail in the bottle case
+1 Roe v Wade | Roe versus Wade | Roe
+2 Carlill v Carbolic Smoke Ball | Carlill v Carbolic Smoke Ball Company | Carbolic Smoke Ball | Carlill | Smoke ball case
+2 Wik | Wik Peoples v Queensland | Wik decision | Wik case
+2 Brown v Board of Education | Brown v Board | Brown
+2 Tasmanian Dam case | Commonwealth v Tasmania | Franklin Dam case | Tasmanian Dams case | Tasmanian Dam
+2 Salomon v Salomon | Salomon v A Salomon & Co Ltd | Salomon | Salomon's case
+2 Engineers case | Engineers' case | Amalgamated Society of Engineers v Adelaide Steamship
+2 Miranda v Arizona | Miranda
+2 Marbury v Madison | Marbury
+2 Nuremberg trials | Nuremberg
+2 O.J. Simpson trial | OJ Simpson | People v Simpson | O. J. Simpson
+2 Chamberlain case | Lindy Chamberlain | Chamberlain v The Queen | Azaria Chamberlain | Dingo case
+2 Dietrich v The Queen | Dietrich
+2 Lange v ABC | Lange v Australian Broadcasting Corporation | Lange
+2 Grant v Australian Knitting Mills | Grant v AKM | Woollen underwear case
+2 Harvester case | Harvester judgment | Ex parte H.V. McKay | Harvester decision
+2 Work Choices case | WorkChoices case | New South Wales v Commonwealth
+2 Plessy v Ferguson | Plessy
+2 Dred Scott | Dred Scott v Sandford | Dred Scott decision
+2 Scopes trial | Scopes monkey trial | Monkey trial
+2 Love v Commonwealth | Love and Thoms
+2 Pell v The Queen | Pell
+2 Dobbs | Dobbs v Jackson | Dobbs v Jackson Women's Health Organization
+2 Obergefell v Hodges | Obergefell
+2 McDonald's coffee case | Liebeck v McDonald's | Liebeck | Hot coffee case
+2 Apple v Samsung
+2 Depp v Heard | Johnny Depp trial
+2 Roberts-Smith v Fairfax | Ben Roberts-Smith defamation case | Roberts-Smith
+2 Lehrmann v Network Ten | Lehrmann
+3 Hadley v Baxendale
+3 Rylands v Fletcher
+3 Balfour v Balfour
+3 Pharmaceutical Society v Boots | Boots case | Pharmaceutical Society of Great Britain v Boots Cash Chemists
+3 Fisher v Bell
+3 Hyde v Wrench
+3 Adams v Lindsell
+3 Felthouse v Bindley
+3 Partridge v Crittenden
+3 Entores v Miles Far East
+3 Central London Property Trust v High Trees House | High Trees | High Trees case
+3 Waltons Stores v Maher | Waltons v Maher | Waltons Stores
+3 Commercial Bank of Australia v Amadio | Amadio | Amadio's case
+3 Masters v Cameron
+3 Toll v Alphapharm | Toll (FGCT) v Alphapharm
+3 Codelfa | Codelfa Construction v State Rail Authority
+3 L'Estrange v Graucob | L'Estrange v F Graucob Ltd
+3 Olley v Marlborough Court
+3 Thornton v Shoe Lane Parking
+3 Australian Woollen Mills v Commonwealth
+3 Stilk v Myrick
+3 Williams v Roffey Bros | Williams v Roffey
+6 Chappell v Nestlé | Chappell v Nestle :: Nestlé sold records for cash plus three chocolate wrappers, which it then threw away. The House of Lords held in 1959 that even rubbish can be good consideration.
+3 Taylor v Caldwell
+3 Krell v Henry
+6 Raffles v Wichelhaus | Peerless case :: Two ships called Peerless sailed from Bombay, months apart. Buyer and seller each meant a different one. The court found there had never been a contract at all.
+3 Smith v Hughes
+4 Hong Kong Fir | Hongkong Fir Shipping v Kawasaki
+4 Bolton v Stone
+3 Wagon Mound | The Wagon Mound | Overseas Tankship v Morts Dock
+3 Hedley Byrne v Heller | Hedley Byrne
+4 Caparo v Dickman | Caparo
+4 Bolam | Bolam v Friern Hospital
+3 Rogers v Whitaker
+4 Wyong Shire Council v Shirt | Wyong v Shirt
+4 Perre v Apand
+4 Jaensch v Coffey
+4 Chapman v Hearse
+4 March v Stramare
+4 Rootes v Shelton
+4 Hollis v Vabu
+4 Australian Safeway Stores v Zaluzna | Zaluzna
+4 Burnie Port Authority v General Jones
+4 Shaddock v Parramatta City Council | Shaddock
+4 Esanda Finance v Peat Marwick Hungerfords | Esanda
+4 Palsgraf v Long Island Railroad | Palsgraf
+4 MacPherson v Buick
+3 Lee v Lee's Air Farming
+4 Macaura v Northern Assurance
+3 Foss v Harbottle
+4 Gilford Motor Co v Horne
+3 ASIC v Healey | Centro case | Centro
+4 ASIC v Rich | One.Tel case
+4 ASIC v Adler | Adler
+4 AWA v Daniels | Daniels v Anderson
+4 Regal (Hastings) v Gulliver | Regal Hastings
+4 Howard Smith v Ampol
+4 Gambotto v WCP | Gambotto
+4 Hospital Products v USSC | Hospital Products
+4 Breen v Williams
+3 Australian Capital Television v Commonwealth | ACTV | Political advertising case
+3 Cole v Whitfield
+3 Communist Party case | Australian Communist Party v Commonwealth
+4 Bank Nationalisation case | Bank of NSW v Commonwealth
+4 Uniform Tax case | South Australia v Commonwealth
+3 Boilermakers case | Boilermakers' case | R v Kirby
+3 Kable | Kable v DPP
+4 Williams v Commonwealth | School chaplains case
+4 Pape v Commissioner of Taxation | Pape
+3 Al-Kateb v Godwin | Al-Kateb
+4 NZYQ
+4 Koowarta v Bjelke-Petersen | Koowarta
+4 Milirrpum v Nabalco | Gove land rights case | Milirrpum
+4 Yorta Yorta | Yorta Yorta v Victoria
+4 Kruger v Commonwealth | Stolen Generations case | Trevorrow
+4 Roach v Electoral Commissioner | Roach
+3 Dow Jones v Gutnick | Gutnick
+4 Rush v Nationwide News | Geoffrey Rush case
+4 Voller | Fairfax v Voller
+4 Tobacco plain packaging case | JT International v Commonwealth
+3 Robodebt class action | Robodebt | Prygodicz
+4 Sharma v Minister for the Environment | Sharma
+4 Urgenda
+4 Massachusetts v EPA
+3 Citizens United | Citizens United v FEC
+3 Bush v Gore
+4 Gideon v Wainwright | Gideon
+4 Loving v Virginia | Loving
+4 Griswold v Connecticut
+4 Lochner v New York | Lochner
+4 McCulloch v Maryland
+4 Korematsu | Korematsu v United States
+4 New York Times v Sullivan | Sullivan
+4 United States v Nixon
+4 Standard Oil v United States | Standard Oil
+4 United States v Microsoft | Microsoft antitrust case
+4 Somerset v Stewart | Somerset's case
+4 Entick v Carrington
+3 R v Dudley and Stephens | Dudley and Stephens
+4 M'Naghten's case | McNaughton rules | M'Naghten
+4 Woolmington v DPP | Woolmington
+4 R v Brown
+4 Gillick | Gillick v West Norfolk
+4 Miller | R (Miller) v Secretary of State | Miller case
+4 McLibel | McDonald's v Steel and Morris
+3 Trial of Socrates | Socrates
+4 Trial of Galileo | Galileo
+3 Dreyfus affair | Dreyfus
+4 Eichmann trial | Eichmann
+4 Rivonia Trial
+3 Trial of Ned Kelly | R v Kelly
+4 Eureka trials | Eureka Stockade trials
+4 Myall Creek trial | Myall Creek
+6 Tichborne case | Tichborne claimant :: A butcher from Wagga Wagga claimed in 1866 to be a lost English baronet. The heir's mother believed him. After two of England's longest trials, he got 14 years.
+x Law & Order | Suits | Judge Judy | Rake | Boston Legal | The Castle | Kramer v Kramer | Jarndyce v Jarndyce :: A court you watched rather than one that sat. Although the vibe was right.
+x Case | Trial | Court | Lawsuit | Verdict | Precedent | Appeal :: Which one? Name the case.

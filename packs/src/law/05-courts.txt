@@ -1,0 +1,86 @@
+id: law-courts
+text: Name a court or tribunal.
+flavor: All rise. Something is about to be decided, and it will stay decided.
+rules: Any court, tribunal or commission that hears disputes, in Australia or elsewhere, past or present.
+section: Courts
+asOf: 2026-11-28
+---
+1 High Court | High Court of Australia
+1 Supreme Court | Supreme Court of NSW | Supreme Court of Victoria | Supreme Court of Queensland | Supreme Court of New South Wales
+1 Magistrates Court | Magistrates' Court | Local Court | Magistrate's Court | Court of Petty Sessions
+1 Federal Court | Federal Court of Australia
+1 Family Court | Family Court of Australia | Federal Circuit and Family Court | FCFCOA | Federal Circuit Court
+1 District Court | County Court
+2 Fair Work Commission | FWC | Fair Work
+2 Children's Court | Childrens Court | Youth Court | Juvenile court
+2 Coroner's Court | Coroners Court | Coroner
+2 Small claims | Small claims court | Small claims tribunal
+2 NCAT | NSW Civil and Administrative Tribunal
+2 VCAT | Victorian Civil and Administrative Tribunal
+2 QCAT | Queensland Civil and Administrative Tribunal
+2 Court of Appeal | Court of Criminal Appeal | Appeals court | Full Court
+2 International Court of Justice | ICJ | World Court
+2 International Criminal Court | ICC
+2 Supreme Court of the United States | US Supreme Court | SCOTUS
+2 Land and Environment Court
+2 Drug Court
+2 Koori Court | Murri Court | Nunga Court | Circle sentencing
+2 Royal commission
+2 Administrative Review Tribunal | ART | Administrative Appeals Tribunal | AAT
+2 Privy Council | Judicial Committee of the Privy Council
+2 Old Bailey | Central Criminal Court
+2 Court martial | Court-martial | Military court
+5 Kangaroo court :: A sham court. Oddly, the phrase is American, not Australian: it first appears in print in the United States in the 1840s and 1850s.
+2 Crown Court
+2 Court of Arbitration for Sport | CAS
+2 European Court of Human Rights | ECHR | European Court of Justice | ECJ | Court of Justice of the European Union
+2 The Hague | Hague
+3 SAT | State Administrative Tribunal
+3 SACAT | TASCAT | ACAT | NTCAT
+3 Industrial Relations Commission | IRC | Industrial Court
+3 Native Title Tribunal | National Native Title Tribunal | NNTT
+3 Australian Competition Tribunal | Competition Tribunal
+3 Copyright Tribunal
+3 Takeovers Panel
+3 Migration Review Tribunal | Refugee Review Tribunal | Veterans' Review Board
+3 Mental Health Review Tribunal | Mental Health Tribunal | Guardianship Tribunal
+3 Dust Diseases Tribunal
+3 Workers Compensation Commission | Personal Injury Commission
+3 Residential Tenancies Tribunal | Tenancy Tribunal | Consumer, Trader and Tenancy Tribunal | CTTT
+3 Licensing Court
+3 Mining Warden's Court | Warden's Court | Land Court
+3 Planning and Environment Court | Environment Court | ERD Court
+3 Court of Disputed Returns
+3 Supreme Court of the United Kingdom | UK Supreme Court | House of Lords
+3 High Court of Justice | King's Bench | Queen's Bench | Chancery | Court of Chancery | Chancery Division
+3 Court of Session | High Court of Justiciary | Sheriff Court
+3 County Court of Victoria
+4 Waitangi Tribunal
+4 Supreme Court of New Zealand | Supreme Court of Canada
+4 International Tribunal for the Law of the Sea | ITLOS
+4 Permanent Court of Arbitration | PCA
+4 WTO Appellate Body | WTO dispute panel
+4 Nuremberg | Nuremberg trials | Nuremberg Tribunal | International Military Tribunal
+4 Tokyo Tribunal | Tokyo trials
+4 ICTY | Yugoslavia tribunal | ICTR | Rwanda tribunal | Special Court for Sierra Leone
+4 Truth and Reconciliation Commission
+4 Inter-American Court of Human Rights | African Court on Human and Peoples' Rights
+4 Sharia court | Beth Din | Rabbinical court | Ecclesiastical court | Consistory court
+4 Roman Rota | Rota
+4 Inquisition | Spanish Inquisition
+4 Star Chamber | Court of Star Chamber
+4 Court of Common Pleas | Exchequer | Court of Exchequer | Assizes | Quarter Sessions
+6 Court of Piepowders | Piepowder court | Pie powder court :: A medieval court held at fairs, named for the "pieds poudrés", the dusty feet of travelling traders. It gave judgment within a day. Bristol's sat until 1870.
+4 Areopagus
+4 Sanhedrin
+4 Thing | Althing
+6 Court of Chivalry :: England's court for disputes over coats of arms. It sat in 1954 for the first time in over two centuries, to rule on a theatre's use of Manchester's arms.
+4 Vice-Admiralty Court | Admiralty Court | Prize court
+4 Court of Marine Inquiry
+4 Traffic court | Night court | Bankruptcy court | Tax Court | Probate court | Circuit court | Federal district court | Appellate court
+4 FISA court | FISC
+4 Gacaca
+4 People's Court | Supreme People's Court
+4 Conseil d'État | Cour de cassation | Bundesverfassungsgericht | Federal Constitutional Court | Constitutional Court
+x Parliament | Senate | Police | Prison | Jail | ASIC | ACCC | ATO | Ombudsman | Law firm | Police station :: Part of the system, but nobody sits in judgment there.
+x Court | Tribunal | Courtroom | Courthouse | Tennis court | Basketball court | Food court :: Which court? Name it. The tennis kind does not count.

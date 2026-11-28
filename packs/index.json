@@ -83,6 +83,66 @@
    "file": "languages.json",
    "prompts": 17,
    "answers": 3663
+  },
+  {
+   "id": "history",
+   "name": "History",
+   "title": "What the Dead Remember",
+   "blurb": "Wars, rulers, revolutions, explorers and the makers of modern Australia.",
+   "group": "Humanities",
+   "order": 8,
+   "asOf": "2026-11-28",
+   "file": "history.json",
+   "prompts": 14,
+   "answers": 3837
+  },
+  {
+   "id": "accounting",
+   "name": "Accounting",
+   "title": "The Book That Must Balance",
+   "blurb": "Accounts, source documents, principles, methods, audits and the firms that sign off.",
+   "group": "Business",
+   "order": 9,
+   "asOf": "2026-11-28",
+   "file": "accounting.json",
+   "prompts": 7,
+   "answers": 468
+  },
+  {
+   "id": "marketing",
+   "name": "Marketing",
+   "title": "The Whisper in the Aisle",
+   "blurb": "Brands, slogans, channels, pricing and the arts of persuasion.",
+   "group": "Business",
+   "order": 10,
+   "asOf": "2026-11-28",
+   "file": "marketing.json",
+   "prompts": 8,
+   "answers": 868
+  },
+  {
+   "id": "law",
+   "name": "Business Law",
+   "title": "The Fine Print",
+   "blurb": "Courts, contracts, torts, statutes, landmark cases and the shapes a business can take.",
+   "group": "Business",
+   "order": 11,
+   "asOf": "2026-11-28",
+   "file": "law.json",
+   "prompts": 8,
+   "answers": 730
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "title": "The Locked Room of the Mind",
+   "blurb": "Thinkers, disorders, emotions, famous experiments and the wiring behind them.",
+   "group": "Science",
+   "order": 12,
+   "asOf": "2026-11-28",
+   "file": "psychology.json",
+   "prompts": 9,
+   "answers": 1243
   }
  ]
 }

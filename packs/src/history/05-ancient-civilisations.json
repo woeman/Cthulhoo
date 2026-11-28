@@ -1,0 +1,5049 @@
+{
+ "id": "history-ancient-civilisations",
+ "text": "Name an ancient civilisation.",
+ "category": "history",
+ "flavor": "They built in stone so that someone would remember them. Something did.",
+ "rules": "Any civilisation, culture or people of the ancient world before about AD 500, plus those of the Americas, Africa, Asia and Oceania that flourished before about 1500. Peoples of legend and fiction don't count.",
+ "answers": [
+  {
+   "answer": "Ancient Egypt",
+   "aliases": [
+    "Egyptians",
+    "Ancient Egyptians",
+    "Egypt",
+    "Egyptian",
+    "Kemet",
+    "Egyptian civilisation",
+    "Ancient Egyptian civilisation",
+    "Ancient Egyptian",
+    "Ancient Kemet",
+    "Egypt civilisation",
+    "Kemet civilisation"
+   ],
+   "tier": 1,
+   "lore": "Cleopatra lived closer in time to the Moon landing than to the building of the Great Pyramid."
+  },
+  {
+   "answer": "Ancient Rome",
+   "aliases": [
+    "Romans",
+    "Ancient Romans",
+    "Rome",
+    "Roman",
+    "Roman Empire",
+    "Roman Republic",
+    "Roman civilisation",
+    "Ancient Roman",
+    "Rome civilisation",
+    "Roma Empire"
+   ],
+   "tier": 1,
+   "lore": "At its height, under Trajan around AD 117, its empire stretched from Britain to Mesopotamia."
+  },
+  {
+   "answer": "Ancient Greece",
+   "aliases": [
+    "Greeks",
+    "Ancient Greeks",
+    "Greece",
+    "Greek",
+    "Hellenes",
+    "Hellenistic Greeks",
+    "Greek civilisation",
+    "Greek Empire",
+    "Hellenistic",
+    "Hellenistic civilisation",
+    "Classical Greece",
+    "Ancient Greek",
+    "Ancient Hellenes",
+    "Ancient Hellenistic Greeks",
+    "Ancient Hellenistic",
+    "Ancient Classical Greece",
+    "Greece civilisation",
+    "Hellenes civilisation"
+   ],
+   "tier": 1,
+   "lore": "The Greeks called themselves Hellenes. The name Greek comes from the Romans, who called them Graeci."
+  },
+  {
+   "answer": "Maya",
+   "aliases": [
+    "Mayans",
+    "Mayan",
+    "Maya civilisation",
+    "Ancient Maya",
+    "Ancient Mayans",
+    "Ancient Mayas",
+    "Ancient Mayan",
+    "Mayan civilisation"
+   ],
+   "tier": 1,
+   "lore": "The Maya never vanished. Millions of their descendants still speak Mayan languages today."
+  },
+  {
+   "answer": "Aztecs",
+   "aliases": [
+    "Aztec",
+    "Mexica",
+    "Aztec Empire",
+    "Ancient Aztecs",
+    "Aztec civilisation",
+    "Ancient Aztec",
+    "Ancient Mexica",
+    "Mexica civilisation"
+   ],
+   "tier": 1,
+   "lore": "They called themselves the Mexica, and so gave Mexico its name."
+  },
+  {
+   "answer": "Incas",
+   "aliases": [
+    "Inca",
+    "Inka",
+    "Incan",
+    "Inca Empire",
+    "Tawantinsuyu",
+    "Ancient Incas",
+    "Inca civilisation",
+    "Incan civilisation",
+    "Quechua",
+    "Ancient Inca",
+    "Ancient Inka",
+    "Ancient Incan",
+    "Ancient Tawantinsuyu",
+    "Ancient Quechua",
+    "Inka civilisation",
+    "Tawantinsuyu civilisation",
+    "Quechua civilisation"
+   ],
+   "tier": 1,
+   "lore": "Their road network, the Qhapaq Ñan, ran for some 30,000 km through and along the Andes."
+  },
+  {
+   "answer": "Sumer",
+   "aliases": [
+    "Sumerians",
+    "Sumerian",
+    "Ancient Sumer",
+    "Ancient Sumerians",
+    "Sumerian civilisation",
+    "Ancient Sumerian",
+    "Sumer civilisation"
+   ],
+   "tier": 1,
+   "lore": "The Sumerians were among the first to write, and their counting in sixties lives on in our minutes and seconds."
+  },
+  {
+   "answer": "Babylonians",
+   "aliases": [
+    "Babylon",
+    "Babylonia",
+    "Babylonian",
+    "Ancient Babylon",
+    "Ancient Babylonians",
+    "Babylonian civilisation",
+    "Babylonian Empire",
+    "Chaldeans",
+    "Chaldea",
+    "Neo-Babylonians",
+    "Neo-Babylonian Empire",
+    "Ancient Babylonia",
+    "Ancient Babylonian",
+    "Ancient Chaldeans",
+    "Ancient Chaldea",
+    "Ancient Neo-Babylonians",
+    "Babylon civilisation",
+    "Babylonia civilisation",
+    "Chaldeans civilisation",
+    "Chaldea civilisation",
+    "Neo-Babylonians civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Assyrians",
+   "aliases": [
+    "Assyria",
+    "Assyrian",
+    "Assyrian Empire",
+    "Ancient Assyria",
+    "Ancient Assyrians",
+    "Assyrian civilisation",
+    "Neo-Assyrians",
+    "Ancient Assyrian",
+    "Ancient Neo-Assyrians",
+    "Assyria civilisation",
+    "Neo-Assyrians civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Persians",
+   "aliases": [
+    "Persia",
+    "Persian Empire",
+    "Achaemenids",
+    "Achaemenid Empire",
+    "Ancient Persia",
+    "Persian civilisation",
+    "Ancient Persians",
+    "Ancient Achaemenids",
+    "Persians civilisation",
+    "Persia civilisation",
+    "Achaemenids civilisation",
+    "Ancient Iran",
+    "Ancient Iranians"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ancient China",
+   "aliases": [
+    "Chinese",
+    "China",
+    "Ancient Chinese",
+    "Zhou",
+    "Zhou dynasty",
+    "Qin",
+    "Qin dynasty",
+    "Han",
+    "Han dynasty",
+    "Han Chinese",
+    "Chinese civilisation",
+    "Xia",
+    "Imperial China",
+    "Tang dynasty",
+    "Tang",
+    "Song dynasty",
+    "Song",
+    "Yuan dynasty",
+    "Yuan",
+    "Ancient Zhou",
+    "Ancient Qin",
+    "Ancient Han",
+    "Ancient Han Chinese",
+    "Ancient Xia",
+    "Ancient Imperial China",
+    "Ancient Tang",
+    "Ancient Song",
+    "Ancient Yuan",
+    "China civilisation",
+    "Zhou civilisation",
+    "Qin civilisation",
+    "Han civilisation",
+    "Xia civilisation",
+    "Tang civilisation",
+    "Song civilisation",
+    "Yuan civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Indus Valley Civilisation",
+   "aliases": [
+    "Indus Valley",
+    "Indus Valley Civilization",
+    "Indus civilisation",
+    "Harappans",
+    "Harappan civilisation",
+    "Harappan",
+    "Meluhha",
+    "Indus",
+    "Ancient Indus Valley",
+    "Ancient Harappans",
+    "Ancient Harappan",
+    "Ancient Meluhha",
+    "Ancient Indus",
+    "Meluhha civilisation"
+   ],
+   "tier": 2,
+   "lore": "Its cities had covered drains, but its script has never been deciphered."
+  },
+  {
+   "answer": "Ancient India",
+   "aliases": [
+    "India",
+    "Vedic civilisation",
+    "Vedic India",
+    "Vedic period",
+    "Indian civilisation",
+    "Vedic people",
+    "Indo-Aryans",
+    "Ancient Vedic India",
+    "Ancient Indo-Aryans",
+    "India civilisation",
+    "Indo-Aryans civilisation",
+    "Ancient Indians"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mesopotamia",
+   "aliases": [
+    "Mesopotamians",
+    "Mesopotamian",
+    "Ancient Mesopotamia",
+    "Mesopotamian civilisation",
+    "Ancient Mesopotamians",
+    "Ancient Mesopotamian",
+    "Mesopotamia civilisation",
+    "Ancient Iraq"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phoenicians",
+   "aliases": [
+    "Phoenicia",
+    "Phoenician",
+    "Ancient Phoenicians",
+    "Phoenician civilisation",
+    "Ancient Phoenicia",
+    "Ancient Phoenician",
+    "Phoenicia civilisation",
+    "Ancient Lebanon"
+   ],
+   "tier": 2,
+   "lore": "Their alphabet is the ancestor of the Greek and Latin alphabets, and so of the letters you are reading."
+  },
+  {
+   "answer": "Minoans",
+   "aliases": [
+    "Minoan",
+    "Minoan civilisation",
+    "Ancient Minoans",
+    "Ancient Crete",
+    "Crete",
+    "Ancient Minoan",
+    "Crete civilisation"
+   ],
+   "tier": 2,
+   "lore": "They never called themselves Minoans. Arthur Evans named them after Minos, the king of legend."
+  },
+  {
+   "answer": "Mycenaeans",
+   "aliases": [
+    "Mycenaean",
+    "Mycenaean Greeks",
+    "Mycenaean civilisation",
+    "Mycenae",
+    "Ancient Mycenae",
+    "Ancient Mycenaeans",
+    "Ancient Mycenaean",
+    "Ancient Mycenaean Greeks",
+    "Mycenae civilisation"
+   ],
+   "tier": 2,
+   "lore": "Their Linear B script, cracked in 1952, turned out to be an early form of Greek."
+  },
+  {
+   "answer": "Celts",
+   "aliases": [
+    "Celtic",
+    "Celtic peoples",
+    "Kelts",
+    "Ancient Celts",
+    "Celtic civilisation",
+    "Ancient Celtic",
+    "Ancient Kelts",
+    "Celts civilisation",
+    "Kelts civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Etruscans",
+   "aliases": [
+    "Etruscan",
+    "Etruria",
+    "Ancient Etruscans",
+    "Etruscan civilisation",
+    "Ancient Etruscan",
+    "Ancient Etruria",
+    "Etruria civilisation"
+   ],
+   "tier": 2,
+   "lore": "Their language, written in a Greek-style alphabet, is still only partly understood."
+  },
+  {
+   "answer": "Hittites",
+   "aliases": [
+    "Hittite",
+    "Hittite Empire",
+    "Hatti",
+    "Ancient Hittites",
+    "Hittite civilisation",
+    "Ancient Hittite",
+    "Ancient Hatti",
+    "Hatti civilisation"
+   ],
+   "tier": 2,
+   "lore": "Long known mainly from the Bible, until their lost capital was dug up in Turkey."
+  },
+  {
+   "answer": "Olmecs",
+   "aliases": [
+    "Olmec",
+    "Ancient Olmecs",
+    "Olmec civilisation",
+    "Ancient Olmec"
+   ],
+   "tier": 2,
+   "lore": "They carved colossal stone heads, some about three metres tall."
+  },
+  {
+   "answer": "Carthaginians",
+   "aliases": [
+    "Carthage",
+    "Carthaginian",
+    "Punic",
+    "Ancient Carthage",
+    "Ancient Carthaginians",
+    "Carthaginian civilisation",
+    "Carthaginian Empire",
+    "Ancient Carthaginian",
+    "Ancient Punic",
+    "Carthage civilisation",
+    "Punic civilisation"
+   ],
+   "tier": 2,
+   "lore": "Their general Hannibal led an army, elephants and all, over the Alps in 218 BC."
+  },
+  {
+   "answer": "Spartans",
+   "aliases": [
+    "Sparta",
+    "Spartan",
+    "Ancient Sparta",
+    "Ancient Spartans",
+    "Ancient Spartan",
+    "Sparta civilisation",
+    "Spartan civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kush",
+   "aliases": [
+    "Kushites",
+    "Nubians",
+    "Nubia",
+    "Kingdom of Kush",
+    "Kushite",
+    "Ancient Kush",
+    "Ancient Nubia",
+    "Meroë",
+    "Meroitic",
+    "Napata",
+    "Kushite civilisation",
+    "Ancient Kushites",
+    "Ancient Nubians",
+    "Ancient Kushite",
+    "Ancient Meroë",
+    "Ancient Meroitic",
+    "Ancient Napata",
+    "Kush civilisation",
+    "Nubians civilisation",
+    "Nubia civilisation",
+    "Meroë civilisation",
+    "Meroitic civilisation",
+    "Napata civilisation",
+    "Ancient Sudan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Huns",
+   "aliases": [
+    "Hunnic",
+    "Hun",
+    "Ancient Huns",
+    "Hunnic Empire",
+    "Ancient Hunnic",
+    "Ancient Hun",
+    "Hunnic civilisation",
+    "Hun civilisation"
+   ],
+   "tier": 2,
+   "lore": "Attila's Huns invaded Italy in 452 but turned back without taking Rome."
+  },
+  {
+   "answer": "Gauls",
+   "aliases": [
+    "Gaul",
+    "Gallic",
+    "Ancient Gaul",
+    "Ancient Gauls",
+    "Ancient Gallic",
+    "Gaul civilisation",
+    "Gallic civilisation",
+    "Ancient France"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vandals",
+   "aliases": [
+    "Vandal",
+    "Ancient Vandals",
+    "Ancient Vandal",
+    "Vandal civilisation"
+   ],
+   "tier": 2,
+   "lore": "Their sack of Rome in AD 455 later gave us the word vandalism."
+  },
+  {
+   "answer": "Ming",
+   "aliases": [
+    "Ming dynasty",
+    "Ming China",
+    "Ming Empire",
+    "Ancient Ming",
+    "Ancient Ming China",
+    "Ming civilisation",
+    "Mign"
+   ],
+   "tier": 2,
+   "lore": "In the early 1400s Ming treasure fleets under Zheng He sailed as far as East Africa."
+  },
+  {
+   "answer": "Akkadians",
+   "aliases": [
+    "Akkad",
+    "Akkadian Empire",
+    "Akkadian",
+    "Ancient Akkadians",
+    "Ancient Akkad",
+    "Ancient Akkadian",
+    "Akkad civilisation",
+    "Akkadian civilisation"
+   ],
+   "tier": 3,
+   "lore": "Sargon of Akkad built what is often called the world's first empire."
+  },
+  {
+   "answer": "Elamites",
+   "aliases": [
+    "Elam",
+    "Elamite",
+    "Ancient Elamites",
+    "Ancient Elam",
+    "Ancient Elamite",
+    "Elam civilisation",
+    "Elamite civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Medes",
+   "aliases": [
+    "Median Empire",
+    "Media",
+    "Ancient Medes",
+    "Ancient Media",
+    "Medes civilisation",
+    "Media civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Parthians",
+   "aliases": [
+    "Parthia",
+    "Parthian Empire",
+    "Arsacids",
+    "Ancient Parthians",
+    "Ancient Parthia",
+    "Ancient Arsacids",
+    "Parthians civilisation",
+    "Parthia civilisation",
+    "Arsacids civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sassanids",
+   "aliases": [
+    "Sasanians",
+    "Sassanian Empire",
+    "Sasanian Empire",
+    "Ancient Sassanids",
+    "Ancient Sasanians",
+    "Sassanids civilisation",
+    "Sasanians civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Scythians",
+   "aliases": [
+    "Scythia",
+    "Scythian",
+    "Saka",
+    "Sakas",
+    "Shakas",
+    "Sacae",
+    "Indo-Scythians",
+    "Ancient Scythians",
+    "Ancient Scythia",
+    "Ancient Scythian",
+    "Ancient Saka",
+    "Ancient Sakas",
+    "Ancient Shakas",
+    "Ancient Sacae",
+    "Ancient Indo-Scythians",
+    "Scythia civilisation",
+    "Scythian civilisation",
+    "Saka civilisation",
+    "Shakas civilisation",
+    "Sacae civilisation",
+    "Indo-Scythians civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Israelites",
+   "aliases": [
+    "Hebrews",
+    "Ancient Israelites",
+    "Kingdom of Israel",
+    "Ancient Israel",
+    "Kingdom of Judah",
+    "Judah",
+    "Judeans",
+    "Judaeans",
+    "Jews",
+    "Ancient Jews",
+    "Ancient Hebrews",
+    "Ancient Judah",
+    "Ancient Judeans",
+    "Ancient Judaeans",
+    "Israelites civilisation",
+    "Hebrews civilisation",
+    "Judah civilisation",
+    "Judeans civilisation",
+    "Judaeans civilisation",
+    "Jews civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Canaanites",
+   "aliases": [
+    "Canaan",
+    "Canaanite",
+    "Ancient Canaanites",
+    "Ancient Canaan",
+    "Ancient Canaanite",
+    "Canaan civilisation",
+    "Canaanite civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Philistines",
+   "aliases": [
+    "Philistine",
+    "Philistia",
+    "Ancient Philistines",
+    "Ancient Philistine",
+    "Ancient Philistia",
+    "Philistine civilisation",
+    "Philistia civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nabataeans",
+   "aliases": [
+    "Nabateans",
+    "Nabataea",
+    "Nabatean",
+    "Ancient Nabataeans",
+    "Ancient Nabateans",
+    "Ancient Nabataea",
+    "Ancient Nabatean",
+    "Nabataeans civilisation",
+    "Nabataea civilisation",
+    "Nabatean civilisation"
+   ],
+   "tier": 3,
+   "lore": "They carved Petra out of the rock and grew rich on the incense trade."
+  },
+  {
+   "answer": "Sabaeans",
+   "aliases": [
+    "Saba",
+    "Sheba",
+    "Kingdom of Saba",
+    "Kingdom of Sheba",
+    "Ancient Sabaeans",
+    "Ancient Saba",
+    "Ancient Sheba",
+    "Sabaeans civilisation",
+    "Saba civilisation",
+    "Sheba civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Trojans",
+   "aliases": [
+    "Troy",
+    "Trojan",
+    "Ancient Trojans",
+    "Ancient Troy",
+    "Ancient Trojan",
+    "Troy civilisation",
+    "Trojan civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Athenians",
+   "aliases": [
+    "Athens",
+    "Athenian",
+    "Ancient Athenians",
+    "Ancient Athens",
+    "Ancient Athenian",
+    "Athens civilisation",
+    "Athenian civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Macedonians",
+   "aliases": [
+    "Macedon",
+    "Macedonia",
+    "Ancient Macedonians",
+    "Macedonian Empire",
+    "Ancient Macedon",
+    "Ancient Macedonia",
+    "Macedonians civilisation",
+    "Macedon civilisation",
+    "Macedonia civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Byzantines",
+   "aliases": [
+    "Byzantine Empire",
+    "Byzantium",
+    "Eastern Roman Empire",
+    "Ancient Byzantines",
+    "Ancient Byzantium",
+    "Byzantines civilisation",
+    "Byzantium civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their secret weapon, Greek fire, burned even on water. Its recipe has been lost."
+  },
+  {
+   "answer": "Maurya Empire",
+   "aliases": [
+    "Mauryas",
+    "Mauryan Empire",
+    "Maurya",
+    "Ancient Mauryas",
+    "Ancient Maurya",
+    "Maurya civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gupta Empire",
+   "aliases": [
+    "Guptas",
+    "Gupta",
+    "Ancient Guptas",
+    "Ancient Gupta",
+    "Gupta civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Shang",
+   "aliases": [
+    "Shang dynasty",
+    "Shang civilisation",
+    "Ancient Shang"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ancient Japan",
+   "aliases": [
+    "Japan",
+    "Japanese",
+    "Yamato",
+    "Heian Japan",
+    "Heian period",
+    "Ancient Japanese",
+    "Ancient Yamato",
+    "Ancient Heian Japan",
+    "Japan civilisation",
+    "Japanese civilisation",
+    "Yamato civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Khmer",
+   "aliases": [
+    "Khmer Empire",
+    "Angkor",
+    "Ancient Khmer",
+    "Khmer civilisation",
+    "Ancient Angkor",
+    "Angkor civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their West Baray, a reservoir at Angkor some 8 km long, was built by hand nearly a thousand years ago."
+  },
+  {
+   "answer": "Aksum",
+   "aliases": [
+    "Axum",
+    "Aksumites",
+    "Kingdom of Aksum",
+    "Axumite Empire",
+    "Abyssinia",
+    "Ancient Ethiopia",
+    "Ancient Aksum",
+    "Ancient Axum",
+    "Ancient Aksumites",
+    "Ancient Abyssinia",
+    "Aksum civilisation",
+    "Axum civilisation",
+    "Aksumites civilisation",
+    "Abyssinia civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Berbers",
+   "aliases": [
+    "Amazigh",
+    "Imazighen",
+    "Berber",
+    "Tuareg",
+    "Libyans",
+    "Ancient Libyans",
+    "Libu",
+    "Ancient Berbers",
+    "Ancient Amazigh",
+    "Ancient Imazighen",
+    "Ancient Berber",
+    "Ancient Tuareg",
+    "Ancient Libu",
+    "Amazigh civilisation",
+    "Imazighen civilisation",
+    "Berber civilisation",
+    "Tuareg civilisation",
+    "Libyans civilisation",
+    "Libu civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Numidians",
+   "aliases": [
+    "Numidia",
+    "Numidian",
+    "Ancient Numidians",
+    "Ancient Numidia",
+    "Ancient Numidian",
+    "Numidia civilisation",
+    "Numidian civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nok",
+   "aliases": [
+    "Nok culture",
+    "Ancient Nok",
+    "Nok civilisation"
+   ],
+   "tier": 3,
+   "lore": "They made some of the earliest known sculptures of sub-Saharan Africa, in terracotta."
+  },
+  {
+   "answer": "Ghana Empire",
+   "aliases": [
+    "Ghana",
+    "Wagadu",
+    "Ancient Ghana",
+    "Ancient Wagadu",
+    "Ghana civilisation",
+    "Wagadu civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mali Empire",
+   "aliases": [
+    "Mali",
+    "Malian Empire",
+    "Ancient Mali",
+    "Mali civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Songhai",
+   "aliases": [
+    "Songhai Empire",
+    "Songhay",
+    "Ancient Songhai",
+    "Ancient Songhay",
+    "Songhai civilisation",
+    "Songhay civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Great Zimbabwe",
+   "aliases": [
+    "Kingdom of Zimbabwe",
+    "Shona",
+    "Zimbabwe",
+    "Ancient Zimbabwe",
+    "Ancient Great Zimbabwe",
+    "Ancient Shona",
+    "Great Zimbabwe civilisation",
+    "Shona civilisation",
+    "Zimbabwe civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Benin Empire",
+   "aliases": [
+    "Kingdom of Benin",
+    "Edo",
+    "Benin",
+    "Ancient Edo",
+    "Ancient Benin",
+    "Edo civilisation",
+    "Benin civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Toltecs",
+   "aliases": [
+    "Toltec",
+    "Ancient Toltecs",
+    "Ancient Toltec",
+    "Toltec civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zapotecs",
+   "aliases": [
+    "Zapotec",
+    "Ancient Zapotecs",
+    "Ancient Zapotec",
+    "Zapotec civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Teotihuacan",
+   "aliases": [
+    "Teotihuacanos",
+    "Ancient Teotihuacan",
+    "Ancient Teotihuacanos",
+    "Teotihuacan civilisation",
+    "Teotihuacanos civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Moche",
+   "aliases": [
+    "Mochica",
+    "Ancient Moche",
+    "Ancient Mochica",
+    "Moche civilisation",
+    "Mochica civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nazca",
+   "aliases": [
+    "Nasca",
+    "Nazca culture",
+    "Ancient Nazca",
+    "Ancient Nasca",
+    "Nazca civilisation",
+    "Nasca civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Norte Chico",
+   "aliases": [
+    "Caral-Supe",
+    "Caral",
+    "Caral civilisation",
+    "Ancient Norte Chico",
+    "Ancient Caral-Supe",
+    "Ancient Caral",
+    "Norte Chico civilisation",
+    "Caral-Supe civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ancestral Puebloans",
+   "aliases": [
+    "Anasazi",
+    "Puebloans",
+    "Pueblo",
+    "Pueblo peoples",
+    "Ancient Ancestral Puebloans",
+    "Ancient Anasazi",
+    "Ancient Puebloans",
+    "Ancient Pueblo",
+    "Ancestral Puebloans civilisation",
+    "Anasazi civilisation",
+    "Puebloans civilisation",
+    "Pueblo civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aboriginal Australians",
+   "aliases": [
+    "Aborigines",
+    "Aboriginal Australian",
+    "Indigenous Australians",
+    "First Australians",
+    "Ancient Aboriginal Australians",
+    "Ancient Aborigines",
+    "Ancient Aboriginal Australian",
+    "Ancient Indigenous Australians",
+    "Ancient First Australians",
+    "Aborigines civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their cultures are among the oldest continuous cultures on Earth, going back at least 50,000 years."
+  },
+  {
+   "answer": "Polynesians",
+   "aliases": [
+    "Polynesian",
+    "Ancient Polynesians",
+    "Ancient Polynesian",
+    "Polynesian civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Rapa Nui",
+   "aliases": [
+    "Easter Islanders",
+    "Ancient Rapa Nui",
+    "Rapa Nui civilisation"
+   ],
+   "tier": 3,
+   "lore": "On a tiny island far out in the Pacific, they carved nearly a thousand moai statues."
+  },
+  {
+   "answer": "Picts",
+   "aliases": [
+    "Pict",
+    "Pictish",
+    "Ancient Picts",
+    "Ancient Pict",
+    "Ancient Pictish",
+    "Pict civilisation",
+    "Pictish civilisation"
+   ],
+   "tier": 3,
+   "lore": "The Romans called them Picti, the painted ones, perhaps for body paint or tattoos."
+  },
+  {
+   "answer": "Ancient Britons",
+   "aliases": [
+    "Britons",
+    "Celtic Britons",
+    "Brythons",
+    "Ancient Brits",
+    "Ancient Celtic Britons",
+    "Ancient Brythons",
+    "Britons civilisation",
+    "Brythons civilisation",
+    "Ancient Britain"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Germanic peoples",
+   "aliases": [
+    "Germanic tribes",
+    "Germani",
+    "Ancient Germans",
+    "Germans",
+    "Ancient Germanic tribes",
+    "Ancient Germani",
+    "Germani civilisation",
+    "Germans civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Goths",
+   "aliases": [
+    "Gothic",
+    "Goth",
+    "Ancient Goths",
+    "Ancient Gothic",
+    "Ancient Goth",
+    "Gothic civilisation",
+    "Goth civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Anglo-Saxons",
+   "aliases": [
+    "Anglo-Saxon",
+    "Ancient Anglo-Saxons",
+    "Ancient Anglo-Saxon",
+    "Anglo-Saxon civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mongols",
+   "aliases": [
+    "Mongol Empire",
+    "Mongol",
+    "Golden Horde",
+    "Ilkhanate",
+    "Ancient Mongols",
+    "Ancient Mongol",
+    "Ancient Golden Horde",
+    "Ancient Ilkhanate",
+    "Mongol civilisation",
+    "Ilkhanate civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their empire was the largest contiguous land empire in history."
+  },
+  {
+   "answer": "Ottomans",
+   "aliases": [
+    "Ottoman Empire",
+    "Ottoman",
+    "Turks",
+    "Ancient Ottomans",
+    "Ancient Ottoman",
+    "Ancient Turks",
+    "Ottoman civilisation",
+    "Turks civilisation"
+   ],
+   "tier": 3,
+   "lore": "Mehmed II took Constantinople in 1453, ending the Roman Empire in the east."
+  },
+  {
+   "answer": "Arabs",
+   "aliases": [
+    "Arab",
+    "Ancient Arabs",
+    "Arabians",
+    "Ancient Arabia",
+    "Saracens",
+    "Ancient Arab",
+    "Ancient Arabians",
+    "Ancient Saracens",
+    "Arab civilisation",
+    "Arabians civilisation",
+    "Saracens civilisation"
+   ],
+   "tier": 3,
+   "lore": "The first known mention of Arabs is an Assyrian record of 853 BC naming Gindibu the Arab, who brought 1,000 camels to the battle of Qarqar."
+  },
+  {
+   "answer": "Iroquois",
+   "aliases": [
+    "Haudenosaunee",
+    "Iroquois Confederacy",
+    "Six Nations",
+    "Five Nations",
+    "Iroquois League",
+    "Ancient Iroquois",
+    "Ancient Haudenosaunee",
+    "Ancient Six Nations",
+    "Ancient Five Nations",
+    "Iroquois civilisation",
+    "Haudenosaunee civilisation"
+   ],
+   "tier": 3,
+   "lore": "The Haudenosaunee, 'people of the longhouse', joined five nations under the Great Law of Peace, by tradition long before Europeans arrived."
+  },
+  {
+   "answer": "Cherokee",
+   "aliases": [
+    "Cherokees",
+    "Tsalagi",
+    "Ancient Cherokee",
+    "Ancient Cherokees",
+    "Ancient Tsalagi",
+    "Cherokee civilisation",
+    "Tsalagi civilisation"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Inuit",
+   "aliases": [
+    "Inuk",
+    "Inuits",
+    "Ancient Inuit",
+    "Ancient Inuk",
+    "Ancient Inuits",
+    "Inuit civilisation",
+    "Inuk civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their Thule ancestors spread from Alaska to Greenland some 800 years ago, with dog sleds and skin boats."
+  },
+  {
+   "answer": "Abbasids",
+   "aliases": [
+    "Abbasid",
+    "Abbasid Caliphate",
+    "Abbasid Empire",
+    "Islamic Golden Age",
+    "Islamic civilisation",
+    "Ancient Abbasids",
+    "Ancient Abbasid",
+    "Abbasid civilisation"
+   ],
+   "tier": 3,
+   "lore": "Their Baghdad, founded in 762, had a House of Wisdom where Greek learning was translated into Arabic."
+  },
+  {
+   "answer": "Visigoths",
+   "aliases": [
+    "Visigoth",
+    "Ancient Visigoths",
+    "Ancient Visigoth",
+    "Visigoth civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ostrogoths",
+   "aliases": [
+    "Ostrogoth",
+    "Ancient Ostrogoths",
+    "Ancient Ostrogoth",
+    "Ostrogoth civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Franks",
+   "aliases": [
+    "Frankish",
+    "Frank",
+    "Ancient Franks",
+    "Ancient Frankish",
+    "Ancient Frank",
+    "Frankish civilisation",
+    "Frank civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Saxons",
+   "aliases": [
+    "Saxon",
+    "Ancient Saxons",
+    "Ancient Saxon",
+    "Saxon civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lombards",
+   "aliases": [
+    "Langobards",
+    "Langobardi",
+    "Ancient Lombards",
+    "Ancient Langobards",
+    "Ancient Langobardi",
+    "Lombards civilisation",
+    "Langobards civilisation",
+    "Langobardi civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alans",
+   "aliases": [
+    "Alani",
+    "Ancient Alans",
+    "Ancient Alani",
+    "Alans civilisation",
+    "Alani civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Teutons",
+   "aliases": [
+    "Teutones",
+    "Ancient Teutons",
+    "Ancient Teutones",
+    "Teutons civilisation",
+    "Teutones civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iceni",
+   "aliases": [
+    "Ancient Iceni",
+    "Iceni civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Brigantes",
+   "aliases": [
+    "Ancient Brigantes",
+    "Brigantes civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Caledonians",
+   "aliases": [
+    "Caledonii",
+    "Ancient Caledonians",
+    "Ancient Caledonii",
+    "Caledonians civilisation",
+    "Caledonii civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gaels",
+   "aliases": [
+    "Gael",
+    "Gaelic",
+    "Ancient Irish",
+    "Ancient Gaels",
+    "Ancient Gael",
+    "Ancient Gaelic",
+    "Gael civilisation",
+    "Gaelic civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Belgae",
+   "aliases": [
+    "Ancient Belgae",
+    "Belgae civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Helvetii",
+   "aliases": [
+    "Helvetians",
+    "Ancient Helvetii",
+    "Ancient Helvetians",
+    "Helvetii civilisation",
+    "Helvetians civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thracians",
+   "aliases": [
+    "Thrace",
+    "Thracian",
+    "Ancient Thracians",
+    "Ancient Thrace",
+    "Ancient Thracian",
+    "Thrace civilisation",
+    "Thracian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dacians",
+   "aliases": [
+    "Dacia",
+    "Dacian",
+    "Ancient Dacians",
+    "Ancient Dacia",
+    "Ancient Dacian",
+    "Dacia civilisation",
+    "Dacian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Illyrians",
+   "aliases": [
+    "Illyria",
+    "Illyrian",
+    "Ancient Illyrians",
+    "Ancient Illyria",
+    "Ancient Illyrian",
+    "Illyria civilisation",
+    "Illyrian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iberians",
+   "aliases": [
+    "Iberian",
+    "Ancient Iberians",
+    "Ancient Iberian",
+    "Iberian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Latins",
+   "aliases": [
+    "Latin people",
+    "Ancient Latins",
+    "Latins civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sabines",
+   "aliases": [
+    "Sabine",
+    "Ancient Sabines",
+    "Ancient Sabine",
+    "Sabine civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Samnites",
+   "aliases": [
+    "Samnite",
+    "Ancient Samnites",
+    "Ancient Samnite",
+    "Samnite civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hallstatt culture",
+   "aliases": [
+    "Hallstatt",
+    "Ancient Hallstatt",
+    "Hallstatt civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "La Tène culture",
+   "aliases": [
+    "La Tene",
+    "Ancient La Tene"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yamnaya",
+   "aliases": [
+    "Yamnaya culture",
+    "Pit Grave culture",
+    "Ancient Yamnaya",
+    "Yamnaya civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cycladic civilisation",
+   "aliases": [
+    "Cycladic",
+    "Cycladic culture",
+    "Ancient Cycladic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dorians",
+   "aliases": [
+    "Dorian",
+    "Ancient Dorians",
+    "Ancient Dorian",
+    "Dorian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ionians",
+   "aliases": [
+    "Ionian",
+    "Ancient Ionians",
+    "Ancient Ionian",
+    "Ionian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Achaeans",
+   "aliases": [
+    "Achaean",
+    "Ancient Achaeans",
+    "Ancient Achaean",
+    "Achaean civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lydians",
+   "aliases": [
+    "Lydia",
+    "Lydian",
+    "Ancient Lydians",
+    "Ancient Lydia",
+    "Ancient Lydian",
+    "Lydia civilisation",
+    "Lydian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Phrygians",
+   "aliases": [
+    "Phrygia",
+    "Phrygian",
+    "Ancient Phrygians",
+    "Ancient Phrygia",
+    "Ancient Phrygian",
+    "Phrygia civilisation",
+    "Phrygian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lycians",
+   "aliases": [
+    "Lycia",
+    "Lycian",
+    "Ancient Lycians",
+    "Ancient Lycia",
+    "Ancient Lycian",
+    "Lycia civilisation",
+    "Lycian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Luwians",
+   "aliases": [
+    "Luwian",
+    "Ancient Luwians",
+    "Ancient Luwian",
+    "Luwian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Urartu",
+   "aliases": [
+    "Urartians",
+    "Kingdom of Van",
+    "Ancient Urartu",
+    "Ancient Urartians",
+    "Urartu civilisation",
+    "Urartians civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hurrians",
+   "aliases": [
+    "Hurrian",
+    "Ancient Hurrians",
+    "Ancient Hurrian",
+    "Hurrian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mitanni",
+   "aliases": [
+    "Mittani",
+    "Ancient Mitanni",
+    "Ancient Mittani",
+    "Mitanni civilisation",
+    "Mittani civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kassites",
+   "aliases": [
+    "Kassite",
+    "Ancient Kassites",
+    "Ancient Kassite",
+    "Kassite civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Amorites",
+   "aliases": [
+    "Amorite",
+    "Ancient Amorites",
+    "Ancient Amorite",
+    "Amorite civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Arameans",
+   "aliases": [
+    "Aramaeans",
+    "Aramean",
+    "Ancient Arameans",
+    "Ancient Aramaeans",
+    "Ancient Aramean",
+    "Aramaeans civilisation",
+    "Aramean civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea Peoples",
+   "tier": 4,
+   "lore": "Seafaring raiders blamed for the fall of Bronze Age kingdoms around 1200 BC. Who they were is still argued over."
+  },
+  {
+   "answer": "Hyksos",
+   "aliases": [
+    "Ancient Hyksos",
+    "Hyksos civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Natufians",
+   "aliases": [
+    "Natufian culture",
+    "Natufian",
+    "Ancient Natufians",
+    "Ancient Natufian",
+    "Natufian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ubaid culture",
+   "aliases": [
+    "Ubaid",
+    "Ancient Ubaid",
+    "Ubaid civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Seleucids",
+   "aliases": [
+    "Seleucid Empire",
+    "Ancient Seleucids",
+    "Seleucids civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ptolemaic Egypt",
+   "aliases": [
+    "Ptolemaic Kingdom",
+    "Ptolemies",
+    "Ancient Ptolemaic Egypt",
+    "Ancient Ptolemies",
+    "Ptolemaic Egypt civilisation",
+    "Ptolemies civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bactrians",
+   "aliases": [
+    "Bactria",
+    "Greco-Bactrians",
+    "Bactrian",
+    "Ancient Bactrians",
+    "Ancient Bactria",
+    "Ancient Greco-Bactrians",
+    "Ancient Bactrian",
+    "Bactria civilisation",
+    "Greco-Bactrians civilisation",
+    "Bactrian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sogdians",
+   "aliases": [
+    "Sogdia",
+    "Sogdiana",
+    "Sogdian",
+    "Ancient Sogdians",
+    "Ancient Sogdia",
+    "Ancient Sogdiana",
+    "Ancient Sogdian",
+    "Sogdia civilisation",
+    "Sogdiana civilisation",
+    "Sogdian civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kushan Empire",
+   "aliases": [
+    "Kushans",
+    "Kushan",
+    "Ancient Kushans",
+    "Ancient Kushan",
+    "Kushan civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Xiongnu",
+   "aliases": [
+    "Ancient Xiongnu",
+    "Xiongnu civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Magadha",
+   "aliases": [
+    "Ancient Magadha",
+    "Magadha civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cholas",
+   "aliases": [
+    "Chola Empire",
+    "Chola",
+    "Ancient Cholas",
+    "Ancient Chola",
+    "Chola civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jōmon",
+   "aliases": [
+    "Jomon culture",
+    "Ancient Jōmon",
+    "Jōmon civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yayoi",
+   "aliases": [
+    "Yayoi culture",
+    "Ancient Yayoi",
+    "Yayoi civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gojoseon",
+   "aliases": [
+    "Ancient Gojoseon",
+    "Gojoseon civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Goguryeo",
+   "aliases": [
+    "Koguryo",
+    "Ancient Goguryeo",
+    "Ancient Koguryo",
+    "Goguryeo civilisation",
+    "Koguryo civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Silla",
+   "aliases": [
+    "Ancient Silla",
+    "Silla civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ancient Korea",
+   "aliases": [
+    "Korea",
+    "Koreans",
+    "Three Kingdoms of Korea",
+    "Ancient Koreans",
+    "Korea civilisation",
+    "Koreans civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Champa",
+   "aliases": [
+    "Cham",
+    "Ancient Champa",
+    "Ancient Cham",
+    "Champa civilisation",
+    "Cham civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dong Son culture",
+   "aliases": [
+    "Dong Son",
+    "Ancient Vietnam",
+    "Văn Lang",
+    "Âu Lạc",
+    "Ancient Dong Son",
+    "Ancient Văn Lang",
+    "Ancient Âu Lạc"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Srivijaya",
+   "aliases": [
+    "Ancient Srivijaya",
+    "Srivijaya civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Majapahit",
+   "aliases": [
+    "Ancient Majapahit",
+    "Majapahit civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kerma",
+   "aliases": [
+    "Kerma culture",
+    "Ancient Kerma",
+    "Kerma civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Punt",
+   "aliases": [
+    "Land of Punt",
+    "Ancient Punt",
+    "Punt civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mapungubwe",
+   "aliases": [
+    "Ancient Mapungubwe",
+    "Mapungubwe civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Swahili",
+   "aliases": [
+    "Swahili coast",
+    "Swahili city-states",
+    "Ancient Swahili",
+    "Ancient Swahili coast",
+    "Ancient Swahili city-states",
+    "Swahili civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ife",
+   "aliases": [
+    "Ile-Ife",
+    "Ancient Ife",
+    "Ancient Ile-Ife",
+    "Ife civilisation",
+    "Ile-Ife civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kanem",
+   "aliases": [
+    "Kanem Empire",
+    "Kanem-Bornu",
+    "Bornu",
+    "Bornu Empire",
+    "Ancient Kanem",
+    "Ancient Kanem-Bornu",
+    "Ancient Bornu",
+    "Kanem civilisation",
+    "Kanem-Bornu civilisation",
+    "Bornu civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kongo",
+   "aliases": [
+    "Kingdom of Kongo",
+    "Ancient Kongo",
+    "Kongo civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mixtecs",
+   "aliases": [
+    "Mixtec",
+    "Ancient Mixtecs",
+    "Ancient Mixtec",
+    "Mixtec civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Totonacs",
+   "aliases": [
+    "Totonac",
+    "Ancient Totonacs",
+    "Ancient Totonac",
+    "Totonac civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tarascans",
+   "aliases": [
+    "Purépecha",
+    "Tarascan",
+    "Ancient Tarascans",
+    "Ancient Purépecha",
+    "Ancient Tarascan",
+    "Purépecha civilisation",
+    "Tarascan civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chavín",
+   "aliases": [
+    "Chavin culture",
+    "Ancient Chavín",
+    "Chavín civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Paracas",
+   "aliases": [
+    "Paracas culture",
+    "Ancient Paracas",
+    "Paracas civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tiwanaku",
+   "aliases": [
+    "Tiahuanaco",
+    "Ancient Tiwanaku",
+    "Ancient Tiahuanaco",
+    "Tiwanaku civilisation",
+    "Tiahuanaco civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wari",
+   "aliases": [
+    "Huari",
+    "Ancient Wari",
+    "Ancient Huari",
+    "Wari civilisation",
+    "Huari civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chimú",
+   "aliases": [
+    "Chimor",
+    "Ancient Chimú",
+    "Ancient Chimor",
+    "Chimú civilisation",
+    "Chimor civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chachapoya",
+   "aliases": [
+    "Chachapoyas",
+    "Ancient Chachapoya",
+    "Ancient Chachapoyas",
+    "Chachapoya civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Muisca",
+   "aliases": [
+    "Chibcha",
+    "Ancient Muisca",
+    "Ancient Chibcha",
+    "Muisca civilisation",
+    "Chibcha civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tairona",
+   "aliases": [
+    "Ancient Tairona",
+    "Tairona civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Taíno",
+   "aliases": [
+    "Ancient Taíno",
+    "Taíno civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Arawaks",
+   "aliases": [
+    "Arawak",
+    "Ancient Arawaks",
+    "Ancient Arawak",
+    "Arawak civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hohokam",
+   "aliases": [
+    "Ancient Hohokam",
+    "Hohokam civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mogollon",
+   "aliases": [
+    "Ancient Mogollon",
+    "Mogollon civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mississippians",
+   "aliases": [
+    "Mississippian culture",
+    "Ancient Mississippians",
+    "Mississippians civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hopewell",
+   "aliases": [
+    "Hopewell culture",
+    "Ancient Hopewell",
+    "Hopewell civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Clovis",
+   "aliases": [
+    "Clovis culture",
+    "Ancient Clovis",
+    "Clovis civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lapita",
+   "aliases": [
+    "Lapita culture",
+    "Ancient Lapita",
+    "Lapita civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Māori",
+   "aliases": [
+    "Ancient Māori",
+    "Māori civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ancient Hawaiians",
+   "aliases": [
+    "Hawaiians",
+    "Hawaiians civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Moors",
+   "aliases": [
+    "Ancient Moors",
+    "Moors civilisation"
+   ],
+   "tier": 4,
+   "lore": "They ruled much of Iberia from 711, and their last kingdom, Granada, fell in 1492."
+  },
+  {
+   "answer": "Göktürks",
+   "aliases": [
+    "Turkic Khaganate",
+    "Celestial Turks",
+    "Kök Türks",
+    "Turkic",
+    "Ancient Göktürks",
+    "Ancient Celestial Turks",
+    "Ancient Kök Türks",
+    "Ancient Turkic",
+    "Göktürks civilisation",
+    "Turkic civilisation"
+   ],
+   "tier": 4,
+   "lore": "Their Orkhon inscriptions, carved in the 730s, are among the oldest known texts in a Turkic language."
+  },
+  {
+   "answer": "Sioux",
+   "aliases": [
+    "Lakota",
+    "Dakota",
+    "Nakota",
+    "Oceti Sakowin",
+    "Ancient Sioux",
+    "Ancient Lakota",
+    "Ancient Dakota",
+    "Ancient Nakota",
+    "Ancient Oceti Sakowin",
+    "Sioux civilisation",
+    "Lakota civilisation",
+    "Dakota civilisation",
+    "Nakota civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Navajo",
+   "aliases": [
+    "Navaho",
+    "Diné",
+    "Ancient Navajo",
+    "Ancient Navaho",
+    "Ancient Diné",
+    "Navajo civilisation",
+    "Navaho civilisation",
+    "Diné civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Apache",
+   "aliases": [
+    "Apaches",
+    "Ancient Apache",
+    "Ancient Apaches",
+    "Apache civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hopi",
+   "aliases": [
+    "Ancient Hopi",
+    "Hopi civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "San",
+   "aliases": [
+    "San people",
+    "Basarwa",
+    "Khoisan",
+    "Khoe-San",
+    "Ancient San",
+    "Ancient Basarwa",
+    "Ancient Khoisan",
+    "Ancient Khoe-San",
+    "San civilisation",
+    "Basarwa civilisation",
+    "Khoisan civilisation",
+    "Khoe-San civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Umayyads",
+   "aliases": [
+    "Umayyad",
+    "Umayyad Caliphate",
+    "Umayyads of Córdoba",
+    "Ancient Umayyads",
+    "Ancient Umayyad",
+    "Umayyad civilisation"
+   ],
+   "tier": 4,
+   "lore": "By about 715 their caliphate stretched from Spain to the Indus."
+  },
+  {
+   "answer": "Fatimids",
+   "aliases": [
+    "Fatimid",
+    "Fatimid Caliphate",
+    "Ancient Fatimids",
+    "Ancient Fatimid",
+    "Fatimid civilisation"
+   ],
+   "tier": 4,
+   "lore": "They founded Cairo in 969."
+  },
+  {
+   "answer": "Seljuks",
+   "aliases": [
+    "Seljuk",
+    "Seljuqs",
+    "Seljuk Turks",
+    "Seljuk Empire",
+    "Great Seljuks",
+    "Sultanate of Rum",
+    "Ancient Seljuks",
+    "Ancient Seljuk",
+    "Ancient Seljuqs",
+    "Ancient Seljuk Turks",
+    "Ancient Great Seljuks",
+    "Seljuk civilisation",
+    "Seljuqs civilisation"
+   ],
+   "tier": 4,
+   "lore": "Their victory over the Byzantines at Manzikert in 1071 opened Anatolia to the Turks."
+  },
+  {
+   "answer": "Mamluks",
+   "aliases": [
+    "Mamluk",
+    "Mamelukes",
+    "Mamluk Sultanate",
+    "Ancient Mamluks",
+    "Ancient Mamluk",
+    "Ancient Mamelukes",
+    "Mamluk civilisation",
+    "Mamelukes civilisation"
+   ],
+   "tier": 4,
+   "lore": "Slave soldiers who took Egypt for themselves and in 1260 beat the Mongols at Ain Jalut."
+  },
+  {
+   "answer": "Timurids",
+   "aliases": [
+    "Timurid",
+    "Timurid Empire",
+    "Ancient Timurids",
+    "Ancient Timurid",
+    "Timurid civilisation"
+   ],
+   "tier": 4,
+   "lore": "Timur's heirs made Samarkand a centre of learning; part of Ulugh Beg's great observatory survives."
+  },
+  {
+   "answer": "Delhi Sultanate",
+   "aliases": [
+    "Sultanate of Delhi"
+   ],
+   "tier": 4,
+   "lore": "Its first sultan, Qutb ud-Din Aibak, began the Qutb Minar around 1199."
+  },
+  {
+   "answer": "Vijayanagara",
+   "aliases": [
+    "Vijayanagara Empire",
+    "Vijayanagar",
+    "Vijayanagar Empire",
+    "Karnata Empire",
+    "Ancient Vijayanagara",
+    "Ancient Vijayanagar",
+    "Vijayanagara civilisation",
+    "Vijayanagar civilisation"
+   ],
+   "tier": 4,
+   "lore": "Its capital, Hampi, is thought to have been one of the largest cities in the world around 1500."
+  },
+  {
+   "answer": "Rashtrakutas",
+   "aliases": [
+    "Rashtrakuta",
+    "Rashtrakuta Empire",
+    "Ancient Rashtrakutas",
+    "Ancient Rashtrakuta",
+    "Rashtrakuta civilisation"
+   ],
+   "tier": 4,
+   "lore": "They carved the Kailasa temple at Ellora out of a single cliff."
+  },
+  {
+   "answer": "Chalukyas",
+   "aliases": [
+    "Chalukya",
+    "Badami Chalukyas",
+    "Western Chalukyas",
+    "Eastern Chalukyas",
+    "Ancient Chalukyas",
+    "Ancient Chalukya",
+    "Ancient Badami Chalukyas",
+    "Ancient Western Chalukyas",
+    "Ancient Eastern Chalukyas",
+    "Chalukya civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pallavas",
+   "aliases": [
+    "Pallava",
+    "Pallava dynasty",
+    "Ancient Pallavas",
+    "Ancient Pallava",
+    "Pallava civilisation"
+   ],
+   "tier": 4,
+   "lore": "They built the Shore Temple and the rock carvings of Mahabalipuram."
+  },
+  {
+   "answer": "Rajputs",
+   "aliases": [
+    "Rajput",
+    "Rajput kingdoms",
+    "Ancient Rajputs",
+    "Ancient Rajput",
+    "Rajput civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sinhalese",
+   "aliases": [
+    "Sinhala",
+    "Ancient Sri Lanka",
+    "Anuradhapura Kingdom",
+    "Kingdom of Anuradhapura",
+    "Polonnaruwa Kingdom",
+    "Ancient Sinhalese",
+    "Ancient Sinhala",
+    "Sinhalese civilisation",
+    "Sinhala civilisation"
+   ],
+   "tier": 4,
+   "lore": "The Mahavamsa chronicle says Prince Vijaya founded the first Sinhalese kingdom in 543 BC, a date that belongs to legend."
+  },
+  {
+   "answer": "Ancient Tamils",
+   "aliases": [
+    "Tamils",
+    "Tamilakam",
+    "Sangam",
+    "Sangam age",
+    "Sangam period",
+    "Ancient Tamilakam",
+    "Ancient Sangam",
+    "Tamils civilisation",
+    "Tamilakam civilisation",
+    "Sangam civilisation"
+   ],
+   "tier": 4,
+   "lore": "Sangam poetry, the oldest Tamil literature, describes their kingdoms and their trade with Rome."
+  },
+  {
+   "answer": "Gandhara",
+   "aliases": [
+    "Gandharan",
+    "Gandhara civilisation",
+    "Ancient Gandhara",
+    "Ancient Gandharan",
+    "Gandharan civilisation"
+   ],
+   "tier": 4,
+   "lore": "Its Buddhist sculptors gave the Buddha a Greek look, with wavy hair and flowing robes."
+  },
+  {
+   "answer": "Indo-Greeks",
+   "aliases": [
+    "Indo-Greek Kingdom",
+    "Yavanas",
+    "Ancient Indo-Greeks",
+    "Ancient Yavanas",
+    "Indo-Greeks civilisation",
+    "Yavanas civilisation"
+   ],
+   "tier": 4,
+   "lore": "King Menander, the Milinda of a Buddhist dialogue, ruled from Sagala in the Punjab."
+  },
+  {
+   "answer": "Sarmatians",
+   "aliases": [
+    "Ancient Sarmatians",
+    "Sarmatians civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cimmerians",
+   "aliases": [
+    "Ancient Cimmerians",
+    "Cimmerians civilisation"
+   ],
+   "tier": 4,
+   "lore": "Real horsemen of the steppe, whose name Robert E. Howard later borrowed for Conan."
+  },
+  {
+   "answer": "Uyghurs",
+   "aliases": [
+    "Uighurs",
+    "Uyghur Khaganate",
+    "Uighur Khaganate",
+    "Ancient Uyghurs",
+    "Ancient Uighurs",
+    "Uyghurs civilisation",
+    "Uighurs civilisation"
+   ],
+   "tier": 4,
+   "lore": "The Uyghur Khaganate ruled the Mongolian steppe from 744 to 840."
+  },
+  {
+   "answer": "Sanxingdui",
+   "aliases": [
+    "Sanxingdui culture",
+    "Ancient Shu",
+    "Shu",
+    "Ancient Sanxingdui",
+    "Sanxingdui civilisation",
+    "Shu civilisation"
+   ],
+   "tier": 4,
+   "lore": "Its bronze masks have eyes that jut out on stalks, and nobody knows whom they portray."
+  },
+  {
+   "answer": "Yangshao culture",
+   "aliases": [
+    "Yangshao",
+    "Ancient Yangshao",
+    "Yangshao civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Joseon",
+   "aliases": [
+    "Joseon dynasty",
+    "Chosŏn",
+    "Yi dynasty",
+    "Ancient Joseon",
+    "Ancient Chosŏn",
+    "Joseon civilisation",
+    "Chosŏn civilisation"
+   ],
+   "tier": 4,
+   "lore": "King Sejong's scholars created the Korean alphabet, Hangul, in 1443."
+  },
+  {
+   "answer": "Goryeo",
+   "aliases": [
+    "Koryo",
+    "Goryeo dynasty",
+    "Ancient Goryeo",
+    "Ancient Koryo",
+    "Goryeo civilisation",
+    "Koryo civilisation"
+   ],
+   "tier": 4,
+   "lore": "It gave Korea its name, and in 1377 its monks printed a book with metal type."
+  },
+  {
+   "answer": "Ainu",
+   "aliases": [
+    "Ainu people",
+    "Ancient Ainu",
+    "Ainu civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Đại Việt",
+   "aliases": [
+    "Ly dynasty",
+    "Tran dynasty",
+    "Ancient Đại Việt",
+    "Đại Việt civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ayutthaya Kingdom",
+   "aliases": [
+    "Ayutthaya",
+    "Kingdom of Ayutthaya",
+    "Ancient Ayutthaya",
+    "Ayutthaya civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Basques",
+   "aliases": [
+    "Vascones",
+    "Basque people",
+    "Ancient Basques",
+    "Ancient Vascones",
+    "Basques civilisation",
+    "Vascones civilisation"
+   ],
+   "tier": 4,
+   "lore": "Their language is the last survivor of those spoken in western Europe before the Indo-European languages arrived."
+  },
+  {
+   "answer": "Guanches",
+   "aliases": [
+    "Ancient Guanches",
+    "Guanches civilisation"
+   ],
+   "tier": 4,
+   "lore": "The first people of the Canary Islands; Silbo Gomero, the whistled language of La Gomera, is thought to come from them."
+  },
+  {
+   "answer": "Galatians",
+   "aliases": [
+    "Ancient Galatians",
+    "Galatians civilisation"
+   ],
+   "tier": 4,
+   "lore": "Celts who settled in central Anatolia; St Paul wrote them a letter."
+  },
+  {
+   "answer": "Armenians",
+   "aliases": [
+    "Ancient Armenia",
+    "Ancient Armenians",
+    "Kingdom of Armenia",
+    "Armenia",
+    "Armenians civilisation",
+    "Armenia civilisation"
+   ],
+   "tier": 4,
+   "lore": "By tradition Armenia was the first country to make Christianity its state religion, in 301."
+  },
+  {
+   "answer": "Palmyrenes",
+   "aliases": [
+    "Palmyrene Empire",
+    "Ancient Palmyrenes",
+    "Palmyrenes civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Uruk period",
+   "aliases": [
+    "Uruk culture",
+    "Uruk",
+    "Ancient Uruk",
+    "Uruk civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yoruba",
+   "aliases": [
+    "Yoruba people",
+    "Oyo Empire",
+    "Oyo",
+    "Ancient Yoruba",
+    "Ancient Oyo",
+    "Yoruba civilisation",
+    "Oyo civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hausa",
+   "aliases": [
+    "Hausa kingdoms",
+    "Hausa states",
+    "Hausaland",
+    "Ancient Hausa",
+    "Ancient Hausaland",
+    "Hausa civilisation",
+    "Hausaland civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mutapa",
+   "aliases": [
+    "Mutapa Empire",
+    "Monomotapa",
+    "Mwenemutapa",
+    "Ancient Mutapa",
+    "Ancient Monomotapa",
+    "Ancient Mwenemutapa",
+    "Mutapa civilisation",
+    "Monomotapa civilisation",
+    "Mwenemutapa civilisation"
+   ],
+   "tier": 4,
+   "lore": "Its kings controlled the gold that drew Portuguese traders inland."
+  },
+  {
+   "answer": "Mapuche",
+   "aliases": [
+    "Mapuches",
+    "Araucanians",
+    "Ancient Mapuche",
+    "Ancient Mapuches",
+    "Ancient Araucanians",
+    "Mapuche civilisation",
+    "Araucanians civilisation"
+   ],
+   "tier": 4,
+   "lore": "They held off the Incas, and the Spanish never conquered them."
+  },
+  {
+   "answer": "Nahua",
+   "aliases": [
+    "Nahuas",
+    "Nahua peoples",
+    "Ancient Nahua",
+    "Ancient Nahuas",
+    "Nahua civilisation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Angles",
+   "aliases": [
+    "Ancient Angles",
+    "Angles civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jutes",
+   "aliases": [
+    "Ancient Jutes",
+    "Jutes civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Suebi",
+   "aliases": [
+    "Suevi",
+    "Ancient Suebi",
+    "Ancient Suevi",
+    "Suebi civilisation",
+    "Suevi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Burgundians",
+   "aliases": [
+    "Ancient Burgundians",
+    "Burgundians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gepids",
+   "aliases": [
+    "Ancient Gepids",
+    "Gepids civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Heruli",
+   "aliases": [
+    "Ancient Heruli",
+    "Heruli civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cimbri",
+   "aliases": [
+    "Ancient Cimbri",
+    "Cimbri civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marcomanni",
+   "aliases": [
+    "Ancient Marcomanni",
+    "Marcomanni civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alemanni",
+   "aliases": [
+    "Alamanni",
+    "Ancient Alemanni",
+    "Ancient Alamanni",
+    "Alemanni civilisation",
+    "Alamanni civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Frisians",
+   "aliases": [
+    "Frisii",
+    "Ancient Frisians",
+    "Ancient Frisii",
+    "Frisians civilisation",
+    "Frisii civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Batavians",
+   "aliases": [
+    "Batavi",
+    "Ancient Batavians",
+    "Ancient Batavi",
+    "Batavians civilisation",
+    "Batavi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arverni",
+   "aliases": [
+    "Ancient Arverni",
+    "Arverni civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Catuvellauni",
+   "aliases": [
+    "Ancient Catuvellauni",
+    "Catuvellauni civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silures",
+   "aliases": [
+    "Ancient Silures",
+    "Silures civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Scoti",
+   "aliases": [
+    "Ancient Scoti",
+    "Scoti civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Celtiberians",
+   "aliases": [
+    "Celtiberian",
+    "Ancient Celtiberians",
+    "Ancient Celtiberian",
+    "Celtiberian civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lusitanians",
+   "aliases": [
+    "Lusitani",
+    "Ancient Lusitanians",
+    "Ancient Lusitani",
+    "Lusitanians civilisation",
+    "Lusitani civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ligurians",
+   "aliases": [
+    "Ancient Ligurians",
+    "Ligurians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oscans",
+   "aliases": [
+    "Ancient Oscans",
+    "Oscans civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Umbrians",
+   "aliases": [
+    "Ancient Umbrians",
+    "Umbrians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Messapians",
+   "aliases": [
+    "Ancient Messapians",
+    "Messapians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sicels",
+   "aliases": [
+    "Siculi",
+    "Ancient Sicels",
+    "Ancient Siculi",
+    "Sicels civilisation",
+    "Siculi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Elymians",
+   "aliases": [
+    "Ancient Elymians",
+    "Elymians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Villanovan culture",
+   "aliases": [
+    "Villanovan",
+    "Ancient Villanovan",
+    "Villanovan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Talayotic culture",
+   "aliases": [
+    "Talayotic",
+    "Ancient Talayotic",
+    "Talayotic civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Beaker culture",
+   "aliases": [
+    "Bell Beaker culture",
+    "Beaker folk",
+    "Ancient Beaker folk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Corded Ware culture",
+   "aliases": [
+    "Corded Ware",
+    "Ancient Corded Ware"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cucuteni-Trypillia",
+   "aliases": [
+    "Trypillia",
+    "Cucuteni",
+    "Tripolye",
+    "Ancient Cucuteni-Trypillia",
+    "Ancient Trypillia",
+    "Ancient Cucuteni",
+    "Ancient Tripolye",
+    "Cucuteni-Trypillia civilisation",
+    "Trypillia civilisation",
+    "Cucuteni civilisation",
+    "Tripolye civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vinča culture",
+   "aliases": [
+    "Vinca",
+    "Ancient Vinca",
+    "Vinca civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Varna culture",
+   "tier": 5
+  },
+  {
+   "answer": "Pelasgians",
+   "aliases": [
+    "Ancient Pelasgians",
+    "Pelasgians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aeolians",
+   "aliases": [
+    "Ancient Aeolians",
+    "Aeolians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Epirotes",
+   "aliases": [
+    "Epirus",
+    "Ancient Epirotes",
+    "Ancient Epirus",
+    "Epirotes civilisation",
+    "Epirus civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carians",
+   "aliases": [
+    "Ancient Carians",
+    "Carians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hattians",
+   "aliases": [
+    "Ancient Hattians",
+    "Hattians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gutians",
+   "aliases": [
+    "Ancient Gutians",
+    "Gutians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ammonites",
+   "aliases": [
+    "Ancient Ammonites",
+    "Ammonites civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moabites",
+   "aliases": [
+    "Moab",
+    "Ancient Moabites",
+    "Ancient Moab",
+    "Moabites civilisation",
+    "Moab civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edomites",
+   "aliases": [
+    "Edom",
+    "Ancient Edomites",
+    "Ancient Edom",
+    "Edomites civilisation",
+    "Edom civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Himyarites",
+   "aliases": [
+    "Himyar",
+    "Ancient Himyarites",
+    "Ancient Himyar",
+    "Himyarites civilisation",
+    "Himyar civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Qatabanians",
+   "aliases": [
+    "Qataban",
+    "Ancient Qatabanians",
+    "Ancient Qataban",
+    "Qatabanians civilisation",
+    "Qataban civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Minaeans",
+   "aliases": [
+    "Ancient Minaeans",
+    "Minaeans civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Magan",
+   "aliases": [
+    "Ancient Magan",
+    "Magan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Halaf culture",
+   "tier": 5
+  },
+  {
+   "answer": "Jemdet Nasr",
+   "aliases": [
+    "Ancient Jemdet Nasr",
+    "Jemdet Nasr civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samarra culture",
+   "tier": 5
+  },
+  {
+   "answer": "Oxus Civilisation",
+   "aliases": [
+    "BMAC",
+    "Bactria-Margiana",
+    "Ancient Bactria-Margiana",
+    "Bactria-Margiana civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jiroft culture",
+   "tier": 5
+  },
+  {
+   "answer": "Yuezhi",
+   "aliases": [
+    "Ancient Yuezhi",
+    "Yuezhi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Satavahanas",
+   "aliases": [
+    "Satavahana",
+    "Ancient Satavahanas",
+    "Ancient Satavahana",
+    "Satavahana civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pandyas",
+   "aliases": [
+    "Pandya",
+    "Ancient Pandyas",
+    "Ancient Pandya",
+    "Pandya civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cheras",
+   "aliases": [
+    "Chera",
+    "Ancient Cheras",
+    "Ancient Chera",
+    "Chera civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kalinga",
+   "aliases": [
+    "Ancient Kalinga",
+    "Kalinga civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kofun",
+   "aliases": [
+    "Kofun period",
+    "Ancient Kofun",
+    "Kofun civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baekje",
+   "aliases": [
+    "Paekche",
+    "Ancient Baekje",
+    "Ancient Paekche",
+    "Baekje civilisation",
+    "Paekche civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Funan",
+   "aliases": [
+    "Ancient Funan",
+    "Funan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pyu",
+   "aliases": [
+    "Pyu city-states",
+    "Ancient Pyu",
+    "Ancient Pyu city-states",
+    "Pyu civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dvaravati",
+   "aliases": [
+    "Ancient Dvaravati",
+    "Dvaravati civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pagan Kingdom",
+   "tier": 5
+  },
+  {
+   "answer": "Sukhothai Kingdom",
+   "aliases": [
+    "Sukhothai",
+    "Ancient Sukhothai",
+    "Sukhothai civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tibetan Empire",
+   "aliases": [
+    "Tibetans",
+    "Ancient Tibet",
+    "Ancient Tibetans",
+    "Tibetans civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "D'mt",
+   "aliases": [
+    "Ancient D'mt",
+    "D'mt civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Igbo-Ukwu",
+   "aliases": [
+    "Ancient Igbo-Ukwu",
+    "Igbo-Ukwu civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sao civilisation",
+   "aliases": [
+    "Sao",
+    "Ancient Sao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mauretania",
+   "aliases": [
+    "Ancient Mauretania",
+    "Mauretania civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makuria",
+   "aliases": [
+    "Ancient Makuria",
+    "Makuria civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alodia",
+   "aliases": [
+    "Ancient Alodia",
+    "Alodia civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zagwe",
+   "aliases": [
+    "Zagwe dynasty",
+    "Ancient Zagwe",
+    "Zagwe civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kilwa Sultanate",
+   "aliases": [
+    "Kilwa",
+    "Ancient Kilwa",
+    "Kilwa civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Huastecs",
+   "aliases": [
+    "Huastec",
+    "Ancient Huastecs",
+    "Ancient Huastec",
+    "Huastec civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Izapa",
+   "aliases": [
+    "Ancient Izapa",
+    "Izapa civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Epi-Olmec",
+   "aliases": [
+    "Ancient Epi-Olmec",
+    "Epi-Olmec civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lambayeque",
+   "aliases": [
+    "Sicán culture",
+    "Ancient Lambayeque",
+    "Lambayeque civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Recuay",
+   "aliases": [
+    "Ancient Recuay",
+    "Recuay civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Valdivia culture",
+   "tier": 5
+  },
+  {
+   "answer": "Marajoara",
+   "aliases": [
+    "Ancient Marajoara",
+    "Marajoara civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caribs",
+   "aliases": [
+    "Kalinago",
+    "Ancient Caribs",
+    "Ancient Kalinago",
+    "Caribs civilisation",
+    "Kalinago civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adena",
+   "aliases": [
+    "Adena culture",
+    "Ancient Adena",
+    "Adena civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Poverty Point culture",
+   "tier": 5
+  },
+  {
+   "answer": "Fremont culture",
+   "tier": 5
+  },
+  {
+   "answer": "Dorset culture",
+   "tier": 5
+  },
+  {
+   "answer": "Thule people",
+   "aliases": [
+    "Thule culture",
+    "Thule",
+    "Ancient Thule",
+    "Thule civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saudeleur",
+   "aliases": [
+    "Saudeleur dynasty",
+    "Ancient Saudeleur",
+    "Saudeleur civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tu'i Tonga",
+   "aliases": [
+    "Tui Tonga Empire",
+    "Ancient Tu'i Tonga",
+    "Tu'i Tonga civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Early Slavs",
+   "aliases": [
+    "Slavs",
+    "Ancient Early Slavs",
+    "Ancient Slavs",
+    "Early Slavs civilisation",
+    "Slavs civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Badarian",
+   "aliases": [
+    "Badarian culture",
+    "Badari",
+    "Ancient Badarian",
+    "Ancient Badari",
+    "Badarian civilisation",
+    "Badari civilisation"
+   ],
+   "tier": 5,
+   "lore": "Upper Egypt's earliest farming culture, named after el-Badari, where it was found in the 1920s."
+  },
+  {
+   "answer": "Naqada",
+   "aliases": [
+    "Naqada culture",
+    "Gerzean",
+    "Amratian",
+    "Ancient Naqada",
+    "Ancient Gerzean",
+    "Ancient Amratian",
+    "Naqada civilisation",
+    "Gerzean civilisation",
+    "Amratian civilisation"
+   ],
+   "tier": 5,
+   "lore": "Egypt's last prehistoric culture, from which the first pharaohs emerged."
+  },
+  {
+   "answer": "Zuni",
+   "aliases": [
+    "A:shiwi",
+    "Ancient Zuni",
+    "Ancient A:shiwi",
+    "Zuni civilisation",
+    "A:shiwi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cree",
+   "aliases": [
+    "Nehiyawak",
+    "Ancient Cree",
+    "Ancient Nehiyawak",
+    "Cree civilisation",
+    "Nehiyawak civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ojibwe",
+   "aliases": [
+    "Ojibwa",
+    "Chippewa",
+    "Anishinaabe",
+    "Ancient Ojibwe",
+    "Ancient Ojibwa",
+    "Ancient Chippewa",
+    "Ancient Anishinaabe",
+    "Ojibwe civilisation",
+    "Ojibwa civilisation",
+    "Chippewa civilisation",
+    "Anishinaabe civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mohawk",
+   "aliases": [
+    "Kanien'kehá:ka",
+    "Ancient Mohawk",
+    "Ancient Kanien'kehá:ka",
+    "Mohawk civilisation",
+    "Kanien'kehá:ka civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wendat",
+   "aliases": [
+    "Huron",
+    "Hurons",
+    "Wyandot",
+    "Ancient Wendat",
+    "Ancient Huron",
+    "Ancient Hurons",
+    "Ancient Wyandot",
+    "Wendat civilisation",
+    "Huron civilisation",
+    "Wyandot civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Calusa",
+   "aliases": [
+    "Ancient Calusa",
+    "Calusa civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Natchez",
+   "aliases": [
+    "Ancient Natchez",
+    "Natchez civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mandan",
+   "aliases": [
+    "Ancient Mandan",
+    "Mandan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chumash",
+   "aliases": [
+    "Ancient Chumash",
+    "Chumash civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Haida",
+   "aliases": [
+    "Ancient Haida",
+    "Haida civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khoikhoi",
+   "aliases": [
+    "Khoekhoe",
+    "Khoi",
+    "Ancient Khoikhoi",
+    "Ancient Khoekhoe",
+    "Ancient Khoi",
+    "Khoikhoi civilisation",
+    "Khoekhoe civilisation",
+    "Khoi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ayyubids",
+   "aliases": [
+    "Ayyubid",
+    "Ayyubid Sultanate",
+    "Ancient Ayyubids",
+    "Ancient Ayyubid",
+    "Ayyubid civilisation"
+   ],
+   "tier": 5,
+   "lore": "Saladin's family."
+  },
+  {
+   "answer": "Almoravids",
+   "aliases": [
+    "Almoravid",
+    "Ancient Almoravids",
+    "Ancient Almoravid",
+    "Almoravid civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Almohads",
+   "aliases": [
+    "Almohad",
+    "Almohad Caliphate",
+    "Ancient Almohads",
+    "Ancient Almohad",
+    "Almohad civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ghaznavids",
+   "aliases": [
+    "Ghaznavid",
+    "Ghaznavid Empire",
+    "Ancient Ghaznavids",
+    "Ancient Ghaznavid",
+    "Ghaznavid civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khwarazmians",
+   "aliases": [
+    "Khwarezm",
+    "Khwarazm",
+    "Chorasmia",
+    "Chorasmians",
+    "Khwarazmian Empire",
+    "Ancient Khwarazmians",
+    "Ancient Khwarezm",
+    "Ancient Khwarazm",
+    "Ancient Chorasmia",
+    "Ancient Chorasmians",
+    "Khwarazmians civilisation",
+    "Khwarezm civilisation",
+    "Khwarazm civilisation",
+    "Chorasmia civilisation",
+    "Chorasmians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bahmani Sultanate",
+   "aliases": [
+    "Bahmani",
+    "Bahmanis",
+    "Ancient Bahmani",
+    "Ancient Bahmanis",
+    "Bahmani civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Palas",
+   "aliases": [
+    "Pala Empire",
+    "Pala dynasty",
+    "Ancient Palas",
+    "Palas civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hoysalas",
+   "aliases": [
+    "Hoysala",
+    "Hoysala Empire",
+    "Ancient Hoysalas",
+    "Ancient Hoysala",
+    "Hoysala civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kakatiyas",
+   "aliases": [
+    "Kakatiya",
+    "Kakatiya dynasty",
+    "Ancient Kakatiyas",
+    "Ancient Kakatiya",
+    "Kakatiya civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gurjara-Pratiharas",
+   "aliases": [
+    "Pratiharas",
+    "Gurjara-Pratihara",
+    "Ancient Gurjara-Pratiharas",
+    "Ancient Pratiharas",
+    "Ancient Gurjara-Pratihara",
+    "Pratiharas civilisation",
+    "Gurjara-Pratihara civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ahom",
+   "aliases": [
+    "Ahoms",
+    "Ahom kingdom",
+    "Ancient Ahom",
+    "Ancient Ahoms",
+    "Ahom civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kosala",
+   "aliases": [
+    "Kosala Kingdom",
+    "Koshala",
+    "Ancient Kosala",
+    "Ancient Koshala",
+    "Kosala civilisation",
+    "Koshala civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vajji",
+   "aliases": [
+    "Vajjika League",
+    "Licchavis",
+    "Licchavi",
+    "Ancient Vajji",
+    "Ancient Licchavis",
+    "Ancient Licchavi",
+    "Vajji civilisation",
+    "Licchavi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Avanti",
+   "aliases": [
+    "Ancient Avanti",
+    "Avanti civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kuru Kingdom",
+   "aliases": [
+    "Kurus",
+    "Kuru",
+    "Ancient Kurus",
+    "Ancient Kuru",
+    "Kuru civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shakyas",
+   "aliases": [
+    "Shakya",
+    "Sakya",
+    "Sakyas",
+    "Ancient Shakyas",
+    "Ancient Shakya",
+    "Ancient Sakya",
+    "Ancient Sakyas",
+    "Shakya civilisation",
+    "Sakya civilisation"
+   ],
+   "tier": 5,
+   "lore": "The Buddha's own people, who lived in the Himalayan foothills."
+  },
+  {
+   "answer": "Hephthalites",
+   "aliases": [
+    "White Huns",
+    "Hephthalite Empire",
+    "Ancient Hephthalites",
+    "Ancient White Huns",
+    "Hephthalites civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Massagetae",
+   "aliases": [
+    "Ancient Massagetae",
+    "Massagetae civilisation"
+   ],
+   "tier": 5,
+   "lore": "Herodotus says their queen Tomyris killed Cyrus the Great in battle, a tale that may be legend."
+  },
+  {
+   "answer": "Tocharians",
+   "aliases": [
+    "Tokharians",
+    "Ancient Tocharians",
+    "Ancient Tokharians",
+    "Tocharians civilisation",
+    "Tokharians civilisation"
+   ],
+   "tier": 5,
+   "lore": "They spoke an Indo-European language in the oases of the Tarim Basin, far to the east of all its relatives."
+  },
+  {
+   "answer": "Xianbei",
+   "aliases": [
+    "Ancient Xianbei",
+    "Xianbei civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khitans",
+   "aliases": [
+    "Khitan",
+    "Liao dynasty",
+    "Ancient Khitans",
+    "Ancient Khitan",
+    "Khitan civilisation"
+   ],
+   "tier": 5,
+   "lore": "Their name gave medieval Europe its word for China: Cathay."
+  },
+  {
+   "answer": "Jurchens",
+   "aliases": [
+    "Jurchen",
+    "Jurchen Jin",
+    "Ancient Jurchens",
+    "Ancient Jurchen",
+    "Ancient Jurchen Jin",
+    "Jurchen civilisation"
+   ],
+   "tier": 5,
+   "lore": "They took northern China in 1127, and their descendants, renamed Manchus, founded the Qing."
+  },
+  {
+   "answer": "Tanguts",
+   "aliases": [
+    "Tangut",
+    "Western Xia",
+    "Xi Xia",
+    "Ancient Tanguts",
+    "Ancient Tangut",
+    "Ancient Western Xia",
+    "Ancient Xi Xia",
+    "Tangut civilisation"
+   ],
+   "tier": 5,
+   "lore": "Their kingdom of Western Xia fell to the Mongols in 1227, the year Genghis Khan died."
+  },
+  {
+   "answer": "Khazars",
+   "aliases": [
+    "Khazar Khaganate",
+    "Ancient Khazars",
+    "Khazars civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liangzhu culture",
+   "aliases": [
+    "Liangzhu",
+    "Ancient Liangzhu",
+    "Liangzhu civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Longshan culture",
+   "aliases": [
+    "Longshan",
+    "Ancient Longshan",
+    "Longshan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hongshan culture",
+   "aliases": [
+    "Hongshan",
+    "Ancient Hongshan",
+    "Hongshan civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erlitou culture",
+   "aliases": [
+    "Erlitou",
+    "Ancient Erlitou",
+    "Erlitou civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chu",
+   "aliases": [
+    "State of Chu",
+    "Kingdom of Chu",
+    "Ancient Chu",
+    "Chu civilisation"
+   ],
+   "tier": 5,
+   "lore": "The poet Qu Yuan, remembered at the Dragon Boat Festival, served the kings of Chu."
+  },
+  {
+   "answer": "Nanzhao",
+   "aliases": [
+    "Nanchao",
+    "Kingdom of Dali",
+    "Dali",
+    "Ancient Nanzhao",
+    "Ancient Nanchao",
+    "Ancient Dali",
+    "Nanzhao civilisation",
+    "Nanchao civilisation",
+    "Dali civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dian",
+   "aliases": [
+    "Dian Kingdom",
+    "Ancient Dian",
+    "Dian civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baiyue",
+   "aliases": [
+    "Yue",
+    "Hundred Yue",
+    "Nanyue",
+    "Ancient Baiyue",
+    "Ancient Yue",
+    "Ancient Hundred Yue",
+    "Ancient Nanyue",
+    "Baiyue civilisation",
+    "Yue civilisation",
+    "Nanyue civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaya",
+   "aliases": [
+    "Gaya confederacy",
+    "Kaya",
+    "Garak",
+    "Ancient Gaya",
+    "Ancient Kaya",
+    "Ancient Garak",
+    "Gaya civilisation",
+    "Kaya civilisation",
+    "Garak civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Buyeo",
+   "aliases": [
+    "Puyo",
+    "Fuyu",
+    "Ancient Buyeo",
+    "Ancient Puyo",
+    "Ancient Fuyu",
+    "Buyeo civilisation",
+    "Puyo civilisation",
+    "Fuyu civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Balhae",
+   "aliases": [
+    "Bohai",
+    "Parhae",
+    "Ancient Balhae",
+    "Ancient Bohai",
+    "Ancient Parhae",
+    "Balhae civilisation",
+    "Bohai civilisation",
+    "Parhae civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ban Chiang",
+   "aliases": [
+    "Ancient Ban Chiang",
+    "Ban Chiang civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chenla",
+   "aliases": [
+    "Ancient Chenla",
+    "Chenla civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mon",
+   "aliases": [
+    "Mon people",
+    "Mon kingdoms",
+    "Ancient Mon",
+    "Mon civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mataram",
+   "aliases": [
+    "Mataram Kingdom",
+    "Medang",
+    "Sailendra",
+    "Ancient Mataram",
+    "Ancient Medang",
+    "Ancient Sailendra",
+    "Mataram civilisation",
+    "Medang civilisation",
+    "Sailendra civilisation"
+   ],
+   "tier": 5,
+   "lore": "Its kings built Borobudur and Prambanan."
+  },
+  {
+   "answer": "Malacca Sultanate",
+   "aliases": [
+    "Melaka Sultanate",
+    "Sultanate of Malacca"
+   ],
+   "tier": 5,
+   "lore": "Founded around 1400, it grew rich on the spice trade until the Portuguese took it in 1511."
+  },
+  {
+   "answer": "Tartessians",
+   "aliases": [
+    "Tartessos",
+    "Tartessus",
+    "Ancient Tartessians",
+    "Ancient Tartessos",
+    "Ancient Tartessus",
+    "Tartessians civilisation",
+    "Tartessos civilisation",
+    "Tartessus civilisation"
+   ],
+   "tier": 5,
+   "lore": "Herodotus tells of their king Arganthonios, said to have reigned for 80 years."
+  },
+  {
+   "answer": "Argaric culture",
+   "aliases": [
+    "El Argar",
+    "Argaric",
+    "Ancient El Argar",
+    "Ancient Argaric",
+    "Argaric civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sámi",
+   "aliases": [
+    "Saami",
+    "Sami people",
+    "Ancient Sámi",
+    "Ancient Saami",
+    "Sámi civilisation",
+    "Saami civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Geats",
+   "aliases": [
+    "Götar",
+    "Ancient Geats",
+    "Ancient Götar",
+    "Geats civilisation",
+    "Götar civilisation"
+   ],
+   "tier": 5,
+   "lore": "Beowulf's people, from what is now southern Sweden."
+  },
+  {
+   "answer": "Cherusci",
+   "aliases": [
+    "Ancient Cherusci",
+    "Cherusci civilisation"
+   ],
+   "tier": 5,
+   "lore": "Arminius of the Cherusci destroyed three Roman legions in the Teutoburg Forest in AD 9."
+  },
+  {
+   "answer": "Chatti",
+   "aliases": [
+    "Ancient Chatti",
+    "Chatti civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Boii",
+   "aliases": [
+    "Ancient Boii",
+    "Boii civilisation"
+   ],
+   "tier": 5,
+   "lore": "Bohemia is named after them."
+  },
+  {
+   "answer": "Parisii",
+   "aliases": [
+    "Ancient Parisii",
+    "Parisii civilisation"
+   ],
+   "tier": 5,
+   "lore": "Paris is named after them."
+  },
+  {
+   "answer": "Aedui",
+   "aliases": [
+    "Ancient Aedui",
+    "Aedui civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trinovantes",
+   "aliases": [
+    "Ancient Trinovantes",
+    "Trinovantes civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Atrebates",
+   "aliases": [
+    "Ancient Atrebates",
+    "Atrebates civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dumnonii",
+   "aliases": [
+    "Ancient Dumnonii",
+    "Dumnonii civilisation"
+   ],
+   "tier": 5,
+   "lore": "Devon takes its name from them."
+  },
+  {
+   "answer": "Durotriges",
+   "aliases": [
+    "Ancient Durotriges",
+    "Durotriges civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ordovices",
+   "aliases": [
+    "Ancient Ordovices",
+    "Ordovices civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Volsci",
+   "aliases": [
+    "Volscians",
+    "Ancient Volsci",
+    "Ancient Volscians",
+    "Volsci civilisation",
+    "Volscians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Veneti",
+   "aliases": [
+    "Ancient Veneti",
+    "Veneti civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Raetians",
+   "aliases": [
+    "Rhaetians",
+    "Raeti",
+    "Rhaeti",
+    "Ancient Raetians",
+    "Ancient Rhaetians",
+    "Ancient Raeti",
+    "Ancient Rhaeti",
+    "Raetians civilisation",
+    "Rhaetians civilisation",
+    "Raeti civilisation",
+    "Rhaeti civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Getae",
+   "aliases": [
+    "Ancient Getae",
+    "Getae civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Odrysians",
+   "aliases": [
+    "Odrysian Kingdom",
+    "Ancient Odrysians",
+    "Odrysians civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Colchians",
+   "aliases": [
+    "Colchis",
+    "Ancient Colchians",
+    "Ancient Colchis",
+    "Colchians civilisation",
+    "Colchis civilisation"
+   ],
+   "tier": 5,
+   "lore": "Greek myth put the Golden Fleece in Colchis, which was a real kingdom on the Black Sea."
+  },
+  {
+   "answer": "Ugarit",
+   "aliases": [
+    "Ugaritians",
+    "Ugaritic",
+    "Ancient Ugarit",
+    "Ancient Ugaritians",
+    "Ancient Ugaritic",
+    "Ugarit civilisation",
+    "Ugaritians civilisation",
+    "Ugaritic civilisation"
+   ],
+   "tier": 5,
+   "lore": "Its scribes wrote one of the oldest known alphabets and left tablets listing its letters in order."
+  },
+  {
+   "answer": "Ebla",
+   "aliases": [
+    "Eblaites",
+    "Eblaite",
+    "Ancient Ebla",
+    "Ancient Eblaites",
+    "Ancient Eblaite",
+    "Ebla civilisation",
+    "Eblaite civilisation"
+   ],
+   "tier": 5,
+   "lore": "Some 17,000 clay tablets and fragments were found in its palace archives in the 1970s."
+  },
+  {
+   "answer": "Ghassanids",
+   "aliases": [
+    "Ghassanid",
+    "Ancient Ghassanids",
+    "Ancient Ghassanid",
+    "Ghassanid civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lakhmids",
+   "aliases": [
+    "Lakhmid",
+    "Ancient Lakhmids",
+    "Ancient Lakhmid",
+    "Lakhmid civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thamud",
+   "aliases": [
+    "Thamudic",
+    "Ancient Thamud",
+    "Ancient Thamudic",
+    "Thamud civilisation",
+    "Thamudic civilisation"
+   ],
+   "tier": 5,
+   "lore": "Named in an Assyrian inscription of 715 BC and in the Quran."
+  },
+  {
+   "answer": "Lihyanites",
+   "aliases": [
+    "Lihyan",
+    "Dedanites",
+    "Ancient Lihyanites",
+    "Ancient Lihyan",
+    "Ancient Dedanites",
+    "Lihyanites civilisation",
+    "Lihyan civilisation",
+    "Dedanites civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hadhramaut",
+   "aliases": [
+    "Hadramawt",
+    "Hadramites",
+    "Ancient Hadhramaut",
+    "Ancient Hadramawt",
+    "Ancient Hadramites",
+    "Hadhramaut civilisation",
+    "Hadramawt civilisation",
+    "Hadramites civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samaritans",
+   "aliases": [
+    "Ancient Samaritans",
+    "Samaritans civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jolof Empire",
+   "aliases": [
+    "Jolof",
+    "Wolof Empire",
+    "Wolof",
+    "Ancient Jolof",
+    "Ancient Wolof",
+    "Jolof civilisation",
+    "Wolof civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mossi",
+   "aliases": [
+    "Mossi Kingdoms",
+    "Ancient Mossi",
+    "Mossi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Buganda",
+   "aliases": [
+    "Kingdom of Buganda",
+    "Ancient Buganda",
+    "Buganda civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nobatia",
+   "aliases": [
+    "Ancient Nobatia",
+    "Nobatia civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Blemmyes",
+   "aliases": [
+    "Ancient Blemmyes",
+    "Blemmyes civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ajuran",
+   "aliases": [
+    "Ajuran Sultanate",
+    "Ancient Ajuran",
+    "Ajuran civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adal",
+   "aliases": [
+    "Adal Sultanate",
+    "Ancient Adal",
+    "Adal civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chinchorro",
+   "aliases": [
+    "Chinchorro culture",
+    "Ancient Chinchorro",
+    "Chinchorro civilisation"
+   ],
+   "tier": 5,
+   "lore": "They mummified their dead some 2,000 years before the Egyptians did."
+  },
+  {
+   "answer": "Cañari",
+   "aliases": [
+    "Ancient Cañari",
+    "Cañari civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quimbaya",
+   "aliases": [
+    "Ancient Quimbaya",
+    "Quimbaya civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "San Agustín culture",
+   "aliases": [
+    "San Agustín",
+    "Ancient San Agustín"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Diaguita",
+   "aliases": [
+    "Ancient Diaguita",
+    "Diaguita civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aymara",
+   "aliases": [
+    "Ancient Aymara",
+    "Aymara civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guaraní",
+   "aliases": [
+    "Ancient Guaraní",
+    "Guaraní civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tupi",
+   "aliases": [
+    "Tupinambá",
+    "Tupi-Guarani",
+    "Ancient Tupi",
+    "Ancient Tupinambá",
+    "Ancient Tupi-Guarani",
+    "Tupi civilisation",
+    "Tupinambá civilisation",
+    "Tupi-Guarani civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tlaxcalans",
+   "aliases": [
+    "Tlaxcala",
+    "Tlaxcaltecs",
+    "Ancient Tlaxcalans",
+    "Ancient Tlaxcala",
+    "Ancient Tlaxcaltecs",
+    "Tlaxcalans civilisation",
+    "Tlaxcala civilisation",
+    "Tlaxcaltecs civilisation"
+   ],
+   "tier": 5,
+   "lore": "Never conquered by the Aztecs, they sided with Cortés in 1519."
+  },
+  {
+   "answer": "Tepanecs",
+   "aliases": [
+    "Ancient Tepanecs",
+    "Tepanecs civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chichimecs",
+   "aliases": [
+    "Chichimeca",
+    "Ancient Chichimecs",
+    "Ancient Chichimeca",
+    "Chichimecs civilisation",
+    "Chichimeca civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Otomi",
+   "aliases": [
+    "Ancient Otomi",
+    "Otomi civilisation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chamorro",
+   "aliases": [
+    "Chamorros",
+    "Ancient Chamorro",
+    "Ancient Chamorros",
+    "Chamorro civilisation"
+   ],
+   "tier": 5,
+   "lore": "Their latte stones, pillars topped with stone caps, once held up houses in the Mariana Islands."
+  },
+  {
+   "answer": "Torres Strait Islanders",
+   "tier": 5
+  },
+  {
+   "answer": "Garamantes",
+   "aliases": [
+    "Ancient Garamantes",
+    "Garamantes civilisation"
+   ],
+   "tier": 6,
+   "lore": "A Saharan people of southern Libya who dug underground channels to tap water from beneath the desert."
+  },
+  {
+   "answer": "Nuragic civilisation",
+   "aliases": [
+    "Nuragic",
+    "Nuragic culture",
+    "Nuraghi",
+    "Ancient Nuragic",
+    "Ancient Nuraghi",
+    "Nuraghi civilisation"
+   ],
+   "tier": 6,
+   "lore": "Bronze Age Sardinians who left thousands of stone towers, the nuraghi, across their island."
+  },
+  {
+   "answer": "Dilmun",
+   "aliases": [
+    "Ancient Dilmun",
+    "Dilmun civilisation"
+   ],
+   "tier": 6,
+   "lore": "A trading land centred on Bahrain. Sumerian myth made it a paradise, where the lion did not kill and the wolf took no lambs."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Vikings",
+   "aliases": [
+    "Viking",
+    "Norse",
+    "Norsemen",
+    "Ancient Vikings",
+    "Ancient Viking",
+    "Ancient Norse",
+    "Ancient Norsemen",
+    "Viking civilisation",
+    "Norse civilisation",
+    "Norsemen civilisation"
+   ],
+   "reason": "Seafarers of the 8th to 11th centuries, too late to count as ancient."
+  },
+  {
+   "answer": "Normans",
+   "aliases": [
+    "Crusaders",
+    "Knights Templar",
+    "Templars",
+    "Mughals",
+    "Mughal Empire",
+    "Holy Roman Empire",
+    "Venetians",
+    "Magyars",
+    "Tudors",
+    "Marathas",
+    "Maratha Empire",
+    "Sikh Empire",
+    "Ashanti",
+    "Asante",
+    "Dahomey",
+    "Zulu",
+    "Zulu Kingdom",
+    "Comanche",
+    "Ancient Normans",
+    "Ancient Crusaders",
+    "Ancient Knights Templar",
+    "Ancient Templars",
+    "Ancient Mughals",
+    "Ancient Venetians",
+    "Ancient Magyars",
+    "Ancient Tudors",
+    "Ancient Marathas",
+    "Ancient Ashanti",
+    "Ancient Asante",
+    "Ancient Dahomey",
+    "Ancient Zulu",
+    "Ancient Comanche",
+    "Normans civilisation",
+    "Crusaders civilisation",
+    "Templars civilisation",
+    "Mughals civilisation",
+    "Venetians civilisation",
+    "Magyars civilisation",
+    "Tudors civilisation",
+    "Marathas civilisation",
+    "Ashanti civilisation",
+    "Asante civilisation",
+    "Dahomey civilisation",
+    "Zulu civilisation",
+    "Comanche civilisation"
+   ],
+   "reason": "Too late to count as ancient."
+  },
+  {
+   "answer": "Pharaohs",
+   "aliases": [
+    "Pharaoh",
+    "Ancient Pharaohs",
+    "Ancient Pharaoh",
+    "Pharaoh civilisation"
+   ],
+   "reason": "Rulers, not a civilisation. Name the land they ruled."
+  },
+  {
+   "answer": "Samurai",
+   "aliases": [
+    "Ninja",
+    "Ninjas",
+    "Ancient Samurai",
+    "Ancient Ninja",
+    "Ancient Ninjas",
+    "Samurai civilisation",
+    "Ninja civilisation"
+   ],
+   "reason": "A warrior class of the Middle Ages and after, not a civilisation."
+  },
+  {
+   "answer": "Druids",
+   "aliases": [
+    "Druid",
+    "Ancient Druids",
+    "Ancient Druid",
+    "Druid civilisation"
+   ],
+   "reason": "Celtic priests, not a whole people."
+  },
+  {
+   "answer": "Gladiators",
+   "aliases": [
+    "Gladiator",
+    "Legionaries",
+    "Centurions",
+    "Ancient Gladiators",
+    "Ancient Gladiator",
+    "Ancient Legionaries",
+    "Ancient Centurions",
+    "Gladiator civilisation",
+    "Legionaries civilisation",
+    "Centurions civilisation"
+   ],
+   "reason": "Fighters in the arena, not a people."
+  },
+  {
+   "answer": "Barbarians",
+   "aliases": [
+    "Barbarian",
+    "Ancient Barbarians",
+    "Ancient Barbarian",
+    "Barbarian civilisation"
+   ],
+   "reason": "A Roman and Greek word for outsiders, not one people."
+  },
+  {
+   "answer": "Native Americans",
+   "aliases": [
+    "American Indians",
+    "First Nations",
+    "Indigenous peoples",
+    "Pre-Columbian",
+    "Mesoamericans",
+    "Plains Indians",
+    "Indians of the Americas",
+    "Ancient Native Americans",
+    "Ancient American Indians",
+    "Ancient First Nations",
+    "Ancient Pre-Columbian",
+    "Ancient Mesoamericans",
+    "Ancient Plains Indians",
+    "Native Americans civilisation",
+    "Pre-Columbian civilisation",
+    "Mesoamericans civilisation",
+    "Ancient America",
+    "Ancient Americas",
+    "Ancient Americans"
+   ],
+   "reason": "Many peoples, not one civilisation. Name one of them."
+  },
+  {
+   "answer": "Neanderthals",
+   "aliases": [
+    "Neanderthal",
+    "Cavemen",
+    "Caveman",
+    "Cro-Magnon",
+    "Homo erectus",
+    "Denisovans",
+    "Ancient Neanderthals",
+    "Ancient Neanderthal",
+    "Ancient Cavemen",
+    "Ancient Caveman",
+    "Ancient Cro-Magnon",
+    "Ancient Homo erectus",
+    "Ancient Denisovans",
+    "Neanderthal civilisation",
+    "Cavemen civilisation",
+    "Caveman civilisation",
+    "Cro-Magnon civilisation",
+    "Denisovans civilisation"
+   ],
+   "reason": "Early humans, not a civilisation."
+  },
+  {
+   "answer": "Stone Age",
+   "aliases": [
+    "Bronze Age",
+    "Iron Age",
+    "Neolithic",
+    "Palaeolithic",
+    "Paleolithic",
+    "Antiquity",
+    "Classical antiquity",
+    "Ancient Neolithic",
+    "Ancient Palaeolithic",
+    "Ancient Paleolithic",
+    "Ancient Antiquity",
+    "Ancient Classical antiquity",
+    "Neolithic civilisation",
+    "Palaeolithic civilisation",
+    "Paleolithic civilisation",
+    "Antiquity civilisation"
+   ],
+   "reason": "An age, not a civilisation."
+  },
+  {
+   "answer": "Atlantis",
+   "aliases": [
+    "Atlanteans",
+    "Lemuria",
+    "Lemurians",
+    "Mu",
+    "Hyperborea",
+    "Hyperboreans",
+    "Amazons",
+    "El Dorado",
+    "Agartha",
+    "Rama Empire",
+    "Ancient Atlantis",
+    "Ancient Atlanteans",
+    "Ancient Lemuria",
+    "Ancient Lemurians",
+    "Ancient Mu",
+    "Ancient Hyperborea",
+    "Ancient Hyperboreans",
+    "Ancient Amazons",
+    "Ancient El Dorado",
+    "Ancient Agartha",
+    "Atlantis civilisation",
+    "Atlanteans civilisation",
+    "Lemuria civilisation",
+    "Lemurians civilisation",
+    "Mu civilisation",
+    "Hyperborea civilisation",
+    "Hyperboreans civilisation",
+    "Amazons civilisation",
+    "Agartha civilisation"
+   ],
+   "reason": "A legend, not a real civilisation."
+  },
+  {
+   "answer": "Anunnaki",
+   "aliases": [
+    "Nephilim",
+    "Titans",
+    "Olympians",
+    "Aesir",
+    "Asgard",
+    "Asgardians",
+    "Ancient Anunnaki",
+    "Ancient Nephilim",
+    "Ancient Titans",
+    "Ancient Olympians",
+    "Ancient Aesir",
+    "Ancient Asgard",
+    "Ancient Asgardians",
+    "Anunnaki civilisation",
+    "Nephilim civilisation",
+    "Titans civilisation",
+    "Olympians civilisation",
+    "Aesir civilisation",
+    "Asgard civilisation",
+    "Asgardians civilisation"
+   ],
+   "reason": "Gods or giants of myth, not a people."
+  },
+  {
+   "answer": "Wakanda",
+   "aliases": [
+    "Wakandans",
+    "Klingons",
+    "Kryptonians",
+    "Numenor",
+    "Numenoreans",
+    "Gondor",
+    "Elves",
+    "Na'vi",
+    "Valyria",
+    "Valyrians",
+    "Dothraki",
+    "Hobbits",
+    "Middle-earth",
+    "Ancient Wakanda",
+    "Ancient Wakandans",
+    "Ancient Klingons",
+    "Ancient Kryptonians",
+    "Ancient Numenor",
+    "Ancient Numenoreans",
+    "Ancient Gondor",
+    "Ancient Elves",
+    "Ancient Na'vi",
+    "Ancient Valyria",
+    "Ancient Valyrians",
+    "Ancient Dothraki",
+    "Ancient Hobbits",
+    "Ancient Middle-earth",
+    "Wakanda civilisation",
+    "Wakandans civilisation",
+    "Klingons civilisation",
+    "Kryptonians civilisation",
+    "Numenor civilisation",
+    "Numenoreans civilisation",
+    "Gondor civilisation",
+    "Elves civilisation",
+    "Na'vi civilisation",
+    "Valyria civilisation",
+    "Valyrians civilisation",
+    "Dothraki civilisation",
+    "Hobbits civilisation",
+    "Middle-earth civilisation"
+   ],
+   "reason": "A civilisation of fiction."
+  },
+  {
+   "answer": "Elder Things",
+   "aliases": [
+    "Old Ones",
+    "Great Race",
+    "Great Race of Yith",
+    "Yithians",
+    "Deep Ones",
+    "Mi-Go"
+   ],
+   "reason": "From H. P. Lovecraft's stories, not from history."
+  },
+  {
+   "answer": "Ancient aliens",
+   "aliases": [
+    "Aliens",
+    "Ancient astronauts",
+    "Aliens civilisation"
+   ],
+   "reason": "Not on the evidence so far."
+  },
+  {
+   "answer": "Machu Picchu",
+   "aliases": [
+    "Petra",
+    "Pompeii",
+    "Chichen Itza",
+    "Tikal",
+    "Palenque",
+    "Persepolis",
+    "Knossos",
+    "Mohenjo-daro",
+    "Angkor Wat",
+    "Tenochtitlan",
+    "Ur",
+    "Nineveh",
+    "Hattusa",
+    "Cusco",
+    "Cuzco",
+    "Chan Chan",
+    "Timbuktu",
+    "Jericho",
+    "Palmyra",
+    "Ancient Machu Picchu",
+    "Ancient Petra",
+    "Ancient Pompeii",
+    "Ancient Chichen Itza",
+    "Ancient Tikal",
+    "Ancient Palenque",
+    "Ancient Persepolis",
+    "Ancient Knossos",
+    "Ancient Mohenjo-daro",
+    "Ancient Angkor Wat",
+    "Ancient Tenochtitlan",
+    "Ancient Ur",
+    "Ancient Nineveh",
+    "Ancient Hattusa",
+    "Ancient Cusco",
+    "Ancient Cuzco",
+    "Ancient Chan Chan",
+    "Ancient Timbuktu",
+    "Ancient Jericho",
+    "Ancient Palmyra",
+    "Machu Picchu civilisation",
+    "Petra civilisation",
+    "Pompeii civilisation",
+    "Tikal civilisation",
+    "Palenque civilisation",
+    "Persepolis civilisation",
+    "Knossos civilisation",
+    "Mohenjo-daro civilisation",
+    "Tenochtitlan civilisation",
+    "Ur civilisation",
+    "Nineveh civilisation",
+    "Hattusa civilisation",
+    "Cusco civilisation",
+    "Cuzco civilisation",
+    "Timbuktu civilisation",
+    "Jericho civilisation",
+    "Palmyra civilisation"
+   ],
+   "reason": "A city rather than a civilisation. Name the people who built it."
+  },
+  {
+   "answer": "Stonehenge",
+   "aliases": [
+    "Göbekli Tepe",
+    "Newgrange",
+    "Carnac",
+    "Avebury",
+    "Ancient Stonehenge",
+    "Ancient Göbekli Tepe",
+    "Ancient Newgrange",
+    "Ancient Carnac",
+    "Ancient Avebury",
+    "Stonehenge civilisation",
+    "Newgrange civilisation",
+    "Carnac civilisation",
+    "Avebury civilisation"
+   ],
+   "reason": "A monument whose builders left no name of their own."
+  },
+  {
+   "answer": "Civilisation",
+   "aliases": [
+    "Civilization",
+    "Ancient civilisation",
+    "Ancient civilization",
+    "Lost civilisation",
+    "Ancient people",
+    "Ancient culture",
+    "Ancient empire"
+   ],
+   "reason": "That's every answer at once. Name one civilisation."
+  },
+  {
+   "answer": "Peruvians",
+   "aliases": [
+    "Ancient Peruvians",
+    "Ancient Peru",
+    "Peruvians civilisation"
+   ],
+   "reason": "Many peoples lived in ancient Peru. Name one of them."
+  },
+  {
+   "answer": "Qing",
+   "aliases": [
+    "Manchu dynasty",
+    "Qing dynasty",
+    "Ancient Qing",
+    "Qing civilisation"
+   ],
+   "reason": "A dynasty of later China, too late to count as ancient here."
+  },
+  {
+   "answer": "Mound Builders",
+   "aliases": [
+    "Ancient Mound Builders",
+    "Mound Builders civilisation"
+   ],
+   "reason": "Several cultures built North America's great mounds. Name one of them."
+  },
+  {
+   "answer": "Mahajanapadas",
+   "aliases": [
+    "Mahajanapada",
+    "Sixteen Mahajanapadas",
+    "Ancient Mahajanapadas",
+    "Ancient Mahajanapada",
+    "Ancient Sixteen Mahajanapadas",
+    "Mahajanapada civilisation"
+   ],
+   "reason": "Sixteen great realms of ancient India, not one. Name one of them."
+  },
+  {
+   "answer": "Pyramids",
+   "aliases": [
+    "Great Pyramid",
+    "Pyramids of Giza",
+    "Sphinx",
+    "Great Sphinx",
+    "Ancient Pyramids",
+    "Ancient Great Pyramid",
+    "Ancient Sphinx",
+    "Ancient Great Sphinx",
+    "Pyramids civilisation",
+    "Sphinx civilisation"
+   ],
+   "reason": "A monument, not a civilisation. Name the people who built it."
+  },
+  {
+   "answer": "Hunter-gatherers",
+   "aliases": [
+    "Foragers",
+    "Ancient Hunter-gatherers",
+    "Ancient Foragers",
+    "Hunter-gatherers civilisation",
+    "Foragers civilisation"
+   ],
+   "reason": "A way of life, not one people."
+  },
+  {
+   "answer": "Ancient Africa",
+   "aliases": [
+    "Ancient Asia",
+    "Ancient Europe",
+    "Ancient Mexico",
+    "Ancient Nigeria",
+    "Ancient Spain",
+    "Ancient Italy",
+    "Ancient Russia",
+    "Ancient Turkey",
+    "Ancient Anatolia",
+    "Ancient Cambodia",
+    "Ancient Yemen",
+    "Ancient Libya",
+    "Ancient Tunisia",
+    "Ancient Jordan",
+    "Ancient Thailand",
+    "Ancient Indonesia",
+    "Ancient Afghanistan",
+    "Ancient Pakistan",
+    "Ancient Bolivia",
+    "Ancient Colombia",
+    "Ancient Guatemala",
+    "Ancient Ireland",
+    "Ancient Scotland",
+    "Ancient Africans",
+    "Ancient Europeans",
+    "Ancient Asians",
+    "African civilisation",
+    "European civilisation",
+    "Asian civilisation"
+   ],
+   "reason": "Many peoples lived there. Name one of them."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"ancient-civilisations\" on 28 November 2026."
+}

@@ -1,0 +1,9 @@
+{
+  "id": "psychology",
+  "name": "Psychology",
+  "title": "The Locked Room of the Mind",
+  "blurb": "Thinkers, disorders, emotions, famous experiments and the wiring behind them.",
+  "group": "Science",
+  "order": 12,
+  "asOf": "2026-11-28"
+}

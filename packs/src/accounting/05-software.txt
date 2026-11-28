@@ -1,0 +1,85 @@
+id: accounting-software
+text: Name a piece of accounting or business finance software.
+flavor: The ledgers went into the machine. The machine does not sleep and it does not round.
+rules: Any program used for bookkeeping, payroll, invoicing, tax, expenses or spreadsheets, past or present.
+section: Tools
+---
+1 Xero
+1 MYOB | Mind Your Own Business | MYOB AccountRight | MYOB Essentials | AccountRight
+1 Excel | Microsoft Excel | Spreadsheet
+1 QuickBooks | Quickbooks Online | Intuit QuickBooks | QBO
+2 SAP | SAP S/4HANA | SAP Business One
+2 Sage | Sage 50 | Sage Intacct | Sage 100 | Sage One
+2 Google Sheets | Sheets
+2 Oracle | Oracle NetSuite | NetSuite | Oracle Financials | Oracle ERP
+2 FreshBooks
+2 Wave | Wave Accounting
+2 Quicken
+2 myGov | ATO app | myTax | ATO online
+2 Square | Stripe | PayPal
+3 Zoho Books | Zoho
+3 Microsoft Dynamics | Dynamics 365 | Dynamics GP | Great Plains | Business Central | Navision
+3 Rounded
+3 Saasu
+3 Cashflow Manager
+3 Reckon One | Reckon Accounts
+3 Employment Hero | KeyPay
+3 Dext | Receipt Bank
+3 Hubdoc
+3 Expensify
+3 Concur | SAP Concur
+3 TurboTax
+3 Tally | TallyPrime | Tally ERP
+3 Workday
+3 Odoo
+3 Kashoo
+3 FreeAgent
+3 KashFlow
+3 Bench
+3 Gusto
+3 ADP
+3 Deputy | Tanda
+4 Class | Class Super | BGL | BGL Simple Fund
+4 CCH | CCH iFirm | Wolters Kluwer
+4 HandiSoft | Handisoft
+4 APS | Reckon APS
+4 Ignition | Practice Ignition
+4 Karbon
+4 Fathom | Spotlight Reporting | Futrli | Float
+4 Caseware | CaseWare
+3 Lotus 1-2-3 | Lotus
+3 Numbers | Apple Numbers
+3 LibreOffice Calc | OpenOffice Calc | Calc
+4 GnuCash
+4 Peachtree | Peachtree Accounting
+4 Attaché | Attache
+4 Pronto | Pronto Xi
+4 Epicor
+4 Infor
+4 JD Edwards
+4 PeopleSoft
+4 TechnologyOne | Technology One
+4 Acumatica | MYOB Advanced | MYOB Acumatica
+4 Unleashed | Cin7 | DEAR
+3 Shopify
+3 Bill.com | BILL
+3 Airwallex | Wise
+3 Pocketbook | YNAB | Mint
+3 Power BI | Tableau
+3 Airtable
+3 Hnry
+6 VisiCalc :: The first spreadsheet program, released for the Apple II in 1979. Accountants bought the computer just to run it, and it never earned its inventors a patent.
+4 SuperCalc
+4 Multiplan
+4 Quattro Pro
+4 DacEasy
+4 MAS 90 | MAS 200
+4 Accpac | Sage 300
+4 Simply Accounting
+4 Microsoft Money
+4 Microsoft Office Accounting
+4 QuickBooks Desktop
+4 Sybiz
+4 Jim2
+x Word | PowerPoint | Photoshop | Outlook | Zoom | Slack | Chrome | Windows | TikTok | Canva :: Software, but nobody keeps the books in it. One hopes.
+x Computer | Calculator | Abacus | Software | App | Program | Cloud :: Which one? Name the program.

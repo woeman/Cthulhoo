@@ -1,0 +1,52 @@
+id: accounting-source-documents
+text: Name a source document or business record.
+flavor: Paper remembers what people would rather forget. Keep it for seven years.
+rules: Any document that records a transaction or supports an entry in the books.
+section: Recording
+---
+1 Invoice | Tax invoice | Sales invoice | Purchase invoice | Invoices | Bill
+1 Receipt | Receipts | Cash receipt | Till receipt | Docket | Cash register receipt
+1 Bank statement | Bank statements | Statement
+1 Cheque | Check | Cheque butt | Cheque stub | Cheques
+2 Payslip | Pay slip | Pay stub | Payroll record | Timesheet | Time sheet | Pay advice
+2 Purchase order | PO | Order form | Order
+2 Credit note | Credit memo | Adjustment note | Credit notes
+2 Quote | Quotation | Estimate
+2 Contract | Agreement | Lease | Lease agreement | Loan agreement
+2 Deposit slip | Bank deposit slip | Deposit book
+2 Delivery docket | Delivery note | Packing slip | Consignment note | Delivery receipt
+2 EFTPOS receipt | EFTPOS slip | Credit card statement | Merchant statement | Card receipt
+2 Statement of account | Customer statement | Account statement
+2 Remittance advice | Remittance
+2 Memo | Memorandum | Journal voucher | Memo voucher
+2 BAS | Business activity statement | Tax return | Activity statement
+3 Debit note | Debit memo
+3 Petty cash voucher | Petty cash docket
+3 Cash register roll | Till roll | Z-read | Cash register tape | Z tape | Audit roll
+3 Bill of lading | Waybill | Air waybill
+3 Goods received note | GRN | Receiving report
+3 Stock card | Inventory card | Stocktake sheet | Stock sheet | Stocktake
+3 Bank reconciliation | Bank reconciliation statement
+3 Payment voucher | Voucher
+3 Requisition | Purchase requisition | Requisition form
+3 Direct debit authority | Direct debit form | Bank transfer record | EFT record | Transaction confirmation
+3 Share certificate | Share register
+3 Minutes | Board minutes
+3 Insurance policy | Certificate of currency
+3 Title deed | Certificate of title | Registration papers
+3 Logbook | Log book | Vehicle logbook | Mileage log
+3 Payment summary | Group certificate | PAYG payment summary | Tax file number declaration | TFN declaration
+3 Superannuation statement | Super statement
+3 Customs declaration | Import declaration | Bill of entry
+3 Letter of credit | Bill of exchange | Promissory note | IOU
+3 Proforma invoice | Pro forma invoice
+3 Recipient-created tax invoice | RCTI
+3 Expense claim | Expense report | Reimbursement form
+3 Lay-by docket | Gift voucher
+3 Asset register | Depreciation schedule
+3 Loan statement | Mortgage statement
+3 Dividend statement | Distribution statement
+3 Email | Text message
+6 Tally stick | Tally | Split tally :: A notched stick split in two, half kept by each party. England's Exchequer used them for centuries. Burning the old ones in 1834 set fire to Parliament.
+x Ledger | General ledger | Journal | Trial balance | Balance sheet | Income statement | Profit and loss statement | Cash flow statement | Annual report :: That is where the documents end up, not where a transaction starts.
+x Paper | Document | Record | File | Folder | Spreadsheet | Excel :: Which one? Name the document.

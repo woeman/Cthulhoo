@@ -1,0 +1,174 @@
+id: marketing-australian-brands
+text: Name an Australian brand.
+flavor: You grew up with these names. They were in the pantry before you could read.
+rules: Any brand that was founded in Australia or is best known as Australian, even if it is now foreign-owned.
+section: Brands
+asOf: 2026-11-28
+---
+1 Vegemite
+1 Qantas
+1 Woolworths | Woolies | Woolworths Group
+1 Bunnings | Bunnings Warehouse
+1 Tim Tam | Tim Tams | Arnott's | Arnotts
+1 Coles
+1 Holden
+1 Telstra
+2 Commonwealth Bank | CommBank | CBA
+2 Billabong
+2 Rip Curl
+2 Quiksilver
+2 Ugg | UGG boots | Uggs
+2 Kmart | Kmart Australia
+2 Weet-Bix | Weetbix | Sanitarium
+2 Milo
+2 Bundaberg | Bundaberg Rum | Bundy | Bundaberg Ginger Beer
+2 Foster's | Fosters
+2 Victoria Bitter | VB
+2 XXXX | Four X | Castlemaine XXXX
+2 Cotton On
+2 Canva
+2 Atlassian
+2 Afterpay
+2 JB Hi-Fi | JB HiFi | JB
+2 Harvey Norman
+2 Boost Juice | Boost
+2 Aesop
+2 R.M. Williams | RM Williams
+2 Akubra
+2 Country Road
+2 Bonds
+2 Speedo
+2 Driza-Bone | Drizabone
+2 Blundstone | Blundstones | Blunnies
+2 Westpac
+2 ANZ
+2 NAB | National Australia Bank
+2 BHP
+2 Optus
+2 Virgin Australia
+2 Jetstar
+2 Myer
+2 David Jones | DJs
+2 Target | Target Australia
+2 Big W
+2 Officeworks
+2 Dan Murphy's | Dan Murphys | BWS | Liquorland
+3 Chemist Warehouse
+3 Red Rooster
+3 Hungry Jack's | Hungry Jacks
+3 Guzman y Gomez | GYG
+3 Oporto
+3 Grill'd | Grilld
+3 Zambrero
+3 Gloria Jean's | Gloria Jeans
+3 Smiggle
+3 Peter Alexander
+3 Macquarie | Macquarie Bank | Macquarie Group
+3 Penfolds | Penfolds Grange | Grange
+3 Jacob's Creek | Jacobs Creek
+3 Yellow Tail | Yellowtail
+3 Carlton Draught | Carlton | Carlton & United
+3 Coopers
+3 Tooheys | Tooheys New
+3 Cascade | Boag's | James Boag | Swan Lager | Emu Export | Great Northern
+3 Golden Circle
+3 SPC | Ardmona | SPC Ardmona
+4 Rosella
+3 MasterFoods
+3 Four'N Twenty | Four N Twenty | Four and Twenty
+3 Streets | Paddle Pop | Golden Gaytime | Gaytime | Bubble O' Bill
+3 Peters | Peters Ice Cream
+3 Darrell Lea
+3 Allen's | Allens | Minties | Fantales | Jaffas | Violet Crumble | Cherry Ripe | Freddo | Caramello Koala
+3 Bega | Bega Cheese
+3 Dairy Farmers | Pauls | Devondale | Norco | Farmers Union | Farmers Union Iced Coffee | Dare | Big M | Oak | Masters
+3 Smith's | Smiths | Smith's Chips | Twisties | Cheezels | Burger Rings | Samboy
+3 Tip Top | Helga's | Wonder White | Bakers Delight | Brumby's
+3 Uncle Tobys | Uncle Toby's
+3 Kirks | Schweppes Australia | Solo | Passiona | Bundaberg Brewed Drinks
+6 Aeroplane Jelly :: Its jingle, recorded in 1938 by a seven-year-old, was at one time played on Sydney radio more than a hundred times a day.
+3 Vittoria | Vittoria Coffee
+4 Victa
+6 Hills Hoist | Hills :: The rotary clothes line Lance Hill welded up in his Adelaide backyard in 1945, from scrap tubing, so the washing would clear his wife's lemon tree.
+3 Sunbeam | Breville | Kambrook
+5 Esky :: A portable cooler, first sold in 1952 by Malley's of Sydney. The name became the Australian word for any cooler at all.
+4 Sherrin
+3 Kookaburra | Kookaburra Sport
+3 Volley | Dunlop Volley | Dunlop Volleys
+4 Mambo
+3 Roxy
+3 Seafolly
+3 Zimmermann
+3 Sass & Bide | Sass and Bide
+3 Witchery | Sportsgirl | Supre | Just Jeans | Jay Jays | Dotti | Portmans | Jeanswest | Rivers | Katies | Millers | Noni B | Rockmans | Sussan | Suzanne Grae | City Chic
+3 Lorna Jane
+4 Gorman
+4 Oroton
+4 Mimco
+3 Industrie | Tarocash | yd | Connor | Politix | Roger David
+4 2XU
+4 Skins
+4 Frank Green
+3 Koala | Koala mattress
+3 Who Gives A Crap
+4 Thankyou
+3 MECCA | Mecca Cosmetica
+3 Priceline
+3 Swisse
+3 Blackmores
+3 Sukin | Natio | Jurlique | Lucas' Papaw | Lucas Papaw | Go-To | Frank Body | Bondi Sands | Cancer Council
+3 Rebel | Rebel Sport
+3 Supercheap Auto | BCF | Repco | Autobarn
+3 The Good Guys | Bing Lee
+3 Spotlight | Lincraft
+3 Freedom | Fantastic Furniture | Adairs
+3 Dymocks | Angus & Robertson | Booktopia
+3 Flight Centre
+3 Webjet
+3 Seek | SEEK
+3 REA | realestate.com.au | Domain
+3 Carsales | carsales.com.au
+3 Menulog
+3 Airwallex
+3 MYOB
+3 Rode | RØDE | Rode Microphones
+3 Cochlear
+3 CSL
+3 ResMed
+4 Ansell
+3 Fortescue | FMG
+3 Rio Tinto
+3 Woodside
+3 Santos
+3 Origin | Origin Energy | AGL | EnergyAustralia
+3 Ampol | Caltex Australia
+3 Wesfarmers
+3 Australia Post | AusPost
+3 Medibank | HCF | NIB | nib
+3 Bendigo Bank | Bank of Queensland | BOQ | St George | St.George | Bankwest | ME Bank | Up | Ubank
+3 AMP
+3 Foxtel | Stan | Kayo | Binge
+3 ABC | SBS | Channel Nine | Nine | Channel Seven | Seven | Channel Ten | Ten | Triple J
+3 AFL | NRL | Cricket Australia
+4 Ansett
+4 TAA
+4 Rex | Regional Express
+3 Boral | CSR | James Hardie | BlueScope | Colorbond
+4 Elders | Landmark
+3 Linfox | Toll | Toll Group
+3 Lendlease | Lend Lease | Mirvac | Stockland | Westfield | Scentre | Meriton
+3 Crown | Crown Casino | Star | The Star | Tabcorp | TAB | Sportsbet
+3 Tatts | Tattslotto | The Lott | Oz Lotto
+4 Aristocrat
+3 Village Roadshow | Village | Hoyts | Event Cinemas | Greater Union
+4 Wotif
+3 Kogan
+3 Catch | Catch.com.au
+3 The Iconic | THE ICONIC
+3 Culture Kings
+3 Princess Polly | Showpo
+4 Budgy Smuggler
+3 Bluey
+3 The Wiggles | Wiggles
+x Nike | Apple | McDonald's | Coca-Cola | Toyota | Samsung | Aldi | IKEA | Amazon | Google | KFC | Adidas | Nando's | Kathmandu | Dilmah | Xero :: Sold here, and loved here, but founded somewhere else.
+x Australia | Aussie | Brand | Shop | Supermarket | Australian Made :: Which one? Name the brand.

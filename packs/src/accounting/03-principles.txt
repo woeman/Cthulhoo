@@ -1,0 +1,63 @@
+id: accounting-principles
+text: Name an accounting principle, assumption or concept.
+flavor: The rules are few and very old. Break one, and the numbers begin to lie to you.
+rules: Any principle, assumption, convention or qualitative characteristic that guides how accounts are kept.
+section: Concepts
+---
+1 Double entry | Double-entry bookkeeping | Double entry bookkeeping | Debits equal credits | Duality | Dual aspect
+1 Accrual | Accrual basis | Accruals | Accrual accounting | Accruals concept
+1 Going concern | Continuity
+1 Matching | Matching principle | Matching concept
+1 Accounting equation | Assets equal liabilities plus equity | A = L + E | Balance sheet equation
+2 Materiality
+2 Consistency | Comparability
+2 Prudence | Conservatism | Conservatism principle
+2 Historical cost | Cost principle | Historic cost
+2 Entity | Accounting entity | Business entity | Separate entity | Entity concept | Economic entity
+2 Relevance
+2 Reliability | Faithful representation
+2 Monetary unit | Money measurement | Monetary unit assumption | Monetary
+2 Accounting period | Period assumption | Periodicity | Time period | Reporting period
+2 Revenue recognition | Realisation | Realization | Revenue recognition principle
+2 Fair value
+5 Substance over form :: Record what a deal really is, not what its paperwork calls it. Enron's off-balance-sheet partnerships are the textbook case of doing the opposite.
+2 Full disclosure | Disclosure | Transparency
+2 Objectivity | Verifiability | Neutrality
+2 Timeliness
+2 Understandability
+2 True and fair view | True and fair
+3 Cash basis | Cash accounting
+3 Depreciation | Useful life
+3 Stewardship | Accountability
+3 Completeness
+3 Freedom from error | Accuracy
+3 Cost constraint | Cost-benefit
+3 Expense recognition
+3 Lower of cost and net realisable value | Lower of cost or market | Net realisable value | NRV
+3 Impairment
+3 Capital maintenance
+3 Present value | Time value of money
+3 Current cost | Replacement cost
+3 Offsetting | No offsetting
+3 Aggregation
+3 Segregation of duties | Internal control | Separation of duties
+3 Independence | Professional scepticism | Integrity | Confidentiality | Professional competence and due care | Professional behaviour
+3 GAAP | Generally accepted accounting principles
+3 IFRS | International Financial Reporting Standards
+3 Conceptual Framework | Framework
+3 Recognition | Measurement | Derecognition
+3 Control
+3 Consolidation
+3 Stable monetary unit
+3 Articulation
+4 Clean surplus
+4 Entity theory | Proprietary theory
+4 Decision usefulness
+4 Unit of account
+4 Economic substance
+4 Mark to market | Mark-to-market
+6 Deprival value | Value to the owner | Value to the business :: What an asset is worth is what you would lose if it vanished overnight. The idea dates from a 1930s textbook, and Australian public sector accounts took it up.
+4 Exit price
+4 Value in use
+x Debit | Credit | Asset | Liability | Equity | Revenue | Expense | Profit | Balance sheet | Ledger | Journal :: An element or a record of accounting, rather than a principle that governs it.
+x Honesty | Rules | Maths | Law | Principle | Accounting :: Which one? Name the principle.

@@ -1,0 +1,78 @@
+id: marketing-channels
+text: Name an advertising medium or marketing channel.
+flavor: The message finds you on the road, in your pocket and in your sleep. It has many doors.
+rules: Any place or way a business can put its message in front of customers.
+section: Promotion
+---
+1 Television | TV | TV ads | TV advertising | Television advertising | Free-to-air | Commercials
+1 Social media | Social | Socials | Facebook | Instagram | TikTok | Facebook ads | Instagram ads | Social media marketing
+1 Radio | Radio ads | Radio advertising
+1 Billboard | Billboards | Outdoor | Out-of-home | OOH | Outdoor advertising | Hoarding
+1 Newspaper | Newspapers | Print | Press | Print ads | Print advertising | Newspaper ads
+1 Email | Email marketing | EDM | Newsletter | E-newsletter
+2 Magazine | Magazines
+2 Influencer | Influencers | Influencer marketing | Brand ambassador | Celebrity endorsement | Endorsement
+2 Word of mouth | Referral | Referrals | Recommendations | WOM
+2 Search | Search engine marketing | SEM | Google Ads | Pay-per-click | PPC | Google | Paid search | AdWords
+2 SEO | Search engine optimisation | Search engine optimization | Organic search
+2 Website | Web | Online | Internet | Landing page | Blog | Content marketing
+2 Flyer | Flyers | Leaflet | Leaflets | Pamphlet | Brochure | Letterbox drop | Junk mail | Catalogue | Catalogues
+2 Sponsorship | Sponsoring
+2 YouTube | Online video | Video | Pre-roll
+2 Podcast | Podcasts | Podcast ads
+2 Direct mail | Mail | Post | Mailout
+2 SMS | Text message | Text | Text marketing
+2 Poster | Posters | Signage | Sign | Signs | Shop sign | Sandwich board | A-frame
+2 Bus | Bus ads | Bus shelter | Transit | Transit advertising | Bus stop | Tram | Train station | Taxi
+2 Cinema | Cinema advertising | Movie ads
+2 Product placement
+2 Telemarketing | Cold calling | Phone | Cold call
+2 Events | Event | Trade show | Expo | Trade shows | Exhibition | Pop-up | Pop-up shop
+2 Public relations | PR | Press release | Media release | Publicity
+2 Packaging
+2 Point of sale | Point-of-sale | In-store | POS | Shelf talker | Window display | In-store display
+2 Sampling | Free samples | Samples | Product sampling | Taste test
+2 Loyalty program | Loyalty card | Rewards program | Flybuys | Everyday Rewards
+2 App | Mobile app | Push notification | Push notifications | Mobile
+2 Banner ad | Display advertising | Display ads | Banner ads | Display | Pop-up ads | Pop-ups | Programmatic
+2 Streaming | Streaming ads | Connected TV | BVOD | Catch-up TV
+3 Affiliate marketing | Affiliates | Affiliate
+3 Door to door | Door-to-door | Doorknocking | Door knocking
+3 Personal selling | Sales reps | Sales representative | Salesperson
+6 Skywriting | Sky writing | Blimp | Aerial banner | Plane banner :: Letters of smoke a kilometre high, first sold as advertising in 1922, when an RAF pilot wrote "Daily Mail" over the Epsom Derby.
+3 Guerrilla marketing | Stunt | Flash mob | Ambush marketing | Street marketing
+3 Viral marketing | Viral | Meme | Memes
+3 Native advertising | Advertorial | Sponsored content | Branded content
+3 Infomercial | Home shopping | TV shopping
+3 Classifieds | Classified ads | Gumtree | Trading Post | Marketplace
+3 Yellow Pages | Phone book | Directory | White Pages
+3 Coupons | Vouchers | Discount codes | Coupon | Groupon
+3 Competitions | Giveaway | Giveaways | Contest
+3 Merchandise | Merch | Promotional products | Branded pens | Stubby holder | Showbag | Showbags
+3 Uniforms | Vehicle wrap | Car wrap | Vehicle signage | Company car | Truck
+3 Stadium signage | Jersey sponsorship | Naming rights | Shirt sponsor
+3 Digital signage | Digital billboard | Screens
+3 Street furniture | Bench | Bin
+3 Shopping centre | Shopalite | Shopping trolley | Trolley ads
+3 Petrol pump | Bowser ads
+3 Toilet door | Convenience advertising | Washroom advertising
+3 Coaster | Beer coaster | Coasters
+3 Receipt | Docket | Shop-a-Docket | Shopper docket
+3 In-game advertising | Advergame | Games
+3 Chatbot | WhatsApp | Messenger | Live chat
+3 Webinar | Seminar | Workshop
+3 Community noticeboard | Noticeboard | School newsletter | Church bulletin
+6 Town crier | Spruiker | Spruiking :: The oldest broadcast medium there is. Criers called out a shopkeeper's wares in ancient Greece, and many Australian towns still appoint one.
+3 Reviews | Online reviews | Testimonials | Google reviews
+3 Retargeting | Remarketing
+3 Spotify | Audio streaming | Digital audio
+3 LinkedIn | Twitter | X | Snapchat | Pinterest | Reddit | Twitch | Discord
+4 Fax | Fax marketing | Junk fax
+4 Human billboard | Sign spinner | Sandwich man
+4 Projection | Projection advertising | Laser projection | Drone show | Drones
+4 Hot air balloon | Balloon
+4 Graffiti | Stencil | Chalk | Pavement art | Reverse graffiti | Wild posting | Bill posters | Fly posting
+4 Matchbook | Matchbooks | Calendar | Fridge magnet | Fridge magnets
+4 Jingle | Jingles
+x Product | Price | Place | Promotion | Customer | Brand | Logo | Slogan | Marketing | Advertising | Target market :: Part of the plan, but not a channel that carries the message.
+x Ad | Ads | Advert | Advertisement | Media | Mass media :: Which kind? Name the medium.

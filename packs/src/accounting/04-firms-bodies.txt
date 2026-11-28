@@ -1,0 +1,81 @@
+id: accounting-firms-bodies
+text: Name an accounting firm, professional body or standard-setter.
+flavor: Somebody must sign the accounts. Somebody else must decide what signing means.
+rules: Any accounting or audit firm, any professional accounting body, or any board that writes accounting or auditing standards.
+section: The profession
+asOf: 2026-11-28
+---
+1 PwC | PricewaterhouseCoopers | Price Waterhouse Coopers | Price Waterhouse | PWC Australia
+1 Deloitte | Deloitte Touche Tohmatsu | Deloittes
+1 KPMG
+1 EY | Ernst & Young | Ernst and Young
+1 CPA Australia | CPA | Certified Practising Accountants
+2 Chartered Accountants ANZ | CA ANZ | CAANZ | Chartered Accountants Australia and New Zealand | Chartered Accountants | ICAA | Institute of Chartered Accountants
+2 BDO
+2 Grant Thornton
+2 Big Four | Big 4
+6 Arthur Andersen | Andersen :: Once one of the Big Five, with 85,000 staff. It signed off Enron's books, shredded the papers when the questions came, and was gone within a year.
+2 AASB | Australian Accounting Standards Board
+2 IASB | International Accounting Standards Board
+2 ATO | Australian Taxation Office
+2 ASIC | Australian Securities and Investments Commission
+2 IPA | Institute of Public Accountants
+2 H&R Block | H and R Block
+3 RSM | RSM Australia
+3 Pitcher Partners
+3 William Buck
+3 PKF
+3 Nexia | Nexia Australia
+3 Crowe | Crowe Horwath
+3 HLB Mann Judd | HLB
+3 Moore | Moore Australia | Moore Stephens
+3 Mazars | Forvis Mazars
+3 Baker Tilly
+3 Findex
+3 Bentleys
+3 Hall Chadwick
+3 ShineWing | SW Accountants
+3 Vincents | McGrathNicol | KordaMentha | FTI Consulting | Ferrier Hodgson
+6 Scyne | Scyne Advisory :: The firm made in 2023 when PwC Australia sold its whole government practice for one dollar, after partners were caught sharing confidential tax plans.
+3 AUASB | Auditing and Assurance Standards Board
+3 FRC | Financial Reporting Council
+3 ACCA | Association of Chartered Certified Accountants
+3 CIMA | Chartered Institute of Management Accountants
+3 ICAEW | Institute of Chartered Accountants in England and Wales
+3 AICPA | American Institute of CPAs | American Institute of Certified Public Accountants
+3 FASB | Financial Accounting Standards Board
+3 PCAOB | Public Company Accounting Oversight Board
+3 IFAC | International Federation of Accountants
+3 IAASB | International Auditing and Assurance Standards Board
+3 ISSB | International Sustainability Standards Board
+3 IFRS Foundation
+3 APESB | Accounting Professional and Ethical Standards Board
+3 Tax Practitioners Board | TPB
+3 IESBA
+3 IPSASB
+3 SEC | Securities and Exchange Commission
+3 ANAO | Australian National Audit Office | Auditor-General | Audit Office
+3 Association of Accounting Technicians | AAT
+3 ICAS | Institute of Chartered Accountants of Scotland
+3 CPA Canada | ICAI | Institute of Chartered Accountants of India | CA Ireland | HKICPA | NZICA | SAICA
+3 Institute of Internal Auditors | IIA
+3 Institute of Certified Bookkeepers | ICB | Australian Bookkeepers Association
+3 Tax Institute | The Tax Institute
+4 Coopers & Lybrand | Coopers and Lybrand
+4 Touche Ross
+4 Peat Marwick | Peat Marwick Mitchell
+4 Arthur Young
+4 Ernst & Whinney | Ernst and Whinney
+4 Deloitte Haskins & Sells | Haskins & Sells
+4 Big Eight | Big Five | Big Six
+4 Laventhol & Horwath
+4 Pannell Kerr Forster
+4 Binder Hamlyn
+4 Spicer & Oppenheim | Spicer and Pegler
+4 Accounting Principles Board | APB
+4 IASC | International Accounting Standards Committee
+4 Australian Society of Accountants | ASA
+4 Australian Accounting Research Foundation | AARF
+4 Urgent Issues Group | UIG
+x McKinsey | Bain | BCG | Boston Consulting Group | Accenture | Macquarie | Goldman Sachs | Commonwealth Bank | Xero | MYOB :: A consultancy, a bank or a software house, not an accounting firm or body.
+x Accountant | Auditor | Bookkeeper | Firm | Tax agent :: Which one? Give a name.
