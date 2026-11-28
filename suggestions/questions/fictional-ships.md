@@ -37,7 +37,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Voyager — USS Voyager
 - Galactica — Battlestar Galactica
 - Nostromo — USCSS Nostromo
-- Discovery One
+- Discovery One — Discovery
 - Moby Dick
 - Death Star — Death Star II
 
@@ -80,7 +80,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Queen Anne's Revenge
 - Kobayashi Maru
 - Thunderbird 1
-- Thunderbird 2
+- Thunderbird 2 — Thunderbird | Thunderbirds
 - Thunderbird 3
 - Thunderbird 4
 - Sloop John B — John B
@@ -286,7 +286,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Skíðblaðnir — Skithblathnir
 - Naglfar — Naglfari
 
-## Refused on purpose (36)
+## Refused on purpose (34)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -318,8 +318,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Davy Jones's Locker — "Not a ship. It's where ships end up."
 - Golden Fleece — "What the Argo sailed for, not a ship."
 - Ark of the Covenant — "A sacred chest, not a ship."
-- Discovery — "Which Discovery? 2001 has one, and Star Trek another."
-- Thunderbird | Thunderbirds — "Which Thunderbird? International Rescue had five."
 - Essex — "A real whaler, rammed and sunk by a sperm whale in 1820."
 - Rainbow Warrior — "A real ship, Greenpeace's, sunk by French agents in 1985."
 - Vasa | Wasa — "A real warship, which sank on her maiden voyage in 1628."

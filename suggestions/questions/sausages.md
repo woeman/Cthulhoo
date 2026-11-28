@@ -20,7 +20,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pepperoni — Peperoni | Pepperoni sausage | Peperoni sausage
 - Cumberland sausage — Cumberland | Cumberland ring | Cumberland coil | Cumberland ring sausage | Cumberland coil sausage
 - Lincolnshire sausage — Lincolnshire
-- Black pudding — Blood pudding | Stornoway black pudding | Bury black pudding
+- Black pudding — Blood pudding | Stornoway black pudding | Bury black pudding | Pudding | Puddings
 - Chipolata — Cipollata | Chipolata sausage | Cipollata sausage
 - Kielbasa — Kolbasa | Kielbasy | Polish sausage | Polish | Klobása | Klobasy | Kolbász | Hungarian sausage | Klobása sausage | Klobasy sausage | Kolbász sausage | Polish kielbasa
 - Italian sausage — Salsiccia | Sweet Italian sausage | Hot Italian sausage | Italian | Hot sausage | Sweet Italian | Hot Italian | Mild Italian sausage
@@ -217,7 +217,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lucanica — Lucanica di Picerno | Lucanica sausage | Lucanica di Picerno sausage
 - Sundae — Soondae | Korean blood sausage | Sundae sausage | Soondae sausage
 
-## Refused on purpose (14)
+## Refused on purpose (13)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -229,7 +229,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Head cheese | Brawn | Scrapple | Haslet | Pâté | Meatloaf | Terrine — "A jellied or baked meat loaf, not a sausage."
 - Meatball | Meatballs | Burger | Hamburger | Rissole | Frikadeller — "Minced meat rolled into a ball, not a sausage."
 - Wall's | Richmond | Heck | Black Farmer | Debbie & Andrew's | Linda McCartney | Quorn | Oscar Mayer | Johnsonville | Hillshire Farm | Ball Park | Nathan's | Hebrew National | Slim Jim | Peperami | Mattessons | Herta | Bernard Matthews | Jimmy Dean | Bob Evans | Hormel | Sabrett | Boar's Head | Eckrich | Aidells | Denny — "A brand, not a type of sausage."
-- Pudding | Puddings — "Which pudding?"
 - Sausage meat | Forcemeat | Stuffing | Casing | Sausage casing | Sausage skin — "The filling, not a type of sausage."
 - Kebab | Doner | Döner kebab | Shish kebab | Gyros | Souvlaki | Shawarma — "Grilled meat, not a sausage."
 - Sausage dog | Wiener dog | Weiner dog | Dachshund — "A dachshund, not a sausage."

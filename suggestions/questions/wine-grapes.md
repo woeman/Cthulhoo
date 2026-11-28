@@ -16,7 +16,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Merlot — Merlot grape
 - Cabernet Sauvignon — Cab Sauv | Cab Sav | Cabernet Sauv | Cab | Cab Sauvignon | Cabernet Sauvignon grape | Cab Sauv grape | Cab Sav grape | Cabernet Sauv grape | Cab Sauvignon grape | Cabernet | Cabernet grape
 - Sauvignon Blanc — Sauv Blanc | Sav Blanc | Savvy B | Fumé Blanc | Blanc Fumé | Sauvignon Blanc grape | Sauv Blanc grape | Sav Blanc grape | Savvy B grape | Fumé Blanc grape | Blanc Fumé grape | Sauvignon | Sauv | Savvy
-- Pinot Noir — Pinot Nero | Spätburgunder | Blauburgunder | Pinot Noir grape | Pinot Nero grape | Spätburgunder grape | Blauburgunder grape
+- Pinot Noir — Pinot Nero | Spätburgunder | Blauburgunder | Pinot Noir grape | Pinot Nero grape | Spätburgunder grape | Blauburgunder grape | Pinot | Pinot grape
 - Pinot Gris — Pinot Grigio | Grauburgunder | Ruländer | Grigio | Szürkebarát | Pinot Gris grape | Pinot Grigio grape | Grauburgunder grape | Ruländer grape | Grigio grape | Szürkebarát grape | Pinot G | PG
 - Syrah — Shiraz | Sirah | Syrah grape | Shiraz grape | Sirah grape
 - Malbec — Côt | Malbec grape
@@ -396,12 +396,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Žametovka — Žametna črnina | Modra kavčina | Žametovka grape | Žametna črnina grape | Modra kavčina grape
 - Gouais Blanc — Heunisch | Weisser Heunisch | Gouais | Gouais Blanc grape | Heunisch grape | Weisser Heunisch grape | Gouais grape
 
-## Refused on purpose (12)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Grape | Grapes | Red grape | White grape | Green grape | Black grape | Vine | Grapevine | Vitis vinifera | Wine grape — "Which grape?"
-- Pinot | Pinot grape — "Which Pinot? There are several."
 - Tokaji | Tokaj — "A Hungarian wine and its region, not a grape."
 - White Zinfandel | White Zin | Blush Zinfandel — "A rosé style, not a grape. Drop the first word."
 - Champagne | Cava | Crémant | Franciacorta | Sekt | Asti | Asti Spumante | Spumante | Cap Classique — "A region and a wine, not a grape."

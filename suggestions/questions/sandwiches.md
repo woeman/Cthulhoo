@@ -20,7 +20,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tuna sandwich — Tuna mayo | Tuna mayonnaise | Tuna salad sandwich | Tuna and sweetcorn | Tuna
 - Chicken sandwich — Fried chicken sandwich | Chicken burger | Spicy chicken sandwich | Chicken mayo | Chicken and bacon | Chicken | Chicken and stuffing | Chicken tikka sandwich | Chicken Caesar sandwich | Buffalo chicken sandwich | Nashville hot chicken sandwich | Chicken and avocado
 - Bacon sandwich — Bacon butty | Bacon buttie | Bacon sarnie | Bacon roll | Bacon bap | Bacon barm | Bacon cob | Bacon sarny | Bacon
-- Grilled cheese — Grilled cheese sandwich | Cheese toastie | Toasted cheese | Toasted cheese sandwich | Cheese melt
+- Grilled cheese — Grilled cheese sandwich | Cheese toastie | Toasted cheese | Toasted cheese sandwich | Cheese melt | Toastie | Toasty | Toasted sandwich | Tostie | Toasty sandwich | Toastie sandwich | Toasted sarnie
 - Peanut butter and jelly — PB&J | PBJ | Peanut butter and jam | Peanut butter sandwich
 - Submarine sandwich — Sub | Submarine | Sub sandwich | Hoagie | Hero | Grinder | Italian sub | Italian hero | Spuckie | Wedge | Torpedo | Zeppelin
 - Panini — Panino | Toasted panini
@@ -222,13 +222,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mitraillette — Mitraillette sandwich
 - Halve Hahn — Halver Hahn | Halber Hahn
 
-## Refused on purpose (17)
+## Refused on purpose (16)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Sandwich | Sarnie | Sarny | Butty | Buttie | Sanger | Sanga | Sammich | Sammie | Sando | Sandes — "Which sandwich?"
 - Bap | Barm | Barm cake | Cob | Bread roll | Roll | Batch | Breadcake | Bun | Baguette | Bread | Sliced bread | Bagel | Beigel | Pita | Ciabatta | Focaccia | Croissant | Brioche | Naan | Pav | Bolillo — "The bread, not the sandwich."
-- Toastie | Toasty | Toasted sandwich | Tostie | Toasty sandwich | Toastie sandwich | Toasted sarnie — "Which toastie?"
 - Wrap | Burrito | Fajita | Quesadilla | Enchilada | Kati roll | Chicken wrap | Tortilla wrap | Rolex — "A wrap, not a sandwich."
 - Taco — "A taco, not a sandwich."
 - Pizza | Calzone | Stromboli — "A pizza, not a sandwich."

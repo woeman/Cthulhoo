@@ -29,7 +29,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Welsh — Cymraeg
 - Irish — Gaeilge | Irish Gaelic | Erse | Gaelic Irish
-- Scottish Gaelic — Gàidhlig | Scots Gaelic
+- Scottish Gaelic — Gàidhlig | Scots Gaelic | Scottish
 - Dutch — Nederlands
 - Greek — Modern Greek | Ellinika
 - Korean — Hangugeo | Hangukeo | Chosonmal | Koren
@@ -124,7 +124,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lao — Laotian | Laotin
 - Tagalog
 - Filipino — Pilipino | Philippine
-- Indonesian — Bahasa Indonesia
+- Indonesian — Bahasa Indonesia | Bahasa
 - Malay — Bahasa Melayu | Bahasa Malaysia | Malaysian | Melayu
 - Javanese — Basa Jawa
 - Hokkien — Min Nan | Southern Min | Taiwanese | Taiwanese Hokkien | Amoy | Fukienese
@@ -138,13 +138,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cherokee — Tsalagi
 - Inuktitut — Inuit
 - Greenlandic — Kalaallisut
-- Haitian Creole — Haitian | Kreyòl | Kreyol Ayisyen
+- Haitian Creole — Haitian | Kreyòl | Kreyol Ayisyen | Creole
 - Jamaican Patois — Patois | Patwa | Jamaican | Jamaican Creole
-- Tok Pisin
+- Tok Pisin — Pidgin | Pidgin English
 - Maya — Mayan | Mayan languages
 - Nahuatl
 - British Sign Language — BSL
-- American Sign Language — ASL | Ameslan
+- American Sign Language — ASL | Ameslan | Sign language | Signing
 
 ### Tier 4: obscure (98)
 
@@ -837,7 +837,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Elfdalian — Övdalian | Älvdalska | Övdalsk
 - Rotokas
 
-## Refused on purpose (80)
+## Refused on purpose (75)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -861,7 +861,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Inca | Incan — "A people, not a language. Their language is spoken by millions: give its name."
 - Viking | Norse — "A people, and their Old Norse is dead. Icelandic is its closest living kin."
 - Celtic | Slavic | Slavonic | Germanic | Bantu | Semitic | Polynesian | Indo-European | Dravidian | Uralic | Sino-Tibetan | Afroasiatic | Nordic | Scandinavian | Algonquian | Athabaskan | Iroquois | Iroquoian — "A family of languages. Name one of them."
-- Scottish — "Which one? Scotland has two languages of its own, besides English."
 - American | Australian | British | Canadian | New Zealander | Aussie — "A nationality, not a language. English is spoken there."
 - Mexican | Argentinian | Argentine | Colombian | Peruvian | Chilean | Cuban | Venezuelan | Hispanic | Latino | Latin American — "A nationality, not a language. Spanish is spoken there."
 - Brazilian — "A nationality. Brazilians speak Portuguese."
@@ -881,11 +880,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Amish — "A people, not a language. Theirs is a form of German."
 - Jewish — "Which one? Jewish communities have spoken many languages."
 - Hindu | Muslim | Islamic | Sikh | Buddhist — "A religion, not a language."
-- Sign language | Signing — "Which one? There are hundreds."
 - Makaton — "Signs and symbols that support speech, not a language of its own."
-- Creole — "Which one? There are dozens."
-- Pidgin | Pidgin English — "Which one? There are dozens."
-- Bahasa — "It just means 'language'. Which one?"
 - Cockney | Scouse | Geordie | Brummie | Mancunian | Yorkshire | Glaswegian | Doric | Received Pronunciation | Estuary English | Strine | AAVE | Ebonics | African American Vernacular English — "A dialect, not a language of its own."
 - Spanglish | Franglais | Hinglish | Taglish | Denglisch — "A mix of two languages, not one of its own."
 - Pig Latin | Back slang | Rhyming slang | Cockney rhyming slang | Polari | Thieves' cant | Verlan | Leetspeak | Ubbi Dubbi — "Slang or a word game, played inside another language."
@@ -912,7 +907,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hottentot — "An old colonial name, now considered offensive. Try the name its speakers use."
 - Bushman | Bushmen — "An outsiders' name many San people dislike. Name one of their languages."
 - Aklo — "Arthur Machen's invention, later borrowed by H. P. Lovecraft. Nobody speaks it, as far as anyone knows."
-- Signed English | Sign Supported English | Signing Exact English | Signed Exact English | Manually Coded English — "English put into signs word for word, not a sign language of its own."
+- Signed English | Sign Supported English | Signing Exact English | Signed Exact English | Manually Coded English — "English put into signs word for word, not a language of its own."
 - Singaporean — "A nationality. Singapore has four official languages. Pick one."
 - Kenyan | Ghanaian | South African | Congolese | Ethiopian | Cameroonian | Tanzanian — "A nationality, and the country has dozens of languages. Pick one."
 - Bangladeshi — "A nationality. Most Bangladeshis speak Bengali."

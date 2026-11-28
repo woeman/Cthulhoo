@@ -47,7 +47,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Milkybar — Nestlé Galak | Nestlé Galak bar | Nestlé Milkybar
 - Starbar — Wunderbar | Cadbury Starbar | Cadbury Wunderbar
 - Turkish Delight — Fry's Turkish Delight | Turkish Delight bar | Fry's Turkish Delight bar | Cadbury Turkish Delight
-- Fry's Chocolate Cream — Fry's Cream | Chocolate Cream | Fry's Chocolate Creme | Fry's Chocolate Cream bar | Fry's Cream bar | Chocolate Cream bar | Fry's Chocolate Creme bar
+- Fry's Chocolate Cream — Fry's Cream | Chocolate Cream | Fry's Chocolate Creme | Fry's Chocolate Cream bar | Fry's Cream bar | Chocolate Cream bar | Fry's Chocolate Creme bar | Fry's
 - Bournville — Cadbury Bournville | Bournville bar | Cadbury Bournville bar | Bournville chocolate | Cadbury Bournville chocolate | Bournville bar chocolate | Cadbury Bournville bar chocolate
 - Reese's — Reses | Reece's | Reese's Peanut Butter Cups | Reese's Cups | Peanut butter cups | Reese's Peanut Butter Cup | Reese's bar | Reses bar | Reece's bar | Reese's Peanut Butter Cups bar | Reese's Cups bar | Peanut butter cups bar | Reese's Peanut Butter Cup bar
 - Butterfinger — Butterfinger bar | Nestlé Butterfinger
@@ -60,7 +60,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kinder Bueno — Bueno | Ferrero Kinder Bueno
 - Lindt — Lindt Excellence | Excellence | Lindt bar | Lindt Excellence bar | Excellence bar | Lindt chocolate | Lindt Excellence chocolate | Excellence chocolate | Lindt bar chocolate | Lindt Excellence bar chocolate | Excellence bar chocolate
 - Penguin — McVitie's Penguin | Penguin bar | McVitie's Penguin bar
-- Tunnock's Caramel Wafer — Caramel Wafer | Tunnock's Wafer | Tunnock's Caramel Wafer bar | Caramel Wafer bar | Tunnock's Wafer bar
+- Tunnock's Caramel Wafer — Caramel Wafer | Tunnock's Wafer | Tunnock's Caramel Wafer bar | Caramel Wafer bar | Tunnock's Wafer bar | Tunnock's
 
 ### Tier 3: known to fans (27)
 
@@ -265,13 +265,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Reggie! Bar — Reggie
 - Ration D bar — Ration D | D ration | Field Ration D | Logan bar | D ration bar | Field Ration D bar
 
-## Refused on purpose (19)
+## Refused on purpose (17)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Chocolate | Chocolate bar | Candy bar | Bar of chocolate | Milk chocolate | Dark chocolate | White chocolate | Plain chocolate | Bar — "Which bar?"
 - Nestlé | Rowntree's | Mondelez | Ferrero | Mars Wrigley — "A maker, not a bar. Which of its bars?"
-- Fry's — "Which Fry's? There was more than one."
 - Maltesers | Malteasers | Minstrels | Buttons | Chocolate buttons | Giant Buttons | M&M's | Peanut M&M's | Revels | Treets | Galaxy Counters | Aero Bubbles | Magic Stars | Hershey's Kisses | Kisses | Reese's Pieces | Whoppers | Milk Duds | Raisinets | Goobers | Junior Mints | Sno-Caps | Glosette | Jaffas | Fantales | Astros | Twirl Bites | Galaxy Minstrels | Pineapple Lumps — "A bag of chocolates, not a bar."
 - Smarties | Rolo | Munchies | Gems — "A tube of chocolates, not a bar."
 - Creme Egg | Cadbury Creme Egg | Kinder Surprise | Kinder Egg | Kinder Joy | Mini Eggs | Easter egg | Caramel Egg — "An egg, not a bar."
@@ -285,6 +284,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Nutella | Chocolate spread — "A spread, not a bar."
 - Hot chocolate | Cocoa | Drinking chocolate | Ovaltine | Horlicks — "A drink, not a bar."
 - Chocolate digestive | Hobnob | Oreo | Jaffa Cake | Jaffa Cakes | Bourbon | Abbey Crunch | Tim Tam | Mint Slice | Toffee Pops | Pocky | Alfort | Viscount | Wagon Wheel | Tunnock's Teacake | Chocolate biscuit | Cadbury Fingers | Chocolate fingers | Chocolate Hobnob | Teacake — "A biscuit, not a bar."
-- Tunnock's — "Tunnock's makes several. Which one?"
 - Tootsie Roll | Tootsie Rolls — "A chewy sweet, only flavoured with cocoa."
 - Knoppers — "A filled wafer with no chocolate coating, not a bar."

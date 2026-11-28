@@ -15,7 +15,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - British Airways — BA | British Air | British Airlines | British Airways World Cargo | BA World Cargo
 - Ryanair — Ranair | Ryanair UK | Ryanair Airlines | Ryanair Airways
 - easyJet — easyJet Europe | easyJet Switzerland | easyJet UK | easyJet Airlines | easyJet Airways | easyJet Air
-- Virgin Atlantic — Virgin Atlantic Airways | Virgin Atlantic Airlines
+- Virgin Atlantic — Virgin Atlantic Airways | Virgin Atlantic Airlines | Virgin | Virgin Airlines | Virgin Air | Virgin Airways
 - Emirates — Fly Emirates | Emirates Airline | Emirates SkyCargo | Emirates Airways | Emirates Air
 - Lufthansa — Deutsche Lufthansa | Lufthansa Airlines | Lufthansa German Airlines | Lufthansa CityLine | Lufthansa Airways | Lufthansa Air
 - Air France — Air France Cargo
@@ -164,7 +164,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Continental — Continental Airlines | Continental Express | Continental Micronesia | Continental Airways | Continental Air
 - Northwest — Northwest Airlines | Northwest Orient | Northwest Airways | Northwest Air
 - US Airways — USAir
-- Eastern Air Lines
+- Eastern Air Lines — Eastern | Eastern Air
 - Braniff — Braniff International | Braniff International Airways | Braniff Airlines | Braniff Airways | Braniff Air
 - Virgin America — Virgin America Airlines | Virgin America Airways
 - AirTran — AirTran Airways
@@ -891,13 +891,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Air Koryo — Air Koryo North Korea
 - St. Petersburg–Tampa Airboat Line — Airboat Line | Tampa Airboat Line
 
-## Refused on purpose (13)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Airline | Airlines | Budget airline | Low-cost airline | Flag carrier | Charter flights — "Which airline? The deep wants its name."
-- Virgin | Virgin Airlines | Virgin Air | Virgin Airways — "Which Virgin? There have been several."
-- Eastern | Eastern Air — "Which Eastern? Britain and America have both had one."
 - Boeing | Airbus | Embraer | Bombardier | Lockheed | Lockheed Martin | McDonnell Douglas | Douglas | Cessna | Learjet | Gulfstream | de Havilland | ATR | Sukhoi | Tupolev | Ilyushin | Fokker | Rolls-Royce | Piper | Beechcraft | Dassault | Antonov Design Bureau — "An aircraft maker, not an airline."
 - Concorde | Jumbo jet | Boeing 747 | Airbus A380 | Dreamliner — "An aircraft, flown by British Airways and Air France."
 - Heathrow | Gatwick | Stansted | Luton | JFK | LAX | O'Hare | Changi | Schiphol | Charles de Gaulle | Dubai International | Heathrow Airport | Manchester Airport — "An airport, not an airline."

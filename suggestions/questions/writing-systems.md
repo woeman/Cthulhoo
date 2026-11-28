@@ -78,7 +78,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Demotic
 - Kana — Japanese syllabary | Furigana
 - Pinyin — Hanyu Pinyin
-- International Phonetic Alphabet — IPA
+- International Phonetic Alphabet — IPA | Phonetic alphabet
 - Persian alphabet — Persian | Persian script | Farsi alphabet | Farsi | Perso-Arabic
 - Urdu alphabet — Urdu | Urdu script
 - Vietnamese alphabet — Vietnamese | Vietnamese script | Chu Quoc Ngu | Quoc ngu
@@ -338,13 +338,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Enochian — Enochian alphabet | Angelic alphabet | Angelic script
 - Tironian notes — Tironian | Notae Tironianae | Tironian shorthand
 
-## Refused on purpose (22)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Alphabet | Script | Writing | Letters | Abjad | Abugida | Syllabary | Logograms | Pictograms | Pictographs | Ideograms | Characters | Glyphs | Writing system — "Which one? Name a particular system."
 - NATO alphabet | NATO phonetic alphabet | Radio alphabet | Spelling alphabet | Military alphabet | Police alphabet | ICAO alphabet | Alpha Bravo Charlie — "A spelling alphabet for radios, not a way of writing."
-- Phonetic alphabet — "Which one? The radio one is only a spelling code, but the linguists' one counts."
 - Morse code | Morse | Semaphore | Flag semaphore | Tap code | Code | Smoke signals | Flag signals — "A code for sending messages, not a way of writing."
 - Pigpen cipher | Pigpen | Masonic cipher | Caesar cipher | Enigma | Cipher | Atbash | Vigenère cipher | Substitution cipher — "A cipher for hiding messages, not a way of writing."
 - Binary | Binary code | ASCII | Unicode | UTF-8 | Barcode | QR code — "A code for machines, not a way of writing."
