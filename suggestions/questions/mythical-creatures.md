@@ -6,124 +6,125 @@ Rules: Any monster or creature from the world's myths, legends and folklore, cry
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (586 answers)
+## Accepted now (1287 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (15)
 
-- Dragon — Chinese dragon | Wyrm
-- Unicorn
-- Phoenix
-- Mermaid — Merman | Merfolk | Mermen
-- Vampire — Vampyre | Vampir | Vampyr | Wampir
-- Werewolf — Lycanthrope | Loup-garou | Werewolves | Wolfman
-- Griffin — Gryphon | Griffon
-- Centaur
-- Minotaur
-- Pegasus
-- Yeti — Abominable Snowman
-- Bigfoot — Sasquatch
-- Loch Ness Monster — Nessie | Loch Ness
-- Fairy — Faerie | Fae | Fey
-- Troll — Trol
+- Dragon — Chinese dragon | Wyrm | Drake | Firedrake | Draco | Drakon | European dragon | Western dragon | Long | Lung | Ejderha | Azhdaha | Ajdaha | Fire-breathing dragon | Dragons | Drache | Dragão
+- Unicorn — Unicorns | Licorne | Einhorn | Alicorn | Unicornio | Winged unicorn
+- Phoenix — Phenix | Phoinix
+- Mermaid — Merman | Merfolk | Mermen | Sirena | Meerjungfrau | Sea maiden | Merpeople | Merwoman | Mermaids | Sea-maid | Havfrue | Havmand | Havmann | Meerfrau
+- Vampire — Vampyre | Vampir | Vampyr | Wampir | Nosferatu | Vampyres | Vampiro | Vampires | Bloodsucker
+- Werewolf — Lycanthrope | Loup-garou | Werewolves | Wolfman | Lycan | Werwolf | Weerwolf | Varulv | Lobisomem | Hombre lobo | Lupo mannaro | Lupin garou | Man-wolf | Lycanthropes
+- Griffin — Gryphon | Griffon | Griffins | Gryphons | Griffen | Gryphen | Grifon | Gryphus | Greif
+- Centaur — Centaurs | Kentauros | Centaurus
+- Minotaur — Asterion | Minotauros | Minotaurus
+- Pegasus — Pegasos | Winged horse | Flying horse | Pegasi
+- Yeti — Abominable Snowman | Meh-teh | Migoi | Migyur | Kang Admi
+- Bigfoot — Sasquatch | Sasquatches | Sasquatsch | Saskehavis
+- Loch Ness Monster — Nessie | Loch Ness | Niseag | Nessy
+- Fairy — Faerie | Fae | Fey | Fairies | Faery | Fair Folk | Good Folk | Little people | Wee folk | Fée | Fata | Faerie folk | Fairy folk
+- Troll — Trol | Trolls | Trold | Mountain troll | Bridge troll | Cave troll
 
-### Tier 2: common (39)
+### Tier 2: common (40)
 
-- Kraken
-- Hydra — Lernaean Hydra
-- Cyclops — Cyclopes | Kyklops
-- Sphinx
-- Chimera — Chimaera
-- Basilisk
-- Cerberus — Kerberos
-- Banshee — Bean sídhe | Banshe | Bashee | Banshie | Banshi
-- Leprechaun
-- Gorgon
-- Medusa
-- Harpy
-- Siren
-- Satyr — Faun
-- Golem
-- Kelpie
-- Chupacabra — Chupacabras
-- Wendigo — Windigo
-- Zombie
+- Kraken — Krake | Krakens | Kraaken
+- Hydra — Lernaean Hydra | Hydra of Lerna | Lernean Hydra | Hydras
+- Cyclops — Cyclopes | Kyklops | Polyphemus | Polyphemos | Cyclopses | Kyklopes
+- Sphinx — Sphynx | Androsphinx | Great Sphinx | Theban Sphinx | Sphinxes
+- Chimera — Chimaera | Khimaira | Chimaira | Chimeras
+- Basilisk — Basilisco | Basiliscus | King of serpents
+- Cerberus — Kerberos | Cerberos | Hound of Hades | Kerberos the hound | Three-headed dog
+- Banshee — Bean sídhe | Banshe | Bashee | Banshie | Banshi | Bean sí | Ban sith | Banshees
+- Leprechaun — Lepracaun | Leprachaun | Luchorpán | Lucharachán | Leprecaun | Leprechauns | Leprauchan
+- Gorgon — Gorgons | Gorgones | Gorgo
+- Medusa — Medousa | Méduse
+- Harpy — Harpie | Harpies
+- Siren — Sirens | Seirenes | Seiren
+- Satyr — Faun | Satyrs | Satyros | Fauns
+- Golem — Golems | Golem of Prague
+- Kelpie — Kelpy | Water horse | Water kelpie | Kelpies
+- Chupacabra — Chupacabras | Goatsucker | El Chupacabra | Chupacabre
+- Wendigo — Windigo | Wiindigoo | Witiko | Windago | Wetiko | Weendigo
+- Zombie — Zombi | Zonbi | Undead | Walking dead | Zombies | Zombi astral
 - Ghoul — Ghul
-- Goblin
-- Gnome
+- Goblin — Goblins | Gobelin
+- Gnome — Gnomes | Garden gnome | Kabouter
 - Ogre — Ogress
-- Giant
-- Pixie — Piskie | Pisky
-- Elf — Elves
-- Dwarf — Dwarves
-- Genie — Djinn | Jinn | Djinni | Jinni
-- Thunderbird
-- Imp
-- Ghost — Spectre | Specter | Phantom | Apparition | Wraith | Spook
-- Bogeyman — Boogeyman | Bogey | Boogie man
-- Grim Reaper — The Reaper
-- Sea serpent
-- Hobgoblin
-- Demon — Devil
-- Charybdis
+- Giant — Giants | Gigantes | Gigas | Ettin | Stone giant
+- Pixie — Piskie | Pisky | Pixies | Pixy
+- Elf — Elves | Álfar | Light elves | Dark elves | Ljósálfar | Dökkálfar | Svartálfar | Alf | Elven | Elfs
+- Dwarf — Dwarves | Dvergar | Dvergr | Dwarfs | Zwerg
+- Genie — Djinn | Jinn | Djinni | Jinni | Genies | Jinnee | Djin | Djinns | Jinns | Jinniyah | Djinniyah
+- Thunderbird — Wakinyan | Animikii | Thunderbirds
+- Imp — Imps
+- Ghost — Spectre | Specter | Phantom | Apparition | Wraith | Spook | Shade | Ghosts | Spirit of the dead | Hantu | Haunt | Spectres
+- Bogeyman — Boogeyman | Bogey | Boogie man | Bogeymen | Boogie monster | Boggeyman | Bogyman | Bugaboo | Babau | Uomo nero | Butzemann | Schwarzer Mann | Croquemitaine | Hombre del saco | Sack man | Bicho-papão | Boogeymen
+- Grim Reaper — The Reaper | Death | Angel of death
+- Sea serpent — Sea dragon | Sea monster | Sea serpents
+- Hobgoblin — Hob | Hobgoblins | Hobthrush | Hobthrust
+- Demon — Devil | Daemon | Daimon | Demons | Fiend | Fiends | Devils
+- Charybdis — Kharybdis
 - Naiad — Water nymph
-- Cetus — Ketos | Ketea
+- Cetus — Ketos | Ketea | Aethiopian Cetus | Trojan Cetus
+- Easter Bunny — Easter Rabbit | Easter Hare | Osterhase | Easter bunnies
 
-### Tier 3: known to fans (102)
+### Tier 3: known to fans (132)
 
-- Manticore
-- Cockatrice
-- Wyvern
-- Selkie — Silkie | Selchie
+- Manticore — Mantichora | Mantichoras | Martichoras | Mardykhor | Martikhora | Manticora | Mantikhoras
+- Cockatrice — Cocatrice | Cockatrix
+- Wyvern — Wivern | Wyverns | Wiverne
+- Selkie — Silkie | Selchie | Selkies | Seal folk | Seal people | Seal wife | Roane | Silkies
 - Dryad
 - Nymph
-- Valkyrie
-- Fenrir — Fenris | Fenris Wolf
-- Jormungandr — Midgard Serpent | World Serpent
-- Sleipnir
-- Bunyip
-- Yowie
-- Tengu
+- Valkyrie — Valkyrja | Valkyries | Walküre | Valkyr
+- Fenrir — Fenris | Fenris Wolf | Fenrisulfr | Hróðvitnir | Vánagandr
+- Jormungandr — Midgard Serpent | World Serpent | Jormungand | Midgardsormr | Midgard Snake | Midgard Worm
+- Sleipnir — Odin's horse | Slepnir | Sleipner
+- Bunyip — Kianpraty | Bunyips
+- Yowie — Hairy man | Yowies | Australian bigfoot
+- Tengu — Tengus
 - Kitsune
-- Kappa
-- Oni
-- Naga — Nogga | Nagga | Naag
-- Garuda
+- Kappa — Kappas
+- Oni — Onis
+- Naga — Nogga | Nagga | Naag | Nagin | Naagin | Nagini | Phaya Naga | Phaya Nak | Nak | Nagas
+- Garuda — Khan Garid | Garula | Garudas
 - Qilin — Kirin | Kylin
-- Roc — Rukh
+- Roc — Rukh | Rokh | Rocs | Roc bird
 - Leviathan
 - Behemoth
-- Will-o'-the-wisp — Ignis fatuus | Jack-o'-lantern
+- Will-o'-the-wisp — Ignis fatuus | Jack-o'-lantern | Will o' wisp | Hinkypunk | Hob-and-lanthorn | Spunkie | Corpse candle | Feu follet | Irrlicht | Wisp | Wisps | Bludička | Ghost light
 - Boggart
 - Brownie
-- Changeling
-- Succubus
-- Incubus
-- Lamia
-- Typhon
-- Scylla
-- Krampus
-- Jackalope
+- Changeling — Changelings | Fairy child | Wechselbalg
+- Succubus — Succubi | Succuba
+- Incubus — Incubi
+- Lamia — Lamiae | Lamias
+- Typhon — Typhoeus | Typhaon
+- Scylla — Skylla
+- Krampus — Krampusz | Krampuses | Krampusse
+- Jackalope — Jackalopes
 - Mothman
 - Jersey Devil
-- Hippogriff — Hippogryph
-- Gremlin
-- Hellhound
-- Black Shuck — Shuck
-- Ogopogo
-- Poltergeist
-- Firebird — Zhar-ptitsa
-- Baba Yaga
-- Hippocampus — Hippocamp
+- Hippogriff — Hippogryph | Hippogriffe | Hippogrif
+- Gremlin — Gremlins
+- Hellhound — Hellhounds | Hound of hell
+- Black Shuck — Shuck | Old Shuck | Black Shock
+- Ogopogo — Naitaka | N'ha-a-itk
+- Poltergeist — Poltergeists | Noisy ghost
+- Firebird — Zhar-ptitsa | Zhar ptica
+- Baba Yaga — Baba Jaga | Baba Roga
+- Hippocampus — Hippocamp | Hippocampi | Hippokampos
 - Nian
-- Kobold
-- Sprite
+- Kobold — Kobolds | Kobolt
+- Sprite — Sprites | Spright
 - Sylph
-- Doppelgänger
-- Skinwalker
-- Ifrit — Efreet | Afreet
-- Lilith
+- Doppelgänger — Doppleganger | Double walker | Doppelgangers
+- Skinwalker — Yee naaldlooshii | Skinwalkers
+- Ifrit — Efreet | Afreet | Afrit | Efrit | Ifreet | Afrite
+- Lilith — Lilit | Lilitu
 - Yuki-onna — Yukioh | Snow woman | Yuki-onago
 - Tanuki
 - Black dog
@@ -131,7 +132,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nereid
 - Triton
 - Lorelei — Loreley
-- Nix — Nixie | Nøkk | Nokken | Näcken
+- Nix — Nixie | Nøkk | Nokken | Näcken | Näkki | Vetehinen | Nekker | Nikker | Neck
 - Undine — Ondine
 - Ningyo
 - Umibozu
@@ -139,17 +140,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Melusine
 - Jenny Greenteeth
 - Blue Men of the Minch — Blue Men | Storm kelpies
-- Vodyanoy — Vodyanoi | Vodnik
-- Mami Wata
-- Iara — Yara | Uiara
+- Vodyanoy — Vodyanoi | Vodnik | Hastrman | Wodnik
+- Mami Wata — Mama Wata | Mammy Water | Mama Water
+- Iara — Yara | Uiara | Mãe-d'água
 - Grindylow
 - Champ — Champy
 - Lusca
 - Namazu — Ōnamazu
 - Davy Jones
-- Gargoyle — La Gargouille | Gargouille
+- Gargoyle — La Gargouille | Gargouille | Gargoyles | Grotesque
 - Yōkai — Youkai
-- Wild man — Woodwose | Wodewose | Wild man of the woods | Wild men | Woodwoses
+- Wild man — Woodwose | Wodewose | Wild man of the woods | Wild men | Woodwoses | Wudewasa
 - Dokkaebi — Tokkaebi | Korean goblin
 - Yūrei — Yuurei | Yuhrei | Japanese ghost
 - Ryū — Ryuu | Ryuh | Tatsu | Japanese dragon
@@ -162,7 +163,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tsukumogami — Haunted objects | Haunted object
 - Gashadokuro — Gashadokuro skeleton | Ōdokuro | Giant skeleton
 - Shinigami — Death god | God of death | Death gods
-- Kyūbi no Kitsune — Kyubi | Kyuubi | Nine-tails | Kyuubi no kitsune
+- Kyūbi no Kitsune — Kyubi | Kyuubi | Nine-tails | Kyuubi no kitsune | Nine-tailed kitsune
 - Hannya — Hannya mask
 - Hanako-san — Hanako | Toire no Hanako-san | Hanako of the toilet | Toilet Hanako
 - Onryō — Onryou | Vengeful ghost | Vengeful spirit
@@ -174,73 +175,103 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - White Tiger — Baihu | Pai-hu | Byakko | White Tiger of the West
 - Shishi — Chinese guardian lions | Foo dog | Fu dog | Foo lion | Fu lion | Stone lions | Chinese lion | Imperial guardian lions | Shizi
 - Bai Suzhen — White Snake | Lady White Snake | Madame White Snake | Madam White Snake | White Snake Lady | Bai Niangzi | Pai Su-chen | White Lady
+- Erinyes — Furies | Eumenides | Erinys
+- Python — Delphic Python | Python of Delphi | Pytho serpent
+- Fafnir — Fafner
+- Jötunn — Jotun | Jötnar | Frost giant | Frost giants | Fire giant | Fire giants | Hrimthursar | Rime giants | Thurs
+- Salamander — Fire salamander | Fire lizard | Salamanders
+- Puck — Robin Goodfellow | Hobgoblin Puck
+- Tooth Fairy — Tooth fairies
+- Humbaba — Huwawa | Humbaba the Terrible
+- Tiamat — Tiamtu | Thalatth
+- Asmodeus — Asmodai | Ashmedai | Asmodeous
+- Beelzebub — Belzebub | Baalzebub | Lord of the Flies | Beelzebul
+- Mephistopheles — Mephisto | Mephistophilis | Mephistophilus
+- Baphomet
+- Belial — Beliar
+- Abaddon — Apollyon
+- Azazel — Azazael
+- Astaroth — Ashtaroth
+- Mammon
+- Moloch — Molech
+- Asura — Asuras | Ashura
+- Demogorgon — Demogorgo
+- Anansi — Ananse | Kwaku Ananse | Anancy | Aunt Nancy | Kwaku Anansi | Anansi the Spider
+- Bhoot — Bhut | Bhoota | Bhuta | Bhoot ghost
+- Pontianak — Kuntilanak | Puntianak | Matianak | Kuntianak | Pontianac
+- Rainbow Serpent — Rainbow Snake | Wagyl | Waugal | Ngalyod | Yurlungur | Rainbow serpents
+- Feathered serpent — Plumed serpent | Quetzalcoatl | Kukulkan | Q'uq'umatz | Gucumatz | Kukulcan
+- Hoop snake — Hoop snakes
+- Dover Demon
+- Flatwoods Monster — Braxton County Monster
+- Skunk ape — Florida skunk ape
 
-### Tier 4: obscure (157)
+### Tier 4: obscure (324)
 
 - Nuckelavee
-- Barghest — Barguest
-- Redcap
+- Barghest — Barguest | Bargest | Barguist | Bargtjest
+- Redcap — Powrie | Dunter | Bloody cap
 - Strix
-- Empusa
+- Empusa — Empousai | Empousa | Empusae
 - Echidna
 - Ladon
 - Talos
 - Nemean Lion
 - Hecatoncheires — Hundred-Handed Ones | Hekatonkheires
-- Simurgh — Simorgh
-- Lamassu — Shedu
+- Simurgh — Simorgh | Senmurv | Senmurw | Simurg | Saena
+- Lamassu — Shedu | Lamassus | Aladlammu
 - Ziz
 - Nidhogg — Níðhöggr
 - Lindworm — Lindwurm
-- Tatzelwurm
-- Wolpertinger
-- Aswang
-- Manananggal
-- Tikbalang
-- Bakunawa
-- Taniwha
+- Tatzelwurm — Stollenwurm | Springwurm | Bergstutz
+- Wolpertinger — Wolperdinger | Woiperdinger
+- Aswang — Asuang | Aswangs
+- Manananggal — Mananangal | Manananggals
+- Tikbalang — Tigbalang | Tikbalan | Tigbalan
+- Bakunawa — Laho | Bakonawa
+- Taniwha — Taniwhas
 - Mokele-mbembe
 - Grootslang
-- Tokoloshe — Tikoloshe
-- Impundulu — Lightning bird
+- Tokoloshe — Tikoloshe | Tokolosh | Thokolosi | Tokoloshi
+- Impundulu — Lightning bird | Inyoni yezulu
 - Ahuizotl
 - Camazotz
 - Bake-neko
-- Jiangshi — Hopping vampire
+- Jiangshi — Hopping vampire | Kyonshi | Chinese hopping vampire | Geungsi
 - Baku
 - Nue
-- Rakshasa
-- Vetala
+- Rakshasa — Rakshas | Rakshasi | Rakshasha | Rakshasas | Raksasa
+- Vetala — Betaal | Baital | Vetal | Betal
 - Makara
 - Huli jing — Nine-tailed fox
-- Pixiu — Bixie
+- Pixiu — Bixie | Pi Yao | Tianlu
 - Bai Ze
-- Hodag
+- Hodag — Rhinelander hodag | Hodags
 - Cadejo
 - La Llorona
-- Afanc
+- Afanc — Addanc | Avanc
 - Bugbear
 - Sluagh
-- Dullahan
-- Púca — Pooka | Phouka
-- Each-uisge
+- Dullahan — Headless Horseman | Gan Ceann | Headless rider
+- Púca — Pooka | Phouka | Pwca | Phooka
+- Each-uisge — Ech-ushkya | Each uisce | Aughisky
 - Kikimora
-- Domovoi
-- Leshy — Leshii | Leshi
-- Rusalka
+- Domovoi — Domovoy | Domovik | Domovyk
+- Leshy — Leshii | Leshi | Lesovik | Leshiy | Lesovoy
+- Rusalka — Rusalki | Rusalky
 - Koschei — Koschei the Deathless | Kashchey
-- Zmey — Zmei
-- Draugr — Draugar
-- Huldra
-- Nisse — Tomte
-- Ammit — Ammut
-- Encantado
+- Zmey — Zmei | Zmey Gorynych | Zmei Gorynych | Gorynych | Zmiy
+- Draugr — Draugar | Draug | Draugur | Sea draugr | Draugen
+- Huldra — Hulder | Huldre | Huldrekall
+- Nisse — Tomte | Tomtegubbe | Tomtenisse | Tonttu | Gardsvord | Tomten
+- Ammit — Ammut | Amemet | Devourer of the Dead | Eater of Hearts
+- Encantado — Boto | Boto cor-de-rosa | Encantados
 - Horned Serpent — Uktena
-- Gumiho — Kumiho
+- Gumiho — Kumiho | Korean nine-tailed fox
 - Fenghuang
 - Yamata no Orochi
 - Pazuzu
-- Dybbuk
+- Dybbuk — Dibbuk | Dybuk | Dybbuks
 - Orthrus — Orthros
 - Cait Sith
 - Spring-heeled Jack
@@ -258,7 +289,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mizuchi
 - Aspidochelone
 - Zaratan
-- Qalupalik
+- Qalupalik — Qallupilluk | Qallupilluit | Kalupalik | Qalupaliit
 - Oceanid — Oceanids
 - Cadborosaurus — Caddy
 - Chessie
@@ -334,16 +365,183 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Peng — Peng bird | Dapeng | Kunpeng | Great Peng | Golden-winged Peng
 - Yaoguai — Yao-kuai | Yaojing | Yaomo
 - Xiaoqing — Green Snake | Qingshe | Little Green | Blue Snake | Hsiao-ch'ing
+- Erymanthian Boar
+- Ceryneian Hind — Cerynitian Hind | Golden Hind | Ceryneian deer | Hind of Ceryneia
+- Stymphalian birds — Stymphalian bird
+- Cretan Bull — Bull of Crete | Marathonian Bull
+- Mares of Diomedes — Horses of Diomedes | Man-eating mares | Diomedes' mares
+- Geryon — Geryones
+- Calydonian Boar
+- Teumessian fox — Teumessian vixen | Cadmean vixen
+- Chrysomallos — Golden ram | Ram with the Golden Fleece | Golden Fleece ram | Chrysomallus
+- Colchian dragon — Dragon of Colchis | Drakon Kolkhikos | Guardian of the Golden Fleece
+- Argus — Argus Panoptes | Argos Panoptes | Hundred-eyed giant
+- Graeae — Graiai | Grey Sisters | Gray Sisters | Graiae | Graeai
+- Kampe
+- Chiron — Cheiron | Kheiron
+- Silenus — Sileni | Silenoi | Seilenos
+- Ratatoskr — Ratatosk | Ratatoskr the squirrel
+- Huginn and Muninn — Huginn | Muninn | Hugin | Munin | Hugin and Munin | Odin's ravens
+- Garmr — Garm | Garmr the hound
+- Auðumbla — Audhumla | Audhumbla
+- Ymir — Aurgelmir
+- Surtr — Surt | Surtur
+- Mare — Mora | Nightmare
+- Jólakötturinn — Yule Cat | Christmas Cat | Jólaköttur | Yule cat of Iceland
+- Grýla
+- Yule Lads — Jólasveinar | Yule Lad | Icelandic Yule Lads
+- Huldufólk — Hidden people | Hidden folk
+- Bäckahäst — Brook horse | Bækhest
+- Myling — Mylingar | Utburd | Utburður | Utbøling
+- Caladrius — Charadrius | Caladrius bird
+- Vegetable Lamb of Tartary — Borometz | Barometz | Scythian lamb | Vegetable lamb
+- Blemmyae — Blemmye | Blemmyes | Headless men | Akephaloi | Acephali
+- Cynocephali — Cynocephalus | Dog-headed men | Dog-headed people | Dog-men | Cynocephalus man
+- Sciapod — Sciapods | Monopod | Monopods | Skiapodes | Sciapodes | Umbrella-foot
+- Homunculus — Homunculi
+- Mandrake — Mandragora | Mandrake root
+- Revenant — Revenants
+- Beast of Gévaudan — Bête du Gévaudan | Gevaudan beast
+- Hag — Night hag | Old Hag | Hags | Crone | Witch | Witches | Sea hag | Hagge
+- Black Annis — Black Agnes | Cat Anna
+- Lambton Worm — Lambton Wyrm | Lambton dragon
+- Gytrash — Guytrash | Shriker
+- Beast of Bodmin — Beast of Bodmin Moor | Bodmin beast
+- Owlman — Owlman of Mawnan | Cornish Owlman
+- Aos sí — Sidhe | Aes sídhe | Daoine sídhe | Sí | People of the mounds
+- Bean nighe — Washer at the ford | Washerwoman of the ford | Bean nighidh
+- Bogle — Boggle | Bogles
+- Wild haggis — Haggis | Haggis scoticus | Wild haggises
+- Bloody Mary — Mary Worth | Bloody Mary ghost
+- Jack Frost — Old Man Winter
+- Sandman — Sandmann | Mr Sandman | Ole Lukøje | Ole Lukoie
+- Big Bad Wolf — Bad Wolf | Wolf of Little Red Riding Hood
+- Mušḫuššu — Mushhushshu | Sirrush | Dragon of Babylon | Mushkhushshu
+- Anzû — Imdugud | Zu | Anzu bird
+- Bull of Heaven — Gugalanna | Gugalana
+- Scorpion men — Scorpion man | Aqrabuamelu | Girtablilu | Scorpion people
+- Lamashtu — Lamaštu | Dimme
+- Belphegor — Belfagor | Baal-Peor
+- Paimon — Paymon
+- Marid — Marids | Marid jinn
+- Shedim — Sheydim | Shed | Shedim demons
+- Div — Daeva | Dev | Deev | Diw | Divs | Daevas | White Div
+- Peri — Pari
+- Pishacha — Pisacha | Pishach | Pishachas
+- Yaksha — Yakshi | Yakshini | Yaksa | Yakkha | Yaka
+- Ravana — Raavan | Ravan | Rawana
+- Akuma — Akuma demon
+- Buraq — Al-Buraq | Burak
+- Huma — Huma bird | Homa | Humay
+- Shahmaran — Şahmeran | Shahmeran | Queen of Snakes
+- Bahamut — Bahamoot | Balhut
+- Karkadann — Karkadan | Persian unicorn | Kardadann
+- Azi Dahaka — Zahhak | Zohak | Zahak | Dahaka | Azhi Dahaka
+- Nephilim — Nephalim | Nefilim | Anakim | Rephaim
+- Werehyena — Bouda | Buda | Kaftar | Bultungin | Hyena man
+- Anqa — Anka | Zümrüdüanka | Angha | Anka bird
+- Nandi bear — Chemosit | Kerit
+- Asanbosam — Asanbonsam | Sasabonsam | Sasabonsum
+- Kongamato — Kongamato pterosaur
+- Emela-ntouka — Emela-ntuka | Killer of elephants
+- Inkanyamba — Inkhanyamba | Inkanyamba serpent
+- Apep — Apophis | Apepi | Aapep
+- Serpopard — Serpopards
+- Mamlambo — Brain sucker
+- Brer Rabbit — Brother Rabbit
+- Airavata — Airavat | Erawan | Airavatam | White elephant of Indra
+- Apsara — Apsaras | Apsaras dancer | Accharā | Apsarases
+- Churel — Chudail | Churail | Chudel | Chudayl | Churail witch
+- Gandharva — Gandharvas | Gandhabba
+- Kinnara — Kinnari | Kinnaree | Kinnaras | Kimnara
+- Kamadhenu — Kamdhenu | Surabhi | Wish-fulfilling cow
+- Jatayu — Jatayus | Jataayu
+- Vritra — Vrtra | Ahi
+- Shesha — Sheshnag | Adishesha | Ananta Shesha | Shesh Naag | Ananta | Seshanaga
+- Vasuki — Vasuki Naga
+- Kaliya — Kaliya Naag | Kalia
+- Snow lion — Gangkar Chamsing | Tibetan Snow Lion
+- Gandaberunda — Gandabherunda | Berunda | Bherunda
+- Kapre — Kafre
+- Duende — Duwende | Duendes | Duendecillo
+- Tiyanak — Tianak | Tiyanaq | Patianak
+- Diwata — Diwatas
+- Engkanto — Encanto | Engkantada | Engkantos
+- Sarimanok
+- Penanggalan — Penanggal | Hantu Penanggal
+- Leyak — Leak | Liak | Leyaks
+- Toyol — Tuyul | Toyol spirit | Toyols
+- Pocong — Pocongan | Pochong | Pocong ghost
+- Orang pendek — Sedapa
+- Barong — Barong Ket | Banas Pati Raja
+- Rangda
+- Krasue — Ahp | Krasue ghost | Phi Krasue | Ap
+- Ahool
+- Siyokoy — Siyokoys
+- Menehune — Menehunes
+- Patupaiarehe — Patupairehe
+- Min Min light — Min Min lights
+- Piasa — Piasa bird
+- Pukwudgie — Puckwudgie | Pukwudgies
+- Deer Woman
+- Uncegila — Unhcegila
+- Dzunukwa — Tsonoqua | Dzonokwa | Wild Woman of the Woods
+- Sisiutl — Sisiutl serpent
+- Flying Head — Kanontsistóntie | Flying Heads
+- Spearfinger — U'tlun'ta
+- Raven Mocker — Kalona Ayeliski
+- Curupira — Currupira | Kurupira
+- Saci — Saci-pererê
+- Boitatá — Mboitatá | Baitatá
+- Mapinguari — Mapinguary | Mapinguary beast
+- Nahual — Nagual | Nahualli | Nahuales | Naguales
+- La Siguanaba — Siguanaba | Cegua | Sihuanaba | Ciguanaba | Sucia
+- El Cucuy — Cucuy | El Coco | Coco | Cuco | El Cuco | Coco Man | Cucui
+- La Lechuza — Lechuza
+- Cipactli
+- El Silbón — Silbón | The Whistler
+- Luison — Lobizón | Lobison
+- Pombero — Pomberito
+- Alux — Aluxes | Alux spirits | Aluxob
+- Duppy — Duppies | Duppy ghost
+- Soucouyant — Soucriant | Soukouyan | Ole Higue | Old Hige | Old Higue | Sukunyan | Asema
+- Ciguapa — La Ciguapa | Ciguapas
+- Jumbie — Jumby | Jumbee | Jumbies
+- Rougarou — Rugaru | Roux-ga-roux | Rougaroux | Loup-garou of Louisiana
+- Amarok — Amaruq | Amarok wolf
+- Tupilaq — Tupilak | Tupilaks
+- Squonk
+- Sidehill gouger — Sidehill wampus | Gyascutus | Sidehill dodger
+- Fur-bearing trout — Furry trout | Fur-bearing fish | Fur trout
+- Wampus cat
+- Goatman — Maryland Goatman
+- Loveland Frog — Loveland frogman | Loveland lizard | Loveland Frogmen
+- Fresno Nightcrawler — Fresno nightcrawlers | Nightcrawler | Nightcrawlers
+- Almas — Almasty | Almasti
+- Beast of Bray Road — Bray Road Beast
+- Dogman — Michigan Dogman
+- Lizard Man of Scape Ore Swamp — Lizard Man | Bishopville Lizard Man
+- Fouke Monster — Boggy Creek Monster
+- Pope Lick Monster — Sheepman
+- Black-eyed children — Black-eyed kids | Black-eyed child
+- Shadow people — Shadow person
+- Rumpelstiltskin — Rumplestiltskin | Rumpelstilzchen
+- Golden goose — Goose that laid the golden eggs
+- Strigoi — Strigoii | Strigoaică
+- Balaur — Balaurul
+- Turul — Turul bird
+- Kratt — Puuk | Pisuhänd | Krattid
+- Erlking — Erlkönig | Elf King | Erlkoenig
 
-### Tier 5: expert (271)
+### Tier 5: expert (774)
 
-- Amphisbaena
+- Amphisbaena — Amphisbaina | Amphisbaenia | Amphivena
 - Tarasque
-- Catoblepas
+- Catoblepas — Katoblepas
 - Leucrotta
 - Yale
-- Questing Beast
-- Bennu
+- Questing Beast — Beast Glatisant | Glatisant
+- Bennu — Benu | Bennu bird
 - Fossegrim
 - Alp
 - Rompo
@@ -358,10 +556,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sirin
 - Gamayun
 - Vila — Wila | Veela
-- Snallygaster
+- Snallygaster — Snollygoster | Snallygasters
 - Fachan
 - Kushtaka
-- Yali
+- Yali — Vyala | Vyali | Yazhi
 - Isonade
 - Tannin — Tanin
 - Morgen — Mari-Morgan
@@ -527,7 +725,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mermaid of Zennor
 - Moddey Dhoo — Mauthe Doog | Moddey Doo
 - Korrigan — Korrigans
-- Twrch Trwyth — Troit | Troynt
+- Twrch Trwyth — Troit | Troynt | Great Boar
 - Ysbaddaden — Ysbaddaden Pencawr
 - Benandonner
 - Aillen — Aillén mac Midgna | Aillen mac Midna
@@ -608,13 +806,516 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bashe — Ba snake | Pa She | Elephant-eating snake
 - Luduan — Lu-tuan
 - Hanba — Han-pa | Drought demon | Drought goddess | Drought fiend | Goddess of drought
+- Laelaps — Lailaps
+- Ophiotaurus
+- Telchines — Telchis
+- Stheno
+- Euryale
+- Keres — Ker
+- Mormo — Mormolyce | Mormolykeia
+- Gello — Gelo | Gylou
+- Hippalectryon
+- Chrysaor
+- Arion — Areion
+- Xanthus and Balius — Xanthos | Balios | Horses of Achilles
+- Nessus — Nessos
+- Pholus — Pholos
+- Onocentaur — Onocentaurus
+- Spartoi — Sown men | Dragon's teeth warriors | Sparti
+- Ismenian dragon — Dragon of Ares | Theban dragon
+- Carcinus — Karkinos | Giant crab of Lerna
+- Gegenees — Gegeneis | Earthborn giants
+- Aloadae — Otus and Ephialtes
+- Alcyoneus
+- Porphyrion
+- Myrmekes
+- Aetos Dios — Eagle of Zeus
+- Caucasian Eagle — Eagle of Prometheus | Aethon
+- Pyrois
+- Lycaon — Lykaon
+- Kallikantzaros — Kallikantzaroi | Kalikantzaros | Kalikantzari
+- Vrykolakas — Vourdalakas | Vrikolakas | Vorvolakas
+- Neraida — Neraides
+- Geri and Freki — Freki | Odin's wolves
+- Sköll and Hati — Skoll | Hati | Hati Hróðvitnisson
+- Hræsvelgr — Hraesvelg | Corpse-swallower
+- Heiðrún
+- Eikþyrnir
+- Gullinbursti — Gullinborsti
+- Tanngrisnir and Tanngnjóstr — Tanngrisnir | Tanngnjostr | Thor's goats
+- Svaðilfari
+- Skinfaxi
+- Hrímfaxi
+- Veðrfölnir
+- Dísir — Dís
+- Landvættir — Land spirits | Vættir | Vættr
+- Fylgja — Fylgjur
+- Wight — Wights
+- Haugbúi — Mound dweller | Barrow dweller
+- Skogsrå — Skogsrået | Skogsfru | Wood wife
+- Sjörå — Havsfru | Sea wife
+- Vittra — Vittror | Vitterfolk
+- Hafstrambur — Hafstramb
+- Margygr — Margygur
+- Marbendill — Marmennill
+- Nykur — Nykr | Nennir
+- Skoffin
+- Skuggabaldur
+- Leppalúði
+- Stallo — Stállu | Stalo
+- Uldra — Ulda | Ulldra
+- Hiisi — Hiidet
+- Ajatar — Ajattara
+- Maahinen — Maahiset
+- Menninkäinen
+- Haltija — Haltia
+- Selma — Seljord serpent | Seljordsormen
+- Gloson — Gloso
+- Monocerus — Monoceros
+- Parandrus — Parandros
+- Crocotta — Corocotta | Crocuta
+- Pyrausta — Pyrallis | Pyrotocone
+- Hydrus — Hydros | Enhydros
+- Jaculus — Javelin snake
+- Scitalis — Scytale
+- Dipsas
+- Seps
+- Myrmecoleon — Formicaleon | Ant-lion
+- Gold-digging ants — Gold-digging ant | Herodotus's ants
+- Allerion — Alerion
+- Bagwyn
+- Enfield — Enfield beast
+- Opinicus — Epimacus
+- Keythong — Male griffin
+- Musimon — Tityron
+- Calopus — Chatloup | Chatoup | Calopus beast
+- Ypotryll — Ypotrill
+- Bicorne — Bycorne
+- Chichevache
+- Panotii — Panotti | All-ears | Panotti people
+- Astomi
+- Hercinia — Hercinia bird
+- Cinnamologus — Cinnamon bird
+- Amphiptere — Amphithere
+- Guivre — Vouivre | Wivre
+- Graoully — Graouilly
+- Lou Carcolh — Carcolh
+- Matagot — Mandagot
+- Barbegazi
+- Bugul Noz
+- Lutin — Lutins | Nain rouge
+- Dame blanche — Dames blanches
+- Kludde
+- Oschaert
+- Witte Wieven — Witte Wijven | White women
+- Alraune — Alraun
+- Hedley Kow
+- Basilisco chilote — Chilote basilisk
+- Rasselbock
+- Skvader — Tjäder-hare
+- Elwetritsch — Elwedritsche | Elwetritsche
+- Dahu — Darou
+- Sockburn Worm — Sockburn Wyrm
+- Laidly Worm — Laidly Worm of Spindleston Heugh | Laidley Worm
+- Knucker — Knuckerhole dragon
+- Beast of Exmoor — Exmoor beast
+- Padfoot
+- Church grim — Kirkegrim | Kyrkogrim | Church grims
+- Nelly Longarms
+- Tiddy Mun
+- Yallery Brown
+- Lob — Lob Lie-by-the-Fire | Lubberkin
+- Hairy Hands — Hairy Hands of Dartmoor
+- Nuggle — Noggle | Shoopiltee | Njuggle
+- Muc-sheilche — Loch Maree monster
+- Oilliphéist — Ollphéist
+- Muirdris
+- Ellén Trechend
+- Cath Palug — Palug's Cat | Cath Paluc | Chapalu
+- Gwyllion
+- Ellylldan
+- Adar Llwch Gwin
+- Llamhigyn y Dŵr — Water leaper
+- Brag
+- Herne the Hunter — Herne
+- Boneless
+- Tarbh-uisge — Water bull
+- Apkallu — Abgal | Seven Sages | Apkallus
+- Oannes — Uanna
+- Utukku — Udug | Utukki
+- Gallu — Galla | Gallas
+- Edimmu — Ekimmu | Etemmu | Gidim
+- Asag — Asakku | Azag
+- Kur — Kur dragon
+- Kulullû — Fish-man
+- Kusarikku — Bull-man | Kusarikkum
+- Urmahlullu — Lion-man | Urmahlilu
+- Ugallu
+- Bašmu — Bashmu
+- Ušumgallu — Ushumgallu
+- Rabisu — Rabishu
+- Ardat-lili — Lilu | Lilitu demon
+- Uridimmu — Mad lion
+- Lahmu — Lakhmu
+- Suhurmašu — Suhurmashu | Goat-fish
+- Adramelech — Adrammelech
+- Mastema
+- Aeshma — Aeshma-daeva | Aēšma
+- Mahishasura — Mahisha
+- Kumbhakarna — Kumbakarna
+- Mazzikim — Mazikin | Mazikeen
+- Qarin — Qareen | Qarina
+- Nasnas — Nesnas | Nisnas
+- Si'lat — Sila | Silat jinn
+- Shiqq — Shiqq jinn
+- Daitya — Daityas
+- Danava — Danavas
+- Druj — Druj Nasu | Nasu
+- Brahmarakshasa — Brahmarakshas
+- Putana — Pootana
+- Titivillus — Tutivillus
+- Ukobach
+- Estrie — Estries
+- Ornias
+- Bael
+- Vepar
+- Furfur
+- Stolas
+- Andras
+- Malphas
+- Marchosias
+- Glasya-Labolas
+- Naberius
+- Gremory — Gamori
+- Buer
+- Vassago
+- Lucifuge Rofocale — Lucifuge
+- Kujata — Kuyutha
+- Falak
+- Shadhavar — Shadavar
+- Chamrosh — Chamrosh bird
+- Bakhtak — Bakhtak demon
+- Albasti — Al karısı | Al basty | Al
+- Tepegöz — Depegöz
+- Tulpar — Tulpar horse | Tulpor
+- Yelbegen — Yelbegän | Jelbegen
+- Vishap — Vishaps | Visap
+- Aralez — Arlez | Aralezner
+- Nhang
+- Re'em — Re'em beast
+- Shamir — Shamir worm
+- Bar Juchne — Bar Yokhani
+- Aisha Qandisha — Aicha Kandicha | Aisha Kandisha
+- Old Man of the Sea — Shaykh al-Bahr
+- Gopat-shah
+- Shurale — Şüräle
+- Ochokochi — Ochopintre
+- Mbielu-mbielu-mbielu
+- Mngwa — Nunda | Mngwa cat
+- Agogwe
+- Chipekwe — Chimpekwe
+- Dingonek
+- Lukwata
+- Obayifo
+- Eloko — Biloko
+- Abatwa — Abathwa
+- Kishi — Kishi demon
+- Yumboes — Bakhna rakhna
+- Ogbanje — Ogbaanje
+- Abiku
+- Aziza — Aziza fairies
+- Mmoatia — Mmoetia
+- Hai-uri
+- Olitiau — Olitau
+- Kasai rex
+- Zimwi — Mazimwi
+- Asiman
+- Kalanoro
+- Nguma-monene
+- Sha — Set animal | Typhonic beast | Seth animal
+- Criosphinx — Ram-headed sphinx | Kriosphinx
+- Hieracosphinx — Hawk-headed sphinx
+- Akhekh — Akhekhu
+- Isitwalangcengce
+- Umdhlebi
+- Kimpurusha — Kimpurushas
+- Uchchaihshravas — Uchchaihsravas | Uchaishravas
+- Sharabha — Sarabha
+- Gajasimha
+- Navagunjara
+- Sampati — Sampaati
+- Hamsa — Hansa | Hintha | Hamsa bird
+- Kirtimukha — Face of Glory
+- Takshaka — Takshak
+- Daayan — Dayan
+- Nittaewo
+- Devil bird — Ulama bird
+- Barmanou — Barmanu
+- Mande Barung — Mande burung
+- Ban jhakri — Ban jhakri shaman
+- Druk — Thunder Dragon
+- Kalaviṅka — Karyōbinga
+- Pey — Pey ghost
+- Jalpari
+- Chordewa
+- Nuno sa punso — Nuno | Old man of the mound
+- Sigbin — Sigbinan | Zegben
+- Wakwak
+- Bungisngis
+- Amalanhig
+- Berberoka
+- Bal-bal
+- Manaul
+- Minokawa
+- Santelmo — Santilmo
+- Batibat — Bangungot
+- Ekek
+- Kataw
+- Orang bunian — Bunian
+- Genderuwo — Gendruwo | Gondoruwo
+- Wewe Gombel
+- Jenglot
+- Orang minyak — Oily man
+- Hantu raya
+- Polong
+- Pelesit
+- Bajang
+- Langsuir — Langsuyar | Langsuyar spirit
+- Banaspati
+- Sundel bolong
+- Babi ngepet
+- Buto Ijo — Buta Ijo | Green giant
+- Mawas
+- Phi Pop — Phi Pob | Phii Pob
+- Mae Nak — Nang Nak | Mae Nak Phra Khanong
+- Nang Tani — Banana tree ghost
+- Ma cà rồng
+- Chinthe — Chinthes
+- Nat — Nats | Nat spirit
+- Batutut — Nguoi rung
+- Nyi Roro Kidul — Queen of the Southern Sea | Ratu Kidul
+- Tambaloslos
+- Mimi — Mimi spirits | Mimih
+- Quinkan — Quinkin | Quinkans
+- Wandjina — Wondjina | Wanjina
+- Moehau monster — Moehau
+- Ponaturi
+- Pouakai — Hokioi
+- Ngārara
+- Kurangaituku
+- Maero
+- Te Wheke-a-Muturangi — Te Wheke
+- Moʻo — Moo lizard
+- Nightmarchers — Huaka'i pō
+- Aitu
+- Masalai
+- Ropen
+- Queensland tiger — Yarri
+- Burrunjor
+- Whowie
+- Kadimakara
+- Stonecoats — Genonsgwa
+- Nalusa Falaya
+- Teihiihan
+- Nimerigar
+- Yunwi Tsunsdi — Cherokee little people
+- Tlanuwa
+- Jogah
+- Water babies — Water baby
+- Wechuge
+- Apotamkin
+- Chenoo — Kiwakwe | Kewahqu
+- Ishigaq
+- Bakwas — Bukwus
+- Gaasyendietha
+- Tah-tah-kle'-ah — Owl women
+- Stiff-legged bear — Katshituashku
+- Amhuluk
+- Mula sem cabeça — Headless mule
+- Cuca
+- Capelobo
+- Corpo Seco
+- Caipora
+- Anhangá
+- Pisadeira
+- Ipupiara
+- Kurupi
+- Jasy Jatere — Yasy Yatere
+- Ao Ao
+- Moñái
+- Mbói Tu'i
+- Teju Jagua — Teyu Yagua
+- Chonchón — Tue-tue
+- Trauco
+- La Fiura — Fiura
+- Imbunche — Invunche
+- Camahueto
+- Cuero — El Cuero | Trelquehuecuve
+- Peuchen — Piuchén
+- Pincoya — La Pincoya
+- Millalobo
+- Nguruvilu — Ñirivilu
+- Cherufe
+- Anchimayen
+- Colo Colo
+- Alicanto
+- Lampalagua
+- Yacumama — Yaku-mama
+- Sachamama
+- Chullachaqui — Chuyachaqui | Shapishico
+- Tunche — El Tunche
+- Pishtaco — Kharisiri | Nakaq
+- Muki — Muqui
+- Amaru — Amaru serpent
+- Ukuku
+- Ccoa — Qoa
+- Huay chivo — Way chivo | Uay chivo
+- Xtabay — La Xtabay
+- Sisimite — Sisemite | Sisimiti
+- El Sombrerón — Sombrerón
+- El Cipitío — Cipitío
+- La Tulevieja — Tulevieja
+- La Patasola — Patasola
+- La Madremonte — Madremonte
+- El Mohán
+- La Tunda — Tunda
+- Chaneque — Chaneques | Chanekeh
+- Tlahuelpuchi
+- Cihuateteo — Cihuapipiltin
+- Tzitzimitl — Tzitzimime | Tzitzimimeh
+- Vucub Caquix — Seven Macaw | Wuqub' Kaqix
+- Zipacna
+- Cabrakan
+- Mano Peluda
+- Douen — Duenne | Douens
+- Papa Bois — Maître Bois
+- Mama Dlo — Mama Glo | Mama D'Leau | Mama Dglo | Mama de l'eau
+- La Diablesse — Ladjablès | Lajabless | La Jablesse
+- Lagahoo — Ligahoo | Lugarhoo
+- Moko Jumbie
+- Rolling calf — Rollin' calf
+- Baccoo — Bacoo | Bakoo
+- Bacá
+- Bakru
+- Fairymaid
+- Akhlut
+- Adlet — Erqigdlit | Adlets
+- Ijiraq — Ijiraat | Ijirait
+- Keelut — Kiiluk
+- Qiqirn — Qiqirq
+- Mahaha
+- Tizheruk — Pal-rai-yûk
+- Nanurluk — Giant polar bear
+- Tuurngaq — Tornaq | Tuurngait | Tornait
+- Abaasy — Abaahy
+- Chuchuna — Chuchunaa
+- Agropelter
+- Hidebehind
+- Splinter cat
+- Snoligoster
+- Rumtifusel
+- Tripodero
+- Wapaloosie
+- Axehandle hound
+- Joint snake — Glass snake
+- Teakettler
+- Goofus bird — Goofang
+- Gumberoo
+- Cactus cat
+- Hugag
+- Ball-tailed cat
+- Billdad
+- Fillyloo
+- Roperite
+- Slide-rock bolter
+- Whirling whimpus
+- Snawfus
+- Dungavenhooter
+- Ozark Howler
+- Van Meter Visitor — Van Meter monster
+- Batsquatch
+- Grassman — Ohio Grassman
+- Bunnyman
+- Dwayyo
+- Altamaha-ha — Altie
+- Tahoe Tessie — Tessie
+- White River Monster — Whitey
+- Bear Lake Monster
+- Flathead Lake Monster — Flessie
+- Memphre
+- Manipogo
+- Igopogo — Kempenfelt Kelly
+- Lake Worth Monster
+- Ningen
+- Kussie
+- Nahuelito
+- Thetis Lake monster
+- Melon heads
+- Beast of Busco — Oscar the turtle
+- Snarly Yow
+- Honey Island Swamp monster
+- Moroi — Moroaică
+- Pricolici
+- Vârcolac — Vârcolaci
+- Zmeu
+- Căpcăun
+- Iele — Ielele
+- Muma Pădurii — Mother of the Forest
+- Lidérc
+- Sárkány
+- Csodaszarvas — Miraculous Stag | Wonder Stag | Wondrous Stag
+- Hejkal
+- Bubák
+- Aitvaras — Pūķis
+- Laumė
+- Kaukas — Kaukai
+- Vilkatas — Vilkacis | Vilkatis
+- Rübezahl — Krakonoš
+- Perchta — Frau Perchta | Berchta | Perchten
+- Nachtkrapp — Night raven | Nachtrabe
+- Aufhocker
+- Heinzelmännchen — Heinzelmen
+- Klabautermann — Klabauterman
+- Drude — Trude
+- Moosweibchen — Moss maidens | Moss people | Moosleute
+- Schrat — Schratt | Schrätel
+- Nachzehrer
+- Belsnickel — Pelznickel
+- Dhampir — Dhampyr | Dhampire
+- Ojáncanu — Ojáncano
+- Trasgo — Trasgu | Trasno
+- Nuberu — Nubero
+- Xana — Xanas | Janas | Jana
+- Busgosu
+- Cuélebre — Culebre
+- Anjana — Anjanas
+- Moura encantada — Mouras encantadas | Moura
+- Basajaun — Basajauna | Baxajaun
+- Tartalo — Torto
+- Herensuge — Herensugue | Erensuge
+- Lamiak — Lamina | Laminak
+- Santa Compaña — Holy Company
+- Cucafera
+- Víbria
+- Monaciello — Munaciello | Monachicchio
+- Mazzamurello
+- Linchetto
+- Janara — Janare
+- Befana — La Befana
+- Orco — Huorco
+- Salvanel — Salvan
+- Bixi — Dragon turtle
+- Zhenniao — Zhen bird | Poison bird
+- Longma — Dragon-horse of the Yellow River
+- Feilian
+- Chi dragon — Hornless dragon
 
 ### Tier 6: rare jackpots (2)
 
-- Peluda — La Velue
+- Peluda — La Velue | Shaggy Beast | Shaggy Beast of La Ferté-Bernard
 - Bonnacon — Bonasus
 
-## Refused on purpose (18)
+## Refused on purpose (20)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -636,3 +1337,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Giant squid | Colossal squid — "Real, and probably where one famous monster came from."
 - Dodo — "Real, though it has been gone since the 1600s."
 - Cupid | Zeus | Thor | Odin | Anubis — "A god, not a creature."
+- Megalodon | Megalodon shark — "Real, though it died out over three million years ago. Only the sightings since are folklore."
+- Thylacine | Tasmanian tiger | Tasmanian wolf — "Real. Thought extinct since 1936, though people still report seeing one."

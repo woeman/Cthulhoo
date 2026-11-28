@@ -12,30 +12,30 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (8)
 
-- London
-- Paris
-- Beijing — Peking
-- Tokyo
-- Rio de Janeiro — Rio
-- Los Angeles — LA
-- Sydney
-- Athens — Athina
+- London — Londres | London England | Greater London
+- Paris — Paris France
+- Beijing — Peking | Pekin | Beijing China | Peking China
+- Tokyo — Tokyo Japan
+- Rio de Janeiro — Rio | Rio Brazil
+- Los Angeles — LA | Los Angeles California | City of Angels
+- Sydney — Sydney Australia
+- Athens — Athina | Athen | Athènes | Athinai | Athens Greece
 
 ### Tier 2: common (13)
 
-- Barcelona
-- Atlanta
-- Moscow — Moskva
-- Seoul
-- Montreal
-- Munich — München
-- Rome — Roma
+- Barcelona — Barcelona Spain
+- Atlanta — ATL | Atlanta Georgia
+- Moscow — Moskva | Moscou | Moskau
+- Seoul — Seoul Korea | Seoul South Korea
+- Montreal — Montreal Quebec | Montreal Canada
+- Munich — München | Muenchen
+- Rome — Roma | Rom | Rome Italy
 - Berlin
-- Mexico City — Ciudad de México | Mexico
-- Vancouver
-- Sochi
-- Salt Lake City — Salt Lake
-- Milan — Milano | Milano Cortina | Milan Cortina
+- Mexico City — Ciudad de México | Mexico | CDMX | Mexico DF | Distrito Federal
+- Vancouver — Vancouver BC | Vancouver Canada
+- Sochi — Sotchi | Sotschi
+- Salt Lake City — Salt Lake | SLC | Salt Lake City Utah
+- Milan — Milano | Milano Cortina | Milan Cortina | Mailand | Milan Cortina 2026
 
 ### Tier 3: known to fans (11)
 
@@ -46,9 +46,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Calgary
 - Lillehammer
 - Nagano
-- Turin — Torino
-- Pyeongchang
-- Lake Placid
+- Turin — Torino | Turino
+- Pyeongchang — PyeongChang County | Pyeongchang-gun
+- Lake Placid — Lake Placid New York | Lake Placid NY
 - Sapporo
 
 ### Tier 4: obscure (8)
@@ -66,13 +66,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Antwerp — Antwerpen | Anvers
 - Garmisch-Partenkirchen — Garmisch | Partenkirchen
-- Squaw Valley — Palisades Tahoe | Olympic Valley
+- Squaw Valley — Palisades Tahoe | Olympic Valley | Tahoe | Lake Tahoe
 
 ### Tier 6: rare jackpots (1)
 
-- St. Louis — Saint Louis
+- St. Louis — Saint Louis | St Louis Missouri | Saint Louis Missouri
 
-## Refused on purpose (103)
+## Refused on purpose (116)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -90,7 +90,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Gangneung — "It held the ice events in 2018, but only as a venue, not the host city."
 - Bormio — "It held the men's skiing in 2026, but only as a venue, not a host city."
 - Livigno — "It held the snowboarding in 2026, but only as a venue, not a host city."
-- Val di Fiemme — "It held the cross-country skiing in 2026, but only as a venue, not a host city."
+- Val di Fiemme | Predazzo | Tesero — "It held the cross-country skiing in 2026, but only as a venue, not a host city."
 - Sestriere — "It held the skiing in 2006, but only as a venue, not the host city."
 - Courchevel — "It held the ski jumping in 1992, but only as a venue, not the host city."
 - Hong Kong — "It held the riding events in 2008, but the host city was Beijing."
@@ -100,4 +100,17 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Buenos Aires — "Buenos Aires hosted the Youth Olympic Games, not the main event."
 - Lausanne — "Home of the IOC, and host of the Youth Winter Games, but never of the main event."
 - Nanjing — "Nanjing hosted the Youth Olympic Games, not the main event."
+- Anterselva | Antholz | Antholz-Anterselva — "It held the biathlon in 2026, but only as a venue, not a host city."
+- Yanqing — "It held the alpine skiing and sliding in 2022, but the host city was Beijing."
+- Krasnaya Polyana | Rosa Khutor — "It held the mountain events in 2014, but the host city was Sochi."
+- Park City — "It held skiing and sliding events in 2002, but the host city was Salt Lake City."
+- Hakuba — "It held the skiing in 1998, but only as a venue, not the host city."
+- Hamar — "It held the skating in 1994, but only as a venue, not the host city."
+- Val d'Isère | Méribel | Tignes | La Plagne | Les Arcs — "It held events in 1992, but only as a venue, not the host city."
+- Canmore — "It held the Nordic events in 1988, but only as a venue, not the host city."
+- Saint-Denis | Stade de France — "Its Stade de France held the athletics in 2024, but the host city was Paris."
+- Versailles — "Its palace gardens held the riding in 2024, but the host city was Paris."
+- Qingdao — "It held the sailing in 2008, but the host city was Beijing."
+- Kiel — "It held the sailing in 1936 and 1972, but the host cities were Berlin and Munich."
+- French Alps | Alpes Françaises — "Chosen for the 2030 Winter Games, still to come."
 - Refused without a reason (near misses of real answers): Montreux | Madras | Mumbai | Delhi | Shanghai | Osaka | Kyoto | Busan | Toronto | Ottawa | Quebec City | Edmonton | Perth | Adelaide | Auckland | Wellington | Sao Paulo | Lima | Bogota | Cairo | Cape Town | Johannesburg | Durban | Nairobi | Doha | Dubai | Riyadh | Jakarta | Manila | Bangkok | Taipei | Seville | Lisbon | Dublin | Prague | Vienna | Budapest | Warsaw | Krakow | Kyiv | Minsk | Saint Petersburg | Kazan | Zurich | Geneva | Salzburg | Lyon | Nice | Venice | Naples | Florence | Hamburg | Frankfurt | Cologne | Manchester | Liverpool | Birmingham | Glasgow | Edinburgh | Cardiff | Belfast | Boston | Seattle | Denver | Phoenix | Dallas | Houston | Miami | Detroit | Philadelphia | San Francisco | San Diego | Las Vegas | Reno | Aspen | Vail | Nome | Rouen | Romeo

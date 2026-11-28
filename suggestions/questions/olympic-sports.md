@@ -12,52 +12,52 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (8)
 
-- Athletics — Track and field | Track | Running
-- Swimming — Aquatics
-- Gymnastics — Artistic gymnastics
+- Athletics — Track and field | Track | Running | Track and field athletics | Track athletics
+- Swimming — Aquatics | Swim | Olympic swimming
+- Gymnastics — Artistic gymnastics | Gymnastic | Gym
 - Football — Soccer | Association football
 - Basketball
 - Tennis — Lawn tennis
-- Boxing
-- Cycling — Road cycling | Track cycling | Cycle racing | Bike racing
+- Boxing — Pugilism | Olympic boxing
+- Cycling — Road cycling | Track cycling | Cycle racing | Bike racing | Bicycle racing | Bicycling | Biking
 
 ### Tier 2: common (23)
 
-- Diving — Springboard diving | Platform diving | Synchronised diving | Synchronized diving
-- Rowing — Sculling
-- Sailing — Yachting | Windsurfing | Kitesurfing | Kiteboarding | Boardsailing | Windsurf | Kitesurf
+- Diving — Springboard diving | Platform diving | Synchronised diving | Synchronized diving | High diving | Plain high diving | Fancy diving | Springboard
+- Rowing — Sculling | Crew | Olympic rowing
+- Sailing — Yachting | Windsurfing | Kitesurfing | Kiteboarding | Boardsailing | Windsurf | Kitesurf | Yacht racing | Dinghy sailing
 - Archery
 - Fencing — Epee | Foil | Sabre | Saber
 - Judo
 - Wrestling — Greco-Roman wrestling | Freestyle wrestling | Greco-Roman
-- Weightlifting — Olympic weightlifting
+- Weightlifting — Olympic weightlifting | Olympic lifting
 - Table tennis — Ping pong
 - Badminton
 - Volleyball — Indoor volleyball
 - Beach volleyball — Beach volley
-- Equestrian — Equestrianism | Horse riding | Show jumping | Dressage | Eventing | Three-day eventing | Equestrian sports | Horse jumping
+- Equestrian — Equestrianism | Horse riding | Show jumping | Dressage | Eventing | Three-day eventing | Equestrian sports | Horse jumping | Equestrian vaulting | Horse vaulting | Horseback riding | Equitation
 - Hockey — Field hockey
 - Water polo
 - Triathlon
 - Golf
-- Skateboarding — Skateboard
+- Skateboarding — Skateboard | Street skateboarding | Park skateboarding
 - Surfing — Surf
-- Shooting — Rifle shooting | Pistol shooting | Clay pigeon shooting | Clay shooting | Trap shooting | Skeet shooting | Skeet
+- Shooting — Rifle shooting | Pistol shooting | Clay pigeon shooting | Clay shooting | Trap shooting | Skeet shooting | Skeet | Sport shooting | Shooting sports | Target shooting | Live pigeon shooting | Air rifle | Air pistol
 - Rugby — Rugby sevens | Rugby union | Sevens | Rugby 7s | Rugby football
 - Baseball
 - Tug of war — Tug-o-war
 
 ### Tier 3: known to fans (13)
 
-- Canoeing — Kayaking | Canoe | Kayak | Canoe sprint | Canoe slalom | Canoe kayak
-- Taekwondo
+- Canoeing — Kayaking | Canoe | Kayak | Canoe sprint | Canoe slalom | Canoe kayak | Kayak cross | Extreme slalom | Whitewater slalom
+- Taekwondo — TKD
 - Handball — Team handball | Field handball
 - Modern pentathlon — Pentathlon
 - Trampoline — Trampolining
-- Rhythmic gymnastics
-- Sport climbing — Climbing | Rock climbing | Bouldering | Speed climbing | Lead climbing
-- Breaking — Breakdancing | Breakdance | B-boying
-- BMX — BMX racing | BMX freestyle
+- Rhythmic gymnastics — Rhythmic
+- Sport climbing — Climbing | Rock climbing | Bouldering | Speed climbing | Lead climbing | Wall climbing | Indoor climbing
+- Breaking — Breakdancing | Breakdance | B-boying | B-girling | Breakin'
+- BMX — BMX racing | BMX freestyle | Freestyle BMX
 - Mountain biking — Mountain bike | Mountain bike racing | MTB
 - Softball
 - Karate
@@ -67,10 +67,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Marathon swimming — Open water swimming | Open water
 - 3x3 basketball — 3x3 | Three-on-three basketball | 3 on 3 basketball
-- Cricket
+- Cricket — T20 cricket | Twenty20
 - Polo
 - Croquet
-- Lacrosse
+- Lacrosse — Lacrosse sixes
 
 ### Tier 5: expert (4)
 
@@ -83,16 +83,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Roque
 - Jeu de paume — Real tennis | Court tennis | Royal tennis
-- Motorboating — Powerboating | Powerboat racing | Motorboat racing | Powerboat | Motorboat
+- Motorboating — Powerboating | Powerboat racing | Motorboat racing | Powerboat | Motorboat | Water motorsports
 
-## Refused on purpose (40)
+## Refused on purpose (45)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Javelin | Pole vault | High jump | Long jump | Triple jump | Shot put | Discus | Discus throw | Hammer throw | Decathlon | Heptathlon | Marathon | Sprinting | Sprint | Hurdles | Relay | Steeplechase | Race walking | 100 metres | 100m — "An event within athletics, not a sport of its own."
+- Javelin | Pole vault | High jump | Long jump | Triple jump | Shot put | Discus | Discus throw | Hammer throw | Decathlon | Heptathlon | Marathon | Sprinting | Sprint | Hurdles | Relay | Steeplechase | Race walking | 100 metres | 100m | Standing high jump | Standing long jump | Cross-country running | Cross country | Hurdling | Pole vaulting | Long-distance running | Middle-distance running — "An event within athletics, not a sport of its own."
 - Butterfly | Breaststroke | Backstroke | Front crawl | Freestyle | Crawl | Medley | Individual medley — "A swimming stroke, not a sport of its own."
-- Pommel horse | Rings | Still rings | Vault | Balance beam | Beam | Parallel bars | Uneven bars | High bar | Horizontal bar | Floor exercise — "A piece of gymnastics apparatus, not a sport of its own."
-- Skiing | Alpine skiing | Cross-country skiing | Ski jumping | Snowboarding | Bobsleigh | Bobsled | Luge | Skeleton | Curling | Biathlon | Speed skating | Short track | Nordic combined | Freestyle skiing — "A Winter Games sport, never part of the summer programme."
+- Pommel horse | Rings | Still rings | Vault | Balance beam | Beam | Parallel bars | Uneven bars | High bar | Horizontal bar | Floor exercise | Rope climbing | Club swinging | Indian clubs | Side horse — "A piece of gymnastics apparatus, not a sport of its own."
+- Skiing | Alpine skiing | Cross-country skiing | Ski jumping | Snowboarding | Bobsleigh | Bobsled | Luge | Skeleton | Curling | Biathlon | Speed skating | Short track | Nordic combined | Freestyle skiing | Bandy | Snowboard | Ski mountaineering | Sled dog racing | Dog sledding — "A Winter Games sport, never part of the summer programme."
 - Squash — "Joins at Los Angeles in 2028. Until then, never Olympic."
 - Flag football — "Makes its Olympic debut at Los Angeles in 2028."
 - American football | Gridiron | NFL — "Only ever a demonstration, at Los Angeles in 1932."
@@ -107,13 +107,13 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Darts — "Never an Olympic sport, despite years of campaigning."
 - Snooker | Billiards | Pool | Eight-ball — "Never Olympic, though its players have long campaigned to join."
 - Chess — "Recognised by the IOC as a sport, but never played at the Games."
-- Netball — "A Commonwealth Games sport, never an Olympic one."
+- Netball | Lawn bowls | Bowls — "A Commonwealth Games sport, never an Olympic one."
 - Cheerleading — "Recognised by the IOC, but never on the programme."
 - Ultimate frisbee | Ultimate | Frisbee | Flying disc — "Recognised by the IOC, but never on the programme."
 - Muay Thai | Thai boxing | Kickboxing — "Recognised by the IOC, but never on the programme."
 - Wushu | Kung fu — "A tournament was held alongside Beijing 2008, but it was never an Olympic sport."
 - Mixed martial arts | MMA | UFC | Cage fighting — "Never part of the Olympics."
-- Sumo | Bodybuilding | Racquetball | Racketball | Pickleball | Padel | Dodgeball | Kickball | Rounders | Paintball | Arm wrestling | Tiddlywinks — "Never part of the Olympics."
+- Sumo | Bodybuilding | Racquetball | Racketball | Pickleball | Padel | Dodgeball | Kickball | Rounders | Paintball | Arm wrestling | Tiddlywinks | Jiu-jitsu | Capoeira | Orienteering — "Never an Olympic medal sport."
 - Rugby league — "Never Olympic. The rugby at the Games has always been union or sevens."
 - Motor racing | Formula 1 | Formula One | F1 | Motorsport | NASCAR | Rallying | Motorcycle racing | Motocross — "Nothing with an engine on wheels has ever raced at the Games."
 - Horse racing — "Olympic horses jump and dance, but they never race."
@@ -125,4 +125,9 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hurling | Gaelic football — "Irish-American clubs played it at St. Louis in 1904, but never for Olympic medals."
 - Mountaineering | Alpinism — "Medals were awarded for famous ascents in 1932 and 1936, but no mountain was climbed at the Games."
 - Baseball5 — "A five-a-side street game, never part of the Summer Games."
+- Kendo | Kyudo | Budo — "Japanese budo, shown only as a demonstration at Tokyo in 1964."
+- Sambo — "A Soviet martial art, shown only as a demonstration at Moscow in 1980."
+- Wheelchair racing — "Only ever an exhibition at the Olympics, first in 1984. Its home is the Paralympics."
+- Chariot racing | Pankration | Hoplitodromos — "A sport of the ancient Games, never part of the modern ones."
+- Martial arts | Combat sports | Martial art — "A whole family of sports. Name one, like judo."
 - Refused without a reason (near misses of real answers): Ludo | Duathlon | Aquathlon | Driving

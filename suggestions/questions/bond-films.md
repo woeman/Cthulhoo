@@ -12,48 +12,48 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (7)
 
-- Goldfinger
-- Skyfall
+- Goldfinger — Goldfinger (1964)
+- Skyfall — Skyfall (2012) | Bond 23
 - Casino Royale — Casino Royale 2006
-- GoldenEye
-- Dr. No — Doctor No
-- From Russia with Love
-- No Time to Die
+- GoldenEye — GoldenEye (1995) | GoldenEye 007
+- Dr. No — Doctor No | Dr. No (1962)
+- From Russia with Love — From Russia with Love (1963) | FRWL | Russia with Love
+- No Time to Die — No Time to Die (2021) | NTTD | Bond 25
 
 ### Tier 2: common (7)
 
-- Thunderball
-- Spectre — Specter
-- Live and Let Die
-- Moonraker
-- Octopussy
-- You Only Live Twice
-- Diamonds Are Forever
+- Thunderball — Thunderball (1965)
+- Spectre — Specter | Spectre (2015) | Bond 24
+- Live and Let Die — Live and Let Die (1973) | LALD
+- Moonraker — Moonraker (1979)
+- Octopussy — Octopussy (1983)
+- You Only Live Twice — You Only Live Twice (1967) | YOLT
+- Diamonds Are Forever — Diamonds Are Forever (1971) | DAF | Diamonds Forever
 
 ### Tier 3: known to fans (8)
 
-- The Spy Who Loved Me
-- The Man with the Golden Gun — The Golden Gun
-- Quantum of Solace
-- Tomorrow Never Dies
-- Die Another Day
-- The World Is Not Enough — TWINE
-- A View to a Kill
-- For Your Eyes Only
+- The Spy Who Loved Me — The Spy Who Loved Me (1977) | TSWLM
+- The Man with the Golden Gun — The Golden Gun | The Man with the Golden Gun (1974) | TMWTGG
+- Quantum of Solace — Quantum of Solace (2008) | QoS | Quantum
+- Tomorrow Never Dies — Tomorrow Never Dies (1997) | TND
+- Die Another Day — Die Another Day (2002) | DAD
+- The World Is Not Enough — TWINE | The World Is Not Enough (1999)
+- A View to a Kill — A View to a Kill (1985) | AVTAK | From a View to a Kill
+- For Your Eyes Only — For Your Eyes Only (1981) | FYEO
 
 ### Tier 4: obscure (4)
 
-- On Her Majesty's Secret Service — OHMSS
-- Licence to Kill — License to Kill
-- The Living Daylights
-- Never Say Never Again — Never Say Never
+- On Her Majesty's Secret Service — OHMSS | On Her Majesty's Secret Service (1969) | Her Majesty's Secret Service
+- Licence to Kill — License to Kill | Licence to Kill (1989) | LTK
+- The Living Daylights — The Living Daylights (1987) | TLD
+- Never Say Never Again — Never Say Never | Never Say Never Again (1983) | NSNA
 
 ### Tier 6: rare jackpots (2)
 
 - Casino Royale (1967) — The 1967 Casino Royale
 - Casino Royale (1954) — Climax! Casino Royale | Climax!
 
-## Refused on purpose (8)
+## Refused on purpose (16)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -65,3 +65,11 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Casino — "Scorsese's, not Bond's."
 - From Paris with Love — "A 2010 John Travolta action film. Not Bond."
 - Dr. Strangelove | Doctor Strangelove — "Kubrick's, not Bond's, though it shares a designer with the early Bonds."
+- James Bond | 007 | Bond | Agent 007 — "The spy himself. Name one of his films."
+- Colonel Sun | Devil May Care | Carte Blanche | Trigger Mortis | Forever and a Day | With a Mind to Kill | Icebreaker | Licence Renewed | Role of Honour | Brokenclaw | Never Send Flowers | Zero Minus Ten | Doubleshot | High Time to Kill — "A Bond novel, but never filmed."
+- Chitty Chitty Bang Bang — "Written by Ian Fleming, but not a Bond story."
+- The Bourne Identity | Bourne | Jason Bourne | The Bourne Supremacy | The Bourne Ultimatum | The Bourne Legacy — "Jason Bourne, not James Bond."
+- The Man from U.N.C.L.E. — "Napoleon Solo, another agent, not Bond."
+- The Ipcress File — "Harry Palmer, the anti-Bond."
+- Our Man Flint | In Like Flint — "Derek Flint, a 1960s send-up of Bond."
+- Tinker Tailor Soldier Spy — "George Smiley's world, not Bond's."

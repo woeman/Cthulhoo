@@ -58,7 +58,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Guava
 - Blackcurrant — Currant | Currants
 - Blood orange — Moro orange | Tarocco
-- Makrut lime — Makrut | Thai lime | Magrood
+- Makrut lime — Makrut | Thai lime | Magrood | Kaffir lime
 
 ### Tier 3: known to fans (44)
 
@@ -287,7 +287,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pequi
 - Ice cream bean — Inga
 
-## Refused on purpose (11)
+## Refused on purpose (10)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -299,6 +299,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Almond | Walnut | Hazelnut | Cashew | Pistachio | Chestnut | Pecan | Brazil nut | Macadamia | Nut | Pine nut | Acorn — "A nut, as far as the kitchen is concerned."
 - Jam | Marmalade | Fruit salad | Smoothie | Juice — "Made of fruit, but not a fruit."
 - Forbidden fruit — "A figure of speech. Which fruit?"
-- Kaffir lime | Kaffir — "That old name is a slur in southern Africa. Call it a makrut lime."
 - Lettuce | Broccoli | Cabbage | Spinach | Celery | Cauliflower | Kale | Asparagus | Leek | Brussels sprout | Artichoke — "A vegetable that isn't a fruit, even to a botanist."
 - Elderflower — "The flower. Wait a few months for its berries."

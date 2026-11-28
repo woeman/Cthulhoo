@@ -54,13 +54,13 @@ Each day's dive has seven questions, the same for every player on that local dat
 
 ## Friday, 4 December 2026
 
-1. [Name a cheese.](questions/cheeses.md) (`cheeses`, 170 answers so far)
-2. [Name a moon in our solar system.](questions/moons.md) (`moons`, 184 answers so far)
-3. [Name a currency.](questions/currencies.md) (`currencies`, 139 answers so far)
-4. [Name a breed of dog.](questions/dog-breeds.md) (`dog-breeds`, 308 answers so far)
-5. [Name a god or goddess of ancient Egypt.](questions/egyptian-gods.md) (`egyptian-gods`, 97 answers so far)
-6. [Name a palindrome: a word or phrase that reads the same backwards.](questions/palindromes.md) (`palindromes`, 162 answers so far)
-7. [Name a Disney animated film that isn't from Pixar.](questions/disney-animated.md) (`disney-animated`, 128 answers so far)
+1. [Name a cheese.](questions/cheeses.md) (`cheeses`, 596 answers so far)
+2. [Name a moon in our solar system.](questions/moons.md) (`moons`, 202 answers so far)
+3. [Name a currency.](questions/currencies.md) (`currencies`, 239 answers so far)
+4. [Name a breed of dog.](questions/dog-breeds.md) (`dog-breeds`, 597 answers so far)
+5. [Name a god or goddess of ancient Egypt.](questions/egyptian-gods.md) (`egyptian-gods`, 141 answers so far)
+6. [Name a palindrome: a word or phrase that reads the same backwards.](questions/palindromes.md) (`palindromes`, 354 answers so far)
+7. [Name a Disney animated film that isn't from Pixar.](questions/disney-animated.md) (`disney-animated`, 152 answers so far)
 
 ## Saturday, 5 December 2026
 
