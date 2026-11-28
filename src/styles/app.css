@@ -835,6 +835,59 @@ a.btn {
   border-radius: var(--radius-tag);
 }
 
+/* A dive's questions are fetched as it begins. This plate is seen only when the
+   line is slow or down: it stands where the first question will, clear of the
+   sounding line as a question is. */
+.fetch-screen {
+  justify-content: flex-start;
+  padding-right: calc(var(--space-4) + 14px);
+}
+
+.fetch-plate {
+  margin-top: clamp(var(--space-2), 4vh, var(--space-7));
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.fetch-line {
+  margin: 0;
+  font-family: var(--font-text);
+  font-weight: 500;
+  font-size: var(--step-1);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.fetch-sub {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* waiting: the line breathes, so a slow fetch never looks like a stopped game */
+.fetch-plate[role='status'] .fetch-line {
+  animation: fetch-breathe 2.4s ease-in-out infinite;
+}
+
+@keyframes fetch-breathe {
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.fetch-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+  margin-top: var(--space-3);
+}
+
 /* the air gauge: a breath held, draining */
 .air {
   position: relative;

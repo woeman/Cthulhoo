@@ -804,7 +804,7 @@ class RevisionScreen {
     this.show(new WaitScene(this.ctx, `Fetching ${pack.name}…`));
     let prompts: PromptDef[] = [];
     try {
-      prompts = ((await this.env.topics?.pool([pack.id])) ?? []).filter((p) => p.answers.length > 0);
+      prompts = ((await this.env.topics?.pack(pack.pack)) ?? []).filter((p) => p.answers.length > 0);
     } catch {
       /* said below */
     }

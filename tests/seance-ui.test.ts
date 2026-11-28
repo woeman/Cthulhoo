@@ -1,4 +1,5 @@
 import { describe, expect, it } from 'vitest';
+import { wholeBank } from '../src/game/bank';
 import { PLACEHOLDER_THEME } from '../src/game/theme';
 import type { PromptDef } from '../src/game/types';
 import { weekOf } from '../src/party/cult';
@@ -18,6 +19,7 @@ import {
   lanternResume,
   listNames,
   ordinal,
+  promptQueue,
   relayId,
   revealOrder,
   sameWords,
@@ -50,7 +52,7 @@ const PROMPTS: PromptDef[] = Array.from({ length: 60 }, (_, i) => ({
     { answer: `Rare ${i}`, tier: 5 },
   ],
 }));
-const BANK = { prompts: PROMPTS, byId: new Map(PROMPTS.map((p) => [p.id, p])), days: [] };
+const BANK = wholeBank(PROMPTS);
 
 const voice = (sitter: string, depth: number, input: string | null = 'x', voices = 1): Voice => ({ sitter, input, answer: input, tier: input === null ? 0 : 1, voices, depth });
 
@@ -108,22 +110,44 @@ describe('the questions', () => {
     for (const t of PLACEHOLDER_THEME.tiers) expect(d[t.tier]).toBe(t.depth);
   });
 
-  it('never asks the day’s questions or those already asked, and asks as many as the candles', () => {
+  it('never asks the day’s questions or those already asked, and asks as many as the candles', async () => {
     const avoid = PROMPTS.slice(0, 7).map((p) => p.id);
     const asked = PROMPTS.slice(7, 12).map((p) => p.id);
-    const set = choosePrompts(BANK, avoid, 'DAGON-7', 0, 1, 5, asked);
+    const set = await choosePrompts(BANK, avoid, 'DAGON-7', 0, 1, 5, asked);
     expect(set).toHaveLength(5);
     for (const p of set) {
       expect(avoid).not.toContain(p.id);
       expect(asked).not.toContain(p.id);
     }
-    expect(choosePrompts(BANK, avoid, 'DAGON-7', 0, 1, 0)).toHaveLength(1);
+    expect(await choosePrompts(BANK, avoid, 'DAGON-7', 0, 1, 0)).toHaveLength(1);
   });
 
-  it('asks the same circle the same questions, and new ones when it sits again', () => {
-    const a = choosePrompts(BANK, [], 'DAGON-7', 0, 1, 7).map((p) => p.id);
-    expect(choosePrompts(BANK, [], 'dagon-7', 0, 1, 7).map((p) => p.id)).toEqual(a);
-    expect(choosePrompts(BANK, [], 'DAGON-7', 1, 1, 7).map((p) => p.id)).not.toEqual(a);
+  it('asks the same circle the same questions, and new ones when it sits again', async () => {
+    const a = (await choosePrompts(BANK, [], 'DAGON-7', 0, 1, 7)).map((p) => p.id);
+    expect((await choosePrompts(BANK, [], 'dagon-7', 0, 1, 7)).map((p) => p.id)).toEqual(a);
+    expect((await choosePrompts(BANK, [], 'DAGON-7', 1, 1, 7)).map((p) => p.id)).not.toEqual(a);
+    // The queue it is cut from can be read without fetching anything.
+    expect(promptQueue(BANK, [], 'DAGON-7', 0, 1).slice(0, 7)).toEqual(a);
+  });
+
+  it('fetches answers a few questions at a time, passes over what cannot be had, and gives up when nothing can', async () => {
+    const queue = promptQueue(BANK, [], 'DAGON-7', 0, 1);
+    const asks: string[][] = [];
+    // The line gives everything but the first three of the queue.
+    const patchy = { ...BANK, whole: async (ids: string[]) => (asks.push(ids), (await BANK.whole(ids)).filter((p) => !queue.slice(0, 3).includes(p.id))) };
+    expect((await choosePrompts(patchy, [], 'DAGON-7', 0, 1, 5)).map((p) => p.id)).toEqual(queue.slice(3, 8));
+    // Seven asked for at first (five and two to spare), then the one still wanted and two to spare: never the whole bank.
+    expect(asks.map((a) => a.length)).toEqual([7, 3]);
+    expect(asks.flat()).toEqual(queue.slice(0, 10));
+    // Two lost of the first seven costs no second asking: that is what the spare is for.
+    asks.length = 0;
+    const nearly = { ...BANK, whole: async (ids: string[]) => (asks.push(ids), (await BANK.whole(ids)).filter((p) => !queue.slice(0, 2).includes(p.id))) };
+    expect((await choosePrompts(nearly, [], 'DAGON-7', 0, 1, 5)).map((p) => p.id)).toEqual(queue.slice(2, 7));
+    expect(asks.map((a) => a.length)).toEqual([7]);
+    const down = { ...BANK, whole: async (ids: string[]) => (asks.push(ids), []) };
+    asks.length = 0;
+    expect(await choosePrompts(down, [], 'DAGON-7', 0, 1, 5)).toEqual([]);
+    expect(asks).toHaveLength(1);
   });
 });
 

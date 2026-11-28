@@ -24,7 +24,7 @@ import { BAD_CLASS_SIGN, ClassCallingScene, ClassEntryScene, NO_CLASS_RELAY, typ
 import { HostAskScene, HostEndScene, HostLobbyScene, HostRevealScene } from './classroom/host';
 import { DiverLastScene, HostLastScene } from './classroom/last';
 import { installSeanceArt } from './seance/art';
-import { choosePrompts, relayId, tierDepths } from './seance/model';
+import { NO_QUESTIONS, choosePrompts, relayId, tierDepths } from './seance/model';
 import { loadName, readJson, writeStore } from './seance/parts';
 import type { Ctx, Scene } from './seance/scene';
 import type { SeanceEnv } from './seance/types';
@@ -552,7 +552,7 @@ class ClassScreen {
           return fail('A class pack you ticked could not be fetched. Check the connection, or tick other topics.');
         }
         if (this.dead) return;
-        if (!prompts.length) return fail('The deep has nothing to ask: the question bank is empty.');
+        if (!prompts.length) return fail(NO_QUESTIONS);
         this.queue = prompts;
         saveAsked({ ...a, sittings: a.sittings + 1 });
       }

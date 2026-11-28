@@ -1,5 +1,6 @@
 import { defineConfig, type Plugin } from 'vitest/config';
 import { classPacks } from './build/class-packs.mjs';
+import { dailyBank } from './build/daily-bank.mjs';
 
 // Public files that are not part of the bundle but belong in the offline cache.
 const PUBLIC_FILES = [
@@ -33,13 +34,14 @@ function serviceWorker(): Plugin {
     name: 'cthulhoo-service-worker',
     apply: 'build',
     generateBundle(_options, bundle) {
-      // Class packs are fetched when asked for, never kept with the game's own files.
-      const built = Object.keys(bundle).filter((f) => !f.endsWith('.map') && !f.startsWith('packs/'));
+      // Class packs and the daily bank's questions are fetched when asked for, never kept with the game's own files.
+      const built = Object.keys(bundle).filter((f) => !f.endsWith('.map') && !f.startsWith('packs/') && !f.startsWith('bank/'));
       const files = ['./', ...[...built, ...PUBLIC_FILES].map((f) => `./${f}`)];
       const version = fnv(files.join('|'));
-      const source = `// Generated at build time. Network first for the page and the class packs, cache first for hashed files.
+      const source = `// Generated at build time. Network first for the page and the class packs, cache first for hashed files and the bank's questions.
 const CACHE = 'cthulhoo-${version}';
 const PACKS = 'cthulhoo-packs';
+const BANK = 'cthulhoo-bank';
 const FILES = ${JSON.stringify(files)};
 
 self.addEventListener('install', (event) => {
@@ -50,7 +52,7 @@ self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((k) => k.startsWith('cthulhoo-') && k !== CACHE && k !== PACKS).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k.startsWith('cthulhoo-') && k !== CACHE && k !== PACKS && k !== BANK).map((k) => caches.delete(k))))
       .then(() => self.clients.claim()),
   );
 });
@@ -95,6 +97,33 @@ self.addEventListener('fetch', (event) => {
     );
     return;
   }
+  // A question of the daily bank. Its address carries a stamp of its list, so a copy kept is good
+  // until the list changes, and a changed list is fetched once. One copy of each question is kept.
+  // With no line to the surface, an older list is better than none.
+  if (url.pathname.includes('/bank/')) {
+    const any = { ignoreVary: true, ignoreSearch: true };
+    event.respondWith(
+      caches.open(BANK).then((c) =>
+        c.match(req, MATCH).then(
+          (hit) =>
+            hit ||
+            fetch(req)
+              .then((res) => {
+                if (res.ok) {
+                  const copy = res.clone();
+                  c.keys(req, any)
+                    .then((old) => Promise.all(old.map((k) => c.delete(k))))
+                    .then(() => c.put(req, copy))
+                    .catch(() => {});
+                }
+                return res;
+              })
+              .catch(() => c.match(req, any).then((old) => old || Response.error())),
+        ),
+      ),
+    );
+    return;
+  }
   event.respondWith(
     caches.match(req, MATCH).then(
       (hit) =>
@@ -121,7 +150,8 @@ self.addEventListener('fetch', (event) => {
 // everything loaded on demand (the specimen plates) goes into the one script.
 export default defineConfig(({ mode }) => ({
   base: './',
-  plugins: [...(mode === 'artifact' ? [] : [classPacks()]), serviceWorker()],
+  // The one-file preview and the tests can fetch nothing, so there the daily bank goes into the script whole.
+  plugins: [dailyBank({ bundled: mode === 'artifact' || mode === 'test' }), ...(mode === 'artifact' ? [] : [classPacks()]), serviceWorker()],
   build: {
     target: 'es2020',
     outDir: 'dist',

@@ -1,5 +1,5 @@
 import { loadBank, type Bank } from './game/bank';
-import { PROMPTS_PER_DAY, dayNumberFor, localDateKey, msUntilNextDay, practiceQueue, practiceRank, promptsForDay, repairDive } from './game/daily';
+import { PROMPTS_PER_DAY, dateKeyForDay, dayNumberFor, localDateKey, msUntilNextDay, practiceQueue, practiceRank, promptsForDay, repairDive } from './game/daily';
 import { matchAnswer } from './game/matcher';
 import { omenById, omenForDay } from './game/omens';
 import { SANITY, clampSanity, depthFor, isBellQuestion, sanityAfterAnswer, timeLimitMs, totalDepth } from './game/scoring';
@@ -66,6 +66,13 @@ const BANNER_READ_MS = 2300;
 const EYE_NEAR = 6760;
 /** Below this visible height (the phone keyboard is up, or the phone is on its side) the question packs tighter. */
 const SHORT_VIEW = 560;
+/** A dive's questions still on their way after the plunge and this long: the diver is told the deep is slow. */
+const FETCH_SAY_MS = 700;
+/** The Reliquary fetches the questions of this many of its newest relics, for their lore, and waits this long for them. */
+const RELIC_FETCH = 40;
+const RELIC_WAIT_MS = 1500;
+/** Reading today's log after a reload waits this long for its questions (the lore, the rarest answers). */
+const LOG_WAIT_MS = 1500;
 /** On mousedown: tapping a button beside the answer keeps the keyboard up instead of stealing focus. */
 const keepFocus = (e: Event) => e.preventDefault();
 const sentence = (s: string) => (s ? `${s[0].toUpperCase()}${s.slice(1)}${/[.?]$/.test(s) ? '' : '.'}` : '');
@@ -130,6 +137,8 @@ export class App {
   private topics = new TopicBook(this.bank, this.theme, packFetcher(document.baseURI));
   /** The topics of the practice dive in hand, for another like it. */
   private diveTopics: string[] | null = null;
+  /** The day whose morrow's questions have been fetched ahead. */
+  private aheadFor = 0;
   private settings: Settings = loadSettings();
   private sound = new Sound();
   /** The recorded beds under the engine's own sound: by depth in a dive, their own in the séance. */
@@ -478,7 +487,7 @@ export class App {
 
   /** Who the deep thinks you are: the Logbook's title, on the title screen too. */
   private personaTitle(career: Career, days: ReturnType<typeof loadDays>): string {
-    const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
+    const sigils = computeSigils(days, (id) => this.bank.about(id), this.theme);
     return personaFor(career, sigils, days, this.theme, playerId(), this.today).title;
   }
 
@@ -514,6 +523,19 @@ export class App {
     });
   }
 
+  /**
+   * Fetches the day's questions while the title is read, so the plunge never
+   * waits for them, and a little later tomorrow's, so a diver with no line to
+   * the surface at midnight can still go down. Fetched once, kept by the browser.
+   */
+  private fetchAhead(rec: DayRecord) {
+    void this.bank.whole(rec.promptIds);
+    if (this.aheadFor === rec.day) return;
+    this.aheadFor = rec.day;
+    const next = rec.day + 1;
+    window.setTimeout(() => void this.bank.whole(promptsForDay(this.bank.prompts, next, this.bank.days, dateKeyForDay(next))), 5000);
+  }
+
   private dailyRecord(): DayRecord {
     const now = new Date();
     this.today = dayNumberFor(now);
@@ -521,7 +543,7 @@ export class App {
     const ids = promptsForDay(this.bank.prompts, this.today, this.bank.days, localDateKey(now));
     // If the bank changed since the dive began, keep what was played and swap only
     // the questions that no longer exist (the one in progress restarts fresh).
-    if (existing) return repairDive(existing, (id) => this.bank.byId.has(id), ids);
+    if (existing) return repairDive(existing, (id) => this.bank.has(id), ids);
     return {
       day: this.today,
       date: localDateKey(now),
@@ -536,6 +558,7 @@ export class App {
 
   private showTitle() {
     const rec = this.dailyRecord();
+    this.fetchAhead(rec);
     const omen = omenById(rec.omen);
     const dateText = new Date().toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric' });
     const progress = rec.answers.length;
@@ -562,7 +585,7 @@ export class App {
     const actions = h('div', { class: 'title-actions' });
     if (rec.finished) {
       const total = totalDepth(rec);
-      primary = h('button', { class: 'btn primary', type: 'button', onclick: () => this.openResults(rec) }, 'Read your log');
+      primary = h('button', { class: 'btn primary', type: 'button', onclick: () => void this.readLog(rec) }, 'Read your log');
       actions.append(
         h('p', { class: 'done-note' }, `You reached ${fmtMetres(total)} m today.`),
         primary,
@@ -763,7 +786,8 @@ export class App {
   /** From the moonlit surface down to wherever this dive has got to. */
   private async plunge() {
     const rec = this.rec!;
-    const token = this.show(h('section', { class: 'screen' }));
+    const screen = h('section', { class: 'screen' });
+    const token = this.show(screen);
     this.hud.el.hidden = false;
     this.sounding.el.hidden = false;
     this.hud.title.textContent = rec.practice ? 'Practice' : `No. ${rec.day}`;
@@ -771,13 +795,87 @@ export class App {
     this.setMadness(rec.sanity);
     this.sound.bubbles(16, 0.08);
     this.abyss.pulse(0.25);
+    // The questions still to be asked are fetched while the water closes overhead.
+    const fetched = this.summon(rec.promptIds.slice(rec.answers.length));
     // Back from a reload mid-question: the clock is already running, so no long plunge.
     const dur = this.reduced || rec.active ? 0 : 2000 + Math.min(target, 7000) * 0.35;
     if (!rec.answers.length) this.banner('surface');
     await this.abyss.descendTo(cam(target), dur);
     await this.bannerRead();
     if (token !== this.token) return;
+    if (!(await this.questionsHere(rec, fetched, screen, token))) return;
     this.nextPrompt();
+  }
+
+  /**
+   * Has these questions here whole: the daily bank's are fetched, and so is
+   * whichever class pack holds the others. False when one the bank asks could
+   * not be had. An id nobody knows is not waited for: the dive passes over it.
+   */
+  private async summon(ids: string[]): Promise<boolean> {
+    await this.topics.ensure(ids);
+    return ids.every((id) => this.bank.byId.has(id) || !this.bank.has(id));
+  }
+
+  /**
+   * Waits for a dive's questions, which are nearly always here before the water
+   * has closed. When they are slow the diver is told so; when they cannot be had
+   * the dive waits where it is, with another try or the way back, and nothing is
+   * lost by either. True once the dive may go on, false when it was left.
+   */
+  private async questionsHere(rec: DayRecord, fetched: Promise<boolean>, screen: HTMLElement, token: number): Promise<boolean> {
+    const what = rec.practice ? 'The questions of this dive' : 'Today’s questions';
+    screen.classList.add('fetch-screen');
+    for (;;) {
+      let ok = await Promise.race([fetched, sleep(FETCH_SAY_MS).then(() => null)]);
+      if (token !== this.token) return false;
+      if (ok === null) {
+        const slow = `${what} are still rising from the deep.`;
+        screen.replaceChildren(h('div', { class: 'plate fetch-plate', role: 'status' }, h('p', { class: 'fetch-line' }, slow), h('p', { class: 'fetch-sub' }, 'One moment.')));
+        this.announce(slow);
+        ok = await fetched;
+        if (token !== this.token) return false;
+      }
+      screen.replaceChildren();
+      if (ok) return true;
+      const again = h('button', { class: 'btn primary', type: 'button' }, 'Try again') as HTMLButtonElement;
+      const back = h('button', { class: 'btn ghost', type: 'button' }, 'Back to the surface') as HTMLButtonElement;
+      const lost = `${what} could not be fetched.`;
+      screen.replaceChildren(
+        h(
+          'div',
+          { class: 'plate fetch-plate', role: 'alert' },
+          h('p', { class: 'kicker' }, 'The line to the deep is down'),
+          h('p', { class: 'fetch-line' }, lost),
+          // A question in hand when the page was reloaded keeps its clock: saying otherwise would be a lie.
+          h('p', { class: 'fetch-sub' }, rec.active ? 'Check the connection and try again. The air of the question you were on is still running.' : 'Check the connection and try again. Nothing is lost by waiting: the next question has not been asked.'),
+          h('div', { class: 'fetch-actions' }, again, back),
+        ),
+      );
+      this.shout(`${lost} Check the connection and try again.`);
+      const retry = await new Promise<boolean>((resolve) => {
+        again.addEventListener('click', () => resolve(true), { once: true });
+        back.addEventListener('click', () => resolve(false), { once: true });
+        // Left by some other way (the address bar, a link): nothing more to wait for.
+        this.loops.push(() => resolve(false));
+      });
+      if (token !== this.token) return false;
+      this.sound.click();
+      if (!retry) {
+        this.showTitle();
+        return false;
+      }
+      screen.replaceChildren();
+      fetched = this.summon(rec.promptIds.slice(rec.answers.length));
+    }
+  }
+
+  /** Today's log from the title: after a reload its questions are fetched first, for the lore and the rarest answers. */
+  private async readLog(rec: DayRecord) {
+    const token = this.token;
+    await Promise.race([this.summon(rec.promptIds), sleep(LOG_WAIT_MS)]);
+    if (token !== this.token) return;
+    this.openResults(rec);
   }
 
   private nextPrompt() {
@@ -794,6 +892,11 @@ export class App {
     const index = rec.answers.length;
     const prompt = this.bank.byId.get(rec.promptIds[index]);
     if (!prompt) {
+      // A question the bank asks but which is not here: fetch it, and the dive waits (see plunge).
+      if (this.bank.has(rec.promptIds[index])) {
+        void this.plunge();
+        return;
+      }
       // Unknown prompt id (bank changed): skip it without penalty.
       rec.promptIds.splice(index, 1);
       this.nextPrompt();
@@ -1405,7 +1508,9 @@ export class App {
     const log = h('ol', { class: 'plate dive-log', 'aria-label': 'Your answers' });
     const rows: LogRow[] = [];
     rec.answers.forEach((a, i) => {
+      // After a reload a question's answers may still be on their way: its words are known all the same.
       const p = this.bank.byId.get(a.promptId);
+      const words = (p ?? this.bank.about(a.promptId))?.text ?? '';
       const tier = a.tier ? tierDef(this.theme, a.tier) : null;
       const more = h('div', { class: 'more' });
       // The census of the day's divers goes here, after the lore, once the relay answers.
@@ -1442,7 +1547,7 @@ export class App {
               h(
                 'span',
                 {},
-                h('span', { class: 'q' }, `${i + 1}. ${p?.text ?? ''}`),
+                h('span', { class: 'q' }, `${i + 1}. ${words}`),
                 h('span', { class: `a${a.answer ? '' : ' miss'}` }, a.answer ?? 'Out of air'),
                 t,
               ),
@@ -1779,10 +1884,15 @@ export class App {
   }
 
   /** Every Forbidden and Unspeakable answer given in a daily dive, newest first. */
-  private openReliquary() {
+  private async openReliquary() {
     this.sound.click();
-    const relics = collectRelics(loadDays(), (id) => this.bank.byId.get(id), this.theme, loadCensusKept());
-    this.sheet('The Reliquary', reliquaryBody(relics, { theme: this.theme, min: CENSUS_MIN, today: dayNumberFor(new Date()) }));
+    const days = loadDays();
+    const relics = () => collectRelics(days, (id) => this.bank.about(id), this.theme, loadCensusKept());
+    // A relic's line of lore lies with its question's answers: the newest relics' are fetched, and the case opens with or without them.
+    const token = this.token;
+    await Promise.race([this.bank.whole([...new Set(relics().map((r) => r.promptId))].slice(0, RELIC_FETCH)), sleep(RELIC_WAIT_MS)]);
+    if (token !== this.token) return;
+    this.sheet('The Reliquary', reliquaryBody(relics(), { theme: this.theme, min: CENSUS_MIN, today: dayNumberFor(new Date()) }));
   }
 
   /** Every page the riddles have given up, the newest open. */
@@ -1803,6 +1913,7 @@ export class App {
     return {
       prompts: this.bank.prompts,
       byId: this.bank.byId,
+      whole: (ids) => this.bank.whole(ids),
       days: this.bank.days,
       avoid: [...avoid],
       theme: this.theme,
@@ -1829,6 +1940,7 @@ export class App {
         daily: () => this.topics.daily(),
         all: () => this.topics.all(),
         pool: (choice) => this.topics.pool(choice),
+        pack: (id) => this.topics.pack(id),
         topicOf: (p) => this.topics.topicOf(p),
         sameAs: (id) => this.topics.sameAs(id),
         ensure: (ids) => this.topics.ensure(ids),
@@ -1986,13 +2098,13 @@ export class App {
   private openLogbook() {
     this.sound.click();
     const { days, career } = this.careerNow();
-    const sigils = computeSigils(days, (id) => this.bank.byId.get(id), this.theme);
+    const sigils = computeSigils(days, (id) => this.bank.about(id), this.theme);
     const seen = Object.keys(loadSightings()).filter((id) => this.theme.bestiary.some((c) => c.id === id)).length;
     const codex = codexPages(this.riddles, loadRiddles());
-    const relics = collectRelics(days, (id) => this.bank.byId.get(id), this.theme);
+    const relics = collectRelics(days, (id) => this.bank.about(id), this.theme);
     const keepsakes: Keepsake[] = [
       { icon: 'hint', label: 'Sightings', note: `${seen} of ${this.theme.bestiary.length} creatures`, onOpen: () => this.openSightings() },
-      { icon: 'depth', iconHtml: sealSvg(6, 'icon'), label: 'The Reliquary', note: reliquaryNote(relics, this.theme), onOpen: () => this.openReliquary() },
+      { icon: 'depth', iconHtml: sealSvg(6, 'icon'), label: 'The Reliquary', note: reliquaryNote(relics, this.theme), onOpen: () => void this.openReliquary() },
       {
         icon: 'riddle',
         label: 'The Drowned Codex',

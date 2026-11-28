@@ -35,7 +35,7 @@ export const levelFor = (strength: number): SigilLevel =>
  * One sigil per topic the theme names, in the theme's order. An answer's topic is
  * the one it was saved with, or failing that the topic its prompt has now.
  */
-export function computeSigils(days: Record<number, DayRecord>, promptById: (id: string) => PromptDef | undefined, theme: ThemeCopy): Sigil[] {
+export function computeSigils(days: Record<number, DayRecord>, promptById: (id: string) => Pick<PromptDef, 'category'> | undefined, theme: ThemeCopy): Sigil[] {
   const sums = new Map<string, { n: number; metres: number; rare: number }>();
   for (const rec of Object.values(days)) {
     if (!rec || rec.practice) continue;

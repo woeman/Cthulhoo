@@ -185,8 +185,11 @@ describe('what a device may send', () => {
 
   it('keeps every answer and spelling the bank has, however long its lists grow', () => {
     // Guards the widened lists: an online séance once cut a question to 800 answers of 40 spellings each.
+    // Under test the build puts every question into the script whole (see build/daily-bank.mjs).
     const bank = loadBank();
-    expect(bank.prompts.length).toBeGreaterThan(50);
+    const whole = bank.prompts.map((p) => bank.byId.get(p.id)).filter((p): p is PromptDef => !!p);
+    expect(whole.length).toBe(bank.prompts.length);
+    expect(whole.length).toBeGreaterThan(50);
     const count = (ps: PromptDef[]) =>
       ps.map((p) => [
         p.id,
@@ -196,7 +199,7 @@ describe('what a device may send', () => {
         (p.traps ?? []).reduce((n, t) => n + (t.aliases?.length ?? 0), 0),
         p.decoys?.length ?? 0,
       ]);
-    expect(count(cleanPrompts(bank.prompts, bank.prompts.length))).toEqual(count(bank.prompts));
+    expect(count(cleanPrompts(whole, whole.length))).toEqual(count(whole));
 
     const many: PromptDef = {
       id: 'many',
