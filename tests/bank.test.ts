@@ -304,24 +304,45 @@ describe('fetching a question from beside the game', () => {
     await expect(get('bones', 'v')).rejects.toThrow();
   });
 
-  it('asks again, once the service worker has the page, for what was fetched before it did', async () => {
+  it('asks again, whenever a service worker takes the page, for what the page has fetched', async () => {
     const seen: string[] = [];
-    vi.stubGlobal('fetch', async (url: URL) => (seen.push(String(url)), answer({})));
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer({})));
     let taken: (() => void) | undefined;
-    const worker = { controller: null as object | null, addEventListener: (_: string, fn: () => void) => (taken = fn) };
+    const worker = { controller: null as object | null, addEventListener: (kind: string, fn: () => void) => kind === 'controllerchange' && (taken = fn) };
     vi.stubGlobal('navigator', { serviceWorker: worker });
     const get = bankFetcher('https://example.test/');
     await get('bones', 'v1');
     await get('rivers', 'v2');
     expect(seen).toHaveLength(2);
-    // A first visit: the worker installs, then takes the page.
+    // A first visit: the worker installs after the day's questions are here, then takes the page.
     worker.controller = {};
     taken?.();
     expect(seen.slice(2)).toEqual(['https://example.test/bank/bones.json?v=v1', 'https://example.test/bank/rivers.json?v=v2']);
-    // From then on it sees every fetch itself: nothing more is asked for twice.
+    // The game is published anew: what was fetched in the older worker's hand is the new worker's to keep too,
+    // each question once however often it was fetched (a kept copy is answered without leaving the device).
     await get('moons', 'v3');
+    await get('bones', 'v1');
+    seen.length = 0;
+    worker.controller = {};
     taken?.();
-    expect(seen).toHaveLength(5);
+    expect(seen).toEqual(['https://example.test/bank/bones.json?v=v1', 'https://example.test/bank/rivers.json?v=v2', 'https://example.test/bank/moons.json?v=v3']);
+  });
+
+  it('asks for nothing twice where no service worker can be had, nor for what could not be fetched', async () => {
+    const seen: string[] = [];
+    let taken: (() => void) | undefined;
+    const worker = { controller: null, addEventListener: (_: string, fn: () => void) => (taken = fn) };
+    vi.stubGlobal('navigator', { serviceWorker: worker });
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer('Not found', 404)));
+    await expect(bankFetcher('https://example.test/')('gone', 'v')).rejects.toThrow('404');
+    seen.length = 0;
+    taken?.();
+    expect(seen).toEqual([]);
+    // A browser with no service workers at all (or a page not served securely): the fetch is all there is.
+    vi.stubGlobal('navigator', {});
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer({ id: 'bones' })));
+    expect(await bankFetcher('https://example.test/')('bones', 'v')).toEqual({ id: 'bones' });
+    expect(seen).toEqual(['https://example.test/bank/bones.json?v=v']);
   });
 
   it('rejects when the file is not there', async () => {

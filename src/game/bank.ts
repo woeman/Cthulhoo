@@ -171,13 +171,16 @@ export const BANK_FETCH_MS = 12_000;
  * surface, or one too slow, any copy the browser still holds is taken.
  */
 export function bankFetcher(base: string): BankFetcher {
-  // On a first visit the day's questions are fetched before the service worker has the page in hand,
-  // so it never sees them to keep. Once it has the page they are asked for again (the browser still
-  // holds them), and a dive begun later with no line to the surface finds them kept.
+  // The service worker keeps each question it sees fetched, for a dive with no line to the surface.
+  // It never saw what was fetched before it had the page in hand: on a first visit it installs after
+  // the day's questions are here, and on the first visit after the game is published anew the page is
+  // still in the hand of the worker before it (one from before the bank had files keeps none of them).
+  // So whenever a worker takes the page, what this page has fetched is asked for again: what the
+  // worker already keeps never leaves the device, and the rest the browser still holds.
   const worker = typeof navigator === 'undefined' ? undefined : navigator.serviceWorker;
-  const unseen: URL[] = [];
+  const asked = new Set<string>();
   worker?.addEventListener('controllerchange', () => {
-    for (const url of unseen.splice(0)) void fetch(url).catch(() => {});
+    for (const url of asked) void fetch(url).catch(() => {});
   });
   return async (id, v) => {
     const url = new URL(`bank/${encodeURIComponent(id)}.json${v ? `?v=${encodeURIComponent(v)}` : ''}`, base);
@@ -190,7 +193,7 @@ export function bankFetcher(base: string): BankFetcher {
     const timer = setTimeout(() => stop.abort(), BANK_FETCH_MS);
     try {
       const got = await read(await fetch(url, { signal: stop.signal }));
-      if (worker && !worker.controller) unseen.push(url);
+      if (worker) asked.add(url.href);
       return got;
     } catch {
       return await read(await fetch(url, { cache: 'only-if-cached', mode: 'same-origin' }));
