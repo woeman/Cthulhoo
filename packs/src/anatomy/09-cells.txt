@@ -1,0 +1,126 @@
+id: anatomy-cells
+text: Name a type of cell found in the human body.
+flavor: Thirty-seven trillion of them agreed to be you. Not one of them was asked.
+rules: Any named kind of human cell, by its everyday or scientific name.
+section: Cells and tissues
+---
+1 Red blood cell | Red blood cells | Erythrocyte | Erythrocytes | RBC | Red cell | Blood cell | Red blood
+1 White blood cell | White blood cells | Leukocyte | Leucocyte | WBC | White cell | Leukocytes | White blood
+1 Nerve cell | Neuron | Neurone | Neurons | Brain cell | Nerve cells | Brain cells
+1 Sperm | Sperm cell | Spermatozoon | Spermatozoa
+1 Egg | Egg cell | Ovum | Ova | Oocyte
+1 Stem cell | Stem cells | Embryonic stem cell
+1 Skin cell | Skin cells | Keratinocyte | Keratinocytes | Epidermal cell
+1 Muscle cell | Muscle cells | Myocyte | Muscle fibre | Muscle fiber | Myocytes
+2 Fat cell | Fat cells | Adipocyte | Adipocytes | Lipocyte
+2 Bone cell | Bone cells | Osteocyte | Osteocytes
+2 Platelet | Platelets | Thrombocyte | Thrombocytes
+2 T cell | T cells | T lymphocyte | Killer T cell | Helper T cell | Cytotoxic T cell | T-cell | Regulatory T cell
+2 B cell | B cells | B lymphocyte | B-cell
+2 Lymphocyte | Lymphocytes
+2 Liver cell | Liver cells | Hepatocyte | Hepatocytes
+2 Cancer cell | Cancer cells | Tumour cell | Tumor cell
+2 Heart cell | Cardiomyocyte | Cardiac muscle cell | Cardiomyocytes | Heart muscle cell | Cardiac myocyte
+2 Epithelial cell | Epithelial cells | Epithelium
+2 Rod | Rod cell | Rods | Rod cells
+2 Cone | Cone cell | Cones | Cone cells
+2 Macrophage | Macrophages
+2 Blood stem cell | Haematopoietic stem cell | Hematopoietic stem cell | Bone marrow cell
+3 Neutrophil | Neutrophils
+3 Eosinophil | Eosinophils
+3 Basophil | Basophils
+3 Monocyte | Monocytes
+3 Natural killer cell | NK cell | Natural killer cells | NK cells
+3 Plasma cell | Plasma cells
+3 Memory cell | Memory B cell | Memory T cell | Memory cells
+3 Dendritic cell | Dendritic cells
+3 Mast cell | Mast cells
+3 Phagocyte | Phagocytes
+3 Osteoblast | Osteoblasts
+3 Osteoclast | Osteoclasts
+3 Chondrocyte | Chondrocytes | Cartilage cell
+3 Fibroblast | Fibroblasts
+3 Melanocyte | Melanocytes | Pigment cell
+3 Glial cell | Glia | Glial cells | Neuroglia
+3 Astrocyte | Astrocytes
+3 Oligodendrocyte | Oligodendrocytes
+3 Schwann cell | Schwann cells
+3 Microglia | Microglial cell
+3 Beta cell | Beta cells | Islet cell | Islet cells
+3 Alpha cell | Alpha cells
+3 Goblet cell | Goblet cells
+3 Endothelial cell | Endothelial cells | Endothelium
+3 Hair cell | Hair cells
+3 Photoreceptor | Photoreceptors
+3 Zygote | Fertilised egg | Fertilized egg
+3 Gamete | Gametes | Sex cell | Germ cell | Sex cells
+3 Motor neuron | Motor neurone | Sensory neuron | Interneuron | Sensory neurone | Motor neurons
+3 Smooth muscle cell | Skeletal muscle cell
+3 Megakaryocyte | Megakaryocytes
+3 Reticulocyte | Reticulocytes
+3 Granulocyte | Granulocytes
+3 Kidney cell | Podocyte | Podocytes
+3 Lung cell | Pneumocyte | Pneumocytes | Alveolar cell | Type I pneumocyte | Type II pneumocyte
+3 Enterocyte | Enterocytes | Intestinal cell | Gut cell
+3 Purkinje cell | Purkinje cells | Purkinje fibre | Purkinje fibres
+3 Pyramidal cell | Pyramidal cells | Pyramidal neuron
+3 Satellite cell | Satellite cells
+3 Mesenchymal stem cell | Stromal cell
+3 Blastocyst | Blastomere | Embryonic cell
+3 Sertoli cell | Sertoli cells
+3 Leydig cell | Leydig cells
+3 Spermatocyte | Spermatid | Spermatogonium
+3 Follicle cell | Granulosa cell | Granulosa cells | Theca cell
+3 Parietal cell | Parietal cells | Oxyntic cell
+3 Chief cell | Chief cells
+3 Kupffer cell | Kupffer cells
+3 Langerhans cell | Langerhans cells
+3 Merkel cell | Merkel cells
+3 Pericyte | Pericytes
+3 Ependymal cell | Ependymal cells
+3 Odontoblast | Ameloblast | Cementoblast
+3 Myoblast | Myoblasts
+3 Ganglion cell | Bipolar cell | Amacrine cell | Retinal ganglion cell
+3 Olfactory receptor neuron | Olfactory cell | Taste cell | Taste receptor cell
+3 Thymocyte
+3 Erythroblast | Normoblast
+3 Squamous cell | Basal cell | Squamous cells | Basal cells
+4 Paneth cell | Paneth cells
+4 Enteroendocrine cell | Enterochromaffin cell | G cell | Delta cell
+4 Tuft cell | Brush cell
+4 Club cell | Clara cell
+4 Stellate cell | Hepatic stellate cell | Ito cell
+4 Cholangiocyte
+4 Mesangial cell
+4 Juxtaglomerular cell
+4 Macula densa
+4 Chromaffin cell | Chromaffin cells
+4 Thyrocyte | Follicular cell | Parafollicular cell | C cell
+4 Pinealocyte
+4 Pituicyte
+4 Somatotroph | Lactotroph | Corticotroph | Gonadotroph | Thyrotroph
+4 Betz cell | Betz cells
+4 Granule cell | Granule cells
+4 Basket cell | Chandelier cell
+4 Renshaw cell
+4 Mirror neuron | Mirror neurons
+4 Place cell | Grid cell
+4 Spindle neuron | Von Economo neuron
+4 Trophoblast | Syncytiotrophoblast | Cytotrophoblast
+4 Mesothelial cell
+4 Synoviocyte
+4 Tenocyte
+4 Histiocyte
+4 Myofibroblast
+4 Myoepithelial cell
+4 Pacemaker cell | Pacemaker cells | Interstitial cell of Cajal
+4 M cell | Microfold cell
+4 Tanycyte
+4 Hofbauer cell
+4 Reticular cell
+4 Sebocyte
+4 Ionocyte
+4 Rosehip neuron
+6 HeLa | HeLa cell | HeLa cells | Henrietta Lacks :: Taken without consent from Henrietta Lacks in 1951, these cancer cells never stopped dividing. They helped test the polio vaccine and still fill labs worldwide.
+x Cell | Cells | Nucleus | Mitochondria | Mitochondrion | Membrane | Cytoplasm | Ribosome | DNA | Tissue :: That is a part of a cell, or the word itself. Name a kind of cell.
+x Bacteria | Bacterium | Virus | Plant cell | Yeast | Amoeba | Prokaryote :: Found in or on you, perhaps, but it is not a human cell.

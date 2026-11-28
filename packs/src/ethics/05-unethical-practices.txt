@@ -1,0 +1,149 @@
+id: ethics-unethical-practices
+text: Name an unethical or illegal business practice.
+flavor: Each one begins as a small favour, a rounded figure, a thing nobody will check. Each one.
+rules: Any named kind of misconduct in business, finance or the workplace, whether merely shabby or outright criminal.
+section: Misconduct
+---
+1 Fraud | Financial fraud | Corporate fraud | Accounting fraud | Deception
+1 Bribery | Bribe | Bribes | Bribing | Kickbacks | Kickback | Secret commissions | Facilitation payments | Graft
+1 Insider trading | Insider dealing
+1 Tax evasion | Tax fraud | Tax avoidance | Tax dodging | Tax cheating | Tax minimisation
+1 Money laundering | Laundering
+1 Discrimination | Racism | Sexism | Ageism | Racial discrimination | Sex discrimination | Unfair discrimination
+1 Corruption | Corrupt conduct
+1 Theft | Stealing | Embezzlement | Misappropriation | Skimming | Employee theft | Larceny
+1 Child labour | Child labor
+1 Wage theft | Underpayment | Underpaying staff | Underpaying workers | Unpaid wages | Unpaid overtime | Underpaying employees | Underpaying
+1 False advertising | Misleading advertising | Deceptive advertising | Misleading and deceptive conduct | Misleading conduct | Lying to customers | Misleading consumers | Deceptive conduct | Lying | False claims | Misrepresentation
+1 Greenwashing | Green washing
+1 Price fixing | Price-fixing | Cartel | Cartels | Cartel conduct | Collusion
+1 Sexual harassment | Harassment | Workplace harassment
+1 Bullying | Workplace bullying
+2 Price gouging | Gouging | Profiteering
+2 Ponzi scheme | Pyramid scheme | Ponzi | Pyramid selling
+2 Sweatshops | Sweatshop labour | Sweatshop | Exploitation | Worker exploitation | Labour exploitation | Exploiting workers
+2 Modern slavery | Slavery | Forced labour | Slave labour | Human trafficking | Forced labor | Debt bondage
+2 Nepotism | Cronyism | Favouritism | Jobs for mates
+2 Conflict of interest | Conflicts of interest | Self-dealing
+2 Pollution | Illegal dumping | Dumping waste | Environmental damage | Toxic dumping | Polluting
+2 Cooking the books | Creative accounting | False accounting | Falsifying accounts | Window dressing | Earnings manipulation | Earnings management | Falsifying records | Book cooking
+2 Market manipulation | Pump and dump | Stock manipulation | Share price manipulation | Spoofing | Wash trading | Rumourtrage
+2 Phoenixing | Phoenix activity | Illegal phoenixing | Phoenix company
+2 Monopoly | Monopolisation | Misuse of market power | Abuse of market power | Anti-competitive conduct | Predatory pricing | Monopolising
+2 Unfair dismissal | Wrongful dismissal | Unlawful termination
+2 Unsafe working conditions | Unsafe workplace | Safety breaches | Cutting corners on safety | Poor working conditions | Unsafe work
+2 Blackmail | Extortion | Coercion | Intimidation
+2 Whistleblower retaliation | Victimisation | Retaliation | Silencing whistleblowers
+2 Privacy breach | Data misuse | Selling customer data | Privacy violation | Misuse of personal information | Data harvesting | Spying on customers
+2 Planned obsolescence | Built-in obsolescence
+2 Bait and switch | Bait advertising | Bait-and-switch
+2 Scam | Scams | Scamming | Rip-off
+2 Forgery | Counterfeiting | Falsifying documents | Fake products | Counterfeit goods | Knock-offs
+2 Plagiarism | Intellectual property theft | Piracy | Copyright infringement | IP theft | Patent infringement | Stealing ideas | Trade secret theft
+2 Animal testing | Animal cruelty | Animal abuse
+2 Fees for no service | Charging dead people | Charging fees to dead customers
+2 Shrinkflation | Skimpflation
+2 Drip pricing | Hidden fees | Hidden charges | Junk fees
+2 Unconscionable conduct | Unfair contract terms | Predatory lending | Loan sharking | Irresponsible lending | Usury | Payday lending
+2 Sham contracting | Sham contracts | Cash in hand | Cash-in-hand work
+2 Tax havens | Profit shifting | Transfer pricing | Offshore tax havens
+3 Front running | Front-running
+3 Churning
+3 Mis-selling | Misselling | Pressure selling | Hard selling | High-pressure sales | Upselling
+3 Cold calling | Spam | Robocalls | Boiler room
+3 Astroturfing | Fake reviews | Paid reviews
+3 Bid rigging | Tender rigging | Market sharing | Bid-rigging
+3 Third line forcing | Exclusive dealing | Resale price maintenance | Tying
+3 Dumping
+3 Industrial espionage | Corporate espionage | Spying
+3 Sabotage
+3 Slander | Defamation | Smear campaign
+3 Lobbying | Political donations | Cash for access | Regulatory capture | Revolving door
+3 Rent seeking | Rent-seeking
+3 Golden parachute | Excessive executive pay | Excessive bonuses
+3 Asset stripping
+3 Insolvent trading | Trading while insolvent
+3 Breach of fiduciary duty | Breach of directors' duties | Breach of trust | Breach of duty
+3 Breach of contract | Breach of confidentiality | Leaking | Leaking confidential information
+3 Backdating | Options backdating
+3 Round-tripping | Channel stuffing | Cookie jar accounting | Big bath
+3 Off-balance-sheet financing | Hiding debt | Special purpose entities
+3 Kiting | Cheque kiting | Check kiting
+3 Lapping | Teeming and lading
+3 Ghost employees | Payroll fraud | Expense fraud | Padding expenses | Expense padding
+3 Invoice fraud | False invoicing | Over-invoicing
+3 Insurance fraud
+3 Identity theft | Identity fraud
+3 Credit card fraud | Skimming cards
+3 Cybercrime | Hacking | Phishing | Ransomware
+3 Redlining
+3 Tokenism | Pinkwashing | Rainbow washing | Woke washing | Purpose washing
+3 Bluewashing | Sportswashing | Whitewashing | Artwashing
+3 Greenhushing
+3 Carbon fraud | Phantom credits
+3 Deforestation | Illegal logging | Overfishing | Land clearing
+3 Land grabbing | Dispossession
+6 Blackbirding :: The tricking or kidnapping of Pacific Islanders to work Queensland's cane fields from the 1860s. About 62,000 came. From 1906 most still there were deported.
+3 Union busting | Union-busting | Blacklisting
+3 Zero-hours contracts | Casualisation | Unpaid internships | Unpaid trials
+3 Offshoring to avoid labour laws | Outsourcing to sweatshops | Race to the bottom
+3 Gig worker misclassification | Misclassification
+3 Glass ceiling | Pay gap | Unequal pay | Gender pay gap
+3 Unpaid super | Super theft | Not paying super
+3 Visa exploitation | Migrant worker exploitation
+3 Gaslighting | Mobbing | Micromanagement
+3 Dark patterns | Deceptive design | Confirmshaming
+3 Subscription traps | Forced continuity | Roach motel
+3 Loot boxes | Predatory monetisation
+3 Surveillance | Workplace surveillance | Employee monitoring
+3 Product tampering | Selling unsafe products | Selling faulty products | Cutting corners | Using substandard materials | Shoddy workmanship
+3 Covering up | Cover-up | Concealment | Hiding defects | Destroying evidence | Shredding documents | Obstruction of justice
+3 Perjury | Lying to regulators | Misleading the regulator | Misleading the market | Breaching continuous disclosure
+3 Short and distort | Bear raid
+3 Naked short selling | Naked shorting
+3 Late trading | Market timing
+3 Rate rigging | Libor rigging | Benchmark manipulation
+3 Layering | Smurfing | Structuring
+3 Sanctions busting | Sanctions evasion | Arms trafficking | Blood diamonds | Conflict minerals
+3 Tobacco marketing to children | Marketing to children | Pester power
+3 Predatory marketing | Targeting vulnerable customers | Exploiting vulnerable customers
+3 Price discrimination | Pink tax | Loyalty tax | Loyalty penalty
+3 Hoarding | Cornering the market | Scalping | Ticket scalping
+3 Emissions cheating | Defeat devices | Defeat device
+3 Doping | Match fixing | Match-fixing
+3 Cash for comment | Payola | Advertorial | Undisclosed sponsorship
+3 Clickbait | Fake news | Disinformation
+3 Catfishing | Impersonation
+3 Trespass
+3 Simony
+4 Twisting
+4 Painting the tape | Marking the close | Ramping
+4 Quote stuffing
+4 Pay to play | Pay-to-play
+4 Slamming | Cramming
+4 Bucket shop
+4 Free-riding
+4 Tunnelling | Tunneling
+4 Greenmail
+6 Truck system | Company scrip | Company store | Tommy shop :: Paying workers in tokens good only at the boss's own overpriced shop. Britain's Truck Acts began outlawing it in 1831.
+4 Wardrobing
+4 Sugging | Frugging
+4 Brushing
+4 Sock puppetry | Sockpuppeting
+4 Typosquatting | Cybersquatting
+4 Patent trolling | Evergreening | Pay for delay
+4 Biopiracy
+4 Salami slicing
+4 Featherbedding
+4 Shilling | Shill bidding
+4 Wangiri
+4 Jerry-building
+4 Clocking | Odometer fraud
+4 Short-weighting | Short weighting | False weights
+4 Adulteration | Food fraud
+6 Coin clipping | Clipping | Debasement :: Shaving slivers of silver from the edges of coins. It is why coins have milled edges, and in England it was once punished as treason.
+4 Barratry | Champerty
+4 Tied aid
+x Marketing | Advertising | Competition | Profit | Making a profit | Outsourcing | Redundancy | Downsizing | Charging interest | Raising prices | Selling | Negotiating | Short selling :: Legal, and usually ethical. It turns sour only when done dishonestly or unfairly.
+x Murder | Assault | Arson | Kidnapping | Drug dealing | Robbery :: A crime, certainly, but not one we think of as a business practice.
+x Unethical | Illegal | Crime | Misconduct | Bad behaviour | Greed | Dishonesty | Cheating :: Too broad. Name a particular practice.

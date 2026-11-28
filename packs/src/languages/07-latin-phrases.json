@@ -1,0 +1,2336 @@
+{
+ "id": "languages-latin-phrases",
+ "text": "Name a Latin phrase used in English.",
+ "category": "language",
+ "flavor": "Latin died long ago, yet still it walks among you, muttering in courtrooms and on tombstones.",
+ "rules": "A phrase of two or more Latin words, or the Latin behind an abbreviation like etc. or e.g. Single words like ergo or alibi don't count.",
+ "answers": [
+  {
+   "answer": "Carpe diem",
+   "aliases": [
+    "Carpe diem, quam minimum credula postero"
+   ],
+   "tier": 1,
+   "lore": "From Horace, who added that you should trust as little as possible to tomorrow."
+  },
+  {
+   "answer": "Et cetera",
+   "aliases": [
+    "Etc",
+    "Et caetera",
+    "&c",
+    "Ect",
+    "Ektsetera"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ad hoc",
+   "tier": 1
+  },
+  {
+   "answer": "Status quo",
+   "tier": 1
+  },
+  {
+   "answer": "Per se",
+   "aliases": [
+    "Per say"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Vice versa",
+   "tier": 1
+  },
+  {
+   "answer": "Bona fide",
+   "aliases": [
+    "Bona fides"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Quid pro quo",
+   "tier": 1
+  },
+  {
+   "answer": "Alter ego",
+   "tier": 1
+  },
+  {
+   "answer": "Veni, vidi, vici",
+   "tier": 1,
+   "lore": "Caesar's report to Rome of a lightning victory in 47 BC."
+  },
+  {
+   "answer": "Et tu, Brute",
+   "aliases": [
+    "Et tu",
+    "Et tu Brutus"
+   ],
+   "tier": 1,
+   "lore": "Not Caesar's words: Shakespeare made them famous, though an older play had them first. Suetonius says he may have said, in Greek, 'You too, child?'"
+  },
+  {
+   "answer": "Ad infinitum",
+   "tier": 1
+  },
+  {
+   "answer": "Exempli gratia",
+   "aliases": [
+    "e.g."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Id est",
+   "aliases": [
+    "i.e."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Nota bene",
+   "aliases": [
+    "N.B."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Post scriptum",
+   "aliases": [
+    "P.S.",
+    "Postscript",
+    "Post post scriptum",
+    "PPS"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Anno Domini",
+   "aliases": [
+    "AD",
+    "A.D."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ante meridiem",
+   "aliases": [
+    "a.m.",
+    "am",
+    "Ante meridian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Post meridiem",
+   "aliases": [
+    "p.m.",
+    "Post meridian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Curriculum vitae",
+   "aliases": [
+    "CV"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Requiescat in pace",
+   "aliases": [
+    "RIP"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Quod erat demonstrandum",
+   "aliases": [
+    "QED"
+   ],
+   "tier": 2,
+   "lore": "A Latin rendering of the words Euclid used to close his proofs."
+  },
+  {
+   "answer": "Cogito, ergo sum",
+   "aliases": [
+    "Cogito"
+   ],
+   "tier": 2,
+   "lore": "Descartes first wrote it in French, 'je pense, donc je suis', in 1637."
+  },
+  {
+   "answer": "Habeas corpus",
+   "tier": 2
+  },
+  {
+   "answer": "Ad nauseam",
+   "tier": 2
+  },
+  {
+   "answer": "Mea culpa",
+   "aliases": [
+    "Mea maxima culpa"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Per annum",
+   "tier": 2
+  },
+  {
+   "answer": "Per capita",
+   "tier": 2
+  },
+  {
+   "answer": "Per diem",
+   "tier": 2
+  },
+  {
+   "answer": "Pro bono",
+   "aliases": [
+    "Pro bono publico"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Pro rata",
+   "tier": 2
+  },
+  {
+   "answer": "Caveat emptor",
+   "tier": 2
+  },
+  {
+   "answer": "Tempus fugit",
+   "tier": 2,
+   "lore": "From Virgil, who wrote that time flies beyond recall."
+  },
+  {
+   "answer": "Memento mori",
+   "tier": 2,
+   "lore": "Legend says a slave whispered a reminder of death to Roman generals during their triumphs."
+  },
+  {
+   "answer": "Persona non grata",
+   "tier": 2
+  },
+  {
+   "answer": "Deus ex machina",
+   "aliases": [
+    "Ex machina"
+   ],
+   "tier": 2,
+   "lore": "A god lowered on to the stage by a crane to sort out the plot of a Greek play."
+  },
+  {
+   "answer": "In vitro",
+   "aliases": [
+    "In vitro fertilisation",
+    "In vitro fertilization"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "In memoriam",
+   "tier": 2
+  },
+  {
+   "answer": "Magnum opus",
+   "tier": 2
+  },
+  {
+   "answer": "Alma mater",
+   "tier": 2
+  },
+  {
+   "answer": "Terra firma",
+   "tier": 2
+  },
+  {
+   "answer": "Rigor mortis",
+   "tier": 2
+  },
+  {
+   "answer": "Non sequitur",
+   "tier": 2
+  },
+  {
+   "answer": "De facto",
+   "tier": 2
+  },
+  {
+   "answer": "Ad hominem",
+   "aliases": [
+    "Argumentum ad hominem"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ad libitum",
+   "aliases": [
+    "Ad lib"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Modus operandi",
+   "aliases": [
+    "MO"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Post mortem",
+   "tier": 2
+  },
+  {
+   "answer": "Magna Carta",
+   "aliases": [
+    "Magna Charta"
+   ],
+   "tier": 2,
+   "lore": "Sealed by King John at Runnymede in 1215, and annulled by the Pope within months."
+  },
+  {
+   "answer": "Homo sapiens",
+   "tier": 2
+  },
+  {
+   "answer": "Vox populi",
+   "aliases": [
+    "Vox pop",
+    "Vox populi, vox Dei"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Versus",
+   "aliases": [
+    "vs",
+    "v."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Circa",
+   "aliases": [
+    "ca"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ave Maria",
+   "tier": 2
+  },
+  {
+   "answer": "Lorem ipsum",
+   "aliases": [
+    "Lorem ipsum dolor sit amet",
+    "Lorem ipsum dolor"
+   ],
+   "tier": 3,
+   "lore": "Scrambled from Cicero's 'dolorem ipsum', pain itself. 'Lorem' isn't a Latin word at all."
+  },
+  {
+   "answer": "Alea iacta est",
+   "aliases": [
+    "Alea jacta est",
+    "Iacta alea est"
+   ],
+   "tier": 3,
+   "lore": "Caesar's words as he crossed the Rubicon in 49 BC, according to Suetonius."
+  },
+  {
+   "answer": "In vino veritas",
+   "tier": 3
+  },
+  {
+   "answer": "Semper fidelis",
+   "aliases": [
+    "Semper fi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "E pluribus unum",
+   "tier": 3,
+   "lore": "'Out of many, one', on the Great Seal of the United States since 1782."
+  },
+  {
+   "answer": "Et alii",
+   "aliases": [
+    "Et al",
+    "Et alia",
+    "Et aliae"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ibidem",
+   "aliases": [
+    "Ibid",
+    "Ib."
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "A priori",
+   "tier": 3
+  },
+  {
+   "answer": "A posteriori",
+   "tier": 3
+  },
+  {
+   "answer": "Prima facie",
+   "tier": 3
+  },
+  {
+   "answer": "De jure",
+   "tier": 3
+  },
+  {
+   "answer": "Ipso facto",
+   "tier": 3
+  },
+  {
+   "answer": "Compos mentis",
+   "tier": 3
+  },
+  {
+   "answer": "Non compos mentis",
+   "aliases": [
+    "Non compos"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "In situ",
+   "tier": 3
+  },
+  {
+   "answer": "In utero",
+   "tier": 3
+  },
+  {
+   "answer": "In vivo",
+   "tier": 3
+  },
+  {
+   "answer": "In absentia",
+   "tier": 3
+  },
+  {
+   "answer": "In camera",
+   "tier": 3
+  },
+  {
+   "answer": "In extremis",
+   "tier": 3
+  },
+  {
+   "answer": "In loco parentis",
+   "tier": 3
+  },
+  {
+   "answer": "In flagrante delicto",
+   "aliases": [
+    "In flagrante"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "In toto",
+   "tier": 3
+  },
+  {
+   "answer": "In medias res",
+   "tier": 3
+  },
+  {
+   "answer": "Inter alia",
+   "aliases": [
+    "Inter alios"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lingua franca",
+   "tier": 3,
+   "lore": "Strictly Italian, named after the trading tongue of Mediterranean ports, though the Latin reads the same."
+  },
+  {
+   "answer": "Mens rea",
+   "tier": 3
+  },
+  {
+   "answer": "Sub judice",
+   "tier": 3
+  },
+  {
+   "answer": "Pro forma",
+   "tier": 3
+  },
+  {
+   "answer": "Pro tempore",
+   "aliases": [
+    "Pro tem"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ex officio",
+   "tier": 3
+  },
+  {
+   "answer": "Ex gratia",
+   "tier": 3
+  },
+  {
+   "answer": "Ex libris",
+   "tier": 3
+  },
+  {
+   "answer": "Terra incognita",
+   "tier": 3
+  },
+  {
+   "answer": "Tabula rasa",
+   "tier": 3
+  },
+  {
+   "answer": "Sine qua non",
+   "tier": 3
+  },
+  {
+   "answer": "Sui generis",
+   "tier": 3
+  },
+  {
+   "answer": "Summa cum laude",
+   "tier": 3
+  },
+  {
+   "answer": "Magna cum laude",
+   "tier": 3
+  },
+  {
+   "answer": "Cum laude",
+   "tier": 3
+  },
+  {
+   "answer": "Reductio ad absurdum",
+   "aliases": [
+    "Ad absurdum"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Post hoc",
+   "aliases": [
+    "Post hoc ergo propter hoc"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Post partum",
+   "tier": 3
+  },
+  {
+   "answer": "Annus horribilis",
+   "tier": 3,
+   "lore": "Elizabeth II's verdict on 1992, the year Windsor Castle caught fire."
+  },
+  {
+   "answer": "Annus mirabilis",
+   "tier": 3
+  },
+  {
+   "answer": "Dramatis personae",
+   "tier": 3
+  },
+  {
+   "answer": "Viva voce",
+   "aliases": [
+    "Viva"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Quis custodiet ipsos custodes",
+   "aliases": [
+    "Quis custodiet"
+   ],
+   "tier": 3,
+   "lore": "Juvenal was worrying about who would guard a wife's guards."
+  },
+  {
+   "answer": "Cui bono",
+   "tier": 3
+  },
+  {
+   "answer": "Quo vadis",
+   "tier": 3
+  },
+  {
+   "answer": "Rara avis",
+   "tier": 3,
+   "lore": "Juvenal's 'rare bird', as rare, he said, as a black swan."
+  },
+  {
+   "answer": "Primus inter pares",
+   "tier": 3
+  },
+  {
+   "answer": "Cave canem",
+   "tier": 3,
+   "lore": "Spelt out in mosaic at the door of a house in Pompeii."
+  },
+  {
+   "answer": "Corpus Christi",
+   "tier": 3
+  },
+  {
+   "answer": "Delirium tremens",
+   "tier": 3
+  },
+  {
+   "answer": "Fiat lux",
+   "tier": 3
+  },
+  {
+   "answer": "Sic transit gloria mundi",
+   "tier": 3
+  },
+  {
+   "answer": "Per ardua ad astra",
+   "tier": 3,
+   "lore": "The RAF's motto, inherited from the Royal Flying Corps, which took it up in 1912."
+  },
+  {
+   "answer": "Per aspera ad astra",
+   "aliases": [
+    "Ad astra per aspera"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ad astra",
+   "tier": 3
+  },
+  {
+   "answer": "Citius, altius, fortius",
+   "aliases": [
+    "Citius, altius, fortius, communiter"
+   ],
+   "tier": 3,
+   "lore": "The Olympic motto. In 2021 it gained a fourth word: communiter, 'together'."
+  },
+  {
+   "answer": "Mens sana in corpore sano",
+   "tier": 3,
+   "lore": "From Juvenal. The sportswear firm Asics took its name from a version of it."
+  },
+  {
+   "answer": "Nil desperandum",
+   "tier": 3
+  },
+  {
+   "answer": "Dulce et decorum est",
+   "aliases": [
+    "Dulce et decorum est pro patria mori"
+   ],
+   "tier": 3,
+   "lore": "From Horace. Wilfred Owen called it 'the old Lie' in a poem written in 1917."
+  },
+  {
+   "answer": "Amor vincit omnia",
+   "aliases": [
+    "Omnia vincit amor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pax Romana",
+   "tier": 3
+  },
+  {
+   "answer": "Agnus Dei",
+   "tier": 3
+  },
+  {
+   "answer": "Hocus pocus",
+   "tier": 3,
+   "lore": "Sham Latin used by 17th-century conjurers. Some think it mocks 'hoc est corpus' from the Mass."
+  },
+  {
+   "answer": "Senatus Populusque Romanus",
+   "aliases": [
+    "SPQR"
+   ],
+   "tier": 3,
+   "lore": "Rome's initials, SPQR. They still appear on the city's drain covers."
+  },
+  {
+   "answer": "Habemus papam",
+   "tier": 3,
+   "lore": "Most recently proclaimed from St Peter's in May 2025, for Pope Leo XIV."
+  },
+  {
+   "answer": "Philosophiae Doctor",
+   "aliases": [
+    "PhD",
+    "DPhil",
+    "Doctor philosophiae"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aurora borealis",
+   "tier": 3
+  },
+  {
+   "answer": "Spina bifida",
+   "tier": 3
+  },
+  {
+   "answer": "Gluteus maximus",
+   "tier": 3
+  },
+  {
+   "answer": "Videlicet",
+   "aliases": [
+    "viz"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Confer",
+   "aliases": [
+    "cf"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Opere citato",
+   "aliases": [
+    "op cit"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quod vide",
+   "aliases": [
+    "q.v."
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Scilicet",
+   "aliases": [
+    "sc.",
+    "scil."
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Idem",
+   "aliases": [
+    "id."
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Floruit",
+   "aliases": [
+    "fl."
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Per procurationem",
+   "aliases": [
+    "pp",
+    "Per pro"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fidei defensor",
+   "aliases": [
+    "Fid def",
+    "FD"
+   ],
+   "tier": 4,
+   "lore": "Given to Henry VIII by the Pope in 1521 for attacking Luther. British coins still carry it."
+  },
+  {
+   "answer": "Dei gratia",
+   "aliases": [
+    "DG"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Deo volente",
+   "aliases": [
+    "DV"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Deo gratias",
+   "tier": 4
+  },
+  {
+   "answer": "Ad majorem Dei gloriam",
+   "aliases": [
+    "Ad maiorem Dei gloriam",
+    "AMDG",
+    "A.M.D.G."
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iesus Nazarenus Rex Iudaeorum",
+   "aliases": [
+    "Jesus Nazarenus Rex Judaeorum",
+    "INRI"
+   ],
+   "tier": 4,
+   "lore": "The INRI on crucifixes: 'Jesus of Nazareth, King of the Jews'."
+  },
+  {
+   "answer": "Res judicata",
+   "tier": 4
+  },
+  {
+   "answer": "Res ipsa loquitur",
+   "tier": 4
+  },
+  {
+   "answer": "Stare decisis",
+   "tier": 4
+  },
+  {
+   "answer": "Amicus curiae",
+   "tier": 4
+  },
+  {
+   "answer": "Ultra vires",
+   "tier": 4
+  },
+  {
+   "answer": "Obiter dictum",
+   "tier": 4
+  },
+  {
+   "answer": "Mutatis mutandis",
+   "tier": 4
+  },
+  {
+   "answer": "Nolo contendere",
+   "tier": 4
+  },
+  {
+   "answer": "Ex parte",
+   "tier": 4
+  },
+  {
+   "answer": "Ex post facto",
+   "tier": 4
+  },
+  {
+   "answer": "Ex cathedra",
+   "tier": 4
+  },
+  {
+   "answer": "Ex nihilo",
+   "aliases": [
+    "Ex nihilo nihil fit",
+    "Creatio ex nihilo",
+    "Nihil ex nihilo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ex tempore",
+   "tier": 4
+  },
+  {
+   "answer": "De minimis",
+   "tier": 4
+  },
+  {
+   "answer": "Mala fide",
+   "tier": 4
+  },
+  {
+   "answer": "Jus soli",
+   "aliases": [
+    "Ius soli"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jus sanguinis",
+   "aliases": [
+    "Ius sanguinis"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jus primae noctis",
+   "aliases": [
+    "Ius primae noctis"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Terra nullius",
+   "tier": 4
+  },
+  {
+   "answer": "Casus belli",
+   "tier": 4
+  },
+  {
+   "answer": "Actus reus",
+   "tier": 4
+  },
+  {
+   "answer": "Corpus delicti",
+   "tier": 4
+  },
+  {
+   "answer": "Sub rosa",
+   "tier": 4
+  },
+  {
+   "answer": "Sub poena",
+   "aliases": [
+    "Subpena"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Locum tenens",
+   "aliases": [
+    "Locum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sine die",
+   "tier": 4
+  },
+  {
+   "answer": "A fortiori",
+   "tier": 4
+  },
+  {
+   "answer": "Ab initio",
+   "tier": 4
+  },
+  {
+   "answer": "De novo",
+   "tier": 4
+  },
+  {
+   "answer": "De profundis",
+   "tier": 4
+  },
+  {
+   "answer": "De mortuis nil nisi bonum",
+   "aliases": [
+    "De mortuis nihil nisi bonum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "De gustibus non est disputandum",
+   "aliases": [
+    "De gustibus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ad interim",
+   "tier": 4
+  },
+  {
+   "answer": "Ad valorem",
+   "tier": 4
+  },
+  {
+   "answer": "Ne plus ultra",
+   "aliases": [
+    "Nec plus ultra",
+    "Non plus ultra"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Errare humanum est",
+   "tier": 4
+  },
+  {
+   "answer": "Mirabile dictu",
+   "tier": 4
+  },
+  {
+   "answer": "Modus vivendi",
+   "tier": 4
+  },
+  {
+   "answer": "Pater familias",
+   "tier": 4
+  },
+  {
+   "answer": "Pater noster",
+   "tier": 4
+  },
+  {
+   "answer": "Summum bonum",
+   "tier": 4
+  },
+  {
+   "answer": "Urbi et orbi",
+   "tier": 4
+  },
+  {
+   "answer": "Vade mecum",
+   "tier": 4
+  },
+  {
+   "answer": "Ave atque vale",
+   "tier": 4
+  },
+  {
+   "answer": "Morituri te salutant",
+   "aliases": [
+    "Ave, Caesar, morituri te salutant",
+    "Ave Imperator, morituri te salutant",
+    "Ave Caesar",
+    "Ave Imperator"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ars gratia artis",
+   "tier": 4,
+   "lore": "MGM's motto, curled around its roaring lion."
+  },
+  {
+   "answer": "Ars longa, vita brevis",
+   "aliases": [
+    "Ars longa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Festina lente",
+   "tier": 4
+  },
+  {
+   "answer": "Nemo me impune lacessit",
+   "tier": 4,
+   "lore": "'No one provokes me with impunity': the motto of Scotland's Order of the Thistle."
+  },
+  {
+   "answer": "Si vis pacem, para bellum",
+   "aliases": [
+    "Si vis pacem"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fortes fortuna adiuvat",
+   "aliases": [
+    "Fortes fortuna juvat",
+    "Audentes fortuna iuvat",
+    "Fortuna audaces iuvat"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Panem et circenses",
+   "tier": 4
+  },
+  {
+   "answer": "Carpe noctem",
+   "tier": 4
+  },
+  {
+   "answer": "Semper paratus",
+   "tier": 4
+  },
+  {
+   "answer": "Novus ordo seclorum",
+   "tier": 4
+  },
+  {
+   "answer": "Pax Britannica",
+   "tier": 4
+  },
+  {
+   "answer": "Pax Americana",
+   "tier": 4
+  },
+  {
+   "answer": "Mare nostrum",
+   "tier": 4
+  },
+  {
+   "answer": "Dominus vobiscum",
+   "tier": 4
+  },
+  {
+   "answer": "Pax vobiscum",
+   "tier": 4
+  },
+  {
+   "answer": "Gloria in excelsis Deo",
+   "aliases": [
+    "Gloria in excelsis",
+    "In excelsis Deo",
+    "In excelsis"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dies irae",
+   "tier": 4
+  },
+  {
+   "answer": "Te Deum",
+   "tier": 4
+  },
+  {
+   "answer": "Nunc dimittis",
+   "tier": 4
+  },
+  {
+   "answer": "Stabat Mater",
+   "tier": 4
+  },
+  {
+   "answer": "Ecce homo",
+   "tier": 4
+  },
+  {
+   "answer": "Sic semper tyrannis",
+   "tier": 4,
+   "lore": "Virginia's state motto. John Wilkes Booth is said to have shouted it after shooting Lincoln."
+  },
+  {
+   "answer": "Hic jacet",
+   "aliases": [
+    "Hic iacet",
+    "Hic jacet sepultus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Honoris causa",
+   "tier": 4
+  },
+  {
+   "answer": "In perpetuum",
+   "tier": 4
+  },
+  {
+   "answer": "In re",
+   "tier": 4
+  },
+  {
+   "answer": "In silico",
+   "tier": 4
+  },
+  {
+   "answer": "Infra dig",
+   "aliases": [
+    "Infra dignitatem"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lapsus linguae",
+   "tier": 4
+  },
+  {
+   "answer": "Opus Dei",
+   "tier": 4
+  },
+  {
+   "answer": "O tempora, o mores",
+   "aliases": [
+    "O tempora"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Timeo Danaos et dona ferentes",
+   "aliases": [
+    "Timeo Danaos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vanitas vanitatum",
+   "aliases": [
+    "Vanitas vanitatum omnia vanitas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nihil obstat",
+   "tier": 4
+  },
+  {
+   "answer": "Noli me tangere",
+   "tier": 4
+  },
+  {
+   "answer": "Gaudeamus igitur",
+   "tier": 4
+  },
+  {
+   "answer": "Damnatio memoriae",
+   "tier": 4
+  },
+  {
+   "answer": "Deus vult",
+   "tier": 4
+  },
+  {
+   "answer": "Hic sunt dracones",
+   "aliases": [
+    "Hic svnt dracones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cum grano salis",
+   "tier": 4
+  },
+  {
+   "answer": "Per centum",
+   "aliases": [
+    "Per cent"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ante bellum",
+   "tier": 4
+  },
+  {
+   "answer": "Fac simile",
+   "tier": 4
+  },
+  {
+   "answer": "Coitus interruptus",
+   "tier": 4
+  },
+  {
+   "answer": "Illegitimi non carborundum",
+   "aliases": [
+    "Illegitimis non carborundum",
+    "Nil illegitimi carborundum"
+   ],
+   "tier": 4,
+   "lore": "Mock Latin from the Second World War. Carborundum is not Latin at all but a brand of abrasive."
+  },
+  {
+   "answer": "Magister Artium",
+   "aliases": [
+    "MA",
+    "Artium Magister"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Artium Baccalaureus",
+   "aliases": [
+    "BA",
+    "Baccalaureus Artium"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Medicinae Doctor",
+   "aliases": [
+    "MD"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Expecto patronum",
+   "tier": 4,
+   "lore": "Harry Potter's spell is real Latin: 'I await a protector'."
+  },
+  {
+   "answer": "Camera obscura",
+   "tier": 4
+  },
+  {
+   "answer": "Aurora australis",
+   "tier": 4
+  },
+  {
+   "answer": "Medulla oblongata",
+   "tier": 4
+  },
+  {
+   "answer": "Vas deferens",
+   "tier": 4
+  },
+  {
+   "answer": "Sapere aude",
+   "tier": 4,
+   "lore": "'Dare to know', from Horace. In 1784 Kant made it the motto of the Enlightenment."
+  },
+  {
+   "answer": "Amor fati",
+   "tier": 4
+  },
+  {
+   "answer": "Aqua vitae",
+   "tier": 4
+  },
+  {
+   "answer": "Audere est facere",
+   "tier": 4,
+   "lore": "'To dare is to do': the motto of Tottenham Hotspur."
+  },
+  {
+   "answer": "Genius loci",
+   "tier": 4
+  },
+  {
+   "answer": "Et in Arcadia ego",
+   "tier": 4
+  },
+  {
+   "answer": "Tu quoque",
+   "tier": 4
+  },
+  {
+   "answer": "Pro patria",
+   "tier": 4
+  },
+  {
+   "answer": "Pontifex maximus",
+   "tier": 4
+  },
+  {
+   "answer": "Sanctum sanctorum",
+   "tier": 4
+  },
+  {
+   "answer": "In vacuo",
+   "tier": 4
+  },
+  {
+   "answer": "Juris Doctor",
+   "aliases": [
+    "JD",
+    "Doctor juris"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Adeste fideles",
+   "tier": 4,
+   "lore": "The Latin original of 'O Come, All Ye Faithful', usually credited to John Francis Wade in the 1740s."
+  },
+  {
+   "answer": "Dona nobis pacem",
+   "tier": 4
+  },
+  {
+   "answer": "Pie Jesu",
+   "tier": 4
+  },
+  {
+   "answer": "O Fortuna",
+   "tier": 4,
+   "lore": "Opens Carmina Burana, medieval poems found in a Bavarian abbey and set to music by Carl Orff in the 1930s."
+  },
+  {
+   "answer": "Homo erectus",
+   "tier": 4
+  },
+  {
+   "answer": "Loco citato",
+   "aliases": [
+    "loc cit"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Et sequens",
+   "aliases": [
+    "et seq",
+    "Et sequentes",
+    "Et sequentia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Legum Baccalaureus",
+   "aliases": [
+    "LLB"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Librae, solidi, denarii",
+   "aliases": [
+    "LSD",
+    "£sd"
+   ],
+   "tier": 5,
+   "lore": "Pounds, shillings and pence. It is why the pound sign is an L and old pennies were written d."
+  },
+  {
+   "answer": "Nemine contradicente",
+   "aliases": [
+    "Nem con"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pro re nata",
+   "aliases": [
+    "PRN"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bis in die",
+   "aliases": [
+    "BID"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nil per os",
+   "aliases": [
+    "NPO",
+    "Nihil per os"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ab urbe condita",
+   "aliases": [
+    "AUC",
+    "A.U.C."
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Intra vires",
+   "tier": 5
+  },
+  {
+   "answer": "Ratio decidendi",
+   "tier": 5
+  },
+  {
+   "answer": "Caveat lector",
+   "tier": 5
+  },
+  {
+   "answer": "Lex talionis",
+   "tier": 5
+  },
+  {
+   "answer": "Pacta sunt servanda",
+   "tier": 5
+  },
+  {
+   "answer": "Ignorantia juris non excusat",
+   "aliases": [
+    "Ignorantia legis neminem excusat",
+    "Ignorantia juris",
+    "Ignorantia legis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Audi alteram partem",
+   "tier": 5
+  },
+  {
+   "answer": "Nemo judex in causa sua",
+   "tier": 5
+  },
+  {
+   "answer": "Quantum meruit",
+   "tier": 5
+  },
+  {
+   "answer": "Volenti non fit injuria",
+   "tier": 5
+  },
+  {
+   "answer": "Corpus juris",
+   "tier": 5
+  },
+  {
+   "answer": "Pendente lite",
+   "tier": 5
+  },
+  {
+   "answer": "Sui juris",
+   "tier": 5
+  },
+  {
+   "answer": "Uberrimae fidei",
+   "tier": 5
+  },
+  {
+   "answer": "Doli incapax",
+   "tier": 5
+  },
+  {
+   "answer": "Malum in se",
+   "tier": 5
+  },
+  {
+   "answer": "Malum prohibitum",
+   "tier": 5
+  },
+  {
+   "answer": "Nulla poena sine lege",
+   "tier": 5
+  },
+  {
+   "answer": "Jus ad bellum",
+   "tier": 5
+  },
+  {
+   "answer": "Jus in bello",
+   "tier": 5
+  },
+  {
+   "answer": "Ad referendum",
+   "tier": 5
+  },
+  {
+   "answer": "Ad rem",
+   "tier": 5
+  },
+  {
+   "answer": "Ad finem",
+   "tier": 5
+  },
+  {
+   "answer": "Ad personam",
+   "tier": 5
+  },
+  {
+   "answer": "Per mensem",
+   "tier": 5
+  },
+  {
+   "answer": "Post bellum",
+   "tier": 5
+  },
+  {
+   "answer": "Ante mortem",
+   "tier": 5
+  },
+  {
+   "answer": "Ab ovo",
+   "tier": 5
+  },
+  {
+   "answer": "Ex situ",
+   "tier": 5
+  },
+  {
+   "answer": "Ex hypothesi",
+   "tier": 5
+  },
+  {
+   "answer": "Inter vivos",
+   "tier": 5
+  },
+  {
+   "answer": "In propria persona",
+   "tier": 5
+  },
+  {
+   "answer": "In hoc signo vinces",
+   "tier": 5
+  },
+  {
+   "answer": "In nomine Patris",
+   "tier": 5
+  },
+  {
+   "answer": "In omnia paratus",
+   "tier": 5
+  },
+  {
+   "answer": "Multum in parvo",
+   "tier": 5
+  },
+  {
+   "answer": "Nolens volens",
+   "tier": 5
+  },
+  {
+   "answer": "Nosce te ipsum",
+   "aliases": [
+    "Temet nosce"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ipse dixit",
+   "tier": 5
+  },
+  {
+   "answer": "Ite, missa est",
+   "tier": 5
+  },
+  {
+   "answer": "Lacrimae rerum",
+   "tier": 5
+  },
+  {
+   "answer": "Homo homini lupus",
+   "tier": 5
+  },
+  {
+   "answer": "Esse quam videri",
+   "tier": 5
+  },
+  {
+   "answer": "Odi et amo",
+   "tier": 5
+  },
+  {
+   "answer": "Vae victis",
+   "tier": 5
+  },
+  {
+   "answer": "Requiem aeternam",
+   "tier": 5
+  },
+  {
+   "answer": "Ora pro nobis",
+   "tier": 5
+  },
+  {
+   "answer": "Salve Regina",
+   "tier": 5
+  },
+  {
+   "answer": "Sursum corda",
+   "tier": 5
+  },
+  {
+   "answer": "Tempora mutantur",
+   "tier": 5
+  },
+  {
+   "answer": "Ubi sunt",
+   "tier": 5
+  },
+  {
+   "answer": "Vox clamantis in deserto",
+   "tier": 5
+  },
+  {
+   "answer": "Pecunia non olet",
+   "tier": 5
+  },
+  {
+   "answer": "Fiat justitia ruat caelum",
+   "aliases": [
+    "Fiat justitia",
+    "Fiat iustitia ruat caelum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Labor omnia vincit",
+   "aliases": [
+    "Labor omnia vincit improbus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lux et veritas",
+   "tier": 5
+  },
+  {
+   "answer": "Annuit coeptis",
+   "tier": 5
+  },
+  {
+   "answer": "Status quo ante bellum",
+   "aliases": [
+    "Status quo ante"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Materia medica",
+   "tier": 5
+  },
+  {
+   "answer": "Quidquid Latine dictum sit, altum videtur",
+   "aliases": [
+    "Quidquid Latine dictum sit, altum viditur"
+   ],
+   "tier": 5,
+   "lore": "'Whatever is said in Latin sounds profound.' A modern joke, in perfectly good Latin."
+  },
+  {
+   "answer": "Homo habilis",
+   "tier": 5
+  },
+  {
+   "answer": "Dura mater",
+   "tier": 5
+  },
+  {
+   "answer": "Vena cava",
+   "tier": 5
+  },
+  {
+   "answer": "Angina pectoris",
+   "tier": 5
+  },
+  {
+   "answer": "Aqua regia",
+   "tier": 5
+  },
+  {
+   "answer": "Aqua fortis",
+   "tier": 5
+  },
+  {
+   "answer": "Horror vacui",
+   "tier": 5
+  },
+  {
+   "answer": "Petitio principii",
+   "tier": 5
+  },
+  {
+   "answer": "Ignoratio elenchi",
+   "tier": 5
+  },
+  {
+   "answer": "Argumentum ad populum",
+   "aliases": [
+    "Ad populum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pari passu",
+   "tier": 5
+  },
+  {
+   "answer": "Locus standi",
+   "tier": 5
+  },
+  {
+   "answer": "Locus classicus",
+   "tier": 5
+  },
+  {
+   "answer": "Sua sponte",
+   "tier": 5
+  },
+  {
+   "answer": "Pro hac vice",
+   "tier": 5
+  },
+  {
+   "answer": "Nolle prosequi",
+   "tier": 5
+  },
+  {
+   "answer": "Lis pendens",
+   "tier": 5
+  },
+  {
+   "answer": "Res gestae",
+   "tier": 5
+  },
+  {
+   "answer": "Res nullius",
+   "tier": 5
+  },
+  {
+   "answer": "Res publica",
+   "tier": 5
+  },
+  {
+   "answer": "Legum Doctor",
+   "aliases": [
+    "LLD"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baccalaureus Scientiae",
+   "aliases": [
+    "BSc",
+    "Scientiae Baccalaureus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Magister Scientiae",
+   "aliases": [
+    "MSc"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carmina Burana",
+   "tier": 5
+  },
+  {
+   "answer": "In dulci jubilo",
+   "tier": 5
+  },
+  {
+   "answer": "Ave verum corpus",
+   "tier": 5
+  },
+  {
+   "answer": "Lux aeterna",
+   "tier": 5
+  },
+  {
+   "answer": "Panis angelicus",
+   "tier": 5
+  },
+  {
+   "answer": "Gloria Patri",
+   "tier": 5
+  },
+  {
+   "answer": "Soli Deo gloria",
+   "aliases": [
+    "SDG"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Miserere mei, Deus",
+   "aliases": [
+    "Miserere",
+    "Miserere mei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hoc est corpus meum",
+   "aliases": [
+    "Hoc est corpus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sede vacante",
+   "tier": 5
+  },
+  {
+   "answer": "Motu proprio",
+   "tier": 5
+  },
+  {
+   "answer": "Vade retro Satana",
+   "aliases": [
+    "Vade retro",
+    "Vade retro Satanas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Si monumentum requiris, circumspice",
+   "aliases": [
+    "Si monumentum requiris",
+    "Lector, si monumentum requiris, circumspice"
+   ],
+   "tier": 5,
+   "lore": "Christopher Wren's epitaph in St Paul's Cathedral: 'If you seek his monument, look around you.'"
+  },
+  {
+   "answer": "Timor mortis conturbat me",
+   "tier": 5
+  },
+  {
+   "answer": "Ars moriendi",
+   "tier": 5
+  },
+  {
+   "answer": "Malleus Maleficarum",
+   "tier": 5
+  },
+  {
+   "answer": "Dis Manibus",
+   "aliases": [
+    "Dis Manibus sacrum",
+    "DMS"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sit tibi terra levis",
+   "aliases": [
+    "STTL"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hic et nunc",
+   "tier": 5
+  },
+  {
+   "answer": "Felix culpa",
+   "tier": 5
+  },
+  {
+   "answer": "Fluctuat nec mergitur",
+   "tier": 5,
+   "lore": "'Tossed by the waves, but never sunk': the motto of Paris, whose coat of arms is a ship."
+  },
+  {
+   "answer": "A mari usque ad mare",
+   "tier": 5,
+   "lore": "'From sea to sea', from Psalm 72: the motto of Canada."
+  },
+  {
+   "answer": "Dominus illuminatio mea",
+   "tier": 5,
+   "lore": "'The Lord is my light': the opening of Psalm 27, and the motto of the University of Oxford."
+  },
+  {
+   "answer": "Nisi Dominus frustra",
+   "tier": 5
+  },
+  {
+   "answer": "Post tenebras lux",
+   "tier": 5
+  },
+  {
+   "answer": "Nulli secundus",
+   "tier": 5
+  },
+  {
+   "answer": "Utrinque paratus",
+   "tier": 5
+  },
+  {
+   "answer": "Per mare per terram",
+   "tier": 5
+  },
+  {
+   "answer": "Dum spiro spero",
+   "tier": 5
+  },
+  {
+   "answer": "Ora et labora",
+   "tier": 5
+  },
+  {
+   "answer": "Nunc est bibendum",
+   "tier": 5,
+   "lore": "'Now is the time to drink', from Horace. A Michelin poster of 1898 used it, and the Michelin Man is still called Bibendum."
+  },
+  {
+   "answer": "Credo quia absurdum",
+   "aliases": [
+    "Credo quia absurdum est"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lex parsimoniae",
+   "tier": 5
+  },
+  {
+   "answer": "Dura lex, sed lex",
+   "tier": 5
+  },
+  {
+   "answer": "In dubio pro reo",
+   "tier": 5
+  },
+  {
+   "answer": "Onus probandi",
+   "tier": 5
+  },
+  {
+   "answer": "Modus ponens",
+   "tier": 5
+  },
+  {
+   "answer": "Modus tollens",
+   "tier": 5
+  },
+  {
+   "answer": "Sensu stricto",
+   "aliases": [
+    "Stricto sensu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sensu lato",
+   "aliases": [
+    "Lato sensu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sub specie aeternitatis",
+   "tier": 5
+  },
+  {
+   "answer": "Sub voce",
+   "aliases": [
+    "Sub verbo",
+    "s.v."
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tertium quid",
+   "tier": 5
+  },
+  {
+   "answer": "Verbum sapienti sat est",
+   "aliases": [
+    "Verbum sap",
+    "Verb sap",
+    "Verbum sapienti"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Via media",
+   "tier": 5
+  },
+  {
+   "answer": "Virgo intacta",
+   "tier": 5
+  },
+  {
+   "answer": "Persona grata",
+   "tier": 5
+  },
+  {
+   "answer": "Quod erat faciendum",
+   "aliases": [
+    "QEF"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Exeunt omnes",
+   "tier": 5
+  },
+  {
+   "answer": "Libra pondo",
+   "aliases": [
+    "Libra",
+    "lb",
+    "lbs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Statim",
+   "aliases": [
+    "Stat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ter in die",
+   "aliases": [
+    "TID",
+    "Ter die sumendum",
+    "TDS"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quater in die",
+   "aliases": [
+    "QID",
+    "Quater die sumendum",
+    "QDS"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ad usum Delphini",
+   "aliases": [
+    "In usum Delphini"
+   ],
+   "tier": 6,
+   "lore": "'For the use of the Dauphin': classics printed for Louis XIV's son with the rude bits cut. Now any censored text."
+  },
+  {
+   "answer": "Ignis fatuus",
+   "tier": 6,
+   "lore": "'Foolish fire': the will-o'-the-wisp, a light over marshes said to lure night travellers astray."
+  },
+  {
+   "answer": "Pons asinorum",
+   "tier": 6,
+   "lore": "'Bridge of asses': Euclid's proof that the base angles of an isosceles triangle are equal, where weak pupils stumbled."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Latin",
+   "aliases": [
+    "Latin phrase",
+    "Phrase",
+    "Motto"
+   ],
+   "reason": "Which one? Name a phrase."
+  },
+  {
+   "answer": "Ergo",
+   "aliases": [
+    "Sic",
+    "Verbatim",
+    "Gratis",
+    "Passim",
+    "Stet",
+    "Via",
+    "Quasi",
+    "Alibi",
+    "Agenda",
+    "Bonus",
+    "Ego",
+    "Veto",
+    "Status",
+    "Quorum",
+    "Data",
+    "Alumni",
+    "Memorandum",
+    "Memo",
+    "Referendum",
+    "Excelsior",
+    "Veritas",
+    "Caveat",
+    "Placebo",
+    "Alias",
+    "Minutiae",
+    "Addendum",
+    "Exit",
+    "Tandem",
+    "Ditto"
+   ],
+   "reason": "A single word, not a phrase."
+  },
+  {
+   "answer": "Déjà vu",
+   "aliases": [
+    "De rigueur",
+    "Raison d'être",
+    "Je ne sais quoi",
+    "Coup de grâce",
+    "Fait accompli",
+    "Esprit de corps",
+    "Carte blanche",
+    "Joie de vivre",
+    "Bon appétit",
+    "Faux pas",
+    "Laissez-faire",
+    "Noblesse oblige",
+    "Savoir faire",
+    "Hors d'oeuvre",
+    "Tête-à-tête",
+    "Vis-à-vis",
+    "C'est la vie",
+    "Honi soit qui mal y pense",
+    "Pièce de résistance",
+    "Crème de la crème",
+    "Nom de plume",
+    "Femme fatale",
+    "Bête noire",
+    "Cul-de-sac",
+    "Par excellence",
+    "En masse",
+    "En route",
+    "RSVP",
+    "Bon voyage",
+    "Avant-garde",
+    "Coup d'état",
+    "Double entendre",
+    "Fin de siècle",
+    "Ménage à trois",
+    "Enfant terrible",
+    "Dieu et mon droit",
+    "Plus ça change",
+    "Voilà",
+    "Danse macabre",
+    "Je pense, donc je suis",
+    "Bon vivant",
+    "Touché"
+   ],
+   "reason": "French, not Latin."
+  },
+  {
+   "answer": "Sotto voce",
+   "aliases": [
+    "Al fresco",
+    "Al dente",
+    "A cappella",
+    "Prima donna",
+    "La dolce vita",
+    "Dolce vita",
+    "Dolce far niente",
+    "Bravo",
+    "Ciao",
+    "Terracotta"
+   ],
+   "reason": "Italian, not Latin."
+  },
+  {
+   "answer": "Kyrie eleison",
+   "aliases": [
+    "Hoi polloi",
+    "Eureka",
+    "Hubris",
+    "Kudos",
+    "Gnothi seauton",
+    "Panta rhei",
+    "Alpha and omega"
+   ],
+   "reason": "Greek, not Latin."
+  },
+  {
+   "answer": "Hasta la vista",
+   "aliases": [
+    "Hasta la vista, baby",
+    "Mi casa es su casa",
+    "Que sera sera"
+   ],
+   "reason": "Spanish, or near enough. Not Latin."
+  },
+  {
+   "answer": "Zeitgeist",
+   "aliases": [
+    "Schadenfreude",
+    "Wanderlust",
+    "Gesundheit",
+    "Angst",
+    "Ich dien"
+   ],
+   "reason": "German, not Latin."
+  },
+  {
+   "answer": "Hakuna matata",
+   "reason": "Swahili, not Latin."
+  },
+  {
+   "answer": "Rest in peace",
+   "aliases": [
+    "The die is cast",
+    "I came, I saw, I conquered",
+    "Seize the day",
+    "I think, therefore I am",
+    "Time flies",
+    "Here be dragons",
+    "Know thyself",
+    "Fortune favours the bold",
+    "Who watches the watchmen",
+    "Buyer beware",
+    "Let the buyer beware",
+    "Nil by mouth",
+    "Bread and circuses",
+    "Peace be with you",
+    "Behold the man",
+    "In wine there is truth",
+    "Out of many, one",
+    "Remember you must die",
+    "God wills it",
+    "Dare to know"
+   ],
+   "reason": "That's the English. Try the Latin."
+  },
+  {
+   "answer": "BC",
+   "aliases": [
+    "Before Christ"
+   ],
+   "reason": "English: Before Christ. Its partner AD is the Latin one."
+  },
+  {
+   "answer": "CE",
+   "aliases": [
+    "BCE",
+    "Common Era",
+    "Before Common Era"
+   ],
+   "reason": "English: Common Era, not Latin."
+  },
+  {
+   "answer": "Pig Latin",
+   "reason": "A word game, not Latin."
+  },
+  {
+   "answer": "Expelliarmus",
+   "aliases": [
+    "Wingardium leviosa",
+    "Avada kedavra",
+    "Lumos",
+    "Accio",
+    "Crucio",
+    "Alohomora",
+    "Obliviate",
+    "Petrificus totalus",
+    "Riddikulus",
+    "Imperio"
+   ],
+   "reason": "A spell from Harry Potter, and not a real Latin phrase."
+  },
+  {
+   "answer": "Tyrannosaurus rex",
+   "aliases": [
+    "T rex"
+   ],
+   "reason": "Mostly Greek: only rex is Latin."
+  },
+  {
+   "answer": "Abracadabra",
+   "reason": "A magic word of unknown origin, not a Latin phrase."
+  },
+  {
+   "answer": "Hallelujah",
+   "aliases": [
+    "Alleluia",
+    "Hosanna",
+    "Amen"
+   ],
+   "reason": "Hebrew, though the Latin Mass sings it too."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"latin-phrases\" on 28 November 2026."
+}

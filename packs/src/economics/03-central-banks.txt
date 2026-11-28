@@ -1,0 +1,194 @@
+id: economics-central-banks
+text: Name a central bank.
+flavor: A room of quiet people decides what money is worth. They never say who they are afraid of.
+rules: Any country's or currency union's central bank or monetary authority, by its name, its initials or simply the country.
+section: Institutions
+---
+1 Reserve Bank of Australia | RBA | Reserve Bank | Australia | Australian Reserve Bank | The Reserve Bank
+1 Federal Reserve | The Fed | Fed | Federal Reserve System | US Federal Reserve | United States | USA | US | America | Federal Reserve Bank | US Fed
+1 Bank of England | BoE | England | UK | United Kingdom | Britain | Old Lady of Threadneedle Street
+1 European Central Bank | ECB | Europe | Eurozone | EU | European Union
+2 Bank of Japan | BoJ | Japan | Nichigin | Nippon Ginko
+2 Reserve Bank of New Zealand | RBNZ | New Zealand | NZ | Te Pūtea Matua
+2 People's Bank of China | PBoC | PBC | China | Peoples Bank of China
+2 Bank of Canada | BoC | Canada | Banque du Canada
+2 Swiss National Bank | SNB | Switzerland | Schweizerische Nationalbank
+2 Reserve Bank of India | RBI | India
+2 Bundesbank | Deutsche Bundesbank | Germany | German Bundesbank | Reichsbank
+3 Banque de France | Bank of France | France
+3 Bank of Italy | Banca d'Italia | Italy
+3 Bank of Spain | Banco de España | Spain | Banco de Espana
+3 Bank of Korea | BoK | South Korea | Korea
+3 Monetary Authority of Singapore | MAS | Singapore
+3 Hong Kong Monetary Authority | HKMA | Hong Kong
+3 Bank of Russia | Central Bank of Russia | Russia | Central Bank of the Russian Federation | CBR
+3 Central Bank of Brazil | Banco Central do Brasil | Brazil | BCB
+3 Bank of Mexico | Banxico | Banco de México | Mexico
+3 South African Reserve Bank | SARB | South Africa
+3 Sveriges Riksbank | Riksbank | Sweden | Bank of Sweden | Swedish Riksbank
+3 Norges Bank | Norway | Bank of Norway
+3 Danmarks Nationalbank | Denmark | National Bank of Denmark
+3 Bank Indonesia | Indonesia | BI
+3 Bank Negara Malaysia | Bank Negara | Malaysia | BNM
+3 Bank of Thailand | Thailand | BoT
+3 Bangko Sentral ng Pilipinas | BSP | Philippines | Central Bank of the Philippines | Bangko Sentral
+3 State Bank of Vietnam | Vietnam | SBV
+3 Central Bank of the Republic of Turkey | CBRT | Turkey | Türkiye | TCMB | Central Bank of Turkey
+3 Saudi Central Bank | SAMA | Saudi Arabian Monetary Authority | Saudi Arabia | Saudi Arabian Monetary Agency
+3 Bank of Israel | Israel
+3 Central Bank of Ireland | Ireland
+3 De Nederlandsche Bank | DNB | Netherlands | Dutch Central Bank | Nederlandsche Bank
+3 National Bank of Belgium | Belgium | Banque Nationale de Belgique
+3 Oesterreichische Nationalbank | Austrian National Bank | Austria | OeNB
+3 Bank of Greece | Greece
+3 Banco de Portugal | Bank of Portugal | Portugal
+3 Bank of Finland | Suomen Pankki | Finland
+3 Central Bank of Argentina | Banco Central de la República Argentina | BCRA | Argentina
+3 Reserve Bank of Zimbabwe | RBZ | Zimbabwe
+3 Central Bank of Nigeria | CBN | Nigeria
+3 Central Bank of Egypt | CBE | Egypt
+3 State Bank of Pakistan | SBP | Pakistan
+3 Bangladesh Bank | Bangladesh
+3 Central Bank of Sri Lanka | CBSL | Sri Lanka
+3 Bank of Papua New Guinea | BPNG | Papua New Guinea | PNG
+3 Reserve Bank of Fiji | RBF | Fiji
+3 Central Bank of the Republic of China | Central Bank of Taiwan | Taiwan | CBC
+3 Central Bank of Iceland | Seðlabanki Íslands | Iceland | Sedlabanki
+3 National Bank of Poland | Narodowy Bank Polski | NBP | Poland
+3 Czech National Bank | CNB | Czech Republic | Czechia | Česká národní banka
+3 Hungarian National Bank | Magyar Nemzeti Bank | MNB | Hungary
+3 National Bank of Ukraine | NBU | Ukraine
+3 Central Bank of Chile | Banco Central de Chile | Chile
+3 Central Bank of the UAE | CBUAE | United Arab Emirates | UAE | Central Bank of the United Arab Emirates
+3 Central Bank of Iran | Bank Markazi | Iran | CBI
+3 Central Bank of Venezuela | Banco Central de Venezuela | Venezuela | BCV
+4 National Bank of Romania | Romania | BNR
+4 Bulgarian National Bank | BNB | Bulgaria
+4 Croatian National Bank | HNB | Croatia
+4 National Bank of Serbia | NBS | Serbia
+4 Bank of Slovenia | Banka Slovenije | Slovenia
+4 National Bank of Slovakia | Národná banka Slovenska | Slovakia
+4 Bank of Estonia | Eesti Pank | Estonia
+4 Bank of Latvia | Latvijas Banka | Latvia
+4 Bank of Lithuania | Lietuvos bankas | Lithuania
+4 Central Bank of Luxembourg | Banque centrale du Luxembourg | Luxembourg | BCL
+4 Central Bank of Malta | Malta
+4 Central Bank of Cyprus | Cyprus
+4 Bank of Albania | Albania
+4 National Bank of North Macedonia | North Macedonia | Macedonia
+4 Central Bank of Bosnia and Herzegovina | Bosnia | Bosnia and Herzegovina
+4 Central Bank of Montenegro | Montenegro
+4 Central Bank of Kosovo | Kosovo
+4 National Bank of Moldova | Moldova
+4 National Bank of the Republic of Belarus | Belarus | National Bank of Belarus
+4 National Bank of Georgia | Georgia
+4 Central Bank of Armenia | Armenia
+4 Central Bank of Azerbaijan | Azerbaijan
+4 National Bank of Kazakhstan | Kazakhstan
+4 Central Bank of Uzbekistan | Uzbekistan
+4 National Bank of the Kyrgyz Republic | Kyrgyzstan
+4 National Bank of Tajikistan | Tajikistan
+4 Central Bank of Turkmenistan | Turkmenistan
+4 Bank of Mongolia | Mongolbank | Mongolia
+4 Da Afghanistan Bank | Afghanistan | DAB
+4 Nepal Rastra Bank | Nepal | NRB
+4 Royal Monetary Authority of Bhutan | Bhutan | RMA
+4 Maldives Monetary Authority | Maldives | MMA
+4 Central Bank of Myanmar | Myanmar | Burma
+4 National Bank of Cambodia | Cambodia | NBC
+4 Bank of the Lao PDR | Laos | Bank of Laos
+4 Brunei Darussalam Central Bank | Brunei | Autoriti Monetari Brunei Darussalam | AMBD
+4 Banco Central de Timor-Leste | Timor-Leste | East Timor | Central Bank of Timor-Leste
+4 Monetary Authority of Macao | Macau | Macao | AMCM
+4 Central Bank of the DPRK | North Korea | Central Bank of the Democratic People's Republic of Korea
+4 Central Bank of Iraq | Iraq | CBI Iraq
+4 Central Bank of Jordan | Jordan
+4 Banque du Liban | Lebanon | Central Bank of Lebanon | BDL
+4 Central Bank of Syria | Syria
+4 Central Bank of Kuwait | Kuwait
+4 Qatar Central Bank | Qatar | QCB
+4 Central Bank of Bahrain | Bahrain | CBB
+4 Central Bank of Oman | Oman
+4 Central Bank of Yemen | Yemen
+4 Palestine Monetary Authority | Palestine | PMA
+4 Bank Al-Maghrib | Morocco | Bank al Maghrib
+4 Bank of Algeria | Algeria | Banque d'Algérie
+4 Central Bank of Tunisia | Tunisia
+4 Central Bank of Libya | Libya
+4 Central Bank of Sudan | Sudan
+4 Bank of South Sudan | South Sudan
+4 National Bank of Ethiopia | Ethiopia | NBE
+4 Central Bank of Kenya | Kenya | CBK
+4 Bank of Tanzania | Tanzania | BoT Tanzania
+4 Bank of Uganda | Uganda | BoU
+4 National Bank of Rwanda | Rwanda | BNR Rwanda
+4 Bank of the Republic of Burundi | Burundi
+4 Central Bank of Somalia | Somalia
+4 Bank of Ghana | Ghana | BoG
+4 Central Bank of West African States | BCEAO | Banque Centrale des États de l'Afrique de l'Ouest | West African CFA
+4 Bank of Central African States | BEAC | Banque des États de l'Afrique Centrale | Central African CFA
+4 Central Bank of the Congo | Democratic Republic of the Congo | DRC | Banque Centrale du Congo
+4 National Bank of Angola | Angola | Banco Nacional de Angola | BNA
+4 Bank of Zambia | Zambia | BoZ
+4 Reserve Bank of Malawi | Malawi | RBM
+4 Bank of Mozambique | Mozambique | Banco de Moçambique
+4 Bank of Botswana | Botswana
+4 Bank of Namibia | Namibia
+4 Central Bank of Lesotho | Lesotho
+4 Central Bank of Eswatini | Eswatini | Swaziland
+4 Bank of Mauritius | Mauritius
+4 Central Bank of Madagascar | Madagascar | Banky Foiben'i Madagasikara
+4 Central Bank of Seychelles | Seychelles
+4 Bank of Sierra Leone | Sierra Leone
+4 Central Bank of Liberia | Liberia
+4 Central Bank of The Gambia | Gambia
+4 Central Bank of the Republic of Guinea | Guinea
+4 Bank of Cape Verde | Cape Verde | Banco de Cabo Verde
+4 Central Bank of Mauritania | Mauritania
+4 Bank of Eritrea | Eritrea
+4 Central Bank of Djibouti | Djibouti
+4 Central Bank of the Comoros | Comoros
+4 Bank of the Republic | Banco de la República | Colombia | Central Bank of Colombia
+4 Central Reserve Bank of Peru | Peru | Banco Central de Reserva del Perú | BCRP
+4 Central Bank of Ecuador | Ecuador
+4 Central Bank of Bolivia | Bolivia
+4 Central Bank of Paraguay | Paraguay
+4 Central Bank of Uruguay | Uruguay
+4 Bank of Guyana | Guyana
+4 Central Bank of Suriname | Suriname
+4 Central Bank of Costa Rica | Costa Rica
+4 Bank of Guatemala | Guatemala | Banco de Guatemala
+4 Central Bank of Honduras | Honduras
+4 Central Bank of Nicaragua | Nicaragua
+4 Central Reserve Bank of El Salvador | El Salvador
+4 National Bank of Panama | Panama | Banco Nacional de Panamá
+4 Central Bank of Belize | Belize
+4 Central Bank of Cuba | Cuba
+4 Bank of Jamaica | Jamaica | BoJ Jamaica
+4 Bank of the Republic of Haiti | Haiti
+4 Central Bank of the Dominican Republic | Dominican Republic
+4 Central Bank of Trinidad and Tobago | Trinidad and Tobago | Trinidad
+4 Central Bank of Barbados | Barbados
+4 Central Bank of The Bahamas | Bahamas
+4 Eastern Caribbean Central Bank | ECCB | Eastern Caribbean
+4 Bermuda Monetary Authority | Bermuda | BMA
+4 Cayman Islands Monetary Authority | Cayman Islands | CIMA
+4 Central Bank of Aruba | Aruba
+4 Central Bank of Curaçao and Sint Maarten | Curaçao | Curacao
+4 Central Bank of Solomon Islands | Solomon Islands | CBSI
+4 Reserve Bank of Vanuatu | Vanuatu | RBV
+4 Central Bank of Samoa | Samoa
+4 National Reserve Bank of Tonga | Tonga
+4 Bank for International Settlements | BIS | Central bank of central banks
+5 Bank of Amsterdam | Amsterdamsche Wisselbank | Wisselbank
+5 First Bank of the United States | Second Bank of the United States | Bank of the United States
+6 Commonwealth Bank | Commonwealth Bank of Australia | CommBank :: A trick answer that is true: it was Australia's central bank until 1960, when the Reserve Bank was split off from it.
+5 Bank deutscher Länder | Bank Deutscher Lander
+5 Gosbank | State Bank of the USSR | Soviet Union
+5 Austro-Hungarian Bank | Austria-Hungary
+5 Imperial Ottoman Bank | Ottoman Bank
+6 Stockholms Banco | Palmstruch Bank | Bank of Palmstruch :: Founded in 1657, it issued Europe's first banknotes in 1661, printed too many, and failed. From its wreck Sweden made the Riksbank, the oldest central bank.
+x CBA | Westpac | ANZ | NAB | Macquarie | HSBC | JPMorgan | Goldman Sachs | Citibank | Barclays | Deutsche Bank | UBS | ING | Bendigo Bank | Suncorp :: A commercial bank. Name the bank that sets a country's interest rates and issues its money.
+x World Bank | IMF | International Monetary Fund | Asian Development Bank | ADB | AIIB | European Investment Bank :: An international lender, not a central bank.
+x Treasury | The Treasury | US Treasury | APRA | ASIC | ACCC | The Mint | Royal Australian Mint :: Close to the money, but not the central bank.
+x Central bank | Reserve bank | National bank | Bank :: Which one? Name it, or name its country.

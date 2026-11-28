@@ -1,0 +1,915 @@
+{
+ "id": "languages-figures-of-speech",
+ "text": "Name a figure of speech.",
+ "category": "language",
+ "flavor": "Speak plainly and the deep ignores you. Speak in figures, and something may answer.",
+ "rules": "Any named rhetorical device or trope, like a metaphor or simile. Name the device, not an example of it: 'raining cats and dogs' won't do.",
+ "answers": [
+  {
+   "answer": "Metaphor",
+   "tier": 1,
+   "lore": "Aristotle thought a gift for metaphor was the one thing a poet could never learn from anyone else."
+  },
+  {
+   "answer": "Simile",
+   "tier": 1
+  },
+  {
+   "answer": "Alliteration",
+   "aliases": [
+    "Plosive alliteration",
+    "Plosives",
+    "Fricative alliteration"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Personification",
+   "tier": 1
+  },
+  {
+   "answer": "Hyperbole",
+   "aliases": [
+    "Exaggeration",
+    "Overstatement"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Onomatopoeia",
+   "tier": 1
+  },
+  {
+   "answer": "Oxymoron",
+   "tier": 1,
+   "lore": "The word is one itself: Greek for 'sharp-dull'."
+  },
+  {
+   "answer": "Irony",
+   "aliases": [
+    "Ironic",
+    "Verbal irony",
+    "Dramatic irony",
+    "Situational irony",
+    "Socratic irony",
+    "Cosmic irony"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Pun",
+   "aliases": [
+    "Paronomasia",
+    "Play on words",
+    "Wordplay"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Idiom",
+   "aliases": [
+    "Idiomatic expression"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Euphemism",
+   "aliases": [
+    "Euphmism",
+    "Eupheism",
+    "Euphumism"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Rhetorical question",
+   "aliases": [
+    "Erotema",
+    "Erotesis"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Assonance",
+   "tier": 2
+  },
+  {
+   "answer": "Understatement",
+   "tier": 2
+  },
+  {
+   "answer": "Metonymy",
+   "aliases": [
+    "Metonym"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Synecdoche",
+   "tier": 2
+  },
+  {
+   "answer": "Paradox",
+   "tier": 2
+  },
+  {
+   "answer": "Sarcasm",
+   "aliases": [
+    "Sarcastic"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Analogy",
+   "tier": 2
+  },
+  {
+   "answer": "Allusion",
+   "tier": 2
+  },
+  {
+   "answer": "Repetition",
+   "aliases": [
+    "Repeating"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cliché",
+   "tier": 2
+  },
+  {
+   "answer": "Antithesis",
+   "tier": 2
+  },
+  {
+   "answer": "Consonance",
+   "tier": 2
+  },
+  {
+   "answer": "Rhyme",
+   "aliases": [
+    "Internal rhyme",
+    "Half rhyme",
+    "Rhyming",
+    "Slant rhyme",
+    "Near rhyme",
+    "Eye rhyme",
+    "Pararhyme",
+    "Full rhyme",
+    "End rhyme"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Imagery",
+   "tier": 2
+  },
+  {
+   "answer": "Symbolism",
+   "aliases": [
+    "Symbol"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Juxtaposition",
+   "tier": 2
+  },
+  {
+   "answer": "Allegory",
+   "tier": 2
+  },
+  {
+   "answer": "Pathetic fallacy",
+   "aliases": [
+    "Pathetic falacy"
+   ],
+   "tier": 2,
+   "lore": "Named by John Ruskin in 1856, scornful of poets who make nature share human feelings."
+  },
+  {
+   "answer": "Rule of three",
+   "aliases": [
+    "Triad",
+    "Power of three",
+    "List of three",
+    "Triplets",
+    "Group of three"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sibilance",
+   "tier": 2
+  },
+  {
+   "answer": "Spoonerism",
+   "tier": 2,
+   "lore": "Named after William Spooner of Oxford, though most of the slips told of him were probably invented."
+  },
+  {
+   "answer": "Malapropism",
+   "aliases": [
+    "Dogberryism"
+   ],
+   "tier": 2,
+   "lore": "Named after Mrs Malaprop in Sheridan's 1775 play The Rivals, who praises 'the very pineapple of politeness'."
+  },
+  {
+   "answer": "Double entendre",
+   "aliases": [
+    "Double meaning",
+    "Double entente"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Anthropomorphism",
+   "aliases": [
+    "Anthropomorphisation",
+    "Anthropomorphization"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Litotes",
+   "tier": 3
+  },
+  {
+   "answer": "Anaphora",
+   "tier": 3,
+   "lore": "Churchill's 'We shall fight on the beaches, we shall fight on the landing grounds' leans on it."
+  },
+  {
+   "answer": "Chiasmus",
+   "tier": 3,
+   "lore": "'Ask not what your country can do for you; ask what you can do for your country.'"
+  },
+  {
+   "answer": "Zeugma",
+   "tier": 3,
+   "lore": "Flanders and Swann sang of a woman who 'made no reply, up her mind, and a dash for the door'."
+  },
+  {
+   "answer": "Apostrophe",
+   "tier": 3
+  },
+  {
+   "answer": "Tautology",
+   "tier": 3
+  },
+  {
+   "answer": "Innuendo",
+   "tier": 3
+  },
+  {
+   "answer": "Parallelism",
+   "aliases": [
+    "Parallel structure",
+    "Parallel construction"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mixed metaphor",
+   "tier": 3
+  },
+  {
+   "answer": "Extended metaphor",
+   "aliases": [
+    "Sustained metaphor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Transferred epithet",
+   "aliases": [
+    "Hypallage"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kenning",
+   "tier": 3,
+   "lore": "Old English and Norse poets' riddling names: whale-road for the sea, bone-house for the body."
+  },
+  {
+   "answer": "Epithet",
+   "aliases": [
+    "Homeric epithet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bathos",
+   "aliases": [
+    "Bthos",
+    "Athos"
+   ],
+   "tier": 3,
+   "lore": "Named by Alexander Pope in 1727, mocking poets who sink from the sublime to the ridiculous."
+  },
+  {
+   "answer": "Anticlimax",
+   "tier": 3
+  },
+  {
+   "answer": "Climax",
+   "aliases": [
+    "Gradatio",
+    "Incrementum"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Synaesthesia",
+   "aliases": [
+    "Synesthesia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Asyndeton",
+   "tier": 3
+  },
+  {
+   "answer": "Polysyndeton",
+   "tier": 3
+  },
+  {
+   "answer": "Epistrophe",
+   "aliases": [
+    "Epiphora",
+    "Antistrophe"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ellipsis",
+   "tier": 3
+  },
+  {
+   "answer": "Dysphemism",
+   "aliases": [
+    "Cacophemism"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cacophony",
+   "tier": 3
+  },
+  {
+   "answer": "Euphony",
+   "tier": 3
+  },
+  {
+   "answer": "Conceit",
+   "aliases": [
+    "Metaphysical conceit"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Circumlocution",
+   "aliases": [
+    "Periphrasis"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Epic simile",
+   "aliases": [
+    "Homeric simile",
+    "Extended simile"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Antonomasia",
+   "tier": 4
+  },
+  {
+   "answer": "Meiosis",
+   "tier": 4
+  },
+  {
+   "answer": "Prosopopoeia",
+   "tier": 4
+  },
+  {
+   "answer": "Catachresis",
+   "tier": 4
+  },
+  {
+   "answer": "Paralipsis",
+   "aliases": [
+    "Paraleipsis",
+    "Apophasis",
+    "Praeteritio",
+    "Preterition",
+    "Occupatio"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aposiopesis",
+   "tier": 4,
+   "lore": "King Lear breaks off mid-threat: 'I will have such revenges on you both that all the world shall—'."
+  },
+  {
+   "answer": "Hypophora",
+   "aliases": [
+    "Anthypophora"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aporia",
+   "aliases": [
+    "Dubitatio"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Epizeuxis",
+   "tier": 4
+  },
+  {
+   "answer": "Diacope",
+   "tier": 4
+  },
+  {
+   "answer": "Anadiplosis",
+   "tier": 4
+  },
+  {
+   "answer": "Antimetabole",
+   "tier": 4
+  },
+  {
+   "answer": "Polyptoton",
+   "tier": 4
+  },
+  {
+   "answer": "Isocolon",
+   "tier": 4
+  },
+  {
+   "answer": "Tricolon",
+   "tier": 4
+  },
+  {
+   "answer": "Hendiadys",
+   "tier": 4
+  },
+  {
+   "answer": "Merism",
+   "tier": 4
+  },
+  {
+   "answer": "Prolepsis",
+   "tier": 4
+  },
+  {
+   "answer": "Syllepsis",
+   "tier": 4
+  },
+  {
+   "answer": "Tmesis",
+   "tier": 4,
+   "lore": "Splitting a word to stuff another inside, as Eliza Doolittle does with 'abso-blooming-lutely'."
+  },
+  {
+   "answer": "Anastrophe",
+   "aliases": [
+    "Inversion"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hyperbaton",
+   "tier": 4
+  },
+  {
+   "answer": "Zoomorphism",
+   "tier": 4
+  },
+  {
+   "answer": "Anthimeria",
+   "aliases": [
+    "Antimeria"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dead metaphor",
+   "tier": 4
+  },
+  {
+   "answer": "Pleonasm",
+   "tier": 4
+  },
+  {
+   "answer": "Amplification",
+   "aliases": [
+    "Amplificatio"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Metalepsis",
+   "tier": 4
+  },
+  {
+   "answer": "Anacoluthon",
+   "tier": 4
+  },
+  {
+   "answer": "Paraprosdokian",
+   "tier": 4,
+   "lore": "A sentence with a sting in its tail: 'I've had a perfectly wonderful evening, but this wasn't it.'"
+  },
+  {
+   "answer": "Epanorthosis",
+   "aliases": [
+    "Correctio",
+    "Metanoia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Antiphrasis",
+   "tier": 4
+  },
+  {
+   "answer": "Parenthesis",
+   "tier": 4
+  },
+  {
+   "answer": "Antanaclasis",
+   "tier": 5,
+   "lore": "One word in two senses, as in 'We must all hang together, or we shall all hang separately', said to be Franklin's."
+  },
+  {
+   "answer": "Procatalepsis",
+   "tier": 5
+  },
+  {
+   "answer": "Epanalepsis",
+   "tier": 5
+  },
+  {
+   "answer": "Symploce",
+   "tier": 5
+  },
+  {
+   "answer": "Ploce",
+   "tier": 5
+  },
+  {
+   "answer": "Homoioteleuton",
+   "tier": 5
+  },
+  {
+   "answer": "Accismus",
+   "tier": 5
+  },
+  {
+   "answer": "Auxesis",
+   "tier": 5
+  },
+  {
+   "answer": "Enallage",
+   "tier": 5
+  },
+  {
+   "answer": "Hypocatastasis",
+   "tier": 5
+  },
+  {
+   "answer": "Epiphonema",
+   "tier": 5
+  },
+  {
+   "answer": "Ecphonesis",
+   "tier": 5
+  },
+  {
+   "answer": "Epiplexis",
+   "tier": 5
+  },
+  {
+   "answer": "Dialogismus",
+   "tier": 5
+  },
+  {
+   "answer": "Paromologia",
+   "tier": 5
+  },
+  {
+   "answer": "Hendiatris",
+   "tier": 5
+  },
+  {
+   "answer": "Anapodoton",
+   "tier": 5
+  },
+  {
+   "answer": "Asteismus",
+   "tier": 5
+  },
+  {
+   "answer": "Charientismus",
+   "tier": 5
+  },
+  {
+   "answer": "Mycterismus",
+   "tier": 5
+  },
+  {
+   "answer": "Paradiastole",
+   "tier": 5
+  },
+  {
+   "answer": "Conduplicatio",
+   "tier": 5
+  },
+  {
+   "answer": "Epimone",
+   "tier": 5
+  },
+  {
+   "answer": "Sententia",
+   "tier": 5
+  },
+  {
+   "answer": "Hypotyposis",
+   "aliases": [
+    "Enargia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ekphrasis",
+   "aliases": [
+    "Ecphrasis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Synathroesmus",
+   "aliases": [
+    "Congeries"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Exemplum",
+   "tier": 5
+  },
+  {
+   "answer": "Parrhesia",
+   "tier": 5
+  },
+  {
+   "answer": "Topographia",
+   "tier": 5
+  },
+  {
+   "answer": "Accumulatio",
+   "aliases": [
+    "Accumulation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antanagoge",
+   "tier": 5
+  },
+  {
+   "answer": "Adynaton",
+   "tier": 6,
+   "lore": "Hyperbole stretched to the impossible, like 'when pigs fly', or Burns's love lasting 'till a' the seas gang dry'."
+  },
+  {
+   "answer": "Hysteron proteron",
+   "tier": 6,
+   "lore": "Putting the cart before the horse. Virgil's Aeneas cries, 'Let us die, and rush into the fight.'"
+  },
+  {
+   "answer": "Bdelygmia",
+   "tier": 6,
+   "lore": "A torrent of abuse heaped on one target, from a Greek word for filth. The Grinch's theme song is a fine example."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Raining cats and dogs",
+   "aliases": [
+    "It's raining cats and dogs",
+    "Piece of cake",
+    "Break a leg",
+    "Kick the bucket",
+    "Under the weather",
+    "Bite the bullet",
+    "Spill the beans",
+    "Cost an arm and a leg",
+    "Let the cat out of the bag",
+    "Over the moon",
+    "Once in a blue moon",
+    "When pigs fly",
+    "Busy as a bee",
+    "Time flies",
+    "Hit the nail on the head",
+    "Cold feet",
+    "Butterflies in my stomach"
+   ],
+   "reason": "An example of one. Name the figure itself."
+  },
+  {
+   "answer": "Figure of speech",
+   "aliases": [
+    "Rhetorical device",
+    "Literary device",
+    "Figurative language",
+    "Trope",
+    "Rhetoric",
+    "Scheme",
+    "Language technique"
+   ],
+   "reason": "Which one? Name a particular device."
+  },
+  {
+   "answer": "Comparison",
+   "reason": "Which one? Several figures work by comparing."
+  },
+  {
+   "answer": "Contrast",
+   "reason": "Which one? Several figures work by contrast."
+  },
+  {
+   "answer": "Proverb",
+   "aliases": [
+    "Saying",
+    "Maxim",
+    "Aphorism",
+    "Adage",
+    "Epigram",
+    "Motto",
+    "Slogan",
+    "Catchphrase",
+    "Quotation"
+   ],
+   "reason": "A saying in its own right, not a figure of speech."
+  },
+  {
+   "answer": "Foreshadowing",
+   "aliases": [
+    "Flashback",
+    "Cliffhanger",
+    "Plot twist",
+    "Red herring",
+    "Chekhov's gun",
+    "Deus ex machina",
+    "Motif",
+    "Theme",
+    "Narrative",
+    "Characterisation",
+    "Characterization",
+    "Point of view",
+    "Stream of consciousness",
+    "Suspense",
+    "Tone",
+    "Mood",
+    "Setting",
+    "Dialogue",
+    "Monologue",
+    "Soliloquy"
+   ],
+   "reason": "A storytelling device, not a figure of speech."
+  },
+  {
+   "answer": "Satire",
+   "aliases": [
+    "Parody",
+    "Fable",
+    "Parable",
+    "Lampoon",
+    "Pastiche",
+    "Farce",
+    "Tragedy",
+    "Comedy",
+    "Limerick",
+    "Haiku",
+    "Sonnet",
+    "Poem",
+    "Riddle",
+    "Joke",
+    "Tongue twister"
+   ],
+   "reason": "A kind of work, not a figure of speech."
+  },
+  {
+   "answer": "Iambic pentameter",
+   "aliases": [
+    "Metre",
+    "Meter",
+    "Enjambment",
+    "Enjambement",
+    "Caesura",
+    "Stanza",
+    "Couplet",
+    "Verse",
+    "Refrain"
+   ],
+   "reason": "A matter of metre and form, not a figure of speech."
+  },
+  {
+   "answer": "Noun",
+   "aliases": [
+    "Verb",
+    "Adjective",
+    "Adverb",
+    "Pronoun",
+    "Preposition",
+    "Conjunction",
+    "Interjection",
+    "Clause",
+    "Gerund",
+    "Infinitive",
+    "Imperative",
+    "Superlative",
+    "Passive voice",
+    "Split infinitive"
+   ],
+   "reason": "A part of grammar, not a figure of speech."
+  },
+  {
+   "answer": "Portmanteau",
+   "aliases": [
+    "Neologism",
+    "Acronym",
+    "Palindrome",
+    "Anagram",
+    "Homophone",
+    "Homonym",
+    "Synonym",
+    "Antonym",
+    "Eponym",
+    "Contraction",
+    "Abbreviation",
+    "Jargon",
+    "Slang"
+   ],
+   "reason": "A kind of word, not a figure of speech."
+  },
+  {
+   "answer": "Mondegreen",
+   "aliases": [
+    "Eggcorn"
+   ],
+   "reason": "A slip of the ear, not a figure of speech."
+  },
+  {
+   "answer": "Euphuism",
+   "reason": "An ornate prose style named after John Lyly's Euphues, not a figure of speech."
+  },
+  {
+   "answer": "Emotive language",
+   "aliases": [
+    "Direct address",
+    "Semantic field",
+    "Statistics",
+    "Anecdote",
+    "Facts",
+    "Opinion",
+    "Imperatives"
+   ],
+   "reason": "A persuasive technique, but not a figure of speech."
+  },
+  {
+   "answer": "Ethos",
+   "aliases": [
+    "Pathos",
+    "Logos",
+    "Kairos"
+   ],
+   "reason": "A mode of persuasion, not a figure of speech."
+  },
+  {
+   "answer": "Straw man",
+   "aliases": [
+    "Ad hominem",
+    "Slippery slope",
+    "Fallacy",
+    "Begging the question",
+    "False dichotomy"
+   ],
+   "reason": "A fallacy in argument, not a figure of speech."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"figures-of-speech\" on 28 November 2026."
+}

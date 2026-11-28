@@ -1,0 +1,1435 @@
+{
+ "id": "chemistry-subatomic-particles",
+ "text": "Name a subatomic particle.",
+ "category": "science",
+ "flavor": "Smaller than anything you will ever see, and stranger. Some are passing straight through you right now.",
+ "rules": "Any particle smaller than an atom, elementary or composite, matter or antimatter, including nuclei and hypothetical particles such as the graviton. Atoms, exotic atoms and quasiparticles don't count.",
+ "answers": [
+  {
+   "answer": "Electron",
+   "aliases": [
+    "Negatron",
+    "Corpuscle",
+    "Cathode ray"
+   ],
+   "tier": 1,
+   "lore": "Found by J. J. Thomson in 1897, the first subatomic particle ever discovered."
+  },
+  {
+   "answer": "Proton",
+   "aliases": [
+    "Hydrogen nucleus",
+    "Hydrogen ion",
+    "H+",
+    "Protium nucleus"
+   ],
+   "tier": 1,
+   "lore": "Named by Ernest Rutherford around 1920. Physicists have waited decades for one to decay and have never seen it happen."
+  },
+  {
+   "answer": "Neutron",
+   "aliases": [
+    "Free neutron",
+    "Fast neutron",
+    "Thermal neutron",
+    "Slow neutron"
+   ],
+   "tier": 1,
+   "lore": "Found by James Chadwick in 1932. Outside a nucleus, a free neutron lasts only about 15 minutes."
+  },
+  {
+   "answer": "Quark",
+   "tier": 1,
+   "lore": "Murray Gell-Mann took the name from a line in James Joyce's Finnegans Wake: 'Three quarks for Muster Mark!'"
+  },
+  {
+   "answer": "Photon",
+   "aliases": [
+    "Light particle",
+    "Light quantum",
+    "Gamma ray",
+    "Gamma photon",
+    "Gamma",
+    "X-ray photon",
+    "Foton",
+    "Phoon",
+    "Phonton",
+    "Gamma particle",
+    "Quantum of light",
+    "Gamma-ray photon",
+    "X-ray"
+   ],
+   "tier": 1,
+   "lore": "Einstein won his Nobel Prize for showing that light comes in packets, the particles later named photons."
+  },
+  {
+   "answer": "Neutrino",
+   "aliases": [
+    "Ghost particle",
+    "Solar neutrino"
+   ],
+   "tier": 1,
+   "lore": "Wolfgang Pauli proposed it in 1930 and fretted that he had predicted a particle nobody could ever detect. It was caught in 1956."
+  },
+  {
+   "answer": "Higgs boson",
+   "aliases": [
+    "Higgs",
+    "Higgs particle",
+    "God particle"
+   ],
+   "tier": 1,
+   "openSecret": true,
+   "lore": "Predicted in 1964 and found at CERN in 2012. Peter Higgs disliked its nickname, the God particle."
+  },
+  {
+   "answer": "Positron",
+   "aliases": [
+    "Antielectron",
+    "Positive electron"
+   ],
+   "tier": 2,
+   "lore": "The first antiparticle. Paul Dirac's 1928 equation implied it, and it was found in cosmic rays in 1932."
+  },
+  {
+   "answer": "Muon",
+   "aliases": [
+    "Mu meson",
+    "Mu lepton",
+    "Mu particle",
+    "Mu",
+    "Mesotron"
+   ],
+   "tier": 2,
+   "lore": "So unexpected that the physicist Isidor Rabi is said to have asked, 'Who ordered that?'"
+  },
+  {
+   "answer": "Gluon",
+   "tier": 2,
+   "lore": "Named because it glues quarks together inside protons and neutrons."
+  },
+  {
+   "answer": "Boson",
+   "tier": 2
+  },
+  {
+   "answer": "Fermion",
+   "tier": 2
+  },
+  {
+   "answer": "Lepton",
+   "tier": 2
+  },
+  {
+   "answer": "Hadron",
+   "tier": 2
+  },
+  {
+   "answer": "Baryon",
+   "tier": 2
+  },
+  {
+   "answer": "Meson",
+   "tier": 2
+  },
+  {
+   "answer": "Nucleon",
+   "tier": 2
+  },
+  {
+   "answer": "Graviton",
+   "tier": 2,
+   "lore": "The hypothetical carrier of gravity. One estimate says a detector the mass of Jupiter, near a neutron star, might catch one a decade."
+  },
+  {
+   "answer": "Antiproton",
+   "aliases": [
+    "Negative proton",
+    "Antipoton"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Antineutrino",
+   "tier": 2,
+   "lore": "The particle actually caught in 1956, streaming out of a nuclear reactor in South Carolina."
+  },
+  {
+   "answer": "Alpha particle",
+   "aliases": [
+    "Alpha",
+    "Alpha ray",
+    "Helium nucleus",
+    "Helium-4 nucleus"
+   ],
+   "tier": 2,
+   "lore": "Rutherford's team fired them at gold foil in 1909, and the few that bounced back revealed the atomic nucleus."
+  },
+  {
+   "answer": "Beta particle",
+   "aliases": [
+    "Beta",
+    "Beta ray",
+    "Beta radiation",
+    "Beta minus",
+    "Beta plus",
+    "Beta-minus particle",
+    "Beta-plus particle"
+   ],
+   "tier": 2,
+   "lore": "An electron, or a positron, flung out of a nucleus as it decays."
+  },
+  {
+   "answer": "Atomic nucleus",
+   "aliases": [
+    "Nucleus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Up quark",
+   "aliases": [
+    "Up",
+    "U quark"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Down quark",
+   "aliases": [
+    "Down",
+    "D quark"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Top quark",
+   "aliases": [
+    "Top",
+    "Truth quark",
+    "Truth",
+    "T quark"
+   ],
+   "tier": 2,
+   "lore": "The heaviest known elementary particle, about as heavy as an atom of gold. It was found at Fermilab in 1995."
+  },
+  {
+   "answer": "Pion",
+   "aliases": [
+    "Pi meson",
+    "Pi",
+    "Pi plus",
+    "Pi minus",
+    "Pi zero",
+    "Neutral pion",
+    "Charged pion"
+   ],
+   "tier": 2,
+   "lore": "Predicted by Hideki Yukawa in 1935 as the carrier of the force that holds nuclei together, and found in 1947."
+  },
+  {
+   "answer": "Tau",
+   "aliases": [
+    "Tau lepton",
+    "Tauon",
+    "Tau particle"
+   ],
+   "tier": 3,
+   "lore": "Found in 1975, the heaviest lepton is nearly twice as heavy as a proton."
+  },
+  {
+   "answer": "W boson",
+   "aliases": [
+    "W",
+    "W particle",
+    "W plus boson",
+    "W minus boson",
+    "W plus",
+    "W minus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Z boson",
+   "aliases": [
+    "Z",
+    "Z particle",
+    "Z zero",
+    "Z nought",
+    "Z0"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Strange quark",
+   "aliases": [
+    "Strange",
+    "Sideways quark"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Charm quark",
+   "aliases": [
+    "Charm",
+    "Charmed quark",
+    "C quark"
+   ],
+   "tier": 3,
+   "lore": "Its discovery in 1974, inside the J/psi particle, was so sudden that physicists call it the November Revolution."
+  },
+  {
+   "answer": "Bottom quark",
+   "aliases": [
+    "Bottom",
+    "Beauty quark",
+    "Beauty",
+    "B quark"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Antineutron",
+   "tier": 3
+  },
+  {
+   "answer": "Antiquark",
+   "tier": 3
+  },
+  {
+   "answer": "Antiparticle",
+   "tier": 3
+  },
+  {
+   "answer": "Antimuon",
+   "aliases": [
+    "Positive muon"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gauge boson",
+   "aliases": [
+    "Force carrier",
+    "Force particle",
+    "Exchange particle",
+    "Messenger particle"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kaon",
+   "aliases": [
+    "K meson",
+    "Kaon plus",
+    "Kaon minus",
+    "Neutral kaon",
+    "K-long",
+    "K-short",
+    "K zero",
+    "K plus",
+    "K minus",
+    "Strange meson"
+   ],
+   "tier": 3,
+   "lore": "Its odd behaviour gave physicists the idea of 'strangeness', and so led to the strange quark."
+  },
+  {
+   "answer": "J/psi meson",
+   "aliases": [
+    "J/psi",
+    "Psi meson",
+    "J particle",
+    "Psi particle",
+    "Psi"
+   ],
+   "tier": 3,
+   "lore": "Found by two teams at once in 1974. One called it J, the other psi, so it carries both names."
+  },
+  {
+   "answer": "Electron neutrino",
+   "tier": 3
+  },
+  {
+   "answer": "Tachyon",
+   "tier": 3,
+   "lore": "A hypothetical particle that could only travel faster than light. The less energy it had, the faster it would go."
+  },
+  {
+   "answer": "Axion",
+   "tier": 3,
+   "lore": "Frank Wilczek named it after a laundry detergent, because it would clean up a problem in physics."
+  },
+  {
+   "answer": "Tetraquark",
+   "tier": 3
+  },
+  {
+   "answer": "Pentaquark",
+   "tier": 3,
+   "lore": "Five quarks bound together. Allowed by theory since 1964, they were finally confirmed at CERN in 2015."
+  },
+  {
+   "answer": "Cosmic ray",
+   "aliases": [
+    "Cosmic-ray particle",
+    "Cosmic-ray proton",
+    "Astroparticle"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Muon neutrino",
+   "aliases": [
+    "Mu neutrino"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tau neutrino",
+   "aliases": [
+    "Tauon neutrino"
+   ],
+   "tier": 4,
+   "lore": "The last of the leptons to be seen directly, at Fermilab in 2000."
+  },
+  {
+   "answer": "Electron antineutrino",
+   "tier": 4
+  },
+  {
+   "answer": "Antitau",
+   "aliases": [
+    "Antitauon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Antilepton",
+   "tier": 4
+  },
+  {
+   "answer": "Antibaryon",
+   "tier": 4
+  },
+  {
+   "answer": "Hyperon",
+   "tier": 4
+  },
+  {
+   "answer": "Vector boson",
+   "tier": 4
+  },
+  {
+   "answer": "Lambda baryon",
+   "aliases": [
+    "Lambda",
+    "Lambda particle",
+    "Lambda zero",
+    "Lambda hyperon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sigma baryon",
+   "aliases": [
+    "Sigma",
+    "Sigma particle",
+    "Sigma hyperon",
+    "Sigma plus",
+    "Sigma minus",
+    "Sigma zero"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Xi baryon",
+   "aliases": [
+    "Xi",
+    "Xi particle",
+    "Cascade particle",
+    "Cascade baryon",
+    "Xi minus",
+    "Xi zero"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Omega baryon",
+   "aliases": [
+    "Omega",
+    "Omega minus",
+    "Omega particle",
+    "Omega hyperon"
+   ],
+   "tier": 4,
+   "lore": "Murray Gell-Mann predicted it, and its mass, in 1962. It turned up two years later, just as forecast."
+  },
+  {
+   "answer": "Delta baryon",
+   "aliases": [
+    "Delta",
+    "Delta resonance",
+    "Delta particle",
+    "Delta plus plus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eta meson",
+   "aliases": [
+    "Eta",
+    "Eta particle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rho meson",
+   "aliases": [
+    "Rho",
+    "Rho particle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Omega meson",
+   "tier": 4
+  },
+  {
+   "answer": "Phi meson",
+   "aliases": [
+    "Phi",
+    "Phi particle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "D meson",
+   "aliases": [
+    "Charmed meson",
+    "D zero",
+    "D plus",
+    "D minus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "B meson",
+   "aliases": [
+    "Bottom meson",
+    "Beauty meson",
+    "B zero",
+    "B plus",
+    "B minus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Upsilon meson",
+   "aliases": [
+    "Upsilon",
+    "Upsilon particle"
+   ],
+   "tier": 4,
+   "lore": "Found at Fermilab in 1977, it revealed the bottom quark."
+  },
+  {
+   "answer": "Deuteron",
+   "aliases": [
+    "Deuterium nucleus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Neutralino",
+   "tier": 4
+  },
+  {
+   "answer": "WIMP",
+   "aliases": [
+    "Weakly interacting massive particle"
+   ],
+   "tier": 4,
+   "lore": "A leading candidate for dark matter. The rival idea, dim stars and black holes, was given the name MACHO."
+  },
+  {
+   "answer": "Sterile neutrino",
+   "aliases": [
+    "Right-handed neutrino",
+    "Heavy neutral lepton"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Majorana fermion",
+   "aliases": [
+    "Majorana particle",
+    "Majorana neutrino",
+    "Majorana"
+   ],
+   "tier": 4,
+   "lore": "A particle that is its own antiparticle, named after Ettore Majorana, the Italian physicist who vanished without trace in 1938."
+  },
+  {
+   "answer": "Sparticle",
+   "aliases": [
+    "Superpartner",
+    "Supersymmetric particle",
+    "Superparticle",
+    "Supersymmetric partner",
+    "SUSY particle",
+    "Spartner"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quarkonium",
+   "tier": 4
+  },
+  {
+   "answer": "Charmonium",
+   "tier": 4
+  },
+  {
+   "answer": "Parton",
+   "tier": 4
+  },
+  {
+   "answer": "Virtual particle",
+   "aliases": [
+    "Virtual photon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gravitino",
+   "tier": 4
+  },
+  {
+   "answer": "Squark",
+   "tier": 4
+  },
+  {
+   "answer": "Leptoquark",
+   "tier": 4
+  },
+  {
+   "answer": "Preon",
+   "aliases": [
+    "Rishon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dark photon",
+   "aliases": [
+    "Hidden photon",
+    "Heavy photon",
+    "Paraphoton"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Weak boson",
+   "aliases": [
+    "Intermediate vector boson",
+    "W and Z bosons",
+    "Weak gauge boson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Muon antineutrino",
+   "tier": 5
+  },
+  {
+   "answer": "Tau antineutrino",
+   "tier": 5
+  },
+  {
+   "answer": "Up antiquark",
+   "aliases": [
+    "Anti-up quark",
+    "Antiup"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Down antiquark",
+   "aliases": [
+    "Anti-down quark",
+    "Antidown"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Strange antiquark",
+   "aliases": [
+    "Anti-strange quark",
+    "Antistrange"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Charm antiquark",
+   "aliases": [
+    "Anti-charm quark",
+    "Anticharm"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bottom antiquark",
+   "aliases": [
+    "Anti-bottom quark",
+    "Antibottom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Top antiquark",
+   "aliases": [
+    "Anti-top quark",
+    "Antitop"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antinucleon",
+   "tier": 5
+  },
+  {
+   "answer": "Antikaon",
+   "tier": 5
+  },
+  {
+   "answer": "Antilambda",
+   "tier": 5
+  },
+  {
+   "answer": "Antideuteron",
+   "tier": 5
+  },
+  {
+   "answer": "Valence quark",
+   "tier": 5
+  },
+  {
+   "answer": "Sea quark",
+   "tier": 5
+  },
+  {
+   "answer": "Scalar boson",
+   "tier": 5
+  },
+  {
+   "answer": "Triton",
+   "aliases": [
+    "Tritium nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Helion",
+   "aliases": [
+    "Helium-3 nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eta prime meson",
+   "aliases": [
+    "Eta prime"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ds meson",
+   "aliases": [
+    "Strange D meson",
+    "D sub s meson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bc meson",
+   "aliases": [
+    "B sub c meson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bottomonium",
+   "tier": 5
+  },
+  {
+   "answer": "Toponium",
+   "tier": 5
+  },
+  {
+   "answer": "X(3872)",
+   "aliases": [
+    "Chi c1(3872)"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Z(4430)",
+   "tier": 5
+  },
+  {
+   "answer": "Lambda-c baryon",
+   "aliases": [
+    "Charmed lambda",
+    "Lambda c"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sigma-c baryon",
+   "aliases": [
+    "Charmed sigma",
+    "Sigma c"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xi-c baryon",
+   "aliases": [
+    "Charmed xi",
+    "Xi c"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Omega-c baryon",
+   "aliases": [
+    "Charmed omega",
+    "Omega c"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lambda-b baryon",
+   "aliases": [
+    "Bottom lambda",
+    "Lambda b"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sigma-b baryon",
+   "aliases": [
+    "Sigma b"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xi-b baryon",
+   "aliases": [
+    "Xi b"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Omega-b baryon",
+   "aliases": [
+    "Omega b"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xi-cc baryon",
+   "aliases": [
+    "Doubly charmed baryon",
+    "Xi cc"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Roper resonance",
+   "tier": 5
+  },
+  {
+   "answer": "Hexaquark",
+   "aliases": [
+    "Dibaryon",
+    "H dibaryon",
+    "Sexaquark"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hybrid meson",
+   "tier": 5
+  },
+  {
+   "answer": "Exotic hadron",
+   "aliases": [
+    "Exotic meson",
+    "Exotic baryon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Odderon",
+   "tier": 5,
+   "lore": "Proposed in 1973 and confirmed in 2021, by comparing proton collisions at CERN with proton–antiproton collisions at Fermilab."
+  },
+  {
+   "answer": "Goldstone boson",
+   "aliases": [
+    "Nambu–Goldstone boson",
+    "Goldstone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Weyl fermion",
+   "aliases": [
+    "Weyl particle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Photino",
+   "tier": 5
+  },
+  {
+   "answer": "Gluino",
+   "tier": 5
+  },
+  {
+   "answer": "Higgsino",
+   "tier": 5
+  },
+  {
+   "answer": "Wino",
+   "tier": 5
+  },
+  {
+   "answer": "Zino",
+   "tier": 5
+  },
+  {
+   "answer": "Bino",
+   "tier": 5
+  },
+  {
+   "answer": "Chargino",
+   "tier": 5
+  },
+  {
+   "answer": "Axino",
+   "tier": 5
+  },
+  {
+   "answer": "Saxion",
+   "tier": 5
+  },
+  {
+   "answer": "Selectron",
+   "tier": 5
+  },
+  {
+   "answer": "Smuon",
+   "tier": 5
+  },
+  {
+   "answer": "Stau",
+   "tier": 5
+  },
+  {
+   "answer": "Sneutrino",
+   "tier": 5
+  },
+  {
+   "answer": "Slepton",
+   "tier": 5
+  },
+  {
+   "answer": "Sfermion",
+   "tier": 5
+  },
+  {
+   "answer": "Stop squark",
+   "aliases": [
+    "Stop",
+    "Top squark",
+    "Stop quark"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sbottom",
+   "aliases": [
+    "Bottom squark"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dilaton",
+   "tier": 5
+  },
+  {
+   "answer": "Inflaton",
+   "tier": 5
+  },
+  {
+   "answer": "Majoron",
+   "tier": 5
+  },
+  {
+   "answer": "X boson",
+   "aliases": [
+    "X and Y bosons",
+    "Y boson",
+    "X particle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "X17 particle",
+   "aliases": [
+    "X17",
+    "X17 boson"
+   ],
+   "tier": 5,
+   "lore": "Hinted at in 2016 by a Hungarian lab studying beryllium-8. Teams in Vietnam and Italy have since seen hints, but it is still unconfirmed."
+  },
+  {
+   "answer": "Z-prime boson",
+   "aliases": [
+    "Z prime"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "W-prime boson",
+   "aliases": [
+    "W prime"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chameleon particle",
+   "aliases": [
+    "Chameleon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Axion-like particle",
+   "aliases": [
+    "ALP"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Planck particle",
+   "tier": 5
+  },
+  {
+   "answer": "Antipion",
+   "tier": 5
+  },
+  {
+   "answer": "Antimeson",
+   "tier": 5
+  },
+  {
+   "answer": "Antisigma",
+   "aliases": [
+    "Antisigma baryon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antixi",
+   "aliases": [
+    "Anticascade"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anti-omega",
+   "aliases": [
+    "Anti-omega baryon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antihyperon",
+   "tier": 5
+  },
+  {
+   "answer": "Antitriton",
+   "tier": 5
+  },
+  {
+   "answer": "Antinucleus",
+   "aliases": [
+    "Antimatter nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antihelium nucleus",
+   "aliases": [
+    "Antihelium",
+    "Anti-alpha",
+    "Antihelium-4 nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaugino",
+   "tier": 5
+  },
+  {
+   "answer": "Goldstino",
+   "tier": 5
+  },
+  {
+   "answer": "Dyon",
+   "tier": 5
+  },
+  {
+   "answer": "Graviphoton",
+   "aliases": [
+    "Gravivector"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wimpzilla",
+   "tier": 5
+  },
+  {
+   "answer": "Dirac fermion",
+   "tier": 5
+  },
+  {
+   "answer": "Sigma meson",
+   "aliases": [
+    "f0(500)"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bs meson",
+   "aliases": [
+    "Strange B meson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eta-c meson",
+   "aliases": [
+    "Eta c",
+    "Charmed eta meson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chi-c meson",
+   "aliases": [
+    "Chi c"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Psi(2S)",
+   "aliases": [
+    "Psi prime"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hypernucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Hypertriton",
+   "tier": 5
+  },
+  {
+   "answer": "Diquark",
+   "tier": 5
+  },
+  {
+   "answer": "Pomeron",
+   "tier": 5
+  },
+  {
+   "answer": "Reggeon",
+   "tier": 5
+  },
+  {
+   "answer": "Magnetic monopole",
+   "aliases": [
+    "Monopole",
+    "Dirac monopole"
+   ],
+   "tier": 6,
+   "lore": "A magnet with only one pole. On Valentine's Day 1982 a detector at Stanford recorded what looked like one passing through. It was never seen again."
+  },
+  {
+   "answer": "Glueball",
+   "tier": 6,
+   "lore": "A particle made of pure force: gluons bound to gluons, with no quarks at all. Predicted in the 1970s, it has never been confirmed beyond doubt."
+  },
+  {
+   "answer": "Strangelet",
+   "tier": 6,
+   "lore": "A hypothetical lump of up, down and strange quarks. Before big colliders opened, some feared one could convert the Earth. Safety studies said no."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Subatomic particle",
+   "aliases": [
+    "Particle",
+    "Subparticle",
+    "Elementary particle",
+    "Fundamental particle",
+    "Composite particle",
+    "Atomic particle",
+    "Point particle"
+   ],
+   "reason": "That covers a whole group of particles. Name one."
+  },
+  {
+   "answer": "Atom",
+   "aliases": [
+    "Rydberg atom"
+   ],
+   "reason": "Too big: atoms are built from subatomic particles."
+  },
+  {
+   "answer": "Molecule",
+   "aliases": [
+    "Compound"
+   ],
+   "reason": "Too big: a molecule is built from atoms."
+  },
+  {
+   "answer": "Ion",
+   "aliases": [
+    "Cation",
+    "Anion"
+   ],
+   "reason": "An atom with an electric charge, too big to be subatomic."
+  },
+  {
+   "answer": "Element",
+   "aliases": [
+    "Hydrogen",
+    "Helium",
+    "Carbon",
+    "Oxygen",
+    "Uranium",
+    "Plutonium",
+    "Deuterium",
+    "Tritium",
+    "Isotope"
+   ],
+   "reason": "A kind of atom, too big to be subatomic."
+  },
+  {
+   "answer": "Positronium",
+   "aliases": [
+    "Muonium",
+    "Protonium",
+    "Pionium",
+    "Exotic atom"
+   ],
+   "reason": "An exotic atom: two particles orbiting each other like a tiny atom."
+  },
+  {
+   "answer": "Phonon",
+   "aliases": [
+    "Magnon",
+    "Exciton",
+    "Polaron",
+    "Plasmon",
+    "Polariton",
+    "Hole",
+    "Electron hole",
+    "Soliton",
+    "Skyrmion",
+    "Fluxon",
+    "Spinon",
+    "Dropleton",
+    "Quasiparticle",
+    "Orbiton",
+    "Plasmaron",
+    "Biexciton",
+    "Fracton"
+   ],
+   "reason": "A quasiparticle: a ripple in a solid that behaves like a particle, not a particle in its own right."
+  },
+  {
+   "answer": "Cooper pair",
+   "reason": "Two electrons paired across hundreds of atoms in a superconductor: far bigger than an atom."
+  },
+  {
+   "answer": "Quark–gluon plasma",
+   "aliases": [
+    "QGP"
+   ],
+   "reason": "A state of matter, a soup of free quarks and gluons, not a particle."
+  },
+  {
+   "answer": "Neutron star",
+   "reason": "A dead star, made almost entirely of neutrons."
+  },
+  {
+   "answer": "Antimatter",
+   "reason": "Matter built from the mirror images of ordinary particles. Name one of those."
+  },
+  {
+   "answer": "Dark matter",
+   "aliases": [
+    "Dark matter particle"
+   ],
+   "reason": "Nobody knows yet what it is made of. Name a candidate particle."
+  },
+  {
+   "answer": "Light",
+   "aliases": [
+    "Electricity",
+    "Radiation",
+    "Sunlight",
+    "Laser",
+    "Radio wave",
+    "Microwave",
+    "Electromagnetic radiation",
+    "Ultraviolet",
+    "Infrared"
+   ],
+   "reason": "A stream of particles. Name the particle."
+  },
+  {
+   "answer": "Quantum",
+   "aliases": [
+    "Quanta"
+   ],
+   "reason": "An amount, not a particle."
+  },
+  {
+   "answer": "Orbital",
+   "aliases": [
+    "Electron shell",
+    "Electron cloud",
+    "Shell"
+   ],
+   "reason": "A region where an electron is likely to be found, not a particle."
+  },
+  {
+   "answer": "Superstring",
+   "aliases": [
+    "Brane"
+   ],
+   "reason": "In string theory particles are tiny vibrating strings, but a string itself is not a particle."
+  },
+  {
+   "answer": "Strong force",
+   "aliases": [
+    "Strong nuclear force",
+    "Weak force",
+    "Weak nuclear force",
+    "Electromagnetism",
+    "Electromagnetic force",
+    "Electroweak force"
+   ],
+   "reason": "A force, not a particle. Name the particle that carries it."
+  },
+  {
+   "answer": "Higgs field",
+   "aliases": [
+    "Electromagnetic field"
+   ],
+   "reason": "The field, not the particle. Name the particle that goes with it."
+  },
+  {
+   "answer": "Spin",
+   "aliases": [
+    "Charge",
+    "Colour charge",
+    "Color charge",
+    "Mass",
+    "Isospin",
+    "Strangeness",
+    "Flavour",
+    "Flavor"
+   ],
+   "reason": "A property of particles, not a particle."
+  },
+  {
+   "answer": "MACHO",
+   "reason": "Massive compact halo objects are things like dim stars and black holes, not particles."
+  },
+  {
+   "answer": "Midichlorian",
+   "reason": "Fiction: tiny life forms from Star Wars."
+  },
+  {
+   "answer": "Pym particle",
+   "reason": "Fiction: Ant-Man's shrinking particles, from Marvel."
+  },
+  {
+   "answer": "Chroniton",
+   "aliases": [
+    "Tetryon",
+    "Verteron"
+   ],
+   "reason": "Fiction: made-up particles from Star Trek."
+  },
+  {
+   "answer": "Unobtainium",
+   "aliases": [
+    "Vibranium",
+    "Adamantium"
+   ],
+   "reason": "Fiction: a made-up material, not a particle."
+  },
+  {
+   "answer": "Antiphoton",
+   "aliases": [
+    "Antigluon",
+    "Antigraviton",
+    "Anti-Higgs",
+    "Anti-Higgs boson",
+    "Anti-Z boson"
+   ],
+   "reason": "No such thing: its mirror image is the same kind of particle."
+  },
+  {
+   "answer": "Plasma",
+   "aliases": [
+    "Bose–Einstein condensate",
+    "BEC"
+   ],
+   "reason": "A state of matter, not a particle."
+  },
+  {
+   "answer": "Matter",
+   "reason": "Ordinary stuff, made of particles. Name one of them."
+  },
+  {
+   "answer": "Dark energy",
+   "reason": "Whatever is speeding up the universe's expansion. As far as anyone knows, it is not a particle."
+  },
+  {
+   "answer": "Antihydrogen",
+   "reason": "An atom of antimatter, too big to be subatomic."
+  }
+ ],
+ "decoys": [
+  "Epsilon",
+  "Zeta"
+ ],
+ "section": "Atomic structure",
+ "source": "Copied from the daily question \"subatomic-particles\" on 28 November 2026."
+}

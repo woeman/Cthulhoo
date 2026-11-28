@@ -1,0 +1,128 @@
+id: economics-schools-systems
+text: Name a school of economic thought or a type of economic system.
+flavor: Every one of them explains the whole world. The world has declined to comment.
+rules: Any named school, tradition or -ism in economics, or any kind of economic system, such as the one Australia has.
+section: Ideas
+---
+1 Capitalism | Capitalist | Free market capitalism | Capitalist economy | Capitalist system
+1 Socialism | Socialist | Socialist economy
+1 Communism | Communist | Communist economy
+1 Keynesian economics | Keynesian | Keynesianism | Keynes
+1 Mixed economy | Mixed market economy | Mixed | Mixed system
+1 Market economy | Free market | Free market economy | Free enterprise | Laissez-faire | Laissez faire | Market system | Free markets
+2 Classical economics | Classical | Classical school | Classical liberalism
+2 Marxism | Marxist economics | Marxian economics | Marxist | Marxian
+2 Command economy | Planned economy | Centrally planned economy | Central planning | Command | Command system | Centrally planned
+2 Neoliberalism | Neoliberal | Economic rationalism | Neo-liberalism
+2 Monetarism | Monetarist | Chicago school | Chicago School of economics
+2 Neoclassical economics | Neoclassical | Neo-classical | Neoclassical school
+2 Traditional economy | Subsistence economy | Traditional | Subsistence
+2 Behavioural economics | Behavioral economics | Behavioural | Behaviouralism
+2 Mercantilism | Mercantilist
+2 Feudalism | Feudal system | Manorialism | Feudal
+2 Austrian school | Austrian economics | Austrian
+2 Supply-side economics | Supply side | Trickle-down economics | Trickle down | Reaganomics | Supply-side
+2 Fascism | Corporatism | Fascist economy
+2 Welfare state | Social democracy | Nordic model | Social market economy | Scandinavian model | Democratic socialism | Welfare capitalism
+3 Modern monetary theory | MMT | Modern money theory
+3 New Keynesian economics | New Keynesian | Neo-Keynesian | Neo-Keynesian economics | New Keynesianism
+3 Post-Keynesian economics | Post-Keynesian | Post Keynesian
+3 New classical economics | New classical | Rational expectations | Real business cycle theory | RBC
+3 Institutional economics | Institutionalism | New institutional economics | Institutionalist
+3 Physiocracy | Physiocrats | Physiocrat
+3 Georgism | Georgist | Single tax | Geoism
+3 Anarchism | Anarcho-capitalism | Anarcho-syndicalism | Anarchist economics
+3 Libertarianism | Libertarian
+3 Protectionism | Protectionist
+3 Free trade | Globalisation | Globalization | Economic liberalism | Liberalism
+3 State capitalism | Socialism with Chinese characteristics | Socialist market economy | Market socialism | Dirigisme
+3 Development economics | Dependency theory | Structuralism | World-systems theory
+3 Feminist economics
+3 Ecological economics | Environmental economics | Green economics | Degrowth | Doughnut economics | Steady-state economics | Circular economy
+3 Game theory
+3 Welfare economics
+3 Public choice theory | Public choice | Virginia school
+3 Econometrics
+3 Microeconomics | Macroeconomics
+3 Utilitarianism
+3 Marginalism | Marginal revolution | Marginalist
+3 Thatcherism | Rogernomics | Abenomics | Bidenomics
+3 Gift economy | Barter economy | Barter | Barter system
+3 Sharing economy | Gig economy | Knowledge economy | Digital economy | Platform economy
+3 Slavery | Slave economy | Plantation economy
+3 Colonialism | Imperialism
+3 Cooperative economics | Co-operative | Cooperativism | Mutualism
+3 Distributism
+3 Islamic economics | Islamic finance
+3 Buddhist economics
+3 Stalinism | Maoism | Leninism | Trotskyism | Marxism-Leninism | War communism | New Economic Policy | NEP
+3 Syndicalism | Guild socialism
+3 Utopian socialism | Owenism | Fourierism | Saint-Simonianism
+3 Fabianism | Fabian socialism | Fabian Society
+3 Third Way
+3 Washington Consensus
+3 Ordoliberalism | Freiburg school
+3 Historical school | German historical school
+3 Stockholm school
+3 Cambridge school | Cambridge Keynesians
+3 Salamanca school | School of Salamanca
+3 Manchester school | Manchester liberalism
+3 Saltwater economics | Freshwater economics | Saltwater and freshwater
+3 Evolutionary economics | Schumpeterian economics | Schumpeterian
+3 Complexity economics
+3 Experimental economics
+3 Neuroeconomics
+3 Information economics
+3 Labour economics | Health economics | International economics | Industrial organisation | Agricultural economics | Urban economics | Financial economics | Monetary economics | Public economics
+4 Cameralism | Kameralism
+4 Bullionism
+4 Chartalism
+4 Malthusianism | Neo-Malthusianism
+4 Ricardian economics | Ricardian socialism | Ricardianism
+4 Lausanne school
+4 American school | American System | Hamiltonian economics
+4 English historical school
+4 French liberal school
+4 Neo-Ricardianism | Sraffian economics | Neo-Ricardian
+4 Regulation school | Régulation school
+6 Social credit | Douglas Credit :: Major C. H. Douglas's 1920s plan to hand every citizen a national dividend. It won government in Alberta in 1935 and spawned parties in Australia and New Zealand.
+4 Technocracy | Technocracy movement
+4 Participatory economics | Parecon
+4 Binary economics
+4 Thermoeconomics | Biophysical economics
+4 Austro-Marxism
+4 Analytical Marxism
+4 Juche
+4 Ujamaa
+4 Peronism | Justicialism
+4 Kemalism | Etatism
+4 Gandhian economics | Swadeshi | Sarvodaya
+4 Sufficiency economy
+4 Palace economy | Redistributive economy | Temple economy
+4 Potlatch | Potlatch economy
+4 Encomienda | Hacienda system
+4 Guild system | Guilds
+4 Putting-out system | Domestic system | Cottage industry
+4 Kibbutz | Kolkhoz | Collective farming | Collectivism
+4 Autarky | Self-sufficiency | Autarchy
+4 Kleptocracy | Crony capitalism | Oligarchy
+4 Surveillance capitalism | Rentier capitalism | Financial capitalism | Late capitalism | Stakeholder capitalism | Shareholder capitalism | Venture capitalism
+4 Australian Settlement | McEwenism
+5 Legalism | Chinese Legalism
+5 Scholasticism | Scholastic economics
+5 Arthashastra tradition
+5 Agrarianism | Jeffersonian agrarianism
+5 Tektology
+5 Sismondism
+5 Proutism | PROUT | Progressive Utilization Theory
+5 Veblenian economics
+5 Kaleckian economics
+5 Circuitism | Monetary circuit theory
+5 Disequilibrium economics
+5 Monetary realism
+5 Market monetarism
+5 Neo-mercantilism | Neomercantilism
+6 Inca economy | Mit'a | Mita | Inca system :: The Inca Empire fed and housed millions with no money and no markets. Subjects paid tax in labour, the mit'a, and the state stored and shared the produce.
+x Democracy | Monarchy | Dictatorship | Republic | Federation | Parliament | Theocracy | Autocracy :: A political system: it says who rules, not how goods are made and shared.
+x Economics | Economy | System | School | Ism | Theory :: Which one? Give it its name.
+x Supply and demand | Inflation | GDP | Recession | Opportunity cost | Scarcity | Elasticity :: A concept every school uses, rather than a school or a system itself.

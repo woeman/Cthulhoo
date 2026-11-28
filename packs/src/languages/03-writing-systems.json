@@ -1,0 +1,2285 @@
+{
+ "id": "languages-writing-systems",
+ "text": "Name a writing system or alphabet.",
+ "category": "language",
+ "flavor": "Some marks were made to be read by the living. Others were meant to be read only by the dead.",
+ "rules": "Any script, alphabet or other way of writing words, ancient, modern or invented, Braille and shorthand included. Spelling alphabets like NATO's, codes and ciphers don't count.",
+ "answers": [
+  {
+   "answer": "Latin alphabet",
+   "aliases": [
+    "Latin",
+    "Latin script",
+    "Roman alphabet",
+    "Roman",
+    "Roman script",
+    "English alphabet",
+    "ABC",
+    "French alphabet",
+    "German alphabet",
+    "Spanish alphabet",
+    "Italian alphabet",
+    "Portuguese alphabet",
+    "Dutch alphabet",
+    "Polish alphabet",
+    "Turkish alphabet",
+    "Swedish alphabet",
+    "Welsh alphabet",
+    "Esperanto alphabet"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Greek alphabet",
+   "aliases": [
+    "Greek",
+    "Greek script",
+    "Ancient Greek"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Cyrillic",
+   "aliases": [
+    "Cyrillic alphabet",
+    "Cyrillic script",
+    "Russian alphabet",
+    "Russian",
+    "Russian script",
+    "Ukrainian alphabet",
+    "Bulgarian alphabet",
+    "Serbian Cyrillic",
+    "Early Cyrillic"
+   ],
+   "tier": 1,
+   "lore": "Named after Saint Cyril, though the alphabet he devised was the older Glagolitic."
+  },
+  {
+   "answer": "Arabic script",
+   "aliases": [
+    "Arabic",
+    "Arabic alphabet"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hebrew alphabet",
+   "aliases": [
+    "Hebrew",
+    "Hebrew script",
+    "Square script",
+    "Aleph-bet",
+    "Alefbet",
+    "Ashuri"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Chinese characters",
+   "aliases": [
+    "Chinese",
+    "Hanzi",
+    "Chinese script",
+    "Han characters",
+    "Chinese writing",
+    "Chinese symbols",
+    "Chinese alphabet"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Egyptian hieroglyphs",
+   "aliases": [
+    "Hieroglyphs",
+    "Hieroglyphics",
+    "Egyptian hieroglyphics",
+    "Hieroglyphic",
+    "Hieroglyphic script",
+    "Egyptian",
+    "Egyptian writing"
+   ],
+   "tier": 1,
+   "lore": "The last known hieroglyphic inscription was carved on the temple of Philae in AD 394."
+  },
+  {
+   "answer": "Braille",
+   "aliases": [
+    "Brail",
+    "Brial"
+   ],
+   "tier": 1,
+   "lore": "Louis Braille, blinded as a small boy, worked it out at fifteen from a military code called night writing."
+  },
+  {
+   "answer": "Runes",
+   "aliases": [
+    "Runic",
+    "Runic alphabet",
+    "Runic script"
+   ],
+   "tier": 2,
+   "lore": "Legend says Odin hung on a windswept tree for nine nights to win the secret of the runes."
+  },
+  {
+   "answer": "Ogham",
+   "aliases": [
+    "Ogam",
+    "Ogham alphabet",
+    "Ogham script",
+    "Celtic tree alphabet"
+   ],
+   "tier": 2,
+   "lore": "Notches cut along the edge of a standing stone, usually read from the bottom upwards."
+  },
+  {
+   "answer": "Cuneiform",
+   "aliases": [
+    "Sumerian cuneiform",
+    "Akkadian cuneiform",
+    "Cuneiform script",
+    "Sumerian",
+    "Akkadian",
+    "Babylonian",
+    "Assyrian cuneiform"
+   ],
+   "tier": 2,
+   "lore": "Pressed into wet clay with a cut reed, and used for more than 3,000 years."
+  },
+  {
+   "answer": "Hangul",
+   "aliases": [
+    "Hangeul",
+    "Korean alphabet",
+    "Korean script",
+    "Korean",
+    "Chosongul"
+   ],
+   "tier": 2,
+   "lore": "Created in the 1440s under King Sejong so that ordinary Koreans could learn to read. South Korea gives it a holiday every October."
+  },
+  {
+   "answer": "Devanagari",
+   "aliases": [
+    "Nagari",
+    "Devnagari",
+    "Hindi",
+    "Hindi script",
+    "Hindi alphabet",
+    "Marathi",
+    "Nepali",
+    "Marathi script",
+    "Nepali script",
+    "Balbodh"
+   ],
+   "tier": 2,
+   "lore": "Its letters hang from a line drawn along the top, called the shirorekha."
+  },
+  {
+   "answer": "Kanji",
+   "tier": 2
+  },
+  {
+   "answer": "Hiragana",
+   "tier": 2
+  },
+  {
+   "answer": "Katakana",
+   "tier": 2
+  },
+  {
+   "answer": "Japanese script",
+   "aliases": [
+    "Japanese",
+    "Japanese writing",
+    "Japanese writing system",
+    "Japanese characters"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Shorthand",
+   "aliases": [
+    "Stenography",
+    "Tachygraphy"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phoenician alphabet",
+   "aliases": [
+    "Phoenician",
+    "Phoenician script",
+    "Punic"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Linear B",
+   "tier": 2,
+   "lore": "Deciphered in 1952 by Michael Ventris, an architect, who showed it recorded an early form of Greek."
+  },
+  {
+   "answer": "Thai script",
+   "aliases": [
+    "Thai",
+    "Thai alphabet"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Maya script",
+   "aliases": [
+    "Maya glyphs",
+    "Mayan glyphs",
+    "Mayan hieroglyphs",
+    "Maya hieroglyphs",
+    "Mayan script",
+    "Mayan",
+    "Maya"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Linear A",
+   "tier": 3,
+   "lore": "Its signs can be roughly sounded out using Linear B, but the Minoan language behind them remains unknown."
+  },
+  {
+   "answer": "Elder Futhark",
+   "aliases": [
+    "Futhark"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Futhorc",
+   "aliases": [
+    "Anglo-Saxon runes",
+    "Futhork"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Glagolitic",
+   "aliases": [
+    "Glagolitic alphabet",
+    "Glagolitsa"
+   ],
+   "tier": 3,
+   "lore": "The oldest known Slavic alphabet, devised by Saint Cyril in the 860s."
+  },
+  {
+   "answer": "Coptic alphabet",
+   "aliases": [
+    "Coptic",
+    "Coptic script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gothic alphabet",
+   "aliases": [
+    "Gothic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Etruscan alphabet",
+   "aliases": [
+    "Etruscan",
+    "Etruscan script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aramaic alphabet",
+   "aliases": [
+    "Aramaic",
+    "Aramaic script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Syriac alphabet",
+   "aliases": [
+    "Syriac",
+    "Syriac script",
+    "Estrangela"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Brahmi",
+   "aliases": [
+    "Brahmi script",
+    "Tamil-Brahmi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ge'ez script",
+   "aliases": [
+    "Ge'ez",
+    "Ethiopic",
+    "Ethiopic script",
+    "Fidel",
+    "Amharic script",
+    "Amharic",
+    "Ethiopian",
+    "Ethiopian script",
+    "Tigrinya"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tibetan script",
+   "aliases": [
+    "Tibetan",
+    "Tibetan alphabet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mongolian script",
+   "aliases": [
+    "Mongolian",
+    "Mongol script",
+    "Traditional Mongolian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Burmese script",
+   "aliases": [
+    "Burmese",
+    "Myanmar script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Khmer script",
+   "aliases": [
+    "Khmer",
+    "Khmer alphabet",
+    "Cambodian script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lao script",
+   "aliases": [
+    "Lao",
+    "Lao alphabet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tamil script",
+   "aliases": [
+    "Tamil"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Telugu script",
+   "aliases": [
+    "Telugu"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kannada script",
+   "aliases": [
+    "Kannada"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Malayalam script",
+   "aliases": [
+    "Malayalam"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bengali script",
+   "aliases": [
+    "Bengali",
+    "Bangla script",
+    "Bengali-Assamese script",
+    "Assamese",
+    "Assamese script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gujarati script",
+   "aliases": [
+    "Gujarati"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gurmukhi",
+   "aliases": [
+    "Gurmukhi script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sinhala script",
+   "aliases": [
+    "Sinhala",
+    "Sinhalese script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Armenian alphabet",
+   "aliases": [
+    "Armenian",
+    "Armenian script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Georgian alphabet",
+   "aliases": [
+    "Georgian",
+    "Georgian script",
+    "Mkhedruli",
+    "Asomtavruli",
+    "Nuskhuri"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Javanese script",
+   "aliases": [
+    "Javanese",
+    "Aksara Jawa",
+    "Hanacaraka"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Baybayin",
+   "aliases": [
+    "Alibata"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cherokee syllabary",
+   "aliases": [
+    "Cherokee",
+    "Cherokee script",
+    "Sequoyah syllabary",
+    "Sequoyan"
+   ],
+   "tier": 3,
+   "lore": "Sequoyah, who could not read or write, completed it in 1821. Within a few years thousands of Cherokee could read it."
+  },
+  {
+   "answer": "Canadian Aboriginal syllabics",
+   "aliases": [
+    "Cree syllabics",
+    "Inuktitut syllabics",
+    "Ojibwe syllabics",
+    "Syllabics",
+    "Inuktitut",
+    "Inuit syllabics"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tifinagh",
+   "aliases": [
+    "Tifinag",
+    "Berber script",
+    "Amazigh script",
+    "Neo-Tifinagh"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "N'Ko",
+   "tier": 3,
+   "lore": "Invented in 1949 by Solomana Kanté, stung by a claim that African languages could not be written."
+  },
+  {
+   "answer": "Indus script",
+   "aliases": [
+    "Harappan script",
+    "Indus"
+   ],
+   "tier": 3,
+   "lore": "Thousands of short inscriptions survive from the Indus Valley, and no one has deciphered them."
+  },
+  {
+   "answer": "Rongorongo",
+   "tier": 3,
+   "lore": "Carved on wooden tablets on Easter Island, and still undeciphered. Only about two dozen survive."
+  },
+  {
+   "answer": "Hieratic",
+   "tier": 3
+  },
+  {
+   "answer": "Demotic",
+   "tier": 3
+  },
+  {
+   "answer": "Kana",
+   "aliases": [
+    "Japanese syllabary",
+    "Furigana"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pinyin",
+   "aliases": [
+    "Hanyu Pinyin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "International Phonetic Alphabet",
+   "aliases": [
+    "IPA",
+    "Phonetic alphabet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Persian alphabet",
+   "aliases": [
+    "Persian",
+    "Persian script",
+    "Farsi alphabet",
+    "Farsi",
+    "Perso-Arabic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Urdu alphabet",
+   "aliases": [
+    "Urdu",
+    "Urdu script"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vietnamese alphabet",
+   "aliases": [
+    "Vietnamese",
+    "Vietnamese script",
+    "Chu Quoc Ngu",
+    "Quoc ngu"
+   ],
+   "tier": 3,
+   "lore": "Devised by Portuguese and French missionaries in the 1600s. It only became Vietnam's official script in the 20th century."
+  },
+  {
+   "answer": "Simplified Chinese",
+   "aliases": [
+    "Simplified Chinese characters"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Traditional Chinese",
+   "aliases": [
+    "Traditional Chinese characters"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pitman",
+   "aliases": [
+    "Pitman shorthand"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gregg",
+   "aliases": [
+    "Gregg shorthand"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Teeline",
+   "aliases": [
+    "Teeline shorthand"
+   ],
+   "tier": 3,
+   "lore": "The shorthand taught to British journalists, devised by James Hill in 1968."
+  },
+  {
+   "answer": "Cursive",
+   "aliases": [
+    "Joined-up writing",
+    "Joined-up handwriting",
+    "Cursive script",
+    "Cursive handwriting"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tengwar",
+   "aliases": [
+    "Elvish script",
+    "Elvish",
+    "Feanorian letters",
+    "Quenya",
+    "Sindarin"
+   ],
+   "tier": 3,
+   "lore": "Tolkien's Elvish letters. The inscription on the One Ring is written in them."
+  },
+  {
+   "answer": "Oracle bone script",
+   "aliases": [
+    "Oracle bones"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Younger Futhark",
+   "aliases": [
+    "Viking runes",
+    "Norse runes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Italic",
+   "aliases": [
+    "Old Italic script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Persian cuneiform",
+   "aliases": [
+    "Old Persian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ugaritic",
+   "aliases": [
+    "Ugaritic alphabet"
+   ],
+   "tier": 4,
+   "lore": "An alphabet of 30 letters, pressed into clay in cuneiform wedges over 3,000 years ago."
+  },
+  {
+   "answer": "Proto-Sinaitic",
+   "aliases": [
+    "Proto-Sinaitic script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Paleo-Hebrew",
+   "aliases": [
+    "Paleo-Hebrew alphabet",
+    "Old Hebrew script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Samaritan script",
+   "aliases": [
+    "Samaritan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nabataean",
+   "tier": 4
+  },
+  {
+   "answer": "Palmyrene",
+   "tier": 4
+  },
+  {
+   "answer": "South Arabian",
+   "aliases": [
+    "Musnad",
+    "Ancient South Arabian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Turkic",
+   "aliases": [
+    "Orkhon script",
+    "Orkhon",
+    "Turkic runes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Hungarian",
+   "aliases": [
+    "Rovas",
+    "Hungarian runes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Uyghur",
+   "aliases": [
+    "Old Uighur"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sogdian",
+   "tier": 4
+  },
+  {
+   "answer": "Pahlavi",
+   "tier": 4
+  },
+  {
+   "answer": "Avestan",
+   "tier": 4
+  },
+  {
+   "answer": "Manichaean",
+   "tier": 4
+  },
+  {
+   "answer": "Mandaic",
+   "tier": 4
+  },
+  {
+   "answer": "Manchu script",
+   "aliases": [
+    "Manchu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "'Phags-pa",
+   "tier": 4
+  },
+  {
+   "answer": "Tangut",
+   "aliases": [
+    "Tangut script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Khitan",
+   "aliases": [
+    "Khitan script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jurchen",
+   "aliases": [
+    "Jurchen script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kharosthi",
+   "aliases": [
+    "Kharoshthi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hanja",
+   "aliases": [
+    "Hanmun"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Romaji",
+   "aliases": [
+    "Romanji"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zhuyin",
+   "aliases": [
+    "Bopomofo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Man'yogana",
+   "tier": 4
+  },
+  {
+   "answer": "Thaana",
+   "aliases": [
+    "Dhivehi script",
+    "Dhivehi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Odia script",
+   "aliases": [
+    "Odia",
+    "Oriya",
+    "Oriya script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Meitei Mayek",
+   "aliases": [
+    "Manipuri script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ol Chiki",
+   "aliases": [
+    "Ol Cemet",
+    "Santali script",
+    "Santali"
+   ],
+   "tier": 4,
+   "lore": "Invented in 1925 by the poet Raghunath Murmu for the Santali language."
+  },
+  {
+   "answer": "Lontara",
+   "aliases": [
+    "Buginese script",
+    "Lontaraq"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Batak",
+   "aliases": [
+    "Batak script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Balinese script",
+   "aliases": [
+    "Balinese"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sundanese script",
+   "aliases": [
+    "Sundanese"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Grantha",
+   "aliases": [
+    "Grantha script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Siddham",
+   "aliases": [
+    "Siddhamatrika"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sharada",
+   "aliases": [
+    "Sarada"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tai Tham",
+   "aliases": [
+    "Lanna script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cham script",
+   "tier": 4
+  },
+  {
+   "answer": "Vai",
+   "aliases": [
+    "Vai syllabary"
+   ],
+   "tier": 4,
+   "lore": "Created in Liberia in the 1830s, one of the first scripts invented in modern Africa."
+  },
+  {
+   "answer": "Bamum",
+   "aliases": [
+    "Bamum script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Adlam",
+   "aliases": [
+    "Adlam script"
+   ],
+   "tier": 4,
+   "lore": "Invented in 1989 by two brothers in Guinea, aged 10 and 14, to write their Fula language."
+  },
+  {
+   "answer": "Osage script",
+   "aliases": [
+    "Osage"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yi script",
+   "aliases": [
+    "Yi syllabary"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dongba",
+   "aliases": [
+    "Dongba script",
+    "Naxi script"
+   ],
+   "tier": 4,
+   "lore": "The pictures-for-words script of the Naxi priests of Yunnan, often called the last living pictographic script."
+  },
+  {
+   "answer": "Cretan hieroglyphs",
+   "tier": 4
+  },
+  {
+   "answer": "Cypriot syllabary",
+   "aliases": [
+    "Cypriot script",
+    "Cypriot"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Linear Elamite",
+   "tier": 4,
+   "lore": "Found in Iran in the early 1900s, it went unread until a team led by François Desset announced its decipherment in 2022."
+  },
+  {
+   "answer": "Proto-Elamite",
+   "tier": 4
+  },
+  {
+   "answer": "Anatolian hieroglyphs",
+   "aliases": [
+    "Luwian hieroglyphs",
+    "Hittite hieroglyphs",
+    "Luwian",
+    "Hieroglyphic Luwian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Meroitic",
+   "aliases": [
+    "Meroitic script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iberian script",
+   "aliases": [
+    "Iberian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zapotec script",
+   "tier": 4
+  },
+  {
+   "answer": "Aztec script",
+   "aliases": [
+    "Aztec writing",
+    "Aztec glyphs",
+    "Nahuatl script",
+    "Aztec"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quipu",
+   "aliases": [
+    "Khipu"
+   ],
+   "tier": 4,
+   "lore": "Inca records kept in knotted cords. Whether they held words as well as numbers is still argued over."
+  },
+  {
+   "answer": "Nsibidi",
+   "aliases": [
+    "Nsibiri"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jawi",
+   "tier": 4
+  },
+  {
+   "answer": "Shahmukhi",
+   "tier": 4
+  },
+  {
+   "answer": "Moon type",
+   "aliases": [
+    "Moon",
+    "Moon alphabet"
+   ],
+   "tier": 4,
+   "lore": "Raised letters made from simple shapes, devised by William Moon in 1845 for those who lose their sight later in life."
+  },
+  {
+   "answer": "Blissymbols",
+   "aliases": [
+    "Blissymbolics",
+    "Bliss symbols",
+    "Bliss"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Initial Teaching Alphabet",
+   "aliases": [
+    "ITA"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Theban alphabet",
+   "aliases": [
+    "Theban",
+    "Witches' alphabet"
+   ],
+   "tier": 4,
+   "lore": "Known as the witches' alphabet. It first appeared in print in 1518."
+  },
+  {
+   "answer": "Deseret alphabet",
+   "aliases": [
+    "Deseret"
+   ],
+   "tier": 4,
+   "lore": "Promoted by Brigham Young in the 1850s as a new alphabet for the Mormon settlers of Utah."
+  },
+  {
+   "answer": "Shavian",
+   "aliases": [
+    "Shaw alphabet",
+    "Shavian alphabet"
+   ],
+   "tier": 4,
+   "lore": "Paid for by the will of George Bernard Shaw, who wanted English to have a sensible alphabet."
+  },
+  {
+   "answer": "Cirth",
+   "aliases": [
+    "Dwarvish runes",
+    "Angerthas",
+    "Dwarvish"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aurebesh",
+   "tier": 4
+  },
+  {
+   "answer": "Klingon script",
+   "aliases": [
+    "pIqaD",
+    "Klingon",
+    "Klingon alphabet"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gallifreyan",
+   "aliases": [
+    "Circular Gallifreyan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Blackletter",
+   "aliases": [
+    "Gothic script",
+    "Textura"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fraktur",
+   "tier": 4,
+   "lore": "Nazi Germany promoted it as truly German, then banned it in 1941, falsely calling it Jewish."
+  },
+  {
+   "answer": "Uncial",
+   "aliases": [
+    "Uncial script",
+    "Half-uncial"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Italic script",
+   "aliases": [
+    "Italic",
+    "Italic hand",
+    "Chancery hand",
+    "Chancery cursive"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kufic",
+   "aliases": [
+    "Kufic script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Copperplate",
+   "aliases": [
+    "Roundhand"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Seal script",
+   "aliases": [
+    "Small seal script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chu Nom",
+   "aliases": [
+    "Nom script"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ottoman Turkish alphabet",
+   "aliases": [
+    "Ottoman script",
+    "Ottoman Turkish script",
+    "Ottoman Turkish",
+    "Ottoman"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Medieval runes",
+   "tier": 5
+  },
+  {
+   "answer": "Dalecarlian runes",
+   "tier": 5
+  },
+  {
+   "answer": "Carian",
+   "tier": 5
+  },
+  {
+   "answer": "Lycian",
+   "tier": 5
+  },
+  {
+   "answer": "Lydian",
+   "tier": 5
+  },
+  {
+   "answer": "Phrygian",
+   "tier": 5
+  },
+  {
+   "answer": "Raetic",
+   "tier": 5
+  },
+  {
+   "answer": "Lepontic",
+   "tier": 5
+  },
+  {
+   "answer": "Camunic",
+   "tier": 5
+  },
+  {
+   "answer": "Old Permic",
+   "aliases": [
+    "Abur"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caucasian Albanian",
+   "tier": 5
+  },
+  {
+   "answer": "Elbasan",
+   "tier": 5
+  },
+  {
+   "answer": "Vithkuqi",
+   "tier": 5
+  },
+  {
+   "answer": "Old Nubian",
+   "aliases": [
+    "Old Nubian alphabet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hatran",
+   "tier": 5
+  },
+  {
+   "answer": "Ancient North Arabian",
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Canaanite",
+   "tier": 5
+  },
+  {
+   "answer": "Byblos syllabary",
+   "tier": 5
+  },
+  {
+   "answer": "Phaistos Disc",
+   "aliases": [
+    "Phaistos Disc script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cypro-Minoan",
+   "tier": 5
+  },
+  {
+   "answer": "Celtiberian script",
+   "tier": 5
+  },
+  {
+   "answer": "Tartessian script",
+   "aliases": [
+    "Tartessian",
+    "Southwest script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Isthmian script",
+   "aliases": [
+    "Epi-Olmec",
+    "Epi-Olmec script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mixtec writing",
+   "tier": 5
+  },
+  {
+   "answer": "Mi'kmaq hieroglyphs",
+   "aliases": [
+    "Mi'kmaw hieroglyphs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vinča symbols",
+   "aliases": [
+    "Vinča script",
+    "Danube script",
+    "Vinca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pictish symbols",
+   "aliases": [
+    "Pictish",
+    "Pictish stones"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Soyombo",
+   "tier": 5
+  },
+  {
+   "answer": "Zanabazar Square",
+   "tier": 5
+  },
+  {
+   "answer": "Gupta script",
+   "aliases": [
+    "Gupta"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kadamba",
+   "aliases": [
+    "Kadamba script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vatteluttu",
+   "aliases": [
+    "Vattezhuthu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Takri",
+   "tier": 5
+  },
+  {
+   "answer": "Modi",
+   "aliases": [
+    "Modi script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ranjana",
+   "tier": 5
+  },
+  {
+   "answer": "Tirhuta",
+   "aliases": [
+    "Mithilakshar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nandinagari",
+   "tier": 5
+  },
+  {
+   "answer": "Kaithi",
+   "aliases": [
+    "Kayathi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mahajani",
+   "tier": 5
+  },
+  {
+   "answer": "Khojki",
+   "tier": 5
+  },
+  {
+   "answer": "Khudawadi",
+   "tier": 5
+  },
+  {
+   "answer": "Dives Akuru",
+   "tier": 5
+  },
+  {
+   "answer": "Saurashtra",
+   "tier": 5
+  },
+  {
+   "answer": "Rejang",
+   "tier": 5
+  },
+  {
+   "answer": "Hanunoo",
+   "tier": 5
+  },
+  {
+   "answer": "Buhid",
+   "tier": 5
+  },
+  {
+   "answer": "Tagbanwa",
+   "tier": 5
+  },
+  {
+   "answer": "Kulitan",
+   "tier": 5
+  },
+  {
+   "answer": "Pollard script",
+   "aliases": [
+    "Pollard Miao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pahawh Hmong",
+   "aliases": [
+    "Pahawh"
+   ],
+   "tier": 5,
+   "lore": "Created in 1959 by Shong Lue Yang, a farmer who could not read. His followers call him the Mother of Writing."
+  },
+  {
+   "answer": "Fraser alphabet",
+   "aliases": [
+    "Lisu script",
+    "Old Lisu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "New Tai Lue",
+   "tier": 5
+  },
+  {
+   "answer": "Tai Le",
+   "tier": 5
+  },
+  {
+   "answer": "Tai Viet",
+   "tier": 5
+  },
+  {
+   "answer": "Ahom",
+   "aliases": [
+    "Ahom script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Limbu",
+   "aliases": [
+    "Limbu script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lepcha",
+   "aliases": [
+    "Lepcha script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chakma",
+   "aliases": [
+    "Chakma script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Syloti Nagri",
+   "aliases": [
+    "Sylheti Nagri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kayah Li",
+   "tier": 5
+  },
+  {
+   "answer": "Pau Cin Hau",
+   "tier": 5
+  },
+  {
+   "answer": "Bhaiksuki",
+   "tier": 5
+  },
+  {
+   "answer": "Marchen",
+   "tier": 5
+  },
+  {
+   "answer": "Mro",
+   "tier": 5
+  },
+  {
+   "answer": "Wancho",
+   "tier": 5
+  },
+  {
+   "answer": "Warang Citi",
+   "tier": 5
+  },
+  {
+   "answer": "Gunjala Gondi",
+   "tier": 5
+  },
+  {
+   "answer": "Masaram Gondi",
+   "tier": 5
+  },
+  {
+   "answer": "Dogra",
+   "tier": 5
+  },
+  {
+   "answer": "Sora Sompeng",
+   "tier": 5
+  },
+  {
+   "answer": "Tulu-Tigalari",
+   "tier": 5
+  },
+  {
+   "answer": "Mende Kikakui",
+   "aliases": [
+    "Kikakui",
+    "Mende",
+    "Mende script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bassa Vah",
+   "tier": 5
+  },
+  {
+   "answer": "Kpelle",
+   "tier": 5
+  },
+  {
+   "answer": "Garay",
+   "tier": 5
+  },
+  {
+   "answer": "Afaka",
+   "tier": 5
+  },
+  {
+   "answer": "Osmanya",
+   "aliases": [
+    "Somali script",
+    "Osmaniya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ajami",
+   "tier": 5
+  },
+  {
+   "answer": "Pegon",
+   "tier": 5
+  },
+  {
+   "answer": "Kawi",
+   "tier": 5
+  },
+  {
+   "answer": "Sawndip",
+   "aliases": [
+    "Zhuang characters"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shui script",
+   "tier": 5
+  },
+  {
+   "answer": "Hentaigana",
+   "tier": 5
+  },
+  {
+   "answer": "Wade-Giles",
+   "tier": 5
+  },
+  {
+   "answer": "Night writing",
+   "aliases": [
+    "Ecriture nocturne"
+   ],
+   "tier": 5,
+   "lore": "Raised dots meant to let soldiers read orders in the dark without a light. Braille grew from it."
+  },
+  {
+   "answer": "SignWriting",
+   "aliases": [
+    "Sutton SignWriting"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duployan",
+   "aliases": [
+    "Duployan shorthand"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Speedwriting",
+   "tier": 5
+  },
+  {
+   "answer": "Visible Speech",
+   "tier": 5
+  },
+  {
+   "answer": "Quikscript",
+   "tier": 5
+  },
+  {
+   "answer": "Unifon",
+   "tier": 5
+  },
+  {
+   "answer": "Malachim",
+   "tier": 5
+  },
+  {
+   "answer": "Celestial alphabet",
+   "tier": 5
+  },
+  {
+   "answer": "Passing the River",
+   "tier": 5
+  },
+  {
+   "answer": "Sarati",
+   "tier": 5
+  },
+  {
+   "answer": "Sitelen Pona",
+   "tier": 5
+  },
+  {
+   "answer": "Ditema",
+   "tier": 5
+  },
+  {
+   "answer": "Kryptonian",
+   "tier": 5
+  },
+  {
+   "answer": "Atlantean",
+   "tier": 5
+  },
+  {
+   "answer": "Dovahzul",
+   "tier": 5
+  },
+  {
+   "answer": "Hylian",
+   "tier": 5
+  },
+  {
+   "answer": "Daedric alphabet",
+   "aliases": [
+    "Daedric"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Voynich script",
+   "aliases": [
+    "Voynich",
+    "Voynichese",
+    "Voynich manuscript"
+   ],
+   "tier": 5,
+   "lore": "The writing of a manuscript carbon-dated to the early 1400s. No one has ever managed to read a word of it."
+  },
+  {
+   "answer": "Naskh",
+   "tier": 5
+  },
+  {
+   "answer": "Nastaliq",
+   "aliases": [
+    "Nastaleeq"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thuluth",
+   "tier": 5
+  },
+  {
+   "answer": "Diwani",
+   "tier": 5
+  },
+  {
+   "answer": "Ruq'ah",
+   "aliases": [
+    "Riq'a",
+    "Ruqa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maghrebi script",
+   "aliases": [
+    "Maghrebi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rashi script",
+   "aliases": [
+    "Rashi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rustic capitals",
+   "tier": 5
+  },
+  {
+   "answer": "Square capitals",
+   "aliases": [
+    "Roman square capitals",
+    "Capitalis monumentalis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carolingian minuscule",
+   "aliases": [
+    "Caroline minuscule",
+    "Carolingian",
+    "Carolingian script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Insular script",
+   "aliases": [
+    "Insular"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaelic type",
+   "aliases": [
+    "Gaelic script",
+    "Irish script",
+    "Cló Gaelach"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Secretary hand",
+   "aliases": [
+    "Secretary script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kurrent",
+   "aliases": [
+    "Kurrentschrift",
+    "German cursive"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sütterlin",
+   "aliases": [
+    "Suetterlin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spencerian script",
+   "aliases": [
+    "Spencerian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Clerical script",
+   "tier": 5
+  },
+  {
+   "answer": "Grass script",
+   "tier": 5
+  },
+  {
+   "answer": "Regular script",
+   "tier": 5
+  },
+  {
+   "answer": "Mon script",
+   "aliases": [
+    "Mon-Burmese script",
+    "Old Mon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uyghur Arabic alphabet",
+   "aliases": [
+    "Uyghur",
+    "Uyghur script",
+    "Uighur script",
+    "Uyghur alphabet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Standard Galactic Alphabet",
+   "aliases": [
+    "Enchanting table",
+    "Enchanting table language",
+    "Minecraft enchanting table",
+    "Galactic alphabet"
+   ],
+   "tier": 5,
+   "lore": "Made for the Commander Keen games in 1990. Minecraft players know it from the enchanting table."
+  },
+  {
+   "answer": "Alienese",
+   "tier": 5
+  },
+  {
+   "answer": "Sheikah script",
+   "aliases": [
+    "Sheikah",
+    "Sheikah alphabet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "D'ni script",
+   "aliases": [
+    "D'ni"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Running script",
+   "aliases": [
+    "Semi-cursive script",
+    "Xingshu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bronze script",
+   "aliases": [
+    "Bronze inscriptions",
+    "Jinwen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pallava",
+   "aliases": [
+    "Pallava script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makasar script",
+   "aliases": [
+    "Makasar",
+    "Old Makassarese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Landa",
+   "tier": 5
+  },
+  {
+   "answer": "Inscriptional Parthian",
+   "aliases": [
+    "Parthian",
+    "Parthian script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sorabe",
+   "tier": 5
+  },
+  {
+   "answer": "Aljamiado",
+   "tier": 5
+  },
+  {
+   "answer": "Xiao'erjing",
+   "tier": 5
+  },
+  {
+   "answer": "Mandombe",
+   "tier": 5
+  },
+  {
+   "answer": "Medefaidrin",
+   "tier": 5
+  },
+  {
+   "answer": "Libyco-Berber",
+   "aliases": [
+    "Libyco-Berber script",
+    "Old Libyan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Venetic",
+   "aliases": [
+    "Venetic alphabet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bosančica",
+   "aliases": [
+    "Bosnian Cyrillic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gabelsberger",
+   "aliases": [
+    "Gabelsberger shorthand"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stenotype",
+   "aliases": [
+    "Machine shorthand"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Palmer Method",
+   "tier": 5
+  },
+  {
+   "answer": "D'Nealian",
+   "tier": 5
+  },
+  {
+   "answer": "Court hand",
+   "tier": 5
+  },
+  {
+   "answer": "Beneventan",
+   "aliases": [
+    "Beneventan script"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Visigothic script",
+   "tier": 5
+  },
+  {
+   "answer": "Humanist minuscule",
+   "tier": 5
+  },
+  {
+   "answer": "Roman cursive",
+   "tier": 5
+  },
+  {
+   "answer": "Rotunda",
+   "tier": 5
+  },
+  {
+   "answer": "Schwabacher",
+   "tier": 5
+  },
+  {
+   "answer": "Solitreo",
+   "tier": 5
+  },
+  {
+   "answer": "Idu",
+   "tier": 5
+  },
+  {
+   "answer": "Jyutping",
+   "tier": 5
+  },
+  {
+   "answer": "Nüshu",
+   "aliases": [
+    "Women's script"
+   ],
+   "tier": 6,
+   "lore": "A script used only by women in one county of Hunan, China, to write to one another."
+  },
+  {
+   "answer": "Enochian",
+   "aliases": [
+    "Enochian alphabet",
+    "Angelic alphabet",
+    "Angelic script"
+   ],
+   "tier": 6,
+   "lore": "The language of angels, according to John Dee and Edward Kelley, who said spirits revealed it to them in the 1580s."
+  },
+  {
+   "answer": "Tironian notes",
+   "aliases": [
+    "Tironian",
+    "Notae Tironianae",
+    "Tironian shorthand"
+   ],
+   "tier": 6,
+   "lore": "Shorthand said to be invented by Tiro, Cicero's secretary. Its sign for 'and', ⁊, still appears on Irish road signs."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Alphabet",
+   "aliases": [
+    "Script",
+    "Writing",
+    "Letters",
+    "Abjad",
+    "Abugida",
+    "Syllabary",
+    "Logograms",
+    "Pictograms",
+    "Pictographs",
+    "Ideograms",
+    "Characters",
+    "Glyphs",
+    "Writing system"
+   ],
+   "reason": "Which one? Name a particular system."
+  },
+  {
+   "answer": "NATO alphabet",
+   "aliases": [
+    "NATO phonetic alphabet",
+    "Radio alphabet",
+    "Spelling alphabet",
+    "Military alphabet",
+    "Police alphabet",
+    "ICAO alphabet",
+    "Alpha Bravo Charlie"
+   ],
+   "reason": "A spelling alphabet for radios, not a way of writing."
+  },
+  {
+   "answer": "Morse code",
+   "aliases": [
+    "Morse",
+    "Semaphore",
+    "Flag semaphore",
+    "Tap code",
+    "Code",
+    "Smoke signals",
+    "Flag signals"
+   ],
+   "reason": "A code for sending messages, not a way of writing."
+  },
+  {
+   "answer": "Pigpen cipher",
+   "aliases": [
+    "Pigpen",
+    "Masonic cipher",
+    "Caesar cipher",
+    "Enigma",
+    "Cipher",
+    "Atbash",
+    "Vigenère cipher",
+    "Substitution cipher"
+   ],
+   "reason": "A cipher for hiding messages, not a way of writing."
+  },
+  {
+   "answer": "Binary",
+   "aliases": [
+    "Binary code",
+    "ASCII",
+    "Unicode",
+    "UTF-8",
+    "Barcode",
+    "QR code"
+   ],
+   "reason": "A code for machines, not a way of writing."
+  },
+  {
+   "answer": "Sign language",
+   "aliases": [
+    "British Sign Language",
+    "BSL",
+    "ASL",
+    "American Sign Language",
+    "Fingerspelling",
+    "Manual alphabet",
+    "Sign alphabet",
+    "Finger alphabet",
+    "Deaf alphabet"
+   ],
+   "reason": "Signed, not written."
+  },
+  {
+   "answer": "English",
+   "aliases": [
+    "French",
+    "German",
+    "Spanish",
+    "Italian",
+    "Portuguese",
+    "Dutch",
+    "Polish",
+    "Turkish",
+    "Swedish",
+    "Welsh",
+    "Esperanto",
+    "Toki Pona"
+   ],
+   "reason": "A language, written in the Latin alphabet."
+  },
+  {
+   "answer": "Mandarin",
+   "aliases": [
+    "Cantonese"
+   ],
+   "reason": "A spoken language. It is written in Chinese characters."
+  },
+  {
+   "answer": "Sanskrit",
+   "aliases": [
+    "Prakrit"
+   ],
+   "reason": "A language, written in many scripts over the centuries. Name one."
+  },
+  {
+   "answer": "Punjabi",
+   "aliases": [
+    "Panjabi",
+    "Hindustani",
+    "Serbian",
+    "Serbo-Croat"
+   ],
+   "reason": "A language written in two scripts. Name one."
+  },
+  {
+   "answer": "Times New Roman",
+   "aliases": [
+    "Arial",
+    "Helvetica",
+    "Comic Sans",
+    "Calibri",
+    "Wingdings",
+    "Garamond",
+    "Courier",
+    "Verdana",
+    "Futura",
+    "Gill Sans",
+    "Baskerville",
+    "Font",
+    "Typeface"
+   ],
+   "reason": "A typeface, not a writing system."
+  },
+  {
+   "answer": "Emoji",
+   "aliases": [
+    "Emojis",
+    "Emoticons"
+   ],
+   "reason": "Pictures, not a writing system. Not yet, anyway."
+  },
+  {
+   "answer": "Roman numerals",
+   "aliases": [
+    "Arabic numerals",
+    "Hindu-Arabic numerals",
+    "Numerals"
+   ],
+   "reason": "Numbers, not a way of writing words."
+  },
+  {
+   "answer": "Calligraphy",
+   "aliases": [
+    "Lettering",
+    "Penmanship"
+   ],
+   "reason": "The art of beautiful writing, not a system of it."
+  },
+  {
+   "answer": "Handwriting",
+   "aliases": [
+    "Print",
+    "Printing",
+    "Block capitals",
+    "Block letters"
+   ],
+   "reason": "Which one? Name a particular script or style."
+  },
+  {
+   "answer": "Capital letters",
+   "aliases": [
+    "Capitals",
+    "Upper case",
+    "Lower case",
+    "Small letters"
+   ],
+   "reason": "Letters of one case, not a writing system."
+  },
+  {
+   "answer": "Musical notation",
+   "aliases": [
+    "Sheet music",
+    "Staff notation",
+    "Tablature"
+   ],
+   "reason": "Writes down music, not words."
+  },
+  {
+   "answer": "Mirror writing",
+   "reason": "Ordinary letters reversed, as Leonardo wrote them."
+  },
+  {
+   "answer": "Graffiti",
+   "reason": "Writing on walls, not a system of writing."
+  },
+  {
+   "answer": "Makaton",
+   "reason": "Signs and picture symbols that go with speech, not a way of writing words."
+  },
+  {
+   "answer": "Leetspeak",
+   "aliases": [
+    "Leet",
+    "1337"
+   ],
+   "reason": "A playful disguise for the Latin alphabet, not a system of its own."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"writing-systems\" on 28 November 2026."
+}

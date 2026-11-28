@@ -1,0 +1,120 @@
+id: ethics-thought-experiments
+text: Name a famous thought experiment or moral dilemma.
+flavor: None of it ever happened. People have argued for centuries about what to do in it anyway.
+rules: Any imagined scenario, puzzle or dilemma that thinkers use to test an idea, in ethics, philosophy, science or economics.
+section: Moral reasoning
+---
+1 Trolley problem | Trolley dilemma | The trolley problem | Trolley | Runaway trolley | Tram problem | Train problem | Runaway tram
+1 Schrödinger's cat | Schrodinger's cat | Schrodingers cat | Schroedinger's cat | The cat in the box
+1 Prisoner's dilemma | Prisoners dilemma | Prisoners' dilemma | The prisoner's dilemma
+2 Ship of Theseus | Theseus's ship | Theseus' ship | Theseus paradox | Grandfather's axe | Trigger's broom | Theseus
+2 Plato's cave | Allegory of the cave | The cave | Plato's allegory of the cave | Myth of the cave
+2 Veil of ignorance | Original position | Rawls's veil | Rawls' veil of ignorance | Rawls veil
+2 Tragedy of the commons | The commons
+2 Brain in a vat | Brain in a jar | Brains in vats
+2 Chicken or the egg | Chicken and egg | Chicken and the egg | Which came first
+2 If a tree falls in a forest | Tree falling in the forest | Tree in the forest | If a tree falls
+2 Turing test | Imitation game
+2 Grandfather paradox | Killing your grandfather | Killing Hitler | Baby Hitler
+2 Infinite monkey theorem | Infinite monkeys | Monkeys and typewriters | Monkey at a typewriter
+2 Simulation argument | Simulation hypothesis | Simulation theory | Are we living in a simulation
+2 Sophie's choice | Sophies choice
+2 Lifeboat dilemma | Lifeboat | Lifeboat ethics | Overcrowded lifeboat
+3 Experience machine | Nozick's experience machine | Pleasure machine
+3 Chinese room | Searle's Chinese room | Chinese room argument
+3 Ring of Gyges | Gyges | Gyges' ring | Invisibility ring
+3 Fat man | Footbridge dilemma | Fat man on the bridge | Footbridge | Push the fat man
+3 Transplant surgeon | Transplant problem | Organ harvest | Surgeon's dilemma | Transplant | Five patients
+3 Drowning child | Shallow pond | Singer's pond | Singer's drowning child | Child in the pond
+3 Violinist | Famous violinist | Thomson's violinist | The violinist
+3 Heinz dilemma | Heinz's dilemma | Heinz
+3 Ticking time bomb | Ticking bomb | Time bomb scenario | Ticking time bomb scenario
+3 Utility monster
+3 Pascal's wager | Pascals wager | Pascal's gamble
+3 Zeno's paradox | Achilles and the tortoise | Zeno's paradoxes | Zeno's arrow | Dichotomy paradox | Arrow paradox | Zeno
+3 Maxwell's demon | Maxwells demon
+3 Laplace's demon | Laplaces demon
+3 Twin paradox | Twins paradox
+3 Buridan's ass | Buridan's donkey | Buridans ass
+3 Monty Hall problem | Monty Hall
+3 Philosophical zombie | P-zombie | Zombie argument | Zombies | Philosophical zombies
+3 Mary's room | Mary the colour scientist | Knowledge argument | Mary the color scientist | Black and white room
+3 Teletransporter | Teleporter problem | Teletransportation paradox | Transporter problem | Teleportation paradox
+3 Evil demon | Cartesian demon | Descartes' demon | Evil genius | Deceiving demon
+3 Butterfly dream | Zhuangzi's butterfly | Chuang Tzu's butterfly
+3 Russell's teapot | Celestial teapot
+3 Roko's basilisk | Rokos basilisk
+3 Paperclip maximiser | Paperclip maximizer | Paperclip problem
+3 Sorites paradox | Paradox of the heap | The heap
+3 Omelas | The Ones Who Walk Away from Omelas | Child of Omelas
+3 Murderer at the door | Inquiring murderer | Axe murderer at the door | Kant's axe murderer
+3 Stag hunt
+3 Chicken | Game of chicken | Hawk-dove
+3 Ultimatum game | Dictator game
+3 State of nature
+3 Desert island | Desert island promise
+3 Hilbert's hotel | Infinite hotel | Hilbert's Grand Hotel
+3 Fermi paradox
+3 Liar paradox | Liar's paradox | Epimenides paradox
+3 Bootstrap paradox
+3 Twin Earth
+3 Swampman | Swamp man
+3 Inverted spectrum | Is my red your red
+3 Beetle in a box | Wittgenstein's beetle
+3 What is it like to be a bat | Nagel's bat
+3 Molyneux's problem | Molyneux problem
+3 Newcomb's problem | Newcomb's paradox
+3 Sleeping Beauty problem | Sleeping Beauty
+3 St Petersburg paradox
+3 Repugnant conclusion | Mere addition paradox
+3 Survival lottery
+3 Moral luck | Drunk drivers
+3 Wilt Chamberlain argument | Wilt Chamberlain
+3 Einstein's elevator | Elevator thought experiment | Einstein's lift
+3 Einstein's train | Train and lightning | Relativity of simultaneity
+3 Newton's cannonball | Newton's cannon
+3 Galileo's ship
+3 Galileo's falling bodies | Leaning Tower of Pisa experiment | Falling bodies
+3 EPR paradox | Einstein-Podolsky-Rosen | EPR
+3 Wigner's friend
+3 Quantum suicide | Quantum immortality
+3 Barn door paradox | Ladder paradox | Pole and barn
+3 Bell's spaceship paradox | Bell's spaceships
+3 Boltzmann brain | Boltzmann brains
+3 Unexpected hanging | Surprise examination | Unexpected hanging paradox
+3 Two envelopes problem | Two envelopes
+3 Barber paradox | Russell's paradox
+3 Omnipotence paradox | Can God make a stone he cannot lift | Paradox of the stone
+3 Dream argument
+3 Invisible gardener
+3 Watchmaker analogy | Paley's watch | Watchmaker
+3 Infinite regress | Turtles all the way down
+3 Free rider problem
+3 Cake cutting | I cut, you choose
+4 Parfit's hitchhiker
+4 Kavka's toxin | Toxin puzzle
+4 Jim and the Indians | Jim and the natives
+4 George the chemist
+4 Gauguin problem | Gauguin
+4 Floating man | Avicenna's floating man | Flying man
+4 Lucretius' spear | Lucretius's spear | Spear at the edge of the universe
+4 Spider in the urinal
+4 Mignonette | Speluncean explorers | Case of the Speluncean Explorers
+4 Frankfurt cases | Frankfurt case
+4 Gettier problem | Gettier cases | Gettier case
+4 Fake barn country | Fake barns
+4 Chinese nation | China brain
+4 Trolley loop | Loop case | Trapdoor case
+4 Rescue dilemma | Taurek's rescue | Should the numbers count
+4 Tunnel problem | Self-driving car dilemma | Moral machine
+4 Pascal's mugging
+4 Doomsday argument
+4 Hempel's ravens | Raven paradox
+4 Grue | New riddle of induction
+4 People seeds
+4 Burning building | Embryos or child | Fertility clinic fire
+4 Nearest and dearest | Fénelon and the chambermaid | Archbishop and the chambermaid
+6 Last man argument | Last man | Last person argument | Last man on Earth :: Australian philosopher Richard Routley asked in 1973: if the last person alive destroys every living thing, has he done wrong? It helped found environmental ethics.
+6 Plank of Carneades | Carneades' plank | Carneades plank :: Two shipwrecked sailors, one plank that holds one. Carneades of Cyrene asked, over 2,000 years ago, whether pushing the other man off is murder.
+x Paradox | Dilemma | Thought experiment | Hypothetical | What if | Ethics | Philosophy | Question :: Which one? Give it its name.
+x Milgram experiment | Stanford prison experiment | Marshmallow test | Pavlov's dog | Pavlov's dogs | Asch experiment | Little Albert :: That one was really carried out, sometimes regrettably. Name one that lives only in the mind.

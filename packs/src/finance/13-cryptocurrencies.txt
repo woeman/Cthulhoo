@@ -1,0 +1,241 @@
+id: finance-cryptocurrencies
+text: Name a cryptocurrency.
+flavor: Coins minted from nothing but arithmetic and belief. The older gods find this very familiar.
+rules: Any cryptocurrency or crypto token, living or dead, by name or by ticker. Exchanges and wallets are not coins.
+section: Markets
+---
+1 Bitcoin | BTC | XBT | Bit coin
+1 Ethereum | ETH | Ether | Etherium
+1 Dogecoin | DOGE | Doge | Doge coin
+2 Solana | SOL
+2 XRP | Ripple
+2 Tether | USDT
+2 Cardano | ADA
+2 Litecoin | LTC
+2 BNB | Binance Coin | Binance | Binance Smart Chain
+2 Shiba Inu | SHIB | Shiba | Shib coin
+2 USD Coin | USDC
+2 Bitcoin Cash | BCH | Bcash
+2 Trump coin | TRUMP | $TRUMP | Official Trump
+3 Polkadot | DOT
+3 Chainlink | LINK
+3 Avalanche | AVAX
+3 Polygon | MATIC | POL
+3 Monero | XMR
+3 Stellar | XLM | Stellar Lumens | Lumens
+3 Tron | TRX | TRON
+3 Uniswap | UNI
+3 Cosmos | ATOM
+3 Algorand | ALGO
+3 Luna | Terra | LUNA | Terra Luna | TerraUSD | UST | Luna Classic | LUNC
+3 Pepe | PEPE | Pepe coin
+3 Toncoin | TON | Telegram Open Network
+3 Ethereum Classic | ETC
+3 Filecoin | FIL
+3 VeChain | VET
+3 Hedera | HBAR | Hedera Hashgraph
+3 Near | NEAR | NEAR Protocol
+3 Aptos | APT
+3 Sui | SUI
+3 Arbitrum | ARB
+3 Optimism | OP
+3 Dai | DAI
+3 Zcash | ZEC
+3 Dash | DASH
+3 EOS
+3 IOTA | MIOTA
+3 Tezos | XTZ
+3 Aave | AAVE
+3 Maker | MKR | MakerDAO
+3 The Graph | GRT
+3 Decentraland | MANA
+3 The Sandbox | SAND
+3 Axie Infinity | AXS
+3 ApeCoin | APE
+3 Bonk | BONK
+3 Dogwifhat | WIF
+3 Floki | FLOKI | Floki Inu
+3 SafeMoon | Safemoon
+3 FTX Token | FTT
+3 Worldcoin | WLD | World
+3 Hyperliquid | HYPE
+3 Render | RNDR | RENDER
+3 Internet Computer | ICP
+3 Fantom | FTM | Sonic
+3 Kaspa | KAS
+3 Bittensor | TAO
+3 Injective | INJ
+3 Stacks | STX
+3 Immutable | IMX | Immutable X
+3 Cronos | CRO | Crypto.com Coin
+3 Wrapped Bitcoin | WBTC
+3 Lido | LDO | stETH | Staked Ether | Lido Staked Ether
+3 Bitcoin SV | BSV | Bitcoin Satoshi Vision
+3 NEO | Neo | Antshares
+3 Nano | XNO | RaiBlocks
+3 Theta | THETA
+3 Chiliz | CHZ
+3 Basic Attention Token | BAT
+3 Helium | HNT
+3 PancakeSwap | CAKE
+3 SushiSwap | SUSHI
+3 Curve | CRV | Curve DAO
+3 Compound | COMP
+3 Synthetix | SNX
+3 Thorchain | RUNE | THORChain
+3 Celestia | TIA
+3 Sei | SEI
+3 Jupiter | JUP
+3 Pyth | PYTH
+3 Ethena | ENA | USDe
+3 Ondo | ONDO
+3 Pi | Pi Network | Pi coin
+3 Melania coin | MELANIA | $MELANIA
+3 Libra | Diem | Facebook Libra
+3 Binance USD | BUSD
+3 PayPal USD | PYUSD
+3 Pax Gold | PAXG
+3 Tether Gold | XAUT
+4 Kusama | KSM
+4 Zilliqa | ZIL
+4 Qtum | QTUM
+4 Waves | WAVES
+4 Ontology | ONT
+4 ICON | ICX
+4 Ravencoin | RVN
+4 Decred | DCR
+4 Horizen | ZEN | ZenCash
+4 Siacoin | SC | Sia
+4 Arweave | AR
+4 Storj | STORJ
+4 Golem | GLM | GNT
+4 Augur | REP
+4 0x | ZRX
+4 Loopring | LRC
+4 Enjin | ENJ | Enjin Coin
+4 Gala | GALA
+4 Flow | FLOW
+4 Harmony | ONE
+4 Elrond | EGLD | MultiversX
+4 Kava | KAVA
+4 Osmosis | OSMO
+4 Celo | CELO
+4 Mina | MINA
+4 Oasis | ROSE
+4 Secret | SCRT
+4 Fetch.ai | FET | Artificial Superintelligence Alliance
+4 SingularityNET | AGIX
+4 Ocean Protocol | OCEAN
+4 Akash | AKT
+4 Livepeer | LPT
+4 Ankr | ANKR
+4 Band Protocol | BAND
+4 API3
+4 Balancer | BAL
+4 Yearn Finance | YFI | yearn.finance
+4 1inch | 1INCH
+4 dYdX | DYDX
+4 GMX
+4 Rocket Pool | RPL | rETH
+4 Frax | FRAX | FXS
+4 TrueUSD | TUSD
+4 Pax Dollar | USDP | Paxos Standard
+4 Gemini Dollar | GUSD
+4 First Digital USD | FDUSD
+4 Nexo | NEXO
+4 Celsius | CEL
+4 Voyager Token | VGX
+4 OKB
+4 KuCoin Token | KCS
+4 Huobi Token | HT
+4 Bitget Token | BGB
+4 LEO | UNUS SED LEO
+4 Mantle | MNT
+4 Starknet | STRK
+4 zkSync | ZK
+4 Blast | BLAST
+4 Ronin | RON
+4 Stepn | GMT | STEPN
+4 Smooth Love Potion | SLP
+4 Illuvium | ILV
+4 Mog Coin | MOG
+4 Brett | BRETT
+4 Popcat | POPCAT
+4 Fartcoin | FARTCOIN
+4 Book of Meme | BOME
+4 Turbo | TURBO
+4 Baby Doge | BabyDoge | Baby Doge Coin
+4 Dogelon Mars | ELON
+4 Squid Game token | SQUID | Squid coin
+4 Hawk Tuah coin | HAWK | Hawk Tuah
+4 Bitcoin Gold | BTG
+4 Bitcoin Diamond | BCD
+4 eCash | XEC
+4 Verge | XVG
+4 Digibyte | DGB | DigiByte
+4 Syscoin | SYS
+4 Komodo | KMD
+4 Lisk | LSK
+4 Stratis | STRAX
+4 Ardor | ARDR
+4 NXT | Nxt
+4 BitShares | BTS
+4 Steem | STEEM
+4 Hive | HIVE
+4 Status | SNT
+4 OmiseGO | OMG | OMG Network
+4 Power Ledger | POWR
+4 Bancor | BNT
+4 Kyber | KNC | Kyber Network
+4 Civic | CVC
+4 TenX | PAY
+4 Bytecoin | BCN
+4 Electroneum | ETN
+4 Grin | GRIN
+4 Beam | BEAM
+4 Pirate Chain | ARRR
+4 Firo | Zcoin | FIRO
+4 Chia | XCH
+4 Flare | FLR
+4 Songbird | SGB
+4 XDC | XDC Network | XinFin
+4 Quant | QNT
+4 Casper | CSPR
+4 Conflux | CFX
+4 Klaytn | KLAY | Kaia
+4 WAX | WAXP
+4 Telos | TLOS
+4 Nervos | CKB
+4 Moonbeam | GLMR
+4 Astar | ASTR
+4 Bitconnect | BCC | BitConnect
+4 OneCoin | Onecoin
+4 Dentacoin
+4 Potcoin | PotCoin
+4 Garlicoin
+4 Unobtanium
+6 Namecoin | NMC :: Launched in April 2011 as the first fork of Bitcoin's code, to run a domain-name system no government could seize.
+5 Peercoin | PPC | PPCoin
+5 Primecoin | XPM
+5 Feathercoin | FTC
+5 Novacoin
+5 Terracoin
+5 Freicoin
+5 Mastercoin | Omni | Omni Layer
+5 Counterparty | XCP
+5 Vertcoin | VTC
+5 Auroracoin | AUR
+5 Blackcoin
+5 Gridcoin | GRC
+5 Dogeparty
+6 Coinye | Coinye West :: A 2014 coin with a cartoon of Kanye West as its mascot. His lawyers sued within days, and its makers abandoned it.
+5 Paycoin
+5 e-gold | E-gold | Egold
+5 DigiCash
+6 B-money | Bmoney :: Wei Dai's 1998 proposal for anonymous digital cash. It is the first reference cited in Satoshi Nakamoto's Bitcoin paper.
+5 Hashcash
+5 Bit gold | Bit Gold
+x Coinbase | Kraken | FTX | CoinSpot | Swyftx | BTC Markets | Crypto.com | Independent Reserve | Mt Gox | Gemini | OKX | Bybit | KuCoin | eToro | Robinhood :: An exchange where coins are traded, not a coin.
+x MetaMask | Ledger | Trezor | Phantom | Trust Wallet | Wallet :: A wallet for holding coins, not a coin.
+x Blockchain | NFT | NFTs | Crypto | Cryptocurrency | Coin | Token | Altcoin | Stablecoin | Memecoin | DeFi | Web3 | Mining | Bored Ape | Bored Ape Yacht Club | CryptoPunks :: Part of the crypto scene, but not the name of a coin.
+x Dollar | US dollar | Euro | Pound | Yen | AUD | Australian dollar | Gold | eAUD | Digital yuan | e-CNY :: Money issued by a government, or a metal. Name a cryptocurrency.

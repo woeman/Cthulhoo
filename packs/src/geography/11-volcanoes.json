@@ -1,0 +1,3524 @@
+{
+ "id": "geography-volcanoes",
+ "text": "Name a volcano.",
+ "category": "geography",
+ "flavor": "Where the fire under the world breaks through. Some of them are only sleeping.",
+ "rules": "Any named volcano, active, dormant or long extinct, on land, under the sea or on another world. Saying 'Mount' or 'Volcano' is optional. A mountain that was never a volcano doesn't count.",
+ "answers": [
+  {
+   "answer": "Vesuvius",
+   "aliases": [
+    "Vesuvio",
+    "Mount Vesuvius",
+    "Vesuvius Volcano"
+   ],
+   "tier": 1,
+   "lore": "It buried Pompeii and Herculaneum in AD 79. It last erupted in 1944."
+  },
+  {
+   "answer": "Etna",
+   "aliases": [
+    "Mongibello",
+    "Mount Etna",
+    "Etna Volcano"
+   ],
+   "tier": 1,
+   "lore": "The tallest active volcano in Europe outside the Caucasus, and one of the busiest on Earth."
+  },
+  {
+   "answer": "Mount Fuji",
+   "aliases": [
+    "Fujiyama",
+    "Fuji-san",
+    "Fuji Volcano",
+    "Fuji"
+   ],
+   "tier": 1,
+   "lore": "It last erupted in 1707, and pilgrims have climbed it for centuries."
+  },
+  {
+   "answer": "Krakatoa",
+   "aliases": [
+    "Krakatau",
+    "Mount Krakatoa",
+    "Krakatoa Volcano"
+   ],
+   "tier": 1,
+   "lore": "Its 1883 eruption was heard nearly 5,000 km away, perhaps the loudest sound in recorded history."
+  },
+  {
+   "answer": "Mount St. Helens",
+   "aliases": [
+    "Mount Saint Helens",
+    "Saint Helens",
+    "Saint Helen",
+    "St. Helens Volcano",
+    "St. Helens"
+   ],
+   "tier": 1,
+   "lore": "Its 1980 eruption tore about 400 m off the top of the mountain."
+  },
+  {
+   "answer": "Kilimanjaro",
+   "aliases": [
+    "Kibo",
+    "Mawenzi",
+    "Shira",
+    "Mount Kilimanjaro",
+    "Kilimanjaro Volcano"
+   ],
+   "tier": 2,
+   "lore": "Africa's highest mountain, and a dormant volcano."
+  },
+  {
+   "answer": "Yellowstone",
+   "aliases": [
+    "Yellowstone Caldera",
+    "Yellowstone Supervolcano",
+    "Mount Yellowstone",
+    "Yellowstone Volcano"
+   ],
+   "tier": 2,
+   "lore": "A supervolcano beneath the world's first national park, founded in 1872."
+  },
+  {
+   "answer": "Eyjafjallajökull",
+   "aliases": [
+    "Eyjafjalla",
+    "Mount Eyjafjallajökull",
+    "Eyjafjallajökull Volcano"
+   ],
+   "tier": 2,
+   "lore": "Its ash closed much of Europe's airspace for days in April 2010."
+  },
+  {
+   "answer": "Stromboli",
+   "aliases": [
+    "Mount Stromboli",
+    "Stromboli Volcano"
+   ],
+   "tier": 2,
+   "lore": "Erupting almost without pause for over 2,000 years, it is called the Lighthouse of the Mediterranean."
+  },
+  {
+   "answer": "Mauna Loa",
+   "tier": 2,
+   "lore": "The largest active volcano on Earth by volume."
+  },
+  {
+   "answer": "Kīlauea",
+   "aliases": [
+    "Halemaʻumaʻu",
+    "Puʻu ʻŌʻō",
+    "Mauna Ulu",
+    "Mount Kīlauea",
+    "Kīlauea Volcano"
+   ],
+   "tier": 2,
+   "lore": "Hawaiian tradition says the goddess Pele makes her home in its crater."
+  },
+  {
+   "answer": "Pinatubo",
+   "aliases": [
+    "Mount Pinatubo",
+    "Pinatubo Volcano"
+   ],
+   "tier": 2,
+   "lore": "Its 1991 eruption cooled the whole planet by about half a degree for a year or so."
+  },
+  {
+   "answer": "Popocatépetl",
+   "aliases": [
+    "Popo",
+    "El Popo",
+    "Mount Popocatépetl",
+    "Popocatépetl Volcano"
+   ],
+   "tier": 2,
+   "lore": "Its name means 'smoking mountain' in Nahuatl."
+  },
+  {
+   "answer": "Santorini",
+   "aliases": [
+    "Thera",
+    "Santorini Caldera",
+    "Nea Kameni",
+    "Mount Santorini",
+    "Santorini Volcano"
+   ],
+   "tier": 2,
+   "lore": "Its Bronze Age eruption may have helped bring down the Minoans, and is sometimes linked to Atlantis."
+  },
+  {
+   "answer": "Teide",
+   "aliases": [
+    "Pico del Teide",
+    "El Teide",
+    "Mount Teide",
+    "Teide Volcano"
+   ],
+   "tier": 2,
+   "lore": "Spain's highest mountain, on Tenerife."
+  },
+  {
+   "answer": "Olympus Mons",
+   "aliases": [
+    "Nix Olympica"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "A volcano on Mars about two and a half times the height of Everest."
+  },
+  {
+   "answer": "Mauna Kea",
+   "tier": 2,
+   "lore": "Measured from its base on the sea floor, it is taller than Everest."
+  },
+  {
+   "answer": "Tambora",
+   "aliases": [
+    "Mount Tambora",
+    "Tambora Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its 1815 eruption, the largest in recorded history, brought the Year Without a Summer in 1816."
+  },
+  {
+   "answer": "Hekla",
+   "aliases": [
+    "Mount Hekla",
+    "Hekla Volcano"
+   ],
+   "tier": 3,
+   "lore": "In medieval Europe it was said to be a gateway to hell."
+  },
+  {
+   "answer": "Mount Pelée",
+   "aliases": [
+    "Montagne Pelée",
+    "Mont Pelée",
+    "Mount Pele",
+    "Pelée Volcano",
+    "Pelée"
+   ],
+   "tier": 3,
+   "lore": "Its 1902 eruption destroyed the town of Saint-Pierre in minutes, killing almost everyone in it."
+  },
+  {
+   "answer": "Mount Erebus",
+   "aliases": [
+    "Erebus Volcano",
+    "Erebus"
+   ],
+   "tier": 3,
+   "lore": "The southernmost active volcano on Earth, with a lake of lava in its crater."
+  },
+  {
+   "answer": "Cotopaxi",
+   "aliases": [
+    "Mount Cotopaxi",
+    "Cotopaxi Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Rainier",
+   "aliases": [
+    "Tahoma",
+    "Rainier Volcano",
+    "Rainier"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Kenya",
+   "aliases": [
+    "Kirinyaga",
+    "Kenya Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Ararat",
+   "aliases": [
+    "Ağrı Dağı",
+    "Masis",
+    "Ararat Volcano",
+    "Ararat"
+   ],
+   "tier": 3,
+   "lore": "A dormant volcano, where legend says Noah's Ark came to rest."
+  },
+  {
+   "answer": "Mount Elbrus",
+   "aliases": [
+    "Elbrus Volcano",
+    "Elbrus"
+   ],
+   "tier": 3,
+   "lore": "A dormant volcano, and the highest mountain in Europe by most counts."
+  },
+  {
+   "answer": "Mount Taranaki",
+   "aliases": [
+    "Taranaki Maunga",
+    "Mount Egmont",
+    "Egmont",
+    "Taranaki Volcano",
+    "Taranaki"
+   ],
+   "tier": 3,
+   "lore": "A 2025 law made it and its neighbouring peaks a legal person. Its official name is now Taranaki Maunga."
+  },
+  {
+   "answer": "Ruapehu",
+   "aliases": [
+    "Mount Ruapehu",
+    "Ruapehu Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tongariro",
+   "aliases": [
+    "Mount Tongariro",
+    "Tongariro Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Whakaari",
+   "aliases": [
+    "White Island",
+    "Mount Whakaari",
+    "Whakaari Volcano"
+   ],
+   "tier": 3,
+   "lore": "Also called White Island. Its 2019 eruption killed 22 people visiting the crater."
+  },
+  {
+   "answer": "Hunga Tonga–Hunga Haʻapai",
+   "aliases": [
+    "Hunga Tonga",
+    "Hunga Haʻapai"
+   ],
+   "tier": 3,
+   "lore": "Its 2022 eruption was the largest explosion in the atmosphere ever recorded by modern instruments."
+  },
+  {
+   "answer": "Mount Agung",
+   "aliases": [
+    "Gunung Agung",
+    "Agung Volcano",
+    "Agung"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Merapi",
+   "aliases": [
+    "Gunung Merapi",
+    "Mount Merapi",
+    "Merapi Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Bromo",
+   "aliases": [
+    "Bromo Volcano",
+    "Bromo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mayon",
+   "aliases": [
+    "Mount Mayon",
+    "Mayon Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Taal",
+   "aliases": [
+    "Mount Taal",
+    "Taal Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sakurajima",
+   "aliases": [
+    "Mount Sakurajima",
+    "Sakurajima Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nyiragongo",
+   "aliases": [
+    "Mount Nyiragongo",
+    "Nyiragongo Volcano"
+   ],
+   "tier": 3,
+   "lore": "Home to one of the largest lava lakes on Earth."
+  },
+  {
+   "answer": "Mount Cameroon",
+   "aliases": [
+    "Cameroon Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Katla",
+   "aliases": [
+    "Mount Katla",
+    "Katla Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Laki",
+   "aliases": [
+    "Lakagígar",
+    "Laki Fissure",
+    "Mount Laki",
+    "Laki Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its 1783 eruption poisoned Iceland's livestock, and the famine that followed killed about a fifth of its people."
+  },
+  {
+   "answer": "Surtsey",
+   "aliases": [
+    "Mount Surtsey",
+    "Surtsey Volcano"
+   ],
+   "tier": 3,
+   "lore": "An island born from the sea in 1963, kept almost untouched so scientists can watch life arrive."
+  },
+  {
+   "answer": "Fagradalsfjall",
+   "aliases": [
+    "Geldingadalir",
+    "Litli-Hrútur",
+    "Meradalir",
+    "Mount Fagradalsfjall",
+    "Fagradalsfjall Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Grímsvötn",
+   "aliases": [
+    "Mount Grímsvötn",
+    "Grímsvötn Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vulcano",
+   "aliases": [
+    "Mount Vulcano",
+    "Vulcano Volcano"
+   ],
+   "tier": 3,
+   "lore": "The island that gave every volcano its name, after Vulcan, the Roman god of fire."
+  },
+  {
+   "answer": "Campi Flegrei",
+   "aliases": [
+    "Phlegraean Fields"
+   ],
+   "tier": 3,
+   "lore": "A vast caldera under the suburbs of Naples, where the ground rises and falls by metres."
+  },
+  {
+   "answer": "Cumbre Vieja",
+   "tier": 3,
+   "lore": "Its 2021 eruption on La Palma lasted 85 days and buried whole villages."
+  },
+  {
+   "answer": "Soufrière Hills",
+   "tier": 3
+  },
+  {
+   "answer": "La Soufrière",
+   "aliases": [
+    "Soufrière",
+    "La Grande Soufrière"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Parícutin",
+   "aliases": [
+    "Mount Parícutin",
+    "Parícutin Volcano"
+   ],
+   "tier": 3,
+   "lore": "Born in a Mexican cornfield in 1943, it grew more than 300 m in its first year."
+  },
+  {
+   "answer": "Pico de Orizaba",
+   "aliases": [
+    "Citlaltépetl",
+    "Orizaba"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Volcán de Fuego",
+   "aliases": [
+    "Fuego",
+    "Fuego Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arenal",
+   "aliases": [
+    "Mount Arenal",
+    "Arenal Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nevado del Ruiz",
+   "aliases": [
+    "Ruiz"
+   ],
+   "tier": 3,
+   "lore": "Its 1985 eruption sent mudflows that buried the town of Armero."
+  },
+  {
+   "answer": "Chimborazo",
+   "aliases": [
+    "Mount Chimborazo",
+    "Chimborazo Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its summit is the farthest point on Earth from the planet's centre."
+  },
+  {
+   "answer": "Mount Shasta",
+   "aliases": [
+    "Shasta Volcano",
+    "Shasta"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Hood",
+   "aliases": [
+    "Wy'east",
+    "Hood Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mount Mazama",
+   "aliases": [
+    "Crater Lake",
+    "Mazama Volcano",
+    "Mazama"
+   ],
+   "tier": 3,
+   "lore": "Its collapse about 7,700 years ago left the basin that now holds Crater Lake."
+  },
+  {
+   "answer": "Haleakalā",
+   "aliases": [
+    "Mount Haleakalā",
+    "Haleakalā Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its name means 'house of the sun'."
+  },
+  {
+   "answer": "Diamond Head",
+   "aliases": [
+    "Lēʻahi"
+   ],
+   "tier": 3,
+   "lore": "Named by British sailors who mistook the calcite crystals on its slopes for diamonds."
+  },
+  {
+   "answer": "Toba",
+   "aliases": [
+    "Lake Toba",
+    "Toba Caldera",
+    "Mount Toba",
+    "Toba Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its eruption about 74,000 years ago was one of the largest of the last two million years."
+  },
+  {
+   "answer": "Arthur's Seat",
+   "tier": 3,
+   "lore": "An extinct volcano in the middle of Edinburgh."
+  },
+  {
+   "answer": "Anak Krakatau",
+   "aliases": [
+    "Anak Krakatoa",
+    "Child of Krakatoa"
+   ],
+   "tier": 3,
+   "lore": "Its name means 'child of Krakatoa'. It rose from the sea in 1927."
+  },
+  {
+   "answer": "Lake Taupō",
+   "aliases": [
+    "Taupō",
+    "Taupō Volcano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ngorongoro",
+   "aliases": [
+    "Ngorongoro Crater",
+    "Mount Ngorongoro",
+    "Ngorongoro Volcano"
+   ],
+   "tier": 3,
+   "lore": "Its famous crater, crowded with wildlife, is the caldera of a great volcano that collapsed millions of years ago."
+  },
+  {
+   "answer": "Iztaccíhuatl",
+   "aliases": [
+    "Izta",
+    "Mount Iztaccíhuatl",
+    "Iztaccíhuatl Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Colima",
+   "aliases": [
+    "Volcán de Colima",
+    "Mount Colima",
+    "Colima Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pacaya",
+   "aliases": [
+    "Mount Pacaya",
+    "Pacaya Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Irazú",
+   "aliases": [
+    "Mount Irazú",
+    "Irazú Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Poás",
+   "aliases": [
+    "Mount Poás",
+    "Poás Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Masaya",
+   "aliases": [
+    "Mount Masaya",
+    "Masaya Volcano"
+   ],
+   "tier": 4,
+   "lore": "Spanish friars called it the mouth of hell, and planted a cross on its rim to keep the devil in."
+  },
+  {
+   "answer": "Tungurahua",
+   "aliases": [
+    "Mount Tungurahua",
+    "Tungurahua Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pichincha",
+   "aliases": [
+    "Guagua Pichincha",
+    "Mount Pichincha",
+    "Pichincha Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ojos del Salado",
+   "tier": 4,
+   "lore": "The highest volcano on Earth, on the border of Chile and Argentina."
+  },
+  {
+   "answer": "Llullaillaco",
+   "aliases": [
+    "Mount Llullaillaco",
+    "Llullaillaco Volcano"
+   ],
+   "tier": 4,
+   "lore": "Three Inca children, sacrificed some 500 years ago, were found near its summit in 1999."
+  },
+  {
+   "answer": "Villarrica",
+   "aliases": [
+    "Mount Villarrica",
+    "Villarrica Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Osorno",
+   "aliases": [
+    "Mount Osorno",
+    "Osorno Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "El Misti",
+   "aliases": [
+    "Misti"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Baker",
+   "aliases": [
+    "Koma Kulshan",
+    "Baker Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lassen Peak",
+   "aliases": [
+    "Mount Lassen",
+    "Lassen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Novarupta",
+   "aliases": [
+    "Mount Novarupta",
+    "Novarupta Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Katmai",
+   "aliases": [
+    "Katmai",
+    "Katmai Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Askja",
+   "aliases": [
+    "Mount Askja",
+    "Askja Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bárðarbunga",
+   "aliases": [
+    "Holuhraun",
+    "Mount Bárðarbunga",
+    "Bárðarbunga Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eldfell",
+   "aliases": [
+    "Mount Eldfell",
+    "Eldfell Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Snæfellsjökull",
+   "aliases": [
+    "Mount Snæfellsjökull",
+    "Snæfellsjökull Volcano"
+   ],
+   "tier": 4,
+   "lore": "Where Jules Verne's travellers set off on their Journey to the Centre of the Earth."
+  },
+  {
+   "answer": "Timanfaya",
+   "aliases": [
+    "Montañas del Fuego",
+    "Mountains of Fire",
+    "Mount Timanfaya",
+    "Timanfaya Volcano"
+   ],
+   "tier": 4,
+   "lore": "Its eruptions of 1730 to 1736 buried about a quarter of Lanzarote."
+  },
+  {
+   "answer": "Pico",
+   "aliases": [
+    "Ponta do Pico",
+    "Mount Pico",
+    "Pico Volcano"
+   ],
+   "tier": 4,
+   "lore": "Portugal's highest mountain, on an island in the Azores."
+  },
+  {
+   "answer": "Puy de Dôme",
+   "tier": 4,
+   "lore": "Blaise Pascal's brother-in-law carried a barometer up it in 1648 to show that air pressure falls with height."
+  },
+  {
+   "answer": "Chaîne des Puys",
+   "tier": 4
+  },
+  {
+   "answer": "Ngauruhoe",
+   "aliases": [
+    "Mount Ngauruhoe",
+    "Ngauruhoe Volcano"
+   ],
+   "tier": 4,
+   "lore": "It played Mount Doom in The Lord of the Rings films."
+  },
+  {
+   "answer": "Tarawera",
+   "aliases": [
+    "Mount Tarawera",
+    "Tarawera Volcano"
+   ],
+   "tier": 4,
+   "lore": "Its 1886 eruption destroyed the Pink and White Terraces, once called the eighth wonder of the world."
+  },
+  {
+   "answer": "Rangitoto",
+   "aliases": [
+    "Mount Rangitoto",
+    "Rangitoto Volcano"
+   ],
+   "tier": 4,
+   "lore": "Auckland's youngest volcano, risen from the sea about 600 years ago."
+  },
+  {
+   "answer": "Yasur",
+   "aliases": [
+    "Mount Yasur",
+    "Yasur Volcano"
+   ],
+   "tier": 4,
+   "lore": "Its glow drew Captain Cook ashore in 1774, and it has hardly stopped erupting since."
+  },
+  {
+   "answer": "Rabaul",
+   "aliases": [
+    "Mount Rabaul",
+    "Rabaul Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Semeru",
+   "aliases": [
+    "Mount Semeru",
+    "Semeru Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rinjani",
+   "aliases": [
+    "Mount Rinjani",
+    "Rinjani Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Batur",
+   "aliases": [
+    "Mount Batur",
+    "Batur Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ijen",
+   "aliases": [
+    "Mount Ijen",
+    "Ijen Volcano"
+   ],
+   "tier": 4,
+   "lore": "Famous for blue flames, from sulphur gas burning as it leaves the ground."
+  },
+  {
+   "answer": "Mount Apo",
+   "aliases": [
+    "Apo",
+    "Apo Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Paektu",
+   "aliases": [
+    "Paektusan",
+    "Changbai",
+    "Changbaishan",
+    "Baekdu",
+    "Baekdusan",
+    "Mount Paektu",
+    "Paektu Volcano"
+   ],
+   "tier": 4,
+   "lore": "The legendary birthplace of the Korean people, and the site of a huge eruption around AD 946."
+  },
+  {
+   "answer": "Hallasan",
+   "aliases": [
+    "Halla",
+    "Mount Halla",
+    "Mount Hallasan",
+    "Hallasan Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Klyuchevskaya Sopka",
+   "aliases": [
+    "Klyuchevskoy",
+    "Kliuchevskoi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Damavand",
+   "aliases": [
+    "Damavand Volcano",
+    "Damavand"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Kazbek",
+   "aliases": [
+    "Mkinvartsveri",
+    "Kazbek Volcano",
+    "Kazbek"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Erta Ale",
+   "tier": 4,
+   "lore": "Its name means 'smoking mountain' in the Afar language, and it held a lava lake for decades."
+  },
+  {
+   "answer": "Mount Meru",
+   "aliases": [
+    "Meru Volcano",
+    "Meru"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Piton de la Fournaise",
+   "aliases": [
+    "La Fournaise"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fogo",
+   "aliases": [
+    "Pico do Fogo",
+    "Mount Fogo",
+    "Fogo Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Asama",
+   "aliases": [
+    "Asamayama",
+    "Asama Volcano",
+    "Asama"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Aso",
+   "aliases": [
+    "Aso",
+    "Asosan",
+    "Aso Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Unzen",
+   "aliases": [
+    "Unzendake",
+    "Unzen Volcano",
+    "Unzen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Ontake",
+   "aliases": [
+    "Ontakesan",
+    "Ontake Volcano",
+    "Ontake"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Deception Island",
+   "tier": 4,
+   "lore": "A flooded caldera in Antarctica, where ships sail right into the crater."
+  },
+  {
+   "answer": "Monte Nuovo",
+   "tier": 4,
+   "lore": "Born in about a week in 1538, it is one of the youngest mountains in Europe."
+  },
+  {
+   "answer": "Marsili",
+   "aliases": [
+    "Marsili Seamount",
+    "Mount Marsili",
+    "Marsili Volcano"
+   ],
+   "tier": 4,
+   "lore": "The largest volcano in Europe, hidden under the Tyrrhenian Sea."
+  },
+  {
+   "answer": "Shiveluch",
+   "aliases": [
+    "Sheveluch",
+    "Mount Shiveluch",
+    "Shiveluch Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Avachinsky",
+   "aliases": [
+    "Avacha",
+    "Avachinskaya Sopka",
+    "Mount Avachinsky",
+    "Avachinsky Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sinabung",
+   "aliases": [
+    "Mount Sinabung",
+    "Sinabung Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kelud",
+   "aliases": [
+    "Kelut",
+    "Mount Kelud",
+    "Kelud Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nyamuragira",
+   "aliases": [
+    "Nyamulagira",
+    "Mount Nyamuragira",
+    "Nyamuragira Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Karthala",
+   "aliases": [
+    "Mount Karthala",
+    "Karthala Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Elgon",
+   "aliases": [
+    "Elgon Volcano",
+    "Elgon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Galeras",
+   "aliases": [
+    "Mount Galeras",
+    "Galeras Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Calbuco",
+   "aliases": [
+    "Mount Calbuco",
+    "Calbuco Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chaitén",
+   "aliases": [
+    "Mount Chaitén",
+    "Chaitén Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Láscar",
+   "aliases": [
+    "Mount Láscar",
+    "Láscar Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sangay",
+   "aliases": [
+    "Mount Sangay",
+    "Sangay Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Momotombo",
+   "aliases": [
+    "Mount Momotombo",
+    "Momotombo Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pantelleria",
+   "aliases": [
+    "Mount Pantelleria",
+    "Pantelleria Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Huaynaputina",
+   "aliases": [
+    "Mount Huaynaputina",
+    "Huaynaputina Volcano"
+   ],
+   "tier": 4,
+   "lore": "Its 1600 eruption, the largest in South America's recorded history, may have caused a famine in Russia."
+  },
+  {
+   "answer": "Krafla",
+   "aliases": [
+    "Mount Krafla",
+    "Krafla Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tavurvur",
+   "aliases": [
+    "Mount Tavurvur",
+    "Tavurvur Volcano"
+   ],
+   "tier": 4,
+   "lore": "With its neighbour Vulcan, it erupted in 1994 and buried much of the town of Rabaul in ash."
+  },
+  {
+   "answer": "Marapi",
+   "aliases": [
+    "Mount Marapi",
+    "Gunung Marapi",
+    "Marapi Volcano"
+   ],
+   "tier": 4,
+   "lore": "Sumatra's most active volcano, not to be confused with Java's Merapi. Its eruption in December 2023 killed 24 climbers."
+  },
+  {
+   "answer": "Kelimutu",
+   "aliases": [
+    "Mount Kelimutu",
+    "Kelimutu Volcano"
+   ],
+   "tier": 4,
+   "lore": "Its three crater lakes are different colours, and every so often they change."
+  },
+  {
+   "answer": "Hakone",
+   "aliases": [
+    "Mount Hakone",
+    "Hakone Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Acatenango",
+   "aliases": [
+    "Mount Acatenango",
+    "Acatenango Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Turrialba",
+   "aliases": [
+    "Mount Turrialba",
+    "Turrialba Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quilotoa",
+   "aliases": [
+    "Mount Quilotoa",
+    "Quilotoa Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Three Sisters",
+   "tier": 4
+  },
+  {
+   "answer": "Ischia",
+   "aliases": [
+    "Monte Epomeo",
+    "Epomeo",
+    "Mount Ischia",
+    "Ischia Volcano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Doom Mons",
+   "aliases": [
+    "Mount Doom"
+   ],
+   "tier": 4,
+   "lore": "A mountain on Saturn's moon Titan, thought to be an ice volcano, and named after Tolkien's Mount Doom."
+  },
+  {
+   "answer": "Cerro Negro",
+   "tier": 5
+  },
+  {
+   "answer": "Izalco",
+   "aliases": [
+    "Mount Izalco",
+    "Izalco Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Santa María",
+   "tier": 5
+  },
+  {
+   "answer": "El Chichón",
+   "aliases": [
+    "Chichonal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Volcán de Agua",
+   "tier": 5
+  },
+  {
+   "answer": "Puyehue",
+   "aliases": [
+    "Mount Puyehue",
+    "Puyehue Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Licancabur",
+   "aliases": [
+    "Mount Licancabur",
+    "Licancabur Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ubinas",
+   "aliases": [
+    "Mount Ubinas",
+    "Ubinas Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sabancaya",
+   "aliases": [
+    "Mount Sabancaya",
+    "Sabancaya Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Parinacota",
+   "aliases": [
+    "Mount Parinacota",
+    "Parinacota Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Adams",
+   "aliases": [
+    "Pahto",
+    "Adams Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Redoubt",
+   "aliases": [
+    "Redoubt Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Augustine Volcano",
+   "aliases": [
+    "Augustine",
+    "Mount Augustine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pavlof",
+   "aliases": [
+    "Mount Pavlof",
+    "Pavlof Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Spurr",
+   "aliases": [
+    "Spurr Volcano",
+    "Spurr"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hualālai",
+   "aliases": [
+    "Mount Hualālai",
+    "Hualālai Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Long Valley Caldera",
+   "aliases": [
+    "Long Valley"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Valles Caldera",
+   "tier": 5
+  },
+  {
+   "answer": "Sunset Crater",
+   "tier": 5
+  },
+  {
+   "answer": "Shiprock",
+   "aliases": [
+    "Mount Shiprock",
+    "Shiprock Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Garibaldi",
+   "aliases": [
+    "Garibaldi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monte Vulture",
+   "aliases": [
+    "Vulture"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nisyros",
+   "aliases": [
+    "Mount Nisyros",
+    "Nisyros Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Methana",
+   "aliases": [
+    "Mount Methana",
+    "Methana Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tajogaite",
+   "aliases": [
+    "Mount Tajogaite",
+    "Tajogaite Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Capelinhos",
+   "aliases": [
+    "Mount Capelinhos",
+    "Capelinhos Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sete Cidades",
+   "tier": 5
+  },
+  {
+   "answer": "Laacher See",
+   "tier": 5
+  },
+  {
+   "answer": "Beerenberg",
+   "aliases": [
+    "Mount Beerenberg",
+    "Beerenberg Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sundhnúkur",
+   "aliases": [
+    "Sundhnúksgígar",
+    "Svartsengi",
+    "Mount Sundhnúkur",
+    "Sundhnúkur Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Öræfajökull",
+   "aliases": [
+    "Mount Öræfajökull",
+    "Öræfajökull Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hengill",
+   "aliases": [
+    "Mount Hengill",
+    "Hengill Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Bandai",
+   "aliases": [
+    "Bandaisan",
+    "Bandai Volcano",
+    "Bandai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Usu",
+   "aliases": [
+    "Usu",
+    "Usuzan",
+    "Usu Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shōwa-shinzan",
+   "aliases": [
+    "Mount Shōwa-shinzan",
+    "Shōwa-shinzan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nishinoshima",
+   "aliases": [
+    "Mount Nishinoshima",
+    "Nishinoshima Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lewotobi",
+   "aliases": [
+    "Lewotobi Laki-laki",
+    "Mount Lewotobi",
+    "Lewotobi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ruang",
+   "aliases": [
+    "Mount Ruang",
+    "Ruang Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kanlaon",
+   "aliases": [
+    "Canlaon",
+    "Mount Kanlaon",
+    "Kanlaon Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hibok-Hibok",
+   "aliases": [
+    "Mount Hibok-Hibok",
+    "Hibok-Hibok Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bezymianny",
+   "aliases": [
+    "Mount Bezymianny",
+    "Bezymianny Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kronotsky",
+   "aliases": [
+    "Mount Kronotsky",
+    "Kronotsky Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tolbachik",
+   "aliases": [
+    "Mount Tolbachik",
+    "Tolbachik Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Barren Island",
+   "tier": 5
+  },
+  {
+   "answer": "Mount Popa",
+   "aliases": [
+    "Popa Volcano",
+    "Popa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Hasan",
+   "aliases": [
+    "Hasan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erciyes",
+   "aliases": [
+    "Argaeus",
+    "Mount Erciyes",
+    "Erciyes Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taftan",
+   "aliases": [
+    "Mount Taftan",
+    "Taftan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aragats",
+   "aliases": [
+    "Mount Aragats",
+    "Aragats Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Menengai",
+   "aliases": [
+    "Mount Menengai",
+    "Menengai Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Longonot",
+   "aliases": [
+    "Longonot Volcano",
+    "Longonot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dallol",
+   "aliases": [
+    "Mount Dallol",
+    "Dallol Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emi Koussi",
+   "tier": 5
+  },
+  {
+   "answer": "Jebel Marra",
+   "aliases": [
+    "Jebel Marrah"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tristan da Cunha",
+   "aliases": [
+    "Queen Mary's Peak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hayli Gubbi",
+   "tier": 5,
+   "lore": "Its eruption on 23 November 2025 was the first ever recorded. The ash cloud drifted as far as India and China."
+  },
+  {
+   "answer": "Maungawhau",
+   "aliases": [
+    "Mount Eden",
+    "Mount Maungawhau",
+    "Maungawhau Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ambrym",
+   "aliases": [
+    "Mount Ambrym",
+    "Ambrym Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Manam",
+   "aliases": [
+    "Mount Manam",
+    "Manam Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Lamington",
+   "aliases": [
+    "Lamington Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ulawun",
+   "aliases": [
+    "Mount Ulawun",
+    "Ulawun Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kavachi",
+   "aliases": [
+    "Sharkcano",
+    "Mount Kavachi",
+    "Kavachi Volcano"
+   ],
+   "tier": 5,
+   "lore": "An undersea volcano where sharks were found living inside the crater, which earned it the name Sharkcano."
+  },
+  {
+   "answer": "Mount Gambier",
+   "aliases": [
+    "Gambier Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wollumbin",
+   "aliases": [
+    "Mount Warning",
+    "Mount Wollumbin",
+    "Wollumbin Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Budj Bim",
+   "aliases": [
+    "Mount Eccles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Big Ben",
+   "aliases": [
+    "Mawson Peak",
+    "Heard Island"
+   ],
+   "tier": 5,
+   "lore": "Not the clock. A volcano on Australia's Heard Island, and taller than any mountain on the Australian mainland."
+  },
+  {
+   "answer": "Mount Terror",
+   "aliases": [
+    "Terror Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Sidley",
+   "aliases": [
+    "Sidley Volcano",
+    "Sidley"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Axial Seamount",
+   "tier": 5
+  },
+  {
+   "answer": "Kick 'em Jenny",
+   "tier": 5
+  },
+  {
+   "answer": "Tamu Massif",
+   "tier": 5
+  },
+  {
+   "answer": "Arsia Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Pavonis Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Ascraeus Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Alba Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Elysium Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Maat Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Ahuna Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Wright Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Loki Patera",
+   "aliases": [
+    "Loki"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vulcan",
+   "aliases": [
+    "Mount Vulcan",
+    "Vulcan Volcano"
+   ],
+   "tier": 5,
+   "lore": "A cone in the Rabaul caldera in Papua New Guinea. It formed in 1878 and erupted again in 1937 and in 1994, alongside Tavurvur."
+  },
+  {
+   "answer": "Ben Nevis",
+   "tier": 5,
+   "lore": "Britain's highest mountain is all that remains of a volcano that died out in the Devonian period, long before the dinosaurs."
+  },
+  {
+   "answer": "Krasheninnikov",
+   "aliases": [
+    "Mount Krasheninnikov",
+    "Krasheninnikov Volcano"
+   ],
+   "tier": 5,
+   "lore": "Erupted in August 2025, days after a magnitude 8.8 earthquake off Kamchatka, for the first time in centuries."
+  },
+  {
+   "answer": "Raung",
+   "aliases": [
+    "Mount Raung",
+    "Gunung Raung",
+    "Raung Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nevado del Huila",
+   "aliases": [
+    "Huila"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Oku",
+   "aliases": [
+    "Oku",
+    "Oku Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Zaō",
+   "aliases": [
+    "Zaō",
+    "Zaosan",
+    "Zaō Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Hagen",
+   "aliases": [
+    "Hagen Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tauhara",
+   "aliases": [
+    "Mount Tauhara",
+    "Tauhara Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kolumbo",
+   "aliases": [
+    "Mount Kolumbo",
+    "Kolumbo Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uturuncu",
+   "aliases": [
+    "Mount Uturuncu",
+    "Uturuncu Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galunggung",
+   "aliases": [
+    "Mount Galunggung",
+    "Galunggung Volcano"
+   ],
+   "tier": 5,
+   "lore": "In 1982 its ash stopped all four engines of a British Airways jumbo jet. The crew glided out of the cloud, restarted them and landed safely."
+  },
+  {
+   "answer": "Okmok",
+   "aliases": [
+    "Mount Okmok",
+    "Okmok Volcano"
+   ],
+   "tier": 5,
+   "lore": "A study in 2020 linked its great eruption of 43 BC to the cold, hungry years after Julius Caesar's murder."
+  },
+  {
+   "answer": "Tangkuban Perahu",
+   "tier": 5
+  },
+  {
+   "answer": "Kerinci",
+   "aliases": [
+    "Mount Kerinci",
+    "Kerinci Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nyos",
+   "aliases": [
+    "Lake Nyos",
+    "Mount Nyos",
+    "Nyos Volcano"
+   ],
+   "tier": 5,
+   "lore": "In 1986 a cloud of carbon dioxide burst from the lake in its crater and smothered about 1,700 people."
+  },
+  {
+   "answer": "Karisimbi",
+   "aliases": [
+    "Mount Karisimbi",
+    "Karisimbi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bisoke",
+   "aliases": [
+    "Visoke",
+    "Mount Bisoke",
+    "Bisoke Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Muhabura",
+   "aliases": [
+    "Mount Muhabura",
+    "Muhabura Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sabyinyo",
+   "aliases": [
+    "Mount Sabyinyo",
+    "Sabyinyo Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mikeno",
+   "aliases": [
+    "Mount Mikeno",
+    "Mikeno Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herðubreið",
+   "aliases": [
+    "Mount Herðubreið",
+    "Herðubreið Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kverkfjöll",
+   "aliases": [
+    "Mount Kverkfjöll",
+    "Kverkfjöll Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Torfajökull",
+   "aliases": [
+    "Mount Torfajökull",
+    "Torfajökull Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Þríhnúkagígur",
+   "aliases": [
+    "Mount Þríhnúkagígur",
+    "Þríhnúkagígur Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hverfjall",
+   "aliases": [
+    "Hverfell",
+    "Mount Hverfjall",
+    "Hverfjall Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eldgjá",
+   "aliases": [
+    "Mount Eldgjá",
+    "Eldgjá Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Helgafell",
+   "aliases": [
+    "Mount Helgafell",
+    "Helgafell Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Snæfell",
+   "aliases": [
+    "Mount Snæfell",
+    "Snæfell Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hofsjökull",
+   "aliases": [
+    "Mount Hofsjökull",
+    "Hofsjökull Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kirishima",
+   "aliases": [
+    "Shinmoedake",
+    "Mount Kirishima",
+    "Kirishima Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Iwate",
+   "aliases": [
+    "Iwate Volcano",
+    "Iwate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tarumae",
+   "aliases": [
+    "Mount Tarumae",
+    "Tarumae Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tokachi",
+   "aliases": [
+    "Tokachidake",
+    "Mount Tokachi",
+    "Tokachi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kusatsu-Shirane",
+   "aliases": [
+    "Mount Kusatsu-Shirane",
+    "Kusatsu-Shirane Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chōkai",
+   "aliases": [
+    "Mount Chōkai",
+    "Chōkai Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yōtei",
+   "aliases": [
+    "Mount Yōtei",
+    "Ezo Fuji",
+    "Yōtei Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaimon",
+   "aliases": [
+    "Kaimondake",
+    "Mount Kaimon",
+    "Kaimon Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Miyakejima",
+   "aliases": [
+    "Mount Miyakejima",
+    "Miyakejima Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Mihara",
+   "aliases": [
+    "Izu Ōshima",
+    "Mihara Volcano",
+    "Mihara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Suwanosejima",
+   "aliases": [
+    "Mount Suwanosejima",
+    "Suwanosejima Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hakusan",
+   "aliases": [
+    "Mount Haku",
+    "Mount Hakusan",
+    "Hakusan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Koryaksky",
+   "aliases": [
+    "Mount Koryaksky",
+    "Koryaksky Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karymsky",
+   "aliases": [
+    "Mount Karymsky",
+    "Karymsky Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mutnovsky",
+   "aliases": [
+    "Mount Mutnovsky",
+    "Mutnovsky Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gorely",
+   "aliases": [
+    "Mount Gorely",
+    "Gorely Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kizimen",
+   "aliases": [
+    "Mount Kizimen",
+    "Kizimen Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uzon",
+   "aliases": [
+    "Mount Uzon",
+    "Uzon Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kambalny",
+   "aliases": [
+    "Mount Kambalny",
+    "Kambalny Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ksudach",
+   "aliases": [
+    "Mount Ksudach",
+    "Ksudach Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sarychev Peak",
+   "tier": 5
+  },
+  {
+   "answer": "Alaid",
+   "aliases": [
+    "Mount Alaid",
+    "Alaid Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Santiaguito",
+   "aliases": [
+    "Mount Santiaguito",
+    "Santiaguito Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tajumulco",
+   "aliases": [
+    "Mount Tajumulco",
+    "Tajumulco Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Atitlán",
+   "aliases": [
+    "Mount Atitlán",
+    "Atitlán Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tolimán",
+   "aliases": [
+    "Mount Tolimán",
+    "Tolimán Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Concepción",
+   "aliases": [
+    "Mount Concepción",
+    "Concepción Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maderas",
+   "aliases": [
+    "Mount Maderas",
+    "Maderas Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Telica",
+   "aliases": [
+    "Mount Telica",
+    "Telica Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mombacho",
+   "aliases": [
+    "Mount Mombacho",
+    "Mombacho Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cosigüina",
+   "aliases": [
+    "Mount Cosigüina",
+    "Cosigüina Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rincón de la Vieja",
+   "tier": 5
+  },
+  {
+   "answer": "Reventador",
+   "aliases": [
+    "Mount Reventador",
+    "Reventador Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cayambe",
+   "aliases": [
+    "Mount Cayambe",
+    "Cayambe Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antisana",
+   "aliases": [
+    "Mount Antisana",
+    "Antisana Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Imbabura",
+   "aliases": [
+    "Mount Imbabura",
+    "Imbabura Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chachani",
+   "aliases": [
+    "Mount Chachani",
+    "Chachani Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Coropuna",
+   "aliases": [
+    "Mount Coropuna",
+    "Coropuna Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ampato",
+   "aliases": [
+    "Mount Ampato",
+    "Ampato Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sajama",
+   "aliases": [
+    "Mount Sajama",
+    "Sajama Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lanín",
+   "aliases": [
+    "Mount Lanín",
+    "Lanín Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Llaima",
+   "aliases": [
+    "Mount Llaima",
+    "Llaima Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Copahue",
+   "aliases": [
+    "Mount Copahue",
+    "Copahue Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cerro Hudson",
+   "tier": 5
+  },
+  {
+   "answer": "Cordón Caulle",
+   "tier": 5
+  },
+  {
+   "answer": "Nevado del Tolima",
+   "tier": 5
+  },
+  {
+   "answer": "Puracé",
+   "aliases": [
+    "Mount Puracé",
+    "Puracé Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nevado de Toluca",
+   "aliases": [
+    "Xinantécatl"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "La Malinche",
+   "aliases": [
+    "Matlalcueitl"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jorullo",
+   "aliases": [
+    "Mount Jorullo",
+    "Jorullo Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xitle",
+   "aliases": [
+    "Mount Xitle",
+    "Xitle Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tequila Volcano",
+   "aliases": [
+    "Volcán de Tequila"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceboruco",
+   "aliases": [
+    "Mount Ceboruco",
+    "Ceboruco Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Liamuiga",
+   "aliases": [
+    "Liamuiga Volcano",
+    "Liamuiga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Morne Trois Pitons",
+   "tier": 5
+  },
+  {
+   "answer": "Mount Scenery",
+   "aliases": [
+    "Scenery Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "The Quill",
+   "tier": 5
+  },
+  {
+   "answer": "Qualibou",
+   "aliases": [
+    "Sulphur Springs",
+    "Mount Qualibou",
+    "Qualibou Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pitons",
+   "aliases": [
+    "Gros Piton",
+    "Petit Piton",
+    "Mount Pitons",
+    "Pitons Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Jefferson",
+   "aliases": [
+    "Jefferson Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Bachelor",
+   "aliases": [
+    "Bachelor Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Newberry Volcano",
+   "aliases": [
+    "Newberry"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Glacier Peak",
+   "tier": 5
+  },
+  {
+   "answer": "Medicine Lake Volcano",
+   "tier": 5
+  },
+  {
+   "answer": "Mount Edgecumbe",
+   "aliases": [
+    "Edgecumbe Volcano",
+    "Edgecumbe"
+   ],
+   "tier": 5,
+   "lore": "On 1 April 1974 a prankster set a pile of old tyres alight in its crater, and the people of Sitka thought it was erupting."
+  },
+  {
+   "answer": "Veniaminof",
+   "aliases": [
+    "Mount Veniaminof",
+    "Veniaminof Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shishaldin",
+   "aliases": [
+    "Mount Shishaldin",
+    "Shishaldin Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Cleveland",
+   "aliases": [
+    "Cleveland Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aniakchak",
+   "aliases": [
+    "Mount Aniakchak",
+    "Aniakchak Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Akutan",
+   "aliases": [
+    "Mount Akutan",
+    "Akutan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makushin",
+   "aliases": [
+    "Mount Makushin",
+    "Makushin Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Sitkin",
+   "tier": 5
+  },
+  {
+   "answer": "Mount Wrangell",
+   "aliases": [
+    "Wrangell Volcano",
+    "Wrangell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Edziza",
+   "aliases": [
+    "Edziza Volcano",
+    "Edziza"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Meager",
+   "aliases": [
+    "Meager Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Cayley",
+   "aliases": [
+    "Cayley Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Capulin",
+   "aliases": [
+    "Capulin Volcano",
+    "Capulin Mountain",
+    "Mount Capulin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Taylor",
+   "aliases": [
+    "Taylor Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "San Francisco Peaks",
+   "aliases": [
+    "San Francisco Mountain"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amboy Crater",
+   "tier": 5
+  },
+  {
+   "answer": "Craters of the Moon",
+   "tier": 5
+  },
+  {
+   "answer": "Kohala",
+   "aliases": [
+    "Mount Kohala",
+    "Kohala Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Punchbowl Crater",
+   "aliases": [
+    "Punchbowl",
+    "Puowaina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Koko Head",
+   "tier": 5
+  },
+  {
+   "answer": "Lipari",
+   "aliases": [
+    "Mount Lipari",
+    "Lipari Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Panarea",
+   "aliases": [
+    "Mount Panarea",
+    "Panarea Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Salina",
+   "aliases": [
+    "Mount Salina",
+    "Salina Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Colli Albani",
+   "aliases": [
+    "Alban Hills"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monte Amiata",
+   "tier": 5
+  },
+  {
+   "answer": "Roccamonfina",
+   "aliases": [
+    "Mount Roccamonfina",
+    "Roccamonfina Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ciomadul",
+   "aliases": [
+    "Mount Ciomadul",
+    "Ciomadul Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Croscat",
+   "aliases": [
+    "Garrotxa",
+    "Mount Croscat",
+    "Croscat Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Teneguía",
+   "aliases": [
+    "Mount Teneguía",
+    "Teneguía Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pico Viejo",
+   "tier": 5
+  },
+  {
+   "answer": "Chinyero",
+   "aliases": [
+    "Mount Chinyero",
+    "Chinyero Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bandama",
+   "aliases": [
+    "Caldera de Bandama",
+    "Mount Bandama",
+    "Bandama Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vogelsberg",
+   "aliases": [
+    "Mount Vogelsberg",
+    "Vogelsberg Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaiserstuhl",
+   "aliases": [
+    "Mount Kaiserstuhl",
+    "Kaiserstuhl Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hohentwiel",
+   "aliases": [
+    "Mount Hohentwiel",
+    "Hohentwiel Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nemrut Caldera",
+   "aliases": [
+    "Nemrut"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Süphan",
+   "aliases": [
+    "Mount Süphan",
+    "Süphan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tendürek",
+   "aliases": [
+    "Mount Tendürek",
+    "Tendürek Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Suswa",
+   "aliases": [
+    "Mount Suswa",
+    "Suswa Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rungwe",
+   "aliases": [
+    "Mount Rungwe",
+    "Rungwe Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hanang",
+   "aliases": [
+    "Mount Hanang",
+    "Hanang Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nabro",
+   "aliases": [
+    "Mount Nabro",
+    "Nabro Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ardoukoba",
+   "aliases": [
+    "Mount Ardoukoba",
+    "Ardoukoba Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pico Basilé",
+   "tier": 5
+  },
+  {
+   "answer": "Piton des Neiges",
+   "tier": 5
+  },
+  {
+   "answer": "Papandayan",
+   "aliases": [
+    "Mount Papandayan",
+    "Papandayan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Salak",
+   "aliases": [
+    "Mount Salak",
+    "Salak Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gede",
+   "aliases": [
+    "Gede-Pangrango",
+    "Mount Gede",
+    "Gede Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slamet",
+   "aliases": [
+    "Mount Slamet",
+    "Slamet Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sumbing",
+   "aliases": [
+    "Mount Sumbing",
+    "Sumbing Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sindoro",
+   "aliases": [
+    "Sundoro",
+    "Mount Sindoro",
+    "Sindoro Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lawu",
+   "aliases": [
+    "Mount Lawu",
+    "Lawu Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Merbabu",
+   "aliases": [
+    "Mount Merbabu",
+    "Merbabu Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dieng",
+   "aliases": [
+    "Dieng Plateau",
+    "Mount Dieng",
+    "Dieng Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lokon",
+   "aliases": [
+    "Lokon-Empung",
+    "Mount Lokon",
+    "Lokon Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Soputan",
+   "aliases": [
+    "Mount Soputan",
+    "Soputan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karangetang",
+   "aliases": [
+    "Mount Karangetang",
+    "Karangetang Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gamalama",
+   "aliases": [
+    "Mount Gamalama",
+    "Gamalama Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dukono",
+   "aliases": [
+    "Mount Dukono",
+    "Dukono Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Banda Api",
+   "tier": 5
+  },
+  {
+   "answer": "Sangeang Api",
+   "tier": 5
+  },
+  {
+   "answer": "Bulusan",
+   "aliases": [
+    "Mount Bulusan",
+    "Bulusan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Banahaw",
+   "aliases": [
+    "Mount Banahaw",
+    "Banahaw Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makiling",
+   "aliases": [
+    "Mount Makiling",
+    "Makiling Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tatun",
+   "aliases": [
+    "Datun",
+    "Qixing",
+    "Qixingshan",
+    "Mount Tatun",
+    "Tatun Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wudalianchi",
+   "aliases": [
+    "Mount Wudalianchi",
+    "Wudalianchi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sabalan",
+   "aliases": [
+    "Mount Sabalan",
+    "Sabalan Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Giluwe",
+   "aliases": [
+    "Mount Giluwe",
+    "Giluwe Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bagana",
+   "aliases": [
+    "Mount Bagana",
+    "Bagana Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kadovar",
+   "aliases": [
+    "Mount Kadovar",
+    "Kadovar Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ambae",
+   "aliases": [
+    "Manaro Voui",
+    "Mount Ambae",
+    "Ambae Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lopevi",
+   "aliases": [
+    "Mount Lopevi",
+    "Lopevi Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tofua",
+   "aliases": [
+    "Mount Tofua",
+    "Tofua Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Home Reef",
+   "tier": 5
+  },
+  {
+   "answer": "Fonuafoʻou",
+   "aliases": [
+    "Falcon Island",
+    "Mount Fonuafoʻou",
+    "Fonuafoʻou Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Matavanu",
+   "aliases": [
+    "Mount Matavanu",
+    "Matavanu Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tinakula",
+   "aliases": [
+    "Mount Tinakula",
+    "Tinakula Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Savo",
+   "aliases": [
+    "Mount Savo",
+    "Savo Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Raoul Island",
+   "tier": 5
+  },
+  {
+   "answer": "Maungakiekie",
+   "aliases": [
+    "One Tree Hill",
+    "Mount Maungakiekie",
+    "Maungakiekie Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Banks Peninsula",
+   "aliases": [
+    "Lyttelton Volcano",
+    "Akaroa Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dunedin Volcano",
+   "tier": 5
+  },
+  {
+   "answer": "Putauaki",
+   "aliases": [
+    "Mount Putauaki",
+    "Putauaki Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mayor Island",
+   "aliases": [
+    "Tūhua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hanging Rock",
+   "tier": 5,
+   "lore": "In the novel Picnic at Hanging Rock, schoolgirls vanish here in 1900. The story is fiction, though many readers believed it."
+  },
+  {
+   "answer": "Undara",
+   "aliases": [
+    "Mount Undara",
+    "Undara Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Melbourne",
+   "aliases": [
+    "Melbourne Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mount Takahe",
+   "aliases": [
+    "Takahe Volcano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Castle Rock",
+   "aliases": [
+    "Edinburgh Castle Rock"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "North Berwick Law",
+   "tier": 5
+  },
+  {
+   "answer": "Bass Rock",
+   "tier": 5
+  },
+  {
+   "answer": "Dumbarton Rock",
+   "tier": 5
+  },
+  {
+   "answer": "Ailsa Craig",
+   "tier": 5
+  },
+  {
+   "answer": "Hecates Tholus",
+   "tier": 5
+  },
+  {
+   "answer": "Albor Tholus",
+   "tier": 5
+  },
+  {
+   "answer": "Apollinaris Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Tyrrhenus Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Hadriacus Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Uranius Tholus",
+   "tier": 5
+  },
+  {
+   "answer": "Ceraunius Tholus",
+   "tier": 5
+  },
+  {
+   "answer": "Sapas Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Gula Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Sif Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Idunn Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Ozza Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Theia Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Prometheus",
+   "tier": 5
+  },
+  {
+   "answer": "Tvashtar",
+   "aliases": [
+    "Tvashtar Paterae"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Masubi",
+   "tier": 5
+  },
+  {
+   "answer": "Amirani",
+   "tier": 5
+  },
+  {
+   "answer": "Ra Patera",
+   "tier": 5
+  },
+  {
+   "answer": "Pillan Patera",
+   "tier": 5
+  },
+  {
+   "answer": "Piccard Mons",
+   "tier": 5
+  },
+  {
+   "answer": "Sotra Patera",
+   "tier": 5
+  },
+  {
+   "answer": "Mons Rümker",
+   "tier": 5,
+   "lore": "A cluster of volcanic domes on the Moon. China's Chang'e 5 landed nearby in 2020 and brought rock back to Earth."
+  },
+  {
+   "answer": "Ol Doinyo Lengai",
+   "aliases": [
+    "Lengai"
+   ],
+   "tier": 6,
+   "lore": "The only volcano known to erupt carbonatite lava in historical times. It flows black and cool, then turns white as snow."
+  },
+  {
+   "answer": "Kamaʻehuakanaloa",
+   "aliases": [
+    "Lōʻihi",
+    "Lōʻihi Seamount",
+    "Kamaʻehuakanaloa Seamount",
+    "Mount Kamaʻehuakanaloa",
+    "Kamaʻehuakanaloa Volcano"
+   ],
+   "tier": 6,
+   "lore": "Known until 2021 as Lōʻihi: the youngest volcano in the Hawaiian chain, its summit still about 975 m under the sea."
+  },
+  {
+   "answer": "Ferdinandea",
+   "aliases": [
+    "Graham Island",
+    "Isola Ferdinandea",
+    "Empedocles",
+    "Mount Ferdinandea",
+    "Ferdinandea Volcano"
+   ],
+   "tier": 6,
+   "lore": "It rose off Sicily in 1831 and was claimed by Britain, France, Spain and the Kingdom of the Two Sicilies, then sank within months."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Everest",
+   "aliases": [
+    "Mount Everest"
+   ],
+   "reason": "Not a volcano. Its summit is limestone that was once the floor of a sea."
+  },
+  {
+   "answer": "K2",
+   "reason": "Not a volcano, just a very tall mountain."
+  },
+  {
+   "answer": "Matterhorn",
+   "reason": "Not a volcano. Glaciers carved that pointed shape."
+  },
+  {
+   "answer": "Mont Blanc",
+   "reason": "Not a volcano. Granite, mostly."
+  },
+  {
+   "answer": "Table Mountain",
+   "reason": "Not a volcano. Sandstone, laid down long ago."
+  },
+  {
+   "answer": "Uluru",
+   "aliases": [
+    "Ayers Rock"
+   ],
+   "reason": "Not a volcano. A great hump of sandstone."
+  },
+  {
+   "answer": "Denali",
+   "aliases": [
+    "Mount McKinley",
+    "McKinley"
+   ],
+   "reason": "Not a volcano. A great block of granite."
+  },
+  {
+   "answer": "Mount Cook",
+   "aliases": [
+    "Aoraki",
+    "Aoraki Mount Cook"
+   ],
+   "reason": "Not a volcano. Pushed up where two plates grind together."
+  },
+  {
+   "answer": "Glastonbury Tor",
+   "aliases": [
+    "Glastonbury"
+   ],
+   "reason": "Not a volcano, though it looks the part. Sandstone over clay."
+  },
+  {
+   "answer": "Mount Kinabalu",
+   "aliases": [
+    "Kinabalu"
+   ],
+   "reason": "Not a volcano. A great dome of granite."
+  },
+  {
+   "answer": "Sugarloaf Mountain",
+   "aliases": [
+    "Sugar Loaf",
+    "Pão de Açúcar"
+   ],
+   "reason": "Not a volcano. A granite dome rising out of the bay at Rio."
+  },
+  {
+   "answer": "Mount Olympus",
+   "aliases": [
+    "Olympus"
+   ],
+   "reason": "The Greek one is limestone, not a volcano. The one on Mars would count."
+  },
+  {
+   "answer": "Kangchenjunga",
+   "aliases": [
+    "Lhotse",
+    "Annapurna",
+    "Nanga Parbat",
+    "Eiger",
+    "Jungfrau",
+    "Zugspitze",
+    "Triglav",
+    "Mount Whitney",
+    "Pikes Peak",
+    "Kosciuszko",
+    "Mount Kosciuszko",
+    "Ben Macdui",
+    "Mount Sinai",
+    "Mount Logan",
+    "Half Dome",
+    "El Capitan",
+    "Mount Rushmore",
+    "Kata Tjuta",
+    "Mount Kailash",
+    "Kailash",
+    "Monte Rosa"
+   ],
+   "reason": "Not a volcano, just a mountain."
+  },
+  {
+   "answer": "Giant's Causeway",
+   "aliases": [
+    "Fingal's Cave",
+    "Staffa"
+   ],
+   "reason": "Basalt columns from an ancient lava flow, but not a volcano with a name."
+  },
+  {
+   "answer": "Pompeii",
+   "aliases": [
+    "Herculaneum"
+   ],
+   "reason": "A city buried by a volcano, not a volcano itself."
+  },
+  {
+   "answer": "Orodruin",
+   "aliases": [
+    "Amon Amarth"
+   ],
+   "reason": "Tolkien's. A real New Zealand volcano played it in the films."
+  },
+  {
+   "answer": "Dante's Peak",
+   "reason": "A film's volcano, and a fictional one."
+  },
+  {
+   "answer": "Ring of Fire",
+   "aliases": [
+    "Pacific Ring of Fire"
+   ],
+   "reason": "Hundreds of volcanoes around the Pacific. Name one."
+  },
+  {
+   "answer": "Supervolcano",
+   "aliases": [
+    "Volcano",
+    "Stratovolcano",
+    "Shield Volcano",
+    "Caldera",
+    "Cinder Cone",
+    "Seamount"
+   ],
+   "reason": "That's a kind of volcano. Name one."
+  },
+  {
+   "answer": "Hawaii",
+   "aliases": [
+    "Big Island",
+    "Hawaiian Islands"
+   ],
+   "reason": "Islands built by volcanoes. Name one of the volcanoes."
+  },
+  {
+   "answer": "Iceland",
+   "reason": "An island built by volcanoes. Name one of them."
+  },
+  {
+   "answer": "Montserrat",
+   "reason": "An island. Its volcano has a name of its own."
+  },
+  {
+   "answer": "Tenerife",
+   "aliases": [
+    "La Palma",
+    "Lanzarote",
+    "Gran Canaria",
+    "Sicily",
+    "Bali",
+    "Java",
+    "Sumatra",
+    "Kamchatka"
+   ],
+   "reason": "An island or a land with volcanoes on it, not a volcano itself. Name one of them."
+  },
+  {
+   "answer": "Saint Helena",
+   "aliases": [
+    "St Helena"
+   ],
+   "reason": "An island built by long-dead volcanoes, not a volcano itself."
+  },
+  {
+   "answer": "Vatnajökull",
+   "aliases": [
+    "Mýrdalsjökull"
+   ],
+   "reason": "A glacier, not a volcano, though volcanoes lie beneath it."
+  },
+  {
+   "answer": "Virunga",
+   "aliases": [
+    "Virunga Mountains",
+    "Virungas"
+   ],
+   "reason": "A chain of volcanoes. Name one of them."
+  },
+  {
+   "answer": "Naples",
+   "reason": "A city in the shadow of volcanoes, not a volcano itself."
+  },
+  {
+   "answer": "Cappadocia",
+   "reason": "A landscape carved from old volcanic ash, not a volcano. The peaks that laid it down would count."
+  }
+ ],
+ "decoys": [
+  "Fiji",
+  "Peru",
+  "Togo",
+  "Karachi",
+  "Shanghai",
+  "Chiang Mai",
+  "Hiroshima",
+  "Madras"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"volcanoes\" on 28 November 2026."
+}

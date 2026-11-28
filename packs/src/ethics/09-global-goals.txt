@@ -1,0 +1,25 @@
+id: ethics-global-goals
+text: Name one of the UN's Sustainable Development Goals.
+flavor: Seventeen promises, made in 2015, due in 2030. The deep keeps count of promises.
+rules: Any of the 17 goals, by its title or its plain meaning.
+section: Sustainability
+---
+1 No Poverty | Poverty | End poverty | Ending poverty | Eradicate poverty | Zero poverty | Goal 1 | SDG 1 | Poverty reduction
+1 Zero Hunger | Hunger | End hunger | No hunger | Food security | Ending hunger | Goal 2 | SDG 2 | Food
+1 Quality Education | Education | Education for all | Goal 4 | SDG 4 | Schooling | Literacy
+1 Gender Equality | Gender | Equality for women | Women's rights | Gender equity | Goal 5 | SDG 5 | Empower women and girls | Womens rights
+1 Climate Action | Climate change | Climate | Global warming | Goal 13 | SDG 13 | Combat climate change
+2 Good Health and Well-being | Health | Good health | Health and wellbeing | Good health and wellbeing | Wellbeing | Well-being | Goal 3 | SDG 3 | Healthcare | Healthy lives
+2 Clean Water and Sanitation | Clean water | Water | Sanitation | Water and sanitation | Goal 6 | SDG 6 | Safe drinking water | Drinking water
+2 Affordable and Clean Energy | Clean energy | Energy | Renewable energy | Affordable energy | Goal 7 | SDG 7 | Sustainable energy
+3 Reduced Inequalities | Reduced inequality | Inequality | Reduce inequality | Reducing inequality | Equality | Goal 10 | SDG 10 | Inequalities
+3 Life Below Water | Oceans | Life under water | Marine life | Life underwater | Goal 14 | SDG 14 | Ocean | Seas | Conserve the oceans | Life in water
+3 Life on Land | Biodiversity | Forests | Land | Goal 15 | SDG 15 | Deforestation | Ecosystems | Desertification
+3 Decent Work and Economic Growth | Decent work | Economic growth | Jobs | Employment | Goal 8 | SDG 8 | Work and economic growth | Growth
+4 Sustainable Cities and Communities | Sustainable cities | Cities | Communities | Goal 11 | SDG 11 | Cities and communities | Housing
+4 Responsible Consumption and Production | Responsible consumption | Consumption | Sustainable consumption | Goal 12 | SDG 12 | Consumption and production | Responsible production | Waste | Recycling
+4 Peace, Justice and Strong Institutions | Peace | Justice | Peace and justice | Strong institutions | Goal 16 | SDG 16 | Institutions | Rule of law
+5 Industry, Innovation and Infrastructure | Industry | Innovation | Infrastructure | Goal 9 | SDG 9 | Innovation and infrastructure | Industrialisation
+6 Partnerships for the Goals | Partnerships | Partnership | Global partnership | Goal 17 | SDG 17 | Partnership for the goals | Cooperation :: The last and least remembered of the 17: the promise to actually work together, with money, technology and trade, on the other sixteen.
+x Sustainability | Sustainable development | SDG | SDGs | Development | Environment | The environment :: That is the whole idea. Name one of the seventeen goals.
+x World peace | Net zero | Human rights | Democracy | Free trade | Population control | Animal rights | Space :: A fine cause, but it is not the title of one of the seventeen.

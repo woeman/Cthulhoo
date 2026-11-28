@@ -1,0 +1,5706 @@
+{
+ "id": "geography-mountain-ranges",
+ "text": "Name a mountain range.",
+ "category": "geography",
+ "flavor": "Wrinkles in the skin of the world. The longest of them all lies hidden beneath the waves.",
+ "rules": "Any named range or chain of mountains or hills, large or small, including ridges under the sea and ranges on other worlds. Saying 'Mountains' or 'Range' after the name is optional. A single peak doesn't count.",
+ "answers": [
+  {
+   "answer": "Alps",
+   "aliases": [
+    "Alpes",
+    "Alpen",
+    "Alpi",
+    "European Alps",
+    "Swiss Alps",
+    "French Alps",
+    "Italian Alps",
+    "Austrian Alps"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Andes",
+   "aliases": [
+    "Andes Mountains",
+    "Andean Mountains",
+    "Cordillera de los Andes",
+    "Andean Cordillera"
+   ],
+   "tier": 1,
+   "lore": "The longest mountain range on land, about 7,000 km from Venezuela to Tierra del Fuego."
+  },
+  {
+   "answer": "Himalayas",
+   "aliases": [
+    "Himalaya",
+    "Himalayan Mountains",
+    "Himalaya Mountains",
+    "Himalayan Range",
+    "Great Himalaya"
+   ],
+   "tier": 1,
+   "lore": "Still rising by a few millimetres a year, as India keeps pushing into Asia."
+  },
+  {
+   "answer": "Rocky Mountains",
+   "aliases": [
+    "Rockies",
+    "Rocky Mountain Range",
+    "Canadian Rockies"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Pyrenees",
+   "aliases": [
+    "Pirineos",
+    "Pirineus",
+    "Pyrenees Mountains"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Appalachian Mountains",
+   "aliases": [
+    "Appalachians",
+    "Appalachia",
+    "Appalachian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ural Mountains",
+   "aliases": [
+    "Urals",
+    "Ural"
+   ],
+   "tier": 2,
+   "lore": "Traditionally drawn as the border between Europe and Asia."
+  },
+  {
+   "answer": "Atlas Mountains",
+   "aliases": [
+    "Atlas Range",
+    "Atlas"
+   ],
+   "tier": 2,
+   "lore": "Named after the Titan of Greek myth who held up the sky."
+  },
+  {
+   "answer": "Carpathians",
+   "aliases": [
+    "Carpathian Mountains",
+    "Carpathian",
+    "Karpaty"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Apennines",
+   "aliases": [
+    "Apennine Mountains",
+    "Apennine",
+    "Appennini"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dolomites",
+   "aliases": [
+    "Dolomiti",
+    "Dolomite Alps",
+    "Dolomite Mountains"
+   ],
+   "tier": 2,
+   "lore": "Named after Déodat de Dolomieu, the French geologist who first described their rock."
+  },
+  {
+   "answer": "Pennines",
+   "aliases": [
+    "Pennine Hills",
+    "Pennine Chain",
+    "Pennine Range",
+    "Pennine",
+    "Backbone of England"
+   ],
+   "tier": 2,
+   "lore": "Often called the backbone of England."
+  },
+  {
+   "answer": "Grampians",
+   "aliases": [
+    "Grampian Mountains",
+    "Grampian",
+    "Grampian Hills",
+    "Gariwerd"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cairngorms",
+   "aliases": [
+    "Cairngorm Mountains",
+    "Cairngorm"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sierra Nevada",
+   "aliases": [
+    "Sierra Nevada Mountains",
+    "Sierra Nevadas",
+    "High Sierra",
+    "The Sierra",
+    "Sierras"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Caucasus Mountains",
+   "aliases": [
+    "Caucasus Range",
+    "Caucasian Mountains",
+    "Greater Caucasus",
+    "Kavkaz",
+    "Caucasus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Karakoram",
+   "aliases": [
+    "Karakorum",
+    "Karakoram Range",
+    "Karakoram Mountains"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Hindu Kush",
+   "aliases": [
+    "Hindu Kush Mountains",
+    "Hindu Kush Range"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Great Dividing Range",
+   "aliases": [
+    "Great Divide",
+    "Great Dividing Mountains",
+    "Great Dividing"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Drakensberg",
+   "aliases": [
+    "Drakensberg Mountains",
+    "Drakensberge",
+    "uKhahlamba",
+    "Dragon Mountains"
+   ],
+   "tier": 2,
+   "lore": "Dutch settlers called them the dragon mountains. The Zulu name, uKhahlamba, means 'barrier of spears'."
+  },
+  {
+   "answer": "Blue Ridge Mountains",
+   "aliases": [
+    "Blue Ridge"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cascade Range",
+   "aliases": [
+    "Cascades",
+    "Cascade Mountains",
+    "Cascade"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Brecon Beacons",
+   "aliases": [
+    "Bannau Brycheiniog"
+   ],
+   "tier": 2,
+   "lore": "Its national park has gone by its Welsh name, Bannau Brycheiniog, since 2023."
+  },
+  {
+   "answer": "Sierra Madre",
+   "aliases": [
+    "Sierra Madre Mountains"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Southern Alps",
+   "aliases": [
+    "New Zealand Alps",
+    "Kā Tiritiri o te Moana"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Blue Mountains",
+   "tier": 2
+  },
+  {
+   "answer": "Great Smoky Mountains",
+   "aliases": [
+    "Smokies",
+    "Smoky Mountains",
+    "Great Smokies",
+    "Great Smoky"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mid-Atlantic Ridge",
+   "aliases": [
+    "Atlantic Ridge"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "In Iceland it rises out of the sea, and the island is slowly being pulled apart along it."
+  },
+  {
+   "answer": "Tian Shan",
+   "aliases": [
+    "Tien Shan",
+    "Tian Shan Mountains",
+    "Celestial Mountains"
+   ],
+   "tier": 3,
+   "lore": "Its name means 'Mountains of Heaven' in Chinese."
+  },
+  {
+   "answer": "Altai Mountains",
+   "aliases": [
+    "Altay",
+    "Altay Mountains",
+    "Altai"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pamir Mountains",
+   "aliases": [
+    "Pamirs",
+    "Pamir"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kunlun Mountains",
+   "aliases": [
+    "Kunlun Shan",
+    "Kunlun"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zagros Mountains",
+   "aliases": [
+    "Zagros"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Taurus Mountains",
+   "aliases": [
+    "Toros Mountains",
+    "Taurus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Western Ghats",
+   "aliases": [
+    "Sahyadri",
+    "Sahyadri Hills",
+    "Ghats"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Balkan Mountains",
+   "aliases": [
+    "Stara Planina",
+    "Balkan Range",
+    "Balkan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Dinaric Alps",
+   "aliases": [
+    "Dinarides",
+    "Dinaric Mountains"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tatra Mountains",
+   "aliases": [
+    "Tatras",
+    "High Tatras",
+    "Tatry",
+    "Tatra"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jura Mountains",
+   "aliases": [
+    "Jura Range",
+    "Jura"
+   ],
+   "tier": 3,
+   "lore": "They gave their name to the Jurassic period, after the limestone found there."
+  },
+  {
+   "answer": "Vosges",
+   "aliases": [
+    "Vosges Mountains"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Black Forest",
+   "aliases": [
+    "Schwarzwald"
+   ],
+   "tier": 3,
+   "lore": "Said to be the birthplace of the cuckoo clock."
+  },
+  {
+   "answer": "Harz",
+   "aliases": [
+    "Harz Mountains"
+   ],
+   "tier": 3,
+   "lore": "Folklore says witches gather on its highest peak, the Brocken, on Walpurgis Night."
+  },
+  {
+   "answer": "Massif Central",
+   "aliases": [
+    "Central Massif"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Scandinavian Mountains",
+   "aliases": [
+    "Scandes",
+    "Kjølen",
+    "Kölen",
+    "Scandinavian Range"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ardennes",
+   "aliases": [
+    "Ardenne",
+    "Ardennes Mountains"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Transylvanian Alps",
+   "aliases": [
+    "Southern Carpathians"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mourne Mountains",
+   "aliases": [
+    "Mournes",
+    "Mountains of Mourne",
+    "Mourne"
+   ],
+   "tier": 3,
+   "lore": "Said to have inspired the landscapes of C. S. Lewis's Narnia."
+  },
+  {
+   "answer": "Wicklow Mountains",
+   "aliases": [
+    "Wicklow"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cheviot Hills",
+   "aliases": [
+    "Cheviots"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Chiltern Hills",
+   "aliases": [
+    "Chilterns"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Malvern Hills",
+   "aliases": [
+    "Malverns"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mendip Hills",
+   "aliases": [
+    "Mendips"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "North Downs",
+   "tier": 3
+  },
+  {
+   "answer": "South Downs",
+   "aliases": [
+    "Downs"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Black Mountains",
+   "tier": 3
+  },
+  {
+   "answer": "Cambrian Mountains",
+   "aliases": [
+    "Cambrian"
+   ],
+   "tier": 3,
+   "lore": "Named, like the Cambrian period, after Cambria, the Latin name for Wales."
+  },
+  {
+   "answer": "Cotswolds",
+   "aliases": [
+    "Cotswold Hills",
+    "Cotswold"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Japanese Alps",
+   "aliases": [
+    "Nihon Alps",
+    "Japan Alps"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sierra Madre Occidental",
+   "aliases": [
+    "Western Sierra Madre",
+    "Sierra Tarahumara"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sierra Madre Oriental",
+   "aliases": [
+    "Eastern Sierra Madre"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Alaska Range",
+   "aliases": [
+    "Alaska Mountains"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Brooks Range",
+   "aliases": [
+    "Brooks Mountains"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Coast Mountains",
+   "aliases": [
+    "Coast Range",
+    "Coast Ranges",
+    "Pacific Coast Ranges"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Teton Range",
+   "aliases": [
+    "Tetons",
+    "Teton Mountains",
+    "Teton"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Adirondack Mountains",
+   "aliases": [
+    "Adirondacks",
+    "Adirondack"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Catskill Mountains",
+   "aliases": [
+    "Catskills",
+    "Catskill"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ozark Mountains",
+   "aliases": [
+    "Ozarks",
+    "Ozark Plateau",
+    "Ozark"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "White Mountains",
+   "aliases": [
+    "Lefka Ori"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Green Mountains",
+   "tier": 3
+  },
+  {
+   "answer": "Black Hills",
+   "tier": 3,
+   "lore": "Mount Rushmore is carved into them, on land sacred to the Lakota."
+  },
+  {
+   "answer": "Transantarctic Mountains",
+   "aliases": [
+    "Transantarctic"
+   ],
+   "tier": 3,
+   "lore": "They divide Antarctica into east and west, running some 3,500 km across the continent."
+  },
+  {
+   "answer": "Rwenzori Mountains",
+   "aliases": [
+    "Ruwenzori",
+    "Ruwenzori Mountains",
+    "Mountains of the Moon",
+    "Rwenzori"
+   ],
+   "tier": 3,
+   "lore": "Often identified with Ptolemy's 'Mountains of the Moon', where he placed the source of the Nile."
+  },
+  {
+   "answer": "Snowy Mountains",
+   "tier": 3
+  },
+  {
+   "answer": "Flinders Ranges",
+   "aliases": [
+    "Flinders Range",
+    "Flinders"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Australian Alps",
+   "aliases": [
+    "Victorian Alps"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mid-Ocean Ridge",
+   "aliases": [
+    "Mid-Oceanic Ridge",
+    "Global Mid-Ocean Ridge",
+    "Oceanic Ridge"
+   ],
+   "tier": 3,
+   "lore": "The longest mountain range on Earth, some 65,000 km, and almost all of it under the sea."
+  },
+  {
+   "answer": "Alborz",
+   "aliases": [
+    "Elburz",
+    "Alborz Mountains",
+    "Elburz Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pontic Mountains",
+   "aliases": [
+    "Pontic Alps",
+    "Pontic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hajar Mountains",
+   "aliases": [
+    "Hajar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lebanon Mountains",
+   "aliases": [
+    "Mount Lebanon",
+    "Mount Lebanon Range",
+    "Mountains of Lebanon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eastern Ghats",
+   "tier": 4
+  },
+  {
+   "answer": "Vindhya Range",
+   "aliases": [
+    "Vindhyas",
+    "Vindhya Mountains",
+    "Vindhya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aravalli Range",
+   "aliases": [
+    "Aravallis",
+    "Aravali",
+    "Aravalli Mountains",
+    "Aravalli"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Satpura Range",
+   "aliases": [
+    "Satpuras",
+    "Satpura Mountains",
+    "Satpura"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nilgiri Hills",
+   "aliases": [
+    "Nilgiris",
+    "Nilgiri Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Annamite Range",
+   "aliases": [
+    "Annamites",
+    "Truong Son",
+    "Annamite Mountains",
+    "Annamite"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Qinling",
+   "aliases": [
+    "Qinling Mountains",
+    "Tsinling",
+    "Qin Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sayan Mountains",
+   "aliases": [
+    "Sayans",
+    "Sayan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Verkhoyansk Range",
+   "aliases": [
+    "Verkhoyansk Mountains",
+    "Verkhoyansk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Huangshan",
+   "aliases": [
+    "Yellow Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Simien Mountains",
+   "aliases": [
+    "Semien",
+    "Semien Mountains",
+    "Simien"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aberdare Range",
+   "aliases": [
+    "Aberdares",
+    "Nyandarua",
+    "Aberdare Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tibesti Mountains",
+   "aliases": [
+    "Tibesti"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hoggar Mountains",
+   "aliases": [
+    "Ahaggar",
+    "Ahaggar Mountains",
+    "Hoggar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Virunga Mountains",
+   "aliases": [
+    "Virungas",
+    "Virunga"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rif Mountains",
+   "aliases": [
+    "Rif",
+    "Riff",
+    "Er Rif"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "High Atlas",
+   "aliases": [
+    "Haut Atlas",
+    "High Atlas Mountains",
+    "Grand Atlas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pindus",
+   "aliases": [
+    "Pindus Mountains",
+    "Pindos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rhodope Mountains",
+   "aliases": [
+    "Rhodopes",
+    "Rhodope"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sudetes",
+   "aliases": [
+    "Sudeten",
+    "Sudeten Mountains",
+    "Sudety"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ore Mountains",
+   "aliases": [
+    "Erzgebirge",
+    "Krušné hory"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Giant Mountains",
+   "aliases": [
+    "Krkonoše",
+    "Karkonosze",
+    "Riesengebirge"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eifel",
+   "aliases": [
+    "Eifel Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cévennes",
+   "tier": 4,
+   "lore": "Robert Louis Stevenson walked across them with a donkey in 1878, and wrote a book about it."
+  },
+  {
+   "answer": "Cantabrian Mountains",
+   "aliases": [
+    "Cordillera Cantábrica",
+    "Cantabrian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Picos de Europa",
+   "aliases": [
+    "Picos"
+   ],
+   "tier": 4,
+   "lore": "Said to be named as the first sight of Europe for sailors coming home from the Americas."
+  },
+  {
+   "answer": "Sierra Morena",
+   "tier": 4
+  },
+  {
+   "answer": "Sierra de Guadarrama",
+   "aliases": [
+    "Guadarrama",
+    "Guadarrama Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Serra da Estrela",
+   "aliases": [
+    "Estrela"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bernese Alps",
+   "aliases": [
+    "Bernese Oberland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pennine Alps",
+   "aliases": [
+    "Valais Alps"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Julian Alps",
+   "tier": 4
+  },
+  {
+   "answer": "Maritime Alps",
+   "aliases": [
+    "Alpes Maritimes",
+    "Alpi Marittime"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bavarian Alps",
+   "tier": 4
+  },
+  {
+   "answer": "Hohe Tauern",
+   "aliases": [
+    "High Tauern"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jotunheimen",
+   "aliases": [
+    "Jotunheim"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Troodos Mountains",
+   "aliases": [
+    "Troodos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cuillin",
+   "aliases": [
+    "Cuillins",
+    "Cuillin Hills",
+    "Black Cuillin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sperrin Mountains",
+   "aliases": [
+    "Sperrins",
+    "Sperrin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "MacGillycuddy's Reeks",
+   "aliases": [
+    "MacGillicuddy's Reeks",
+    "The Reeks"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ochil Hills",
+   "aliases": [
+    "Ochils"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pentland Hills",
+   "aliases": [
+    "Pentlands"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quantock Hills",
+   "aliases": [
+    "Quantocks"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Clwydian Range",
+   "aliases": [
+    "Clwydian Hills",
+    "Clwydian Mountains",
+    "Clwydian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cumbrian Mountains",
+   "aliases": [
+    "Lakeland Fells",
+    "Cumbrian Fells",
+    "Cumbrian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Southern Uplands",
+   "tier": 4
+  },
+  {
+   "answer": "Lincolnshire Wolds",
+   "tier": 4
+  },
+  {
+   "answer": "Yorkshire Wolds",
+   "aliases": [
+    "Wolds"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ellsworth Mountains",
+   "aliases": [
+    "Ellsworth"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "MacDonnell Ranges",
+   "aliases": [
+    "MacDonnell Range",
+    "MacDonnell"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bungle Bungle Range",
+   "aliases": [
+    "Bungle Bungles",
+    "Purnululu",
+    "Bungle Bungle Mountains",
+    "Bungle Bungle"
+   ],
+   "tier": 4,
+   "lore": "Its striped beehive domes were little known outside the Kimberley until the 1980s."
+  },
+  {
+   "answer": "Owen Stanley Range",
+   "aliases": [
+    "Owen Stanley Mountains",
+    "Owen Stanley"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Remarkables",
+   "tier": 4
+  },
+  {
+   "answer": "Bighorn Mountains",
+   "aliases": [
+    "Bighorns",
+    "Bighorn"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wind River Range",
+   "aliases": [
+    "Wind Rivers",
+    "Wind River Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wasatch Range",
+   "aliases": [
+    "Wasatch Mountains",
+    "Wasatch"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Uinta Mountains",
+   "aliases": [
+    "Uintas",
+    "Uinta"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sangre de Cristo Mountains",
+   "aliases": [
+    "Sangre de Cristo Range",
+    "Sangre de Cristo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "San Juan Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Front Range",
+   "aliases": [
+    "Front Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bitterroot Range",
+   "aliases": [
+    "Bitterroots",
+    "Bitterroot Mountains",
+    "Bitterroot"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Olympic Mountains",
+   "aliases": [
+    "Olympic Range"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "San Gabriel Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Santa Monica Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Ouachita Mountains",
+   "aliases": [
+    "Ouachitas",
+    "Ouachita"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Allegheny Mountains",
+   "aliases": [
+    "Alleghenies",
+    "Allegheny"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Berkshires",
+   "aliases": [
+    "Berkshire Hills",
+    "Berkshire Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pocono Mountains",
+   "aliases": [
+    "Poconos",
+    "Pocono"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Laurentian Mountains",
+   "aliases": [
+    "Laurentians",
+    "Laurentides",
+    "Laurentian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mackenzie Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Saint Elias Mountains",
+   "aliases": [
+    "Saint Elias Range",
+    "Saint Elias"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chugach Mountains",
+   "aliases": [
+    "Chugach"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Superstition Mountains",
+   "aliases": [
+    "Superstitions"
+   ],
+   "tier": 4,
+   "lore": "Legend says they hide the Lost Dutchman's Gold Mine, and people still go looking for it."
+  },
+  {
+   "answer": "Guadalupe Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Trans-Mexican Volcanic Belt",
+   "aliases": [
+    "Neovolcanic Axis",
+    "Cordillera Neovolcánica",
+    "Mexican Volcanic Belt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sierra Maestra",
+   "tier": 4,
+   "lore": "Fidel Castro's rebels based themselves here from 1956 until their victory in 1959."
+  },
+  {
+   "answer": "Cordillera Central",
+   "tier": 4
+  },
+  {
+   "answer": "Cordillera Blanca",
+   "tier": 4
+  },
+  {
+   "answer": "Serra do Mar",
+   "tier": 4
+  },
+  {
+   "answer": "Teutoburg Forest",
+   "aliases": [
+    "Teutoburger Wald"
+   ],
+   "tier": 4,
+   "lore": "It gave its name to the battle of AD 9, when Germanic tribes destroyed three Roman legions."
+  },
+  {
+   "answer": "Thuringian Forest",
+   "tier": 4
+  },
+  {
+   "answer": "Bavarian Forest",
+   "tier": 4
+  },
+  {
+   "answer": "Bohemian Forest",
+   "aliases": [
+    "Šumava"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Swabian Jura",
+   "aliases": [
+    "Swabian Alb",
+    "Schwäbische Alb"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Taunus",
+   "tier": 4
+  },
+  {
+   "answer": "Mont Blanc Massif",
+   "aliases": [
+    "Massif du Mont-Blanc"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shropshire Hills",
+   "tier": 4
+  },
+  {
+   "answer": "Campsie Fells",
+   "aliases": [
+    "Campsies"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Preseli Hills",
+   "aliases": [
+    "Preseli Mountains",
+    "Preselis",
+    "Presely Hills",
+    "Mynydd Preseli"
+   ],
+   "tier": 4,
+   "lore": "Source of the bluestones of Stonehenge, about 225 km away."
+  },
+  {
+   "answer": "Twelve Bens",
+   "aliases": [
+    "Twelve Pins",
+    "Benna Beola"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cederberg",
+   "aliases": [
+    "Cederberg Mountains",
+    "Cedarberg"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sierra Madre del Sur",
+   "tier": 4
+  },
+  {
+   "answer": "Selkirk Mountains",
+   "aliases": [
+    "Selkirks",
+    "Selkirk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Klamath Mountains",
+   "aliases": [
+    "Klamath"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "San Bernardino Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Sawtooth Range",
+   "aliases": [
+    "Sawtooths",
+    "Sawtooth Mountains",
+    "Sawtooth"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "East Pacific Rise",
+   "tier": 4
+  },
+  {
+   "answer": "Hawaiian–Emperor Seamount Chain",
+   "aliases": [
+    "Hawaiian-Emperor Seamounts",
+    "Emperor Seamounts"
+   ],
+   "tier": 4,
+   "lore": "A trail of volcanoes some 6,000 km long, left as the Pacific plate drifts over a hotspot."
+  },
+  {
+   "answer": "Lomonosov Ridge",
+   "tier": 4,
+   "lore": "Russia, Denmark and Canada all claim it as part of their continental shelf."
+  },
+  {
+   "answer": "Siwalik Hills",
+   "aliases": [
+    "Shivalik Hills",
+    "Siwaliks",
+    "Shivaliks"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Annapurna Himal",
+   "aliases": [
+    "Annapurna Massif",
+    "Annapurna Range",
+    "Annapurna Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Khasi Hills",
+   "tier": 4
+  },
+  {
+   "answer": "Arakan Mountains",
+   "aliases": [
+    "Arakan Yoma",
+    "Rakhine Yoma",
+    "Rakhine Mountains",
+    "Arakan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lesser Caucasus",
+   "tier": 4
+  },
+  {
+   "answer": "Cardamom Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Greater Khingan",
+   "aliases": [
+    "Greater Khingan Range",
+    "Greater Hinggan",
+    "Da Hinggan Ling"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kopet Dag",
+   "aliases": [
+    "Kopet Dagh"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Spin Ghar",
+   "aliases": [
+    "Safed Koh"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anti-Lebanon Mountains",
+   "aliases": [
+    "Anti-Lebanon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Transhimalaya",
+   "aliases": [
+    "Gangdise",
+    "Gangdise Shan",
+    "Gangdise Mountains",
+    "Kailash Range"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Crimean Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Kyrenia Mountains",
+   "aliases": [
+    "Pentadaktylos",
+    "Kyrenia Range"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Taygetus",
+   "aliases": [
+    "Taygetos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Prokletije",
+   "aliases": [
+    "Accursed Mountains",
+    "Albanian Alps"
+   ],
+   "tier": 4,
+   "lore": "Their name means 'the accursed mountains'."
+  },
+  {
+   "answer": "Beskids",
+   "aliases": [
+    "Beskid Mountains",
+    "Beskydy"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Low Tatras",
+   "tier": 4
+  },
+  {
+   "answer": "Ötztal Alps",
+   "tier": 4
+  },
+  {
+   "answer": "Sierra de Tramuntana",
+   "aliases": [
+    "Serra de Tramuntana",
+    "Tramuntana"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sierra de Gredos",
+   "aliases": [
+    "Gredos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anti-Atlas",
+   "tier": 4
+  },
+  {
+   "answer": "Nuba Mountains",
+   "tier": 4
+  },
+  {
+   "answer": "Aleutian Range",
+   "aliases": [
+    "Aleutian Mountains"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Maxwell Montes",
+   "tier": 4,
+   "lore": "The highest mountains on Venus, and the only feature there named after a man: James Clerk Maxwell."
+  },
+  {
+   "answer": "Zanskar Range",
+   "aliases": [
+    "Zanskar Mountains",
+    "Zanskar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Misty Montes",
+   "aliases": [
+    "Misty Mountains"
+   ],
+   "tier": 4,
+   "lore": "A real range on Saturn's moon Titan, whose mountains are all named after Tolkien's. This one takes its name from his Misty Mountains."
+  },
+  {
+   "answer": "Kenai Mountains",
+   "aliases": [
+    "Kenai"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sawatch Range",
+   "aliases": [
+    "Sawatch Mountains",
+    "Sawatch"
+   ],
+   "tier": 4,
+   "lore": "Holds the highest peaks of the Rocky Mountains, led by Mount Elbert."
+  },
+  {
+   "answer": "Maloti Mountains",
+   "aliases": [
+    "Maluti Mountains",
+    "Malutis",
+    "Maloti"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Atlas",
+   "tier": 4
+  },
+  {
+   "answer": "Ngong Hills",
+   "tier": 4,
+   "lore": "Karen Blixen's Out of Africa begins: 'I had a farm in Africa, at the foot of the Ngong Hills.'"
+  },
+  {
+   "answer": "Waitākere Ranges",
+   "aliases": [
+    "Waitākere Range",
+    "Waitākere"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mount Lofty Ranges",
+   "aliases": [
+    "Mount Lofty Range"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dandenong Ranges",
+   "aliases": [
+    "Dandenongs",
+    "Dandenong Range"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Presidential Range",
+   "aliases": [
+    "Presidential Mountains"
+   ],
+   "tier": 4,
+   "lore": "Most of its peaks are named after American presidents, and the highest, Mount Washington, has some of the worst weather on Earth."
+  },
+  {
+   "answer": "North Pennines",
+   "tier": 4
+  },
+  {
+   "answer": "Titiwangsa Mountains",
+   "aliases": [
+    "Banjaran Titiwangsa",
+    "Titiwangsa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Qilian Mountains",
+   "aliases": [
+    "Qilian Shan",
+    "Qilian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hengduan Mountains",
+   "aliases": [
+    "Hengduan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taihang Mountains",
+   "aliases": [
+    "Taihang"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wuyi Mountains",
+   "aliases": [
+    "Wuyishan",
+    "Wuyi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hida Mountains",
+   "aliases": [
+    "Northern Alps",
+    "Hida"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taebaek Mountains",
+   "aliases": [
+    "Taebaek"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sikhote-Alin",
+   "aliases": [
+    "Sikhote-Alin Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stanovoy Range",
+   "aliases": [
+    "Stanovoy Mountains",
+    "Stanovoy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chersky Range",
+   "aliases": [
+    "Chersky Mountains",
+    "Chersky"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sulaiman Mountains",
+   "aliases": [
+    "Suleiman Mountains",
+    "Sulaiman"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sarawat Mountains",
+   "aliases": [
+    "Hejaz Mountains",
+    "Asir Mountains",
+    "Sarawat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaçkar Mountains",
+   "aliases": [
+    "Kackar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cardamom Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Naga Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Patkai",
+   "aliases": [
+    "Patkai Hills",
+    "Patkai Bum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pir Panjal Range",
+   "aliases": [
+    "Pir Panjal Mountains",
+    "Pir Panjal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ladakh Range",
+   "aliases": [
+    "Ladakh Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mahalangur Himal",
+   "aliases": [
+    "Mahalangur",
+    "Mahalangur Range"
+   ],
+   "tier": 5,
+   "lore": "The stretch of the Himalayas that holds Everest, Lhotse, Makalu and Cho Oyu."
+  },
+  {
+   "answer": "Tenasserim Hills",
+   "aliases": [
+    "Tenasserim Range",
+    "Tanintharyi Hills"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Barisan Mountains",
+   "aliases": [
+    "Barisan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Crocker Range",
+   "aliases": [
+    "Crocker Mountains",
+    "Crocker"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maoke Mountains",
+   "aliases": [
+    "Maoke"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Salt Range",
+   "aliases": [
+    "Salt Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Iberian System",
+   "aliases": [
+    "Sistema Ibérico"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rhaetian Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Carnic Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Allgäu Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Apuan Alps",
+   "aliases": [
+    "Alpi Apuane"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karwendel",
+   "tier": 5
+  },
+  {
+   "answer": "Monti Sibillini",
+   "aliases": [
+    "Sibillini",
+    "Sibillini Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rhön",
+   "aliases": [
+    "Rhön Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bieszczady",
+   "aliases": [
+    "Bieszczady Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Apuseni Mountains",
+   "aliases": [
+    "Apuseni"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Făgăraș Mountains",
+   "aliases": [
+    "Făgăraș"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Velebit",
+   "tier": 5
+  },
+  {
+   "answer": "Šar Mountains",
+   "aliases": [
+    "Sharr Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pirin",
+   "aliases": [
+    "Pirin Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rila",
+   "aliases": [
+    "Rila Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dovrefjell",
+   "tier": 5
+  },
+  {
+   "answer": "Rondane",
+   "tier": 5
+  },
+  {
+   "answer": "Lyngen Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Khibiny Mountains",
+   "aliases": [
+    "Khibiny"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Howgill Fells",
+   "aliases": [
+    "Howgills"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Blackdown Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Lammermuir Hills",
+   "aliases": [
+    "Lammermuirs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monadhliath Mountains",
+   "aliases": [
+    "Monadhliath"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mamores",
+   "aliases": [
+    "Mamore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carneddau",
+   "aliases": [
+    "Carnedds"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Glyderau",
+   "aliases": [
+    "Glyders"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Berwyn Range",
+   "aliases": [
+    "Berwyns",
+    "Berwyn Mountains",
+    "Berwyn"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galtee Mountains",
+   "aliases": [
+    "Galtees",
+    "Galty Mountains",
+    "Galtee"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Comeragh Mountains",
+   "aliases": [
+    "Comeragh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slieve Bloom Mountains",
+   "aliases": [
+    "Slieve Bloom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maumturks",
+   "aliases": [
+    "Maumturk Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Blue Stack Mountains",
+   "aliases": [
+    "Blue Stack"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Derryveagh Mountains",
+   "aliases": [
+    "Derryveagh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Usambara Mountains",
+   "aliases": [
+    "Usambaras",
+    "Usambara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eastern Arc Mountains",
+   "aliases": [
+    "Eastern Arc"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cape Fold Mountains",
+   "aliases": [
+    "Cape Fold Belt",
+    "Cape Fold"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Magaliesberg",
+   "tier": 5
+  },
+  {
+   "answer": "Outeniqua Mountains",
+   "aliases": [
+    "Outeniqua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mitumba Mountains",
+   "aliases": [
+    "Mitumba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chimanimani Mountains",
+   "aliases": [
+    "Chimanimani"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mandara Mountains",
+   "aliases": [
+    "Mandara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Red Sea Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera de Talamanca",
+   "aliases": [
+    "Talamanca",
+    "Talamanca Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maya Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Real",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Huayhuash",
+   "aliases": [
+    "Huayhuash"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Darwin",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Oriental",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Occidental",
+   "tier": 5
+  },
+  {
+   "answer": "Serra da Mantiqueira",
+   "aliases": [
+    "Mantiqueira"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serra do Espinhaço",
+   "aliases": [
+    "Espinhaço"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sierra Nevada de Santa Marta",
+   "aliases": [
+    "Santa Marta Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sierras de Córdoba",
+   "aliases": [
+    "Sierra de Córdoba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arctic Cordillera",
+   "tier": 5
+  },
+  {
+   "answer": "Torngat Mountains",
+   "aliases": [
+    "Torngat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Long Range Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Purcell Mountains",
+   "aliases": [
+    "Purcells",
+    "Purcell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monashee Mountains",
+   "aliases": [
+    "Monashees",
+    "Monashee"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Columbia Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Trinity Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Transverse Ranges",
+   "aliases": [
+    "Transverse Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Santa Lucia Range",
+   "aliases": [
+    "Santa Lucia Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Diablo Range",
+   "aliases": [
+    "Diablo Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Absaroka Range",
+   "aliases": [
+    "Absarokas",
+    "Absaroka Mountains",
+    "Absaroka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Beartooth Mountains",
+   "aliases": [
+    "Beartooths",
+    "Beartooth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ruby Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Chisos Mountains",
+   "aliases": [
+    "Chisos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sandia Mountains",
+   "aliases": [
+    "Sandia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Musgrave Ranges",
+   "aliases": [
+    "Musgrave Range",
+    "Musgrave"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hamersley Range",
+   "aliases": [
+    "Hamersley Mountains",
+    "Hamersley"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stirling Range",
+   "aliases": [
+    "Stirling Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Darling Range",
+   "aliases": [
+    "Darling Scarp",
+    "Darling Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Warrumbungles",
+   "aliases": [
+    "Warrumbungle Range",
+    "Warrumbungle Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tararua Range",
+   "aliases": [
+    "Tararua Mountains",
+    "Tararua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ruahine Range",
+   "aliases": [
+    "Ruahine Mountains",
+    "Ruahine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaikōura Ranges",
+   "aliases": [
+    "Kaikōura Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sentinel Range",
+   "aliases": [
+    "Sentinel Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Prince Charles Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Queen Maud Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Gakkel Ridge",
+   "aliases": [
+    "Nansen Ridge",
+    "Nansen Cordillera"
+   ],
+   "tier": 5,
+   "lore": "The slowest-spreading ocean ridge on Earth, hidden under the Arctic ice."
+  },
+  {
+   "answer": "Southwest Indian Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Ninety East Ridge",
+   "tier": 5,
+   "lore": "Named after the line of longitude it follows, nearly straight, for about 5,000 km."
+  },
+  {
+   "answer": "Reykjanes Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Juan de Fuca Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Walvis Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Hillary Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Apenninus",
+   "aliases": [
+    "Lunar Apennines"
+   ],
+   "tier": 5,
+   "lore": "A range on the Moon named after Italy's Apennines. Apollo 15 landed at its foot."
+  },
+  {
+   "answer": "Tharsis Montes",
+   "aliases": [
+    "Tharsis Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vinson Massif",
+   "tier": 5
+  },
+  {
+   "answer": "Mithrim Montes",
+   "aliases": [
+    "Mountains of Mithrim"
+   ],
+   "tier": 5,
+   "lore": "Holds the highest known peak on Saturn's moon Titan, about 3,337 m, found in the Cassini probe's radar data in 2016."
+  },
+  {
+   "answer": "Moria Montes",
+   "aliases": [
+    "Mountains of Moria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Angmar Montes",
+   "aliases": [
+    "Mountains of Angmar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luin Montes",
+   "aliases": [
+    "Ered Luin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lithui Montes",
+   "aliases": [
+    "Ered Lithui"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Echoriat Montes",
+   "aliases": [
+    "Echoriath Montes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dolmed Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Gram Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Irensaga Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Merlock Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Mindolluin Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Rerir Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Taniquetil Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Loma Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Fann Mountains",
+   "aliases": [
+    "Fann"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rodna Mountains",
+   "aliases": [
+    "Rodnei Mountains",
+    "Munții Rodnei",
+    "Rodna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "DeLong Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Kodar Mountains",
+   "aliases": [
+    "Kodar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kiso Mountains",
+   "aliases": [
+    "Central Alps",
+    "Chūō Alps",
+    "Kiso"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mealy Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Stołowe Mountains",
+   "aliases": [
+    "Góry Stołowe",
+    "Stołowe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Orlické hory",
+   "aliases": [
+    "Eagle Mountains",
+    "Orlicke Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dabie Mountains",
+   "aliases": [
+    "Dabie"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Călimani Mountains",
+   "aliases": [
+    "Călimani"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baetic Cordillera",
+   "aliases": [
+    "Baetic System",
+    "Cordillera Bética",
+    "Sistema Bético"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ox Mountains",
+   "aliases": [
+    "Slieve Gamph"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caha Mountains",
+   "aliases": [
+    "Caha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aïr Mountains",
+   "aliases": [
+    "Aïr Massif"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alay Mountains",
+   "aliases": [
+    "Alai Mountains",
+    "Alay Range",
+    "Alai Range",
+    "Alay"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yin Mountains",
+   "aliases": [
+    "Yinshan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Helan Mountains",
+   "aliases": [
+    "Helan Shan",
+    "Helan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hidaka Mountains",
+   "aliases": [
+    "Hidaka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ōu Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Star Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Wallowa Mountains",
+   "aliases": [
+    "Wallowa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Santa Rita Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Huachuca Mountains",
+   "aliases": [
+    "Huachuca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Boston Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Cumberland Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Selwyn Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Bernina Range",
+   "aliases": [
+    "Bernina Alps",
+    "Bernina Mountains",
+    "Bernina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mátra",
+   "aliases": [
+    "Mátra Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jizera Mountains",
+   "aliases": [
+    "Jizerské hory",
+    "Izera Mountains",
+    "Góry Izerskie",
+    "Jizera"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Owl Mountains",
+   "aliases": [
+    "Góry Sowie"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sila",
+   "aliases": [
+    "La Sila",
+    "Sila Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Siebengebirge",
+   "aliases": [
+    "Seven Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paparoa Range",
+   "aliases": [
+    "Paparoa Mountains",
+    "Paparoa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Southeast Indian Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Funeral Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Judean Mountains",
+   "aliases": [
+    "Judean Hills",
+    "Judaean Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Manzano Mountains",
+   "aliases": [
+    "Manzano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zuni Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Tushar Mountains",
+   "aliases": [
+    "Tushar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Skeena Mountains",
+   "aliases": [
+    "Skeena"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baffin Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Chūgoku Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Echigo Mountains",
+   "aliases": [
+    "Echigo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lüliang Mountains",
+   "aliases": [
+    "Lüliang"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Min Mountains",
+   "aliases": [
+    "Minshan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chin Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Diwata Mountains",
+   "aliases": [
+    "Diwata"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Talysh Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Haraz Mountains",
+   "aliases": [
+    "Haraz"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khangai Mountains",
+   "aliases": [
+    "Khangay Mountains",
+    "Khangai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bale Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Dublin Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Partry Mountains",
+   "aliases": [
+    "Partry"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aurès Mountains",
+   "aliases": [
+    "Aurès"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Atakora Mountains",
+   "aliases": [
+    "Atacora Mountains",
+    "Atakora"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Daba Mountains",
+   "aliases": [
+    "Daba Shan",
+    "Daba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wuling Mountains",
+   "aliases": [
+    "Wuling"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nanling Mountains",
+   "aliases": [
+    "Nanling"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sobaek Mountains",
+   "aliases": [
+    "Sobaek"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spring Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Inyo Mountains",
+   "aliases": [
+    "Inyo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Crazy Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Elk Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Wet Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Jemez Mountains",
+   "aliases": [
+    "Jemez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Organ Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Davis Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Henry Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "La Sal Mountains",
+   "aliases": [
+    "La Sal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wichita Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Unaka Mountains",
+   "aliases": [
+    "Unaka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cassiar Mountains",
+   "aliases": [
+    "Cassiar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bunya Mountains",
+   "aliases": [
+    "Bunya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Darran Mountains",
+   "aliases": [
+    "Darran"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pare Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Santa Ana Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Chuska Mountains",
+   "aliases": [
+    "Chuska"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Glass Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Iron Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Baird Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Parâng Mountains",
+   "aliases": [
+    "Parâng"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dartry Mountains",
+   "aliases": [
+    "Dartry"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shehy Mountains",
+   "aliases": [
+    "Shehy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Daxue Mountains",
+   "aliases": [
+    "Daxue Shan",
+    "Daxue"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ailao Mountains",
+   "aliases": [
+    "Ailao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dhofar Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Nur Mountains",
+   "aliases": [
+    "Amanus Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saharan Atlas",
+   "tier": 5
+  },
+  {
+   "answer": "Tell Atlas",
+   "tier": 5
+  },
+  {
+   "answer": "Uluguru Mountains",
+   "aliases": [
+    "Uluguru"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Udzungwa Mountains",
+   "aliases": [
+    "Udzungwa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mulanje Massif",
+   "aliases": [
+    "Mount Mulanje Massif"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nyanga Mountains",
+   "aliases": [
+    "Inyanga Mountains",
+    "Nyanga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Swartberg",
+   "aliases": [
+    "Swartberg Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Langeberg",
+   "tier": 5
+  },
+  {
+   "answer": "Waterberg",
+   "aliases": [
+    "Waterberg Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Soutpansberg",
+   "tier": 5
+  },
+  {
+   "answer": "Lebombo Mountains",
+   "aliases": [
+    "Lebombo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Matobo Hills",
+   "aliases": [
+    "Matopos",
+    "Matopo Hills"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adrar des Ifoghas",
+   "tier": 5
+  },
+  {
+   "answer": "Djurdjura",
+   "tier": 5
+  },
+  {
+   "answer": "Nimba Range",
+   "aliases": [
+    "Nimba Mountains",
+    "Nimba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Crystal Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Imatong Mountains",
+   "aliases": [
+    "Imatong"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Danakil Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Cal Madow",
+   "tier": 5
+  },
+  {
+   "answer": "Tsaratanana Massif",
+   "tier": 5
+  },
+  {
+   "answer": "Ankaratra",
+   "tier": 5
+  },
+  {
+   "answer": "Cherangani Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Kaimai Range",
+   "aliases": [
+    "Kaimai Mountains",
+    "Kaimai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Raukumara Range",
+   "aliases": [
+    "Raukumara Mountains",
+    "Raukumara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaweka Range",
+   "aliases": [
+    "Kaweka Mountains",
+    "Kaweka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Remutaka Range",
+   "aliases": [
+    "Rimutaka Range",
+    "Remutaka Mountains",
+    "Remutaka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Richmond Range",
+   "aliases": [
+    "Richmond Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spenser Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Arrowsmith Range",
+   "aliases": [
+    "Arrowsmith Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ben Ohau Range",
+   "aliases": [
+    "Ben Ohau Mountains",
+    "Ben Ohau"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Takitimu Mountains",
+   "aliases": [
+    "Takitimu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaimanawa Range",
+   "aliases": [
+    "Kaimanawa Mountains",
+    "Kaimanawa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Coromandel Range",
+   "aliases": [
+    "Coromandel Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hunua Ranges",
+   "aliases": [
+    "Hunua Range",
+    "Hunua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rock and Pillar Range",
+   "aliases": [
+    "Rock and Pillar Mountains",
+    "Rock and Pillar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liverpool Range",
+   "aliases": [
+    "Liverpool Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "McPherson Range",
+   "aliases": [
+    "McPherson Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Otway Ranges",
+   "aliases": [
+    "Otways",
+    "Otway Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Strzelecki Ranges",
+   "aliases": [
+    "Strzelecki Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Brindabella Range",
+   "aliases": [
+    "Brindabellas",
+    "Brindabella Mountains",
+    "Brindabella"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Budawang Range",
+   "aliases": [
+    "Budawang Mountains",
+    "Budawang"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carnarvon Range",
+   "aliases": [
+    "Carnarvon Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Petermann Ranges",
+   "aliases": [
+    "Petermann Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gawler Ranges",
+   "aliases": [
+    "Gawler Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wunaamin Miliwundi Ranges",
+   "aliases": [
+    "King Leopold Ranges",
+    "Wunaamin Miliwundi Range",
+    "Wunaamin Miliwundi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Porongurup Range",
+   "aliases": [
+    "Porongurup Mountains",
+    "Porongurup"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Western Tiers",
+   "tier": 5
+  },
+  {
+   "answer": "Du Cane Range",
+   "aliases": [
+    "Du Cane Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bismarck Range",
+   "aliases": [
+    "Bismarck Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Finisterre Range",
+   "aliases": [
+    "Finisterre Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saruwaged Range",
+   "aliases": [
+    "Saruwaged Mountains",
+    "Saruwaged"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Torricelli Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Sudirman Range",
+   "aliases": [
+    "Sudirman Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jayawijaya Mountains",
+   "aliases": [
+    "Jayawijaya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central Range",
+   "aliases": [
+    "Central Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mosquito Range",
+   "aliases": [
+    "Mosquito Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gore Range",
+   "aliases": [
+    "Gore Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Park Range",
+   "aliases": [
+    "Park Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Medicine Bow Mountains",
+   "aliases": [
+    "Medicine Bow"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Laramie Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Gallatin Range",
+   "aliases": [
+    "Gallatin Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Madison Range",
+   "aliases": [
+    "Madison Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bridger Range",
+   "aliases": [
+    "Bridger Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lewis Range",
+   "aliases": [
+    "Lewis Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mission Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Cabinet Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Salmon River Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Lost River Range",
+   "aliases": [
+    "Lost River Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lemhi Range",
+   "aliases": [
+    "Lemhi Mountains",
+    "Lemhi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seven Devils Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Warner Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Toiyabe Range",
+   "aliases": [
+    "Toiyabe Mountains",
+    "Toiyabe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Snake Range",
+   "aliases": [
+    "Snake Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Panamint Range",
+   "aliases": [
+    "Panamint Mountains",
+    "Panamint"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "San Jacinto Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Santa Rosa Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Santa Ynez Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Tehachapi Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Santa Cruz Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Chiricahua Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Santa Catalina Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Pinaleño Mountains",
+   "aliases": [
+    "Pinaleño"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bradshaw Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Mogollon Mountains",
+   "aliases": [
+    "Mogollon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sacramento Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "San Andres Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Abajo Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Oquirrh Mountains",
+   "aliases": [
+    "Oquirrh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gros Ventre Range",
+   "aliases": [
+    "Gros Ventre Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wyoming Range",
+   "aliases": [
+    "Wyoming Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Big Belt Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Little Belt Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Bears Paw Mountains",
+   "aliases": [
+    "Bears Paw"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arbuckle Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Franklin Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Taconic Mountains",
+   "aliases": [
+    "Taconic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shawangunk Ridge",
+   "aliases": [
+    "Shawangunks",
+    "Gunks"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kittatinny Mountain",
+   "aliases": [
+    "Kittatinny Ridge"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ramapo Mountains",
+   "aliases": [
+    "Ramapo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hudson Highlands",
+   "tier": 5
+  },
+  {
+   "answer": "Longfellow Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Mahoosuc Range",
+   "aliases": [
+    "Mahoosuc Mountains",
+    "Mahoosuc"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Franconia Range",
+   "aliases": [
+    "Franconia Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sandwich Range",
+   "aliases": [
+    "Sandwich Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Massanutten Mountain",
+   "tier": 5
+  },
+  {
+   "answer": "Uwharrie Mountains",
+   "aliases": [
+    "Uwharrie"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Koʻolau Range",
+   "aliases": [
+    "Koʻolau Mountains",
+    "Koʻolau"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Waiʻanae Range",
+   "aliases": [
+    "Waiʻanae Mountains",
+    "Waiʻanae"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wrangell Mountains",
+   "aliases": [
+    "Wrangell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Talkeetna Mountains",
+   "aliases": [
+    "Talkeetna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kuskokwim Mountains",
+   "aliases": [
+    "Kuskokwim"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Philip Smith Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Romanzof Mountains",
+   "aliases": [
+    "Romanzof"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fairweather Range",
+   "aliases": [
+    "Fairweather Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Boundary Ranges",
+   "aliases": [
+    "Boundary Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cariboo Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Omineca Mountains",
+   "aliases": [
+    "Omineca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hazelton Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Pacific Ranges",
+   "aliases": [
+    "Pacific Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kitimat Ranges",
+   "aliases": [
+    "Kitimat Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Insular Mountains",
+   "aliases": [
+    "Vancouver Island Ranges"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ogilvie Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Richardson Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "British Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Chic-Choc Mountains",
+   "aliases": [
+    "Chic-Chocs",
+    "Chic-Choc"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Notre Dame Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra Madre de Chiapas",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de San Pedro Mártir",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de la Laguna",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra Gorda",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra Juárez",
+   "tier": 5
+  },
+  {
+   "answer": "Northern Range",
+   "aliases": [
+    "Northern Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Escambray Mountains",
+   "aliases": [
+    "Sierra del Escambray",
+    "Escambray"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sierra del Rosario",
+   "tier": 5
+  },
+  {
+   "answer": "Massif de la Hotte",
+   "tier": 5
+  },
+  {
+   "answer": "Massif de la Selle",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Septentrional",
+   "tier": 5
+  },
+  {
+   "answer": "Luquillo Mountains",
+   "aliases": [
+    "Luquillo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera de Guanacaste",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera de Tilarán",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de los Cuchumatanes",
+   "aliases": [
+    "Cuchumatanes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de las Minas",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Negra",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Vilcanota",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Vilcabamba",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Urubamba",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera Apolobamba",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera de la Costa",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera de Mérida",
+   "tier": 5
+  },
+  {
+   "answer": "Serranía de Perijá",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de la Ventana",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de Famatina",
+   "tier": 5
+  },
+  {
+   "answer": "Cordillera del Paine",
+   "aliases": [
+    "Paine Massif"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pakaraima Mountains",
+   "aliases": [
+    "Pakaraima"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tumuk Humak Mountains",
+   "aliases": [
+    "Tumuk Humak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kanuku Mountains",
+   "aliases": [
+    "Kanuku"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serra Geral",
+   "tier": 5
+  },
+  {
+   "answer": "Serra dos Órgãos",
+   "tier": 5
+  },
+  {
+   "answer": "Serra da Canastra",
+   "tier": 5
+  },
+  {
+   "answer": "Serra do Caparaó",
+   "tier": 5
+  },
+  {
+   "answer": "Serra Parima",
+   "tier": 5
+  },
+  {
+   "answer": "Graian Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Cottian Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Lepontine Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Glarus Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Uri Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Silvretta",
+   "tier": 5
+  },
+  {
+   "answer": "Rätikon",
+   "tier": 5
+  },
+  {
+   "answer": "Stubai Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Zillertal Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Kitzbühel Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Dachstein Mountains",
+   "aliases": [
+    "Dachstein"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Totes Gebirge",
+   "tier": 5
+  },
+  {
+   "answer": "Karawanks",
+   "aliases": [
+    "Karavanke"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kamnik–Savinja Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Bergamo Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Adamello-Presanella Alps",
+   "aliases": [
+    "Adamello"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ortler Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Brenta Dolomites",
+   "tier": 5
+  },
+  {
+   "answer": "Massif des Écrins",
+   "aliases": [
+    "Écrins"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vercors",
+   "tier": 5
+  },
+  {
+   "answer": "Chartreuse Mountains",
+   "aliases": [
+    "Chartreuse"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aravis",
+   "tier": 5
+  },
+  {
+   "answer": "Chablais",
+   "tier": 5
+  },
+  {
+   "answer": "Berchtesgaden Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Wetterstein",
+   "tier": 5
+  },
+  {
+   "answer": "Lechtal Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Niedere Tauern",
+   "aliases": [
+    "Low Tauern"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Northern Limestone Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Alpstein",
+   "tier": 5
+  },
+  {
+   "answer": "Albula Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Sierra de Cazorla",
+   "tier": 5
+  },
+  {
+   "answer": "Montes de Toledo",
+   "tier": 5
+  },
+  {
+   "answer": "Sistema Central",
+   "aliases": [
+    "Central System"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serra do Gerês",
+   "tier": 5
+  },
+  {
+   "answer": "Serra de Monchique",
+   "tier": 5
+  },
+  {
+   "answer": "Morvan",
+   "tier": 5
+  },
+  {
+   "answer": "Monts Dore",
+   "tier": 5
+  },
+  {
+   "answer": "Monts du Cantal",
+   "tier": 5
+  },
+  {
+   "answer": "Massif de l'Esterel",
+   "aliases": [
+    "Esterel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luberon",
+   "tier": 5
+  },
+  {
+   "answer": "Alpilles",
+   "tier": 5
+  },
+  {
+   "answer": "Hunsrück",
+   "tier": 5
+  },
+  {
+   "answer": "Westerwald",
+   "tier": 5
+  },
+  {
+   "answer": "Rothaargebirge",
+   "tier": 5
+  },
+  {
+   "answer": "Weser Uplands",
+   "tier": 5
+  },
+  {
+   "answer": "Odenwald",
+   "tier": 5
+  },
+  {
+   "answer": "Spessart",
+   "tier": 5
+  },
+  {
+   "answer": "Fichtelgebirge",
+   "tier": 5
+  },
+  {
+   "answer": "Elbe Sandstone Mountains",
+   "aliases": [
+    "Elbe Sandstone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lusatian Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Hrubý Jeseník",
+   "tier": 5
+  },
+  {
+   "answer": "Pieniny",
+   "tier": 5
+  },
+  {
+   "answer": "Gorce",
+   "tier": 5
+  },
+  {
+   "answer": "Slovak Ore Mountains",
+   "aliases": [
+    "Slovak Ore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Malá Fatra",
+   "tier": 5
+  },
+  {
+   "answer": "Veľká Fatra",
+   "tier": 5
+  },
+  {
+   "answer": "Little Carpathians",
+   "tier": 5
+  },
+  {
+   "answer": "White Carpathians",
+   "tier": 5
+  },
+  {
+   "answer": "Bükk",
+   "tier": 5
+  },
+  {
+   "answer": "Börzsöny",
+   "tier": 5
+  },
+  {
+   "answer": "Bakony",
+   "tier": 5
+  },
+  {
+   "answer": "Mecsek",
+   "tier": 5
+  },
+  {
+   "answer": "Bucegi Mountains",
+   "aliases": [
+    "Bucegi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Retezat Mountains",
+   "aliases": [
+    "Retezat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceahlău Massif",
+   "aliases": [
+    "Ceahlău"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Piatra Craiului",
+   "tier": 5
+  },
+  {
+   "answer": "Vitosha",
+   "tier": 5
+  },
+  {
+   "answer": "Strandzha",
+   "tier": 5
+  },
+  {
+   "answer": "Osogovo",
+   "tier": 5
+  },
+  {
+   "answer": "Durmitor",
+   "tier": 5
+  },
+  {
+   "answer": "Kopaonik",
+   "tier": 5
+  },
+  {
+   "answer": "Zlatibor",
+   "tier": 5
+  },
+  {
+   "answer": "Korab",
+   "tier": 5
+  },
+  {
+   "answer": "Othrys",
+   "tier": 5
+  },
+  {
+   "answer": "Dikti",
+   "tier": 5
+  },
+  {
+   "answer": "Gran Sasso",
+   "aliases": [
+    "Gran Sasso d'Italia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maiella",
+   "aliases": [
+    "Majella"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aspromonte",
+   "tier": 5
+  },
+  {
+   "answer": "Pollino",
+   "tier": 5
+  },
+  {
+   "answer": "Madonie",
+   "tier": 5
+  },
+  {
+   "answer": "Nebrodi",
+   "tier": 5
+  },
+  {
+   "answer": "Peloritani",
+   "tier": 5
+  },
+  {
+   "answer": "Gennargentu",
+   "tier": 5
+  },
+  {
+   "answer": "Supramonte",
+   "tier": 5
+  },
+  {
+   "answer": "Trollheimen",
+   "tier": 5
+  },
+  {
+   "answer": "Sunnmøre Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Timan Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Valdai Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Snowdon Massif",
+   "tier": 5
+  },
+  {
+   "answer": "Moelwynion",
+   "aliases": [
+    "Moelwyns"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rhinogydd",
+   "aliases": [
+    "Rhinogs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arenig",
+   "aliases": [
+    "Arenigs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fforest Fawr",
+   "tier": 5
+  },
+  {
+   "answer": "Radnor Forest",
+   "tier": 5
+  },
+  {
+   "answer": "Stiperstones",
+   "tier": 5
+  },
+  {
+   "answer": "Clee Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Lickey Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Clent Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Bowland Fells",
+   "aliases": [
+    "Forest of Bowland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cleveland Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Hambleton Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Brendon Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Purbeck Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Dorset Downs",
+   "tier": 5
+  },
+  {
+   "answer": "Berkshire Downs",
+   "tier": 5
+  },
+  {
+   "answer": "Marlborough Downs",
+   "tier": 5
+  },
+  {
+   "answer": "Hampshire Downs",
+   "tier": 5
+  },
+  {
+   "answer": "Gog Magog Hills",
+   "aliases": [
+    "Gog Magogs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moorfoot Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Lowther Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Galloway Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Trotternish",
+   "aliases": [
+    "Trotternish Ridge"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Torridon Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Fannichs",
+   "tier": 5
+  },
+  {
+   "answer": "Five Sisters of Kintail",
+   "tier": 5
+  },
+  {
+   "answer": "Arrochar Alps",
+   "tier": 5
+  },
+  {
+   "answer": "Paps of Jura",
+   "tier": 5
+  },
+  {
+   "answer": "Sidlaw Hills",
+   "aliases": [
+    "Sidlaws"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gargunnock Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Kilpatrick Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Eildon Hills",
+   "aliases": [
+    "Eildons"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Black Mount",
+   "tier": 5
+  },
+  {
+   "answer": "Grey Corries",
+   "tier": 5
+  },
+  {
+   "answer": "Knockmealdown Mountains",
+   "aliases": [
+    "Knockmealdowns",
+    "Knockmealdown"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silvermine Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Ballyhoura Mountains",
+   "aliases": [
+    "Ballyhoura"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nephin Beg Range",
+   "aliases": [
+    "Nephin Beg Mountains",
+    "Nephin Beg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ring of Gullion",
+   "tier": 5
+  },
+  {
+   "answer": "Belfast Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Blackstairs Mountains",
+   "aliases": [
+    "Blackstairs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slieve Mish Mountains",
+   "aliases": [
+    "Slieve Mish"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slieve Aughty Mountains",
+   "aliases": [
+    "Slieve Aughty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bricklieve Mountains",
+   "aliases": [
+    "Bricklieve"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sheeffry Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Akaishi Mountains",
+   "aliases": [
+    "Southern Alps of Japan",
+    "Minami Alps",
+    "Akaishi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hakkōda Mountains",
+   "aliases": [
+    "Hakkōda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shikoku Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Kitakami Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Lesser Khingan",
+   "tier": 5
+  },
+  {
+   "answer": "Changbai Mountains",
+   "aliases": [
+    "Changbai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wudang Mountains",
+   "aliases": [
+    "Wudang"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaoligong Mountains",
+   "aliases": [
+    "Gaoligong"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nyenchen Tanglha Mountains",
+   "aliases": [
+    "Nyenchen Tanglha",
+    "Nyainqêntanglha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tanggula Mountains",
+   "aliases": [
+    "Dangla Mountains",
+    "Tanggula"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bayan Har Mountains",
+   "aliases": [
+    "Bayan Har"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amne Machin",
+   "tier": 5
+  },
+  {
+   "answer": "Altyn-Tagh",
+   "tier": 5
+  },
+  {
+   "answer": "Hindu Raj",
+   "tier": 5
+  },
+  {
+   "answer": "Toba Kakar Range",
+   "aliases": [
+    "Toba Kakar Mountains",
+    "Toba Kakar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kirthar Range",
+   "aliases": [
+    "Kirthar Mountains",
+    "Kirthar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makran Range",
+   "aliases": [
+    "Makran Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Margalla Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Dhauladhar",
+   "aliases": [
+    "Dhauladhar Range"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Garhwal Himalaya",
+   "tier": 5
+  },
+  {
+   "answer": "Kumaon Himalaya",
+   "tier": 5
+  },
+  {
+   "answer": "Mishmi Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Garo Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Jaintia Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Lushai Hills",
+   "aliases": [
+    "Mizo Hills"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shan Hills",
+   "tier": 5
+  },
+  {
+   "answer": "Dawna Range",
+   "aliases": [
+    "Dawna Mountains",
+    "Dawna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bilauktaung",
+   "tier": 5
+  },
+  {
+   "answer": "Phetchabun Mountains",
+   "aliases": [
+    "Phetchabun"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luang Prabang Range",
+   "aliases": [
+    "Luang Prabang Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hoàng Liên Sơn",
+   "tier": 5
+  },
+  {
+   "answer": "Elephant Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Dangrek Mountains",
+   "aliases": [
+    "Dangrek"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zambales Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Central Mountain Range",
+   "aliases": [
+    "Central Mountain Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yushan Range",
+   "aliases": [
+    "Yushan Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xueshan Range",
+   "aliases": [
+    "Xueshan Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alishan Range",
+   "aliases": [
+    "Alishan Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Binalud",
+   "aliases": [
+    "Binalud Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jebel Akhdar",
+   "aliases": [
+    "Al Jabal al Akhdar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nusayriyah Mountains",
+   "aliases": [
+    "Alawite Mountains",
+    "Jabal Ansariyah",
+    "Nusayriyah"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zangezur Mountains",
+   "aliases": [
+    "Zangezur"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Likhi Range",
+   "aliases": [
+    "Likhi Mountains",
+    "Likhi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Turkestan Range",
+   "aliases": [
+    "Turkestan Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zarafshan Range",
+   "aliases": [
+    "Zarafshan Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gissar Range",
+   "aliases": [
+    "Hissar Range",
+    "Gissar Mountains",
+    "Gissar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chatkal Range",
+   "aliases": [
+    "Chatkal Mountains",
+    "Chatkal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kyrgyz Ala-Too",
+   "tier": 5
+  },
+  {
+   "answer": "Trans-Ili Alatau",
+   "tier": 5
+  },
+  {
+   "answer": "Dzungarian Alatau",
+   "tier": 5
+  },
+  {
+   "answer": "Tarbagatai Mountains",
+   "aliases": [
+    "Tarbagatai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khentii Mountains",
+   "aliases": [
+    "Khentii"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gobi-Altai Mountains",
+   "aliases": [
+    "Gobi-Altai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Byrranga Mountains",
+   "aliases": [
+    "Byrranga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kolyma Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Koryak Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Sredinny Range",
+   "aliases": [
+    "Sredinny Mountains",
+    "Sredinny"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dzhugdzhur",
+   "tier": 5
+  },
+  {
+   "answer": "Yablonovy Range",
+   "aliases": [
+    "Yablonovy Mountains",
+    "Yablonovy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Barguzin Range",
+   "aliases": [
+    "Barguzin Mountains",
+    "Barguzin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khamar-Daban",
+   "tier": 5
+  },
+  {
+   "answer": "Kuznetsk Alatau",
+   "tier": 5
+  },
+  {
+   "answer": "Momsky Range",
+   "aliases": [
+    "Momsky Mountains",
+    "Momsky"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chukotka Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Meratus Mountains",
+   "aliases": [
+    "Meratus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Müller Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Schwaner Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Queen Alexandra Range",
+   "aliases": [
+    "Queen Alexandra Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Britannia Range",
+   "aliases": [
+    "Britannia Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Admiralty Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Pensacola Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Shackleton Range",
+   "aliases": [
+    "Shackleton Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Horlick Mountains",
+   "tier": 5
+  },
+  {
+   "answer": "Heritage Range",
+   "aliases": [
+    "Heritage Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Executive Committee Range",
+   "aliases": [
+    "Executive Committee Mountains"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sør Rondane Mountains",
+   "aliases": [
+    "Sør Rondane"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central Indian Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Pacific-Antarctic Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Chile Rise",
+   "tier": 5
+  },
+  {
+   "answer": "Cocos Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Nazca Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Carnegie Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Kolbeinsey Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Mohns Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Knipovich Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Alpha Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Mendeleev Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Louisville Ridge",
+   "aliases": [
+    "Louisville Seamount Chain"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tonga Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Kermadec Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Norfolk Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Macquarie Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Chagos-Laccadive Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Aden Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Explorer Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Gorda Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "New England Seamounts",
+   "tier": 5
+  },
+  {
+   "answer": "American-Antarctic Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Wyville Thomson Ridge",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Alpes",
+   "aliases": [
+    "Lunar Alps"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Montes Caucasus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Carpatus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Jura",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Haemus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Taurus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Pyrenaeus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Teneriffe",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Recti",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Spitzbergen",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Riphaeus",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Agricola",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Archimedes",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Cordillera",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Rook",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Harbinger",
+   "tier": 5
+  },
+  {
+   "answer": "Montes Secchi",
+   "tier": 5
+  },
+  {
+   "answer": "Phlegra Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Charitum Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Nereidum Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Libya Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Tartarus Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Geryon Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Erebus Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Hellespontus Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Akna Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Freyja Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Danu Montes",
+   "tier": 5
+  },
+  {
+   "answer": "al-Idrisi Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Baret Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Clarke Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Caloris Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Boösaule Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Euboea Montes",
+   "tier": 5
+  },
+  {
+   "answer": "Gamburtsev Mountains",
+   "aliases": [
+    "Gamburtsev Subglacial Mountains",
+    "Gamburtsev Range",
+    "Gamburtsev"
+   ],
+   "tier": 6,
+   "lore": "About the size of the Alps, and buried completely under Antarctic ice. A Soviet expedition found them by seismic sounding in 1958."
+  },
+  {
+   "answer": "Tenzing Montes",
+   "aliases": [
+    "Norgay Montes"
+   ],
+   "tier": 6,
+   "lore": "The highest range on Pluto, with icy peaks around 6 km high, named after Tenzing Norgay, who climbed Everest with Hillary."
+  },
+  {
+   "answer": "Carlsberg Ridge",
+   "tier": 6,
+   "lore": "An undersea ridge in the Indian Ocean, named after the Carlsberg Foundation, which paid for the Danish expedition of 1928 to 1930 that found it."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Everest",
+   "aliases": [
+    "Mount Everest",
+    "Chomolungma",
+    "Qomolangma",
+    "Sagarmatha"
+   ],
+   "reason": "A single peak, if the highest of them all. Its range would count."
+  },
+  {
+   "answer": "K2",
+   "aliases": [
+    "Mount Godwin-Austen",
+    "Chhogori"
+   ],
+   "reason": "A single peak, the second highest on Earth."
+  },
+  {
+   "answer": "Kilimanjaro",
+   "aliases": [
+    "Mount Kilimanjaro",
+    "Kibo"
+   ],
+   "reason": "A lone volcano rising from the plains, not a range."
+  },
+  {
+   "answer": "Mont Blanc",
+   "aliases": [
+    "Monte Bianco"
+   ],
+   "reason": "A single peak, the highest in the Alps."
+  },
+  {
+   "answer": "Matterhorn",
+   "aliases": [
+    "Monte Cervino",
+    "Mont Cervin"
+   ],
+   "reason": "A single peak, astride the Swiss-Italian border."
+  },
+  {
+   "answer": "Ben Nevis",
+   "reason": "A single peak, the highest in Britain."
+  },
+  {
+   "answer": "Snowdon",
+   "aliases": [
+    "Yr Wyddfa",
+    "Mount Snowdon"
+   ],
+   "reason": "A single peak, the highest in Wales."
+  },
+  {
+   "answer": "Scafell Pike",
+   "aliases": [
+    "Scafell"
+   ],
+   "reason": "A single peak, the highest in England."
+  },
+  {
+   "answer": "Denali",
+   "aliases": [
+    "Mount McKinley",
+    "McKinley",
+    "Mount Denali"
+   ],
+   "reason": "A single peak, the highest in North America."
+  },
+  {
+   "answer": "Mount Fuji",
+   "aliases": [
+    "Fuji",
+    "Fujiyama",
+    "Fuji-san"
+   ],
+   "reason": "A single volcano, standing alone."
+  },
+  {
+   "answer": "Mount Olympus",
+   "aliases": [
+    "Olympus"
+   ],
+   "reason": "A single mountain, home of the Greek gods."
+  },
+  {
+   "answer": "Olympus Mons",
+   "reason": "A single volcano on Mars, the tallest known in the Solar System."
+  },
+  {
+   "answer": "Table Mountain",
+   "reason": "A single flat-topped mountain, looking down on Cape Town."
+  },
+  {
+   "answer": "Uluru",
+   "aliases": [
+    "Ayers Rock"
+   ],
+   "reason": "A single great rock, not a range."
+  },
+  {
+   "answer": "Aconcagua",
+   "reason": "A single peak, the highest in the Americas."
+  },
+  {
+   "answer": "Kosciuszko",
+   "aliases": [
+    "Mount Kosciuszko",
+    "Mount Kosciusko",
+    "Kosciusko"
+   ],
+   "reason": "A single peak, the highest in mainland Australia."
+  },
+  {
+   "answer": "Elbrus",
+   "aliases": [
+    "Mount Elbrus"
+   ],
+   "reason": "A single peak, often called the highest in Europe."
+  },
+  {
+   "answer": "Mount Kenya",
+   "reason": "A single old volcano, not a range."
+  },
+  {
+   "answer": "Mount Rushmore",
+   "aliases": [
+    "Rushmore"
+   ],
+   "reason": "A single mountain with four presidents carved into it. Its range would count."
+  },
+  {
+   "answer": "Mount Ararat",
+   "aliases": [
+    "Ararat"
+   ],
+   "reason": "A single volcano, where legend says Noah's Ark came to rest."
+  },
+  {
+   "answer": "Mount Sinai",
+   "aliases": [
+    "Jabal Musa"
+   ],
+   "reason": "A single mountain, where Moses is said to have received the Ten Commandments."
+  },
+  {
+   "answer": "Mount Vinson",
+   "aliases": [
+    "Vinson"
+   ],
+   "reason": "Antarctica's highest peak, not a range."
+  },
+  {
+   "answer": "Pen y Fan",
+   "reason": "A single peak, the highest in the Brecon Beacons."
+  },
+  {
+   "answer": "Mount Kailash",
+   "aliases": [
+    "Eiger",
+    "Jungfrau",
+    "Zugspitze",
+    "Triglav",
+    "Mont Ventoux",
+    "Grossglockner",
+    "Brocken",
+    "Aneto",
+    "Mulhacén",
+    "Monte Perdido",
+    "Kangchenjunga",
+    "Kanchenjunga",
+    "Lhotse",
+    "Makalu",
+    "Cho Oyu",
+    "Dhaulagiri",
+    "Manaslu",
+    "Nanga Parbat",
+    "Annapurna",
+    "Broad Peak",
+    "Shishapangma",
+    "Ama Dablam",
+    "Kailash",
+    "Nanda Devi",
+    "Mount Damavand",
+    "Damavand",
+    "Mount Kinabalu",
+    "Kinabalu",
+    "Mount Cook",
+    "Aoraki",
+    "Mount Logan",
+    "Mount Whitney",
+    "Mount Rainier",
+    "Mount Hood",
+    "Mount Shasta",
+    "Mount Washington",
+    "Pikes Peak",
+    "Longs Peak",
+    "Grand Teton",
+    "Half Dome",
+    "El Capitan",
+    "Mauna Kea",
+    "Mauna Loa",
+    "Chimborazo",
+    "Cotopaxi",
+    "Huascarán",
+    "Illimani",
+    "Mount Etna",
+    "Etna",
+    "Vesuvius",
+    "Mount Vesuvius",
+    "Teide",
+    "Mount Teide",
+    "Stromboli",
+    "Krakatoa",
+    "Mount St Helens",
+    "Popocatépetl",
+    "Mount Ida",
+    "Mount Parnassus",
+    "Parnassus",
+    "Mount Athos",
+    "Mount Hermon",
+    "Mount Tabor",
+    "Mount Zion",
+    "Helvellyn",
+    "Skiddaw",
+    "Cadair Idris",
+    "Cader Idris",
+    "Ben Lomond",
+    "Ben Macdui",
+    "Schiehallion",
+    "Slieve Donard",
+    "Carrauntoohil",
+    "Croagh Patrick",
+    "Arthur's Seat",
+    "The Wrekin",
+    "Kinder Scout",
+    "Cross Fell",
+    "Pendle Hill",
+    "Glastonbury Tor",
+    "Mount Erebus",
+    "Puncak Jaya",
+    "Carstensz Pyramid",
+    "Mount Apo",
+    "Mount Pinatubo",
+    "Mount Bromo",
+    "Mount Merapi",
+    "Mount Agung",
+    "Toubkal",
+    "Jebel Toubkal",
+    "Mount Cameroon",
+    "Mount Elgon",
+    "Mount Meru",
+    "Ras Dashen",
+    "Mount Wellington",
+    "Mount Roraima"
+   ],
+   "reason": "A single mountain, not a range."
+  },
+  {
+   "answer": "Mountains of Madness",
+   "aliases": [
+    "At the Mountains of Madness"
+   ],
+   "reason": "From H. P. Lovecraft's story At the Mountains of Madness, and found on no real map."
+  },
+  {
+   "answer": "Lonely Mountain",
+   "aliases": [
+    "Erebor",
+    "Mount Doom",
+    "Orodruin"
+   ],
+   "reason": "A single mountain, and Tolkien's besides."
+  },
+  {
+   "answer": "Big Rock Candy Mountains",
+   "aliases": [
+    "Big Rock Candy Mountain"
+   ],
+   "reason": "A hobo's paradise from an old folk song. The lemonade springs are not real."
+  },
+  {
+   "answer": "Mountains of Kong",
+   "aliases": [
+    "Kong Mountains"
+   ],
+   "reason": "Drawn on maps of West Africa for most of the 19th century. They never existed."
+  },
+  {
+   "answer": "Brokeback Mountain",
+   "reason": "Fictional, from a short story and the film made of it."
+  },
+  {
+   "answer": "Highlands",
+   "aliases": [
+    "Scottish Highlands",
+    "Highlands of Scotland",
+    "Northwest Highlands"
+   ],
+   "reason": "A region of Scotland, not one range. The Grampians would count."
+  },
+  {
+   "answer": "Snowdonia",
+   "aliases": [
+    "Eryri"
+   ],
+   "reason": "A national park full of mountains, not one range. Name one of its ranges."
+  },
+  {
+   "answer": "Lake District",
+   "aliases": [
+    "Lakeland"
+   ],
+   "reason": "A national park, not a range, though the mountains in it would count."
+  },
+  {
+   "answer": "Peak District",
+   "aliases": [
+    "The Peaks",
+    "Dark Peak",
+    "White Peak"
+   ],
+   "reason": "A national park at the southern end of the Pennines."
+  },
+  {
+   "answer": "Yorkshire Dales",
+   "reason": "Valleys and the fells between them. The Pennines run through them."
+  },
+  {
+   "answer": "Dartmoor",
+   "aliases": [
+    "Exmoor",
+    "Bodmin Moor",
+    "North York Moors"
+   ],
+   "reason": "A moor, not a range."
+  },
+  {
+   "answer": "Tibetan Plateau",
+   "aliases": [
+    "Tibet",
+    "Qinghai-Tibet Plateau"
+   ],
+   "reason": "A vast high plateau, ringed by ranges but not one itself."
+  },
+  {
+   "answer": "Roof of the World",
+   "reason": "A nickname claimed by a plateau and a range alike. Name the range."
+  },
+  {
+   "answer": "Deccan Plateau",
+   "aliases": [
+    "Deccan",
+    "Altiplano",
+    "Colorado Plateau",
+    "Ethiopian Highlands",
+    "Guiana Highlands",
+    "Brazilian Highlands",
+    "Iranian Plateau",
+    "Anatolian Plateau",
+    "Golan Heights",
+    "Hardangervidda",
+    "Kerguelen Plateau"
+   ],
+   "reason": "A plateau, not a range."
+  },
+  {
+   "answer": "Great Rift Valley",
+   "aliases": [
+    "Rift Valley",
+    "East African Rift"
+   ],
+   "reason": "A valley torn in the earth, not a range."
+  },
+  {
+   "answer": "Grand Canyon",
+   "reason": "A canyon, which is more or less a mountain range turned inside out."
+  },
+  {
+   "answer": "Ring of Fire",
+   "aliases": [
+    "Pacific Ring of Fire"
+   ],
+   "reason": "A horseshoe of volcanoes and trenches around the Pacific, not one range."
+  },
+  {
+   "answer": "Mariana Trench",
+   "aliases": [
+    "Marianas Trench"
+   ],
+   "reason": "A trench. Mountains go the other way."
+  },
+  {
+   "answer": "Balkans",
+   "aliases": [
+    "Balkan Peninsula"
+   ],
+   "reason": "A peninsula and a region, not a range."
+  },
+  {
+   "answer": "Patagonia",
+   "reason": "A region at the tip of South America, not a range."
+  },
+  {
+   "answer": "Tyrol",
+   "aliases": [
+    "Tirol",
+    "South Tyrol"
+   ],
+   "reason": "A region of the Alps, not a range of its own."
+  },
+  {
+   "answer": "Cordillera",
+   "reason": "That's just the word for a mountain chain. Name one."
+  },
+  {
+   "answer": "Kerry Mountains",
+   "reason": "Kerry has several ranges. Name one of them."
+  },
+  {
+   "answer": "Hottentots-Holland Mountains",
+   "aliases": [
+    "Hottentots Holland"
+   ],
+   "reason": "A real range near Cape Town, but its name holds an old slur for the Khoikhoi people, so the deep won't take it."
+  },
+  {
+   "answer": "Continental Divide",
+   "reason": "A watershed line along the crests of the Rockies and the Andes, not a range of its own."
+  },
+  {
+   "answer": "Seven Hills of Rome",
+   "aliases": [
+    "Seven Hills"
+   ],
+   "reason": "Hills of a city, not a range."
+  },
+  {
+   "answer": "Montenegro",
+   "reason": "A country, though its name means 'black mountain'."
+  },
+  {
+   "answer": "Sierra Leone",
+   "reason": "A country, though its name means 'lion mountains'."
+  },
+  {
+   "answer": "Montana",
+   "reason": "A state, whose name comes from the Spanish for 'mountain'."
+  }
+ ],
+ "decoys": [
+  "Flanders",
+  "Riga",
+  "Juba",
+  "Honduras",
+  "Shanghai",
+  "Chiang Mai"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"mountain-ranges\" on 28 November 2026."
+}

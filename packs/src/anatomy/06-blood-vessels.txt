@@ -1,0 +1,103 @@
+id: anatomy-blood-vessels
+text: Name a blood vessel.
+flavor: Around 100,000 kilometres of pipe, all of it inside you, none of it ever still.
+rules: Any named artery or vein, or any kind of blood vessel.
+section: Circulation
+---
+1 Aorta | Aortic arch | Ascending aorta | Descending aorta | Abdominal aorta | Thoracic aorta
+1 Artery | Arteries
+1 Vein | Veins
+1 Capillary | Capillaries
+1 Jugular vein | Jugular | Internal jugular vein | External jugular vein | Jugular veins | Internal jugular | External jugular
+1 Carotid artery | Carotid | Common carotid artery | Internal carotid artery | External carotid artery | Carotid arteries | Carotids
+2 Vena cava | Superior vena cava | Inferior vena cava | SVC | IVC | Venae cavae
+2 Pulmonary artery | Pulmonary arteries | Pulmonary trunk
+2 Pulmonary vein | Pulmonary veins
+2 Coronary artery | Coronary arteries | Left coronary artery | Right coronary artery | Coronary
+2 Femoral artery | Femoral
+2 Femoral vein
+2 Varicose vein | Varicose veins | Spider vein
+2 Arteriole | Arterioles
+2 Venule | Venules
+3 Radial artery | Radial
+3 Brachial artery | Brachial
+3 Subclavian artery | Subclavian
+3 Subclavian vein
+3 Renal artery | Renal arteries
+3 Renal vein | Renal veins
+3 Hepatic portal vein | Portal vein
+3 Hepatic artery | Common hepatic artery
+3 Hepatic vein | Hepatic veins
+3 Saphenous vein | Great saphenous vein | Long saphenous vein | Small saphenous vein | Saphenous
+3 Iliac artery | Common iliac artery | Internal iliac artery | External iliac artery | Iliac
+3 Iliac vein | Common iliac vein | External iliac vein | Internal iliac vein
+3 Ulnar artery
+3 Popliteal artery | Popliteal
+3 Popliteal vein
+3 Tibial artery | Anterior tibial artery | Posterior tibial artery
+3 Dorsalis pedis | Dorsalis pedis artery
+3 Axillary artery
+3 Axillary vein
+3 Cephalic vein
+3 Basilic vein
+3 Median cubital vein | Cubital vein
+3 Brachiocephalic artery | Brachiocephalic trunk | Innominate artery
+3 Brachiocephalic vein | Innominate vein
+3 Vertebral artery | Vertebral arteries
+3 Basilar artery
+3 Circle of Willis
+3 Middle cerebral artery | MCA | Anterior cerebral artery | Posterior cerebral artery | Cerebral artery
+3 Temporal artery | Superficial temporal artery
+3 Facial artery
+3 Umbilical artery | Umbilical vein | Umbilical vessels
+3 Mesenteric artery | Superior mesenteric artery | Inferior mesenteric artery
+3 Coeliac trunk | Celiac trunk | Coeliac artery | Celiac artery
+3 Splenic artery
+3 Splenic vein
+3 Left anterior descending artery | LAD | Widowmaker | Anterior interventricular artery
+3 Circumflex artery | Left circumflex artery
+3 Coronary sinus
+3 Azygos vein | Azygos
+3 Gonadal artery | Testicular artery | Ovarian artery | Uterine artery
+3 Intercostal artery | Intercostal arteries
+3 Internal thoracic artery | Internal mammary artery
+3 Sinusoid | Sinusoids
+3 Ductus arteriosus
+4 Ductus venosus
+4 Vasa vasorum
+4 Vasa recta
+4 Afferent arteriole | Efferent arteriole
+4 Glomerulus
+4 Ophthalmic artery | Central retinal artery
+4 Maxillary artery
+4 Lingual artery
+4 Occipital artery
+4 Superior thyroid artery | Inferior thyroid artery | Thyroid artery
+4 Thyrocervical trunk
+4 Middle meningeal artery
+4 Anterior communicating artery | Posterior communicating artery
+4 Superior sagittal sinus | Sagittal sinus | Dural sinus | Transverse sinus | Sigmoid sinus | Cavernous sinus
+4 Great cerebral vein | Vein of Galen
+4 Bronchial artery | Bronchial arteries
+4 Phrenic artery | Inferior phrenic artery
+4 Suprarenal artery | Adrenal artery
+4 Gastric artery | Left gastric artery | Right gastric artery
+4 Gastroduodenal artery
+4 Gastroepiploic artery | Gastro-omental artery
+4 Cystic artery
+4 Superior mesenteric vein | Inferior mesenteric vein | Mesenteric vein
+4 Pudendal artery | Internal pudendal artery
+4 Obturator artery
+4 Gluteal artery | Superior gluteal artery | Inferior gluteal artery
+4 Deep femoral artery | Profunda femoris | Deep artery of the thigh
+4 Peroneal artery | Fibular artery
+4 Plantar arch | Palmar arch | Deep palmar arch | Superficial palmar arch
+4 Hemiazygos vein
+4 Retromandibular vein
+4 Emissary vein | Emissary veins
+4 Thebesian veins | Venae cordis minimae
+4 Great cardiac vein | Middle cardiac vein
+4 Marginal artery | Marginal artery of Drummond
+6 Artery of Adamkiewicz | Adamkiewicz | Great radicular artery :: The main feeder of the lower spinal cord, named for a Polish pathologist. Surgeons fear it: damage it during aortic surgery and the legs may be paralysed.
+x Heart | Blood | Lymph vessel | Lymphatic | Thoracic duct | Nerve | Ureter | Urethra | Trachea | Oesophagus | Bile duct :: A tube or an organ, but blood does not travel through it as a vessel.
+x Blood vessel | Vessel | Blood vessels | Tube | Pipe :: Which one? Name the vessel or the kind.

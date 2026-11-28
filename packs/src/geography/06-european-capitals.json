@@ -1,0 +1,673 @@
+{
+ "id": "geography-european-capitals",
+ "text": "Name the capital city of a European country.",
+ "category": "geography",
+ "flavor": "Bells ring in every capital. In the drowned ones, they ring from below.",
+ "rules": "The capital of any European country, including Russia, Turkey, Cyprus, Kazakhstan and the Caucasus. Scotland, Wales and Northern Ireland count too, as do self-governing islands and territories like the Faroes and Jersey.",
+ "answers": [
+  {
+   "answer": "London",
+   "aliases": [
+    "Westminster",
+    "City of London",
+    "Greater London",
+    "Londres",
+    "Londinium",
+    "London City"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Paris",
+   "aliases": [
+    "Lutetia",
+    "Paree",
+    "Paris City"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Berlin",
+   "aliases": [
+    "Berlin City"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Madrid",
+   "aliases": [
+    "Madrid City"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Rome",
+   "aliases": [
+    "Roma",
+    "Rome City"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Lisbon",
+   "aliases": [
+    "Lisboa",
+    "Lisbon City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dublin",
+   "aliases": [
+    "Baile Átha Cliath",
+    "Dublin City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Amsterdam",
+   "aliases": [
+    "Mokum",
+    "Amsterdam City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Brussels",
+   "aliases": [
+    "Bruxelles",
+    "Brussel",
+    "City of Brussels",
+    "Brussels-Capital",
+    "Bruxelles-Capitale",
+    "Brussels City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vienna",
+   "aliases": [
+    "Wien",
+    "Vienne",
+    "Vienna City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Athens",
+   "aliases": [
+    "Athina",
+    "Athinai",
+    "Athenai",
+    "Athens City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Prague",
+   "aliases": [
+    "Praha",
+    "Prag",
+    "Prague City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Moscow",
+   "aliases": [
+    "Moskva",
+    "Moskau",
+    "Moscow City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Stockholm",
+   "aliases": [
+    "Stockholm City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Oslo",
+   "aliases": [
+    "Christiania",
+    "Kristiania",
+    "Oslo City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Copenhagen",
+   "aliases": [
+    "København",
+    "Kopenhagen",
+    "Copenhagen City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Warsaw",
+   "aliases": [
+    "Warszawa",
+    "Warschau",
+    "Warsaw City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Budapest",
+   "aliases": [
+    "Budapest City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bern",
+   "aliases": [
+    "Berne",
+    "Bern City"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Switzerland officially has no capital. Bern is merely its 'federal city'."
+  },
+  {
+   "answer": "Ankara",
+   "aliases": [
+    "Angora",
+    "Ankara City"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Chosen as capital in 1923, partly because it was far from the reach of enemy warships."
+  },
+  {
+   "answer": "Helsinki",
+   "aliases": [
+    "Helsingfors",
+    "Helsinki City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Reykjavík",
+   "aliases": [
+    "Reykjavík City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Edinburgh",
+   "aliases": [
+    "Edinborough",
+    "Edinburough",
+    "Dùn Èideann",
+    "Auld Reekie",
+    "Edinburgh City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bucharest",
+   "aliases": [
+    "București",
+    "Bucharest City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kyiv",
+   "aliases": [
+    "Kiev",
+    "Kyyiv",
+    "Kiyv",
+    "Kyiv City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Belgrade",
+   "aliases": [
+    "Beograd",
+    "Belgrade City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sofia",
+   "aliases": [
+    "Sophia",
+    "Sofiya",
+    "Sofia City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zagreb",
+   "aliases": [
+    "Agram",
+    "Zagreb City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Luxembourg",
+   "aliases": [
+    "Luxembourg City",
+    "Luxemburg",
+    "Lëtzebuerg",
+    "Luxembourg-Ville"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Valletta",
+   "aliases": [
+    "La Valletta",
+    "Il-Belt",
+    "Valletta City"
+   ],
+   "tier": 3,
+   "lore": "Built by the Knights of St John after the Great Siege of 1565."
+  },
+  {
+   "answer": "Cardiff",
+   "aliases": [
+    "Caerdydd",
+    "Cardiff City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tallinn",
+   "aliases": [
+    "Reval",
+    "Tallinn City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Riga",
+   "aliases": [
+    "Riga City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vilnius",
+   "aliases": [
+    "Vilna",
+    "Wilno",
+    "Vilnius City"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bratislava",
+   "aliases": [
+    "Pressburg",
+    "Pozsony",
+    "Bratislava City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ljubljana",
+   "aliases": [
+    "Laibach",
+    "Ljubljana City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Minsk",
+   "aliases": [
+    "Minsk City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sarajevo",
+   "aliases": [
+    "Sarajevo City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tirana",
+   "aliases": [
+    "Tirana City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Belfast",
+   "aliases": [
+    "Béal Feirste",
+    "Belfast City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nicosia",
+   "aliases": [
+    "Lefkosia",
+    "Lefkoşa",
+    "North Nicosia",
+    "Lefkosha",
+    "Nicosia City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vaduz",
+   "aliases": [
+    "Vaduz City"
+   ],
+   "tier": 4,
+   "lore": "Liechtenstein's prince still lives in the castle above the town."
+  },
+  {
+   "answer": "San Marino",
+   "aliases": [
+    "City of San Marino",
+    "San Marino City",
+    "Città di San Marino"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Andorra la Vella",
+   "aliases": [
+    "Andorra",
+    "Andorra la Vieja",
+    "Andorre-la-Vieille",
+    "Andorra la Vella City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vatican City",
+   "aliases": [
+    "Vatican",
+    "Città del Vaticano",
+    "Vatican City State",
+    "Holy See"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Monaco",
+   "aliases": [
+    "Monaco-Ville",
+    "Monaco City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Skopje",
+   "aliases": [
+    "Skoplje",
+    "Skopje City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tbilisi",
+   "aliases": [
+    "Tiflis",
+    "Tbilisi City"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chișinău",
+   "aliases": [
+    "Kishinev",
+    "Chișinău City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pristina",
+   "aliases": [
+    "Prishtina",
+    "Pristina City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yerevan",
+   "aliases": [
+    "Erivan",
+    "Yerevan City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baku",
+   "aliases": [
+    "Baku City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Astana",
+   "aliases": [
+    "Nur-Sultan",
+    "Akmola",
+    "Tselinograd",
+    "Akmolinsk",
+    "Astana City"
+   ],
+   "tier": 5,
+   "lore": "Renamed five times between 1961 and 2022: Tselinograd, Akmola, Astana, Nur-Sultan, then Astana again."
+  },
+  {
+   "answer": "Douglas",
+   "aliases": [
+    "Doolish",
+    "Douglas City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saint Helier",
+   "aliases": [
+    "St Helier",
+    "Saint Helier City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saint Peter Port",
+   "aliases": [
+    "St Peter Port",
+    "Saint Peter Port City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mariehamn",
+   "aliases": [
+    "Maarianhamina",
+    "Mariehamn City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gibraltar",
+   "aliases": [
+    "Gibraltar City"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saint Anne",
+   "aliases": [
+    "St Anne",
+    "St Anne's",
+    "Saint Anne's",
+    "Saint Anne City"
+   ],
+   "tier": 5,
+   "lore": "The main town of Alderney, a Channel Island with its own parliament, the States of Alderney."
+  },
+  {
+   "answer": "Podgorica",
+   "aliases": [
+    "Titograd",
+    "Podgorica City"
+   ],
+   "tier": 6,
+   "lore": "Called Titograd from 1946 to 1992, after the Yugoslav leader Tito."
+  },
+  {
+   "answer": "Tórshavn",
+   "aliases": [
+    "Tórshavn City"
+   ],
+   "tier": 6,
+   "lore": "Capital of the Faroe Islands, a self-governing nation within the Danish realm. One of the smallest capitals anywhere."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Istanbul",
+   "aliases": [
+    "Constantinople",
+    "Byzantium"
+   ],
+   "reason": "Turkey's largest city, but the capital is Ankara."
+  },
+  {
+   "answer": "Zurich",
+   "reason": "Switzerland's largest city, but the government sits in Bern."
+  },
+  {
+   "answer": "Geneva",
+   "reason": "Home of the UN's European headquarters. Switzerland's government sits in Bern."
+  },
+  {
+   "answer": "Barcelona",
+   "reason": "Spain's second city. The capital is Madrid."
+  },
+  {
+   "answer": "Milan",
+   "reason": "Italy's capital is Rome."
+  },
+  {
+   "answer": "Saint Petersburg",
+   "aliases": [
+    "St Petersburg",
+    "Petrograd",
+    "Leningrad"
+   ],
+   "reason": "Russia's capital moved back to Moscow in 1918."
+  },
+  {
+   "answer": "Kraków",
+   "aliases": [
+    "Cracow"
+   ],
+   "reason": "Poland's capital until about 1596. Now it is Warsaw."
+  },
+  {
+   "answer": "The Hague",
+   "aliases": [
+    "Den Haag"
+   ],
+   "reason": "The Dutch government sits in The Hague, but the capital is Amsterdam."
+  },
+  {
+   "answer": "Bonn",
+   "reason": "West Germany's capital until 1990. Germany's is Berlin."
+  },
+  {
+   "answer": "Glasgow",
+   "reason": "Scotland's biggest city, but not its capital."
+  },
+  {
+   "answer": "Porto",
+   "reason": "Portugal's capital is Lisbon."
+  },
+  {
+   "answer": "Kaunas",
+   "reason": "Lithuania's stand-in capital between the world wars, but not any more."
+  },
+  {
+   "answer": "Turku",
+   "reason": "Finland's capital until 1812, but not any more."
+  },
+  {
+   "answer": "Monte Carlo",
+   "reason": "A district of a city-state, not its capital."
+  },
+  {
+   "answer": "Nuuk",
+   "reason": "Greenland's capital, but Greenland belongs to North America."
+  },
+  {
+   "answer": "Almaty",
+   "reason": "Kazakhstan's capital until 1997, but not any more."
+  }
+ ],
+ "decoys": [
+  "Manchester",
+  "Birmingham",
+  "Liverpool",
+  "Munich",
+  "Frankfurt",
+  "Hamburg",
+  "Cologne",
+  "Antwerp",
+  "Rotterdam",
+  "Gothenburg",
+  "Thessaloniki",
+  "Salzburg",
+  "Brno",
+  "Seville",
+  "Valencia",
+  "Naples",
+  "Venice",
+  "Florence",
+  "Turin",
+  "Lyon",
+  "Marseille",
+  "Nice",
+  "Lille",
+  "Gdansk",
+  "Odesa",
+  "Lviv",
+  "Kharkiv",
+  "Novosibirsk",
+  "Izmir",
+  "Bergen",
+  "Aarhus",
+  "Malmo",
+  "Cork",
+  "Leeds",
+  "Pinsk",
+  "Vientiane",
+  "Rabat",
+  "Tunis",
+  "Cairo",
+  "Beirut",
+  "Jerusalem",
+  "Tehran",
+  "Baghdad",
+  "Riyadh",
+  "Tokyo",
+  "Washington",
+  "Ottawa",
+  "Canberra",
+  "Wellington",
+  "Berlin Wall",
+  "Praia",
+  "Lomé",
+  "Agra"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"european-capitals\" on 28 November 2026."
+}
