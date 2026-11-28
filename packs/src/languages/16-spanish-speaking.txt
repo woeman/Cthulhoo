@@ -1,0 +1,31 @@
+id: languages-spanish-speaking
+text: Name a country where Spanish is an official language.
+flavor: One language, carried over the ocean in wooden ships. It kept what it found there.
+rules: Any country or territory where Spanish is an official or the national language.
+section: World languages
+---
+1 Spain | España | Espana
+1 Mexico | México
+1 Argentina
+2 Colombia | Columbia
+2 Chile
+2 Peru | Perú
+2 Cuba
+2 Venezuela
+3 Ecuador
+3 Costa Rica
+3 Bolivia
+3 Uruguay
+3 Guatemala
+3 Panama | Panamá
+3 Puerto Rico
+3 Dominican Republic | Republica Dominicana | Dominicana
+4 Paraguay
+4 Honduras
+4 El Salvador | Salvador
+4 Nicaragua
+6 Equatorial Guinea | Guinea Ecuatorial :: The only country in Africa where Spanish is an official language. A Spanish colony until 1968, it sits on the Gulf of Guinea, nowhere near Latin America.
+x Brazil | Portugal | Angola | Mozambique :: Portuguese is spoken here, not Spanish.
+x United States | USA | US | America | Belize | Philippines | Andorra | Gibraltar | Morocco | Western Sahara :: Spanish is widely spoken there, but it is not an official language.
+x Haiti | Jamaica | Guyana | Suriname | French Guiana | Trinidad and Tobago | Italy | France :: In the neighbourhood, but the official language is French, English, Dutch or Italian.
+x Latin America | South America | Central America | Catalonia | Canary Islands | Latin :: A region, not a country.

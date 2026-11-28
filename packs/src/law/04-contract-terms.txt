@@ -1,0 +1,94 @@
+id: law-contract-terms
+text: Name a term from contract law.
+flavor: Read every word before you sign. The oldest stories all turn on a clause somebody skipped.
+rules: Any element, doctrine, remedy, clause or kind of contract.
+section: Contracts
+---
+1 Offer
+1 Acceptance
+1 Consideration
+1 Breach | Breach of contract
+1 Terms and conditions | Terms | T&Cs | Term | Fine print
+1 Agreement
+2 Damages | Compensation
+2 Intention | Intention to create legal relations | Intention to be legally bound
+2 Capacity | Legal capacity
+2 Warranty
+2 Condition
+2 Signature | Signing | Signed | Witness
+2 Party | Parties
+2 Void | Voidable | Void contract | Unenforceable
+2 Clause
+2 Termination | Terminate | Rescission | Rescind | Cancellation
+2 Misrepresentation
+2 Duress
+2 Negotiation | Counter-offer | Counter offer
+2 Invitation to treat
+2 Express term | Implied term | Express terms | Implied terms
+2 Exclusion clause | Exemption clause | Disclaimer | Limitation clause | Limitation of liability
+2 Remedy | Remedies
+2 Specific performance
+2 Injunction
+2 Verbal contract | Oral contract | Written contract | Handshake | Handshake agreement
+2 Legality | Legal purpose | Illegality
+2 Consent | Genuine consent | Mutual assent | Meeting of the minds | Consensus ad idem
+2 Deed
+2 Cooling-off period | Cooling off
+2 Non-disclosure agreement | NDA | Confidentiality clause | Confidentiality
+2 Restraint of trade | Non-compete | Non-compete clause
+2 Unfair contract terms | Unfair terms
+2 Lease | Employment contract | Sale contract | Contract of sale | Service agreement | Loan agreement | Licence
+2 Force majeure | Act of God
+2 Privity | Privity of contract
+3 Undue influence
+3 Unconscionable conduct | Unconscionability
+3 Mistake | Unilateral mistake | Common mistake | Mutual mistake
+3 Frustration | Frustrated contract
+3 Promissory estoppel | Estoppel | Equitable estoppel
+3 Postal acceptance rule | Postal rule | Mailbox rule
+3 Revocation | Lapse | Rejection
+3 Certainty | Uncertainty | Completeness
+3 Innominate term | Intermediate term
+3 Repudiation | Anticipatory breach
+3 Liquidated damages | Penalty | Penalty clause | Penalties
+3 Mitigation | Duty to mitigate
+3 Remoteness | Remoteness of damage | Causation
+3 Expectation damages | Reliance damages | Nominal damages | Exemplary damages | Punitive damages
+3 Restitution | Quantum meruit
+3 Parol evidence rule | Parol evidence
+3 Entire agreement clause | Entire agreement | Merger clause
+3 Indemnity | Indemnity clause | Guarantee
+3 Novation
+3 Assignment
+3 Variation
+3 Waiver
+3 Severability | Severance
+3 Governing law | Choice of law | Jurisdiction clause
+3 Arbitration clause | Dispute resolution clause | Mediation
+3 Condition precedent | Condition subsequent
+3 Option | Right of first refusal
+3 Good faith
+3 Time is of the essence
+3 Caveat emptor | Buyer beware
+3 Past consideration | Sufficiency of consideration | Nominal consideration | Peppercorn
+3 Unilateral contract | Bilateral contract
+3 Standard form contract | Boilerplate | Click-wrap | Clickwrap | Shrink-wrap
+3 Executed | Executory | Executed contract
+3 Agency | Agent | Principal
+3 Minors | Minor | Infancy | Necessaries
+4 Statute of Frauds
+4 Contra proferentem
+6 Non est factum :: "It is not my deed." The plea of someone who signed a document that was utterly different from what they believed it to be. It almost never works.
+4 Quid pro quo
+4 Pacta sunt servanda
+4 Heads of agreement | Memorandum of understanding | MOU | Letter of intent | Term sheet
+4 Subject to finance | Subject to contract
+4 Tender | Auction
+4 Bailment
+4 Accord and satisfaction
+4 Set-off
+4 Sunset clause
+4 Escalation clause | Rise and fall clause
+6 Retention of title | Romalpa clause :: The seller stays the owner until paid. Named for a 1976 case over Dutch aluminium foil, which put the name Romalpa into every supply contract.
+x Lawyer | Court | Judge | Law | Legal | Document | Paper | Pen :: Around the contract, not in it.
+x Contract | Deal | Promise | Contract law :: That is the subject. Name a term from it.

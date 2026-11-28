@@ -1,0 +1,921 @@
+{
+ "id": "chemistry-chemical-elements",
+ "text": "Name a chemical element.",
+ "category": "science",
+ "flavor": "Everything that was, is or will be is built from these. Even the things below.",
+ "rules": "Any of the 118 elements of the periodic table, by name. British and American spellings both count.",
+ "answers": [
+  {
+   "answer": "Oxygen",
+   "aliases": [
+    "Oxygen gas",
+    "Liquid oxygen"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hydrogen",
+   "aliases": [
+    "Hydrogen gas",
+    "Liquid hydrogen"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Carbon",
+   "tier": 1
+  },
+  {
+   "answer": "Gold",
+   "aliases": [
+    "Aurum"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Iron",
+   "aliases": [
+    "Ferrum"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Helium",
+   "aliases": [
+    "Helium gas",
+    "Liquid helium"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Nitrogen",
+   "aliases": [
+    "Azote",
+    "Nitrogen gas",
+    "Liquid nitrogen"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Silver",
+   "aliases": [
+    "Argentum"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Copper",
+   "aliases": [
+    "Cuprum"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sodium",
+   "aliases": [
+    "Natrium"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Lead",
+   "aliases": [
+    "Plumbum"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Neon",
+   "aliases": [
+    "Neon gas"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Uranium",
+   "tier": 2
+  },
+  {
+   "answer": "Mercury",
+   "aliases": [
+    "Quicksilver",
+    "Hydrargyrum",
+    "Liquid mercury"
+   ],
+   "tier": 2,
+   "lore": "The only metal that is liquid at room temperature."
+  },
+  {
+   "answer": "Calcium",
+   "tier": 2
+  },
+  {
+   "answer": "Plutonium",
+   "tier": 2
+  },
+  {
+   "answer": "Aluminium",
+   "aliases": [
+    "Aluminum",
+    "Alumium"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Krypton",
+   "aliases": [
+    "Krypton gas"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Real, and named from the Greek for 'hidden'. Superman's planet came later."
+  },
+  {
+   "answer": "Tungsten",
+   "aliases": [
+    "Wolfram",
+    "Wolframium"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Its symbol is W, from its other name, wolfram."
+  },
+  {
+   "answer": "Platinum",
+   "aliases": [
+    "Platina"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zinc",
+   "aliases": [
+    "Zink"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Potassium",
+   "aliases": [
+    "Kalium"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Magnesium",
+   "tier": 3
+  },
+  {
+   "answer": "Lithium",
+   "tier": 3
+  },
+  {
+   "answer": "Titanium",
+   "tier": 3
+  },
+  {
+   "answer": "Chlorine",
+   "aliases": [
+    "Chlorine gas"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sulfur",
+   "aliases": [
+    "Sulphur",
+    "Brimstone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tin",
+   "aliases": [
+    "Stannum"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Argon",
+   "aliases": [
+    "Argon gas"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Silicon",
+   "tier": 3
+  },
+  {
+   "answer": "Iodine",
+   "tier": 3
+  },
+  {
+   "answer": "Fluorine",
+   "aliases": [
+    "Fluorine gas"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Radon",
+   "aliases": [
+    "Niton",
+    "Radium emanation",
+    "Emanation",
+    "Thoron",
+    "Radon gas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Phosphorus",
+   "aliases": [
+    "Phosphorous",
+    "Phosphor"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nickel",
+   "tier": 4
+  },
+  {
+   "answer": "Cobalt",
+   "tier": 4
+  },
+  {
+   "answer": "Xenon",
+   "aliases": [
+    "Xenon gas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Radium",
+   "tier": 4
+  },
+  {
+   "answer": "Boron",
+   "tier": 4
+  },
+  {
+   "answer": "Beryllium",
+   "aliases": [
+    "Glucinium",
+    "Glucinum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chromium",
+   "tier": 4
+  },
+  {
+   "answer": "Manganese",
+   "tier": 4
+  },
+  {
+   "answer": "Arsenic",
+   "tier": 4
+  },
+  {
+   "answer": "Einsteinium",
+   "tier": 4,
+   "lore": "First found in the fallout of the first hydrogen bomb test, in 1952."
+  },
+  {
+   "answer": "Polonium",
+   "tier": 4,
+   "lore": "Named by Marie Curie after her homeland, Poland."
+  },
+  {
+   "answer": "Caesium",
+   "aliases": [
+    "Cesium"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bismuth",
+   "tier": 4
+  },
+  {
+   "answer": "Strontium",
+   "tier": 4
+  },
+  {
+   "answer": "Barium",
+   "tier": 4
+  },
+  {
+   "answer": "Bromine",
+   "tier": 4
+  },
+  {
+   "answer": "Oganesson",
+   "aliases": [
+    "Ununoctium",
+    "Eka-radon"
+   ],
+   "tier": 4,
+   "lore": "The heaviest element yet made. Only a handful of its atoms have ever existed."
+  },
+  {
+   "answer": "Palladium",
+   "tier": 4
+  },
+  {
+   "answer": "Iridium",
+   "tier": 4
+  },
+  {
+   "answer": "Osmium",
+   "tier": 4
+  },
+  {
+   "answer": "Neodymium",
+   "tier": 4
+  },
+  {
+   "answer": "Thorium",
+   "tier": 4
+  },
+  {
+   "answer": "Americium",
+   "tier": 4
+  },
+  {
+   "answer": "Californium",
+   "tier": 4
+  },
+  {
+   "answer": "Gallium",
+   "aliases": [
+    "Eka-aluminium",
+    "Eka-aluminum"
+   ],
+   "tier": 4,
+   "lore": "Melts in your hand: it turns liquid just below 30°C."
+  },
+  {
+   "answer": "Cadmium",
+   "tier": 4
+  },
+  {
+   "answer": "Selenium",
+   "tier": 4
+  },
+  {
+   "answer": "Germanium",
+   "aliases": [
+    "Eka-silicon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zirconium",
+   "tier": 4
+  },
+  {
+   "answer": "Scandium",
+   "aliases": [
+    "Eka-boron"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vanadium",
+   "aliases": [
+    "Erythronium",
+    "Panchromium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rubidium",
+   "tier": 5
+  },
+  {
+   "answer": "Yttrium",
+   "tier": 5
+  },
+  {
+   "answer": "Niobium",
+   "aliases": [
+    "Columbium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Molybdenum",
+   "tier": 5
+  },
+  {
+   "answer": "Technetium",
+   "aliases": [
+    "Eka-manganese",
+    "Masurium"
+   ],
+   "tier": 5,
+   "lore": "The first element made artificially, in 1937."
+  },
+  {
+   "answer": "Ruthenium",
+   "tier": 5
+  },
+  {
+   "answer": "Rhodium",
+   "tier": 5
+  },
+  {
+   "answer": "Indium",
+   "tier": 5
+  },
+  {
+   "answer": "Antimony",
+   "aliases": [
+    "Stibium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tellurium",
+   "tier": 5
+  },
+  {
+   "answer": "Lanthanum",
+   "tier": 5
+  },
+  {
+   "answer": "Cerium",
+   "tier": 5
+  },
+  {
+   "answer": "Praseodymium",
+   "tier": 5
+  },
+  {
+   "answer": "Promethium",
+   "aliases": [
+    "Illinium",
+    "Florentium"
+   ],
+   "tier": 5,
+   "lore": "Named after Prometheus, who stole fire from the gods."
+  },
+  {
+   "answer": "Samarium",
+   "tier": 5
+  },
+  {
+   "answer": "Europium",
+   "tier": 5
+  },
+  {
+   "answer": "Gadolinium",
+   "tier": 5
+  },
+  {
+   "answer": "Terbium",
+   "tier": 5
+  },
+  {
+   "answer": "Dysprosium",
+   "tier": 5
+  },
+  {
+   "answer": "Holmium",
+   "tier": 5
+  },
+  {
+   "answer": "Erbium",
+   "tier": 5
+  },
+  {
+   "answer": "Thulium",
+   "tier": 5
+  },
+  {
+   "answer": "Lutetium",
+   "aliases": [
+    "Lutecium",
+    "Cassiopeium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hafnium",
+   "aliases": [
+    "Celtium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tantalum",
+   "tier": 5
+  },
+  {
+   "answer": "Rhenium",
+   "aliases": [
+    "Dvi-manganese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thallium",
+   "tier": 5
+  },
+  {
+   "answer": "Francium",
+   "aliases": [
+    "Eka-caesium",
+    "Eka-cesium",
+    "Virginium"
+   ],
+   "tier": 5,
+   "lore": "So unstable that nobody has ever gathered enough of it to see."
+  },
+  {
+   "answer": "Actinium",
+   "tier": 5
+  },
+  {
+   "answer": "Protactinium",
+   "aliases": [
+    "Protoactinium",
+    "Brevium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Neptunium",
+   "tier": 5
+  },
+  {
+   "answer": "Curium",
+   "tier": 5
+  },
+  {
+   "answer": "Berkelium",
+   "tier": 5
+  },
+  {
+   "answer": "Fermium",
+   "tier": 5
+  },
+  {
+   "answer": "Mendelevium",
+   "aliases": [
+    "Unnilunium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nobelium",
+   "aliases": [
+    "Unnilbium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lawrencium",
+   "aliases": [
+    "Unniltrium",
+    "Lawrentium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rutherfordium",
+   "aliases": [
+    "Kurchatovium",
+    "Unnilquadium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dubnium",
+   "aliases": [
+    "Hahnium",
+    "Joliotium",
+    "Nielsbohrium",
+    "Unnilpentium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seaborgium",
+   "aliases": [
+    "Unnilhexium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bohrium",
+   "aliases": [
+    "Unnilseptium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hassium",
+   "aliases": [
+    "Unniloctium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Meitnerium",
+   "aliases": [
+    "Unnilennium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Darmstadtium",
+   "aliases": [
+    "Ununnilium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Roentgenium",
+   "aliases": [
+    "Röntgenium",
+    "Unununium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Copernicium",
+   "aliases": [
+    "Ununbium",
+    "Eka-mercury"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nihonium",
+   "aliases": [
+    "Ununtrium",
+    "Eka-thallium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Flerovium",
+   "aliases": [
+    "Ununquadium",
+    "Eka-lead"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moscovium",
+   "aliases": [
+    "Ununpentium",
+    "Element 115",
+    "Eka-bismuth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Livermorium",
+   "aliases": [
+    "Ununhexium",
+    "Eka-polonium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tennessine",
+   "aliases": [
+    "Ununseptium",
+    "Eka-astatine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ytterbium",
+   "aliases": [
+    "Neoytterbium"
+   ],
+   "tier": 6,
+   "lore": "One of four elements named after the same Swedish village, Ytterby."
+  },
+  {
+   "answer": "Astatine",
+   "aliases": [
+    "Eka-iodine",
+    "Alabamine"
+   ],
+   "tier": 6,
+   "lore": "The rarest naturally occurring element in the Earth's crust. Its name means 'unstable'."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Kryptonite",
+   "reason": "Fictional, and dangerous only to Kryptonians."
+  },
+  {
+   "answer": "Adamantium",
+   "reason": "Fictional. Wolverine's skeleton is not on the periodic table."
+  },
+  {
+   "answer": "Vibranium",
+   "reason": "Fictional. Wakanda has a lot to answer for."
+  },
+  {
+   "answer": "Unobtainium",
+   "reason": "An engineers' joke, not an element."
+  },
+  {
+   "answer": "Mithril",
+   "reason": "Fictional. Tolkien's, specifically."
+  },
+  {
+   "answer": "Steel",
+   "reason": "An alloy of iron and carbon, not an element."
+  },
+  {
+   "answer": "Bronze",
+   "reason": "An alloy, mostly copper and tin."
+  },
+  {
+   "answer": "Brass",
+   "reason": "An alloy, mostly copper."
+  },
+  {
+   "answer": "Water",
+   "reason": "A compound: two hydrogens and an oxygen."
+  },
+  {
+   "answer": "Salt",
+   "reason": "A compound, not an element. Half of it is sodium."
+  },
+  {
+   "answer": "Air",
+   "reason": "A mixture, mostly nitrogen and oxygen."
+  },
+  {
+   "answer": "Fire",
+   "aliases": [
+    "Earth",
+    "Wind",
+    "Aether",
+    "Ether"
+   ],
+   "reason": "A classical element. The periodic table did not keep them."
+  },
+  {
+   "answer": "Diamond",
+   "aliases": [
+    "Graphite",
+    "Graphene"
+   ],
+   "reason": "A form of carbon, not an element of its own."
+  },
+  {
+   "answer": "Ununennium",
+   "aliases": [
+    "Unbinilium"
+   ],
+   "reason": "Not made yet. The hunt for elements 119 and 120 goes on."
+  },
+  {
+   "answer": "Silicone",
+   "reason": "A rubbery polymer, not an element. The element has one letter fewer."
+  },
+  {
+   "answer": "Au",
+   "aliases": [
+    "H",
+    "He",
+    "Li",
+    "Be",
+    "B",
+    "C",
+    "N",
+    "O",
+    "F",
+    "Ne",
+    "Na",
+    "Mg",
+    "Al",
+    "Si",
+    "P",
+    "S",
+    "Cl",
+    "Ar",
+    "K",
+    "Ca",
+    "Sc",
+    "Ti",
+    "V",
+    "Cr",
+    "Mn",
+    "Fe",
+    "Co",
+    "Ni",
+    "Cu",
+    "Zn",
+    "Ga",
+    "Ge",
+    "As",
+    "Se",
+    "Br",
+    "Kr",
+    "Rb",
+    "Sr",
+    "Y",
+    "Zr",
+    "Nb",
+    "Mo",
+    "Tc",
+    "Ru",
+    "Rh",
+    "Pd",
+    "Ag",
+    "Cd",
+    "In",
+    "Sn",
+    "Sb",
+    "Te",
+    "I",
+    "Xe",
+    "Cs",
+    "Ba",
+    "La",
+    "Ce",
+    "Pr",
+    "Nd",
+    "Pm",
+    "Sm",
+    "Eu",
+    "Gd",
+    "Tb",
+    "Dy",
+    "Ho",
+    "Er",
+    "Tm",
+    "Yb",
+    "Lu",
+    "Hf",
+    "Ta",
+    "W",
+    "Re",
+    "Os",
+    "Ir",
+    "Pt",
+    "Hg",
+    "Tl",
+    "Pb",
+    "Bi",
+    "Po",
+    "At",
+    "Rn",
+    "Fr",
+    "Ra",
+    "Ac",
+    "Th",
+    "Pa",
+    "U",
+    "Np",
+    "Pu",
+    "Am",
+    "Cm",
+    "Bk",
+    "Cf",
+    "Es",
+    "Fm",
+    "Md",
+    "No",
+    "Lr",
+    "Rf",
+    "Db",
+    "Sg",
+    "Bh",
+    "Hs",
+    "Mt",
+    "Ds",
+    "Rg",
+    "Cn",
+    "Nh",
+    "Fl",
+    "Mc",
+    "Lv",
+    "Ts",
+    "Og"
+   ],
+   "reason": "A symbol. Give the element its name."
+  },
+  {
+   "answer": "Ozone",
+   "reason": "A molecule of three oxygen atoms. Plain oxygen would have counted."
+  }
+ ],
+ "section": "Periodic table",
+ "source": "Copied from the daily question \"chemical-elements\" on 28 November 2026."
+}

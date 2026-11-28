@@ -1,0 +1,311 @@
+{
+ "id": "languages-greek-letters",
+ "text": "Name a letter of the Greek alphabet.",
+ "category": "language",
+ "flavor": "Twenty-four letters, and a few older ones that were quietly dropped. The deep remembers those too.",
+ "rules": "Any letter of the Greek alphabet, Alpha to Omega. Old letters that fell out of use count too.",
+ "answers": [
+  {
+   "answer": "Alpha",
+   "aliases": [
+    "Alfa"
+   ],
+   "tier": 1,
+   "lore": "The first, paired with the last: 'I am the Alpha and the Omega,' says the Book of Revelation."
+  },
+  {
+   "answer": "Beta",
+   "aliases": [
+    "Vita"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Gamma",
+   "aliases": [
+    "Gama",
+    "Ghamma",
+    "Ghama"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Delta",
+   "aliases": [
+    "Dhelta"
+   ],
+   "tier": 1,
+   "lore": "Its triangle gave its name to river deltas, starting with the Nile's."
+  },
+  {
+   "answer": "Omega",
+   "tier": 1,
+   "lore": "Means 'great O'. Its little sister is Omicron."
+  },
+  {
+   "answer": "Pi",
+   "tier": 1,
+   "lore": "Its digits have been worked out into the hundreds of trillions, and they never fall into a pattern."
+  },
+  {
+   "answer": "Sigma",
+   "aliases": [
+    "Final Sigma",
+    "Lunate sigma"
+   ],
+   "tier": 2,
+   "lore": "It has two lower-case forms: one for the end of a word, and one for everywhere else."
+  },
+  {
+   "answer": "Theta",
+   "aliases": [
+    "Thita"
+   ],
+   "tier": 2,
+   "lore": "The Greeks marked the names of the dead with it, for thanatos, death."
+  },
+  {
+   "answer": "Lambda",
+   "aliases": [
+    "Labda",
+    "Lamda",
+    "Lamvda"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Epsilon",
+   "tier": 2
+  },
+  {
+   "answer": "Zeta",
+   "aliases": [
+    "Zita"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kappa",
+   "aliases": [
+    "Kapa",
+    "Cappa"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phi",
+   "aliases": [
+    "Fi",
+    "Phee"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Psi",
+   "aliases": [
+    "Psy",
+    "Psee"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mu",
+   "aliases": [
+    "My",
+    "Mi",
+    "Mew"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Chi",
+   "aliases": [
+    "Khi",
+    "Hi",
+    "Kai",
+    "Khee"
+   ],
+   "tier": 2,
+   "lore": "Its X shape is why Christmas can be written Xmas, from Christos."
+  },
+  {
+   "answer": "Tau",
+   "aliases": [
+    "Taf"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Rho",
+   "aliases": [
+    "Ro"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Iota",
+   "aliases": [
+    "Yota",
+    "Giota",
+    "Yiota",
+    "Jota"
+   ],
+   "tier": 3,
+   "lore": "The smallest letter, which gave us 'not one iota'."
+  },
+  {
+   "answer": "Eta",
+   "aliases": [
+    "Ita"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nu",
+   "aliases": [
+    "Ny",
+    "Ni"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Xi",
+   "aliases": [
+    "Ksi",
+    "Xei",
+    "Ksee"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Omicron",
+   "aliases": [
+    "Omikron"
+   ],
+   "tier": 3,
+   "lore": "Means 'little O'. Its big sister is Omega."
+  },
+  {
+   "answer": "Upsilon",
+   "aliases": [
+    "Ypsilon",
+    "Ipsilon"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Digamma",
+   "aliases": [
+    "Wau",
+    "Vau",
+    "Waw"
+   ],
+   "tier": 4,
+   "lore": "An early letter shaped like an F. Greek dropped it, but the Romans kept it as their F."
+  },
+  {
+   "answer": "Koppa",
+   "aliases": [
+    "Qoppa"
+   ],
+   "tier": 5,
+   "lore": "Dropped from the alphabet, but the Romans kept it as their Q."
+  },
+  {
+   "answer": "Stigma",
+   "aliases": [
+    "Stau"
+   ],
+   "tier": 5,
+   "lore": "A joined-up sigma and tau, used for the number six."
+  },
+  {
+   "answer": "Sho",
+   "tier": 5
+  },
+  {
+   "answer": "San",
+   "tier": 6,
+   "lore": "An early letter for an S sound, shaped like an M, used in a few cities instead of sigma."
+  },
+  {
+   "answer": "Sampi",
+   "aliases": [
+    "Disigma",
+    "Sanpi"
+   ],
+   "tier": 6,
+   "lore": "Survived only as a numeral, meaning 900."
+  },
+  {
+   "answer": "Heta",
+   "tier": 6,
+   "lore": "The archaic letter for an h sound. Where Greeks dropped the h, the same letter became Eta."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Aleph",
+   "aliases": [
+    "Alef",
+    "Beth",
+    "Gimel",
+    "Daleth",
+    "Shin",
+    "Yod",
+    "Tav",
+    "Resh"
+   ],
+   "reason": "Hebrew, not Greek."
+  },
+  {
+   "answer": "Bravo",
+   "aliases": [
+    "Charlie",
+    "Echo",
+    "Foxtrot",
+    "Golf",
+    "Hotel",
+    "India",
+    "Juliett",
+    "Kilo",
+    "Lima",
+    "Mike",
+    "November",
+    "Oscar",
+    "Papa",
+    "Quebec",
+    "Romeo",
+    "Sierra",
+    "Tango",
+    "Uniform",
+    "Victor",
+    "Whiskey",
+    "X-ray",
+    "Yankee",
+    "Zulu"
+   ],
+   "reason": "The NATO alphabet, not the Greek one."
+  },
+  {
+   "answer": "Omega-3",
+   "reason": "A fatty acid. The letter would have counted."
+  },
+  {
+   "answer": "Ampersand",
+   "reason": "A symbol, and not a Greek one."
+  },
+  {
+   "answer": "Thorn",
+   "aliases": [
+    "Eszett",
+    "Yogh",
+    "Eth",
+    "Wynn"
+   ],
+   "reason": "A letter, but Old English or German, not Greek."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"greek-letters\" on 28 November 2026."
+}

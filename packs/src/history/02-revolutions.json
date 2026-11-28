@@ -1,0 +1,3273 @@
+{
+ "id": "history-revolutions",
+ "text": "Name a revolution.",
+ "category": "history",
+ "flavor": "Kings fall, flags change, and the clocks are reset to Year One. The deep has seen every turning.",
+ "rules": "Any named revolution, revolt, rising or rebellion against those in power, from any age, plus history's great revolutions in farming, industry, science and technology. Civil wars, coups and plots count only if history calls them revolutions.",
+ "answers": [
+  {
+   "answer": "French Revolution",
+   "aliases": [
+    "Revolution of 1789",
+    "1789 Revolution",
+    "French Revolution of 1789",
+    "Great French Revolution",
+    "French"
+   ],
+   "tier": 1,
+   "lore": "It brought in a new calendar, with ten-day weeks and months such as Brumaire, the month of fog."
+  },
+  {
+   "answer": "Russian Revolution",
+   "aliases": [
+    "Russian Revolution of 1917",
+    "1917 Revolution",
+    "Revolution of 1917",
+    "Russian Revolutions of 1917",
+    "Russian",
+    "Soviet Revolution"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "American Revolution",
+   "aliases": [
+    "American War of Independence",
+    "American Revolutionary War",
+    "Revolutionary War",
+    "War of American Independence",
+    "US War of Independence",
+    "American Independence",
+    "American",
+    "Revolution of 1776",
+    "American Revolution of 1776",
+    "1776"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Industrial Revolution",
+   "aliases": [
+    "First Industrial Revolution",
+    "British Industrial Revolution",
+    "Industrial"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Agricultural Revolution",
+   "aliases": [
+    "British Agricultural Revolution",
+    "Second Agricultural Revolution",
+    "English Agricultural Revolution",
+    "Agrarian Revolution",
+    "Agricultural"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Glorious Revolution",
+   "aliases": [
+    "Bloodless Revolution",
+    "Revolution of 1688",
+    "1688 Revolution",
+    "Glorious",
+    "Glorious Revolution of 1688"
+   ],
+   "tier": 1,
+   "lore": "Called glorious because it was nearly bloodless in England. Scotland and Ireland saw real fighting."
+  },
+  {
+   "answer": "Cuban Revolution",
+   "aliases": [
+    "Cuban Revolution of 1959",
+    "Castro's revolution",
+    "Cuban"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "October Revolution",
+   "aliases": [
+    "Bolshevik Revolution",
+    "Great October Socialist Revolution",
+    "Red October",
+    "October Uprising",
+    "October"
+   ],
+   "tier": 2,
+   "lore": "Russia still used the old calendar in 1917, so by the modern one the October Revolution took place in November."
+  },
+  {
+   "answer": "February Revolution",
+   "aliases": [
+    "February Revolution of 1917",
+    "February Revolution of 1848",
+    "French Revolution of 1848",
+    "February"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cultural Revolution",
+   "aliases": [
+    "Great Proletarian Cultural Revolution",
+    "Chinese Cultural Revolution",
+    "Cultural"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Iranian Revolution",
+   "aliases": [
+    "Islamic Revolution",
+    "Iranian Islamic Revolution",
+    "Islamic Revolution of Iran",
+    "Iranian Revolution of 1979",
+    "Iranian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Chinese Revolution",
+   "aliases": [
+    "Chinese"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mexican Revolution",
+   "aliases": [
+    "Mexican Revolution of 1910",
+    "Mexican"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Haitian Revolution",
+   "aliases": [
+    "Haitian War of Independence",
+    "Saint-Domingue Revolution",
+    "Haitian"
+   ],
+   "tier": 2,
+   "lore": "Often called the only slave uprising that founded a nation: Haiti, in 1804."
+  },
+  {
+   "answer": "Velvet Revolution",
+   "aliases": [
+    "Gentle Revolution",
+    "Czechoslovak Revolution",
+    "Czech Revolution",
+    "Velvet"
+   ],
+   "tier": 2,
+   "lore": "Czechoslovakia's revolution of 1989 ended with a dissident playwright, Václav Havel, as president."
+  },
+  {
+   "answer": "Orange Revolution",
+   "aliases": [
+    "Ukrainian Orange Revolution",
+    "Orange",
+    "Ukrainian Revolution"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Scientific Revolution",
+   "aliases": [
+    "Scientific",
+    "Newtonian Revolution"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Green Revolution",
+   "aliases": [
+    "Third Agricultural Revolution",
+    "Green"
+   ],
+   "tier": 2,
+   "lore": "Its father, Norman Borlaug, won the Nobel Peace Prize in 1970 for wheat that fed millions."
+  },
+  {
+   "answer": "Digital Revolution",
+   "aliases": [
+    "Third Industrial Revolution",
+    "Information Revolution",
+    "Computer Revolution",
+    "Internet revolution",
+    "Digital"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sexual Revolution",
+   "aliases": [
+    "Sexual liberation",
+    "Sexual"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Arab Spring",
+   "aliases": [
+    "Arab Uprisings",
+    "Arab Revolutions"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Revolutions of 1848",
+   "aliases": [
+    "Revolution of 1848",
+    "1848 Revolutions",
+    "1848",
+    "Springtime of the Peoples",
+    "Spring of Nations",
+    "Spring of the Peoples",
+    "Year of Revolutions",
+    "European Revolutions of 1848",
+    "March Revolution",
+    "German Revolution of 1848",
+    "German revolutions of 1848–49",
+    "Austrian Revolution of 1848",
+    "Austrian Revolution",
+    "Italian revolutions of 1848",
+    "Sicilian revolution of 1848"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Revolutions of 1989",
+   "aliases": [
+    "Fall of Communism",
+    "Autumn of Nations",
+    "1989 Revolutions",
+    "Collapse of Communism",
+    "Revolutions of 1989 in Eastern Europe"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Hungarian Revolution of 1956",
+   "aliases": [
+    "Hungarian Uprising",
+    "1956 Hungarian Revolution",
+    "Hungarian Uprising of 1956",
+    "Hungarian Revolution",
+    "Hungarian Rebellion"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Easter Rising",
+   "aliases": [
+    "Easter Rebellion",
+    "1916 Rising",
+    "Rising of 1916",
+    "Easter Rising of 1916",
+    "Easter Revolt",
+    "Easter Uprising",
+    "Irish Rebellion",
+    "Irish Rising",
+    "Irish uprising",
+    "Irish revolt"
+   ],
+   "tier": 2,
+   "lore": "The Proclamation of the Irish Republic was read outside Dublin's General Post Office on Easter Monday, 1916."
+  },
+  {
+   "answer": "Peasants' Revolt",
+   "aliases": [
+    "Wat Tyler's Rebellion",
+    "Wat Tyler's Revolt",
+    "Great Rising",
+    "Peasants' Revolt of 1381",
+    "Great Revolt of 1381",
+    "English Peasants' Revolt",
+    "Peasants' Rebellion",
+    "Peasants' Uprising",
+    "Peasants' Rising"
+   ],
+   "tier": 2,
+   "lore": "In 1381 its leader, Wat Tyler, met the fourteen-year-old Richard II face to face at Smithfield."
+  },
+  {
+   "answer": "Jacobite rising",
+   "aliases": [
+    "Jacobite rebellion",
+    "Jacobite risings",
+    "Jacobite uprising",
+    "Jacobite revolt",
+    "The Forty-Five",
+    "The Fifteen",
+    "Jacobite rising of 1745",
+    "Jacobite rising of 1715",
+    "Bonnie Prince Charlie's rising",
+    "'45 Rebellion",
+    "Jacobite Rebellion of 1745"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Boxer Rebellion",
+   "aliases": [
+    "Boxer Uprising",
+    "Boxer Revolt",
+    "Yihetuan Movement",
+    "Boxers",
+    "Boxer Rising"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Indian Rebellion of 1857",
+   "aliases": [
+    "Indian Mutiny",
+    "Sepoy Mutiny",
+    "Indian Rebellion",
+    "First War of Independence",
+    "First War of Indian Independence",
+    "Indian War of Independence",
+    "Revolt of 1857",
+    "Rebellion of 1857",
+    "Sepoy Rebellion",
+    "Great Indian Revolt",
+    "Uprising of 1857",
+    "Indian Revolt of 1857",
+    "Indian Uprising of 1857",
+    "Indian Rising of 1857",
+    "1857 revolt",
+    "1857 Rebellion",
+    "1857 uprising",
+    "1857 Mutiny",
+    "1857 War of Independence",
+    "1857 ki Kranti",
+    "1857",
+    "Indian Revolution"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "English Revolution",
+   "aliases": [
+    "English Civil War",
+    "English Civil Wars",
+    "Puritan Revolution",
+    "British Civil Wars",
+    "Wars of the Three Kingdoms",
+    "Great Rebellion"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Neolithic Revolution",
+   "aliases": [
+    "First Agricultural Revolution",
+    "Neolithic Agricultural Revolution",
+    "Neolithic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Second Industrial Revolution",
+   "aliases": [
+    "Technological Revolution"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Copernican Revolution",
+   "aliases": [
+    "Copernican"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Russian Revolution of 1905",
+   "aliases": [
+    "Revolution of 1905",
+    "1905 Revolution",
+    "First Russian Revolution",
+    "1905 Russian Revolution"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Xinhai Revolution",
+   "aliases": [
+    "1911 Revolution",
+    "Revolution of 1911",
+    "Chinese Revolution of 1911",
+    "Hsinhai Revolution",
+    "Xinhai"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Chinese Communist Revolution",
+   "aliases": [
+    "Communist Revolution in China",
+    "Chinese Revolution of 1949",
+    "1949 Revolution",
+    "Maoist Revolution",
+    "Mao's revolution"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "July Revolution",
+   "aliases": [
+    "Revolution of 1830",
+    "French Revolution of 1830",
+    "Second French Revolution",
+    "Three Glorious Days",
+    "July Uprising",
+    "Monsoon Revolution",
+    "Student–People's Uprising",
+    "Bangladesh Revolution",
+    "Bangladeshi Revolution",
+    "July Revolution of 1830",
+    "July Revolution of 2024"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Paris Commune",
+   "aliases": [
+    "Commune of Paris",
+    "Commune of 1871",
+    "Communards"
+   ],
+   "tier": 3,
+   "lore": "The Communards pulled down the Vendôme Column. The painter Courbet was later ordered to pay for its rebuilding."
+  },
+  {
+   "answer": "May 68",
+   "aliases": [
+    "May 1968",
+    "Mai 68",
+    "Events of May 1968",
+    "May 1968 events",
+    "Paris 1968"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Belgian Revolution",
+   "aliases": [
+    "Belgian Revolution of 1830",
+    "Belgian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Greek Revolution",
+   "aliases": [
+    "Greek War of Independence",
+    "Greek Revolution of 1821",
+    "Greek War of Liberation",
+    "Greek"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Dutch Revolt",
+   "aliases": [
+    "Eighty Years' War",
+    "Revolt of the Netherlands",
+    "Dutch War of Independence",
+    "Dutch Revolution",
+    "Dutch Rebellion",
+    "Dutch Uprising",
+    "Dutch Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Algerian Revolution",
+   "aliases": [
+    "Algerian War",
+    "Algerian War of Independence",
+    "Algerian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Irish Rebellion of 1798",
+   "aliases": [
+    "1798 Rebellion",
+    "United Irishmen Rebellion",
+    "Rebellion of 1798",
+    "1798 Rising",
+    "Irish Revolt of 1798",
+    "Irish Uprising of 1798",
+    "Irish Rising of 1798"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Irish Revolution",
+   "aliases": [
+    "Irish War of Independence",
+    "Anglo-Irish War",
+    "Irish revolutionary period"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Carnation Revolution",
+   "aliases": [
+    "25 April Revolution",
+    "Portuguese Revolution of 1974",
+    "Revolution of the Carnations",
+    "Carnation",
+    "Portuguese Revolution"
+   ],
+   "tier": 3,
+   "lore": "Portugal's revolution of 1974 is named after the carnations people put in the soldiers' rifles."
+  },
+  {
+   "answer": "Rose Revolution",
+   "aliases": [
+    "Georgian Revolution",
+    "Rose"
+   ],
+   "tier": 3,
+   "lore": "Georgia, 2003: protesters led by Mikheil Saakashvili burst into parliament carrying roses."
+  },
+  {
+   "answer": "Euromaidan",
+   "aliases": [
+    "Revolution of Dignity",
+    "Maidan Revolution",
+    "Maidan",
+    "Ukrainian Revolution of 2014",
+    "Euromaidan Revolution",
+    "Madian Revolution",
+    "Maian Revolution"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tunisian Revolution",
+   "aliases": [
+    "Jasmine Revolution",
+    "Sidi Bouzid Revolt",
+    "Tunisian Revolution of 2011",
+    "Tunisian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Egyptian Revolution",
+   "aliases": [
+    "Egyptian Revolution of 2011",
+    "Egyptian Revolution of 1952",
+    "Egyptian Revolution of 1919",
+    "25 January Revolution",
+    "Revolution of 1952",
+    "23 July Revolution",
+    "Free Officers' Revolution",
+    "Egyptian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Young Turk Revolution",
+   "aliases": [
+    "Young Turks' Revolution",
+    "Young Turk Revolt",
+    "Young Turks"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arab Revolt",
+   "aliases": [
+    "Great Arab Revolt",
+    "Arab Revolt of 1916"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Taiping Rebellion",
+   "aliases": [
+    "Taiping Revolution",
+    "Taiping Civil War",
+    "Taiping Revolt",
+    "Taiping Uprising",
+    "Taiping Rising"
+   ],
+   "tier": 3,
+   "lore": "Its leader, Hong Xiuquan, believed he was the younger brother of Jesus."
+  },
+  {
+   "answer": "Meiji Restoration",
+   "aliases": [
+    "Meiji Revolution",
+    "Meiji Ishin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "People Power Revolution",
+   "aliases": [
+    "EDSA Revolution",
+    "EDSA People Power Revolution",
+    "Yellow Revolution",
+    "People Power",
+    "Philippine Revolution of 1986"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Philippine Revolution",
+   "aliases": [
+    "Philippine Revolution of 1896",
+    "Tagalog War",
+    "Philippine"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Texas Revolution",
+   "aliases": [
+    "Texas War of Independence",
+    "Texan Revolution",
+    "Texian Revolution",
+    "Texas"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nicaraguan Revolution",
+   "aliases": [
+    "Sandinista Revolution",
+    "Sandinista",
+    "Nicaraguan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Quiet Revolution",
+   "aliases": [
+    "Révolution tranquille",
+    "Quiet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Singing Revolution",
+   "aliases": [
+    "Baltic revolutions",
+    "Singing"
+   ],
+   "tier": 3,
+   "lore": "In 1989 about two million people joined hands across Estonia, Latvia and Lithuania in a human chain."
+  },
+  {
+   "answer": "Romanian Revolution",
+   "aliases": [
+    "Romanian Revolution of 1989",
+    "Romanian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hungarian Revolution of 1848",
+   "aliases": [
+    "Hungarian War of Independence",
+    "Hungarian Revolution of 1848–49",
+    "1848 Hungarian Revolution"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "German Revolution",
+   "aliases": [
+    "German Revolution of 1918–19",
+    "November Revolution",
+    "German Revolution of 1918"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Decembrist revolt",
+   "aliases": [
+    "Decembrists",
+    "Decembrist rebellion",
+    "Decembrist Uprising",
+    "Decembrist Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Warsaw Uprising",
+   "aliases": [
+    "Warsaw Uprising of 1944",
+    "Warsaw Rebellion",
+    "Warsaw Revolt",
+    "Warsaw Rising",
+    "Polish uprising",
+    "Polish Revolution",
+    "Polish rebellion",
+    "Polish insurrection",
+    "Polish rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Warsaw Ghetto Uprising",
+   "aliases": [
+    "Warsaw Ghetto Rebellion",
+    "Warsaw Ghetto Revolt",
+    "Warsaw Ghetto Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mau Mau uprising",
+   "aliases": [
+    "Mau Mau",
+    "Kenya Emergency",
+    "Mau Mau Rebellion",
+    "Mau Mau Revolt",
+    "Mau Mau Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Soweto uprising",
+   "aliases": [
+    "Soweto riots",
+    "Soweto uprising of 1976",
+    "Soweto Rebellion",
+    "Soweto Revolt",
+    "Soweto Rising",
+    "Soweto"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Third Servile War",
+   "aliases": [
+    "Spartacus revolt",
+    "Spartacus uprising",
+    "Spartacan revolt",
+    "Revolt of Spartacus",
+    "Spartacus rebellion",
+    "Gladiator War",
+    "War of Spartacus",
+    "Spartacus's revolt"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Boudican revolt",
+   "aliases": [
+    "Boudica's revolt",
+    "Boudicca's revolt",
+    "Boudica's rebellion",
+    "Boudicca's rebellion",
+    "Boudiccan revolt",
+    "Iceni revolt",
+    "Revolt of Boudica",
+    "Revolt of Boudicca",
+    "Boudica's uprising",
+    "Boudicca's uprising",
+    "Boudican Rebellion",
+    "Boudican Uprising",
+    "Boudican Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maccabean Revolt",
+   "aliases": [
+    "Revolt of the Maccabees",
+    "Maccabees' revolt",
+    "Maccabean Rebellion",
+    "Maccabean Uprising",
+    "Maccabean Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pilgrimage of Grace",
+   "tier": 3
+  },
+  {
+   "answer": "Satsuma Rebellion",
+   "aliases": [
+    "Seinan War",
+    "Satsuma Revolt",
+    "Satsuma Uprising",
+    "Satsuma Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Intifada",
+   "aliases": [
+    "First Intifada",
+    "Second Intifada",
+    "Al-Aqsa Intifada"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Eureka Rebellion",
+   "aliases": [
+    "Eureka Stockade",
+    "Eureka uprising",
+    "Battle of the Eureka Stockade",
+    "Eureka",
+    "Eureka Revolt",
+    "Eureka Rising"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Indonesian National Revolution",
+   "aliases": [
+    "Indonesian Revolution",
+    "Indonesian War of Independence"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Serbian Revolution",
+   "aliases": [
+    "First Serbian Uprising",
+    "Second Serbian Uprising",
+    "Serbian Uprising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mexican War of Independence",
+   "aliases": [
+    "Grito de Dolores",
+    "Hidalgo revolt",
+    "Mexican Independence",
+    "Hidalgo's revolt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peaceful Revolution",
+   "aliases": [
+    "Wende",
+    "East German Revolution",
+    "Peaceful Revolution of 1989",
+    "Friedliche Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bulldozer Revolution",
+   "aliases": [
+    "5 October Overthrow",
+    "Bulldozer"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tulip Revolution",
+   "aliases": [
+    "Kyrgyz Revolution",
+    "Pink Revolution",
+    "Lemon Revolution",
+    "Tulip"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cedar Revolution",
+   "aliases": [
+    "Independence Intifada",
+    "Cedar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Saffron Revolution",
+   "aliases": [
+    "Saffron"
+   ],
+   "tier": 4,
+   "lore": "Named after the saffron robes of the Buddhist monks who marched through Myanmar in 2007."
+  },
+  {
+   "answer": "Umbrella Revolution",
+   "aliases": [
+    "Umbrella Movement",
+    "Umbrella"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Colour revolutions",
+   "aliases": [
+    "Color revolutions",
+    "Coloured revolutions"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "8888 Uprising",
+   "aliases": [
+    "Four Eights Uprising",
+    "8888 Rebellion",
+    "8888 Revolt",
+    "8888 Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gwangju Uprising",
+   "aliases": [
+    "Gwangju Democratization Movement",
+    "Kwangju Uprising",
+    "Gwangju Rebellion",
+    "Gwangju Revolt",
+    "Gwangju Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "April Revolution",
+   "aliases": [
+    "April 19 Revolution",
+    "April Revolution of 1960"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Donghak Peasant Revolution",
+   "aliases": [
+    "Donghak Rebellion",
+    "Tonghak Rebellion",
+    "Donghak Revolution",
+    "Donghak Peasant Rebellion"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shimabara Rebellion",
+   "aliases": [
+    "Shimabara Revolt",
+    "Shimabara Uprising",
+    "Shimabara Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wuchang Uprising",
+   "aliases": [
+    "Wuchang Rebellion",
+    "Wuchang Revolt",
+    "Wuchang Rising"
+   ],
+   "tier": 4,
+   "lore": "A bomb that went off by accident in a revolutionaries' workshop helped spark China's revolution of 1911."
+  },
+  {
+   "answer": "August Revolution",
+   "aliases": [
+    "Vietnamese August Revolution",
+    "August Revolution of 1945",
+    "Vietnamese Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bolivarian Revolution",
+   "aliases": [
+    "Bolivarian",
+    "Venezuelan Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Libyan Revolution",
+   "aliases": [
+    "Libyan Revolution of 2011",
+    "17 February Revolution",
+    "al-Fateh Revolution",
+    "Libyan Revolution of 1969",
+    "1 September Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Syrian Revolution",
+   "aliases": [
+    "Syrian Revolution of 2011"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iranian Constitutional Revolution",
+   "aliases": [
+    "Persian Constitutional Revolution",
+    "Constitutional Revolution",
+    "Persian Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "White Revolution",
+   "aliases": [
+    "Operation Flood",
+    "Iranian White Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Abbasid Revolution",
+   "aliases": [
+    "Hashimiyya revolt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zanzibar Revolution",
+   "tier": 4
+  },
+  {
+   "answer": "June Rebellion",
+   "aliases": [
+    "Paris Uprising of 1832",
+    "June Rebellion of 1832",
+    "June Revolt",
+    "June Uprising",
+    "June Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fronde",
+   "aliases": [
+    "Frondes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Revolt in the Vendée",
+   "aliases": [
+    "War in the Vendée",
+    "Vendée revolt",
+    "Vendée",
+    "Rebellion in the Vendée",
+    "Uprising in the Vendée",
+    "Rising in the Vendée"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jacquerie",
+   "tier": 4
+  },
+  {
+   "answer": "Sicilian Vespers",
+   "aliases": [
+    "War of the Sicilian Vespers"
+   ],
+   "tier": 4,
+   "lore": "It began, it is said, at the hour of vespers outside a Palermo church on Easter Monday, 1282."
+  },
+  {
+   "answer": "Revolt of the Comuneros",
+   "aliases": [
+    "Comuneros revolt",
+    "Revolt of the Comunidades",
+    "Comunero revolt",
+    "Rebellion of the Comuneros",
+    "Uprising of the Comuneros",
+    "Rising of the Comuneros"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Spanish Revolution",
+   "aliases": [
+    "Spanish Revolution of 1936",
+    "Spanish Revolution of 1868",
+    "Revolution of 1868",
+    "La Gloriosa",
+    "Spanish Glorious Revolution",
+    "Glorious Revolution of 1868"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nika riots",
+   "aliases": [
+    "Nika revolt",
+    "Nika riot",
+    "Nika insurrection",
+    "Nika uprising"
+   ],
+   "tier": 4,
+   "lore": "Named after the chariot fans' cry of 'Nika!', 'Conquer!'. In 532 they nearly toppled the emperor Justinian."
+  },
+  {
+   "answer": "Ionian Revolt",
+   "aliases": [
+    "Revolt of Ionia",
+    "Ionian Rebellion",
+    "Ionian Uprising",
+    "Ionian Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Great Jewish Revolt",
+   "aliases": [
+    "First Jewish Revolt",
+    "First Jewish–Roman War",
+    "Great Revolt",
+    "Jewish Revolt",
+    "Great Jewish Rebellion",
+    "Great Jewish Uprising",
+    "Great Jewish Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bar Kokhba revolt",
+   "aliases": [
+    "Bar Kochba revolt",
+    "Bar Kochba rebellion",
+    "Third Jewish Revolt",
+    "Second Jewish Revolt",
+    "Bar Kokhba Rebellion",
+    "Bar Kokhba Uprising",
+    "Bar Kokhba Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yellow Turban Rebellion",
+   "aliases": [
+    "Yellow Turbans",
+    "Yellow Scarves Rebellion",
+    "Yellow Turban Revolt",
+    "Yellow Turban Uprising",
+    "Yellow Turban Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "An Lushan Rebellion",
+   "aliases": [
+    "An Shi Rebellion",
+    "An Lushan Revolt",
+    "An Lushan Uprising",
+    "An Lushan Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cade's Rebellion",
+   "aliases": [
+    "Jack Cade's Rebellion",
+    "Jack Cade's Revolt",
+    "Cade's Revolt",
+    "Cade's Uprising",
+    "Cade's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Glyndŵr Rising",
+   "aliases": [
+    "Owain Glyndŵr's revolt",
+    "Owain Glyndwr's rebellion",
+    "Glyndwr's revolt",
+    "Glyndŵr's rebellion",
+    "Welsh revolt of 1400",
+    "Glyndŵr Rebellion",
+    "Glyndŵr Revolt",
+    "Glyndŵr Uprising"
+   ],
+   "tier": 4,
+   "lore": "Owain Glyndŵr was never captured, and nobody knows where he died."
+  },
+  {
+   "answer": "Kett's Rebellion",
+   "aliases": [
+    "Robert Kett's rebellion",
+    "Kett's Revolt",
+    "Kett's Uprising",
+    "Kett's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wyatt's Rebellion",
+   "aliases": [
+    "Wyatt's Revolt",
+    "Wyatt's Uprising",
+    "Wyatt's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Monmouth Rebellion",
+   "aliases": [
+    "Monmouth's Rebellion",
+    "Pitchfork Rebellion",
+    "West Country Rebellion",
+    "Monmouth Revolt",
+    "Monmouth Uprising",
+    "Monmouth Rising"
+   ],
+   "tier": 4,
+   "lore": "It ended at Sedgemoor in 1685, often called the last pitched battle fought on English soil."
+  },
+  {
+   "answer": "Swing Riots",
+   "aliases": [
+    "Captain Swing riots",
+    "Swing Rebellion",
+    "Captain Swing"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Luddite uprising",
+   "aliases": [
+    "Luddites",
+    "Luddite riots",
+    "Luddite Rebellion",
+    "Luddite Revolt",
+    "Luddite Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Irish Rebellion of 1641",
+   "aliases": [
+    "1641 Rebellion",
+    "Rising of 1641",
+    "Irish Revolt of 1641",
+    "Irish Uprising of 1641",
+    "Irish Rising of 1641"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "German Peasants' War",
+   "aliases": [
+    "Peasants' War",
+    "Great Peasants' Revolt",
+    "German Peasants' Revolt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hussite Revolution",
+   "aliases": [
+    "Hussite Wars",
+    "Hussite revolt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pugachev's Rebellion",
+   "aliases": [
+    "Pugachev Rebellion",
+    "Peasants' War of 1773",
+    "Pugachev's Revolt",
+    "Pugachev's Uprising",
+    "Pugachev's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Khmelnytsky Uprising",
+   "aliases": [
+    "Chmielnicki Uprising",
+    "Khmelnytsky Rebellion",
+    "Khmelnytsky Revolt",
+    "Khmelnytsky Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "November Uprising",
+   "aliases": [
+    "November Insurrection",
+    "Cadet Revolution",
+    "November Rebellion",
+    "November Revolt",
+    "November Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "January Uprising",
+   "aliases": [
+    "January Insurrection",
+    "January Rebellion",
+    "January Revolt",
+    "January Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kościuszko Uprising",
+   "aliases": [
+    "Kościuszko Insurrection",
+    "Kościuszko Rebellion",
+    "Kościuszko Revolt",
+    "Kościuszko Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kronstadt rebellion",
+   "aliases": [
+    "Kronstadt mutiny",
+    "Kronstadt Revolt",
+    "Kronstadt Uprising",
+    "Kronstadt Rising",
+    "Kronstadt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Spartacist uprising",
+   "aliases": [
+    "January Uprising of 1919",
+    "Spartacist Rebellion",
+    "Spartacist Revolt",
+    "Spartacist Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shays' Rebellion",
+   "aliases": [
+    "Shays's Rebellion",
+    "Shays' Revolt",
+    "Shays' Uprising",
+    "Shays' Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Whiskey Rebellion",
+   "aliases": [
+    "Whisky Rebellion",
+    "Whiskey Insurrection",
+    "Whiskey Revolt",
+    "Whiskey Uprising",
+    "Whiskey Rising"
+   ],
+   "tier": 4,
+   "lore": "George Washington rode out with the army to put it down: the only sitting president, it is said, to lead troops in the field."
+  },
+  {
+   "answer": "Nat Turner's Rebellion",
+   "aliases": [
+    "Southampton Insurrection",
+    "Nat Turner Rebellion",
+    "Nat Turner's slave rebellion",
+    "Nat Turner's Revolt",
+    "Nat Turner's Uprising",
+    "Nat Turner's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bacon's Rebellion",
+   "aliases": [
+    "Bacon's Revolt",
+    "Bacon's Uprising",
+    "Bacon's Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pueblo Revolt",
+   "aliases": [
+    "Popé's Rebellion",
+    "Pueblo Rebellion",
+    "Pueblo Uprising",
+    "Pueblo Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rebellion of Túpac Amaru II",
+   "aliases": [
+    "Tupac Amaru rebellion",
+    "Túpac Amaru II rebellion",
+    "Tupac Amaru revolt",
+    "Tupac Amaru II's rebellion",
+    "Revolt of Túpac Amaru II",
+    "Uprising of Túpac Amaru II",
+    "Rising of Túpac Amaru II"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zapatista uprising",
+   "aliases": [
+    "EZLN uprising",
+    "Chiapas uprising",
+    "Zapatista Revolution",
+    "Zapatistas",
+    "Zapatista Rebellion",
+    "Zapatista Revolt",
+    "Zapatista Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Red River Rebellion",
+   "aliases": [
+    "Red River Resistance",
+    "Riel Rebellion",
+    "Red River Revolt",
+    "Red River Uprising",
+    "Red River Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rebellions of 1837",
+   "aliases": [
+    "Rebellions of 1837–38",
+    "Lower Canada Rebellion",
+    "Upper Canada Rebellion",
+    "Patriotes Rebellion",
+    "Patriote Rebellion"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Stonewall uprising",
+   "aliases": [
+    "Stonewall riots",
+    "Stonewall",
+    "Stonewall Rebellion",
+    "Stonewall Revolt",
+    "Stonewall Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Maji Maji Rebellion",
+   "aliases": [
+    "Maji Maji War",
+    "Maji Maji Revolt",
+    "Maji Maji Uprising",
+    "Maji Maji Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "May Revolution",
+   "aliases": [
+    "Revolución de Mayo",
+    "Argentine May Revolution",
+    "May Revolution of 1810",
+    "Argentine Revolution",
+    "Argentinian Revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Quit India Movement",
+   "aliases": [
+    "Quit India",
+    "August Kranti",
+    "Bharat Chhodo Andolan",
+    "August Movement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mahdist uprising",
+   "aliases": [
+    "Mahdist War",
+    "Mahdist Rebellion",
+    "Mahdist Revolt",
+    "Mahdist Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fourth Industrial Revolution",
+   "aliases": [
+    "Industry 4.0",
+    "4IR"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Commercial Revolution",
+   "tier": 4
+  },
+  {
+   "answer": "Military Revolution",
+   "tier": 4
+  },
+  {
+   "answer": "Cognitive Revolution",
+   "tier": 4
+  },
+  {
+   "answer": "Printing Revolution",
+   "aliases": [
+    "Print revolution",
+    "Gutenberg revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "AI revolution",
+   "aliases": [
+    "Artificial intelligence revolution"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "March 1st Movement",
+   "aliases": [
+    "Samil Movement",
+    "March First Movement",
+    "1 March Movement",
+    "March 1st Uprising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Siamese revolution of 1932",
+   "aliases": [
+    "Siamese Revolution",
+    "Thai Revolution",
+    "Thai Revolution of 1932",
+    "Siamese coup of 1932",
+    "1932 Revolution",
+    "Revolution of 1932"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Saur Revolution",
+   "aliases": [
+    "Afghan Revolution",
+    "Afghan Revolution of 1978",
+    "April Revolution of 1978"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Munda Rebellion",
+   "aliases": [
+    "Ulgulan",
+    "Birsa Munda's rebellion",
+    "Munda Ulgulan",
+    "Munda uprising",
+    "Munda Revolt",
+    "Munda Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "1959 Tibetan uprising",
+   "aliases": [
+    "Tibetan uprising",
+    "Tibetan Revolution",
+    "Lhasa uprising",
+    "Tibetan rebellion of 1959",
+    "1959 Tibetan Rebellion",
+    "1959 Tibetan Revolt",
+    "1959 Tibetan Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bohemian Revolt",
+   "aliases": [
+    "Bohemian Rebellion",
+    "Bohemian Uprising",
+    "Revolt of the Bohemian Estates",
+    "Bohemian Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Slovak National Uprising",
+   "aliases": [
+    "Slovak Uprising",
+    "Slovak National Uprising of 1944",
+    "Slovak National Rebellion",
+    "Slovak National Revolt",
+    "Slovak National Rising"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Revolt of Masaniello",
+   "aliases": [
+    "Masaniello's revolt",
+    "Masaniello revolt",
+    "Neapolitan revolt of 1647",
+    "Rebellion of Masaniello",
+    "Uprising of Masaniello",
+    "Rising of Masaniello"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Five Days of Milan",
+   "aliases": [
+    "Cinque Giornate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Reapers' War",
+   "aliases": [
+    "Catalan Revolt",
+    "Revolt of the Catalans",
+    "Guerra dels Segadors"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liberal Revolution of 1820",
+   "aliases": [
+    "Portuguese Liberal Revolution",
+    "Porto Revolution",
+    "Revolution of 1820"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "5 October 1910 revolution",
+   "aliases": [
+    "Portuguese Republican Revolution",
+    "5 October Revolution",
+    "Portuguese Revolution of 1910"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Batavian Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Brabant Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Liège Revolution",
+   "aliases": [
+    "Happy Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Prayer Book Rebellion",
+   "aliases": [
+    "Western Rising",
+    "Western Rebellion",
+    "Prayer Book Revolt",
+    "Prayer Book Uprising",
+    "Prayer Book Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rising of the North",
+   "aliases": [
+    "Northern Rebellion",
+    "Revolt of the Northern Earls",
+    "Rising of the Northern Earls",
+    "Rebellion of the North",
+    "Revolt of the North",
+    "Uprising of the North"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cornish Rebellion of 1497",
+   "aliases": [
+    "Cornish Rebellion",
+    "Cornish rising",
+    "Cornish Revolt of 1497",
+    "Cornish Uprising of 1497",
+    "Cornish Rising of 1497"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Essex's Rebellion",
+   "aliases": [
+    "Essex Rebellion",
+    "Essex's Revolt",
+    "Essex's Uprising",
+    "Essex's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fenian Rising",
+   "aliases": [
+    "Fenian Rising of 1867",
+    "Fenian Rebellion",
+    "Fenian Revolt",
+    "Fenian Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Young Irelander Rebellion",
+   "aliases": [
+    "Young Ireland rebellion",
+    "Famine Rebellion",
+    "Battle of Widow McCormack's Cabbage Patch",
+    "Young Irelander Rebellion of 1848",
+    "Young Irelander Revolt",
+    "Young Irelander Uprising",
+    "Young Irelander Rising"
+   ],
+   "tier": 5,
+   "lore": "Its one real fight, in 1848, is remembered as the Battle of Widow McCormack's Cabbage Patch."
+  },
+  {
+   "answer": "Merthyr Rising",
+   "aliases": [
+    "Merthyr Riots",
+    "Merthyr Rising of 1831",
+    "Merthyr Rebellion",
+    "Merthyr Revolt",
+    "Merthyr Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Newport Rising",
+   "aliases": [
+    "Chartist uprising",
+    "Newport Chartist Rising",
+    "Chartist rising",
+    "Newport Rebellion",
+    "Newport Revolt",
+    "Newport Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pentrich Rising",
+   "aliases": [
+    "Pentrich Revolution",
+    "Pentrich Rebellion",
+    "Pentrich Revolt",
+    "Pentrich Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Radical War",
+   "aliases": [
+    "Scottish Insurrection of 1820",
+    "Radical Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tambov Rebellion",
+   "aliases": [
+    "Antonov Rebellion",
+    "Tambov Revolt",
+    "Tambov Uprising",
+    "Tambov Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Razin's rebellion",
+   "aliases": [
+    "Stenka Razin's rebellion",
+    "Stenka Razin's revolt",
+    "Razin's Revolt",
+    "Razin's Uprising",
+    "Razin's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Copper Riot",
+   "tier": 5
+  },
+  {
+   "answer": "Salt Riot",
+   "tier": 5
+  },
+  {
+   "answer": "Streltsy uprising",
+   "aliases": [
+    "Moscow Uprising of 1682",
+    "Streltsy Rebellion",
+    "Streltsy Revolt",
+    "Streltsy Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ilinden Uprising",
+   "aliases": [
+    "Ilinden–Preobrazhenie Uprising",
+    "Ilinden Rebellion",
+    "Ilinden Revolt",
+    "Ilinden Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "April Uprising",
+   "aliases": [
+    "Bulgarian April Uprising",
+    "April Uprising of 1876",
+    "April Rebellion",
+    "April Revolt",
+    "April Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Poznań 1956",
+   "aliases": [
+    "Poznań protests of 1956",
+    "Poznań June",
+    "Poznań uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "East German uprising of 1953",
+   "aliases": [
+    "East German uprising",
+    "17 June uprising",
+    "Uprising of 17 June",
+    "Uprising of 1953",
+    "East German Rebellion of 1953",
+    "East German Revolt of 1953",
+    "East German Rising of 1953"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Prague Uprising",
+   "aliases": [
+    "Prague uprising of 1945",
+    "Prague Rebellion",
+    "Prague Revolt",
+    "Prague Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bagaudae",
+   "aliases": [
+    "Bagaudae revolt",
+    "Bacaudae"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Revolt of the Batavi",
+   "aliases": [
+    "Batavian revolt",
+    "Revolt of Civilis",
+    "Rebellion of the Batavi",
+    "Uprising of the Batavi",
+    "Rising of the Batavi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Illyrian Revolt",
+   "aliases": [
+    "Bellum Batonianum",
+    "Pannonian revolt",
+    "Great Illyrian Rebellion",
+    "Great Illyrian Uprising",
+    "Great Illyrian Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zanj Rebellion",
+   "aliases": [
+    "Zanj Revolt",
+    "Zanj Uprising",
+    "Zanj Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Urabi revolt",
+   "aliases": [
+    "Urabi Revolution",
+    "Orabi revolt",
+    "Urabi Rebellion",
+    "Urabi Uprising",
+    "Urabi Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Revolt in Palestine",
+   "aliases": [
+    "1936–39 Arab revolt in Palestine",
+    "Great Palestinian Revolt",
+    "Arab revolt in Palestine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dhofar Rebellion",
+   "aliases": [
+    "Dhofar War",
+    "Dhofar Revolt",
+    "Dhofar Uprising",
+    "Dhofar Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "14 July Revolution",
+   "aliases": [
+    "Iraqi Revolution",
+    "Iraqi Revolution of 1958"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yemeni Revolution",
+   "aliases": [
+    "Yemeni Revolution of 2011"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sudanese Revolution",
+   "aliases": [
+    "Sudanese Revolution of 2019",
+    "December Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bahraini uprising",
+   "aliases": [
+    "Bahraini uprising of 2011",
+    "Pearl Revolution",
+    "Bahraini Rebellion",
+    "Bahraini Revolt",
+    "Bahraini Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Woman, Life, Freedom",
+   "aliases": [
+    "Mahsa Amini protests",
+    "Woman Life Freedom movement",
+    "Iranian protests of 2022"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ethiopian Revolution",
+   "aliases": [
+    "Ethiopian Revolution of 1974"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rwandan Revolution",
+   "aliases": [
+    "Hutu Revolution",
+    "Rwandan Revolution of 1959"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Burkinabé uprising",
+   "aliases": [
+    "Burkina Faso uprising of 2014",
+    "Burkinabé Rebellion",
+    "Burkinabé Revolt",
+    "Burkinabé Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Malagasy Uprising",
+   "aliases": [
+    "Malagasy uprising of 1947",
+    "Madagascar uprising of 1947",
+    "Malagasy Rebellion",
+    "Malagasy Revolt",
+    "Malagasy Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chilembwe uprising",
+   "aliases": [
+    "John Chilembwe uprising",
+    "Chilembwe Rebellion",
+    "Chilembwe Revolt",
+    "Chilembwe Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bambatha Rebellion",
+   "aliases": [
+    "Poll Tax Rebellion",
+    "Bambatha Revolt",
+    "Bambatha Uprising",
+    "Bambatha Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herero and Nama uprising",
+   "aliases": [
+    "Herero uprising",
+    "Herero and Nama Rebellion",
+    "Herero and Nama Revolt",
+    "Herero and Nama Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Women's War",
+   "aliases": [
+    "Aba Women's Riots",
+    "Aba Women's War",
+    "Igbo Women's War"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bolivian National Revolution",
+   "aliases": [
+    "Bolivian Revolution",
+    "Bolivian Revolution of 1952"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guatemalan Revolution",
+   "aliases": [
+    "Guatemalan Revolution of 1944"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Brazilian Revolution of 1930",
+   "aliases": [
+    "Revolution of 1930"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stono Rebellion",
+   "aliases": [
+    "Cato's Rebellion",
+    "Stono Revolt",
+    "Stono Uprising",
+    "Stono Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "German Coast Uprising",
+   "aliases": [
+    "1811 German Coast Uprising",
+    "Deslondes revolt",
+    "German Coast Rebellion",
+    "German Coast Revolt",
+    "German Coast Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baptist War",
+   "aliases": [
+    "Christmas Rebellion",
+    "Sam Sharpe Rebellion",
+    "Great Jamaican Slave Revolt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tacky's Revolt",
+   "aliases": [
+    "Tacky's War",
+    "Tacky's Rebellion",
+    "Tacky's Uprising",
+    "Tacky's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Morant Bay rebellion",
+   "aliases": [
+    "Morant Bay Revolt",
+    "Morant Bay Uprising",
+    "Morant Bay Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Demerara rebellion",
+   "aliases": [
+    "Demerara rebellion of 1823",
+    "Demerara Revolt",
+    "Demerara Uprising",
+    "Demerara Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Malê Revolt",
+   "aliases": [
+    "Malê Rebellion",
+    "Malê Uprising",
+    "Malê Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bussa's Rebellion",
+   "aliases": [
+    "Bussa Rebellion",
+    "Bussa's Revolt",
+    "Bussa's Uprising",
+    "Bussa's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "North-West Rebellion",
+   "aliases": [
+    "North-West Resistance",
+    "Saskatchewan Rebellion",
+    "North-West Revolt",
+    "North-West Uprising",
+    "North-West Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dorr Rebellion",
+   "aliases": [
+    "Dorr Revolt",
+    "Dorr Uprising",
+    "Dorr Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leisler's Rebellion",
+   "aliases": [
+    "Leisler's Revolt",
+    "Leisler's Uprising",
+    "Leisler's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fries's Rebellion",
+   "aliases": [
+    "Fries Rebellion",
+    "Fries's Revolt",
+    "Fries's Uprising",
+    "Fries's Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cristero War",
+   "aliases": [
+    "Cristero rebellion",
+    "Cristiada"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spring Revolution",
+   "aliases": [
+    "Myanmar Spring Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "June Democratic Struggle",
+   "aliases": [
+    "June Democracy Movement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ikkō-ikki",
+   "tier": 5
+  },
+  {
+   "answer": "Nanchang Uprising",
+   "aliases": [
+    "Nanchang Rebellion",
+    "Nanchang Revolt",
+    "Nanchang Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Autumn Harvest Uprising",
+   "aliases": [
+    "Autumn Harvest Rebellion",
+    "Autumn Harvest Revolt",
+    "Autumn Harvest Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Red Turban Rebellion",
+   "aliases": [
+    "Red Turbans",
+    "Red Turban Revolt",
+    "Red Turban Uprising",
+    "Red Turban Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Huang Chao rebellion",
+   "aliases": [
+    "Huang Chao Revolt",
+    "Huang Chao Uprising",
+    "Huang Chao Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dazexiang uprising",
+   "aliases": [
+    "Chen Sheng and Wu Guang uprising",
+    "Chen Sheng Wu Guang Uprising",
+    "Dazexiang Rebellion",
+    "Dazexiang Revolt",
+    "Dazexiang Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Red Eyebrows",
+   "aliases": [
+    "Red Eyebrows Rebellion",
+    "Chimei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dungan Revolt",
+   "aliases": [
+    "Dungan Rebellion",
+    "Dungan Uprising",
+    "Dungan Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nian Rebellion",
+   "aliases": [
+    "Nian Revolt",
+    "Nian Uprising",
+    "Nian Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "White Lotus Rebellion",
+   "aliases": [
+    "White Lotus Revolt",
+    "White Lotus Uprising",
+    "White Lotus Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mongolian Revolution",
+   "aliases": [
+    "Mongolian Revolution of 1911",
+    "Mongolian Revolution of 1921",
+    "Mongolian Revolution of 1990",
+    "Mongolian Democratic Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nepalese Revolution",
+   "aliases": [
+    "Nepalese Revolution of 1951",
+    "Loktantra Andolan",
+    "Jana Andolan",
+    "Nepalese Revolution of 2006"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aragalaya",
+   "aliases": [
+    "Sri Lankan protests of 2022",
+    "Sri Lankan uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gen Z protests",
+   "aliases": [
+    "Gen Z revolution",
+    "Gen Z uprising",
+    "Gen Z protests in Nepal",
+    "Nepalese Gen Z protests",
+    "Gen Z protests in Madagascar",
+    "Kenyan Gen Z protests",
+    "Gen Z protests in Kenya",
+    "2024 Kenyan protests"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vellore Mutiny",
+   "aliases": [
+    "Vellore mutiny of 1806"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Santhal rebellion",
+   "aliases": [
+    "Santhal Hul",
+    "Santal rebellion",
+    "Hul rebellion",
+    "Santal Hul",
+    "Santhal Revolt",
+    "Santhal Uprising",
+    "Santhal Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paika Rebellion",
+   "aliases": [
+    "Paika Bidroha",
+    "Paika Revolt",
+    "Paika Uprising",
+    "Paika Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Indigo revolt",
+   "aliases": [
+    "Nil Bidroho",
+    "Indigo Rebellion",
+    "Indigo Uprising",
+    "Indigo Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Malabar rebellion",
+   "aliases": [
+    "Moplah Rebellion",
+    "Mappila uprising",
+    "Moplah riots",
+    "Malabar Revolt",
+    "Malabar Uprising",
+    "Malabar Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Royal Indian Navy mutiny",
+   "aliases": [
+    "RIN mutiny",
+    "Bombay mutiny",
+    "Naval mutiny of 1946"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chemical Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Darwinian Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Price Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Financial Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Market Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Transportation Revolution",
+   "aliases": [
+    "Transport revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Consumer Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Urban Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Upper Palaeolithic Revolution",
+   "aliases": [
+    "Upper Paleolithic Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Secondary products revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Keynesian Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Marginal Revolution",
+   "aliases": [
+    "Marginalist revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Blue Revolution",
+   "tier": 5
+  },
+  {
+   "answer": "Candlelight Revolution",
+   "aliases": [
+    "Candlelight Struggle",
+    "Candlelight protests"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emmet's Rising",
+   "aliases": [
+    "Irish rebellion of 1803",
+    "Robert Emmet's rising",
+    "Emmet's rebellion",
+    "Rising of 1803",
+    "Emmet's Revolt",
+    "Emmet's Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Reformasi",
+   "aliases": [
+    "Fall of Suharto",
+    "Indonesian Reformasi",
+    "Reformasi 1998"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rand Rebellion",
+   "aliases": [
+    "Rand Revolt",
+    "Red Revolt",
+    "Rand Strike",
+    "Rand Uprising",
+    "Rand Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maritz Rebellion",
+   "aliases": [
+    "Boer Revolt",
+    "Boer Rebellion of 1914",
+    "Maritz Revolt",
+    "Maritz Uprising",
+    "Maritz Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kittur rebellion",
+   "aliases": [
+    "Kittur Chennamma's rebellion",
+    "Kittur revolt",
+    "Kittur uprising",
+    "Kittur Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hukbalahap Rebellion",
+   "aliases": [
+    "Huk Rebellion",
+    "Hukbalahap",
+    "Huk uprising",
+    "Hukbalahap Revolt",
+    "Hukbalahap Uprising",
+    "Hukbalahap Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tây Sơn rebellion",
+   "aliases": [
+    "Tây Sơn uprising",
+    "Tay Son revolt",
+    "Tây Sơn Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trưng sisters' rebellion",
+   "aliases": [
+    "Trung Sisters uprising",
+    "Hai Bà Trưng uprising",
+    "Trưng sisters' Revolt",
+    "Trưng sisters' Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Panthay Rebellion",
+   "aliases": [
+    "Panthay revolt",
+    "Du Wenxiu Rebellion",
+    "Panthay Uprising",
+    "Panthay Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Armenian Revolution of 2018",
+   "aliases": [
+    "Armenian Velvet Revolution",
+    "Armenian Revolution",
+    "2018 Armenian revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ukrainian Revolution of 1917–1921",
+   "aliases": [
+    "Ukrainian Revolution of 1917",
+    "Ukrainian War of Independence"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rojava Revolution",
+   "aliases": [
+    "Kurdish Revolution",
+    "Revolution in Rojava"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Second Revolution",
+   "aliases": [
+    "Second Revolution of 1913",
+    "Chinese Second Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ramadan Revolution",
+   "aliases": [
+    "Ramadan Revolution of 1963"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peruvian Revolution",
+   "aliases": [
+    "Peruvian Revolution of 1968",
+    "Revolutionary Government of the Armed Forces"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Revolución Argentina",
+   "aliases": [
+    "Argentine Revolution of 1966"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Turkish Revolution",
+   "aliases": [
+    "Kemalist Revolution",
+    "Atatürk's Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silver Revolution",
+   "aliases": [
+    "Indian Silver Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Golden Revolution",
+   "aliases": [
+    "Indian Golden Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quantum revolution",
+   "aliases": [
+    "First quantum revolution",
+    "Quantum Revolution in physics"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ragamuffin War",
+   "aliases": [
+    "Farroupilha Revolution",
+    "Revolução Farroupilha",
+    "Ragamuffin Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bear Flag Revolt",
+   "aliases": [
+    "Bear Flag Rebellion",
+    "California Revolt",
+    "Bear Flag Uprising",
+    "Bear Flag Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Greater Poland Uprising",
+   "aliases": [
+    "Wielkopolska Uprising",
+    "Greater Poland Uprising of 1918",
+    "Greater Poland Rebellion",
+    "Greater Poland Revolt",
+    "Greater Poland Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silesian Uprisings",
+   "aliases": [
+    "Silesian Uprising",
+    "First Silesian Uprising",
+    "Second Silesian Uprising",
+    "Third Silesian Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "EDSA II",
+   "aliases": [
+    "Second EDSA Revolution",
+    "EDSA Revolution of 2001",
+    "Second People Power Revolution"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "February 28 incident",
+   "aliases": [
+    "228 incident",
+    "February 28 uprising",
+    "228 uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ghadar Mutiny",
+   "aliases": [
+    "Ghadar conspiracy",
+    "Ghadar rebellion",
+    "Ghadar uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Telangana Rebellion",
+   "aliases": [
+    "Telangana armed struggle",
+    "Telangana uprising",
+    "Telangana Peasants' Struggle",
+    "Telangana Revolt",
+    "Telangana Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Naxalbari uprising",
+   "aliases": [
+    "Naxalbari",
+    "Naxalbari revolt",
+    "Naxalite uprising",
+    "Naxalbari Rebellion",
+    "Naxalbari Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Polygar Wars",
+   "aliases": [
+    "Polygar rebellion",
+    "Palayakkarar rebellion"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "First Chimurenga",
+   "aliases": [
+    "Chimurenga",
+    "Second Matabele War",
+    "Matabele Rebellion",
+    "Shona and Ndebele rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "JVP insurrections",
+   "aliases": [
+    "JVP insurrection",
+    "1971 JVP insurrection",
+    "1987–89 JVP insurrection",
+    "JVP uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Grenada Revolution",
+   "aliases": [
+    "Grenadian Revolution",
+    "Grenada Revolution of 1979"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kyrgyz Revolution of 2010",
+   "aliases": [
+    "Second Kyrgyz Revolution",
+    "Kyrgyz Revolution 2010"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Desmond Rebellions",
+   "aliases": [
+    "Desmond Rebellion",
+    "First Desmond Rebellion",
+    "Second Desmond Rebellion"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tyrone's Rebellion",
+   "aliases": [
+    "Nine Years' War (Ireland)",
+    "Tyrone's Rising",
+    "Tyrone's Revolt",
+    "Tyrone's Uprising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bulavin Rebellion",
+   "aliases": [
+    "Bulavin's rebellion",
+    "Bulavin uprising",
+    "Bulavin Revolt",
+    "Bulavin Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Camisard revolt",
+   "aliases": [
+    "Camisards",
+    "War of the Camisards",
+    "Camisard rebellion",
+    "Camisard Uprising",
+    "Camisard Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Athens Polytechnic uprising",
+   "aliases": [
+    "Polytechnic uprising",
+    "Athens Polytechnic",
+    "Athens Polytechnic Rebellion",
+    "Athens Polytechnic Revolt",
+    "Athens Polytechnic Rising"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Restoration",
+   "aliases": [
+    "Revolution of 1640",
+    "Portuguese Revolution of 1640",
+    "Restoration of Independence"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "2025–2026 Iranian protests",
+   "aliases": [
+    "2025–26 Iranian protests",
+    "2026 Iranian protests",
+    "Iranian protests of 2026",
+    "2025 Iranian protests",
+    "Iranian protests of 2025–2026",
+    "Iranian protests",
+    "Iran protests"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Non-cooperation movement",
+   "aliases": [
+    "Asahayog Andolan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Civil Disobedience Movement",
+   "aliases": [
+    "Savinay Avagya Andolan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Finnish Revolution",
+   "aliases": [
+    "Finnish Civil War",
+    "Finnish Revolution of 1918",
+    "Finnish Civil War of 1918"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Revolt of the Ciompi",
+   "aliases": [
+    "Ciompi revolt",
+    "Ciompi Revolution",
+    "Tumult of the Ciompi",
+    "Ciompi uprising",
+    "Ciompi",
+    "Rebellion of the Ciompi",
+    "Uprising of the Ciompi",
+    "Rising of the Ciompi"
+   ],
+   "tier": 6,
+   "lore": "Florence's wool-carders, the ciompi, seized the city in 1378 and briefly put one of their own, Michele di Lando, in charge."
+  },
+  {
+   "answer": "Rebecca Riots",
+   "aliases": [
+    "Rebecca Riot",
+    "Rebecca and her Daughters",
+    "Rebeccaites"
+   ],
+   "tier": 6,
+   "lore": "Welsh farmers dressed in women's clothes, calling themselves Rebecca and her daughters, smashed hated tollgates from 1839."
+  },
+  {
+   "answer": "Secession of the Plebs",
+   "aliases": [
+    "Secessio plebis",
+    "First Secession of the Plebs",
+    "Plebeian secession",
+    "Secessions of the Plebs"
+   ],
+   "tier": 6,
+   "lore": "Rome's commoners won rights by marching out of the city and refusing to come back. The first walkout, tradition says, was in 494 BC."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Revolution",
+   "reason": "Every answer here is a revolution. Give yours its full name."
+  },
+  {
+   "answer": "Communist revolution",
+   "aliases": [
+    "Socialist revolution",
+    "Proletarian revolution",
+    "Workers' revolution",
+    "Bourgeois revolution"
+   ],
+   "reason": "A kind of revolution that several countries had. Add the country."
+  },
+  {
+   "answer": "Storming of the Bastille",
+   "aliases": [
+    "Bastille Day",
+    "Fall of the Bastille",
+    "Reign of Terror",
+    "The Terror",
+    "Tennis Court Oath",
+    "Women's March on Versailles",
+    "Storming of the Winter Palace",
+    "Fall of the Berlin Wall",
+    "Berlin Wall",
+    "Baltic Way",
+    "Boston Tea Party",
+    "Boston Massacre",
+    "Long March",
+    "Execution of Louis XVI",
+    "Thermidor",
+    "Thermidorian Reaction",
+    "Shot heard round the world",
+    "Declaration of Independence",
+    "Lexington and Concord",
+    "Declaration of the Rights of Man",
+    "Salt March",
+    "Dandi March"
+   ],
+   "reason": "One episode in a revolution, not the revolution itself."
+  },
+  {
+   "answer": "Peterloo",
+   "aliases": [
+    "Peterloo Massacre",
+    "Bloody Sunday",
+    "Amritsar massacre",
+    "Jallianwala Bagh",
+    "Jallianwala Bagh massacre",
+    "Sharpeville",
+    "Sharpeville massacre",
+    "Kent State",
+    "Kent State shootings"
+   ],
+   "reason": "A massacre of peaceful crowds, not a revolution."
+  },
+  {
+   "answer": "Tiananmen Square protests",
+   "aliases": [
+    "Tiananmen",
+    "Tiananmen Square",
+    "Tiananmen Square massacre",
+    "June Fourth Incident",
+    "Tiananmen protests"
+   ],
+   "reason": "Protests for reform, crushed in 1989. Not a revolution."
+  },
+  {
+   "answer": "Chartism",
+   "aliases": [
+    "Chartists",
+    "Chartist movement",
+    "Civil Rights Movement",
+    "Suffragettes",
+    "Suffragists",
+    "Women's suffrage",
+    "Anti-apartheid movement",
+    "Black Lives Matter",
+    "Occupy Wall Street",
+    "Extinction Rebellion",
+    "Me Too",
+    "Abolitionism",
+    "Solidarity",
+    "Solidarność",
+    "Tolpuddle Martyrs",
+    "May Fourth Movement",
+    "Green Movement",
+    "Yellow vests",
+    "Gilets jaunes"
+   ],
+   "reason": "A movement for reform, not a revolution."
+  },
+  {
+   "answer": "Prague Spring",
+   "aliases": [
+    "Perestroika",
+    "Glasnost",
+    "Hundred Days' Reform",
+    "Khrushchev Thaw",
+    "Great Reform Act",
+    "Reform Act"
+   ],
+   "reason": "Reform from above, not a revolution."
+  },
+  {
+   "answer": "Beer Hall Putsch",
+   "aliases": [
+    "Munich Putsch",
+    "Kapp Putsch",
+    "March on Rome",
+    "Gunpowder Plot",
+    "Guy Fawkes",
+    "Bonfire Night",
+    "Cato Street Conspiracy",
+    "Babington Plot",
+    "Rye House Plot",
+    "Jameson Raid",
+    "John Brown's raid",
+    "Raid on Harpers Ferry",
+    "Harpers Ferry",
+    "Bay of Pigs",
+    "Bay of Pigs Invasion",
+    "Coup of 18 Brumaire",
+    "18 Brumaire",
+    "Pride's Purge"
+   ],
+   "reason": "A plot, a raid or a coup, not a revolution."
+  },
+  {
+   "answer": "Mutiny on the Bounty",
+   "aliases": [
+    "Bounty mutiny",
+    "Potemkin mutiny",
+    "Battleship Potemkin"
+   ],
+   "reason": "A mutiny aboard one ship, not a revolution."
+  },
+  {
+   "answer": "American Civil War",
+   "aliases": [
+    "US Civil War",
+    "War Between the States",
+    "Civil War"
+   ],
+   "reason": "A civil war, not a revolution."
+  },
+  {
+   "answer": "Russian Civil War",
+   "aliases": [
+    "Chinese Civil War",
+    "Spanish Civil War",
+    "Syrian civil war",
+    "Libyan civil war"
+   ],
+   "reason": "A civil war that went hand in hand with a revolution. Name the revolution."
+  },
+  {
+   "answer": "French Revolutionary Wars",
+   "aliases": [
+    "Napoleonic Wars"
+   ],
+   "reason": "Wars that a revolution set off, not the revolution itself."
+  },
+  {
+   "answer": "Wars of the Roses",
+   "aliases": [
+    "War of the Roses"
+   ],
+   "reason": "A war between two royal houses, not a revolution."
+  },
+  {
+   "answer": "Great Leap Forward",
+   "reason": "An economic campaign that ended in famine, not a revolution."
+  },
+  {
+   "answer": "Reformation",
+   "aliases": [
+    "Protestant Reformation",
+    "English Reformation",
+    "Counter-Reformation",
+    "Dissolution of the Monasteries"
+   ],
+   "reason": "A religious upheaval, but history calls it a reformation."
+  },
+  {
+   "answer": "Renaissance",
+   "aliases": [
+    "Italian Renaissance"
+   ],
+   "reason": "A rebirth of art and learning, not a revolution."
+  },
+  {
+   "answer": "Enlightenment",
+   "aliases": [
+    "Age of Enlightenment",
+    "Age of Reason",
+    "Scottish Enlightenment"
+   ],
+   "reason": "An age of ideas that inspired revolutions, not one itself."
+  },
+  {
+   "answer": "Velvet Divorce",
+   "aliases": [
+    "Dissolution of Czechoslovakia"
+   ],
+   "reason": "A peaceful parting of two nations, not a revolution."
+  },
+  {
+   "answer": "Risorgimento",
+   "aliases": [
+    "Italian unification",
+    "Unification of Italy"
+   ],
+   "reason": "A long movement for unification, won by wars as much as risings."
+  },
+  {
+   "answer": "Communism",
+   "aliases": [
+    "Marxism",
+    "Socialism",
+    "Leninism",
+    "Maoism",
+    "Anarchism",
+    "Bolshevism",
+    "Bolsheviks",
+    "Jacobins",
+    "Sans-culottes",
+    "Republicanism"
+   ],
+   "reason": "An ideology or a party, not a revolution."
+  },
+  {
+   "answer": "Spartacus",
+   "aliases": [
+    "Boudica",
+    "Boudicca",
+    "Wat Tyler",
+    "Robespierre",
+    "Lenin",
+    "Trotsky",
+    "Che Guevara",
+    "Che",
+    "Fidel Castro",
+    "Castro",
+    "Mao",
+    "Mao Zedong",
+    "George Washington",
+    "Garibaldi",
+    "Toussaint Louverture",
+    "Nat Turner",
+    "Emiliano Zapata",
+    "Zapata",
+    "Pancho Villa",
+    "Simón Bolívar",
+    "Bolívar",
+    "Khomeini",
+    "Danton",
+    "Marat",
+    "Oliver Cromwell",
+    "Owain Glyndŵr",
+    "Jack Cade",
+    "Pugachev",
+    "Michael Collins",
+    "Patrick Pearse",
+    "Sun Yat-sen",
+    "Ho Chi Minh",
+    "Karl Marx",
+    "Marx",
+    "Bonnie Prince Charlie"
+   ],
+   "reason": "A revolutionary, not a revolution. Name the rising itself."
+  },
+  {
+   "answer": "Animal Farm",
+   "reason": "A novel. Its revolution only mirrors a real one."
+  },
+  {
+   "answer": "Les Misérables",
+   "aliases": [
+    "Les Mis"
+   ],
+   "reason": "A novel. Its barricades were real, though."
+  },
+  {
+   "answer": "V for Vendetta",
+   "aliases": [
+    "Hunger Games",
+    "Mockingjay",
+    "Star Wars",
+    "Rebel Alliance",
+    "Galactic Civil War",
+    "Matrix Revolutions",
+    "Revolutionary Road",
+    "Hamilton",
+    "Braveheart",
+    "Revolution 9"
+   ],
+   "reason": "From a story or a song, not from history."
+  },
+  {
+   "answer": "Indian independence movement",
+   "aliases": [
+    "Indian freedom struggle",
+    "Indian freedom movement"
+   ],
+   "reason": "A long struggle with many risings in it. Name one of them."
+  }
+ ],
+ "decoys": [
+  "Italian Revolution",
+  "Chilean Revolution",
+  "Dominican Revolution",
+  "Ugandan Revolution",
+  "Angolan Revolution",
+  "Nigerian Revolution",
+  "Senegalese Revolution",
+  "Malian Revolution",
+  "British Revolution",
+  "Swiss Revolution",
+  "Danish Revolution",
+  "Swedish Revolution",
+  "Latvian Revolution",
+  "Cypriot Revolution",
+  "Israeli Revolution",
+  "Saudi Revolution",
+  "Laotian Revolution",
+  "Bulgarian Revolution",
+  "Welsh Revolution",
+  "Croatian Revolution",
+  "Albanian Revolution",
+  "Korean Revolution",
+  "Japanese Revolution",
+  "Canadian Revolution",
+  "Jamaican Revolution",
+  "Ghanaian Revolution",
+  "Lao Revolution"
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"revolutions\" on 28 November 2026."
+}

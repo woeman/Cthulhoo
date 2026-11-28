@@ -1,0 +1,139 @@
+id: law-acts
+text: Name an Act of Parliament or other famous law.
+flavor: Somebody stood up in a chamber and read it aloud three times. After that, it bound everyone.
+rules: Any statute, code or founding legal document, Australian or foreign. The year is optional.
+section: Legislation
+---
+1 Constitution | Australian Constitution | Commonwealth of Australia Constitution Act | The Constitution | Commonwealth Constitution
+1 Fair Work Act | Fair Work Act 2009 | Fair Work
+1 Corporations Act | Corporations Act 2001 | Corporations Law
+1 Privacy Act | Privacy Act 1988
+1 Magna Carta
+2 Competition and Consumer Act | Competition and Consumer Act 2010 | CCA | Trade Practices Act | Trade Practices Act 1974 | Australian Consumer Law | ACL
+2 Crimes Act | Crimes Act 1900 | Crimes Act 1914 | Crimes Act 1958 | Criminal Code | Criminal Code Act
+2 Racial Discrimination Act | Racial Discrimination Act 1975 | RDA
+2 Sex Discrimination Act | Sex Discrimination Act 1984
+2 Native Title Act | Native Title Act 1993
+2 Income Tax Assessment Act | ITAA | Income Tax Assessment Act 1936 | Income Tax Assessment Act 1997 | Tax Act
+2 GST Act | A New Tax System (Goods and Services Tax) Act | A New Tax System Act | Goods and Services Tax Act
+2 Work Health and Safety Act | WHS Act | Occupational Health and Safety Act | OHS Act | Work Health and Safety Act 2011
+2 Copyright Act | Copyright Act 1968
+2 Family Law Act | Family Law Act 1975
+2 Marriage Act | Marriage Act 1961
+2 Disability Discrimination Act | Disability Discrimination Act 1992 | DDA
+2 Age Discrimination Act | Age Discrimination Act 2004
+2 Anti-Discrimination Act | Equal Opportunity Act | Anti-Discrimination Act 1977
+2 Bill of Rights | US Constitution | United States Constitution | First Amendment | Second Amendment | Fifth Amendment
+2 Migration Act | Migration Act 1958
+2 Modern Slavery Act | Modern Slavery Act 2018
+2 Spam Act | Spam Act 2003
+2 Road Rules | Road Transport Act | Australian Road Rules | Road Safety Act
+2 White Australia policy | Immigration Restriction Act | Immigration Restriction Act 1901
+2 Ten Commandments
+2 Human Rights Act | Charter of Human Rights and Responsibilities | Charter of Rights
+2 Freedom of Information Act | FOI Act | FOI
+2 Sarbanes-Oxley | Sarbanes-Oxley Act | SOX | Sarbox
+2 GDPR | General Data Protection Regulation
+2 Sale of Goods Act | Sale of Goods Act 1923 | Goods Act
+2 Superannuation Guarantee Act | Superannuation Guarantee (Administration) Act | SIS Act | Superannuation Industry (Supervision) Act
+2 Australia Act | Australia Act 1986 | Statute of Westminster
+2 Bankruptcy Act | Bankruptcy Act 1966
+2 Patents Act | Patents Act 1990 | Trade Marks Act | Trade Marks Act 1995 | Designs Act
+3 ASIC Act | Australian Securities and Investments Commission Act
+3 Banking Act | Banking Act 1959 | Reserve Bank Act
+3 National Consumer Credit Protection Act | NCCP | National Credit Code | Credit Act
+3 Anti-Money Laundering and Counter-Terrorism Financing Act | AML/CTF Act | AML CTF Act
+3 Insurance Contracts Act | Insurance Contracts Act 1984
+3 Personal Property Securities Act | PPSA | PPS Act
+3 Partnership Act | Partnership Act 1892
+3 Associations Incorporation Act
+3 Franchising Code of Conduct | Franchising Code
+3 Workplace Gender Equality Act
+3 Fringe Benefits Tax Assessment Act | FBT Act
+3 Taxation Administration Act
+3 Foreign Acquisitions and Takeovers Act | FATA
+3 Environment Protection and Biodiversity Conservation Act | EPBC Act | EPBC
+3 Public Interest Disclosure Act | Whistleblower laws
+3 Evidence Act | Evidence Act 1995
+3 Judiciary Act | Judiciary Act 1903
+3 Acts Interpretation Act
+3 Commonwealth Electoral Act | Electoral Act
+3 Defence Act | Defence Act 1903
+3 Telecommunications Act | Telecommunications (Interception and Access) Act
+3 Broadcasting Services Act
+3 Online Safety Act | Online Safety Act 2021
+3 Aged Care Act | NDIS Act | National Disability Insurance Scheme Act
+3 Social Security Act
+3 Australian Citizenship Act | Citizenship Act
+3 Aboriginal Land Rights Act | Aboriginal Land Rights (Northern Territory) Act | Land Rights Act
+3 Aborigines Protection Act | Aboriginals Ordinance
+3 Conveyancing Act | Real Property Act | Torrens title | Transfer of Land Act | Property Law Act
+3 Residential Tenancies Act | Retail Leases Act | Strata Schemes Management Act
+3 Civil Liability Act | Wrongs Act
+3 Defamation Act | Defamation Act 2005
+3 Limitation Act | Limitation of Actions Act | Statute of limitations
+3 Succession Act | Wills Act
+3 Workers Compensation Act
+3 Long Service Leave Act
+3 Liquor Act | Liquor Licensing Act
+3 Summary Offences Act
+3 Bail Act
+3 Firearms Act | National Firearms Agreement
+3 Tobacco Plain Packaging Act | Plain packaging
+3 Carbon tax | Clean Energy Act | Climate Change Act
+4 Habeas Corpus Act | Habeas Corpus Act 1679
+4 Bill of Rights 1689 | English Bill of Rights
+4 Act of Settlement | Act of Settlement 1701
+4 Act of Union | Acts of Union
+4 Statute of Frauds
+5 Statute of Anne :: The world's first copyright law, in force from 1710. It gave authors, not printers, the right to their work, for 14 years.
+4 Statute of Monopolies
+6 Bubble Act :: Passed in 1720, at the height of the South Sea mania, to stop new companies forming without a royal charter. It held British business back for a century.
+4 Joint Stock Companies Act | Limited Liability Act | Companies Act | Companies Act 2006
+4 Factory Acts | Factory Act
+4 Poor Law | Poor Laws
+4 Corn Laws
+4 Navigation Acts
+4 Slavery Abolition Act | Slave Trade Act
+4 Reform Act | Great Reform Act
+4 Married Women's Property Act
+4 Equal Pay Act | Equality Act
+4 Bribery Act | Bribery Act 2010
+4 Data Protection Act
+4 Official Secrets Act
+4 Treason Act | Treason Act 1351
+3 Civil Rights Act | Civil Rights Act 1964
+4 Voting Rights Act
+4 Sherman Act | Sherman Antitrust Act | Clayton Act
+4 Glass-Steagall | Glass-Steagall Act
+4 Dodd-Frank | Dodd-Frank Act
+4 Securities Act | Securities Exchange Act | Securities Act of 1933
+4 Foreign Corrupt Practices Act | FCPA
+4 Patriot Act | USA PATRIOT Act
+4 Volstead Act | Prohibition | Eighteenth Amendment
+4 Thirteenth Amendment | Fourteenth Amendment | Nineteenth Amendment
+4 Affordable Care Act | Obamacare
+4 Americans with Disabilities Act | ADA
+4 Digital Millennium Copyright Act | DMCA
+4 RICO | RICO Act
+4 Homestead Act
+4 Smoot-Hawley | Smoot-Hawley Tariff Act
+4 Taft-Hartley | Wagner Act
+4 Stamp Act
+3 Declaration of Independence
+3 Code of Hammurabi | Hammurabi's Code | Hammurabi
+4 Twelve Tables
+4 Justinian Code | Code of Justinian | Corpus Juris Civilis
+3 Napoleonic Code | Code Napoléon | Code civil | Code Napoleon
+4 Salic law
+6 Code of Ur-Nammu :: The oldest law code yet found, written in Sumerian about 2100 BC, three centuries before Hammurabi. Unlike his, it mostly prefers fines to mutilation.
+4 Draconian laws | Draco's laws
+3 Treaty of Waitangi
+3 Universal Declaration of Human Rights | UDHR
+3 Geneva Conventions | Geneva Convention
+4 Nuremberg Laws
+4 Basic Law | Grundgesetz
+4 EU AI Act | AI Act | Digital Services Act | Digital Markets Act
+x Mabo | Wik | Donoghue v Stevenson | Roe v Wade | Brown v Board of Education | The Castle :: A court decision, not an Act. Judges made that one.
+x Law | Act | Bill | Statute | Legislation | Rule | Regulation | Parliament :: Which one? Give its name.
+x Murphy's law | Law of gravity | Sod's law | Moore's law | Godwin's law :: Not on the statute books.

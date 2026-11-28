@@ -1,0 +1,146 @@
+id: finance-instruments
+text: Name a type of financial asset, security or investment product.
+flavor: Paper promises, stacked to the ceiling of the vault. Every one swears it is worth something.
+rules: Any kind of thing an investor can hold or trade: asset classes, securities, derivatives, funds and deposits. Kinds, not brands or companies.
+section: Markets
+---
+1 Shares | Share | Stocks | Stock | Equities | Equity | Ordinary shares | Common stock | Common shares | Ordinary share | Equity shares
+1 Bonds | Bond | Fixed income | Fixed interest | Debt securities | Corporate bonds | Corporate bond
+1 Property | Real estate | Real property | Land | Housing | Investment property | Houses
+1 Cash | Savings account | Savings | Bank account | Deposit | Bank deposit | At-call deposit | Cash deposit | Savings accounts
+1 Cryptocurrency | Crypto | Bitcoin | Digital currency | Cryptocurrencies | Crypto assets | Digital assets
+1 Gold | Bullion | Gold bullion | Precious metals | Silver
+1 Options | Option | Stock options | Share options | Equity options
+1 ETF | Exchange-traded fund | Exchange traded fund | ETFs | Exchange traded funds
+2 Term deposit | Fixed deposit | Certificate of deposit | CD | Time deposit | Term deposits | Negotiable certificate of deposit | NCD
+2 Managed fund | Mutual fund | Unit trust | Managed funds | Mutual funds | Managed investment scheme | Unit trusts
+2 Superannuation | Super | Super fund | Pension | Pension fund | 401k | Retirement fund | 401(k)
+2 Futures | Future | Futures contract | Futures contracts
+2 Government bonds | Government bond | Treasury bonds | Treasuries | Treasury bond | Gilts | Sovereign bonds | Commonwealth Government Securities | CGS | Australian Government Bonds | T-bonds | Gilt
+2 Derivatives | Derivative
+2 Commodities | Commodity
+2 Index fund | Index funds | Tracker fund | Passive fund
+2 Hedge fund | Hedge funds
+2 Foreign exchange | Forex | FX | Currency | Currencies | Foreign currency
+2 Call option | Call | Calls
+2 Put option | Put | Puts
+2 Preference shares | Preferred stock | Preferred shares | Prefs | Preference share | Preferreds
+2 REIT | Real estate investment trust | A-REIT | Listed property trust | LPT | REITs | Property trust
+2 Annuity | Annuities | Lifetime annuity
+2 NFT | Non-fungible token | NFTs | Non fungible token
+2 Private equity | PE fund | Private equity fund
+2 Venture capital | VC | Venture capital fund
+2 Mortgage | Mortgages | Home loan | Loan | Loans
+3 Swaps | Swap | Interest rate swap | Currency swap | IRS
+3 Forwards | Forward contract | Forward | Forward contracts | Forward rate agreement | FRA
+3 CFD | Contract for difference | Contracts for difference | CFDs
+3 Warrants | Warrant
+3 Convertible notes | Convertible bond | Convertible bonds | Convertibles | Convertible note | Convertible
+3 Hybrid securities | Hybrids | Hybrid | Capital notes | Hybrid security
+3 Treasury bills | T-bills | Treasury notes | T-notes | Treasury bill | T bills | Treasury note
+3 Bank bills | Bank bill | Bills of exchange | Bill of exchange | Bank accepted bills | Bank accepted bill | BAB
+3 Commercial paper | Promissory note | Promissory notes | CP
+3 Debentures | Debenture | Unsecured notes
+3 Junk bonds | High-yield bonds | Junk bond | High yield bonds | High yield | High-yield bond
+3 Municipal bonds | Munis | Municipal bond | Semi-government bonds | Semis
+3 Inflation-linked bonds | TIPS | Indexed bonds | Treasury indexed bonds | Inflation linked bond | Linkers | Capital indexed bonds
+3 Zero-coupon bonds | Zero coupon bond | Zeros | Zero-coupon bond | Discount bond
+3 Floating rate notes | FRN | Floaters | Floating rate note
+3 Green bonds | Green bond | Sustainability bonds | Social bonds
+3 Mortgage-backed securities | MBS | RMBS | Mortgage backed security | Residential mortgage-backed securities | CMBS
+3 Asset-backed securities | ABS | Asset backed security
+3 Collateralised debt obligation | CDO | Collateralized debt obligation | CDOs | CLO | Collateralised loan obligation
+3 Credit default swap | CDS | Credit default swaps
+3 Listed investment company | LIC | Listed investment trust | LIT | Investment trust | LICs | Closed-end fund
+3 Stablecoin | Stablecoins
+3 Infrastructure | Infrastructure fund | Infrastructure assets
+3 Private credit | Private debt
+3 Collectibles | Art | Wine | Fine wine | Collectables | Classic cars | Antiques
+3 Money market fund | Cash management trust | Money market | Cash management account | CMT
+3 Rights | Rights issue | Renounceable rights | Entitlement
+3 Stapled securities | Stapled security
+3 CHESS Depositary Interest | CDI | CDIs | Depositary interest
+3 American depositary receipt | ADR | ADRs | American depositary share | ADS | Depositary receipt | GDR | Global depositary receipt
+3 Employee share options | ESOP | Employee stock options | Employee share scheme
+3 Insurance bond | Investment bond | Insurance bonds | Investment bonds
+3 Life insurance | Whole of life policy | Endowment policy | Life policy
+3 Exchange-traded commodity | ETC | Exchange traded product | ETP | Exchange-traded note | ETN
+3 Repurchase agreement | Repo | Repos
+3 Margin loan | Margin lending
+3 Carbon credits | Carbon credit | ACCU | ACCUs | Australian Carbon Credit Units | Emissions permits | Carbon offsets
+3 Timber | Forestry | Farmland | Agricultural land | Agriculture
+3 Fund of funds
+3 Separately managed account | SMA | Managed account
+3 Self-managed super fund | SMSF | SMSFs
+3 Bearer bond | Bearer bonds
+3 Perpetual bond | Perpetuity | Consol | Consols | Perpetual | Perpetuals
+3 Eurobond | Eurobonds
+3 Samurai bond | Kangaroo bond | Yankee bond | Matilda bond | Dim sum bond | Panda bond | Bulldog bond
+3 Covered bonds | Covered bond | Pfandbrief
+3 Subordinated debt | Subordinated notes | Sub debt | Tier 2 notes | Mezzanine debt | Mezzanine
+3 Syndicated loan | Leveraged loan | Syndicated loans
+4 Swaption | Swaptions
+4 Caps and floors | Cap | Interest rate cap | Collar | Floor
+4 Exotic options | Barrier option | Asian option | Binary option | Digital option | Lookback option
+4 Total return swap | TRS
+4 Variance swap | Volatility swap
+4 Catastrophe bond | Cat bond | Cat bonds
+4 Contingent convertible | CoCo | CoCos | AT1 | Additional tier 1 | CoCo bond
+4 Structured product | Structured note | Structured products
+4 Instalment warrant | Installment warrant | Instalment warrants
+4 LEPO | Low exercise price option
+4 MINI | MINIs | Turbo warrant
+4 Inverse ETF | Leveraged ETF | Geared ETF
+4 SPAC | Special purpose acquisition company | Blank cheque company | Blank check company
+4 Tracking stock
+4 Scrip | Bonus shares | Bonus share
+4 Partly paid shares | Contributing shares
+4 Founder shares | Golden share
+4 Sukuk | Islamic bond
+4 War bond | War bonds | Liberty bond
+4 Premium bonds | Premium bond
+4 Savings bonds | Savings bond
+4 Tontine | Tontines
+4 Viatical settlement | Life settlement
+4 Royalties | Royalty | Royalty stream | Music royalties
+4 Water rights | Water entitlements | Water
+4 Taxi plates | Taxi licences
+4 Franchise
+4 Peer-to-peer lending | P2P lending | P2P loans | Marketplace lending
+4 Crowdfunding | Equity crowdfunding | Crowd-sourced funding
+4 Tokenised assets | Security token | Tokens | Security tokens
+4 Trade finance | Factoring | Invoice finance | Receivables
+4 Agricultural managed investment scheme | Forestry MIS
+4 Mortgage fund | Mortgage trust
+4 Offset account
+4 Foreign currency account
+4 Negotiable instrument | Cheque | Bank draft
+4 Letter of credit
+4 Bank guarantee
+4 Weather derivative | Weather derivatives
+4 Electricity futures | Power futures
+4 Freight futures | Forward freight agreement | FFA
+4 Interest rate futures | Bank bill futures | Bond futures | SPI futures | Index futures
+4 Currency futures | FX forward | Non-deliverable forward | NDF
+4 Dividend futures
+4 Volatility futures | VIX futures
+5 Consolidated annuities
+5 Brady bonds | Brady bond
+5 Rentes | Rente
+5 Assignat | Assignats
+5 Tally stick | Tally sticks
+5 Flower bonds
+5 Strips | STRIPS | Stripped bonds
+5 Pay-in-kind notes | PIK | PIK notes | PIK toggle
+5 Synthetic CDO | CDO squared
+5 Quanto | Quanto option
+5 Accumulator
+5 Range accrual
+5 Autocallable | Autocallables
+5 Bowie bonds | Bowie bond | Celebrity bonds
+6 Dojima rice futures | Rice futures | Dojima rice | Rice coupons :: The Dojima Rice Exchange in Osaka traded standardised contracts on rice not yet harvested from about 1730. It is often called the first futures market.
+6 Prestiti | Prestiti of Venice | Venetian prestiti :: Forced loans to the Republic of Venice, from the 1100s. Citizens could sell their claims on, making them some of the first tradable government bonds.
+x Money | Investment | Investments | Asset | Assets | Security | Securities | Portfolio | Financial asset :: Too broad. Name one kind of it.
+x CommBank | Commonwealth Bank | BHP | Apple | Tesla | Vanguard | BlackRock | CommSec | AustralianSuper | Telstra :: A company or a brand. Name the kind of asset, not who sells it.
+x Car | Cars | Boat | Holiday | Clothes | Phone :: Fun to own, but it loses value: most would call that spending, not investing.
+x Ponzi scheme | Pyramid scheme | Lottery ticket | Lotto | Pokies | Gambling | Betting :: Not an investment product, whatever the brochure says.

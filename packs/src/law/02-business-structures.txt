@@ -1,0 +1,62 @@
+id: law-business-structures
+text: Name a type of business structure or organisation.
+flavor: A company is a person who cannot die and cannot be imprisoned. Think about that for a moment.
+rules: Any legal form a business or organisation can take, in Australia or overseas.
+section: Structures
+---
+1 Sole trader | Sole proprietor | Sole proprietorship | Sole trading
+1 Partnership | General partnership | Partnerships
+1 Company | Corporation | Incorporated company | Corporate
+1 Proprietary limited | Pty Ltd | Private company | Proprietary company | Pty Ltd company | Pty | Private limited company
+1 Public company | Public limited company | PLC | Listed company | Ltd | Limited | Public listed company | Publicly listed company
+1 Franchise | Franchising
+2 Trust | Family trust | Discretionary trust | Unit trust | Trading trust
+2 Cooperative | Co-operative | Co-op | Coop
+2 Not-for-profit | Non-profit | Nonprofit | NFP | Not for profit | NGO | Non-government organisation
+2 Charity | Charitable organisation | Charitable trust | Foundation
+2 Joint venture | JV
+2 Limited liability company | LLC
+2 Incorporated association | Association | Inc | Incorporated | Club | Society
+2 Government business enterprise | Government enterprise | GBE | State-owned enterprise | Statutory corporation | Government-owned corporation | Public enterprise | Statutory authority | Crown corporation | SOE
+2 Social enterprise | B Corp | B Corporation | Benefit corporation
+2 Multinational | Multinational corporation | MNC | Transnational corporation | Conglomerate
+2 Subsidiary | Holding company | Parent company | Shell company
+2 Small business | SME | Family business | Start-up | Startup | Micro business
+3 Limited partnership | LP
+3 Limited liability partnership | LLP
+3 Company limited by guarantee | Limited by guarantee | CLG
+3 Company limited by shares | Limited by shares
+3 Unlimited company | Unlimited liability company
+6 No liability company | NL | No liability :: A structure found almost nowhere but Australia, and only for mining. Shareholders who stop paying calls on their shares simply forfeit them, and owe nothing.
+3 Indigenous corporation | Aboriginal corporation | CATSI corporation | Registered native title body corporate | Prescribed body corporate
+3 Mutual | Mutual society | Building society | Credit union | Friendly society | Mutual bank
+3 Self-managed super fund | SMSF | Superannuation fund
+3 Managed investment scheme | Managed fund | REIT | Listed investment company | Investment trust
+3 Incorporated limited partnership | ILP | Venture capital limited partnership
+3 Syndicate | Consortium
+3 Strata company | Owners corporation | Body corporate
+3 Royal charter | Chartered company | Royal charter corporation
+3 Sole director company | One-person company | Single-member company
+4 S corporation | S corp | C corporation | C corp
+4 GmbH | AG | Aktiengesellschaft
+4 SA | Société anonyme | Societe anonyme | SARL | SAS
+4 BV | NV | Naamloze vennootschap
+4 Kabushiki kaisha | KK | Godo kaisha
+4 Societas Europaea | SE
+4 Chaebol | Keiretsu | Zaibatsu
+4 Cartel
+4 Guild
+4 Kibbutz | Collective | Worker cooperative | Workers' cooperative | Commune
+4 Community interest company | CIC
+4 Unincorporated association
+4 Professional corporation | Incorporated legal practice
+4 Special purpose vehicle | SPV | SPAC
+4 Dual-listed company | DLC
+4 Stapled security | Stapled structure
+4 Bare trust | Testamentary trust | Hybrid trust
+6 Tontine :: Investors pool their money and share the income. As each dies, the survivors' shares grow, and the last one alive takes all. Often banned, for the obvious reason.
+4 DAO | Decentralised autonomous organisation | Decentralized autonomous organization
+5 Corporation sole :: A company with exactly one member, who is whoever holds a certain office. The Crown is one. So is an archbishop.
+4 Joint-stock company | Joint stock company
+x Shop | Office | Factory | Business | Firm | Enterprise | Organisation :: A place or a general word. Name the legal structure behind it.
+x ABN | ACN | TFN | GST | ASIC | ATO | Director | Shareholder | CEO | Board :: Part of running one, but not a structure in itself.

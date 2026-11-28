@@ -1,0 +1,1155 @@
+{
+ "id": "history-us-presidents",
+ "text": "Name a President of the United States.",
+ "category": "history",
+ "flavor": "Forty-five people have sworn the oath. The deep remembers every one of them, even the forgotten.",
+ "rules": "Any President of the United States, past or present. A surname two presidents share counts for the better known.",
+ "answers": [
+  {
+   "answer": "George Washington",
+   "aliases": [
+    "Washington",
+    "President George Washington",
+    "President Washington",
+    "General Washington",
+    "Father of His Country",
+    "Father of the Country",
+    "President General Washington",
+    "President Father of His Country",
+    "President Father of the Country"
+   ],
+   "tier": 1,
+   "lore": "His false teeth were not wooden. They were ivory, metal and human teeth."
+  },
+  {
+   "answer": "Abraham Lincoln",
+   "aliases": [
+    "Lincoln",
+    "Abe Lincoln",
+    "Honest Abe",
+    "President Abraham Lincoln",
+    "President Lincoln",
+    "President Abe Lincoln",
+    "Abe",
+    "Abraham",
+    "Great Emancipator",
+    "Rail Splitter",
+    "Old Abe",
+    "Uncle Abe",
+    "Father Abraham",
+    "President Honest Abe",
+    "President Abe",
+    "President Abraham",
+    "President Great Emancipator",
+    "President Rail Splitter",
+    "President Old Abe",
+    "President Uncle Abe",
+    "President Father Abraham"
+   ],
+   "tier": 1,
+   "lore": "The tallest president, at 6 ft 4 in."
+  },
+  {
+   "answer": "Barack Obama",
+   "aliases": [
+    "Obama",
+    "Barack Hussein Obama",
+    "President Barack Obama",
+    "President Obama",
+    "President Barack Hussein Obama",
+    "Barack",
+    "Barry Obama",
+    "Barack H. Obama",
+    "Barack Obama II",
+    "BHO",
+    "President Barack",
+    "President Barry Obama",
+    "President Barack H. Obama",
+    "President Barack Obama II",
+    "President BHO"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Donald Trump",
+   "aliases": [
+    "Trump",
+    "Donald J. Trump",
+    "Donald John Trump",
+    "President Donald Trump",
+    "President Trump",
+    "President Donald J. Trump",
+    "President Donald John Trump",
+    "Donald",
+    "DJT",
+    "President Donald",
+    "President DJT"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Joe Biden",
+   "aliases": [
+    "Biden",
+    "Joseph Biden",
+    "Joseph R. Biden",
+    "Joseph Robinette Biden",
+    "President Joe Biden",
+    "President Biden",
+    "President Joseph Biden",
+    "President Joseph R. Biden",
+    "President Joseph Robinette Biden",
+    "Joe",
+    "Uncle Joe",
+    "Joseph R. Biden Jr.",
+    "Joseph Robinette Biden Jr.",
+    "JRB",
+    "President Joe",
+    "President Uncle Joe",
+    "President Joseph R. Biden Jr.",
+    "President Joseph Robinette Biden Jr.",
+    "President JRB"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "John F. Kennedy",
+   "aliases": [
+    "JFK",
+    "Kennedy",
+    "John Kennedy",
+    "Jack Kennedy",
+    "John Fitzgerald Kennedy",
+    "President John F. Kennedy",
+    "President JFK",
+    "President Kennedy",
+    "President John Kennedy",
+    "President Jack Kennedy",
+    "President John Fitzgerald Kennedy",
+    "JF Kennedy",
+    "John Fitzgerald",
+    "Jack F. Kennedy",
+    "President JF Kennedy",
+    "President John Fitzgerald",
+    "President Jack F. Kennedy"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Thomas Jefferson",
+   "aliases": [
+    "Jefferson",
+    "President Thomas Jefferson",
+    "President Jefferson",
+    "Thomas",
+    "Tom Jefferson",
+    "T. Jefferson",
+    "TJ",
+    "Sage of Monticello",
+    "President Thomas",
+    "President Tom Jefferson",
+    "President T. Jefferson",
+    "President TJ",
+    "President Sage of Monticello"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Franklin D. Roosevelt",
+   "aliases": [
+    "FDR",
+    "Franklin Roosevelt",
+    "Franklin Delano Roosevelt",
+    "President Franklin D. Roosevelt",
+    "President FDR",
+    "President Franklin Roosevelt",
+    "President Franklin Delano Roosevelt",
+    "Roosevelt",
+    "President Roosevelt",
+    "Franklin",
+    "FD Roosevelt",
+    "F. Roosevelt",
+    "Franklin Delano",
+    "Delano Roosevelt",
+    "Rosvelt",
+    "Frank Roosevelt",
+    "President Franklin",
+    "President FD Roosevelt",
+    "President F. Roosevelt",
+    "President Franklin Delano",
+    "President Delano Roosevelt",
+    "President Rosvelt",
+    "President Frank Roosevelt"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ronald Reagan",
+   "aliases": [
+    "Reagan",
+    "Ronald Wilson Reagan",
+    "The Gipper",
+    "President Ronald Reagan",
+    "President Reagan",
+    "President Ronald Wilson Reagan",
+    "Ronald",
+    "Ronnie",
+    "Ronnie Reagan",
+    "Ron Reagan",
+    "Dutch",
+    "Dutch Reagan",
+    "Great Communicator",
+    "RWR",
+    "President Ronald",
+    "President Ronnie",
+    "President Ronnie Reagan",
+    "President Ron Reagan",
+    "President Dutch",
+    "President Dutch Reagan",
+    "President Great Communicator",
+    "President RWR"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "George W. Bush",
+   "aliases": [
+    "Dubya",
+    "Bush Jr.",
+    "George Bush Jr.",
+    "George W",
+    "Bush Junior",
+    "George Bush Junior",
+    "Bush 43",
+    "GWB",
+    "George Walker Bush",
+    "President George W. Bush",
+    "President Bush Jr.",
+    "President George Bush Jr.",
+    "President George W",
+    "President Bush Junior",
+    "President George Bush Junior",
+    "President GWB",
+    "President George Walker Bush",
+    "George Bush",
+    "Bush",
+    "President George Bush",
+    "President Bush",
+    "W",
+    "GW Bush",
+    "W Bush",
+    "Bush the Younger",
+    "Younger Bush",
+    "Junior Bush",
+    "George Bush the Younger",
+    "George",
+    "President Dubya",
+    "President Bush 43",
+    "President W",
+    "President GW Bush",
+    "President W Bush",
+    "President Bush the Younger",
+    "President Younger Bush",
+    "President Junior Bush",
+    "President George Bush the Younger",
+    "President George"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Bill Clinton",
+   "aliases": [
+    "Clinton",
+    "William Clinton",
+    "William Jefferson Clinton",
+    "President Bill Clinton",
+    "President Clinton",
+    "President William Clinton",
+    "President William Jefferson Clinton",
+    "Bill",
+    "Slick Willie",
+    "William J. Clinton",
+    "William Jefferson Blythe",
+    "Billy Clinton",
+    "WJC",
+    "President Bill",
+    "President Slick Willie",
+    "President William J. Clinton",
+    "President William Jefferson Blythe",
+    "President Billy Clinton",
+    "President WJC"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Theodore Roosevelt",
+   "aliases": [
+    "Teddy Roosevelt",
+    "TR",
+    "Teddy",
+    "President Theodore Roosevelt",
+    "President Teddy Roosevelt",
+    "President TR",
+    "Theodore",
+    "T. Roosevelt",
+    "Ted Roosevelt",
+    "Theodore Roosevelt Jr.",
+    "Rough Rider",
+    "Bull Moose",
+    "Colonel Roosevelt",
+    "Teddy R",
+    "President Teddy",
+    "President Theodore",
+    "President T. Roosevelt",
+    "President Ted Roosevelt",
+    "President Theodore Roosevelt Jr.",
+    "President Rough Rider",
+    "President Bull Moose",
+    "President Colonel Roosevelt",
+    "President Teddy R"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Richard Nixon",
+   "aliases": [
+    "Nixon",
+    "Tricky Dick",
+    "Richard Milhous Nixon",
+    "Richard M. Nixon",
+    "President Richard Nixon",
+    "President Nixon",
+    "President Richard Milhous Nixon",
+    "President Richard M. Nixon",
+    "Richard",
+    "Dick Nixon",
+    "RMN",
+    "Tricky Dicky",
+    "President Tricky Dick",
+    "President Richard",
+    "President Dick Nixon",
+    "President RMN",
+    "President Tricky Dicky"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Jimmy Carter",
+   "aliases": [
+    "Carter",
+    "James Carter",
+    "James Earl Carter",
+    "President Jimmy Carter",
+    "President Carter",
+    "President James Carter",
+    "President James Earl Carter",
+    "Jimmy",
+    "James Earl Carter Jr.",
+    "James E. Carter",
+    "Jim Carter",
+    "President Jimmy",
+    "President James Earl Carter Jr.",
+    "President James E. Carter",
+    "President Jim Carter"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "John Adams",
+   "aliases": [
+    "President John Adams",
+    "Adams",
+    "President Adams",
+    "His Rotundity",
+    "Atlas of Independence",
+    "Duke of Braintree",
+    "John Adams Sr.",
+    "President His Rotundity",
+    "President Atlas of Independence",
+    "President Duke of Braintree",
+    "President John Adams Sr."
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "George H. W. Bush",
+   "aliases": [
+    "Bush Sr.",
+    "George Bush Sr.",
+    "Bush Senior",
+    "HW Bush",
+    "George Bush Senior",
+    "Bush 41",
+    "George Herbert Walker Bush",
+    "President George H. W. Bush",
+    "President Bush Sr.",
+    "President George Bush Sr.",
+    "President Bush Senior",
+    "President HW Bush",
+    "President George Bush Senior",
+    "President George Herbert Walker Bush",
+    "HW",
+    "GHWB",
+    "Poppy Bush",
+    "George Herbert Bush",
+    "Bush the Elder",
+    "Elder Bush",
+    "George H",
+    "George HW",
+    "WH Bush",
+    "George Herbert Walker",
+    "Herbert Walker",
+    "Senior Bush",
+    "Older Bush",
+    "President Bush 41",
+    "President HW",
+    "President GHWB",
+    "President Poppy Bush",
+    "President George Herbert Bush",
+    "President Bush the Elder",
+    "President Elder Bush",
+    "President George H",
+    "President George HW",
+    "President WH Bush",
+    "President George Herbert Walker",
+    "President Herbert Walker",
+    "President Senior Bush",
+    "President Older Bush"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dwight D. Eisenhower",
+   "aliases": [
+    "Eisenhower",
+    "Ike",
+    "Dwight Eisenhower",
+    "Dwight David Eisenhower",
+    "President Dwight D. Eisenhower",
+    "President Eisenhower",
+    "President Dwight Eisenhower",
+    "President Dwight David Eisenhower",
+    "Dwight",
+    "DDE",
+    "General Eisenhower",
+    "General Ike",
+    "Ike Eisenhower",
+    "President Ike",
+    "President Dwight",
+    "President DDE",
+    "President General Eisenhower",
+    "President General Ike",
+    "President Ike Eisenhower"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Harry S. Truman",
+   "aliases": [
+    "Truman",
+    "Harry Truman",
+    "President Harry S. Truman",
+    "President Truman",
+    "President Harry Truman",
+    "Harry",
+    "HST",
+    "Give 'Em Hell Harry",
+    "President Harry",
+    "President HST",
+    "President Give 'Em Hell Harry"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Andrew Jackson",
+   "aliases": [
+    "Jackson",
+    "Old Hickory",
+    "President Andrew Jackson",
+    "President Jackson",
+    "Andrew",
+    "Andy Jackson",
+    "Hickory",
+    "King Andrew",
+    "President Old Hickory",
+    "President Andrew",
+    "President Andy Jackson",
+    "President Hickory",
+    "President King Andrew"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "James Madison",
+   "aliases": [
+    "Madison",
+    "President James Madison",
+    "President Madison",
+    "Jemmy Madison",
+    "Little Jemmy",
+    "Father of the Constitution",
+    "President Jemmy Madison",
+    "President Little Jemmy",
+    "President Father of the Constitution"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Woodrow Wilson",
+   "aliases": [
+    "Wilson",
+    "President Woodrow Wilson",
+    "President Wilson",
+    "Woodrow",
+    "Thomas Woodrow Wilson",
+    "President Woodrow",
+    "President Thomas Woodrow Wilson"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Lyndon B. Johnson",
+   "aliases": [
+    "LBJ",
+    "Lyndon Johnson",
+    "Lyndon Baines Johnson",
+    "President Lyndon B. Johnson",
+    "President LBJ",
+    "President Lyndon Johnson",
+    "President Lyndon Baines Johnson",
+    "Johnson",
+    "President Johnson",
+    "Lyndon",
+    "LB Johnson",
+    "Landslide Lyndon",
+    "President Lyndon",
+    "President LB Johnson",
+    "President Landslide Lyndon"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Gerald Ford",
+   "aliases": [
+    "Ford",
+    "Gerry Ford",
+    "President Gerald Ford",
+    "President Ford",
+    "President Gerry Ford",
+    "Gerald",
+    "Jerry Ford",
+    "Gerald R. Ford",
+    "Gerald Rudolph Ford",
+    "Gerald Ford Jr.",
+    "Gerald R. Ford Jr.",
+    "Leslie Lynch King Jr.",
+    "Leslie King",
+    "President Gerald",
+    "President Jerry Ford",
+    "President Gerald R. Ford",
+    "President Gerald Rudolph Ford",
+    "President Gerald Ford Jr.",
+    "President Gerald R. Ford Jr.",
+    "President Leslie Lynch King Jr.",
+    "President Leslie King"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ulysses S. Grant",
+   "aliases": [
+    "Grant",
+    "Ulysses Grant",
+    "President Ulysses S. Grant",
+    "President Grant",
+    "President Ulysses Grant",
+    "US Grant",
+    "Ulysses",
+    "Hiram Ulysses Grant",
+    "Ulysses Simpson Grant",
+    "Unconditional Surrender Grant",
+    "Sam Grant",
+    "General Grant",
+    "President US Grant",
+    "President Ulysses",
+    "President Hiram Ulysses Grant",
+    "President Ulysses Simpson Grant",
+    "President Unconditional Surrender Grant",
+    "President Sam Grant",
+    "President General Grant"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "James Monroe",
+   "aliases": [
+    "Monroe",
+    "President James Monroe",
+    "President Monroe",
+    "Last Cocked Hat",
+    "President Last Cocked Hat"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Herbert Hoover",
+   "aliases": [
+    "Hoover",
+    "President Herbert Hoover",
+    "President Hoover",
+    "Herbert",
+    "Herbert Clark Hoover",
+    "Herb Hoover",
+    "Bert Hoover",
+    "Great Engineer",
+    "President Herbert",
+    "President Herbert Clark Hoover",
+    "President Herb Hoover",
+    "President Bert Hoover",
+    "President Great Engineer"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Millard Fillmore",
+   "aliases": [
+    "Fillmore",
+    "President Millard Fillmore",
+    "President Fillmore",
+    "Millard",
+    "President Millard"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "So often named as America's most forgotten president that it has made him rather famous."
+  },
+  {
+   "answer": "John Quincy Adams",
+   "aliases": [
+    "JQA",
+    "Quincy Adams",
+    "John Q. Adams",
+    "President John Quincy Adams",
+    "President JQA",
+    "President Quincy Adams",
+    "President John Q. Adams",
+    "John Quincy",
+    "Quincy",
+    "JQ Adams",
+    "Old Man Eloquent",
+    "Adams Jr.",
+    "John Adams Jr.",
+    "Adams the Younger",
+    "President John Quincy",
+    "President Quincy",
+    "President JQ Adams",
+    "President Old Man Eloquent",
+    "President Adams Jr.",
+    "President John Adams Jr.",
+    "President Adams the Younger"
+   ],
+   "tier": 3,
+   "lore": "Liked to swim naked in the Potomac at dawn."
+  },
+  {
+   "answer": "Calvin Coolidge",
+   "aliases": [
+    "Coolidge",
+    "Silent Cal",
+    "President Calvin Coolidge",
+    "President Coolidge",
+    "Calvin",
+    "Cal Coolidge",
+    "John Calvin Coolidge",
+    "Cool Cal",
+    "President Silent Cal",
+    "President Calvin",
+    "President Cal Coolidge",
+    "President John Calvin Coolidge",
+    "President Cool Cal"
+   ],
+   "tier": 3,
+   "lore": "A dinner guest is said to have bet she could get more than two words out of him. 'You lose,' he replied."
+  },
+  {
+   "answer": "William Howard Taft",
+   "aliases": [
+    "Taft",
+    "William Taft",
+    "President William Howard Taft",
+    "President Taft",
+    "President William Taft",
+    "Bill Taft",
+    "Big Bill Taft",
+    "Big Bill",
+    "WH Taft",
+    "Will Taft",
+    "President Bill Taft",
+    "President Big Bill Taft",
+    "President Big Bill",
+    "President WH Taft",
+    "President Will Taft"
+   ],
+   "tier": 3,
+   "lore": "The only person to serve as both president and Chief Justice."
+  },
+  {
+   "answer": "William McKinley",
+   "aliases": [
+    "McKinley",
+    "President William McKinley",
+    "President McKinley",
+    "Bill McKinley",
+    "William McKinley Jr.",
+    "Major McKinley",
+    "Idol of Ohio",
+    "President Bill McKinley",
+    "President William McKinley Jr.",
+    "President Major McKinley",
+    "President Idol of Ohio"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Andrew Johnson",
+   "aliases": [
+    "President Andrew Johnson",
+    "Andy Johnson",
+    "Tennessee Tailor",
+    "President Andy Johnson",
+    "President Tennessee Tailor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Grover Cleveland",
+   "aliases": [
+    "Cleveland",
+    "President Grover Cleveland",
+    "President Cleveland",
+    "Grover",
+    "Stephen Grover Cleveland",
+    "Big Steve",
+    "Uncle Jumbo",
+    "President Grover",
+    "President Stephen Grover Cleveland",
+    "President Big Steve",
+    "President Uncle Jumbo"
+   ],
+   "tier": 3,
+   "lore": "The first president to serve two terms that weren't back to back. Trump became the second in 2025."
+  },
+  {
+   "answer": "Warren G. Harding",
+   "aliases": [
+    "Harding",
+    "Warren Harding",
+    "President Warren G. Harding",
+    "President Harding",
+    "President Warren Harding",
+    "Warren Gamaliel Harding",
+    "President Warren Gamaliel Harding"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "James K. Polk",
+   "aliases": [
+    "Polk",
+    "James Polk",
+    "President James K. Polk",
+    "President Polk",
+    "President James Polk",
+    "James Knox Polk",
+    "JK Polk",
+    "Young Hickory",
+    "Napoleon of the Stump",
+    "President James Knox Polk",
+    "President JK Polk",
+    "President Young Hickory",
+    "President Napoleon of the Stump"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Martin Van Buren",
+   "aliases": [
+    "Van Buren",
+    "President Martin Van Buren",
+    "President Van Buren",
+    "Buren",
+    "Martin",
+    "Little Magician",
+    "Old Kinderhook",
+    "Red Fox of Kinderhook",
+    "Martin Van Ruin",
+    "MVB",
+    "Matty Van",
+    "President Buren",
+    "President Martin",
+    "President Little Magician",
+    "President Old Kinderhook",
+    "President Red Fox of Kinderhook",
+    "President Martin Van Ruin",
+    "President MVB",
+    "President Matty Van"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William Henry Harrison",
+   "aliases": [
+    "Old Tippecanoe",
+    "Tippecanoe",
+    "WH Harrison",
+    "William H. Harrison",
+    "William Harrison",
+    "President William Henry Harrison",
+    "President WH Harrison",
+    "President William H. Harrison",
+    "President William Harrison",
+    "Harrison",
+    "President Harrison",
+    "WHH",
+    "Old Tip",
+    "General Harrison",
+    "Tippecanoe Harrison",
+    "William Henry",
+    "President Old Tippecanoe",
+    "President Tippecanoe",
+    "President WHH",
+    "President Old Tip",
+    "President General Harrison",
+    "President Tippecanoe Harrison",
+    "President William Henry"
+   ],
+   "tier": 3,
+   "lore": "Gave the longest inaugural address, in the cold, and died a month later."
+  },
+  {
+   "answer": "James Buchanan",
+   "aliases": [
+    "Buchanan",
+    "President James Buchanan",
+    "President Buchanan",
+    "Old Buck",
+    "Ten-Cent Jimmy",
+    "President Old Buck",
+    "President Ten-Cent Jimmy"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zachary Taylor",
+   "aliases": [
+    "Taylor",
+    "Old Rough and Ready",
+    "President Zachary Taylor",
+    "President Taylor",
+    "Zach Taylor",
+    "Zack Taylor",
+    "Zachary",
+    "Rough and Ready",
+    "General Taylor",
+    "President Old Rough and Ready",
+    "President Zach Taylor",
+    "President Zack Taylor",
+    "President Zachary",
+    "President Rough and Ready",
+    "President General Taylor"
+   ],
+   "tier": 4,
+   "lore": "A career soldier who is said never to have voted before he ran for president."
+  },
+  {
+   "answer": "John Tyler",
+   "aliases": [
+    "Tyler",
+    "President John Tyler",
+    "President Tyler",
+    "His Accidency",
+    "Tyler Too",
+    "President His Accidency",
+    "President Tyler Too"
+   ],
+   "tier": 4,
+   "lore": "Born in 1790, yet one of his grandsons lived until 2025."
+  },
+  {
+   "answer": "James A. Garfield",
+   "aliases": [
+    "Garfield",
+    "James Garfield",
+    "President James A. Garfield",
+    "President Garfield",
+    "President James Garfield",
+    "James Abram Garfield",
+    "JA Garfield",
+    "President James Abram Garfield",
+    "President JA Garfield"
+   ],
+   "tier": 4,
+   "lore": "Could reportedly write Greek with one hand and Latin with the other at the same time."
+  },
+  {
+   "answer": "Rutherford B. Hayes",
+   "aliases": [
+    "Hayes",
+    "Rutherford Hayes",
+    "President Rutherford B. Hayes",
+    "President Hayes",
+    "President Rutherford Hayes",
+    "Rutherford",
+    "Rutherford Birchard Hayes",
+    "RB Hayes",
+    "His Fraudulency",
+    "Rutherfraud Hayes",
+    "Rud Hayes",
+    "President Rutherford",
+    "President Rutherford Birchard Hayes",
+    "President RB Hayes",
+    "President His Fraudulency",
+    "President Rutherfraud Hayes",
+    "President Rud Hayes"
+   ],
+   "tier": 5,
+   "lore": "Won the disputed election of 1876 by a single electoral vote."
+  },
+  {
+   "answer": "Benjamin Harrison",
+   "aliases": [
+    "Ben Harrison",
+    "President Benjamin Harrison",
+    "President Ben Harrison",
+    "B. Harrison",
+    "Little Ben",
+    "Human Iceberg",
+    "Kid Gloves Harrison",
+    "President B. Harrison",
+    "President Little Ben",
+    "President Human Iceberg",
+    "President Kid Gloves Harrison"
+   ],
+   "tier": 5,
+   "lore": "Grandson of William Henry Harrison, and the first president with electric light in the White House."
+  },
+  {
+   "answer": "Chester A. Arthur",
+   "aliases": [
+    "Arthur",
+    "Chester Arthur",
+    "President Chester A. Arthur",
+    "President Arthur",
+    "President Chester Arthur",
+    "Chester",
+    "Chester Alan Arthur",
+    "Chet Arthur",
+    "Elegant Arthur",
+    "Gentleman Boss",
+    "President Chester",
+    "President Chester Alan Arthur",
+    "President Chet Arthur",
+    "President Elegant Arthur",
+    "President Gentleman Boss"
+   ],
+   "tier": 6,
+   "lore": "Became president when Garfield died of his wounds in 1881, and surprised everyone by reforming the civil service."
+  },
+  {
+   "answer": "Franklin Pierce",
+   "aliases": [
+    "Pierce",
+    "President Franklin Pierce",
+    "President Pierce",
+    "Frank Pierce",
+    "Handsome Frank",
+    "Pearce",
+    "Franklin Pearce",
+    "President Frank Pierce",
+    "President Handsome Frank",
+    "President Pearce",
+    "President Franklin Pearce"
+   ],
+   "tier": 6,
+   "lore": "The first president to recite his inaugural address from memory, and the first to affirm his oath rather than swear it."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Benjamin Franklin",
+   "aliases": [
+    "President Benjamin Franklin",
+    "Ben Franklin",
+    "President Ben Franklin"
+   ],
+   "reason": "Founding Father, inventor, diplomat. Never president."
+  },
+  {
+   "answer": "Alexander Hamilton",
+   "aliases": [
+    "Hamilton",
+    "President Alexander Hamilton",
+    "President Hamilton"
+   ],
+   "reason": "First Treasury Secretary, and the star of a musical. Never president."
+  },
+  {
+   "answer": "Kamala Harris",
+   "aliases": [
+    "President Kamala Harris",
+    "Kamala",
+    "President Kamala"
+   ],
+   "reason": "Vice president under Biden, and the 2024 nominee. Never president."
+  },
+  {
+   "answer": "Hillary Clinton",
+   "aliases": [
+    "President Hillary Clinton",
+    "Hillary",
+    "Hillary Rodham Clinton",
+    "Hillary Rodham",
+    "President Hillary",
+    "President Hillary Rodham Clinton",
+    "President Hillary Rodham"
+   ],
+   "reason": "Secretary of State and the 2016 nominee. Never president."
+  },
+  {
+   "answer": "Al Gore",
+   "aliases": [
+    "President Al Gore",
+    "Gore",
+    "Albert Gore",
+    "President Gore",
+    "President Albert Gore"
+   ],
+   "reason": "Vice president, and winner of the popular vote in 2000. Never president."
+  },
+  {
+   "answer": "Dick Cheney",
+   "aliases": [
+    "President Dick Cheney",
+    "Cheney",
+    "Richard Cheney",
+    "President Cheney",
+    "President Richard Cheney"
+   ],
+   "reason": "Vice president under George W. Bush."
+  },
+  {
+   "answer": "Mike Pence",
+   "aliases": [
+    "President Mike Pence",
+    "Michael Pence",
+    "President Michael Pence"
+   ],
+   "reason": "Vice president in Trump's first term."
+  },
+  {
+   "answer": "JD Vance",
+   "aliases": [
+    "President JD Vance",
+    "Vance",
+    "James David Vance",
+    "President Vance",
+    "President James David Vance"
+   ],
+   "reason": "Vice president in Trump's second term."
+  },
+  {
+   "answer": "Aaron Burr",
+   "aliases": [
+    "President Aaron Burr",
+    "Burr",
+    "President Burr"
+   ],
+   "reason": "Jefferson's vice president, who shot Hamilton in a duel."
+  },
+  {
+   "answer": "Robert F. Kennedy",
+   "aliases": [
+    "RFK",
+    "Bobby Kennedy",
+    "President Robert F. Kennedy",
+    "President RFK",
+    "President Bobby Kennedy"
+   ],
+   "reason": "Attorney general and candidate, assassinated in 1968. Never president."
+  },
+  {
+   "answer": "Jefferson Davis",
+   "aliases": [
+    "President Jefferson Davis",
+    "Davis",
+    "President Davis"
+   ],
+   "reason": "President of the Confederacy, not the United States."
+  },
+  {
+   "answer": "John Hanson",
+   "aliases": [
+    "President John Hanson",
+    "Hanson",
+    "President Hanson"
+   ],
+   "reason": "President of Congress under the Articles of Confederation, sometimes billed as the first president. Not under the Constitution."
+  },
+  {
+   "answer": "David Rice Atchison",
+   "aliases": [
+    "President David Rice Atchison",
+    "Atchison",
+    "David Atchison",
+    "President Atchison",
+    "President David Atchison"
+   ],
+   "reason": "Legend says he was president for one day in 1849. He wasn't."
+  },
+  {
+   "answer": "Robert F. Kennedy Jr.",
+   "aliases": [
+    "RFK Jr.",
+    "President Robert F. Kennedy Jr.",
+    "President RFK Jr."
+   ],
+   "reason": "Robert F. Kennedy's son, and a 2024 candidate. Never president."
+  },
+  {
+   "answer": "J. Edgar Hoover",
+   "aliases": [
+    "Edgar Hoover",
+    "John Edgar Hoover",
+    "President J. Edgar Hoover",
+    "President Edgar Hoover",
+    "President John Edgar Hoover"
+   ],
+   "reason": "He ran the FBI for 48 years. Herbert Hoover was the president."
+  },
+  {
+   "answer": "Henry Ford",
+   "aliases": [
+    "President Henry Ford"
+   ],
+   "reason": "He built the Model T. Gerald Ford was the president."
+  },
+  {
+   "answer": "Harrison Ford",
+   "aliases": [
+    "President Harrison Ford"
+   ],
+   "reason": "An actor, who played a president in Air Force One."
+  },
+  {
+   "answer": "Jeb Bush",
+   "aliases": [
+    "John Ellis Bush",
+    "President Jeb Bush",
+    "President John Ellis Bush"
+   ],
+   "reason": "Governor of Florida, whose father and brother were both president."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"us-presidents\" on 28 November 2026."
+}

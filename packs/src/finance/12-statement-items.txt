@@ -1,0 +1,148 @@
+id: finance-statement-items
+text: Name an item you would find in a company's financial statements.
+flavor: Every figure balances. That is the frightening part: something made them balance.
+rules: Any line from a balance sheet, income statement or cash flow statement: an asset, a liability, a kind of equity, income or expense.
+section: Accounting
+---
+1 Revenue | Sales | Sales revenue | Turnover | Income | Total revenue | Net sales | Revenues | Service revenue | Fees
+1 Cash | Cash at bank | Cash and cash equivalents | Bank | Cash equivalents | Petty cash | Cash on hand
+1 Profit | Net profit | Net income | Profit after tax | NPAT | Net profit after tax | Bottom line | Earnings | Profit for the year | Net earnings | Loss | Net loss
+1 Assets | Total assets | Asset
+1 Liabilities | Total liabilities | Liability
+1 Equity | Shareholders' equity | Owner's equity | Total equity | Shareholders equity | Owners equity | Net assets | Stockholders' equity | Capital | Shareholders' funds
+1 Expenses | Expense | Operating expenses | Opex | Total expenses | Costs | Overheads
+1 Inventory | Stock | Inventories | Stock on hand | Trading stock | Closing stock | Merchandise
+1 Wages | Salaries | Wages and salaries | Employee benefits expense | Salaries and wages | Payroll | Staff costs | Wages expense | Employee expenses
+1 Debt | Loans | Borrowings | Loan | Bank loan | Loans payable | Interest-bearing liabilities | Long-term debt | Bank loans
+2 Accounts receivable | Debtors | Receivables | Trade receivables | Trade debtors | AR | Trade and other receivables
+2 Accounts payable | Creditors | Payables | Trade payables | Trade creditors | AP | Trade and other payables
+2 Cost of goods sold | COGS | Cost of sales | Cost of goods
+2 Gross profit | Gross margin
+2 Depreciation | Depreciation expense | Accumulated depreciation | Depreciation and amortisation | D&A
+2 Dividends | Dividend | Dividends paid | Dividends payable
+2 Tax | Income tax | Income tax expense | Tax expense | Tax payable | Company tax | Income tax payable | Taxes
+2 Interest | Interest expense | Finance costs | Interest paid | Borrowing costs | Interest income | Interest revenue | Interest received | Finance income
+2 Property, plant and equipment | PPE | PP&E | Plant and equipment | Fixed assets | Property plant and equipment | Equipment | Machinery | Buildings | Land | Land and buildings | Vehicles | Motor vehicles | Furniture and fittings | Plant | Property | Premises
+2 Retained earnings | Retained profits | Accumulated profits | Retained profit | Accumulated losses
+2 Share capital | Contributed equity | Issued capital | Common stock | Paid-up capital | Capital stock | Ordinary shares | Contributed capital
+2 Goodwill
+2 Rent | Rent expense | Rental expense | Lease expense | Occupancy costs
+2 EBIT | Operating profit | Operating income | Earnings before interest and tax | Profit before interest and tax
+2 EBITDA | Earnings before interest, tax, depreciation and amortisation
+2 Current assets
+2 Current liabilities
+2 Non-current assets | Noncurrent assets | Long-term assets
+2 Non-current liabilities | Long-term liabilities | Noncurrent liabilities
+2 Advertising | Marketing | Advertising expense | Marketing expense | Selling expenses | Advertising and marketing
+2 Mortgage | Mortgage payable
+2 Investments | Financial assets | Investment | Shares in other companies | Other financial assets
+2 Electricity | Utilities | Utilities expense | Power
+2 Insurance | Insurance expense
+3 Intangible assets | Intangibles | Patents | Trademarks | Brand names | Software | Licences | Copyrights | Brands
+3 Amortisation | Amortization | Amortisation expense
+3 Impairment | Impairment loss | Write-down | Impairment expense | Write-downs | Asset write-down
+3 Provisions | Provision | Provision for doubtful debts | Allowance for doubtful debts | Employee provisions | Provision for annual leave | Long service leave provision | Annual leave provision | Warranty provision | Allowance for doubtful accounts
+3 Bad debts | Bad debt expense | Doubtful debts | Bad and doubtful debts
+3 Prepayments | Prepaid expenses | Prepaid rent | Prepaid insurance | Prepayment
+3 Accrued expenses | Accruals | Accrued liabilities | Accrued wages | Accrued revenue | Accrued income
+3 Unearned revenue | Deferred revenue | Revenue received in advance | Deferred income | Contract liabilities | Customer deposits | Income in advance
+3 Deferred tax | Deferred tax asset | Deferred tax liability | Deferred tax assets | Deferred tax liabilities
+3 Reserves | Asset revaluation reserve | Revaluation surplus | General reserve | Revaluation reserve | Foreign currency translation reserve | Other reserves
+3 Profit before tax | Earnings before tax | EBT | Pre-tax profit | Net profit before tax | Pretax income | Income before tax
+3 Earnings per share | EPS | Basic earnings per share | Diluted earnings per share
+3 Cash flow from operations | Operating cash flow | Net cash from operating activities | Cash flows from operating activities | Operating activities | Cash flow from operating activities
+3 Cash flow from investing | Investing activities | Cash flows from investing activities | Net cash from investing activities
+3 Cash flow from financing | Financing activities | Cash flows from financing activities | Net cash from financing activities
+3 Capital expenditure | Capex | Purchase of property, plant and equipment | Payments for plant and equipment
+3 Other income | Other revenue | Sundry income | Gain on sale | Gain on disposal | Other gains
+3 Bank overdraft | Overdraft
+3 Lease liabilities | Lease liability | Finance lease
+3 Right-of-use assets | Right of use asset | Right-of-use asset | ROU asset
+3 Research and development | R&D | Research and development expense | Development costs
+3 Administrative expenses | Admin expenses | General and administrative | G&A | SG&A | Selling, general and administrative | Administration
+3 Superannuation | Superannuation expense | Super | Superannuation payable | Pension liability | Pension obligations | Defined benefit obligation
+3 GST | GST payable | GST collected | GST receivable | GST paid | VAT | Sales tax payable
+3 Drawings
+3 Notes payable | Bonds payable | Debentures | Notes | Bonds
+3 Treasury shares | Treasury stock
+3 Non-controlling interest | Minority interest | Non-controlling interests | Minority interests | NCI
+3 Other comprehensive income | OCI | Total comprehensive income | Comprehensive income
+3 Raw materials | Work in progress | WIP | Finished goods | Work in process
+3 Purchases
+3 Freight | Freight in | Carriage inwards | Freight out | Delivery expense | Cartage
+3 Discount allowed | Discount received | Sales returns | Sales discounts | Returns and allowances | Purchase returns
+3 Repairs and maintenance | Maintenance | Repairs
+3 Telephone | Internet | Communications expense
+3 Motor vehicle expenses | Fuel | Travel | Travel expenses
+3 Office supplies | Stationery | Supplies | Consumables
+3 Audit fees | Professional fees | Legal fees | Accounting fees | Consulting fees
+3 Bank fees | Bank charges
+3 Commission | Commissions | Commission income | Commission expense
+3 Royalties | Royalty income | Licence fees
+3 Dividend income | Dividends received | Investment income
+3 Share of profit of associates | Investments in associates | Equity-accounted investments | Associates | Share of associates' profit
+3 Opening stock | Opening inventory
+3 Working capital
+3 Share premium | Additional paid-in capital | APIC | Share premium account | Paid-in capital
+3 Proceeds from borrowings | Repayment of borrowings | Proceeds from share issue | Proceeds from issue of shares
+3 Receipts from customers | Payments to suppliers | Payments to suppliers and employees
+4 Contract assets
+4 Biological assets | Livestock | Crops
+4 Investment property | Investment properties
+4 Assets held for sale | Non-current assets held for sale | Discontinued operations | Profit from discontinued operations
+4 Derivative financial instruments | Derivatives | Derivative assets | Derivative liabilities | Hedging instruments
+4 Exploration and evaluation assets | Exploration assets | Mine properties | Mining tenements
+4 Deferred consideration | Contingent consideration
+4 Contingent liabilities | Contingent liability
+4 Restructuring provision | Restructuring costs | Redundancy costs | Restructuring
+4 Rehabilitation provision | Restoration provision | Decommissioning provision | Make-good provision | Mine rehabilitation
+4 Share-based payments | Share based payments | Share-based payment expense | Stock-based compensation | Share-based payments reserve | Stock compensation
+4 Fair value gains | Fair value adjustment | Fair value loss | Unrealised gains | Revaluation gain | Mark-to-market gains
+4 Foreign exchange gain | Foreign exchange loss | FX gain | FX loss | Exchange differences | Foreign exchange gains and losses
+4 Hedging reserve | Cash flow hedge reserve
+4 Convertible notes payable | Convertible notes
+4 Preference share capital | Preference shares | Preferred stock
+4 Franking account | Franking credits
+4 Current tax liability | Current tax payable | Current tax asset | Tax refund receivable
+4 PAYG withholding | PAYG | PAYG payable | Payroll tax | Fringe benefits tax | FBT
+4 Loans to directors | Related party loans | Loans to related parties | Director loans
+4 Term deposits | Short-term investments | Marketable securities | Short term deposits
+4 Capitalised development costs | Capitalised software | Capitalised interest
+4 Customer lists | Customer relationships | Customer contracts
+4 Leasehold improvements
+4 Low-value pool | Low value assets
+4 Inventory write-down | Stock write-off | Stock loss | Shrinkage | Inventory obsolescence
+4 Gain on bargain purchase | Bargain purchase gain | Negative goodwill | Discount on acquisition
+4 Underlying profit | Underlying earnings | Normalised profit | Cash profit | Cash earnings | Statutory profit
+4 Significant items | Abnormal items | Extraordinary items | One-off items | Exceptional items
+4 Segment revenue | Segment result
+4 Loss on disposal | Loss on sale of assets | Profit on sale of assets
+4 Cost of capital raising | Share issue costs | Transaction costs
+4 Net interest income | Loans and advances | Deposits | Customer deposits liability | Loan impairment expense
+4 Premium revenue | Claims expense | Outstanding claims | Insurance contract liabilities | Unearned premium
+4 Net tangible assets | NTA
+4 Dividends declared | Final dividend | Interim dividend | Special dividend
+4 Options reserve | Share option reserve
+4 Foreign currency translation | Translation reserve
+4 Deferred acquisition costs
+4 Onerous contracts | Onerous contract provision
+4 Government grants | Grant income | JobKeeper | Grants
+4 Donations | Sponsorship
+4 Entertainment | Staff training | Training | Subscriptions | Cleaning | Security | Rates | Council rates | Postage | Printing | Licences and permits | Uniforms | Recruitment | Sundry expenses | Miscellaneous expenses | Waste disposal
+5 Suspense account | Suspense
+5 Formation costs | Preliminary expenses | Borrowing costs capitalised
+5 Goods in transit | Consignment stock
+6 Sinking fund | Sinking fund reserve | Debenture redemption reserve :: Money set aside each year to repay a debt when it falls due. Britain's first national one, of 1716, was Robert Walpole's.
+5 Capital redemption reserve
+6 Calls in arrears | Calls in advance | Uncalled capital | Forfeited shares :: Money shareholders still owe on partly paid shares. Australian no-liability mining companies exist so that miners' backers can walk away from such calls.
+5 Tax loss carry-forward | Carried forward losses | Tax losses
+5 Embedded derivatives
+5 Cumulative preference dividends | Dividends in arrears
+5 Bearer plants
+5 Service concession assets
+5 Regulatory deferral accounts
+5 Emission allowances | Carbon credits held
+5 Crypto assets held | Bitcoin holdings | Digital assets
+x Balance sheet | Income statement | Profit and loss | P&L | Cash flow statement | Statement of financial position | Statement of cash flows | Annual report | Statement of changes in equity | Notes | Notes to the accounts | Profit and loss statement | Directors' report | Audit report | Auditor's report :: That is a whole statement or report. Name a line inside one.
+x P/E ratio | ROE | ROA | Current ratio | Dividend yield | Share price | Market cap | Market capitalisation | Beta :: A ratio or a market figure. Analysts work it out; it is not printed as a line in the statements.
+x Debit | Credit | Double entry | Journal | Ledger | Trial balance | Accrual accounting :: Part of how the books are kept, not an item in the statements.

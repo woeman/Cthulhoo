@@ -6,45 +6,45 @@ Rules: Any real field of study whose name ends in -ology or -logy. Words that on
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (215 answers)
+## Accepted now (357 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (15)
 
-- Biology
-- Psychology — Psycology | Physcology
+- Biology — Byology
+- Psychology — Psycology | Physcology | Physchology | Pyschology | Phsycology
 - Geology
-- Sociology
+- Sociology — Socology
 - Archaeology — Archeology
 - Zoology — Zology
 - Theology
-- Astrology
+- Astrology — Atrology | Asrology
 - Ecology
 - Anthropology
 - Criminology
 - Radiology
-- Cardiology
+- Cardiology — Caridology | Cadriology | Cardology | Cartiology
 - Dermatology
 - Neurology
 
 ### Tier 2: common (25)
 
-- Meteorology
-- Mythology
+- Meteorology — Meterology | Metorology
+- Mythology — Mithology
 - Palaeontology — Paleontology
-- Physiology
+- Physiology — Phsyiology
 - Pathology
-- Oncology
+- Oncology — Onchology
 - Gynaecology — Gynecology
-- Ophthalmology
-- Entomology
+- Ophthalmology — Opthomology | Ophthomology | Opthamology | Opthalmology
+- Entomology — Entymology
 - Ornithology
 - Egyptology
 - Cosmology
-- Etymology
+- Etymology — Ettymology | Eetymology
 - Seismology
-- Toxicology
+- Toxicology — Toxcology
 - Virology
 - Immunology
 - Haematology — Hematology
@@ -56,14 +56,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Musicology
 - Technology
 
-### Tier 3: known to fans (40)
+### Tier 3: known to fans (60)
 
 - Endocrinology
 - Gerontology
 - Embryology
-- Histology
+- Histology — Hitology
 - Numerology
-- Phrenology
+- Phrenology — Phernology | Prhenology
 - Ufology
 - Cryptozoology
 - Herpetology
@@ -73,7 +73,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hydrology
 - Climatology
 - Mineralogy
-- Chronology
+- Chronology — Chornology
 - Morphology
 - Phonology
 - Aetiology — Etiology
@@ -83,8 +83,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bacteriology
 - Rheumatology
 - Nephrology
-- Gastroenterology
-- Audiology
+- Gastroenterology — Gastrology
+- Audiology — Audology
 - Sexology
 - Demonology
 - Epistemology
@@ -93,16 +93,36 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cryptology
 - Parapsychology
 - Reflexology
-- Methodology
+- Methodology — Metodology
 - Cosmetology
 - Topology
-- Kinesiology
+- Kinesiology — Applied kinesiology
 - Ethology
+- Marine biology
+- Molecular biology
+- Cell biology — Cellular biology
+- Evolutionary biology
+- Forensic psychology
+- Clinical psychology
+- Child psychology
+- Social psychology
+- Cognitive psychology
+- Developmental psychology
+- Forensic pathology
+- Biotechnology — Biotech
+- Nanotechnology — Nanotech
+- Information technology — IT | Info tech
+- Metrology
+- Psephology
+- Sovietology
+- Neuropsychology
+- Histopathology
+- Zoopsychology — Animal psychology
 
-### Tier 4: obscure (56)
+### Tier 4: obscure (102)
 
 - Glaciology
-- Speleology
+- Speleology — Spelaeology
 - Campanology
 - Horology
 - Limnology
@@ -117,10 +137,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Trichology
 - Odontology
 - Proctology
-- Pulmonology — Pneumology
+- Pulmonology — Pneumology | Pneumonology
 - Hepatology
-- Anaesthesiology — Anesthesiology
-- Otolaryngology
+- Anaesthesiology — Anesthesiology | Anaesthology | Anesthology
+- Otolaryngology — Otorhinolaryngology
 - Thanatology
 - Eschatology
 - Ontology
@@ -157,8 +177,54 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Neurobiology
 - Psychopathology
 - Terminology
+- Evolutionary psychology
+- Educational psychology
+- Sports psychology — Sport psychology
+- Forensic anthropology
+- Forensic entomology
+- Forensic odontology
+- Social anthropology
+- Cultural anthropology
+- Biological anthropology — Physical anthropology
+- Developmental biology
+- Synthetic biology
+- Conservation biology
+- Plant biology
+- Human biology
+- Marine geology
+- Forensic archaeology
+- Industrial archaeology
+- Underwater archaeology — Marine archaeology | Maritime archaeology
+- Experimental archaeology
+- Forensic toxicology
+- Clinical pathology
+- Neuroradiology
+- Psychopharmacology
+- Neuropathology
+- Paleoclimatology — Palaeoclimatology
+- Phenology
+- Rheology
+- Tribology
+- Narratology
+- Ludology
+- Zooarchaeology — Archaeozoology | Zooarcheology
+- Anthrozoology
+- Radiobiology
+- Cryobiology
+- Hydrobiology
+- Geochronology
+- Astrogeology — Planetary geology
+- Paleobiology — Palaeobiology
+- Micropaleontology — Micropalaeontology
+- Hymnology
+- Enigmatology
+- Tegestology
+- Zythology
+- Polemology
+- Periodontology
+- Symbology
 
-### Tier 5: expert (77)
+### Tier 5: expert (153)
 
 - Palynology
 - Bryology
@@ -237,20 +303,97 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chronobiology
 - Sedimentology
 - Phraseology
+- Xenobiology
+- Photobiology
+- Aerobiology
+- Geobiology
+- Biometeorology
+- Neuroendocrinology
+- Psychoneuroimmunology
+- Cytopathology
+- Dermatopathology
+- Phytopathology — Plant pathology
+- Diabetology
+- Cariology
+- Craniology
+- Arthrology
+- Adenology
+- Somatology
+- Symptomatology
+- Posology
+- Tocology — Tokology
+- Typhlology
+- Bromatology
+- Trophology
+- Sitology — Sitiology
+- Balneology
+- Protistology
+- Coleopterology
+- Dipterology
+- Hymenopterology
+- Orthopterology
+- Astacology
+- Orchidology
+- Cecidology
+- Caliology
+- Karyology
+- Paleozoology — Palaeozoology
+- Paleoecology — Palaeoecology
+- Paleopathology — Palaeopathology
+- Orology — Oreology
+- Hyetology
+- Anemology
+- Aerology
+- Coniology — Koniology
+- Cryology
+- Thalassology
+- Uranology
+- Heliology
+- Agrology
+- Chorology
+- Heortology
+- Liturgiology
+- Patrology
+- Heresiology
+- Bibliology
+- Alethiology
+- Praxeology — Praxiology
+- Characterology
+- Chirology
+- Hoplology
+- Irenology
+- Glossology
+- Glottology
+- Tibetology
+- Turkology — Turcology
+- Iranology
+- Sumerology
+- Hittitology
+- Byzantinology
+- Celtology
+- Islamology
+- Urbanology
+- Gerontechnology
+- Ethnobiology
+- Ethnopharmacology
+- Martyrology
+- Buddhology
+- Podology
 
 ### Tier 6: rare jackpots (2)
 
 - Teuthology
 - Batology
 
-## Refused on purpose (7)
+## Refused on purpose (8)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Apology | Anthology | Tautology | Analogy | Trilogy | Eulogy | Doxology | Tetralogy | Duology — "It only ends in -logy. Sorry."
+- Apology | Anthology | Tautology | Analogy | Trilogy | Eulogy | Doxology | Tetralogy | Duology | Pentalogy | Hexalogy | Quadrilogy — "It only ends in -logy. Sorry."
 - Necrology — "A list of the dead, not the study of them."
 - Scientology — "A religion, whatever its name claims."
 - Ology | Ologies | Logy — "Which one?"
 - Astronomy — "No -ology in it. Astrology is the other one."
 - Pedagogy — "-agogy, not -ology."
 - Ideology — "A system of beliefs, not a field of study."
+- Agronomy | Economy | Economics | Anatomy | Botany | Chemistry | Physics | Maths | Mathematics | Taxonomy | Gastronomy | Geography | History | Medicine | Science | Engineering | Philosophy | Psychiatry | Dentistry | Forestry | Geometry | Optometry | Podiatry — "A field of study, but with no -ology in its name."

@@ -1,5 +1,6 @@
-// Generative sound for the descent. Everything is synthesised in the browser
-// with Web Audio: there are no audio files.
+// Generative sound for the descent. Everything here is synthesised in the
+// browser with Web Audio. The only audio files are the music beds laid under
+// it (music.ts), which join this graph through musicBus().
 //
 // Direction: docs/art/07 (motion and sound). Dread is a held note: a slow,
 // quiet bed on D that changes with depth, very few events on top, nothing
@@ -510,6 +511,15 @@ export class Sound {
       if (this.muted || this.hidden) this.sleepSoon();
     }
     await woken;
+  }
+
+  /**
+   * Where recorded music (music.ts) joins the mix: after the bed's depth filter,
+   * under the same tension, ducks and madness as the bed, so it hushes when the
+   * bed does. Null until sound has started, and in an offline render.
+   */
+  musicBus(): { ctx: AudioContext; input: AudioNode } | null {
+    return this.built && this.realtime ? { ctx: this.ctx as AudioContext, input: this.tense } : null;
   }
 
   /** Muting fades out and then suspends the context, so a muted game costs nothing. */

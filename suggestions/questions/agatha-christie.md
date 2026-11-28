@@ -6,45 +6,45 @@ Rules: Any book or play by Agatha Christie, including story collections and her 
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (114 answers)
+## Accepted now (130 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (5)
 
 - Murder on the Orient Express — Orient Express | Murder in the Calais Coach
-- Death on the Nile
+- Death on the Nile — Nile
 - And Then There Were None — Ten Little Indians | Ten Little Soldiers
 - The Mousetrap
-- The Murder of Roger Ackroyd — Roger Ackroyd
+- The Murder of Roger Ackroyd — Roger Ackroyd | Ackroyd
 
 ### Tier 2: common (25)
 
-- The A.B.C. Murders — The Alphabet Murders
+- The A.B.C. Murders — The Alphabet Murders | ABC
 - Evil Under the Sun
 - The Mysterious Affair at Styles — Styles
-- The Murder at the Vicarage
+- The Murder at the Vicarage — Murder in the Vicarage | Vicarage
 - The Body in the Library
 - A Murder Is Announced
 - Appointment with Death
-- Witness for the Prosecution — Witness for the Prosecution and Other Stories
+- Witness for the Prosecution — Witness for the Prosecution and Other Stories | Witness
 - Crooked House
 - Curtain — Curtain: Poirot's Last Case
-- 4.50 from Paddington — What Mrs. McGillicuddy Saw!
+- 4.50 from Paddington — What Mrs. McGillicuddy Saw! | Paddington | Murder, She Said
 - The Mirror Crack'd from Side to Side — The Mirror Crack'd | The Mirror Cracked
-- Peril at End House
+- Peril at End House — End House
 - Hallowe'en Party
 - Five Little Pigs — Murder in Retrospect
 - Sleeping Murder
 - Nemesis
 - A Caribbean Mystery
 - Cards on the Table
-- Hercule Poirot's Christmas — Murder for Christmas | A Holiday for Murder
+- Hercule Poirot's Christmas — Murder for Christmas | A Holiday for Murder | Poirot's Christmas
 - Death in the Clouds — Death in the Air
-- Murder in Mesopotamia
+- Murder in Mesopotamia — Mesopotamia
 - Endless Night
 - The Pale Horse
-- Why Didn't They Ask Evans? — The Boomerang Clue
+- Why Didn't They Ask Evans? — The Boomerang Clue | Ask Evans
 
 ### Tier 3: known to fans (37)
 
@@ -68,7 +68,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Elephants Can Remember
 - Ordeal by Innocence
 - They Do It with Mirrors — Murder with Mirrors
-- At Bertram's Hotel
+- At Bertram's Hotel — Bertram's Hotel
 - The Moving Finger
 - Murder Is Easy — Easy to Kill
 - One, Two, Buckle My Shoe — The Patriotic Murders | An Overdose of Death
@@ -78,11 +78,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Secret of Chimneys — Chimneys
 - The Man in the Brown Suit
 - Hickory Dickory Dock — Hickory Dickory Death
-- By the Pricking of My Thumbs
+- By the Pricking of My Thumbs — Pricking of My Thumbs
 - N or M?
 - The Labours of Hercules — The Labors of Hercules
 - Poirot Investigates
-- The Thirteen Problems — The Tuesday Club Murders
+- The Thirteen Problems — The Tuesday Club Murders | Miss Marple and the Thirteen Problems
 - Black Coffee
 - Spider's Web
 
@@ -104,13 +104,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Unexpected Guest
 - An Autobiography — Agatha Christie: An Autobiography
 - Poirot's Early Cases — Hercule Poirot's Early Cases
-- Miss Marple's Final Cases
+- Miss Marple's Final Cases — Miss Marple's Final Cases and Two Other Stories
 - Three Blind Mice — Three Blind Mice and Other Stories
 - The Regatta Mystery
 - Verdict
 - Murder on the Nile — Hidden Horizon | Little Horizon
 
-### Tier 5: expert (23)
+### Tier 5: expert (39)
 
 - Giant's Bread
 - Unfinished Portrait
@@ -128,13 +128,29 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - While the Light Lasts
 - The Grand Tour
 - Go Back for Murder
-- Fiddlers Three
+- Fiddlers Three — Fiddlers Five
 - Rule of Three
 - The Scoop
 - Behind the Screen
 - The Harlequin Tea Set — The Harlequin Tea Set and Other Stories
 - Midwinter Murder — Midwinter Murder: Fireside Tales from the Queen of Mystery
 - The Last Séance — The Last Séance: Tales of the Supernatural
+- The Rats
+- Afternoon at the Seaside
+- The Patient
+- Wasps' Nest
+- Butter in a Lordly Dish
+- Personal Call
+- Yellow Iris
+- Poems — Poems by Agatha Christie
+- Snow Upon the Desert
+- Hercule Poirot's Casebook
+- Miss Marple: The Complete Short Stories — Miss Marple Complete Short Stories
+- Thirteen Clues for Miss Marple — 13 Clues for Miss Marple
+- Surprise! Surprise!
+- 13 for Luck! — Thirteen for Luck
+- The Agatha Christie Hour
+- The Mousetrap and Other Plays
 
 ### Tier 6: rare jackpots (3)
 

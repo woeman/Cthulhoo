@@ -1,0 +1,16 @@
+id: finance-nasdaq-companies
+text: Name a company listed on the Nasdaq.
+flavor: No trading floor, no bell, only screens glowing in the dark. The machines trade on without us.
+rules: Any company with ordinary shares on the Nasdaq. The long tail follows the exchange's own symbol directory as it stood in November 2026.
+section: Listed companies
+source: Nasdaq symbol directory (via the public datasets/nasdaq-listings snapshot), November 2026.
+listing: nasdaq-listed.csv
+curated: us-companies.inc
+---
+6 FIZZ | National Beverage | LaCroix :: The maker of LaCroix sparkling water trades under the ticker FIZZ.
+6 CAKE | The Cheesecake Factory | Cheesecake Factory :: Its ticker symbol is, of course, CAKE.
+6 PZZA | Papa John's | Papa Johns :: The pizza chain trades as PZZA.
+x Nasdaq 100 | Nasdaq Composite | QQQ | S&P 500 | Dow Jones | Dow :: That is an index or a fund of many companies. Name one company.
+x Coca-Cola | Coke | McDonald's | McDonalds | Maccas | Nike | Disney | Walmart | Visa | Mastercard | JPMorgan | JP Morgan | Berkshire Hathaway | Goldman Sachs | Boeing | Ford | Uber | Spotify | IBM | Oracle | Salesforce | Pfizer | Johnson & Johnson | Bank of America | ExxonMobil | Exxon | Shell | Snapchat | Snap | Reddit | Pinterest | Roblox | Target | Home Depot | Alibaba | Toyota | Sony :: Listed in New York, but on the other exchange: the NYSE.
+x Commonwealth Bank | CBA | Woolworths | Telstra | Qantas | Westpac | ANZ | NAB | Coles | Wesfarmers | CSL | Macquarie | Fortescue | Afterpay | Xero | Canva :: Not on the Nasdaq. Most of these live on the ASX.
+x OpenAI | SpaceX | Stripe | TikTok | ByteDance | Anthropic | Ikea | Lego | Samsung | Huawei | Twitter | X :: Not listed on the Nasdaq.

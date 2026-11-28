@@ -1,0 +1,9 @@
+{
+  "id": "chemistry",
+  "name": "Chemistry",
+  "title": "The Alchemist's Residue",
+  "blurb": "Elements, compounds, gases, alloys, glassware and the people who mixed them.",
+  "group": "Science",
+  "order": 5,
+  "asOf": "2026-11-28"
+}

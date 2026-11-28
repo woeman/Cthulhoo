@@ -1,0 +1,356 @@
+id: geography-australian-towns
+text: Name a city or town in Australia.
+flavor: A thin ring of lights around a great dark middle. Name one of the lights.
+rules: Any Australian city or town. Suburbs of the capitals do not count.
+section: Australia
+---
+1 Sydney
+1 Melbourne
+1 Brisbane | Brissie | Brisvegas
+1 Perth
+1 Adelaide
+1 Canberra
+1 Hobart
+1 Darwin
+2 Gold Coast | Surfers Paradise
+2 Newcastle
+2 Cairns
+2 Alice Springs | Alice | The Alice | Mparntwe
+2 Wollongong | The Gong
+2 Geelong
+2 Townsville
+2 Byron Bay | Byron
+2 Broome
+2 Ballarat
+2 Bendigo
+2 Launceston | Launnie
+2 Toowoomba
+2 Sunshine Coast | Maroochydore | Mooloolaba | Noosa | Noosa Heads | Caloundra
+2 Broken Hill
+2 Kalgoorlie | Kalgoorlie-Boulder
+2 Fremantle | Freo
+2 Wagga Wagga | Wagga
+2 Dubbo
+2 Tamworth
+2 Albury | Albury-Wodonga | Wodonga
+2 Coffs Harbour | Coffs
+2 Port Macquarie
+2 Mackay
+2 Rockhampton | Rocky
+2 Bundaberg | Bundy
+2 Mildura
+2 Mount Isa | Mt Isa | The Isa
+2 Coober Pedy | Cooper Pedy
+2 Katherine
+2 Uluru | Yulara
+2 Bathurst
+2 Orange
+2 Shepparton | Shepp
+2 Port Douglas
+2 Airlie Beach
+2 Hervey Bay
+2 Bunbury
+2 Margaret River
+2 Albany
+2 Geraldton
+2 Devonport
+2 Burnie
+2 Mount Gambier | Mt Gambier
+2 Port Lincoln
+2 Whyalla
+2 Port Augusta
+2 Victor Harbor | Victor Harbour
+2 Tennant Creek
+2 Parramatta
+2 Central Coast | Gosford | Wyong | Terrigal | The Entrance
+3 Armidale
+3 Lismore
+3 Ballina
+3 Grafton
+3 Tweed Heads
+3 Kempsey
+3 Taree
+3 Forster | Tuncurry | Forster-Tuncurry
+3 Port Stephens | Nelson Bay
+3 Maitland
+3 Cessnock
+3 Singleton
+3 Muswellbrook
+3 Scone
+3 Mudgee
+3 Lithgow
+3 Katoomba | Blue Mountains | Leura
+3 Goulburn
+3 Queanbeyan
+3 Cooma
+3 Jindabyne | Thredbo
+3 Batemans Bay
+3 Ulladulla
+3 Nowra
+3 Kiama
+3 Bowral | Mittagong | Moss Vale
+3 Griffith
+3 Leeton
+3 Narrandera
+3 Deniliquin | Deni
+3 Hay
+3 Parkes
+3 Forbes
+3 Cowra
+3 Young
+3 Gundagai
+3 Tumut
+3 Yass
+3 Moree
+3 Narrabri
+3 Gunnedah
+3 Inverell
+3 Glen Innes
+3 Tenterfield
+3 Bourke
+3 Cobar
+3 Walgett
+3 Lightning Ridge
+3 Nyngan
+3 Wilcannia
+3 Coonabarabran
+3 Wellington
+3 Eden
+3 Merimbula
+3 Bega
+3 Narooma
+3 Warrnambool
+3 Portland
+3 Hamilton
+3 Horsham
+3 Ararat
+3 Stawell
+3 Colac
+3 Torquay
+3 Lorne
+3 Apollo Bay
+3 Echuca
+3 Swan Hill
+3 Wangaratta | Wang
+3 Benalla
+3 Bright
+3 Beechworth
+3 Mansfield
+3 Seymour
+3 Kyneton
+3 Castlemaine
+3 Maryborough
+3 Daylesford
+3 Traralgon
+3 Morwell
+3 Moe
+3 Sale
+3 Bairnsdale
+3 Lakes Entrance
+3 Warragul
+3 Wonthaggi
+3 Phillip Island | Cowes
+3 Sunbury
+3 Melton
+3 Bacchus Marsh
+3 Healesville
+3 Mornington
+3 Ipswich
+3 Logan | Logan City
+3 Redcliffe
+3 Caboolture
+3 Gympie
+3 Gladstone
+3 Emerald
+3 Longreach
+3 Charleville
+3 Roma
+3 Dalby
+3 Warwick
+3 Stanthorpe
+3 Kingaroy
+3 Bowen
+3 Proserpine
+3 Ayr
+3 Ingham
+3 Innisfail
+3 Atherton
+3 Mareeba
+3 Kuranda
+3 Cooktown
+3 Weipa
+3 Charters Towers
+3 Cloncurry
+3 Winton
+3 Birdsville
+3 Yeppoon
+3 Biloela
+3 Moranbah
+3 Goondiwindi
+3 Mandurah
+3 Rockingham
+3 Busselton
+3 Esperance
+3 Karratha
+3 Port Hedland | Hedland
+3 Newman
+3 Tom Price
+3 Exmouth
+3 Carnarvon
+3 Kununurra
+3 Derby
+3 Halls Creek
+3 Northam
+3 York
+3 Narrogin
+3 Collie
+3 Manjimup
+3 Denmark
+3 Merredin
+3 Dunsborough
+3 Kalbarri
+3 Murray Bridge
+3 Gawler
+3 Port Pirie
+3 Renmark
+3 Berri
+3 Naracoorte
+3 Ceduna
+3 Roxby Downs
+3 Hahndorf
+3 Tanunda | Nuriootpa | Barossa
+3 Clare
+3 Kadina | Wallaroo | Moonta
+3 Kingscote
+3 Woomera
+3 Oodnadatta
+3 Queenstown
+3 Strahan
+3 Ulverstone
+3 Port Arthur
+3 Richmond
+3 New Norfolk
+3 Huonville
+3 Swansea
+3 Bicheno
+3 St Helens
+3 Scottsdale
+3 George Town
+3 Smithton
+3 Wynyard
+3 Palmerston
+3 Nhulunbuy | Gove
+3 Jabiru
+3 Yuendumu
+3 Hermannsburg | Ntaria
+4 Tibooburra
+4 Nimbin
+4 Mullumbimby | Mullum
+4 Bellingen
+4 Yamba
+4 Bermagui
+4 Jervis Bay | Huskisson
+4 Bundanoon
+4 Berry
+4 Glenrowan
+4 Rutherglen
+4 Yarrawonga
+4 Cobram
+4 Kerang
+4 Ouyen
+4 Nhill
+4 Dimboola
+4 Halls Gap
+4 Port Fairy
+4 Queenscliff
+4 Mallacoota
+4 Omeo
+4 Marysville
+4 Walhalla
+4 Mount Beauty
+6 Seventeen Seventy | 1770 | Agnes Water | Town of 1770 :: Said to be the only town in Australia whose name is a number. James Cook came ashore here in May 1770, his second landing on the continent.
+4 Barcaldine
+4 Blackall
+4 Cunnamulla
+4 Thargomindah
+4 Quilpie
+4 Normanton
+4 Karumba
+4 Burketown
+4 Hughenden
+4 Julia Creek
+4 Mission Beach
+4 Tully
+4 Babinda
+4 Daintree | Cape Tribulation
+4 Thursday Island | TI | Waiben
+4 Coral Bay
+4 Denham | Monkey Mia
+4 Onslow
+4 Marble Bar
+4 Fitzroy Crossing
+4 Wyndham
+4 Meekatharra
+4 Leonora
+4 Laverton
+4 Norseman
+4 Coolgardie
+4 Southern Cross
+4 Kellerberrin
+4 Toodyay
+4 Pemberton
+4 Augusta
+4 Walpole
+4 Bremer Bay
+4 Hopetoun
+4 Eucla
+4 Cervantes
+4 Jurien Bay
+4 New Norcia
+4 Marree
+4 William Creek
+4 Innamincka
+4 Andamooka
+4 Leigh Creek
+4 Hawker
+4 Quorn
+4 Peterborough
+4 Burra
+4 Streaky Bay
+4 Coffin Bay
+4 Tumby Bay
+4 Robe
+4 Kingston SE
+4 Penola | Coonawarra
+4 Bordertown
+4 Keith
+4 Tailem Bend
+4 Mannum
+4 Goolwa
+4 Strathalbyn
+4 Zeehan
+4 Rosebery
+4 Stanley
+4 Deloraine
+4 Sheffield
+4 Cygnet
+4 Dover
+4 Triabunna
+4 Oatlands
+4 Ross
+4 Campbell Town
+4 Longford
+4 Bridport
+4 Adelaide River
+4 Pine Creek
+4 Mataranka
+4 Daly Waters
+4 Borroloola
+4 Timber Creek
+4 Wadeye | Port Keats
+4 Maningrida
+4 Batchelor
+6 Humpty Doo :: A town of a few thousand south-east of Darwin, known for a giant boxing crocodile. Nobody is certain where the name came from, which suits it.
+x Bondi | Manly | St Kilda | Fitzroy | Carlton | Fortitude Valley | Glenelg | Cottesloe | Newtown | Surry Hills | Toorak | South Yarra | Chatswood | Subiaco | Sandy Bay :: A suburb of a capital city. Name a city or town in its own right.
+x Queensland | New South Wales | Victoria | Tasmania | Western Australia | South Australia | Northern Territory | NSW | Outback | The outback :: That is a state, a territory or a region. Name a city or town.
+x Auckland | Christchurch | Dunedin | Port Moresby | Suva :: Across the water, not in Australia.

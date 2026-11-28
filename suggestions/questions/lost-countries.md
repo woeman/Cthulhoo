@@ -6,269 +6,338 @@ Rules: Any country, empire or kingdom that no longer exists, including old colon
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (350 answers)
+## Accepted now (763 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (9)
 
-- Soviet Union — USSR | Union of Soviet Socialist Republics | CCCP | Soviet Russia
-- Yugoslavia — Kingdom of Yugoslavia | SFR Yugoslavia | Socialist Federal Republic of Yugoslavia
-- Czechoslovakia
-- East Germany — GDR | DDR | German Democratic Republic
-- Prussia — Kingdom of Prussia | Free State of Prussia | Duchy of Prussia
-- Ottoman Empire — Ottomans | Turkish Empire | Sublime Porte
-- Roman Empire — Rome | Ancient Rome | Western Roman Empire | Romans
-- Austria-Hungary — Austro-Hungarian Empire | Austro-Hungary | Dual Monarchy
+- Soviet Union — USSR | Union of Soviet Socialist Republics | CCCP | Soviet Russia | Soviets | SSSR | Soviet Empire | Union of Soviet Socialist Republic | ISSR | YSSR
+- Yugoslavia — Kingdom of Yugoslavia | SFR Yugoslavia | Socialist Federal Republic of Yugoslavia | Jugoslavia | Federal People's Republic of Yugoslavia | SFRY | SFRJ | Kingdom of Serbs, Croats and Slovenes | Kingdom of SHS | Yugoslav Republic | Jugoslavija
+- Czechoslovakia — ČSSR | ČSFR | Czechoslovak Socialist Republic | Czechoslovak Republic | Czech and Slovak Federative Republic | Czech and Slovak Federal Republic | Czechoslovak Federative Republic | Czechslovakia | Chekoslovakia | Checkoslovakia
+- East Germany — GDR | DDR | German Democratic Republic | Deutsche Demokratische Republik | Communist Germany | Communist East Germany | Ostdeutschland | East German Republic
+- Prussia — Kingdom of Prussia | Free State of Prussia | Duchy of Prussia | Electorate of Prussia | Prussian Kingdom | Prussian state
+- Ottoman Empire — Ottomans | Turkish Empire | Sublime Porte | Ottoman Turkey | Ottoman Sultanate | Ottoman State | Sublime Ottoman State | Osmanli Empire | Ottoman Caliphate | Ottomon Empire | Otoman Empire
+- Roman Empire — Rome | Ancient Rome | Western Roman Empire | Romans | Imperium Romanum | SPQR | Ancient Romans | Empire of Rome | Rome Empire
+- Austria-Hungary — Austro-Hungarian Empire | Austro-Hungary | Dual Monarchy | Austrian-Hungarian Empire | Austria Hungary Empire | Kingdom of Austria-Hungary | Empire of Austria-Hungary | Austro-Hungarian Monarchy
 - West Germany — FRG | BRD
 
 ### Tier 2: common (24)
 
-- Byzantine Empire — Byzantium | Eastern Roman Empire | Byzantines
-- Holy Roman Empire — HRE
-- Persian Empire — Achaemenid Empire | Achaemenids | Ancient Persia
-- Mongol Empire — Mongols | Mongolian Empire
-- Babylon — Babylonia | Babylonian Empire | Neo-Babylonian Empire
-- Sparta — Lacedaemon
-- Carthage — Carthaginian Empire
-- Rhodesia
-- Ancient Egypt — Pharaonic Egypt
-- Assyria — Assyrian Empire | Neo-Assyrian Empire
-- Aztec Empire — Aztecs | Triple Alliance | Mexica
-- Inca Empire — Incas | Tawantinsuyu | Inca
-- Mughal Empire — Mughals | Mogul Empire
-- Kingdom of Hawaii — Hawaiian Kingdom | Hawaii
-- Republic of Texas — Texas Republic | Texas
-- Confederate States — Confederacy | CSA | Confederate States of America
-- Republic of Venice — Venice | Venetian Republic | La Serenissima
-- British Empire
-- Russian Empire — Tsarist Russia | Imperial Russia
-- German Empire — Imperial Germany | Second Reich | Kaiserreich
-- South Vietnam — Republic of Vietnam
-- Weimar Republic — Weimar Germany
-- Nazi Germany — Third Reich
-- Macedon — Macedonia | Ancient Macedonia | Kingdom of Macedon | Macedonian Empire
+- Byzantine Empire — Byzantium | Eastern Roman Empire | Byzantines | Byzantine | Byzantium Empire | Byzantine Rome | Bizantine Empire | Byzantine Greece
+- Holy Roman Empire — HRE | First Reich | Holy Roman Empire of the German Nation | Sacrum Imperium Romanum | Holy Roman | Holy Roman Emperor
+- Persian Empire — Achaemenid Empire | Achaemenids | Ancient Persia | Persia | Achaemenid Persia | Achaemenian Empire | First Persian Empire | Old Persia | Persians | Ancient Persian Empire | Empire of Persia
+- Mongol Empire — Mongols | Mongolian Empire | Great Mongol Empire | Empire of Genghis Khan | Genghis Khan's empire | Yeke Mongol Ulus | Mongolian Empire of Genghis Khan
+- Babylon — Babylonia | Babylonian Empire | Neo-Babylonian Empire | Babylonians | Ancient Babylon | Old Babylonian Empire | Chaldea | Chaldean Empire | Kingdom of Babylon | Babylonian Kingdom
+- Sparta — Lacedaemon | Spartans | Ancient Sparta | Lacedaemonia | Laconia | Spartan Empire
+- Carthage — Carthaginian Empire | Carthaginians | Ancient Carthage | Punic Empire | Carthaginian Republic | Carthago
+- Rhodesia — Southern Rhodesia | Republic of Rhodesia | Rhodesian Republic
+- Ancient Egypt — Pharaonic Egypt | Egyptian Empire | Old Kingdom of Egypt | New Kingdom of Egypt | Egypt of the Pharaohs | Kemet | Ancient Egyptians | Pharaohs | Egyptian civilisation
+- Assyria — Assyrian Empire | Neo-Assyrian Empire | Assyrians | Ancient Assyria | Assyrian Kingdom
+- Aztec Empire — Aztecs | Triple Alliance | Mexica | Aztec Triple Alliance | Tenochtitlan | Aztec civilisation | Aztec civilization | Aztec Kingdom
+- Inca Empire — Incas | Tawantinsuyu | Inca | Incan Empire | Inka Empire | Inka | Tahuantinsuyu | Inca civilisation | Inca civilization | Incan civilization
+- Mughal Empire — Mughals | Mogul Empire | Moghul Empire | Mughal India | Moghuls | Moguls | Moghal Empire | Mughal dynasty | Mogul India
+- Kingdom of Hawaii — Hawaiian Kingdom | Hawaii | Kingdom of the Hawaiian Islands | Hawaiian monarchy
+- Republic of Texas — Texas Republic | Texas | Lone Star Republic | Texan Republic | Independent Texas
+- Confederate States — Confederacy | CSA | Confederate States of America | Confederate America | Southern Confederacy | Confederate South | Confederation of Southern States
+- Republic of Venice — Venice | Venetian Republic | La Serenissima | Most Serene Republic of Venice | Serene Republic of Venice | Venetian Empire | Republic of St Mark | Venetia
+- British Empire — Empire of Great Britain | British colonial empire | Imperial Britain
+- Russian Empire — Tsarist Russia | Imperial Russia | Czarist Russia | Empire of Russia | Romanov Russia | Romanov Empire | Russian Tsarist Empire
+- German Empire — Imperial Germany | Second Reich | Kaiserreich | German Reich | Deutsches Reich | Wilhelmine Germany | Kaiser's Germany | Imperial German Empire
+- South Vietnam — Republic of Vietnam | RVN | Saigon government
+- Weimar Republic — Weimar Germany | Weimar
+- Nazi Germany — Third Reich | Greater German Reich | Greater Germany | Hitler's Germany | Nazi Reich | Third German Reich | Nazi State
+- Macedon — Macedonia | Ancient Macedonia | Kingdom of Macedon | Macedonian Empire | Macedonians | Ancient Macedon | Macedonia of Alexander
 
-### Tier 3: known to fans (80)
+### Tier 3: known to fans (83)
 
-- Zanzibar — Sultanate of Zanzibar
+- Zanzibar — Sultanate of Zanzibar | People's Republic of Zanzibar
 - Tanganyika
-- Kingdom of Sardinia — Sardinia | Piedmont-Sardinia
+- Kingdom of Sardinia — Sardinia | Piedmont-Sardinia | Sardinia-Piedmont | Kingdom of Piedmont-Sardinia | Savoy-Sardinia
 - Kingdom of the Two Sicilies — Two Sicilies
-- Kingdom of Bavaria — Bavaria
-- Bohemia — Kingdom of Bohemia
-- Burgundy — Duchy of Burgundy | Kingdom of Burgundy
-- Navarre — Kingdom of Navarre
+- Kingdom of Bavaria — Bavaria | Electorate of Bavaria | Duchy of Bavaria
+- Bohemia — Kingdom of Bohemia | Duchy of Bohemia | Bohemian Kingdom
+- Burgundy — Duchy of Burgundy | Kingdom of Burgundy | Burgundian State | Kingdom of the Burgundians | Burgundian Kingdom
+- Navarre — Kingdom of Navarre | Navarra
 - Aragon — Crown of Aragon | Kingdom of Aragon
-- Castile — Kingdom of Castile | Crown of Castile
-- Kingdom of Jerusalem — Outremer
-- Republic of Genoa — Genoa | Genoese Republic
-- Polish–Lithuanian Commonwealth — Commonwealth of Poland-Lithuania | Rzeczpospolita
-- Golden Horde — Ulus of Jochi | Kipchak Khanate
-- Khmer Empire — Angkor | Khmer Kingdom
-- Mali Empire — Empire of Mali | Kingdom of Mali
-- Songhai Empire — Songhai | Songhay
-- Kush — Kingdom of Kush | Kushite Kingdom | Meroë
-- Aksum — Axum | Aksumite Empire | Kingdom of Aksum
-- Kingdom of Benin — Benin Empire | Edo Kingdom
-- Ashanti Empire — Asante | Asante Empire | Ashanti
-- Zulu Kingdom — Zululand | Zulu Empire
-- Phoenicia — Phoenicians
-- Hittites — Hittite Empire | Hittite Kingdom
+- Castile — Kingdom of Castile | Crown of Castile | Castille | Castile and León
+- Kingdom of Jerusalem — Outremer | Latin Kingdom of Jerusalem | Crusader Kingdom of Jerusalem | Crusader Kingdom
+- Republic of Genoa — Genoa | Genoese Republic | Genova | Most Serene Republic of Genoa | Genoese Empire
+- Polish–Lithuanian Commonwealth — Commonwealth of Poland-Lithuania | Rzeczpospolita | Poland-Lithuania | Commonwealth of Both Nations | Polish-Lithuanian Union | Republic of Poland-Lithuania | Polish Commonwealth
+- Golden Horde — Ulus of Jochi | Kipchak Khanate | Jochid Ulus | Khanate of the Golden Horde
+- Khmer Empire — Angkor | Khmer Kingdom | Angkor Empire | Khmer | Angkorian Empire
+- Mali Empire — Empire of Mali | Kingdom of Mali | Mali | Malian Empire | Manden Kurufaba | Mandinka Empire
+- Songhai Empire — Songhai | Songhay | Songhay Empire | Gao Empire
+- Kush — Kingdom of Kush | Kushite Kingdom | Meroë | Cush | Kushites | Napata | Kushite Empire
+- Aksum — Axum | Aksumite Empire | Kingdom of Aksum | Axumite Empire | Aksumite Kingdom | Kingdom of Axum | Aksumites
+- Kingdom of Benin — Benin Empire | Edo Kingdom | Benin | Great Benin | Benin Kingdom | Kingdom of Edo | Ancient Benin
+- Ashanti Empire — Asante | Asante Empire | Ashanti | Ashanti Kingdom | Asante Kingdom | Ashanti Confederacy | Asanteman
+- Zulu Kingdom — Zululand | Zulu Empire | Zulu Nation | Kingdom of the Zulus
+- Phoenicia — Phoenicians | Phoenician Empire | Phoenician city-states
+- Hittites — Hittite Empire | Hittite Kingdom | Hatti | Land of Hatti | Hittite
 - Biafra — Republic of Biafra
 - North Vietnam — Democratic Republic of Vietnam
-- South Yemen — People's Democratic Republic of Yemen
-- North Yemen — Yemen Arab Republic
+- South Yemen — People's Democratic Republic of Yemen | Democratic Yemen | PDRY | People's Republic of South Yemen
+- North Yemen — Yemen Arab Republic | YAR
 - United Arab Republic — UAR
-- Manchukuo
-- Serbia and Montenegro
-- Kievan Rus' — Kyivan Rus | Rus'
-- Francia — Frankish Empire | Carolingian Empire | Kingdom of the Franks | Franks
-- Al-Andalus — Caliphate of Córdoba | Moorish Spain
-- Abbasid Caliphate — Abbasids
-- Umayyad Caliphate — Umayyads
-- Safavid Empire — Safavid Persia | Safavids
+- Manchukuo — Manchoukuo | Manchutikuo | Empire of Manchukuo | Manchu State
+- Serbia and Montenegro — Federal Republic of Yugoslavia | FR Yugoslavia | FRY | State Union of Serbia and Montenegro
+- Kievan Rus' — Kyivan Rus | Rus' | Kiev Rus | Kievan Russia
+- Francia — Frankish Empire | Carolingian Empire | Kingdom of the Franks | Franks | Frankish Kingdom | Merovingian Kingdom | Merovingians | Carolingians | Empire of Charlemagne | Charlemagne's empire | Frankish Realm
+- Al-Andalus — Caliphate of Córdoba | Moorish Spain | Emirate of Córdoba | Islamic Spain | Muslim Spain | Andalus | Cordoba
+- Abbasid Caliphate — Abbasids | Abbasid Empire | Abbasid dynasty | Caliphate of Baghdad | Caliphate
+- Umayyad Caliphate — Umayyads | Umayyad Empire | Umayyad dynasty | Caliphate of Damascus
+- Safavid Empire — Safavid Persia | Safavids | Safavid dynasty | Safavid Iran
 - Parthian Empire — Parthia | Parthians | Arsacid Empire
-- Sasanian Empire — Sassanid Empire | Sasanians | Sassanids
-- Seleucid Empire — Seleucids
-- Kingdom of Israel — Ancient Israel
-- Papal States — States of the Church
+- Sasanian Empire — Sassanid Empire | Sasanians | Sassanids | Sassanian Empire | Sasanid Empire | Neo-Persian Empire | Sassanid Persia | Sasanian Persia | Sassanian Persia | Sasanids | Sasanid dynasty | Sassanid dynasty
+- Seleucid Empire — Seleucids | Seleucid Kingdom | Seleucid dynasty
+- Kingdom of Israel — Ancient Israel | United Monarchy | Israelite Kingdom | Kingdom of David | Kingdom of Solomon | Northern Kingdom of Israel
+- Papal States — States of the Church | Papal State | Pontifical States | Church States | Patrimony of St Peter
 - Wessex — Kingdom of Wessex
 - Mercia — Kingdom of Mercia
 - Northumbria — Kingdom of Northumbria
-- Sumer — Sumeria | Sumerians
-- Akkad — Akkadian Empire | Akkadians
-- Troy — Ilium | Trojans
-- Athens — Ancient Athens | Athenian Empire
-- Roman Republic
-- Gran Colombia
-- Empire of Brazil — Brazilian Empire
-- Ethiopian Empire — Abyssinian Empire
-- Maurya Empire — Mauryan Empire
-- Gupta Empire — Guptas
-- Qing dynasty — Qing Empire | Manchu Empire | Qing China | Qing | Chinese Empire | Great Qing
-- Ming dynasty — Ming China | Ming Empire | Ming
-- Han dynasty — Han China | Han Empire | Han
-- Empire of Japan — Imperial Japan | Japanese Empire
-- British Raj — British India | Indian Empire
-- East Pakistan
-- French Indochina — Indochina
+- Sumer — Sumeria | Sumerians | Ancient Sumer | Sumerian civilisation | Sumerian civilization
+- Akkad — Akkadian Empire | Akkadians | Akkadia | Akkadian Kingdom
+- Troy — Ilium | Trojans | Troia | Wilusa | Ancient Troy
+- Athens — Ancient Athens | Athenian Empire | Athenian Republic | Athenians | Athenian democracy | Athenian city-state
+- Roman Republic — Republic of Rome | Res publica Romana | Ancient Roman Republic
+- Gran Colombia — Great Colombia | Greater Colombia
+- Empire of Brazil — Brazilian Empire | Imperial Brazil
+- Ethiopian Empire — Abyssinian Empire | Abyssinia | Imperial Ethiopia | Empire of Ethiopia
+- Maurya Empire — Mauryan Empire | Mauryan dynasty | Maurya dynasty
+- Gupta Empire — Guptas | Gupta dynasty
+- Qing dynasty — Qing Empire | Manchu Empire | Qing China | Qing | Chinese Empire | Great Qing | Ch'ing dynasty | Manchu dynasty | Imperial China
+- Ming dynasty — Ming China | Ming Empire | Ming | Great Ming
+- Han dynasty — Han China | Han Empire | Han | Western Han | Eastern Han
+- Empire of Japan — Imperial Japan | Japanese Empire | Great Japanese Empire | Dai Nippon Teikoku | Japanese Imperial Empire
+- British Raj — British India | Indian Empire | The Raj | British Indian Empire
+- East Pakistan — Est Pakistan | Eest Pakistan | Aest Pakistan
+- French Indochina — Indochina | Indochinese Union
 - Belgian Congo
-- Congo Free State
-- Gold Coast
-- Dutch Republic — United Provinces | Republic of the Seven United Netherlands
-- Vichy France — Vichy
-- Kingdom of France
-- Austrian Empire
-- Spanish Empire
-- First French Empire — Napoleonic Empire | French Empire
-- Grand Duchy of Lithuania
-- Nubia — Kingdom of Nubia
+- Congo Free State — Free State of the Congo | État indépendant du Congo
+- Gold Coast — Gold Coast Colony
+- Dutch Republic — United Provinces | Republic of the Seven United Netherlands | Republic of the United Provinces | Dutch United Provinces
+- Vichy France — Vichy | Vichy regime | French State | État français
+- Kingdom of France — French Kingdom | Bourbon France | Ancien Régime France | Royal France
+- Austrian Empire — Empire of Austria
+- Spanish Empire — Spanish colonial empire
+- First French Empire — Napoleonic Empire | French Empire | Napoleonic France | Empire of Napoleon | Napoleon's empire
+- Grand Duchy of Lithuania — Lithuanian Grand Duchy
+- Nubia — Kingdom of Nubia | Nubians | Nubian Kingdom
 - Qin dynasty — Qin | Qin China | Qin Empire
 - Shang dynasty — Shang
 - Zhou dynasty — Zhou
-- Hunnic Empire — Huns | Empire of the Huns
+- Hunnic Empire — Huns | Empire of the Huns | Hun Empire | Attila's empire | Hunic Empire
 - Tibet — Kingdom of Tibet
 - Kingdom of Great Britain
-- Irish Free State — Saorstát Éireann
+- Irish Free State — Saorstát Éireann | Free State
+- Portuguese Empire — Portuguese colonial empire
+- French colonial empire — French overseas empire
+- Thirteen Colonies — 13 Colonies | Thirteen American Colonies | British America | American colonies | Colonial America
 
-### Tier 4: obscure (133)
+### Tier 4: obscure (199)
 
-- Kingdom of Saxony — Saxony
-- Kingdom of Hanover — Hanover
+- Kingdom of Saxony — Saxony | Electorate of Saxony | Duchy of Saxony
+- Kingdom of Hanover — Hanover | Electorate of Hanover
 - Kingdom of Württemberg — Württemberg
-- Wallachia
+- Wallachia — Principality of Wallachia
 - Moldavia — Principality of Moldavia
 - Transylvania — Principality of Transylvania
-- Free City of Danzig — Danzig
+- Free City of Danzig — Danzig | Free City of Gdańsk
 - Republic of Ragusa — Ragusa | Dubrovnik Republic
-- Orange Free State
-- Transvaal — South African Republic
+- Orange Free State — Oranje-Vrijstaat
+- Transvaal — South African Republic | Zuid-Afrikaansche Republiek | ZAR | Transvaal Republic
 - Duchy of Warsaw
-- Novgorod Republic — Novgorod
+- Novgorod Republic — Novgorod | Novgorod the Great | Lord Novgorod the Great
 - Grand Duchy of Moscow — Muscovy | Grand Principality of Moscow
 - Tsardom of Russia
 - Khazar Khaganate — Khazaria | Khazars
 - Bulgarian Empire — First Bulgarian Empire | Second Bulgarian Empire
 - Great Moravia — Moravia
 - Kalmar Union
-- Denmark–Norway
+- Denmark–Norway — Dano-Norwegian Realm | Twin Kingdoms
 - Duchy of Savoy — Savoy
-- Duchy of Milan
+- Duchy of Milan — Milan
 - Kingdom of Naples — Naples
 - Kingdom of Sicily — Sicily
 - Republic of Florence — Florence | Florentine Republic
 - Grand Duchy of Tuscany — Tuscany
-- Kingdom of Italy
-- Visigothic Kingdom — Visigoths
-- Vandal Kingdom — Vandals
+- Kingdom of Italy — Italian Kingdom | Fascist Italy | Mussolini's Italy
+- Visigothic Kingdom — Visigoths | Kingdom of the Visigoths | Visigothic Spain | Goths | Gothic Kingdom
+- Vandal Kingdom — Vandals | Kingdom of the Vandals
 - Kingdom of Scotland
 - Kingdom of England
 - East Anglia — Kingdom of East Anglia
 - Kent — Kingdom of Kent
-- Pictland — Picts | Kingdom of the Picts
-- Duchy of Brittany — Brittany
-- Seljuk Empire — Seljuks
-- Fatimid Caliphate — Fatimids
-- Mamluk Sultanate — Mamluks
-- Timurid Empire — Timurids
-- Ptolemaic Kingdom — Ptolemaic Egypt
+- Pictland — Picts | Kingdom of the Picts | Pictavia
+- Duchy of Brittany — Brittany | Kingdom of Brittany
+- Seljuk Empire — Seljuks | Seljuq Empire | Great Seljuk Empire | Seljuk Turks | Seljuk Sultanate
+- Fatimid Caliphate — Fatimids | Fatimid Empire
+- Mamluk Sultanate — Mamluks | Mamluk Egypt | Mameluke Sultanate | Mamelukes
+- Timurid Empire — Timurids | Empire of Timur | Timur's empire | Tamerlane's empire
+- Ptolemaic Kingdom — Ptolemaic Egypt | Ptolemaic dynasty | Ptolemies
 - Kingdom of Judah — Judah
-- Nabataean Kingdom — Nabataea | Nabataeans
-- Palmyrene Empire — Palmyra
-- Lydia — Kingdom of Lydia
+- Nabataean Kingdom — Nabataea | Nabataeans | Nabatea | Nabataean Arabs
+- Palmyrene Empire — Palmyra | Kingdom of Palmyra | Zenobia's empire
+- Lydia — Kingdom of Lydia | Lydians | Lydian Kingdom
 - Scythia — Scythians
 - Dacia — Dacians
 - Thrace — Odrysian Kingdom | Thracians
 - Numidia
-- Ghana Empire — Wagadu | Kingdom of Ghana
+- Ghana Empire — Wagadu | Kingdom of Ghana | Ghana | Ancient Ghana | Empire of Ghana | Gana Empire
 - Great Zimbabwe — Kingdom of Zimbabwe
-- Kingdom of Kongo — Kongo
+- Kingdom of Kongo — Kongo | Kingdom of Congo | Kingdom of the Kongo | Kingdom of the Congo | Kongo Kingdom
 - Dahomey — Kingdom of Dahomey
 - Katanga — State of Katanga
-- Bechuanaland
+- Bechuanaland — Bechuanaland Protectorate
 - Basutoland
-- Nyasaland
+- Nyasaland — Nyasaland Protectorate
 - Northern Rhodesia
-- German East Africa
-- German South West Africa
-- French West Africa
+- German East Africa — Deutsch-Ostafrika
+- German South West Africa — Deutsch-Südwestafrika
+- French West Africa — AOF
 - British Somaliland
-- Cape Colony
-- Federal Republic of Central America — United Provinces of Central America
+- Cape Colony — Cape of Good Hope Colony | Dutch Cape Colony | Colony of the Cape of Good Hope
+- Federal Republic of Central America — United Provinces of Central America | Central American Federation
 - Mexican Empire — First Mexican Empire | Second Mexican Empire
 - New Spain — Viceroyalty of New Spain
-- New France
-- New Netherland
+- New France — Nouvelle-France | French North America
+- New Netherland — New Amsterdam | Nieuw-Nederland | New Netherlands
 - Dominion of Newfoundland — Newfoundland
-- Majapahit
-- Srivijaya
-- Ayutthaya Kingdom — Ayutthaya
-- Vijayanagara Empire — Vijayanagara
-- Maratha Empire — Marathas | Maratha Confederacy
-- Sikh Empire
-- Kingdom of Mysore — Mysore
-- Hyderabad State — Hyderabad
+- Majapahit — Majapahit Empire
+- Srivijaya — Srivijaya Empire | Sriwijaya
+- Ayutthaya Kingdom — Ayutthaya | Ayudhya | Kingdom of Ayutthaya
+- Vijayanagara Empire — Vijayanagara | Vijayanagar | Vijayanagar Empire
+- Maratha Empire — Marathas | Maratha Confederacy | Maratha Kingdom
+- Sikh Empire — Sikh Raj | Khalsa Raj | Kingdom of Punjab | Sarkar-i-Khalsa
+- Kingdom of Mysore — Mysore | Mysore Kingdom | Sultanate of Mysore
+- Hyderabad State — Hyderabad | Hyderabad Deccan | Nizam's Dominions
 - Sikkim — Kingdom of Sikkim
 - Chola Empire — Cholas | Chola dynasty
-- Dutch East Indies
+- Dutch East Indies — Netherlands East Indies | Netherlands Indies
 - Tibetan Empire
-- Tang dynasty — Tang
-- Song dynasty — Song
-- Yuan dynasty — Yuan
-- Korean Empire
-- Joseon — Chosŏn
+- Tang dynasty — Tang | Tang Empire | Tang China
+- Song dynasty — Song | Sung dynasty | Song China | Northern Song | Southern Song | Song Empire
+- Yuan dynasty — Yuan | Yuan Empire | Great Yuan
+- Korean Empire — Daehan Empire | Empire of Korea | Great Korean Empire | Korea | Unified Korea | Old Korea | Imperial Korea | Corea
+- Joseon — Chosŏn | Chosun | Joseon dynasty | Joseon Korea | Kingdom of Joseon | Yi dynasty
 - Ryukyu Kingdom — Ryukyu
-- Sultanate of Malacca — Malacca Sultanate
+- Sultanate of Malacca — Malacca Sultanate | Melaka Sultanate
 - Crimean Khanate
-- Trucial States
-- Habsburg Monarchy — Habsburg Empire
-- Mycenae — Mycenaean Greece
-- Kingdom of Egypt
-- Kingdom of Serbia — Serbian Kingdom
+- Trucial States — Trucial Oman | Trucial Coast
+- Habsburg Monarchy — Habsburg Empire | Hapsburg Monarchy | Hapsburg Empire | Habsburg Austria
+- Mycenae — Mycenaean Greece | Mycenaeans | Mycenaean civilisation | Mycenaean civilization
+- Kingdom of Egypt — Egyptian Kingdom
+- Kingdom of Serbia — Serbian Kingdom | Principality of Serbia
 - Kingdom of Georgia — Georgian Kingdom
 - Kingdom of Greece — Greek Kingdom
-- Kingdom of Bulgaria — Tsardom of Bulgaria
+- Kingdom of Bulgaria — Tsardom of Bulgaria | Principality of Bulgaria
 - Kingdom of Armenia — Armenian Kingdom | Greater Armenia
 - Essex — Kingdom of Essex | Kingdom of the East Saxons
 - Sussex — Kingdom of Sussex
 - Swedish Empire
 - Kingdom of Nepal
-- Kingdom of Iraq
-- Kingdom of Libya
+- Kingdom of Iraq — Hashemite Iraq | Hashemite Kingdom of Iraq
+- Kingdom of Libya — United Kingdom of Libya
 - Kingdom of Poland — Congress Poland
-- Jin dynasty — Jin
+- Jin dynasty — Jin | Jurchen Jin | Jin Empire
 - Kushan Empire — Kushans
 - Tuva — Tannu Tuva | Tuvan People's Republic
-- Netherlands Antilles
+- Netherlands Antilles — Dutch Antilles
 - British Honduras
 - British Guiana
 - Transjordan — Emirate of Transjordan
-- Mandatory Palestine — British Mandate of Palestine | Mandate Palestine | Palestine Mandate
-- Malaya — Federation of Malaya | British Malaya
+- Mandatory Palestine — British Mandate of Palestine | Mandate Palestine | Palestine Mandate | British Palestine
+- Malaya — Federation of Malaya | British Malaya | Malayan Union
 - New Hebrides
 - Republic of Hawaii
 - Sui dynasty — Sui
 - Kingdom of Hungary
 - Delhi Sultanate
-- Ilkhanate
+- Ilkhanate — Ilkhanid Persia
 - Pontus — Kingdom of Pontus
 - Bactria — Greco-Bactrian Kingdom
 - Thebes
 - Corinth
-- Commonwealth of England — English Commonwealth
+- Commonwealth of England — English Commonwealth | Cromwellian England | Cromwell's England
 - Emirate of Granada — Granada | Nasrid Kingdom of Granada
 - Kingdom of Albania — Albanian Kingdom
 - Kingdom of Afghanistan
 - Kingdom of Romania
 - Kingdom of Portugal
 - Kingdom of Laos
-- Kingdom of Montenegro
+- Kingdom of Montenegro — Principality of Montenegro | Prince-Bishopric of Montenegro
 - Kingdom of Iceland
 - Kingdom of Croatia — Croatian Kingdom
-- Spanish Republic — Second Spanish Republic | Republic of Spain | First Spanish Republic
+- Spanish Republic — Second Spanish Republic | Republic of Spain | First Spanish Republic | Republican Spain
+- Democratic Kampuchea — Khmer Rouge Cambodia | Khmer Rouge regime | Khmer Rouge | Kampuchea
+- Second French Empire — Second Empire | Napoleon III's France
+- French Third Republic — Third French Republic
+- German Confederation — Deutscher Bund
+- United Kingdom of Great Britain and Ireland — UK of Great Britain and Ireland
+- Protectorate of Bohemia and Moravia — Protectorate of Bohemia | Reich Protectorate
+- Polish People's Republic — People's Republic of Poland | Communist Poland | PRL
+- Independent State of Croatia — NDH
+- Italian Social Republic — Republic of Salò | Salò Republic | RSI
+- Francoist Spain — Franco's Spain | Spanish State | Francoist State | Nationalist Spain
+- Duchy of Normandy — Normandy
+- Electorate of Brandenburg — Brandenburg | Margraviate of Brandenburg | Brandenburg-Prussia
+- Grand Duchy of Baden — Baden
+- Kingdom of Cyprus — Lusignan Cyprus
+- Epirus — Kingdom of Epirus | Despotate of Epirus
+- Illyria — Illyrian kingdom | Kingdom of Illyria | Illyrian Provinces | Illyrians
+- Etruria — Etruscans | Etruscan civilisation | Etruscan civilization | Kingdom of Etruria
+- Minoan Crete — Minoans | Minoan civilisation | Minoan civilization | Knossos
+- Roman Kingdom — Kingdom of Rome
+- Republic of Artsakh — Artsakh | Nagorno-Karabakh Republic | Republic of Nagorno-Karabakh | Nagorno-Karabakh
+- Sultanate of Rum — Seljuks of Rum | Rum Sultanate
+- Rashidun Caliphate — Rashidun | Rashidun Empire
+- Sheba — Saba | Kingdom of Sheba | Kingdom of Saba | Sabaean Kingdom | Sabaeans
+- Ur — Third Dynasty of Ur | Ur III | Neo-Sumerian Empire
+- Almohad Caliphate — Almohads | Almohad Empire
+- Almoravid dynasty — Almoravids | Almoravid Empire
+- Regency of Algiers — Ottoman Algeria | Deylik of Algiers
+- Mahdist State — Mahdist Sudan | Mahdiyya
+- Anglo-Egyptian Sudan
+- Union of South Africa
+- Mali Federation — Federation of Mali
+- Senegambia Confederation — Senegambia
+- French Sudan
+- French Somaliland — French Territory of the Afars and the Issas | Afars and Issas
+- Togoland — German Togoland
+- Kamerun — German Kamerun | German Cameroon
+- Ruanda-Urundi
+- French Algeria — Algérie française
+- Durrani Empire — Afghan Empire
+- Khwarazmian Empire — Khwarezmian Empire | Khwarezm | Khwarazm | Khorezm
+- Göktürk Khaganate — Göktürks | Turkic Khaganate | First Turkic Khaganate
+- Xiongnu — Xiongnu Empire | Hsiung-nu
+- Xia dynasty — Xia
+- Taiping Heavenly Kingdom — Taiping Kingdom | Heavenly Kingdom | Taiping
+- Tokugawa shogunate — Tokugawa Japan | Edo shogunate | Edo Japan | Tokugawa
+- Sukhothai Kingdom — Sukhothai
+- Travancore — Kingdom of Travancore
+- Magadha — Kingdom of Magadha
+- British Burma — Colonial Burma
+- British Ceylon — Colonial Ceylon
+- British Hong Kong — Colonial Hong Kong | Hong Kong Colony | Colony of Hong Kong
+- Colony of Virginia — Virginia Colony
+- Plymouth Colony — Plymouth Plantation
+- Massachusetts Bay Colony
+- Russian America — Russian Alaska
+- French Louisiana — La Louisiane
+- Saint-Domingue — French Saint-Domingue
+- Colonial Brazil — Portuguese Brazil | Colony of Brazil
+- Viceroyalty of Peru
+- Viceroyalty of New Granada — New Granada | Republic of New Granada
+- Viceroyalty of the Río de la Plata — Río de la Plata
+- United Provinces of the Río de la Plata — United Provinces of South America
+- Dutch Guiana
+- Toltec Empire — Toltecs
+- Teotihuacan
+- Chimú — Kingdom of Chimor | Chimor | Chimu Empire
 
-### Tier 5: expert (102)
+### Tier 5: expert (446)
 
 - Kingdom of Westphalia
 - Confederation of the Rhine
@@ -278,10 +347,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Free State of Fiume — Fiume
 - Memel Territory — Memelland
 - Duchy of Courland — Courland
-- Livonian Confederation — Livonia
-- Teutonic Order State — State of the Teutonic Order
+- Livonian Confederation — Livonia | Terra Mariana
+- Teutonic Order State — State of the Teutonic Order | Teutonic Knights | Monastic State of the Teutonic Knights
 - Sweden-Norway
-- Lotharingia
+- Lotharingia — Middle Francia
 - Ostrogothic Kingdom — Ostrogoths
 - Kingdom of the Lombards — Lombards
 - Kingdom of Ireland
@@ -296,10 +365,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Principality of Antioch
 - Ayyubid Sultanate — Ayyubids
 - Kingdom of Hejaz — Hejaz
-- Mitanni
-- Urartu
-- Elam
-- Media — Medes
+- Mitanni — Hurrians | Mittani
+- Urartu — Urartians | Kingdom of Van
+- Elam — Elamites | Elamite Empire
+- Media — Medes | Median Empire | Median Kingdom
 - Mauretania
 - Kanem-Bornu — Kanem Empire | Bornu Empire
 - Natalia Republic
@@ -308,14 +377,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - French Equatorial Africa
 - Italian East Africa
 - Italian Somaliland
-- Kingdom of Madagascar — Merina Kingdom
+- Kingdom of Madagascar — Merina Kingdom | Kingdom of Imerina
 - Republic of Yucatán
 - Republic of the Rio Grande
 - Vermont Republic — Republic of Vermont
 - California Republic — Bear Flag Republic
 - Peru-Bolivian Confederation
 - Tikal — Mutal
-- Kingdom of Sarawak — Raj of Sarawak
+- Kingdom of Sarawak — Raj of Sarawak | Sarawak
 - Champa
 - Pagan Kingdom — Bagan
 - Kingdom of Kandy
@@ -359,7 +428,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Baekje — Paekche
 - Lan Xang
 - North German Confederation
-- Khanate of Kazan — Kazan Khanate
+- Khanate of Kazan — Kazan Khanate | Kazan
 - Bukhara — Emirate of Bukhara | Khanate of Bukhara
 - Khiva — Khanate of Khiva
 - Kingdom of Finland
@@ -372,25 +441,366 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Arab Kingdom of Syria — Kingdom of Syria
 - Mutawakkilite Kingdom of Yemen — Kingdom of Yemen
 - Kingdom of Fiji
+- French First Republic — First French Republic
+- French Second Republic — Second French Republic
+- French Fourth Republic — Fourth French Republic
+- July Monarchy — Kingdom of the French
+- Duchy of Aquitaine — Aquitaine
+- County of Toulouse
+- Duchy of Lorraine — Lorraine
+- County of Provence — Provence
+- Kingdom of Arles — Arelat | Kingdom of Burgundy-Arles
+- West Francia
+- East Francia
+- United Kingdom of the Netherlands
+- Austrian Netherlands
+- Burgundian Netherlands
+- Seventeen Provinces
+- Duchy of Brabant — Brabant
+- County of Holland
+- Prince-Bishopric of Liège — Liège
+- United Belgian States
+- Frisian Kingdom — Frisia | Magna Frisia
+- Old Swiss Confederacy — Swiss Confederacy
+- Kingdom of Alba — Alba
+- Powys — Kingdom of Powys
+- Deheubarth
+- Kingdom of the Isles — Kingdom of Mann and the Isles | Lordship of the Isles
+- Principality of Wales
+- Elmet — Kingdom of Elmet
+- Rheged
+- Gododdin — Kingdom of Gododdin
+- Dumnonia
+- Bernicia
+- Deira
+- Lordship of Ireland
+- Confederate Ireland — Irish Catholic Confederation | Confederation of Kilkenny
+- Kingdom of Dublin — Norse Dublin | Viking Dublin
+- North Sea Empire — Cnut's empire | Anglo-Scandinavian Empire
+- Icelandic Commonwealth — Icelandic Free State
+- Duchy of Schleswig — Schleswig
+- Duchy of Holstein — Holstein
+- Grand Duchy of Hesse — Hesse | Hesse-Darmstadt | Electorate of Hesse | Hesse-Kassel
+- Mecklenburg-Schwerin — Mecklenburg | Grand Duchy of Mecklenburg
+- Grand Duchy of Oldenburg — Oldenburg
+- Duchy of Brunswick — Brunswick
+- Duchy of Nassau — Nassau
+- Saxe-Coburg and Gotha — Saxe-Coburg-Gotha | Duchy of Saxe-Coburg and Gotha
+- Duchy of Anhalt — Anhalt
+- Electoral Palatinate — Palatinate | Electorate of the Palatinate
+- Free City of Frankfurt
+- Free City of Kraków — Republic of Kraków | Free City of Cracow
+- Allied-occupied Germany
+- Bavarian Soviet Republic
+- German-Austria — Republic of German-Austria
+- Slovak State — First Slovak Republic
+- Carpatho-Ukraine — Carpathian Ukraine
+- Hungarian Soviet Republic
+- Hungarian People's Republic — People's Republic of Hungary | Communist Hungary
+- Second Polish Republic — Interwar Poland
+- Socialist Republic of Romania — Communist Romania | Romanian People's Republic
+- People's Republic of Bulgaria — Communist Bulgaria
+- People's Socialist Republic of Albania — Communist Albania | People's Republic of Albania
+- Ukrainian People's Republic
+- Cossack Hetmanate — Hetmanate | Zaporozhian Host | Zaporozhian Sich
+- Galicia–Volhynia — Kingdom of Galicia–Volhynia | Kingdom of Ruthenia
+- Kingdom of Galicia and Lodomeria — Austrian Galicia
+- Vladimir-Suzdal — Grand Principality of Vladimir
+- Belarusian Democratic Republic — Belarusian People's Republic
+- Republic of Central Lithuania — Central Lithuania
+- Kingdom of Lithuania
+- Grand Duchy of Finland
+- Russian Republic
+- Republic of Serbian Krajina — Serbian Krajina | Krajina
+- Herzeg-Bosnia — Croatian Republic of Herzeg-Bosnia
+- Kingdom of Bosnia — Banate of Bosnia | Bosnian Kingdom
+- Serbian Despotate
+- Eastern Rumelia
+- United Principalities — United Principalities of Moldavia and Wallachia
+- Septinsular Republic — United States of the Ionian Islands | Ionian Islands
+- Principality of Samos
+- Despotate of the Morea — Morea | Despotate of Morea
+- Empire of Nicaea — Nicaean Empire | Nicaea
+- Principality of Achaea
+- Duchy of Athens
+- Kingdom of Thessalonica
+- Duchy of the Archipelago — Duchy of Naxos
+- Syracuse — Kingdom of Syracuse | Ancient Syracuse
+- Argos
+- Achaean League
+- Aetolian League
+- Bosporan Kingdom — Cimmerian Bosporus
+- Old Great Bulgaria — Great Bulgaria
+- Duchy of Modena — Modena | Duchy of Modena and Reggio
+- Republic of Lucca — Lucca | Duchy of Lucca
+- Republic of Pisa — Pisa
+- Republic of Siena — Siena
+- Duchy of Amalfi — Amalfi | Republic of Amalfi
+- Duchy of Mantua — Mantua
+- Duchy of Ferrara — Ferrara
+- Duchy of Urbino — Urbino
+- Ligurian Republic
+- Cispadane Republic
+- Parthenopean Republic
+- Kingdom of Lombardy–Venetia — Lombardy-Venetia
+- Italian Regency of Carnaro — Regency of Carnaro
+- Emirate of Sicily
+- Kingdom of Asturias — Asturias
+- Suebic Kingdom — Kingdom of the Suebi | Suevic Kingdom | Suebi
+- Kingdom of Majorca — Kingdom of Mallorca
+- Estado Novo — Salazar's Portugal | Second Portuguese Republic
+- First Portuguese Republic
+- Iberian Union
+- United Kingdom of Portugal, Brazil and the Algarves — United Kingdom of Portugal and Brazil
+- Domain of Soissons — Kingdom of Soissons
+- Phrygia — Kingdom of Phrygia | Phrygians
+- Bithynia — Kingdom of Bithynia
+- Cappadocia — Kingdom of Cappadocia
+- Commagene — Kingdom of Commagene
+- Galatia
+- Caria
+- Colchis — Kingdom of Colchis
+- Kingdom of Iberia — Caucasian Iberia
+- Caucasian Albania
+- Kingdom of Kartli-Kakheti
+- Kingdom of Imereti
+- Democratic Republic of Georgia
+- First Republic of Armenia
+- Azerbaijan Democratic Republic — Azerbaijan People's Republic
+- Transcaucasian Federation — Transcaucasian Democratic Federative Republic | Transcaucasian SFSR
+- Mountainous Republic of the Northern Caucasus — Mountain Republic
+- Caucasian Imamate
+- Circassia
+- Chechen Republic of Ichkeria — Ichkeria
+- Himyarite Kingdom — Himyar
+- Dilmun
+- Philistia — Philistines
+- Moab — Kingdom of Moab | Moabites
+- Edom — Kingdom of Edom | Edomites
+- Ammon — Kingdom of Ammon | Ammonites
+- Aram-Damascus — Aram | Kingdom of Aram
+- Ugarit — Kingdom of Ugarit
+- Ebla
+- Hasmonean Kingdom — Hasmoneans | Hasmonean dynasty
+- Herodian Kingdom — Herodian Judea | Kingdom of Herod
+- Uruk
+- Lagash
+- Osroene
+- Adiabene
+- Arab Federation — Hashemite Arab Federation | Arab Union
+- Emirate of Diriyah — First Saudi State
+- Emirate of Nejd — Second Saudi State
+- Emirate of Jabal Shammar — Jabal Shammar | Emirate of Ha'il
+- Colony of Aden — Aden Colony | Aden
+- Federation of South Arabia — South Arabia
+- Mandate for Syria and the Lebanon — French Mandate of Syria | Mandate Syria | French Syria
+- Mandatory Iraq — British Mandate of Mesopotamia | Mandate Iraq
+- Hatay State — Republic of Hatay | State of Hatay
+- Republic of Mahabad — Mahabad
+- Kingdom of Kurdistan
+- County of Tripoli
+- Sultanate of Egypt
+- Khedivate of Egypt — Khedivate
+- Marinid Sultanate — Marinids
+- Idrisid dynasty — Idrisids
+- Beylik of Tunis — Regency of Tunis
+- Tripolitania — Ottoman Tripolitania | Regency of Tripoli
+- Italian Libya
+- Rif Republic — Republic of the Rif
+- Tangier International Zone — Tangier Zone | International Zone of Tangier
+- French Morocco
+- Spanish Morocco
+- Garamantes — Garamantian Kingdom
+- Land of Punt — Punt
+- Kingdom of Kerma — Kerma
+- Makuria — Kingdom of Makuria
+- Alodia — Alwa
+- Nobatia
+- Zagwe dynasty
+- Adal Sultanate — Adal
+- Sultanate of Darfur — Darfur Sultanate
+- Funj Sultanate — Sultanate of Sennar | Sennar
+- Ajuran Sultanate — Ajuran
+- Somali Democratic Republic
+- Kilwa Sultanate — Kilwa
+- Mapungubwe — Kingdom of Mapungubwe
+- Rozvi Empire
+- Mthwakazi — Ndebele Kingdom | Matabeleland | Kingdom of Mthwakazi
+- Gaza Empire
+- Colony of Natal — Natal Colony | Natal
+- Ciskei
+- Venda
+- Stellaland
+- South West Africa
+- Kingdom of Luba — Luba Empire
+- Lunda Empire
+- Kuba Kingdom
+- Kingdom of Nri
+- Wassoulou Empire
+- Toucouleur Empire — Tukulor Empire
+- Bambara Empire — Ségou Empire
+- Kaabu — Kingdom of Kaabu
+- Jolof Empire — Wolof Empire
+- Union of African States
+- French Togoland
+- British Togoland
+- British Cameroons
+- French Cameroon — French Cameroun
+- Spanish Guinea
+- Portuguese Guinea
+- Portuguese Angola — Portuguese West Africa
+- Portuguese Mozambique — Portuguese East Africa
+- Ubangi-Shari — Oubangui-Chari
+- South Kasai
+- East Africa Protectorate — Kenya Colony | British East Africa
+- Ghaznavid Empire — Ghaznavids
+- Samanid Empire — Samanids
+- Buyid dynasty — Buyids
+- Zand dynasty
+- Qajar Iran — Qajar Persia | Qajar dynasty | Sublime State of Persia
+- Pahlavi Iran — Imperial State of Iran | Imperial Iran | Pahlavi dynasty
+- Uyghur Khaganate — Uighur Khaganate
+- Rouran Khaganate — Rouran
+- Qara Khitai — Kara-Khitan Khanate | Western Liao
+- Liao dynasty — Liao | Khitan Empire
+- Western Xia — Xi Xia | Tangut Empire
+- Northern Yuan
+- Dzungar Khanate — Zunghar Khanate | Dzungaria
+- Kazakh Khanate
+- Khanate of Kokand — Kokand
+- Astrakhan Khanate — Khanate of Astrakhan
+- Nogai Horde
+- Shu Han — Shu
+- Cao Wei — Wei
+- Eastern Wu — Wu
+- Northern Wei
+- Nanzhao
+- Dali Kingdom — Kingdom of Dali
+- Chinese Soviet Republic — Jiangxi Soviet
+- Kingdom of Tungning — Tungning | Dongning
+- Republic of Formosa — Formosan Republic
+- East Turkestan Republic — First East Turkestan Republic | Second East Turkestan Republic
+- Bogd Khanate of Mongolia — Bogd Khanate
+- Mongolian People's Republic — Communist Mongolia
+- Wang Jingwei regime — Reorganized National Government of China
+- Kamakura shogunate
+- Ashikaga shogunate — Muromachi shogunate
+- Gaya confederacy — Gaya | Kaya
+- Balhae — Bohai | Parhae
+- Gojoseon — Old Joseon | Kojoson
+- Lan Na — Kingdom of Lanna
+- Funan
+- Chenla
+- Đại Việt
+- Mataram Sultanate — Mataram
+- Singhasari
+- Sultanate of Sulu — Sulu Sultanate
+- Sultanate of Maguindanao
+- Konbaung dynasty — Konbaung Empire | Third Burmese Empire | Kingdom of Burma | Konbaung Burma
+- Kingdom of Ava
+- Hanthawaddy Kingdom — Hanthawaddy | Pegu
+- Mrauk U — Kingdom of Mrauk U | Arakan | Kingdom of Arakan
+- Thonburi Kingdom — Thonburi
+- Kingdom of Luang Prabang
+- State of Vietnam
+- Empire of Vietnam
+- Khmer Republic
+- People's Republic of Kampuchea
+- Annam — Protectorate of Annam
+- Tonkin — Protectorate of Tonkin
+- Cochinchina — French Cochinchina
+- Commonwealth of the Philippines — Philippine Commonwealth
+- First Philippine Republic — Malolos Republic
+- Spanish East Indies — Spanish Philippines
+- Straits Settlements
+- North Borneo — British North Borneo
+- Portuguese Timor
+- United States of Indonesia
+- Republic of South Maluku — South Maluku
+- Portuguese Macau — Portuguese Macao
+- Portuguese India — Portuguese Goa
+- French India
+- Dutch Ceylon
+- Dutch Formosa
+- Anuradhapura Kingdom — Anuradhapura
+- Polonnaruwa Kingdom — Polonnaruwa
+- Jaffna Kingdom — Kingdom of Jaffna
+- Kingdom of Kotte
+- Kosala
+- Satavahana dynasty — Satavahanas
+- Pallava dynasty — Pallavas
+- Chalukya dynasty — Chalukyas
+- Rashtrakuta dynasty — Rashtrakutas
+- Pandya dynasty — Pandyas
+- Chera dynasty — Cheras
+- Bahmani Sultanate
+- Bengal Sultanate
+- Ahom Kingdom
+- Kingdom of Manipur
+- Kamarupa
+- Junagadh State — Junagadh
+- Indo-Greek Kingdom
+- New Sweden
+- Province of Carolina
+- Roanoke Colony — Roanoke | Lost Colony
+- Dominion of New England
+- Upper Canada
+- Lower Canada
+- Province of Canada
+- Rupert's Land
+- Spanish Florida
+- Republic of West Florida — West Florida
+- State of Franklin
+- Republic of Indian Stream — Indian Stream
+- Kingdom of Araucanía and Patagonia — Araucanía
+- Riograndense Republic — Piratini Republic
+- Confederation of the Equator
+- Granadine Confederation
+- United States of Colombia
+- Captaincy General of Guatemala — Kingdom of Guatemala
+- State of Buenos Aires
+- Danish West Indies
+- Panama Canal Zone — Canal Zone
+- Mosquito Coast — Mosquito Kingdom | Miskito Kingdom | Mosquitia
+- Purépecha Empire — Tarascan State | Tarascan Empire
+- Tiwanaku — Tiahuanaco
+- Moche
+- Muisca Confederation — Muisca
+- Kingdom of Cusco — Kingdom of Cuzco
+- Neo-Inca State — Vilcabamba
+- Calakmul — Kaan | Snake Kingdom | Kingdom of the Snake
+- Mayapan — League of Mayapan
+- Copán
+- Palenque
+- Chichen Itza
+- Kʼicheʼ Kingdom — Quiché Kingdom
+- Kingdom of Tahiti — Tahiti
+- Gilbert and Ellice Islands
+- Trust Territory of the Pacific Islands
+- German New Guinea
+- Dutch New Guinea — Netherlands New Guinea
+- German Samoa
+- Tuʻi Tonga Empire — Tongan Empire
+- West Pakistan
+- Couto Misto — Couto Mixto | Coto Mixto
+- Dutch Brazil — New Holland | Nieuw Holland
+- Hutt River — Principality of Hutt River | Hutt River Province | Hutt River Principality
 
 ### Tier 6: rare jackpots (2)
 
 - Neutral Moresnet — Moresnet
 - Republic of Cospaia — Cospaia
 
-## Refused on purpose (107)
+## Refused on purpose (109)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Ceylon — "Renamed Sri Lanka in 1972. Same country, new name."
 - Siam — "Renamed Thailand in 1939. Same kingdom, new name."
-- Persia — "Iran asked the world to use its own name in 1935. Same country, though its ancient empires are another matter."
-- Abyssinia — "An old name for Ethiopia, which is still here."
 - Burma — "Officially renamed Myanmar in 1989."
 - Zaire — "Renamed the Democratic Republic of the Congo in 1997. Same country."
 - Upper Volta — "Renamed Burkina Faso in 1984."
 - Swaziland — "Renamed Eswatini in 2018."
-- Kampuchea — "An old name for Cambodia, which is still here."
 - Holland — "A region of the Netherlands, still very much there."
 - Formosa — "An old name for the island of Taiwan."
 - Czech Republic — "Still here, now usually called Czechia."
@@ -403,19 +813,20 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Maya | Mayan Empire | Mayans | Maya Empire — "Never one empire: the Maya world was a web of rival city-states."
 - Atlantis — "A legend from Plato. Nobody has found it, and the deep is not telling."
 - R'lyeh — "A sunken city from H. P. Lovecraft's stories, not a real country."
-- Narnia | Wakanda | Westeros | Middle-earth | Gondor | Ruritania | Freedonia | Panem — "Fictional."
+- Narnia | Wakanda | Westeros | Middle-earth | Gondor | Ruritania | Freedonia | Panem | Lilliput | Utopia | Shangri-La | Latveria | Sokovia | Zubrowka | Elbonia | Arstotzka | Mordor | Wonderland | Neverland | Gilead | Brobdingnag | Erewhon | Agrabah | Arendelle | Airstrip One | Oz — "Fictional."
 - Hanseatic League | Hansa — "A trading league of cities, not a country."
 - Danelaw — "A region under Viking law, not a kingdom of its own."
-- Benin — "Which Benin? The country is still here. The old kingdom, in what is now Nigeria, is not: name it in full."
-- Ghana — "Which Ghana? Today's country is still here. The old empire, far to the north-west, is not: name it in full."
-- Mali — "Still here."
 - Congo — "Two countries still carry the name."
 - Mauritania — "Still here."
 - Sealand | Principality of Sealand — "A self-declared micronation on an old sea fort, still there, more or less."
 - Mexico — "Still here. The Aztec capital, Tenochtitlan, lies beneath Mexico City."
 - Russia — "Still here. The Russian Empire and the Soviet Union, however, are not."
-- El Dorado | Lemuria | Mu | Hyperborea | Avalon | Lyonesse — "A land of legend. If it ever existed, nobody has found it."
+- El Dorado | Lemuria | Mu | Hyperborea | Avalon | Lyonesse | Camelot | Shambhala | Agartha | Kitezh — "A land of legend. If it ever existed, nobody has found it."
 - Ancient Greece | Ancient Greeks — "Never one country: a web of rival city-states."
 - Grenada — "Still here, in the Caribbean."
 - Palau — "Still here, in the Pacific."
-- Refused without a reason (near misses of real answers): Kingdom of Algeria | Kingdom of Argentina | Kingdom of Austria | Kingdom of Bahrain | Kingdom of Belize | Republic of Belize | Republic of Benin | Kingdom of Bolivia | Kingdom of Brunei | Kingdom of Canada | Kingdom of Chad | Kingdom of Chile | Kingdom of China | Republic of Costa Rica | Kingdom of Cuba | Kingdom of Dominica | Republic of France | Kingdom of Gabon | Republic of Gabon | Kingdom of Gambia | Republic of Germany | Republic of Ghana | Kingdom of Grenada | Republic of Grenada | Kingdom of Guinea | Republic of Guinea | Kingdom of Guyana | Republic of Haiti | Kingdom of India | Kingdom of Iran | Kingdom of Japan | Kingdom of Jordan | Kingdom of Kenya | Republic of Kenya | Kingdom of Kuwait | Republic of Kuwait | Republic of Laos | Kingdom of Latvia | Kingdom of Lebanon | Kingdom of Liberia | Kingdom of Malawi | Republic of Malawi | Kingdom of Malta | Kingdom of Mexico | Republic of Mexico | Kingdom of Monaco | Kingdom of Namibia | Republic of Nepal | Kingdom of Niger | Kingdom of Oman | Kingdom of Palau | Kingdom of Peru | Republic of Peru | Kingdom of Russia | Republic of Samoa | Kingdom of Senegal | Kingdom of Somalia | Kingdom of Spain | Kingdom of Sudan | Kingdom of Sweden | Kingdom of Tanzania | Kingdom of Thailand | Kingdom of Togo | Republic of Togo | Kingdom of Tonga | Republic of Tonga | Kingdom of Uganda | Republic of Uganda | Kingdom of Zambia | Kingdom of Kosovo | Republic of Sudan
+- Vikings | Viking Empire | Viking kingdom — "Raiders and traders from several kingdoms, never one country of their own."
+- Tartary | Tartaria | Great Tartary | Grand Tartary — "A vague old European name for the lands of Central and North Asia, never one country."
+- Pangaea | Pangea | Gondwana | Gondwanaland | Laurasia — "A supercontinent, millions of years before there were countries."
+- Van Diemen's Land | Van Diemen — "Renamed Tasmania in 1856. Same island, new name."
+- Refused without a reason (near misses of real answers): Kingdom of Algeria | Kingdom of Argentina | Kingdom of Austria | Kingdom of Bahrain | Kingdom of Belize | Republic of Belize | Republic of Benin | Kingdom of Bolivia | Kingdom of Brunei | Kingdom of Canada | Kingdom of Chad | Kingdom of Chile | Kingdom of China | Republic of Costa Rica | Kingdom of Cuba | Kingdom of Dominica | Republic of France | Kingdom of Gabon | Republic of Gabon | Kingdom of Gambia | Republic of Germany | Republic of Ghana | Kingdom of Grenada | Republic of Grenada | Kingdom of Guinea | Republic of Guinea | Kingdom of Guyana | Republic of Haiti | Kingdom of India | Kingdom of Iran | Kingdom of Japan | Kingdom of Jordan | Kingdom of Kenya | Republic of Kenya | Kingdom of Kuwait | Republic of Kuwait | Republic of Laos | Kingdom of Latvia | Kingdom of Lebanon | Kingdom of Liberia | Kingdom of Malawi | Republic of Malawi | Kingdom of Malta | Kingdom of Mexico | Republic of Mexico | Kingdom of Monaco | Kingdom of Namibia | Republic of Nepal | Kingdom of Niger | Kingdom of Oman | Kingdom of Palau | Kingdom of Peru | Republic of Peru | Kingdom of Russia | Republic of Samoa | Kingdom of Senegal | Kingdom of Somalia | Kingdom of Spain | Kingdom of Sudan | Kingdom of Sweden | Kingdom of Tanzania | Kingdom of Thailand | Kingdom of Togo | Republic of Togo | Kingdom of Tonga | Republic of Tonga | Kingdom of Uganda | Republic of Uganda | Kingdom of Zambia | Kingdom of Kosovo | Republic of Sudan | Bali | Haiti | Peru | Philippines

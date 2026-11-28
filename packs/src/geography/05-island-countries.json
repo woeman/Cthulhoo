@@ -1,0 +1,632 @@
+{
+ "id": "geography-island-countries",
+ "text": "Name an island country.",
+ "category": "geography",
+ "flavor": "Nations the sea holds in its arms. Some of them can already hear it rising.",
+ "rules": "Any sovereign state made up entirely of islands, even one that shares its island with a neighbour, plus the two self-governing states in free association with New Zealand. Australia counts too; territories don't.",
+ "answers": [
+  {
+   "answer": "Japan",
+   "aliases": [
+    "Nippon",
+    "Nihon"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "United Kingdom",
+   "aliases": [
+    "UK",
+    "Great Britain",
+    "Britain",
+    "GB",
+    "United Kingdom of Great Britain and Northern Ireland"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ireland",
+   "aliases": [
+    "Republic of Ireland",
+    "Éire",
+    "Irish Republic"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Iceland",
+   "tier": 1
+  },
+  {
+   "answer": "New Zealand",
+   "aliases": [
+    "NZ",
+    "Aotearoa"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Cuba",
+   "tier": 1
+  },
+  {
+   "answer": "Jamaica",
+   "tier": 1
+  },
+  {
+   "answer": "Madagascar",
+   "aliases": [
+    "Malagasy Republic"
+   ],
+   "tier": 1,
+   "lore": "The fourth-largest island on Earth."
+  },
+  {
+   "answer": "Philippines",
+   "aliases": [
+    "Pilipinas",
+    "Philippine Islands",
+    "Republic of the Philippines"
+   ],
+   "tier": 1,
+   "lore": "Officially has 7,641 islands, after a survey in 2016 found hundreds more than the old count."
+  },
+  {
+   "answer": "Indonesia",
+   "aliases": [
+    "Republic of Indonesia",
+    "Dutch East Indies"
+   ],
+   "tier": 1,
+   "lore": "The largest archipelagic state on Earth, with about 17,000 islands."
+  },
+  {
+   "answer": "Sri Lanka",
+   "aliases": [
+    "Ceylon"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Malta",
+   "tier": 1
+  },
+  {
+   "answer": "Australia",
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Geographers call it a continent, which is why Greenland is the largest island. The deep lets it pass."
+  },
+  {
+   "answer": "Cyprus",
+   "aliases": [
+    "Kypros",
+    "Republic of Cyprus"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Singapore",
+   "tier": 2
+  },
+  {
+   "answer": "Taiwan",
+   "aliases": [
+    "Republic of China",
+    "ROC",
+    "Formosa",
+    "Chinese Taipei"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Fiji",
+   "tier": 2
+  },
+  {
+   "answer": "Bahamas",
+   "tier": 2
+  },
+  {
+   "answer": "Barbados",
+   "tier": 2
+  },
+  {
+   "answer": "Maldives",
+   "aliases": [
+    "Maldive Islands"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Haiti",
+   "aliases": [
+    "Ayiti"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mauritius",
+   "tier": 2
+  },
+  {
+   "answer": "Seychelles",
+   "tier": 2
+  },
+  {
+   "answer": "Trinidad and Tobago",
+   "aliases": [
+    "Trinidad",
+    "Tobago",
+    "T&T"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dominican Republic",
+   "aliases": [
+    "DR",
+    "Dominican",
+    "República Dominicana"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bahrain",
+   "aliases": [
+    "Bahrein"
+   ],
+   "tier": 2,
+   "lore": "An archipelago in the Gulf, joined to Saudi Arabia by a causeway about 25 km long."
+  },
+  {
+   "answer": "Papua New Guinea",
+   "aliases": [
+    "PNG"
+   ],
+   "tier": 3,
+   "lore": "Shares New Guinea, the world's second-largest island, with Indonesia."
+  },
+  {
+   "answer": "Samoa",
+   "aliases": [
+    "Western Samoa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tonga",
+   "aliases": [
+    "Friendly Islands"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Solomon Islands",
+   "aliases": [
+    "Solomons"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vanuatu",
+   "aliases": [
+    "New Hebrides"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Grenada",
+   "tier": 3
+  },
+  {
+   "answer": "Saint Lucia",
+   "aliases": [
+    "St Lucia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Antigua and Barbuda",
+   "aliases": [
+    "Antigua",
+    "Barbuda"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cabo Verde",
+   "aliases": [
+    "Cape Verde",
+    "Cape Verde Islands"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Timor-Leste",
+   "aliases": [
+    "East Timor"
+   ],
+   "tier": 3,
+   "lore": "Shares Timor with Indonesia, and keeps an exclave, Oecusse, on the far side of the border."
+  },
+  {
+   "answer": "Dominica",
+   "tier": 3
+  },
+  {
+   "answer": "Comoros",
+   "aliases": [
+    "Comoro Islands"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Saint Kitts and Nevis",
+   "aliases": [
+    "St Kitts and Nevis",
+    "Saint Kitts",
+    "St Kitts",
+    "Saint Christopher and Nevis",
+    "Nevis"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Saint Vincent and the Grenadines",
+   "aliases": [
+    "St Vincent and the Grenadines",
+    "Saint Vincent",
+    "St Vincent",
+    "SVG"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kiribati",
+   "aliases": [
+    "Gilbert Islands"
+   ],
+   "tier": 4,
+   "lore": "The only country that lies in all four hemispheres."
+  },
+  {
+   "answer": "Tuvalu",
+   "aliases": [
+    "Ellice Islands"
+   ],
+   "tier": 4,
+   "lore": "Earns part of its income by renting out its internet domain, .tv."
+  },
+  {
+   "answer": "Nauru",
+   "aliases": [
+    "Pleasant Island"
+   ],
+   "tier": 4,
+   "lore": "The smallest island country, and one of the few countries with no official capital."
+  },
+  {
+   "answer": "Palau",
+   "aliases": [
+    "Belau"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Marshall Islands",
+   "aliases": [
+    "Marshalls",
+    "Republic of the Marshall Islands"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Micronesia",
+   "aliases": [
+    "Federated States of Micronesia",
+    "FSM"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "São Tomé and Príncipe",
+   "aliases": [
+    "São Tomé"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Brunei",
+   "aliases": [
+    "Brunei Darussalam"
+   ],
+   "tier": 5,
+   "lore": "Its whole territory lies on Borneo, an island it shares with Malaysia and Indonesia."
+  },
+  {
+   "answer": "Cook Islands",
+   "tier": 5,
+   "lore": "Self-governing since 1965, in free association with New Zealand. Its people carry New Zealand passports."
+  },
+  {
+   "answer": "Niue",
+   "aliases": [
+    "Savage Island"
+   ],
+   "tier": 6,
+   "lore": "One of the largest raised coral islands on Earth, home to fewer than 2,000 people. Captain Cook called it Savage Island."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Greenland",
+   "reason": "The largest island on Earth, but part of the Kingdom of Denmark."
+  },
+  {
+   "answer": "Faroe Islands",
+   "aliases": [
+    "Faroes",
+    "Faeroe Islands",
+    "Faeroes"
+   ],
+   "reason": "Self-governing, but part of the Danish realm."
+  },
+  {
+   "answer": "England",
+   "aliases": [
+    "Scotland",
+    "Wales",
+    "Northern Ireland",
+    "Anglesey",
+    "Isle of Skye",
+    "Skye",
+    "Orkney",
+    "Hebrides",
+    "Isle of Wight"
+   ],
+   "reason": "Part of the United Kingdom, which is the island country here."
+  },
+  {
+   "answer": "Isle of Man",
+   "aliases": [
+    "Jersey",
+    "Guernsey",
+    "Channel Islands",
+    "Alderney",
+    "Sark"
+   ],
+   "reason": "A Crown dependency, not a sovereign state."
+  },
+  {
+   "answer": "Bermuda",
+   "aliases": [
+    "Cayman Islands",
+    "Caymans",
+    "Turks and Caicos",
+    "British Virgin Islands",
+    "Falkland Islands",
+    "Falklands",
+    "Montserrat",
+    "Anguilla",
+    "Saint Helena",
+    "St Helena",
+    "Pitcairn Islands",
+    "Pitcairn"
+   ],
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Puerto Rico",
+   "aliases": [
+    "Guam",
+    "US Virgin Islands",
+    "Northern Mariana Islands",
+    "Virgin Islands"
+   ],
+   "reason": "A territory of the United States, not a sovereign state."
+  },
+  {
+   "answer": "American Samoa",
+   "reason": "A territory of the United States. Its western neighbour is another matter."
+  },
+  {
+   "answer": "Hawaii",
+   "reason": "A US state, out in the Pacific."
+  },
+  {
+   "answer": "New Caledonia",
+   "aliases": [
+    "French Polynesia",
+    "Tahiti",
+    "Réunion",
+    "Martinique",
+    "Guadeloupe",
+    "Mayotte",
+    "Wallis and Futuna"
+   ],
+   "reason": "Part of France overseas, not a sovereign state."
+  },
+  {
+   "answer": "Aruba",
+   "aliases": [
+    "Curaçao",
+    "Sint Maarten",
+    "Saint Martin",
+    "Bonaire"
+   ],
+   "reason": "A country within the Kingdom of the Netherlands, not a sovereign state."
+  },
+  {
+   "answer": "Hong Kong",
+   "aliases": [
+    "Macau",
+    "Macao"
+   ],
+   "reason": "A special administrative region of China, not a sovereign state."
+  },
+  {
+   "answer": "Tokelau",
+   "reason": "A territory of New Zealand, not a self-governing state."
+  },
+  {
+   "answer": "Zanzibar",
+   "reason": "Part of Tanzania since 1964."
+  },
+  {
+   "answer": "Bougainville",
+   "reason": "Voted for independence in 2019, but is still an autonomous region, not yet a country."
+  },
+  {
+   "answer": "Northern Cyprus",
+   "aliases": [
+    "TRNC",
+    "North Cyprus"
+   ],
+   "reason": "Recognised as a country only by Turkey."
+  },
+  {
+   "answer": "Sealand",
+   "aliases": [
+    "Principality of Sealand"
+   ],
+   "reason": "A wartime sea fort off the Suffolk coast that calls itself a principality. Nobody else agrees."
+  },
+  {
+   "answer": "Atlantis",
+   "reason": "Legend says it sank. The deep is not saying."
+  },
+  {
+   "answer": "Tasmania",
+   "reason": "A state of Australia, not a country of its own."
+  },
+  {
+   "answer": "Sicily",
+   "aliases": [
+    "Sardinia",
+    "Corsica",
+    "Crete",
+    "Majorca",
+    "Mallorca",
+    "Ibiza",
+    "Tenerife",
+    "Gran Canaria",
+    "Rhodes",
+    "Corfu",
+    "Capri",
+    "Elba",
+    "Gotland",
+    "Bornholm",
+    "Svalbard",
+    "Åland",
+    "Socotra",
+    "Hainan",
+    "Zealand"
+   ],
+   "reason": "An island, but part of a country with a mainland."
+  },
+  {
+   "answer": "Bali",
+   "aliases": [
+    "Sumatra",
+    "Sulawesi",
+    "Lombok",
+    "Flores",
+    "Komodo",
+    "Sumba"
+   ],
+   "reason": "An island of Indonesia, not a country of its own."
+  },
+  {
+   "answer": "Canary Islands",
+   "aliases": [
+    "Canaries",
+    "Azores",
+    "Madeira",
+    "Balearic Islands",
+    "Balearics"
+   ],
+   "reason": "Islands that belong to Spain or Portugal, not countries of their own."
+  },
+  {
+   "answer": "Christmas Island",
+   "aliases": [
+    "Norfolk Island",
+    "Cocos Islands",
+    "Cocos (Keeling) Islands",
+    "Lord Howe Island"
+   ],
+   "reason": "Australian, not a country of its own."
+  },
+  {
+   "answer": "Okinawa",
+   "aliases": [
+    "Hokkaido",
+    "Honshu",
+    "Kyushu",
+    "Shikoku"
+   ],
+   "reason": "Part of Japan."
+  },
+  {
+   "answer": "Borneo",
+   "reason": "An island shared by three countries, not a country itself."
+  },
+  {
+   "answer": "Hispaniola",
+   "reason": "An island shared by two countries. Name one of them."
+  },
+  {
+   "answer": "New Guinea",
+   "reason": "An island shared by two countries. Name one of them."
+  },
+  {
+   "answer": "Timor",
+   "reason": "An island shared by two countries. Name one of them."
+  },
+  {
+   "answer": "Denmark",
+   "reason": "Hundreds of islands, but Jutland joins it to the mainland."
+  },
+  {
+   "answer": "Malaysia",
+   "reason": "Half of it is on Borneo, but the other half is on the mainland."
+  },
+  {
+   "answer": "Equatorial Guinea",
+   "reason": "Its old capital, Malabo, is on an island, but most of the country is on the mainland, where a new capital was declared in 2026."
+  },
+  {
+   "answer": "Tanzania",
+   "reason": "Zanzibar is islands, but the rest of the country is mainland."
+  },
+  {
+   "answer": "Greece",
+   "aliases": [
+    "Italy",
+    "Norway",
+    "Croatia",
+    "Chile",
+    "Canada",
+    "Estonia",
+    "Sweden",
+    "Finland",
+    "Spain",
+    "France",
+    "Scotland mainland"
+   ],
+   "reason": "Plenty of islands, but a mainland too."
+  },
+  {
+   "answer": "Antarctica",
+   "reason": "A continent, and nobody's country."
+  }
+ ],
+ "decoys": [
+  "Western Sahara",
+  "Juba",
+  "Nice"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"island-countries\" on 28 November 2026."
+}

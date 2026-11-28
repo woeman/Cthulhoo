@@ -1,0 +1,82 @@
+id: economics-types-of-goods
+text: Name a type of good in economics.
+flavor: Everything can be sorted, labelled and priced. Almost everything. Do not ask about the rest.
+rules: Any category economists sort goods and services into, such as the kind people buy less of as they grow richer.
+section: Microeconomics
+---
+1 Public good | Public goods | Public | Pure public good
+1 Private good | Private goods | Private
+1 Luxury good | Luxury | Luxuries | Luxury goods | Superior good
+1 Necessity | Necessities | Necessity good | Essential good | Essentials | Needs | Basic goods | Staples
+1 Substitute | Substitutes | Substitute good | Substitute goods
+1 Complement | Complements | Complementary good | Complementary goods | Complementary
+2 Normal good | Normal goods | Normal
+2 Inferior good | Inferior goods | Inferior
+2 Consumer good | Consumer goods | Consumption good | Final good | Final goods | Consumer
+2 Capital good | Capital goods | Producer good | Producer goods | Capital | Investment good | Investment goods
+2 Merit good | Merit goods | Merit
+2 Demerit good | Demerit goods | Demerit | Sin goods | Bads
+2 Free good | Free goods | Free
+2 Economic good | Economic goods | Scarce good | Scarce goods
+2 Durable good | Durable goods | Durables | Consumer durables | Hard goods
+2 Non-durable good | Non-durable goods | Nondurable goods | Nondurables | Perishables | Perishable goods | Consumables | Soft goods | Non-durables | Fast-moving consumer goods | FMCG
+2 Services | Service | Intangible goods | Intangibles
+2 Giffen good | Giffen goods | Giffen
+2 Veblen good | Veblen goods | Veblen | Status good | Conspicuous consumption good | Prestige good | Snob good
+2 Intermediate good | Intermediate goods | Intermediate | Inputs | Raw materials | Semi-finished goods
+3 Common resource | Common-pool resource | Common goods | Common good | Commons | Common pool resource | Common property resource | Common resources
+3 Club good | Club goods | Toll good | Toll goods | Artificially scarce good | Natural monopoly good
+3 Commodity | Commodities | Homogeneous good | Homogeneous goods | Standardised goods
+3 Differentiated good | Differentiated product | Differentiated goods | Heterogeneous goods | Branded goods
+3 Tradable good | Tradables | Traded goods | Exports | Imports | Tradeable goods | Export goods | Import goods
+3 Non-tradable good | Non-tradables | Nontradables | Non-traded goods
+3 Rival good | Rivalrous good | Rival | Rivalrous
+3 Non-rival good | Non-rivalrous good | Non-rival | Nonrival
+3 Excludable good | Excludable
+3 Non-excludable good | Non-excludable | Nonexcludable
+3 Positional good | Positional goods
+3 Experience good | Experience goods
+3 Search good | Search goods | Inspection good
+3 Credence good | Credence goods | Post-experience good
+3 Information good | Information goods | Digital good | Digital goods
+3 Network good | Network goods
+3 Convenience good | Convenience goods | Impulse goods | Impulse good
+3 Shopping good | Shopping goods | Comparison goods
+3 Specialty good | Speciality good | Specialty goods | Speciality goods
+3 Unsought good | Unsought goods
+3 White goods | Whitegoods | Brown goods
+3 Wage good | Wage goods
+3 Composite good
+3 Independent goods | Unrelated goods | Independent good
+3 Joint goods | Joint products | Joint supply | By-product
+3 Global public good | Global public goods | Local public good
+3 Impure public good | Quasi-public good | Quasi public good | Mixed good
+3 Relational good | Relational goods
+3 Ordinary good | Ordinary goods
+3 Second-hand goods | Used goods | Lemons | Lemon
+3 Counterfeit goods | Knock-offs | Black market goods | Contraband
+3 Dual-use goods | Dual use goods | Strategic goods
+3 Fungible good | Fungible goods | Fungible
+3 Staple good | Staple
+3 Primary goods | Secondary goods | Tertiary goods | Manufactured goods | Primary products | Agricultural goods
+3 Anti-rival good | Antirival good
+3 Collective good | Social good | Collective goods | Social goods
+4 Hedonic good | Utilitarian good | Hedonic goods
+4 Sticky-price goods | Flex-price goods
+4 Bandwagon good | Bandwagon goods
+4 Addictive good | Addictive goods | Habit-forming goods
+4 Status symbol
+4 Neutral good | Neutral goods
+4 Gross substitutes | Gross complements | Net substitutes | Perfect substitutes | Perfect complements | Hicksian substitutes
+4 Inferior input | Normal input
+4 Exhaustible resource | Non-renewable resource | Renewable resource | Natural resources
+4 Clubs and local public goods | Tiebout good
+4 Aspirational good | Aspirational goods
+6 Fictitious commodity | Fictitious commodities :: Karl Polanyi's 1944 name for land, labour and money: things bought and sold as if they were made for sale, though none of them was.
+4 Gift | Gifts
+4 Heritage good | Cultural good | Cultural goods
+6 Repugnant good | Repugnant market | Taboo goods | Repugnant goods :: Nobel laureate Alvin Roth's term for things many think should never be sold even when buyer and seller agree: kidneys, votes, horse meat in California.
+x Good | Goods | Product | Products | Item | Thing | Stuff | Type :: Which kind? Economists have many labels: name one.
+x Food | Bread | Rice | Potatoes | Cars | Phones | Water | Air | Petrol | Diamonds | Clothes | Houses | Gold | Lighthouse | Roads | National defence | Street lighting :: That is an example of a good. Name the category an economist would put it in.
+x Demand | Supply | Elasticity | Utility | Price | Market | Scarcity :: A concept, not a type of good.
+x Bad good | Good good | Evil good :: Not a category, though some shops do make you wonder.

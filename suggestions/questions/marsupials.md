@@ -6,127 +6,149 @@ Rules: Any marsupial, living or extinct, as a group or a single species.
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (124 answers)
+## Accepted now (293 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (6)
 
-- Kangaroo — Roo | Kangaroos
-- Koala — Koala bear
-- Wombat
-- Wallaby
-- Opossum
-- Tasmanian Devil — Devil | Taz | Tassie Devil
+- Kangaroo — Roo | Kangaroos | Kanga | Kangas | Joey | Joeys | Kangaru | Kangoroo | Kangarroo | Kanguroo | Gangaroo | Kangooroo | Känguru | Kangourou | Canguro | Canguru | Boomer | Flyer | Old man kangaroo | Old man roo | Big roo | Skippy | Skippy the bush kangaroo | Kangro
+- Koala — Koala bear | Native bear | Kaola | Phascolarctos | Phascolarctos cinereus | Koaler | Kowalla
+- Wombat — Vombatus | Vombatidae | Vombatid
+- Wallaby — Wallabee | Wallabie | Wallabees | Wallabi | Wallabys | Wolaby | Wallerby
+- Opossum — Opposum | Opposums | American opossum | Didelphid | Didelphidae
+- Tasmanian Devil — Devil | Taz | Tassie Devil | Tas devil | Sarcophilus | Sarcophilus harrisii | Tazzy devil | Tazzie devil
 
 ### Tier 2: common (11)
 
-- Possum
-- Sugar Glider
-- Quokka
-- Thylacine — Tasmanian Tiger | Tasmanian Wolf | Marsupial Wolf | Tassie Tiger
-- Bandicoot
-- Numbat — Banded Anteater
-- Bilby — Rabbit-eared Bandicoot | Greater Bilby
-- Wallaroo — Euro
-- Tree Kangaroo
-- Quoll — Native Cat
-- Grey Kangaroo — Gray Kangaroo
+- Possum — Australian possum | Posom
+- Sugar Glider — Glider | Gliders | Gliding possum | Petaurus | Petaurus breviceps
+- Quokka — Kwokka | Setonix | Setonix brachyurus | Quoker | Quokker | Quaka
+- Thylacine — Tasmanian Tiger | Tasmanian Wolf | Marsupial Wolf | Tassie Tiger | Thylacinus | Thylacinus cynocephalus | Marsupial tiger | Tassie wolf
+- Bandicoot — Crash Bandicoot | Peramelid | Peramelidae | Bandicute | Bandycute
+- Numbat — Banded Anteater | Walpurti | Myrmecobius | Myrmecobius fasciatus
+- Bilby — Rabbit-eared Bandicoot | Greater Bilby | Bilbie | Dalgyte | Easter bilby | Macrotis | Macrotis lagotis
+- Wallaroo — Euro | Common wallaroo | Eastern wallaroo | Hill kangaroo | Osphranter | Osphranter robustus | Wallaru
+- Tree Kangaroo — Tree roo | Dendrolagus | Tree kanga
+- Quoll — Native Cat | Dasyure | Dasyurus | Kwoll
+- Grey Kangaroo — Gray Kangaroo | Grey roo | Gray roo | Grey kanga
 
 ### Tier 3: known to fans (29)
 
-- Red Kangaroo
-- Eastern Grey Kangaroo
-- Western Grey Kangaroo
-- Pademelon
-- Potoroo
-- Bettong
-- Rat-kangaroo
-- Dunnart
+- Red Kangaroo — Big red | Red roo | Osphranter rufus | Macropus rufus | Blue flyer
+- Eastern Grey Kangaroo — Eastern Gray Kangaroo | Eastern grey | Great grey kangaroo | Forester | Forester kangaroo | Macropus giganteus
+- Western Grey Kangaroo — Western Gray Kangaroo | Western grey | Mallee kangaroo | Black-faced kangaroo | Sooty kangaroo | Kangaroo Island kangaroo | Macropus fuliginosus
+- Pademelon — Thylogale
+- Potoroo — Potorous
+- Bettong — Bettongia
+- Rat-kangaroo — Potoroid | Potoroidae
+- Dunnart — Sminthopsis
 - Antechinus
 - Phascogale
-- Cuscus
-- Ringtail Possum
-- Brushtail Possum — Common Brushtail Possum
-- Pygmy Possum
-- Honey Possum
-- Feathertail Glider
-- Greater Glider
-- Squirrel Glider
-- Marsupial Mole
-- Virginia Opossum — North American opossum
-- Diprotodon — Giant wombat
-- Thylacoleo — Marsupial Lion
-- Procoptodon — Giant short-faced kangaroo
-- Rock-wallaby
-- Swamp Wallaby
-- Hairy-nosed Wombat
-- Red-necked Wallaby — Bennett's Wallaby
-- Macropod — Macropods
+- Cuscus — Couscous | Cuscuses
+- Ringtail Possum — Ringtail | Ring-tailed possum | Pseudocheirid
+- Brushtail Possum — Common Brushtail Possum | Brushtail | Brush-tailed possum | Trichosurus | Trichosurus vulpecula
+- Pygmy Possum — Cercartetus | Burramyid
+- Honey Possum — Noolbenger | Tarsipes | Tarsipes rostratus
+- Feathertail Glider — Feather-tailed glider | Pygmy glider | Flying mouse | Acrobates | Acrobates pygmaeus
+- Greater Glider — Southern greater glider | Central greater glider | Northern greater glider | Petauroides
+- Squirrel Glider — Petaurus norfolcensis
+- Marsupial Mole — Notoryctes
+- Virginia Opossum — North American opossum | Virginian opossum | Didelphis | Didelphis virginiana
+- Diprotodon — Giant wombat | Diprotodon optatum
+- Thylacoleo — Marsupial Lion | Thylacoleo carnifex
+- Procoptodon — Giant short-faced kangaroo | Short-faced kangaroo | Procoptodon goliah
+- Rock-wallaby — Petrogale
+- Swamp Wallaby — Black wallaby | Black-tailed wallaby | Wallabia | Wallabia bicolor
+- Hairy-nosed Wombat — Lasiorhinus
+- Red-necked Wallaby — Bennett's Wallaby | Notamacropus rufogriseus | Macropus rufogriseus
+- Macropod — Macropods | Macropus | Macropodid | Macropodidae
 - Marsupial Mouse — Marsupial Mice
 
-### Tier 4: obscure (39)
+### Tier 4: obscure (61)
 
-- Antilopine Kangaroo
-- Spotted-tailed Quoll — Tiger Quoll | Spot-tailed Quoll
-- Eastern Quoll
-- Northern Quoll
-- Chuditch — Western Quoll
-- Bridled Nail-tail Wallaby
-- Parma Wallaby
-- Tammar Wallaby
-- Agile Wallaby
-- Hare-wallaby
-- Water Opossum — Yapok
-- Shrew Opossum
-- Mouse Opossum
-- Woolly Opossum
-- Four-eyed Opossum
-- Short-tailed Opossum
-- Lumholtz's Tree-kangaroo
-- Goodfellow's Tree-kangaroo
-- Dingiso
-- Northern Hairy-nosed Wombat
-- Southern Hairy-nosed Wombat
-- Common Wombat
-- Leadbeater's Possum
+- Antilopine Kangaroo — Antilopine wallaroo | Antelope kangaroo | Osphranter antilopinus
+- Spotted-tailed Quoll — Tiger Quoll | Spot-tailed Quoll | Tiger cat | Dasyurus maculatus
+- Eastern Quoll — Dasyurus viverrinus
+- Northern Quoll — Dasyurus hallucatus
+- Chuditch — Western Quoll | Dasyurus geoffroii
+- Bridled Nail-tail Wallaby — Flashjack | Onychogalea fraenata
+- Parma Wallaby — White-throated wallaby | Notamacropus parma
+- Tammar Wallaby — Tammar | Dama wallaby | Notamacropus eugenii
+- Agile Wallaby — Sandy wallaby | Notamacropus agilis
+- Hare-wallaby — Lagorchestes
+- Water Opossum — Yapok | Yapock | Chironectes | Chironectes minimus
+- Shrew Opossum — Caenolestid | Caenolestes
+- Mouse Opossum — Murine opossum | Marmosa
+- Woolly Opossum — Caluromys
+- Four-eyed Opossum — Philander
+- Short-tailed Opossum — Monodelphis
+- Lumholtz's Tree-kangaroo — Dendrolagus lumholtzi
+- Goodfellow's Tree-kangaroo — Ornate tree-kangaroo | Dendrolagus goodfellowi
+- Dingiso — Bondegezou | Dendrolagus mbaiso
+- Northern Hairy-nosed Wombat — Yaminon | Lasiorhinus krefftii
+- Southern Hairy-nosed Wombat — Lasiorhinus latifrons
+- Common Wombat — Bare-nosed wombat | Coarse-haired wombat | Vombatus ursinus
+- Leadbeater's Possum — Fairy possum | Gymnobelideus
 - Mountain Pygmy Possum — Burramys
-- Scaly-tailed Possum
-- Striped Possum
-- Spotted Cuscus
-- Bear Cuscus
-- Long-nosed Bandicoot
-- Kowari
-- Mulgara
-- Kultarr
+- Scaly-tailed Possum — Wyulda
+- Striped Possum — Dactylopsila
+- Spotted Cuscus — Common spotted cuscus | Spilocuscus | Spilocuscus maculatus
+- Bear Cuscus — Sulawesi bear cuscus | Ailurops
+- Long-nosed Bandicoot — Perameles | Perameles nasuta
+- Kowari — Dasyuroides | Dasyuroides byrnei
+- Mulgara — Dasycercus
+- Kultarr — Antechinomys
 - Planigale
 - Ningaui
 - Zygomaturus
-- Palorchestes
-- Toolache Wallaby
-- Eastern Barred Bandicoot
-- Common Opossum
+- Palorchestes — Marsupial tapir
+- Toolache Wallaby — Grey's wallaby | Notamacropus greyi
+- Eastern Barred Bandicoot — Perameles gunnii
+- Common Opossum — Black-eared opossum | Southern opossum | Didelphis marsupialis
+- Phalanger — Phalangers | Phalangerid | Phalangeridae
+- Dasyurid — Dasyurids | Dasyuridae | Carnivorous marsupial
+- Nail-tail Wallaby — Onychogalea
+- Black Wallaroo — Bernard's wallaroo | Osphranter bernardus
+- Yellow-footed Rock-wallaby — Ring-tailed rock-wallaby | Petrogale xanthopus
+- Brush-tailed Rock-wallaby — Petrogale penicillata
+- Whiptail Wallaby — Whip-tailed wallaby | Pretty-face wallaby | Pretty-faced wallaby | Notamacropus parryi
+- Tasmanian Pademelon — Red-bellied pademelon | Rufous-bellied pademelon | Thylogale billardierii
+- Red-legged Pademelon — Thylogale stigmatica
+- Red-necked Pademelon — Thylogale thetis
+- Long-nosed Potoroo — Potorous tridactylus
+- Rufous Bettong — Rufous rat-kangaroo | Aepyprymnus | Aepyprymnus rufescens
+- Common Ringtail Possum — Common ringtail | Pseudocheirus peregrinus
+- Western Ringtail Possum — Ngwayir | Pseudocheirus occidentalis
+- Mountain Brushtail Possum — Bobuck | Short-eared possum | Short-eared brushtail possum | Trichosurus cunninghami
+- Eastern Pygmy Possum — Cercartetus nanus
+- Brown Antechinus — Antechinus stuartii
+- Gray Short-tailed Opossum — Grey short-tailed opossum | Laboratory opossum | Monodelphis domestica
+- White-eared Opossum — Didelphis albiventris
+- Southern Brown Bandicoot — Quenda | Brown bandicoot | Isoodon obesulus
+- Northern Brown Bandicoot — Isoodon macrourus
+- Southern Marsupial Mole — Itjaritjari | Notoryctes typhlops
 
-### Tier 5: expert (37)
+### Tier 5: expert (184)
 
-- Dibbler
+- Dibbler — Parantechinus
 - Woylie — Brush-tailed Bettong
 - Boodie — Burrowing Bettong
-- Musky Rat-kangaroo
+- Musky Rat-kangaroo — Hypsiprymnodon
 - Long-footed Potoroo
 - Gilbert's Potoroo
-- Rufous Hare-wallaby — Mala
+- Rufous Hare-wallaby — Mala | Lagorchestes hirsutus
 - Banded Hare-wallaby
 - Crescent Nail-tail Wallaby
 - Desert Rat-kangaroo
-- Mahogany Glider
-- Yellow-bellied Glider
+- Mahogany Glider — Petaurus gracilis
+- Yellow-bellied Glider — Fluffy glider | Petaurus australis
 - Lemuroid Ringtail Possum
 - Green Ringtail Possum
-- Rock Ringtail Possum
-- Lesser Bilby
-- Western Barred Bandicoot
-- Golden Bandicoot
+- Rock Ringtail Possum — Rock-haunting possum | Rock possum | Wogoit
+- Lesser Bilby — Yallara
+- Western Barred Bandicoot — Marl
+- Golden Bandicoot — Isoodon auratus
 - Wambenger — Brush-tailed Phascogale | Tuan
 - Mardo — Yellow-footed Antechinus
 - Dusky Antechinus
@@ -137,7 +159,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wongai Ningaui
 - Nimbadon
 - Wynyardia
-- Ekaltadeta
+- Ekaltadeta — Killer kangaroo | Killer rat-kangaroo
 - Propleopus
 - Sthenurus
 - Simosthenurus
@@ -146,19 +168,166 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Warrendja
 - Ngapakaldia
 - Yalkaparidon
+- Northern Nail-tail Wallaby — Sandy nail-tail wallaby | Onychogalea unguifera
+- Black-footed Rock-wallaby — Black-flanked rock-wallaby | Warru | Petrogale lateralis
+- Allied Rock-wallaby
+- Mareeba Rock-wallaby
+- Proserpine Rock-wallaby
+- Purple-necked Rock-wallaby
+- Short-eared Rock-wallaby
+- Godman's Rock-wallaby
+- Cape York Rock-wallaby
+- Herbert's Rock-wallaby
+- Unadorned Rock-wallaby
+- Rothschild's Rock-wallaby
+- Monjon — Petrogale burbidgei
+- Nabarlek — Little rock-wallaby | Petrogale concinna
+- Spectacled Hare-wallaby
+- Eastern Hare-wallaby
+- Central Hare-wallaby
+- Dusky Pademelon — Thylogale brunii
+- Brown's Pademelon
+- Calaby's Pademelon
+- Mountain Pademelon
+- Forest Wallaby — Dorcopsis | New Guinean forest wallaby
+- Lesser Forest Wallaby — Dorcopsulus | Macleay's dorcopsis
+- Western Brush Wallaby — Black-gloved wallaby | Notamacropus irma
+- Black-striped Wallaby — Notamacropus dorsalis
+- Matschie's Tree-kangaroo — Huon tree-kangaroo | Dendrolagus matschiei
+- Bennett's Tree-kangaroo — Dendrolagus bennettianus
+- Doria's Tree-kangaroo
+- Grizzled Tree-kangaroo
+- Lowlands Tree-kangaroo
+- Tenkile — Scott's tree-kangaroo | Dendrolagus scottae
+- Golden-mantled Tree-kangaroo
+- Seri's Tree-kangaroo
+- Wondiwoi Tree-kangaroo
+- Ursine Tree-kangaroo
+- Northern Bettong — Bettongia tropica
+- Tasmanian Bettong — Eastern bettong | Bettongia gaimardi
+- Nullarbor Dwarf Bettong
+- Broad-faced Potoroo
+- Northern Brushtail Possum — Trichosurus arnhemensis
+- Northern Common Cuscus — Phalanger orientalis
+- Southern Common Cuscus — Phalanger mimicus
+- Ground Cuscus — Phalanger gymnotis
+- Silky Cuscus
+- Mountain Cuscus
+- Black-spotted Cuscus
+- Sulawesi Dwarf Cuscus
+- Herbert River Ringtail Possum
+- Daintree River Ringtail Possum
+- Coppery Ringtail Possum
+- Plush-coated Ringtail Possum
+- Moss-forest Ringtail Possum
+- Krefft's Glider — Petaurus notatus
+- Savanna Glider — Petaurus ariel
+- Northern Glider — Petaurus abidi
+- Feather-tailed Possum — Distoechurus
+- Western Pygmy Possum
+- Little Pygmy Possum
+- Long-tailed Pygmy Possum
+- New Guinea Quoll — New Guinean quoll | Dasyurus albopunctatus
+- Bronze Quoll — Dasyurus spartacus
+- Crest-tailed Mulgara — Ampurta | Dasycercus cristicauda
+- Brush-tailed Mulgara — Dasycercus blythi
+- Kaluta — Little red kaluta | Dasykaluta
+- Agile Antechinus
+- Swamp Antechinus
+- Silver-headed Antechinus
+- Black-tailed Antechinus
+- Fawn Antechinus
+- Buff-footed Antechinus
+- Subtropical Antechinus
+- Atherton Antechinus
+- Cinnamon Antechinus
+- False Antechinus — Pseudantechinus
+- Fat-tailed False Antechinus
+- Northern Brush-tailed Phascogale
+- Long-tailed Planigale
+- Common Planigale
+- Narrow-nosed Planigale
+- Paucident Planigale
+- Pilbara Ningaui
+- Southern Ningaui
+- Common Dunnart
+- Stripe-faced Dunnart
+- White-footed Dunnart
+- Sandhill Dunnart
+- Little Long-tailed Dunnart
+- Hairy-footed Dunnart
+- Grey-bellied Dunnart
+- Red-cheeked Dunnart
+- Long-tailed Dunnart
+- Ooldea Dunnart
+- Chestnut Dunnart
+- Gilbert's Dunnart
+- Carpentarian Dunnart
+- Slender-tailed Dunnart
+- Speckled Dasyure — Neophascogale
+- Three-striped Dasyure — Myoictis
+- Short-furred Dasyure — Murexia
+- Broad-striped Dasyure
+- Desert Bandicoot
+- Spiny Bandicoot — Echymipera
+- Mouse Bandicoot — Microperoryctes
+- Striped Bandicoot
+- Giant Bandicoot
+- Raffray's Bandicoot
+- Rufous Spiny Bandicoot
+- Seram Bandicoot
+- Northern Marsupial Mole — Kakarratul | Notoryctes caurinus
+- Big-eared Opossum — Didelphis aurita
+- Andean White-eared Opossum
+- Guianan White-eared Opossum
+- Gray Four-eyed Opossum — Grey four-eyed opossum | Philander opossum
+- Brown Four-eyed Opossum — Metachirus
+- Lutrine Opossum — Little water opossum | Thick-tailed opossum | Lutreolina
+- Bare-tailed Woolly Opossum
+- Black-shouldered Opossum — Caluromysiops
+- Bushy-tailed Opossum — Glironia
+- Mexican Mouse Opossum
+- Robinson's Mouse Opossum
+- Woolly Mouse Opossum
+- Slender Opossum — Marmosops
+- Fat-tailed Opossum — Fat-tailed mouse opossum | Thylamys
+- Elegant Fat-tailed Opossum
+- Gracile Opossum — Gracilinanus
+- Patagonian Opossum — Lestodelphys
+- Long-nosed Shrew Opossum — Chilean shrew opossum | Rhyncholestes
+- Incan Shrew Opossum — Peruvian shrew opossum | Lestoros
+- Wakaleo
+- Priscileo
+- Microleo
+- Nimbacinus
+- Litokoala
+- Ramsayia
+- Euowenia
+- Euryzygoma
+- Hulitherium
+- Maokopia
+- Neohelos
+- Silvabestius
+- Borungaboodie
+- Bohra
+- Balbaroo
+- Nambaroo
+- Ganguroo
+- Djarthia
+- Argyrolagus
 
 ### Tier 6: rare jackpots (2)
 
 - Pig-footed Bandicoot — Chaeropus
 - Monito del Monte — Dromiciops | Colocolo opossum
 
-## Refused on purpose (10)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Platypus — "A monotreme, a mammal that lays eggs. Not a marsupial."
 - Echidna | Spiny anteater — "A monotreme, an egg-laying mammal. Not a marsupial."
-- Kangaroo rat — "A North American rodent. It only borrows the name."
+- Kangaroo rat | Kangaroo mouse — "A North American rodent. It only borrows the name."
 - Flying squirrel — "A rodent. The sugar glider is its marsupial lookalike."
 - Drop bear — "A legend Australians tell tourists. Probably."
 - Dingo — "A wild dog, not a marsupial."
@@ -166,3 +335,14 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Raccoon — "A placental mammal, though it raids the same bins as the opossum."
 - Kiwi — "A flightless bird, not a marsupial."
 - Thylacosmilus | Marsupial sabretooth | Marsupial saber-tooth — "A sabre-toothed sparassodont: a close cousin of the marsupials, not quite one of them."
+- Marsupial | Marsupials | Marsupialia | Metatheria — "That's the whole group. Name one of them."
+- Marsupial frog | Pouched frog — "A frog that carries its eggs in a pouch. Not a marsupial."
+- Seahorse — "The father carries the young in a pouch, but it's a fish."
+- Bandicoot rat — "An Asian rat that only borrows the name."
+- Hopping mouse — "An Australian rodent. It hops, but has no pouch."
+- Flying fox | Fruit bat — "A fruit bat, not a marsupial, though Australia has plenty of them."
+- Megalania — "A giant lizard of Ice Age Australia, not a marsupial."
+- Emu | Emus — "A bird. It shares Australia's coat of arms with the kangaroo, but not the pouch."
+- Kookaburra — "A bird. No pouch, though it laughs as if it knew better."
+- Cockatoo | Galah | Cassowary | Lyrebird | Magpie — "A bird. Feathers, yes. Pouch, no."
+- Crocodile | Croc | Saltie | Goanna | Frill-necked lizard | Blue-tongue lizard | Snake — "A reptile. Australia has plenty of those too."

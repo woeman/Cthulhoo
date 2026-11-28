@@ -1,0 +1,148 @@
+{
+ "packs": [
+  {
+   "id": "finance",
+   "name": "Finance",
+   "title": "The Ledger of Drowned Fortunes",
+   "blurb": "Markets, listed companies, banks, ratios and the people who moved them.",
+   "order": 1,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "finance.json",
+   "prompts": 16,
+   "answers": 10904
+  },
+  {
+   "id": "economics",
+   "name": "Economics",
+   "title": "The Invisible Hand Below",
+   "blurb": "Economists, indicators, taxes, trade and the institutions that steer it all.",
+   "order": 2,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "economics.json",
+   "prompts": 14,
+   "answers": 1717
+  },
+  {
+   "id": "ethics",
+   "name": "Business Ethics",
+   "title": "The Weighing of Souls",
+   "blurb": "Moral philosophy, scandals, fallacies, watchdogs and doing the right thing.",
+   "order": 3,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "ethics.json",
+   "prompts": 13,
+   "answers": 1539
+  },
+  {
+   "id": "anatomy",
+   "name": "Anatomy",
+   "title": "The Flesh Remembers",
+   "blurb": "Bones, muscles, organs, nerves, hormones and the cells that build a body.",
+   "group": "Science",
+   "order": 4,
+   "asOf": "2026-11-28",
+   "file": "anatomy.json",
+   "prompts": 10,
+   "answers": 1421
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "title": "The Alchemist's Residue",
+   "blurb": "Elements, compounds, gases, alloys, glassware and the people who mixed them.",
+   "group": "Science",
+   "order": 5,
+   "asOf": "2026-11-28",
+   "file": "chemistry.json",
+   "prompts": 10,
+   "answers": 1486
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "title": "The Edges of the Map",
+   "blurb": "Countries, capitals, rivers, ranges, seas and every corner of Australia.",
+   "group": "Humanities",
+   "order": 6,
+   "asOf": "2026-11-28",
+   "file": "geography.json",
+   "prompts": 18,
+   "answers": 3040
+  },
+  {
+   "id": "languages",
+   "name": "Languages",
+   "title": "The Unspeakable Tongues",
+   "blurb": "Living and dead languages, scripts, grammar, borrowed words and First Languages.",
+   "group": "Languages",
+   "order": 7,
+   "asOf": "2026-11-28",
+   "file": "languages.json",
+   "prompts": 17,
+   "answers": 3663
+  },
+  {
+   "id": "history",
+   "name": "History",
+   "title": "What the Dead Remember",
+   "blurb": "Wars, rulers, revolutions, explorers and the makers of modern Australia.",
+   "group": "Humanities",
+   "order": 8,
+   "asOf": "2026-11-28",
+   "file": "history.json",
+   "prompts": 14,
+   "answers": 3837
+  },
+  {
+   "id": "accounting",
+   "name": "Accounting",
+   "title": "The Book That Must Balance",
+   "blurb": "Accounts, source documents, principles, methods, audits and the firms that sign off.",
+   "group": "Business",
+   "order": 9,
+   "asOf": "2026-11-28",
+   "file": "accounting.json",
+   "prompts": 7,
+   "answers": 468
+  },
+  {
+   "id": "marketing",
+   "name": "Marketing",
+   "title": "The Whisper in the Aisle",
+   "blurb": "Brands, slogans, channels, pricing and the arts of persuasion.",
+   "group": "Business",
+   "order": 10,
+   "asOf": "2026-11-28",
+   "file": "marketing.json",
+   "prompts": 8,
+   "answers": 868
+  },
+  {
+   "id": "law",
+   "name": "Business Law",
+   "title": "The Fine Print",
+   "blurb": "Courts, contracts, torts, statutes, landmark cases and the shapes a business can take.",
+   "group": "Business",
+   "order": 11,
+   "asOf": "2026-11-28",
+   "file": "law.json",
+   "prompts": 8,
+   "answers": 730
+  },
+  {
+   "id": "psychology",
+   "name": "Psychology",
+   "title": "The Locked Room of the Mind",
+   "blurb": "Thinkers, disorders, emotions, famous experiments and the wiring behind them.",
+   "group": "Science",
+   "order": 12,
+   "asOf": "2026-11-28",
+   "file": "psychology.json",
+   "prompts": 9,
+   "answers": 1243
+  }
+ ]
+}

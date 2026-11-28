@@ -1,0 +1,132 @@
+id: marketing-generic-brands
+text: Name a brand name that people use as the everyday word for the thing.
+flavor: The greatest victory a brand can win is also how it dies: its name becomes the word.
+rules: Any trade mark, living or lapsed, that became the common name for a product or an action.
+section: Brands
+---
+1 Band-Aid | Bandaid | Band Aid
+1 Esky
+1 Google | Googling | Google it
+1 Texta
+1 Glad Wrap | Gladwrap | Glad
+1 Kleenex
+1 Velcro
+1 Hoover | Hoovering
+2 Biro
+2 Sellotape | Sticky tape | Scotch tape | Durex
+2 Thermos
+2 Blu Tack | Blu-Tack | Blutack
+2 Jacuzzi
+2 Frisbee
+2 Lycra
+2 Post-it | Post-it note | Post it | Post-its
+2 Photoshop | Photoshopped
+2 Tupperware
+2 Jet Ski | Jetski
+2 Panadol
+3 Uber
+3 Zoom
+3 Dettol
+2 Vaseline
+3 Coke
+2 Xerox
+2 Aspirin
+5 Escalator :: A trade mark of the Otis Elevator Company until 1950, when a US ruling found Otis's own advertisements had used it as an ordinary word.
+2 Jeep
+2 Kiwi | Nugget
+2 Stanley knife
+2 Doona :: An Australian brand of quilt from the 1970s. Elsewhere it is a duvet, but not here.
+2 Zipper | Zip
+2 Liquid Paper | Tipp-Ex | Tippex | Wite-Out | Twink
+2 Stubby | Stubbies
+2 Ugg | Ugg boots
+2 Windex
+2 Ajax | Jif
+2 Chux
+2 Spakfilla | Spackle | Polyfilla
+3 Rollerblade | Rollerblades | Rollerblading
+3 Bubble Wrap | Bubblewrap
+3 Ping-Pong | Ping pong
+3 Play-Doh | Playdough | Play Doh | Plasticine
+3 Lego
+3 Walkman
+3 iPad | iPod
+3 GoPro
+3 Taser
+3 Sharpie
+3 Tarmac | Tarmacadam
+3 Yo-yo | Yoyo
+5 Kerosene :: Registered as a trade mark in 1854 by Abraham Gesner, the Canadian geologist who first distilled it. From the Greek for wax.
+6 Heroin :: A Bayer trade mark, launched in 1898 as a cough remedy and said to be non-addictive. Bayer lost the name, with Aspirin, after the First World War.
+6 Dry ice :: Trade-marked in 1925 by the DryIce Corporation of America for solid carbon dioxide. The company is gone. The name stayed.
+3 Cellophane
+3 Linoleum | Lino
+3 Laundromat | Laundrette
+3 Dumpster
+3 Zimmer frame | Zimmer
+3 Lilo
+3 Portaloo | Porta-loo | Porta Potti | Port-a-loo
+3 Styrofoam
+3 Teflon
+3 Nylon
+3 Kevlar
+3 Gore-Tex | Goretex
+3 Perspex | Plexiglas | Plexiglass
+3 Formica | Laminex
+3 Masonite
+3 Gyprock | Gib board
+3 Colorbond
+3 Besser block | Besser brick
+3 Hills Hoist
+3 Victa
+3 Whipper snipper | Whipper-snipper | Weed Eater | Strimmer
+3 Dremel
+3 Rawlplug | Rawl plug | Dynabolt | Ramset | Loxon
+3 Araldite | Superglue | Super Glue | Tarzan's Grip | Selleys
+3 Clag
+3 Snaplock | Ziploc | Zip-lock | Ziplock
+3 Alfoil | Al-foil
+3 Popsicle | Icy Pole | Zooper Dooper | Paddle Pop | Icypole
+3 Jello | Jell-O
+3 Speedos | Speedo | Budgie smugglers
+3 Crocs
+3 Dr Martens | Docs | Doc Martens
+3 Chapstick | ChapStick | Lip balm
+3 Q-tip | Q-tips | Cotton bud
+3 Viagra
+3 Botox
+3 Ventolin
+3 Valium
+3 Mortein | Aerogard | Rid
+3 Ratsak
+3 Roundup
+3 WD-40 | WD40
+3 Brillo | Steelo | Jex
+3 Dustbuster | Dyson | Roomba
+3 Crock-Pot | Crockpot
+3 Pyrex | CorningWare
+3 Winnebago
+3 Kombi
+3 Caterpillar | Bobcat
+3 Jaws of Life
+3 Breathalyser | Breathalyzer
+3 Polaroid
+3 Technicolor | Technicolour
+3 Dictaphone
+3 Rolodex
+3 Filofax
+3 Tannoy
+3 Muzak
+3 Jumbotron
+3 Memory stick | Memory Stick
+3 PowerPoint
+3 Skype | FaceTime | Facetime
+3 Tweet | Twitter
+3 Netflix | Netflix and chill
+3 Segway
+3 Hula hoop | Hula-Hoop
+3 Rubik's cube | Rubiks cube
+3 Astroturf | AstroTurf
+3 Zamboni
+x Vacuum | Tissue | Plaster | Cooler | Marker | Search | Pen | Tape | Cling wrap | Sticky note | Felt pen :: That is the plain word. Give the brand name people say instead.
+x Apple | Nike | Toyota | McDonald's | Samsung | Qantas | Woolworths | Coles | Telstra | Amazon :: A famous brand, but nobody uses its name to mean the thing itself.

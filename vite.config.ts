@@ -1,4 +1,5 @@
 import { defineConfig, type Plugin } from 'vitest/config';
+import { classPacks } from './build/class-packs.mjs';
 
 // Public files that are not part of the bundle but belong in the offline cache.
 const PUBLIC_FILES = [
@@ -32,11 +33,13 @@ function serviceWorker(): Plugin {
     name: 'cthulhoo-service-worker',
     apply: 'build',
     generateBundle(_options, bundle) {
-      const built = Object.keys(bundle).filter((f) => !f.endsWith('.map'));
+      // Class packs are fetched when asked for, never kept with the game's own files.
+      const built = Object.keys(bundle).filter((f) => !f.endsWith('.map') && !f.startsWith('packs/'));
       const files = ['./', ...[...built, ...PUBLIC_FILES].map((f) => `./${f}`)];
       const version = fnv(files.join('|'));
-      const source = `// Generated at build time. Network first for the page, cache first for hashed files.
+      const source = `// Generated at build time. Network first for the page and the class packs, cache first for hashed files.
 const CACHE = 'cthulhoo-${version}';
+const PACKS = 'cthulhoo-packs';
 const FILES = ${JSON.stringify(files)};
 
 self.addEventListener('install', (event) => {
@@ -47,7 +50,7 @@ self.addEventListener('activate', (event) => {
   event.waitUntil(
     caches
       .keys()
-      .then((keys) => Promise.all(keys.filter((k) => k.startsWith('cthulhoo-') && k !== CACHE).map((k) => caches.delete(k))))
+      .then((keys) => Promise.all(keys.filter((k) => k.startsWith('cthulhoo-') && k !== CACHE && k !== PACKS).map((k) => caches.delete(k))))
       .then(() => self.clients.claim()),
   );
 });
@@ -72,6 +75,23 @@ self.addEventListener('fetch', (event) => {
           return res;
         })
         .catch(() => caches.match('./', MATCH)),
+    );
+    return;
+  }
+  // Music streams straight from the host: the files are large, and a player asks for them in ranges.
+  if (url.pathname.includes('/music/')) return;
+  // A class pack: the newest when the network has it, the last one fetched when it does not.
+  if (url.pathname.includes('/packs/')) {
+    event.respondWith(
+      Promise.race([fetch(req), slow(8000)])
+        .then((res) => {
+          if (res.ok) {
+            const copy = res.clone();
+            caches.open(PACKS).then((c) => c.put(url.pathname, copy));
+          }
+          return res;
+        })
+        .catch(() => caches.open(PACKS).then((c) => c.match(url.pathname)).then((hit) => hit || Response.error())),
     );
     return;
   }
@@ -101,7 +121,7 @@ self.addEventListener('fetch', (event) => {
 // everything loaded on demand (the specimen plates) goes into the one script.
 export default defineConfig(({ mode }) => ({
   base: './',
-  plugins: [serviceWorker()],
+  plugins: [...(mode === 'artifact' ? [] : [classPacks()]), serviceWorker()],
   build: {
     target: 'es2020',
     outDir: 'dist',

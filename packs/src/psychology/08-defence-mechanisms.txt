@@ -1,0 +1,116 @@
+id: psychology-biases-defences
+text: Name a defence mechanism or a cognitive bias.
+flavor: The mind lies to itself all day, kindly and expertly. It is doing it now.
+rules: Any way the mind protects itself from discomfort, or any systematic error in how people think and judge.
+section: Cognition
+---
+1 Denial | In denial
+1 Confirmation bias | Myside bias
+1 Repression | Suppression | Repressed memories
+1 Projection
+1 Placebo effect | Placebo
+1 Stereotyping | Stereotype | Prejudice | Bias
+2 Rationalisation | Rationalization | Making excuses
+2 Displacement
+2 Regression
+2 Sublimation
+2 Halo effect | Horns effect
+2 Hindsight bias | Knew-it-all-along
+2 Dunning-Kruger effect | Dunning-Kruger | Dunning Kruger
+2 Bystander effect | Diffusion of responsibility
+2 Groupthink | Herd mentality | Bandwagon effect | Conformity | Herd behaviour
+2 Anchoring | Anchoring bias
+2 Cognitive dissonance
+2 Sunk cost fallacy | Sunk cost
+2 Self-serving bias
+2 Optimism bias | Wishful thinking
+2 Gambler's fallacy
+2 Humour | Humor | Joking
+2 Avoidance | Withdrawal | Escapism
+2 Intellectualisation | Intellectualization
+2 Reaction formation
+2 Compensation | Overcompensation
+2 Fantasy | Daydreaming
+2 Dissociation
+2 Acting out
+2 Passive aggression | Passive-aggression | Passive aggressive
+2 Identification | Introjection
+2 Negativity bias
+2 Availability heuristic | Availability bias
+2 Fundamental attribution error | Attribution error | Correspondence bias
+2 In-group bias | Ingroup bias | Us and them | Out-group homogeneity
+2 Framing effect | Framing
+2 Loss aversion
+2 Status quo bias
+2 Survivorship bias
+2 Recency bias | Recency effect | Primacy effect | Serial position effect
+2 Overconfidence | Overconfidence effect | Overconfidence bias
+2 Impostor syndrome | Imposter syndrome
+2 Stockholm syndrome
+3 Splitting | Black-and-white thinking | All-or-nothing thinking
+3 Undoing
+3 Isolation of affect | Isolation | Compartmentalisation | Compartmentalization
+3 Idealisation | Idealization | Devaluation
+3 Altruism
+3 Anticipation
+3 Somatisation | Somatization | Conversion
+3 Projective identification
+3 Minimisation | Minimization | Catastrophising | Catastrophizing
+3 Just-world hypothesis | Just world fallacy | Victim blaming | Just-world bias
+3 Actor-observer bias
+3 False consensus effect
+3 Spotlight effect
+5 Barnum effect | Forer effect :: Believing that a vague description, true of nearly anyone, was written just for you. It is how horoscopes work.
+3 Mere exposure effect | Familiarity principle
+3 Endowment effect
+3 IKEA effect
+3 Decoy effect
+3 Zeigarnik effect
+3 Pygmalion effect | Self-fulfilling prophecy | Golem effect
+3 Hawthorne effect | Observer effect | Demand characteristics | Social desirability bias
+3 Representativeness heuristic | Base rate neglect | Base rate fallacy | Conjunction fallacy
+3 Affect heuristic
+3 Planning fallacy
+3 Illusory correlation | Clustering illusion | Apophenia | Pareidolia
+3 Illusion of control
+3 Illusory superiority | Lake Wobegon effect | Better-than-average effect
+3 Belief perseverance | Backfire effect
+3 Authority bias
+3 Hot-hand fallacy | Hot hand
+3 Choice-supporting bias | Post-purchase rationalisation
+3 Curse of knowledge
+3 Bias blind spot
+3 Peak-end rule
+3 Rosy retrospection | Declinism
+3 Present bias | Hyperbolic discounting
+3 Omission bias
+3 Zero-risk bias
+3 Scarcity effect | Scarcity heuristic | Reactance
+3 Salience bias | Von Restorff effect | Attentional bias
+3 Baader-Meinhof phenomenon | Frequency illusion
+3 Mandela effect | False memory | Cryptomnesia | Misinformation effect
+6 Semmelweis reflex :: Rejecting new evidence because it contradicts what everyone knows. Named for the doctor who showed in 1847 that washing hands saved mothers, and was ignored.
+4 Ostrich effect
+4 Pessimism bias | Normalcy bias
+4 Naive realism
+4 Third-person effect
+4 Cheerleader effect
+4 Ben Franklin effect
+4 Pratfall effect
+4 Google effect | Digital amnesia
+4 Streetlight effect
+4 Texas sharpshooter fallacy
+4 Law of the instrument | Maslow's hammer
+4 Not invented here
+4 Parkinson's law of triviality | Bikeshedding
+6 Abilene paradox :: A family drives 85 kilometres through Texas heat to a dinner none of them wanted, each going along because they thought the others were keen. Named in 1974.
+4 Pluralistic ignorance
+4 Moral licensing
+4 System justification
+4 Ultimate attribution error
+4 Trait ascription bias
+4 Telescoping effect
+4 Women are wonderful effect
+4 Lady Macbeth effect
+x Lying | Crying | Sleeping | Fighting | Running away | Drinking | Eating :: A behaviour, perhaps a telling one, but not a named mechanism or bias.
+x Defence mechanism | Bias | Cognitive bias | Ego | Id | Superego | Unconscious | Freud | Heuristic :: Which one? Name it.

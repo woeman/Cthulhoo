@@ -12,6 +12,8 @@ import {
   NAME_MAX,
   SECONDS_CHOICES,
   SPEAK_MAX,
+  TOPIC_NAMES_MAX,
+  TOPIC_NAME_MAX,
   type CandlePrompt,
   type CandleResult,
   type ErrorCode,
@@ -118,6 +120,7 @@ export const publicPrompt = (p: PromptDef): CandlePrompt => ({
   category: p.category,
   ...(p.rules ? { rules: p.rules } : {}),
   ...(p.flavor ? { flavor: p.flavor } : {}),
+  ...(p.topic ? { topic: p.topic } : {}),
 });
 
 /**
@@ -158,6 +161,19 @@ const str = (v: unknown, max: number): string | undefined => (typeof v === 'stri
 const strs = (v: unknown, max: number, count: number): string[] =>
   (Array.isArray(v) ? v : []).filter((x): x is string => typeof x === 'string' && !!x.trim() && x.length <= max).slice(0, count);
 
+/**
+ * The most the relay takes for one question. The bank's lists are long (1,300
+ * answers to one question, 700 spellings of one answer), and an answer the relay
+ * drops is a right answer refused, so these sit far above the bank. What really
+ * bounds a question is the size of the message that carries it (see the relay).
+ */
+export const ANSWERS_MAX = 8000;
+export const SPELLINGS_MAX = 2000;
+export const TRAPS_MAX = 2000;
+export const DECOYS_MAX = 4000;
+/** The longest one answer or spelling may be. A listed security's full name runs past 150 characters. */
+export const WORDS_MAX = 200;
+
 /** Questions sent by the medium's device, checked and cut to size: the relay trusts nobody's JSON. */
 export function cleanPrompts(list: unknown, max: number): PromptDef[] {
   const out: PromptDef[] = [];
@@ -168,24 +184,25 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
     const text = str(r.text, 300);
     if (!id || !text || !Array.isArray(r.answers)) continue;
     const answers: AnswerDef[] = [];
-    for (const a of r.answers.slice(0, 800)) {
+    for (const a of r.answers.slice(0, ANSWERS_MAX)) {
       if (!a || typeof a !== 'object') continue;
       const ar = a as Record<string, unknown>;
-      const answer = str(ar.answer, 120);
+      const answer = str(ar.answer, WORDS_MAX);
       const tier = typeof ar.tier === 'number' && Number.isFinite(ar.tier) ? Math.max(1, Math.min(6, Math.round(ar.tier))) : 0;
-      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, 120, 40), tier });
+      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, WORDS_MAX, SPELLINGS_MAX), tier });
     }
     if (!answers.length) continue;
     const traps: TrapDef[] = [];
-    for (const t of Array.isArray(r.traps) ? r.traps.slice(0, 200) : []) {
+    for (const t of Array.isArray(r.traps) ? r.traps.slice(0, TRAPS_MAX) : []) {
       if (!t || typeof t !== 'object') continue;
       const tr = t as Record<string, unknown>;
-      const answer = str(tr.answer, 120);
+      const answer = str(tr.answer, WORDS_MAX);
       const reason = str(tr.reason, 300);
-      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, 120, 40), reason });
+      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, WORDS_MAX, SPELLINGS_MAX), reason });
     }
     const rules = str(r.rules, 300);
     const flavor = str(r.flavor, 300);
+    const topic = str(r.topic, 40);
     out.push({
       id,
       text,
@@ -194,8 +211,9 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
       ...(flavor ? { flavor } : {}),
       answers,
       traps,
-      decoys: strs(r.decoys, 120, 400),
+      decoys: strs(r.decoys, WORDS_MAX, DECOYS_MAX),
       ...(r.exact === true ? { exact: true } : {}),
+      ...(topic ? { topic } : {}),
     });
   }
   return out;
@@ -208,14 +226,16 @@ export function cleanDepths(v: unknown): number[] | null {
   return out.some(Number.isNaN) ? null : [0, ...out.slice(1)];
 }
 
-/** A name as the circle will see it: no control or direction characters, no runs of spaces. */
-export function cleanName(raw: unknown): string {
-  return String(raw ?? '')
+/** Text as a room will show it: no control or direction characters, no runs of spaces. */
+const tidy = (raw: unknown): string =>
+  String(raw ?? '')
     .replace(/[\u0000-\u001f\u007f-\u009f\u200b-\u200f\u2028-\u202e\u2060-\u206f\ufeff]/g, '')
     .replace(/\s+/g, ' ')
-    .trim()
-    .slice(0, NAME_MAX)
     .trim();
+
+/** A name as the circle will see it: tidied, and cut to length. */
+export function cleanName(raw: unknown): string {
+  return tidy(raw).slice(0, NAME_MAX).trim();
 }
 
 const NUMERALS = ['II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII'];
@@ -235,6 +255,18 @@ export function cleanConfig(candles: unknown, seconds: unknown): SeanceConfig | 
   const c = (CANDLE_CHOICES as readonly number[]).includes(candles as number) ? (candles as number) : null;
   const s = (SECONDS_CHOICES as readonly number[]).includes(seconds as number) ? (seconds as number) : null;
   return c && s ? { candles: c, seconds: s } : null;
+}
+
+/** The topic names a medium sent, cleaned as names are. Undefined when none were sent at all (an older copy of the game). */
+export function cleanTopicNames(v: unknown): string[] | undefined {
+  if (!Array.isArray(v)) return undefined;
+  const out: string[] = [];
+  for (const x of v) {
+    const name = typeof x === 'string' ? tidy(x) : '';
+    if (name && name.length <= TOPIC_NAME_MAX && !out.includes(name)) out.push(name);
+    if (out.length >= TOPIC_NAMES_MAX) break;
+  }
+  return out;
 }
 
 // -------------------------------------------------------------------- a room
@@ -335,13 +367,15 @@ export function leave(room: Room, id: string, now: number): void {
 
 const mediumOnly = (room: Room, actor: string) => (mediumOf(room) === actor ? null : fail('medium', 'Only the medium can do that.'));
 
-export function configure(room: Room, actor: string, candles: unknown, seconds: unknown, now: number): Outcome {
+export function configure(room: Room, actor: string, candles: unknown, seconds: unknown, now: number, topics?: unknown): Outcome {
   const no = mediumOnly(room, actor);
   if (no) return no;
   if (room.phase !== 'lobby') return fail('phase', 'The candles are already lit.');
   const cfg = cleanConfig(candles, seconds);
   if (!cfg) return fail('bad', 'That is not a way to hold a séance.');
-  room.config = cfg;
+  // A copy of the game from before topics sends none: what the room shows then stays as it was.
+  const names = cleanTopicNames(topics) ?? room.config.topics ?? [];
+  room.config = names.length ? { ...cfg, topics: names } : cfg;
   room.touched = now;
   return { ok: true };
 }

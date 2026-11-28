@@ -1,0 +1,147 @@
+id: economics-taxes
+text: Name a type of tax or government charge.
+flavor: Two things are certain. The other one, at least, only comes for you once.
+rules: Any kind of tax, duty, levy, excise or tariff, Australian or foreign, current or abolished.
+section: Government
+---
+1 Income tax | Personal income tax | PAYG | PAYG withholding | PAYE | Pay as you go | Individual income tax | Tax on income
+1 GST | Goods and services tax | Goods and Services Tax
+1 Company tax | Corporate tax | Corporation tax | Corporate income tax | Business tax | Company income tax
+1 Capital gains tax | CGT | Capital gains
+1 Stamp duty | Transfer duty | Stamp tax | Land transfer duty | Stamp duties
+1 Tariff | Tariffs | Customs duty | Import duty | Import tax | Customs duties | Import tariff | Customs | Duty | Duties
+2 Fringe benefits tax | FBT | Fringe benefit tax
+2 Land tax | Land value tax | LVT
+2 Payroll tax
+2 Medicare levy | Medicare levy surcharge | Medicare
+2 Excise | Excise duty | Fuel excise | Fuel tax | Petrol tax | Excise tax | Alcohol excise | Tobacco excise | Petrol excise | Alcohol tax | Tobacco tax | Cigarette tax | Beer tax | Beer excise | Sin tax
+2 Carbon tax | Carbon price | Carbon pricing | Emissions tax
+2 VAT | Value added tax | Value-added tax
+2 Sales tax | Wholesale sales tax | Retail sales tax
+2 Council rates | Rates | Property tax | Local rates | Municipal rates
+2 Inheritance tax | Death duties | Estate tax | Death tax | Death duty | Estate duty | Probate duty | Succession duty
+2 Wealth tax | Net wealth tax | Billionaire tax
+2 Luxury car tax | LCT | Luxury tax
+2 Superannuation tax | Super tax | Contributions tax | Division 293 | Superannuation contributions tax | Superannuation guarantee charge
+2 Mining tax | Minerals Resource Rent Tax | MRRT | Resource Super Profits Tax | RSPT | Resource rent tax | Super profits tax
+2 Sugar tax | Soft drink tax | Soda tax
+3 Petroleum resource rent tax | PRRT
+3 Wine equalisation tax | WET | Wine tax
+3 Withholding tax | Dividend withholding tax | Interest withholding tax | Royalty withholding tax | Non-resident withholding tax
+3 Royalties | Mining royalties | Royalty | Mineral royalties
+3 Poll tax | Head tax | Community charge | Capitation
+3 Flat tax
+3 Progressive tax | Regressive tax | Proportional tax | Marginal tax
+3 Windfall tax | Windfall profits tax | Excess profits tax
+3 Financial transactions tax | Tobin tax | Robin Hood tax | Transaction tax | Bank transaction tax
+3 Bank levy | Major bank levy
+3 Gift tax | Gift duty
+3 Tourist tax | Passenger movement charge | Departure tax | Airport tax | Bed tax | Visitor levy
+3 Congestion charge | Congestion tax | Road user charge | Road tax | Tolls | Toll
+3 Vehicle registration | Rego | Registration fee | Motor vehicle duty | Motor vehicle tax
+3 Emergency services levy | Fire services levy | Fire levy
+3 Temporary budget repair levy | Budget repair levy | Deficit levy
+3 Flood levy
+3 Gun buyback levy
+3 Ansett levy | Ticket tax
+3 HECS | HELP debt | HECS-HELP | Graduate tax
+3 Foreign buyer surcharge | Foreign purchaser duty | Vacancy tax | Vacant residential land tax | Foreign investor surcharge
+3 Digital services tax | Google tax | Diverted profits tax | Multinational anti-avoidance law | Global minimum tax | Pillar Two
+3 Social security tax | National Insurance | Social security contributions | FICA | National Insurance contributions
+3 Consumption tax | Expenditure tax
+3 Export duty | Export tax
+3 Window tax | Daylight robbery
+3 Salt tax | Gabelle
+3 Tea tax | Stamp Act
+3 Tithe | Tithes
+3 Zakat | Jizya
+3 Betting tax | Gambling tax | Wagering tax | Point of consumption tax | Gaming tax | Casino tax
+3 Plastic bag levy | Waste levy | Landfill levy | Container deposit
+3 Insurance duty | Insurance levy | Insurance tax
+3 Parking levy | Parking space levy
+3 Training levy | Apprenticeship levy | Skilling Australians Fund levy
+3 Dog licence | Licence fees | TV licence | Television licence
+3 Tampon tax
+3 Fat tax | Junk food tax
+3 Mansion tax
+3 Bedroom tax
+3 Negative income tax
+3 Pigouvian tax | Pigovian tax | Externality tax
+3 Lump-sum tax | Lump sum tax
+3 Ad valorem tax | Specific tax | Indirect tax | Direct tax
+3 Betterment tax | Developer contributions | Windfall gains tax | Infrastructure levy
+3 Undistributed profits tax | Division 7A
+3 Franking deficit tax
+3 Alternative minimum tax | Minimum tax
+3 Exit tax | Expatriation tax
+3 Capital transfer tax | Capital acquisitions tax
+3 Tonnage tax | Tonnage
+3 Carbon border adjustment | CBAM | Border tax | Border adjustment tax
+3 Anti-dumping duty | Countervailing duty | Dumping duty
+4 Hearth tax | Chimney money
+4 Scutage | Shield money
+4 Danegeld
+4 Ship money
+4 Corvée | Corvee
+6 Beard tax :: Peter the Great taxed beards from 1698 to make Russians look European. Those who paid carried a token reading: the beard is a superfluous burden.
+4 Hat tax
+4 Wig powder tax | Hair powder tax
+4 Glass tax
+4 Brick tax
+4 Wallpaper tax
+4 Soap tax
+4 Candle tax
+4 Clock tax
+4 Playing card tax | Card tax
+4 Newspaper tax | Taxes on knowledge
+4 Corn Laws
+4 Octroi
+4 Taille
+4 Vingtième
+4 Dîme
+4 Likin
+4 Tallage
+4 Carucage
+4 Heriot
+4 Peter's Pence
+4 Queen Anne's Bounty
+4 Selective employment tax
+4 Purchase tax
+4 Petroleum revenue tax
+4 Advance corporation tax
+4 Schedular tax | Schedule A
+4 Development land tax
+4 Bachelor tax | Bachelor's tax
+4 Cowardice tax
+6 Urine tax | Vectigal urinae :: The emperor Vespasian taxed the urine collected from Rome's public toilets and sold to tanners. Asked if it shamed him, he said: money does not stink.
+4 Cooking oil tax
+4 Jock tax
+4 Crack tax | Illegal drug tax
+4 Tanning tax
+4 Cow flatulence tax | Fart tax
+4 Rain tax
+4 Sunlight tax | Sun tax
+4 Breast tax | Mulakkaram
+4 Kharaj
+4 Khums
+4 Ushr
+4 Chauth
+4 Zamindari
+4 Hut tax
+6 Gold licence | Miner's licence | Miner's right | Gold export duty | Gold licence fee | Miners licence :: At first thirty shillings a month to dig, gold or no gold. Hatred of it led to the Eureka Stockade at Ballarat in December 1854.
+4 Chinese poll tax | Chinese head tax | Immigration restriction tax
+4 Entertainment tax | Amusement tax
+4 Bank account debits tax | BAD tax | Financial institutions duty | FID | Debits tax
+4 Wool tax | Wool levy
+4 Primary industry levy | Agricultural levy
+4 Wheat tax
+4 Flour tax
+4 Tobacco licence fee | Business franchise fees
+4 Training guarantee levy
+4 Superannuation surcharge
+4 Tax on unearned income | Property income surcharge
+4 Federal land tax
+x Tax | Taxes | Taxation | Levy | Direct taxes | Indirect taxes :: Which one? Name a particular tax.
+x Tax return | Tax refund | Tax file number | TFN | ABN | Tax deduction | Deductions | Tax offset | Negative gearing | Franking credits | Tax bracket | Tax-free threshold | BAS :: Part of the tax system, but not a tax itself.
+x ATO | Australian Taxation Office | IRS | HMRC | Treasury | Centrelink :: The collector, not the tax.
+x Fine | Fines | Speeding fine | Parking fine | Interest | Rent | Mortgage | Bills | Fees :: A cost of living, perhaps, but not a tax.

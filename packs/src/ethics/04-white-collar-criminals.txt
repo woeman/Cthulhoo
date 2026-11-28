@@ -1,0 +1,99 @@
+id: ethics-white-collar-criminals
+text: Name someone convicted of a major fraud or financial crime.
+flavor: They all had excellent handwriting and steady hands. The sums were perfect, right to the end.
+rules: Anyone convicted of, or who pleaded guilty to, fraud, insider trading or a similar white-collar crime. Surnames alone are fine.
+section: Cases
+---
+1 Bernie Madoff | Madoff | Bernard Madoff
+1 Jordan Belfort | Belfort | Wolf of Wall Street
+1 Elizabeth Holmes | Holmes
+1 Sam Bankman-Fried | SBF | Bankman-Fried | Sam Bankman Fried | Bankman Fried
+2 Charles Ponzi | Ponzi | Carlo Ponzi
+2 Alan Bond | Bond
+2 Anna Delvey | Anna Sorokin | Delvey | Sorokin
+2 Frank Abagnale | Abagnale | Frank Abagnale Jr
+2 Martha Stewart | Stewart
+2 Nick Leeson | Leeson
+2 Al Capone | Capone
+2 Billy McFarland | McFarland
+2 Rodney Adler | Adler
+3 Jeffrey Skilling | Skilling | Jeff Skilling
+3 Andrew Fastow | Fastow | Andy Fastow
+3 Bernie Ebbers | Ebbers | Bernard Ebbers
+3 Martin Shkreli | Shkreli | Pharma Bro
+3 Michael Milken | Milken
+3 Ivan Boesky | Boesky
+3 Ray Williams | Raymond Williams
+3 Rene Rivkin | Rivkin | René Rivkin
+3 Peter Foster | Foster
+3 Glenn Wheatley | Wheatley
+3 Salim Mehajer | Mehajer
+3 Oliver Curtis | Curtis
+3 Sunny Balwani | Balwani | Ramesh Balwani
+3 Do Kwon | Kwon
+3 Changpeng Zhao | CZ | Zhao
+3 Caroline Ellison | Ellison
+3 Trevor Milton | Milton
+3 Charlie Javice | Javice
+3 Bill Hwang | Hwang | Sung Kook Hwang
+3 Raj Rajaratnam | Rajaratnam
+3 Allen Stanford | Stanford | R. Allen Stanford
+3 Dennis Kozlowski | Kozlowski
+3 Jérôme Kerviel | Kerviel | Jerome Kerviel
+3 Kweku Adoboli | Adoboli
+3 Navinder Sarao | Sarao
+3 Conrad Black | Black | Lord Black
+3 Najib Razak | Najib
+3 Simon Leviev | Tinder Swindler | Shimon Hayut
+3 Boris Becker | Becker
+3 Hamish McLaren | McLaren
+3 Adam Cranston | Cranston
+3 John Hartman | Hartman
+3 Lukas Kamay | Kamay
+3 Brian Yuill | Yuill
+3 George Herscu | Herscu
+3 Calisto Tanzi | Tanzi
+3 Asil Nadir | Nadir
+3 Ernest Saunders | Saunders
+3 Gerald Ronson | Ronson
+3 Barry Minkow | Minkow
+3 Scott Rothstein | Rothstein
+3 Tom Petters | Petters
+3 Marc Dreier | Dreier
+3 Lou Pearlman | Pearlman
+3 John Rigas | Rigas
+3 Richard Scrushy | Scrushy
+3 Sam Waksal | Waksal
+3 Joseph Nacchio | Nacchio
+3 Charles Keating | Keating
+3 Garth Drabinsky | Drabinsky
+3 Ramalinga Raju | Raju
+3 Harshad Mehta | Mehta
+3 Yasuo Hamanaka | Hamanaka
+3 Toshihide Iguchi | Iguchi
+3 Sergei Mavrodi | Mavrodi
+6 Whitaker Wright :: A mining promoter who built a billiard room under a lake. Convicted of fraud in London in 1904, he swallowed cyanide at the court minutes after sentence.
+4 Horatio Bottomley | Bottomley
+4 Jabez Balfour | Balfour
+4 Clarence Hatry | Hatry
+6 Victor Lustig | Lustig | Count Lustig :: The man who sold the Eiffel Tower for scrap, in 1925, to a dealer too embarrassed to tell the police. He was finally jailed in 1935 for counterfeiting.
+4 William Miller | 520 Percent Miller
+4 Adele Spitzeder | Spitzeder
+4 Richard Whitney | Whitney
+4 Philip Musica | Musica | F. Donald Coster
+6 Tino De Angelis | De Angelis | Anthony De Angelis | Salad Oil King :: He borrowed millions against tanks of salad oil that were mostly seawater with oil floating on top. The 1963 scandal nearly sank American Express.
+4 Billie Sol Estes | Estes
+4 Stanley Goldblum | Goldblum
+4 Eddie Antar | Crazy Eddie | Antar
+4 Peter Clowes | Clowes
+4 Darius Guppy | Guppy
+x Christopher Skase | Skase :: He fled to Majorca in 1990 and died there in 2001 without ever standing trial.
+x Ken Lay | Kenneth Lay | Lay :: A jury convicted him in 2006, but he died before sentencing and the conviction was wiped from the record.
+x Melissa Caddick | Caddick :: She vanished in November 2020, before any criminal charge could be laid.
+x Robert Maxwell | Maxwell :: He died at sea in 1991 before the missing pension millions came to light, so he was never tried.
+x Carlos Ghosn | Ghosn | Jho Low | Ruja Ignatova | Cryptoqueen | Bill Papas :: Charged or wanted, but a fugitive: never convicted in court.
+x Gregor MacGregor | MacGregor :: He sold land in Poyais, a country he had invented, but a Paris court acquitted him in 1826.
+x Tom Hayes :: Jailed over Libor in 2015, but the UK Supreme Court quashed his conviction in 2025.
+x Gordon Gekko | Gekko | Patrick Bateman | Bobby Axelrod | Saul Goodman | Logan Roy :: Fictional, so the court records are thin.
+x Elon Musk | Musk | Jeff Bezos | Mark Zuckerberg | Zuckerberg | Bill Gates | Gina Rinehart | Clive Palmer | Kerry Packer | Rupert Murdoch | Warren Buffett :: Rich and argued about, but not convicted of a financial crime.
+x Fraudster | Criminal | Con artist | Conman | Scammer | Banker | Bankers | Thief :: That is the trade. Name someone convicted of it.

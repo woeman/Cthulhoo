@@ -6,123 +6,123 @@ Rules: Any dinosaur genus. Flying pterosaurs and swimming plesiosaurs weren't di
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (291 answers)
+## Accepted now (961 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (5)
 
-- Tyrannosaurus — T. rex | Tyrannosaurus rex | Tyrannosaur
-- Triceratops
-- Velociraptor — Velociraptors
-- Stegosaurus — Stegosaur
-- Brachiosaurus
+- Tyrannosaurus — T. rex | Tyrannosaurus rex | Tyrannosaur | Rex | Tyrant lizard king | Tyrannosaurid | Dynamosaurus
+- Triceratops — Trike | Triceratops horridus | Triceratops prorsus
+- Velociraptor — Velociraptors | Raptor | Velociraptor mongoliensis | Velociraptor osmolskae
+- Stegosaurus — Stegosaur | Stego | Stegosaurid | Stegosaurus stenops | Stegosaurus ungulatus
+- Brachiosaurus — Brachio | Brachiosaur | Brachiosaurid | Brachiosaurus altithorax
 
 ### Tier 2: common (11)
 
-- Diplodocus — Seismosaurus
-- Spinosaurus
-- Ankylosaurus
-- Brontosaurus
-- Allosaurus
-- Iguanodon
-- Parasaurolophus
-- Pachycephalosaurus — Pachy
-- Apatosaurus
-- Dilophosaurus
-- Bird — Birds | Chicken | Pigeon | Sparrow | Ostrich | Emu | Penguin | Turkey | Robin | Eagle | Crow | Duck | Owl | Parrot | Seagull | Hummingbird | Blackbird | Thrush | Starling | Wren | Blue tit | Great tit | Finch | Goldfinch | Chaffinch | Bullfinch | Canary | Budgie | Budgerigar | Parakeet | Cockatoo | Macaw | Lovebird | Cockatiel | Kea | Kakapo | Dove | Raven | Rook | Jackdaw | Magpie | Jay | Blue jay | Cardinal | Swallow | Swift | Kingfisher | Woodpecker | Toucan | Hornbill | Cuckoo | Roadrunner | Hawk | Falcon | Peregrine | Kestrel | Buzzard | Kite | Vulture | Condor | Osprey | Heron | Egret | Stork | Crane | Ibis | Spoonbill | Flamingo | Pelican | Cormorant | Gannet | Albatross | Petrel | Puffin | Guillemot | Auk | Great auk | Gull | Tern | Goose | Swan | Mallard | Grebe | Loon | Coot | Moorhen | Hen | Rooster | Pheasant | Partridge | Quail | Grouse | Peacock | Peafowl | Guineafowl | Rhea | Cassowary | Kiwi | Moa | Dodo | Elephant bird | Lark | Skylark | Nightingale | Warbler | Wagtail | Nuthatch | Oriole | Mockingbird | Bluebird | Kookaburra | Lyrebird | Bird of paradise | Sandpiper | Plover | Lapwing | Curlew | Snipe | Woodcock | Oystercatcher | Nightjar | Frigatebird | Shoebill | Hoatzin | Myna | Hoopoe | Chickadee | Haast's eagle
+- Diplodocus — Seismosaurus | Dippy | Diplodocid | Diplodocus carnegii | Diplodocus longus | Diplodocus hallorum
+- Spinosaurus — Spino | Spinosaur | Spinosaurid | Spinosaurus aegyptiacus | Sipnosaurus
+- Ankylosaurus — Anky | Ankylosaur | Ankylosaurid | Ankylosaurus magniventris
+- Brontosaurus — Bronto | Brontosaur | Thunder lizard | Brontosaurus excelsus
+- Allosaurus — Allo | Allosaur | Allosaurid | Big Al | Allosaurus fragilis | Antrodemus | Creosaurus
+- Iguanodon — Iguanodont | Iguanodontid | Iguanodon bernissartensis
+- Parasaurolophus — Parasaur | Parasaurolophus walkeri
+- Pachycephalosaurus — Pachy | Pachycephalosaur | Pachycephalosaurid | Bonehead | Bone-headed dinosaur | Dome-headed dinosaur | Pachycephalosaurus wyomingensis
+- Apatosaurus — Apato | Apatosaur | Apatosaurus ajax | Apatosaurus louisae
+- Dilophosaurus — Dilophosaur | Dilophosaurus wetherilli
+- Bird — Birds | Chicken | Pigeon | Sparrow | Ostrich | Emu | Penguin | Turkey | Robin | Eagle | Crow | Duck | Owl | Parrot | Seagull | Hummingbird | Blackbird | Thrush | Starling | Wren | Blue tit | Great tit | Finch | Goldfinch | Chaffinch | Bullfinch | Canary | Budgie | Budgerigar | Parakeet | Cockatoo | Macaw | Lovebird | Cockatiel | Kea | Kakapo | Dove | Raven | Rook | Jackdaw | Magpie | Jay | Blue jay | Cardinal | Swallow | Swift | Kingfisher | Woodpecker | Toucan | Hornbill | Cuckoo | Roadrunner | Hawk | Falcon | Peregrine | Kestrel | Buzzard | Kite | Vulture | Condor | Osprey | Heron | Egret | Stork | Crane | Ibis | Spoonbill | Flamingo | Pelican | Cormorant | Gannet | Albatross | Petrel | Puffin | Guillemot | Auk | Great auk | Gull | Tern | Goose | Swan | Mallard | Grebe | Loon | Coot | Moorhen | Hen | Rooster | Pheasant | Partridge | Quail | Grouse | Peacock | Peafowl | Guineafowl | Rhea | Cassowary | Kiwi | Moa | Dodo | Elephant bird | Lark | Skylark | Nightingale | Warbler | Wagtail | Nuthatch | Oriole | Mockingbird | Bluebird | Kookaburra | Lyrebird | Bird of paradise | Sandpiper | Plover | Lapwing | Curlew | Snipe | Woodcock | Oystercatcher | Nightjar | Frigatebird | Shoebill | Hoatzin | Myna | Hoopoe | Chickadee | Haast's eagle | Avian dinosaur | Avian | Aves | Emperor Penguin | King Penguin | Takahe | Weka | Adélie Penguin | Gentoo Penguin | Chinstrap Penguin | Macaroni Penguin | Rockhopper Penguin | Little Penguin | African Penguin | Humboldt Penguin | Galápagos Penguin | Magellanic Penguin | Yellow-eyed Penguin | Steamer Duck | Flightless Cormorant | Kagu | Ratite | Royal Penguin | Fiordland Penguin | Snares Penguin | Erect-crested Penguin | Greater Rhea | Lesser Rhea | Southern Cassowary | Northern Cassowary | Dwarf Cassowary | North Island Brown Kiwi | Great Spotted Kiwi | Little Spotted Kiwi | Tokoeka | Rowi | Rodrigues Solitaire | Giant Moa | Lord Howe Woodhen | Guam Rail | Titicaca Grebe | Tasmanian Native-hen | Somali Ostrich | Aldabra Rail | Auckland Teal | Campbell Teal | Gough Moorhen | Tristan Moorhen | Moa-nalo | Adzebill | Upland Moa | Little Bush Moa | Laysan Rail | Wake Island Rail | Chatham Rail | Red Rail | Falkland Steamer Duck | Magellanic Steamer Duck | Chubut Steamer Duck | Snipe-rail | Hawaiian Rail | Saint Helena Crake | Makira Moorhen | Vorombe | King Island Emu | Kangaroo Island Emu | Tasmanian Emu | Atitlán Grebe | Apteribis | Stephens Island Wren | Inaccessible Island Rail | Bald Eagle | Golden Eagle | Peregrine Falcon | Red Kite | Sparrowhawk | Harrier | Hen Harrier | Marsh Harrier | Merlin | Hobby | Goshawk | Barn Owl | Tawny Owl | Snowy Owl | Great Horned Owl | Eagle Owl | Little Owl | Harpy Eagle | Secretary Bird | Andean Condor | California Condor | Red-tailed Hawk | White-tailed Eagle | Sea Eagle | Griffon Vulture | Turkey Vulture | Caracara | Gyrfalcon | Bearded Vulture | Common Buzzard | Honey Buzzard | Rough-legged Buzzard | Black Kite | Montagu's Harrier | Northern Harrier | Pallid Harrier | Cooper's Hawk | Sharp-shinned Hawk | Red-shouldered Hawk | Broad-winged Hawk | Swainson's Hawk | Ferruginous Hawk | Harris's Hawk | American Kestrel | Lesser Kestrel | Saker Falcon | Lanner Falcon | Prairie Falcon | Red-footed Falcon | Eleonora's Falcon | Steppe Eagle | Imperial Eagle | Spanish Imperial Eagle | Booted Eagle | Bonelli's Eagle | Short-toed Eagle | Martial Eagle | Crowned Eagle | Tawny Eagle | Verreaux's Eagle | Black Eagle | Wedge-tailed Eagle | Philippine Eagle | Steller's Sea Eagle | African Fish Eagle | Fish Eagle | Bateleur | Snake Eagle | Serpent Eagle | Hawk-Eagle | Crested Caracara | Egyptian Vulture | Black Vulture | Cinereous Vulture | King Vulture | Hooded Vulture | Lappet-faced Vulture | White-backed Vulture | Rüppell's Vulture | Cape Vulture | Snail Kite | Swallow-tailed Kite | Mississippi Kite | Black-winged Kite | Brahminy Kite | Whistling Kite | White-tailed Kite | Shikra | Old World Vulture | New World Vulture | Long-eared Owl | Short-eared Owl | Burrowing Owl | Screech Owl | Elf Owl | Great Grey Owl | Barred Owl | Spotted Owl | Pygmy Owl | Scops Owl | Hawk Owl | Fish Owl | Saw-whet Owl | Tengmalm's Owl | Ural Owl | Morepork | Boobook | Owlet | Accipiter | Buteo | Falconet | Forest Falcon | Bat Hawk | Bat Falcon | Aplomado Falcon | Barbary Falcon | Sooty Falcon | Amur Falcon | New Zealand Falcon | Brown Falcon | Black Falcon | Grey Falcon | Australian Hobby | Pygmy Falcon | Nankeen Kestrel | Mauritius Kestrel | Striated Caracara | Chimango Caracara | Yellow-headed Caracara | White-headed Vulture | Himalayan Vulture | Indian Vulture | White-rumped Vulture | Teratorn | White-bellied Sea Eagle | Pallas's Fish Eagle | Little Eagle | Lesser Spotted Eagle | Greater Spotted Eagle | Indian Spotted Eagle | Wahlberg's Eagle | Long-crested Eagle | African Hawk-Eagle | Ornate Hawk-Eagle | Black Hawk-Eagle | Changeable Hawk-Eagle | Mountain Hawk-Eagle | Crested Serpent Eagle | Brown Snake Eagle | Black-chested Snake Eagle | Crested Eagle | Black-chested Buzzard-Eagle | Buzzard-Eagle | Augur Buzzard | Jackal Buzzard | Long-legged Buzzard | Upland Buzzard | Lizard Buzzard | Grasshopper Buzzard | White-eyed Buzzard | Grey-faced Buzzard | Black-breasted Buzzard | Crested Honey Buzzard | Zone-tailed Hawk | Short-tailed Hawk | Grey Hawk | Roadside Hawk | Common Black Hawk | Great Black Hawk | Savanna Hawk | Crane Hawk | White Hawk | Galápagos Hawk | Hawaiian Hawk | Ridgway's Hawk | White-tailed Hawk | Variable Hawk | American Goshawk | Brown Goshawk | Grey Goshawk | Chanting Goshawk | Dark Chanting Goshawk | Pale Chanting Goshawk | Gabar Goshawk | Crested Goshawk | Black Sparrowhawk | Levant Sparrowhawk | Japanese Sparrowhawk | Besra | Collared Sparrowhawk | Baza | Pacific Baza | Black-shouldered Kite | Hook-billed Kite | Letter-winged Kite | Square-tailed Kite | Plumbeous Kite | Swamp Harrier | Pied Harrier | Spotted Harrier | African Marsh Harrier | Eastern Marsh Harrier | African Harrier-Hawk | Collared Forest Falcon | Oriental Hobby | Taita Falcon | Orange-breasted Falcon | Laggar Falcon | Red-necked Falcon | Greater Kestrel | Rock Kestrel | Collared Falconet | Mountain Caracara | Lesser Yellow-headed Vulture | Greater Yellow-headed Vulture | Slender-billed Vulture | Red-headed Vulture | Eastern Screech Owl | Western Screech Owl | Whiskered Screech Owl | Flammulated Owl | Northern Pygmy Owl | Eurasian Pygmy Owl | Ferruginous Pygmy Owl | Barking Owl | Powerful Owl | Masked Owl | Grass Owl | Sooty Owl | Spectacled Owl | Mottled Owl | Crested Owl | Striped Owl | Stygian Owl | Rufous Owl | Spotted Eagle-Owl | Verreaux's Eagle-Owl | Pharaoh Eagle-Owl | Cape Eagle-Owl | Indian Eagle-Owl | Blakiston's Fish Owl | Pel's Fishing Owl | Brown Fish Owl | Buffy Fish Owl | Spotted Owlet | Jungle Owlet | Forest Owlet | Wood Owl | Brown Wood Owl | Collared Scops Owl | Oriental Scops Owl | Brown Hawk-Owl | Desert Owl | Laughing Owl | Marsh Owl | White-faced Owl | African Wood Owl | Pearl-spotted Owlet | Red Goshawk | African Goshawk | Spotted Eagle | Yellow-headed Vulture | Yellow-billed Kite | Javan Hawk-Eagle | Cassin's Hawk-Eagle | Ayres's Hawk-Eagle | Black-and-white Hawk-Eagle | Solitary Eagle | Chaco Eagle | Gurney's Eagle | Sanford's Sea Eagle | Madagascar Fish Eagle | Grey-headed Fish Eagle | Lesser Fish Eagle | Beaudouin's Snake Eagle | Congo Serpent Eagle | Philippine Serpent Eagle | Madagascar Serpent Eagle | Malagasy Crowned Eagle | Forest Buzzard | Mountain Buzzard | Madagascar Buzzard | Red-necked Buzzard | Rufous-winged Buzzard | Himalayan Buzzard | Japanese Buzzard | Grey-lined Hawk | Bicoloured Hawk | Tiny Hawk | Semicollared Hawk | Plumbeous Hawk | Slate-coloured Hawk | Black-collared Hawk | Mantled Hawk | Barred Hawk | Rufous Crab Hawk | Chinese Sparrowhawk | Ovambo Sparrowhawk | Little Sparrowhawk | Frances's Sparrowhawk | Rufous-breasted Sparrowhawk | Black Baza | Jerdon's Baza | African Cuckoo-Hawk | Double-toothed Kite | Grey-headed Kite | Pearl Kite | Slender-billed Kite | Scissor-tailed Kite | Cuban Kite | Cinereous Harrier | Long-winged Harrier | Black Harrier | Réunion Harrier | Malagasy Harrier | Madagascar Harrier-Hawk | Barred Forest Falcon | African Hobby | Seychelles Kestrel | Madagascar Kestrel | Fox Kestrel | Grey Kestrel | Dickinson's Kestrel | Banded Kestrel | Spotted Kestrel | Philippine Falconet | Pied Falconet | White-rumped Falcon | Carunculated Caracara | White-throated Caracara | Black Caracara | Red-throated Caracara | Guadalupe Caracara | Titanohierax | Least Pygmy Owl | Mottled Wood Owl | Seychelles Scops Owl | Philippine Eagle-Owl | Dusky Eagle-Owl | Tawny Fish Owl | Oriental Bay Owl | Long-whiskered Owlet | Asian Barred Owlet | Collared Owlet | Cuban Giant Owl | Omani Owl | Indian Scops Owl | African Scops Owl | Tropical Screech Owl | Sokoke Scops Owl | Lesser Sooty Owl | Ashy-faced Owl | Madagascar Red Owl | Fearful Owl | Maned Owl | Black-and-white Owl | Chaco Owl | Rusty-barred Owl | Variable Goshawk | Barred Eagle-Owl | Spotted Wood Owl | Papuan Eagle | Black-and-chestnut Eagle | Rufous-bellied Eagle | Pygmy Eagle | Western Banded Snake Eagle | Southern Banded Snake Eagle | Andaman Serpent Eagle | Great Nicobar Serpent Eagle | Mountain Serpent Eagle | Wallace's Hawk-Eagle | Blyth's Hawk-Eagle | Sulawesi Hawk-Eagle | Philippine Hawk-Eagle | Legge's Hawk-Eagle | Flores Hawk-Eagle | Pinsker's Hawk-Eagle | Barred Honey Buzzard | Socotra Buzzard | Archer's Buzzard | Papuan Harrier | Lined Forest Falcon | Slaty-backed Forest Falcon | Spot-winged Falconet | Rufous-thighed Kite | Gundlach's Hawk | Rufous-tailed Hawk | Andean Pygmy Owl | Pallid Scops Owl | Mountain Scops Owl | Rajah Scops Owl | Moluccan Scops Owl | Príncipe Scops Owl | Rufous Fishing Owl | Vermiculated Fishing Owl | Fraser's Eagle-Owl | Akun Eagle-Owl | Shelley's Eagle-Owl | Spot-bellied Eagle-Owl | Usambara Eagle-Owl | Chestnut-backed Owlet | Himalayan Wood Owl | Hume's Hawk-Owl | Christmas Island Hawk-Owl | Papuan Hawk-Owl | Tawny-bellied Screech Owl | Jalca Horned Owl | Palm-nut Vulture | Black-thighed Falconet | Laughing Falcon | Wood pigeon | Turtle dove | Collared dove | Rock dove | Passenger pigeon | Mourning dove | Bittern | Avocet | Godwit | Dunlin | Turnstone | Sanderling | Redshank | Greenshank | Phalarope | Skua | Kittiwake | Fulmar | Shearwater | Storm petrel | Razorbill | Eider | Teal | Wigeon | Pintail | Shoveler | Pochard | Merganser | Goosander | Shelduck | Canada goose | Greylag | Mute swan | Black swan | Rail | Corncrake | Bustard | Lorikeet | Rosella | Galah | Conure | African grey | Turaco | Quetzal | Bee-eater | Roller | Barbet | Shrike | Drongo | Bowerbird | Fairywren | Honeyeater | Chough | Treecreeper | Dipper | Bulbul | Goldcrest | Chiffchaff | Blackcap | Redstart | Wheatear | Stonechat | Fieldfare | Redwing | Waxwing | Dunnock | Pipit | Bunting | Yellowhammer | Tanager | Grosbeak | Weaver bird | Zebra finch | House sparrow | Siskin | Linnet | Crossbill | Greenfinch | Hawfinch | Junco | Meadowlark | Grackle | Oxpecker | Sunbird | House martin | Sand martin | Frogmouth | Potoo | Nighthawk | Whip-poor-will | Jacana | Stilt | Booby | Blue-footed booby | Shag | Marabou | Mandarin duck | Wood duck | Muscovy duck | Ptarmigan | Capercaillie | Bobwhite | Tui | Pukeko | Cockerel | Kiqi
 
 ### Tier 3: known to fans (25)
 
-- Gallimimus
-- Carnotaurus
-- Giganotosaurus
-- Compsognathus
-- Oviraptor
-- Protoceratops
-- Archaeopteryx
-- Deinonychus
-- Utahraptor
-- Baryonyx
-- Megalosaurus
-- Styracosaurus
-- Therizinosaurus
-- Argentinosaurus
-- Maiasaura
-- Troodon
-- Hadrosaurus
-- Edmontosaurus — Anatosaurus
-- Ceratosaurus
-- Microraptor
-- Coelophysis
-- Herrerasaurus
-- Eoraptor
-- Corythosaurus
-- Lambeosaurus
+- Gallimimus — Gallimimus bullatus
+- Carnotaurus — Carno | Carnotaur | Carnotaurus sastrei
+- Giganotosaurus — Giga | Giganotosaur | Giganotosaurus carolinii
+- Compsognathus — Compy | Compsognathid | Compsognathus longipes
+- Oviraptor — Oviraptorid | Oviraptorosaur | Oviraptor philoceratops | Ovraptor | Oiraptor
+- Protoceratops — Protoceratopsid | Protoceratops andrewsi
+- Archaeopteryx — Urvogel | Archaeopteryx lithographica
+- Deinonychus — Deinonychus antirrhopus | Deinonychosaur
+- Utahraptor — Utahraptor ostrommaysi | Utahraptor ostrommaysorum
+- Baryonyx — Baryonyx walkeri
+- Megalosaurus — Megalosaur | Megalosaurid | Megalosaurus bucklandii
+- Styracosaurus — Styracosaurus albertensis
+- Therizinosaurus — Therizino | Therizinosaur | Therizinosaurid | Therizinosaurus cheloniformis | Scythe lizard
+- Argentinosaurus — Argentinosaurus huinculensis
+- Maiasaura — Maiasaura peeblesorum | Good mother lizard
+- Troodon — Troodontid | Troodon formosus | Trodon
+- Hadrosaurus — Hadrosaurid | Duck-billed dinosaur | Duckbill | Hadrosaurus foulkii
+- Edmontosaurus — Anatosaurus | Anatotitan | Edmontosaurus regalis | Edmontosaurus annectens
+- Ceratosaurus — Ceratosaur | Ceratosaurus nasicornis
+- Microraptor — Microraptor gui
+- Coelophysis — Coelophysid | Coelophysoid | Coelophysis bauri | Rioarribasaurus
+- Herrerasaurus — Herrerasaurid | Herrerasaurus ischigualastensis
+- Eoraptor — Eoraptor lunensis
+- Corythosaurus — Corythosaurus casuarius
+- Lambeosaurus — Lambeosaurine | Lambeosaurus lambei
 
-### Tier 4: obscure (70)
+### Tier 4: obscure (87)
 
-- Kentrosaurus
-- Amargasaurus
-- Dreadnoughtus
-- Patagotitan
-- Mamenchisaurus
-- Camarasaurus
-- Plateosaurus
-- Nodosaurus
-- Euoplocephalus
-- Psittacosaurus
+- Kentrosaurus — Kentrosaurus aethiopicus
+- Amargasaurus — Amargasaurus cazaui
+- Dreadnoughtus — Dreadnoughtus schrani
+- Patagotitan — Patagotitan mayorum
+- Mamenchisaurus — Mamenchisaurid
+- Camarasaurus — Camarasaurid
+- Plateosaurus — Plateosaurid
+- Nodosaurus — Nodosaur | Nodosaurid
+- Euoplocephalus — Euoplocephalus tutus
+- Psittacosaurus — Psittacosaur | Parrot lizard | Psittacosaurus mongoliensis
 - Pentaceratops
-- Chasmosaurus
-- Centrosaurus
-- Pachyrhinosaurus
+- Chasmosaurus — Chasmosaurine
+- Centrosaurus — Centrosaurine
+- Pachyrhinosaurus — Pachyrhinosaurus canadensis
 - Einiosaurus
 - Torosaurus
-- Albertosaurus
+- Albertosaurus — Albertosaurus sarcophagus
 - Daspletosaurus
 - Gorgosaurus
-- Tarbosaurus
-- Yutyrannus
+- Tarbosaurus — Tarbosaurus bataar
+- Yutyrannus — Yutyrannus huali
 - Guanlong
 - Dilong
-- Sinosauropteryx
+- Sinosauropteryx — Sinosauropteryx prima
 - Caudipteryx
-- Ornithomimus
+- Ornithomimus — Ornithomimid | Ornithomimosaur | Ostrich dinosaur | Ostrich mimic
 - Struthiomimus
-- Deinocheirus
-- Saurolophus
-- Shantungosaurus
+- Deinocheirus — Deinocheirus mirificus
+- Saurolophus — Saurolophine
+- Shantungosaurus — Zhuchengosaurus
 - Muttaburrasaurus
 - Leaellynasaura
 - Minmi
 - Australovenator
 - Cryolophosaurus
-- Majungasaurus
-- Abelisaurus
+- Majungasaurus — Majungatholus | Majungasaurus crenatissimus
+- Abelisaurus — Abelisaur | Abelisaurid
 - Suchomimus
 - Irritator
-- Carcharodontosaurus
-- Acrocanthosaurus
+- Carcharodontosaurus — Carcharodontosaur | Carcharodontosaurid | Carcharodontosaurus saharicus
+- Acrocanthosaurus — Acro | Acrocanthosaurus atokensis
 - Torvosaurus
 - Monolophosaurus
 - Sinraptor
-- Saltasaurus
-- Titanosaurus
-- Supersaurus
-- Sauroposeidon
+- Saltasaurus — Saltasaurid
+- Titanosaurus — Titanosaur
+- Supersaurus — Ultrasauros | Ultrasaurus
+- Sauroposeidon — Paluxysaurus
 - Brachylophosaurus
 - Ouranosaurus
 - Tenontosaurus
-- Hypsilophodon
-- Heterodontosaurus
+- Hypsilophodon — Hypsilophodont | Hypsilophodontid
+- Heterodontosaurus — Heterodontosaurid
 - Scelidosaurus
 - Edmontonia
 - Borealopelta
-- Giraffatitan
+- Giraffatitan — Giraffatitan brancai | Brachiosaurus brancai
 - Barosaurus
 - Mussaurus
-- Massospondylus
-- Nigersaurus
+- Massospondylus — Massospondylid
+- Nigersaurus — Nigersaurus taqueti
 - Alamosaurus
 - Mapusaurus
 - Concavenator
@@ -130,10 +130,27 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mononykus
 - Citipati
 - Velafrons
-- Dromaeosaurus
+- Dromaeosaurus — Dromaeosaur | Dromaeosaurid
 - Hylaeosaurus
+- Dryptosaurus — Laelaps
+- Microceratus — Microceratops
+- Bambiraptor
+- Amphicoelias
+- Saurornitholestes
+- Yangchuanosaurus
+- Dromiceiomimus
+- Trachodon
+- Monoclonius
+- Coelurus
+- Saurophaganax
+- Hesperosaurus
+- Raptorex
+- Gasosaurus
+- Szechuanosaurus
+- Lexovisaurus
+- Moros
 
-### Tier 5: expert (177)
+### Tier 5: expert (830)
 
 - Lesothosaurus
 - Scutellosaurus
@@ -150,8 +167,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Shunosaurus
 - Omeisaurus
 - Euhelopus
-- Dicraeosaurus
-- Rebbachisaurus
+- Dicraeosaurus — Dicraeosaurid
+- Rebbachisaurus — Rebbachisaurid
 - Europasaurus
 - Abydosaurus
 - Rapetosaurus
@@ -178,7 +195,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Liliensternus
 - Megapnosaurus — Syntarsus
 - Segisaurus
-- Alvarezsaurus
+- Alvarezsaurus — Alvarezsaur | Alvarezsaurid
 - Shuvuuia
 - Avimimus
 - Incisivosaurus
@@ -218,7 +235,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Aucasaurus
 - Tyrannotitan
 - Neovenator
-- Megaraptor
+- Megaraptor — Megaraptoran | Megaraptorid
 - Fukuiraptor
 - Kulindadromeus
 - Tianyulong
@@ -269,7 +286,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sinornithosaurus
 - Anchiornis
 - Epidexipteryx
-- Yi
+- Yi — Yi qi
 - Ambopteryx
 - Gigantoraptor
 - Khaan
@@ -302,7 +319,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Anserimimus
 - Sinornithomimus
 - Nqwebasaurus
-- Noasaurus
+- Noasaurus — Noasaurid
 - Atrociraptor
 - Eotriceratops
 - Procompsognathus
@@ -312,6 +329,659 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hesperornis
 - Gastornis — Diatryma
 - Phorusrhacos — Terror bird
+- Micropachycephalosaurus
+- Borogovia
+- Stegouros
+- Kamuysaurus — Mukawaryu
+- Juratyrant
+- Stokesosaurus
+- Xiongguanlong
+- Appalachiosaurus
+- Suskityrannus
+- Timurlengia
+- Kileskus
+- Sinotyrannus
+- Aviatyrannis
+- Thanatotheristes
+- Dynamoterror
+- Nanuqsaurus
+- Alectrosaurus
+- Bagaraatan
+- Deinodon
+- Aublysodon
+- Labocania
+- Epanterias
+- Metriacanthosaurus
+- Aerosteon
+- Orkoraptor
+- Murusraptor
+- Shaochilong
+- Eocarcharia
+- Veterupristisaurus
+- Siamraptor
+- Meraxes
+- Chilantaisaurus
+- Xuanhanosaurus
+- Kaijiangosaurus
+- Erectopus
+- Becklespinax
+- Valdoraptor
+- Altispinax
+- Dubreuillosaurus
+- Piatnitzkysaurus
+- Condorraptor
+- Marshosaurus
+- Duriavenator
+- Magnosaurus
+- Wiehenvenator
+- Leshansaurus
+- Poekilopleuron
+- Streptospondylus
+- Lourinhanosaurus
+- Angaturama
+- Cristatusaurus
+- Vallibonavenatrix
+- Ceratosuchops
+- Riparovenator
+- Iberospinus
+- Camarillasaurus
+- Ostafrikasaurus
+- Indosuchus
+- Indosaurus
+- Ekrixinatosaurus
+- Ilokelesia
+- Pycnonemosaurus
+- Quilmesaurus
+- Xenotarsosaurus
+- Arcovenator
+- Kryptops
+- Eoabelisaurus
+- Dahalokely
+- Genyodectes
+- Berberosaurus
+- Viavenator
+- Llukalkan
+- Tralkasaurus
+- Spectrovenator
+- Velocisaurus
+- Chenanisaurus
+- Rahiolisaurus
+- Lametasaurus
+- Thanos
+- Vespersaurus
+- Berthasaura
+- Tarascosaurus
+- Zupaysaurus
+- Dracovenator
+- Sinosaurus
+- Tachiraptor
+- Panguraptor
+- Lophostropheus
+- Sarcosaurus
+- Saltriovenator
+- Dracoraptor
+- Pendraig
+- Chindesaurus
+- Sanjuansaurus
+- Buriolestes
+- Gnathovorax
+- Nyasasaurus
+- Chromogisaurus
+- Panphagia
+- Pampadromaeus
+- Guaibasaurus
+- Eocursor
+- Mbiresaurus
+- Tanycolagreus
+- Huaxiagnathus
+- Mirischia
+- Aorun
+- Zuolong
+- Bicentenaria
+- Haplocheirus
+- Aristosuchus
+- Santanaraptor
+- Archaeornithomimus
+- Beishanlong
+- Qiupalong
+- Rativates
+- Shenzhousaurus
+- Hexing
+- Kinnareemimus
+- Tototlmimus
+- Aepyornithomimus
+- Arkansaurus
+- Timimus
+- Patagonykus
+- Linhenykus
+- Albertonykus
+- Parvicursor
+- Xixianykus
+- Achillesaurus
+- Bonapartenykus
+- Qiupanykus
+- Kol
+- Ceratonykus
+- Albinykus
+- Alxasaurus
+- Erlikosaurus
+- Nanshiungosaurus
+- Suzhousaurus
+- Enigmosaurus
+- Neimongosaurus
+- Erliansaurus
+- Jianchangosaurus
+- Eshanosaurus
+- Martharaptor
+- Paralitherizinosaurus
+- Protarchaeopteryx
+- Similicaudipteryx
+- Rinchenia
+- Nemegtomaia
+- Heyuannia
+- Ajancingenia
+- Banji
+- Wulatelong
+- Nankangia
+- Ganzhousaurus
+- Jiangxisaurus
+- Huanansaurus
+- Corythoraptor
+- Tongtianlong
+- Yulong
+- Microvenator
+- Caenagnathus
+- Hagryphus
+- Epichirostenotes
+- Leptorhynchos
+- Apatoraptor
+- Oksoko
+- Gobiraptor
+- Machairasaurus
+- Shixinggia
+- Luoyanggia
+- Beibeilong
+- Nomingia
+- Adasaurus
+- Tsaagan
+- Linheraptor
+- Changyuraptor
+- Zhenyuanlong
+- Tianyuraptor
+- Graciliraptor
+- Hesperonychus
+- Acheroraptor
+- Boreonykus
+- Kuru
+- Shri
+- Variraptor
+- Mahakala
+- Neuquenraptor
+- Yurgovuchia
+- Hulsanpes
+- Luanchuanraptor
+- Itemirus
+- Dineobellator
+- Natovenator
+- Shanag
+- Imperobator
+- Saurornithoides
+- Zanabazar
+- Sinovenator
+- Jinfengopteryx
+- Sinornithoides
+- Byronosaurus
+- Talos
+- Gobivenator
+- Linhevenator
+- Latenivenatrix
+- Stenonychosaurus
+- Xiaotingia
+- Aurornis
+- Eosinopteryx
+- Serikornis
+- Ostromia
+- Philovenator
+- Almas
+- Liaoningvenator
+- Jianianhualong
+- Sinusonasus
+- Xixiasaurus
+- Urbacodon
+- Geminiraptor
+- Tochisaurus
+- Yaverlandia
+- Epidendrosaurus
+- Scansoriopteryx
+- Jeholornis
+- Sapeornis
+- Iberomesornis
+- Vegavis
+- Gansus
+- Wellnhoferia
+- Alcmonavis
+- Eoalulavis
+- Concornis
+- Patagopteryx
+- Apsaravis
+- Baptornis
+- Enantiornis
+- Longipteryx
+- Coloradisaurus
+- Efraasia
+- Sellosaurus
+- Yunnanosaurus
+- Jingshanosaurus
+- Melanorosaurus
+- Antetonitrus
+- Ledumahadi
+- Aardonyx
+- Leyesaurus
+- Adeopapposaurus
+- Seitaad
+- Sarahsaurus
+- Ammosaurus
+- Yimenosaurus
+- Camelotia
+- Euskelosaurus
+- Eucnemesaurus
+- Glacialisaurus
+- Unaysaurus
+- Pantydraco
+- Macrocollum
+- Bagualosaurus
+- Plateosauravus
+- Ruehleia
+- Ignavusaurus
+- Arcusaurus
+- Pulanesaura
+- Isanosaurus
+- Tazoudasaurus
+- Gongxianosaurus
+- Kotasaurus
+- Lessemsaurus
+- Ingentia
+- Ohmdenosaurus
+- Atlasaurus
+- Lapparentosaurus
+- Volkheimeria
+- Patagosaurus
+- Amygdalodon
+- Datousaurus
+- Bellusaurus
+- Klamelisaurus
+- Chuanjiesaurus
+- Yuanmousaurus
+- Tienshanosaurus
+- Xinjiangtitan
+- Qijianglong
+- Hudiesaurus
+- Zigongosaurus
+- Kaatedocus
+- Tornieria
+- Dinheirosaurus
+- Australodocus
+- Galeamopus
+- Maraapunisaurus
+- Suuwassea
+- Dyslocosaurus
+- Losillasaurus
+- Atlantosaurus
+- Dystrophaeus
+- Limaysaurus
+- Cathartesaura
+- Demandasaurus
+- Nopcsaspondylus
+- Zapalasaurus
+- Tataouinea
+- Amazonsaurus
+- Histriasaurus
+- Comahuesaurus
+- Lavocatisaurus
+- Katepensaurus
+- Itapeuasaurus
+- Rayososaurus
+- Agustinia
+- Lusotitan
+- Lourinhasaurus
+- Aragosaurus
+- Cedarosaurus
+- Venenosaurus
+- Pleurocoelus
+- Astrodon
+- Cetiosauriscus
+- Xenoposeidon
+- Pelorosaurus
+- Eucamerotus
+- Daxiatitan
+- Ruyangosaurus
+- Huanghetitan
+- Dongbeititan
+- Gobititan
+- Tangvayosaurus
+- Phuwiangosaurus
+- Fusuisaurus
+- Sibirotitan
+- Chubutisaurus
+- Malawisaurus
+- Karongasaurus
+- Andesaurus
+- Argyrosaurus
+- Epachthosaurus
+- Bonitasaura
+- Rinconsaurus
+- Neuquensaurus
+- Rocasaurus
+- Aeolosaurus
+- Gondwanatitan
+- Maxakalisaurus
+- Uberabatitan
+- Trigonosaurus
+- Baurutitan
+- Austroposeidon
+- Mendozasaurus
+- Notocolossus
+- Elaltitan
+- Drusilasaura
+- Traukutitan
+- Narambuenatitan
+- Pellegrinisaurus
+- Laplatasaurus
+- Bonatitan
+- Muyelensaurus
+- Overosaurus
+- Pitekunsaurus
+- Petrobrasaurus
+- Quaesitosaurus
+- Atsinganosaurus
+- Lirainosaurus
+- Paludititan
+- Jainosaurus
+- Shingopana
+- Rukwatitan
+- Mansourasaurus
+- Vahiny
+- Savannasaurus
+- Diamantinasaurus
+- Wintonotitan
+- Australotitan
+- Austrosaurus
+- Rhoetosaurus
+- Tehuelchesaurus
+- Mierasaurus
+- Moabosaurus
+- Sonorasaurus
+- Brontomerus
+- Janenschia
+- Tendaguria
+- Wamweracaudia
+- Tapuiasaurus
+- Arrudatitan
+- Ibirania
+- Garumbatitan
+- Lohuecotitan
+- Fukuititan
+- Tambatitanis
+- Siats
+- Mongolosaurus
+- Erketu
+- Loricatosaurus
+- Chungkingosaurus
+- Chialingosaurus
+- Jiangjunosaurus
+- Paranthodon
+- Alcovasaurus
+- Yingshanosaurus
+- Bashanosaurus
+- Adratiklit
+- Isaberrysaura
+- Dravidosaurus
+- Craterosaurus
+- Regnosaurus
+- Emausaurus
+- Dyoplosaurus
+- Ziapelta
+- Akainacephalus
+- Nodocephalosaurus
+- Shamosaurus
+- Gobisaurus
+- Zhongyuansaurus
+- Crichtonpelta
+- Liaoningosaurus
+- Chuanqilong
+- Zaraapelta
+- Minotaurasaurus
+- Tsagantegia
+- Cedarpelta
+- Peloroplites
+- Animantarx
+- Pawpawsaurus
+- Silvisaurus
+- Texasetes
+- Niobrarasaurus
+- Hoplitosaurus
+- Mymoorapelta
+- Europelta
+- Anoplosaurus
+- Acanthopholis
+- Antarctopelta
+- Kunbarrasaurus
+- Tianzhenosaurus
+- Dongyangopelta
+- Glyptodontopelta
+- Stegopelta
+- Aletopelta
+- Denversaurus
+- Patagopelta
+- Ahshislepelta
+- Bissektipelta
+- Sarcolestes
+- Priconodon
+- Probactrosaurus
+- Eolambia
+- Protohadros
+- Telmatosaurus
+- Tethyshadros
+- Gilmoreosaurus
+- Claosaurus
+- Lophorhothon
+- Eotrachodon
+- Nipponosaurus
+- Amurosaurus
+- Sahaliyania
+- Magnapaulia
+- Aralosaurus
+- Jaxartosaurus
+- Pararhabdodon
+- Arenysaurus
+- Blasisaurus
+- Barsboldia
+- Kerberosaurus
+- Wulagasaurus
+- Kundurosaurus
+- Augustynolophus
+- Acristavus
+- Probrachylophosaurus
+- Naashoibitosaurus
+- Anasazisaurus
+- Secernosaurus
+- Willinakaqe
+- Bonapartesaurus
+- Huehuecanauhtlus
+- Latirhinus
+- Aquilarhinus
+- Tlatolophus
+- Ajnabia
+- Yamatosaurus
+- Laiyangosaurus
+- Plesiohadros
+- Gobihadros
+- Batyrosaurus
+- Tanius
+- Nanyangosaurus
+- Equijubus
+- Jinzhousaurus
+- Lanzhousaurus
+- Bolong
+- Xuwulong
+- Jeyawati
+- Fukuisaurus
+- Koshisaurus
+- Albalophosaurus
+- Ugrunaaluk
+- Mochlodon
+- Rhabdodon
+- Zalmoxes
+- Atlascopcosaurus
+- Qantassaurus
+- Fulgurotherium
+- Diluvicursor
+- Weewarrasaurus
+- Fostoria
+- Galleonosaurus
+- Talenkauen
+- Macrogryphosaurus
+- Gasparinisaura
+- Anabisetia
+- Notohypsilophodon
+- Trinisaura
+- Morrosaurus
+- Parksosaurus
+- Orodromeus
+- Zephyrosaurus
+- Haya
+- Changchunsaurus
+- Jeholosaurus
+- Hexinlusaurus
+- Agilisaurus
+- Othnielosaurus
+- Othnielia
+- Nanosaurus
+- Drinker
+- Valdosaurus
+- Callovosaurus
+- Elrhazosaurus
+- Dysalotosaurus
+- Eousdryosaurus
+- Uteodon
+- Cumnoria
+- Theiophytalia
+- Hippodraco
+- Iguanacolossus
+- Dakotadon
+- Barilium
+- Hypselospinus
+- Kukufeldia
+- Sellacoxa
+- Proa
+- Morelladon
+- Delapparentia
+- Lurdusaurus
+- Owenodon
+- Sirindhorna
+- Draconyx
+- Kangnasaurus
+- Abrictosaurus
+- Lycorhinus
+- Manidens
+- Echinodon
+- Pegomastax
+- Lanasaurus
+- Stormbergia
+- Laquintasaura
+- Fabrosaurus
+- Agujaceratops
+- Coahuilaceratops
+- Mojoceratops
+- Vagaceratops
+- Spiclypeus
+- Wendiceratops
+- Machairoceratops
+- Spinops
+- Rubeosaurus
+- Albertaceratops
+- Avaceratops
+- Brachyceratops
+- Coronosaurus
+- Crittendenceratops
+- Judiceratops
+- Mercuriceratops
+- Bravoceratops
+- Ojoceratops
+- Tatankaceratops
+- Nedoceratops
+- Sierraceratops
+- Stellasaurus
+- Lokiceratops
+- Yehuecauhceratops
+- Turanoceratops
+- Ajkaceratops
+- Bagaceratops
+- Breviceratops
+- Graciliceratops
+- Montanoceratops
+- Cerasinops
+- Udanoceratops
+- Prenoceratops
+- Zhuchengceratops
+- Auroraceratops
+- Archaeoceratops
+- Liaoceratops
+- Aquilops
+- Hualianceratops
+- Chaoyangsaurus
+- Xuanhuaceratops
+- Gryphoceratops
+- Unescoceratops
+- Koreaceratops
+- Mosaiceratops
+- Magnirostris
+- Platyceratops
+- Helioceratops
+- Yamaceratops
+- Asiaceratops
+- Ceratops
+- Agathaumas
+- Serendipaceratops
+- Goyocephale
+- Tylocephale
+- Sphaerotholus
+- Colepiocephale
+- Hanssuesia
+- Gravitholus
+- Acrotholus
+- Amtocephale
+- Wannanosaurus
+- Alaskacephale
+- Foraminacephale
+- Texacephale
+- Zavacephale
+- Ozraptor
+- Rapator
+- Kakuru
+- Walgettosuchus
+- Zby
+- Koreanosaurus
+- Pukyongosaurus
+- Fukuivenator
+- Phuwiangvenator
+- Vayuraptor
+- Minimocursor
+- Bullockornis — Demon Duck of Doom
+- Titanis
+- Kelenken
+- Argentavis
+- Pelagornis
+- Dromornis
+- Genyornis
+- Teratornis
+- Andalgalornis
+- Paraphysornis
+- Llallawavis
+- Brontornis
+- Presbyornis
+- Osteodontornis
+- Sylviornis
 
 ### Tier 6: rare jackpots (3)
 
@@ -319,25 +989,35 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stygimoloch
 - Gojirasaurus — Gojirasaurus quayi
 
-## Refused on purpose (18)
+## Refused on purpose (28)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Pterodactyl | Pterodactylus | Pteranodon | Quetzalcoatlus | Pterosaur — "A pterosaur, a flying reptile, not a dinosaur."
-- Plesiosaur | Plesiosaurus | Elasmosaurus | Liopleurodon | Kronosaurus | Nothosaurus — "A marine reptile, not a dinosaur."
-- Mosasaurus | Mosasaur | Tylosaurus — "A giant sea lizard, not a dinosaur."
-- Ichthyosaurus | Ichthyosaur — "A marine reptile, not a dinosaur."
-- Dimetrodon | Edaphosaurus | Lystrosaurus — "Older than the dinosaurs, and more closely related to you than to them."
-- Megalodon — "A giant shark, and much later."
-- Woolly mammoth | Mammoth | Mastodon — "A mammal of the Ice Age."
-- Sabre-toothed tiger | Smilodon | Saber-toothed tiger | Sabretooth — "An Ice Age cat."
+- Pterodactyl | Pterodactylus | Pteranodon | Quetzalcoatlus | Pterosaur | Rhamphorhynchus | Dimorphodon | Dsungaripterus | Hatzegopteryx | Tapejara | Tupandactylus | Ornithocheirus | Anhanguera | Nyctosaurus | Pterodaustro | Ctenochasma | Eudimorphodon | Darwinopterus | Thalassodromeus | Tropeognathus | Arambourgiania | Caiuajara | Peteinosaurus | Pterosauria | Azhdarchid | Cryodrakon | Jeholopterus | Anurognathus | Scaphognathus | Coloborhynchus | Barbaridactylus | Flying reptile — "A pterosaur, a flying reptile, not a dinosaur."
+- Plesiosaur | Plesiosaurus | Elasmosaurus | Liopleurodon | Kronosaurus | Nothosaurus | Pliosaurus | Pliosaur | Predator X | Thalassomedon | Styxosaurus | Futabasaurus | Albertonectes | Rhomaleosaurus | Peloneustes | Dolichorhynchops | Polycotylus | Cryptoclidus | Muraenosaurus | Tuarangisaurus | Attenborosaurus | Placodus | Placodont | Megacephalosaurus — "A marine reptile, not a dinosaur."
+- Mosasaurus | Mosasaur | Tylosaurus | Prognathodon | Platecarpus | Clidastes | Globidens | Hainosaurus | Halisaurus — "A giant sea lizard, not a dinosaur."
+- Ichthyosaurus | Ichthyosaur | Temnodontosaurus | Ophthalmosaurus | Mixosaurus | Cymbospondylus | Shastasaurus | Stenopterygius | Platypterygius | Excalibosaurus — "A marine reptile, not a dinosaur."
+- Dimetrodon | Edaphosaurus | Lystrosaurus | Moschops | Inostrancevia | Gorgonops | Gorgonopsid | Estemmenosuchus | Sphenacodon | Ophiacodon | Cotylorhynchus | Pelycosaur — "Older than the dinosaurs, and more closely related to you than to them."
+- Megalodon | Otodus | Carcharocles — "A giant shark, and much later."
+- Woolly mammoth | Mammoth | Mastodon | Woolly rhinoceros | Woolly rhino | Megatherium | Giant ground sloth | Glyptodon | Irish elk | Megaloceros | Cave bear | Dire wolf | Diprotodon | Doedicurus | Macrauchenia | Thylacoleo | Cave lion | Elasmotherium | Megalonyx — "A mammal of the Ice Age."
+- Sabre-toothed tiger | Smilodon | Saber-toothed tiger | Sabretooth | Sabertooth tiger | Sabre-toothed cat | Saber-toothed cat — "An Ice Age cat."
 - Godzilla — "Fictional, though a real dinosaur is named after him."
-- Indominus rex | Indoraptor — "Invented for Jurassic World."
+- Indominus rex | Indoraptor | Scorpios rex — "Invented for Jurassic World."
 - Barney — "Fictional. Purple, too."
 - Loch Ness Monster | Nessie — "Unconfirmed. The deep is keeping quiet."
-- Crocodile | Alligator | Sarcosuchus | Deinosuchus | Postosuchus — "On the crocodile side of the family tree: a cousin of the dinosaurs, not one."
+- Crocodile | Alligator | Sarcosuchus | Deinosuchus | Postosuchus | Purussaurus | Kaprosuchus | Metriorhynchus | Desmatosuchus | Prestosuchus | Saurosuchus | Effigia | Rauisuchus | Aetosaur | Gharial | Caiman | Simosuchus — "On the crocodile side of the family tree: a cousin of the dinosaurs, not one."
 - Komodo dragon — "A lizard, very much alive today."
-- Archelon — "A giant sea turtle."
-- Raptor — "A nickname. Give the dinosaur its full name."
+- Archelon | Protostega — "A giant sea turtle."
 - Dragon — "Mythical. Probably."
 - Basilosaurus — "An early whale, despite the name."
+- Dinosaur | Dinosauria | Dino — "That's the whole family. Name one of them."
+- Sauropod | Sauropoda | Long-necked dinosaur | Longneck | Sauropodomorph | Prosauropod — "A whole group of long-necked plant-eaters. Name one of them."
+- Theropod | Theropoda | Coelurosaur | Maniraptoran | Carnosaur — "A whole group: the meat-eaters, and the birds. Name one of them."
+- Ornithopod | Ornithopoda — "A whole group of plant-eaters. Name one of them."
+- Ceratopsian | Ceratopsia | Ceratopsid | Horned dinosaur — "A whole group: the horned dinosaurs. Name one of them."
+- Ornithischian | Ornithischia | Bird-hipped dinosaur | Saurischian | Saurischia | Lizard-hipped dinosaur — "Half the dinosaur family tree. Name one of them."
+- Armoured dinosaur | Armored dinosaur | Thyreophoran — "A whole group. Name one of them."
+- Paraceratherium | Indricotherium | Andrewsarchus | Entelodon | Uintatherium | Arsinoitherium | Chalicotherium | Deinotherium | Moeritherium | Hyaenodon | Brontotherium | Megacerops — "A prehistoric mammal, from long after the dinosaurs."
+- Titanoboa — "A giant snake, from just after the dinosaurs died out."
+- Dunkleosteus — "An armoured fish, far older than the dinosaurs."
+- Trilobite — "A sea creature far older than the dinosaurs."

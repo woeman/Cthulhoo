@@ -1,0 +1,90 @@
+id: law-areas
+text: Name an area or branch of law.
+flavor: There is a law for everything. Somewhere there is a law about this.
+rules: Any recognised field of legal study or practice.
+section: Foundations
+---
+1 Criminal law | Criminal | Crime
+1 Contract law | Contract | Contracts
+1 Family law | Family | Divorce law
+1 Tax law | Taxation law | Tax | Taxation
+1 Corporate law | Company law | Corporations law | Business law | Commercial law | Corporate | Commercial
+1 Constitutional law | Constitutional
+2 Employment law | Industrial relations | Workplace law | Labour law | Labor law | Industrial law | Workplace relations | Employment
+2 Property law | Real property | Conveyancing | Land law | Property
+2 Tort law | Torts | Tort | Negligence | Personal injury
+2 Intellectual property | IP | IP law | Copyright law | Patent law | Trade mark law | Copyright
+2 Environmental law | Environmental | Environment
+2 International law | Public international law
+2 Immigration law | Migration law | Immigration
+2 Consumer law | Consumer protection | Australian Consumer Law
+2 Civil law | Civil
+2 Human rights law | Human rights
+2 Common law
+2 Wills and estates | Succession law | Probate | Succession | Estates | Wills
+2 Administrative law | Administrative
+2 Competition law | Antitrust | Anti-trust | Trade practices
+2 Bankruptcy law | Insolvency | Insolvency law | Bankruptcy
+2 Privacy law | Privacy | Data protection
+2 Maritime law | Admiralty law | Law of the sea | Admiralty
+2 Medical law | Health law | Medical negligence
+2 Banking law | Banking and finance | Finance law | Financial services law
+2 Native title | Indigenous law | Aboriginal customary law | Customary law
+2 Defamation | Defamation law | Media law
+2 Equity | Trusts | Equity and trusts | Trust law
+2 Evidence | Evidence law
+2 Military law
+2 Sports law
+2 Traffic law | Road law
+3 Insurance law | Insurance
+3 Construction law | Building law
+3 Planning law | Planning and environment | Local government law
+3 Mining law | Resources law | Energy law | Energy and resources
+3 Agency | Agency law
+3 Partnership law | Partnership
+3 Securities law | Securities regulation
+3 Mergers and acquisitions | M&A
+3 Franchising | Franchise law
+3 Sale of goods
+3 Restitution | Unjust enrichment
+3 Private international law | Conflict of laws
+3 International trade law | Trade law | Customs law
+6 Space law :: Founded on the Outer Space Treaty of 1967: no nation may claim the Moon, and astronauts are to be treated as "envoys of mankind".
+3 Aviation law | Air law
+3 Animal law
+3 Elder law
+3 Child protection | Children's law | Juvenile justice | Youth justice
+3 Discrimination law | Anti-discrimination law | Equal opportunity law
+3 Work health and safety | Occupational health and safety | WHS law | OHS
+3 Workers compensation | Workers' compensation law
+3 Superannuation law
+3 Entertainment law | Media and entertainment law
+3 Information technology law | IT law | Cyber law | Internet law | Technology law
+3 Civil procedure | Criminal procedure | Procedure | Litigation | Dispute resolution
+3 Legal ethics | Professional responsibility
+3 Jurisprudence | Legal theory | Legal philosophy
+3 Legal history
+3 Canon law | Ecclesiastical law
+3 Sharia | Islamic law | Sharia law
+3 Roman law
+3 Statute law | Statutory interpretation | Legislation
+3 Public law | Private law
+3 Humanitarian law | International humanitarian law | Law of war | Law of armed conflict
+3 International criminal law
+3 Refugee law
+4 Water law
+4 Food law
+4 Fashion law
+4 Art law | Cultural heritage law
+4 Education law
+4 Charity law | Not-for-profit law
+4 Gaming law | Gambling law | Liquor licensing | Licensing
+4 Election law | Electoral law
+4 Social security law | Welfare law
+4 Tenancy law | Residential tenancies | Landlord and tenant | Strata law | Strata
+4 Product liability
+4 Class actions
+4 Forest law
+6 Law merchant | Lex mercatoria :: The customs medieval traders carried from fair to fair, enforced by their own courts on the spot, "between tides". Much of modern commercial law grew from it.
+x Law | Legal | Lawyer | Rules | Justice | Court | Barrister | Solicitor | Judge | Police :: Which branch? Name the area.
+x Murphy's law | Law of gravity | Newton's laws | Moore's law | Sod's law | Godwin's law | Law of averages :: A law, in a manner of speaking, but no court will hear it.

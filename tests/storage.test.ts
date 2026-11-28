@@ -162,12 +162,16 @@ describe('saved progress', () => {
 
   it('checks every setting', async () => {
     const local = new FakeStorage();
-    local.data.set('cthulhoo.v1.settings', JSON.stringify({ muted: 'yes', volume: 5, reducedMotion: 'sometimes', haptics: 0 }));
+    local.data.set('cthulhoo.v1.settings', JSON.stringify({ muted: 'yes', volume: 5, reducedMotion: 'sometimes', haptics: 0, music: 'loud' }));
     let s = await storage(local);
-    expect(s.loadSettings()).toEqual({ muted: false, volume: 1, reducedMotion: 'auto', haptics: true });
+    expect(s.loadSettings()).toEqual({ muted: false, volume: 1, reducedMotion: 'auto', haptics: true, music: true });
+    local.data.set('cthulhoo.v1.settings', JSON.stringify({ muted: true, volume: 0.25, reducedMotion: 'on', haptics: false, music: false }));
+    s = await storage(local);
+    expect(s.loadSettings()).toEqual({ muted: true, volume: 0.25, reducedMotion: 'on', haptics: false, music: false });
+    // Settings saved before there was music keep it on.
     local.data.set('cthulhoo.v1.settings', JSON.stringify({ muted: true, volume: 0.25, reducedMotion: 'on', haptics: false }));
     s = await storage(local);
-    expect(s.loadSettings()).toEqual({ muted: true, volume: 0.25, reducedMotion: 'on', haptics: false });
+    expect(s.loadSettings().music).toBe(true);
   });
 });
 

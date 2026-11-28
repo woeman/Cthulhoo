@@ -1,0 +1,116 @@
+id: anatomy-specialties
+text: Name a medical specialty or kind of specialist doctor.
+flavor: For every part of you there is someone who studied nothing else. Some of them enjoyed it.
+rules: Any recognised branch of medicine or surgery, as the field or as the doctor who practises it.
+section: Medicine
+---
+1 Cardiology | Cardiologist | Heart specialist | Heart doctor
+1 Paediatrics | Pediatrics | Paediatrician | Pediatrician | Children's doctor | Paeds
+1 Surgery | Surgeon | General surgery | General surgeon
+1 Dermatology | Dermatologist | Skin specialist | Skin doctor
+1 General practice | GP | General practitioner | Family medicine | Family doctor | Family physician
+1 Psychiatry | Psychiatrist
+1 Neurology | Neurologist
+1 Oncology | Oncologist | Cancer specialist | Medical oncology | Cancer doctor
+2 Obstetrics | Obstetrician | Gynaecology | Gynecology | Gynaecologist | Gynecologist | Obstetrics and gynaecology | OB-GYN | O&G | OBGYN | Obstetrics and gynecology
+2 Orthopaedics | Orthopedics | Orthopaedic surgeon | Orthopedic surgeon | Orthopaedic surgery | Orthopod | Orthopaedist | Orthopedist | Orthopedic surgery
+2 Anaesthesia | Anaesthetics | Anaesthetist | Anesthesiology | Anesthesiologist | Anaesthesiology | Anesthetist
+2 Radiology | Radiologist | Diagnostic radiology
+2 Neurosurgery | Neurosurgeon | Brain surgeon | Brain surgery
+2 Ophthalmology | Ophthalmologist | Eye surgeon | Eye doctor | Eye specialist
+2 Emergency medicine | Emergency physician | ED doctor | ER doctor | Emergency doctor | Emergency
+2 Pathology | Pathologist
+2 Plastic surgery | Plastic surgeon | Cosmetic surgery | Cosmetic surgeon | Reconstructive surgery
+2 Urology | Urologist
+2 ENT | Otolaryngology | Ear, nose and throat | Otolaryngologist | Otorhinolaryngology | ENT surgeon | Ear nose and throat
+2 Gastroenterology | Gastroenterologist | Gastro
+2 Endocrinology | Endocrinologist
+2 Geriatrics | Geriatrician | Geriatric medicine | Aged care medicine
+2 Haematology | Hematology | Haematologist | Hematologist
+2 Immunology | Immunologist | Allergy | Allergist | Allergy and immunology
+2 Sports medicine | Sports physician | Sports doctor | Sport and exercise medicine
+2 Cardiothoracic surgery | Cardiac surgeon | Heart surgeon | Cardiothoracic surgeon | Cardiac surgery | Heart surgery | Thoracic surgery
+3 Nephrology | Nephrologist | Renal medicine | Kidney specialist
+3 Rheumatology | Rheumatologist
+3 Respiratory medicine | Pulmonology | Pulmonologist | Respiratory physician | Thoracic medicine | Respirology
+3 Infectious diseases | Infectious disease physician | Infectious disease
+3 Intensive care | Intensivist | Critical care | ICU | Intensive care medicine | Critical care medicine
+3 Palliative care | Palliative medicine
+3 Rehabilitation medicine | Rehabilitation physician | Physiatry | Physiatrist | Rehab medicine
+3 Public health | Public health medicine | Epidemiology | Epidemiologist
+3 Forensic pathology | Forensic pathologist | Forensic medicine | Coroner's pathologist
+3 Neonatology | Neonatologist
+3 Vascular surgery | Vascular surgeon
+3 Radiation oncology | Radiation oncologist | Radiotherapy
+3 Nuclear medicine
+3 Hepatology | Hepatologist
+3 Colorectal surgery | Colorectal surgeon | Proctology | Proctologist
+3 Paediatric surgery | Pediatric surgery | Paediatric surgeon
+3 Oral and maxillofacial surgery | Maxillofacial surgeon | Maxillofacial surgery | Oral surgery | Oral surgeon
+3 Clinical genetics | Geneticist | Medical genetics | Genetics
+3 Occupational medicine | Occupational physician
+3 Pain medicine | Pain specialist | Pain management
+3 Sexual health | Sexual health medicine | Venereology
+3 Addiction medicine | Addiction psychiatry
+3 Sleep medicine | Sleep physician
+3 Internal medicine | General medicine | Physician | Internist | General physician
+3 Rural generalism | Rural generalist | Rural medicine
+3 Medical administration
+3 Anatomical pathology | Histopathology | Histopathologist
+3 Microbiology | Microbiologist | Clinical microbiology
+3 Chemical pathology | Clinical biochemistry
+3 Clinical pharmacology | Pharmacology
+3 Toxicology | Toxicologist
+3 Transplant surgery | Transplant surgeon
+3 Trauma surgery | Trauma surgeon
+3 Bariatric surgery | Bariatric surgeon | Upper GI surgery
+3 Breast surgery | Breast surgeon
+3 Hand surgery | Hand surgeon
+3 Spinal surgery | Spine surgeon
+3 Interventional radiology | Interventional radiologist
+3 Interventional cardiology | Electrophysiology | Electrophysiologist
+3 Child psychiatry | Child and adolescent psychiatry
+3 Forensic psychiatry | Forensic psychiatrist
+3 Neuropsychiatry
+3 Maternal-fetal medicine | Maternal fetal medicine | Perinatology
+3 Reproductive medicine | Fertility specialist | Reproductive endocrinology | IVF specialist
+3 Andrology | Andrologist
+3 Travel medicine | Tropical medicine
+3 Aviation medicine | Aerospace medicine
+6 Diving medicine | Hyperbaric medicine | Diving and hyperbaric medicine | Underwater medicine :: The medicine of the bends, rapture of the deep and oxygen under pressure. Doctors who sink for a living: the abyss approves.
+3 Military medicine
+3 Dentistry | Dentist | Orthodontics | Orthodontist | Periodontist | Endodontist
+3 Podiatry | Podiatrist | Podiatric surgery
+4 Neuroradiology
+4 Neuropathology
+4 Dermatopathology
+4 Cytopathology
+4 Phlebology | Phlebologist
+4 Lymphology
+4 Audiovestibular medicine | Neurotology | Otology
+4 Rhinology | Laryngology
+4 Neuro-ophthalmology
+4 Oculoplastics | Oculoplastic surgery
+4 Urogynaecology | Urogynecology
+4 Gynaecological oncology | Gynecologic oncology
+4 Paediatric cardiology | Pediatric cardiology
+4 Adolescent medicine
+4 Developmental paediatrics | Developmental pediatrics
+4 Psychogeriatrics | Old age psychiatry
+4 Bariatric medicine | Obesity medicine
+4 Lifestyle medicine
+4 Wilderness medicine | Expedition medicine
+4 Disaster medicine
+4 Transfusion medicine
+4 Clinical neurophysiology
+4 Clinical immunology
+4 Surgical oncology
+4 Angiology
+4 Mohs surgery | Mohs surgeon
+4 Burns surgery | Burns surgeon
+4 Craniofacial surgery
+4 Hepatobiliary surgery | HPB surgery
+4 Endocrine surgery
+x Nurse | Nursing | Physiotherapist | Physiotherapy | Pharmacist | Paramedic | Psychologist | Chiropractor | Optometrist | Naturopath | Homeopathy | Midwife | Osteopath :: A health profession in its own right, but not a medical specialty a doctor trains in.
+x Doctor | Medicine | Specialist | Medic | Hospital :: Which kind? Name the specialty.
+x Vet | Veterinarian | Veterinary medicine :: Different patients, different degree.

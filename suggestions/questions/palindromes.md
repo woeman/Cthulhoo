@@ -6,7 +6,7 @@ Rules: Any real word, name or well-known phrase, in any language, that reads the
 
 Spelling counts on this question: answers must match exactly.
 
-## Accepted now (162 answers)
+## Accepted now (354 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -28,7 +28,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bob
 - Eve
 
-### Tier 2: common (28)
+### Tier 2: common (31)
 
 - Refer
 - Rotor
@@ -58,8 +58,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Madam, I'm Adam
 - A man, a plan, a canal: Panama
 - Boob
+- Ma'am
+- SOS
+- LOL
 
-### Tier 3: known to fans (36)
+### Tier 3: known to fans (65)
 
 - Redder
 - Reviver
@@ -97,8 +100,37 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Non
 - Was it a cat I saw
 - Was it a rat I saw
+- Mmm
+- Sus
+- AKA
+- TNT
+- Ana
+- Ono
+- Idi
+- Aya
+- Aja
+- Lon Nol
+- Pip-pip
+- Wonton? Not now
+- Dennis sinned
+- Dennis and Edna sinned
+- Pull up if I pull up
+- I did, did I?
+- Avid diva
+- Wet stew
+- Desserts stressed
+- Amor, Roma
+- Roma amor
+- A Toyota's a Toyota
+- Ten animals I slam in a net
+- Never even
+- Now I won
+- Drawer reward
+- Star rats
+- Mood doom
+- I prefer pi
 
-### Tier 4: obscure (46)
+### Tier 4: obscure (119)
 
 - Minim
 - Shahs
@@ -146,8 +178,81 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rentner
 - Été
 - Aibohphobia
+- Kek
+- Aga
+- Amma
+- Appa
+- Akka
+- Atta
+- Ebbe
+- Alla
+- Ece
+- Ege
+- Kajak
+- Ici
+- Oro
+- Ovo
+- Osso
+- Ogopogo
+- Renner
+- Seles
+- Natan
+- Navan
+- Aziza
+- Salas
+- Reger
+- Neven
+- Never a foot too far, even
+- Won't lovers revolt now?
+- Some men interpret nine memos
+- Was it Eliot's toilet I saw?
+- Name no one man
+- Live on time, emit no evil
+- Ma is as selfless as I am
+- Not a banana baton
+- No devil lived on
+- Satan, oscillate my metallic sonatas
+- Too bad I hid a boot
+- Lisa Bonet ate no basil
+- Ah, Satan sees Natasha
+- Was it a bar or a bat I saw?
+- Party boobytrap
+- Sir, I demand, I am a maid named Iris
+- Ana, nab a banana
+- We panic in a pew
+- Pupils slip up
+- Sore was I ere I saw Eros
+- Oh no! Don Ho!
+- No, it is opposition
+- Nate bit a Tibetan
+- Cain: a maniac
+- Mirror rim
+- Draw, O Caesar, erase a coward
+- Ma has a ham
+- Pa's a sap
+- A nut for a jar of tuna
+- Neil, an alien
+- Stella won no wallets
+- Too far, Edna, we wander afoot
+- Lepers repel
+- Repel a leper
+- Straw warts
+- Live evil
+- Gnu dung
+- Tuna nut
+- Bird rib
+- Pets step
+- Dumb mud
+- Mad Adam
+- Anita lava la tina
+- Dábale arroz a la zorra el abad
+- Sum summus mus
+- Roma tibi subito motibus ibit amor
+- Ni talar bra latin
+- Ésope reste ici et se repose
+- Engage le jeu que je le gagne
 
-### Tier 5: expert (35)
+### Tier 5: expert (122)
 
 - Detartrated
 - Rotavator
@@ -184,6 +289,93 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lagerregal
 - Lepel
 - Ressasser
+- Ala
+- Awa
+- Iwi
+- Utu
+- Ulu
+- Mim
+- Mem
+- Vav
+- Waw
+- Zuz
+- Uhu
+- Omo
+- Kik
+- Oyo
+- Aa
+- Ara
+- Ecce
+- Esse
+- Sedes
+- Semes
+- Seres
+- Sinis
+- Dewed
+- Kazak
+- Alala
+- Arara
+- Igigi
+- Nisin
+- Malam
+- Matam
+- Tevet
+- Torot
+- Degged
+- Mallam
+- Revver
+- Selles
+- Tirrit
+- Evitative
+- Releveler
+- Akasaka
+- Okonoko
+- Kanakanak
+- Noxon
+- Apapa
+- Neben
+- Neffen
+- Reliefpfeiler
+- Retsinakanister
+- Serres
+- Rêver
+- Sometemos
+- Rallar
+- Anilina
+- Ingegni
+- Ottetto
+- Ossesso
+- Negen
+- Meetsysteem
+- Parterretrap
+- Ajaja
+- Innostunut sonni
+- Sumus
+- Mark Kram
+- Robert Trebor
+- Revilo P. Oliver — Revilo Oliver
+- Satire: Veritas
+- Signa te signa temere me tangis et angis
+- Socorram-me, subi no ônibus em Marrocos
+- Ed, I saw Harpo Marx ram Oprah W. aside
+- Doc, note: I dissent. A fast never prevents a fatness. I diet on cod
+- Rats drown in WordStar
+- Drab as a fool, aloof as a bard
+- Red roses run no risk, sir, on Nurse's order
+- Yo! Bottoms up, U.S. Motto, boy!
+- Al lets Della call Ed Stella
+- Kay, a red nude, peeped under a yak
+- Elk City, Kansas, is a snaky tickle
+- Gateman sees name, garageman sees name tag
+- Dog as a devil deified, lived as a god
+- Go deliver a dare, vile dog
+- Evil is a name of a foeman, as I live
+- Cigar? Toss it in a can. It is so tragic
+- No trace; not one carton
+- Reviled did I live, said I, as evil I did deliver
+- Tarzan raised Desi Arnaz' rat
+- Now, Ned, I am a maiden nun; Ned, I am a maiden won
+- Nella's simple hymn: I attain my help, Miss Allen
 
 ### Tier 6: rare jackpots (2)
 

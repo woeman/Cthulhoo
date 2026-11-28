@@ -6,28 +6,28 @@ Rules: Any board game, ancient or modern, including tile games like mahjong. Pla
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (347 answers)
+## Accepted now (365 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
-- Chess — Western chess | International chess | Speed chess | Blitz chess
-- Monopoly — Monopoly Junior | Monopoly board game
-- Scrabble — Junior Scrabble | Scrabble Junior | Super Scrabble
-- Checkers — Draughts | Chequers | International draughts | American checkers | English draughts | Straight checkers
-- Cluedo — Clue
-- Snakes and Ladders — Chutes and Ladders | Moksha patam | Gyan chaupar | Leela | Snakes and Ladder
-- Ludo — Uckers | Ludo King
+- Chess — Western chess | International chess | Speed chess | Blitz chess | Chest | Chess set | Chess board
+- Monopoly — Monopoly Junior | Monopoly board game | Junior Monopoly | Australian Monopoly | Aussie Monopoly | Monopoly Australia | Monopoly Australian Edition
+- Scrabble — Junior Scrabble | Scrabble Junior | Super Scrabble | Scrabel | Travel Scrabble
+- Checkers — Draughts | Chequers | International draughts | American checkers | English draughts | Straight checkers | Drafts | Drauts
+- Cluedo — Clue | Cludo | Clewdo | Cluedo Junior | Junior Cluedo
+- Snakes and Ladders — Chutes and Ladders | Moksha patam | Gyan chaupar | Leela | Snakes and Ladder | Shoots and Ladders | Shutes and Ladders
+- Ludo — Uckers | Ludo King | Loodo
 - Backgammon — Tavla | Nardy | Tables | Shesh besh | Nard | Trictrac | Jacquet | Plakoto | Acey-deucey | Gammon | Tavli
-- Risk
-- Trivial Pursuit
+- Risk — Lord of the Rings Risk
+- Trivial Pursuit — Trivial | Trivial Pursuit Genus | Trivial Pursuit Genus Edition
 
 ### Tier 2: common (18)
 
 - Go — Weiqi | Baduk | Igo | Wei-chi | Paduk | Go board game
-- Catan — Settlers of Catan | Settlers | Die Siedler von Catan | Siedler
-- Ticket to Ride — Ticket to Ride Europe | TTR
+- Catan — Settlers of Catan | Settlers | Die Siedler von Catan | Siedler | Catan Junior
+- Ticket to Ride — Ticket to Ride Europe | TTR | Ticket 2 Ride
 - Mahjong — Mah-jongg | Majiang | Mahjong solitaire | Riichi mahjong | Riichi
 - Dominoes — Domino | Dominos | Mexican Train | Mexican Train dominoes | Chickenfoot
 - Othello — Reversi
@@ -39,10 +39,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mastermind
 - Chinese checkers — Sternhalma | Chinese chequers
 - Pandemic
-- Carcassonne
+- Carcassonne — Carkasson | Karkason | Karkasson | Carcason
 - Sorry!
 - Candy Land
-- Tic-tac-toe — Noughts and crosses | Xs and Os | Tick tack toe
+- Tic-tac-toe — Noughts and crosses | Xs and Os | Tick tack toe | Knots and Crosses | Nots and Crosses | Os and Xs
 
 ### Tier 3: known to fans (22)
 
@@ -55,21 +55,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mancala — Oware | Bao | Kalah | Sungka | Congkak | Awale | Awari | Ayo | Kalaha | Owari | Warri | Wari | Sowing game
 - Shogi — Japanese chess
 - Xiangqi — Chinese chess
-- Parcheesi — Parchis
-- Trouble — Frustration | Pop-O-Matic Trouble
+- Parcheesi — Parchis | Parchisi
+- Trouble — Frustration | Pop-O-Matic Trouble | Pop-o-matic
 - Blokus
-- Azul
+- Azul — Azool
 - Wingspan
 - Codenames
-- Rummikub — Rummy-O | Rummy tiles
+- Rummikub — Rummy-O | Rummy tiles | Rummy cube | Rummi cube | Rummy kub
 - Arkham Horror
 - Carrom — Carom | Karrom | Carrom board | Carroms
-- Cribbage — Crib | Cribbage board
+- Cribbage — Crib | Cribbage board | Creb
 - Game of the Goose — Goose game | Jeu de l'oie | Gioco dell'oca | Goose
 - Sequence
 - Words with Friends
 
-### Tier 4: obscure (85)
+### Tier 4: obscure (87)
 
 - Halma
 - Chaturanga
@@ -99,7 +99,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Articulate
 - Aggravation
 - Payday
-- Ouija — Ouija board | Talking board
+- Ouija — Ouija board | Talking board | Weegee board | Weegie board
 - Peg solitaire — Solo noble | Solitaire
 - Fischer random chess — Chess960 | Freestyle chess
 - Bananagrams
@@ -156,8 +156,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Scene It?
 - Tsuro
 - Hey, That's My Fish! — Fish Fish Fish
+- Just One
+- Wavelength
 
-### Tier 5: expert (209)
+### Tier 5: expert (225)
 
 - Janggi — Korean chess | Changgi
 - Makruk — Thai chess
@@ -368,6 +370,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hare and Hounds — Hare games | French military game
 - Aadu puli attam — Lambs and tigers
 - Ashta chamma
+- Telestrations
+- My City
+- Planet Unknown
+- Iki
+- Decrypto
+- Dorfromantik — Dorfromantik: The Board Game | Dorfromantik board game
+- The Search for Planet X — Planet X
+- Marrakech — Marrakesh
+- Skull — Skull and Roses
+- The White Castle
+- Squatter — Squatters | Squatter board game
+- Test Match — Test Match cricket | Test Match board game
+- Poleconomy — Poleconomy board game
+- Colt Express
+- Villainous — Disney Villainous
+- The Resistance — Avalon | The Resistance: Avalon
 
 ### Tier 6: rare jackpots (3)
 
@@ -379,14 +397,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Poker | Bridge | Blackjack | Rummy | Uno | Snap | Go Fish | Exploding Kittens | Cards Against Humanity | Magic: The Gathering | Patience | Klondike | Canasta | Taboo | Hearts | Spades | Gin rummy | Crazy eights | Old maid | Euchre | Whist | Pinochle | Baccarat | Skip-Bo | Phase 10 | Top Trumps | Pokémon cards | Yu-Gi-Oh! | Love Letter | Coup | Sushi Go | Hanabi | Bohnanza | Munchkin | Fluxx | Dobble | Spot It | Happy Families | Cheat | Durak | Apples to Apples | Solitaire card game | Gin | Cribbage card game | Mille Bornes | Monopoly Deal | Uno Flip | Snap card game — "A card game, not a board game."
-- Yahtzee | Craps | Liar's dice | Farkle | Boggle | Pass the Pigs | Shut the box | Bunco | Perudo | Qwixx | Tenzi | Sic bo | Chuck-a-luck | Dice — "A dice game, not a board game."
+- Poker | Bridge | Blackjack | Rummy | Uno | Snap | Go Fish | Exploding Kittens | Cards Against Humanity | Magic: The Gathering | Patience | Klondike | Canasta | Taboo | Hearts | Spades | Gin rummy | Crazy eights | Old maid | Euchre | Whist | Pinochle | Baccarat | Skip-Bo | Phase 10 | Top Trumps | Pokémon cards | Yu-Gi-Oh! | Love Letter | Coup | Sushi Go | Hanabi | Bohnanza | Munchkin | Fluxx | Dobble | Spot It | Happy Families | Cheat | Durak | Apples to Apples | Solitaire card game | Gin | Cribbage card game | Mille Bornes | Monopoly Deal | Uno Flip | Snap card game | The Crew | The Crew: The Quest for Planet Nine | The Crew: Mission Deep Sea | Cards | Card game | Card games | Playing cards | Deck of cards | Lost Cities | Machi Koro | Unstable Unicorns | Throw Throw Burrito | Five Crowns — "A card game, not a board game."
+- Yahtzee | Craps | Liar's dice | Farkle | Boggle | Pass the Pigs | Shut the box | Bunco | Perudo | Qwixx | Tenzi | Sic bo | Chuck-a-luck | Dice | Yahtzy | Yatzy — "A dice game, not a board game."
 - Dungeons & Dragons | D&D | DnD | Call of Cthulhu | Pathfinder | Vampire: The Masquerade | Shadowrun | Traveller — "A role-playing game. No board required."
 - Warhammer | Warhammer 40k | Warhammer 40,000 | Age of Sigmar | Warmachine | Bolt Action | Necromunda | Kill Team | Mordheim | Flames of War — "A miniatures wargame, played across a tabletop, not a board."
-- Jenga | Kerplunk | Buckaroo | Pop-up Pirate | Crocodile Dentist | Don't Break the Ice | Tumblin' Monkeys — "A game of steady hands. No board."
+- Jenga | Kerplunk | Buckaroo | Pop-up Pirate | Crocodile Dentist | Don't Break the Ice | Tumblin' Monkeys | Marbles | Tiddlywinks | Pick-up sticks — "A game of steady hands. No board."
 - Twister — "Played on a mat with your own body. Close, but no board."
 - Charades | Hangman | Scattergories | Twenty questions | I spy | Mafia | Werewolf | Wink murder | Truth or dare | Spin the bottle | Heads Up! | Simon says | Musical chairs — "A parlour game. No board needed."
-- Rubik's Cube | Sudoku | Crossword | Jigsaw puzzle | Wordle — "A puzzle, not a board game."
+- Rubik's Cube | Sudoku | Crossword | Jigsaw puzzle | Wordle | Jigsaw | Jigsaws | Jigsaw puzzles | Puzzle — "A puzzle, not a board game."
 - Tetris | Minecraft | Fortnite | Mario Kart | Call of Duty | FIFA — "A video game, not a board game."
 - Mario Party — "A video game, if a very board-game-like one."
 - Darts | Dartboard — "Played on a board, but you throw things at it. Not a board game."

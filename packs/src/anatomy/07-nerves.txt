@@ -1,0 +1,87 @@
+id: anatomy-nerves
+text: Name a nerve in the human body.
+flavor: Every scream starts as a small electrical message. These are the wires it travels along.
+rules: Any named nerve, including the twelve cranial nerves.
+section: Nervous system
+---
+1 Sciatic nerve | Sciatic | Sciatica
+1 Optic nerve | Optic | Cranial nerve II | CN II | Second cranial nerve
+1 Spinal cord | Spinal nerve | Spinal nerves
+1 Vagus nerve | Vagus | Cranial nerve X | CN X | Tenth cranial nerve | Vagal nerve
+2 Ulnar nerve | Ulnar | Funny bone | Funny bone nerve
+2 Auditory nerve | Vestibulocochlear nerve | Cochlear nerve | Acoustic nerve | Vestibulocochlear | Cranial nerve VIII | CN VIII | Vestibular nerve | Hearing nerve
+2 Olfactory nerve | Olfactory | Cranial nerve I | CN I | First cranial nerve
+2 Facial nerve | Facial | Cranial nerve VII | CN VII
+2 Trigeminal nerve | Trigeminal | Cranial nerve V | CN V
+2 Median nerve | Median | Carpal tunnel nerve
+2 Radial nerve | Radial
+2 Femoral nerve | Femoral
+2 Phrenic nerve | Phrenic
+3 Oculomotor nerve | Oculomotor | Cranial nerve III | CN III
+3 Trochlear nerve | Trochlear | Cranial nerve IV | CN IV
+3 Abducens nerve | Abducens | Abducent nerve | Cranial nerve VI | CN VI
+3 Glossopharyngeal nerve | Glossopharyngeal | Cranial nerve IX | CN IX
+3 Accessory nerve | Spinal accessory nerve | Accessory | Cranial nerve XI | CN XI
+3 Hypoglossal nerve | Hypoglossal | Cranial nerve XII | CN XII
+3 Tibial nerve | Tibial
+3 Peroneal nerve | Common peroneal nerve | Common fibular nerve | Fibular nerve | Deep peroneal nerve | Superficial peroneal nerve
+3 Pudendal nerve | Pudendal
+3 Axillary nerve
+3 Musculocutaneous nerve | Musculocutaneous
+3 Brachial plexus
+3 Lumbar plexus | Lumbosacral plexus | Sacral plexus
+3 Cervical plexus
+3 Solar plexus | Coeliac plexus | Celiac plexus
+3 Obturator nerve
+3 Sural nerve
+3 Saphenous nerve
+3 Intercostal nerve | Intercostal nerves
+3 Recurrent laryngeal nerve | Laryngeal nerve | Superior laryngeal nerve
+3 Ophthalmic nerve | Maxillary nerve | Mandibular nerve
+3 Inferior alveolar nerve | Dental nerve | Alveolar nerve
+3 Lingual nerve
+3 Chorda tympani
+3 Cauda equina
+3 Sympathetic trunk | Sympathetic chain | Sympathetic nerve | Splanchnic nerve | Splanchnic nerves
+3 Occipital nerve | Greater occipital nerve | Lesser occipital nerve
+3 Long thoracic nerve
+3 Thoracodorsal nerve
+3 Suprascapular nerve
+3 Gluteal nerve | Superior gluteal nerve | Inferior gluteal nerve
+3 Lateral femoral cutaneous nerve | Lateral cutaneous nerve of the thigh
+3 Genitofemoral nerve
+3 Ilioinguinal nerve
+3 Iliohypogastric nerve
+3 Plantar nerve | Medial plantar nerve | Lateral plantar nerve
+3 Digital nerve | Digital nerves
+4 Dorsal scapular nerve
+4 Subscapular nerve
+4 Pectoral nerve | Medial pectoral nerve | Lateral pectoral nerve
+4 Anterior interosseous nerve | Posterior interosseous nerve
+4 Supraorbital nerve | Supratrochlear nerve | Frontal nerve
+4 Infraorbital nerve
+4 Mental nerve
+4 Auriculotemporal nerve
+4 Great auricular nerve
+4 Nasociliary nerve | Lacrimal nerve
+4 Zygomatic nerve
+4 Buccal nerve
+4 Greater petrosal nerve | Lesser petrosal nerve | Petrosal nerve
+4 Hypogastric nerve | Pelvic splanchnic nerves
+4 Subcostal nerve
+4 Suboccipital nerve
+4 Ansa cervicalis
+4 Supraclavicular nerve | Supraclavicular nerves
+4 Transverse cervical nerve
+4 Posterior femoral cutaneous nerve
+4 Nerve to obturator internus | Nerve to quadratus femoris
+4 Medial cutaneous nerve of the forearm | Medial antebrachial cutaneous nerve
+4 Vidian nerve | Nerve of the pterygoid canal
+4 Nervus intermedius | Nerve of Wrisberg
+4 Carotid sinus nerve | Hering's nerve
+4 Coccygeal nerve
+4 Cluneal nerves | Cluneal nerve
+6 Terminal nerve | Cranial nerve zero | Cranial nerve 0 | Nervus terminalis | CN 0 :: The thirteenth cranial nerve the textbooks leave out. Found in sharks in 1878 and in humans in 1913, it sits ahead of the first, so it is numbered zero.
+6 Arnold's nerve | Auricular branch of the vagus | Alderman's nerve :: A twig of the vagus that reaches the ear canal. It is why cleaning your ear can make you cough. Aldermen were said to tickle it to revive their appetite at feasts.
+x Nerve | Nerves | Neuron | Neurone | Axon | Dendrite | Synapse | Brain | Nervous system | Ganglion :: Which one? Name the nerve itself.
+x Achilles tendon | Tendon | Artery | Vein | Aorta | Muscle | Ligament | Jugular :: Not a nerve.

@@ -25,6 +25,8 @@ const error = (where, msg) => errors.push(`${where}: ${msg}`);
 const warn = (where, msg) => warnings.push(`${where}: ${msg}`);
 
 const PROMPT_FIELDS = new Set(["id", "text", "category", "flavor", "rules", "exact", "answers", "traps", "decoys"]);
+// Class packs may also label a prompt (see packs/README.md).
+const PACK_PROMPT_FIELDS = new Set(["section", "asOf", "source"]);
 const ANSWER_FIELDS = new Set(["answer", "aliases", "tier", "lore", "openSecret"]);
 const TRAP_FIELDS = new Set(["answer", "aliases", "reason"]);
 const RIDDLE_FIELDS = new Set(["id", "verse", "answers", "hints", "traps", "page", "exact"]);
@@ -127,7 +129,7 @@ function checkPrompt(prompt, where, theme, seenIds, lexicons) {
     return null;
   }
   for (const field of Object.keys(prompt)) {
-    if (!PROMPT_FIELDS.has(field)) warn(label, `unknown field "${field}"`);
+    if (!PROMPT_FIELDS.has(field) && !(where.startsWith("packs/") && PACK_PROMPT_FIELDS.has(field))) warn(label, `unknown field "${field}"`);
   }
   if (!isText(prompt.id) || !ID_PATTERN.test(prompt.id)) error(label, "id must be kebab-case, e.g. landlocked-countries");
   else if (seenIds.has(prompt.id)) error(label, `id also used in ${seenIds.get(prompt.id)}`);
@@ -290,18 +292,39 @@ const promptDays = [];
 const PROMPTS_PER_DAY = 7; // as in src/game/daily.ts
 const rows = [];
 let riddleCount = 0;
-const files = readdirSync(dataDir).filter((f) => f.endsWith(".json") && f !== "theme.json").sort();
+const files = readdirSync(dataDir).filter((f) => f.endsWith(".json") && f !== "theme.json").sort().map((f) => `data/${f}`);
+// Class packs (packs/<topic>.json, built by scripts/build-packs.mjs) hold
+// prompts in the same format and are checked the same way. They are never
+// part of the daily dive.
+const packsDir = join(root, "packs");
+let packFiles = [];
+try {
+  packFiles = readdirSync(packsDir).filter((f) => f.endsWith(".json") && f !== "index.json").sort().map((f) => `packs/${f}`);
+} catch {
+  // no packs yet
+}
 
-for (const file of files) {
-  const where = `data/${file}`;
-  const data = readJson(join(dataDir, file));
+const packsSeen = [];
+for (const where of [...files, ...packFiles]) {
+  const isPack = where.startsWith("packs/");
+  const data = readJson(join(root, where));
   if (!data) continue;
-  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles) && !Array.isArray(data.days)) {
-    error(where, 'expected { "prompts": [ ... ] }, { "riddles": [ ... ] } or { "days": [ ... ] }');
+  if (isPack) {
+    packsSeen.push({ where, pack: data.pack, prompts: data.prompts ?? [] });
+    const id = where.replace(/^packs\//, "").replace(/\.json$/, "");
+    if (data.pack?.id !== id || !isText(data.pack?.name)) error(where, `"pack" needs id "${id}" and a name`);
+    for (const p of data.prompts ?? []) {
+      if (isText(p?.id) && !p.id.startsWith(`${id}-`)) error(where, `prompt id "${p.id}" must start with "${id}-"`);
+    }
+  }
+  // Fixed daily dives ({ "days": [ ... ] }) belong to the daily bank in data/, never to a pack.
+  const fixedDays = !isPack && Array.isArray(data.days);
+  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles) && !fixedDays) {
+    error(where, isPack ? 'expected { "prompts": [ ... ] } or { "riddles": [ ... ] }' : 'expected { "prompts": [ ... ] }, { "riddles": [ ... ] } or { "days": [ ... ] }');
     continue;
   }
   for (const key of Object.keys(data)) {
-    if (!["prompts", "riddles", "days"].includes(key)) warn(where, `unknown top-level field "${key}"`);
+    if (!["prompts", "riddles", "days"].includes(key) && !(isPack && key === "pack")) warn(where, `unknown top-level field "${key}"`);
   }
   for (const prompt of data.prompts ?? []) {
     const row = checkPrompt(prompt, where, theme, seenIds, lexicons);
@@ -311,7 +334,7 @@ for (const file of files) {
     if (checkRiddle(riddle, where, riddleIds)) riddleCount++;
   }
   if (Array.isArray(data.riddles) && data.days !== undefined) riddleDays.push({ where, days: data.days });
-  else if (data.days !== undefined) promptDays.push({ where, days: data.days });
+  else if (data.days !== undefined && !isPack) promptDays.push({ where, days: data.days });
 }
 
 // Fixed daily dives (written by scripts/freeze-days.mjs) must name real prompts, at most a day's
@@ -333,7 +356,36 @@ for (const { where, days } of promptDays) {
     }
     if (d.prompts.length > PROMPTS_PER_DAY) error(where, `day ${date} lists ${d.prompts.length} prompts; a day holds ${PROMPTS_PER_DAY}`);
     if (new Set(d.prompts).size !== d.prompts.length) error(where, `day ${date} lists a prompt twice`);
-    for (const id of d.prompts) if (!seenIds.has(id)) error(where, `day ${date} names unknown prompt "${id}"`);
+    for (const id of d.prompts) {
+      // A day holds daily prompts only: a class pack's prompt is known to this script but not to the daily dive.
+      if (!seenIds.has(id)) error(where, `day ${date} names unknown prompt "${id}"`);
+      else if (!seenIds.get(id).startsWith("data/")) error(where, `day ${date} names "${id}", which is a class pack's prompt (${seenIds.get(id)}), not a daily one`);
+    }
+  }
+}
+
+// packs/index.json is what the game's topic tick-boxes read, so it must agree
+// with the pack files. node scripts/build-packs.mjs rewrites it.
+if (packsSeen.length > 0) {
+  const where = "packs/index.json";
+  const index = readJson(join(packsDir, "index.json"));
+  const listed = new Map((index?.packs ?? []).map((p) => [p.id, p]));
+  if (listed.size !== packsSeen.length) error(where, `lists ${listed.size} packs, found ${packsSeen.length} pack files; run node scripts/build-packs.mjs`);
+  for (const { where: file, pack, prompts } of packsSeen) {
+    const row = listed.get(pack?.id);
+    const answers = prompts.reduce((n, p) => n + (Array.isArray(p?.answers) ? p.answers.length : 0), 0);
+    if (!row) error(where, `${file} is missing; run node scripts/build-packs.mjs`);
+    else if (row.file !== file.replace("packs/", "") || row.prompts !== prompts.length || row.answers !== answers || row.name !== pack.name || row.blurb !== pack.blurb || row.group !== pack.group || row.order !== pack.order || row.asOf !== pack.asOf) {
+      error(where, `out of date for ${file}; run node scripts/build-packs.mjs`);
+    }
+    if (isText(pack?.name) && pack.name.length > 18) error(file, `pack name "${pack.name}" is over 18 characters`);
+    if (!isText(pack?.group)) error(file, "pack needs a group, such as Business or Science");
+    for (const p of prompts) {
+      if (isText(p?.section) && p.section.length > 30) error(file, `${p.id}: section is over 30 characters`);
+      const size = JSON.stringify(p).length;
+      if (size > 400_000) warn(file, `${p.id} is ${Math.round(size / 1000)} KB of JSON (the game expects 400 KB at most)`);
+      if ((p?.answers ?? []).length < 15) warn(file, `${p.id} has under 15 answers, too few for blitz and last diver standing`);
+    }
   }
 }
 

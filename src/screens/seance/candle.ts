@@ -3,6 +3,7 @@
 // speaking), refusals in the daily's voice, and the circle's marks lighting one
 // by one as each sitter seals. On the table, the hands light round the glass.
 
+import { filedUnder } from '../../game/packs';
 import { pickLine } from '../../game/theme';
 import { h, risingWords } from '../../ui/dom';
 import type { CandlePrompt, Verdict } from '../../party/types';
@@ -71,7 +72,7 @@ export class CandleScene extends Scene {
     const qid = uniq('sc-q');
     const rid = uniq('sc-rules');
     const { q, rules, flavor } = questionBlock(prompt, qid, rid);
-    const cat = this.env.theme.categories[prompt.category];
+    const filed = filedUnder(this.env.theme, prompt);
     this.parts = answerForm(prompt.rules ? `${qid} ${rid}` : qid, () => this.env.sound?.key?.());
     this.clock = new CandleRow({
       now: () => this.ctx.now(),
@@ -91,7 +92,7 @@ export class CandleScene extends Scene {
       side.append(h('p', { class: 'sc-holder' }, `${data.holder.name} holds the lantern.`), h('p', { class: 'sc-holder-sub' }, 'Nobody else should see the screen.'));
     }
     this.slot = h('div', { class: 'sc-answer-slot' }, this.parts.form);
-    this.madCat = cat ? h('p', { class: 'category' }, cat.title) : null;
+    this.madCat = filed ? h('p', { class: 'category' }, filed) : null;
     this.plate = h(
       'div',
       { class: 'plate question-plate sc-qplate' },
@@ -308,8 +309,8 @@ export class TableCandleScene extends Scene {
     this.table.glass(String(this.clock.seconds || Math.round((data.deadline - data.litAt) / 1000)), 'secs');
     this.stops.push(() => this.clock.stop());
     this.count = h('p', { class: 'sc-tc-count' });
-    const cat = this.env.theme.categories[data.prompt.category];
-    const catEl = cat ? h('span', { class: 'sc-tc-cat' }, cat.title) : null;
+    const filed = filedUnder(this.env.theme, data.prompt);
+    const catEl = filed ? h('span', { class: 'sc-tc-cat' }, filed) : null;
     this.el = h(
       'div',
       { class: 'sc-scene sc-table-candle', 'aria-labelledby': qid },

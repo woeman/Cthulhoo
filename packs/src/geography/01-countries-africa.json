@@ -1,0 +1,529 @@
+{
+ "id": "geography-countries-africa",
+ "text": "Name a country in Africa.",
+ "category": "geography",
+ "flavor": "The oldest bones of humankind lie here. Name a nation built above them.",
+ "rules": "Any of Africa's 54 sovereign states, island nations included.",
+ "answers": [
+  {
+   "answer": "Egypt",
+   "aliases": [
+    "Misr",
+    "Arab Republic of Egypt",
+    "United Arab Republic"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Nigeria",
+   "aliases": [
+    "Naija",
+    "Federal Republic of Nigeria"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "South Africa",
+   "aliases": [
+    "RSA",
+    "Republic of South Africa",
+    "Union of South Africa",
+    "S Africa",
+    "SA",
+    "Mzansi"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Kenya",
+   "aliases": [
+    "Kenya Colony",
+    "East Africa Protectorate"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Morocco",
+   "aliases": [
+    "Maroc",
+    "Al-Maghrib",
+    "Kingdom of Morocco"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ethiopia",
+   "aliases": [
+    "Abyssinia",
+    "Ityopia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ghana",
+   "aliases": [
+    "Gold Coast"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Madagascar",
+   "aliases": [
+    "Malagasy Republic",
+    "Madagasikara"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Home to lemurs, which live wild nowhere else on Earth."
+  },
+  {
+   "answer": "Algeria",
+   "aliases": [
+    "Algérie",
+    "Al-Jazair"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Libya",
+   "aliases": [
+    "Libyan Arab Jamahiriya",
+    "Jamahiriya",
+    "State of Libya"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Somalia",
+   "aliases": [
+    "Soomaaliya",
+    "Somali Republic",
+    "Italian Somaliland"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Zimbabwe",
+   "aliases": [
+    "Rhodesia",
+    "Southern Rhodesia",
+    "Zim",
+    "Zimbabwe Rhodesia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Uganda",
+   "tier": 2
+  },
+  {
+   "answer": "Tanzania",
+   "aliases": [
+    "Tanganyika",
+    "United Republic of Tanzania"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sudan",
+   "aliases": [
+    "North Sudan",
+    "Republic of the Sudan",
+    "Anglo-Egyptian Sudan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tunisia",
+   "aliases": [
+    "Tunisie"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Rwanda",
+   "tier": 2
+  },
+  {
+   "answer": "Democratic Republic of the Congo",
+   "aliases": [
+    "DR Congo",
+    "DRC",
+    "Democratic Republic of Congo",
+    "Congo-Kinshasa",
+    "Zaire",
+    "Belgian Congo",
+    "Congo Free State",
+    "Congo",
+    "DROC",
+    "Congo DR",
+    "Congo-Léopoldville"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Senegal",
+   "tier": 3
+  },
+  {
+   "answer": "Cameroon",
+   "aliases": [
+    "Kamerun",
+    "Cameroun"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Namibia",
+   "aliases": [
+    "South West Africa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Chad",
+   "aliases": [
+    "Tchad"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mali",
+   "aliases": [
+    "French Sudan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Botswana",
+   "aliases": [
+    "Bechuanaland"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Angola",
+   "aliases": [
+    "Portuguese West Africa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zambia",
+   "aliases": [
+    "Northern Rhodesia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Niger",
+   "tier": 3
+  },
+  {
+   "answer": "Côte d'Ivoire",
+   "aliases": [
+    "Ivory Coast",
+    "Republic of Côte d'Ivoire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mozambique",
+   "aliases": [
+    "Portuguese East Africa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Liberia",
+   "tier": 3
+  },
+  {
+   "answer": "Sierra Leone",
+   "aliases": [
+    "Salone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Eritrea",
+   "tier": 4
+  },
+  {
+   "answer": "Malawi",
+   "aliases": [
+    "Nyasaland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gambia",
+   "tier": 4
+  },
+  {
+   "answer": "Gabon",
+   "aliases": [
+    "Gabonese Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Togo",
+   "aliases": [
+    "Togoland",
+    "French Togoland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Benin",
+   "aliases": [
+    "Dahomey"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Burkina Faso",
+   "aliases": [
+    "Burkina",
+    "Upper Volta"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lesotho",
+   "aliases": [
+    "Basutoland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Guinea",
+   "aliases": [
+    "Guinea-Conakry",
+    "French Guinea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mauritania",
+   "tier": 4
+  },
+  {
+   "answer": "Mauritius",
+   "tier": 4
+  },
+  {
+   "answer": "Seychelles",
+   "tier": 4
+  },
+  {
+   "answer": "South Sudan",
+   "aliases": [
+    "S Sudan"
+   ],
+   "tier": 4,
+   "lore": "The world's newest country, independent since 2011."
+  },
+  {
+   "answer": "Burundi",
+   "aliases": [
+    "Urundi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central African Republic",
+   "aliases": [
+    "CAR",
+    "Central African Empire",
+    "Ubangi-Shari",
+    "Oubangui-Chari"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Djibouti",
+   "aliases": [
+    "French Somaliland",
+    "French Territory of the Afars and the Issas",
+    "Jibuti"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eswatini",
+   "aliases": [
+    "Swaziland"
+   ],
+   "tier": 5,
+   "lore": "Called Swaziland until 2018. Africa's last absolute monarchy."
+  },
+  {
+   "answer": "Republic of the Congo",
+   "aliases": [
+    "Republic of Congo",
+    "Congo-Brazzaville",
+    "Congo Republic",
+    "French Congo",
+    "Middle Congo",
+    "People's Republic of the Congo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Equatorial Guinea",
+   "aliases": [
+    "Spanish Guinea"
+   ],
+   "tier": 5,
+   "lore": "The only African country with Spanish as an official language."
+  },
+  {
+   "answer": "Cabo Verde",
+   "aliases": [
+    "Cape Verde",
+    "Cape Verde Islands"
+   ],
+   "tier": 5,
+   "lore": "In 2013 it asked the world to stop translating its name and call it Cabo Verde."
+  },
+  {
+   "answer": "Guinea-Bissau",
+   "aliases": [
+    "Portuguese Guinea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Comoros",
+   "aliases": [
+    "Comoro Islands",
+    "Union of the Comoros"
+   ],
+   "tier": 6,
+   "lore": "Its deep waters hide the coelacanth, a fish once thought to have died out with the dinosaurs."
+  },
+  {
+   "answer": "São Tomé and Príncipe",
+   "aliases": [
+    "São Tomé"
+   ],
+   "tier": 6,
+   "lore": "Africa's second-smallest country: two volcanic islands, with the equator crossing a tiny islet just offshore."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Western Sahara",
+   "reason": "A disputed territory, not one of Africa's 54 recognised states."
+  },
+  {
+   "answer": "Somaliland",
+   "reason": "It has governed itself since 1991, but few countries recognise it."
+  },
+  {
+   "answer": "Zanzibar",
+   "reason": "Part of Tanzania since 1964."
+  },
+  {
+   "answer": "Canary Islands",
+   "aliases": [
+    "Canaries"
+   ],
+   "reason": "Spanish islands, though they sit off the coast of Morocco."
+  },
+  {
+   "answer": "Réunion",
+   "reason": "A French overseas department, not a country."
+  },
+  {
+   "answer": "Mayotte",
+   "reason": "A French overseas department, not a country."
+  },
+  {
+   "answer": "Sahara",
+   "reason": "A desert, not a country. It is larger than most countries."
+  },
+  {
+   "answer": "Timbuktu",
+   "reason": "A city, not a country. It is real, though."
+  },
+  {
+   "answer": "Wakanda",
+   "reason": "Fictional. The deep checked."
+  },
+  {
+   "answer": "Sahrawi Republic",
+   "aliases": [
+    "SADR",
+    "Sahrawi Arab Democratic Republic"
+   ],
+   "reason": "In the African Union, but not the UN, so the usual count of 54 leaves it out."
+  },
+  {
+   "answer": "Africa",
+   "reason": "The continent. Name one of its countries."
+  },
+  {
+   "answer": "Saint Helena",
+   "aliases": [
+    "St Helena",
+    "Ascension Island",
+    "Tristan da Cunha"
+   ],
+   "reason": "A British overseas territory, not a country."
+  },
+  {
+   "answer": "Madeira",
+   "reason": "Portuguese islands, not a country."
+  },
+  {
+   "answer": "Ceuta",
+   "aliases": [
+    "Melilla"
+   ],
+   "reason": "A Spanish city on the African coast, not a country."
+  },
+  {
+   "answer": "Biafra",
+   "reason": "A breakaway state that lasted from 1967 to 1970."
+  },
+  {
+   "answer": "Darfur",
+   "reason": "A region of Sudan, not a country."
+  },
+  {
+   "answer": "French Guiana",
+   "reason": "Part of France, and in South America."
+  }
+ ],
+ "decoys": [
+  "Guyana",
+  "Papua New Guinea",
+  "Bali",
+  "Brunei",
+  "Siberia",
+  "Yemen",
+  "Oman",
+  "Malta",
+  "Tonga",
+  "Mongolia",
+  "Monaco",
+  "Saudi Arabia",
+  "Iran",
+  "Iraq",
+  "Syria",
+  "Jordan",
+  "Lebanon",
+  "Israel",
+  "Palestine",
+  "Persia",
+  "Arabia",
+  "Romania",
+  "Tasmania",
+  "Bengal"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"countries-africa\" on 28 November 2026."
+}

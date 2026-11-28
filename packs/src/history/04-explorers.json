@@ -1,0 +1,3127 @@
+{
+ "id": "history-explorers",
+ "text": "Name an explorer.",
+ "category": "history",
+ "flavor": "They sailed past the edge of the map, where the ink gave out and something else began. Not all came back.",
+ "rules": "Any real explorer of land, sea, ice, sky or space, from any age. Astronauts, pioneering aviators and great mountaineers count; a surname is enough, and one that explorers shared counts as the best known of them.",
+ "answers": [
+  {
+   "answer": "Christopher Columbus",
+   "aliases": [
+    "Columbus",
+    "Cristoforo Colombo",
+    "Cristóbal Colón",
+    "Colon",
+    "Chris Columbus"
+   ],
+   "tier": 1,
+   "lore": "He died in 1506 still insisting he had reached Asia."
+  },
+  {
+   "answer": "Marco Polo",
+   "aliases": [
+    "Polo"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "James Cook",
+   "aliases": [
+    "Cook",
+    "Captain Cook",
+    "Captain James Cook",
+    "Capt Cook",
+    "Cpt Cook"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ferdinand Magellan",
+   "aliases": [
+    "Magellan",
+    "Fernão de Magalhães",
+    "Fernando de Magallanes"
+   ],
+   "tier": 1,
+   "lore": "Led the first voyage around the world, but was killed in the Philippines in 1521. Elcano brought the last ship home."
+  },
+  {
+   "answer": "Vasco da Gama",
+   "aliases": [
+    "da Gama",
+    "Gama"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Francis Drake",
+   "aliases": [
+    "Drake",
+    "Sir Francis Drake"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "David Livingstone",
+   "aliases": [
+    "Livingstone",
+    "Dr Livingstone",
+    "Doctor Livingstone"
+   ],
+   "tier": 1,
+   "lore": "Dr Livingstone, I presume? Stanley is said to have asked, on finding him at Ujiji in 1871."
+  },
+  {
+   "answer": "Roald Amundsen",
+   "aliases": [
+    "Amundsen"
+   ],
+   "tier": 1,
+   "lore": "Beat Scott to the South Pole by about five weeks, in December 1911, with sledge dogs and skis."
+  },
+  {
+   "answer": "Ernest Shackleton",
+   "aliases": [
+    "Shackleton",
+    "Sir Ernest Shackleton"
+   ],
+   "tier": 1,
+   "lore": "After Endurance was crushed by ice he sailed some 800 miles in a lifeboat to fetch help. The whole Endurance crew survived."
+  },
+  {
+   "answer": "Robert Falcon Scott",
+   "aliases": [
+    "Scott",
+    "Captain Scott",
+    "Scott of the Antarctic",
+    "Robert Scott",
+    "Captain Robert Scott",
+    "Captain Robert Falcon Scott",
+    "Capt Scott"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Edmund Hillary",
+   "aliases": [
+    "Hillary",
+    "Sir Edmund Hillary",
+    "Ed Hillary",
+    "Sir Ed Hillary",
+    "Sir Edmund Percival Hillary"
+   ],
+   "tier": 1,
+   "lore": "First to the top of Everest with Tenzing Norgay in 1953. Five years later he drove a tractor to the South Pole."
+  },
+  {
+   "answer": "Neil Armstrong",
+   "aliases": [
+    "Armstrong"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Amerigo Vespucci",
+   "aliases": [
+    "Vespucci",
+    "Américo Vespucio"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Leif Erikson",
+   "aliases": [
+    "Leif Ericson",
+    "Leif Eriksson",
+    "Leif the Lucky",
+    "Erikson",
+    "Ericson",
+    "Eriksson"
+   ],
+   "tier": 2,
+   "lore": "Reached North America around the year 1000, nearly five centuries before Columbus."
+  },
+  {
+   "answer": "Erik the Red",
+   "aliases": [
+    "Eric the Red",
+    "Erik Thorvaldsson"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Walter Raleigh",
+   "aliases": [
+    "Raleigh",
+    "Ralegh",
+    "Walter Ralegh",
+    "Sir Walter Raleigh"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Henry Hudson",
+   "aliases": [
+    "Hudson"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "John Cabot",
+   "aliases": [
+    "Giovanni Caboto",
+    "Cabot"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bartolomeu Dias",
+   "aliases": [
+    "Dias",
+    "Diaz",
+    "Bartholomew Diaz",
+    "Bartolomeu Diaz"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Abel Tasman",
+   "aliases": [
+    "Tasman",
+    "Abel Janszoon Tasman"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Jacques Cartier",
+   "aliases": [
+    "Cartier"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Zheng He",
+   "aliases": [
+    "Cheng Ho",
+    "Admiral Zheng He"
+   ],
+   "tier": 2,
+   "lore": "Led seven Ming treasure fleets as far as Arabia and East Africa, and brought a giraffe home for the emperor."
+  },
+  {
+   "answer": "Ibn Battuta",
+   "aliases": [
+    "Battuta",
+    "Ibn Batuta"
+   ],
+   "tier": 2,
+   "lore": "Travelled perhaps 75,000 miles across the 14th-century world, far further than Marco Polo."
+  },
+  {
+   "answer": "Hernán Cortés",
+   "aliases": [
+    "Cortés",
+    "Cortez",
+    "Hernando Cortés",
+    "Hernan Cortez"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Francisco Pizarro",
+   "aliases": [
+    "Pizarro"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Henry Morton Stanley",
+   "aliases": [
+    "Stanley",
+    "H. M. Stanley",
+    "Henry Stanley",
+    "Stanley and Livingstone"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Richard Burton",
+   "aliases": [
+    "Burton",
+    "Sir Richard Burton",
+    "Richard Francis Burton"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mungo Park",
+   "aliases": [
+    "Park"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Meriwether Lewis",
+   "aliases": [
+    "Lewis",
+    "Lewis and Clark"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "William Clark",
+   "aliases": [
+    "Clark"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sacagawea",
+   "aliases": [
+    "Sacajawea",
+    "Sakakawea"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Robert O'Hara Burke",
+   "aliases": [
+    "Burke",
+    "Burke and Wills",
+    "Robert Burke",
+    "Bruke"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Robert Peary",
+   "aliases": [
+    "Peary"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Fridtjof Nansen",
+   "aliases": [
+    "Nansen"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "John Franklin",
+   "aliases": [
+    "Franklin",
+    "Sir John Franklin"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Douglas Mawson",
+   "aliases": [
+    "Mawson",
+    "Sir Douglas Mawson"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Lawrence Oates",
+   "aliases": [
+    "Oates",
+    "Captain Oates",
+    "Titus Oates"
+   ],
+   "tier": 2,
+   "lore": "Walked out into an Antarctic blizzard in 1912, saying: I am just going outside and may be some time."
+  },
+  {
+   "answer": "Ranulph Fiennes",
+   "aliases": [
+    "Fiennes",
+    "Sir Ranulph Fiennes",
+    "Ran Fiennes",
+    "Sir Ranulph Twisleton-Wykeham-Fiennes",
+    "Ranulph Twisleton-Wykeham-Fiennes"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tenzing Norgay",
+   "aliases": [
+    "Tenzing",
+    "Sherpa Tenzing",
+    "Tenzing Norkay",
+    "Norgay",
+    "Sherpa Tenzing Norgay",
+    "Tenzing Norgay Sherpa"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Yuri Gagarin",
+   "aliases": [
+    "Gagarin"
+   ],
+   "tier": 2,
+   "lore": "The first human in space, in April 1961. His flight lasted 108 minutes."
+  },
+  {
+   "answer": "Buzz Aldrin",
+   "aliases": [
+    "Aldrin",
+    "Edwin Aldrin",
+    "Buzz",
+    "Edwin Buzz Aldrin",
+    "Edwin Eugene Aldrin"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Valentina Tereshkova",
+   "aliases": [
+    "Tereshkova"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tim Peake",
+   "aliases": [
+    "Peake",
+    "Major Tim Peake"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Amelia Earhart",
+   "aliases": [
+    "Earhart"
+   ],
+   "tier": 2,
+   "lore": "The first woman to fly solo across the Atlantic, in 1932. She vanished over the Pacific in 1937."
+  },
+  {
+   "answer": "Charles Lindbergh",
+   "aliases": [
+    "Lindbergh"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Jacques Cousteau",
+   "aliases": [
+    "Cousteau",
+    "Jacques-Yves Cousteau"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bear Grylls",
+   "aliases": [
+    "Grylls",
+    "Edward Grylls"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sebastian Cabot",
+   "tier": 3
+  },
+  {
+   "answer": "Pedro Álvares Cabral",
+   "aliases": [
+    "Cabral"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vasco Núñez de Balboa",
+   "aliases": [
+    "Balboa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Juan Ponce de León",
+   "aliases": [
+    "Ponce de León",
+    "Ponce"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hernando de Soto",
+   "aliases": [
+    "de Soto",
+    "Soto"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Francisco Vázquez de Coronado",
+   "aliases": [
+    "Coronado"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Juan Sebastián Elcano",
+   "aliases": [
+    "Elcano",
+    "del Cano",
+    "Juan Sebastián del Cano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Francisco de Orellana",
+   "aliases": [
+    "Orellana"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Henry the Navigator",
+   "aliases": [
+    "Prince Henry the Navigator",
+    "Infante Henrique"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Samuel de Champlain",
+   "aliases": [
+    "Champlain"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Giovanni da Verrazzano",
+   "aliases": [
+    "Verrazzano",
+    "Verrazano"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Martin Frobisher",
+   "aliases": [
+    "Frobisher"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Willem Barentsz",
+   "aliases": [
+    "Barentsz",
+    "Barents",
+    "William Barents"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vitus Bering",
+   "aliases": [
+    "Bering"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "George Vancouver",
+   "aliases": [
+    "Vancouver"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Matthew Flinders",
+   "aliases": [
+    "Flinders"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William Dampier",
+   "aliases": [
+    "Dampier"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William Bligh",
+   "aliases": [
+    "Bligh",
+    "Captain Bligh"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Thor Heyerdahl",
+   "aliases": [
+    "Heyerdahl"
+   ],
+   "tier": 3,
+   "lore": "Crossed the Pacific in 1947 on Kon-Tiki, a balsa raft, to show that ancient peoples could have done it."
+  },
+  {
+   "answer": "John Hanning Speke",
+   "aliases": [
+    "Speke",
+    "John Speke"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Samuel Baker",
+   "aliases": [
+    "Baker"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mary Kingsley",
+   "aliases": [
+    "Kingsley"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gertrude Bell",
+   "aliases": [
+    "Bell"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Daniel Boone",
+   "aliases": [
+    "Boone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Alexander Mackenzie",
+   "aliases": [
+    "Mackenzie",
+    "Sir Alexander Mackenzie"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Alexander von Humboldt",
+   "aliases": [
+    "Humboldt"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Percy Fawcett",
+   "aliases": [
+    "Fawcett",
+    "Colonel Fawcett"
+   ],
+   "tier": 3,
+   "lore": "Vanished in the Amazon in 1925, searching for a lost city he called Z."
+  },
+  {
+   "answer": "Hiram Bingham",
+   "aliases": [
+    "Bingham"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William John Wills",
+   "aliases": [
+    "Wills"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Charles Darwin",
+   "aliases": [
+    "Darwin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Joseph Banks",
+   "aliases": [
+    "Banks",
+    "Sir Joseph Banks"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Matthew Henson",
+   "aliases": [
+    "Henson"
+   ],
+   "tier": 3,
+   "lore": "Peary's partner on the 1909 polar journey. He said he reached the spot they took for the Pole first."
+  },
+  {
+   "answer": "James Clark Ross",
+   "aliases": [
+    "Sir James Clark Ross",
+    "Ross"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Richard E. Byrd",
+   "aliases": [
+    "Byrd",
+    "Admiral Byrd",
+    "Richard Byrd"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tom Crean",
+   "aliases": [
+    "Crean"
+   ],
+   "tier": 3,
+   "lore": "Survived three Antarctic expeditions, then went home to Kerry and opened a pub called the South Pole Inn."
+  },
+  {
+   "answer": "George Mallory",
+   "aliases": [
+    "Mallory"
+   ],
+   "tier": 3,
+   "lore": "Asked why he wanted to climb Everest, he is said to have replied: because it's there. He vanished near the top in 1924."
+  },
+  {
+   "answer": "Reinhold Messner",
+   "aliases": [
+    "Messner"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Alexei Leonov",
+   "aliases": [
+    "Leonov"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "John Glenn",
+   "aliases": [
+    "Glenn"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Alan Shepard",
+   "aliases": [
+    "Shepard"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sally Ride",
+   "aliases": [
+    "Ride"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Helen Sharman",
+   "aliases": [
+    "Sharman"
+   ],
+   "tier": 3,
+   "lore": "A chemist from Sheffield who became the first Briton in space in 1991, after answering a radio advert."
+  },
+  {
+   "answer": "Chris Hadfield",
+   "aliases": [
+    "Hadfield"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kalpana Chawla",
+   "aliases": [
+    "Chawla"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sunita Williams",
+   "aliases": [
+    "Suni Williams",
+    "Williams"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Michael Collins",
+   "aliases": [
+    "Collins"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jim Lovell",
+   "aliases": [
+    "Lovell",
+    "James Lovell"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Amy Johnson",
+   "aliases": [
+    "Johnson"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Louis Blériot",
+   "aliases": [
+    "Blériot"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "John Alcock",
+   "aliases": [
+    "Alcock",
+    "Alcock and Brown"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jacques Piccard",
+   "aliases": [
+    "Piccard"
+   ],
+   "tier": 3,
+   "lore": "Reached the bottom of the Challenger Deep with Don Walsh in 1960, in the bathyscaphe Trieste."
+  },
+  {
+   "answer": "Robert Ballard",
+   "aliases": [
+    "Ballard"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Michael Palin",
+   "aliases": [
+    "Palin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "David Attenborough",
+   "aliases": [
+    "Attenborough",
+    "Sir David Attenborough"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Wright brothers",
+   "aliases": [
+    "Orville Wright",
+    "Wilbur Wright",
+    "Wright",
+    "Orville and Wilbur Wright",
+    "Wilbur and Orville Wright"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Louis Antoine de Bougainville",
+   "aliases": [
+    "Bougainville"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jean-François de La Pérouse",
+   "aliases": [
+    "La Pérouse"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "William Baffin",
+   "aliases": [
+    "Baffin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John Davis",
+   "aliases": [
+    "Davis"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thomas Cavendish",
+   "aliases": [
+    "Cavendish"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Willem Janszoon",
+   "aliases": [
+    "Janszoon",
+    "Willem Jansz"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dirk Hartog",
+   "aliases": [
+    "Hartog"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Martín Alonso Pinzón",
+   "aliases": [
+    "Pinzón"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Diogo Cão",
+   "aliases": [
+    "Diogo Cam"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Álvar Núñez Cabeza de Vaca",
+   "aliases": [
+    "Cabeza de Vaca"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lope de Aguirre",
+   "aliases": [
+    "Aguirre"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Xuanzang",
+   "aliases": [
+    "Hiuen Tsang",
+    "Hsuan Tsang"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zhang Qian",
+   "aliases": [
+    "Chang Ch'ien"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Leo Africanus",
+   "tier": 4
+  },
+  {
+   "answer": "James Bruce",
+   "aliases": [
+    "Bruce"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Florence Baker",
+   "tier": 4
+  },
+  {
+   "answer": "René Caillié",
+   "aliases": [
+    "Caillié"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Heinrich Barth",
+   "aliases": [
+    "Barth"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hugh Clapperton",
+   "aliases": [
+    "Clapperton"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Richard Lander",
+   "aliases": [
+    "Lander"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pierre Savorgnan de Brazza",
+   "aliases": [
+    "de Brazza",
+    "Brazza"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Johann Ludwig Burckhardt",
+   "aliases": [
+    "Burckhardt",
+    "Jean Louis Burckhardt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wilfred Thesiger",
+   "aliases": [
+    "Thesiger"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Freya Stark",
+   "aliases": [
+    "Stark"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Isabella Bird",
+   "aliases": [
+    "Bird"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sven Hedin",
+   "aliases": [
+    "Hedin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nikolai Przhevalsky",
+   "aliases": [
+    "Przhevalsky",
+    "Przewalski",
+    "Przhevalski"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aurel Stein",
+   "aliases": [
+    "Stein"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Francis Younghusband",
+   "aliases": [
+    "Younghusband"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Heinrich Harrer",
+   "aliases": [
+    "Harrer"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Roy Chapman Andrews",
+   "aliases": [
+    "Andrews",
+    "Chapman Andrews"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zebulon Pike",
+   "aliases": [
+    "Pike"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John C. Frémont",
+   "aliases": [
+    "Frémont",
+    "John Charles Frémont"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jedediah Smith",
+   "tier": 4
+  },
+  {
+   "answer": "Kit Carson",
+   "aliases": [
+    "Carson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John Wesley Powell",
+   "aliases": [
+    "Powell"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John Smith",
+   "aliases": [
+    "Captain John Smith",
+    "Smith"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Simon Fraser",
+   "aliases": [
+    "Fraser"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "David Thompson",
+   "aliases": [
+    "Thompson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Samuel Hearne",
+   "aliases": [
+    "Hearne"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pierre-Esprit Radisson",
+   "aliases": [
+    "Radisson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jacques Marquette",
+   "aliases": [
+    "Marquette",
+    "Père Marquette"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Louis Jolliet",
+   "aliases": [
+    "Jolliet",
+    "Joliet"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "René-Robert Cavelier de La Salle",
+   "aliases": [
+    "La Salle",
+    "Sieur de La Salle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John McDouall Stuart",
+   "aliases": [
+    "Stuart",
+    "McDouall Stuart"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ludwig Leichhardt",
+   "aliases": [
+    "Leichhardt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Charles Sturt",
+   "aliases": [
+    "Sturt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edward John Eyre",
+   "aliases": [
+    "Eyre"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hamilton Hume",
+   "aliases": [
+    "Hume"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gregory Blaxland",
+   "aliases": [
+    "Blaxland",
+    "Blaxland, Lawson and Wentworth"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "George Bass",
+   "aliases": [
+    "Bass"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alfred Russel Wallace",
+   "aliases": [
+    "Wallace"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frederick Cook",
+   "aliases": [
+    "Dr Frederick Cook"
+   ],
+   "tier": 4,
+   "lore": "Claimed the North Pole in 1908, a year before Peary. Few believe him now."
+  },
+  {
+   "answer": "John Ross",
+   "aliases": [
+    "Sir John Ross"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "William Edward Parry",
+   "aliases": [
+    "Parry",
+    "William Parry"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Robert McClure",
+   "aliases": [
+    "McClure"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "John Rae",
+   "aliases": [
+    "Rae"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Salomon August Andrée",
+   "aliases": [
+    "Andrée"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Umberto Nobile",
+   "aliases": [
+    "Nobile"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Knud Rasmussen",
+   "aliases": [
+    "Rasmussen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vilhjalmur Stefansson",
+   "aliases": [
+    "Stefansson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wally Herbert",
+   "aliases": [
+    "Herbert"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Adolf Erik Nordenskiöld",
+   "aliases": [
+    "Nordenskiöld",
+    "Nordenskjöld"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edward Wilson",
+   "aliases": [
+    "Wilson",
+    "Edward Adrian Wilson",
+    "Bill Wilson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Henry Bowers",
+   "aliases": [
+    "Bowers",
+    "Birdie Bowers"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edgar Evans",
+   "aliases": [
+    "Evans"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Apsley Cherry-Garrard",
+   "aliases": [
+    "Cherry-Garrard"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frank Wild",
+   "aliases": [
+    "Wild"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frank Worsley",
+   "aliases": [
+    "Worsley"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frank Hurley",
+   "aliases": [
+    "Hurley"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jules Dumont d'Urville",
+   "aliases": [
+    "Dumont d'Urville",
+    "d'Urville"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fabian von Bellingshausen",
+   "aliases": [
+    "Bellingshausen",
+    "Thaddeus Bellingshausen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vivian Fuchs",
+   "aliases": [
+    "Fuchs",
+    "Sir Vivian Fuchs",
+    "Bunny Fuchs"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Robert Swan",
+   "aliases": [
+    "Swan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mike Horn",
+   "aliases": [
+    "Horn"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sandy Irvine",
+   "aliases": [
+    "Andrew Irvine",
+    "Irvine"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Junko Tabei",
+   "aliases": [
+    "Tabei"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chris Bonington",
+   "aliases": [
+    "Bonington",
+    "Sir Chris Bonington"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edward Whymper",
+   "aliases": [
+    "Whymper"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nirmal Purja",
+   "aliases": [
+    "Nims Purja",
+    "Nimsdai",
+    "Purja"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rakesh Sharma",
+   "aliases": [
+    "Sharma"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mae Jemison",
+   "aliases": [
+    "Jemison"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eileen Collins",
+   "tier": 4
+  },
+  {
+   "answer": "Gene Cernan",
+   "aliases": [
+    "Cernan",
+    "Eugene Cernan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pete Conrad",
+   "aliases": [
+    "Conrad"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alan Bean",
+   "aliases": [
+    "Bean"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edgar Mitchell",
+   "aliases": [
+    "Mitchell"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gus Grissom",
+   "aliases": [
+    "Grissom",
+    "Virgil Grissom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gherman Titov",
+   "aliases": [
+    "Titov"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yang Liwei",
+   "tier": 4
+  },
+  {
+   "answer": "Peggy Whitson",
+   "aliases": [
+    "Whitson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Christina Koch",
+   "aliases": [
+    "Koch"
+   ],
+   "tier": 4,
+   "lore": "In April 2026 she became the first woman to fly around the Moon, on Artemis II."
+  },
+  {
+   "answer": "Scott Kelly",
+   "aliases": [
+    "Kelly"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Samantha Cristoforetti",
+   "aliases": [
+    "Cristoforetti"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thomas Pesquet",
+   "aliases": [
+    "Pesquet"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Arthur Whitten Brown",
+   "aliases": [
+    "Brown",
+    "Arthur Brown"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Charles Kingsford Smith",
+   "aliases": [
+    "Kingsford Smith"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jean Batten",
+   "aliases": [
+    "Batten"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Beryl Markham",
+   "aliases": [
+    "Markham"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Steve Fossett",
+   "aliases": [
+    "Fossett"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Richard Branson",
+   "aliases": [
+    "Branson"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Auguste Piccard",
+   "tier": 4
+  },
+  {
+   "answer": "Bertrand Piccard",
+   "tier": 4
+  },
+  {
+   "answer": "Don Walsh",
+   "aliases": [
+    "Walsh"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sylvia Earle",
+   "aliases": [
+    "Earle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "James Cameron",
+   "aliases": [
+    "Cameron"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Levison Wood",
+   "tier": 4
+  },
+  {
+   "answer": "Steve Backshall",
+   "aliases": [
+    "Backshall"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ed Stafford",
+   "tier": 4
+  },
+  {
+   "answer": "Ben Fogle",
+   "aliases": [
+    "Fogle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Reid Wiseman",
+   "aliases": [
+    "Wiseman"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Victor Glover",
+   "aliases": [
+    "Glover"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jeremy Hansen",
+   "aliases": [
+    "Hansen"
+   ],
+   "tier": 4,
+   "lore": "In April 2026 he became the first Canadian to fly around the Moon, on Artemis II."
+  },
+  {
+   "answer": "Shubhanshu Shukla",
+   "aliases": [
+    "Shukla",
+    "Shux"
+   ],
+   "tier": 4,
+   "lore": "In 2025 he became the first Indian to visit the International Space Station, 41 years after the first Indian in space."
+  },
+  {
+   "answer": "Chuck Yeager",
+   "aliases": [
+    "Yeager",
+    "Charles Yeager"
+   ],
+   "tier": 4,
+   "lore": "In 1947 he became the first pilot to fly faster than sound, in the Bell X-1."
+  },
+  {
+   "answer": "Montgolfier brothers",
+   "aliases": [
+    "Montgolfier",
+    "Joseph-Michel Montgolfier",
+    "Jacques-Étienne Montgolfier",
+    "Joseph Montgolfier",
+    "Étienne Montgolfier"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alberto Santos-Dumont",
+   "aliases": [
+    "Santos-Dumont"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Francis Chichester",
+   "aliases": [
+    "Chichester",
+    "Sir Francis Chichester"
+   ],
+   "tier": 4,
+   "lore": "Aged 65 when he got home in 1967, he had sailed alone round the world with one stop. He was knighted with the sword Elizabeth I used on Drake."
+  },
+  {
+   "answer": "Robin Knox-Johnston",
+   "aliases": [
+    "Knox-Johnston",
+    "Sir Robin Knox-Johnston"
+   ],
+   "tier": 4,
+   "lore": "In 1969 he became the first person to sail alone round the world without stopping."
+  },
+  {
+   "answer": "Ellen MacArthur",
+   "aliases": [
+    "MacArthur",
+    "Dame Ellen MacArthur",
+    "Ellen McArthur"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Antonio Pigafetta",
+   "aliases": [
+    "Pigafetta"
+   ],
+   "tier": 4,
+   "lore": "One of the 18 men who made it home from Magellan's voyage in 1522. His journal is the main record of it."
+  },
+  {
+   "answer": "Humphrey Gilbert",
+   "aliases": [
+    "Gilbert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jacob Roggeveen",
+   "aliases": [
+    "Roggeveen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samuel Wallis",
+   "aliases": [
+    "Wallis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Philip Carteret",
+   "aliases": [
+    "Carteret"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Byron",
+   "aliases": [
+    "Byron"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alessandro Malaspina",
+   "aliases": [
+    "Malaspina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antoine Bruni d'Entrecasteaux",
+   "aliases": [
+    "d'Entrecasteaux",
+    "Entrecasteaux"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nicolas Baudin",
+   "aliases": [
+    "Baudin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adam Johann von Krusenstern",
+   "aliases": [
+    "Krusenstern"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Juan Rodríguez Cabrillo",
+   "aliases": [
+    "Cabrillo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sebastián Vizcaíno",
+   "aliases": [
+    "Vizcaíno"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Álvaro de Mendaña",
+   "aliases": [
+    "Mendaña"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pedro Fernandes de Queirós",
+   "aliases": [
+    "Queirós"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luis Váez de Torres",
+   "aliases": [
+    "Torres"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vicente Yáñez Pinzón",
+   "tier": 5
+  },
+  {
+   "answer": "Gil Eanes",
+   "aliases": [
+    "Eanes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pêro da Covilhã",
+   "tier": 5
+  },
+  {
+   "answer": "Gaspar Corte-Real",
+   "aliases": [
+    "Corte-Real"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Juan de la Cosa",
+   "tier": 5
+  },
+  {
+   "answer": "Alonso de Ojeda",
+   "aliases": [
+    "Ojeda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fernão Mendes Pinto",
+   "aliases": [
+    "Mendes Pinto"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Estevanico",
+   "aliases": [
+    "Esteban the Moor",
+    "Estebanico",
+    "Mustafa Azemmouri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pedro de Valdivia",
+   "aliases": [
+    "Valdivia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Diego de Almagro",
+   "aliases": [
+    "Almagro"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pytheas",
+   "aliases": [
+    "Pytheas of Massalia",
+    "Pytheas of Marseille"
+   ],
+   "tier": 5,
+   "lore": "A Greek from Marseille who sailed to Britain around 325 BC, and wrote of a frozen land called Thule."
+  },
+  {
+   "answer": "Himilco",
+   "tier": 5
+  },
+  {
+   "answer": "Scylax of Caryanda",
+   "aliases": [
+    "Scylax"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nearchus",
+   "tier": 5
+  },
+  {
+   "answer": "Saint Brendan",
+   "aliases": [
+    "Brendan the Navigator",
+    "Brendan",
+    "St Brendan the Navigator"
+   ],
+   "tier": 5,
+   "lore": "An Irish monk said to have sailed to a promised land across the ocean. Legend says he once said Mass on a whale's back."
+  },
+  {
+   "answer": "Bjarni Herjólfsson",
+   "tier": 5
+  },
+  {
+   "answer": "Thorfinn Karlsefni",
+   "aliases": [
+    "Karlsefni"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Faxian",
+   "aliases": [
+    "Fa Hsien",
+    "Fa-Hien"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "William of Rubruck",
+   "aliases": [
+    "Rubruck"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Giovanni da Pian del Carpine",
+   "aliases": [
+    "Carpini",
+    "John of Plano Carpini"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Odoric of Pordenone",
+   "tier": 5
+  },
+  {
+   "answer": "Niccolò de' Conti",
+   "tier": 5
+  },
+  {
+   "answer": "Afanasy Nikitin",
+   "aliases": [
+    "Nikitin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rabban Bar Sauma",
+   "aliases": [
+    "Bar Sauma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ahmad ibn Fadlan",
+   "aliases": [
+    "Ibn Fadlan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Benjamin of Tudela",
+   "tier": 5
+  },
+  {
+   "answer": "Ibn Jubayr",
+   "tier": 5
+  },
+  {
+   "answer": "Alexander Gordon Laing",
+   "aliases": [
+    "Laing"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dixon Denham",
+   "aliases": [
+    "Denham"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Joseph Thomson",
+   "aliases": [
+    "Thomson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Verney Lovett Cameron",
+   "tier": 5
+  },
+  {
+   "answer": "Gustav Nachtigal",
+   "aliases": [
+    "Nachtigal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gerhard Rohlfs",
+   "aliases": [
+    "Rohlfs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paul Du Chaillu",
+   "aliases": [
+    "Du Chaillu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alexandrine Tinné",
+   "aliases": [
+    "Tinné",
+    "Alexine Tinne"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samuel Teleki",
+   "aliases": [
+    "Teleki"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bertram Thomas",
+   "tier": 5
+  },
+  {
+   "answer": "Lady Hester Stanhope",
+   "aliases": [
+    "Hester Stanhope",
+    "Stanhope"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Isabelle Eberhardt",
+   "aliases": [
+    "Eberhardt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ida Pfeiffer",
+   "aliases": [
+    "Pfeiffer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alexandra David-Néel",
+   "aliases": [
+    "David-Néel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Annie Royle Taylor",
+   "tier": 5
+  },
+  {
+   "answer": "Ippolito Desideri",
+   "aliases": [
+    "Desideri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nain Singh",
+   "aliases": [
+    "Nain Singh Rawat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yermak",
+   "aliases": [
+    "Yermak Timofeyevich"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Semyon Dezhnev",
+   "aliases": [
+    "Dezhnev"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yerofey Khabarov",
+   "aliases": [
+    "Khabarov"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nikolai Miklukho-Maklai",
+   "aliases": [
+    "Miklukho-Maklai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jim Bridger",
+   "aliases": [
+    "Bridger"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Colter",
+   "aliases": [
+    "Colter"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Henry Kelsey",
+   "aliases": [
+    "Kelsey"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Médard des Groseilliers",
+   "aliases": [
+    "Groseilliers"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Étienne Brûlé",
+   "aliases": [
+    "Brûlé"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aimé Bonpland",
+   "aliases": [
+    "Bonpland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Charles Marie de La Condamine",
+   "aliases": [
+    "La Condamine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cândido Rondon",
+   "aliases": [
+    "Rondon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Theodore Roosevelt",
+   "aliases": [
+    "Roosevelt",
+    "Teddy Roosevelt"
+   ],
+   "tier": 5,
+   "lore": "After leaving the White House he nearly died charting Brazil's River of Doubt, since renamed in his honour."
+  },
+  {
+   "answer": "William Hovell",
+   "aliases": [
+    "Hovell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "William Lawson",
+   "aliases": [
+    "Lawson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "William Wentworth",
+   "aliases": [
+    "William Charles Wentworth",
+    "Wentworth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Oxley",
+   "aliases": [
+    "Oxley"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thomas Mitchell",
+   "tier": 5
+  },
+  {
+   "answer": "Augustus Gregory",
+   "aliases": [
+    "Gregory"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ernest Giles",
+   "aliases": [
+    "Giles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Forrest",
+   "aliases": [
+    "Forrest"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paul Strzelecki",
+   "aliases": [
+    "Strzelecki"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edmund Kennedy",
+   "aliases": [
+    "Kennedy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Henry Walter Bates",
+   "aliases": [
+    "Bates"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Francis McClintock",
+   "aliases": [
+    "McClintock",
+    "Leopold McClintock"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Elisha Kent Kane",
+   "aliases": [
+    "Kane"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Charles Francis Hall",
+   "aliases": [
+    "Hall"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adolphus Greely",
+   "aliases": [
+    "Greely"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "George W. De Long",
+   "aliases": [
+    "De Long"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Otto Sverdrup",
+   "aliases": [
+    "Sverdrup"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Frederick Jackson",
+   "aliases": [
+    "Jackson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Julius von Payer",
+   "aliases": [
+    "Payer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peter Freuchen",
+   "aliases": [
+    "Freuchen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Robert Bartlett",
+   "aliases": [
+    "Bob Bartlett",
+    "Bartlett"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ralph Plaisted",
+   "aliases": [
+    "Plaisted"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aeneas Mackintosh",
+   "aliases": [
+    "Mackintosh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edgeworth David",
+   "tier": 5
+  },
+  {
+   "answer": "Carsten Borchgrevink",
+   "aliases": [
+    "Borchgrevink"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adrien de Gerlache",
+   "aliases": [
+    "de Gerlache",
+    "Gerlache"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Charles Wilkes",
+   "aliases": [
+    "Wilkes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "James Weddell",
+   "aliases": [
+    "Weddell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edward Bransfield",
+   "aliases": [
+    "Bransfield"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nathaniel Palmer",
+   "aliases": [
+    "Palmer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Biscoe",
+   "aliases": [
+    "Biscoe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erich von Drygalski",
+   "aliases": [
+    "Drygalski"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "William Speirs Bruce",
+   "tier": 5
+  },
+  {
+   "answer": "Otto Nordenskjöld",
+   "tier": 5
+  },
+  {
+   "answer": "Nobu Shirase",
+   "aliases": [
+    "Shirase"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jean-Baptiste Charcot",
+   "aliases": [
+    "Charcot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lincoln Ellsworth",
+   "aliases": [
+    "Ellsworth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Finn Ronne",
+   "aliases": [
+    "Ronne"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Felicity Aston",
+   "aliases": [
+    "Aston"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liv Arnesen",
+   "aliases": [
+    "Arnesen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ann Bancroft",
+   "aliases": [
+    "Bancroft"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Børge Ousland",
+   "aliases": [
+    "Ousland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ben Saunders",
+   "aliases": [
+    "Saunders"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Henry Worsley",
+   "tier": 5
+  },
+  {
+   "answer": "Colin O'Brady",
+   "aliases": [
+    "O'Brady"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Preet Chandi",
+   "aliases": [
+    "Polar Preet",
+    "Harpreet Chandi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erling Kagge",
+   "aliases": [
+    "Kagge"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pen Hadow",
+   "aliases": [
+    "Hadow"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Maurice Herzog",
+   "aliases": [
+    "Herzog"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alison Hargreaves",
+   "aliases": [
+    "Hargreaves"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "David Scott",
+   "tier": 5
+  },
+  {
+   "answer": "James Irwin",
+   "aliases": [
+    "Irwin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "John Young",
+   "tier": 5
+  },
+  {
+   "answer": "Charles Duke",
+   "tier": 5
+  },
+  {
+   "answer": "Harrison Schmitt",
+   "aliases": [
+    "Schmitt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ed White",
+   "tier": 5
+  },
+  {
+   "answer": "Scott Carpenter",
+   "aliases": [
+    "Carpenter"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gordon Cooper",
+   "aliases": [
+    "Cooper"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wally Schirra",
+   "aliases": [
+    "Schirra"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Deke Slayton",
+   "aliases": [
+    "Slayton"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Frank Borman",
+   "aliases": [
+    "Borman"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bill Anders",
+   "aliases": [
+    "William Anders",
+    "Anders"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Svetlana Savitskaya",
+   "aliases": [
+    "Savitskaya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michael Foale",
+   "aliases": [
+    "Foale"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Valeri Polyakov",
+   "aliases": [
+    "Polyakov"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sergei Krikalev",
+   "aliases": [
+    "Krikalev"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marc Garneau",
+   "aliases": [
+    "Garneau"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Roberta Bondar",
+   "aliases": [
+    "Bondar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bert Hinkler",
+   "aliases": [
+    "Hinkler"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wiley Post",
+   "tier": 5
+  },
+  {
+   "answer": "Brian Jones",
+   "tier": 5
+  },
+  {
+   "answer": "Victor Vescovo",
+   "aliases": [
+    "Vescovo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "William Beebe",
+   "aliases": [
+    "Beebe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Otis Barton",
+   "aliases": [
+    "Barton"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hans Hass",
+   "aliases": [
+    "Hass"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eugenie Clark",
+   "tier": 5
+  },
+  {
+   "answer": "Mark Kelly",
+   "aliases": [
+    "Mark E. Kelly"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Joshua Slocum",
+   "aliases": [
+    "Slocum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chay Blyth",
+   "aliases": [
+    "Blyth",
+    "Sir Chay Blyth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jessica Watson",
+   "tier": 5
+  },
+  {
+   "answer": "Peter Blake",
+   "aliases": [
+    "Sir Peter Blake"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tim Severin",
+   "aliases": [
+    "Severin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Benedict Allen",
+   "tier": 5
+  },
+  {
+   "answer": "Hubert Wilkins",
+   "aliases": [
+    "Sir Hubert Wilkins",
+    "George Hubert Wilkins"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jean-François Pilâtre de Rozier",
+   "aliases": [
+    "Pilâtre de Rozier",
+    "de Rozier"
+   ],
+   "tier": 5,
+   "lore": "In 1783 he and the Marquis d'Arlandes became the first people to fly free, in a balloon. In 1785 he died in the first fatal air crash."
+  },
+  {
+   "answer": "Otto Lilienthal",
+   "aliases": [
+    "Lilienthal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bessie Coleman",
+   "tier": 5
+  },
+  {
+   "answer": "Antoine de Saint-Exupéry",
+   "aliases": [
+    "Saint-Exupéry"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Per Lindstrand",
+   "aliases": [
+    "Lindstrand"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dick Rutan",
+   "tier": 5
+  },
+  {
+   "answer": "Jeana Yeager",
+   "tier": 5
+  },
+  {
+   "answer": "Vladimir Komarov",
+   "aliases": [
+    "Komarov"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liu Yang",
+   "tier": 5
+  },
+  {
+   "answer": "Julie Payette",
+   "aliases": [
+    "Payette"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alexander Gerst",
+   "aliases": [
+    "Gerst"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guion Bluford",
+   "aliases": [
+    "Guy Bluford",
+    "Bluford"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fred Haise",
+   "aliases": [
+    "Haise"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jack Swigert",
+   "aliases": [
+    "Swigert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Butch Wilmore",
+   "aliases": [
+    "Barry Wilmore",
+    "Wilmore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jared Isaacman",
+   "aliases": [
+    "Isaacman"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "James Augustus Grant",
+   "aliases": [
+    "James Grant"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tupaia",
+   "tier": 5,
+   "lore": "A Tahitian navigator who guided Cook's Endeavour, and drew a chart of dozens of Pacific islands from memory."
+  },
+  {
+   "answer": "Bachendri Pal",
+   "tier": 5
+  },
+  {
+   "answer": "Arunima Sinha",
+   "tier": 5
+  },
+  {
+   "answer": "Jim Whittaker",
+   "tier": 5
+  },
+  {
+   "answer": "Doug Scott",
+   "tier": 5
+  },
+  {
+   "answer": "Kami Rita Sherpa",
+   "aliases": [
+    "Kami Rita"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hermann Buhl",
+   "tier": 5
+  },
+  {
+   "answer": "Jerzy Kukuczka",
+   "tier": 5
+  },
+  {
+   "answer": "Walter Bonatti",
+   "tier": 5
+  },
+  {
+   "answer": "Ueli Steck",
+   "tier": 5
+  },
+  {
+   "answer": "Evliya Çelebi",
+   "tier": 5
+  },
+  {
+   "answer": "Ahmad ibn Majid",
+   "aliases": [
+    "Ibn Majid"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bento de Góis",
+   "tier": 5
+  },
+  {
+   "answer": "Georg Steller",
+   "aliases": [
+    "Steller"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aleksei Chirikov",
+   "aliases": [
+    "Chirikov"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Juan Díaz de Solís",
+   "tier": 5
+  },
+  {
+   "answer": "Pedro Teixeira",
+   "tier": 5
+  },
+  {
+   "answer": "Willem de Vlamingh",
+   "aliases": [
+    "de Vlamingh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Willem Schouten",
+   "tier": 5
+  },
+  {
+   "answer": "Jacob Le Maire",
+   "tier": 5
+  },
+  {
+   "answer": "Alvise Cadamosto",
+   "aliases": [
+    "Cadamosto"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tristão da Cunha",
+   "tier": 5
+  },
+  {
+   "answer": "Gudrid Thorbjarnardóttir",
+   "aliases": [
+    "Gudrid"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jens Munk",
+   "tier": 5
+  },
+  {
+   "answer": "Pierre Gaultier de La Vérendrye",
+   "aliases": [
+    "La Vérendrye"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herbert Ponting",
+   "aliases": [
+    "Ponting"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Will Steger",
+   "tier": 5
+  },
+  {
+   "answer": "Jeanne Baret",
+   "aliases": [
+    "Jeanne Barret",
+    "Jean Baret"
+   ],
+   "tier": 6,
+   "lore": "Sailed with Bougainville in 1766 disguised as a man, and became the first woman known to sail around the world."
+  },
+  {
+   "answer": "Hanno the Navigator",
+   "aliases": [
+    "Hanno"
+   ],
+   "tier": 6,
+   "lore": "A Carthaginian who sailed down Africa's west coast around 500 BC. His sailors met hairy wild people they called gorillas."
+  },
+  {
+   "answer": "Ewart Grogan",
+   "aliases": [
+    "Grogan"
+   ],
+   "tier": 6,
+   "lore": "Walked from Cape Town to Cairo between 1898 and 1900, said to be the price of his sweetheart's stepfather's blessing."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Dora the Explorer",
+   "aliases": [
+    "Dora",
+    "Indiana Jones",
+    "Indy",
+    "Lara Croft",
+    "Phileas Fogg",
+    "Captain Nemo",
+    "Nemo",
+    "Robinson Crusoe",
+    "Lemuel Gulliver",
+    "Gulliver",
+    "Sinbad",
+    "Sinbad the Sailor",
+    "Captain Kirk",
+    "James T. Kirk",
+    "Jean-Luc Picard",
+    "Buzz Lightyear",
+    "Tintin",
+    "Allan Quatermain",
+    "Professor Challenger",
+    "Moana",
+    "Captain Haddock",
+    "Nathan Drake",
+    "Carl Fredricksen",
+    "Charles Muntz",
+    "Christopher Robin"
+   ],
+   "reason": "An explorer of fiction, not of history."
+  },
+  {
+   "answer": "Odysseus",
+   "aliases": [
+    "Ulysses",
+    "Jason and the Argonauts",
+    "Argonauts",
+    "Aeneas",
+    "Gilgamesh",
+    "Maui"
+   ],
+   "reason": "A wanderer of legend, not of history."
+  },
+  {
+   "answer": "Nellie Bly",
+   "reason": "A journalist who raced around the world in 72 days, rather than an explorer."
+  },
+  {
+   "answer": "Davy Crockett",
+   "reason": "A frontiersman and congressman, rather than an explorer."
+  },
+  {
+   "answer": "Howard Carter",
+   "aliases": [
+    "Heinrich Schliemann",
+    "Schliemann",
+    "Arthur Evans",
+    "Leonard Woolley",
+    "Mary Leakey",
+    "Louis Leakey"
+   ],
+   "reason": "An archaeologist, who dug rather than explored."
+  },
+  {
+   "answer": "Pocahontas",
+   "reason": "A Powhatan woman remembered for meeting the English settlers, rather than an explorer."
+  },
+  {
+   "answer": "Alexander the Great",
+   "aliases": [
+    "Genghis Khan",
+    "Julius Caesar",
+    "Napoleon"
+   ],
+   "reason": "A conqueror rather than an explorer."
+  },
+  {
+   "answer": "Jules Verne",
+   "aliases": [
+    "H. G. Wells"
+   ],
+   "reason": "A writer who sent his characters on journeys he never made himself."
+  },
+  {
+   "answer": "Laika",
+   "aliases": [
+    "Ham the Chimp"
+   ],
+   "reason": "An animal sent into space, without being asked."
+  },
+  {
+   "answer": "Elon Musk",
+   "aliases": [
+    "Musk"
+   ],
+   "reason": "He builds rockets, but has never flown on one."
+  },
+  {
+   "answer": "Jeff Bezos",
+   "aliases": [
+    "Bezos",
+    "William Shatner",
+    "Shatner",
+    "Katy Perry"
+   ],
+   "reason": "A passenger on a ten-minute hop to the edge of space, not an explorer."
+  },
+  {
+   "answer": "Steve Irwin",
+   "reason": "A zookeeper and wildlife presenter, rather than an explorer."
+  },
+  {
+   "answer": "Benjamin Franklin",
+   "reason": "A founding father, not an explorer. A Sir John of that name is another matter."
+  },
+  {
+   "answer": "Kupe",
+   "reason": "The great navigator of Māori tradition, remembered in legend rather than record."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"explorers\" on 28 November 2026."
+}

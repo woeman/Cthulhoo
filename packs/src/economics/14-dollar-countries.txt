@@ -1,0 +1,64 @@
+id: economics-dollar-countries
+text: Name a country whose currency is called the dollar.
+flavor: The same word stamped on a hundred different coins. It meant a valley in Bohemia, once.
+rules: Any country or territory whose official money is a dollar of some kind, its own or somebody else's.
+section: World economy
+---
+1 Australia | Aus | Oz
+1 United States | USA | US | America | United States of America | U.S. | U.S.A.
+1 New Zealand | NZ | Aotearoa
+1 Canada
+2 Singapore
+2 Hong Kong | HK
+2 Fiji
+2 Jamaica
+3 Taiwan | Republic of China
+3 Bahamas | The Bahamas
+3 Barbados
+3 Bermuda
+3 Zimbabwe
+3 Solomon Islands | Solomons
+3 Trinidad and Tobago | Trinidad | Tobago
+3 Brunei | Brunei Darussalam
+3 Namibia
+3 Belize
+3 Cayman Islands | Caymans
+3 Ecuador
+3 Panama
+3 El Salvador
+3 East Timor | Timor-Leste | Timor Leste
+3 Puerto Rico
+4 Guyana
+4 Suriname
+6 Liberia :: Founded by freed American slaves, it named its money the dollar in 1847. Liberian and US dollars still circulate side by side.
+4 Kiribati
+6 Nauru :: The world's smallest republic has never had its own money. It has used the Australian dollar since 1966.
+4 Tuvalu
+4 Palau
+4 Marshall Islands
+4 Micronesia | Federated States of Micronesia | FSM
+4 Antigua and Barbuda | Antigua | Barbuda
+4 Dominica
+4 Grenada
+4 Saint Kitts and Nevis | St Kitts | Saint Kitts | Nevis | St Kitts and Nevis
+4 Saint Lucia | St Lucia
+4 Saint Vincent and the Grenadines | St Vincent | Saint Vincent | St Vincent and the Grenadines
+4 Cook Islands
+4 Niue
+4 Tokelau
+4 Norfolk Island
+4 Christmas Island
+4 Cocos Islands | Cocos (Keeling) Islands | Keeling Islands
+4 Guam
+4 American Samoa
+4 Northern Mariana Islands | Saipan
+4 US Virgin Islands | United States Virgin Islands
+4 British Virgin Islands | BVI
+4 Turks and Caicos | Turks and Caicos Islands
+4 Anguilla
+4 Montserrat
+4 Bonaire | Sint Eustatius | Saba | Caribbean Netherlands
+6 Pitcairn Islands | Pitcairn | Pitcairn Island :: Home to about forty people, most descended from the Bounty mutineers. They use the New Zealand dollar.
+x United Kingdom | UK | England | Britain | Scotland | Ireland | France | Germany | Italy | Spain | Japan | China | India | Russia | Brazil | Mexico | South Africa | Indonesia | Thailand | Vietnam | Philippines | South Korea | Switzerland | Sweden | Norway | Denmark | Turkey | Egypt | Nigeria | Kenya | Argentina | Chile | Peru | Colombia | Cuba | Papua New Guinea | PNG | Samoa | Tonga | Vanuatu | Malaysia | Sri Lanka | Pakistan | Bangladesh | Saudi Arabia | UAE | Israel | Greece | Portugal | Netherlands | Ghana | Ethiopia :: Its money has another name: a pound, a euro, a yen, a peso, a rupee or something else again.
+x Dollar | Dollars | AUD | USD | Buck | Bucks :: That is the currency. Name a country that uses one.
+- Dominican Republic | Austria | Niger | Guinea | French Guiana | Siberia

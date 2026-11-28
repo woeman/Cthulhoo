@@ -1,0 +1,5687 @@
+{
+ "id": "history-lost-countries",
+ "text": "Name a country that no longer exists.",
+ "category": "history",
+ "flavor": "Borders shift like sand. Whole nations sink beneath the tide of history and are never seen again.",
+ "rules": "Any country, empire or kingdom that no longer exists, including old colonies. A country that was only renamed, like Ceylon, doesn't count.",
+ "answers": [
+  {
+   "answer": "Soviet Union",
+   "aliases": [
+    "USSR",
+    "Union of Soviet Socialist Republics",
+    "CCCP",
+    "Soviet Russia",
+    "Soviets",
+    "SSSR",
+    "Soviet Empire",
+    "Union of Soviet Socialist Republic"
+   ],
+   "tier": 1,
+   "lore": "Dissolved on 26 December 1991, the day after Gorbachev resigned."
+  },
+  {
+   "answer": "Yugoslavia",
+   "aliases": [
+    "Kingdom of Yugoslavia",
+    "SFR Yugoslavia",
+    "Socialist Federal Republic of Yugoslavia",
+    "Jugoslavia",
+    "Federal People's Republic of Yugoslavia",
+    "SFRY",
+    "SFRJ",
+    "Kingdom of Serbs, Croats and Slovenes",
+    "Kingdom of SHS",
+    "Yugoslav Republic",
+    "Jugoslavija"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Czechoslovakia",
+   "aliases": [
+    "ČSSR",
+    "ČSFR",
+    "Czechoslovak Socialist Republic",
+    "Czechoslovak Republic",
+    "Czech and Slovak Federative Republic",
+    "Czech and Slovak Federal Republic",
+    "Czechoslovak Federative Republic",
+    "Czechslovakia",
+    "Chekoslovakia",
+    "Checkoslovakia"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "East Germany",
+   "aliases": [
+    "GDR",
+    "DDR",
+    "German Democratic Republic",
+    "Deutsche Demokratische Republik",
+    "Communist Germany",
+    "Communist East Germany",
+    "Ostdeutschland",
+    "East German Republic"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Prussia",
+   "aliases": [
+    "Kingdom of Prussia",
+    "Free State of Prussia",
+    "Duchy of Prussia",
+    "Electorate of Prussia",
+    "Prussian Kingdom",
+    "Prussian state"
+   ],
+   "tier": 1,
+   "lore": "Formally abolished by the Allies in 1947, who blamed it for German militarism."
+  },
+  {
+   "answer": "Ottoman Empire",
+   "aliases": [
+    "Ottomans",
+    "Turkish Empire",
+    "Sublime Porte",
+    "Ottoman Turkey",
+    "Ottoman Sultanate",
+    "Ottoman State",
+    "Sublime Ottoman State",
+    "Osmanli Empire",
+    "Ottoman Caliphate",
+    "Ottomon Empire",
+    "Otoman Empire"
+   ],
+   "tier": 1,
+   "lore": "Lasted over 600 years, until its sultanate was abolished in 1922."
+  },
+  {
+   "answer": "Roman Empire",
+   "aliases": [
+    "Rome",
+    "Ancient Rome",
+    "Western Roman Empire",
+    "Romans",
+    "Imperium Romanum",
+    "SPQR",
+    "Ancient Romans",
+    "Empire of Rome",
+    "Rome Empire"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Austria-Hungary",
+   "aliases": [
+    "Austro-Hungarian Empire",
+    "Austro-Hungary",
+    "Dual Monarchy",
+    "Austrian-Hungarian Empire",
+    "Austria Hungary Empire",
+    "Kingdom of Austria-Hungary",
+    "Empire of Austria-Hungary",
+    "Austro-Hungarian Monarchy"
+   ],
+   "tier": 1,
+   "lore": "Its heir's assassination in Sarajevo in 1914 lit the fuse of the First World War."
+  },
+  {
+   "answer": "West Germany",
+   "aliases": [
+    "FRG",
+    "BRD"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Byzantine Empire",
+   "aliases": [
+    "Byzantium",
+    "Eastern Roman Empire",
+    "Byzantines",
+    "Byzantine",
+    "Byzantium Empire",
+    "Byzantine Rome",
+    "Bizantine Empire",
+    "Byzantine Greece"
+   ],
+   "tier": 2,
+   "lore": "Never called itself Byzantine. To its people it was simply the Roman Empire, until 1453."
+  },
+  {
+   "answer": "Holy Roman Empire",
+   "aliases": [
+    "HRE",
+    "First Reich",
+    "Holy Roman Empire of the German Nation",
+    "Sacrum Imperium Romanum",
+    "Holy Roman",
+    "Holy Roman Emperor"
+   ],
+   "tier": 2,
+   "lore": "Neither holy, nor Roman, nor an empire, as Voltaire put it. Dissolved in 1806."
+  },
+  {
+   "answer": "Persian Empire",
+   "aliases": [
+    "Achaemenid Empire",
+    "Achaemenids",
+    "Ancient Persia",
+    "Persia",
+    "Achaemenid Persia",
+    "Achaemenian Empire",
+    "First Persian Empire",
+    "Old Persia",
+    "Persians",
+    "Ancient Persian Empire",
+    "Empire of Persia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mongol Empire",
+   "aliases": [
+    "Mongols",
+    "Mongolian Empire",
+    "Great Mongol Empire",
+    "Empire of Genghis Khan",
+    "Genghis Khan's empire",
+    "Yeke Mongol Ulus",
+    "Mongolian Empire of Genghis Khan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Babylon",
+   "aliases": [
+    "Babylonia",
+    "Babylonian Empire",
+    "Neo-Babylonian Empire",
+    "Babylonians",
+    "Ancient Babylon",
+    "Old Babylonian Empire",
+    "Chaldea",
+    "Chaldean Empire",
+    "Kingdom of Babylon",
+    "Babylonian Kingdom"
+   ],
+   "tier": 2,
+   "lore": "Its Hanging Gardens are one of the Seven Wonders, though no one has proved they existed."
+  },
+  {
+   "answer": "Sparta",
+   "aliases": [
+    "Lacedaemon",
+    "Spartans",
+    "Ancient Sparta",
+    "Lacedaemonia",
+    "Laconia",
+    "Spartan Empire"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Carthage",
+   "aliases": [
+    "Carthaginian Empire",
+    "Carthaginians",
+    "Ancient Carthage",
+    "Punic Empire",
+    "Carthaginian Republic",
+    "Carthago"
+   ],
+   "tier": 2,
+   "lore": "Rome's great rival, destroyed in 146 BC after three wars."
+  },
+  {
+   "answer": "Rhodesia",
+   "aliases": [
+    "Southern Rhodesia",
+    "Republic of Rhodesia",
+    "Rhodesian Republic"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ancient Egypt",
+   "aliases": [
+    "Pharaonic Egypt",
+    "Egyptian Empire",
+    "Old Kingdom of Egypt",
+    "New Kingdom of Egypt",
+    "Egypt of the Pharaohs",
+    "Kemet",
+    "Ancient Egyptians",
+    "Pharaohs",
+    "Egyptian civilisation"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Assyria",
+   "aliases": [
+    "Assyrian Empire",
+    "Neo-Assyrian Empire",
+    "Assyrians",
+    "Ancient Assyria",
+    "Assyrian Kingdom"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Aztec Empire",
+   "aliases": [
+    "Aztecs",
+    "Triple Alliance",
+    "Mexica",
+    "Aztec Triple Alliance",
+    "Tenochtitlan",
+    "Aztec civilisation",
+    "Aztec civilization",
+    "Aztec Kingdom"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Inca Empire",
+   "aliases": [
+    "Incas",
+    "Tawantinsuyu",
+    "Inca",
+    "Incan Empire",
+    "Inka Empire",
+    "Inka",
+    "Tahuantinsuyu",
+    "Inca civilisation",
+    "Inca civilization",
+    "Incan civilization"
+   ],
+   "tier": 2,
+   "lore": "The largest empire of the pre-Columbian Americas, run without writing as we know it, using knotted cords called quipu."
+  },
+  {
+   "answer": "Mughal Empire",
+   "aliases": [
+    "Mughals",
+    "Mogul Empire",
+    "Moghul Empire",
+    "Mughal India",
+    "Moghuls",
+    "Moguls",
+    "Moghal Empire",
+    "Mughal dynasty",
+    "Mogul India"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kingdom of Hawaii",
+   "aliases": [
+    "Hawaiian Kingdom",
+    "Hawaii",
+    "Kingdom of the Hawaiian Islands",
+    "Hawaiian monarchy"
+   ],
+   "tier": 2,
+   "lore": "Overthrown in 1893 by American-backed businessmen, then annexed by the US in 1898."
+  },
+  {
+   "answer": "Republic of Texas",
+   "aliases": [
+    "Texas Republic",
+    "Texas",
+    "Lone Star Republic",
+    "Texan Republic",
+    "Independent Texas"
+   ],
+   "tier": 2,
+   "lore": "An independent country from 1836 to 1845, with its own navy and envoys abroad."
+  },
+  {
+   "answer": "Confederate States",
+   "aliases": [
+    "Confederacy",
+    "CSA",
+    "Confederate States of America",
+    "Confederate America",
+    "Southern Confederacy",
+    "Confederate South",
+    "Confederation of Southern States"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Republic of Venice",
+   "aliases": [
+    "Venice",
+    "Venetian Republic",
+    "La Serenissima",
+    "Most Serene Republic of Venice",
+    "Serene Republic of Venice",
+    "Venetian Empire",
+    "Republic of St Mark",
+    "Venetia"
+   ],
+   "tier": 2,
+   "lore": "Lasted over a thousand years, until Napoleon ended it in 1797."
+  },
+  {
+   "answer": "British Empire",
+   "aliases": [
+    "Empire of Great Britain",
+    "British colonial empire",
+    "Imperial Britain"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Russian Empire",
+   "aliases": [
+    "Tsarist Russia",
+    "Imperial Russia",
+    "Czarist Russia",
+    "Empire of Russia",
+    "Romanov Russia",
+    "Romanov Empire",
+    "Russian Tsarist Empire"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "German Empire",
+   "aliases": [
+    "Imperial Germany",
+    "Second Reich",
+    "Kaiserreich",
+    "German Reich",
+    "Deutsches Reich",
+    "Wilhelmine Germany",
+    "Kaiser's Germany",
+    "Imperial German Empire"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "South Vietnam",
+   "aliases": [
+    "Republic of Vietnam",
+    "RVN",
+    "Saigon government"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Weimar Republic",
+   "aliases": [
+    "Weimar Germany",
+    "Weimar"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Nazi Germany",
+   "aliases": [
+    "Third Reich",
+    "Greater German Reich",
+    "Greater Germany",
+    "Hitler's Germany",
+    "Nazi Reich",
+    "Third German Reich",
+    "Nazi State"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Macedon",
+   "aliases": [
+    "Macedonia",
+    "Ancient Macedonia",
+    "Kingdom of Macedon",
+    "Macedonian Empire",
+    "Macedonians",
+    "Ancient Macedon",
+    "Macedonia of Alexander"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Zanzibar",
+   "aliases": [
+    "Sultanate of Zanzibar",
+    "People's Republic of Zanzibar"
+   ],
+   "tier": 3,
+   "lore": "Fought Britain in 1896 in the shortest war in history, which lasted under 45 minutes."
+  },
+  {
+   "answer": "Tanganyika",
+   "tier": 3,
+   "lore": "Merged with Zanzibar in 1964. The new name, Tanzania, blends the two."
+  },
+  {
+   "answer": "Kingdom of Sardinia",
+   "aliases": [
+    "Sardinia",
+    "Piedmont-Sardinia",
+    "Sardinia-Piedmont",
+    "Kingdom of Piedmont-Sardinia",
+    "Savoy-Sardinia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of the Two Sicilies",
+   "aliases": [
+    "Two Sicilies"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of Bavaria",
+   "aliases": [
+    "Bavaria",
+    "Electorate of Bavaria",
+    "Duchy of Bavaria"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bohemia",
+   "aliases": [
+    "Kingdom of Bohemia",
+    "Duchy of Bohemia",
+    "Bohemian Kingdom"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Burgundy",
+   "aliases": [
+    "Duchy of Burgundy",
+    "Kingdom of Burgundy",
+    "Burgundian State",
+    "Kingdom of the Burgundians",
+    "Burgundian Kingdom"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Navarre",
+   "aliases": [
+    "Kingdom of Navarre",
+    "Navarra"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aragon",
+   "aliases": [
+    "Crown of Aragon",
+    "Kingdom of Aragon"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Castile",
+   "aliases": [
+    "Kingdom of Castile",
+    "Crown of Castile",
+    "Castille",
+    "Castile and León"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of Jerusalem",
+   "aliases": [
+    "Outremer",
+    "Latin Kingdom of Jerusalem",
+    "Crusader Kingdom of Jerusalem",
+    "Crusader Kingdom"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Republic of Genoa",
+   "aliases": [
+    "Genoa",
+    "Genoese Republic",
+    "Genova",
+    "Most Serene Republic of Genoa",
+    "Genoese Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Polish–Lithuanian Commonwealth",
+   "aliases": [
+    "Commonwealth of Poland-Lithuania",
+    "Rzeczpospolita",
+    "Poland-Lithuania",
+    "Commonwealth of Both Nations",
+    "Polish-Lithuanian Union",
+    "Republic of Poland-Lithuania",
+    "Polish Commonwealth"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Golden Horde",
+   "aliases": [
+    "Ulus of Jochi",
+    "Kipchak Khanate",
+    "Jochid Ulus",
+    "Khanate of the Golden Horde"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Khmer Empire",
+   "aliases": [
+    "Angkor",
+    "Khmer Kingdom",
+    "Angkor Empire",
+    "Khmer",
+    "Angkorian Empire"
+   ],
+   "tier": 3,
+   "lore": "Builders of Angkor Wat, the largest religious monument on Earth."
+  },
+  {
+   "answer": "Mali Empire",
+   "aliases": [
+    "Empire of Mali",
+    "Kingdom of Mali",
+    "Mali",
+    "Malian Empire",
+    "Manden Kurufaba",
+    "Mandinka Empire"
+   ],
+   "tier": 3,
+   "lore": "Its ruler Mansa Musa is often called the richest person in history."
+  },
+  {
+   "answer": "Songhai Empire",
+   "aliases": [
+    "Songhai",
+    "Songhay",
+    "Songhay Empire",
+    "Gao Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kush",
+   "aliases": [
+    "Kingdom of Kush",
+    "Kushite Kingdom",
+    "Meroë",
+    "Cush",
+    "Kushites",
+    "Napata",
+    "Kushite Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aksum",
+   "aliases": [
+    "Axum",
+    "Aksumite Empire",
+    "Kingdom of Aksum",
+    "Axumite Empire",
+    "Aksumite Kingdom",
+    "Kingdom of Axum",
+    "Aksumites"
+   ],
+   "tier": 3,
+   "lore": "An ancient African trading empire that minted its own coins and claimed to guard the Ark of the Covenant."
+  },
+  {
+   "answer": "Kingdom of Benin",
+   "aliases": [
+    "Benin Empire",
+    "Edo Kingdom",
+    "Benin",
+    "Great Benin",
+    "Benin Kingdom",
+    "Kingdom of Edo",
+    "Ancient Benin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ashanti Empire",
+   "aliases": [
+    "Asante",
+    "Asante Empire",
+    "Ashanti",
+    "Ashanti Kingdom",
+    "Asante Kingdom",
+    "Ashanti Confederacy",
+    "Asanteman"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zulu Kingdom",
+   "aliases": [
+    "Zululand",
+    "Zulu Empire",
+    "Zulu Nation",
+    "Kingdom of the Zulus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Phoenicia",
+   "aliases": [
+    "Phoenicians",
+    "Phoenician Empire",
+    "Phoenician city-states"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hittites",
+   "aliases": [
+    "Hittite Empire",
+    "Hittite Kingdom",
+    "Hatti",
+    "Land of Hatti",
+    "Hittite"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Biafra",
+   "aliases": [
+    "Republic of Biafra"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "North Vietnam",
+   "aliases": [
+    "Democratic Republic of Vietnam"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "South Yemen",
+   "aliases": [
+    "People's Democratic Republic of Yemen",
+    "Democratic Yemen",
+    "PDRY",
+    "People's Republic of South Yemen"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "North Yemen",
+   "aliases": [
+    "Yemen Arab Republic",
+    "YAR"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "United Arab Republic",
+   "aliases": [
+    "UAR"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Manchukuo",
+   "aliases": [
+    "Manchoukuo",
+    "Manchutikuo",
+    "Empire of Manchukuo",
+    "Manchu State"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Serbia and Montenegro",
+   "aliases": [
+    "Federal Republic of Yugoslavia",
+    "FR Yugoslavia",
+    "FRY",
+    "State Union of Serbia and Montenegro"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kievan Rus'",
+   "aliases": [
+    "Kyivan Rus",
+    "Rus'",
+    "Kiev Rus",
+    "Kievan Russia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Francia",
+   "aliases": [
+    "Frankish Empire",
+    "Carolingian Empire",
+    "Kingdom of the Franks",
+    "Franks",
+    "Frankish Kingdom",
+    "Merovingian Kingdom",
+    "Merovingians",
+    "Carolingians",
+    "Empire of Charlemagne",
+    "Charlemagne's empire",
+    "Frankish Realm"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Al-Andalus",
+   "aliases": [
+    "Caliphate of Córdoba",
+    "Moorish Spain",
+    "Emirate of Córdoba",
+    "Islamic Spain",
+    "Muslim Spain",
+    "Andalus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Abbasid Caliphate",
+   "aliases": [
+    "Abbasids",
+    "Abbasid Empire",
+    "Abbasid dynasty",
+    "Caliphate of Baghdad",
+    "Caliphate"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Umayyad Caliphate",
+   "aliases": [
+    "Umayyads",
+    "Umayyad Empire",
+    "Umayyad dynasty",
+    "Caliphate of Damascus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Safavid Empire",
+   "aliases": [
+    "Safavid Persia",
+    "Safavids",
+    "Safavid dynasty",
+    "Safavid Iran"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Parthian Empire",
+   "aliases": [
+    "Parthia",
+    "Parthians",
+    "Arsacid Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sasanian Empire",
+   "aliases": [
+    "Sassanid Empire",
+    "Sasanians",
+    "Sassanids",
+    "Sassanian Empire",
+    "Sasanid Empire",
+    "Neo-Persian Empire",
+    "Sassanid Persia",
+    "Sasanian Persia",
+    "Sassanian Persia",
+    "Sasanids",
+    "Sasanid dynasty",
+    "Sassanid dynasty"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Seleucid Empire",
+   "aliases": [
+    "Seleucids",
+    "Seleucid Kingdom",
+    "Seleucid dynasty"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of Israel",
+   "aliases": [
+    "Ancient Israel",
+    "United Monarchy",
+    "Israelite Kingdom",
+    "Kingdom of David",
+    "Kingdom of Solomon",
+    "Northern Kingdom of Israel"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Papal States",
+   "aliases": [
+    "States of the Church",
+    "Papal State",
+    "Pontifical States",
+    "Church States",
+    "Patrimony of St Peter"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Wessex",
+   "aliases": [
+    "Kingdom of Wessex"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mercia",
+   "aliases": [
+    "Kingdom of Mercia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Northumbria",
+   "aliases": [
+    "Kingdom of Northumbria"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sumer",
+   "aliases": [
+    "Sumeria",
+    "Sumerians",
+    "Ancient Sumer",
+    "Sumerian civilisation",
+    "Sumerian civilization"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Akkad",
+   "aliases": [
+    "Akkadian Empire",
+    "Akkadians",
+    "Akkadia",
+    "Akkadian Kingdom"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Troy",
+   "aliases": [
+    "Ilium",
+    "Trojans",
+    "Troia",
+    "Wilusa",
+    "Ancient Troy"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Athens",
+   "aliases": [
+    "Ancient Athens",
+    "Athenian Empire",
+    "Athenian Republic",
+    "Athenians",
+    "Athenian democracy",
+    "Athenian city-state"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Roman Republic",
+   "aliases": [
+    "Republic of Rome",
+    "Res publica Romana",
+    "Ancient Roman Republic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gran Colombia",
+   "aliases": [
+    "Great Colombia",
+    "Greater Colombia"
+   ],
+   "tier": 3,
+   "lore": "Bolívar's great republic, which broke apart into Colombia, Venezuela and Ecuador in 1831."
+  },
+  {
+   "answer": "Empire of Brazil",
+   "aliases": [
+    "Brazilian Empire",
+    "Imperial Brazil"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ethiopian Empire",
+   "aliases": [
+    "Abyssinian Empire",
+    "Abyssinia",
+    "Imperial Ethiopia",
+    "Empire of Ethiopia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maurya Empire",
+   "aliases": [
+    "Mauryan Empire",
+    "Mauryan dynasty",
+    "Maurya dynasty"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gupta Empire",
+   "aliases": [
+    "Guptas",
+    "Gupta dynasty"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Qing dynasty",
+   "aliases": [
+    "Qing Empire",
+    "Manchu Empire",
+    "Qing China",
+    "Qing",
+    "Chinese Empire",
+    "Great Qing",
+    "Ch'ing dynasty",
+    "Manchu dynasty",
+    "Imperial China"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ming dynasty",
+   "aliases": [
+    "Ming China",
+    "Ming Empire",
+    "Ming",
+    "Great Ming"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Han dynasty",
+   "aliases": [
+    "Han China",
+    "Han Empire",
+    "Han",
+    "Western Han",
+    "Eastern Han"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Empire of Japan",
+   "aliases": [
+    "Imperial Japan",
+    "Japanese Empire",
+    "Great Japanese Empire",
+    "Dai Nippon Teikoku",
+    "Japanese Imperial Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "British Raj",
+   "aliases": [
+    "British India",
+    "Indian Empire",
+    "The Raj",
+    "British Indian Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "East Pakistan",
+   "tier": 3
+  },
+  {
+   "answer": "French Indochina",
+   "aliases": [
+    "Indochina",
+    "Indochinese Union"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Belgian Congo",
+   "tier": 3
+  },
+  {
+   "answer": "Congo Free State",
+   "aliases": [
+    "Free State of the Congo",
+    "État indépendant du Congo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gold Coast",
+   "aliases": [
+    "Gold Coast Colony"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Dutch Republic",
+   "aliases": [
+    "United Provinces",
+    "Republic of the Seven United Netherlands",
+    "Republic of the United Provinces",
+    "Dutch United Provinces"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vichy France",
+   "aliases": [
+    "Vichy",
+    "Vichy regime",
+    "French State",
+    "État français"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of France",
+   "aliases": [
+    "French Kingdom",
+    "Bourbon France",
+    "Ancien Régime France",
+    "Royal France"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Austrian Empire",
+   "aliases": [
+    "Empire of Austria"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Spanish Empire",
+   "aliases": [
+    "Spanish colonial empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "First French Empire",
+   "aliases": [
+    "Napoleonic Empire",
+    "French Empire",
+    "Napoleonic France",
+    "Empire of Napoleon",
+    "Napoleon's empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Grand Duchy of Lithuania",
+   "aliases": [
+    "Lithuanian Grand Duchy"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nubia",
+   "aliases": [
+    "Kingdom of Nubia",
+    "Nubians",
+    "Nubian Kingdom"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Qin dynasty",
+   "aliases": [
+    "Qin",
+    "Qin China",
+    "Qin Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Shang dynasty",
+   "aliases": [
+    "Shang"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zhou dynasty",
+   "aliases": [
+    "Zhou"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hunnic Empire",
+   "aliases": [
+    "Huns",
+    "Empire of the Huns",
+    "Hun Empire",
+    "Attila's empire",
+    "Hunic Empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tibet",
+   "aliases": [
+    "Kingdom of Tibet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of Great Britain",
+   "tier": 3
+  },
+  {
+   "answer": "Irish Free State",
+   "aliases": [
+    "Saorstát Éireann",
+    "Free State"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Portuguese Empire",
+   "aliases": [
+    "Portuguese colonial empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "French colonial empire",
+   "aliases": [
+    "French overseas empire"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Thirteen Colonies",
+   "aliases": [
+    "13 Colonies",
+    "Thirteen American Colonies",
+    "British America",
+    "American colonies",
+    "Colonial America"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kingdom of Saxony",
+   "aliases": [
+    "Saxony",
+    "Electorate of Saxony",
+    "Duchy of Saxony"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Hanover",
+   "aliases": [
+    "Hanover",
+    "Electorate of Hanover"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Württemberg",
+   "aliases": [
+    "Württemberg"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wallachia",
+   "aliases": [
+    "Principality of Wallachia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Moldavia",
+   "aliases": [
+    "Principality of Moldavia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Transylvania",
+   "aliases": [
+    "Principality of Transylvania"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Free City of Danzig",
+   "aliases": [
+    "Danzig",
+    "Free City of Gdańsk"
+   ],
+   "tier": 4,
+   "lore": "A city-state under League of Nations protection, until Germany seized it in 1939."
+  },
+  {
+   "answer": "Republic of Ragusa",
+   "aliases": [
+    "Ragusa",
+    "Dubrovnik Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Orange Free State",
+   "aliases": [
+    "Oranje-Vrijstaat"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Transvaal",
+   "aliases": [
+    "South African Republic",
+    "Zuid-Afrikaansche Republiek",
+    "ZAR",
+    "Transvaal Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Duchy of Warsaw",
+   "tier": 4
+  },
+  {
+   "answer": "Novgorod Republic",
+   "aliases": [
+    "Novgorod",
+    "Novgorod the Great",
+    "Lord Novgorod the Great"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Grand Duchy of Moscow",
+   "aliases": [
+    "Muscovy",
+    "Grand Principality of Moscow"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tsardom of Russia",
+   "tier": 4
+  },
+  {
+   "answer": "Khazar Khaganate",
+   "aliases": [
+    "Khazaria",
+    "Khazars"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bulgarian Empire",
+   "aliases": [
+    "First Bulgarian Empire",
+    "Second Bulgarian Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Great Moravia",
+   "aliases": [
+    "Moravia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kalmar Union",
+   "tier": 4
+  },
+  {
+   "answer": "Denmark–Norway",
+   "aliases": [
+    "Dano-Norwegian Realm",
+    "Twin Kingdoms"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Duchy of Savoy",
+   "aliases": [
+    "Savoy"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Duchy of Milan",
+   "aliases": [
+    "Milan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Naples",
+   "aliases": [
+    "Naples"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Sicily",
+   "aliases": [
+    "Sicily"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Republic of Florence",
+   "aliases": [
+    "Florence",
+    "Florentine Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Grand Duchy of Tuscany",
+   "aliases": [
+    "Tuscany"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Italy",
+   "aliases": [
+    "Italian Kingdom",
+    "Fascist Italy",
+    "Mussolini's Italy"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Visigothic Kingdom",
+   "aliases": [
+    "Visigoths",
+    "Kingdom of the Visigoths",
+    "Visigothic Spain",
+    "Goths",
+    "Gothic Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vandal Kingdom",
+   "aliases": [
+    "Vandals",
+    "Kingdom of the Vandals"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Scotland",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of England",
+   "tier": 4
+  },
+  {
+   "answer": "East Anglia",
+   "aliases": [
+    "Kingdom of East Anglia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kent",
+   "aliases": [
+    "Kingdom of Kent"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pictland",
+   "aliases": [
+    "Picts",
+    "Kingdom of the Picts",
+    "Pictavia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Duchy of Brittany",
+   "aliases": [
+    "Brittany",
+    "Kingdom of Brittany"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Seljuk Empire",
+   "aliases": [
+    "Seljuks",
+    "Seljuq Empire",
+    "Great Seljuk Empire",
+    "Seljuk Turks",
+    "Seljuk Sultanate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fatimid Caliphate",
+   "aliases": [
+    "Fatimids",
+    "Fatimid Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mamluk Sultanate",
+   "aliases": [
+    "Mamluks",
+    "Mamluk Egypt",
+    "Mameluke Sultanate",
+    "Mamelukes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Timurid Empire",
+   "aliases": [
+    "Timurids",
+    "Empire of Timur",
+    "Timur's empire",
+    "Tamerlane's empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ptolemaic Kingdom",
+   "aliases": [
+    "Ptolemaic Egypt",
+    "Ptolemaic dynasty",
+    "Ptolemies"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Judah",
+   "aliases": [
+    "Judah"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nabataean Kingdom",
+   "aliases": [
+    "Nabataea",
+    "Nabataeans",
+    "Nabatea",
+    "Nabataean Arabs"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Palmyrene Empire",
+   "aliases": [
+    "Palmyra",
+    "Kingdom of Palmyra",
+    "Zenobia's empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lydia",
+   "aliases": [
+    "Kingdom of Lydia",
+    "Lydians",
+    "Lydian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Scythia",
+   "aliases": [
+    "Scythians"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dacia",
+   "aliases": [
+    "Dacians"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thrace",
+   "aliases": [
+    "Odrysian Kingdom",
+    "Thracians"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Numidia",
+   "tier": 4
+  },
+  {
+   "answer": "Ghana Empire",
+   "aliases": [
+    "Wagadu",
+    "Kingdom of Ghana",
+    "Ghana",
+    "Ancient Ghana",
+    "Empire of Ghana",
+    "Gana Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Great Zimbabwe",
+   "aliases": [
+    "Kingdom of Zimbabwe"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Kongo",
+   "aliases": [
+    "Kongo",
+    "Kingdom of Congo",
+    "Kingdom of the Kongo",
+    "Kingdom of the Congo",
+    "Kongo Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dahomey",
+   "aliases": [
+    "Kingdom of Dahomey"
+   ],
+   "tier": 4,
+   "lore": "A West African kingdom famed for its regiments of women warriors."
+  },
+  {
+   "answer": "Katanga",
+   "aliases": [
+    "State of Katanga"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bechuanaland",
+   "aliases": [
+    "Bechuanaland Protectorate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Basutoland",
+   "tier": 4
+  },
+  {
+   "answer": "Nyasaland",
+   "aliases": [
+    "Nyasaland Protectorate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Northern Rhodesia",
+   "tier": 4
+  },
+  {
+   "answer": "German East Africa",
+   "aliases": [
+    "Deutsch-Ostafrika"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "German South West Africa",
+   "aliases": [
+    "Deutsch-Südwestafrika"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "French West Africa",
+   "aliases": [
+    "AOF"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "British Somaliland",
+   "tier": 4
+  },
+  {
+   "answer": "Cape Colony",
+   "aliases": [
+    "Cape of Good Hope Colony",
+    "Dutch Cape Colony",
+    "Colony of the Cape of Good Hope"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Federal Republic of Central America",
+   "aliases": [
+    "United Provinces of Central America",
+    "Central American Federation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mexican Empire",
+   "aliases": [
+    "First Mexican Empire",
+    "Second Mexican Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "New Spain",
+   "aliases": [
+    "Viceroyalty of New Spain"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "New France",
+   "aliases": [
+    "Nouvelle-France",
+    "French North America"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "New Netherland",
+   "aliases": [
+    "New Amsterdam",
+    "Nieuw-Nederland",
+    "New Netherlands"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dominion of Newfoundland",
+   "aliases": [
+    "Newfoundland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Majapahit",
+   "aliases": [
+    "Majapahit Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Srivijaya",
+   "aliases": [
+    "Srivijaya Empire",
+    "Sriwijaya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ayutthaya Kingdom",
+   "aliases": [
+    "Ayutthaya",
+    "Ayudhya",
+    "Kingdom of Ayutthaya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vijayanagara Empire",
+   "aliases": [
+    "Vijayanagara",
+    "Vijayanagar",
+    "Vijayanagar Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Maratha Empire",
+   "aliases": [
+    "Marathas",
+    "Maratha Confederacy",
+    "Maratha Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sikh Empire",
+   "aliases": [
+    "Sikh Raj",
+    "Khalsa Raj",
+    "Kingdom of Punjab",
+    "Sarkar-i-Khalsa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Mysore",
+   "aliases": [
+    "Mysore",
+    "Mysore Kingdom",
+    "Sultanate of Mysore"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hyderabad State",
+   "aliases": [
+    "Hyderabad",
+    "Hyderabad Deccan",
+    "Nizam's Dominions"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sikkim",
+   "aliases": [
+    "Kingdom of Sikkim"
+   ],
+   "tier": 4,
+   "lore": "A Himalayan kingdom that voted to join India in 1975."
+  },
+  {
+   "answer": "Chola Empire",
+   "aliases": [
+    "Cholas",
+    "Chola dynasty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dutch East Indies",
+   "aliases": [
+    "Netherlands East Indies",
+    "Netherlands Indies"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tibetan Empire",
+   "tier": 4
+  },
+  {
+   "answer": "Tang dynasty",
+   "aliases": [
+    "Tang",
+    "Tang Empire",
+    "Tang China"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Song dynasty",
+   "aliases": [
+    "Song",
+    "Sung dynasty",
+    "Song China",
+    "Northern Song",
+    "Southern Song",
+    "Song Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yuan dynasty",
+   "aliases": [
+    "Yuan",
+    "Yuan Empire",
+    "Great Yuan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Korean Empire",
+   "aliases": [
+    "Daehan Empire",
+    "Empire of Korea",
+    "Great Korean Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Joseon",
+   "aliases": [
+    "Chosŏn",
+    "Chosun",
+    "Joseon dynasty",
+    "Joseon Korea",
+    "Kingdom of Joseon",
+    "Yi dynasty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ryukyu Kingdom",
+   "aliases": [
+    "Ryukyu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sultanate of Malacca",
+   "aliases": [
+    "Malacca Sultanate",
+    "Melaka Sultanate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Crimean Khanate",
+   "tier": 4
+  },
+  {
+   "answer": "Trucial States",
+   "aliases": [
+    "Trucial Oman",
+    "Trucial Coast"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Habsburg Monarchy",
+   "aliases": [
+    "Habsburg Empire",
+    "Hapsburg Monarchy",
+    "Hapsburg Empire",
+    "Habsburg Austria"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mycenae",
+   "aliases": [
+    "Mycenaean Greece",
+    "Mycenaeans",
+    "Mycenaean civilisation",
+    "Mycenaean civilization"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Egypt",
+   "aliases": [
+    "Egyptian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Serbia",
+   "aliases": [
+    "Serbian Kingdom",
+    "Principality of Serbia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Georgia",
+   "aliases": [
+    "Georgian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Greece",
+   "aliases": [
+    "Greek Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Bulgaria",
+   "aliases": [
+    "Tsardom of Bulgaria",
+    "Principality of Bulgaria"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Armenia",
+   "aliases": [
+    "Armenian Kingdom",
+    "Greater Armenia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Essex",
+   "aliases": [
+    "Kingdom of Essex",
+    "Kingdom of the East Saxons"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sussex",
+   "aliases": [
+    "Kingdom of Sussex"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Swedish Empire",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Nepal",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Iraq",
+   "aliases": [
+    "Hashemite Iraq",
+    "Hashemite Kingdom of Iraq"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Libya",
+   "aliases": [
+    "United Kingdom of Libya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Poland",
+   "aliases": [
+    "Congress Poland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Jin dynasty",
+   "aliases": [
+    "Jin",
+    "Jurchen Jin",
+    "Jin Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kushan Empire",
+   "aliases": [
+    "Kushans"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tuva",
+   "aliases": [
+    "Tannu Tuva",
+    "Tuvan People's Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Netherlands Antilles",
+   "aliases": [
+    "Dutch Antilles"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "British Honduras",
+   "tier": 4
+  },
+  {
+   "answer": "British Guiana",
+   "tier": 4
+  },
+  {
+   "answer": "Transjordan",
+   "aliases": [
+    "Emirate of Transjordan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mandatory Palestine",
+   "aliases": [
+    "British Mandate of Palestine",
+    "Mandate Palestine",
+    "Palestine Mandate",
+    "British Palestine"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Malaya",
+   "aliases": [
+    "Federation of Malaya",
+    "British Malaya",
+    "Malayan Union"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "New Hebrides",
+   "tier": 4
+  },
+  {
+   "answer": "Republic of Hawaii",
+   "tier": 4
+  },
+  {
+   "answer": "Sui dynasty",
+   "aliases": [
+    "Sui"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Hungary",
+   "tier": 4
+  },
+  {
+   "answer": "Delhi Sultanate",
+   "tier": 4
+  },
+  {
+   "answer": "Ilkhanate",
+   "aliases": [
+    "Ilkhanid Persia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pontus",
+   "aliases": [
+    "Kingdom of Pontus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bactria",
+   "aliases": [
+    "Greco-Bactrian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thebes",
+   "tier": 4
+  },
+  {
+   "answer": "Corinth",
+   "tier": 4
+  },
+  {
+   "answer": "Commonwealth of England",
+   "aliases": [
+    "English Commonwealth",
+    "Cromwellian England",
+    "Cromwell's England"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Emirate of Granada",
+   "aliases": [
+    "Granada",
+    "Nasrid Kingdom of Granada"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Albania",
+   "aliases": [
+    "Albanian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Afghanistan",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Romania",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Portugal",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Laos",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Montenegro",
+   "aliases": [
+    "Principality of Montenegro",
+    "Prince-Bishopric of Montenegro"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Iceland",
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Croatia",
+   "aliases": [
+    "Croatian Kingdom"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Spanish Republic",
+   "aliases": [
+    "Second Spanish Republic",
+    "Republic of Spain",
+    "First Spanish Republic",
+    "Republican Spain"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Democratic Kampuchea",
+   "aliases": [
+    "Khmer Rouge Cambodia",
+    "Khmer Rouge regime",
+    "Khmer Rouge",
+    "Kampuchea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Second French Empire",
+   "aliases": [
+    "Second Empire",
+    "Napoleon III's France"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "French Third Republic",
+   "aliases": [
+    "Third French Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "German Confederation",
+   "aliases": [
+    "Deutscher Bund"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "United Kingdom of Great Britain and Ireland",
+   "aliases": [
+    "UK of Great Britain and Ireland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Protectorate of Bohemia and Moravia",
+   "aliases": [
+    "Protectorate of Bohemia",
+    "Reich Protectorate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Polish People's Republic",
+   "aliases": [
+    "People's Republic of Poland",
+    "Communist Poland",
+    "PRL"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Independent State of Croatia",
+   "aliases": [
+    "NDH"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Italian Social Republic",
+   "aliases": [
+    "Republic of Salò",
+    "Salò Republic",
+    "RSI"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Francoist Spain",
+   "aliases": [
+    "Franco's Spain",
+    "Spanish State",
+    "Francoist State",
+    "Nationalist Spain"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Duchy of Normandy",
+   "aliases": [
+    "Normandy"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Electorate of Brandenburg",
+   "aliases": [
+    "Brandenburg",
+    "Margraviate of Brandenburg",
+    "Brandenburg-Prussia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Grand Duchy of Baden",
+   "aliases": [
+    "Baden"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Cyprus",
+   "aliases": [
+    "Lusignan Cyprus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Epirus",
+   "aliases": [
+    "Kingdom of Epirus",
+    "Despotate of Epirus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Illyria",
+   "aliases": [
+    "Illyrian kingdom",
+    "Kingdom of Illyria",
+    "Illyrian Provinces",
+    "Illyrians"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Etruria",
+   "aliases": [
+    "Etruscans",
+    "Etruscan civilisation",
+    "Etruscan civilization",
+    "Kingdom of Etruria"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Minoan Crete",
+   "aliases": [
+    "Minoans",
+    "Minoan civilisation",
+    "Minoan civilization",
+    "Knossos"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Roman Kingdom",
+   "aliases": [
+    "Kingdom of Rome"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Republic of Artsakh",
+   "aliases": [
+    "Artsakh",
+    "Nagorno-Karabakh Republic",
+    "Republic of Nagorno-Karabakh",
+    "Nagorno-Karabakh"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sultanate of Rum",
+   "aliases": [
+    "Seljuks of Rum",
+    "Rum Sultanate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rashidun Caliphate",
+   "aliases": [
+    "Rashidun",
+    "Rashidun Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sheba",
+   "aliases": [
+    "Saba",
+    "Kingdom of Sheba",
+    "Kingdom of Saba",
+    "Sabaean Kingdom",
+    "Sabaeans"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ur",
+   "aliases": [
+    "Third Dynasty of Ur",
+    "Ur III",
+    "Neo-Sumerian Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Almohad Caliphate",
+   "aliases": [
+    "Almohads",
+    "Almohad Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Almoravid dynasty",
+   "aliases": [
+    "Almoravids",
+    "Almoravid Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Regency of Algiers",
+   "aliases": [
+    "Ottoman Algeria",
+    "Deylik of Algiers"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mahdist State",
+   "aliases": [
+    "Mahdist Sudan",
+    "Mahdiyya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anglo-Egyptian Sudan",
+   "tier": 4
+  },
+  {
+   "answer": "Union of South Africa",
+   "tier": 4
+  },
+  {
+   "answer": "Mali Federation",
+   "aliases": [
+    "Federation of Mali"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Senegambia Confederation",
+   "aliases": [
+    "Senegambia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "French Sudan",
+   "tier": 4
+  },
+  {
+   "answer": "French Somaliland",
+   "aliases": [
+    "French Territory of the Afars and the Issas",
+    "Afars and Issas"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Togoland",
+   "aliases": [
+    "German Togoland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kamerun",
+   "aliases": [
+    "German Kamerun",
+    "German Cameroon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ruanda-Urundi",
+   "tier": 4
+  },
+  {
+   "answer": "French Algeria",
+   "aliases": [
+    "Algérie française"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Durrani Empire",
+   "aliases": [
+    "Afghan Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Khwarazmian Empire",
+   "aliases": [
+    "Khwarezmian Empire",
+    "Khwarezm",
+    "Khwarazm",
+    "Khorezm"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Göktürk Khaganate",
+   "aliases": [
+    "Göktürks",
+    "Turkic Khaganate",
+    "First Turkic Khaganate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Xiongnu",
+   "aliases": [
+    "Xiongnu Empire",
+    "Hsiung-nu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Xia dynasty",
+   "aliases": [
+    "Xia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Taiping Heavenly Kingdom",
+   "aliases": [
+    "Taiping Kingdom",
+    "Heavenly Kingdom",
+    "Taiping"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tokugawa shogunate",
+   "aliases": [
+    "Tokugawa Japan",
+    "Edo shogunate",
+    "Edo Japan",
+    "Tokugawa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sukhothai Kingdom",
+   "aliases": [
+    "Sukhothai"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Travancore",
+   "aliases": [
+    "Kingdom of Travancore"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Magadha",
+   "aliases": [
+    "Kingdom of Magadha"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "British Burma",
+   "aliases": [
+    "Colonial Burma"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "British Ceylon",
+   "aliases": [
+    "Colonial Ceylon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "British Hong Kong",
+   "aliases": [
+    "Colonial Hong Kong",
+    "Hong Kong Colony",
+    "Colony of Hong Kong"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Colony of Virginia",
+   "aliases": [
+    "Virginia Colony"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Plymouth Colony",
+   "aliases": [
+    "Plymouth Plantation"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Massachusetts Bay Colony",
+   "tier": 4
+  },
+  {
+   "answer": "Russian America",
+   "aliases": [
+    "Russian Alaska"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "French Louisiana",
+   "aliases": [
+    "La Louisiane"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Saint-Domingue",
+   "aliases": [
+    "French Saint-Domingue"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Colonial Brazil",
+   "aliases": [
+    "Portuguese Brazil",
+    "Colony of Brazil"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Viceroyalty of Peru",
+   "tier": 4
+  },
+  {
+   "answer": "Viceroyalty of New Granada",
+   "aliases": [
+    "New Granada",
+    "Republic of New Granada"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Viceroyalty of the Río de la Plata",
+   "aliases": [
+    "Río de la Plata"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "United Provinces of the Río de la Plata",
+   "aliases": [
+    "United Provinces of South America"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dutch Guiana",
+   "tier": 4
+  },
+  {
+   "answer": "Toltec Empire",
+   "aliases": [
+    "Toltecs"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Teotihuacan",
+   "tier": 4
+  },
+  {
+   "answer": "Chimú",
+   "aliases": [
+    "Kingdom of Chimor",
+    "Chimor",
+    "Chimu Empire"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kingdom of Westphalia",
+   "tier": 5
+  },
+  {
+   "answer": "Confederation of the Rhine",
+   "tier": 5
+  },
+  {
+   "answer": "Batavian Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Cisalpine Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Helvetic Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Free State of Fiume",
+   "aliases": [
+    "Fiume"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Memel Territory",
+   "aliases": [
+    "Memelland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Courland",
+   "aliases": [
+    "Courland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Livonian Confederation",
+   "aliases": [
+    "Livonia",
+    "Terra Mariana"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Teutonic Order State",
+   "aliases": [
+    "State of the Teutonic Order",
+    "Teutonic Knights",
+    "Monastic State of the Teutonic Knights"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sweden-Norway",
+   "tier": 5
+  },
+  {
+   "answer": "Lotharingia",
+   "aliases": [
+    "Middle Francia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ostrogothic Kingdom",
+   "aliases": [
+    "Ostrogoths"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of the Lombards",
+   "aliases": [
+    "Lombards"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Ireland",
+   "tier": 5
+  },
+  {
+   "answer": "Gwynedd",
+   "aliases": [
+    "Kingdom of Gwynedd"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dál Riata",
+   "aliases": [
+    "Dalriada"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Strathclyde",
+   "aliases": [
+    "Kingdom of Strathclyde"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Volga Bulgaria",
+   "tier": 5
+  },
+  {
+   "answer": "Armenian Kingdom of Cilicia",
+   "aliases": [
+    "Cilicia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serbian Empire",
+   "tier": 5
+  },
+  {
+   "answer": "State of Slovenes, Croats and Serbs",
+   "tier": 5
+  },
+  {
+   "answer": "County of Edessa",
+   "aliases": [
+    "Edessa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Principality of Antioch",
+   "tier": 5
+  },
+  {
+   "answer": "Ayyubid Sultanate",
+   "aliases": [
+    "Ayyubids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Hejaz",
+   "aliases": [
+    "Hejaz"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mitanni",
+   "aliases": [
+    "Hurrians",
+    "Mittani"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Urartu",
+   "aliases": [
+    "Urartians",
+    "Kingdom of Van"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Elam",
+   "aliases": [
+    "Elamites",
+    "Elamite Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Media",
+   "aliases": [
+    "Medes",
+    "Median Empire",
+    "Median Kingdom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mauretania",
+   "tier": 5
+  },
+  {
+   "answer": "Kanem-Bornu",
+   "aliases": [
+    "Kanem Empire",
+    "Bornu Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Natalia Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Zimbabwe Rhodesia",
+   "tier": 5
+  },
+  {
+   "answer": "Spanish Sahara",
+   "tier": 5
+  },
+  {
+   "answer": "French Equatorial Africa",
+   "tier": 5
+  },
+  {
+   "answer": "Italian East Africa",
+   "tier": 5
+  },
+  {
+   "answer": "Italian Somaliland",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Madagascar",
+   "aliases": [
+    "Merina Kingdom",
+    "Kingdom of Imerina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Yucatán",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of the Rio Grande",
+   "tier": 5
+  },
+  {
+   "answer": "Vermont Republic",
+   "aliases": [
+    "Republic of Vermont"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "California Republic",
+   "aliases": [
+    "Bear Flag Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peru-Bolivian Confederation",
+   "tier": 5
+  },
+  {
+   "answer": "Tikal",
+   "aliases": [
+    "Mutal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Sarawak",
+   "aliases": [
+    "Raj of Sarawak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Champa",
+   "tier": 5
+  },
+  {
+   "answer": "Pagan Kingdom",
+   "aliases": [
+    "Bagan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Kandy",
+   "tier": 5
+  },
+  {
+   "answer": "Goryeo",
+   "aliases": [
+    "Koryo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silla",
+   "tier": 5
+  },
+  {
+   "answer": "Mengjiang",
+   "tier": 5
+  },
+  {
+   "answer": "Gallic Empire",
+   "tier": 5
+  },
+  {
+   "answer": "Khanate of Sibir",
+   "aliases": [
+    "Sibir"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "County of Flanders",
+   "aliases": [
+    "Flanders"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spanish Netherlands",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Ezo",
+   "aliases": [
+    "Ezo Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Corsican Republic",
+   "aliases": [
+    "Corsica"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cretan State",
+   "aliases": [
+    "Crete"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of York",
+   "aliases": [
+    "Viking York",
+    "Jorvik"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Parma",
+   "aliases": [
+    "Parma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ghurid Empire",
+   "aliases": [
+    "Ghurids",
+    "Ghorid Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Afsharid Empire",
+   "aliases": [
+    "Afsharids",
+    "Afsharid Iran"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Avar Khaganate",
+   "aliases": [
+    "Avars"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Toungoo Empire",
+   "aliases": [
+    "Taungoo Empire",
+    "Toungoo dynasty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lycia",
+   "tier": 5
+  },
+  {
+   "answer": "Wari Empire",
+   "aliases": [
+    "Wari",
+    "Huari"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Ndongo",
+   "aliases": [
+    "Ndongo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pala Empire",
+   "aliases": [
+    "Pala dynasty",
+    "Palas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Holland",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of León",
+   "aliases": [
+    "León"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Far Eastern Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Transkei",
+   "tier": 5
+  },
+  {
+   "answer": "Bophuthatswana",
+   "tier": 5
+  },
+  {
+   "answer": "Saar Protectorate",
+   "aliases": [
+    "Saar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Free Territory of Trieste",
+   "aliases": [
+    "Trieste"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Federation of Rhodesia and Nyasaland",
+   "aliases": [
+    "Central African Federation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "West Indies Federation",
+   "aliases": [
+    "Federation of the West Indies"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chagatai Khanate",
+   "aliases": [
+    "Chagatai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Latin Empire",
+   "aliases": [
+    "Latin Empire of Constantinople"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Empire of Trebizond",
+   "aliases": [
+    "Trebizond"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pergamon",
+   "aliases": [
+    "Pergamum",
+    "Kingdom of Pergamon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oyo Empire",
+   "aliases": [
+    "Oyo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sokoto Caliphate",
+   "aliases": [
+    "Sokoto"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mutapa",
+   "aliases": [
+    "Kingdom of Mutapa",
+    "Monomotapa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Goguryeo",
+   "aliases": [
+    "Koguryo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baekje",
+   "aliases": [
+    "Paekche"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lan Xang",
+   "tier": 5
+  },
+  {
+   "answer": "North German Confederation",
+   "tier": 5
+  },
+  {
+   "answer": "Khanate of Kazan",
+   "aliases": [
+    "Kazan Khanate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bukhara",
+   "aliases": [
+    "Emirate of Bukhara",
+    "Khanate of Bukhara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khiva",
+   "aliases": [
+    "Khanate of Khiva"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Finland",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Haiti",
+   "aliases": [
+    "State of Haiti"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Empire of Haiti",
+   "aliases": [
+    "First Empire of Haiti",
+    "Second Empire of Haiti",
+    "Haitian Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Tunisia",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Burundi",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Rwanda",
+   "tier": 5
+  },
+  {
+   "answer": "Empire of China",
+   "tier": 5
+  },
+  {
+   "answer": "Arab Kingdom of Syria",
+   "aliases": [
+    "Kingdom of Syria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mutawakkilite Kingdom of Yemen",
+   "aliases": [
+    "Kingdom of Yemen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Fiji",
+   "tier": 5
+  },
+  {
+   "answer": "French First Republic",
+   "aliases": [
+    "First French Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "French Second Republic",
+   "aliases": [
+    "Second French Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "French Fourth Republic",
+   "aliases": [
+    "Fourth French Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "July Monarchy",
+   "aliases": [
+    "Kingdom of the French"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Aquitaine",
+   "aliases": [
+    "Aquitaine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "County of Toulouse",
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Lorraine",
+   "aliases": [
+    "Lorraine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "County of Provence",
+   "aliases": [
+    "Provence"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Arles",
+   "aliases": [
+    "Arelat",
+    "Kingdom of Burgundy-Arles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "West Francia",
+   "tier": 5
+  },
+  {
+   "answer": "East Francia",
+   "tier": 5
+  },
+  {
+   "answer": "United Kingdom of the Netherlands",
+   "tier": 5
+  },
+  {
+   "answer": "Austrian Netherlands",
+   "tier": 5
+  },
+  {
+   "answer": "Burgundian Netherlands",
+   "tier": 5
+  },
+  {
+   "answer": "Seventeen Provinces",
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Brabant",
+   "aliases": [
+    "Brabant"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "County of Holland",
+   "tier": 5
+  },
+  {
+   "answer": "Prince-Bishopric of Liège",
+   "aliases": [
+    "Liège"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "United Belgian States",
+   "tier": 5
+  },
+  {
+   "answer": "Frisian Kingdom",
+   "aliases": [
+    "Frisia",
+    "Magna Frisia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Swiss Confederacy",
+   "aliases": [
+    "Swiss Confederacy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Alba",
+   "aliases": [
+    "Alba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Powys",
+   "aliases": [
+    "Kingdom of Powys"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Deheubarth",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of the Isles",
+   "aliases": [
+    "Kingdom of Mann and the Isles",
+    "Lordship of the Isles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Principality of Wales",
+   "tier": 5
+  },
+  {
+   "answer": "Elmet",
+   "aliases": [
+    "Kingdom of Elmet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rheged",
+   "tier": 5
+  },
+  {
+   "answer": "Gododdin",
+   "aliases": [
+    "Kingdom of Gododdin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dumnonia",
+   "tier": 5
+  },
+  {
+   "answer": "Bernicia",
+   "tier": 5
+  },
+  {
+   "answer": "Deira",
+   "tier": 5
+  },
+  {
+   "answer": "Lordship of Ireland",
+   "tier": 5
+  },
+  {
+   "answer": "Confederate Ireland",
+   "aliases": [
+    "Irish Catholic Confederation",
+    "Confederation of Kilkenny"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Dublin",
+   "aliases": [
+    "Norse Dublin",
+    "Viking Dublin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "North Sea Empire",
+   "aliases": [
+    "Cnut's empire",
+    "Anglo-Scandinavian Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Icelandic Commonwealth",
+   "aliases": [
+    "Icelandic Free State"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Schleswig",
+   "aliases": [
+    "Schleswig"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Holstein",
+   "aliases": [
+    "Holstein"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Grand Duchy of Hesse",
+   "aliases": [
+    "Hesse",
+    "Hesse-Darmstadt",
+    "Electorate of Hesse",
+    "Hesse-Kassel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mecklenburg-Schwerin",
+   "aliases": [
+    "Mecklenburg",
+    "Grand Duchy of Mecklenburg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Grand Duchy of Oldenburg",
+   "aliases": [
+    "Oldenburg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Brunswick",
+   "aliases": [
+    "Brunswick"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Nassau",
+   "aliases": [
+    "Nassau"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saxe-Coburg and Gotha",
+   "aliases": [
+    "Saxe-Coburg-Gotha",
+    "Duchy of Saxe-Coburg and Gotha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Anhalt",
+   "aliases": [
+    "Anhalt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Electoral Palatinate",
+   "aliases": [
+    "Palatinate",
+    "Electorate of the Palatinate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Free City of Frankfurt",
+   "tier": 5
+  },
+  {
+   "answer": "Free City of Kraków",
+   "aliases": [
+    "Republic of Kraków",
+    "Free City of Cracow"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Allied-occupied Germany",
+   "tier": 5
+  },
+  {
+   "answer": "Bavarian Soviet Republic",
+   "tier": 5
+  },
+  {
+   "answer": "German-Austria",
+   "aliases": [
+    "Republic of German-Austria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slovak State",
+   "aliases": [
+    "First Slovak Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carpatho-Ukraine",
+   "aliases": [
+    "Carpathian Ukraine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hungarian Soviet Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Hungarian People's Republic",
+   "aliases": [
+    "People's Republic of Hungary",
+    "Communist Hungary"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Second Polish Republic",
+   "aliases": [
+    "Interwar Poland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Socialist Republic of Romania",
+   "aliases": [
+    "Communist Romania",
+    "Romanian People's Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "People's Republic of Bulgaria",
+   "aliases": [
+    "Communist Bulgaria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "People's Socialist Republic of Albania",
+   "aliases": [
+    "Communist Albania",
+    "People's Republic of Albania"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ukrainian People's Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Cossack Hetmanate",
+   "aliases": [
+    "Hetmanate",
+    "Zaporozhian Host",
+    "Zaporozhian Sich"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galicia–Volhynia",
+   "aliases": [
+    "Kingdom of Galicia–Volhynia",
+    "Kingdom of Ruthenia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Galicia and Lodomeria",
+   "aliases": [
+    "Austrian Galicia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vladimir-Suzdal",
+   "aliases": [
+    "Grand Principality of Vladimir"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Belarusian Democratic Republic",
+   "aliases": [
+    "Belarusian People's Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Central Lithuania",
+   "aliases": [
+    "Central Lithuania"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Lithuania",
+   "tier": 5
+  },
+  {
+   "answer": "Grand Duchy of Finland",
+   "tier": 5
+  },
+  {
+   "answer": "Russian Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Serbian Krajina",
+   "aliases": [
+    "Serbian Krajina",
+    "Krajina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herzeg-Bosnia",
+   "aliases": [
+    "Croatian Republic of Herzeg-Bosnia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Bosnia",
+   "aliases": [
+    "Banate of Bosnia",
+    "Bosnian Kingdom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serbian Despotate",
+   "tier": 5
+  },
+  {
+   "answer": "Eastern Rumelia",
+   "tier": 5
+  },
+  {
+   "answer": "United Principalities",
+   "aliases": [
+    "United Principalities of Moldavia and Wallachia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Septinsular Republic",
+   "aliases": [
+    "United States of the Ionian Islands",
+    "Ionian Islands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Principality of Samos",
+   "tier": 5
+  },
+  {
+   "answer": "Despotate of the Morea",
+   "aliases": [
+    "Morea",
+    "Despotate of Morea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Empire of Nicaea",
+   "aliases": [
+    "Nicaean Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Principality of Achaea",
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Athens",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Thessalonica",
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of the Archipelago",
+   "aliases": [
+    "Duchy of Naxos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Syracuse",
+   "aliases": [
+    "Kingdom of Syracuse",
+    "Ancient Syracuse"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Argos",
+   "tier": 5
+  },
+  {
+   "answer": "Achaean League",
+   "tier": 5
+  },
+  {
+   "answer": "Aetolian League",
+   "tier": 5
+  },
+  {
+   "answer": "Bosporan Kingdom",
+   "aliases": [
+    "Cimmerian Bosporus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Great Bulgaria",
+   "aliases": [
+    "Great Bulgaria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Modena",
+   "aliases": [
+    "Modena",
+    "Duchy of Modena and Reggio"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Lucca",
+   "aliases": [
+    "Lucca",
+    "Duchy of Lucca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Pisa",
+   "aliases": [
+    "Pisa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Siena",
+   "aliases": [
+    "Siena"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Amalfi",
+   "aliases": [
+    "Amalfi",
+    "Republic of Amalfi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Mantua",
+   "aliases": [
+    "Mantua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Ferrara",
+   "aliases": [
+    "Ferrara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Urbino",
+   "aliases": [
+    "Urbino"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ligurian Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Cispadane Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Parthenopean Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Lombardy–Venetia",
+   "aliases": [
+    "Lombardy-Venetia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Italian Regency of Carnaro",
+   "aliases": [
+    "Regency of Carnaro"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emirate of Sicily",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Asturias",
+   "aliases": [
+    "Asturias"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Suebic Kingdom",
+   "aliases": [
+    "Kingdom of the Suebi",
+    "Suevic Kingdom",
+    "Suebi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Majorca",
+   "aliases": [
+    "Kingdom of Mallorca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Estado Novo",
+   "aliases": [
+    "Salazar's Portugal",
+    "Second Portuguese Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "First Portuguese Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Iberian Union",
+   "tier": 5
+  },
+  {
+   "answer": "United Kingdom of Portugal, Brazil and the Algarves",
+   "aliases": [
+    "United Kingdom of Portugal and Brazil"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Domain of Soissons",
+   "aliases": [
+    "Kingdom of Soissons"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Phrygia",
+   "aliases": [
+    "Kingdom of Phrygia",
+    "Phrygians"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bithynia",
+   "aliases": [
+    "Kingdom of Bithynia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cappadocia",
+   "aliases": [
+    "Kingdom of Cappadocia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Commagene",
+   "aliases": [
+    "Kingdom of Commagene"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galatia",
+   "tier": 5
+  },
+  {
+   "answer": "Caria",
+   "tier": 5
+  },
+  {
+   "answer": "Colchis",
+   "aliases": [
+    "Kingdom of Colchis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Iberia",
+   "aliases": [
+    "Caucasian Iberia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caucasian Albania",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Kartli-Kakheti",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Imereti",
+   "tier": 5
+  },
+  {
+   "answer": "Democratic Republic of Georgia",
+   "tier": 5
+  },
+  {
+   "answer": "First Republic of Armenia",
+   "tier": 5
+  },
+  {
+   "answer": "Azerbaijan Democratic Republic",
+   "aliases": [
+    "Azerbaijan People's Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Transcaucasian Federation",
+   "aliases": [
+    "Transcaucasian Democratic Federative Republic",
+    "Transcaucasian SFSR"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mountainous Republic of the Northern Caucasus",
+   "aliases": [
+    "Mountain Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caucasian Imamate",
+   "tier": 5
+  },
+  {
+   "answer": "Circassia",
+   "tier": 5
+  },
+  {
+   "answer": "Chechen Republic of Ichkeria",
+   "aliases": [
+    "Ichkeria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Himyarite Kingdom",
+   "aliases": [
+    "Himyar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dilmun",
+   "tier": 5
+  },
+  {
+   "answer": "Philistia",
+   "aliases": [
+    "Philistines"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moab",
+   "aliases": [
+    "Kingdom of Moab",
+    "Moabites"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edom",
+   "aliases": [
+    "Kingdom of Edom",
+    "Edomites"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ammon",
+   "aliases": [
+    "Kingdom of Ammon",
+    "Ammonites"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aram-Damascus",
+   "aliases": [
+    "Aram",
+    "Kingdom of Aram"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ugarit",
+   "aliases": [
+    "Kingdom of Ugarit"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ebla",
+   "tier": 5
+  },
+  {
+   "answer": "Hasmonean Kingdom",
+   "aliases": [
+    "Hasmoneans",
+    "Hasmonean dynasty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herodian Kingdom",
+   "aliases": [
+    "Herodian Judea",
+    "Kingdom of Herod"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uruk",
+   "tier": 5
+  },
+  {
+   "answer": "Lagash",
+   "tier": 5
+  },
+  {
+   "answer": "Osroene",
+   "tier": 5
+  },
+  {
+   "answer": "Adiabene",
+   "tier": 5
+  },
+  {
+   "answer": "Arab Federation",
+   "aliases": [
+    "Hashemite Arab Federation",
+    "Arab Union"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emirate of Diriyah",
+   "aliases": [
+    "First Saudi State"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emirate of Nejd",
+   "aliases": [
+    "Second Saudi State"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emirate of Jabal Shammar",
+   "aliases": [
+    "Jabal Shammar",
+    "Emirate of Ha'il"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Colony of Aden",
+   "aliases": [
+    "Aden Colony",
+    "Aden"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Federation of South Arabia",
+   "aliases": [
+    "South Arabia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mandate for Syria and the Lebanon",
+   "aliases": [
+    "French Mandate of Syria",
+    "Mandate Syria",
+    "French Syria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mandatory Iraq",
+   "aliases": [
+    "British Mandate of Mesopotamia",
+    "Mandate Iraq"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hatay State",
+   "aliases": [
+    "Republic of Hatay",
+    "State of Hatay"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Mahabad",
+   "aliases": [
+    "Mahabad"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Kurdistan",
+   "tier": 5
+  },
+  {
+   "answer": "County of Tripoli",
+   "tier": 5
+  },
+  {
+   "answer": "Sultanate of Egypt",
+   "tier": 5
+  },
+  {
+   "answer": "Khedivate of Egypt",
+   "aliases": [
+    "Khedivate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marinid Sultanate",
+   "aliases": [
+    "Marinids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Idrisid dynasty",
+   "aliases": [
+    "Idrisids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Beylik of Tunis",
+   "aliases": [
+    "Regency of Tunis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tripolitania",
+   "aliases": [
+    "Ottoman Tripolitania",
+    "Regency of Tripoli"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Italian Libya",
+   "tier": 5
+  },
+  {
+   "answer": "Rif Republic",
+   "aliases": [
+    "Republic of the Rif"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tangier International Zone",
+   "aliases": [
+    "Tangier Zone",
+    "International Zone of Tangier"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "French Morocco",
+   "tier": 5
+  },
+  {
+   "answer": "Spanish Morocco",
+   "tier": 5
+  },
+  {
+   "answer": "Garamantes",
+   "aliases": [
+    "Garamantian Kingdom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Land of Punt",
+   "aliases": [
+    "Punt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Kerma",
+   "aliases": [
+    "Kerma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makuria",
+   "aliases": [
+    "Kingdom of Makuria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alodia",
+   "aliases": [
+    "Alwa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nobatia",
+   "tier": 5
+  },
+  {
+   "answer": "Zagwe dynasty",
+   "tier": 5
+  },
+  {
+   "answer": "Adal Sultanate",
+   "aliases": [
+    "Adal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sultanate of Darfur",
+   "aliases": [
+    "Darfur Sultanate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Funj Sultanate",
+   "aliases": [
+    "Sultanate of Sennar",
+    "Sennar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ajuran Sultanate",
+   "aliases": [
+    "Ajuran"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Somali Democratic Republic",
+   "tier": 5
+  },
+  {
+   "answer": "Kilwa Sultanate",
+   "aliases": [
+    "Kilwa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mapungubwe",
+   "aliases": [
+    "Kingdom of Mapungubwe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rozvi Empire",
+   "tier": 5
+  },
+  {
+   "answer": "Mthwakazi",
+   "aliases": [
+    "Ndebele Kingdom",
+    "Matabeleland",
+    "Kingdom of Mthwakazi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaza Empire",
+   "tier": 5
+  },
+  {
+   "answer": "Colony of Natal",
+   "aliases": [
+    "Natal Colony",
+    "Natal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ciskei",
+   "tier": 5
+  },
+  {
+   "answer": "Venda",
+   "tier": 5
+  },
+  {
+   "answer": "Stellaland",
+   "tier": 5
+  },
+  {
+   "answer": "South West Africa",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Luba",
+   "aliases": [
+    "Luba Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lunda Empire",
+   "tier": 5
+  },
+  {
+   "answer": "Kuba Kingdom",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Nri",
+   "tier": 5
+  },
+  {
+   "answer": "Wassoulou Empire",
+   "tier": 5
+  },
+  {
+   "answer": "Toucouleur Empire",
+   "aliases": [
+    "Tukulor Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bambara Empire",
+   "aliases": [
+    "Ségou Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaabu",
+   "aliases": [
+    "Kingdom of Kaabu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jolof Empire",
+   "aliases": [
+    "Wolof Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Union of African States",
+   "tier": 5
+  },
+  {
+   "answer": "French Togoland",
+   "tier": 5
+  },
+  {
+   "answer": "British Togoland",
+   "tier": 5
+  },
+  {
+   "answer": "British Cameroons",
+   "tier": 5
+  },
+  {
+   "answer": "French Cameroon",
+   "aliases": [
+    "French Cameroun"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spanish Guinea",
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Guinea",
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Angola",
+   "aliases": [
+    "Portuguese West Africa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Mozambique",
+   "aliases": [
+    "Portuguese East Africa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ubangi-Shari",
+   "aliases": [
+    "Oubangui-Chari"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "South Kasai",
+   "tier": 5
+  },
+  {
+   "answer": "East Africa Protectorate",
+   "aliases": [
+    "Kenya Colony",
+    "British East Africa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ghaznavid Empire",
+   "aliases": [
+    "Ghaznavids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samanid Empire",
+   "aliases": [
+    "Samanids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Buyid dynasty",
+   "aliases": [
+    "Buyids"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zand dynasty",
+   "tier": 5
+  },
+  {
+   "answer": "Qajar Iran",
+   "aliases": [
+    "Qajar Persia",
+    "Qajar dynasty",
+    "Sublime State of Persia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pahlavi Iran",
+   "aliases": [
+    "Imperial State of Iran",
+    "Imperial Iran",
+    "Pahlavi dynasty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uyghur Khaganate",
+   "aliases": [
+    "Uighur Khaganate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rouran Khaganate",
+   "aliases": [
+    "Rouran"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Qara Khitai",
+   "aliases": [
+    "Kara-Khitan Khanate",
+    "Western Liao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liao dynasty",
+   "aliases": [
+    "Liao",
+    "Khitan Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Western Xia",
+   "aliases": [
+    "Xi Xia",
+    "Tangut Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Northern Yuan",
+   "tier": 5
+  },
+  {
+   "answer": "Dzungar Khanate",
+   "aliases": [
+    "Zunghar Khanate",
+    "Dzungaria"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kazakh Khanate",
+   "tier": 5
+  },
+  {
+   "answer": "Khanate of Kokand",
+   "aliases": [
+    "Kokand"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Astrakhan Khanate",
+   "aliases": [
+    "Khanate of Astrakhan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nogai Horde",
+   "tier": 5
+  },
+  {
+   "answer": "Shu Han",
+   "aliases": [
+    "Shu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cao Wei",
+   "aliases": [
+    "Wei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eastern Wu",
+   "aliases": [
+    "Wu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Northern Wei",
+   "tier": 5
+  },
+  {
+   "answer": "Nanzhao",
+   "tier": 5
+  },
+  {
+   "answer": "Dali Kingdom",
+   "aliases": [
+    "Kingdom of Dali"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chinese Soviet Republic",
+   "aliases": [
+    "Jiangxi Soviet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Tungning",
+   "aliases": [
+    "Tungning",
+    "Dongning"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Formosa",
+   "aliases": [
+    "Formosan Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "East Turkestan Republic",
+   "aliases": [
+    "First East Turkestan Republic",
+    "Second East Turkestan Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bogd Khanate of Mongolia",
+   "aliases": [
+    "Bogd Khanate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mongolian People's Republic",
+   "aliases": [
+    "Communist Mongolia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wang Jingwei regime",
+   "aliases": [
+    "Reorganized National Government of China"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kamakura shogunate",
+   "tier": 5
+  },
+  {
+   "answer": "Ashikaga shogunate",
+   "aliases": [
+    "Muromachi shogunate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaya confederacy",
+   "aliases": [
+    "Gaya",
+    "Kaya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Balhae",
+   "aliases": [
+    "Bohai",
+    "Parhae"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gojoseon",
+   "aliases": [
+    "Old Joseon",
+    "Kojoson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lan Na",
+   "aliases": [
+    "Kingdom of Lanna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Funan",
+   "tier": 5
+  },
+  {
+   "answer": "Chenla",
+   "tier": 5
+  },
+  {
+   "answer": "Đại Việt",
+   "tier": 5
+  },
+  {
+   "answer": "Mataram Sultanate",
+   "aliases": [
+    "Mataram"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Singhasari",
+   "tier": 5
+  },
+  {
+   "answer": "Sultanate of Sulu",
+   "aliases": [
+    "Sulu Sultanate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sultanate of Maguindanao",
+   "tier": 5
+  },
+  {
+   "answer": "Konbaung dynasty",
+   "aliases": [
+    "Konbaung Empire",
+    "Third Burmese Empire",
+    "Kingdom of Burma",
+    "Konbaung Burma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Ava",
+   "tier": 5
+  },
+  {
+   "answer": "Hanthawaddy Kingdom",
+   "aliases": [
+    "Hanthawaddy",
+    "Pegu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mrauk U",
+   "aliases": [
+    "Kingdom of Mrauk U",
+    "Arakan",
+    "Kingdom of Arakan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thonburi Kingdom",
+   "aliases": [
+    "Thonburi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Luang Prabang",
+   "tier": 5
+  },
+  {
+   "answer": "State of Vietnam",
+   "tier": 5
+  },
+  {
+   "answer": "Empire of Vietnam",
+   "tier": 5
+  },
+  {
+   "answer": "Khmer Republic",
+   "tier": 5
+  },
+  {
+   "answer": "People's Republic of Kampuchea",
+   "tier": 5
+  },
+  {
+   "answer": "Annam",
+   "aliases": [
+    "Protectorate of Annam"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tonkin",
+   "aliases": [
+    "Protectorate of Tonkin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cochinchina",
+   "aliases": [
+    "French Cochinchina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Commonwealth of the Philippines",
+   "aliases": [
+    "Philippine Commonwealth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "First Philippine Republic",
+   "aliases": [
+    "Malolos Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spanish East Indies",
+   "aliases": [
+    "Spanish Philippines"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Straits Settlements",
+   "tier": 5
+  },
+  {
+   "answer": "North Borneo",
+   "aliases": [
+    "British North Borneo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Timor",
+   "tier": 5
+  },
+  {
+   "answer": "United States of Indonesia",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of South Maluku",
+   "aliases": [
+    "South Maluku"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese Macau",
+   "aliases": [
+    "Portuguese Macao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Portuguese India",
+   "aliases": [
+    "Portuguese Goa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "French India",
+   "tier": 5
+  },
+  {
+   "answer": "Dutch Ceylon",
+   "tier": 5
+  },
+  {
+   "answer": "Dutch Formosa",
+   "tier": 5
+  },
+  {
+   "answer": "Anuradhapura Kingdom",
+   "aliases": [
+    "Anuradhapura"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Polonnaruwa Kingdom",
+   "aliases": [
+    "Polonnaruwa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jaffna Kingdom",
+   "aliases": [
+    "Kingdom of Jaffna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Kotte",
+   "tier": 5
+  },
+  {
+   "answer": "Kosala",
+   "tier": 5
+  },
+  {
+   "answer": "Satavahana dynasty",
+   "aliases": [
+    "Satavahanas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pallava dynasty",
+   "aliases": [
+    "Pallavas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chalukya dynasty",
+   "aliases": [
+    "Chalukyas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rashtrakuta dynasty",
+   "aliases": [
+    "Rashtrakutas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pandya dynasty",
+   "aliases": [
+    "Pandyas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chera dynasty",
+   "aliases": [
+    "Cheras"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bahmani Sultanate",
+   "tier": 5
+  },
+  {
+   "answer": "Bengal Sultanate",
+   "tier": 5
+  },
+  {
+   "answer": "Ahom Kingdom",
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Manipur",
+   "tier": 5
+  },
+  {
+   "answer": "Kamarupa",
+   "tier": 5
+  },
+  {
+   "answer": "Junagadh State",
+   "aliases": [
+    "Junagadh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Indo-Greek Kingdom",
+   "tier": 5
+  },
+  {
+   "answer": "New Sweden",
+   "tier": 5
+  },
+  {
+   "answer": "Province of Carolina",
+   "tier": 5
+  },
+  {
+   "answer": "Roanoke Colony",
+   "aliases": [
+    "Roanoke",
+    "Lost Colony"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dominion of New England",
+   "tier": 5
+  },
+  {
+   "answer": "Upper Canada",
+   "tier": 5
+  },
+  {
+   "answer": "Lower Canada",
+   "tier": 5
+  },
+  {
+   "answer": "Province of Canada",
+   "tier": 5
+  },
+  {
+   "answer": "Rupert's Land",
+   "tier": 5
+  },
+  {
+   "answer": "Spanish Florida",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of West Florida",
+   "aliases": [
+    "West Florida"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "State of Franklin",
+   "tier": 5
+  },
+  {
+   "answer": "Republic of Indian Stream",
+   "aliases": [
+    "Indian Stream"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Araucanía and Patagonia",
+   "aliases": [
+    "Araucanía"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Riograndense Republic",
+   "aliases": [
+    "Piratini Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Confederation of the Equator",
+   "tier": 5
+  },
+  {
+   "answer": "Granadine Confederation",
+   "tier": 5
+  },
+  {
+   "answer": "United States of Colombia",
+   "tier": 5
+  },
+  {
+   "answer": "Captaincy General of Guatemala",
+   "aliases": [
+    "Kingdom of Guatemala"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "State of Buenos Aires",
+   "tier": 5
+  },
+  {
+   "answer": "Danish West Indies",
+   "tier": 5
+  },
+  {
+   "answer": "Panama Canal Zone",
+   "aliases": [
+    "Canal Zone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mosquito Coast",
+   "aliases": [
+    "Mosquito Kingdom",
+    "Miskito Kingdom",
+    "Mosquitia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Purépecha Empire",
+   "aliases": [
+    "Tarascan State",
+    "Tarascan Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tiwanaku",
+   "aliases": [
+    "Tiahuanaco"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moche",
+   "tier": 5
+  },
+  {
+   "answer": "Muisca Confederation",
+   "aliases": [
+    "Muisca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Cusco",
+   "aliases": [
+    "Kingdom of Cuzco"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Neo-Inca State",
+   "aliases": [
+    "Vilcabamba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Calakmul",
+   "aliases": [
+    "Kaan",
+    "Snake Kingdom",
+    "Kingdom of the Snake"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mayapan",
+   "aliases": [
+    "League of Mayapan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Copán",
+   "tier": 5
+  },
+  {
+   "answer": "Palenque",
+   "tier": 5
+  },
+  {
+   "answer": "Chichen Itza",
+   "tier": 5
+  },
+  {
+   "answer": "Kʼicheʼ Kingdom",
+   "aliases": [
+    "Quiché Kingdom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Tahiti",
+   "tier": 5
+  },
+  {
+   "answer": "Gilbert and Ellice Islands",
+   "tier": 5
+  },
+  {
+   "answer": "Trust Territory of the Pacific Islands",
+   "tier": 5
+  },
+  {
+   "answer": "German New Guinea",
+   "tier": 5
+  },
+  {
+   "answer": "Dutch New Guinea",
+   "aliases": [
+    "Netherlands New Guinea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "German Samoa",
+   "tier": 5
+  },
+  {
+   "answer": "Tuʻi Tonga Empire",
+   "aliases": [
+    "Tongan Empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Neutral Moresnet",
+   "aliases": [
+    "Moresnet"
+   ],
+   "tier": 6,
+   "lore": "A sliver of neutral land between the Netherlands, later Belgium, and Prussia, from 1816 to 1920. It once tried to become an Esperanto state."
+  },
+  {
+   "answer": "Republic of Cospaia",
+   "aliases": [
+    "Cospaia"
+   ],
+   "tier": 6,
+   "lore": "A tiny Italian republic born of a mapping mistake in 1440. It lasted nearly 400 years, mostly growing tobacco."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Ceylon",
+   "reason": "Renamed Sri Lanka in 1972. Same country, new name."
+  },
+  {
+   "answer": "Siam",
+   "reason": "Renamed Thailand in 1939. Same kingdom, new name."
+  },
+  {
+   "answer": "Burma",
+   "reason": "Officially renamed Myanmar in 1989."
+  },
+  {
+   "answer": "Zaire",
+   "reason": "Renamed the Democratic Republic of the Congo in 1997. Same country."
+  },
+  {
+   "answer": "Upper Volta",
+   "reason": "Renamed Burkina Faso in 1984."
+  },
+  {
+   "answer": "Swaziland",
+   "reason": "Renamed Eswatini in 2018."
+  },
+  {
+   "answer": "Holland",
+   "reason": "A region of the Netherlands, still very much there."
+  },
+  {
+   "answer": "Formosa",
+   "reason": "An old name for the island of Taiwan."
+  },
+  {
+   "answer": "Czech Republic",
+   "reason": "Still here, now usually called Czechia."
+  },
+  {
+   "answer": "Constantinople",
+   "aliases": [
+    "Istanbul"
+   ],
+   "reason": "A city, now Istanbul. The empire it ruled is another matter."
+  },
+  {
+   "answer": "Scotland",
+   "reason": "Still a country, inside the UK."
+  },
+  {
+   "answer": "England",
+   "reason": "Still here, inside the UK."
+  },
+  {
+   "answer": "Wales",
+   "reason": "Still here, inside the UK."
+  },
+  {
+   "answer": "Mesopotamia",
+   "reason": "A region between two rivers, never a single state."
+  },
+  {
+   "answer": "Gaul",
+   "reason": "A Roman name for a land of many tribes, never one country."
+  },
+  {
+   "answer": "Maya",
+   "aliases": [
+    "Mayan Empire",
+    "Mayans",
+    "Maya Empire"
+   ],
+   "reason": "Never one empire: the Maya world was a web of rival city-states."
+  },
+  {
+   "answer": "Atlantis",
+   "reason": "A legend from Plato. Nobody has found it, and the deep is not telling."
+  },
+  {
+   "answer": "R'lyeh",
+   "reason": "A sunken city from H. P. Lovecraft's stories, not a real country."
+  },
+  {
+   "answer": "Narnia",
+   "aliases": [
+    "Wakanda",
+    "Westeros",
+    "Middle-earth",
+    "Gondor",
+    "Ruritania",
+    "Freedonia",
+    "Panem",
+    "Lilliput",
+    "Utopia",
+    "Shangri-La",
+    "Latveria",
+    "Sokovia",
+    "Zubrowka",
+    "Elbonia",
+    "Arstotzka",
+    "Mordor",
+    "Wonderland",
+    "Neverland",
+    "Gilead",
+    "Brobdingnag",
+    "Erewhon",
+    "Agrabah",
+    "Arendelle",
+    "Airstrip One",
+    "Oz"
+   ],
+   "reason": "Fictional."
+  },
+  {
+   "answer": "Hanseatic League",
+   "aliases": [
+    "Hansa"
+   ],
+   "reason": "A trading league of cities, not a country."
+  },
+  {
+   "answer": "Danelaw",
+   "reason": "A region under Viking law, not a kingdom of its own."
+  },
+  {
+   "answer": "Congo",
+   "reason": "Two countries still carry the name."
+  },
+  {
+   "answer": "Mauritania",
+   "reason": "Still here."
+  },
+  {
+   "answer": "Sealand",
+   "aliases": [
+    "Principality of Sealand"
+   ],
+   "reason": "A self-declared micronation on an old sea fort, still there, more or less."
+  },
+  {
+   "answer": "Mexico",
+   "reason": "Still here. The Aztec capital, Tenochtitlan, lies beneath Mexico City."
+  },
+  {
+   "answer": "Russia",
+   "reason": "Still here. The Russian Empire and the Soviet Union, however, are not."
+  },
+  {
+   "answer": "El Dorado",
+   "aliases": [
+    "Lemuria",
+    "Mu",
+    "Hyperborea",
+    "Avalon",
+    "Lyonesse",
+    "Camelot",
+    "Shambhala",
+    "Agartha",
+    "Kitezh"
+   ],
+   "reason": "A land of legend. If it ever existed, nobody has found it."
+  },
+  {
+   "answer": "Ancient Greece",
+   "aliases": [
+    "Ancient Greeks"
+   ],
+   "reason": "Never one country: a web of rival city-states."
+  },
+  {
+   "answer": "Grenada",
+   "reason": "Still here, in the Caribbean."
+  },
+  {
+   "answer": "Palau",
+   "reason": "Still here, in the Pacific."
+  },
+  {
+   "answer": "Korea",
+   "reason": "Two countries still carry the name."
+  },
+  {
+   "answer": "Vikings",
+   "aliases": [
+    "Viking Empire",
+    "Viking kingdom"
+   ],
+   "reason": "Raiders and traders from several kingdoms, never one country of their own."
+  },
+  {
+   "answer": "Tartary",
+   "aliases": [
+    "Tartaria",
+    "Great Tartary",
+    "Grand Tartary"
+   ],
+   "reason": "A vague old European name for the lands of Central and North Asia, never one country."
+  },
+  {
+   "answer": "Pangaea",
+   "aliases": [
+    "Pangea",
+    "Gondwana",
+    "Gondwanaland",
+    "Laurasia"
+   ],
+   "reason": "A supercontinent, millions of years before there were countries."
+  }
+ ],
+ "decoys": [
+  "Kingdom of Algeria",
+  "Kingdom of Argentina",
+  "Kingdom of Austria",
+  "Kingdom of Bahrain",
+  "Kingdom of Belize",
+  "Republic of Belize",
+  "Republic of Benin",
+  "Kingdom of Bolivia",
+  "Kingdom of Brunei",
+  "Kingdom of Canada",
+  "Kingdom of Chad",
+  "Kingdom of Chile",
+  "Kingdom of China",
+  "Republic of Costa Rica",
+  "Kingdom of Cuba",
+  "Kingdom of Dominica",
+  "Republic of France",
+  "Kingdom of Gabon",
+  "Republic of Gabon",
+  "Kingdom of Gambia",
+  "Republic of Germany",
+  "Republic of Ghana",
+  "Kingdom of Grenada",
+  "Republic of Grenada",
+  "Kingdom of Guinea",
+  "Republic of Guinea",
+  "Kingdom of Guyana",
+  "Republic of Haiti",
+  "Kingdom of India",
+  "Kingdom of Iran",
+  "Kingdom of Japan",
+  "Kingdom of Jordan",
+  "Kingdom of Kenya",
+  "Republic of Kenya",
+  "Kingdom of Kuwait",
+  "Republic of Kuwait",
+  "Republic of Laos",
+  "Kingdom of Latvia",
+  "Kingdom of Lebanon",
+  "Kingdom of Liberia",
+  "Kingdom of Malawi",
+  "Republic of Malawi",
+  "Kingdom of Malta",
+  "Kingdom of Mexico",
+  "Republic of Mexico",
+  "Kingdom of Monaco",
+  "Kingdom of Namibia",
+  "Republic of Nepal",
+  "Kingdom of Niger",
+  "Kingdom of Oman",
+  "Kingdom of Palau",
+  "Kingdom of Peru",
+  "Republic of Peru",
+  "Kingdom of Russia",
+  "Republic of Samoa",
+  "Kingdom of Senegal",
+  "Kingdom of Somalia",
+  "Kingdom of Spain",
+  "Kingdom of Sudan",
+  "Kingdom of Sweden",
+  "Kingdom of Tanzania",
+  "Kingdom of Thailand",
+  "Kingdom of Togo",
+  "Republic of Togo",
+  "Kingdom of Tonga",
+  "Republic of Tonga",
+  "Kingdom of Uganda",
+  "Republic of Uganda",
+  "Kingdom of Zambia",
+  "Kingdom of Kosovo",
+  "Republic of Sudan",
+  "Bali",
+  "Haiti",
+  "Peru",
+  "Philippines"
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"lost-countries\" on 28 November 2026."
+}

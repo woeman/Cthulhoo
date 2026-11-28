@@ -1,0 +1,32 @@
+id: economics-g20-members
+text: Name a member of the G20.
+flavor: Twenty chairs around the table, and one more that nobody remembers setting out.
+rules: Any of the nineteen countries and two unions that are full members. Invited guests, even permanent ones, don't count.
+section: World economy
+asOf: 2026-11-28
+---
+1 United States | USA | US | America | United States of America | U.S. | U.S.A. | The States
+1 China | People's Republic of China | PRC
+1 Australia | Aus | Oz
+1 United Kingdom | UK | Britain | Great Britain | England | U.K.
+2 Japan
+2 Germany | Deutschland
+2 France
+2 India
+2 Canada
+3 Russia | Russian Federation
+3 Italy
+3 Brazil | Brasil
+3 South Korea | Korea | Republic of Korea | ROK
+3 Indonesia
+4 Mexico
+4 Saudi Arabia | Saudi | KSA
+4 South Africa | RSA
+4 Turkey | Türkiye | Turkiye
+4 Argentina
+5 European Union | EU | Europe | The EU
+6 African Union | AU | The African Union :: The newest member: admitted at the New Delhi summit in September 2023, the first new seat since the group began in 1999.
+x Spain :: The permanent guest. Spain is invited to every summit, but it has never been a member.
+x Netherlands | Switzerland | Singapore | New Zealand | Nigeria | Egypt | Iran | Poland | Sweden | Norway | Thailand | Malaysia | Vietnam | Pakistan | Bangladesh | Philippines | United Arab Emirates | UAE | Israel | Belgium | Austria | Ireland | Denmark | Taiwan | Chile | Colombia | Portugal | Greece | Ukraine | Kazakhstan | Ethiopia | Kenya | Qatar | Finland | Hong Kong | North Korea | Peru | Iraq | Cuba | Venezuela | Fiji | Papua New Guinea :: Not a member, though it may be invited as a guest or sit in through a union.
+x United Nations | UN | NATO | IMF | World Bank | OECD | ASEAN | BRICS | G7 | WTO :: An organisation, but not one with a seat as a G20 member.
+- Australasia | Niger | Indiana | Prussia

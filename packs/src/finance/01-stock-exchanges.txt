@@ -1,0 +1,173 @@
+id: finance-stock-exchanges
+text: Name a stock exchange.
+flavor: Bells ring over trading floors the tide took long ago. Somewhere, something is still bidding.
+rules: Any exchange where shares or other securities trade, past or present. An index, such as the Dow, is not an exchange.
+---
+1 ASX | Australian Securities Exchange | Australian Stock Exchange | Sydney Stock Exchange | Australian Share Market | Australian Stock Market | Sydney | Australia | ASX Limited
+1 New York Stock Exchange | NYSE | New York | Wall Street | Big Board | NYSE Euronext | America | USA | US | United States
+1 Nasdaq | Nasdaq Stock Market | National Association of Securities Dealers Automated Quotations | NASDAQ Exchange
+1 London Stock Exchange | LSE | London | LSEG | London Stock Exchange Group | UK | England | Britain | United Kingdom
+2 Tokyo Stock Exchange | TSE | Tokyo | Japan Exchange Group | JPX | Tosho | Japan | TYO
+2 Hong Kong Stock Exchange | HKEX | SEHK | Hong Kong | Hong Kong Exchanges and Clearing | Stock Exchange of Hong Kong | HKSE
+2 Shanghai Stock Exchange | SSE | Shanghai | China
+2 Euronext | Euronext Paris | Paris Bourse | Paris Stock Exchange | Paris | Bourse de Paris | France | Euronext NV
+3 Shenzhen Stock Exchange | SZSE | Shenzhen
+3 Frankfurt Stock Exchange | Deutsche Börse | Deutsche Boerse | Frankfurt | FWB | Xetra | Börse Frankfurt | Frankfurter Wertpapierbörse | Germany | FSE
+3 Toronto Stock Exchange | TSX | Toronto | TMX | TMX Group | Canada
+3 Bombay Stock Exchange | BSE | Mumbai | Bombay | BSE Ltd | BSE India | India | Dalal Street
+3 National Stock Exchange of India | NSE | NSE India | National Stock Exchange
+3 SIX Swiss Exchange | Swiss Stock Exchange | Zurich | SIX | Swiss Exchange | Zurich Stock Exchange | Switzerland | SWX
+3 Singapore Exchange | SGX | Singapore | Singapore Stock Exchange | Stock Exchange of Singapore
+3 New Zealand Exchange | NZX | New Zealand Stock Exchange | NZSX | New Zealand | Wellington | NZSE
+3 Korea Exchange | KRX | Korea Stock Exchange | Seoul | South Korea | Korea | Korean Stock Exchange
+3 Amsterdam Stock Exchange | Euronext Amsterdam | Amsterdam | Amsterdam Bourse | Netherlands | Beurs van Hendrick de Keyser | Amsterdamse effectenbeurs :: Often called the oldest of all: shares in the Dutch East India Company changed hands in Amsterdam from 1602.
+4 Taiwan Stock Exchange | TWSE | Taipei | Taiwan | TSEC
+4 Johannesburg Stock Exchange | JSE | Johannesburg | South Africa | JSE Limited
+4 B3 | Brasil Bolsa Balcão | Bovespa | BM&F Bovespa | São Paulo Stock Exchange | Sao Paulo | Brazil | BM&FBovespa
+4 Mexican Stock Exchange | Bolsa Mexicana de Valores | BMV | Mexico | Mexico City | Bolsa Mexicana
+4 Moscow Exchange | MOEX | Moscow | MICEX | Moscow Stock Exchange | Russia | RTS Exchange
+4 Saudi Exchange | Tadawul | Saudi Stock Exchange | Riyadh | Saudi Arabia
+4 Madrid Stock Exchange | Bolsa de Madrid | Madrid | BME | Bolsas y Mercados Españoles | Spanish Stock Exchange | Spain
+4 Borsa Italiana | Milan Stock Exchange | Milan | Italian Stock Exchange | Euronext Milan | Italy | Piazza Affari
+4 Nasdaq Stockholm | Stockholm Stock Exchange | Stockholm | OMX | Nasdaq Nordic | Stockholmsbörsen | Sweden | Nasdaq OMX
+4 Oslo Stock Exchange | Oslo Børs | Oslo | Euronext Oslo | Norway | Oslo Bors
+4 Nasdaq Copenhagen | Copenhagen Stock Exchange | Copenhagen | Denmark
+4 Nasdaq Helsinki | Helsinki Stock Exchange | Helsinki | Finland
+4 Euronext Dublin | Irish Stock Exchange | Dublin | Ireland | Dublin Stock Exchange
+4 Euronext Brussels | Brussels Stock Exchange | Brussels | Belgium
+4 Euronext Lisbon | Lisbon Stock Exchange | Lisbon | Portugal
+4 Vienna Stock Exchange | Wiener Börse | Vienna | Austria | Wiener Boerse
+4 Warsaw Stock Exchange | WSE | GPW | Warsaw | Poland
+4 Athens Stock Exchange | ATHEX | Athens | Greece | Athens Exchange
+4 Borsa Istanbul | Istanbul Stock Exchange | BIST | Istanbul | Turkey | Türkiye
+4 Tel Aviv Stock Exchange | TASE | Tel Aviv | Israel
+4 Bursa Malaysia | Kuala Lumpur Stock Exchange | KLSE | Kuala Lumpur | Malaysia
+4 Stock Exchange of Thailand | SET | Bangkok | Thailand | Thai Stock Exchange
+4 Indonesia Stock Exchange | IDX | Jakarta Stock Exchange | Jakarta | Indonesia | Bursa Efek Indonesia | Indonesian Stock Exchange
+4 Philippine Stock Exchange | PSE | Manila | Philippines | Manila Stock Exchange
+4 Ho Chi Minh City Stock Exchange | HOSE | Ho Chi Minh | Vietnam | HSX | Ho Chi Minh Stock Exchange | Saigon
+4 NYSE American | American Stock Exchange | AMEX | NYSE MKT
+4 Chicago Stock Exchange | NYSE Chicago | Chicago | CHX
+4 Cboe | Chicago Board Options Exchange | Cboe Global Markets | BATS | BATS Global Markets | Cboe Exchange
+4 Cboe Australia | Chi-X Australia | Chi-X | CXA | Chi X
+4 National Stock Exchange of Australia | NSX | NSXA | Newcastle Stock Exchange | Newcastle
+4 AIM | Alternative Investment Market | London AIM
+4 KOSDAQ
+4 Chicago Mercantile Exchange | CME | CME Group | Chicago Merc | The Merc
+4 Intercontinental Exchange | ICE
+4 Dubai Financial Market | DFM | Dubai | Nasdaq Dubai | UAE
+5 Abu Dhabi Securities Exchange | ADX | Abu Dhabi
+5 Sydney Stock Exchange (SSX) | SSX | Asia Pacific Stock Exchange | APX | Asia Pacific Exchange
+5 Stock Exchange of Melbourne | Melbourne Stock Exchange | Melbourne
+5 Brisbane Stock Exchange | Brisbane
+5 Stock Exchange of Adelaide | Adelaide Stock Exchange | Adelaide
+5 Stock Exchange of Perth | Perth Stock Exchange | Perth
+5 Hobart Stock Exchange | Hobart
+5 Sydney Futures Exchange | SFE
+5 Beijing Stock Exchange | Beijing | BJSE
+5 STAR Market | Shanghai STAR Market | Sci-Tech Innovation Board
+5 ChiNext
+5 Osaka Exchange | Osaka Securities Exchange | Osaka | OSE
+5 Nagoya Stock Exchange | Nagoya
+5 Fukuoka Stock Exchange | Fukuoka
+5 Sapporo Securities Exchange | Sapporo
+5 Hanoi Stock Exchange | HNX | Hanoi
+5 Qatar Stock Exchange | Doha | Qatar | Doha Securities Market
+5 Boursa Kuwait | Kuwait Stock Exchange | Kuwait
+5 Bahrain Bourse | Bahrain | Bahrain Stock Exchange
+5 Muscat Stock Exchange | Muscat | Oman | Muscat Securities Market
+5 Egyptian Exchange | EGX | Cairo | Cairo and Alexandria Stock Exchange | Egypt | Cairo Stock Exchange
+5 Nigerian Exchange | NGX | Nigerian Stock Exchange | Lagos | Nigeria | Lagos Stock Exchange
+5 Nairobi Securities Exchange | Nairobi | Kenya | Nairobi Stock Exchange
+5 Casablanca Stock Exchange | Casablanca | Morocco | Bourse de Casablanca
+5 Ghana Stock Exchange | Accra | Ghana
+5 Tehran Stock Exchange | Tehran | Iran
+5 Pakistan Stock Exchange | PSX | Karachi Stock Exchange | Karachi | Pakistan
+5 Dhaka Stock Exchange | Dhaka | Bangladesh | Chittagong Stock Exchange
+5 Colombo Stock Exchange | Colombo | Sri Lanka
+5 Calcutta Stock Exchange | Kolkata | Calcutta
+5 Buenos Aires Stock Exchange | Bolsa de Comercio de Buenos Aires | BYMA | Buenos Aires | Argentina
+5 Santiago Stock Exchange | Bolsa de Santiago | Santiago | Chile
+5 Colombia Stock Exchange | Bolsa de Valores de Colombia | Bogotá | Colombia
+5 Lima Stock Exchange | Bolsa de Valores de Lima | Lima | Peru
+5 Caracas Stock Exchange | Caracas | Venezuela
+5 Budapest Stock Exchange | Budapest | Hungary
+5 Prague Stock Exchange | Prague | Czech Republic | Czechia
+5 Bucharest Stock Exchange | Bucharest | Romania
+5 Luxembourg Stock Exchange | Luxembourg | LuxSE
+5 Nasdaq Iceland | Iceland Stock Exchange | Reykjavik | Iceland
+5 Nasdaq Tallinn | Tallinn Stock Exchange | Tallinn | Estonia
+5 Nasdaq Riga | Riga Stock Exchange | Riga | Latvia
+5 Nasdaq Vilnius | Vilnius Stock Exchange | Vilnius | Lithuania
+5 Zagreb Stock Exchange | Zagreb | Croatia
+5 Ljubljana Stock Exchange | Ljubljana | Slovenia
+5 Belgrade Stock Exchange | Belgrade | Serbia
+5 Bulgarian Stock Exchange | Sofia | Bulgaria | Sofia Stock Exchange
+5 Bratislava Stock Exchange | Bratislava | Slovakia
+5 Ukrainian Exchange | Kyiv | Ukraine | PFTS
+5 Kazakhstan Stock Exchange | KASE | Almaty | Kazakhstan
+5 Astana International Exchange | AIX | Astana
+5 Cyprus Stock Exchange | Cyprus | Nicosia
+5 Malta Stock Exchange | Malta | Valletta
+5 Stock Exchange of Mauritius | Mauritius | Port Louis
+5 Zimbabwe Stock Exchange | Harare | Zimbabwe | Victoria Falls Stock Exchange
+5 Botswana Stock Exchange | Botswana | Gaborone
+5 Namibian Stock Exchange | Namibia | Windhoek
+5 Dar es Salaam Stock Exchange | Dar es Salaam | Tanzania
+5 Uganda Securities Exchange | Uganda | Kampala
+5 Rwanda Stock Exchange | Rwanda | Kigali
+5 Lusaka Securities Exchange | Lusaka | Zambia | Lusaka Stock Exchange
+5 BRVM | Bourse Régionale des Valeurs Mobilières | Abidjan | Ivory Coast
+5 Tunis Stock Exchange | Tunis | Tunisia | Bourse de Tunis
+5 Amman Stock Exchange | Amman | Jordan
+5 Beirut Stock Exchange | Beirut | Lebanon
+5 Iraq Stock Exchange | Baghdad | Iraq
+5 Palestine Exchange | Palestine | Nablus
+5 Damascus Securities Exchange | Damascus | Syria
+5 Jamaica Stock Exchange | Kingston | Jamaica
+5 Trinidad and Tobago Stock Exchange | Trinidad | Port of Spain
+5 Barbados Stock Exchange | Barbados
+5 Bermuda Stock Exchange | BSX | Bermuda
+5 Cayman Islands Stock Exchange | Cayman Islands | CSX
+5 Bahamas International Securities Exchange | BISX | Bahamas
+5 PNGX | Port Moresby Stock Exchange | Port Moresby | Papua New Guinea | PNG | POMSoX
+5 South Pacific Stock Exchange | Fiji | Suva | SPX
+5 Mongolian Stock Exchange | Ulaanbaatar | Mongolia
+5 Cambodia Securities Exchange | Cambodia | Phnom Penh
+5 Lao Securities Exchange | Laos | Vientiane
+5 Yangon Stock Exchange | Yangon | Myanmar
+5 Nepal Stock Exchange | NEPSE | Nepal | Kathmandu
+5 Royal Securities Exchange of Bhutan | Bhutan | Thimphu
+5 Maldives Stock Exchange | Maldives
+5 TSX Venture Exchange | TSXV | TSX Venture
+5 Montreal Exchange | Montreal | Bourse de Montréal
+5 Canadian Securities Exchange | CSE
+5 Aquis Exchange | Aquis
+5 IEX | Investors Exchange
+5 MEMX | Members Exchange
+5 Long-Term Stock Exchange | LTSE
+5 NYSE Arca | Arca | Archipelago | Pacific Stock Exchange | Pacific Exchange
+5 Philadelphia Stock Exchange | PHLX | Nasdaq PHLX | Philadelphia
+5 Boston Stock Exchange | Nasdaq BX | Boston
+5 Chicago Board of Trade | CBOT
+5 New York Mercantile Exchange | NYMEX
+5 London Metal Exchange | LME
+5 Eurex
+5 Stuttgart Stock Exchange | Börse Stuttgart | Stuttgart
+5 Munich Stock Exchange | Börse München | Munich
+5 Hamburg Stock Exchange | Hamburg
+5 Berlin Stock Exchange | Börse Berlin | Berlin
+5 Düsseldorf Stock Exchange | Dusseldorf
+5 Barcelona Stock Exchange | Barcelona | Bolsa de Barcelona
+5 Bilbao Stock Exchange | Bilbao
+5 Valencia Stock Exchange | Valencia
+5 BX Swiss | Berne eXchange | Bern | Berne
+5 Antwerp Bourse | Antwerp | Antwerp Exchange
+6 Vancouver Stock Exchange | Vancouver | VSE :: Its index began at 1,000 in 1982 and sank to about 520 by late 1983, purely because the computer chopped off decimals instead of rounding.
+6 Jonathan's Coffee-House | Jonathans Coffee House | Jonathan's :: London's brokers, barred from the Royal Exchange for rowdiness, traded here from 1698. The coffee house grew into the Stock Exchange.
+6 New York Curb Exchange | Curb Exchange | The Curb | Curb Market | New York Curb Market :: Its brokers traded outdoors on Broad Street, in all weather, until 1921. It later became the American Stock Exchange.
+x Dow Jones | Dow | DJIA | S&P 500 | S and P 500 | S&P | FTSE | FTSE 100 | Footsie | Nikkei | Nikkei 225 | Hang Seng | DAX | CAC 40 | All Ords | All Ordinaries | ASX 200 | ASX 300 | KOSPI | Russell 2000 | Nasdaq 100 | Nasdaq Composite | Sensex | Nifty :: That is an index: a scoreboard for a market, not the market itself.
+x Stock market | Share market | Stock exchange | Bourse | Exchange | Market | Sharemarket | Stockmarket :: Which one? Name the exchange itself.
+x CommSec | SelfWealth | Stake | Robinhood | eToro | Nabtrade | Superhero | Pearler | Raiz | IG | CMC Markets | Interactive Brokers | Charles Schwab | Schwab | Bell Direct | Moomoo | Webull | E-Trade | Fidelity :: A broker: it sends your order to an exchange, but it isn't one.
+x Binance | Coinbase | Kraken | FTX | CoinSpot | Swyftx | BTC Markets | Bitfinex | Mt Gox :: A crypto exchange. Name one where shares trade.
+x ASIC | SEC | APRA | ACCC | FCA :: A regulator: it watches the exchanges rather than running one.

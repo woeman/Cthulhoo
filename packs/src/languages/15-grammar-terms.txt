@@ -1,0 +1,128 @@
+id: languages-grammar-terms
+text: Name a part of speech or other grammar term.
+flavor: The rules were here before you learned to speak. You obey most of them without knowing.
+rules: Any term for a kind of word, a part of a sentence, or a form that a word can take.
+section: Grammar
+---
+1 Noun | Nouns | Common noun
+1 Verb | Verbs | Doing word
+1 Adjective | Adjectives | Describing word
+1 Adverb | Adverbs
+1 Pronoun | Pronouns | Personal pronoun
+1 Tense | Past tense | Present tense | Future tense | Past | Present | Future
+2 Preposition | Prepositions
+2 Conjunction | Conjunctions | Connective | Joining word | Coordinating conjunction | Subordinating conjunction
+2 Proper noun | Proper nouns
+2 Sentence
+2 Subject
+2 Object | Direct object | Indirect object
+2 Plural | Plurals | Singular
+2 Clause | Main clause | Subordinate clause | Independent clause | Dependent clause | Relative clause
+2 Article | Articles | Definite article | Indefinite article
+2 Interjection | Interjections | Exclamation
+2 Syllable
+2 Vowel | Consonant | Vowels | Consonants
+2 Prefix | Suffix | Affix | Prefixes | Suffixes
+2 Phrase | Noun phrase | Verb phrase | Prepositional phrase
+2 Paragraph
+2 Infinitive | Split infinitive
+2 Passive voice | Active voice | Passive | Active | Voice
+2 Abstract noun | Collective noun | Concrete noun
+2 Synonym | Antonym | Homophone | Homonym
+2 Contraction | Contractions
+2 Possessive | Possessive pronoun | Possessive apostrophe
+2 Gender | Masculine | Feminine | Neuter
+2 Conjugation | Conjugate
+2 Participle | Past participle | Present participle
+2 Gerund
+2 Auxiliary verb | Auxiliary | Helping verb | Modal verb | Modal | Modals
+2 Predicate
+2 Comparative | Superlative
+2 Determiner | Determiners
+3 Subjunctive | Subjunctive mood
+3 Imperative | Imperative mood | Command
+3 Indicative | Indicative mood
+3 Conditional | Conditional mood
+3 Mood
+3 Case | Nominative | Accusative | Genitive | Dative | Ablative | Vocative | Locative | Instrumental
+3 Declension
+3 Transitive verb | Intransitive verb | Transitive | Intransitive
+3 Perfect tense | Present perfect | Past perfect | Pluperfect | Future perfect | Perfect
+3 Imperfect | Imperfect tense
+3 Continuous | Progressive | Present continuous | Past continuous
+3 Aspect
+3 Person | First person | Second person | Third person
+3 Number
+3 Agreement | Concord
+3 Demonstrative | Demonstrative pronoun
+3 Relative pronoun | Reflexive pronoun | Interrogative pronoun | Indefinite pronoun
+3 Quantifier
+3 Particle
+3 Complement
+3 Modifier | Dangling modifier | Dangling participle
+3 Adverbial | Fronted adverbial
+3 Compound sentence | Complex sentence | Simple sentence
+3 Phrasal verb
+3 Irregular verb | Regular verb | Strong verb | Weak verb
+3 Linking verb | Copula
+3 Countable noun | Uncountable noun | Mass noun | Count noun
+3 Compound noun | Compound word
+3 Root | Stem | Root word
+3 Morpheme
+3 Phoneme
+3 Syntax
+3 Morphology
+3 Inflection | Inflexion
+3 Apposition | Appositive
+3 Antecedent
+3 Ellipsis
+3 Direct speech | Indirect speech | Reported speech
+3 Question tag | Tag question
+3 Double negative | Negation
+3 Diminutive | Augmentative
+3 Acronym | Abbreviation | Initialism
+3 Diphthong
+3 Digraph
+3 Homograph
+3 Idiom
+3 Collocation
+3 Register
+3 Lexeme | Lexicon
+3 Zero article
+4 Aorist
+4 Optative
+4 Jussive
+4 Supine
+4 Gerundive
+4 Ergative | Absolutive | Ergative case
+4 Partitive
+4 Dual | Dual number | Trial | Paucal
+4 Clitic | Enclitic | Proclitic
+4 Infix | Circumfix
+4 Suppletion
+4 Ablaut | Umlaut
+4 Deixis
+4 Anaphora | Cataphora
+4 Evidentiality | Evidential
+6 Clusivity | Inclusive we | Exclusive we :: Whether "we" includes the person you are talking to. English cannot say, but many languages, among them many Aboriginal ones, have a separate word for each.
+4 Classifier | Measure word | Noun class
+4 Converb | Coverb
+4 Preterite | Preterit
+4 Middle voice | Mediopassive
+4 Antipassive | Applicative | Causative
+4 Ditransitive
+4 Valency
+4 Head | Dependent
+4 Adposition | Postposition | Circumposition
+4 Expletive | Dummy subject
+4 Cognate object
+4 Nominalisation | Nominalization
+4 Reduplication
+4 Elision
+4 Parataxis | Hypotaxis
+4 Topic | Comment | Topicalisation
+4 Allomorph | Allophone
+6 Tmesis :: Splitting a word to put another inside it. English does it mostly for swearing, and Australians are the masters: abso-bloody-lutely.
+x Full stop | Comma | Apostrophe | Semicolon | Question mark | Exclamation mark | Colon | Hyphen :: That is punctuation, which has a question of its own.
+x Metaphor | Simile | Alliteration | Onomatopoeia | Irony | Hyperbole | Personification | Oxymoron :: A figure of speech rather than a term of grammar.
+x Grammar | Word | Words | Spelling | English | Language | Part of speech :: Which one? Name the term.

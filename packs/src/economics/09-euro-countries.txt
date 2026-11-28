@@ -1,0 +1,42 @@
+id: economics-euro-countries
+text: Name a country that uses the euro.
+flavor: One coin for many kingdoms. Turn it over and each shows a different face of the same thing.
+rules: Any country whose official currency is the euro: the eurozone members, the microstates, and the two that adopted it on their own.
+section: World economy
+asOf: 2026-11-28
+---
+1 Germany | Deutschland
+1 France
+1 Italy | Italia
+1 Spain | España | Espana
+2 Greece | Hellas
+2 Ireland | Republic of Ireland | Eire | Éire
+2 Netherlands | Holland | The Netherlands
+2 Portugal
+2 Belgium
+2 Austria
+3 Finland | Suomi
+3 Luxembourg
+3 Croatia | Hrvatska
+3 Malta
+3 Cyprus
+4 Slovakia
+4 Slovenia
+4 Estonia
+4 Latvia
+4 Lithuania
+4 Bulgaria
+5 Monaco
+5 Vatican City | Vatican | Holy See | The Vatican
+5 San Marino
+5 Andorra
+6 Montenegro :: Not in the EU or the eurozone. It simply switched from the German mark to the euro in 2002, with no say in how the currency is run.
+6 Kosovo :: It adopted the euro on its own in 2002, years before declaring independence, and has no seat at the European Central Bank.
+x United Kingdom | UK | Britain | England | Scotland | Wales | Great Britain | Northern Ireland :: It kept the pound, even while it was in the European Union.
+x Switzerland | Liechtenstein :: Surrounded by the euro, but it still uses the Swiss franc.
+x Sweden | Denmark | Norway | Iceland :: A Nordic holdout: it still has its own krona or krone.
+x Poland | Czech Republic | Czechia | Hungary | Romania :: In the European Union, but still using its own currency.
+x Turkey | Türkiye | Russia | Ukraine | Serbia | Albania | Bosnia | Bosnia and Herzegovina | North Macedonia | Macedonia | Moldova | Belarus | Georgia | Armenia :: In or near Europe, but it has a currency of its own.
+x Europe | European Union | EU | Eurozone :: That is the whole club. Name one country in it.
+x Australia | United States | USA | America | Canada | Japan | China | New Zealand :: Not unless something has gone badly wrong at the Reserve Bank.
+- Slavonia | Mali | Maldives | Iran | Poland and Portugal

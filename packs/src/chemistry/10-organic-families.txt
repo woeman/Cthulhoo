@@ -1,0 +1,112 @@
+id: chemistry-organic-families
+text: Name a family of organic compounds or a functional group.
+flavor: Carbon will bond with almost anything. It is the least particular of the elements, and the busiest.
+rules: Any class of carbon compound or the group of atoms that defines one, such as the family whose simplest member is methane.
+section: Organic chemistry
+---
+1 Alcohol | Alcohols | Hydroxyl | Hydroxyl group | Hydroxy | Alkanol | Alkanols | OH
+1 Alkane | Alkanes | Paraffin | Paraffins
+1 Alkene | Alkenes | Olefin | Olefins
+1 Carbohydrate | Carbohydrates | Sugar | Sugars | Saccharide | Carbs
+1 Protein | Proteins
+1 Hydrocarbon | Hydrocarbons
+2 Alkyne | Alkynes
+2 Carboxylic acid | Carboxylic acids | Carboxyl | Carboxyl group | COOH | Alkanoic acid | Organic acid
+2 Ester | Esters
+2 Fat | Fats | Lipid | Lipids | Oils | Triglyceride | Triglycerides | Fatty acid | Fatty acids
+2 Amino acid | Amino acids
+2 Ketone | Ketones | Alkanone
+2 Aldehyde | Aldehydes | Alkanal
+2 Amine | Amines | Amino | Amino group
+2 Ether | Ethers
+2 Polymer | Polymers
+2 Aromatic | Aromatics | Arene | Arenes | Aromatic compound | Benzene ring | Aromatic hydrocarbon
+2 Amide | Amides
+2 Steroid | Steroids
+2 Methyl | Methyl group | Alkyl | Alkyl group | Ethyl
+2 Haloalkane | Haloalkanes | Alkyl halide | Halogenoalkane | Halide | Halogenoalkanes | Alkyl halides
+3 Phenol | Phenols
+3 Carbonyl | Carbonyl group
+3 Nitrile | Nitriles | Cyanide | Cyano
+3 Thiol | Thiols | Mercaptan | Mercaptans | Sulfhydryl
+3 Cycloalkane | Cycloalkanes
+3 Nucleic acid | Nucleic acids | Nucleotide | Nucleotides
+3 Alkaloid | Alkaloids
+3 Terpene | Terpenes | Terpenoid | Terpenoids | Isoprenoid
+3 Phenyl | Phenyl group | Benzyl | Aryl
+3 Nitro | Nitro compound | Nitro group | Nitro compounds
+3 Acyl chloride | Acid chloride | Acyl halide | Acyl chlorides
+3 Acid anhydride | Anhydride | Anhydrides
+3 Epoxide | Epoxides | Oxirane
+3 Peroxide | Peroxides | Organic peroxide
+3 Diene | Dienes
+3 Diol | Diols | Glycol | Glycols | Polyol
+3 Monosaccharide | Disaccharide | Polysaccharide | Monosaccharides | Polysaccharides
+3 Peptide | Peptides | Peptide bond
+3 Phospholipid | Phospholipids | Phosphate | Phosphate group
+3 Wax | Waxes
+3 Vinyl | Vinyl group | Allyl
+3 Hydroxy acid | Alpha hydroxy acid | AHA
+3 Azo | Azo compound | Azo dye | Azo compounds
+3 Heterocycle | Heterocycles | Heterocyclic compound
+3 Isomer | Isomers
+3 Enzyme | Enzymes
+3 Vitamin | Vitamins
+3 Flavonoid | Flavonoids | Polyphenol | Polyphenols
+3 Carotenoid | Carotenoids
+3 Prostaglandin | Prostaglandins
+3 CFC | Chlorofluorocarbon | CFCs
+3 Organometallic | Organometallics | Grignard reagent
+4 Imine | Imines | Schiff base
+4 Enol | Enols | Enolate
+4 Lactone | Lactones
+4 Lactam | Lactams | Beta-lactam
+4 Sulfide | Thioether | Sulfides
+4 Disulfide | Disulfides | Disulfide bridge
+4 Sulfonic acid | Sulfonate | Sulfonamide | Sulfonamides
+4 Sulfoxide | Sulfone
+4 Isocyanate | Isocyanates
+4 Urea | Carbamate | Urethane | Carbamates
+4 Acetal | Ketal | Hemiacetal | Hemiketal
+4 Oxime | Oximes
+4 Hydrazine | Hydrazone | Hydrazones
+4 Azide | Azides
+4 Diazo | Diazonium | Diazonium salt
+4 Imide | Imides
+4 Enamine | Enamines
+4 Quinone | Quinones
+4 Furan | Pyrrole | Thiophene | Pyridine | Purine | Pyrimidine | Imidazole | Indole
+4 Cumulene | Allene | Allenes
+4 Carbene | Carbenes
+4 Thioester | Thioesters
+6 Thioketone | Thial | Thione | Thioketones :: Its simplest member, thioacetone, may be the worst smell known. An attempt to make it in Freiburg in 1889 caused vomiting and panic across the city.
+4 Isonitrile | Isocyanide | Isocyanides | Carbylamine
+4 Nitroso | Nitrosamine | Nitrosamines
+4 Nitrate ester | Nitrate | Nitrite ester
+4 Orthoester
+4 Acyloin
+4 Ynol | Ynone
+4 Enone | Enones
+4 Ketene | Ketenes
+4 Carbodiimide
+4 Phosphine | Phosphonate | Phosphonium
+4 Borane | Boronic acid | Boronic ester
+4 Silane | Siloxane | Silyl ether
+6 Crown ether | Crown ethers :: Rings of carbon and oxygen that sit on a metal ion like a crown on a head. Charles Pedersen found them by accident in 1961 and won a Nobel Prize for it.
+4 Fullerene | Fullerenes
+4 Porphyrin | Porphyrins
+4 Glycoside | Glycosides
+4 Glyceride | Glycerides
+4 Sterol | Sterols
+4 Catechol | Catechols | Catecholamine
+4 Cannabinoid | Cannabinoids
+4 Opioid | Opioids
+4 Barbiturate | Barbiturates | Benzodiazepine | Benzodiazepines
+4 Amphetamine | Amphetamines | Phenethylamine | Tryptamine
+4 Xanthine | Xanthines
+4 PAH | Polycyclic aromatic hydrocarbon | Polycyclic aromatic hydrocarbons
+4 PFAS | Forever chemicals | Perfluoroalkyl
+4 Dioxin | Dioxins | PCB | PCBs
+x Methane | Ethanol | Benzene | Glucose | Acetone | Methanol | Propane | Octane | Caffeine | Aspirin | Vinegar | Ethene :: That is a single compound. Name the family it belongs to, or the group that defines it.
+x Organic | Organic compound | Carbon | Compound | Molecule | Functional group | Chemical :: Which one? Name the family or the group.
+x Salt | Salts | Metal | Metals | Oxide | Acid | Base | Alkali | Noble gas | Halogen | Carbonate | Mineral :: That belongs to inorganic chemistry.

@@ -1,0 +1,161 @@
+id: geography-lakes
+text: Name a lake.
+flavor: Still water keeps things. Ask anyone who has dropped something into one.
+rules: Any named lake, loch or inland sea anywhere in the world.
+section: World
+---
+1 Lake Eyre | Eyre | Kati Thanda | Kati Thanda-Lake Eyre | Lake Eyre North
+1 Loch Ness | Ness
+1 Lake Victoria | Victoria | Victoria Nyanza
+1 Lake Superior | Superior
+1 Lake Michigan | Michigan
+1 Lake Burley Griffin | Burley Griffin
+2 Lake Titicaca | Titicaca
+2 Lake Como | Como
+2 Dead Sea
+2 Caspian Sea | Caspian
+2 Lake Taupo | Taupo | Taupō | Lake Taupō
+2 Lake Geneva | Geneva | Lac Léman | Lac Leman | Léman
+2 Lake Erie | Erie
+2 Lake Ontario | Ontario
+2 Lake Huron | Huron
+2 Lake Tahoe | Tahoe
+2 Lake Baikal | Baikal
+2 Lake Tanganyika | Tanganyika
+2 Great Salt Lake | Salt Lake
+2 Loch Lomond | Lomond
+2 Lake Macquarie
+2 Lake Argyle | Argyle
+2 Lake Windermere | Windermere
+2 Lake Garda | Garda
+2 Lake Jindabyne | Jindabyne
+2 Lake Eildon | Eildon
+2 Lake St Clair | St Clair | leeawuleena
+2 Lake Wakatipu | Wakatipu
+2 Sea of Galilee | Galilee | Lake Tiberias | Kinneret
+2 Great Lakes
+2 Lake Hillier | Hillier | Pink Lake
+3 Lake Malawi | Malawi | Lake Nyasa | Nyasa
+3 Aral Sea | Aral
+3 Lake Chad | Chad
+3 Lake Maggiore | Maggiore
+3 Lake Lucerne | Lucerne
+3 Lake Constance | Constance | Bodensee
+3 Lake Zurich | Zurich
+3 Lake Balaton | Balaton
+3 Lake Ladoga | Ladoga
+3 Lake Onega | Onega
+3 Crater Lake
+3 Lake Louise | Louise
+3 Great Bear Lake | Great Bear
+3 Great Slave Lake | Great Slave
+3 Lake Winnipeg | Winnipeg
+3 Lake Champlain | Champlain
+3 Lake Mead | Mead
+3 Lake Powell | Powell
+3 Lake Nicaragua | Nicaragua | Cocibolca
+3 Lake Maracaibo | Maracaibo
+3 Lake Turkana | Turkana | Lake Rudolf
+3 Lake Albert | Albert
+3 Lake Kariba | Kariba
+3 Lake Nasser | Nasser
+3 Lake Volta
+3 Lake Toba | Toba
+3 Tonlé Sap | Tonle Sap
+3 Lake Biwa | Biwa
+3 Qinghai Lake | Qinghai | Koko Nor
+3 Lake Balkhash | Balkhash
+3 Issyk-Kul | Issyk Kul | Lake Issyk-Kul
+3 Lake Van | Van
+6 Lake Vostok | Vostok :: A lake the size of Lake Ontario under nearly four kilometres of Antarctic ice, sealed off for millions of years. Russian drillers reached its surface in 2012.
+3 Lake Rotorua | Rotorua
+3 Lake Wanaka | Wanaka
+3 Lake Tekapo | Tekapo
+3 Lake Te Anau | Te Anau
+3 Lake Pukaki | Pukaki
+3 Lake Manapouri | Manapouri
+3 Lake Torrens | Torrens
+3 Lake Gairdner | Gairdner
+3 Lake Frome | Frome
+3 Lake Mungo | Mungo | Willandra Lakes
+3 Lake George | Weereewa
+3 Lake Eucumbene | Eucumbene
+3 Lake Hume | Hume | Hume Dam | Hume Weir
+3 Lake Pedder | Pedder
+3 Lake Gordon
+3 Great Lake | yingina
+3 Dove Lake
+3 Lake Illawarra | Illawarra
+3 Tuggerah Lake | Tuggerah Lakes | Tuggerah
+3 Lake Wendouree | Wendouree
+3 Gippsland Lakes | Lake Wellington | Lake King
+3 Lake Mulwala | Mulwala
+3 Lake Alexandrina | Alexandrina
+3 The Coorong | Coorong
+3 Lake McKenzie | McKenzie | Boorangoora
+3 Lake Wivenhoe | Wivenhoe
+3 Lake Eacham | Lake Barrine | Eacham | Barrine
+3 Lake Tinaroo | Tinaroo
+5 Lake Disappointment | Kumpupintil | Kumpupintil Lake | Disappointment :: Named in 1897 by explorer Frank Hann, who followed creeks inland hoping for fresh water and found a salt pan. It has been Kumpupintil Lake again since 2020.
+3 Lake Mackay | Mackay
+3 Lake Amadeus | Amadeus
+3 Lake Monger | Monger
+3 Lake Ballard
+3 Lake Cargelligo
+3 Menindee Lakes | Menindee | Lake Menindee
+3 Lake Tyrrell | Tyrrell
+3 Lake Corangamite | Corangamite
+3 Lake Burragorang | Burragorang | Warragamba Dam | Warragamba
+4 Lake Conjola | Wallis Lake | Myall Lakes | Smiths Lake | Lake Cathie
+4 Lake Dobson | Lake Sorell | Lake Echo | Arthurs Lake | Lake Barrington | Lake Burbury
+4 Derwentwater | Ullswater | Coniston Water | Grasmere | Buttermere | Wastwater | Bassenthwaite | Thirlmere
+4 Lough Neagh | Neagh | Lough Erne | Lough Corrib | Lough Derg
+4 Loch Morar | Loch Awe | Loch Tay | Loch Leven | Loch Katrine | Loch Lochy | Loch Shiel | Loch Maree
+4 Bala Lake | Llyn Tegid
+4 Lake Lugano | Lugano | Lake Orta | Lake Iseo | Lake Trasimeno | Trasimeno | Lake Bolsena
+4 Lake Neuchâtel | Neuchatel | Lake Thun | Lake Brienz
+4 Lake Bled | Bled
+4 Lake Ohrid | Ohrid | Lake Prespa | Prespa
+4 Lake Skadar | Lake Shkodër | Skadar | Lake Scutari
+4 Lake Annecy | Annecy
+4 Lake Vänern | Vanern | Vänern | Lake Vättern | Vattern | Mälaren | Malaren
+4 Lake Saimaa | Saimaa | Lake Inari | Inari
+4 Lake Peipus | Peipus
+4 Chiemsee | Müritz | Königssee | Konigssee | Starnberger See | Wannsee
+4 Neusiedler See | Lake Neusiedl | Wörthersee
+4 Lake Sevan | Sevan
+4 Lake Urmia | Urmia
+4 Lake Tuz | Tuz
+4 Lake Assal | Assal
+4 Lake Natron | Natron
+4 Lake Nakuru | Nakuru | Lake Naivasha | Naivasha
+4 Lake Kivu | Kivu
+4 Lake Tana | Tana
+4 Lake Mweru | Mweru | Lake Bangweulu | Lake Rukwa
+6 Lake Nyos | Nyos :: A crater lake in Cameroon that, one night in 1986, released a cloud of carbon dioxide from its depths. It suffocated about 1,700 people as they slept.
+4 Lake Poopó | Poopo
+4 Lake Atitlán | Atitlan
+4 Lake Texcoco | Texcoco | Lake Chapala | Chapala
+4 Lake Okeechobee | Okeechobee
+4 Lake Pontchartrain | Pontchartrain
+4 Lake Placid | Placid
+4 Lake Winnipesaukee | Winnipesaukee
+4 Finger Lakes | Seneca Lake | Cayuga Lake
+4 Lake Havasu | Havasu
+4 Mono Lake | Mono
+4 Salton Sea
+4 Walden Pond | Walden
+4 Lake Athabasca | Athabasca
+4 Lake Nipigon | Lake Nipissing | Lake of the Woods | Lake Simcoe | Reindeer Lake | Lake Manitoba | Lake Winnipegosis | Moraine Lake | Lake Okanagan | Okanagan
+4 Lake Taymyr | Lake Khanka | Lake Teletskoye | Lake Khövsgöl | Khovsgol | Uvs Lake
+4 Dal Lake | Dal | Pangong Tso | Pangong | Lake Manasarovar | Manasarovar | Chilika Lake | Chilika | Wular Lake | Loktak
+4 West Lake | Poyang Lake | Poyang | Dongting Lake | Dongting | Lake Tai | Taihu | Namtso | Lop Nur | Heaven Lake | Tianchi
+4 Inle Lake | Inle
+4 Lake Kawaguchi | Kawaguchiko | Lake Ashi | Lake Towada
+4 Laguna de Bay | Lake Taal | Taal | Lake Lanao
+4 Lake Sentani | Lake Matano | Lake Poso | Kelimutu
+4 Lake Kutubu | Lake Murray
+4 Lake Rotoiti | Lake Tarawera | Lake Waikaremoana | Lake Hawea | Lake Ohau | Lake Ellesmere | Lake Brunner | Lake Rotoroa | Lake Matheson
+x Sydney Harbour | Port Phillip | Port Phillip Bay | Botany Bay | Great Barrier Reef | Mediterranean | Mediterranean Sea | Pacific | Atlantic | Red Sea | Black Sea | Hudson Bay | Shark Bay :: Open to the ocean, so not a lake.
+x Lake | Loch | Lagoon | Pond | Dam | Reservoir | Billabong :: Which one? Give its name.
+x Murray | Nile | Amazon | Yarra | Thames | Darling :: That one is a river.

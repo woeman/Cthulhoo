@@ -1,0 +1,17 @@
+id: finance-nasdaq-tickers
+text: Give the ticker symbol of a company listed on the Nasdaq.
+flavor: Four letters crawl across the tape, over and over, like something trying to spell its own name.
+rules: The exact ticker, such as the four letters Apple trades under. Spelling must be exact: no typos are forgiven on this one.
+section: Listed companies
+source: Nasdaq symbol directory (via the public datasets/nasdaq-listings snapshot), November 2026.
+exact: true
+listing: nasdaq-listed.csv
+mode: tickers
+curated: us-companies.inc
+---
+6 FIZZ | National Beverage :: National Beverage, the maker of LaCroix sparkling water. FIZZ indeed.
+6 CAKE | The Cheesecake Factory :: The Cheesecake Factory. Somebody enjoyed choosing that one.
+6 WOOF | Petco :: Petco, the pet supplies chain.
+x Apple | Microsoft | Amazon | Google | Tesla | Nvidia | Netflix | Meta | Facebook | Intel | Costco | Starbucks :: That is the company's name. Give the letters it trades under.
+x CBA | BHP | WOW | TLS | QAN | WBC | ANZ | NAB | COL | WES :: An ASX code, not a Nasdaq ticker.
+x KO | MCD | NKE | DIS | WMT | JPM | IBM | UBER | SPOT | SNAP | BAC | XOM :: A genuine ticker, but for the NYSE.

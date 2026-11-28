@@ -6,7 +6,7 @@ Rules: Any shark species or family, living or extinct, by its common or scientif
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (277 answers)
+## Accepted now (279 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -30,7 +30,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Goblin Shark — Goblin | Mitsukurina | Mitsukurina owstoni | Mitsukurinidae
 - Greenland Shark — Gurry Shark | Grey Shark | Greenland Sleeper | Somniosus microcephalus | Greenland
 - Great Hammerhead — Great Hammerhead Shark | Sphyrna mokarran
-- Blacktip Reef Shark — Blacktip Reef | Carcharhinus melanopterus
+- Blacktip Reef Shark — Blacktip Reef | Carcharhinus melanopterus | Reef shark | Reef sharks
 - Whitetip Reef Shark — Whitetip Reef | Triaenodon obesus | Triaenodon | Whitetip
 - Megamouth Shark — Megamouth | Megachasma | Megachasma pelagios
 - Wobbegong — Wobbegong Shark | Wobby | Orectolobus | Orectolobidae
@@ -39,7 +39,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Zebra Shark — Zebra | Stegostoma | Stegostoma tigrinum | Stegostoma fasciatum
 - Cookiecutter Shark — Cookiecutter | Cigar Shark | Isistius | Isistius brasiliensis
 - Frilled Shark — Frill Shark | Chlamydoselachus | Frilled | Chlamydoselachus anguineus
-- Sand Tiger Shark — Sand Tiger | Grey Nurse Shark | Ragged-tooth Shark | Raggie | Carcharias | Carcharias taurus | Sand shark | Spotted ragged-tooth shark | Odontaspididae
+- Sand Tiger Shark — Sand Tiger | Grey Nurse Shark | Ragged-tooth Shark | Raggie | Carcharias | Carcharias taurus | Sand shark | Spotted ragged-tooth shark | Odontaspididae | Grey nurse | Grey nurses | Gray nurse
 - Dogfish — Dogfish shark | Squalidae
 
 ### Tier 3: known to fans (44)
@@ -158,7 +158,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Roughshark — Oxynotidae | Oxynotus
 - False Catshark — Pseudotriakis microdon | Pseudotriakis | Sofa shark
 
-### Tier 5: expert (139)
+### Tier 5: expert (141)
 
 - Graceful Shark — Carcharhinus amblyrhynchoides
 - Lost Shark — Carcharhinus obsolerus
@@ -299,6 +299,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ctenacanthus
 - Doliodus
 - Asteracanthus
+- Gollum Shark — Slender smooth-hound | Gollum attenuatus | Gollum
+- African Lanternshark — Etmopterus polli
 
 ### Tier 6: rare jackpots (2)
 

@@ -67,7 +67,21 @@ export function cleanPrompt(p: unknown): PromptDef | null {
     traps: Array.isArray(p.traps) ? traps : undefined,
     decoys: p.decoys !== undefined || decoys.length ? [...forms(p.decoys), ...decoys] : undefined,
     exact: p.exact === true ? true : undefined,
+    topic: text(p.topic),
+    section: text(p.section),
+    asOf: text(p.asOf),
+    source: text(p.source),
   };
+}
+
+/**
+ * Makes questions findable by id without adding them to the daily bank: class
+ * packs, loaded when asked for. A dive, a séance and a reveal can then look them
+ * up, and the daily plan (which reads `prompts`) never sees them. An id the bank
+ * already has keeps the bank's question.
+ */
+export function adoptPrompts(bank: Pick<Bank, 'byId'>, prompts: PromptDef[]): void {
+  for (const p of prompts) if (!bank.byId.has(p.id)) bank.byId.set(p.id, p);
 }
 
 /** Prompts (first file to use an id wins) and fixed days from a list of bank files. */

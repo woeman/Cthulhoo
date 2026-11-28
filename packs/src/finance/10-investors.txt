@@ -1,0 +1,232 @@
+id: finance-investors
+text: Name a famous investor, trader or financier.
+flavor: They read the tape as augurs once read entrails. A few of them were even right.
+rules: Anyone famous chiefly for investing, trading, banking or running funds, living or dead, including the infamous. Surnames alone are fine.
+section: People
+---
+1 Warren Buffett | Buffett | Buffet | Warren Buffet | Oracle of Omaha | Warren E. Buffett
+1 Elon Musk | Musk
+1 George Soros | Soros
+1 Jordan Belfort | Belfort | Wolf of Wall Street
+1 Bernie Madoff | Madoff | Bernard Madoff
+2 Charlie Munger | Munger | Charles Munger
+2 Ray Dalio | Dalio
+2 Benjamin Graham | Graham | Ben Graham
+2 J. P. Morgan | JP Morgan | John Pierpont Morgan | J.P. Morgan | Pierpont Morgan | Morgan
+2 John D. Rockefeller | Rockefeller | John Rockefeller | John D Rockefeller
+2 Michael Burry | Burry
+2 Cathie Wood | Cathy Wood | Catherine Wood
+2 Kerry Packer | Packer | James Packer
+2 Gina Rinehart | Rinehart
+2 Andrew Forrest | Twiggy Forrest | Twiggy | Forrest
+2 Sam Bankman-Fried | SBF | Bankman-Fried | Sam Bankman Fried | Bankman Fried
+2 Carl Icahn | Icahn
+2 Peter Lynch | Lynch
+2 Jamie Dimon | Dimon
+2 Bill Ackman | Ackman | William Ackman
+2 Mark Cuban | Cuban
+2 Kevin O'Leary | O'Leary | Mr Wonderful
+2 Rothschild | Nathan Rothschild | Mayer Amschel Rothschild | Nathan Mayer Rothschild | Mayer Rothschild | The Rothschilds
+2 Jeff Bezos | Bezos
+2 Bill Gates | Gates
+2 Nick Leeson | Leeson
+2 Alan Bond | Bond
+3 John Bogle | Jack Bogle | Bogle | John C. Bogle
+3 Peter Thiel | Thiel
+3 Jim Simons | Simons | James Simons
+3 John Templeton | Templeton | Sir John Templeton
+3 Jesse Livermore | Livermore
+3 Paul Tudor Jones | Tudor Jones
+3 Stanley Druckenmiller | Druckenmiller
+3 Ken Griffin | Griffin | Kenneth Griffin
+3 Steve Cohen | Cohen | Steven Cohen | Steven A. Cohen
+3 David Tepper | Tepper
+3 John Paulson | Paulson
+3 Howard Marks | Marks
+3 Bill Gross | Gross
+3 Jim Rogers | Rogers
+3 Jim Cramer | Cramer
+3 Larry Fink | Fink
+3 Stephen Schwarzman | Schwarzman | Steve Schwarzman
+3 Henry Kravis | Kravis
+3 Masayoshi Son | Masa Son
+3 Li Ka-shing | Li Ka Shing | Li Kashing
+3 Carlos Slim | Slim
+3 Bernard Arnault | Arnault
+3 Michael Bloomberg | Bloomberg
+3 Michael Milken | Milken | Junk Bond King
+3 Ivan Boesky | Boesky
+3 Gordon Gekko | Gekko
+3 Charles Ponzi | Ponzi
+3 Andrew Carnegie | Carnegie
+3 Cornelius Vanderbilt | Vanderbilt
+3 Henry Ford | Ford
+3 Christopher Skase | Skase
+3 Rene Rivkin | Rivkin | René Rivkin
+3 Rodney Adler | Adler
+3 Hamish Douglass | Douglass
+3 Kerr Neilson | Neilson
+3 David Gonski | Gonski
+3 Frank Lowy | Lowy
+3 Harry Triguboff | Triguboff
+3 Lang Hancock | Hancock
+3 Clive Palmer | Palmer
+3 Mike Cannon-Brookes | Cannon-Brookes | Cannon Brookes
+3 Scott Farquhar | Farquhar
+3 Rupert Murdoch | Murdoch
+3 Robert Holmes à Court | Holmes à Court | Holmes a Court | Robert Holmes a Court
+3 Kerry Stokes | Stokes
+3 Solomon Lew | Lew | Solly Lew
+3 Gerry Harvey | Harvey
+3 Anthony Pratt | Pratt | Richard Pratt
+3 Alex Waislitz | Waislitz
+3 Geoff Wilson | Wilson
+3 Chris Cuffe | Cuffe
+3 Robert Kiyosaki | Kiyosaki
+3 Scott Pape | Pape | Barefoot Investor
+3 Dave Ramsey | Ramsey
+3 Chamath Palihapitiya | Chamath | Palihapitiya
+3 Keith Gill | Roaring Kitty | DeepFuckingValue
+3 Nancy Pelosi | Pelosi
+3 Jerome Kerviel | Kerviel | Jérôme Kerviel
+3 Bill Hwang | Hwang | Sung Kook Hwang
+3 Changpeng Zhao | CZ | Zhao
+3 Winklevoss twins | Winklevoss | Cameron Winklevoss | Tyler Winklevoss
+3 Michael Saylor | Saylor
+3 Satoshi Nakamoto | Satoshi | Nakamoto
+3 Vitalik Buterin | Buterin | Vitalik
+3 Marc Andreessen | Andreessen
+3 Sam Altman | Altman
+3 Jack Ma
+3 Prince Alwaleed | Alwaleed bin Talal | Al-Waleed bin Talal | Alwaleed
+3 Mukesh Ambani | Ambani
+3 Gautam Adani | Adani
+3 Rakesh Jhunjhunwala | Jhunjhunwala
+4 Philip Fisher | Fisher | Phil Fisher
+4 Seth Klarman | Klarman
+4 Joel Greenblatt | Greenblatt
+4 David Einhorn | Einhorn
+4 Dan Loeb | Loeb | Daniel Loeb
+4 Jim Chanos | Chanos
+4 Julian Robertson | Robertson
+4 Michael Steinhardt | Steinhardt
+4 Bruce Kovner | Kovner
+4 Louis Bacon | Bacon
+4 Ed Thorp | Thorp | Edward Thorp
+4 David Swensen | Swensen
+4 Mohnish Pabrai | Pabrai
+4 Neil Woodford | Woodford
+4 Anthony Bolton | Bolton
+4 Bill Miller | Miller
+4 John Neff | Neff
+4 Walter Schloss | Schloss
+4 Irving Kahn | Kahn
+4 Thomas Rowe Price | T. Rowe Price | T Rowe Price
+4 Bernard Baruch | Baruch
+4 Hetty Green | Witch of Wall Street
+4 Jay Gould | Gould
+4 Daniel Drew | Drew
+4 Jim Fisk | Fisk | James Fisk
+4 Jacob Fugger | Fugger | Jakob Fugger | Fugger the Rich
+4 Cosimo de' Medici | Medici | Cosimo de Medici | Lorenzo de' Medici | Giovanni de' Medici
+4 John Law
+4 Siegmund Warburg | Warburg
+4 Marcus Goldman | Goldman
+4 Samuel Sachs | Sachs
+4 Charles Merrill | Merrill
+4 Andrew Mellon | Mellon
+4 Joseph Kennedy | Joe Kennedy | Joseph P. Kennedy
+4 Charles Schwab | Schwab
+4 Muriel Siebert | Siebert
+4 Abigail Johnson | Johnson
+4 Geraldine Weiss | Weiss
+4 Mellody Hobson | Hobson
+4 Jeremy Grantham | Grantham
+4 Mario Gabelli | Gabelli
+4 Leon Black
+4 David Rubenstein | Rubenstein
+4 Sandy Weill | Weill
+4 Lloyd Blankfein | Blankfein
+4 Dick Fuld | Fuld | Richard Fuld
+4 John Meriwether | Meriwether
+4 Myron Scholes | Scholes
+4 Harry Markowitz | Markowitz
+4 Eugene Fama | Fama
+4 Nassim Taleb | Taleb | Nassim Nicholas Taleb
+4 Meredith Whitney | Whitney
+4 Steve Eisman | Eisman
+4 Kyle Bass | Bass
+4 Bill Browder | Browder
+4 Mark Mobius | Mobius
+4 Marc Faber | Faber | Dr Doom
+4 Peter Schiff | Schiff
+4 Ron Brierley | Brierley | Sir Ron Brierley
+4 Robert Maple-Brown | Maple-Brown | Maple Brown
+4 Anton Tagliaferro | Tagliaferro
+4 David Paradice | Paradice
+4 John Wylie | Wylie
+4 Simon Mordant | Mordant
+4 Charlie Aitken | Aitken
+4 Roger Montgomery | Montgomery
+4 Marcus Padley | Padley
+4 Peter Switzer | Switzer
+4 Noel Whittaker | Whittaker
+4 Paul Clitheroe | Clitheroe
+4 Mark Bouris | Bouris
+4 John Symond | Symond | Aussie John
+4 Nicholas Moore
+4 Shemara Wikramanayake | Wikramanayake
+4 Allan Moss | Moss
+4 Greg Coffey | Coffey
+4 Will Vicars | Vicars
+4 Laurence Escalante | Escalante
+4 Ed Craven | Craven
+4 Nick Molnar | Molnar
+4 Anthony Eisen | Eisen
+4 Melanie Perkins | Perkins
+4 John Elliott | Elliott
+4 Laurie Connell | Connell
+4 George Herscu | Herscu
+4 Melissa Caddick | Caddick
+4 Michael Hintze | Hintze
+4 Yasuo Hamanaka | Hamanaka | Mr Copper
+4 Kweku Adoboli | Adoboli
+4 Bruno Iksil | London Whale | Iksil
+4 Navinder Sarao | Sarao
+4 Raj Rajaratnam | Rajaratnam
+4 Martin Shkreli | Shkreli | Pharma Bro
+4 Allen Stanford | Stanford
+4 Ivar Kreuger | Kreuger | Match King
+4 Do Kwon | Kwon
+4 Brian Armstrong | Armstrong
+4 Barry Silbert | Silbert
+4 Mike Novogratz | Novogratz
+4 Anthony Scaramucci | Scaramucci | The Mooch
+5 Thomas Gresham | Gresham | Sir Thomas Gresham
+5 Isaac Le Maire | Le Maire
+5 Joseph de la Vega | de la Vega
+5 David Ricardo | Ricardo
+5 John Maynard Keynes | Keynes
+6 Isaac Newton | Newton | Sir Isaac Newton :: He sold his South Sea shares at a profit in 1720, bought back in near the top and lost a fortune. He is said to have forbidden the words South Sea thereafter.
+6 Thales | Thales of Miletus :: Aristotle tells how the philosopher, foreseeing a bumper olive harvest, hired every press in Miletus in advance. It is often called the first recorded options trade.
+6 Munehisa Homma | Homma | Honma | Honma Munehisa :: An 18th-century rice merchant of Sakata, Japan, credited with inventing the candlestick chart that traders still read today.
+5 Richard Cantillon | Cantillon
+5 Haym Salomon | Salomon
+5 Stephen Girard | Girard
+5 John Jacob Astor | Astor
+5 Russell Sage
+5 E. H. Harriman | Harriman
+5 Charles Dow | Dow
+5 Roger Babson | Babson
+5 Richard Wyckoff | Wyckoff
+5 W. D. Gann | Gann | William Delbert Gann
+5 Nicolas Darvas | Darvas
+5 Richard Dennis | Dennis
+5 William O'Neil | O'Neil
+5 Martin Zweig | Zweig
+5 Anne Scheiber | Scheiber
+5 Ronald Read
+5 Grace Groner
+x Adam Smith | Karl Marx | Milton Friedman | Friedrich Hayek | Paul Krugman | Alan Greenspan | Janet Yellen | Jerome Powell | Ben Bernanke | Philip Lowe | Michele Bullock | Glenn Stevens :: An economist or central banker. They set the weather; name someone who sailed in it.
+x Jim Chalmers | Josh Frydenberg | Peter Costello | Anthony Albanese | Scott Morrison | Donald Trump | Barack Obama :: A politician first. Name someone famous for investing or finance.
+x Investor | Trader | Banker | Broker | Stockbroker | Billionaire | Fund manager | Hedge fund manager :: That is the job. Name someone who did it.

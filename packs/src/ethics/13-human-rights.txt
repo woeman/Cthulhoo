@@ -1,0 +1,63 @@
+id: ethics-human-rights
+text: Name a human right.
+flavor: Written down in 1948 so that nobody could say they had not been told.
+rules: Any right or freedom set out in the Universal Declaration of Human Rights or a later human rights treaty.
+section: Rights
+---
+1 Freedom of speech | Free speech | Freedom of expression | Speech | Freedom of opinion | Expression | Freedom of opinion and expression | Right to free speech | Freedom of the press | Press freedom
+1 Right to life | Life | Right to live
+1 Freedom of religion | Religion | Religious freedom | Freedom of belief | Freedom of thought | Freedom of conscience | Freedom of worship | Thought, conscience and religion | Belief
+1 Right to education | Education | Free education | Schooling
+1 Right to vote | Vote | Voting | Democracy | Take part in government | Free elections | Suffrage | Political participation | Right to take part in government
+1 Liberty | Freedom | Right to liberty | Right to freedom
+2 Equality | Equality before the law | Equal rights | Right to equality | Equal protection of the law | Equal treatment
+2 Freedom from slavery | No slavery | Slavery | Freedom from servitude | Not to be enslaved | Freedom from forced labour
+2 Freedom from torture | No torture | Torture | Freedom from cruel punishment | Freedom from cruel, inhuman or degrading treatment | Not to be tortured
+2 Fair trial | Right to a fair trial | Fair hearing | Due process | Right to a lawyer | Justice | Public hearing
+2 Privacy | Right to privacy
+2 Freedom of movement | Movement | Right to travel | Right to leave any country | Free movement
+2 Right to work | Work | Employment | Fair working conditions | Just and favourable conditions of work
+2 Freedom of assembly | Assembly | Peaceful assembly | Right to protest | Protest | Freedom of association | Association | Assembly and association
+2 Freedom from discrimination | Non-discrimination | No discrimination | Discrimination
+2 Food | Right to food | Adequate standard of living | Standard of living | Housing | Shelter | Right to housing | Right to shelter | Clothing | Food and shelter
+2 Health | Healthcare | Right to health | Medical care | Health care | Right to healthcare
+2 Security | Security of person | Safety | Right to security | Personal security | Right to safety
+2 Water | Right to water | Clean water | Water and sanitation | Sanitation
+2 Property | Right to property | Right to own property | Own property
+2 Marriage | Right to marry | Family | Right to marry and found a family | Marriage and family | Right to a family
+3 Presumption of innocence | Innocent until proven guilty | Innocent until proved guilty
+3 Asylum | Right to asylum | Right to seek asylum | Refuge | Seek asylum
+3 Nationality | Right to a nationality | Citizenship | Right to nationality
+3 Equal pay | Equal pay for equal work | Fair pay | Fair wage | Just remuneration | Minimum wage
+3 Trade unions | Right to join a trade union | Join a union | Unions | Right to form trade unions | Right to strike | Collective bargaining
+3 Social security | Right to social security | Welfare
+3 Freedom from arbitrary arrest | Arbitrary arrest | Freedom from arbitrary detention | No arbitrary detention | Habeas corpus | Freedom from exile
+3 Dignity | Human dignity | Right to dignity
+3 Recognition before the law | Recognition as a person before the law | Legal personhood | Legal recognition
+3 Effective remedy | Right to a remedy | Access to justice | Right to remedy
+3 Culture | Cultural life | Right to culture | Take part in cultural life | Participate in cultural life
+3 Self-determination | Right to self-determination
+3 Children's rights | Rights of the child | Protection of children | Motherhood and childhood | Childrens rights | Right to play | Play
+3 Clean environment | Healthy environment | Right to a healthy environment | Clean air
+3 Information | Right to information | Freedom of information | Access to information
+3 Language | Right to use your own language | Minority rights | Indigenous rights
+3 No retrospective punishment | No retroactive laws | No punishment without law
+3 Reputation | Honour and reputation | Protection of reputation
+3 Equal access to public service | Public service
+3 Return to your country | Right to return
+3 Development | Right to development
+4 Copyright | Authors' rights | Protection of moral and material interests | Intellectual property
+4 Share in scientific advancement | Benefits of science | Science
+4 Social and international order | International order
+4 Free choice of employment | Choice of employment | Protection against unemployment
+4 Change religion | Right to change religion
+4 Change nationality | Right to change nationality
+4 Free consent to marriage | Consent to marriage
+4 Technical and professional education | Higher education
+4 Parents' right to choose education | Choose your child's education
+4 Disability rights | Rights of persons with disabilities
+4 Freedom from enforced disappearance | Enforced disappearance
+4 Freedom from debt imprisonment | No imprisonment for debt
+6 Rest and leisure | Rest | Leisure | Holidays with pay | Paid holidays | Right to rest | Holidays | Paid leave | Right to rest and leisure :: Article 24 of the Universal Declaration: everyone has the right to rest and leisure, including "periodic holidays with pay". Your annual leave is a human right.
+x Human rights | Rights | Right | Human right | Freedoms | Universal Declaration :: Which one? Name the right itself.
+x Right to bear arms | Bear arms | Guns | Second Amendment | Right to drive | Driving | Happiness | Pursuit of happiness :: Not one the human rights treaties set out, whatever a national constitution may say.

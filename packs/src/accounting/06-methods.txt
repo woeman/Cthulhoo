@@ -1,0 +1,96 @@
+id: accounting-methods
+text: Name an accounting, costing or budgeting method.
+flavor: There is more than one way to count the same thing. Choose carefully. The answer changes.
+rules: Any named method for valuing stock, depreciating assets, costing products, budgeting or appraising investments.
+section: Methods
+---
+1 FIFO | First in, first out | First in first out | First-in, first-out
+1 Straight-line | Straight line | Straight-line depreciation | Straight line method | Prime cost | Prime cost method
+1 LIFO | Last in, first out | Last in first out
+1 Accrual accounting | Accrual basis | Accrual | Accruals
+1 Cash accounting | Cash basis | Cash method
+1 Double-entry bookkeeping | Double entry | Double-entry
+2 Weighted average | Average cost | Weighted average cost | AVCO | Moving average | Average cost method
+2 Reducing balance | Diminishing value | Diminishing balance | Declining balance | Reducing balance method | Diminishing value method | Double declining balance
+2 Break-even analysis | Break even | Breakeven | Cost-volume-profit | CVP | CVP analysis | Cost-volume-profit analysis
+2 Net present value | NPV | Discounted cash flow | DCF
+2 Payback period | Payback
+2 Budgeting | Budget | Master budget | Cash budget
+2 Activity-based costing | ABC | Activity based costing
+2 Perpetual inventory | Perpetual | Perpetual inventory system
+2 Periodic inventory | Periodic | Periodic inventory system | Physical inventory | Stocktake
+2 Zero-based budgeting | Zero based budgeting | ZBB
+2 Variance analysis | Variance
+2 Internal rate of return | IRR
+2 Bank reconciliation | Reconciliation
+2 Units of production | Units of use | Units-of-production | Units of activity
+2 Ratio analysis | Horizontal analysis | Vertical analysis | Trend analysis
+2 Standard costing | Standard cost
+2 Job costing | Job order costing
+2 Process costing
+2 Absorption costing | Full costing | Full absorption costing
+2 Marginal costing | Variable costing | Direct costing
+3 Specific identification | Specific identification method
+3 Sum of the years' digits | Sum-of-the-years'-digits | Sum of years digits | SYD
+3 Accounting rate of return | ARR | Average rate of return
+3 Balanced scorecard
+3 Just in time | JIT | Just-in-time
+3 Target costing
+3 Kaizen costing
+3 Life-cycle costing | Life cycle costing | Whole-of-life costing
+3 Throughput accounting
+3 Lean accounting
+3 Backflush costing | Backflush
+3 Incremental budgeting
+3 Flexible budgeting | Flexible budget | Flexed budget
+3 Rolling budget | Rolling forecast | Continuous budgeting
+3 Activity-based budgeting | ABB
+3 Beyond budgeting
+3 Participative budgeting | Bottom-up budgeting | Top-down budgeting
+3 Capital budgeting
+4 Retail method | Retail inventory method
+4 Gross profit method
+4 Lower of cost and net realisable value | Lower of cost or market
+4 Equity method | Equity accounting
+4 Consolidation | Acquisition method | Purchase method
+4 Fair value accounting | Mark to market | Mark-to-market | Revaluation model
+4 Cost model | Historical cost accounting
+4 Percentage of completion | Completed contract
+4 Allowance method | Direct write-off | Ageing of receivables | Aging of receivables | Percentage of sales
+4 Effective interest method | Effective interest
+4 Amortised cost | Amortized cost
+4 Impairment testing
+4 Transfer pricing
+4 Economic order quantity | EOQ
+4 ABC analysis
+4 Economic value added | EVA
+4 Residual income
+4 DuPont analysis | DuPont
+4 Profitability index
+4 Sensitivity analysis | Scenario analysis
+4 High-low method | High low method
+4 Regression analysis
+4 Contribution margin | Contribution analysis
+4 Fund accounting
+3 Forensic accounting
+3 Triple bottom line | Triple bottom line reporting
+4 Integrated reporting
+3 Environmental accounting | Carbon accounting | Sustainability accounting | Green accounting
+4 Single entry | Single-entry bookkeeping
+4 Imprest system | Imprest | Petty cash imprest
+4 Accrual budgeting
+4 Tax effect accounting
+4 Hedge accounting
+4 Inflation accounting | Current cost accounting | CCA | Current purchasing power
+3 Creative accounting | Cooking the books | Window dressing | Big bath | Cookie jar accounting | Earnings management | Channel stuffing
+6 Kakeibo :: A Japanese household account book, devised in 1904 by Hani Motoko, the country's first woman journalist. You write every yen down by hand, and reflect each month.
+3 Envelope budgeting | Envelope method | 50/30/20 | 50-30-20 rule
+4 Resource consumption accounting | RCA
+4 Grenzplankostenrechnung | GPK
+4 Time-driven activity-based costing | TDABC
+4 Material flow cost accounting
+4 Operation costing | Batch costing | Contract costing | Service costing
+4 Joint costing | By-product costing | Net realisable value method | Physical units method | Reciprocal method | Step-down method | Direct method
+6 Venetian method | Italian method | Method of Venice :: What double entry was called when the friar Luca Pacioli first set it down in print in 1494. He did not invent it. He wrote down how Venice's merchants worked.
+x Addition | Subtraction | Maths | Counting | Guessing | Calculator | Excel :: The tool rather than the method.
+x Debit | Credit | Asset | Profit | Ledger | Journal | Balance sheet | Depreciation | Inventory | Costing :: A term from the books, but not a named method. Which way of doing it?

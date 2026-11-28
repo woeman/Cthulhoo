@@ -1,0 +1,111 @@
+id: economics-australian-exports
+text: Name something Australia exports.
+flavor: The holds are full and the hulls ride low. What they carry was in the ground for a billion years.
+rules: Any good or service Australia sells to the world in real quantity, now or in its history.
+section: Australia
+---
+1 Iron ore | Iron | Iron ore and concentrates
+1 Coal | Thermal coal | Coking coal | Metallurgical coal | Black coal
+1 Natural gas | LNG | Gas | Liquefied natural gas
+1 Gold
+1 Wool | Merino wool
+1 Beef | Cattle | Live cattle | Meat
+1 Wheat
+1 Education | International education | International students | University education | Education services
+2 Wine
+2 Tourism | Travel | Travel services
+2 Lamb | Sheep | Mutton | Sheep meat | Live sheep | Sheepmeat
+2 Lithium | Spodumene
+2 Aluminium | Aluminum | Alumina | Bauxite
+2 Copper | Copper ore
+2 Barley
+2 Uranium | Yellowcake
+2 Sugar | Raw sugar | Sugar cane
+2 Dairy | Milk | Cheese | Milk powder | Butter | Dairy products
+2 Crude oil | Oil | Petroleum | Condensate
+2 Seafood | Rock lobster | Lobster | Crayfish | Abalone | Prawns | Fish | Tuna | Salmon
+2 Opals | Opal
+2 Diamonds | Pink diamonds | Argyle diamonds
+2 Canola | Canola oil | Rapeseed
+2 Cotton
+2 Kangaroo meat | Kangaroo
+2 Minerals | Mining | Resources
+2 Vegemite
+2 Ugg boots | Uggs
+3 Nickel
+3 Zinc
+3 Lead
+3 Silver
+3 Rare earths | Rare earth elements
+3 Mineral sands | Zircon | Rutile | Ilmenite | Titanium
+3 Manganese
+3 Cobalt
+3 Tin
+3 Salt
+3 Pearls
+3 Rice
+3 Oats
+3 Chickpeas | Lentils | Pulses | Lupins | Faba beans
+3 Sorghum
+3 Almonds
+3 Macadamias | Macadamia nuts
+3 Fruit | Table grapes | Grapes | Oranges | Citrus | Mandarins | Cherries | Mangoes | Avocados | Apples
+3 Vegetables | Carrots | Potatoes | Onions
+3 Honey | Manuka honey
+3 Infant formula | Baby formula
+3 Vitamins | Health supplements | Supplements
+3 Pharmaceuticals | Medicines | Blood plasma products | Vaccines
+3 Medical devices | Cochlear implants | Hearing implants | Sleep apnoea machines | CPAP machines | Medical instruments
+3 Woodchips | Timber | Wood | Logs | Forestry products
+3 Hides and skins | Leather | Sheepskins | Hides
+3 Tallow
+3 Live animals | Livestock | Horses | Racehorses | Thoroughbreds | Goats | Goat meat
+6 Camels | Camel | Live camels | Camel meat :: Australia has the world's largest herd of wild camels, descended from animals imported in the 1800s, and has shipped some back to the Middle East.
+3 Pork | Chicken | Poultry
+3 Financial services | Banking | Insurance | Funds management
+3 Professional services | Consulting | Legal services | Engineering services | Business services
+3 Software | Technology | IT services | Tech
+3 Films | Film | Television | TV shows | Music | Actors | Entertainment
+3 Steel
+3 Refined petroleum | LPG
+3 Cars | Vehicles | Motor vehicles | Holdens | Car parts
+3 Ships | Ferries | Fast ferries | Catamarans | Boats
+3 Machinery | Mining equipment | Mining technology | METS
+3 Aircraft parts | Aerospace
+3 Arms | Defence equipment | Weapons | Bushmaster
+3 Beer | Spirits | Gin | Whisky
+3 Flour | Malt | Processed food | Food
+3 Hay | Fodder | Oaten hay
+3 Flowers | Wildflowers
+3 Eucalyptus oil | Tea tree oil | Sandalwood | Sandalwood oil
+3 Wi-Fi | Inventions | Intellectual property
+3 Hydrogen | Green hydrogen | Ammonia
+3 Electricity | Solar power
+3 Scrap metal | Waste | Recycling
+6 Banknotes | Polymer banknotes | Coins | Plastic money | Plastic banknotes :: Australia invented the polymer banknote in 1988 and has since printed plastic money for dozens of other countries.
+3 Sand | Silica sand | Gypsum | Phosphate
+3 Tungsten | Antimony | Vanadium | Graphite | Magnesite | Tantalum
+3 Platinum | Palladium
+3 Sapphires | Gemstones
+3 Crocodile skins | Crocodile leather | Crocodile meat
+3 Emu oil | Emu
+3 Truffles
+3 Wagyu
+3 Barramundi | Oysters | Scallops
+6 Trepang | Sea cucumber | Bêche-de-mer | Beche-de-mer :: Makassan fishermen sailed to Arnhem Land for it from at least the 1700s and traded with Yolngu people: Australia's first export industry.
+3 Sport | Athletes | Coaches
+4 Whale oil | Sealskins | Seal skins
+4 Cedar | Red cedar
+4 Wattle bark
+4 Kangaroo skins | Kangaroo leather
+4 Rabbit skins | Rabbits | Rabbit fur
+4 Possum skins | Koala skins | Koala fur
+4 Mother-of-pearl | Pearl shell
+4 Guano
+4 Kauri gum
+4 Frozen mutton | Frozen meat
+5 Asbestos | Blue asbestos
+x Kangaroos | Koalas | Wombats | Platypus | Echidnas :: Protected. Live native animals are not for sale, though zoos do arrange the odd loan.
+x Phones | iPhones | Computers | Televisions | Clothes | Clothing | Electronics | Toys | Furniture :: Australia mostly buys that from overseas: an import, not an export.
+x Exports | Goods | Services | Commodities | Raw materials | Stuff | Things | Products :: Too broad. Name a particular export.
+x Convicts :: Other way around. Britain exported those to us.

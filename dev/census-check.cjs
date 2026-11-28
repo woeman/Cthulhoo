@@ -301,6 +301,29 @@ async function reliquary(page, who) {
     await d.waitForSelector('.title-screen', { timeout: 45000 });
     await d.waitForTimeout(1500);
     await shot(d, 'desk-title');
+
+    // ------------------------------------------------ topics, the class packs and the music
+    const music = [];
+    d.on('response', (r) => r.url().includes('/music/') && music.push(`${r.url().split('/').pop()} ${r.status()}`));
+    try {
+      await d.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
+      await d.waitForSelector('.sheet .tp-chip', { timeout: 20000 });
+      // The class packs arrive a moment after the daily topics.
+      await d.waitForFunction(() => document.querySelectorAll('.sheet .tp-group').length > 1, null, { timeout: 15000 }).catch(() => {});
+      const groups = (await d.locator('.sheet .tp-group-k').allInnerTexts()).map(flat);
+      const chips = (await d.locator('.sheet .tp-group .tp-chip').allInnerTexts()).map(flat);
+      await shot(d, 'desk-topics');
+      if (groups.length > 1) pass(`Charted Waters offers ${chips.length} topics under ${groups.join(', ')}: ${chips.join(' | ')}`);
+      else info(`Charted Waters shows the daily topics and no class packs (none are in this branch): ${chips.join(' | ')}`);
+      // That click was the first: the music may begin, and its first track is asked for.
+      await d.waitForTimeout(2500);
+      if (music.some((m) => / (200|206)$/.test(m))) pass(`The music begins on the first click: ${music.join(', ')}.`);
+      else fail(`No music was fetched after the first click: ${music.join(', ') || 'nothing asked for'}.`);
+      await d.keyboard.press('Escape');
+    } catch (e) {
+      await shot(d, 'desk-topics-fail');
+      fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
+    }
     for (const dev of [wren, bram, desk]) {
       const errs = [...new Set(dev.errors)];
       if (errs.length) fail(`${dev.name}'s browser logged errors: ${errs.slice(0, 5).join(' | ')}`);

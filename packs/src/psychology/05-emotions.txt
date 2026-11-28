@@ -1,0 +1,95 @@
+id: psychology-emotions
+text: Name an emotion.
+flavor: You have felt all of these. One of them you are feeling now, and would rather not say.
+rules: Any feeling or mood a person can have, including words borrowed from other languages.
+section: Emotion and motivation
+---
+1 Happiness | Happy | Joy | Joyful | Joyfulness | Gladness | Cheerfulness | Delight | Elation
+1 Sadness | Sad | Sorrow | Unhappiness | Misery | Melancholy | Woe | Heartbreak
+1 Anger | Angry | Rage | Fury | Wrath | Mad | Irritation | Annoyance | Annoyed
+1 Fear | Scared | Afraid | Terror | Fright | Dread | Horror | Panic
+1 Love | Affection | Adoration | Infatuation | Fondness
+1 Disgust | Disgusted | Revulsion | Repulsion
+1 Surprise | Surprised | Shock | Astonishment | Amazement
+2 Jealousy | Envy | Jealous | Envious
+2 Anxiety | Worry | Nervousness | Nervous | Anxious | Unease | Apprehension
+2 Excitement | Excited | Enthusiasm | Thrill | Exhilaration
+2 Guilt | Guilty | Remorse | Regret
+2 Shame | Embarrassment | Embarrassed | Humiliation | Mortification
+2 Pride | Proud
+2 Hope | Optimism | Hopefulness
+2 Loneliness | Lonely | Isolation
+2 Grief | Mourning | Bereavement
+2 Boredom | Bored
+2 Confusion | Confused | Bewilderment
+2 Frustration | Frustrated | Exasperation
+2 Hate | Hatred | Loathing
+2 Gratitude | Thankfulness | Grateful
+2 Contentment | Content | Satisfaction | Calm | Serenity | Peace | Relaxed | Tranquillity
+2 Curiosity | Interest | Wonder | Awe | Fascination
+2 Disappointment | Disappointed
+2 Relief
+2 Nostalgia | Homesickness
+2 Lust | Desire | Longing | Yearning
+2 Trust
+2 Anticipation
+2 Contempt | Scorn | Disdain
+2 Despair | Hopelessness | Depression
+2 Stress | Overwhelm | Overwhelmed
+2 Empathy | Compassion | Sympathy | Pity
+2 Amusement | Mirth
+2 Resentment | Bitterness | Spite
+2 Schadenfreude
+3 Ennui
+3 Angst
+3 Apathy | Indifference | Numbness
+3 Euphoria | Ecstasy | Bliss | Rapture
+3 Dismay | Alarm | Distress | Anguish | Agony
+3 Insecurity | Self-doubt | Inadequacy
+3 Vulnerability
+3 Courage | Bravery | Confidence
+3 Tenderness | Warmth | Sentimentality
+3 Admiration | Respect | Reverence
+3 Smugness | Triumph | Gloating
+3 Suspicion | Distrust | Paranoia
+3 Impatience
+3 Outrage | Indignation
+3 Wistfulness | Melancholia | Pensiveness
+3 Hysteria
+3 Restlessness | Agitation
+3 Doubt | Uncertainty | Ambivalence
+3 Hurt | Rejection | Betrayal | Abandonment
+3 Pleasure | Enjoyment
+3 Zest | Vitality | Passion
+3 Glee | Jubilation
+3 Gloom | Glumness | Dejection
+3 Self-pity
+4 Weltschmerz
+4 Sehnsucht
+4 Fernweh | Wanderlust
+4 Saudade
+4 Hiraeth
+4 Hygge
+4 Mono no aware
+4 Natsukashii
+4 Amae
+6 Awumbuk :: The Baining people of Papua New Guinea name the heaviness left behind when guests depart. They leave a bowl of water out overnight to soak it up.
+6 Iktsuarpok :: An Inuit word for the fidgety anticipation of waiting for a visitor, which sends you outside again and again to see if they are coming.
+4 Torschlusspanik
+4 Gezelligheid | Gezellig
+4 Litost
+4 Toska
+4 Duende
+4 Ilinx
+5 L'appel du vide | Call of the void :: "The call of the void": the sudden, unwanted urge to jump when standing on a high place. Researchers find it is common, and not a wish to die.
+4 Frisson
+4 Limerence
+4 Compersion
+4 Naches | Nachas
+4 Mudita
+4 Acedia
+4 Anhedonia
+4 Dysphoria
+4 Basorexia
+x Hunger | Thirst | Tiredness | Pain | Cold | Sleepy | Itchy | Hungry | Tired :: A sensation in the body rather than an emotion.
+x Emotion | Feeling | Feelings | Mood | Emotional | Emoji :: Which one? Name it.

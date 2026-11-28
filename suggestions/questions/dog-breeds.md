@@ -6,348 +6,652 @@ Rules: Any dog breed, past or present. Established crossbreeds with their own na
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (308 answers)
+## Accepted now (600 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
-- Labrador Retriever — Labrador | Lab
-- German Shepherd — Alsatian | German Shepherd Dog | GSD
-- Golden Retriever — Golden
-- Poodle — Standard Poodle | Toy Poodle | Miniature Poodle
-- Bulldog — English Bulldog | British Bulldog
-- Chihuahua
-- Beagle
-- Pug
-- Dachshund — Sausage dog | Wiener dog | Doxie | Miniature Dachshund | Daschund | Dachsund
-- Siberian Husky — Husky
+- Labrador Retriever — Labrador | Lab | Yellow Lab | Black Lab | Chocolate Lab | Yellow Labrador | Black Labrador | Chocolate Labrador | Fox red Labrador | Golden Lab | Golden Labrador | Labrador dog | Labby | English Labrador | American Labrador | Labrador Retriever dog | Yellow Lab dog | Black Lab dog | Chocolate Lab dog | Yellow Labrador dog | Black Labrador dog | Chocolate Labrador dog | Fox red Labrador dog | Golden Lab dog | Golden Labrador dog | Labby dog | English Labrador dog | American Labrador dog
+- German Shepherd — Alsatian | German Shepherd Dog | GSD | Deutscher Schäferhund | Schäferhund | Berger Allemand | Pastor Alemán | German Shepard | German Sheperd | Long-haired German Shepherd | Black German Shepherd | Alsatian dog | Deutscher Schäferhund dog | Schäferhund dog | Berger Allemand dog | Pastor Alemán dog | German Shepard dog | German Sheperd dog | Long-haired German Shepherd dog | Black German Shepherd dog
+- Golden Retriever — Golden | Goldie | English Cream Golden Retriever | Golden retreiver | Golden Retriever dog | Golden dog | Goldie dog | English Cream Golden Retriever dog | Golden retreiver dog
+- Poodle — Standard Poodle | Toy Poodle | Miniature Poodle | Mini Poodle | Teacup Poodle | Medium Poodle | Caniche | Pudel | French Poodle | Moyen Poodle | Poodle dog | Standard Poodle dog | Toy Poodle dog | Miniature Poodle dog | Mini Poodle dog | Teacup Poodle dog | Medium Poodle dog | Caniche dog | Pudel dog | French Poodle dog | Moyen Poodle dog
+- Bulldog — English Bulldog | British Bulldog | Bulldogge | Bolldog | Bullldog | Bullddog | Billdog
+- Chihuahua — Chiwawa | Chiwowa | Teacup Chihuahua | Long-haired Chihuahua | Apple head Chihuahua | Chi | Chihuahua dog | Chiwawa dog | Chiwowa dog | Teacup Chihuahua dog | Long-haired Chihuahua dog | Apple head Chihuahua dog | Chiuaua | Chihuaha | Chiuahua
+- Beagle — Beagle dog
+- Pug — Mops | Carlin | Pug dog | Mops dog | Carlin dog
+- Dachshund — Sausage dog | Wiener dog | Doxie | Miniature Dachshund | Daschund | Dachsund | Teckel | Dackel | Mini Dachshund | Wire-haired Dachshund | Long-haired Dachshund | Badger dog | Dashund | Daxie | Dachshund dog | Doxie dog | Miniature Dachshund dog | Daschund dog | Dachsund dog | Teckel dog | Dackel dog | Mini Dachshund dog | Wire-haired Dachshund dog | Long-haired Dachshund dog | Dashund dog | Daxie dog | Sausage
+- Siberian Husky — Husky | Siberian | Sibe | Siberian Huskie | Siberian Husky dog | Husky dog | Siberian dog | Sibe dog | Siberian Huskie dog | Huskie | Huskey
 
 ### Tier 2: common (31)
 
-- Rottweiler — Rottie
-- Border Collie
-- Boxer
-- Dalmatian
-- Great Dane — Deutsche Dogge
-- Yorkshire Terrier — Yorkie
-- Jack Russell Terrier — Jack Russell | Russell Terrier
-- Cocker Spaniel — English Cocker Spaniel | American Cocker Spaniel | Cocker
-- Pomeranian — Pom
-- Shih Tzu — Shitzu
-- French Bulldog — Frenchie
-- Dobermann — Doberman | Doberman Pinscher | Dobie | Dobe
-- Greyhound
-- Pembroke Welsh Corgi — Corgi | Welsh Corgi | Pembroke Corgi
-- Labradoodle
-- Cockapoo — Cockerpoo | Spoodle
-- Saint Bernard — St Bernard
-- Rough Collie — Collie
-- Staffordshire Bull Terrier — Staffy | Staffie
-- American Pit Bull Terrier — Pit Bull
-- Schnauzer — Miniature Schnauzer | Giant Schnauzer | Standard Schnauzer
-- Maltese
-- Whippet
-- Chow Chow — Chow
-- Akita — Akita Inu | American Akita
-- Basset Hound — Basset
-- Bloodhound
-- English Springer Spaniel — Springer Spaniel | Springer
-- Bichon Frise — Bichon
-- Shar Pei — Chinese Shar-Pei
-- Basenji
+- Rottweiler — Rottie | Rotweiler | Rottweiller | Rott | Rottweiler dog | Rottie dog | Rotweiler dog | Rottweiller dog | Rott dog | Tott
+- Border Collie — Border Collie dog
+- Boxer — Boxer dog
+- Dalmatian — Dalmation | Dalmatian dog | Carriage dog | Firehouse dog | Dalmation dog
+- Great Dane — Deutsche Dogge | Dane | German Mastiff | Dogue Allemand | Boarhound | German Boarhound | Apollo of dogs | Great Dane dog | Dane dog | German Mastiff dog | Boarhound dog | German Boarhound dog
+- Yorkshire Terrier — Yorkie | Yorky | Yorkshire | Teacup Yorkie | Yorkshire Terrier dog | Yorkie dog | Yorky dog | Yorkshire dog | Teacup Yorkie dog
+- Jack Russell Terrier — Jack Russell | Russell Terrier | Jack Russell Terrier dog | Jack Russell dog | Russell Terrier dog | JRT
+- Cocker Spaniel — English Cocker Spaniel | American Cocker Spaniel | Cocker | Cocker Spaniel dog | English Cocker Spaniel dog | American Cocker Spaniel dog | Cocker dog
+- Pomeranian — Pom | Pomeranian Spitz | Zwergspitz | Dwarf Spitz | Toy German Spitz | Pomeranian dog | Pomeranian Spitz dog | Zwergspitz dog | Dwarf Spitz dog | Toy German Spitz dog
+- Shih Tzu — Shitzu | Shitsu | Shitzhu | Imperial Shih Tzu | Shih Tzu dog | Shitzu dog | Shitsu dog | Shitzhu dog | Imperial Shih Tzu dog
+- French Bulldog — Frenchie | Bouledogue Français | Frenchy | Frenchie dog | Frenchy dog
+- Dobermann — Doberman | Doberman Pinscher | Dobie | Dobe | Dobermann Pinscher | Doberman dog | Dobermann dog | Doberman Pinscher dog | Dobie dog | Dobe dog | Dobermann Pinscher dog
+- Greyhound — English Greyhound | Racing Greyhound | Greyhound dog | English Greyhound dog | Racing Greyhound dog
+- Pembroke Welsh Corgi — Corgi | Welsh Corgi | Pembroke Corgi | Pembroke | Pembroke Welsh Corgi dog | Corgi dog | Welsh Corgi dog | Pembroke Corgi dog | Pembroke dog | Queen's corgi
+- Labradoodle — Labradoodle dog | Labrapoo | Doodle | Labrapoo dog | Doodle dog
+- Cockapoo — Cockerpoo | Spoodle | Cocker Poodle | Cockadoodle | Cockapoo dog | Cockerpoo dog | Spoodle dog | Cocker Poodle dog | Cockadoodle dog
+- Saint Bernard — St Bernard | St. Bernard dog | Saint Bernard dog | Bernhardiner | Bernhardiner dog
+- Rough Collie — Collie | Scottish Collie | Long-haired Collie | Lassie Collie | Rough Collie dog | Collie dog | Scottish Collie dog | Long-haired Collie dog | Lassie Collie dog
+- Staffordshire Bull Terrier — Staffy | Staffie | Staff | Stafford | English Staffordshire Bull Terrier | Staffordshire Bull Terrier dog | Staffy dog | Staffie dog | Staff dog | Stafford dog | English Staffordshire Bull Terrier dog | English staffy | English staffie
+- American Pit Bull Terrier — Pit Bull | Pittie | Pitty | Pit | American Pit Bull | Pit Bull Terrier | Pitbull dog | American Pit Bull Terrier dog | Pittie dog | Pitty dog | American Pit Bull dog | Pit Bull Terrier dog
+- Schnauzer — Miniature Schnauzer | Giant Schnauzer | Standard Schnauzer | Mini Schnauzer | Riesenschnauzer | Zwergschnauzer | Mittelschnauzer | Schnauzer dog | Miniature Schnauzer dog | Giant Schnauzer dog | Standard Schnauzer dog | Mini Schnauzer dog | Riesenschnauzer dog | Zwergschnauzer dog | Mittelschnauzer dog | Snauzer | Shnauzer | Schnauser
+- Maltese — Maltese dog | Maltese terrier
+- Whippet — Snap dog | Poor man's racehorse | Whippet dog | Poor man's racehorse dog
+- Chow Chow — Chow | Chinese Chow | Songshi Quan | Chow Chow dog | Chow dog | Chinese Chow dog | Songshi Quan dog
+- Akita — Akita Inu | American Akita | Japanese Akita | Great Japanese Dog | Akita Ken | Akita dog | Akita Inu dog | American Akita dog | Japanese Akita dog | Akita Ken dog
+- Basset Hound — Basset | Basset Hund | Basset Hound dog | Basset dog | Basset Hund dog
+- Bloodhound — St Hubert Hound | Saint Hubert Hound | Chien de Saint-Hubert | Bloodhound dog | St Hubert Hound dog | Saint Hubert Hound dog | Chien de Saint-Hubert dog
+- English Springer Spaniel — Springer Spaniel | Springer | English Springer Spaniel dog | Springer Spaniel dog | Springer dog
+- Bichon Frise — Bichon | Bichon Frise dog | Bichon dog
+- Shar Pei — Chinese Shar-Pei | Chinese Fighting Dog | Shar Pei dog | Chinese Shar-Pei dog
+- Basenji — Congo Dog | Congo Terrier | Barkless dog | Basenji dog | Congo Terrier dog
 
-### Tier 3: known to fans (58)
+### Tier 3: known to fans (64)
 
-- Cavalier King Charles Spaniel — Cavalier
-- Weimaraner — Weim
-- Vizsla
-- Samoyed
-- Alaskan Malamute — Malamute
-- Shiba Inu — Shiba
-- Bernese Mountain Dog — Bernese | Berner
-- Newfoundland — Newfie
-- Irish Wolfhound — Wolfhound
-- Afghan Hound — Afghan
-- Lhasa Apso
-- Pekingese — Peke
-- Papillon
-- West Highland White Terrier — Westie | West Highland Terrier
-- Scottish Terrier — Scottie | Scotty
-- Bull Terrier — English Bull Terrier
-- Airedale Terrier — Airedale
-- Border Terrier
-- Old English Sheepdog — Bobtail
-- Shetland Sheepdog — Sheltie
-- Australian Shepherd — Aussie
-- Mastiff — English Mastiff
-- Bullmastiff
-- Cane Corso — Italian Mastiff
-- Rhodesian Ridgeback — Ridgeback
-- Boston Terrier
-- Miniature Pinscher — Min Pin
-- Havanese
-- Dogue de Bordeaux — French Mastiff
-- Great Pyrenees — Pyrenean Mountain Dog
-- Pointer — English Pointer
-- Irish Setter — Red Setter
-- English Setter
-- Saluki
-- Borzoi — Russian Wolfhound
-- Italian Greyhound
-- Leonberger
-- Keeshond
-- Goldendoodle — Groodle
-- Cavapoo — Cavoodle
-- Puggle
-- Maltipoo — Moodle
-- Australian Cattle Dog — Blue Heeler | Heeler | Red Heeler | Queensland Heeler
-- Kelpie — Australian Kelpie
-- Belgian Malinois — Malinois
-- German Shorthaired Pointer — GSP
-- Bearded Collie
-- Komondor — Hungarian Sheepdog | Mop dog
-- Xoloitzcuintli — Xolo | Mexican Hairless | Xoloitzcuintle
+- Cavalier King Charles Spaniel — Cavalier | Cav | King Charles Cavalier | Cavalier King Charles | CKCS | Cavalier King Charles Spaniel dog | Cavalier dog | King Charles Cavalier dog | Cavalier King Charles dog | CKCS dog | King Charles | Cavvy
+- Weimaraner — Weim | Grey Ghost | Weimaraner Vorstehhund | Weimeraner | Long-haired Weimaraner | Weimaraner dog | Weim dog | Grey Ghost dog | Weimaraner Vorstehhund dog | Weimeraner dog | Long-haired Weimaraner dog
+- Vizsla — Hungarian Vizsla | Magyar Vizsla | Hungarian Pointer | Vizla | Vizsla dog | Hungarian Vizsla dog | Magyar Vizsla dog | Hungarian Pointer dog | Vizla dog
+- Samoyed — Samoyed dog | Sammy | Sammie
+- Alaskan Malamute — Malamute | Alaskan Malamute dog | Malamute dog
+- Shiba Inu — Shiba | Shiba Inu dog | Shiba dog | Doge
+- Bernese Mountain Dog — Bernese | Berner | Berner Sennenhund | Bernese Mountain | Berner Sennen | Bernese dog | Berner dog | Berner Sennenhund dog | Berner Sennen dog
+- Newfoundland — Newfie | Newfoundland dog | Newf | Newfie dog | Newf dog
+- Irish Wolfhound — Wolfhound | Cú Faoil | Irish Wolf Dog | Irish Wolfhound dog | Wolfhound dog | Cú Faoil dog
+- Afghan Hound — Afghan | Tazi | Baluchi Hound | Bakhmull | Kuchi Hound | Afghan Hound dog | Afghan dog | Tazi dog | Baluchi Hound dog | Bakhmull dog | Kuchi Hound dog
+- Lhasa Apso — Lhasa | Apso | Lhasa Apso dog | Lhasa dog | Apso dog
+- Pekingese — Peke | Pekinese | Lion dog of Peking | Pekingese dog | Peke dog | Pekinese dog
+- Papillon — Papillon dog
+- West Highland White Terrier — Westie | West Highland Terrier | West Highland | Westy | Poltalloch Terrier | Roseneath Terrier | West Highland White Terrier dog | Westie dog | West Highland Terrier dog | West Highland dog | Westy dog | Poltalloch Terrier dog | Roseneath Terrier dog
+- Scottish Terrier — Scottie | Scotty | Aberdeen Terrier | Scottish Terrier dog | Scottie dog | Scotty dog | Aberdeen Terrier dog
+- Bull Terrier — English Bull Terrier | Bull Terrier dog | English Bull Terrier dog
+- Airedale Terrier — Airedale | Airedale Terrier dog | Airedale dog
+- Border Terrier — Border Terrier dog
+- Old English Sheepdog — Bobtail | Bobtail dog | Dulux dog
+- Shetland Sheepdog — Sheltie | Shetland Collie | Miniature Collie | Sheltie dog | Shetland Collie dog | Miniature Collie dog
+- Australian Shepherd — Aussie | Aussie Shepherd | Australian Shepard | Australian Shepherd dog | Aussie dog | Aussie Shepherd dog | Australian Shepard dog
+- Mastiff — English Mastiff | Mastiff dog | English Mastiff dog
+- Bullmastiff — Bullmastiff dog
+- Cane Corso — Italian Mastiff | Corso | Cane Corso Italiano | Cane Corso dog | Italian Mastiff dog | Corso dog | Cane Corso Italiano dog
+- Rhodesian Ridgeback — Ridgeback | African Lion Hound | African Lion Dog | Rhodesian Ridgeback dog | Ridgeback dog | African Lion Hound dog | Ridgie
+- Boston Terrier — Boston Terrier dog
+- Miniature Pinscher — Min Pin | Zwergpinscher | Mini Pinscher | Miniature Pinscher dog | Min Pin dog | Zwergpinscher dog | Mini Pinscher dog
+- Havanese — Bichon Havanais | Havana Silk Dog | Havanese dog | Bichon Havanais dog
+- Dogue de Bordeaux — French Mastiff | French Mastiff dog | Dogue | Bordeaux
+- Great Pyrenees — Pyrenean Mountain Dog | Pyrenean | Pyr | Chien de Montagne des Pyrénées | Patou | Great Pyrenees dog | Pyrenean dog | Chien de Montagne des Pyrénées dog | Patou dog
+- Pointer — English Pointer | Pointer dog | English Pointer dog
+- Irish Setter — Red Setter | Irish Red Setter | Irish Setter dog | Red Setter dog | Irish Red Setter dog
+- English Setter — English Setter dog
+- Saluki — Persian Greyhound | Arabian Greyhound | Gazelle Hound | Royal Dog of Egypt | Saluki dog | Persian Greyhound dog | Arabian Greyhound dog | Gazelle Hound dog
+- Borzoi — Russian Wolfhound | Russian Hunting Sighthound | Barzoi | Borzoi dog | Russian Wolfhound dog | Russian Hunting Sighthound dog | Barzoi dog
+- Italian Greyhound — Iggy | Piccolo Levriero Italiano | Italian Greyhound dog | Iggy dog | Piccolo Levriero Italiano dog
+- Leonberger — Leonberger dog
+- Keeshond — Wolfspitz | Dutch Barge Dog | Keeshond dog | Wolfspitz dog
+- Goldendoodle — Groodle | Goldenpoo | Golden Poodle | Goldendoodle dog | Groodle dog | Goldenpoo dog | Golden Poodle dog
+- Cavapoo — Cavoodle | Cavadoodle | Cavoodle dog | Cavapoo dog | Cavadoodle dog
+- Puggle — Pug Beagle | Puggle dog | Pug Beagle dog
+- Maltipoo — Moodle | Maltepoo | Maltapoo | Maltese Poodle | Maltipoo dog | Moodle dog | Maltepoo dog | Maltapoo dog | Maltese Poodle dog
+- Australian Cattle Dog — Blue Heeler | Heeler | Red Heeler | Queensland Heeler | Cattle dog | Queensland Blue Heeler | Blue heeler dog | Heeler dog | Red Heeler dog | Queensland Heeler dog | Queensland Blue Heeler dog | Bluey
+- Kelpie — Australian Kelpie | Working Kelpie | Show Kelpie | Kelpie dog | Australian Kelpie dog | Working Kelpie dog | Show Kelpie dog
+- Belgian Malinois — Malinois | Mal | Belgian Shepherd Malinois | Mechelaar | Belgian Malinois dog | Malinois dog | Belgian Shepherd Malinois dog | Mechelaar dog
+- German Shorthaired Pointer — GSP | Deutsch Kurzhaar | Kurzhaar | German Shorthaired Pointer dog | Deutsch Kurzhaar dog | Kurzhaar dog
+- Bearded Collie — Bearded Collie dog
+- Komondor — Hungarian Sheepdog | Mop dog | Komondor dog
+- Xoloitzcuintli — Xolo | Mexican Hairless | Xoloitzcuintle | Mexican Hairless Dog | Xolos | Xoloitzquintle | Xoloitzcuintle dog | Xoloitzcuintli dog | Xolo dog | Xolos dog | Xoloitzquintle dog
 - Chinese Crested — Chinese Crested Dog
-- Cairn Terrier
-- Fox Terrier — Wire Fox Terrier | Smooth Fox Terrier | Wire-haired Fox Terrier
-- American Staffordshire Terrier — AmStaff | Staffordshire Terrier
-- Patterdale Terrier
-- Lurcher
+- Cairn Terrier — Cairn Terrier dog
+- Fox Terrier — Wire Fox Terrier | Smooth Fox Terrier | Wire-haired Fox Terrier | Wire Fox | Smooth Fox | Fox Terrier dog | Wire Fox Terrier dog | Smooth Fox Terrier dog | Wire-haired Fox Terrier dog | Wire Fox dog | Smooth Fox dog | Foxie | Foxy | Foxies
+- American Staffordshire Terrier — AmStaff | Staffordshire Terrier | American Staffordshire Terrier dog | AmStaff dog | Staffordshire Terrier dog
+- Patterdale Terrier — Patterdale | Black Fell Terrier | Patterdale Terrier dog | Patterdale dog | Black Fell Terrier dog
+- Lurcher — Lurcher dog
 - American Bulldog
-- American Bully — XL Bully | Bully XL
-- Belgian Shepherd — Belgian Shepherd Dog
+- American Bully — XL Bully | Bully XL | Bully | Pocket Bully | Bully dog | American Bully dog | XL Bully dog | Bully XL dog | Pocket Bully dog
+- Belgian Shepherd — Belgian Shepherd Dog | Chien de Berger Belge | Belgian Sheepdog | Chien de Berger Belge dog
+- Yorkipoo — Yorkiepoo | Yorkapoo | Yorkipoo dog | Yorkiepoo dog | Yorkapoo dog
+- Shih-poo — Shoodle | Shih-poo dog | Shoodle dog
+- Aussiedoodle — Aussiepoo | Aussiedoodle dog | Aussiepoo dog
+- Chiweenie — Chiweenie dog
+- Pomchi — Pomchi dog
+- Zuchon — Shichon | Teddy Bear Dog | Teddy Bear | Zuchon dog | Shichon dog
 
-### Tier 4: obscure (102)
+### Tier 4: obscure (203)
 
-- Puli — Pulik
-- Bedlington Terrier
-- Dandie Dinmont Terrier
-- Sealyham Terrier
-- Lakeland Terrier
-- Welsh Terrier
-- Kerry Blue Terrier
-- Soft-coated Wheaten Terrier — Wheaten Terrier | Wheaten
-- Norfolk Terrier
-- Norwich Terrier
-- Skye Terrier
-- Manchester Terrier
-- Parson Russell Terrier
-- Rat Terrier
-- Affenpinscher
-- Brussels Griffon — Griffon Bruxellois
-- Japanese Chin
-- Tibetan Spaniel
-- Tibetan Terrier
-- Tibetan Mastiff
-- Anatolian Shepherd — Anatolian Shepherd Dog
-- Kangal — Kangal Shepherd
-- Caucasian Shepherd
-- Neapolitan Mastiff
-- Presa Canario
-- Boerboel
-- Fila Brasileiro
-- Tosa
-- Dogo Argentino
-- Bouvier des Flandres — Bouvier
-- Briard
-- Beauceron
-- Portuguese Water Dog
-- Spanish Water Dog
-- Lagotto Romagnolo — Lagotto
-- Flat-coated Retriever
-- Chesapeake Bay Retriever
-- Nova Scotia Duck Tolling Retriever — Toller | Duck Tolling Retriever
-- Curly-coated Retriever
-- Clumber Spaniel
-- Sussex Spaniel
-- Field Spaniel
-- Welsh Springer Spaniel
-- Brittany — Brittany Spaniel
-- German Wirehaired Pointer
-- Spinone Italiano — Spinone | Italian Spinone
-- Bracco Italiano
-- Pharaoh Hound
-- Ibizan Hound
-- Scottish Deerhound — Deerhound
-- Otterhound
-- Harrier
-- Foxhound — English Foxhound | American Foxhound
-- Coonhound — Black and Tan Coonhound
-- Petit Basset Griffon Vendéen — PBGV
-- Norwegian Elkhound
-- Finnish Spitz
-- Swedish Vallhund
-- Cardigan Welsh Corgi — Cardigan Corgi
-- Jindo
+- Puli — Pulik | Puli dog | Pulik dog
+- Bedlington Terrier — Bedlington Terrier dog
+- Dandie Dinmont Terrier — Dandie Dinmont Terrier dog
+- Sealyham Terrier — Sealyham Terrier dog
+- Lakeland Terrier — Lakeland Terrier dog
+- Welsh Terrier — Welsh Terrier dog
+- Kerry Blue Terrier — Kerry Blue | Irish Blue Terrier | Kerry Blue Terrier dog | Kerry Blue dog | Irish Blue Terrier dog
+- Soft-coated Wheaten Terrier — Wheaten Terrier | Wheaten | Irish Soft-coated Wheaten Terrier | Wheatie | Soft-coated Wheaten Terrier dog | Wheaten Terrier dog | Wheaten dog | Irish Soft-coated Wheaten Terrier dog | Wheatie dog
+- Norfolk Terrier — Norfolk Terrier dog
+- Norwich Terrier — Norwich Terrier dog
+- Skye Terrier — Skye Terrier dog
+- Manchester Terrier — Toy Manchester Terrier | English Black and Tan | Manchester Terrier dog | Toy Manchester Terrier dog | English Black and Tan dog
+- Parson Russell Terrier — Parson Russell Terrier dog
+- Rat Terrier — Rat Terrier dog
+- Affenpinscher — Affenpinscher dog
+- Brussels Griffon — Griffon Bruxellois | Griffon | Belgian Griffon | Griffon Belge | Petit Brabançon | Brabançon | Brussels Griffon dog | Griffon Bruxellois dog | Griffon dog | Belgian Griffon dog | Griffon Belge dog | Petit Brabançon dog | Brabançon dog
+- Japanese Chin — Chin | Japanese Spaniel | Japanese Chin dog | Chin dog | Japanese Spaniel dog
+- Tibetan Spaniel — Tibetan Spaniel dog
+- Tibetan Terrier — Tibetan Terrier dog
+- Tibetan Mastiff — Do Khyi | Tibetan Mastif | Tibetan Mastiff dog | Do Khyi dog | Tibetan Mastif dog
+- Anatolian Shepherd — Anatolian Shepherd Dog | Coban Kopegi | Coban Kopegi dog
+- Kangal — Kangal Shepherd | Kangal Shepherd Dog | Kangal Dog | Turkish Kangal | Turkish Kangal dog
+- Caucasian Shepherd — Caucasian Ovcharka | Caucasian Shepherd Dog | Kavkazskaya Ovcharka | Caucasian Ovcharka dog | Kavkazskaya Ovcharka dog
+- Neapolitan Mastiff — Mastino Napoletano | Mastino | Neo | Neapolitan Mastiff dog | Mastino Napoletano dog | Mastino dog
+- Presa Canario — Dogo Canario | Canary Mastiff | Perro de Presa Canario | Canario | Presa | Presa Canario dog | Canary Mastiff dog | Perro de Presa Canario dog | Canario dog | Presa dog
+- Boerboel — Boerboel dog
+- Fila Brasileiro — Brazilian Mastiff | Fila | Fila Brasileiro dog | Brazilian Mastiff dog | Fila dog
+- Tosa — Tosa Inu | Tosa Ken | Japanese Mastiff | Tosa dog | Tosa Inu dog | Tosa Ken dog | Japanese Mastiff dog
+- Dogo Argentino — Dogo | Argentine Mastiff | Argentinian Mastiff | Argentine Mastiff dog | Argentinian Mastiff dog
+- Bouvier des Flandres — Bouvier | Bouvier des Flandres dog | Bouvier dog
+- Briard — Briard dog
+- Beauceron — Beauceron dog
+- Portuguese Water Dog — Cão de Água | Portie | Cão de Água dog | Portie dog
+- Spanish Water Dog — Perro de Agua Español | Perro de Agua | Perro de Agua Español dog | Perro de Agua dog
+- Lagotto Romagnolo — Lagotto | Romagna Water Dog | Truffle dog | Lagotto Romagnolo dog | Lagotto dog
+- Flat-coated Retriever — Flat-coated Retriever dog
+- Chesapeake Bay Retriever — Chesapeake Bay Retriever dog
+- Nova Scotia Duck Tolling Retriever — Toller | Duck Tolling Retriever | Duck Toller | Nova Scotia Retriever | Tolling Retriever | Nova Scotia Duck Tolling Retriever dog | Toller dog | Duck Tolling Retriever dog | Duck Toller dog | Nova Scotia Retriever dog | Tolling Retriever dog
+- Curly-coated Retriever — Curly-coated Retriever dog
+- Clumber Spaniel — Clumber Spaniel dog
+- Sussex Spaniel — Sussex Spaniel dog
+- Field Spaniel — Field Spaniel dog
+- Welsh Springer Spaniel — Welsh Springer Spaniel dog
+- Brittany — Brittany Spaniel | Épagneul Breton | Breton Spaniel | American Brittany | Brittany dog | Brittany Spaniel dog | Épagneul Breton dog | Breton Spaniel dog | American Brittany dog
+- German Wirehaired Pointer — Deutsch Drahthaar | Drahthaar | GWP | German Wirehaired Pointer dog | Deutsch Drahthaar dog | Drahthaar dog
+- Spinone Italiano — Spinone | Italian Spinone | Italian Griffon | Spinoni | Spinone Italiano dog | Spinone dog | Italian Spinone dog | Italian Griffon dog | Spinoni dog
+- Bracco Italiano — Bracco | Italian Pointer | Italian Pointing Dog | Bracco Italiano dog | Bracco dog | Italian Pointer dog
+- Pharaoh Hound — Kelb tal-Fenek | Pharaoh Hound dog | Kelb tal-Fenek dog
+- Ibizan Hound — Podenco Ibicenco | Podenco | Ca Eivissenc | Ibizan Hound dog | Podenco Ibicenco dog | Podenco dog | Ca Eivissenc dog
+- Scottish Deerhound — Deerhound | Scotch Deerhound | Scottish Deerhound dog | Deerhound dog | Scotch Deerhound dog
+- Otterhound — Otterhound dog
+- Harrier — Harrier dog
+- Foxhound — English Foxhound | American Foxhound | Virginia Hound | Foxhound dog | English Foxhound dog | American Foxhound dog | Virginia Hound dog
+- Coonhound — Black and Tan Coonhound | Black and Tan | Black and Tan Hound | Coon dog | Coonhound dog | Black and Tan Coonhound dog | Black and Tan dog | Black and Tan Hound dog
+- Petit Basset Griffon Vendéen — PBGV | Petit Basset | Petit Basset Griffon | Petit Basset Griffon Vendéen dog | PBGV dog | Petit Basset dog | Petit Basset Griffon dog
+- Norwegian Elkhound — Elkhound | Norsk Elghund | Grey Elkhound | Norwegian Elkhound dog | Elkhound dog | Norsk Elghund dog | Grey Elkhound dog
+- Finnish Spitz — Finnish Spitz dog
+- Swedish Vallhund — Vallhund | Västgötaspets | Swedish Cow Dog | Swedish Vallhund dog | Vallhund dog | Västgötaspets dog
+- Cardigan Welsh Corgi — Cardigan Corgi | Cardigan Welsh Corgi dog | Cardigan Corgi dog
+- Jindo — Korean Jindo | Jindo Dog | Jindo-gae | Korean Jindo dog | Jindo-gae dog
 - American Eskimo Dog
-- Schipperke
-- Greater Swiss Mountain Dog — Swissy
-- Entlebucher Mountain Dog
-- Kuvasz
+- Schipperke — Schipperke dog
+- Greater Swiss Mountain Dog — Swissy | Swiss Mountain Dog | Grosser Schweizer Sennenhund | Great Swiss Mountain Dog | Swissy dog | Grosser Schweizer Sennenhund dog
+- Entlebucher Mountain Dog — Entlebucher | Entlebucher Sennenhund | Entle | Entlebucher dog | Entlebucher Sennenhund dog | Entle dog
+- Kuvasz — Hungarian Kuvasz | Kuvasz dog | Hungarian Kuvasz dog
 - Catahoula Leopard Dog
-- Black Russian Terrier
-- Coton de Tuléar — Coton
-- Bolognese
-- Löwchen
-- Czechoslovakian Wolfdog — Czech Wolfdog
+- Black Russian Terrier — Black Russian Terrier dog
+- Coton de Tuléar — Coton | Coton de Tuléar dog | Coton dog
+- Bolognese — Bichon Bolognese | Bolo | Bolognese dog | Bichon Bolognese dog | Bolo dog
+- Löwchen — Löwchen dog
+- Czechoslovakian Wolfdog — Czech Wolfdog | Wolfdog | Czechoslovakian Vlčák | Vlcak | Ceskoslovensky Vlcak | Czechoslovakian Vlčák dog | Vlcak dog | Ceskoslovensky Vlcak dog
 - Saarloos Wolfdog
-- Alaskan Klee Kai
-- Australian Terrier
-- Silky Terrier
-- Toy Fox Terrier
-- Chinook
-- Eurasier
-- Hovawart
-- Polish Lowland Sheepdog
-- Bergamasco
-- Pyrenean Mastiff — Mastín del Pirineo
-- Estrela Mountain Dog
-- Plott Hound
-- Bluetick Coonhound — Bluetick
-- Redbone Coonhound
-- Treeing Walker Coonhound
-- Sprocker
-- Jackapoo
-- Schnoodle
-- Dingo
-- German Spitz
-- German Pinscher
-- Pomsky
-- Bernedoodle
-- Cavachon
-- Irish Terrier
-- Morkie
-- Maremma Sheepdog — Maremma | Maremmano-Abruzzese
-- Huntaway — New Zealand Huntaway
-- Sheepadoodle
-- King Charles Spaniel — English Toy Spaniel
+- Alaskan Klee Kai — Klee Kai | Miniature Husky | Mini Husky | Alaskan Klee Kai dog | Klee Kai dog | Miniature Husky dog | Mini Husky dog
+- Australian Terrier — Aussie Terrier | Australian Terrier dog | Aussie Terrier dog
+- Silky Terrier — Australian Silky Terrier | Sydney Silky | Silky Terrier dog | Australian Silky Terrier dog | Sydney Silky dog | Silky | Silkie
+- Toy Fox Terrier — Toy Fox Terrier dog
+- Chinook — Chinook dog
+- Eurasier — Eurasier dog
+- Hovawart — Hovawart dog
+- Polish Lowland Sheepdog — PON | Polski Owczarek Nizinny | Nizinny | Polski Owczarek Nizinny dog | Nizinny dog
+- Bergamasco — Bergamasco dog
+- Pyrenean Mastiff — Mastín del Pirineo | Pyrenean Mastiff dog | Mastín del Pirineo dog
+- Estrela Mountain Dog — Cão da Serra da Estrela | Estrela | Cão da Serra da Estrela dog | Estrela dog
+- Plott Hound — Plott Hound dog
+- Bluetick Coonhound — Bluetick | Bluetick Hound | Bluetick Coonhound dog | Bluetick dog | Bluetick Hound dog
+- Redbone Coonhound — Redbone Coonhound dog
+- Treeing Walker Coonhound — Walker Hound | Treeing Walker | Treeing Walker Coonhound dog | Walker Hound dog | Treeing Walker dog
+- Sprocker — Sprocker Spaniel | Sprocker dog | Sprocker Spaniel dog
+- Jackapoo — Jackadoodle | Jackpoo | Jackapoo dog | Jackadoodle dog | Jackpoo dog
+- Schnoodle — Schnauzerpoo | Schnauzer Poodle | Schnoodle dog | Schnauzerpoo dog | Schnauzer Poodle dog
+- Dingo — Australian Dingo | Warrigal | Dingo dog | Australian Dingo dog | Warrigal dog
+- German Spitz — Deutscher Spitz | Klein Spitz | Mittelspitz | Grossspitz | German Spitz dog | Deutscher Spitz dog | Klein Spitz dog | Mittelspitz dog | Grossspitz dog
+- German Pinscher — Deutscher Pinscher | Standard Pinscher | German Pinscher dog | Deutscher Pinscher dog | Standard Pinscher dog
+- Pomsky — Pomeranian Husky | Husky Pomeranian | Pomsky dog | Pomeranian Husky dog | Husky Pomeranian dog
+- Bernedoodle — Bernese Poodle | Bernepoo | Bernedoodle dog | Bernese Poodle dog | Bernepoo dog
+- Cavachon — Cavalier Bichon | Cavachon dog | Cavalier Bichon dog
+- Irish Terrier — Irish Terrier dog
+- Morkie — Yorktese | Morkie dog | Yorktese dog
+- Maremma Sheepdog — Maremma | Maremmano-Abruzzese | Pastore Maremmano | Abruzzese Sheepdog | Mastino Abruzzese | Maremma dog | Maremmano-Abruzzese dog | Pastore Maremmano dog | Mastino Abruzzese dog
+- Huntaway — New Zealand Huntaway | Huntaway dog | New Zealand Huntaway dog
+- Sheepadoodle — Sheepdoodle | Sheepadoodle dog | Sheepdoodle dog
+- King Charles Spaniel — English Toy Spaniel | King Charles Spaniel dog | English Toy Spaniel dog
+- Smooth Collie — Smooth-coated Collie | Smooth Collie dog | Smooth-coated Collie dog
+- White Swiss Shepherd — Berger Blanc Suisse | White Shepherd | White German Shepherd | American White Shepherd | Swiss White Shepherd | White Swiss Shepherd dog | Berger Blanc Suisse dog | White Shepherd dog | White German Shepherd dog | American White Shepherd dog | Swiss White Shepherd dog
+- Miniature American Shepherd — Mini Aussie | Miniature Australian Shepherd | Mini Australian Shepherd | Miniature American Shepherd dog | Mini Aussie dog | Miniature Australian Shepherd dog | Mini Australian Shepherd dog
+- Central Asian Shepherd — Alabai | Central Asian Ovcharka | Central Asian Shepherd Dog | Turkmen Alabai | Alabai dog | Central Asian Ovcharka dog | Turkmen Alabai dog
+- Akbash — Akbash Dog
+- Landseer — Landseer Newfoundland | Landseer dog | Landseer Newfoundland dog
+- Shiloh Shepherd — Shiloh Shepherd dog
+- English Shepherd — English Shepherd dog
+- Welsh Sheepdog — Welsh Collie | Welsh Collie dog
+- Scotch Collie — Old-Time Scotch Collie | Scotch Collie dog | Old-Time Scotch Collie dog
+- Black Mouth Cur — Southern Cur | Black Mouth Cur dog | Southern Cur dog
+- McNab — McNab Shepherd | McNab Collie | McNab dog | McNab Shepherd dog | McNab Collie dog
+- Miniature Bull Terrier — Mini Bull Terrier | Miniature Bull Terrier dog | Mini Bull Terrier dog
+- Olde English Bulldogge — Olde English Bulldog | OEB
+- Alapaha Blue Blood Bulldog — Alapaha Bulldog | Alapaha | Alapaha dog
+- Australian Bulldog — Aussie Bulldog
+- Continental Bulldog — Conti | Conti dog
+- American Mastiff — American Mastiff dog
+- Broholmer — Danish Mastiff | Broholmer dog | Danish Mastiff dog
+- Exotic Bully — Exotic Bully dog
+- Bull Arab — Australian Pig Dog | Bull Arab dog
+- Dogue Brasileiro — Brazilian Dogue
+- American Hairless Terrier — American Hairless Terrier dog
+- Brazilian Terrier — Terrier Brasileiro | Fox Paulistinha | Brazilian Terrier dog | Terrier Brasileiro dog | Fox Paulistinha dog
+- Teddy Roosevelt Terrier — Teddy Roosevelt Terrier dog
+- Fell Terrier — Fell Terrier dog
+- Japanese Terrier — Nihon Teria | Japanese Terrier dog | Nihon Teria dog
+- Chilean Terrier — Chilean Fox Terrier | Ratonero | Chilean Terrier dog | Chilean Fox Terrier dog | Ratonero dog
+- Ratonero Bodeguero Andaluz — Andalusian Ratter | Bodeguero | Ratonero Bodeguero Andaluz dog | Andalusian Ratter dog | Bodeguero dog
+- Feist — Mountain Feist | Treeing Feist | Feist dog | Mountain Feist dog | Treeing Feist dog
+- Greenland Dog — Greenland Husky | Grønlandshund | Greenlandic sled dog | Greenland Husky dog | Grønlandshund dog
+- Canadian Eskimo Dog — Canadian Inuit Dog | Qimmiq | Inuit Sled Dog | Canadian Husky | Inuit Dog | Qimmiq dog | Canadian Husky dog
+- Alaskan Husky — Alaskan Husky dog
+- New Guinea Singing Dog — Singing Dog | New Guinea Dingo | New Guinea Dingo dog
+- Sakhalin Husky — Karafuto Ken | Sakhalin Husky dog | Karafuto Ken dog
+- Yakutian Laika — Yakutian Laika dog
+- West Siberian Laika — Laika | Zapadno-Sibirskaïa Laïka | West Siberian Laika dog | Laika dog | Zapadno-Sibirskaïa Laïka dog
+- English Coonhound — American English Coonhound | Redtick Coonhound | English Coonhound dog | American English Coonhound dog | Redtick Coonhound dog
+- Treeing Tennessee Brindle — Treeing Tennessee Brindle dog
+- Blue Lacy — Lacy Dog | Texas Blue Lacy | Blue Lacy dog | Texas Blue Lacy dog
+- Kerry Beagle — Kerry Beagle dog
+- Beagle-Harrier — Beagle-Harrier dog
+- Grand Bleu de Gascogne — Grand Bleu de Gascogne dog
+- Drever — Drever dog
+- Hamiltonstövare — Hamilton Hound | Hamiltonstövare dog | Hamilton Hound dog
+- American Leopard Hound — Leopard Cur | American Leopard Hound dog | Leopard Cur dog
+- Westphalian Dachsbracke — Dachsbracke | Westphalian Dachsbracke dog | Dachsbracke dog
+- Alpine Dachsbracke — Alpenländische Dachsbracke | Alpine Dachsbracke dog | Alpenländische Dachsbracke dog
+- Staghound — American Staghound | Staghound dog | American Staghound dog
+- Wirehaired Vizsla — Drótszőrű Magyar Vizsla | Hungarian Wirehaired Vizsla | Wirehaired Vizsla dog | Drótszőrű Magyar Vizsla dog | Hungarian Wirehaired Vizsla dog
+- German Longhaired Pointer — Deutsch Langhaar | German Longhaired Pointer dog | Deutsch Langhaar dog
+- Llewellin Setter — Llewellyn Setter | Llewellin Setter dog | Llewellyn Setter dog
+- Cesky Fousek — Bohemian Wirehaired Pointing Griffon | Cesky Fousek dog | Bohemian Wirehaired Pointing Griffon dog
+- Braque Français — French Pointer | Braque Français dog | French Pointer dog
+- French Spaniel — Épagneul Français | French Spaniel dog | Épagneul Français dog
+- German Spaniel — Deutscher Wachtelhund | Wachtelhund | German Spaniel dog | Deutscher Wachtelhund dog | Wachtelhund dog
+- Russian Spaniel — Russian Spaniel dog
+- Springador — Labradinger | Springerdor | Springador dog | Labradinger dog | Springerdor dog
+- Silken Windhound — Silken Windhound dog
+- Polish Greyhound — Chart Polski | Polish Greyhound dog | Chart Polski dog
+- Hungarian Greyhound — Magyar Agár | Hungarian Greyhound dog | Magyar Agár dog
+- Longdog
+- Kangaroo Dog — Australian Kangaroo Dog | Roo dog
+- Peekapoo — Peke-a-poo | Peekapoo dog | Peke-a-poo dog
+- Poochon — Bichon-poo | Bichpoo | Poochon dog | Bichon-poo dog | Bichpoo dog
+- Chorkie — Chorkie dog
+- Goldador — Goldador dog
+- Dorgi — Dorgis | Dorgi dog | Dorgis dog
+- Jug — Jack Russell Pug | Jack Russell Pug dog
+- Chug — Chihuahua Pug | Chug dog | Chihuahua Pug dog
+- Shorkie — Shorkie Tzu | Shorkie dog | Shorkie Tzu dog
+- Cavapoochon — Cavapoochon dog
+- Borador — Borador dog
+- Gerberian Shepsky — Shepsky | Gerberian Shepsky dog | Shepsky dog
+- Whoodle — Sweet Wheat | Wheatendoodle | Wheatenpoo | Whoodle dog | Sweet Wheat dog | Wheatendoodle dog | Wheatenpoo dog
+- Irish Doodle — Irish Setter Doodle | Irish Doodle dog | Irish Setter Doodle dog
+- Saint Berdoodle — St Berdoodle | Saint Berdoodle dog | St Berdoodle dog
+- Newfypoo — Newfiedoodle | Newfoundland Poodle | Newfypoo dog | Newfiedoodle dog | Newfoundland Poodle dog
+- Mal-shi — Malti-Tzu | Mal-shi dog | Malti-Tzu dog | Maltese shih tzu | Maltese x shih tzu | Maltese cross shih tzu | Maltese shih tzu cross | Shih tzu maltese | Shih tzu x maltese | Maltese shitzu
+- Cockalier — Cockalier dog
+- Corgipoo — Corgidoodle | Corgipoo dog | Corgidoodle dog
+- Westiepoo — Wee-poo | Westipoo | Westiepoo dog | Wee-poo dog | Westipoo dog
+- Pugapoo — Pugoodle | Pugapoo dog | Pugoodle dog
+- Bassetoodle — Bassetdoodle | Bassetoodle dog | Bassetdoodle dog
+- Beaglier — Beaglier dog
+- Bullmatian — Bullmatian dog
+- Labsky — Huskador | Labsky dog | Huskador dog
+- Pitsky — Pitsky dog
+- Goberian — Goberian dog
+- Frug — French Pug | Frug dog | French Pug dog
+- Bocker — Bocker dog
+- Rottle — Rottiepoo | Rottipoo | Rottle dog | Rottiepoo dog | Rottipoo dog
+- Doxiepoo — Doxiedoodle | Doodle Dachshund | Doxiepoo dog | Doxiedoodle dog | Doodle Dachshund dog
+- Jack-Chi — Jackhuahua | Jack-Chi dog | Jackhuahua dog
+- Chipoo — Poochi | Chipoo dog | Poochi dog
+- Pomapoo — Pomeranian Poodle | Pomapoo dog | Pomeranian Poodle dog
+- Havapoo — Poovanese | Havadoodle | Havapoo dog | Poovanese dog | Havadoodle dog
+- Australian Labradoodle — Aussie Labradoodle | Cobberdog | Australian Cobberdog | Australian Labradoodle dog | Aussie Labradoodle dog
+- Double Doodle — North American Retriever | Double Doodle dog | North American Retriever dog
+- Golden Cocker Retriever — Dakota Sport Retriever | Comfort Retriever | Golden Cocker Retriever dog | Dakota Sport Retriever dog | Comfort Retriever dog
+- Miniature Fox Terrier — Mini foxie | Mini Fox Terrier | Mini foxy | Miniature foxie
 
-### Tier 5: expert (105)
+### Tier 5: expert (290)
 
-- Azawakh
-- Sloughi
-- Finnish Lapphund
+- Azawakh — Azawakh dog
+- Sloughi — Sloughi Moghrebi | Arabian Sloughi | Sloughi dog | Sloughi Moghrebi dog | Arabian Sloughi dog
+- Finnish Lapphund — Lapphund | Suomenlapinkoira | Lapinkoira | Finnish Lapphund dog | Lapphund dog | Suomenlapinkoira dog | Lapinkoira dog
 - Icelandic Sheepdog
-- Lapponian Herder
-- Karelian Bear Dog
-- Kai Ken
-- Kishu Ken
-- Shikoku
-- Hokkaido
-- Volpino Italiano
-- Japanese Spitz
-- Appenzeller Sennenhund
-- Spanish Mastiff
-- Mudi
-- Pumi
+- Lapponian Herder — Lapponian Reindeer Dog | Lapinporokoira | Lapponian Herder dog | Lapinporokoira dog
+- Karelian Bear Dog — Karjalankarhukoira | Karelian | Karjalankarhukoira dog | Karelian dog
+- Kai Ken — Kai Inu | Tora Inu | Tiger Dog | Kai Ken dog | Kai Inu dog | Tora Inu dog
+- Kishu Ken — Kishu | Kishu Inu | Kishu Ken dog | Kishu dog | Kishu Inu dog
+- Shikoku — Shikoku Inu | Shikoku Ken | Kochi Ken | Shikoku dog | Shikoku Inu dog | Shikoku Ken dog | Kochi Ken dog
+- Hokkaido — Hokkaido Inu | Hokkaido Ken | Ainu dog | Ainu Ken | Hokkaido dog | Hokkaido Inu dog | Hokkaido Ken dog | Ainu Ken dog
+- Volpino Italiano — Volpino | Florentine Spitz | Volpino Italiano dog | Volpino dog | Florentine Spitz dog
+- Japanese Spitz — Japanese Spitz dog
+- Appenzeller Sennenhund — Appenzell Mountain Dog | Appenzeller Mountain Dog | Appenzeller Sennenhund dog
+- Spanish Mastiff — Mastín Español | Spanish Mastiff dog | Mastín Español dog
+- Mudi — Mudi dog
+- Pumi — Pumi dog
 - Croatian Sheepdog
-- Mountain Cur
+- Mountain Cur — Mountain Cur dog
 - Carolina Dog
-- Peruvian Inca Orchid — Peruvian Hairless Dog
-- Thai Ridgeback
-- Phu Quoc Ridgeback
-- Russian Toy
-- Biewer Terrier
-- Glen of Imaal Terrier
-- Cesky Terrier
-- Jagdterrier
-- Kooikerhondje — Kooiker
-- Stabyhoun
-- Drentse Patrijshond
-- Wetterhoun
-- Kromfohrländer
-- Pudelpointer
-- Large Münsterländer
-- Small Münsterländer
-- Bavarian Mountain Hound
-- Hanoverian Scenthound
-- Tatra Shepherd
-- Karakachan
-- Chippiparai
-- Rajapalayam
-- Mudhol Hound
-- Indian Pariah
-- Telomian
-- Canaan Dog
-- Africanis
-- Koolie
-- Tenterfield Terrier
-- Australian Stumpy Tail Cattle Dog
-- Grand Basset Griffon Vendéen
-- Basset Fauve de Bretagne
-- Wirehaired Pointing Griffon
-- Barbet
-- Braque du Bourbonnais
-- Picardy Spaniel
-- Small Swiss Hound
-- Segugio Italiano
-- Cirneco dell'Etna — Cirneco
-- Portuguese Podengo
-- Majorca Shepherd
-- Catalan Sheepdog
-- Pyrenean Shepherd
-- Berger Picard — Picardy Shepherd
-- Dutch Shepherd
-- Belgian Tervuren
-- Belgian Groenendael
-- Belgian Laekenois
-- Lancashire Heeler
-- Norwegian Buhund
-- Gordon Setter
-- Irish Red and White Setter
-- Irish Water Spaniel
-- Boykin Spaniel
-- American Water Spaniel
-- English Toy Terrier
-- Sporting Lucas Terrier
-- Plummer Terrier
-- Lucas Terrier
-- Danish-Swedish Farmdog
+- Peruvian Inca Orchid — Peruvian Hairless Dog | Perro sin pelo del Perú | Peruvian Hairless | Inca Orchid | Peruvian Inca Orchid dog | Perro sin pelo del Perú dog | Inca Orchid dog
+- Thai Ridgeback — Mah Thai | Thai Ridgeback Dog | Mah Thai dog
+- Phu Quoc Ridgeback — Phu Quoc | Phu Quoc Ridgeback dog | Phu Quoc dog
+- Russian Toy — Russian Toy dog
+- Biewer Terrier — Biewer Terrier dog
+- Glen of Imaal Terrier — Glen of Imaal Terrier dog
+- Cesky Terrier — Bohemian Terrier | Český teriér | Cesky Terrier dog | Bohemian Terrier dog | Český teriér dog
+- Jagdterrier — German Hunting Terrier | Deutscher Jagdterrier | Jagdterrier dog | German Hunting Terrier dog | Deutscher Jagdterrier dog
+- Kooikerhondje — Kooiker | Kooiker Hound | Dutch Decoy Dog | Kooikerhund | Kooikerhondje dog | Kooiker dog | Kooiker Hound dog | Kooikerhund dog
+- Stabyhoun — Stabij | Frisian Pointing Dog | Stabyhoun dog | Stabij dog
+- Drentse Patrijshond — Drentsche Patrijshond | Dutch Partridge Dog | Drent | Drentse Patrijshond dog | Drentsche Patrijshond dog | Drent dog
+- Wetterhoun — Frisian Water Dog | Wetterhoun dog
+- Kromfohrländer — Kromfohrländer dog
+- Pudelpointer — Pudelpointer dog
+- Large Münsterländer — Grosser Münsterländer | Munsterlander | Large Münsterländer dog | Grosser Münsterländer dog | Munsterlander dog
+- Small Münsterländer — Small Münsterländer dog
+- Bavarian Mountain Hound — Bayerischer Gebirgsschweisshund | Bavarian Mountain Hound dog | Bayerischer Gebirgsschweisshund dog
+- Hanoverian Scenthound — Hannoverscher Schweisshund | Hanoverian Hound | Hanover Hound | Hanoverian Scenthound dog | Hannoverscher Schweisshund dog | Hanoverian Hound dog | Hanover Hound dog
+- Tatra Shepherd — Polish Tatra Sheepdog | Owczarek Podhalański | Tatra Sheepdog | Tatra Shepherd dog | Owczarek Podhalański dog
+- Karakachan — Bulgarian Shepherd | Karakachan Dog | Bulgarian Shepherd dog
+- Chippiparai — Chippiparai dog
+- Rajapalayam — Rajapalayam dog
+- Mudhol Hound — Mudhol | Caravan Hound | Pashmi | Mudhol Hound dog | Mudhol dog | Caravan Hound dog | Pashmi dog
+- Indian Pariah — Desi dog | Indian Pariah Dog | Indie dog | INDog | Pye-dog | Pariah dog | Pariah
+- Telomian — Telomian Dog
+- Canaan Dog — Kelev Kanani | Israeli Canaan Dog | Kelev Kanani dog
+- Africanis — African village dog | Africanis dog
+- Koolie — Koolie dog
+- Tenterfield Terrier — Tenterfield Terrier dog
+- Australian Stumpy Tail Cattle Dog — Stumpy tail cattle dog | Stumpy | Stumpy tail | Stumpy tail heeler
+- Grand Basset Griffon Vendéen — Grand Basset Griffon | GBGV | Grand Basset Griffon Vendéen dog | Grand Basset Griffon dog | GBGV dog
+- Basset Fauve de Bretagne — Basset Fauve de Bretagne dog
+- Wirehaired Pointing Griffon — Korthals Griffon | Griffon Korthals | Wirehaired Pointing Griffon dog | Korthals Griffon dog | Griffon Korthals dog
+- Barbet — French Water Dog | Barbet dog
+- Braque du Bourbonnais — Braque du Bourbonnais dog
+- Picardy Spaniel — Picardy Spaniel dog
+- Small Swiss Hound — Small Swiss Hound dog
+- Segugio Italiano — Segugio | Italian Hound | Segugio Italiano dog | Segugio dog | Italian Hound dog
+- Cirneco dell'Etna — Cirneco | Sicilian Greyhound | Cirneco dell'Etna dog | Cirneco dog | Sicilian Greyhound dog
+- Portuguese Podengo — Podengo | Podengo Português | Portuguese Podengo dog | Podengo dog | Podengo Português dog
+- Majorca Shepherd — Ca de Bestiar | Perro de Pastor Mallorquín | Majorca Shepherd dog | Ca de Bestiar dog | Perro de Pastor Mallorquín dog
+- Catalan Sheepdog — Gos d'Atura Català | Gos d'Atura | Gos d'Atura Català dog | Gos d'Atura dog
+- Pyrenean Shepherd — Berger des Pyrénées | Petit Berger | Pyrenean Shepherd dog | Berger des Pyrénées dog | Petit Berger dog
+- Berger Picard — Picardy Shepherd | Picardy Sheepdog | Berger Picard dog | Picardy Shepherd dog
+- Dutch Shepherd — Hollandse Herder | Dutch Herder | Dutch Shepherd dog | Hollandse Herder dog | Dutch Herder dog
+- Belgian Tervuren — Tervuren | Tervueren | Belgian Tervuren dog | Tervuren dog | Tervueren dog
+- Belgian Groenendael — Groenendael | Belgian Groenendael dog | Groenendael dog
+- Belgian Laekenois — Laekenois | Belgian Laekenois dog | Laekenois dog
+- Lancashire Heeler — Lancashire Heeler dog
+- Norwegian Buhund — Buhund | Norsk Buhund | Norwegian Buhund dog | Buhund dog | Norsk Buhund dog
+- Gordon Setter — Black and Tan Setter | Gordon Setter dog | Black and Tan Setter dog
+- Irish Red and White Setter — Irish Red and White Setter dog
+- Irish Water Spaniel — Whiptail | Shannon Spaniel | Rat-tail Spaniel | Irish Water Spaniel dog | Whiptail dog | Shannon Spaniel dog | Rat-tail Spaniel dog
+- Boykin Spaniel — Boykin Spaniel dog
+- American Water Spaniel — American Water Spaniel dog
+- English Toy Terrier — English Toy Terrier dog
+- Sporting Lucas Terrier — Sporting Lucas Terrier dog
+- Plummer Terrier — Plummer Terrier dog
+- Lucas Terrier — Lucas Terrier dog
+- Danish-Swedish Farmdog — Dansk-Svensk Gårdshund | Dansk-Svensk Gårdshund dog
 - Chinese Chongqing Dog
 - Xiasi Dog
-- Bully Kutta
-- Gull Dong
-- Alano Español
-- Ca de Bou — Majorca Mastiff | Perro de Presa Mallorquin
-- Sarplaninac
-- Tornjak
-- Bosnian Coarse-haired Hound
-- Istrian Shorthaired Hound
-- Posavac Hound
-- Kintamani
-- Taiwan Dog
-- Korean Sapsali
-- Pungsan
-- Tibetan Kyi Apso
-- Talbot
-- St. John's Water Dog — St John's Dog | Lesser Newfoundland
+- Bully Kutta — Indian Mastiff | Pakistani Mastiff | Pakistani Bully | Sindhi Mastiff | Bully Kutta dog | Indian Mastiff dog | Pakistani Mastiff dog | Pakistani Bully dog | Sindhi Mastiff dog
+- Gull Dong — Gull Dong dog
+- Alano Español — Alano Español dog
+- Ca de Bou — Majorca Mastiff | Perro de Presa Mallorquin | Ca de Bou dog | Majorca Mastiff dog | Perro de Presa Mallorquin dog
+- Sarplaninac — Sarplaninac dog
+- Tornjak — Tornjak dog
+- Bosnian Coarse-haired Hound — Bosnian Hound | Barak | Bosnian Coarse-haired Hound dog | Bosnian Hound dog | Barak dog
+- Istrian Shorthaired Hound — Istrian Shorthaired Hound dog
+- Posavac Hound — Posavac Hound dog
+- Kintamani — Kintamani Dog | Bali Mountain Dog
+- Taiwan Dog — Formosan Mountain Dog | Formosan | Taiwanese Dog | Taiwanese Mountain Dog | Formosan dog
+- Korean Sapsali — Sapsaree | Sapsal | Sapsal dog | Korean Sapsali dog | Sapsaree dog
+- Pungsan — Pungsan dog
+- Tibetan Kyi Apso — Tibetan Kyi Apso dog
+- Talbot — Talbot dog
+- St. John's Water Dog — St John's Dog | Lesser Newfoundland | Lesser Newfoundland dog
 - Old English Bulldog
-- Molossus
+- Molossus — Molossian | Molossian hound | Molossus dog | Molossian dog | Molossian hound dog
 - Tahltan Bear Dog
 - Salish Wool Dog — Woolly dog
 - Hare Indian Dog
-- Galgo Español — Galgo | Spanish Greyhound
-- King Shepherd
-- Swedish Lapphund
+- Galgo Español — Galgo | Spanish Greyhound | Galgo Español dog | Galgo dog | Spanish Greyhound dog
+- King Shepherd — King Shepherd dog
+- Swedish Lapphund — Swedish Lapphund dog
+- Bohemian Shepherd — Chodský pes | Bohemian Shepherd dog | Chodský pes dog
+- Schapendoes — Dutch Sheepdog | Schapendoes dog
+- Portuguese Sheepdog — Cão da Serra de Aires | Cão da Serra de Aires dog
+- Romanian Mioritic Shepherd — Mioritic | Ciobănesc Mioritic | Romanian Mioritic Shepherd dog | Mioritic dog | Ciobănesc Mioritic dog
+- Romanian Carpathian Shepherd — Carpathian Shepherd | Romanian Carpathian Shepherd dog | Carpathian Shepherd dog
+- Bucovina Shepherd — Romanian Bucovina Shepherd | Bucovina Shepherd dog | Romanian Bucovina Shepherd dog
+- Slovak Cuvac — Slovenský čuvač | Slovak Chuvach | Slovak Cuvac dog | Slovenský čuvač dog | Slovak Chuvach dog
+- South Russian Ovcharka — South Russian Shepherd | Yuzhak | South Russian Ovcharka dog | South Russian Shepherd dog | Yuzhak dog
+- Bouvier des Ardennes — Ardennes Cattle Dog | Bouvier des Ardennes dog
+- Garafian Shepherd — Pastor Garafiano | Garafian Shepherd dog | Pastor Garafiano dog
+- Old German Shepherd — Altdeutscher Schäferhund | Old German Herding Dog | Old German Shepherd dog | Altdeutscher Schäferhund dog
+- Karst Shepherd — Kraški ovčar | Istrian Shepherd | Karst Shepherd dog | Kraški ovčar dog | Istrian Shepherd dog
+- Rafeiro do Alentejo — Alentejo Mastiff | Rafeiro do Alentejo dog | Alentejo Mastiff dog
+- Cão de Castro Laboreiro — Castro Laboreiro Dog | Portuguese Cattle Dog | Cão de Castro Laboreiro dog
+- Cão Fila de São Miguel — Azores Cattle Dog | Cão Fila de São Miguel dog
+- Aidi — Atlas Mountain Dog | Chien de l'Atlas | Aidi dog | Chien de l'Atlas dog
+- Aksaray Malaklisi — Malakli | Aksaray Malaklisi dog | Malakli dog
+- Moscow Watchdog — Moskovskaya Storozhevaya | Moskovskaya Storozhevaya dog
+- Buryat-Mongolian Wolfhound — Banhar | Bankhar | Mongolian Bankhar | Buryat-Mongolian Wolfhound dog | Banhar dog | Bankhar dog | Mongolian Bankhar dog
+- Himalayan Sheepdog — Bhotia | Bhutia | Bhotia dog | Bhutia dog
+- Gaddi Kutta — Gaddi dog | Gaddi Kutta dog
+- Cumberland Sheepdog
+- Barbado da Terceira — Barbado da Terceira dog
+- Armant — Egyptian Sheepdog | Armant dog
+- Kars Dog — Kars Shepherd | Kars Shepherd dog
+- Georgian Shepherd — Nagazi | Georgian Shepherd dog | Nagazi dog
+- Gampr — Armenian Gampr | Gampr dog | Armenian Gampr dog
+- Greek Shepherd — Greek Sheepdog | Greek Shepherd dog
+- Carea Leonés — Carea Leonés dog
+- Pastor Vasco — Basque Shepherd | Euskal Artzain Txakurra | Pastor Vasco dog | Basque Shepherd dog | Euskal Artzain Txakurra dog
+- Can de Palleiro — Can de Palleiro dog
+- Mucuchies — Venezuelan Mastiff | Mucuchies dog | Venezuelan Mastiff dog
+- Ovejero Magallánico — Magellan Sheepdog | Ovejero Magallánico dog
+- New Zealand Heading Dog — Heading Dog
+- Austrian Pinscher — Österreichischer Pinscher | Austrian Pinscher dog | Österreichischer Pinscher dog
+- Dutch Smoushond — Hollandse Smoushond | Smoushond | Dutch Smoushond dog | Hollandse Smoushond dog | Smoushond dog
+- Alpine Mastiff — Alpine Mastiff dog
+- Bullenbeisser — German Bulldog | Bärenbeisser | Bullenbeisser dog | Bärenbeisser dog
+- Cordoba Fighting Dog — Perro de Pelea Cordobés | Perro de Pelea Cordobés dog
+- Cuban Mastiff — Dogo Cubano | Cuban Mastiff dog
+- Belgian Mastiff — Matin Belge | Belgian Mastiff dog | Matin Belge dog
+- Toy Bulldog
+- Blue Paul Terrier — Blue Paul | Blue Paul Terrier dog | Blue Paul dog
+- Bull and Terrier — Bull and Terrier dog
+- Valley Bulldog
+- Victorian Bulldog
+- Banter Bulldogge
+- Korean Mastiff — Dosa Mastiff | Mee-Kyun Dosa | Korean Mastiff dog | Dosa Mastiff dog | Mee-Kyun Dosa dog
+- Sardinian Shepherd — Fonni's Dog | Cane Fonnese | Pastore Fonnese | Sardinian Shepherd dog | Cane Fonnese dog | Pastore Fonnese dog
+- Cane di Mannara — Sicilian Mastiff | Cane di Mannara dog | Sicilian Mastiff dog
+- Sarabi Dog — Persian Mastiff | Sarabi Mastiff | Persian Mastiff dog | Sarabi Mastiff dog
+- Kuchi — Afghan Shepherd | Kuchi Dog | Afghan Shepherd dog
+- Tobet — Kazakh Tobet | Tobet dog | Kazakh Tobet dog
+- English White Terrier — White English Terrier | Old English White Terrier | English White Terrier dog | White English Terrier dog | Old English White Terrier dog
+- Black and Tan Terrier — Old English Black and Tan Terrier | Black and Tan Terrier dog | Old English Black and Tan Terrier dog
+- Paisley Terrier — Paisley Terrier dog
+- Clydesdale Terrier — Clydesdale Terrier dog
+- Valencian Terrier — Gos Rater Valencià | Ratonero Valenciano | Valencian Terrier dog | Gos Rater Valencià dog | Ratonero Valenciano dog
+- Ratonero Mallorquín — Ca Rater Mallorquí | Ratonero Mallorquín dog | Ca Rater Mallorquí dog
+- Russian Tsvetnaya Bolonka — Bolonka | Tsvetnaya Bolonka | Russian Bolonka | Russian Tsvetnaya Bolonka dog | Bolonka dog | Tsvetnaya Bolonka dog | Russian Bolonka dog
+- Prague Ratter — Pražský krysařík | Prague Ratter dog | Pražský krysařík dog
+- Phalène — Drop-eared Papillon | Phalène dog | Drop-eared Papillon dog
+- East Siberian Laika — East Siberian Laika dog
+- Russo-European Laika — Russian-European Laika | Karelo-Finnish Laika | Russo-European Laika dog | Russian-European Laika dog | Karelo-Finnish Laika dog
+- Jämthund — Swedish Elkhound | Jämthund dog | Swedish Elkhound dog
+- Norrbottenspets — Norrbotten Spitz | Nordic Spitz | Norrbottenspets dog | Norrbotten Spitz dog | Nordic Spitz dog
+- Hälleforshund — Hälleforshund dog
+- Black Norwegian Elkhound — Norsk Elghund Sort | Black Norwegian Elkhound dog | Norsk Elghund Sort dog
+- Chukotka Sled Dog — Chukotka Husky | Chukotka Husky dog
+- Mackenzie River Husky — Mackenzie River Husky dog
+- Seppala Siberian Sleddog — Seppala | Seppala dog
+- Nenets Herding Laika — Reindeer Herding Laika | Olenegonka | Nenets Herding Laika dog | Reindeer Herding Laika dog | Olenegonka dog
+- Canary Islands Podenco — Podenco Canario | Canarian Warren Hound | Canary Islands Podenco dog | Podenco Canario dog | Canarian Warren Hound dog
+- Andalusian Hound — Podenco Andaluz | Andalusian Hound dog | Podenco Andaluz dog
+- Thai Bangkaew — Bangkaew | Thai Bangkaew Dog | Bangkaew dog
+- Kurī — Polynesian dog | Maori dog | Kurī dog
+- Hawaiian Poi Dog — Poi Dog | ʻĪlio | ʻĪlio dog
+- Techichi — Techichi dog
+- Tesem — Tesem dog
+- Fuegian Dog — Patagonian fox-dog
+- Argentine Polar Dog — Perro Polar Argentino | Perro Polar Argentino dog
+- Abyssinian Sand Terrier — African Hairless Dog | Abyssinian Sand Terrier dog
+- Argentine Pila — Pila Dog | Argentine Pila dog
+- Ecuadorian Hairless Dog — Perro sin pelo del Ecuador | Perro sin pelo del Ecuador dog
+- Ryukyu Inu — Ryukyu | Ryukyu Inu dog | Ryukyu dog
+- Kawakami Inu — Kawakami | Kawakami Inu dog | Kawakami dog
+- Mikawa Inu — Mikawa | Mikawa Inu dog | Mikawa dog
+- Vietnamese H'mong Dog — H'mong Dog
+- Bakharwal Dog — Bakarwal | Gujjar Watchdog | Bakarwal dog
+- Kombai — Kombai Dog | Combai | Combai dog
+- Kanni — Kanni Dog
+- Labrador Husky — Labrador Husky dog
+- Pandikona — Pandikona dog
+- Jonangi — Jonangi dog
+- Rampur Greyhound — Rampur Hound | Rampur Greyhound dog | Rampur Hound dog
+- Indian Spitz — Indian Spitz dog
+- Basset Artésien Normand — Basset Artésien Normand dog
+- Basset Bleu de Gascogne — Basset Bleu de Gascogne dog
+- Petit Bleu de Gascogne — Petit Bleu de Gascogne dog
+- Griffon Bleu de Gascogne — Griffon Bleu de Gascogne dog
+- Briquet Griffon Vendéen — Briquet Griffon Vendéen dog
+- Grand Griffon Vendéen — Grand Griffon Vendéen dog
+- Gascon Saintongeois — Gascon Saintongeois dog
+- Ariégeois — Ariégeois dog
+- Poitevin — Poitevin dog
+- Billy — Billy dog
+- Français Tricolore — Français Tricolore dog
+- Français Blanc et Noir — Français Blanc et Noir dog
+- Français Blanc et Orange — Français Blanc et Orange dog
+- Grand Anglo-Français Tricolore — Grand Anglo-Français Tricolore dog
+- Anglo-Français de Petite Vénerie — Anglo-Français de Petite Vénerie dog
+- Porcelaine — Porcelaine dog
+- Chien d'Artois — Artois Hound | Chien d'Artois dog | Artois Hound dog
+- Griffon Fauve de Bretagne — Griffon Fauve de Bretagne dog
+- Griffon Nivernais — Griffon Nivernais dog
+- German Hound — Deutsche Bracke | German Hound dog | Deutsche Bracke dog
+- Austrian Black and Tan Hound — Brandlbracke | Vieräugl | Austrian Black and Tan Hound dog | Brandlbracke dog | Vieräugl dog
+- Styrian Coarse-haired Hound — Peintinger Bracke | Styrian Coarse-haired Hound dog | Peintinger Bracke dog
+- Tyrolean Hound — Tiroler Bracke | Tyrolean Hound dog | Tiroler Bracke dog
+- Swiss Hound — Schweizer Laufhund | Bernese Hound | Jura Hound | Lucerne Hound | Schwyz Hound | Swiss Hound dog | Schweizer Laufhund dog | Bernese Hound dog | Jura Hound dog | Lucerne Hound dog | Schwyz Hound dog
+- Schillerstövare — Schiller Hound | Schillerstövare dog | Schiller Hound dog
+- Smålandsstövare — Småland Hound | Smålandsstövare dog | Småland Hound dog
+- Finnish Hound — Suomenajokoira | Finnish Hound dog | Suomenajokoira dog
+- Dunker — Norwegian Hound | Dunker dog | Norwegian Hound dog
+- Haldenstøver — Halden Hound | Haldenstøver dog | Halden Hound dog
+- Hygenhund — Hygen Hound | Hygenhund dog | Hygen Hound dog
+- Estonian Hound — Estonian Hound dog
+- Russian Hound — Russkaya Gonchaya | Russian Hound dog | Russkaya Gonchaya dog
+- Russian Harlequin Hound — Russian Harlequin Hound dog
+- Polish Hound — Ogar Polski | Polish Hound dog | Ogar Polski dog
+- Polish Hunting Dog — Gończy Polski | Gończy Polski dog
+- Slovakian Hound — Slovenský kopov | Slovakian Hound dog | Slovenský kopov dog
+- Transylvanian Hound — Erdélyi Kopó | Hungarian Hound | Transylvanian Hound dog | Erdélyi Kopó dog | Hungarian Hound dog
+- Serbian Hound — Balkan Hound | Serbian Hound dog | Balkan Hound dog
+- Serbian Tricolour Hound — Serbian Tricolour Hound dog
+- Montenegrin Mountain Hound — Montenegrin Mountain Hound dog
+- Istrian Coarse-haired Hound — Istrian Coarse-haired Hound dog
+- Segugio Maremmano — Segugio Maremmano dog
+- Hellenic Hound — Greek Harehound | Hellenic Hound dog | Greek Harehound dog
+- Spanish Hound — Sabueso Español | Spanish Hound dog | Sabueso Español dog
+- Lithuanian Hound — Lithuanian Hound dog
+- Latvian Hound — Latvian Hound dog
+- Southern Hound — Southern Hound dog
+- North Country Beagle — North Country Beagle dog
+- Sabueso Fino Colombiano — Sabueso Fino Colombiano dog
+- Majestic Tree Hound — Majestic Tree Hound dog
+- Trigg Hound — Trigg Hound dog
+- Penn-Marydel — Penn Marydel Foxhound | Penn-Marydel dog | Penn Marydel Foxhound dog
+- German Roughhaired Pointer — Deutsch Stichelhaar | Stichelhaar | German Roughhaired Pointer dog | Deutsch Stichelhaar dog | Stichelhaar dog
+- Slovakian Wirehaired Pointer — Slovak Rough-haired Pointer | Slovakian Wirehaired Pointer dog | Slovak Rough-haired Pointer dog
+- Old Danish Pointer — Gammel Dansk Hønsehund | Old Danish Pointer dog | Gammel Dansk Hønsehund dog
+- Braque d'Auvergne — Auvergne Pointer | Braque d'Auvergne dog | Auvergne Pointer dog
+- Braque de l'Ariège — Ariège Pointer | Braque de l'Ariège dog | Ariège Pointer dog
+- Braque Saint-Germain — Saint Germain Pointer | Braque Saint-Germain dog | Saint Germain Pointer dog
+- Braque Dupuy — Braque Dupuy dog
+- Blue Picardy Spaniel — Épagneul Bleu de Picardie | Blue Picardy Spaniel dog | Épagneul Bleu de Picardie dog
+- Pont-Audemer Spaniel — Épagneul de Pont-Audemer | Pont-Audemer Spaniel dog | Épagneul de Pont-Audemer dog
+- Épagneul de Saint-Usuge — Saint-Usuge Spaniel | Épagneul de Saint-Usuge dog | Saint-Usuge Spaniel dog
+- Portuguese Pointer — Perdigueiro Português | Portuguese Pointer dog | Perdigueiro Português dog
+- Burgos Pointer — Perdiguero de Burgos | Spanish Pointer | Burgos Pointer dog | Perdiguero de Burgos dog | Spanish Pointer dog
+- Pachón Navarro — Navarro Pointer | Old Spanish Pointer | Pachón Navarro dog | Navarro Pointer dog | Old Spanish Pointer dog
+- Catalburun — Turkish Pointer | Catalburun dog | Turkish Pointer dog
+- Cantabrian Water Dog — Perro de Agua Cantábrico | Perro de Agua Cantábrico dog
+- Moscow Water Dog
+- English Water Spaniel — English Water Spaniel dog
+- Tweed Water Spaniel — Tweed Water Spaniel dog
+- Norfolk Spaniel — Norfolk Spaniel dog
+- Alpine Spaniel — Alpine Spaniel dog
+- Dalbo Dog — Dalbohund | Dalbohund dog
+- Taigan — Kyrgyz Taigan | Taigan dog | Kyrgyz Taigan dog
+- Tazy — Kazakh Tazy | Central Asian Greyhound | Tasy | Tazy dog | Kazakh Tazy dog | Central Asian Greyhound dog | Tasy dog
+- Hortaya Borzaya — Hortaya | Chortai | Hortaya Borzaya dog | Hortaya dog | Chortai dog
+- Banjara Greyhound — Banjara Greyhound dog
+- South Russian Steppe Hound — Stepnaya Borzaya | South Russian Steppe Hound dog | Stepnaya Borzaya dog
+- Toy Trawler Spaniel — Toy Trawler Spaniel dog
+- Smithfield — Smithfield Collie | Smithfield dog | Smithfield Collie dog
+- Rastreador Brasileiro — Brazilian Tracker | Rastreador Brasileiro dog | Brazilian Tracker dog
+- Chien-gris — Grey Royal Hound | Chien-gris dog | Grey Royal Hound dog
+- Marquesan Dog
+- Nootka Dog
+- Dogo Guatemalteco — Guatemalan Dogo
+- Bulldog Campeiro — Campeiro Bulldog
+- Cão de Gado Transmontano — Transmontano Mastiff | Cão de Gado Transmontano dog | Transmontano Mastiff dog
+- Bordoodle — Borderdoodle | Border collie poodle
+- Pugalier — Pug cavalier
 
 ### Tier 6: rare jackpots (2)
 
-- Norwegian Lundehund — Lundehund | Puffin dog
-- Turnspit Dog — Turnspit | Kitchen dog | Vernepator Cur
+- Norwegian Lundehund — Lundehund | Puffin dog | Norwegian Lundehund dog | Lundehund dog
+- Turnspit Dog — Turnspit | Kitchen dog | Vernepator Cur | Vernepator | Vernepator Cur dog | Vernepator dog
 
-## Refused on purpose (11)
+## Refused on purpose (23)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Wolf — "The ancestor, not a breed."
-- Mongrel | Mutt | Mixed breed | Heinz 57 — "Beloved, but a mixture, not a breed."
+- Mongrel | Mutt | Mixed breed | Heinz 57 | Mutt dog | Crossbreed | Mixed | Bitsa | Bitzer | Heinz | Pound puppy | Rescue dog | Designer dog | Designer breed | Rescue | Pound dog | Bitser — "Beloved, but a mixture, not a breed."
 - Hyena — "Closer to a cat than a dog, believe it or not."
-- Fox | Coyote | Jackal — "A different animal, however much it looks like a dog."
+- Fox | Coyote | Jackal | Dhole | African wild dog | Painted dog | Raccoon dog | Maned wolf | Bush dog | Fennec | Arctic fox | Red fox | Prairie dog | Dogfish | Tanuki | Thylacine | Tasmanian tiger — "A different animal, however much it looks like a dog."
 - Scooby-Doo | Scooby — "A Great Dane, if you want the breed."
 - Snoopy — "A Beagle, if you want the breed."
 - Lassie — "A Rough Collie, if you want the breed."
 - Cerberus — "Three-headed guard dog of the underworld. Not a breed, sadly."
 - Hellhound — "Not a breed, though some owners would disagree."
-- Hound | Terrier | Spaniel | Retriever | Shepherd | Sheepdog | Setter | Pinscher | Spitz — "That is a whole family of breeds. Which one?"
+- Hound | Terrier | Spaniel | Retriever | Shepherd | Sheepdog | Setter | Pinscher | Spitz | Sighthound | Scenthound | Gundog | Lapdog | Toy dog | Sled dog | Sledge dog | Herding dog | Working dog | Guard dog | Hunting dog | Bird dog | Water dog | Cur | Mountain dog | Molosser | Bully breed | Gazehound | Coursing hound | Primitive dog — "That is a whole family of breeds. Which one?"
 - Clifford — "Fictional, and enormous."
+- Rin Tin Tin | Rin Tin Tin dog | Rex | Inspector Rex | Kommissar Rex — "A German Shepherd, if you want the breed."
+- Beethoven | Beethoven dog — "A Saint Bernard, if you want the breed."
+- Balto | Togo — "A Siberian Husky, if you want the breed."
+- Hachikō | Hachi — "An Akita, if you want the breed."
+- Gromit — "A Beagle, if you want the breed."
+- Toto — "The dog from Oz. A character, not a breed: name the kind of terrier he was."
+- Red Dog — "A film star of the Pilbara, not a breed. Name the kind of dog he was."
+- Marley — "A Labrador, if you want the breed."
+- Santa's Little Helper — "A Greyhound, if you want the breed."
+- Bingo | Bandit | Chilli | Bandit Heeler | Chilli Heeler | Bingo Heeler — "A cartoon dog, not a breed. Name the kind of dog the family is."
+- Dog | Dogs | Puppy | Puppies | Pup | Doggo — "The whole species. Which breed?"
+- Hot dog | Dagwood dog | Pluto pup | Chilli dog | Chili dog — "That is lunch."

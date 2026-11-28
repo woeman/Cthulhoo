@@ -1,0 +1,92 @@
+id: psychology-therapies
+text: Name a type of therapy or psychological treatment.
+flavor: Lie back. Tell me about the first thing you remember. No, the one before that.
+rules: Any talking therapy, behavioural technique, medication class or other treatment for the mind.
+section: Treatment
+---
+1 CBT | Cognitive behavioural therapy | Cognitive behavioral therapy | Cognitive therapy | Cognitive behaviour therapy
+1 Counselling | Counseling | Talk therapy | Talking therapy | Psychotherapy | Therapy
+1 Medication | Antidepressants | Antidepressant | SSRIs | SSRI | Drugs | Pills | Prozac | Zoloft | Lexapro
+1 Psychoanalysis | Freudian analysis | Analysis | Freudian therapy
+1 Group therapy | Support group | Group counselling
+1 Meditation | Mindfulness | Mindfulness-based cognitive therapy | MBCT | Mindfulness-based stress reduction | MBSR
+2 Hypnosis | Hypnotherapy
+2 Art therapy
+2 Music therapy
+2 Family therapy | Couples therapy | Marriage counselling | Couples counselling | Relationship counselling | Systemic therapy | Marriage counseling
+2 Exposure therapy | Systematic desensitisation | Systematic desensitization | Desensitisation | Flooding | Exposure and response prevention | ERP
+2 Electroconvulsive therapy | ECT | Shock therapy | Electroshock | Electroshock therapy
+2 DBT | Dialectical behaviour therapy | Dialectical behavior therapy
+2 EMDR | Eye movement desensitisation and reprocessing | Eye movement desensitization and reprocessing
+2 Play therapy
+2 Rehab | Rehabilitation | Detox | Twelve-step program | 12 steps | Alcoholics Anonymous | AA | 12-step
+2 Exercise | Exercise therapy | Yoga | Sleep hygiene
+2 Behaviour therapy | Behavioural therapy | Behavior therapy | Behaviour modification | Applied behaviour analysis | ABA
+2 ACT | Acceptance and commitment therapy
+2 Lobotomy | Leucotomy | Psychosurgery
+2 Lithium | Mood stabilisers | Mood stabilizers
+2 Antipsychotics | Antipsychotic | Tranquillisers | Benzodiazepines | Valium | Anti-anxiety medication | Sedatives
+2 Ritalin | Stimulants | Stimulant medication | Methylphenidate | Dexamphetamine | Vyvanse
+2 Animal therapy | Pet therapy | Equine therapy | Animal-assisted therapy | Therapy dog
+2 Journaling | Journalling | Writing therapy | Bibliotherapy
+2 Light therapy | Phototherapy | Bright light therapy
+2 Psychedelic therapy | Psilocybin therapy | MDMA therapy | Ketamine therapy | Psychedelic-assisted therapy | Ketamine
+2 Occupational therapy | Speech therapy
+3 Humanistic therapy | Person-centred therapy | Client-centred therapy | Rogerian therapy | Person-centered therapy
+3 Gestalt therapy
+3 Psychodynamic therapy | Psychodynamic psychotherapy
+3 Jungian analysis | Analytical psychology
+3 Existential therapy | Logotherapy
+3 Rational emotive behaviour therapy | REBT | Rational emotive therapy
+3 Interpersonal therapy | IPT | Interpersonal psychotherapy
+3 Schema therapy
+3 Narrative therapy
+3 Solution-focused therapy | Solution-focused brief therapy | SFBT | Brief therapy
+3 Motivational interviewing
+3 Compassion-focused therapy | CFT
+3 Emotion-focused therapy | Emotionally focused therapy | EFT
+3 Mentalisation-based therapy | MBT | Mentalization-based treatment
+3 Transference-focused psychotherapy
+3 Cognitive processing therapy | Prolonged exposure | Trauma-focused CBT
+3 Internal family systems | IFS
+3 Somatic experiencing | Somatic therapy | Body psychotherapy
+3 Aversion therapy
+3 Token economy | Contingency management
+3 Biofeedback | Neurofeedback
+3 Transcranial magnetic stimulation | TMS | rTMS
+3 Deep brain stimulation | DBS | Vagus nerve stimulation
+3 Drama therapy | Psychodrama | Dance therapy | Dance movement therapy
+3 Sandplay | Sand tray therapy
+3 Wilderness therapy | Adventure therapy | Ecotherapy | Nature therapy | Forest bathing
+3 Virtual reality therapy | VR therapy | Online therapy | Telehealth | E-therapy
+3 Peer support | Peer work
+3 Psychoeducation
+3 Social skills training | Assertiveness training | Parent training | Triple P
+3 Relaxation training | Progressive muscle relaxation | Breathing exercises | Grounding
+3 Dream analysis | Free association
+4 Primal therapy | Primal scream
+4 Rebirthing
+4 Transactional analysis
+4 Reality therapy | Choice theory
+4 Adlerian therapy | Individual psychology
+4 Hakomi
+5 Morita therapy :: A Japanese treatment from 1919 that begins with a week of total bed rest and silence. You are asked to accept your feelings, not to fix them.
+4 Naikan
+4 Open Dialogue
+4 Soteria
+4 Moral treatment
+4 Insulin coma therapy | Insulin shock therapy
+4 Malaria therapy | Fever therapy
+4 Hydrotherapy | Cold baths
+4 Rest cure
+4 Trepanation | Trepanning
+4 Exorcism
+4 Mesmerism | Animal magnetism
+4 Orgone therapy | Orgone box
+4 Conversion therapy
+6 Deep sleep therapy :: At Sydney's Chelmsford Private Hospital in the 1960s and 70s, patients were kept in a drugged coma for weeks. At least 24 died. A royal commission followed.
+6 Rotational therapy | Spinning chair :: Erasmus Darwin's idea, taken up by Benjamin Rush: strap the patient into a chair and spin it until the madness, or the patient, gave out.
+4 Milieu therapy | Therapeutic community
+4 MAOIs | Tricyclics | SNRIs | Tricyclic antidepressants
+x Surgery | Antibiotics | Chemotherapy | Physiotherapy | Massage | Vaccination | Chiropractic | Panadol | Bandage :: A treatment, but for the body rather than the mind.
+x Help | Doctor | Psychologist | Psychiatrist | Hospital | Treatment | Cure :: Which treatment? Name it.

@@ -1,0 +1,90 @@
+id: chemistry-gases
+text: Name a gas.
+flavor: You cannot see most of them. Several are in the room with you. One of them is waiting.
+rules: Any substance that is a gas at room temperature, by its name or formula, plus well-known mixtures and anything commonly called a gas.
+section: States of matter
+---
+1 Oxygen | O2 | Dioxygen
+1 Carbon dioxide | CO2
+1 Hydrogen | H2
+1 Nitrogen | N2
+1 Helium | He
+1 Methane | CH4 | Natural gas | Marsh gas | Biogas
+1 Air
+2 Carbon monoxide | CO
+2 Neon | Ne
+2 Argon | Ar
+2 Chlorine | Cl2
+2 Ozone | O3
+2 Ammonia | NH3
+2 Laughing gas | Nitrous oxide | N2O | Nitrous | Nangs | Dinitrogen monoxide
+2 Steam | Water vapour | Water vapor
+2 Propane | C3H8 | LPG | Liquefied petroleum gas | BBQ gas
+2 Butane | C4H10 | Lighter gas
+2 Tear gas | CS gas
+2 Radon | Rn
+2 Fluorine | F2
+2 Krypton | Kr
+2 Xenon | Xe
+2 Mustard gas | Sulfur mustard
+2 Sulfur dioxide | Sulphur dioxide | SO2
+2 Hydrogen sulfide | Hydrogen sulphide | H2S | Rotten egg gas | Sewer gas
+3 Nitrogen dioxide | NO2
+3 Nitric oxide | Nitrogen monoxide | NO
+3 Ethane | C2H6
+3 Ethylene | Ethene | C2H4
+3 Acetylene | Ethyne | C2H2
+3 Hydrogen chloride | HCl
+3 Phosgene | Carbonyl chloride
+3 Nerve gas | Sarin | Poison gas
+3 CFC | CFCs | Chlorofluorocarbon | Freon | Chlorofluorocarbons | Refrigerant | HFC | R-134a | R134a
+3 Smog
+3 Coal gas | Town gas | Syngas | Synthesis gas | Water gas | Producer gas
+3 Hydrogen cyanide | HCN | Zyklon B | Prussic acid
+3 Formaldehyde | Methanal
+6 Sulfur hexafluoride | SF6 | Sulphur hexafluoride :: Helium's opposite: five times heavier than air, so a breath of it drops your voice into the cellar. It is also the strongest greenhouse gas known.
+3 Propene | Propylene
+3 Greenhouse gas | Exhaust | Car exhaust | Smoke
+3 Firedamp | Blackdamp | Whitedamp | Afterdamp | Stinkdamp | Chokedamp
+3 Swamp gas | Landfill gas
+3 Fart | Farts | Flatulence | Flatus
+3 Noble gas | Inert gas
+3 Hydrogen fluoride | HF
+4 Phosphine | PH3
+4 Arsine | AsH3
+4 Silane | SiH4
+4 Diborane | B2H6
+4 Stibine
+4 Germane
+4 Hydrogen bromide | HBr
+4 Hydrogen iodide | HI
+4 Hydrogen selenide
+4 Cyanogen
+4 Carbonyl sulfide | OCS | Carbonyl sulphide
+4 Nitrogen trifluoride | NF3
+4 Chlorine dioxide | ClO2
+6 Chlorine trifluoride | ClF3 :: So reactive it sets fire to glass, sand and asbestos. When a tonne of it spilled in the 1950s it burned through 30 cm of concrete and a metre of gravel.
+4 Dimethyl ether | DME
+4 Methyl chloride | Chloromethane
+4 Methyl bromide | Bromomethane
+4 Vinyl chloride | Chloroethene
+4 Ethylene oxide | Oxirane
+4 Isobutane | Methylpropane
+4 Butene | Butylene | Butadiene | 1,3-butadiene
+4 Cyclopropane
+4 Methylamine | Dimethylamine | Trimethylamine
+4 Tetrafluoromethane | Carbon tetrafluoride | CF4
+4 Halon
+4 Heliox | Entonox | Nitrox | Trimix
+4 Oxyhydrogen | Knallgas | Brown's gas
+4 Oxygen difluoride
+4 Boron trifluoride | BF3
+4 Ketene
+4 Diazomethane
+4 Sulfuryl fluoride
+4 Phosphorus pentafluoride
+4 Silicon tetrafluoride
+4 Carbon suboxide
+x Water | Mercury | Bromine | Petrol | Gasoline | Ethanol | Alcohol | Diesel | Oil | Kerosene | Acetone :: A liquid at room temperature, even if its fumes get about.
+x Gas | Gases | Vapour | Fumes | Plasma | Fire | Wind :: Which one? Name the gas.
+x Iodine | Sulfur | Carbon | Sodium | Gold | Iron | Dry ice | Phosphorus :: A solid at room temperature.

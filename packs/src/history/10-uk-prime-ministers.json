@@ -1,0 +1,851 @@
+{
+ "id": "history-uk-prime-ministers",
+ "text": "Name a Prime Minister of the United Kingdom.",
+ "category": "history",
+ "flavor": "Portraits of every former prime minister line the stairs at Number Ten. Their eyes follow each new arrival up.",
+ "rules": "Any Prime Minister of Great Britain or the United Kingdom, from Robert Walpole in 1721 to today. A surname is enough, and one that two of them shared counts as the better known.",
+ "answers": [
+  {
+   "answer": "Winston Churchill",
+   "aliases": [
+    "Churchill",
+    "Sir Winston Churchill",
+    "Winston S. Churchill",
+    "Sir Winston",
+    "Winnie",
+    "Winston"
+   ],
+   "tier": 1,
+   "lore": "The only prime minister to win the Nobel Prize in Literature, in 1953."
+  },
+  {
+   "answer": "Margaret Thatcher",
+   "aliases": [
+    "Thatcher",
+    "Maggie Thatcher",
+    "Maggie",
+    "Mrs Thatcher",
+    "Iron Lady",
+    "Baroness Thatcher",
+    "Lady Thatcher",
+    "Mrs T"
+   ],
+   "tier": 1,
+   "lore": "The first woman prime minister, and the longest-serving of the 20th century, at eleven and a half years."
+  },
+  {
+   "answer": "Tony Blair",
+   "aliases": [
+    "Blair",
+    "Sir Tony Blair",
+    "Anthony Blair"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Boris Johnson",
+   "aliases": [
+    "Johnson",
+    "Boris",
+    "BoJo",
+    "Alexander Boris de Pfeffel Johnson"
+   ],
+   "tier": 1,
+   "lore": "Born in New York. He held American citizenship until he gave it up in 2016."
+  },
+  {
+   "answer": "David Cameron",
+   "aliases": [
+    "Cameron",
+    "Lord Cameron",
+    "Dave Cameron"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Keir Starmer",
+   "aliases": [
+    "Starmer",
+    "Sir Keir Starmer"
+   ],
+   "tier": 1,
+   "lore": "His parents named him after Keir Hardie, the Labour Party's first leader."
+  },
+  {
+   "answer": "Rishi Sunak",
+   "aliases": [
+    "Sunak"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Andy Burnham",
+   "aliases": [
+    "Burnham",
+    "Andrew Burnham"
+   ],
+   "tier": 1,
+   "lore": "Took office in July 2026, a month after winning a by-election at Makerfield to return to the Commons."
+  },
+  {
+   "answer": "Gordon Brown",
+   "aliases": [
+    "Brown"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Theresa May",
+   "aliases": [
+    "May",
+    "Mrs May"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Liz Truss",
+   "aliases": [
+    "Truss",
+    "Elizabeth Truss"
+   ],
+   "tier": 2,
+   "lore": "The shortest-serving prime minister, at 49 days in 2022. A tabloid's lettuce famously outlasted her."
+  },
+  {
+   "answer": "John Major",
+   "aliases": [
+    "Major",
+    "Sir John Major"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Harold Wilson",
+   "aliases": [
+    "Wilson",
+    "Sir Harold Wilson",
+    "Lord Wilson"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Clement Attlee",
+   "aliases": [
+    "Attlee",
+    "Clem Attlee",
+    "Earl Attlee"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Neville Chamberlain",
+   "aliases": [
+    "Chamberlain"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Edward Heath",
+   "aliases": [
+    "Heath",
+    "Ted Heath",
+    "Sir Edward Heath"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Benjamin Disraeli",
+   "aliases": [
+    "Disraeli",
+    "Dizzy",
+    "Earl of Beaconsfield",
+    "Lord Beaconsfield",
+    "Beaconsfield"
+   ],
+   "tier": 2,
+   "lore": "A bestselling novelist, and so far the only prime minister of Jewish birth."
+  },
+  {
+   "answer": "William Gladstone",
+   "aliases": [
+    "Gladstone",
+    "William Ewart Gladstone",
+    "W. E. Gladstone",
+    "Grand Old Man",
+    "GOM",
+    "People's William"
+   ],
+   "tier": 2,
+   "lore": "Prime minister four times, the last time at 82: the oldest ever to take office."
+  },
+  {
+   "answer": "Robert Walpole",
+   "aliases": [
+    "Walpole",
+    "Sir Robert Walpole",
+    "Earl of Orford"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "Usually counted as the first prime minister, from 1721, and the first to live at 10 Downing Street, from 1735."
+  },
+  {
+   "answer": "Harold Macmillan",
+   "aliases": [
+    "Macmillan",
+    "Supermac",
+    "Earl of Stockton",
+    "Lord Stockton"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Anthony Eden",
+   "aliases": [
+    "Eden",
+    "Sir Anthony Eden",
+    "Earl of Avon",
+    "Lord Avon"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "James Callaghan",
+   "aliases": [
+    "Callaghan",
+    "Jim Callaghan",
+    "Sunny Jim",
+    "Lord Callaghan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "David Lloyd George",
+   "aliases": [
+    "Lloyd George",
+    "LG",
+    "Welsh Wizard"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Duke of Wellington",
+   "aliases": [
+    "Wellington",
+    "Arthur Wellesley",
+    "Wellesley",
+    "Iron Duke",
+    "Lord Wellington",
+    "Earl of Wellington",
+    "Marquess of Wellington",
+    "1st Duke of Wellington",
+    "Arthur Wellesley, Duke of Wellington"
+   ],
+   "tier": 2,
+   "lore": "The victor of Waterloo fought a duel while prime minister, in 1829. Both men missed, perhaps on purpose."
+  },
+  {
+   "answer": "Pitt the Younger",
+   "aliases": [
+    "William Pitt the Younger",
+    "Younger Pitt",
+    "Pitt",
+    "William Pitt"
+   ],
+   "tier": 2,
+   "lore": "Became prime minister in 1783 at just 24, the youngest ever."
+  },
+  {
+   "answer": "Robert Peel",
+   "aliases": [
+    "Peel",
+    "Sir Robert Peel",
+    "Bobby Peel"
+   ],
+   "tier": 3,
+   "lore": "Founded London's Metropolitan Police in 1829, which is why its officers were called Bobbies and Peelers."
+  },
+  {
+   "answer": "Stanley Baldwin",
+   "aliases": [
+    "Baldwin",
+    "Earl Baldwin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ramsay MacDonald",
+   "aliases": [
+    "MacDonald",
+    "James Ramsay MacDonald"
+   ],
+   "tier": 3,
+   "lore": "Labour's first prime minister, in 1924."
+  },
+  {
+   "answer": "Alec Douglas-Home",
+   "aliases": [
+    "Douglas-Home",
+    "Home",
+    "Sir Alec Douglas-Home",
+    "Lord Home",
+    "Alec Home",
+    "Earl of Home",
+    "Sir Alec",
+    "Lord Dunglass"
+   ],
+   "tier": 3,
+   "lore": "Gave up his earldom to sit in the Commons, and is the only prime minister to have played first-class cricket."
+  },
+  {
+   "answer": "Lord Palmerston",
+   "aliases": [
+    "Palmerston",
+    "Viscount Palmerston",
+    "Henry John Temple",
+    "Henry Temple",
+    "Temple",
+    "Pam",
+    "3rd Viscount Palmerston"
+   ],
+   "tier": 3,
+   "lore": "The last prime minister to die in office, in 1865, and the oldest to take the job for the first time, at 70."
+  },
+  {
+   "answer": "Lord Melbourne",
+   "aliases": [
+    "Melbourne",
+    "Viscount Melbourne",
+    "William Lamb",
+    "Lamb",
+    "2nd Viscount Melbourne"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "H. H. Asquith",
+   "aliases": [
+    "Asquith",
+    "Herbert Asquith",
+    "Herbert Henry Asquith",
+    "Earl of Oxford and Asquith",
+    "Lord Oxford",
+    "Earl of Oxford",
+    "Lord Asquith",
+    "Squiffy"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arthur Balfour",
+   "aliases": [
+    "Balfour",
+    "A. J. Balfour",
+    "Arthur James Balfour",
+    "Lord Balfour",
+    "Earl of Balfour"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lord Salisbury",
+   "aliases": [
+    "Salisbury",
+    "Marquess of Salisbury",
+    "Robert Cecil",
+    "Robert Gascoyne-Cecil",
+    "Gascoyne-Cecil",
+    "Cecil",
+    "3rd Marquess of Salisbury"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Earl Grey",
+   "aliases": [
+    "Charles Grey",
+    "Lord Grey",
+    "Grey",
+    "Earl Gray",
+    "2nd Earl Grey"
+   ],
+   "tier": 3,
+   "lore": "Earl Grey tea is named after him, though nobody is quite sure why."
+  },
+  {
+   "answer": "Lord North",
+   "aliases": [
+    "North",
+    "Frederick North",
+    "Earl of Guilford"
+   ],
+   "tier": 3,
+   "lore": "Prime minister as the American colonies were lost. He begged to resign for years; George III wouldn't let him."
+  },
+  {
+   "answer": "Pitt the Elder",
+   "aliases": [
+    "William Pitt the Elder",
+    "Earl of Chatham",
+    "Chatham",
+    "Lord Chatham",
+    "Elder Pitt",
+    "Great Commoner",
+    "1st Earl of Chatham"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bonar Law",
+   "aliases": [
+    "Andrew Bonar Law",
+    "Law"
+   ],
+   "tier": 3,
+   "lore": "Born in New Brunswick, now part of Canada. At his burial in Westminster Abbey, Asquith is said to have called him the Unknown Prime Minister."
+  },
+  {
+   "answer": "Lord John Russell",
+   "aliases": [
+    "John Russell",
+    "Russell",
+    "Earl Russell",
+    "Lord Russell",
+    "Lord John",
+    "1st Earl Russell"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "George Canning",
+   "aliases": [
+    "Canning"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Spencer Perceval",
+   "aliases": [
+    "Perceval",
+    "Spencer Percival",
+    "Percival"
+   ],
+   "tier": 3,
+   "lore": "The only British prime minister to be assassinated, shot in the lobby of the House of Commons in 1812."
+  },
+  {
+   "answer": "Henry Campbell-Bannerman",
+   "aliases": [
+    "Campbell-Bannerman",
+    "Bannerman",
+    "CB",
+    "Sir Henry Campbell-Bannerman"
+   ],
+   "tier": 4,
+   "lore": "The only prime minister to die at 10 Downing Street, in 1908, nineteen days after resigning."
+  },
+  {
+   "answer": "Earl of Derby",
+   "aliases": [
+    "Derby",
+    "Lord Derby",
+    "Edward Smith-Stanley",
+    "Smith-Stanley",
+    "Edward Stanley",
+    "Lord Stanley",
+    "14th Earl of Derby"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Earl of Aberdeen",
+   "aliases": [
+    "Aberdeen",
+    "Lord Aberdeen",
+    "George Hamilton-Gordon",
+    "Hamilton-Gordon",
+    "4th Earl of Aberdeen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Earl of Rosebery",
+   "aliases": [
+    "Rosebery",
+    "Lord Rosebery",
+    "Archibald Primrose",
+    "Primrose",
+    "5th Earl of Rosebery"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lord Liverpool",
+   "aliases": [
+    "Liverpool",
+    "Earl of Liverpool",
+    "Robert Jenkinson",
+    "Jenkinson",
+    "2nd Earl of Liverpool",
+    "Lord Hawkesbury"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Henry Addington",
+   "aliases": [
+    "Addington",
+    "Lord Sidmouth",
+    "Viscount Sidmouth",
+    "Sidmouth"
+   ],
+   "tier": 4,
+   "lore": "George Canning mocked him in rhyme: 'Pitt is to Addington as London is to Paddington.'"
+  },
+  {
+   "answer": "Earl of Bute",
+   "aliases": [
+    "Bute",
+    "Lord Bute",
+    "John Stuart",
+    "3rd Earl of Bute"
+   ],
+   "tier": 4,
+   "lore": "The first prime minister from Scotland. Crowds mocked him by burning jackboots, a pun on his name."
+  },
+  {
+   "answer": "Duke of Newcastle",
+   "aliases": [
+    "Newcastle",
+    "Thomas Pelham-Holles",
+    "Pelham-Holles",
+    "Thomas Pelham",
+    "Lord Newcastle",
+    "1st Duke of Newcastle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Henry Pelham",
+   "aliases": [
+    "Pelham"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "George Grenville",
+   "aliases": [
+    "Grenville"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Marquess of Rockingham",
+   "aliases": [
+    "Rockingham",
+    "Lord Rockingham",
+    "Charles Watson-Wentworth",
+    "Watson-Wentworth",
+    "2nd Marquess of Rockingham"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lord Grenville",
+   "aliases": [
+    "William Grenville",
+    "Baron Grenville",
+    "William Wyndham Grenville",
+    "1st Baron Grenville"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duke of Portland",
+   "aliases": [
+    "Portland",
+    "William Cavendish-Bentinck",
+    "Cavendish-Bentinck",
+    "Bentinck",
+    "Lord Portland",
+    "3rd Duke of Portland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Earl of Shelburne",
+   "aliases": [
+    "Shelburne",
+    "Lord Shelburne",
+    "William Petty",
+    "Marquess of Lansdowne",
+    "2nd Earl of Shelburne"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duke of Grafton",
+   "aliases": [
+    "Grafton",
+    "Augustus FitzRoy",
+    "FitzRoy",
+    "Lord Grafton",
+    "3rd Duke of Grafton"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duke of Devonshire",
+   "aliases": [
+    "Devonshire",
+    "William Cavendish",
+    "Cavendish",
+    "Lord Devonshire",
+    "4th Duke of Devonshire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Earl of Wilmington",
+   "aliases": [
+    "Wilmington",
+    "Lord Wilmington",
+    "Spencer Compton",
+    "Compton",
+    "1st Earl of Wilmington"
+   ],
+   "tier": 5,
+   "lore": "The first prime minister to die in office, in 1743. Wilmington in Delaware is named after him."
+  },
+  {
+   "answer": "Viscount Goderich",
+   "aliases": [
+    "Goderich",
+    "Lord Goderich",
+    "Frederick Robinson",
+    "F. J. Robinson",
+    "Robinson",
+    "Earl of Ripon",
+    "Prosperity Robinson",
+    "Goody Goderich",
+    "Lord Ripon",
+    "1st Viscount Goderich",
+    "1st Earl of Ripon"
+   ],
+   "tier": 6,
+   "lore": "The only prime minister never to face Parliament in office. Legend says he wept before George IV, who lent him a handkerchief."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Margaret",
+   "aliases": [
+    "Tony",
+    "Gordon",
+    "Theresa",
+    "Rishi",
+    "Keir",
+    "Liz",
+    "Harold",
+    "Clement",
+    "Neville",
+    "Stanley",
+    "Ramsay",
+    "Anthony",
+    "Alec",
+    "Ted",
+    "Edward",
+    "James",
+    "Jim",
+    "John",
+    "David",
+    "Andy",
+    "Robert",
+    "William",
+    "Benjamin",
+    "Arthur",
+    "Henry",
+    "George",
+    "Spencer",
+    "Herbert"
+   ],
+   "reason": "First names won't do here, bar a famous few. The deep wants a surname."
+  },
+  {
+   "answer": "Oliver Cromwell",
+   "aliases": [
+    "Cromwell"
+   ],
+   "reason": "Lord Protector in the 1650s, decades before there was a prime minister."
+  },
+  {
+   "answer": "Thomas Cromwell",
+   "aliases": [
+    "Cardinal Wolsey",
+    "Thomas Wolsey",
+    "Wolsey",
+    "Thomas More"
+   ],
+   "reason": "Henry VIII's chief minister, two centuries before the first prime minister."
+  },
+  {
+   "answer": "Lord Burghley",
+   "aliases": [
+    "William Cecil",
+    "Burghley"
+   ],
+   "reason": "Elizabeth I's chief adviser, long before there was a prime minister."
+  },
+  {
+   "answer": "Joseph Chamberlain",
+   "aliases": [
+    "Joe Chamberlain"
+   ],
+   "reason": "A towering Victorian politician who never became prime minister. His son Neville did."
+  },
+  {
+   "answer": "Austen Chamberlain",
+   "reason": "Foreign Secretary and a Nobel laureate, but never prime minister. His half-brother was."
+  },
+  {
+   "answer": "Rab Butler",
+   "aliases": [
+    "R. A. Butler",
+    "Butler"
+   ],
+   "reason": "Twice passed over for the top job, in 1957 and 1963."
+  },
+  {
+   "answer": "Edward Grey",
+   "aliases": [
+    "Sir Edward Grey",
+    "Viscount Grey"
+   ],
+   "reason": "Foreign Secretary in 1914, never prime minister."
+  },
+  {
+   "answer": "Michael Heseltine",
+   "aliases": [
+    "Heseltine",
+    "John Prescott",
+    "Prescott",
+    "Nick Clegg",
+    "Clegg",
+    "Geoffrey Howe",
+    "Willie Whitelaw",
+    "Dominic Raab",
+    "Angela Rayner",
+    "Rayner",
+    "Oliver Dowden",
+    "David Lammy",
+    "Howe"
+   ],
+   "reason": "A deputy prime minister, never the prime minister."
+  },
+  {
+   "answer": "Jeremy Corbyn",
+   "aliases": [
+    "Corbyn",
+    "Neil Kinnock",
+    "Kinnock",
+    "Ed Miliband",
+    "Miliband",
+    "Michael Foot",
+    "Hugh Gaitskell",
+    "Gaitskell",
+    "William Hague",
+    "Hague",
+    "Iain Duncan Smith",
+    "Michael Howard",
+    "Kemi Badenoch",
+    "Badenoch",
+    "Nigel Farage",
+    "Farage",
+    "Paddy Ashdown",
+    "John Smith",
+    "Charles Kennedy",
+    "Ed Davey",
+    "Jo Swinson",
+    "Keir Hardie",
+    "Hardie"
+   ],
+   "reason": "Led a party, but never became prime minister."
+  },
+  {
+   "answer": "Nicola Sturgeon",
+   "aliases": [
+    "Sturgeon",
+    "Alex Salmond",
+    "Salmond",
+    "John Swinney",
+    "Humza Yousaf",
+    "Donald Dewar",
+    "Mark Drakeford",
+    "Carwyn Jones",
+    "Arlene Foster",
+    "Michelle O'Neill"
+   ],
+   "reason": "A First Minister in Scotland, Wales or Northern Ireland, not prime minister of the UK."
+  },
+  {
+   "answer": "Justin Trudeau",
+   "aliases": [
+    "Jacinda Ardern",
+    "Anthony Albanese",
+    "Narendra Modi",
+    "Pierre Trudeau",
+    "John A. Macdonald",
+    "Robert Menzies",
+    "Bob Hawke",
+    "Jawaharlal Nehru",
+    "Indira Gandhi",
+    "Mark Carney",
+    "Benjamin Netanyahu"
+   ],
+   "reason": "A prime minister, but not of the United Kingdom."
+  },
+  {
+   "answer": "Jim Hacker",
+   "aliases": [
+    "Francis Urquhart",
+    "Harry Perkins"
+   ],
+   "reason": "A prime minister of television, not of history."
+  },
+  {
+   "answer": "Earl of Bath",
+   "aliases": [
+    "Lord Bath",
+    "William Pulteney",
+    "Pulteney"
+   ],
+   "reason": "Asked to form a government in 1746, he gave up within days, so he isn't counted as a prime minister."
+  },
+  {
+   "answer": "Earl Waldegrave",
+   "aliases": [
+    "Waldegrave",
+    "James Waldegrave",
+    "Lord Waldegrave"
+   ],
+   "reason": "Asked to form a government in 1757, he gave up within days, so he isn't counted as a prime minister."
+  },
+  {
+   "answer": "Robert Harley",
+   "aliases": [
+    "Harley"
+   ],
+   "reason": "Queen Anne's chief minister. The office is counted from Walpole in 1721."
+  },
+  {
+   "answer": "Charles James Fox",
+   "aliases": [
+    "Fox",
+    "Charles Fox"
+   ],
+   "reason": "Pitt the Younger's great rival, and three times Foreign Secretary, but never prime minister."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"uk-prime-ministers\" on 28 November 2026."
+}

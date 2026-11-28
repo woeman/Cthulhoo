@@ -31,6 +31,14 @@ export interface PromptDef {
   decoys?: string[];
   /** Word play, where the spelling is the answer: only exact matches count, no typos or plurals. */
   exact?: boolean;
+  /** A class pack's question: the pack's name, shown in place of the category's ("Finance"). */
+  topic?: string;
+  /** A class pack's question: its part of the syllabus ("Markets"). */
+  section?: string;
+  /** A class pack's question: the date its list was true, when lists date (YYYY-MM-DD). */
+  asOf?: string;
+  /** A class pack's question: where a dated list comes from, in a line. */
+  source?: string;
 }
 
 export interface BankDay {
@@ -206,4 +214,6 @@ export interface Settings {
   volume: number; // 0..1
   reducedMotion: 'auto' | 'on' | 'off';
   haptics: boolean;
+  /** The recorded music under the game's own sound. */
+  music: boolean;
 }

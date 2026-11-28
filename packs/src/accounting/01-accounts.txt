@@ -1,0 +1,87 @@
+id: accounting-accounts
+text: Name an account you would find in a general ledger.
+flavor: Every debit has its credit. Something, somewhere, always pays.
+rules: Any asset, liability, equity, income or expense account a business might keep in its books.
+section: The ledger
+---
+1 Cash | Cash at bank | Bank | Cash on hand | Bank account | Cash and cash equivalents | Petty cash
+1 Sales | Revenue | Sales revenue | Income | Service revenue | Fees | Fees earned | Turnover
+1 Accounts receivable | Debtors | Trade debtors | Receivables | Trade receivables | AR | Accounts receivables
+1 Accounts payable | Creditors | Trade creditors | Payables | Trade payables | AP
+1 Inventory | Stock | Inventories | Stock on hand | Merchandise | Merchandise inventory
+1 Wages | Wages expense | Salaries | Salaries expense | Wages and salaries | Payroll | Salaries and wages
+1 Rent | Rent expense
+1 Capital | Owner's equity | Equity | Owner's capital | Share capital | Contributed equity | Issued capital | Common stock
+2 Drawings | Owner's drawings | Withdrawals
+2 Loan | Bank loan | Loan payable | Loans | Notes payable | Borrowings | Long-term debt
+2 Equipment | Plant and equipment | Property, plant and equipment | PPE | Machinery | Plant | Office equipment
+2 Depreciation | Depreciation expense
+2 Accumulated depreciation
+2 Cost of goods sold | COGS | Cost of sales
+2 GST | GST payable | GST collected | GST paid | GST clearing | GST receivable | Sales tax payable | VAT
+2 Retained earnings | Retained profits | Accumulated profits
+2 Interest | Interest expense | Interest revenue | Interest income | Interest payable | Interest received
+2 Advertising | Advertising expense | Marketing expense | Marketing
+2 Electricity | Utilities | Utilities expense | Electricity expense | Power | Gas and electricity
+2 Insurance | Insurance expense | Prepaid insurance
+2 Vehicles | Motor vehicles | Motor vehicle | Vehicle
+2 Land | Buildings | Land and buildings | Premises | Property
+2 Purchases
+2 Mortgage | Mortgage payable
+2 Bad debts | Bad debts expense | Doubtful debts | Bad debt
+2 Goodwill
+2 Supplies | Office supplies | Stationery | Supplies expense
+2 Tax | Income tax | Income tax expense | Tax payable | Income tax payable | Tax expense | Provision for tax
+2 Superannuation | Super | Superannuation payable | Superannuation expense
+2 Dividends | Dividends payable | Dividends paid
+2 Telephone | Telephone expense | Internet | Phone
+2 Bank overdraft | Overdraft
+2 Furniture | Furniture and fittings | Fixtures and fittings | Fittings
+3 Allowance for doubtful debts | Provision for doubtful debts | Allowance for doubtful accounts
+3 Prepaid expenses | Prepayments | Prepaid rent | Prepaid expense
+3 Accrued expenses | Accruals | Accrued wages | Wages payable | Accrued liabilities | Salaries payable
+3 Accrued revenue | Accrued income
+3 Unearned revenue | Revenue received in advance | Deferred revenue | Income in advance | Unearned income
+3 Sales returns | Sales returns and allowances | Returns inwards
+3 Purchase returns | Purchases returns | Returns outwards
+3 Discount allowed | Discount received | Discount expense | Discount revenue | Sales discounts | Purchase discounts
+3 Freight | Freight in | Freight inwards | Cartage | Freight out | Delivery expense | Carriage inwards
+3 Repairs and maintenance | Repairs | Maintenance
+3 Investments | Shares | Short-term investments | Term deposit
+3 Patents | Trademarks | Intangible assets | Intangibles | Copyright | Licences
+3 Debentures | Bonds payable
+3 Reserves | Asset revaluation reserve | Revaluation surplus | General reserve
+3 PAYG withholding | PAYG | PAYG payable | PAYG withholding payable
+3 Annual leave | Provision for annual leave | Leave provisions | Long service leave | Provision for long service leave | Employee benefits
+3 Commission | Commission revenue | Commission expense | Commission income
+3 Rent revenue | Rent received | Rental income
+3 Bank fees | Bank charges
+3 Cleaning | Cleaning expense
+3 Rates | Council rates
+3 Fuel | Motor vehicle expenses | Travel | Travel expenses
+3 Accounting fees | Legal fees | Professional fees | Audit fees
+3 Gain on sale | Loss on sale | Profit on sale of asset | Loss on disposal | Gain on disposal
+6 Suspense | Suspense account :: Where a bookkeeper parks an amount nobody can explain yet. It must be empty before the books close. It is rarely empty.
+4 Profit and loss summary | Income summary | Profit and loss | Trading account
+4 Sundry expenses | Miscellaneous expenses | General expenses | Sundries
+4 Share premium | Additional paid-in capital
+4 Treasury shares | Treasury stock
+4 Deferred tax | Deferred tax liability | Deferred tax asset
+4 Lease liability | Right-of-use asset | Finance lease
+4 Work in progress | WIP | Raw materials | Finished goods
+4 Amortisation | Amortization | Amortisation expense
+4 Impairment | Impairment loss
+4 Research and development | R&D
+4 Donations | Entertainment | Training | Subscriptions | Postage | Printing
+4 Workers compensation | WorkCover | Payroll tax | Fringe benefits tax | FBT
+4 Loan to director | Director's loan | Shareholder loan
+4 Warranty provision | Provision for warranty | Provisions
+4 Non-controlling interest | Minority interest
+4 Foreign exchange gain | Foreign exchange loss | Exchange differences
+4 Inventory write-down | Stock loss | Stock gain | Stock write-down | Shrinkage
+4 Customs duty | Import duty
+6 Cash short and over | Cash over and short :: The account for the few dollars the till has gained or lost by the end of the day, with no one able to say how.
+4 Debtors control | Creditors control | Accounts receivable control | Accounts payable control
+4 Opening balance equity | Historical balancing
+x Debit | Credit | Balance | Ledger | Journal | Trial balance | Balance sheet | Asset | Liability | Expense | Assets | Liabilities | Expenses :: That is the framework, not an account. Name one account kept inside it.
+x Profit | Net profit | Gross profit | Loss | EBITDA | Cash flow :: A result worked out from the accounts, rather than an account itself.

@@ -6,35 +6,35 @@ Rules: Any vegetable in the kitchen sense, including mushrooms. Herbs, grains, n
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (221 answers)
+## Accepted now (224 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (25)
 
-- Carrot — Carrots | Baby carrots | Chantenay | Purple carrot | Gajar | Carotte
-- Potato — Potatoes | Spud | Tatties | Aloo | Alu | Pomme de terre | Patata | Maris Piper | King Edward | Russet | Russet potato | Yukon Gold | Charlotte potato | Jersey Royal | Jersey Royals | New potato | New potatoes | Baby potatoes | Fingerling | Fingerling potato | Red potato | White potato | Baked potato | Jacket potato | Roast potato | Roast potatoes | Irish potato | Spuds | Tattie | Taters | Tater
-- Broccoli — Calabrese | Broccoli florets | Brocoli | Brocolli
+- Carrot — Carrots | Baby carrots | Chantenay | Purple carrot | Gajar | Carotte | Dutch carrot | Dutch carrots | Baby carrot
+- Potato — Potatoes | Spud | Tatties | Aloo | Alu | Pomme de terre | Patata | Maris Piper | King Edward | Russet | Russet potato | Yukon Gold | Charlotte potato | Jersey Royal | Jersey Royals | New potato | New potatoes | Baby potatoes | Fingerling | Fingerling potato | Red potato | White potato | Baked potato | Jacket potato | Roast potato | Roast potatoes | Irish potato | Spuds | Tattie | Taters | Tater | Kipfler | Kipfler potato | Kipflers | Sebago | Sebago potato | Desiree | Desiree potato | Dutch cream | Dutch creams | Dutch cream potato | Pontiac potato | Chat potato | Chat potatoes | Brushed potato | Brushed potatoes | Washed potato | Washed potatoes
+- Broccoli — Calabrese | Broccoli florets | Brocoli | Brocolli | Brockley | Brockly
 - Peas — Pea | Garden peas | Petits pois | Green peas | Frozen peas | Mushy peas | Matar | Mattar
 - Onion — Red onion | Onions | White onion | Yellow onion | Brown onion | Sweet onion | Vidalia onion | Pearl onion | Pickling onion | Silverskin onion | Bermuda onion | Cipollini | Pyaz | Pyaaz | Spanish onion
 - Cabbage — Red cabbage | Savoy cabbage | White cabbage | Green cabbage | Pointed cabbage | Hispi | Sweetheart cabbage | January King | Spring cabbage | Patta gobi | Bandh gobi | Cabbages
-- Cauliflower — Cauli | Green cauliflower | Purple cauliflower | Broccoflower | Gobi | Phool gobi
-- Lettuce — Iceberg | Romaine | Cos | Little gem | Iceberg lettuce | Butterhead | Butterhead lettuce | Bibb lettuce | Boston lettuce | Lollo rosso | Oak leaf lettuce | Batavia | Romaine lettuce | Cos lettuce | Little gem lettuce | Gem lettuce | Baby gem | Leaf lettuce | Red leaf lettuce | Green leaf lettuce | Salad lettuce
+- Cauliflower — Cauli | Green cauliflower | Purple cauliflower | Broccoflower | Gobi | Phool gobi | Collyflower | Cauliflowa
+- Lettuce — Iceberg | Romaine | Cos | Little gem | Iceberg lettuce | Butterhead | Butterhead lettuce | Bibb lettuce | Boston lettuce | Lollo rosso | Oak leaf lettuce | Batavia | Romaine lettuce | Cos lettuce | Little gem lettuce | Gem lettuce | Baby gem | Leaf lettuce | Red leaf lettuce | Green leaf lettuce | Salad lettuce | Butter lettuce | Mignonette | Mignonette lettuce | Baby cos | Lettus
 - Tomato — Tomatoes | Cherry tomato | Cherry tomatoes | Plum tomato | Roma tomato | Beefsteak tomato | Heirloom tomato | Vine tomatoes | San Marzano | Grape tomato | Tamatar
-- Cucumber — Cuke | Lebanese cucumber | English cucumber | Kirby cucumber | Persian cucumber | Armenian cucumber | Cucumbers
-- Spinach — Baby spinach | Palak | Spinach leaves
+- Cucumber — Cuke | Lebanese cucumber | English cucumber | Kirby cucumber | Persian cucumber | Armenian cucumber | Cucumbers | Continental cucumber | Telegraph cucumber | Cucumba
+- Spinach — Baby spinach | Palak | Spinach leaves | English spinach | Spinage
 - Sweetcorn — Corn | Maize | Corn on the cob | Baby corn | Corn cob | Mealies | Mealie | Elote | Makai | Bhutta
-- Pepper — Bell pepper | Capsicum | Sweet pepper | Red pepper | Green pepper | Pimiento | Pimento | Padrón pepper | Padron peppers | Shishito | Shishito pepper | Romano pepper | Ramiro pepper | Banana pepper | Yellow pepper | Orange pepper | Peppers
-- Mushroom — Mushrooms | Button mushroom | White mushroom | Champignon | Button mushrooms | Common mushroom | Shroom
+- Pepper — Bell pepper | Capsicum | Sweet pepper | Red pepper | Green pepper | Pimiento | Pimento | Padrón pepper | Padron peppers | Shishito | Shishito pepper | Romano pepper | Ramiro pepper | Banana pepper | Yellow pepper | Orange pepper | Peppers | Red capsicum | Green capsicum | Yellow capsicum
+- Mushroom — Mushrooms | Button mushroom | White mushroom | Champignon | Button mushrooms | Common mushroom | Shroom | Mushies
 - Brussels sprouts — Sprouts | Brussel sprouts | Brussels sprout | Brussel sprout | Brussels | Sprout
-- Celery — Celery sticks | Celery stalks | Chinese celery | Celery hearts
-- Leek — Baby leeks
-- Courgette — Zucchini | Zucchine | Baby marrow | Calabacita | Summer squash | Courgettes | Zuchini
+- Celery — Celery sticks | Celery stalks | Chinese celery | Celery hearts | Sellery
+- Leek — Baby leeks | Leaks
+- Courgette — Zucchini | Zucchine | Baby marrow | Calabacita | Summer squash | Courgettes | Zuchini | Zukini | Zookini
 - Aubergine — Eggplant | Brinjal | Baingan | Melanzana | Thai eggplant | Japanese eggplant | Garden egg | Eggplants
 - Sweet potato — Kumara | Camote | Batata | Satsumaimo | Japanese sweet potato | Purple sweet potato | Sweet potatoes | Shakarkand
 - Parsnip
-- Beetroot — Beet | Beets | Golden beet | Chioggia | Red beet | Beet greens | Beetroots | Chukandar
-- Green beans — French beans | String beans | Haricots verts | Haricot vert | Fine beans | Snap beans | Bush beans | Pole beans | Bobby beans | Stringless beans | Kenyan beans | Dwarf beans | Green bean
+- Beetroot — Beet | Beets | Golden beet | Chioggia | Red beet | Beet greens | Beetroots | Chukandar | Beat | Beats
+- Green beans — French beans | String beans | Haricots verts | Haricot vert | Fine beans | Snap beans | Bush beans | Pole beans | Bobby beans | Stringless beans | Kenyan beans | Dwarf beans | Green bean | Beans | Bean
 - Kale — Curly kale | Red Russian kale | Borecole
 - Turnip — Baby turnip | Navet | Hakurei | Shalgam | Turnips
 
@@ -45,8 +45,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Asparagus — Sparrowgrass | White asparagus | Green asparagus | Asparagus spears | Asparagus tips | Wild asparagus
 - Radish — Red radish | Black radish | Watermelon radish | French breakfast radish | Radishes
 - Artichoke — Globe artichoke | Artichoke hearts | Artichokes
-- Pumpkin — Sugar pumpkin | Pie pumpkin | Pumpkins
-- Butternut squash
+- Pumpkin — Sugar pumpkin | Pie pumpkin | Pumpkins | Jap pumpkin | Kent pumpkin | Queensland Blue | Queensland Blue pumpkin | Jarrahdale | Jarrahdale pumpkin | Grey pumpkin | Roast pumpkin | Punkin
+- Butternut squash — Butternut pumpkin | Butternut
 - Squash — Spaghetti squash | Winter squash | Gourd
 - Rocket — Arugula | Roquette | Rucola | Wild rocket
 - Spring onion — Scallion | Green onion | Welsh onion | Salad onion | Escallion | Bunching onion
@@ -60,8 +60,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Avocado — Avo | Alligator pear | Avocado pear
 - Okra — Ladies' fingers | Bhindi | Lady's fingers | Bamia | Okro | Ochro | Gumbo
 - Fennel — Florence fennel | Finocchio | Bulb fennel | Fennel bulb
-- Pak choi — Bok choy | Pak choy | Bok choi | Baby pak choi | Shanghai pak choi | Chinese chard | Bak choy | Pok choi
-- Chinese leaf — Napa cabbage | Chinese cabbage | Wombok | Peking cabbage | Celery cabbage | Baechu | Hakusai | Chinese leaves
+- Pak choi — Bok choy | Pak choy | Bok choi | Baby pak choi | Shanghai pak choi | Chinese chard | Bak choy | Pok choi | Buck choy | Baby bok choy | Baby buk choy | Shanghai bok choy
+- Chinese leaf — Napa cabbage | Chinese cabbage | Wombok | Peking cabbage | Celery cabbage | Baechu | Hakusai | Chinese leaves | Wong bok
 - Watercress
 - Chard — Swiss chard | Rainbow chard | Silverbeet | Spinach beet | Perpetual spinach | Leaf beet | Ruby chard
 - Kohlrabi — German turnip | Turnip cabbage | Knol-khol
@@ -79,16 +79,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Collard greens — Collards | Collard | Sukuma wiki
 - Bamboo shoots — Bamboo shoot | Bamboo
 - Water chestnut — Chinese water chestnut | Water chestnuts
-- Rhubarb
+- Rhubarb — Roobarb
 - Seaweed — Kelp | Nori | Laver | Wakame | Kombu | Dulse | Sea lettuce | Hijiki | Arame | Carrageen | Irish moss | Sea grapes | Laverbread | Seaweeds | Sea vegetable
-- Beansprouts — Mung bean sprouts | Beansprout
+- Beansprouts — Mung bean sprouts | Beansprout | Bean shoots | Bean shoot
 - Spring greens
 - Marrow — Vegetable marrow
-- Gherkin — Cornichon | Pickling cucumber
-- Shiitake
+- Gherkin — Cornichon | Pickling cucumber | Gurkin
+- Shiitake — Shitaki
 - Portobello — Portabella | Portobello mushroom | Flat mushroom | Open cap mushroom
 - Oyster mushroom — Pearl oyster | Grey oyster
-- Chestnut mushroom — Cremini | Crimini | Baby bella | Brown mushroom | Swiss brown
+- Chestnut mushroom — Cremini | Crimini | Baby bella | Brown mushroom | Swiss brown | Swiss brown mushroom | Swiss brown mushrooms | Swiss browns
 - Tomatillo — Husk tomato | Tomate verde
 - Lima beans — Butter beans | Sieva beans
 - Cress — Garden cress | Land cress | Upland cress | Mustard and cress | Peppercress
@@ -116,7 +116,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Truffle — Black truffle | White truffle | Summer truffle | Truffles
 - Purple sprouting broccoli
 - Cavolo nero — Tuscan kale | Lacinato kale
-- Pattypan
+- Pattypan — Button squash | Baby squash | Patty pan squash | Custard squash
 - Calabash — Bottle gourd | Lauki | Doodhi | Opo squash
 - Drumstick — Moringa
 - Tindora — Ivy gourd | Tendli | Kovakkai
@@ -134,7 +134,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Callaloo
 - Broccoli rabe — Rapini | Cime di rapa | Broccoletti | Broccoli raab | Rape greens
 - Choy sum — Cai xin | Yu choy | Chinese flowering cabbage | Choi sum
-- Snake beans — Yardlong beans | Long beans | Chinese long beans | Yard-long bean
+- Snake beans — Yardlong beans | Long beans | Chinese long beans | Yard-long bean | Asparagus bean | Asparagus beans
 - Wax beans — Yellow beans | Yellow wax beans
 - Acorn squash
 - Kabocha — Japanese pumpkin | Kabocha squash
@@ -157,7 +157,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Squash blossoms — Courgette flowers | Zucchini flowers | Pumpkin flowers | Squash flowers
 - Sorrel — French sorrel
 
-### Tier 5: expert (84)
+### Tier 5: expert (87)
 
 - Scorzonera — Black salsify
 - Sea kale
@@ -243,24 +243,28 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Slippery Jack
 - Fairy ring champignon — Fairy ring mushroom | Mousseron
 - Huitlacoche — Corn smut | Cuitlacoche | Mexican truffle
+- Bush tomato — Bush tomatoes | Kutjera | Desert raisin | Akudjura
+- Murnong — Yam daisy | Yam daisies | Myrnong | Murrnong
+- Saltbush — Old man saltbush
 
 ### Tier 6: rare jackpots (2)
 
 - Skirret
 - Rampion — Rapunzel
 
-## Refused on purpose (11)
+## Refused on purpose (12)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Vegetable | Veg | Veggies | Greens | Salad — "Which one?"
+- Vegetable | Veg | Veggies | Greens | Salad | Root vegetables | Root vegetable | Legumes | Legume | Leafy greens — "Which one?"
 - Apple | Banana | Orange | Strawberry | Grape | Pear | Mango — "A fruit, as you well know."
-- Lentil | Lentils | Chickpea | Chickpeas | Kidney beans | Baked beans — "A dried pulse. The deep files those separately."
+- Lentil | Lentils | Chickpea | Chickpeas | Kidney beans | Baked beans | Mung beans | Mung bean — "A dried pulse. The deep files those separately."
 - Rice | Wheat | Oats | Barley | Quinoa — "A grain."
-- Chips | French fries | Fries | Crisps | Mash | Mashed potato | Hash browns — "Made from a vegetable, which you could have just said."
+- Chips | French fries | Fries | Crisps | Mash | Mashed potato | Hash browns | Hot chips | Potato scallop | Potato scallops | Potato cake | Potato cakes | Wedges | Potato wedges | Coleslaw | Slaw — "Made from a vegetable, which you could have just said."
 - Ketchup — "Not a vegetable, whatever a 1981 plan for American school lunches suggested."
-- Pickle — "A preserve. Name the vegetable."
+- Pickle | Pickles | Sauerkraut | Kimchi | Pickled onion | Pickled onions — "A preserve. Name the vegetable."
 - Basil | Parsley | Coriander | Mint | Thyme | Rosemary | Chives | Dill | Sage | Oregano | Tarragon | Chervil | Lemongrass | Bay leaf | Marjoram | Lovage | Curry leaves — "A herb."
 - Peanut — "A legume, eaten like a nut."
 - Ginger | Turmeric | Galangal | Wasabi — "A spice, though it grows underground like a root vegetable."
 - Chestnut | Almond | Walnut | Hazelnut | Cashew — "A nut, as far as the kitchen is concerned."
+- Vegemite | Marmite | Promite — "A yeast spread, despite the name. The deep takes it on toast, not as a vegetable."

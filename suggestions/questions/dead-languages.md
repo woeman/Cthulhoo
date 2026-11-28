@@ -6,13 +6,13 @@ Rules: Any language with no native speakers left, ancient or recent. Revived lan
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (353 answers)
+## Accepted now (356 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (5)
 
-- Latin — Classical Latin | Vulgar Latin | Old Latin | Late Latin | Medieval Latin | Ecclesiastical Latin | Church Latin | Lingua Latina | Latine | Neo-Latin | New Latin | Renaissance Latin | Archaic Latin | Early Latin | Golden Age Latin | Silver Latin | Imperial Latin | Ancient Latin | Roman Latin | Ancient Roman | Latin language
+- Latin — Classical Latin | Vulgar Latin | Old Latin | Late Latin | Medieval Latin | Ecclesiastical Latin | Church Latin | Lingua Latina | Latine | Neo-Latin | New Latin | Renaissance Latin | Archaic Latin | Early Latin | Golden Age Latin | Silver Latin | Imperial Latin | Ancient Latin | Roman Latin | Ancient Roman | Latin language | Latten
 - Ancient Greek — Classical Greek | Attic Greek | Homeric Greek | Koine Greek | Koine | Hellenistic Greek | Biblical Greek | Doric Greek | Old Greek | Archaic Greek | Aeolic Greek | Ionic Greek | Epic Greek | New Testament Greek | Arcadocypriot Greek | Greek (ancient) | Ancient Greek language | Hellenistic Koine
 - Sanskrit — Vedic Sanskrit | Vedic | Classical Sanskrit | Samskrita | Samskritam | Sanskrut | Sanscrit | Ancient Sanskrit | Old Indo-Aryan | Sanskrit language
 - Old English — Anglo-Saxon | Englisc | Saxon | Ancient English | Old Anglo-Saxon | Anglo-Saxon English | Old English language
@@ -21,17 +21,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 2: common (12)
 
 - Cornish — Kernewek | Kernowek | Old Cornish | Middle Cornish | Cornish language
-- Manx — Manx Gaelic | Gaelg | Gailck | Manx language
+- Manx — Manx Gaelic | Gaelg | Gailck | Manx language | Manks
 - Sumerian — Emegir | Emesal | Ancient Sumerian | Sumerian language
 - Etruscan — Etrurian | Rasenna | Ancient Etruscan | Etruscan language
 - Old Norse — Norse | Old Icelandic | Old Norwegian | Old West Norse | Old East Norse | Old Nordic | Ancient Norse | Norrœnt | Old Scandinavian | Old Norse language
 - Middle English — Chaucerian English | Chaucer's English | Medieval English | Middle English language
 - Akkadian — Babylonian | Old Assyrian | Old Babylonian | Assyrian | Neo-Assyrian | Middle Assyrian | Neo-Babylonian | Middle Babylonian | Standard Babylonian | Old Akkadian | Assyro-Babylonian | Accadian | Ancient Assyrian | Ancient Babylonian | Ancient Akkadian | Akkadian language
-- Hittite — Nesite | Nesili | Neshili | Kanesian | Ancient Hittite | Hittite language
+- Hittite — Nesite | Nesili | Neshili | Kanesian | Ancient Hittite | Hittite language | Hetite
 - Coptic — Sahidic | Bohairic | Sahidic Coptic | Bohairic Coptic | Coptic Egyptian | Coptic language
 - Gothic — Visigothic | Ostrogothic | Biblical Gothic | Ancient Gothic | Gothic language
-- Phoenician — Canaanite | Ancient Phoenician | Phoenician language
-- Hebrew — Hebrew language
+- Phoenician — Canaanite | Ancient Phoenician | Phoenician language | Fonecian | Fonician | Finician
+- Hebrew — Hebrew language | Hebrue | Hebru
 
 ### Tier 3: known to fans (21)
 
@@ -127,7 +127,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sakhalin Ainu — Ainu | Karafuto Ainu | Ainu language | Sakhalin Ainu language
 - Old Yiddish — Early Yiddish | Old Yiddish language
 
-### Tier 5: expert (246)
+### Tier 5: expert (249)
 
 - Faliscan — Faliscan language
 - Messapic — Messapian | Messapic language
@@ -313,7 +313,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - ǀXam
 - Moriori — Moriori language
 - Kaurna — Kaurna language
-- Dharug — Darug | Dharuk | Sydney language | Eora | Dharug language
+- Dharug — Darug | Dharuk | Sydney language | Eora | Dharug language | Gadigal | Cadigal | Gadigal language
 - Mbabaram — Mbabaram language
 - Himyaritic — Himyarite | Himyaritic language
 - Minaean — Minaic | Minaean language
@@ -375,13 +375,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kathlamet — Kathlamet language
 - Wichita — Wichita language
 - Etchemin — Etchemin language
+- Awabakal — Awabagal | Awabakal language
+- Dharawal — Tharawal | Thurawal | Dharawal language
+- Ngunnawal — Ngunawal | Ngunnawal language
 
 ### Tier 6: rare jackpots (2)
 
 - Crimean Gothic — Crimean Gothic language
 - Eteocretan — Eteocretan language
 
-## Refused on purpose (24)
+## Refused on purpose (25)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -409,3 +412,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Pig Latin | Dog Latin — "A word game played inside English, not a language of its own."
 - Persian | Farsi — "Alive, as Farsi, with tens of millions of speakers. Its older forms would have counted."
 - Macedonian — "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."
+- Aboriginal languages | Aboriginal | Aboriginal language | Australian Aboriginal | Australian languages | Indigenous languages | Indigenous Australian languages — "Hundreds of languages, and many are still spoken. Name one that has fallen silent."

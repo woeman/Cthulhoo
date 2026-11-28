@@ -6,28 +6,28 @@ Rules: Any fruit you can eat, including vegetables that are botanically fruit, l
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (259 answers)
+## Accepted now (294 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (17)
 
-- Apple — Apples | Red apple | Green apple | Cooking apple | Eating apple | Granny Smith | Pink Lady | Cripps Pink | Gala | Royal Gala | Golden Delicious | Red Delicious | Braeburn | Fuji | Bramley | Bramley apple | Jazz apple | Honeycrisp | Cox's Orange Pippin | Cox | Cox's | McIntosh | Macintosh | Jonagold | Empire apple | Cortland | Egremont Russet | Russet apple | Envy apple | Cosmic Crisp | Ambrosia apple | Kanzi | Discovery apple | Spartan apple | Jonathan apple | Northern Spy | Winesap | Crispin apple | Mutsu | Newtown Pippin | Pippin | Elstar | Boskoop | Rome Beauty | Granny Smith apple | Gala apple | Fuji apple | Pink Lady apple
-- Banana — Bananas | Cavendish | Cavendish banana | Lady finger banana | Red banana | Gros Michel
-- Orange — Navel orange | Valencia orange | Jaffa orange | Jaffa | Sweet orange | Cara Cara orange
-- Strawberry
+- Apple — Apples | Red apple | Green apple | Cooking apple | Eating apple | Granny Smith | Pink Lady | Cripps Pink | Gala | Royal Gala | Golden Delicious | Red Delicious | Braeburn | Fuji | Bramley | Bramley apple | Jazz apple | Honeycrisp | Cox's Orange Pippin | Cox | Cox's | McIntosh | Macintosh | Jonagold | Empire apple | Cortland | Egremont Russet | Russet apple | Envy apple | Cosmic Crisp | Ambrosia apple | Kanzi | Discovery apple | Spartan apple | Jonathan apple | Northern Spy | Winesap | Crispin apple | Mutsu | Newtown Pippin | Pippin | Elstar | Boskoop | Rome Beauty | Granny Smith apple | Gala apple | Fuji apple | Pink Lady apple | Golden apple | Jazz | Bravo apple | Sundowner | Jonathan
+- Banana — Bananas | Cavendish | Cavendish banana | Lady finger banana | Red banana | Gros Michel | Nana | Lady finger | Sugar banana
+- Orange — Navel orange | Valencia orange | Jaffa orange | Jaffa | Sweet orange | Cara Cara orange | Navel | Valencia | Cara Cara
+- Strawberry — Strawb | Strawbs | Strawbies
 - Grape — Grapes | Raisin | Sultana | Red grape | Green grape | White grape | Black grape | Seedless grape | Concord grape | Muscat | Muscat grape | Zante currant | Thompson seedless | Cotton candy grape
-- Pear — Pears | Conference pear | Conference | Williams pear | Bartlett | Bartlett pear | Comice | Comice pear | Bosc | Bosc pear | Anjou | Anjou pear | Concorde pear | Packham pear
-- Mango
+- Pear — Pears | Conference pear | Conference | Williams pear | Bartlett | Bartlett pear | Comice | Comice pear | Bosc | Bosc pear | Anjou | Anjou pear | Concorde pear | Packham pear | Packham | Beurre Bosc | Corella pear | Corella
+- Mango — Bowen mango | Kensington Pride | Kensington Pride mango | R2E2 | R2E2 mango | Honey Gold | Honey Gold mango | Calypso mango | Calypso
 - Pineapple
 - Cherry — Sweet cherry | Black cherry | Bing cherry | Rainier cherry | Maraschino cherry | Glacé cherry | Wild cherry
 - Watermelon
 - Lemon
 - Peach — White peach | Yellow peach
 - Kiwi — Kiwifruit | Chinese gooseberry | Gold kiwi | Golden kiwi
-- Raspberry — Red raspberry | Golden raspberry | Yellow raspberry
+- Raspberry — Red raspberry | Golden raspberry | Yellow raspberry | Native raspberry | Atherton raspberry
 - Blueberry — Wild blueberry | Highbush blueberry | Lowbush blueberry
-- Plum — Prune | Victoria plum | Santa Rosa plum | Red plum
+- Plum — Prune | Victoria plum | Santa Rosa plum | Red plum | Blood plum
 - Tomato — Tomatoes | Cherry tomato | Plum tomato | Beefsteak tomato | Heirloom tomato | Roma tomato | Love apple
 
 ### Tier 2: common (27)
@@ -40,15 +40,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pomegranate
 - Papaya — Pawpaw | Papaw
 - Passion fruit — Granadilla | Maracuja | Maypop | Lilikoi | Purple granadilla
-- Fig
+- Fig — Sandpaper fig | Port Jackson fig | Moreton Bay fig
 - Blackberry — Bramble | Brambles
 - Nectarine
 - Avocado — Avo | Avocado pear | Alligator pear | Hass avocado | Hass
 - Cranberry
 - Clementine
 - Tangerine
-- Satsuma
-- Mandarin — Mandarin orange | Mandarine
+- Satsuma — Mikan | Unshu mikan
+- Mandarin — Mandarin orange | Mandarine | Mandy | Mandie | Imperial mandarin | Afourer | Afourer mandarin | Murcott | Honey Murcott | Ellendale | Hickson
 - Lychee — Litchi | Lichee | Lichi
 - Dragon fruit — Pitaya | Pitahaya
 - Date — Medjool | Medjool date
@@ -58,14 +58,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Guava
 - Blackcurrant — Currant | Currants
 - Blood orange — Moro orange | Tarocco
-- Makrut lime — Makrut | Thai lime | Magrood
+- Makrut lime — Makrut | Thai lime | Magrood | Kaffir lime | Kaffir
 
 ### Tier 3: known to fans (44)
 
 - Redcurrant
 - Kumquat — Cumquat
 - Persimmon — Sharon fruit | Kaki | Hachiya | Fuyu
-- Star fruit — Carambola | Balimbing
+- Star fruit — Carambola | Balimbing | Five corner | Five corners
 - Quince
 - Elderberry
 - Damson — Damson plum
@@ -79,7 +79,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rambutan
 - Mangosteen
 - Physalis — Cape gooseberry | Golden berry | Ground cherry | Husk cherry | Inca berry | Poha | Poha berry
-- Prickly pear — Cactus fruit | Cactus pear | Sabra | Barbary fig | Indian fig | Opuntia | Nopal fruit
+- Prickly pear — Cactus fruit | Cactus pear | Sabra | Barbary fig | Indian fig | Opuntia | Nopal fruit | Tuna | Tuna fruit
 - Pomelo — Pummelo | Shaddock
 - Ugli fruit — Ugli | Uniq fruit | Uniq
 - Yuzu
@@ -98,9 +98,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nashi — Asian pear | Nashi pear | Korean pear | Sand pear | Apple pear
 - Bitter orange — Seville orange | Sour orange
 - Squash — Acorn squash | Spaghetti squash | Patty pan | Pattypan squash | Delicata | Hubbard squash | Gem squash | Winter squash | Summer squash
-- Sour cherry — Morello | Morello cherry | Tart cherry | Montmorency cherry | Amarena cherry
+- Sour cherry — Morello | Morello cherry | Tart cherry | Montmorency cherry | Amarena cherry | Morella
 - Meyer lemon
-- Galia — Galia melon
+- Galia — Galia melon | Halia
 - Flat peach — Doughnut peach | Donut peach | Saturn peach | Paraguayo | Peento
 - Gherkin — Cornichon
 - Wild strawberry — Alpine strawberry | Fraise des bois | Woodland strawberry
@@ -169,7 +169,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kakadu plum — Gubinge | Billygoat plum
 - American pawpaw — Asimina | Indiana banana | Hoosier banana | Prairie banana
 
-### Tier 5: expert (110)
+### Tier 5: expert (145)
 
 - Salak — Snake fruit
 - Acerola — Barbados cherry | West Indian cherry
@@ -179,8 +179,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Baobab
 - Cupuaçu
 - Mamey sapote — Mamey | Sapote | Zapote
-- Black sapote
-- Juneberry — Serviceberry | Saskatoon berry
+- Black sapote — Chocolate pudding fruit
+- Juneberry — Serviceberry | Saskatoon berry | Saskatoon
 - Lucuma
 - Langsat — Lanzones | Duku
 - Santol
@@ -189,9 +189,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bael
 - Wood apple
 - Kokum
-- Phalsa
+- Phalsa — Halsa | Phala
 - Cornelian cherry
-- Monstera — Monstera deliciosa | Fruit salad plant
+- Monstera — Monstera deliciosa | Fruit salad plant | Mexican breadfruit | Swiss cheese plant | Ceriman
 - Hawthorn — Haw | Hawthorn berry | Mayhaw
 - Rowan berry — Rowan | Mountain ash berry
 - Mangaba
@@ -256,7 +256,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ambarella — June plum | Kedondong
 - Jocote — Red mombin | Purple mombin | Spanish plum
 - Yellow mombin — Cajá | Hog plum
-- Nance — Nanche
+- Nance — Nanche | Nane | Nanc
 - Grumichama
 - Camu camu
 - Buriti
@@ -268,12 +268,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Monkey orange
 - African star apple — Agbalumo | Udara | White star apple
 - Safou — African pear | Bush butter
-- Quandong — Native peach | Desert quandong
+- Quandong — Native peach | Desert quandong | Desert peach | Sweet quandong
 - Davidson's plum
 - Riberry
 - Lilly pilly — Lilli pilli
-- Muntries — Emu apple
-- Bush tomato
+- Muntries — Emu apple | Munthari | Muntari | Native cranberry | Muntrie
+- Bush tomato — Kutjera | Desert raisin | Akudjura
 - Strawberry tree — Arbutus | Madroño | Arbutus berry
 - Chokecherry
 - Beach plum
@@ -281,13 +281,48 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Azarole — Mediterranean medlar
 - Japanese quince — Flowering quince | Chaenomeles
 - Date plum
+- Hala fruit — Hala | Pandanus fruit | Pandanus | Screwpine fruit
+- Akebia — Akebi | Chocolate vine fruit | Chocolate vine
+- Gac — Baby jackfruit | Spiny bitter gourd
+- Pitangatuba
+- Mabolo — Velvet apple | Kamagong
+- Bacupari
+- Bignay — Bugnay | Queensland cherry
+- Illawarra plum — Plum pine
+- Burdekin plum
+- Midyim — Midyim berry | Midgen berry | Midjim berry
+- Desert lime — Outback lime | Bush lime | Native cumquat | Native kumquat
+- Blood lime — Australian blood lime | Red centre lime
+- Sunrise lime — Australian sunrise lime
+- Dooja — Round lime | Gympie lime | Australian round lime
+- Bush banana
+- Wild orange — Bush orange | Native orange
+- Appleberry — Apple dumpling
+- Lemon aspen
+- Blue quandong — Blue fig | Silver quandong
+- Cedar Bay cherry — Beach cherry
+- Native tamarind
+- Pigface — Karkalla | Pigface fruit
+- Native cherry — Cherry ballart
+- Geebung
+- Conkerberry — Conkleberry | Bush plum
+- Lemonade fruit — Lemonade lemon
+- Peacharine
+- Ponkan
+- Iyokan
+- Hassaku
+- Natsumikan — Amanatsu
+- Shikuwasa — Shequasar | Hirami lemon
+- Monk fruit — Luo han guo
+- Wampee — Wampi
+- Saguaro fruit — Saguaro
 
 ### Tier 6: rare jackpots (2)
 
 - Pequi
 - Ice cream bean — Inga
 
-## Refused on purpose (11)
+## Refused on purpose (10)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -296,9 +331,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Mushroom — "A fungus. Its fruiting body does not count, however much it sounds like it should."
 - Sweetcorn | Corn | Maize | Rice | Wheat — "A grain. The deep has to draw the line somewhere."
 - Peanut | Pea | Peas | Bean | Lentil | Chickpea — "A legume. The deep has to draw the line somewhere."
-- Almond | Walnut | Hazelnut | Cashew | Pistachio | Chestnut | Pecan | Brazil nut | Macadamia | Nut | Pine nut | Acorn — "A nut, as far as the kitchen is concerned."
-- Jam | Marmalade | Fruit salad | Smoothie | Juice — "Made of fruit, but not a fruit."
+- Almond | Walnut | Hazelnut | Cashew | Pistachio | Chestnut | Pecan | Brazil nut | Macadamia | Nut | Pine nut | Acorn | Bunya nut | Bunya | Bunya nuts — "A nut, as far as the kitchen is concerned."
+- Jam | Marmalade | Fruit salad | Smoothie | Juice | Fruit cake | Tinned fruit | Two fruits | Fruit cup | Fruit leather — "Made of fruit, but not a fruit."
 - Forbidden fruit — "A figure of speech. Which fruit?"
-- Kaffir lime | Kaffir — "That old name is a slur in southern Africa. Call it a makrut lime."
 - Lettuce | Broccoli | Cabbage | Spinach | Celery | Cauliflower | Kale | Asparagus | Leek | Brussels sprout | Artichoke — "A vegetable that isn't a fruit, even to a botanist."
 - Elderflower — "The flower. Wait a few months for its berries."

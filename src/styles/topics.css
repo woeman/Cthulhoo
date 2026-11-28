@@ -1,0 +1,151 @@
+/* The topic tick-boxes: engraved stops, like the séance's candles and seconds. */
+
+.tp {
+  display: grid;
+  gap: var(--space-3);
+  margin: 0;
+  padding: 0;
+  border: 0;
+  min-width: 0;
+  text-align: left;
+}
+
+.tp-k {
+  padding: 0;
+  font-family: var(--font-display-caps);
+  font-size: var(--step--1);
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink-muted);
+}
+
+.tp-groups {
+  display: grid;
+  gap: var(--space-3);
+}
+
+.tp-group {
+  display: grid;
+  gap: var(--space-2);
+}
+
+.tp-group-head {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+  border-bottom: var(--rule-hair) solid var(--color-rule-soft);
+  padding-bottom: 2px;
+}
+
+.tp-group-k {
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-log);
+  text-transform: uppercase;
+  color: var(--color-ink-muted);
+}
+
+.tp-group-all {
+  appearance: none;
+  border: 0;
+  background: none;
+  padding: var(--space-1) var(--space-2);
+  margin: calc(var(--space-1) * -1) calc(var(--space-2) * -1) calc(var(--space-1) * -1) 0;
+  min-height: 32px;
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-log);
+  text-transform: uppercase;
+  color: var(--color-glow);
+  cursor: pointer;
+}
+
+.tp-group-all:hover {
+  text-decoration: underline;
+}
+
+.tp-group-all:focus-visible {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 2px;
+}
+
+.tp-chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2);
+}
+
+.tp-chip {
+  position: relative;
+  display: inline-flex;
+  align-items: baseline;
+  gap: var(--space-2);
+  min-height: 44px;
+  padding: var(--space-2) var(--space-3);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  cursor: pointer;
+  user-select: none;
+  align-items: center;
+  transition:
+    border-color var(--dur-quick),
+    background var(--dur-quick),
+    box-shadow var(--dur-ui);
+}
+
+.tp-chip:hover {
+  border-color: var(--color-rule);
+}
+
+.tp-name {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  line-height: 1.15;
+}
+
+.tp-n {
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.tp-chip:has(input:checked) {
+  border-color: var(--color-action);
+  background: color-mix(in oklab, var(--color-action) 12%, transparent);
+  box-shadow:
+    0 0 0 3px var(--color-plate-veil),
+    0 0 0 4px var(--color-rule-soft);
+}
+
+.tp-chip:has(input:checked) .tp-name {
+  color: var(--color-action);
+}
+
+.tp-chip:has(input:focus-visible) {
+  outline: 2px solid var(--color-focus);
+  outline-offset: 3px;
+}
+
+.tp-every {
+  justify-content: space-between;
+}
+
+.tp-note {
+  margin: 0;
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  line-height: 1.4;
+  color: var(--color-ink-muted);
+}
+
+/* the sheet that opens a dive on chosen topics */
+.chart-lede {
+  margin: 0 0 var(--space-4);
+  color: var(--color-ink-muted);
+}
+
+.chart-fail {
+  margin: var(--space-3) 0 0;
+  color: var(--color-refused);
+}

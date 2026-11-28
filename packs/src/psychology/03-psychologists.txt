@@ -1,0 +1,161 @@
+id: psychology-psychologists
+text: Name a famous psychologist or psychiatrist.
+flavor: They spent their lives watching other people think. It did some of them no good at all.
+rules: Anyone famous for studying the mind or behaviour. Surnames are fine.
+section: History and approaches
+---
+1 Sigmund Freud | Freud
+1 Ivan Pavlov | Pavlov
+1 Carl Jung | Jung | C. G. Jung | Carl Gustav Jung
+1 B. F. Skinner | Skinner | BF Skinner | Burrhus Frederic Skinner
+1 Abraham Maslow | Maslow
+2 Jean Piaget | Piaget
+2 Stanley Milgram | Milgram
+2 Philip Zimbardo | Zimbardo
+2 Albert Bandura | Bandura
+2 Carl Rogers | Rogers
+2 Erik Erikson | Erikson
+2 John Watson | John B. Watson | Watson
+2 William James | James
+2 Wilhelm Wundt | Wundt
+2 Lev Vygotsky | Vygotsky
+2 Daniel Kahneman | Kahneman
+2 Elizabeth Loftus | Loftus
+2 Jordan Peterson | Peterson
+2 Dr Phil | Phil McGraw | Dr. Phil
+2 Anna Freud
+2 Alfred Adler | Adler
+2 Hermann Rorschach | Rorschach
+2 Solomon Asch | Asch
+2 Lawrence Kohlberg | Kohlberg
+2 Mary Ainsworth | Ainsworth
+2 John Bowlby | Bowlby
+2 Harry Harlow | Harlow
+2 Martin Seligman | Seligman
+2 Hans Eysenck | Eysenck
+2 Howard Gardner | Gardner
+2 Oliver Sacks | Sacks
+2 Viktor Frankl | Frankl
+2 Steven Pinker | Pinker
+3 Aaron Beck | Beck
+3 Albert Ellis | Ellis
+3 Edward Thorndike | Thorndike
+3 Hermann Ebbinghaus | Ebbinghaus
+3 Alfred Binet | Binet
+3 Karen Horney | Horney
+3 Melanie Klein | Klein
+3 Erich Fromm | Fromm
+3 Kurt Lewin | Lewin
+3 Leon Festinger | Festinger
+3 Gordon Allport | Allport
+3 Raymond Cattell | Cattell
+3 Carol Dweck | Dweck
+3 Mihaly Csikszentmihalyi | Csikszentmihalyi
+3 Walter Mischel | Mischel
+3 Amos Tversky | Tversky
+3 Noam Chomsky | Chomsky
+3 Jerome Bruner | Bruner
+3 George Miller | Miller
+3 Ulric Neisser | Neisser
+3 Alan Baddeley | Baddeley
+3 Endel Tulving | Tulving
+3 Richard Atkinson | Atkinson | Richard Shiffrin | Shiffrin
+3 Francis Galton | Galton
+3 Charles Spearman | Spearman
+3 Lewis Terman | Terman
+3 David Wechsler | Wechsler
+3 Robert Sternberg | Sternberg
+3 Daniel Goleman | Goleman
+3 Paul Ekman | Ekman
+3 Stanley Schachter | Schachter
+3 Muzafer Sherif | Sherif
+3 Henri Tajfel | Tajfel
+3 David Rosenhan | Rosenhan
+3 John Darley | Bibb Latané | Latane | Darley
+3 Robert Cialdini | Cialdini
+3 Irving Janis | Janis
+3 Konrad Lorenz | Lorenz
+4 Max Wertheimer | Wertheimer | Wolfgang Köhler | Kohler | Kurt Koffka | Koffka
+4 Edward Titchener | Titchener
+4 G. Stanley Hall | Stanley Hall
+4 Mary Whiton Calkins | Calkins
+4 Margaret Floy Washburn | Washburn
+4 Kenneth Clark | Mamie Clark | Kenneth and Mamie Clark
+3 Emil Kraepelin | Kraepelin
+4 Eugen Bleuler | Bleuler
+4 Jean-Martin Charcot | Charcot
+4 Josef Breuer | Breuer
+4 Pierre Janet | Janet
+4 Philippe Pinel | Pinel
+3 Franz Mesmer | Mesmer
+4 R. D. Laing | Laing | RD Laing
+4 Thomas Szasz | Szasz
+3 Jacques Lacan | Lacan
+4 Wilhelm Reich | Reich
+4 Otto Rank | Rank
+4 Donald Winnicott | Winnicott
+4 Fritz Perls | Perls
+4 Irvin Yalom | Yalom
+4 Marsha Linehan | Linehan
+3 Elisabeth Kübler-Ross | Kubler-Ross | Kübler-Ross
+4 Robert Hare | Hare
+4 Simon Baron-Cohen | Baron-Cohen
+3 Hans Asperger | Asperger
+4 Leo Kanner | Kanner
+4 Uta Frith | Frith
+4 Brenda Milner | Milner
+4 Wilder Penfield | Penfield
+4 Roger Sperry | Sperry | Michael Gazzaniga | Gazzaniga
+4 Donald Hebb | Hebb
+4 Karl Lashley | Lashley
+3 Paul Broca | Broca
+4 Carl Wernicke | Wernicke
+4 Alexander Luria | Luria
+4 V. S. Ramachandran | Ramachandran
+4 Antonio Damasio | Damasio
+4 Eric Kandel | Kandel
+4 Joseph Wolpe | Wolpe
+4 Clark Hull | Hull
+4 Edward Tolman | Tolman
+4 Robert Rescorla | Rescorla
+4 Julian Rotter | Rotter
+4 Henry Murray | Murray
+4 Isabel Briggs Myers | Myers | Katharine Briggs | Briggs
+4 Diana Baumrind | Baumrind
+4 Urie Bronfenbrenner | Bronfenbrenner
+4 Carol Gilligan | Gilligan
+4 Anders Ericsson | Ericsson
+3 Angela Duckworth | Duckworth
+3 Jonathan Haidt | Haidt
+4 Dan Ariely | Ariely
+4 Daniel Gilbert | Gilbert
+3 Brené Brown | Brene Brown
+3 Esther Perel | Perel
+4 John Gottman | Gottman
+3 Gabor Maté | Gabor Mate | Maté
+3 Bessel van der Kolk | Van der Kolk
+4 Kay Redfield Jamison | Jamison
+4 Hans Selye | Selye
+4 Richard Lazarus | Lazarus
+4 Walter Cannon | Cannon
+4 Cesare Lombroso | Lombroso
+4 Franz Joseph Gall | Gall
+4 Gustav Fechner | Fechner
+4 Ernst Weber | Weber
+4 Hermann von Helmholtz | Helmholtz
+4 James Gibson | J. J. Gibson | Gibson | Eleanor Gibson
+4 Richard Gregory | Gregory
+4 Donald Broadbent | Broadbent
+4 Anne Treisman | Treisman
+4 Frederic Bartlett | Bartlett
+3 Patrick McGorry | McGorry
+4 Ian Hickie | Hickie
+6 John Cade | Cade :: A Melbourne psychiatrist who, in 1949, found that lithium calmed mania, working in a disused hospital kitchen and testing the dose on himself first.
+6 Elton Mayo | Mayo :: Adelaide-born, he ran the 1920s Hawthorne studies in Chicago, which found that factory workers did better simply because someone was paying attention to them.
+4 Dorothy Rowe | Rowe
+3 Steve Biddulph | Biddulph
+4 Michael Carr-Gregg | Carr-Gregg
+5 Pat Dudgeon | Dudgeon :: A Bardi woman from the Kimberley, and the first Aboriginal psychologist to graduate in Australia.
+4 Tracy Westerman | Westerman
+x Charles Darwin | Darwin | Albert Einstein | Einstein | Socrates | Plato | Aristotle | Friedrich Nietzsche | Nietzsche | Karl Marx | Marx | Descartes :: A great thinker about people, but not remembered as a psychologist.
+x Psychologist | Psychiatrist | Therapist | Counsellor | Shrink | Frasier | Frasier Crane | Hannibal Lecter :: Name a real one, by name.
