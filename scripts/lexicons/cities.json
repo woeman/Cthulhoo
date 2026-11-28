@@ -3,7 +3,10 @@
   "about": "Capitals and famous cities a player might type on a city prompt. Validator only.",
   "guards": [
     "european-capitals",
-    "olympic-host-cities"
+    "olympic-host-cities",
+    "us-state-capitals",
+    "capitals-asia",
+    "lost-cities"
   ],
   "entries": [
     "Andorra la Vella",
