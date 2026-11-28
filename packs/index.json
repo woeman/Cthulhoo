@@ -82,7 +82,7 @@
    "asOf": "2026-11-28",
    "file": "languages.json",
    "prompts": 17,
-   "answers": 3663
+   "answers": 3666
   },
   {
    "id": "history",
@@ -94,7 +94,7 @@
    "asOf": "2026-11-28",
    "file": "history.json",
    "prompts": 14,
-   "answers": 3837
+   "answers": 3841
   },
   {
    "id": "accounting",

@@ -55,7 +55,9 @@
     "Tibia bone",
     "Lower leg bone",
     "Tibiae",
-    "Shin bones"
+    "Shin bones",
+    "Shin",
+    "Shins"
    ],
    "tier": 1
   },
@@ -174,7 +176,8 @@
     "Dorsal vertebrae",
     "Back bones",
     "Spine bone",
-    "Lumbar"
+    "Lumbar",
+    "Spin"
    ],
    "tier": 2
   },

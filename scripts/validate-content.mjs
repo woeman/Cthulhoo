@@ -303,6 +303,7 @@ try {
 }
 
 const packsSeen = [];
+const dailyById = new Map();
 for (const where of [...files, ...packFiles]) {
   const isPack = where.startsWith("packs/");
   const data = readJson(join(root, where));
@@ -313,7 +314,17 @@ for (const where of [...files, ...packFiles]) {
     if (data.pack?.id !== id || !isText(data.pack?.name)) error(where, `"pack" needs id "${id}" and a name`);
     for (const p of data.prompts ?? []) {
       if (isText(p?.id) && !p.id.startsWith(`${id}-`)) error(where, `prompt id "${p.id}" must start with "${id}-"`);
+      // A daily question reused under a pack id must accept all the daily one does.
+      const live = isText(p?.id) ? dailyById.get(p.id.slice(id.length + 1)) : undefined;
+      if (live) {
+        const same = (k) => JSON.stringify(p[k] ?? null) === JSON.stringify(live[k] ?? null);
+        if (!["answers", "traps", "decoys", "text", "exact"].every(same)) {
+          error(`${where} › ${p.id}`, `differs from the daily question "${live.id}"; run node scripts/build-packs.mjs`);
+        }
+      }
     }
+  } else {
+    for (const p of Array.isArray(data.prompts) ? data.prompts : []) if (isText(p?.id)) dailyById.set(p.id, p);
   }
   if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles)) {
     error(where, 'expected { "prompts": [ ... ] } or { "riddles": [ ... ] }');
