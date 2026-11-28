@@ -31,8 +31,10 @@ import { disputesText } from './game/disputes';
 import { logbookScreen, type Keepsake } from './screens/logbook';
 import { breathsLeft, codexPages, loadRiddleDeck, todaysRiddle, type RiddleDeck, type RiddleResult } from './game/riddles';
 import { codexBody, riddleScreen } from './screens/riddle';
+import { classScreen } from './screens/classroom';
 import { cultBody, loadPass, postDiveToCult, seanceScreen, type SeanceEnv } from './screens/seance';
 import { loadCult } from './screens/cult';
+import { loadClassPlace } from './party/class-link';
 import { censusRead, censusReport, hasRelay, loadSeat } from './party/online';
 import { CENSUS_MIN, airLine, censusLine, censusRows, censusWait, diversSaid, outOfAir, shareTag, type CensusCount } from './party/census';
 import { relayId } from './screens/seance/model';
@@ -437,9 +439,20 @@ export class App {
   start() {
     const q = new URLSearchParams(location.search);
     const sign = q.get('seance');
+    const cls = q.get('class');
+    // A link to a class (the code on the big screen) goes straight to its door.
+    if (cls) {
+      this.openClass({ sign: cls }, false);
+      return;
+    }
     // A link to a séance, or a reload in the middle of one, goes straight back to the circle.
     if (sign || (hasRelay() && loadSeat())) {
       this.openSeance({ sign: sign ?? undefined, table: q.has('table') }, false);
+      return;
+    }
+    // A reload in the middle of a class goes back to it: the host to the big screen, a diver to their seat.
+    if (hasRelay() && loadClassPlace()) {
+      this.openClass({}, false);
       return;
     }
     this.showTitle();
@@ -555,7 +568,7 @@ export class App {
       actions.append(primary);
     }
     actions.append(
-      h('div', { class: 'title-modes' }, this.riddleEntry(), this.seanceEntry(), this.chartEntry()),
+      h('div', { class: 'title-modes' }, this.riddleEntry(), this.seanceEntry(), this.chartEntry(), this.classEntry()),
       h(
         'div',
         { class: 'row' },
@@ -1859,6 +1872,48 @@ export class App {
     // Whatever screen comes next puts the candles out and closes the line, and the dive's music returns.
     this.loops.push(() => {
       s.destroy();
+      this.music.setScene('dive');
+    });
+  }
+
+  /** The title's way into the Convocation: a séance for a whole class, held on one big screen. */
+  private classEntry(): HTMLElement {
+    const relay = hasRelay();
+    const place = relay ? loadClassPlace() : null;
+    const note = place
+      ? place.key
+        ? `Your class ${place.sign} is open · return to it`
+        : `Your seat at ${place.sign} is kept · sit back down`
+      : relay
+        ? 'A whole class on their phones · you host on the big screen'
+        : 'Opens when the surface relay is set up';
+    return modeButton('leaderboard', 'The Convocation', note, place ? 'playing' : 'new', () => this.openClass(), !relay);
+  }
+
+  /** The Convocation: one screen at the front of the room asks, and everyone answers on their own phone. */
+  private openClass(opts: { sign?: string } = {}, tapped = true) {
+    if (tapped) {
+      void this.sound.start().then(() => this.sound.setMuted(this.settings.muted));
+      this.sound.click();
+    }
+    const soundBtn = h('button', { class: 'icon-btn sc-sound', type: 'button', 'aria-label': 'Sound', 'data-sound-toggle': '', onclick: () => this.toggleSound() });
+    const c = classScreen(this.seanceEnv(), {
+      ...opts,
+      barEnd: soundBtn,
+      onExit: () => {
+        dropParams('class');
+        this.showTitle();
+      },
+    });
+    this.hud.el.hidden = true;
+    this.sounding.el.hidden = true;
+    this.setMadness(100);
+    this.closeEye();
+    this.show(c.el, 'down', { bare: true });
+    this.renderSoundIcon();
+    this.music.setScene('seance');
+    this.loops.push(() => {
+      c.destroy();
       this.music.setScene('dive');
     });
   }
