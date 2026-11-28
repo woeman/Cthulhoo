@@ -29,6 +29,7 @@ import {
   type RiddleResult,
   type RiddleStep,
 } from '../game/riddles';
+import { slipRemark, type SlipRemark } from '../game/slips';
 import { loadRiddles, saveRiddle } from '../game/storage';
 import { calm, icon, madden, sealSvg } from '../ui/art';
 import { fmtMetres, h } from '../ui/dom';
@@ -45,6 +46,8 @@ export interface RiddleScreenData {
   reducedMotion?: boolean;
   /** The riddle's folio in the player's Codex (the next free one while it is unsolved). Worked out from the saved riddles when left out. */
   folio?: number;
+  /** Remarks for an answer taken despite a spelling slip (theme.slips.lines). The game's own when left out. */
+  slips?: string[];
 }
 
 export interface RiddleActions {
@@ -448,6 +451,8 @@ export function riddleScreen(data: RiddleScreenData, actions: RiddleActions): HT
 
   // ------------------------------------------------------------ the end
   let endTitle: HTMLElement | null = null;
+  /** The wry word for a spelling slip the deep forgave on this screen's solve. */
+  let slip: SlipRemark | null = null;
   const endBlock = (): HTMLElement => {
     const solved = attempt.status === 'solved';
     endTitle = h('h2', { class: 'riddle-end__title', id: ids.end, tabindex: '-1' }, solved ? 'Answered' : 'The riddle sinks');
@@ -459,6 +464,7 @@ export function riddleScreen(data: RiddleScreenData, actions: RiddleActions): HT
         h('div', { class: 'riddle-medal', 'aria-hidden': 'true', html: icon('riddle', 'riddle-medal__icon') }),
         endTitle,
         h('p', { class: 'riddle-end__answer' }, `“${attempt.answer ?? riddle.answers[0].answer}”`),
+        slip ? h('p', { class: 'riddle-end__slip' }, slip.before, h('span', { class: 'spelt' }, slip.answer), slip.after) : null,
         h('p', { class: 'riddle-end__gain' }, `+${fmtMetres(riddleMetres(attempt))} m`),
         h('p', { class: 'riddle-end__note' }, heardNote(hintsHeard(attempt))),
         others.length ? h('p', { class: 'riddle-end__also' }, `It answers to ${others.map((a) => `“${a.answer}”`).join(' and ')} as well.`) : null,
@@ -600,8 +606,9 @@ export function riddleScreen(data: RiddleScreenData, actions: RiddleActions): HT
     if (ev.kind === 'solved') {
       input.blur();
       actions.accept?.();
+      if (ev.fuzzy) slip = slipRemark(data.slips ?? [], ev.answer, riddle.id, ev.input);
       showEnd(true);
-      speak(`Answered: ${ev.answer}. ${fmtMetres(ev.metres)} metres. Its page of the Drowned Codex is yours: ${(attempt.page ?? riddle.page).title}.`);
+      speak(`Answered: ${ev.answer}. ${slip ? `${slip.text} ` : ''}${fmtMetres(ev.metres)} metres. Its page of the Drowned Codex is yours: ${(attempt.page ?? riddle.page).title}.`);
       finish();
       return;
     }

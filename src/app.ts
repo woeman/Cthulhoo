@@ -10,6 +10,7 @@ import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
 import { isEphemeral, keepCensus, loadCensusKept, loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
+import { slipRemark } from './game/slips';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -825,7 +826,7 @@ export class App {
         locked = true;
         input.blur();
         input.disabled = true;
-        void this.accept(prompt, res.answer, text, plate);
+        void this.accept(prompt, res.answer, text, plate, res.fuzzy);
         return;
       }
       let line = '';
@@ -876,7 +877,8 @@ export class App {
     return { shown: `“${shown}”`, spoken: `it begins with ${name[0].toUpperCase()}. ${parts > 1 ? `${parts} words, ` : ''}${letters} letters.` };
   }
 
-  private async accept(prompt: PromptDef, answer: AnswerDef, input: string, plate: HTMLElement) {
+  /** `slip`: the deep forgave a spelling slip, so the reveal says so and shows the right spelling. */
+  private async accept(prompt: PromptDef, answer: AnswerDef, input: string, plate: HTMLElement, slip = false) {
     const rec = this.rec!;
     const index = rec.answers.length;
     const omen = omenById(rec.omen);
@@ -916,7 +918,7 @@ export class App {
     const screen = plate.closest('.screen');
     if (screen) screen.classList.add(this.reduced ? 'fade-away' : 'sink-away');
     await this.descend(before, before + gain, record);
-    this.showReveal(record, prompt, answer, sighting);
+    this.showReveal(record, prompt, answer, sighting, slip);
   }
 
   private async timeout(prompt: PromptDef) {
@@ -1043,7 +1045,7 @@ export class App {
     window.setTimeout(() => b.remove(), 700);
   }
 
-  private showReveal(record: AnswerRecord, prompt: PromptDef, answer: AnswerDef | null, sighting: Sighting | null = null) {
+  private showReveal(record: AnswerRecord, prompt: PromptDef, answer: AnswerDef | null, sighting: Sighting | null = null, slip = false) {
     const rec = this.rec!;
     const n = rec.answers.length;
     const count = rec.promptIds.length;
@@ -1056,17 +1058,20 @@ export class App {
     if (tier && answer) {
       const bell = isBellQuestion(rec, n - 1);
       const line = answer.openSecret ? pickLine(this.theme.openSecret.lines, prompt.id, answer.answer) : pickLine(tier.lines, prompt.id, answer.answer);
+      // A spelling slip the deep forgave gets a wry word, and the right spelling.
+      const remark = slip ? slipRemark(this.theme.slips.lines, answer.answer, prompt.id, record.input ?? '') : null;
       kids.push(
         medallion(tier.tier, 88),
         h('h2', { class: `tier-name${tier.tier === 6 ? ' iridescent' : ''}`, id: 'reveal-title', style: `--tier-color: var(--color-tier-${tier.tier})` }, tier.name),
         h('div', { class: 'answer-row' }, h('p', { class: 'echo' }, `“${answer.answer}”`), h('p', { class: 'gain' }, `+${fmtMetres(record.depth)} m`)),
+        remark ? h('p', { class: 'slip' }, remark.before, h('span', { class: 'spelt' }, remark.answer), remark.after) : null,
         census?.el ?? null,
         bell ? h('p', { class: 'bell-mark' }, '♁ The bell tolled: twice as deep') : null,
         answer.openSecret ? h('p', { class: 'secret' }, `${this.theme.openSecret.emoji} ${this.theme.openSecret.name}`) : null,
         h('p', { class: 'line' }, line),
         answer.lore ? h('p', { class: 'lore' }, answer.lore) : null,
       );
-      said.push(`${tier.name}. ${answer.answer}.`, `${fmtMetres(record.depth)} metres deeper, ${fmtMetres(total)} in all.`, census?.said ?? '');
+      said.push(`${tier.name}. ${answer.answer}.`, remark?.text ?? '', `${fmtMetres(record.depth)} metres deeper, ${fmtMetres(total)} in all.`, census?.said ?? '');
       if (bell) said.push('The bell tolled: twice as deep.');
       if (answer.openSecret) said.push(`${this.theme.openSecret.name}.`);
       // Some lines open with the tier's own name; say it once.
@@ -1603,7 +1608,7 @@ export class App {
     }
     const buzz = (pattern: number | number[]) => this.settings.haptics && Sound.buzz(pattern);
     const screen = riddleScreen(
-      { riddle, day, date, attempt, reducedMotion: this.reduced },
+      { riddle, day, date, attempt, reducedMotion: this.reduced, slips: this.theme.slips.lines },
       {
         onBack: () => {
           this.sound.click();
