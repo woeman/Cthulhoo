@@ -158,6 +158,17 @@ const str = (v: unknown, max: number): string | undefined => (typeof v === 'stri
 const strs = (v: unknown, max: number, count: number): string[] =>
   (Array.isArray(v) ? v : []).filter((x): x is string => typeof x === 'string' && !!x.trim() && x.length <= max).slice(0, count);
 
+/**
+ * The most the relay takes for one question. The bank's lists are long (1,300
+ * answers to one question, 700 spellings of one answer), and an answer the relay
+ * drops is a right answer refused, so these sit far above the bank. What really
+ * bounds a question is the size of the message that carries it (see the relay).
+ */
+export const ANSWERS_MAX = 8000;
+export const SPELLINGS_MAX = 2000;
+export const TRAPS_MAX = 2000;
+export const DECOYS_MAX = 4000;
+
 /** Questions sent by the medium's device, checked and cut to size: the relay trusts nobody's JSON. */
 export function cleanPrompts(list: unknown, max: number): PromptDef[] {
   const out: PromptDef[] = [];
@@ -168,21 +179,21 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
     const text = str(r.text, 300);
     if (!id || !text || !Array.isArray(r.answers)) continue;
     const answers: AnswerDef[] = [];
-    for (const a of r.answers.slice(0, 800)) {
+    for (const a of r.answers.slice(0, ANSWERS_MAX)) {
       if (!a || typeof a !== 'object') continue;
       const ar = a as Record<string, unknown>;
       const answer = str(ar.answer, 120);
       const tier = typeof ar.tier === 'number' && Number.isFinite(ar.tier) ? Math.max(1, Math.min(6, Math.round(ar.tier))) : 0;
-      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, 120, 40), tier });
+      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, 120, SPELLINGS_MAX), tier });
     }
     if (!answers.length) continue;
     const traps: TrapDef[] = [];
-    for (const t of Array.isArray(r.traps) ? r.traps.slice(0, 200) : []) {
+    for (const t of Array.isArray(r.traps) ? r.traps.slice(0, TRAPS_MAX) : []) {
       if (!t || typeof t !== 'object') continue;
       const tr = t as Record<string, unknown>;
       const answer = str(tr.answer, 120);
       const reason = str(tr.reason, 300);
-      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, 120, 40), reason });
+      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, 120, SPELLINGS_MAX), reason });
     }
     const rules = str(r.rules, 300);
     const flavor = str(r.flavor, 300);
@@ -194,7 +205,7 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
       ...(flavor ? { flavor } : {}),
       answers,
       traps,
-      decoys: strs(r.decoys, 120, 400),
+      decoys: strs(r.decoys, 120, DECOYS_MAX),
       ...(r.exact === true ? { exact: true } : {}),
     });
   }

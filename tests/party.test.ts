@@ -29,6 +29,7 @@ import {
   type Room,
   type Seal,
 } from '../src/party/room';
+import { loadBank } from '../src/game/bank';
 import type { PromptDef } from '../src/game/types';
 
 const DEPTHS = [0, 100, 250, 400, 600, 800, 1000];
@@ -159,6 +160,36 @@ describe('what a device may send', () => {
     expect(cleanPrompts([{ id: 'x', text: 'y', answers: [] }, null, 'z', { id: 'a'.repeat(81), text: 'y', answers: [{ answer: 'a', tier: 1 }] }], 5)).toEqual([]);
     expect(cleanPrompts([planets, metals, planets], 2)).toHaveLength(2);
     expect(cleanPrompts('nope', 5)).toEqual([]);
+  });
+
+  it('keeps every answer and spelling the bank has, however long its lists grow', () => {
+    // Guards the widened lists: an online séance once cut a question to 800 answers of 40 spellings each.
+    const bank = loadBank();
+    expect(bank.prompts.length).toBeGreaterThan(50);
+    const count = (ps: PromptDef[]) =>
+      ps.map((p) => [
+        p.id,
+        p.answers.length,
+        p.answers.reduce((n, a) => n + (a.aliases?.length ?? 0), 0),
+        p.traps?.length ?? 0,
+        (p.traps ?? []).reduce((n, t) => n + (t.aliases?.length ?? 0), 0),
+        p.decoys?.length ?? 0,
+      ]);
+    expect(count(cleanPrompts(bank.prompts, bank.prompts.length))).toEqual(count(bank.prompts));
+
+    const many: PromptDef = {
+      id: 'many',
+      text: 'Name one of many.',
+      category: 'misc',
+      answers: Array.from({ length: 3000 }, (_, i) => ({ answer: `Answer number ${i}`, aliases: i ? [] : Array.from({ length: 1500 }, (_, k) => `Spelling ${k}`), tier: 1 + (i % 6) })),
+      traps: [{ answer: 'Wrong', aliases: Array.from({ length: 300 }, (_, k) => `Mistake ${k}`), reason: 'No.' }],
+      decoys: Array.from({ length: 900 }, (_, k) => `Decoy ${k}`),
+    };
+    const [m] = cleanPrompts([many], 1);
+    expect(count([m])).toEqual(count([many]));
+    expect(hear(m, 'answer number 2999')).toEqual({ kind: 'sealed', answer: 'Answer number 2999', tier: 6 });
+    expect(hear(m, 'spelling 1499')).toEqual({ kind: 'sealed', answer: 'Answer number 0', tier: 1 });
+    expect(hear(m, 'mistake 299')).toEqual({ kind: 'refused', verdict: 'trap', reason: 'No.' });
   });
 
   it('takes a tier table of seven numbers only', () => {
