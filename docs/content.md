@@ -59,7 +59,7 @@ Ten categories, which are also the topics for the Logbook's Sigils:
 | `sport`     | Sport        | The Drowned Games           | 21      |
 | `misc`      | Miscellany   | Flotsam and Jetsam          | 21      |
 
-That is 210 prompts with about 57,000 accepted answers, not counting the
+That is 210 prompts with about 62,000 accepted answers, not counting the
 tens of thousands of extra spellings. Run `node scripts/validate-content.mjs --stats`
 for the exact numbers.
 
