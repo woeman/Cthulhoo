@@ -3,7 +3,7 @@
 // the screens are made of. Everything here is pure, so it is tested on its own.
 
 import { dateKeyForDay, hashString, practiceQueue, practiceRank } from '../../game/daily';
-import { dealByTopic, fitBudget, topicsPhrase } from '../../game/topics';
+import { dealByTopic, dropCopies, fitBudget, topicsPhrase } from '../../game/topics';
 import type { BankDay, PromptDef, ThemeCopy } from '../../game/types';
 import type { CultBoard } from '../../party/cult';
 import { candleOut, type PassState } from '../../party/passplay';
@@ -53,15 +53,19 @@ export interface Bankish {
  */
 export function choosePrompts(bank: Bankish, avoid: string[], key: string, sitting: number, today: number, count: number, asked: string[] = [], from: Chosen = {}): PromptDef[] {
   const seed = hashString(`${key.toUpperCase()}#${sitting}`);
-  const skip = [...avoid, ...asked];
+  const same = from.sameAs ?? ((id: string) => id);
+  // A class pack's copy of a question counts as that question, asked or to be avoided.
+  const skip = [...new Set([...avoid, ...asked].flatMap((id) => [id, same(id)]))];
   // Chosen topics may be few questions: today's dive is left out of them outright, not just put last.
-  const among = from.among?.filter((p) => !avoid.includes(p.id));
-  let ids = practiceQueue(bank.prompts, skip, seed, today, bank.days, among ?? bank.prompts);
+  const among = from.among?.filter((p) => !avoid.includes(same(p.id)));
+  let ids = practiceQueue(bank.prompts, skip, seed, today, bank.days, among ?? bank.prompts, same);
   if (among && from.topicOf) {
     const byId = new Map(among.map((p) => [p.id, p]));
     const topicOf = from.topicOf;
-    ids = dealByTopic(ids, practiceRank(bank.prompts, skip, today, bank.days), (id) => topicOf(byId.get(id) ?? { id, category: '' }));
+    const rank = practiceRank(bank.prompts, skip, today, bank.days);
+    ids = dealByTopic(ids, (id) => rank(same(id)), (id) => topicOf(byId.get(id) ?? { id, category: '' }));
   }
+  ids = dropCopies(ids, same);
   const found = ids.map((id) => bank.byId.get(id)).filter((p): p is PromptDef => !!p);
   return fitBudget(found, Math.max(1, count), from.budget ?? Infinity);
 }
@@ -72,6 +76,8 @@ export interface Chosen {
   among?: PromptDef[];
   /** A question's topic, so several topics are dealt evenly. */
   topicOf?: (p: Pick<PromptDef, 'id' | 'category'>) => string;
+  /** The question an id stands for, so a class pack's copy of a daily question is never asked beside it. */
+  sameAs?: (id: string) => string;
   /** The most characters the questions may come to as JSON (one message to the relay). */
   budget?: number;
 }

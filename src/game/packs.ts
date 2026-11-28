@@ -150,12 +150,15 @@ const packAsTopic = (p: PackInfo): Topic => ({ id: packTopic(p.id), name: p.name
  */
 export class TopicBook {
   readonly packs: Packs;
+  /** The daily bank's own ids, before any pack was adopted into it. */
+  private own: Set<string>;
 
   constructor(
     private bank: Pick<Bank, 'prompts' | 'byId'>,
     private theme: Pick<ThemeCopy, 'categories'>,
     fetchJson: PackFetcher,
   ) {
+    this.own = new Set(bank.prompts.map((p) => p.id));
     this.packs = new Packs(fetchJson, (prompts) => adoptPrompts(bank, prompts));
   }
 
@@ -191,6 +194,18 @@ export class TopicBook {
   topicOf(p: Pick<PromptDef, 'id' | 'category'>): string {
     const pack = this.packs.packOf(p.id);
     return pack ? packTopic(pack) : p.category;
+  }
+
+  /**
+   * The question an id stands for. A pack may carry a daily question under its
+   * own id ("anatomy-bones" for "bones"): both are then the one question, and a
+   * session must not ask it twice.
+   */
+  sameAs(id: string): string {
+    const pack = this.packs.packOf(id);
+    if (!pack) return id;
+    const rest = id.slice(pack.length + 1);
+    return this.own.has(rest) ? rest : id;
   }
 
   /** Makes sure saved question ids from class packs can be found again after a reload. */

@@ -212,12 +212,21 @@ export function practiceRank(prompts: PromptDef[], avoid: string[], day?: number
  * Every prompt in the order practice would ask them: shuffled by the seed, then
  * the ones due soon moved to the back, the furthest off first and today's last.
  * `among` narrows what is drawn from (chosen topics, class packs) while the
- * days ahead are still read from the whole bank.
+ * days ahead are still read from the whole bank. `same` names the bank's
+ * question that one from elsewhere copies, so a copy waits as long as its original.
  */
-export function practiceQueue(prompts: PromptDef[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = [], among: PromptDef[] = prompts): string[] {
+export function practiceQueue(
+  prompts: PromptDef[],
+  avoid: string[],
+  seed: number,
+  day?: number,
+  fixed: BankDay[] = [],
+  among: PromptDef[] = prompts,
+  same: (id: string) => string = (id) => id,
+): string[] {
   const rank = practiceRank(prompts, avoid, day, fixed);
   const ids = seededShuffle(among.map((p) => p.id), seed);
-  return ids.sort((a, b) => rank(b) - rank(a));
+  return ids.sort((a, b) => rank(same(b)) - rank(same(a)));
 }
 
 /**

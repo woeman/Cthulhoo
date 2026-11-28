@@ -115,6 +115,21 @@ export function dealByTopic(ids: string[], rank: (id: string) => number, topic: 
 }
 
 /**
+ * A queue without the same question twice. A class pack may carry a question of
+ * the daily bank under an id of its own; `same` names the question a prompt is,
+ * and only the first of each stays.
+ */
+export function dropCopies(ids: string[], same: (id: string) => string): string[] {
+  const seen = new Set<string>();
+  return ids.filter((id) => {
+    const key = same(id);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+}
+
+/**
  * Questions that fit one message to the relay: taken in order, skipping any that
  * would carry the total past the budget (a class pack's list of every listed
  * company is long). The first is always taken.

@@ -13,7 +13,7 @@ import { isEphemeral, loadTopics, saveTopics, keepCensus, loadCensusKept, loadDa
 import { slipRemark } from './game/slips';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
 import { TopicBook, filedUnder, packFetcher } from './game/packs';
-import { dealByTopic } from './game/topics';
+import { dealByTopic, dropCopies } from './game/topics';
 import { topicPicker } from './ui/topics';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
@@ -657,13 +657,15 @@ export class App {
       } catch {
         return false;
       }
-      // A dive still to be made today is not given away by a practice on its topic.
-      if (!today.finished) among = among.filter((p) => !today.promptIds.includes(p.id));
+      // A dive still to be made today is not given away by a practice on its topic, nor by a class pack's copy of its questions.
+      if (!today.finished) among = among.filter((p) => !today.promptIds.includes(this.topics.sameAs(p.id)));
     }
-    const rank = practiceRank(this.bank.prompts, today.promptIds, this.today, this.bank.days);
-    const queue = practiceQueue(this.bank.prompts, today.promptIds, Date.now() & 0xffff, this.today, this.bank.days, among);
+    const same = (id: string) => this.topics.sameAs(id);
+    const base = practiceRank(this.bank.prompts, today.promptIds, this.today, this.bank.days);
+    const rank = (id: string) => base(same(id));
+    const queue = practiceQueue(this.bank.prompts, today.promptIds, Date.now() & 0xffff, this.today, this.bank.days, among, same);
     const byId = new Map(among.map((p) => [p.id, p]));
-    const ids = topics?.length ? dealByTopic(queue, rank, (id) => this.topics.topicOf(byId.get(id) ?? { id, category: '' })) : queue;
+    const ids = topics?.length ? dropCopies(dealByTopic(queue, rank, (id) => this.topics.topicOf(byId.get(id) ?? { id, category: '' })), same) : queue;
     if (!ids.length) return false;
     this.diveTopics = topics?.length ? topics : null;
     this.rec = {
@@ -1796,6 +1798,7 @@ export class App {
         all: () => this.topics.all(),
         pool: (choice) => this.topics.pool(choice),
         topicOf: (p) => this.topics.topicOf(p),
+        sameAs: (id) => this.topics.sameAs(id),
         ensure: (ids) => this.topics.ensure(ids),
         load: loadTopics,
         save: saveTopics,

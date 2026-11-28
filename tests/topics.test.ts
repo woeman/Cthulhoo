@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { hashString, practiceQueue, practiceRank, practicePrompts } from '../src/game/daily';
 import { Packs, TopicBook, cleanPack, cleanPackIndex, filedUnder } from '../src/game/packs';
-import { DAILY_GROUP, choiceCount, choiceNames, chosenTopics, cleanChoice, dailyTopics, dealByTopic, fitBudget, isWholeDeep, packOfTopic, packTopic, topicsPhrase, type Topic } from '../src/game/topics';
+import { DAILY_GROUP, choiceCount, choiceNames, chosenTopics, cleanChoice, dailyTopics, dealByTopic, dropCopies, fitBudget, isWholeDeep, packOfTopic, packTopic, topicsPhrase, type Topic } from '../src/game/topics';
 import type { PromptDef } from '../src/game/types';
 import { loadBank } from '../src/game/bank';
 import { cleanPrompts } from '../src/party/room';
@@ -208,6 +208,55 @@ describe('a sitting on chosen topics', () => {
   });
 });
 
+describe('a class pack’s copy of a daily question', () => {
+  // A pack may carry a question of the daily bank under its own id: "bones-sci-0" is "sci-0" again.
+  const files: Record<string, unknown> = {
+    'index.json': { packs: [{ id: 'bones', name: 'Bones', group: 'Science', order: 1, file: 'bones.json', prompts: 3, answers: 9 }] },
+    'bones.json': { prompts: [q('bones-sci-0', 'science'), q('bones-sci-1', 'science'), q('bones-skull', 'science')] },
+  };
+  const book = () => new TopicBook(bank(), theme, async (file) => files[file]);
+
+  it('is known for the question it copies, once its pack is loaded', async () => {
+    const b = book();
+    expect(b.sameAs('bones-sci-0')).toBe('bones-sci-0');
+    await b.pool(['pack:bones']);
+    expect(b.sameAs('bones-sci-0')).toBe('sci-0');
+    expect(b.sameAs('bones-skull')).toBe('bones-skull');
+    expect(b.sameAs('sci-0')).toBe('sci-0');
+    expect(dropCopies(['sci-0', 'bones-skull', 'bones-sci-0', 'bones-sci-1', 'sci-1', 'sci-2'], (id) => b.sameAs(id))).toEqual(['sci-0', 'bones-skull', 'bones-sci-1', 'sci-2']);
+  });
+
+  it('is never asked beside its original in a mixed sitting, nor when its original is in today’s dive', async () => {
+    const b = book();
+    const bk = bank();
+    const among = await b.pool(['science', 'pack:bones']);
+    expect(among).toHaveLength(15);
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
+    for (let sitting = 0; sitting < 12; sitting++) {
+      const asked = choosePrompts({ ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) }, ['sci-1'], 'DAGON-7', sitting, 3, 15, [], from).map((p) => p.id);
+      const keys = asked.map((id) => b.sameAs(id));
+      expect(new Set(keys).size, `sitting ${sitting}`).toBe(keys.length);
+      // Today's dive holds sci-1: neither it nor the pack's copy of it is asked.
+      expect(keys).not.toContain('sci-1');
+      // Thirteen different questions are left: twelve of science less today's, and the pack's two that are its own or a copy.
+      expect(asked).toHaveLength(12);
+    }
+  });
+
+  it('goes to the back of the queue with its original once either has been asked', async () => {
+    const b = book();
+    const bk = bank();
+    const among = await b.pool(['pack:bones']);
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
+    const all = { ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) };
+    for (let sitting = 0; sitting < 8; sitting++) {
+      // The circle met the daily "sci-0" in an earlier sitting: the pack's copy of it comes last.
+      const ids = choosePrompts(all, [], 'DAGON-7', sitting, 3, 3, ['sci-0'], from).map((p) => p.id);
+      expect(ids[ids.length - 1], `sitting ${sitting}`).toBe('bones-sci-0');
+    }
+  });
+});
+
 // ---------------------------------------------------------------- the published packs
 
 // Every class pack in the repo, as the build will publish it. None yet is not a failure.
@@ -262,5 +311,26 @@ describe('the class packs in the repo', () => {
         expect(JSON.stringify(p).length, p.id).toBeLessThan(BEGIN_BUDGET / 2);
       }
     }
+  });
+});
+
+describe('every topic at once, with the packs in the repo', () => {
+  it('never asks one question twice, though packs copy some daily questions', async () => {
+    const real = loadBank();
+    const themeAll = { categories: Object.fromEntries([...new Set(real.prompts.map((p) => p.category))].map((c) => [c, { name: c, title: c }])) };
+    const book = new TopicBook(real, themeAll, async (file) => {
+      const found = PUBLISHED[`/packs/${file}`];
+      if (!found) throw new Error('404');
+      return found;
+    });
+    const topics = await book.all();
+    const among = await book.pool(topics.map((t) => t.id));
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => book.topicOf(p), sameAs: (id: string) => book.sameAs(id) };
+    const asked = choosePrompts(real, [], 'DAGON-7', 0, 3, among.length, [], from);
+    const texts = asked.map((p) => p.text.trim().toLowerCase());
+    const twice = texts.filter((t, i) => texts.indexOf(t) !== i);
+    expect(twice).toEqual([]);
+    const keys = asked.map((p) => book.sameAs(p.id));
+    expect(new Set(keys).size).toBe(keys.length);
   });
 });

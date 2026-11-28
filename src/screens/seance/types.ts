@@ -51,6 +51,8 @@ export interface SeanceTopics {
   /** The questions a choice draws from. Rejects when a ticked class pack cannot be fetched. */
   pool(choice: string[]): Promise<PromptDef[]>;
   topicOf(p: Pick<PromptDef, 'id' | 'category'>): string;
+  /** The question an id stands for: a class pack's copy of a daily question is that question. */
+  sameAs(id: string): string;
   /** Fetches whichever class packs hold these question ids, for a séance picked up after a reload. */
   ensure(promptIds: string[]): Promise<void>;
   /** The choice last made on this device. */

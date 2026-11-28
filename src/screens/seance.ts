@@ -584,7 +584,7 @@ class SeanceScreen {
     const topics = this.env.topics;
     if (!topics || !choice.length) return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { budget });
     const among = await topics.pool(choice);
-    return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { among, topicOf: (p) => topics.topicOf(p), budget });
+    return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { among, topicOf: (p) => topics.topicOf(p), sameAs: (id) => topics.sameAs(id), budget });
   }
 
   /** The medium lights the first candle: the questions are chosen on this device and sent whole. */
