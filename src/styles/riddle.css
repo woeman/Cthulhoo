@@ -695,6 +695,21 @@
   text-wrap: balance;
 }
 
+/* A spelling slip the deep forgave: a wry aside, with the right spelling set in ink. */
+.riddle-end__slip {
+  margin: 0;
+  max-width: 26rem;
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+}
+
+.riddle-end__slip .spelt {
+  font-style: normal;
+  color: var(--color-ink);
+}
+
 .riddle-end__line {
   margin: var(--space-2) 0 0;
   max-width: 26rem;

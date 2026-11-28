@@ -346,7 +346,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 
 - Gold | Silver | Platinum | White gold | Rose gold | Palladium | Copper | Titanium | Bronze — "A metal, not a gemstone."
 - Crystal — "Too vague. Name the crystal."
-- Gem | Gemstone | Jewel | Precious stone | Semi-precious stone | Birthstone | Precious gem — "That covers every gem. Name one."
+- Gem | Gemstone | Jewel | Precious stone | Semi-precious stone | Birthstone | Precious gem — "That covers a whole group of gems. Name one."
 - Rhinestone | Diamanté | Paste | Swarovski | Swarovski crystal | Glass | Lead crystal | Cut glass | Strass | Austrian crystal — "Glass, cut to sparkle. Not a gemstone."
 - Goldstone | Dichroic glass | Sea glass | Beach glass — "Glass made by people, not a gemstone."
 - Kryptonite — "A mineral from Superman's stories, not a real gem."

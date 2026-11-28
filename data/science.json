@@ -3375,7 +3375,7 @@
         {"answer": "Cocoliztli", "tier": 6, "lore": "Epidemics that killed millions in Mexico in the 1500s. In 2018, ancient DNA pointed to a kind of salmonella."}
       ],
       "traps": [
-        {"answer": "Virus", "aliases": ["Bacteria", "Bacterium", "Germ", "Germs", "Fungus", "Parasite", "Prion", "Infection", "Disease", "Pathogen", "Microbe", "Bug", "Fungal infection", "Bacterial infection", "Viral infection", "Parasitic infection", "Yeast"], "reason": "That covers a great many diseases. Name one."},
+        {"answer": "Virus", "aliases": ["Bacteria", "Bacterium", "Germ", "Germs", "Fungus", "Parasite", "Prion", "Infection", "Disease", "Pathogen", "Microbe", "Bug", "Fungal infection", "Bacterial infection", "Viral infection", "Parasitic infection", "Yeast"], "reason": "That covers a whole group of diseases. Name one."},
         {"answer": "Mosquito", "aliases": ["Mosquitoes", "Tick", "Flea", "Rat", "Tsetse fly", "Tsetse", "Tick bite", "Deer tick"], "reason": "It carries diseases. It isn't one."},
         {"answer": "Pandemic", "aliases": ["Epidemic", "Outbreak", "Endemic"], "reason": "A spread of disease, not a disease. Name what spread."},
         {"answer": "Sexually transmitted infection", "aliases": ["STI", "STD", "VD", "Venereal disease", "Sexually transmitted disease"], "reason": "A whole group of diseases. Name one."},
@@ -3461,7 +3461,7 @@
         {"answer": "Johannes Diderik van der Waals", "aliases": ["van der Waals", "Johannes van der Waals"], "tier": 3},
         {"answer": "Heike Kamerlingh Onnes", "aliases": ["Kamerlingh Onnes", "Onnes", "Heike Onnes"], "tier": 3},
         {"answer": "Max von Laue", "aliases": ["von Laue", "Laue"], "tier": 3},
-        {"answer": "William Henry Bragg", "aliases": ["W. H. Bragg", "Henry Bragg", "Sir William Henry Bragg", "H. Bragg", "William Bragg", "Sir William Bragg"], "tier": 3},
+        {"answer": "William Henry Bragg", "aliases": ["W. H. Bragg", "Henry Bragg", "Sir William Henry Bragg", "H. Bragg", "William Bragg", "Sir William Bragg", "W. Bragg"], "tier": 3},
         {"answer": "Lawrence Bragg", "aliases": ["William Lawrence Bragg", "W. L. Bragg", "Sir Lawrence Bragg", "L. Bragg", "Bragg"], "tier": 3, "lore": "Just 25 when he shared the 1915 prize with his father, and still the youngest physics laureate."},
         {"answer": "James Franck", "aliases": ["Franck"], "tier": 3},
         {"answer": "Gustav Hertz", "aliases": ["Hertz", "Gustav Ludwig Hertz"], "tier": 3},
@@ -3947,7 +3947,7 @@
         {"answer": "Kaffaljidhma", "aliases": ["Gamma Ceti"], "tier": 4},
         {"answer": "Kaus Borealis", "aliases": ["Lambda Sagittarii"], "tier": 4},
         {"answer": "Kaus Media", "aliases": ["Delta Sagittarii", "Kaus Meridionalis"], "tier": 4},
-        {"answer": "Keid", "aliases": ["40 Eridani A", "Omicron2 Eridani"], "tier": 4},
+        {"answer": "Keid", "aliases": ["40 Eridani A", "Omicron2 Eridani", "40 Eridani"], "tier": 4},
         {"answer": "Kitalpha", "aliases": ["Alpha Equulei"], "tier": 4},
         {"answer": "Kornephoros", "aliases": ["Beta Herculis", "Rutilicus"], "tier": 4},
         {"answer": "Kraz", "aliases": ["Beta Corvi"], "tier": 4},
@@ -4451,7 +4451,7 @@
         {"answer": "Gallifrey", "aliases": ["Krypton", "Vulcan", "Coruscant"], "reason": "A planet from fiction, not a star."},
         {"answer": "Gliese", "aliases": ["GJ"], "reason": "Gliese's catalogue holds thousands of stars. Give the number."},
         {"answer": "Wolf", "reason": "Max Wolf's catalogue holds over a thousand stars. Give the number."},
-        {"answer": "Ross", "reason": "Frank Ross's catalogue holds hundreds of stars. Give the number."},
+        {"answer": "Ross", "reason": "Frank Ross's catalogue holds over a thousand stars. Give the number."},
         {"answer": "Sirius Black", "reason": "A wizard named after the star. The star alone will do."},
         {"answer": "Proxima b", "aliases": ["Proxima Centauri b", "51 Pegasi b", "Kepler-22b", "Kepler-452b", "TRAPPIST-1e", "Gliese 581g", "Tau Ceti e", "K2-18b", "Exoplanet", "Kepler-186f", "Kepler-442b", "Kepler-62e", "Kepler-62f", "Kepler-16b", "Kepler-90i", "Kepler-10b", "Gliese 667 Cc", "Gliese 12 b", "Teegarden's Star b", "Teegarden b", "Ross 128 b", "LHS 1140 b", "TOI-700 d", "Wolf 1061c", "HD 209458 b", "55 Cancri e", "HR 8799 b", "Epsilon Eridani b", "Barnard's Star b", "Barnard b", "Gliese 1214 b", "WASP-12b", "HD 189733 b", "Fomalhaut b", "Beta Pictoris b", "Gliese 876 d", "LTT 9779 b", "Alpha Centauri Bb"], "reason": "A planet circling a star, not the star itself."},
         {"answer": "Cassiopeia A", "reason": "The wreck of a star that exploded: a cloud of debris, not the star itself."}
@@ -4780,7 +4780,7 @@
       "traps": [
         {"answer": "Gold", "aliases": ["Silver", "Platinum", "White gold", "Rose gold", "Palladium", "Copper", "Titanium", "Bronze"], "reason": "A metal, not a gemstone."},
         {"answer": "Crystal", "reason": "Too vague. Name the crystal."},
-        {"answer": "Gem", "aliases": ["Gemstone", "Jewel", "Precious stone", "Semi-precious stone", "Birthstone", "Precious gem"], "reason": "That covers every gem. Name one."},
+        {"answer": "Gem", "aliases": ["Gemstone", "Jewel", "Precious stone", "Semi-precious stone", "Birthstone", "Precious gem"], "reason": "That covers a whole group of gems. Name one."},
         {"answer": "Rhinestone", "aliases": ["Diamanté", "Paste", "Swarovski", "Swarovski crystal", "Glass", "Lead crystal", "Cut glass", "Strass", "Austrian crystal"], "reason": "Glass, cut to sparkle. Not a gemstone."},
         {"answer": "Goldstone", "aliases": ["Dichroic glass", "Sea glass", "Beach glass"], "reason": "Glass made by people, not a gemstone."},
         {"answer": "Kryptonite", "reason": "A mineral from Superman's stories, not a real gem."},
@@ -5639,7 +5639,7 @@
         {"answer": "Witch of Agnesi", "aliases": ["Agnesi curve", "Versiera"], "tier": 6, "lore": "A bell-shaped curve named after Maria Agnesi. 'Witch' comes from a mistranslation of the Italian versiera."}
       ],
       "traps": [
-        {"answer": "Shape", "aliases": ["Geometric shape", "2D shape", "3D shape", "Figure"], "reason": "That covers every shape. Name one."},
+        {"answer": "Shape", "aliases": ["Geometric shape", "2D shape", "3D shape", "Figure"], "reason": "That covers a whole group of shapes. Name one."},
         {"answer": "Point", "aliases": ["Dot", "Vertex", "Edge", "Angle", "Right angle", "Chord", "Radius", "Diameter", "Face"], "reason": "Part of a shape, not a shape."},
         {"answer": "Curve", "reason": "That covers every curve. Name one."},
         {"answer": "Solid", "aliases": ["Three-dimensional shape"], "reason": "That covers every solid. Name one."},
@@ -7138,7 +7138,7 @@
         {"answer": "Moon", "reason": "Where many missions went. Name one of them."},
         {"answer": "Jupiter", "aliases": ["Venus", "Uranus", "Neptune", "Pluto", "Earth", "Sun"], "reason": "A destination, not a mission. Name one that went there."},
         {"answer": "Moon landing", "aliases": ["Moon landings", "Moon mission", "Lunar landing", "Mars landing", "Mars mission", "Moonshot"], "reason": "Many missions fit that. Name one."},
-        {"answer": "Spacecraft", "aliases": ["Spaceship", "Space probe", "Probe", "Satellite", "Capsule", "Space capsule", "Lander", "Orbiter", "Space mission", "Mission", "Spaceplane", "Rover", "Mars rover", "Mars lander", "Space telescope", "Telescope", "Space station", "Station", "CubeSat", "Rocket ship"], "reason": "That covers hundreds of craft. Name one."},
+        {"answer": "Spacecraft", "aliases": ["Spaceship", "Space probe", "Probe", "Satellite", "Capsule", "Space capsule", "Lander", "Orbiter", "Space mission", "Mission", "Spaceplane", "Rover", "Mars rover", "Mars lander", "Space telescope", "Telescope", "Space station", "Station", "CubeSat", "Rocket ship"], "reason": "That covers a whole group of craft. Name one."},
         {"answer": "Rocket", "aliases": ["Space rocket"], "reason": "A rocket only carries the craft. Name the craft or its mission."},
         {"answer": "Space Race", "aliases": ["Cold War", "Space Age", "Moon race"], "reason": "A contest between nations, not a mission."},
         {"answer": "Spacewalk", "aliases": ["EVA", "Extravehicular activity", "Moonwalk"], "reason": "Something astronauts do outside the craft. Name the mission."},
@@ -7376,7 +7376,7 @@
         {"answer": "Strangelet", "tier": 6, "lore": "A hypothetical lump of up, down and strange quarks. Before big colliders opened, some feared one could convert the Earth. Safety studies said no."}
       ],
       "traps": [
-        {"answer": "Subatomic particle", "aliases": ["Particle", "Subparticle", "Elementary particle", "Fundamental particle", "Composite particle", "Atomic particle", "Point particle"], "reason": "That covers every particle. Name one."},
+        {"answer": "Subatomic particle", "aliases": ["Particle", "Subparticle", "Elementary particle", "Fundamental particle", "Composite particle", "Atomic particle", "Point particle"], "reason": "That covers a whole group of particles. Name one."},
         {"answer": "Atom", "aliases": ["Rydberg atom"], "reason": "Too big: atoms are built from subatomic particles."},
         {"answer": "Molecule", "aliases": ["Compound"], "reason": "Too big: a molecule is built from atoms."},
         {"answer": "Ion", "aliases": ["Cation", "Anion"], "reason": "An atom with an electric charge, too big to be subatomic."},

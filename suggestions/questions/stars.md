@@ -253,7 +253,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kaffaljidhma — Gamma Ceti
 - Kaus Borealis — Lambda Sagittarii
 - Kaus Media — Delta Sagittarii | Kaus Meridionalis
-- Keid — 40 Eridani A | Omicron2 Eridani
+- Keid — 40 Eridani A | Omicron2 Eridani | 40 Eridani
 - Kitalpha — Alpha Equulei
 - Kornephoros — Beta Herculis | Rutilicus
 - Kraz — Beta Corvi
@@ -766,7 +766,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Gallifrey | Krypton | Vulcan | Coruscant — "A planet from fiction, not a star."
 - Gliese | GJ — "Gliese's catalogue holds thousands of stars. Give the number."
 - Wolf — "Max Wolf's catalogue holds over a thousand stars. Give the number."
-- Ross — "Frank Ross's catalogue holds hundreds of stars. Give the number."
+- Ross — "Frank Ross's catalogue holds over a thousand stars. Give the number."
 - Sirius Black — "A wizard named after the star. The star alone will do."
 - Proxima b | Proxima Centauri b | 51 Pegasi b | Kepler-22b | Kepler-452b | TRAPPIST-1e | Gliese 581g | Tau Ceti e | K2-18b | Exoplanet | Kepler-186f | Kepler-442b | Kepler-62e | Kepler-62f | Kepler-16b | Kepler-90i | Kepler-10b | Gliese 667 Cc | Gliese 12 b | Teegarden's Star b | Teegarden b | Ross 128 b | LHS 1140 b | TOI-700 d | Wolf 1061c | HD 209458 b | 55 Cancri e | HR 8799 b | Epsilon Eridani b | Barnard's Star b | Barnard b | Gliese 1214 b | WASP-12b | HD 189733 b | Fomalhaut b | Beta Pictoris b | Gliese 876 d | LTT 9779 b | Alpha Centauri Bb — "A planet circling a star, not the star itself."
 - Cassiopeia A — "The wreck of a star that exploded: a cloud of debris, not the star itself."

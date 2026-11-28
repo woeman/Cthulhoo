@@ -54,7 +54,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Johannes Diderik van der Waals — van der Waals | Johannes van der Waals
 - Heike Kamerlingh Onnes — Kamerlingh Onnes | Onnes | Heike Onnes
 - Max von Laue — von Laue | Laue
-- William Henry Bragg — W. H. Bragg | Henry Bragg | Sir William Henry Bragg | H. Bragg | William Bragg | Sir William Bragg
+- William Henry Bragg — W. H. Bragg | Henry Bragg | Sir William Henry Bragg | H. Bragg | William Bragg | Sir William Bragg | W. Bragg
 - Lawrence Bragg — William Lawrence Bragg | W. L. Bragg | Sir Lawrence Bragg | L. Bragg | Bragg
 - James Franck — Franck
 - Gustav Hertz — Hertz | Gustav Ludwig Hertz

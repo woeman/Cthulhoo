@@ -407,7 +407,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Shape | Geometric shape | 2D shape | 3D shape | Figure — "That covers every shape. Name one."
+- Shape | Geometric shape | 2D shape | 3D shape | Figure — "That covers a whole group of shapes. Name one."
 - Point | Dot | Vertex | Edge | Angle | Right angle | Chord | Radius | Diameter | Face — "Part of a shape, not a shape."
 - Curve — "That covers every curve. Name one."
 - Solid | Three-dimensional shape — "That covers every solid. Name one."

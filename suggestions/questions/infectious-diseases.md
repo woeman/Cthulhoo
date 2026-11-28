@@ -357,7 +357,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Virus | Bacteria | Bacterium | Germ | Germs | Fungus | Parasite | Prion | Infection | Disease | Pathogen | Microbe | Bug | Fungal infection | Bacterial infection | Viral infection | Parasitic infection | Yeast — "That covers a great many diseases. Name one."
+- Virus | Bacteria | Bacterium | Germ | Germs | Fungus | Parasite | Prion | Infection | Disease | Pathogen | Microbe | Bug | Fungal infection | Bacterial infection | Viral infection | Parasitic infection | Yeast — "That covers a whole group of diseases. Name one."
 - Mosquito | Mosquitoes | Tick | Flea | Rat | Tsetse fly | Tsetse | Tick bite | Deer tick — "It carries diseases. It isn't one."
 - Pandemic | Epidemic | Outbreak | Endemic — "A spread of disease, not a disease. Name what spread."
 - Sexually transmitted infection | STI | STD | VD | Venereal disease | Sexually transmitted disease — "A whole group of diseases. Name one."

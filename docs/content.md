@@ -343,6 +343,7 @@ changed without touching code.
 | `categories` | The `name` and in-game `title` for each category key. |
 | `share` | The share text. `template` must contain `{day}`, `{depth}`, `{emoji}` and `{landmark}`; `missEmoji` marks a prompt with no answer. |
 | `howToPlay` | The short rules shown to new players. |
+| `slips` | Optional. `lines` for the wry remark after an answer accepted despite a spelling slip ("Chedar" for Cheddar). Each line must contain `{answer}`, where the right spelling goes, and must never suggest the answer was wrong. Lines without `{answer}` are ignored, and without any the game uses its own 29 (in `src/game/slips.ts`). |
 
 The game also reads an optional `career` section for the Logbook and bestiary
 wording. Until one is added here, the game uses its own placeholder copy.

@@ -1514,7 +1514,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Moon — "Where many missions went. Name one of them."
 - Jupiter | Venus | Uranus | Neptune | Pluto | Earth | Sun — "A destination, not a mission. Name one that went there."
 - Moon landing | Moon landings | Moon mission | Lunar landing | Mars landing | Mars mission | Moonshot — "Many missions fit that. Name one."
-- Spacecraft | Spaceship | Space probe | Probe | Satellite | Capsule | Space capsule | Lander | Orbiter | Space mission | Mission | Spaceplane | Rover | Mars rover | Mars lander | Space telescope | Telescope | Space station | Station | CubeSat | Rocket ship — "That covers hundreds of craft. Name one."
+- Spacecraft | Spaceship | Space probe | Probe | Satellite | Capsule | Space capsule | Lander | Orbiter | Space mission | Mission | Spaceplane | Rover | Mars rover | Mars lander | Space telescope | Telescope | Space station | Station | CubeSat | Rocket ship — "That covers a whole group of craft. Name one."
 - Rocket | Space rocket — "A rocket only carries the craft. Name the craft or its mission."
 - Space Race | Cold War | Space Age | Moon race — "A contest between nations, not a mission."
 - Spacewalk | EVA | Extravehicular activity | Moonwalk — "Something astronauts do outside the craft. Name the mission."

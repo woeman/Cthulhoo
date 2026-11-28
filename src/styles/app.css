@@ -1155,6 +1155,22 @@ a.btn {
   text-shadow: var(--halo);
 }
 
+/* A spelling slip the deep forgave: a wry aside, with the right spelling set in ink. */
+.reveal-screen .slip {
+  margin: 0 auto;
+  max-width: 26rem;
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+.reveal-screen .slip .spelt {
+  font-style: normal;
+  color: var(--color-ink);
+}
+
 /* The census of the day's divers, typed into the log like a sounding. */
 .reveal-screen .census {
   margin: 0 auto;
