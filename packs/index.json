@@ -21,20 +21,8 @@
    "asOf": "2026-11-28",
    "group": "Business",
    "file": "economics.json",
-   "prompts": 0,
-   "answers": 0
-  },
-  {
-   "id": "ethics",
-   "name": "Business Ethics",
-   "title": "The Weighing of Souls",
-   "blurb": "Moral philosophy, scandals, fallacies, watchdogs and doing the right thing.",
-   "order": 3,
-   "asOf": "2026-11-28",
-   "group": "Business",
-   "file": "ethics.json",
-   "prompts": 0,
-   "answers": 0
+   "prompts": 14,
+   "answers": 1717
   }
  ]
 }

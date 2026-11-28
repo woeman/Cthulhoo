@@ -1,0 +1,112 @@
+id: economics-nobel-laureates
+text: Name a winner of the Nobel Prize in economics.
+flavor: Each October a telephone rings in the dark. For a few, the voice on the line speaks Swedish.
+rules: Any laureate of the Sveriges Riksbank Prize in Economic Sciences, from the first in 1969 to 2026. Surnames alone are fine.
+section: People
+asOf: 2026-11-28
+source: nobelprize.org, laureates 1969 to 2026.
+---
+2 Paul Samuelson | Samuelson
+3 Simon Kuznets | Kuznets
+3 John Hicks | Hicks | Sir John Hicks | J. R. Hicks
+3 Kenneth Arrow | Arrow | Ken Arrow
+3 Wassily Leontief | Leontief
+4 Gunnar Myrdal | Myrdal
+1 Friedrich Hayek | Hayek | F. A. Hayek | Friedrich von Hayek | Friedrich August von Hayek | von Hayek
+5 Tjalling Koopmans | Koopmans
+1 Milton Friedman | Friedman
+5 Bertil Ohlin | Ohlin
+5 James Meade | Meade
+3 Herbert Simon | Simon | Herbert A. Simon | Herb Simon
+5 Theodore Schultz | Schultz
+4 Arthur Lewis | W. Arthur Lewis | Lewis | Sir Arthur Lewis
+5 Lawrence Klein | Klein
+3 James Tobin | Tobin
+4 George Stigler | Stigler
+4 Gérard Debreu | Debreu | Gerard Debreu
+5 Richard Stone | Stone
+3 Franco Modigliani | Modigliani
+3 James Buchanan | Buchanan | James M. Buchanan
+3 Robert Solow | Solow
+5 Maurice Allais | Allais
+5 Trygve Haavelmo | Haavelmo
+3 Harry Markowitz | Markowitz
+4 Merton Miller | Miller
+3 William Sharpe | Sharpe | William F. Sharpe | Bill Sharpe
+3 Ronald Coase | Coase
+3 Gary Becker | Becker
+5 Robert Fogel | Fogel
+4 Douglass North | North
+4 John Harsanyi | Harsanyi
+2 John Nash | Nash | John Forbes Nash | John F. Nash
+5 Reinhard Selten | Selten
+3 Robert Lucas | Lucas | Robert Lucas Jr
+5 James Mirrlees | Mirrlees
+4 William Vickrey | Vickrey
+3 Robert Merton | Merton | Robert C. Merton
+3 Myron Scholes | Scholes
+2 Amartya Sen | Sen
+3 Robert Mundell | Mundell
+4 James Heckman | Heckman
+4 Daniel McFadden | McFadden
+3 George Akerlof | Akerlof
+4 Michael Spence | Spence
+2 Joseph Stiglitz | Stiglitz | Joe Stiglitz
+2 Daniel Kahneman | Kahneman
+4 Vernon Smith | Vernon L. Smith
+4 Robert Engle | Engle
+4 Clive Granger | Granger
+4 Finn Kydland | Kydland
+4 Edward Prescott | Prescott
+4 Robert Aumann | Aumann
+3 Thomas Schelling | Schelling
+4 Edmund Phelps | Phelps
+5 Leonid Hurwicz | Hurwicz
+4 Eric Maskin | Maskin
+4 Roger Myerson | Myerson
+1 Paul Krugman | Krugman
+3 Elinor Ostrom | Ostrom
+4 Oliver Williamson | Williamson
+4 Peter Diamond | Diamond
+5 Dale Mortensen | Mortensen
+4 Christopher Pissarides | Pissarides
+4 Thomas Sargent | Sargent
+4 Christopher Sims | Sims
+4 Alvin Roth | Roth | Al Roth
+4 Lloyd Shapley | Shapley
+3 Eugene Fama | Fama
+4 Lars Peter Hansen | Hansen | Lars Hansen
+3 Robert Shiller | Shiller
+3 Jean Tirole | Tirole
+3 Angus Deaton | Deaton
+4 Oliver Hart | Hart
+4 Bengt Holmström | Holmström | Holmstrom | Bengt Holmstrom
+2 Richard Thaler | Thaler
+3 William Nordhaus | Nordhaus
+3 Paul Romer | Romer
+3 Abhijit Banerjee | Banerjee
+3 Esther Duflo | Duflo
+4 Michael Kremer | Kremer
+4 Paul Milgrom | Milgrom
+4 Robert Wilson | Robert B. Wilson
+3 David Card | Card
+4 Joshua Angrist | Angrist | Josh Angrist
+4 Guido Imbens | Imbens
+2 Ben Bernanke | Bernanke
+4 Douglas Diamond | Doug Diamond
+4 Philip Dybvig | Dybvig
+3 Claudia Goldin | Goldin
+3 Daron Acemoglu | Acemoglu | Acemoğlu
+4 Simon Johnson | Johnson
+4 James Robinson | James A. Robinson
+4 Joel Mokyr | Mokyr
+4 Philippe Aghion | Aghion
+4 Peter Howitt | Howitt
+4 Robert Hall | Robert E. Hall | Hall | Bob Hall
+4 Michael Woodford | Woodford
+6 Ragnar Frisch | Frisch :: Shared the very first prize, in 1969. He also coined the words econometrics and macroeconomics.
+5 Jan Tinbergen | Tinbergen
+6 Leonid Kantorovich | Kantorovich :: The only Soviet laureate (1975). He invented linear programming in 1939 while helping a plywood factory get more from its machines.
+x John Maynard Keynes | Keynes | Adam Smith | Karl Marx | Marx | David Ricardo | Ricardo | Alfred Marshall | Marshall | Thomas Malthus | Malthus | John Stuart Mill | Joseph Schumpeter | Schumpeter | Irving Fisher | Thorstein Veblen | Veblen | Vilfredo Pareto | Pareto | Léon Walras | Walras | Ludwig von Mises | Mises :: The prize only began in 1969 and is never given to the dead, so this giant missed out.
+x Joan Robinson | John Kenneth Galbraith | Galbraith | Thomas Piketty | Piketty | Janet Yellen | Yellen | Alan Greenspan | Greenspan | Thomas Sowell | Sowell | Yanis Varoufakis | Varoufakis | Greg Mankiw | Mankiw | Larry Summers | Summers | Jeffrey Sachs | Sachs | William Baumol | Baumol | Nicholas Kaldor | Kaldor | Gordon Tullock | Tullock | Anthony Atkinson | Atkinson | Mariana Mazzucato | Mazzucato | Steven Levitt | Levitt | Nouriel Roubini | Roubini :: Famous, and often tipped, but never a laureate.
+x Albert Einstein | Einstein | Marie Curie | Barack Obama | Obama | Malala | Bob Dylan | Nelson Mandela | Mandela | Martin Luther King :: A Nobel laureate, but not in economics.

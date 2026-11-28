@@ -1,0 +1,187 @@
+id: economics-biases
+text: Name a cognitive bias, heuristic or effect from behavioural economics.
+flavor: You are certain you chose freely. That certainty is the first item on the list.
+rules: Any named bias, mental shortcut or behavioural effect that bends how people judge and decide.
+section: Behavioural economics
+---
+1 Confirmation bias | Confirmation | Myside bias
+1 Loss aversion | Loss averse
+1 Anchoring | Anchoring bias | Anchoring effect | Anchor | Anchoring and adjustment
+1 Herd behaviour | Herd mentality | Herding | Bandwagon effect | Herd behavior | Bandwagon | Groupthink | Herd instinct | Social proof | FOMO | Fear of missing out
+1 Sunk cost fallacy | Sunk cost | Sunk cost bias | Sunk costs | Sunk cost effect | Concorde fallacy
+1 Overconfidence | Overconfidence bias | Overconfidence effect
+2 Hindsight bias | Knew-it-all-along effect | Hindsight
+2 Framing effect | Framing | Frame dependence
+2 Availability heuristic | Availability bias | Availability
+2 Status quo bias | Status quo | Inertia | Default effect | Default bias
+2 Endowment effect | Endowment
+2 Nudge | Nudging | Nudge theory | Choice architecture
+2 Gambler's fallacy | Gamblers fallacy | Monte Carlo fallacy
+2 Dunning-Kruger effect | Dunning Kruger | Dunning-Kruger
+2 Placebo effect | Placebo
+2 Halo effect | Halo
+2 Recency bias | Recency effect | Recency
+2 Optimism bias | Optimism | Over-optimism
+2 Present bias | Hyperbolic discounting | Instant gratification | Time inconsistency | Procrastination | Short-termism | Immediacy bias
+2 Bounded rationality | Satisficing
+2 Mental accounting
+2 Prospect theory
+2 Self-serving bias | Self serving bias
+2 Survivorship bias | Survivor bias
+2 Stereotyping | Stereotype | Implicit bias | Unconscious bias
+3 Representativeness heuristic | Representativeness | Representative bias
+3 Disposition effect
+3 Decoy effect | Asymmetric dominance | Attraction effect
+3 Paradox of choice | Choice overload | Overchoice | Analysis paralysis | Decision paralysis
+3 Scarcity effect | Scarcity bias | Scarcity heuristic | Scarcity
+3 IKEA effect
+3 Zero-price effect | Power of free | Free effect
+3 Money illusion
+3 Ostrich effect
+3 Negativity bias | Negativity effect
+3 Authority bias | Appeal to authority
+3 In-group bias | Ingroup bias | In-group favouritism | Affinity bias | Tribalism
+3 Fundamental attribution error | Attribution bias | Attribution error | Correspondence bias
+3 Planning fallacy
+3 Hot-hand fallacy | Hot hand
+3 Illusion of control
+3 Choice-supportive bias | Post-purchase rationalisation | Post-purchase rationalization | Buyer's Stockholm syndrome
+3 Cognitive dissonance
+3 Regret aversion | Anticipated regret
+3 Ambiguity aversion | Ellsberg paradox | Ambiguity effect
+3 Risk aversion | Risk seeking | Certainty effect | Zero-risk bias
+3 Narrative fallacy
+3 Clustering illusion | Apophenia | Pareidolia | Texas sharpshooter fallacy
+3 Base rate fallacy | Base rate neglect
+3 Conjunction fallacy | Linda problem
+3 Primacy effect | Serial position effect
+3 Mere exposure effect | Familiarity bias | Familiarity heuristic | Mere-exposure effect | Home bias
+3 Affect heuristic | Emotional bias
+3 Salience bias | Salience
+3 Reciprocity | Reciprocity bias
+3 Commitment bias | Escalation of commitment | Commitment and consistency | Consistency bias
+3 Projection bias
+3 Curse of knowledge
+3 Spotlight effect
+3 Barnum effect | Forer effect
+3 Just-world hypothesis | Just world fallacy | Just-world fallacy
+3 Bystander effect
+3 Peak-end rule | Peak end rule
+3 Diversification bias | Naive diversification | 1/N heuristic
+3 Winner's curse
+3 Pain of paying
+3 Hedonic treadmill | Hedonic adaptation
+3 Priming | Priming effect
+3 Compromise effect | Extremeness aversion
+3 Partitioned pricing | Drip pricing
+3 Left-digit effect | Charm pricing | Left digit bias
+3 Denomination effect
+3 House money effect
+3 Break-even effect
+3 Snakebite effect
+3 Illusory superiority | Lake Wobegon effect | Better-than-average effect | Above-average effect
+3 False consensus effect | False consensus
+3 Bias blind spot | Blind spot bias
+3 Belief perseverance | Backfire effect | Conservatism bias | Belief bias
+3 Information bias | Information overload
+3 Action bias | Omission bias
+3 Outcome bias
+3 Restraint bias
+3 Empathy gap | Hot-cold empathy gap
+3 Licensing effect | Moral licensing
+3 Tall poppy syndrome
+4 Pro-innovation bias
+4 Normalcy bias | Normality bias
+4 Semmelweis reflex
+4 Not invented here | Not invented here syndrome
+4 Reactance | Reactive devaluation
+4 System justification
+4 Zeigarnik effect
+4 Von Restorff effect | Isolation effect
+4 Google effect | Digital amnesia
+4 Cheerleader effect
+4 Pygmalion effect | Golem effect | Rosenthal effect
+4 Hawthorne effect | Observer effect
+4 Streetlight effect
+4 Law of the instrument | Maslow's hammer | Golden hammer
+4 Illusory correlation
+4 Illusory truth effect | Illusion of truth
+4 Rhyme-as-reason effect
+4 Availability cascade
+4 Third-person effect
+4 Telescoping effect
+4 Rosy retrospection | Declinism
+4 Duration neglect
+4 Scope insensitivity | Scope neglect
+4 Identifiable victim effect
+4 Compassion fade
+4 Unit bias
+4 Weber-Fechner law
+4 Distinction bias
+4 Less-is-better effect
+4 Pseudocertainty effect
+4 Neglect of probability | Probability neglect
+4 Subadditivity effect
+4 Hard-easy effect
+4 Well-travelled road effect
+4 Time-saving bias
+4 Parkinson's law of triviality | Bikeshedding
+4 Automation bias
+4 Courtesy bias | Social desirability bias
+4 Naive realism | Naive cynicism
+4 Illusion of transparency | Illusion of asymmetric insight
+4 Illusion of validity
+4 Illusion of explanatory depth
+6 Ben Franklin effect | Benjamin Franklin effect :: Franklin won over a rival by asking to borrow a rare book. We grow fonder of people we have done a favour for, to justify having done it.
+4 Endowed progress effect
+4 Goal gradient effect
+4 Hyperopia
+6 Diderot effect :: Given a fine scarlet dressing gown, Denis Diderot replaced his desk, chairs and prints to match it and ended in debt. One purchase begets the next.
+4 Veblen effect | Snob effect
+4 Ratchet effect | Duesenberry effect | Keeping up with the Joneses | Relative income hypothesis
+4 Allais paradox
+4 St Petersburg paradox
+4 Preference reversal
+4 Equity premium puzzle | Myopic loss aversion
+4 Home country bias
+4 Attentional bias
+4 Selective perception | Cherry picking
+4 Dread aversion
+4 Money priming
+4 Tangibility bias
+4 Effort heuristic | Effort justification
+4 Labour illusion | Labor illusion
+4 Take-the-best heuristic | Recognition heuristic | Fast and frugal heuristics
+4 Simulation heuristic
+4 Contrast effect
+4 Focusing effect | Focusing illusion
+4 Mood-congruent memory bias
+4 Egocentric bias
+4 Trait ascription bias
+4 Actor-observer bias
+4 Ultimate attribution error | Group attribution error
+4 Out-group homogeneity bias | Outgroup homogeneity
+4 Shared information bias
+4 Abilene paradox
+4 Pluralistic ignorance
+4 Women are wonderful effect
+4 Moral credential effect
+4 Defensive attribution hypothesis
+4 Hostile attribution bias
+4 Puritanical bias
+4 Worse-than-average effect
+4 Impact bias
+4 Murphy's law
+5 Gell-Mann amnesia effect | Gell-Mann amnesia
+5 Lindy effect
+5 Chesterton's fence
+5 Baader-Meinhof phenomenon | Frequency illusion
+5 Tetris effect
+6 Cobra effect | Perverse incentive :: The story goes that colonial Delhi paid a bounty for dead cobras, so people bred them. When the bounty ended the snakes were set loose.
+5 Peltzman effect | Risk compensation
+5 Lucas critique
+5 Streisand effect
+5 Matthew effect
+x Bias | Biases | Heuristic | Heuristics | Cognitive bias | Fallacy | Irrationality | Emotion | Psychology :: Which one? Give the bias its name.
+x Supply and demand | Opportunity cost | Rational choice | Utility | Homo economicus | Invisible hand | Inflation | Elasticity :: Standard economics, not one of the quirks that behavioural economists study.
+x Racism | Sexism | Ageism | Prejudice | Discrimination :: A prejudice, and a serious one, but not a named cognitive bias from this field.

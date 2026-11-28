@@ -1,0 +1,134 @@
+id: economics-indicators
+text: Name an economic indicator or statistic.
+flavor: Dials on the bridge of a ship that cannot see the water. Watch the needles. Ignore the knocking below.
+rules: Any measure used to take the pulse of an economy, such as growth, prices, jobs, trade or confidence.
+section: Measurement
+---
+1 GDP | Gross domestic product | Gross Domestic Product | Economic growth | GDP growth | Real GDP | Nominal GDP | Growth rate | Growth
+1 Inflation | Inflation rate | CPI | Consumer price index | Consumer Price Index | Cost of living | Headline inflation | Prices | Price level
+1 Unemployment rate | Unemployment | Jobless rate | Unemployment figures | Jobless figures
+1 Interest rates | Cash rate | Official cash rate | Interest rate | OCR | Official interest rate | Fed funds rate | Federal funds rate | RBA cash rate | Bank rate
+1 Exchange rate | Australian dollar | AUD | The dollar | Currency | Aussie dollar | Trade-weighted index | TWI | Dollar
+2 GDP per capita | GDP per person | Income per capita | Per capita income | Per capita GDP
+2 Wages | Wage growth | Wage price index | WPI | Average weekly earnings | AWE | Real wages | Wage Price Index | Average wage | Median wage | Earnings
+2 Balance of trade | Trade balance | Trade deficit | Trade surplus | Net exports | Balance of trade in goods and services
+2 Exports | Imports | Export volumes | Import volumes
+2 Current account | Current account deficit | Current account balance | Balance of payments | CAD | Current account surplus | BOP
+2 National debt | Government debt | Public debt | Debt to GDP | Debt-to-GDP ratio | Net debt | Gross debt | Federal debt | Sovereign debt
+2 Budget deficit | Budget balance | Budget surplus | Fiscal balance | Underlying cash balance | Deficit | Surplus | Budget
+2 Consumer confidence | Consumer sentiment | Westpac-Melbourne Institute Consumer Sentiment | ANZ-Roy Morgan Consumer Confidence | Consumer confidence index
+2 Retail sales | Retail trade | Retail turnover | Household spending | Consumer spending | Consumption | Household consumption
+2 House prices | Housing prices | Property prices | Home values | Home prices | CoreLogic Home Value Index | Median house price | House price index
+2 Productivity | Labour productivity | Multifactor productivity | Output per hour | GDP per hour worked | Total factor productivity | TFP
+2 Share market | Stock market | ASX 200 | All Ordinaries | Share prices | S&P 500 | Dow Jones | Stock prices | Share market index
+2 Population | Population growth | Net migration | Net overseas migration | Immigration
+2 Participation rate | Labour force participation | Labour force participation rate | Workforce participation
+2 Underemployment | Underemployment rate | Underutilisation | Underutilisation rate | Labour underutilisation
+2 Employment | Jobs growth | Employment growth | Employment rate | Jobs created | Employment to population ratio | Nonfarm payrolls | Non-farm payrolls | Payrolls | Jobs
+2 Gini coefficient | Gini | Gini index | Income inequality | Inequality | Lorenz curve
+2 Human Development Index | HDI
+2 Poverty rate | Poverty line | Poverty | Henderson poverty line
+2 Minimum wage | National minimum wage
+2 Savings rate | Household saving ratio | Saving ratio | Household savings | Savings ratio | National savings
+3 GNP | Gross national product | GNI | Gross national income | Gross National Income | GNE | Gross national expenditure
+3 Core inflation | Underlying inflation | Trimmed mean | Trimmed mean inflation | Weighted median | Trimmed mean CPI
+3 Producer price index | PPI | Wholesale prices | Wholesale price index
+3 PCE | Personal consumption expenditures | PCE inflation | PCE price index
+3 GDP deflator | Implicit price deflator
+3 Terms of trade
+3 Business confidence | NAB Business Survey | Business conditions | NAB business confidence | Business sentiment
+3 PMI | Purchasing Managers' Index | Purchasing managers index | Manufacturing PMI | Services PMI | ISM | ISM manufacturing index
+3 Building approvals | Dwelling approvals | Housing starts | Building permits | Dwelling commencements | Housing approvals | Construction work done
+3 Job vacancies | Job ads | ANZ Job Ads | Job advertisements | Vacancies | JOLTS | Job openings | SEEK job ads
+3 Industrial production | Manufacturing output | Factory output | Industrial output
+3 Capital expenditure | Capex | Business investment | Private capital expenditure | Investment | Gross fixed capital formation
+3 Housing finance | Lending indicators | Home loan approvals | Credit growth | Private sector credit | Mortgage approvals | Lending
+3 Household debt | Household debt to income | Debt to income ratio | Mortgage stress
+3 Bond yields | 10-year bond yield | Government bond yield | Yield curve | Ten-year yield | Treasury yields | Yield spread
+3 Money supply | M1 | M2 | M3 | Broad money | Monetary base | Money base
+3 Commodity prices | Iron ore price | Oil price | RBA Index of Commodity Prices | Gold price | Petrol price | Petrol prices
+3 Youth unemployment | Youth unemployment rate | Long-term unemployment
+3 Hours worked | Aggregate hours worked | Monthly hours worked
+3 Company profits | Corporate profits | Gross operating profits | Business indicators
+3 Inventories | Business inventories | Stocks
+3 New car sales | Motor vehicle sales | New vehicle sales | Car sales
+3 Tourist arrivals | Overseas arrivals and departures | Tourism numbers | Visitor arrivals
+3 Rents | Rental vacancy rate | Vacancy rate | Rent prices | Rental prices
+3 Bankruptcies | Insolvencies | Business failures | Business insolvencies | Corporate insolvencies
+3 Credit rating | Sovereign credit rating | AAA rating
+3 Foreign investment | Foreign direct investment | FDI
+3 Net foreign debt | Net foreign liabilities | Foreign debt | International investment position
+3 Foreign reserves | Foreign exchange reserves | Official reserve assets
+3 Inflation expectations | Consumer inflation expectations | Break-even inflation
+3 Output gap | Potential GDP | Capacity utilisation | Capacity utilization
+3 NAIRU | Natural rate of unemployment | Non-accelerating inflation rate of unemployment
+3 Misery index
+3 Big Mac Index
+3 Purchasing power parity | PPP | GDP at PPP
+3 Unit labour costs | Real unit labour costs | Labour costs
+3 Dependency ratio | Median age | Ageing population | Fertility rate | Birth rate | Life expectancy
+3 Literacy rate | Infant mortality | Infant mortality rate
+3 Happiness index | World Happiness Report | Gross National Happiness | Wellbeing index | Measuring What Matters | Better Life Index
+3 Cost of living index | Living cost indexes | Selected Living Cost Indexes | Living cost index
+3 Leading index | Leading indicators | Westpac-Melbourne Institute Leading Index | Composite leading indicator | Leading indicator | Conference Board Leading Economic Index
+3 State final demand | Domestic final demand | Gross state product | GSP
+3 Monthly CPI indicator | Monthly CPI
+3 Labour force survey | Labour force
+3 Tax revenue | Tax to GDP | Tax take | Government spending | Government expenditure
+3 Recession | Technical recession | Per capita recession
+3 Stagflation | Deflation | Disinflation
+3 Electricity demand | Electricity consumption | Energy consumption
+3 Freight volumes | Baltic Dry Index | Container throughput | Shipping costs
+3 VIX | Volatility index | Fear index
+3 Carbon emissions | Emissions | Greenhouse gas emissions | Emissions intensity
+3 Ease of doing business | Global Competitiveness Index | Economic freedom index | Index of Economic Freedom | Corruption Perceptions Index
+4 Beveridge curve
+4 Okun's law | Okun gap
+4 Phillips curve
+4 Sahm rule
+4 Taylor rule rate | Taylor rule
+4 Tobin's Q
+4 Buffett indicator | Market cap to GDP
+4 Velocity of money
+4 Real interest rate | Real cash rate | Neutral rate | Neutral interest rate | R-star
+4 Sacrifice ratio
+4 Marginal propensity to consume | MPC | Multiplier
+4 Palma ratio | Top 1% share | Wealth inequality | Income share | 90/10 ratio
+4 Genuine progress indicator | GPI | Green GDP | Net national product | NNP | Net domestic product
+4 Multidimensional Poverty Index | MPI
+4 Gender pay gap | Gender wage gap
+4 Labour share | Wage share | Profit share | Labour share of income
+4 Job quits rate | Quits rate | Job mobility
+4 Initial jobless claims | Jobless claims | JobSeeker recipients | Unemployment benefit recipients | Continuing claims
+4 Chain volume measure | Seasonally adjusted | Trend estimate
+4 Real net national disposable income | RNNDI | Real net national disposable income per capita
+4 Household disposable income | Real disposable income | Disposable income
+4 Performance of Manufacturing Index | Ai Group PMI | Australian PMI | PMI Australia
+4 Melbourne Institute Inflation Gauge | Inflation gauge
+4 CoreLogic auction clearance rate | Auction clearance rates | Clearance rate | Auction clearance rate
+4 ABS Business Turnover Indicator | Business turnover
+4 Fiscal impulse | Structural budget balance | Structural deficit | Primary balance
+4 Net lending | Net borrowing | National net lending
+4 TED spread | Credit spreads | LIBOR-OIS spread | BBSW
+4 Cass Freight Index | Truck tonnage | Rail freight
+4 Copper price | Dr Copper | Doctor Copper
+4 Tankan | Tankan survey
+4 Ifo Business Climate | Ifo | ZEW | ZEW Indicator of Economic Sentiment
+4 Beige Book
+6 Li Keqiang index | Keqiang index :: The future Chinese premier reportedly told a US diplomat in 2007 that he trusted three numbers over GDP: electricity use, rail freight and bank loans.
+4 Caixin PMI
+4 Michigan Consumer Sentiment | University of Michigan Consumer Sentiment | Conference Board Consumer Confidence
+4 Case-Shiller index | Case-Shiller | S&P Case-Shiller
+4 Empire State index | Philadelphia Fed index | Philly Fed
+4 Durable goods orders | Factory orders | New orders
+4 Atlanta Fed GDPNow | GDPNow | Nowcast
+4 Dot plot | Fed dot plot
+4 Crane index | Crane count | RLB Crane Index
+4 Lipstick index | Lipstick effect
+4 Hemline index
+6 Men's underwear index | Underwear index :: Alan Greenspan's pet gauge: men put off buying new underwear when money is tight, so a dip in sales hints at trouble ahead.
+6 Skyscraper index | Skyscraper curse :: Andrew Lawrence's 1999 observation that the world's tallest buildings tend to be finished just as a great crash arrives.
+4 Champagne index | Cardboard box index | Waitress index | R-word index
+x Supply and demand | Opportunity cost | Scarcity | Elasticity | Comparative advantage | Market failure | Externality | Monopoly | Fiscal policy | Monetary policy :: A concept or a policy rather than something you can read off a chart each month.
+x ABS | Australian Bureau of Statistics | RBA | Reserve Bank | Treasury | IMF | OECD | World Bank | Productivity Commission :: The body that publishes indicators, not an indicator.
+x Indicator | Statistic | Statistics | Data | Economy | The economy | Leading | Lagging | Coincident :: Which one? Name the measure.

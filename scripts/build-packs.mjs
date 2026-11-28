@@ -242,6 +242,7 @@ for (const packId of readdirSync(srcDir).sort()) {
   const pack = JSON.parse(readFileSync(metaPath, "utf8"));
   if (pack.id !== packId) throw new Error(`${metaPath}: id should be "${packId}"`);
   const prompts = readdirSync(dir).filter((f) => f.endsWith(".txt")).sort().map((f) => buildPrompt(join(dir, f), packId));
+  if (prompts.length === 0) continue; // a pack with no questions yet is not published
   writeFileSync(join(outDir, `${packId}.json`), JSON.stringify({ pack, prompts }) + "\n");
   const answers = prompts.reduce((n, p) => n + p.answers.length, 0);
   index.push({ ...pack, file: `${packId}.json`, prompts: prompts.length, answers });

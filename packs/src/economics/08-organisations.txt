@@ -1,0 +1,174 @@
+id: economics-organisations
+text: Name an international economic organisation, trade bloc or trade agreement.
+flavor: Treaties signed in rooms with no windows. The ink is dry. Something else is not.
+rules: Any body, bloc, forum or agreement through which countries manage trade, money or development together.
+section: World economy
+---
+1 World Trade Organization | WTO | World Trade Organisation
+1 International Monetary Fund | IMF
+1 World Bank | World Bank Group | IBRD | International Bank for Reconstruction and Development
+1 European Union | EU | European Economic Community | EEC | Common Market | European Community | Single Market | European Single Market
+1 United Nations | UN
+1 G20 | Group of Twenty | G-20 | Group of 20
+1 G7 | Group of Seven | G8 | G-7 | Group of 7
+2 OECD | Organisation for Economic Co-operation and Development | Organization for Economic Cooperation and Development
+2 OPEC | Organization of the Petroleum Exporting Countries | Organisation of the Petroleum Exporting Countries | OPEC+ | OPEC Plus
+2 ASEAN | Association of Southeast Asian Nations | Association of South East Asian Nations
+2 APEC | Asia-Pacific Economic Cooperation | Asia Pacific Economic Cooperation
+2 BRICS | BRIC | BRICS+
+2 NAFTA | North American Free Trade Agreement | USMCA | United States-Mexico-Canada Agreement | CUSMA
+2 Eurozone | Euro area | Economic and Monetary Union | EMU | Euro zone
+2 Trans-Pacific Partnership | TPP | CPTPP | Comprehensive and Progressive Agreement for Trans-Pacific Partnership | TPP-11
+2 Commonwealth | Commonwealth of Nations | British Commonwealth
+2 World Economic Forum | WEF | Davos
+3 RCEP | Regional Comprehensive Economic Partnership
+3 Mercosur | Mercosul | Southern Common Market
+3 African Union | AU
+3 AfCFTA | African Continental Free Trade Area
+3 GATT | General Agreement on Tariffs and Trade
+3 Asian Development Bank | ADB
+3 Asian Infrastructure Investment Bank | AIIB
+3 Bank for International Settlements | BIS
+3 EFTA | European Free Trade Association
+3 European Central Bank | ECB
+3 Closer Economic Relations | CER | ANZCERTA | Australia New Zealand Closer Economic Relations Trade Agreement
+3 AUSFTA | Australia-United States Free Trade Agreement | Australia US Free Trade Agreement
+3 ChAFTA | China-Australia Free Trade Agreement
+3 Pacific Islands Forum | PIF | PACER Plus
+3 Cairns Group | Cairns Group of Fair Trading Nations
+3 Belt and Road Initiative | BRI | Belt and Road | One Belt One Road
+3 UNCTAD | United Nations Conference on Trade and Development
+3 International Labour Organization | ILO | International Labour Organisation
+3 UNDP | United Nations Development Programme
+3 Food and Agriculture Organization | FAO
+3 International Energy Agency | IEA
+3 Financial Stability Board | FSB
+3 Financial Action Task Force | FATF
+3 Basel Committee | Basel Committee on Banking Supervision | Basel III | Basel Accords | BCBS
+3 Bretton Woods | Bretton Woods system | Bretton Woods Agreement
+3 Paris Club
+3 G77 | Group of 77
+3 Quad | Quadrilateral Security Dialogue
+3 IPEF | Indo-Pacific Economic Framework
+3 AUKUS
+3 Schengen | Schengen Area | Schengen Agreement
+3 European Economic Area | EEA
+3 Benelux
+3 Comecon | Council for Mutual Economic Assistance | CMEA
+3 Eurasian Economic Union | EAEU | EEU
+3 Commonwealth of Independent States | CIS
+3 Shanghai Cooperation Organisation | SCO
+3 Gulf Cooperation Council | GCC
+3 Arab League
+3 SAARC | South Asian Association for Regional Cooperation | SAFTA
+3 ECOWAS | Economic Community of West African States
+3 SADC | Southern African Development Community
+3 East African Community | EAC
+3 COMESA | Common Market for Eastern and Southern Africa
+3 CARICOM | Caribbean Community
+3 Andean Community | CAN | Andean Pact
+3 Pacific Alliance
+3 CAFTA | CAFTA-DR | Central American Free Trade Agreement
+3 Organization of American States | OAS
+3 Inter-American Development Bank | IDB | IADB
+3 African Development Bank | AfDB
+3 European Investment Bank | EIB
+3 European Bank for Reconstruction and Development | EBRD
+3 New Development Bank | NDB | BRICS Bank
+3 International Finance Corporation | IFC
+3 International Development Association | IDA
+3 World Intellectual Property Organization | WIPO
+3 International Organization for Standardization | ISO
+3 International Chamber of Commerce | ICC
+3 World Customs Organization | WCO
+3 International Air Transport Association | IATA | ICAO
+3 International Maritime Organization | IMO
+3 Extractive Industries Transparency Initiative | EITI
+3 Marshall Plan | European Recovery Program
+3 Colombo Plan
+3 Lomé Convention | Cotonou Agreement
+3 Kyoto Protocol | Paris Agreement
+3 European Coal and Steel Community | ECSC
+3 European Stability Mechanism | ESM | Troika
+3 Customs union | Free trade area | Common market | Economic union
+4 SACU | Southern African Customs Union
+4 ECCAS | CEMAC | Economic Community of Central African States
+4 WAEMU | UEMOA | West African Economic and Monetary Union
+4 Arab Maghreb Union | AMU
+4 IGAD | Intergovernmental Authority on Development
+4 GAFTA | Greater Arab Free Trade Area
+4 OAPEC | Organization of Arab Petroleum Exporting Countries
+4 Gas Exporting Countries Forum | GECF
+4 International Coffee Organization | ICO
+4 International Cocoa Organization
+4 International Tin Council
+4 International Wheat Agreement | International Grains Council
+4 Multi Fibre Arrangement | MFA
+6 Zollverein | German Customs Union :: The customs union Prussia built from 1834. By scrapping tolls between dozens of German states it did much to make one Germany before there was one.
+6 Hanseatic League | Hansa | Hanse :: A league of merchant towns that ran Baltic and North Sea trade for 400 years with its own law and fleets, yet never had a king, a seal or a capital.
+4 Latin Monetary Union
+4 Scandinavian Monetary Union
+4 Sterling area | Sterling bloc
+4 CFA franc zone | CFA zone
+4 Imperial Preference | Ottawa Agreements
+4 Cobden-Chevalier Treaty
+4 Methuen Treaty
+4 Smithsonian Agreement
+4 Plaza Accord | Louvre Accord
+4 Chiang Mai Initiative | AMRO
+4 Asian Clearing Union
+4 Mekong River Commission | Greater Mekong Subregion
+4 BIMSTEC
+4 ECO | Economic Cooperation Organization
+4 Organisation of Islamic Cooperation | OIC
+4 Islamic Development Bank | IsDB
+4 D-8 | Developing-8
+4 MIKTA
+4 G4 | G10 | Group of Ten | G24 | G15 | G33
+4 Next Eleven | N-11 | MINT
+4 Visegrád Group | Visegrad Group | V4
+4 CEFTA | Central European Free Trade Agreement
+4 Nordic Council
+4 Baltic Assembly
+4 Black Sea Economic Cooperation | BSEC
+4 Union for the Mediterranean
+4 ALBA | Bolivarian Alliance
+4 Unasur | UNASUR | Union of South American Nations
+4 CELAC
+4 Latin American Integration Association | ALADI | LAFTA
+4 SICA | Central American Integration System
+4 OECS | Organisation of Eastern Caribbean States
+4 Melanesian Spearhead Group | MSG
+4 SPARTECA
+4 Pacific Community | SPC
+4 Indian Ocean Rim Association | IORA
+4 Asia-Europe Meeting | ASEM
+4 East Asia Summit | EAS | ASEAN Plus Three
+4 Trans-Tasman Travel Arrangement
+4 TTIP | Transatlantic Trade and Investment Partnership
+4 TiSA | Trade in Services Agreement
+4 CETA | Comprehensive Economic and Trade Agreement
+4 EU-Mercosur agreement
+4 A-UKFTA | Australia-United Kingdom Free Trade Agreement | Australia UK Free Trade Agreement
+4 JAEPA | Japan-Australia Economic Partnership Agreement
+4 KAFTA | Korea-Australia Free Trade Agreement
+4 Singapore-Australia Free Trade Agreement
+4 TAFTA | Thailand-Australia Free Trade Agreement
+4 MAFTA | Malaysia-Australia Free Trade Agreement
+4 AANZFTA | ASEAN-Australia-New Zealand Free Trade Area
+4 IA-CEPA | Indonesia-Australia Comprehensive Economic Partnership Agreement
+4 ECTA | Australia-India Economic Cooperation and Trade Agreement | AI-ECTA
+4 International Trade Organization | ITO | Havana Charter
+4 TRIPS | TRIPS Agreement | GATS | Doha Round | Uruguay Round
+4 Kimberley Process
+4 Codex Alimentarius
+4 International Seabed Authority | ISA
+4 Universal Postal Union | UPU
+4 International Telecommunication Union | ITU
+4 SWIFT
+4 Club of Rome
+4 Bilderberg Group | Trilateral Commission
+4 Mont Pelerin Society
+x Australia | United States | China | Japan | Germany | United Kingdom | France | India :: A country, not an organisation. Name a body or agreement countries join.
+x NATO | ANZUS | Five Eyes | Interpol | Red Cross | WHO | World Health Organization | UNESCO | UNICEF | FIFA | International Olympic Committee | IOC | Greenpeace | Amnesty International :: An international body, but its business is security, health, sport or charity rather than the economy.
+x RBA | Reserve Bank of Australia | Federal Reserve | ASX | ACCC | Productivity Commission | Treasury | DFAT | Austrade :: One country's own institution, not an international one.
