@@ -95,6 +95,18 @@
    "file": "history.json",
    "prompts": 14,
    "answers": 3837
+  },
+  {
+   "id": "accounting",
+   "name": "Accounting",
+   "title": "The Book That Must Balance",
+   "blurb": "Accounts, source documents, principles, methods, audits and the firms that sign off.",
+   "group": "Business",
+   "order": 9,
+   "asOf": "2026-11-28",
+   "file": "accounting.json",
+   "prompts": 7,
+   "answers": 468
   }
  ]
 }

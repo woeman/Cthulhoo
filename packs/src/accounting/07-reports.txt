@@ -1,0 +1,61 @@
+id: accounting-reports
+text: Name a financial statement or accounting report.
+flavor: Once a year the numbers are made to stand in rows and answer for themselves.
+rules: Any statement, report, schedule or book of account that a business prepares.
+section: Reporting
+---
+1 Balance sheet | Statement of financial position
+1 Income statement | Profit and loss statement | Profit and loss | P&L | Statement of profit or loss | P and L | Statement of comprehensive income | Statement of financial performance | Profit & loss
+1 Cash flow statement | Statement of cash flows | Cashflow statement | Cash flow
+1 Budget | Cash budget | Budget report
+1 Annual report
+2 Trial balance
+2 General ledger | Ledger
+2 General journal | Journal
+2 Statement of changes in equity | Statement of owner's equity | Statement of retained earnings
+2 Bank reconciliation | Bank reconciliation statement
+2 Tax return | Income tax return
+2 BAS | Business activity statement
+2 Audit report | Auditor's report | Audit opinion
+2 Notes to the accounts | Notes to the financial statements | Notes
+2 Directors' report | Directors report
+2 Cash book | Cashbook | Cash receipts journal | Cash payments journal
+2 Aged receivables | Aged debtors report | Aged receivables report | Debtors ledger | Accounts receivable ledger | Aged payables | Aged creditors report | Creditors ledger
+2 Payroll report | Payroll summary
+2 Forecast | Cash flow forecast | Projection
+2 Prospectus
+3 Sales journal | Purchases journal | Sales returns journal | Purchases returns journal | Special journal
+3 Subsidiary ledger
+3 Worksheet | Ten-column worksheet
+3 Adjusted trial balance | Post-closing trial balance
+3 Chart of accounts
+3 Depreciation schedule | Asset register | Fixed asset register
+3 Stock report | Inventory report | Stocktake report | Stock card
+3 Variance report | Budget variance report
+3 Management accounts | Management report
+3 Segment report | Segment reporting
+3 Consolidated financial statements | Consolidated accounts | Group accounts
+3 Half-year report | Interim report | Quarterly report | Appendix 4D | Appendix 4E | 10-K | 10-Q | Appendix 4C
+3 Sustainability report | ESG report | Climate statement | Integrated report | Modern slavery statement
+3 Remuneration report
+3 Corporate governance statement
+4 Trading account | Trading statement
+4 Manufacturing account | Cost of goods manufactured statement | Manufacturing statement
+4 Appropriation account | Appropriation statement
+4 Receipts and payments account | Income and expenditure account | Income and expenditure statement
+4 Statement of affairs
+4 Petty cash book
+4 Day book | Daybook
+6 Waste book | Wastebook :: The merchant's rough daily jotter, the first of Pacioli's three books of account in 1494. Everything was scribbled here, then copied neatly into the journal.
+4 Fringe benefits tax return | FBT return | PAYG summary | Taxable payments annual report | TPAR | STP report | Single Touch Payroll
+4 Solvency declaration | Directors' declaration | Solvency resolution
+4 Auditor's independence declaration
+4 Management letter | Letter of representation | Engagement letter
+4 Break-even chart
+4 Budgeted income statement | Budgeted balance sheet | Pro forma statement | Pro forma
+4 Fund statement | Funds statement | Statement of source and application of funds
+4 Value added statement
+4 Special purpose financial report | General purpose financial report | SPFR | GPFR
+4 Liquidator's report | Administrator's report | Report as to affairs | ROCAP
+x Invoice | Receipt | Cheque | Purchase order | Credit note | Payslip :: A source document: it feeds the reports, but it is not one of them.
+x Report | Statement | Accounts | Books | Spreadsheet | Paperwork :: Which one? Name the report.
