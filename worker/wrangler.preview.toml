@@ -1,0 +1,32 @@
+# A pull request's preview: the game and a relay of its own on one address,
+# https://cthulhoo-preview-pr<number>.<account>.workers.dev, apart from the live game.
+# Its séance rooms, cult boards and census are its own (the census is seeded with
+# pretend divers), so nothing tried here reaches the live relay.
+# Deployed by .github/workflows/preview.yml, which sets the name for each pull request
+# and deletes the preview when the pull request is merged or closed.
+# The game's built files are served first; anything else (the relay) goes to src/index.ts.
+# A new Durable Object class in wrangler.toml needs adding here too.
+name = "cthulhoo-preview"
+main = "src/index.ts"
+compatibility_date = "2026-11-13"
+workers_dev = true
+preview_urls = false
+
+[assets]
+directory = "../dist"
+
+[[durable_objects.bindings]]
+name = "SEANCE"
+class_name = "Seance"
+
+[[durable_objects.bindings]]
+name = "CULT"
+class_name = "Cult"
+
+[[durable_objects.bindings]]
+name = "CENSUS"
+class_name = "Census"
+
+[[migrations]]
+tag = "v1"
+new_sqlite_classes = ["Seance", "Cult", "Census"]

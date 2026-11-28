@@ -1,0 +1,165 @@
+/* The Reliquary: the rarest answers kept behind glass, one dive to a shelf.
+   Labelled like a museum case: the relic large, its name in the tier's own glow,
+   the question and the census small beneath. */
+
+.reliquary-intro {
+  margin: 0;
+}
+
+.reliquary-tally {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: var(--space-1) var(--space-3);
+  margin: var(--space-3) 0 var(--space-5);
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+.reliquary-tally b {
+  margin-right: 0.2em;
+  font-family: var(--font-log);
+  font-weight: 400;
+  font-size: var(--step-1);
+  letter-spacing: normal;
+  color: var(--tier-color, var(--color-ink));
+  font-variant-numeric: tabular-nums;
+}
+
+.reliquary-empty {
+  margin: 0;
+  font-style: italic;
+  color: var(--color-ink-muted);
+}
+
+.reliquary,
+.reliquary-dive__relics {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.reliquary {
+  display: grid;
+  gap: var(--space-5);
+}
+
+.sheet .reliquary-dive__head {
+  display: flex;
+  align-items: center;
+  gap: var(--space-3);
+  margin: 0 0 var(--space-2);
+  font-family: var(--font-display-caps);
+  font-size: var(--step--2);
+  font-weight: 400;
+  letter-spacing: var(--tracking-caps);
+  color: var(--color-ink-muted);
+}
+
+/* the shelf's edge runs out from the label */
+.reliquary-dive__head::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid var(--color-rule-soft);
+}
+
+.relic {
+  display: grid;
+  grid-template-columns: 2.25rem 1fr;
+  gap: var(--space-3);
+  align-items: start;
+  padding: var(--space-3) 0;
+}
+
+.relic + .relic {
+  border-top: 1px dashed var(--color-rule-soft);
+}
+
+.relic__seal svg {
+  width: 2.25rem;
+  height: 2.25rem;
+}
+
+:root:not([data-zone="surface"]) .relic__seal {
+  filter: drop-shadow(0 0 7px color-mix(in oklab, var(--tier-color) 55%, transparent));
+}
+
+.relic__body {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.sheet .relic__body p {
+  margin: 0;
+}
+
+.sheet .relic__body .relic__q,
+.sheet .relic__body .relic__lore {
+  margin-top: var(--space-1);
+}
+
+.relic__answer {
+  font-family: var(--font-display);
+  font-size: var(--step-2);
+  line-height: 1.15;
+  color: var(--color-ink);
+  overflow-wrap: anywhere;
+}
+
+/* the Unspeakable keep a little of the pearl's sheen, slower than the reveal's */
+.relic--unspeakable .relic__answer {
+  background: linear-gradient(100deg, var(--color-ink) 0%, var(--color-ink) 35%, var(--tier-color) 50%, var(--color-ink) 65%, var(--color-ink) 100%);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: pearl 11s linear infinite;
+}
+
+.reduced-motion .relic--unspeakable .relic__answer {
+  animation: none;
+  background-position: 50% 0;
+}
+
+.relic__tier {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--space-3);
+}
+
+.relic__name {
+  font-family: var(--font-display-caps);
+  font-size: var(--step--2);
+  letter-spacing: var(--tracking-caps);
+  color: var(--tier-color);
+}
+
+.relic__depth {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink-muted);
+}
+
+.relic__q {
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.relic__census {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink);
+}
+
+.relic__lore {
+  font-size: var(--step--1);
+  font-style: italic;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}

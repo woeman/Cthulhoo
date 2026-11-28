@@ -1,0 +1,127 @@
+# Puts each pull request online to try before it reaches the live game, at
+#   https://cthulhoo-preview-pr<number>.<account>.workers.dev
+# That one address serves the game and a relay of its own (worker/wrangler.preview.toml),
+# so its séance rooms, cult boards and census are apart from the live ones. The census
+# is seeded with pretend divers so its shares show at once; the live game never sees
+# them. The preview is deleted when the pull request is merged or closed.
+# Uses the Cloudflare secrets that relay.yml uses. A pull request from a fork gets no
+# secrets, so it is never previewed.
+name: Preview a pull request
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+
+permissions:
+  contents: read
+
+concurrency:
+  group: preview-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+env:
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+  NAME: cthulhoo-preview-pr${{ github.event.pull_request.number }}
+
+jobs:
+  preview:
+    if: github.event.action != 'closed' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Find the preview's address
+        id: cf
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then
+            echo "::notice::No Cloudflare secrets yet, so there is no preview."
+            exit 0
+          fi
+          sub=$(curl -fsS -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/subdomain" | jq -r '.result.subdomain // empty' || true)
+          if [ -z "$sub" ]; then
+            echo "::error::The Cloudflare account has no workers.dev address yet. Run the \"Deploy the relay\" workflow once; it registers one."
+            exit 1
+          fi
+          echo "url=https://$NAME.$sub.workers.dev" >> "$GITHUB_OUTPUT"
+      - uses: actions/checkout@v4
+        if: steps.cf.outputs.url
+      - uses: actions/setup-node@v4
+        if: steps.cf.outputs.url
+        with:
+          node-version: 22
+          cache: npm
+      - name: Build the game for the preview
+        if: steps.cf.outputs.url
+        env:
+          VITE_RELAY_URL: ${{ steps.cf.outputs.url }}
+        run: |
+          npm ci
+          npm run build
+      - name: Put it online
+        if: steps.cf.outputs.url
+        working-directory: worker
+        run: |
+          npm ci
+          npx tsc --noEmit -p .
+          npx wrangler deploy --config wrangler.preview.toml --name "$NAME"
+      - name: Wait for it to answer
+        if: steps.cf.outputs.url
+        env:
+          URL: ${{ steps.cf.outputs.url }}
+        run: |
+          # A new workers.dev address can take a few minutes to answer.
+          for i in $(seq 1 36); do
+            if out=$(curl -fsS -m 10 "$URL/health" 2> /tmp/err); then
+              echo "$out"
+              exit 0
+            fi
+            echo "Not answering yet: $(tr -d '\n' < /tmp/err). Trying again in 10 s."
+            sleep 10
+          done
+          echo "::error::The preview was deployed, but $URL/health did not answer within six minutes."
+          exit 1
+      - name: Install a browser
+        if: steps.cf.outputs.url && hashFiles('dev/census-check.cjs') != ''
+        working-directory: ${{ runner.temp }}
+        run: |
+          npm init -y > /dev/null
+          npm install playwright@1.63.0
+          npx playwright install --with-deps chromium
+      - name: Seed pretend divers and play it on two phones
+        if: steps.cf.outputs.url && hashFiles('dev/census-check.cjs') != ''
+        env:
+          BASE: ${{ steps.cf.outputs.url }}/
+          NODE_PATH: ${{ runner.temp }}/node_modules
+        run: node dev/census-check.cjs preview-check
+      - name: Keep the screenshots
+        if: always() && steps.cf.outputs.url && hashFiles('dev/census-check.cjs') != ''
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-screenshots
+          path: preview-check
+          if-no-files-found: ignore
+      - name: Say where it is
+        if: always() && steps.cf.outputs.url
+        env:
+          URL: ${{ steps.cf.outputs.url }}
+        run: |
+          echo "::notice::Try this pull request at $URL"
+          { echo "## Try it"; echo; echo "$URL"; echo; echo "This preview has its own relay. Its census shares come from pretend divers."; } >> "$GITHUB_STEP_SUMMARY"
+
+  remove:
+    if: github.event.action == 'closed' && github.event.pull_request.head.repo.full_name == github.repository
+    runs-on: ubuntu-latest
+    steps:
+      - name: Delete the preview
+        run: |
+          if [ -z "$CLOUDFLARE_API_TOKEN" ] || [ -z "$CLOUDFLARE_ACCOUNT_ID" ]; then exit 0; fi
+          # Only ever a preview: never the live relay.
+          [[ "$NAME" =~ ^cthulhoo-preview-pr[0-9]+$ ]] || { echo "::error::Refusing to delete $NAME."; exit 1; }
+          code=$(curl -sS -o /tmp/cf.json -w '%{http_code}' -X DELETE -H "Authorization: Bearer $CLOUDFLARE_API_TOKEN" \
+            "https://api.cloudflare.com/client/v4/accounts/$CLOUDFLARE_ACCOUNT_ID/workers/scripts/$NAME?force=true")
+          echo "Cloudflare said: HTTP $code $(jq -c '[.errors[]? | {code, message}]' /tmp/cf.json 2> /dev/null)"
+          case "$code" in
+            200) echo "::notice::Deleted the preview $NAME." ;;
+            404) echo "::notice::There was no preview to delete." ;;
+            *) echo "::warning::The preview $NAME could not be deleted; remove it from the Cloudflare dashboard (Workers & Pages)." ;;
+          esac

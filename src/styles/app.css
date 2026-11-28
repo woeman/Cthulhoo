@@ -1155,6 +1155,22 @@ a.btn {
   text-shadow: var(--halo);
 }
 
+/* The census of the day's divers, typed into the log like a sounding. */
+.reveal-screen .census {
+  margin: 0 auto;
+  max-width: 26rem;
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink);
+  text-wrap: balance;
+  text-shadow: var(--halo);
+}
+
+/* Room kept while the relay answers, so the words do not jump when it does. */
+.reveal-screen .census.waiting {
+  min-height: 1.5em;
+}
+
 .reveal-screen .lore {
   margin: 0 auto;
   max-width: 26rem;
@@ -1537,6 +1553,79 @@ a.btn {
 .dive-log .more b {
   font-weight: 500;
   color: var(--color-ink);
+}
+
+/* The census in the log: a share beside the tier, and the answers most given, each
+   with an etched gauge as long as its share. */
+.dive-log .t .share {
+  color: var(--color-ink-muted);
+}
+
+.dive-log .census-note,
+.dive-log .census-foot {
+  font-family: var(--font-log);
+}
+
+.dive-log .more .census-head {
+  margin-bottom: var(--space-1);
+}
+
+.dive-log .census-rows {
+  list-style: none;
+  display: grid;
+  gap: 6px;
+  margin: 0 0 var(--space-2);
+  padding: 0;
+}
+
+.dive-log .census-rows li {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1.1rem 1fr auto;
+  column-gap: var(--space-2);
+  align-items: baseline;
+  padding-bottom: 5px;
+}
+
+.dive-log .census-rows li::after {
+  content: "";
+  position: absolute;
+  left: calc(1.1rem + var(--space-2));
+  bottom: 0;
+  width: calc((100% - 1.1rem - var(--space-2)) * var(--part, 0));
+  min-width: 2px;
+  height: 2px;
+  border-radius: 1px;
+  background: var(--tier-color, currentColor);
+  opacity: 0.6;
+}
+
+.dive-log .census-rows .seal svg {
+  width: 1.1rem;
+  height: 1.1rem;
+}
+
+.dive-log .census-rows .ans {
+  min-width: 0;
+  font-family: var(--font-display);
+  color: var(--color-ink);
+  overflow-wrap: anywhere;
+}
+
+.dive-log .census-rows .yours .ans {
+  font-style: italic;
+}
+
+.dive-log .census-rows .you {
+  font-style: normal;
+  color: var(--color-ink-muted);
+}
+
+.dive-log .census-rows .pct {
+  font-family: var(--font-log);
+  font-variant-numeric: tabular-nums;
+  color: var(--color-ink);
+  white-space: nowrap;
 }
 
 /* ------------------------------------------------------------ sheets (modal) */

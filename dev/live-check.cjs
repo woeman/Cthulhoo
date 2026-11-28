@@ -46,6 +46,14 @@ async function device(browser, name, { desktop = false } = {}) {
   await ctx.addInitScript((n) => {
     if (!localStorage.getItem('cthulhoo.v1.sitterName')) localStorage.setItem('cthulhoo.v1.sitterName', n);
   }, name);
+  // The live census counts real divers only: this check's answers never reach it. The
+  // game takes an empty answer as "no census today" (a failed request would log an error).
+  await ctx.route(/\/census\//, (route) => {
+    const cors = { 'Access-Control-Allow-Origin': '*', 'Access-Control-Allow-Methods': 'GET, POST, OPTIONS', 'Access-Control-Allow-Headers': 'Content-Type' };
+    return route.request().method() === 'OPTIONS'
+      ? route.fulfill({ status: 204, headers: cors })
+      : route.fulfill({ status: 200, headers: cors, contentType: 'application/json', body: '{}' });
+  });
   const d = { name, ctx, errors: [] };
   d.open = async (url) => {
     d.page = await ctx.newPage();

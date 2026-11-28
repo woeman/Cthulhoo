@@ -170,3 +170,42 @@ describe('saved progress', () => {
     expect(s.loadSettings()).toEqual({ muted: true, volume: 0.25, reducedMotion: 'on', haptics: false });
   });
 });
+
+describe('census shares kept with the dives', () => {
+  it('keeps the latest count for each daily answer, and never a smaller one', async () => {
+    const local = new FakeStorage();
+    const s = await storage(local);
+    s.keepCensus(3, 'rivers-1', { total: 40, mine: 2 });
+    s.keepCensus(3, 'rivers-1', { total: 212, mine: 9 });
+    s.keepCensus(3, 'rivers-1', { total: 90, mine: 4 }); // an older answer arriving late
+    s.keepCensus(4, 'rivers-1', { total: 5, mine: 9 });
+    const kept = s.loadCensusKept();
+    expect(s.censusKeptFor(kept, 3, 'rivers-1')).toEqual({ total: 212, mine: 9 });
+    expect(s.censusKeptFor(kept, 4, 'rivers-1')).toEqual({ total: 5, mine: 5 });
+    expect(s.censusKeptFor(kept, 5, 'rivers-1')).toBeUndefined();
+    expect(JSON.parse(local.data.get('cthulhoo.v1.census') ?? '{}')).toEqual({ '3|rivers-1': { total: 212, mine: 9 }, '4|rivers-1': { total: 5, mine: 5 } });
+  });
+
+  it('drops what it cannot trust', async () => {
+    const local = new FakeStorage();
+    local.data.set('cthulhoo.v1.census', JSON.stringify({ '3|a': { total: 12, mine: 1 }, nonsense: { total: 3, mine: 1 }, '4|b': { total: -1, mine: 0 }, '5|c': 'many', '6|d': { total: 9.6, mine: 30 } }));
+    const s = await storage(local);
+    expect(s.loadCensusKept()).toEqual({ '3|a': { total: 12, mine: 1 }, '6|d': { total: 9, mine: 9 } });
+    local.data.set('cthulhoo.v1.census', '[1,2');
+    expect((await storage(local)).loadCensusKept()).toEqual({});
+  });
+
+  it('lets the oldest days go once it holds a year of them', async () => {
+    const local = new FakeStorage();
+    const all: Record<string, { total: number; mine: number }> = {};
+    for (let day = 1; day <= 430; day++) for (let q = 0; q < 7; q++) all[`${day}|q${q}`] = { total: 30, mine: 2 };
+    local.data.set('cthulhoo.v1.census', JSON.stringify(all));
+    const s = await storage(local);
+    s.keepCensus(431, 'q0', { total: 25, mine: 1 });
+    const kept = s.loadCensusKept();
+    expect(Object.keys(kept)).toHaveLength(3000);
+    expect(kept['1|q0']).toBeUndefined();
+    expect(kept['431|q0']).toEqual({ total: 25, mine: 1 });
+    expect(kept['430|q6']).toEqual({ total: 30, mine: 2 });
+  });
+});
