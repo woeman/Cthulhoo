@@ -12,20 +12,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (2)
 
-- Russia — Russian SFSR | RSFSR | Russian Soviet Federative Socialist Republic | Russian Federation | Rossiya | Russian SSR | Russian Republic | Russian Soviet Republic | Russian Soviet Federated Socialist Republic | Soviet Russia | Russia SSR
-- Ukraine — Ukrainian SSR | Ukrainian Soviet Socialist Republic | Ukraina | Ukrainian Republic | Ukrainian Socialist Soviet Republic | UkrSSR | Soviet Ukraine | Ukraine SSR | Ukrainian Soviet Republic
+- Russia — Russian SFSR | RSFSR | Russian Soviet Federative Socialist Republic | Russian Federation | Rossiya | Russian SSR | Russian Republic | Russian Soviet Republic | Russian Soviet Federated Socialist Republic | Soviet Russia | Russia SSR | Rusha | Roosia
+- Ukraine — Ukrainian SSR | Ukrainian Soviet Socialist Republic | Ukraina | Ukrainian Republic | Ukrainian Socialist Soviet Republic | UkrSSR | Soviet Ukraine | Ukraine SSR | Ukrainian Soviet Republic | Yukrain | Youkraine
 
 ### Tier 2: common (9)
 
-- Belarus — Byelorussia | Belorussia | Byelorussian SSR | Belarusian SSR | White Russia | Byelorussian Soviet Socialist Republic | Belarusian Soviet Socialist Republic | Belorussian SSR | Byelorussian Socialist Soviet Republic | BSSR | Belarussia | Bielorussia | Belorus | Byelarus | Belarusian Republic | Soviet Belarus | Soviet Byelorussia | Belarus SSR | Byelorussian Republic | Belorussian Soviet Socialist Republic
+- Belarus — Byelorussia | Belorussia | Byelorussian SSR | Belarusian SSR | White Russia | Byelorussian Soviet Socialist Republic | Belarusian Soviet Socialist Republic | Belorussian SSR | Byelorussian Socialist Soviet Republic | BSSR | Belarussia | Bielorussia | Belorus | Byelarus | Belarusian Republic | Soviet Belarus | Soviet Byelorussia | Belarus SSR | Byelorussian Republic | Belorussian Soviet Socialist Republic | Belaroos | Bellaroos
 - Kazakhstan — Kazakh SSR | Kazakstan | Kazakh Soviet Socialist Republic | Kazakh | Qazaqstan | Kazakhstan SSR | Kazak SSR | Kazakh Republic | Soviet Kazakhstan | Kazakhskaya SSR | Kazakh Soviet Republic | Kazakstan SSR
-- Georgia — Georgian SSR | Georgian Soviet Socialist Republic | Sakartvelo | Georgian Republic | Gruzia | Gruziya | Soviet Georgia | Georgia SSR | Georgian Soviet Republic
+- Georgia — Georgian SSR | Georgian Soviet Socialist Republic | Sakartvelo | Georgian Republic | Gruzia | Gruziya | Soviet Georgia | Georgia SSR | Georgian Soviet Republic | Jorgia | Jorja
 - Lithuania — Lithuanian SSR | Lithuanian Soviet Socialist Republic | Lietuva | Lithuania SSR | Lithuanian Republic | Soviet Lithuania | Lithuanian Soviet Republic
 - Latvia — Latvian SSR | Latvian Soviet Socialist Republic | Latvija | Latvia SSR | Latvian Republic | Soviet Latvia | Latvian Soviet Republic
 - Estonia — Estonian SSR | Estonian Soviet Socialist Republic | Eesti | Esthonia | Estonia SSR | Estonian Republic | Soviet Estonia | Estonian Soviet Republic
 - Armenia — Armenian SSR | Armenian Soviet Socialist Republic | Hayastan | Armenia SSR | Armenian Republic | Soviet Armenia | Armenian Soviet Republic
 - Uzbekistan — Uzbek SSR | Uzbek Soviet Socialist Republic | Uzbek | Uzbekistan SSR | O'zbekiston | Uzbek Republic | Soviet Uzbekistan | Uzbek Soviet Republic
-- Azerbaijan — Azerbaijan SSR | Azerbaijani SSR | Azerbaijan Soviet Socialist Republic | Azerbaidzhan | Azerbaidzhan SSR | Azərbaycan | Azerbaycan | Azerbaijani Republic | Azerbaidjan | Soviet Azerbaijan | Azerbaijan Republic | Azerbaijani Soviet Socialist Republic | Azerbaijan Soviet Republic
+- Azerbaijan — Azerbaijan SSR | Azerbaijani SSR | Azerbaijan Soviet Socialist Republic | Azerbaidzhan | Azerbaidzhan SSR | Azərbaycan | Azerbaycan | Azerbaijani Republic | Azerbaidjan | Soviet Azerbaijan | Azerbaijan Republic | Azerbaijani Soviet Socialist Republic | Azerbaijan Soviet Republic | Azabajan | Azabijan
 
 ### Tier 3: known to fans (2)
 
@@ -45,7 +45,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Karelo-Finnish SSR — Karelo-Finnish Soviet Socialist Republic | Karelia | Karelian SSR | Karelo-Finnish Republic | Karelo-Finnish | KFSSR | Karelo-Finnish Soviet Republic
 - Transcaucasian SFSR — Transcaucasia | Transcaucasian Federation | Transcaucasian Socialist Federative Soviet Republic | TSFSR | Transcaucasian Soviet Federative Socialist Republic | Transcaucasian Republic | ZSFSR | Transcaucasian SSR | Transcaucasus | Transcaucasian Socialist Federative Republic
 
-## Refused on purpose (19)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -53,7 +53,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Bulgaria — "Its leader twice offered to join the USSR, earning it the nickname of the sixteenth republic. Moscow declined."
 - Mongolia — "A loyal Soviet satellite, but never part of the USSR."
 - Finland — "Part of the Russian Empire until 1917. Never Soviet."
-- Yugoslavia — "Communist, but defiantly independent of Moscow."
+- Yugoslavia | Serbia | Slovenia | Croatia | Bosnia | Bosnia and Herzegovina | Montenegro | Macedonia | North Macedonia | Kosovo — "Communist, but defiantly independent of Moscow."
 - Cuba | North Korea | Vietnam | China | Laos | Angola | South Yemen — "A Soviet ally, never a republic of the USSR."
 - Afghanistan — "Invaded by the USSR in 1979, never part of it."
 - Chechnya | Chechen-Ingush ASSR | Tatarstan | Bashkortostan | Dagestan | Yakutia | Crimea | Abkhazia | South Ossetia | Adjara | Nakhchivan | Karakalpakstan | Volga German Republic | Jewish Autonomous Oblast | Birobidzhan | Nagorno-Karabakh | Karabakh | Artsakh | Kalmykia | Buryatia | Komi | North Ossetia | Ingushetia | Kabardino-Balkaria | Gorno-Badakhshan | Tatar ASSR | Bashkir ASSR | Crimean ASSR | Yakut ASSR | Abkhaz ASSR | Adjarian ASSR | Karakalpak ASSR | Nakhichevan ASSR | Kalmyk ASSR | Chuvashia | Udmurtia — "Part of a union republic, never one itself."
@@ -68,3 +68,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Bessarabia — "A historic region, carved up when the Soviets annexed it in 1940."
 - Moscow | Leningrad | St Petersburg | Stalingrad | Volgograd | Kiev | Kyiv | Minsk | Tashkent | Tbilisi | Baku | Yerevan | Riga | Tallinn | Vilnius | Chisinau | Kishinev | Almaty | Alma-Ata | Bishkek | Frunze | Dushanbe | Stalinabad | Ashgabat | Ashkhabad | Chernobyl | Odessa | Sevastopol — "A city, not a republic."
 - Warsaw Pact | Eastern Bloc | Iron Curtain | Comecon — "An alliance of Soviet satellites, not a republic."
+- The Stans | The five Stans | Central Asia | Central Asian republics — "Five republics answer to that. Name one."
+- The Baltics | Baltic states | Baltic republics — "Three republics share that shore. Name one."
