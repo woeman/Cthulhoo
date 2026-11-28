@@ -1,0 +1,134 @@
+id: languages-aboriginal-words
+text: Name an English word that comes from an Aboriginal language.
+flavor: The oldest living languages on Earth lent these words. The country knew them first.
+rules: Any everyday word English took from an Australian Aboriginal language. Place names are a different question.
+section: First Languages
+---
+1 Kangaroo | Roo | Kangaroos
+1 Boomerang
+1 Koala
+1 Kookaburra
+1 Wombat
+1 Dingo
+1 Wallaby
+2 Billabong
+2 Barramundi | Barra
+2 Yabby | Yabbie | Yabbies
+2 Quokka
+2 Galah
+2 Budgerigar | Budgie | Budgerygah
+2 Bilby
+2 Bunyip
+2 Corroboree
+2 Cooee | Coo-ee
+5 Yakka | Hard yakka | Yakker :: Work, from "yaga" in the Yagara language of the Brisbane region.
+2 Waratah
+2 Wobbegong
+2 Quoll
+2 Numbat
+2 Currawong
+2 Brolga
+2 Taipan
+2 Coolibah | Coolabah
+2 Woomera
+2 Witchetty | Witchetty grub | Witchety
+2 Willy-willy | Willy willy
+2 Yowie
+2 Bogong | Bogong moth
+2 Mulga
+2 Jarrah
+3 Karri
+3 Kurrajong
+3 Mallee
+3 Gidgee | Gidyea
+3 Brigalow
+3 Marri
+3 Tuart
+3 Wandoo
+3 Bunya | Bunya pine | Bunya nut
+3 Quandong
+3 Geebung
+3 Bindi-eye | Bindii | Bindi
+3 Wallaroo
+3 Pademelon | Paddymelon
+3 Potoroo
+3 Bettong
+3 Euro
+3 Dunnart
+3 Kowari
+3 Mulgara
+3 Woylie
+3 Chuditch
+3 Mala
+3 Boobook
+3 Gang-gang | Gang gang cockatoo
+3 Chowchilla
+3 Wonga | Wonga pigeon | Wonga-wonga
+3 Mulloway
+3 Luderick
+3 Morwong
+3 Nannygai
+3 Marron
+3 Gilgie
+3 Bombora | Bommie
+3 Humpy
+3 Gunyah
+3 Wurley | Wurlie
+3 Mia-mia | Mia mia
+3 Coolamon
+3 Nulla-nulla | Nulla nulla
+3 Waddy
+6 Kylie :: Before it was a girl's name it was a Noongar word for a curved throwing stick, a boomerang. The name took off in Australia in the 1970s.
+3 Dilly bag | Dillybag | Dilly
+3 Bora | Bora ring
+3 Bung
+3 Yarraman
+3 Myall
+3 Koori | Koorie
+3 Murri
+3 Nunga
+3 Noongar | Nyungar | Nyoongar
+3 Yolngu | Yolŋu
+3 Anangu
+3 Palawa
+3 Min-min | Min min light
+3 Kurdaitcha | Kadaitcha | Kurdaitcha man
+3 Tjukurpa | Tjukurrpa
+4 Bardi grub | Bardi
+4 Midyim | Midgen berry
+4 Kutjera
+4 Muntries | Muntrie
+4 Gibber | Gibber plain
+4 Yandy
+4 Pindan
+4 Boorie
+4 Bunji
+4 Migaloo
+4 Jarjum
+4 Warrigal
+4 Churinga | Tjurunga
+4 Pituri
+4 Balga
+4 Quenda
+4 Wambenger
+4 Dibbler
+4 Monjon
+4 Nabarlek
+4 Toolache | Toolache wallaby
+4 Kultarr
+4 Ningaui
+4 Kaluta
+4 Dalgyte
+4 Weero | Weiro
+4 Cumbungi
+6 Nardoo :: A desert fern whose spore cases can be ground into flour, but only if prepared properly. Burke and Wills ate it wrongly, and starved with full stomachs.
+4 Belah
+4 Boree
+4 Wilga
+4 Mugga | Mugga ironbark
+4 Yarran
+4 Cunjevoi
+x Didgeridoo | Didjeridu | Didge :: A surprise: it is not from any Aboriginal language. It seems to be an English imitation of the sound. In north-east Arnhem Land it is called yidaki.
+x Emu | Goanna | Cockatoo | Bandicoot | Dugong | Jabiru | Cassowary | Platypus | Echidna | Lyrebird | Nullarbor :: Sounds as if it should be, but it came from somewhere else entirely, such as Portuguese, Malay, Telugu, Greek or Latin.
+x Uluru | Canberra | Wagga Wagga | Parramatta | Wollongong | Bondi | Kakadu | Toowoomba | Geelong | Woolloomooloo :: A place name, and a good one, but this question wants an everyday word.
+x Aboriginal | Indigenous | Dreamtime | Walkabout | Outback | Bush | Billy | Swag | Mate :: An English word, not a borrowed one.
