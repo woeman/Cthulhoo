@@ -4,7 +4,7 @@
 
 import { censusKeptFor, type CensusKept } from './storage';
 import { tierDef } from './theme';
-import type { DayRecord, PromptDef, ThemeCopy } from './types';
+import type { DayRecord, PromptDef, PromptMeta, ThemeCopy } from './types';
 
 /** The lowest tier the Reliquary keeps: Forbidden. */
 export const RELIC_TIER = 5;
@@ -23,6 +23,9 @@ export interface Relic {
   census?: CensusKept;
 }
 
+/** A relic's question as far as it is known: its answers (for the line of lore) only when they have been fetched. */
+export type RelicPrompt = PromptMeta & Partial<Pick<PromptDef, 'answers'>>;
+
 /**
  * Every relic in the dives kept, newest dive first and in the order answered
  * within a dive. Practice dives are never kept, and an Open Secret is no relic:
@@ -30,7 +33,7 @@ export interface Relic {
  */
 export function collectRelics(
   days: Record<number, DayRecord>,
-  byId: (id: string) => PromptDef | undefined,
+  byId: (id: string) => RelicPrompt | undefined,
   theme: ThemeCopy,
   kept: Record<string, CensusKept> = {},
 ): Relic[] {
@@ -42,7 +45,7 @@ export function collectRelics(
       const p = byId(a.promptId);
       const topic = a.category ?? p?.category;
       const question = p?.text ?? (topic && theme.categories[topic] ? `A question from ${theme.categories[topic].title}, since lost` : 'A question since lost to the deep');
-      const lore = p?.answers.find((x) => x.answer === a.answer)?.lore;
+      const lore = p?.answers?.find((x) => x.answer === a.answer)?.lore;
       const census = censusKeptFor(kept, rec.day, a.promptId);
       out.push({
         day: rec.day,

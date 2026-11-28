@@ -6,21 +6,21 @@ Rules: Any named apple variety, eating or cooking, old or new. Trademark names c
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (287 answers)
+## Accepted now (301 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
 - Granny Smith — Granny Smith apple | Granny | Smith | Granny apple | Smith apple
-- Pink Lady — Cripps Pink | Pink Lady apple | Cripps Pink apple | Pink | Pink apple
-- Gala — Royal Gala | Gala apple | Royal Gala apple | Galaxy | Brookfield Gala | Buckeye Gala | Mondial Gala | Galaxy apple | Brookfield Gala apple | Buckeye Gala apple | Mondial Gala apple
-- Golden Delicious — Golden | Yellow Delicious | Golden Delicious apple | Yellow Delicious apple | Mullins Yellow Seedling | Golden apple | Mullins Yellow Seedling apple
+- Pink Lady — Cripps Pink | Pink Lady apple | Cripps Pink apple | Pink | Pink apple | Lady in Red | Pink Lady Cripps
+- Gala — Royal Gala | Gala apple | Royal Gala apple | Galaxy | Brookfield Gala | Buckeye Gala | Mondial Gala | Galaxy apple | Brookfield Gala apple | Buckeye Gala apple | Mondial Gala apple | Red Gala | Imperial Gala | Alvina Gala | Tenroy | Royal Beaut | Gala Royal
+- Golden Delicious — Golden | Yellow Delicious | Golden Delicious apple | Yellow Delicious apple | Mullins Yellow Seedling | Golden apple | Mullins Yellow Seedling apple | Golden Delish
 - Braeburn — Braeburn apple
-- Red Delicious — Red Delicious apple | Delicious | Starking | Starking Delicious | Starkrimson | Hawkeye | Red Chief | Delicious apple | Starking apple | Starking Delicious apple | Starkrimson apple | Hawkeye apple | Red Chief apple
-- Fuji — Fuji apple | Aztec Fuji | Sun Fuji | Aztec Fuji apple | Sun Fuji apple
+- Red Delicious — Red Delicious apple | Delicious | Starking | Starking Delicious | Starkrimson | Hawkeye | Red Chief | Delicious apple | Starking apple | Starking Delicious apple | Starkrimson apple | Hawkeye apple | Red Chief apple | Red Delish
+- Fuji — Fuji apple | Aztec Fuji | Sun Fuji | Aztec Fuji apple | Sun Fuji apple | Fooji | Foojee | Red Fuji
 - Bramley — Bramley's Seedling | Bramley apple | Bramley's Seedling apple
-- Jazz — Scifresh | Jazz apple | Scifresh apple
+- Jazz — Scifresh | Jazz apple | Scifresh apple | Jaz | Jazz Scifresh
 - Honeycrisp — Honeycrunch | Honeycrisp apple | Honeycrunch apple
 
 ### Tier 2: common (20)
@@ -97,7 +97,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - James Grieve — James Grieve apple | Grieve | Grieve apple
 - Beauty of Bath — Beauty of Bath apple
 - Lord Lambourne — Lord Lambourne apple
-- Kiku — Kiku apple
+- Kiku — Kiku apple | Fuji Kiku | Kiku Fuji
 - Herefordshire Russet — Herefordshire Russet apple
 - Sunset — Sunset apple
 - Antonovka — Antonovka apple
@@ -115,7 +115,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Golden Russet — Golden Russet apple
 - Rhode Island Greening — Greening | Rhode Island Greening apple | Greening apple
 - Red Astrachan — Red Astrachan apple
-- Fameuse — Snow apple | Snow | Fameuse apple
+- Fameuse — Snow apple | Snow | Fameuse apple | Pomme de Neige
 - Melba — Melba apple
 - Honeygold — Honeygold apple
 - Keepsake — Keepsake apple
@@ -136,7 +136,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Akane — Akane apple
 - Orin — Orin apple
 - Tsugaru — Tsugaru apple
-- Shinano Gold — Shinano Gold apple
+- Shinano Gold — Shinano Gold apple | Yello
 - Pazazz — Pazazz apple
 - RubyFrost — RubyFrost apple
 - Koru — Koru apple
@@ -149,7 +149,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Yarlington Mill — Yarlington Mill apple
 - Arlet — Swiss Gourmet | Arlet apple | Swiss Gourmet apple
 
-### Tier 5: expert (158)
+### Tier 5: expert (172)
 
 - Ludacrisp — Ludacrisp apple
 - Esopus Spitzenburg — Spitzenburg | Esopus Spitzenburg apple | Spitzenburg apple | Spitzenberg | Esopus Spitzenberg | Spitzenberg apple | Esopus Spitzenberg apple
@@ -309,21 +309,37 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dolgo — Dolgo apple
 - Chestnut Crab — Chestnut | Chestnut Crab apple | Chestnut apple
 - Whitney — Whitney Crab | Whitney apple | Whitney Crab apple
+- Lady Williams — Lady William
+- Geeveston Fanny
+- Cleopatra — Ortley
+- London Pippin — Five Crown | Five Crown Pippin | Five Crowned Pippin
+- Kalei
+- Eve — Mariri Red | Eve apple
+- Sweetie
+- Black Diamond — Black Diamond apple
+- Red Prince
+- Lucy Rose
+- Greenstar
+- Shizuka
+- Crimson Snow — MC38
+- Bonza
 
 ### Tier 6: rare jackpots (2)
 
 - Bloody Ploughman — Bloody Ploughman apple
 - Westfield Seek-No-Further — Seek-No-Further | Westfield Seek-No-Further apple | Seek-No-Further apple
 
-## Refused on purpose (8)
+## Refused on purpose (10)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Apple | Apples | Red apple | Green apple | Eating apple | Cooking apple | Cooker | Malus domestica | Malus — "Which variety?"
-- Crab apple — "A wild species, not a variety."
-- Pear | Quince | Asian pear | Nashi — "A different fruit, if a close cousin."
+- Apple | Apples | Red apple | Green apple | Eating apple | Cooking apple | Cooker | Malus domestica | Malus | Yellow apple | Dessert apple | Yellow — "Which variety?"
+- Crab apple | Crab — "A wild species, not a variety."
+- Pear | Quince | Asian pear | Nashi | Nashi pear — "A different fruit, if a close cousin."
 - Big Apple — "New York."
 - Adam's apple — "A throat, not a fruit."
-- Toffee apple | Candy apple | Apple pie | Apple crumble | Cider — "A treat, not a variety."
+- Toffee apple | Candy apple | Apple pie | Apple crumble | Cider | Apple juice | Apple cider | Apple sauce | Somersby | Strongbow — "A treat, not a variety."
 - Apple of Discord — "A myth. The deep prefers real orchards."
 - Custard apple | Pineapple | Sugar apple | Wax apple | Thorn apple | Cashew apple | Wood apple | Elephant apple | Kei apple — "Not an apple at all, whatever its name says."
+- iPhone | MacBook | iMac | Apple Watch | AirPods — "Wrong orchard. That one grows in Cupertino."
+- Batlow | Batlow apple | Batlow apples | Stanthorpe | Huon Valley | Huon — "Apple country, and proud of it. A place, not a variety."

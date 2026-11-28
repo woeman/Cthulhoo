@@ -13,22 +13,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (4)
 
 - California — CA | Cali | Calif | Cal | Golden State | State of California
-- Texas — TX | Tex | Lone Star State | Tejas | State of Texas
-- Florida — FL | Fla | Sunshine State | State of Florida
+- Texas — TX | Tex | Lone Star State | Tejas | State of Texas | Teksas
+- Florida — FL | Fla | Sunshine State | State of Florida | Florider
 - New York — NY | New York State | NYS | Empire State | Nueva York | State of New York
 
 ### Tier 2: common (14)
 
-- Alaska — AK | Last Frontier | State of Alaska
+- Alaska — AK | Last Frontier | State of Alaska | Alasker
 - Hawaii — HI | Aloha State | Hawaiian Islands | Sandwich Islands | Hawai'i State | State of Hawaii
 - Washington — WA | Washington State | Wash | Evergreen State | State of Washington
 - Ohio — OH | Buckeye State | State of Ohio
-- Nevada — NV | Nev | Silver State | Battle Born State | State of Nevada
-- Arizona — AZ | Ariz | Grand Canyon State | State of Arizona
+- Nevada — NV | Nev | Silver State | Battle Born State | State of Nevada | Nevader
+- Arizona — AZ | Ariz | Grand Canyon State | State of Arizona | Arizoner
 - Colorado — CO | Colo | Centennial State | State of Colorado
-- Georgia — GA | Peach State | State of Georgia
+- Georgia — GA | Peach State | State of Georgia | Jorja | Jorgia
 - Michigan — MI | Mich | Great Lakes State | Wolverine State | State of Michigan
-- Illinois — IL | Ill | Prairie State | Land of Lincoln | State of Illinois
+- Illinois — IL | Ill | Prairie State | Land of Lincoln | State of Illinois | Illinoy | Illanoy
 - Massachusetts — MA | Mass | Bay State | Commonwealth of Massachusetts | State of Massachusetts
 - Rhode Island — RI | Ocean State | Little Rhody | Road Island | Rhode Island and Providence Plantations | State of Rhode Island
 - Wyoming — WY | Wyo | Equality State | Cowboy State | State of Wyoming
@@ -37,14 +37,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 3: known to fans (20)
 
 - Oregon — OR | Ore | Oreg | Beaver State | State of Oregon
-- Utah — UT | Beehive State | State of Utah
-- Montana — MT | Mont | Treasure State | Big Sky Country | State of Montana
+- Utah — UT | Beehive State | State of Utah | Youtah
+- Montana — MT | Mont | Treasure State | Big Sky Country | State of Montana | Montaner
 - Idaho — ID | Ida | Gem State | State of Idaho
 - Vermont — VT | Green Mountain State | State of Vermont
 - Maine — ME | Pine Tree State | State of Maine
 - Louisiana — LA | Pelican State | Luisiana | Louisiane | State of Louisiana
 - Tennessee — TN | Tenn | Volunteer State | Tenesee | Tenesse | State of Tennessee
-- Pennsylvania — PA | Penn | Penna | Keystone State | Commonwealth of Pennsylvania | State of Pennsylvania
+- Pennsylvania — PA | Penn | Penna | Keystone State | Commonwealth of Pennsylvania | State of Pennsylvania | Pencilvania
 - New Jersey — NJ | Jersey | Garden State | N Jersey | Nueva Jersey | State of New Jersey
 - Virginia — VA | Old Dominion | Commonwealth of Virginia | State of Virginia
 - North Carolina — NC | N Carolina | Carolina | Tar Heel State | Old North State | Carolina del Norte | State of North Carolina
@@ -53,7 +53,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - North Dakota — ND | N Dakota | Dakota | Peace Garden State | N Dak | Dakota del Norte | State of North Dakota
 - New Mexico — NM | Land of Enchantment | N Mexico | N Mex | Nuevo Mexico | State of New Mexico
 - Oklahoma — OK | Okla | Sooner State | State of Oklahoma
-- Alabama — AL | Ala | Yellowhammer State | Heart of Dixie | Cotton State | State of Alabama
+- Alabama — AL | Ala | Yellowhammer State | Heart of Dixie | Cotton State | State of Alabama | Alabamer
 - Mississippi — MS | Miss | Magnolia State | Misisipi | Misisippi | State of Mississippi
 - Connecticut — CT | Conn | Constitution State | Nutmeg State | State of Connecticut
 
@@ -71,14 +71,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 5: expert (2)
 
-- Indiana — IN | Ind | Hoosier State | State of Indiana
+- Indiana — IN | Ind | Hoosier State | State of Indiana | Indianer
 - Nebraska — NE | Nebr | Neb | Cornhusker State | State of Nebraska
 
 ### Tier 6: rare jackpots (1)
 
 - Missouri — MO | Show-Me State | Misuri | Mizouri | State of Missouri
 
-## Refused on purpose (21)
+## Refused on purpose (27)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -89,4 +89,10 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - American Samoa — "A US territory, not a state."
 - Northern Mariana Islands | Northern Marianas — "A US territory, not a state."
 - New England — "A region of six states, not a state."
+- New York City | NYC | The Big Apple | Manhattan | Brooklyn | Long Island — "A city, not a state. The state around it would have counted."
+- Los Angeles | Chicago | Boston | Las Vegas | Miami | Seattle | San Francisco | Dallas | Houston | Atlanta | Detroit | Denver | Nashville | New Orleans | Honolulu | Philadelphia | Hollywood | San Diego | Phoenix | Orlando | Memphis — "A city, not a state."
+- USA | America | United States | United States of America | The States — "That is all fifty at once. Name one."
+- Canada | Mexico — "A neighbour, not a state."
+- New South Wales | NSW | Queensland | QLD | Victoria | Tasmania | South Australia | Western Australia | Northern Territory — "A state, but one of Australia's. Wrong federation."
+- The South | Deep South | Midwest | Dixie | Bible Belt | East Coast | West Coast | Pacific Northwest — "A region, not a state."
 - Refused without a reason (near misses of real answers): Ontario | Quebec | British Columbia | Alberta | Manitoba | Saskatchewan | Nova Scotia | Columbia | Kansas City | Jefferson | Sonora | Chihuahua | Baja California | Yukon

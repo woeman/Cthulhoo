@@ -3,7 +3,7 @@ import { hashString, practiceQueue, practiceRank, practicePrompts } from '../src
 import { Packs, TopicBook, cleanPack, cleanPackIndex, filedUnder } from '../src/game/packs';
 import { DAILY_GROUP, choiceCount, choiceNames, chosenTopics, cleanChoice, dailyTopics, dealByTopic, dropCopies, fitBudget, isWholeDeep, packOfTopic, packTopic, topicsPhrase, type Topic } from '../src/game/topics';
 import type { PromptDef } from '../src/game/types';
-import { loadBank } from '../src/game/bank';
+import { loadBank, makeBank, wholeBank } from '../src/game/bank';
 import { cleanPrompts } from '../src/party/room';
 import { BEGIN_BUDGET, choosePrompts, configLine } from '../src/screens/seance/model';
 
@@ -16,7 +16,7 @@ const q = (id: string, category: string, answers = 3): PromptDef => ({
 
 const theme = { categories: { science: { name: 'Science', title: 'The Alchemist’s Ledger' }, myth: { name: 'Myth', title: 'Old Gods' }, sport: { name: 'Sport', title: 'The Drowned Games' } } };
 const bankPrompts = [...Array.from({ length: 12 }, (_, i) => q(`sci-${i}`, 'science')), ...Array.from({ length: 3 }, (_, i) => q(`myth-${i}`, 'myth')), q('odd-1', 'unfiled')];
-const bank = () => ({ prompts: bankPrompts, byId: new Map(bankPrompts.map((p) => [p.id, p])), days: [] });
+const bank = () => wholeBank(bankPrompts);
 
 const INDEX = {
   packs: [
@@ -190,21 +190,21 @@ describe('a sitting on chosen topics', () => {
     const b = bank();
     const book = new TopicBook(b, theme, fetcher());
     const among = await book.pool(['science', 'pack:finance']);
-    const set = choosePrompts(b, ['finance-asx'], 'DAGON-7', 0, 1, 4, [], { among, topicOf: (p) => book.topicOf(p) });
+    const set = await choosePrompts(b, ['finance-asx'], 'DAGON-7', 0, 1, 4, [], { among, topicOf: (p) => book.topicOf(p) });
     expect(set).toHaveLength(4);
     expect(set.map((p) => book.topicOf(p)).sort()).toEqual(['pack:finance', 'science', 'science', 'science']);
     expect(set.some((p) => p.id === 'finance-asx')).toBe(false);
     // Two class packs, neither due in any daily dive: they take turns from the first question.
-    const packs = choosePrompts(b, [], 'DAGON-7', 0, 1, 3, [], { among: await book.pool(['pack:finance', 'pack:anatomy']), topicOf: (p) => book.topicOf(p) });
+    const packs = await choosePrompts(b, [], 'DAGON-7', 0, 1, 3, [], { among: await book.pool(['pack:finance', 'pack:anatomy']), topicOf: (p) => book.topicOf(p) });
     expect(packs.slice(0, 2).map((p) => book.topicOf(p)).sort()).toEqual(['pack:anatomy', 'pack:finance']);
     expect(book.topicOf(packs[2])).toBe('pack:finance');
   });
 
-  it('is unchanged when no topics are ticked', () => {
+  it('is unchanged when no topics are ticked', async () => {
     const b = bank();
     const plain = practicePrompts(b.prompts, ['sci-1', 'sci-2'], hashString('DAGON-7#2'), 1, []).slice(0, 5);
-    expect(choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2']).map((p) => p.id)).toEqual(plain);
-    expect(choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2'], { budget: BEGIN_BUDGET }).map((p) => p.id)).toEqual(plain);
+    expect((await choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2'])).map((p) => p.id)).toEqual(plain);
+    expect((await choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2'], { budget: BEGIN_BUDGET })).map((p) => p.id)).toEqual(plain);
   });
 });
 
@@ -214,7 +214,7 @@ describe('a class pack’s copy of a daily question', () => {
     'index.json': { packs: [{ id: 'bones', name: 'Bones', group: 'Science', order: 1, file: 'bones.json', prompts: 3, answers: 9 }] },
     'bones.json': { prompts: [q('bones-sci-0', 'science'), q('bones-sci-1', 'science'), q('bones-skull', 'science')] },
   };
-  const book = () => new TopicBook(bank(), theme, async (file) => files[file]);
+  const book = (b = bank()) => new TopicBook(b, theme, async (file) => files[file]);
 
   it('is known for the question it copies, once its pack is loaded', async () => {
     const b = book();
@@ -227,13 +227,14 @@ describe('a class pack’s copy of a daily question', () => {
   });
 
   it('is never asked beside its original in a mixed sitting, nor when its original is in today’s dive', async () => {
-    const b = book();
+    // The pack's questions are adopted into the bank the book was given, so the sitting finds them whole.
     const bk = bank();
+    const b = book(bk);
     const among = await b.pool(['science', 'pack:bones']);
     expect(among).toHaveLength(15);
     const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
     for (let sitting = 0; sitting < 12; sitting++) {
-      const asked = choosePrompts({ ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) }, ['sci-1'], 'DAGON-7', sitting, 3, 15, [], from).map((p) => p.id);
+      const asked = (await choosePrompts(bk, ['sci-1'], 'DAGON-7', sitting, 3, 15, [], from)).map((p) => p.id);
       const keys = asked.map((id) => b.sameAs(id));
       expect(new Set(keys).size, `sitting ${sitting}`).toBe(keys.length);
       // Today's dive holds sci-1: neither it nor the pack's copy of it is asked.
@@ -244,14 +245,13 @@ describe('a class pack’s copy of a daily question', () => {
   });
 
   it('goes to the back of the queue with its original once either has been asked', async () => {
-    const b = book();
     const bk = bank();
+    const b = book(bk);
     const among = await b.pool(['pack:bones']);
     const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
-    const all = { ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) };
     for (let sitting = 0; sitting < 8; sitting++) {
       // The circle met the daily "sci-0" in an earlier sitting: the pack's copy of it comes last.
-      const ids = choosePrompts(all, [], 'DAGON-7', sitting, 3, 3, ['sci-0'], from).map((p) => p.id);
+      const ids = (await choosePrompts(bk, [], 'DAGON-7', sitting, 3, 3, ['sci-0'], from)).map((p) => p.id);
       expect(ids[ids.length - 1], `sitting ${sitting}`).toBe('bones-sci-0');
     }
   });
@@ -270,7 +270,7 @@ describe('two class packs that ask the same thing', () => {
     'body.json': { prompts: [brain('body-brain-parts', 'Name a part of the human brain.'), q('body-bones', 'science')] },
     'mind.json': { prompts: [brain('mind-brain-parts', 'Name a part of  the human BRAIN'), brain('mind-sci', 'name a sci-3'), q('mind-biases', 'science')] },
   };
-  const book = () => new TopicBook(bank(), theme, async (file) => files[file]);
+  const book = (b = bank()) => new TopicBook(b, theme, async (file) => files[file]);
 
   it('are the one question, whichever pack was loaded first', async () => {
     const b = book();
@@ -296,19 +296,114 @@ describe('two class packs that ask the same thing', () => {
   });
 
   it('are never both asked in a mixed sitting', async () => {
-    const b = book();
     const bk = bank();
+    const b = book(bk);
     const among = await b.pool(['pack:body', 'pack:mind']);
     expect(among).toHaveLength(5);
     const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => b.topicOf(p), sameAs: (id: string) => b.sameAs(id) };
-    const all = { ...bk, byId: new Map([...bk.byId, ...among.map((p) => [p.id, p] as const)]) };
     for (let sitting = 0; sitting < 12; sitting++) {
-      const asked = choosePrompts(all, ['sci-3'], 'DAGON-7', sitting, 3, 5, [], from).map((p) => p.id);
+      const asked = (await choosePrompts(bk, ['sci-3'], 'DAGON-7', sitting, 3, 5, [], from)).map((p) => p.id);
       // Five questions less the twin and less the one today's dive holds.
       expect(asked, `sitting ${sitting}`).toHaveLength(3);
       expect(asked.filter((id) => id.endsWith('brain-parts')), `sitting ${sitting}`).toHaveLength(1);
       expect(asked).not.toContain('mind-sci');
     }
+  });
+});
+
+describe('topics over a daily bank whose answers are still to be fetched', () => {
+  // The game's own bank: every question's words at once, its answers only when asked for.
+  const lazy = (down: () => boolean = () => false) => {
+    const asked: string[] = [];
+    const b = makeBank({
+      index: bankPrompts.map((p) => ({ id: p.id, text: p.text, category: p.category, v: '1' })),
+      fetchJson: async (id) => {
+        asked.push(id);
+        const found = bankPrompts.find((p) => p.id === id);
+        if (down() || !found) throw new Error('down');
+        return found;
+      },
+    });
+    return { b, asked };
+  };
+
+  it('lists the topics and draws a pool without fetching an answer', async () => {
+    const { b, asked } = lazy();
+    const book = new TopicBook(b, theme, fetcher());
+    expect(book.daily().map((t) => [t.id, t.count])).toEqual([
+      ['science', 12],
+      ['myth', 3],
+      ['unfiled', 1],
+    ]);
+    expect((await book.pool([])).length).toBe(16);
+    expect((await book.pool(['myth', 'pack:finance'])).map((p) => p.id)).toEqual(['myth-0', 'myth-1', 'myth-2', 'finance-asx', 'finance-banks']);
+    expect(asked).toEqual([]);
+    // A pack's questions come whole with it; the daily bank's are not here yet.
+    expect([...b.byId.keys()]).toEqual(['finance-asx', 'finance-banks']);
+  });
+
+  it('fetches only the questions a sitting will ask', async () => {
+    const { b, asked } = lazy();
+    const book = new TopicBook(b, theme, fetcher());
+    const among = await book.pool(['science', 'pack:finance']);
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => book.topicOf(p), sameAs: (id: string) => book.sameAs(id) };
+    const chosen = await choosePrompts(b, ['sci-1'], 'DAGON-7', 0, 1, 4, [], from);
+    expect(chosen).toHaveLength(4);
+    expect(chosen.every((p) => p.answers.length > 0)).toBe(true);
+    // Dealt evenly, two are the pack's (here already): of the twelve of science, no more than the first few of the queue are fetched.
+    expect(asked.length).toBeGreaterThan(0);
+    expect(asked.length).toBeLessThanOrEqual(6);
+    expect(asked).not.toContain('sci-1');
+    expect(asked.every((id) => id.startsWith('sci-'))).toBe(true);
+  });
+
+  it('finds saved questions again: the daily bank’s by fetching them, the others in their pack', async () => {
+    const { b, asked } = lazy();
+    const calls: string[] = [];
+    const book = new TopicBook(b, theme, fetcher(calls));
+    await book.ensure(['sci-0', 'anatomy-bones', 'unknown-thing', 'sci-3']);
+    expect([...asked].sort()).toEqual(['sci-0', 'sci-3']);
+    expect(calls).toEqual(['index.json', 'anatomy.json']);
+    expect(['sci-0', 'sci-3', 'anatomy-bones'].every((id) => b.byId.has(id))).toBe(true);
+    await book.ensure(['sci-0', 'anatomy-bones']);
+    expect(asked).toHaveLength(2);
+    expect(calls).toHaveLength(2);
+  });
+
+  it('never rejects when the line is down, and has the questions the next time', async () => {
+    let down = true;
+    const { b } = lazy(() => down);
+    const book = new TopicBook(b, theme, fetcher([], () => down));
+    await book.ensure(['sci-0', 'anatomy-bones']);
+    expect(b.byId.size).toBe(0);
+    expect(await choosePrompts(b, [], 'DAGON-7', 0, 1, 5)).toEqual([]);
+    down = false;
+    await book.ensure(['sci-0', 'anatomy-bones']);
+    expect(b.byId.has('sci-0') && b.byId.has('anatomy-bones')).toBe(true);
+    expect(await choosePrompts(b, [], 'DAGON-7', 0, 1, 5)).toHaveLength(5);
+  });
+
+  it('knows a pack’s copy of a daily question, by its id or by its words, before that question was ever fetched', async () => {
+    const files: Record<string, unknown> = {
+      'index.json': { packs: [{ id: 'bones', name: 'Bones', group: 'Science', order: 1, file: 'bones.json', prompts: 3, answers: 9 }] },
+      'bones.json': { prompts: [q('bones-sci-0', 'science'), { ...q('bones-other', 'science'), text: 'name a  SCI-3' }, q('bones-skull', 'science')] },
+    };
+    const { b, asked } = lazy();
+    const book = new TopicBook(b, theme, async (file) => files[file]);
+    const among = await book.pool(['science', 'pack:bones']);
+    expect(book.sameAs('bones-sci-0')).toBe('sci-0');
+    expect(book.sameAs('bones-other')).toBe('sci-3');
+    expect(book.sameAs('sci-3')).toBe('sci-3');
+    expect(book.sameAs('bones-skull')).toBe('bones-skull');
+    expect(asked).toEqual([]);
+    // So a mixed sitting never asks the two together, and fetching what it asks changes none of it.
+    const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => book.topicOf(p), sameAs: (id: string) => book.sameAs(id) };
+    const ids = (await choosePrompts(b, [], 'DAGON-7', 0, 3, 15, [], from)).map((p) => p.id);
+    const keys = ids.map((id) => book.sameAs(id));
+    expect(new Set(keys).size).toBe(keys.length);
+    expect(ids).toHaveLength(13);
+    expect(book.sameAs('bones-sci-0')).toBe('sci-0');
+    expect(book.sameAs('bones-other')).toBe('sci-3');
   });
 });
 
@@ -381,7 +476,7 @@ describe('every topic at once, with the packs in the repo', () => {
     const topics = await book.all();
     const among = await book.pool(topics.map((t) => t.id));
     const from = { among, topicOf: (p: Pick<PromptDef, 'id' | 'category'>) => book.topicOf(p), sameAs: (id: string) => book.sameAs(id) };
-    const asked = choosePrompts(real, [], 'DAGON-7', 0, 3, among.length, [], from);
+    const asked = await choosePrompts(real, [], 'DAGON-7', 0, 3, among.length, [], from);
     const texts = asked.map((p) => p.text.trim().toLowerCase());
     const twice = texts.filter((t, i) => texts.indexOf(t) !== i);
     expect(twice).toEqual([]);

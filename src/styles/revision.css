@@ -1,0 +1,421 @@
+/* Revision dives: one class pack studied alone. The shell, the plates and the
+   answer line are the séance's and the daily dive's own; this is what is new:
+   the depth line, the shelf of packs, a pack's questions, and what was missed.
+   Colours come from the depth palette only, so the page darkens as it sinks. */
+
+.rv-bar-pack {
+  font-family: var(--font-display);
+  font-style: italic;
+  letter-spacing: 0;
+}
+
+.rv-plate {
+  display: grid;
+  gap: var(--space-3);
+  align-content: start;
+}
+
+.rv-title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-3);
+  line-height: 1.1;
+  text-wrap: balance;
+}
+
+.rv-lede {
+  font-size: var(--step-0);
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+
+.rv-dim {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  line-height: 1.4;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.rv-k {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-transform: lowercase;
+}
+
+.rv-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-2) var(--space-3);
+  align-items: center;
+}
+
+.rv-wait-line {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-2);
+  line-height: 1.2;
+  text-wrap: balance;
+}
+
+.rv-wait .btn {
+  justify-self: start;
+}
+
+/* ------------------------------------------------------------ the depth line */
+
+.rv-gauge {
+  position: relative;
+  display: block;
+  height: 6px;
+  border: 1px solid var(--color-rule-soft);
+  border-radius: var(--radius-round);
+  background: color-mix(in oklab, var(--color-ink) 7%, transparent);
+  overflow: hidden;
+}
+
+.rv-gauge.is-wide {
+  height: 10px;
+}
+
+.rv-gauge-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  min-width: 0;
+  border-radius: inherit;
+  background: var(--color-glow);
+  transition: width 700ms var(--ease-surface);
+}
+
+.is-reduced .rv-gauge-fill {
+  transition: none;
+}
+
+.rv-gauge.is-floor .rv-gauge-fill {
+  background: var(--color-accent);
+}
+
+/* the deepest before today */
+.rv-gauge-was {
+  position: absolute;
+  top: -1px;
+  bottom: -1px;
+  width: 2px;
+  background: var(--color-ink);
+  opacity: 0.55;
+}
+
+.rv-progress {
+  display: grid;
+  gap: var(--space-1);
+}
+
+.rv-progress-line {
+  font-family: var(--font-log);
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ the shelf of packs */
+
+.rv-packs,
+.rv-qs {
+  display: grid;
+  gap: var(--space-2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rv-pack,
+.rv-q {
+  appearance: none;
+  display: grid;
+  gap: 5px;
+  width: 100%;
+  padding: var(--space-3);
+  border: var(--rule-hair) solid var(--color-rule-soft);
+  border-radius: var(--radius-hair);
+  background: color-mix(in oklab, var(--color-plate) 60%, transparent);
+  color: var(--color-ink);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition:
+    border-color var(--dur-quick),
+    box-shadow var(--dur-ui),
+    transform var(--dur-quick);
+}
+
+.rv-pack:hover,
+.rv-q:hover:not([disabled]) {
+  border-color: var(--color-glow);
+  box-shadow: 0 0 18px var(--color-glow-soft);
+}
+
+.rv-pack:active,
+.rv-q:active:not([disabled]) {
+  transform: translateY(1px);
+}
+
+.rv-pack-name {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step-0);
+}
+
+.rv-pack-title {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-1);
+  line-height: 1.15;
+}
+
+.rv-pack-meta,
+.rv-q-meta {
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  line-height: 1.35;
+  color: var(--color-ink-muted);
+}
+
+/* ------------------------------------------------------------ one pack */
+
+.rv-candles .sc-choice {
+  min-height: 46px;
+}
+
+.rv-begin {
+  flex: 1 1 auto;
+}
+
+.rv-q-text {
+  font-family: var(--font-text);
+  font-size: var(--step-0);
+  line-height: 1.3;
+  text-wrap: pretty;
+}
+
+.rv-q[disabled] {
+  opacity: 0.55;
+  cursor: default;
+}
+
+.rv-q.is-floor .rv-q-meta {
+  color: var(--color-accent);
+}
+
+.rv-forget {
+  justify-self: start;
+}
+
+/* ------------------------------------------------------------ a question */
+
+.rv-ask-plate > .kicker {
+  line-height: 1.5;
+}
+
+.rv-tally {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--space-2) var(--space-5);
+  margin-top: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.rv-tally-depth {
+  display: grid;
+  gap: 2px;
+  min-width: 0;
+}
+
+.rv-depth {
+  font-family: var(--font-log);
+  font-size: var(--step-4);
+  line-height: 1;
+  color: var(--color-glow);
+  text-shadow: var(--halo);
+  font-variant-numeric: tabular-nums;
+}
+
+.rv-depth .u {
+  font-size: var(--step-1);
+  color: var(--color-ink-muted);
+  text-shadow: none;
+}
+
+.rv-zone {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step-0);
+  color: var(--color-ink-muted);
+}
+
+.rv-gauge-slot {
+  margin-top: var(--space-2);
+}
+
+.rv-count {
+  margin-top: var(--space-1);
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  line-height: 1.45;
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+.rv-ask-plate .feedback {
+  min-height: 2.9em;
+}
+
+.rv-took {
+  color: color-mix(in oklab, var(--tier-color, var(--color-glow)) 70%, var(--color-ink));
+}
+
+.rv-ask-plate .feedback :is(.rv-slip, .rv-touched) {
+  color: var(--color-ink-muted);
+}
+
+.rv-ask-plate .feedback .rv-gain {
+  color: var(--color-ink);
+}
+
+.rv-ask-plate .feedback .rv-slip .spelt {
+  color: var(--color-ink);
+}
+
+.rv-ask-plate .feedback .rv-touched {
+  color: var(--color-accent);
+}
+
+.rv-named:has(.rv-chips:empty) {
+  display: none;
+}
+
+.rv-named {
+  margin-top: var(--space-1);
+}
+
+.rv-ask-plate .rv-actions {
+  margin-top: var(--space-3);
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+/* ------------------------------------------------------------ what was missed */
+
+.rv-result {
+  justify-items: start;
+}
+
+.rv-result-q {
+  font-family: var(--font-text);
+  font-size: var(--step-1);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.rv-result .rv-gauge {
+  width: 100%;
+}
+
+.rv-chips.is-missed .cv-named-a {
+  border-style: dashed;
+  background: transparent;
+  color: var(--color-ink-muted);
+}
+
+/* an answer named for the first time: ringed */
+.rv-chips .cv-named-a.is-new {
+  box-shadow:
+    0 0 0 2px var(--color-plate),
+    0 0 0 3px var(--tier-color, var(--color-glow));
+}
+
+.rv-tier {
+  display: grid;
+  gap: var(--space-2);
+  padding-top: var(--space-2);
+  border-top: 1px dotted var(--color-rule-soft);
+}
+
+.rv-tier-k {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0 var(--space-2);
+}
+
+.rv-tier-name {
+  font-family: var(--font-display-caps);
+  letter-spacing: var(--tracking-caps);
+  font-size: var(--step--1);
+  color: color-mix(in oklab, var(--tier-color, var(--color-glow)) 70%, var(--color-ink));
+}
+
+.rv-tier-n {
+  font-family: var(--font-log);
+  font-size: var(--step--2);
+  color: var(--color-ink-muted);
+}
+
+.rv-tier.is-clear .rv-tier-n {
+  color: var(--color-glow);
+}
+
+.rv-more {
+  justify-self: start;
+}
+
+.rv-refused .dispute-block {
+  margin: 0;
+}
+
+/* ------------------------------------------------------------ the end of a dive */
+
+.rv-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(7rem, 1fr));
+  gap: var(--space-3);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.rv-stats li {
+  display: grid;
+  gap: 2px;
+}
+
+.rv-stat-n {
+  font-family: var(--font-log);
+  font-size: var(--step-3);
+  line-height: 1;
+  color: var(--color-glow);
+}
+
+.rv-stat-k {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+}
+
+@media (max-width: 560px) {
+  .rv-plate {
+    padding: var(--space-4);
+  }
+
+  .rv-depth {
+    font-size: var(--step-3);
+  }
+
+  .rv-ask-plate > .flavor {
+    display: none;
+  }
+}

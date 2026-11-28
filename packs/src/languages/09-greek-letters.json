@@ -8,7 +8,9 @@
   {
    "answer": "Alpha",
    "aliases": [
-    "Alfa"
+    "Alfa",
+    "Alpher",
+    "Alfer"
    ],
    "tier": 1,
    "lore": "The first, paired with the last: 'I am the Alpha and the Omega,' says the Book of Revelation."
@@ -16,7 +18,10 @@
   {
    "answer": "Beta",
    "aliases": [
-    "Vita"
+    "Vita",
+    "Beater",
+    "Bayta",
+    "Beeta"
    ],
    "tier": 1
   },
@@ -32,18 +37,27 @@
   {
    "answer": "Delta",
    "aliases": [
-    "Dhelta"
+    "Dhelta",
+    "Delter"
    ],
    "tier": 1,
    "lore": "Its triangle gave its name to river deltas, starting with the Nile's."
   },
   {
    "answer": "Omega",
+   "aliases": [
+    "Omeger"
+   ],
    "tier": 1,
    "lore": "Means 'great O'. Its little sister is Omicron."
   },
   {
    "answer": "Pi",
+   "aliases": [
+    "Pie",
+    "Pye",
+    "Py"
+   ],
    "tier": 1,
    "lore": "Its digits have been worked out into the hundreds of trillions, and they never fall into a pattern."
   },
@@ -51,7 +65,8 @@
    "answer": "Sigma",
    "aliases": [
     "Final Sigma",
-    "Lunate sigma"
+    "Lunate sigma",
+    "Sigmer"
    ],
    "tier": 2,
    "lore": "It has two lower-case forms: one for the end of a word, and one for everywhere else."
@@ -59,7 +74,10 @@
   {
    "answer": "Theta",
    "aliases": [
-    "Thita"
+    "Thita",
+    "Thayta",
+    "Theter",
+    "Theeta"
    ],
    "tier": 2,
    "lore": "The Greeks marked the names of the dead with it, for thanatos, death."
@@ -69,7 +87,9 @@
    "aliases": [
     "Labda",
     "Lamda",
-    "Lamvda"
+    "Lamvda",
+    "Lamder",
+    "Lambder"
    ],
    "tier": 2
   },
@@ -80,7 +100,10 @@
   {
    "answer": "Zeta",
    "aliases": [
-    "Zita"
+    "Zita",
+    "Zeter",
+    "Zayta",
+    "Zeeta"
    ],
    "tier": 2
   },
@@ -88,7 +111,8 @@
    "answer": "Kappa",
    "aliases": [
     "Kapa",
-    "Cappa"
+    "Cappa",
+    "Capa"
    ],
    "tier": 2
   },
@@ -96,7 +120,11 @@
    "answer": "Phi",
    "aliases": [
     "Fi",
-    "Phee"
+    "Phee",
+    "Fie",
+    "Fy",
+    "Phy",
+    "Fee"
    ],
    "tier": 2
   },
@@ -104,7 +132,11 @@
    "answer": "Psi",
    "aliases": [
     "Psy",
-    "Psee"
+    "Psee",
+    "Sai",
+    "Sy",
+    "Psai",
+    "Sigh"
    ],
    "tier": 2
   },
@@ -113,7 +145,11 @@
    "aliases": [
     "My",
     "Mi",
-    "Mew"
+    "Mew",
+    "Myu",
+    "Moo",
+    "Mue",
+    "Miu"
    ],
    "tier": 2
   },
@@ -123,7 +159,10 @@
     "Khi",
     "Hi",
     "Kai",
-    "Khee"
+    "Khee",
+    "Ky",
+    "Kye",
+    "Chy"
    ],
    "tier": 2,
    "lore": "Its X shape is why Christmas can be written Xmas, from Christos."
@@ -131,14 +170,21 @@
   {
    "answer": "Tau",
    "aliases": [
-    "Taf"
+    "Taf",
+    "Taw",
+    "Tow",
+    "Tor",
+    "Tao"
    ],
    "tier": 2
   },
   {
    "answer": "Rho",
    "aliases": [
-    "Ro"
+    "Ro",
+    "Roe",
+    "Row",
+    "Roh"
    ],
    "tier": 2
   },
@@ -148,7 +194,9 @@
     "Yota",
     "Giota",
     "Yiota",
-    "Jota"
+    "Jota",
+    "Eyeota",
+    "Ayota"
    ],
    "tier": 3,
    "lore": "The smallest letter, which gave us 'not one iota'."
@@ -156,7 +204,9 @@
   {
    "answer": "Eta",
    "aliases": [
-    "Ita"
+    "Ita",
+    "Ayta",
+    "Eeta"
    ],
    "tier": 3
   },
@@ -164,7 +214,11 @@
    "answer": "Nu",
    "aliases": [
     "Ny",
-    "Ni"
+    "Ni",
+    "New",
+    "Nyu",
+    "Noo",
+    "Niu"
    ],
    "tier": 3
   },
@@ -173,7 +227,12 @@
    "aliases": [
     "Ksi",
     "Xei",
-    "Ksee"
+    "Ksee",
+    "Zi",
+    "Zai",
+    "Zy",
+    "Ksai",
+    "Xee"
    ],
    "tier": 3
   },
@@ -189,7 +248,8 @@
    "answer": "Upsilon",
    "aliases": [
     "Ypsilon",
-    "Ipsilon"
+    "Ipsilon",
+    "Oopsilon"
    ],
    "tier": 3
   },
@@ -304,6 +364,14 @@
     "Wynn"
    ],
    "reason": "A letter, but Old English or German, not Greek."
+  },
+  {
+   "answer": "Alpha and Omega",
+   "aliases": [
+    "Alpha Omega",
+    "Alpha to Omega"
+   ],
+   "reason": "That is two letters. One at a time."
   }
  ],
  "section": "Languages",

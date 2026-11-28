@@ -32,6 +32,7 @@ const TRAP_FIELDS = new Set(["answer", "aliases", "reason"]);
 const RIDDLE_FIELDS = new Set(["id", "verse", "answers", "hints", "traps", "page", "exact"]);
 const RIDDLE_ANSWER_FIELDS = new Set(["answer", "aliases"]);
 const ID_PATTERN = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+const MAX_DAILY_ID = 60;
 
 function readJson(path) {
   try {
@@ -134,6 +135,8 @@ function checkPrompt(prompt, where, theme, seenIds, lexicons) {
   if (!isText(prompt.id) || !ID_PATTERN.test(prompt.id)) error(label, "id must be kebab-case, e.g. landlocked-countries");
   else if (seenIds.has(prompt.id)) error(label, `id also used in ${seenIds.get(prompt.id)}`);
   else seenIds.set(prompt.id, where);
+  // A daily question is published as bank/<id>.json (build/daily-bank.mjs), so its id is a file's name.
+  if (isText(prompt.id) && where.startsWith("data/") && prompt.id.length > MAX_DAILY_ID) error(label, `id is over ${MAX_DAILY_ID} characters, and a daily question's id is also the name of its published file`);
 
   if (!isText(prompt.text)) error(label, "text is required");
   else {
@@ -305,6 +308,7 @@ try {
 }
 
 const packsSeen = [];
+const dailyById = new Map();
 for (const where of [...files, ...packFiles]) {
   const isPack = where.startsWith("packs/");
   const data = readJson(join(root, where));
@@ -315,7 +319,17 @@ for (const where of [...files, ...packFiles]) {
     if (data.pack?.id !== id || !isText(data.pack?.name)) error(where, `"pack" needs id "${id}" and a name`);
     for (const p of data.prompts ?? []) {
       if (isText(p?.id) && !p.id.startsWith(`${id}-`)) error(where, `prompt id "${p.id}" must start with "${id}-"`);
+      // A daily question reused under a pack id must accept all the daily one does.
+      const live = isText(p?.id) ? dailyById.get(p.id.slice(id.length + 1)) : undefined;
+      if (live) {
+        const same = (k) => JSON.stringify(p[k] ?? null) === JSON.stringify(live[k] ?? null);
+        if (!["answers", "traps", "decoys", "text", "exact"].every(same)) {
+          error(`${where} › ${p.id}`, `differs from the daily question "${live.id}"; run node scripts/build-packs.mjs`);
+        }
+      }
     }
+  } else {
+    for (const p of Array.isArray(data.prompts) ? data.prompts : []) if (isText(p?.id)) dailyById.set(p.id, p);
   }
   // Fixed daily dives ({ "days": [ ... ] }) belong to the daily bank in data/, never to a pack.
   const fixedDays = !isPack && Array.isArray(data.days);

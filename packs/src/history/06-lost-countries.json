@@ -15,7 +15,9 @@
     "Soviets",
     "SSSR",
     "Soviet Empire",
-    "Union of Soviet Socialist Republic"
+    "Union of Soviet Socialist Republic",
+    "ISSR",
+    "YSSR"
    ],
    "tier": 1,
    "lore": "Dissolved on 26 December 1991, the day after Gorbachev resigned."
@@ -33,7 +35,8 @@
     "Kingdom of Serbs, Croats and Slovenes",
     "Kingdom of SHS",
     "Yugoslav Republic",
-    "Jugoslavija"
+    "Jugoslavija",
+    "Yugo"
    ],
    "tier": 1
   },
@@ -63,7 +66,8 @@
     "Communist Germany",
     "Communist East Germany",
     "Ostdeutschland",
-    "East German Republic"
+    "East German Republic",
+    "Eastern Germany"
    ],
    "tier": 1
   },
@@ -75,7 +79,9 @@
     "Duchy of Prussia",
     "Electorate of Prussia",
     "Prussian Kingdom",
-    "Prussian state"
+    "Prussian state",
+    "East Prussia",
+    "West Prussia"
    ],
    "tier": 1,
    "lore": "Formally abolished by the Allies in 1947, who blamed it for German militarism."
@@ -132,7 +138,9 @@
    "answer": "West Germany",
    "aliases": [
     "FRG",
-    "BRD"
+    "BRD",
+    "Western Germany",
+    "Bonn Republic"
    ],
    "tier": 1
   },
@@ -349,7 +357,9 @@
     "Confederate America",
     "Southern Confederacy",
     "Confederate South",
-    "Confederation of Southern States"
+    "Confederation of Southern States",
+    "The South",
+    "Dixie"
    ],
    "tier": 2
   },
@@ -443,7 +453,10 @@
     "Macedonian Empire",
     "Macedonians",
     "Ancient Macedon",
-    "Macedonia of Alexander"
+    "Macedonia of Alexander",
+    "Alexander's empire",
+    "Empire of Alexander",
+    "Alexander the Great's empire"
    ],
    "tier": 2
   },
@@ -468,7 +481,9 @@
     "Piedmont-Sardinia",
     "Sardinia-Piedmont",
     "Kingdom of Piedmont-Sardinia",
-    "Savoy-Sardinia"
+    "Savoy-Sardinia",
+    "Piedmont",
+    "Kingdom of Piedmont"
    ],
    "tier": 3
   },
@@ -540,7 +555,9 @@
     "Outremer",
     "Latin Kingdom of Jerusalem",
     "Crusader Kingdom of Jerusalem",
-    "Crusader Kingdom"
+    "Crusader Kingdom",
+    "Crusader states",
+    "Crusader kingdoms"
    ],
    "tier": 3
   },
@@ -741,7 +758,8 @@
     "Manchoukuo",
     "Manchutikuo",
     "Empire of Manchukuo",
-    "Manchu State"
+    "Manchu State",
+    "Manchuria"
    ],
    "tier": 3
   },
@@ -790,7 +808,8 @@
     "Emirate of Córdoba",
     "Islamic Spain",
     "Muslim Spain",
-    "Andalus"
+    "Andalus",
+    "Cordoba"
    ],
    "tier": 3
   },
@@ -1061,6 +1080,11 @@
   },
   {
    "answer": "East Pakistan",
+   "aliases": [
+    "Est Pakistan",
+    "Eest Pakistan",
+    "Aest Pakistan"
+   ],
    "tier": 3
   },
   {
@@ -1204,6 +1228,9 @@
   },
   {
    "answer": "Kingdom of Great Britain",
+   "aliases": [
+    "Great Britain"
+   ],
    "tier": 3
   },
   {
@@ -1314,7 +1341,9 @@
     "South African Republic",
     "Zuid-Afrikaansche Republiek",
     "ZAR",
-    "Transvaal Republic"
+    "Transvaal Republic",
+    "Boer Republics",
+    "Boer Republic"
    ],
    "tier": 4
   },
@@ -1539,7 +1568,9 @@
   {
    "answer": "Kingdom of Judah",
    "aliases": [
-    "Judah"
+    "Judah",
+    "Judea",
+    "Judaea"
    ],
    "tier": 4
   },
@@ -1878,7 +1909,12 @@
    "aliases": [
     "Daehan Empire",
     "Empire of Korea",
-    "Great Korean Empire"
+    "Great Korean Empire",
+    "Korea",
+    "Unified Korea",
+    "Old Korea",
+    "Imperial Korea",
+    "Corea"
    ],
    "tier": 4
   },
@@ -1905,7 +1941,9 @@
    "answer": "Sultanate of Malacca",
    "aliases": [
     "Malacca Sultanate",
-    "Melaka Sultanate"
+    "Melaka Sultanate",
+    "Malacca",
+    "Melaka"
    ],
    "tier": 4
   },
@@ -2440,7 +2478,9 @@
    "answer": "Regency of Algiers",
    "aliases": [
     "Ottoman Algeria",
-    "Deylik of Algiers"
+    "Deylik of Algiers",
+    "Barbary States",
+    "Barbary Coast"
    ],
    "tier": 4
   },
@@ -2715,6 +2755,9 @@
   },
   {
    "answer": "Kingdom of Westphalia",
+   "aliases": [
+    "Westphalia"
+   ],
    "tier": 5
   },
   {
@@ -2767,7 +2810,8 @@
    "aliases": [
     "State of the Teutonic Order",
     "Teutonic Knights",
-    "Monastic State of the Teutonic Knights"
+    "Monastic State of the Teutonic Knights",
+    "Teutonic Order"
    ],
    "tier": 5
   },
@@ -2906,12 +2950,17 @@
    "answer": "Kanem-Bornu",
    "aliases": [
     "Kanem Empire",
-    "Bornu Empire"
+    "Bornu Empire",
+    "Bornu",
+    "Kanem"
    ],
    "tier": 5
   },
   {
    "answer": "Natalia Republic",
+   "aliases": [
+    "Natalia"
+   ],
    "tier": 5
   },
   {
@@ -2944,6 +2993,9 @@
   },
   {
    "answer": "Republic of Yucatán",
+   "aliases": [
+    "Yucatan"
+   ],
    "tier": 5
   },
   {
@@ -2953,7 +3005,8 @@
   {
    "answer": "Vermont Republic",
    "aliases": [
-    "Republic of Vermont"
+    "Republic of Vermont",
+    "Vermont"
    ],
    "tier": 5
   },
@@ -2978,7 +3031,8 @@
   {
    "answer": "Kingdom of Sarawak",
    "aliases": [
-    "Raj of Sarawak"
+    "Raj of Sarawak",
+    "Sarawak"
    ],
    "tier": 5
   },
@@ -2995,6 +3049,10 @@
   },
   {
    "answer": "Kingdom of Kandy",
+   "aliases": [
+    "Kandy",
+    "Kandyan Kingdom"
+   ],
    "tier": 5
   },
   {
@@ -3037,7 +3095,8 @@
   {
    "answer": "Republic of Ezo",
    "aliases": [
-    "Ezo Republic"
+    "Ezo Republic",
+    "Ezo"
    ],
    "tier": 5
   },
@@ -3168,7 +3227,8 @@
   {
    "answer": "Federation of Rhodesia and Nyasaland",
    "aliases": [
-    "Central African Federation"
+    "Central African Federation",
+    "Rhodesia and Nyasaland"
    ],
    "tier": 5
   },
@@ -3255,7 +3315,8 @@
   {
    "answer": "Khanate of Kazan",
    "aliases": [
-    "Kazan Khanate"
+    "Kazan Khanate",
+    "Kazan"
    ],
    "tier": 5
   },
@@ -3826,7 +3887,8 @@
   {
    "answer": "Empire of Nicaea",
    "aliases": [
-    "Nicaean Empire"
+    "Nicaean Empire",
+    "Nicaea"
    ],
    "tier": 5
   },
@@ -4107,7 +4169,8 @@
    "answer": "Transcaucasian Federation",
    "aliases": [
     "Transcaucasian Democratic Federative Republic",
-    "Transcaucasian SFSR"
+    "Transcaucasian SFSR",
+    "Transcaucasia"
    ],
    "tier": 5
   },
@@ -4244,7 +4307,12 @@
   {
    "answer": "Emirate of Nejd",
    "aliases": [
-    "Second Saudi State"
+    "Second Saudi State",
+    "Nejd",
+    "Najd",
+    "Sultanate of Nejd",
+    "Kingdom of Nejd",
+    "Kingdom of Hejaz and Nejd"
    ],
    "tier": 5
   },
@@ -4512,12 +4580,17 @@
   {
    "answer": "Kingdom of Luba",
    "aliases": [
-    "Luba Empire"
+    "Luba Empire",
+    "Luba Kingdom"
    ],
    "tier": 5
   },
   {
    "answer": "Lunda Empire",
+   "aliases": [
+    "Lunda",
+    "Kingdom of Lunda"
+   ],
    "tier": 5
   },
   {
@@ -4801,7 +4874,8 @@
    "answer": "East Turkestan Republic",
    "aliases": [
     "First East Turkestan Republic",
-    "Second East Turkestan Republic"
+    "Second East Turkestan Republic",
+    "East Turkestan"
    ],
    "tier": 5
   },
@@ -4894,7 +4968,8 @@
   {
    "answer": "Sultanate of Sulu",
    "aliases": [
-    "Sulu Sultanate"
+    "Sulu Sultanate",
+    "Sulu"
    ],
    "tier": 5
   },
@@ -5348,10 +5423,18 @@
   },
   {
    "answer": "Kingdom of Tahiti",
+   "aliases": [
+    "Tahiti"
+   ],
    "tier": 5
   },
   {
    "answer": "Gilbert and Ellice Islands",
+   "aliases": [
+    "Ellice Islands",
+    "Gilbert Islands",
+    "Gilbert and Ellice"
+   ],
    "tier": 5
   },
   {
@@ -5376,9 +5459,246 @@
   {
    "answer": "Tuʻi Tonga Empire",
    "aliases": [
-    "Tongan Empire"
+    "Tongan Empire",
+    "Tonga Empire"
    ],
    "tier": 5
+  },
+  {
+   "answer": "West Pakistan",
+   "tier": 5,
+   "lore": "The western wing of Pakistan until 1971, when the eastern wing became Bangladesh."
+  },
+  {
+   "answer": "Couto Misto",
+   "aliases": [
+    "Couto Mixto",
+    "Coto Mixto"
+   ],
+   "tier": 5,
+   "lore": "A sliver of land between Spain and Portugal that answered to neither until 1868."
+  },
+  {
+   "answer": "Dutch Brazil",
+   "aliases": [
+    "New Holland",
+    "Nieuw Holland"
+   ],
+   "tier": 5,
+   "lore": "For a quarter of a century the Dutch held the sugar coast of Brazil and called it New Holland."
+  },
+  {
+   "answer": "Hutt River",
+   "aliases": [
+    "Principality of Hutt River",
+    "Hutt River Province",
+    "Hutt River Principality"
+   ],
+   "tier": 5,
+   "lore": "A wheat farm in Western Australia that seceded in 1970 and gave up in 2020, owing tax."
+  },
+  {
+   "answer": "Colony of New South Wales",
+   "aliases": [
+    "New South Wales",
+    "NSW"
+   ],
+   "tier": 5,
+   "lore": "One of the six colonies that federated into Australia on 1 January 1901."
+  },
+  {
+   "answer": "Colony of Victoria",
+   "aliases": [
+    "Victoria"
+   ],
+   "tier": 5,
+   "lore": "One of the six colonies that federated into Australia on 1 January 1901."
+  },
+  {
+   "answer": "Colony of Queensland",
+   "aliases": [
+    "Queensland"
+   ],
+   "tier": 5,
+   "lore": "One of the six colonies that federated into Australia on 1 January 1901."
+  },
+  {
+   "answer": "Colony of South Australia",
+   "aliases": [
+    "South Australia",
+    "Province of South Australia"
+   ],
+   "tier": 5,
+   "lore": "One of the six colonies that federated into Australia on 1 January 1901."
+  },
+  {
+   "answer": "Colony of Western Australia",
+   "aliases": [
+    "Western Australia",
+    "Swan River Colony",
+    "Swan River"
+   ],
+   "tier": 5,
+   "lore": "One of the six colonies that federated into Australia on 1 January 1901."
+  },
+  {
+   "answer": "Van Diemen's Land",
+   "aliases": [
+    "Colony of Tasmania",
+    "Tasmania",
+    "Colony of Van Diemen's Land",
+    "Van Diemen"
+   ],
+   "tier": 5,
+   "lore": "A colony of its own from 1825, renamed Tasmania in 1856, and a state of Australia since 1901."
+  },
+  {
+   "answer": "Colony of New Zealand",
+   "aliases": [
+    "Dominion of New Zealand",
+    "New Zealand Colony"
+   ],
+   "tier": 5,
+   "lore": "A British colony from 1841 and a dominion from 1907. It was nearly a seventh state of Australia."
+  },
+  {
+   "answer": "Territory of Papua and New Guinea",
+   "aliases": [
+    "Papua and New Guinea",
+    "Territory of Papua",
+    "Territory of New Guinea",
+    "British New Guinea",
+    "Australian New Guinea"
+   ],
+   "tier": 5,
+   "lore": "Run from Canberra until 1975, when it became Papua New Guinea."
+  },
+  {
+   "answer": "United Tribes of New Zealand",
+   "aliases": [
+    "Confederation of United Tribes",
+    "United Tribes"
+   ],
+   "tier": 5,
+   "lore": "Declared by northern Maori chiefs in 1835 and recognised by Britain, five years before the Treaty of Waitangi."
+  },
+  {
+   "answer": "Kingdom of Rarotonga",
+   "aliases": [
+    "Rarotonga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Bora Bora",
+   "aliases": [
+    "Bora Bora"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Company rule in India",
+   "aliases": [
+    "Company Raj",
+    "East India Company",
+    "British East India Company",
+    "Honourable East India Company"
+   ],
+   "tier": 5,
+   "lore": "A company that ran a subcontinent, with its own army, until the Crown took over in 1858."
+  },
+  {
+   "answer": "Central African Empire",
+   "tier": 5,
+   "lore": "Bokassa crowned himself emperor in 1977. It lasted three years."
+  },
+  {
+   "answer": "Emirate of Cyrenaica",
+   "aliases": [
+    "Cyrenaica"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Duchy of Swabia",
+   "aliases": [
+    "Swabia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kingdom of Galicia",
+   "aliases": [
+    "Galicia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dutch Empire",
+   "aliases": [
+    "Dutch colonial empire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "State of Deseret",
+   "aliases": [
+    "Deseret"
+   ],
+   "tier": 5,
+   "lore": "The Mormon settlers' proposed state, 1849. Congress made a smaller Utah of it instead."
+  },
+  {
+   "answer": "Aceh Sultanate",
+   "aliases": [
+    "Sultanate of Aceh",
+    "Aceh",
+    "Acheh",
+    "Atjeh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Makhnovia",
+   "aliases": [
+    "Free Territory of Ukraine",
+    "Makhnovshchina"
+   ],
+   "tier": 5,
+   "lore": "An anarchist territory in Ukraine, 1918 to 1921, held by Nestor Makhno's army."
+  },
+  {
+   "answer": "Kingdom of Tavolara",
+   "aliases": [
+    "Tavolara"
+   ],
+   "tier": 5,
+   "lore": "A tiny island off Sardinia, whose one family called itself royal for a century."
+  },
+  {
+   "answer": "Lanfang Republic",
+   "aliases": [
+    "Lanfang"
+   ],
+   "tier": 5,
+   "lore": "A republic of Chinese gold miners in western Borneo, 1777 to 1884."
+  },
+  {
+   "answer": "Republic of Minerva",
+   "aliases": [
+    "Minerva"
+   ],
+   "tier": 5,
+   "lore": "Declared on a Pacific reef in 1972. Tonga's army arrived a few months later."
+  },
+  {
+   "answer": "Republic of Rose Island",
+   "aliases": [
+    "Rose Island",
+    "Isola delle Rose"
+   ],
+   "tier": 5,
+   "lore": "A platform in the Adriatic that declared independence in 1968. The Italian navy blew it up."
   },
   {
    "answer": "Neutral Moresnet",
@@ -5505,7 +5825,13 @@
     "Agrabah",
     "Arendelle",
     "Airstrip One",
-    "Oz"
+    "Oz",
+    "Eastasia",
+    "Zamunda",
+    "Wadiya",
+    "Borduria",
+    "Grand Fenwick",
+    "Duchy of Grand Fenwick"
    ],
    "reason": "Fictional."
   },
@@ -5554,7 +5880,11 @@
     "Camelot",
     "Shambhala",
     "Agartha",
-    "Kitezh"
+    "Kitezh",
+    "Ys",
+    "Thule",
+    "Kumari Kandam",
+    "Cibola"
    ],
    "reason": "A land of legend. If it ever existed, nobody has found it."
   },
@@ -5572,10 +5902,6 @@
   {
    "answer": "Palau",
    "reason": "Still here, in the Pacific."
-  },
-  {
-   "answer": "Korea",
-   "reason": "Two countries still carry the name."
   },
   {
    "answer": "Vikings",
@@ -5603,6 +5929,95 @@
     "Laurasia"
    ],
    "reason": "A supercontinent, millions of years before there were countries."
+  },
+  {
+   "answer": "Germany",
+   "aliases": [
+    "Spain",
+    "Italy",
+    "Portugal",
+    "Egypt",
+    "Greece",
+    "Turkey",
+    "Hungary",
+    "Montenegro",
+    "Vietnam",
+    "Ethiopia",
+    "Somalia",
+    "Tanzania",
+    "Zambia",
+    "Zimbabwe",
+    "Sri Lanka",
+    "Thailand",
+    "Myanmar",
+    "United Kingdom",
+    "UK",
+    "Britain",
+    "USA",
+    "United States",
+    "Australia",
+    "New Zealand",
+    "Ireland",
+    "Northern Ireland",
+    "Papua New Guinea",
+    "PNG",
+    "Fiji",
+    "Netherlands",
+    "Belgium",
+    "Sweden",
+    "Norway",
+    "Denmark",
+    "Brazil",
+    "Argentina",
+    "Indonesia",
+    "Pakistan",
+    "Bangladesh",
+    "Ukraine",
+    "Croatia",
+    "Slovakia",
+    "Bosnia",
+    "Cambodia",
+    "Malaysia",
+    "Singapore",
+    "North Korea",
+    "South Korea",
+    "Afghanistan",
+    "Switzerland",
+    "South Africa",
+    "Nigeria",
+    "Saudi Arabia"
+   ],
+   "reason": "Still on the map. An older kingdom, an empire or a split half of it may not be."
+  },
+  {
+   "answer": "Molossia",
+   "aliases": [
+    "Republic of Molossia",
+    "Conch Republic",
+    "Liberland",
+    "Atlantium",
+    "Empire of Atlantium",
+    "Kingdom of Redonda",
+    "Redonda",
+    "Seborga",
+    "Principality of Seborga",
+    "Christiania",
+    "Freetown Christiania"
+   ],
+   "reason": "A micronation, and still going, more or less. The deep wants the ones that are gone."
+  },
+  {
+   "answer": "Doggerland",
+   "aliases": [
+    "Zealandia",
+    "Sundaland",
+    "Sahul"
+   ],
+   "reason": "Land the sea took back, long before anyone drew a border on it."
+  },
+  {
+   "answer": "Heptarchy",
+   "reason": "Seven kingdoms at once. Name one of them."
   }
  ],
  "decoys": [

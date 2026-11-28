@@ -15,7 +15,11 @@
     "Upper leg bone",
     "Femoral bone",
     "Os femoris",
-    "Femurs"
+    "Femurs",
+    "Fema",
+    "Femmer",
+    "Feemer",
+    "Thigh"
    ],
    "tier": 1,
    "lore": "The longest and strongest bone in the body."
@@ -55,7 +59,10 @@
     "Tibia bone",
     "Lower leg bone",
     "Tibiae",
-    "Shin bones"
+    "Shin bones",
+    "Shin",
+    "Shins",
+    "Tibier"
    ],
    "tier": 1
   },
@@ -69,7 +76,8 @@
     "Upper arm bone",
     "Humourous",
     "Humerous",
-    "Humerous bone"
+    "Humerous bone",
+    "Hewmerus"
    ],
    "tier": 1
   },
@@ -90,7 +98,8 @@
     "Fibula bone",
     "Calf bone",
     "Fibulae",
-    "Calf bones"
+    "Calf bones",
+    "Fibuler"
    ],
    "tier": 2
   },
@@ -111,7 +120,8 @@
     "Ulna bone",
     "Ulnae",
     "Elbow bone",
-    "Ulnar bone"
+    "Ulnar bone",
+    "Ulner"
    ],
    "tier": 2
   },
@@ -139,7 +149,8 @@
     "Os innominatum",
     "Ossa coxae",
     "Pelvic bones",
-    "Hip bones"
+    "Hip bones",
+    "Innominate"
    ],
    "tier": 2
   },
@@ -174,7 +185,14 @@
     "Dorsal vertebrae",
     "Back bones",
     "Spine bone",
-    "Lumbar"
+    "Lumbar",
+    "Spin",
+    "L5",
+    "L4",
+    "L1",
+    "T1",
+    "T12",
+    "C7"
    ],
    "tier": 2
   },
@@ -212,7 +230,9 @@
     "Coccygeal vertebrae",
     "Coxyx",
     "Coxix",
-    "Coccyks"
+    "Coccyks",
+    "Cocksix",
+    "Koksix"
    ],
    "tier": 2,
    "lore": "Named from the Greek for 'cuckoo', because it looks like a cuckoo's beak."
@@ -235,7 +255,8 @@
     "Stirrup",
     "Stapes bone",
     "Stirrup bone",
-    "Stirrups"
+    "Stirrups",
+    "Stapeez"
    ],
    "tier": 2,
    "openSecret": true,
@@ -269,7 +290,9 @@
     "Proximal phalanx",
     "Middle phalanx",
     "Distal phalanx",
-    "Thumb bone"
+    "Thumb bone",
+    "Flanges",
+    "Fallanges"
    ],
    "tier": 2
   },
@@ -340,7 +363,8 @@
     "Calcaneum",
     "Calcaneus bone",
     "Os calcis",
-    "Calcanei"
+    "Calcanei",
+    "Heel"
    ],
    "tier": 3
   },
@@ -353,7 +377,8 @@
     "Wrist bones",
     "Carpal bone",
     "Carpal bones",
-    "Ossa carpi"
+    "Ossa carpi",
+    "Carple"
    ],
    "tier": 3
   },
@@ -373,7 +398,8 @@
    "aliases": [
     "Hammer",
     "Malleus bone",
-    "Hammer bone"
+    "Hammer bone",
+    "Malleous"
    ],
    "tier": 3
   },
@@ -442,7 +468,8 @@
    "aliases": [
     "Scaphoid bone",
     "Os scaphoideum",
-    "Navicular of the hand"
+    "Navicular of the hand",
+    "Scafoid"
    ],
    "tier": 4
   },
@@ -565,7 +592,8 @@
    "aliases": [
     "Sphenoid bone",
     "Os sphenoidale",
-    "Sphenoidal bone"
+    "Sphenoidal bone",
+    "Sfenoid"
    ],
    "tier": 5
   },
@@ -717,7 +745,8 @@
    "aliases": [
     "Xiphoid",
     "Xiphisternum",
-    "Xiphoid process bone"
+    "Xiphoid process bone",
+    "Zyphoid"
    ],
    "tier": 5
   },
@@ -837,7 +866,12 @@
   {
    "answer": "Tooth",
    "aliases": [
-    "Teeth"
+    "Teeth",
+    "Molar",
+    "Wisdom tooth",
+    "Canine",
+    "Incisor",
+    "Enamel"
    ],
    "reason": "Teeth are not bones, though they are harder."
   },
@@ -849,7 +883,8 @@
     "Disc",
     "Spinal disc",
     "Intervertebral disc",
-    "Slipped disc"
+    "Slipped disc",
+    "Adam's apple"
    ],
    "reason": "Cartilage, not bone."
   },
@@ -894,7 +929,12 @@
   {
    "answer": "Tendon",
    "aliases": [
-    "Ligament"
+    "Ligament",
+    "Achilles tendon",
+    "Achilles",
+    "Hamstring",
+    "ACL",
+    "Rotator cuff"
    ],
    "reason": "Connective tissue, not bone."
   },
@@ -924,7 +964,8 @@
    "answer": "Eye socket",
    "aliases": [
     "Orbit",
-    "Eye sockets"
+    "Eye sockets",
+    "Orbital bone"
    ],
    "reason": "A socket built from seven bones, not a bone itself."
   },
@@ -943,7 +984,9 @@
     "Toe",
     "Toes",
     "Thumb",
-    "Big toe"
+    "Big toe",
+    "Pinky",
+    "Pinkie"
    ],
    "reason": "Fingers and toes are built from small bones called phalanges."
   },
@@ -992,6 +1035,40 @@
     "Trochanter"
    ],
    "reason": "Part of the femur, not a separate bone."
+  },
+  {
+   "answer": "Leg",
+   "aliases": [
+    "Arm",
+    "Hand",
+    "Foot",
+    "Back",
+    "Chest",
+    "Neck",
+    "Head",
+    "Forearm"
+   ],
+   "reason": "A part of the body with several bones in it. Name one of them."
+  },
+  {
+   "answer": "Heart",
+   "aliases": [
+    "Brain",
+    "Spleen",
+    "Appendix",
+    "Liver",
+    "Kidney",
+    "Lungs",
+    "Muscle",
+    "Biceps",
+    "Trachea",
+    "Larynx"
+   ],
+   "reason": "An organ, not a bone."
+  },
+  {
+   "answer": "Baculum",
+   "reason": "Most mammals have one. Humans do not."
   }
  ],
  "section": "Skeleton",

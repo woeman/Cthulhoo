@@ -12,36 +12,36 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (6)
 
-- Alpha — Alfa
-- Beta — Vita
+- Alpha — Alfa | Alpher | Alfer
+- Beta — Vita | Beater | Bayta | Beeta
 - Gamma — Gama | Ghamma | Ghama
-- Delta — Dhelta
-- Omega
-- Pi
+- Delta — Dhelta | Delter
+- Omega — Omeger
+- Pi — Pie | Pye | Py
 
 ### Tier 2: common (12)
 
-- Sigma — Final Sigma | Lunate sigma
-- Theta — Thita
-- Lambda — Labda | Lamda | Lamvda
+- Sigma — Final Sigma | Lunate sigma | Sigmer
+- Theta — Thita | Thayta | Theter | Theeta
+- Lambda — Labda | Lamda | Lamvda | Lamder | Lambder
 - Epsilon
-- Zeta — Zita
-- Kappa — Kapa | Cappa
-- Phi — Fi | Phee
-- Psi — Psy | Psee
-- Mu — My | Mi | Mew
-- Chi — Khi | Hi | Kai | Khee
-- Tau — Taf
-- Rho — Ro
+- Zeta — Zita | Zeter | Zayta | Zeeta
+- Kappa — Kapa | Cappa | Capa
+- Phi — Fi | Phee | Fie | Fy | Phy | Fee
+- Psi — Psy | Psee | Sai | Sy | Psai | Sigh
+- Mu — My | Mi | Mew | Myu | Moo | Mue | Miu
+- Chi — Khi | Hi | Kai | Khee | Ky | Kye | Chy
+- Tau — Taf | Taw | Tow | Tor | Tao
+- Rho — Ro | Roe | Row | Roh
 
 ### Tier 3: known to fans (6)
 
-- Iota — Yota | Giota | Yiota | Jota
-- Eta — Ita
-- Nu — Ny | Ni
-- Xi — Ksi | Xei | Ksee
+- Iota — Yota | Giota | Yiota | Jota | Eyeota | Ayota
+- Eta — Ita | Ayta | Eeta
+- Nu — Ny | Ni | New | Nyu | Noo | Niu
+- Xi — Ksi | Xei | Ksee | Zi | Zai | Zy | Ksai | Xee
 - Omicron — Omikron
-- Upsilon — Ypsilon | Ipsilon
+- Upsilon — Ypsilon | Ipsilon | Oopsilon
 
 ### Tier 4: obscure (1)
 
@@ -59,7 +59,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sampi — Disigma | Sanpi
 - Heta
 
-## Refused on purpose (5)
+## Refused on purpose (6)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -68,3 +68,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Omega-3 — "A fatty acid. The letter would have counted."
 - Ampersand — "A symbol, and not a Greek one."
 - Thorn | Eszett | Yogh | Eth | Wynn — "A letter, but Old English or German, not Greek."
+- Alpha and Omega | Alpha Omega | Alpha to Omega — "That is two letters. One at a time."

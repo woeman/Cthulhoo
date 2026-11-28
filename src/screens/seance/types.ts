@@ -1,7 +1,7 @@
 // What the Séance's screens need from the app, and what a test bench may swap in.
 
 import type { Topic } from '../../game/topics';
-import type { BankDay, PromptDef, ThemeCopy } from '../../game/types';
+import type { BankDay, PromptDef, PromptMeta, ThemeCopy } from '../../game/types';
 import type { Hello, LinkHandlers, LinkStatus, SeancePeek } from '../../party/online';
 import type { CultBoard } from '../../party/cult';
 import type { ClientMsg, SeanceView } from '../../party/types';
@@ -18,9 +18,12 @@ export interface SeanceSound {
 }
 
 export interface SeanceEnv {
-  /** The question bank. */
-  prompts: PromptDef[];
+  /** The daily bank's questions, without their answers. */
+  prompts: PromptMeta[];
+  /** The questions that are here whole: the daily ones fetched so far, and class packs once loaded. */
   byId: Map<string, PromptDef>;
+  /** Questions whole, fetched when they are not here yet; those that cannot be had are left out. Never rejects. */
+  whole(ids: string[]): Promise<PromptDef[]>;
   days: BankDay[];
   /** Today's daily prompt ids: a séance never asks them. */
   avoid: string[];
@@ -48,12 +51,14 @@ export interface SeanceEnv {
 export interface SeanceTopics {
   daily(): Topic[];
   all(): Promise<Topic[]>;
-  /** The questions a choice draws from. Rejects when a ticked class pack cannot be fetched. */
-  pool(choice: string[]): Promise<PromptDef[]>;
+  /** The questions a choice draws from, to choose among (the daily bank's come without their answers). Rejects when a ticked class pack cannot be fetched. */
+  pool(choice: string[]): Promise<PromptMeta[]>;
+  /** A class pack's questions, whole. Rejects when the pack cannot be fetched. */
+  pack(id: string): Promise<PromptDef[]>;
   topicOf(p: Pick<PromptDef, 'id' | 'category'>): string;
   /** The question an id stands for: a class pack's copy of a daily question is that question. */
   sameAs(id: string): string;
-  /** Fetches whichever class packs hold these question ids, for a séance picked up after a reload. */
+  /** Fetches these questions whole again (the daily bank's, or whichever class packs hold them), for a séance picked up after a reload. */
   ensure(promptIds: string[]): Promise<void>;
   /** The choice last made on this device. */
   load(): string[];

@@ -21,7 +21,7 @@ import { CandleScene, TableCandleScene, type CandleData } from './seance/candle'
 import { CallingScene, EntryScene, NO_RELAY_LINK, type EntryInit } from './seance/entry';
 import { HandoffScene, LanternSealedScene, LanternSetupScene } from './seance/lantern';
 import { LobbyScene, TableLobbyScene } from './seance/lobby';
-import { BEGIN_BUDGET, choosePrompts, deepest, lanternResume, listNames, relayId, seatsOf, tierDepths } from './seance/model';
+import { BEGIN_BUDGET, LANTERN_WAITS, NO_QUESTIONS, choosePrompts, deepest, lanternResume, listNames, relayId, seatsOf, tierDepths } from './seance/model';
 import { dropStore, loadName, readJson, writeStore } from './seance/parts';
 import { EndScene, RevealScene, TableEndScene, TableRevealScene, type Role } from './seance/reveal';
 import type { Ctx, Scene } from './seance/scene';
@@ -219,12 +219,24 @@ class SeanceScreen {
       this.pass = saved;
       this.mode = 'lantern';
       this.setBar('lantern');
-      // Questions from a class pack are not in the bank until their pack is fetched again.
+      // After a reload the questions' answers are not here until they are fetched again (a class pack's with its pack).
       const lost = saved.promptIds.filter((id) => !this.env.byId.has(id));
-      if (lost.length && this.env.topics) return void this.env.topics.ensure(lost).then(() => this.renderLantern());
+      if (lost.length) return void this.recall(saved, lost);
       return this.renderLantern();
     }
     this.entry({ panel: opts.table && this.relay ? 'table' : 'ways' });
+  }
+
+  /** Fetches the questions of a lantern séance found in progress after a reload, then goes on with it. */
+  private async recall(saved: PassState, lost: string[]) {
+    await Promise.all([this.env.whole(lost), this.env.topics?.ensure(lost)]);
+    if (this.dead || this.pass !== saved) return;
+    if (lost.some((id) => !this.env.byId.has(id))) {
+      // They would not come: the séance is kept as it was for another try, never begun again behind the circle's back.
+      this.pass = null;
+      return this.entry({ message: LANTERN_WAITS });
+    }
+    this.renderLantern();
   }
 
   private entry(init: EntryInit = {}) {
@@ -603,7 +615,7 @@ class SeanceScreen {
     // The packs may have taken a moment: the séance may have moved on without this device.
     if (this.dead || this.scene !== lobby || this.view?.phase !== 'lobby') return;
     if (!prompts.length) {
-      lobby?.fail('The deep has nothing to ask: the question bank is empty.');
+      lobby?.fail(NO_QUESTIONS);
       return;
     }
     const sent = this.link?.send({ t: 'begin', prompts, depths: tierDepths(this.env.theme) }) ?? false;
@@ -781,6 +793,11 @@ class SeanceScreen {
       return;
     }
     if (this.dead || this.pass !== s || s.phase !== 'setup') return;
+    if (!prompts.length) {
+      setup?.fail(NO_QUESTIONS);
+      this.env.shout(NO_QUESTIONS);
+      return;
+    }
     const why = startPass(
       s,
       prompts.map((p) => p.id),

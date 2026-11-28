@@ -59,7 +59,7 @@ Ten categories, which are also the topics for the Logbook's Sigils:
 | `sport`     | Sport        | The Drowned Games           | 21      |
 | `misc`      | Miscellany   | Flotsam and Jetsam          | 21      |
 
-That is 210 prompts with about 62,000 accepted answers, not counting the
+That is 210 prompts with about 62,700 accepted answers, not counting the
 tens of thousands of extra spellings. Run `node scripts/validate-content.mjs --stats`
 for the exact numbers.
 
@@ -111,7 +111,7 @@ file is picked up without any code change.
 
 | Field      | Required | What it does |
 | ---------- | -------- | ------------ |
-| `id`       | yes | A unique name in lower case with dashes, like `dog-breeds`. Never change it once players have seen it: their history refers to it. |
+| `id`       | yes | A unique name in lower case with dashes, like `dog-breeds`, 60 characters at most: the game publishes each question as a file named after it. Never change it once players have seen it: their history refers to it. |
 | `text`     | yes | The question. Starts with "Name" or "Give" and ends with a full stop or question mark. |
 | `category` | yes | One of the ten keys above. Must match the file it's in. |
 | `flavor`   | no  | One eerie line shown with the question. 110 characters at most. |

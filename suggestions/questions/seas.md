@@ -6,38 +6,38 @@ Rules: Anything named a sea counts, even the ones that are really lakes. Oceans,
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (155 answers)
+## Accepted now (158 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (6)
 
 - Mediterranean Sea — Mare Nostrum | Mediterranean | Med | Mare Internum | Great Sea | Middle Sea | Mediterranian Sea | Mediterranian | Mediteranean | Mittelmeer | Mar Mediterraneo
-- Red Sea — Erythraean Sea | Erythrean Sea | Mare Rubrum | Mare Erythraeum | Sea of Reeds | Yam Suph
-- Black Sea — Euxine | Euxine Sea | Pontus Euxinus | Pontic Sea | Karadeniz | Euxine Pontus
-- Dead Sea — Salt Sea | Sea of Lot | Lake Asphaltites | Sea of the Arabah | Yam ha-Melah | Bahr Lut
+- Red Sea — Erythraean Sea | Erythrean Sea | Mare Rubrum | Mare Erythraeum | Sea of Reeds | Yam Suph | Red
+- Black Sea — Euxine | Euxine Sea | Pontus Euxinus | Pontic Sea | Karadeniz | Euxine Pontus | Black
+- Dead Sea — Salt Sea | Sea of Lot | Lake Asphaltites | Sea of the Arabah | Yam ha-Melah | Bahr Lut | Dead
 - Caribbean Sea — Caribbean | Sea of the Antilles | Antilles Sea | Antillean Sea | Mar Caribe | Carribean Sea | Carribean | Caribean Sea
-- North Sea — German Ocean | German Sea | Mare Germanicum | Nordsee | Noordzee | Vesterhavet
+- North Sea — German Ocean | German Sea | Mare Germanicum | Nordsee | Noordzee | Vesterhavet | North
 
 ### Tier 2: common (11)
 
 - Baltic Sea — Baltic | Ostsee | Mare Balticum | Mare Suebicum | Varangian Sea | Itameri | Ostersjon
 - Caspian Sea — Hyrcanian Sea | Caspian | Khazar Sea | Sea of Khazar | Mazandaran Sea | Mare Caspium | Mare Hyrcanium
-- Irish Sea — Sea of Ireland | Mare Hibernicum
+- Irish Sea — Sea of Ireland | Mare Hibernicum | Irish
 - Arabian Sea — Arabian | Sea of Arabia
-- South China Sea — West Philippine Sea | Bien Dong | Nan Hai | South China
+- South China Sea — West Philippine Sea | Bien Dong | Nan Hai | South China | China Sea
 - Aegean Sea — Aegean | Mare Aegaeum | Aegaean Sea | Egean Sea | Ege Denizi
 - Adriatic Sea — Adriatic | Mare Adriaticum | Mare Hadriaticum | Jadran
 - Sargasso Sea — Sargasso
-- Sea of Japan — East Sea | Japan Sea | Nihonkai | Donghae | Japanese Sea
-- Coral Sea
+- Sea of Japan — East Sea | Japan Sea | Nihonkai | Donghae | Japanese Sea | East Sea of Korea | Korean Sea
+- Coral Sea — Coral
 - Bering Sea — Bering | Sea of Kamchatka | Kamchatka Sea
 
 ### Tier 3: known to fans (26)
 
-- Tasman Sea — Tasman | The Ditch
+- Tasman Sea — Tasman | The Ditch | Tasmanian Sea
 - Ionian Sea — Ionian | Mare Ionium
-- Tyrrhenian Sea — Tyrrhenian | Mare Tyrrhenum | Mar Tirreno | Tyrrhenean Sea
+- Tyrrhenian Sea — Tyrrhenian | Mare Tyrrhenum | Mar Tirreno | Tyrrhenean Sea | Tyrennian
 - Yellow Sea — Yellow | Huang Hai | West Sea | Seohae
 - East China Sea — Dong Hai | East China
 - Philippine Sea — Philippine | Sea of the Philippines
@@ -47,20 +47,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Labrador Sea — Labrador | Sea of Labrador
 - Sea of Okhotsk — Okhotsk Sea | Okhotsk | Sea of Lamut | Lamut Sea
 - Weddell Sea — Weddell | King George IV Sea
-- Ross Sea
+- Ross Sea — Ross
 - Aral Sea — Aral
 - Sea of Galilee — Lake of Galilee | Kinneret | Lake Tiberias | Galilee Sea | Sea of Tiberias | Sea of Gennesaret | Lake Kinneret | Lake of Gennesaret | Lake Galilee | Sea of Chinnereth | Sea of Kinneret | Yam Kinneret | Galilee
 - Sea of Marmara — Marmara Sea | Marmara | Propontis | Sea of Marmora | Marmora | Marmara Denizi
 - Andaman Sea — Andaman | Burma Sea
-- Java Sea
+- Java Sea — Java
 - Greenland Sea — Greenland
 - Beaufort Sea — Beaufort
 - Ligurian Sea — Ligurian | Mare Ligusticum | Mar Ligure
 - Wadden Sea — Wadden | Waddenzee | Wattenmeer | Vadehavet
 - Salton Sea — Salton
 - Sea of Azov — Azov Sea | Azov | Maeotis | Lake Maeotis | Palus Maeotis | Maeotian Sea | Sea of Azof | Azof
-- White Sea — Beloye More
-- Sea of Cortez — Sea of Cortés | Gulf of California | Cortez Sea | Vermilion Sea | Mar Bermejo | Mar de Cortes
+- White Sea — Beloye More | White
+- Sea of Cortez — Sea of Cortés | Gulf of California | Cortez Sea | Vermilion Sea | Mar Bermejo | Mar de Cortes | Cortez
 
 ### Tier 4: obscure (38)
 
@@ -71,11 +71,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Balearic Sea — Balearic | Iberian Sea | Sea of the Balearics
 - Alboran Sea — Alboran | Sea of Alboran
 - Levantine Sea — Levantine | Levant Sea | Sea of the Levant
-- Banda Sea
+- Banda Sea — Banda
 - Arafura Sea — Arafura
-- Timor Sea
+- Timor Sea — Timor
 - Celebes Sea — Celebes | Sulawesi Sea
-- Sulu Sea — Mindoro Sea
+- Sulu Sea — Mindoro Sea | Sulu
 - Bismarck Sea — Bismarck
 - Solomon Sea — Solomon
 - Scotia Sea — Scotia
@@ -98,12 +98,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sea of Serenity — Mare Serenitatis | Serenity Sea
 - Sea of Rains — Mare Imbrium | Sea of Showers | Rains Sea
 - Sea of Clouds — Mare Nubium | Clouds Sea
-- Sea of Tranquility — Mare Tranquillitatis | Sea of Tranquillity | Tranquility Sea
+- Sea of Tranquility — Mare Tranquillitatis | Sea of Tranquillity | Tranquility Sea | Tranquility | Tranquillity
 - Iceland Sea — Icelandic Sea
 - Zuiderzee — Zuyder Zee
 - Tethys Sea — Tethys | Tethys Ocean | Paleo-Tethys | Neo-Tethys
 
-### Tier 5: expert (72)
+### Tier 5: expert (75)
 
 - Savu Sea — Sawu Sea
 - Halmahera Sea — Halmahera
@@ -177,33 +177,40 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mare Acidalium — Acidalian Sea
 - Mare Sirenum — Sea of the Sirens | Sirens Sea
 - Mare Cimmerium
+- Eromanga Sea
+- Sundance Sea
+- Zechstein Sea
 
 ### Tier 6: rare jackpots (2)
 
 - Sea of Crises — Mare Crisium | Crises Sea
 - Kraken Mare — Kraken Sea
 
-## Refused on purpose (36)
+## Refused on purpose (40)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Atlantic Ocean | Atlantic | Atlantic Sea — "That is an ocean. The deep is offended by the confusion."
-- Pacific Ocean | Pacific | Pacific Sea — "That is an ocean. The deep is offended by the confusion."
+- Atlantic Ocean | Atlantic | Atlantic Sea | North Atlantic — "That is an ocean. The deep is offended by the confusion."
+- Pacific Ocean | Pacific | Pacific Sea | South Pacific — "That is an ocean. The deep is offended by the confusion."
 - Indian Ocean — "That is an ocean, not a sea."
-- Arctic Ocean | Arctic Sea — "That is an ocean, the smallest one, but still not a sea."
+- Arctic Ocean | Arctic Sea | Arctic — "That is an ocean, the smallest one, but still not a sea."
 - Southern Ocean | Antarctic Ocean | Great Southern Ocean | Antarctic Sea — "That is an ocean, not a sea."
 - Bay of Bengal — "A bay, though it is larger than most seas."
 - Bay of Biscay — "A bay, not a sea."
-- Gulf of Mexico | Gulf of America — "A gulf, not a sea."
+- Gulf of Mexico | Gulf of America | Gulf of Carpentaria | Spencer Gulf | Hauraki Gulf | Gulf of Oman | Gulf of St Lawrence | Gulf St Vincent — "A gulf, not a sea."
 - Persian Gulf | Arabian Gulf — "A gulf, not a sea."
-- Hudson Bay — "A bay, not a sea."
+- Hudson Bay | Port Phillip Bay | Botany Bay | Shark Bay | Moreton Bay | Port Phillip — "A bay, not a sea."
 - English Channel | La Manche — "A channel, not a sea."
 - Ocean of Storms | Oceanus Procellarum — "On the Moon, but it is an ocean, not a sea."
 - Seven Seas — "That is all of them at once. Pick one."
-- Sea of Thieves — "A video game, not a sea."
+- Sea of Thieves | Sea of Stars — "A video game, not a sea."
 - South Sea | South Seas — "An old name for the Pacific, which is an ocean."
 - Sea of Monsters — "Percy Jackson's sea. It is on no chart."
 - Sea | Seas | Ocean | Oceans | High seas | Open sea — "Name one. The deep knows dozens."
 - Baffin Bay — "A bay, not a sea."
 - Gulf of Bothnia — "A gulf, though its southern half is a sea in its own right."
+- Bass Strait | Torres Strait | Cook Strait | Foveaux Strait | Strait of Malacca | Dardanelles — "A strait, not a sea."
+- Great Australian Bight | The Bight | Australian Bight — "A bight: a great open bay, not a sea."
+- Sydney Harbour | Port Jackson | The Harbour — "A harbour, and a fine one. Not a sea."
+- Sea World — "A theme park on the Gold Coast, among other places. Not a sea."
 - Refused without a reason (near misses of real answers): Lake Superior | Lake Victoria | Lake Baikal | Lake Titicaca | Great Salt Lake | Gulf of Aden | Gulf of Thailand | Gulf of Finland | Bay of Fundy | Strait of Gibraltar | Bosphorus | Red River | Black River | Coral Reef | Great Barrier Reef | Sea of Sand | Sea of Grass

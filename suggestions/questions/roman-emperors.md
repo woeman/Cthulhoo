@@ -13,14 +13,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (9)
 
 - Augustus — Octavian | Octavius | Caesar Augustus | Augustus Caesar | Gaius Octavius | Emperor Augustus | Emperor Octavian | Emperor Octavius | Emperor Caesar Augustus | Emperor Augustus Caesar | Emperor Gaius Octavius | Octavianus | Imperator Caesar Augustus | Augustus Octavian | Caesar Octavian | Octavian Augustus | Emperor Octavianus | Emperor Imperator Caesar Augustus | Emperor Augustus Octavian | Emperor Caesar Octavian | Emperor Octavian Augustus
-- Nero — Emperor Nero | Nero Claudius Caesar | Nero Caesar | Lucius Domitius Ahenobarbus | Emperor Nero Claudius Caesar | Emperor Nero Caesar | Emperor Lucius Domitius Ahenobarbus | Nero Claudius Caesar Augustus Germanicus
-- Caligula — Gaius | Little Boots | Emperor Caligula | Gaius Caesar | Gaius Caesar Germanicus | Emperor Gaius | Emperor Little Boots | Emperor Gaius Caesar | Emperor Gaius Caesar Germanicus | Gaius Caesar Augustus Germanicus | Gaius Julius Caesar Germanicus
-- Marcus Aurelius — Aurelius | Marcus | Emperor Marcus Aurelius | Emperor Marcus | Marcus Aurelius Antoninus | Emperor Aurelius | Emperor Marcus Aurelius Antoninus
+- Nero — Emperor Nero | Nero Claudius Caesar | Nero Caesar | Lucius Domitius Ahenobarbus | Emperor Nero Claudius Caesar | Emperor Nero Caesar | Emperor Lucius Domitius Ahenobarbus | Nero Claudius Caesar Augustus Germanicus | Nero Claudius | Caesar Nero
+- Caligula — Gaius | Little Boots | Emperor Caligula | Gaius Caesar | Gaius Caesar Germanicus | Emperor Gaius | Emperor Little Boots | Emperor Gaius Caesar | Emperor Gaius Caesar Germanicus | Gaius Caesar Augustus Germanicus | Gaius Julius Caesar Germanicus | Caligula Caesar | Gaius Caligula
+- Marcus Aurelius — Aurelius | Marcus | Emperor Marcus Aurelius | Emperor Marcus | Marcus Aurelius Antoninus | Emperor Aurelius | Emperor Marcus Aurelius Antoninus | Philosopher king | Philosopher emperor | The Philosopher
 - Hadrian — Emperor Hadrian | Hadrianus | Publius Aelius Hadrianus | Adrian | Emperor Hadrianus | Emperor Publius Aelius Hadrianus | Emperor Adrian
 - Constantine the Great — Constantine | Constantine I | Constantine 1 | Emperor Constantine the Great | Emperor Constantine | Emperor Constantine I | Constantinus | Saint Constantine | Constantine I the Great | Emperor Constantine 1 | Emperor Constantinus | Emperor Saint Constantine | Emperor Constantine I the Great
 - Claudius — Emperor Claudius | Tiberius Claudius Caesar | Claudius Caesar | Claudius I | Emperor Tiberius Claudius Caesar | Emperor Claudius Caesar | Emperor Claudius I | Tiberius Claudius Caesar Augustus Germanicus | Tiberius Claudius Caesar Augustus | Tiberius Claudius Drusus Nero Germanicus
-- Tiberius — Emperor Tiberius | Tiberius Caesar | Tiberius Caesar Augustus | Tiberius Claudius Nero | Tiberius I | Emperor Tiberius Caesar | Emperor Tiberius Caesar Augustus | Emperor Tiberius Claudius Nero | Emperor Tiberius I
-- Commodus — Emperor Commodus | Lucius Aurelius Commodus | Emperor Lucius Aurelius Commodus
+- Tiberius — Emperor Tiberius | Tiberius Caesar | Tiberius Caesar Augustus | Tiberius Claudius Nero | Tiberius I | Emperor Tiberius Caesar | Emperor Tiberius Caesar Augustus | Emperor Tiberius Claudius Nero | Emperor Tiberius I | Tiberius Claudius | Tiberius Nero
+- Commodus — Emperor Commodus | Lucius Aurelius Commodus | Emperor Lucius Aurelius Commodus | Commodus Aurelius
 
 ### Tier 2: common (14)
 
@@ -29,29 +29,29 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Titus — Emperor Titus
 - Domitian — Domitianus | Titus Flavius Domitianus | Emperor Domitian | Emperor Domitianus | Emperor Titus Flavius Domitianus
 - Diocletian — Emperor Diocletian | Diocletianus | Diocles | Emperor Diocletianus | Emperor Diocles | Gaius Aurelius Valerius Diocletianus | Gaius Valerius Diocletianus
-- Caracalla — Emperor Caracalla
-- Septimius Severus — Severus | Emperor Septimius Severus | Lucius Septimius Severus | Emperor Severus | Emperor Lucius Septimius Severus
+- Caracalla — Emperor Caracalla | Bassianus
+- Septimius Severus — Severus | Emperor Septimius Severus | Lucius Septimius Severus | Emperor Severus | Emperor Lucius Septimius Severus | Septimius
 - Justinian I — Justinian | Justinian the Great | Justinian 1 | Justinian the First | Emperor Justinian I | Emperor Justinian | Emperor Justinian the Great | Emperor Justinian 1 | Emperor Justinian the First
 - Romulus Augustulus — Romulus Augustus | Augustulus | Emperor Romulus Augustulus | Emperor Romulus Augustus | Romulus | Emperor Augustulus | Emperor Romulus
 - Theodosius I — Theodosius | Theodosius the Great | Theodosius 1 | Theodosius the First | Emperor Theodosius I | Emperor Theodosius | Emperor Theodosius the Great | Emperor Theodosius 1 | Emperor Theodosius the First
 - Elagabalus — Heliogabalus | Emperor Elagabalus | Emperor Heliogabalus
 - Nerva — Emperor Nerva | Marcus Cocceius Nerva | Emperor Marcus Cocceius Nerva
-- Antoninus Pius — Antoninus | Emperor Antoninus Pius | Antonine | Emperor Antoninus | Emperor Antonine
-- Julian — Julian the Apostate | Emperor Julian | Emperor Julian the Apostate | Julianus | Flavius Claudius Julianus | Julian II | Julian the Philosopher | Emperor Julianus | Emperor Flavius Claudius Julianus | Emperor Julian II | Emperor Julian the Philosopher
+- Antoninus Pius — Antoninus | Emperor Antoninus Pius | Antonine | Emperor Antoninus | Emperor Antonine | Pius
+- Julian — Julian the Apostate | Emperor Julian | Emperor Julian the Apostate | Julianus | Flavius Claudius Julianus | Julian II | Julian the Philosopher | Emperor Julianus | Emperor Flavius Claudius Julianus | Emperor Julian II | Emperor Julian the Philosopher | The Apostate
 
 ### Tier 3: known to fans (38)
 
 - Galba — Emperor Galba | Servius Sulpicius Galba | Emperor Servius Sulpicius Galba
 - Otho — Emperor Otho | Marcus Salvius Otho | Emperor Marcus Salvius Otho
 - Vitellius — Emperor Vitellius | Aulus Vitellius | Emperor Aulus Vitellius
-- Lucius Verus — Verus | Emperor Lucius Verus | Emperor Verus
+- Lucius Verus — Verus | Emperor Lucius Verus | Emperor Verus | Lucius
 - Pertinax — Emperor Pertinax | Publius Helvius Pertinax | Emperor Publius Helvius Pertinax
 - Didius Julianus — Didius Julian | Emperor Didius Julianus | Emperor Didius Julian
 - Geta — Emperor Geta
 - Macrinus — Emperor Macrinus
-- Severus Alexander — Alexander Severus | Emperor Severus Alexander | Emperor Alexander Severus
-- Maximinus Thrax — Maximinus | Maximinus I | Emperor Maximinus Thrax | Emperor Maximinus | Emperor Maximinus I | Maximinus the Thracian | Emperor Maximinus the Thracian
-- Philip the Arab — Philip I | Philippus Arabs | Philip | Emperor Philip the Arab | Emperor Philip I | Emperor Philippus Arabs | Emperor Philip | Philip the Arabian | Marcus Julius Philippus | Emperor Philip the Arabian | Emperor Marcus Julius Philippus
+- Severus Alexander — Alexander Severus | Emperor Severus Alexander | Emperor Alexander Severus | Alexianus
+- Maximinus Thrax — Maximinus | Maximinus I | Emperor Maximinus Thrax | Emperor Maximinus | Emperor Maximinus I | Maximinus the Thracian | Emperor Maximinus the Thracian | Thrax | The Thracian
+- Philip the Arab — Philip I | Philippus Arabs | Philip | Emperor Philip the Arab | Emperor Philip I | Emperor Philippus Arabs | Emperor Philip | Philip the Arabian | Marcus Julius Philippus | Emperor Philip the Arabian | Emperor Marcus Julius Philippus | The Arab
 - Decius — Trajan Decius | Emperor Decius | Emperor Trajan Decius
 - Valerian — Emperor Valerian | Valerianus | Valerian I | Emperor Valerianus | Emperor Valerian I
 - Gallienus — Emperor Gallienus
@@ -71,7 +71,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Arcadius — Emperor Arcadius
 - Valentinian III — Valentinian 3 | Valentinian the Third | Emperor Valentinian III | Emperor Valentinian 3 | Emperor Valentinian the Third
 - Heraclius — Herakleios | Emperor Heraclius | Emperor Herakleios
-- Basil II — Basil the Bulgar-Slayer | Bulgaroktonos | Basil 2 | Basil the Second | Emperor Basil II | Emperor Basil the Bulgar-Slayer | Emperor Bulgaroktonos | Basil | Emperor Basil 2 | Emperor Basil the Second | Emperor Basil
+- Basil II — Basil the Bulgar-Slayer | Bulgaroktonos | Basil 2 | Basil the Second | Emperor Basil II | Emperor Basil the Bulgar-Slayer | Emperor Bulgaroktonos | Basil | Emperor Basil 2 | Emperor Basil the Second | Emperor Basil | Bulgar Slayer
 - Constantine XI — Constantine XI Palaiologos | Constantine Palaiologos | Constantine Dragases | Constantine 11 | Constantine the Eleventh | Emperor Constantine XI | Emperor Constantine XI Palaiologos | Emperor Constantine Palaiologos | Emperor Constantine Dragases | Emperor Constantine 11 | Emperor Constantine the Eleventh
 - Justinian II — Justinian 2 | Justinian the Second | Emperor Justinian II | Justinian Rhinotmetos | Rhinotmetos | Justinian the Slit-nosed | Emperor Justinian 2 | Emperor Justinian the Second | Emperor Justinian Rhinotmetos | Emperor Rhinotmetos | Emperor Justinian the Slit-nosed
 - Irene — Irene of Athens | Empress Irene | Empress Irene of Athens
@@ -128,8 +128,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Leo III — Leo the Isaurian | Leo 3 | Leo the Third | Emperor Leo III | Emperor Leo the Isaurian | Leo | Leo the Syrian | Emperor Leo 3 | Emperor Leo the Third | Emperor Leo | Emperor Leo the Syrian
 - Constantine V — Constantine 5 | Constantine the Fifth | Emperor Constantine V | Constantine Copronymus | Copronymus | Kopronymos | Constantine Kopronymos | Emperor Constantine 5 | Emperor Constantine the Fifth | Emperor Constantine Copronymus | Emperor Copronymus | Emperor Kopronymos | Emperor Constantine Kopronymos
 - Basil I — Basil the Macedonian | Basil 1 | Basil the First | Emperor Basil I | Emperor Basil the Macedonian | Emperor Basil 1 | Emperor Basil the First
-- Leo VI — Leo the Wise | Leo 6 | Leo the Sixth | Emperor Leo VI | Emperor Leo the Wise | Leo the Philosopher | Emperor Leo 6 | Emperor Leo the Sixth | Emperor Leo the Philosopher
-- Nikephoros II Phokas — Nicephorus II Phocas | Nikephoros Phokas | Nikephoros 2 | Nikephoros the Second | Nikephoros II | Nikephoros 2 Phokas | Emperor Nikephoros II Phokas | Emperor Nicephorus II Phocas | Emperor Nikephoros Phokas | Emperor Nikephoros II | Nikephoros | Nicephorus | Nicephorus Phocas | Emperor Nikephoros 2 | Emperor Nikephoros the Second | Emperor Nikephoros 2 Phokas | Emperor Nikephoros | Emperor Nicephorus | Emperor Nicephorus Phocas
+- Leo VI — Leo the Wise | Leo 6 | Leo the Sixth | Emperor Leo VI | Emperor Leo the Wise | Leo the Philosopher | Emperor Leo 6 | Emperor Leo the Sixth | Emperor Leo the Philosopher | Leo VI the Wise | The Wise
+- Nikephoros II Phokas — Nicephorus II Phocas | Nikephoros Phokas | Nikephoros 2 | Nikephoros the Second | Nikephoros II | Nikephoros 2 Phokas | Emperor Nikephoros II Phokas | Emperor Nicephorus II Phocas | Emperor Nikephoros Phokas | Emperor Nikephoros II | Nikephoros | Nicephorus | Nicephorus Phocas | Emperor Nikephoros 2 | Emperor Nikephoros the Second | Emperor Nikephoros 2 Phokas | Emperor Nikephoros | Emperor Nicephorus | Emperor Nicephorus Phocas | Nicephorus II
 - John I Tzimiskes — John Tzimiskes | John 1 | John the First | John I | John 1 Tzimiskes | Emperor John I Tzimiskes | Emperor John Tzimiskes | Emperor John I | John | John Tzimisces | Emperor John 1 | Emperor John the First | Emperor John 1 Tzimiskes | Emperor John | Emperor John Tzimisces
 - Romanos IV Diogenes — Romanus IV | Romanos Diogenes | Romanos 4 | Romanos the Fourth | Romanos IV | Romanos 4 Diogenes | Emperor Romanos IV Diogenes | Emperor Romanus IV | Emperor Romanos Diogenes | Emperor Romanos IV | Romanos | Romanus | Romanus Diogenes | Emperor Romanos 4 | Emperor Romanos the Fourth | Emperor Romanos 4 Diogenes | Emperor Romanos | Emperor Romanus | Emperor Romanus Diogenes
 - John II Komnenos — John 2 | John the Second | John II | John 2 Komnenos | Emperor John II Komnenos | Emperor John II | John Komnenos | John Comnenus | John the Beautiful | Kaloioannes | Emperor John 2 | Emperor John the Second | Emperor John 2 Komnenos | Emperor John Komnenos | Emperor John Comnenus | Emperor John the Beautiful | Emperor Kaloioannes
@@ -241,7 +241,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Domitianus II — Domitian II | Emperor Domitianus II | Emperor Domitian II
 - Sponsian — Sponsianus | Emperor Sponsian | Emperor Sponsianus
 
-## Refused on purpose (31)
+## Refused on purpose (46)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -255,24 +255,39 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Cleopatra | Empress Cleopatra | Emperor Cleopatra | Emperor Empress Cleopatra — "Queen of Egypt, never of Rome."
 - Zenobia | Empress Zenobia | Emperor Zenobia | Emperor Empress Zenobia — "Queen of Palmyra, who defied Rome. Her son did claim the title, briefly."
 - Alexander the Great | Emperor Alexander the Great — "Macedonian, and three centuries too early."
-- Attila | Attila the Hun | Emperor Attila | Emperor Attila the Hun — "He fought the emperors. He wasn't one."
+- Attila | Attila the Hun | Emperor Attila | Emperor Attila the Hun | Alaric | Genseric | Gaiseric | Arminius | Shapur | Decebalus — "He fought the emperors. He wasn't one."
 - Odoacer | Odovacar | Emperor Odoacer | Emperor Odovacar — "The general who deposed the last Western emperor, then ruled Italy as king, not emperor."
 - Theodoric | Theodoric the Great | Emperor Theodoric | Emperor Theodoric the Great — "King of the Ostrogoths, who ruled Italy without the imperial title."
 - Belisarius | Emperor Belisarius — "Justinian's great general, never emperor."
 - Sulla | Emperor Sulla — "Dictator, not emperor."
-- Crassus | Emperor Crassus — "The richest man in Rome, but never emperor."
+- Crassus | Emperor Crassus | Marcus Crassus | Marcus Licinius Crassus — "The richest man in Rome, but never emperor."
 - Livia | Agrippina | Messalina | Empress Livia | Empress Agrippina | Empress Messalina | Julia Domna | Julia Maesa | Poppaea | Poppaea Sabina | Faustina | Plotina | Fausta | Galla Placidia — "An empress by marriage, never a ruler in her own right."
 - Boudica | Boadicea | Emperor Boudica | Emperor Boadicea — "Queen of the Iceni, who burned Roman London."
 - Hannibal | Emperor Hannibal — "Rome's greatest enemy, not its emperor."
 - Gaius Marius | Emperor Gaius Marius — "A general and seven-time consul, never emperor."
-- Maximus Decimus Meridius | Maximus Meridius | Emperor Maximus Decimus Meridius | Emperor Maximus Meridius — "Russell Crowe's general in Gladiator. Fiction."
+- Maximus Decimus Meridius | Maximus Meridius | Emperor Maximus Decimus Meridius | Emperor Maximus Meridius | Gladiator | Russell Crowe — "Russell Crowe's general in Gladiator. Fiction."
 - Remus | Emperor Remus — "One of Rome's legendary founders, never an emperor."
 - Agrippa | Marcus Agrippa | Marcus Vipsanius Agrippa | Emperor Agrippa | Emperor Marcus Agrippa | Emperor Marcus Vipsanius Agrippa — "Augustus's general and right-hand man, never emperor."
-- Germanicus | Emperor Germanicus — "A celebrated general and heir who died before he could rule."
+- Germanicus | Emperor Germanicus | Germanicus Caesar — "A celebrated general and heir who died before he could rule."
 - Sejanus | Emperor Sejanus — "Tiberius's ambitious prefect, who fell before he could rise further."
 - Scipio Africanus | Scipio | Emperor Scipio Africanus | Emperor Scipio — "A general of the Republic, long before the emperors."
 - Cato | Cato the Elder | Cato the Younger | Emperor Cato | Emperor Cato the Elder | Emperor Cato the Younger — "A senator of the Republic, never emperor."
 - Tarquin | Tarquinius Superbus | Tarquin the Proud | Emperor Tarquin | Emperor Tarquinius Superbus | Emperor Tarquin the Proud — "Rome's last king, long before the emperors."
 - Pontius Pilate | Pilate | Emperor Pontius Pilate | Emperor Pilate — "A governor of Judaea, never emperor."
 - Napoleon | Napoleon Bonaparte | Emperor Napoleon | Emperor Napoleon Bonaparte — "Emperor of the French, not of the Romans."
-- Holy Roman Emperor | Holy Roman Emperors | Frederick Barbarossa | Barbarossa | Otto the Great | Otto I | Charles V — "A later Western line, crowned by popes from 800 on. The deep wants the older Rome."
+- Holy Roman Emperor | Holy Roman Emperors | Frederick Barbarossa | Barbarossa | Otto the Great | Otto I | Charles V | Francis II | Frederick II | Henry IV | Rudolf II — "A later Western line, crowned by popes from 800 on. The deep wants the older Rome."
+- Palpatine | Emperor Palpatine | Darth Sidious | Zurg | Emperor Zurg | Caesar Flickerman | Coriolanus Snow | President Snow | Titus Andronicus | Lucius Vorenus | Titus Pullo — "A creature of fiction. Rome's real emperors were stranger."
+- Seneca | Seneca the Younger — "Nero's tutor, never an emperor. His pupil ordered him to die."
+- Virgil | Ovid | Horace | Pliny | Pliny the Elder | Pliny the Younger | Livy | Suetonius | Plutarch | Juvenal | Catullus | Lucretius | Vitruvius — "A writer of Rome, not a ruler of it."
+- Herod the Great | King Herod | Herod Antipas — "A client king in Judaea, ruling by Rome's leave. Never emperor."
+- Stilicho | Flavius Aetius | Ricimer | Arbogast — "The power behind a weak emperor's throne, never on it."
+- Kaiser | Tsar | Czar — "A title that grew from Caesar's own name, centuries on. Name one of the Romans who wore the original."
+- Imperator | Princeps | Basileus — "A title, not a man. Name one who held it."
+- Pope | Pontifex Maximus | Saint Peter | St Peter — "He inherited the emperors' old priestly title, and their city, but not their throne."
+- Mussolini | Benito Mussolini | Il Duce | Victor Emmanuel | Victor Emmanuel III | Garibaldi — "Rome again, but two thousand years late."
+- Gracchus | Tiberius Gracchus | Gaius Gracchus | The Gracchi | Cincinnatus | Coriolanus | Horatius | Camillus | Fabius Maximus — "A hero of the Republic, dead long before Rome had emperors."
+- Lepidus | Marcus Lepidus — "The third man of the Second Triumvirate, pushed aside by Octavian. Never emperor."
+- Britannicus | Drusus | Marcellus | Agrippa Postumus | Aelius Caesar | Lucius Aelius | Lucius Aelius Caesar | Crispus — "An heir who died before he could rule."
+- Antinous — "Hadrian's beloved, made a god after he drowned in the Nile. Never an emperor."
+- Tetrarchy | Triumvirate | First Triumvirate | Second Triumvirate | Five Good Emperors | Year of the Four Emperors | Julio-Claudians | Flavians — "More than one man. Name one of them."
+- Hadrian's Wall | Trajan's Column | Arch of Titus | Arch of Constantine | Baths of Caracalla | Baths of Diocletian | Colosseum | Pantheon | Constantinople | Antonine Wall | Aurelian Walls | Trajan's Market — "A thing an emperor built, not the emperor. Name the man behind it."

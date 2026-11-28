@@ -19,7 +19,7 @@ export class RelayError extends Error {
   }
 }
 
-async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
+export async function call<T>(path: string, init: RequestInit = {}): Promise<T> {
   if (!hasRelay()) throw new RelayError('The surface relay is not set up yet.', 0);
   let res: Response;
   try {

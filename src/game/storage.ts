@@ -1,6 +1,7 @@
 import type { ActivePrompt, AnswerRecord, DayRecord, Settings } from './types';
 import type { Dispute } from './disputes';
 import type { Sighting } from './bestiary';
+import { cleanRevisionBook, type RevisionBook, type RevisionRecord } from './revision';
 
 // Everything lives in the player's own browser. Every access is guarded, because
 // storage can be missing or throw (private windows, blocked site data, previews).
@@ -342,4 +343,23 @@ export function saveRiddle(a: RiddleAttempt): boolean {
   all[a.day] = a;
   write('riddles', JSON.stringify(all));
   return true;
+}
+
+/** What revision dives have reached on this device, by question. */
+export function loadRevision(): RevisionBook {
+  return cleanRevisionBook(readJson('revision'));
+}
+
+/** Keeps a sitting on one question. Read afresh first, so another tab's sittings are not lost. */
+export function saveRevision(promptId: string, rec: RevisionRecord): void {
+  const all = loadRevision();
+  all[promptId] = rec;
+  write('revision', JSON.stringify(all));
+}
+
+/** Forgets everything kept of one class pack's questions. */
+export function forgetRevision(packId: string): void {
+  const all = loadRevision();
+  for (const [id, r] of Object.entries(all)) if (r.pack === packId) delete all[id];
+  write('revision', JSON.stringify(all));
 }

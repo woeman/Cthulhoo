@@ -232,6 +232,13 @@ function buildPrompt(path, packId) {
   return out;
 }
 
+// Every daily question in data/, by id, for the reused questions below.
+const daily = new Map();
+for (const f of readdirSync(join(root, "data")).filter((f) => f.endsWith(".json"))) {
+  const bank = JSON.parse(readFileSync(join(root, "data", f), "utf8"));
+  for (const q of Array.isArray(bank.prompts) ? bank.prompts : []) daily.set(q.id, q);
+}
+
 // ----------------------------------------------------------------- main ----
 
 const index = [];
@@ -241,12 +248,26 @@ for (const packId of readdirSync(srcDir).sort()) {
   if (!existsSync(metaPath)) continue;
   const pack = JSON.parse(readFileSync(metaPath, "utf8"));
   if (pack.id !== packId) throw new Error(`${metaPath}: id should be "${packId}"`);
-  // A .txt file is a hand-written source. A .json file is a whole prompt
-  // copied from the daily bank under a pack id, used as it stands.
+  // A .txt file is a hand-written source. A .json file is a daily question
+  // reused under a pack id: while that question is in data/, its wording,
+  // answers, refusals and decoys are taken from there on every build, so a
+  // pack never accepts less than the daily game. The .json file is rewritten
+  // to match, and stands alone for questions that are not in data/ yet.
   const prompts = readdirSync(dir).filter((f) => /^\d.*\.(txt|json)$/.test(f)).sort().map((f) => {
     if (f.endsWith(".txt")) return buildPrompt(join(dir, f), packId);
-    const copied = JSON.parse(readFileSync(join(dir, f), "utf8"));
+    const file = join(dir, f);
+    const text = readFileSync(file, "utf8");
+    let copied = JSON.parse(text);
     if (!copied.id?.startsWith(`${packId}-`)) throw new Error(`${f}: id must start with "${packId}-"`);
+    const live = daily.get(copied.id.slice(packId.length + 1));
+    if (live) {
+      const fresh = { id: copied.id };
+      for (const [k, v] of Object.entries(live)) if (k !== "id") fresh[k] = v;
+      for (const k of ["section", "asOf", "source"]) if (copied[k]) fresh[k] = copied[k];
+      copied = fresh;
+      const out = JSON.stringify(copied, null, 1);
+      if (out !== text) { writeFileSync(file, out); note(`${copied.id}: refreshed from the daily question`); }
+    }
     return copied;
   });
   if (prompts.length === 0) continue; // a pack with no questions yet is not published

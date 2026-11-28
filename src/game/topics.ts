@@ -32,7 +32,7 @@ export const packTopic = (packId: string): string => `${PACK}${packId}`;
 export const packOfTopic = (topic: string): string | null => (topic.startsWith(PACK) ? topic.slice(PACK.length) : null);
 
 /** The daily bank's categories as topics, in the theme's order: only those with questions. */
-export function dailyTopics(prompts: PromptDef[], theme: Pick<ThemeCopy, 'categories'>): Topic[] {
+export function dailyTopics(prompts: Array<Pick<PromptDef, 'category'>>, theme: Pick<ThemeCopy, 'categories'>): Topic[] {
   const counts = new Map<string, number>();
   for (const p of prompts) counts.set(p.category, (counts.get(p.category) ?? 0) + 1);
   const named = Object.keys(theme.categories).filter((k) => counts.has(k));

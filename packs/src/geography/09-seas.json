@@ -30,7 +30,8 @@
     "Mare Rubrum",
     "Mare Erythraeum",
     "Sea of Reeds",
-    "Yam Suph"
+    "Yam Suph",
+    "Red"
    ],
    "tier": 1
   },
@@ -42,7 +43,8 @@
     "Pontus Euxinus",
     "Pontic Sea",
     "Karadeniz",
-    "Euxine Pontus"
+    "Euxine Pontus",
+    "Black"
    ],
    "tier": 1
   },
@@ -54,7 +56,8 @@
     "Lake Asphaltites",
     "Sea of the Arabah",
     "Yam ha-Melah",
-    "Bahr Lut"
+    "Bahr Lut",
+    "Dead"
    ],
    "tier": 1,
    "lore": "Its shore is the lowest land on Earth, more than 400 m below sea level."
@@ -81,7 +84,8 @@
     "Mare Germanicum",
     "Nordsee",
     "Noordzee",
-    "Vesterhavet"
+    "Vesterhavet",
+    "North"
    ],
    "tier": 1
   },
@@ -115,7 +119,8 @@
    "answer": "Irish Sea",
    "aliases": [
     "Sea of Ireland",
-    "Mare Hibernicum"
+    "Mare Hibernicum",
+    "Irish"
    ],
    "tier": 2
   },
@@ -133,7 +138,8 @@
     "West Philippine Sea",
     "Bien Dong",
     "Nan Hai",
-    "South China"
+    "South China",
+    "China Sea"
    ],
    "tier": 2
   },
@@ -174,12 +180,17 @@
     "Japan Sea",
     "Nihonkai",
     "Donghae",
-    "Japanese Sea"
+    "Japanese Sea",
+    "East Sea of Korea",
+    "Korean Sea"
    ],
    "tier": 2
   },
   {
    "answer": "Coral Sea",
+   "aliases": [
+    "Coral"
+   ],
    "tier": 2
   },
   {
@@ -195,7 +206,8 @@
    "answer": "Tasman Sea",
    "aliases": [
     "Tasman",
-    "The Ditch"
+    "The Ditch",
+    "Tasmanian Sea"
    ],
    "tier": 3
   },
@@ -213,7 +225,8 @@
     "Tyrrhenian",
     "Mare Tyrrhenum",
     "Mar Tirreno",
-    "Tyrrhenean Sea"
+    "Tyrrhenean Sea",
+    "Tyrennian"
    ],
    "tier": 3
   },
@@ -297,6 +310,9 @@
   },
   {
    "answer": "Ross Sea",
+   "aliases": [
+    "Ross"
+   ],
    "tier": 3
   },
   {
@@ -348,6 +364,9 @@
   },
   {
    "answer": "Java Sea",
+   "aliases": [
+    "Java"
+   ],
    "tier": 3
   },
   {
@@ -410,7 +429,8 @@
   {
    "answer": "White Sea",
    "aliases": [
-    "Beloye More"
+    "Beloye More",
+    "White"
    ],
    "tier": 3
   },
@@ -422,7 +442,8 @@
     "Cortez Sea",
     "Vermilion Sea",
     "Mar Bermejo",
-    "Mar de Cortes"
+    "Mar de Cortes",
+    "Cortez"
    ],
    "tier": 3
   },
@@ -483,6 +504,9 @@
   },
   {
    "answer": "Banda Sea",
+   "aliases": [
+    "Banda"
+   ],
    "tier": 4
   },
   {
@@ -494,6 +518,9 @@
   },
   {
    "answer": "Timor Sea",
+   "aliases": [
+    "Timor"
+   ],
    "tier": 4
   },
   {
@@ -507,7 +534,8 @@
   {
    "answer": "Sulu Sea",
    "aliases": [
-    "Mindoro Sea"
+    "Mindoro Sea",
+    "Sulu"
    ],
    "tier": 4
   },
@@ -680,7 +708,9 @@
    "aliases": [
     "Mare Tranquillitatis",
     "Sea of Tranquillity",
-    "Tranquility Sea"
+    "Tranquility Sea",
+    "Tranquility",
+    "Tranquillity"
    ],
    "tier": 4,
    "lore": "On the Moon. Apollo 11 landed there in 1969. It has never held a drop of water."
@@ -1223,6 +1253,21 @@
    "tier": 5
   },
   {
+   "answer": "Eromanga Sea",
+   "tier": 5,
+   "lore": "A shallow sea that covered inland Australia about 110 million years ago. Its opalised plesiosaurs still turn up in the outback."
+  },
+  {
+   "answer": "Sundance Sea",
+   "tier": 5,
+   "lore": "An arm of the ocean that reached down into North America in the Jurassic, where Wyoming's ranches are now."
+  },
+  {
+   "answer": "Zechstein Sea",
+   "tier": 5,
+   "lore": "A Permian sea across northern Europe that dried up again and again, leaving the salt now mined under Germany and Poland."
+  },
+  {
    "answer": "Sea of Crises",
    "aliases": [
     "Mare Crisium",
@@ -1245,7 +1290,8 @@
    "answer": "Atlantic Ocean",
    "aliases": [
     "Atlantic",
-    "Atlantic Sea"
+    "Atlantic Sea",
+    "North Atlantic"
    ],
    "reason": "That is an ocean. The deep is offended by the confusion."
   },
@@ -1253,7 +1299,8 @@
    "answer": "Pacific Ocean",
    "aliases": [
     "Pacific",
-    "Pacific Sea"
+    "Pacific Sea",
+    "South Pacific"
    ],
    "reason": "That is an ocean. The deep is offended by the confusion."
   },
@@ -1264,7 +1311,8 @@
   {
    "answer": "Arctic Ocean",
    "aliases": [
-    "Arctic Sea"
+    "Arctic Sea",
+    "Arctic"
    ],
    "reason": "That is an ocean, the smallest one, but still not a sea."
   },
@@ -1288,7 +1336,13 @@
   {
    "answer": "Gulf of Mexico",
    "aliases": [
-    "Gulf of America"
+    "Gulf of America",
+    "Gulf of Carpentaria",
+    "Spencer Gulf",
+    "Hauraki Gulf",
+    "Gulf of Oman",
+    "Gulf of St Lawrence",
+    "Gulf St Vincent"
    ],
    "reason": "A gulf, not a sea."
   },
@@ -1301,6 +1355,13 @@
   },
   {
    "answer": "Hudson Bay",
+   "aliases": [
+    "Port Phillip Bay",
+    "Botany Bay",
+    "Shark Bay",
+    "Moreton Bay",
+    "Port Phillip"
+   ],
    "reason": "A bay, not a sea."
   },
   {
@@ -1323,6 +1384,9 @@
   },
   {
    "answer": "Sea of Thieves",
+   "aliases": [
+    "Sea of Stars"
+   ],
    "reason": "A video game, not a sea."
   },
   {
@@ -1354,6 +1418,37 @@
   {
    "answer": "Gulf of Bothnia",
    "reason": "A gulf, though its southern half is a sea in its own right."
+  },
+  {
+   "answer": "Bass Strait",
+   "aliases": [
+    "Torres Strait",
+    "Cook Strait",
+    "Foveaux Strait",
+    "Strait of Malacca",
+    "Dardanelles"
+   ],
+   "reason": "A strait, not a sea."
+  },
+  {
+   "answer": "Great Australian Bight",
+   "aliases": [
+    "The Bight",
+    "Australian Bight"
+   ],
+   "reason": "A bight: a great open bay, not a sea."
+  },
+  {
+   "answer": "Sydney Harbour",
+   "aliases": [
+    "Port Jackson",
+    "The Harbour"
+   ],
+   "reason": "A harbour, and a fine one. Not a sea."
+  },
+  {
+   "answer": "Sea World",
+   "reason": "A theme park on the Gold Coast, among other places. Not a sea."
   }
  ],
  "decoys": [

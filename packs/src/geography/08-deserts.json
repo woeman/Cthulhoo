@@ -13,7 +13,8 @@
     "Great Desert",
     "Sahra",
     "As-Sahra al-Kubra",
-    "Sahra al-Kubra"
+    "Sahra al-Kubra",
+    "Western Sahara"
    ],
    "tier": 1
   },
@@ -21,7 +22,10 @@
    "answer": "Gobi",
    "aliases": [
     "Gobi Desert",
-    "Govi"
+    "Govi",
+    "Khongoryn Els",
+    "Flaming Cliffs",
+    "Bayanzag"
    ],
    "tier": 1
   },
@@ -78,7 +82,8 @@
    "aliases": [
     "Antarctica",
     "Antarctic",
-    "Antarctic Polar Desert"
+    "Antarctic Polar Desert",
+    "South Pole"
    ],
    "tier": 2,
    "openSecret": true,
@@ -89,7 +94,12 @@
    "aliases": [
     "Namib Desert",
     "Namib-Naukluft",
-    "Namib Sand Sea"
+    "Namib Sand Sea",
+    "Namibian",
+    "Namibian Desert",
+    "Sossusvlei",
+    "Deadvlei",
+    "Skeleton Coast"
    ],
    "tier": 3
   },
@@ -108,7 +118,9 @@
     "Great Indian Desert",
     "Marusthali",
     "Marusthal",
-    "Indian Desert"
+    "Indian Desert",
+    "Tar",
+    "India Desert"
    ],
    "tier": 3
   },
@@ -119,7 +131,9 @@
     "Taklamakan Desert",
     "Teklimakan",
     "Taklimakan Desert",
-    "Taklamakan Shamo"
+    "Taklamakan Shamo",
+    "Tarim Basin",
+    "Tarim"
    ],
    "tier": 3
   },
@@ -143,7 +157,9 @@
   {
    "answer": "Simpson Desert",
    "aliases": [
-    "Simpson"
+    "Simpson",
+    "Arunta Desert",
+    "Arunta"
    ],
    "tier": 3
   },
@@ -158,7 +174,8 @@
    "answer": "Arctic Desert",
    "aliases": [
     "Arctic",
-    "Arctic Polar Desert"
+    "Arctic Polar Desert",
+    "North Pole"
    ],
    "tier": 3
   },
@@ -168,7 +185,8 @@
     "Negev Desert",
     "Negeb",
     "Naqab",
-    "HaNegev"
+    "HaNegev",
+    "Negev Highlands"
    ],
    "tier": 3
   },
@@ -195,7 +213,10 @@
    "answer": "Syrian Desert",
    "aliases": [
     "Syrian",
-    "Badiyat al-Sham"
+    "Badiyat al-Sham",
+    "Badia",
+    "Syrian steppe",
+    "Badiyat ash-Sham"
    ],
    "tier": 4
   },
@@ -231,7 +252,10 @@
    "aliases": [
     "Danakil Desert",
     "Danakil Depression",
-    "Afar Desert"
+    "Afar Desert",
+    "Afar",
+    "Afar Triangle",
+    "Afar Depression"
    ],
    "tier": 4,
    "lore": "Lava lakes, acid pools and salt flats, and one of the hottest inhabited places on the planet."
@@ -324,7 +348,10 @@
     "Rann of Kachchh",
     "Kutch Desert",
     "Salt Desert of Kutch",
-    "White Rann"
+    "White Rann",
+    "Kutch",
+    "Kachchh",
+    "Great Rann"
    ],
    "tier": 4
   },
@@ -374,7 +401,10 @@
   {
    "answer": "Sturt Stony Desert",
    "aliases": [
-    "Sturt Stony"
+    "Sturt Stony",
+    "Stony Desert",
+    "Sturt Desert",
+    "Sturt's Desert"
    ],
    "tier": 5
   },
@@ -428,7 +458,8 @@
   {
    "answer": "Eastern Desert",
    "aliases": [
-    "Eastern"
+    "Eastern",
+    "Eastern Desert of Egypt"
    ],
    "tier": 5
   },
@@ -472,14 +503,18 @@
   {
    "answer": "Sechura Desert",
    "aliases": [
-    "Sechura"
+    "Sechura",
+    "Peruvian Desert",
+    "Peruvian coastal desert"
    ],
    "tier": 5
   },
   {
    "answer": "La Guajira Desert",
    "aliases": [
-    "La Guajira"
+    "La Guajira",
+    "Guajira",
+    "Guajira Desert"
    ],
    "tier": 5
   },
@@ -523,7 +558,9 @@
   {
    "answer": "Lop Desert",
    "aliases": [
-    "Lop"
+    "Lop",
+    "Lop Nur",
+    "Lop Nor"
    ],
    "tier": 5
   },
@@ -642,7 +679,8 @@
    "answer": "Alashan Desert",
    "aliases": [
     "Alashan",
-    "Alxa Desert"
+    "Alxa Desert",
+    "Alxa"
    ],
    "tier": 5
   },
@@ -764,7 +802,12 @@
   },
   {
    "answer": "Ódáðahraun",
-   "tier": 5
+   "aliases": [
+    "Highlands of Iceland",
+    "Icelandic Highlands"
+   ],
+   "tier": 5,
+   "lore": "Iceland's lava desert, the largest in Europe. Its name means the lava field of evil deeds."
   },
   {
    "answer": "Carcross Desert",
@@ -946,7 +989,8 @@
    "answer": "Qaidam Desert",
    "aliases": [
     "Qaidam Basin",
-    "Tsaidam"
+    "Tsaidam",
+    "Qaidam"
    ],
    "tier": 5
   },
@@ -1025,7 +1069,9 @@
    "answer": "Katpana Desert",
    "aliases": [
     "Katpana",
-    "Skardu Desert"
+    "Skardu Desert",
+    "Cold Desert",
+    "Cold Desert of Skardu"
    ],
    "tier": 5
   },
@@ -1043,6 +1089,106 @@
    ],
    "tier": 5,
    "lore": "A shingle headland in Kent, often called Britain's only desert, though it is far too wet to be one by most definitions."
+  },
+  {
+   "answer": "Little Desert",
+   "tier": 5,
+   "lore": "A national park in western Victoria. It is mallee scrub and gets too much rain for a true desert, but the name stuck."
+  },
+  {
+   "answer": "Big Desert",
+   "tier": 5,
+   "lore": "Victoria's largest wilderness, mallee and sand ridges north of the Little Desert."
+  },
+  {
+   "answer": "Ninety Mile Desert",
+   "aliases": [
+    "90 Mile Desert",
+    "Ninety Mile Plain"
+   ],
+   "tier": 5,
+   "lore": "South Australian scrub that looked hopeless until the soil was found to lack only trace elements. It is farmland now."
+  },
+  {
+   "answer": "Rangipo Desert",
+   "aliases": [
+    "Rangipo"
+   ],
+   "tier": 5,
+   "lore": "New Zealand's Desert Road runs through it. It gets plenty of rain and still looks the part."
+  },
+  {
+   "answer": "Desert of Maine",
+   "tier": 5,
+   "lore": "Forty acres of glacial silt among the pine woods, laid bare by a farm that failed."
+  },
+  {
+   "answer": "Richtersveld",
+   "tier": 5,
+   "lore": "A mountain desert in the north-west corner of South Africa."
+  },
+  {
+   "answer": "Grand Bara",
+   "aliases": [
+    "Grand Bara Desert"
+   ],
+   "tier": 5,
+   "lore": "A flat pan of cracked clay in Djibouti."
+  },
+  {
+   "answer": "Maranjab Desert",
+   "aliases": [
+    "Maranjab"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rig-e Jenn",
+   "aliases": [
+    "Rig-e Jen"
+   ],
+   "tier": 5,
+   "lore": "Dunes in the heart of Iran that the caravans went around. The name means the sands of the jinn."
+  },
+  {
+   "answer": "Indus Valley Desert",
+   "tier": 5
+  },
+  {
+   "answer": "Ladakh",
+   "aliases": [
+    "Ladakh cold desert",
+    "Cold desert of Ladakh"
+   ],
+   "tier": 5,
+   "lore": "A cold desert in the rain shadow of the Himalaya."
+  },
+  {
+   "answer": "Spiti",
+   "aliases": [
+    "Spiti Valley",
+    "Spiti cold desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ustyurt",
+   "aliases": [
+    "Ustyurt Plateau",
+    "Ustyurt Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arabah",
+   "aliases": [
+    "Arava",
+    "Aravah",
+    "Arava Desert",
+    "Wadi Araba",
+    "Wadi Arabah"
+   ],
+   "tier": 5
   },
   {
    "answer": "Ténéré",
@@ -1078,12 +1224,26 @@
   {
    "answer": "Sahel",
    "aliases": [
-    "Sahel Desert"
+    "Sahel Desert",
+    "Sahel region"
    ],
    "reason": "The semi-arid belt south of the Sahara. Dry, but not desert."
   },
   {
    "answer": "Outback",
+   "aliases": [
+    "Red Centre",
+    "Red Center",
+    "Central Australia",
+    "Australian Outback",
+    "Great Australian Desert",
+    "Australian Desert",
+    "Central Desert",
+    "The bush",
+    "Never Never",
+    "Back of Bourke",
+    "Channel Country"
+   ],
    "reason": "A vast region, not one desert, though it holds several."
   },
   {
@@ -1096,7 +1256,10 @@
   {
    "answer": "Tatooine",
    "aliases": [
-    "Jakku"
+    "Jakku",
+    "Wasteland",
+    "Mad Max",
+    "Fury Road"
    ],
    "reason": "Fictional. The deep has checked every sky."
   },
@@ -1106,6 +1269,15 @@
   },
   {
    "answer": "Tundra",
+   "aliases": [
+    "Savannah",
+    "Savanna",
+    "Prairie",
+    "Pampas",
+    "Great Plains",
+    "Badlands",
+    "Taiga"
+   ],
    "reason": "A kind of landscape, not a named desert."
   },
   {
@@ -1124,9 +1296,100 @@
    "aliases": [
     "Deserts",
     "Sand dunes",
-    "Dunes"
+    "Dunes",
+    "Sand",
+    "Polar desert",
+    "Sandy desert",
+    "Rocky desert",
+    "Dry desert",
+    "Biggest desert",
+    "Largest desert",
+    "Driest desert",
+    "Erg",
+    "Reg",
+    "Hamada",
+    "Oasis"
    ],
    "reason": "The deep wants one by name."
+  },
+  {
+   "answer": "Lake Eyre",
+   "aliases": [
+    "Kati Thanda",
+    "Kati Thanda-Lake Eyre",
+    "Salar de Uyuni",
+    "Uyuni",
+    "Bonneville Salt Flats",
+    "Bonneville",
+    "Salt flats",
+    "Salt lake",
+    "Dead Sea",
+    "Makgadikgadi",
+    "Etosha",
+    "Etosha Pan"
+   ],
+   "reason": "A salt lake or a salt pan, not a desert, though a desert is likely all around it."
+  },
+  {
+   "answer": "Uluru",
+   "aliases": [
+    "Ayers Rock",
+    "Alice Springs",
+    "Coober Pedy",
+    "Birdsville",
+    "Kata Tjuta",
+    "The Olgas",
+    "Kings Canyon",
+    "Monument Valley",
+    "Petra",
+    "Giza",
+    "Valley of the Kings",
+    "Las Vegas",
+    "Timbuktu",
+    "Palm Springs",
+    "Area 51",
+    "Burning Man"
+   ],
+   "reason": "Somewhere in a desert, not the desert itself."
+  },
+  {
+   "answer": "Egypt",
+   "aliases": [
+    "Arizona",
+    "Nevada",
+    "Texas",
+    "Mexico",
+    "Africa",
+    "Australia",
+    "Middle East",
+    "Saudi Arabia",
+    "Chile",
+    "Utah",
+    "New Mexico",
+    "California",
+    "Morocco",
+    "China",
+    "India",
+    "Tibet",
+    "Iceland",
+    "Greenland"
+   ],
+   "reason": "A country or region with desert in it, not a desert. Name the desert itself."
+  },
+  {
+   "answer": "The Moon",
+   "aliases": [
+    "Planet Mars",
+    "The Red Planet"
+   ],
+   "reason": "A desert from pole to pole, but the question keeps its feet on Earth."
+  },
+  {
+   "answer": "Desert island",
+   "aliases": [
+    "Deserted island"
+   ],
+   "reason": "Deserted, not desert. A different sort of empty."
   }
  ],
  "decoys": [

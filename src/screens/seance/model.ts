@@ -4,7 +4,7 @@
 
 import { dateKeyForDay, hashString, practiceQueue, practiceRank } from '../../game/daily';
 import { dealByTopic, dropCopies, fitBudget, topicsPhrase } from '../../game/topics';
-import type { BankDay, PromptDef, ThemeCopy } from '../../game/types';
+import type { BankDay, PromptDef, PromptMeta, ThemeCopy } from '../../game/types';
 import type { CultBoard } from '../../party/cult';
 import { candleOut, type PassState } from '../../party/passplay';
 import { LONE_BONUS } from '../../party/room';
@@ -40,18 +40,28 @@ export function tierDepths(theme: ThemeCopy): number[] {
 }
 
 export interface Bankish {
-  prompts: PromptDef[];
-  byId: Map<string, PromptDef>;
+  /** The daily bank's questions, without their answers. */
+  prompts: PromptMeta[];
   days: BankDay[];
+  /** Questions whole, fetched when they are not here yet (see Bank.whole). */
+  whole(ids: string[]): Promise<PromptDef[]>;
 }
 
+/** Said when a sitting's questions could not be had: with the bank fetched on demand, that is the line, not the bank. */
+export const NO_QUESTIONS = 'The deep’s questions could not be fetched. Check the connection and try again.';
+/** A lantern séance found in progress after a reload, whose questions would not come back. */
+export const LANTERN_WAITS = 'The questions of your séance could not be fetched, so it waits as you left it. Check the connection and open the séance again.';
+
+/** Questions fetched beyond those still wanted, so one too long for the relay costs no second trip. */
+const CHOOSE_SPARE = 2;
+
 /**
- * The questions for one sitting: a practice set (never today's daily questions,
- * nor the coming week's while the bank allows) cut to the candle count. The seed
- * comes from the sign and the sitting, so the same circle sitting again is asked
- * new questions; any asked before in this séance go to the back of the queue.
+ * The order one sitting would ask the questions in, by id: a practice queue
+ * (never today's daily questions, nor the coming week's while the bank allows).
+ * The seed comes from the sign and the sitting, so the same circle sitting again
+ * is asked new questions; any asked before in this séance go to the back.
  */
-export function choosePrompts(bank: Bankish, avoid: string[], key: string, sitting: number, today: number, count: number, asked: string[] = [], from: Chosen = {}): PromptDef[] {
+export function promptQueue(bank: Pick<Bankish, 'prompts' | 'days'>, avoid: string[], key: string, sitting: number, today: number, asked: string[] = [], from: Chosen = {}): string[] {
   const seed = hashString(`${key.toUpperCase()}#${sitting}`);
   const same = from.sameAs ?? ((id: string) => id);
   // A class pack's copy of a question counts as that question, asked or to be avoided.
@@ -65,15 +75,37 @@ export function choosePrompts(bank: Bankish, avoid: string[], key: string, sitti
     const rank = practiceRank(bank.prompts, skip, today, bank.days);
     ids = dealByTopic(ids, (id) => rank(same(id)), (id) => topicOf(byId.get(id) ?? { id, category: '' }));
   }
-  ids = dropCopies(ids, same);
-  const found = ids.map((id) => bank.byId.get(id)).filter((p): p is PromptDef => !!p);
-  return fitBudget(found, Math.max(1, count), from.budget ?? Infinity);
+  return dropCopies(ids, same);
+}
+
+/**
+ * The questions for one sitting, whole: the first of the queue (see promptQueue)
+ * that fit, cut to the candle count. Their answers are fetched a few questions
+ * at a time, in the queue's order, until enough fit. Empty when nothing could be
+ * fetched at all.
+ */
+export async function choosePrompts(bank: Bankish, avoid: string[], key: string, sitting: number, today: number, count: number, asked: string[] = [], from: Chosen = {}): Promise<PromptDef[]> {
+  const ids = promptQueue(bank, avoid, key, sitting, today, asked, from);
+  const want = Math.max(1, count);
+  const budget = from.budget ?? Infinity;
+  const here: PromptDef[] = [];
+  let fit: PromptDef[] = [];
+  for (let i = 0; i < ids.length && fit.length < want; ) {
+    const some = ids.slice(i, i + (want - fit.length) + CHOOSE_SPARE);
+    i += some.length;
+    const got = await bank.whole(some);
+    // Nothing at all: the line is down, and the rest of the queue would fare no better.
+    if (!got.length) break;
+    here.push(...got);
+    fit = fitBudget(here, want, budget);
+  }
+  return fit;
 }
 
 /** What a sitting's questions are drawn from, when the medium ticked topics. */
 export interface Chosen {
   /** The questions of the ticked topics (class packs included). Absent: the whole daily bank. */
-  among?: PromptDef[];
+  among?: PromptMeta[];
   /** A question's topic, so several topics are dealt evenly. */
   topicOf?: (p: Pick<PromptDef, 'id' | 'category'>) => string;
   /** The question an id stands for, so a class pack's copy of a daily question is never asked beside it. */

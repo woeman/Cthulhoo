@@ -1,3 +1,4 @@
+import { riddleFiles } from 'virtual:daily-bank';
 import placeholderRiddles from '../content/riddles.placeholder.json';
 import { dayNumberForKey, seededShuffle } from './daily';
 import { keyOf, keyVariants, matchAnswer, type MatchResult } from './matcher';
@@ -10,10 +11,10 @@ import type { PromptDef } from './types';
 //
 // Riddles come from every data/*.json file with a "riddles" list (the question
 // bank thread's data/riddles.json; the format is app/specs/riddles-format.md),
-// merged as bank.ts merges prompts. Until such a file has a playable riddle, the
-// placeholders in src/content are played instead.
-
-const dataFiles = import.meta.glob('/data/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
+// merged as bank.ts merges prompts. The build hands those files to the script
+// whole (build/daily-bank.mjs): a riddle is a verse and a few answers, never a
+// long list. Until such a file has a playable riddle, the placeholders in
+// src/content are played instead.
 
 /** The depth a solve earns, by the number of whispers heard first. Giving up or running out of breath earns 0. */
 export const RIDDLE_DEPTHS: readonly number[] = [1000, 700, 450, 250];
@@ -206,11 +207,7 @@ let loaded: RiddleDeck | null = null;
 
 /** Today's deck, read once from data/*.json (sorted by path, like the bank). */
 export function loadRiddleDeck(): RiddleDeck {
-  if (loaded) return loaded;
-  const files = Object.entries(dataFiles)
-    .sort(([a], [b]) => (a < b ? -1 : 1))
-    .map(([, v]) => v);
-  loaded = deckFrom(files, placeholderRiddles);
+  loaded ??= deckFrom(riddleFiles, placeholderRiddles);
   return loaded;
 }
 
