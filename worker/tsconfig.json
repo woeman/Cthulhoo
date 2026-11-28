@@ -13,5 +13,5 @@
     "skipLibCheck": true,
     "noEmit": true
   },
-  "include": ["src", "../src/party/room.ts", "../src/party/cult.ts", "../src/party/codes.ts", "../src/party/types.ts", "../src/party/census.ts"]
+  "include": ["src", "../src/party/room.ts", "../src/party/cult.ts", "../src/party/codes.ts", "../src/party/types.ts", "../src/party/census.ts", "../src/party/classroom.ts", "../src/party/class-types.ts"]
 }

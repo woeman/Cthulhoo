@@ -27,6 +27,15 @@ class_name = "Cult"
 name = "CENSUS"
 class_name = "Census"
 
+[[durable_objects.bindings]]
+name = "CLASSROOM"
+class_name = "Classroom"
+
 [[migrations]]
 tag = "v1"
 new_sqlite_classes = ["Seance", "Cult", "Census"]
+
+# A preview that was already up before a class was added gains it here.
+[[migrations]]
+tag = "v2"
+new_sqlite_classes = ["Classroom"]
