@@ -1,0 +1,289 @@
+id: ethics-philosophers
+text: Name a moral philosopher or ethical thinker.
+flavor: They asked what a good life is. Whatever answered them from the dark was very patient.
+rules: Any philosopher, religious teacher or writer known for ideas about right and wrong, from any age or tradition. Surnames alone are fine.
+section: Foundations
+---
+1 Aristotle | Aristoteles
+1 Plato
+1 Socrates
+1 Immanuel Kant | Kant
+1 Confucius | Kongzi | Kong Fuzi | Kung Fu-tzu | Master Kong
+2 John Stuart Mill | Mill | J. S. Mill | JS Mill
+2 Jeremy Bentham | Bentham
+2 Friedrich Nietzsche | Nietzsche | Nietzche | Neitzsche
+2 Peter Singer | Singer
+2 John Rawls | Rawls
+2 Thomas Hobbes | Hobbes
+2 John Locke | Locke
+2 Karl Marx | Marx
+2 Buddha | Siddhartha Gautama | Gautama Buddha | The Buddha | Siddhartha
+2 Jesus | Jesus Christ | Jesus of Nazareth | Christ
+2 Adam Smith | Smith
+2 Jean-Jacques Rousseau | Rousseau
+2 René Descartes | Descartes | Rene Descartes
+2 Niccolò Machiavelli | Machiavelli | Niccolo Machiavelli
+2 Mahatma Gandhi | Gandhi | Mohandas Gandhi
+2 Milton Friedman | Friedman
+2 David Hume | Hume
+3 Thomas Aquinas | Aquinas | St Thomas Aquinas | Saint Thomas Aquinas
+3 Augustine | Augustine of Hippo | St Augustine | Saint Augustine
+3 Epicurus
+3 Marcus Aurelius | Aurelius
+3 Seneca | Seneca the Younger
+3 Epictetus
+3 Zeno of Citium | Zeno
+3 Diogenes | Diogenes of Sinope | Diogenes the Cynic
+3 Jean-Paul Sartre | Sartre
+3 Simone de Beauvoir | de Beauvoir | Beauvoir
+3 Albert Camus | Camus
+3 Søren Kierkegaard | Kierkegaard | Soren Kierkegaard
+3 Arthur Schopenhauer | Schopenhauer
+3 Georg Hegel | Hegel | G. W. F. Hegel | Georg Wilhelm Friedrich Hegel
+3 Baruch Spinoza | Spinoza | Benedict de Spinoza
+3 Voltaire
+3 Laozi | Lao Tzu | Lao-Tzu | Lao Tse | Lao Tsu
+3 Mencius | Mengzi
+3 Sun Tzu | Sunzi
+3 Muhammad | Mohammed | Prophet Muhammad
+3 Moses
+3 Martin Luther King | Martin Luther King Jr | MLK
+3 Nelson Mandela | Mandela
+3 Mary Wollstonecraft | Wollstonecraft
+3 Hannah Arendt | Arendt
+3 Ayn Rand | Rand
+3 Robert Nozick | Nozick
+3 Michael Sandel | Sandel
+3 Amartya Sen | Sen
+3 Martha Nussbaum | Nussbaum
+3 Noam Chomsky | Chomsky
+3 Bertrand Russell | Russell
+3 Ludwig Wittgenstein | Wittgenstein
+3 Michel Foucault | Foucault
+3 Henry David Thoreau | Thoreau
+3 Ralph Waldo Emerson | Emerson
+3 Thomas Paine | Paine
+3 Edmund Burke | Burke
+3 Thomas More | More | Sir Thomas More
+3 Cicero | Marcus Tullius Cicero
+3 Pythagoras
+3 Heraclitus
+3 Protagoras
+3 Hippocrates
+3 Dalai Lama | Tenzin Gyatso
+3 Desmond Tutu | Tutu
+3 Mother Teresa
+3 Pope Francis
+3 Leo Tolstoy | Tolstoy
+3 Fyodor Dostoevsky | Dostoevsky | Dostoyevsky
+3 George Orwell | Orwell
+3 Jordan Peterson | Peterson
+3 Sam Harris | Harris
+3 Slavoj Žižek | Zizek | Žižek
+3 Alain de Botton | de Botton
+3 Yuval Noah Harari | Harari
+3 R. Edward Freeman | Freeman | Edward Freeman | Ed Freeman
+3 Archie Carroll | Carroll
+3 John Elkington | Elkington
+3 Peter Drucker | Drucker
+3 Simon Longstaff | Longstaff
+3 Tim Soutphommasane | Soutphommasane
+3 Raimond Gaita | Gaita
+3 John Passmore | Passmore
+3 J. L. Mackie | Mackie | John Mackie | JL Mackie
+3 J. J. C. Smart | Smart | Jack Smart | JJC Smart
+3 David Chalmers | Chalmers
+3 Toby Ord | Ord
+3 William MacAskill | MacAskill | Will MacAskill
+3 Derek Parfit | Parfit
+3 Philippa Foot | Foot
+3 G. E. M. Anscombe | Anscombe | Elizabeth Anscombe
+3 Alasdair MacIntyre | MacIntyre
+3 Iris Murdoch | Murdoch
+3 Judith Jarvis Thomson | Thomson
+3 Carol Gilligan | Gilligan
+3 Nel Noddings | Noddings
+3 Lawrence Kohlberg | Kohlberg
+3 Jürgen Habermas | Habermas | Jurgen Habermas
+3 Emmanuel Levinas | Levinas
+3 Martin Heidegger | Heidegger
+3 Simone Weil | Weil
+3 W. D. Ross | Ross | William David Ross | WD Ross
+3 G. E. Moore | Moore | George Edward Moore | GE Moore
+3 Henry Sidgwick | Sidgwick
+3 R. M. Hare | Hare | Richard Hare
+3 A. J. Ayer | Ayer | AJ Ayer
+3 John Dewey | Dewey
+3 William James | James
+3 T. M. Scanlon | Scanlon | Tim Scanlon
+3 Thomas Nagel | Nagel
+3 Ronald Dworkin | Dworkin
+3 Isaiah Berlin | Berlin
+3 Karl Popper | Popper
+3 Friedrich Hayek | Hayek
+3 Jonathan Haidt | Haidt
+3 Kwame Anthony Appiah | Appiah
+3 Cornel West | West
+3 Judith Butler | Butler
+3 bell hooks | Bell Hooks
+3 Angela Davis | Davis
+3 Frantz Fanon | Fanon
+3 W. E. B. Du Bois | Du Bois | DuBois
+3 Aldo Leopold | Leopold
+3 Rachel Carson | Carson
+3 Arne Næss | Naess | Arne Naess
+3 Val Plumwood | Plumwood
+3 Tom Regan | Regan
+3 Albert Schweitzer | Schweitzer
+3 Dietrich Bonhoeffer | Bonhoeffer
+3 Reinhold Niebuhr | Niebuhr
+3 Martin Buber | Buber
+3 Maimonides | Rambam | Moses Maimonides
+3 Hillel | Hillel the Elder
+3 Avicenna | Ibn Sina
+3 Averroes | Ibn Rushd
+3 Al-Ghazali | Ghazali | Al Ghazali
+3 Al-Farabi | Farabi
+3 Rumi
+3 Zhuangzi | Chuang Tzu
+6 Mozi | Mo Tzu | Mo Di | Micius :: In the 400s BC he taught impartial care for everyone and judged every policy by its benefit to the people: utilitarianism, two thousand years early.
+3 Xunzi | Hsun Tzu
+3 Han Feizi | Han Fei
+3 Zhu Xi
+3 Wang Yangming
+3 Nagarjuna
+3 Shantideva
+3 Adi Shankara | Shankara
+3 Mahavira
+3 Guru Nanak | Nanak
+3 Swami Vivekananda | Vivekananda
+3 Rabindranath Tagore | Tagore
+3 B. R. Ambedkar | Ambedkar
+3 Zoroaster | Zarathustra
+4 Thales
+4 Democritus
+4 Antisthenes
+4 Aristippus
+4 Pyrrho
+4 Plotinus
+4 Boethius
+4 Anselm | Anselm of Canterbury
+4 Peter Abelard | Abelard
+4 Duns Scotus | John Duns Scotus
+4 William of Ockham | Ockham | Occam
+4 Erasmus | Desiderius Erasmus
+4 Michel de Montaigne | Montaigne
+4 Francis Bacon | Bacon
+4 Blaise Pascal | Pascal
+4 Gottfried Leibniz | Leibniz
+4 George Berkeley | Berkeley
+4 Montesquieu
+4 Denis Diderot | Diderot
+4 Francis Hutcheson | Hutcheson
+4 Joseph Butler | Bishop Butler
+4 Lord Shaftesbury | Shaftesbury
+4 Bernard Mandeville | Mandeville
+4 Thomas Reid | Reid
+4 William Paley | Paley
+4 William Godwin | Godwin
+4 Johann Gottlieb Fichte | Fichte
+4 Friedrich Schelling | Schelling
+4 Auguste Comte | Comte
+4 Herbert Spencer | Spencer
+4 Harriet Taylor Mill | Harriet Taylor
+4 F. H. Bradley | Bradley
+4 Peter Kropotkin | Kropotkin
+4 Mikhail Bakunin | Bakunin
+4 Pierre-Joseph Proudhon | Proudhon
+4 Max Weber | Weber
+4 Émile Durkheim | Durkheim | Emile Durkheim
+4 Max Scheler | Scheler
+4 Edmund Husserl | Husserl
+4 Karl Jaspers | Jaspers
+4 Gabriel Marcel | Marcel
+4 Maurice Merleau-Ponty | Merleau-Ponty
+4 Paul Ricoeur | Ricoeur
+4 Jacques Derrida | Derrida
+4 Theodor Adorno | Adorno
+4 Herbert Marcuse | Marcuse
+4 Hans Jonas | Jonas
+4 Richard Rorty | Rorty
+4 Hilary Putnam | Putnam
+4 John Finnis | Finnis
+4 Joseph Raz | Raz
+4 H. L. A. Hart | Hart | HLA Hart
+4 Lon Fuller | Fuller
+4 John Harsanyi | Harsanyi
+4 David Gauthier | Gauthier
+4 Christine Korsgaard | Korsgaard
+4 Onora O'Neill | O'Neill
+4 Susan Wolf | Wolf
+4 Shelly Kagan | Kagan
+4 Frances Kamm | Kamm
+4 Jeff McMahan | McMahan
+4 Peter Unger | Unger
+4 Rosalind Hursthouse | Hursthouse
+4 Michael Slote | Slote
+4 Julia Annas | Annas
+4 Simon Blackburn | Blackburn
+4 Allan Gibbard | Gibbard
+4 Charles Stevenson | Stevenson
+4 Richard Brandt | Brandt
+4 William Frankena | Frankena
+4 H. A. Prichard | Prichard
+4 John McDowell | McDowell
+4 Michael Walzer | Walzer
+4 Thomas Pogge | Pogge
+4 Virginia Held | Held
+4 Annette Baier | Baier
+4 Mary Midgley | Midgley
+4 Mary Warnock | Warnock
+4 Jonathan Glover | Glover
+4 Julian Savulescu | Savulescu
+4 Nick Bostrom | Bostrom
+4 Luciano Floridi | Floridi
+4 Tom Beauchamp | Beauchamp | James Childress | Childress
+4 Joseph Fletcher | Fletcher
+4 Norman Bowie | Bowie
+4 Thomas Donaldson | Donaldson
+4 Patricia Werhane | Werhane
+4 Robert Solomon | Solomon
+4 Manuel Velasquez | Velasquez
+4 Linda Treviño | Trevino | Treviño
+4 Clive Hamilton | Hamilton
+4 Hugh Mackay | Mackay
+4 Leslie Cannold | Cannold
+4 Genevieve Lloyd | Lloyd
+4 Moira Gatens | Gatens
+6 Yang Zhu | Yang Chu | Yangzi :: The ancient Chinese egoist who, Mencius complained, would not pluck out one hair from his body to benefit the whole world.
+6 Hipparchia | Hipparchia of Maroneia :: She gave up a rich family in about 325 BC to live on the streets of Athens as a Cynic philosopher with her husband Crates.
+5 Hypatia
+5 Carneades
+5 Chrysippus
+5 Panaetius
+5 Musonius Rufus
+5 Philo of Alexandria | Philo
+5 Pelagius
+5 Ibn Miskawayh | Miskawayh
+5 Ibn Tufail
+5 Christine de Pizan | de Pizan
+5 Francisco de Vitoria | Vitoria
+5 Francisco Suárez | Suarez
+5 Hugo Grotius | Grotius
+5 Samuel Pufendorf | Pufendorf
+5 Ralph Cudworth | Cudworth
+5 Richard Cumberland | Cumberland
+5 Samuel Clarke | Clarke
+5 Richard Price | Price
+5 Anne Conway | Conway
+5 Damaris Masham | Masham
+5 Catharine Macaulay | Macaulay
+5 Olympe de Gouges | de Gouges
+5 Sophie de Grouchy | de Grouchy
+5 Nishida Kitaro | Nishida
+5 Watsuji Tetsuro | Watsuji
+5 Kwasi Wiredu | Wiredu
+5 John Mbiti | Mbiti
+x Sigmund Freud | Freud | Carl Jung | Jung | Albert Einstein | Einstein | Charles Darwin | Darwin | Isaac Newton | Newton | Stephen Hawking | Hawking | Galileo :: A great mind, but known for science or psychology rather than ethics.
+x Philosopher | Thinker | Ethicist | Stoic | Stoics | Utilitarian | Greek | Greeks :: That is the job or the school. Name a person.
+x Shakespeare | Homer | Dante :: A poet first. Wise, but not usually shelved under ethics.

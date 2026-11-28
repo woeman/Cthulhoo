@@ -1,0 +1,187 @@
+id: ethics-scandals
+text: Name a company at the centre of a major scandal or collapse.
+flavor: The annual reports were glossy. Hold one to the light and you can still see what was underneath.
+rules: Any company or organisation whose name became shorthand for a scandal, a disaster of its own making or a notorious collapse.
+section: Cases
+---
+1 Enron
+1 Volkswagen | VW | Dieselgate | Volkswagen Group | Volkswagen emissions scandal
+1 FTX | FTX Trading | Alameda Research | Alameda
+1 Lehman Brothers | Lehman
+1 Facebook | Meta | Cambridge Analytica | Facebook Cambridge Analytica
+1 Boeing | 737 MAX | Boeing 737 MAX
+1 BP | British Petroleum | Deepwater Horizon | BP oil spill
+1 Qantas | Qantas Airways
+1 Optus | Singtel Optus
+2 Theranos
+2 WorldCom | Worldcom | MCI WorldCom
+2 Nike
+2 Nestlé | Nestle
+2 Wells Fargo
+2 Commonwealth Bank | CBA | CommBank | CommInsure | Commonwealth Financial Planning
+2 AMP | AMP Limited
+2 Crown Resorts | Crown | Crown Casino | Crown Melbourne
+2 Star Entertainment | The Star | Star Casino | Star Sydney
+2 PwC | PricewaterhouseCoopers | PwC Australia | Price Waterhouse Coopers
+2 Rio Tinto | Juukan Gorge
+2 James Hardie | James Hardie Industries | Hardie
+2 Westpac
+2 NAB | National Australia Bank
+2 ANZ
+2 7-Eleven | 7 Eleven | Seven Eleven | 7-Eleven Australia
+2 Medibank | Medibank Private
+2 Purdue Pharma | Purdue | Sackler | Sacklers
+2 Arthur Andersen | Andersen
+2 Bernard L. Madoff Investment Securities | Madoff | Madoff Investment Securities | Madoff Securities
+2 Exxon | ExxonMobil | Exxon Valdez
+2 Wirecard
+2 HIH | HIH Insurance
+2 Woolworths | Coles | Woolies
+2 Johnson & Johnson | J&J | Johnson and Johnson
+2 Tobacco companies | Philip Morris | British American Tobacco | Big Tobacco | BAT | Altria
+3 Tyco | Tyco International
+3 One.Tel | OneTel | One Tel
+3 AWB | Australian Wheat Board | AWB Limited
+3 Storm Financial
+3 ABC Learning | ABC Learning Centres
+3 Babcock & Brown | Babcock and Brown
+3 Dick Smith | Dick Smith Electronics | Dick Smith Holdings
+3 Ansett | Ansett Australia
+3 Bond Corporation | Bond Corp
+3 Qintex
+3 Pyramid Building Society | Pyramid | Farrow Group
+3 Tricontinental | State Bank of Victoria
+3 Opes Prime
+3 Trio Capital | Astarra
+3 Centro | Centro Properties
+3 Sons of Gwalia
+3 Harris Scarfe
+3 Westpoint | Westpoint Corporation
+3 Great Southern | Timbercorp | Great Southern Plantations
+3 Dixon Advisory | Evans Dixon
+3 IOOF | Insignia
+3 Freedom Insurance
+3 SkyCity | SkyCity Adelaide
+3 Leighton Holdings | Leighton | CIMIC
+6 Securency | Note Printing Australia | NPA :: Two Reserve Bank of Australia subsidiaries that pleaded guilty in 2011 to conspiring to bribe foreign officials to win banknote printing contracts.
+3 BHP | Samarco | Ok Tedi | BHP Billiton
+3 Esso | Esso Longford | Longford
+3 Greensill | Greensill Capital
+3 Ardent Leisure | Dreamworld
+3 Bell Group | Bell Resources
+3 Rothwells
+3 Spedley | Spedley Securities
+3 Estate Mortgage
+3 Adsteam | Adelaide Steamship
+3 National Safety Council of Australia | NSCA
+6 Firepower | Firepower International :: An Australian firm that sold a pill said to slash fuel use, and sponsored the Sydney Kings and the Western Force. The pill did nothing. It collapsed in 2008.
+6 Bre-X | Bre-X Minerals | Bre X :: A Canadian miner worth billions on a gold find in Borneo. In 1997 its samples were found to be salted with gold dust, weeks after its geologist fell from a helicopter.
+3 Parmalat
+3 Satyam | Satyam Computer Services
+3 Olympus
+3 Toshiba
+3 Carillion
+3 Barings | Barings Bank
+3 BCCI | Bank of Credit and Commerce International
+3 Petrobras | Odebrecht
+3 1MDB | 1Malaysia Development Berhad
+3 Danske Bank
+3 Credit Suisse
+3 Archegos | Archegos Capital
+3 Luckin Coffee | Luckin
+3 Evergrande
+3 WeWork
+3 Nikola
+3 Juul | JUUL
+3 Takata
+3 Union Carbide | Bhopal | Dow Chemical
+3 Chisso | Minamata
+3 Grünenthal | Distillers | Thalidomide | Grunenthal
+3 Equifax
+3 Post Office | Fujitsu | Horizon | British Post Office
+3 Barclays | Libor
+3 Stanford Financial | Stanford International Bank
+3 MF Global
+3 Countrywide | Countrywide Financial
+3 Bear Stearns
+3 Northern Rock
+3 Royal Bank of Scotland | RBS
+3 Silicon Valley Bank | SVB
+3 Long-Term Capital Management | LTCM
+3 Kobe Steel
+3 Sanlu | Sanlu Group
+3 Valeant | Turing Pharmaceuticals | Mylan
+3 Nortel
+3 Adelphia | Adelphia Communications
+3 HealthSouth
+3 Global Crossing
+3 Qwest
+3 Sunbeam
+3 Bankers Trust
+3 Drexel Burnham Lambert | Drexel
+3 Salomon Brothers
+3 Lincoln Savings and Loan | Lincoln Savings
+3 Polly Peck
+3 Maxwell Communications | Mirror Group
+3 Equitable Life
+3 News of the World | News International | News Corp
+3 Thomas Cook
+3 BHS | British Home Stores
+3 Patisserie Valerie
+3 Rana Plaza | Primark | Benetton
+3 Chiquita | United Fruit | United Fruit Company
+3 East India Company | British East India Company | Dutch East India Company | VOC
+3 South Sea Company
+3 Mississippi Company
+3 IG Farben
+3 Hooker Chemical | Love Canal
+3 A. H. Robins | Dalkon Shield
+3 CSR | CSR Wittenoom | Wittenoom
+3 Binance | Terraform Labs | Terra | Celsius | Celsius Network | Mt Gox | Mt. Gox | BitConnect | OneCoin | Three Arrows Capital | 3AC | QuadrigaCX | Quadriga
+3 OceanGate
+3 Fyre Festival | Fyre | Fyre Media
+3 Weinstein Company | Miramax
+3 TEPCO | Fukushima | Tokyo Electric Power
+3 Peanut Corporation of America
+3 Mayfair 101 | Sterling First | LM Investment Management | Banksia Securities | Banksia | Fincorp | City Pacific | MFS | Octaviar | Allco | Allco Finance Group
+4 Uber
+4 Amazon
+4 Apple | Foxconn
+4 Google | Alphabet
+4 Samsung
+4 Shell | Royal Dutch Shell
+4 Chevron | Texaco
+4 Monsanto | Bayer
+4 DuPont | 3M
+4 Glencore
+4 Trafigura
+4 Tesco
+4 McKinsey | McKinsey & Company
+4 Goldman Sachs
+4 JPMorgan | JP Morgan | JPMorgan Chase
+4 Deutsche Bank
+4 HSBC
+4 Nissan
+4 Mitsubishi Motors | Mitsubishi
+4 General Motors | GM
+4 Ford | Ford Pinto | Firestone
+4 Halliburton | KBR
+4 Airbus
+4 BAE Systems | BAE
+4 Rolls-Royce
+4 Siemens
+4 Guinness
+4 FIFA
+4 Standard Oil
+4 Johns Manville | Johns-Manville
+4 AIG
+4 Vale | Brumadinho
+4 PG&E | Pacific Gas and Electric
+4 Tabcorp
+4 Latitude | Latitude Financial
+4 Activision Blizzard | Activision
+4 Carnival | Ruby Princess
+4 Thiess
+x Robodebt | Centrelink | Services Australia | ATO | Royal commission | Banking royal commission | Hayne royal commission | Watergate | Sports rorts | Pink batts | Home insulation program :: A government affair or an inquiry rather than a company.
+x Scandal | Fraud | Collapse | Company | Bank | Banks | The banks | Big four banks | Casinos | Oil companies | Big Pharma | Big Tech :: Which one? Name the company.
+x Bernie Madoff | Elizabeth Holmes | Sam Bankman-Fried | Alan Bond | Christopher Skase | Jordan Belfort | Rodney Adler | Charles Ponzi :: That is the person. Name the company that went down with them.

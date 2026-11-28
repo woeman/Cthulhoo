@@ -1,0 +1,135 @@
+id: ethics-fallacies
+text: Name a logical fallacy.
+flavor: The argument sounds perfect. That is how you know something has been taken out of it.
+rules: Any named error of reasoning or rhetorical trick, in English or in Latin.
+section: Critical thinking
+---
+1 Straw man | Strawman | Straw man argument | Straw person
+1 Ad hominem | Personal attack | Attacking the person | Argumentum ad hominem | Playing the man | Name-calling | Ad hom
+1 Slippery slope | Thin end of the wedge | Camel's nose | Domino fallacy
+1 Circular reasoning | Begging the question | Circular argument | Petitio principii | Circular logic | Circulus in probando
+1 False dilemma | False dichotomy | Either-or fallacy | Black-and-white thinking | False binary | Either/or | Black or white | False choice | Bifurcation | Excluded middle
+1 Appeal to authority | Argument from authority | Argumentum ad verecundiam | Authority
+1 Bandwagon | Appeal to popularity | Ad populum | Argumentum ad populum | Bandwagon fallacy | Appeal to the majority | Appeal to the people | Everyone does it | Appeal to common practice
+2 Red herring
+2 Hasty generalisation | Hasty generalization | Overgeneralisation | Generalisation | Sweeping generalisation | Overgeneralization | Jumping to conclusions | Generalization
+2 Post hoc | Post hoc ergo propter hoc | False cause | Correlation is not causation | Correlation implies causation | Cum hoc ergo propter hoc | Questionable cause | Correlation and causation | Causal fallacy | Correlation
+2 Appeal to emotion | Appeal to pity | Argumentum ad misericordiam | Appeal to fear | Scare tactics | Emotional appeal
+2 Whataboutism | Tu quoque | You too | Appeal to hypocrisy | Whataboutery | Two wrongs make a right | Two wrongs
+2 No true Scotsman | No true Scotsman fallacy | Appeal to purity
+2 Sunk cost fallacy | Sunk cost | Concorde fallacy
+2 Gambler's fallacy | Monte Carlo fallacy | Gamblers fallacy
+2 Appeal to nature | Naturalistic fallacy | Natural is good
+2 Appeal to tradition | Argumentum ad antiquitatem | We've always done it this way
+2 Appeal to ignorance | Argument from ignorance | Argumentum ad ignorantiam | Burden of proof | Shifting the burden of proof
+2 Cherry picking | Cherry-picking | Confirmation bias | Suppressed evidence | Selective evidence | Card stacking | Texas sharpshooter | Texas sharpshooter fallacy
+2 False equivalence | False analogy | Weak analogy | Faulty analogy | False comparison | Apples and oranges
+2 Loaded question | Complex question | Leading question
+2 Anecdotal evidence | Anecdotal fallacy | Anecdote | Misleading vividness
+2 Moving the goalposts | Shifting the goalposts | Moving the goal posts
+2 Equivocation | Ambiguity | Amphiboly
+2 Non sequitur | Does not follow
+2 Guilt by association | Association fallacy | Honour by association | Reductio ad Hitlerum | Playing the Nazi card
+2 Genetic fallacy | Appeal to origin
+3 Composition | Fallacy of composition
+3 Division | Fallacy of division
+3 Affirming the consequent | Converse error
+3 Denying the antecedent | Inverse error
+3 Undistributed middle | Fallacy of the undistributed middle
+3 Middle ground | Argument to moderation | False compromise | Golden mean fallacy | Argumentum ad temperantiam | Fallacy of the middle
+3 Appeal to consequences | Argumentum ad consequentiam | Wishful thinking
+3 Appeal to novelty | Argumentum ad novitatem | Chronological snobbery
+3 Appeal to force | Argumentum ad baculum | Appeal to the stick
+3 Appeal to wealth | Argumentum ad crumenam | Appeal to poverty | Argumentum ad lazarum
+3 Appeal to flattery | Appeal to vanity
+3 Appeal to ridicule | Appeal to mockery | Horse laugh
+3 Appeal to spite
+3 Appeal to incredulity | Argument from incredulity | Personal incredulity
+3 Appeal to the stone | Argumentum ad lapidem
+3 Argument from silence | Argumentum ex silentio
+3 Argument by repetition | Argumentum ad nauseam | Ad nauseam | Proof by assertion
+3 Poisoning the well
+3 Special pleading
+3 Fallacy fallacy | Argument from fallacy
+3 Nirvana fallacy | Perfect solution fallacy
+3 Is-ought fallacy | Is-ought problem | Moralistic fallacy
+3 Ecological fallacy
+3 Base rate fallacy | Base rate neglect | Prosecutor's fallacy
+3 Conjunction fallacy
+3 Hot hand fallacy | Hot hand
+3 Survivorship bias | Survivor bias
+3 Regression fallacy
+3 Single cause fallacy | Oversimplification | Causal oversimplification | Reductionism
+3 Reification | Hypostatisation | Misplaced concreteness
+3 Continuum fallacy | Sorites paradox | Fallacy of the beard | Line-drawing fallacy
+3 Etymological fallacy
+3 Quoting out of context | Contextomy | Quote mining
+3 Gish gallop
+3 Motte and bailey | Motte-and-bailey
+3 Kafkatrapping | Kafka trap
+6 Bulverism :: C. S. Lewis's name for explaining why someone is wrong without first showing that they are. He invented Ezekiel Bulver, aged five, to found it.
+3 Ipse dixit | Bare assertion
+3 Tone policing
+3 Proof by example | Inappropriate generalisation
+3 Accident | Fallacy of accident | Dicto simpliciter
+3 Converse accident
+3 Ignoratio elenchi | Irrelevant conclusion | Missing the point
+3 Thought-terminating cliché | Thought-terminating cliche
+3 Sealioning
+3 Just asking questions | JAQing off
+3 Nut-picking | Nutpicking | Weak man
+3 Broken window fallacy | Parable of the broken window
+3 Lump of labour fallacy | Lump of labor
+3 Zero-sum fallacy | Fixed pie fallacy
+3 Planning fallacy
+3 Historian's fallacy | Presentism
+3 Pathetic fallacy
+3 Intentional fallacy
+3 Masked-man fallacy | Masked man
+3 Homunculus fallacy
+3 Ludic fallacy
+6 McNamara fallacy | Quantitative fallacy :: Deciding by numbers alone and ignoring what can't be counted. Named for the US defence secretary who measured the Vietnam War in body counts.
+3 Mind projection fallacy
+3 Psychologist's fallacy
+3 Inflation of conflict
+6 If-by-whiskey | If by whiskey :: Named for a 1952 speech by Mississippi's Noah Sweat, who was firmly for whiskey and firmly against it, depending on what you meant by whiskey.
+3 Courtier's reply
+3 Appeal to accomplishment
+3 Appeal to motive | Circumstantial ad hominem | Bias fallacy
+3 Appeal to the law | Legalistic fallacy
+3 Relative privation | Not as bad as | First world problems | Appeal to worse problems
+3 Vacuous truth
+3 Furtive fallacy
+3 Wrong direction | Reverse causation
+3 Spotlight fallacy
+3 Overwhelming exception
+3 Retrospective determinism
+3 Shotgun argumentation
+3 Proof by intimidation | Proof by verbosity
+3 Incomplete comparison | Inconsistent comparison
+3 False attribution
+3 Definist fallacy | Persuasive definition
+3 Double counting
+3 Fallacy of four terms | Quaternio terminorum
+3 Illicit major | Illicit minor
+3 Existential fallacy
+3 Affirming a disjunct
+3 Denying a conjunct
+3 Modal fallacy
+4 Secundum quid
+4 Plurium interrogationum
+4 Ignotum per ignotius
+4 Obscurum per obscurius
+4 Argumentum ad invidiam
+4 Argumentum ad odium
+4 Argumentum ad metum
+4 Argumentum ad captandum
+4 Argumentum ad passiones
+4 Argumentum ad superbiam
+4 Argumentum ad judicium
+4 Argumentum ad logicam
+4 Argumentum e contrario
+4 Onus probandi
+x Bias | Lie | Lying | Opinion | Mistake | Error | Assumption | Exaggeration | Hyperbole | Sarcasm | Irony | Metaphor | Paradox | Oxymoron :: Not quite. A fallacy is a named flaw in the reasoning itself.
+x Fallacy | Fallacies | Logical fallacy | Bad logic | Bad argument | Informal fallacy | Formal fallacy :: Which one? Give the fallacy its name.
+x Modus ponens | Modus tollens | Syllogism | Deduction | Induction | Reductio ad absurdum | Occam's razor :: That one is sound reasoning. Name a way reasoning goes wrong.
