@@ -719,12 +719,25 @@ a.btn {
   height: 1.5em;
 }
 
-/* A returning diver's title carries the career as well: less air above the
-   crest on a phone, so the ways down (the descent, the riddle, the séance) stay
-   on the first screen. */
+/* A phone: less air above the crest and a little less in each way down, so
+   the four of them and the row beneath stay on the first screen. A returning
+   diver's title carries the career as well, and gives up the rest of the air. */
 @media (max-height: 940px) and (max-width: 639px) {
+  .title-screen {
+    padding-top: var(--space-4);
+  }
+
   .title-screen.has-career {
     padding-top: var(--space-1);
+  }
+
+  .title-screen .title-actions {
+    gap: var(--space-2);
+  }
+
+  .title-screen .mode-btn {
+    min-height: 52px;
+    padding-block: var(--space-1);
   }
 }
 
