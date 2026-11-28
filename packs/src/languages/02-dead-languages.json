@@ -1,0 +1,3311 @@
+{
+ "id": "languages-dead-languages",
+ "text": "Name a dead or extinct language.",
+ "category": "language",
+ "flavor": "Words nobody speaks any more, carved into stone and clay. Some of them may still be listening.",
+ "rules": "Any language with no native speakers left, ancient or recent. Revived languages count if they died out first, like Cornish.",
+ "answers": [
+  {
+   "answer": "Latin",
+   "aliases": [
+    "Classical Latin",
+    "Vulgar Latin",
+    "Old Latin",
+    "Late Latin",
+    "Medieval Latin",
+    "Ecclesiastical Latin",
+    "Church Latin",
+    "Lingua Latina",
+    "Latine",
+    "Neo-Latin",
+    "New Latin",
+    "Renaissance Latin",
+    "Archaic Latin",
+    "Early Latin",
+    "Golden Age Latin",
+    "Silver Latin",
+    "Imperial Latin",
+    "Ancient Latin",
+    "Roman Latin",
+    "Ancient Roman",
+    "Latin language"
+   ],
+   "tier": 1,
+   "lore": "Dead, though the Vatican still writes in it, and one of its cash machines offered instructions in Latin."
+  },
+  {
+   "answer": "Ancient Greek",
+   "aliases": [
+    "Classical Greek",
+    "Attic Greek",
+    "Homeric Greek",
+    "Koine Greek",
+    "Koine",
+    "Hellenistic Greek",
+    "Biblical Greek",
+    "Doric Greek",
+    "Old Greek",
+    "Archaic Greek",
+    "Aeolic Greek",
+    "Ionic Greek",
+    "Epic Greek",
+    "New Testament Greek",
+    "Arcadocypriot Greek",
+    "Greek (ancient)",
+    "Ancient Greek language",
+    "Hellenistic Koine"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Sanskrit",
+   "aliases": [
+    "Vedic Sanskrit",
+    "Vedic",
+    "Classical Sanskrit",
+    "Samskrita",
+    "Samskritam",
+    "Sanskrut",
+    "Sanscrit",
+    "Ancient Sanskrit",
+    "Old Indo-Aryan",
+    "Sanskrit language"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Old English",
+   "aliases": [
+    "Anglo-Saxon",
+    "Englisc",
+    "Saxon",
+    "Ancient English",
+    "Old Anglo-Saxon",
+    "Anglo-Saxon English",
+    "Old English language"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ancient Egyptian",
+   "aliases": [
+    "Egyptian",
+    "Middle Egyptian",
+    "Old Egyptian",
+    "Late Egyptian",
+    "Demotic",
+    "Pharaonic Egyptian",
+    "Classical Egyptian",
+    "Egyptian language",
+    "Old Egyptian language",
+    "Ancient Egyptian language"
+   ],
+   "tier": 1,
+   "lore": "Cracked in 1822 by Champollion, using the Rosetta Stone."
+  },
+  {
+   "answer": "Cornish",
+   "aliases": [
+    "Kernewek",
+    "Kernowek",
+    "Old Cornish",
+    "Middle Cornish",
+    "Cornish language"
+   ],
+   "tier": 2,
+   "lore": "Dolly Pentreath, who died in 1777, is often called its last native speaker. It has since been revived."
+  },
+  {
+   "answer": "Manx",
+   "aliases": [
+    "Manx Gaelic",
+    "Gaelg",
+    "Gailck",
+    "Manx language"
+   ],
+   "tier": 2,
+   "lore": "Its last native speaker, Ned Maddrell, died in 1974. It has since been revived."
+  },
+  {
+   "answer": "Sumerian",
+   "aliases": [
+    "Emegir",
+    "Emesal",
+    "Ancient Sumerian",
+    "Sumerian language"
+   ],
+   "tier": 2,
+   "lore": "One of the first languages ever written down, pressed into clay over 5,000 years ago."
+  },
+  {
+   "answer": "Etruscan",
+   "aliases": [
+    "Etrurian",
+    "Rasenna",
+    "Ancient Etruscan",
+    "Etruscan language"
+   ],
+   "tier": 2,
+   "lore": "We can read its letters, but understand only a few hundred of its words."
+  },
+  {
+   "answer": "Old Norse",
+   "aliases": [
+    "Norse",
+    "Old Icelandic",
+    "Old Norwegian",
+    "Old West Norse",
+    "Old East Norse",
+    "Old Nordic",
+    "Ancient Norse",
+    "Norrœnt",
+    "Old Scandinavian",
+    "Old Norse language"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Middle English",
+   "aliases": [
+    "Chaucerian English",
+    "Chaucer's English",
+    "Medieval English",
+    "Middle English language"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Akkadian",
+   "aliases": [
+    "Babylonian",
+    "Old Assyrian",
+    "Old Babylonian",
+    "Assyrian",
+    "Neo-Assyrian",
+    "Middle Assyrian",
+    "Neo-Babylonian",
+    "Middle Babylonian",
+    "Standard Babylonian",
+    "Old Akkadian",
+    "Assyro-Babylonian",
+    "Accadian",
+    "Ancient Assyrian",
+    "Ancient Babylonian",
+    "Ancient Akkadian",
+    "Akkadian language"
+   ],
+   "tier": 2,
+   "lore": "The language of Hammurabi's laws and of the Epic of Gilgamesh."
+  },
+  {
+   "answer": "Hittite",
+   "aliases": [
+    "Nesite",
+    "Nesili",
+    "Neshili",
+    "Kanesian",
+    "Ancient Hittite",
+    "Hittite language"
+   ],
+   "tier": 2,
+   "lore": "Forgotten for 3,000 years, until clay tablets in Turkey revealed the oldest written Indo-European language."
+  },
+  {
+   "answer": "Coptic",
+   "aliases": [
+    "Sahidic",
+    "Bohairic",
+    "Sahidic Coptic",
+    "Bohairic Coptic",
+    "Coptic Egyptian",
+    "Coptic language"
+   ],
+   "tier": 2,
+   "lore": "The last stage of Egyptian, still heard in the services of the Coptic Church."
+  },
+  {
+   "answer": "Gothic",
+   "aliases": [
+    "Visigothic",
+    "Ostrogothic",
+    "Biblical Gothic",
+    "Ancient Gothic",
+    "Gothic language"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phoenician",
+   "aliases": [
+    "Canaanite",
+    "Ancient Phoenician",
+    "Phoenician language"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Hebrew",
+   "aliases": [
+    "Hebrew language"
+   ],
+   "tier": 2,
+   "lore": "Nobody's mother tongue for some 1,700 years, until Eliezer Ben-Yehuda raised his son in it in 1880s Jerusalem."
+  },
+  {
+   "answer": "Old Church Slavonic",
+   "aliases": [
+    "Old Slavonic",
+    "Church Slavonic",
+    "Old Bulgarian",
+    "Old Slavic",
+    "OCS",
+    "Church Slavic",
+    "Old Church Slavic",
+    "Ancient Slavic",
+    "Old Slavonic language",
+    "Old Church Slavonic language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Old French",
+   "aliases": [
+    "Medieval French",
+    "Ancien français",
+    "Ancient French",
+    "Old French language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Old Irish",
+   "aliases": [
+    "Old Gaelic",
+    "Early Irish",
+    "Ancient Irish",
+    "Ancient Gaelic",
+    "Old Irish language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pictish",
+   "aliases": [
+    "Pictish language"
+   ],
+   "tier": 3,
+   "lore": "So little survives that scholars argued for a century over whether it was even Celtic."
+  },
+  {
+   "answer": "Gaulish",
+   "aliases": [
+    "Gallic",
+    "Gaulic",
+    "Ancient Celtic",
+    "Old Celtic",
+    "Continental Celtic",
+    "Cisalpine Gaulish",
+    "Transalpine Gaulish",
+    "Gaulish Celtic",
+    "Gaulish language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pali",
+   "aliases": [
+    "Pāli language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mycenaean Greek",
+   "aliases": [
+    "Mycenaean",
+    "Mycenean Greek",
+    "Mycenaean language",
+    "Mycenaean Greek language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Minoan",
+   "aliases": [
+    "Minoan language",
+    "Linear A language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ugaritic",
+   "aliases": [
+    "Ugaritian",
+    "Ugaritic language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Punic",
+   "aliases": [
+    "Carthaginian",
+    "Neo-Punic",
+    "Phoenicio-Punic",
+    "Phoenico-Punic",
+    "Ancient Carthaginian",
+    "Punic language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Elamite",
+   "aliases": [
+    "Elamian",
+    "Elamitic",
+    "Susian",
+    "Achaemenid Elamite",
+    "Elamite language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hurrian",
+   "aliases": [
+    "Hurrite",
+    "Mitannian",
+    "Hurri",
+    "Hurrian language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ancient Hebrew",
+   "aliases": [
+    "Biblical Hebrew",
+    "Classical Hebrew",
+    "Mishnaic Hebrew",
+    "Old Hebrew",
+    "Archaic Hebrew",
+    "Paleo-Hebrew",
+    "Rabbinic Hebrew",
+    "Medieval Hebrew",
+    "Samaritan Hebrew",
+    "Hebrew of the Bible",
+    "Ancient Hebrew language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Classical Aramaic",
+   "aliases": [
+    "Biblical Aramaic",
+    "Old Aramaic",
+    "Ancient Aramaic",
+    "Imperial Aramaic",
+    "Official Aramaic",
+    "Galilean Aramaic",
+    "Jewish Palestinian Aramaic",
+    "Jewish Babylonian Aramaic",
+    "Talmudic Aramaic",
+    "Targumic Aramaic",
+    "Achaemenid Aramaic",
+    "Old Aramic",
+    "Ancient Aramic",
+    "Classical Aramic",
+    "Biblical Aramic",
+    "Old Arameic",
+    "Classical Aramaic language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Proto-Indo-European",
+   "aliases": [
+    "PIE",
+    "Indo-European",
+    "Proto-IE",
+    "PIE language",
+    "Proto Indo European language",
+    "Indo-European language",
+    "Proto-Indo-Europeans"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ottoman Turkish",
+   "aliases": [
+    "Ottoman",
+    "Osmanli",
+    "Osmanlıca",
+    "Lisan-i Osmani",
+    "Old Turkish",
+    "Ottoman language",
+    "Ottoman Turkish language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Anglo-Norman",
+   "aliases": [
+    "Anglo-French",
+    "Law French",
+    "Norman French",
+    "Anglo-Norman French",
+    "Anglo-Norman language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Old Chinese",
+   "aliases": [
+    "Archaic Chinese",
+    "Ancient Chinese",
+    "Old Sinitic",
+    "Old Chinese language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Middle Persian",
+   "aliases": [
+    "Pahlavi",
+    "Pehlevi",
+    "Pahlavi language",
+    "Sasanian Persian",
+    "Sassanid Persian",
+    "Book Pahlavi",
+    "Parsik",
+    "Middle Persian language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Medieval Greek",
+   "aliases": [
+    "Byzantine Greek",
+    "Middle Greek",
+    "Medieval Greek language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Classic Maya",
+   "aliases": [
+    "Classic Mayan",
+    "Ancient Maya",
+    "Ancient Mayan",
+    "Classical Maya",
+    "Classical Mayan",
+    "Classic Mayan language",
+    "Old Maya",
+    "Epigraphic Maya",
+    "Classic Ch'olti'an",
+    "Classic Maya language"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cumbric",
+   "aliases": [
+    "Cumbrian",
+    "Cumbrian Brittonic",
+    "Cumbric language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Norn",
+   "aliases": [
+    "Orkney Norn",
+    "Shetland Norn",
+    "Norn language"
+   ],
+   "tier": 4,
+   "lore": "Spoken in Orkney and Shetland until the 1700s or 1800s, a descendant of the Vikings' Norse."
+  },
+  {
+   "answer": "Celtiberian",
+   "aliases": [
+    "Hispano-Celtic",
+    "Celtiberic",
+    "Celtiberian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Oscan",
+   "aliases": [
+    "Samnite",
+    "Oscan language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Umbrian",
+   "aliases": [
+    "Umbrian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Luwian",
+   "aliases": [
+    "Luvian",
+    "Hieroglyphic Luwian",
+    "Cuneiform Luwian",
+    "Luwish",
+    "Luwian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lycian",
+   "aliases": [
+    "Lycian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Phrygian",
+   "aliases": [
+    "Phrygian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thracian",
+   "aliases": [
+    "Ancient Thracian",
+    "Daco-Thracian",
+    "Thracian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Illyrian",
+   "aliases": [
+    "Ancient Illyrian",
+    "Illyrian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Urartian",
+   "aliases": [
+    "Vannic",
+    "Chaldian",
+    "Haldian",
+    "Urartean",
+    "Urartian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sogdian",
+   "aliases": [
+    "Sogdic",
+    "Sogdian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tocharian",
+   "aliases": [
+    "Tocharian A",
+    "Tocharian B",
+    "Tokharian",
+    "Agnean",
+    "Kuchean",
+    "Tocharic",
+    "Turfanian",
+    "Tocharian language"
+   ],
+   "tier": 4,
+   "lore": "Found in Buddhist texts in the deserts of western China, yet related to European languages."
+  },
+  {
+   "answer": "Prakrit",
+   "aliases": [
+    "Prakrits",
+    "Maharashtri",
+    "Shauraseni",
+    "Ardhamagadhi",
+    "Magadhi Prakrit",
+    "Middle Indo-Aryan",
+    "Prakrit language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Prussian",
+   "aliases": [
+    "Prussian",
+    "Baltic Prussian",
+    "Old Prussian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old High German",
+   "aliases": [
+    "Althochdeutsch",
+    "OHG",
+    "Old High German language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frankish",
+   "aliases": [
+    "Old Frankish",
+    "Frankonian",
+    "Frankish language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ubykh",
+   "aliases": [
+    "Ubyx",
+    "Pekhi",
+    "Oubykh",
+    "Ubyk",
+    "Ubykh language"
+   ],
+   "tier": 4,
+   "lore": "Had around 80 consonants and only two or three vowels. Its last fluent speaker died in 1992."
+  },
+  {
+   "answer": "Taíno",
+   "aliases": [
+    "Classic Taíno",
+    "Taino language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Avestan",
+   "aliases": [
+    "Zend",
+    "Old Avestan",
+    "Young Avestan",
+    "Gathic Avestan",
+    "Avesta",
+    "Zend-Avesta",
+    "Avestan language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Persian",
+   "aliases": [
+    "Achaemenid Persian",
+    "Ancient Persian",
+    "Old Iranian Persian",
+    "Old Persian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Geʽez",
+   "aliases": [
+    "Ethiopic",
+    "Gi'iz",
+    "Classical Ethiopic",
+    "Old Ethiopic",
+    "Ancient Ethiopian",
+    "Ethiopic language",
+    "Geʽez language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dalmatian",
+   "aliases": [
+    "Vegliot",
+    "Ragusan",
+    "Dalmatic",
+    "Dalmatian Romance",
+    "Dalmatian language"
+   ],
+   "tier": 4,
+   "lore": "Its last speaker, Tuone Udaina, was killed by a roadworks explosion in 1898."
+  },
+  {
+   "answer": "Classical Syriac",
+   "aliases": [
+    "Syriac",
+    "Old Syriac",
+    "Edessan Aramaic",
+    "Syriac Aramaic",
+    "Ancient Syriac",
+    "Classical Syriac language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Classical Arabic",
+   "aliases": [
+    "Quranic Arabic",
+    "Koranic Arabic",
+    "Old Arabic",
+    "Pre-Islamic Arabic",
+    "Fusha",
+    "Ancient Arabic",
+    "Classical Arabic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Chinese",
+   "aliases": [
+    "Middle Chinese language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Classical Chinese",
+   "aliases": [
+    "Literary Chinese",
+    "Wenyan",
+    "Wenyanwen",
+    "Classical Literary Chinese",
+    "Classical Chinese language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Livonian",
+   "aliases": [
+    "Liv",
+    "Livõ",
+    "Livonian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Scythian",
+   "aliases": [
+    "Scytho-Sarmatian",
+    "Scythic",
+    "Ancient Scythian",
+    "Scythian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Parthian",
+   "aliases": [
+    "Arsacid Pahlavi",
+    "Pahlavanig",
+    "Parthian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Japanese",
+   "aliases": [
+    "Ancient Japanese",
+    "Archaic Japanese",
+    "Jōdai Japanese",
+    "Nara Japanese",
+    "Old Japanese language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Meroitic",
+   "aliases": [
+    "Meroitic Kushite",
+    "Meroitic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Guanche",
+   "aliases": [
+    "Old Canarian",
+    "Canarian Berber",
+    "Guanche Berber",
+    "Guanche language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iberian",
+   "aliases": [
+    "Ancient Iberian",
+    "Iberic",
+    "Northeastern Iberian",
+    "Iberian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ancient Macedonian",
+   "aliases": [
+    "Ancient Macedonian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mozarabic",
+   "aliases": [
+    "Andalusi Romance",
+    "Mozarab",
+    "Mozarabic Romance",
+    "Mozarabic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Beothuk",
+   "aliases": [
+    "Beothuk language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wampanoag",
+   "aliases": [
+    "Massachusett",
+    "Natick",
+    "Massachusett-Wampanoag",
+    "Wôpanâak",
+    "Wampanoag language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chagatai",
+   "aliases": [
+    "Chaghatay",
+    "Chagatay",
+    "Jagatai",
+    "Chaghatai",
+    "Turki",
+    "Chagatai Turkic",
+    "Chagatai language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Turkic",
+   "aliases": [
+    "Orkhon Turkic",
+    "Göktürk",
+    "Old Turkic language",
+    "Ancient Turkish",
+    "Kök-Türk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle High German",
+   "aliases": [
+    "Mittelhochdeutsch",
+    "MHG",
+    "Middle High German language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Irish",
+   "aliases": [
+    "Middle Irish language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle French",
+   "aliases": [
+    "Middle French language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Welsh",
+   "aliases": [
+    "Ancient Welsh",
+    "Old Welsh language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Spanish",
+   "aliases": [
+    "Old Castilian",
+    "Medieval Spanish",
+    "Medieval Castilian",
+    "Ancient Spanish",
+    "Old Spanish language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Portuguese",
+   "aliases": [
+    "Galician-Portuguese",
+    "Galaico-Portuguese",
+    "Old Galician",
+    "Medieval Galician",
+    "Medieval Portuguese",
+    "Old Portuguese language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Occitan",
+   "aliases": [
+    "Old Provençal",
+    "Troubadour Occitan",
+    "Medieval Occitan",
+    "Old Occitan language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Dutch",
+   "aliases": [
+    "Old Low Franconian",
+    "Old Netherlandic",
+    "Old Flemish",
+    "Old Dutch language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Dutch",
+   "aliases": [
+    "Diets",
+    "Dietsc",
+    "Medieval Dutch",
+    "Middle Dutch language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Low German",
+   "aliases": [
+    "Hanseatic German",
+    "Mittelniederdeutsch",
+    "Middle Low German language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Frisian",
+   "aliases": [
+    "Ancient Frisian",
+    "Old Frisian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old East Slavic",
+   "aliases": [
+    "Old Russian",
+    "Old East Slavonic",
+    "Old Rus",
+    "Old Rusian",
+    "Ancient Russian",
+    "Old Ukrainian",
+    "Old Belarusian",
+    "Kievan Rus language",
+    "Old East Slavic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Middle Scots",
+   "aliases": [
+    "Early Scots",
+    "Older Scots",
+    "Old Scots",
+    "Middle Scots language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Early Modern English",
+   "aliases": [
+    "Elizabethan English",
+    "Shakespearean English",
+    "Shakespeare's English",
+    "Jacobean English",
+    "Tudor English",
+    "King James English",
+    "Renaissance English",
+    "Early Modern English language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Classical Armenian",
+   "aliases": [
+    "Grabar",
+    "Old Armenian",
+    "Ancient Armenian",
+    "Classical Armenian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Classical Tibetan",
+   "aliases": [
+    "Literary Tibetan",
+    "Old Tibetan",
+    "Ancient Tibetan",
+    "Classical Tibetan language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Classical Nahuatl",
+   "aliases": [
+    "Old Nahuatl",
+    "Aztec Nahuatl",
+    "Ancient Nahuatl",
+    "Classical Aztec",
+    "Ancient Aztec",
+    "Classical Nahuatl language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Tupi",
+   "aliases": [
+    "Tupinambá",
+    "Tupi",
+    "Tupi antigo",
+    "Classical Tupi",
+    "Old Tupi language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Common Brittonic",
+   "aliases": [
+    "Common Brythonic",
+    "Brittonic",
+    "Brythonic",
+    "Old British",
+    "Ancient British",
+    "British Celtic",
+    "Proto-Brittonic",
+    "Proto-Brythonic",
+    "Common Brittonic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Proto-Germanic",
+   "aliases": [
+    "Common Germanic",
+    "Ancient Germanic",
+    "Primitive Germanic",
+    "Proto-Germanic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Proto-Celtic",
+   "aliases": [
+    "Common Celtic",
+    "Proto-Celtic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Proto-Slavic",
+   "aliases": [
+    "Common Slavic",
+    "Proto-Slavonic",
+    "Common Slavonic",
+    "Proto-Slavic language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Proto-Norse",
+   "aliases": [
+    "Primitive Norse",
+    "Ancient Nordic",
+    "Runic Norse",
+    "Proto-Nordic",
+    "Proto-Scandinavian",
+    "Proto-Norse language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mediterranean Lingua Franca",
+   "aliases": [
+    "Lingua Franca",
+    "Sabir",
+    "Petit Mauresque",
+    "Mediterranean Lingua Franca language"
+   ],
+   "tier": 4,
+   "lore": "A pidgin of mostly Italian and Spanish words, used by sailors, traders and captives around the Mediterranean for centuries."
+  },
+  {
+   "answer": "Tasmanian",
+   "aliases": [
+    "Tasmanian Aboriginal",
+    "Tasmanian languages",
+    "Palawa kani",
+    "Palawa",
+    "Tasmanian Aboriginal languages",
+    "Tasmanian language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sakhalin Ainu",
+   "aliases": [
+    "Ainu",
+    "Karafuto Ainu",
+    "Ainu language",
+    "Sakhalin Ainu language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Old Yiddish",
+   "aliases": [
+    "Early Yiddish",
+    "Old Yiddish language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Faliscan",
+   "aliases": [
+    "Faliscan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Messapic",
+   "aliases": [
+    "Messapian",
+    "Messapic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Venetic",
+   "aliases": [
+    "Venetic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lepontic",
+   "aliases": [
+    "Lepontic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Raetic",
+   "aliases": [
+    "Rhaetian",
+    "Rhaetic",
+    "Raetian",
+    "Raetic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lydian",
+   "aliases": [
+    "Ancient Lydian",
+    "Lydian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dacian",
+   "aliases": [
+    "Ancient Dacian",
+    "Dacian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moabite",
+   "aliases": [
+    "Moabitic",
+    "Moabite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Edomite",
+   "aliases": [
+    "Edomite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nabataean",
+   "aliases": [
+    "Nabatean",
+    "Nabataean Aramaic",
+    "Nabatean Aramaic",
+    "Nabataean language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bactrian",
+   "aliases": [
+    "Bactrian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khotanese",
+   "aliases": [
+    "Khotanese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tangut",
+   "aliases": [
+    "Xixia",
+    "Hsi-hsia",
+    "Western Xia",
+    "Tangut Xia",
+    "Tangut language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khitan",
+   "aliases": [
+    "Kitan",
+    "Qidan",
+    "Khitai",
+    "Khitan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jurchen",
+   "aliases": [
+    "Jurchin",
+    "Jurched",
+    "Nüzhen",
+    "Jurchen language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mochica",
+   "aliases": [
+    "Muchik",
+    "Yunga",
+    "Moche",
+    "Mochica language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yahgan",
+   "aliases": [
+    "Yaghan",
+    "Yámana",
+    "Yagan",
+    "Yahgan language"
+   ],
+   "tier": 5,
+   "lore": "Its last native speaker, Cristina Calderón, died in Chile in 2022."
+  },
+  {
+   "answer": "Eyak",
+   "aliases": [
+    "Eyak language"
+   ],
+   "tier": 5,
+   "lore": "Its last native speaker, Marie Smith Jones, died in Alaska in 2008."
+  },
+  {
+   "answer": "Polabian",
+   "aliases": [
+    "Drevani",
+    "Draväno-Polabian",
+    "Elbe Slavic",
+    "Polabian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Curonian",
+   "aliases": [
+    "Old Curonian",
+    "Curonian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yola",
+   "aliases": [
+    "Forth and Bargy",
+    "Forth and Bargy dialect",
+    "Yola language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Saxon",
+   "aliases": [
+    "Old Low German",
+    "Old Saxon language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Langobardic",
+   "aliases": [
+    "Lombardic",
+    "Lombard",
+    "Longobardic",
+    "Langobardic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vandalic",
+   "aliases": [
+    "Vandalic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Burgundian",
+   "aliases": [
+    "Burgundian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ammonite",
+   "aliases": [
+    "Ammonite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carian",
+   "aliases": [
+    "Carian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sidetic",
+   "aliases": [
+    "Sidetic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kassite",
+   "aliases": [
+    "Cassite",
+    "Kassite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amorite",
+   "aliases": [
+    "Amoritic",
+    "Amorite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cuman",
+   "aliases": [
+    "Kipchak",
+    "Cuman-Kipchak",
+    "Kuman",
+    "Polovtsian",
+    "Kipchak-Cuman",
+    "Cuman language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pecheneg",
+   "aliases": [
+    "Patzinak",
+    "Pecheneg language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hunnic",
+   "aliases": [
+    "Hunic",
+    "Hun language",
+    "Hunnic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galatian",
+   "aliases": [
+    "Galatian Celtic",
+    "Galatian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hattic",
+   "aliases": [
+    "Hattian",
+    "Hattili",
+    "Hattic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Palaic",
+   "aliases": [
+    "Palaic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eblaite",
+   "aliases": [
+    "Eblan",
+    "Eblaic",
+    "Eblaite language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sabaean",
+   "aliases": [
+    "Sabaic",
+    "Sabean",
+    "Old South Arabian",
+    "Ancient South Arabian",
+    "Epigraphic South Arabian",
+    "Sabaean language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tartessian",
+   "aliases": [
+    "Tartessian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lusitanian",
+   "aliases": [
+    "Lusitanian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kamassian",
+   "aliases": [
+    "Kamas",
+    "Kamassian Samoyed",
+    "Kamassian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Akkala Sami",
+   "aliases": [
+    "Babino Sami",
+    "Akkala Saami",
+    "Akkala",
+    "Akkala Sami language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chumash",
+   "aliases": [
+    "Barbareño",
+    "Ventureño",
+    "Obispeño",
+    "Ineseño",
+    "Purisimeño",
+    "Chumashan",
+    "Chumash language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Timucua",
+   "aliases": [
+    "Timucua language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tunica",
+   "aliases": [
+    "Tunica language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Klallam",
+   "aliases": [
+    "S'Klallam",
+    "Clallam",
+    "Klallam language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Javanese",
+   "aliases": [
+    "Kawi",
+    "Kawi language",
+    "Old Javanese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Middle Welsh",
+   "aliases": [
+    "Medieval Welsh",
+    "Middle Welsh language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Breton",
+   "aliases": [
+    "Old Breton language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Primitive Irish",
+   "aliases": [
+    "Ogham Irish",
+    "Archaic Irish",
+    "Primitive Irish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Catalan",
+   "aliases": [
+    "Old Catalan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Italian",
+   "aliases": [
+    "Old Tuscan",
+    "Medieval Italian",
+    "Old Italian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Swedish",
+   "aliases": [
+    "Runic Swedish",
+    "Old Swedish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Danish",
+   "aliases": [
+    "Runic Danish",
+    "Old Danish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Gutnish",
+   "aliases": [
+    "Old Gotlandic",
+    "Old Gutnish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ruthenian",
+   "aliases": [
+    "Old Ruthenian",
+    "Chancery Slavonic",
+    "Prosta mova",
+    "Ruthenian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Polish",
+   "aliases": [
+    "Old Polish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Czech",
+   "aliases": [
+    "Old Czech language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Novgorod dialect",
+   "aliases": [
+    "Old Novgorodian",
+    "Old Novgorod dialect language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Hungarian",
+   "aliases": [
+    "Ancient Hungarian",
+    "Old Hungarian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Georgian",
+   "aliases": [
+    "Classical Georgian",
+    "Ancient Georgian",
+    "Old Georgian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Tamil",
+   "aliases": [
+    "Sangam Tamil",
+    "Ancient Tamil",
+    "Old Tamil language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Korean",
+   "aliases": [
+    "Ancient Korean",
+    "Silla language",
+    "Old Korean language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Middle Korean",
+   "aliases": [
+    "Middle Korean language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Middle Japanese",
+   "aliases": [
+    "Early Middle Japanese",
+    "Late Middle Japanese",
+    "Heian Japanese",
+    "Middle Japanese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Classical Japanese",
+   "aliases": [
+    "Bungo",
+    "Literary Japanese",
+    "Bungo Japanese",
+    "Classical Japanese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Khmer",
+   "aliases": [
+    "Ancient Khmer",
+    "Angkorian Khmer",
+    "Old Khmer language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Mon",
+   "aliases": [
+    "Old Mon language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Burmese",
+   "aliases": [
+    "Old Burmese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Malay",
+   "aliases": [
+    "Ancient Malay",
+    "Old Malay language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Uyghur",
+   "aliases": [
+    "Old Uighur",
+    "Old Uyghur language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Middle Mongol",
+   "aliases": [
+    "Middle Mongolian",
+    "Middle Mongol language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Nubian",
+   "aliases": [
+    "Ancient Nubian",
+    "Medieval Nubian",
+    "Old Nubian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Anatolian Turkish",
+   "aliases": [
+    "Old Ottoman",
+    "Old Anatolian Turkish language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Classical Mandaic",
+   "aliases": [
+    "Mandaic",
+    "Mandaean Aramaic",
+    "Mandean",
+    "Classical Mandaic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Samaritan Aramaic",
+   "aliases": [
+    "Samaritan Aramaic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Palmyrene",
+   "aliases": [
+    "Palmyrene Aramaic",
+    "Palmyrene language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Andalusi Arabic",
+   "aliases": [
+    "Andalusian Arabic",
+    "Hispano-Arabic",
+    "Andalusi Arabic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Siculo-Arabic",
+   "aliases": [
+    "Sicilian Arabic",
+    "Siculo-Arabic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Russenorsk",
+   "aliases": [
+    "Russonorsk",
+    "Russenorsk language"
+   ],
+   "tier": 5,
+   "lore": "A pidgin of Russian and Norwegian, used for some 150 years by Russian traders and Norwegian fishermen in the Arctic."
+  },
+  {
+   "answer": "Negerhollands",
+   "aliases": [
+    "Virgin Islands Dutch Creole",
+    "Virgin Islands Creole Dutch",
+    "Negerhollands language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Berbice Dutch",
+   "aliases": [
+    "Berbice Creole Dutch",
+    "Berbice Dutch language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jersey Dutch",
+   "aliases": [
+    "Jersey Dutch language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Martha's Vineyard Sign Language",
+   "aliases": [
+    "MVSL",
+    "Chilmark Sign Language",
+    "Martha's Vineyard Sign"
+   ],
+   "tier": 5,
+   "lore": "Deafness was so common on the island that hearing people signed too. Its last signers died in the mid-1900s."
+  },
+  {
+   "answer": "Proto-Semitic",
+   "aliases": [
+    "Proto-Semitic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Uralic",
+   "aliases": [
+    "Proto-Uralic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Indo-Iranian",
+   "aliases": [
+    "Proto-Aryan",
+    "Proto-Indo-Iranian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Italic",
+   "aliases": [
+    "Proto-Italic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Greek",
+   "aliases": [
+    "Proto-Hellenic",
+    "Proto-Greek language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Austronesian",
+   "aliases": [
+    "Proto-Austronesian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Bantu",
+   "aliases": [
+    "Proto-Bantu language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Afroasiatic",
+   "aliases": [
+    "Proto-Hamito-Semitic",
+    "Proto-Afroasiatic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Turkic",
+   "aliases": [
+    "Proto-Turkic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Dravidian",
+   "aliases": [
+    "Proto-Dravidian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Sino-Tibetan",
+   "aliases": [
+    "Proto-Tibeto-Burman",
+    "Proto-Sino-Tibetan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Balto-Slavic",
+   "aliases": [
+    "Proto-Balto-Slavic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Algonquian",
+   "aliases": [
+    "Proto-Algonquian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Polynesian",
+   "aliases": [
+    "Proto-Polynesian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Mayan",
+   "aliases": [
+    "Proto-Mayan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Romance",
+   "aliases": [
+    "Proto-Romance language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Finnic",
+   "aliases": [
+    "Proto-Finnic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Japonic",
+   "aliases": [
+    "Proto-Japanese",
+    "Proto-Japonic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Basque",
+   "aliases": [
+    "Pre-Proto-Basque",
+    "Proto-Basque language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Anatolian",
+   "aliases": [
+    "Proto-Anatolian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Iranian",
+   "aliases": [
+    "Proto-Iranian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Baltic",
+   "aliases": [
+    "Proto-Baltic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Kartvelian",
+   "aliases": [
+    "Proto-Kartvelian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Mongolic",
+   "aliases": [
+    "Proto-Mongolic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Austroasiatic",
+   "aliases": [
+    "Proto-Austroasiatic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Uto-Aztecan",
+   "aliases": [
+    "Proto-Uto-Aztecan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Proto-Athabaskan",
+   "aliases": [
+    "Proto-Athabaskan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aquitanian",
+   "aliases": [
+    "Old Aquitanian",
+    "Aquitanian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ancient Ligurian",
+   "aliases": [
+    "Ligurian",
+    "Paleo-Ligurian",
+    "Ancient Ligurian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sicel",
+   "aliases": [
+    "Siculian",
+    "Sikel",
+    "Sicel language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Elymian",
+   "aliases": [
+    "Elymian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sicanian",
+   "aliases": [
+    "Sicanian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "South Picene",
+   "aliases": [
+    "Picene",
+    "Old Sabellic",
+    "South Picene language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "North Picene",
+   "aliases": [
+    "North Picene language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Volscian",
+   "aliases": [
+    "Volscian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marsian",
+   "aliases": [
+    "Marsian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sabine",
+   "aliases": [
+    "Sabine language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paelignian",
+   "aliases": [
+    "Paelignian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Noric",
+   "aliases": [
+    "Noric language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gallaecian",
+   "aliases": [
+    "Gallaecian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paeonian",
+   "aliases": [
+    "Paeonian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mysian",
+   "aliases": [
+    "Mysian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pisidian",
+   "aliases": [
+    "Pisidian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Milyan",
+   "aliases": [
+    "Milyan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Liburnian",
+   "aliases": [
+    "Liburnian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eteocypriot",
+   "aliases": [
+    "Eteocyprian",
+    "Eteocypriot language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lemnian",
+   "aliases": [
+    "Lemnian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Camunic",
+   "aliases": [
+    "Camunic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sarmatian",
+   "aliases": [
+    "Sarmatian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alanic",
+   "aliases": [
+    "Alanian",
+    "Alan language",
+    "Alanic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khazar",
+   "aliases": [
+    "Khazarian",
+    "Khazar language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bulgar",
+   "aliases": [
+    "Volga Bulgar",
+    "Volga Bulgarian",
+    "Bulgar Turkic",
+    "Bolgar",
+    "Bulgar language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Median",
+   "aliases": [
+    "Medean",
+    "Median language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khwarezmian",
+   "aliases": [
+    "Chorasmian",
+    "Khwarazmian",
+    "Khorezmian",
+    "Khwarezmian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tumshuqese",
+   "aliases": [
+    "Tumshuqese language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Old Azeri",
+   "aliases": [
+    "Old Azari",
+    "Azari",
+    "Old Azeri language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Selonian",
+   "aliases": [
+    "Selonian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Semigallian",
+   "aliases": [
+    "Semigallian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galindian",
+   "aliases": [
+    "Galindian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sudovian",
+   "aliases": [
+    "Yotvingian",
+    "Sudovian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slovincian",
+   "aliases": [
+    "Slovincian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fingallian",
+   "aliases": [
+    "Fingallian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Merya",
+   "aliases": [
+    "Merian",
+    "Merya language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Muromian",
+   "aliases": [
+    "Muromian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Krevinian",
+   "aliases": [
+    "Krevinian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kemi Sami",
+   "aliases": [
+    "Kemi Saami",
+    "Kemi Sami language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gepid",
+   "aliases": [
+    "Gepidic",
+    "Gepid language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "British Latin",
+   "aliases": [
+    "British Latin language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "African Romance",
+   "aliases": [
+    "African Latin",
+    "African Romance language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pannonian Romance",
+   "aliases": [
+    "Pannonian Romance language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moselle Romance",
+   "aliases": [
+    "Moselle Romance language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caucasian Albanian",
+   "aliases": [
+    "Aghwan",
+    "Old Udi",
+    "Albanian of the Caucasus",
+    "Caucasian Albanian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gutian",
+   "aliases": [
+    "Gutian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaskian",
+   "aliases": [
+    "Kaska",
+    "Kaskian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shuadit",
+   "aliases": [
+    "Judeo-Provençal",
+    "Judeo-Occitan",
+    "Judeo-Comtadine",
+    "Shuadit language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zarphatic",
+   "aliases": [
+    "Judeo-French",
+    "Zarphatic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Knaanic",
+   "aliases": [
+    "Judeo-Slavic",
+    "Judeo-Czech",
+    "Leshon Kna'an",
+    "Knaanic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gandhari",
+   "aliases": [
+    "Gandhari language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Apabhramsha",
+   "aliases": [
+    "Apabhramsa",
+    "Apabhramsha language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Elu",
+   "aliases": [
+    "Hela",
+    "Old Sinhala"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Harappan",
+   "aliases": [
+    "Indus Valley language",
+    "Harappan language",
+    "Indus language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xiongnu",
+   "aliases": [
+    "Xiongnu language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xianbei",
+   "aliases": [
+    "Xianbei language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Goguryeo",
+   "aliases": [
+    "Koguryo",
+    "Goguryeoan",
+    "Goguryeo language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pyu",
+   "aliases": [
+    "Tircul"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zhang-Zhung",
+   "aliases": [
+    "Zhang-Zhung language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kuril Ainu",
+   "aliases": [
+    "Kurile Ainu",
+    "Kuril Ainu language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kott",
+   "aliases": [
+    "Kott language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arin",
+   "aliases": [
+    "Arin language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yugh",
+   "aliases": [
+    "Yugh language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pumpokol",
+   "aliases": [
+    "Pumpokol language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mator",
+   "aliases": [
+    "Mator language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Omok",
+   "aliases": [
+    "Omok language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sireniki Yupik",
+   "aliases": [
+    "Sirenik",
+    "Sirenikski",
+    "Sireniki Yupik language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aka-Bo",
+   "aliases": [
+    "Bo",
+    "Bo language",
+    "Aka-Bo language"
+   ],
+   "tier": 5,
+   "lore": "Its last speaker, Boa Sr, died in 2010 on the Andaman Islands."
+  },
+  {
+   "answer": "Numidian",
+   "aliases": [
+    "Libyco-Berber",
+    "Old Libyan",
+    "Ancient Libyan",
+    "Ancient Berber",
+    "Numidian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kwadi",
+   "aliases": [
+    "Kwadi language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "ǀXam",
+   "tier": 5
+  },
+  {
+   "answer": "Moriori",
+   "aliases": [
+    "Moriori language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaurna",
+   "aliases": [
+    "Kaurna language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dharug",
+   "aliases": [
+    "Darug",
+    "Dharuk",
+    "Sydney language",
+    "Eora",
+    "Dharug language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mbabaram",
+   "aliases": [
+    "Mbabaram language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Himyaritic",
+   "aliases": [
+    "Himyarite",
+    "Himyaritic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Minaean",
+   "aliases": [
+    "Minaic",
+    "Minaean language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Qatabanian",
+   "aliases": [
+    "Qatabanian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hadramautic",
+   "aliases": [
+    "Hadrami",
+    "Hadramautic language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ch'olti'",
+   "aliases": [
+    "Ch'olti' language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chicomuceltec",
+   "aliases": [
+    "Chicomuceltec language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mangue",
+   "aliases": [
+    "Chorotega",
+    "Mangue language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Island Carib",
+   "aliases": [
+    "Iñeri",
+    "Igneri",
+    "Kalhíphona",
+    "Island Carib language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Puquina",
+   "aliases": [
+    "Puquina language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Muisca",
+   "aliases": [
+    "Chibcha",
+    "Muysccubun",
+    "Muisca language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Selk'nam",
+   "aliases": [
+    "Ona",
+    "Selk'nam language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tehuelche",
+   "aliases": [
+    "Aonikenk",
+    "Aonek'o 'a'jen",
+    "Tehuelche language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Puelche",
+   "aliases": [
+    "Gününa Küne",
+    "Gennaken",
+    "Puelche language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Charrúa",
+   "aliases": [
+    "Charrúa language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kunza",
+   "aliases": [
+    "Atacameño",
+    "Atacama",
+    "Kunza language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mohican",
+   "aliases": [
+    "Mahican",
+    "Stockbridge Mohican",
+    "Mohican language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Unami",
+   "aliases": [
+    "Lenape",
+    "Unami Lenape",
+    "Unami Delaware",
+    "Unami language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Susquehannock",
+   "aliases": [
+    "Susquehannock language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Powhatan",
+   "aliases": [
+    "Virginia Algonquian",
+    "Powhatan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Narragansett",
+   "aliases": [
+    "Narragansett language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mohegan-Pequot",
+   "aliases": [
+    "Mohegan",
+    "Pequot",
+    "Mohegan-Montauk",
+    "Mohegan-Pequot language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quiripi",
+   "aliases": [
+    "Quiripi language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nanticoke",
+   "aliases": [
+    "Nanticoke language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wyandot",
+   "aliases": [
+    "Huron",
+    "Wendat",
+    "Huron-Wyandot",
+    "Wyandotte",
+    "Wyandot language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Laurentian",
+   "aliases": [
+    "St. Lawrence Iroquoian",
+    "Saint Lawrence Iroquoian",
+    "Laurentian language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Natchez",
+   "aliases": [
+    "Natchez language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Atakapa",
+   "aliases": [
+    "Atakapan",
+    "Atakapa language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chitimacha",
+   "aliases": [
+    "Chitimacha language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Biloxi",
+   "aliases": [
+    "Biloxi language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ofo",
+   "tier": 5
+  },
+  {
+   "answer": "Catawba",
+   "aliases": [
+    "Catawba language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tutelo",
+   "aliases": [
+    "Tutelo language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Calusa",
+   "aliases": [
+    "Calusa language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Apalachee",
+   "aliases": [
+    "Apalachee language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mobilian Jargon",
+   "aliases": [
+    "Mobilian",
+    "Mobilian trade language",
+    "Mobilian Jargon language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Esselen",
+   "aliases": [
+    "Esselen language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tongva",
+   "aliases": [
+    "Gabrielino",
+    "Gabrieleño",
+    "Tongva language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serrano",
+   "aliases": [
+    "Serrano language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cupeño",
+   "aliases": [
+    "Cupeño language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chimariko",
+   "aliases": [
+    "Chimariko language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yana",
+   "aliases": [
+    "Yahi",
+    "Yana language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wappo",
+   "aliases": [
+    "Wappo language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Salinan",
+   "aliases": [
+    "Salinan language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Coahuilteco",
+   "aliases": [
+    "Coahuiltecan",
+    "Coahuilteco language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karankawa",
+   "aliases": [
+    "Karankawa language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tonkawa",
+   "aliases": [
+    "Tonkawa language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kitsai",
+   "aliases": [
+    "Kitsai language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tillamook",
+   "aliases": [
+    "Tillamook language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kalapuya",
+   "aliases": [
+    "Kalapuyan",
+    "Kalapuya language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Takelma",
+   "aliases": [
+    "Takelma language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Siuslaw",
+   "aliases": [
+    "Siuslaw language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alsea",
+   "aliases": [
+    "Alsea language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Molala",
+   "aliases": [
+    "Molala language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cayuse",
+   "aliases": [
+    "Cayuse language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mattole",
+   "aliases": [
+    "Mattole language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Miami-Illinois",
+   "aliases": [
+    "Myaamia",
+    "Miami",
+    "Miami-Illinois language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lower Chinook",
+   "aliases": [
+    "Chinook",
+    "Shoalwater Chinook",
+    "Lower Chinook language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kathlamet",
+   "aliases": [
+    "Kathlamet language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wichita",
+   "aliases": [
+    "Wichita language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Etchemin",
+   "aliases": [
+    "Etchemin language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Crimean Gothic",
+   "aliases": [
+    "Crimean Gothic language"
+   ],
+   "tier": 6,
+   "lore": "Still spoken in Crimea in the 1560s. All that survives is a list of about 80 words a Flemish diplomat wrote down."
+  },
+  {
+   "answer": "Eteocretan",
+   "aliases": [
+    "Eteocretan language"
+   ],
+   "tier": 6,
+   "lore": "A lost language of ancient Crete, written in Greek letters but still not understood."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Aramaic",
+   "reason": "Still alive: modern forms are spoken by hundreds of thousands of people."
+  },
+  {
+   "answer": "Mayan",
+   "aliases": [
+    "Maya"
+   ],
+   "reason": "Alive. Millions of people speak Mayan languages today."
+  },
+  {
+   "answer": "Esperanto",
+   "reason": "Invented, and still very much alive."
+  },
+  {
+   "answer": "Klingon",
+   "aliases": [
+    "Elvish",
+    "Quenya",
+    "Sindarin",
+    "Dothraki",
+    "High Valyrian",
+    "Newspeak",
+    "Na'vi",
+    "Parseltongue"
+   ],
+   "reason": "Invented for fiction, and alive among fans."
+  },
+  {
+   "answer": "R'lyehian",
+   "aliases": [
+    "Aklo"
+   ],
+   "reason": "Invented for horror stories. No one ever spoke it."
+  },
+  {
+   "answer": "Irish",
+   "aliases": [
+    "Irish Gaelic"
+   ],
+   "reason": "Alive, and spoken every day in the Gaeltacht."
+  },
+  {
+   "answer": "Welsh",
+   "aliases": [
+    "Scottish Gaelic",
+    "Gaelic",
+    "Breton"
+   ],
+   "reason": "Alive, with tens of thousands of speakers or more."
+  },
+  {
+   "answer": "Basque",
+   "reason": "Alive, and older than any language around it."
+  },
+  {
+   "answer": "Icelandic",
+   "reason": "Alive, and still close to the Norse of the sagas."
+  },
+  {
+   "answer": "Greek",
+   "aliases": [
+    "Modern Greek"
+   ],
+   "reason": "Alive. Its ancient form would have counted."
+  },
+  {
+   "answer": "Hieroglyphics",
+   "aliases": [
+    "Hieroglyphs",
+    "Cuneiform",
+    "Runes",
+    "Linear B",
+    "Linear A",
+    "Ogham",
+    "Egyptian hieroglyphics",
+    "Egyptian hieroglyphs",
+    "Hieratic",
+    "Runic",
+    "Futhark",
+    "Rongorongo",
+    "Indus script",
+    "Maya glyphs",
+    "Mayan glyphs",
+    "Mayan hieroglyphs",
+    "Glagolitic",
+    "Hieroglyphic",
+    "Phoenician alphabet",
+    "Greek alphabet"
+   ],
+   "reason": "A script, not a language."
+  },
+  {
+   "answer": "Morse code",
+   "aliases": [
+    "Braille",
+    "Semaphore"
+   ],
+   "reason": "A code, not a language."
+  },
+  {
+   "answer": "Viking",
+   "reason": "A people, not a language."
+  },
+  {
+   "answer": "Inca",
+   "reason": "A people, not a language. Their language is still spoken."
+  },
+  {
+   "answer": "Aztec",
+   "reason": "A people, not a language. Their language is still spoken."
+  },
+  {
+   "answer": "Quechua",
+   "reason": "Alive, and spoken by millions in the Andes."
+  },
+  {
+   "answer": "Nahuatl",
+   "reason": "Alive, and spoken by well over a million people in Mexico."
+  },
+  {
+   "answer": "Celtic",
+   "reason": "A family of languages, some of them alive. Which one?"
+  },
+  {
+   "answer": "Yiddish",
+   "reason": "Alive, with hundreds of thousands of speakers."
+  },
+  {
+   "answer": "Modern Hebrew",
+   "reason": "Alive, and spoken by millions. Plain Hebrew counts: it died out as a mother tongue first."
+  },
+  {
+   "answer": "Volapük",
+   "aliases": [
+    "Ido",
+    "Interlingua",
+    "Solresol",
+    "Lingua Ignota",
+    "Enochian",
+    "Lojban",
+    "Toki Pona",
+    "Novial",
+    "Occidental"
+   ],
+   "reason": "Invented, and never anyone's mother tongue."
+  },
+  {
+   "answer": "Pig Latin",
+   "aliases": [
+    "Dog Latin"
+   ],
+   "reason": "A word game played inside English, not a language of its own."
+  },
+  {
+   "answer": "Persian",
+   "aliases": [
+    "Farsi"
+   ],
+   "reason": "Alive, as Farsi, with tens of millions of speakers. Its older forms would have counted."
+  },
+  {
+   "answer": "Macedonian",
+   "reason": "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"dead-languages\" on 28 November 2026."
+}

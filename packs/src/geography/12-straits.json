@@ -1,0 +1,1302 @@
+{
+ "id": "geography-straits",
+ "text": "Name a strait.",
+ "category": "geography",
+ "flavor": "Narrow throats of water between the lands, where the currents pull hardest and ships go down.",
+ "rules": "Any named strait, plus the channels, sounds and passages that do a strait's job, linking two bodies of water. Bays, gulfs, estuaries and canals don't count.",
+ "answers": [
+  {
+   "answer": "English Channel",
+   "aliases": [
+    "The Channel",
+    "La Manche"
+   ],
+   "tier": 1,
+   "lore": "First swum by Matthew Webb, in 1875."
+  },
+  {
+   "answer": "Strait of Gibraltar",
+   "aliases": [
+    "Gibraltar",
+    "Gibraltar Strait",
+    "Straits of Gibraltar"
+   ],
+   "tier": 1,
+   "lore": "At its narrowest, only about 14 km of water separates Europe from Africa."
+  },
+  {
+   "answer": "Bosphorus",
+   "aliases": [
+    "Bosporus",
+    "Bosphorus Strait",
+    "Istanbul Strait",
+    "Strait of Istanbul"
+   ],
+   "tier": 1,
+   "lore": "It divides Istanbul between Europe and Asia."
+  },
+  {
+   "answer": "Bering Strait",
+   "aliases": [
+    "Bering",
+    "Strait of Bering"
+   ],
+   "tier": 1,
+   "lore": "The two Diomede Islands in the middle lie less than 4 km apart, but on either side of the date line."
+  },
+  {
+   "answer": "Strait of Hormuz",
+   "aliases": [
+    "Hormuz",
+    "Ormuz",
+    "Hormuz Strait",
+    "Straits of Hormuz"
+   ],
+   "tier": 1,
+   "lore": "About a fifth of the world's oil passes through it."
+  },
+  {
+   "answer": "Strait of Dover",
+   "aliases": [
+    "Dover",
+    "Pas de Calais",
+    "Dover Strait",
+    "Straits of Dover"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Strait of Magellan",
+   "aliases": [
+    "Magellan",
+    "Magellan Strait",
+    "Straits of Magellan"
+   ],
+   "tier": 2,
+   "lore": "Magellan sailed through it in 1520, the first European to cross from the Atlantic to the Pacific."
+  },
+  {
+   "answer": "Strait of Malacca",
+   "aliases": [
+    "Malacca",
+    "Melaka Strait",
+    "Malacca Strait",
+    "Straits of Malacca"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dardanelles",
+   "aliases": [
+    "Hellespont",
+    "Çanakkale Strait",
+    "Strait of Çanakkale"
+   ],
+   "tier": 2,
+   "lore": "Lord Byron swam across it in 1810, as Leander did nightly for Hero in the Greek myth."
+  },
+  {
+   "answer": "Strait of Messina",
+   "aliases": [
+    "Messina",
+    "Stretto di Messina",
+    "Messina Strait",
+    "Straits of Messina"
+   ],
+   "tier": 2,
+   "lore": "Home, the Greeks said, of the monsters Scylla and Charybdis."
+  },
+  {
+   "answer": "Drake Passage",
+   "aliases": [
+    "Drake Strait",
+    "Sea of Hoces"
+   ],
+   "tier": 2,
+   "lore": "Notorious for some of the roughest seas on Earth, between Cape Horn and Antarctica."
+  },
+  {
+   "answer": "Bass Strait",
+   "aliases": [
+    "Strait of Bass"
+   ],
+   "tier": 2,
+   "lore": "Named after George Bass, who sailed through it with Matthew Flinders in 1798 and proved Tasmania an island."
+  },
+  {
+   "answer": "Cook Strait",
+   "aliases": [
+    "Raukawa",
+    "Te Moana-o-Raukawa",
+    "Strait of Cook"
+   ],
+   "tier": 2,
+   "lore": "Abel Tasman took it for a bay in 1642. James Cook sailed through it in 1770."
+  },
+  {
+   "answer": "Torres Strait",
+   "aliases": [
+    "Torres",
+    "Strait of Torres"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Solent",
+   "tier": 2,
+   "lore": "Henry VIII's flagship, the Mary Rose, sank here in 1545."
+  },
+  {
+   "answer": "Bab-el-Mandeb",
+   "aliases": [
+    "Bab al-Mandab",
+    "Gate of Grief",
+    "Gate of Tears",
+    "Strait of Bab-el-Mandeb",
+    "Bab-el-Mandeb Strait"
+   ],
+   "tier": 2,
+   "lore": "Its name means 'gate of grief'."
+  },
+  {
+   "answer": "Taiwan Strait",
+   "aliases": [
+    "Formosa Strait",
+    "Strait of Taiwan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Menai Strait",
+   "aliases": [
+    "Menai",
+    "Afon Menai",
+    "Strait of Menai"
+   ],
+   "tier": 2,
+   "lore": "Crossed since 1826 by Thomas Telford's suspension bridge."
+  },
+  {
+   "answer": "Kerch Strait",
+   "aliases": [
+    "Kerch",
+    "Cimmerian Bosporus",
+    "Strait of Kerch"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Golden Gate",
+   "aliases": [
+    "Golden Gate Strait"
+   ],
+   "tier": 3,
+   "lore": "The strait came first. The bridge, opened in 1937, was named after it."
+  },
+  {
+   "answer": "Straits of Florida",
+   "aliases": [
+    "Florida Strait",
+    "Florida Straits",
+    "Strait of Florida"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hudson Strait",
+   "aliases": [
+    "Strait of Hudson"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Davis Strait",
+   "aliases": [
+    "Strait of Davis"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Strait of Juan de Fuca",
+   "aliases": [
+    "Juan de Fuca",
+    "Juan de Fuca Strait",
+    "Straits of Juan de Fuca"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Øresund",
+   "aliases": [
+    "The Sound"
+   ],
+   "tier": 3,
+   "lore": "Crossed since 2000 by a bridge that becomes a tunnel partway across."
+  },
+  {
+   "answer": "Skagerrak",
+   "aliases": [
+    "Skagerak"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kattegat",
+   "aliases": [
+    "Cattegat"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "North Channel",
+   "aliases": [
+    "Straits of Moyle",
+    "Sea of Moyle"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "St George's Channel",
+   "aliases": [
+    "Saint George's Channel"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pentland Firth",
+   "tier": 3,
+   "lore": "Its tidal currents are among the fastest in the world."
+  },
+  {
+   "answer": "Mozambique Channel",
+   "tier": 3
+  },
+  {
+   "answer": "Korea Strait",
+   "aliases": [
+    "Tsushima Strait",
+    "Korean Strait",
+    "Strait of Korea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Strait of Bonifacio",
+   "aliases": [
+    "Bonifacio",
+    "Bonifacio Strait",
+    "Straits of Bonifacio"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Beagle Channel",
+   "tier": 3
+  },
+  {
+   "answer": "Sunda Strait",
+   "aliases": [
+    "Strait of Sunda"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Denmark Strait",
+   "aliases": [
+    "Strait of Denmark"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Straits of Mackinac",
+   "aliases": [
+    "Mackinac",
+    "Mackinac Strait",
+    "Mackinac Straits",
+    "Strait of Mackinac"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Singapore Strait",
+   "aliases": [
+    "Strait of Singapore"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Long Island Sound",
+   "tier": 3
+  },
+  {
+   "answer": "Strait of Otranto",
+   "aliases": [
+    "Otranto",
+    "Otranto Strait",
+    "Straits of Otranto"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Strait of Sicily",
+   "aliases": [
+    "Sicilian Channel",
+    "Sicily Channel",
+    "Strait of Tunis",
+    "Sicily Strait",
+    "Straits of Sicily"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lombok Strait",
+   "aliases": [
+    "Strait of Lombok"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Makassar Strait",
+   "aliases": [
+    "Strait of Makassar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Palk Strait",
+   "aliases": [
+    "Palk",
+    "Strait of Palk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Luzon Strait",
+   "aliases": [
+    "Strait of Luzon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tsugaru Strait",
+   "aliases": [
+    "Tsugaru",
+    "Strait of Tsugaru"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nares Strait",
+   "aliases": [
+    "Nares",
+    "Strait of Nares"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Strait of Belle Isle",
+   "aliases": [
+    "Belle Isle Strait",
+    "Straits of Belle Isle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cabot Strait",
+   "aliases": [
+    "Strait of Cabot"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Northumberland Strait",
+   "aliases": [
+    "Strait of Northumberland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Strait of Georgia",
+   "aliases": [
+    "Georgia Strait",
+    "Straits of Georgia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yucatán Channel",
+   "aliases": [
+    "Yucatan Strait"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Windward Passage",
+   "tier": 4
+  },
+  {
+   "answer": "Mona Passage",
+   "tier": 4
+  },
+  {
+   "answer": "The Narrows",
+   "aliases": [
+    "Verrazzano Narrows",
+    "Verrazano Narrows"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Strait of Tiran",
+   "aliases": [
+    "Tiran",
+    "Tiran Strait",
+    "Straits of Tiran"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Great Belt",
+   "aliases": [
+    "Storebælt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Little Belt",
+   "aliases": [
+    "Lillebælt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fehmarn Belt",
+   "aliases": [
+    "Femern Belt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Minch",
+   "aliases": [
+    "North Minch"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Foveaux Strait",
+   "aliases": [
+    "Foveaux",
+    "Strait of Foveaux"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "McMurdo Sound",
+   "tier": 4
+  },
+  {
+   "answer": "Lancaster Sound",
+   "tier": 4
+  },
+  {
+   "answer": "Johor Strait",
+   "aliases": [
+    "Strait of Johor"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "La Pérouse Strait",
+   "aliases": [
+    "Sōya Strait",
+    "Strait of La Pérouse"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tacoma Narrows",
+   "tier": 4
+  },
+  {
+   "answer": "Kanmon Straits",
+   "aliases": [
+    "Shimonoseki Strait",
+    "Kanmon Strait",
+    "Strait of Kanmon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tatar Strait",
+   "aliases": [
+    "Strait of Tatar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Surigao Strait",
+   "aliases": [
+    "Strait of Surigao"
+   ],
+   "tier": 4,
+   "lore": "Scene of the last battle ever fought between battleships, in October 1944."
+  },
+  {
+   "answer": "Victoria Strait",
+   "aliases": [
+    "Strait of Victoria"
+   ],
+   "tier": 4,
+   "lore": "Where the ice trapped Franklin's ships Erebus and Terror in 1846."
+  },
+  {
+   "answer": "Sound of Mull",
+   "tier": 4
+  },
+  {
+   "answer": "Santa Barbara Channel",
+   "tier": 4
+  },
+  {
+   "answer": "Hecate Strait",
+   "aliases": [
+    "Strait of Hecate"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Fram Strait",
+   "aliases": [
+    "Strait of Fram"
+   ],
+   "tier": 4,
+   "lore": "Named after Nansen's ship Fram. It is the only deep-water passage between the Arctic Ocean and the rest of the world's oceans."
+  },
+  {
+   "answer": "Ten Degree Channel",
+   "tier": 4
+  },
+  {
+   "answer": "Nine Degree Channel",
+   "tier": 4
+  },
+  {
+   "answer": "Eight Degree Channel",
+   "tier": 4
+  },
+  {
+   "answer": "Corfu Channel",
+   "tier": 4,
+   "lore": "In 1946 mines here wrecked two Royal Navy destroyers. The quarrel with Albania became the first case heard by the International Court of Justice."
+  },
+  {
+   "answer": "Lemaire Channel",
+   "tier": 4
+  },
+  {
+   "answer": "Le Maire Strait",
+   "aliases": [
+    "Le Maire",
+    "Strait of Le Maire"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Qiongzhou Strait",
+   "aliases": [
+    "Hainan Strait",
+    "Strait of Qiongzhou"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karimata Strait",
+   "aliases": [
+    "Strait of Karimata"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bali Strait",
+   "aliases": [
+    "Strait of Bali"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "San Bernardino Strait",
+   "aliases": [
+    "Strait of San Bernardino"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bohai Strait",
+   "aliases": [
+    "Strait of Bohai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Johnstone Strait",
+   "aliases": [
+    "Strait of Johnstone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Haro Strait",
+   "aliases": [
+    "Strait of Haro"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rosario Strait",
+   "aliases": [
+    "Strait of Rosario"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Carquinez Strait",
+   "aliases": [
+    "Carquinez",
+    "Strait of Carquinez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shelikof Strait",
+   "aliases": [
+    "Shelikof",
+    "Strait of Shelikof"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Unimak Pass",
+   "tier": 5
+  },
+  {
+   "answer": "Barrow Strait",
+   "aliases": [
+    "Strait of Barrow"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "M'Clure Strait",
+   "aliases": [
+    "Strait of M'Clure"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bellot Strait",
+   "aliases": [
+    "Strait of Bellot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fury and Hecla Strait",
+   "aliases": [
+    "Strait of Fury and Hecla"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kennedy Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Anegada Passage",
+   "tier": 5
+  },
+  {
+   "answer": "Old Bahama Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Dragon's Mouth",
+   "aliases": [
+    "Bocas del Dragón",
+    "Dragon's Mouths"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Serpent's Mouth",
+   "aliases": [
+    "Boca de la Sierpe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Little Minch",
+   "tier": 5
+  },
+  {
+   "answer": "Sound of Sleat",
+   "tier": 5
+  },
+  {
+   "answer": "Sound of Jura",
+   "tier": 5
+  },
+  {
+   "answer": "Sound of Harris",
+   "tier": 5
+  },
+  {
+   "answer": "Kyle Akin",
+   "tier": 5
+  },
+  {
+   "answer": "Kvarken",
+   "aliases": [
+    "Quark",
+    "Merenkurkku"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Irbe Strait",
+   "aliases": [
+    "Strait of Irbe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Strait of Gubal",
+   "aliases": [
+    "Gubal",
+    "Gubal Strait",
+    "Straits of Gubal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Backstairs Passage",
+   "tier": 5
+  },
+  {
+   "answer": "Investigator Strait",
+   "aliases": [
+    "Strait of Investigator"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaiwi Channel",
+   "aliases": [
+    "Molokaʻi Channel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "ʻAlenuihāhā Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Bransfield Strait",
+   "aliases": [
+    "Bransfield",
+    "Strait of Bransfield"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dampier Strait",
+   "aliases": [
+    "Strait of Dampier"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vitiaz Strait",
+   "aliases": [
+    "Strait of Vitiaz"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jamaica Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Harlem River",
+   "tier": 5
+  },
+  {
+   "answer": "Detroit River",
+   "tier": 5,
+   "lore": "Not quite a river: the city's name comes from the French for 'strait'."
+  },
+  {
+   "answer": "Kill Van Kull",
+   "tier": 5
+  },
+  {
+   "answer": "Arthur Kill",
+   "tier": 5
+  },
+  {
+   "answer": "Hell Gate",
+   "tier": 5
+  },
+  {
+   "answer": "Strait of Canso",
+   "aliases": [
+    "Canso Strait",
+    "Straits of Canso"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "East River",
+   "tier": 5,
+   "lore": "Not a river at all, but a tidal strait joining Long Island Sound to New York Harbor."
+  },
+  {
+   "answer": "Duncan Passage",
+   "tier": 5
+  },
+  {
+   "answer": "Coco Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Preparis Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Bashi Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Sound of Islay",
+   "tier": 5
+  },
+  {
+   "answer": "Kalmar Strait",
+   "aliases": [
+    "Kalmarsund",
+    "Strait of Kalmar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kara Strait",
+   "aliases": [
+    "Kara Gates",
+    "Strait of Kara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rae Strait",
+   "aliases": [
+    "Strait of Rae"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chacao Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Naruto Strait",
+   "aliases": [
+    "Naruto",
+    "Strait of Naruto"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Akashi Strait",
+   "aliases": [
+    "Strait of Akashi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uraga Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Jeju Strait",
+   "aliases": [
+    "Strait of Jeju"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vilkitsky Strait",
+   "aliases": [
+    "Strait of Vilkitsky"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Long Strait",
+   "aliases": [
+    "Strait of Long"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Smith Sound",
+   "tier": 5
+  },
+  {
+   "answer": "Simpson Strait",
+   "aliases": [
+    "Strait of Simpson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Queen Charlotte Strait",
+   "aliases": [
+    "Strait of Queen Charlotte"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Icy Strait",
+   "aliases": [
+    "Strait of Icy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gerlache Strait",
+   "aliases": [
+    "Strait of Gerlache"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antarctic Sound",
+   "tier": 5
+  },
+  {
+   "answer": "Kyle Rhea",
+   "tier": 5
+  },
+  {
+   "answer": "Sound of Iona",
+   "tier": 5
+  },
+  {
+   "answer": "Kyles of Bute",
+   "tier": 5
+  },
+  {
+   "answer": "Ramsey Sound",
+   "tier": 5
+  },
+  {
+   "answer": "Alderney Race",
+   "tier": 5
+  },
+  {
+   "answer": "Strangford Narrows",
+   "tier": 5
+  },
+  {
+   "answer": "Raz de Sein",
+   "tier": 5
+  },
+  {
+   "answer": "Strait of Piombino",
+   "aliases": [
+    "Piombino Strait",
+    "Straits of Piombino"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Limfjord",
+   "tier": 5
+  },
+  {
+   "answer": "Zanzibar Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Whitsunday Passage",
+   "tier": 5
+  },
+  {
+   "answer": "D'Entrecasteaux Channel",
+   "tier": 5
+  },
+  {
+   "answer": "French Pass",
+   "tier": 5
+  },
+  {
+   "answer": "Tory Channel",
+   "tier": 5
+  },
+  {
+   "answer": "Verde Island Passage",
+   "tier": 5
+  },
+  {
+   "answer": "Ombai Strait",
+   "aliases": [
+    "Strait of Ombai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Corryvreckan",
+   "aliases": [
+    "Gulf of Corryvreckan",
+    "Strait of Corryvreckan",
+    "Corryvreckan Whirlpool"
+   ],
+   "tier": 6,
+   "lore": "George Orwell nearly drowned in its whirlpool in August 1947, while he was writing Nineteen Eighty-Four on Jura."
+  },
+  {
+   "answer": "Euripus Strait",
+   "aliases": [
+    "Euripus",
+    "Evripos",
+    "Euripos",
+    "Strait of Euripus"
+   ],
+   "tier": 6,
+   "lore": "Its current reverses several times a day. Legend says Aristotle drowned himself here, in despair at failing to explain why."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Suez Canal",
+   "aliases": [
+    "Panama Canal",
+    "Kiel Canal",
+    "Corinth Canal",
+    "Manchester Ship Canal",
+    "Erie Canal",
+    "Grand Canal",
+    "Caledonian Canal",
+    "Canal du Midi",
+    "Welland Canal",
+    "Saint Lawrence Seaway"
+   ],
+   "reason": "A canal, dug by people, not a strait."
+  },
+  {
+   "answer": "Gulf of Mexico",
+   "aliases": [
+    "Gulf of America",
+    "Persian Gulf",
+    "Arabian Gulf",
+    "Gulf of Aden",
+    "Gulf of Oman",
+    "Gulf of Aqaba",
+    "Gulf of Suez",
+    "Gulf of Finland",
+    "Gulf of Bothnia",
+    "Gulf of Riga",
+    "Gulf of Thailand",
+    "Gulf of Guinea",
+    "Gulf of California",
+    "Gulf of Carpentaria",
+    "Gulf of Saint Lawrence",
+    "Gulf of Paria",
+    "Gulf of Corinth",
+    "Gulf of Tonkin",
+    "Gulf of Alaska",
+    "Gulf of Maine",
+    "Gulf of Mannar"
+   ],
+   "reason": "A gulf, open to the sea at one end, not a strait."
+  },
+  {
+   "answer": "Bay of Biscay",
+   "aliases": [
+    "Bay of Bengal",
+    "Hudson Bay",
+    "Baffin Bay",
+    "Bay of Fundy",
+    "Chesapeake Bay",
+    "Botany Bay",
+    "Bay of Naples",
+    "Bay of Pigs",
+    "Cardigan Bay",
+    "Morecambe Bay",
+    "Tokyo Bay",
+    "San Francisco Bay",
+    "Galway Bay",
+    "Plymouth Sound",
+    "Palk Bay"
+   ],
+   "reason": "A bay, open to the sea at one end, not a strait."
+  },
+  {
+   "answer": "Firth of Forth",
+   "aliases": [
+    "Moray Firth",
+    "Firth of Clyde",
+    "Solway Firth",
+    "Firth of Tay",
+    "Thames Estuary",
+    "Severn Estuary",
+    "Humber",
+    "Humber Estuary",
+    "River Plate",
+    "Río de la Plata",
+    "The Wash"
+   ],
+   "reason": "An estuary, not a strait."
+  },
+  {
+   "answer": "Bristol Channel",
+   "reason": "An inlet, open to the sea at one end, not a strait."
+  },
+  {
+   "answer": "Puget Sound",
+   "reason": "A deep inlet, open to the sea at one end. Its strait would count."
+  },
+  {
+   "answer": "Prince William Sound",
+   "aliases": [
+    "Pamlico Sound",
+    "Howe Sound"
+   ],
+   "reason": "Really an inlet or a lagoon, not a strait."
+  },
+  {
+   "answer": "Milford Sound",
+   "aliases": [
+    "Doubtful Sound",
+    "Piopiotahi"
+   ],
+   "reason": "A fjord, open to the sea at one end, not a strait."
+  },
+  {
+   "answer": "Northwest Passage",
+   "aliases": [
+    "Northeast Passage",
+    "Northern Sea Route",
+    "Inside Passage"
+   ],
+   "reason": "A route that threads through many straits, not a strait itself."
+  },
+  {
+   "answer": "Pillars of Hercules",
+   "aliases": [
+    "Rock of Gibraltar"
+   ],
+   "reason": "The headlands on either side of the strait, not the water between."
+  },
+  {
+   "answer": "Isthmus of Panama",
+   "aliases": [
+    "Isthmus of Suez",
+    "Isthmus of Corinth",
+    "Isthmus of Kra",
+    "Isthmus"
+   ],
+   "reason": "The opposite of a strait: a neck of land between two seas."
+  },
+  {
+   "answer": "Channel Tunnel",
+   "aliases": [
+    "Eurotunnel"
+   ],
+   "reason": "A tunnel beneath the water, not the water itself."
+  },
+  {
+   "answer": "Channel Islands",
+   "reason": "Islands in the Channel, not a channel."
+  },
+  {
+   "answer": "Sea of Marmara",
+   "aliases": [
+    "Marmara"
+   ],
+   "reason": "A small sea between two straits, not a strait itself."
+  },
+  {
+   "answer": "Golden Horn",
+   "reason": "An inlet off the Bosphorus, not a strait."
+  },
+  {
+   "answer": "Strait of Anián",
+   "aliases": [
+    "Anian Strait"
+   ],
+   "reason": "A half-legendary strait on old maps. The real one was sailed by Dezhnev in 1648, and later named after Bering."
+  },
+  {
+   "answer": "Dire Straits",
+   "reason": "A band, named after a tight spot rather than a stretch of sea."
+  },
+  {
+   "answer": "Adam's Bridge",
+   "aliases": [
+    "Ram Setu",
+    "Rama's Bridge"
+   ],
+   "reason": "A chain of shoals and islets between India and Sri Lanka, not a strait."
+  },
+  {
+   "answer": "Irish Sea",
+   "aliases": [
+    "Celtic Sea",
+    "North Sea",
+    "Baltic Sea",
+    "Red Sea",
+    "Black Sea",
+    "Caribbean Sea"
+   ],
+   "reason": "A sea, not a strait."
+  },
+  {
+   "answer": "Scapa Flow",
+   "reason": "A great natural harbour in Orkney, not a strait."
+  },
+  {
+   "answer": "Niagara River",
+   "reason": "A river, waterfall and all, not a strait."
+  },
+  {
+   "answer": "Shatt al-Arab",
+   "aliases": [
+    "Arvand Rud"
+   ],
+   "reason": "A river, formed where the Tigris and Euphrates meet, not a strait."
+  },
+  {
+   "answer": "Hudson River",
+   "aliases": [
+    "Thames",
+    "River Thames",
+    "Mississippi"
+   ],
+   "reason": "A river, and a real one, not a strait."
+  },
+  {
+   "answer": "Strait",
+   "aliases": [
+    "Passage"
+   ],
+   "reason": "That's just the word. There are dozens, so name one."
+  }
+ ],
+ "decoys": [
+  "Iran",
+  "Tirana"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"straits\" on 28 November 2026."
+}

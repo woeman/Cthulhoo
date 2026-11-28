@@ -1,0 +1,873 @@
+{
+ "id": "languages-constructed-languages",
+ "text": "Name an invented language.",
+ "category": "language",
+ "flavor": "Some tongues were invented to unite the world. Others were invented to summon something into it.",
+ "rules": "Any language made up on purpose: for the world, for fiction or as an experiment. Language games like Pig Latin, programming languages and codes don't count.",
+ "answers": [
+  {
+   "answer": "Esperanto",
+   "tier": 1,
+   "lore": "Published in 1887 by L. L. Zamenhof, an eye doctor in Warsaw, under the pen name Doktoro Esperanto, 'one who hopes'."
+  },
+  {
+   "answer": "Klingon",
+   "aliases": [
+    "Klingonese",
+    "tlhIngan Hol"
+   ],
+   "tier": 1,
+   "lore": "Built by Marc Okrand for Star Trek III in 1984. Hamlet has been translated into it."
+  },
+  {
+   "answer": "Elvish",
+   "aliases": [
+    "Tolkien's Elvish",
+    "Elven",
+    "Elfish",
+    "Elf language",
+    "Elvin"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Dothraki",
+   "tier": 1,
+   "lore": "Created by the linguist David J. Peterson for Game of Thrones, with thousands of words."
+  },
+  {
+   "answer": "Quenya",
+   "aliases": [
+    "High Elvish"
+   ],
+   "tier": 2,
+   "lore": "Tolkien drew its sounds partly from Finnish, which he said was like finding a cellar full of an amazing wine."
+  },
+  {
+   "answer": "High Valyrian",
+   "aliases": [
+    "Valyrian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Na'vi",
+   "tier": 2,
+   "lore": "Created for Avatar by Paul Frommer, a professor of business communication."
+  },
+  {
+   "answer": "Newspeak",
+   "tier": 2,
+   "lore": "Orwell's language for 1984, designed to make rebellious thoughts impossible to put into words."
+  },
+  {
+   "answer": "Simlish",
+   "tier": 2
+  },
+  {
+   "answer": "Parseltongue",
+   "tier": 2
+  },
+  {
+   "answer": "Minionese",
+   "aliases": [
+    "Minion",
+    "Minion language",
+    "Minions",
+    "Minion speak"
+   ],
+   "tier": 2,
+   "lore": "A babble of Spanish, French, Italian, English and more, voiced by co-director Pierre Coffin."
+  },
+  {
+   "answer": "Sindarin",
+   "aliases": [
+    "Grey-elven",
+    "Grey Elvish",
+    "Noldorin"
+   ],
+   "tier": 3,
+   "lore": "Tolkien modelled its sounds on Welsh."
+  },
+  {
+   "answer": "Toki Pona",
+   "tier": 3,
+   "lore": "Created by Sonja Lang in 2001, with fewer than 150 words."
+  },
+  {
+   "answer": "Volapük",
+   "tier": 3,
+   "lore": "Devised in 1879 by Johann Martin Schleyer, a German priest who said God told him to in a dream."
+  },
+  {
+   "answer": "Ido",
+   "tier": 3,
+   "lore": "A breakaway from Esperanto in 1907. Its name is Esperanto for 'offspring'."
+  },
+  {
+   "answer": "Lojban",
+   "tier": 3
+  },
+  {
+   "answer": "Nadsat",
+   "tier": 3,
+   "lore": "The teenage slang of A Clockwork Orange, much of it borrowed from Russian."
+  },
+  {
+   "answer": "Dovahzul",
+   "aliases": [
+    "Dragon language",
+    "Dragon tongue",
+    "Thu'um"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Huttese",
+   "tier": 3,
+   "lore": "Jabba's language. Its sound designer is said to have drawn on Quechua, from the Andes."
+  },
+  {
+   "answer": "Vulcan",
+   "aliases": [
+    "Golic Vulcan",
+    "Vulcanian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Black Speech",
+   "aliases": [
+    "Black Tongue",
+    "Orcish",
+    "Language of Mordor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Makaton",
+   "tier": 3,
+   "lore": "Named after its three creators, Margaret, Kathy and Tony. Mr Tumble signs it on CBeebies."
+  },
+  {
+   "answer": "Interlingua",
+   "aliases": [
+    "IALA Interlingua"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Occidental",
+   "aliases": [
+    "Interlingue"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Novial",
+   "tier": 4
+  },
+  {
+   "answer": "Loglan",
+   "tier": 4
+  },
+  {
+   "answer": "Ithkuil",
+   "tier": 4
+  },
+  {
+   "answer": "Láadan",
+   "tier": 4,
+   "lore": "Created in 1982 by the novelist Suzette Haden Elgin to express women's perceptions."
+  },
+  {
+   "answer": "Solresol",
+   "aliases": [
+    "Langue musicale universelle"
+   ],
+   "tier": 4,
+   "lore": "Built from the seven notes of the scale in 1827, so it can be sung, played or even painted."
+  },
+  {
+   "answer": "Enochian",
+   "aliases": [
+    "Angelic",
+    "Angelical",
+    "Language of angels"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Basic English",
+   "aliases": [
+    "Ogden's Basic English"
+   ],
+   "tier": 4,
+   "lore": "C. K. Ogden's 850-word English of 1930, which Churchill championed during the war."
+  },
+  {
+   "answer": "Blissymbols",
+   "aliases": [
+    "Blissymbolics",
+    "Bliss"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lapine",
+   "tier": 4,
+   "lore": "The rabbits' language of Watership Down, in which a car is a hrududu."
+  },
+  {
+   "answer": "Khuzdul",
+   "aliases": [
+    "Dwarvish"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mando'a",
+   "aliases": [
+    "Mandalorian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shyriiwook",
+   "aliases": [
+    "Wookiee",
+    "Wookieespeak",
+    "Wookiee language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Atlantean",
+   "tier": 4
+  },
+  {
+   "answer": "Kryptonian",
+   "tier": 4
+  },
+  {
+   "answer": "Gallifreyan",
+   "tier": 4
+  },
+  {
+   "answer": "Hylian",
+   "tier": 4
+  },
+  {
+   "answer": "Chakobsa",
+   "aliases": [
+    "Fremen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Interslavic",
+   "aliases": [
+    "Medžuslovjansky"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lingua Franca Nova",
+   "aliases": [
+    "Elefen",
+    "LFN"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kotava",
+   "tier": 5
+  },
+  {
+   "answer": "Balaibalan",
+   "tier": 5
+  },
+  {
+   "answer": "Ro",
+   "tier": 5
+  },
+  {
+   "answer": "aUI",
+   "tier": 5
+  },
+  {
+   "answer": "Real Character",
+   "aliases": [
+    "Philosophical language",
+    "Wilkins's philosophical language",
+    "John Wilkins's language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ars signorum",
+   "aliases": [
+    "Dalgarno's language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Characteristica universalis",
+   "aliases": [
+    "Universal characteristic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Idiom Neutral",
+   "tier": 5
+  },
+  {
+   "answer": "Latino sine flexione",
+   "aliases": [
+    "Interlingua de Peano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slovio",
+   "tier": 5
+  },
+  {
+   "answer": "Sambahsa",
+   "tier": 5
+  },
+  {
+   "answer": "Globasa",
+   "tier": 5
+  },
+  {
+   "answer": "Lidepla",
+   "aliases": [
+    "Lingwa de planeta"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Europanto",
+   "tier": 5,
+   "lore": "A jokey mash-up of Europe's languages, devised by the Italian translator Diego Marani in 1996."
+  },
+  {
+   "answer": "Brithenig",
+   "tier": 5,
+   "lore": "What Welsh might sound like had Latin won in Britain, invented by Andrew Smith in 1996."
+  },
+  {
+   "answer": "Wenedyk",
+   "tier": 5
+  },
+  {
+   "answer": "Talossan",
+   "tier": 5
+  },
+  {
+   "answer": "Kēlen",
+   "tier": 5
+  },
+  {
+   "answer": "Verdurian",
+   "tier": 5
+  },
+  {
+   "answer": "Anglish",
+   "tier": 5,
+   "lore": "English without its borrowed words, as in the 1989 essay 'Uncleftish Beholding', on atomic theory."
+  },
+  {
+   "answer": "Globish",
+   "tier": 5
+  },
+  {
+   "answer": "Gestuno",
+   "aliases": [
+    "International Sign"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Signing Exact English",
+   "aliases": [
+    "Signed Exact English",
+    "SEE"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paget Gorman",
+   "aliases": [
+    "Paget Gorman Sign System"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Afrihili",
+   "tier": 5,
+   "lore": "Devised in 1970 by the Ghanaian historian K. A. Kumi Attobrah as a language for all of Africa."
+  },
+  {
+   "answer": "Glosa",
+   "aliases": [
+    "Interglossa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Folkspraak",
+   "tier": 5
+  },
+  {
+   "answer": "Universalglot",
+   "tier": 5
+  },
+  {
+   "answer": "Adûnaic",
+   "tier": 5
+  },
+  {
+   "answer": "Entish",
+   "tier": 5
+  },
+  {
+   "answer": "Valarin",
+   "tier": 5
+  },
+  {
+   "answer": "Westron",
+   "aliases": [
+    "Common Speech"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Telerin",
+   "tier": 5
+  },
+  {
+   "answer": "Goa'uld",
+   "tier": 5
+  },
+  {
+   "answer": "Romulan",
+   "aliases": [
+    "Rihannsu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ewokese",
+   "aliases": [
+    "Ewok"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trigedasleng",
+   "aliases": [
+    "Trig"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Castithan",
+   "tier": 5
+  },
+  {
+   "answer": "Irathient",
+   "tier": 5
+  },
+  {
+   "answer": "Shiväisith",
+   "tier": 5
+  },
+  {
+   "answer": "Mermish",
+   "tier": 5
+  },
+  {
+   "answer": "Gobbledegook",
+   "aliases": [
+    "Gobbledygook"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "D'ni",
+   "tier": 5
+  },
+  {
+   "answer": "Zentradi",
+   "tier": 5
+  },
+  {
+   "answer": "Loxian",
+   "tier": 5
+  },
+  {
+   "answer": "Lilliputian",
+   "tier": 5
+  },
+  {
+   "answer": "Tsolyáni",
+   "tier": 5
+  },
+  {
+   "answer": "Pakuni",
+   "tier": 5,
+   "lore": "Made for the 1974 TV series Land of the Lost by the linguist Victoria Fromkin."
+  },
+  {
+   "answer": "Mangani",
+   "tier": 5
+  },
+  {
+   "answer": "Old Solar",
+   "aliases": [
+    "Hlab-Eribol-ef-Cordi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marain",
+   "tier": 5
+  },
+  {
+   "answer": "Kesh",
+   "tier": 5
+  },
+  {
+   "answer": "Old Speech",
+   "aliases": [
+    "Language of the Making"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "R'lyehian",
+   "tier": 5
+  },
+  {
+   "answer": "Aklo",
+   "tier": 5
+  },
+  {
+   "answer": "Tamarian",
+   "tier": 5,
+   "lore": "Star Trek's language of allusions: 'Darmok and Jalad at Tanagra' means working together against a common enemy."
+  },
+  {
+   "answer": "Furbish",
+   "tier": 5,
+   "lore": "The language of Furby toys, which start out speaking it and slowly switch to English as if learning."
+  },
+  {
+   "answer": "Astapori Valyrian",
+   "aliases": [
+    "Low Valyrian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Galactic Basic",
+   "tier": 5
+  },
+  {
+   "answer": "Jawaese",
+   "aliases": [
+    "Jawa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Houyhnhnm",
+   "aliases": [
+    "Houyhnhnms"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Barsoomian",
+   "tier": 5
+  },
+  {
+   "answer": "Nevbosh",
+   "tier": 5,
+   "lore": "A 'new nonsense' that the teenage Tolkien shared with his cousin Mary, after an earlier one called Animalic."
+  },
+  {
+   "answer": "Animalic",
+   "tier": 5
+  },
+  {
+   "answer": "Zaum",
+   "tier": 5,
+   "lore": "The 'beyond-sense' language of Russian Futurist poets, built from sounds rather than meanings."
+  },
+  {
+   "answer": "Speedtalk",
+   "tier": 5
+  },
+  {
+   "answer": "Pravic",
+   "tier": 5
+  },
+  {
+   "answer": "Babel-17",
+   "tier": 5
+  },
+  {
+   "answer": "Ptydepe",
+   "tier": 5
+  },
+  {
+   "answer": "Gnommish",
+   "tier": 5
+  },
+  {
+   "answer": "Logopandecteision",
+   "tier": 5
+  },
+  {
+   "answer": "Pandunia",
+   "tier": 5
+  },
+  {
+   "answer": "Lingua Ignota",
+   "aliases": [
+    "Ignota lingua"
+   ],
+   "tier": 6,
+   "lore": "Devised by the abbess Hildegard of Bingen in the 1100s, with about a thousand words and its own letters. Why is a mystery."
+  },
+  {
+   "answer": "Kobaïan",
+   "tier": 6,
+   "lore": "Sung by the French band Magma since 1969, invented by their drummer, Christian Vander, for a far-off planet."
+  },
+  {
+   "answer": "Utopian",
+   "tier": 6,
+   "lore": "Utopia (1516) came with an alphabet of its own and a four-line poem in the island's tongue."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Pig Latin",
+   "aliases": [
+    "Ubbi Dubbi",
+    "Verlan",
+    "Back slang",
+    "Javanais",
+    "Double Dutch",
+    "Tutnese",
+    "Opish",
+    "Gibberish",
+    "Leet",
+    "Leetspeak",
+    "Al Bhed"
+   ],
+   "reason": "A game or cipher played on another language, not a language of its own."
+  },
+  {
+   "answer": "Rhyming slang",
+   "aliases": [
+    "Cockney rhyming slang",
+    "Polari",
+    "Thieves' cant",
+    "Text speak",
+    "Slang"
+   ],
+   "reason": "Slang laid over English, not an invented language."
+  },
+  {
+   "answer": "Cockney",
+   "reason": "A real dialect of London, not an invented one."
+  },
+  {
+   "answer": "Shelta",
+   "reason": "A real language of Irish Travellers, not an invented one."
+  },
+  {
+   "answer": "Pidgin",
+   "aliases": [
+    "Creole",
+    "Tok Pisin",
+    "Bislama",
+    "Pidgin English",
+    "Haitian Creole"
+   ],
+   "reason": "Pidgins and creoles grow up naturally, not by design."
+  },
+  {
+   "answer": "Spanglish",
+   "aliases": [
+    "Franglais",
+    "Hinglish",
+    "Denglisch",
+    "Taglish",
+    "Singlish"
+   ],
+   "reason": "A natural mix of two languages, not an invented one."
+  },
+  {
+   "answer": "Hebrew",
+   "aliases": [
+    "Modern Hebrew"
+   ],
+   "reason": "Revived, not invented: Hebrew has been read and prayed in for about three thousand years."
+  },
+  {
+   "answer": "Nynorsk",
+   "aliases": [
+    "Landsmål",
+    "Rumantsch Grischun",
+    "Euskara Batua"
+   ],
+   "reason": "A written standard built from real dialects, not an invented language."
+  },
+  {
+   "answer": "Latin",
+   "reason": "Real, if dead: the Romans spoke it."
+  },
+  {
+   "answer": "Sanskrit",
+   "aliases": [
+    "Ancient Greek",
+    "Old English",
+    "Sumerian"
+   ],
+   "reason": "A real language that grew up naturally, not an invented one."
+  },
+  {
+   "answer": "Python",
+   "aliases": [
+    "Java",
+    "JavaScript",
+    "C++",
+    "HTML",
+    "COBOL",
+    "Fortran",
+    "BASIC",
+    "Rust",
+    "Ruby",
+    "Perl",
+    "SQL",
+    "Lisp",
+    "Scratch",
+    "Programming language",
+    "Code"
+   ],
+   "reason": "A programming language. Invented, but for computers, not people."
+  },
+  {
+   "answer": "Morse code",
+   "aliases": [
+    "Morse",
+    "Binary",
+    "Semaphore",
+    "Braille",
+    "Enigma",
+    "Cipher",
+    "Pigpen"
+   ],
+   "reason": "A code for spelling out letters, not a language."
+  },
+  {
+   "answer": "Tengwar",
+   "aliases": [
+    "Cirth",
+    "Sarati"
+   ],
+   "reason": "Tolkien's Elvish alphabet, not a language."
+  },
+  {
+   "answer": "Aurebesh",
+   "reason": "The Star Wars alphabet, not a language."
+  },
+  {
+   "answer": "Sign language",
+   "reason": "Which one? Most grew up naturally, but a few were designed."
+  },
+  {
+   "answer": "British Sign Language",
+   "aliases": [
+    "BSL",
+    "American Sign Language",
+    "ASL",
+    "Auslan",
+    "Nicaraguan Sign Language"
+   ],
+   "reason": "A natural language that grew up among deaf people, not an invented one."
+  },
+  {
+   "answer": "Emoji",
+   "aliases": [
+    "Emojis",
+    "Emoticons"
+   ],
+   "reason": "Pictures, not a language. Not yet, anyway."
+  },
+  {
+   "answer": "Body language",
+   "reason": "Not invented, and not really a language."
+  },
+  {
+   "answer": "Groot",
+   "aliases": [
+    "I am Groot"
+   ],
+   "reason": "One line, not a language. He is Groot."
+  },
+  {
+   "answer": "Hopelandic",
+   "aliases": [
+    "Vonlenska"
+   ],
+   "reason": "Wordless singing, with no vocabulary to speak of."
+  },
+  {
+   "answer": "Jabberwocky",
+   "reason": "A poem full of invented words, not a whole language."
+  },
+  {
+   "answer": "Oldspeak",
+   "reason": "Orwell's name for plain old English."
+  },
+  {
+   "answer": "Doublespeak",
+   "reason": "Evasive talk, not a language. The word blends two of Orwell's coinages."
+  },
+  {
+   "answer": "Wingdings",
+   "reason": "A font of symbols, not a language."
+  },
+  {
+   "answer": "Conlang",
+   "aliases": [
+    "Constructed language",
+    "Artificial language",
+    "Invented language",
+    "Fictional language",
+    "Made-up language",
+    "Auxiliary language",
+    "International language",
+    "Universal language"
+   ],
+   "reason": "Which one? Name a particular language."
+  },
+  {
+   "answer": "Lingua franca",
+   "aliases": [
+    "Sabir"
+   ],
+   "reason": "A trading tongue that grew up in Mediterranean ports, not one made on purpose."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"constructed-languages\" on 28 November 2026."
+}

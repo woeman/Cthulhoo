@@ -241,7 +241,14 @@ for (const packId of readdirSync(srcDir).sort()) {
   if (!existsSync(metaPath)) continue;
   const pack = JSON.parse(readFileSync(metaPath, "utf8"));
   if (pack.id !== packId) throw new Error(`${metaPath}: id should be "${packId}"`);
-  const prompts = readdirSync(dir).filter((f) => f.endsWith(".txt")).sort().map((f) => buildPrompt(join(dir, f), packId));
+  // A .txt file is a hand-written source. A .json file is a whole prompt
+  // copied from the daily bank under a pack id, used as it stands.
+  const prompts = readdirSync(dir).filter((f) => /^\d.*\.(txt|json)$/.test(f)).sort().map((f) => {
+    if (f.endsWith(".txt")) return buildPrompt(join(dir, f), packId);
+    const copied = JSON.parse(readFileSync(join(dir, f), "utf8"));
+    if (!copied.id?.startsWith(`${packId}-`)) throw new Error(`${f}: id must start with "${packId}-"`);
+    return copied;
+  });
   if (prompts.length === 0) continue; // a pack with no questions yet is not published
   writeFileSync(join(outDir, `${packId}.json`), JSON.stringify({ pack, prompts }) + "\n");
   const answers = prompts.reduce((n, p) => n + p.answers.length, 0);

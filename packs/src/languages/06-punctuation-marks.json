@@ -1,0 +1,832 @@
+{
+ "id": "languages-punctuation-marks",
+ "text": "Name a punctuation mark.",
+ "category": "language",
+ "flavor": "Every sentence must end somewhere. Most end in a full stop. Some end in a scream.",
+ "rules": "Any mark that punctuates writing, from everyday ones to typographic marks like the asterisk or hash, and rare or proposed ones too. Accents, currency signs and maths symbols don't count.",
+ "answers": [
+  {
+   "answer": "Full stop",
+   "aliases": [
+    "Period",
+    "Dot",
+    "Full point",
+    "Stop"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Comma",
+   "aliases": [
+    "Oxford comma",
+    "Serial comma",
+    "Harvard comma"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Question mark",
+   "aliases": [
+    "Interrogation mark",
+    "Interrogation point",
+    "Query",
+    "Eroteme"
+   ],
+   "tier": 1,
+   "lore": "No one knows where it came from. One tale says scribes shortened Latin quaestio to a Q perched over an o."
+  },
+  {
+   "answer": "Exclamation mark",
+   "aliases": [
+    "Exclamation point",
+    "Exclamation",
+    "Bang",
+    "Shriek",
+    "Screamer",
+    "Pling"
+   ],
+   "tier": 1,
+   "lore": "Many typewriters had no key for it. Typists struck a full stop, backspaced and typed an apostrophe over it."
+  },
+  {
+   "answer": "Apostrophe",
+   "aliases": [
+    "Possessive apostrophe",
+    "Grocer's apostrophe",
+    "Greengrocer's apostrophe"
+   ],
+   "tier": 1,
+   "lore": "The Apostrophe Protection Society closed in 2019. Its founder, then 95, said ignorance and laziness had won."
+  },
+  {
+   "answer": "Colon",
+   "tier": 1
+  },
+  {
+   "answer": "Semicolon",
+   "tier": 1,
+   "lore": "Its first known appearance in print was in Venice in 1496, in Pietro Bembo's De Aetna, from the press of Aldus Manutius."
+  },
+  {
+   "answer": "Quotation marks",
+   "aliases": [
+    "Quotation mark",
+    "Quotation",
+    "Quote marks",
+    "Quotes",
+    "Speech marks",
+    "Inverted commas",
+    "Single quotes",
+    "Double quotes",
+    "Single quotation marks",
+    "Double quotation marks",
+    "Smart quotes",
+    "Curly quotes",
+    "Scare quotes",
+    "Low quotation marks",
+    "German quotation marks",
+    "Talking marks",
+    "Double inverted commas",
+    "Single inverted commas"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hyphen",
+   "tier": 1
+  },
+  {
+   "answer": "Dash",
+   "tier": 1
+  },
+  {
+   "answer": "Brackets",
+   "aliases": [
+    "Bracket",
+    "Bracets",
+    "Brackes"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Parentheses",
+   "aliases": [
+    "Parenthesis",
+    "Round brackets",
+    "Parens",
+    "Curved brackets",
+    "Curved bracket"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Ellipsis",
+   "aliases": [
+    "Ellipses",
+    "Dot dot dot",
+    "Three dots",
+    "Suspension points"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Slash",
+   "aliases": [
+    "Forward slash",
+    "Stroke",
+    "Oblique",
+    "Oblique stroke",
+    "Slant",
+    "Solidus",
+    "Virgule"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Asterisk",
+   "aliases": [
+    "Star",
+    "Asterix"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ampersand",
+   "aliases": [
+    "And sign",
+    "And symbol",
+    "Amp",
+    "And"
+   ],
+   "tier": 2,
+   "lore": "Children once recited it as the last letter of the alphabet: 'and per se and', which blurred into its name."
+  },
+  {
+   "answer": "Square brackets",
+   "aliases": [
+    "Box brackets",
+    "Crotchets"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Em dash",
+   "aliases": [
+    "Em rule",
+    "M dash",
+    "Long dash"
+   ],
+   "tier": 2,
+   "lore": "Emily Dickinson's poems are thick with dashes, and her early editors took most of them out."
+  },
+  {
+   "answer": "Hash",
+   "aliases": [
+    "Hash sign",
+    "Hash mark",
+    "Hashtag",
+    "Pound sign",
+    "Number sign",
+    "Octothorpe",
+    "Octothorp",
+    "Hash key",
+    "Hash symbol",
+    "Number symbol",
+    "Sharp"
+   ],
+   "tier": 2,
+   "lore": "Engineers at Bell Labs called it the octothorpe in the 1960s, perhaps as a joke."
+  },
+  {
+   "answer": "At sign",
+   "aliases": [
+    "At symbol",
+    "At",
+    "Commercial at",
+    "At mark",
+    "Arobase",
+    "Strudel",
+    "Arroba"
+   ],
+   "tier": 2,
+   "lore": "Italians call it the snail, Danes the elephant's trunk, and the Dutch the little monkey's tail."
+  },
+  {
+   "answer": "Bullet",
+   "aliases": [
+    "Bullet point",
+    "Dot point",
+    "Dot points"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Backslash",
+   "aliases": [
+    "Reverse solidus",
+    "Backward slash",
+    "Reverse slash"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Underscore",
+   "aliases": [
+    "Underline",
+    "Low line",
+    "Understrike"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "En dash",
+   "aliases": [
+    "En rule",
+    "N dash"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Curly brackets",
+   "aliases": [
+    "Braces",
+    "Curly braces",
+    "Squiggly brackets",
+    "Brace",
+    "Flower brackets"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Angle brackets",
+   "aliases": [
+    "Chevrons",
+    "Pointy brackets",
+    "Chevron"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Interrobang",
+   "aliases": [
+    "Interabang",
+    "Exclamation question mark"
+   ],
+   "tier": 3,
+   "lore": "Invented in 1962 by Martin Speckter, an American advertising man, for questions asked in disbelief."
+  },
+  {
+   "answer": "Pilcrow",
+   "aliases": [
+    "Paragraph mark",
+    "Paragraph sign",
+    "Blind P",
+    "Paragraph symbol"
+   ],
+   "tier": 3,
+   "lore": "Scribes left a gap for one at each new paragraph, to be painted in red later. When nobody did, the gap became the indent. So the story goes."
+  },
+  {
+   "answer": "Dagger",
+   "aliases": [
+    "Obelisk",
+    "Dagger symbol"
+   ],
+   "tier": 3,
+   "lore": "It marks the second footnote, after the asterisk. Next to a name, it can mean the person has died."
+  },
+  {
+   "answer": "Section sign",
+   "aliases": [
+    "Section mark",
+    "Section symbol",
+    "Silcrow",
+    "Double S"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Caret",
+   "aliases": [
+    "Hat",
+    "Insertion mark",
+    "Carrot",
+    "Carot"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tilde",
+   "aliases": [
+    "Squiggle",
+    "Twiddle"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vertical bar",
+   "aliases": [
+    "Pipe",
+    "Bar",
+    "Vertical line",
+    "Pipe symbol",
+    "Vertical slash"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Inverted question mark",
+   "aliases": [
+    "Upside-down question mark",
+    "Spanish question mark",
+    "Opening question mark"
+   ],
+   "tier": 3,
+   "lore": "Spanish has opened its questions with one since the Royal Spanish Academy recommended it in 1754."
+  },
+  {
+   "answer": "Inverted exclamation mark",
+   "aliases": [
+    "Upside-down exclamation mark",
+    "Inverted exclamation point",
+    "Spanish exclamation mark",
+    "Upside-down exclamation point"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Guillemets",
+   "aliases": [
+    "Guillemet",
+    "Angle quotes",
+    "French quotation marks",
+    "French quotes",
+    "Chevron quotes",
+    "Angle quotation marks",
+    "Angled quotation marks"
+   ],
+   "tier": 3,
+   "lore": "Said to be named after Guillaume Le Bé, a 16th-century French punchcutter, though he didn't invent them."
+  },
+  {
+   "answer": "Ditto mark",
+   "aliases": [
+    "Ditto",
+    "Ditto sign"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Double dagger",
+   "aliases": [
+    "Diesis",
+    "Double obelisk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Interpunct",
+   "aliases": [
+    "Middle dot",
+    "Interpoint",
+    "Centred dot",
+    "Centered dot",
+    "Mid dot",
+    "Raised dot"
+   ],
+   "tier": 4,
+   "lore": "The Romans carved it between words, before spaces caught on."
+  },
+  {
+   "answer": "Irony mark",
+   "aliases": [
+    "Irony point",
+    "Point d'ironie",
+    "Reversed question mark",
+    "Backwards question mark"
+   ],
+   "tier": 4,
+   "lore": "A back-to-front question mark proposed by the French poet Alcanter de Brahm in 1899."
+  },
+  {
+   "answer": "Prime",
+   "aliases": [
+    "Prime mark",
+    "Double prime",
+    "Inch mark",
+    "Foot mark"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Asterism",
+   "tier": 4,
+   "lore": "Three asterisks in a triangle, once used to mark a break in the text or a note."
+  },
+  {
+   "answer": "Backtick",
+   "aliases": [
+    "Backquote"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Figure dash",
+   "tier": 4
+  },
+  {
+   "answer": "Swung dash",
+   "tier": 4
+  },
+  {
+   "answer": "Obelus",
+   "tier": 4,
+   "lore": "Ancient scholars marked lines of Homer they suspected were fakes with it. Today's ÷ shares its name."
+  },
+  {
+   "answer": "Soft hyphen",
+   "aliases": [
+    "Discretionary hyphen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Greek question mark",
+   "aliases": [
+    "Erotimatiko"
+   ],
+   "tier": 4,
+   "lore": "It looks exactly like an English semicolon."
+  },
+  {
+   "answer": "Sarcasm mark",
+   "aliases": [
+    "SarcMark",
+    "Sarcasm point"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Danda",
+   "aliases": [
+    "Purna viram"
+   ],
+   "tier": 4,
+   "lore": "The full stop of Hindi and Sanskrit: a single upright stroke."
+  },
+  {
+   "answer": "Dinkus",
+   "tier": 4,
+   "lore": "Three spaced asterisks, * * *, set between paragraphs to mark a jump in time or place."
+  },
+  {
+   "answer": "Fleuron",
+   "aliases": [
+    "Hedera",
+    "Printer's flower",
+    "Floral heart",
+    "Aldus leaf"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Corner brackets",
+   "tier": 4
+  },
+  {
+   "answer": "Quotation dash",
+   "aliases": [
+    "Horizontal bar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Two-em dash",
+   "aliases": [
+    "Double em dash"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Three-em dash",
+   "tier": 5
+  },
+  {
+   "answer": "Double hyphen",
+   "tier": 5
+  },
+  {
+   "answer": "Reference mark",
+   "aliases": [
+    "Komejirushi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tironian et",
+   "aliases": [
+    "Tironian and",
+    "Tironian sign"
+   ],
+   "tier": 5,
+   "lore": "Shorthand for 'and' from ancient Rome. It survives on Irish road signs, standing for agus."
+  },
+  {
+   "answer": "Lenticular brackets",
+   "aliases": [
+    "Black lenticular brackets"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tortoiseshell brackets",
+   "tier": 5
+  },
+  {
+   "answer": "Broken bar",
+   "tier": 5
+  },
+  {
+   "answer": "Lozenge",
+   "tier": 5
+  },
+  {
+   "answer": "Arabic comma",
+   "tier": 5
+  },
+  {
+   "answer": "Ideographic full stop",
+   "aliases": [
+    "Chinese full stop",
+    "Japanese full stop"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Punctus",
+   "tier": 5
+  },
+  {
+   "answer": "Punctus elevatus",
+   "tier": 5
+  },
+  {
+   "answer": "Punctus versus",
+   "tier": 5
+  },
+  {
+   "answer": "Punctus interrogativus",
+   "tier": 5
+  },
+  {
+   "answer": "Positura",
+   "tier": 5
+  },
+  {
+   "answer": "Paragraphos",
+   "tier": 5
+  },
+  {
+   "answer": "Coronis",
+   "tier": 5
+  },
+  {
+   "answer": "Hypodiastole",
+   "tier": 5
+  },
+  {
+   "answer": "Love point",
+   "aliases": [
+    "Point d'amour"
+   ],
+   "tier": 5,
+   "lore": "Two mirrored question marks sharing one dot to make a heart, proposed by the novelist Hervé Bazin in 1966."
+  },
+  {
+   "answer": "Acclamation point",
+   "tier": 5
+  },
+  {
+   "answer": "Certitude point",
+   "aliases": [
+    "Conviction point"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Doubt point",
+   "tier": 5
+  },
+  {
+   "answer": "Authority point",
+   "tier": 5
+  },
+  {
+   "answer": "Snark",
+   "aliases": [
+    "Snark mark"
+   ],
+   "tier": 5,
+   "lore": "A full stop followed by a tilde, proposed in 2007 to show that a remark means more than it says."
+  },
+  {
+   "answer": "Exclamation comma",
+   "tier": 5
+  },
+  {
+   "answer": "Question comma",
+   "tier": 5
+  },
+  {
+   "answer": "Arabic question mark",
+   "tier": 5,
+   "lore": "؟, turned to face the other way, as Arabic is written from right to left."
+  },
+  {
+   "answer": "Manicule",
+   "aliases": [
+    "Pointing hand",
+    "Printer's fist",
+    "Fist",
+    "Index"
+   ],
+   "tier": 6,
+   "lore": "A little pointing hand, ☞, drawn in the margins of medieval and Renaissance books to say: look here."
+  },
+  {
+   "answer": "Percontation point",
+   "aliases": [
+    "Rhetorical question mark"
+   ],
+   "tier": 6,
+   "lore": "A reversed question mark for rhetorical questions, proposed by the printer Henry Denham in the 1580s. It didn't catch on."
+  },
+  {
+   "answer": "Diple",
+   "tier": 6,
+   "lore": "An arrowhead, >, that ancient scribes drew in the margin beside notable lines. Quotation marks are descended from it."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Punctuation",
+   "aliases": [
+    "Punctuation mark",
+    "Mark"
+   ],
+   "reason": "Which one? Name a particular mark."
+  },
+  {
+   "answer": "Accent",
+   "aliases": [
+    "Accents",
+    "Acute accent",
+    "Acute",
+    "Umlaut",
+    "Diaeresis",
+    "Dieresis",
+    "Cedilla",
+    "Macron",
+    "Breve",
+    "Haček",
+    "Caron",
+    "Ogonek",
+    "Diacritic",
+    "Diacritics",
+    "Tittle"
+   ],
+   "reason": "It belongs to a letter, so it isn't punctuation."
+  },
+  {
+   "answer": "Circumflex",
+   "aliases": [
+    "Circumflex accent"
+   ],
+   "reason": "The accent doesn't count. Its loose twin on the keyboard goes by another name."
+  },
+  {
+   "answer": "Grave accent",
+   "aliases": [
+    "Grave"
+   ],
+   "reason": "The accent doesn't count. Its loose twin on the keyboard goes by another name."
+  },
+  {
+   "answer": "Plus sign",
+   "aliases": [
+    "Plus",
+    "Minus sign",
+    "Minus",
+    "Equals sign",
+    "Equals",
+    "Multiplication sign",
+    "Times sign",
+    "Division sign",
+    "Less-than sign",
+    "Greater-than sign",
+    "Percent sign",
+    "Percent",
+    "Degree sign",
+    "Infinity",
+    "Square root"
+   ],
+   "reason": "A maths symbol, not punctuation."
+  },
+  {
+   "answer": "Dollar sign",
+   "aliases": [
+    "Dollar",
+    "Euro sign",
+    "Euro",
+    "Pound sterling sign",
+    "Yen sign",
+    "Cent sign",
+    "Currency symbol"
+   ],
+   "reason": "Currency, not punctuation."
+  },
+  {
+   "answer": "Copyright sign",
+   "aliases": [
+    "Copyright symbol",
+    "Copyright",
+    "Registered trademark",
+    "Trademark symbol",
+    "Trademark"
+   ],
+   "reason": "A legal symbol, not punctuation."
+  },
+  {
+   "answer": "Emoji",
+   "aliases": [
+    "Emojis",
+    "Emoticon",
+    "Emoticons",
+    "Smiley",
+    "Smiley face"
+   ],
+   "reason": "Pictures, not punctuation, though they do much the same job now."
+  },
+  {
+   "answer": "Capital letter",
+   "aliases": [
+    "Capital letters",
+    "Capitals",
+    "Capital",
+    "Upper case",
+    "Lower case",
+    "Letter"
+   ],
+   "reason": "A letter, not punctuation."
+  },
+  {
+   "answer": "Italics",
+   "aliases": [
+    "Italic",
+    "Bold",
+    "Strikethrough"
+   ],
+   "reason": "A style of type, not a mark."
+  },
+  {
+   "answer": "Space",
+   "aliases": [
+    "Spaces",
+    "Gap",
+    "Indent",
+    "Line break"
+   ],
+   "reason": "A gap, not a mark. The deep wants something with ink in it."
+  },
+  {
+   "answer": "Paragraph",
+   "reason": "A block of writing, not a mark. Its mark has a name of its own."
+  },
+  {
+   "answer": "Decimal point",
+   "aliases": [
+    "Decimal"
+   ],
+   "reason": "It marks numbers, not sentences."
+  },
+  {
+   "answer": "Tick",
+   "aliases": [
+    "Check mark",
+    "Tick mark",
+    "Cross"
+   ],
+   "reason": "A mark for checking things off, not punctuation."
+  },
+  {
+   "answer": "Air quotes",
+   "reason": "A gesture with the fingers, not a mark on the page."
+  },
+  {
+   "answer": "Comma splice",
+   "reason": "A mistake with commas, not a mark of its own."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"punctuation-marks\" on 28 November 2026."
+}

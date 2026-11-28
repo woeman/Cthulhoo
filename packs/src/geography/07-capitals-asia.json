@@ -1,0 +1,776 @@
+{
+ "id": "geography-capitals-asia",
+ "text": "Name the capital city of a country in Asia.",
+ "category": "geography",
+ "flavor": "Emperors carried their thrones from city to city. Name where the seat of power rests today.",
+ "rules": "The capital of any country wholly or partly in Asia, so Russia, Turkey and Egypt count too, as do Taiwan and Palestine. Where a country has two capitals, either one counts.",
+ "answers": [
+  {
+   "answer": "Tokyo",
+   "aliases": [
+    "Edo",
+    "Tokio"
+   ],
+   "tier": 1,
+   "lore": "Called Edo until 1868, when the emperor moved in from Kyoto."
+  },
+  {
+   "answer": "Beijing",
+   "aliases": [
+    "Peking",
+    "Peiping",
+    "Pekin"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Bangkok",
+   "aliases": [
+    "Krung Thep",
+    "Krung Thep Maha Nakhon"
+   ],
+   "tier": 1,
+   "lore": "Thais call it Krung Thep, short for one of the longest place names on Earth."
+  },
+  {
+   "answer": "Seoul",
+   "tier": 1
+  },
+  {
+   "answer": "New Delhi",
+   "aliases": [
+    "Delhi"
+   ],
+   "tier": 1,
+   "lore": "Built by the British as the capital of India, and inaugurated in 1931."
+  },
+  {
+   "answer": "Hanoi",
+   "tier": 2
+  },
+  {
+   "answer": "Manila",
+   "aliases": [
+    "Metro Manila"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Jakarta",
+   "aliases": [
+    "Djakarta",
+    "Batavia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kuala Lumpur",
+   "aliases": [
+    "KL"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Singapore",
+   "aliases": [
+    "Singapore City"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kabul",
+   "tier": 2
+  },
+  {
+   "answer": "Tehran",
+   "aliases": [
+    "Teheran"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Baghdad",
+   "aliases": [
+    "Bagdad"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Islamabad",
+   "tier": 2
+  },
+  {
+   "answer": "Kathmandu",
+   "aliases": [
+    "Katmandu"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Pyongyang",
+   "tier": 2
+  },
+  {
+   "answer": "Taipei",
+   "aliases": [
+    "Taibei"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Moscow",
+   "aliases": [
+    "Moskva"
+   ],
+   "tier": 2,
+   "lore": "Russia's capital again since 1918, after two centuries of St Petersburg."
+  },
+  {
+   "answer": "Ankara",
+   "aliases": [
+    "Angora"
+   ],
+   "tier": 2,
+   "lore": "Chosen by Atatürk in 1923, over grand old Istanbul."
+  },
+  {
+   "answer": "Jerusalem",
+   "aliases": [
+    "Yerushalayim"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Riyadh",
+   "aliases": [
+    "Riyad",
+    "Ar-Riyad"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Abu Dhabi",
+   "tier": 2
+  },
+  {
+   "answer": "Doha",
+   "tier": 2
+  },
+  {
+   "answer": "Damascus",
+   "aliases": [
+    "Dimashq"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Beirut",
+   "aliases": [
+    "Beyrouth"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dhaka",
+   "aliases": [
+    "Dacca"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phnom Penh",
+   "tier": 3
+  },
+  {
+   "answer": "Vientiane",
+   "aliases": [
+    "Viangchan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Colombo",
+   "tier": 3
+  },
+  {
+   "answer": "Amman",
+   "tier": 3
+  },
+  {
+   "answer": "Kuwait City",
+   "aliases": [
+    "Kuwait"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Muscat",
+   "aliases": [
+    "Masqat"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ulaanbaatar",
+   "aliases": [
+    "Ulan Bator",
+    "Urga"
+   ],
+   "tier": 3,
+   "lore": "The coldest national capital on Earth."
+  },
+  {
+   "answer": "Tbilisi",
+   "aliases": [
+    "Tiflis"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Baku",
+   "tier": 3
+  },
+  {
+   "answer": "Yerevan",
+   "aliases": [
+    "Erevan",
+    "Erivan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tashkent",
+   "aliases": [
+    "Toshkent"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Astana",
+   "aliases": [
+    "Nur-Sultan",
+    "Akmola",
+    "Aqmola",
+    "Tselinograd",
+    "Akmolinsk"
+   ],
+   "tier": 3,
+   "lore": "Became the capital in 1997, when the government moved north from Almaty."
+  },
+  {
+   "answer": "Manama",
+   "tier": 3
+  },
+  {
+   "answer": "Malé",
+   "tier": 3
+  },
+  {
+   "answer": "Sanaa",
+   "tier": 3
+  },
+  {
+   "answer": "Cairo",
+   "aliases": [
+    "Al-Qahira"
+   ],
+   "tier": 3,
+   "lore": "It counts because Egypt's Sinai lies in Asia, though Cairo itself sits firmly in Africa."
+  },
+  {
+   "answer": "Bishkek",
+   "aliases": [
+    "Frunze",
+    "Pishpek"
+   ],
+   "tier": 4,
+   "lore": "Called Frunze in Soviet times, after a Red Army commander born there."
+  },
+  {
+   "answer": "Dushanbe",
+   "aliases": [
+    "Stalinabad"
+   ],
+   "tier": 4,
+   "lore": "Its name means 'Monday' in Tajik, after the market once held there on that day."
+  },
+  {
+   "answer": "Ashgabat",
+   "aliases": [
+    "Ashkhabad",
+    "Asgabat",
+    "Poltoratsk"
+   ],
+   "tier": 4,
+   "lore": "Holds the world record for the most buildings clad in white marble."
+  },
+  {
+   "answer": "Thimphu",
+   "aliases": [
+    "Thimpu"
+   ],
+   "tier": 4,
+   "lore": "One of the few capitals with no traffic lights. Police direct the traffic by hand."
+  },
+  {
+   "answer": "Bandar Seri Begawan",
+   "aliases": [
+    "Brunei Town"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dili",
+   "tier": 4
+  },
+  {
+   "answer": "Naypyidaw",
+   "aliases": [
+    "Nay Pyi Taw",
+    "Pyinmana"
+   ],
+   "tier": 4,
+   "lore": "Unveiled as the capital in 2005. Its main road has up to 20 lanes and is often almost empty."
+  },
+  {
+   "answer": "Putrajaya",
+   "tier": 4,
+   "lore": "Malaysia's purpose-built seat of government since 1999, though Kuala Lumpur is still the official capital."
+  },
+  {
+   "answer": "Ramallah",
+   "tier": 4,
+   "lore": "The seat of the Palestinian Authority, though Palestine names East Jerusalem as its capital."
+  },
+  {
+   "answer": "Nicosia",
+   "aliases": [
+    "Lefkosia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "East Jerusalem",
+   "aliases": [
+    "Al-Quds"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aden",
+   "tier": 5,
+   "lore": "Declared Yemen's temporary capital in 2015, after rebels seized Sanaa."
+  },
+  {
+   "answer": "The New Capital",
+   "aliases": [
+    "New Administrative Capital",
+    "NAC"
+   ],
+   "tier": 5,
+   "lore": "A purpose-built city east of Cairo. Egypt's ministries began moving in from 2023, and it took this name in 2025."
+  },
+  {
+   "answer": "Athens",
+   "tier": 5,
+   "lore": "Greece counts for its eastern Aegean islands, which lie just off the Turkish coast."
+  },
+  {
+   "answer": "Sri Jayawardenepura Kotte",
+   "aliases": [
+    "Kotte",
+    "Sri Jayewardenepura Kotte",
+    "Sri Jayawardenepura",
+    "Sri Jayewardenepura"
+   ],
+   "tier": 6,
+   "lore": "Sri Lanka's official capital, where parliament has sat since 1982, though most people would say Colombo."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Istanbul",
+   "aliases": [
+    "Constantinople",
+    "Byzantium"
+   ],
+   "reason": "Turkey's biggest city, but the capital moved to Ankara in 1923."
+  },
+  {
+   "answer": "Saint Petersburg",
+   "aliases": [
+    "St Petersburg",
+    "Leningrad",
+    "Petrograd"
+   ],
+   "reason": "Russia's capital for two centuries, until 1918."
+  },
+  {
+   "answer": "Kyoto",
+   "reason": "Japan's imperial capital for more than a thousand years, but not since 1868."
+  },
+  {
+   "answer": "Osaka",
+   "aliases": [
+    "Yokohama",
+    "Nagoya",
+    "Hiroshima",
+    "Sapporo"
+   ],
+   "reason": "A great Japanese city, but not the capital."
+  },
+  {
+   "answer": "Shanghai",
+   "aliases": [
+    "Guangzhou",
+    "Canton",
+    "Shenzhen",
+    "Chongqing",
+    "Wuhan",
+    "Chengdu",
+    "Tianjin",
+    "Harbin"
+   ],
+   "reason": "A huge Chinese city, but not the capital."
+  },
+  {
+   "answer": "Nanjing",
+   "aliases": [
+    "Nanking"
+   ],
+   "reason": "China's capital under the Ming, and again under the Republic, but not now."
+  },
+  {
+   "answer": "Xi'an",
+   "aliases": [
+    "Chang'an"
+   ],
+   "reason": "Capital of many ancient dynasties, but not of modern China."
+  },
+  {
+   "answer": "Hong Kong",
+   "aliases": [
+    "Macau",
+    "Macao",
+    "Kowloon"
+   ],
+   "reason": "A special administrative region of China, not a country."
+  },
+  {
+   "answer": "Lhasa",
+   "reason": "The capital of Tibet, which is a region of China."
+  },
+  {
+   "answer": "Mumbai",
+   "aliases": [
+    "Bombay"
+   ],
+   "reason": "India's biggest city, but not its capital."
+  },
+  {
+   "answer": "Kolkata",
+   "aliases": [
+    "Calcutta"
+   ],
+   "reason": "Capital of British India until 1911, but not any more."
+  },
+  {
+   "answer": "Shimla",
+   "aliases": [
+    "Simla"
+   ],
+   "reason": "The summer capital of British India, but never the real thing."
+  },
+  {
+   "answer": "Bangalore",
+   "aliases": [
+    "Bengaluru",
+    "Chennai",
+    "Madras",
+    "Hyderabad",
+    "Jaipur"
+   ],
+   "reason": "An Indian city, but not the capital."
+  },
+  {
+   "answer": "Karachi",
+   "reason": "Pakistan's first capital, until 1959, but not any more."
+  },
+  {
+   "answer": "Rawalpindi",
+   "reason": "Pakistan's stand-in capital in the 1960s, while Islamabad was being built."
+  },
+  {
+   "answer": "Lahore",
+   "reason": "Pakistan's second city, but not its capital."
+  },
+  {
+   "answer": "Yangon",
+   "aliases": [
+    "Rangoon"
+   ],
+   "reason": "Myanmar's capital until 2005, but not any more."
+  },
+  {
+   "answer": "Mandalay",
+   "reason": "The last royal capital of Burma, but not the capital now."
+  },
+  {
+   "answer": "Ho Chi Minh City",
+   "aliases": [
+    "Saigon",
+    "HCMC"
+   ],
+   "reason": "Vietnam's biggest city, and capital of South Vietnam until 1975, but not Vietnam's capital."
+  },
+  {
+   "answer": "Hue",
+   "reason": "Vietnam's imperial capital until 1945, but not now."
+  },
+  {
+   "answer": "Ayutthaya",
+   "reason": "Siam's capital for four centuries, until 1767."
+  },
+  {
+   "answer": "Chiang Mai",
+   "aliases": [
+    "Phuket",
+    "Pattaya"
+   ],
+   "reason": "A Thai city, but not the capital."
+  },
+  {
+   "answer": "Angkor",
+   "aliases": [
+    "Siem Reap",
+    "Angkor Wat"
+   ],
+   "reason": "The ancient Khmer capital, but not Cambodia's capital now."
+  },
+  {
+   "answer": "Luang Prabang",
+   "reason": "The royal capital of Laos until 1975, but not now."
+  },
+  {
+   "answer": "Quezon City",
+   "reason": "Capital of the Philippines from 1948 to 1976, but not now."
+  },
+  {
+   "answer": "Cebu",
+   "aliases": [
+    "Cebu City",
+    "Davao"
+   ],
+   "reason": "A Philippine city, but not the capital."
+  },
+  {
+   "answer": "Surabaya",
+   "aliases": [
+    "Bandung",
+    "Denpasar",
+    "Bali",
+    "Medan",
+    "Yogyakarta"
+   ],
+   "reason": "An Indonesian city, but not the capital."
+  },
+  {
+   "answer": "Nusantara",
+   "aliases": [
+    "IKN"
+   ],
+   "reason": "Indonesia's capital-to-be. Jakarta keeps the title until a decree says otherwise."
+  },
+  {
+   "answer": "Busan",
+   "aliases": [
+    "Pusan"
+   ],
+   "reason": "South Korea's temporary capital during the Korean War, but not now."
+  },
+  {
+   "answer": "Sejong",
+   "aliases": [
+    "Sejong City"
+   ],
+   "reason": "Home to many of South Korea's ministries, but Seoul is still the capital."
+  },
+  {
+   "answer": "Karakorum",
+   "reason": "Capital of the Mongol Empire in the 13th century."
+  },
+  {
+   "answer": "Almaty",
+   "aliases": [
+    "Alma-Ata"
+   ],
+   "reason": "Kazakhstan's capital until 1997, but not any more."
+  },
+  {
+   "answer": "Samarkand",
+   "aliases": [
+    "Bukhara"
+   ],
+   "reason": "A great Silk Road city, but not Uzbekistan's capital."
+  },
+  {
+   "answer": "Tel Aviv",
+   "reason": "Home to most foreign embassies, but Israel's government sits in Jerusalem."
+  },
+  {
+   "answer": "Dubai",
+   "reason": "The UAE's biggest city, but the capital is Abu Dhabi."
+  },
+  {
+   "answer": "Jeddah",
+   "aliases": [
+    "Jiddah"
+   ],
+   "reason": "Saudi Arabia's great port, but not its capital."
+  },
+  {
+   "answer": "Mecca",
+   "aliases": [
+    "Makkah",
+    "Medina"
+   ],
+   "reason": "Islam's holiest city, but not Saudi Arabia's capital."
+  },
+  {
+   "answer": "Aleppo",
+   "reason": "Syria's second city, but not its capital."
+  },
+  {
+   "answer": "Babylon",
+   "reason": "Capital of ancient Babylonia, in what is now Iraq."
+  },
+  {
+   "answer": "Persepolis",
+   "reason": "The ceremonial capital of the ancient Persian Empire."
+  },
+  {
+   "answer": "Isfahan",
+   "aliases": [
+    "Esfahan"
+   ],
+   "reason": "Persia's capital in the 17th century, but not Iran's now."
+  },
+  {
+   "answer": "Kandahar",
+   "reason": "Afghanistan's first capital, in the 18th century, but not now."
+  },
+  {
+   "answer": "Petra",
+   "reason": "An ancient city carved from rock in Jordan, but not its capital."
+  },
+  {
+   "answer": "Erbil",
+   "reason": "Capital of Iraq's Kurdistan Region, not of a country."
+  },
+  {
+   "answer": "Gaza",
+   "aliases": [
+    "Gaza City"
+   ],
+   "reason": "A city and a strip of land, not Palestine's capital."
+  },
+  {
+   "answer": "Mosul",
+   "aliases": [
+    "Basra"
+   ],
+   "reason": "An Iraqi city, but not the capital."
+  },
+  {
+   "answer": "Kandy",
+   "reason": "Capital of the last Sinhalese kingdom, until 1815."
+  },
+  {
+   "answer": "Punakha",
+   "reason": "Bhutan's capital until 1955, but not now."
+  },
+  {
+   "answer": "Alexandria",
+   "reason": "Egypt's capital in ancient times, but not now."
+  },
+  {
+   "answer": "Vladivostok",
+   "aliases": [
+    "Novosibirsk",
+    "Yekaterinburg"
+   ],
+   "reason": "A Russian city in Asia, but not the capital."
+  },
+  {
+   "answer": "Izmir",
+   "aliases": [
+    "Antalya"
+   ],
+   "reason": "A Turkish city, but not the capital."
+  },
+  {
+   "answer": "Thailand",
+   "aliases": [
+    "China",
+    "Japan",
+    "India",
+    "Vietnam",
+    "South Korea",
+    "Indonesia",
+    "Philippines",
+    "Pakistan",
+    "Malaysia",
+    "North Korea",
+    "Russia",
+    "Iran",
+    "Iraq",
+    "Afghanistan",
+    "Saudi Arabia",
+    "Nepal",
+    "Sri Lanka",
+    "Bangladesh",
+    "Cambodia",
+    "Mongolia",
+    "Taiwan",
+    "Israel",
+    "Turkey",
+    "Myanmar",
+    "Burma",
+    "Laos",
+    "United Arab Emirates",
+    "UAE",
+    "Qatar",
+    "Syria",
+    "Palestine",
+    "Kazakhstan",
+    "Uzbekistan",
+    "Jordan",
+    "Lebanon",
+    "Yemen",
+    "Bhutan",
+    "Maldives",
+    "Georgia",
+    "Tajikistan",
+    "Kyrgyzstan",
+    "Turkmenistan",
+    "Brunei",
+    "Bahrain",
+    "Armenia",
+    "Azerbaijan",
+    "Timor-Leste",
+    "East Timor",
+    "Cyprus",
+    "Egypt",
+    "Korea",
+    "Greece"
+   ],
+   "reason": "That's the country. Name its capital."
+  }
+ ],
+ "decoys": [
+  "Panama",
+  "Angola"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"capitals-asia\" on 28 November 2026."
+}

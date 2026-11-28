@@ -1,0 +1,1140 @@
+{
+ "id": "geography-deserts",
+ "text": "Name a desert.",
+ "category": "geography",
+ "flavor": "Not every drowned place is under water. Some are drowned in sand.",
+ "rules": "Any named desert on Earth, hot or cold. Saying 'desert' after the name is optional.",
+ "answers": [
+  {
+   "answer": "Sahara",
+   "aliases": [
+    "Sahara Desert",
+    "Great Sahara",
+    "Great Desert",
+    "Sahra",
+    "As-Sahra al-Kubra",
+    "Sahra al-Kubra"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Gobi",
+   "aliases": [
+    "Gobi Desert",
+    "Govi"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Kalahari",
+   "aliases": [
+    "Kalahari Desert",
+    "Kgalagadi",
+    "Kalahari Basin"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Atacama",
+   "aliases": [
+    "Atacama Desert",
+    "Desierto de Atacama"
+   ],
+   "tier": 2,
+   "lore": "Parts of it have never recorded rain. NASA tests Mars rovers there."
+  },
+  {
+   "answer": "Mojave",
+   "aliases": [
+    "Mojave Desert",
+    "Mohave",
+    "Mohave Desert",
+    "High Desert",
+    "Death Valley",
+    "Death Valley Desert"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sonoran",
+   "aliases": [
+    "Sonoran Desert",
+    "Sonora",
+    "Sonora Desert",
+    "Desierto de Sonora",
+    "Gila Desert"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Arabian Desert",
+   "aliases": [
+    "Arabian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Antarctic Desert",
+   "aliases": [
+    "Antarctica",
+    "Antarctic",
+    "Antarctic Polar Desert"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "The largest desert on Earth. Deserts are defined by how little falls from the sky, not by heat."
+  },
+  {
+   "answer": "Namib",
+   "aliases": [
+    "Namib Desert",
+    "Namib-Naukluft",
+    "Namib Sand Sea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Great Victoria Desert",
+   "aliases": [
+    "Great Victoria",
+    "Victoria Desert"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Thar",
+   "aliases": [
+    "Thar Desert",
+    "Great Indian Desert",
+    "Marusthali",
+    "Marusthal",
+    "Indian Desert"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Taklamakan",
+   "aliases": [
+    "Taklimakan",
+    "Taklamakan Desert",
+    "Teklimakan",
+    "Taklimakan Desert",
+    "Taklamakan Shamo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Chihuahuan",
+   "aliases": [
+    "Chihuahuan Desert",
+    "Chihuahua Desert",
+    "Chihuahua",
+    "White Sands"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Great Basin Desert",
+   "aliases": [
+    "Great Basin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Simpson Desert",
+   "aliases": [
+    "Simpson"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Great Sandy Desert",
+   "aliases": [
+    "Great Sandy"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arctic Desert",
+   "aliases": [
+    "Arctic",
+    "Arctic Polar Desert"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Negev",
+   "aliases": [
+    "Negev Desert",
+    "Negeb",
+    "Naqab",
+    "HaNegev"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Patagonian Desert",
+   "aliases": [
+    "Patagonian",
+    "Patagonia",
+    "Patagonia Desert",
+    "Patagonian Steppe"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Rub' al Khali",
+   "aliases": [
+    "Empty Quarter",
+    "Rub' al Khali Desert",
+    "Ar-Rub' al-Khali"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Syrian Desert",
+   "aliases": [
+    "Syrian",
+    "Badiyat al-Sham"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Karakum",
+   "aliases": [
+    "Garagum",
+    "Karakum Desert",
+    "Qaraqum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kyzylkum",
+   "aliases": [
+    "Qizilqum",
+    "Kyzylkum Desert",
+    "Qyzylqum",
+    "Kizilkum",
+    "Red Sands"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tanami",
+   "aliases": [
+    "Tanami Desert"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Danakil",
+   "aliases": [
+    "Danakil Desert",
+    "Danakil Depression",
+    "Afar Desert"
+   ],
+   "tier": 4,
+   "lore": "Lava lakes, acid pools and salt flats, and one of the hottest inhabited places on the planet."
+  },
+  {
+   "answer": "Nubian Desert",
+   "aliases": [
+    "Nubian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Libyan Desert",
+   "aliases": [
+    "Western Desert",
+    "Libyan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sinai Desert",
+   "aliases": [
+    "Sinai",
+    "Sinai Peninsula"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Judaean Desert",
+   "aliases": [
+    "Judaean",
+    "Judean Desert",
+    "Judean",
+    "Judea Desert",
+    "Wilderness of Judaea",
+    "Wilderness of Judea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Black Rock Desert",
+   "aliases": [
+    "Black Rock"
+   ],
+   "tier": 4,
+   "lore": "A dry lakebed in Nevada that holds a temporary city, Burning Man, each summer."
+  },
+  {
+   "answer": "Painted Desert",
+   "aliases": [
+    "Painted"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wadi Rum",
+   "aliases": [
+    "Valley of the Moon",
+    "Wadi Rum Desert"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Karoo",
+   "aliases": [
+    "Great Karoo",
+    "Karoo Desert",
+    "Karroo",
+    "Little Karoo",
+    "Klein Karoo",
+    "Tankwa Karoo",
+    "Succulent Karoo",
+    "Nama Karoo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ad-Dahna",
+   "aliases": [
+    "Dahna",
+    "Ad-Dahna Desert",
+    "Dahna Desert"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rann of Kutch",
+   "aliases": [
+    "Great Rann of Kutch",
+    "Rann of Kachchh",
+    "Kutch Desert",
+    "Salt Desert of Kutch",
+    "White Rann"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dasht-e Kavir",
+   "aliases": [
+    "Great Salt Desert",
+    "Kavir Desert",
+    "Dasht-i-Kavir",
+    "Dasht-e Kavir Desert",
+    "Kavir"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dasht-e Lut",
+   "aliases": [
+    "Lut Desert",
+    "Lut",
+    "Dasht-i-Lut",
+    "Dasht-e Lut Desert"
+   ],
+   "tier": 5,
+   "lore": "Satellites have measured ground temperatures there above 70°C, among the hottest ever recorded."
+  },
+  {
+   "answer": "Gibson Desert",
+   "aliases": [
+    "Gibson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Strzelecki Desert",
+   "aliases": [
+    "Strzelecki"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Little Sandy Desert",
+   "aliases": [
+    "Little Sandy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sturt Stony Desert",
+   "aliases": [
+    "Sturt Stony"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ordos Desert",
+   "aliases": [
+    "Mu Us Desert",
+    "Mu Us",
+    "Ordos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Badain Jaran",
+   "aliases": [
+    "Badain Jaran Desert"
+   ],
+   "tier": 5,
+   "lore": "Home to some of the tallest stationary sand dunes on Earth, with lakes hidden between them."
+  },
+  {
+   "answer": "Tengger Desert",
+   "aliases": [
+    "Tengger"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kumtag Desert",
+   "aliases": [
+    "Kumtag"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gurbantünggüt",
+   "aliases": [
+    "Gurbantunggut Desert",
+    "Dzungarian Desert",
+    "Junggar Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chalbi Desert",
+   "aliases": [
+    "Chalbi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eastern Desert",
+   "aliases": [
+    "Eastern"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Owyhee Desert",
+   "aliases": [
+    "Owyhee"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Red Desert",
+   "aliases": [
+    "Red"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Colorado Desert",
+   "aliases": [
+    "Colorado",
+    "Anza-Borrego",
+    "Anza-Borrego Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yuma Desert",
+   "aliases": [
+    "Yuma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Salt Lake Desert",
+   "aliases": [
+    "Great Salt Lake"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sechura Desert",
+   "aliases": [
+    "Sechura"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "La Guajira Desert",
+   "aliases": [
+    "La Guajira"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thal Desert",
+   "aliases": [
+    "Thal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cholistan Desert",
+   "aliases": [
+    "Cholistan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kharan Desert",
+   "aliases": [
+    "Kharan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Registan Desert",
+   "aliases": [
+    "Registan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nefud",
+   "aliases": [
+    "An Nafud",
+    "Nefud Desert",
+    "Great Nafud"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lop Desert",
+   "aliases": [
+    "Lop"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kubuqi Desert",
+   "aliases": [
+    "Kubuqi",
+    "Hobq Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bardenas Reales",
+   "aliases": [
+    "Bardenas",
+    "Bardenas Reales Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Błędów Desert",
+   "aliases": [
+    "Błędów"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tirari Desert",
+   "aliases": [
+    "Tirari"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monte Desert",
+   "aliases": [
+    "Monte"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vizcaíno Desert",
+   "aliases": [
+    "Vizcaíno"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aralkum",
+   "aliases": [
+    "Aralkum Desert",
+    "Aral Karakum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tatacoa Desert",
+   "aliases": [
+    "Tatacoa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taukum",
+   "aliases": [
+    "Taukum Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paran",
+   "aliases": [
+    "Desert of Paran",
+    "Paran Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hami Desert",
+   "aliases": [
+    "Hami"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ryn Desert",
+   "aliases": [
+    "Ryn",
+    "Ryn Sands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taru Desert",
+   "aliases": [
+    "Taru"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guban",
+   "aliases": [
+    "Guban Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Puna",
+   "aliases": [
+    "Puna de Atacama",
+    "Puna Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alashan Desert",
+   "aliases": [
+    "Alashan",
+    "Alxa Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pedirka Desert",
+   "aliases": [
+    "Pedirka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ulan Buh",
+   "aliases": [
+    "Ulan Buh Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ogaden",
+   "aliases": [
+    "Ogaden Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alvord Desert",
+   "aliases": [
+    "Alvord"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "White Desert",
+   "aliases": [
+    "Sahara el Beyda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gran Desierto de Altar",
+   "aliases": [
+    "Altar Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moyunkum",
+   "aliases": [
+    "Moyunkum Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oleshky Sands",
+   "aliases": [
+    "Oleshky Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaʻū Desert",
+   "aliases": [
+    "Kaʻū"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lençóis Maranhenses",
+   "aliases": [
+    "Lençóis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Médanos de Coro",
+   "aliases": [
+    "Coro Dunes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nazca Desert",
+   "aliases": [
+    "Nazca",
+    "Nasca Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Monegros Desert",
+   "aliases": [
+    "Los Monegros",
+    "Monegros"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Accona Desert",
+   "aliases": [
+    "Deserto di Accona",
+    "Accona"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oltenian Sahara",
+   "aliases": [
+    "Sahara of Oltenia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Deliblato Sands",
+   "aliases": [
+    "Deliblatska Peščara",
+    "Deliblato"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ódáðahraun",
+   "tier": 5
+  },
+  {
+   "answer": "Carcross Desert",
+   "aliases": [
+    "Carcross"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Osoyoos Desert",
+   "aliases": [
+    "Nk'Mip Desert",
+    "Okanagan Desert",
+    "Osoyoos"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lechuguilla Desert",
+   "aliases": [
+    "Lechuguilla"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amargosa Desert",
+   "aliases": [
+    "Amargosa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Escalante Desert",
+   "aliases": [
+    "Escalante"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Smoke Creek Desert",
+   "aliases": [
+    "Smoke Creek"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Forty Mile Desert",
+   "aliases": [
+    "40 Mile Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sevier Desert",
+   "aliases": [
+    "Sevier"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yuha Desert",
+   "aliases": [
+    "Yuha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oregon High Desert",
+   "aliases": [
+    "Oregon Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Baja California Desert",
+   "aliases": [
+    "Baja Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Black Desert",
+   "aliases": [
+    "Sahara el Suda",
+    "Black Desert of Egypt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Great Sand Sea",
+   "aliases": [
+    "Egyptian Sand Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erg Chebbi",
+   "aliases": [
+    "Merzouga dunes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Grand Erg Oriental",
+   "aliases": [
+    "Great Eastern Erg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Grand Erg Occidental",
+   "aliases": [
+    "Great Western Erg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tanezrouft",
+   "tier": 5
+  },
+  {
+   "answer": "Bayuda Desert",
+   "aliases": [
+    "Bayuda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lompoul Desert",
+   "aliases": [
+    "Lompoul"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaokoveld",
+   "aliases": [
+    "Kaokoveld Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Djurab Desert",
+   "aliases": [
+    "Djourab",
+    "Djurab"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nyiri Desert",
+   "aliases": [
+    "Nyiri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dida Galgalu Desert",
+   "aliases": [
+    "Dida Galgalu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaisut Desert",
+   "aliases": [
+    "Kaisut"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "McMurdo Dry Valleys",
+   "aliases": [
+    "Dry Valleys"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Qaidam Desert",
+   "aliases": [
+    "Qaidam Basin",
+    "Tsaidam"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Horqin Sandy Land",
+   "aliases": [
+    "Horqin Desert",
+    "Horqin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Otindag Sandy Land",
+   "aliases": [
+    "Hunshandake",
+    "Otindag Desert",
+    "Hunshandake Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Betpak-Dala",
+   "aliases": [
+    "Betpaqdala",
+    "Betpak-Dala Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dasht-e Margo",
+   "aliases": [
+    "Dasht-i-Margo",
+    "Margo Desert",
+    "Desert of Death"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jafura Desert",
+   "aliases": [
+    "Al-Jafurah",
+    "Jafurah"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wahiba Sands",
+   "aliases": [
+    "Sharqiya Sands",
+    "Ramlat al-Wahiba",
+    "Wahiba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wilderness of Zin",
+   "aliases": [
+    "Desert of Zin",
+    "Zin Desert",
+    "Zin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wilderness of Sin",
+   "aliases": [
+    "Desert of Sin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chara Sands",
+   "tier": 5
+  },
+  {
+   "answer": "Katpana Desert",
+   "aliases": [
+    "Katpana",
+    "Skardu Desert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pinnacles Desert",
+   "aliases": [
+    "Pinnacles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dungeness",
+   "aliases": [
+    "Dungeness Desert"
+   ],
+   "tier": 5,
+   "lore": "A shingle headland in Kent, often called Britain's only desert, though it is far too wet to be one by most definitions."
+  },
+  {
+   "answer": "Ténéré",
+   "aliases": [
+    "Ténéré Desert"
+   ],
+   "tier": 6,
+   "lore": "Once home to the Tree of Ténéré, thought the most isolated tree on Earth, until a lorry drove into it in 1973."
+  },
+  {
+   "answer": "Tabernas Desert",
+   "aliases": [
+    "Tabernas",
+    "Desierto de Tabernas"
+   ],
+   "tier": 6,
+   "lore": "Often called Europe's only true desert. Dozens of spaghetti westerns were filmed there."
+  },
+  {
+   "answer": "Jornada del Muerto",
+   "aliases": [
+    "Jornada del Muerto Desert"
+   ],
+   "tier": 6,
+   "lore": "Its name means 'journey of the dead man'. The first atomic bomb was tested there in 1945."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Dessert",
+   "reason": "That is pudding. The deep has no sweet tooth."
+  },
+  {
+   "answer": "Sahel",
+   "aliases": [
+    "Sahel Desert"
+   ],
+   "reason": "The semi-arid belt south of the Sahara. Dry, but not desert."
+  },
+  {
+   "answer": "Outback",
+   "reason": "A vast region, not one desert, though it holds several."
+  },
+  {
+   "answer": "Arrakis",
+   "aliases": [
+    "Dune"
+   ],
+   "reason": "Fictional. The spice, regrettably, does not flow."
+  },
+  {
+   "answer": "Tatooine",
+   "aliases": [
+    "Jakku"
+   ],
+   "reason": "Fictional. The deep has checked every sky."
+  },
+  {
+   "answer": "Serengeti",
+   "reason": "A savanna, not a desert."
+  },
+  {
+   "answer": "Tundra",
+   "reason": "A kind of landscape, not a named desert."
+  },
+  {
+   "answer": "Grand Canyon",
+   "reason": "A canyon, not a desert."
+  },
+  {
+   "answer": "Nullarbor",
+   "aliases": [
+    "Nullarbor Plain"
+   ],
+   "reason": "A vast flat plain, dry and treeless, but not a desert by name."
+  },
+  {
+   "answer": "Desert",
+   "aliases": [
+    "Deserts",
+    "Sand dunes",
+    "Dunes"
+   ],
+   "reason": "The deep wants one by name."
+  }
+ ],
+ "decoys": [
+  "Steppe",
+  "Siberia",
+  "Mongolia",
+  "Sarah"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"deserts\" on 28 November 2026."
+}

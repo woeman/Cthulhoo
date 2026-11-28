@@ -35,6 +35,30 @@
    "file": "ethics.json",
    "prompts": 13,
    "answers": 1539
+  },
+  {
+   "id": "anatomy",
+   "name": "Anatomy",
+   "title": "The Flesh Remembers",
+   "blurb": "Bones, muscles, organs, nerves, hormones and the cells that build a body.",
+   "group": "Science",
+   "order": 4,
+   "asOf": "2026-11-28",
+   "file": "anatomy.json",
+   "prompts": 10,
+   "answers": 1421
+  },
+  {
+   "id": "chemistry",
+   "name": "Chemistry",
+   "title": "The Alchemist's Residue",
+   "blurb": "Elements, compounds, gases, alloys, glassware and the people who mixed them.",
+   "group": "Science",
+   "order": 5,
+   "asOf": "2026-11-28",
+   "file": "chemistry.json",
+   "prompts": 10,
+   "answers": 1486
   }
  ]
 }

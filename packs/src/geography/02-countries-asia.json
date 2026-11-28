@@ -1,0 +1,698 @@
+{
+ "id": "geography-countries-asia",
+ "text": "Name a country in Asia.",
+ "category": "geography",
+ "flavor": "More than half of humankind lives here, beneath mountains that were once the floor of the sea.",
+ "rules": "Any sovereign state wholly or partly in Asia, Taiwan and Palestine included, along with countries that straddle two continents, like Russia and Turkey. Territories such as Hong Kong don't count.",
+ "answers": [
+  {
+   "answer": "China",
+   "aliases": [
+    "People's Republic of China",
+    "PRC",
+    "Zhongguo",
+    "Mainland China",
+    "Cathay"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Japan",
+   "aliases": [
+    "Nippon",
+    "Nihon"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "India",
+   "aliases": [
+    "Bharat",
+    "Republic of India",
+    "Hindustan"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Thailand",
+   "aliases": [
+    "Siam",
+    "Kingdom of Thailand",
+    "Prathet Thai"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Vietnam",
+   "aliases": [
+    "South Vietnam",
+    "North Vietnam"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "South Korea",
+   "aliases": [
+    "Republic of Korea",
+    "ROK",
+    "S Korea",
+    "Hanguk",
+    "Daehan Minguk",
+    "Korea"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Indonesia",
+   "aliases": [
+    "Republic of Indonesia",
+    "Dutch East Indies"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Philippines",
+   "aliases": [
+    "Pilipinas",
+    "Filipinas"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Pakistan",
+   "aliases": [
+    "Islamic Republic of Pakistan"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Malaysia",
+   "aliases": [
+    "Malaya",
+    "Federation of Malaya"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "North Korea",
+   "aliases": [
+    "DPRK",
+    "Democratic People's Republic of Korea",
+    "N Korea"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Singapore",
+   "aliases": [
+    "Republic of Singapore",
+    "Singapura"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Russia",
+   "aliases": [
+    "Russian Federation",
+    "Rossiya"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "About three-quarters of its land lies in Asia, though most of its people live in Europe."
+  },
+  {
+   "answer": "Iran",
+   "aliases": [
+    "Persia",
+    "Islamic Republic of Iran"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Iraq",
+   "aliases": [
+    "Irak",
+    "Republic of Iraq"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Afghanistan",
+   "aliases": [
+    "Islamic Emirate of Afghanistan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Saudi Arabia",
+   "aliases": [
+    "Saudi",
+    "KSA",
+    "Kingdom of Saudi Arabia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Nepal",
+   "tier": 2
+  },
+  {
+   "answer": "Sri Lanka",
+   "aliases": [
+    "Ceylon"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bangladesh",
+   "aliases": [
+    "East Pakistan",
+    "East Bengal"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cambodia",
+   "aliases": [
+    "Kampuchea",
+    "Khmer Republic",
+    "Kingdom of Cambodia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mongolia",
+   "aliases": [
+    "Outer Mongolia",
+    "Mongol Uls"
+   ],
+   "tier": 2,
+   "lore": "The most thinly populated sovereign state on Earth."
+  },
+  {
+   "answer": "Taiwan",
+   "aliases": [
+    "Republic of China",
+    "ROC",
+    "Formosa",
+    "Chinese Taipei"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Israel",
+   "aliases": [
+    "State of Israel"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Turkey",
+   "aliases": [
+    "Türkiye",
+    "Republic of Türkiye"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Myanmar",
+   "aliases": [
+    "Burma",
+    "Republic of the Union of Myanmar"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Laos",
+   "aliases": [
+    "Lao PDR",
+    "Lao",
+    "Lao People's Democratic Republic"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "United Arab Emirates",
+   "aliases": [
+    "UAE",
+    "Emirates",
+    "Trucial States"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Qatar",
+   "aliases": [
+    "State of Qatar",
+    "Katar"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Syria",
+   "aliases": [
+    "Syrian Arab Republic"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Palestine",
+   "aliases": [
+    "State of Palestine",
+    "Palestinian Territories",
+    "West Bank",
+    "Gaza",
+    "Gaza Strip"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kazakhstan",
+   "aliases": [
+    "Kazakstan",
+    "Qazaqstan"
+   ],
+   "tier": 3,
+   "lore": "A sliver of it, west of the Ural River, is usually counted as Europe."
+  },
+  {
+   "answer": "Uzbekistan",
+   "aliases": [
+    "O'zbekiston"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jordan",
+   "aliases": [
+    "Hashemite Kingdom of Jordan",
+    "Transjordan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lebanon",
+   "aliases": [
+    "Lebanese Republic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kuwait",
+   "aliases": [
+    "State of Kuwait"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Yemen",
+   "aliases": [
+    "North Yemen",
+    "South Yemen",
+    "Republic of Yemen"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Oman",
+   "aliases": [
+    "Sultanate of Oman",
+    "Muscat and Oman"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bhutan",
+   "aliases": [
+    "Druk Yul",
+    "Kingdom of Bhutan"
+   ],
+   "tier": 3,
+   "lore": "Measures its progress by Gross National Happiness as well as money."
+  },
+  {
+   "answer": "Maldives",
+   "aliases": [
+    "Maldive Islands"
+   ],
+   "tier": 3,
+   "lore": "The lowest-lying country in the world: its average ground level is about 1.5 m above the sea."
+  },
+  {
+   "answer": "Georgia",
+   "aliases": [
+    "Sakartvelo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tajikistan",
+   "aliases": [
+    "Tadjikistan",
+    "Tadzhikistan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kyrgyzstan",
+   "aliases": [
+    "Kirghizia",
+    "Kyrgyz Republic",
+    "Kirgizstan",
+    "Kyrgyzia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Turkmenistan",
+   "aliases": [
+    "Turkmenia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Brunei",
+   "aliases": [
+    "Brunei Darussalam"
+   ],
+   "tier": 4,
+   "lore": "Ruled by the same sultan since 1967."
+  },
+  {
+   "answer": "Bahrain",
+   "aliases": [
+    "Bahrein",
+    "Kingdom of Bahrain"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Armenia",
+   "aliases": [
+    "Hayastan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Azerbaijan",
+   "aliases": [
+    "Azerbaidzhan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Egypt",
+   "aliases": [
+    "Misr",
+    "Arab Republic of Egypt"
+   ],
+   "tier": 4,
+   "lore": "It counts because of Sinai, the wedge of desert east of the Suez Canal, which lies in Asia."
+  },
+  {
+   "answer": "Timor-Leste",
+   "aliases": [
+    "East Timor"
+   ],
+   "tier": 5,
+   "lore": "Became independent in 2002, the first new sovereign state of the 21st century."
+  },
+  {
+   "answer": "Greece",
+   "aliases": [
+    "Hellas",
+    "Hellenic Republic"
+   ],
+   "tier": 5,
+   "lore": "Its eastern Aegean islands, such as Rhodes and Kastellorizo, lie just off the Turkish coast, so some geographers count Greece as partly Asian."
+  },
+  {
+   "answer": "Cyprus",
+   "aliases": [
+    "Kypros",
+    "Republic of Cyprus"
+   ],
+   "tier": 6,
+   "lore": "A member of the European Union, but the island lies in Asian waters, south of Turkey."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Hong Kong",
+   "reason": "A special administrative region of China, not a sovereign state."
+  },
+  {
+   "answer": "Macau",
+   "aliases": [
+    "Macao"
+   ],
+   "reason": "A special administrative region of China, not a sovereign state."
+  },
+  {
+   "answer": "Tibet",
+   "reason": "A region of China, not a sovereign state."
+  },
+  {
+   "answer": "Inner Mongolia",
+   "reason": "A region of China. The country is the other Mongolia."
+  },
+  {
+   "answer": "Manchuria",
+   "reason": "A region of north-east China, not a country."
+  },
+  {
+   "answer": "Kashmir",
+   "aliases": [
+    "Jammu and Kashmir"
+   ],
+   "reason": "A region divided between India, Pakistan and China."
+  },
+  {
+   "answer": "Punjab",
+   "reason": "A region split between India and Pakistan."
+  },
+  {
+   "answer": "Bengal",
+   "reason": "A region split between India and Bangladesh."
+  },
+  {
+   "answer": "Sikkim",
+   "reason": "A kingdom until 1975, and a state of India ever since."
+  },
+  {
+   "answer": "Kurdistan",
+   "reason": "The homeland of the Kurds, spread across four countries, but not a sovereign state."
+  },
+  {
+   "answer": "Siberia",
+   "reason": "The Asian part of Russia, not a country of its own."
+  },
+  {
+   "answer": "Anatolia",
+   "aliases": [
+    "Asia Minor"
+   ],
+   "reason": "The Asian heartland of Turkey, not a country of its own."
+  },
+  {
+   "answer": "Turkestan",
+   "aliases": [
+    "Turkistan"
+   ],
+   "reason": "A historical region of Central Asia, not a country."
+  },
+  {
+   "answer": "Mesopotamia",
+   "reason": "An ancient land between two rivers, now mostly Iraq."
+  },
+  {
+   "answer": "Arabia",
+   "aliases": [
+    "Arabian Peninsula"
+   ],
+   "reason": "A peninsula shared by several countries. Name one of them."
+  },
+  {
+   "answer": "Indochina",
+   "aliases": [
+    "French Indochina"
+   ],
+   "reason": "A peninsula shared by several countries. Name one of them."
+  },
+  {
+   "answer": "Sinai",
+   "aliases": [
+    "Sinai Peninsula"
+   ],
+   "reason": "A peninsula, not a country. But whose peninsula is it?"
+  },
+  {
+   "answer": "Borneo",
+   "reason": "An island shared by three countries, not a country itself."
+  },
+  {
+   "answer": "Timor",
+   "reason": "An island shared by two countries, not a country itself."
+  },
+  {
+   "answer": "New Guinea",
+   "reason": "An island shared by two countries, not a country itself."
+  },
+  {
+   "answer": "Bali",
+   "aliases": [
+    "Sumatra",
+    "Sulawesi",
+    "Celebes",
+    "Lombok",
+    "Luzon",
+    "Mindanao",
+    "Honshu",
+    "Hokkaido",
+    "Kyushu",
+    "Okinawa",
+    "Hainan",
+    "Phuket",
+    "Langkawi",
+    "Penang",
+    "Socotra"
+   ],
+   "reason": "An island, not a country."
+  },
+  {
+   "answer": "Northern Cyprus",
+   "aliases": [
+    "TRNC",
+    "North Cyprus",
+    "Turkish Republic of Northern Cyprus"
+   ],
+   "reason": "Recognised as a country only by Turkey."
+  },
+  {
+   "answer": "Abkhazia",
+   "reason": "A breakaway region, recognised by only a handful of countries."
+  },
+  {
+   "answer": "South Ossetia",
+   "reason": "A breakaway region, recognised by only a handful of countries."
+  },
+  {
+   "answer": "Nagorno-Karabakh",
+   "aliases": [
+    "Artsakh",
+    "Republic of Artsakh",
+    "Karabakh"
+   ],
+   "reason": "A breakaway republic that dissolved itself at the start of 2024."
+  },
+  {
+   "answer": "Soviet Union",
+   "aliases": [
+    "USSR"
+   ],
+   "reason": "Gone since 1991. Its Asian republics are countries now, though."
+  },
+  {
+   "answer": "Ottoman Empire",
+   "aliases": [
+    "Ottomans",
+    "Ottoman Turkey"
+   ],
+   "reason": "Gone since 1922. Its Asian heartland is Turkey now."
+  },
+  {
+   "answer": "Holy Land",
+   "aliases": [
+    "Canaan"
+   ],
+   "reason": "A name for a region shared by several countries. Name one of them."
+  },
+  {
+   "answer": "Akrotiri and Dhekelia",
+   "aliases": [
+    "Akrotiri",
+    "Dhekelia",
+    "Sovereign Base Areas"
+   ],
+   "reason": "British military bases: a territory, not a country."
+  },
+  {
+   "answer": "Dubai",
+   "reason": "A city and emirate within the United Arab Emirates."
+  },
+  {
+   "answer": "Abu Dhabi",
+   "reason": "The capital of the United Arab Emirates, and one of its seven emirates."
+  },
+  {
+   "answer": "Australia",
+   "reason": "A continent of its own, in Oceania."
+  },
+  {
+   "answer": "Papua New Guinea",
+   "aliases": [
+    "PNG"
+   ],
+   "reason": "In Oceania, though it shares an island with Indonesia."
+  },
+  {
+   "answer": "Christmas Island",
+   "aliases": [
+    "Cocos Islands",
+    "Cocos (Keeling) Islands",
+    "Keeling Islands"
+   ],
+   "reason": "An Australian territory in the Indian Ocean."
+  },
+  {
+   "answer": "Middle East",
+   "aliases": [
+    "Far East",
+    "Southeast Asia",
+    "Central Asia",
+    "South Asia",
+    "East Asia",
+    "Levant",
+    "Caucasus",
+    "Gulf States",
+    "Near East"
+   ],
+   "reason": "A region, not a country."
+  },
+  {
+   "answer": "Asia",
+   "reason": "That's the whole continent. Name one country in it."
+  }
+ ],
+ "decoys": [
+  "Prussia",
+  "Monrovia",
+  "Lagos",
+  "Málaga",
+  "Malawi",
+  "Mali",
+  "Monaco",
+  "Romania",
+  "Albania",
+  "Ukraine",
+  "Iceland",
+  "Ireland",
+  "Chile",
+  "Indiana",
+  "Burundi",
+  "Gabon",
+  "Mauritius",
+  "Madagascar",
+  "Seychelles",
+  "Ethiopia",
+  "Somalia",
+  "Sudan",
+  "Libya",
+  "Bulgaria",
+  "Serbia",
+  "Austria",
+  "Spain"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"countries-asia\" on 28 November 2026."
+}

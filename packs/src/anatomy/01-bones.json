@@ -1,0 +1,999 @@
+{
+ "id": "anatomy-bones",
+ "text": "Name a bone in the human body.",
+ "category": "science",
+ "flavor": "Two hundred and six of them hold you up. The deep would like to count them.",
+ "rules": "Any named bone or group of bones in the adult human body, by its everyday or anatomical name.",
+ "answers": [
+  {
+   "answer": "Femur",
+   "aliases": [
+    "Thigh bone",
+    "Femur bone",
+    "Femora",
+    "Leg bone",
+    "Upper leg bone",
+    "Femoral bone",
+    "Os femoris",
+    "Femurs"
+   ],
+   "tier": 1,
+   "lore": "The longest and strongest bone in the body."
+  },
+  {
+   "answer": "Skull",
+   "aliases": [
+    "Skull bone",
+    "Head bone",
+    "Human skull"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Rib",
+   "aliases": [
+    "Rib cage",
+    "Rib bone",
+    "Ribs",
+    "Costa",
+    "Costae",
+    "Floating rib",
+    "Floating ribs",
+    "True rib",
+    "True ribs",
+    "False rib",
+    "False ribs",
+    "Thoracic cage",
+    "Rib bones"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Tibia",
+   "aliases": [
+    "Shin bone",
+    "Tibia bone",
+    "Lower leg bone",
+    "Tibiae",
+    "Shin bones"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Humerus",
+   "aliases": [
+    "Humorous",
+    "Humerus bone",
+    "Humeri",
+    "Arm bone",
+    "Upper arm bone",
+    "Humourous",
+    "Humerous",
+    "Humerous bone"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Patella",
+   "aliases": [
+    "Kneecap",
+    "Patella bone",
+    "Knee bone",
+    "Kneepan",
+    "Patellae"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Fibula",
+   "aliases": [
+    "Fibula bone",
+    "Calf bone",
+    "Fibulae",
+    "Calf bones"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Radius",
+   "aliases": [
+    "Radius bone",
+    "Radii",
+    "Forearm bone",
+    "Lower arm bone",
+    "Radial bone"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ulna",
+   "aliases": [
+    "Ulna bone",
+    "Ulnae",
+    "Elbow bone",
+    "Ulnar bone"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Clavicle",
+   "aliases": [
+    "Collarbone",
+    "Clavicle bone",
+    "Clavicula",
+    "Clavical",
+    "Clavicles"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Pelvis",
+   "aliases": [
+    "Hip bone",
+    "Os coxae",
+    "Innominate bone",
+    "Coxal bone",
+    "Pelvic bone",
+    "Pelvis bone",
+    "Pelvic girdle",
+    "Os innominatum",
+    "Ossa coxae",
+    "Pelvic bones",
+    "Hip bones"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vertebra",
+   "aliases": [
+    "Vertebrae",
+    "Spine",
+    "Backbone",
+    "Spinal column",
+    "Vertebral column",
+    "Vertebrae bones",
+    "Vertebra bone",
+    "Cervical vertebra",
+    "Cervical vertebrae",
+    "Thoracic vertebra",
+    "Thoracic vertebrae",
+    "Lumbar vertebra",
+    "Lumbar vertebrae",
+    "Neck bone",
+    "Neck bones",
+    "Neck vertebrae",
+    "Spinal bone",
+    "Spinal bones",
+    "Spinal vertebrae",
+    "Cervical spine",
+    "Thoracic spine",
+    "Lumbar spine",
+    "Vertebrae bone",
+    "Vertebral bone",
+    "Vertebral bones",
+    "Dorsal vertebrae",
+    "Back bones",
+    "Spine bone",
+    "Lumbar"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sternum",
+   "aliases": [
+    "Breastbone",
+    "Sternum bone",
+    "Chest bone",
+    "Sterna"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mandible",
+   "aliases": [
+    "Jaw",
+    "Jawbone",
+    "Lower jaw",
+    "Mandible bone",
+    "Chin bone",
+    "Mandibula",
+    "Chin",
+    "Lower jawbone",
+    "Mandable"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Coccyx",
+   "aliases": [
+    "Tailbone",
+    "Coccyx bone",
+    "Os coccygis",
+    "Coccygeal vertebrae",
+    "Coxyx",
+    "Coxix",
+    "Coccyks"
+   ],
+   "tier": 2,
+   "lore": "Named from the Greek for 'cuckoo', because it looks like a cuckoo's beak."
+  },
+  {
+   "answer": "Scapula",
+   "aliases": [
+    "Shoulder blade",
+    "Scapula bone",
+    "Shoulder bone",
+    "Blade bone",
+    "Scapulae",
+    "Omoplate"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Stapes",
+   "aliases": [
+    "Stirrup",
+    "Stapes bone",
+    "Stirrup bone",
+    "Stirrups"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "The smallest bone in the body, about the size of a grain of rice, deep inside the ear."
+  },
+  {
+   "answer": "Cranium",
+   "aliases": [
+    "Braincase",
+    "Cranium bone",
+    "Skullcap",
+    "Calvaria",
+    "Calvarium",
+    "Neurocranium",
+    "Cranial bones",
+    "Cranial bone",
+    "Crania"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Phalanges",
+   "aliases": [
+    "Phalanx",
+    "Finger bone",
+    "Finger bones",
+    "Toe bone",
+    "Toe bones",
+    "Phalanges bone",
+    "Phalanxes",
+    "Proximal phalanx",
+    "Middle phalanx",
+    "Distal phalanx",
+    "Thumb bone"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Hyoid",
+   "aliases": [
+    "Hyoid bone",
+    "Tongue bone",
+    "Lingual bone",
+    "Os hyoideum"
+   ],
+   "tier": 3,
+   "lore": "The only bone not joined to any other bone. It floats in the throat, anchoring the tongue."
+  },
+  {
+   "answer": "Metacarpal",
+   "aliases": [
+    "Metacarpals",
+    "Metacarpus",
+    "Metacarpal bone",
+    "Hand bone",
+    "Hand bones",
+    "Palm bone",
+    "Palm bones",
+    "Knucklebone",
+    "Os metacarpale",
+    "Metacarpi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Metatarsal",
+   "aliases": [
+    "Metatarsals",
+    "Metatarsus",
+    "Metatarsal bone",
+    "Foot bone",
+    "Foot bones",
+    "Os metatarsale",
+    "Metatarsi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sacrum",
+   "aliases": [
+    "Sacrum bone",
+    "Os sacrum",
+    "Sacral bone",
+    "Sacral vertebrae"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Talus",
+   "aliases": [
+    "Ankle bone",
+    "Astragalus",
+    "Talus bone",
+    "Tali"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Calcaneus",
+   "aliases": [
+    "Heel bone",
+    "Calcaneum",
+    "Calcaneus bone",
+    "Os calcis",
+    "Calcanei"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Carpal",
+   "aliases": [
+    "Carpals",
+    "Carpus",
+    "Wrist bone",
+    "Wrist bones",
+    "Carpal bone",
+    "Carpal bones",
+    "Ossa carpi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tarsal",
+   "aliases": [
+    "Tarsals",
+    "Tarsus",
+    "Tarsal bone",
+    "Tarsal bones",
+    "Ossa tarsi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Malleus",
+   "aliases": [
+    "Hammer",
+    "Malleus bone",
+    "Hammer bone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Incus",
+   "aliases": [
+    "Anvil",
+    "Incus bone",
+    "Anvil bone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maxilla",
+   "aliases": [
+    "Upper jaw",
+    "Maxillae",
+    "Maxilla bone",
+    "Maxillary bone",
+    "Maxillary",
+    "Upper jawbone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ossicles",
+   "aliases": [
+    "Ossicle",
+    "Ear bones",
+    "Ear bone",
+    "Auditory ossicles",
+    "Middle ear bones",
+    "Ear ossicles",
+    "Hearing bones"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Facial bones",
+   "aliases": [
+    "Face bones",
+    "Face bone",
+    "Facial skeleton",
+    "Viscerocranium",
+    "Splanchnocranium"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zygomatic",
+   "aliases": [
+    "Cheekbone",
+    "Zygoma",
+    "Malar bone",
+    "Zygomatic bone",
+    "Zygomatic arch",
+    "Jugal",
+    "Jugal bone",
+    "Os zygomaticum",
+    "Cheekbones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Scaphoid",
+   "aliases": [
+    "Scaphoid bone",
+    "Os scaphoideum",
+    "Navicular of the hand"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ilium",
+   "aliases": [
+    "Iliac bone",
+    "Ilium bone",
+    "Os ilium",
+    "Iliac"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ischium",
+   "aliases": [
+    "Ischial bone",
+    "Ischium bone",
+    "Sit bone",
+    "Sitting bone",
+    "Sitz bone",
+    "Os ischii",
+    "Ischia",
+    "Sitting bones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pubis",
+   "aliases": [
+    "Pubic bone",
+    "Pubis bone",
+    "Os pubis",
+    "Pubic bones",
+    "Pubic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Occipital",
+   "aliases": [
+    "Occipital bone",
+    "Occiput",
+    "Os occipitale",
+    "Occipital bones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Parietal",
+   "aliases": [
+    "Parietal bone",
+    "Os parietale",
+    "Parietal bones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Temporal",
+   "aliases": [
+    "Temporal bone",
+    "Temple bone",
+    "Os temporale",
+    "Petrous bone",
+    "Temporal bones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Frontal",
+   "aliases": [
+    "Frontal bone",
+    "Forehead bone",
+    "Brow bone",
+    "Os frontale"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nasal",
+   "aliases": [
+    "Nasal bone",
+    "Nose bone",
+    "Os nasale",
+    "Nasal bones"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Atlas",
+   "aliases": [
+    "Atlas bone",
+    "C1",
+    "C1 vertebra",
+    "Atlas vertebra"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Axis",
+   "aliases": [
+    "Axis bone",
+    "C2",
+    "C2 vertebra",
+    "Axis vertebra",
+    "Epistropheus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pectoral girdle",
+   "aliases": [
+    "Shoulder girdle",
+    "Shoulder girdles"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sphenoid",
+   "aliases": [
+    "Sphenoid bone",
+    "Os sphenoidale",
+    "Sphenoidal bone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ethmoid",
+   "aliases": [
+    "Ethmoid bone",
+    "Os ethmoidale",
+    "Ethmoidal bone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lacrimal",
+   "aliases": [
+    "Lacrimal bone",
+    "Lachrymal",
+    "Lacrymal",
+    "Lachrymal bone",
+    "Tear bone",
+    "Os lacrimale"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vomer",
+   "aliases": [
+    "Vomer bone",
+    "Ploughshare bone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Palatine",
+   "aliases": [
+    "Palatine bone",
+    "Palate bone",
+    "Palatine bones",
+    "Os palatinum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lunate",
+   "aliases": [
+    "Lunate bone",
+    "Semilunar bone",
+    "Semilunar",
+    "Os lunatum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Triquetrum",
+   "aliases": [
+    "Triquetrum bone",
+    "Triquetral",
+    "Triquetral bone",
+    "Triangular bone",
+    "Pyramidal bone",
+    "Os triquetrum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pisiform",
+   "aliases": [
+    "Pisiform bone",
+    "Os pisiforme"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trapezium",
+   "aliases": [
+    "Trapezium bone",
+    "Greater multangular",
+    "Os trapezium",
+    "Os multangulum majus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trapezoid",
+   "aliases": [
+    "Trapezoid bone",
+    "Lesser multangular",
+    "Os trapezoideum",
+    "Os multangulum minus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Capitate",
+   "aliases": [
+    "Capitate bone",
+    "Os capitatum",
+    "Os magnum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hamate",
+   "aliases": [
+    "Hamate bone",
+    "Unciform",
+    "Os hamatum",
+    "Hamatum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Navicular",
+   "aliases": [
+    "Scaphoid of the foot",
+    "Navicular bone",
+    "Os naviculare",
+    "Navicular of the foot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cuboid",
+   "aliases": [
+    "Cuboid bone",
+    "Os cuboideum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cuneiform",
+   "aliases": [
+    "Cuneiforms",
+    "Medial cuneiform",
+    "Intermediate cuneiform",
+    "Lateral cuneiform",
+    "Cuneiform bone",
+    "Os cuneiforme",
+    "Cuneiform bones",
+    "First cuneiform",
+    "Second cuneiform",
+    "Third cuneiform",
+    "Middle cuneiform"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Xiphoid process",
+   "aliases": [
+    "Xiphoid",
+    "Xiphisternum",
+    "Xiphoid process bone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Manubrium",
+   "aliases": [
+    "Manubrium bone",
+    "Manubrium sterni"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sesamoid",
+   "aliases": [
+    "Sesamoids",
+    "Sesamoid bones",
+    "Sesamoid bone"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Inferior nasal concha",
+   "aliases": [
+    "Nasal concha",
+    "Turbinate",
+    "Inferior turbinate",
+    "Inferior nasal concha bone",
+    "Inferior concha",
+    "Concha nasalis inferior",
+    "Nasal conchae",
+    "Turbinates"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gladiolus",
+   "aliases": [
+    "Body of sternum",
+    "Body of the sternum",
+    "Sternal body",
+    "Mesosternum",
+    "Corpus sterni"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Os trigonum",
+   "aliases": [
+    "Trigonum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Accessory navicular",
+   "aliases": [
+    "Accessory navicular bone",
+    "Os tibiale externum",
+    "Os naviculare accessorium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Os peroneum",
+   "tier": 5
+  },
+  {
+   "answer": "Os acromiale",
+   "tier": 5
+  },
+  {
+   "answer": "Os vesalianum",
+   "tier": 5
+  },
+  {
+   "answer": "Cervical rib",
+   "aliases": [
+    "Cervical ribs",
+    "Neck rib"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fabella",
+   "aliases": [
+    "Fabella bone"
+   ],
+   "tier": 6,
+   "lore": "A tiny bone behind the knee that has become about three times more common in humans over the last century."
+  },
+  {
+   "answer": "Sutural bone",
+   "aliases": [
+    "Wormian bone",
+    "Wormian bones",
+    "Sutural bones",
+    "Sutural"
+   ],
+   "tier": 6,
+   "lore": "Extra islands of bone in the seams of the skull. Some people have dozens."
+  },
+  {
+   "answer": "Inca bone",
+   "aliases": [
+    "Interparietal bone",
+    "Interparietal",
+    "Os incae"
+   ],
+   "tier": 6,
+   "lore": "Some people have an extra bone at the back of the skull. It was named for how often it turned up in Inca mummies."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Funny bone",
+   "reason": "Not a bone at all. It is the ulnar nerve, which is why it hurts."
+  },
+  {
+   "answer": "Tooth",
+   "aliases": [
+    "Teeth"
+   ],
+   "reason": "Teeth are not bones, though they are harder."
+  },
+  {
+   "answer": "Cartilage",
+   "aliases": [
+    "Meniscus",
+    "Menisci",
+    "Disc",
+    "Spinal disc",
+    "Intervertebral disc",
+    "Slipped disc"
+   ],
+   "reason": "Cartilage, not bone."
+  },
+  {
+   "answer": "Wishbone",
+   "aliases": [
+    "Furcula"
+   ],
+   "reason": "A bird's bone, the furcula. Humans don't have one."
+  },
+  {
+   "answer": "Elbow",
+   "reason": "A joint where three bones meet. Name one of them."
+  },
+  {
+   "answer": "Knee",
+   "reason": "A joint. The bone you want might be the kneecap."
+  },
+  {
+   "answer": "Wrist",
+   "reason": "A joint made of eight small bones. Name one."
+  },
+  {
+   "answer": "Ankle",
+   "reason": "A joint, not a bone."
+  },
+  {
+   "answer": "Shoulder",
+   "reason": "A joint, not a bone."
+  },
+  {
+   "answer": "Hip",
+   "reason": "A joint. Say hip bone if you mean the bone."
+  },
+  {
+   "answer": "Bone marrow",
+   "aliases": [
+    "Marrow"
+   ],
+   "reason": "The soft tissue inside the bones."
+  },
+  {
+   "answer": "Tendon",
+   "aliases": [
+    "Ligament"
+   ],
+   "reason": "Connective tissue, not bone."
+  },
+  {
+   "answer": "Spinal cord",
+   "reason": "Nerves, not bone."
+  },
+  {
+   "answer": "Nail",
+   "aliases": [
+    "Fingernail",
+    "Toenail"
+   ],
+   "reason": "Keratin, not bone."
+  },
+  {
+   "answer": "Skeleton",
+   "aliases": [
+    "Bone",
+    "Bones",
+    "Human skeleton",
+    "Skeletons"
+   ],
+   "reason": "That's all of them at once. Name just one."
+  },
+  {
+   "answer": "Eye socket",
+   "aliases": [
+    "Orbit",
+    "Eye sockets"
+   ],
+   "reason": "A socket built from seven bones, not a bone itself."
+  },
+  {
+   "answer": "Fontanelle",
+   "aliases": [
+    "Fontanel",
+    "Soft spot"
+   ],
+   "reason": "A soft gap between a baby's skull bones, not a bone."
+  },
+  {
+   "answer": "Finger",
+   "aliases": [
+    "Fingers",
+    "Toe",
+    "Toes",
+    "Thumb",
+    "Big toe"
+   ],
+   "reason": "Fingers and toes are built from small bones called phalanges."
+  },
+  {
+   "answer": "Knuckle",
+   "aliases": [
+    "Knuckles"
+   ],
+   "reason": "A joint where finger bones meet, not a bone of its own."
+  },
+  {
+   "answer": "Olecranon",
+   "aliases": [
+    "Olecranon process"
+   ],
+   "reason": "The point of the elbow: part of the ulna, not a bone of its own."
+  },
+  {
+   "answer": "Malleolus",
+   "aliases": [
+    "Medial malleolus",
+    "Lateral malleolus",
+    "Malleoli"
+   ],
+   "reason": "The bony bump of the ankle, the end of the tibia or the fibula."
+  },
+  {
+   "answer": "Acromion",
+   "aliases": [
+    "Acromion process"
+   ],
+   "reason": "The tip of the shoulder blade, not a bone of its own."
+  },
+  {
+   "answer": "Mastoid",
+   "aliases": [
+    "Mastoid process"
+   ],
+   "reason": "A bump of the skull behind the ear, not a separate bone."
+  },
+  {
+   "answer": "Femoral head",
+   "aliases": [
+    "Head of the femur",
+    "Greater trochanter",
+    "Trochanter"
+   ],
+   "reason": "Part of the femur, not a separate bone."
+  }
+ ],
+ "section": "Skeleton",
+ "source": "Copied from the daily question \"bones\" on 28 November 2026."
+}
