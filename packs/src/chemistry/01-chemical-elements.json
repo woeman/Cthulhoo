@@ -23,6 +23,11 @@
   },
   {
    "answer": "Carbon",
+   "aliases": [
+    "Carbon 14",
+    "Carbon 12",
+    "Radiocarbon"
+   ],
    "tier": 1
   },
   {
@@ -66,7 +71,8 @@
   {
    "answer": "Copper",
    "aliases": [
-    "Cuprum"
+    "Cuprum",
+    "Coppa"
    ],
    "tier": 2
   },
@@ -80,7 +86,8 @@
   {
    "answer": "Lead",
    "aliases": [
-    "Plumbum"
+    "Plumbum",
+    "Led"
    ],
    "tier": 2
   },
@@ -93,6 +100,14 @@
   },
   {
    "answer": "Uranium",
+   "aliases": [
+    "Uranium 235",
+    "Uranium 238",
+    "U-235",
+    "U-238",
+    "Enriched uranium",
+    "Depleted uranium"
+   ],
    "tier": 2
   },
   {
@@ -107,24 +122,34 @@
   },
   {
    "answer": "Calcium",
+   "aliases": [
+    "Calsium",
+    "Kalcium"
+   ],
    "tier": 2
   },
   {
    "answer": "Plutonium",
+   "aliases": [
+    "Plutonium 239"
+   ],
    "tier": 2
   },
   {
    "answer": "Aluminium",
    "aliases": [
     "Aluminum",
-    "Alumium"
+    "Alumium",
+    "Ally",
+    "Alli"
    ],
    "tier": 2
   },
   {
    "answer": "Krypton",
    "aliases": [
-    "Krypton gas"
+    "Krypton gas",
+    "Cripton"
    ],
    "tier": 2,
    "openSecret": true,
@@ -176,7 +201,9 @@
   {
    "answer": "Chlorine",
    "aliases": [
-    "Chlorine gas"
+    "Chlorine gas",
+    "Klorine",
+    "Clorine"
    ],
    "tier": 3
   },
@@ -208,12 +235,17 @@
   },
   {
    "answer": "Iodine",
+   "aliases": [
+    "Ioden",
+    "Eyeodine"
+   ],
    "tier": 3
   },
   {
    "answer": "Fluorine",
    "aliases": [
-    "Fluorine gas"
+    "Fluorine gas",
+    "Florine"
    ],
    "tier": 3
   },
@@ -232,7 +264,8 @@
    "answer": "Phosphorus",
    "aliases": [
     "Phosphorous",
-    "Phosphor"
+    "Phosphor",
+    "Fosforus"
    ],
    "tier": 4
   },
@@ -247,7 +280,8 @@
   {
    "answer": "Xenon",
    "aliases": [
-    "Xenon gas"
+    "Xenon gas",
+    "Zeenon"
    ],
    "tier": 4
   },
@@ -263,12 +297,16 @@
    "answer": "Beryllium",
    "aliases": [
     "Glucinium",
-    "Glucinum"
+    "Glucinum",
+    "Berilium"
    ],
    "tier": 4
   },
   {
    "answer": "Chromium",
+   "aliases": [
+    "Chrome"
+   ],
    "tier": 4
   },
   {
@@ -277,6 +315,9 @@
   },
   {
    "answer": "Arsenic",
+   "aliases": [
+    "Arsnick"
+   ],
    "tier": 4
   },
   {
@@ -292,7 +333,9 @@
   {
    "answer": "Caesium",
    "aliases": [
-    "Cesium"
+    "Cesium",
+    "Seesium",
+    "Seezium"
    ],
    "tier": 4
   },
@@ -353,7 +396,8 @@
    "answer": "Gallium",
    "aliases": [
     "Eka-aluminium",
-    "Eka-aluminum"
+    "Eka-aluminum",
+    "Galium"
    ],
    "tier": 4,
    "lore": "Melts in your hand: it turns liquid just below 30°C."
@@ -398,6 +442,9 @@
   },
   {
    "answer": "Yttrium",
+   "aliases": [
+    "Itrium"
+   ],
    "tier": 5
   },
   {
@@ -409,6 +456,9 @@
   },
   {
    "answer": "Molybdenum",
+   "aliases": [
+    "Moly"
+   ],
    "tier": 5
   },
   {
@@ -524,6 +574,9 @@
   },
   {
    "answer": "Thallium",
+   "aliases": [
+    "Thalium"
+   ],
    "tier": 5
   },
   {
@@ -914,6 +967,63 @@
   {
    "answer": "Ozone",
    "reason": "A molecule of three oxygen atoms. Plain oxygen would have counted."
+  },
+  {
+   "answer": "Deuterium",
+   "aliases": [
+    "Tritium",
+    "Protium"
+   ],
+   "reason": "An isotope of hydrogen: heavier, but the same element."
+  },
+  {
+   "answer": "Bauxite",
+   "aliases": [
+    "Iron ore",
+    "Yellowcake",
+    "Pyrite",
+    "Fool's gold",
+    "Quartz",
+    "Galena",
+    "Cinnabar",
+    "Haematite",
+    "Hematite"
+   ],
+   "reason": "An ore. The element is still locked inside it."
+  },
+  {
+   "answer": "Noble gas",
+   "aliases": [
+    "Noble gases",
+    "Halogen",
+    "Halogens",
+    "Alkali metal",
+    "Alkali metals",
+    "Rare earth",
+    "Rare earths",
+    "Rare earth metal",
+    "Lanthanide",
+    "Lanthanides",
+    "Actinide",
+    "Actinides",
+    "Transition metal",
+    "Metal",
+    "Gas"
+   ],
+   "reason": "A family of elements. Name one member."
+  },
+  {
+   "answer": "Pewter",
+   "aliases": [
+    "Alloy",
+    "Amalgam",
+    "Electrum",
+    "White gold",
+    "Rose gold",
+    "Sterling silver",
+    "Stainless steel"
+   ],
+   "reason": "An alloy: a blend of metals, not an element."
   }
  ],
  "section": "Periodic table",

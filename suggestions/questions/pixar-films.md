@@ -12,40 +12,40 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (10)
 
-- Toy Story — Toy Story 1
-- Finding Nemo — Nemo
-- Monsters, Inc. — Monsters Incorporated
-- The Incredibles — Incredibles 1
-- Cars — Cars 1
-- Up
-- Inside Out — Inside Out 1
-- Ratatouille
-- WALL-E — Wally
-- Coco
+- Toy Story — Toy Story 1 | Toy Story movie | Toy Story the movie
+- Finding Nemo — Nemo | Finding Nemo movie | Finding Nemo the movie
+- Monsters, Inc. — Monsters Incorporated | Monsters, Inc. movie | Monsters, Inc. the movie | Monsters
+- The Incredibles — Incredibles 1 | The Incredibles movie | The Incredibles the movie
+- Cars — Cars 1 | Cars movie | Cars the movie
+- Up — Up movie | Up the movie
+- Inside Out — Inside Out 1 | Inside Out movie | Inside Out the movie
+- Ratatouille — Ratatouille movie | Ratatouille the movie | Ratatooey | Ratatui | Ratatooie | Ratatooee | Ratatwee
+- WALL-E — Wally | WALL-E movie | WALL-E the movie
+- Coco — Coco movie | Coco the movie | Koko
 
 ### Tier 2: common (21)
 
-- Toy Story 2
-- Toy Story 3
-- Toy Story 4
-- A Bug's Life
-- Brave
-- Finding Dory — Dory
-- Monsters University — Monsters U
-- Incredibles 2
-- Inside Out 2
-- Soul
-- Luca
-- Turning Red
-- Cars 2
-- Cars 3
-- Onward
-- Elemental
-- The Good Dinosaur
-- Lightyear
-- Toy Story 5
-- Elio
-- Hoppers
+- Toy Story 2 — Toy Story 2 movie | Toy Story 2 the movie
+- Toy Story 3 — Toy Story 3 movie | Toy Story 3 the movie
+- Toy Story 4 — Toy Story 4 movie | Toy Story 4 the movie
+- A Bug's Life — A Bug's Life movie | A Bug's Life the movie
+- Brave — Brave movie | Brave the movie
+- Finding Dory — Dory | Finding Dory movie | Finding Dory the movie | Finding Nemo 2 | Nemo 2
+- Monsters University — Monsters U | Monsters University movie | Monsters University the movie | Monsters Uni | Monster U | Monsters Inc 2 | Monsters 2
+- Incredibles 2 — Incredibles 2 movie | Incredibles 2 the movie
+- Inside Out 2 — Inside Out 2 movie | Inside Out 2 the movie
+- Soul — Soul movie | Soul the movie
+- Luca — Luca movie | Luca the movie
+- Turning Red — Turning Red movie | Turning Red the movie
+- Cars 2 — Cars 2 movie | Cars 2 the movie
+- Cars 3 — Cars 3 movie | Cars 3 the movie
+- Onward — Onward movie | Onward the movie
+- Elemental — Elemental movie | Elemental the movie
+- The Good Dinosaur — The Good Dinosaur movie | The Good Dinosaur the movie
+- Lightyear — Lightyear movie | Lightyear the movie | Buzz Lightyear | Buzz Lightyear movie
+- Toy Story 5 — Toy Story 5 movie | Toy Story 5 the movie
+- Elio — Elio movie | Elio the movie
+- Hoppers — Hoppers movie | Hoppers the movie
 
 ### Tier 3: known to fans (19)
 
@@ -117,7 +117,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Adventures of André & Wally B. — André and Wally B.
 - Red's Dream
 
-## Refused on purpose (19)
+## Refused on purpose (23)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -140,3 +140,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - The Land Before Time | An American Tail | All Dogs Go to Heaven | Anastasia | The Secret of NIMH | Thumbelina — "Don Bluth, not Pixar."
 - Pixar | Pixar Animation Studios | Pixar film | Pixar short — "That's the studio. Name one of its films or shorts."
 - The Nightmare Before Christmas | James and the Giant Peach | A Goofy Movie | Frankenweenie | Tinker Bell | The Tigger Movie | The Lion King II: Simba's Pride | The Lion King 2 | The Lion King 1½ | Return to Never Land | The Jungle Book 2 | Lilo & Stitch 2 | Gnomeo & Juliet | The Wild | Mars Needs Moms | A Christmas Carol | Strange Magic | Mufasa | Mufasa: The Lion King | Buzz Lightyear of Star Command | Buzz Lightyear of Star Command: The Adventure Begins — "A Disney film, but not one of Pixar's."
+- Bluey | Bluey movie | Bluey the movie — "Made by Ludo Studio in Brisbane, not Pixar."
+- Woody | Buzz | Lightning McQueen | Mike Wazowski | Sulley | Mater | Marlin | Mr Potato Head | Jessie | Edna Mode | Elastigirl | Bing Bong — "A character, not a film. Name a film they are in."
+- Disney | Walt Disney | Disney Pixar | Disney movie — "The parent company. Name one of Pixar's films."
+- SparkShorts — "A programme of shorts, not a short. Name one of them."

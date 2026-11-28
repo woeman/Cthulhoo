@@ -12,28 +12,28 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (10)
 
-- Zeus — Dias | Zeus Pater | Zeus Ammon
-- Poseidon — Poseidaon | Poseidonas
-- Hades — Pluto | Plouton | Aidoneus | Aides | Haides
+- Zeus — Dias | Zeus Pater | Zeus Ammon | Zoos | Zus | Zoose
+- Poseidon — Poseidaon | Poseidonas | Posiden | Posidan | Pasidon
+- Hades — Pluto | Plouton | Aidoneus | Aides | Haides | Hadeez | Haydees
 - Athena — Athene | Pallas Athena | Pallas | Athina | Athana | Pallas Athene
-- Apollo — Phoebus | Phoebus Apollo | Phoibos | Apollon
+- Apollo — Phoebus | Phoebus Apollo | Phoibos | Apollon | Appolo
 - Aphrodite — Cytherea | Cypris | Kypris | Kythereia | Afrodite | Afroditi
-- Hera
-- Ares
-- Hermes — Hermes Trismegistus
-- Artemis
+- Hera — Herra | Heera
+- Ares — Aris | Arees | Airees
+- Hermes — Hermes Trismegistus | Hermeez
+- Artemis — Artimus | Artamus | Artemas
 
 ### Tier 2: common (16)
 
 - Dionysus — Dionysos | Bacchus | Bakchos | Dionysius | Bromios | Iacchus | Iakchos
-- Demeter — Dimitra
-- Hephaestus — Hephaistos
-- Persephone — Kore | Persefoni | Persephassa
-- Hestia
-- Eros
+- Demeter — Dimitra | Demitre | Demeta | Demetra
+- Hephaestus — Hephaistos | Hefestus | Hefestos | Hefestis
+- Persephone — Kore | Persefoni | Persephassa | Cora
+- Hestia — Hestier
+- Eros — Erros | Eeros
 - Cronus — Kronos | Cronos
-- Gaia — Gaea | Ge | Gea | Mother Earth
-- Nike
+- Gaia — Gaea | Ge | Gea | Mother Earth | Gia | Guya
+- Nike — Naiki
 - Pan
 - Hecate — Hekate
 - Atlas
@@ -44,16 +44,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (45)
 
-- Rhea — Rheia
-- Selene — Mene
+- Rhea — Rheia | Rea | Ria
+- Selene — Mene | Selini
 - Eos
 - Hypnos
 - Thanatos
-- Morpheus
+- Morpheus — Morfeus | Morfius
 - Iris
-- Hebe
+- Hebe — Heebee
 - Tyche — Tykhe
-- Nyx — Nix
+- Nyx — Nix | Nicks
 - Chaos — Khaos
 - Erebus — Erebos
 - Tartarus — Tartaros
@@ -275,7 +275,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ophion
 - Phanes — Protogonos
 
-## Refused on purpose (30)
+## Refused on purpose (31)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -309,3 +309,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Cthulhu — "Not Greek. A monster from H. P. Lovecraft's stories."
 - Xena — "A warrior princess from 1990s television."
 - Olympians | Olympian | Twelve Olympians | Olympian gods — "Which Olympian? There were twelve on the mountain."
+- God of war | Goddess of war | God of the sea | God of thunder | God of the underworld | God of wine | God of love | Goddess of love | Goddess of wisdom | Goddess of the hunt | King of the gods | Queen of the gods | Sun god | Messenger god | Messenger of the gods — "That is a title, not a name. Who held it?"

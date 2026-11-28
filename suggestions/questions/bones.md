@@ -12,28 +12,28 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (5)
 
-- Femur — Thigh bone | Femur bone | Femora | Leg bone | Upper leg bone | Femoral bone | Os femoris | Femurs
+- Femur — Thigh bone | Femur bone | Femora | Leg bone | Upper leg bone | Femoral bone | Os femoris | Femurs | Fema | Femmer | Feemer | Thigh
 - Skull — Skull bone | Head bone | Human skull
 - Rib — Rib cage | Rib bone | Ribs | Costa | Costae | Floating rib | Floating ribs | True rib | True ribs | False rib | False ribs | Thoracic cage | Rib bones
-- Tibia — Shin bone | Tibia bone | Lower leg bone | Tibiae | Shin bones | Shin | Shins
-- Humerus — Humorous | Humerus bone | Humeri | Arm bone | Upper arm bone | Humourous | Humerous | Humerous bone
+- Tibia — Shin bone | Tibia bone | Lower leg bone | Tibiae | Shin bones | Shin | Shins | Tibier
+- Humerus — Humorous | Humerus bone | Humeri | Arm bone | Upper arm bone | Humourous | Humerous | Humerous bone | Hewmerus
 
 ### Tier 2: common (14)
 
 - Patella — Kneecap | Patella bone | Knee bone | Kneepan | Patellae
-- Fibula — Fibula bone | Calf bone | Fibulae | Calf bones
+- Fibula — Fibula bone | Calf bone | Fibulae | Calf bones | Fibuler
 - Radius — Radius bone | Radii | Forearm bone | Lower arm bone | Radial bone
-- Ulna — Ulna bone | Ulnae | Elbow bone | Ulnar bone
+- Ulna — Ulna bone | Ulnae | Elbow bone | Ulnar bone | Ulner
 - Clavicle — Collarbone | Clavicle bone | Clavicula | Clavical | Clavicles
-- Pelvis — Hip bone | Os coxae | Innominate bone | Coxal bone | Pelvic bone | Pelvis bone | Pelvic girdle | Os innominatum | Ossa coxae | Pelvic bones | Hip bones
-- Vertebra — Vertebrae | Spine | Backbone | Spinal column | Vertebral column | Vertebrae bones | Vertebra bone | Cervical vertebra | Cervical vertebrae | Thoracic vertebra | Thoracic vertebrae | Lumbar vertebra | Lumbar vertebrae | Neck bone | Neck bones | Neck vertebrae | Spinal bone | Spinal bones | Spinal vertebrae | Cervical spine | Thoracic spine | Lumbar spine | Vertebrae bone | Vertebral bone | Vertebral bones | Dorsal vertebrae | Back bones | Spine bone | Lumbar | Spin
+- Pelvis — Hip bone | Os coxae | Innominate bone | Coxal bone | Pelvic bone | Pelvis bone | Pelvic girdle | Os innominatum | Ossa coxae | Pelvic bones | Hip bones | Innominate
+- Vertebra — Vertebrae | Spine | Backbone | Spinal column | Vertebral column | Vertebrae bones | Vertebra bone | Cervical vertebra | Cervical vertebrae | Thoracic vertebra | Thoracic vertebrae | Lumbar vertebra | Lumbar vertebrae | Neck bone | Neck bones | Neck vertebrae | Spinal bone | Spinal bones | Spinal vertebrae | Cervical spine | Thoracic spine | Lumbar spine | Vertebrae bone | Vertebral bone | Vertebral bones | Dorsal vertebrae | Back bones | Spine bone | Lumbar | Spin | L5 | L4 | L1 | T1 | T12 | C7
 - Sternum — Breastbone | Sternum bone | Chest bone | Sterna
 - Mandible — Jaw | Jawbone | Lower jaw | Mandible bone | Chin bone | Mandibula | Chin | Lower jawbone | Mandable
-- Coccyx — Tailbone | Coccyx bone | Os coccygis | Coccygeal vertebrae | Coxyx | Coxix | Coccyks
+- Coccyx — Tailbone | Coccyx bone | Os coccygis | Coccygeal vertebrae | Coxyx | Coxix | Coccyks | Cocksix | Koksix
 - Scapula — Shoulder blade | Scapula bone | Shoulder bone | Blade bone | Scapulae | Omoplate
-- Stapes — Stirrup | Stapes bone | Stirrup bone | Stirrups
+- Stapes — Stirrup | Stapes bone | Stirrup bone | Stirrups | Stapeez
 - Cranium — Braincase | Cranium bone | Skullcap | Calvaria | Calvarium | Neurocranium | Cranial bones | Cranial bone | Crania
-- Phalanges — Phalanx | Finger bone | Finger bones | Toe bone | Toe bones | Phalanges bone | Phalanxes | Proximal phalanx | Middle phalanx | Distal phalanx | Thumb bone
+- Phalanges — Phalanx | Finger bone | Finger bones | Toe bone | Toe bones | Phalanges bone | Phalanxes | Proximal phalanx | Middle phalanx | Distal phalanx | Thumb bone | Flanges | Fallanges
 
 ### Tier 3: known to fans (13)
 
@@ -42,10 +42,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Metatarsal — Metatarsals | Metatarsus | Metatarsal bone | Foot bone | Foot bones | Os metatarsale | Metatarsi
 - Sacrum — Sacrum bone | Os sacrum | Sacral bone | Sacral vertebrae
 - Talus — Ankle bone | Astragalus | Talus bone | Tali
-- Calcaneus — Heel bone | Calcaneum | Calcaneus bone | Os calcis | Calcanei
-- Carpal — Carpals | Carpus | Wrist bone | Wrist bones | Carpal bone | Carpal bones | Ossa carpi
+- Calcaneus — Heel bone | Calcaneum | Calcaneus bone | Os calcis | Calcanei | Heel
+- Carpal — Carpals | Carpus | Wrist bone | Wrist bones | Carpal bone | Carpal bones | Ossa carpi | Carple
 - Tarsal — Tarsals | Tarsus | Tarsal bone | Tarsal bones | Ossa tarsi
-- Malleus — Hammer | Malleus bone | Hammer bone
+- Malleus — Hammer | Malleus bone | Hammer bone | Malleous
 - Incus — Anvil | Incus bone | Anvil bone
 - Maxilla — Upper jaw | Maxillae | Maxilla bone | Maxillary bone | Maxillary | Upper jawbone
 - Ossicles — Ossicle | Ear bones | Ear bone | Auditory ossicles | Middle ear bones | Ear ossicles | Hearing bones
@@ -54,7 +54,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 4: obscure (13)
 
 - Zygomatic — Cheekbone | Zygoma | Malar bone | Zygomatic bone | Zygomatic arch | Jugal | Jugal bone | Os zygomaticum | Cheekbones
-- Scaphoid — Scaphoid bone | Os scaphoideum | Navicular of the hand
+- Scaphoid — Scaphoid bone | Os scaphoideum | Navicular of the hand | Scafoid
 - Ilium — Iliac bone | Ilium bone | Os ilium | Iliac
 - Ischium — Ischial bone | Ischium bone | Sit bone | Sitting bone | Sitz bone | Os ischii | Ischia | Sitting bones
 - Pubis — Pubic bone | Pubis bone | Os pubis | Pubic bones | Pubic
@@ -69,7 +69,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 5: expert (26)
 
-- Sphenoid — Sphenoid bone | Os sphenoidale | Sphenoidal bone
+- Sphenoid — Sphenoid bone | Os sphenoidale | Sphenoidal bone | Sfenoid
 - Ethmoid — Ethmoid bone | Os ethmoidale | Ethmoidal bone
 - Lacrimal — Lacrimal bone | Lachrymal | Lacrymal | Lachrymal bone | Tear bone | Os lacrimale
 - Vomer — Vomer bone | Ploughshare bone
@@ -84,7 +84,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Navicular — Scaphoid of the foot | Navicular bone | Os naviculare | Navicular of the foot
 - Cuboid — Cuboid bone | Os cuboideum
 - Cuneiform — Cuneiforms | Medial cuneiform | Intermediate cuneiform | Lateral cuneiform | Cuneiform bone | Os cuneiforme | Cuneiform bones | First cuneiform | Second cuneiform | Third cuneiform | Middle cuneiform
-- Xiphoid process — Xiphoid | Xiphisternum | Xiphoid process bone
+- Xiphoid process — Xiphoid | Xiphisternum | Xiphoid process bone | Zyphoid
 - Manubrium — Manubrium bone | Manubrium sterni
 - Sesamoid — Sesamoids | Sesamoid bones | Sesamoid bone
 - Inferior nasal concha — Nasal concha | Turbinate | Inferior turbinate | Inferior nasal concha bone | Inferior concha | Concha nasalis inferior | Nasal conchae | Turbinates
@@ -102,13 +102,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sutural bone — Wormian bone | Wormian bones | Sutural bones | Sutural
 - Inca bone — Interparietal bone | Interparietal | Os incae
 
-## Refused on purpose (24)
+## Refused on purpose (27)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Funny bone — "Not a bone at all. It is the ulnar nerve, which is why it hurts."
-- Tooth | Teeth — "Teeth are not bones, though they are harder."
-- Cartilage | Meniscus | Menisci | Disc | Spinal disc | Intervertebral disc | Slipped disc — "Cartilage, not bone."
+- Tooth | Teeth | Molar | Wisdom tooth | Canine | Incisor | Enamel — "Teeth are not bones, though they are harder."
+- Cartilage | Meniscus | Menisci | Disc | Spinal disc | Intervertebral disc | Slipped disc | Adam's apple — "Cartilage, not bone."
 - Wishbone | Furcula — "A bird's bone, the furcula. Humans don't have one."
 - Elbow — "A joint where three bones meet. Name one of them."
 - Knee — "A joint. The bone you want might be the kneecap."
@@ -117,16 +117,19 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Shoulder — "A joint, not a bone."
 - Hip — "A joint. Say hip bone if you mean the bone."
 - Bone marrow | Marrow — "The soft tissue inside the bones."
-- Tendon | Ligament — "Connective tissue, not bone."
+- Tendon | Ligament | Achilles tendon | Achilles | Hamstring | ACL | Rotator cuff — "Connective tissue, not bone."
 - Spinal cord — "Nerves, not bone."
 - Nail | Fingernail | Toenail — "Keratin, not bone."
 - Skeleton | Bone | Bones | Human skeleton | Skeletons — "That's all of them at once. Name just one."
-- Eye socket | Orbit | Eye sockets — "A socket built from seven bones, not a bone itself."
+- Eye socket | Orbit | Eye sockets | Orbital bone — "A socket built from seven bones, not a bone itself."
 - Fontanelle | Fontanel | Soft spot — "A soft gap between a baby's skull bones, not a bone."
-- Finger | Fingers | Toe | Toes | Thumb | Big toe — "Fingers and toes are built from small bones called phalanges."
+- Finger | Fingers | Toe | Toes | Thumb | Big toe | Pinky | Pinkie — "Fingers and toes are built from small bones called phalanges."
 - Knuckle | Knuckles — "A joint where finger bones meet, not a bone of its own."
 - Olecranon | Olecranon process — "The point of the elbow: part of the ulna, not a bone of its own."
 - Malleolus | Medial malleolus | Lateral malleolus | Malleoli — "The bony bump of the ankle, the end of the tibia or the fibula."
 - Acromion | Acromion process — "The tip of the shoulder blade, not a bone of its own."
 - Mastoid | Mastoid process — "A bump of the skull behind the ear, not a separate bone."
 - Femoral head | Head of the femur | Greater trochanter | Trochanter — "Part of the femur, not a separate bone."
+- Leg | Arm | Hand | Foot | Back | Chest | Neck | Head | Forearm — "A part of the body with several bones in it. Name one of them."
+- Heart | Brain | Spleen | Appendix | Liver | Kidney | Lungs | Muscle | Biceps | Trachea | Larynx — "An organ, not a bone."
+- Baculum — "Most mammals have one. Humans do not."

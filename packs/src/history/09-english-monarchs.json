@@ -28,7 +28,8 @@
     "Good Queen Bess",
     "Elizabeth 1",
     "Elizabeth the First",
-    "Queen Bess"
+    "Queen Bess",
+    "Elizabeth Tudor"
    ],
    "tier": 1
   },
@@ -42,7 +43,20 @@
     "Elizabeth",
     "Queen Elizabeth",
     "Lilibet",
-    "Queen Elizabeth the Second"
+    "Queen Elizabeth the Second",
+    "QE2",
+    "QEII",
+    "Queen Liz",
+    "Lizzie",
+    "Lizzy",
+    "Liz",
+    "Queen Lizzie",
+    "Liz II",
+    "Elizabeth Windsor",
+    "The late Queen",
+    "Her Majesty",
+    "Her Majesty the Queen",
+    "HM The Queen"
    ],
    "tier": 1,
    "lore": "Reigned for 70 years, longer than any other British monarch."
@@ -55,7 +69,12 @@
     "Queen Victoria I",
     "Alexandrina Victoria",
     "Grandmother of Europe",
-    "Widow of Windsor"
+    "Widow of Windsor",
+    "Queen Vic",
+    "Vicky",
+    "Vic",
+    "Queen Vicky",
+    "Victoria Regina"
    ],
    "tier": 1,
    "lore": "Reigned for 63 years. Her descendants filled so many of Europe's thrones that she was called its grandmother."
@@ -68,7 +87,15 @@
     "King Charles III",
     "Charles 3",
     "Charles the Third",
-    "Charles"
+    "Charles",
+    "Chuck",
+    "King Chuck",
+    "Charles Windsor",
+    "The King",
+    "Current king",
+    "His Majesty",
+    "His Majesty the King",
+    "HM The King"
    ],
    "tier": 1
   },
@@ -98,7 +125,9 @@
     "Richard",
     "King Richard",
     "Richard of Gloucester",
-    "Richard Duke of Gloucester"
+    "Richard Duke of Gloucester",
+    "Crookback",
+    "Richard Crookback"
    ],
    "tier": 2,
    "lore": "His skeleton turned up under a car park in Leicester in 2012."
@@ -233,7 +262,8 @@
    "answer": "Anne",
    "aliases": [
     "Queen Anne",
-    "Anne Stuart"
+    "Anne Stuart",
+    "Ann"
    ],
    "tier": 2
   },
@@ -783,7 +813,9 @@
     "Philip II of Spain",
     "King Philip",
     "King Philip of Spain",
-    "King Philip II of Spain"
+    "King Philip II of Spain",
+    "Philip II",
+    "Felipe II"
    ],
    "tier": 5,
    "lore": "As Mary I's husband, he was styled King of England for four years."
@@ -1191,7 +1223,7 @@
   },
   {
    "answer": "Philip",
-   "reason": "Which Philip? Two were married to a queen, but only one was called king."
+   "reason": "Which Philip? A pair of them married a queen, but only one was called king."
   },
   {
    "answer": "James V",
@@ -1307,7 +1339,10 @@
     "Lady Diana",
     "Diana Spencer",
     "Lady Di",
-    "Diana, Princess of Wales"
+    "Diana, Princess of Wales",
+    "Kate Middleton",
+    "Princess Kate",
+    "Princess Catherine"
    ],
    "reason": "Princess of Wales, never queen."
   },
@@ -1317,6 +1352,36 @@
     "Duke of Sussex"
    ],
    "reason": "A prince, but never a king."
+  },
+  {
+   "answer": "Meghan Markle",
+   "aliases": [
+    "Meghan",
+    "Megan Markle",
+    "Duchess of Sussex"
+   ],
+   "reason": "A duchess, never a queen."
+  },
+  {
+   "answer": "Tudor",
+   "aliases": [
+    "Tudors",
+    "House of Tudor",
+    "Windsor",
+    "Windsors",
+    "House of Windsor",
+    "Stuart",
+    "Stuarts",
+    "House of Stuart",
+    "Plantagenet",
+    "Plantagenets",
+    "Hanover",
+    "Hanoverians",
+    "House of Hanover",
+    "House of York",
+    "House of Lancaster"
+   ],
+   "reason": "A dynasty, not a monarch. Name one of the family."
   }
  ],
  "section": "World history",

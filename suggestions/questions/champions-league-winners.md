@@ -21,11 +21,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 2: common (7)
 
-- Chelsea — Chelsea FC | FC Chelsea | The Blues | CFC | Chelsea Football Club | Pensioners
+- Chelsea — Chelsea FC | FC Chelsea | The Blues | CFC | Chelsea Football Club | Pensioners | Chelski | Chelsie
 - Manchester City — Man City | MCFC | Citizens | Manchester City FC | Man City FC | Citizens FC | FC Manchester City | FC Man City | FC Citizens | City | Cityzens | Sky Blues | Manchester City Football Club
 - Juventus — Juve | Bianconeri | Old Lady | Juventus Turin | Juventus FC | Juve FC | Bianconeri FC | Old Lady FC | Juventus Turin FC | FC Juventus | FC Juve | FC Bianconeri | FC Old Lady | FC Juventus Turin | La Vecchia Signora | Vecchia Signora | Turin | Juventus Torino | Juve Turin
 - Inter Milan — Inter | Internazionale | Inter Milano | Nerazzurri | Internazionale Milano | Inter Milan FC | Inter FC | Internazionale FC | Inter Milano FC | Nerazzurri FC | Internazionale Milano FC | FC Inter Milan | FC Inter | FC Internazionale | FC Inter Milano | FC Nerazzurri | FC Internazionale Milano | Ambrosiana-Inter | Ambrosiana | La Beneamata
-- Ajax — Ajax Amsterdam | AFC Ajax | Ajax FC | Ajax Amsterdam FC | FC Ajax | FC Ajax Amsterdam | Amsterdam | Godenzonen | Sons of the Gods
+- Ajax — Ajax Amsterdam | AFC Ajax | Ajax FC | Ajax Amsterdam FC | FC Ajax | FC Ajax Amsterdam | Amsterdam | Godenzonen | Sons of the Gods | Ajacks | Ajaks
 - Paris Saint-Germain — PSG | Paris SG | Paris St Germain | Paris | Paris Saint-Germain FC | Paris SG FC | Paris St Germain FC | Paris FC | FC Paris Saint-Germain | FC Paris SG | FC Paris St Germain | FC Paris | Les Parisiens | Parisiens
 - Porto — FC Porto | Porto FC | Futebol Clube do Porto | Dragoes | FCP | Os Dragoes
 
@@ -35,7 +35,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Borussia Dortmund — Dortmund | BVB | Borussia Dortmund FC | Dortmund FC | FC Borussia Dortmund | FC Dortmund | Borussia | BVB 09 | Borussia Dortmund 09 | Die Schwarzgelben
 - Celtic — Glasgow Celtic | Bhoys | Lisbon Lions | Celtic FC | Glasgow Celtic FC | Bhoys FC | Lisbon Lions FC | FC Celtic | FC Glasgow Celtic | FC Bhoys | FC Lisbon Lions | The Hoops | Celtic Glasgow | Celts | Celtic Football Club
 - Nottingham Forest — Forest | Nottm Forest | Nottingham Forest FC | Forest FC | Nottm Forest FC | FC Nottingham Forest | FC Forest | FC Nottm Forest | Notts Forest | Nottingham | NFFC | Tricky Trees
-- Marseille — Olympique de Marseille | Olympique Marseille | OM | Marseille FC | Olympique de Marseille FC | Olympique Marseille FC | FC Marseille | FC Olympique de Marseille | FC Olympique Marseille | Marseilles | Olympique Marseilles | Les Phoceens | Phoceens
+- Marseille — Olympique de Marseille | Olympique Marseille | OM | Marseille FC | Olympique de Marseille FC | Olympique Marseille FC | FC Marseille | FC Olympique de Marseille | FC Olympique Marseille | Marseilles | Olympique Marseilles | Les Phoceens | Phoceens | Marsay
 
 ### Tier 4: obscure (2)
 
@@ -52,7 +52,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hamburg — Hamburger SV | Hamburg SV | HSV | Hamburg FC | Hamburger SV FC | Hamburg SV FC | FC Hamburg | FC Hamburger SV | FC Hamburg SV | Hamburger | Hamburger Sport-Verein | Der Dino | HSV Hamburg
 - Feyenoord — Feyenoord Rotterdam | Feyenoord FC | Feyenoord Rotterdam FC | FC Feyenoord | FC Feyenoord Rotterdam | Rotterdam | Feijenoord
 
-## Refused on purpose (41)
+## Refused on purpose (47)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -97,3 +97,9 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Shakhtar Donetsk | Shakhtar — "Won the UEFA Cup in 2009, never this one."
 - CSKA Moscow | CSKA — "Won the UEFA Cup in 2005, never this one."
 - Deportivo La Coruña | Deportivo | Depor — "Reached the semi-finals in 2004, and no further."
+- Western Sydney Wanderers | Wanderers | WSW — "Champions of Asia in 2014. Wrong continent, right idea."
+- Sydney FC | Melbourne Victory | Melbourne City | Central Coast Mariners | Adelaide United | Brisbane Roar | Perth Glory — "An A-League club. This cup is Europe's."
+- Leicester City | Leicester — "Champions of England in 2016 against all odds. Never of Europe."
+- England | Spain | Germany | Italy | France | Brazil | Argentina | Australia | Socceroos | Matildas | Netherlands | Portugal — "A national team. This cup is for clubs."
+- Messi | Ronaldo | Cristiano Ronaldo | Lionel Messi — "A player, not a club. He has lifted it with one, though."
+- Boca Juniors | River Plate | Flamengo | Santos | Palmeiras | LA Galaxy | Inter Miami | Al Nassr | Al Hilal — "Champions of another continent, perhaps. This cup is Europe's."

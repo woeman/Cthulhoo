@@ -15,7 +15,8 @@
     "Helvetia",
     "Swiss",
     "Confoederatio Helvetica",
-    "Svizra"
+    "Svizra",
+    "Swissland"
    ],
    "tier": 1
   },
@@ -24,7 +25,9 @@
    "aliases": [
     "Österreich",
     "Oesterreich",
-    "Republic of Austria"
+    "Republic of Austria",
+    "Ostria",
+    "Austrier"
    ],
    "tier": 1
   },
@@ -32,7 +35,8 @@
    "answer": "Bolivia",
    "aliases": [
     "Plurinational State of Bolivia",
-    "Republic of Bolivia"
+    "Republic of Bolivia",
+    "Bolivier"
    ],
    "tier": 1,
    "lore": "Lost its coast to Chile in the War of the Pacific (1879 to 1884), and still keeps a navy."
@@ -41,7 +45,8 @@
    "answer": "Hungary",
    "aliases": [
     "Magyarország",
-    "Republic of Hungary"
+    "Republic of Hungary",
+    "Hungaria"
    ],
    "tier": 1
   },
@@ -49,7 +54,8 @@
    "answer": "Mongolia",
    "aliases": [
     "Outer Mongolia",
-    "Mongol Uls"
+    "Mongol Uls",
+    "Mongolier"
    ],
    "tier": 1
   },
@@ -109,7 +115,12 @@
   {
    "answer": "Liechtenstein",
    "aliases": [
-    "Principality of Liechtenstein"
+    "Principality of Liechtenstein",
+    "Lickenstein",
+    "Liktenstein",
+    "Lichtenstine",
+    "Likenstine",
+    "Lickenstine"
    ],
    "tier": 2,
    "openSecret": true,
@@ -180,7 +191,8 @@
    "answer": "Zambia",
    "aliases": [
     "Northern Rhodesia",
-    "Republic of Zambia"
+    "Republic of Zambia",
+    "Zambier"
    ],
    "tier": 3
   },
@@ -195,7 +207,8 @@
   {
    "answer": "Ethiopia",
    "aliases": [
-    "Abyssinia"
+    "Abyssinia",
+    "Ethiopier"
    ],
    "tier": 3,
    "lore": "Landlocked since Eritrea became independent in 1993."
@@ -218,7 +231,8 @@
   {
    "answer": "Uganda",
    "aliases": [
-    "Republic of Uganda"
+    "Republic of Uganda",
+    "Ugander"
    ],
    "tier": 3
   },
@@ -226,7 +240,8 @@
    "answer": "Rwanda",
    "aliases": [
     "Ruanda",
-    "Republic of Rwanda"
+    "Republic of Rwanda",
+    "Rwander"
    ],
    "tier": 3
   },
@@ -251,7 +266,8 @@
    "answer": "Bhutan",
    "aliases": [
     "Druk Yul",
-    "Kingdom of Bhutan"
+    "Kingdom of Bhutan",
+    "Bootan"
    ],
    "tier": 3
   },
@@ -278,7 +294,11 @@
    "answer": "Lesotho",
    "aliases": [
     "Basutoland",
-    "Kingdom of Lesotho"
+    "Kingdom of Lesotho",
+    "Lesuto",
+    "Lesutu",
+    "Lesootoo",
+    "Lasutu"
    ],
    "tier": 4,
    "lore": "Entirely surrounded by South Africa."
@@ -502,6 +522,42 @@
     "Republic of Artsakh"
    ],
    "reason": "A breakaway republic in the Caucasus that no UN member recognised. It was dissolved in 2024."
+  },
+  {
+   "answer": "Australian Capital Territory",
+   "aliases": [
+    "ACT",
+    "Canberra",
+    "Alice Springs",
+    "Kansas",
+    "Nebraska",
+    "Colorado",
+    "Wyoming",
+    "Utah",
+    "Bavaria",
+    "Tyrol",
+    "Transylvania",
+    "Bohemia",
+    "Kashmir"
+   ],
+   "reason": "Landlocked, yes. A country, no."
+  },
+  {
+   "answer": "Wakanda",
+   "aliases": [
+    "Mordor",
+    "Rohan",
+    "Narnia",
+    "Genovia"
+   ],
+   "reason": "Landlocked, yes. Real, no."
+  },
+  {
+   "answer": "The Stans",
+   "aliases": [
+    "Central Asia"
+   ],
+   "reason": "Several countries, most of them landlocked. Name one."
   }
  ],
  "decoys": [

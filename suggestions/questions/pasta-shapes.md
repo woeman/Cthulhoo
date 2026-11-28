@@ -12,29 +12,29 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (9)
 
-- Spaghetti — Spaghetti pasta | Spaghetti noodles | Spagetti | Spaghetti noodles pasta | Spagetti pasta
-- Penne — Penne rigate | Penne pasta | Penne rigate pasta | Penne lisce | Pennes | Penne lisce pasta | Pennes pasta
-- Fusilli — Spirals | Twists | Fusilli pasta | Spirals pasta | Twists pasta | Fusili | Spiral pasta | Fusili pasta
-- Lasagne — Lasagna | Lasagne sheets | Lasagna sheets | Lasagne pasta | Lasagna pasta | Lasagne sheets pasta | Lasagna sheets pasta | Lasagna noodles | Lasagne noodles | Pasta sheets | Lasagna sheet | Lasagne sheet | Lasagnas | Lasagna noodles pasta | Lasagne noodles pasta | Lasagna sheet pasta | Lasagne sheet pasta | Lasagnas pasta
-- Macaroni — Maccheroni | Elbow macaroni | Elbows | Macaroni pasta | Maccheroni pasta | Elbow macaroni pasta | Elbows pasta | Elbow pasta | Maccaroni | Macarroni | Macaroni elbows | Elbow noodles | Maccaroni pasta | Macarroni pasta | Macaroni elbows pasta | Elbow noodles pasta
+- Spaghetti — Spaghetti pasta | Spaghetti noodles | Spagetti | Spaghetti noodles pasta | Spagetti pasta | Spag | Sketti | Basketti | Spaghetti no 5 | Number 5 spaghetti | Tinned spaghetti | Canned spaghetti
+- Penne — Penne rigate | Penne pasta | Penne rigate pasta | Penne lisce | Pennes | Penne lisce pasta | Pennes pasta | Peni | Penay | Pennay | Quills
+- Fusilli — Spirals | Twists | Fusilli pasta | Spirals pasta | Twists pasta | Fusili | Spiral pasta | Fusili pasta | Fusseli | Foosilli | Twirls | Curly pasta | Curls | Spirelli | Fusilloni | Vegeroni spirals
+- Lasagne — Lasagna | Lasagne sheets | Lasagna sheets | Lasagne pasta | Lasagna pasta | Lasagne sheets pasta | Lasagna sheets pasta | Lasagna noodles | Lasagne noodles | Pasta sheets | Lasagna sheet | Lasagne sheet | Lasagnas | Lasagna noodles pasta | Lasagne noodles pasta | Lasagna sheet pasta | Lasagne sheet pasta | Lasagnas pasta | Lasanya | Lazanya | Lasania | Sheets
+- Macaroni — Maccheroni | Elbow macaroni | Elbows | Macaroni pasta | Maccheroni pasta | Elbow macaroni pasta | Elbows pasta | Elbow pasta | Maccaroni | Macarroni | Macaroni elbows | Elbow noodles | Maccaroni pasta | Macarroni pasta | Macaroni elbows pasta | Elbow noodles pasta | Mac
 - Tagliatelle — Tagliatelle pasta | Tagliatelli | Tagliatella | Tagliatelli pasta | Tagliatella pasta
 - Ravioli — Ravioli pasta | Raviolo | Raviolis | Raviolo pasta | Raviolis pasta
-- Linguine — Linguini | Linguine pasta | Linguini pasta | Little tongues | Linguina | Little tongues pasta | Linguina pasta
-- Farfalle — Bow ties | Butterflies | Farfalle pasta | Bow ties pasta | Butterflies pasta | Bowtie pasta | Butterfly pasta | Farfale | Bow-tie noodles | Farfale pasta | Bow-tie noodles pasta
+- Linguine — Linguini | Linguine pasta | Linguini pasta | Little tongues | Linguina | Little tongues pasta | Linguina pasta | Lingweenie
+- Farfalle — Bow ties | Butterflies | Farfalle pasta | Bow ties pasta | Butterflies pasta | Bowtie pasta | Butterfly pasta | Farfale | Bow-tie noodles | Farfale pasta | Bow-tie noodles pasta | Bows | Butterfly | Pasta bows
 
 ### Tier 2: common (14)
 
 - Rigatoni — Rigatoni pasta
-- Tortellini — Tortellini pasta | Tortellino | Tortellino pasta
-- Fettuccine — Fettucine | Fettuccini | Fettuccine pasta | Fettucine pasta | Fettuccini pasta | Fettucini | Fettuccina | Fettucini pasta | Fettuccina pasta
+- Tortellini — Tortellini pasta | Tortellino | Tortellino pasta | Tortaleni
+- Fettuccine — Fettucine | Fettuccini | Fettuccine pasta | Fettucine pasta | Fettuccini pasta | Fettucini | Fettuccina | Fettucini pasta | Fettuccina pasta | Fetachini | Egg fettuccine
 - Conchiglie — Shells | Pasta shells | Conchiglie pasta | Shells pasta | Seashells | Seashell pasta | Shell pasta | Conchiglia | Seashells pasta | Conchiglia pasta
 - Cannelloni — Cannelloni pasta | Canneloni | Cannellone | Canelloni | Canneloni pasta | Cannellone pasta | Canelloni pasta
 - Orzo — Risoni | Kritharaki | Orzo pasta | Risoni pasta | Kritharaki pasta | Puntine | Rice-shaped pasta | Puntine pasta
 - Pappardelle — Pappardelle pasta
-- Gnocchi — Gnocchi pasta | Gnocco | Potato gnocchi | Gnocchetti | Gnocco pasta | Potato gnocchi pasta | Gnocchetti pasta
+- Gnocchi — Gnocchi pasta | Gnocco | Potato gnocchi | Gnocchetti | Gnocco pasta | Potato gnocchi pasta | Gnocchetti pasta | Nyoki | Nyocki | Nyokki | Noki | Nokey | Nocci | Gnocki | Yoki
 - Vermicelli — Vermicelli pasta | Little worms | Vermicello | Little worms pasta | Vermicello pasta
 - Orecchiette — Little ears | Orecchiette pasta | Little ears pasta | Orecchietti | Recchietelle | Ear pasta | Orecchietti pasta | Recchietelle pasta
-- Ziti — Zita | Ziti pasta | Zita pasta | Long ziti | Long ziti pasta
+- Ziti — Zita | Ziti pasta | Zita pasta | Long ziti | Long ziti pasta | Zeeti
 - Bucatini — Perciatelli | Bucatini pasta | Perciatelli pasta
 - Rotini — Rotini pasta
 - Cavatappi — Cellentani | Corkscrews | Cavatappi pasta | Cellentani pasta | Corkscrews pasta
@@ -57,7 +57,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Trofie — Trofie pasta | Trofiette | Trofiette pasta
 - Pici — Pici pasta | Pinci | Pinci pasta
 - Stelline — Stars | Stelline pasta | Stars pasta | Stelle | Stellette | Little stars | Star pasta | Stelle pasta | Stellette pasta | Little stars pasta
-- Alfabeto — Alphabet pasta | Alphabetti spaghetti | Alphabet | Alphabets | Alfabeto pasta | Alphabetti spaghetti pasta | Alphabets pasta | Letters | Alphabet letters | Letter pasta | Alfabetini | Letters pasta | Alphabet letters pasta | Alfabetini pasta
+- Alfabeto — Alphabet pasta | Alphabetti spaghetti | Alphabet | Alphabets | Alfabeto pasta | Alphabetti spaghetti pasta | Alphabets pasta | Letters | Alphabet letters | Letter pasta | Alfabetini | Letters pasta | Alphabet letters pasta | Alfabetini pasta | Alphabet noodles
 - Anelli — Spaghetti hoops | Anelletti | Anelli pasta | Spaghetti hoops pasta | Anelletti pasta | Anellini | SpaghettiOs | Hoops | Pasta rings | Pasta hoops | Rings | Anellini pasta | SpaghettiOs pasta | Hoops pasta | Rings pasta
 - Lumache — Snails | Lumache pasta | Snails pasta | Lumachine | Lumaca | Snail pasta | Lumachine pasta | Lumaca pasta
 - Conchiglioni — Jumbo shells | Conchiglioni pasta | Jumbo shells pasta | Giant shells | Stuffed shells | Large shells | Giant shells pasta | Stuffed shells pasta | Large shells pasta
@@ -193,12 +193,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Su filindeu — Filindeu | Threads of God | Su filindeu pasta | Filindeu pasta | Threads of God pasta
 - Maccheroncini di Campofilone — Campofilone | Maccheroncini di Campofilone pasta | Campofilone pasta
 
-## Refused on purpose (9)
+## Refused on purpose (10)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Ramen | Udon | Soba | Rice noodles | Egg noodles | Lo mein | Chow mein | Glass noodles | Pho | Pot Noodle | Pad Thai | Somen | Rice vermicelli | Cellophane noodles | Mung bean noodles | Shirataki | Japchae | Naengmyeon | Laksa | Mee goreng | Instant noodles | Cup noodles | Hokkien noodles | Ho fun | Kway teow | Biang biang noodles | Dan dan noodles | Yakisoba | Pancit | Bihun — "A noodle, but not pasta."
-- Pasta | Noodles | Noodle | Pastas | Fresh pasta | Dried pasta | Egg pasta | Pasta shape | Pasta shapes | Long pasta | Short pasta | Stuffed pasta | Filled pasta — "Which shape?"
+- Ramen | Udon | Soba | Rice noodles | Egg noodles | Lo mein | Chow mein | Glass noodles | Pho | Pot Noodle | Pad Thai | Somen | Rice vermicelli | Cellophane noodles | Mung bean noodles | Shirataki | Japchae | Naengmyeon | Laksa | Mee goreng | Instant noodles | Cup noodles | Hokkien noodles | Ho fun | Kway teow | Biang biang noodles | Dan dan noodles | Yakisoba | Pancit | Bihun | 2 minute noodles | Two minute noodles | Maggi noodles — "A noodle, but not pasta."
+- Pasta | Noodles | Noodle | Pastas | Fresh pasta | Dried pasta | Egg pasta | Pasta shape | Pasta shapes | Long pasta | Short pasta | Stuffed pasta | Filled pasta | Tricolore | Wholemeal pasta | Gluten free pasta | Spinach pasta | Squid ink pasta — "Which shape?"
 - Carbonara | Bolognese | Pesto | Alfredo | Arrabbiata | Puttanesca | Marinara | Amatriciana | Cacio e pepe | Aglio e olio | Ragù | Pomodoro | Vongole | Napoletana | Napolitana | Gricia | Primavera | Vodka sauce | Tomato sauce | Bechamel | Genovese | Pasta sauce | Marinara sauce | Alfredo sauce | Bolognese sauce | Carbonara sauce | Pesto sauce | Ragu alla bolognese — "A sauce, not a shape."
 - Spaghetti Bolognese | Spag bol | Mac and cheese | Macaroni cheese | Lasagne al forno | Baked ziti | Spaghetti and meatballs | Fettuccine Alfredo | Penne alla vodka | Pasta bake | Pasta e fagioli | Pasta fagioli | Minestrone | Pastitsio | Timballo | Spaghetti carbonara | Kraft Dinner | Mac n cheese | Macaroni and cheese | Pasta salad | Spaghetti alle vongole | Linguine alle vongole | Pasta alla Norma | Pasta primavera — "A dish. The pasta inside it would have counted."
 - Pierogi | Gyoza | Wonton | Dumpling | Dim sum | Pelmeni | Mantı — "A dumpling, though it could pass for ravioli in a dim light."
@@ -206,3 +206,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Polenta — "Cornmeal, not pasta."
 - Cannoli | Cannolo — "A Sicilian pastry with a sweet filling, not pasta."
 - Pasta mista | Pasta ammescata | Pasta ammiscata | Mixed pasta — "A Neapolitan bag of odds and ends, mixed on purpose. Lovely with beans, but not one shape."
+- Barilla | San Remo | Zafarelli | De Cecco | Balducci — "A brand. It makes most of the shapes, but it isn't one."

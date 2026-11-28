@@ -6,36 +6,36 @@ Rules: Any named phobia, by its -phobia name. Phobias coined as jokes don't coun
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (309 answers)
+## Accepted now (393 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (4)
 
-- Arachnophobia
-- Claustrophobia
-- Agoraphobia — Agrophobia
-- Acrophobia — Altophobia | Hypsiphobia | Hypsophobia
+- Arachnophobia — Araknophobia | Spider phobia
+- Claustrophobia — Closterphobia | Clostrofobia
+- Agoraphobia — Agrophobia | Agorophobia
+- Acrophobia — Altophobia | Hypsiphobia | Hypsophobia | Aeroacrophobia
 
 ### Tier 2: common (21)
 
 - Hydrophobia
 - Aquaphobia
 - Nyctophobia — Achluophobia | Scotophobia | Lygophobia | Noctiphobia
-- Ophidiophobia — Ophiophobia
+- Ophidiophobia — Ophiophobia | Ofidiophobia | Ophidophobia | Ofidiofobia | Snake phobia
 - Trypophobia
-- Coulrophobia — Clownophobia | Clownphobia
-- Xenophobia
-- Homophobia — Homaphobia
-- Aerophobia — Aviophobia | Pteromerhanophobia
+- Coulrophobia — Clownophobia | Clownphobia | Colrophobia
+- Xenophobia — Zenophobia
+- Homophobia — Homaphobia | Gayphobia
+- Aerophobia — Aviophobia | Pteromerhanophobia | Aviatophobia
 - Glossophobia — Glosophobia
 - Emetophobia
-- Haemophobia — Hemophobia | Hematophobia | Haematophobia | Hemaphobia
-- Trypanophobia
+- Haemophobia — Hemophobia | Hematophobia | Haematophobia | Hemaphobia | Blood phobia
+- Trypanophobia — Needle phobia
 - Thanatophobia
 - Necrophobia
-- Mysophobia — Germophobia | Misophobia
-- Cynophobia
+- Mysophobia — Germophobia | Misophobia | Molysmophobia | Molysomophobia | Germaphobia | Germaphobe | Germophobe
+- Cynophobia — Kynophobia | Cinophobia | Dog phobia
 - Triskaidekaphobia
 - Technophobia
 - Thalassophobia — Thalasophobia
@@ -43,7 +43,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (20)
 
-- Ailurophobia — Felinophobia | Elurophobia | Aelurophobia
+- Ailurophobia — Felinophobia | Elurophobia | Aelurophobia | Gatophobia
 - Gephyrophobia
 - Astraphobia — Astrapophobia | Tonitrophobia
 - Pyrophobia — Arsonphobia
@@ -51,16 +51,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Entomophobia — Insectophobia
 - Apiphobia — Melissophobia
 - Zoophobia
-- Dentophobia — Odontophobia
+- Dentophobia — Odontophobia | Dental phobia | Dentist phobia
 - Sociophobia — Social phobia
 - Phasmophobia
 - Bathophobia
-- Nomophobia
+- Nomophobia — Nomaphobia
 - Islamophobia
 - Transphobia
-- Photophobia
+- Photophobia — Fotophobia
 - Biphobia
-- Russophobia
+- Russophobia — Rusophobia
 - Anglophobia
 - Fatphobia
 
@@ -70,15 +70,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Brontophobia
 - Musophobia — Murophobia | Suriphobia
 - Ichthyophobia
-- Selachophobia — Galeophobia
+- Selachophobia — Galeophobia | Shark phobia
 - Herpetophobia
 - Equinophobia — Hippophobia
 - Iatrophobia
-- Tokophobia
-- Gamophobia
+- Tokophobia — Tocophobia | Lockiophobia | Maieusiophobia | Parturiphobia
+- Gamophobia — Commitment phobia | Commitment-phobe
 - Philophobia
 - Atychiphobia
-- Ergophobia
+- Ergophobia — Workplace phobia
 - Anthropophobia
 - Autophobia — Monophobia | Isolophobia
 - Catoptrophobia — Eisoptrophobia
@@ -88,17 +88,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tetraphobia
 - Friggatriskaidekaphobia — Paraskevidekatriaphobia
 - Somniphobia — Hypnophobia
-- Taphophobia
+- Taphophobia — Taphephobia
 - Pediophobia
 - Megalophobia
 - Heliophobia
-- Astrophobia — Siderophobia
-- Neophobia — Kainophobia | Kainolophobia
-- Panophobia — Pantophobia | Omniphobia
-- Acarophobia
+- Astrophobia — Siderophobia | Kosmikophobia | Spacephobia
+- Neophobia — Kainophobia | Kainolophobia | Cainophobia | Cainotophobia
+- Panophobia — Pantophobia | Omniphobia | Panphobia
+- Acarophobia — Scabiophobia
 - Scopophobia — Scoptophobia
-- Phonophobia
-- Haphephobia — Aphenphosmphobia | Haptephobia | Chiraptophobia
+- Phonophobia — Sonophobia
+- Haphephobia — Aphenphosmphobia | Haptephobia | Chiraptophobia | Aphephobia
 - Cherophobia
 - Gerontophobia
 - Nosophobia — Nosemaphobia
@@ -108,9 +108,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Androphobia — Arrhenphobia
 - Gynophobia — Gynephobia
 - Hoplophobia
-- Telephonophobia
-- Cyberphobia — Logizomechanophobia
-- Koumpounophobia
+- Telephonophobia — Telephobia | Telephone phobia | Phone phobia
+- Cyberphobia — Logizomechanophobia | Computerphobia
+- Koumpounophobia — Button phobia
 - Bibliophobia
 - Sesquipedalophobia
 - Spheksophobia
@@ -121,10 +121,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Theophobia
 - Sophophobia
 - Athazagoraphobia
-- Globophobia
+- Globophobia — Balloon phobia
 - Submechanophobia
 
-### Tier 5: expert (205)
+### Tier 5: expert (289)
 
 - Keraunophobia
 - Batrachophobia
@@ -146,7 +146,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Limnophobia
 - Bathmophobia — Climacophobia
 - Agyrophobia — Dromophobia
-- Amaxophobia
+- Amaxophobia — Ochophobia | Hamaxophobia
 - Cibophobia — Sitophobia
 - Lachanophobia
 - Turophobia
@@ -167,20 +167,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chromophobia — Chromatophobia
 - Dendrophobia
 - Belonephobia
-- Taurophobia
+- Taurophobia — Bovinophobia
 - Ligyrophobia
 - Aichmophobia
 - Ablutophobia
-- Gelotophobia
+- Gelotophobia — Geliophobia
 - Chiroptophobia
 - Lepidopterophobia
 - Pharmacophobia
 - Radiophobia
 - Ochlophobia — Enochlophobia | Demophobia
 - Arithmophobia — Numerophobia
-- Algophobia
+- Algophobia — Agliophobia
 - Osmophobia — Olfactophobia
-- Oikophobia — Domatophobia
+- Oikophobia — Domatophobia | Ecophobia | Oecophobia
 - Dysmorphophobia
 - Erythrophobia — Ereuthophobia
 - Germanophobia — Teutophobia
@@ -203,7 +203,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Carnophobia
 - Pedophobia — Paedophobia
 - Ephebiphobia
-- Erotophobia
+- Erotophobia — Sexophobia
 - Traumatophobia
 - Pnigophobia
 - Anginophobia
@@ -223,7 +223,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Autodysomophobia
 - Automysophobia
 - Ankylophobia
-- Bacteriophobia
+- Bacteriophobia — Bacillophobia
 - Verminophobia
 - Microphobia
 - Ophthalmophobia
@@ -231,13 +231,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hierophobia
 - Ecclesiophobia
 - Staurophobia
-- Uranophobia
+- Uranophobia — Ouranophobia
 - Hagiophobia
 - Heortophobia
 - Peccatophobia
-- Enosiophobia
+- Enosiophobia — Enissophobia
 - Anemophobia — Ancraophobia
-- Frigophobia — Cheimaphobia | Cheimatophobia
+- Frigophobia — Cheimaphobia | Cheimatophobia | Cryophobia | Psychrophobia
 - Thermophobia
 - Meteorophobia
 - Cometophobia
@@ -257,7 +257,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ergasiophobia
 - Rhabdophobia
 - Poinephobia
-- Scolionophobia — Didaskaleinophobia
+- Scolionophobia — Didaskaleinophobia | School phobia
 - Epistemophobia
 - Verbophobia
 - Graphophobia
@@ -272,7 +272,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Politicophobia
 - Ideophobia
 - Phronemophobia
-- Hypengyophobia
+- Hypengyophobia — Hypegiaphobia
 - Agateophobia
 - Mnemophobia
 - Hedonophobia
@@ -288,17 +288,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Masklophobia — Maskaphobia
 - Papyrophobia
 - Metallophobia
-- Crystallophobia — Hyalophobia
+- Crystallophobia — Hyalophobia | Hyelophobia | Nelophobia
 - Linonophobia
 - Pupaphobia
 - Chrometophobia — Chrematophobia
-- Cleithrophobia — Cleisiophobia
+- Cleithrophobia — Cleisiophobia | Clithrophobia
 - Vehophobia
 - Motorphobia
 - Nostophobia
 - Illyngophobia
 - Anablephobia
-- Kathisophobia
+- Kathisophobia — Cathisophobia
 - Stasiphobia — Stasibasiphobia
 - Ambulophobia
 - Kinetophobia — Kinesophobia
@@ -309,7 +309,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chronomentrophobia
 - Peniaphobia
 - Plutophobia
-- Kleptophobia
+- Kleptophobia — Cleptophobia
 - Scelerophobia
 - Harpaxophobia
 - Dikephobia
@@ -322,7 +322,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hellenophobia
 - Turcophobia — Turkophobia
 - Polonophobia
-- Japanophobia
+- Japanophobia — Nipponophobia
 - Arabophobia
 - Hinduphobia
 - Christianophobia — Christophobia
@@ -331,17 +331,101 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Indophobia
 - Iranophobia
 - Ukrainophobia
+- Acephobia — Aphobia
+- Acidophobia
+- Afrophobia
+- Koniophobia — Amathophobia | Coniophobia
+- Antlophobia
+- Apotemnophobia
+- Atephobia
+- Aurophobia — Chrysophobia
+- Basophobia — Basiphobia
+- Cacophobia — Kakophobia | Aschimophobia
+- Chelonaphobia — Chelonophobia
+- Genophobia — Coitophobia
+- Coprophobia — Scatophobia | Koprophobia
+- Cyclophobia
+- Deipnophobia
+- Doxophobia
+- Europhobia — Europhobe
+- Halitophobia
+- Hodophobia
+- Toxiphobia — Toxicophobia | Toxophobia
+- Koinoniphobia
+- Liticaphobia — Litigaphobia
+- Lusophobia
+- Lutraphobia
+- Lyssophobia — Lyssaphobia
+- Malaxophobia — Sarmassophobia
+- Melophobia
+- Menophobia
+- Merinthophobia
+- Metrophobia
+- Mythophobia
+- Naviphobia — Nautophobia
+- Octophobia
+- Oenophobia — Oinophobia
+- Peladophobia
+- Phallophobia — Ithyphallophobia | Medorthophobia
+- Philematophobia — Philemaphobia
+- Polyphobia
+- Proctophobia — Rectophobia
+- Rhodophobia
+- Seismophobia
+- Selaphobia
+- Stenophobia
+- Teratophobia
+- Textophobia
+- Tomophobia
+- Tyrannophobia
+- Urophobia
+- Vestiphobia
+- Xerophobia
+- Xyrophobia
+- Argyrophobia
+- Batophobia
+- Coronaphobia
+- Cremnophobia
+- Cyanophobia
+- Disposophobia
+- Dystychiphobia
+- Eurotophobia — Kolpophobia
+- Hamartophobia
+- Lipophobia
+- Logophobia
+- Mastigophobia
+- Mycophobia
+- Papaphobia
+- Parthenophobia
+- Pornophobia
+- Sciophobia — Sciaphobia
+- Scriptophobia
+- Serophobia
+- Whorephobia
+- Xocolatophobia
+- Americanophobia
+- Arkoudaphobia
+- Katsaridaphobia — Blattodephobia
+- Veloxrotaphobia — Roller coaster phobia
+- Consecotaleophobia
+- Enbyphobia
+- Escalaphobia
+- Leporiphobia
+- Parasitophobia
+- Pediculophobia — Phthiriophobia
+- Photoaugliaphobia
+- Syngenesophobia
 
 ### Tier 6: rare jackpots (2)
 
 - Siderodromophobia
 - Hellenologophobia
 
-## Refused on purpose (9)
+## Refused on purpose (12)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Fear of spiders | Fear of heights | Fear of the dark | Fear of clowns | Fear of snakes | Fear of flying | Fear of water | Fear of death | Fear of needles | Fear of small spaces | Fear of open spaces | Fear of the sea | Fear | Fear of everything | Fear of germs | Fear of dogs | Fear of cats | Fear of blood | Fear of crowds | Fear of fire | Fear of birds | Fear of thunder | Fear of public speaking | Fear of the number 13 | Fear of holes | Fear of long words | Fear of missing out | FOMO — "Give it its proper name, ending in -phobia."
+- Fear of spiders | Fear of heights | Fear of the dark | Fear of clowns | Fear of snakes | Fear of flying | Fear of water | Fear of death | Fear of needles | Fear of small spaces | Fear of open spaces | Fear of the sea | Fear | Fear of everything | Fear of germs | Fear of dogs | Fear of cats | Fear of blood | Fear of crowds | Fear of fire | Fear of birds | Fear of thunder | Fear of public speaking | Fear of the number 13 | Fear of holes | Fear of long words | Fear of missing out | FOMO | Fear of failure | Fear of vomiting | Fear of enclosed spaces | Spiders | Heights | Snakes | Clowns | The dark | Scared of spiders | Scared of heights — "Give it its proper name, ending in -phobia."
 - Phobia | Phobias — "Which one?"
 - Arachibutyrophobia — "Fear of peanut butter sticking to the roof of your mouth. Coined as a joke, so the deep won't have it."
 - Hippopotomonstrosesquippedaliophobia — "Fear of long words. A joke, and a cruel one."
@@ -350,3 +434,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hydrophobic — "An adjective, and usually about molecules."
 - Phobos | Deimos — "The Greek god of fear, and a moon of Mars. Not a phobia."
 - Luposlipaphobia — "A Far Side joke about wolves, socks and a freshly waxed floor."
+- Counterphobia — "Seeking out the thing that frightens you: the opposite of a phobia."
+- Vertigo — "A spinning sensation, not a fear. The fear of heights has another name."
+- Hypochondria | Social anxiety | Paruresis | Shy bladder | Anxiety | Stage fright | Panic attack | PTSD | OCD — "A real anxiety, but not one with a -phobia name."
