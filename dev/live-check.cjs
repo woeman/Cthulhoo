@@ -139,8 +139,8 @@ async function seance(m, s, sign) {
   await s.waitForSelector('.sc-lobby', { timeout: 20000 });
   await m.waitForFunction(() => document.querySelectorAll('.sc-lobby .sc-sitter').length === 2, null, { timeout: 20000 });
   await shot(m, '08-seance-lobby');
-  await m.click('.sc-lobby fieldset:nth-of-type(1) label:has-text("3")');
-  await m.click('.sc-lobby fieldset:nth-of-type(2) label:has-text("20")');
+  await m.click('.sc-lobby .sc-config:not(.sc-topics) fieldset:nth-of-type(1) label:has-text("3")');
+  await m.click('.sc-lobby .sc-config:not(.sc-topics) fieldset:nth-of-type(2) label:has-text("20")');
   await m.waitForTimeout(500);
   await m.click('button:has-text("Light the first candle")');
   const reveals = [];
@@ -225,6 +225,31 @@ async function seance(m, s, sign) {
     } catch (e) {
       await shot(p, '06-phone-riddle-fail');
       fail(`The riddle did not open: ${e.message.split('\n')[0]}`);
+    }
+
+    // ------------------------------------------------ topics, the class packs and the music
+    await p.goto(BASE + '?scale=1');
+    await p.waitForSelector('.title-screen', { timeout: 30000 });
+    try {
+      await p.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
+      await p.waitForSelector('.sheet .tp-chip', { timeout: 20000 });
+      // The class packs arrive a moment after the daily topics.
+      await p.waitForFunction(() => document.querySelectorAll('.sheet .tp-group').length > 1, null, { timeout: 15000 }).catch(() => {});
+      const groups = (await p.locator('.sheet .tp-group-k').allInnerTexts()).map(flat);
+      const chips = (await p.locator('.sheet .tp-group .tp-chip').allInnerTexts()).map(flat);
+      await shot(p, '08-topics');
+      if (groups.length > 1) pass(`Charted Waters offers ${chips.length} topics under ${groups.join(', ')}.`);
+      else fail(`Charted Waters shows no class packs, only: ${chips.join(' | ')}`);
+      await p.keyboard.press('Escape');
+    } catch (e) {
+      await shot(p, '08-topics-fail');
+      fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
+    }
+    for (const [what, file, type] of [['The list of class packs', 'packs/index.json', /json/], ['The music', 'music/surface-a.mp3', /audio/]]) {
+      const res = await fetch(new URL(file, BASE), { headers: { Range: 'bytes=0-1023' } }).catch(() => null);
+      const kind = res?.headers.get('content-type') ?? '';
+      if (res && res.status < 300 && type.test(kind)) pass(`${what} is published (${file}: ${res.status}, ${kind}).`);
+      else fail(`${what} is not published: ${file} answered ${res ? `${res.status} ${kind}` : 'nothing'}.`);
     }
 
     // ------------------------------------------------ the Cult board seen by a friend through the link

@@ -171,6 +171,8 @@ export const ANSWERS_MAX = 8000;
 export const SPELLINGS_MAX = 2000;
 export const TRAPS_MAX = 2000;
 export const DECOYS_MAX = 4000;
+/** The longest one answer or spelling may be. A listed security's full name runs past 150 characters. */
+export const WORDS_MAX = 200;
 
 /** Questions sent by the medium's device, checked and cut to size: the relay trusts nobody's JSON. */
 export function cleanPrompts(list: unknown, max: number): PromptDef[] {
@@ -185,18 +187,18 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
     for (const a of r.answers.slice(0, ANSWERS_MAX)) {
       if (!a || typeof a !== 'object') continue;
       const ar = a as Record<string, unknown>;
-      const answer = str(ar.answer, 120);
+      const answer = str(ar.answer, WORDS_MAX);
       const tier = typeof ar.tier === 'number' && Number.isFinite(ar.tier) ? Math.max(1, Math.min(6, Math.round(ar.tier))) : 0;
-      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, 120, SPELLINGS_MAX), tier });
+      if (answer && tier) answers.push({ answer, aliases: strs(ar.aliases, WORDS_MAX, SPELLINGS_MAX), tier });
     }
     if (!answers.length) continue;
     const traps: TrapDef[] = [];
     for (const t of Array.isArray(r.traps) ? r.traps.slice(0, TRAPS_MAX) : []) {
       if (!t || typeof t !== 'object') continue;
       const tr = t as Record<string, unknown>;
-      const answer = str(tr.answer, 120);
+      const answer = str(tr.answer, WORDS_MAX);
       const reason = str(tr.reason, 300);
-      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, 120, SPELLINGS_MAX), reason });
+      if (answer && reason) traps.push({ answer, aliases: strs(tr.aliases, WORDS_MAX, SPELLINGS_MAX), reason });
     }
     const rules = str(r.rules, 300);
     const flavor = str(r.flavor, 300);
@@ -209,7 +211,7 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
       ...(flavor ? { flavor } : {}),
       answers,
       traps,
-      decoys: strs(r.decoys, 120, DECOYS_MAX),
+      decoys: strs(r.decoys, WORDS_MAX, DECOYS_MAX),
       ...(r.exact === true ? { exact: true } : {}),
       ...(topic ? { topic } : {}),
     });

@@ -3,6 +3,8 @@ import { hashString, practiceQueue, practiceRank, practicePrompts } from '../src
 import { Packs, TopicBook, cleanPack, cleanPackIndex, filedUnder } from '../src/game/packs';
 import { DAILY_GROUP, choiceCount, choiceNames, chosenTopics, cleanChoice, dailyTopics, dealByTopic, fitBudget, isWholeDeep, packOfTopic, packTopic, topicsPhrase, type Topic } from '../src/game/topics';
 import type { PromptDef } from '../src/game/types';
+import { loadBank } from '../src/game/bank';
+import { cleanPrompts } from '../src/party/room';
 import { BEGIN_BUDGET, choosePrompts, configLine } from '../src/screens/seance/model';
 
 const q = (id: string, category: string, answers = 3): PromptDef => ({
@@ -203,5 +205,62 @@ describe('a sitting on chosen topics', () => {
     const plain = practicePrompts(b.prompts, ['sci-1', 'sci-2'], hashString('DAGON-7#2'), 1, []).slice(0, 5);
     expect(choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2']).map((p) => p.id)).toEqual(plain);
     expect(choosePrompts(b, ['sci-1'], 'DAGON-7', 2, 1, 5, ['sci-2'], { budget: BEGIN_BUDGET }).map((p) => p.id)).toEqual(plain);
+  });
+});
+
+// ---------------------------------------------------------------- the published packs
+
+// Every class pack in the repo, as the build will publish it. None yet is not a failure.
+const PUBLISHED = import.meta.glob('/packs/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
+
+describe('the class packs in the repo', () => {
+  const index = cleanPackIndex(PUBLISHED['/packs/index.json']);
+
+  it('lists only packs the game can load, each with the questions it claims', () => {
+    const raw = (PUBLISHED['/packs/index.json'] as { packs?: { id?: string; prompts?: number }[] } | undefined)?.packs ?? [];
+    // Nothing with questions is dropped by the game's own checks (a name too long, a bad id or file).
+    expect(index.map((p) => p.id).sort()).toEqual(
+      raw
+        .filter((p) => (p.prompts ?? 0) > 0)
+        .map((p) => p.id)
+        .sort(),
+    );
+    for (const info of index) {
+      const prompts = cleanPack(PUBLISHED[`/packs/${info.file}`], info);
+      expect(prompts.length, info.id).toBe(info.prompts);
+      expect(prompts.every((p) => p.topic === info.name)).toBe(true);
+    }
+  });
+
+  it('never clashes with the daily bank or another pack', () => {
+    const daily = new Set(loadBank().prompts.map((p) => p.id));
+    const seen = new Set<string>();
+    for (const info of index) {
+      for (const p of cleanPack(PUBLISHED[`/packs/${info.file}`], info)) {
+        expect(daily.has(p.id), p.id).toBe(false);
+        expect(seen.has(p.id), p.id).toBe(false);
+        seen.add(p.id);
+      }
+    }
+  });
+
+  it('reaches an online séance whole: every answer and spelling, in a message the relay takes', () => {
+    const count = (p: PromptDef) => [
+      p.id,
+      p.answers.length,
+      p.answers.reduce((n, a) => n + (a.aliases?.length ?? 0), 0),
+      p.traps?.length ?? 0,
+      (p.traps ?? []).reduce((n, t) => n + (t.aliases?.length ?? 0), 0),
+      p.decoys?.length ?? 0,
+    ];
+    for (const info of index) {
+      for (const p of cleanPack(PUBLISHED[`/packs/${info.file}`], info)) {
+        const [kept] = cleanPrompts([p], 1);
+        expect(count(kept), p.id).toEqual(count(p));
+        expect(kept.topic).toBe(info.name);
+        // One question must fit the opening message with room to spare for the rest of the sitting.
+        expect(JSON.stringify(p).length, p.id).toBeLessThan(BEGIN_BUDGET / 2);
+      }
+    }
   });
 });
