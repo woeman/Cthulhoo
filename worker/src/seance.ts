@@ -25,7 +25,11 @@ import type { Env } from './index';
 
 /** A sign whose room has been quiet this long may be given to a new séance. */
 const SIGN_RESTS_MS = 2 * 60 * 60 * 1000;
-const MAX_MESSAGE = 512 * 1024;
+/**
+ * The medium's opening message carries every question whole, with all their answers.
+ * Seven of the bank's longest come to about 430,000 characters, and the lists keep growing.
+ */
+const MAX_MESSAGE = 1_000_000;
 
 interface Attachment {
   id: string;
