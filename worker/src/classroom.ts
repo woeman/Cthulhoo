@@ -16,6 +16,9 @@ import {
   CLASS_TTL_MS,
   againClass,
   ask,
+  boutBack,
+  boutGone,
+  boutView,
   classAlarmAt,
   classCount,
   classTick,
@@ -35,6 +38,7 @@ import {
   snapshot,
   tableSeats,
   takeSeat,
+  LAST_SEAT_SAID,
   type ClassRoom,
   type ClassSeat,
 } from '../../src/party/classroom';
@@ -167,10 +171,13 @@ export class Classroom extends DurableObject<Env> {
       if (!res.ok) return this.hangUp(ws, res.code, res.message);
       ws.serializeAttachment({ id: res.seat.id } satisfies Attachment);
       this.touchSeat(res.seat);
+      // In a bout of last diver standing, a side that was being waited for gets its whole turn now somebody is back.
+      const back = boutBack(room, res.seat.id, now);
       const view = seatView(room, res.seat.id, snapshot(room, now));
       if (view) this.tell(ws, { t: 'view', view });
       this.toHosts({ t: 'seat', seat: publicSeat(res.seat), ...this.tablesNow() });
       this.bump();
+      if (back) return this.turnPassed();
       return;
     }
 
@@ -216,6 +223,7 @@ export class Classroom extends DurableObject<Env> {
           this.later();
           this.toHosts({ t: 'gone', id, ...this.tablesNow() });
           this.bump();
+          if (boutGone(room, id, now)) return this.turnPassed();
           return;
         }
         default:
@@ -233,8 +241,11 @@ export class Classroom extends DurableObject<Env> {
         if (h.kind === 'empty') return;
         const seat = room.seats.find((s) => s.id === me);
         if (seat) this.touchSeat(seat);
-        if (h.kind === 'refused') return this.tell(ws, { t: 'refused', text: h.text, verdict: h.verdict, ...(h.reason ? { reason: h.reason } : {}) });
-        this.tell(ws, { t: 'heard', input: h.input, answer: h.answer, sealed: h.sealed });
+        if (h.kind === 'refused') this.tell(ws, { t: 'refused', text: h.text, verdict: h.verdict, ...(h.reason ? { reason: h.reason } : {}) });
+        else this.tell(ws, { t: 'heard', input: h.input, answer: h.answer, sealed: h.sealed });
+        // Last diver standing: the turn has passed, and everyone is told at once.
+        if (res.turn) return this.turnPassed();
+        if (h.kind === 'refused') return;
         this.bump();
         // Everyone is in: the question closes in a moment.
         if (room.earlyAt && room.earlyAt !== early) {
@@ -273,6 +284,7 @@ export class Classroom extends DurableObject<Env> {
         } catch {
           /* already closed */
         }
+        if (left && boutGone(room, me, now)) return this.turnPassed();
         return;
       }
       default:
@@ -304,7 +316,9 @@ export class Classroom extends DurableObject<Env> {
       await this.ctx.storage.deleteAll();
       return;
     }
-    if (classTick(room, now)) return this.revealed();
+    const due = classTick(room, now);
+    if (due === 'reveal') return this.revealed();
+    if (due === 'turn') return this.turnPassed();
     await this.schedule();
   }
 
@@ -338,6 +352,42 @@ export class Classroom extends DurableObject<Env> {
     await this.flush();
     await this.schedule();
     this.broadcast();
+  }
+
+  /**
+   * A turn has passed in a bout of last diver standing: write it down, set the
+   * clock for the next, and tell every device. The divers are all sent the same
+   * small message, so a class of three hundred is one string sent three hundred times.
+   */
+  private async turnPassed() {
+    const room = this.room;
+    if (!room) return;
+    this.dirty.meta = true;
+    await this.flush();
+    await this.schedule();
+    const now = Date.now();
+    const count = classCount(room);
+    let host: string | null = null;
+    let seat: string | null = null;
+    for (const ws of this.ctx.getWebSockets()) {
+      const a = ws.deserializeAttachment() as Attachment | null;
+      if (!a) continue;
+      if ('host' in a) {
+        const last = (host ??= this.turnText(room, Infinity, count, now));
+        if (last) this.send(ws, last);
+      } else {
+        const last = (seat ??= this.turnText(room, LAST_SEAT_SAID, count, now));
+        if (last) this.send(ws, last);
+      }
+    }
+    // The turn carried the counts.
+    this.hostStale = this.classStale = false;
+    this.hostSent = this.classSent = now;
+  }
+
+  private turnText(room: ClassRoom, max: number, count: ReturnType<typeof classCount>, now: number): string {
+    const last = boutView(room, max);
+    return last ? JSON.stringify({ t: 'turn', last, ...count, now } satisfies ClassServerMsg) : '';
   }
 
   /** One diver changed: their group is written down in a moment. */

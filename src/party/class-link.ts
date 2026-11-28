@@ -28,8 +28,8 @@ export async function peekClass(sign: string): Promise<ClassPeek | null> {
 /** Who this device is to the class: the host (by the key) or a diver (by its mark and a name). */
 export type ClassHello = { host: true; key: string } | { host?: false; id: string; name: string };
 
-/** Why a view arrived: the class turned a page, or only its numbers or its roll moved. */
-export type ViewCause = 'full' | 'count' | 'roll';
+/** Why a view arrived: the class turned a page, only its numbers or its roll moved, or a turn passed in a bout of last diver standing. */
+export type ViewCause = 'full' | 'count' | 'roll' | 'turn';
 
 export interface ClassRefusal {
   text: string;
@@ -67,6 +67,7 @@ const PING_MS = 25_000;
 /** The small news the relay sends between pages, folded into the view a device already holds. */
 export function foldClassNews(view: ClassView, msg: Exclude<ClassServerMsg, { t: 'view' | 'heard' | 'refused' | 'error' }>): ClassView {
   if (msg.t === 'count') return { ...view, seats: msg.seats, here: msg.here, answered: msg.answered, said: msg.said, ...(msg.tableSeats ? { tableSeats: msg.tableSeats } : {}) };
+  if (msg.t === 'turn') return { ...view, last: msg.last, deadline: msg.last.turnEnds, seats: msg.seats, here: msg.here, answered: msg.answered, said: msg.said, now: msg.now };
   const tables = msg.tableSeats ? { tableSeats: msg.tableSeats } : {};
   const roll = view.roll ?? [];
   if (msg.t === 'seat') {
@@ -166,6 +167,13 @@ export class ClassLink implements ClassLinkLike {
           if (!this.view) return;
           this.view = foldClassNews(this.view, msg);
           this.on.view(this.view, msg.t === 'count' ? 'count' : 'roll');
+          return;
+        case 'turn':
+          if (!this.view) return;
+          // A turn's clock is short: keep ours set by the relay's.
+          this.skew = [...this.skew.slice(-4), msg.now - Date.now()];
+          this.view = foldClassNews(this.view, msg);
+          this.on.view(this.view, 'turn');
           return;
         case 'heard':
           return this.on.heard?.(msg);

@@ -18,15 +18,24 @@ export const CLASS_MAX_TABLES = 8;
 /**
  * How a question is played. Classic: one answer each, as in the Séance.
  * Blitz: as many different answers as a diver can give before the time is out.
+ * Last (last diver standing): the tables, or the divers when there are no
+ * tables, take turns naming an answer nobody has said yet. A repeat, or a turn
+ * that runs out, puts out one of the side's lanterns; the last side with one
+ * still lit wins the bout.
  */
-export type ClassMode = 'classic' | 'blitz';
-export const CLASS_MODES: readonly ClassMode[] = ['classic', 'blitz'];
-/** Seconds a question may burn, by mode: the first is the usual. */
+export type ClassMode = 'classic' | 'blitz' | 'last';
+export const CLASS_MODES: readonly ClassMode[] = ['classic', 'blitz', 'last'];
+/** Seconds a question may burn, by mode (in a bout of last diver standing: seconds a turn): the first is the usual. */
 export const CLASS_SECONDS: Record<ClassMode, readonly number[]> = {
   classic: [30, 20, 45, 60],
   blitz: [60, 90, 120],
+  last: [15, 10, 20, 30],
 };
 export const CLASS_QUESTIONS = [3, 5, 7, 10] as const;
+/** Lanterns each side of a bout begins with: the first is the usual. */
+export const CLASS_LANTERNS = [3, 2, 1] as const;
+/** Without tables every diver is a side, and each waits a whole round for a turn: a bout takes this many at most. */
+export const LAST_MAX_ALONE = 12;
 
 export type ClassPhase = 'lobby' | 'asking' | 'reveal' | 'ended';
 
@@ -39,6 +48,8 @@ export interface ClassConfig {
   questions: number;
   /** The names of the topics the host chose, for the class to read. */
   topics?: string[];
+  /** Last diver standing: the lanterns each side begins a bout with. Absent, the usual. */
+  lanterns?: number;
 }
 
 export const DEFAULT_CLASS_CONFIG: ClassConfig = { mode: 'classic', seconds: 30, tables: 0, questions: 5 };
@@ -73,6 +84,78 @@ export interface ClassTableGain {
   gain: number;
   total: number;
   counted: Array<{ answer: string; tier: number; depth: number; lone: boolean }>;
+  /** Last diver standing: what it won for standing last, already part of `gain`. */
+  bonus?: number;
+}
+
+// ------------------------------------------------------- last diver standing
+
+/** One side of a bout: a table, or one diver when the class has no tables. */
+export interface ClassLastSide {
+  /** The table's number; 0 when the side is one diver. */
+  table: number;
+  /** The diver, when the side is one diver. */
+  id?: string;
+  name?: string;
+  /** Lanterns still lit: none, and the side is out. */
+  lanterns: number;
+  /** Answers it has named in this bout, and the metres they sank it. */
+  said: number;
+  gain: number;
+}
+
+/** What the last turn came to, for the screens to show a moment. `side` is a place in the bout's sides. */
+export type ClassLastBeat =
+  | { kind: 'said'; side: number; name: string; answer: string; tier: number; depth: number }
+  | { kind: 'repeat'; side: number; name: string; answer: string }
+  /** The turn ran out. */
+  | { kind: 'dark'; side: number }
+  /** Nobody of the side was here for its turn: it was waited for a moment only, and it costs a lantern all the same. */
+  | { kind: 'away'; side: number };
+
+/**
+ * How a bout ended: one side left standing, nobody left, every answer named,
+ * too many turns, or the host calling it.
+ */
+export type ClassLastEnd = 'last' | 'none' | 'dry' | 'cap' | 'host';
+
+/** A bout as it stands, for every screen. */
+export interface ClassLastView {
+  /** The sides in the order they take their turns. */
+  sides: ClassLastSide[];
+  /** Whose turn it is, as a place in `sides`; -1 once the bout is over. */
+  turn: number;
+  /** Turns taken so far. */
+  turnN: number;
+  /** Relay clock: when this turn may be answered, and when its time is out. */
+  turnLit: number;
+  turnEnds: number;
+  /** The lanterns each side began with. */
+  lanterns: number;
+  /** The answers named so far, newest first: all of them for the host, the newest few for a diver. */
+  said: Array<{ answer: string; tier: number; side: number }>;
+  /** How many have been named in all, and how many the deep still holds. */
+  saidN: number;
+  left: number;
+  /** Nobody of the side whose turn it is was here when it came: it is waited for a moment only. */
+  away?: boolean;
+  beat?: ClassLastBeat;
+  /** Once the bout is over: how, and the side that stood last (-1 when none did). */
+  ended?: ClassLastEnd;
+  winner?: number;
+}
+
+/** A bout once it is over, as part of the question's result. */
+export interface ClassLastResult {
+  ended: ClassLastEnd;
+  /** The sides, in the order they took their turns, as the bout left them. */
+  sides: ClassLastSide[];
+  /** The side that stood last, as a place in `sides`; -1 when none did. */
+  winner: number;
+  /** The metres standing last won. */
+  bonus: number;
+  turns: number;
+  lanterns: number;
 }
 
 /** A question once its answers have surfaced: what anyone may see. */
@@ -93,6 +176,8 @@ export interface ClassResult {
   spoke: number;
   /** With tables: what each won, deepest first. */
   tables?: ClassTableGain[];
+  /** Last diver standing: how the bout went. */
+  last?: ClassLastResult;
 }
 
 export interface ClassStanding {
@@ -149,6 +234,8 @@ export interface ClassView {
   tableSeats?: number[];
   /** Metres by table, [0] unused. */
   tableTotals?: number[];
+  /** Last diver standing, while a bout is on. */
+  last?: ClassLastView;
   result?: ClassResult;
   /** The deepest divers: all of them for the host, a few for a diver. */
   standings?: ClassStanding[];
@@ -162,7 +249,7 @@ export interface ClassView {
 export type ClassClientMsg =
   | { t: 'host'; key: string }
   | { t: 'hello'; id: string; name: string; rejoin?: boolean }
-  | { t: 'config'; mode: ClassMode; seconds: number; tables: number; questions: number; topics?: string[] }
+  | { t: 'config'; mode: ClassMode; seconds: number; tables: number; questions: number; topics?: string[]; lanterns?: number }
   | { t: 'ask'; prompt: PromptDef; depths: number[] }
   | { t: 'reveal' }
   | { t: 'end' }
@@ -174,7 +261,12 @@ export type ClassClientMsg =
 
 export type ClassErrorCode = 'full' | 'gone' | 'name' | 'host' | 'phase' | 'bad' | 'late' | 'sealed' | 'removed';
 
-export type ClassVerdict = Verdict | 'said';
+/**
+ * Why an answer was not taken. Beyond the daily's own: 'said' (this diver gave it
+ * already), and in a bout of last diver standing 'wait' (it is not their turn,
+ * or they only watch this bout) and 'burnt' (it had been named: a lantern is out).
+ */
+export type ClassVerdict = Verdict | 'said' | 'wait' | 'burnt';
 
 export type ClassServerMsg =
   | { t: 'view'; view: ClassView }
@@ -182,6 +274,8 @@ export type ClassServerMsg =
   | { t: 'count'; seats: number; here: number; answered: number; said: number; tableSeats?: number[] }
   | { t: 'seat'; seat: ClassSeatPublic; tableSeats?: number[] }
   | { t: 'gone'; id: string; tableSeats?: number[] }
+  /** Last diver standing: a turn has passed. Everyone is told at once. */
+  | { t: 'turn'; last: ClassLastView; seats: number; here: number; answered: number; said: number; now: number }
   /** To a diver: the deep took the answer. `sealed` is everything of theirs sealed so far. */
   | { t: 'heard'; input: string; answer: string; sealed: number }
   | { t: 'refused'; text: string; verdict: ClassVerdict; reason?: string }

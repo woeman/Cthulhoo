@@ -203,7 +203,7 @@ describe('a convocation: a classic question', () => {
     expect(room.earlyAt).toBe(room.deadline - 9000 + ALL_IN_MS);
     expect(classAlarmAt(room)).toBe(room.earlyAt);
     expect(classTick(room, room.earlyAt - 1)).toBe(false);
-    expect(classTick(room, room.earlyAt)).toBe(true);
+    expect(classTick(room, room.earlyAt)).toBe('reveal');
     expect(room).toMatchObject({ phase: 'reveal', earlyAt: 0 });
   });
 
@@ -276,7 +276,7 @@ describe('a convocation: a classic question', () => {
     expect(classAlarmAt(room)).toBe(room.deadline + GRACE_MS);
     expect(classTick(room, room.deadline)).toBe(false);
     expect(room.phase).toBe('asking');
-    expect(classTick(room, room.deadline + GRACE_MS)).toBe(true);
+    expect(classTick(room, room.deadline + GRACE_MS)).toBe('reveal');
     expect(room.phase).toBe('reveal');
     expect(classAlarmAt(room)).toBe(room.touched + CLASS_TTL_MS);
     expect(classTick(room, room.deadline + 99_999)).toBe(false);
