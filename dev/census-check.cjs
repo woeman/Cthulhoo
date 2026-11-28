@@ -150,11 +150,11 @@ async function device(browser, name, { desktop = false } = {}) {
   });
   await ctx.addInitScript(() => localStorage.setItem('cthulhoo.v1.flag.seenHowTo', '1'));
   const d = { name, ctx, errors: [] };
-  d.open = async (url) => {
+  d.open = async (url, opts) => {
     d.page = await ctx.newPage();
     d.page.on('pageerror', (e) => d.errors.push(e.message));
     d.page.on('console', (m) => m.type() === 'error' && d.errors.push(m.text()));
-    await d.page.goto(url);
+    await d.page.goto(url, opts);
     return d.page;
   };
   return d;
@@ -335,10 +335,12 @@ async function reliquary(page, who) {
       // Wren's phone was put away after her dive: a third diver, Ada, comes in by the link beside Bram.
       const ada = await device(browser, 'Ada');
       const link = `${BASE}?scale=1&class=${sign}`;
-      await ada.open(link);
-      await bram.page.goto(link);
+      // Three pages drawing the sea in software load slowly on a small runner: wait for the join form, not for the whole page.
+      const slow = { waitUntil: 'commit', timeout: 120000 };
+      await ada.open(link, slow);
+      await bram.page.goto(link, slow);
       for (const dev of [ada, bram]) {
-        await dev.page.waitForSelector('.cv-entry .sc-join', { timeout: 45000 });
+        await dev.page.waitForSelector('.cv-entry .sc-join', { timeout: 120000 });
         await dev.page.fill('.sc-join input[name="diver-name"]', dev.name);
         await dev.page.click('.sc-join button[type="submit"]');
         await dev.page.waitForSelector('.cv-diver-lobby', { timeout: 45000 });
