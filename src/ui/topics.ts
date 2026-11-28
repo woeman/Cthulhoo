@@ -4,7 +4,7 @@
 
 import '../styles/topics.css';
 import { h } from './dom';
-import { DAILY_GROUP, choiceCount, cleanChoice, topicsPhrase, type Topic } from '../game/topics';
+import { DAILY_GROUP, OWN_GROUP, choiceCount, cleanChoice, topicsPhrase, type Topic } from '../game/topics';
 
 export interface TopicPicker {
   el: HTMLElement;
@@ -100,7 +100,7 @@ export function topicPicker(opts: TopicPickerOpts): TopicPicker {
         else ids.forEach((id) => ticked.add(id));
         changed();
       });
-      groups.append(h('div', { class: 'tp-group', role: 'group', 'aria-label': group }, h('div', { class: 'tp-group-head' }, h('span', { class: 'tp-group-k' }, group === DAILY_GROUP ? group : `${group} · class packs`), all), chips));
+      groups.append(h('div', { class: 'tp-group', role: 'group', 'aria-label': group }, h('div', { class: 'tp-group-head' }, h('span', { class: 'tp-group-k' }, group === DAILY_GROUP || group === OWN_GROUP ? group : `${group} · class packs`), all), chips));
     }
     sync();
   };

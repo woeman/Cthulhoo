@@ -180,6 +180,41 @@ export interface ClassResult {
   last?: ClassLastResult;
 }
 
+/** One diver's line in a question's ledger: everything they gave to it. */
+export interface ClassLedgerRow {
+  id: string;
+  name: string;
+  /** Their table, from 1; 0 when the class has no tables. */
+  table: number;
+  /** Whether their line was up when the ledger was drawn. */
+  here: boolean;
+  /** What they gave, in the order given: a place in the ledger's `answers`, and what they typed (empty when it reads as the answer). */
+  said: Array<[number, string]>;
+  /** What the deep refused of theirs: the last few, oldest first. */
+  tries: string[];
+  /** Metres won on this question, and their depth after it. */
+  gain: number;
+  total: number;
+}
+
+/**
+ * A question once its answers have surfaced, in full, for the host alone: who
+ * gave what. The host's device keeps these as the record of the class (the
+ * relay keeps a question only until the next is asked).
+ */
+export interface ClassLedger {
+  /** When the class was opened, its round (from 1) and the question: a host keeps each ledger once. */
+  born: number;
+  round: number;
+  n: number;
+  /** Every different answer given, rarest first. */
+  answers: Array<{ answer: string; tier: number; voices: number; depth: number }>;
+  /** Every diver seated, in the order they sat down. */
+  rows: ClassLedgerRow[];
+  /** A class too busy for one message: the refused answers were left out, or those and what was typed. */
+  cut?: 'tries' | 'typed';
+}
+
 export interface ClassStanding {
   id: string;
   name: string;
@@ -242,6 +277,8 @@ export interface ClassView {
   you?: ClassYou;
   /** The host's roll: everyone, in the order they sat down. */
   roll?: ClassSeatPublic[];
+  /** The host's alone, once the answers have surfaced: the question in full, to keep. Absent from a relay older than the ledger. */
+  ledger?: ClassLedger;
   /** The relay's clock when this was sent, to set ours by. */
   now: number;
 }

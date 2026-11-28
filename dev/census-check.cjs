@@ -2,8 +2,10 @@
 // desktop: the share on each reveal, the answers most given in the log, and the
 // Reliquary; the questions fetched a file at a time and kept for a log read with
 // no line; then the topics and the music, a class held on the desk with the
-// phones in it, and a revision dive. It refuses any relay but a preview's or one
-// on this machine, so pretend divers never reach the live game.
+// phones in it (asked from a set the desk writes itself and from the daily deep,
+// then read back as the class's results and a spreadsheet of marks), and a
+// revision dive. It refuses any relay but a preview's or one on this machine,
+// so pretend divers never reach the live game.
 // Run by .github/workflows/preview.yml, or by hand against `wrangler dev`.
 // usage: node dev/census-check.cjs <outDir>
 //   env BASE   the site (required)
@@ -162,6 +164,12 @@ async function device(browser, name, { desktop = false } = {}) {
   return d;
 }
 const shot = (page, name) => page.screenshot({ path: `${OUT}/${name}.png` }).catch(() => {});
+/**
+ * The set the desk writes for its class: the editor's own example (OWN_EXAMPLE in
+ * src/game/ownsets.ts), whose first question, with one spelling of an answer, its
+ * rarest answer and what it names as wrong, are these.
+ */
+const OWN = { name: 'Week 3', question: 'Name a stock exchange.', spelling: 'nyse', answer: 'New York Stock Exchange', rare: 'Euronext', wrong: 'Dow Jones', why: 'That is an index, not an exchange.' };
 const until = (promise) => promise.then(() => true, () => false);
 const divers = (text) => Number((/(?:today’s|first) ([\d,]+)/.exec(text)?.[1] ?? '').replace(/,/g, '')) || null;
 
@@ -380,9 +388,49 @@ async function reliquary(page, who) {
     try {
       await d.waitForSelector('.title-screen', { timeout: 15000 });
       await d.locator('.mode-btn', { hasText: 'The Convocation' }).click();
+      await d.waitForSelector('.cv-entry [data-way="hold"]', { timeout: 20000 });
+      // Whoever holds a class may ask questions of their own. The desk writes a set first, from the
+      // editor's own example, and tries a spelling on its first question as a diver would type it.
+      let own = false;
+      try {
+        await d.click('[data-way="sets"]');
+        await d.locator('.cs-sets .btn', { hasText: 'Write a new set' }).click();
+        await d.waitForSelector('.cs-edit', { timeout: 20000 });
+        await d.fill('.cs-name', OWN.name);
+        await d.click('.cs-example');
+        await d.waitForFunction(() => document.querySelectorAll('.cs-preview .cs-q').length === 3, null, { timeout: 20000 });
+        const status = flat(await d.textContent('.cs-status'));
+        await d.locator('.cs-try-in').first().fill(OWN.spelling);
+        const tried = flat(await d.locator('.cs-try-out').first().textContent());
+        await shot(d, 'class-own-set');
+        await d.locator('.cs-edit .btn', { hasText: 'Done' }).click();
+        await d.waitForSelector('.cs-sets .cs-open', { timeout: 20000 });
+        const listed = (await d.locator('.cs-open').allInnerTexts()).map(flat);
+        await d.click('.sc-back');
+        await d.waitForSelector('.cv-entry [data-way="hold"]', { timeout: 20000 });
+        own = tried.includes(OWN.answer) && listed.some((line) => line.includes(OWN.name));
+        if (own) pass(`The desk wrote a question set of its own from the example (${status}). Trying "${OWN.spelling}" on its first question: "${tried}" It is kept on the desk as: ${listed.join(' | ')}`);
+        else fail(`The desk's own question set came out wrong: "${status}", trying "${OWN.spelling}" gave "${tried}", and the list of sets shows: ${listed.join(' | ') || 'nothing'}`);
+      } catch (e) {
+        await shot(d, 'class-own-set-fail');
+        fail(`Writing a question set stopped: ${e.message.split('\n')[0]}`);
+        // Whatever that left on the desk, the class is held from a fresh page.
+        await d.goto(`${BASE}?scale=1`, { waitUntil: 'commit', timeout: 120000 });
+        await d.waitForSelector('.title-screen', { timeout: 120000 });
+        await d.locator('.mode-btn', { hasText: 'The Convocation' }).click();
+      }
       await d.click('[data-way="hold"]');
       await d.waitForSelector('.cv-host-lobby', { timeout: 45000 });
       const sign = flat(await d.textContent('.sc-bar-sign'));
+      if (own) {
+        // The set is ticked beside a topic of the daily deep: the class is asked from both in turn, the desk's own leading.
+        const mine = d.locator('.cv-host-lobby .tp-chip', { hasText: OWN.name });
+        await mine.waitFor({ timeout: 20000 });
+        await d.locator('.cv-host-lobby .tp-group .tp-chip').first().click();
+        await mine.click();
+        await d.waitForTimeout(400);
+        info(`In the lobby the desk ticked its own set beside a daily topic: ${flat(await d.textContent('.cv-host-lobby .tp-note').catch(() => ''))}.`);
+      }
       // Wren's phone was put away after her dive: a third diver, Ada, comes in by the link beside Bram.
       const ada = await device(browser, 'Ada');
       const link = `${BASE}?scale=1&class=${sign}`;
@@ -399,34 +447,114 @@ async function reliquary(page, who) {
       await d.waitForFunction(() => document.querySelectorAll('.cv-diver').length === 2, null, { timeout: 20000 });
       await shot(d, 'class-host-lobby');
       await shot(ada.page, 'class-diver-lobby');
-      await d.click('.cv-begin');
-      await d.waitForSelector('.cv-host-ask', { timeout: 45000 });
-      const q = flat(await d.textContent('.cv-hq-text'));
-      const answers = answersFor(q);
-      if (!answers.length) throw new Error(`no answers are known here for "${q}"`);
-      await shot(d, 'class-host-ask');
-      for (const [dev, a] of [[ada, answers[0]], [bram, answers[answers.length - 1]]]) {
-        await dev.page.waitForSelector('.cv-ask input.answer', { timeout: 45000 });
-        await dev.page.fill('.cv-ask input.answer', a);
+      const give = async (dev, text) => {
+        await dev.page.fill('.cv-ask input.answer', text);
         await dev.page.press('.cv-ask input.answer', 'Enter');
-      }
-      // Everyone has answered, so the question closes by itself.
-      await d.waitForSelector('.cv-host-reveal', { timeout: 45000 });
-      await bram.page.waitForSelector('.cv-reveal', { timeout: 20000 });
+      };
+      /** One question of the class: asked, answered by both phones, and surfaced. `first` is false for those after the first. */
+      const round = async (first) => {
+        await d.click(first ? '.cv-begin' : '.cv-next');
+        await d.waitForSelector('.cv-host-ask', { timeout: 45000 });
+        const q = flat(await d.textContent('.cv-hq-text'));
+        const mine = own && q === OWN.question;
+        const answers = mine ? [OWN.spelling, OWN.rare] : answersFor(q);
+        if (!answers.length) throw new Error(`no answers are known here for "${q}"`);
+        if (first) await shot(d, 'class-host-ask');
+        // Each phone shows this question, not the one before it.
+        for (const dev of [ada, bram]) await dev.page.waitForFunction((text) => (document.querySelector('.cv-ask .question')?.textContent ?? '').replace(/\s+/g, ' ').trim() === text && !!document.querySelector('.cv-ask input.answer'), q, { timeout: 45000 });
+        let told = '';
+        if (mine) {
+          // Bram first gives what the set names as wrong: he is told why, and may try again.
+          await give(bram, OWN.wrong);
+          await bram.page.waitForFunction((w) => (document.querySelector('.cv-ask .feedback')?.textContent ?? '').includes(w), OWN.wrong, { timeout: 20000 });
+          told = flat(await bram.page.textContent('.cv-ask .feedback'));
+        }
+        await give(ada, answers[0]);
+        await give(bram, answers[answers.length - 1]);
+        // Everyone has answered, so the question closes by itself.
+        await d.waitForSelector('.cv-host-reveal', { timeout: 45000 });
+        for (const dev of [ada, bram]) await dev.page.waitForSelector('.cv-reveal', { timeout: 20000 });
+        return { q, mine, told, answers };
+      };
+      const one = await round(true);
       await d.waitForTimeout(800);
       await shot(d, 'class-host-reveal');
       await shot(bram.page, 'class-diver-reveal');
       const said = flat(await d.textContent('.cv-hr-said .cv-answers'));
       const mine = flat(await bram.page.textContent('.cv-yours'));
-      pass(`A class was held at ${sign}: the desk asked "${q}", the two phones joined by its link and answered, and the answers surfaced: ${said.slice(0, 220)}`);
+      pass(`A class was held at ${sign}: the desk asked "${one.q}", the two phones joined by its link and answered, and the answers surfaced: ${said.slice(0, 220)}`);
       if (/\+[\d,]+ m/.test(mine)) pass(`Bram's phone shows his own answer and what it earned: ${mine.slice(0, 160)}`);
       else fail(`Bram's phone does not show what his answer earned: "${mine.slice(0, 160)}"`);
-      // The host closes the class: it ends for the phones too.
-      await d.click('.sc-back');
-      await d.locator('.sc-confirm .btn.primary').click();
-      await d.waitForSelector('.title-screen', { timeout: 20000 });
+      let asked = [one];
+      if (own) {
+        if (!one.mine) fail(`With the desk's own set ticked, the first question was not its first ("${OWN.question}") but "${one.q}".`);
+        else if (one.told.includes(OWN.why)) pass(`The class was asked the desk's own question first, and Bram, giving what the set names as wrong, was told why and tried again: "${one.told}"`);
+        else fail(`Bram gave what the set names as wrong ("${OWN.wrong}") and was not told why: "${one.told}"`);
+        // The second comes from the daily deep, whose answers the bank knows.
+        const two = await round(false);
+        asked.push(two);
+        if (two.mine) fail(`The second question was the desk's own again ("${two.q}"), not one from the daily topic ticked beside it.`);
+        else pass(`Asked from both in turn, the class's second question came from the daily deep: "${two.q}"`);
+      }
+      // The host ends the class: it ends for the phones too, and the desk keeps what it came to.
+      await d.click('.cv-end-btn');
+      // Questions were still to come, so the desk is asked first.
+      await d.locator('.sc-confirm .btn.primary').click({ timeout: 10000 }).catch(() => {});
+      await d.waitForSelector('.cv-host-end', { timeout: 20000 });
       await bram.page.waitForSelector('.cv-end', { timeout: 20000 });
-      pass('The host closed the class, and the phones were told it had surfaced.');
+      pass('The host ended the class, and the phones were told it had surfaced.');
+      try {
+        await d.click('.cv-results-btn');
+        await d.waitForSelector('.cr-results .cr-table', { timeout: 20000 });
+        await d.waitForTimeout(600);
+        await shot(d, 'class-results');
+        const rows = (await d.locator('.cr-table tbody tr').allInnerTexts()).map(flat);
+        const plates = await d.locator('.cr-q').count();
+        // Each diver's row holds what they gave to each question (Ada the commonest, Bram the rarest).
+        const row = (name) => rows.find((r) => r.split(' ').includes(name)) ?? '';
+        const firstOf = (answer) => (one.mine ? (answer === OWN.spelling ? OWN.answer : answer) : answer);
+        const adaGave = firstOf(one.answers[0]);
+        const bramGave = firstOf(one.answers[one.answers.length - 1]);
+        if (rows.length === 2 && plates === asked.length && row('Ada').includes(adaGave) && row('Bram').includes(bramGave)) pass(`The class results list both divers with what each gave to ${asked.length === 1 ? 'the question' : `each of the ${asked.length} questions`}: ${rows.join(' || ').slice(0, 300)}`);
+        else fail(`The class results are not what the class gave (${plates} questions shown for ${asked.length} asked; Ada gave ${adaGave}, Bram ${bramGave}): ${rows.join(' || ').slice(0, 300) || 'no rows'}`);
+        if (one.mine) {
+          // What the deep refused is listed, and on the desk's own question it can be counted for next time.
+          const refusal = d.locator('.cr-q').first().locator('.cr-refusal', { hasText: OWN.wrong });
+          const buttons = await refusal.locator('.cr-add').count();
+          const elsewhere = await d.locator('.cr-q').nth(1).locator('.cr-add').count();
+          if ((await refusal.count()) === 1 && buttons === 1 && !elsewhere) pass(`The results list "${OWN.wrong}" as refused on the desk's own question, with a button to count it next time; the daily question offers none.`);
+          else fail(`The refused answers are not as expected: "${OWN.wrong}" listed ${await refusal.count()} times with ${buttons} buttons on the desk's own question, and ${elsewhere} buttons on the daily one.`);
+        }
+        const [file] = await Promise.all([d.waitForEvent('download', { timeout: 20000 }), d.locator('.cr-acts .btn', { hasText: 'Download the marks' }).click()]);
+        const name = file.suggestedFilename();
+        const saved = path.join(OUT, name);
+        await file.saveAs(saved);
+        const bytes = fs.readFileSync(saved);
+        const sheet = bytes.subarray(3).toString('utf8').split('\r\n').filter(Boolean);
+        const marked = (who) => sheet.find((l) => l.split(',')[1] === who) ?? '';
+        if (bytes.subarray(0, 3).toString('hex') === 'efbbbf' && sheet.length === 3 && sheet[0].includes(`Q1: ${one.q}`) && marked('Ada').includes(adaGave) && marked('Bram').includes(bramGave)) pass(`The marks download as a spreadsheet (${name}), a row for each diver: ${sheet.slice(1).join(' || ').slice(0, 260)}`);
+        else fail(`The marks file ${name} is not what the class gave: ${sheet.join(' || ').slice(0, 300) || 'empty'}`);
+        await d.click('.sc-back');
+        await d.waitForSelector('.cv-host-end', { timeout: 20000 });
+      } catch (e) {
+        await shot(d, 'class-results-fail');
+        fail(`The class results stopped: ${e.message.split('\n')[0]}`);
+      }
+      // The desk closes the class, and finds it afterwards among the classes it has kept.
+      if (await d.locator('.cv-host-end').count()) await d.locator('.cv-host-end .btn', { hasText: 'Close the class' }).click();
+      else await d.goto(`${BASE}?scale=1`, { waitUntil: 'commit', timeout: 120000 });
+      await d.waitForSelector('.title-screen', { timeout: 120000 });
+      try {
+        await d.locator('.mode-btn', { hasText: 'The Convocation' }).click();
+        await d.click('[data-way="past"]', { timeout: 20000 });
+        await d.waitForSelector('.cr-past-open', { timeout: 20000 });
+        const past = (await d.locator('.cr-past-open').allInnerTexts()).map(flat);
+        await shot(d, 'class-past');
+        if (past.length === 1 && past[0].includes(sign)) pass(`Closed and opened again, the desk still keeps the class under Past classes: ${past[0]}`);
+        else fail(`Past classes does not show the class just held at ${sign}: ${past.join(' | ') || 'nothing'}`);
+      } catch (e) {
+        fail(`Past classes did not open: ${e.message.split('\n')[0]}`);
+      }
       if (ada.errors.length) fail(`Ada's browser logged errors: ${[...new Set(ada.errors)].slice(0, 5).join(' | ')}`);
       await ada.ctx.close();
     } catch (e) {

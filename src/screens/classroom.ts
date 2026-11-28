@@ -11,7 +11,10 @@
 
 import '../styles/seance.css';
 import '../styles/classroom.css';
+import { dealTwo, loadOwnSets, ownPrompts, ownQueue } from '../game/ownsets';
+import { ownOfTopic } from '../game/topics';
 import type { PromptDef } from '../game/types';
+import { ledgerId, listClassLogs, loadClassLog, saveClassLog, withLedger, type ClassLog } from '../party/class-log';
 import { ClassLink, clearClassPlace, loadClassPlace, openClass, peekClass, saveClassPlace, type ClassHandlers, type ClassHello, type ClassLinkLike, type ClassPeek, type ClassPlace, type ViewCause } from '../party/class-link';
 import { CLASS_MAX_SEATS, type ClassErrorCode, type ClassView } from '../party/class-types';
 import { parseSign, signKind } from '../party/codes';
@@ -23,6 +26,8 @@ import { DiverAskScene, DiverEndScene, DiverLobbyScene, DiverRevealScene } from 
 import { BAD_CLASS_SIGN, ClassCallingScene, ClassEntryScene, NO_CLASS_RELAY, type ClassEntryInit } from './classroom/entry';
 import { HostAskScene, HostEndScene, HostLobbyScene, HostRevealScene } from './classroom/host';
 import { DiverLastScene, HostLastScene } from './classroom/last';
+import { PastClassesScene, ResultsScene } from './classroom/results';
+import { SetEditScene, SetsScene } from './classroom/sets';
 import { installSeanceArt } from './seance/art';
 import { NO_QUESTIONS, choosePrompts, relayId, tierDepths } from './seance/model';
 import { loadName, readJson, writeStore } from './seance/parts';
@@ -106,6 +111,11 @@ class ClassScreen {
   /** The host's questions still to ask, chosen on this device. */
   private queue: PromptDef[] = [];
   private asking = false;
+  /** The record of the class held on this screen, and whether the device could keep it. */
+  private log: ClassLog | null = null;
+  private logKept = true;
+  /** Where Back leads from a page beside the class (the host's sets, past classes, the results). */
+  private subBack: (() => void) | null = null;
   /** While a class is on, the screen is kept awake: a phone that sleeps drops its line, and the big screen must not dim. */
   private wake: WakeLockSentinel | null = null;
   private onVisible = () => {
@@ -202,6 +212,10 @@ class ClassScreen {
   private show(next: Scene) {
     const old = this.scene;
     this.scene = next;
+    if (this.subBack) {
+      this.subBack = null;
+      this.setBar();
+    }
     if (old) {
       old.destroy();
       const el = old.el;
@@ -213,6 +227,8 @@ class ClassScreen {
       }
     }
     if (!this.reduced) next.el.classList.add('sc-arriving');
+    // Pages that are read and written (results, the host's sets) take a column of their own width.
+    this.el.classList.toggle('is-wide', next instanceof ResultsScene || next instanceof PastClassesScene || next instanceof SetsScene || next instanceof SetEditScene);
     this.stage.append(next.el);
     this.el.scrollTop = 0;
     this.hideConfirm();
@@ -220,10 +236,18 @@ class ClassScreen {
     if (target) this.later(() => next === this.scene && target.isConnected && target.focus({ preventScroll: true }), Math.max(60, this.reduced ? 0 : next.focusDelay));
   }
 
+  /** A page beside the class: Back, on the bar and on the page, leads where it came from. */
+  private showSub(next: Scene, back: () => void) {
+    this.show(next);
+    this.subBack = back;
+    this.setBar();
+  }
+
   private setBar() {
     const mode = this.mode;
-    this.backLabel.textContent = mode === 'entry' ? 'Back' : mode === 'host' ? 'Close' : 'Leave';
-    this.backBtn.setAttribute('aria-label', mode === 'entry' ? 'Back to the surface' : mode === 'host' ? 'Close the class' : 'Leave the class');
+    const sub = !!this.subBack;
+    this.backLabel.textContent = sub || mode === 'entry' ? 'Back' : mode === 'host' ? 'Close' : 'Leave';
+    this.backBtn.setAttribute('aria-label', sub ? 'Back' : mode === 'entry' ? 'Back to the surface' : mode === 'host' ? 'Close the class' : 'Leave the class');
     this.barSign.textContent = mode === 'entry' ? '' : this.sign;
     // The host's screen is for the whole room: wide, with letters the back row can read.
     this.el.classList.toggle('is-host', mode === 'host');
@@ -254,7 +278,63 @@ class ClassScreen {
     this.setBar();
     this.showLost(false);
     this.sink(0);
-    this.show(new ClassEntryScene(this.ctx, this.relay, init, { hold: () => void this.hold(), join: (name, sign) => void this.join(name, sign) }));
+    this.show(
+      new ClassEntryScene(
+        this.ctx,
+        this.relay,
+        { ...init, past: listClassLogs().length > 0 },
+        { hold: () => void this.hold(), join: (name, sign) => void this.join(name, sign), sets: () => this.openSets(), past: () => this.openPast() },
+      ),
+    );
+  }
+
+  // ------------------------------------------------------------ the host's own pages
+
+  /** The host's own question sets. */
+  private openSets(message = '') {
+    const back = () => this.entry({});
+    this.showSub(new SetsScene(this.ctx, { open: (id) => this.openSet(id), back }, message), back);
+  }
+
+  private openSet(id: string) {
+    const set = loadOwnSets().find((s) => s.id === id);
+    if (!set) return this.openSets('That set is no longer on this device.');
+    const back = () => {
+      // The list is drawn from what is kept: the last keystrokes are kept first, and a set left empty is dropped.
+      if (this.scene instanceof SetEditScene) this.scene.settle();
+      this.openSets();
+    };
+    this.showSub(new SetEditScene(this.ctx, set, { done: back }), back);
+  }
+
+  /** What past classes came to, as kept on this device. */
+  private openPast() {
+    const back = () => this.entry({});
+    this.showSub(
+      new PastClassesScene(this.ctx, {
+        open: (id) => {
+          const log = loadClassLog(id);
+          if (log) this.openResults(log, true, () => this.openPast());
+          else this.openPast();
+        },
+        back,
+      }),
+      back,
+    );
+  }
+
+  private openResults(log: ClassLog, kept: boolean, back: () => void) {
+    this.showSub(new ResultsScene(this.ctx, log, { kept, back }), back);
+  }
+
+  /** A question's answers have surfaced on the host's screen: the record of the class takes them in. */
+  private keep(v: ClassView) {
+    const id = ledgerId(v);
+    if (!id) return;
+    const next = withLedger(this.log?.id === id ? this.log : loadClassLog(id), v, Date.now());
+    if (!next) return;
+    this.log = next;
+    this.logKept = saveClassLog(next);
   }
 
   private get entryScene(): ClassEntryScene | null {
@@ -444,6 +524,7 @@ class ClassScreen {
       if (!was) saveClassPlace(this.sign, this.key);
     } else if (v.phase === 'ended') clearClassPlace();
     else if (!was || was.phase === 'ended') saveClassPlace(this.sign);
+    if (this.key && cause === 'full' && v.ledger) this.keep(v);
     const cur = this.scene;
     // Only the numbers or the roll moved: the scene on show takes them in.
     if (cause !== 'full') {
@@ -500,21 +581,33 @@ class ClassScreen {
         return;
       }
       case 'ended': {
-        if (cur instanceof HostEndScene || cur instanceof DiverEndScene) return;
-        this.show(
-          host
-            ? new HostEndScene(this.ctx, v, {
-                again: () => {
-                  this.queue = [];
-                  this.link?.send({ t: 'again' });
-                },
-                close: () => this.leaveNow(),
-              })
-            : new DiverEndScene(this.ctx, v, { leave: () => this.leaveNow() }),
-        );
+        // The host may be reading the results: they stay until the host goes back.
+        if (cur instanceof HostEndScene || cur instanceof DiverEndScene || (host && cur instanceof ResultsScene)) return;
+        this.show(host ? this.hostEnd(v) : new DiverEndScene(this.ctx, v, { leave: () => this.leaveNow() }));
         return;
       }
     }
+  }
+
+  private hostEnd(v: ClassView): HostEndScene {
+    const log = this.log;
+    return new HostEndScene(this.ctx, v, {
+      again: () => {
+        this.queue = [];
+        this.link?.send({ t: 'again' });
+      },
+      close: () => this.leaveNow(),
+      ...(log
+        ? {
+            results: () =>
+              this.openResults(this.log ?? log, this.logKept, () => {
+                const now = this.view;
+                if (now?.phase === 'ended') this.show(this.hostEnd(now));
+                else if (now) this.render(now);
+              }),
+          }
+        : {}),
+    });
   }
 
   // ------------------------------------------------------------ the host's questions
@@ -526,9 +619,20 @@ class ClassScreen {
    */
   private async pick(choice: string[], key: string, a: Asked, count: number): Promise<PromptDef[]> {
     const topics = this.env.topics;
-    if (!topics || !choice.length) return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked);
-    const among = await topics.pool(choice);
-    return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { among, topicOf: (p) => topics.topicOf(p), sameAs: (id) => topics.sameAs(id) });
+    // The host's own sets are asked as written, what this class has not been asked first.
+    const mine = ownQueue(ownPrompts(choice), a.asked);
+    const rest = choice.filter((id) => !ownOfTopic(id));
+    if (mine.length && !rest.length) return mine.slice(0, count);
+    const deep = async (n: number): Promise<PromptDef[]> => {
+      if (n <= 0) return [];
+      if (!topics || !rest.length) return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, n, a.asked);
+      const among = await topics.pool(rest);
+      return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, n, a.asked, { among, topicOf: (p) => topics.topicOf(p), sameAs: (id) => topics.sameAs(id) });
+    };
+    if (!mine.length) return deep(count);
+    // Own sets ticked beside other topics: dealt in turn, the host's own leading.
+    const share = Math.min(mine.length, Math.ceil(count / 2));
+    return dealTwo(mine, await deep(count - share), count);
   }
 
   /** The host asks the next question: it is chosen on this device and sent whole, one at a time. */
@@ -578,6 +682,7 @@ class ClassScreen {
   // ------------------------------------------------------------ leaving
 
   private back() {
+    if (this.subBack) return this.subBack();
     if (this.mode === 'entry') {
       const e = this.entryScene;
       if (e && e.current !== 'ways') return e.show('ways');

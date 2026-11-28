@@ -84,6 +84,30 @@ the engraved sea with sliders for depth, madness and the Eye.
   phone never holds the answer list; the screens are `src/screens/classroom/`.
   `node dev/class-load.mjs 300` plays a pretend class of 300 against a local
   relay (`cd worker && npx wrangler dev --port 8787`).
+- The results of a class, for whoever held it: when a question's answers
+  surface, the relay hands the host (and only the host) who gave what, with
+  what each diver was refused. The host's device keeps it, in the browser's own
+  storage: the last thirty classes, and nothing is sent anywhere. "See the
+  class results" on the end screen, or "Past classes" in the Convocation, shows
+  every diver's answers and depths, then each question with its answers rarest
+  first, who gave them, who was only refused and who gave nothing. It downloads
+  as two spreadsheets (`.csv`: a row for each diver, or a row for everything
+  anyone typed) and prints in black on white, or saves as a PDF. The record is
+  `src/party/class-log.ts`; the screen is `src/screens/classroom/results.ts`.
+- Your own question sets: whoever holds a class can write questions of their
+  own under "Your question sets" in the Convocation, and tick them in the lobby
+  beside the topics. A set is plain text. An empty line parts the questions;
+  the first line is the question and each line under it an answer, with other
+  spellings after a `|` stroke. Answers are written commonest first: the further
+  down its question an answer stands, the deeper it sinks, and `[1]` to `[6]` at
+  the end of a line sets the tier by hand. `Note:` says what counts, and `Not:`
+  names a wrong answer to expect, with why after `--`. The page shows what the
+  deep reads as you type, any line it cannot use, and lets you try an answer as
+  a diver would type it. Sets are kept on the device, download as `.txt` files
+  and load from them; a class is asked a set in the order written. On the
+  results of a class, a refused answer to one of your own questions can be
+  written into its set with "Count it next time". The format and the storage
+  are `src/game/ownsets.ts`; the pages are `src/screens/classroom/sets.ts`.
 - Music: eight recorded ambient tracks (made for the game on Suno) lie under the
   generated sound, two for each of the surface, the mid-depths, the abyss and
   the séance. A dive hears the bed of its depth; the two tracks of a place take
