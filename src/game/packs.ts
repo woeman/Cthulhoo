@@ -152,6 +152,9 @@ export class TopicBook {
   readonly packs: Packs;
   /** The daily bank's own ids, before any pack was adopted into it. */
   private own: Set<string>;
+  /** By a question's words, the first to ask it: the daily bank's own, then the pack loaded first. */
+  private firstToAsk = new Map<string, string>();
+  private indexed = 0;
 
   constructor(
     private bank: Pick<Bank, 'prompts' | 'byId'>,
@@ -198,10 +201,30 @@ export class TopicBook {
 
   /**
    * The question an id stands for. A pack may carry a daily question under its
-   * own id ("anatomy-bones" for "bones"): both are then the one question, and a
-   * session must not ask it twice.
+   * own id ("anatomy-bones" for "bones"), and two packs may ask the very same
+   * thing in the same words ("Name a part of the human brain." in anatomy and in
+   * psychology): each such pair is the one question, and a session must not ask
+   * it twice.
    */
   sameAs(id: string): string {
+    const copied = this.copied(id);
+    const p = this.bank.byId.get(copied) ?? this.bank.byId.get(id);
+    if (!p) return copied;
+    // The bank only grows (a pack is adopted when it loads), so the index is caught up when it has.
+    if (this.indexed < this.bank.byId.size) {
+      let i = 0;
+      for (const other of this.bank.byId.values()) {
+        if (i++ < this.indexed) continue;
+        const words = wordsOf(other.text);
+        if (!this.firstToAsk.has(words)) this.firstToAsk.set(words, this.copied(other.id));
+      }
+      this.indexed = this.bank.byId.size;
+    }
+    return this.firstToAsk.get(wordsOf(p.text)) ?? copied;
+  }
+
+  /** The daily question a pack's copy stands for, by its id; any other id stands for itself. */
+  private copied(id: string): string {
     const pack = this.packs.packOf(id);
     if (!pack) return id;
     const rest = id.slice(pack.length + 1);
@@ -212,6 +235,16 @@ export class TopicBook {
   ensure(promptIds: string[]): Promise<void> {
     return this.packs.ensure(promptIds.filter((id) => !this.bank.byId.has(id)));
   }
+}
+
+/** A question's words, for telling when two ask the same thing: case, spacing and the closing mark aside. */
+function wordsOf(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/\s+/g, ' ')
+    .trim()
+    .replace(/[.?!…]+$/, '')
+    .trim();
 }
 
 /** What a question is filed under, for the line above it: its class pack (and section), or its category's title. */
