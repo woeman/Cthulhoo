@@ -19,8 +19,8 @@
         {"answer": "The Merchant of Venice", "tier": 2},
         {"answer": "Much Ado About Nothing", "aliases": ["Much Ado"], "tier": 2},
         {"answer": "The Taming of the Shrew", "tier": 2},
-        {"answer": "Richard III", "aliases": ["Richard 3", "Richard the Third", "King Richard III"], "tier": 2},
-        {"answer": "Henry V", "aliases": ["Henry 5", "Henry the Fifth", "King Henry V", "The Life of Henry the Fifth", "The Life of King Henry the Fifth"], "tier": 2},
+        {"answer": "Richard III", "aliases": ["Richard 3", "Richard the Third", "King Richard III", "Richard"], "tier": 2},
+        {"answer": "Henry V", "aliases": ["Henry 5", "Henry the Fifth", "King Henry V", "The Life of Henry the Fifth", "The Life of King Henry the Fifth", "Henry"], "tier": 2},
         {"answer": "As You Like It", "tier": 2},
         {"answer": "Antony and Cleopatra", "aliases": ["Anthony and Cleopatra", "The Tragedy of Antony and Cleopatra"], "tier": 2},
         {"answer": "The Winter's Tale", "tier": 3},
@@ -68,7 +68,6 @@
         {"answer": "10 Things I Hate About You", "aliases": ["Ten Things I Hate About You"], "reason": "The Taming of the Shrew, moved to a 1999 high school."},
         {"answer": "Rosencrantz and Guildenstern Are Dead", "reason": "Tom Stoppard's play, set in the wings of Hamlet."},
         {"answer": "Shakespeare in Love", "reason": "A 1998 film about him, not by him."},
-        {"answer": "Henry", "aliases": ["Richard"], "reason": "Which one? He wrote several."},
         {"answer": "Edward", "reason": "Which Edward? Give the number."},
         {"answer": "Kiss Me, Kate", "reason": "Cole Porter's 1948 musical, built around a staging of The Taming of the Shrew."}
       ]
@@ -744,7 +743,7 @@
         {"answer": "On Her Majesty's Secret Service", "aliases": ["OHMSS"], "tier": 4, "lore": "George Lazenby's only outing as Bond, and the one in which Bond marries."},
         {"answer": "Licence to Kill", "aliases": ["License to Kill"], "tier": 4, "lore": "Timothy Dalton's last Bond film. It was going to be called Licence Revoked."},
         {"answer": "The Living Daylights", "tier": 4, "lore": "Timothy Dalton's first Bond, in 1987, and the last to use a Fleming title until Casino Royale."},
-        {"answer": "Never Say Never Again", "aliases": ["Never Say Never"], "tier": 5, "lore": "Sean Connery's unofficial return in 1983, made outside the main series. His wife suggested the title."},
+        {"answer": "Never Say Never Again", "aliases": ["Never Say Never"], "tier": 4, "lore": "Sean Connery's unofficial return in 1983, made outside the main series. His wife suggested the title."},
         {"answer": "Casino Royale (1967)", "aliases": ["The 1967 Casino Royale"], "tier": 6, "lore": "A chaotic spoof with five credited directors, in which a whole team of agents are all called James Bond."},
         {"answer": "Casino Royale (1954)", "aliases": ["Climax! Casino Royale", "Climax!"], "tier": 6, "lore": "The first screen Bond: a live American TV play in which he was 'Jimmy Bond', an American agent."}
       ],
