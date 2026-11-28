@@ -1,0 +1,410 @@
+# Name a hand tool.
+
+Question id: `hand-tools` · category: misc · source: `data/misc.json`
+
+Rules: Any tool worked by hand, from the toolbox, workshop, garden shed or farmyard. Power tools with a motor don't count, and nor do kitchen utensils.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (356 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (14)
+
+- Hammer — Hammers | Carpenter's hammer
+- Screwdriver — Screwdrivers | Flathead screwdriver | Flat screwdriver | Slotted screwdriver | Flat-blade screwdriver | Flathead | Slotted
+- Saw — Handsaw | Wood saw | Carpenter's saw
+- Spanner — Wrench | Spanners | Wrenches | Sanner
+- Pliers
+- Chisel — Wood chisel | Carpenter's chisel
+- Spade — Garden spade | Digging spade | Border spade
+- Shovel — Snow shovel | Coal shovel | Trenching shovel
+- Rake — Garden rake | Leaf rake | Lawn rake | Bow rake | Hay rake | Spring-tine rake | Thatch rake | Scarifying rake
+- Hacksaw — Metal saw
+- Tape measure — Measuring tape | Tape rule | Retractable tape | Measure
+- Axe — Ax | Wood axe | Felling axe | Splitting axe | Woodsman's axe | Axes | Broad axe | Hewing axe
+- Mallet — Wooden mallet
+- Sledgehammer — Sledge | Lump hammer sledge
+
+### Tier 2: common (39)
+
+- Claw hammer
+- Phillips screwdriver — Phillips | Philips screwdriver | Cross-head screwdriver | Phillips-head screwdriver | Cross screwdriver | Star screwdriver | Phillips head | Crosshead
+- Adjustable spanner — Adjustable wrench | Shifter | Shifting spanner | Crescent wrench | Crescent
+- Monkey wrench
+- Socket wrench — Socket set | Ratchet | Ratchet spanner | Ratchet wrench | Socket spanner | Sockets
+- Allen key — Hex key | Allen wrench | Hex wrench | Allen keys | Hex keys | Allan key | Allen
+- Needle-nose pliers — Long-nose pliers | Snipe-nose pliers | Nose pliers
+- Wire cutters — Side cutters | Snips | Diagonal cutters | Diagonal pliers | Dykes | Wire cutter | Cutters
+- Spirit level — Level | Bubble level | Torpedo level | Carpenter's level | Laser level | Line level | Water level
+- Crowbar — Wrecking bar | Pry bar | Jemmy | Jimmy | Gooseneck bar | Flat bar | Wonder Bar | Lever | Pinch bar | Nail bar | Claw bar | Prise bar
+- Trowel — Garden trowel | Hand trowel
+- Hoe — Dutch hoe | Draw hoe | Stirrup hoe | Hula hoe | Scuffle hoe | Onion hoe | Garden hoe | Grub hoe | Mamoty | Mammoty | Wheel hoe
+- Garden fork — Fork | Digging fork | Spading fork | Border fork | Potato fork
+- Pitchfork — Hay fork
+- Secateurs — Pruners | Pruning shears | Hand pruners | Pruning snips | Bypass pruners | Anvil pruners | Secaturs
+- Shears — Garden shears | Hedge shears | Hedge clippers | Grass shears | Topiary shears | Edging shears | Clippers | Garden clippers
+- Scythe
+- Sickle — Reaping hook | Grass hook
+- Pickaxe — Pick | Pickax
+- Hatchet — Hand axe | Camp axe
+- Machete — Panga | Bush knife | Cane knife | Bolo | Parang | Golok | Cutlass
+- Plane — Hand plane | Wood plane | Carpenter's plane | Bench plane
+- Rasp — Hoof rasp | Farrier's rasp
+- File — Metal file | Flat file | Half-round file | Bastard file | Mill file | Files | Hand file | Wood file
+- Whetstone — Sharpening stone | Oilstone | Water stone | Honing stone | Hone | Grindstone
+- Coping saw
+- Hand drill — Drill | Eggbeater drill | Manual drill
+- Clamp — G-clamp | C-clamp | Bar clamp | F-clamp | Sash clamp | Pipe clamp | Quick clamp | Spring clamp | Cramp | Sash cramp | G-cramp | Clamps | Corner clamp
+- Vice — Vise | Bench vice | Bench vise | Woodworking vice | Engineer's vice | Vices
+- Stanley knife — Utility knife | Box cutter | Retractable knife | Snap-off knife | Trimming knife | Carpet knife | Stanley
+- Penknife — Pocket knife | Jackknife | Clasp knife | Folding knife
+- Swiss Army knife — Swiss knife | Army knife
+- Scissors — Pair of scissors
+- Knife — Knives
+- Tweezers — Tweezer
+- Staple gun — Hammer tacker | Tacker | Staple tacker | Stapler
+- Paintbrush — Brush | Decorator's brush | Paintbrushes
+- Plunger — Plumber's helper | Sink plunger | Toilet plunger
+- Ruler — Rule | Steel rule | Steel ruler | Metal ruler
+
+### Tier 3: known to fans (55)
+
+- Ball-peen hammer — Ball pein hammer | Engineer's hammer | Ball hammer
+- Club hammer — Lump hammer | Mash hammer
+- Rubber mallet — Rubber hammer
+- Tenon saw — Backsaw
+- Fretsaw
+- Bow saw — Swede saw
+- Keyhole saw — Pad saw | Jab saw | Drywall saw | Compass saw | Plasterboard saw
+- Crosscut saw — Two-man saw | Felling saw | Misery whip
+- Block plane
+- Spokeshave
+- Drawknife — Drawshave
+- Scraper — Paint scraper | Wallpaper scraper | Cabinet scraper | Card scraper | Hand scraper
+- Sanding block — Sandpaper | Glasspaper | Emery paper | Sanding sponge | Emery board | Emery cloth | Wet and dry
+- Cold chisel — Metal chisel
+- Gouge — Carving gouge | Wood gouge
+- Centre punch — Center punch | Punch | Prick punch
+- Bradawl
+- Awl — Scratch awl | Stitching awl | Sewing awl | Pricker
+- Brace — Brace and bit | Bit brace | Carpenter's brace
+- Pipe wrench — Stillson | Stillson wrench | Stillsons | Plumber's wrench
+- Torque wrench
+- Combination pliers — Lineman's pliers | Linesman pliers | Linesman's pliers | Engineer's pliers | Cutting pliers
+- Locking pliers — Mole grips | Mole grip | Vise-Grips | Vice grips | Vise grip | Mole wrench | Mole pliers
+- Wire strippers — Wire stripper | Cable strippers | Cable stripper
+- Pincers — Carpenter's pincers | End nippers | Nippers | End cutters
+- Tongs — Blacksmith's tongs | Fire tongs | Smith's tongs
+- Bolt cutters — Bolt cutter | Bolt croppers | Croppers
+- Tin snips — Aviation snips | Metal snips | Tinman's snips
+- Craft knife — X-Acto knife | Exacto knife | Hobby knife | Modelling knife | Exacto | X-Acto
+- Multi-tool — Leatherman
+- Putty knife — Filling knife | Stripping knife | Spackle knife | Joint knife | Taping knife | Drywall knife | Glazing knife
+- Paint roller — Roller
+- Wire brush
+- Brick trowel — Bricklayer's trowel | Mason's trowel | Bricklaying trowel
+- Plastering trowel — Plasterer's trowel | Finishing trowel | Steel trowel
+- Set square
+- Try square — Square | Engineer's square
+- T-square — Tee square
+- Plumb bob — Plumb line | Plumb | Plummet
+- Chalk line — Chalk reel | Snap line | Chalk box
+- Calipers — Callipers | Caliper | Calliper | Vernier caliper | Vernier callipers | Vernier | Dial caliper | Digital caliper
+- Mattock — Grubbing mattock | Pick mattock | Cutter mattock
+- Adze — Adz
+- Wedge — Felling wedge | Log wedge
+- Loppers — Lopping shears | Lopper | Tree loppers | Pole pruner | Tree pruner
+- Dibber — Dibble | Dibbler
+- Hand fork — Garden hand fork | Weeding fork | Hand cultivator | Cultivator
+- Rivet gun — Pop rivet gun | Riveter | Pop riveter | Rivet tool | Hand riveter | Riveting tool
+- Caulking gun — Caulk gun | Sealant gun | Silicone gun | Mastic gun | Skeleton gun
+- Soldering iron — Solder iron | Soldering gun | Soldering pencil
+- Blowtorch — Blowlamp | Gas torch | Propane torch | Butane torch | Torch
+- Push mower — Hand mower | Reel mower | Cylinder mower | Push lawnmower | Manual mower
+- Watering can — Watering pot
+- Wheelbarrow — Barrow
+- Broom — Yard broom | Yard brush | Besom | Push broom | Stiff broom | Garden broom | Stable broom
+
+### Tier 4: obscure (95)
+
+- Cross-peen hammer — Cross pein hammer | Warrington hammer
+- Pin hammer
+- Tack hammer
+- Framing hammer
+- Rock hammer — Geologist's hammer | Geological hammer | Rock pick
+- Brick hammer — Bricklayer's hammer | Mason's hammer | Scutch hammer
+- Dead blow hammer
+- Joiner's mallet — Carpenter's mallet
+- Panel saw
+- Rip saw
+- Dovetail saw
+- Pruning saw — Folding saw | Pole saw
+- Japanese saw — Pull saw | Ryoba | Dozuki | Kataba | Nokogiri
+- Junior hacksaw
+- Mitre box — Miter box | Mitre block | Miter block
+- Jack plane
+- Smoothing plane — Smoother | Smooth plane
+- Needle file — Needle files | Swiss file
+- Rat-tail file — Round file | Rat-tailed file
+- Surform — Surform plane | Surform rasp
+- Strop — Leather strop | Razor strop
+- Mortise chisel — Mortice chisel
+- Bolster — Brick bolster | Bolster chisel | Brick set
+- Nail punch — Nail punches
+- Gimlet
+- Auger — Ship auger | Earth auger | Bit auger
+- Bow drill
+- Countersink — Countersink bit | Rosehead
+- Reamer
+- Tap and die — Tap | Die | Taps and dies | Die stock | Tap and die set
+- Ratchet screwdriver
+- Stubby screwdriver — Stubby
+- Jeweller's screwdriver — Jeweler's screwdriver | Precision screwdriver | Watchmaker's screwdriver
+- Pozidriv screwdriver — Pozidriv | Pozi screwdriver | Pozidrive screwdriver | Pozi
+- Torx screwdriver — Torx | Torx key | Star key
+- Nut driver — Nut spinner
+- Ring spanner — Box-end wrench | Ring wrench
+- Open-ended spanner — Open-end wrench | Open-end spanner
+- Combination spanner — Combination wrench
+- Wheel brace — Lug wrench | Tyre iron | Tire iron | Wheel wrench | Wheel spanner | Cross wrench | Spider wrench | Lug nut wrench
+- Breaker bar
+- Tyre lever — Tire lever | Tyre levers | Tire spoon
+- Slip-joint pliers
+- Water pump pliers — Channellocks | Groove-joint pliers | Tongue-and-groove pliers | Channel-lock pliers | Pump pliers | Multigrips
+- Crimping tool — Crimper | Crimpers | Crimping pliers
+- Cable cutters — Cable cutter
+- Glass cutter
+- Tile cutter
+- Pipe cutter — Tube cutter | Pipe slice
+- Scalpel
+- Combination square
+- Framing square — Carpenter's square | Steel square | Roofing square | Builder's square
+- Sliding bevel — Bevel gauge | T-bevel | Bevel | Sliding T bevel
+- Protractor
+- Marking gauge
+- Scriber — Scribe
+- Micrometer — Micrometer screw gauge | Micrometre
+- Feeler gauge — Feeler gauges | Thickness gauge
+- Dividers — Wing dividers | Divider
+- Compasses — Compass | Pair of compasses | Drawing compass
+- Stud finder — Stud detector | Cable detector | Joist finder
+- Straightedge
+- Folding rule — Carpenter's rule | Zigzag rule | Folding ruler
+- Yardstick — Metre stick | Meter stick | Metre rule | Meter rule
+- Pointing trowel
+- Notched trowel — Tiling trowel | Tile trowel | Adhesive trowel
+- Float — Plastering float | Wooden float | Concrete float | Bull float | Darby
+- Hawk — Plasterer's hawk | Mortar board
+- Splitting maul — Maul | Splitting hammer
+- Billhook — Hedging bill | Slasher | Pruning hook | Brush hook
+- Edging iron — Half-moon edger | Lawn edger | Edger | Edging knife
+- Post-hole digger — Clamshell digger
+- Flail — Threshing flail
+- Car jack — Jack | Scissor jack | Bottle jack | Trolley jack | Floor jack
+- Grease gun
+- Glue gun — Hot glue gun
+- Voltage tester — Test screwdriver | Neon tester | Mains tester | Electrical tester | Circuit tester | Voltage pen | Tester screwdriver | Tester | Line tester | Neon screwdriver | Test pen
+- Drain snake — Plumber's snake | Drain auger | Toilet auger | Plumbing snake | Drain rods | Drain rod
+- Carving knife — Whittling knife | Woodcarving knife | Sloyd knife
+- Ice axe — Piolet
+- Ice pick
+- Poker — Fire poker | Fireplace poker | Fire iron | Fire irons
+- Pinking shears — Pinking scissors
+- Needle — Sewing needle | Needles
+- Nail puller — Cat's paw
+- Garden sprayer — Hand sprayer | Pump sprayer | Pressure sprayer | Knapsack sprayer | Sprayer
+- Robertson screwdriver — Robertson | Square drive screwdriver | Square screwdriver
+- Trundle wheel — Measuring wheel | Surveyor's wheel | Click wheel
+- Bicycle pump — Bike pump | Foot pump | Track pump | Hand pump | Tyre pump | Tire pump | Stirrup pump | Pump
+- Kukri — Khukuri | Khukri
+- Carpenter's pencil — Builder's pencil | Joiner's pencil
+- Muck fork — Manure fork | Dung fork | Stable fork
+- Digging bar — Spud bar | Digging iron
+- Sack truck — Hand truck | Sack barrow
+- Oil can — Pump oiler
+
+### Tier 5: expert (150)
+
+- Upholstery hammer
+- Drywall hammer
+- Soft-faced hammer — Soft face hammer | Copper mallet | Rawhide mallet
+- Planishing hammer
+- Toffee hammer
+- Chipping hammer — Welding hammer | Slag hammer
+- Gavel
+- Flush-cut saw
+- Pit saw — Whipsaw
+- Frame saw
+- Bucksaw
+- Veneer saw
+- Wire saw — Pocket saw | Survival saw | Gigli saw
+- Jeweller's saw — Jeweler's saw | Piercing saw
+- Mitre saw — Miter saw | Hand mitre saw
+- Jointer plane — Try plane | Trying plane
+- Rebate plane — Rabbet plane
+- Shoulder plane
+- Router plane
+- Plough plane — Plow plane
+- Moulding plane — Molding plane
+- Riffler — Riffler file | Rifflers
+- Burnisher
+- Paring chisel
+- Bevel-edge chisel — Bevelled chisel
+- Firmer chisel
+- Skew chisel — Skew
+- V-tool — Parting tool | V-gouge
+- Pin punch
+- Drift punch — Drift
+- Push drill — Yankee drill | Yankee push drill
+- Pump drill
+- Breast drill
+- Screw extractor — Easy-out | Bolt extractor
+- Yankee screwdriver — Spiral ratchet screwdriver | Pump screwdriver
+- Offset screwdriver
+- Electrician's screwdriver — Insulated screwdriver
+- Manual impact driver — Hand impact driver | Impact screwdriver
+- Box spanner — Tubular spanner | Tube spanner
+- Basin wrench — Tap spanner
+- Strap wrench
+- Chain wrench
+- Oil filter wrench — Filter wrench | Oil filter remover
+- Spark plug spanner — Plug spanner | Spark plug wrench | Spark plug socket
+- Spoke key — Spoke wrench
+- Tap wrench
+- Pin spanner — C spanner | Hook spanner
+- Circlip pliers — Snap ring pliers
+- Fencing pliers — Fence pliers
+- Round-nose pliers
+- Flat-nose pliers
+- Hook knife — Spoon knife | Crooked knife
+- Inshave — Scorp
+- Travisher
+- Froe — Frow
+- Cant hook — Peavey | Cant dog
+- Pulaski — Pulaski axe
+- Halligan bar — Halligan | Hooligan tool
+- Speed square — Rafter square | Triangle square
+- Mortise gauge — Mortice gauge
+- Cutting gauge
+- Marking knife
+- Trammel — Trammel points | Beam compass
+- Profile gauge — Contour gauge
+- Depth gauge
+- Thread gauge — Pitch gauge
+- Margin trowel
+- Gauging trowel
+- Jointer — Brick jointer | Jointing iron | Pointing iron | Joint raker | Frenchman
+- Grout float
+- Grout rake — Grout saw | Grout remover
+- Tile nippers — Nibblers | Tile nibblers
+- Pipe bender — Tube bender | Bending spring
+- Flaring tool
+- Multimeter — Voltmeter | Avometer | Ammeter
+- Fish tape — Draw tape | Fishing tape | Draw wire
+- Desoldering pump — Solder sucker | Desoldering tool
+- Gear puller — Bearing puller | Puller
+- Tyre pressure gauge — Tire pressure gauge | Tyre gauge | Tire gauge | Pressure gauge
+- Swage — Swage block
+- Planishing stake — Panel beater's dolly | Dolly | Body dolly
+- Engraver — Graver | Burin
+- Deburring tool — Deburrer
+- Leather punch — Rotary punch | Revolving punch | Belt punch | Hollow punch | Wad punch
+- Edge beveller — Edge beveler
+- Swivel knife
+- Seam ripper — Unpicker | Stitch ripper | Quick unpick
+- Rotary cutter
+- Crochet hook
+- Knitting needles — Knitting needle
+- Bodkin
+- Entrenching tool — E-tool | Trenching tool | Entrenching spade
+- Bellows
+- Hoof pick
+- Curry comb
+- Shepherd's crook — Crook
+- Sheep shears — Hand shears | Blade shears
+- Branding iron
+- Bale hook — Hay hook | Hay knife
+- Bulb planter
+- Weeder — Daisy grubber | Dandelion weeder | Weeding tool | Patio knife
+- Lawn aerator — Aerator | Aerating fork | Hollow tine aerator
+- Garden sieve — Riddle | Soil sieve
+- Post driver — Post rammer | Post knocker | Fence post driver | Post pounder
+- Pin vice — Pin vise | Hand vice
+- Spudger
+- Fid — Splicing fid
+- Hole punch — Paper punch
+- Pruning knife
+- Grafting knife — Budding knife
+- Splitting wedge
+- Hand auger
+- Pipe threader — Pipe die | Stocks and dies
+- Nail set
+- Lock pick — Picklock
+- Hoof knife — Farrier's knife
+- Fuller
+- Hardy — Hardie | Anvil hardy
+- Wire strainer — Fence strainer | Fencing strainer | Monkey strainer | Chain strainer
+- Turf cutter — Turfing iron | Sod cutter
+- Bush hammer
+- Chasing hammer
+- Edging trowel
+- Khurpi — Khurpa
+- Broadfork — Grelinette | U-fork
+- Fruit picker
+- Plugging chisel
+- Bench hook
+- Holdfast
+- Scrub plane
+- Bullnose plane
+- Fore plane
+- Gent's saw
+- Tommy bar
+- Thimble
+- Drop spindle — Hand spindle
+- Hori hori — Soil knife
+- Widger
+- Slick
+- Handscrew
+- Scratch stock
+- Pickaroon — Hookaroon
+- Builder's line — String line | Line and pins | Bricklayer's line
+- Wallpaper brush — Paperhanger's brush | Pasting brush
+- Seam roller
+- Chain tool — Chain breaker | Chain splitter
+- Cone spanner — Cone wrench
+- Podger
+- Feather edge
+- Plastering spatula — Skimming spatula | Filling spatula
+
+### Tier 6: rare jackpots (3)
+
+- Marlinspike — Marline spike
+- Caulking iron — Caulking chisel | Making iron | Reaming iron
+- Croze — Crozer | Croze iron
+
+## Refused on purpose (20)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Power drill | Electric drill | Cordless drill | Hammer drill | Drill driver | Impact driver | Impact wrench | Impact gun | Rattle gun | Pneumatic drill | Jackhammer | Road drill | Kango | Dremel | Rotary tool | Router | Angle grinder | Grinder | Bench grinder | Nail gun | Heat gun | Sander | Belt sander | Orbital sander | Electric screwdriver | Power tool | Power tools | Paint sprayer | Spray gun — "A power tool. The deep wants one worked by hand."
+- Chainsaw | Circular saw | Table saw | Band saw | Reciprocating saw | Sabre saw | Scroll saw | Chop saw | Radial arm saw — "A power saw, motor and all."
+- Jigsaw — "A power saw, unless you mean the puzzle. Either way, no."
+- Strimmer | Weed whacker | Weed eater | Weedwacker | Line trimmer | String trimmer | Brush cutter | Leaf blower | Rotavator | Rototiller | Pressure washer | Jet washer | Power washer | Whipper snipper — "It runs on a motor, so it's a power tool."
+- Hedge trimmer — "A power tool. Its hand-worked cousin is a pair of shears."
+- Lawnmower | Ride-on mower — "Most run on a motor. Name the kind you push by hand."
+- Lathe | Milling machine | Pillar drill | Drill press | Arc welder | Welding machine | Planer thicknesser | Thicknesser — "A machine tool, bolted to the floor, not a hand tool."
+- Anvil | Workbench | Sawhorse — "A tool, but far too heavy to count as a hand tool."
+- Whisk | Ladle | Rolling pin | Potato masher | Peeler | Potato peeler | Grater | Cheese grater | Tin opener | Can opener | Corkscrew | Garlic press | Colander | Fish slice | Wooden spoon | Pestle and mortar | Mortar and pestle | Nutcracker | Meat tenderiser | Bottle opener | Egg whisk | Pizza cutter | Zester | Cleaver | Chopsticks | Cutlery | Spoon — "A kitchen utensil. The deep wants the toolbox or the shed."
+- Mop | Dustpan | Dustpan and brush | Feather duster | Duster | Vacuum cleaner | Hoover | Sponge | Scrubbing brush | Toilet brush — "Housework kit. The deep wants the toolbox or the shed."
+- Toolbox | Toolkit | Tool belt — "Where the tools sleep, not a tool."
+- Ladder | Stepladder | Scaffolding — "Something to stand on, not a tool."
+- Screw | Screws | Bolt | Washer | Rawlplug | Wall plug | Drill bit | Saw blade | Blade | Nails — "Something a tool drives in, not a tool itself."
+- Duct tape | Gaffer tape | Gaffa tape | Masking tape | Sellotape | Superglue | WD-40 | Glues — "Handy, but not a tool."
+- Sonic screwdriver — "Only the Doctor has one."
+- Tool | Tools | Hand tool | Hand tools — "Which tool? The deep wants a name."
+- Bare hands | Fingers — "The oldest tools of all, but they don't count."
+- Hose | Garden hose | Hosepipe — "A pipe for water, not a tool."
+- Plough | Plow | Harrows | Tractor | Combine harvester | Seed drill — "Farm machinery, pulled by animals or a tractor or with an engine of its own: not a hand tool."
+- Spatula — "Which kind? A kitchen spatula doesn't count, but a plasterer's would."

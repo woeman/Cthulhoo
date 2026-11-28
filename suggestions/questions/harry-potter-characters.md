@@ -1,0 +1,575 @@
+# Name a character from the Harry Potter books.
+
+Question id: `harry-potter-characters` · category: culture · source: `data/culture.json`
+
+Rules: Anyone named in the seven novels, The Cursed Child, the Fantastic Beasts films or Rowling's companion books: pets, ghosts, portraits and talking hats included. Actors don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (525 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Harry Potter — Potter | Harry | Poter | Hary | Harry James Potter | The Boy Who Lived | The Chosen One | Undesirable Number One
+- Hermione Granger — Granger | Hermione | Hermione Jean Granger | Hermoine | Hermoine Granger
+- Ron Weasley — Ron | Ronald Weasley | Ronald | Ronald Bilius Weasley | Ronniekins | Won-Won | Weasley
+- Albus Dumbledore — Dumbledore | Albus | Professor Dumbledore | Albus Percival Wulfric Brian Dumbledore
+- Lord Voldemort — Voldemort | Tom Riddle | Tom Marvolo Riddle | Riddle | Tom | You-Know-Who | He Who Must Not Be Named | The Dark Lord | Heir of Slytherin | Voldy
+- Severus Snape — Snape | Severus | Professor Snape | The Half-Blood Prince | Snivellus
+- Rubeus Hagrid — Hagrid | Rubeus | Professor Hagrid
+- Draco Malfoy — Malfoy | Draco | Draco Lucius Malfoy
+- Sirius Black — Black | Sirius | Padfoot | Snuffles
+- Dobby — Dobby the House-Elf | Dobbie
+- Neville Longbottom — Neville | Longbottom
+- Ginny Weasley — Ginny | Ginevra Weasley | Ginevra | Ginny Potter | Ginerva | Ginerva Weasley
+- Minerva McGonagall — McGonagall | Professor McGonagall | MacGonagall | Minerva
+- Luna Lovegood — Lovegood | Luna | Loony Lovegood | Loony
+- Bellatrix Lestrange — Bellatrix | Bella | Bellatrix Black | Lestrange
+
+### Tier 2: common (73)
+
+- Dolores Umbridge — Professor Umbridge | Dolores | Umbridge | Umbrage | Dolores Umbrage
+- Remus Lupin — Lupin | Remus | Moony | Professor Lupin
+- Fred Weasley — Fred | Gred
+- George Weasley — George | Forge
+- Molly Weasley — Molly | Mrs Weasley | Molly Prewett | Prewett
+- Arthur Weasley — Mr Weasley | Arthur
+- Percy Weasley — Percy | Perce | Weatherby
+- Bill Weasley — William Weasley | Bill
+- Charlie Weasley — Charles Weasley | Charlie
+- Lucius Malfoy — Mr Malfoy | Lucius
+- Narcissa Malfoy — Mrs Malfoy | Narcissa Black | Cissy | Narcissa
+- Cedric Diggory — Diggory | Cedric
+- Cho Chang — Cho | Chang
+- Peter Pettigrew — Wormtail | Scabbers | Peter | Pettigrew
+- Hedwig
+- Crookshanks
+- Fawkes
+- Buckbeak — Witherwings
+- Nagini
+- Kreacher — Kreature
+- Moaning Myrtle — Myrtle | Myrtle Warren
+- Nearly Headless Nick — Sir Nicholas de Mimsy-Porpington | Sir Nicholas | Headless Nick | Nick
+- Peeves — Peeves the Poltergeist
+- Gilderoy Lockhart — Professor Lockhart | Gilderoy | Lockhart
+- Quirinus Quirrell — Professor Quirrell | Quirrel | Quirinus | Quirrell
+- Filius Flitwick — Professor Flitwick | Filius | Flitwick
+- Pomona Sprout — Professor Sprout | Pomona | Sprout
+- Sybill Trelawney — Professor Trelawney | Sybil Trelawney | Sybill | Trelawney
+- Horace Slughorn — Professor Slughorn | Horace | Slughorn
+- Argus Filch — Mr Filch | Argus | Filch
+- Mrs Norris
+- Alastor Moody — Mad-Eye Moody | Mad-Eye | Moody | Professor Moody | Alastor
+- Nymphadora Tonks — Tonks | Nymphadora
+- Kingsley Shacklebolt — Kingsley | Shacklebolt
+- Cornelius Fudge — Cornelius | Fudge
+- Vernon Dursley — Uncle Vernon | Mr Dursley | Vernon | Dursley
+- Petunia Dursley — Aunt Petunia | Mrs Dursley | Petunia Evans | Petunia
+- Dudley Dursley — Dudders | Big D | Duddy | Dudley
+- James Potter — James | Prongs
+- Lily Potter — Lily | Lily Evans
+- Gellert Grindelwald — Grindelwald | Gellert
+- Newt Scamander — Newt | Scamander | Newton Scamander
+- Viktor Krum — Krum | Victor Krum | Viktor
+- Fleur Delacour — Delacour | Fleur Weasley | Fleur
+- The Sorting Hat
+- Godric Gryffindor — Gryffindor | Godric
+- Salazar Slytherin — Slytherin | Salazar
+- Helga Hufflepuff — Hufflepuff | Helga
+- Rowena Ravenclaw — Ravenclaw | Rowena
+- Barty Crouch Jr — Barty Crouch Junior | Bartemius Crouch Jr | Young Barty Crouch | Bartemius Crouch Junior | Crouch | Barty | Bartemius
+- Fenrir Greyback — Fenrir | Greyback
+- Aragog
+- Griphook
+- Winky
+- Poppy Pomfrey — Madam Pomfrey | Poppy | Pomfrey
+- Garrick Ollivander — Mr Ollivander | Garrick | Ollivander
+- Rita Skeeter — Rita | Skeeter
+- Aberforth Dumbledore — Aberforth
+- Grawp — Hagrid's Brother
+- Firenze — Professor Firenze
+- Mundungus Fletcher — Mundungus | Dung | Fletcher
+- Scorpius Malfoy — Scorpius
+- Albus Severus Potter — Albus Severus | Albus Potter
+- Seamus Finnigan — Seamus | Finnigan
+- Dean Thomas — Thomas | Dean
+- Oliver Wood — Oliver | Wood
+- Lavender Brown — Lavender | Brown
+- Vincent Crabbe — Vincent | Crabbe
+- Gregory Goyle — Gregory | Goyle
+- Fang
+- Fluffy
+- Norbert — Norberta
+- Madam Hooch — Rolanda Hooch | Hooch
+
+### Tier 3: known to fans (113)
+
+- Parvati Patil — Parvati | Patil
+- Padma Patil — Padma
+- Pansy Parkinson — Pansy | Parkinson
+- Igor Karkaroff — Igor | Karkaroff
+- Madame Maxime — Olympe Maxime | Maxime
+- Barty Crouch Sr — Barty Crouch Senior | Bartemius Crouch | Bartemius Crouch Sr | Mr Crouch | Barty Crouch | Bartemius Crouch Senior
+- Regulus Black — R.A.B. | Regulus Arcturus Black | Regulus
+- Teddy Lupin — Edward Lupin | Teddy
+- Marge Dursley — Aunt Marge | Marjorie Dursley | Marge
+- Madam Rosmerta — Rosmerta
+- Nicolas Flamel — Flamel | Nicholas Flamel | Nicolas
+- Tina Goldstein — Porpentina Goldstein | Tina | Porpentina | Goldstein
+- Queenie Goldstein — Queenie
+- Jacob Kowalski — Jacob | Kowalski
+- Credence Barebone — Credence | Barebone | Aurelius Dumbledore
+- The Basilisk
+- Ted Tonks — Ted
+- Andromeda Tonks — Andromeda
+- Lee Jordan — Lee | Jordan
+- Katie Bell — Katie | Bell
+- Angelina Johnson — Angelina | Johnson
+- Alicia Spinnet — Alicia | Spinnet
+- Colin Creevey — Colin | Creevey
+- Cormac McLaggen — Cormac | McLaggen
+- Romilda Vane — Romilda | Vane
+- Blaise Zabini — Blaise | Zabini
+- Theodore Nott — Theodore | Nott
+- Millicent Bulstrode — Millicent | Bulstrode
+- Marcus Flint — Marcus | Flint
+- Ernie Macmillan — Ernie | Macmillan
+- Hannah Abbott — Abott | Hannah | Abbott
+- Justin Finch-Fletchley — Justin | Finch-Fletchley
+- Susan Bones — Susan
+- Zacharias Smith — Zacharias | Smith
+- Michael Corner — Michael | Corner
+- Terry Boot — Terry | Boot
+- Anthony Goldstein — Anthony
+- Marietta Edgecombe — Marietta | Edgecombe
+- Roger Davies — Roger | Davies
+- Penelope Clearwater — Penelope | Clearwater
+- Gabrielle Delacour — Gabrielle
+- Rufus Scrimgeour — Rufus | Scrimgeour
+- Pius Thicknesse — Pius | Thicknesse
+- Ludo Bagman — Ludovic Bagman | Ludo | Bagman
+- Amelia Bones — Amelia | Bones
+- Amos Diggory — Amos
+- Bertha Jorkins — Bertha | Jorkins
+- Stan Shunpike — Stan | Shunpike
+- Ernie Prang — Prang
+- Dedalus Diggle — Dedalus | Diggle
+- Elphias Doge — Elphias | Doge
+- Arabella Figg — Mrs Figg | Arabella | Figg
+- Xenophilius Lovegood — Mr Lovegood | Xeno Lovegood | Xenophilius | Xeno
+- Frank Longbottom — Frank
+- Alice Longbottom — Alice
+- Augusta Longbottom — Mrs Longbottom | Gran Longbottom | Neville's Gran | Augusta
+- Trevor — Trevor the Toad
+- Pigwidgeon — Pig
+- Errol
+- Bathilda Bagshot — Bathilda | Bagshot
+- Ariana Dumbledore — Ariana
+- Merope Gaunt — Merope | Gaunt
+- Marvolo Gaunt — Marvolo
+- Morfin Gaunt — Morfin
+- Tom Riddle Sr — Tom Riddle Senior
+- Frank Bryce — Bryce
+- Antonin Dolohov — Antonin | Dolohov
+- Augustus Rookwood — Augustus | Rookwood
+- Walden Macnair — Walden | Macnair
+- Yaxley — Corban Yaxley
+- Rodolphus Lestrange — Rodolphus
+- Alecto Carrow — Alecto
+- Amycus Carrow — Amycus
+- Scabior
+- Professor Binns — Cuthbert Binns | Binns | Cuthbert
+- Madam Pince — Irma Pince | Pince | Irma
+- Charity Burbage — Professor Burbage | Charity | Burbage
+- Wilhelmina Grubbly-Plank — Professor Grubbly-Plank | Grubbly-Plank | Wilhelmina
+- Armando Dippet — Professor Dippet | Armando | Dippet
+- Phineas Nigellus Black — Phineas Nigellus | Phineas Black | Phineas
+- Walburga Black — Mrs Black | Walburga
+- The Fat Friar
+- The Bloody Baron
+- The Grey Lady — Helena Ravenclaw | Helena
+- Sir Cadogan — Cadogan
+- The Fat Lady
+- Gregorovitch — Mykew Gregorovitch
+- Mr Borgin — Borgin
+- Hepzibah Smith — Hepzibah
+- Bane
+- Ronan
+- Celestina Warbeck — Celestina | Warbeck
+- Bertie Bott — Bertie | Bott
+- Florean Fortescue — Fortescue | Florean
+- Madam Malkin — Malkin
+- Tom the Barman — Tom the Innkeeper
+- Piers Polkiss — Piers | Polkiss
+- Dennis Creevey — Dennis
+- James Sirius Potter
+- Lily Luna Potter
+- Rose Granger-Weasley — Rose Weasley | Rose | Granger-Weasley
+- Hugo Granger-Weasley — Hugo Weasley | Hugo
+- Delphi — Delphini | Delphi Diggory | The Augurey
+- Theseus Scamander — Theseus
+- Leta Lestrange — Leta
+- Percival Graves — Percival | Graves
+- Seraphina Picquery — Madam Picquery | Seraphina | Picquery
+- Mary Lou Barebone — Mary
+- Ignotus Peverell — Ignotus | Peverell
+- Hokey
+- Gornuk
+- Magorian
+- Aidan Lynch — Aidan | Lynch
+
+### Tier 4: obscure (104)
+
+- Antioch Peverell
+- Cadmus Peverell
+- Rabastan Lestrange
+- Thorfinn Rowle — Rowle
+- Travers — Torquil Travers
+- Mulciber
+- Avery
+- Selwyn
+- Evan Rosier
+- Vinda Rosier — Rosier
+- Nott Sr — Mr Nott
+- Crabbe Sr — Mr Crabbe
+- Goyle Sr — Mr Goyle
+- Mafalda Hopkirk — Hopkirk | Mafalda
+- Bob Ogden — Ogden
+- Albert Runcorn — Runcorn
+- Reg Cattermole — Reginald Cattermole | Cattermole
+- Mary Cattermole
+- Dirk Cresswell — Cresswell
+- Griselda Marchbanks — Marchbanks
+- Broderick Bode — Bode
+- Millicent Bagnold — Bagnold
+- Barnabas Cuffe — Cuffe
+- Aurora Sinistra — Professor Sinistra | Sinistra
+- Septima Vector — Professor Vector | Vector
+- Hestia Jones — Jones
+- Emmeline Vance — Vance
+- Sturgis Podmore — Podmore
+- Marlene McKinnon — McKinnon
+- Gideon Prewett — Gideon
+- Fabian Prewett — Fabian
+- Auntie Muriel — Muriel | Aunt Muriel | Great-Aunt Muriel | Great-Auntie Muriel
+- Victoire Weasley
+- Kendra Dumbledore
+- Percival Dumbledore
+- Perenelle Flamel
+- Ragnok
+- Bogrod
+- Mosag
+- Ripper
+- Hermes
+- Arnold — Arnold the Pygmy Puff
+- Demelza Robins — Robins
+- Mandy Brocklehurst — Brocklehurst
+- Marcus Belby — Belby
+- Adrian Pucey — Pucey
+- Graham Montague — Montague
+- Miles Bletchley — Bletchley
+- Daphne Greengrass
+- Astoria Greengrass — Greengrass
+- Eloise Midgen — Midgen
+- Leanne
+- Madam Puddifoot — Puddifoot
+- Caractacus Burke — Burke
+- Mrs Cole
+- Beedle the Bard — Beedle
+- Merlin
+- Morgana — Morgan le Fay
+- Agrippa — Cornelius Agrippa
+- Ptolemy
+- Circe
+- Paracelsus
+- Dilys Derwent — Derwent
+- Everard
+- Sir Patrick Delaney-Podmore — Patrick Delaney-Podmore | Delaney-Podmore
+- Eileen Prince — Eileen Snape
+- Tobias Snape
+- Craig Bowker Jr — Craig Bowker | Bowker
+- The Trolley Witch
+- Modesty Barebone — Modesty
+- Chastity Barebone — Chastity
+- Gnarlak
+- Yusuf Kama — Kama
+- Bunty — Bunty Broadacre
+- Lally Hicks — Eulalie Hicks | Lally | Hicks
+- Abernathy
+- Pickett
+- Dougal — Dougal the Demiguise
+- Frank the Thunderbird
+- Gwenog Jones
+- Rolf Scamander
+- Fleamont Potter
+- Euphemia Potter
+- John Dawlish — Dawlish
+- Jimmy Peakes — Peakes
+- Ritchie Coote — Coote
+- Golgomath
+- Mr Mason
+- Mrs Mason
+- Hector Dagworth-Granger — Dagworth-Granger
+- Damocles Belby
+- Sanguini
+- Ambrosius Flume — Flume
+- Verity
+- Corvus Lestrange
+- The Flying Ford Anglia — Ford Anglia | Flying Car
+- Death
+- Babbitty Rabbitty
+- Tenebrus
+- Amy Benson — Benson
+- Dennis Bishop — Bishop
+- Billy Stubbs — Stubbs
+- Mr Granger — Wendell Wilkins | Wendell
+- Mrs Granger — Monica Wilkins | Monica
+
+### Tier 5: expert (217)
+
+- Galatea Merrythought — Professor Merrythought | Merrythought
+- Herbert Beery — Professor Beery | Beery
+- Dexter Fortescue
+- Violet
+- Gilbert Wimple — Wimple
+- Arnold Peasegood — Peasegood
+- Cuthbert Mockridge — Mockridge
+- Tiberius Ogden
+- Elfrida Clagg — Clagg
+- Bowman Wright — Wright
+- Josef Wronski — Wronski
+- Roderick Plumpton — Plumpton
+- Hassan Mostafa — Mostafa
+- Gunhilda of Gorsemoor
+- Boris the Bewildered
+- Barnabas the Barmy
+- Wendelin the Weird
+- Uric the Oddball
+- Emeric the Evil
+- Herpo the Foul
+- Gregory the Smarmy
+- Lachlan the Lanky
+- Wilfred the Wistful
+- Urg the Unclean
+- Hengist of Woodcroft
+- Andros the Invincible
+- Cliodna
+- Sir Luckless
+- Amata
+- Asha
+- Altheda
+- Kennilworthy Whisp — Whisp
+- Eddie Carmichael — Carmichael
+- Stewart Ackerley — Ackerley
+- Orla Quirke — Quirke
+- Lisa Turpin — Turpin
+- Su Li
+- Kevin Whitby — Whitby
+- Laura Madley
+- Eleanor Branstone — Branstone
+- Owen Cauldwell — Cauldwell
+- Malcolm Baddock — Baddock
+- Graham Pritchard — Pritchard
+- Natalie McDonald — McDonald
+- Euan Abercrombie — Abercrombie
+- Geoffrey Hooper — Hooper
+- Vicky Frobisher — Frobisher
+- Jack Sloper — Sloper
+- Andrew Kirke — Kirke
+- Kenneth Towler — Towler
+- Terence Higgs — Higgs
+- Lucian Bole — Bole
+- Peregrine Derrick — Derrick
+- Cassius Warrington — Warrington
+- Urquhart
+- Harper
+- Vaisey
+- Tracey Davis — Davis
+- Wayne Hopkins — Hopkins
+- Megan Jones
+- Heidi Macavoy — Macavoy
+- Summerby
+- Cadwallader
+- Rose Zeller — Zeller
+- Stebbins
+- Fawcett
+- Mr Roberts
+- Basil
+- Mary Riddle
+- Thomas Riddle
+- Dot
+- Willy Widdershins — Widdershins
+- Jugson
+- Gibbon
+- Wilkes
+- Proudfoot
+- Savage
+- Williamson
+- Hippocrates Smethwyck — Smethwyck
+- Augustus Pye — Pye
+- Miriam Strout — Strout
+- Eric Munch — Munch
+- Bob
+- Lorcan Scamander
+- Lysander Scamander
+- Pandora Lovegood
+- Yvonne
+- Karkus
+- Ivanova
+- Zograf
+- Levski
+- Dimitrov
+- Volkov
+- Vulchanov
+- Troy
+- Mullet
+- Moran
+- Quigley
+- Connolly
+- Poliakoff
+- Apolline Delacour
+- Fred Weasley II
+- Roxanne Weasley
+- Molly Weasley II
+- Lucy Weasley
+- Dominique Weasley
+- Louis Weasley
+- Audrey Weasley
+- Septimus Weasley
+- Cedrella Weasley
+- Bilius — Uncle Bilius
+- Cygnus Black
+- Druella Rosier
+- Alphard Black
+- Arcturus Black
+- Orion Black
+- Elladora Black — Aunt Elladora | Elladora
+- Araminta Meliflua — Meliflua
+- Algie Longbottom — Great Uncle Algie | Uncle Algie | Algie
+- Henry Shaw Sr
+- Henry Shaw Jr
+- Langdon Shaw
+- Anton Vogel — Vogel
+- Vicência Santos — Santos
+- Liu Tao — Tao
+- Krall
+- Grimmson — Gunnar Grimmson
+- Skender
+- Irma Dugard — Dugard
+- Helmut
+- Rudolph Spielman — Spielman
+- Arnold Guzman — Guzman
+- Mr Bingley
+- Yann Fredericks — Fredericks
+- Polly Chapman — Chapman
+- Karl Jenkins — Jenkins
+- Agnes
+- Bozo
+- Betty Braithwaite — Braithwaite
+- Myron Wagtail — Wagtail
+- Eldred Worple — Worple
+- Malcolm
+- Gordon
+- Snowy
+- Mr Paws
+- Tufty
+- Doris Crockford
+- Moon
+- Sally-Anne Perks
+- Alberic Grunnion
+- Miranda Goshawk
+- Adalbert Waffling
+- Emeric Switch
+- Phyllida Spore
+- Arsenius Jigger
+- Quentin Trimble
+- Vindictus Viridian
+- Great Auntie Enid — Auntie Enid | Enid
+- Olive Hornby
+- Veronica Smethley
+- Gladys Gudgeon
+- Madam Marsh
+- Colonel Fubster
+- Cassandra Vablatsky
+- Derek
+- Archie
+- Otto Bagman
+- Ali Bashir
+- Croaker
+- Emma Dobbs
+- Barry Ryan
+- Mr Oblansk — Oblansk | Obalonsk | Mr Obalonsk
+- Elfric the Eager
+- Ogg
+- Apollyon Pringle — Pringle
+- Perkins
+- Morag MacDougal — Morag McDougal
+- Bradley
+- Chambers
+- Professor Tofty — Tofty
+- Cassandra Trelawney
+- Benjy Fenwick
+- Edgar Bones
+- Caradoc Dearborn
+- Dorcas Meadowes
+- Stubby Boardman
+- Doris Purkiss
+- Madam Edgecombe
+- Herbert Chorley
+- Martha
+- Libatius Borage
+- Wilkie Twycross — Twycross
+- Abraxas Malfoy — Abraxas
+- Mary Macdonald
+- Ivor Dillonsby
+- Egbert the Egregious — Egbert
+- Godelot
+- Hereward
+- Barnabas Deverill
+- Loxias
+- Arcus
+- Livius
+- Brutus Malfoy
+- Beatrix Bloxam
+- Gertie Keddle
+- Goodwin Kneen
+- Barberus Bragge
+- Zacharias Mumps
+- Dai Llewellyn
+- Modesty Rabnott
+- Brutus Scrimgeour
+- Ladislaw Zamojski
+- Grogan Stump
+- Burdock Muldoon
+- Mustafa Kama
+- Laurena Kama — Laurena
+- Carrow
+
+### Tier 6: rare jackpots (3)
+
+- Fridwulfa
+- Silvanus Kettleburn — Professor Kettleburn | Kettleburn
+- Mr Tibbles — Tibbles
+
+## Refused on purpose (16)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Daniel Radcliffe | Emma Watson | Rupert Grint | Alan Rickman | Maggie Smith | Robbie Coltrane | Tom Felton | Michael Gambon | Richard Harris | Ralph Fiennes | Helena Bonham Carter | Eddie Redmayne | Gary Oldman | Imelda Staunton | Evanna Lynch | Matthew Lewis | Bonnie Wright | Jason Isaacs | David Thewlis | Kenneth Branagh | Emma Thompson | Robert Pattinson | Johnny Depp | Mads Mikkelsen | Jude Law | Brendan Gleeson | Jim Broadbent | Katherine Waterston | Dan Fogler | Ezra Miller | Colin Farrell | Warwick Davis | John Lithgow | Paapa Essiedu | Nick Frost | Janet McTeer | Dominic McLaughlin | Arabella Stanton | Alastair Stout — "An actor from the films, not a character."
+- J. K. Rowling | Rowling | Robert Galbraith | Joanne Rowling — "The author, not a character."
+- Gandalf | Saruman | Radagast | Frodo | Bilbo | Gollum | Legolas — "Tolkien's, not Rowling's."
+- Percy Jackson — "Rick Riordan's demigod, not Rowling's."
+- Mildred Hubble | The Worst Witch — "Jill Murphy's Worst Witch, who went to a school for witches years before Harry."
+- Hogwarts | Hogsmeade | Diagon Alley | Gringotts | The Burrow | Azkaban | Privet Drive | Godric's Hollow | Little Hangleton | Knockturn Alley | Grimmauld Place | Platform Nine and Three-Quarters | Shell Cottage — "A place, not a character."
+- Dementor | Dementors — "A whole race of prison guards, not one character."
+- House-elf | Hippogriff | Thestral | Centaur | Giant | Goblin | Werewolf | Phoenix | Dragon | Owl | Acromantula | Niffler | Bowtruckle | Boggart | Inferius | Inferi | Pygmy Puff — "A kind of creature. Name one."
+- Muggle | Squib | Wizard | Witch | Auror | Animagus | Metamorphmagus — "A kind of person in the books, not a character."
+- Golden Snitch | Snitch | Bludger | Quaffle — "A ball, not a character."
+- Whomping Willow — "A violent tree, not a character."
+- Mirror of Erised | Marauder's Map | Elder Wand | Invisibility Cloak | Philosopher's Stone | Sorcerer's Stone | Horcrux | Deathly Hallows | Resurrection Stone | Tom Riddle's Diary | Goblet of Fire | Remembrall | Howler — "A magical object, not a character."
+- Dumbledore's Army | Order of the Phoenix | Death Eaters | The Marauders | The Golden Trio | Weird Sisters | Snatchers — "A group, not one character."
+- Fred and George | The Weasley Twins | Gred and Forge — "One twin at a time."
+- Sebastian Sallow | Ominis Gaunt | Poppy Sweeting | Natsai Onai | Eleazar Fig | Professor Fig | Victor Rookwood — "From the Hogwarts Legacy video game, not the books or films."
+- Nigel | Nigel Wolpert — "Only in the Harry Potter films, not the books."

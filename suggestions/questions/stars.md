@@ -1,0 +1,772 @@
+# Name a star other than the Sun.
+
+Question id: `stars` · category: science · source: `data/science.json`
+
+Rules: Any star except the Sun, alive or dead: its traditional or official IAU name, or a well-known catalogue name like Alpha Centauri. Planets, brown dwarfs, black holes, clusters and galaxies don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (698 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Alpha Centauri — Alpha Cen | Alpha Centaurus | Alpha Centauri AB | Alpha Centauri system | Bungula | Centauri
+- Betelgeuse — Betelgeux | Betelgeuze | Beetlejuice | Alpha Orionis | Ardra | Betelgeuse A | Alpha Orionis A
+- Polaris — North Star | Pole Star | Northern Star | North Pole Star | Lodestar | Alpha Ursae Minoris | Stella Polaris | Cynosura | Dhruva | Dhruva Tara | Dhruv Tara | Polaris A
+- Proxima Centauri — Proxima | Alpha Centauri C | Proxima Cen | Proxima Centaurus | Gliese 551 | GJ 551
+- Rigel — Beta Orionis | Rigel A | Puanga | Puaka
+- Sirius — Dog Star | Alpha Canis Majoris | Sirius A | Sothis | Sopdet | Canicula | Lubdhaka | Tianlang | Takurua
+- Vega — Alpha Lyrae | Wega | Abhijit | Zhinu | Weaver Girl | Orihime
+
+### Tier 2: common (26)
+
+- VY Canis Majoris — VY CMa | VY Canis Major
+- UY Scuti — UY Sct
+- Achernar — Alpha Eridani
+- Alcor — 80 Ursae Majoris | Arundhati
+- Aldebaran — Alpha Tauri | Eye of the Bull | Bull's Eye | Rohini
+- Algol — Beta Persei | Demon Star | Demon's Head
+- Alnilam — Epsilon Orionis
+- Alnitak — Zeta Orionis
+- Altair — Alpha Aquilae | Shravana | Niulang | Cowherd | Hikoboshi
+- Antares — Alpha Scorpii | Heart of the Scorpion | Cor Scorpii | Jyeshtha
+- Arcturus — Alpha Boötis | Guardian of the Bear | Swati | Hokulea
+- Barnard's Star — Barnard's | Barnard's Runaway Star | Gliese 699 | GJ 699
+- Bellatrix — Gamma Orionis | Amazon Star
+- Canopus — Alpha Carinae | Agastya | Atutahi | Old Man Star | Nanji Laoren
+- Capella — Alpha Aurigae | Goat Star
+- Castor — Alpha Geminorum
+- Deneb — Alpha Cygni | Deneb Cygni | Arided
+- Dubhe — Alpha Ursae Majoris
+- Fomalhaut — Alpha Piscis Austrini
+- Mintaka — Delta Orionis
+- Mira — Omicron Ceti | Mira Ceti
+- Mizar — Zeta Ursae Majoris | Vasishtha | Vashistha
+- Pollux — Beta Geminorum
+- Procyon — Alpha Canis Minoris | Procyon A | Little Dog Star
+- Regulus — Alpha Leonis | Cor Leonis | Heart of the Lion | Magha
+- Spica — Alpha Virginis | Chitra | Azimech
+
+### Tier 3: known to fans (90)
+
+- Eta Carinae — Eta Car | Eta Argus
+- Sirius B — The Pup | Alpha Canis Majoris B
+- Tau Ceti — Tau Cet | Gliese 71
+- Wolf 359 — CN Leonis | Gliese 406 | GJ 406
+- 61 Cygni — Bessel's Star | Piazzi's Flying Star | 61 Cyg | Gliese 820
+- TRAPPIST-1 — TRAPPIST
+- Tabby's Star — Boyajian's Star | Boyajian | KIC 8462852 | WTF Star | Tabby
+- Stephenson 2-18 — Stephenson 2 DFK 1 | St2-18
+- R136a1 — RMC 136a1
+- Zeta Reticuli — Zeta Ret
+- Delta Cephei — Delta Cep
+- Beta Pictoris — Beta Pic
+- Acrux — Alpha Crucis
+- Adhara — Epsilon Canis Majoris
+- Albireo — Beta Cygni
+- Alcyone — Eta Tauri
+- Alderamin — Alpha Cephei
+- Algenib — Gamma Pegasi
+- Algieba — Gamma Leonis
+- Alhena — Gamma Geminorum
+- Alioth — Epsilon Ursae Majoris
+- Alkaid — Eta Ursae Majoris | Benetnash | Benetnasch
+- Almach — Gamma Andromedae | Alamak
+- Alnair — Alpha Gruis
+- Alphard — Alpha Hydrae | Cor Hydrae
+- Alphecca — Alpha Coronae Borealis | Gemma
+- Alpheratz — Alpha Andromedae | Sirrah
+- Ankaa — Alpha Phoenicis
+- Asterope — 21 Tauri | Sterope
+- Atlas — 27 Tauri
+- Atria — Alpha Trianguli Australis
+- Avior — Epsilon Carinae
+- Caph — Beta Cassiopeiae
+- Celaeno — 16 Tauri
+- Cor Caroli — Alpha Canum Venaticorum
+- Denebola — Beta Leonis
+- Diphda — Beta Ceti | Deneb Kaitos
+- Electra — 17 Tauri
+- Elnath — Beta Tauri | Alnath
+- Eltanin — Gamma Draconis | Etamin
+- Enif — Epsilon Pegasi
+- Gacrux — Gamma Crucis
+- Gomeisa — Beta Canis Minoris
+- Hadar — Beta Centauri | Agena
+- Hamal — Alpha Arietis
+- 51 Pegasi — Helvetios | 51 Peg
+- Izar — Epsilon Boötis | Pulcherrima
+- Kaus Australis — Epsilon Sagittarii
+- Kochab — Beta Ursae Minoris
+- Maia — 20 Tauri
+- Markab — Alpha Pegasi | Marchab
+- Megrez — Delta Ursae Majoris
+- Meissa — Lambda Orionis | Heka
+- Menkalinan — Beta Aurigae
+- Menkar — Alpha Ceti
+- Menkent — Theta Centauri
+- Merak — Beta Ursae Majoris
+- Merope — 23 Tauri
+- Miaplacidus — Beta Carinae
+- Mimosa — Beta Crucis | Becrux
+- Mirach — Beta Andromedae
+- Mirfak — Alpha Persei | Mirphak | Marfak
+- Mirzam — Beta Canis Majoris | Murzim
+- Naos — Zeta Puppis
+- Nunki — Sigma Sagittarii
+- Peacock — Alpha Pavonis
+- Phecda — Gamma Ursae Majoris | Phad
+- Pleione — 28 Tauri
+- Polaris Australis — Sigma Octantis | South Star | South Pole Star | Southern Pole Star
+- Epsilon Eridani — Ran | Epsilon Eri | 18 Eridani | Gliese 144
+- Rasalgethi — Alpha Herculis
+- Rasalhague — Alpha Ophiuchi
+- Rigil Kentaurus — Alpha Centauri A | Rigil Kent | Rigel Kentaurus
+- Ruchbah — Delta Cassiopeiae
+- Sadr — Gamma Cygni
+- Saiph — Kappa Orionis
+- Sargas — Theta Scorpii
+- Scheat — Beta Pegasi
+- Schedar — Alpha Cassiopeiae | Shedir
+- Shaula — Lambda Scorpii
+- Suhail — Lambda Velorum
+- Taygeta — 19 Tauri
+- Thuban — Alpha Draconis
+- Toliman — Alpha Centauri B
+- Vindemiatrix — Epsilon Virginis
+- Wezen — Delta Canis Majoris
+- Zubenelgenubi — Alpha Librae
+- Zubeneschamali — Beta Librae
+- Garnet Star — Mu Cephei | Herschel's Garnet Star | Erakis
+- Blaze Star — T Coronae Borealis | T CrB | T Cor Bor
+
+### Tier 4: obscure (193)
+
+- Lalande 21185 — Gliese 411
+- Luyten's Star — Gliese 273 | Luyten
+- Van Maanen's Star — Van Maanen 2 | Van Maanen | Gliese 35
+- Kapteyn's Star — Gliese 191 | Kapteyn
+- Teegarden's Star — Teegarden
+- Ross 128 — FI Virginis | Gliese 447 | GJ 447
+- Gliese 581 — GJ 581
+- Kepler-452
+- Kepler-22
+- Kepler-186
+- K2-18
+- Epsilon Indi — Epsilon Ind | Gliese 845
+- Procyon B
+- Pistol Star
+- P Cygni — 34 Cygni
+- Rho Cassiopeiae — Rho Cas
+- VV Cephei
+- RR Lyrae
+- R Coronae Borealis — R CrB
+- T Tauri
+- V838 Monocerotis — V838 Mon
+- Hind's Crimson Star — R Leporis
+- Crab Pulsar — PSR B0531+21 | SN 1054
+- Vela Pulsar — PSR B0833-45
+- WR 124 — Wolf-Rayet 124
+- Plaskett's Star — HR 2422 | Plaskett
+- Gamma Velorum — Regor | Gamma Vel
+- Acamar — Theta Eridani
+- Achird — Eta Cassiopeiae
+- Acrab — Beta Scorpii | Graffias
+- Acubens — Alpha Cancri
+- Adhafera — Zeta Leonis
+- Ain — Epsilon Tauri
+- Albaldah — Pi Sagittarii
+- Albali — Epsilon Aquarii
+- Alchiba — Alpha Corvi
+- Aldhanab — Gamma Gruis
+- Aldhibah — Zeta Draconis
+- Alfirk — Beta Cephei
+- Algedi — Alpha Capricorni | Giedi
+- Algorab — Delta Corvi
+- Aljanah — Epsilon Cygni | Gienah Cygni
+- Alkalurops — Mu Boötis
+- Alkarab — Upsilon Pegasi
+- Alkes — Alpha Crateris
+- Almaaz — Epsilon Aurigae
+- Alnasl — Gamma Sagittarii
+- Alniyat — Sigma Scorpii
+- Alpherg — Eta Piscium
+- Alrakis — Mu Draconis | Arrakis | Errakis
+- Alrescha — Alpha Piscium | Alrisha
+- Alsafi — Sigma Draconis
+- Alsephina — Delta Velorum
+- Alshain — Beta Aquilae
+- Alshat — Nu Capricorni
+- Altais — Delta Draconis
+- Alterf — Lambda Leonis
+- Aludra — Eta Canis Majoris
+- Alula Australis — Xi Ursae Majoris
+- Alula Borealis — Nu Ursae Majoris
+- Alya — Theta Serpentis
+- Alzirr — Xi Geminorum
+- Ancha — Theta Aquarii
+- Arkab Posterior
+- Arkab Prior
+- Arneb — Alpha Leporis
+- Ascella — Zeta Sagittarii
+- Asellus Australis — Delta Cancri
+- Asellus Borealis — Gamma Cancri
+- Ashlesha — Epsilon Hydrae
+- Aspidiske — Iota Carinae
+- Atik — Omicron Persei
+- Azha — Eta Eridani
+- Azmidi — Xi Puppis
+- Baten Kaitos — Zeta Ceti
+- Bharani — 41 Arietis
+- Biham — Theta Pegasi
+- Botein — Delta Arietis
+- Brachium — Sigma Librae
+- Cebalrai — Beta Ophiuchi
+- Chara — Beta Canum Venaticorum | Asterion
+- Chertan — Theta Leonis | Chort
+- Copernicus — 55 Cancri
+- Cursa — Beta Eridani
+- Dabih — Beta Capricorni
+- Deneb Algedi — Delta Capricorni
+- Diadem — Alpha Comae Berenices
+- Dschubba — Delta Scorpii
+- Dziban — Psi1 Draconis | Psi Draconis
+- Edasich — Iota Draconis
+- Errai — Gamma Cephei
+- Fawaris — Delta Cygni
+- Fumalsamakah — Beta Piscium
+- Furud — Zeta Canis Majoris
+- Geminga
+- Giausar — Lambda Draconis
+- Gienah — Gamma Corvi | Gienah Corvi | Gienah Ghurab
+- Ginan — Epsilon Crucis
+- Grumium — Xi Draconis
+- Haedus — Eta Aurigae
+- Hassaleh — Iota Aurigae
+- Heze — Zeta Virginis
+- Homam — Zeta Pegasi
+- Iklil — Rho Scorpii
+- Imai — Delta Crucis
+- Jabbah — Nu Scorpii
+- Kaffaljidhma — Gamma Ceti
+- Kaus Borealis — Lambda Sagittarii
+- Kaus Media — Delta Sagittarii | Kaus Meridionalis
+- Keid — 40 Eridani A | Omicron2 Eridani | 40 Eridani
+- Kitalpha — Alpha Equulei
+- Kornephoros — Beta Herculis | Rutilicus
+- Kraz — Beta Corvi
+- Kurhah — Xi Cephei
+- La Superba — Y Canum Venaticorum
+- Lesath — Upsilon Scorpii
+- Maasym — Lambda Herculis
+- Mahasim — Theta Aurigae
+- Marfik — Lambda Ophiuchi
+- Markeb — Kappa Velorum
+- Matar — Eta Pegasi
+- Mebsuta — Epsilon Geminorum
+- Mekbuda — Zeta Geminorum
+- Menkib — Xi Persei
+- Meridiana — Alpha Coronae Australis
+- Mesarthim — Gamma Arietis
+- Minchir — Sigma Hydrae
+- Minelauva — Delta Virginis | Auva
+- Miram — Eta Persei
+- Misam — Kappa Persei
+- Mothallah — Alpha Trianguli
+- Muliphein — Gamma Canis Majoris
+- Muphrid — Eta Boötis
+- Muscida — Omicron Ursae Majoris
+- Nashira — Gamma Capricorni
+- Nekkar — Beta Boötis
+- Nihal — Beta Leporis
+- Nusakan — Beta Coronae Borealis
+- Okab — Zeta Aquilae | Deneb el Okab
+- Phact — Alpha Columbae
+- Pherkad — Gamma Ursae Minoris
+- Porrima — Gamma Virginis
+- Prima Hyadum — Gamma Tauri
+- Propus — Eta Geminorum
+- Rana — Delta Eridani
+- Rasalas — Mu Leonis
+- Rastaban — Beta Draconis
+- Revati — Zeta Piscium
+- Rotanev — Beta Delphini
+- Rukbat — Alpha Sagittarii
+- Sabik — Eta Ophiuchi
+- Saclateni — Zeta Aurigae
+- Sadachbia — Gamma Aquarii
+- Sadalbari — Mu Pegasi
+- Sadalmelik — Alpha Aquarii
+- Sadalsuud — Beta Aquarii
+- Salm — Tau Pegasi
+- Sarin — Delta Herculis
+- Secunda Hyadum — Delta1 Tauri
+- Segin — Epsilon Cassiopeiae
+- Seginus — Gamma Boötis
+- Sheliak — Beta Lyrae
+- Sheratan — Beta Arietis
+- Situla — Kappa Aquarii
+- Skat — Delta Aquarii | Scheat Aquarii
+- Sualocin — Alpha Delphini
+- Subra — Omicron Leonis
+- Sulafat — Gamma Lyrae
+- Syrma — Iota Virginis
+- Talitha — Iota Ursae Majoris | Dnoces
+- Tania Australis — Mu Ursae Majoris
+- Tania Borealis — Lambda Ursae Majoris
+- Tarazed — Gamma Aquilae
+- Tarf — Beta Cancri
+- Tejat — Mu Geminorum
+- Tianguan — Zeta Tauri
+- Titawin — Upsilon Andromedae
+- Torcular — Omicron Piscium
+- Tureis — Rho Puppis
+- Ukdah — Iota Hydrae
+- Unukalhai — Alpha Serpentis | Cor Serpentis
+- Wasat — Delta Geminorum
+- Wazn — Beta Columbae
+- Yed Posterior — Epsilon Ophiuchi
+- Yed Prior — Delta Ophiuchi
+- Yildun — Delta Ursae Minoris
+- Zaniah — Eta Virginis
+- Zaurak — Gamma Eridani
+- Zavijava — Beta Virginis | Zavijah
+- Zosma — Delta Leonis
+- Zubenelhakrabi — Gamma Librae
+- Gamma Cassiopeiae — Tiansi | Navi | Gamma Cas
+- Epsilon Lyrae — Double Double | Double Double star | Epsilon Lyr
+
+### Tier 5: expert (379)
+
+- Ross 154 — V1216 Sagittarii | Gliese 729
+- Ross 248 — HH Andromedae | Gliese 905
+- Gliese 1061
+- Luyten 726-8 — UV Ceti | BL Ceti | Gliese 65
+- YZ Ceti
+- Struve 2398 — Gliese 725
+- Groombridge 34 — Gliese 15
+- Lacaille 9352 — Gliese 887
+- Lacaille 8760 — AX Microscopii | Gliese 825
+- Kruger 60 — Gliese 860
+- Wolf 1061 — Gliese 628
+- EZ Aquarii
+- DX Cancri
+- Gliese 667 C — Gliese 667
+- Gliese 876
+- Gliese 710
+- Gliese 12
+- Scholz's Star — Scholz
+- LHS 1140
+- TOI-700
+- Kepler-16
+- Kepler-90
+- Kepler-62
+- Kepler-442
+- HR 8799
+- HD 209458
+- HD 189733
+- WASP-12
+- AU Microscopii — AU Mic
+- 18 Scorpii
+- 40 Eridani B
+- BPM 37093 — Lucy | Diamond Star
+- WOH G64
+- Westerlund 1-26 — W26
+- KY Cygni
+- NML Cygni
+- HR 5171
+- RW Cephei
+- LBV 1806-20
+- Chi Cygni
+- W Ursae Majoris
+- FU Orionis
+- Zeta Ophiuchi
+- WR 104
+- WR 140
+- HDE 226868
+- SS 433
+- Sakurai's Object — V4334 Sagittarii
+- Babcock's Star — HD 215441
+- PSR B1919+21 — CP 1919 | LGM-1
+- Hulse-Taylor Pulsar — PSR B1913+16 | Hulse-Taylor Binary
+- SGR 1806-20
+- RX J1856.5-3754
+- Double Pulsar — PSR J0737-3039
+- Tycho's Star — Tycho's Supernova | Tycho's Nova | SN 1572 | B Cassiopeiae
+- Kepler's Star — Kepler's Supernova | Kepler's Nova | SN 1604 | Kepler
+- Sanduleak -69 202 — SN 1987A | Sanduleak | Supernova 1987A
+- Earendel — WHL0137-LS
+- Absolutno
+- Adhil — Xi Andromedae
+- Ainalrami — Nu1 Sagittarii | Nu Sagittarii
+- Aladfar — Eta Lyrae
+- Alasia
+- Aldulfin
+- Alkaphrah — Kappa Ursae Majoris
+- Alruba
+- Alsciaukat — 31 Lyncis
+- Amadioha
+- Amansinaya
+- Anadolu
+- Angetenar — Tau2 Eridani
+- Aniara
+- Anser
+- Arcalis
+- Atakoraka
+- Athebyne
+- Axolotl
+- Ayeyarwady
+- Azelfafage
+- Baekdu
+- Beemim — Upsilon3 Eridani
+- Beid — Omicron1 Eridani
+- Belel
+- Belenos
+- Berehynia
+- Bibha
+- Bosona
+- Bubup
+- Buna
+- Bunda — Xi Aquarii
+- Castula — Upsilon2 Cassiopeiae | Upsilon Cassiopeiae
+- Ceibo
+- Cervantes — Mu Arae
+- Chalawan — 47 Ursae Majoris
+- Chamukuy — Theta2 Tauri
+- Chaophraya
+- Chason
+- Chechia
+- Citadelle
+- Citala
+- Cocibolca
+- Cujam
+- Dalim — Alpha Fornacis
+- Dingolay
+- Diwo
+- Diya
+- Dofida
+- Dombay
+- Ebla
+- Elgafar — Phi Virginis
+- Elkurud — Theta Columbae
+- Emiw
+- Fafnir — 42 Draconis
+- Fang — Pi Scorpii
+- Felis
+- Felixvarela
+- Flegetonte
+- Formosa
+- Franz
+- Fulu — Zeta Cassiopeiae
+- Funi
+- Fuyue
+- Gakyid
+- Gloas
+- Gudja — Kappa Serpentis
+- Gumala
+- Guniibuu — 36 Ophiuchi
+- Hatysa — Iota Orionis
+- Hoggar
+- Horna
+- Hunahpu
+- Hunor
+- Illyrian
+- Inquill
+- Intan
+- Intercrus — 41 Lyncis
+- Irena
+- Itonda
+- Jishui — Omicron Geminorum
+- Kalausi
+- Kamuy
+- Kang — Kappa Virginis
+- Karaka
+- Kaveh
+- Khambalia — Lambda Virginis
+- Koeia
+- Koit
+- Larawag — Epsilon Scorpii
+- Lerna
+- Libertas — Xi Aquilae
+- Lich — PSR B1257+12
+- Liesma
+- Lilii Borea — 39 Arietis
+- Lionrock
+- Lucilinburhuc
+- Lusitania
+- Macondo
+- Mago
+- Mahsati
+- Malmok
+- Marohu
+- Marsic — Kappa Herculis
+- Mazaalai
+- Meleph — Epsilon Cancri
+- Merga — 38 Boötis
+- Moldoveanu
+- Monch
+- Montuno
+- Morava
+- Moriah
+- Mouhoun
+- Mpingo
+- Musica — 18 Delphini
+- Muspelheim
+- Nahn
+- Naledi
+- Nasti
+- Natasha
+- Nembus — 51 Andromedae
+- Nenque
+- Nervia
+- Nganurganity — Sigma Canis Majoris | Unurgunite
+- Nikawiy
+- Nosaxa
+- Nushagak
+- Nyamien
+- Ogma
+- Paikauhale — Tau Scorpii
+- Parumleo
+- Petra
+- Phoenicia
+- Piautos
+- Pincoya
+- Pipirima — Mu2 Scorpii
+- Pipoltr
+- Poerava
+- Polis — Mu Sagittarii
+- Praecipua — 46 Leonis Minoris
+- Rapeto
+- Rosaliadecastro
+- Sagarmatha
+- Samaya
+- Sansuna
+- Sceptrum — 53 Eridani
+- Sham — Alpha Sagittae
+- Shama
+- Sharjah
+- Sika
+- Solaris
+- Sterrennacht
+- Stribor
+- Tabit — Pi3 Orionis | Pi Orionis
+- Taika
+- Taiyangshou
+- Taiyi
+- Tangra
+- Tapecue
+- Tegmine — Zeta1 Cancri | Zeta Cancri
+- Terebellum — Omega Sagittarii
+- Tevel
+- Theemin — Upsilon2 Eridani
+- Tiaki — Beta Gruis
+- Tianyi
+- Timir
+- Tislit
+- Tojil
+- Tonatiuh — HD 104985
+- Tuiren
+- Tupa
+- Tupi
+- Uklun
+- Uruk
+- Veritate — 14 Andromedae
+- Wurren — Zeta Phoenicis
+- Xamidimura — Mu1 Scorpii | Mu Scorpii
+- Xihe
+- Xuange — Lambda Boötis
+- Zhang — Upsilon1 Hydrae | Upsilon Hydrae
+- Zibal — Zeta Eridani
+- Orkaria — Gliese 1214 | GJ 1214
+- Kaewkosin — Gliese 3470 | GJ 3470
+- Añañuca — Gliese 367 | GJ 367
+- Noquisi — Gliese 436 | GJ 436
+- Gar — Gliese 486 | GJ 486
+- Komondor — HAT-P-12
+- Guahayona — HAT-P-26
+- Zembra — HATS-72
+- Aiolos — HD 95086
+- Matza — HIP 65426
+- Danfeng — L 168-9
+- Batsũ̀ — LHS 3844
+- Uúba — LTT 9779
+- Dilmun — WASP-121
+- Filetdor — WASP-166
+- Wattle — WASP-19
+- Gnomon — WASP-43
+- Kosjenka — WASP-63
+- Wouri — WASP-69
+- Maru — WD 0806-661
+- Antinous — Theta Aquilae
+- Bake-eo — Gamma Ophiuchi
+- Hoerikwaggo — Alpha Mensae
+- Lang-Exster — Alpha Tucanae | Lang | Exster
+- Leepwal — Zeta Centauri
+- Phyllon Kissinou — 23 Comae Berenices | Phyllon | Kissinou
+- Pipit — HR 2451
+- Rhombus — Alpha Reticuli
+- Safina — 88 Aquarii
+- Shaomin — Rho Leonis
+- Solitaire — 58 Hydrae
+- Stellio — Alpha Lacertae
+- Tengshe — V424 Lacertae
+- Tianfu — Tau Aquilae
+- Uridim — Alpha Lupi
+- Xami — Alpha Circini
+- Yunü — 31 Leonis
+- Zhou — Beta Serpentis
+- Alaybasan — Beta Trianguli
+- Áldu — Epsilon Persei
+- Alfarasalkamil — Omicron Andromedae
+- Apamvatsa — 74 Virginis
+- Apdu — Gamma Trianguli
+- Bagu — Delta Aurigae
+- Bodu — 95 Herculis
+- Cexing — Kappa Cassiopeiae
+- Custos — BE Camelopardalis
+- Dajiangjunbei — Phi Persei
+- Deltoton — Delta Trianguli
+- Gang — 50 Cassiopeiae
+- Heng — Nu Centauri
+- Honores — 7 Andromedae
+- Huagai — Iota Cassiopeiae
+- Hydor — 2 Ceti
+- Junnanmen — Phi Andromedae
+- Kaffalmusalsala — Kappa Andromedae
+- Kamelos — HR 2363
+- Kui — Eta Andromedae
+- Kulou — Iota Centauri
+- Paradys — Alpha Apodis
+- Quadrans — 44 Boötis
+- Ramus — 102 Herculis
+- Rangifer — 49 Cassiopeiae
+- Rasalnaqa — Iota Andromedae
+- Sarvvis — Delta Persei
+- Shangcheng — HR 932
+- Shangwei — HR 2209
+- Shaowei — Gamma Camelopardalis
+- Shatabhisha — Lambda Aquarii
+- Shengong — HR 6298
+- Shimu — Zeta Andromedae
+- Tarandus — 2 Ursae Minoris
+- Triminus — 6 Trianguli
+- Tusizuo — 109 Herculis
+- Udkadua — Lambda Andromedae
+- Gliese 229 — Gliese 229 A | GJ 229 | GJ 229 A
+- Kappa Scorpii — Girtab | Kappa Sco
+- Tyl — Epsilon Draconis
+- Zeta Herculis
+- Algenubi — Epsilon Leonis | Ras Elased Australis
+- Nova Persei 1901 — GK Persei | Nova Persei
+- U Geminorum — U Gem
+- Eta Aquilae — Eta Aql
+- Sigma Orionis
+- Theta1 Orionis C — Theta1 Ori C
+- VX Sagittarii
+- Delta Pavonis
+- Groombridge 1830 — Argelander's Star | Gliese 451
+- Groombridge 1618 — Gliese 380
+- Van Biesbroeck's Star — VB 10 | Gliese 752 B
+- Scorpius X-1 — Sco X-1
+- SN 1006 — Supernova 1006
+- SN 185 — Supernova 185
+- R Doradus
+- RS Ophiuchi — RS Oph
+- SS Cygni
+- S Doradus
+- AG Carinae
+- Delta Scuti
+- HL Tauri — HL Tau
+- TW Hydrae — TW Hya
+- PDS 70
+- Icarus — MACS J1149 Lensed Star 1 | MACS J1149+2223 Lensed Star 1
+- Beta Hydri
+- 82 Eridani
+- 70 Ophiuchi
+- 16 Cygni
+- Gliese 445
+- Gliese 832
+- Kepler-10
+- Kepler-11
+- Kepler-47
+- Kepler-444
+- Kepler-1649
+- Cygnus OB2-12
+- WR 102
+- Kronos — HD 240430
+- Krios — HD 240429
+- Calvera — 1RXS J141256.0+792204 | PSR J1412+7922
+- Stella Ludoviciana — Sidus Ludovicianum | Ludwig's Star | HD 116798
+- Pherkad Minor — 11 Ursae Minoris | 11 UMi
+- Maenalus — 109 Virginis
+- Alrumh — 34 Boötis
+- Genghe — Sigma Boötis
+- Kalasungsang — Rho Boötis
+- Qigong — Delta Boötis A | Delta Boötis
+- Tepiamenit
+- Sapaki — WR 67a
+- Bajamar Star — 2MASS J20555125+4352246
+- Holoea — IRAS 05327+3404
+- Paloma — 2MASS J05243042+4244506
+- Ping — Epsilon Leporis
+- Bade — Mu Leporis
+- Darlugal — Zeta Leporis
+- Udang
+- Gaja — Tau Tauri Aa | Tau Tauri
+- Lumbung — CH Crucis
+- Yuyu
+- Naga — Gamma Hydrae A | Gamma Hydrae
+- Tonglingxing — HIP 33694
+
+### Tier 6: rare jackpots (3)
+
+- Przybylski's Star — HD 101065 | Przybylski | Pryzbylski's Star
+- Methuselah Star — Methuselah | HD 140283
+- Siwarha — Betelgeuse's Companion | Companion of Betelgeuse
+
+## Refused on purpose (40)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Sun | Sol | Our Sun | Helios | Surya | Daystar — "The one star the question rules out."
+- Venus | Morning Star | Evening Star | Lucifer | Hesperus | Phosphorus | Vesper | Shukra — "A planet. It shines so brightly at dawn and dusk that it was called the morning and evening star."
+- Jupiter — "A planet, though it often outshines every star in the night sky."
+- Mars | Red Planet — "A planet. Its red glow is reflected sunlight."
+- Saturn | Mercury | Uranus | Neptune | Earth | Planet — "A planet, not a star."
+- Pluto | Ceres | Eris — "A dwarf planet, not a star."
+- Planet Nine | Planet X | Nibiru — "A planet that may or may not exist, and no star either way."
+- Nemesis — "A companion star for the Sun was once proposed, but it has never been found."
+- Moon | Luna — "The Moon shines only by borrowed sunlight."
+- Halley's Comet | Halley | Comet | Hale-Bopp | Comet Hale-Bopp — "A comet, not a star."
+- Shooting star | Falling star | Meteor | Meteorite | Fireball — "A meteor: a speck of space dust burning up in the air."
+- International Space Station | ISS | Space station — "A space station, shining by reflected sunlight. It is often mistaken for a star."
+- Orion | The Hunter — "A constellation, the Hunter. Name one of its stars."
+- Orion's Belt | Belt of Orion — "Three stars in a row. Name one of them."
+- Ursa Major | Great Bear | Big Dipper | Plough | Plow | Saptarishi | Charles's Wain | Ursa Minor | Little Bear | Little Dipper — "A constellation, and its famous pattern of stars. Name one of the stars."
+- Southern Cross — "A constellation, not a single star. Name one of its stars."
+- Pointers | Southern Pointers — "Two stars, not one. Name either of them."
+- Cassiopeia | Scorpius | Scorpio | Taurus | Gemini | Cancer | Leo | Virgo | Libra | Sagittarius | Capricorn | Capricornus | Aquarius | Pisces | Aries | Cygnus | Lyra | Pegasus | Perseus | Draco | Hercules | Aquila | Centaurus | Canis Major | Canis Minor | Auriga | Boötes | Cepheus | Ophiuchus | Eridanus | Carina | Phoenix | Constellation | Zodiac — "A constellation, not a single star. Name one of its stars."
+- Andromeda | Andromeda Galaxy | M31 — "A constellation, and a galaxy, but not a star. Name one of its stars."
+- Summer Triangle | Winter Triangle | Spring Triangle | Winter Hexagon | Great Square of Pegasus | Asterism — "Three bright stars, not one. Name one of them."
+- Pleiades | Seven Sisters | Subaru | Matariki | Krittika | M45 | Messier 45 — "A cluster, the Seven Sisters. Name one of the sisters."
+- Hyades | Beehive Cluster | Praesepe | Jewel Box | Star cluster | Globular cluster | Open cluster | Trapezium | Trapezium Cluster | Theta Orionis | Theta1 Orionis — "A cluster of stars, not a single one."
+- Omega Centauri | Omega Cen — "A globular cluster of millions of stars. Ptolemy listed it as one star."
+- 47 Tucanae | 47 Tuc — "A globular cluster of about a million stars, not one star."
+- Milky Way | Galaxy | Magellanic Clouds | Large Magellanic Cloud | Small Magellanic Cloud | Triangulum Galaxy | Whirlpool Galaxy | Sombrero Galaxy — "Our galaxy, not a star. It holds a few hundred billion of them."
+- Black hole | Sagittarius A* | Sgr A* | Cygnus X-1 | M87* | Powehi | Gargantua | Gaia BH1 | Gaia BH2 | Gaia BH3 — "Not a star, though many began as one."
+- Quasar | Blazar | 3C 273 — "The blazing heart of a distant galaxy, not a star."
+- Crab Nebula | Nebula | Orion Nebula | Horsehead Nebula | Ring Nebula | Eagle Nebula | Pillars of Creation | Helix Nebula | Cat's Eye Nebula | Planetary nebula — "A nebula: a cloud of gas and dust, not a star."
+- Red giant | Red dwarf | Red supergiant | Blue giant | Blue supergiant | Yellow dwarf | White dwarf | Black dwarf | Neutron star | Pulsar | Magnetar | Supergiant | Hypergiant | Variable star | Binary star | Double star | Protostar | Nova | Supernova | Hypernova | Kilonova | Cepheid | Cepheid variable | Wolf-Rayet star | Main sequence star | Dwarf star | Giant star — "A kind of star, not a star's name. Name one."
+- Brown dwarf | Luhman 16 | WISE 0855-0714 | Gliese 229 B | Teide 1 | Epsilon Indi B | Epsilon Indi Ba | Epsilon Indi Bb | WISE 0855 | WISE J0855-0714 — "A failed star, too small to shine by fusion."
+- Star of Bethlehem | Christmas Star | Bethlehem Star — "Nobody knows what it was: a comet, a conjunction or a miracle. It's no named star."
+- Death Star — "A fictional space station. That's no moon, and no star either."
+- Tatooine — "A fictional planet with two suns of its own."
+- Gallifrey | Krypton | Vulcan | Coruscant — "A planet from fiction, not a star."
+- Gliese | GJ — "Gliese's catalogue holds thousands of stars. Give the number."
+- Wolf — "Max Wolf's catalogue holds over a thousand stars. Give the number."
+- Ross — "Frank Ross's catalogue holds over a thousand stars. Give the number."
+- Sirius Black — "A wizard named after the star. The star alone will do."
+- Proxima b | Proxima Centauri b | 51 Pegasi b | Kepler-22b | Kepler-452b | TRAPPIST-1e | Gliese 581g | Tau Ceti e | K2-18b | Exoplanet | Kepler-186f | Kepler-442b | Kepler-62e | Kepler-62f | Kepler-16b | Kepler-90i | Kepler-10b | Gliese 667 Cc | Gliese 12 b | Teegarden's Star b | Teegarden b | Ross 128 b | LHS 1140 b | TOI-700 d | Wolf 1061c | HD 209458 b | 55 Cancri e | HR 8799 b | Epsilon Eridani b | Barnard's Star b | Barnard b | Gliese 1214 b | WASP-12b | HD 189733 b | Fomalhaut b | Beta Pictoris b | Gliese 876 d | LTT 9779 b | Alpha Centauri Bb — "A planet circling a star, not the star itself."
+- Cassiopeia A — "The wreck of a star that exploded: a cloud of debris, not the star itself."

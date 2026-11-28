@@ -1,0 +1,346 @@
+# Name a playing position in a team sport.
+
+Question id: `team-sport-positions` · category: sport · source: `data/sport.json`
+
+Rules: Any named position or playing role in a team sport, from football and rugby to netball, curling and rowing. Captains, coaches, officials and plain substitutes don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (298 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Goalkeeper — Goalie | Keeper | Goaltender | Netminder | GK | Custodian | Shot-stopper
+- Defender — Defence | Defense
+- Midfielder — Midfield | Middie | Mid
+- Striker — Strike | Stiker | Sriker | Lone striker
+- Forward
+- Winger — Wide man | Wide player | Wide forward
+- Full-back
+- Centre-back — Center back | Central defender | Centre-half | Center half | Central back
+- Quarterback — QB | Signal caller
+- Pitcher
+- Catcher — Backstop
+- Point guard — PG | Floor general
+- Wicketkeeper — Stumper | WK | Keeper-batter | Wicketkeeper-batter | Wicky | Wicketkeeper-batsman | Keeper-batsman
+
+### Tier 2: common (32)
+
+- Sweeper — Seeper | Weeper | Sweeper cover | Deep sweeper | Cover sweeper
+- Left-back — Left full-back
+- Right-back — Right full-back
+- Wing-back — Left wing-back | Right wing-back
+- Defensive midfielder — Holding midfielder | Defensive mid | Number six | DM | CDM | Destroyer | Ball-winning midfielder | Ball winner | Number 6 | No. 6
+- Attacking midfielder — Number ten | No. 10 | CAM | Attacking mid | Number 10
+- Centre-forward — Center forward | Number nine | No. 9 | Number 9
+- Playmaker
+- Centre — Center | Centreman | Centerman
+- Wing — Wing three-quarter | Wingman
+- Prop — Prop forward
+- Hooker — Rake
+- Flanker — Wing forward | Breakaway
+- Lock — Lock forward
+- Fly-half — Outside half | Outhalf | Stand-off | Stand-off half | First five-eighth | First five | Five-eighth | 1st five-eighth | 1st five
+- Scrum-half
+- Number eight — No. 8 | Eightman | Eighthman | Number 8
+- Running back — RB | Tailback | Feature back
+- Wide receiver — WR | Wideout | Receiver | Reciever | Split end
+- Tight end — TE
+- Linebacker — LB | Middle linebacker | Outside linebacker | Inside linebacker | Mike linebacker | Sam linebacker | Strongside linebacker | Weakside linebacker
+- Cornerback — Corner
+- Shortstop — SS
+- First baseman — First base | 1B | First basewoman | 1st base | 1st baseman
+- Shooting guard — SG | Off guard | Two guard
+- Small forward — SF
+- Power forward — PF
+- Goal shooter — GS | Shooter
+- Goal attack — GA
+- Bowler — Strike bowler
+- Batsman — Batter | Bater | Batswoman | Top-order batsman | Middle-order batsman | Hitter
+- Slip — Slip cordon | The cordon | In the slips
+
+### Tier 3: known to fans (92)
+
+- Central midfielder — Centre midfielder | Center midfielder | Central midfield | CM
+- Wide midfielder — Left midfielder | Right midfielder | Left midfield | Right midfield
+- Box-to-box midfielder — Box-to-box
+- Second striker — Shadow striker | Support striker | Withdrawn striker | Deep-lying forward | Second forward | 2nd striker
+- False nine — False 9
+- Target man — Target striker
+- Libero
+- Half-back
+- Left wing — Left winger | Outside left
+- Right wing — Right winger | Outside right
+- Attacker — Attack
+- Utility player — Utility | Utility man | Utility back | Utility infielder | Utility forward
+- Anchor — Anchorman | Anchor leg
+- Second row — Second-rower | Second-row forward | 2nd row | 2nd rower
+- Back row — Back-row forward | Back-rower
+- Front row — Front-row forward | Front-rower
+- Loose forward — Loosie
+- Inside centre — Inside center | Second five-eighth | Second five | 2nd five-eighth | 2nd five
+- Outside centre — Outside center
+- Openside flanker — Openside
+- Blindside flanker — Blindside
+- Loosehead prop — Loosehead
+- Tighthead prop — Tighthead
+- Three-quarter
+- Back
+- Offensive lineman — O-lineman | Lineman | Offensive line
+- Guard — Offensive guard | Left guard | Right guard
+- Tackle — Offensive tackle | Left tackle | Right tackle
+- Defensive end — DE
+- Defensive tackle — DT
+- Safety — Free safety | Strong safety
+- Kicker — Placekicker
+- Punter
+- Defensive back — DB | Defensive halfback
+- Nickelback — Nickel corner | Nickel cornerback
+- Kick returner — Punt returner | Returner | Return specialist
+- Edge rusher — Edge | Pass rusher
+- Slot receiver — Slot | Slotback
+- Second baseman — Second base | 2B | Second basewoman | 2nd base | 2nd baseman
+- Third baseman — Third base | 3B | Hot corner | Third basewoman | 3rd base | 3rd baseman
+- Outfielder — Outfield
+- Infielder — Infield
+- Left fielder — Left field | LF
+- Centre fielder — Center fielder | Centre field | Center field | CF
+- Right fielder — Right field | RF
+- Designated hitter — DH
+- Relief pitcher — Reliever | Releiver | Bullpen pitcher
+- Starting pitcher — Starter
+- Closer — Closing pitcher
+- Sixth man — 6th man
+- Swingman
+- Combo guard
+- Wing attack — WA
+- Wing defence — Wing defense | WD
+- Goal defence — Goal defense | GD
+- Defenceman — Defenseman | D-man | Blueliner
+- Enforcer
+- Setter
+- Outside hitter — Left-side hitter | Outside spiker | Wing spiker
+- Opposite hitter — Opposite | Right-side hitter | Opposite spiker
+- Middle blocker — Middle hitter
+- All-rounder
+- Opener — Opening batsman | Opening batter | Opening bowler
+- Spin bowler — Spinner | Spiner | Slow bowler | Left-arm spinner | Left-arm orthodox spinner | Slow left-arm orthodox
+- Fast bowler — Pace bowler | Paceman | Quick bowler
+- Full-forward
+- Corner-forward
+- Half-forward
+- Centre half-forward
+- Centre half-back
+- Ruckman — Ruck | Ruckwoman
+- Back pocket
+- Forward pocket
+- Half-back flank — Half-back flanker
+- Half-forward flank — Half-forward flanker
+- Skip
+- Cox — Coxswain
+- Stroke — Stroke seat | Stroke oar
+- Bow — Bow seat | Bowman
+- Gully — Gulley
+- Point
+- Cover — Covers | In the covers
+- Mid-off — Middle wicket off
+- Mid-on — Middle wicket on
+- Square leg
+- Fine leg — Very fine leg
+- Third man — 3rd man
+- Long-on — Deep mid-on | Long field on
+- Long-off — Deep mid-off | Long field off
+- Silly point
+- Silly mid-on
+- Silly mid-off
+
+### Tier 4: obscure (76)
+
+- Inside forward — Inside left | Inside right
+- Wing-half — Left half | Right half
+- Inverted winger — Inverted wing
+- Regista — Deep-lying playmaker
+- Trequartista
+- Poacher — Goal-hanger | Fox in the box
+- Sweeper-keeper
+- Stopper
+- Dummy-half — Acting half-back | Acting half
+- Nose tackle — Nose guard
+- Long snapper — Snapper
+- Dimeback
+- Holder
+- Gunner
+- H-back
+- Defensive lineman — D-lineman | Defensive line
+- Setup man — Setup pitcher
+- Pinch hitter
+- Pinch runner
+- Leadoff hitter — Leadoff man | Leadoff
+- Cleanup hitter — Cleanup | Cleanup batter
+- Two-way player — Two-way forward
+- Stretch four — Stretch big | Stretch five | Stretch 4 | Stretch 5
+- Point forward
+- Big man
+- Rover
+- Pivot — Line player | Circle runner
+- Defensive specialist
+- Spiker
+- Blocker
+- Jammer — Lead jammer
+- Attackman — Crease attackman
+- Driver
+- Nightwatchman
+- Tail-ender
+- Twelfth man — 12th man
+- Seam bowler — Seamer | Swing bowler | Medium pacer
+- Lead
+- Vice-skip — Vice | Third | Mate
+- Second
+- Pilot — Bobsleigh pilot | Bobsleigh driver | Bobsled driver | Bobsled pilot
+- Brakeman — Brakewoman
+- Ruck-rover
+- Handler
+- Cutter
+- Raider
+- Chaser
+- Beater
+- Seeker
+- Short leg — Bat-pad | Short square leg | Boot hill | Short square
+- Mid-wicket — Middle wicket
+- Extra cover
+- Cover point
+- Deep square leg — Deep square
+- Leg slip
+- Deep fine leg — Long leg | Deep fine
+- First slip — 1st slip
+- Second slip — 2nd slip
+- Third slip — 3rd slip
+- Deep mid-wicket
+- Backward point
+- Leg gully
+- Deep cover
+- Short fine leg — On the 45 | The 45 | Short fine
+- Backward square leg — Backward square
+- Cow corner
+- Helmsman — Helm | Helmswoman | Helmsperson
+- Trimmer — Sail trimmer | Main trimmer | Jib trimmer
+- Grinder
+- Tactician
+- Key forward — Key position forward | Tall forward
+- Key defender — Key position defender | Tall defender
+- Drag flicker
+- Finisher
+- Edge forward
+- Middle forward
+
+### Tier 5: expert (83)
+
+- Mezzala
+- Enganche
+- Volante
+- Inverted full-back
+- Upback — Personal protector
+- Long reliever — Long man
+- Middle reliever
+- Short fielder
+- Long-stick midfielder — LSM | Long pole
+- Face-off specialist — FOGO | Face-off man
+- First home — 1st home
+- Second home — 2nd home
+- Third home — 3rd home
+- Hole set — Two-metre man | Two-meter man | 2-metre man | 2-meter man
+- Push athlete — Pusher | Side pusher
+- Domestique — Gregario | Super-domestique
+- Lead-out man — Lead-out rider
+- Leg spinner — Leggie | Wrist spinner | Left-arm wrist spinner | Left-arm unorthodox spinner
+- Off spinner — Offie | Finger spinner
+- Alternate
+- Deep point
+- Deep extra cover — Deep extra
+- Deep third man — Deep 3rd man | Deep third
+- Short third man — Short 3rd man | Short third
+- Fourth slip — 4th slip
+- Forward short leg
+- Backward short leg
+- Deep backward square leg — Deep backward square
+- Short mid-wicket
+- Short extra cover — Short extra
+- Short cover
+- Deep backward point
+- Straight hit — Deep straight | Long straight
+- Fifth slip — 5th slip
+- Silly mid-wicket
+- Short mid-on
+- Short mid-off
+- Forward square leg
+- Deep forward square leg
+- Straight fine leg
+- Fine third man — Fine 3rd man | Fine third
+- Deep cover point
+- Short point
+- Straight long-off
+- Straight long-on
+- Sixth slip — 6th slip
+- Fly slip
+- Short slip
+- Wide long-off
+- Wide long-on
+- Long slip
+- Runner
+- Navigator
+- Mastman
+- Pitman
+- Strokeside
+- Bowside
+- Drummer
+- Steerer — Steersman | Steersperson
+- Climber — Grimpeur
+- Sprinter
+- Rouleur
+- Puncheur
+- Fourth — Fourth thrower
+- Tagger — Run-with player
+- Follower
+- Injector — Inserter
+- Corner defender — Left corner | Right corner
+- Cover defender — Left cover | Right cover
+- Tekong
+- Feeder
+- Death bowler — Death-overs bowler
+- Change bowler — First-change bowler
+- Part-time bowler — Part-timer
+- Mystery spinner
+- Rim protector
+- 3-and-D — Three-and-D | 3-and-D wing
+- LOOGY — Left-handed specialist | Lefty specialist | Situational lefty
+- Short-stick defensive midfielder — SSDM
+- Pest — Agitator
+- Fixo
+- Hole defender — Two-metre defender | Two-meter defender | 2-metre defender | 2-meter defender
+- Serving specialist
+
+### Tier 6: rare jackpots (2)
+
+- Raumdeuter
+- Long stop
+
+## Refused on purpose (14)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Captain | Skipper | Vice-captain — "A job, not a position. Captains can play anywhere."
+- Substitute | Sub | Reserve | Bench | Benchwarmer | Replacement | Interchange | Super-sub | Impact sub | Impact player | Substitute fielder — "Not a position, just a long wait on the bench."
+- Manager | Coach | Head coach | Offensive coordinator | Defensive coordinator | Physio | Kit man | Water boy | Mascot | Cheerleader | Ball boy | Ball girl | Chairman — "Off the field, not a playing position."
+- Referee | Umpire | Linesman | Assistant referee | Touch judge | Fourth official | VAR | Line judge | Third umpire | Timekeeper | 3rd umpire | 4th official — "Officials don't play."
+- Fan | Fans | Supporter | Ultras — "The loudest member of the team, but not on the pitch."
+- Back four | Back five | Back three | Front three | Midfield three | Back line | Pack | Front five | Tight five | Backfield | Secondary | Bullpen | Battery — "A group of players, not one position."
+- Formation | 4-4-2 | 4-3-3 | Line-up | Starting eleven | Batting order | Rotation — "A shape for the whole team, not one position."
+- Offside | Offside trap — "A rule, not a position."
+- Scrum | Maul | Lineout | Scrummage — "Forwards pack into one, but it isn't a position."
+- Goalposts | Net | Crossbar | Goal line | Penalty box | Penalty area | Six-yard box | Touchline | Halfway line | Centre circle | Sideline | End zone — "That's what you aim at, not where you play."
+- Pole position — "A starting spot in motor racing, which isn't a team sport."
+- Jungler | Support | Tank | Carry | Mid laner | Top laner | Healer — "A role in a video game, not a position in a team sport."
+- Golden Snitch | Snitch | Quaffle | Bludger — "That's the ball, not a player."
+- Chinaman bowler | Chinaman — "That old name gives offence. The bowling is now called left-arm wrist spin."

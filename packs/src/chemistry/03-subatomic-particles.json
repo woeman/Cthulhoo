@@ -39,6 +39,9 @@
   },
   {
    "answer": "Quark",
+   "aliases": [
+    "Kwark"
+   ],
    "tier": 1,
    "lore": "Murray Gell-Mann took the name from a line in James Joyce's Finnegans Wake: 'Three quarks for Muster Mark!'"
   },
@@ -57,7 +60,10 @@
     "Gamma particle",
     "Quantum of light",
     "Gamma-ray photon",
-    "X-ray"
+    "X-ray",
+    "Gamma radiation",
+    "Gamma rays",
+    "X-rays"
    ],
    "tier": 1,
    "lore": "Einstein won his Nobel Prize for showing that light comes in packets, the particles later named photons."
@@ -76,7 +82,8 @@
    "aliases": [
     "Higgs",
     "Higgs particle",
-    "God particle"
+    "God particle",
+    "Boson Higgs"
    ],
    "tier": 1,
    "openSecret": true,
@@ -138,6 +145,12 @@
   },
   {
    "answer": "Graviton",
+   "aliases": [
+    "Gravito",
+    "Gravitn",
+    "Gravityn",
+    "Gravitoy"
+   ],
    "tier": 2,
    "lore": "The hypothetical carrier of gravity. One estimate says a detector the mass of Jupiter, near a neutron star, might catch one a decade."
   },
@@ -160,7 +173,9 @@
     "Alpha",
     "Alpha ray",
     "Helium nucleus",
-    "Helium-4 nucleus"
+    "Helium-4 nucleus",
+    "Alpha radiation",
+    "Alpha rays"
    ],
    "tier": 2,
    "lore": "Rutherford's team fired them at gold foil in 1909, and the few that bounced back revealed the atomic nucleus."
@@ -182,7 +197,9 @@
   {
    "answer": "Atomic nucleus",
    "aliases": [
-    "Nucleus"
+    "Nucleus",
+    "Nucleus of an atom",
+    "Nucleus of the atom"
    ],
    "tier": 2
   },
@@ -264,7 +281,11 @@
    "answer": "Strange quark",
    "aliases": [
     "Strange",
-    "Sideways quark"
+    "Sideways quark",
+    "Strang",
+    "Stringe",
+    "Stringes",
+    "Strangs"
    ],
    "tier": 3
   },
@@ -1209,7 +1230,12 @@
   {
    "answer": "Molecule",
    "aliases": [
-    "Compound"
+    "Compound",
+    "Water",
+    "H2O",
+    "Water molecule",
+    "Molecule of water",
+    "DNA"
    ],
    "reason": "Too big: a molecule is built from atoms."
   },
@@ -1329,7 +1355,10 @@
   {
    "answer": "Superstring",
    "aliases": [
-    "Brane"
+    "Brane",
+    "String",
+    "Strings",
+    "Cosmic string"
    ],
    "reason": "In string theory particles are tiny vibrating strings, but a string itself is not a particle."
   },
@@ -1341,7 +1370,10 @@
     "Weak nuclear force",
     "Electromagnetism",
     "Electromagnetic force",
-    "Electroweak force"
+    "Electroweak force",
+    "Gravity",
+    "Gravitation",
+    "Gravitational force"
    ],
    "reason": "A force, not a particle. Name the particle that carries it."
   },
@@ -1362,7 +1394,11 @@
     "Isospin",
     "Strangeness",
     "Flavour",
-    "Flavor"
+    "Flavor",
+    "Energy",
+    "Momentum",
+    "Wavelength",
+    "Frequency"
    ],
    "reason": "A property of particles, not a particle."
   },
@@ -1390,7 +1426,9 @@
    "answer": "Unobtainium",
    "aliases": [
     "Vibranium",
-    "Adamantium"
+    "Adamantium",
+    "Kryptonite",
+    "Dilithium"
    ],
    "reason": "Fiction: a made-up material, not a particle."
   },
@@ -1424,6 +1462,63 @@
   {
    "answer": "Antihydrogen",
    "reason": "An atom of antimatter, too big to be subatomic."
+  },
+  {
+   "answer": "Nanoparticle",
+   "aliases": [
+    "Nanoparticles",
+    "Dust",
+    "Speck of dust",
+    "Grain of sand",
+    "Sand",
+    "Virus",
+    "Bacteria",
+    "Bacterium",
+    "Cell",
+    "Germ",
+    "Microbe"
+   ],
+   "reason": "Far too big: even a small one is a clump of hundreds of atoms."
+  },
+  {
+   "answer": "Large Hadron Collider",
+   "aliases": [
+    "LHC",
+    "Hadron Collider",
+    "Particle accelerator",
+    "Collider",
+    "Cyclotron",
+    "Synchrotron",
+    "CERN",
+    "Fermilab"
+   ],
+   "reason": "The machine that smashes particles together, not a particle."
+  },
+  {
+   "answer": "Radioactive decay",
+   "aliases": [
+    "Radioactivity",
+    "Alpha decay",
+    "Beta decay",
+    "Gamma decay",
+    "Fission",
+    "Nuclear fission",
+    "Fusion",
+    "Nuclear fusion",
+    "Annihilation"
+   ],
+   "reason": "A process, not a particle. Name something it throws out."
+  },
+  {
+   "answer": "Schrödinger's cat",
+   "reason": "A thought experiment, and a much put-upon cat. Not a particle."
+  },
+  {
+   "answer": "Black hole",
+   "aliases": [
+    "Black holes"
+   ],
+   "reason": "A collapsed star, the very opposite of subatomic."
   }
  ],
  "decoys": [

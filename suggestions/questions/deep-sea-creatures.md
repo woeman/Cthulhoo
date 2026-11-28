@@ -1,0 +1,354 @@
+# Name a creature of the deep sea.
+
+Question id: `deep-sea-creatures` · category: nature · source: `data/nature.json`
+
+Rules: Any creature that lives or hunts mainly below about 200 metres, from the twilight zone down to the trenches. Deep-diving whales and seals count; visitors from the shallows don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (283 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Anglerfish — Anglefish | Angler | Deep-sea anglerfish | Deep sea angler | Sea devil | Ceratioid
+- Giant Squid — Architeuthis
+- Colossal Squid — Mesonychoteuthis
+- Blobfish — Psychrolutes | Smooth-head blobfish
+- Gulper Eel — Pelican eel | Pelican gulper | Umbrella-mouth gulper | Gulper | Eurypharynx
+- Vampire Squid — Vampyroteuthis | Vampire squid from hell | Vampyroteuthis infernalis
+- Giant Isopod — Bathynomus | Giant deep-sea isopod | Isopod | Bathynomus giganteus
+- Dumbo Octopus — Dumbo | Grimpoteuthis
+- Giant Tube Worm — Tube worm | Riftia | Riftia pachyptila
+- Sperm Whale — Cachalot | Physeter | Physeter macrocephalus
+
+### Tier 2: common (16)
+
+- Viperfish — Sloane's viperfish | Chauliodus
+- Fangtooth — Fangtooth fish | Common fangtooth | Ogrefish | Anoplogaster
+- Lanternfish — Myctophid
+- Hatchetfish — Marine hatchetfish | Deep-sea hatchetfish | Argyropelecus
+- Barreleye — Barreleye fish | Spookfish | Macropinna | Pacific barreleye
+- Dragonfish — Black dragonfish | Barbeled dragonfish | Deep-sea dragonfish | Stomiid
+- Oarfish — Giant oarfish | King of herrings | Regalecus
+- Coelacanth — Latimeria
+- Frilled Shark — Frill shark | Chlamydoselachus
+- Goblin Shark — Goblin | Mitsukurina
+- Greenland Shark — Greenland sleeper | Gurry shark | Grey shark | Somniosus microcephalus
+- Yeti Crab — Kiwa | Yeti lobster | Hoff crab
+- Japanese Spider Crab — Giant spider crab | Spider crab | Taka-ashi-gani
+- Sea Pig — Scotoplanes
+- Zombie Worm — Osedax | Bone-eating worm | Bone-eating snot-flower | Boneworm
+- Nautilus — Chambered nautilus | Nautilus pompilius | Palau nautilus | Bellybutton nautilus | Crusty nautilus | Allonautilus
+
+### Tier 3: known to fans (42)
+
+- Black Swallower — Great swallower | Chiasmodon
+- Stoplight Loosejaw — Loosejaw | Malacosteus
+- Bristlemouth — Cyclothone
+- Snailfish — Liparid
+- Tripod Fish — Tripod spiderfish | Bathypterois | Spiderfish
+- Rattail — Grenadier | Macrourid
+- Orange Roughy — Roughy | Slimehead | Deep sea perch | Red roughy
+- Patagonian Toothfish — Chilean sea bass | Toothfish | Mero
+- Hagfish — Slime eel
+- Chimaera — Chimera | Ghost shark | Ratfish | Rabbitfish
+- Megamouth Shark — Megamouth | Megachasma
+- Cookiecutter Shark — Cookiecutter | Cigar shark | Isistius
+- Sixgill Shark — Bluntnose sixgill | Sixgill | Cow shark | Hexanchus | Bluntnose sixgill shark | Hexanchus griseus
+- Lantern Shark — Etmopterus
+- Sleeper Shark — Somniosus
+- Humpback Anglerfish — Black seadevil | Humpback angler | Melanocetus
+- Snipe Eel — Nemichthys
+- Opah — Moonfish | Lampris
+- Monkfish — Goosefish | Lophius
+- Pompeii Worm — Alvinella
+- Glass Squid — Cranchiid | Taonius | Galiteuthis | Megalocranchia | Cranchiid squid
+- Bigfin Squid — Magnapinna
+- Firefly Squid — Sparkling enope squid | Hotaru-ika | Watasenia
+- Strawberry Squid — Cock-eyed squid | Histioteuthis
+- Humboldt Squid — Jumbo squid | Red devil
+- Atolla Jellyfish — Atolla | Coronate jellyfish | Alarm jellyfish
+- Siphonophore
+- Deep-sea Coral — Cold-water coral | Deep-water coral | Lophelia
+- Sea Lily — Crinoid | Stalked crinoid
+- Venus's Flower Basket — Venus flower basket | Euplectella
+- Glass Sponge — Hexactinellid
+- Scaly-foot Snail — Scaly-foot gastropod | Volcano snail | Sea pangolin | Chrysomallon
+- Vent Shrimp — Rimicaris | Eyeless shrimp
+- Squat Lobster — Munidopsis
+- Sea Spider — Pycnogonid
+- Phronima — Pram bug
+- Cuvier's Beaked Whale — Goose-beaked whale | Ziphius | Ziphius cavirostris
+- Beaked Whale — Mesoplodon | Ziphiid
+- Elephant Seal — Southern elephant seal | Northern elephant seal
+- Headless Chicken Monster — Headless chicken fish | Swimming sea cucumber | Enypniastes
+- Telescope Octopus — Amphitretus
+- Giant Phantom Jelly — Stygiomedusa | Phantom jellyfish
+
+### Tier 4: obscure (68)
+
+- Football Fish — Himantolophus
+- Triplewart Seadevil — Cryptopsaras
+- Hairy Angler — Caulophryne | Fanfin seadevil | Fanfin angler
+- Sabretooth Fish — Sabretooth | Evermannella | Sabertooth Fish
+- Daggertooth — Anotopterus
+- Lancetfish — Longnose lancetfish | Alepisaurus
+- Telescopefish — Gigantura
+- Snaggletooth — Astronesthes
+- Barracudina
+- Whalefish — Cetomimid
+- Deep-sea Lizardfish — Bathysaurus
+- Cusk Eel — Abyssobrotula | Ophidiid | Abyssobrotula galatheae
+- Eelpout — Zoarcid | Vent eelpout
+- Greenland Halibut — Greenland turbot | Black halibut
+- Sablefish — Black cod
+- Hoki — Blue grenadier | Blue hake
+- Black Scabbardfish — Black scabbard | Espada
+- Escolar — Walu
+- Oilfish
+- Dealfish — Ribbonfish | Trachipterus
+- Sea Toad — Coffinfish | Chaunax
+- Deep-sea Batfish — Ogcocephalid
+- Antarctic Toothfish
+- Mariana Snailfish — Hadal snailfish | Pseudoliparis
+- Pacific Blackdragon — Black dragon | Ribbon sawtail fish | Idiacanthus
+- Pacific Sleeper Shark
+- Gulper Shark
+- Kitefin Shark — Kitefin | Seal shark | Dalatias
+- Viper Dogfish — Viper shark
+- Portuguese Dogfish — Portuguese shark
+- Velvet Belly Lanternshark — Velvet belly
+- Dwarf Lanternshark
+- Cockatoo Squid
+- Piglet Squid — Helicocranchia
+- Ram's Horn Squid — Spirula
+- Dana Octopus Squid — Taningia
+- Glass Octopus — Vitreledonella
+- Seven-arm Octopus — Seven-armed octopus | Haliphron
+- Flapjack Octopus — Opisthoteuthis
+- Whiplash Squid — Mastigoteuthis
+- Cirrate Octopus — Cirrate | Finned octopus | Cirroteuthis
+- Jewel Squid
+- Big Red Jelly — Tiburonia
+- Deepstaria
+- Helmet Jellyfish — Helmet jelly | Periphylla
+- Black Coral — Antipatharian
+- Venus Flytrap Anemone — Flytrap anemone
+- Carnivorous Sponge — Chondrocladia | Death-ball sponge
+- Harp Sponge — Chondrocladia lyra
+- Giant Larvacean — Larvacean | Bathochordaeus
+- Predatory Tunicate — Megalodicopia
+- Hydrothermal Vent Crab — Vent crab | Bythograea
+- Golden King Crab — Brown king crab
+- Deep-sea Red Crab — Chaceon
+- Supergiant Amphipod — Giant amphipod | Alicella
+- Giant Sea Spider
+- Giant Ostracod — Gigantocypris
+- Pygmy Sperm Whale
+- Dwarf Sperm Whale
+- Northern Bottlenose Whale — Bottlenose whale
+- Pilot Whale — Long-finned pilot whale | Short-finned pilot whale | Blackfish | Pothead whale | Globicephala
+- Narwhal — Unicorn whale | Unicorn of the sea | Monodon
+- Bearded Seadevil — Linophryne | Netdevil
+- Swordfish — Broadbill | Xiphias | Xiphias gladius
+- Deep-sea Skate — Bathyraja
+- Bigeye Thresher — Bigeye thresher shark | Alopias superciliosus
+- Deep-water Catshark — Catshark | Apristurus | Pentanchid
+- Pyrosome — Sea pickle | Pyrosoma
+
+### Tier 5: expert (144)
+
+- Wolftrap Angler — Lasiognathus | Wolftrap seadevil
+- Whipnose Angler — Whipnose | Gigantactis
+- Ghostly Seadevil — Haplophryne
+- Dreamer — Oneirodes
+- Bigscale — Ridgehead | Melamphaid
+- Cutthroat Eel — Synaphobranchid
+- Deep-sea Spiny Eel — Notacanth | Notacanthid
+- Halosaur
+- Slickhead — Alepocephalid
+- Tubeshoulder
+- Pearleye
+- Waryfish
+- Crestfish — Lophotus
+- Tube-eye — Thread-tail | Stylephorus
+- Flabby Whalefish
+- Red Velvet Whalefish
+- Scaly Dragonfish
+- Lightfish
+- Deep-sea Smelt — Bathylagid
+- Greeneye
+- Alfonsino — Splendid alfonsino | Beryx
+- Oreo — Oreo dory | Smooth oreo | Black oreo
+- Pelagic Armourhead — Pelagic Armorhead
+- Thornyhead — Shortspine thornyhead | Idiot fish
+- Roundnose Grenadier
+- Pacific Viperfish
+- Fathead Sculpin
+- Snake Mackerel
+- Whiptail Gulper — Saccopharynx
+- Ninja Lanternshark — Etmopterus benchleyi
+- Pocket Shark — Mollisquama
+- Prickly Shark
+- Bramble Shark
+- Angular Roughshark
+- Birdbeak Dogfish
+- Crocodile Shark
+- Smalltooth Sand Tiger
+- Lollipop Catshark
+- Longnose Chimaera
+- Ghost Octopus — Casper | Casper octopus
+- Vent Octopus — Vulcanoctopus
+- Chiroteuthis
+- Octopoteuthis
+- Apolemia
+- Giant Siphonophore — Praya
+- Flying Spaghetti Monster — Bathyphysa
+- Darth Vader Jellyfish — Bathykorus
+- Red Paper Lantern Jellyfish — Benthocodon
+- Firework Jellyfish — Halitrephes
+- Crossota
+- Bamboo Coral
+- Bubblegum Coral — Paragorgia
+- Ping-pong Tree Sponge
+- Brisingid Starfish — Brisingid | Brisingida
+- Acanthephyra
+- Hirondellea — Hadal amphipod
+- Blind Lobster — Polychelid | Deep-sea blind lobster
+- Vent Mussel — Bathymodiolus
+- Giant White Clam — Calyptogena | Vent clam
+- Methane Ice Worm — Ice worm | Hesiocaeca
+- Squidworm — Teuthidodrilus
+- Deep-sea Acorn Worm — Acorn worm | Enteropneust
+- Baird's Beaked Whale
+- Blainville's Beaked Whale — Dense-beaked whale | Mesoplodon densirostris
+- Bigeye Tuna — Thunnus obesus
+- Hooded Seal — Cystophora cristata
+- Weddell Seal — Leptonychotes weddellii
+- Risso's Dolphin — Grampus | Grampus griseus
+- Spade-toothed Whale — Spade-toothed beaked whale | Mesoplodon traversii
+- Strap-toothed Whale — Strap-toothed beaked whale | Layard's beaked whale
+- Southern Bottlenose Whale — Hyperoodon planifrons
+- Arnoux's Beaked Whale — Southern four-toothed whale
+- Sato's Beaked Whale — Berardius minimus
+- Sowerby's Beaked Whale — North Sea beaked whale
+- Gervais' Beaked Whale — Antillean beaked whale | Gulf Stream beaked whale
+- True's Beaked Whale
+- Gray's Beaked Whale — Scamperdown whale
+- Hector's Beaked Whale
+- Andrews' Beaked Whale
+- Hubbs' Beaked Whale
+- Ginkgo-toothed Beaked Whale
+- Stejneger's Beaked Whale — Bering Sea beaked whale
+- Pygmy Beaked Whale — Peruvian beaked whale
+- Deraniyagala's Beaked Whale
+- Perrin's Beaked Whale
+- Ramari's Beaked Whale
+- Longman's Beaked Whale — Tropical bottlenose whale | Indopacetus
+- Shepherd's Beaked Whale — Tasman beaked whale | Tasmacetus
+- Pygmy Shark — Euprotomicrus bispinatus
+- Spined Pygmy Shark — Squaliolus laticaudus
+- Taillight Shark
+- Largetooth Cookiecutter Shark — Isistius plutodus
+- Bigeye Sand Tiger — Odontaspis noronhai
+- Great Lanternshark — Etmopterus princeps
+- Smooth Lanternshark
+- Blackbelly Lanternshark — Etmopterus lucifer
+- Splendid Lanternshark
+- Bigeye Sixgill Shark
+- Sharpnose Sevengill Shark — Sharpnose sevengill | Heptranchias perlo
+- Rough Longnose Dogfish
+- Velvet Dogfish — Zameus squamulosus
+- Smallmouth Velvet Dogfish
+- Black Dogfish — Centroscyllium fabricii
+- Ornate Dogfish
+- Roughskin Dogfish
+- Granular Dogfish
+- Combtooth Dogfish
+- Bareskin Dogfish
+- Leafscale Gulper Shark — Centrophorus squamosus
+- Little Gulper Shark
+- Dwarf Gulper Shark
+- Pygmy Ribbontail Catshark — Eridacnis radcliffei
+- Ghost Catshark
+- Bahamas Sawshark — Pristiophorus schroederi
+- Little Sleeper Shark — Somniosus rostratus
+- Southern Sleeper Shark — Somniosus antarcticus
+- Bumpy Snailfish — Careproctus colliculi
+- Dark Snailfish — Careproctus yanceyi
+- Sleek Snailfish — Paraliparis em
+- Australasian Narrow-nosed Spookfish — Narrow-nosed spookfish | Harriotta avia
+- Bathynomus vaderi — Darth Vader isopod | Darth Vader sea bug
+- Black-eyed Squid — Gonatus | Gonatus onyx | Gonatid
+- Graneledone — Graneledone boreopacifica
+- Pearl Octopus — Muusoctopus | Muusoctopus robustus
+- Stauroteuthis — Glowing sucker octopus
+- Cycloteuthis
+- Brachioteuthis
+- Bolitaena
+- Japetella
+- Promachoteuthis
+- Lepidoteuthis
+- Grimalditeuthis
+- Joubiniteuthis
+- Bathyteuthis
+- Lycoteuthis
+- Pyroteuthis
+- Enoploteuthis
+- Batoteuthis
+- Neoteuthis
+- Pholidoteuthis
+- Krøyer's Deep Sea Anglerfish — Ceratias | Ceratias holboelli
+- Umbellula — Deep-sea sea pen | Deep sea pen
+- Shortraker Rockfish — Sebastes borealis
+- Rougheye Rockfish — Sebastes aleutianus
+
+### Tier 6: rare jackpots (3)
+
+- Brownsnout Spookfish — Dolichopteryx
+- Xenophyophore — Syringammina
+- Sea Daisy — Xyloplax
+
+## Refused on purpose (37)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Deep-sea fish | Deep sea creature | Deep sea animal | Deep sea monster | Deep sea shark | Deep sea squid | Deep sea octopus | Deep sea jellyfish | Deep sea crabs | Deep sea shrimp | Deep sea worm | Deep sea eel | Abyssal fish | Glowing fish | Bioluminescent fish — "There are thousands of those. Name one."
+- Octopus | Octopi | Giant octopus | Giant Pacific octopus | Common octopus | Blue-ringed octopus | Mimic octopus — "Octopuses live at every depth. Name one of the deep ones."
+- Squid — "Squid live at every depth. Name one of the deep ones."
+- Jellyfish | Jelly — "Most drift near the surface. Name one of the deep ones."
+- Shark | Gummy shark | Sawshark | Piked dogfish | Spiny dogfish | Spurdog | Dogfish | Sevengill shark — "Most sharks hunt nearer the surface. Name one of the deep ones."
+- Whale | Blue whale | Humpback whale | Killer whale | Orca | Grey whale | Gray whale | Minke whale | Right whale | Bowhead whale | Fin whale | Sei whale | Bryde's whale | Beluga — "Most whales feed near the surface. Name one that dives deep."
+- Seal | Sea lion | Walrus — "Most seals feed in the shallows. Name one that dives deep."
+- Crab | Shrimp | Prawn | Lobster | Eel | Worm | Starfish | Sea star | Brittle star | Sea cucumber | Sea urchin | Sea anemone | Anemone | Sponge | Snail | Clam | Comb jelly | Ctenophore | Spiny lobster | Rock lobster | King crab | Red king crab | Snow crab | Feather star | Basket star | Sea pen | Amphipod | Copepod | Skate — "They live at every depth. Name one of the deep ones."
+- Fish | Whitefish — "That covers a lot of water. Name a deep one."
+- Coral | Coral reef | Brain coral — "Reef corals need sunlight. Name one of the cold, dark kinds."
+- Clownfish | Nemo | Dory | Blue tang | Seahorse | Pufferfish | Lionfish | Parrotfish | Sea turtle | Turtle | Sea otter | Octopus Paul | Pipefishs | Hogfishs | Ponyfish | Bonefish | Milkfish | Ladyfish | Weakfish | Cuttlefish — "A creature of the sunlit shallows."
+- Manta ray | Stingray | Ray | Eagle ray — "Rays keep mostly to the shallows and the upper ocean."
+- Great white shark | Great white | Hammerhead shark | Hammerhead | Tiger shark | Bull shark | Whale shark — "Dives deep at times, but hunts near the surface."
+- Moray eel | Moray — "A reef eel of the shallows."
+- Electric eel — "A freshwater fish of South America, and not an eel at all."
+- Box jellyfish | Portuguese man o' war | Man o' war | Moon jellyfish | Lion's mane jellyfish — "A drifter of the surface and the shallows."
+- Dolphin | Porpoise | Manatee | Dugong — "Never strays far from the air above."
+- Emperor penguin | Penguin — "Dives to 500 m, but lives on the ice and in the upper ocean."
+- Leatherback turtle | Leatherback — "Dives past 1,000 m now and then, but lives mostly near the surface."
+- Tuna | Barracudas | Marlin | Mackerel | Sailfishs | Bluefish | Garfishs | Salmon | Flying fish — "A hunter of the upper ocean."
+- Frogfish — "An anglerfish, but one of shallow reefs."
+- Red-lipped batfish — "A Galápagos oddity of fairly shallow water."
+- Megalodon | The Meg — "Extinct, and a hunter of warm coastal seas. The films moved it to the deep."
+- Kraken — "A myth, probably born of the giant squid. Name the real thing."
+- Leviathan — "A sea monster of the Bible. Name a real one."
+- Cthulhu | Great Cthulhu — "Asleep in the deep, but invented by H. P. Lovecraft for his stories."
+- Deep One | Deep Ones — "A creature from H. P. Lovecraft's stories, not the real deep."
+- Bloop — "A loud, deep sound heard in 1997, later traced to breaking ice. Not a creature."
+- SpongeBob | SpongeBob SquarePants | Patrick Star | Squidward — "Lives in Bikini Bottom, under a tropical lagoon."
+- Sea pansy — "A soft coral of sandy coastal shallows, not the deep."
+- Crayfish | Crawfish | Crawdad | Yabby | Freshwater crayfish — "Freshwater crayfish live in rivers and lakes, and sea crayfish on coastal reefs. Not the deep."
+- Angelfishs — "A fish of sunlit reefs and rivers. Did you mean the anglerfish?"
+- Goldfish | Catfish | Tigerfish | Leaf fish | Carp | Pike | Trout | Perch | Piranha — "A fish of rivers and lakes, not the deep sea."
+- Batfish — "Some batfish live deep and some on shallow reefs. Name one of the deep ones."
+- Rockfish — "Some rockfish live deep, but most keep to reefs and the shelf. Name one of the deep ones."
+- Krill | Antarctic krill — "Swarms mostly in the upper ocean, where whales come to feed."
+- Conger eel | Conger — "An eel of rocky coasts and wrecks, mostly in shallow water."

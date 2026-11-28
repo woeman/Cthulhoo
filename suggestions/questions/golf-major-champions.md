@@ -1,0 +1,427 @@
+# Name a golfer who has won a major championship.
+
+Question id: `golf-major-champions` · category: sport · source: `data/sport.json`
+
+Rules: Any winner of a men's or women's major, from the first Open in 1860 to today. Women's majors of the past count too; senior and amateur championships don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (382 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Tiger Woods — Tiger | Eldrick Woods | Woods
+- Jack Nicklaus — Golden Bear | Jack Nicklas | Nicklaus | Jack
+- Arnold Palmer — Arnie | Arnie Palmer | Palmer
+- Gary Player — The Black Knight | Player
+- Rory McIlroy — Rory Mcllroy | Rory MacIlroy | Rory | McIlroy
+- Phil Mickelson — Lefty | Phil | Mickelson
+- Seve Ballesteros — Seve | Severiano Ballesteros | Ballesteros
+- Nick Faldo — Faldo
+- Tom Watson — Watson | Wason
+- Scottie Scheffler — Scottie | Scheffler
+- Ben Hogan — Bantam Ben | The Hawk | Wee Ice Mon | Hogan
+- Greg Norman — The Shark | Norman
+
+### Tier 2: common (38)
+
+- Ernie Els — The Big Easy | Els
+- Lee Trevino — Supermex | Merry Mex | Trevino | Lee
+- Sam Snead — Slammin' Sammy | Sammy Snead | Snead
+- Bobby Jones — Bob Jones | Robert Tyre Jones | Jones
+- Walter Hagen — The Haig | Hagen
+- Jordan Spieth — Spith | Jordan Speith | Spieth
+- Brooks Koepka — Koepka | Brooks
+- Bryson DeChambeau — Bryson | DeChambeau
+- Jon Rahm — Rahm
+- Justin Rose — Rose
+- Sergio García — El Niño | García
+- Pádraig Harrington — Paddy Harrington | Harrington
+- Ian Woosnam — Woosie | Woosnam
+- Sandy Lyle — Lyle
+- Bernhard Langer — Langer
+- Tony Jacklin — Jacklin
+- Shane Lowry — Lowry
+- Darren Clarke — Clarke
+- Graeme McDowell — McDowell
+- Dustin Johnson — DJ | Johnson
+- Adam Scott — Scott
+- Vijay Singh — Singh
+- Payne Stewart — Stewart
+- John Daly — Long John Daly | Daly
+- Fred Couples — Freddie Couples | Boom Boom Couples | Couples
+- Bubba Watson — Bubba | Gerry Watson
+- Xander Schauffele — Xander | Alexander Schauffele | Schauffele
+- Collin Morikawa — Morikawa
+- Justin Thomas — JT | Thomas
+- Hideki Matsuyama — Matsuyama
+- Matt Fitzpatrick — Fitzpatrick
+- Harry Vardon — Vardon
+- Byron Nelson — Lord Byron | Nelson
+- Old Tom Morris — Tom Morris Sr. | Tom Morris Senior | Old Tom | Morris | Tom Morris
+- Annika Sörenstam — Annika | Sörenstam
+- Laura Davies — Davies
+- Nelly Korda — Nelly | Korda
+- Lydia Ko — Lydia | Ko
+
+### Tier 3: known to fans (122)
+
+- Danny Willett — Willett
+- Henrik Stenson — Stenson
+- Martin Kaymer — Kaymer | Martin
+- José María Olazábal — Ollie | Chema Olazabal | Olazábal
+- Retief Goosen — The Goose | Goosen
+- Jim Furyk — Furyk
+- Davis Love III — Davis Love | Love
+- Mark O'Meara — O'Meara
+- Paul Lawrie — Lawrie
+- Ben Curtis — Curtis
+- Todd Hamilton — Hamilton
+- Stewart Cink — Cink
+- Louis Oosthuizen — Oosthuizen
+- Charl Schwartzel — Schwartzel
+- Trevor Immelman — Immelman
+- Ángel Cabrera — El Pato | Cabrera
+- Zach Johnson
+- Lucas Glover — Glover
+- Webb Simpson — Simpson
+- Jason Day — Day
+- Keegan Bradley — Bradley
+- Jason Dufner — Dufner
+- Jimmy Walker — Walker
+- Patrick Reed — Reed
+- Francesco Molinari — Molinari
+- Gary Woodland — Woodland
+- Cameron Smith — Cam Smith | Smith
+- Brian Harman — Harman
+- Wyndham Clark — Clark
+- J. J. Spaun — Spaun
+- Aaron Rai — Rai | Aaron
+- Ryan Fox — Fox
+- Mike Weir — Weir
+- Y. E. Yang — Yang Yong-eun | Yong-eun Yang | Yang
+- Geoff Ogilvy — Ogilvy
+- Michael Campbell — Campbell
+- David Duval — Duval
+- Justin Leonard — Leonard
+- Tom Lehman — Lehman
+- Mark Calcavecchia — Calcavecchia
+- Ian Baker-Finch — Baker-Finch
+- Nick Price — Price
+- Paul Azinger — Zinger | Azinger
+- Corey Pavin — Pavin
+- Tom Kite — Kite
+- Curtis Strange — Strange
+- Hale Irwin — Irwin
+- Raymond Floyd — Floyd
+- Johnny Miller — Miller
+- Ben Crenshaw — Gentle Ben | Crenshaw
+- Fuzzy Zoeller — Fuzzy | Frank Zoeller | Zoeller
+- Craig Stadler — Stadler
+- Larry Mize — Mize
+- Gene Sarazen — Sarazen
+- Peter Thomson — Thomson
+- Bobby Locke — Locke
+- Henry Cotton — Cotton
+- Billy Casper — Casper
+- Young Tom Morris — Tom Morris Jr. | Tom Morris Junior | Young Tom | Tommy Morris
+- James Braid — Braid
+- J. H. Taylor — John Henry Taylor | Taylor
+- Francis Ouimet — Ouimet
+- Bob Charles — Charles
+- Roberto De Vicenzo — De Vicenzo
+- Tom Weiskopf — Weiskopf
+- Babe Zaharias — Babe Didrikson | Babe Didrikson Zaharias | Babe | Mildred Didrikson | Zaharias | Didrikson
+- Patty Berg — Berg
+- Mickey Wright — Mary Kathryn Wright | Wright
+- Karrie Webb — Webb
+- Inbee Park — Park In-bee | Inbee | Park
+- Se Ri Pak — Pak Se-ri | Pak
+- Lorena Ochoa — Ochoa
+- Nancy Lopez — Lopez
+- Juli Inkster — Inkster
+- Lexi Thompson — Alexis Thompson | Lexi | Thompson
+- Michelle Wie — Michelle Wie West | Wie
+- Paula Creamer — Creamer
+- Yani Tseng — Tseng
+- Stacy Lewis — Lewis
+- Cristie Kerr — Kerr
+- Catriona Matthew — Matthew
+- Georgia Hall — Hall
+- Brooke Henderson — Brooke M. Henderson | Henderson
+- Minjee Lee
+- Hannah Green — Green
+- Ariya Jutanugarn — Jutanugarn
+- Anna Nordqvist — Nordqvist
+- Suzann Pettersen — Pettersen
+- Morgan Pressel — Pressel
+- Kathy Whitworth — Whitworth
+- Louise Suggs — Suggs
+- Betsy King — King
+- Pat Bradley
+- Patty Sheehan — Sheehan
+- JoAnne Carner — Carner
+- Beth Daniel — Daniel
+- Amy Alcott — Alcott
+- Meg Mallon — Mallon
+- Lilia Vu — Vu
+- Céline Boutier — Boutier
+- Ko Jin-young — Jin Young Ko
+- Chun In-gee — In Gee Chun | Chun
+- Kim Sei-young — Sei Young Kim | Kim
+- Ryu So-yeon — So Yeon Ryu | Ryu
+- Shanshan Feng — Feng Shanshan | Feng
+- Jiyai Shin — Shin Ji-yai | Shin
+- Karen Stupples — Stupples
+- Alison Nicholas — Nicholas
+- Liselotte Neumann — Lotta Neumann | Neumann
+- Helen Alfredsson — Alfredsson
+- Sophia Popov — Popov
+- Ashleigh Buhai — Buhai
+- Allisen Corpuz — Corpuz
+- Maja Stark — Stark
+- Mao Saigo — Saigo
+- Grace Kim
+- Miyū Yamashita — Yamashita
+- Ryu Hae-ran — Hae Ran Ryu
+- Shiho Kuwaki — Kuwaki
+- Jennifer Kupcho — Kupcho
+- Yuka Saso — Saso
+- Betsy Rawls — Rawls
+
+### Tier 4: obscure (140)
+
+- Rich Beem — Beem
+- David Toms — Toms
+- Shaun Micheel — Micheel
+- Hubert Green
+- Andy North — North
+- Steve Elkington — Elkington
+- Lee Janzen — Janzen
+- Mark Brooks
+- Steve Jones
+- Willie Anderson — Anderson
+- Jim Barnes — Barnes
+- Tommy Armour — Armour
+- Denny Shute — Densmore Shute | Shute
+- Ralph Guldahl — Guldahl
+- Jimmy Demaret — Demaret
+- Cary Middlecoff — Middlecoff
+- Julius Boros — Boros
+- Larry Nelson
+- Ted Ray — Ray
+- Jock Hutchison — Hutchison
+- Leo Diegel — Diegel
+- Olin Dutra — Dutra
+- Horton Smith
+- Paul Runyan — Runyan
+- Henry Picard — Picard
+- Craig Wood — Wood
+- Jack Burke Jr. — Jack Burke | Burke
+- Doug Ford — Ford
+- Dave Stockton — Stockton
+- David Graham — Graham
+- Lloyd Mangrum — Mangrum
+- Ken Venturi — Venturi
+- Tony Lema — Lema
+- Gene Littler — Littler
+- Gay Brewer — Brewer
+- Orville Moody — Moody
+- Lou Graham
+- Jerry Pate — Pate
+- Lanny Wadkins — Wadkins
+- Hal Sutton — Sutton
+- Bob Tway — Tway
+- Scott Simpson
+- Jeff Sluman — Sluman
+- Wayne Grady — Grady
+- Tommy Aaron
+- Charles Coody — Coody
+- George Archer — Archer
+- Bob Goalby — Goalby
+- Kel Nagle — Nagle
+- Max Faulkner — Faulkner
+- Fred Daly
+- Tommy Bolt — Bolt
+- Art Wall Jr. — Art Wall | Wall
+- Dow Finsterwald — Finsterwald
+- Bob Rosburg — Rosburg
+- Jerry Barber — Barber
+- Bobby Nichols — Nichols
+- Dave Marr — Marr
+- Al Geiberger — Geiberger
+- Don January — January
+- John Mahaffey — Mahaffey
+- Bill Rogers — Rogers
+- Willie Park Sr. — Willie Park Senior | Willie Park
+- Willie Park Jr. — Willie Park Junior
+- Harold Hilton — Hilton
+- John Ball — Ball
+- Bob Ferguson — Ferguson
+- Jamie Anderson — James Anderson
+- Bob Martin
+- Lawson Little — Little
+- Johnny Goodman — Goodman
+- Chick Evans — Charles Evans | Evans
+- Jerome Travers — Jerry Travers | Travers
+- John McDermott — Johnny McDermott | McDermott
+- Alex Smith
+- Willie Smith
+- Sandy Herd — Herd
+- Jack White
+- George Duncan — Duncan
+- Arthur Havers — Havers
+- Sandra Haynie — Haynie
+- Donna Caponi — Donna Caponi Young | Caponi
+- Hollis Stacy — Stacy
+- Susie Berning — Susie Maxwell Berning | Susie Maxwell | Berning
+- Carol Mann — Mann
+- Jan Stephenson — Stephenson
+- Sally Little
+- Sandra Palmer
+- Jane Geddes — Geddes
+- Brandie Burton — Burton
+- Dottie Pepper — Dottie Mochrie | Dottie Pepper Mochrie | Mochrie | Pepper
+- Sherri Steinhauer — Steinhauer
+- Brittany Lincicome — Lincicome
+- Danielle Kang — Kang
+- Pernilla Lindberg — Lindberg
+- Hinako Shibuno — Shibuno
+- Patty Tavatanakit — Tavatanakit
+- Ayaka Furue — Furue
+- Yin Ruoning — Ruoning Yin | Yin
+- Mirim Lee
+- Lee Jeong-eun — Jeongeun Lee | Lee6
+- Park Sung-hyun — Sung Hyun Park
+- Kim Hyo-joo — Hyo Joo Kim
+- Kim A-lim — A Lim Kim
+- Birdie Kim — Kim Ju-yun
+- In-Kyung Kim — Kim In-kyung
+- Eun-Hee Ji — Ji Eun-hee | Ji
+- Na Yeon Choi — Choi Na-yeon | Choi
+- Jeong Jang — Jang Jeong | Jang
+- Grace Park — Park Ji-eun
+- Sun-Young Yoo — Yoo Sun-young | Yoo
+- Amy Yang — Yang Hee-young
+- Brittany Lang — Lang
+- Angela Stanford — Stanford
+- Mo Martin
+- Hilary Lunke — Lunke
+- Lauri Merten — Merten
+- Patricia Meunier-Lebouc — Meunier-Lebouc
+- Kelly Robbins — Robbins
+- Pat Hurst — Hurst
+- Tammie Green
+- Jenny Lidback — Lidback
+- Kathy Baker — Baker
+- Martha Nause — Nause
+- Colleen Walker
+- Christa Johnson
+- Cathy Johnston-Forbes — Cathy Johnston | Johnston-Forbes
+- Donna Andrews — Andrews
+- Nancy Scranton — Scranton
+- Nanci Bowen — Bowen
+- Sherri Turner — Turner
+- Marlene Hagge — Marlene Bauer Hagge | Marlene Bauer | Hagge
+- Mary Mills — Mills
+- Beverly Hanson — Hanson
+- Betty Jameson — Jameson
+- Fay Crocker — Crocker
+- Hisako Higuchi — Chako Higuchi | Higuchi
+- Sandra Post — Post
+- Alice Miller
+- Janet Anderson — Janet Alex
+
+### Tier 5: expert (67)
+
+- Andrew Strath — Strath
+- Tom Kidd — Kidd
+- Mungo Park
+- Willie Fernie — Fernie
+- Jack Simpson
+- David Brown — Brown
+- Jack Burns — Burns
+- Hugh Kirkaldy — Kirkaldy
+- Willie Auchterlonie — Auchterlonie
+- Horace Rawlins — Rawlins
+- James Foulis — Foulis
+- Joe Lloyd — Lloyd
+- Fred Herd
+- Laurie Auchterlonie
+- Alec Ross — Alex Ross | Ross
+- Fred McLeod — McLeod
+- George Sargent — Sargent
+- Cyril Walker
+- Willie Macfarlane — Macfarlane
+- Johnny Farrell — Farrell
+- Billy Burke
+- Tom Creavy — Creavy
+- Sam Parks Jr. — Sam Parks | Parks
+- Alf Perry
+- Johnny Revolta — Revolta
+- Tony Manero — Manero
+- Alf Padgham — Padgham
+- Reg Whitcombe — Whitcombe
+- Dick Burton
+- Vic Ghezzi — Ghezzi
+- Bob Hamilton
+- Herman Keiser — Keiser
+- Lew Worsham — Lou Worsham | Worsham
+- Jim Ferrier — Ferrier
+- Claude Harmon — Harmon
+- Chandler Harper — Harper
+- Jim Turnesa — Turnesa
+- Walter Burkemo — Burkemo
+- Ed Furgol — Furgol
+- Chick Harbert — Harbert
+- Dick Mayer — Mayer
+- Lionel Hebert
+- Jay Hebert — Hebert
+- Mary Lena Faulk — Faulk
+- Kathy Cornelius — Cornelius
+- Marilynn Smith
+- Peggy Kirk Bell — Peggy Kirk | Bell
+- Judy Kimball — Kimball
+- Murle Lindstrom — Murle Breer | Breer | Lindstrom
+- Shirley Englehorn — Englehorn
+- Gloria Ehret — Ehret
+- Kathy Ahern — Ahern
+- Jerilyn Britz — Britz
+- Betty Burfeindt — Burfeindt
+- Sandra Spuzich — Spuzich
+- Joyce Ziske — Ziske
+- Helen Hicks — Hicks
+- Opal Hill — Hill
+- June Beebe — Beebe
+- Bea Barrett — Barrett
+- Dorothy Kirby — Kirby
+- Helen Dettweiler — Dettweiler
+- Marian McDougall — McDougall
+- Lucia Mida — Lee Mida | Mrs Lee Mida | Mida
+- Jane Weiller — Weiller
+- Jody Anschutz — Jody Rosenthal | Rosenthal | Anschutz
+- Pat O'Sullivan — O'Sullivan
+
+### Tier 6: rare jackpots (3)
+
+- Arnaud Massy — Massy
+- Jack Fleck — Fleck
+- Catherine Lacoste — Lacoste
+
+## Refused on purpose (11)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Arnold | Gary | Nick | Ernie | Jordan | Jon | Sergio | Padraig | Ian | Bernhard | Shane | Darren | Graeme | Adam | Vijay | Payne | John | Fred | Sam | Bobby | Walter | Ben | Tom | Harry | Collin | Hideki | Matt | Danny | Henrik | Retief | Jim | Mark | Paul | Louis | Charl | Trevor | Zach | Jason | Keegan | Jimmy | Patrick | Francesco | Cameron | Brian | Wyndham | Ryan | Justin | Dustin | Laura | Karrie | Lorena | Michelle | Paula | Yani | Nancy | Patty | Mickey | Louise | Juli | Kathy | Betsy | Minjee | Hannah | Georgia | Brooke | Lilia | Ariya | Catriona | Grace | Willie | Bob | Tony | Sandy | Greg — "First names won't do here. The deep wants a surname."
+- Perry — "Kenny Perry's majors came on the senior tour, which doesn't count. Give a first name too."
+- Colin Montgomerie | Montgomerie | Monty — "Five times a runner-up in majors. His only majors came on the senior tour, which doesn't count here."
+- Lee Westwood | Westwood — "World No. 1, but never a major winner."
+- Luke Donald — "World No. 1, but never a major winner."
+- Tommy Fleetwood | Fleetwood | Ian Poulter | Poulter | Paul Casey | Matt Kuchar | Rickie Fowler | Tony Finau | Viktor Hovland | Ludvig Aberg | Tyrrell Hatton | Patrick Cantlay | Charley Hull | Hull | Nasa Hataoka | Jeeno Thitikul | Carlota Ciganda | Leona Maguire | Mel Reid | Bronte Law — "No major title, at least not yet."
+- Steve Stricker | Stricker | Kenny Perry | Fred Funk | Jay Haas — "His majors came on the senior tour, which doesn't count here."
+- Jean van de Velde | Van de Velde — "Led the 1999 Open by three shots on the last tee, and lost it."
+- Doug Sanders — "Missed a short putt to win the 1970 Open, then lost the play-off."
+- Sophie Gustafson | Penny Grice-Whittaker | Debbie Massey | Jenny Lee Smith | Emilee Klein | Karen Lunn — "Won the Women's British Open before 2001, when it became a major."
+- Happy Gilmore | Roy McAvoy | Tin Cup | Bagger Vance | Carl Spackler | Shooter McGavin | Rannulph Junuh — "A film golfer. Not real, sadly."

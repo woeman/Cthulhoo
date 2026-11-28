@@ -1,0 +1,343 @@
+# Name a London Underground station.
+
+Question id: `london-underground` · category: geography · source: `data/geography.json`
+
+Rules: Any station on the London Underground today, by its current name or an old one. Stations served only by the Overground, DLR, Elizabeth line, trams or main-line trains don't count, and nor do closed ones.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (269 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- King's Cross St Pancras — King's Cross | St Pancras | London King's Cross | London St Pancras | KX | King's X
+- Oxford Circus
+- Piccadilly Circus — Piccadilly
+- Baker Street — Baker St
+- Victoria — London Victoria
+- Waterloo — London Waterloo
+- Paddington — London Paddington
+- Liverpool Street — London Liverpool Street | Bishopsgate | Liverpool St
+- Leicester Square
+- Covent Garden
+- Euston — London Euston
+- Bank
+- London Bridge
+- Westminster — Westminster Bridge
+- Tottenham Court Road — Oxford Street | TCR | Tottenham | Tottenham Court Rd
+
+### Tier 2: common (50)
+
+- Elephant & Castle — Elephant
+- Bond Street — Bond St
+- Green Park — Dover Street
+- Marble Arch
+- Holborn
+- Charing Cross — London Charing Cross | Trafalgar Square | Strand
+- Embankment — Charing Cross Embankment
+- Knightsbridge
+- South Kensington — Kensington
+- Earl's Court
+- Notting Hill Gate — Notting Hill
+- Camden Town — Camden
+- Angel
+- Old Street — Old St
+- Moorgate — Moorgate Street
+- Monument — Eastcheap
+- Tower Hill
+- St Paul's — Post Office
+- Brixton
+- Clapham Common — Clapham
+- Wimbledon
+- Hammersmith
+- Shepherd's Bush
+- Wembley Park — Wembley
+- Stratford
+- Canary Wharf
+- Mornington Crescent
+- Highbury & Islington — Highbury
+- Finsbury Park
+- Arsenal — Gillespie Road
+- Russell Square
+- Marylebone — London Marylebone | Great Central
+- Edgware Road — Edgware Rd
+- Sloane Square
+- Vauxhall
+- Oval — Kennington Oval
+- Blackfriars — London Blackfriars
+- Aldgate
+- Whitechapel
+- Mile End
+- Farringdon — Farringdon Street
+- Hyde Park Corner
+- St James's Park
+- Swiss Cottage
+- Golders Green
+- Richmond
+- Ealing Broadway — Ealing
+- Cannon Street — London Cannon Street | Cannon St
+- Heathrow Terminals 2 & 3 — Heathrow Terminal 2 | Heathrow Terminal 3 | Heathrow Central | Heathrow Terminals 1, 2, 3 | Heathrow T2 | Heathrow T3 | Heathrow Terminal 1 | Heathrow T1 | Heathrow | Heathrow Airport
+- Lancaster Gate
+
+### Tier 3: known to fans (95)
+
+- Barbican — Aldersgate | Aldersgate Street
+- Euston Square — Gower Street
+- Goodge Street — Goodge St
+- Warren Street — Euston Road | Warren St
+- Holland Park
+- Queensway — Queen's Road
+- High Street Kensington — Kensington High Street
+- Gloucester Road — Gloucester Rd
+- Pimlico
+- Temple
+- Chancery Lane
+- White City
+- Kew Gardens
+- Wembley Central
+- North Greenwich
+- Battersea Power Station — Battersea
+- Hampstead
+- Highgate
+- Archway
+- Seven Sisters
+- Bethnal Green
+- Kennington — Kenington
+- Borough
+- Southwark
+- Mansion House
+- Aldgate East
+- Regent's Park
+- Great Portland Street — Portland Road | Great Portland St
+- Bayswater
+- Heathrow Terminal 4 — Heathrow T4
+- Heathrow Terminal 5 — Heathrow T5
+- Fulham Broadway — Walham Green
+- Putney Bridge — Putney
+- Parsons Green
+- West Brompton
+- West Kensington
+- Barons Court
+- Turnham Green
+- Acton Town — Mill Hill Park | Acton
+- Ladbroke Grove
+- Warwick Avenue
+- Maida Vale
+- Queen's Park
+- Kilburn
+- West Hampstead
+- Finchley Road — Finchley | Finchley Rd
+- St John's Wood
+- Chalk Farm
+- Belsize Park
+- Kentish Town
+- Tufnell Park
+- Holloway Road — Holloway Rd
+- Caledonian Road — Caledonian Rd
+- Manor House
+- Turnpike Lane
+- Wood Green
+- Arnos Grove
+- Southgate
+- Cockfosters
+- Tottenham Hale
+- Walthamstow Central — Walthamstow | Hoe Street
+- Leyton — Low Leyton
+- Leytonstone
+- West Ham
+- Upton Park
+- East Ham
+- Barking
+- Upminster
+- Canning Town
+- Canada Water
+- Bermondsey
+- Lambeth North — Kennington Road | Westminster Bridge Road
+- Stockwell
+- Clapham North — Clapham Road
+- Clapham South
+- Balham
+- Tooting Bec — Trinity Road
+- Tooting Broadway — Tooting
+- Morden
+- Southfields
+- East Putney
+- Edgware
+- High Barnet
+- East Finchley
+- Finchley Central — Church End | Finchley Church End
+- Brent Cross — Brent
+- Stanmore
+- Harrow-on-the-Hill — Harrow
+- Uxbridge
+- Ealing Common
+- Epping
+- Woodford
+- Amersham
+- Watford
+- Gunnersbury — Brentford Road
+
+### Tier 4: obscure (65)
+
+- Blackhorse Road — Blackhorse Rd
+- Bounds Green
+- Bow Road — Bow Rd
+- Bromley-by-Bow
+- Burnt Oak
+- Chigwell
+- Chiswick Park — Acton Green
+- Chorleywood
+- Colindale
+- Colliers Wood
+- Dagenham East — Dagenham
+- Dollis Hill
+- East Acton
+- Gants Hill
+- Goldhawk Road — Goldhawk Rd
+- Greenford
+- Hainault
+- Hanger Lane
+- Harlesden
+- Harrow & Wealdstone — Wealdstone
+- Hatton Cross
+- Hendon Central
+- Hornchurch
+- Hounslow Central — Heston Hounslow | Hounslow
+- Hounslow East
+- Hounslow West — Hounslow Barracks
+- Kensal Green
+- Kensington (Olympia) — Olympia | Addison Road | Kensington Addison Road
+- Kingsbury
+- Latimer Road — Latimer Rd
+- Loughton
+- Mill Hill East
+- Moor Park — Sandy Lodge
+- Neasden
+- Newbury Park
+- Nine Elms
+- North Acton
+- Northfields
+- Northwood
+- Oakwood — Enfield West
+- Park Royal
+- Pinner
+- Plaistow
+- Ravenscourt Park — Shaftesbury Road
+- Rayners Lane
+- Redbridge
+- Rickmansworth
+- Royal Oak
+- Ruislip
+- Shepherd's Bush Market
+- Snaresbrook
+- South Ealing
+- South Harrow
+- South Wimbledon
+- South Woodford — George Lane
+- Stamford Brook
+- Stepney Green
+- Theydon Bois
+- Totteridge & Whetstone — Totteridge | Whetstone
+- Wanstead
+- Westbourne Park
+- Willesden Green
+- Willesden Junction
+- Wimbledon Park
+- Wood Lane
+
+### Tier 5: expert (42)
+
+- Ruislip Manor
+- Ruislip Gardens
+- Sudbury Hill
+- Sudbury Town
+- North Harrow
+- West Harrow
+- Northwood Hills
+- South Kenton
+- North Ealing
+- Woodside Park — Torrington Park
+- West Finchley
+- Upminster Bridge
+- Becontree — Gale Street
+- Upney
+- Dagenham Heathway
+- Grange Hill
+- Fairlop
+- Barkingside
+- Croxley — Croxley Green
+- Chalfont & Latimer — Chalfont | Chalfont Road
+- Alperton
+- Perivale
+- Boston Manor — Boston Road
+- North Wembley
+- Preston Road — Preston Rd
+- Northwick Park
+- Canons Park
+- Queensbury
+- Kenton
+- Ickenham
+- Hillingdon
+- West Ruislip
+- South Ruislip — Northolt Junction
+- Eastcote
+- Elm Park
+- Stonebridge Park
+- Kilburn Park
+- West Acton
+- Northolt
+- Osterley
+- Debden — Chigwell Lane
+- Buckhurst Hill
+
+### Tier 6: rare jackpots (2)
+
+- Roding Valley
+- Chesham
+
+## Refused on purpose (40)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Chiswick — "A main-line station. Only one Chiswick station is on the Tube, and it has a longer name."
+- Bakerloo | Bakerloo line | Central line | Circle line | Circle | District line | District | Hammersmith & City line | Hammersmith & City | Jubilee line | Jubilee | Metropolitan line | Metropolitan | Northern line | Northern | Piccadilly line | Victoria line | Waterloo & City line | Waterloo & City | Elizabeth line | Elizabeth | Crossrail — "That's a line, not a station."
+- Lioness line | Lioness | Mildmay line | Mildmay | Windrush line | Windrush | Weaver line | Weaver | Suffragette line | Suffragette | Liberty line | Liberty — "One of the Overground's lines, named in 2024. Not a station, and not the Tube."
+- Overground | London Overground | DLR | Docklands Light Railway | Tube | Underground | London Underground | Tramlink — "That's a whole network. Name a station on the Tube."
+- White Hart Lane — "An Overground station, beside Tottenham's stadium."
+- Crystal Palace — "An Overground and main-line station. No Tube line goes there."
+- Clapham Junction — "One of the busiest railway junctions in Britain, but there's no Tube."
+- Fenchurch Street | London Fenchurch Street — "A Monopoly favourite, but a main-line terminus with no Tube."
+- Abbey Road — "A DLR station in east London, far from the Beatles' zebra crossing."
+- Shoreditch — "Closed in 2006. The Overground's Shoreditch High Street replaced it."
+- Wapping | Rotherhithe | Surrey Quays | Surrey Docks | Shadwell | New Cross | New Cross Gate — "On the Tube until 2007, when its line was handed over to the Overground."
+- Hackney — "The Overground serves Hackney. The Tube barely touches it."
+- Dalston Junction | Hoxton | Haggerston | Dalston Kingsland | Dalston | Canonbury | Honor Oak Park | Forest Hill | Sydenham | Penge West | Anerley | Norwood Junction | Denmark Hill | Clapham High Street | Wandsworth Road | Hackney Central | Hackney Wick | Homerton | Hackney Downs | London Fields | Cambridge Heath | Camden Road | Caledonian Road & Barnsbury | Gospel Oak | Hampstead Heath | Finchley Road & Frognal | South Hampstead | Kilburn High Road | Brondesbury | Brondesbury Park | Kensal Rise | Acton Central | South Acton | Imperial Wharf | Kentish Town West | Watford High Street | Bushey | Carpenders Park | Hatch End | Headstone Lane | Leytonstone High Road | Leyton Midland Road | Walthamstow Queen's Road | South Tottenham | Harringay Green Lanes | Crouch Hill | Upper Holloway | Woodgrange Park | Wanstead Park | Barking Riverside | Chingford | Highams Park | Wood Street | St James Street | Clapton | Rectory Road | Stoke Newington | Stamford Hill | Bruce Grove | Silver Street | Edmonton Green | Southbury | Turkey Street | Theobalds Grove | Cheshunt | Enfield Town | Bush Hill Park | Emerson Park | Shoreditch High Street | Queens Road Peckham | Peckham Rye | Peckham — "An Overground station, not the Underground."
+- Cutty Sark | Island Gardens | Mudchute | Crossharbour | South Quay | Heron Quays | West India Quay | Westferry | Limehouse | Tower Gateway | Poplar | All Saints | Langdon Park | Devons Road | Bow Church | Pudding Mill Lane | Stratford High Street | Beckton | Gallions Reach | Cyprus | Beckton Park | Royal Albert | Prince Regent | Royal Victoria | West Silvertown | Pontoon Dock | London City Airport | King George V | Woolwich Arsenal | Star Lane | Stratford International | Elverson Road | Deptford Bridge | East India | Blackwall | Greenwich | Lewisham — "A DLR station, not the Underground."
+- Custom House | Woolwich | Abbey Wood | Ilford | Romford | Shenfield | Maryland | Forest Gate | Manor Park | Seven Kings | Goodmayes | Chadwell Heath | Gidea Park | Harold Wood | Brentwood | Southall | Hanwell | West Ealing | Acton Main Line | Hayes & Harlington | West Drayton | Iver | Langley | Slough | Burnham | Taplow | Maidenhead | Twyford | Reading — "An Elizabeth line station, not the Underground."
+- City Thameslink | Battersea Park | Queenstown Road | Waterloo East | Wandsworth Town | Wandsworth Common | Kingston | Surbiton | Twickenham | Sutton | Bromley South | Hampton Court | Wembley Stadium | Hendon | Cricklewood | Mill Hill Broadway | New Barnet | Alexandra Palace | Tulse Hill | Herne Hill | Catford | Gatwick Airport | Stansted Airport | Luton Airport | Brent Cross West — "A main-line station with no Tube."
+- East Croydon | West Croydon | Croydon | Morden Road | Mitcham | Therapia Lane | Sandilands | Elmers End | Beckenham Junction | New Addington | Woodside | Lloyd Park — "A tram stop or main-line station. No Tube reaches it."
+- Watford Junction — "A main-line and Overground station, not the Tube's."
+- Aldwych | Strand (Aldwych) — "Closed in 1994. Its platforms are now hired out for filming."
+- British Museum — "Closed in 1933. Legend says an Egyptian ghost haunts it."
+- Down Street — "Closed in 1932. Churchill's War Cabinet sheltered there during the Blitz."
+- York Road — "Closed in 1932."
+- Brompton Road — "Closed in 1934."
+- City Road — "Closed in 1922."
+- South Kentish Town — "Closed in 1924."
+- King William Street — "Closed in 1900, only ten years after it opened."
+- Lord's | Marlborough Road — "Closed in 1939."
+- Blake Hall — "Closed in 1981."
+- Verney Junction — "The Metropolitan's farthest outpost, closed in 1936."
+- Brill — "Closed in 1935."
+- North End | Bull & Bush — "Built, then abandoned before it ever opened."
+- Mark Lane — "Closed in 1967, replaced by Tower Hill next door."
+- Ongar | North Weald — "Closed in 1994, when the far end of the Central line was cut back."
+- Aylesbury — "Off the Underground since 1961. Main-line trains still run there."
+- Walford East — "Fictional: the EastEnders stop."
+- Tower Bridge — "A bridge. The nearest Tube is Tower Hill."
+- Big Ben — "A bell, not a station. Try Westminster."
+- Old Kent Road | Park Lane | Mayfair | Pall Mall | Whitehall | Fleet Street | Regent Street | Northumberland Avenue | Vine Street | Marlborough Street | Coventry Street | Pentonville Road | Whitechapel Road — "On the Monopoly board, but not a Tube station."
+- Buckingham Palace — "A palace. Try Green Park, or St James's Park."
+- Refused without a reason (near misses of real answers): Liverpool

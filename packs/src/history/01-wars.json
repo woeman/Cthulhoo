@@ -15,7 +15,11 @@
     "World War One",
     "Great War",
     "War to End All Wars",
-    "1914-1918 war"
+    "1914-1918 war",
+    "WWl",
+    "First World",
+    "1st World",
+    "1914-1918"
    ],
    "tier": 1
   },
@@ -33,7 +37,13 @@
     "Wold War 2",
     "Wold War Two",
     "World War",
-    "World Wars"
+    "World Wars",
+    "WW11",
+    "World War 11",
+    "WWll",
+    "Second World",
+    "2nd World",
+    "1939-1945"
    ],
    "tier": 1
   },
@@ -50,7 +60,8 @@
     "American War in Vietnam",
     "Vietnam–American War",
     "Vietnam War 1955",
-    "Indochina War"
+    "Indochina War",
+    "Indochina"
    ],
    "tier": 1
   },
@@ -78,19 +89,25 @@
     "War of Secession",
     "Civil War (US)",
     "Civil War",
-    "Civil Wars"
+    "Civil Wars",
+    "US Civil",
+    "Northern Aggression"
    ],
    "tier": 1
   },
   {
    "answer": "Cold War",
+   "aliases": [
+    "Cold"
+   ],
    "tier": 1,
    "lore": "George Orwell helped popularise the phrase in a 1945 essay about the atomic bomb."
   },
   {
    "answer": "Hundred Years' War",
    "aliases": [
-    "Hundred Year War"
+    "Hundred Year War",
+    "Hundred Years"
    ],
    "tier": 1,
    "lore": "It actually ran for 116 years, from 1337 to 1453, with long truces in between."
@@ -105,7 +122,14 @@
     "War of the Sixth Coalition",
     "War of the Seventh Coalition",
     "Coalition Wars",
-    "Hundred Days"
+    "Hundred Days",
+    "Napoleonic",
+    "Napoleon's",
+    "Third Coalition",
+    "Fourth Coalition",
+    "Fifth Coalition",
+    "Sixth Coalition",
+    "Seventh Coalition"
    ],
    "tier": 1
   },
@@ -116,7 +140,8 @@
     "Great Civil War",
     "First English Civil War",
     "Second English Civil War",
-    "Third English Civil War"
+    "Third English Civil War",
+    "Great Civil"
    ],
    "tier": 1
   },
@@ -137,7 +162,14 @@
     "Iraq War 1991",
     "Desert Shield",
     "Operation Desert Shield",
-    "Kuwait"
+    "Kuwait",
+    "Gulf War 1",
+    "Gulf War I",
+    "Gulf War One",
+    "First Gulf",
+    "Persian Gulf",
+    "1991 Gulf",
+    "First Iraq"
    ],
    "tier": 1
   },
@@ -158,7 +190,10 @@
     "War in Iraq 2003",
     "Gulf War 2003",
     "Second Iraq War",
-    "2003 invasion of Iraq"
+    "2003 invasion of Iraq",
+    "Second Gulf",
+    "2003 Iraq",
+    "Second Iraq"
    ],
    "tier": 1
   },
@@ -174,7 +209,8 @@
     "2001 Afghanistan War",
     "Afghanistan War 2001",
     "Afghan War 2001",
-    "Afghanistan war of 2001"
+    "Afghanistan war of 2001",
+    "Afghan"
    ],
    "tier": 1
   },
@@ -192,7 +228,12 @@
     "Russia–Ukraine conflict",
     "Russo-Ukrainian conflict",
     "Special military operation",
-    "Invasion of Ukraine"
+    "Invasion of Ukraine",
+    "Ukraine Russia war",
+    "Russia Ukraine",
+    "Ukrainian",
+    "Donbas",
+    "Russo-Ukrainian"
    ],
    "tier": 1
   },
@@ -206,7 +247,8 @@
     "War of American Independence",
     "War of Independence",
     "Independence War",
-    "Wars of Independence"
+    "Wars of Independence",
+    "American Independence"
    ],
    "tier": 1
   },
@@ -214,7 +256,11 @@
    "answer": "Wars of the Roses",
    "aliases": [
     "War of the Roses",
-    "Cousins' War"
+    "Cousins' War",
+    "War of Roses",
+    "Wars of Roses",
+    "Roses",
+    "Cousins'"
    ],
    "tier": 1,
    "lore": "The name caught on in the 19th century, helped along by Walter Scott. Nobody fighting them called them that."
@@ -251,7 +297,14 @@
     "2nd Boer War",
     "Anglo-Boer War",
     "South African War",
-    "Transvaal War"
+    "Transvaal War",
+    "Boer",
+    "First Boer",
+    "1st Boer",
+    "Second Boer",
+    "2nd Boer",
+    "Anglo-Boer",
+    "Transvaal"
    ],
    "tier": 2
   },
@@ -259,20 +312,25 @@
    "answer": "War of 1812",
    "aliases": [
     "1812 War",
-    "Anglo-American War of 1812"
+    "Anglo-American War of 1812",
+    "1812"
    ],
    "tier": 2
   },
   {
    "answer": "Thirty Years' War",
    "aliases": [
-    "Thirty Year War"
+    "Thirty Year War",
+    "Thirty Years"
    ],
    "tier": 2,
    "lore": "It began in 1618 when two Catholic regents and their secretary were thrown from a window in Prague. All three survived."
   },
   {
    "answer": "Seven Years' War",
+   "aliases": [
+    "Seven Years"
+   ],
    "tier": 2
   },
   {
@@ -290,7 +348,16 @@
     "Third Punic War",
     "3rd Punic War",
     "Hannibal's war",
-    "Hannibalic War"
+    "Hannibalic War",
+    "Punic",
+    "First Punic",
+    "1st Punic",
+    "Second Punic",
+    "2nd Punic",
+    "Third Punic",
+    "3rd Punic",
+    "Hannibal's",
+    "Hannibalic"
    ],
    "tier": 2
   },
@@ -301,7 +368,8 @@
     "War of Troy",
     "Fall of Troy",
     "Troy",
-    "Rojan War"
+    "Rojan War",
+    "Trojan"
    ],
    "tier": 2,
    "lore": "Legend, mostly. But a real Troy was dug up at Hisarlik, in Turkey, in the 1870s."
@@ -322,7 +390,9 @@
     "1967 war",
     "1967 Arab–Israeli War",
     "Third Arab–Israeli War",
-    "Six-Day War 1967"
+    "Six-Day War 1967",
+    "Six-Day",
+    "Six Days'"
    ],
    "tier": 2
   },
@@ -348,7 +418,12 @@
     "Second Opium War",
     "2nd Opium War",
     "Anglo-Chinese War",
-    "Arrow War"
+    "Arrow War",
+    "Opium",
+    "First Opium",
+    "1st Opium",
+    "Second Opium",
+    "2nd Opium"
    ],
    "tier": 2
   },
@@ -388,7 +463,8 @@
    "aliases": [
     "Mexican War",
     "US–Mexican War",
-    "American intervention in Mexico"
+    "American intervention in Mexico",
+    "US–Mexican"
    ],
    "tier": 2
   },
@@ -415,7 +491,9 @@
    "answer": "Anglo-Zulu War",
    "aliases": [
     "Zulu War",
-    "Zulu Wars"
+    "Zulu Wars",
+    "Anglo-Zulu",
+    "Zulu"
    ],
    "tier": 2
   },
@@ -426,7 +504,9 @@
     "Imposed War",
     "Sacred Defence",
     "Sacred Defense",
-    "Iran–Iraq War 1980"
+    "Iran–Iraq War 1980",
+    "Iran–Iraq",
+    "Iraq–Iran"
    ],
    "tier": 2
   },
@@ -438,7 +518,8 @@
     "Afghan–Soviet War",
     "Russian–Afghan War",
     "Russo-Afghan War",
-    "Russian war in Afghanistan"
+    "Russian war in Afghanistan",
+    "Russo-Afghan"
    ],
    "tier": 2
   },
@@ -456,7 +537,18 @@
     "Gaza wars",
     "Operation Cast Lead",
     "Operation Protective Edge",
-    "2014 Gaza War"
+    "2014 Gaza War",
+    "Israel war",
+    "Israel Hamas",
+    "Hamas war",
+    "Israel–Gaza",
+    "Hamas–Israel",
+    "2023 Gaza",
+    "2014 Gaza",
+    "Hamas",
+    "War on Hamas",
+    "War with Hamas",
+    "War against Hamas"
    ],
    "tier": 2
   },
@@ -466,7 +558,8 @@
     "Syrian war",
     "Syria",
     "War in Syria",
-    "Syrian conflict"
+    "Syrian conflict",
+    "Syrian civil"
    ],
    "tier": 2
   },
@@ -496,7 +589,9 @@
     "Suez Canal Crisis",
     "Suez",
     "Sinai campaign",
-    "Operation Musketeer"
+    "Operation Musketeer",
+    "Sinai",
+    "Suez Canal"
    ],
    "tier": 2
   },
@@ -504,7 +599,9 @@
    "answer": "Irish War of Independence",
    "aliases": [
     "Anglo-Irish War",
-    "Black and Tan War"
+    "Black and Tan War",
+    "Anglo-Irish",
+    "Black and Tan"
    ],
    "tier": 2
   },
@@ -514,7 +611,8 @@
     "Bosnia",
     "War in Bosnia",
     "Bosnian civil war",
-    "War in Bosnia and Herzegovina"
+    "War in Bosnia and Herzegovina",
+    "Bosnia and Herzegovina"
    ],
    "tier": 2
   },
@@ -534,7 +632,11 @@
     "Wars in Yugoslavia",
     "Yugoslav civil war",
     "Balkan conflict",
-    "Wars of Yugoslav succession"
+    "Wars of Yugoslav succession",
+    "Yugoslavian War",
+    "Yugoslavian Wars",
+    "Yugoslavia War",
+    "Yugoslavia"
    ],
    "tier": 2
   },
@@ -551,7 +653,8 @@
     "Great Indian Mutiny",
     "Revolt of 1857",
     "Mutiny",
-    "1857 uprising"
+    "1857 uprising",
+    "Sepoy"
    ],
    "tier": 2
   },
@@ -589,14 +692,19 @@
     "Operation True Promise IV",
     "Epic Fury",
     "Roaring Lion",
-    "Iran"
+    "Iran",
+    "2026 Iran",
+    "US–Iran",
+    "Third Gulf"
    ],
    "tier": 2
   },
   {
    "answer": "Emu War",
    "aliases": [
-    "Great Emu War"
+    "Great Emu War",
+    "Emu",
+    "Great Emu"
    ],
    "tier": 2,
    "openSecret": true,
@@ -608,7 +716,9 @@
     "Gallic War",
     "Caesar's Gallic War",
     "Conquest of Gaul",
-    "Roman conquest of Gaul"
+    "Roman conquest of Gaul",
+    "Gallic",
+    "Gaul"
    ],
    "tier": 3
   },
@@ -619,7 +729,12 @@
     "Graeco-Persian Wars",
     "Greek–Persian Wars",
     "Medic Wars",
-    "Persian War"
+    "Persian War",
+    "Persian invasion of Greece",
+    "Persian invasions of Greece",
+    "Greco-Persian",
+    "Graeco-Persian",
+    "Greek–Persian"
    ],
    "tier": 3
   },
@@ -649,7 +764,8 @@
    "answer": "Peninsular War",
    "aliases": [
     "Spanish War of Independence",
-    "Peninsula War"
+    "Peninsula War",
+    "Peninsula"
    ],
    "tier": 3
   },
@@ -659,7 +775,10 @@
     "War of the First Coalition",
     "War of the Second Coalition",
     "French Revolutionary War",
-    "Wars of the French Revolution"
+    "Wars of the French Revolution",
+    "First Coalition",
+    "Second Coalition",
+    "French Revolutionary"
    ],
    "tier": 3
   },
@@ -676,7 +795,9 @@
     "The Fifteen",
     "Jacobite uprising",
     "Jacobite War",
-    "Jacobite Wars"
+    "Jacobite Wars",
+    "Jacobite",
+    "Jacobites"
    ],
    "tier": 3
   },
@@ -685,12 +806,16 @@
    "aliases": [
     "British Civil Wars",
     "Civil Wars of the Three Kingdoms",
-    "War of the Three Kingdoms"
+    "War of the Three Kingdoms",
+    "British Civil"
    ],
    "tier": 3
   },
   {
    "answer": "Irish Civil War",
+   "aliases": [
+    "Irish Civil"
+   ],
    "tier": 3
   },
   {
@@ -698,7 +823,8 @@
    "aliases": [
     "Dutch Revolt",
     "Dutch War of Independence",
-    "Eighty Year War"
+    "Eighty Year War",
+    "Eighty Years"
    ],
    "tier": 3
   },
@@ -707,7 +833,8 @@
    "aliases": [
     "Wars of Religion",
     "Huguenot Wars",
-    "French Religious Wars"
+    "French Religious Wars",
+    "Huguenot"
    ],
    "tier": 3
   },
@@ -731,7 +858,8 @@
     "War of Scottish Independence",
     "First War of Scottish Independence",
     "Second War of Scottish Independence",
-    "Scottish War of Independence"
+    "Scottish War of Independence",
+    "Scottish Independence"
    ],
    "tier": 3
   },
@@ -748,7 +876,8 @@
     "Fourth Anglo-Dutch War",
     "4th Anglo-Dutch War",
     "Dutch Wars",
-    "Dutch War"
+    "Dutch War",
+    "Anglo-Dutch"
    ],
    "tier": 3
   },
@@ -800,7 +929,11 @@
     "First Balkan War",
     "1st Balkan War",
     "Second Balkan War",
-    "2nd Balkan War"
+    "2nd Balkan War",
+    "Balkan",
+    "First Balkan",
+    "1st Balkan",
+    "2nd Balkan"
    ],
    "tier": 3
   },
@@ -822,7 +955,8 @@
    "aliases": [
     "Seven Weeks' War",
     "Prussian–Austrian War",
-    "Austro-Prussian-Italian War"
+    "Austro-Prussian-Italian War",
+    "Seven Weeks'"
    ],
    "tier": 3
   },
@@ -830,7 +964,8 @@
    "answer": "Winter War",
    "aliases": [
     "Russo-Finnish War",
-    "Soviet–Finnish War"
+    "Soviet–Finnish War",
+    "Winter"
    ],
    "tier": 3
   },
@@ -847,7 +982,8 @@
    "aliases": [
     "Asia-Pacific War",
     "Greater East Asia War",
-    "War in the Pacific"
+    "War in the Pacific",
+    "Asia-Pacific"
    ],
    "tier": 3
   },
@@ -869,7 +1005,8 @@
    "answer": "Taiping Rebellion",
    "aliases": [
     "Taiping Civil War",
-    "Taiping Revolution"
+    "Taiping Revolution",
+    "Taiping"
    ],
    "tier": 3
   },
@@ -878,7 +1015,9 @@
    "aliases": [
     "Boxer Uprising",
     "Yihetuan Movement",
-    "Boxer War"
+    "Boxer War",
+    "Boxer",
+    "Boxers"
    ],
    "tier": 3
   },
@@ -942,7 +1081,9 @@
     "Sino-Indian War of 1962",
     "1962 Sino-Indian War",
     "India–China war of 1962",
-    "Indo-Chinese War of 1962"
+    "Indo-Chinese War of 1962",
+    "Sino-Indian",
+    "India–China"
    ],
    "tier": 3
   },
@@ -976,7 +1117,14 @@
     "1965 Indo-Pak war",
     "India–Pakistan war of 1971",
     "India–Pakistan war of 1965",
-    "Operation Bunyan-um-Marsoos"
+    "Operation Bunyan-um-Marsoos",
+    "Kashmir conflict",
+    "Kashmir",
+    "Indo-Pak",
+    "1971 Indo-Pak",
+    "1965 Indo-Pak",
+    "2025 India–Pakistan",
+    "India–Pakistan"
    ],
    "tier": 3
   },
@@ -988,7 +1136,8 @@
     "Bangladeshi War of Independence",
     "Muktijuddho",
     "Muktijuddha",
-    "1971 Liberation War"
+    "1971 Liberation War",
+    "Bangladesh"
    ],
    "tier": 3
   },
@@ -1000,7 +1149,8 @@
     "Eelam War",
     "Eelam Wars",
     "Eelam War IV",
-    "Sri Lanka"
+    "Sri Lanka",
+    "Eelam"
    ],
    "tier": 3
   },
@@ -1012,7 +1162,8 @@
     "Israeli War of Independence",
     "1948 Palestine war",
     "1948 war",
-    "Palestine war"
+    "Palestine war",
+    "Arab–Israeli"
    ],
    "tier": 3
   },
@@ -1034,7 +1185,10 @@
     "Hezbollah war",
     "Israel–Lebanon war",
     "Operation Peace for Galilee",
-    "July War"
+    "July War",
+    "1982 Lebanon",
+    "2006 Lebanon",
+    "Hezbollah"
    ],
    "tier": 3
   },
@@ -1044,7 +1198,8 @@
     "Yemen",
     "War in Yemen",
     "Yemeni war",
-    "Yemen war"
+    "Yemen war",
+    "Yemeni civil"
    ],
    "tier": 3
   },
@@ -1058,7 +1213,10 @@
     "2nd Chechen War",
     "Chechnya",
     "Russo-Chechen War",
-    "War in Chechnya"
+    "War in Chechnya",
+    "Chechen",
+    "1st Chechen",
+    "2nd Chechen"
    ],
    "tier": 3
   },
@@ -1070,7 +1228,8 @@
     "Five-Day War",
     "Russia–Georgia war",
     "South Ossetia war",
-    "Georgia"
+    "Georgia",
+    "Five-Day"
    ],
    "tier": 3
   },
@@ -1090,7 +1249,8 @@
     "First Libyan Civil War",
     "Libya",
     "Libyan War",
-    "Libyan Wars"
+    "Libyan Wars",
+    "Libyan civil"
    ],
    "tier": 3
   },
@@ -1103,7 +1263,8 @@
     "First Sudanese Civil War",
     "Second Sudanese Civil War",
     "Sudan",
-    "2023 Sudan war"
+    "2023 Sudan war",
+    "2023 Sudan"
    ],
    "tier": 3
   },
@@ -1115,7 +1276,8 @@
     "Burmese conflict",
     "Myanmar",
     "Burma civil war",
-    "Burma"
+    "Burma",
+    "Burma civil"
    ],
    "tier": 3
   },
@@ -1127,7 +1289,10 @@
     "Operation Rising Lion",
     "Operation Midnight Hammer",
     "2025 Iran–Israel war",
-    "Operation True Promise III"
+    "Operation True Promise III",
+    "Twelve-Day",
+    "Iran–Israel",
+    "Israel–Iran"
    ],
    "tier": 3
   },
@@ -1140,7 +1305,8 @@
     "Second Anglo-Afghan War",
     "2nd Anglo-Afghan War",
     "Third Anglo-Afghan War",
-    "3rd Anglo-Afghan War"
+    "3rd Anglo-Afghan War",
+    "Anglo-Afghan"
    ],
    "tier": 3
   },
@@ -1153,7 +1319,14 @@
     "Second Cod War",
     "2nd Cod War",
     "Third Cod War",
-    "3rd Cod War"
+    "3rd Cod War",
+    "Cod",
+    "First Cod",
+    "1st Cod",
+    "Second Cod",
+    "2nd Cod",
+    "Third Cod",
+    "3rd Cod"
    ],
    "tier": 3,
    "lore": "Britain and Iceland clashed three times over fishing grounds between 1958 and 1976. Iceland got its way each time."
@@ -1161,7 +1334,12 @@
   {
    "answer": "Anglo-Zanzibar War",
    "aliases": [
-    "Zanzibar War"
+    "Zanzibar War",
+    "Shortest war",
+    "38 minute war",
+    "Zanzibar",
+    "Shortest",
+    "38 minute"
    ],
    "tier": 3,
    "lore": "The shortest war on record. In 1896 Zanzibar gave in after about 40 minutes of British shelling."
@@ -1181,7 +1359,11 @@
     "Māori Wars",
     "Land Wars",
     "New Zealand Land Wars",
-    "Anglo-Māori wars"
+    "Anglo-Māori wars",
+    "New Zealand",
+    "Māori",
+    "Anglo-Māori",
+    "Land"
    ],
    "tier": 3
   },
@@ -1200,7 +1382,9 @@
     "Mexican drug war",
     "War against drugs",
     "Philippine drug war",
-    "Duterte's drug war"
+    "Duterte's drug war",
+    "Drug",
+    "Mexican drug"
    ],
    "tier": 3
   },
@@ -1211,7 +1395,9 @@
     "Israel–Palestine conflict",
     "Palestinian–Israeli conflict",
     "Israel–Palestine war",
-    "Israeli–Palestinian war"
+    "Israeli–Palestinian war",
+    "Palestinian–Israeli",
+    "Israeli–Palestinian"
    ],
    "tier": 3
   },
@@ -1230,7 +1416,9 @@
    "aliases": [
     "Phony War",
     "Sitzkrieg",
-    "Drole de guerre"
+    "Drole de guerre",
+    "Phoney",
+    "Phony"
    ],
    "tier": 4,
    "lore": "The strange quiet of 1939 and 1940, when Britain and France were at war with Germany but almost nothing happened in the West."
@@ -1239,7 +1427,8 @@
    "answer": "Haitian Revolution",
    "aliases": [
     "Haitian War of Independence",
-    "Haitian Revolutionary War"
+    "Haitian Revolutionary War",
+    "Haitian"
    ],
    "tier": 4
   },
@@ -1277,6 +1466,9 @@
   },
   {
    "answer": "Kalinga War",
+   "aliases": [
+    "Kalinga"
+   ],
    "tier": 4,
    "lore": "Ashoka's conquest of Kalinga, around 261 BC, so appalled him, his edicts say, that he turned to Buddhism."
   },
@@ -1284,31 +1476,46 @@
    "answer": "Imjin War",
    "aliases": [
     "Japanese invasions of Korea",
-    "Imjin Wars"
+    "Imjin Wars",
+    "Imjin"
    ],
    "tier": 4
   },
   {
    "answer": "Boshin War",
+   "aliases": [
+    "Boshin"
+   ],
    "tier": 4
   },
   {
    "answer": "Satsuma Rebellion",
+   "aliases": [
+    "Satsuma"
+   ],
    "tier": 4
   },
   {
    "answer": "Genpei War",
    "aliases": [
-    "Gempei War"
+    "Gempei War",
+    "Genpei",
+    "Gempei"
    ],
    "tier": 4
   },
   {
    "answer": "Onin War",
+   "aliases": [
+    "Onin"
+   ],
    "tier": 4
   },
   {
    "answer": "An Lushan Rebellion",
+   "aliases": [
+    "An Lushan"
+   ],
    "tier": 4
   },
   {
@@ -1357,7 +1564,8 @@
    "aliases": [
     "Konfrontasi",
     "Borneo confrontation",
-    "Indonesian confrontation"
+    "Indonesian confrontation",
+    "Indonesia–Malaysia"
    ],
    "tier": 4
   },
@@ -1375,7 +1583,8 @@
     "Kargil",
     "Kargil conflict",
     "Kargil war 1999",
-    "1999 Kargil War"
+    "1999 Kargil War",
+    "1999 Kargil"
    ],
    "tier": 4
   },
@@ -1391,7 +1600,9 @@
     "3rd Anglo-Mysore War",
     "Fourth Anglo-Mysore War",
     "4th Anglo-Mysore War",
-    "Mysore Wars"
+    "Mysore Wars",
+    "Anglo-Mysore",
+    "Mysore"
    ],
    "tier": 4
   },
@@ -1405,7 +1616,8 @@
     "2nd Anglo-Maratha War",
     "Third Anglo-Maratha War",
     "3rd Anglo-Maratha War",
-    "Maratha Wars"
+    "Maratha Wars",
+    "Maratha"
    ],
    "tier": 4
   },
@@ -1417,7 +1629,9 @@
     "1st Anglo-Sikh War",
     "Second Anglo-Sikh War",
     "2nd Anglo-Sikh War",
-    "Sikh Wars"
+    "Sikh Wars",
+    "Anglo-Sikh",
+    "Sikh"
    ],
    "tier": 4
   },
@@ -1440,7 +1654,9 @@
    "answer": "Anglo-Nepalese War",
    "aliases": [
     "Gurkha War",
-    "Anglo-Gorkha War"
+    "Anglo-Gorkha War",
+    "Gurkha",
+    "Anglo-Gorkha"
    ],
    "tier": 4
   },
@@ -1453,7 +1669,11 @@
     "Second Carnatic War",
     "2nd Carnatic War",
     "Third Carnatic War",
-    "3rd Carnatic War"
+    "3rd Carnatic War",
+    "Carnatic",
+    "1st Carnatic",
+    "2nd Carnatic",
+    "3rd Carnatic"
    ],
    "tier": 4
   },
@@ -1461,7 +1681,8 @@
    "answer": "Mahdist War",
    "aliases": [
     "Mahdist revolt",
-    "Sudan campaign"
+    "Sudan campaign",
+    "Mahdist"
    ],
    "tier": 4
   },
@@ -1481,7 +1702,10 @@
     "5th Anglo-Ashanti War",
     "Ashanti Wars",
     "War of the Golden Stool",
-    "Anglo-Asante wars"
+    "Anglo-Asante wars",
+    "Ashanti",
+    "Golden Stool",
+    "Anglo-Asante"
    ],
    "tier": 4
   },
@@ -1508,7 +1732,24 @@
     "Ninth Xhosa War",
     "9th Xhosa War",
     "Cape Frontier Wars",
-    "Cape Frontier War"
+    "Cape Frontier War",
+    "First Xhosa",
+    "1st Xhosa",
+    "Second Xhosa",
+    "2nd Xhosa",
+    "Third Xhosa",
+    "3rd Xhosa",
+    "Fourth Xhosa",
+    "4th Xhosa",
+    "Fifth Xhosa",
+    "5th Xhosa",
+    "Sixth Xhosa",
+    "6th Xhosa",
+    "7th Xhosa",
+    "Eighth Xhosa",
+    "8th Xhosa",
+    "Ninth Xhosa",
+    "9th Xhosa"
    ],
    "tier": 4
   },
@@ -1530,7 +1771,9 @@
    "answer": "Rif War",
    "aliases": [
     "Rif Wars",
-    "Riff War"
+    "Riff War",
+    "Rif",
+    "Riff"
    ],
    "tier": 4
   },
@@ -1547,7 +1790,8 @@
     "Greco-Turkish War of 1919–1922",
     "Greco-Turkish War of 1897",
     "Thirty Days' War",
-    "Asia Minor campaign"
+    "Asia Minor campaign",
+    "Thirty Days'"
    ],
    "tier": 4
   },
@@ -1565,6 +1809,9 @@
   },
   {
    "answer": "Greek Civil War",
+   "aliases": [
+    "Greek Civil"
+   ],
    "tier": 4
   },
   {
@@ -1589,7 +1836,9 @@
     "Karabakh war",
     "Artsakh war",
     "44-Day War",
-    "Karabakh"
+    "Karabakh",
+    "Artsakh",
+    "44-Day"
    ],
    "tier": 4
   },
@@ -1615,7 +1864,8 @@
   {
    "answer": "Somali Civil War",
    "aliases": [
-    "Somalia"
+    "Somalia",
+    "Somali Civil"
    ],
    "tier": 4
   },
@@ -1631,7 +1881,8 @@
   {
    "answer": "Sierra Leone Civil War",
    "aliases": [
-    "Sierra Leonean Civil War"
+    "Sierra Leonean Civil War",
+    "Sierra Leone"
    ],
    "tier": 4
   },
@@ -1644,7 +1895,8 @@
    "aliases": [
     "Tigray conflict",
     "Tigray civil war",
-    "Tigray"
+    "Tigray",
+    "Tigray civil"
    ],
    "tier": 4
   },
@@ -1656,12 +1908,16 @@
    "answer": "Eritrean–Ethiopian War",
    "aliases": [
     "Ethiopian–Eritrean War",
-    "Badme war"
+    "Badme war",
+    "Badme"
    ],
    "tier": 4
   },
   {
    "answer": "Ogaden War",
+   "aliases": [
+    "Ogaden"
+   ],
    "tier": 4
   },
   {
@@ -1683,7 +1939,8 @@
     "Namibian War of Independence",
     "Angolan Bush War",
     "Border War",
-    "Border Wars"
+    "Border Wars",
+    "Angolan Bush"
    ],
    "tier": 4
   },
@@ -1709,7 +1966,11 @@
     "Africa's World War",
     "Great African War",
     "Congo Crisis",
-    "Congo"
+    "Congo",
+    "First Congo",
+    "1st Congo",
+    "Second Congo",
+    "2nd Congo"
    ],
    "tier": 4
   },
@@ -1726,7 +1987,8 @@
    "answer": "Uganda–Tanzania War",
    "aliases": [
     "Kagera War",
-    "Liberation War of 1979"
+    "Liberation War of 1979",
+    "Kagera"
    ],
    "tier": 4
   },
@@ -1740,6 +2002,9 @@
   },
   {
    "answer": "Afghan Civil War",
+   "aliases": [
+    "Afghan Civil"
+   ],
    "tier": 4
   },
   {
@@ -1754,7 +2019,8 @@
    "answer": "Nicaraguan Revolution",
    "aliases": [
     "Contra War",
-    "Nicaraguan Civil War"
+    "Nicaraguan Civil War",
+    "Contra"
    ],
    "tier": 4
   },
@@ -1776,13 +2042,17 @@
   },
   {
    "answer": "Chaco War",
+   "aliases": [
+    "Chaco"
+   ],
    "tier": 4
   },
   {
    "answer": "Paraguayan War",
    "aliases": [
     "War of the Triple Alliance",
-    "Triple Alliance War"
+    "Triple Alliance War",
+    "Paraguayan"
    ],
    "tier": 4
   },
@@ -1793,7 +2063,8 @@
   {
    "answer": "Banana Wars",
    "aliases": [
-    "Banana War"
+    "Banana War",
+    "Banana"
    ],
    "tier": 4
   },
@@ -1829,7 +2100,10 @@
    "aliases": [
     "Soccer War",
     "Hundred Hours' War",
-    "100 Hour War"
+    "100 Hour War",
+    "Football",
+    "Soccer",
+    "100 Hour"
    ],
    "tier": 4,
    "lore": "El Salvador and Honduras went to war in 1969, amid riots over their World Cup qualifiers. It lasted about 100 hours."
@@ -1843,14 +2117,19 @@
     "Second Seminole War",
     "2nd Seminole War",
     "Third Seminole War",
-    "3rd Seminole War"
+    "3rd Seminole War",
+    "Seminole",
+    "1st Seminole",
+    "2nd Seminole",
+    "3rd Seminole"
    ],
    "tier": 4
   },
   {
    "answer": "Apache Wars",
    "aliases": [
-    "Apache War"
+    "Apache War",
+    "Apache"
    ],
    "tier": 4
   },
@@ -1860,7 +2139,10 @@
     "Great Sioux War of 1876",
     "Black Hills War",
     "Sioux Wars",
-    "Sioux War"
+    "Sioux War",
+    "Great Sioux",
+    "Black Hills",
+    "Sioux"
    ],
    "tier": 4
   },
@@ -1868,7 +2150,10 @@
    "answer": "King Philip's War",
    "aliases": [
     "Metacom's War",
-    "Metacomet's War"
+    "Metacomet's War",
+    "King Philip's",
+    "Metacom's",
+    "Metacomet's"
    ],
    "tier": 4
   },
@@ -1876,7 +2161,8 @@
    "answer": "Pontiac's War",
    "aliases": [
     "Pontiac's Rebellion",
-    "Pontiac's Uprising"
+    "Pontiac's Uprising",
+    "Pontiac's"
    ],
    "tier": 4
   },
@@ -1888,7 +2174,11 @@
     "1st Barbary War",
     "Second Barbary War",
     "2nd Barbary War",
-    "Tripolitan War"
+    "Tripolitan War",
+    "Barbary",
+    "1st Barbary",
+    "2nd Barbary",
+    "Tripolitan"
    ],
    "tier": 4
   },
@@ -1906,7 +2196,8 @@
   {
    "answer": "Bishops' Wars",
    "aliases": [
-    "Bishops' War"
+    "Bishops' War",
+    "Bishops'"
    ],
    "tier": 4
   },
@@ -1916,7 +2207,11 @@
     "War of the Grand Alliance",
     "War of the League of Augsburg",
     "Tyrone's Rebellion",
-    "Nine Year War"
+    "Nine Year War",
+    "Nine Years'",
+    "Grand Alliance",
+    "League of Augsburg",
+    "Nine Year"
    ],
    "tier": 4
   },
@@ -1925,7 +2220,8 @@
    "aliases": [
     "Williamite War",
     "Jacobite War in Ireland",
-    "Williamite–Jacobite War"
+    "Williamite–Jacobite War",
+    "Williamite"
    ],
    "tier": 4
   },
@@ -1933,7 +2229,8 @@
    "answer": "Cromwellian conquest of Ireland",
    "aliases": [
     "Cromwellian War",
-    "Cromwell's conquest of Ireland"
+    "Cromwell's conquest of Ireland",
+    "Cromwellian"
    ],
    "tier": 4
   },
@@ -1951,7 +2248,8 @@
    "aliases": [
     "Hussite Revolution",
     "Hussite War",
-    "Bohemian Wars"
+    "Bohemian Wars",
+    "Hussite"
    ],
    "tier": 4
   },
@@ -1959,7 +2257,8 @@
    "answer": "Italian Wars",
    "aliases": [
     "Great Italian Wars",
-    "Habsburg–Valois Wars"
+    "Habsburg–Valois Wars",
+    "Habsburg–Valois"
    ],
    "tier": 4
   },
@@ -1967,12 +2266,16 @@
    "answer": "German Peasants' War",
    "aliases": [
     "Peasants' War",
-    "Great Peasants' Revolt"
+    "Great Peasants' Revolt",
+    "Peasants'"
    ],
    "tier": 4
   },
   {
    "answer": "Livonian War",
+   "aliases": [
+    "Livonian"
+   ],
    "tier": 4
   },
   {
@@ -1984,7 +2287,11 @@
     "Second Silesian War",
     "2nd Silesian War",
     "Third Silesian War",
-    "3rd Silesian War"
+    "3rd Silesian War",
+    "Silesian",
+    "1st Silesian",
+    "2nd Silesian",
+    "3rd Silesian"
    ],
    "tier": 4
   },
@@ -1999,7 +2306,8 @@
    "answer": "War of the Bavarian Succession",
    "aliases": [
     "Potato War",
-    "Bavarian Succession"
+    "Bavarian Succession",
+    "Potato"
    ],
    "tier": 4,
    "lore": "A war of 1778 and 1779 with almost no battles. Armies spent it foraging, hence its nickname: the Potato War."
@@ -2010,7 +2318,9 @@
     "Habsburg–Ottoman wars",
     "Ottoman wars in Europe",
     "Austro-Turkish War",
-    "Austro-Turkish Wars"
+    "Austro-Turkish Wars",
+    "Ottoman–Habsburg",
+    "Habsburg–Ottoman"
    ],
    "tier": 4
   },
@@ -2024,7 +2334,9 @@
     "Third Italian War of Independence",
     "Franco-Austrian War",
     "Austro-Sardinian War",
-    "Second War of Italian Independence"
+    "Second War of Italian Independence",
+    "Italian Unification",
+    "Italian Independence"
    ],
    "tier": 4
   },
@@ -2038,7 +2350,8 @@
     "2nd Schleswig War",
     "Danish–Prussian War",
     "Second War of Schleswig",
-    "Dano-Prussian War"
+    "Dano-Prussian War",
+    "Schleswig"
    ],
    "tier": 4
   },
@@ -2051,7 +2364,11 @@
     "Second Carlist War",
     "2nd Carlist War",
     "Third Carlist War",
-    "3rd Carlist War"
+    "3rd Carlist War",
+    "Carlist",
+    "1st Carlist",
+    "2nd Carlist",
+    "3rd Carlist"
    ],
    "tier": 4
   },
@@ -2070,7 +2387,11 @@
     "First Barons' War",
     "1st Barons' War",
     "Second Barons' War",
-    "2nd Barons' War"
+    "2nd Barons' War",
+    "Barons'",
+    "First Barons'",
+    "1st Barons'",
+    "2nd Barons'"
    ],
    "tier": 4
   },
@@ -2098,7 +2419,8 @@
    "answer": "Caesar's Civil War",
    "aliases": [
     "Great Roman Civil War",
-    "Roman Civil War"
+    "Roman Civil War",
+    "Roman Civil"
    ],
    "tier": 4
   },
@@ -2111,7 +2433,10 @@
     "Bar Kokhba revolt",
     "Kitos War",
     "Jewish revolt",
-    "Jewish War"
+    "Jewish War",
+    "Jewish–Roman",
+    "Kitos",
+    "Bar Kokhba"
    ],
    "tier": 4
   },
@@ -2120,14 +2445,19 @@
    "aliases": [
     "Roman–Parthian Wars",
     "Byzantine–Sasanian wars",
-    "Roman–Sasanian wars"
+    "Roman–Sasanian wars",
+    "Roman–Persian",
+    "Roman–Parthian",
+    "Byzantine–Sasanian",
+    "Roman–Sasanian"
    ],
    "tier": 4
   },
   {
    "answer": "Pyrrhic War",
    "aliases": [
-    "Pyrrhic Wars"
+    "Pyrrhic Wars",
+    "Pyrrhic"
    ],
    "tier": 4
   },
@@ -2140,7 +2470,11 @@
     "Second Samnite War",
     "2nd Samnite War",
     "Third Samnite War",
-    "3rd Samnite War"
+    "3rd Samnite War",
+    "Samnite",
+    "1st Samnite",
+    "2nd Samnite",
+    "3rd Samnite"
    ],
    "tier": 4
   },
@@ -2155,7 +2489,8 @@
     "Third Macedonian War",
     "3rd Macedonian War",
     "Fourth Macedonian War",
-    "4th Macedonian War"
+    "4th Macedonian War",
+    "Macedonian"
    ],
    "tier": 4
   },
@@ -2168,12 +2503,16 @@
     "Second Mithridatic War",
     "2nd Mithridatic War",
     "Third Mithridatic War",
-    "3rd Mithridatic War"
+    "3rd Mithridatic War",
+    "Mithridatic"
    ],
    "tier": 4
   },
   {
    "answer": "Jugurthine War",
+   "aliases": [
+    "Jugurthine"
+   ],
    "tier": 4
   },
   {
@@ -2189,7 +2528,11 @@
     "Spartacus revolt",
     "Spartacus War",
     "Gladiator War",
-    "Revolt of Spartacus"
+    "Revolt of Spartacus",
+    "Servile",
+    "1st Servile",
+    "2nd Servile",
+    "3rd Servile"
    ],
    "tier": 4
   },
@@ -2207,14 +2550,26 @@
    "answer": "Australian frontier wars",
    "aliases": [
     "Frontier Wars",
-    "Australian Frontier War"
+    "Australian Frontier War",
+    "Bathurst War",
+    "Hawkesbury and Nepean Wars",
+    "Hawkesbury Wars",
+    "Kalkadoon Wars",
+    "Pemulwuy's War",
+    "Eumeralla Wars",
+    "Frontier",
+    "Hawkesbury and Nepean",
+    "Kalkadoon",
+    "Pemulwuy's",
+    "Eumeralla"
    ],
    "tier": 4
   },
   {
    "answer": "War of Attrition",
    "aliases": [
-    "Egyptian–Israeli War of Attrition"
+    "Egyptian–Israeli War of Attrition",
+    "Attrition"
    ],
    "tier": 4
   },
@@ -2222,7 +2577,8 @@
    "answer": "Ten-Day War",
    "aliases": [
     "Slovenian War of Independence",
-    "Slovenian War"
+    "Slovenian War",
+    "Ten-Day"
    ],
    "tier": 4
   },
@@ -2240,7 +2596,8 @@
     "Nepal civil war",
     "Nepalese civil war of 1996",
     "Maoist insurgency in Nepal",
-    "Nepalese People's War"
+    "Nepalese People's War",
+    "Nepal civil"
    ],
    "tier": 4
   },
@@ -2255,7 +2612,15 @@
     "Iraqi Civil War",
     "Iraqi civil war of 2014",
     "Operation Inherent Resolve",
-    "Operation Shader"
+    "Operation Shader",
+    "Iraqi Civil",
+    "ISIS",
+    "ISIL",
+    "Islamic State",
+    "Daesh",
+    "IS war",
+    "Islamic State war",
+    "War with ISIS"
    ],
    "tier": 4
   },
@@ -2282,7 +2647,8 @@
     "First Intifada",
     "Second Intifada",
     "Al-Aqsa Intifada",
-    "Intifadas"
+    "Intifadas",
+    "Al-Aqsa"
    ],
    "tier": 4
   },
@@ -2294,7 +2660,10 @@
     "Cambodian–Thai border conflict",
     "Thailand–Cambodia conflict",
     "Cambodia–Thailand border war",
-    "Thai–Cambodian border conflict"
+    "Thai–Cambodian border conflict",
+    "2025 Cambodia–Thailand",
+    "Thailand–Cambodia",
+    "Cambodia–Thailand"
    ],
    "tier": 4
   },
@@ -2320,13 +2689,17 @@
   {
    "answer": "Pastry War",
    "aliases": [
-    "First French intervention in Mexico"
+    "First French intervention in Mexico",
+    "Pastry"
    ],
    "tier": 5,
    "lore": "In 1838 France blockaded Mexico, in part over a French pastry cook's shop that had been looted in Mexico City."
   },
   {
    "answer": "Toledo War",
+   "aliases": [
+    "Toledo"
+   ],
    "tier": 5,
    "lore": "Ohio and Michigan raised militias over Toledo in 1835. Only one man was hurt, and Michigan got the Upper Peninsula instead."
   },
@@ -2334,36 +2707,50 @@
    "answer": "War of the Stray Dog",
    "aliases": [
     "Incident at Petrich",
-    "Petrich incident"
+    "Petrich incident",
+    "Stray Dog",
+    "Petrich"
    ],
    "tier": 5,
    "lore": "In 1925 a Greek soldier is said to have chased his dog over the Bulgarian border and been shot. Greece invaded, briefly."
   },
   {
    "answer": "Lobster War",
+   "aliases": [
+    "Lobster"
+   ],
    "tier": 5,
    "lore": "France and Brazil sent warships over lobster fishing in the 1960s. The argument: does a lobster swim, or walk on the seabed?"
   },
   {
    "answer": "Turbot War",
+   "aliases": [
+    "Turbot"
+   ],
    "tier": 5
   },
   {
    "answer": "Toyota War",
    "aliases": [
-    "Great Toyota War"
+    "Great Toyota War",
+    "Toyota",
+    "Great Toyota"
    ],
    "tier": 5,
    "lore": "The last phase of the war between Chad and Libya, in 1987, named after the Toyota pickups that carried Chad's troops."
   },
   {
    "answer": "Coconut War",
+   "aliases": [
+    "Coconut"
+   ],
    "tier": 5
   },
   {
    "answer": "Three Hundred and Thirty Five Years' War",
    "aliases": [
-    "335 Years' War"
+    "335 Years' War",
+    "335 Years'"
    ],
    "tier": 5,
    "lore": "Legend says the Netherlands and the Isles of Scilly stayed at war from 1651 until a peace was signed in 1986. Not a shot was fired."
@@ -2371,7 +2758,9 @@
   {
    "answer": "Sonderbund War",
    "aliases": [
-    "Swiss Civil War"
+    "Swiss Civil War",
+    "Sonderbund",
+    "Swiss Civil"
    ],
    "tier": 5,
    "lore": "Switzerland's last war, in November 1847. It was over in under four weeks."
@@ -2380,12 +2769,17 @@
    "answer": "Aroostook War",
    "aliases": [
     "Pork and Beans War",
-    "Lumberjack War"
+    "Lumberjack War",
+    "Aroostook",
+    "Lumberjack"
    ],
    "tier": 5
   },
   {
    "answer": "Honey War",
+   "aliases": [
+    "Honey"
+   ],
    "tier": 5
   },
   {
@@ -2393,7 +2787,8 @@
    "aliases": [
     "Flowery Wars",
     "Flower War",
-    "Xochiyaoyotl"
+    "Xochiyaoyotl",
+    "Flower"
    ],
    "tier": 5
   },
@@ -2403,21 +2798,33 @@
   },
   {
    "answer": "Musket Wars",
+   "aliases": [
+    "Musket"
+   ],
    "tier": 5
   },
   {
    "answer": "Bougainville Civil War",
+   "aliases": [
+    "Bougainville",
+    "Bougainville conflict",
+    "Bougainville crisis"
+   ],
    "tier": 5
   },
   {
    "answer": "Social War",
    "aliases": [
-    "Marsic War"
+    "Marsic War",
+    "Marsic"
    ],
    "tier": 5
   },
   {
    "answer": "Corinthian War",
+   "aliases": [
+    "Corinthian"
+   ],
    "tier": 5
   },
   {
@@ -2429,12 +2836,16 @@
     "Second Messenian War",
     "2nd Messenian War",
     "Third Messenian War",
-    "3rd Messenian War"
+    "3rd Messenian War",
+    "Messenian"
    ],
    "tier": 5
   },
   {
    "answer": "Lelantine War",
+   "aliases": [
+    "Lelantine"
+   ],
    "tier": 5
   },
   {
@@ -2454,6 +2865,9 @@
   },
   {
    "answer": "Lamian War",
+   "aliases": [
+    "Lamian"
+   ],
    "tier": 5
   },
   {
@@ -2464,7 +2878,8 @@
    "answer": "Wars of the Diadochi",
    "aliases": [
     "Wars of the Successors",
-    "Diadochi Wars"
+    "Diadochi Wars",
+    "Diadochi"
    ],
    "tier": 5
   },
@@ -2472,18 +2887,24 @@
    "answer": "Dacian Wars",
    "aliases": [
     "Trajan's Dacian Wars",
-    "Dacian War"
+    "Dacian War",
+    "Dacian",
+    "Trajan's Dacian"
    ],
    "tier": 5
   },
   {
    "answer": "Marcomannic Wars",
+   "aliases": [
+    "Marcomannic"
+   ],
    "tier": 5
   },
   {
    "answer": "Gothic War",
    "aliases": [
-    "Gothic Wars"
+    "Gothic Wars",
+    "Gothic"
    ],
    "tier": 5
   },
@@ -2491,12 +2912,17 @@
    "answer": "Cantabrian Wars",
    "aliases": [
     "Cantabrian War",
-    "Astur-Cantabrian Wars"
+    "Astur-Cantabrian Wars",
+    "Cantabrian",
+    "Astur-Cantabrian"
    ],
    "tier": 5
   },
   {
    "answer": "Sertorian War",
+   "aliases": [
+    "Sertorian"
+   ],
    "tier": 5
   },
   {
@@ -2510,18 +2936,25 @@
   {
    "answer": "Chu–Han Contention",
    "aliases": [
-    "Chu–Han War"
+    "Chu–Han War",
+    "Chu–Han"
    ],
    "tier": 5
   },
   {
    "answer": "Yellow Turban Rebellion",
+   "aliases": [
+    "Yellow Turban",
+    "Yellow Turbans"
+   ],
    "tier": 5
   },
   {
    "answer": "Red Turban Rebellion",
    "aliases": [
-    "Red Turban Rebellions"
+    "Red Turban Rebellions",
+    "Red Turban",
+    "Red Turbans"
    ],
    "tier": 5
   },
@@ -2534,6 +2967,9 @@
   },
   {
    "answer": "Sino-French War",
+   "aliases": [
+    "Sino-French"
+   ],
    "tier": 5
   },
   {
@@ -2546,20 +2982,31 @@
   },
   {
    "answer": "Aceh War",
+   "aliases": [
+    "Aceh"
+   ],
    "tier": 5
   },
   {
    "answer": "Java War",
+   "aliases": [
+    "Java"
+   ],
    "tier": 5
   },
   {
    "answer": "Padri War",
+   "aliases": [
+    "Padri"
+   ],
    "tier": 5
   },
   {
    "answer": "Anglo-Bhutan War",
    "aliases": [
-    "Duar War"
+    "Duar War",
+    "Anglo-Bhutan",
+    "Duar"
    ],
    "tier": 5
   },
@@ -2576,10 +3023,16 @@
   },
   {
    "answer": "Anglo-Aro War",
+   "aliases": [
+    "Anglo-Aro"
+   ],
    "tier": 5
   },
   {
    "answer": "Anglo-Iraqi War",
+   "aliases": [
+    "Anglo-Iraqi"
+   ],
    "tier": 5
   },
   {
@@ -2591,7 +3044,10 @@
     "Second Matabele War",
     "2nd Matabele War",
     "First Chimurenga",
-    "Matabele Rebellion"
+    "Matabele Rebellion",
+    "Matabele",
+    "1st Matabele",
+    "2nd Matabele"
    ],
    "tier": 5
   },
@@ -2599,22 +3055,30 @@
    "answer": "Herero Wars",
    "aliases": [
     "Herero and Nama war",
-    "Herero War"
+    "Herero War",
+    "Herero"
    ],
    "tier": 5
   },
   {
    "answer": "Maji Maji Rebellion",
+   "aliases": [
+    "Maji Maji"
+   ],
    "tier": 5
   },
   {
    "answer": "Bambatha Rebellion",
+   "aliases": [
+    "Bambatha"
+   ],
    "tier": 5
   },
   {
    "answer": "Hut Tax War",
    "aliases": [
-    "Hut Tax War of 1898"
+    "Hut Tax War of 1898",
+    "Hut Tax"
    ],
    "tier": 5
   },
@@ -2624,13 +3088,17 @@
   },
   {
    "answer": "Ifni War",
+   "aliases": [
+    "Ifni"
+   ],
    "tier": 5
   },
   {
    "answer": "Sand War",
    "aliases": [
     "War of the Sands",
-    "Algerian–Moroccan war"
+    "Algerian–Moroccan war",
+    "Sand"
    ],
    "tier": 5
   },
@@ -2638,16 +3106,23 @@
    "answer": "Chadian–Libyan war",
    "aliases": [
     "Chadian–Libyan conflict",
-    "Chad–Libya war"
+    "Chad–Libya war",
+    "Chad–Libya"
    ],
    "tier": 5
   },
   {
    "answer": "Ugandan Bush War",
+   "aliases": [
+    "Ugandan Bush"
+   ],
    "tier": 5
   },
   {
    "answer": "Burundian Civil War",
+   "aliases": [
+    "Burundian"
+   ],
    "tier": 5
   },
   {
@@ -2663,16 +3138,24 @@
    "answer": "Mali War",
    "aliases": [
     "Malian civil war",
-    "War in Mali"
+    "War in Mali",
+    "Mali",
+    "Malian civil"
    ],
    "tier": 5
   },
   {
    "answer": "Dhofar Rebellion",
+   "aliases": [
+    "Dhofar"
+   ],
    "tier": 5
   },
   {
    "answer": "Aden Emergency",
+   "aliases": [
+    "Aden"
+   ],
    "tier": 5
   },
   {
@@ -2684,6 +3167,9 @@
   },
   {
    "answer": "North Yemen Civil War",
+   "aliases": [
+    "North Yemen"
+   ],
    "tier": 5
   },
   {
@@ -2696,12 +3182,16 @@
   },
   {
    "answer": "War in Abkhazia",
+   "aliases": [
+    "Abkhazia"
+   ],
    "tier": 5
   },
   {
    "answer": "Lapland War",
    "aliases": [
-    "Finnish–German war"
+    "Finnish–German war",
+    "Lapland"
    ],
    "tier": 5
   },
@@ -2715,10 +3205,16 @@
   },
   {
    "answer": "Estonian War of Independence",
+   "aliases": [
+    "Estonian"
+   ],
    "tier": 5
   },
   {
    "answer": "Latvian War of Independence",
+   "aliases": [
+    "Latvian"
+   ],
    "tier": 5
   },
   {
@@ -2734,7 +3230,8 @@
    "aliases": [
     "Vendée revolt",
     "Vendee War",
-    "Wars of the Vendée"
+    "Wars of the Vendée",
+    "Vendée"
    ],
    "tier": 5
   },
@@ -2743,18 +3240,23 @@
    "aliases": [
     "Glyndwr rebellion",
     "Owain Glyndwr's rebellion",
-    "Welsh Revolt"
+    "Welsh Revolt",
+    "Glyndwr"
    ],
    "tier": 5
   },
   {
    "answer": "Desmond Rebellions",
+   "aliases": [
+    "Desmond"
+   ],
    "tier": 5
   },
   {
    "answer": "Irish Confederate Wars",
    "aliases": [
-    "Confederate Wars"
+    "Confederate Wars",
+    "Irish Confederate"
    ],
    "tier": 5
   },
@@ -2772,34 +3274,51 @@
   {
    "answer": "War of the Breton Succession",
    "aliases": [
-    "Breton War of Succession"
+    "Breton War of Succession",
+    "Breton Succession"
    ],
    "tier": 5
   },
   {
    "answer": "War of Chioggia",
+   "aliases": [
+    "Chioggia"
+   ],
    "tier": 5
   },
   {
    "answer": "War of the Eight Saints",
+   "aliases": [
+    "Eight Saints"
+   ],
    "tier": 5
   },
   {
    "answer": "War of the Three Henrys",
+   "aliases": [
+    "Three Henrys"
+   ],
    "tier": 5
   },
   {
    "answer": "War of the League of Cambrai",
+   "aliases": [
+    "League of Cambrai"
+   ],
    "tier": 5
   },
   {
    "answer": "Swabian War",
+   "aliases": [
+    "Swabian"
+   ],
    "tier": 5
   },
   {
    "answer": "Burgundian Wars",
    "aliases": [
-    "Burgundian War"
+    "Burgundian War",
+    "Burgundian"
    ],
    "tier": 5
   },
@@ -2818,7 +3337,9 @@
    "answer": "Khmelnytsky Uprising",
    "aliases": [
     "Khmelnytsky Rebellion",
-    "Chmielnicki Uprising"
+    "Chmielnicki Uprising",
+    "Khmelnytsky",
+    "Chmielnicki"
    ],
    "tier": 5
   },
@@ -2826,7 +3347,8 @@
    "answer": "Polish–Lithuanian–Teutonic War",
    "aliases": [
     "Great War of 1409",
-    "Teutonic war"
+    "Teutonic war",
+    "Teutonic"
    ],
    "tier": 5
   },
@@ -2845,45 +3367,62 @@
    "answer": "Russo-Persian Wars",
    "aliases": [
     "Russo-Persian War",
-    "Russo-Iranian wars"
+    "Russo-Iranian wars",
+    "Russo-Iranian"
    ],
    "tier": 5
   },
   {
    "answer": "Great Turkish War",
    "aliases": [
-    "War of the Holy League"
+    "War of the Holy League",
+    "Holy League"
    ],
    "tier": 5
   },
   {
    "answer": "Byzantine–Arab wars",
    "aliases": [
-    "Arab–Byzantine wars"
+    "Arab–Byzantine wars",
+    "Byzantine–Arab",
+    "Arab–Byzantine"
    ],
    "tier": 5
   },
   {
    "answer": "War of Devolution",
+   "aliases": [
+    "Devolution"
+   ],
    "tier": 5
   },
   {
    "answer": "Franco-Dutch War",
    "aliases": [
-    "Guerre de Hollande"
+    "Guerre de Hollande",
+    "Franco-Dutch"
    ],
    "tier": 5
   },
   {
    "answer": "War of the Quadruple Alliance",
+   "aliases": [
+    "Quadruple Alliance"
+   ],
    "tier": 5
   },
   {
    "answer": "War of the Mantuan Succession",
+   "aliases": [
+    "Mantuan Succession"
+   ],
    "tier": 5
   },
   {
    "answer": "War of the Castilian Succession",
+   "aliases": [
+    "Castilian Succession"
+   ],
    "tier": 5
   },
   {
@@ -2896,13 +3435,19 @@
   },
   {
    "answer": "Pequot War",
+   "aliases": [
+    "Pequot"
+   ],
    "tier": 5
   },
   {
    "answer": "Beaver Wars",
    "aliases": [
     "Iroquois Wars",
-    "French and Iroquois Wars"
+    "French and Iroquois Wars",
+    "Beaver",
+    "Iroquois",
+    "French and Iroquois"
    ],
    "tier": 5
   },
@@ -2912,32 +3457,47 @@
   },
   {
    "answer": "Queen Anne's War",
+   "aliases": [
+    "Queen Anne's"
+   ],
    "tier": 5
   },
   {
    "answer": "King George's War",
+   "aliases": [
+    "King George's"
+   ],
    "tier": 5
   },
   {
    "answer": "Anglo-Cherokee War",
    "aliases": [
-    "Cherokee War"
+    "Cherokee War",
+    "Cherokee"
    ],
    "tier": 5
   },
   {
    "answer": "Yamasee War",
+   "aliases": [
+    "Yamasee"
+   ],
    "tier": 5
   },
   {
    "answer": "Tuscarora War",
+   "aliases": [
+    "Tuscarora"
+   ],
    "tier": 5
   },
   {
    "answer": "Anglo-Powhatan Wars",
    "aliases": [
     "Powhatan Wars",
-    "Powhatan War"
+    "Powhatan War",
+    "Anglo-Powhatan",
+    "Powhatan"
    ],
    "tier": 5
   },
@@ -2956,12 +3516,16 @@
    "answer": "Creek War",
    "aliases": [
     "Red Stick War",
-    "Reek War"
+    "Reek War",
+    "Red Stick"
    ],
    "tier": 5
   },
   {
    "answer": "Black Hawk War",
+   "aliases": [
+    "Black Hawk"
+   ],
    "tier": 5
   },
   {
@@ -2969,33 +3533,47 @@
    "aliases": [
     "Dakota War",
     "Sioux Uprising",
-    "US–Dakota War"
+    "US–Dakota War",
+    "Dakota",
+    "US–Dakota"
    ],
    "tier": 5
   },
   {
    "answer": "Red Cloud's War",
+   "aliases": [
+    "Red Cloud's"
+   ],
    "tier": 5
   },
   {
    "answer": "Nez Perce War",
+   "aliases": [
+    "Nez Perce"
+   ],
    "tier": 5
   },
   {
    "answer": "Comanche Wars",
    "aliases": [
-    "Comanche War"
+    "Comanche War",
+    "Comanche"
    ],
    "tier": 5
   },
   {
    "answer": "Modoc War",
+   "aliases": [
+    "Modoc"
+   ],
    "tier": 5
   },
   {
    "answer": "Utah War",
    "aliases": [
-    "Mormon War"
+    "Mormon War",
+    "Utah",
+    "Mormon"
    ],
    "tier": 5
   },
@@ -3023,7 +3601,8 @@
   {
    "answer": "Ten Years' War",
    "aliases": [
-    "Great War (Cuba)"
+    "Great War (Cuba)",
+    "Ten Years'"
    ],
    "tier": 5
   },
@@ -3038,7 +3617,8 @@
    "answer": "Cristero War",
    "aliases": [
     "Cristero Rebellion",
-    "Cristiada"
+    "Cristiada",
+    "Cristero"
    ],
    "tier": 5
   },
@@ -3053,29 +3633,39 @@
    "answer": "Reform War",
    "aliases": [
     "War of Reform",
-    "Three Years' War"
+    "Three Years' War",
+    "Three Years'"
    ],
    "tier": 5
   },
   {
    "answer": "Platine War",
+   "aliases": [
+    "Platine"
+   ],
    "tier": 5
   },
   {
    "answer": "Cisplatine War",
    "aliases": [
-    "Argentine–Brazilian War"
+    "Argentine–Brazilian War",
+    "Cisplatine"
    ],
    "tier": 5
   },
   {
    "answer": "War of the Confederation",
+   "aliases": [
+    "Confederation"
+   ],
    "tier": 5
   },
   {
    "answer": "Cenepa War",
    "aliases": [
-    "Alto Cenepa war"
+    "Alto Cenepa war",
+    "Cenepa",
+    "Alto Cenepa"
    ],
    "tier": 5
   },
@@ -3113,7 +3703,8 @@
    "answer": "Pig War",
    "aliases": [
     "Pig War of 1859",
-    "San Juan boundary dispute"
+    "San Juan boundary dispute",
+    "Pig"
    ],
    "tier": 5,
    "lore": "In 1859 an American farmer shot a British-owned pig on San Juan Island. Britain and the US held the island jointly until 1872. The pig was the only casualty."
@@ -3124,12 +3715,16 @@
     "Chadian Civil Wars",
     "Chad civil war",
     "Chadian civil war of 1965",
-    "Chadian civil war of 2005"
+    "Chadian civil war of 2005",
+    "Chad civil"
    ],
    "tier": 5
   },
   {
    "answer": "Scanian War",
+   "aliases": [
+    "Scanian"
+   ],
    "tier": 5
   },
   {
@@ -3138,7 +3733,10 @@
     "Ottoman–Venetian War",
     "Venetian–Ottoman wars",
     "Cretan War",
-    "War of Candia"
+    "War of Candia",
+    "Venetian–Ottoman",
+    "Cretan",
+    "Candia"
    ],
    "tier": 5
   },
@@ -3148,7 +3746,9 @@
     "Ottoman–Persian War",
     "Ottoman–Safavid wars",
     "Ottoman–Safavid War",
-    "Ottoman–Iranian wars"
+    "Ottoman–Iranian wars",
+    "Ottoman–Iranian",
+    "Ottoman–Persian"
    ],
    "tier": 5
   },
@@ -3166,7 +3766,9 @@
    "answer": "Polygar Wars",
    "aliases": [
     "Polygar War",
-    "Palayakkarar Wars"
+    "Palayakkarar Wars",
+    "Polygar",
+    "Palayakkarar"
    ],
    "tier": 5
   },
@@ -3206,18 +3808,30 @@
   },
   {
    "answer": "Kalmar War",
+   "aliases": [
+    "Kalmar"
+   ],
    "tier": 5
   },
   {
    "answer": "Torstenson War",
+   "aliases": [
+    "Torstenson"
+   ],
    "tier": 5
   },
   {
    "answer": "Gunboat War",
+   "aliases": [
+    "Gunboat"
+   ],
    "tier": 5
   },
   {
    "answer": "Smolensk War",
+   "aliases": [
+    "Smolensk"
+   ],
    "tier": 5
   },
   {
@@ -3227,7 +3841,8 @@
     "Polish–Russian War",
     "Russo-Polish War of 1654",
     "Polish–Muscovite War",
-    "Dymitriads"
+    "Dymitriads",
+    "Russo-Polish"
    ],
    "tier": 5
   },
@@ -3243,7 +3858,8 @@
    "answer": "Russo-Circassian War",
    "aliases": [
     "Circassian War",
-    "Russian–Circassian War"
+    "Russian–Circassian War",
+    "Circassian"
    ],
    "tier": 5
   },
@@ -3260,7 +3876,9 @@
    "answer": "Anglo-French wars",
    "aliases": [
     "Anglo-French War",
-    "Franco-British wars"
+    "Franco-British wars",
+    "Anglo-French",
+    "Franco-British"
    ],
    "tier": 5
   },
@@ -3273,6 +3891,9 @@
   },
   {
    "answer": "War of the Reunions",
+   "aliases": [
+    "Reunions"
+   ],
    "tier": 5
   },
   {
@@ -3280,7 +3901,9 @@
    "aliases": [
     "Portuguese Civil War",
     "War of the Two Brothers",
-    "Miguelite War"
+    "Miguelite War",
+    "Two Brothers",
+    "Miguelite"
    ],
    "tier": 5
   },
@@ -3288,7 +3911,8 @@
    "answer": "South Sudanese Civil War",
    "aliases": [
     "South Sudan civil war",
-    "South Sudanese war"
+    "South Sudanese war",
+    "South Sudan"
    ],
    "tier": 5
   },
@@ -3305,7 +3929,8 @@
    "answer": "Lithuanian Wars of Independence",
    "aliases": [
     "Lithuanian War of Independence",
-    "Lithuanian Wars of Freedom"
+    "Lithuanian Wars of Freedom",
+    "Lithuanian"
    ],
    "tier": 5
   },
@@ -3335,7 +3960,9 @@
    "answer": "Central African Republic Civil War",
    "aliases": [
     "CAR civil war",
-    "Central African civil war"
+    "Central African civil war",
+    "CAR civil",
+    "Central African Republic"
    ],
    "tier": 5
   },
@@ -3350,12 +3977,16 @@
   },
   {
    "answer": "Red River War",
+   "aliases": [
+    "Red River"
+   ],
    "tier": 5
   },
   {
    "answer": "1838 Mormon War",
    "aliases": [
-    "Missouri Mormon War"
+    "Missouri Mormon War",
+    "1838 Mormon"
    ],
    "tier": 5
   },
@@ -3381,7 +4012,8 @@
    "answer": "Waikato War",
    "aliases": [
     "Invasion of the Waikato",
-    "Waikato campaign"
+    "Waikato campaign",
+    "Waikato"
    ],
    "tier": 5
   },
@@ -3390,7 +4022,9 @@
    "aliases": [
     "Northern War (New Zealand)",
     "Hone Heke's War",
-    "Hōne Heke's rebellion"
+    "Hōne Heke's rebellion",
+    "Flagstaff",
+    "Hone Heke's"
    ],
    "tier": 5
   },
@@ -3399,14 +4033,16 @@
    "aliases": [
     "Taranaki War",
     "First Taranaki War",
-    "Second Taranaki War"
+    "Second Taranaki War",
+    "Taranaki"
    ],
    "tier": 5
   },
   {
    "answer": "Moro Rebellion",
    "aliases": [
-    "Moro campaign"
+    "Moro campaign",
+    "Moro"
    ],
    "tier": 5
   },
@@ -3415,7 +4051,11 @@
    "aliases": [
     "Invasion of East Timor",
     "Indonesian occupation of East Timor",
-    "East Timor war"
+    "East Timor war",
+    "East Timor",
+    "East Timor crisis",
+    "East Timor conflict",
+    "INTERFET"
    ],
    "tier": 5
   },
@@ -3423,7 +4063,9 @@
    "answer": "Saxon Wars",
    "aliases": [
     "Saxon War",
-    "Charlemagne's Saxon Wars"
+    "Charlemagne's Saxon Wars",
+    "Saxon",
+    "Charlemagne's Saxon"
    ],
    "tier": 5
   },
@@ -3449,6 +4091,9 @@
   },
   {
    "answer": "Kettle War",
+   "aliases": [
+    "Kettle"
+   ],
    "tier": 6,
    "lore": "In 1784 the Dutch fired a single shot at an Austrian ship. It hit a soup kettle, and that was the war."
   },
@@ -3456,7 +4101,9 @@
    "answer": "War of the Bucket",
    "aliases": [
     "War of the Oaken Bucket",
-    "Bucket War"
+    "Bucket War",
+    "Bucket",
+    "Oaken Bucket"
    ],
    "tier": 6,
    "lore": "Legend says the war of 1325 began when soldiers of Modena stole a bucket from a well in Bologna. Modena still has the bucket."
@@ -3466,7 +4113,9 @@
    "aliases": [
     "Whiskey War",
     "Whisky Wars",
-    "Hans Island dispute"
+    "Hans Island dispute",
+    "Whisky",
+    "Whiskey"
    ],
    "tier": 6,
    "lore": "For decades Canada and Denmark fought over tiny Hans Island by leaving each other bottles of whisky and schnapps. They split it in 2022."
@@ -3647,7 +4296,43 @@
     "Siege of Kut",
     "Siege of Lucknow",
     "Battle of Alesia",
-    "Siege of Alesia"
+    "Siege of Alesia",
+    "Kokoda",
+    "Kokoda Track",
+    "Kokoda Trail",
+    "Kokoda Track campaign",
+    "Tobruk",
+    "Long Tan",
+    "Battle of Long Tan",
+    "Kapyong",
+    "Battle of Kapyong",
+    "Coral Sea",
+    "Battle of the Coral Sea",
+    "Milne Bay",
+    "Battle of Milne Bay",
+    "Fromelles",
+    "Pozières",
+    "Villers-Bretonneux",
+    "Beersheba",
+    "Battle of Beersheba",
+    "Bombing of Darwin",
+    "Fall of Singapore",
+    "Hiroshima",
+    "Bombing of Hiroshima",
+    "Battle of Brisbane",
+    "Vimy Ridge",
+    "Lone Pine",
+    "The Nek",
+    "Hamel",
+    "Battle of Crete",
+    "Khe Sanh",
+    "Inchon",
+    "Custer's Last Stand",
+    "Wounded Knee",
+    "Battle of Berlin",
+    "Operation Market Garden",
+    "Monte Cassino",
+    "Operation Overlord"
    ],
    "reason": "A single battle or campaign, not a whole war."
   },
@@ -3707,7 +4392,16 @@
     "Trade war",
     "Culture war",
     "Price war",
-    "Streaming wars"
+    "Streaming wars",
+    "War on Poverty",
+    "War on Christmas",
+    "War on Cancer",
+    "History wars",
+    "Class war",
+    "Class warfare",
+    "Bidding war",
+    "Flame war",
+    "Edit war"
    ],
    "reason": "A rivalry, not a war. Nobody was shot."
   },
@@ -3887,7 +4581,15 @@
     "Kree–Skrull War",
     "Dominion War",
     "Wizarding War",
-    "Robot Wars"
+    "Robot Wars",
+    "Game of Thrones",
+    "Hunger Games",
+    "Battle of Hogwarts",
+    "Call of Duty",
+    "Gears of War",
+    "World of Warcraft",
+    "Warcraft",
+    "Halo"
    ],
    "reason": "A war of fiction, not of history."
   },
@@ -3906,6 +4608,46 @@
     "United States intervention in Venezuela"
    ],
    "reason": "A raid and an intervention, not a named war."
+  },
+  {
+   "answer": "Rum Rebellion",
+   "reason": "A coup against Governor Bligh in Sydney in 1808, won without a battle. Not a war."
+  },
+  {
+   "answer": "Castle Hill rebellion",
+   "aliases": [
+    "Castle Hill convict rebellion",
+    "Battle of Vinegar Hill",
+    "Vinegar Hill"
+   ],
+   "reason": "A convict rising of 1804, put down within days. Not a war."
+  },
+  {
+   "answer": "Viet Cong",
+   "aliases": [
+    "Tamil Tigers",
+    "Khmer Rouge",
+    "Taliban",
+    "Al-Qaeda",
+    "Irish Republican Army",
+    "Provisional IRA",
+    "Nazis",
+    "Nazi Germany",
+    "Allies",
+    "Axis",
+    "Confederacy",
+    "Confederates",
+    "Roundheads",
+    "Cavaliers",
+    "Yorkists",
+    "Lancastrians",
+    "Mujahideen",
+    "Red Army",
+    "NATO",
+    "Anzacs",
+    "Diggers"
+   ],
+   "reason": "A side in a war, not the war. Name the war it fought."
   }
  ],
  "section": "World history",

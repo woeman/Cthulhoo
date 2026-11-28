@@ -1,0 +1,14 @@
+{
+  "days": [
+    { "date": "2026-11-27", "prompts": ["european-capitals", "dinosaurs", "wild-cats", "olympic-sports", "us-presidents", "herbs-spices", "bond-films"] },
+    { "date": "2026-11-28", "prompts": ["martial-arts", "programming-languages", "mythical-creatures", "rhymes-with-deep", "video-game-consoles", "olympic-host-cities", "marsupials"] },
+    { "date": "2026-11-29", "prompts": ["dead-languages", "mediterranean-countries", "shakespeare-plays", "board-games", "tarot-major-arcana", "vegetables", "soviet-republics"] },
+    { "date": "2026-11-30", "prompts": ["greek-letters", "us-states", "chemical-elements", "boats-ships", "greek-gods", "sharks", "racket-bat-sports"] },
+    { "date": "2026-12-01", "prompts": ["bones", "pharaohs", "seas", "pasta-shapes", "flightless-birds", "hats", "champions-league-winners"] },
+    { "date": "2026-12-02", "prompts": ["pixar-films", "landlocked-countries", "units", "apple-varieties", "english-monarchs", "world-cup-hosts", "phobias"] },
+    { "date": "2026-12-03", "prompts": ["beatles-songs", "sea-monsters", "no-vowel-words", "fruits", "shipwrecks", "whales-dolphins", "knots"] },
+    { "date": "2026-12-04", "prompts": ["cheeses", "moons", "currencies", "dog-breeds", "egyptian-gods", "palindromes", "disney-animated"] },
+    { "date": "2026-12-05", "prompts": ["constellations", "cocktails", "f1-champions", "musical-instruments", "deserts", "nato-alphabet", "roman-emperors"] },
+    { "date": "2026-12-06", "prompts": ["ologies", "lost-countries", "cat-breeds", "norse-gods", "breads", "car-makes", "agatha-christie"] }
+  ]
+}

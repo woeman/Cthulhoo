@@ -1,0 +1,414 @@
+# Name a sauce.
+
+Question id: `sauces` · category: food · source: `data/food.json`
+
+Rules: Any named sauce, gravy, dressing or condiment you'd pour or spoon over food, from French classics to bottled brands. Spreads, pickles, vinegars and dips like hummus don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (361 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Ketchup — Tomato ketchup | Catsup | Catchup | Red sauce | Heinz ketchup | Catsup sauce | Catchup sauce | Hunt's ketchup | Rosella | Dead horse | Kissan
+- Mayonnaise — Mayo | Mayonaise | Hellmann's | Best Foods | Duke's | Hellmann's sauce | Best Foods sauce
+- Brown sauce — Brown | Fruity sauce
+- BBQ sauce — Barbecue sauce | Barbeque sauce | BBQ | Barbecue | Barbeque | Bar-B-Q sauce | Kansas City barbecue sauce | Sweet Baby Ray's | Stubb's | KC Masterpiece | Bull's-Eye | Honey BBQ | Honey barbecue | Honey BBQ sauce
+- Soy sauce — Soy | Soya sauce | Soya | Shoyu | Light soy sauce | Dark soy sauce | Kikkoman | Shoyu sauce | Kikkoman sauce | Korean soy sauce | Ganjang
+- Gravy — Onion gravy | Bisto | Brown gravy | Turkey gravy | Roast gravy | Giblet gravy | Bisto sauce | Gravy sauce
+- Hot sauce — Chilli sauce | Chili sauce | Chilli | Chili | Hot pepper sauce | Louisiana hot sauce | Scotch bonnet sauce | Habanero sauce | Chilli pepper sauce | Louisiana | Chilli garlic sauce | Chili garlic sauce | Garlic chilli sauce
+- Sweet chilli sauce — Sweet chilli | Sweet chili | Sweet chili sauce | Thai sweet chilli | Sweet chilli dip | Nam chim kai | Thai sweet chilli sauce | Nam chim kai sauce
+- Pesto — Pesto alla genovese | Pesto genovese | Genovese | Basil pesto | Green pesto | Pesto sauce | Pesto alla genovese sauce | Pesto genovese sauce | Genovese sauce | Basil pesto sauce | Green pesto sauce
+- Bolognese — Ragù alla bolognese | Bolognaise | Spag bol sauce | Bolognese ragù | Bolognese sauce | Ragù alla bolognese sauce | Bolognaise sauce | Bolognese ragù sauce
+- Tomato sauce — Tomato | Sugo | Sugo di pomodoro | Salsa di pomodoro | Pomodoro | Napoletana | Napolitana | Neapolitan sauce | Sauce tomate | Tomato and basil sauce | Sugo sauce | Sugo di pomodoro sauce | Salsa di pomodoro sauce | Pomodoro sauce | Napoletana sauce | Napolitana sauce
+- Salsa — Tomato salsa | Mexican salsa | Hot salsa | Mild salsa | Salsa dip | Salsa sauce | Mexican salsa sauce | Hot salsa sauce | Mild salsa sauce | Picante sauce | Picante | Pace picante
+- Worcestershire sauce — Worcestershire | Worcester sauce | Lea & Perrins | Wooster sauce | Worchestershire sauce | Lea & Perrins sauce
+
+### Tier 2: common (32)
+
+- Mustard — Yellow mustard | American mustard | French's | French's mustard | Mustard sauce | Hot dog mustard | Sauce moutarde | Yellow mustard sauce | American mustard sauce | French's sauce | French's mustard sauce | Hot dog mustard sauce
+- Sweet and sour — Sweet and sour sauce | Sweet n sour | Sweet n sour sauce
+- Hollandaise — Sauce hollandaise | Hollandaise sauce
+- Béchamel — White sauce | Besciamella | Balsamella | Sauce béchamel | Béchamel sauce | Besciamella sauce | Balsamella sauce | Sweet white sauce
+- Béarnaise — Sauce béarnaise | Béarnaise sauce
+- Carbonara — Alla carbonara | Carbonara sauce | Alla carbonara sauce
+- Alfredo — Fettuccine Alfredo | Alfredo sauce | Fettuccine Alfredo sauce
+- Marinara — Salsa marinara | Alla marinara | Marinara sauce | Salsa marinara sauce | Alla marinara sauce
+- Arrabbiata — Arrabiata | Arabiata | All'arrabbiata | Arrabbiata sauce | Arrabiata sauce | Arabiata sauce | All'arrabbiata sauce
+- Teriyaki — Teriyaki glaze | Teriyaki sauce
+- Hoisin — Haixian sauce | Hoisin sauce
+- Oyster sauce — Oyster
+- Fish sauce — Fish | Nam pla | Nuoc mam | Patis | Nam pla sauce | Nuoc mam sauce | Patis sauce
+- Sriracha — Siracha | Sriraja | Rooster sauce | Huy Fong | Sriracha sauce | Siracha sauce | Sriraja sauce | Huy Fong sauce
+- Tabasco — Tabasco sauce
+- HP Sauce — HP | HP brown sauce | HP Fruity | HP Fruity sauce
+- Peri-peri — Piri piri | Pili pili | Nando's | Peri-peri sauce | Piri-piri sauce | Pili pili sauce | Nando's sauce
+- Aioli — Allioli | Alioli | Garlic mayonnaise | Garlic mayo | Aioli sauce | Allioli sauce | Alioli sauce
+- Tartare sauce — Tartar sauce | Tartare | Tartar | Sauce tartare
+- Mint sauce — Mint
+- Apple sauce — Apple | Bramley apple sauce
+- Cranberry sauce — Cranberry | Cranberry jelly | Jellied cranberry sauce | Cranberry relish | Cranberry jelly sauce
+- Horseradish sauce — Horseradish | Creamed horseradish | Horseradish cream | Hot horseradish | Chrain | Meerrettich | Creamed horseradish sauce | Horseradish cream sauce | Hot horseradish sauce | Chrain sauce | Meerrettich sauce
+- Peppercorn sauce — Peppercorn | Pepper sauce | Au poivre | Sauce au poivre | Green peppercorn sauce | Black pepper sauce | Au poivre sauce
+- Cheese sauce — Cheese | Cheddar sauce
+- Ranch — Ranch dressing | Ranch dip | Hidden Valley | Ranch sauce | Hidden Valley sauce
+- Thousand Island — Thousand Island dressing | Thousand Island sauce
+- Curry sauce — Curry | Chip shop curry | Chip shop curry sauce | Chinese curry sauce | Curry gravy
+- Salad cream — Heinz Salad Cream | Salad cream sauce | Heinz Salad Cream sauce
+- Garlic sauce — Garlic | Garlic and herb | Garlic dip | Kebab garlic sauce
+- Satay sauce — Satay | Peanut sauce | Peanut | Sate sauce | Satésaus | Bumbu kacang | Satésaus sauce | Bumbu kacang sauce
+- Paprika sauce — Hungarian paprika sauce | Paprika cream sauce
+
+### Tier 3: known to fans (76)
+
+- Bread sauce — Bread
+- Puttanesca — Alla puttanesca | Puttanesca sauce | Alla puttanesca sauce
+- Amatriciana — Matriciana | All'amatriciana | Amatriciana sauce | Matriciana sauce | All'amatriciana sauce
+- Ragù — Ragù napoletano | Meat sauce | Sugo di carne | Ragù bianco | Ragù sauce | Ragù napoletano sauce | Sugo di carne sauce | Ragù bianco sauce
+- Vodka sauce — Alla vodka | Penne alla vodka | Alla vodka sauce | Penne alla vodka sauce
+- Cacio e pepe — Cacio pepe | Cacio e pepe sauce | Cacio pepe sauce
+- Salsa verde — Green sauce | Sauce verte | Salsa verde mexicana | Salsa verde sauce | Salsa verde mexicana sauce
+- Chimichurri — Chimichuri | Chimmichurri | Chimichurri sauce | Chimichuri sauce | Chimmichurri sauce
+- Guacamole — Guac
+- Pico de gallo — Salsa fresca | Salsa mexicana | Pico | Salsa cruda | Pico de gallo sauce | Salsa fresca sauce | Salsa mexicana sauce | Pico sauce | Salsa cruda sauce
+- Mole — Mole poblano | Mole negro | Mole verde | Mole rojo | Mole amarillo | Mole sauce | Mole poblano sauce | Mole negro sauce | Mole verde sauce | Mole rojo sauce | Mole amarillo sauce
+- Enchilada sauce — Enchilada | Red enchilada sauce
+- Queso — Chile con queso | Chili con queso | Queso dip | Queso blanco dip | Queso sauce | Chile con queso sauce | Chili con queso sauce
+- Tzatziki — Tsatsiki | Tzaziki | Cacık | Tzatziki sauce | Tsatsiki sauce | Tzaziki sauce | Cacık sauce
+- Raita — Mint raita | Cucumber raita | Raitha | Boondi raita | Raita sauce | Cucumber raita sauce | Raitha sauce | Boondi raita sauce
+- Tahini — Tahini sauce | Tahina | Tehina | Tahine | Tahina sauce | Tehina sauce | Tahine sauce
+- Harissa — Harissa paste | Hrissa | Harissa sauce | Harissa paste sauce | Hrissa sauce
+- Gochujang — Kochujang | Korean chilli paste | Korean chili paste | Gochujang sauce | Kochujang sauce | Korean chilli paste sauce | Korean chili paste sauce
+- Sambal — Sambal oelek | Sambal ulek | Sambal olek | Sambal belacan | Sambal terasi | Sambal matah | Sambal sauce | Sambal oelek sauce | Sambal ulek sauce | Sambal olek sauce | Sambal belacan sauce | Sambal terasi sauce | Sambal matah sauce
+- Ponzu — Ponzu shoyu | Ponzu sauce | Ponzu shoyu sauce
+- XO sauce — XO
+- Plum sauce — Plum | Chinese plum sauce
+- Black bean sauce — Black bean | Black beans sauce
+- Chilli oil — Chili oil | Hot chilli oil | Rayu | La-yu | Red oil
+- Tamari — Tamari soy sauce | Tamari sauce
+- Szechuan sauce — Sichuan sauce | Szechwan sauce | Schezwan sauce | McDonald's Szechuan sauce
+- Katsu curry sauce — Katsu curry | Katsu | Japanese curry sauce | Japanese curry
+- Buffalo sauce — Buffalo | Wing sauce | Buffalo wing sauce | Hot wing sauce
+- Steak sauce — A1 | A1 sauce | A1 steak sauce | Heinz 57 | Steak | Heinz 57 sauce
+- Honey mustard — Honey mustard dressing | Honey Dijon | Honey mustard sauce | Honey Dijon sauce
+- Dijon mustard — Dijon | Grey Poupon | Moutarde de Dijon | Dijon mustard sauce | Dijon sauce | Grey Poupon sauce | Moutarde de Dijon sauce | Maille
+- English mustard — Colman's | Colman's mustard | Hot English mustard | English mustard sauce | Colman's sauce | Colman's mustard sauce | Hot English mustard sauce
+- Blue cheese dressing — Blue cheese | Blue cheese sauce | Blue cheese dip | Bleu cheese dressing | Roquefort dressing | Roquefort sauce
+- Italian dressing — Italian vinaigrette | Italian vinaigrette sauce
+- French dressing — French salad dressing
+- Vinaigrette — Vinegrette | Oil and vinegar | Balsamic vinaigrette | Raspberry vinaigrette | House dressing | Vinaigrette sauce | Vinegrette sauce | Balsamic vinaigrette sauce | Raspberry vinaigrette sauce
+- Caesar dressing — Caesar | Caesar sauce | Cesar dressing
+- Cocktail sauce — Seafood cocktail sauce | Shrimp cocktail sauce
+- Marie Rose — Seafood sauce | Prawn cocktail sauce | Salsa rosa | Cocktail dressing | Marie Rose sauce | Salsa rosa sauce
+- Burger sauce — Big Mac sauce | Special sauce | Mac sauce
+- Remoulade — Remoulade sauce
+- Parsley sauce — Parsley
+- Red wine sauce — Red wine reduction | Sauce au vin rouge | Red wine gravy | Red wine reduction sauce | Wine sauce
+- Mushroom sauce — Mushroom | Creamy mushroom sauce | Sauce champignon
+- Diane sauce — Diane | Sauce Diane | Steak Diane sauce
+- Bordelaise — Sauce bordelaise | Bordelaise sauce
+- Demi-glace — Demi glaze | Sauce demi-glace
+- Jus — Au jus | Red wine jus | Jus lié | Lamb jus
+- Velouté — Sauce velouté | Velouté sauce
+- Espagnole — Sauce espagnole | Spanish sauce | Espagnole sauce
+- Mornay — Sauce Mornay | Mornay sauce
+- Beurre blanc — Beurre nantais | White butter sauce | Butter sauce | Beurre blanc sauce | Beurre nantais sauce
+- Chasseur — Sauce chasseur | Hunter's sauce | Hunter sauce | Jägersoße | Jäger sauce | Chasseur sauce | Jägersoße sauce
+- Brandy sauce — Brandy cream sauce
+- Butterscotch sauce — Butterscotch
+- Toffee sauce — Sticky toffee sauce | Toffee
+- Hot fudge — Hot fudge sauce | Fudge sauce | Chocolate fudge sauce
+- Coulis — Raspberry coulis | Fruit coulis | Strawberry coulis | Mango coulis | Berry sauce | Berry coulis | Mixed berry sauce
+- Chocolate sauce — Chocolate | Chocolate syrup | Hershey's syrup | Hot chocolate sauce | Chocolate syrup sauce | Hershey's syrup sauce
+- Caramel sauce — Caramel | Salted caramel | Salted caramel sauce | Sauce caramel
+- Custard — Crème anglaise | Custard sauce | Bird's custard | Pouring custard | Vanilla sauce | Crème anglaise sauce
+- Chutney — Mango chutney | Tomato chutney | Onion chutney | Apple chutney | Mrs Ball's | Mrs Ball's chutney | Major Grey's | Chatni | Mrs Ball's sauce | Major Grey's sauce | Chatni sauce
+- Jerk sauce — Jerk | Jerk marinade | Jerk marinade sauce
+- Frank's RedHot — Frank's | Frank's hot sauce | Frank's RedHot sauce | Frank's sauce
+- Reggae Reggae sauce — Reggae Reggae | Levi Roots | Levi Roots sauce | Reggae sauce
+- Tikka masala sauce — Tikka masala | Tikka sauce | Masala sauce | Chicken tikka masala sauce
+- Korma sauce — Korma
+- Romesco — Salsa romesco | Romesco sauce | Salsa romesco sauce
+- Pesto rosso — Red pesto | Sun-dried tomato pesto | Pesto alla siciliana | Pesto rosso sauce | Red pesto sauce | Pesto alla siciliana sauce
+- Nacho cheese sauce — Nacho cheese | Nacho sauce | Cheez Whiz | Nacho cheese dip | Cheez Whiz sauce
+- Lemon sauce — Lemon | Lemon chicken sauce
+- Pizza sauce — Pizzaiola | Alla pizzaiola | Pizzaiola sauce | Alla pizzaiola sauce
+- Wasabi — Wasabi sauce
+- Cherry sauce — Black cherry sauce | Sour cherry sauce
+- Strawberry sauce — Strawberry topping | Raspberry sauce | Raspberry topping | Monkey's blood | Strawberry topping sauce | Raspberry topping sauce | Monkey's blood sauce
+- Lingonberry sauce
+
+### Tier 4: obscure (113)
+
+- Wholegrain mustard — Grainy mustard | Moutarde à l'ancienne | Seeded mustard | Coarse mustard | Wholegrain mustard sauce | Grainy mustard sauce | Moutarde à l'ancienne sauce | Seeded mustard sauce | Coarse mustard sauce
+- Mousseline — Sauce mousseline | Chantilly sauce | Mousseline sauce
+- Maltaise — Sauce maltaise | Maltese sauce | Maltaise sauce
+- Choron — Sauce Choron | Choron sauce
+- Foyot — Sauce Foyot | Foyot sauce
+- Paloise — Sauce paloise | Paloise sauce
+- Soubise — Sauce soubise | Soubise sauce
+- Nantua — Sauce Nantua | Nantua sauce
+- Allemande — Sauce allemande | German sauce | Allemande sauce
+- Suprême — Sauce suprême | Suprême sauce
+- Normande — Sauce normande | Normande sauce
+- Aurore — Sauce aurore | Aurore sauce
+- Bercy — Sauce Bercy | Bercy sauce
+- Sauce Robert — Robert sauce
+- Charcutière — Sauce charcutière | Charcutière sauce
+- Lyonnaise — Sauce lyonnaise | Lyonnaise sauce
+- Madeira sauce — Sauce madère | Madère | Madère sauce
+- Périgueux — Sauce Périgueux | Périgourdine | Sauce périgourdine | Périgueux sauce | Périgourdine sauce
+- Sauce diable — Diable | Diable sauce | Devil sauce | Devilled sauce
+- Bigarade — Sauce bigarade | Sauce à l'orange | Duck à l'orange sauce | Bigarade sauce
+- Beurre noisette — Brown butter | Brown butter sauce | Noisette butter | Beurre noisette sauce | Sage butter | Sage butter sauce | Burro e salvia | Sage sauce
+- Beurre noir — Black butter | Black butter sauce | Beurre noir sauce
+- Gribiche — Sauce gribiche | Gribiche sauce
+- Ravigote — Sauce ravigote | Ravigote sauce
+- Sauce vierge — Vierge | Vierge sauce
+- Rouille — Sauce rouille | Rouille sauce
+- Pistou — Pistou sauce
+- Poivrade — Sauce poivrade | Poivrade sauce
+- Marchand de vin — Sauce marchand de vin | Marchand de vin sauce
+- Cumberland sauce
+- Bagna càuda — Bagna caôda | Bagna càuda sauce | Bagna caôda sauce
+- Agrodolce — Sweet and sour Italian sauce | Agrodolce sauce
+- Mojo — Mojo picón | Mojo rojo | Mojo verde | Mojo criollo | Cuban mojo | Mojo sauce | Mojo picón sauce | Mojo rojo sauce | Mojo verde sauce | Mojo criollo sauce | Cuban mojo sauce
+- Salsa brava — Bravas sauce | Patatas bravas sauce | Brava sauce | Salsa brava sauce
+- Avgolemono — Egg and lemon sauce | Egg-lemon sauce
+- Toum — Toum garlic sauce | Lebanese garlic sauce | Toum sauce
+- Zhug — Zhoug | Skhug | Schug | Zhug sauce | Zhoug sauce | Skhug sauce | Schug sauce
+- Ajvar — Ajvar relish | Ajvar sauce
+- Chermoula — Charmoula | Chermoula sauce | Charmoula sauce
+- Salsa roja — Red salsa | Salsa roja sauce | Red salsa sauce
+- Adobo sauce — Adobo | Chipotles in adobo | Chipotles in adobo sauce
+- Taco sauce — Taco
+- Cholula — Cholula sauce
+- Kecap manis — Ketjap manis | Sweet soy sauce | Sweet soy | Kicap manis | Kecap manis sauce | Ketjap manis sauce | Kicap manis sauce
+- Nuoc cham — Nuoc mam cham | Nuoc cham sauce | Nuoc mam cham sauce
+- Tonkatsu sauce — Tonkatsu | Katsu sauce | Bulldog sauce
+- Okonomiyaki sauce — Okonomi sauce | Otafuku | Otafuku sauce | Takoyaki sauce
+- Unagi sauce — Eel sauce | Kabayaki sauce
+- Goma dare — Sesame sauce | Sesame dressing | Japanese sesame dressing | Goma dare sauce
+- Kewpie mayonnaise — Kewpie | Kewpie mayo | Japanese mayonnaise | Japanese mayo | Kewpie sauce
+- Ssamjang — Ssam sauce | Ssamjang sauce
+- Bulgogi sauce — Korean barbecue sauce | Korean BBQ sauce | Bulgogi marinade | Bulgogi marinade sauce
+- Doubanjiang — Toban djan | Chilli bean sauce | Chili bean sauce | Chilli bean paste | Broad bean paste | Douban | Doubanjiang sauce | Toban djan sauce | Chilli bean paste sauce | Broad bean paste sauce | Douban sauce
+- Char siu sauce — Char siu | Chinese barbecue sauce | Cha siu sauce
+- General Tso's sauce — General Tso's | General Tso sauce
+- Orange sauce — Orange chicken sauce
+- Duck sauce — Duk sauce
+- Chilli crisp — Chili crisp | Lao Gan Ma | Crispy chilli oil | Crispy chili oil | Chilli crunch | Chili crunch | Lao Gan Ma sauce | Chilli crunch sauce | Chili crunch sauce
+- Banana ketchup — Banana sauce
+- Maggi seasoning — Maggi | Maggi sauce | Maggi Würze | Jugo Maggi | Maggi Würze sauce | Jugo Maggi sauce
+- Mint chutney — Green chutney | Coriander chutney | Hari chutney | Pudina chutney
+- Tamarind sauce — Tamarind chutney | Imli chutney | Imli | Saunth | Imli sauce | Saunth sauce | Sweet chutney | Meethi chutney
+- Jalfrezi sauce — Jalfrezi
+- Balti sauce — Balti
+- Rogan josh sauce — Rogan josh | Rogan gosht | Rogan gosht sauce
+- Madras sauce — Madras
+- Butter chicken sauce — Butter chicken | Makhani | Makhani sauce | Murgh makhani sauce
+- Thai green curry sauce — Thai green curry | Green curry sauce | Green curry
+- Daddies — Daddies sauce | Daddies brown sauce | Daddy's sauce
+- Onion sauce — Onion
+- White wine sauce — Sauce vin blanc | Vin blanc | Vin blanc sauce
+- Cream sauce — Creamy sauce | Sauce crème
+- Dill sauce — Dill
+- Brandy butter — Hard sauce | Rum butter | Cumberland rum butter
+- Rum sauce — Rum cream sauce
+- Sabayon — Zabaglione | Zabaione | Sabayon sauce | Zabaglione sauce | Zabaione sauce
+- Dulce de leche — Cajeta | Manjar | Doce de leite | Dulce de leche sauce | Cajeta sauce | Manjar sauce | Doce de leite sauce
+- Fry sauce — Fry sauce dip
+- Sausage gravy — Country gravy | White gravy | Sawmill gravy | Cream gravy | Milk gravy
+- Chick-fil-A sauce — Chick-fil-A
+- Russian dressing — Russian | Russian sauce
+- Green goddess — Green goddess dressing | Green goddess sauce
+- Spicy mayo — Sriracha mayo | Sriracha mayonnaise | Spicy mayonnaise
+- Chipotle mayo — Chipotle mayonnaise | Chipotle sauce | Chipotle
+- Miracle Whip — Salad dressing spread
+- Rosé sauce — Pink sauce | Tomato cream sauce | Rosa sauce
+- Wasabi mayo — Wasabi mayonnaise
+- Balsamic glaze — Balsamic reduction | Balsamic drizzle | Crema di balsamico | Balsamic reduction sauce | Crema di balsamico sauce
+- Redcurrant sauce
+- Port sauce — Port wine sauce | Port reduction | Port jus | Port reduction sauce
+- Lobster sauce — Sauce homard | Lobster cream sauce
+- Clam sauce — White clam sauce | Red clam sauce | Vongole sauce | Salsa alle vongole | Salsa alle vongole sauce
+- Tonnato — Salsa tonnata | Tonnato sauce | Tuna sauce | Salsa tonnata sauce
+- Aglio e olio — Aglio olio | Garlic and oil | Aglio e olio sauce | Aglio olio sauce
+- Carolina vinegar sauce — Vinegar sauce | Vinegar barbecue sauce | Eastern Carolina sauce | Lexington dip | Vinegar pepper sauce
+- Chippy sauce — Edinburgh chippy sauce | Salt and sauce
+- Whisky sauce — Whiskey sauce | Whisky cream sauce
+- Honey garlic sauce — Honey garlic
+- Bang bang sauce — Bang bang
+- Hot honey — Chilli honey | Spicy honey | Hot honey sauce | Chilli honey sauce | Spicy honey sauce
+- Chamoy — Chamoy sauce
+- Salsa Lizano — Lizano | Lizano sauce | Salsa Lizano sauce
+- Mayoketchup
+- Salsa ranchera — Salsa ranchera sauce
+- Red chile sauce — Red chili sauce | Chile colorado | New Mexico red chile | Chile colorado sauce | New Mexico red chile sauce
+- Green chile sauce — Green chili sauce | New Mexico green chile | New Mexico green chile sauce
+- Coney sauce — Coney Island sauce | Hot dog chili | Hot dog chili sauce
+- Ginger dressing — Japanese ginger dressing | Hibachi ginger sauce
+- Miso dressing
+- Truffle mayo — Truffle mayonnaise | Truffle aioli | Truffle aioli sauce
+- Sweet mustard — Bavarian sweet mustard | Süßer Senf | Weisswurst mustard | Sweet mustard sauce | Bavarian sweet mustard sauce | Süßer Senf sauce | Weisswurst mustard sauce
+- Blackberry sauce
+- Coffee sauce
+
+### Tier 5: expert (124)
+
+- Américaine — Sauce américaine | Armoricaine | Sauce armoricaine | Américaine sauce | Armoricaine sauce
+- Cardinal — Sauce cardinal | Cardinal sauce
+- Smitane — Sauce smitane | Smitane sauce
+- Bonnefoy — Sauce Bonnefoy | Bonnefoy sauce
+- Colbert — Sauce Colbert | Colbert sauce
+- Zingara — Sauce zingara | Zingara sauce
+- Piquante — Sauce piquante | Piquante sauce
+- Valois — Sauce Valois | Valois sauce
+- Grand veneur — Sauce grand veneur | Grand veneur sauce
+- Bourguignonne — Sauce bourguignonne | Bourguignonne sauce
+- Meurette — Sauce meurette | Meurette sauce
+- Reform sauce
+- Albert sauce
+- Egg sauce — Sauce aux oeufs
+- Caper sauce — Capers sauce
+- Gooseberry sauce
+- Henderson's Relish — Henderson's | Hendo's | Henderson's sauce | Hendo's sauce
+- Encona — Encona hot sauce | Encona West Indian hot pepper sauce | Encona sauce
+- Melba sauce — Melba
+- Salmoriglio — Salmoriglio sauce
+- Gricia — Alla gricia | Gricia sauce | Alla gricia sauce
+- Pesto alla trapanese — Pesto trapanese | Trapanese pesto | Pesto alla trapanese sauce | Pesto trapanese sauce | Trapanese pesto sauce
+- Peverada — Peverada sauce
+- Mostarda — Mostarda di Cremona | Mostarda di frutta | Fruit mustard | Mostarda sauce | Mostarda di Cremona sauce | Mostarda di frutta sauce | Fruit mustard sauce
+- Colatura di alici — Colatura | Colatura di alici sauce | Colatura sauce
+- Pil pil — Pil pil sauce
+- Vizcaína — Salsa vizcaína | Biscayne sauce | Vizcaína sauce | Salsa vizcaína sauce
+- Skordalia — Skorthalia | Skordhalia | Skordalia sauce | Skorthalia sauce | Skordhalia sauce
+- Tarator — Tarator sauce
+- Shatta — Shatta sauce
+- Valentina — Valentina hot sauce | Valentina sauce
+- Tapatío — Tapatío sauce
+- Pipián — Pepián | Pipián sauce | Pepián sauce
+- Salsa macha — Salsa macha sauce
+- Salsa criolla — Criolla | Salsa criolla sauce | Criolla sauce
+- Pebre — Pebre sauce
+- Ají — Ají picante | Aji sauce | Ají amarillo sauce | Ají picante sauce
+- Huancaína — Salsa huancaína | Huancaina sauce | Papa a la huancaína sauce | Salsa huancaína sauce
+- Llajwa — Llajua | Llajua sauce | Llajwa sauce
+- Hogao — Hogao sauce
+- Pique — Pique sauce | Pique criollo | Puerto Rican hot sauce | Pique criollo sauce
+- Sauce chien — Dog sauce
+- Pickapeppa — Pickapeppa sauce
+- Ti-Malice — Sauce Ti-Malice | Ti-Malice sauce
+- Bajan pepper sauce — Bajan hot sauce | Barbados pepper sauce
+- Nam prik — Nam phrik | Nam prik pao | Nam phrik phao | Nam prik sauce | Nam phrik sauce | Nam prik pao sauce | Nam phrik phao sauce
+- Nam jim jaew — Nam jim | Nam chim | Nam jim jaew sauce | Nam jim sauce | Nam chim sauce
+- Prik nam pla — Phrik nam pla | Prik nam pla sauce | Phrik nam pla sauce
+- Yakisoba sauce
+- Mentsuyu — Tsuyu | Mentsuyu sauce | Tsuyu sauce
+- Tentsuyu — Tempura sauce | Tempura dipping sauce | Tentsuyu sauce
+- Tare — Yakitori sauce | Yakitori tare | Tare sauce | Yakitori tare sauce
+- Yakiniku sauce
+- Yuzu kosho — Yuzu kosho sauce
+- Yangnyeom sauce — Yangnyeom | Korean fried chicken sauce
+- Sweet bean sauce — Tian mian jiang | Sweet flour sauce | Tian mian jiang sauce
+- Sha cha sauce — Chinese satay sauce
+- Kung pao sauce — Kung po sauce | Gong bao sauce
+- Mang Tomas — Lechon sauce | Liver sauce | Mang Tomas sauce
+- Shito — Shitor | Shito sauce | Black pepper sauce from Ghana | Shitor sauce
+- Awaze — Awaze sauce
+- Vindaloo sauce — Vindaloo
+- Dopiaza — Dopiaza sauce | Do pyaza | Do pyaza sauce
+- Bhuna — Bhuna sauce
+- Pasanda — Pasanda sauce
+- Dhansak — Dhansak sauce
+- Thai red curry sauce — Thai red curry | Red curry sauce | Red curry
+- Comeback sauce
+- Mumbo sauce — Mambo sauce | Mumbo
+- Alabama white sauce — White barbecue sauce | White BBQ sauce | Alabama white barbecue sauce
+- Carolina mustard sauce — Carolina gold | Carolina gold sauce | Mustard barbecue sauce
+- Red-eye gravy
+- Yum yum sauce — Yum yum | Hibachi sauce | White sauce from hibachi
+- Polynesian sauce — Polynesian
+- Raising Cane's sauce — Cane's sauce
+- Boom boom sauce — Boom boom
+- Catalina dressing — Catalina | Catalina sauce
+- Poppy seed dressing
+- Creole sauce — Sauce créole
+- Curry ketchup — Currywurst sauce | Curry ketchup sauce
+- Frankfurt green sauce — Grüne Soße | Grie Soß | Frankfurter grüne Soße | Grüne Soße sauce | Grie Soß sauce | Frankfurter grüne Soße sauce
+- Andalouse — Sauce andalouse | Andalouse sauce
+- Samurai sauce — Samouraï | Sauce samouraï | Samurai | Samouraï sauce
+- Joppiesaus — Joppie sauce | Joppie | Joppiesaus sauce
+- Fritessaus — Frietsaus | Fritesaus | Fritessaus sauce | Frietsaus sauce | Fritesaus sauce
+- Hovmästarsås — Gravlax sauce | Mustard dill sauce | Gravlaxsås | Hovmästarsås sauce | Gravlaxsås sauce
+- Tkemali — Tkemali sauce | Georgian plum sauce
+- Satsivi — Satsivi sauce | Georgian walnut sauce
+- Adjika — Ajika | Adzhika | Adjika sauce | Ajika sauce | Adzhika sauce
+- Hongroise — Sauce hongroise | Hungarian sauce | Hongroise sauce
+- Champagne sauce — Sauce au champagne
+- Wow-wow sauce
+- Mushroom ketchup — Mushroom catsup | Geo Watkins | Geo Watkins sauce
+- Crystal hot sauce — Crystal
+- Texas Pete — Texas Pete hot sauce
+- Marie Sharp's — Marie Sharp's hot sauce | Marie Sharp's sauce
+- El Yucateco — El Yucateco hot sauce | El Yucateco sauce
+- Matouk's — Matouk's hot sauce | Matouk's sauce
+- Tiger Sauce
+- OK Sauce
+- Raisin sauce
+- Saffron sauce — Saffron cream sauce
+- Tarragon sauce — Tarragon cream sauce | Sauce à l'estragon
+- Prawn sauce — Shrimp sauce
+- Anchovy sauce — Anchovy essence | Anchovy essence sauce
+- Norma sauce — Alla Norma | Sugo alla Norma | Alla Norma sauce | Sugo alla Norma sauce
+- Donair sauce — Sweet donair sauce
+- Gastrique — Gastrique sauce
+- Beurre rouge — Beurre rouge sauce
+- Beurre monté — Beurre monté sauce
+- Poulette — Sauce poulette | Poulette sauce
+- Ivoire — Sauce ivoire | Ivoire sauce
+- Villeroi — Sauce Villeroi | Villeroy | Villeroi sauce | Villeroy sauce
+- Financière — Sauce financière | Financière sauce
+- Chateaubriand sauce
+- Rouennaise — Sauce rouennaise | Rouennaise sauce
+- Albuféra — Sauce Albuféra | Albuféra sauce
+- Café de Paris — Café de Paris sauce | Café de Paris butter
+- Ocopa — Ocopa sauce
+- Kasundi — Kasundi sauce
+- Yu xiang — Yuxiang sauce | Fish-fragrant sauce
+- Toyomansi — Calamansi sauce | Calamansi soy sauce | Toyomansi sauce
+- Wafu dressing
+- Walnut ketchup
+
+### Tier 6: rare jackpots (3)
+
+- Garum — Liquamen | Garum sauce | Liquamen sauce
+- Monkey gland sauce — Monkey gland
+- Salsa golf — Golf sauce | Salsa golf sauce
+
+## Refused on purpose (33)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Sauce | Sauces | Condiment | Condiments | Dip | Dips | Pasta sauce | Salad dressing | Dressing | Cooking sauce | Table sauce | Secret sauce — "Which sauce?"
+- Hummus | Houmous | Humus | Hommus | Baba ganoush | Baba ghanoush | Taramasalata | Muhammara | French onion dip | Onion dip | Tapenade — "A dip and a spread, but not a sauce."
+- Vinegar | Malt vinegar | Balsamic vinegar | Balsamic | Cider vinegar | Rice vinegar | Wine vinegar — "Sharp enough, but a vinegar, not a sauce."
+- Olive oil | Oil | Sesame oil | Truffle oil | Vegetable oil | Rapeseed oil — "An oil. It dresses things, but on its own it isn't a sauce."
+- Seasoning | Pepper | Salt and pepper | Black pepper | Garlic salt | Celery salt — "A seasoning, not a sauce."
+- Honey | Maple syrup | Golden syrup | Syrup | Treacle | Agave syrup | Molasses — "Sweet and runny, but not a sauce."
+- Jam | Marmalade | Jelly | Redcurrant jelly | Lemon curd | Mint jelly — "A preserve, not a sauce."
+- Marmite | Vegemite | Bovril | Peanut butter | Nutella | Butter | Margarine | Cream cheese — "A spread, not a sauce."
+- Pickle | Pickles | Relish | Branston | Branston Pickle | Piccalilli | Sweet pickle | Gherkin | Sauerkraut | Kimchi | Pickled onions | Achar | Lime pickle — "A pickle, too chunky to be a sauce."
+- Miso | Miso paste | Tomato purée | Tomato paste | Curry paste | Doenjang | Shrimp paste | Belacan — "A paste for cooking, not a sauce."
+- Stock | Broth | Bouillon | Stock cube | Oxo | Consommé | Bone broth — "Sauces start with it, but it isn't one yet."
+- Sofrito | Soffritto | Mirepoix | Roux — "A cooking base, fried before any sauce begins."
+- Cream | Double cream | Single cream | Sour cream | Crème fraîche | Clotted cream | Whipped cream | Yoghurt | Yogurt — "Cream on its own isn't a sauce yet."
+- Heinz | Heinz sauce | Lee Kum Kee | Kraft | Masterfoods | Knorr | Hunt's — "A company with dozens of sauces. Which one?"
+- Dolmio | Loyd Grossman | Homepride | Sharwood's | Patak's | Prego | Rao's | Bertolli | Classico | Barilla | Uncle Ben's | Ben's Original | Old El Paso | Blue Dragon — "A brand of jarred sauces. Which one?"
+- Gypsy sauce | Gipsy sauce | Zigeunersauce — "The old name is a slur against Sinti and Roma. Knorr renamed it Hungarian-style paprika sauce in 2020."
+- Lamb sauce — "Which sauce for the lamb? Mint is the usual."
+- Gumbo | Gumbo sauce — "A stew, not a sauce."
+- Refused without a reason (near misses of real answers): Sugar sauce | Potato sauce | Smoky sauce | Date sauce | Tofu sauce | Lime sauce | Olive sauce | Bacon sauce | Beef sauce | Beer sauce | Goose sauce | Corn sauce | Pecan sauce | Chickpea sauce | Chasni

@@ -1,0 +1,430 @@
+# Name a mushroom or other fungus.
+
+Question id: `fungi` · category: nature · source: `data/nature.json`
+
+Rules: Any fungus, wild or cultivated, as a group or a single species: mushrooms, moulds, rusts and the rest. Lichens count too, being mostly fungus; slime moulds and water moulds, such as potato blight, don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (367 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Button Mushroom — Button | White mushroom | White button mushroom | Common mushroom | Cultivated mushroom | Champignon | Champignon de Paris | Agaricus bisporus | Paris mushroom
+- Portobello — Portabella | Portobella | Portabello | Flat mushroom | Open cap mushroom | Portobello fungus | Portobello mushroom
+- Shiitake — Shitake | Black forest mushroom | Chinese black mushroom | Xianggu | Lentinula edodes | Lentinus edodes | Shiitake fungus | Shiitake mushroom
+- Oyster Mushroom — Oyster | Pearl oyster | Grey oyster | Tree oyster | Hiratake | Dhingri | Pleurotus | Pleurotus ostreatus | Gray oyster
+- Chanterelle — Girolle | Golden chanterelle | Pfifferling | Cantharellus | Cantharellus cibarius | Chanterelle fungus | Chanterelle mushroom | Finferli | Kantarell | Pacific golden chanterelle | Cantharellus formosus
+- Porcini — Porcino | Cep | Cepe | Penny bun | King bolete | Boletus edulis | Steinpilz | Porcini fungus | Porcini mushroom | Cep mushroom | Cèpe de Bordeaux
+- Morel — Morille | Gucchi | Guchhi | Sponge mushroom | Morchella | Morel fungus | Morel mushroom
+- Truffle — Truffe | Tartufo | Tuber | Truffle fungus
+- Fly Agaric — Fly amanita | Amanita muscaria | Fly Agaric fungus | Fly Agaric mushroom
+- Death Cap — Amanita phalloides | Death Cap fungus | Death Cap mushroom
+- Magic Mushroom — Psilocybe | Psilocybin | Psilocybin mushroom | Shroom | Shrooms | Psychedelic mushroom | Hallucinogenic mushroom | Mushies | Magic mushies | Magic truffle
+- Yeast — Yeast fungus | Wild yeast
+- Mould — Mold | Mould fungus
+
+### Tier 2: common (32)
+
+- Chestnut Mushroom — Cremini | Crimini | Baby bella | Baby portobello | Brown mushroom | Brown cap mushroom | Swiss brown | Brown button
+- Field Mushroom — Meadow mushroom | Agaricus campestris | Rosé des prés | Prataiolo
+- Enoki — Enokitake | Golden needle mushroom | Enoki fungus | Enoki mushroom
+- Maitake — Hen of the woods | Sheep's head | Ram's head | Grifola frondosa | Maitake fungus | Maitake mushroom
+- King Oyster — King trumpet | French horn mushroom | Eryngii | Eringi | Pleurotus eryngii | King Oyster fungus | King Oyster mushroom
+- Matsutake — Pine mushroom | Tricholoma matsutake | Matsutake fungus | Matsutake mushroom | American matsutake | White matsutake | Tricholoma magnivelare | Tricholoma murrillianum | Songi
+- Wood Ear — Black fungus | Cloud ear | Tree ear | Kikurage | Auricularia | Wood Ear fungus | Wood Ear mushroom | Ear fungus | Mu er | Mook yee
+- Lion's Mane — Monkey head mushroom | Pom pom mushroom | Bearded tooth | Hericium erinaceus | Hericium | Lion's Mane fungus | Lion's Mane mushroom | Monkey head | Monkey's head | Hou tou gu | Houtou | Yamabushitake
+- Reishi — Lingzhi | Ganoderma | Ganoderma lucidum | Reishi fungus | Reishi mushroom | Lacquered bracket | Varnish shelf | Hemlock varnish shelf | Hemlock reishi
+- Cordyceps — Cordyceps militaris | Scarlet caterpillar club | Cordyceps fungus | Cordyceps mushroom
+- Chicken of the Woods — Sulphur shelf | Chicken mushroom | Chicken fungus | Laetiporus | Laetiporus sulphureus | Sulfur shelf | Laetiporus sulfureus | Chicken of the Woods fungus | Chicken of the Woods mushroom
+- Puffball — Puffball fungus | Puffball mushroom
+- Giant Puffball — Calvatia gigantea | Giant Puffball fungus | Giant Puffball mushroom
+- Shaggy Ink Cap — Shaggy mane | Lawyer's wig | Coprinus comatus | Coprinus | Shaggy Ink Cap fungus | Shaggy Ink Cap mushroom
+- Honey Fungus — Honey mushroom | Bootlace fungus | Armillaria | Chiodini
+- Stinkhorn — Common stinkhorn | Phallus impudicus | Stinkhorn fungus | Stinkhorn mushroom
+- Parasol Mushroom — Parasol | Macrolepiota procera | Coulemelle | Mazza di tamburo
+- Destroying Angel — Death angel | Amanita virosa | Amanita bisporigera | Amanita ocreata | Destroying Angel fungus | Destroying Angel mushroom
+- Liberty Cap — Psilocybe semilanceata | Liberty Cap fungus | Liberty Cap mushroom
+- Black Truffle — Périgord truffle | Perigord black truffle | French black truffle | Tuber melanosporum | Black Truffle fungus | Tartufo nero | Truffe noire
+- White Truffle — Alba truffle | Piedmont truffle | Italian white truffle | Tuber magnatum | White Truffle fungus | Tartufo bianco
+- Bolete — Boletus | Bolete fungus | Bolete mushroom
+- Bracket Fungus — Bracket | Polypore | Shelf fungus | Conk | Shelf mushroom
+- Penicillium — Penicillin mould | Penicillin fungus | Green mould | Blue mould | Penicillium notatum | Penicillium chrysogenum | Penicillium rubens | Penicillin mold | Green mold | Blue mold | Penicillium fungus | Penicillin | Penicillins
+- Baker's Yeast — Brewer's yeast | Bread yeast | Wine yeast | Ale yeast | Champagne yeast | Sake yeast | Distiller's yeast | Nutritional yeast | Dried yeast | Saccharomyces | Saccharomyces cerevisiae | Baker's Yeast fungus
+- Bread Mould — Black bread mould | Tempeh mould | Rhizopus | Rhizopus stolonifer | Rhizopus oligosporus | Bread Mold | Black bread mold | Tempeh mold | Bread Mould fungus
+- Black Mould — Toxic black mould | Stachybotrys | Stachybotrys chartarum | Black Mold | Toxic black mold | Black Mould fungus
+- Mildew — Mildew fungus
+- Rust — Rust fungus | Rose rust | Leek rust | Hollyhock rust | Mint rust | Bean rust | Pear rust | Plum rust | Crown rust | Corn rust | Common rust | Fuchsia rust | Pelargonium rust | Geranium rust | Asparagus rust | Oat rust | Sunflower rust
+- Lichen — Lichen fungus | Crustose lichen | Foliose lichen | Fruticose lichen
+- Turkey Tail — Trametes versicolor | Coriolus | Turkey Tail fungus | Turkey Tail mushroom
+- Jelly Ear — Judas's ear | Judas ear | Auricularia auricula-judae | Jelly Ear fungus | Jelly Ear mushroom
+
+### Tier 3: known to fans (66)
+
+- Horse Mushroom — Agaricus arvensis
+- Ink Cap — Common ink cap | Inky cap | Common inky cap | Tippler's bane | Coprinopsis atramentaria | Ink Cap fungus | Ink Cap mushroom
+- Earthstar — Geastrum | Earthstar fungus | Earthstar mushroom
+- Bird's Nest Fungus — Bird's nest | Nidulariaceae
+- Witches' Butter — Witch's butter | Tremella mesenterica | Witches' Butter fungus | Witches' Butter mushroom
+- Jelly Fungus — Jelly fungi
+- Straw Mushroom — Paddy straw mushroom | Volvariella volvacea
+- Beech Mushroom — Shimeji | Bunashimeji | Hon-shimeji | Brown beech mushroom | White beech mushroom | Hypsizygus
+- Nameko — Pholiota nameko | Nameko fungus | Nameko mushroom
+- Black Trumpet — Horn of plenty | Trumpet of death | Trompette de la mort | Black chanterelle | Craterellus cornucopioides | Black Trumpet fungus | Black Trumpet mushroom
+- Hedgehog Mushroom — Hedgehog | Hedgehog fungus | Wood hedgehog | Pied de mouton | Sweet tooth | Hydnum repandum
+- Blewit — Wood blewit | Field blewit | Pied bleu | Lepista nuda | Blewit fungus | Blewit mushroom | Blue legs | Blue leg | Blue foot | Lepista saeva | Lepista personata | Clitocybe nuda
+- St George's Mushroom — St George's | Calocybe gambosa
+- Shaggy Parasol — Chlorophyllum rhacodes | Shaggy Parasol fungus | Shaggy Parasol mushroom
+- Saffron Milk Cap — Red pine mushroom | Niscalo | Lactarius deliciosus | Saffron Milk Cap fungus | Saffron Milk Cap mushroom | Rovelló | Rovellon | Ryzhik | Delicious milk cap
+- Lobster Mushroom — Hypomyces lactifluorum
+- Cauliflower Fungus — Wood cauliflower | Cauliflower mushroom | Sparassis
+- Beefsteak Fungus — Ox tongue | Fistulina hepatica
+- Dryad's Saddle — Pheasant back | Pheasant's back mushroom | Polyporus squamosus | Dryad's Saddle fungus | Dryad's Saddle mushroom
+- Bay Bolete — Imleria badia | Bay Bolete fungus | Bay Bolete mushroom
+- Slippery Jack — Suillus | Suillus luteus | Slippery Jack fungus | Slippery Jack mushroom
+- Devil's Bolete — Satan's bolete | Rubroboletus satanas | Devil's Bolete fungus | Devil's Bolete mushroom
+- Russula — Brittlegill | Russula fungus | Russula mushroom
+- The Sickener — Russula emetica | The Sickener fungus | The Sickener mushroom
+- Milk Cap — Lactarius | Milk Cap fungus | Milk Cap mushroom | Lactifluus | Milky cap
+- Amethyst Deceiver — Laccaria amethystina | Amethyst Deceiver fungus | Amethyst Deceiver mushroom
+- Velvet Shank — Velvet foot | Flammulina velutipes | Velvet Shank fungus | Velvet Shank mushroom | Winter mushroom | Winter fungus
+- Fairy Ring Champignon — Fairy ring mushroom | Scotch bonnet | Mousseron | Marasmius oreades | Fairy Ring Champignon fungus | Fairy Ring Champignon mushroom | Fairy ring | Fairy circle
+- Blusher — Amanita rubescens | Blusher fungus | Blusher mushroom
+- Caesar's Mushroom — Caesar's amanita | Amanita caesarea | Ovolo | Ovolo buono | Oronge | Kaiserling
+- Panther Cap — Amanita pantherina | Panther Cap fungus | Panther Cap mushroom | Panther amanita | Panther mushroom
+- Amanita — Amanita fungus | Amanita mushroom
+- Jack-o'-lantern Mushroom — Jack-o'-lantern | Omphalotus
+- Bleeding Tooth Fungus — Strawberries and cream | Devil's tooth | Hydnellum peckii
+- Dead Man's Fingers — Xylaria polymorpha | Dead Man's Fingers fungus
+- King Alfred's Cakes — Cramp balls | Daldinia concentrica | King Alfred's Cakes fungus
+- Scarlet Elf Cup — Scarlet elf cap | Sarcoscypha | Scarlet Elf Cup fungus | Scarlet Elf Cup mushroom | Ruby elf cup | Sarcoscypha coccinea | Sarcoscypha austriaca
+- Orange Peel Fungus — Orange peel | Aleuria aurantia
+- Coral Fungus — Clavaria | Ramaria
+- Birch Polypore — Razor strop | Birch bracket | Fomitopsis betulina | Piptoporus betulinus | Birch Polypore fungus | Birch Polypore mushroom
+- Tinder Fungus — Hoof fungus | Amadou | Tinder conk | Fomes fomentarius | Tinder polypore | Horse's hoof fungus | Horse hoof fungus | Ice man fungus
+- Chaga — Inonotus obliquus | Clinker polypore | Chaga fungus | Chaga mushroom
+- Sulphur Tuft — Hypholoma fasciculare | Sulfur Tuft | Sulphur Tuft fungus | Sulphur Tuft mushroom
+- Deadly Webcap — Cortinarius rubellus | Deadly Webcap fungus | Deadly Webcap mushroom
+- False Morel — Brain mushroom | Beefsteak morel | Gyromitra | Gyromitra esculenta | False Morel fungus | False Morel mushroom
+- Earthball — Common earthball | Scleroderma citrinum | Earthball fungus | Earthball mushroom | Pigskin poison puffball | Poison puffball
+- Summer Truffle — Black summer truffle | Tuber aestivum | Summer Truffle fungus
+- Psilocybe cubensis — Golden teacher | Cubensis | Psilocybe cubensis fungus | Psilocybe cubensis mushroom
+- Ergot — Claviceps | Claviceps purpurea | Ergot fungus
+- Smut — Ustilago | Smut fungus
+- Corn Smut — Huitlacoche | Cuitlacoche | Maize smut | Mexican truffle | Ustilago maydis | Corn Smut fungus
+- Wheat Rust — Stem rust | Black stem rust | Wheat stem rust | Puccinia graminis | Puccinia | Wheat Rust fungus | Ug99
+- Grey Mould — Botrytis | Botrytis cinerea | Noble rot | Gray Mold | Grey Mould fungus
+- Powdery Mildew — Erysiphe | Powdery Mildew fungus | Oidium | Rose mildew | Oak mildew | Apple mildew | American gooseberry mildew | Podosphaera | Golovinomyces
+- Aspergillus — Aspergillus fungus | Aspergillosis
+- Koji — Koji mould | Aspergillus oryzae | Koji mold | Koji fungus
+- Candida — Thrush | Yeast infection | Candida albicans | Candida fungus | Candidiasis | Oral thrush
+- Athlete's Foot Fungus — Athlete's foot | Tinea | Ringworm | Ringworm fungus | Jock itch | Nail fungus | Toenail fungus | Onychomycosis | Trichophyton | Dermatophyte | Tinea pedis | Fungal nail infection | Microsporum | Epidermophyton
+- Chytrid — Chytrid fungus | Bd | Batrachochytrium | Batrachochytrium dendrobatidis | Chytridiomycota | Chytridiomycete | Chytridiomycosis | Amphibian chytrid
+- Dutch Elm Disease — Dutch elm fungus | Ophiostoma | Dutch Elm Disease fungus
+- Ash Dieback — Chalara | Chalara ash dieback | Hymenoscyphus fraxineus | Ash Dieback fungus
+- Zombie-ant Fungus — Zombie fungus | Ophiocordyceps | Ophiocordyceps unilateralis
+- Blue Cheese Mould — Penicillium roqueforti | Roquefort mould | Stilton mould | Blue Cheese Mold | Roquefort mold | Stilton mold | Blue Cheese Mould fungus
+- Dry Rot — Dry rot fungus | Serpula lacrymans
+- Reindeer Lichen — Reindeer moss | Caribou moss | Cladonia rangiferina | Reindeer Lichen fungus
+- Old Man's Beard — Beard lichen | Usnea | Old Man's Beard fungus
+
+### Tier 4: obscure (83)
+
+- Agaricus — Agaricus fungus | Agaricus mushroom
+- Gilled Mushroom — Agaric | Agaricales | Gill fungus
+- Sac Fungus — Sac fungi | Ascomycete | Ascomycetes | Ascomycota
+- Club Fungus — Club fungi | Basidiomycete | Basidiomycetes | Basidiomycota
+- Cup Fungus — Cup fungi | Elf cup | Peziza
+- Tooth Fungus — Tooth fungi | Toothed fungus | Hydnoid fungus
+- Mycorrhizal Fungus — Mycorrhiza | Mycorrhizae | Mycorrhizas | Mycorrhizal fungi | Arbuscular mycorrhiza | Glomeromycota
+- Webcap — Cortinarius | Webcap fungus | Webcap mushroom
+- Waxcap — Hygrocybe | Waxcap fungus | Waxcap mushroom
+- Pink Oyster — Pleurotus djamor | Pink Oyster fungus | Pink Oyster mushroom
+- Golden Oyster — Pleurotus citrinopileatus | Golden Oyster fungus | Golden Oyster mushroom
+- Black Morel — Morchella elata | Black Morel fungus | Black Morel mushroom
+- Yellow Morel — Common morel | Morchella esculenta | Yellow Morel fungus | Yellow Morel mushroom
+- Burgundy Truffle — Tuber uncinatum | Burgundy Truffle fungus
+- Desert Truffle — Terfezia | Kama | Desert Truffle fungus | Kalahari truffle | Kalaharituber | Terfez | Terfas | Tirmania
+- Trumpet Chanterelle — Winter chanterelle | Yellowfoot | Funnel chanterelle | Craterellus tubaeformis | Trumpet Chanterelle fungus | Trumpet Chanterelle mushroom
+- False Chanterelle — Hygrophoropsis aurantiaca | False Chanterelle fungus | False Chanterelle mushroom
+- Birch Bolete — Brown birch bolete | Scaber stalk | Leccinum | Birch Bolete fungus | Birch Bolete mushroom
+- Orange Birch Bolete — Leccinum versipelle | Orange Birch Bolete fungus | Orange Birch Bolete mushroom
+- Charcoal Burner — Russula cyanoxantha | Charcoal Burner fungus | Charcoal Burner mushroom
+- Deceiver — Laccaria laccata | Deceiver fungus | Deceiver mushroom | Laccaria
+- Clouded Agaric — Clouded funnel | Clitocybe nebularis | Clouded Agaric fungus | Clouded Agaric mushroom
+- Trooping Funnel — Monk's head | Infundibulicybe geotropa | Trooping Funnel fungus | Trooping Funnel mushroom
+- Grisette — Amanita vaginata | Grisette fungus | Grisette mushroom
+- Tawny Grisette — Amanita fulva | Tawny Grisette fungus | Tawny Grisette mushroom
+- False Death Cap — Citron amanita | Amanita citrina | False Death Cap fungus | False Death Cap mushroom
+- Ghost Fungus — Omphalotus nidiformis
+- Indigo Milk Cap — Blue milk cap | Lactarius indigo | Indigo Milk Cap fungus | Indigo Milk Cap mushroom
+- Veiled Lady — Bamboo fungus | Bamboo pith | Long net stinkhorn | Phallus indusiatus | Veiled Lady fungus | Veiled Lady mushroom
+- Octopus Stinkhorn — Devil's fingers | Clathrus archeri | Octopus Stinkhorn fungus | Octopus Stinkhorn mushroom
+- Basket Stinkhorn — Latticed stinkhorn | Red cage | Clathrus ruber | Basket Stinkhorn fungus | Basket Stinkhorn mushroom
+- Candlesnuff Fungus — Candlesnuff | Stag's horn fungus | Xylaria hypoxylon
+- Earth Tongue — Geoglossum | Earth Tongue fungus | Earth Tongue mushroom
+- Yellow Brain — Golden jelly fungus | Yellow brain fungus | Yellow Brain mushroom
+- Snow Fungus — Silver ear | White jelly fungus | Yin er | Tremella fuciformis | Tremella | White fungus | Bai mu er | Silver ear fungus
+- Artist's Bracket — Artist's conk | Ganoderma applanatum | Artist's Bracket fungus | Artist's Bracket mushroom
+- Giant Polypore — Black-staining polypore | Meripilus giganteus | Meripilus | Giant Polypore fungus | Giant Polypore mushroom
+- Porcelain Fungus — Porcelain mushroom | Poached egg fungus | Mucidula mucida | Oudemansiella mucida
+- Deer Mushroom — Deer shield | Fawn mushroom | Pluteus cervinus
+- Brick Cap — Brick tuft | Hypholoma lateritium | Brick Cap fungus | Brick Cap mushroom
+- Fool's Webcap — Cortinarius orellanus | Fool's Webcap fungus | Fool's Webcap mushroom
+- Funeral Bell — Deadly galerina | Autumn galerina | Deadly skullcap | Autumn skullcap | Galerina | Galerina marginata | Funeral Bell fungus | Funeral Bell mushroom
+- Fool's Funnel — Ivory funnel | Clitocybe rivulosa | Clitocybe dealbata | Fool's Funnel fungus | Fool's Funnel mushroom
+- Yellow Stainer — Agaricus xanthodermus | Yellow Stainer fungus | Yellow Stainer mushroom
+- Common Puffball — Warted puffball | Devil's snuff-box | Lycoperdon perlatum | Common Puffball fungus | Common Puffball mushroom
+- Brown Roll-rim — Poison pax | Paxillus involutus | Brown Roll-rim fungus | Brown Roll-rim mushroom
+- Split Gill — Schizophyllum | Schizophyllum commune | Split Gill fungus | Split Gill mushroom
+- Magpie Inkcap — Coprinopsis picacea | Magpie Inkcap fungus | Magpie Inkcap mushroom
+- Bonnet — Mycena | Bonnet fungus | Bonnet mushroom
+- Wine Cap — King stropharia | Garden giant | Burgundy mushroom | Stropharia rugosoannulata | Wine Cap fungus | Wine Cap mushroom
+- Pioppino — Black poplar mushroom | Velvet pioppino | Cyclocybe aegerita | Pioppino fungus | Pioppino mushroom | Poplar fieldcap | Poplar mushroom | Agrocybe aegerita
+- The Prince — Agaricus augustus | The Prince fungus | The Prince mushroom
+- Termite Mushroom — Termitomyces | Termitomyces titanicus | Jizong | Omajowa | Omajova | Termitomyces schimperi | Termite fungus
+- Camembert Mould — Penicillium camemberti | Brie mould | White cheese mould | Camembert Mold | Brie mold | White cheese mold | Camembert Mould fungus
+- Lager Yeast — Saccharomyces pastorianus | Bottom-fermenting yeast | Lager Yeast fungus
+- Brettanomyces — Brett | Brettanomyces fungus
+- Neurospora — Red bread mould | Neurospora crassa | Red bread mold | Neurospora fungus
+- Trichoderma — Trichoderma fungus
+- Alternaria — Alternaria fungus | Early blight | Alternaria solani
+- Cladosporium — Cladosporium fungus
+- Mucor — Pin mould | Mucormycosis | Mucorales | Pin mold | Mucor fungus
+- Cryptococcus — Cryptococcus fungus
+- Candida auris — Candida auris fungus
+- Caterpillar Fungus — Yartsa gunbu | Himalayan Viagra | Keera jadi | Ophiocordyceps sinensis | Cordyceps sinensis | Yarsagumba | Yarchagumba | Dong chong xia cao
+- Sooty Mould — Sooty Mold | Sooty Mould fungus
+- Coffee Rust — Coffee leaf rust | Hemileia vastatrix | Coffee Rust fungus
+- Cedar-apple Rust — Gymnosporangium | Cedar-apple Rust fungus | Cedar rust | Juniper rust
+- Fusarium — Fusarium wilt | Panama disease | Fusarium fungus
+- Chestnut Blight — Cryphonectria parasitica | Chestnut Blight fungus
+- Black Spot — Rose black spot | Diplocarpon rosae | Black Spot fungus
+- White-nose Syndrome — White-nose fungus | Pseudogymnoascus destructans | White-nose Syndrome fungus | Geomyces destructans | Pseudogymnoascus
+- Wet Rot — Cellar fungus | Coniophora puteana | Wet Rot fungus
+- Armillaria ostoyae — Humongous fungus | Dark honey fungus | Armillaria ostoyae fungus | Armillaria ostoyae mushroom
+- Cladonia — Cladonia fungus | Devil's matchsticks | Matchstick lichen
+- Iceland Moss — Iceland lichen | Cetraria islandica | Iceland Moss fungus
+- Oakmoss — Evernia prunastri | Oakmoss fungus | Evernia
+- Map Lichen — Rhizocarpon geographicum | Map Lichen fungus
+- British Soldier Lichen — British soldiers | Cladonia cristatella | British Soldier Lichen fungus
+- Pixie Cup Lichen — Pixie cups | Pixie cup | Cup lichen | Pixie Cup Lichen fungus
+- Tree Lungwort — Lungwort | Lungwort lichen | Lung lichen | Lobaria pulmonaria | Tree Lungwort fungus | Lobaria
+- Rock Tripe — Umbilicaria | Rock Tripe fungus
+- Sunburst Lichen — Common orange lichen | Yellow scale | Xanthoria | Xanthoria parietina | Sunburst Lichen fungus | Orange lichen | Yellow wall lichen | Golden shield lichen | Maritime sunburst lichen
+- Milky Mushroom — Milky white mushroom | Calocybe indica
+
+### Tier 5: expert (170)
+
+- Blue Oyster — Blue Oyster fungus | Blue Oyster mushroom
+- Phoenix Oyster — Indian oyster | Pleurotus pulmonarius | Phoenix Oyster fungus | Phoenix Oyster mushroom | Lung oyster
+- Abalone Mushroom — Pleurotus cystidiosus
+- Angel Wings — Pleurocybella porrigens | Angel Wings fungus | Angel Wings mushroom
+- Common Funnel — Clitocybe gibba | Common Funnel fungus | Common Funnel mushroom
+- Dapperling — Lepiota | Dapperling fungus | Dapperling mushroom
+- Deadly Dapperling — Lepiota brunneoincarnata | Deadly Dapperling fungus | Deadly Dapperling mushroom
+- Plantpot Dapperling — Flowerpot parasol | Yellow houseplant mushroom | Houseplant mushroom | Leucocoprinus birnbaumii | Plantpot Dapperling fungus | Plantpot Dapperling mushroom
+- Green-spored Parasol — False parasol | Vomiter | Chlorophyllum molybdites | Green-spored Parasol fungus | Green-spored Parasol mushroom
+- Conecap — Conocybe | Dunce cap | Milky conecap | Conocybe apala | Conecap fungus | Conecap mushroom
+- Brown Mottlegill — Mower's mushroom | Lawnmower's mushroom | Haymaker's mushroom | Panaeolina foenisecii | Panaeolus foenisecii | Brown Mottlegill fungus | Brown Mottlegill mushroom
+- Poison Pie — Hebeloma crustuliniforme | Poison Pie fungus | Poison Pie mushroom
+- Fibrecap — Fibercap | Inocybe | Fibrecap fungus | Fibrecap mushroom
+- Poison Fire Coral — Podostroma cornu-damae | Trichoderma cornu-damae | Poison Fire Coral fungus | Poison Fire Coral mushroom
+- Stump Puffball — Apioperdon pyriforme | Stump Puffball fungus | Stump Puffball mushroom
+- Pestle Puffball — Lycoperdon excipuliforme | Pestle Puffball fungus | Pestle Puffball mushroom
+- Terracotta Hedgehog — Hydnum rufescens | Terracotta Hedgehog fungus | Terracotta Hedgehog mushroom
+- Hawk Wing — Shingled hedgehog | Scaly tooth | Sarcodon imbricatus | Hawk Wing fungus | Hawk Wing mushroom
+- Dog Stinkhorn — Mutinus caninus | Dog Stinkhorn fungus | Dog Stinkhorn mushroom
+- Agarikon — Laricifomes officinalis | Agarikon fungus | Agarikon mushroom
+- Shaggy Bracket — Inonotus hispidus | Shaggy Bracket fungus | Shaggy Bracket mushroom
+- Blushing Bracket — Daedaleopsis confragosa | Blushing Bracket fungus | Blushing Bracket mushroom
+- Oak Mazegill — Daedalea quercina | Oak Mazegill fungus | Oak Mazegill mushroom
+- Hairy Curtain Crust — Stereum | Stereum hirsutum | Hairy Curtain Crust fungus
+- Crust Fungus — Crust fungi | Corticioid fungus
+- Tripe Fungus — Auricularia mesenterica
+- Yellow Stagshorn — Calocera viscosa | Yellow Stagshorn fungus | Yellow Stagshorn mushroom
+- Green Elfcup — Green wood cup | Chlorociboria | Green Elfcup fungus | Green Elfcup mushroom
+- Lemon Disco — Bisporella citrina | Calycina citrina | Lemon Disco fungus | Lemon Disco mushroom
+- Elfin Saddle — Helvella | Elfin Saddle fungus | Elfin Saddle mushroom | White saddle | Black saddle | Helvella crispa | Helvella lacunosa
+- Bitter Oyster — Panellus stipticus | Bitter Oyster fungus | Bitter Oyster mushroom
+- Bleeding Bonnet — Mycena haematopus | Bleeding Bonnet fungus | Bleeding Bonnet mushroom
+- Lilac Bonnet — Mycena pura | Lilac Bonnet fungus | Lilac Bonnet mushroom
+- Fairy Inkcap — Fairies' bonnets | Coprinellus disseminatus | Fairy Inkcap fungus | Fairy Inkcap mushroom
+- Glistening Inkcap — Mica cap | Coprinellus micaceus | Glistening Inkcap fungus | Glistening Inkcap mushroom
+- Shaggy Scalycap — Pholiota squarrosa | Shaggy Scalycap fungus | Shaggy Scalycap mushroom
+- Sheathed Woodtuft — Kuehneromyces mutabilis | Sheathed Woodtuft fungus | Sheathed Woodtuft mushroom
+- Rooting Shank — Hymenopellis radicata | Rooting Shank fungus | Rooting Shank mushroom
+- Weeping Widow — Lacrymaria lacrymabunda | Weeping Widow fungus | Weeping Widow mushroom
+- Wood Mushroom — Agaricus sylvicola
+- Almond Mushroom — Agaricus subrufescens | Agaricus blazei | Himematsutake | Royal sun agaricus | Sun mushroom
+- Bear's Head Tooth — Hericium americanum | Bear's Head Tooth fungus | Bear's Head Tooth mushroom | Bear's head | Bear's head fungus
+- Coral Tooth — Hericium coralloides | Coral Tooth fungus | Coral Tooth mushroom | Comb tooth | Comb tooth fungus
+- Larch Bolete — Suillus grevillei | Larch Bolete fungus | Larch Bolete mushroom
+- Old Man of the Woods — Strobilomyces | Strobilomyces strobilaceus | Old Man of the Woods fungus | Old Man of the Woods mushroom
+- Bitter Bolete — Tylopilus felleus | Bitter Bolete fungus | Bitter Bolete mushroom
+- Scarletina Bolete — Neoboletus luridiformis | Boletus luridiformis | Scarletina Bolete fungus | Scarletina Bolete mushroom
+- Cinnabar Chanterelle — Cantharellus cinnabarinus | Cinnabar Chanterelle fungus | Cinnabar Chanterelle mushroom
+- Candy Cap — Lactarius rubidus | Candy Cap fungus | Candy Cap mushroom
+- Shrimp of the Woods — Aborted entoloma | Entoloma abortivum | Shrimp of the Woods fungus | Shrimp of the Woods mushroom
+- Fried Chicken Mushroom — Lyophyllum decastes
+- Pink Waxcap — Ballerina waxcap | Ballerina | Porpolomopsis calyptriformis | Pink Waxcap fungus | Pink Waxcap mushroom
+- Parrot Waxcap — Gliophorus psittacinus | Hygrocybe psittacina | Parrot Waxcap fungus
+- Scarlet Waxcap — Hygrocybe coccinea | Scarlet Waxcap fungus | Scarlet Waxcap mushroom
+- Sky-blue Mushroom — Werewere-kokako | Blue pinkgill | Entoloma hochstetteri
+- Darwin's Fungus — Cyttaria | Cyttaria darwinii | Llao llao | Pan de indio
+- Chinese Truffle — Tuber indicum | Chinese Truffle fungus
+- Oregon Truffle — Oregon white truffle | Oregon Truffle fungus
+- Bianchetto Truffle — Bianchetto | Whitish truffle | Tuber borchii | Bianchetto Truffle fungus
+- Pecan Truffle — Tuber lyonii | Pecan Truffle fungus
+- False Truffle — Hart's truffle | Elaphomyces | Rhizopogon | False Truffle fungus
+- Fission Yeast — Schizosaccharomyces pombe | Fission Yeast fungus | Schizosaccharomyces
+- Saccharomyces eubayanus — Saccharomyces eubayanus fungus
+- Saccharomyces boulardii — Boulardii | Saccharomyces boulardii fungus
+- Torula Yeast — Torula | Candida utilis | Cyberlindnera jadinii | Torula Yeast fungus
+- Pichia — Pichia pastoris | Komagataella | Pichia fungus
+- Aspergillus flavus — Aspergillus flavus fungus
+- Aspergillus niger — Aspergillus niger fungus
+- Aspergillus fumigatus — Aspergillus fumigatus fungus
+- Valley Fever Fungus — Coccidioides | Valley fever | Coccidioidomycosis | Coccidioides immitis | Coccidioides posadasii
+- Histoplasma — Histoplasmosis | Histoplasma fungus
+- Pneumocystis — Pneumocystis jirovecii | Pneumocystis fungus
+- Sporothrix — Sporotrichosis | Rose gardener's disease | Sporothrix fungus
+- Malassezia — Dandruff fungus | Malassezia fungus | Tinea versicolor | Pityriasis versicolor
+- Zygomycete — Zygomycota | Zygomycetes | Zygomycete fungus | Mucoromycota
+- Microsporidia — Microsporidian | Nosema | Microsporidia fungus
+- Pilobolus — Hat thrower | Hat thrower fungus | Pilobolus crystallinus | Pilobolus fungus
+- Artillery Fungus — Sphaerobolus | Shotgun fungus | Cannonball fungus | Sphaerobolus stellatus
+- Massospora — Cicada fungus | Massospora cicadina | Massospora fungus
+- Entomophthora — Zombie fly fungus | Entomophthora muscae | Entomophthora fungus
+- Beauveria — White muscardine | Beauveria bassiana | Beauveria fungus
+- Metarhizium — Green muscardine | Metarhizium fungus
+- Vegetable Caterpillar — Awheto | Ophiocordyceps robertsii | Cordyceps robertsii | Vegetable Caterpillar fungus
+- Snake Fungal Disease — Ophidiomyces | Ophidiomyces ophiodiicola | Snake Fungal Disease fungus
+- Chalkbrood — Ascosphaera | Ascosphaera apis | Chalkbrood fungus
+- White Pine Blister Rust — Blister rust | Cronartium ribicola | White Pine Blister Rust fungus
+- Myrtle Rust — Austropuccinia psidii | Myrtle Rust fungus | Guava rust | Eucalyptus rust | Puccinia psidii
+- Yellow Rust — Stripe rust | Puccinia striiformis | Yellow Rust fungus
+- Brown Rust — Leaf rust | Puccinia triticina | Brown Rust fungus
+- Soybean Rust — Phakopsora pachyrhizi | Soybean Rust fungus | Asian soybean rust
+- Bunt — Stinking smut | Tilletia | Bunt fungus | Karnal bunt | Common bunt | Tilletia indica
+- Loose Smut — Ustilago tritici | Ustilago nuda | Loose Smut fungus
+- Rice Blast — Magnaporthe oryzae | Rice Blast fungus | Wheat blast | Blast fungus | Pyricularia oryzae | Magnaporthe
+- Apple Scab — Venturia inaequalis | Apple Scab fungus
+- Silver Leaf — Chondrostereum purpureum | Silver Leaf fungus
+- Coral Spot — Nectria cinnabarina | Coral Spot fungus
+- Tar Spot — Rhytisma acerinum | Tar Spot fungus
+- Peach Leaf Curl — Leaf curl | Taphrina | Taphrina deformans | Peach Leaf Curl fungus
+- Brown Rot — Monilinia | Brown Rot fungus | Blossom wilt
+- Box Blight — Calonectria | Cylindrocladium | Box Blight fungus
+- Black Sigatoka — Sigatoka | Black leaf streak | Black Sigatoka fungus
+- Oak Wilt — Bretziella fagacearum | Oak Wilt fungus
+- Take-all — Take-all disease | Gaeumannomyces | Take-all fungus
+- Septoria — Septoria leaf blotch | Zymoseptoria | Septoria fungus
+- Rhizoctonia — Rhizoctonia fungus | Brown patch
+- Sclerotinia — White mould | Sclerotinia sclerotiorum | White mold | Sclerotinia fungus
+- Anthracnose — Colletotrichum | Anthracnose fungus
+- Verticillium Wilt — Verticillium | Verticillium Wilt fungus
+- Snow Mould — Snow Mold | Snow Mould fungus
+- Fusarium venenatum — Quorn fungus | Mycoprotein fungus | Fusarium venenatum fungus
+- Batrachochytrium salamandrivorans — Bsal | Salamander chytrid | Batrachochytrium salamandrivorans fungus
+- Prototaxites — Prototaxites fungus
+- Manna Lichen — Lecanora esculenta | Manna Lichen fungus
+- Wolf Lichen — Letharia vulpina | Wolf Lichen fungus
+- Dog Lichen — Peltigera | Dog Lichen fungus
+- Orchil — Litmus lichen | Roccella | Orchil fungus
+- Script Lichen — Graphis scripta | Script Lichen fungus
+- Horsehair Lichen — Bryoria | Horsehair Lichen fungus
+- Parmelia — Shield lichen | Parmelia sulcata | Parmelia fungus | Crottle | Crotal | Parmelia saxatilis
+- Pestalotiopsis — Pestalotiopsis fungus
+- Winter Truffle — Tuber brumale | Winter Truffle fungus
+- Basket Fungus — White basket fungus | Ileodictyon | Ileodictyon cibarium | Tūtae kēhua | Tūtae whatitiri
+- Black Knot — Apiosporina morbosa | Dibotryon morbosum | Black Knot fungus | Black Knot mushroom
+- Orange Pore Fungus — Favolaschia calocera | Orange ping-pong bat
+- Fieldcap — Agrocybe | Spring fieldcap | Agrocybe praecox | Fieldcap fungus | Fieldcap mushroom
+- Cortinarius caperatus — Gypsy mushroom | Wrinkled cortinarius | Rozites caperatus | Rozites caperata | Cortinarius caperatus fungus | Cortinarius caperatus mushroom
+- Lace Lichen — Ramalina | Ramalina menziesii | Lace Lichen fungus
+- Monascus — Red yeast | Monascus purpureus | Red rice mould | Red rice mold | Monascus fungus | Monascus mushroom
+- Poria — Fu ling | Tuckahoe | Hoelen | Wolfiporia | Wolfiporia cocos | Wolfiporia extensa | Poria cocos | Poria fungus | Poria mushroom
+- Tsukiyotake — Moonlight mushroom | Omphalotus japonicus | Lampteromyces japonicus | Tsukiyotake fungus | Tsukiyotake mushroom
+- Barometer Earthstar — Hygroscopic earthstar | False earthstar | Astraeus | Astraeus hygrometricus | Rugda | Rugra | Barometer Earthstar fungus | Barometer Earthstar mushroom
+- Native Bread — Laccocephalum mylittae | Polyporus mylittae | Native Bread fungus | Native Bread mushroom
+- Anemone Stinkhorn — Starfish fungus | Starfish stinkhorn | Aseroe | Aseroe rubra | Anemone Stinkhorn fungus | Anemone Stinkhorn mushroom
+- Devil's Cigar — Texas star | Chorioactis | Chorioactis geaster | Devil's Cigar fungus | Devil's Cigar mushroom
+- Plums and Custard — Tricholomopsis rutilans | Plums and Custard fungus | Plums and Custard mushroom
+- Hare's Ear — Otidea onotica | Otidea | Hare's Ear fungus | Hare's Ear mushroom
+- Wrinkled Peach — Netted rhodotus | Rhodotus palmatus | Wrinkled Peach fungus | Wrinkled Peach mushroom
+- Collared Earthstar — Saucered earthstar | Geastrum triplex | Collared Earthstar fungus | Collared Earthstar mushroom
+- Jelly Baby — Leotia lubrica | Leotia | Jelly Baby fungus | Jelly Baby mushroom
+- Devil's Urn — Urnula craterium | Devil's Urn fungus | Devil's Urn mushroom
+- Half-free Morel — Semifree morel | Morchella punctipes | Morchella semilibera | Half-free Morel fungus | Half-free Morel mushroom
+- Wavy Cap — Psilocybe cyanescens | Wavy Cap fungus | Wavy Cap mushroom
+- Panaeolus — Mottlegill | Blue meanie | Panaeolus cyanescens | Panaeolus fungus | Panaeolus mushroom
+- The Miller — Sweetbread mushroom | Clitopilus prunulus | The Miller fungus | The Miller mushroom
+- Blackening Waxcap — Witch's hat | Conical waxcap | Hygrocybe conica | Blackening Waxcap fungus | Blackening Waxcap mushroom
+- Aniseed Funnel — Aniseed toadstool | Aniseed mushroom | Clitocybe odora | Aniseed Funnel fungus | Aniseed Funnel mushroom
+- Verdigris Agaric — Verdigris roundhead | Stropharia aeruginosa | Verdigris Agaric fungus | Verdigris Agaric mushroom
+- Spectacular Rustgill — Laughing gym | Laughing jim | Big laughing gym | Gymnopilus | Gymnopilus junonius | Spectacular Rustgill fungus
+- Eyelash Fungus — Eyelash cup | Common eyelash | Scutellinia | Scutellinia scutellata
+- Black Bulgar — Rubber buttons | Black jelly drops | Bulgaria inquinans | Black Bulgar fungus | Black Bulgar mushroom
+- Weeping Milk Cap — Fishy milkcap | Voluminous-latex milky | Lactifluus volemus | Lactarius volemus | Weeping Milk Cap fungus | Weeping Milk Cap mushroom
+- Ugly Milk Cap — Lactarius turpis | Lactarius necator | Ugly Milk Cap fungus | Ugly Milk Cap mushroom
+- Lurid Bolete — Suillellus luridus | Boletus luridus | Lurid Bolete fungus | Lurid Bolete mushroom
+- Pig's Ear — Violet chanterelle | Gomphus clavatus | Pig's Ear fungus | Pig's Ear mushroom
+- Elm Oyster — Elm mushroom | Hypsizygus ulmarius | Elm Oyster fungus | Elm Oyster mushroom
+- Branched Oyster — Pleurotus cornucopiae | Branched Oyster fungus | Branched Oyster mushroom
+- Funnel — Funnel cap | Funnel mushroom | Clitocybe | Funnel fungus
+- Pinkgill — Entoloma | Pinkgill fungus | Pinkgill mushroom
+- Knight — Knight mushroom | Tricholoma | Grey knight | Yellow knight | Man on horseback | Tricholoma equestre | Gray knight | Knight fungus
+- Brittlestem — Psathyrella | Brittlestem fungus | Brittlestem mushroom
+- Geotrichum — Geotrichum candidum | Geotrichum fungus | Geotrichum mushroom
+- Blastomyces — Blastomycosis | Blastomyces dermatitidis | Blastomyces fungus
+- Imperfect Fungi — Fungi imperfecti | Imperfect fungus | Deuteromycete | Deuteromycetes | Deuteromycota | Imperfect Fungi fungus | Imperfect Fungi mushroom
+- White Rot — White rot fungus | White-rot fungi
+- Dollar Spot — Clarireedia | Sclerotinia homoeocarpa | Dollar Spot fungus
+- Red Thread — Laetisaria fuciformis | Red Thread fungus | Red Thread mushroom
+- Sooty Bark Disease — Cryptostroma | Cryptostroma corticale | Sooty Bark Disease fungus
+- Dothistroma Needle Blight — Red band needle blight | Dothistroma | Dothistroma septosporum | Dothistroma Needle Blight fungus
+- Rapid Ohia Death — Ceratocystis | Ceratocystis lukuohia | Rapid Ohia Death fungus | Rapid Ohia Death mushroom
+- Rim Lichen — Lecanora | Rim Lichen fungus
+
+### Tier 6: rare jackpots (3)
+
+- Pestalotiopsis microspora — Plastic-eating fungus | Pestalotiopsis microspora fungus
+- Cladosporium sphaerospermum — Chernobyl fungus | Radiotrophic fungus | Cladosporium sphaerospermum fungus
+- Ourasphaira — Ourasphaira giraldae | Ourasphaira fungus
+
+## Refused on purpose (29)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Mushroom | Fungus | Fungi | Funghi — "That's the question. Which one?"
+- Toadstool — "A name for any mushroom, usually a poisonous one. Which one?"
+- Wild mushrooms | Edible mushroom | Poisonous mushroom | Poison mushroom | Glowing mushroom | Bioluminescent mushroom | Bioluminescent fungus — "That's a description, not a kind. Which one?"
+- Foxfire | Fairy fire — "The glow of some fungi in rotting wood, not a fungus itself. Name one that glows."
+- Moss | Spanish moss | Sphagnum | Liverwort | Fern | Brackens | Club moss — "A plant, not a fungus."
+- Algae | Alga | Seaweed | Kelp | Pond scum | Irish moss | Sea moss | Noris | Kombu | Wakame — "Algae, not a fungus, though lichens keep some inside them."
+- Slime mould | Slime mold | Dog vomit slime mould | Dog vomit slime mold | Physarum | Physarum polycephalum | Myxomycete | Wolf's milk — "Once filed with the fungi, but really an amoeba-like protist."
+- Potato blight | Late blight | Phytophthora | Phytophthora infestans — "A water mould, not a true fungus, though it was long thought to be one."
+- Water mould | Water mold | Oomycete | Downy mildew | Sudden oak death | Sudden larch death | Pythium | Saprolegnia | Aphanomyces | Crayfish plague | White blister — "Looks like a fungus, but it's an oomycete, closer to brown seaweeds."
+- Clubroot | Plasmodiophora — "Long blamed on a fungus, but caused by a single-celled parasite of another kingdom."
+- Bacteria | Bacterium | E. coli | Salmonella | Lactobacillus | Streptomyces | Actinomycete | Cyanobacteria | Blue-green algae | Fire blight | Natto — "A bacterium, not a fungus."
+- Mycelium | Mycelia | Hyphae | Hypha | Spore | Spores | Fruiting body | Gills | Cap | Stipe — "Part of a fungus, not a kind of one. Name the whole thing."
+- Jew's ear — "That old name is now avoided as offensive. Call it the jelly ear."
+- Quorn | Mycoprotein | Tempeh | Miso | Soy sauce | Red yeast rice | Mushroom soup — "A food made with a fungus, not the fungus itself."
+- Marmite | Vegemite | Yeast extract — "A spread made from yeast, not a fungus in itself."
+- Kombucha | SCOBY | Kefir | Sourdough starter | Sourdough — "A living mix of yeasts and bacteria, not one fungus."
+- Blue cheese | Stilton | Roquefort | Gorgonzola | Danish Blue | Camembert | Brie — "A cheese, not a fungus, though a mould ripens it."
+- Antibiotic — "A drug, not a fungus. Name the mould the first one came from."
+- LSD — "A drug, not a fungus, though it was first made from one."
+- Toad | Toadette | Toadsworth | Captain Toad | Super Mushroom | 1-Up Mushroom | Mega Mushroom | Goomba — "A character from the Mario games, not a fungus."
+- Clicker | Bloater — "An infected monster from The Last of Us. The real fungus behind it counts, though."
+- Parasect | Shroomish | Breloom | Foongus | Amoonguss | Morelull | Shiinotic | Brute Bonnet | Toedscool | Toedscruel — "A Pokémon, not a fungus of this world."
+- Mi-go | Fungi from Yuggoth | Yuggoth — "A creature from H. P. Lovecraft's stories, not a real fungus."
+- Fungus the Bogeyman — "A bogeyman from Raymond Briggs's book, not a fungus."
+- Mushroom cloud — "A nuclear explosion, not a fungus."
+- Chocolate truffle — "A sweet, named for its likeness to the fungus."
+- Muscimol | Ibotenic acid — "A drug found in some mushrooms, not a fungus in itself."
+- Ghost pipe | Indian pipe | Ghost plant | Corpse plant | Monotropa | Snow plant — "A pale flowering plant that feeds off fungi, not a fungus itself."
+- Litmus — "A dye made from lichens, not a lichen itself. Name the lichen."

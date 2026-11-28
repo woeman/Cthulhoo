@@ -1,0 +1,1068 @@
+# Name a Pokémon.
+
+Question id: `pokemon` · category: misc · source: `data/misc.json`
+
+Rules: Any species from the main games, from Bulbasaur to the newest, the Winds and Waves starters included. Regional forms and Mega Evolutions count as their species.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (1027 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Bulbasaur — Shiny Bulbasaur | Shadow Bulbasaur | Dynamax Bulbasaur
+- Charmander — Shiny Charmander | Shadow Charmander | Dynamax Charmander
+- Charizard — Mega Charizard | Mega Charizard X | Mega Charizard Y | Gigantamax Charizard | G-Max Charizard | Shiny Charizard | Charizard Mega | Charizard Mega X | Charizard X | Charizard Mega Y | Charizard Gmax | Dynamax Charizard | Shadow Charizard
+- Squirtle — Shiny Squirtle | Shadow Squirtle | Dynamax Squirtle
+- Blastoise — Mega Blastoise | Gigantamax Blastoise | G-Max Blastoise | Shiny Blastoise | Blastoise Mega | Blastoise Gmax | Shadow Blastoise | Dynamax Blastoise
+- Pikachu — Gigantamax Pikachu | G-Max Pikachu | Detective Pikachu | Pikachu Libre | Partner Pikachu | Shiny Pikachu | Pikachu Gmax | Ash's Pikachu | Cosplay Pikachu | Surfing Pikachu | Flying Pikachu | Dynamax Pikachu | Pikachoo | Peekachu | Shadow Pikachu
+- Jigglypuff — Shiny Jigglypuff | Shadow Jigglypuff | Dynamax Jigglypuff
+- Meowth — Alolan Meowth | Alola Meowth | Galarian Meowth | Galar Meowth | Gigantamax Meowth | G-Max Meowth | Shiny Meowth | Meowth Alola | Meowth Alolan | Meowth Galar | Meowth Galarian | Meowth Gmax | Shadow Meowth | Dynamax Meowth
+- Psyduck — Shiny Psyduck | Shadow Psyduck | Dynamax Psyduck
+- Gengar — Mega Gengar | Gigantamax Gengar | G-Max Gengar | Shiny Gengar | Gengar Mega | Gengar Gmax | Shadow Gengar | Dynamax Gengar
+- Magikarp — Shiny Magikarp | Shadow Magikarp | Dynamax Magikarp
+- Eevee — Gigantamax Eevee | G-Max Eevee | Evie | Shiny Eevee | Eevee Gmax | Partner Eevee | Shadow Eevee | Dynamax Eevee
+- Snorlax — Gigantamax Snorlax | G-Max Snorlax | Shiny Snorlax | Snorlax Gmax | Shadow Snorlax | Dynamax Snorlax
+- Mewtwo — Mega Mewtwo | Mega Mewtwo X | Mega Mewtwo Y | Mew 2 | Armoured Mewtwo | Armored Mewtwo | Shiny Mewtwo | Mewtwo Mega | Mewtwo Mega X | Mewtwo X | Mewtwo Mega Y | Shadow Mewtwo | Dynamax Mewtwo
+- Mew — Shiny Mew | Shadow Mew | Dynamax Mew
+
+### Tier 2: common (53)
+
+- Ivysaur — Shiny Ivysaur | Shadow Ivysaur | Dynamax Ivysaur
+- Venusaur — Mega Venusaur | Gigantamax Venusaur | G-Max Venusaur | Shiny Venusaur | Venusaur Mega | Venusaur Gmax | Shadow Venusaur | Dynamax Venusaur
+- Charmeleon — Shiny Charmeleon | Shadow Charmeleon | Dynamax Charmeleon
+- Wartortle — Shiny Wartortle | Shadow Wartortle | Dynamax Wartortle
+- Caterpie — Shiny Caterpie | Shadow Caterpie | Dynamax Caterpie
+- Metapod — Shiny Metapod | Shadow Metapod | Dynamax Metapod
+- Butterfree — Gigantamax Butterfree | G-Max Butterfree | Shiny Butterfree | Butterfree Gmax | Shadow Butterfree | Dynamax Butterfree
+- Weedle — Shiny Weedle | Shadow Weedle | Dynamax Weedle
+- Pidgey — Shiny Pidgey | Shadow Pidgey | Dynamax Pidgey
+- Pidgeot — Mega Pidgeot | Shiny Pidgeot | Pidgeot Mega | Shadow Pidgeot | Dynamax Pidgeot
+- Rattata — Alolan Rattata | Alola Rattata | Shiny Rattata | Rattata Alola | Rattata Alolan | Shadow Rattata | Dynamax Rattata
+- Raichu — Alolan Raichu | Alola Raichu | Mega Raichu | Mega Raichu X | Mega Raichu Y | Shiny Raichu | Raichu Alola | Raichu Alolan | Raichu Mega | Raichu Mega X | Raichu X | Raichu Mega Y | Shadow Raichu | Dynamax Raichu
+- Clefairy — Shiny Clefairy | Shadow Clefairy | Dynamax Clefairy
+- Vulpix — Alolan Vulpix | Alola Vulpix | Shiny Vulpix | Vulpix Alola | Vulpix Alolan | Shadow Vulpix | Dynamax Vulpix
+- Ninetales — Alolan Ninetales | Alola Ninetales | Ninetails | Shiny Ninetales | Ninetales Alola | Ninetales Alolan | Shadow Ninetales | Dynamax Ninetales
+- Wigglytuff — Shiny Wigglytuff | Shadow Wigglytuff | Dynamax Wigglytuff
+- Zubat — Shiny Zubat | Shadow Zubat | Dynamax Zubat
+- Growlithe — Hisuian Growlithe | Hisui Growlithe | Shiny Growlithe | Growlithe Hisui | Growlithe Hisuian | Shadow Growlithe | Dynamax Growlithe
+- Arcanine — Hisuian Arcanine | Hisui Arcanine | Shiny Arcanine | Arcanine Hisui | Arcanine Hisuian | Shadow Arcanine | Dynamax Arcanine
+- Abra — Shiny Abra | Shadow Abra | Dynamax Abra
+- Alakazam — Mega Alakazam | Shiny Alakazam | Alakazam Mega | Shadow Alakazam | Dynamax Alakazam
+- Machamp — Gigantamax Machamp | G-Max Machamp | Shiny Machamp | Machamp Gmax | Shadow Machamp | Dynamax Machamp
+- Geodude — Alolan Geodude | Alola Geodude | Shiny Geodude | Geodude Alola | Geodude Alolan | Shadow Geodude | Dynamax Geodude
+- Ponyta — Galarian Ponyta | Galar Ponyta | Shiny Ponyta | Ponyta Galar | Ponyta Galarian | Shadow Ponyta | Dynamax Ponyta
+- Slowpoke — Galarian Slowpoke | Galar Slowpoke | Shiny Slowpoke | Slowpoke Galar | Slowpoke Galarian | Shadow Slowpoke | Dynamax Slowpoke
+- Gastly — Shiny Gastly | Shadow Gastly | Dynamax Gastly
+- Haunter — Shiny Haunter | Shadow Haunter | Dynamax Haunter
+- Onix — Shiny Onix | Shadow Onix | Dynamax Onix
+- Cubone — Shiny Cubone | Shadow Cubone | Dynamax Cubone
+- Chansey — Shiny Chansey | Shadow Chansey | Dynamax Chansey
+- Mr. Mime — Galarian Mr. Mime | Galar Mr. Mime | Mister Mime | Shiny Mr. Mime | Mr. Mime Galar | Mr. Mime Galarian | Shadow Mr. Mime | Dynamax Mr. Mime
+- Scyther — Shiny Scyther | Shadow Scyther | Dynamax Scyther
+- Gyarados — Mega Gyarados | Shiny Gyarados | Gyarados Mega | Shadow Gyarados | Dynamax Gyarados
+- Lapras — Gigantamax Lapras | G-Max Lapras | Shiny Lapras | Lapras Gmax | Shadow Lapras | Dynamax Lapras
+- Ditto — Shiny Ditto | Shadow Ditto | Dynamax Ditto
+- Vaporeon — Shiny Vaporeon | Shadow Vaporeon | Dynamax Vaporeon
+- Jolteon — Shiny Jolteon | Shadow Jolteon | Dynamax Jolteon
+- Flareon — Shiny Flareon | Shadow Flareon | Dynamax Flareon
+- Articuno — Galarian Articuno | Galar Articuno | Shiny Articuno | Articuno Galar | Articuno Galarian | Shadow Articuno | Dynamax Articuno
+- Zapdos — Galarian Zapdos | Galar Zapdos | Shiny Zapdos | Zapdos Galar | Zapdos Galarian | Shadow Zapdos | Dynamax Zapdos
+- Moltres — Galarian Moltres | Galar Moltres | Shiny Moltres | Moltres Galar | Moltres Galarian | Shadow Moltres | Dynamax Moltres
+- Dragonite — Mega Dragonite | Shiny Dragonite | Dragonite Mega | Shadow Dragonite | Dynamax Dragonite
+- Pichu — Shiny Pichu | Spiky-eared Pichu | Shadow Pichu | Dynamax Pichu
+- Togepi — Shiny Togepi | Shadow Togepi | Dynamax Togepi
+- Espeon — Shiny Espeon | Shadow Espeon | Dynamax Espeon
+- Umbreon — Shiny Umbreon | Shadow Umbreon | Dynamax Umbreon
+- Lugia — Shiny Lugia | Shadow Lugia | Dark Lugia | Dynamax Lugia
+- Ho-Oh — Shiny Ho-Oh | Shadow Ho-Oh | Dynamax Ho-Oh
+- Mudkip — Shiny Mudkip | Shadow Mudkip | Dynamax Mudkip
+- Rayquaza — Mega Rayquaza | Shiny Rayquaza | Rayquaza Mega | Shadow Rayquaza | Dynamax Rayquaza
+- Lucario — Mega Lucario | Mega Lucario Z | Shiny Lucario | Lucario Mega | Lucario Mega Z | Shadow Lucario | Dynamax Lucario
+- Greninja — Mega Greninja | Ash-Greninja | Shiny Greninja | Greninja Mega | Greninja Ash | Battle Bond Greninja | Shadow Greninja | Dynamax Greninja
+- Sylveon — Shiny Sylveon | Shadow Sylveon | Dynamax Sylveon
+
+### Tier 3: known to fans (300)
+
+- Kakuna — Shiny Kakuna | Shadow Kakuna | Dynamax Kakuna
+- Beedrill — Mega Beedrill | Shiny Beedrill | Beedrill Mega | Shadow Beedrill | Dynamax Beedrill
+- Pidgeotto — Shiny Pidgeotto | Shadow Pidgeotto | Dynamax Pidgeotto
+- Raticate — Alolan Raticate | Alola Raticate | Shiny Raticate | Raticate Alola | Raticate Alolan | Shadow Raticate | Dynamax Raticate
+- Spearow — Shiny Spearow | Shadow Spearow | Dynamax Spearow
+- Fearow — Shiny Fearow | Shadow Fearow | Dynamax Fearow
+- Ekans — Shiny Ekans | Shadow Ekans | Dynamax Ekans
+- Arbok — Shiny Arbok | Shadow Arbok | Dynamax Arbok
+- Sandshrew — Alolan Sandshrew | Alola Sandshrew | Shiny Sandshrew | Sandshrew Alola | Sandshrew Alolan | Shadow Sandshrew | Dynamax Sandshrew
+- Sandslash — Alolan Sandslash | Alola Sandslash | Shiny Sandslash | Sandslash Alola | Sandslash Alolan | Shadow Sandslash | Dynamax Sandslash
+- Nidoran — Female Nidoran | Nidoran female | Nidoran F | Nidoran girl | Male Nidoran | Nidoran male | Nidoran M | Nidoran boy | Shiny Nidoran | Shadow Nidoran | Dynamax Nidoran
+- Nidorina — Shiny Nidorina | Shadow Nidorina | Dynamax Nidorina
+- Nidoqueen — Shiny Nidoqueen | Shadow Nidoqueen | Dynamax Nidoqueen
+- Nidorino — Shiny Nidorino | Shadow Nidorino | Dynamax Nidorino
+- Nidoking — Shiny Nidoking | Shadow Nidoking | Dynamax Nidoking
+- Clefable — Mega Clefable | Shiny Clefable | Clefable Mega | Shadow Clefable | Dynamax Clefable
+- Golbat — Shiny Golbat | Shadow Golbat | Dynamax Golbat
+- Oddish — Shiny Oddish | Shadow Oddish | Dynamax Oddish
+- Gloom — Shiny Gloom | Shadow Gloom | Dynamax Gloom
+- Vileplume — Shiny Vileplume | Shadow Vileplume | Dynamax Vileplume
+- Paras — Shiny Paras | Shadow Paras | Dynamax Paras
+- Parasect — Shiny Parasect | Shadow Parasect | Dynamax Parasect
+- Venonat — Shiny Venonat | Shadow Venonat | Dynamax Venonat
+- Venomoth — Shiny Venomoth | Shadow Venomoth | Dynamax Venomoth
+- Diglett — Alolan Diglett | Alola Diglett | Shiny Diglett | Diglett Alola | Diglett Alolan | Shadow Diglett | Dynamax Diglett
+- Dugtrio — Alolan Dugtrio | Alola Dugtrio | Shiny Dugtrio | Dugtrio Alola | Dugtrio Alolan | Shadow Dugtrio | Dynamax Dugtrio
+- Persian — Alolan Persian | Alola Persian | Shiny Persian | Persian Alola | Persian Alolan | Shadow Persian | Dynamax Persian
+- Golduck — Shiny Golduck | Shadow Golduck | Dynamax Golduck
+- Mankey — Shiny Mankey | Shadow Mankey | Dynamax Mankey
+- Primeape — Shiny Primeape | Shadow Primeape | Dynamax Primeape
+- Poliwag — Shiny Poliwag | Shadow Poliwag | Dynamax Poliwag
+- Poliwhirl — Shiny Poliwhirl | Shadow Poliwhirl | Dynamax Poliwhirl
+- Poliwrath — Shiny Poliwrath | Shadow Poliwrath | Dynamax Poliwrath
+- Kadabra — Shiny Kadabra | Shadow Kadabra | Dynamax Kadabra
+- Machop — Shiny Machop | Shadow Machop | Dynamax Machop
+- Machoke — Shiny Machoke | Shadow Machoke | Dynamax Machoke
+- Bellsprout — Shiny Bellsprout | Shadow Bellsprout | Dynamax Bellsprout
+- Weepinbell — Shiny Weepinbell | Shadow Weepinbell | Dynamax Weepinbell
+- Victreebel — Mega Victreebel | Shiny Victreebel | Victreebel Mega | Shadow Victreebel | Dynamax Victreebel
+- Tentacool — Shiny Tentacool | Shadow Tentacool | Dynamax Tentacool
+- Tentacruel — Shiny Tentacruel | Shadow Tentacruel | Dynamax Tentacruel
+- Graveler — Alolan Graveler | Alola Graveler | Shiny Graveler | Graveler Alola | Graveler Alolan | Shadow Graveler | Dynamax Graveler
+- Golem — Alolan Golem | Alola Golem | Shiny Golem | Golem Alola | Golem Alolan | Shadow Golem | Dynamax Golem
+- Rapidash — Galarian Rapidash | Galar Rapidash | Shiny Rapidash | Rapidash Galar | Rapidash Galarian | Shadow Rapidash | Dynamax Rapidash
+- Slowbro — Galarian Slowbro | Galar Slowbro | Mega Slowbro | Shiny Slowbro | Slowbro Galar | Slowbro Galarian | Slowbro Mega | Shadow Slowbro | Dynamax Slowbro
+- Magnemite — Shiny Magnemite | Shadow Magnemite | Dynamax Magnemite
+- Magneton — Shiny Magneton | Shadow Magneton | Dynamax Magneton
+- Farfetch'd — Galarian Farfetch'd | Galar Farfetch'd | Farfetched | Shiny Farfetch'd | Farfetch'd Galar | Farfetch'd Galarian | Shadow Farfetch'd | Dynamax Farfetch'd
+- Doduo — Shiny Doduo | Shadow Doduo | Dynamax Doduo
+- Dodrio — Shiny Dodrio | Shadow Dodrio | Dynamax Dodrio
+- Seel — Shiny Seel | Shadow Seel | Dynamax Seel
+- Dewgong — Shiny Dewgong | Shadow Dewgong | Dynamax Dewgong
+- Grimer — Alolan Grimer | Alola Grimer | Shiny Grimer | Grimer Alola | Grimer Alolan | Shadow Grimer | Dynamax Grimer
+- Muk — Alolan Muk | Alola Muk | Shiny Muk | Muk Alola | Muk Alolan | Shadow Muk | Dynamax Muk
+- Shellder — Shiny Shellder | Shadow Shellder | Dynamax Shellder
+- Cloyster — Shiny Cloyster | Shadow Cloyster | Dynamax Cloyster
+- Drowzee — Shiny Drowzee | Shadow Drowzee | Dynamax Drowzee
+- Hypno — Shiny Hypno | Shadow Hypno | Dynamax Hypno
+- Krabby — Shiny Krabby | Shadow Krabby | Dynamax Krabby
+- Kingler — Gigantamax Kingler | G-Max Kingler | Shiny Kingler | Kingler Gmax | Shadow Kingler | Dynamax Kingler
+- Voltorb — Hisuian Voltorb | Hisui Voltorb | Shiny Voltorb | Voltorb Hisui | Voltorb Hisuian | Shadow Voltorb | Dynamax Voltorb
+- Electrode — Hisuian Electrode | Hisui Electrode | Shiny Electrode | Electrode Hisui | Electrode Hisuian | Shadow Electrode | Dynamax Electrode
+- Exeggcute — Shiny Exeggcute | Shadow Exeggcute | Dynamax Exeggcute
+- Exeggutor — Alolan Exeggutor | Alola Exeggutor | Shiny Exeggutor | Exeggutor Alola | Exeggutor Alolan | Eggsecutor | Shadow Exeggutor | Dynamax Exeggutor
+- Marowak — Alolan Marowak | Alola Marowak | Shiny Marowak | Marowak Alola | Marowak Alolan | Shadow Marowak | Dynamax Marowak
+- Hitmonlee — Shiny Hitmonlee | Shadow Hitmonlee | Dynamax Hitmonlee
+- Hitmonchan — Shiny Hitmonchan | Shadow Hitmonchan | Dynamax Hitmonchan
+- Lickitung — Shiny Lickitung | Lickitongue | Shadow Lickitung | Dynamax Lickitung
+- Koffing — Shiny Koffing | Shadow Koffing | Dynamax Koffing
+- Weezing — Galarian Weezing | Galar Weezing | Shiny Weezing | Weezing Galar | Weezing Galarian | Shadow Weezing | Dynamax Weezing
+- Rhyhorn — Shiny Rhyhorn | Shadow Rhyhorn | Dynamax Rhyhorn
+- Rhydon — Shiny Rhydon | Shadow Rhydon | Dynamax Rhydon
+- Tangela — Shiny Tangela | Shadow Tangela | Dynamax Tangela
+- Kangaskhan — Mega Kangaskhan | Shiny Kangaskhan | Kangaskhan Mega | Shadow Kangaskhan | Dynamax Kangaskhan
+- Horsea — Shiny Horsea | Shadow Horsea | Dynamax Horsea
+- Seadra — Shiny Seadra | Shadow Seadra | Dynamax Seadra
+- Goldeen — Shiny Goldeen | Shadow Goldeen | Dynamax Goldeen
+- Seaking — Shiny Seaking | Shadow Seaking | Dynamax Seaking
+- Staryu — Shiny Staryu | Shadow Staryu | Dynamax Staryu
+- Starmie — Mega Starmie | Shiny Starmie | Starmie Mega | Shadow Starmie | Dynamax Starmie
+- Jynx — Shiny Jynx | Shadow Jynx | Dynamax Jynx
+- Electabuzz — Shiny Electabuzz | Shadow Electabuzz | Dynamax Electabuzz
+- Magmar — Shiny Magmar | Shadow Magmar | Dynamax Magmar
+- Pinsir — Mega Pinsir | Shiny Pinsir | Pinsir Mega | Shadow Pinsir | Dynamax Pinsir
+- Tauros — Paldean Tauros | Paldea Tauros | Shiny Tauros | Tauros Paldea | Tauros Paldean | Combat Breed Tauros | Blaze Breed Tauros | Aqua Breed Tauros | Paldean Tauros Combat Breed | Paldean Tauros Blaze Breed | Paldean Tauros Aqua Breed | Tauros Paldea Combat | Tauros Paldea Blaze | Tauros Paldea Aqua | Shadow Tauros | Dynamax Tauros
+- Porygon — Shiny Porygon | Shadow Porygon | Dynamax Porygon
+- Omanyte — Shiny Omanyte | Shadow Omanyte | Dynamax Omanyte
+- Omastar — Shiny Omastar | Shadow Omastar | Dynamax Omastar
+- Kabuto — Shiny Kabuto | Shadow Kabuto | Dynamax Kabuto
+- Kabutops — Shiny Kabutops | Shadow Kabutops | Dynamax Kabutops
+- Aerodactyl — Mega Aerodactyl | Shiny Aerodactyl | Aerodactyl Mega | Shadow Aerodactyl | Dynamax Aerodactyl
+- Dratini — Shiny Dratini | Shadow Dratini | Dynamax Dratini
+- Dragonair — Shiny Dragonair | Shadow Dragonair | Dynamax Dragonair
+- Chikorita — Shiny Chikorita | Shadow Chikorita | Dynamax Chikorita
+- Bayleef — Shiny Bayleef | Shadow Bayleef | Dynamax Bayleef
+- Meganium — Mega Meganium | Shiny Meganium | Meganium Mega | Shadow Meganium | Dynamax Meganium
+- Cyndaquil — Shiny Cyndaquil | Shadow Cyndaquil | Dynamax Cyndaquil
+- Quilava — Shiny Quilava | Shadow Quilava | Dynamax Quilava
+- Typhlosion — Hisuian Typhlosion | Hisui Typhlosion | Shiny Typhlosion | Typhlosion Hisui | Typhlosion Hisuian | Shadow Typhlosion | Dynamax Typhlosion
+- Totodile — Shiny Totodile | Shadow Totodile | Dynamax Totodile
+- Croconaw — Shiny Croconaw | Shadow Croconaw | Dynamax Croconaw
+- Feraligatr — Mega Feraligatr | Shiny Feraligatr | Feraligatr Mega | Shadow Feraligatr | Dynamax Feraligatr
+- Furret — Shiny Furret | Shadow Furret | Dynamax Furret
+- Hoothoot — Shiny Hoothoot | Shadow Hoothoot | Dynamax Hoothoot
+- Crobat — Shiny Crobat | Shadow Crobat | Dynamax Crobat
+- Cleffa — Shiny Cleffa | Shadow Cleffa | Dynamax Cleffa
+- Igglybuff — Shiny Igglybuff | Shadow Igglybuff | Dynamax Igglybuff
+- Togetic — Shiny Togetic | Shadow Togetic | Dynamax Togetic
+- Mareep — Shiny Mareep | Shadow Mareep | Dynamax Mareep
+- Ampharos — Mega Ampharos | Shiny Ampharos | Ampharos Mega | Shadow Ampharos | Dynamax Ampharos
+- Bellossom — Shiny Bellossom | Shadow Bellossom | Dynamax Bellossom
+- Marill — Pikablu | Shiny Marill | Shadow Marill | Dynamax Marill
+- Azumarill — Shiny Azumarill | Shadow Azumarill | Dynamax Azumarill
+- Sudowoodo — Shiny Sudowoodo | Shadow Sudowoodo | Dynamax Sudowoodo
+- Politoed — Shiny Politoed | Shadow Politoed | Dynamax Politoed
+- Wooper — Paldean Wooper | Paldea Wooper | Shiny Wooper | Wooper Paldea | Wooper Paldean | Shadow Wooper | Dynamax Wooper
+- Quagsire — Shiny Quagsire | Shadow Quagsire | Dynamax Quagsire
+- Murkrow — Shiny Murkrow | Shadow Murkrow | Dynamax Murkrow
+- Slowking — Galarian Slowking | Galar Slowking | Shiny Slowking | Slowking Galar | Slowking Galarian | Shadow Slowking | Dynamax Slowking
+- Misdreavus — Shiny Misdreavus | Shadow Misdreavus | Dynamax Misdreavus
+- Unown — Shiny Unown | Shadow Unown | Dynamax Unown
+- Wobbuffet — Shiny Wobbuffet | Shadow Wobbuffet | Dynamax Wobbuffet
+- Dunsparce — Shiny Dunsparce | Shadow Dunsparce | Dynamax Dunsparce
+- Steelix — Mega Steelix | Shiny Steelix | Steelix Mega | Shadow Steelix | Dynamax Steelix
+- Snubbull — Shiny Snubbull | Shadow Snubbull | Dynamax Snubbull
+- Scizor — Mega Scizor | Shiny Scizor | Scizor Mega | Shadow Scizor | Dynamax Scizor
+- Shuckle — Shiny Shuckle | Shadow Shuckle | Dynamax Shuckle
+- Heracross — Mega Heracross | Shiny Heracross | Heracross Mega | Shadow Heracross | Dynamax Heracross
+- Sneasel — Hisuian Sneasel | Hisui Sneasel | Shiny Sneasel | Sneasel Hisui | Sneasel Hisuian | Shadow Sneasel | Dynamax Sneasel
+- Teddiursa — Shiny Teddiursa | Shadow Teddiursa | Dynamax Teddiursa
+- Ursaring — Shiny Ursaring | Shadow Ursaring | Dynamax Ursaring
+- Delibird — Shiny Delibird | Shadow Delibird | Dynamax Delibird
+- Skarmory — Mega Skarmory | Shiny Skarmory | Skarmory Mega | Shadow Skarmory | Dynamax Skarmory
+- Houndour — Shiny Houndour | Shadow Houndour | Dynamax Houndour
+- Houndoom — Mega Houndoom | Shiny Houndoom | Houndoom Mega | Shadow Houndoom | Dynamax Houndoom
+- Kingdra — Shiny Kingdra | Shadow Kingdra | Dynamax Kingdra
+- Phanpy — Shiny Phanpy | Shadow Phanpy | Dynamax Phanpy
+- Donphan — Shiny Donphan | Shadow Donphan | Dynamax Donphan
+- Porygon2 — Porygon two | Shiny Porygon2 | Shadow Porygon2 | Dynamax Porygon2
+- Smeargle — Shiny Smeargle | Shadow Smeargle | Dynamax Smeargle
+- Hitmontop — Shiny Hitmontop | Shadow Hitmontop | Dynamax Hitmontop
+- Smoochum — Shiny Smoochum | Shadow Smoochum | Dynamax Smoochum
+- Elekid — Shiny Elekid | Shadow Elekid | Dynamax Elekid
+- Magby — Shiny Magby | Shadow Magby | Dynamax Magby
+- Miltank — Shiny Miltank | Shadow Miltank | Dynamax Miltank
+- Blissey — Shiny Blissey | Shadow Blissey | Dynamax Blissey
+- Raikou — Shiny Raikou | Shadow Raikou | Dynamax Raikou
+- Entei — Shiny Entei | Shadow Entei | Dynamax Entei
+- Suicune — Shiny Suicune | Shadow Suicune | Dynamax Suicune
+- Larvitar — Shiny Larvitar | Shadow Larvitar | Dynamax Larvitar
+- Tyranitar — Mega Tyranitar | Shiny Tyranitar | Tyranitar Mega | Shadow Tyranitar | Dynamax Tyranitar
+- Celebi — Shiny Celebi | Shadow Celebi | Dynamax Celebi
+- Treecko — Shiny Treecko | Shadow Treecko | Dynamax Treecko
+- Grovyle — Shiny Grovyle | Shadow Grovyle | Dynamax Grovyle
+- Sceptile — Mega Sceptile | Shiny Sceptile | Sceptile Mega | Shadow Sceptile | Dynamax Sceptile
+- Torchic — Shiny Torchic | Shadow Torchic | Dynamax Torchic
+- Combusken — Shiny Combusken | Shadow Combusken | Dynamax Combusken
+- Blaziken — Mega Blaziken | Shiny Blaziken | Blaziken Mega | Shadow Blaziken | Dynamax Blaziken
+- Marshtomp — Shiny Marshtomp | Shadow Marshtomp | Dynamax Marshtomp
+- Swampert — Mega Swampert | Shiny Swampert | Swampert Mega | Shadow Swampert | Dynamax Swampert
+- Zigzagoon — Galarian Zigzagoon | Galar Zigzagoon | Shiny Zigzagoon | Zigzagoon Galar | Zigzagoon Galarian | Shadow Zigzagoon | Dynamax Zigzagoon
+- Wurmple — Shiny Wurmple | Shadow Wurmple | Dynamax Wurmple
+- Lotad — Shiny Lotad | Shadow Lotad | Dynamax Lotad
+- Ludicolo — Shiny Ludicolo | Shadow Ludicolo | Dynamax Ludicolo
+- Ralts — Shiny Ralts | Shadow Ralts | Dynamax Ralts
+- Kirlia — Shiny Kirlia | Shadow Kirlia | Dynamax Kirlia
+- Gardevoir — Mega Gardevoir | Shiny Gardevoir | Gardevoir Mega | Shadow Gardevoir | Dynamax Gardevoir
+- Slakoth — Shiny Slakoth | Shadow Slakoth | Dynamax Slakoth
+- Slaking — Shiny Slaking | Shadow Slaking | Dynamax Slaking
+- Shedinja — Shiny Shedinja | Shadow Shedinja | Dynamax Shedinja
+- Azurill — Shiny Azurill | Shadow Azurill | Dynamax Azurill
+- Skitty — Shiny Skitty | Shadow Skitty | Dynamax Skitty
+- Sableye — Mega Sableye | Shiny Sableye | Sableye Mega | Shadow Sableye | Dynamax Sableye
+- Mawile — Mega Mawile | Shiny Mawile | Mawile Mega | Shadow Mawile | Dynamax Mawile
+- Aron — Shiny Aron | Shadow Aron | Dynamax Aron
+- Aggron — Mega Aggron | Shiny Aggron | Aggron Mega | Shadow Aggron | Dynamax Aggron
+- Plusle — Shiny Plusle | Shadow Plusle | Dynamax Plusle
+- Minun — Shiny Minun | Shadow Minun | Dynamax Minun
+- Roselia — Shiny Roselia | Shadow Roselia | Dynamax Roselia
+- Wailmer — Shiny Wailmer | Shadow Wailmer | Dynamax Wailmer
+- Wailord — Shiny Wailord | Shadow Wailord | Dynamax Wailord
+- Torkoal — Shiny Torkoal | Shadow Torkoal | Dynamax Torkoal
+- Trapinch — Shiny Trapinch | Shadow Trapinch | Dynamax Trapinch
+- Flygon — Shiny Flygon | Shadow Flygon | Dynamax Flygon
+- Swablu — Shiny Swablu | Shadow Swablu | Dynamax Swablu
+- Altaria — Mega Altaria | Shiny Altaria | Altaria Mega | Shadow Altaria | Dynamax Altaria
+- Zangoose — Shiny Zangoose | Shadow Zangoose | Dynamax Zangoose
+- Seviper — Shiny Seviper | Shadow Seviper | Dynamax Seviper
+- Feebas — Shiny Feebas | Shadow Feebas | Dynamax Feebas
+- Milotic — Shiny Milotic | Shadow Milotic | Dynamax Milotic
+- Castform — Shiny Castform | Shadow Castform | Dynamax Castform
+- Kecleon — Shiny Kecleon | Shadow Kecleon | Dynamax Kecleon
+- Banette — Mega Banette | Shiny Banette | Banette Mega | Shadow Banette | Dynamax Banette
+- Duskull — Shiny Duskull | Shadow Duskull | Dynamax Duskull
+- Absol — Mega Absol | Mega Absol Z | Shiny Absol | Absol Mega | Absol Mega Z | Shadow Absol | Dynamax Absol
+- Wynaut — Shiny Wynaut | Shadow Wynaut | Dynamax Wynaut
+- Snorunt — Shiny Snorunt | Shadow Snorunt | Dynamax Snorunt
+- Glalie — Mega Glalie | Shiny Glalie | Glalie Mega | Shadow Glalie | Dynamax Glalie
+- Spheal — Shiny Spheal | Shadow Spheal | Dynamax Spheal
+- Bagon — Shiny Bagon | Shadow Bagon | Dynamax Bagon
+- Salamence — Mega Salamence | Shiny Salamence | Salamence Mega | Shadow Salamence | Dynamax Salamence
+- Beldum — Shiny Beldum | Shadow Beldum | Dynamax Beldum
+- Metagross — Mega Metagross | Shiny Metagross | Metagross Mega | Shadow Metagross | Dynamax Metagross
+- Regirock — Shiny Regirock | Shadow Regirock | Dynamax Regirock
+- Regice — Shiny Regice | Shadow Regice | Dynamax Regice
+- Registeel — Shiny Registeel | Shadow Registeel | Dynamax Registeel
+- Latias — Mega Latias | Shiny Latias | Latias Mega | Shadow Latias | Dynamax Latias
+- Latios — Mega Latios | Shiny Latios | Latios Mega | Shadow Latios | Dynamax Latios
+- Kyogre — Primal Kyogre | Shiny Kyogre | Kyogre Primal | Shadow Kyogre | Dynamax Kyogre
+- Groudon — Primal Groudon | Shiny Groudon | Groudon Primal | Shadow Groudon | Dynamax Groudon
+- Jirachi — Shiny Jirachi | Shadow Jirachi | Dynamax Jirachi
+- Deoxys — Attack Forme Deoxys | Shiny Deoxys | Attack Deoxys | Deoxys Attack | Defense Deoxys | Defence Deoxys | Deoxys Defense | Deoxys Defence | Speed Deoxys | Deoxys Speed | Defense Forme Deoxys | Defence Forme Deoxys | Speed Forme Deoxys | Normal Forme Deoxys | Shadow Deoxys | Dynamax Deoxys
+- Turtwig — Shiny Turtwig | Shadow Turtwig | Dynamax Turtwig
+- Torterra — Shiny Torterra | Shadow Torterra | Dynamax Torterra
+- Chimchar — Shiny Chimchar | Shadow Chimchar | Dynamax Chimchar
+- Infernape — Shiny Infernape | Shadow Infernape | Dynamax Infernape
+- Piplup — Shiny Piplup | Shadow Piplup | Dynamax Piplup
+- Empoleon — Shiny Empoleon | Shadow Empoleon | Dynamax Empoleon
+- Starly — Shiny Starly | Shadow Starly | Dynamax Starly
+- Staraptor — Mega Staraptor | Shiny Staraptor | Staraptor Mega | Shadow Staraptor | Dynamax Staraptor
+- Bidoof — Shiny Bidoof | Shadow Bidoof | Dynamax Bidoof
+- Shinx — Shiny Shinx | Shadow Shinx | Dynamax Shinx
+- Luxray — Shiny Luxray | Shadow Luxray | Dynamax Luxray
+- Pachirisu — Shiny Pachirisu | Shadow Pachirisu | Dynamax Pachirisu
+- Drifloon — Shiny Drifloon | Shadow Drifloon | Dynamax Drifloon
+- Buneary — Shiny Buneary | Shadow Buneary | Dynamax Buneary
+- Lopunny — Mega Lopunny | Shiny Lopunny | Lopunny Mega | Shadow Lopunny | Dynamax Lopunny
+- Mismagius — Shiny Mismagius | Shadow Mismagius | Dynamax Mismagius
+- Honchkrow — Shiny Honchkrow | Shadow Honchkrow | Dynamax Honchkrow
+- Bonsly — Shiny Bonsly | Shadow Bonsly | Dynamax Bonsly
+- Mime Jr. — Mime Junior | Shiny Mime Jr. | Shadow Mime Jr. | Dynamax Mime Jr.
+- Happiny — Shiny Happiny | Shadow Happiny | Dynamax Happiny
+- Spiritomb — Shiny Spiritomb | Shadow Spiritomb | Dynamax Spiritomb
+- Gible — Shiny Gible | Shadow Gible | Dynamax Gible
+- Garchomp — Mega Garchomp | Mega Garchomp Z | Shiny Garchomp | Garchomp Mega | Garchomp Mega Z | Shadow Garchomp | Dynamax Garchomp
+- Munchlax — Shiny Munchlax | Shadow Munchlax | Dynamax Munchlax
+- Riolu — Shiny Riolu | Shadow Riolu | Dynamax Riolu
+- Croagunk — Shiny Croagunk | Shadow Croagunk | Dynamax Croagunk
+- Snover — Shiny Snover | Shadow Snover | Dynamax Snover
+- Abomasnow — Mega Abomasnow | Shiny Abomasnow | Abomasnow Mega | Shadow Abomasnow | Dynamax Abomasnow
+- Weavile — Shiny Weavile | Shadow Weavile | Dynamax Weavile
+- Magnezone — Shiny Magnezone | Shadow Magnezone | Dynamax Magnezone
+- Rhyperior — Shiny Rhyperior | Shadow Rhyperior | Dynamax Rhyperior
+- Electivire — Shiny Electivire | Shadow Electivire | Dynamax Electivire
+- Magmortar — Shiny Magmortar | Shadow Magmortar | Dynamax Magmortar
+- Togekiss — Shiny Togekiss | Shadow Togekiss | Dynamax Togekiss
+- Leafeon — Shiny Leafeon | Shadow Leafeon | Dynamax Leafeon
+- Glaceon — Shiny Glaceon | Shadow Glaceon | Dynamax Glaceon
+- Mamoswine — Shiny Mamoswine | Shadow Mamoswine | Dynamax Mamoswine
+- Porygon-Z — Shiny Porygon-Z | Shadow Porygon-Z | Dynamax Porygon-Z
+- Gallade — Mega Gallade | Shiny Gallade | Gallade Mega | Shadow Gallade | Dynamax Gallade
+- Dusknoir — Shiny Dusknoir | Shadow Dusknoir | Dynamax Dusknoir
+- Froslass — Mega Froslass | Shiny Froslass | Froslass Mega | Shadow Froslass | Dynamax Froslass
+- Rotom — Heat Rotom | Wash Rotom | Frost Rotom | Fan Rotom | Mow Rotom | Shiny Rotom | Rotom Heat | Rotom Wash | Rotom Frost | Rotom Fan | Rotom Mow | Shadow Rotom | Dynamax Rotom
+- Uxie — Shiny Uxie | Shadow Uxie | Dynamax Uxie
+- Mesprit — Shiny Mesprit | Shadow Mesprit | Dynamax Mesprit
+- Azelf — Shiny Azelf | Shadow Azelf | Dynamax Azelf
+- Dialga — Shiny Dialga | Origin Dialga | Dialga Origin | Origin Forme Dialga | Shadow Dialga | Dynamax Dialga
+- Palkia — Shiny Palkia | Origin Palkia | Palkia Origin | Origin Forme Palkia | Shadow Palkia | Dynamax Palkia
+- Heatran — Mega Heatran | Shiny Heatran | Heatran Mega | Shadow Heatran | Dynamax Heatran
+- Regigigas — Shiny Regigigas | Shadow Regigigas | Dynamax Regigigas
+- Giratina — Origin Giratina | Giratina Origin | Shiny Giratina | Origin Forme Giratina | Giratina Origin Forme | Altered Giratina | Altered Forme Giratina | Giratina Altered | Shadow Giratina | Dynamax Giratina
+- Cresselia — Shiny Cresselia | Shadow Cresselia | Dynamax Cresselia
+- Manaphy — Shiny Manaphy | Shadow Manaphy | Dynamax Manaphy
+- Darkrai — Mega Darkrai | Shiny Darkrai | Darkrai Mega | Shadow Darkrai | Dynamax Darkrai
+- Shaymin — Shiny Shaymin | Sky Shaymin | Shaymin Sky | Sky Forme Shaymin | Land Forme Shaymin | Shadow Shaymin | Dynamax Shaymin
+- Arceus — Shiny Arceus | Shadow Arceus | Dynamax Arceus
+- Victini — Shiny Victini | Shadow Victini | Dynamax Victini
+- Snivy — Shiny Snivy | Shadow Snivy | Dynamax Snivy
+- Tepig — Shiny Tepig | Shadow Tepig | Dynamax Tepig
+- Oshawott — Shiny Oshawott | Shadow Oshawott | Dynamax Oshawott
+- Zorua — Hisuian Zorua | Hisui Zorua | Shiny Zorua | Zorua Hisui | Zorua Hisuian | Shadow Zorua | Dynamax Zorua
+- Zoroark — Hisuian Zoroark | Hisui Zoroark | Shiny Zoroark | Zoroark Hisui | Zoroark Hisuian | Shadow Zoroark | Dynamax Zoroark
+- Reshiram — Shiny Reshiram | Shadow Reshiram | Dynamax Reshiram
+- Zekrom — Shiny Zekrom | Shadow Zekrom | Dynamax Zekrom
+- Chespin — Shiny Chespin | Shadow Chespin | Dynamax Chespin
+- Fennekin — Shiny Fennekin | Shadow Fennekin | Dynamax Fennekin
+- Froakie — Shiny Froakie | Shadow Froakie | Dynamax Froakie
+- Xerneas — Shiny Xerneas | Shadow Xerneas | Dynamax Xerneas
+- Yveltal — Shiny Yveltal | Shadow Yveltal | Dynamax Yveltal
+- Rowlet — Shiny Rowlet | Shadow Rowlet | Dynamax Rowlet
+- Litten — Shiny Litten | Shadow Litten | Dynamax Litten
+- Incineroar — Shiny Incineroar | Shadow Incineroar | Dynamax Incineroar
+- Popplio — Shiny Popplio | Shadow Popplio | Dynamax Popplio
+- Rockruff — Shiny Rockruff | Shadow Rockruff | Dynamax Rockruff
+- Mimikyu — Shiny Mimikyu | Busted Mimikyu | Mimikyu Busted | Shadow Mimikyu | Dynamax Mimikyu
+- Solgaleo — Shiny Solgaleo | Shadow Solgaleo | Dynamax Solgaleo
+- Lunala — Shiny Lunala | Shadow Lunala | Dynamax Lunala
+- Grookey — Shiny Grookey | Shadow Grookey | Dynamax Grookey
+- Scorbunny — Shiny Scorbunny | Shadow Scorbunny | Dynamax Scorbunny
+- Sobble — Shiny Sobble | Shadow Sobble | Dynamax Sobble
+- Wooloo — Shiny Wooloo | Shadow Wooloo | Dynamax Wooloo
+- Zacian — Crowned Zacian | Shiny Zacian | Zacian Crowned | Zacian Crowned Sword | Crowned Sword Zacian | Hero of Many Battles Zacian | Shadow Zacian | Dynamax Zacian
+- Zamazenta — Crowned Zamazenta | Shiny Zamazenta | Zamazenta Crowned | Zamazenta Crowned Shield | Crowned Shield Zamazenta | Hero of Many Battles Zamazenta | Shadow Zamazenta | Dynamax Zamazenta
+- Eternatus — Eternamax Eternatus | Shiny Eternatus | Eternatus Eternamax | Shadow Eternatus | Dynamax Eternatus
+- Sprigatito — Shiny Sprigatito | Shadow Sprigatito | Dynamax Sprigatito
+- Fuecoco — Shiny Fuecoco | Shadow Fuecoco | Dynamax Fuecoco
+- Quaxly — Shiny Quaxly | Shadow Quaxly | Dynamax Quaxly
+- Koraidon — Shiny Koraidon | Shadow Koraidon | Dynamax Koraidon
+- Miraidon — Shiny Miraidon | Shadow Miraidon | Dynamax Miraidon
+
+### Tier 4: obscure (356)
+
+- Sentret — Shiny Sentret | Shadow Sentret | Dynamax Sentret
+- Noctowl — Shiny Noctowl | Shadow Noctowl | Dynamax Noctowl
+- Ledyba — Shiny Ledyba | Shadow Ledyba | Dynamax Ledyba
+- Ledian — Shiny Ledian | Shadow Ledian | Dynamax Ledian
+- Spinarak — Shiny Spinarak | Shadow Spinarak | Dynamax Spinarak
+- Ariados — Shiny Ariados | Shadow Ariados | Dynamax Ariados
+- Chinchou — Shiny Chinchou | Shadow Chinchou | Dynamax Chinchou
+- Lanturn — Shiny Lanturn | Shadow Lanturn | Dynamax Lanturn
+- Natu — Shiny Natu | Shadow Natu | Dynamax Natu
+- Xatu — Shiny Xatu | Shadow Xatu | Dynamax Xatu
+- Flaaffy — Shiny Flaaffy | Shadow Flaaffy | Dynamax Flaaffy
+- Hoppip — Shiny Hoppip | Shadow Hoppip | Dynamax Hoppip
+- Skiploom — Shiny Skiploom | Shadow Skiploom | Dynamax Skiploom
+- Jumpluff — Shiny Jumpluff | Shadow Jumpluff | Dynamax Jumpluff
+- Aipom — Shiny Aipom | Shadow Aipom | Dynamax Aipom
+- Sunkern — Shiny Sunkern | Shadow Sunkern | Dynamax Sunkern
+- Sunflora — Shiny Sunflora | Shadow Sunflora | Dynamax Sunflora
+- Yanma — Shiny Yanma | Shadow Yanma | Dynamax Yanma
+- Girafarig — Shiny Girafarig | Shadow Girafarig | Dynamax Girafarig
+- Pineco — Shiny Pineco | Shadow Pineco | Dynamax Pineco
+- Forretress — Shiny Forretress | Shadow Forretress | Dynamax Forretress
+- Gligar — Shiny Gligar | Shadow Gligar | Dynamax Gligar
+- Granbull — Shiny Granbull | Shadow Granbull | Dynamax Granbull
+- Qwilfish — Hisuian Qwilfish | Hisui Qwilfish | Shiny Qwilfish | Qwilfish Hisui | Qwilfish Hisuian | Shadow Qwilfish | Dynamax Qwilfish
+- Slugma — Shiny Slugma | Shadow Slugma | Dynamax Slugma
+- Magcargo — Shiny Magcargo | Shadow Magcargo | Dynamax Magcargo
+- Swinub — Shiny Swinub | Shadow Swinub | Dynamax Swinub
+- Piloswine — Shiny Piloswine | Shadow Piloswine | Dynamax Piloswine
+- Corsola — Galarian Corsola | Galar Corsola | Shiny Corsola | Corsola Galar | Corsola Galarian | Shadow Corsola | Dynamax Corsola
+- Remoraid — Shiny Remoraid | Shadow Remoraid | Dynamax Remoraid
+- Octillery — Shiny Octillery | Shadow Octillery | Dynamax Octillery
+- Mantine — Shiny Mantine | Shadow Mantine | Dynamax Mantine
+- Stantler — Shiny Stantler | Shadow Stantler | Dynamax Stantler
+- Tyrogue — Shiny Tyrogue | Shadow Tyrogue | Dynamax Tyrogue
+- Pupitar — Shiny Pupitar | Shadow Pupitar | Dynamax Pupitar
+- Poochyena — Shiny Poochyena | Shadow Poochyena | Dynamax Poochyena
+- Mightyena — Shiny Mightyena | Shadow Mightyena | Dynamax Mightyena
+- Linoone — Galarian Linoone | Galar Linoone | Shiny Linoone | Linoone Galar | Linoone Galarian | Shadow Linoone | Dynamax Linoone
+- Silcoon — Shiny Silcoon | Shadow Silcoon | Dynamax Silcoon
+- Beautifly — Shiny Beautifly | Shadow Beautifly | Dynamax Beautifly
+- Cascoon — Shiny Cascoon | Shadow Cascoon | Dynamax Cascoon
+- Dustox — Shiny Dustox | Shadow Dustox | Dynamax Dustox
+- Lombre — Shiny Lombre | Shadow Lombre | Dynamax Lombre
+- Seedot — Shiny Seedot | Shadow Seedot | Dynamax Seedot
+- Nuzleaf — Shiny Nuzleaf | Shadow Nuzleaf | Dynamax Nuzleaf
+- Shiftry — Shiny Shiftry | Shadow Shiftry | Dynamax Shiftry
+- Taillow — Shiny Taillow | Shadow Taillow | Dynamax Taillow
+- Swellow — Shiny Swellow | Shadow Swellow | Dynamax Swellow
+- Wingull — Shiny Wingull | Shadow Wingull | Dynamax Wingull
+- Pelipper — Shiny Pelipper | Shadow Pelipper | Dynamax Pelipper
+- Surskit — Shiny Surskit | Shadow Surskit | Dynamax Surskit
+- Masquerain — Shiny Masquerain | Shadow Masquerain | Dynamax Masquerain
+- Shroomish — Shiny Shroomish | Shadow Shroomish | Dynamax Shroomish
+- Breloom — Shiny Breloom | Shadow Breloom | Dynamax Breloom
+- Vigoroth — Shiny Vigoroth | Shadow Vigoroth | Dynamax Vigoroth
+- Nincada — Shiny Nincada | Shadow Nincada | Dynamax Nincada
+- Ninjask — Shiny Ninjask | Shadow Ninjask | Dynamax Ninjask
+- Whismur — Shiny Whismur | Shadow Whismur | Dynamax Whismur
+- Loudred — Shiny Loudred | Shadow Loudred | Dynamax Loudred
+- Exploud — Shiny Exploud | Shadow Exploud | Dynamax Exploud
+- Makuhita — Shiny Makuhita | Shadow Makuhita | Dynamax Makuhita
+- Hariyama — Shiny Hariyama | Shadow Hariyama | Dynamax Hariyama
+- Nosepass — Shiny Nosepass | Shadow Nosepass | Dynamax Nosepass
+- Delcatty — Shiny Delcatty | Shadow Delcatty | Dynamax Delcatty
+- Lairon — Shiny Lairon | Shadow Lairon | Dynamax Lairon
+- Meditite — Shiny Meditite | Shadow Meditite | Dynamax Meditite
+- Medicham — Mega Medicham | Shiny Medicham | Medicham Mega | Shadow Medicham | Dynamax Medicham
+- Electrike — Shiny Electrike | Shadow Electrike | Dynamax Electrike
+- Manectric — Mega Manectric | Shiny Manectric | Manectric Mega | Shadow Manectric | Dynamax Manectric
+- Volbeat — Shiny Volbeat | Shadow Volbeat | Dynamax Volbeat
+- Illumise — Shiny Illumise | Shadow Illumise | Dynamax Illumise
+- Gulpin — Shiny Gulpin | Shadow Gulpin | Dynamax Gulpin
+- Swalot — Shiny Swalot | Shadow Swalot | Dynamax Swalot
+- Carvanha — Shiny Carvanha | Shadow Carvanha | Dynamax Carvanha
+- Sharpedo — Mega Sharpedo | Shiny Sharpedo | Sharpedo Mega | Shadow Sharpedo | Dynamax Sharpedo
+- Numel — Shiny Numel | Shadow Numel | Dynamax Numel
+- Camerupt — Mega Camerupt | Shiny Camerupt | Camerupt Mega | Shadow Camerupt | Dynamax Camerupt
+- Spoink — Shiny Spoink | Shadow Spoink | Dynamax Spoink
+- Grumpig — Shiny Grumpig | Shadow Grumpig | Dynamax Grumpig
+- Vibrava — Shiny Vibrava | Shadow Vibrava | Dynamax Vibrava
+- Cacnea — Shiny Cacnea | Shadow Cacnea | Dynamax Cacnea
+- Cacturne — Shiny Cacturne | Shadow Cacturne | Dynamax Cacturne
+- Lunatone — Shiny Lunatone | Shadow Lunatone | Dynamax Lunatone
+- Solrock — Shiny Solrock | Shadow Solrock | Dynamax Solrock
+- Barboach — Shiny Barboach | Shadow Barboach | Dynamax Barboach
+- Whiscash — Shiny Whiscash | Shadow Whiscash | Dynamax Whiscash
+- Corphish — Shiny Corphish | Shadow Corphish | Dynamax Corphish
+- Crawdaunt — Shiny Crawdaunt | Shadow Crawdaunt | Dynamax Crawdaunt
+- Baltoy — Shiny Baltoy | Shadow Baltoy | Dynamax Baltoy
+- Claydol — Shiny Claydol | Shadow Claydol | Dynamax Claydol
+- Lileep — Shiny Lileep | Shadow Lileep | Dynamax Lileep
+- Cradily — Shiny Cradily | Shadow Cradily | Dynamax Cradily
+- Anorith — Shiny Anorith | Shadow Anorith | Dynamax Anorith
+- Armaldo — Shiny Armaldo | Shadow Armaldo | Dynamax Armaldo
+- Shuppet — Shiny Shuppet | Shadow Shuppet | Dynamax Shuppet
+- Dusclops — Shiny Dusclops | Shadow Dusclops | Dynamax Dusclops
+- Tropius — Shiny Tropius | Shadow Tropius | Dynamax Tropius
+- Chimecho — Mega Chimecho | Shiny Chimecho | Chimecho Mega | Shadow Chimecho | Dynamax Chimecho
+- Sealeo — Shiny Sealeo | Shadow Sealeo | Dynamax Sealeo
+- Walrein — Shiny Walrein | Shadow Walrein | Dynamax Walrein
+- Clamperl — Shiny Clamperl | Shadow Clamperl | Dynamax Clamperl
+- Huntail — Shiny Huntail | Shadow Huntail | Dynamax Huntail
+- Gorebyss — Shiny Gorebyss | Shadow Gorebyss | Dynamax Gorebyss
+- Luvdisc — Shiny Luvdisc | Shadow Luvdisc | Dynamax Luvdisc
+- Shelgon — Shiny Shelgon | Shadow Shelgon | Dynamax Shelgon
+- Metang — Shiny Metang | Shadow Metang | Dynamax Metang
+- Grotle — Shiny Grotle | Shadow Grotle | Dynamax Grotle
+- Monferno — Shiny Monferno | Shadow Monferno | Dynamax Monferno
+- Prinplup — Shiny Prinplup | Shadow Prinplup | Dynamax Prinplup
+- Staravia — Shiny Staravia | Shadow Staravia | Dynamax Staravia
+- Bibarel — Shiny Bibarel | Shadow Bibarel | Dynamax Bibarel
+- Kricketot — Shiny Kricketot | Shadow Kricketot | Dynamax Kricketot
+- Kricketune — Shiny Kricketune | Shadow Kricketune | Dynamax Kricketune
+- Luxio — Shiny Luxio | Shadow Luxio | Dynamax Luxio
+- Budew — Shiny Budew | Shadow Budew | Dynamax Budew
+- Roserade — Shiny Roserade | Shadow Roserade | Dynamax Roserade
+- Cranidos — Shiny Cranidos | Shadow Cranidos | Dynamax Cranidos
+- Rampardos — Shiny Rampardos | Shadow Rampardos | Dynamax Rampardos
+- Shieldon — Shiny Shieldon | Shadow Shieldon | Dynamax Shieldon
+- Bastiodon — Shiny Bastiodon | Shadow Bastiodon | Dynamax Bastiodon
+- Burmy — Shiny Burmy | Plant Cloak Burmy | Sandy Cloak Burmy | Trash Cloak Burmy | Shadow Burmy | Dynamax Burmy
+- Wormadam — Shiny Wormadam | Plant Cloak Wormadam | Sandy Cloak Wormadam | Trash Cloak Wormadam | Wormadam Sandy | Wormadam Trash | Shadow Wormadam | Dynamax Wormadam
+- Mothim — Shiny Mothim | Shadow Mothim | Dynamax Mothim
+- Combee — Shiny Combee | Shadow Combee | Dynamax Combee
+- Vespiquen — Shiny Vespiquen | Shadow Vespiquen | Dynamax Vespiquen
+- Buizel — Shiny Buizel | Shadow Buizel | Dynamax Buizel
+- Floatzel — Shiny Floatzel | Shadow Floatzel | Dynamax Floatzel
+- Cherubi — Shiny Cherubi | Shadow Cherubi | Dynamax Cherubi
+- Cherrim — Shiny Cherrim | Sunshine Cherrim | Cherrim Sunshine | Shadow Cherrim | Dynamax Cherrim
+- Shellos — Shiny Shellos | East Sea Shellos | West Sea Shellos | Shellos East | Shadow Shellos | Dynamax Shellos
+- Gastrodon — Shiny Gastrodon | East Sea Gastrodon | West Sea Gastrodon | Gastrodon East | Shadow Gastrodon | Dynamax Gastrodon
+- Ambipom — Shiny Ambipom | Shadow Ambipom | Dynamax Ambipom
+- Drifblim — Shiny Drifblim | Shadow Drifblim | Dynamax Drifblim
+- Glameow — Shiny Glameow | Shadow Glameow | Dynamax Glameow
+- Purugly — Shiny Purugly | Shadow Purugly | Dynamax Purugly
+- Chingling — Shiny Chingling | Shadow Chingling | Dynamax Chingling
+- Stunky — Shiny Stunky | Shadow Stunky | Dynamax Stunky
+- Skuntank — Shiny Skuntank | Shadow Skuntank | Dynamax Skuntank
+- Bronzor — Shiny Bronzor | Shadow Bronzor | Dynamax Bronzor
+- Bronzong — Shiny Bronzong | Shadow Bronzong | Dynamax Bronzong
+- Chatot — Shiny Chatot | Shadow Chatot | Dynamax Chatot
+- Gabite — Shiny Gabite | Shadow Gabite | Dynamax Gabite
+- Hippopotas — Shiny Hippopotas | Shadow Hippopotas | Dynamax Hippopotas
+- Hippowdon — Shiny Hippowdon | Shadow Hippowdon | Dynamax Hippowdon
+- Skorupi — Shiny Skorupi | Shadow Skorupi | Dynamax Skorupi
+- Drapion — Shiny Drapion | Shadow Drapion | Dynamax Drapion
+- Toxicroak — Shiny Toxicroak | Shadow Toxicroak | Dynamax Toxicroak
+- Carnivine — Shiny Carnivine | Shadow Carnivine | Dynamax Carnivine
+- Finneon — Shiny Finneon | Shadow Finneon | Dynamax Finneon
+- Lumineon — Shiny Lumineon | Shadow Lumineon | Dynamax Lumineon
+- Mantyke — Shiny Mantyke | Shadow Mantyke | Dynamax Mantyke
+- Lickilicky — Shiny Lickilicky | Shadow Lickilicky | Dynamax Lickilicky
+- Tangrowth — Shiny Tangrowth | Shadow Tangrowth | Dynamax Tangrowth
+- Yanmega — Shiny Yanmega | Shadow Yanmega | Dynamax Yanmega
+- Gliscor — Shiny Gliscor | Shadow Gliscor | Dynamax Gliscor
+- Probopass — Shiny Probopass | Shadow Probopass | Dynamax Probopass
+- Phione — Shiny Phione | Shadow Phione | Dynamax Phione
+- Servine — Shiny Servine | Shadow Servine | Dynamax Servine
+- Serperior — Shiny Serperior | Shadow Serperior | Dynamax Serperior
+- Pignite — Shiny Pignite | Shadow Pignite | Dynamax Pignite
+- Emboar — Mega Emboar | Shiny Emboar | Emboar Mega | Shadow Emboar | Dynamax Emboar
+- Dewott — Shiny Dewott | Shadow Dewott | Dynamax Dewott
+- Samurott — Hisuian Samurott | Hisui Samurott | Shiny Samurott | Samurott Hisui | Samurott Hisuian | Shadow Samurott | Dynamax Samurott
+- Drilbur — Shiny Drilbur | Shadow Drilbur | Dynamax Drilbur
+- Excadrill — Mega Excadrill | Shiny Excadrill | Excadrill Mega | Shadow Excadrill | Dynamax Excadrill
+- Audino — Mega Audino | Shiny Audino | Audino Mega | Shadow Audino | Dynamax Audino
+- Darmanitan — Galarian Darmanitan | Galar Darmanitan | Shiny Darmanitan | Darmanitan Galar | Darmanitan Galarian | Zen Mode Darmanitan | Zen Darmanitan | Darmanitan Zen | Galarian Zen Mode Darmanitan | Galarian Darmanitan Zen Mode | Darmanitan Galar Zen | Shadow Darmanitan | Dynamax Darmanitan
+- Scraggy — Shiny Scraggy | Shadow Scraggy | Dynamax Scraggy
+- Yamask — Galarian Yamask | Galar Yamask | Shiny Yamask | Yamask Galar | Yamask Galarian | Shadow Yamask | Dynamax Yamask
+- Cofagrigus — Shiny Cofagrigus | Shadow Cofagrigus | Dynamax Cofagrigus
+- Trubbish — Shiny Trubbish | Shadow Trubbish | Dynamax Trubbish
+- Garbodor — Gigantamax Garbodor | G-Max Garbodor | Shiny Garbodor | Garbodor Gmax | Shadow Garbodor | Dynamax Garbodor
+- Vanillite — Shiny Vanillite | Shadow Vanillite | Dynamax Vanillite
+- Vanilluxe — Shiny Vanilluxe | Shadow Vanilluxe | Dynamax Vanilluxe
+- Emolga — Shiny Emolga | Shadow Emolga | Dynamax Emolga
+- Amoonguss — Shiny Amoonguss | Shadow Amoonguss | Dynamax Amoonguss
+- Joltik — Shiny Joltik | Shadow Joltik | Dynamax Joltik
+- Ferrothorn — Shiny Ferrothorn | Shadow Ferrothorn | Dynamax Ferrothorn
+- Litwick — Shiny Litwick | Shadow Litwick | Dynamax Litwick
+- Chandelure — Mega Chandelure | Shiny Chandelure | Chandelure Mega | Shadow Chandelure | Dynamax Chandelure
+- Axew — Shiny Axew | Shadow Axew | Dynamax Axew
+- Haxorus — Shiny Haxorus | Shadow Haxorus | Dynamax Haxorus
+- Cubchoo — Shiny Cubchoo | Shadow Cubchoo | Dynamax Cubchoo
+- Stunfisk — Galarian Stunfisk | Galar Stunfisk | Shiny Stunfisk | Stunfisk Galar | Stunfisk Galarian | Shadow Stunfisk | Dynamax Stunfisk
+- Golurk — Mega Golurk | Shiny Golurk | Golurk Mega | Shadow Golurk | Dynamax Golurk
+- Pawniard — Shiny Pawniard | Shadow Pawniard | Dynamax Pawniard
+- Bisharp — Shiny Bisharp | Shadow Bisharp | Dynamax Bisharp
+- Deino — Shiny Deino | Shadow Deino | Dynamax Deino
+- Hydreigon — Shiny Hydreigon | Shadow Hydreigon | Dynamax Hydreigon
+- Larvesta — Shiny Larvesta | Shadow Larvesta | Dynamax Larvesta
+- Volcarona — Shiny Volcarona | Shadow Volcarona | Dynamax Volcarona
+- Cobalion — Shiny Cobalion | Shadow Cobalion | Dynamax Cobalion
+- Terrakion — Shiny Terrakion | Shadow Terrakion | Dynamax Terrakion
+- Virizion — Shiny Virizion | Shadow Virizion | Dynamax Virizion
+- Tornadus — Therian Tornadus | Shiny Tornadus | Tornadus Therian | Incarnate Tornadus | Tornadus Incarnate | Shadow Tornadus | Dynamax Tornadus
+- Thundurus — Therian Thundurus | Shiny Thundurus | Thundurus Therian | Incarnate Thundurus | Thundurus Incarnate | Shadow Thundurus | Dynamax Thundurus
+- Landorus — Therian Landorus | Shiny Landorus | Landorus Therian | Incarnate Landorus | Landorus Incarnate | Shadow Landorus | Dynamax Landorus
+- Kyurem — Black Kyurem | White Kyurem | Shiny Kyurem | Kyurem Black | Kyurem White | Shadow Kyurem | Dynamax Kyurem
+- Keldeo — Shiny Keldeo | Resolute Keldeo | Keldeo Resolute | Shadow Keldeo | Dynamax Keldeo
+- Meloetta — Shiny Meloetta | Pirouette Meloetta | Meloetta Pirouette | Aria Meloetta | Shadow Meloetta | Dynamax Meloetta
+- Genesect — Shiny Genesect | Shadow Genesect | Dynamax Genesect
+- Chesnaught — Mega Chesnaught | Shiny Chesnaught | Chesnaught Mega | Shadow Chesnaught | Dynamax Chesnaught
+- Braixen — Shiny Braixen | Shadow Braixen | Dynamax Braixen
+- Delphox — Mega Delphox | Shiny Delphox | Delphox Mega | Shadow Delphox | Dynamax Delphox
+- Frogadier — Shiny Frogadier | Shadow Frogadier | Dynamax Frogadier
+- Bunnelby — Shiny Bunnelby | Shadow Bunnelby | Dynamax Bunnelby
+- Fletchling — Shiny Fletchling | Shadow Fletchling | Dynamax Fletchling
+- Talonflame — Shiny Talonflame | Shadow Talonflame | Dynamax Talonflame
+- Vivillon — Shiny Vivillon | Shadow Vivillon | Dynamax Vivillon
+- Pyroar — Mega Pyroar | Shiny Pyroar | Pyroar Mega | Shadow Pyroar | Dynamax Pyroar
+- Flabébé — Shiny Flabébé | Shadow Flabébé | Dynamax Flabébé
+- Pancham — Shiny Pancham | Shadow Pancham | Dynamax Pancham
+- Pangoro — Shiny Pangoro | Shadow Pangoro | Dynamax Pangoro
+- Furfrou — Shiny Furfrou | Shadow Furfrou | Dynamax Furfrou
+- Espurr — Shiny Espurr | Shadow Espurr | Dynamax Espurr
+- Meowstic — Mega Meowstic | Shiny Meowstic | Meowstic Mega | Female Meowstic | Meowstic Female | Shadow Meowstic | Dynamax Meowstic
+- Honedge — Shiny Honedge | Shadow Honedge | Dynamax Honedge
+- Aegislash — Shiny Aegislash | Blade Aegislash | Aegislash Blade | Blade Forme Aegislash | Shadow Aegislash | Dynamax Aegislash
+- Tyrunt — Shiny Tyrunt | Shadow Tyrunt | Dynamax Tyrunt
+- Tyrantrum — Shiny Tyrantrum | Shadow Tyrantrum | Dynamax Tyrantrum
+- Amaura — Shiny Amaura | Shadow Amaura | Dynamax Amaura
+- Aurorus — Shiny Aurorus | Shadow Aurorus | Dynamax Aurorus
+- Hawlucha — Mega Hawlucha | Shiny Hawlucha | Hawlucha Mega | Shadow Hawlucha | Dynamax Hawlucha
+- Dedenne — Shiny Dedenne | Shadow Dedenne | Dynamax Dedenne
+- Goomy — Shiny Goomy | Shadow Goomy | Dynamax Goomy
+- Goodra — Hisuian Goodra | Hisui Goodra | Shiny Goodra | Goodra Hisui | Goodra Hisuian | Shadow Goodra | Dynamax Goodra
+- Klefki — Shiny Klefki | Shadow Klefki | Dynamax Klefki
+- Trevenant — Shiny Trevenant | Shadow Trevenant | Dynamax Trevenant
+- Pumpkaboo — Shiny Pumpkaboo | Shadow Pumpkaboo | Dynamax Pumpkaboo
+- Noibat — Shiny Noibat | Shadow Noibat | Dynamax Noibat
+- Noivern — Shiny Noivern | Shadow Noivern | Dynamax Noivern
+- Zygarde — Mega Zygarde | Complete Zygarde | Zygarde Complete | Shiny Zygarde | Zygarde Mega | Zygarde 10% | 10% Zygarde | Zygarde 50% | 50% Zygarde | Zygarde Complete Forme | Complete Forme Zygarde | Shadow Zygarde | Dynamax Zygarde
+- Diancie — Mega Diancie | Shiny Diancie | Diancie Mega | Shadow Diancie | Dynamax Diancie
+- Hoopa — Hoopa Unbound | Shiny Hoopa | Unbound Hoopa | Hoopa Confined | Confined Hoopa | Shadow Hoopa | Dynamax Hoopa
+- Volcanion — Shiny Volcanion | Shadow Volcanion | Dynamax Volcanion
+- Decidueye — Hisuian Decidueye | Hisui Decidueye | Shiny Decidueye | Decidueye Hisui | Decidueye Hisuian | Shadow Decidueye | Dynamax Decidueye
+- Primarina — Shiny Primarina | Shadow Primarina | Dynamax Primarina
+- Pikipek — Shiny Pikipek | Shadow Pikipek | Dynamax Pikipek
+- Toucannon — Shiny Toucannon | Shadow Toucannon | Dynamax Toucannon
+- Yungoos — Shiny Yungoos | Shadow Yungoos | Dynamax Yungoos
+- Grubbin — Shiny Grubbin | Shadow Grubbin | Dynamax Grubbin
+- Vikavolt — Shiny Vikavolt | Shadow Vikavolt | Dynamax Vikavolt
+- Crabrawler — Shiny Crabrawler | Shadow Crabrawler | Dynamax Crabrawler
+- Oricorio — Shiny Oricorio | Baile Oricorio | Pom-Pom Oricorio | Pa'u Oricorio | Sensu Oricorio | Oricorio Pom-Pom | Oricorio Pa'u | Oricorio Sensu | Shadow Oricorio | Dynamax Oricorio
+- Cutiefly — Shiny Cutiefly | Shadow Cutiefly | Dynamax Cutiefly
+- Lycanroc — Shiny Lycanroc | Midday Lycanroc | Midnight Lycanroc | Dusk Lycanroc | Lycanroc Midday | Lycanroc Midnight | Lycanroc Dusk | Shadow Lycanroc | Dynamax Lycanroc
+- Wishiwashi — Shiny Wishiwashi | School Wishiwashi | Schooling Wishiwashi | Wishiwashi School | School Form Wishiwashi | Shadow Wishiwashi | Dynamax Wishiwashi
+- Mareanie — Shiny Mareanie | Shadow Mareanie | Dynamax Mareanie
+- Toxapex — Shiny Toxapex | Shadow Toxapex | Dynamax Toxapex
+- Mudbray — Shiny Mudbray | Shadow Mudbray | Dynamax Mudbray
+- Salandit — Shiny Salandit | Shadow Salandit | Dynamax Salandit
+- Stufful — Shiny Stufful | Shadow Stufful | Dynamax Stufful
+- Bewear — Shiny Bewear | Shadow Bewear | Dynamax Bewear
+- Wimpod — Shiny Wimpod | Shadow Wimpod | Dynamax Wimpod
+- Golisopod — Mega Golisopod | Shiny Golisopod | Golisopod Mega | Shadow Golisopod | Dynamax Golisopod
+- Pyukumuku — Shiny Pyukumuku | Shadow Pyukumuku | Dynamax Pyukumuku
+- Type: Null — Shiny Type: Null | Shadow Type: Null | Dynamax Type: Null
+- Silvally — Shiny Silvally | Shadow Silvally | Dynamax Silvally
+- Minior — Shiny Minior | Shadow Minior | Dynamax Minior
+- Komala — Shiny Komala | Shadow Komala | Dynamax Komala
+- Togedemaru — Shiny Togedemaru | Shadow Togedemaru | Dynamax Togedemaru
+- Tapu Koko — Shiny Tapu Koko | Shadow Tapu Koko | Dynamax Tapu Koko
+- Tapu Lele — Shiny Tapu Lele | Shadow Tapu Lele | Dynamax Tapu Lele
+- Tapu Bulu — Shiny Tapu Bulu | Shadow Tapu Bulu | Dynamax Tapu Bulu
+- Tapu Fini — Shiny Tapu Fini | Shadow Tapu Fini | Dynamax Tapu Fini
+- Cosmog — Shiny Cosmog | Shadow Cosmog | Dynamax Cosmog
+- Necrozma — Dusk Mane Necrozma | Dawn Wings Necrozma | Ultra Necrozma | Shiny Necrozma | Necrozma Dusk Mane | Necrozma Dawn Wings | Necrozma Ultra | Ultra Burst Necrozma | Necrozma Dusk | Necrozma Dawn | Shadow Necrozma | Dynamax Necrozma
+- Magearna — Mega Magearna | Shiny Magearna | Magearna Mega | Original Color Magearna | Original Colour Magearna | Magearna Original | Shadow Magearna | Dynamax Magearna
+- Marshadow — Shiny Marshadow | Shadow Marshadow | Dynamax Marshadow
+- Zeraora — Mega Zeraora | Shiny Zeraora | Zeraora Mega | Shadow Zeraora | Dynamax Zeraora
+- Meltan — Shiny Meltan | Shadow Meltan | Dynamax Meltan
+- Melmetal — Gigantamax Melmetal | G-Max Melmetal | Shiny Melmetal | Melmetal Gmax | Shadow Melmetal | Dynamax Melmetal
+- Rillaboom — Gigantamax Rillaboom | G-Max Rillaboom | Shiny Rillaboom | Rillaboom Gmax | Shadow Rillaboom | Dynamax Rillaboom
+- Cinderace — Gigantamax Cinderace | G-Max Cinderace | Shiny Cinderace | Cinderace Gmax | Shadow Cinderace | Dynamax Cinderace
+- Inteleon — Gigantamax Inteleon | G-Max Inteleon | Shiny Inteleon | Inteleon Gmax | Shadow Inteleon | Dynamax Inteleon
+- Greedent — Shiny Greedent | Shadow Greedent | Dynamax Greedent
+- Rookidee — Shiny Rookidee | Shadow Rookidee | Dynamax Rookidee
+- Corviknight — Gigantamax Corviknight | G-Max Corviknight | Shiny Corviknight | Corviknight Gmax | Shadow Corviknight | Dynamax Corviknight
+- Dubwool — Shiny Dubwool | Shadow Dubwool | Dynamax Dubwool
+- Yamper — Shiny Yamper | Shadow Yamper | Dynamax Yamper
+- Boltund — Shiny Boltund | Shadow Boltund | Dynamax Boltund
+- Applin — Shiny Applin | Shadow Applin | Dynamax Applin
+- Flapple — Gigantamax Flapple | G-Max Flapple | Shiny Flapple | Flapple Gmax | Shadow Flapple | Dynamax Flapple
+- Appletun — Gigantamax Appletun | G-Max Appletun | Shiny Appletun | Appletun Gmax | Shadow Appletun | Dynamax Appletun
+- Cramorant — Shiny Cramorant | Shadow Cramorant | Dynamax Cramorant
+- Toxel — Shiny Toxel | Shadow Toxel | Dynamax Toxel
+- Toxtricity — Gigantamax Toxtricity | G-Max Toxtricity | Shiny Toxtricity | Toxtricity Gmax | Amped Toxtricity | Low Key Toxtricity | Toxtricity Low Key | Toxtricity Amped | Shadow Toxtricity | Dynamax Toxtricity
+- Sinistea — Shiny Sinistea | Shadow Sinistea | Dynamax Sinistea
+- Polteageist — Shiny Polteageist | Shadow Polteageist | Dynamax Polteageist
+- Hatterene — Gigantamax Hatterene | G-Max Hatterene | Shiny Hatterene | Hatterene Gmax | Shadow Hatterene | Dynamax Hatterene
+- Grimmsnarl — Gigantamax Grimmsnarl | G-Max Grimmsnarl | Shiny Grimmsnarl | Grimmsnarl Gmax | Shadow Grimmsnarl | Dynamax Grimmsnarl
+- Obstagoon — Shiny Obstagoon | Shadow Obstagoon | Dynamax Obstagoon
+- Sirfetch'd — Sirfetched | Shiny Sirfetch'd | Shadow Sirfetch'd | Dynamax Sirfetch'd
+- Mr. Rime — Mister Rime | Shiny Mr. Rime | Shadow Mr. Rime | Dynamax Mr. Rime
+- Alcremie — Gigantamax Alcremie | G-Max Alcremie | Shiny Alcremie | Alcremie Gmax | Shadow Alcremie | Dynamax Alcremie
+- Snom — Shiny Snom | Shadow Snom | Dynamax Snom
+- Frosmoth — Shiny Frosmoth | Shadow Frosmoth | Dynamax Frosmoth
+- Eiscue — Shiny Eiscue | Noice Face Eiscue | Noice Eiscue | Ice Face Eiscue | Eiscue Noice | Shadow Eiscue | Dynamax Eiscue
+- Morpeko — Shiny Morpeko | Hangry Morpeko | Morpeko Hangry | Shadow Morpeko | Dynamax Morpeko
+- Dracovish — Shiny Dracovish | Shadow Dracovish | Dynamax Dracovish
+- Duraludon — Gigantamax Duraludon | G-Max Duraludon | Shiny Duraludon | Duraludon Gmax | Shadow Duraludon | Dynamax Duraludon
+- Dreepy — Shiny Dreepy | Shadow Dreepy | Dynamax Dreepy
+- Dragapult — Shiny Dragapult | Shadow Dragapult | Dynamax Dragapult
+- Kubfu — Shiny Kubfu | Shadow Kubfu | Dynamax Kubfu
+- Urshifu — Gigantamax Urshifu | G-Max Urshifu | Shiny Urshifu | Urshifu Gmax | Single Strike Urshifu | Rapid Strike Urshifu | Urshifu Single Strike | Urshifu Rapid Strike | Shadow Urshifu | Dynamax Urshifu
+- Zarude — Shiny Zarude | Dada Zarude | Zarude Dada | Shadow Zarude | Dynamax Zarude
+- Calyrex — Ice Rider Calyrex | Shadow Rider Calyrex | Shiny Calyrex | Calyrex Ice | Calyrex Shadow | Calyrex Ice Rider | Calyrex Shadow Rider | Ice Calyrex | Shadow Calyrex | Dynamax Calyrex
+- Meowscarada — Shiny Meowscarada | Shadow Meowscarada | Dynamax Meowscarada
+- Skeledirge — Shiny Skeledirge | Shadow Skeledirge | Dynamax Skeledirge
+- Quaquaval — Shiny Quaquaval | Shadow Quaquaval | Dynamax Quaquaval
+- Lechonk — Shiny Lechonk | Shadow Lechonk | Dynamax Lechonk
+- Pawmi — Shiny Pawmi | Shadow Pawmi | Dynamax Pawmi
+- Pawmot — Shiny Pawmot | Shadow Pawmot | Dynamax Pawmot
+- Tandemaus — Shiny Tandemaus | Shadow Tandemaus | Dynamax Tandemaus
+- Maushold — Shiny Maushold | Family of Four Maushold | Family of Three Maushold | Maushold Four | Shadow Maushold | Dynamax Maushold
+- Fidough — Shiny Fidough | Shadow Fidough | Dynamax Fidough
+- Dachsbun — Shiny Dachsbun | Shadow Dachsbun | Dynamax Dachsbun
+- Smoliv — Shiny Smoliv | Shadow Smoliv | Dynamax Smoliv
+- Squawkabilly — Shiny Squawkabilly | Shadow Squawkabilly | Dynamax Squawkabilly
+- Nacli — Shiny Nacli | Shadow Nacli | Dynamax Nacli
+- Garganacl — Shiny Garganacl | Shadow Garganacl | Dynamax Garganacl
+- Charcadet — Shiny Charcadet | Shadow Charcadet | Dynamax Charcadet
+- Armarouge — Shiny Armarouge | Shadow Armarouge | Dynamax Armarouge
+- Ceruledge — Shiny Ceruledge | Shadow Ceruledge | Dynamax Ceruledge
+- Shroodle — Shiny Shroodle | Shadow Shroodle | Dynamax Shroodle
+- Capsakid — Shiny Capsakid | Shadow Capsakid | Dynamax Capsakid
+- Scovillain — Mega Scovillain | Shiny Scovillain | Scovillain Mega | Shadow Scovillain | Dynamax Scovillain
+- Tinkatink — Shiny Tinkatink | Shadow Tinkatink | Dynamax Tinkatink
+- Tinkaton — Shiny Tinkaton | Shadow Tinkaton | Dynamax Tinkaton
+- Wiglett — Shiny Wiglett | Shadow Wiglett | Dynamax Wiglett
+- Palafin — Shiny Palafin | Hero Palafin | Palafin Hero | Zero Palafin | Hero Form Palafin | Shadow Palafin | Dynamax Palafin
+- Varoom — Shiny Varoom | Shadow Varoom | Dynamax Varoom
+- Revavroom — Shiny Revavroom | Shadow Revavroom | Dynamax Revavroom
+- Cyclizar — Shiny Cyclizar | Shadow Cyclizar | Dynamax Cyclizar
+- Greavard — Shiny Greavard | Shadow Greavard | Dynamax Greavard
+- Flamigo — Shiny Flamigo | Shadow Flamigo | Dynamax Flamigo
+- Dondozo — Shiny Dondozo | Shadow Dondozo | Dynamax Dondozo
+- Tatsugiri — Mega Tatsugiri | Shiny Tatsugiri | Tatsugiri Mega | Shadow Tatsugiri | Dynamax Tatsugiri
+- Annihilape — Shiny Annihilape | Shadow Annihilape | Dynamax Annihilape
+- Clodsire — Shiny Clodsire | Shadow Clodsire | Dynamax Clodsire
+- Kingambit — Shiny Kingambit | Shadow Kingambit | Dynamax Kingambit
+- Great Tusk — Shiny Great Tusk | Shadow Great Tusk | Dynamax Great Tusk
+- Flutter Mane — Shiny Flutter Mane | Shadow Flutter Mane | Dynamax Flutter Mane
+- Iron Hands — Shiny Iron Hands | Shadow Iron Hands | Dynamax Iron Hands
+- Frigibax — Shiny Frigibax | Shadow Frigibax | Dynamax Frigibax
+- Baxcalibur — Mega Baxcalibur | Shiny Baxcalibur | Baxcalibur Mega | Shadow Baxcalibur | Dynamax Baxcalibur
+- Gimmighoul — Shiny Gimmighoul | Roaming Gimmighoul | Chest Gimmighoul | Gimmighoul Roaming | Shadow Gimmighoul | Dynamax Gimmighoul
+- Gholdengo — Shiny Gholdengo | Shadow Gholdengo | Dynamax Gholdengo
+- Roaring Moon — Shiny Roaring Moon | Shadow Roaring Moon | Dynamax Roaring Moon
+- Iron Valiant — Shiny Iron Valiant | Shadow Iron Valiant | Dynamax Iron Valiant
+- Ogerpon — Shiny Ogerpon | Teal Mask Ogerpon | Wellspring Mask Ogerpon | Hearthflame Mask Ogerpon | Cornerstone Mask Ogerpon | Ogerpon Teal | Ogerpon Wellspring | Ogerpon Hearthflame | Ogerpon Cornerstone | Shadow Ogerpon | Dynamax Ogerpon
+- Terapagos — Shiny Terapagos | Stellar Terapagos | Terastal Terapagos | Terapagos Stellar | Terapagos Terastal | Stellar Form Terapagos | Terapagos Stellar Form | Shadow Terapagos | Dynamax Terapagos
+- Pecharunt — Shiny Pecharunt | Shadow Pecharunt | Dynamax Pecharunt
+- Browt — Shiny Browt | Shadow Browt | Dynamax Browt
+- Pombon — Shiny Pombon | Shadow Pombon | Dynamax Pombon
+- Gecqua — Shiny Gecqua | Shadow Gecqua | Dynamax Gecqua
+
+### Tier 5: expert (300)
+
+- Patrat — Shiny Patrat | Shadow Patrat | Dynamax Patrat
+- Watchog — Shiny Watchog | Shadow Watchog | Dynamax Watchog
+- Lillipup — Shiny Lillipup | Shadow Lillipup | Dynamax Lillipup
+- Herdier — Shiny Herdier | Shadow Herdier | Dynamax Herdier
+- Stoutland — Shiny Stoutland | Shadow Stoutland | Dynamax Stoutland
+- Purrloin — Shiny Purrloin | Shadow Purrloin | Dynamax Purrloin
+- Liepard — Shiny Liepard | Shadow Liepard | Dynamax Liepard
+- Pansage — Shiny Pansage | Shadow Pansage | Dynamax Pansage
+- Simisage — Shiny Simisage | Shadow Simisage | Dynamax Simisage
+- Pansear — Shiny Pansear | Shadow Pansear | Dynamax Pansear
+- Simisear — Shiny Simisear | Shadow Simisear | Dynamax Simisear
+- Panpour — Shiny Panpour | Shadow Panpour | Dynamax Panpour
+- Simipour — Shiny Simipour | Shadow Simipour | Dynamax Simipour
+- Munna — Shiny Munna | Shadow Munna | Dynamax Munna
+- Musharna — Shiny Musharna | Shadow Musharna | Dynamax Musharna
+- Pidove — Shiny Pidove | Shadow Pidove | Dynamax Pidove
+- Tranquill — Shiny Tranquill | Shadow Tranquill | Dynamax Tranquill
+- Unfezant — Shiny Unfezant | Shadow Unfezant | Dynamax Unfezant
+- Blitzle — Shiny Blitzle | Shadow Blitzle | Dynamax Blitzle
+- Zebstrika — Shiny Zebstrika | Shadow Zebstrika | Dynamax Zebstrika
+- Roggenrola — Shiny Roggenrola | Shadow Roggenrola | Dynamax Roggenrola
+- Boldore — Shiny Boldore | Shadow Boldore | Dynamax Boldore
+- Gigalith — Shiny Gigalith | Shadow Gigalith | Dynamax Gigalith
+- Woobat — Shiny Woobat | Shadow Woobat | Dynamax Woobat
+- Swoobat — Shiny Swoobat | Shadow Swoobat | Dynamax Swoobat
+- Timburr — Shiny Timburr | Shadow Timburr | Dynamax Timburr
+- Gurdurr — Shiny Gurdurr | Shadow Gurdurr | Dynamax Gurdurr
+- Conkeldurr — Shiny Conkeldurr | Shadow Conkeldurr | Dynamax Conkeldurr
+- Tympole — Shiny Tympole | Shadow Tympole | Dynamax Tympole
+- Palpitoad — Shiny Palpitoad | Shadow Palpitoad | Dynamax Palpitoad
+- Seismitoad — Shiny Seismitoad | Shadow Seismitoad | Dynamax Seismitoad
+- Throh — Shiny Throh | Shadow Throh | Dynamax Throh
+- Sawk — Shiny Sawk | Shadow Sawk | Dynamax Sawk
+- Sewaddle — Shiny Sewaddle | Shadow Sewaddle | Dynamax Sewaddle
+- Swadloon — Shiny Swadloon | Shadow Swadloon | Dynamax Swadloon
+- Leavanny — Shiny Leavanny | Shadow Leavanny | Dynamax Leavanny
+- Venipede — Shiny Venipede | Shadow Venipede | Dynamax Venipede
+- Whirlipede — Shiny Whirlipede | Shadow Whirlipede | Dynamax Whirlipede
+- Scolipede — Mega Scolipede | Shiny Scolipede | Scolipede Mega | Shadow Scolipede | Dynamax Scolipede
+- Cottonee — Shiny Cottonee | Shadow Cottonee | Dynamax Cottonee
+- Whimsicott — Shiny Whimsicott | Shadow Whimsicott | Dynamax Whimsicott
+- Petilil — Shiny Petilil | Shadow Petilil | Dynamax Petilil
+- Lilligant — Hisuian Lilligant | Hisui Lilligant | Shiny Lilligant | Lilligant Hisui | Lilligant Hisuian | Shadow Lilligant | Dynamax Lilligant
+- Basculin — Shiny Basculin | Hisuian Basculin | Hisui Basculin | Basculin Hisui | Basculin Hisuian | White-Striped Basculin | Basculin White-Striped | Red-Striped Basculin | Blue-Striped Basculin | Shadow Basculin | Dynamax Basculin
+- Sandile — Shiny Sandile | Shadow Sandile | Dynamax Sandile
+- Krokorok — Shiny Krokorok | Shadow Krokorok | Dynamax Krokorok
+- Krookodile — Shiny Krookodile | Shadow Krookodile | Dynamax Krookodile
+- Darumaka — Galarian Darumaka | Galar Darumaka | Shiny Darumaka | Darumaka Galar | Darumaka Galarian | Shadow Darumaka | Dynamax Darumaka
+- Maractus — Shiny Maractus | Shadow Maractus | Dynamax Maractus
+- Dwebble — Shiny Dwebble | Shadow Dwebble | Dynamax Dwebble
+- Crustle — Shiny Crustle | Shadow Crustle | Dynamax Crustle
+- Scrafty — Mega Scrafty | Shiny Scrafty | Scrafty Mega | Shadow Scrafty | Dynamax Scrafty
+- Sigilyph — Shiny Sigilyph | Shadow Sigilyph | Dynamax Sigilyph
+- Tirtouga — Shiny Tirtouga | Shadow Tirtouga | Dynamax Tirtouga
+- Carracosta — Shiny Carracosta | Shadow Carracosta | Dynamax Carracosta
+- Archen — Shiny Archen | Shadow Archen | Dynamax Archen
+- Archeops — Shiny Archeops | Shadow Archeops | Dynamax Archeops
+- Minccino — Shiny Minccino | Shadow Minccino | Dynamax Minccino
+- Cinccino — Shiny Cinccino | Shadow Cinccino | Dynamax Cinccino
+- Gothita — Shiny Gothita | Shadow Gothita | Dynamax Gothita
+- Gothorita — Shiny Gothorita | Shadow Gothorita | Dynamax Gothorita
+- Gothitelle — Shiny Gothitelle | Shadow Gothitelle | Dynamax Gothitelle
+- Solosis — Shiny Solosis | Shadow Solosis | Dynamax Solosis
+- Duosion — Shiny Duosion | Shadow Duosion | Dynamax Duosion
+- Reuniclus — Shiny Reuniclus | Shadow Reuniclus | Dynamax Reuniclus
+- Ducklett — Shiny Ducklett | Shadow Ducklett | Dynamax Ducklett
+- Swanna — Shiny Swanna | Shadow Swanna | Dynamax Swanna
+- Vanillish — Shiny Vanillish | Shadow Vanillish | Dynamax Vanillish
+- Deerling — Shiny Deerling | Shadow Deerling | Dynamax Deerling
+- Sawsbuck — Shiny Sawsbuck | Shadow Sawsbuck | Dynamax Sawsbuck
+- Karrablast — Shiny Karrablast | Shadow Karrablast | Dynamax Karrablast
+- Escavalier — Shiny Escavalier | Shadow Escavalier | Dynamax Escavalier
+- Foongus — Shiny Foongus | Shadow Foongus | Dynamax Foongus
+- Frillish — Shiny Frillish | Shadow Frillish | Dynamax Frillish
+- Jellicent — Shiny Jellicent | Shadow Jellicent | Dynamax Jellicent
+- Alomomola — Shiny Alomomola | Shadow Alomomola | Dynamax Alomomola
+- Galvantula — Shiny Galvantula | Shadow Galvantula | Dynamax Galvantula
+- Ferroseed — Shiny Ferroseed | Shadow Ferroseed | Dynamax Ferroseed
+- Klink — Shiny Klink | Shadow Klink | Dynamax Klink
+- Klang — Shiny Klang | Shadow Klang | Dynamax Klang
+- Klinklang — Shiny Klinklang | Shadow Klinklang | Dynamax Klinklang
+- Tynamo — Shiny Tynamo | Shadow Tynamo | Dynamax Tynamo
+- Eelektrik — Shiny Eelektrik | Shadow Eelektrik | Dynamax Eelektrik
+- Eelektross — Mega Eelektross | Shiny Eelektross | Eelektross Mega | Shadow Eelektross | Dynamax Eelektross
+- Elgyem — Shiny Elgyem | Shadow Elgyem | Dynamax Elgyem
+- Beheeyem — Shiny Beheeyem | Shadow Beheeyem | Dynamax Beheeyem
+- Lampent — Shiny Lampent | Shadow Lampent | Dynamax Lampent
+- Fraxure — Shiny Fraxure | Shadow Fraxure | Dynamax Fraxure
+- Beartic — Shiny Beartic | Shadow Beartic | Dynamax Beartic
+- Cryogonal — Shiny Cryogonal | Shadow Cryogonal | Dynamax Cryogonal
+- Shelmet — Shiny Shelmet | Shadow Shelmet | Dynamax Shelmet
+- Accelgor — Shiny Accelgor | Shadow Accelgor | Dynamax Accelgor
+- Mienfoo — Shiny Mienfoo | Shadow Mienfoo | Dynamax Mienfoo
+- Mienshao — Shiny Mienshao | Shadow Mienshao | Dynamax Mienshao
+- Druddigon — Shiny Druddigon | Shadow Druddigon | Dynamax Druddigon
+- Golett — Shiny Golett | Shadow Golett | Dynamax Golett
+- Bouffalant — Shiny Bouffalant | Shadow Bouffalant | Dynamax Bouffalant
+- Rufflet — Shiny Rufflet | Shadow Rufflet | Dynamax Rufflet
+- Braviary — Hisuian Braviary | Hisui Braviary | Shiny Braviary | Braviary Hisui | Braviary Hisuian | Shadow Braviary | Dynamax Braviary
+- Vullaby — Shiny Vullaby | Shadow Vullaby | Dynamax Vullaby
+- Mandibuzz — Shiny Mandibuzz | Shadow Mandibuzz | Dynamax Mandibuzz
+- Heatmor — Shiny Heatmor | Shadow Heatmor | Dynamax Heatmor
+- Durant — Shiny Durant | Shadow Durant | Dynamax Durant
+- Zweilous — Shiny Zweilous | Shadow Zweilous | Dynamax Zweilous
+- Quilladin — Shiny Quilladin | Shadow Quilladin | Dynamax Quilladin
+- Diggersby — Shiny Diggersby | Shadow Diggersby | Dynamax Diggersby
+- Fletchinder — Shiny Fletchinder | Shadow Fletchinder | Dynamax Fletchinder
+- Scatterbug — Shiny Scatterbug | Shadow Scatterbug | Dynamax Scatterbug
+- Spewpa — Shiny Spewpa | Shadow Spewpa | Dynamax Spewpa
+- Litleo — Shiny Litleo | Shadow Litleo | Dynamax Litleo
+- Floette — Mega Floette | Shiny Floette | Floette Mega | Eternal Flower Floette | Eternal Floette | Floette Eternal | AZ's Floette | Shadow Floette | Dynamax Floette
+- Florges — Shiny Florges | Shadow Florges | Dynamax Florges
+- Skiddo — Shiny Skiddo | Shadow Skiddo | Dynamax Skiddo
+- Gogoat — Shiny Gogoat | Shadow Gogoat | Dynamax Gogoat
+- Doublade — Shiny Doublade | Shadow Doublade | Dynamax Doublade
+- Spritzee — Shiny Spritzee | Shadow Spritzee | Dynamax Spritzee
+- Aromatisse — Shiny Aromatisse | Shadow Aromatisse | Dynamax Aromatisse
+- Swirlix — Shiny Swirlix | Shadow Swirlix | Dynamax Swirlix
+- Slurpuff — Shiny Slurpuff | Shadow Slurpuff | Dynamax Slurpuff
+- Inkay — Shiny Inkay | Shadow Inkay | Dynamax Inkay
+- Malamar — Mega Malamar | Shiny Malamar | Malamar Mega | Shadow Malamar | Dynamax Malamar
+- Binacle — Shiny Binacle | Shadow Binacle | Dynamax Binacle
+- Barbaracle — Mega Barbaracle | Shiny Barbaracle | Barbaracle Mega | Shadow Barbaracle | Dynamax Barbaracle
+- Skrelp — Shiny Skrelp | Shadow Skrelp | Dynamax Skrelp
+- Dragalge — Mega Dragalge | Shiny Dragalge | Dragalge Mega | Shadow Dragalge | Dynamax Dragalge
+- Clauncher — Shiny Clauncher | Shadow Clauncher | Dynamax Clauncher
+- Clawitzer — Shiny Clawitzer | Shadow Clawitzer | Dynamax Clawitzer
+- Helioptile — Shiny Helioptile | Shadow Helioptile | Dynamax Helioptile
+- Heliolisk — Shiny Heliolisk | Shadow Heliolisk | Dynamax Heliolisk
+- Carbink — Shiny Carbink | Shadow Carbink | Dynamax Carbink
+- Sliggoo — Hisuian Sliggoo | Hisui Sliggoo | Shiny Sliggoo | Sliggoo Hisui | Sliggoo Hisuian | Shadow Sliggoo | Dynamax Sliggoo
+- Phantump — Shiny Phantump | Shadow Phantump | Dynamax Phantump
+- Gourgeist — Shiny Gourgeist | Shadow Gourgeist | Dynamax Gourgeist
+- Bergmite — Shiny Bergmite | Shadow Bergmite | Dynamax Bergmite
+- Avalugg — Hisuian Avalugg | Hisui Avalugg | Shiny Avalugg | Avalugg Hisui | Avalugg Hisuian | Shadow Avalugg | Dynamax Avalugg
+- Dartrix — Shiny Dartrix | Shadow Dartrix | Dynamax Dartrix
+- Torracat — Shiny Torracat | Shadow Torracat | Dynamax Torracat
+- Brionne — Shiny Brionne | Shadow Brionne | Dynamax Brionne
+- Trumbeak — Shiny Trumbeak | Shadow Trumbeak | Dynamax Trumbeak
+- Gumshoos — Shiny Gumshoos | Shadow Gumshoos | Dynamax Gumshoos
+- Charjabug — Shiny Charjabug | Shadow Charjabug | Dynamax Charjabug
+- Crabominable — Mega Crabominable | Shiny Crabominable | Crabominable Mega | Shadow Crabominable | Dynamax Crabominable
+- Ribombee — Shiny Ribombee | Shadow Ribombee | Dynamax Ribombee
+- Mudsdale — Shiny Mudsdale | Shadow Mudsdale | Dynamax Mudsdale
+- Dewpider — Shiny Dewpider | Shadow Dewpider | Dynamax Dewpider
+- Araquanid — Shiny Araquanid | Shadow Araquanid | Dynamax Araquanid
+- Fomantis — Shiny Fomantis | Shadow Fomantis | Dynamax Fomantis
+- Lurantis — Shiny Lurantis | Shadow Lurantis | Dynamax Lurantis
+- Morelull — Shiny Morelull | Shadow Morelull | Dynamax Morelull
+- Shiinotic — Shiny Shiinotic | Shadow Shiinotic | Dynamax Shiinotic
+- Salazzle — Shiny Salazzle | Shadow Salazzle | Dynamax Salazzle
+- Bounsweet — Shiny Bounsweet | Shadow Bounsweet | Dynamax Bounsweet
+- Steenee — Shiny Steenee | Shadow Steenee | Dynamax Steenee
+- Tsareena — Shiny Tsareena | Shadow Tsareena | Dynamax Tsareena
+- Comfey — Shiny Comfey | Shadow Comfey | Dynamax Comfey
+- Oranguru — Shiny Oranguru | Shadow Oranguru | Dynamax Oranguru
+- Passimian — Shiny Passimian | Shadow Passimian | Dynamax Passimian
+- Sandygast — Shiny Sandygast | Shadow Sandygast | Dynamax Sandygast
+- Palossand — Shiny Palossand | Shadow Palossand | Dynamax Palossand
+- Turtonator — Shiny Turtonator | Shadow Turtonator | Dynamax Turtonator
+- Bruxish — Shiny Bruxish | Shadow Bruxish | Dynamax Bruxish
+- Drampa — Mega Drampa | Shiny Drampa | Drampa Mega | Shadow Drampa | Dynamax Drampa
+- Jangmo-o — Shiny Jangmo-o | Shadow Jangmo-o | Dynamax Jangmo-o
+- Hakamo-o — Shiny Hakamo-o | Shadow Hakamo-o | Dynamax Hakamo-o
+- Kommo-o — Shiny Kommo-o | Shadow Kommo-o | Dynamax Kommo-o
+- Cosmoem — Shiny Cosmoem | Shadow Cosmoem | Dynamax Cosmoem
+- Nihilego — Shiny Nihilego | Shadow Nihilego | Dynamax Nihilego
+- Buzzwole — Shiny Buzzwole | Shadow Buzzwole | Dynamax Buzzwole
+- Pheromosa — Shiny Pheromosa | Shadow Pheromosa | Dynamax Pheromosa
+- Xurkitree — Shiny Xurkitree | Shadow Xurkitree | Dynamax Xurkitree
+- Celesteela — Shiny Celesteela | Shadow Celesteela | Dynamax Celesteela
+- Kartana — Shiny Kartana | Shadow Kartana | Dynamax Kartana
+- Guzzlord — Shiny Guzzlord | Shadow Guzzlord | Dynamax Guzzlord
+- Poipole — Shiny Poipole | Shadow Poipole | Dynamax Poipole
+- Naganadel — Shiny Naganadel | Shadow Naganadel | Dynamax Naganadel
+- Stakataka — Shiny Stakataka | Shadow Stakataka | Dynamax Stakataka
+- Blacephalon — Shiny Blacephalon | Shadow Blacephalon | Dynamax Blacephalon
+- Thwackey — Shiny Thwackey | Shadow Thwackey | Dynamax Thwackey
+- Raboot — Shiny Raboot | Shadow Raboot | Dynamax Raboot
+- Drizzile — Shiny Drizzile | Shadow Drizzile | Dynamax Drizzile
+- Skwovet — Shiny Skwovet | Shadow Skwovet | Dynamax Skwovet
+- Corvisquire — Shiny Corvisquire | Shadow Corvisquire | Dynamax Corvisquire
+- Blipbug — Shiny Blipbug | Shadow Blipbug | Dynamax Blipbug
+- Dottler — Shiny Dottler | Shadow Dottler | Dynamax Dottler
+- Orbeetle — Gigantamax Orbeetle | G-Max Orbeetle | Shiny Orbeetle | Orbeetle Gmax | Shadow Orbeetle | Dynamax Orbeetle
+- Nickit — Shiny Nickit | Shadow Nickit | Dynamax Nickit
+- Thievul — Shiny Thievul | Shadow Thievul | Dynamax Thievul
+- Gossifleur — Shiny Gossifleur | Shadow Gossifleur | Dynamax Gossifleur
+- Eldegoss — Shiny Eldegoss | Shadow Eldegoss | Dynamax Eldegoss
+- Chewtle — Shiny Chewtle | Shadow Chewtle | Dynamax Chewtle
+- Drednaw — Gigantamax Drednaw | G-Max Drednaw | Shiny Drednaw | Drednaw Gmax | Shadow Drednaw | Dynamax Drednaw
+- Rolycoly — Shiny Rolycoly | Shadow Rolycoly | Dynamax Rolycoly
+- Carkol — Shiny Carkol | Shadow Carkol | Dynamax Carkol
+- Coalossal — Gigantamax Coalossal | G-Max Coalossal | Shiny Coalossal | Coalossal Gmax | Shadow Coalossal | Dynamax Coalossal
+- Silicobra — Shiny Silicobra | Shadow Silicobra | Dynamax Silicobra
+- Sandaconda — Gigantamax Sandaconda | G-Max Sandaconda | Shiny Sandaconda | Sandaconda Gmax | Shadow Sandaconda | Dynamax Sandaconda
+- Arrokuda — Shiny Arrokuda | Shadow Arrokuda | Dynamax Arrokuda
+- Barraskewda — Shiny Barraskewda | Shadow Barraskewda | Dynamax Barraskewda
+- Sizzlipede — Shiny Sizzlipede | Shadow Sizzlipede | Dynamax Sizzlipede
+- Centiskorch — Gigantamax Centiskorch | G-Max Centiskorch | Shiny Centiskorch | Centiskorch Gmax | Shadow Centiskorch | Dynamax Centiskorch
+- Clobbopus — Shiny Clobbopus | Shadow Clobbopus | Dynamax Clobbopus
+- Grapploct — Shiny Grapploct | Shadow Grapploct | Dynamax Grapploct
+- Hatenna — Shiny Hatenna | Shadow Hatenna | Dynamax Hatenna
+- Hattrem — Shiny Hattrem | Shadow Hattrem | Dynamax Hattrem
+- Impidimp — Shiny Impidimp | Shadow Impidimp | Dynamax Impidimp
+- Morgrem — Shiny Morgrem | Shadow Morgrem | Dynamax Morgrem
+- Perrserker — Shiny Perrserker | Shadow Perrserker | Dynamax Perrserker
+- Cursola — Shiny Cursola | Shadow Cursola | Dynamax Cursola
+- Runerigus — Shiny Runerigus | Shadow Runerigus | Dynamax Runerigus
+- Milcery — Shiny Milcery | Shadow Milcery | Dynamax Milcery
+- Falinks — Mega Falinks | Shiny Falinks | Falinks Mega | Shadow Falinks | Dynamax Falinks
+- Pincurchin — Shiny Pincurchin | Shadow Pincurchin | Dynamax Pincurchin
+- Stonjourner — Shiny Stonjourner | Shadow Stonjourner | Dynamax Stonjourner
+- Indeedee — Shiny Indeedee | Female Indeedee | Male Indeedee | Indeedee Female | Shadow Indeedee | Dynamax Indeedee
+- Cufant — Shiny Cufant | Shadow Cufant | Dynamax Cufant
+- Copperajah — Gigantamax Copperajah | G-Max Copperajah | Shiny Copperajah | Copperajah Gmax | Shadow Copperajah | Dynamax Copperajah
+- Dracozolt — Shiny Dracozolt | Shadow Dracozolt | Dynamax Dracozolt
+- Arctozolt — Shiny Arctozolt | Shadow Arctozolt | Dynamax Arctozolt
+- Arctovish — Shiny Arctovish | Shadow Arctovish | Dynamax Arctovish
+- Drakloak — Shiny Drakloak | Shadow Drakloak | Dynamax Drakloak
+- Regieleki — Shiny Regieleki | Shadow Regieleki | Dynamax Regieleki
+- Regidrago — Shiny Regidrago | Shadow Regidrago | Dynamax Regidrago
+- Glastrier — Shiny Glastrier | Shadow Glastrier | Dynamax Glastrier
+- Spectrier — Shiny Spectrier | Shadow Spectrier | Dynamax Spectrier
+- Wyrdeer — Shiny Wyrdeer | Shadow Wyrdeer | Dynamax Wyrdeer
+- Kleavor — Shiny Kleavor | Shadow Kleavor | Dynamax Kleavor
+- Ursaluna — Shiny Ursaluna | Bloodmoon Ursaluna | Ursaluna Bloodmoon | Shadow Ursaluna | Dynamax Ursaluna
+- Basculegion — Shiny Basculegion | Female Basculegion | Male Basculegion | Basculegion Female | Shadow Basculegion | Dynamax Basculegion
+- Sneasler — Shiny Sneasler | Shadow Sneasler | Dynamax Sneasler
+- Overqwil — Shiny Overqwil | Shadow Overqwil | Dynamax Overqwil
+- Enamorus — Shiny Enamorus | Therian Enamorus | Enamorus Therian | Incarnate Enamorus | Shadow Enamorus | Dynamax Enamorus
+- Floragato — Shiny Floragato | Shadow Floragato | Dynamax Floragato
+- Crocalor — Shiny Crocalor | Shadow Crocalor | Dynamax Crocalor
+- Quaxwell — Shiny Quaxwell | Shadow Quaxwell | Dynamax Quaxwell
+- Oinkologne — Shiny Oinkologne | Female Oinkologne | Male Oinkologne | Shadow Oinkologne | Dynamax Oinkologne
+- Tarountula — Shiny Tarountula | Shadow Tarountula | Dynamax Tarountula
+- Spidops — Shiny Spidops | Shadow Spidops | Dynamax Spidops
+- Nymble — Shiny Nymble | Shadow Nymble | Dynamax Nymble
+- Lokix — Shiny Lokix | Shadow Lokix | Dynamax Lokix
+- Pawmo — Shiny Pawmo | Shadow Pawmo | Dynamax Pawmo
+- Dolliv — Shiny Dolliv | Shadow Dolliv | Dynamax Dolliv
+- Arboliva — Shiny Arboliva | Shadow Arboliva | Dynamax Arboliva
+- Naclstack — Shiny Naclstack | Shadow Naclstack | Dynamax Naclstack
+- Tadbulb — Shiny Tadbulb | Shadow Tadbulb | Dynamax Tadbulb
+- Bellibolt — Shiny Bellibolt | Shadow Bellibolt | Dynamax Bellibolt
+- Wattrel — Shiny Wattrel | Shadow Wattrel | Dynamax Wattrel
+- Kilowattrel — Shiny Kilowattrel | Shadow Kilowattrel | Dynamax Kilowattrel
+- Maschiff — Shiny Maschiff | Shadow Maschiff | Dynamax Maschiff
+- Mabosstiff — Shiny Mabosstiff | Shadow Mabosstiff | Dynamax Mabosstiff
+- Grafaiai — Shiny Grafaiai | Shadow Grafaiai | Dynamax Grafaiai
+- Bramblin — Shiny Bramblin | Shadow Bramblin | Dynamax Bramblin
+- Brambleghast — Shiny Brambleghast | Shadow Brambleghast | Dynamax Brambleghast
+- Toedscool — Shiny Toedscool | Shadow Toedscool | Dynamax Toedscool
+- Toedscruel — Shiny Toedscruel | Shadow Toedscruel | Dynamax Toedscruel
+- Klawf — Shiny Klawf | Shadow Klawf | Dynamax Klawf
+- Rellor — Shiny Rellor | Shadow Rellor | Dynamax Rellor
+- Rabsca — Shiny Rabsca | Shadow Rabsca | Dynamax Rabsca
+- Flittle — Shiny Flittle | Shadow Flittle | Dynamax Flittle
+- Espathra — Shiny Espathra | Shadow Espathra | Dynamax Espathra
+- Tinkatuff — Shiny Tinkatuff | Shadow Tinkatuff | Dynamax Tinkatuff
+- Wugtrio — Shiny Wugtrio | Shadow Wugtrio | Dynamax Wugtrio
+- Bombirdier — Shiny Bombirdier | Shadow Bombirdier | Dynamax Bombirdier
+- Finizen — Shiny Finizen | Shadow Finizen | Dynamax Finizen
+- Orthworm — Shiny Orthworm | Shadow Orthworm | Dynamax Orthworm
+- Glimmet — Shiny Glimmet | Shadow Glimmet | Dynamax Glimmet
+- Glimmora — Mega Glimmora | Shiny Glimmora | Glimmora Mega | Shadow Glimmora | Dynamax Glimmora
+- Houndstone — Shiny Houndstone | Shadow Houndstone | Dynamax Houndstone
+- Cetoddle — Shiny Cetoddle | Shadow Cetoddle | Dynamax Cetoddle
+- Cetitan — Shiny Cetitan | Shadow Cetitan | Dynamax Cetitan
+- Veluza — Shiny Veluza | Shadow Veluza | Dynamax Veluza
+- Farigiraf — Shiny Farigiraf | Shadow Farigiraf | Dynamax Farigiraf
+- Dudunsparce — Shiny Dudunsparce | Shadow Dudunsparce | Dynamax Dudunsparce
+- Scream Tail — Shiny Scream Tail | Shadow Scream Tail | Dynamax Scream Tail
+- Brute Bonnet — Shiny Brute Bonnet | Shadow Brute Bonnet | Dynamax Brute Bonnet
+- Slither Wing — Shiny Slither Wing | Shadow Slither Wing | Dynamax Slither Wing
+- Sandy Shocks — Shiny Sandy Shocks | Shadow Sandy Shocks | Dynamax Sandy Shocks
+- Iron Treads — Shiny Iron Treads | Shadow Iron Treads | Dynamax Iron Treads
+- Iron Bundle — Shiny Iron Bundle | Shadow Iron Bundle | Dynamax Iron Bundle
+- Iron Jugulis — Shiny Iron Jugulis | Shadow Iron Jugulis | Dynamax Iron Jugulis
+- Iron Moth — Shiny Iron Moth | Shadow Iron Moth | Dynamax Iron Moth
+- Iron Thorns — Shiny Iron Thorns | Shadow Iron Thorns | Dynamax Iron Thorns
+- Arctibax — Shiny Arctibax | Shadow Arctibax | Dynamax Arctibax
+- Wo-Chien — Shiny Wo-Chien | Shadow Wo-Chien | Dynamax Wo-Chien
+- Chien-Pao — Shiny Chien-Pao | Shadow Chien-Pao | Dynamax Chien-Pao
+- Ting-Lu — Shiny Ting-Lu | Shadow Ting-Lu | Dynamax Ting-Lu
+- Chi-Yu — Shiny Chi-Yu | Shadow Chi-Yu | Dynamax Chi-Yu
+- Walking Wake — Shiny Walking Wake | Shadow Walking Wake | Dynamax Walking Wake
+- Iron Leaves — Shiny Iron Leaves | Shadow Iron Leaves | Dynamax Iron Leaves
+- Dipplin — Shiny Dipplin | Shadow Dipplin | Dynamax Dipplin
+- Poltchageist — Shiny Poltchageist | Shadow Poltchageist | Dynamax Poltchageist
+- Sinistcha — Shiny Sinistcha | Shadow Sinistcha | Dynamax Sinistcha
+- Okidogi — Shiny Okidogi | Shadow Okidogi | Dynamax Okidogi
+- Munkidori — Shiny Munkidori | Shadow Munkidori | Dynamax Munkidori
+- Fezandipiti — Shiny Fezandipiti | Shadow Fezandipiti | Dynamax Fezandipiti
+- Archaludon — Shiny Archaludon | Shadow Archaludon | Dynamax Archaludon
+- Hydrapple — Shiny Hydrapple | Shadow Hydrapple | Dynamax Hydrapple
+- Gouging Fire — Shiny Gouging Fire | Shadow Gouging Fire | Dynamax Gouging Fire
+- Raging Bolt — Shiny Raging Bolt | Shadow Raging Bolt | Dynamax Raging Bolt
+- Iron Boulder — Shiny Iron Boulder | Shadow Iron Boulder | Dynamax Iron Boulder
+- Iron Crown — Shiny Iron Crown | Shadow Iron Crown | Dynamax Iron Crown
+
+### Tier 6: rare jackpots (3)
+
+- Spinda — Shiny Spinda | Shadow Spinda | Dynamax Spinda
+- Relicanth — Shiny Relicanth | Shadow Relicanth | Dynamax Relicanth
+- Dhelmise — Shiny Dhelmise | Shadow Dhelmise | Dynamax Dhelmise
+
+## Refused on purpose (7)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Pokémon | Pocket monster | Pocket monsters | Legendary | Legendary Pokémon — "Which Pokémon? The deep wants its name."
+- Poké Ball | Master Ball | Great Ball | Ultra Ball | Pokédex | Rare Candy | Potion | Pokémon Centre | Pokemon Center | Gym badge — "A trainer's gear, not a Pokémon."
+- Ash Ketchum | Ash | Misty | Brock | Professor Oak | Team Rocket | Jessie | James | Gary Oak | Nurse Joy | Officer Jenny | Liko | Roy — "A trainer, not a Pokémon."
+- Missingno — "A glitch in the first games, not a real Pokémon."
+- Mewthree | Mew 3 — "A playground rumour. It never existed."
+- Digimon | Agumon | Gabumon | Patamon — "From a rival franchise. The deep wants a Pokémon."
+- Eeveelution | Eeveelutions — "Which one? Eevee has eight."

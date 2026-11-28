@@ -1,0 +1,425 @@
+# Name an amphibian.
+
+Question id: `amphibians` · category: nature · source: `data/nature.json`
+
+Rules: Any amphibian, living or extinct, as a group or a single species: frogs, toads, newts, salamanders and the rest, tadpoles included. Reptiles such as lizards and turtles don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (364 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Frog — Anuran | Anura | Salientia | Batrachian | Mendhak | Mendak | Froggy | Puddock | Froggie
+- Toad — True toad | Bufonid | Bufo | Hoptoad
+- Newt — Eft
+- Salamander — Salamandra | Caudate | Caudata | Urodele | Urodela | Salamandrid | Spring lizard | Spring lizards
+- Axolotl — Mexican walking fish | Mexican axolotl | Ajolote | Ambystoma mexicanum | Axolotl salamander
+- Bullfrog — American bullfrog | North American bullfrog | Lithobates catesbeianus | Rana catesbeiana
+- Tree Frog — Tree toad | Hylid | Hyla
+- Poison Dart Frog — Poison arrow frog | Dart frog | Poison frog | Dendrobatid | Dendrobates | Ranitomeya
+- Cane Toad — Marine toad | Giant toad | Rhinella marina | Bufo marinus | Rhinella
+- Common Frog — European common frog | Grass frog | Brown frog | Rana temporaria
+
+### Tier 2: common (28)
+
+- Tadpole — Polliwog | Pollywog | Poliwog
+- Caecilian — Gymnophiona | Gymnophionan | Apoda | Apodan
+- Red-eyed Tree Frog — Red-eyed leaf frog | Agalychnis callidryas | Agalychnis
+- White's Tree Frog — Australian green tree frog | Green tree frog | Dumpy tree frog | Litoria caerulea | Ranoidea caerulea
+- Common Toad — European toad | Bufo bufo
+- Natterjack Toad — Natterjack | Epidalea calamita | Bufo calamita
+- American Toad — Anaxyrus americanus | Bufo americanus | Anaxyrus
+- Great Crested Newt — Crested newt | Warty newt | Northern crested newt | GCN | Triturus cristatus | Triturus
+- Smooth Newt — Common newt | Lissotriton vulgaris | Triturus vulgaris | Lissotriton
+- Fire Salamander — Common fire salamander | European fire salamander | Salamandra salamandra
+- Tiger Salamander — Eastern tiger salamander | Barred tiger salamander | Western tiger salamander | Ambystoma tigrinum | Ambystoma mavortium
+- Hellbender — Ozark hellbender | Eastern hellbender | Snot otter | Lasagna lizard | Allegheny alligator | Mud devil | Cryptobranchus | Cryptobranchus alleganiensis | Devil dog | Mud dog | Grampus | Hellbender salamander
+- Mudpuppy — Waterdog | Necturus | Necturus maculosus | Mudpuppy salamander
+- Olm — Proteus | Proteus anguinus | Human fish | Blind cave salamander | Olm salamander
+- Giant Salamander — Cryptobranchid | Andrias
+- Chinese Giant Salamander — Wawa yu | Baby fish | Andrias davidianus
+- Goliath Frog — Giant slippery frog | Conraua goliath | Conraua
+- Glass Frog — Centrolenid | Centrolenidae | Hyalinobatrachium
+- Golden Poison Frog — Golden dart frog | Golden poison dart frog | Phyllobates | Phyllobates terribilis
+- Leopard Frog — Northern leopard frog | Meadow frog | Lithobates pipiens | Rana pipiens | Lithobates
+- Wood Frog — Lithobates sylvaticus | Rana sylvatica
+- Spring Peeper — Peeper | Pseudacris crucifer
+- Pacman Frog — Horned frog | Ornate horned frog | Argentine horned frog | Cranwell's horned frog | Chacoan horned frog | Brazilian horned frog | Amazon horned frog | Ceratophrys | Ceratophrys ornata
+- African Clawed Frog — Clawed frog | African clawed toad | Clawed toad | Platanna | Xenopus | Xenopus laevis
+- Golden Toad — Monteverde golden toad | Monteverde toad | Incilius periglenes | Bufo periglenes
+- Fire-bellied Toad — Fire-bellied frog | Oriental fire-bellied toad | European fire-bellied toad | Bombina | Bombina orientalis | Bombina bombina
+- Surinam Toad — Suriname toad | Pipa | Pipa pipa
+- Flying Frog — Gliding frog | Rhacophorus | Rhacophorid
+
+### Tier 3: known to fans (49)
+
+- Palmate Newt — Lissotriton helveticus
+- Alpine Newt — Ichthyosaura alpestris | Triturus alpestris
+- Iberian Ribbed Newt — Sharp-ribbed newt | Spanish ribbed newt | Ribbed newt | Pleurodeles | Pleurodeles waltl
+- Eastern Newt — Red-spotted newt | Red eft | Notophthalmus | Notophthalmus viridescens
+- California Newt — Taricha | Taricha torosa
+- Rough-skinned Newt — Roughskin newt | Taricha granulosa
+- Fire-bellied Newt — Cynops
+- Japanese Giant Salamander — Hanzaki | Andrias japonicus | Osanshouo | Oosanshouuo
+- Spotted Salamander — Yellow-spotted salamander | Ambystoma maculatum
+- Mole Salamander — Ambystoma | Ambystomatid
+- Lungless Salamander — Plethodontid | Plethodon
+- Siren — Sirenid | Greater siren | Lesser siren | Mud eel | Siren lacertina | Siren intermedia | Siren salamander
+- Amphiuma — Amphiumid | Congo eel | Ditch eel | Two-toed amphiuma | Three-toed amphiuma | Congo snake | Amphiuma means
+- Edible Frog — Pelophylax esculentus | Rana esculenta
+- Pool Frog — Pelophylax lessonae | Rana lessonae
+- Marsh Frog — Laughing frog | Pelophylax ridibundus | Rana ridibunda
+- Midwife Toad — Common midwife toad | Alytes | Alytes obstetricans
+- Yellow-bellied Toad — Bombina variegata
+- European Green Toad — Green toad | Bufotes viridis | Bufo viridis
+- Western Toad — Boreal toad | Anaxyrus boreas
+- Colorado River Toad — Sonoran Desert toad | Incilius alvarius | Bufo alvarius
+- Spadefoot Toad — Spadefoot | Common spadefoot | Garlic toad | Western spadefoot | Eastern spadefoot | Iberian spadefoot | Couch's spadefoot | Scaphiopus | Spea | Pelobates | Plains spadefoot
+- African Bullfrog — Pixie frog | Giant bullfrog | African giant bullfrog | Pyxicephalus | Pyxicephalus adspersus
+- Indian Bullfrog — Tiger frog | Indus Valley bullfrog | Hoplobatrachus tigerinus
+- Green Frog — Bronze frog | Lithobates clamitans | Rana clamitans
+- European Tree Frog — Common tree frog | Hyla arborea
+- Grey Tree Frog — Cope's grey tree frog | Hyla versicolor | Hyla chrysoscelis | Gray Tree Frog | Cope's gray tree frog | Dryophytes | Dryophytes versicolor
+- American Green Tree Frog — Hyla cinerea
+- Pacific Tree Frog — Pacific chorus frog | Pseudacris regilla
+- Cuban Tree Frog — Osteopilus septentrionalis
+- Chorus Frog — Boreal chorus frog | Western chorus frog | Pseudacris
+- Strawberry Poison Frog — Strawberry dart frog | Blue jeans frog | Oophaga pumilio | Strawberry poison dart frog | Oophaga
+- Blue Poison Dart Frog — Blue dart frog | Blue poison frog | Okopipi | Dendrobates azureus
+- Mantella — Golden mantella | Mantella aurantiaca | Mantella frog | Painted mantella
+- Tomato Frog — Madagascar tomato frog | Dyscophus | Dyscophus antongilii
+- Desert Rain Frog — Breviceps macrops
+- Coqui — Common coqui | Eleutherodactylus coqui | Coqui frog
+- Wallace's Flying Frog — Rhacophorus nigropalmatus
+- Purple Frog — Mahabali frog | Pignose frog | Pig-nosed frog | Indian purple frog | Nasikabatrachus | Nasikabatrachus sahyadrensis
+- Hairy Frog — Horror frog | Wolverine frog | Trichobatrachus | Trichobatrachus robustus
+- Gastric-brooding Frog — Platypus frog | Southern gastric-brooding frog | Northern gastric-brooding frog | Rheobatrachus | Rheobatrachus silus
+- Darwin's Frog — Rhinoderma | Rhinoderma darwinii
+- Corroboree Frog — Southern corroboree frog | Northern corroboree frog | Pseudophryne corroboree | Corroboree
+- Panamanian Golden Frog — Golden frog | Atelopus zeteki
+- Harlequin Toad — Harlequin frog | Stubfoot toad | Atelopus
+- Lake Titicaca Water Frog — Titicaca water frog | Scrotum frog | Telmatobius culeus | Telmatobius
+- African Dwarf Frog — Dwarf clawed frog | Hymenochirus | Dwarf frog
+- True Frog — Ranid | Ranidae | Rana
+- Froglet — Toadlet | Crinia
+
+### Tier 4: obscure (70)
+
+- Marbled Newt — Triturus marmoratus
+- Japanese Fire-bellied Newt — Japanese newt | Cynops pyrrhogaster
+- Chinese Fire-bellied Newt — Oriental fire-bellied newt | Cynops orientalis
+- Crocodile Newt — Himalayan newt | Tylototriton | Indian newt
+- Emperor Newt — Mandarin newt | Mandarin salamander | Tylototriton shanjing
+- Paddle-tail Newt — Paddle-tailed newt | Paramesotriton
+- Kaiser's Spotted Newt — Emperor spotted newt | Neurergus kaiseri
+- South China Giant Salamander — Andrias sligoi
+- Alpine Salamander — Salamandra atra
+- Siberian Salamander — Salamandrella | Salamandrella keyserlingii
+- Marbled Salamander — Ambystoma opacum
+- Blue-spotted Salamander — Ambystoma laterale
+- Long-toed Salamander — Ambystoma macrodactylum
+- Red Salamander — Pseudotriton ruber
+- Red-backed Salamander — Eastern red-backed salamander | Redback salamander | Plethodon cinereus
+- Slimy Salamander — Plethodon glutinosus
+- Dusky Salamander — Desmognathus
+- Cave Salamander — Eurycea lucifuga
+- Texas Blind Salamander — Eurycea rathbuni | Typhlomolge
+- Ensatina — Ensatina eschscholtzii | Ensatina salamander
+- Pacific Giant Salamander — Coastal giant salamander | California giant salamander | Dicamptodon
+- Ringed Caecilian — Siphonops annulatus | Siphonops
+- Mexican Burrowing Caecilian — Dermophis mexicanus | Dermophis
+- Rubber Eel — Typhlonectes | Typhlonectes natans
+- Moor Frog — Rana arvalis
+- Agile Frog — Rana dalmatina
+- Painted Frog — Discoglossus
+- Parsley Frog — Pelodytes | Pelodytes punctatus
+- Southern Leopard Frog — Lithobates sphenocephalus
+- Pickerel Frog — Lithobates palustris
+- Red-legged Frog — California red-legged frog | Northern red-legged frog | Rana draytonii | Rana aurora
+- Cricket Frog — Northern cricket frog | Acris
+- Fowler's Toad — Anaxyrus fowleri
+- Asian Common Toad — Asian toad | Black-spined toad | Common Indian toad | Duttaphrynus melanostictus | Indian toad
+- Kihansi Spray Toad — Nectophrynoides asperginis
+- Budgett's Frog — Hippo frog | Lepidobatrachus | Lepidobatrachus laevis
+- Asian Horned Frog — Malayan horned frog | Asian horned toad | Long-nosed horned frog | Malayan leaf frog | Megophrys | Megophrys nasuta
+- Rain Frog — Black rain frog | Cape rain frog | Breviceps
+- Malabar Gliding Frog — Malabar flying frog | Rhacophorus malabaricus
+- Turtle Frog — Myobatrachus gouldii
+- Water-holding Frog — Cyclorana | Cyclorana platycephala
+- Banjo Frog — Pobblebonk | Eastern banjo frog | Limnodynastes dumerilii | Northern banjo frog
+- Mossy Frog — Vietnamese mossy frog | Theloderma corticale
+- Bornean Flat-headed Frog — Lungless frog | Barbourula kalimantanensis
+- Reed Frog — Painted reed frog | Hyperolius
+- Narrow-mouthed Frog — Narrowmouth toad | Microhylid | Microhylidae
+- Asian Painted Frog — Banded bullfrog | Chubby frog | Kaloula | Kaloula pulchra
+- Leaf Frog — Monkey frog | Phyllomedusa
+- Waxy Monkey Frog — Phyllomedusa sauvagii
+- Giant Monkey Frog — Giant leaf frog | Kambo | Phyllomedusa bicolor | Kambo frog
+- Amazon Milk Frog — Milk frog | Mission golden-eyed tree frog | Trachycephalus resinifictrix
+- Foam-nest Frog — Grey foam-nest tree frog | Foam-nest tree frog | Chiromantis | Chiromantis xerampelina | Gray foam-nest tree frog
+- Tailed Frog — Coastal tailed frog | Ascaphus
+- Crab-eating Frog — Mangrove frog | Fejervarya cancrivora
+- Paradoxical Frog — Shrinking frog | Pseudis paradoxa
+- Mexican Burrowing Toad — Rhinophrynus dorsalis
+- Dyeing Poison Frog — Dyeing dart frog | Dendrobates tinctorius
+- Green and Black Poison Frog — Green and black dart frog | Dendrobates auratus
+- Phantasmal Poison Frog — Phantasmal dart frog | Epipedobates tricolor
+- Yellow-banded Poison Frog — Bumblebee poison frog | Yellow-headed poison frog | Dendrobates leucomelas | Bumblebee dart frog | Bumblebee poison dart frog
+- Mountain Chicken — Mountain chicken frog | Giant ditch frog | Leptodactylus fallax
+- Marsupial Frog — Gastrotheca
+- Green and Golden Bell Frog — Green and gold bell frog | Litoria aurea | Golden bell frog
+- New Zealand Frog — Leiopelma | Leiopelmatid | Pepeketua
+- Water Frog — Pelophylax | European water frog
+- Brook Salamander — Eurycea
+- Temnospondyl — Temnospondyli
+- Eryops
+- Diplocaulus
+- Ichthyostega
+
+### Tier 5: expert (204)
+
+- Italian Crested Newt — Triturus carnifex
+- Danube Crested Newt — Triturus dobrogicus
+- Banded Newt — Ommatotriton
+- Carpathian Newt — Lissotriton montandoni
+- Pyrenean Brook Newt — Calotriton asper | Pyrenean newt
+- Black-spotted Newt — Notophthalmus meridionalis
+- Striped Newt — Notophthalmus perstriatus
+- Red-bellied Newt — Taricha rivularis
+- Japanese Sword-tailed Newt — Sword-tailed newt | Cynops ensicauda
+- Hong Kong Newt — Paramesotriton hongkongensis
+- Golden-striped Salamander — Chioglossa lusitanica
+- Spectacled Salamander — Salamandrina
+- Lycian Salamander — Luschan's salamander | Lyciasalamandra
+- Hynobius — Asian salamander | Hynobiid | Korean salamander
+- Clouded Salamander — Aneides ferreus
+- Arboreal Salamander — Aneides lugubris
+- Wandering Salamander — Aneides vagrans
+- Jefferson Salamander — Ambystoma jeffersonianum
+- California Tiger Salamander — Ambystoma californiense
+- Flatwoods Salamander — Ambystoma cingulatum
+- Lake Patzcuaro Salamander — Achoque | Ambystoma dumerilii
+- Two-lined Salamander — Eurycea bislineata
+- Tennessee Cave Salamander — Gyrinophilus palleucus
+- Grotto Salamander — Eurycea spelaea
+- Spring Salamander — Gyrinophilus porphyriticus
+- Four-toed Salamander — Hemidactylium scutatum
+- Green Salamander — Aneides aeneus
+- Seal Salamander — Desmognathus monticola
+- Pygmy Salamander — Desmognathus wrighti
+- Slender Salamander — Batrachoseps
+- Mushroom-tongue Salamander — Mushroom-tongued salamander | Bolitoglossa
+- Thorius — Minute salamander
+- Torrent Salamander — Rhyacotriton
+- European Cave Salamander — Speleomantes | Hydromantes
+- Dwarf Siren — Pseudobranchus
+- Taita African Caecilian — Boulengerula taitana
+- Chikila — Chikilidae
+- Ichthyophis
+- Mink Frog — Lithobates septentrionalis
+- Mountain Yellow-legged Frog — Rana muscosa
+- Foothill Yellow-legged Frog — Rana boylii
+- Cascades Frog — Rana cascadae
+- Columbia Spotted Frog — Rana luteiventris
+- Oregon Spotted Frog — Rana pretiosa
+- Pig Frog — Lithobates grylio
+- Carpenter Frog — Lithobates virgatipes
+- Crawfish Frog — Lithobates areolatus
+- Gopher Frog — Dusky gopher frog | Mississippi gopher frog | Lithobates capito
+- Barking Tree Frog — Hyla gratiosa
+- Squirrel Tree Frog — Hyla squirella
+- Pine Barrens Tree Frog — Hyla andersonii
+- Canyon Tree Frog — Hyla arenicolor
+- Japanese Tree Frog — Dryophytes japonicus | Hyla japonica
+- Iberian Frog — Rana iberica
+- Spiny Toad — Bufo spinosus
+- Woodhouse's Toad — Anaxyrus woodhousii
+- Great Plains Toad — Anaxyrus cognatus
+- Oak Toad — Anaxyrus quercicus
+- Wyoming Toad — Anaxyrus baxteri
+- Houston Toad — Anaxyrus houstonensis
+- Yosemite Toad — Anaxyrus canorus
+- Puerto Rican Crested Toad — Peltophryne lemur
+- Helmeted Water Toad — Calyptocephalella | Calyptocephalella gayi
+- Black-legged Poison Frog — Phyllobates bicolor
+- Mimic Poison Frog — Ranitomeya imitator
+- Lemur Leaf Frog — Agalychnis lemur
+- Crucifix Frog — Holy Cross toad | Notaden bennettii | Holy cross frog | Catholic frog | Crucifix toad
+- Sunset Frog — Spicospina flammocaerulea
+- Magnificent Tree Frog — Litoria splendida
+- Rocket Frog — Litoria nasuta
+- Motorbike Frog — Litoria moorei
+- Growling Grass Frog — Southern bell frog | Litoria raniformis
+- Baw Baw Frog — Philoria frosti
+- Giant Barred Frog — Mixophyes iteratus
+- Bubbling Kassina — Kassina senegalensis
+- Banana Frog — Afrixalus
+- Arum Lily Frog — Hyperolius horstockii
+- Madagascar Rainbow Frog — Scaphiophryne gottlebei | Rainbow frog
+- Chinese Edible Frog — Hoplobatrachus rugulosus
+- Indian Skipper Frog — Skipper frog | Euphlyctis cyanophlyctis
+- Common Indian Tree Frog — Polypedates maculatus | Indian tree frog
+- Bornean Tree-hole Frog — Metaphrynella sundana
+- Sambas Stream Toad — Bornean rainbow toad | Rainbow toad | Ansonia latidisca
+- Archey's Frog — Leiopelma archeyi
+- Hochstetter's Frog — Leiopelma hochstetteri
+- Hamilton's Frog — Maud Island frog | Leiopelma hamiltoni
+- Seychelles Frog — Gardiner's Seychelles frog | Sechellophryne gardineri | Sooglossus
+- Ghost Frog — Table Mountain ghost frog | Heleophryne
+- Shovel-nosed Frog — Hemisus
+- Concave-eared Torrent Frog — Odorrana tormota | Amolops tormotus
+- Torrent Frog — Amolops
+- Indian Dancing Frog — Dancing frog | Micrixalus
+- Hula Painted Frog — Latonia nigriventer | Discoglossus nigriventer
+- Rabbs' Fringe-limbed Treefrog — Rabbs' tree frog | Ecnomiohyla rabborum
+- Flea Toad — Brazilian flea toad | Brachycephalus pulex | Serra Bonita flea toad
+- Pumpkin Toadlet — Brachycephalus | Saddleback toad | Spix's saddleback toad
+- Lissamphibian — Lissamphibia
+- Labyrinthodont — Labyrinthodontia
+- Lepospondyl — Lepospondyli
+- Prionosuchus
+- Mastodonsaurus
+- Metoposaurus
+- Koolasuchus
+- Gerobatrachus — Frogamander | Gerobatrachus hottoni
+- Triadobatrachus
+- Acanthostega
+- Cacops
+- Climbing Salamander — Aneides
+- Red Hills Salamander — Phaeognathus hubrichti
+- Northwestern Salamander — Ambystoma gracile
+- Small-mouthed Salamander — Smallmouth salamander | Ambystoma texanum
+- Majorcan Midwife Toad — Mallorcan midwife toad | Ferreret | Alytes muletensis | Balearic midwife toad
+- Atretochoana — Atretochoana eiselti
+- Bhupathy's Purple Frog — Nasikabatrachus bhupathi
+- Greenhouse Frog — Eleutherodactylus planirostris
+- Bird-voiced Tree Frog — Hyla avivoca
+- River Frog — Lithobates heckscheri
+- Southern Toad — Anaxyrus terrestris
+- Gulf Coast Toad — Incilius nebulifer | Incilius valliceps
+- Red-spotted Toad — Anaxyrus punctatus
+- Arroyo Toad — Anaxyrus californicus
+- Guttural Toad — Sclerophrys gutturalis
+- Smoky Jungle Frog — Leptodactylus pentadactylus
+- Rococo Toad — Rhinella diptycha | Rhinella schneideri
+- Gladiator Frog — Rosenberg's tree frog | Boana rosenbergi
+- Túngara Frog — Engystomops pustulosus
+- Polka-dot Tree Frog — Boana punctata | Hypsiboas punctatus
+- Dainty Green Tree Frog — Litoria gracilenta
+- Striped Marsh Frog — Limnodynastes peronii
+- Brown Tree Frog — Southern brown tree frog | Ewing's tree frog | Litoria ewingii
+- Peron's Tree Frog — Emerald-spotted tree frog | Litoria peronii
+- White-lipped Tree Frog — Giant tree frog | Litoria infrafrenata | Nyctimystes infrafrenatus
+- Seymouria
+- Andrias scheuchzeri — Homo diluvii testis
+- Puddle Frog — Phrynobatrachus
+- Clown Tree Frog — Dendropsophus leucophyllatus
+- Golden Tree Frog — Phytotriades auratus
+- Asian Grass Frog — Rice frog | Rice field frog | Indian cricket frog | Fejervarya limnocharis
+- Black Salamander — Aneides flavipunctatus
+- Greek Stream Frog — Rana graeca
+- Balkan Crested Newt — Triturus ivanbureschi
+- Jiangxi Giant Salamander — Andrias jiangxiensis
+- Common Eastern Froglet — Crinia signifera
+- Spotted Marsh Frog — Spotted grass frog | Limnodynastes tasmaniensis
+- Sandhill Frog — Arenophryne rotunda
+- Ornate Burrowing Frog — Platyplectrum ornatum
+- Giant Burrowing Frog — Heleioporus australiacus
+- Bleating Tree Frog — Litoria dentata
+- Tusked Frog — Adelotus brevis
+- Red-crowned Toadlet — Pseudophryne australis
+- Stony Creek Frog — Litoria wilcoxii
+- Desert Tree Frog — Naked tree frog | Litoria rubella
+- Wallum Froglet — Crinia tinnula
+- Moaning Frog — Heleioporus eyrei
+- Spotted Tree Frog — Litoria spenceri
+- Booroolong Frog — Litoria booroolongensis
+- Armoured Mist Frog — Litoria lorica | Armored Mist Frog
+- Indian Burrowing Frog — Sphaerotheca breviceps
+- Ornate Narrow-mouthed Frog — Ornate microhylid | Microhyla ornata
+- Indian Balloon Frog — Uperodon globulosus
+- Malabar Tree Toad — Pedostibes tuberculosus
+- Night Frog — Nyctibatrachus
+- Fungoid Frog — Hydrophylax malabaricus
+- Bicoloured Frog — Clinotarsus curtipes | Bicolored Frog
+- Western Leopard Toad — Sclerophrys pantherina
+- Raucous Toad — Sclerophrys capensis
+- Red Toad — Schismaderma carens
+- Banded Rubber Frog — Rubber frog | Phrynomantis bifasciatus
+- Micro Frog — Microbatrachella capensis
+- Cape Platanna — Xenopus gilli
+- Squeaker Frog — Arthroleptis
+- Kajika Frog — Kajika | Buergeria buergeri
+- Japanese Brown Frog — Rana japonica
+- Black-spotted Pond Frog — Pelophylax nigromaculatus
+- Daruma Pond Frog — Pelophylax porosus
+- Japanese Toad — Bufo japonicus
+- Malayan Giant Frog — Limnonectes blythii
+- Fanged Frog — Limnonectes
+- Four-lined Tree Frog — Polypedates leucomystax
+- River Toad — Phrynoidis asper
+- Corsican Fire Salamander — Salamandra corsica
+- Near Eastern Fire Salamander — Salamandra infraimmaculata
+- Sardinian Brook Salamander — Euproctus platycephalus
+- Corsican Brook Newt — Euproctus montanus
+- Montseny Brook Newt — Calotriton arnoldi
+- Italian Agile Frog — Rana latastei
+- Balkan Frog — Pelophylax kurtmuelleri
+- Macedonian Crested Newt — Triturus macedonicus
+- Anatolian Crested Newt — Triturus anatolicus
+- Bosca's Newt — Lissotriton boscai
+- Pygmy Marbled Newt — Triturus pygmaeus
+- Albanerpeton — Albanerpetontid
+- Eocaecilia
+- Vieraella
+- Gerrothorax
+- Cyclotosaurus
+- Paracyclotosaurus
+- Archegosaurus
+- Sclerocephalus
+- Trematosaurus
+- Crassigyrinus
+- Proterogyrinus
+- Brachycephalus dacnis
+- Brazilian Gold Frog — Flea frog | Izecksohn's toad | Brachycephalus didactylus
+
+### Tier 6: rare jackpots (3)
+
+- Mini — Mini mum | Mini scule | Mini ature
+- Paedophryne amauensis — Paedophryne
+- Beelzebufo — Beelzebufo ampinga | Devil frog | Devil toad
+
+## Refused on purpose (27)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Amphibian — "That's the question. Which one?"
+- Lizard | Reptile | Gecko | Iguana | Chameleon | Skink | Anole | Monitor lizard | Komodo dragon | Bearded dragon | Water dragon | Leopard gecko | Crested gecko | Basilisk | Gila monster | Snake | Turtle | Tortoise | Terrapin | Crocodile | Alligator | Caiman | Gharial | Dinosaur — "A reptile, not an amphibian."
+- Slow worm | Blindworm | Glass lizard | Legless lizard | Worm lizard | Amphisbaena | Amphisbaenian — "A legless reptile, not an amphibian."
+- Tuatara — "A reptile from New Zealand, the last of an ancient line, not an amphibian."
+- Horned toad | Horned lizard | Horny toad — "A lizard, despite the name."
+- Mudskipper | Lungfish | Walking catfish | Bichir | Snakehead — "A fish, not an amphibian, however long it spends out of water."
+- Toadfish | Frogfish | Conger eels | Eel | Coelacanth — "A fish, not an amphibian."
+- Tiktaalik — "A fish with fins on the way to becoming legs, not yet an amphibian."
+- Frogmouth | Tawny frogmouth | Penguin | Ducks — "A bird, not an amphibian."
+- Crab | Crayfish | Lobster — "A crustacean, not an amphibian, though some live both in water and on land."
+- Froghopper | Spittlebug — "An insect, not an amphibian."
+- Tadpole shrimp | Triops — "A crustacean, not an amphibian, whatever its name."
+- Toad lily | Toadflax | Frogbit | Frog orchid — "A plant, not an amphibian."
+- Toadstool — "A fungus, not an amphibian."
+- Platypus | Duck-billed platypus | Otter | Beaver | Hippopotamus | Hippo | Seals | Water vole | Capybara — "A mammal at home in water and on land, but not an amphibian."
+- Earthworm | Worm | Leech — "A worm, not an amphibian, though some amphibians look like one."
+- Slug | Snail — "A mollusc, not an amphibian, however slimy."
+- Kermit | Kermit the Frog | Mr Toad | Toad of Toad Hall | Pepe the Frog | Michigan J. Frog | Froggers | Jeremy Fisher | Mr Jeremy Fisher | Frog prince | Prince Naveen | Crazy Frog | Hypnotoad | Keroppi | Slippy Toad | Gill-man | Creature from the Black Lagoon — "A character, not a species. Name a real one."
+- Chocolate frog | Freddo | Freddo Frog — "A sweet, not an amphibian."
+- Froakie | Frogadier | Greninja | Poliwags | Poliwhirl | Poliwrath | Politoed | Wooper | Quagsire | Clodsire | Mudkip | Marshtomp | Swampert | Croagunk | Toxicroak | Tympoles | Palpitoad | Seismitoad — "A Pokémon, not an amphibian of this world."
+- Deep One | Deep Ones — "A creature from H. P. Lovecraft's stories, not a real amphibian."
+- Tsathoggua — "A toad-like god from Clark Ashton Smith's stories, borrowed by H. P. Lovecraft. Not a real amphibian."
+- Tetrapod — "Too broad. Amphibians are tetrapods, but so are you."
+- Amphibious vehicle | Hovercraft | Duck boat | DUKW — "A vehicle, not an animal."
+- Frogman — "A diver, not an amphibian."
+- Frogspawn | Toadspawn — "Eggs. Name what hatches out of them."
+- Toad in the hole | Frogs' legs | Frog legs — "A dish, not an animal."

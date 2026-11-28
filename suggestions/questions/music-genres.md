@@ -1,0 +1,718 @@
+# Name a genre of music.
+
+Question id: `music-genres` · category: misc · source: `data/misc.json`
+
+Rules: Any genre or style of music, from classical and folk to the newest corners of the internet, subgenres included. Instruments, bands and record labels don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (673 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Rock — Rock music
+- Pop — Popular music | Chart music | Top 40 | Pop music | Top 40 music
+- Jazz — Jazz music
+- Classical — Classical music | Western classical | Western classical music | Classical period | Classical era | Classical period music | Classical era music
+- Hip-hop — Hip-hop music
+- Rap — Rapping | Rap music | Rapping music
+- Blues — Blues music
+- Country — Country and western | C&W | Country music | Country and western music | C&W music
+- Reggae — Reggae music
+- Heavy metal — Metal | Heavy metal music | Metal music
+- Punk — Punk music
+- Folk — Folk music | Traditional folk | Traditional folk music
+- Soul — Soul music
+- R&B — RnB | Rhythm and blues | Contemporary R&B | R&B music | RnB music | Rhythm and blues music | Contemporary R&B music
+- Indie — Indie music
+
+### Tier 2: common (52)
+
+- Disco — Disco music
+- Techno — Techno music
+- House — House music
+- Opera — Opera music
+- Funk — Funk music
+- Gospel — Gospel music
+- Electronic — Electronica | Electronic music | Electronica music
+- Dance — Dance music | Club music
+- Grunge — Grunge music
+- Ska — Ska music
+- Motown — Motown sound | Motown music | Motown sound music
+- Rock and roll — Rock 'n' roll | Rock and roll music | Rock 'n' roll music
+- Swing — Swing music
+- Big band — Big band music
+- Trance — Trance music
+- Drum and bass — Drum 'n' bass | DnB | D&B | Drum and bass music | Drum 'n' bass music | DnB music | D&B music
+- Dubstep — Dubstep music
+- UK garage — UKG | 2-step | Two-step garage | UK garage music | UKG music | 2-step music | Two-step garage music
+- Grime — Grime music
+- K-pop — Korean pop | K-pop music | Korean pop music
+- Emo — Emo rock | Emo music | Emo rock music
+- Goth — Goth rock | Gothic rock | Gothic | Goth music | Goth rock music | Gothic rock music | Gothic music
+- Britpop — Britpop music
+- New wave — New wave music
+- Punk rock — Punk rock music
+- Hard rock — Hard rock music
+- Alternative rock — Alternative | Alt-rock | Alternative rock music | Alternative music | Alt-rock music
+- Death metal — Death metal music
+- Glam rock — Glam rock music | Glam | Glam music
+- Prog rock — Progressive rock | Prog | Prog rock music | Progressive rock music | Prog music
+- Psychedelic rock — Psychedelia | Psychedelic | Psych rock | Psychedelic rock music | Psychedelia music | Psychedelic music | Psych rock music
+- Bluegrass — Bluegrass music
+- Salsa — Salsa music
+- Reggaeton — Reggaeton music
+- Latin — Latin music | Latin American | Latin American music
+- Flamenco — Flamenco music
+- Calypso — Calypso music
+- Ambient — Ambient music
+- Lo-fi — Low-fi | Lo-fi hip hop | Lo-fi music | Low-fi music | Lo-fi hip hop music | Chillhop | Lo-fi beats | Chillhop music | Lo-fi beats music
+- EDM — Electronic dance music | EDM music
+- Trap — Trap music
+- Drill — UK drill | Chicago drill | Drill music | UK drill music | Chicago drill music
+- Afrobeats — Afropop | Afrobeats music | Afropop music
+- Jungle — Jungle music
+- Acid house — Acid house music
+- Rave — Rave music
+- Musical theatre — Musical theater | Musicals | Show tunes | Broadway | Musical theatre music | Musical theater music | Musicals music | Show tunes music | Broadway music
+- Baroque — Baroque music
+- Bossa nova — Bossa nova music
+- Synth-pop — Electropop synth | Synth-pop music | Electropop synth music
+- Garage — Garage music | Garage house | Garage house music
+- Classic rock — Classic rock music
+
+### Tier 3: known to fans (130)
+
+- Rockabilly — Rockabilly music
+- Surf rock — Surf music | Surf | Surf rock music
+- Merseybeat — Mersey sound | Beat music | Merseybeat music | Mersey sound music
+- Garage rock — Garage rock music
+- Blues rock — Blues rock music
+- Southern rock — Southern rock music
+- Folk rock — Folk rock music
+- Country rock — Country rock music
+- Soft rock — Light rock | Soft rock music | Light rock music
+- Yacht rock — West Coast sound | Yacht rock music | West Coast sound music
+- Post-punk — Post-punk music
+- Hardcore punk — Hardcore punk rock | Hardcore punk music | Hardcore punk rock music
+- Pop punk — Pop punk music
+- Indie rock — Indie rock music
+- Shoegaze — Shoegazing | Shoegazer | Shoegaze music | Shoegazing music | Shoegazer music
+- Dream pop — Dream pop music
+- Madchester — Baggy | Madchester music | Baggy music
+- Post-rock — Post-rock music
+- Krautrock — Kosmische Musik | Kosmische | Krautrock music | Kosmische Musik music | Kosmische music
+- Industrial — Industrial music | Industrial rock | Industrial rock music
+- New Romantic — New Romantics | New Romantic music | New Romantics music
+- Nu metal — Nu metal music
+- Rap rock — Rap rock music
+- Black metal — Black metal music
+- Thrash metal — Thrash metal music | Thrash | Thrash music
+- Doom metal — Doom metal music | Doom | Doom music
+- Power metal — Power metal music
+- Glam metal — Hair metal | Glam metal music | Hair metal music
+- Metalcore — Metalcore music
+- Ska punk — Ska punk music
+- Bubblegum pop — Bubblegum | Bubblegum pop music | Bubblegum music
+- Dance-pop — Dance-pop music
+- Electropop — Electropop music
+- Indie pop — Indie pop music
+- Hyperpop — Hyperpop music
+- Europop — Europop music
+- Eurodance — Eurodance music
+- Italo disco — Italo | Italo disco music | Italo music
+- Easy listening — Middle of the road | MOR | Easy listening music | Middle of the road music | MOR music
+- Synthwave — Retrowave | Outrun | Synthwave music | Retrowave music | Outrun music
+- Vaporwave — Vaporwave music
+- Deep house — Deep house music
+- Tech house — Tech house music
+- Psytrance — Psychedelic trance | Psytrance music | Psychedelic trance music
+- Hardstyle — Hardstyle music
+- Happy hardcore — Hardcore techno | Happy hardcore music | Hardcore techno music
+- Breakbeat — Breakbeat music
+- Big beat — Big beat music
+- Trip hop — Bristol sound | Trip hop music | Bristol sound music
+- Chillout — Chill | Chillout music | Chill music
+- Electro — Electro music
+- Chiptune — 8-bit music | Chip music | Chiptune music
+- Electro swing — Electro swing music
+- Phonk — Phonk music | Drift phonk | Drift phonk music
+- Amapiano — Amapiano music
+- Gangsta rap — Gangster rap | Gangsta rap music | Gangster rap music
+- Northern soul — Northern soul music
+- Neo soul — Neo soul music
+- New jack swing — New jack swing music
+- Doo-wop — Doo-wop music
+- Spirituals — Spiritual | Spirituals music | Spiritual music
+- Delta blues — Delta blues music
+- Chicago blues — Chicago blues music
+- Boogie-woogie — Boogie-woogie music
+- Ragtime — Ragtime music
+- Bebop — Bop | Bebop music | Bop music
+- Dixieland — New Orleans jazz | Trad jazz | Traditional jazz | Dixieland music | New Orleans jazz music | Trad jazz music | Traditional jazz music
+- Free jazz — Free jazz music
+- Jazz fusion — Fusion | Jazz fusion music | Fusion music | Jazz-rock | Jazz-rock music
+- Acid jazz — Acid jazz music
+- Smooth jazz — Smooth jazz music
+- Gypsy jazz — Jazz manouche | Gypsy jazz music | Jazz manouche music
+- Honky-tonk — Honky-tonk music
+- Americana — Americana music
+- Cajun — Cajun music
+- Zydeco — Zydeco music
+- Celtic — Celtic music
+- Sea shanty — Shanties | Sea shanties | Shanty | Sea shanty music | Shanties music | Sea shanties music | Shanty music
+- Skiffle — Skiffle music
+- Singer-songwriter — Singer-songwriter music
+- World music — World
+- Samba — Samba music
+- Tango — Tango music
+- Fado — Fado music
+- Mariachi — Mariachi music
+- Cumbia — Cumbia music
+- Merengue — Merengue music
+- Bachata — Bachata music
+- Mambo — Mambo music
+- Soca — Soca music
+- Dancehall — Dancehall music | Bashment | Bashment music
+- Dub — Dub music
+- Two-tone — 2 Tone | Two-tone music | 2 Tone music
+- Afrobeat — Afrobeat music
+- Bhangra — Bhangra music
+- Qawwali — Qawwali music
+- Bollywood — Filmi | Bollywood music | Filmi music
+- Indian classical — Raga | Indian classical music | Raga music
+- J-pop — Japanese pop | J-pop music | Japanese pop music
+- Gamelan — Gamelan music
+- Klezmer — Klezmer music
+- Polka — Polka music
+- Chanson — Chanson music
+- Gregorian chant — Plainsong | Plainchant | Chant | Gregorian chant music | Plainsong music | Plainchant music | Chant music
+- Romantic — Romanticism | Romantic era | Romantic music | Romanticism music | Romantic era music
+- Minimalism — Minimalist | Minimal music | Minimalism music | Minimalist music
+- Contemporary classical — Modern classical | Contemporary classical music | Modern classical music
+- Operetta — Operetta music
+- Cabaret — Cabaret music
+- Barbershop — Barbershop quartet | Barbershop music | Barbershop quartet music
+- A cappella — Acapella | A capella | A cappella music | Acapella music | A capella music
+- Choral — Choral music | Choir | Choir music
+- Chamber music — String quartet | Chamber | String quartet music
+- Orchestral — Symphonic | Orchestral music | Symphony | Symphonies | Symphonic music | Symphony music | Symphonies music
+- Film score — Soundtrack | Film music | Movie soundtrack | Soundtracks | Film score music | Soundtrack music | Movie soundtrack music | Soundtracks music
+- Video game music — Game music | VGM | VGM music
+- Elevator music — Muzak | Lift music | Muzak music | Background music
+- Lounge — Lounge music
+- New-age — Meditation music | New-age music
+- Noise — Noise music | Japanoise | Japanoise music
+- Experimental — Experimental music
+- Marching band — Military music | Marches | March | Military band | Marching band music | Marches music | March music | Military band music
+- Brass band — Brass band music
+- Steel band — Steelpan | Steel drums music | Steel band music | Steelpan music
+- Music hall — Music hall music
+- Hardcore — Hardcore music
+- Instrumental — Instrumental music
+- Pop rock — Pop rock music
+- Oldies — Golden oldies | Oldies music | Golden oldies music
+- Ballad — Ballads | Ballad music | Ballads music
+
+### Tier 4: obscure (217)
+
+- Acid rock — Acid rock music
+- Art rock — Art rock music
+- AOR — Album-oriented rock | AOR music | Album-oriented rock music
+- Arena rock — Stadium rock | Arena rock music | Stadium rock music
+- Screamo — Screamo music
+- Noise rock — Noise rock music
+- Math rock — Math rock music
+- Stoner rock — Stoner rock music
+- Space rock — Space rock music
+- Darkwave — Darkwave music
+- Post-grunge — Post-grunge music
+- Rap metal — Rapcore | Rap metal music | Rapcore music
+- Funk rock — Funk rock music
+- Christian rock — Christian rock music
+- Celtic rock — Celtic rock music
+- Folk metal — Folk metal music
+- Viking metal — Viking metal music
+- Speed metal — Speed metal music
+- Sludge metal — Sludge metal music
+- Deathcore — Deathcore music
+- Djent — Djent music
+- Symphonic metal — Symphonic metal music
+- Progressive metal — Progressive metal music | Prog metal | Prog metal music
+- Industrial metal — Industrial metal music
+- Groove metal — Groove metal music
+- Grindcore — Grindcore music
+- Gothic metal — Gothic metal music
+- Oi! — Oi! music
+- Riot grrrl — Riot grrl | Riot girl | Riot grrrl music | Riot grrl music | Riot girl music
+- Celtic punk — Celtic punk music
+- Psychobilly — Psychobilly music
+- Jangle pop — Jangle pop music
+- Power pop — Power pop music
+- Pub rock — Pub rock music
+- Roots rock — Roots rock music
+- Jam band — Jam bands | Jam band music | Jam bands music
+- Post-hardcore — Post-hardcore music
+- Teen pop — Teen pop music
+- Art pop — Art pop music
+- Baroque pop — Baroque pop music
+- Bedroom pop — Bedroom pop music
+- Hi-NRG — High energy | Hi-NRG music | High energy music
+- Eurobeat — Eurobeat music
+- Latin pop — Latin pop music
+- Power ballad — Power ballads | Power ballad music | Power ballads music
+- Adult contemporary — Adult contemporary music
+- Schlager — Schlager music
+- Yé-yé — Yé-yé music
+- City pop — City pop music
+- Chillwave — Chillwave music
+- Glitch — Glitch music
+- Progressive house — Progressive house music
+- Electro house — Electro house music
+- Chicago house — Chicago house music
+- Detroit techno — Detroit techno music
+- Minimal techno — Minimal techno music
+- Goa trance — Goa trance music
+- Gabber — Gabber music
+- Speed garage — Speed garage music
+- Bassline — Bassline music
+- Bass music
+- Downtempo — Downtempo music
+- Dark ambient — Dark ambient music
+- Drone — Drone music
+- IDM — IDM music
+- Electroclash — Electroclash music
+- EBM — EBM music
+- Nu-disco — Nu-disco music
+- French house — French touch | French house music | French touch music
+- Balearic — Balearic music
+- Brazilian funk — Baile funk | Funk carioca | Brazilian funk music | Baile funk music | Funk carioca music
+- Afro house — Afro house music
+- Future bass — Future bass music
+- Boom bap — Boom bap music
+- Conscious hip-hop — Conscious rap | Conscious hip-hop music | Conscious rap music
+- Alternative hip-hop — Alternative rap | Alt hip-hop | Alternative hip-hop music | Alternative rap music | Alt hip-hop music
+- Jazz rap — Jazz rap music
+- Crunk — Crunk music
+- G-funk — G-funk music
+- Old-school hip-hop — Old school | Old-school hip-hop music | Old school music
+- Mumble rap — Mumble rap music
+- Emo rap — Emo rap music
+- SoundCloud rap — SoundCloud rap music
+- Afroswing — Afroswing music
+- Latin trap — Latin trap music
+- P-Funk — Parliament-Funkadelic | P-Funk music | Parliament-Funkadelic music
+- Go-go — Go-go music
+- Philly soul — Philadelphia soul | Philly soul music | Philadelphia soul music
+- Southern soul — Southern soul music
+- Blue-eyed soul — Blue-eyed soul music
+- Electric blues — Electric blues music
+- Cool jazz — Cool jazz music
+- Hard bop — Hard bop music
+- Modal jazz — Modal jazz music
+- Latin jazz — Latin jazz music
+- Vocal jazz — Vocal jazz music
+- Outlaw country — Outlaw country music
+- Alt-country — Alt-country music
+- Western swing — Western swing music
+- Country pop — Country pop music
+- Old-time — Old-time music
+- Indie folk — Indie folk music
+- Protest music
+- Christmas music — Christmas carols | Carols | Christmas songs | Christmas carols music | Carols music | Christmas | Xmas music | Holiday music
+- Children's music — Nursery rhymes | Kids' music | Nursery rhymes music
+- Novelty songs — Novelty | Novelty music | Parody | Parody songs | Comedy songs | Parody music
+- Comedy music
+- Exotica — Exotica music
+- Musique concrète — Musique concrète music
+- Avant-garde — Avant-garde jazz | Avant-garde music | Avant-garde jazz music
+- Serialism — Twelve-tone | Dodecaphony | Serialism music | Twelve-tone music | Dodecaphony music
+- Atonal — Atonality | Atonal music | Atonality music
+- Impressionism — Impressionist | Impressionism music | Impressionist music
+- Neoclassical — Neoclassical music
+- Early music — Medieval | Medieval music
+- Renaissance — Renaissance music
+- Madrigal — Madrigal music
+- Hymns — Hymn | Hymns music | Hymn music
+- Lullabies — Lullaby | Lullabies music | Lullaby music
+- Contemporary Christian — Christian | Christian music | CCM | Contemporary Christian music | CCM music
+- Worship — Worship music | Praise and worship | Worship songs | Praise and worship music
+- Sufi music — Sufi
+- Ghazal — Ghazal music
+- Carnatic — Carnatic music
+- Hindustani classical — Hindustani | Hindustani classical music | Hindustani music
+- Bhajan — Bhajan music
+- Kirtan — Kirtan music
+- J-rock — J-rock music
+- Enka — Enka music
+- Visual kei — Visual kei music
+- Vocaloid — Vocaloid music
+- C-pop — C-pop music
+- Cantopop — Cantopop music
+- Mandopop — Mandopop music
+- Chinese opera — Peking opera | Beijing opera | Cantonese opera | Chinese opera music | Peking opera music | Beijing opera music | Cantonese opera music
+- Taiko — Taiko drumming | Taiko music | Taiko drumming music
+- Throat singing — Tuvan throat singing | Overtone singing | Throat singing music | Tuvan throat singing music | Overtone singing music
+- Yodelling — Yodeling | Yodel | Yodelling music | Yodeling music | Yodel music
+- Pipe band — Bagpipe music | Pipe band music
+- Rebetiko — Rembetiko | Rebetiko music | Rembetiko music
+- Vallenato — Vallenato music
+- Ranchera — Ranchera music
+- Norteño — Norteño music
+- Banda — Banda music
+- Corrido — Corridos | Corrido music | Corridos music
+- Tejano — Tejano music
+- Son cubano — Son | Son cubano music | Son music
+- Cha-cha — Cha-cha music
+- Rumba — Rumba music
+- Bolero — Bolero music
+- Zouk — Zouk music
+- Forró — Forró music
+- Sertanejo — Sertanejo music
+- MPB — MPB music
+- Tropicália — Tropicália music
+- Choro — Choro music
+- Rocksteady — Rocksteady music
+- Lovers rock — Lovers rock music
+- Roots reggae — Roots reggae music
+- Ragga — Raggamuffin | Ragga music | Raggamuffin music
+- Highlife — Highlife music
+- Soukous — Soukous music
+- Raï — Raï music
+- Waltz — Waltz music
+- Mashup — Bastard pop | Mashup music | Bastard pop music
+- Concerto — Concerto music
+- Sonata — Sonata music
+- Requiem — Requiem music
+- Girl group — Girl group sound | Girl group music | Girl group sound music
+- Traditional pop — Trad pop | Traditional pop music | Trad pop music
+- Light music — Light orchestral | Light classical | Light orchestral music | Light classical music
+- Spoken word — Spoken word music
+- Acoustic — Acoustic music
+- Alternative metal — Alt-metal | Alternative metal music | Alt-metal music
+- NWOBHM — New Wave of British Heavy Metal | NWOBHM music | New Wave of British Heavy Metal music
+- Melodic death metal — Melodeath | Melodic death metal music | Melodeath music
+- Skate punk — Skate punk music
+- Mod revival — Mod | Mod music | Mod revival music
+- British Invasion — British Invasion music
+- Post-punk revival — Garage rock revival | Post-punk revival music | Garage rock revival music
+- Oz rock — Aussie rock | Australian rock | Oz rock music | Aussie rock music | Australian rock music
+- Tropical house — Trop house | Tropical house music | Trop house music
+- Hard house — Hard house music
+- Hard techno — Hard techno music
+- Melodic techno — Melodic techno music
+- Breakcore — Breakcore music
+- Nightcore — Nightcore music
+- Future house — Future house music
+- Big room — Big room house | Big room music | Big room house music
+- Freestyle — Latin freestyle | Freestyle music | Latin freestyle music
+- East Coast hip-hop — East Coast rap | East Coast hip-hop music | East Coast rap music
+- West Coast hip-hop — West Coast rap | West Coast hip-hop music | West Coast rap music
+- Southern hip-hop — Dirty South | Southern rap | Southern hip-hop music | Dirty South music | Southern rap music
+- UK hip-hop — UK rap | British hip-hop | UK hip-hop music | UK rap music | British hip-hop music
+- Country rap — Hick-hop | Country hip-hop | Country rap music | Hick-hop music | Country hip-hop music
+- Urban contemporary — Urban | Urban music | Urban contemporary music
+- Alternative R&B — Alt R&B | PBR&B | Indie R&B | Alternative R&B music | Alt R&B music | PBR&B music | Indie R&B music
+- Psychedelic soul — Psychedelic soul music
+- Soul jazz — Soul jazz music
+- Memphis soul — Stax sound | Memphis soul music | Stax sound music
+- Jazz-funk — Jazz-funk music
+- English folk — English folk music
+- Irish traditional music — Irish trad | Irish folk | Irish music | Trad | Irish trad music | Irish folk music | Trad music
+- Ceilidh — Ceilidh music | Scottish country dance music
+- Regional Mexican — Música mexicana | Regional Mexican music | Música mexicana music
+- Latin rock — Rock en español | Latin rock music | Rock en español music
+- Kizomba — Kizomba music
+- Congolese rumba — Rumba congolaise | African rumba | Congolese rumba music | Rumba congolaise music | African rumba music
+- Punjabi pop — Punjabi music | Punjabi pop music
+- Indian pop — Hindi pop | Indian pop music | Hindi pop music
+- Hawaiian music — Hawaiian | Slack-key | Slack-key music
+- Art song — Lieder | Lied | Mélodie | Art song music | Lieder music | Lied music | Mélodie music
+- Sacred music — Church music | Religious music
+- Oratorio — Oratorio music
+- Cantata — Cantata music
+- Nasheed — Nasheeds | Anasheed | Nasheed music | Nasheeds music | Anasheed music
+- Lambada — Lambada music
+
+### Tier 5: expert (257)
+
+- Coldwave — Coldwave music
+- Drone metal — Drone metal music
+- Post-metal — Post-metal music
+- Mathcore — Mathcore music
+- Crust punk — Crust punk music
+- Street punk — Street punk music
+- Anarcho-punk — Anarcho-punk music
+- Gypsy punk — Gypsy punk music
+- Horror punk — Horror punk music
+- Deathrock — Deathrock music
+- Twee pop — Twee pop music
+- Heartland rock — Heartland rock music
+- Neo-psychedelia — Neo-psychedelia music
+- Midwest emo — Midwest emo music
+- Sunshine pop — Sunshine pop music
+- Chamber pop — Orchestral pop | Chamber pop music | Orchestral pop music
+- Sophisti-pop — Sophisti-pop music
+- Space age pop — Space age | Space age pop music | Space age music
+- Plunderphonics — Plunderphonics music
+- Witch house — Witch house music
+- Liquid funk — Liquid funk music
+- Neurofunk — Neurofunk music
+- Brostep — Brostep music
+- Footwork — Footwork music | Juke | Juke music
+- Baltimore club — Baltimore club music
+- Jersey club — Jersey club music
+- Moombahton — Moombahton music
+- Kuduro — Kuduro music
+- Gqom — Gqom music
+- Horrorcore — Horrorcore music
+- Hyphy — Hyphy music
+- Bounce — Bounce music
+- Chopped and screwed — Screwed and chopped | Chopped and screwed music | Screwed and chopped music
+- Cloud rap — Cloud rap music
+- Nerdcore — Nerdcore music
+- Dembow — Dembow music
+- Quiet storm — Quiet storm music
+- Jump blues — Jump blues music
+- Spiritual jazz — Spiritual jazz music
+- Stride — Stride piano | Stride music | Stride piano music
+- Bro-country — Bro-country music
+- Nashville sound — Nashville sound music
+- Bakersfield sound — Bakersfield sound music
+- Anti-folk — Anti-folk music
+- Freak folk — Freak folk music
+- Electroacoustic — Electroacoustic music
+- Mento — Mento music
+- Kompa — Kompa music | Compas | Compas direct | Compas music | Compas direct music
+- Chutney — Chutney music
+- Axé — Axé music
+- Pagode — Pagode music
+- Frevo — Frevo music
+- Juju — Juju music
+- Fuji — Fuji music
+- Mbalax — Mbalax music
+- Makossa — Makossa music
+- Kwaito — Kwaito music
+- Mbaqanga — Mbaqanga music
+- Isicathamiya — Iscathamiya | Isicathamiya music | Iscathamiya music
+- Chimurenga — Chimurenga music
+- Gnawa — Gnawa music
+- Chaabi — Chaabi music
+- Taarab — Taarab music
+- Bongo Flava — Bongo Flava music
+- Benga — Benga music
+- Desert blues — Desert blues music
+- Coupé-décalé — Coupé-décalé music
+- Mahraganat — Mahraganat music
+- Khaleeji — Khaleeji music
+- Mizrahi — Mizrahi music
+- Baul — Baul music
+- Rabindra Sangeet — Rabindra Sangeet music
+- Dangdut — Dangdut music | Koplo | Dangdut koplo | Koplo music | Dangdut koplo music
+- Kroncong — Kroncong music
+- Anisong — Anisong music | Anime music | Anime songs | Anime song | Anime song music
+- Kayōkyoku — Kayōkyoku music
+- Trot — Trot music
+- Pansori — Pansori music
+- Gagaku — Gagaku music
+- Laïko — Laïko music
+- Turbo-folk — Turbo-folk music
+- Chalga — Chalga music
+- Manele — Manele music
+- Disco polo — Disco polo music
+- Sevdalinka — Sevdalinka music
+- Volksmusik — Volksmusik music
+- Musette — Musette music
+- Minuet — Minuet music
+- Mazurka — Mazurka music
+- Corridos tumbados — Corridos tumbados music
+- Pirate metal — Pirate metal music
+- Kawaii metal — Idol metal | Kawaii metal music | Idol metal music
+- Blackgaze — Blackgaze music
+- Desert rock — Desert rock music
+- Protopunk — Protopunk music
+- Raga rock — Raga rock music
+- C86 — C86 music
+- Slowcore — Sadcore | Slowcore music | Sadcore music
+- Noise pop — Noise pop music
+- Landfill indie — Landfill indie music
+- Post-Britpop — Post-Britpop music
+- Nu rave — New rave | Nu rave music | New rave music
+- Dance-punk — Disco punk | Dance-punk music | Disco punk music
+- Indie sleaze — Indie sleaze music
+- Bloghouse — Bloghouse music
+- Emo pop — Emo pop music
+- Canterbury scene — Canterbury sound | Canterbury scene music | Canterbury sound music
+- Brit-funk — Brit-funk music
+- Funk metal — Funk metal music
+- Trap metal — Scream rap | Trap metal music | Scream rap music
+- Freakbeat — Freakbeat music
+- Seapunk — Seapunk music
+- Melodic house — Melodic house music
+- Bass house — Bass house music
+- Dub techno — Dub techno music
+- Darksynth — Darksynth music
+- Minimal wave — Minimal wave music
+- New beat — New beat music
+- Jumpstyle — Jumpstyle music
+- Hard dance — Hard dance music
+- Jump-up — Jump-up music
+- Hardtek — Hardtekk | Hardtek music | Hardtekk music
+- Frenchcore — Frenchcore music
+- Rawstyle — Rawstyle music
+- Melbourne bounce — Melbourne bounce music
+- Organic house — Organic house music
+- Stutter house — Stutter house music
+- Digicore — Digicore music
+- Glitchcore — Glitchcore music
+- Dungeon synth — Dungeon synth music
+- Mallsoft — Mallsoft music
+- Future funk — Future funk music
+- Slowed and reverb — Slowed + reverb | Slowed and reverbed | Slowed and reverb music | Slowed + reverb music | Slowed and reverbed music
+- Dariacore — Dariacore music
+- UK funky — Funky house | UK funky music | Funky house music
+- Future garage — Future garage music
+- Riddim — Riddim music
+- Road rap — Road rap music
+- Desi hip-hop — Gully rap | Desi rap | Desi hip-hop music | Gully rap music | Desi rap music
+- Australian hip-hop — Aussie hip-hop | Australian hip-hop music | Aussie hip-hop music
+- Rage — Rage rap | Rage music | Rage rap music
+- Plugg — Pluggnb | Plugg music | Pluggnb music
+- Jerk — Jerk rap | Jerk music | Jerk rap music
+- Memphis rap — Memphis rap music
+- Miami bass — Booty bass | Miami bass music | Booty bass music
+- Turntablism — Turntablism music
+- Hip house — Hip house music
+- Snap — Snap music
+- Christian hip-hop — Holy hip-hop | Gospel rap | Christian hip-hop music | Holy hip-hop music | Gospel rap music
+- Psych folk — Psychedelic folk | Acid folk | Psych folk music | Psychedelic folk music | Acid folk music
+- Boogie — Post-disco | Boogie music | Post-disco music
+- Trap soul — Trap soul music
+- Post-bop — Post-bop music
+- Third stream — Third stream music
+- Nu jazz — Nu jazz music
+- Afro-Cuban jazz — Afro-Cuban jazz music
+- Kansas City jazz — Kansas City jazz music
+- Ethio-jazz — Ethio-jazz music
+- Piedmont blues — Piedmont blues music
+- Texas blues — Texas blues music
+- Country blues — Country blues music
+- British blues — British blues music
+- Appalachian music — Mountain music
+- Red dirt — Red dirt country | Red dirt music | Red dirt country music
+- Texas country — Texas country music
+- Countrypolitan — Countrypolitan music
+- Western music — Cowboy music | Cowboy songs
+- Bush ballad — Bush music | Bush band | Bush ballad music | Bush band music
+- Folk punk — Folk punk music
+- Neofolk — Neofolk music
+- Folktronica — Folktronica music
+- Stomp and holler — Stomp and holler music
+- Duranguense — Duranguense music
+- Sierreño — Sierreño music
+- Son jarocho — Son jarocho music
+- Nueva canción — Nueva canción music
+- Nueva trova — Trova | Nueva trova music | Trova music
+- Timba — Timba music
+- Danzón — Danzón music
+- Plena — Plena music
+- Bomba — Bomba music
+- Champeta — Champeta music
+- Punta — Punta rock | Punta music | Punta rock music
+- Cuarteto — Cuarteto music
+- RKT — RKT music
+- Neoperreo — Neoperreo music
+- Dub poetry — Dub poetry music
+- Semba — Semba music
+- Ndombolo — Ndombolo music
+- Hiplife — Hiplife music
+- Azonto — Azonto music
+- Alté — Alté music
+- Afro-fusion — Afro-fusion music
+- Maskandi — Maskanda | Maskandi music | Maskanda music
+- Singeli — Singeli music
+- Gengetone — Gengetone music
+- Morna — Morna music
+- Mbube — Mbube music
+- Asian Underground — Asian Underground music
+- Garba — Garba music
+- Dhrupad — Dhrupad music
+- Gana — Gaana | Chennai gana | Gana music | Gaana music | Chennai gana music
+- Lavani — Lavani music
+- Thumri — Thumri music
+- Khayal — Khayal music
+- P-pop — Pinoy pop | P-pop music | Pinoy pop music
+- T-pop — Thai pop | T-pop music | Thai pop music
+- V-pop — Vietnamese pop | V-pop music | Vietnamese pop music
+- OPM — Original Pilipino Music | OPM music
+- K-rock — Korean rock | K-rock music | Korean rock music
+- Shibuya-kei — Shibuya-kei music
+- Min'yō — Min'yō music
+- Gugak — Gugak music
+- Arabesque — Arabesk | Arabesque music | Arabesk music
+- Persian classical — Persian classical music
+- Dabke — Dabke music
+- Joik — Yoik | Joik music | Yoik music
+- Balkan brass — Balkan brass music
+- Romani music
+- Sevillanas — Sevillanas music
+- Copla — Copla music
+- Rumba catalana — Catalan rumba | Rumba catalana music | Catalan rumba music
+- Neapolitan song — Canzone napoletana | Neapolitan song music | Canzone napoletana music
+- Neue Deutsche Welle — NDW | Neue Deutsche Welle music | NDW music
+- Variété — Variété française | Variété music | Variété française music
+- Programme music — Program music
+- Galant — Galant style | Galant music | Galant style music
+- Modernism — Modernist music | Modernism music
+- Spectral music — Spectralism | Spectralism music
+- New Complexity — New Complexity music
+- Post-minimalism — Post-minimalism music
+- Holy minimalism — Mystic minimalism | Holy minimalism music | Mystic minimalism music
+- Verismo — Verismo music
+- Bel canto — Bel canto music
+- Mass — Mass setting | Mass music | Mass setting music
+- Motet — Motet music
+- Classical crossover — Popera | Classical crossover music | Popera music
+- Library music — Production music | Stock music
+- Concert band — Wind band | Wind ensemble | Concert band music | Wind band music | Wind ensemble music
+- Byzantine chant — Byzantine chant music
+- Vaudeville — Vaudeville music
+- Tin Pan Alley — Tin Pan Alley music
+- Torch song — Torch songs | Torch song music
+- Southern gospel — Southern gospel music
+- Brazilian phonk — Brazilian phonk music
+- Baião — Baião music
+- Wonky — Wonky music
+- Drill and bass — Drill 'n' bass | Drill and bass music | Drill 'n' bass music
+- Aggrotech — Aggrotech music
+- Post-industrial — Post-industrial music
+- Free improvisation — Free improv | Free improvisation music | Free improv music
+- Zeuhl — Zeuhl music
+- Coladeira — Coladeira music
+- Hokkien pop — Hokkien pop music
+- Luk thung — Luk thoong | Luk thung music | Luk thoong music
+- Mor lam — Molam | Mor lam music | Molam music
+- Kundiman — Kundiman music
+
+### Tier 6: rare jackpots (2)
+
+- Hauntology — Hauntological | Hauntology music | Hauntological music
+- Sacred Harp — Shape note | Shape-note singing | Sacred Harp singing | Sacred Harp music | Shape note music | Shape-note singing music | Sacred Harp singing music
+
+## Refused on purpose (11)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Music | Songs | Genre | Live music | Mainstream — "Which genre? The deep wants a name."
+- Guitar | Piano | Drums | Violin | Bagpipes | Saxophone | Ukulele | Synthesizer | Banjo | Trumpet — "An instrument, not a genre."
+- The Beatles | Queen | ABBA | Elvis | Beyoncé | Taylor Swift | Oasis | Coldplay | Metallica — "A band, not a genre."
+- Mozart | Beethoven | Bach | Chopin | Vivaldi — "A composer, not a genre. Classical would count."
+- Fugue | Aria | Overture | National anthem — "A form of composition, not a genre. Classical would count."
+- Boy band | Girl band | Supergroup | Tribute act — "A kind of group, not a genre. Pop would count."
+- Eurovision | Glastonbury | Woodstock | The Proms | BBC Proms | Top of the Pops | MTV — "A place to hear music, not a genre."
+- Def Jam | Sub Pop | Factory Records | Island Records | EMI | Sony Music | Rough Trade — "A record label, not a genre."
+- Spotify | iTunes | Apple Music | YouTube | SoundCloud | Radio | Vinyl | CD | MP3 — "A way of listening, not a genre."
+- Karaoke | Busking | Beatboxing | DJing | Remix | Cover — "Something you do with music, not a genre."
+- Silence — "Not a genre, though John Cage's 4'33" comes close."

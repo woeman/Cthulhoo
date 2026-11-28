@@ -1,0 +1,589 @@
+# Name a flower.
+
+Question id: `flowers` · category: nature · source: `data/nature.json`
+
+Rules: Any plant grown or known for its flowers, garden or wild, as a group or a single kind, blossoming trees and shrubs included. Vegetables don't count, even those that are really flower buds.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (521 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Rose — Roses | Gulab | Red rose | White rose | Yellow rose | Pink rose | Rose flower | Rose bush | Rosa | Tea rose | Hybrid tea | Hybrid tea rose | Floribunda | Climbing rose | Rambling rose | Rambler rose | Peace rose | Shrub rose | Miniature rose
+- Tulip — Tulips | Tulip flower
+- Daisy — Common daisy | English daisy | Lawn daisy | Bellis | Daisy flower
+- Sunflower — Surajmukhi | Helianthus
+- Daffodil — Daffs | Daffodil flower
+- Lily — Lilies | Lilium | Lily flower | Asiatic lily | Oriental lily | Casa Blanca lily | Trumpet lily | Orange lily | White lily
+- Orchid — Orchid flower | Orkid | Orchidaceae
+- Carnation — Carnation flower
+- Poppy — Red poppy | Poppies | Poppy flower | Papaver
+- Lavender — English lavender | French lavender | Lavandula | Lavender flower
+- Bluebell — Common bluebell | English bluebell | Wild hyacinth | Spanish bluebell | Bluebell flower
+- Marigold — French marigold | African marigold | Genda | Cempasuchil | Tagetes | Marigold flower | Flor de muerto
+- Iris — Iris flower
+- Dandelion — Taraxacum | Dandelion flower
+- Buttercup — Meadow buttercup | Creeping buttercup | Buttercup flower
+
+### Tier 2: common (35)
+
+- Violet — Violet flower
+- Pansy — Pansies | Pansy flower
+- Chrysanthemum — Mum | Mums | Chrysanth | Chrysanthemum flower | Mum flower | Kiku | Chrysanthemum morifolium
+- Hyacinth — Hyacinth flower
+- Lotus — Sacred lotus | Indian lotus | Kamal | Nelumbo | Lotus flower
+- Jasmine — Jasmin | Jessamine | Chameli | Common jasmine | Jasmine flower | Jasminum
+- Hibiscus — Gudhal | Rose mallow | Chinese hibiscus | Hibiscus flower | Bunga raya | China rose | Hibiscus rosa-sinensis
+- Peony — Paeony | Paeonia | Peony flower | Tree peony | Mudan | Moutan | Peonie | Paeonia suffruticosa
+- Geranium — Pelargonium | Geranium flower
+- Begonia — Begonia flower
+- Petunia — Petunia flower
+- Primrose — Common primrose | Primrose flower
+- Snowdrop — Galanthus | Snowdrop flower
+- Crocus — Croci | Crocus flower
+- Forget-me-not — Myosotis | Forget-me-not flower
+- Foxglove — Digitalis | Foxglove flower
+- Magnolia — Magnolia flower
+- Lilac — Common lilac | Syringa | Lilac flower
+- Hydrangea — Hortensia | Hydrangea flower | Ajisai
+- Azalea — Azalea flower
+- Dahlia — Dahlia flower
+- Fuchsia — Fuschia | Fushia | Fuchsia flower
+- Cherry Blossom — Sakura | Japanese cherry | Blossom | Spring blossom
+- Lily of the Valley — May lily | Convallaria | Lily of the Valley flower
+- Sweet Pea — Lathyrus | Sweet Pea flower
+- Snapdragon — Antirrhinum | Snapdragon flower
+- Water Lily — Nymphaea | Water Lily flower | Pond lily | Shapla | Nuphar | Spatterdock
+- Edelweiss — Edelweiss flower
+- Tiger Lily — Tiger Lily flower
+- Honeysuckle — Woodbine | Lonicera | Honeysuckle flower
+- Heather — Ling | Calluna | Scottish heather | Heather flower
+- Thistle — Scottish thistle | Spear thistle | Thistle flower
+- Bird of Paradise — Strelitzia | Crane flower | Bird of Paradise flower
+- Narcissus — Narcissi | Paperwhite | Jonquil | Narcissus flower | Chinese sacred lily
+- Cornflower — Bachelor's button | Bachelor's buttons
+
+### Tier 3: known to fans (100)
+
+- Gardenia — Cape jasmine | Gardenia flower
+- Gerbera — Gerbera daisy | Barberton daisy | Gerbera flower | Transvaal daisy | Gerbera jamesonii
+- Freesia — Freesia flower
+- Gladiolus — Gladioli | Gladiola | Sword lily | Gladiolus flower | Glads | Glad
+- Aster — Aster flower
+- Zinnia — Zinnia flower
+- Cosmos — Cosmos flower
+- Nasturtium — Indian cress | Tropaeolum | Nasturtium flower
+- Sweet William — Dianthus barbatus | Sweet William flower
+- Wallflower — Erysimum
+- Lupin — Lupine | Lupin flower | Lupinus
+- Delphinium — Delphinium flower
+- Hollyhock — Alcea | Hollyhock flower
+- Larkspur — Consolida | Larkspur flower
+- Anemone — Windflower | Anemone flower | Anenome | Anemonie
+- Ranunculus — Persian buttercup | Ranunculus flower
+- Clematis — Clematis flower
+- Bougainvillea — Bougainvillaea | Paper flower | Bougainvillea flower
+- Poinsettia — Christmas star | Euphorbia pulcherrima | Poinsettia flower
+- Amaryllis — Hippeastrum | Amaryllis flower
+- Camellia — Camelia | Camellia flower
+- Rhododendron — Rhododendron flower
+- Wisteria — Wistaria | Wisteria flower
+- Morning Glory — Ipomoea | Morning Glory flower | Asagao
+- Clover — Red clover | White clover | Clover flower
+- Gorse — Furze | Whin | Gorse flower
+- Cowslip — Cowslip flower
+- Corn Poppy — Field poppy | Common poppy | Flanders poppy | Remembrance poppy | Corn Poppy flower
+- Opium Poppy — Breadseed poppy | Opium Poppy flower
+- California Poppy — Californian poppy | Golden poppy | Eschscholzia | California Poppy flower
+- Oxeye Daisy — Moon daisy | Marguerite | Dog daisy | Oxeye Daisy flower
+- Shasta Daisy — Shasta Daisy flower
+- Michaelmas Daisy — New York aster | Michaelmas Daisy flower
+- African Daisy — Osteospermum | Cape daisy | African Daisy flower
+- African Violet — Saintpaulia | African Violet flower
+- Viola — Viola flower
+- Calla Lily — Calla | Arum lily | Zantedeschia | Calla Lily flower | Arum
+- Peace Lily — Spathiphyllum | Peace Lily flower
+- Stargazer Lily — Stargazer | Stargazer Lily flower
+- Day Lily — Hemerocallis | Day Lily flower
+- Busy Lizzie — Impatiens | Busy Lizzy | Balsam | Busy Lizzie flower
+- Cyclamen — Sowbread | Cyclamen flower
+- Primula — Primula flower
+- Polyanthus — Polyanthus flower
+- Stock — Stocks | Gillyflower | Matthiola | Stock flower
+- Alstroemeria — Peruvian lily | Lily of the Incas | Alstroemeria flower
+- Agapanthus — African lily | Lily of the Nile | Agapanthus flower
+- Allium — Ornamental onion | Allium flower
+- Red Hot Poker — Kniphofia | Torch lily | Red Hot Poker flower
+- Protea — Sugarbush | Protea flower
+- Waratah — Telopea | Waratah flower
+- Kangaroo Paw — Anigozanthos | Kangaroo Paw flower
+- Frangipani — Plumeria | Temple tree | Dok champa | Frangipani flower
+- Jacaranda — Jacaranda flower
+- Wattle — Golden wattle | Mimosa | Wattle flower | Silver wattle | Acacia dealbata | Acacia
+- Bottlebrush — Callistemon | Bottlebrush flower
+- Passionflower — Passiflora | Passionfruit flower | Maypop
+- Gentian — Gentiana | Gentian flower
+- Hellebore — Christmas rose | Lenten rose | Helleborus | Hellebore flower
+- Lisianthus — Eustoma | Prairie gentian | Lisianthus flower
+- Gypsophila — Baby's breath | Gypsophila flower
+- Statice — Sea lavender | Limonium | Statice flower
+- Scabious — Pincushion flower | Scabiosa | Scabious flower
+- Phlox — Phlox flower
+- Verbena — Vervain | Verbena flower
+- Salvia — Sage | Ornamental sage | Salvia flower
+- Lobelia — Lobelia flower
+- Alyssum — Sweet alyssum | Alyssum flower
+- Aubrieta — Aubretia | Aubrietia | Rock cress | Aubrieta flower
+- Calendula — Pot marigold | English marigold | Calendula flower
+- Coneflower — Echinacea | Purple coneflower
+- Black-eyed Susan — Rudbeckia | Black-eyed Susan flower
+- Goldenrod — Solidago | Goldenrod flower
+- Bluebonnet — Texas bluebonnet | Bluebonnet flower
+- Columbine — Aquilegia | Granny's bonnet | Columbine flower
+- Bleeding Heart — Dicentra | Lady in the bath | Bleeding Heart flower
+- Yarrow — Achillea | Milfoil | Yarrow flower
+- Chamomile — Camomile | Roman chamomile | German chamomile | Chamomile flower
+- Elderflower — Elder
+- Meadowsweet — Meadowsweet flower
+- Cow Parsley — Queen Anne's lace | Wild chervil | Cow Parsley flower
+- Red Campion — Red Campion flower
+- Speedwell — Veronica | Germander speedwell | Speedwell flower
+- Harebell — Scottish bluebell | Bluebell of Scotland | Harebell flower
+- Celandine — Lesser celandine | Greater celandine | Celandine flower
+- Wood Anemone — Wood Anemone flower
+- Bee Orchid — Bee Orchid flower
+- Moth Orchid — Phalaenopsis | Moth Orchid flower | Anggrek bulan
+- Rafflesia — Corpse lily | Monster flower | Rafflesia flower
+- Titan Arum — Corpse flower | Corpse plant | Amorphophallus | Titan Arum flower
+- Pinks — Dianthus | Pink | Garden pinks | Pinks flower
+- Evening Primrose — Oenothera | Evening Primrose flower
+- Grape Hyacinth — Muscari | Grape Hyacinth flower
+- Hawthorn — May blossom | May | Hawthorn blossom | Hawthorn flower
+- Orange Blossom
+- Lady's Slipper — Lady's slipper orchid | Slipper orchid | Moccasin flower | Lady's Slipper flower
+- Hops — Hop | Hops flower
+- Forsythia — Golden bells | Forsythia flower
+- St John's Wort — Hypericum | Tutsan | St John's Wort flower
+- Monkshood — Aconitum | Aconite | Wolfsbane | Monkshood flower
+
+### Tier 4: obscure (138)
+
+- Saffron Crocus — Saffron | Saffron Crocus flower
+- Tuberose — Rajnigandha | Polianthes | Tuberose flower
+- Moonflower — Moonvine
+- Snowflake — Summer snowflake | Spring snowflake | Loddon lily | Leucojum | Snowflake flower
+- Apple Blossom
+- Plum Blossom — Ume | Mei | Plum flower | Meihua | Chinese plum blossom | Japanese apricot
+- Peach Blossom
+- Heliotrope — Cherry pie | Heliotrope flower
+- Crocosmia — Montbretia | Crocosmia flower
+- Nerine — Guernsey lily | Nerine flower
+- Gazania — Treasure flower | Gazania flower
+- Clivia — Bush lily | Natal lily | Clivia flower
+- King Protea — King Protea flower
+- Banksia — Banksia flower
+- Sturt's Desert Pea — Sturt's Desert Pea flower | Desert pea | Sturt pea | Swainsona
+- Flannel Flower
+- Paper Daisy — Strawflower | Everlasting daisy | Everlasting | Paper Daisy flower
+- Grevillea — Spider flower | Grevillea flower
+- Red Spider Lily — Higanbana | Lycoris | Hurricane lily | Red Spider Lily flower
+- Spider Lily — Hymenocallis | Spider Lily flower
+- Easter Lily — Easter Lily flower
+- Madonna Lily — Madonna Lily flower
+- Blue Lotus — Blue water lily | Egyptian lotus | Blue Lotus flower | Nil manel | Nymphaea nouchali | Blue star water lily
+- Bearded Iris — German iris | Bearded Iris flower
+- Flag Iris — Yellow flag | Yellow iris | Flag | Flag Iris flower
+- Sweet Violet — English violet | Sweet Violet flower | Parma violet
+- Dog Violet — Common dog violet | Dog Violet flower
+- Arabian Jasmine — Mogra | Sampaguita | Melati | Arabian Jasmine flower
+- Winter Jasmine — Winter Jasmine flower
+- Star Jasmine — Confederate jasmine | Trachelospermum | Star Jasmine flower
+- Parijat — Night-flowering jasmine | Harsingar | Coral jasmine | Shiuli | Parijat flower
+- Ixora — Jungle geranium | Flame of the woods | Ixora flower
+- Allamanda — Golden trumpet | Allamanda flower
+- Mandevilla — Dipladenia | Mandevilla flower
+- Oleander — Kaner | Nerium | Oleander flower
+- Ylang-ylang — Cananga | Ylang-ylang flower
+- Plumbago — Leadwort | Plumbago flower
+- Lantana — Lantana flower
+- Periwinkle — Vinca | Madagascar periwinkle | Sadabahar | Periwinkle flower
+- Bindweed — Convolvulus | Bindweed flower
+- Celosia — Cockscomb | Plume flower | Celosia flower
+- Love-lies-bleeding — Amaranthus | Amaranth | Love-lies-bleeding flower
+- Four O'Clock — Marvel of Peru | Mirabilis | Four O'Clock flower
+- Love-in-a-mist — Nigella | Love-in-a-mist flower
+- Candytuft — Iberis | Candytuft flower
+- Astilbe — False goat's beard | Astilbe flower
+- Bergenia — Elephant's ears | Bergenia flower
+- Bellflower — Campanula
+- Canterbury Bells — Canterbury Bells flower
+- Penstemon — Beardtongue | Penstemon flower
+- Blanket Flower — Gaillardia | Indian blanket | Firewheel
+- Coreopsis — Tickseed | Coreopsis flower
+- Helenium — Sneezeweed | Helenium flower
+- Globe Thistle — Echinops | Globe Thistle flower
+- Sea Holly — Eryngium | Sea Holly flower
+- Knapweed — Common knapweed | Hardheads | Knapweed flower
+- Cuckooflower — Lady's smock
+- Ragged Robin — Ragged Robin flower
+- Herb Robert — Herb Robert flower
+- Cranesbill — Hardy geranium | Wild geranium | Cranesbill flower
+- Bird's-foot Trefoil — Eggs and bacon | Bird's-foot Trefoil flower
+- Self-heal — Prunella | Self-heal flower
+- Bugle — Ajuga | Bugle flower
+- Viper's Bugloss — Echium | Viper's Bugloss flower
+- Toadflax — Linaria | Toadflax flower
+- Mallow — Common mallow | Malva | Mallow flower
+- Rose of Sharon — Mugunghwa | Hibiscus syriacus | Rose of Sharon flower
+- Rosebay Willowherb — Fireweed | Willowherb | Rosebay Willowherb flower | Rosebay
+- Purple Loosestrife — Loosestrife | Lythrum | Purple Loosestrife flower
+- Thrift — Sea pink | Armeria | Thrift flower
+- Ramsons — Wild garlic | Bear's garlic | Ramsons flower
+- Marsh Marigold — Kingcup | Caltha | Marsh Marigold flower
+- Coltsfoot — Coltsfoot flower
+- Wood Sorrel — Oxalis | Wood Sorrel flower
+- Dog Rose — Wild rose | Briar rose | Rosa canina | Dog Rose flower
+- Damask Rose — Damask Rose flower
+- English Rose — David Austin rose | English Rose flower
+- Pasqueflower — Pulsatilla
+- Fritillary — Snake's head fritillary | Snakeshead | Fritillaria | Chequered lily | Fritillary flower
+- Ghost Orchid — Ghost Orchid flower
+- Cymbidium — Boat orchid | Cymbidium flower
+- Winter Aconite — Eranthis | Winter Aconite flower
+- Star of Bethlehem — Ornithogalum | Star of Bethlehem flower
+- Anthurium — Flamingo flower | Flamingo lily | Anthurium flower
+- Heliconia — Lobster claw | False bird of paradise | Heliconia flower
+- Bromeliad — Bromeliad flower
+- Blue Poppy — Himalayan blue poppy | Meconopsis | Blue Poppy flower
+- Welsh Poppy — Welsh Poppy flower
+- Oriental Poppy — Oriental Poppy flower
+- Saxifrage — Saxifraga | Saxifrage flower
+- Indian Paintbrush — Paintbrush | Castilleja | Indian Paintbrush flower
+- Mountain Laurel — Kalmia | Mountain Laurel flower
+- Mock Orange — Philadelphus | Mock Orange flower
+- Dogwood — Flowering dogwood | Dogwood blossom | Dogwood flower
+- Bee Balm — Monarda | Bergamot | Oswego tea | Bee Balm flower
+- Milkweed — Asclepias | Butterfly weed | Milkweed flower
+- Trillium — Wake-robin | Trillium flower
+- Queen of the Night — Night-blooming cereus | Nishagandhi | Kadupul | Queen of the Night flower
+- Datura — Thorn apple | Jimsonweed | Devil's trumpet | Datura flower
+- Angel's Trumpet — Brugmansia | Angel's Trumpet flower
+- Butterfly Pea — Aparajita | Blue pea | Clitoria | Butterfly Pea flower
+- Golden Shower — Golden shower tree | Amaltas | Indian laburnum | Ratchaphruek | Cassia fistula | Golden Shower flower
+- Gulmohar — Royal poinciana | Flamboyant | Flame tree | Delonix | Gulmohar flower
+- Palash — Flame of the forest | Dhak | Tesu | Butea | Palash flower
+- Christmas Cactus — Schlumbergera | Thanksgiving cactus | Christmas Cactus flower
+- Canna — Canna lily | Canna flower
+- Broom — Common broom | Scotch broom | Broom flower
+- Heath — Erica | Winter heath | Heath flower
+- Buddleia — Buddleja | Butterfly bush | Buddleia flower
+- Monkey Flower — Mimulus | Monkey musk | Erythranthe
+- Honesty — Lunaria | Lunaria annua | Silver dollar plant | Honesty flower
+- Blackthorn — Blackthorn blossom | Sloe blossom | Prunus spinosa | Blackthorn flower
+- Almond Blossom — Almond flower | Almond tree
+- Daphne — Winter daphne | Mezereon | Daphne odora | Daphne flower
+- Viburnum — Snowball bush | Snowball tree | Laurustinus | Viburnum flower
+- Weigela — Weigela flower
+- Spiraea — Spirea | Bridal wreath | Spiraea flower
+- Ceanothus — California lilac | Californian lilac | Ceanothus flower
+- Rock Rose — Cistus | Rock Rose flower
+- Flowering Currant — Ribes | Ribes sanguineum | Red flowering currant | Flowering Currant flower
+- Flowering Quince — Japonica | Japanese quince | Chaenomeles | Flowering Quince flower
+- Witch Hazel — Hamamelis | Witch Hazel flower
+- Potentilla — Cinquefoil | Shrubby cinquefoil | Potentilla flower
+- Lavatera — Tree mallow | Lavatera flower
+- Desert Rose — Adenium | Adenium obesum | Impala lily | Desert Rose flower
+- Bauhinia — Orchid tree | Hong Kong orchid tree | Kachnar | Bauhinia blakeana | Bauhinia flower
+- Ageratum — Floss flower | Ageratum flower
+- Cleome — Cleome hassleriana | Cleome flower
+- Geum — Avens | Water avens | Wood avens | Herb Bennet | Geum flower
+- Lady's Mantle — Alchemilla | Alchemilla mollis | Lady's Mantle flower
+- Mullein — Verbascum | Great mullein | Aaron's rod | Hag taper | Mullein flower
+- Kalanchoe — Flaming Katy | Kalanchoe blossfeldiana | Kalanchoe flower
+- Gloxinia — Sinningia | Gloxinia flower
+- Bells of Ireland — Moluccella | Shell flower | Bells of Ireland flower
+- Giant Water Lily — Victoria amazonica | Victoria lily | Amazon water lily | Victoria water lily | Giant Water Lily flower
+- Scarlet Pimpernel — Pimpernel | Poor man's weatherglass | Anagallis | Scarlet Pimpernel flower
+- Vetch — Tufted vetch | Bush vetch | Common vetch | Vicia | Vetch flower
+- Himalayan Balsam — Policeman's helmet | Jumping Jack | Impatiens glandulifera | Himalayan Balsam flower
+
+### Tier 5: expert (230)
+
+- Oxlip — Oxlip flower
+- Crown Imperial — Crown Imperial flower
+- Glory-of-the-snow — Chionodoxa | Glory-of-the-snow flower
+- Scilla — Squill | Siberian squill | Scilla flower
+- Torch Ginger — Torch Ginger flower
+- Ginger Lily — Hedychium | Butterfly ginger | Ginger Lily flower | Mariposa | White ginger lily
+- Flame Lily — Gloriosa | Glory lily | Fire lily | Flame Lily flower
+- Water Hyacinth — Water Hyacinth flower
+- Iceland Poppy — Iceland Poppy flower
+- Matilija Poppy — Fried egg plant | Matilija Poppy flower
+- Yellow Horned Poppy — Horned poppy | Yellow Horned Poppy flower
+- Alpenrose — Alpine rose | Alpenrose flower
+- Mountain Avens — Dryas | Mountain Avens flower
+- Bloodroot — Bloodroot flower
+- Virginia Bluebells — Mertensia | Virginia Bluebells flower
+- Hepatica — Liverleaf | Hepatica flower
+- Catmint — Nepeta | Catnip | Catmint flower
+- Gaura — Whirling butterflies | Gaura flower
+- Agastache — Giant hyssop | Agastache flower
+- Blazing Star — Liatris | Gayfeather | Blazing Star flower
+- Joe-Pye Weed — Joe-Pye Weed flower
+- Jack-in-the-pulpit — Jack-in-the-pulpit flower
+- Bitterroot — Lewisia | Bitterroot flower
+- Sego Lily — Sego Lily flower
+- Cherokee Rose — Cherokee Rose flower
+- Carolina Jessamine — Yellow jessamine | Carolina jasmine | Carolina Jessamine flower
+- Mayflower — Trailing arbutus
+- Neelakurinji — Kurinji | Neelakurinji flower
+- Brahma Kamal — Brahma Kamal flower
+- Kanakambaram — Firecracker flower | Crossandra | Kanakambaram flower
+- Night-blooming Jessamine — Raat ki rani | Rat ki rani | Lady of the night | Cestrum | Night-blooming Jessamine flower
+- Bakul — Spanish cherry | Maulsari | Mimusops | Bakul flower
+- Champak — Champa | Champaca | Champak flower
+- Martagon Lily — Turk's cap lily | Martagon | Martagon Lily flower
+- Regal Lily — Regal Lily flower
+- Foxtail Lily — Eremurus | Desert candle | Foxtail Lily flower
+- Toad Lily — Tricyrtis | Toad Lily flower
+- Mount Cook Lily — Mount Cook buttercup | Mount Cook Lily flower
+- Belladonna Lily — Naked lady | Naked ladies | Amaryllis belladonna | Jersey lily | Belladonna Lily flower
+- Glacier Lily — Avalanche lily | Trout lily | Dog's tooth violet | Glacier Lily flower | Erythronium
+- Blood Lily — Haemanthus | Scadoxus | Blood Lily flower
+- Ixia — Corn lily | Ixia flower
+- Watsonia — Bugle lily | Watsonia flower
+- Pincushion Protea — Leucospermum | Pincushion Protea flower | Pincushion
+- Namaqualand Daisy — Dimorphotheca | Namaqualand Daisy flower
+- Livingstone Daisy — Mesembryanthemum | Livingstone Daisy flower
+- Christmas Bush — NSW Christmas bush | Christmas Bush flower
+- Pink Heath — Common heath | Pink Heath flower
+- Geraldton Wax — Waxflower | Geraldton Wax flower
+- Royal Bluebell — Royal Bluebell flower
+- Sturt's Desert Rose — Sturt's Desert Rose flower
+- Cooktown Orchid — Cooktown Orchid flower
+- Common Spotted Orchid — Common Spotted Orchid flower
+- Early Purple Orchid — Early Purple Orchid flower
+- Pyramidal Orchid — Pyramidal Orchid flower
+- Military Orchid — Military Orchid flower
+- Monkey Orchid — Monkey Orchid flower
+- Fly Orchid — Fly Orchid flower
+- Lizard Orchid — Lizard Orchid flower
+- Flying Duck Orchid — Flying Duck Orchid flower
+- Naked Man Orchid — Naked Man Orchid flower
+- Dove Orchid — Holy Ghost orchid | Dove Orchid flower
+- Cattleya — Corsage orchid | Cattleya flower
+- Dendrobium — Dendrobium flower
+- Vanda — Vanda flower
+- Oncidium — Dancing lady orchid | Oncidium flower
+- Vanda Miss Joaquim — Miss Joaquim | Papilionanthe Miss Joaquim | Vanda Miss Joaquim flower
+- Jade Vine — Emerald vine | Jade Vine flower
+- Black Bat Flower — Bat flower | Tacca
+- Kowhai — Kowhai flower
+- Pohutukawa — Pohutukawa flower
+- Cantua — Kantuta | Flower of the Incas | Cantua flower
+- Copihue — Chilean bellflower | Copihue flower
+- Crown Anemone — Kalanit | Poppy anemone | Crown Anemone flower
+- Black Iris — Black Iris flower
+- Japanese Iris — Japanese Iris flower
+- Siberian Iris — Siberian Iris flower
+- Dutch Iris — Dutch Iris flower
+- Tansy — Tansy flower
+- Feverfew — Feverfew flower
+- Mayweed — Scentless mayweed | Mayweed flower
+- Corn Marigold — Corn Marigold flower
+- Corncockle — Corncockle flower
+- Pheasant's Eye — Pheasant's Eye flower
+- Meadow Cranesbill — Meadow Cranesbill flower
+- Bloody Cranesbill — Bloody Cranesbill flower
+- Stitchwort — Greater stitchwort | Stitchwort flower
+- White Campion — White Campion flower
+- Sea Campion — Sea Campion flower
+- Bladder Campion — Bladder Campion flower
+- Sea Aster — Sea Aster flower
+- Lords-and-ladies — Cuckoo pint | Wild arum | Lords-and-ladies flower
+- Musk Mallow — Musk Mallow flower
+- Yellow Rattle — Yellow Rattle flower
+- Ragwort — Common ragwort | Ragwort flower
+- Bell Heather — Bell Heather flower
+- Butterbur — Butterbur flower
+- Dead-nettle — White dead-nettle | Red dead-nettle | Lamium | Dead-nettle flower
+- Sneezewort — Sneezewort flower
+- Teasel — Teasel flower
+- Chicory — Chicory flower
+- Borage — Starflower | Borage flower
+- Comfrey — Comfrey flower
+- Woodruff — Sweet woodruff | Woodruff flower
+- Sweet Cicely — Sweet Cicely flower
+- Lady's Bedstraw — Lady's Bedstraw flower
+- Bogbean — Buckbean | Bogbean flower
+- Water Forget-me-not — Water Forget-me-not flower
+- Traveller's Joy — Old man's beard | Wild clematis | Traveller's Joy flower
+- Wild Pansy — Heartsease | Johnny jump up | Wild Pansy flower
+- Wild Daffodil — Lent lily | Wild Daffodil flower
+- Hebe — Hebe flower
+- Stonecrop — Sedum | Stonecrop flower
+- Ice Plant — Ice Plant flower
+- Portulaca — Moss rose | Portulaca flower
+- Nemesia — Nemesia flower
+- Cineraria — Cineraria flower
+- Schizanthus — Poor man's orchid | Butterfly flower | Schizanthus flower
+- Clarkia — Godetia | Clarkia flower
+- Million Bells — Calibrachoa | Million Bells flower
+- Bacopa — Bacopa flower
+- Diascia — Twinspur | Diascia flower
+- Angel's Fishing Rod — Dierama | Wandflower | Angel's Fishing Rod flower
+- Obedient Plant — Physostegia | Obedient Plant flower
+- Spiderwort — Tradescantia | Spiderwort flower | Inch plant | Wandering dude | Tradescantia zebrina
+- Foamflower — Tiarella
+- Lungwort — Pulmonaria | Lungwort flower
+- Japanese Anemone — Japanese Anemone flower
+- China Aster — China Aster flower
+- Everlasting Pea — Everlasting Pea flower
+- Mexican Sunflower — Tithonia
+- Flax — Blue flax | Linseed | Flax flower
+- Chinese Lantern Lily — Sandersonia | Chinese Lantern Lily flower
+- Flowering Tobacco — Nicotiana | Jasmine tobacco | Flowering Tobacco flower
+- Sweet Rocket — Dame's violet | Dame's rocket | Sweet Rocket flower
+- Chocolate Cosmos — Chocolate Cosmos flower
+- Clove — Cloves | Clove tree | Syzygium aromaticum | Clove flower
+- Balloon Flower — Platycodon | Chinese bellflower | Doraji | Kikyo
+- Japanese Rose — Rosa rugosa | Rugosa rose | Ramanas rose | Beach rose | Japanese Rose flower
+- Bear's Breeches — Acanthus | Acanthus mollis | Bear's Breeches flower
+- Fan Flower — Scaevola | Fairy fan-flower
+- Pear Blossom
+- Crape Jasmine — Chandni | Pinwheel flower | Tabernaemontana | East Indian rosebay | Crape Jasmine flower
+- Lime Blossom — Linden blossom | Linden flower | Lime flower | Tilia
+- Guelder Rose — Viburnum opulus | Water elder | Cranberry bush | Guelder Rose flower
+- Deutzia — Deutzia flower
+- Sun Rose — Helianthemum | Sun Rose flower
+- Escallonia — Escallonia flower
+- Kerria — Japanese kerria | Kerria japonica | Kerria flower
+- Wintersweet — Chimonanthus | Wintersweet flower
+- Mahonia — Oregon grape | Oregon grape holly | Mahonia flower
+- Pieris — Lily of the valley shrub | Andromeda | Pieris flower
+- Osmanthus — Sweet osmanthus | Fragrant olive | Sweet olive | Guihua | Osmanthus flower
+- Boronia — Brown boronia | Red boronia | Boronia flower
+- Correa — Native fuchsia | Australian fuchsia | Correa flower
+- Gomphrena — Globe amaranth | Gomphrena flower
+- Blue Daisy — Felicia | Kingfisher daisy | Blue marguerite | Blue Daisy flower
+- Swan River Daisy — Brachyscome | Brachycome | Swan River Daisy flower
+- Pentas — Egyptian star cluster | Star cluster | Pentas flower
+- Baby Blue Eyes — Nemophila | Baby Blue Eyes flower
+- Poached Egg Plant — Limnanthes | Meadowfoam | Poached Egg Plant flower
+- Snow-in-summer — Cerastium | Snow-in-summer flower
+- Phacelia — Fiddleneck | Purple tansy | Lacy phacelia | Phacelia flower
+- Heuchera — Coral bells | Alumroot | Heuchera flower
+- Auricula — Primula auricula | Bear's ear | Auricula flower
+- Astrantia — Masterwort | Astrantia flower
+- Meadow Rue — Thalictrum | Meadow Rue flower
+- Lychnis — Maltese cross | Rose campion | Jerusalem cross | Lychnis flower
+- Fleabane — Erigeron | Mexican fleabane | Seaside daisy | Fleabane flower
+- Brunnera — Siberian bugloss | Great forget-me-not | Brunnera flower
+- Epimedium — Barrenwort | Bishop's hat | Horny goat weed | Epimedium flower
+- Hosta — Plantain lily | Funkia | Hosta flower
+- Cape Primrose — Streptocarpus | Cape Primrose flower
+- Hoya — Wax plant | Porcelain flower | Hoya flower
+- Stephanotis — Madagascar jasmine | Stephanotis flower
+- Bouvardia — Bouvardia flower
+- Black-eyed Susan Vine — Thunbergia | Thunbergia alata | Black-eyed Susan Vine flower
+- Trumpet Vine — Trumpet creeper | Campsis | Trumpet Vine flower
+- Rangoon Creeper — Madhumalti | Quisqualis | Combretum indicum | Rangoon Creeper flower
+- Red Ginger — Alpinia purpurata | Ostrich plume | Red Ginger flower
+- Painted Daisy — Pyrethrum | Tanacetum coccineum | Painted Daisy flower
+- Christmas Bells — Blandfordia | Christmas Bells flower
+- Kidney Vetch — Woundwort | Anthyllis | Kidney Vetch flower
+- Sow Thistle — Sow Thistle flower
+- Hawkweed — Fox and cubs | Orange hawkweed | Hawkweed flower
+- Agrimony — Church steeples | Agrimony flower
+- Tormentil — Tormentil flower
+- Garlic Mustard — Jack-by-the-hedge | Hedge garlic | Garlic Mustard flower
+- Yellow Archangel — Yellow Archangel flower
+- Betony — Bishopswort | Wood betony | Betony flower
+- Eyebright — Euphrasia | Eyebright flower
+- Butterwort — Pinguicula | Butterwort flower
+- Bog Asphodel — Bog Asphodel flower
+- Water Crowfoot — Water Crowfoot flower
+- Flowering Rush — Butomus | Flowering Rush flower
+- Hogweed — Common hogweed | Cow parsnip | Hogweed flower
+- Giant Hogweed — Heracleum mantegazzianum | Giant Hogweed flower
+- Wild Carrot — Daucus carota | Bird's nest | Wild Carrot flower
+- Shooting Star — Dodecatheon | Primula meadia | Shooting Star flower
+- Spring Beauty — Claytonia | Spring Beauty flower
+- Dutchman's Breeches — Dicentra cucullaria | Dutchman's Breeches flower
+- Mayapple — American mandrake | Podophyllum | Mayapple flower
+- Ironweed — Vernonia | Ironweed flower
+- Mariposa Lily — Calochortus | Sego | Mariposa Lily flower
+- Prairie Rose — Wild prairie rose | Rosa arkansana | Prairie Rose flower
+- Saguaro Blossom — Saguaro flower | Saguaro cactus blossom | Saguaro
+- Yucca — Yucca flower | Soapweed
+- Crinum — Crinum lily | Swamp lily | Cape lily | Crinum flower
+- Amazon Lily — Eucharis | Amazon Lily flower
+- Rain Lily — Zephyranthes | Zephyr lily | Fairy lily | Rain Lily flower
+- Pineapple Lily — Eucomis | Pineapple Lily flower
+- Tiger Flower — Tigridia | Mexican shell flower
+- Camassia — Camas | Quamash | Camassia flower
+- Harlequin Flower — Sparaxis
+- Chincherinchee — Ornithogalum thyrsoides | Chincherinchee flower
+- Disa — Pride of Table Mountain | Red disa | Disa flower
+- Cabbage Rose — Rosa centifolia | Provence rose | Centifolia | Cabbage Rose flower
+- Sweet Briar — Eglantine | Eglantine rose | Rosa rubiginosa | Sweet Briar flower
+- Apothecary's Rose — Rosa gallica | Gallica rose | Red rose of Lancaster | French rose | Apothecary's Rose flower
+- Kadamba — Kadam | Neolamarckia | Kadamba flower
+- Juhi — Jasminum auriculatum | Juhi flower
+- Kewra — Kewda | Fragrant screw pine | Pandanus odorifer | Kewra flower
+- Orange Jasmine — Kamini | Murraya | Murraya paniculata | Orange Jasmine flower
+- Ashoka — Ashoka flower | Ashok | Saraca
+- Ceibo — Seibo | Cockspur coral tree | Erythrina crista-galli | Ceibo flower
+- Monja Blanca — White nun orchid | Lycaste skinneri | Monja Blanca flower
+- Hakea — Pincushion hakea | Hakea flower
+- Leschenaultia — Lechenaultia | Blue leschenaultia | Leschenaultia flower
+- Fringed Lily — Thysanotus | Fringed Lily flower
+- Billy Buttons — Craspedia | Billy balls | Woollyheads | Billy Buttons flower
+
+### Tier 6: rare jackpots (3)
+
+- Skeleton Flower — Diphylleia grayi | Diphylleia
+- Middlemist Red — Middlemist's Red | Middlemist camellia | Middlemist | Middlemist Red flower
+- Queen of the Andes — Puya raimondii | Puya | Queen of the Andes flower
+
+## Refused on purpose (34)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Flower | Flowers | Blooms — "That's the question. Name one."
+- Wildflowers | Perennial | Annual | Biennial | Bedding plant — "That covers thousands of flowers. Name one."
+- Bouquet | Corsage | Garland | Wreath | Buttonhole | Lei | Nosegay — "A bunch of flowers. Name one of them."
+- Petal | Petals | Stems | Pollen | Nectar | Stamen | Pistil | Sepal | Buds — "Part of a flower. Name the whole thing."
+- Bulbs | Seed | Seeds | Corm | Tuber — "Plant it and see. Then name the flower."
+- Ferns | Bracken — "A fern never flowers. It grows from spores."
+- Mosss | Mosses — "A moss never flowers. It grows from spores."
+- Mushroom | Mushrooms | Toadstool | Fungus | Lichen — "A fungus, not a plant, and it never flowers."
+- Grass | Grasses | Bamboo | Wheat — "It does flower, but nobody grows it for that."
+- Weed | Weeds — "A flower in the wrong place. Name it."
+- Cauliflower | Broccoli | Romanesco | Artichoke | Globe artichoke — "A vegetable. Its head is a mass of flower buds that never get the chance to open."
+- Holly | Mistletoe | Ivy — "Known for its berries and leaves, not its flowers."
+- Shamrock — "Ireland's emblem, worn for its leaves rather than its flowers."
+- Venus flytrap | Flytrap | Pitcher plant | Sundew — "Grown for its traps, not its small flowers."
+- Mandrake — "Famed for its forked root and the legend that it screams, not for its flowers."
+- Triffid — "A walking, stinging plant from John Wyndham's novel."
+- Audrey II | Audrey 2 | Audrey Two — "The man-eating plant from Little Shop of Horrors."
+- Piranha Plant — "A biting plant from the Super Mario games."
+- Fire Flower — "A power-up from the Super Mario games."
+- Athelas | Kingsfoil | Elanor | Simbelmynë — "A plant from Tolkien's Middle-earth."
+- Tudor rose | Fleur-de-lis | Fleur-de-lys — "A heraldic badge, not a flower you can grow."
+- Kaffir lily — "That old name uses a slur, and gardeners have dropped it. Most often it meant a flower named after a duchess of Northumberland."
+- Lily pad — "The floating leaf. Name the flower."
+- Cotton — "Grown for the fluff around its seeds, not its flowers."
+- Pine cone | Conifer — "A cone, not a flower: conifers never bloom."
+- Seaweed | Kelp | Algae — "An alga. It never flowers."
+- Basil | Mint | Parsley | Coriander | Oregano — "A herb grown for its leaves."
+- Rose hip — "The fruit of a rose, left behind after the flower has gone."
+- Cactus | Cacti | Succulent | Succulents — "Most are grown for their shape and spines. Name one known for its flowers."
+- Philodendron | Pothos | Spider plant | Snake plant | Rubber plant | Aspidistra | Jade plant | Money plant | Swiss cheese plant | Monstera | Fiddle leaf fig | Croton | Coleus — "A houseplant grown for its leaves, not its flowers."
+- Leek | Leeks — "A vegetable, and an emblem of Wales. The Welsh flower is the other one, worn on St David's Day."
+- Wandering Jew — "That old name is now avoided as antisemitic. Gardeners name it after a small unit of length instead."
+- Fynbos — "A whole kind of Cape heathland, full of flowers. Name one."
+- Pine tree | Fir | Spruce | Cedar — "A conifer: it bears cones, never flowers."

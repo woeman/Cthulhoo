@@ -1,0 +1,572 @@
+# Name a treaty.
+
+Question id: `treaties` · category: history · source: `data/history.json`
+
+Rules: Any named treaty, pact, accord, convention or peace agreed between states, rulers, rebels or peoples, from any age to today. Statements of aims, doctrines, laws and plans don't count, and nor do the organisations that treaties created.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (519 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Treaty of Versailles — Versailles | Treaty of Versailles 1919 | Versailles Treaty | Peace of Versailles | Versailles 1919 | Versailles Treaty 1919 | Peace of Versailles 1919
+- Treaty of Paris — Paris Peace Treaties | Treaty of Paris 1763 | Treaty of Paris 1783 | Treaty of Paris 1814 | Treaty of Paris 1815 | Treaty of Paris 1856 | Treaty of Paris 1898 | Treaty of Paris 1947 | Treaty of Paris 1951 | Paris Treaty | Peace of Paris | Peace of Paris 1763 | Peace of Paris 1783 | Peace of Paris 1856 | Paris
+- Peace of Westphalia — Westphalia | Treaty of Munster | Treaty of Osnabruck | Westphalian peace | Peace of Westphalia 1648 | Treaty of Westphalia | Treaty of Westphalia 1648 | Westphalia 1648
+- Warsaw Pact — Warsaw Treaty | Warsaw Treaty Organization | Treaty of Warsaw | Treaty of Warsaw 1955 | Warsaw Treaty of 1955 | Warsaw Pact 1955 | Treaty of Friendship, Cooperation and Mutual Assistance
+- Geneva Conventions — Geneva Convention | Fourth Geneva Convention | First Geneva Convention | Geneva Convention 1949 | Geneva Conventions of 1949 | Geneva Convention 1864 | Geneva | Treaty of Geneva
+- Good Friday Agreement — Belfast Agreement | Good Friday | Good Friday Accord | Good Friday Accords | Good Friday Agreement 1998 | Belfast Agreement 1998
+- Treaty of Maastricht — Maastricht | Maastricht Treaty | Peace of Maastricht | Treaty on European Union | TEU | Maastricht Treaty 1992 | Treaty of Maastricht 1992
+
+### Tier 2: common (26)
+
+- Treaty of Rome — Treaty of Rome 1957 | Rome Treaty | Peace of Rome | Treaty on the Functioning of the European Union | TFEU | EEC Treaty | Treaty establishing the European Economic Community | Rome
+- Treaty of Lisbon — Lisbon | Treaty of Lisbon 2007 | Lisbon Treaty | Peace of Lisbon | Treaty of Lisbon 2009 | Reform Treaty | Treaty of Lisbon 1668
+- Treaty of Utrecht — Utrecht | Treaty of Utrecht 1713 | Utrecht Treaty | Peace of Utrecht
+- Treaty of Waitangi — Waitangi | Te Tiriti o Waitangi | Waitangi Treaty | Peace of Waitangi | Te Tiriti | Tiriti o Waitangi | Treaty of Waitangi 1840
+- Treaty of Tordesillas — Tordesillas | Tordesillas Treaty | Peace of Tordesillas | Treaty of Tordesillas 1494
+- Paris Agreement — Paris Climate Agreement | Paris Climate Accord | Paris Climate Accords | Paris Accord | Paris Accords | Paris Agreement 2015 | Paris Climate Agreement 2015 | Paris Accord 2015
+- Kyoto Protocol — Kyoto | Kyoto Agreement | Kyoto Treaty | Kyoto Accord | Kyoto Protocol 1997
+- Molotov–Ribbentrop Pact — Nazi-Soviet Pact | Hitler-Stalin Pact | German-Soviet Pact | Treaty of Non-Aggression between Germany and the Soviet Union | Molotov–Ribbentrop | Molotov–Ribbentrop Pact 1939 | Nazi-Soviet Pact 1939
+- Munich Agreement — Munich Pact | Munich | Munich Accord | Munich Accords | Munich Agreement 1938
+- Camp David Accords — Camp David | Camp David Agreement | Camp David Accords 1978
+- Oslo Accords — Oslo | Oslo Agreement | Oslo Accords 1993
+- Treaty of Brest-Litovsk — Brest-Litovsk | Brest-Litovsk Treaty | Peace of Brest-Litovsk | Treaty of Brest-Litovsk 1918 | Brest-Litovsk 1918
+- Congress of Vienna — Treaty of Vienna | Final Act of the Congress of Vienna | Vienna Settlement | Treaty of Vienna 1815 | Congress of Vienna 1815 | Vienna Congress | Vienna
+- North Atlantic Treaty — Washington Treaty | NATO Treaty | North Atlantic Pact | North Atlantic Treaty 1949
+- Treaty of Ghent — Ghent | Ghent Treaty | Peace of Ghent | Treaty of Ghent 1814
+- Treaty of Nanking — Treaty of Nanjing | Nanking | Nanjing | Nanking Treaty | Peace of Nanking | Treaty of Nanking 1842 | Treaty of Nanjing 1842
+- Non-Proliferation Treaty — NPT | Nuclear Non-Proliferation Treaty | Treaty on the Non-Proliferation of Nuclear Weapons
+- Schengen Agreement — Schengen | Schengen Accord | Schengen Accords | Schengen Agreement 1985
+- Sykes–Picot Agreement — Sykes-Picot | Sykes–Picot Accord | Sykes–Picot Accords | Sykes–Picot Agreement 1916
+- Treaty of Union — Acts of Union | Act of Union | Union Treaty | Peace of Union | Union with Scotland | Treaty of Union 1707 | Act of Union 1707 | Acts of Union 1707 | Union of 1707
+- Anglo-Irish Treaty — Irish Treaty | Treaty of 1921 | Anglo-Irish Treaty of 1921 | Anglo-Irish Treaty 1921 | Articles of Agreement for a Treaty between Great Britain and Ireland
+- Kellogg–Briand Pact — Pact of Paris | Kellogg Pact | Kellogg–Briand | Kellogg–Briand Pact 1928
+- Treaty of Guadalupe Hidalgo — Guadalupe Hidalgo | Guadalupe Hidalgo Treaty | Peace of Guadalupe Hidalgo | Treaty of Guadalupe Hidalgo 1848
+- Treaty of London — Treaty of London 1839 | Treaty of London 1840 | Treaty of London 1913 | Treaty of London 1915 | Treaty of London 1949 | London Treaty | Peace of London | London
+- Dayton Agreement — Dayton Accords | Dayton | Dayton Peace Agreement | Dayton Accord | Dayton Agreement 1995 | Dayton Accords 1995
+- Entente Cordiale — Entente Cordiale 1904
+
+### Tier 3: known to fans (72)
+
+- Magna Carta — Great Charter | Magna Charta | Magna Carta 1215 | Magna Carta Libertatum
+- Treaty of Trianon — Trianon | Trianon Treaty | Peace of Trianon | Treaty of Trianon 1920
+- Treaty of Sèvres — Sevres | Sèvres Treaty | Peace of Sèvres | Treaty of Sèvres 1920
+- Treaty of Lausanne — Lausanne | Lausanne Treaty | Peace of Lausanne | Treaty of Lausanne 1923
+- Treaty of Saint-Germain — Saint-Germain | Treaty of St Germain | Saint-Germain Treaty | Peace of Saint-Germain | Treaty of Saint-Germain 1919
+- Treaty of Neuilly — Neuilly | Neuilly Treaty | Peace of Neuilly | Treaty of Neuilly 1919
+- Locarno Treaties — Locarno Pact | Locarno | Treaty of Locarno | Locarno Treaties 1925
+- Treaty of Rapallo — Rapallo | Treaty of Rapallo 1920 | Treaty of Rapallo 1922 | Rapallo Treaty | Peace of Rapallo
+- Pact of Steel — Pact of Steel 1939
+- Tripartite Pact — Axis Pact | Berlin Pact | Tripartite Pact 1940
+- Anti-Comintern Pact — Anti-Comintern Pact 1936
+- Treaty of Shimonoseki — Shimonoseki | Shimonoseki Treaty | Peace of Shimonoseki | Treaty of Shimonoseki 1895
+- Treaty of Portsmouth — Portsmouth | Portsmouth Treaty | Peace of Portsmouth | Treaty of Portsmouth 1905
+- Treaty of Tilsit — Tilsit | Tilsit Treaty | Peace of Tilsit | Treaty of Tilsit 1807
+- Treaty of Amiens — Amiens | Amiens Treaty | Peace of Amiens | Treaty of Amiens 1802
+- Treaty of Campo Formio — Campo Formio | Campo Formio Treaty | Peace of Campo Formio | Treaty of Campo Formio 1797
+- Treaty of Aix-la-Chapelle — Aix-la-Chapelle | Treaty of Aix-la-Chapelle 1668 | Treaty of Aix-la-Chapelle 1748 | Aix-la-Chapelle Treaty | Peace of Aix-la-Chapelle | Treaty of Aachen | Peace of Aachen | Aachen Treaty | Aachen
+- Treaty of Nijmegen — Nijmegen | Nijmegen Treaty | Peace of Nijmegen | Treaty of Nijmegen 1678
+- Treaty of Ryswick — Ryswick | Treaty of Rijswijk | Ryswick Treaty | Peace of Ryswick | Treaty of Ryswick 1697
+- Treaty of the Pyrenees — the Pyrenees Treaty | Peace of the Pyrenees | Treaty of the Pyrenees 1659
+- Peace of Augsburg — Augsburg | Treaty of Augsburg | Peace of Augsburg 1555
+- Treaty of Troyes — Troyes | Troyes Treaty | Peace of Troyes | Treaty of Troyes 1420
+- Treaty of Verdun — Verdun Treaty | Peace of Verdun | Treaty of Verdun 843
+- Treaty of Wedmore — Wedmore | Wedmore Treaty | Peace of Wedmore | Treaty of Wedmore 878
+- Treaty of Edinburgh–Northampton — Treaty of Northampton | Edinburgh–Northampton Treaty | Peace of Edinburgh–Northampton | Treaty of Edinburgh–Northampton 1328
+- Treaty of Limerick — Limerick | Limerick Treaty | Peace of Limerick | Treaty of Limerick 1691
+- Treaty of Kiel — Kiel Treaty | Peace of Kiel | Treaty of Kiel 1814
+- Treaty of Frankfurt — Frankfurt Treaty | Peace of Frankfurt | Treaty of Frankfurt 1871
+- Treaty of San Stefano — San Stefano | San Stefano Treaty | Peace of San Stefano | Treaty of San Stefano 1878
+- Treaty of Berlin — Congress of Berlin | Treaty of Berlin 1878 | Berlin Treaty | Peace of Berlin
+- Treaty of Vereeniging — Vereeniging | Vereeniging Treaty | Peace of Vereeniging | Treaty of Vereeniging 1902
+- Treaty of Kanagawa — Convention of Kanagawa | Kanagawa | Kanagawa Treaty | Peace of Kanagawa | Treaty of Kanagawa 1854
+- Treaty of San Francisco — Treaty of Peace with Japan | San Francisco Peace Treaty | San Francisco Treaty | Peace of San Francisco | Treaty of San Francisco 1951
+- Jay Treaty — Jay's Treaty | Jay Treaty 1794
+- Adams–Onís Treaty — Transcontinental Treaty | Florida Treaty | Adams–Onís | Adams–Onís Treaty 1819
+- Louisiana Purchase — Louisiana Purchase Treaty | Louisiana Purchase 1803
+- Oregon Treaty — Oregon Treaty 1846
+- Treaty of Fort Laramie — Fort Laramie Treaty | Treaty of Fort Laramie 1851 | Treaty of Fort Laramie 1868 | Peace of Fort Laramie
+- Treaty of Greenville — Greenville Treaty | Peace of Greenville | Treaty of Greenville 1795
+- Helsinki Accords — Helsinki Final Act | Helsinki Declaration | Helsinki Agreement | Helsinki Accords 1975
+- Antarctic Treaty — Antarctic Treaty 1959
+- Outer Space Treaty — Outer Space Treaty 1967
+- Partial Test Ban Treaty — Test Ban Treaty | Limited Test Ban Treaty | Nuclear Test Ban Treaty | Partial Test Ban Treaty 1963
+- SALT — SALT I | SALT II | SALT treaties | Strategic Arms Limitation Treaty | Strategic Arms Limitation Talks
+- START — START I | START II | Strategic Arms Reduction Treaty
+- INF Treaty — Intermediate-Range Nuclear Forces Treaty | INF Treaty 1987
+- Montreal Protocol — Montreal Protocol 1987
+- Charter of the United Nations — UN Charter | United Nations Charter | UN Charter 1945
+- Treaty of Nice — Nice Treaty | Peace of Nice | Treaty of Nice 2001
+- Treaty of Amsterdam — Amsterdam Treaty | Peace of Amsterdam | Treaty of Amsterdam 1997
+- Rome Statute — Rome Statute of the International Criminal Court | Statute of Rome | ICC Statute | Rome Statute 1998
+- Potsdam Agreement — Potsdam | Potsdam Accord | Potsdam Accords | Potsdam Conference | Potsdam Agreement 1945
+- Washington Naval Treaty — Five-Power Treaty | Washington Naval Agreement | Washington Naval Treaty 1922
+- Triple Entente — Triple Entente 1907
+- Triple Alliance — Triple Alliance 1882
+- Lateran Treaty — Lateran Pacts | Lateran Accords | Lateran Treaty 1929
+- Élysée Treaty — Franco-German Treaty of Friendship | Élysée Treaty 1963
+- Treaty of Karlowitz — Karlowitz | Treaty of Carlowitz | Karlowitz Treaty | Peace of Karlowitz | Treaty of Karlowitz 1699
+- Treaty of Küçük Kaynarca — Kucuk Kaynarca | Treaty of Kuchuk Kainarji | Küçük Kaynarca Treaty | Peace of Küçük Kaynarca | Treaty of Küçük Kaynarca 1774
+- Treaty of Nystad — Nystad | Treaty of Uusikaupunki | Nystad Treaty | Peace of Nystad | Treaty of Nystad 1721
+- Brexit Withdrawal Agreement — Withdrawal Agreement | Brexit deal | Brexit Withdrawal Accord | Brexit Withdrawal Accords
+- Abraham Accords — Abraham Agreement | Abraham Accords 2020
+- Joint Comprehensive Plan of Action — JCPOA | Iran nuclear deal | Iran deal
+- Sino-British Joint Declaration — Sino-British Joint Declaration 1984
+- AUKUS — AUKUS pact | AUKUS 2021
+- Armistice of 11 November 1918 — Armistice of Compiegne | 1918 Armistice | Armistice of 1918 | Armistice
+- General Act of the Berlin Conference — Berlin Conference | General Act of Berlin | Berlin Act
+- Treaty of Breda — Breda Treaty | Peace of Breda | Treaty of Breda 1667
+- Treaty of Dover — Secret Treaty of Dover | Dover Treaty | Peace of Dover | Treaty of Dover 1670
+- Paris Peace Accords — Paris Peace Accord | Paris Peace Agreement | Paris Peace Agreements | Paris Peace Accords 1973 | Treaty of Paris 1973 | Vietnam peace accords | Agreement on Ending the War and Restoring Peace in Viet Nam
+- European Convention on Human Rights — ECHR | Convention for the Protection of Human Rights and Fundamental Freedoms | European Convention on Human Rights 1950
+- Refugee Convention — 1951 Refugee Convention | Refugee Convention 1951 | UN Refugee Convention | Convention Relating to the Status of Refugees | Geneva Refugee Convention
+
+### Tier 4: obscure (115)
+
+- Anglo-Japanese Alliance
+- Franco-American Alliance — Treaty of Alliance 1778 | Treaty of Amity and Commerce
+- Dual Alliance
+- Reinsurance Treaty
+- Holy Alliance
+- Franco-Russian Alliance
+- Anglo-Russian Convention — Anglo-Russian Entente
+- Treaty of Brétigny — Brétigny Treaty | Peace of Brétigny
+- Treaty of Picquigny — Picquigny | Picquigny Treaty | Peace of Picquigny
+- Peace of Cateau-Cambrésis — Cateau-Cambresis | Treaty of Cateau-Cambrésis
+- Treaty of Madrid — Treaty of Madrid 1526 | Treaty of Madrid 1621 | Treaty of Madrid 1630 | Treaty of Madrid 1670 | Treaty of Madrid 1750 | Treaty of Madrid 1801 | Treaty of Madrid 1880 | Madrid Treaty | Peace of Madrid
+- Treaty of Westminster — Treaty of Westminster 1153 | Treaty of Westminster 1527 | Treaty of Westminster 1654 | Treaty of Westminster 1674 | Treaty of Westminster 1756 | Westminster Treaty | Peace of Westminster | Treaty of Wallingford | Treaty of Winchester
+- Treaty of Fontainebleau — Treaty of Fontainebleau 1631 | Treaty of Fontainebleau 1679 | Treaty of Fontainebleau 1743 | Treaty of Fontainebleau 1762 | Treaty of Fontainebleau 1785 | Treaty of Fontainebleau 1807 | Treaty of Fontainebleau 1814 | Fontainebleau Treaty | Peace of Fontainebleau
+- Treaty of Hubertusburg — Hubertusburg | Hubertusburg Treaty | Peace of Hubertusburg
+- Treaty of Basel — Treaty of Basel 1499 | Treaty of Basel 1795 | Basel Treaty | Peace of Basel
+- Treaty of Lunéville — Luneville | Lunéville Treaty | Peace of Lunéville
+- Treaty of Pressburg — Pressburg | Pressburg Treaty | Peace of Pressburg
+- Treaty of Schönbrunn — Schonbrunn | Schönbrunn Treaty | Peace of Schönbrunn
+- Treaty of Adrianople — Treaty of Edirne | Adrianople Treaty | Peace of Adrianople
+- Treaty of Bucharest — Treaty of Bucharest 1812 | Treaty of Bucharest 1886 | Treaty of Bucharest 1913 | Treaty of Bucharest 1918 | Bucharest Treaty | Peace of Bucharest
+- Treaty of Passarowitz — Passarowitz | Passarowitz Treaty | Peace of Passarowitz
+- Treaty of Roskilde — Roskilde | Roskilde Treaty | Peace of Roskilde
+- Peace of Thorn — Treaty of Thorn | Peace of Thorn 1411 | Peace of Thorn 1466
+- Union of Lublin
+- Union of Utrecht
+- Treaty of Aigun — Aigun | Aigun Treaty | Peace of Aigun
+- Convention of Peking — Treaty of Peking | Convention of Beijing
+- Treaty of Tientsin — Treaty of Tianjin | Tientsin | Tientsin Treaty | Peace of Tientsin
+- Treaty of Ganghwa — Ganghwa Treaty | Japan-Korea Treaty of 1876 | Peace of Ganghwa
+- Japan–Korea Annexation Treaty — Japan-Korea Treaty of 1910 | Annexation Treaty
+- Simla Agreement — Simla Accord | Simla Accords
+- Indus Waters Treaty
+- Treaty of Allahabad — Allahabad | Allahabad Treaty | Peace of Allahabad
+- Treaty of Hudaybiyyah — Hudaybiyyah | Hudaybiyyah Treaty | Peace of Hudaybiyyah
+- Treaty of Jaffa — Treaty of Ramla | Jaffa Treaty | Peace of Jaffa
+- Treaty of Apamea — Peace of Apamea | Apamea Treaty
+- Peace of Nicias — Treaty of Nicias
+- Concordat of Worms
+- Treaty of Saint-Clair-sur-Epte — Saint-Clair-sur-Epte Treaty | Peace of Saint-Clair-sur-Epte
+- Peace of Lodi — Treaty of Lodi
+- Auld Alliance — Treaty of Paris 1295 | Treaty of Corbeil
+- Treaty of Methuen — Methuen Treaty | Port Wine Treaty | Peace of Methuen
+- Hay–Bunau-Varilla Treaty — Hay–Bunau-Varilla
+- Torrijos–Carter Treaties — Panama Canal Treaties | Torrijos-Carter Treaty | Torrijos–Carter
+- Treaty of Córdoba — Córdoba Treaty | Peace of Córdoba
+- Treaty of Velasco — Velasco Treaty | Peace of Velasco
+- Treaty of Tlatelolco — Tlatelolco | Tlatelolco Treaty | Peace of Tlatelolco
+- Gadsden Purchase — Treaty of La Mesilla
+- Alaska Purchase — Treaty of Cession
+- Webster–Ashburton Treaty — Webster–Ashburton
+- Rush–Bagot Agreement — Rush-Bagot Treaty | Rush–Bagot | Rush–Bagot Accord | Rush–Bagot Accords
+- Pinckney's Treaty — Treaty of San Lorenzo | Treaty of Madrid 1795
+- Treaty of New Echota — New Echota Treaty | Peace of New Echota
+- London Naval Treaty
+- Anglo-German Naval Agreement — Anglo-German Naval Accord | Anglo-German Naval Accords
+- Yalta Agreement — Yalta | Yalta Agreements | Yalta Accord | Yalta Accords | Yalta Conference
+- Bretton Woods Agreement — Bretton Woods | Bretton Woods Agreements | Bretton Woods Accord | Bretton Woods Accords
+- General Agreement on Tariffs and Trade — GATT
+- Treaty of Brussels — Brussels Pact | Treaty of Brussels 1948 | Brussels Treaty | Peace of Brussels
+- Treaty of Dunkirk — Dunkirk Treaty | Peace of Dunkirk
+- Austrian State Treaty
+- Treaty of Warsaw (1970) — Warsaw Treaty 1970
+- Two Plus Four Agreement — Two Plus Four Treaty | Treaty on the Final Settlement with Respect to Germany | Two Plus Four Accord | Two Plus Four Accords
+- ANZUS — ANZUS Treaty | ANZUS Pact
+- Manila Pact — Southeast Asia Collective Defense Treaty | SEATO Treaty
+- Baghdad Pact
+- Egypt–Israel Peace Treaty — Egypt-Israel Treaty
+- Sunningdale Agreement — Sunningdale | Sunningdale Accord | Sunningdale Accords
+- Anglo-Irish Agreement — Hillsborough Agreement | Anglo-Irish Accord | Anglo-Irish Accords
+- Single European Act
+- Treaty of Riga — Peace of Riga | Treaty of Riga 1921 | Riga Treaty
+- Évian Accords — Evian | Évian Agreement
+- Lancaster House Agreement — Lancaster House Accord | Lancaster House Accords
+- Korean Armistice Agreement — Korean Armistice | Korean Armistice Accord | Korean Armistice Accords
+- Comprehensive Nuclear-Test-Ban Treaty — CTBT | Comprehensive Test Ban Treaty
+- New START
+- ABM Treaty — Anti-Ballistic Missile Treaty
+- Chemical Weapons Convention — CWC
+- Ottawa Treaty — Mine Ban Treaty | Landmine Treaty | Ottawa Convention
+- UNCLOS — Law of the Sea | United Nations Convention on the Law of the Sea | Law of the Sea Convention
+- Hague Conventions — Hague Convention
+- Geneva Protocol
+- Geneva Accords — Geneva Agreements | Geneva Agreement
+- Minsk agreements — Minsk Protocol | Minsk II | Minsk
+- Budapest Memorandum
+- Belavezha Accords — Belavezha Agreement
+- North American Free Trade Agreement — NAFTA | North American Free Trade Accord | North American Free Trade Accords
+- Plaza Accord — Plaza Agreement
+- Doha Agreement — Doha Accord | Doha Accords
+- Windsor Framework — Windsor
+- Northern Ireland Protocol — Protocol on Ireland and Northern Ireland | NI Protocol | Irish Protocol | Protocol on Ireland/Northern Ireland
+- Heligoland–Zanzibar Treaty — Heligoland–Zanzibar
+- Treaty of Wuchale — Treaty of Ucciale | Wuchale Treaty | Peace of Wuchale
+- Treaty establishing a Constitution for Europe — European Constitution | EU Constitution | Constitutional Treaty | European Constitutional Treaty | Constitution for Europe
+- Treaty of Tripoli — Tripoli Treaty | Treaty of Peace and Friendship 1796 | Peace of Tripoli
+- Convention on the Rights of the Child — UNCRC | UN Convention on the Rights of the Child | United Nations Convention on the Rights of the Child
+- Genocide Convention — Convention on the Prevention and Punishment of the Crime of Genocide | UN Genocide Convention
+- UNFCCC — United Nations Framework Convention on Climate Change | UN Framework Convention on Climate Change | Framework Convention on Climate Change | Climate Change Convention
+- CPTPP — Comprehensive and Progressive Agreement for Trans-Pacific Partnership | Trans-Pacific Partnership | TPP | TPP-11 | Trans-Pacific Partnership Agreement
+- US–Japan Security Treaty — Treaty of Mutual Cooperation and Security between the United States and Japan | Japan–US Security Treaty | Anpo
+- Montreux Convention — Montreux Convention Regarding the Regime of the Straits
+- League of the Three Emperors — Dreikaiserbund | Three Emperors' League | League of Three Emperors
+- Covenant of the League of Nations — League of Nations Covenant | League Covenant | Covenant of the League
+- Glasgow Climate Pact — Glasgow Pact | COP26 agreement
+- Berne Convention — Bern Convention | Berne Convention for the Protection of Literary and Artistic Works
+- Artemis Accords — Artemis Accord | Artemis Agreement
+- Boxer Protocol — Xinchou Treaty | Boxer Protocol of 1901
+- Colombian peace agreement — Colombian peace accord | Colombian peace deal | FARC peace deal | FARC peace agreement | Havana peace accords
+- Great Peace of Montreal — Grande Paix de Montréal | Peace of Montreal
+- Sino-Portuguese Joint Declaration — Joint Declaration on the Question of Macau
+- Kalmar Union — Union of Kalmar | Treaty of Kalmar
+- Poona Pact — Pune Pact | Poona Pact of 1932
+- Lucknow Pact — Lucknow Pact of 1916
+- Gandhi–Irwin Pact — Gandhi–Irwin
+- Treaty of London (1604)
+
+### Tier 5: expert (296)
+
+- Treaty of Windsor (1175) — 1175 Treaty of Windsor | Treaty of Windsor | Windsor Treaty
+- Treaty of Windsor (1899) — 1899 Treaty of Windsor
+- Peace of Prague (1635) — Treaty of Prague 1635 | Prague Treaty 1635 | Peace of Prague
+- Treaty of Prague (1866) — Peace of Prague 1866 | Prague Treaty 1866 | Prague | Treaty of Prague | Prague Treaty
+- Treaty of Perth — Perth Treaty | Peace of Perth
+- Treaty of Montgomery — Montgomery Treaty | Peace of Montgomery
+- Treaty of Aberconwy — Aberconwy Treaty | Peace of Aberconwy
+- Treaty of Falaise — Falaise Treaty | Peace of Falaise
+- Treaty of York — York Treaty | Peace of York
+- Treaty of Le Goulet — Le Goulet Treaty | Peace of Le Goulet
+- Treaty of Lambeth — Lambeth Treaty | Peace of Lambeth
+- Treaty of Étaples — Étaples Treaty | Peace of Étaples
+- Treaty of Medina del Campo — Medina del Campo Treaty | Peace of Medina del Campo
+- Treaty of Nonsuch — Nonsuch Treaty | Peace of Nonsuch
+- Treaty of Greenwich — Greenwich Treaty | Peace of Greenwich
+- Treaty of Berwick — Berwick Treaty | Peace of Berwick
+- Treaty of Edinburgh — Edinburgh Treaty | Peace of Edinburgh
+- Treaty of Perpetual Peace — Perpetual Peace Treaty | Peace of Perpetual Peace
+- Treaty of Hampton Court — Hampton Court Treaty | Peace of Hampton Court
+- Treaty of Ripon — Ripon Treaty | Peace of Ripon
+- Solemn League and Covenant
+- Treaty of Arras — Treaty of Arras 1435 | Treaty of Arras 1482 | Arras Treaty | Peace of Arras
+- Treaty of Cambrai — Ladies' Peace | Paix des Dames | Cambrai Treaty | Peace of Cambrai
+- Treaty of Noyon — Noyon Treaty | Peace of Noyon
+- League of Cambrai
+- Treaty of Bärwalde — Bärwalde Treaty | Peace of Bärwalde
+- Treaty of Seville — Seville Treaty | Peace of Seville
+- Treaty of Dresden — Dresden Treaty | Peace of Dresden
+- Treaty of Füssen — Füssen Treaty | Peace of Füssen
+- Treaty of San Ildefonso — San Ildefonso Treaty | Peace of San Ildefonso
+- Treaty of Aranjuez — Aranjuez Treaty | Peace of Aranjuez
+- Treaty of Valençay — Valençay Treaty | Peace of Valençay
+- Treaty of Chaumont — Chaumont Treaty | Peace of Chaumont
+- Quadruple Alliance
+- Treaty of Zurich — Zurich Treaty | Peace of Zurich
+- Gastein Convention — Convention of Gastein
+- Treaty of Turin — Treaty of Turin 1381 | Treaty of Turin 1696 | Treaty of Turin 1860 | Turin Treaty | Peace of Turin
+- Treaty of Constantinople — Treaty of Constantinople 1479 | Treaty of Constantinople 1533 | Treaty of Constantinople 1590 | Treaty of Constantinople 1700 | Treaty of Constantinople 1724 | Treaty of Constantinople 1832 | Treaty of Constantinople 1897 | Treaty of Constantinople 1913 | Constantinople Treaty | Peace of Constantinople
+- Treaty of Unkiar Skelessi — Treaty of Hunkar Iskelesi | Unkiar Skelessi Treaty | Peace of Unkiar Skelessi
+- Treaty of Jassy — Treaty of Iasi | Jassy Treaty | Peace of Jassy
+- Treaty of Belgrade — Treaty of Belgrade 1739 | Belgrade Treaty | Peace of Belgrade
+- Treaty of Zsitvatorok — Peace of Zsitvatorok | Zsitvatorok Treaty
+- Peace of Amasya — Treaty of Amasya
+- Treaty of Zuhab — Treaty of Qasr-e Shirin | Zuhab Treaty | Peace of Zuhab
+- Treaty of Erzurum — Erzurum Treaty | Peace of Erzurum
+- Treaty of Stolbovo — Stolbovo Treaty | Peace of Stolbovo
+- Treaty of Oliva — Oliva Treaty | Peace of Oliva
+- Treaty of Andrusovo — Andrusovo Treaty | Peace of Andrusovo
+- Pereyaslav Agreement — Treaty of Pereyaslav | Pereyaslav Accord | Pereyaslav Accords
+- Treaty of Åbo — Treaty of Turku | Åbo Treaty | Peace of Åbo
+- Treaty of Fredrikshamn — Fredrikshamn Treaty | Peace of Fredrikshamn
+- Treaty of Melno — Melno Treaty | Peace of Melno
+- Treaty of Kalisz — Kalisz Treaty | Peace of Kalisz
+- Union of Krewo — Union of Kreva
+- Peace of Venice — Treaty of Venice
+- Peace of Constance — Treaty of Constance
+- Treaty of Nymphaeum — Nymphaeum Treaty | Peace of Nymphaeum
+- Treaty of Devol — Devol Treaty | Peace of Devol
+- Treaty of Mersen — Mersen Treaty | Peace of Mersen
+- Treaty of Ribemont — Ribemont Treaty | Peace of Ribemont
+- Treaty of Alfred and Guthrum — Alfred and Guthrum Treaty | Peace of Alfred and Guthrum
+- Treaty of Granada — Granada Treaty | Peace of Granada
+- Treaty of Tunis — Tunis Treaty | Peace of Tunis
+- Anglo-Portuguese Alliance — Anglo-Portuguese Treaty of 1373 | Treaty of London 1373
+- Treaty of Alcáçovas — Alcáçovas Treaty | Peace of Alcáçovas
+- Treaty of Zaragoza — Treaty of Saragossa | Zaragoza Treaty | Peace of Zaragoza
+- Peace of Callias — Treaty of Callias
+- Thirty Years' Peace
+- King's Peace — Peace of Antalcidas
+- Treaty of Phoenice — Peace of Phoenice | Phoenice Treaty
+- Treaty of Lutatius — Lutatius Treaty | Peace of Lutatius
+- Treaty of Dardanos — Peace of Dardanos | Dardanos Treaty
+- Treaty of Brundisium — Brundisium Treaty | Peace of Brundisium
+- Treaty of Misenum — Misenum Treaty | Peace of Misenum
+- Peace of Nisibis — Treaty of Nisibis
+- Treaty of Margus — Margus Treaty | Peace of Margus
+- Eternal Peace — Perpetual Peace of 532
+- Treaty of Kyakhta — Kyakhta Treaty | Peace of Kyakhta
+- Treaty of Wanghia — Wanghia Treaty | Peace of Wanghia
+- Treaty of Whampoa — Whampoa Treaty | Peace of Whampoa
+- Treaty of the Bogue — the Bogue Treaty | Peace of the Bogue
+- Harris Treaty
+- Treaty of Shimoda — Shimoda Treaty | Peace of Shimoda
+- Japan–Korea Treaty of 1905 — Eulsa Treaty
+- Treaty of Taipei — Taipei Treaty | Peace of Taipei
+- Sino-Soviet Treaty of Friendship
+- Panchsheel — Five Principles of Peaceful Coexistence
+- Tashkent Declaration — Tashkent Agreement | Tashkent Accord
+- Simla Convention
+- Treaty of Sugauli — Sugauli Treaty | Peace of Sugauli
+- Treaty of Salbai — Salbai Treaty | Peace of Salbai
+- Treaty of Bassein — Bassein Treaty | Peace of Bassein
+- Treaty of Seringapatam — Seringapatam Treaty | Peace of Seringapatam | Treaty of Srirangapatna | Treaty of Srirangapatnam
+- Treaty of Mangalore — Mangalore Treaty | Peace of Mangalore
+- Treaty of Amritsar — Treaty of Amritsar 1809 | Treaty of Amritsar 1846 | Amritsar Treaty | Peace of Amritsar
+- Treaty of Lahore — Treaty of Lahore 1846 | Lahore Treaty | Peace of Lahore
+- Treaty of Gandamak — Gandamak Treaty | Peace of Gandamak
+- Durand Line Agreement — Durand Line Accord | Durand Line Accords
+- Treaty of Rawalpindi — Rawalpindi Treaty | Peace of Rawalpindi
+- Treaty of Jeddah — Jeddah Treaty | Peace of Jeddah
+- Anglo-Egyptian Treaty
+- Algiers Agreement — Algiers Accord | Algiers Accords
+- Taif Agreement — Taif Accord | Taif Accords
+- Israel–Jordan Peace Treaty — Wadi Araba Treaty
+- Treaty of Tartu — Tartu Treaty | Peace of Tartu
+- Treaty of Moscow — Moscow Peace Treaty | Strategic Offensive Reductions Treaty | Treaty of Moscow 1920 | Treaty of Moscow 1921 | Treaty of Moscow 1940 | Treaty of Moscow 1970 | Treaty of Moscow 2002
+- Japan–Soviet Neutrality Pact — Soviet-Japanese Neutrality Pact
+- Stresa Front
+- Hoare–Laval Pact — Hoare–Laval
+- Anglo-Polish Agreement — Anglo-Polish Accord | Anglo-Polish Accords
+- Treaty of Fez — Fez Treaty | Peace of Fez
+- Treaty of Bardo — Bardo Treaty | Peace of Bardo
+- Treaty of Tafna — Tafna Treaty | Peace of Tafna
+- Treaty of Addis Ababa — Addis Ababa Treaty | Peace of Addis Ababa
+- Nkomati Accord — Nkomati Agreement
+- Arusha Accords — Arusha Agreement
+- Lusaka Protocol
+- Comprehensive Peace Agreement — Comprehensive Peace Accord | Comprehensive Peace Accords
+- Treaty of Abuja — Abuja Treaty | Peace of Abuja
+- Treaty of Ancón — Ancón Treaty | Peace of Ancón
+- Treaty of Petrópolis — Petrópolis Treaty | Peace of Petrópolis
+- Treaty of Montevideo — Treaty of Montevideo 1828 | Treaty of Montevideo 1960 | Treaty of Montevideo 1980 | Montevideo Treaty | Peace of Montevideo
+- Treaty of Asunción — Asunción Treaty | Peace of Asunción
+- Treaty of Chaguaramas — Chaguaramas Treaty | Peace of Chaguaramas
+- Esquipulas Peace Agreement — Esquipulas II | Esquipulas Peace Accord | Esquipulas Peace Accords
+- Clayton–Bulwer Treaty — Clayton–Bulwer
+- Hay–Pauncefote Treaty — Hay–Pauncefote
+- Treaty of Washington — Treaty of Washington 1826 | Treaty of Washington 1871
+- Rio Treaty — Inter-American Treaty of Reciprocal Assistance
+- USMCA — United States-Mexico-Canada Agreement | CUSMA
+- Treaty of Fort Stanwix — Fort Stanwix Treaty | Peace of Fort Stanwix
+- Treaty of Hopewell — Hopewell Treaty | Peace of Hopewell
+- Treaty of Canandaigua — Canandaigua Treaty | Peace of Canandaigua
+- Treaty of Dancing Rabbit Creek — Dancing Rabbit Creek Treaty | Peace of Dancing Rabbit Creek
+- Medicine Lodge Treaty
+- Treaty of Hartford — Hartford Treaty | Peace of Hartford
+- Numbered Treaties — Treaty 1 | Treaty 2 | Treaty 3 | Treaty 4 | Treaty 5 | Treaty 6 | Treaty 7 | Treaty 8 | Treaty 9 | Treaty 10 | Treaty 11 | Numbered Treaty
+- Basic Treaty
+- Merger Treaty
+- Seabed Treaty — Seabed Arms Control Treaty
+- Moon Treaty — Moon Agreement
+- Biological Weapons Convention — BWC
+- Arms Trade Treaty
+- Treaty on the Prohibition of Nuclear Weapons — TPNW | Nuclear Weapon Ban Treaty
+- Convention on Cluster Munitions
+- Treaty on Open Skies — Open Skies Treaty
+- CFE Treaty — Treaty on Conventional Armed Forces in Europe
+- Ramsar Convention
+- CITES
+- Basel Convention
+- Stockholm Convention
+- Vienna Convention on Diplomatic Relations — Vienna Convention
+- Vienna Convention on the Law of Treaties
+- Istanbul Convention
+- High Seas Treaty — BBNJ Agreement | Agreement on Marine Biodiversity of Areas beyond National Jurisdiction
+- WHO Pandemic Agreement — Pandemic Agreement | Pandemic Treaty | WHO Pandemic Accord | WHO Pandemic Accords
+- Chagos Agreement — Chagos deal | Chagos treaty | Diego Garcia treaty | Chagos Accord | Chagos Accords
+- Black Sea Grain Initiative — Grain deal | Black Sea grain deal
+- Trade and Cooperation Agreement — EU-UK Trade and Cooperation Agreement | Trade and Cooperation Accord | Trade and Cooperation Accords
+- St Andrews Agreement — St Andrews Accord | St Andrews Accords
+- EEA Agreement — Agreement on the European Economic Area | EEA Accord | EEA Accords
+- Lomé Convention — Lomé
+- Cotonou Agreement — Cotonou Accord | Cotonou Accords
+- Louvre Accord — Louvre Agreement
+- Basel Accords — Basel III | Basel II | Basel Agreement
+- Treaty of Baden — Peace of Baden | Baden Treaty
+- Treaty of Rastatt — Peace of Rastatt | Treaty of Rastadt | Rastatt Treaty
+- Svalbard Treaty — Spitsbergen Treaty | Treaty of Spitsbergen
+- Lombok Treaty — Treaty of Lombok
+- Treaty of Le Touquet — Le Touquet Treaty | Le Touquet agreement
+- Treaty of Durham — Durham Treaty | Peace of Durham
+- Regional Comprehensive Economic Partnership — RCEP
+- Marrakesh Agreement — Marrakech Agreement | WTO Agreement | Marrakesh Agreement Establishing the World Trade Organization | Marrakesh Accord | Marrakesh Accords
+- Copenhagen Accord — Copenhagen Agreement
+- Convention on Biological Diversity — CBD | Biodiversity Convention | UN Convention on Biological Diversity
+- CETA — Comprehensive Economic and Trade Agreement | EU–Canada Comprehensive Economic and Trade Agreement | Canada–EU trade agreement | EU–Canada trade agreement
+- Treaty of Accession — Accession Treaty | Treaty of Accession 1972 | Treaty of Accession 1979 | Treaty of Accession 1985 | Treaty of Accession 1994 | Treaty of Accession 2003 | Treaty of Accession 2005 | Treaty of Accession 2011
+- Nisga'a Final Agreement — Nisga'a Treaty | Nisga'a Agreement | Nisga'a Final Accord | Nisga'a Final Accords
+- Treaty of Purandar — Purandar Treaty | Peace of Purandar
+- Treaty of Yandabo — Yandabo Treaty | Peace of Yandabo
+- Lahore Declaration
+- Indo-Sri Lanka Accord — Indo-Sri Lanka Peace Accord | India–Sri Lanka Accord | Rajiv–Jayewardene Accord | Indo-Sri Lanka Agreement
+- Indo-Soviet Treaty of Friendship and Cooperation — Indo-Soviet Treaty | Indo-Soviet Treaty of Peace, Friendship and Cooperation | Indo-Soviet Friendship Treaty
+- Nehru–Liaquat Pact — Liaquat–Nehru Pact | Nehru–Liaquat
+- Karachi Agreement — Karachi Accord | Karachi Accords
+- Treaty of Surat — Surat Treaty | Peace of Surat
+- Treaty of Madras — Madras Treaty | Peace of Madras
+- Treaty of Wadgaon — Wadgaon Treaty | Peace of Wadgaon
+- India–US Civil Nuclear Agreement — Indo-US nuclear deal | India–US nuclear deal | Indo-US civil nuclear agreement | 123 Agreement | India–US Civil Nuclear Accord | India–US Civil Nuclear Accords
+- Washington Accords for Peace and Prosperity — Washington Accords | DRC–Rwanda peace agreement | Rwanda–DRC peace agreement | Congo–Rwanda peace deal | DRC–Rwanda peace deal
+- Armenia–Azerbaijan peace agreement — Armenia–Azerbaijan peace treaty | Armenia–Azerbaijan peace deal | Azerbaijan–Armenia peace agreement | Azerbaijan–Armenia peace treaty
+- EU–Mercosur Agreement — EU–Mercosur trade deal | EU–Mercosur trade agreement | EU–Mercosur free trade agreement | Mercosur deal | EU–Mercosur | EU–Mercosur Accord | EU–Mercosur Accords
+- India–EU Free Trade Agreement — EU–India Free Trade Agreement | India–EU FTA | EU–India FTA | India–EU trade deal | EU–India trade agreement | India–EU Free Trade Accord | India–EU Free Trade Accords
+- India–UK CETA — UK–India CETA | India–UK Comprehensive Economic and Trade Agreement | UK–India free trade agreement | India–UK free trade agreement | UK–India trade deal | India–UK FTA | UK–India FTA
+- UN Convention against Cybercrime — United Nations Convention against Cybercrime | UN Cybercrime Convention | Hanoi Convention | UN cybercrime treaty
+- Budapest Convention — Convention on Cybercrime | Budapest Convention on Cybercrime
+- US–Ukraine Minerals Agreement — US–Ukraine minerals deal | Ukraine minerals deal | Minerals deal | US–Ukraine Reconstruction Investment Fund agreement | US–Ukraine Minerals Accord | US–Ukraine Minerals Accords
+- Statewide Treaty — Victoria's Statewide Treaty | Victorian Statewide Treaty | Victorian Treaty | Victoria's Treaty | Victorian Aboriginal treaty
+- Gaza ceasefire agreement — Gaza ceasefire | Gaza ceasefire deal | Gaza peace deal | Gaza peace agreement | Israel–Hamas ceasefire | Israel–Hamas ceasefire agreement
+- Treaty of Prague (1973) — Prague Treaty 1973
+- Treaty of Gulistan — Gulistan Treaty | Peace of Gulistan
+- Treaty of Turkmenchay — Treaty of Torkamanchay | Treaty of Turkmanchai | Turkmenchay Treaty | Peace of Turkmenchay
+- Peace of Vervins — Treaty of Vervins
+- Treaty of Hanover — Alliance of Hanover | Hanover Treaty
+- Treaty of Breslau — Peace of Breslau | Breslau Treaty
+- Treaty of Worms — Worms Treaty
+- Treaty of Kardis — Peace of Kardis | Kardis Treaty
+- Treaty of Teusina — Peace of Teusina | Teusina Treaty
+- Treaty of Lyon — Treaty of Lyons | Lyon Treaty | Peace of Lyon
+- Treaty of Monzón — Monzón Treaty | Peace of Monzón
+- Treaty of Cherasco — Cherasco Treaty | Peace of Cherasco
+- Treaty of El Pardo — Treaty of El Pardo 1761 | Treaty of El Pardo 1778 | El Pardo Treaty | Peace of El Pardo
+- Treaty of Blois — Blois Treaty | Peace of Blois
+- Treaty of Akkerman — Akkerman Convention | Akkerman Treaty | Peace of Akkerman
+- Truce of Altmark — Treaty of Altmark
+- Peace of Szeged — Treaty of Szeged
+- Treaty of Badajoz — Badajoz Treaty | Peace of Badajoz
+- Pact of Zanjón — Treaty of Zanjón
+- Treaty of Saint Petersburg — Treaty of Saint Petersburg 1762 | Treaty of Saint Petersburg 1805 | Treaty of Saint Petersburg 1875 | Treaty of Saint Petersburg 1881 | Treaty of Ili | Saint Petersburg Treaty | Peace of Saint Petersburg
+- Treaty of Lhasa — Convention of Lhasa | Anglo-Tibetan Treaty | Lhasa Treaty | Peace of Lhasa
+- Treaty of Saigon — Treaty of Saigon 1862 | Treaty of Saigon 1874 | Saigon Treaty | Peace of Saigon
+- Warsaw Convention — Warsaw Convention 1929
+- UKUSA Agreement — Five Eyes agreement | UKUSA Accord | UKUSA Accords
+- Treaty of Björkö — Bjorko Treaty
+- Treaty of Versailles (1783) — Peace of Versailles 1783
+- First Treaty of Versailles — Treaty of Versailles 1756
+- Treaty of Versailles (1768)
+- Anglo-Dutch Treaty of 1824 — Anglo-Dutch Treaty | Treaty of London 1824
+- Pangkor Treaty — Treaty of Pangkor | Pangkor Engagement | Pangkor Treaty of 1874
+- Malaysia Agreement — Malaysia Agreement 1963 | MA63 | Malaysia Accord | Malaysia Accords
+- Bowring Treaty
+- Burney Treaty
+- Pact of Biak-na-Bato — Biak-na-Bato | Truce of Biak-na-Bato
+- Treaty on Basic Relations between Japan and the Republic of Korea — Treaty on Basic Relations | Japan–Korea Basic Treaty | Japan–Korea Treaty of 1965
+- Treaty of Huế — Treaty of Hue 1883 | Treaty of Hue 1884 | Patenôtre Treaty | Huế Treaty | Peace of Huế
+- Treaty of Chemulpo — Chemulpo Treaty | Peace of Chemulpo
+- Convention of Chuenpi — Chuenpi Convention
+- Tanggu Truce
+- Convention for the Extension of Hong Kong Territory — Second Convention of Peking | Convention of Peking 1898 | New Territories lease
+- Treaty of 1818 — Convention of 1818 | Anglo-American Convention of 1818 | 1818 Treaty
+- Convention of 1800 — Treaty of Mortefontaine
+- Treaty of Fort Jackson — Fort Jackson Treaty | Peace of Fort Jackson
+- Treaty of Fort Wayne — Fort Wayne Treaty
+- Treaty of Point Elliott — Point Elliott Treaty
+- Treaty of Medicine Creek — Medicine Creek Treaty
+- Treaty of Traverse des Sioux — Traverse des Sioux Treaty
+- Burlingame Treaty
+- Treaty of Niagara — Niagara Treaty | Peace of Niagara
+- Robinson Treaties — Robinson–Huron Treaty | Robinson–Superior Treaty
+- Peace and Friendship Treaties — Treaties of Peace and Friendship
+- Halibut Treaty
+- Batman's Treaty — Batman Treaty
+- Torres Strait Treaty
+- Timor Gap Treaty
+- Treaty of Rarotonga — South Pacific Nuclear Free Zone Treaty | Rarotonga Treaty
+- Treaty of Pelindaba — African Nuclear-Weapon-Free Zone Treaty | Pelindaba Treaty
+- Treaty of Bangkok — Southeast Asian Nuclear-Weapon-Free Zone Treaty | Bangkok Treaty
+- Treaty of Canterbury — Channel Tunnel Treaty | Treaty of Canterbury 1986 | Canterbury Treaty
+- Lancaster House Treaties
+- Stormont House Agreement — Stormont House Accord | Stormont House Accords
+- New Decade, New Approach
+- Treaty of Birgham — Birgham Treaty
+- Treaty of Mellifont — Mellifont Treaty | Peace of Mellifont
+- Treaty of Woodstock — Woodstock Treaty | Peace of Woodstock
+- Treaty of Boulogne — Boulogne Treaty | Peace of Boulogne
+- Treaty of Teschen — Peace of Teschen | Teschen Treaty
+- Treaty of Copenhagen — Peace of Copenhagen | Copenhagen Treaty
+- Treaty of Ankara — Franklin-Bouillon Agreement | Ankara Treaty | Peace of Ankara
+- Four Power Agreement on Berlin — Quadripartite Agreement on Berlin | Berlin Agreement 1971
+- German–Polish Non-Aggression Pact — Polish–German Non-Aggression Pact | German–Polish Declaration of Non-Aggression
+- Little Entente
+- Balkan Pact — Balkan Entente
+- Armistice of Mudros
+- Armistice of Cassibile
+- Armistice of 22 June 1940 — Second Armistice at Compiègne | Franco-German Armistice | Armistice of Compiègne 1940
+- 1949 Armistice Agreements — Arab–Israeli armistice agreements
+- Pretoria Agreement — Pretoria peace agreement | Tigray peace agreement | Pretoria Accord | Pretoria Accords
+- Lomé Peace Accord — Lomé Peace Agreement
+- Sand River Convention
+- Bloemfontein Convention
+- Pretoria Convention
+- Pact of Bogotá — American Treaty on Pacific Settlement
+- Cartagena Agreement — Andean Pact | Cartagena Accord | Cartagena Accords
+- Treaty of Ciudad Juárez — Ciudad Juárez Treaty | Peace of Ciudad Juárez
+- Chicago Convention — Convention on International Civil Aviation
+- CEDAW — Convention on the Elimination of All Forms of Discrimination against Women
+- International Covenant on Civil and Political Rights — ICCPR
+- UN Convention against Torture — Convention against Torture | UNCAT
+- Treaty of Paris (1229) — Treaty of Meaux | Treaty of Meaux-Paris
+- Treaty of Paris (1259)
+- Treaty of Paris (1303)
+- Treaty of London (1518)
+- Treaty of London (1827)
+- Treaty of London (1852) — London Protocol of 1852
+- Treaty of London (1864)
+- Treaty of London (1867) — Second Treaty of London
+
+### Tier 6: rare jackpots (3)
+
+- Treaty of Kadesh — Kadesh | Egyptian-Hittite peace treaty | Egyptian-Hittite treaty | Kadesh Treaty | Peace of Kadesh | Eternal Treaty | Silver Treaty
+- Treaty of Windsor (1386) — 1386 Treaty of Windsor
+- Treaty of Nerchinsk — Nerchinsk | Nerchinsk Treaty | Peace of Nerchinsk
+
+## Refused on purpose (19)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Peace treaty | Treaty | Pact | Accord | Agreement | Peace Accord | Peace deal — "Every answer here is one. Give this one its name."
+- Declaration of Independence | US Declaration of Independence | Balfour Declaration | Universal Declaration of Human Rights | Atlantic Charter | Emancipation Proclamation | Fourteen Points | Potsdam Declaration | Cairo Declaration | Schuman Declaration | Downing Street Declaration | Declaration of Arbroath | Uluru Statement from the Heart | Panmunjom Declaration — "A declaration, not a treaty."
+- Monroe Doctrine | Truman Doctrine | Brezhnev Doctrine | Marshall Plan | Lend-Lease | Open Door Policy | New Deal | Appeasement | Containment | Detente — "A policy, not a treaty."
+- Edict of Nantes | Edict of Worms | Bill of Rights | Habeas Corpus | Statute of Westminster | Petition of Right | Corn Laws | Stamp Act | Reform Act | US Constitution | Constitution — "A decree or a law, not a treaty between powers."
+- Zimmermann Telegram | Zimmerman Telegram — "A secret telegram, not a treaty."
+- NATO | North Atlantic Treaty Organization | EU | European Union | UN | United Nations | League of Nations | EEC | Common Market | Commonwealth | SEATO | CENTO | OPEC | ASEAN | African Union | WTO | OSCE | Council of Europe | Mercosur | EFTA | Five Eyes | CARICOM | ECOWAS | SAARC — "An organisation, not the treaty behind it."
+- Brexit — "The departure, not the deal. The deal has a duller name."
+- Tehran Conference | Casablanca Conference | Tehran | Casablanca — "A wartime conference, not a treaty."
+- Paris Peace Conference — "A conference. The treaties it produced had names of their own."
+- Sokovia Accords | Khitomer Accords | Treaty of Algeron — "A treaty of fiction."
+- Pirate Code | Pirates' Code | Code of the Brethren — "More what you'd call guidelines than an actual treaty."
+- Global Plastics Treaty | Plastics treaty | Plastic treaty | UN plastics treaty | Plastic pollution treaty — "Still being argued over. No text has been agreed yet."
+- Twenty-One Demands | 21 Demands — "Demands, not a treaty, though China was forced to sign treaties built on most of them."
+- Domesday Book — "A great survey of England, not a treaty."
+- Schlieffen Plan | Dawes Plan | Young Plan | Morgenthau Plan | Peel Plan | Mountbatten Plan | Cabinet Mission Plan | Trump peace plan | 20-point plan | Gaza peace plan — "A plan, not a treaty."
+- Unequal Treaties | Unequal Treaty — "A name historians give a whole run of treaties forced on China, Japan and Korea. Name one of them."
+- Armistice Day | Remembrance Day | Veterans Day — "The day it is remembered, not the agreement itself."
+- G7 | G20 | BRICS | Quad — "A forum of states that meets to talk. No treaty founded it."
+- Edict of Milan — "An edict: two emperors agreed it, but it bound their subjects, not each other."

@@ -1,0 +1,365 @@
+# Name a writing system or alphabet.
+
+Question id: `writing-systems` · category: language · source: `data/language.json`
+
+Rules: Any script, alphabet or other way of writing words, ancient, modern or invented, Braille and shorthand included. Spelling alphabets like NATO's, codes and ciphers don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (310 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (8)
+
+- Latin alphabet — Latin | Latin script | Roman alphabet | Roman | Roman script | English alphabet | ABC | French alphabet | German alphabet | Spanish alphabet | Italian alphabet | Portuguese alphabet | Dutch alphabet | Polish alphabet | Turkish alphabet | Swedish alphabet | Welsh alphabet | Esperanto alphabet
+- Greek alphabet — Greek | Greek script | Ancient Greek
+- Cyrillic — Cyrillic alphabet | Cyrillic script | Russian alphabet | Russian | Russian script | Ukrainian alphabet | Bulgarian alphabet | Serbian Cyrillic | Early Cyrillic
+- Arabic script — Arabic | Arabic alphabet
+- Hebrew alphabet — Hebrew | Hebrew script | Square script | Aleph-bet | Alefbet | Ashuri
+- Chinese characters — Chinese | Hanzi | Chinese script | Han characters | Chinese writing | Chinese symbols | Chinese alphabet
+- Egyptian hieroglyphs — Hieroglyphs | Hieroglyphics | Egyptian hieroglyphics | Hieroglyphic | Hieroglyphic script | Egyptian | Egyptian writing
+- Braille — Brail | Brial
+
+### Tier 2: common (14)
+
+- Runes — Runic | Runic alphabet | Runic script
+- Ogham — Ogam | Ogham alphabet | Ogham script | Celtic tree alphabet
+- Cuneiform — Sumerian cuneiform | Akkadian cuneiform | Cuneiform script | Sumerian | Akkadian | Babylonian | Assyrian cuneiform
+- Hangul — Hangeul | Korean alphabet | Korean script | Korean | Chosongul
+- Devanagari — Nagari | Devnagari | Hindi | Hindi script | Hindi alphabet | Marathi | Nepali | Marathi script | Nepali script | Balbodh
+- Kanji
+- Hiragana
+- Katakana
+- Japanese script — Japanese | Japanese writing | Japanese writing system | Japanese characters
+- Shorthand — Stenography | Tachygraphy
+- Phoenician alphabet — Phoenician | Phoenician script | Punic
+- Linear B
+- Thai script — Thai | Thai alphabet
+- Maya script — Maya glyphs | Mayan glyphs | Mayan hieroglyphs | Maya hieroglyphs | Mayan script | Mayan | Maya
+
+### Tier 3: known to fans (50)
+
+- Linear A
+- Elder Futhark — Futhark
+- Futhorc — Anglo-Saxon runes | Futhork
+- Glagolitic — Glagolitic alphabet | Glagolitsa
+- Coptic alphabet — Coptic | Coptic script
+- Gothic alphabet — Gothic
+- Etruscan alphabet — Etruscan | Etruscan script
+- Aramaic alphabet — Aramaic | Aramaic script
+- Syriac alphabet — Syriac | Syriac script | Estrangela
+- Brahmi — Brahmi script | Tamil-Brahmi
+- Ge'ez script — Ge'ez | Ethiopic | Ethiopic script | Fidel | Amharic script | Amharic | Ethiopian | Ethiopian script | Tigrinya
+- Tibetan script — Tibetan | Tibetan alphabet
+- Mongolian script — Mongolian | Mongol script | Traditional Mongolian
+- Burmese script — Burmese | Myanmar script
+- Khmer script — Khmer | Khmer alphabet | Cambodian script
+- Lao script — Lao | Lao alphabet
+- Tamil script — Tamil
+- Telugu script — Telugu
+- Kannada script — Kannada
+- Malayalam script — Malayalam
+- Bengali script — Bengali | Bangla script | Bengali-Assamese script | Assamese | Assamese script
+- Gujarati script — Gujarati
+- Gurmukhi — Gurmukhi script
+- Sinhala script — Sinhala | Sinhalese script
+- Armenian alphabet — Armenian | Armenian script
+- Georgian alphabet — Georgian | Georgian script | Mkhedruli | Asomtavruli | Nuskhuri
+- Javanese script — Javanese | Aksara Jawa | Hanacaraka
+- Baybayin — Alibata
+- Cherokee syllabary — Cherokee | Cherokee script | Sequoyah syllabary | Sequoyan
+- Canadian Aboriginal syllabics — Cree syllabics | Inuktitut syllabics | Ojibwe syllabics | Syllabics | Inuktitut | Inuit syllabics
+- Tifinagh — Tifinag | Berber script | Amazigh script | Neo-Tifinagh
+- N'Ko
+- Indus script — Harappan script | Indus
+- Rongorongo
+- Hieratic
+- Demotic
+- Kana — Japanese syllabary | Furigana
+- Pinyin — Hanyu Pinyin
+- International Phonetic Alphabet — IPA | Phonetic alphabet
+- Persian alphabet — Persian | Persian script | Farsi alphabet | Farsi | Perso-Arabic
+- Urdu alphabet — Urdu | Urdu script
+- Vietnamese alphabet — Vietnamese | Vietnamese script | Chu Quoc Ngu | Quoc ngu
+- Simplified Chinese — Simplified Chinese characters
+- Traditional Chinese — Traditional Chinese characters
+- Pitman — Pitman shorthand
+- Gregg — Gregg shorthand
+- Teeline — Teeline shorthand
+- Cursive — Joined-up writing | Joined-up handwriting | Cursive script | Cursive handwriting
+- Tengwar — Elvish script | Elvish | Feanorian letters | Quenya | Sindarin
+- Oracle bone script — Oracle bones
+
+### Tier 4: obscure (79)
+
+- Younger Futhark — Viking runes | Norse runes
+- Old Italic — Old Italic script
+- Old Persian cuneiform — Old Persian
+- Ugaritic — Ugaritic alphabet
+- Proto-Sinaitic — Proto-Sinaitic script
+- Paleo-Hebrew — Paleo-Hebrew alphabet | Old Hebrew script
+- Samaritan script — Samaritan
+- Nabataean
+- Palmyrene
+- South Arabian — Musnad | Ancient South Arabian
+- Old Turkic — Orkhon script | Orkhon | Turkic runes
+- Old Hungarian — Rovas | Hungarian runes
+- Old Uyghur — Old Uighur
+- Sogdian
+- Pahlavi
+- Avestan
+- Manichaean
+- Mandaic
+- Manchu script — Manchu
+- 'Phags-pa
+- Tangut — Tangut script
+- Khitan — Khitan script
+- Jurchen — Jurchen script
+- Kharosthi — Kharoshthi
+- Hanja — Hanmun
+- Romaji — Romanji
+- Zhuyin — Bopomofo
+- Man'yogana
+- Thaana — Dhivehi script | Dhivehi
+- Odia script — Odia | Oriya | Oriya script
+- Meitei Mayek — Manipuri script
+- Ol Chiki — Ol Cemet | Santali script | Santali
+- Lontara — Buginese script | Lontaraq
+- Batak — Batak script
+- Balinese script — Balinese
+- Sundanese script — Sundanese
+- Grantha — Grantha script
+- Siddham — Siddhamatrika
+- Sharada — Sarada
+- Tai Tham — Lanna script
+- Cham script
+- Vai — Vai syllabary
+- Bamum — Bamum script
+- Adlam — Adlam script
+- Osage script — Osage
+- Yi script — Yi syllabary
+- Dongba — Dongba script | Naxi script
+- Cretan hieroglyphs
+- Cypriot syllabary — Cypriot script | Cypriot
+- Linear Elamite
+- Proto-Elamite
+- Anatolian hieroglyphs — Luwian hieroglyphs | Hittite hieroglyphs | Luwian | Hieroglyphic Luwian
+- Meroitic — Meroitic script
+- Iberian script — Iberian
+- Zapotec script
+- Aztec script — Aztec writing | Aztec glyphs | Nahuatl script | Aztec
+- Quipu — Khipu
+- Nsibidi — Nsibiri
+- Jawi
+- Shahmukhi
+- Moon type — Moon | Moon alphabet
+- Blissymbols — Blissymbolics | Bliss symbols | Bliss
+- Initial Teaching Alphabet — ITA
+- Theban alphabet — Theban | Witches' alphabet
+- Deseret alphabet — Deseret
+- Shavian — Shaw alphabet | Shavian alphabet
+- Cirth — Dwarvish runes | Angerthas | Dwarvish
+- Aurebesh
+- Klingon script — pIqaD | Klingon | Klingon alphabet
+- Gallifreyan — Circular Gallifreyan
+- Blackletter — Gothic script | Textura
+- Fraktur
+- Uncial — Uncial script | Half-uncial
+- Italic script — Italic | Italic hand | Chancery hand | Chancery cursive
+- Kufic — Kufic script
+- Copperplate — Roundhand
+- Seal script — Small seal script
+- Chu Nom — Nom script
+- Ottoman Turkish alphabet — Ottoman script | Ottoman Turkish script | Ottoman Turkish | Ottoman
+
+### Tier 5: expert (156)
+
+- Medieval runes
+- Dalecarlian runes
+- Carian
+- Lycian
+- Lydian
+- Phrygian
+- Raetic
+- Lepontic
+- Camunic
+- Old Permic — Abur
+- Caucasian Albanian
+- Elbasan
+- Vithkuqi
+- Old Nubian — Old Nubian alphabet
+- Hatran
+- Ancient North Arabian
+- Proto-Canaanite
+- Byblos syllabary
+- Phaistos Disc — Phaistos Disc script
+- Cypro-Minoan
+- Celtiberian script
+- Tartessian script — Tartessian | Southwest script
+- Isthmian script — Epi-Olmec | Epi-Olmec script
+- Mixtec writing
+- Mi'kmaq hieroglyphs — Mi'kmaw hieroglyphs
+- Vinča symbols — Vinča script | Danube script | Vinca
+- Pictish symbols — Pictish | Pictish stones
+- Soyombo
+- Zanabazar Square
+- Gupta script — Gupta
+- Kadamba — Kadamba script
+- Vatteluttu — Vattezhuthu
+- Takri
+- Modi — Modi script
+- Ranjana
+- Tirhuta — Mithilakshar
+- Nandinagari
+- Kaithi — Kayathi
+- Mahajani
+- Khojki
+- Khudawadi
+- Dives Akuru
+- Saurashtra
+- Rejang
+- Hanunoo
+- Buhid
+- Tagbanwa
+- Kulitan
+- Pollard script — Pollard Miao
+- Pahawh Hmong — Pahawh
+- Fraser alphabet — Lisu script | Old Lisu
+- New Tai Lue
+- Tai Le
+- Tai Viet
+- Ahom — Ahom script
+- Limbu — Limbu script
+- Lepcha — Lepcha script
+- Chakma — Chakma script
+- Syloti Nagri — Sylheti Nagri
+- Kayah Li
+- Pau Cin Hau
+- Bhaiksuki
+- Marchen
+- Mro
+- Wancho
+- Warang Citi
+- Gunjala Gondi
+- Masaram Gondi
+- Dogra
+- Sora Sompeng
+- Tulu-Tigalari
+- Mende Kikakui — Kikakui | Mende | Mende script
+- Bassa Vah
+- Kpelle
+- Garay
+- Afaka
+- Osmanya — Somali script | Osmaniya
+- Ajami
+- Pegon
+- Kawi
+- Sawndip — Zhuang characters
+- Shui script
+- Hentaigana
+- Wade-Giles
+- Night writing — Ecriture nocturne
+- SignWriting — Sutton SignWriting
+- Duployan — Duployan shorthand
+- Speedwriting
+- Visible Speech
+- Quikscript
+- Unifon
+- Malachim
+- Celestial alphabet
+- Passing the River
+- Sarati
+- Sitelen Pona
+- Ditema
+- Kryptonian
+- Atlantean
+- Dovahzul
+- Hylian
+- Daedric alphabet — Daedric
+- Voynich script — Voynich | Voynichese | Voynich manuscript
+- Naskh
+- Nastaliq — Nastaleeq
+- Thuluth
+- Diwani
+- Ruq'ah — Riq'a | Ruqa
+- Maghrebi script — Maghrebi
+- Rashi script — Rashi
+- Rustic capitals
+- Square capitals — Roman square capitals | Capitalis monumentalis
+- Carolingian minuscule — Caroline minuscule | Carolingian | Carolingian script
+- Insular script — Insular
+- Gaelic type — Gaelic script | Irish script | Cló Gaelach
+- Secretary hand — Secretary script
+- Kurrent — Kurrentschrift | German cursive
+- Sütterlin — Suetterlin
+- Spencerian script — Spencerian
+- Clerical script
+- Grass script
+- Regular script
+- Mon script — Mon-Burmese script | Old Mon
+- Uyghur Arabic alphabet — Uyghur | Uyghur script | Uighur script | Uyghur alphabet
+- Standard Galactic Alphabet — Enchanting table | Enchanting table language | Minecraft enchanting table | Galactic alphabet
+- Alienese
+- Sheikah script — Sheikah | Sheikah alphabet
+- D'ni script — D'ni
+- Running script — Semi-cursive script | Xingshu
+- Bronze script — Bronze inscriptions | Jinwen
+- Pallava — Pallava script
+- Makasar script — Makasar | Old Makassarese
+- Landa
+- Inscriptional Parthian — Parthian | Parthian script
+- Sorabe
+- Aljamiado
+- Xiao'erjing
+- Mandombe
+- Medefaidrin
+- Libyco-Berber — Libyco-Berber script | Old Libyan
+- Venetic — Venetic alphabet
+- Bosančica — Bosnian Cyrillic
+- Gabelsberger — Gabelsberger shorthand
+- Stenotype — Machine shorthand
+- Palmer Method
+- D'Nealian
+- Court hand
+- Beneventan — Beneventan script
+- Visigothic script
+- Humanist minuscule
+- Roman cursive
+- Rotunda
+- Schwabacher
+- Solitreo
+- Idu
+- Jyutping
+
+### Tier 6: rare jackpots (3)
+
+- Nüshu — Women's script
+- Enochian — Enochian alphabet | Angelic alphabet | Angelic script
+- Tironian notes — Tironian | Notae Tironianae | Tironian shorthand
+
+## Refused on purpose (21)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Alphabet | Script | Writing | Letters | Abjad | Abugida | Syllabary | Logograms | Pictograms | Pictographs | Ideograms | Characters | Glyphs | Writing system — "Which one? Name a particular system."
+- NATO alphabet | NATO phonetic alphabet | Radio alphabet | Spelling alphabet | Military alphabet | Police alphabet | ICAO alphabet | Alpha Bravo Charlie — "A spelling alphabet for radios, not a way of writing."
+- Morse code | Morse | Semaphore | Flag semaphore | Tap code | Code | Smoke signals | Flag signals — "A code for sending messages, not a way of writing."
+- Pigpen cipher | Pigpen | Masonic cipher | Caesar cipher | Enigma | Cipher | Atbash | Vigenère cipher | Substitution cipher — "A cipher for hiding messages, not a way of writing."
+- Binary | Binary code | ASCII | Unicode | UTF-8 | Barcode | QR code — "A code for machines, not a way of writing."
+- Sign language | British Sign Language | BSL | ASL | American Sign Language | Fingerspelling | Manual alphabet | Sign alphabet | Finger alphabet | Deaf alphabet — "Signed, not written."
+- English | French | German | Spanish | Italian | Portuguese | Dutch | Polish | Turkish | Swedish | Welsh | Esperanto | Toki Pona — "A language, written in the Latin alphabet."
+- Mandarin | Cantonese — "A spoken language. It is written in Chinese characters."
+- Sanskrit | Prakrit — "A language, written in many scripts over the centuries. Name one."
+- Punjabi | Panjabi | Hindustani | Serbian | Serbo-Croat — "A language written in two scripts. Name one."
+- Times New Roman | Arial | Helvetica | Comic Sans | Calibri | Wingdings | Garamond | Courier | Verdana | Futura | Gill Sans | Baskerville | Font | Typeface — "A typeface, not a writing system."
+- Emoji | Emojis | Emoticons — "Pictures, not a writing system. Not yet, anyway."
+- Roman numerals | Arabic numerals | Hindu-Arabic numerals | Numerals — "Numbers, not a way of writing words."
+- Calligraphy | Lettering | Penmanship — "The art of beautiful writing, not a system of it."
+- Handwriting | Print | Printing | Block capitals | Block letters — "Which one? Name a particular script or style."
+- Capital letters | Capitals | Upper case | Lower case | Small letters — "Letters of one case, not a writing system."
+- Musical notation | Sheet music | Staff notation | Tablature — "Writes down music, not words."
+- Mirror writing — "Ordinary letters reversed, as Leonardo wrote them."
+- Graffiti — "Writing on walls, not a system of writing."
+- Makaton — "Signs and picture symbols that go with speech, not a way of writing words."
+- Leetspeak | Leet | 1337 — "A playful disguise for the Latin alphabet, not a system of its own."

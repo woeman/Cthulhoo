@@ -1,0 +1,518 @@
+# Name a figure from Irish, Scottish or Welsh mythology.
+
+Question id: `celtic-myth` · category: myth · source: `data/myth.json`
+
+Rules: Any god, hero or creature from the myths and folklore of Ireland, Scotland, Wales, Cornwall, Man and Brittany, or of the ancient Britons and Gauls, by any spelling. Arthur's Welsh tales count; saints, figures from the history books and French additions to Arthur don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (459 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (9)
+
+- Cú Chulainn — Cuchulain | Cuchullain | Cuhullin | Setanta | Cuchullin | Hound of Ulster | Cuchulan | Hound of Culann | Culann's Hound
+- Fionn mac Cumhaill — Finn McCool | Finn MacCool | Fionn mac Cumhail | Finn mac Cumhaill | Fionn | Finn | Fingal | Demne | Fin McCoul | Finn McCumhail | Fionn MacCool | Finn McCoul
+- Leprechaun — Leipreachán | Lepracaun | Leprachaun | Lepreachaun | Luchorpán | Lurikeen
+- Banshee — Bean sí | Bean sídhe | Banshie | Bean sìth
+- Selkie — Silkie | Selchie | Selky | Roane | Roan | Seal folk | Seklie | Selkie folk | Seal woman | Seal wife | Seal people | Selkie wife
+- Kelpie — Water horse
+- Loch Ness Monster — Nessie | Loch Ness
+- Myrddin — Merlin | Myrddin Wyllt | Merlin Ambrosius | Myrddin Emrys | Emrys | Ambrosius | Merlinus
+- Arthur — King Arthur | Arthur Pendragon
+
+### Tier 2: common (22)
+
+- Dagda — Daghda | Eochaid Ollathair | Ruad Rofhessa
+- Morrígan — Morrigu | Morrighan | Morigan | Morrgan
+- Lugh — Lug | Lugh Lámhfhada | Lugh of the Long Arm | Lugus | Lugh Lamhfada | Samildánach | Lugh Samildánach | Ildánach
+- Brigid — Brigit | Brighid | Bríd | Brig | Bride | Bridget
+- Danu — Anu | Ana | Danand | Danann
+- Oisín — Ossian | Osheen
+- Medb — Maeve | Queen Maeve | Medb of Connacht | Meadhbh | Méabh | Maev | Queen Mab
+- Balor — Balor of the Evil Eye | Balar | Balor of the Baleful Eye | Balor of the Piercing Eye
+- Manannán mac Lir — Manannan | Mananan | Mac Lir
+- Cernunnos — Kernunnos | Horned God
+- Rhiannon
+- Cailleach — Cailleach Bheur | Cailleach Bhéara | Beira | Cailleach Beara | Hag of Beara | Old Woman of Beare | Old Woman of Beara | Beira, Queen of Winter | Queen of Winter
+- Red Dragon — Y Ddraig Goch | Welsh Dragon | Red Dragon of Wales | Dragon
+- Nuada — Nuadu | Nuada Airgetlám | Nuada of the Silver Hand | Nuad | Nuda
+- Tuatha Dé Danann — Tuatha Dé | Tuatha de Danaan | Tuatha | People of Danu | Children of Danu | Tribe of Danu | Folk of Danu | Tuath Dé
+- Púca — Pooka | Phouka | Pwca | Pouka | Puck
+- Dullahan — Gan Ceann | Headless Horseman
+- Changeling
+- Aos Sí — Aos Sidhe | Sidhe | Daoine Sídhe | Daoine sìth | Good People | Good Folk | Fair Folk | Fairies | Fairy | Fairy folk | Faerie | Fae | Wee folk | Little People | People of the mounds | Sí | Sìth | Daoine Maithe | Good Neighbours | Good Neighbors | People of Peace | Elves | Elf
+- Children of Lir — Children of Ler | Clann Lir | Swans of Lir
+- Mermaid — Merman | Mermen | Merfolk
+- Unicorn
+
+### Tier 3: known to fans (67)
+
+- Aengus — Angus | Óengus | Aonghus | Angus Óg | Aengus Óg | Mac Óc | Mac ind Óg | Aengus Mac Óg
+- Ogma — Ogmios | Oghma
+- Boann — Boan
+- Dian Cécht
+- Bres — Eochu Bres | Bres mac Elatha | Bers
+- Badb — Badhbh | Badb Catha
+- Macha
+- Ériu — Éire
+- Lir — Ler
+- Fionnuala — Finola | Fionnghuala | Finnguala | Fionnula
+- Niamh — Niamh Chinn Óir | Niamh of the Golden Hair | Neve | Neeve
+- Oscar
+- Diarmuid Ua Duibhne — Diarmuid | Diarmaid | Dermot | Diarmuid O'Duibhne | Diarmuid of the Love Spot | Diarmuid O'Dyna | Dermot O'Dyna
+- Gráinne — Grania
+- Salmon of Knowledge — Salmon of Wisdom | Bradán Feasa
+- Scáthach — Sgathaich | Sgàthach | Sathach | Scatha | Skatha | Skathach
+- Emer — Emer ingen Forgaill | Eimear | Eimhear
+- Deirdre — Deirdre of the Sorrows | Derdriu
+- Aoife — Aífe
+- Ferdiad — Ferdia | Fear Diadh | Ferida
+- Conchobar mac Nessa — Conchobar | Conor mac Nessa | Conchobhar | Conor
+- Fergus mac Róich — Fergus
+- Brown Bull of Cooley — Donn Cuailnge | Brown Bull | Brown Bull of Cuailnge | Bull of Cooley | Donn Cuailgne
+- Áine
+- Étaín — Édaín
+- Merrow — Murúch | Moruadh
+- Fomorians — Fomoire | Fomori | Fomorian | Fomhóraigh | Fomoraig
+- Taliesin — Taliesin Ben Beirdd | Taliesin Pen Beirdd
+- Ceridwen — Cerridwen | Kerridwen
+- Blodeuwedd — Blodeuedd | Blodeuwydd
+- Arawn — Aran
+- Gwyn ap Nudd — Gwyn
+- Brân the Blessed — Bendigeidfran | Brân Fendigaid | Bran
+- Branwen
+- Pwyll — Pwyll Pen Annwn
+- Gwydion — Gwydion fab Dôn
+- Arianrhod — Aranrhod
+- Lleu — Lleu Llaw Gyffes | Llew Llaw Gyffes | Llew
+- Mabon — Mabon ap Modron | Maponos | Maponus
+- Olwen
+- Culhwch — Kilhwch | Culhwch and Olwen
+- Gwenhwyfar — Guinevere | Gwenhwyvar
+- Gelert — Gelert the hound | Beddgelert | Llywelyn's hound
+- Afanc — Addanc | Avanc | Afan
+- Tylwyth Teg — Fair Family
+- Cŵn Annwn — Hounds of Annwn | Cŵn Annwfn | Wild Hunt
+- Each-uisge — Aughisky
+- Nuckelavee
+- Brownie — Broonie | Brounie | Browie
+- Cat sìth — Cait sìth | Cat sídhe | Cat sí
+- Thomas the Rhymer — True Thomas | Thomas of Erceldoune | Thomas Learmonth | Thomas Rymour
+- Tam Lin — Tamlane
+- Epona
+- Taranis
+- Belenus — Belenos
+- Sulis — Sulis Minerva
+- Ankou
+- Piskies — Piskie | Pisky | Pixies | Pixie
+- Stingy Jack — Jack-o'-lantern | Jack of the Lantern | Will-o'-the-wisp
+- Peredur — Percival | Perceval | Parsifal | Sir Peredur | Sir Percival | Sir Perceval | Sir Parsifal
+- Gwalchmai — Gawain | Gwalchmai ap Gwyar | Gwain | Gawaine | Gawayne | Sir Gwalchmai | Sir Gawain | Sir Gwain | Sir Gawaine | Sir Gawayne
+- Drystan — Tristan | Tristram | Trystan | Drust | Sir Drystan | Sir Tristan | Sir Tristram | Sir Trystan | Sir Drust
+- Esyllt — Isolde | Iseult | Isolt | Yseult
+- Medrawd — Medraut | Mordred | Modred | Sir Medrawd | Sir Medraut | Sir Mordred | Sir Modred
+- Uthr Pendragon — Uther Pendragon | Uther | Uthr Bendragon | Pendragon
+- Morgan le Fay — Morgana | Morgen | Morgan | Morgaine | Morgan la Fée | Morgan le Fey | Fata Morgana
+- Fianna — Fenians | Fenian | Fianna Éireann
+
+### Tier 4: obscure (114)
+
+- Miach
+- Airmed
+- Goibniu — Goibhniu
+- Cian
+- Ethniu — Ethlinn | Eithne
+- Nemain — Neman
+- Fand
+- Clíodhna — Clíona | Cleena | Clídna | Cliodna
+- Midir — Midhir | Mider
+- Donn — Donn Fírinne
+- Crom Cruach — Crom Cróich | Crom Dubh
+- Nechtan
+- Bodb Dearg — Bodb Derg
+- Banba
+- Fódla — Fotla
+- Amergin — Amairgin | Amhairghin | Amergin Glúngel
+- Cessair — Cesair
+- Tuan mac Cairill — Tuan
+- Scota
+- Fir Bolg — Fir Bholg
+- Milesians
+- Naoise — Noísiu | Naisi
+- Connla
+- Ailill — Ailill mac Máta
+- Cathbad
+- Bricriu
+- Culann — Culann the Smith
+- Láeg — Lóeg
+- Conall Cernach
+- Cú Roí
+- Caílte mac Rónáin — Caílte | Caoilte
+- Goll mac Morna — Goll
+- Conán Maol — Conán
+- Sadhbh — Sadb | Sive | Sadbh
+- Finnegas — Finn Éces | Finegas
+- Aillen — Aillén mac Midgna | Aillen mac Midna
+- Cumhall — Cumhal | Cumal
+- Bran, Fionn's hound — Bran the hound | Fionn's hound | Finn's hound | Bran and Sceólang
+- Oonagh — Úna | Oonagh, Finn's wife
+- Bran mac Febail — Bran mac Feabhail | Voyage of Bran
+- Benandonner
+- Conn of the Hundred Battles — Conn Cétchathach | Conn
+- Cormac mac Airt — Cormac
+- Niall of the Nine Hostages — Niall Noígíallach | Niall
+- Suibhne — Mad Sweeney | Sweeney | Suibhne Geilt | Mad King Sweeney
+- Caer Ibormeith — Caer
+- Finvarra — Finvara | Fionnbharr | Finbheara | King of the Fairies
+- Far Darrig — Fear Dearg | Fear Darrig
+- Clurichaun — Cluricaune | Clúracán
+- Leanan sídhe — Leannán sí | Lhiannan Shee
+- Fetch
+- Dobhar-chú — Water hound | Irish crocodile | Master Otter
+- Sluagh — Slua
+- Blue Men of the Minch — Blue Men | Storm kelpies
+- Ghillie Dhu — Gille Dubh
+- Bean nighe — Washer at the Ford
+- Baobhan sith
+- Redcap — Redcomb | Powrie | Dunter
+- Wulver
+- Trow — Trowie
+- Finfolk — Finman | Finwife
+- Big Grey Man — Am Fear Liath Mòr | Fear Liath | Grey Man of Ben Macdhui
+- Glaistig — Green Lady
+- Cù-sìth — Cù sídhe | Cú sí
+- Queen of Elfland — Elf Queen | Queen of the Fairies | Fairy Queen | Queen of Elphame | Queen of Elfhame
+- Seelie Court — Seelie
+- Unseelie Court — Unseelie
+- Stoor worm — Mester Stoor Worm
+- Pryderi
+- Manawydan — Manawydan fab Llŷr
+- Math — Math fab Mathonwy | Math ap Mathonwy
+- Dylan — Dylan ail Don | Dylan Eil Ton
+- Efnisien — Efnysien
+- Llŷr
+- Dôn
+- Gofannon
+- Gwion Bach — Gwion
+- Ysbaddaden — Ysbaddaden Pencawr | Ysbaddaden Chief Giant
+- Twrch Trwyth — Troit | Troynt
+- Modron — Matrona
+- Lludd — Lludd Llaw Eraint | Nudd | King Lud | Lud | Lludd Llaw Ereint
+- Macsen Wledig — Macsen | Magnus Maximus
+- Cai — Cei | Kay | Kai | Sir Cai | Sir Cei | Sir Kay | Sir Kai
+- Bedwyr — Bedivere | Bedevere | Sir Bedwyr | Sir Bedivere | Sir Bedevere
+- Owain — Owain mab Urien | Yvain | Ywain | Uwain | Owein | Sir Owain | Sir Yvain | Sir Ywain | Sir Uwain | Sir Owein
+- White Dragon — Y Ddraig Wen
+- Gwrach y Rhibyn — Hag of the Mist
+- Lady of Llyn y Fan Fach — Llyn y Fan Fach | Lady of the Lake | Lady of Myddfai
+- Gwyllgi — Dog of Darkness
+- Mari Lwyd
+- Teutates — Toutatis | Toutates
+- Esus — Hesus
+- Sucellus — Sucellos
+- Brigantia
+- Nodens — Nudens | Nodons
+- Coventina
+- Andraste — Andrasta
+- Cormoran — Cormelian
+- Gogmagog — Goemagot | Gog and Magog | Magog
+- Jack the Giant Killer — Jack the Giant Slayer
+- Knockers — Knocker | Tommyknockers
+- Spriggans — Spriggan
+- Mermaid of Zennor
+- Moddey Dhoo — Mauthe Doog | Moddey Doo
+- Korrigan — Korrigans
+- Dahut — Ahès | Dahud
+- Igraine — Ygraine | Igerna | Ygerna | Ygerne | Igrayne | Eigr
+- Red Branch — Red Branch Knights | Knights of the Red Branch | Craobh Rua
+- Máel Dúin — Maeldune
+- Sons of Tuireann — Children of Tuireann | Clann Tuireann | Brian mac Tuireann | Iuchar | Iucharba
+- Ollphéist — Oilliphéist | Olliphéist | Ollphiast
+- Gancanagh — Gean-cánach | Ganconer | Love-talker
+- Bogle — Bogill | Boggle | Bogles
+- Sawney Bean — Alexander Bean | Sawney Beane
+
+### Tier 5: expert (244)
+
+- Credne — Creidhne
+- Luchta — Luchtaine
+- Aoibheall — Aoibhinn | Eevell | Aibell | Aebhel | Aoibhell
+- Tethra
+- Elatha
+- Cethlenn — Ceithlenn
+- Tailtiu — Tailte
+- Ruadán
+- Sinann — Sionann | Sinend
+- Partholón
+- Nemed
+- Míl Espáine — Milesius
+- Fintan mac Bóchra — Fintan
+- Aodh, son of Lir — Aodh | Aedh | Aodh mac Lir
+- Fiachra — Fiachra mac Lir
+- Conn, son of Lir — Conn mac Lir
+- Uathach
+- Deichtine
+- Sualtam
+- Láegaire Búadach — Lóegaire
+- Cet mac Mágach
+- Leabharcham — Lebarcham
+- Fedelm
+- Bláthnat
+- Fráech — Froech | Fraoch
+- Findabair — Fionnabhair
+- Lí Ban — Muirgen
+- Liath Macha
+- Finnbhennach — White-horned Bull | Finnbennach
+- Muirne
+- Liath Luachra
+- Bodhmall
+- Sceólang — Sceolan
+- Conaire Mór — Conaire
+- Mongán
+- Mug Ruith — Mogh Roith
+- Tlachtga
+- Grogoch
+- Fear Gorta — Fear Gortach | Man of Hunger
+- Abhartach
+- Dearg Due — Dearg Dur
+- Caoránach — Caorthannach
+- Werewolves of Ossory — Wolves of Ossory | Ossory werewolves | Faoladh | Irish werewolf | Werewolf | Werewolves
+- Shellycoat
+- Ceasg — Maighdean mhara
+- Fuath
+- Assipattle — Assipelt
+- Mither o' the Sea — Sea Mither
+- Teran
+- Gruagach
+- Urisk — Ùruisg
+- Bodach
+- Brollachan
+- Beithir
+- Hogboon — Hogboy | Hogboon of Orkney
+- Kilmoulis
+- Shony — Seonaidh
+- Morag — Morag of Loch Morar
+- Habetrot
+- Whuppity Stoorie
+- Linton Worm — Linton Wyrm
+- Boobrie
+- Lavellan
+- Fachan
+- Muileartach
+- Nicnevin
+- Gyre-Carling
+- Matholwch
+- Penarddun
+- Teyrnon
+- Cigfa
+- Gwawl
+- Llwyd ap Cil Coed
+- Hafgan
+- Gilfaethwy
+- Goewin
+- Gronw Pebyr — Gronw | Goronwy
+- Morfran — Afagddu
+- Creirwy
+- Tegid Foel
+- Elffin
+- Gwyddno Garanhir — Gwyddno
+- Seithenyn
+- Gwythyr
+- Creiddylad
+- Llefelys
+- Beli Mawr — Beli
+- Amaethon
+- Hu Gadarn
+- Elen — Elen Luyddog | Elen of the Hosts
+- Geraint — Sir Geraint
+- Enid
+- March ap Meirchion — King Mark | Mark of Cornwall | King March | Mark
+- Vortigern — Gwrtheyrn
+- Brutus of Troy — Brutus | Brute
+- Mallt-y-Nos
+- Gwiber
+- Ceffyl Dŵr
+- Coblynau
+- Bwbach
+- Ellyllon
+- Nantosuelta
+- Rosmerta
+- Belisama
+- Arduinna
+- Artio
+- Damona
+- Sirona
+- Grannus
+- Borvo
+- Camulos
+- Cocidius
+- Belatucadros
+- Senuna
+- Bolster
+- Corineus
+- Blunderbore
+- Bucca
+- Jan Tregeagle — Tregeagle
+- Morgawr
+- Fenodyree — Fynnoderee | Phynnodderee
+- Buggane
+- Glashtyn
+- Cabbyl-ushtey — Cabyll-ushtey
+- Ben-varrey
+- Arkan Sonney
+- Gradlon — King Gradlon | Gradlon Meur
+- Gorlois
+- Lot — King Lot | Loth | Lot of Lothian | Lleu ap Cynfarch
+- Gwenddydd — Gwendydd | Ganieda
+- Lailoken
+- Tuireann
+- Flidais
+- Elcmar
+- Ernmas
+- Fuamnach
+- Eochaid Airem — Eochaid Airemon
+- Grian
+- Cermait — Cermait Milbél
+- Abcán
+- Néit — Neid
+- Carman
+- Biróg
+- Abarta
+- Mór Muman — Mor Mumhan
+- Mongfind — Mongfhionn
+- Clothru
+- Achtland
+- Bébinn — Bebhinn | Bébhionn
+- Mac Cuill
+- Mac Cecht
+- Mac Gréine
+- Conand — Conann
+- Cichol — Cichol Gricenchos
+- Sreng
+- Indech — Indech mac Dé Domnann
+- Crunniuc — Cruinniuc | Crunnchu
+- Nessa — Ness, mother of Conchobar
+- Ainnle
+- Ardan
+- Lugaid mac Con Roí — Lugaid
+- Clann Chailitín — Children of Calatin | Calatin
+- Fergus mac Léti
+- Muirdris
+- Art mac Cuinn — Art Óenfer | Art the Lonely
+- Becuma
+- Cairbre Cinn-Chait — Cairbre Cinn-Cait | Cairbre Cat-head
+- Ollamh Fódla — Ollom Fotla | Ollamh Fodhla
+- Uaithne
+- Enbarr — Aonbharr | Embarr | Enbarr of the Flowing Mane
+- Failinis
+- Dub Sainglend — Dubh Sainglenn
+- Gobán Saor — Gobbán Saer
+- Fear Doirche — Fer Doirich | Dark Druid
+- Tuiren — Uirne
+- Amadán — Amadán na Bruidhne | Fairy fool
+- Éremón — Heremon
+- Éber Finn — Heber
+- Goídel Glas — Gaedel Glas | Gathelus
+- Labraid Luathlám ar Claideb — Labraid Luathlam
+- Gwern
+- Nisien — Nissyen
+- Euroswydd
+- Afallach — Avallach
+- Bladud
+- Sabrina — Hafren | Habren
+- Leir — King Leir | King Lear | Lear
+- Hen Wen
+- Cath Palug — Palug's Cat | Cath Paluc
+- Ychen Bannog
+- Adar Rhiannon — Birds of Rhiannon
+- Cyhyraeth
+- Gwragedd Annwn
+- Bendith y Mamau
+- Canwyll Corff — Corpse candle | Canwyll y Corff
+- Llamhigyn y Dŵr — Water Leaper
+- Idris Gawr — Idris
+- Eluned — Luned | Lunete
+- Lady of the Fountain
+- Melwas
+- Cafall — Cavall | Cabal
+- Coraniaid
+- Rhonabwy
+- Mererid
+- Michael Scot — Michael Scott | Wizard Michael Scot
+- Brahan Seer — Coinneach Odhar | Kenneth Mackenzie
+- Molly Whuppie — Mollie Whuppie
+- Kate Crackernuts
+- Nuggle — Njuggle | Noggle
+- Tangie
+- Shoopiltee
+- Muryans — Muryan
+- Cherry of Zennor
+- Tarroo-ushtey
+- Mooinjer veggey
+- Jimmy Squarefoot
+- Caillagh ny Groamagh
+- Bugul Noz
+- Kannerezed Noz — Night washerwomen | Lavandières de nuit
+- Morvarc'h
+- Smertrios
+- Sequana
+- Abnoba
+- Nemetona
+- Lenus — Lenus Mars
+- Condatis
+- Arnemetia
+- Verbeia
+- Cathubodua
+- Andarta
+- Visucius
+- Alaunus
+- Tamesis
+- Clota
+- Gobannus
+- Cunomaglus
+- Viridios
+- Ancasta
+- Setlocenia
+- Matronae — Matres | Mother goddesses
+- Tarvos Trigaranus — Tarvos
+- Antenociticus
+- Veteres — Vitiris | Hvitiris
+- Genii Cucullati — Hooded spirits
+
+### Tier 6: rare jackpots (3)
+
+- Labraid Loingsech — Labraid | Labhraidh Loingseach | Labraid Lorc
+- Cirein-cròin
+- Rhitta Gawr — Rhita Gawr | Rhitta | Ritho
+
+## Refused on purpose (25)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Saint Patrick | St Patrick | Patrick — "A real saint, though one legend has him swapping tales with Oisín."
+- Saint Columba | St Columba | Saint David | St David | Dewi Sant | Saint Andrew | St Andrew | Saint Brendan | St Brendan | Brendan the Navigator | Saint Piran | St Piran | Saint Dwynwen | St Dwynwen | Saint Kevin | St Kevin | Saint George | St George | Saint Mungo | St Mungo — "A saint, not a figure of the old myths."
+- Saint Brigid | St Brigid | St Bridget | Saint Bridget | St Bride | Saint Bride | Mary of the Gael — "The saint, not the goddess, though both are remembered on 1 February."
+- Boudica | Boudicca | Boadicea — "A real queen of the Iceni, not a figure of myth."
+- Brian Boru | William Wallace | Robert the Bruce | Macbeth | Owain Glyndŵr | Owen Glendower | Rob Roy | Caratacus | Calgacus | Grace O'Malley | Granuaile | Bonnie Prince Charlie | Llywelyn the Great | Llywelyn ap Gruffudd | Vercingetorix | Ambiorix | Cartimandua | Cassivellaunus | Llywelyn | Kenneth MacAlpin — "A real figure of history, not of myth."
+- Herne the Hunter | Herne — "English folklore, from Windsor Great Park, not Celtic myth."
+- Green Man | Jack in the Green — "A carved face in medieval churches. The link to Celtic gods is a modern idea."
+- Robin Hood | Robin Goodfellow | Maid Marian | Black Shuck | Black Annis | Lambton Worm | Boggart | Hobgoblin | Hob | Jenny Greenteeth | Peg Powler | Barghest | Wayland Smith | Tom Thumb — "English legend, not Celtic myth."
+- Oberon | Titania — "From Shakespeare's fairyland, not Celtic myth."
+- Lancelot | Sir Lancelot | Lancelot du Lac | Galahad | Sir Galahad | Nimue | Viviane | Vivien | Elaine | Elaine of Astolat | Lady of Shalott | Fisher King | Pellinore | King Pellinore | Questing Beast | Bors | Lionel | Lamorak | Gaheris | Agravaine | Gareth | Ector | Sir Ector | Sir Bors | Sir Lionel | Sir Lamorak | Sir Gaheris | Sir Agravaine | Sir Gareth — "Arthur's tales are Welsh at root, but this one was added later, by French writers or by Malory."
+- Merida — "Disney's Scottish princess, from Brave."
+- Druid | Druids | Druidess — "Real priests of the old Celts. Name one from the tales."
+- Giant — "Too general. The tales are full of them; name one."
+- Troll — "A Norse creature, though Orkney and Shetland keep a cousin of it under another name."
+- Samhain — "A festival, not a god. The 'Celtic lord of the dead' called Samhain is an old mistake."
+- Beltane | Bealtaine | Imbolc | Lughnasadh | Lughnasa | Halloween | Hogmanay | Calan Gaeaf | Calan Mai — "A festival, not a figure."
+- Tír na nÓg | Avalon | Annwn | Annwfn | Hy-Brasil | Emain Macha | Tara | Giant's Causeway | Fingal's Cave | Otherworld | Mag Mell | Ys | City of Ys | Lyonesse | Cantre'r Gwaelod | Brigadoon | Newgrange — "A place, not a figure."
+- Lia Fáil | Stone of Destiny | Stone of Scone | Gáe Bulg | Gae Bolga | Spear of Lugh | Sword of Nuada | Claíomh Solais | Fragarach | Cauldron of the Dagda | Dagda's cauldron | Excalibur | Caledfwlch | Holy Grail | Blarney Stone | Fairy Flag — "An object, not a figure."
+- Wild Haggis | Haggis — "A joke told to tourists. The haggis is a pudding."
+- Morgause | Morgawse | Morcades — "Arthur's sister as the French and English romances tell it; the Welsh tales don't know her by that name."
+- Green Knight | Bertilak | Bertilak de Hautdesert | Sir Bertilak — "From an English poem of the 1300s, though his beheading game first turns up in an Irish tale."
+- Asterix | Obelix | Getafix | Panoramix | Vitalstatistix | Dogmatix | Idefix — "A Gaul from the comics, not the old tales."
+- Mabinogion | Mabinogi | Four Branches | Táin Bó Cúailnge | Cattle Raid of Cooley | Book of Invasions | Lebor Gabála Érenn | Ulster Cycle | Fenian Cycle — "A book of tales, not a figure. Name someone in it."
+- Dracula | Count Dracula — "Bram Stoker's count lived in Transylvania, though Stoker himself was a Dubliner."
+- Cerne Abbas Giant | Cerne Giant | Cerne — "A chalk figure on a Dorset hillside, not a figure of the tales."

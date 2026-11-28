@@ -1,0 +1,1090 @@
+# Name an opera.
+
+Question id: `operas` · category: culture · source: `data/culture.json`
+
+Rules: Any opera from any era or country, including operettas, zarzuelas and other light opera. Musicals, oratorios and ballets don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (992 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Carmen
+- The Magic Flute — Die Zauberflöte | Zauberflöte
+- La Bohème — Bohème
+- Madama Butterfly — Madame Butterfly | Butterfly
+- The Marriage of Figaro — Le nozze di Figaro | Nozze di Figaro | Le nozze | Nozze | Figaro
+- La Traviata — Traviata
+- Tosca
+- Don Giovanni — Don Juan
+- Aida
+- The Barber of Seville — Il barbiere di Siviglia | Barbiere di Siviglia | Il barbiere | Barbiere
+- Rigoletto
+- Turandot
+
+### Tier 2: common (34)
+
+- Nabucco — Nabucodonosor
+- Otello — Othello
+- Fidelio — Leonore
+- Il trovatore — Trovatore | The Troubadour
+- Pagliacci — I Pagliacci | Clowns | Pag
+- Cavalleria rusticana — Cavalleria | Rustic Chivalry | Cav | Cav and Pag
+- The Ring Cycle — Der Ring des Nibelungen | The Ring | Ring of the Nibelung | Der Ring
+- Die Walküre — The Valkyrie | Walküre
+- Tristan und Isolde — Tristan and Isolde | Tristan
+- Lohengrin
+- Parsifal
+- Tannhäuser
+- The Flying Dutchman — Der fliegende Holländer | Dutchman
+- Così fan tutte — Cosi
+- Eugene Onegin — Yevgeny Onegin | Onegin
+- Dido and Aeneas — Dido
+- Peter Grimes — Grimes
+- Porgy and Bess — Porgy
+- Hansel and Gretel — Hänsel und Gretel
+- Der Rosenkavalier — Rosenkavalier | The Knight of the Rose
+- Salome
+- Norma
+- Lucia di Lammermoor — Lucia
+- Faust
+- Falstaff
+- The Mikado
+- Die Fledermaus — Fledermaus | The Bat
+- The Merry Widow — Die lustige Witwe
+- The Pirates of Penzance — Pirates | The Slave of Duty
+- Nixon in China — Nixon
+- The Pearl Fishers — Les pêcheurs de perles
+- The Tales of Hoffmann — Les contes d'Hoffmann | Hoffmann
+- Boris Godunov — Boris
+- William Tell — Guillaume Tell | Guglielmo Tell | William Tell Overture
+
+### Tier 3: known to fans (79)
+
+- Das Rheingold — Rheingold | The Rhinegold
+- Siegfried
+- Götterdämmerung — Twilight of the Gods
+- Die Meistersinger von Nürnberg — The Mastersingers of Nuremberg | Die Meistersinger | Meistersinger | The Mastersingers
+- Rusalka
+- Gianni Schicchi — Schicchi
+- Samson and Delilah — Samson et Dalila
+- HMS Pinafore — Pinafore | The Lass That Loved a Sailor
+- Orpheus in the Underworld — Orphée aux enfers | Orpheus in the Underground | Orpheus
+- Manon
+- Manon Lescaut
+- Werther
+- Lakmé
+- La Cenerentola — Cenerentola | Cinderella
+- L'elisir d'amore — The Elixir of Love | Elisir d'amore | Elisir
+- Don Pasquale
+- La fille du régiment — The Daughter of the Regiment | La figlia del reggimento
+- Anna Bolena — Anne Boleyn
+- Maria Stuarda — Mary Stuart
+- Don Carlos — Don Carlo
+- La forza del destino — The Force of Destiny | Forza del destino
+- Simon Boccanegra — Boccanegra
+- Macbeth
+- Un ballo in maschera — A Masked Ball | Ballo in maschera
+- La fanciulla del West — The Girl of the Golden West | Fanciulla del West
+- Andrea Chénier
+- I puritani — The Puritans | Puritani
+- La sonnambula — Sonnambula | The Sleepwalker
+- Les Troyens — The Trojans
+- Roméo et Juliette — Romeo and Juliet
+- Thaïs
+- Pelléas et Mélisande — Pelleas and Melisande | Pelléas
+- Dialogues des Carmélites — Dialogues of the Carmelites | The Carmelites
+- Billy Budd
+- The Turn of the Screw
+- A Midsummer Night's Dream
+- Albert Herring
+- Gloriana
+- Death in Venice
+- The Rake's Progress
+- Wozzeck
+- Lulu
+- Elektra — Electra
+- Ariadne auf Naxos — Ariadne on Naxos | Ariadne
+- Der Freischütz — Freischütz | The Marksman
+- The Abduction from the Seraglio — Die Entführung aus dem Serail | The Seraglio | Il Seraglio | Die Entführung | Entführung
+- Idomeneo
+- La clemenza di Tito — Clemenza di Tito | The Clemency of Titus
+- Orfeo ed Euridice — Orphée et Eurydice | Orpheus and Eurydice
+- L'Orfeo — Orfeo
+- Giulio Cesare — Julius Caesar | Giulio Cesare in Egitto
+- Rinaldo
+- Serse — Xerxes
+- Semele
+- King Arthur — The British Worthy
+- The Fairy-Queen
+- The Beggar's Opera
+- The Bartered Bride — Prodaná nevěsta
+- Jenůfa — Její pastorkyňa | Her Stepdaughter
+- The Cunning Little Vixen — Vixen | Příhody lišky Bystroušky
+- Káťa Kabanová — Katya Kabanova
+- Bluebeard's Castle — Duke Bluebeard's Castle | A kékszakállú herceg vára | Bluebeard
+- The Queen of Spades — Pique Dame | Pikovaya Dama
+- Prince Igor — Knyaz Igor
+- The Love for Three Oranges — The Love of Three Oranges | L'amour des trois oranges | Three Oranges
+- Lady Macbeth of the Mtsensk District — Lady Macbeth of Mtsensk | Lady Macbeth
+- War and Peace
+- Einstein on the Beach — Einstein
+- Akhnaten
+- Satyagraha
+- Doctor Atomic
+- Candide
+- The Gondoliers — The King of Barataria
+- Iolanthe
+- The Yeomen of the Guard — Yeomen | The Merryman and His Maid
+- Patience — Bunthorne's Bride
+- Trial by Jury
+- La belle Hélène — Beautiful Helen
+- Amahl and the Night Visitors — Amahl
+
+### Tier 4: obscure (103)
+
+- L'italiana in Algeri — The Italian Girl in Algiers | Italiana in Algeri | L'italiana
+- Il turco in Italia — The Turk in Italy
+- La gazza ladra — The Thieving Magpie | Gazza ladra
+- Tancredi
+- Semiramide
+- Il viaggio a Reims — The Journey to Reims
+- Le comte Ory — Count Ory
+- La donna del lago — The Lady of the Lake
+- Roberto Devereux
+- La favorite — La favorita
+- Lucrezia Borgia
+- I Capuleti e i Montecchi — The Capulets and the Montagues
+- Il pirata
+- I Lombardi — I Lombardi alla prima crociata
+- Ernani
+- I due Foscari — The Two Foscari
+- Attila
+- Luisa Miller
+- Les vêpres siciliennes — I vespri siciliani | The Sicilian Vespers
+- La rondine — The Swallow
+- Il trittico — Trittico
+- Il tabarro — The Cloak
+- Suor Angelica — Sister Angelica
+- Fedora
+- Adriana Lecouvreur
+- La Wally
+- La Gioconda — Gioconda
+- Mefistofele
+- Mignon
+- Hamlet
+- Don Quichotte — Don Quixote
+- Cendrillon
+- Louise
+- L'enfant et les sortilèges — The Child and the Spells | L'enfant
+- L'heure espagnole — The Spanish Hour
+- La voix humaine — The Human Voice
+- Benvenuto Cellini
+- Béatrice et Bénédict — Beatrice and Benedict
+- La damnation de Faust — The Damnation of Faust
+- Les Huguenots — The Huguenots
+- Robert le diable — Robert the Devil
+- La Juive — The Jewess
+- La Périchole
+- La vie parisienne — Parisian Life
+- Hippolyte et Aricie
+- Castor et Pollux
+- Les Indes galantes
+- Platée
+- La serva padrona
+- Médée — Medea
+- Armide — Armida
+- Alceste
+- Iphigénie en Tauride — Iphigenia in Tauris
+- L'incoronazione di Poppea — The Coronation of Poppea | Poppea | Incoronazione di Poppea
+- Alcina
+- Ariodante
+- Rodelinda
+- Orlando
+- Agrippina
+- Bastien und Bastienne — Bastien and Bastienne
+- Die tote Stadt — The Dead City | Tote Stadt
+- Die Frau ohne Schatten — The Woman Without a Shadow
+- Arabella
+- Capriccio
+- Moses und Aron — Moses and Aaron
+- Rise and Fall of the City of Mahagonny — Mahagonny | Aufstieg und Fall der Stadt Mahagonny
+- The Threepenny Opera — Die Dreigroschenoper
+- Ruslan and Lyudmila — Ruslan and Ludmila
+- A Life for the Tsar — Ivan Susanin
+- Khovanshchina
+- Iolanta
+- Mazeppa
+- The Golden Cockerel — Le coq d'or | The Golden Cock
+- The Snow Maiden — Snegurochka
+- Sadko
+- The Tale of Tsar Saltan — Tsar Saltan
+- The Fiery Angel
+- The Gambler
+- The Nose
+- The Makropulos Affair — The Makropulos Case | Věc Makropulos | Makropulos
+- From the House of the Dead
+- The Excursions of Mr Brouček — Mr Broucek
+- The Rape of Lucretia
+- Noye's Fludde — Noah's Flood
+- Owen Wingrave
+- The Bohemian Girl
+- Vanessa
+- Susannah
+- Street Scene
+- Dead Man Walking
+- Moby-Dick
+- Fire Shut Up in My Bones
+- The Tempest
+- A Streetcar Named Desire
+- L'amour de loin — Love from Afar
+- Le Grand Macabre
+- Die Soldaten — The Soldiers
+- Der Kaiser von Atlantis — The Emperor of Atlantis
+- Ruddigore — The Witch's Curse
+- Princess Ida
+- The Gypsy Baron — Der Zigeunerbaron
+- Háry János
+- Brundibár
+
+### Tier 5: expert (761)
+
+- Euridice
+- Il ritorno d'Ulisse in patria — The Return of Ulysses | Il ritorno d'Ulisse
+- La Calisto
+- Giasone
+- Atys
+- Cadmus et Hermione
+- Persée
+- Thésée
+- Dardanus
+- Zoroastre
+- Les Boréades
+- Venus and Adonis
+- The Indian Queen
+- Dioclesian
+- Artaxerxes
+- Thomas and Sally
+- Love in a Village
+- Acis and Galatea
+- Tamerlano
+- Giustino
+- Partenope
+- Radamisto
+- Orlando furioso
+- Farnace
+- Bajazet
+- Griselda
+- L'Olimpiade
+- Il mondo della luna
+- L'anima del filosofo
+- Orlando paladino
+- La fedeltà premiata
+- Il matrimonio segreto — The Secret Marriage
+- Tarare
+- Les Danaïdes
+- Paride ed Elena
+- Iphigénie en Aulide — Iphigenia in Aulis
+- Mitridate, re di Ponto — Mitridate
+- Lucio Silla
+- La finta giardiniera
+- Il re pastore
+- Zaide
+- Der Schauspieldirektor — The Impresario
+- La finta semplice
+- Apollo et Hyacinthus
+- Ascanio in Alba
+- La vestale
+- Les deux journées — The Water Carrier
+- Fierrabras
+- Alfonso und Estrella
+- Der Vampyr
+- Hans Heiling
+- Oberon
+- Euryanthe
+- Martha
+- Zar und Zimmermann
+- Der Wildschütz
+- Die lustigen Weiber von Windsor — The Merry Wives of Windsor
+- Der Barbier von Bagdad
+- Königskinder
+- Palestrina
+- Mathis der Maler — Mathis the Painter
+- Cardillac
+- Jonny spielt auf
+- Doktor Faust
+- Licht
+- Lear
+- Erwartung
+- Daphne
+- Intermezzo
+- Die ägyptische Helena — The Egyptian Helen
+- Die schweigsame Frau — The Silent Woman
+- Feuersnot
+- Guntram
+- Die Liebe der Danae — The Love of Danae
+- Rienzi
+- Die Feen
+- Das Liebesverbot
+- Mosè in Egitto — Moses in Egypt | Moïse et Pharaon
+- Ermione
+- La scala di seta
+- Il signor Bruschino
+- La cambiale di matrimonio
+- Maometto II
+- Zelmira
+- Matilde di Shabran
+- Linda di Chamounix
+- Poliuto
+- Dom Sébastien
+- Viva la mamma — Le convenienze ed inconvenienze teatrali
+- Il campanello
+- Beatrice di Tenda
+- La straniera
+- Oberto
+- Un giorno di regno — King for a Day
+- Giovanna d'Arco
+- Alzira
+- I masnadieri — The Robbers
+- Jérusalem
+- Il corsaro
+- La battaglia di Legnano
+- Stiffelio
+- Aroldo
+- Le Villi
+- Edgar
+- L'amico Fritz
+- Iris
+- Zazà
+- L'arlesiana
+- Francesca da Rimini
+- L'amore dei tre re
+- Il prigioniero — The Prisoner
+- Intolleranza 1960
+- Un re in ascolto
+- La fiamma
+- Mireille
+- La jolie fille de Perth — The Fair Maid of Perth
+- Djamileh
+- La Grande-Duchesse de Gérolstein — The Grand Duchess of Gerolstein
+- Le roi d'Ys
+- Hérodiade
+- Le Cid
+- Esclarmonde
+- Le jongleur de Notre-Dame
+- Ariane et Barbe-bleue
+- Le roi malgré lui
+- Le roi Arthus
+- Les mamelles de Tirésias — The Breasts of Tiresias
+- Saint François d'Assise — Saint Francis of Assisi
+- Jeanne d'Arc au bûcher
+- Christophe Colomb
+- Le prophète — The Prophet
+- L'Africaine — The African Woman
+- Dinorah
+- La muette de Portici — Masaniello | The Mute Girl of Portici
+- Fra Diavolo
+- Le postillon de Lonjumeau
+- Si j'étais roi
+- Richard Coeur-de-lion — Richard the Lionheart
+- Zémire et Azor
+- Adriana Mater
+- Innocence
+- Émilie
+- The Stone Guest
+- Mozart and Salieri
+- Aleko
+- The Maid of Orleans
+- Cherevichki — Vakula the Smith
+- The Legend of the Invisible City of Kitezh — Kitezh
+- Betrothal in a Monastery
+- Semyon Kotko
+- The Passenger
+- Life with an Idiot
+- The Nightingale — Le rossignol
+- Mavra
+- Oedipus rex
+- Dalibor
+- Libuše
+- The Kiss
+- The Jacobin
+- Halka
+- King Roger — Król Roger
+- The Haunted Manor — Straszny dwór
+- Bánk bán
+- Hunyadi László
+- Œdipe
+- Julietta
+- The Greek Passion
+- Maskarade
+- Saul og David — Saul and David
+- Aniara
+- La vida breve
+- El retablo de maese Pedro — Master Peter's Puppet Show
+- Goyescas
+- Pepita Jiménez
+- La verbena de la Paloma
+- Doña Francisquita
+- Luisa Fernanda
+- Marina
+- La revoltosa
+- El barberillo de Lavapiés
+- Il Guarany — O Guarani
+- Florencia en el Amazonas — Florencia
+- Ainadamar
+- María de Buenos Aires
+- El Último Sueño de Frida y Diego — The Last Dream of Frida and Diego
+- Maritana
+- The Lily of Killarney
+- Ivanhoe
+- The Sorcerer
+- Utopia, Limited
+- The Grand Duke
+- Thespis
+- Merrie England
+- Tom Jones
+- The Wreckers — Les naufrageurs
+- Savitri
+- The Perfect Fool
+- A Village Romeo and Juliet
+- Riders to the Sea
+- Hugh the Drover
+- Sir John in Love
+- The Pilgrim's Progress
+- Troilus and Cressida
+- The Bear
+- The Midsummer Marriage
+- King Priam
+- The Knot Garden
+- The Ice Break
+- Paul Bunyan
+- Curlew River
+- The Little Sweep — Let's Make an Opera
+- Punch and Judy
+- Gawain
+- The Mask of Orpheus
+- The Minotaur
+- Taverner
+- The Lighthouse
+- Powder Her Face
+- The Exterminating Angel
+- Greek
+- Anna Nicole
+- Festen
+- Written on Skin
+- Lessons in Love and Violence
+- Flight
+- Where the Wild Things Are
+- A Night at the Chinese Opera
+- Last Days
+- 4.48 Psychosis
+- The Death of Klinghoffer — Klinghoffer
+- El Niño
+- Antony and Cleopatra
+- The Ballad of Baby Doe
+- Four Saints in Three Acts
+- The Mother of Us All
+- The Medium
+- The Telephone
+- The Consul
+- Trouble in Tahiti
+- A Quiet Place
+- The Ghosts of Versailles
+- A View from the Bridge
+- Little Women
+- Of Mice and Men
+- Cold Mountain
+- The (R)evolution of Steve Jobs
+- Champion
+- X: The Life and Times of Malcolm X — X
+- The Hours
+- Silent Night
+- Fellow Travelers
+- Breaking the Waves
+- Grounded
+- Blue
+- Intimate Apparel
+- The Amazing Adventures of Kavalier & Clay — Kavalier & Clay
+- Marnie
+- Brokeback Mountain
+- The Handmaid's Tale
+- The Great Gatsby
+- An American Tragedy
+- Harvey Milk
+- Appomattox
+- The First Emperor
+- The Peony Pavilion
+- Farewell My Concubine
+- The White-Haired Girl
+- M. Butterfly
+- Orphée
+- Countess Maritza — Gräfin Mariza
+- The Land of Smiles — Das Land des Lächelns
+- The Count of Luxembourg — Der Graf von Luxemburg
+- The Chocolate Soldier — Der tapfere Soldat
+- Naughty Marietta
+- Babes in Toyland
+- The Student Prince
+- The Desert Song
+- The New Moon
+- Rose-Marie
+- The Vagabond King
+- Blossom Time — Das Dreimäderlhaus | Lilac Time
+- Song of Norway
+- Bitter Sweet
+- White Horse Inn — Im weißen Rößl
+- Die Csárdásfürstin — The Gipsy Princess | The Csárdás Princess | The Gypsy Princess | Csárdásfürstin | Die Csardasfuerstin
+- The Beggar Student — Der Bettelstudent
+- A Night in Venice — Eine Nacht in Venedig
+- Wiener Blut — Vienna Blood
+- Der Vogelhändler — The Bird Seller
+- Boccaccio
+- Giuditta
+- The Tsarevich — Der Zarewitsch
+- A Waltz Dream — Ein Walzertraum
+- The Dollar Princess — Die Dollarprinzessin
+- The Circus Princess — Die Zirkusprinzessin
+- Light Cavalry — Leichte Kavallerie
+- Les cloches de Corneville — The Bells of Corneville | The Chimes of Normandy
+- La fille de Madame Angot
+- Véronique
+- Ciboulette
+- L'étoile
+- Cox and Box
+- The Rose of Persia
+- Haddon Hall
+- The Zoo
+- The Emerald Isle
+- Barbe-bleue
+- Les brigands
+- Le voyage dans la lune
+- Ba-ta-clan
+- Fantasio
+- Die Rheinnixen
+- Madame Favart
+- La fille du tambour-major
+- Geneviève de Brabant
+- La Gran Vía
+- La del manojo de rosas
+- La tabernera del puerto
+- Agua, azucarillos y aguardiente
+- La rosa del azafrán
+- Los gavilanes
+- El rey que rabió
+- Bohemios
+- La tempranica
+- La boda de Luis Alonso
+- El niño judío
+- La dolorosa
+- Katiuska
+- La del Soto del Parral
+- El huésped del sevillano
+- La leyenda del beso
+- Gigantes y cabezudos
+- La alegría de la huerta
+- El dúo de La africana
+- La generala
+- Los claveles
+- Molinos de viento
+- La corte de Faraón
+- Jugar con fuego
+- Pan y toros
+- Los diamantes de la corona
+- La chulapona
+- Maruxa
+- El caserío
+- Amaya
+- Mendi Mendiyan
+- Las golondrinas
+- Margarita la tornera
+- El gato montés
+- María la O
+- Cecilia Valdés
+- Tiefland
+- Der Evangelimann
+- Der Corregidor
+- The Queen of Sheba — Die Königin von Saba
+- Friedenstag
+- Der Zwerg — The Dwarf
+- Eine florentinische Tragödie — A Florentine Tragedy
+- Der Kreidekreis
+- Der König Kandaules
+- Die Gezeichneten
+- Der ferne Klang
+- Der Schatzgräber
+- Das Wunder der Heliane — The Miracle of Heliane
+- Violanta
+- Der Ring des Polykrates
+- Abu Hassan
+- Die drei Pintos
+- Genoveva
+- Undine
+- Neues vom Tage
+- Die Harmonie der Welt
+- Sancta Susanna
+- Hin und zurück
+- The Long Christmas Dinner
+- Der Silbersee
+- Down in the Valley
+- Der Jasager
+- Karl V
+- Die glückliche Hand
+- Von heute auf morgen
+- Elegy for Young Lovers
+- The Bassarids
+- Der junge Lord
+- Boulevard Solitude
+- König Hirsch
+- We Come to the River
+- Das verratene Meer
+- L'Upupa
+- Der Prinz von Homburg
+- Phaedra
+- Jakob Lenz
+- Die Eroberung von Mexico
+- Das Mädchen mit den Schwefelhölzern — The Little Match Girl
+- Donnerstag aus Licht
+- Fin de partie
+- Three Sisters — Tri sestry
+- Peer Gynt
+- Ulisse
+- Volo di notte
+- Arlecchino
+- The Devil and Kate — Čert a Káča
+- Osud — Fate
+- Šárka
+- The Two Widows
+- The Secret — Tajemství
+- The Devil's Wall
+- The Brandenburgers in Bohemia
+- Dimitrij
+- The Cunning Peasant
+- King and Charcoal Burner
+- Mirandolina
+- The Devils of Loudun
+- The Tsar's Bride
+- May Night
+- Christmas Eve
+- Kashchey the Deathless
+- The Maid of Pskov — Pskovityanka
+- The Fair at Sorochyntsi — Sorochyntsi Fair
+- The Enchantress
+- The Oprichnik
+- The Demon
+- The Miserly Knight
+- The Story of a Real Man
+- Moscow, Cheryomushki — Cheryomushki
+- William Ratcliff
+- Oresteia
+- Colas Breugnon
+- Quiet Flows the Don
+- Gesualdo
+- Not Love Alone
+- Dead Souls
+- The Enchanted Wanderer
+- Lolita
+- Children of Rosenthal
+- Taras Bulba
+- Natalka Poltavka
+- Zaporozhets za Dunayem — A Cossack Beyond the Danube
+- Leyli and Majnun
+- Almast
+- Anoush
+- Arshak II
+- Abesalom da Eteri — Abesalom and Eteri
+- Daisi
+- Il segreto di Susanna — Susanna's Secret
+- I gioielli della Madonna — The Jewels of the Madonna
+- I quatro rusteghi — The School for Fathers
+- Il campiello
+- Le donne curiose
+- La vedova scaltra
+- Sly
+- The Italian Straw Hat — Il cappello di paglia di Firenze
+- Siberia
+- La cena delle beffe
+- Loreley
+- Isabeau
+- Il piccolo Marat
+- Lodoletta
+- Zanetto
+- Guglielmo Ratcliff
+- Nerone
+- Giulietta e Romeo
+- Edipo re
+- Chatterton
+- Der Roland von Berlin
+- I Lituani
+- Belfagor
+- Maria egiziaca
+- La campana sommersa
+- Assassinio nella cattedrale — Murder in the Cathedral
+- Debora e Jaele
+- Fedra
+- Sette canzoni
+- Torneo notturno
+- La donna serpente
+- Risurrezione
+- Cyrano de Bergerac
+- Luci mie traditrici
+- Elisabetta, regina d'Inghilterra — Elisabetta
+- L'occasione fa il ladro
+- La pietra del paragone
+- Le siège de Corinthe — The Siege of Corinth
+- Caterina Cornaro
+- Maria di Rohan
+- Rita
+- Belisario
+- L'assedio di Calais
+- Parisina
+- Torquato Tasso
+- Pia de' Tolomei
+- Gemma di Vergy
+- Il furioso all'isola di San Domingo
+- Emilia di Liverpool
+- Le duc d'Albe
+- Zaira
+- La dame blanche — The White Lady
+- Zampa
+- Le domino noir — The Black Domino
+- Le roi de Lahore
+- Chérubin
+- La Navarraise
+- Sapho
+- Grisélidis
+- Pénélope
+- Henry VIII
+- Il crociato in Egitto
+- Gwendoline
+- Guercoeur
+- Sigurd
+- Naïs
+- Zaïs
+- Pygmalion
+- Phaéton
+- Roland
+- Isis
+- Psyché
+- Amadis
+- Proserpine
+- Acis et Galatée
+- David et Jonathas
+- Alcyone
+- L'Europe galante
+- Tancrède
+- La rencontre imprévue
+- Echo et Narcisse
+- Le cinesi
+- Antigono
+- Il pomo d'oro
+- L'Arianna
+- L'Egisto
+- L'Ormindo
+- L'Orontea
+- Il Sant'Alessio
+- Una cosa rara
+- Prima la musica e poi le parole
+- Il sogno di Scipione
+- L'oca del Cairo
+- Doktor und Apotheker
+- L'isola disabitata
+- L'infedeltà delusa
+- Lo speziale
+- Lo frate 'nnamorato
+- Il prigionier superbo
+- Nina
+- Il re Teodoro in Venezia
+- La molinara
+- Socrate immaginario
+- La buona figliuola
+- Motezuma — Montezuma
+- Artaserse
+- Ottone in villa
+- Tito Manlio
+- Arsilda
+- La fida ninfa
+- Catone in Utica
+- Almira
+- Rodrigo
+- Il pastor fido
+- Teseo
+- Silla
+- Amadigi di Gaula — Amadigi
+- Floridante
+- Ottone
+- Flavio
+- Tolomeo
+- Scipione
+- Alessandro
+- Admeto
+- Riccardo Primo
+- Siroe
+- Lotario
+- Poro
+- Ezio
+- Sosarme
+- Arianna in Creta
+- Oreste
+- Atalanta
+- Arminio
+- Berenice
+- Faramondo
+- Imeneo
+- Deidamia
+- Alfred
+- Blodwen
+- Jeanie Deans
+- The Immortal Hour
+- The Boatswain's Mate
+- Der Wald
+- Koanga
+- Irmelin
+- Fennimore and Gerda
+- Shamus O'Brien
+- The Travelling Companion
+- The Poisoned Kiss
+- At the Boar's Head
+- The Wandering Scholar
+- The Burning Fiery Furnace
+- The Prodigal Son
+- New Year
+- Nelson
+- A Dinner Engagement
+- The Mines of Sulphur
+- Victory
+- The Rising of the Moon
+- Wagner Dream
+- Higglety Pigglety Pop!
+- Blond Eckbert
+- Miss Fortune
+- King Harald's Saga
+- Mary, Queen of Scots
+- Harriet, the Woman Called Moses
+- The Voice of Ariadne
+- The Silver Tassie
+- Coraline
+- The Adventures of Pinocchio
+- Marx in London
+- The Winter's Tale
+- In the Locked Room
+- A Harlot's Progress
+- Jack the Ripper: The Women of Whitechapel
+- Doctor Ox's Experiment
+- Marilyn Forever
+- The Man Who Mistook His Wife for a Hat
+- Facing Goya
+- Denis & Katya
+- Between Worlds
+- To See the Invisible
+- Dido's Ghost
+- Quamino's Map
+- The Importance of Being Earnest
+- The Triumph of Beauty and Deceit
+- The Bitter Tears of Petra von Kant
+- Alice's Adventures Under Ground
+- The Second Violinist
+- Eithne
+- The Beach of Falesá
+- The Parlour
+- Inés de Castro
+- The Sacrifice
+- Clemency
+- Picture a Day Like This
+- Only the Sound Remains
+- Voss
+- Bliss
+- Batavia
+- Summer of the Seventeenth Doll
+- The Love of the Nightingale
+- Rites of Passage
+- Quiros
+- The Golem
+- Fiery Tales
+- Lindy
+- Pecan Summer
+- Cloudstreet
+- Iphis
+- Black River
+- The Rabbits
+- The Young Kabbarli
+- A Tale of Two Cities
+- The Devil Take Her
+- Prima Donna
+- Our Man in Havana
+- The Violins of Saint-Jacques
+- English Eccentrics
+- Louis Riel
+- Filumena
+- Beatrice Chancy
+- Giants in the Earth
+- The Saint of Bleecker Street
+- The Crucible
+- Regina
+- The Old Maid and the Thief
+- Help, Help, the Globolinks!
+- A Hand of Bridge
+- Cold Sassy Tree
+- The Devil and Daniel Webster
+- The Tender Land
+- The Second Hurricane
+- Lord Byron
+- Blue Monday
+- Lizzie Borden
+- Postcard from Morocco
+- The Aspern Papers
+- Brief Encounter
+- McTeague
+- A Wedding
+- Fantastic Mr. Fox
+- Emmeline
+- Dolores Claiborne
+- Three Decembers
+- Great Scott
+- It's a Wonderful Life
+- Intelligence
+- A Flowering Tree
+- Girls of the Golden West
+- The Perfect American
+- The Voyage
+- The Fall of the House of Usher
+- La Belle et la Bête
+- Les Enfants Terribles
+- Galileo Galilei
+- Kepler
+- Waiting for the Barbarians
+- The Juniper Tree
+- Hydrogen Jukebox
+- The Trial
+- The Cave
+- Three Tales
+- Anatomy Theater
+- Julie
+- As One
+- The Grapes of Wrath
+- Jackie O
+- The Letter
+- Two Boys
+- Proving Up
+- The Listeners
+- Bel Canto
+- The Manchurian Candidate
+- Elizabeth Cree
+- The Shining
+- JFK
+- Dog Days
+- Glory Denied
+- Everest
+- Black Lodge
+- The Righteous
+- Angel's Bone
+- Prism
+- Omar
+- The Central Park Five
+- Frida
+- Cruzar la Cara de la Luna
+- Il Postino
+- Bomarzo
+- Don Rodrigo
+- Beatrix Cenci
+- Yerma
+- Lo schiavo
+- Merlin
+- Yūzuru — Twilight Crane
+- Silence — Chinmoku
+- Hanjo
+- Matsukaze
+- Kinkakuji — The Temple of the Golden Pavilion
+- Marco Polo
+- Tea: A Mirror of Soul
+- Dream of the Red Chamber
+- Madame White Snake
+- An American Soldier
+- Princess Magogo
+- Mandela Trilogy
+- Winnie
+- Özsoy
+- Sun & Sea
+- Woman at Point Zero
+- Il nome della rosa — The Name of the Rose
+- Woman with Eyes Closed
+- Loving v. Virginia
+- Lincoln in the Bardo
+- Morgiane
+
+### Tier 6: rare jackpots (3)
+
+- Dafne — La Dafne
+- Le devin du village — The Village Soothsayer
+- Treemonisha
+
+## Refused on purpose (64)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Les Misérables | Les Mis | Cats | Wicked | The Lion King | Hamilton | Mamma Mia! | Chicago | Cabaret | Oklahoma! | The Sound of Music | Evita | Show Boat | Hadestown | Grease | My Fair Lady | Carmen Jones | Joseph and the Amazing Technicolor Dreamcoat — "A musical, not an opera, for all its singing."
+- Sweeney Todd | West Side Story — "A musical, though opera houses love it."
+- The Phantom of the Opera | Phantom | Jerry Springer: The Opera — "A musical, despite its name."
+- Jesus Christ Superstar | Tommy | The Who's Tommy | Rock opera — "A rock opera, but on stage it's a musical."
+- Rent | Miss Saigon — "A musical, based on an opera."
+- Soap opera | Space opera | Horse opera — "Not that kind of opera."
+- Peking opera | Chinese opera | Cantonese opera | Kunqu | Kabuki | Noh | Beijing opera — "A whole theatre tradition, not one opera."
+- Swan Lake | The Nutcracker | Giselle | Coppélia | The Sleeping Beauty | The Rite of Spring | The Firebird | Petrushka | Spartacus | La Bayadère — "A ballet, not an opera."
+- Messiah | The Creation | Elijah | St Matthew Passion | The Dream of Gerontius | Belshazzar's Feast — "An oratorio, not an opera: no sets, no costumes."
+- Carmina Burana — "A cantata, not an opera."
+- Requiem | War Requiem | Verdi's Requiem | Mozart's Requiem — "A requiem mass, not an opera."
+- Peter and the Wolf | The Planets | The Four Seasons | Boléro — "A concert piece, not an opera."
+- Mozart | Verdi | Giuseppe Verdi | Puccini | Giacomo Puccini | Wagner | Richard Wagner | Rossini | Handel | Bizet | Donizetti | Bellini | Monteverdi | Britten | Benjamin Britten | Richard Strauss | Strauss | Tchaikovsky | Gilbert and Sullivan | Philip Glass | Purcell | Gluck | Beethoven | Offenbach | Janáček | Massenet | Gounod | Wolfgang Amadeus Mozart — "The name behind the operas, not an opera."
+- Pavarotti | Luciano Pavarotti | Maria Callas | Callas | Plácido Domingo | Domingo | José Carreras | The Three Tenors | Andrea Bocelli | Bocelli | Katherine Jenkins | Kiri Te Kanawa | Enrico Caruso | Caruso | Joan Sutherland | Jenny Lind | Renée Fleming | Bryn Terfel | Montserrat Caballé — "A singer, not an opera."
+- La Scala | Teatro alla Scala | The Met | Metropolitan Opera | Covent Garden | Royal Opera House | Glyndebourne | Sydney Opera House | Bayreuth | English National Opera | Palais Garnier | Paris Opera | Vienna State Opera | La Fenice — "An opera house or company, not an opera."
+- Iphigénie | Iphigenia — "Gluck wrote two Iphigénie operas. Give the full title."
+- Nessun dorma — "An aria, from Turandot. Name the opera."
+- Habanera | Toreador Song | Toreador — "An aria, from Carmen. Name the opera."
+- La donna è mobile — "An aria, from Rigoletto. Name the opera."
+- Queen of the Night | Der Hölle Rache — "A role in The Magic Flute. Name the opera."
+- Ride of the Valkyries — "Music from Die Walküre, part of the Ring. Name the opera."
+- O mio babbino caro — "An aria, not an opera. It comes from a one-act Puccini comedy."
+- Largo al factotum — "An aria, from The Barber of Seville. Name the opera."
+- Un bel dì | One Fine Day — "An aria, from Madama Butterfly. Name the opera."
+- Va, pensiero | Chorus of the Hebrew Slaves — "The Hebrew slaves' chorus, from Nabucco. Name the opera."
+- Casta diva — "An aria, from Norma. Name the opera."
+- Vesti la giubba — "An aria, from Pagliacci. Name the opera."
+- Flower Duet — "A duet, not an opera. It comes from a French opera set in India."
+- Brindisi | Libiamo ne' lieti calici | Libiamo — "A drinking song, from La Traviata. Name the opera."
+- Vissi d'arte | E lucevan le stelle — "An aria, from Tosca. Name the opera."
+- Che gelida manina | Musetta's Waltz | O soave fanciulla — "An aria, from La Bohème. Name the opera."
+- The Pearl Fishers' Duet | Au fond du temple saint — "A duet, from The Pearl Fishers. Name the opera."
+- Anvil Chorus — "A chorus, from Il trovatore. Name the opera."
+- Bridal Chorus | Here Comes the Bride — "A chorus, from Lohengrin. Name the opera."
+- Song to the Moon — "An aria, not an opera. It comes from Dvořák's tale of a water nymph."
+- Lehár | Franz Lehár | Elgar | Edward Elgar | Gershwin | George Gershwin | Bernstein | Leonard Bernstein | Johann Strauss | Sullivan | Arthur Sullivan | Mussorgsky | Rimsky-Korsakov | Prokofiev | Shostakovich | Stravinsky | Mascagni | Leoncavallo | Smetana | Dvořák | Weber | Humperdinck | Berlioz | Debussy | Rameau | Vivaldi | Haydn | Weill | Menotti | Saint-Saëns | Delibes | Meyerbeer | Andrew Lloyd Webber — "A composer, not an opera."
+- Nibelungenlied — "A medieval German epic, not an opera. Wagner drew on it for the Ring."
+- Summertime — "A song, from Porgy and Bess. Name the opera."
+- Dido's Lament | When I am laid in earth — "An aria, from Dido and Aeneas. Name the opera."
+- Flight of the Bumblebee — "An interlude, from a Rimsky-Korsakov opera about a tsar. Name the opera."
+- Dance of the Hours — "Ballet music, from a Ponchielli opera. Name the opera."
+- Can-can | Galop infernal | Infernal Galop — "A galop, from an Offenbach operetta. Name the operetta."
+- Polovtsian Dances — "Dances, from a Borodin opera. Name the opera."
+- O Fortuna — "The opening chorus of Carmina Burana: a cantata, not an opera."
+- Hallelujah Chorus | Hallelujah — "A chorus, from Messiah: an oratorio, not an opera."
+- Ombra mai fu | Handel's Largo — "An aria, from a Handel opera about a Persian king. Name the opera."
+- Lascia ch'io pianga — "An aria, from Handel's first opera for London. Name the opera."
+- Méditation — "A violin interlude, from a Massenet opera. Name the opera."
+- Barcarolle — "A duet, from The Tales of Hoffmann. Name the opera."
+- Humming Chorus — "A chorus, from Madama Butterfly. Name the opera."
+- Grand March | Triumphal March — "The triumphal march, from Aida. Name the opera."
+- Liebestod — "The closing scene of Tristan und Isolde. Name the opera."
+- Dance of the Seven Veils — "A dance, from Salome. Name the opera."
+- Che farò senza Euridice | Dance of the Blessed Spirits — "Music from a Gluck opera. Name the opera."
+- Una furtiva lagrima — "An aria, from a Donizetti comedy. Name the opera."
+- Celeste Aida — "An aria, from Aida. Name the opera."
+- Caro nome — "An aria, from Rigoletto. Name the opera."
+- Seguidilla | Flower Song — "An aria, from Carmen. Name the opera."
+- Soldiers' Chorus | Jewel Song — "Music from Faust. Name the opera."
+- Easter Hymn — "A chorus, from Cavalleria rusticana. Name the opera."
+- Pilgrims' Chorus — "A chorus, from Tannhäuser. Name the opera."
+- Bell Song — "An aria, from a Delibes opera set in India. Name the opera."
+- Bohemian Rhapsody — "A Queen song with an operatic stretch, not an opera."
+- Judas Maccabaeus | Israel in Egypt | Saul | Solomon | Jephtha | Athalia | Deborah | Belshazzar | Theodora | St John Passion | Christmas Oratorio | A Child of Our Time — "An oratorio, not an opera: no sets, no costumes."

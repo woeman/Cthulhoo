@@ -74,20 +74,70 @@ Each day's dive has seven questions, the same for every player on that local dat
 
 ## Monday, 7 December 2026
 
-1. [Name a creature from myth or folklore.](questions/mythical-creatures.md) (`mythical-creatures`, 1321 answers so far)
-2. [Name a word that rhymes with deep.](questions/rhymes-with-deep.md) (`rhymes-with-deep`, 65 answers so far)
-3. [Name a bone in the human body.](questions/bones.md) (`bones`, 74 answers so far)
-4. [Name a pharaoh of ancient Egypt.](questions/pharaohs.md) (`pharaohs`, 198 answers so far)
-5. [Name a whale, dolphin or porpoise.](questions/whales-dolphins.md) (`whales-dolphins`, 169 answers so far)
-6. [Name a type of boat or ship.](questions/boats-ships.md) (`boats-ships`, 316 answers so far)
-7. [Name a country in Africa.](questions/countries-africa.md) (`countries-africa`, 54 answers so far)
+1. [Name a comet.](questions/comets.md) (`comets`, 175 answers so far)
+2. [Name a country where traffic drives on the left.](questions/drive-on-left.md) (`drive-on-left`, 56 answers so far)
+3. [Name a character from a Shakespeare play.](questions/shakespeare-characters.md) (`shakespeare-characters`, 752 answers so far)
+4. [Name a figure of speech.](questions/figures-of-speech.md) (`figures-of-speech`, 132 answers so far)
+5. [Name a coffee drink.](questions/coffee-drinks.md) (`coffee-drinks`, 184 answers so far)
+6. [Name a winner of the Ballon d'Or.](questions/ballon-dor-winners.md) (`ballon-dor-winners`, 52 answers so far)
+7. [Name a war.](questions/wars.md) (`wars`, 416 answers so far)
 
 ## Tuesday, 8 December 2026
 
-1. [Name a currency.](questions/currencies.md) (`currencies`, 242 answers so far)
-2. [Name a book or play by Agatha Christie.](questions/agatha-christie.md) (`agatha-christie`, 130 answers so far)
-3. [Name a Roman emperor.](questions/roman-emperors.md) (`roman-emperors`, 213 answers so far)
-4. [Name a marsupial.](questions/marsupials.md) (`marsupials`, 293 answers so far)
-5. [Name a type of bread.](questions/breads.md) (`breads`, 322 answers so far)
-6. [Name a US state.](questions/us-states.md) (`us-states`, 50 answers so far)
-7. [Name a country that has hosted the men's football World Cup.](questions/world-cup-hosts.md) (`world-cup-hosts`, 19 answers so far)
+1. [Name a collective noun for a group of animals.](questions/collective-nouns.md) (`collective-nouns`, 328 answers so far)
+2. [Name a county of England.](questions/english-counties.md) (`english-counties`, 73 answers so far)
+3. [Name a dance.](questions/dances.md) (`dances`, 465 answers so far)
+4. [Name a demon from folklore, scripture or demonology.](questions/demons.md) (`demons`, 320 answers so far)
+5. [Name a bird of prey.](questions/birds-of-prey.md) (`birds-of-prey`, 422 answers so far)
+6. [Name a subatomic particle.](questions/subatomic-particles.md) (`subatomic-particles`, 177 answers so far)
+7. [Name a winner of the World Snooker Championship.](questions/snooker-world-champions.md) (`snooker-world-champions`, 30 answers so far)
+
+## Wednesday, 9 December 2026
+
+1. [Name a book of the Bible.](questions/bible-books.md) (`bible-books`, 77 answers so far)
+2. [Name a poison.](questions/poisons.md) (`poisons`, 393 answers so far)
+3. [Name an ancient civilisation.](questions/ancient-civilisations.md) (`ancient-civilisations`, 399 answers so far)
+4. [Name a Greek island.](questions/greek-islands.md) (`greek-islands`, 134 answers so far)
+5. [Name a punctuation mark.](questions/punctuation-marks.md) (`punctuation-marks`, 85 answers so far)
+6. [Name a god of the Aztecs, the Maya or the Inca.](questions/mesoamerican-gods.md) (`mesoamerican-gods`, 179 answers so far)
+7. [Name a weapon from before the age of gunpowder.](questions/weapons.md) (`weapons`, 321 answers so far)
+
+## Thursday, 10 December 2026
+
+1. [Name a god, hero or creature of Chinese mythology.](questions/chinese-myth.md) (`chinese-myth`, 270 answers so far)
+2. [Name a type of rock.](questions/rocks.md) (`rocks`, 275 answers so far)
+3. [Name the capital of a US state.](questions/us-state-capitals.md) (`us-state-capitals`, 50 answers so far)
+4. [Name a creature of the deep sea.](questions/deep-sea-creatures.md) (`deep-sea-creatures`, 283 answers so far)
+5. [Name a piece of furniture.](questions/furniture.md) (`furniture`, 262 answers so far)
+6. [Name a player who has won a Grand Slam singles title in tennis.](questions/tennis-slam-champions.md) (`tennis-slam-champions`, 338 answers so far)
+7. [Name a Latin phrase used in English.](questions/latin-phrases.md) (`latin-phrases`, 405 answers so far)
+
+## Friday, 11 December 2026
+
+1. [Name a US national park.](questions/us-national-parks.md) (`us-national-parks`, 64 answers so far)
+2. [Name a type of dumpling.](questions/dumplings.md) (`dumplings`, 139 answers so far)
+3. [Name a crustacean.](questions/crustaceans.md) (`crustaceans`, 254 answers so far)
+4. [Name a golfer who has won a major championship.](questions/golf-major-champions.md) (`golf-major-champions`, 382 answers so far)
+5. [Name a film directed by Alfred Hitchcock.](questions/hitchcock-films.md) (`hitchcock-films`, 60 answers so far)
+6. [Name a treaty.](questions/treaties.md) (`treaties`, 519 answers so far)
+7. [Name a language that is still spoken today.](questions/living-languages.md) (`living-languages`, 809 answers so far)
+
+## Saturday, 12 December 2026
+
+1. [Name a spider.](questions/spiders.md) (`spiders`, 238 answers so far)
+2. [Name a gemstone.](questions/gemstones.md) (`gemstones`, 312 answers so far)
+3. [Name a London Underground station.](questions/london-underground.md) (`london-underground`, 269 answers so far)
+4. [Name a god or goddess of Roman mythology.](questions/roman-gods.md) (`roman-gods`, 264 answers so far)
+5. [Name a card game.](questions/card-games.md) (`card-games`, 305 answers so far)
+6. [Name a word for a ghost or spirit.](questions/ghost-words.md) (`ghost-words`, 118 answers so far)
+7. [Name a character from The Simpsons.](questions/simpsons-characters.md) (`simpsons-characters`, 242 answers so far)
+
+## Sunday, 13 December 2026
+
+1. [Name a Prime Minister of the United Kingdom.](questions/uk-prime-ministers.md) (`uk-prime-ministers`, 59 answers so far)
+2. [Name a word English has borrowed from German.](questions/german-loanwords.md) (`german-loanwords`, 280 answers so far)
+3. [Name a book by Roald Dahl.](questions/roald-dahl-books.md) (`roald-dahl-books`, 62 answers so far)
+4. [Name a water sport.](questions/water-sports.md) (`water-sports`, 162 answers so far)
+5. [Name a cake.](questions/cakes.md) (`cakes`, 276 answers so far)
+6. [Name a tree.](questions/trees.md) (`trees`, 833 answers so far)
+7. [Name a country in Africa.](questions/countries-africa.md) (`countries-africa`, 54 answers so far)

@@ -1,0 +1,372 @@
+# Name a gemstone.
+
+Question id: `gemstones` · category: science · source: `data/science.json`
+
+Rules: Any gemstone: precious or semi-precious, organic gems such as pearl and amber, synthetics such as cubic zirconia, and famous single stones. A named variety such as ruby counts separately from its mineral. Metals and man-made glass don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (312 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Diamond — Heera | Hira | Lab-grown diamond | Synthetic diamond | White diamond | Adamant | Lab diamond | Lab-created diamond | Lab-made diamond | Man-made diamond | CVD diamond | HPHT diamond
+- Ruby — Manik | Manikya | Pigeon's blood ruby | Synthetic ruby | Lab-grown ruby | Lab-created ruby | Burmese ruby | Burma ruby | Yaqoot | Yakut
+- Emerald — Panna | Synthetic emerald | Lab-grown emerald | Lab-created emerald | Colombian emerald | Smaragd | Zamurrad
+- Sapphire — Neelam | Blue sapphire | Synthetic sapphire | Lab-grown sapphire | Lab-created sapphire | Ceylon sapphire | Kashmir sapphire | Burmese sapphire | Teal sapphire
+- Pearl — Moti | Cultured pearl | Natural pearl
+- Amethyst — Purple quartz
+- Opal — Precious opal | White opal | Synthetic opal | Lab-grown opal | Australian opal
+- Topaz — Blue topaz | White topaz | London blue topaz | Swiss blue topaz | Sky blue topaz | Mystic topaz | Pink topaz | Golden topaz | Sherry topaz
+- Jade
+- Garnet — Carbuncle | Red garnet
+
+### Tier 2: common (25)
+
+- Aquamarine
+- Turquoise — Persian turquoise | Firoza | Feroza | Firuza
+- Amber — Baltic amber | Succinite | Dominican amber | Burmite | Burmese amber
+- Onyx — Black onyx
+- Peridot — Chrysolite | Evening emerald
+- Quartz — Aura quartz | Angel aura quartz | Aqua aura quartz
+- Lapis lazuli — Lapis | Lazuli
+- Moonstone — Adularia
+- Tourmaline
+- Citrine — Madeira citrine | Madeira topaz
+- Tanzanite
+- Agate — Banded agate | Aqeeq | Aqiq | Hakik
+- Obsidian — Volcanic glass | Dragonglass | Black obsidian
+- Jet — Whitby jet | Black amber
+- Coral — Moonga | Red coral | Precious coral | Pink coral | Angel skin coral | Marjan
+- Alexandrite
+- Tiger's eye — Tiger eye
+- Rose quartz
+- Zircon — Jacinth | Hyacinth | Jargoon | Blue zircon | Matara diamond
+- Jasper — Red jasper | Yellow jasper | Green jasper | Poppy jasper | Brecciated jasper | Zebra jasper
+- Malachite
+- Bloodstone — Heliotrope
+- Cubic zirconia — CZ | Zirconia | Cubic zirconium | Diamonique
+- Spinel — Balas ruby | Synthetic spinel
+- Haematite — Hematite
+
+### Tier 3: known to fans (51)
+
+- Carnelian
+- Chalcedony
+- Beryl — Green beryl
+- Corundum
+- Morganite — Pink beryl
+- Kunzite
+- Iolite — Cordierite | Water sapphire | Dichroite
+- Labradorite
+- Rhodochrosite — Inca rose
+- Rhodonite
+- Sodalite
+- Fluorite — Fluorspar
+- Aventurine — Green aventurine | Indian jade
+- Chrysoprase
+- Sardonyx
+- Smoky quartz — Smokey quartz | Cairngorm | Smoky topaz
+- Rock crystal — Clear quartz
+- Ametrine
+- Moissanite — Carborundum
+- Black opal — Lightning Ridge opal
+- Fire opal — Mexican fire opal
+- Star sapphire
+- Pink diamond
+- Black pearl — Tahitian pearl
+- Mother-of-pearl — Nacre
+- Cat's eye — Cymophane | Lehsunia | Vaidurya | Chrysoberyl cat's eye
+- Sunstone — Heliolite | Oregon sunstone
+- Amazonite — Amazonstone | Amazon jade
+- Azurite
+- Chrysocolla
+- Pyrite — Fool's gold | Iron pyrite
+- Marcasite
+- Olivine
+- Jadeite — Imperial jade | Burmese jade | Lavender jade
+- Nephrite — Pounamu | Greenstone | Hetian jade | Hotan jade | Khotan jade | Mutton-fat jade
+- Chrysoberyl
+- Heliodor — Golden beryl | Yellow beryl
+- Hope Diamond — Hope
+- Koh-i-Noor — Koh-i-Nur | Mountain of Light
+- Feldspar
+- Moldavite
+- Larimar — Pectolite | Atlantis stone
+- Charoite
+- Apatite
+- Kyanite
+- Prehnite
+- Rubellite — Red tourmaline | Pink tourmaline
+- Paraíba tourmaline — Paraiba
+- Watermelon tourmaline
+- Padparadscha
+- Black diamond — Carbonado
+
+### Tier 4: obscure (51)
+
+- Andalusite
+- Diopside
+- Hiddenite
+- Spodumene
+- Rutilated quartz
+- Serpentine — Bowenite | New jade
+- Sphene — Titanite
+- Spessartine — Spessartite | Mandarin garnet
+- Tsavorite — Tsavolite
+- Demantoid
+- Almandine — Almandite
+- Pyrope — Bohemian garnet
+- Grossular — Grossularite
+- Hessonite — Gomed | Cinnamon stone
+- Rhodolite
+- Uvarovite
+- Andradite
+- Zoisite
+- Sugilite — Luvulite
+- Ammolite — Korite
+- Apophyllite
+- Goshenite — Colourless beryl | Colorless beryl
+- Red beryl — Bixbite | Red emerald
+- Fire agate
+- Moss agate
+- Blue lace agate
+- Sard — Sardius
+- Prasiolite — Green amethyst | Green quartz
+- Hawk's eye — Falcon's eye
+- Copal
+- Abalone — Paua | Paua shell | Ormer | Abalone shell
+- Ivory
+- Akoya pearl
+- South Sea pearl
+- Blue John — Derbyshire Spar
+- Selenite
+- Howlite
+- Petrified wood — Fossilised wood | Fossilized wood | Fossil wood
+- Herkimer diamond
+- Boulder opal
+- Indicolite — Blue tourmaline
+- Imperial topaz
+- Star ruby
+- Yellow sapphire — Pukhraj
+- Pink sapphire
+- Blue diamond
+- Yellow diamond — Canary diamond
+- Cullinan — Cullinan Diamond | Great Star of Africa | Star of Africa | Lesser Star of Africa | Cullinan I | Cullinan II | Cullinan III | Cullinan IV | Cullinan V | Second Star of Africa
+- Star of India
+- Black Prince's Ruby — Black Prince Ruby
+- Ethiopian opal — Welo opal | Wollo opal
+
+### Tier 5: expert (173)
+
+- Benitoite
+- Euclase
+- Vesuvianite — Idocrase
+- Scapolite
+- Seraphinite — Clinochlore
+- Unakite
+- Variscite
+- Thulite
+- Aragonite
+- Dumortierite
+- Epidote
+- Pietersite
+- Tiger iron
+- Tektite
+- Tortoiseshell
+- Conch pearl
+- Freshwater pearl
+- Melo pearl
+- Baroque pearl
+- Keshi pearl
+- Spectrolite
+- Orthoclase
+- Lazurite
+- Haüyne — Hauynite
+- Cinnabar
+- Smithsonite
+- Hemimorphite
+- Sphalerite
+- Cassiterite
+- Scheelite
+- Cerussite
+- Calcite
+- Staurolite — Fairy cross
+- Chiastolite — Cross stone
+- Sillimanite — Fibrolite
+- Kornerupine
+- Sinhalite
+- Serendibite
+- Grandidierite
+- Jeremejevite
+- Musgravite
+- Poudretteite
+- Pezzottaite — Raspberry beryl
+- Hibonite
+- Ekanite
+- Phenakite
+- Datolite
+- Axinite
+- Brazilianite
+- Zincite
+- Sapphirine
+- Tugtupite
+- Hackmanite
+- Zultanite — Diaspore | Csarite
+- Clinohumite
+- Lepidolite
+- Lazulite
+- Prase
+- Plasma
+- Mookaite
+- Picture jasper
+- Ocean jasper
+- Dalmatian jasper
+- Snowflake obsidian
+- Apache tear — Apache tears
+- Libyan desert glass — Libyan glass | Great Sand Sea glass
+- Anyolite — Ruby in zoisite
+- Maxixe
+- Achroite
+- Verdelite — Green tourmaline
+- Schorl — Black tourmaline
+- Dravite
+- Elbaite
+- Liddicoatite
+- Chrome diopside
+- Enstatite
+- Danburite
+- Rainbow moonstone
+- Hyalite
+- Trapiche emerald
+- Milky quartz
+- Strawberry quartz
+- Tourmalinated quartz
+- Crazy lace agate
+- Dendritic agate
+- Melanite
+- Topazolite
+- Malaya garnet
+- Red diamond
+- Brown diamond — Champagne diamond | Chocolate diamond | Cognac diamond
+- White sapphire
+- Rutile
+- Timur Ruby
+- Orlov — Orlov Diamond | Orloff
+- Regent Diamond — Regent | Pitt Diamond
+- Sancy — Sancy Diamond
+- Dresden Green — Dresden Green Diamond
+- Logan Sapphire
+- Darya-i-Noor — Darya-ye Noor | Sea of Light
+- Idol's Eye
+- Tiffany Yellow Diamond — Tiffany Diamond
+- Millennium Star
+- Golden Jubilee — Golden Jubilee Diamond
+- Lesedi La Rona
+- Florentine Diamond — Florentine
+- Great Mogul — Great Mogul Diamond
+- Stuart Sapphire
+- St Edward's Sapphire
+- Pink Star — Steinmetz Pink
+- Blue opal — Peruvian opal | Andean opal
+- Black coral
+- Grey diamond — Gray diamond | Salt and pepper diamond
+- Green diamond
+- Orange diamond
+- Purple diamond — Violet diamond
+- Pink opal
+- Crystal opal
+- Water opal — Jelly opal
+- Common opal — Potch
+- Flint — Ohio flint | Flint Ridge flint
+- Mahogany obsidian
+- Rainbow obsidian
+- Green sapphire
+- Purple sapphire — Violet sapphire
+- Orange sapphire
+- Black sapphire
+- Parti sapphire — Bicolour sapphire | Bicolor sapphire
+- Lemon quartz — Lemon citrine | Ouro verde
+- Blue quartz
+- Mabe pearl
+- Seed pearl
+- Golden pearl — Golden South Sea pearl
+- Bumblebee jasper
+- Botswana agate
+- Tree agate
+- Lake Superior agate
+- Blue chalcedony
+- Chrome chalcedony — Mtorolite
+- Gem silica — Chrysocolla chalcedony
+- Star garnet
+- Celestite — Celestine
+- Angelite
+- Dioptase
+- Petalite
+- Eilat stone
+- Chlorastrolite — Isle Royale greenstone
+- Maw sit sit
+- Strontium titanate — Fabulite
+- YAG — Yttrium aluminium garnet | Yttrium aluminum garnet
+- GGG — Gadolinium gallium garnet
+- La Peregrina — Peregrina | La Peregrina pearl
+- Excelsior Diamond — Excelsior
+- Jubilee Diamond
+- Centenary Diamond
+- Wittelsbach Diamond — Wittelsbach-Graff Diamond | Wittelsbach-Graff
+- Heart of Eternity
+- Oppenheimer Blue
+- Sunrise Ruby
+- Moussaieff Red
+- Spoonmaker's Diamond — Spoonmaker Diamond | Kaşıkçı Diamond
+- Nassak Diamond — Nassak
+- Agra Diamond
+- Shah Diamond
+- Star of the South
+- Black Orlov — Eye of Brahma
+- Eureka Diamond
+- Taylor–Burton Diamond — Taylor-Burton
+- Elizabeth Taylor Diamond — Krupp Diamond
+- Blue Moon of Josephine — Blue Moon Diamond
+- DeLong Star Ruby
+- Star of Bombay
+- Star of Adam
+- Noor-ul-Ain
+
+### Tier 6: rare jackpots (2)
+
+- Painite
+- Taaffeite
+
+## Refused on purpose (26)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Gold | Silver | Platinum | White gold | Rose gold | Palladium | Copper | Titanium | Bronze — "A metal, not a gemstone."
+- Crystal — "Too vague. Name the crystal."
+- Gem | Gemstone | Jewel | Precious stone | Semi-precious stone | Birthstone | Precious gem — "That covers a whole group of gems. Name one."
+- Rhinestone | Diamanté | Paste | Swarovski | Swarovski crystal | Glass | Lead crystal | Cut glass | Strass | Austrian crystal — "Glass, cut to sparkle. Not a gemstone."
+- Goldstone | Dichroic glass | Sea glass | Beach glass — "Glass made by people, not a gemstone."
+- Kryptonite — "A mineral from Superman's stories, not a real gem."
+- Infinity Stones | Infinity Stone | Soul Stone | Mind Stone | Time Stone | Power Stone | Reality Stone | Space Stone — "From the Marvel films. Real gems are less trouble."
+- Philosopher's Stone | Sorcerer's Stone — "A legend of the alchemists, said to turn lead into gold. Never found."
+- Arkenstone | Silmaril — "A jewel from Tolkien's stories, not a real gem."
+- Heart of the Ocean — "A fictional diamond from the film Titanic."
+- Chaos Emerald | Master Emerald — "From the Sonic games. Real emeralds are calmer."
+- Dilithium | Dilithium crystals — "Fictional crystals that power the starships of Star Trek."
+- Kidney stone | Gallstone | Bladder stone — "Hard-won, but not a gemstone."
+- Granite | Marble | Limestone | Basalt | Sandstone | Slate | Chalk | Pumice | Rock | Pebble — "A rock, not a gemstone."
+- Graphite | Charcoal — "Carbon, like diamond, but no gemstone."
+- Salt | Halite | Rock salt | Talc | Mica — "A mineral, but not a gemstone."
+- Ambergris — "A waxy substance from sperm whales, prized in perfume. Not a gem."
+- Zirconium — "A metal. The gem is zircon."
+- Cabochon | Brilliant | Brilliant cut | Princess cut | Baguette | Rose cut | Facet — "A way of cutting a stone, not a stone. Name the gem."
+- Carat | Karat — "A unit of weight for gems, not a gem."
+- Navaratna | Navratna | Nine gems — "Nine gems, not one. Name one of them."
+- Geode | Thunder egg — "A hollow rock lined with crystals. Name the crystal."
+- Crown Jewels | Imperial State Crown — "A collection, not a single stone. Name one of the gems."
+- Cherry quartz — "Glass made by people to look like a gem."
+- Imitation pearl | Faux pearl | Majorica pearl | Fake pearl | Glass pearl — "Glass or plastic, coated to look like pearl."
+- Lignite — "Brown coal, not a gemstone. Its cousin jet is the gem."

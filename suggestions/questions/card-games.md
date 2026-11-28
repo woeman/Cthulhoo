@@ -1,0 +1,353 @@
+# Name a card game.
+
+Question id: `card-games` · category: misc · source: `data/misc.json`
+
+Rules: Any game played mainly with cards: traditional and gambling games, patience, party games, trading card and digital card games, special packs like Uno's included. Board, tile and dice games don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (305 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (8)
+
+- Poker — Poker card game
+- Blackjack — Twenty-one | 21
+- Snap — Animal Snap
+- Rummy — Rum | Rhummy
+- Bridge — Contract bridge | Duplicate bridge | Rubber bridge | Auction bridge
+- Patience — Solitaire | Windows Solitaire | Patience card game
+- Uno — Uno Flip | Uno No Mercy | Uno Attack
+- Go Fish — Go Fishing | Fish
+
+### Tier 2: common (22)
+
+- Whist — Partnership whist | Short whist | Long whist
+- Hearts
+- Spades
+- Gin rummy — Gin | Gin rum | Oklahoma gin
+- Canasta — Kanasta
+- Cribbage — Crib
+- Pontoon — Vingt-et-un | Vingt-un | Van John
+- Baccarat — Baccara | Bacarat
+- Texas hold 'em — Hold 'em | Ultimate Texas hold 'em
+- Old Maid — Babanuki
+- Happy Families
+- Cheat — I Doubt It | Bullshit | BS | Bluff
+- War — Battle
+- Crazy Eights — Crazy 8s | Crazy 8 | Crazy eight | Eights
+- Concentration — Pairs | Memory | Pelmanism | Matching pairs | Match | Pexeso
+- Top Trumps — Trumps
+- Exploding Kittens
+- Cards Against Humanity — CAH
+- Magic: The Gathering — Magic | MTG | MTG Arena | Magic Arena
+- Pokémon Trading Card Game — Pokémon TCG | Pokémon cards | Pokémon | Pokémon TCG Pocket | Pokemon card game
+- Yu-Gi-Oh! — Yu-Gi-Oh Trading Card Game
+- Euchre — Euker
+
+### Tier 3: known to fans (39)
+
+- Klondike — Klondike solitaire | Klondike patience
+- Spider solitaire — Spider | Spider patience
+- FreeCell — FreeCell solitaire
+- Solo whist — Solo
+- Knockout whist — Knockout
+- Oh Hell — Oh Well | Oh Heck | Nomination whist | Blackout | Up and down the river | Contract whist | Estimation whist | Judgement | Kachuful | Kachufool
+- Pinochle — Pinocle | Penuchle | Binocle
+- Bezique — Bésigue
+- Skat
+- Napoleon — Nap
+- Cassino — Casino
+- Brag — Three card brag | 3 card brag
+- Omaha — Omaha hold 'em | Omaha poker | Pot-limit Omaha | PLO
+- Seven-card stud — 7 card stud | Stud poker | Stud
+- Five-card draw — 5 card draw | Draw poker
+- Strip poker
+- Chemin de fer — Chemmy
+- Beggar-my-neighbour — Beggar my neighbor | Beggar your neighbour | Beggar thy neighbour | Strip Jack Naked | Beat your neighbour out of doors
+- Slapjack
+- Egyptian Ratscrew — ERS | Egyptian War
+- Spoons
+- Spit
+- Speed
+- Racing Demon — Nertz | Pounce | Race patience | Nerts
+- Sevens — Fan Tan | Parliament | Card dominoes | Badam Satti | Badam Saat
+- President — Scum | Arsehole | Asshole | President and Scum | Daifugō | Daihinmin
+- Palace — Shithead | Karma | Shed
+- Switch — Two-Four-Jack | Last Card
+- Skip-Bo
+- Phase 10
+- Monopoly Deal — Monopoly card game
+- Dobble — Spot It!
+- Tarot — Tarock | Tarocchi | Tarocco | French tarot | Tarok | Tarot cards
+- Hearthstone
+- 52 Pickup — Fifty-two pickup | 52 card pickup
+- Five Hundred — 500
+- Kalooki — Kaluki | Kalookie | Kaloochi
+- Newmarket — Michigan | Boodle | Stops
+- Ring of Fire — Kings | King's Cup | Circle of Death
+
+### Tier 4: obscure (62)
+
+- Piquet — Picquet
+- Écarté
+- Schafkopf — Sheepshead
+- Doppelkopf — Doko
+- Jass — Jassen | Schieber
+- Klaverjas — Klaverjassen | Klabberjass | Clobyosh
+- Belote — Belot
+- Briscola — Brisca | Briskula
+- Scopa — Scopone
+- Rook
+- Pitch — Setback | High-low-jack | Auction pitch
+- Bid whist
+- Black Maria — Black Lady
+- Durak
+- Mau-Mau
+- Mao
+- Chase the Ace — Ranter-go-round | Screw your neighbour | Cuckoo
+- Kemps
+- Golf — Golf solitaire | Six-card golf
+- Demon — Canfield | Demon patience
+- Pyramid — Pyramid solitaire | Pyramid patience
+- Clock patience — Clock | Clock solitaire
+- TriPeaks — Three Peaks
+- Rummy 500 — 500 rum | Five hundred rummy
+- Contract rummy — Liverpool rummy | Shanghai rummy
+- Hand and Foot
+- Indian rummy — Paplu | 13 card rummy
+- Punto banco
+- Five-card stud — 5 card stud
+- Three card poker — 3 card poker
+- Caribbean stud — Caribbean stud poker
+- Video poker
+- Faro — Pharaoh | Faro bank | Pharo
+- Three-card monte — Find the lady | Three-card trick | Monte
+- Truco — Truc | Truque
+- Tichu
+- Big Two — Big Deuce | Pusoy Dos | Choi Dai Di | Cho Dai Di | Deuces
+- Dou dizhu — Fight the Landlord
+- Tiến lên — Thirteen | Viet 13
+- Teen Patti — Flush | Flash
+- Hanafuda — Flower cards | Hwatu | Hanafuda cards
+- Apples to Apples
+- Mille Bornes
+- Love Letter
+- Sushi Go!
+- Coup
+- Dominion
+- Fluxx
+- Munchkin
+- Hanabi
+- Codenames
+- Taboo
+- Set
+- Match Attax — Match Attacks
+- Marvel Snap
+- Gwent
+- Disney Lorcana — Lorcana
+- Exploding Snap
+- Whot
+- Higher or lower — Play Your Cards Right | Hi-lo
+- Kings in the Corner — Kings Corner
+- Werewolf — Mafia | Ultimate Werewolf | One Night Ultimate Werewolf
+
+### Tier 5: expert (171)
+
+- German whist
+- Minnesota whist
+- Twenty-five — Forty-fives | Forty-five
+- Spoil Five — Spoil 5
+- All Fours — Seven Up | Old Sledge
+- Ombre — Hombre | L'Hombre
+- Quadrille
+- Boston
+- Loo — Lanterloo
+- Primero — Primera
+- Gleek
+- Basset — Bassette
+- Commerce
+- Speculation
+- Put
+- Pope Joan
+- Lansquenet — Landsknecht
+- Tressette — Tresette
+- Mus
+- Tute
+- Chinchón
+- Escoba
+- Sueca
+- Bisca
+- Cuarenta
+- Preferans — Preference
+- Ulti
+- Guandan
+- Shengji — Tractor | Upgrade | Eighty points | 80 points
+- Rang — Court piece | Rung | Coat piece
+- Twenty-nine — 29
+- Bhabhi — Bhabi | Get Away
+- Andar Bahar — Katti | Mangatha
+- Koi-Koi
+- Go-Stop — Godori
+- Oicho-Kabu
+- Karuta — Uta-garuta | Hyakunin Isshu
+- Pishti — Pişti
+- Basra — Bastra
+- Trex — Trix
+- Baloot — Balut
+- Tarneeb
+- Hokm — Hokum
+- Pasur — Pasoor | Chahar Barg
+- Omi
+- Samba
+- Bolivia
+- Buraco — Burraco
+- Scala 40 — Scala quaranta
+- Machiavelli
+- Tonk — Tunk
+- Conquian
+- Panguingue — Pan
+- Pig
+- Donkey
+- Snip Snap Snorem — Snip-snap-snorum
+- Go Boom
+- Authors
+- Sleeping Queens
+- Spite and Malice — Cat and Mouse
+- Accordion
+- Forty Thieves — Napoleon at St Helena | Big Forty
+- Yukon
+- Scorpion
+- Baker's Dozen
+- La Belle Lucie — Belle Lucie
+- Calculation
+- Beleaguered Castle
+- Miss Milligan
+- Aces Up — Idiot's Delight | Firing Squad
+- Sir Tommy — Old Patience
+- Gaps — Montana
+- Russian solitaire
+- Pai gow poker — Pai gow
+- Let It Ride
+- Razz
+- Badugi
+- Casino war
+- Red dog — In-between | Acey-deucey | Yablon
+- Trente et quarante — Rouge et noir
+- Spanish 21
+- Chinese poker — Open-face Chinese poker
+- Pineapple
+- Mississippi stud
+- Bang!
+- The Mind
+- Dutch Blitz
+- Rack-O
+- Pit
+- Flinch
+- Bohnanza
+- 6 nimmt! — Six nimmt | Take 5 | Category 5
+- Lost Cities
+- The Crew
+- Star Realms
+- Unstable Unicorns
+- What Do You Meme?
+- Dixit
+- Saboteur
+- Citadels
+- 7 Wonders — Seven Wonders
+- Race for the Galaxy
+- Legends of Runeterra — Runeterra
+- Flesh and Blood
+- One Piece Card Game — One Piece TCG
+- Digimon Card Game — Digimon TCG
+- Star Wars: Unlimited
+- Netrunner — Android: Netrunner
+- Vampire: The Eternal Struggle — VTES | Jyhad
+- Legend of the Five Rings — L5R
+- Cardfight!! Vanguard — Vanguard
+- Weiss Schwarz
+- Duel Masters
+- Force of Will
+- Shadowverse
+- KeyForge
+- Riftbound
+- Gundam Card Game — Gundam TCG
+- Altered
+- Sorcery: Contested Realm — Sorcery TCG
+- Balatro
+- Slay the Spire
+- Sabacc
+- Mendikot — Mendicot | Mindi
+- Dehla Pakad
+- 3-2-5 — Teen Do Paanch | Teen Do Panch
+- Seep — Sweep
+- Triple Triad
+- Pazaak
+- Queen's Blood
+- Caravan
+- Fizzbin
+- Cripple Mr Onion
+- Inscryption
+- Seotda
+- Likha — Leekha
+- Matatu
+- Thunee
+- 110 — One Hundred and Ten
+- Scotch whist — Catch the Ten
+- Kaiser
+- Rummoli
+- Tarabish
+- Watten
+- Sixty-six — Sechsundsechzig
+- Schnapsen
+- Thousand — Tysiacha
+- Tongits
+- Pusoy
+- Lucky 9
+- Dragon Tiger
+- Ride the bus
+- Wizard
+- Skull King
+- Skyjo
+- Flip 7
+- Taco Cat Goat Cheese Pizza
+- Rat-a-Tat Cat
+- Dos
+- Lowball
+- Guts
+- Indian poker
+- Bourré
+- Smear
+- Ninety-nine
+- Monte Carlo
+- Joking Hazard
+- Dragon Ball Super Card Game — Fusion World
+- Union Arena
+- Grand Archive
+- Final Fantasy Trading Card Game — FFTCG
+
+### Tier 6: rare jackpots (3)
+
+- Karnöffel — Karnoeffel | Karniffel
+- Ganjifa — Ganjifeh | Ganjapa | Ganjifa cards
+- Bouillotte
+
+## Refused on purpose (14)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Cards | Card game | Playing cards | Deck of cards | Pack of cards | Deck | Trading cards | Trading card game | TCG | CCG | Collectible card game | Casino games | Trick-taking — "Which game? The deep wants its name."
+- Ace of spades | Ace | Queen | Trump card | Wild card — "A card, not a game."
+- Royal flush | Full house | Straight flush | Straight | Four of a kind | Three of a kind | Dead man's hand — "A winning hand at poker, not a game."
+- Mahjong | Mahjongg | Mahjong solitaire | Dominoes | Rummikub | Mexican Train | Scrabble | Bananagrams — "Played with tiles, not cards."
+- Monopoly | Cluedo | Clue | Ticket to Ride | Catan | Settlers of Catan | Trivial Pursuit | Risk | Chess | Snakes and ladders | Ludo | Backgammon | Draughts | Checkers | Pandemic | Wingspan — "A board game, even if cards come into it."
+- Bingo | Lotto | Keno | Scratchcard | Lottery — "Played on a printed card, but a numbers game, not a card game."
+- Yahtzee | Craps | Liar's dice | Farkle | Dice | Perudo — "Played with dice."
+- Roulette | Slots | Slot machine | Fruit machine | Pachinko | Pokies | Poker machine — "A gambling game, but played on a wheel."
+- Tarot reading | Tarot card reading | Fortune telling | Cartomancy | Oracle cards — "Fortune-telling, not a game, though the packs it uses were made for one."
+- Card trick | Magic trick | Sleight of hand | Shuffling | House of cards | Card castle — "A trick or a feat, not a game."
+- Panini stickers | Football stickers | Sticker album | Baseball cards | Cigarette cards | Football cards — "Collected and swapped, but not played."
+- Credit card | Debit card | Business card | Birthday card | Christmas card | Red card | Yellow card | Green card | Report card | SIM card | Library card — "Accepted almost everywhere, but not here."
+- Pokémon Go — "A phone game for catching monsters, not a card game."
+- Two-up — "Played by tossing coins, not cards."

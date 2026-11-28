@@ -1,0 +1,486 @@
+# Name a colour.
+
+Question id: `colours` · category: misc · source: `data/misc.json`
+
+Rules: Any named colour or shade, including paints, pigments, dyes and heraldic tinctures. Patterns and finishes, like tartan or gloss, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (442 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Red — Reds
+- Blue
+- Green — Gren
+- Yellow
+- Orange
+- Purple
+- Pink
+- Black
+- White — Wite | Snow white
+- Brown
+- Grey — Gray
+
+### Tier 2: common (51)
+
+- Violet
+- Indigo
+- Gold — Golden | Golden yellow
+- Silver — Silvery
+- Turquoise — Turquoise blue | Firozi | Ferozi
+- Magenta
+- Cyan
+- Maroon
+- Navy — Navy blue
+- Beige
+- Cream — Creme
+- Lilac
+- Lavender
+- Teal — Teal blue | Teal green
+- Crimson
+- Scarlet
+- Burgundy
+- Aqua — Aqua blue
+- Lime — Lime green
+- Olive — Olive green
+- Peach
+- Coral — Coral pink
+- Tan
+- Khaki — Khaki green
+- Mauve
+- Fuchsia — Fuschia | Fushia
+- Amber
+- Ivory
+- Bronze
+- Copper
+- Rose — Rose pink | Rose red | Old rose
+- Mint — Mint green
+- Emerald — Emerald green
+- Sky blue — Sky | Azure blue
+- Royal blue
+- Baby blue
+- Charcoal — Charcoal grey
+- Plum
+- Salmon — Salmon pink
+- Mustard — Mustard yellow
+- Hot pink — Neon pink | Deep pink | Fluorescent pink
+- Light blue — Pale blue | Pastel blue
+- Dark blue — Deep blue
+- Dark green — Deep green
+- Light green — Pale green | Pastel green
+- Light pink — Pale pink | Pastel pink
+- Light purple — Pale purple | Pastel purple
+- Dark purple — Deep purple
+- Light brown — Pale brown
+- Dark brown — Deep brown
+- Bright red
+
+### Tier 3: known to fans (91)
+
+- Ochre — Ocher | Yellow ochre | Red ochre
+- Sienna — Burnt sienna | Raw sienna
+- Umber — Burnt umber | Raw umber
+- Vermilion — Vermillion | Sindoor | Sindoori | Chinese red
+- Cerulean — Cerulean blue | Cerulian
+- Ultramarine
+- Cobalt — Cobalt blue
+- Sapphire — Sapphire blue
+- Azure
+- Periwinkle
+- Cornflower — Cornflower blue
+- Powder blue
+- Electric blue
+- Midnight blue — Midnight
+- Prussian blue
+- Aquamarine
+- Duck egg blue — Duck egg
+- Cambridge blue
+- Denim — Denim blue
+- Blue-green — Bluish green | Green-blue | Greenish blue
+- Jade — Jade green
+- Sage — Sage green
+- Forest green
+- Bottle green
+- British racing green — Racing green
+- Chartreuse
+- Avocado
+- Moss green — Moss
+- Sea green
+- Neon green — Fluorescent green | Lurid green
+- Lemon — Lemon yellow
+- Canary yellow — Canary
+- Saffron — Saffron yellow | Kesari | Kesariya | Bhagwa
+- Tangerine
+- Apricot
+- Burnt orange
+- Terracotta
+- Rust — Rust red | Rusty
+- Brick red — Brick
+- Blood red — Blood
+- Cherry — Cherry red
+- Ruby — Ruby red
+- Wine — Wine red
+- Claret
+- Cerise
+- Raspberry
+- Baby pink
+- Shocking pink
+- Blush — Blush pink
+- Rose gold
+- Puce
+- Aubergine — Eggplant | Brinjal
+- Amethyst
+- Orchid
+- Taupe
+- Fawn
+- Camel
+- Caramel — Carmel
+- Chocolate — Chocolate brown
+- Coffee — Coffee brown
+- Chestnut
+- Mahogany
+- Auburn
+- Hazel — Hazelnut
+- Sepia
+- Ginger
+- Champagne
+- Off-white
+- Eggshell — Eggshell white
+- Pearl — Pearl white | Mother of pearl
+- Slate — Slate grey | Slate blue
+- Jet — Jet black | Pitch black | Coal black
+- Ebony
+- Sand — Sandy | Sand colour
+- Light grey — Light gray
+- Dark grey — Dark gray
+- Dark red — Deep red
+- Nude
+- Ocean blue — Sea blue | Marine blue
+- Ultra Violet
+- Dark pink
+- Light yellow — Pale yellow | Pastel yellow
+- Light orange — Pale orange | Pastel orange
+- Dark orange — Deep orange
+- Bright yellow
+- Bright pink
+- Bright orange
+- Bright green
+- Bright blue
+- Blue-grey — Blue-gray | Grey-blue | Gray-blue | Bluish grey
+- Red-orange — Orange-red | Reddish orange
+
+### Tier 4: obscure (135)
+
+- Petrol blue
+- Air Force blue — RAF blue
+- Steel blue
+- Ice blue — Icy blue
+- Oxford blue
+- Tiffany blue — Tiffany
+- Robin egg blue — Robin's egg blue | Robin's egg
+- Peacock blue — Peacock
+- Lapis lazuli — Lapis | Lapis blue
+- Egyptian blue
+- Celeste — Bleu celeste | Celeste blue
+- Blue-violet — Blue-purple | Purple-blue
+- Pea green
+- Apple green
+- Hunter green
+- Kelly green
+- Seafoam — Seafoam green
+- Pine green
+- Pistachio — Pista | Pista green
+- Olive drab — Army green | Military green
+- Viridian
+- Celadon
+- Eau de Nil — Nile green
+- Malachite
+- Verdigris
+- Lincoln green
+- Spring green
+- Grass green — Leaf green
+- Yellow-green — Yellowish green
+- Primrose
+- Daffodil
+- Buttercup
+- Butterscotch
+- Honey
+- Straw
+- Wheat
+- Blonde — Blond
+- Chrome yellow
+- Cadmium yellow
+- Topaz
+- Pumpkin
+- Marigold
+- Cinnamon
+- Cardinal
+- Carmine
+- Cinnabar
+- Oxblood
+- Pillar box red — Post box red
+- Fire engine red
+- Candy apple red — Candy red
+- Tomato
+- Cadmium red
+- Madder — Madder red
+- Cochineal — Cochineal red
+- Garnet
+- Bordeaux
+- Strawberry — Strawberry red
+- Bubblegum pink — Bubblegum
+- Dusky pink — Dusty pink | Dusty rose | Dusky rose
+- Millennial pink — Millenial pink
+- Heliotrope
+- Wisteria
+- Mulberry
+- Royal purple
+- Tyrian purple — Imperial purple | Tyrian
+- Red-violet — Reddish purple
+- Mocha
+- Russet
+- Tawny
+- Buff
+- Ecru
+- Greige
+- Stone — Stone grey
+- Oatmeal
+- Brunette
+- Magnolia
+- Alabaster
+- Platinum
+- Pewter
+- Gunmetal
+- Ash — Ash grey | Ash blonde
+- Dove grey — Dove | Dove gray
+- Battleship grey — Battleship gray
+- Steel grey — Steel gray
+- Graphite — Graphite grey
+- Onyx
+- Titanium white
+- Bluebell
+- Poppy — Poppy red
+- Vanilla
+- Or
+- Argent
+- Gules
+- Vert
+- Sable
+- Sanguine
+- Heather — Heather purple
+- Neon yellow — Fluorescent yellow | Highlighter yellow
+- Dark yellow
+- Light red
+- Neon orange — Fluorescent orange | Day-Glo orange
+- Neon blue
+- Neon purple
+- Neon red
+- Grey-green — Gray-green | Greenish grey
+- Yellow-orange — Orange-yellow
+- Oyster — Oyster white | Oyster grey
+- Bone white — Bones
+- Brilliant white — Pure white
+- Brass
+- Barbie pink
+- Parrot green
+- Rani pink — Rani
+- Sunflower — Sunflower yellow
+- Butter yellow — Butter
+- School bus yellow
+- Old gold
+- Carrot — Carrot orange
+- Safety orange — Blaze orange | Hunter orange | Hi-vis orange
+- Cranberry
+- Merlot
+- Cocoa
+- Toffee
+- Espresso
+- Parchment
+- Iris
+- Electric purple — Electric violet
+- Strawberry blonde
+- Platinum blonde
+- French blue
+- French navy
+- Carolina blue
+- Wedgwood blue
+- Delft blue
+- Cadbury purple
+
+### Tier 5: expert (151)
+
+- Eton blue
+- Kingfisher blue
+- Maya blue
+- Smalt
+- Zaffre
+- Azurite
+- Phthalo blue — Phthalocyanine blue
+- Bleu de France
+- Alice blue
+- Dodger blue
+- Cadet blue
+- Bluetiful
+- Classic Blue
+- Shamrock
+- Fern green
+- Kendal green
+- Scheele's green
+- Paris green
+- Hooker's green
+- Brunswick green
+- Sap green
+- Phthalo green
+- Feldgrau — Field grey
+- Asparagus
+- Jungle green
+- Inchworm
+- Greenery
+- Goldenrod
+- Naples yellow
+- Indian yellow
+- Gamboge
+- Orpiment
+- Citrine
+- Flaxen
+- Isabelline — Isabella | Isabelline grey
+- Mimosa
+- Laser Lemon
+- Unmellow Yellow
+- Macaroni and Cheese
+- Persimmon
+- Mango
+- Atomic Tangerine
+- Tenné — Tawny orange
+- Alizarin — Alizarin crimson
+- Rose madder
+- Indian red
+- Venetian red
+- Sinopia
+- Minium — Red lead
+- Titian — Titian red
+- Rosso corsa — Ferrari red
+- Marsala
+- Viva Magenta
+- Amaranth
+- Coquelicot
+- Damson
+- Grape
+- Thistle
+- Byzantium
+- Mauveine — Perkin's mauve | Aniline purple
+- Han purple
+- Very Peri
+- Purpure
+- Murrey
+- Flamingo pink
+- Carnation pink
+- Tickle Me Pink
+- Living Coral
+- Peach Fuzz
+- Rose Quartz
+- Bistre — Bister
+- Van Dyke brown
+- Caput mortuum
+- Walnut
+- Wenge
+- Drab
+- Mocha Mousse
+- Mushroom
+- Putty
+- Biscuit
+- Payne's grey — Payne's gray
+- Davy's grey — Davy's gray
+- Lead white — Flake white
+- Zinc white — Chinese white
+- Ivory black
+- Lamp black
+- Vantablack
+- Elephant's Breath
+- Seashell
+- Linen
+- Cloud Dancer
+- Purple Mountains' Majesty — Purple Mountain Majesty
+- Razzmatazz
+- Jazzberry Jam
+- Outer Space
+- Timberwolf
+- Maize
+- Raven — Raven black
+- Ermine — Erminois
+- Vair
+- Mehendi green — Mehndi green | Henna green
+- Onion pink
+- Chalk — Chalk white
+- Chrome
+- Space grey — Space gray
+- International orange
+- Turkey red
+- Dragon's blood
+- Crimson lake
+- International Klein Blue — IKB | Klein blue
+- Majorelle blue
+- Saxe blue
+- Bondi blue
+- Columbia blue
+- Yale blue
+- Persian blue
+- Mountbatten pink
+- Rebecca purple
+- Firebrick
+- Gainsboro
+- Navajo white
+- Antique white
+- Café au lait
+- Palomino
+- Sorrel
+- Aureolin — Cobalt yellow
+- Cadmium orange
+- Serenity
+- Illuminating
+- Ultimate Gray — Ultimate Grey
+- Honeysuckle
+- Tangerine Tango
+- Radiant Orchid
+- Chili Pepper
+- Sand Dollar
+- Blue Turquoise
+- Tigerlily
+- Aqua Sky
+- True Red
+- Fuchsia Rose
+- Blue Iris
+- Dandelion
+- Mango Tango
+- Wild Blue Yonder
+- Screamin' Green — Screaming Green
+- Granny Smith Apple
+- Fuzzy Wuzzy — Fuzzy Wuzzy Brown
+- Dead Salmon
+- Hague Blue
+- Mouse's Back
+- Sulking Room Pink
+
+### Tier 6: rare jackpots (3)
+
+- Eigengrau — Eigenlicht | Brain grey | Dark light
+- Mummy brown — Mummy | Egyptian brown
+- YInMn blue — YInMn | Oregon blue
+
+## Refused on purpose (10)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Colour | Color | Colours | Colors | Hue | Shade | Tint | Primary colour | Primary color — "Which colour? The deep wants a name."
+- Rainbow | Multicoloured | Multicolored | Rainbow colours | Tie-dye — "Every colour at once. The deep wants just one."
+- Tartan | Paisley | Polka dot | Stripes | Striped | Camouflage | Leopard print | Plaid | Check | Tortoiseshell | Tabby | Dappled | Pinstripe — "A pattern, not a colour."
+- Gloss | Matt | Matte | Glossy | Satin finish | Metallic | Glitter | Sparkly | Iridescent | Opalescent | Pearlescent | Shiny | Holographic — "A finish, not a colour."
+- Neon | Fluorescent | Fluoro | Day-Glo — "Bright, but which colour? Neon what?"
+- Pastel | Pastels | Light | Dark | Bright | Pale | Deep — "Light, dark, pale or pastel what? Name the colour."
+- Transparent | Clear | Colourless | Colorless | Invisible | See-through — "No colour at all."
+- Infrared | X-ray — "Rays beyond either end of the rainbow, invisible to our eyes."
+- Octarine — "The colour of magic, but only on the Discworld."
+- Flesh | Flesh colour | Flesh color | Flesh-coloured | Skin colour | Skin color | Skin tone — "Skin comes in every shade. Crayola renamed its flesh crayon peach in 1962."

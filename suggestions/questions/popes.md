@@ -1,0 +1,348 @@
+# Name a pope.
+
+Question id: `popes` · category: history · source: `data/history.json`
+
+Rules: Any pope recognised by the Catholic Church, from Peter to Leo XIV. A shared name counts as its best-known pope, or asks for the number. Antipopes don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (265 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (4)
+
+- John Paul II — John Paul the Great | Pope John Paul II | Pope John Paul the Great | Saint John Paul II | Saint John Paul the Great | Karol Wojtyła | Karol Józef Wojtyła | Wojtyła | JPII | JP2 | Jan Paweł II | Juan Pablo II | Giovanni Paolo II | Pope John Paul | Saint John Paul | John Paul
+- Benedict XVI — Pope Benedict XVI | Joseph Ratzinger | Joseph Aloisius Ratzinger | Ratzinger | Pope Emeritus | Benedikt XVI | Cardinal Ratzinger | Pope Emeritus Benedict | Pope Emeritus Benedict XVI | Pope Benedict | Benedict
+- Francis — Franciscus | Francis I | Franciscus I | Pope Francis | Pope Franciscus | Pope Francis I | Pope Franciscus I | Jorge Bergoglio | Jorge Mario Bergoglio | Bergoglio | Papa Francesco
+- Leo XIV — Pope Leo XIV | Robert Prevost | Robert Francis Prevost | Prevost | León XIV | Cardinal Prevost | Bob Prevost | Papa Leone XIV | Pope Leo | Leo
+
+### Tier 2: common (16)
+
+- Peter — Peter I | Pope Peter | Pope Peter I | Saint Peter | Saint Peter I | Simon Peter | Peter the Apostle | Apostle Peter | Saint Peter the Apostle | Cephas
+- Leo I — Leo the Great | Pope Leo I | Pope Leo the Great | Saint Leo I | Saint Leo the Great | Saint Leo
+- Gregory I — Gregory the Great | Pope Gregory I | Pope Gregory the Great | Saint Gregory I | Saint Gregory the Great | Saint Gregory | Gregory | Pope Gregory
+- Urban II — Pope Urban II | Odo of Châtillon | Odo of Lagery | Otho of Lagery | Urban | Pope Urban
+- Adrian IV — Hadrian IV | Pope Adrian IV | Pope Hadrian IV | Nicholas Breakspear | Breakspear | Nicholas Breakspeare | Adrian | Pope Adrian | Pope Hadrian | Hadrian
+- Innocent III — Pope Innocent III | Lotario dei Conti di Segni | Innocent | Pope Innocent
+- Alexander VI — Pope Alexander VI | Rodrigo Borgia | Rodrigo de Borja | Roderic Borgia | Alexander | Pope Alexander | Borgia | Pope Borgia | Borja
+- Julius II — Pope Julius II | Giuliano della Rovere | Warrior Pope | Il Papa Terribile | Fearsome Pope | Julius | Pope Julius | della Rovere | Rovere | Pope della Rovere
+- Leo X — Pope Leo X | Giovanni de' Medici | Giovanni di Lorenzo de' Medici | Medici | Pope Medici | de Medici
+- Clement VII — Pope Clement VII | Giulio de' Medici | Clement | Pope Clement
+- Gregory XIII — Pope Gregory XIII | Ugo Boncompagni
+- Leo XIII — Pope Leo XIII | Gioacchino Pecci | Vincenzo Gioacchino Pecci | Pecci
+- Pius XII — Pio XII | Pope Pius XII | Pope Pio XII | Eugenio Pacelli | Pacelli | Pius | Pope Pius | Pope Pio | Pio
+- John XXIII — Good Pope John | Pope John XXIII | Pope Good Pope John | Saint John XXIII | Saint Good Pope John | Angelo Roncalli | Angelo Giuseppe Roncalli | Roncalli | Saint John | John | Pope John | Pope Jon
+- Paul VI — Pope Paul VI | Saint Paul VI | Giovanni Battista Montini | Montini | Paul | Pope Paul
+- John Paul I — Pope John Paul I | Albino Luciani | Luciani | Smiling Pope | Blessed John Paul I | Saint John Paul I | JP1 | JPI
+
+### Tier 3: known to fans (43)
+
+- Linus — Linus I | Pope Linus | Pope Linus I | Saint Linus | Saint Linus I
+- Clement I — Pope Clement I | Saint Clement I | Saint Clement
+- Alexander I — Pope Alexander I | Saint Alexander I | Saint Alexander
+- Pius I — Pio I | Pope Pius I | Pope Pio I | Saint Pius I | Saint Pio I
+- Urban I — Pope Urban I | Saint Urban I | Saint Urban
+- Stephen I — Steven I | Pope Stephen I | Pope Steven I | Saint Stephen I | Saint Steven I | Saint Stephen | Saint Steven | Stephen | Pope Stephen | Pope Steven | Steven
+- Sylvester I — Silvester I | Pope Sylvester I | Pope Silvester I | Saint Sylvester I | Saint Silvester I | Saint Sylvester | Saint Silvester | Sylvester | Pope Sylvester | Pope Silvester | Silvester
+- Julius I — Pope Julius I | Saint Julius I | Saint Julius
+- Innocent I — Pope Innocent I | Saint Innocent I | Saint Innocent
+- Boniface I — Pope Boniface I | Saint Boniface I | Saint Boniface
+- John I — Pope John I | Saint John I
+- John II — Pope John II
+- Benedict I — Pope Benedict I
+- Leo II — Pope Leo II | Saint Leo II
+- Benedict II — Pope Benedict II | Saint Benedict II
+- Gregory II — Pope Gregory II | Saint Gregory II
+- Paul I — Pope Paul I | Saint Paul I
+- Adrian I — Hadrian I | Pope Adrian I | Pope Hadrian I
+- Leo III — Pope Leo III | Saint Leo III
+- Nicholas I — Nicolas I | Nicholas the Great | Pope Nicholas I | Pope Nicolas I | Pope Nicholas the Great | Saint Nicholas I | Saint Nicolas I | Saint Nicholas the Great | Nicholas | Pope Nicholas | Pope Nicolas | Nicolas
+- Clement II — Pope Clement II
+- Gregory VII — Pope Gregory VII | Saint Gregory VII | Hildebrand | Hildebrand of Sovana
+- Innocent II — Pope Innocent II
+- Alexander III — Pope Alexander III
+- Celestine V — Pope Celestine V | Saint Celestine V | Pietro da Morrone | Peter of Morrone | Peter Celestine | Pietro Angelerio | Saint Celestine | Celestine | Pope Celestine
+- Boniface VIII — Pope Boniface VIII | Benedetto Caetani | Boniface | Pope Boniface
+- Clement V — Pope Clement V | Bertrand de Got
+- Pius II — Pio II | Pope Pius II | Pope Pio II | Aeneas Silvius Piccolomini | Enea Silvio Piccolomini | Piccolomini
+- Sixtus IV — Xystus IV | Pope Sixtus IV | Pope Xystus IV | Francesco della Rovere | Sixtus | Pope Sixtus | Pope Xystus | Xystus
+- Adrian VI — Hadrian VI | Pope Adrian VI | Pope Hadrian VI | Adrian of Utrecht | Adriaan Florensz | Adriaan Boeyens
+- Paul III — Pope Paul III | Alessandro Farnese | Farnese
+- Pius V — Pio V | Pope Pius V | Pope Pio V | Saint Pius V | Saint Pio V | Antonio Ghislieri | Michele Ghislieri | Ghislieri
+- Sixtus V — Xystus V | Pope Sixtus V | Pope Xystus V | Felice Peretti
+- Urban VIII — Pope Urban VIII | Maffeo Barberini | Barberini
+- Pius VI — Pio VI | Pope Pius VI | Pope Pio VI | Giovanni Angelo Braschi | Braschi
+- Pius VII — Pio VII | Pope Pius VII | Pope Pio VII | Barnaba Chiaramonti | Chiaramonti
+- Leo XII — Pope Leo XII | Annibale della Genga
+- Pius VIII — Pio VIII | Pope Pius VIII | Pope Pio VIII | Francesco Saverio Castiglioni
+- Gregory XVI — Pope Gregory XVI | Bartolomeo Cappellari | Cappellari
+- Pius IX — Pio IX | Pio Nono | Pope Pius IX | Pope Pio IX | Pope Pio Nono | Giovanni Maria Mastai-Ferretti | Mastai-Ferretti
+- Pius X — Pio X | Pope Pius X | Pope Pio X | Saint Pius X | Saint Pio X | Giuseppe Sarto | Sarto | Giuseppe Melchiorre Sarto | Saint Pius
+- Benedict XV — Pope Benedict XV | Giacomo della Chiesa | della Chiesa
+- Pius XI — Pio XI | Pope Pius XI | Pope Pio XI | Achille Ratti | Ratti
+
+### Tier 4: obscure (156)
+
+- Anacletus — Cletus | Anencletus | Anacletus I | Cletus I | Anencletus I | Pope Anacletus | Pope Cletus | Pope Anencletus | Pope Anacletus I | Pope Cletus I | Pope Anencletus I | Saint Anacletus | Saint Cletus | Saint Anencletus | Saint Anacletus I | Saint Cletus I | Saint Anencletus I
+- Sixtus I — Xystus I | Pope Sixtus I | Pope Xystus I | Saint Sixtus I | Saint Xystus I
+- Victor I — Pope Victor I | Saint Victor I | Saint Victor
+- Callixtus I — Calixtus I | Callistus I | Pope Callixtus I | Pope Calixtus I | Pope Callistus I | Saint Callixtus I | Saint Calixtus I | Saint Callistus I | Saint Callixtus | Saint Calixtus | Saint Callistus
+- Cornelius — Cornelius I | Pope Cornelius | Pope Cornelius I | Saint Cornelius | Saint Cornelius I
+- Lucius I — Pope Lucius I | Saint Lucius I | Saint Lucius
+- Sixtus II — Xystus II | Pope Sixtus II | Pope Xystus II | Saint Sixtus II | Saint Xystus II
+- Felix I — Pope Felix I | Saint Felix I
+- Marcellus I — Pope Marcellus I | Saint Marcellus I | Saint Marcellus
+- Damasus I — Pope Damasus I | Saint Damasus I | Saint Damasus
+- Anastasius I — Pope Anastasius I | Saint Anastasius I | Saint Anastasius
+- Celestine I — Pope Celestine I | Saint Celestine I
+- Sixtus III — Xystus III | Pope Sixtus III | Pope Xystus III | Saint Sixtus III | Saint Xystus III
+- Felix III — Pope Felix III | Saint Felix III
+- Gelasius I — Pope Gelasius I | Saint Gelasius I | Saint Gelasius
+- Anastasius II — Pope Anastasius II
+- Felix IV — Pope Felix IV | Saint Felix IV
+- Boniface II — Pope Boniface II
+- Agapetus I — Agapitus I | Pope Agapetus I | Pope Agapitus I | Saint Agapetus I | Saint Agapitus I | Saint Agapetus | Saint Agapitus
+- Pelagius I — Pope Pelagius I
+- John III — Pope John III
+- Pelagius II — Pope Pelagius II
+- Boniface III — Pope Boniface III
+- Boniface IV — Pope Boniface IV | Saint Boniface IV
+- Boniface V — Pope Boniface V
+- Honorius I — Pope Honorius I
+- John IV — Pope John IV
+- Theodore I — Theodorus I | Pope Theodore I | Pope Theodorus I
+- Martin I — Pope Martin I | Saint Martin I | Saint Martin
+- Eugene I — Eugenius I | Pope Eugene I | Pope Eugenius I | Saint Eugene I | Saint Eugenius I | Saint Eugene | Saint Eugenius
+- John V — Pope John V
+- Sergius I — Pope Sergius I | Saint Sergius I | Saint Sergius
+- John VI — Pope John VI
+- John VII — Pope John VII
+- Constantine — Constantine I | Pope Constantine | Pope Constantine I
+- Gregory III — Pope Gregory III | Saint Gregory III
+- Stephen II — Steven II | Pope Stephen II | Pope Steven II
+- Stephen III — Steven III | Pope Stephen III | Pope Steven III
+- Stephen IV — Steven IV | Pope Stephen IV | Pope Steven IV
+- Paschal I — Pascal I | Pope Paschal I | Pope Pascal I | Saint Paschal I | Saint Pascal I | Saint Paschal | Saint Pascal
+- Eugene II — Eugenius II | Pope Eugene II | Pope Eugenius II
+- Gregory IV — Pope Gregory IV
+- Sergius II — Pope Sergius II
+- Leo IV — Pope Leo IV | Saint Leo IV
+- Benedict III — Pope Benedict III
+- Adrian II — Hadrian II | Pope Adrian II | Pope Hadrian II
+- John VIII — Pope John VIII
+- Adrian III — Hadrian III | Pope Adrian III | Pope Hadrian III | Saint Adrian III | Saint Hadrian III | Saint Adrian | Saint Hadrian
+- Stephen V — Steven V | Pope Stephen V | Pope Steven V
+- Boniface VI — Pope Boniface VI
+- Stephen VI — Steven VI | Pope Stephen VI | Pope Steven VI
+- Theodore II — Theodorus II | Pope Theodore II | Pope Theodorus II
+- John IX — Pope John IX
+- Benedict IV — Pope Benedict IV
+- Leo V — Pope Leo V
+- Sergius III — Pope Sergius III
+- Anastasius III — Pope Anastasius III
+- John X — Pope John X
+- Leo VI — Pope Leo VI
+- Stephen VII — Steven VII | Pope Stephen VII | Pope Steven VII
+- John XI — Pope John XI
+- Leo VII — Pope Leo VII
+- Stephen VIII — Steven VIII | Pope Stephen VIII | Pope Steven VIII
+- John XII — Pope John XII
+- Leo VIII — Pope Leo VIII
+- Benedict V — Pope Benedict V
+- John XIII — Pope John XIII
+- Benedict VI — Pope Benedict VI
+- Benedict VII — Pope Benedict VII
+- John XIV — Pope John XIV
+- John XV — Pope John XV
+- Gregory V — Pope Gregory V
+- Sylvester II — Silvester II | Pope Sylvester II | Pope Silvester II | Gerbert of Aurillac | Gerbert
+- John XVII — Pope John XVII
+- John XVIII — Pope John XVIII
+- Sergius IV — Pope Sergius IV
+- Benedict VIII — Pope Benedict VIII
+- John XIX — Pope John XIX
+- Sylvester III — Silvester III | Pope Sylvester III | Pope Silvester III
+- Gregory VI — Pope Gregory VI
+- Leo IX — Pope Leo IX | Saint Leo IX
+- Victor II — Pope Victor II
+- Stephen IX — Steven IX | Pope Stephen IX | Pope Steven IX | Stephen X | Pope Stephen X
+- Nicholas II — Nicolas II | Pope Nicholas II | Pope Nicolas II
+- Alexander II — Pope Alexander II
+- Victor III — Pope Victor III
+- Paschal II — Pascal II | Pope Paschal II | Pope Pascal II
+- Callixtus II — Calixtus II | Callistus II | Pope Callixtus II | Pope Calixtus II | Pope Callistus II
+- Honorius II — Pope Honorius II
+- Celestine II — Pope Celestine II
+- Lucius II — Pope Lucius II
+- Eugene III — Eugenius III | Pope Eugene III | Pope Eugenius III
+- Anastasius IV — Pope Anastasius IV
+- Lucius III — Pope Lucius III
+- Urban III — Pope Urban III
+- Gregory VIII — Pope Gregory VIII
+- Clement III — Pope Clement III
+- Celestine III — Pope Celestine III
+- Honorius III — Pope Honorius III
+- Gregory IX — Pope Gregory IX
+- Celestine IV — Pope Celestine IV
+- Innocent IV — Pope Innocent IV
+- Alexander IV — Pope Alexander IV
+- Urban IV — Pope Urban IV
+- Clement IV — Pope Clement IV
+- Gregory X — Pope Gregory X
+- Innocent V — Pope Innocent V
+- Adrian V — Hadrian V | Pope Adrian V | Pope Hadrian V
+- John XXI — Pope John XXI
+- Nicholas III — Nicolas III | Pope Nicholas III | Pope Nicolas III
+- Martin IV — Pope Martin IV
+- Honorius IV — Pope Honorius IV
+- Nicholas IV — Nicolas IV | Pope Nicholas IV | Pope Nicolas IV
+- Benedict XI — Pope Benedict XI
+- John XXII — Pope John XXII
+- Benedict XII — Pope Benedict XII
+- Clement VI — Pope Clement VI
+- Innocent VI — Pope Innocent VI
+- Urban V — Pope Urban V
+- Gregory XI — Pope Gregory XI
+- Urban VI — Pope Urban VI
+- Boniface IX — Pope Boniface IX
+- Innocent VII — Pope Innocent VII
+- Gregory XII — Pope Gregory XII
+- Martin V — Pope Martin V | Oddone Colonna
+- Eugene IV — Eugenius IV | Pope Eugene IV | Pope Eugenius IV | Gabriele Condulmer
+- Nicholas V — Nicolas V | Pope Nicholas V | Pope Nicolas V | Tommaso Parentucelli
+- Callixtus III — Calixtus III | Callistus III | Pope Callixtus III | Pope Calixtus III | Pope Callistus III | Alfonso de Borja | Alfonso Borgia
+- Paul II — Pope Paul II | Pietro Barbo
+- Innocent VIII — Pope Innocent VIII | Giovanni Battista Cybo
+- Pius III — Pio III | Pope Pius III | Pope Pio III | Francesco Todeschini Piccolomini
+- Julius III — Pope Julius III | Giovanni Maria del Monte | Giovanni Maria Ciocchi del Monte
+- Marcellus II — Pope Marcellus II | Marcello Cervini
+- Paul IV — Pope Paul IV | Gian Pietro Carafa
+- Pius IV — Pio IV | Pope Pius IV | Pope Pio IV | Giovanni Angelo Medici
+- Urban VII — Pope Urban VII
+- Gregory XIV — Pope Gregory XIV
+- Innocent IX — Pope Innocent IX
+- Clement VIII — Pope Clement VIII | Ippolito Aldobrandini
+- Leo XI — Pope Leo XI
+- Paul V — Pope Paul V | Camillo Borghese | Borghese
+- Gregory XV — Pope Gregory XV | Alessandro Ludovisi
+- Innocent X — Pope Innocent X | Giovanni Battista Pamphili | Giovanni Battista Pamphilj
+- Alexander VII — Pope Alexander VII | Fabio Chigi | Chigi
+- Clement IX — Pope Clement IX | Giulio Rospigliosi
+- Clement X — Pope Clement X | Emilio Altieri
+- Innocent XI — Pope Innocent XI | Benedetto Odescalchi
+- Alexander VIII — Pope Alexander VIII | Pietro Ottoboni
+- Innocent XII — Pope Innocent XII | Antonio Pignatelli
+- Clement XI — Pope Clement XI | Giovanni Francesco Albani
+- Innocent XIII — Pope Innocent XIII
+- Benedict XIII — Pope Benedict XIII | Pietro Francesco Orsini
+- Clement XII — Pope Clement XII | Lorenzo Corsini
+- Benedict XIV — Pope Benedict XIV | Prospero Lambertini | Lambertini
+- Clement XIII — Pope Clement XIII | Carlo Rezzonico
+- Clement XIV — Pope Clement XIV | Lorenzo Ganganelli | Ganganelli
+
+### Tier 5: expert (43)
+
+- Evaristus — Evaristus I | Pope Evaristus | Pope Evaristus I | Saint Evaristus | Saint Evaristus I
+- Telesphorus — Telesphorus I | Pope Telesphorus | Pope Telesphorus I | Saint Telesphorus | Saint Telesphorus I
+- Hyginus — Hyginus I | Pope Hyginus | Pope Hyginus I | Saint Hyginus | Saint Hyginus I
+- Anicetus — Anicetus I | Pope Anicetus | Pope Anicetus I | Saint Anicetus | Saint Anicetus I
+- Soter — Soter I | Pope Soter | Pope Soter I | Saint Soter | Saint Soter I
+- Eleutherius — Eleutherus | Eleutherius I | Eleutherus I | Pope Eleutherius | Pope Eleutherus | Pope Eleutherius I | Pope Eleutherus I | Saint Eleutherius | Saint Eleutherus | Saint Eleutherius I | Saint Eleutherus I
+- Zephyrinus — Zephyrinus I | Pope Zephyrinus | Pope Zephyrinus I | Saint Zephyrinus | Saint Zephyrinus I
+- Pontian — Pontianus | Pontian I | Pontianus I | Pope Pontian | Pope Pontianus | Pope Pontian I | Pope Pontianus I | Saint Pontian | Saint Pontianus | Saint Pontian I | Saint Pontianus I
+- Anterus — Anteros | Anterus I | Anteros I | Pope Anterus | Pope Anteros | Pope Anterus I | Pope Anteros I | Saint Anterus | Saint Anteros | Saint Anterus I | Saint Anteros I
+- Fabian — Fabian I | Pope Fabian | Pope Fabian I | Saint Fabian | Saint Fabian I | Fabianus
+- Dionysius — Dionysius I | Pope Dionysius | Pope Dionysius I | Saint Dionysius | Saint Dionysius I
+- Eutychian — Eutychianus | Eutychian I | Eutychianus I | Pope Eutychian | Pope Eutychianus | Pope Eutychian I | Pope Eutychianus I | Saint Eutychian | Saint Eutychianus | Saint Eutychian I | Saint Eutychianus I
+- Caius — Gaius | Caius I | Gaius I | Pope Caius | Pope Gaius | Pope Caius I | Pope Gaius I | Saint Caius | Saint Gaius | Saint Caius I | Saint Gaius I
+- Marcellinus — Marcellinus I | Pope Marcellinus | Pope Marcellinus I | Saint Marcellinus | Saint Marcellinus I
+- Eusebius — Eusebius I | Pope Eusebius | Pope Eusebius I | Saint Eusebius | Saint Eusebius I
+- Miltiades — Melchiades | Miltiades I | Melchiades I | Pope Miltiades | Pope Melchiades | Pope Miltiades I | Pope Melchiades I | Saint Miltiades | Saint Melchiades | Saint Miltiades I | Saint Melchiades I
+- Mark — Marcus | Mark I | Marcus I | Pope Mark | Pope Marcus | Pope Mark I | Pope Marcus I | Saint Mark | Saint Marcus | Saint Mark I | Saint Marcus I
+- Liberius — Liberius I | Pope Liberius | Pope Liberius I | Saint Liberius | Saint Liberius I
+- Siricius — Siricius I | Pope Siricius | Pope Siricius I | Saint Siricius | Saint Siricius I
+- Zosimus — Zosimus I | Pope Zosimus | Pope Zosimus I | Saint Zosimus | Saint Zosimus I
+- Hilarius — Hilary | Hilarus | Hilarius I | Hilary I | Hilarus I | Pope Hilarius | Pope Hilary | Pope Hilarus | Pope Hilarius I | Pope Hilary I | Pope Hilarus I | Saint Hilarius | Saint Hilary | Saint Hilarus | Saint Hilarius I | Saint Hilary I | Saint Hilarus I
+- Simplicius — Simplicius I | Pope Simplicius | Pope Simplicius I | Saint Simplicius | Saint Simplicius I
+- Symmachus — Symmachus I | Pope Symmachus | Pope Symmachus I | Saint Symmachus | Saint Symmachus I
+- Silverius — Silverius I | Pope Silverius | Pope Silverius I | Saint Silverius | Saint Silverius I
+- Vigilius — Vigilius I | Pope Vigilius | Pope Vigilius I
+- Sabinian — Sabinianus | Sabinian I | Sabinianus I | Pope Sabinian | Pope Sabinianus | Pope Sabinian I | Pope Sabinianus I
+- Adeodatus I — Pope Adeodatus I | Saint Adeodatus I | Deusdedit | Pope Deusdedit | Saint Deusdedit | Saint Adeodatus
+- Severinus — Severinus I | Pope Severinus | Pope Severinus I
+- Vitalian — Vitalianus | Vitalian I | Vitalianus I | Pope Vitalian | Pope Vitalianus | Pope Vitalian I | Pope Vitalianus I | Saint Vitalian | Saint Vitalianus | Saint Vitalian I | Saint Vitalianus I
+- Adeodatus II — Pope Adeodatus II
+- Donus — Domnus | Donus I | Domnus I | Pope Donus | Pope Domnus | Pope Donus I | Pope Domnus I
+- Agatho — Agathon | Agatho I | Agathon I | Pope Agatho | Pope Agathon | Pope Agatho I | Pope Agathon I | Saint Agatho | Saint Agathon | Saint Agatho I | Saint Agathon I
+- Conon — Conon I | Pope Conon | Pope Conon I
+- Sisinnius — Sisinnius I | Pope Sisinnius | Pope Sisinnius I
+- Zachary — Zacharias | Zachariah | Zachary I | Zacharias I | Zachariah I | Pope Zachary | Pope Zacharias | Pope Zachariah | Pope Zachary I | Pope Zacharias I | Pope Zachariah I | Saint Zachary | Saint Zacharias | Saint Zachariah | Saint Zachary I | Saint Zacharias I | Saint Zachariah I
+- Valentine — Valentine I | Pope Valentine | Pope Valentine I
+- Marinus I — Pope Marinus I | Martin II | Pope Martin II
+- Romanus — Romanus I | Pope Romanus | Pope Romanus I
+- Marinus II — Pope Marinus II | Martin III | Pope Martin III
+- Agapetus II — Agapitus II | Pope Agapetus II | Pope Agapitus II
+- Benedict IX — Pope Benedict IX
+- Damasus II — Pope Damasus II
+- Gelasius II — Pope Gelasius II
+
+### Tier 6: rare jackpots (3)
+
+- Hormisdas — Hormisdas I | Pope Hormisdas | Pope Hormisdas I | Saint Hormisdas | Saint Hormisdas I
+- Formosus — Formosus I | Pope Formosus | Pope Formosus I
+- Lando — Landus | Lando I | Landus I | Pope Lando | Pope Landus | Pope Lando I | Pope Landus I
+
+## Refused on purpose (49)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Saint Sixtus | Saint Xystus — "Three sainted popes took that name. Add the number."
+- Victor | Pope Victor — "Three popes took that name. Add the number."
+- Callixtus | Pope Callixtus | Pope Calixtus | Pope Callistus | Calixtus | Callistus — "Three popes took that name. Add the number."
+- Lucius | Pope Lucius — "Three popes took that name. Add the number."
+- Felix | Pope Felix | Saint Felix — "Three popes took that name. Add the number."
+- Marcellus | Pope Marcellus — "Two popes took that name. Add the number."
+- Damasus | Pope Damasus — "Two popes took that name. Add the number."
+- Anastasius | Pope Anastasius — "Four popes took that name. Add the number."
+- Gelasius | Pope Gelasius — "Two popes took that name. Add the number."
+- Agapetus | Pope Agapetus | Pope Agapitus | Agapitus — "Two popes took that name. Add the number."
+- Pelagius | Pope Pelagius — "Two popes took that name. Add the number."
+- Adeodatus | Pope Adeodatus — "Two popes took that name. Add the number."
+- Honorius | Pope Honorius — "Four popes took that name. Add the number."
+- Theodore | Pope Theodore | Pope Theodorus | Theodorus — "Two popes took that name. Add the number."
+- Martin | Pope Martin — "Three popes took that name, though the numbers run to five. Add the number."
+- Eugene | Pope Eugene | Pope Eugenius | Eugenius — "Four popes took that name. Add the number."
+- Sergius | Pope Sergius — "Four popes took that name. Add the number."
+- Paschal | Pope Paschal | Pope Pascal | Pascal — "Two popes took that name. Add the number."
+- Marinus | Pope Marinus — "Two popes took that name, and some lists call them Martin. Add the number."
+- Leo XV | Pope Leo XV | Clement XV | Pope Clement XV | Alexander IX | Pope Alexander IX | Sixtus VI | Pope Sixtus VI | Victor V | Pope Victor V | Callixtus IV | Pope Callixtus IV | Urban IX | Pope Urban IX | Lucius IV | Pope Lucius IV | Felix VI | Pope Felix VI | Marcellus III | Pope Marcellus III | Sylvester V | Pope Sylvester V | Julius IV | Pope Julius IV | Damasus III | Pope Damasus III | Anastasius V | Pope Anastasius V | Innocent XIV | Pope Innocent XIV | Boniface X | Pope Boniface X | Celestine VI | Pope Celestine VI | Gelasius III | Pope Gelasius III | John XXIV | Pope John XXIV | Agapetus III | Pope Agapetus III | Pelagius III | Pope Pelagius III | Benedict XVII | Pope Benedict XVII | Gregory XVII | Pope Gregory XVII | Adeodatus III | Pope Adeodatus III | Honorius V | Pope Honorius V | Theodore III | Pope Theodore III | Martin VI | Pope Martin VI | Eugene V | Pope Eugene V | Sergius V | Pope Sergius V | Paul VII | Pope Paul VII | Paschal IV | Pope Paschal IV | Nicholas VI | Pope Nicholas VI | Marinus III | Pope Marinus III | Francis II | Pope Francis II — "No pope has taken that number. Yet."
+- Pius XIII | Pope Pius XIII | Lenny Belardo — "A pope of television, from The Young Pope. No real pope has taken that number yet."
+- John Paul III | Pope John Paul III — "A pope of television, from The New Pope. No real pope has taken that number yet."
+- Adrian VII | Hadrian VII | Pope Adrian VII | Pope Hadrian VII — "A pope of fiction, from Frederick Rolfe's 1904 novel. No real pope has taken that number."
+- Hippolytus | Antipope Hippolytus | Saint Hippolytus | Hippolytus of Rome — "The first antipope, a rival claimant. He died a martyr, and is now a saint."
+- Felix V | Antipope Felix V | Pope Felix V | Amadeus VIII — "The last antipope of the Middle Ages: a duke of Savoy, who gave up his claim in 1449."
+- Felix II | Antipope Felix II | Pope Felix II — "An antipope, a rival claimant. Later popes of that name kept his number all the same."
+- Boniface VII | Antipope Boniface VII | Pope Boniface VII — "An antipope, a rival claimant. Later popes of that name kept his number all the same."
+- John XVI | Antipope John XVI | Pope John XVI — "An antipope, a rival claimant. Later popes of that name kept his number all the same."
+- Benedict X | Antipope Benedict X | Pope Benedict X — "An antipope, a rival claimant. Later popes of that name kept his number all the same."
+- Alexander V | Antipope Alexander V | Pope Alexander V — "An antipope, a rival claimant. Later popes of that name kept his number all the same."
+- Novatian | Antipope Novatian | Pope Novatian | Ursicinus | Antipope Ursicinus | Pope Ursicinus | Eulalius | Antipope Eulalius | Pope Eulalius | Laurentius | Antipope Laurentius | Pope Laurentius | Dioscorus | Antipope Dioscorus | Pope Dioscorus | Philip | Antipope Philip | Pope Philip | Constantine II | Antipope Constantine II | Pope Constantine II | Christopher | Antipope Christopher | Pope Christopher | Theodoric | Antipope Theodoric | Pope Theodoric | Albert | Antipope Albert | Pope Albert | Sylvester IV | Antipope Sylvester IV | Pope Sylvester IV | Anacletus II | Antipope Anacletus II | Pope Anacletus II | Victor IV | Antipope Victor IV | Pope Victor IV | Paschal III | Antipope Paschal III | Pope Paschal III — "An antipope: a rival claimant, not counted among the popes."
+- John XX | Pope John XX — "There never was a John XX. A medieval muddle over the numbers skipped him."
+- Pope Joan | Joan | Popess Joan — "A medieval legend of a woman who reigned in disguise. Historians have found no trace of her."
+- Peter II | Pope Peter II | Petrus Romanus | Peter the Roman — "No pope has dared take the first pope's name. A dubious old prophecy says the last will be Peter the Roman."
+- Saint Valentine | Valentine of Rome | Valentine of Terni — "The saint of 14 February was a martyred priest, never pope. A ninth-century pope did share his name."
+- Saint Nicholas | Nicholas of Myra | Santa Claus | Father Christmas — "The bishop of Myra, the first Santa Claus, never became pope. Five popes have shared his name."
+- Saint Paul | Paul the Apostle | Apostle Paul | Saint Paul the Apostle | Paul of Tarsus — "The apostle Paul was never pope, though six popes took his name."
+- Saint Francis | Francis of Assisi | Saint Francis of Assisi — "Francis of Assisi never became pope, though a pope of our own century took his name."
+- Constantine the Great | Emperor Constantine — "The emperor who embraced Christianity, not a pope. A pope of the 700s shared his name."
+- Cesare Borgia | Lucrezia Borgia — "A pope's child, never pope."
+- Cardinal Richelieu | Richelieu | Cardinal Wolsey | Wolsey | Thomas Wolsey | Cardinal Mazarin | Mazarin | John Henry Newman | Cardinal Newman | Newman | Reginald Pole | Cardinal Pole | Cardinal Manning — "A cardinal, but never pope."
+- Martin Luther | Luther — "The great rebel against Rome, never its bishop."
+- Pope Shenouda III | Shenouda III | Shenouda | Pope Shenouda | Tawadros II | Pope Tawadros II | Tawadros | Pope Tawadros — "A pope of the Coptic Church of Alexandria. The deep wants a bishop of Rome."
+- Jesus | Jesus Christ | Christ — "The founder of the faith, not one of its bishops."
+- Alexander Pope — "A poet, not a pontiff."
+- Saint Benedict | Benedict of Nursia | Saint Benedict of Nursia — "Benedict of Nursia, father of Western monks, was never pope. Fifteen popes have shared his name."
+- Padre Pio | Saint Pio | Pio of Pietrelcina | Saint Pio of Pietrelcina — "A friar of the last century, and a saint, but never pope."
+- Saint Pelagius | Saint Honorius | Saint Theodore | Saint Theodorus | Saint Marinus — "No pope of that name was made a saint."
+- Refused without a reason (near misses of real answers): Tiberius

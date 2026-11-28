@@ -48,19 +48,19 @@ Ten categories, which are also the topics for the Logbook's Sigils:
 
 | Key         | Shown as     | Title in the game           | Prompts |
 | ----------- | ------------ | --------------------------- | ------- |
-| `geography` | Geography    | Charts of the Drowned World | 8       |
-| `science`   | Science      | The Alchemist's Ledger      | 7       |
-| `nature`    | Nature       | The Bestiary                | 8       |
-| `culture`   | Culture      | The Library Below           | 8       |
-| `history`   | History      | The Sunken Archive          | 7       |
-| `myth`      | Myth         | Old Gods and Older Things   | 6       |
-| `food`      | Food & Drink | The Sea-Cook's Pantry       | 8       |
-| `language`  | Language     | The Lexicon of Whispers     | 8       |
-| `sport`     | Sport        | The Drowned Games           | 6       |
-| `misc`      | Miscellany   | Flotsam and Jetsam          | 7       |
+| `geography` | Geography    | Charts of the Drowned World | 21      |
+| `science`   | Science      | The Alchemist's Ledger      | 21      |
+| `nature`    | Nature       | The Bestiary                | 21      |
+| `culture`   | Culture      | The Library Below           | 21      |
+| `history`   | History      | The Sunken Archive          | 21      |
+| `myth`      | Myth         | Old Gods and Older Things   | 21      |
+| `food`      | Food & Drink | The Sea-Cook's Pantry       | 21      |
+| `language`  | Language     | The Lexicon of Whispers     | 21      |
+| `sport`     | Sport        | The Drowned Games           | 21      |
+| `misc`      | Miscellany   | Flotsam and Jetsam          | 21      |
 
-That is 73 prompts with about 8,700 accepted answers, not counting the
-thousands of extra spellings. Run `node scripts/validate-content.mjs --stats`
+That is 210 prompts with about 62,900 accepted answers, not counting the
+tens of thousands of extra spellings. Run `node scripts/validate-content.mjs --stats`
 for the exact numbers.
 
 The questions themselves are ordinary general knowledge. Only the
@@ -73,12 +73,16 @@ presentation is horror: the flavour lines, the trap messages and the lore.
 | `data/<category>.json`              | The prompts, one file per category, shaped `{ "prompts": [ ... ] }` |
 | `data/theme.json`                   | The words around the questions: tier names, refusals, zones, landmarks, share text |
 | `data/riddles.json`                 | The riddles for The Whispering Deep (see "Riddles" below)          |
+| `data/days.json`                    | Daily dives fixed to their dates, so growing the bank doesn't move them (see "Growing the bank") |
 | `scripts/lib/matcher.mjs`           | The reference matcher. The game's matcher must behave the same    |
 | `scripts/validate-content.mjs`      | Checks every file and explains anything wrong                     |
 | `scripts/try-answer.mjs`            | Type answers at a prompt and see what the game would do           |
 | `scripts/diff-answers.mjs`          | Shows what your edits change for players, typos included          |
+| `scripts/freeze-days.mjs`           | Fixes the daily dives up to a date before new prompts go live      |
 | `scripts/matcher-cases.json`        | Test cases both matchers must pass, run by `scripts/check-matcher.mjs` |
 | `scripts/lexicons/*.json`           | Lists of real countries and cities, used to catch near-misses      |
+| `scripts/export-answer-lists.mjs`   | Writes `suggestions/questions/` and `suggestions/upcoming.md` from the data; run it after any data change |
+| `suggestions/`                      | Where outside helpers read every accepted answer and propose missing ones (see its README) |
 
 The game reads every JSON file in `data/` when it is built, so a new category
 file is picked up without any code change.
@@ -107,7 +111,7 @@ file is picked up without any code change.
 
 | Field      | Required | What it does |
 | ---------- | -------- | ------------ |
-| `id`       | yes | A unique name in lower case with dashes, like `dog-breeds`. Never change it once players have seen it: their history refers to it. |
+| `id`       | yes | A unique name in lower case with dashes, like `dog-breeds`, 60 characters at most: the game publishes each question as a file named after it. Never change it once players have seen it: their history refers to it. |
 | `text`     | yes | The question. Starts with "Name" or "Give" and ends with a full stop or question mark. |
 | `category` | yes | One of the ten keys above. Must match the file it's in. |
 | `flavor`   | no  | One eerie line shown with the question. 110 characters at most. |
@@ -499,5 +503,27 @@ Some answers change with the calendar. Check these each year:
 | `us-presidents`, `english-monarchs` | When there's a new one | Add them. |
 | `moons`, `dinosaurs`, `dog-breeds`, `cat-breeds` | Once a year | New discoveries and newly recognised breeds. |
 
-Seven prompts a day gets through 73 prompts in about ten days, so the bank
-needs to keep growing for a long-running game.
+Seven prompts a day gets through 210 prompts in 30 days, so the bank needs to
+keep growing for a long-running game.
+
+### Growing the bank
+
+The daily plan is worked out from the prompts' ids and categories alone, so
+adding or removing prompts re-plans every day that isn't fixed, today and past
+days included. Before new prompts go live, fix the days that players have had
+or may be having:
+
+```sh
+node scripts/freeze-days.mjs 2026-12-06
+```
+
+This plans each day up to that date from the bank as it is on `origin/main`
+(pass `--ref` for another git ref) and writes the days to `data/days.json`,
+keeping any fixed days already there. Freeze at least to the day after the new
+prompts will go live, because some players are a day ahead of others. The rest
+of each cycle is planned from the prompts not fixed in it, so nothing repeats.
+The validator checks that every fixed day names real prompts.
+
+When the bank grew from 73 to 210 prompts, 27 November to 6 December 2026 were
+frozen: the old bank's first ten days. The new prompts start appearing on 7
+December, and no prompt repeats until 27 December.

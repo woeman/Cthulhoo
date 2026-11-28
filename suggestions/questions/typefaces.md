@@ -1,0 +1,512 @@
+# Name a typeface or font.
+
+Question id: `typefaces` · category: misc · source: `data/misc.json`
+
+Rules: Any named typeface or font family, from hand-set metal type to the fonts on screens and phones. Styles such as serif or italic don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (471 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Times New Roman — Times | Times Roman | TNR | New Times Roman | Times New Roman Bold | Times New Roman Italic | Times New Roman Light | Times New Roman Regular
+- Arial — Ariel | Arial Black | Arial Unicode | Arial Nova | Arial Bold | Arial Italic | Arial Light | Arial Regular
+- Comic Sans — Comic Sans MS | Comic Sans Bold | Comic Sans Italic | Comic Sans Light | Comic Sans Regular
+- Helvetica — Helvetica Neue | Neue Haas Grotesk | Neue Helvetica | Helvetica Now | Helvetica Narrow | Helvetica Bold | Helvetica Italic | Helvetica Light | Helvetica Regular
+- Calibri — Calibri Bold | Calibri Italic | Calibri Regular
+- Verdana — Verdana Bold | Verdana Italic | Verdana Light | Verdana Regular
+- Courier — Courier font | Courier Bold | Courier Italic | Courier Light | Courier Regular
+- Georgia — Georgia Bold | Georgia Italic | Georgia Light | Georgia Regular
+- Garamond — Adobe Garamond | EB Garamond | Stempel Garamond | Apple Garamond | Garamond Premier | ITC Garamond | Monotype Garamond | Garamond Bold | Garamond Italic | Garamond Light | Garamond Regular
+- Wingdings — Wingdings 2 | Wingdings 3 | Wingdings Bold | Wingdings Italic | Wingdings Light | Wingdings Regular
+
+### Tier 2: common (20)
+
+- Courier New — Courier New Bold | Courier New Italic | Courier New Light | Courier New Regular
+- Papyrus — Papyrus Bold | Papyrus Italic | Papyrus Light | Papyrus Regular
+- Impact — Impact Bold | Impact Italic | Impact Light | Impact Regular
+- Futura — Futura PT | Futura Bold | Futura Italic | Futura Light | Futura Regular
+- Gill Sans — Gill Sans MT | Gills Sans | Gill Sans Nova | Gill Sans Ultra Bold | Gill Kayo | Gill Sans Bold | Gill Sans Italic | Gill Sans Light | Gill Sans Regular
+- Baskerville — Libre Baskerville | Baskerville Old Face | Baskerville Bold | Baskerville Italic | Baskerville Light | Baskerville Regular
+- Tahoma — Tahoma Bold | Tahoma Italic | Tahoma Light | Tahoma Regular
+- Trebuchet MS — Trebuchet | Trebuchet MS Bold | Trebuchet MS Italic | Trebuchet MS Light | Trebuchet MS Regular
+- Cambria — Cambria Math | Cambria Bold | Cambria Italic | Cambria Light | Cambria Regular
+- Century Gothic — Century Gothic Bold | Century Gothic Italic | Century Gothic Light | Century Gothic Regular
+- Lucida — Lucida Sans | Lucida Bright | Lucida Sans Unicode | Lucida Fax | Lucida Bold | Lucida Italic | Lucida Light | Lucida Regular
+- Palatino — Palatino Linotype | Palatino Bold | Palatino Italic | Palatino Light | Palatino Regular
+- Bodoni — Bodoni MT | Bodoni 72 | Bauer Bodoni | Bodoni Poster | ITC Bodoni | Bodoni Bold | Bodoni Italic | Bodoni Light | Bodoni Regular
+- Rockwell — Rockwell Extra Bold | Rockwell Bold | Rockwell Italic | Rockwell Light | Rockwell Regular
+- Franklin Gothic — ITC Franklin Gothic | Franklin Gothic Bold | Franklin Gothic Italic | Franklin Gothic Light | Franklin Gothic Regular
+- Segoe UI — Segoe | Segoe UI Emoji | Segoe UI Variable | Segoe UI Symbol | Segoe UI Bold | Segoe UI Italic | Segoe UI Light | Segoe UI Regular
+- Roboto — Roboto Mono | Roboto Slab | Roboto Condensed | Roboto Flex | Roboto Serif | Roboto Bold | Roboto Italic | Roboto Light | Roboto Regular
+- Open Sans — Open Sans Bold | Open Sans Italic | Open Sans Light | Open Sans Regular
+- Brush Script — Brush Script MT | Brush Script Bold | Brush Script Italic | Brush Script Light | Brush Script Regular
+- Old English Text — Old English | Old English Text MT | Old English Text Bold | Old English Text Italic | Old English Text Light | Old English Text Regular
+
+### Tier 3: known to fans (41)
+
+- Johnston — Johnston Sans | New Johnston | Johnston Underground | London Underground font | Johnston100
+- Transport — Transport typeface | New Transport | GDS Transport
+- Frutiger — Frutiger Next | Neue Frutiger
+- Univers — Linotype Univers | Univers Next
+- Didot — Firmin Didot
+- Caslon — Adobe Caslon | Caslon Old Face | Big Caslon | Caslon 540
+- Optima
+- Gotham — Gotham Rounded
+- Avenir — Avenir Next
+- Proxima Nova
+- Lato
+- Montserrat
+- Poppins
+- Inter
+- Source Sans — Source Sans Pro | Source Sans 3 | Source Serif
+- Noto — Noto Sans | Noto Serif | Noto IKEA | Noto Color Emoji
+- Ubuntu — Ubuntu Mono
+- San Francisco — SF Pro | SF Mono | SF Compact
+- Aptos — Bierstadt
+- Consolas
+- Lucida Console
+- Book Antiqua — Antiqua
+- Bookman — Bookman Old Style | ITC Bookman
+- Century Schoolbook — Schoolbook | New Century Schoolbook
+- Copperplate Gothic — Copperplate
+- Cooper Black — Cooper | Cooper Old Style
+- Algerian
+- Trajan
+- Goudy Old Style — Goudy
+- Avant Garde — ITC Avant Garde | Avant Garde Gothic
+- DIN — DIN 1451 | FF DIN | DIN Next | DIN Pro
+- Bauhaus — Bauhaus 93 | ITC Bauhaus
+- Stencil
+- Fraktur — Fette Fraktur
+- Webdings
+- Zapf Dingbats — Dingbats
+- Myriad — Myriad Pro
+- Bebas Neue
+- Raleway
+- Arial Narrow
+- ITC Benguiat — Benguiat
+
+### Tier 4: obscure (92)
+
+- Akzidenz-Grotesk — Berthold Akzidenz
+- News Gothic
+- Trade Gothic
+- Eurostile
+- Bank Gothic
+- FF Meta — Meta
+- Kabel
+- Rail Alphabet — British Rail Alphabet
+- Highway Gothic — FHWA Series | Highway
+- Albertus
+- Friz Quadrata
+- Castellar
+- Bembo
+- Jenson — Adobe Jenson
+- Centaur
+- Plantin
+- Janson
+- Sabon
+- Minion — Minion Pro
+- Perpetua — Perpetua Titling | Perpetua Titling MT
+- Cheltenham
+- Century
+- Clarendon
+- Souvenir
+- Windsor
+- Charter
+- Hoefler Text
+- Mrs Eaves
+- Candara
+- Constantia
+- Corbel
+- Microsoft Sans Serif — MS Sans Serif
+- Geneva
+- Chicago
+- Monaco
+- Lucida Grande
+- Menlo
+- Andale Mono — Andale
+- Fixedsys
+- Symbol
+- Comic Neue
+- Chalkboard
+- Marker Felt
+- Jokerman
+- Curlz — Curlz MT
+- Chiller
+- Kristen ITC
+- Bradley Hand
+- Lucida Handwriting
+- Segoe Script
+- Mistral
+- Vivaldi
+- Edwardian Script
+- Monotype Corsiva — Corsiva
+- Zapf Chancery — ITC Zapf Chancery
+- Zapfino
+- Lobster
+- Pacifico
+- Oswald
+- Playfair Display
+- Merriweather
+- Nunito
+- PT Sans
+- PT Serif
+- Rubik
+- Quicksand
+- IBM Plex — IBM Plex Sans | IBM Plex Mono | Plex
+- Fira Sans — Fira | Fira Code | Fira Mono
+- JetBrains Mono
+- Source Code Pro
+- Inconsolata
+- DejaVu Sans — DejaVu | DejaVu Sans Mono
+- Liberation Sans — Liberation | Liberation Serif | Liberation Mono
+- Droid Sans — Droid | Droid Serif
+- OpenDyslexic
+- Product Sans — Google Sans
+- Circular — Spotify Circular | Circular Std
+- Haettenschweiler
+- Agency FB
+- OCR-A — OCR A Extended
+- OCR-B
+- Showcard Gothic
+- Broadway
+- Playbill
+- American Typewriter
+- Arial Rounded — Arial Rounded MT
+- Segoe Print
+- Calibri Light
+- Mangal
+- Kruti Dev
+- Interstate
+- Sassoon — Sassoon Primary | Sassoon Infant
+
+### Tier 5: expert (306)
+
+- Microgramma
+- Syntax
+- Erbar
+- Twentieth Century — Tw Cen MT | Tw Cen
+- Neuzeit
+- Peignot
+- Clearview — Clearview Hwy
+- FE-Schrift
+- Charles Wright — Charles Wright 2001
+- Tiresias
+- Calvert
+- Brandon Grotesque
+- Graphik
+- Nimbus Sans
+- Bitstream Vera — Vera Sans
+- Tenorite
+- Seaford
+- Skeena
+- Grandview
+- Bahnschrift
+- Sitka
+- Gadugi
+- Ebrima
+- Nirmala UI
+- Leelawadee
+- Yu Gothic
+- Meiryo
+- MS Gothic
+- MS Mincho
+- SimSun
+- Microsoft YaHei
+- PingFang
+- Hiragino
+- Apple Chancery
+- Skia
+- Herculanum
+- Noteworthy
+- Chalkduster
+- Snell Roundhand
+- New York
+- Charcoal
+- Terminal
+- Iosevka
+- Terminus
+- VT323
+- Press Start 2P
+- Hack
+- Cascadia Code
+- Courier Prime
+- Cantarell
+- Atkinson Hyperlegible — Atkinson
+- Lexend
+- Work Sans
+- Josefin Sans
+- Lora
+- Arvo
+- Crimson — Crimson Text | Crimson Pro
+- Cabin
+- Karla
+- Barlow
+- Mulish
+- Manrope
+- DM Sans
+- Dancing Script
+- Great Vibes
+- Joanna
+- Memphis
+- Lubalin Graph
+- Serifa
+- Egyptienne
+- Bell — Bell MT
+- Bulmer
+- Fournier
+- Fell Types — Fell
+- Golden Type
+- Ehrhardt
+- Imprint — Imprint MT Shadow
+- Iowan Old Style
+- Filosofia
+- Tiempos
+- Guardian Egyptian
+- Miller
+- Granjon
+- Galliard
+- Electra
+- Caledonia
+- Melior
+- Aldus
+- Utopia — Adobe Utopia
+- Stone — ITC Stone
+- Schwabacher
+- Textura — Textualis
+- Rotunda
+- Cloister Black
+- Goudy Text
+- Neuland
+- Pricedown
+- Hobo
+- Ink Free
+- Gabriola
+- Lucida Calligraphy
+- Freestyle Script
+- Kunstler Script
+- French Script
+- Palace Script
+- Vladimir Script
+- Viner Hand
+- Blackadder ITC
+- Gigi
+- Harlow Solid — Harlow
+- Forte
+- Pristina
+- Rage Italic
+- Parchment
+- Engravers MT — Engravers
+- Felix Titling
+- Colonna — Colonna MT
+- Goudy Stout
+- Elephant
+- Britannic — Britannic Bold
+- Footlight — Footlight MT
+- Gloucester — Gloucester MT
+- Niagara
+- Onyx
+- Poor Richard
+- Wide Latin
+- Berlin Sans
+- Ravie
+- Snap ITC
+- Magneto
+- Matura
+- Westminster
+- Data 70
+- Marlett
+- Caxton — ITC Caxton
+- Monaspace — Monaspace Neon | Monaspace Argon | Monaspace Krypton | Monaspace Xenon | Monaspace Radon
+- Kanit
+- Mukta
+- Titillium Web — Titillium
+- Heebo
+- Libre Franklin
+- Jost
+- Outfit
+- Archivo
+- Space Grotesk
+- Space Mono
+- Bitter
+- Abril Fatface
+- Anton
+- Permanent Marker
+- Caveat
+- Shadows Into Light
+- Indie Flower
+- Amatic SC — Amatic
+- Hind
+- Rajdhani
+- Baloo — Baloo 2
+- Exo — Exo 2
+- Orbitron
+- Comfortaa
+- Varela Round — Varela
+- Fredoka — Fredoka One
+- Bangers
+- Alegreya
+- Cormorant — Cormorant Garamond
+- Spectral
+- Vollkorn
+- Cardo
+- Old Standard TT — Old Standard
+- Zilla Slab
+- Patrick Hand
+- Gloria Hallelujah
+- Architects Daughter
+- Figtree
+- Plus Jakarta Sans
+- Red Hat Display — Red Hat Text | Red Hat Mono | Red Hat Sans
+- Bricolage Grotesque
+- Instrument Serif — Instrument Sans
+- Mona Sans — Hubot Sans
+- Cairo
+- Amiri
+- Scheherazade — Scheherazade New
+- Traditional Arabic
+- Arabic Typesetting
+- Simplified Arabic
+- Jameel Noori Nastaleeq — Noori Nastaleeq
+- Lohit
+- Kokila
+- Latha
+- Vrinda
+- SolaimanLipi
+- SutonnyMJ — Sutonny
+- SimHei
+- KaiTi
+- FangSong
+- MingLiU — PMingLiU
+- Microsoft JhengHei — JhengHei
+- Source Han Sans — Noto Sans CJK | Source Han Serif | Noto Serif CJK
+- Osaka
+- Malgun Gothic
+- Batang
+- Gulim
+- Dotum
+- Nanum Gothic — Nanum | Nanum Myeongjo
+- Pretendard
+- Angsana New — Angsana
+- Cordia New — Cordia
+- TH Sarabun — TH Sarabun New | Sarabun
+- David
+- Frank Rühl — Frank Ruehl | Frank Ruhl Libre
+- Miriam
+- ProFont
+- Victor Mono
+- Operator Mono
+- Anonymous Pro
+- Berkeley Mono
+- Comic Mono
+- Geist — Geist Mono | Geist Sans
+- Intel One Mono
+- Spotify Mix
+- Netflix Sans
+- Amazon Ember
+- Uber Move
+- Airbnb Cereal — Cereal
+- BBC Reith — Reith | Reith Sans | Reith Serif
+- Söhne — Soehne
+- Publico
+- Freight — Freight Text | Freight Sans | Freight Display
+- Druk
+- Knockout
+- Sentinel
+- Whitney
+- Archer
+- Verlag
+- Chronicle
+- Mercury
+- Gilroy
+- TT Commons
+- Aeonik
+- Akkurat
+- Apercu
+- Brown
+- Untitled Sans
+- Founders Grotesk
+- Maison Neue
+- Euclid — Euclid Circular
+- Cera Pro — Cera
+- Sofia Pro
+- Museo Sans — Museo
+- Nexa
+- GT Walsheim — Walsheim
+- GT America
+- Canela
+- Recoleta
+- Satoshi
+- General Sans
+- Clash Display — Clash Grotesk
+- Walbaum
+- Troy Type — Troy
+- Chaucer Type — Chaucer
+- Scotch Roman — Scotch
+- Modern No. 20
+- Excelsior
+- Ionic — Ionic No. 5
+- Kennerley
+- Californian — Californian FB | University of California Old Style
+- Trump Mediaeval — Trump Medieval
+- Weiss
+- Lydian
+- Blado
+- Arrighi
+- Dante
+- Korinna — ITC Korinna
+- Tiffany — ITC Tiffany
+- Countdown
+- Motter Tektura — Tektura
+- Arnold Böcklin
+- Davida
+- Blippo
+- Frankfurter
+- Revue
+- Dom Casual — Dom
+- Balloon
+- Kaufmann
+- Choc
+- Banco
+- Bernard MT Condensed — Bernard
+- Engravers Old English
+- Calisto MT — Calisto
+- Maiandra GD — Maiandra
+- Tempus Sans ITC — Tempus Sans
+- Harrington
+- Eras — Eras ITC
+- Abadi
+- Sylfaen
+- MV Boli
+- High Tower Text
+- Script MT Bold — Script MT
+- Juice ITC
+- Informal Roman
+- MS Serif
+- Nimbus Roman
+- Letter Gothic
+- Prestige Elite
+- Star Jedi
+- Waltograph
+
+### Tier 6: rare jackpots (2)
+
+- Doves Type — Doves | Doves Press type | Doves Press
+- Poliphilus — Monotype Poliphilus
+
+## Refused on purpose (7)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Font | Typeface | Fonts | Default font | Text — "Which font? The deep wants its name."
+- Serif | Sans serif | Sans | Slab serif | Monospace | Script | Handwriting | Italic | Bold | Cursive | Calligraphy | Blackletter | Gothic | Capitals | Small caps | Lowercase | Uppercase | Roman — "A family trait, not a typeface. Name one."
+- Microsoft Word | Word | Photoshop | Google Docs | Canva | InDesign — "A program, not a typeface."
+- Morse code | Braille | Semaphore | Shorthand | Emoji | Hieroglyphics — "A code or a script, not a typeface."
+- Lorem ipsum — "Placeholder text, not a typeface."
+- Gutenberg | Johannes Gutenberg — "The man who brought movable type to Europe, not a typeface."
+- William Caxton — "The printer who brought the press to England in 1476, not a typeface."

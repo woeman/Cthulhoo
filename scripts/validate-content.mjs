@@ -32,6 +32,7 @@ const TRAP_FIELDS = new Set(["answer", "aliases", "reason"]);
 const RIDDLE_FIELDS = new Set(["id", "verse", "answers", "hints", "traps", "page", "exact"]);
 const RIDDLE_ANSWER_FIELDS = new Set(["answer", "aliases"]);
 const ID_PATTERN = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+const MAX_DAILY_ID = 60;
 
 function readJson(path) {
   try {
@@ -134,6 +135,8 @@ function checkPrompt(prompt, where, theme, seenIds, lexicons) {
   if (!isText(prompt.id) || !ID_PATTERN.test(prompt.id)) error(label, "id must be kebab-case, e.g. landlocked-countries");
   else if (seenIds.has(prompt.id)) error(label, `id also used in ${seenIds.get(prompt.id)}`);
   else seenIds.set(prompt.id, where);
+  // A daily question is published as bank/<id>.json (build/daily-bank.mjs), so its id is a file's name.
+  if (isText(prompt.id) && where.startsWith("data/") && prompt.id.length > MAX_DAILY_ID) error(label, `id is over ${MAX_DAILY_ID} characters, and a daily question's id is also the name of its published file`);
 
   if (!isText(prompt.text)) error(label, "text is required");
   else {
@@ -288,6 +291,8 @@ const lexicons = loadLexicons();
 const seenIds = new Map();
 const riddleIds = new Map();
 const riddleDays = [];
+const promptDays = [];
+const PROMPTS_PER_DAY = 7; // as in src/game/daily.ts
 const rows = [];
 let riddleCount = 0;
 const files = readdirSync(dataDir).filter((f) => f.endsWith(".json") && f !== "theme.json").sort().map((f) => `data/${f}`);
@@ -326,8 +331,10 @@ for (const where of [...files, ...packFiles]) {
   } else {
     for (const p of Array.isArray(data.prompts) ? data.prompts : []) if (isText(p?.id)) dailyById.set(p.id, p);
   }
-  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles)) {
-    error(where, 'expected { "prompts": [ ... ] } or { "riddles": [ ... ] }');
+  // Fixed daily dives ({ "days": [ ... ] }) belong to the daily bank in data/, never to a pack.
+  const fixedDays = !isPack && Array.isArray(data.days);
+  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles) && !fixedDays) {
+    error(where, isPack ? 'expected { "prompts": [ ... ] } or { "riddles": [ ... ] }' : 'expected { "prompts": [ ... ] }, { "riddles": [ ... ] } or { "days": [ ... ] }');
     continue;
   }
   for (const key of Object.keys(data)) {
@@ -341,6 +348,34 @@ for (const where of [...files, ...packFiles]) {
     if (checkRiddle(riddle, where, riddleIds)) riddleCount++;
   }
   if (Array.isArray(data.riddles) && data.days !== undefined) riddleDays.push({ where, days: data.days });
+  else if (data.days !== undefined && !isPack) promptDays.push({ where, days: data.days });
+}
+
+// Fixed daily dives (written by scripts/freeze-days.mjs) must name real prompts, at most a day's
+// worth and each once, and each date may be fixed only once across the bank.
+const promptDates = new Map();
+for (const { where, days } of promptDays) {
+  if (!Array.isArray(days)) {
+    error(where, "days must be a list");
+    continue;
+  }
+  for (const d of days) {
+    const date = d?.date;
+    if (!isText(date) || !/^\d{4}-\d{2}-\d{2}$/.test(date)) error(where, `day ${JSON.stringify(d).slice(0, 60)} needs a date like 2026-12-25`);
+    else if (promptDates.has(date)) error(where, `${date} is fixed twice (also in ${promptDates.get(date)})`);
+    else promptDates.set(date, where);
+    if (!isTextList(d?.prompts) || d.prompts.length === 0) {
+      error(where, `day ${date} needs a list of prompt ids`);
+      continue;
+    }
+    if (d.prompts.length > PROMPTS_PER_DAY) error(where, `day ${date} lists ${d.prompts.length} prompts; a day holds ${PROMPTS_PER_DAY}`);
+    if (new Set(d.prompts).size !== d.prompts.length) error(where, `day ${date} lists a prompt twice`);
+    for (const id of d.prompts) {
+      // A day holds daily prompts only: a class pack's prompt is known to this script but not to the daily dive.
+      if (!seenIds.has(id)) error(where, `day ${date} names unknown prompt "${id}"`);
+      else if (!seenIds.get(id).startsWith("data/")) error(where, `day ${date} names "${id}", which is a class pack's prompt (${seenIds.get(id)}), not a daily one`);
+    }
+  }
 }
 
 // packs/index.json is what the game's topic tick-boxes read, so it must agree

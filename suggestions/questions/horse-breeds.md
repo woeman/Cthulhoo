@@ -1,0 +1,415 @@
+# Name a breed of horse or pony.
+
+Question id: `horse-breeds` · category: nature · source: `data/nature.json`
+
+Rules: Any horse or pony breed, past or present, and recognised types such as the cob. Wild and feral herds count too, and so do colour breeds with their own registries, such as the palomino; plain coat colours, donkeys, mules and zebras don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (357 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (9)
+
+- Thoroughbred — English Thoroughbred | TB | Thoroughbred horse | OTTB | Off-track Thoroughbred | English Thoroughbred horse | Off-track Thoroughbred horse
+- Arabian — Arab | Arab horse | Purebred Arabian | Arabian horse | Egyptian Arabian | Polish Arabian | Russian Arabian | Crabbet Arabian | Purebred Arabian horse | Egyptian Arabian horse | Polish Arabian horse | Russian Arabian horse | Crabbet Arabian horse
+- Shetland Pony — Sheltie | Shelty | Miniature Shetland | Shetland | Shetland horse | Mini Shetland | Sheltie horse | Shelty horse | Miniature Shetland horse | Mini Shetland horse
+- Clydesdale — Clydie | Clyde | Clydesdale horse | Clydie horse | Clyde horse
+- Shire — Shire horse | English cart horse
+- Mustang — American Mustang | Bronco | Bucking bronco | Mustang horse | Wild Mustang | Wild horse | Feral horse | American Mustang horse | Bronco horse | Bucking bronco horse | Wild Mustang horse
+- Quarter Horse — American Quarter Horse | AQHA | Quarter | QH | Appendix Quarter Horse | Australian Quarter Horse
+- Appaloosa — Appy | Palouse horse | Appaloosa horse | Appy horse
+- Welsh Pony — Welsh Pony and Cob | Welsh Section B | Section B | Welsh | Welsh B | Welsh Part-Bred | Part-bred Welsh | Welsh Pony and Cob horse | Welsh horse | Welsh B horse | Welsh Part-Bred horse | Part-bred Welsh horse
+
+### Tier 2: common (27)
+
+- Friesian — Frisian | Frisian horse | Belgian Black | Friesian horse | Belgian Black horse
+- Andalusian — Pura Raza Española | PRE | Spanish horse | Andalusian horse | Pure Spanish Horse | Pure Spanish Breed | Spanish Purebred | Spanish Andalusian | Pura Raza Española horse | Pure Spanish Breed horse | Spanish Purebred horse | Spanish Andalusian horse
+- Lipizzaner — Lipizzan | Lippizaner | Lipica horse | Lipizzaner horse | Lipicanec | Lipizzan horse | Lippizaner horse | Lipicanec horse
+- Percheron — Percheron horse
+- Morgan — Morgan horse
+- American Paint Horse — Paint | Paint horse | American Paint | APHA
+- Akhal-Teke — Teke | Akhal-Teke horse | Teke horse
+- Haflinger — Avelignese | Haflinger pony | Haflinger horse | Edelbluthaflinger | Avelignese horse | Edelbluthaflinger horse
+- Icelandic Horse — Icelandic pony | Icelander | Icelandic | Icelander horse
+- Connemara Pony — Connemara | Connie | Connemara horse | Connie horse
+- Exmoor Pony — Exmoor | Exmoor horse
+- Dartmoor Pony — Dartmoor | Dartmoor horse
+- New Forest Pony — New Forester | New Forest | New Forester horse | New Forest horse
+- Welsh Cob — Welsh Section D | Section D | Welsh Cob horse | Welsh D | Welsh D horse
+- Suffolk Punch — Suffolk | Suffolk horse | Punch | Suffolk Sorrel | Suffolk Punch horse | Punch horse | Suffolk Sorrel horse
+- Miniature Horse — Mini horse | American Miniature Horse | Miniature pony | Mini pony
+- Hanoverian — Hannoveraner | Hanover horse | Hanoverian horse | Hannoveraner horse
+- Warmblood — Warmblooded horse | Warmblood horse | German Warmblood | German Warmblood horse
+- Cob — Show cob | Maxi cob | Cob horse | Show cob horse | Maxi cob horse
+- Irish Cob — Gypsy Cob | Gypsy Vanner | Vanner | Traditional Gypsy Cob | Gypsy horse | Gypsy Vanner horse | Coloured cob | Colored cob | Irish Cob horse | Gypsy pony | Traditional cob | Gypsy Cob horse | Vanner horse | Traditional Gypsy Cob horse | Coloured cob horse | Colored cob horse | Traditional cob horse
+- Brumby — Brumby horse | Kosciuszko brumby | Kosciuszko brumby horse
+- Standardbred — American Standardbred | Standardbred horse | American Standardbred horse
+- Tennessee Walking Horse — Tennessee Walker | Walking horse | Plantation Walking Horse | Tennessee Walking | TWH | Tennessee Walker horse
+- Belgian Draught — Belgian | Belgian horse | Brabant | Brabançon | Belgian heavy horse | Belgian Draft | Belgian Draught horse | Brabant horse | Belgian Brabant | American Belgian | American Belgian Draft | Brabançon horse | Belgian Draft horse | Belgian Brabant horse | American Belgian horse | American Belgian Draft horse
+- Draught Horse — Heavy horse | Carthorse | Dray horse | Workhorse | Plough horse | Plow horse | Draft Horse | Dray
+- Przewalski's Horse — Przewalski horse | Przewalski | Takhi | Mongolian wild horse | Asian wild horse | Dzungarian horse | Przhevalsky's horse | Prezwalski's horse | Przewalsky's horse | Przewalski's | Przewalski's wild horse | Takhi horse
+- Palomino — Palomino horse | Palomino pony
+
+### Tier 3: known to fans (49)
+
+- Fell Pony — Fell | Fell horse
+- Dales Pony — Dales | Dales horse
+- Highland Pony — Garron | Highland | Scottish Highland | Scottish Highland Pony | Highland Garron | Garron horse | Highland horse | Scottish Highland horse | Highland Garron horse
+- Eriskay Pony — Eriskay | Eriskay horse
+- Kerry Bog Pony — Kerry Bog | Kerry Bog horse
+- Welsh Mountain Pony — Welsh Section A | Section A | Welsh Mountain | Welsh A | Welsh Mountain horse | Welsh A horse
+- Hackney — Hackney Pony | Hackney Horse
+- Cleveland Bay — Cleveland | Cleveland Bay horse | Chapman horse | Cleveland horse
+- Irish Draught — Irish Draught Horse | IDH | Irish Draft | Irish Draft Horse
+- Irish Sport Horse — Irish Hunter | ISH | Irish Sport | Irish Hunter horse
+- Riding Pony — British Riding Pony | Show pony
+- Hack — Show hack | Hack horse | Show hack horse
+- Hunter — Show hunter | Working hunter | Field hunter | Hunter horse | Hunter pony | Working hunter pony | Show hunter horse | Working hunter horse | Field hunter horse
+- Polo Pony — Polo horse | Polo Argentino | Argentine Polo Pony | Polo Argentino horse
+- Falabella — Falabella horse | Falabella pony
+- Camargue — Camarguais | Camargue pony | Camargue horse | Camarguais horse
+- Lusitano — Lusitanian | Puro Sangue Lusitano | PSL | Lusitano horse | Lusitanian horse | Puro Sangue Lusitano horse
+- Trakehner — East Prussian horse | Trakehner horse
+- Holsteiner — Holstein horse | Holstein | Holsteiner horse
+- Oldenburg — Oldenburger | Oldenburg horse | Oldenburger horse
+- Dutch Warmblood — KWPN | Dutch Warmblood horse
+- Selle Français — French Saddle Horse | Selle Français horse
+- Swedish Warmblood — SWB | Swedish Warmblood horse
+- Anglo-Arab — Anglo-Arabian | Anglo-Arab horse | Anglo-Arabian horse
+- Barb — Barbary horse | Berber horse | North African Barb | Barb horse | Moroccan Barb | Algerian Barb | West African Barb | North African Barb horse | Moroccan Barb horse | Algerian Barb horse | West African Barb horse
+- Marwari — Malani | Marwari horse | Malani horse
+- Mongolian Horse — Mongol horse | Mongolian pony | Mongolian
+- Fjord Horse — Norwegian Fjord | Norwegian Fjord Horse | Fjord pony | Fjording | Fjord | Fjording horse
+- Ardennes — Ardennais | Ardennes horse | Ardennais horse
+- Breton — Trait Breton | Breton horse | Postier Breton | Breton Postier | Trait Breton horse | Postier Breton horse | Breton Postier horse
+- Noriker — Norico-Pinzgauer | Pinzgauer | Noriker horse | Norico-Pinzgauer horse | Pinzgauer horse
+- Knabstrupper — Knabstrup | Knabstrupper horse | Knabstrup horse
+- Paso Fino — Paso Fino horse | Puerto Rican Paso Fino | Colombian Paso Fino | Colombian Criollo | Puerto Rican Paso Fino horse | Colombian Paso Fino horse | Colombian Criollo horse
+- Peruvian Paso — Peruvian horse | Peruvian Paso horse | Paso Peruano | Paso Peruano horse
+- Criollo — Crioulo | Argentine Criollo | Criollo horse | Crioulo horse | Argentine Criollo horse
+- American Saddlebred — Saddlebred | American Saddle Horse | Kentucky Saddler | American Saddlebred horse | Saddlebred horse | Kentucky Saddler horse
+- Missouri Fox Trotter — Fox Trotter | Missouri Fox Trotter horse | Fox Trotter horse
+- Chincoteague Pony — Assateague horse | Assateague pony | Chincoteague | Chincoteague horse
+- Pony of the Americas — POA | Pony of the Americas horse
+- Australian Stock Horse — Stock horse | Australian Stock
+- Waler — Australian Waler | Waler horse | Australian Waler horse
+- Orlov Trotter — Orloff | Orlov | Orloff Trotter | Orlov Trotter horse | Orloff horse | Orlov horse | Orloff Trotter horse
+- Don — Russian Don | Don horse | Russian Don horse
+- Caspian — Caspian pony | Caspian horse
+- Tarpan — Eurasian wild horse | Tarpan horse
+- Konik — Konik polski | Polish primitive horse | Polish konik | Konik horse | Konik polski horse | Polish konik horse | Konik pony
+- French Trotter — Trotteur Français | French Trotter horse | Trotteur | Trotteur Français horse | Trotteur horse
+- Pinto — Pinto horse | Pinto pony
+- Trotter — Trotting horse | Trotter horse
+
+### Tier 4: obscure (94)
+
+- Mountain and Moorland Pony — Mountain and Moorland | Native pony | M&M pony | Moorland pony | Mountain pony | Mountain and Moorland horse
+- Welsh Pony of Cob Type — Welsh Section C | Section C | Welsh Pony of Cob Type horse | Welsh C | Welsh C horse
+- Lundy Pony — Lundy | Lundy horse
+- British Spotted Pony — Spotted pony | British Spotted | British Spotted horse
+- Gelderlander — Gelderlander horse
+- Westphalian — Westfalen | Westphalian horse | Westfalen horse
+- Belgian Warmblood — BWP | Belgian Warmblood horse
+- Danish Warmblood — Danish Warmblood horse
+- Black Forest Horse — Schwarzwälder Kaltblut | Black Forest Coldblood | Black Forest | Schwarzwälder Fuchs | Black Forest Fox | Schwarzwälder Kaltblut horse | Black Forest Coldblood horse | Schwarzwälder Fuchs horse | Black Forest Fox horse
+- Franches-Montagnes — Freiberger | Freiberg | Franches-Montagnes horse | Freiberger horse | Freiberg horse
+- Kladruber — Old Kladruber | Kladrubák | Kladruby horse | Kladruber horse | Old Kladruber horse | Kladrubák horse
+- Shagya Arabian — Shagya | Shagya Arab | Shagya Arabian horse | Shagya horse | Shagya Arab horse
+- Hucul — Hutsul | Carpathian pony | Hucul horse | Hutsul horse | Hucul pony | Hutsul pony
+- Comtois — Comtois horse
+- Boulonnais — Boulonnais horse
+- Mérens — Ariégeois | Ariegeois pony | Mérens horse | Ariégeois horse | Mérens pony
+- Pottok — Pottoka | Basque pony | Pottok horse | Pottoka horse | Pottok pony
+- Sorraia — Sorraia horse
+- Alter Real — Alter Real horse
+- Carthusian — Cartujano | Carthusian Andalusian | Carthusian horse | Cartujano horse | Carthusian Andalusian horse
+- Murgese — Murgese horse
+- Maremmano — Maremmano horse
+- Jutland — Jutland horse
+- Frederiksborg — Frederiksborg horse
+- Gotland Pony — Gotland Russ | Russ | Gotland | Gotland Russ horse | Russ horse | Gotland horse
+- Finnhorse — Finnish horse | Suomenhevonen | Finnhorse horse | Suomenhevonen horse
+- Budyonny — Budenny | Budyonovsky | Budyonny horse | Budenny horse | Budyonovsky horse
+- Karabakh — Karabakh horse
+- Kabardin — Kabarda | Kabardin horse | Kabarda horse
+- Yakut Horse — Yakutian horse | Yakut
+- Kathiawari — Kathi | Kathiawari horse | Kathi horse
+- Manipuri Pony — Meitei pony | Manipuri | Manipuri horse
+- Basotho Pony — Basuto pony | Basotho | Basotho horse
+- Namib Desert Horse — Namib Desert
+- Rocky Mountain Horse — Rocky Mountain
+- American Cream Draft — American Cream Draft horse
+- Mangalarga Marchador — Mangalarga | Mangalarga Marchador horse | Marchador | Mangalarga horse | Marchador horse
+- Curly Horse — American Bashkir Curly | Bashkir Curly | Curly | American Bashkir Curly horse | Bashkir Curly horse
+- Kaimanawa Horse — Kaimanawa
+- Sable Island Horse — Sable Island pony | Sable Island
+- Destrier — Destrier horse
+- Cold-blood — Cold-blooded horse | Cold-blood horse
+- Hot-blood — Hot-blooded horse | Hot-blood horse
+- Sport Horse — British Sport Horse
+- Dutch Harness Horse — Tuigpaard | Dutch Harness | Tuigpaard horse
+- Groningen — Groningen horse
+- Dülmen Pony — Dülmen | Dülmener | Duelmener | Dülmener Wildpferd | Dülmen horse | Dülmener horse | Duelmener horse | Dülmener Wildpferd horse
+- British Warmblood — British Warmblood horse
+- Cob Normand — Norman Cob | Cob Normand horse | Norman Cob horse
+- Poitevin Mulassier — Poitevin | Mulassier | Poitou horse | Poitevin Mulassier horse | Poitevin horse | Mulassier horse
+- Garrano — Garrano horse | Garrano pony
+- Wielkopolski — Wielkopolski horse
+- Nonius — Nonius horse
+- North Swedish Horse — North Swedish
+- Døle — Døle Gudbrandsdal | Dølahest | Dole horse | Døle Gudbrandsdal horse | Dølahest horse
+- Tersk — Tersk horse | Tersky | Tersky horse
+- Bashkir Horse — Bashkir
+- Russian Heavy Draught — Russian Heavy Draft | Russian Heavy Draught horse | Russian Heavy Draft horse
+- Kazakh Horse — Kazakh
+- Turkoman Horse — Turkmene | Turkmen horse | Turkoman | Turkmene horse
+- Persian Arab — Persian Arabian | Asil | Persian Arab horse | Persian Arabian horse | Asil horse
+- Sandalwood Pony — Sumba pony | Sumbawa pony | Sandalwood | Sandalwood horse
+- Timor Pony — Timor | Timor horse
+- Kiso Horse — Kiso
+- Hokkaido Pony — Dosanko | Hokkaido horse | Hokkaido | Dosanko horse
+- Misaki Horse — Misaki
+- Jeju Horse — Jeju pony | Cheju horse | Jeju
+- Boerperd — Boer horse | Boerperd horse
+- Kentucky Mountain Saddle Horse — Kentucky Mountain Saddle
+- Spotted Saddle Horse — Spotted Saddle
+- Racking Horse
+- Florida Cracker Horse — Florida Cracker
+- Marsh Tacky — Marsh Tacky horse
+- Nokota — Nokota horse
+- Spanish Mustang — Spanish Mustang horse
+- Kiger Mustang — Kiger Mustang horse
+- Banker Horse — Outer Banks horse | Banker pony | Corolla horse | Corolla wild horse | Shackleford Banks horse | Ocracoke pony
+- Newfoundland Pony — Newfoundland | Newfoundland horse
+- Canadian Horse — Cheval Canadien | Canadian | Cheval Canadien horse
+- Campolina — Campolina horse
+- Chilean Horse — Chilean Corralero | Chilean Criollo | Chilean | Chilean Corralero horse | Chilean Criollo horse
+- Azteca — Azteca horse
+- Australian Pony
+- Palfrey — Palfrey horse
+- Courser — Courser horse
+- Jennet — Spanish Jennet | Spanish Jennet Horse | Jennet horse
+- Neapolitan Horse — Napoletano | Neapolitan | Napoletano horse
+- Gaited Horse
+- Colonial Spanish Horse — Colonial Spanish
+- Pryor Mountain Mustang — Pryor Mountain Mustang horse
+- Italian Heavy Draught — TPR | Agricultural Italian Heavy Draught | Italian Heavy Draft | Agricultural Italian Heavy Draft | Italian Heavy Draught horse | Agricultural Italian Heavy Draught horse | Italian Heavy Draft horse | Agricultural Italian Heavy Draft horse
+- Heck Horse
+- Iberian Horse — Iberian
+- American Shetland Pony — American Shetland | American Shetland horse
+
+### Tier 5: expert (175)
+
+- Dutch Draught — Dutch Draft | Dutch Draught horse | Dutch Draft horse
+- Rhinelander — Rhinelander horse
+- Württemberger — Württemberger horse
+- Bavarian Warmblood — Bavarian Warmblood horse
+- Zweibrücker — Zweibrücker horse
+- Mecklenburger — Mecklenburger horse
+- Brandenburger — Brandenburger horse
+- Rottaler — Rottaler horse
+- Senner — Senner horse
+- Schleswig Coldblood — Schleswig Coldblood horse
+- Rhenish German Coldblood — Rhenish German Coldblood horse
+- South German Coldblood — South German Coldblood horse
+- German Riding Pony — German Riding | German Riding horse
+- Lewitzer — Lewitzer horse
+- Einsiedler — Einsiedler horse
+- Old English Black — Old English Black horse | Lincolnshire Black | Lincolnshire Black horse
+- Galloway Pony — Galloway | Galloway horse
+- Norfolk Trotter — Norfolk Roadster | Norfolk Trotter horse | Norfolk Roadster horse
+- Yorkshire Coach Horse — Yorkshire Coach
+- Irish Hobby — Hobby | Irish Hobby horse
+- Auxois — Auxois horse
+- Trait du Nord — Trait du Nord horse
+- Landais — Landais horse | Landes pony | Landais pony
+- Castillonnais — Castillonnais horse
+- Henson — Henson horse
+- Corsican Horse — Corsican | Corsican pony
+- Asturcón — Asturcón horse | Asturian pony | Asturian | Asturian horse | Asturcón pony
+- Losino — Losino horse
+- Galician Pony — Galician | Galician horse
+- Menorquín — Menorquín horse
+- Mallorquín — Mallorquín horse
+- Hispano-Árabe — Hispano-Árabe horse
+- Marismeño — Marismeño horse
+- Retuerta — Retuerta horse
+- Jaca Navarra — Jaca Navarra horse
+- Salernitano — Salernitano horse
+- Sanfratellano — Sanfratellano horse
+- Bardigiano — Bardigiano horse
+- Tolfetano — Tolfetano horse
+- Persano — Persano horse
+- Giara Horse — Giara
+- Esperia Pony — Esperia | Esperia horse
+- Skyros Pony — Skyros | Skyros horse
+- Pindos Pony — Pindos | Pindos horse
+- Peneia Pony — Peneia | Peneia horse
+- Bosnian Mountain Horse — Bosnian Mountain | Bosnian pony | Bosnian Mountain pony
+- Posavac — Posavac horse
+- Karakachan — Karakachan horse
+- Pleven — Pleven horse
+- East Bulgarian — East Bulgarian horse
+- Silesian — Silesian horse
+- Malopolski — Malopolski horse
+- Sokólski — Sokólski horse
+- Czech Warmblood — Czech Warmblood horse
+- Furioso-North Star — Furioso-North Star horse | Furioso | North Star | Furioso horse | North Star horse
+- Gidran — Gidran horse
+- Kisber Felver — Kisber Felver horse | Kisber | Kisberi | Kisber horse | Kisberi horse
+- Swedish Ardennes — Swedish Ardennes horse
+- Nordlandshest — Lyngshest | Nordland horse | Nordlandshest horse | Lyngshest horse
+- Faroese Pony — Faroese | Faroese horse
+- Estonian Native — Estonian Native horse
+- Tori Horse — Tori
+- Žemaitukas — Žemaitukas horse
+- Latvian Horse — Latvian
+- Vyatka — Vyatka horse
+- Mezen — Mezen horse
+- Vladimir Heavy Draught — Vladimir Heavy Draft | Vladimir Heavy Draught horse | Vladimir Heavy Draft horse
+- Soviet Heavy Draught — Soviet Heavy Draft | Soviet Heavy Draught horse | Soviet Heavy Draft horse
+- Russian Trotter — Russian Trotter horse
+- Lokai — Lokai horse
+- Kyrgyz Horse — Kyrgyz
+- Karabair — Karabair horse
+- Ukrainian Riding Horse — Ukrainian Riding
+- Altai Horse — Altai
+- Iomud — Yomud | Iomud horse | Yomud horse
+- Deliboz — Deliboz horse
+- Karachai — Karachai horse
+- Kurdish Horse — Kurdish
+- Darashouri — Darashouri horse
+- Jaf Horse — Jaf
+- Spiti Horse — Spiti | Spiti pony
+- Zanskari — Zanskari horse | Zanskari pony
+- Bhutia Horse — Bhutia | Bhutia pony
+- Batak Pony — Batak | Batak horse
+- Bali Pony — Bali | Bali horse
+- Java Pony — Java | Java horse
+- Thai Pony — Thai | Thai horse
+- Guoxia — Guoxia horse
+- Datong Horse — Datong
+- Yili Horse — Yili
+- Hequ Horse — Hequ
+- Lijiang Pony — Lijiang | Lijiang horse
+- Tibetan Pony — Tibetan | Tibetan horse
+- Taishu Horse — Taishu
+- Yonaguni Horse — Yonaguni
+- Noma Horse — Noma
+- Tokara Horse — Tokara
+- Miyako Horse — Miyako
+- Nooitgedacht Pony — Nooitgedacht | Nooitgedacht horse
+- Dongola Horse — Dongola
+- Abyssinian Horse — Abyssinian
+- Somali Pony — Somali | Somali horse
+- Choctaw Horse — Choctaw
+- Lac La Croix Indian Pony — Lac La Croix Indian | Lac La Croix Indian horse
+- American Warmblood — American Warmblood horse
+- Brazilian Sport Horse — Brazilian Sport
+- Pantaneiro — Pantaneiro horse
+- Galiceño — Galiceño horse
+- Abaco Barb — Abaco Barb horse
+- Australian Draught — Australian Draft | Australian Draught horse | Australian Draft horse
+- Coffin Bay Pony — Coffin Bay | Coffin Bay horse
+- Tiger Horse
+- Swiss Warmblood — Swiss Sport Horse | Schweizer Warmblut | Swiss Warmblood horse | Schweizer Warmblut horse
+- American Drum Horse — Drum Horse
+- Moyle Horse — Moyle
+- Cape Horse
+- Rouncey — Rounsey | Rouncy | Rouncey horse | Rounsey horse | Rouncy horse
+- Baroque Horse
+- Oriental Horse
+- Carneddau Pony — Carneddau | Carneddau Mountain Pony | Carneddau horse
+- Quarter Pony
+- Spanish Barb — Spanish Barb horse
+- Nez Perce Horse — Nez Perce
+- Mountain Pleasure Horse
+- American Walking Pony
+- Welara — Welara pony | Welara horse
+- National Show Horse
+- Morab — Morab horse
+- Half-Arabian — Half Arab | Part-bred Arab | Part-Arabian | Half-Arabian horse | Half Arab horse | Part-bred Arab horse | Part-Arabian horse
+- Spotted Draft Horse — Spotted Draft | Spotted Draught | Spotted Draught horse
+- Cerbat Mustang — Cerbat Mustang horse
+- Sulphur Mustang — Sulfur Mustang | Sulphur Mustang horse | Sulfur Mustang horse
+- Australian Riding Pony
+- Australian Warmblood — Australian Warmblood horse
+- Anglo-Norman — Anglo-Normand | Anglo-Norman horse | Anglo-Normand horse
+- Auvergne Horse — Cheval d'Auvergne | Auvergne | Cheval d'Auvergne horse
+- Burguete — Burguete horse
+- Monchino — Monchino horse
+- Hispano-Bretón — Hispano-Bretón horse
+- Catalan Pyrenean Horse — Cavall Pirinenc Català | Catalan Pyrenean | Cavall Pirinenc Català horse
+- Sardinian Anglo-Arab — Anglo-Arabo Sardo | Sardinian Anglo-Arab horse | Anglo-Arabo Sardo horse
+- Italian Trotter — Trottatore Italiano | Trottatore | Italian Trotter horse | Trottatore Italiano horse | Trottatore horse
+- Sella Italiano — Italian Saddle Horse | Italian Sport Horse | Sella Italiano horse
+- Monterufolino — Monterufolino horse
+- Calabrese Horse — Calabrese
+- Catria Horse — Catria
+- Ventasso Horse — Ventasso
+- German Sport Horse — Deutsches Sportpferd | German Sport | Deutsches Sportpferd horse
+- Heavy Warmblood — Saxon-Thuringian Heavy Warmblood | Schweres Warmblut | East Friesian | Ostfriesen | Heavy Warmblood horse | Saxon-Thuringian Heavy Warmblood horse | Schweres Warmblut horse | East Friesian horse | Ostfriesen horse
+- Arenberg-Nordkirchen — Arenberg-Nordkirchen horse
+- Abtenauer — Abtenauer horse
+- Zangersheide — Zangersheide horse
+- Belgian Sport Horse — Belgian Sport
+- Arabo-Friesian — Arabo-Friesian horse
+- Friesian Sport Horse — Friesian Sport
+- Coldblood Trotter — Scandinavian Coldblood Trotter | Kallblodstravare | Swedish Coldblood Trotter | Norwegian Coldblood Trotter | Coldblood Trotter horse | Scandinavian Coldblood Trotter horse | Kallblodstravare horse | Swedish Coldblood Trotter horse | Norwegian Coldblood Trotter horse
+- Russian Riding Horse — Russian Saddle Horse | Orlov-Rostopchin | Russian Riding | Orlov-Rostopchin horse
+- Lithuanian Heavy Draught — Lithuanian Heavy Draft | Lithuanian Heavy Draught horse | Lithuanian Heavy Draft horse
+- Muraközi — Murakoz | Murakozer | Međimurje horse | Muraközi horse | Murakoz horse | Murakozer horse
+- Hungarian Warmblood — Hungarian Sport Horse | Hungarian Warmblood horse
+- Croatian Coldblood — Croatian Coldblood horse
+- Kustanai — Kustanai horse
+- Kalmyk Horse — Kalmyk
+- Novokirghiz — New Kirghiz | Novokyrgyz | Novokirghiz horse | New Kirghiz horse | Novokyrgyz horse
+- Sindhi Horse — Sindhi
+- Burmese Pony — Shan pony | Burmese | Burmese horse
+- Yunnan Horse — Yunnan pony | Yunnan
+- Sanhe Horse — Sanhe
+- Ningqiang Pony — Ningqiang | Ningqiang horse
+- Debao Pony — Debao | Debao horse
+- Ban-ei Horse — Banba | Nihon Banba | Ban-ei | Banba horse | Nihon Banba horse
+- Vlaamperd — Vlaamperd horse
+- Arab-Barb — Arabe-Barbe | Arab-Barb horse | Arabe-Barbe horse
+- Marajoara — Marajoara horse
+- Mangalarga Paulista — Mangalarga Paulista horse
+
+### Tier 6: rare jackpots (3)
+
+- Ferghana Horse — Fergana horse | Heavenly horse | Blood-sweating horse | Dayuan horse | Ferghana
+- Nisaean Horse — Nisean horse | Nesaean horse | Nisaean
+- Narragansett Pacer — Narragansett Pacer horse | Narragansett | Narragansett horse
+
+## Refused on purpose (24)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Horse | Horses | Pony | Ponies — "That's the question. Which breed?"
+- Stallion | Mare | Foal | Colt | Filly | Gelding | Yearling | Stud | Broodmare — "A horse's sex or age, not its breed."
+- Piebald | Skewbald | Tobiano | Overo | Coloured horse | Pied — "A coat pattern, not a breed. Patches turn up in many breeds."
+- Bay | Chestnut | Sorrel | Roan | Dun | Buckskin | Grey | Dapple grey | Dapple | Black | White | Cremello | Perlino | Grullo | Champagne | Strawberry roan | Blue roan | Albino | Grey horses | Gray horses | White horses | Black horses | Bay horses | Chestnut horses | Brown horses | Dun horses | Roan horses | Spotted horses | Dapple grey horses | Dapple gray horses — "A coat colour, not a breed."
+- Windsor Grey | Windsor Greys — "The royal carriage horses, chosen for their colour, not a breed."
+- Tinker | Tinker horse | Tinker pony | Irish Tinker | Irish Tinker horse | Tinker cob — "Long used in Europe, but in Britain and Ireland it's an insult to Travellers. Here the breed is the Irish Cob."
+- Donkey | Donkeys | Ass | Burro | Jackass | Jennys | Poitou donkey | Baudet du Poitou | Mammoth donkey | Miniature donkey | Onager | Kiang | Wild ass — "A cousin of the horse, but a different species."
+- Mule | Hinny — "A cross between a donkey and a horse, not a breed."
+- Zebra | Zorse | Zonkey | Zony | Quagga — "A striped cousin of the horse, never domesticated."
+- Racehorse | Show jumper | Dressage horse | Eventer | Steeplechaser | Hurdler | Pit ponys | Police horse | Warhorses | Pack horses | Cavalry horse | Coach horse | Carriage horse | Harness horse | Trail horse | Cutting horse | Reining horse | Barrel racer | Rodeo horse | Cow horses | Ranch horse | Sumpter | Pack pony — "A job, not a breed. Name the breed doing it."
+- Purebred | Pedigree | Crossbreed | Crossbred | Mixed breed | Grade horse — "That describes a horse's breeding, not its breed. Name one."
+- Steed | Charger | Mount | Nag | Gee-gee | Dobbin | Equine | Equus — "Just another word for a horse. Which breed?"
+- Feral pony | Wild pony — "Many breeds of pony run wild or half-wild. Name the breed."
+- Black Beauty | Joey | Boxer | Spirit | Maximus | Bullseye | Black Stallion | Flicka | Epona | Roach | Binky | Silver | Hidalgo | Artax | Bill the Pony | Mr Ed | Champion the Wonder Horse — "A horse from a story, not a breed."
+- Mearas | Shadowfax | Felarof — "Horses of Middle-earth, not of this world."
+- Red Rum | Secretariat | Seabiscuit | Frankel | Arkle | Desert Orchid | Phar Lap | Shergar | Bucephalus | Marengo | Copenhagen | Kauto Star | Sea the Stars | Winx | Black Caviar | Man o' War | Trigger | Comanche | Sergeant Reckless | Incitatus | Byerley Turk | Darley Arabian | Godolphin Arabian | Eclipse | Sampson | Sandy — "A famous horse, not a breed."
+- Pegasus | Unicorn | Sleipnir | Centaur | Kelpie | Hippogriff | Alicorn | Hippocampus | Nightmare | Kirin | Qilin — "A creature of myth, not a breed."
+- My Little Pony | Twilight Sparkle | Rainbow Dash | Pinkie Pie | Applejack | Fluttershy — "A toy and a cartoon, not a breed."
+- Trojan Horse | Wooden horse — "A wooden horse full of Greek soldiers, not a breed."
+- Rocking horse | Hobby horse | Pommel horse | Vaulting horse | Clothes horse | Sawhorse | Charley horse | Iron horse | Dark horses | Horse chestnut | Horseradish | Horsefly | Stalking horses | Toy horses — "Not that kind of horse."
+- Seahorse — "A fish, not a horse."
+- Hippopotamus | Hippo | River horse — "Its name means 'river horse' in Greek, but it's no horse."
+- Eohippus | Dawn horse | Hyracotherium | Mesohippus | Merychippus | Pliohippus | Hipparion — "An early relative of the horse, extinct for millions of years, not a breed."
+- Ponyta | Galarian Ponyta | Rapidash | Mudbray | Mudsdale | Blitzle | Zebstrika | Keldeo | Glastrier | Spectrier — "A Pokémon, not a breed of this world."

@@ -1,0 +1,643 @@
+# Name a royal house or dynasty.
+
+Question id: `royal-houses` · category: history · source: `data/history.json`
+
+Rules: Any royal or imperial house, or any dynasty that ruled a state, from any age or land. Noble families that never reigned don't count, and nor do houses of fiction.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (584 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Tudor — House of Tudor | Tudor dynasty | Tudor family | Welsh royal family
+- Windsor — Mountbatten-Windsor | British royal family | House of Windsor | Windsor dynasty | Windsor family | English royal family | UK royal family | Royal Family of the United Kingdom
+- Stuart — Stewart | Stuarts | Stewarts | House of Stuart | Stuart dynasty | Stuart family | Scottish royal family
+- Plantagenet — Plantagenets | House of Plantagenet | Plantagenet dynasty | Plantagenet family
+- Habsburg — Hapsburg | Habsburg-Lorraine | Austrian Habsburgs | Spanish Habsburgs | House of Austria | Austrian imperial family | House of Habsburg | Habsburg dynasty | Habsburg family | Habsburg Empire | Austrian royal family | Philippine dynasty | Hungarian royal family | Czech royal family | Bohemian royal family
+- Romanov — Romanoff | Romanov-Holstein-Gottorp | Holstein-Gottorp-Romanov | Russian imperial family | Russian royal family | House of Romanov | Romanov dynasty | Romanov family
+- Ming — Southern Ming | House of Ming | Ming dynasty | Ming family | Zhu dynasty | House of Zhu | Zhu family
+
+### Tier 2: common (26)
+
+- York — Yorkist | Yorkists | House of York | York dynasty | York family
+- Lancaster — Lancastrian | Lancastrians | House of Lancaster | Lancaster dynasty | Lancaster family
+- Hanover — Hanoverian | Hanoverians | Brunswick-Lüneburg | Brunswick | House of Hanover | Hanover dynasty | Hanover family | Hanoverian royal family
+- Normandy — Normans | Norman | Norman dynasty | Normandie | House of Normandy | Normandy dynasty | Normandy family
+- Wessex — Cerdicings | Cerdicing | West Saxon dynasty | House of Wessex | Wessex dynasty | Wessex family
+- Saxe-Coburg and Gotha — Saxe-Coburg | Saxe-Coburg-Gotha | Coburg | House of Belgium | Belgian royal family | House of Saxe-Coburg and Gotha | Saxe-Coburg and Gotha dynasty | Saxe-Coburg and Gotha family | Bulgarian royal family
+- Bourbon — Bourbons | Bourbon-Two Sicilies | Bourbon-Anjou | Spanish royal family | House of Bourbon | Bourbon dynasty | Bourbon family
+- Valois — Valois-Angoulême | Valois-Orléans | House of Valois | Valois dynasty | Valois family
+- Bonaparte — Bonapartes | Napoleonic dynasty | House of Bonaparte | Bonaparte dynasty | Bonaparte family | French imperial family
+- Capet — Capetian | Capetians | House of France | French royal family | House of Capet | Capet dynasty | Capet family
+- Carolingian — Carolingians | Pippinid | Pippinids | Arnulfing | House of Carolingian | Carolingian dynasty | Carolingian family | Carolingian Empire
+- Merovingian — Merovingians | House of Merovingian | Merovingian dynasty | Merovingian family
+- Grimaldi — Monegasque princely family | Monaco royal family | House of Grimaldi | Grimaldi dynasty | Grimaldi family | Monegasque royal family
+- Hohenzollern — Hohenzollern-Sigmaringen | German imperial family | Prussian royal family | Romanian royal family | House of Hohenzollern | Hohenzollern dynasty | Hohenzollern family
+- Medici — House of Medici | Medici dynasty | Medici family
+- Ptolemaic — Ptolemies | Ptolemy | Lagid | Lagids | House of Ptolemy | Ptolemaic Kingdom | Ptolemaic period | Thirty-Third Dynasty | 33rd Dynasty | House of Ptolemaic | Ptolemaic dynasty | Ptolemaic family
+- Ottoman — Ottomans | House of Osman | Osmanoğlu | Osmanli | House of Ottoman | Ottoman dynasty | Ottoman family | Ottoman Empire | Ottoman imperial family | Ottoman royal family
+- Saud — House of Saud | Al Saud | Saudi royal family | Saud dynasty | Saud family
+- Mughal — Moghul | Mogul | Mughals | Moguls | Timurids of India | Gurkani | House of Mughal | Mughal dynasty | Mughal family | Mughal Empire | Mughal royal family | Mughal imperial family
+- Qing — Ch'ing | Manchu dynasty | Manchu | Aisin Gioro | House of Qing | Qing dynasty | Qing family
+- Han — Western Han | Eastern Han | Former Han | House of Han | Han dynasty | Han family
+- Tang — House of Tang | Tang dynasty | Tang family
+- Qin — Ch'in | House of Qin | Qin dynasty | Qin family
+- Song — Sung | Northern Song | Southern Song | House of Song | Song dynasty | Song family
+- Yuan — Northern Yuan | House of Yuan | Yuan dynasty | Yuan family | Mongol dynasty
+- Borgia — Borgias | House of Borgia | Borgia family | Borgia dynasty
+
+### Tier 3: known to fans (91)
+
+- Orange-Nassau — House of Orange | Orange | Dutch royal family | House of Orange-Nassau | Orange-Nassau dynasty | Orange-Nassau family
+- Bruce — House of Bruce | Bruce dynasty | Bruce family
+- Orléans — Orleanist | House of Orléans | Orléans dynasty | Orléans family
+- Anjou — Angevin | Angevins | Angevin Empire | Capetian House of Anjou | House of Anjou | Anjou dynasty | Anjou family
+- Wittelsbach — Bavarian royal family | House of Wittelsbach | Wittelsbach dynasty | Wittelsbach family
+- Hohenstaufen — Staufer | Staufen | House of Hohenstaufen | Hohenstaufen dynasty | Hohenstaufen family
+- Liechtenstein — House of Liechtenstein | Liechtenstein dynasty | Liechtenstein family | Liechtenstein royal family | Liechtenstein princely family
+- Árpád — Árpáds | Arpadian | House of Árpád | Árpád dynasty | Árpád family
+- Piast — Piasts | House of Piast | Piast dynasty | Piast family
+- Jagiellon — Jagiellonian | Jagiellonians | House of Jagiellon | Jagiellon dynasty | Jagiellon family
+- Vasa — Wasa | House of Vasa | Vasa dynasty | Vasa family
+- Glücksburg — Schleswig-Holstein-Sonderburg-Glücksburg | Danish royal family | Norwegian royal family | Greek royal family | House of Glücksburg | Glücksburg dynasty | Glücksburg family | Monpezat | House of Monpezat | Laborde de Monpezat
+- Bernadotte — Swedish royal family | House of Bernadotte | Bernadotte dynasty | Bernadotte family
+- Rurik — Rurikid | Rurikids | Rurikovich | House of Rurik | Rurik dynasty | Rurik family
+- Braganza — Bragança | Orléans-Braganza | Saxe-Coburg-Braganza | Portuguese royal family | Brazilian imperial family | House of Braganza | Braganza dynasty | Braganza family | Brazilian royal family
+- Savoy — Savoia | Italian royal family | House of Savoy | Savoy dynasty | Savoy family
+- Sforza — House of Sforza | Sforza dynasty | Sforza family
+- Julio-Claudian — Julio-Claudians | House of Julio-Claudian | Julio-Claudian dynasty | Julio-Claudian family | Julian dynasty | Julii Caesares
+- Flavian — Flavians | House of Flavian | Flavian dynasty | Flavian family
+- Nerva–Antonine — Antonine | Antonines | Nerva-Antonines | House of Nerva–Antonine | Nerva–Antonine dynasty | Nerva–Antonine family
+- Komnenos — Comnenus | Komnenoi | Comneni | Comnenian | House of Komnenos | Komnenos dynasty | Komnenos family
+- Palaiologos — Palaeologus | Palaiologoi | Palaeologi | Palaeologan | House of Palaiologos | Palaiologos dynasty | Palaiologos family
+- Achaemenid — Achaemenids | Achaemenian | House of Achaemenes | House of Achaemenid | Achaemenid dynasty | Achaemenid family | Achaemenid Empire
+- Seleucid — Seleucids | House of Seleucus | House of Seleucid | Seleucid dynasty | Seleucid family | Seleucid Empire
+- Sasanian — Sassanid | Sassanian | Sasanids | Sassanids | House of Sasan | House of Sasanian | Sasanian dynasty | Sasanian family | Sasanian Empire
+- House of David — Davidic line | Davidic dynasty | Line of David | Davidic
+- Umayyad — Umayyads | Omayyad | Banu Umayya | House of Umayyad | Umayyad dynasty | Umayyad family | Umayyad Caliphate
+- Abbasid — Abbasids | House of Abbasid | Abbasid dynasty | Abbasid family | Abbasid Caliphate
+- Fatimid — Fatimids | House of Fatimid | Fatimid dynasty | Fatimid family | Fatimid Caliphate
+- Ayyubid — Ayyubids | House of Ayyubid | Ayyubid dynasty | Ayyubid family | Ayyubid Sultanate
+- Mamluk — Mamluks | Bahri | Burji | Slave dynasty | Mameluke | Mamelukes | House of Mamluk | Mamluk dynasty | Mamluk family | Mamluk Sultanate | Ilbari
+- Seljuk — Seljuks | Seljuq | House of Seljuk | Seljuk dynasty | Seljuk family | Seljuk Empire
+- Safavid — Safavids | House of Safavid | Safavid dynasty | Safavid family | Safavid Empire
+- Qajar — Kadjar | Qajars | House of Qajar | Qajar dynasty | Qajar family
+- Pahlavi — House of Pahlavi | Pahlavi dynasty | Pahlavi family | Iranian royal family | Iranian imperial family | Persian royal family | Persian imperial family
+- Timurid — Timurids | House of Timur | House of Timurid | Timurid dynasty | Timurid family | Timurid Empire
+- Hashemite — Hashemites | Hashimite | Jordanian royal family | House of Hashemite | Hashemite dynasty | Hashemite family | Iraqi royal family
+- Muhammad Ali dynasty — Alawiyya dynasty | Muhammad Ali | House of Muhammad Ali | Egyptian royal family
+- Alaouite — Alawite dynasty | Alaouites | Filali | Moroccan royal family | House of Alaouite | Alaouite dynasty | Alaouite family
+- Maurya — Mauryan | Mauryas | Mauryan Empire | House of Maurya | Maurya dynasty | Maurya family | Maurya Empire
+- Gupta — Guptas | House of Gupta | Gupta dynasty | Gupta family | Gupta Empire
+- Chola — Cholas | House of Chola | Chola dynasty | Chola family | Chola Empire
+- Zhou — Chou | Western Zhou | Eastern Zhou | House of Zhou | Zhou dynasty | Zhou family
+- Shang — Yin dynasty | Shang-Yin | House of Shang | Shang dynasty | Shang family
+- Sui — House of Sui | Sui dynasty | Sui family
+- Xia — Hsia | House of Xia | Xia dynasty | Xia family
+- Jin — Western Jin | Eastern Jin | Jurchen Jin | House of Jin | Jin dynasty | Jin family
+- Joseon — Chosŏn | Yi dynasty | House of Yi | Jeonju Yi | Korean Empire | House of Joseon | Joseon dynasty | Joseon family | Lee dynasty | House of Lee | Yi family | Lee family | Korean royal family | Korean imperial family
+- Goryeo — Koryo | House of Goryeo | Goryeo dynasty | Goryeo family | Wang dynasty | House of Wang | Wang
+- Silla — House of Silla | Silla dynasty | Silla family
+- Goguryeo — Koguryo | House of Goguryeo | Goguryeo dynasty | Goguryeo family
+- Imperial House of Japan — Yamato dynasty | Yamato | Japanese imperial family | Chrysanthemum Throne | Imperial family of Japan | Japanese royal family | Mikado
+- Tokugawa — Tokugawa shogunate | Edo shogunate | House of Tokugawa | Tokugawa dynasty | Tokugawa family | Tokugawa clan
+- Minamoto — Kamakura shogunate | Kamakura | House of Minamoto | Minamoto dynasty | Minamoto family | Minamoto clan
+- Chakri — Thai royal family | House of Chakri | Chakri dynasty | Chakri family | Rama dynasty
+- Nguyễn — House of Nguyễn | Nguyễn dynasty | Nguyễn family | Vietnamese imperial family | Vietnamese royal family | Nguyễn lords
+- Solomonic — Solomonids | Solomonid | Ethiopian imperial family | House of Solomonic | Solomonic dynasty | Solomonic family | Ethiopian royal family
+- Inca — Sapa Inca | Incas | House of Inca | Inca dynasty | Inca family | Inca Empire
+- First Dynasty — 1st Dynasty | Dynasty 1 | First Dynasty of Egypt | 1st Dynasty of Egypt | First Dynasty of Ancient Egypt | 1st Dynasty of Ancient Egypt | Egyptian 1st Dynasty | Egypt's 1st Dynasty | 1st Egyptian Dynasty | First Egyptian Dynasty | Thinite dynasty
+- Second Dynasty — 2nd Dynasty | Dynasty 2 | Second Dynasty of Egypt | 2nd Dynasty of Egypt | Second Dynasty of Ancient Egypt | 2nd Dynasty of Ancient Egypt | Egyptian 2nd Dynasty | Egypt's 2nd Dynasty | 2nd Egyptian Dynasty | Second Egyptian Dynasty
+- Third Dynasty — 3rd Dynasty | Dynasty 3 | Third Dynasty of Egypt | 3rd Dynasty of Egypt | Third Dynasty of Ancient Egypt | 3rd Dynasty of Ancient Egypt | Egyptian 3rd Dynasty | Egypt's 3rd Dynasty | 3rd Egyptian Dynasty | Third Egyptian Dynasty
+- Fourth Dynasty — 4th Dynasty | Dynasty 4 | Fourth Dynasty of Egypt | 4th Dynasty of Egypt | Fourth Dynasty of Ancient Egypt | 4th Dynasty of Ancient Egypt | Egyptian 4th Dynasty | Egypt's 4th Dynasty | 4th Egyptian Dynasty | Fourth Egyptian Dynasty
+- Fifth Dynasty — 5th Dynasty | Dynasty 5 | Fifth Dynasty of Egypt | 5th Dynasty of Egypt | Fifth Dynasty of Ancient Egypt | 5th Dynasty of Ancient Egypt | Egyptian 5th Dynasty | Egypt's 5th Dynasty | 5th Egyptian Dynasty | Fifth Egyptian Dynasty
+- Sixth Dynasty — 6th Dynasty | Dynasty 6 | Sixth Dynasty of Egypt | 6th Dynasty of Egypt | Sixth Dynasty of Ancient Egypt | 6th Dynasty of Ancient Egypt | Egyptian 6th Dynasty | Egypt's 6th Dynasty | 6th Egyptian Dynasty | Sixth Egyptian Dynasty
+- Seventh Dynasty — 7th Dynasty | Dynasty 7 | Seventh Dynasty of Egypt | 7th Dynasty of Egypt | Seventh Dynasty of Ancient Egypt | 7th Dynasty of Ancient Egypt | Egyptian 7th Dynasty | Egypt's 7th Dynasty | 7th Egyptian Dynasty | Seventh Egyptian Dynasty
+- Eighth Dynasty — 8th Dynasty | Dynasty 8 | Eighth Dynasty of Egypt | 8th Dynasty of Egypt | Eighth Dynasty of Ancient Egypt | 8th Dynasty of Ancient Egypt | Egyptian 8th Dynasty | Egypt's 8th Dynasty | 8th Egyptian Dynasty | Eighth Egyptian Dynasty
+- Ninth Dynasty — 9th Dynasty | Dynasty 9 | Ninth Dynasty of Egypt | 9th Dynasty of Egypt | Ninth Dynasty of Ancient Egypt | 9th Dynasty of Ancient Egypt | Egyptian 9th Dynasty | Egypt's 9th Dynasty | 9th Egyptian Dynasty | Ninth Egyptian Dynasty
+- Tenth Dynasty — 10th Dynasty | Dynasty 10 | Tenth Dynasty of Egypt | 10th Dynasty of Egypt | Tenth Dynasty of Ancient Egypt | 10th Dynasty of Ancient Egypt | Egyptian 10th Dynasty | Egypt's 10th Dynasty | 10th Egyptian Dynasty | Tenth Egyptian Dynasty
+- Eleventh Dynasty — 11th Dynasty | Dynasty 11 | Eleventh Dynasty of Egypt | 11th Dynasty of Egypt | Eleventh Dynasty of Ancient Egypt | 11th Dynasty of Ancient Egypt | Egyptian 11th Dynasty | Egypt's 11th Dynasty | 11th Egyptian Dynasty | Eleventh Egyptian Dynasty
+- Twelfth Dynasty — 12th Dynasty | Dynasty 12 | Twelfth Dynasty of Egypt | 12th Dynasty of Egypt | Twelfth Dynasty of Ancient Egypt | 12th Dynasty of Ancient Egypt | Egyptian 12th Dynasty | Egypt's 12th Dynasty | 12th Egyptian Dynasty | Twelfth Egyptian Dynasty
+- Thirteenth Dynasty — 13th Dynasty | Dynasty 13 | Thirteenth Dynasty of Egypt | 13th Dynasty of Egypt | Thirteenth Dynasty of Ancient Egypt | 13th Dynasty of Ancient Egypt | Egyptian 13th Dynasty | Egypt's 13th Dynasty | 13th Egyptian Dynasty | Thirteenth Egyptian Dynasty
+- Fourteenth Dynasty — 14th Dynasty | Dynasty 14 | Fourteenth Dynasty of Egypt | 14th Dynasty of Egypt | Fourteenth Dynasty of Ancient Egypt | 14th Dynasty of Ancient Egypt | Egyptian 14th Dynasty | Egypt's 14th Dynasty | 14th Egyptian Dynasty | Fourteenth Egyptian Dynasty
+- Fifteenth Dynasty — 15th Dynasty | Dynasty 15 | Fifteenth Dynasty of Egypt | 15th Dynasty of Egypt | Fifteenth Dynasty of Ancient Egypt | 15th Dynasty of Ancient Egypt | Egyptian 15th Dynasty | Egypt's 15th Dynasty | 15th Egyptian Dynasty | Fifteenth Egyptian Dynasty | Hyksos | Hyksos dynasty
+- Sixteenth Dynasty — 16th Dynasty | Dynasty 16 | Sixteenth Dynasty of Egypt | 16th Dynasty of Egypt | Sixteenth Dynasty of Ancient Egypt | 16th Dynasty of Ancient Egypt | Egyptian 16th Dynasty | Egypt's 16th Dynasty | 16th Egyptian Dynasty | Sixteenth Egyptian Dynasty
+- Seventeenth Dynasty — 17th Dynasty | Dynasty 17 | Seventeenth Dynasty of Egypt | 17th Dynasty of Egypt | Seventeenth Dynasty of Ancient Egypt | 17th Dynasty of Ancient Egypt | Egyptian 17th Dynasty | Egypt's 17th Dynasty | 17th Egyptian Dynasty | Seventeenth Egyptian Dynasty
+- Eighteenth Dynasty — 18th Dynasty | Dynasty 18 | Eighteenth Dynasty of Egypt | 18th Dynasty of Egypt | Eighteenth Dynasty of Ancient Egypt | 18th Dynasty of Ancient Egypt | Egyptian 18th Dynasty | Egypt's 18th Dynasty | 18th Egyptian Dynasty | Eighteenth Egyptian Dynasty | Thutmosid dynasty | Ahmosid dynasty | Thutmosid | Thutmosids
+- Nineteenth Dynasty — 19th Dynasty | Dynasty 19 | Nineteenth Dynasty of Egypt | 19th Dynasty of Egypt | Nineteenth Dynasty of Ancient Egypt | 19th Dynasty of Ancient Egypt | Egyptian 19th Dynasty | Egypt's 19th Dynasty | 19th Egyptian Dynasty | Nineteenth Egyptian Dynasty | Ramesside dynasty | Ramesside | Ramessides
+- Twentieth Dynasty — 20th Dynasty | Dynasty 20 | Twentieth Dynasty of Egypt | 20th Dynasty of Egypt | Twentieth Dynasty of Ancient Egypt | 20th Dynasty of Ancient Egypt | Egyptian 20th Dynasty | Egypt's 20th Dynasty | 20th Egyptian Dynasty | Twentieth Egyptian Dynasty
+- Twenty-First Dynasty — 21st Dynasty | Dynasty 21 | Twenty-First Dynasty of Egypt | 21st Dynasty of Egypt | Twenty-First Dynasty of Ancient Egypt | 21st Dynasty of Ancient Egypt | Egyptian 21st Dynasty | Egypt's 21st Dynasty | 21st Egyptian Dynasty | Twenty-First Egyptian Dynasty | Tanite dynasty
+- Twenty-Second Dynasty — 22nd Dynasty | Dynasty 22 | Twenty-Second Dynasty of Egypt | 22nd Dynasty of Egypt | Twenty-Second Dynasty of Ancient Egypt | 22nd Dynasty of Ancient Egypt | Egyptian 22nd Dynasty | Egypt's 22nd Dynasty | 22nd Egyptian Dynasty | Twenty-Second Egyptian Dynasty | Libyan dynasty | Bubastite dynasty | Bubastite
+- Twenty-Third Dynasty — 23rd Dynasty | Dynasty 23 | Twenty-Third Dynasty of Egypt | 23rd Dynasty of Egypt | Twenty-Third Dynasty of Ancient Egypt | 23rd Dynasty of Ancient Egypt | Egyptian 23rd Dynasty | Egypt's 23rd Dynasty | 23rd Egyptian Dynasty | Twenty-Third Egyptian Dynasty
+- Twenty-Fourth Dynasty — 24th Dynasty | Dynasty 24 | Twenty-Fourth Dynasty of Egypt | 24th Dynasty of Egypt | Twenty-Fourth Dynasty of Ancient Egypt | 24th Dynasty of Ancient Egypt | Egyptian 24th Dynasty | Egypt's 24th Dynasty | 24th Egyptian Dynasty | Twenty-Fourth Egyptian Dynasty
+- Twenty-Fifth Dynasty — 25th Dynasty | Dynasty 25 | Twenty-Fifth Dynasty of Egypt | 25th Dynasty of Egypt | Twenty-Fifth Dynasty of Ancient Egypt | 25th Dynasty of Ancient Egypt | Egyptian 25th Dynasty | Egypt's 25th Dynasty | 25th Egyptian Dynasty | Twenty-Fifth Egyptian Dynasty | Kushite dynasty | Nubian dynasty | Black Pharaohs | Kushite | Nubian pharaohs
+- Twenty-Sixth Dynasty — 26th Dynasty | Dynasty 26 | Twenty-Sixth Dynasty of Egypt | 26th Dynasty of Egypt | Twenty-Sixth Dynasty of Ancient Egypt | 26th Dynasty of Ancient Egypt | Egyptian 26th Dynasty | Egypt's 26th Dynasty | 26th Egyptian Dynasty | Twenty-Sixth Egyptian Dynasty | Saite dynasty | Saite
+- Twenty-Seventh Dynasty — 27th Dynasty | Dynasty 27 | Twenty-Seventh Dynasty of Egypt | 27th Dynasty of Egypt | Twenty-Seventh Dynasty of Ancient Egypt | 27th Dynasty of Ancient Egypt | Egyptian 27th Dynasty | Egypt's 27th Dynasty | 27th Egyptian Dynasty | Twenty-Seventh Egyptian Dynasty | First Persian dynasty
+- Twenty-Eighth Dynasty — 28th Dynasty | Dynasty 28 | Twenty-Eighth Dynasty of Egypt | 28th Dynasty of Egypt | Twenty-Eighth Dynasty of Ancient Egypt | 28th Dynasty of Ancient Egypt | Egyptian 28th Dynasty | Egypt's 28th Dynasty | 28th Egyptian Dynasty | Twenty-Eighth Egyptian Dynasty
+- Twenty-Ninth Dynasty — 29th Dynasty | Dynasty 29 | Twenty-Ninth Dynasty of Egypt | 29th Dynasty of Egypt | Twenty-Ninth Dynasty of Ancient Egypt | 29th Dynasty of Ancient Egypt | Egyptian 29th Dynasty | Egypt's 29th Dynasty | 29th Egyptian Dynasty | Twenty-Ninth Egyptian Dynasty
+- Thirtieth Dynasty — 30th Dynasty | Dynasty 30 | Thirtieth Dynasty of Egypt | 30th Dynasty of Egypt | Thirtieth Dynasty of Ancient Egypt | 30th Dynasty of Ancient Egypt | Egyptian 30th Dynasty | Egypt's 30th Dynasty | 30th Egyptian Dynasty | Thirtieth Egyptian Dynasty
+- Thirty-First Dynasty — 31st Dynasty | Dynasty 31 | Thirty-First Dynasty of Egypt | 31st Dynasty of Egypt | Thirty-First Dynasty of Ancient Egypt | 31st Dynasty of Ancient Egypt | Egyptian 31st Dynasty | Egypt's 31st Dynasty | 31st Egyptian Dynasty | Thirty-First Egyptian Dynasty | Second Persian dynasty
+- Cromwell — Cromwells | House of Cromwell | Cromwell dynasty | Cromwell family
+- Kim dynasty — Kim family | Kims | House of Kim | Kim Il Sung family | Paektu bloodline | Mount Paektu bloodline
+
+### Tier 4: obscure (116)
+
+- Godwin — Godwinsons | Godwinson | House of Godwin | Godwin dynasty | Godwin family
+- Blois — House of Blois | Blois dynasty | Blois family | Champagne | House of Champagne | Blois-Champagne
+- Dunkeld — Canmore | House of Dunkeld | Dunkeld dynasty | Dunkeld family
+- Balliol — House of Balliol | Balliol dynasty | Balliol family
+- Lorraine — House of Lorraine | Lorraine dynasty | Lorraine family
+- Burgundy — Valois-Burgundy | Burgundian | House of Burgundy | Burgundy dynasty | Burgundy family | Afonsine | Afonsine dynasty | House of Burgundy-Portugal
+- Luxembourg — House of Luxembourg | Luxembourg dynasty | Luxembourg family
+- Nassau — House of Nassau | Nassau dynasty | Nassau family
+- Nassau-Weilburg — Luxembourg grand ducal family | House of Nassau-Weilburg | Nassau-Weilburg dynasty | Nassau-Weilburg family | Luxembourg royal family
+- Ottonian — Ottonians | Liudolfing | Liudolfings | House of Ottonian | Ottonian dynasty | Ottonian family
+- Salian — Salians | House of Salian | Salian dynasty | Salian family
+- Welf — Guelph | Guelf | Welfs | House of Welf | Welf dynasty | Welf family | Welfen
+- Wettin — House of Wettin | Wettin dynasty | Wettin family | Saxon royal family | Albertine | Ernestine | Saxe-Weimar | Saxe-Weimar-Eisenach | Saxe-Meiningen | Saxe-Altenburg
+- Oldenburg — House of Oldenburg | Oldenburg dynasty | Oldenburg family
+- Württemberg — House of Württemberg | Württemberg dynasty | Württemberg family
+- Hesse — Hesse-Darmstadt | Hesse-Kassel | Hesse-Cassel | House of Hesse | Hesse dynasty | Hesse family
+- Mecklenburg — House of Mecklenburg | Mecklenburg dynasty | Mecklenburg family
+- Babenberg — House of Babenberg | Babenberg dynasty | Babenberg family
+- Battenberg — Mountbatten | House of Battenberg | Battenberg dynasty | Battenberg family
+- Holstein-Gottorp — House of Holstein-Gottorp | Holstein-Gottorp dynasty | Holstein-Gottorp family
+- Přemyslid — Přemyslids | House of Přemyslid | Přemyslid dynasty | Přemyslid family
+- Hunyadi — House of Hunyadi | Hunyadi dynasty | Hunyadi family
+- Báthory — House of Báthory | Báthory dynasty | Báthory family
+- Nemanjić — House of Nemanjić | Nemanjić dynasty | Nemanjić family
+- Obrenović — House of Obrenović | Obrenović dynasty | Obrenović family
+- Karađorđević — Karadjordjevic | Karageorgevich | Serbian royal family | House of Karađorđević | Karađorđević dynasty | Karađorđević family | Yugoslav royal family
+- Trastámara — House of Trastámara | Trastámara dynasty | Trastámara family
+- Aviz — Avis | House of Aviz | Aviz dynasty | Aviz family
+- Este — House of Este | Este dynasty | Este family
+- Gonzaga — House of Gonzaga | Gonzaga dynasty | Gonzaga family
+- Visconti — House of Visconti | Visconti dynasty | Visconti family
+- Farnese — House of Farnese | Farnese dynasty | Farnese family
+- Hauteville — House of Hauteville | Hauteville dynasty | Hauteville family
+- Severan — Severans | House of Severan | Severan dynasty | Severan family
+- Constantinian — Constantinians | Neo-Flavian | House of Constantinian | Constantinian dynasty | Constantinian family
+- Theodosian — Theodosians | House of Theodosian | Theodosian dynasty | Theodosian family
+- Justinian dynasty — Justinianic dynasty
+- Macedonian dynasty — Byzantine Macedonian dynasty
+- Arsacid — Arsacids | Parthian dynasty | House of Arsacid | Arsacid dynasty | Arsacid family
+- Antigonid — Antigonids | House of Antigonid | Antigonid dynasty | Antigonid family
+- Attalid — Attalids | House of Attalid | Attalid dynasty | Attalid family
+- Argead — Argeads | Temenid | Temenids | Thirty-Second Dynasty | 32nd Dynasty | House of Argead | Argead dynasty | Argead family | Macedonian | Macedonians
+- Hasmonean — Hasmoneans | Maccabees | Maccabean dynasty | House of Hasmonean | Hasmonean dynasty | Hasmonean family
+- Herodian — Herodians | House of Herod | House of Herodian | Herodian dynasty | Herodian family
+- Dynasty 0 — Dynasty Zero | Zeroth Dynasty | 0th Dynasty
+- Afsharid — Afsharids | House of Afsharid | Afsharid dynasty | Afsharid family | Afsharid Empire
+- Zand — House of Zand | Zand dynasty | Zand family
+- Samanid — Samanids | House of Samanid | Samanid dynasty | Samanid family
+- Buyid — Buyids | Buwayhid | House of Buyid | Buyid dynasty | Buyid family
+- Ghaznavid — Ghaznavids | House of Ghaznavid | Ghaznavid dynasty | Ghaznavid family | Ghaznavid Empire
+- Durrani — House of Durrani | Durrani dynasty | Durrani family | Durrani Empire | Abdali | Sadozai
+- Al Thani — Qatari royal family | House of Al Thani | Al Thani dynasty | Al Thani family
+- Al Nahyan — House of Al Nahyan | Al Nahyan dynasty | Al Nahyan family | Abu Dhabi royal family | Emirati royal family | UAE royal family | Emirates royal family
+- Al Maktoum — House of Al Maktoum | Al Maktoum dynasty | Al Maktoum family | Dubai royal family
+- Al Sabah — Kuwaiti royal family | House of Al Sabah | Al Sabah dynasty | Al Sabah family
+- Al Khalifa — Bahraini royal family | House of Al Khalifa | Al Khalifa dynasty | Al Khalifa family
+- Al Said — Al Bu Said | Busaidi | Omani royal family | House of Al Said | Al Said dynasty | Al Said family
+- Saadi — Saadian | Saadians | House of Saadi | Saadi dynasty | Saadi family
+- Marinid — Marinids | House of Marinid | Marinid dynasty | Marinid family
+- Almoravid — Almoravids | House of Almoravid | Almoravid dynasty | Almoravid family
+- Almohad — Almohads | House of Almohad | Almohad dynasty | Almohad family | Almohad Caliphate
+- Nasrid — Nasrids | House of Nasrid | Nasrid dynasty | Nasrid family
+- Bolkiah — Bruneian royal family | House of Bolkiah | Bolkiah dynasty | Bolkiah family
+- Chera — House of Chera | Chera dynasty | Chera family
+- Pandya — Pandyan | House of Pandya | Pandya dynasty | Pandya family
+- Pallava — House of Pallava | Pallava dynasty | Pallava family
+- Chalukya — House of Chalukya | Chalukya dynasty | Chalukya family | Eastern Chalukya | Western Chalukya | Badami Chalukya | Chalukyas of Badami | Chalukyas of Kalyani | Chalukyas of Vengi
+- Rashtrakuta — House of Rashtrakuta | Rashtrakuta dynasty | Rashtrakuta family
+- Satavahana — House of Satavahana | Satavahana dynasty | Satavahana family | Satavahana Empire | Andhra dynasty | Andhras
+- Kushan — Kushans | House of Kushan | Kushan dynasty | Kushan family | Kushan Empire
+- Nanda — House of Nanda | Nanda dynasty | Nanda family | Nanda Empire
+- Pala — House of Pala | Pala dynasty | Pala family | Pala Empire
+- Hoysala — House of Hoysala | Hoysala dynasty | Hoysala family
+- Lodi — Lodhi | House of Lodi | Lodi dynasty | Lodi family | Lodi Sultanate
+- Khalji — Khilji | House of Khalji | Khalji dynasty | Khalji family | Khalji Sultanate
+- Tughlaq — Tughluq | House of Tughlaq | Tughlaq dynasty | Tughlaq family | Tughlaq Sultanate
+- Suri — Sur | Sur Empire | House of Suri | Suri dynasty | Suri family | Sur dynasty
+- Bhonsle — Bhosale | House of Bhonsle | Bhonsle dynasty | Bhonsle family
+- Wadiyar — Wodeyar | House of Wadiyar | Wadiyar dynasty | Wadiyar family | Mysore royal family
+- Sisodia — House of Sisodia | Sisodia dynasty | Sisodia family | Sisodia clan | House of Mewar | Mewar | Mewar royal family
+- Asaf Jahi — Nizams of Hyderabad | House of Asaf Jahi | Asaf Jahi dynasty | Asaf Jahi family | Nizams | Nizam | Hyderabad royal family
+- Shah dynasty of Nepal — Shah dynasty | Nepalese royal family | Gorkha dynasty
+- Wangchuck — Bhutanese royal family | House of Wangchuck | Wangchuck dynasty | Wangchuck family
+- Liao — Khitan | House of Liao | Liao dynasty | Liao family | Western Liao | Qara Khitai | Kara Khitai | Kara-Khitan
+- Northern Wei — Tuoba Wei | House of Northern Wei | Northern Wei dynasty | Northern Wei family
+- Cao Wei — Wei | House of Cao Wei | Cao Wei dynasty | Cao Wei family
+- Baekje — Paekche | House of Baekje | Baekje dynasty | Baekje family
+- Ashikaga — Ashikaga shogunate | Muromachi shogunate | House of Ashikaga | Ashikaga dynasty | Ashikaga family | Ashikaga clan
+- Taira — Heike | House of Taira | Taira dynasty | Taira family | Taira clan
+- Fujiwara — House of Fujiwara | Fujiwara dynasty | Fujiwara family | Fujiwara clan
+- Borjigin — Genghisid | Genghisids | Golden Family | Chinggisid | Jochid | Chagatayid | Hulaguid | Ilkhanid | House of Borjigin | Borjigin dynasty | Borjigin family | Borjigin clan
+- Lý — House of Lý | Lý dynasty | Lý family
+- Trần — House of Trần | Trần dynasty | Trần family
+- Lê — Later Lê | House of Lê | Lê dynasty | Lê family
+- Konbaung — Alaungpaya dynasty | House of Konbaung | Konbaung dynasty | Konbaung family | Burmese royal family
+- Norodom — Sisowath | Cambodian royal family | House of Norodom | Norodom dynasty | Norodom family
+- Tupou — Tongan royal family | House of Tupou | Tupou dynasty | Tupou family
+- Kamehameha — House of Kamehameha | Kamehameha dynasty | Kamehameha family | Hawaiian royal family | Hawaiian monarchy
+- Keita — House of Keita | Keita dynasty | Keita family
+- Askia — Askiya | House of Askia | Askia dynasty | Askia family
+- Dlamini — Swazi royal family | House of Dlamini | Dlamini dynasty | Dlamini family | Dlamini clan | Eswatini royal family
+- Zulu — House of Zulu | Zulu dynasty | Zulu family | Zulu royal family
+- Assad — al-Assad | Assads | Assad family | al-Assad family | House of Assad | Assad dynasty
+- Somoza — Somozas | Somoza family | Somoza dynasty | House of Somoza
+- Duvalier — Duvaliers | Duvalier family | Duvalier dynasty | House of Duvalier
+- Te Wherowhero — House of Te Wherowhero | Pōtatau | Kīngitanga | Māori King Movement | Māori royal family | Māori monarchy | Te Wherowhero dynasty | Te Wherowhero family
+- Peshwa — Peshwas | Bhat family | Peshwa dynasty | House of Peshwa | Peshwa family
+- Malla — Malla dynasty | Mallas | Malla kings | House of Malla | Malla family
+- Travancore — Travancore royal family | Venad | Venad Swaroopam | House of Travancore | Travancore dynasty | Travancore family
+- Saffarid — Saffarids | House of Saffarid | Saffarid dynasty | Saffarid family
+- Zengid — Zengids | Zangid | House of Zengid | Zengid dynasty | Zengid family
+- Ghassanid — Ghassanids | House of Ghassanid | Ghassanid dynasty | Ghassanid family
+- Lakhmid — Lakhmids | House of Lakhmid | Lakhmid dynasty | Lakhmid family
+- O'Neill — O'Neills | House of O'Neill | O'Neill dynasty | O'Neill family | Irish royal family
+- Robertian — Robertians | Robertines | House of Robertian | Robertian dynasty | Robertian family
+- Sobieski — Sobieskis | House of Sobieski | Sobieski dynasty | Sobieski family
+
+### Tier 5: expert (341)
+
+- Knýtlinga — Jelling dynasty | House of Gorm | House of Knýtlinga | Knýtlinga dynasty | Knýtlinga family | House of Denmark
+- Alpin — Alpinid | House of Alpin | Alpin dynasty | Alpin family | MacAlpin | House of MacAlpin | MacAlpine
+- Aberffraw — House of Gwynedd | House of Aberffraw | Aberffraw dynasty | Aberffraw family
+- Dinefwr — House of Dinefwr | Dinefwr dynasty | Dinefwr family
+- Mathrafal — House of Mathrafal | Mathrafal dynasty | Mathrafal family
+- Iclingas — House of Iclingas | Iclingas dynasty | Iclingas family
+- Wuffingas — Wuffings | House of Wuffingas | Wuffingas dynasty | Wuffingas family
+- Oiscingas — Oiscings | House of Oiscingas | Oiscingas dynasty | Oiscingas family
+- Uí Néill — House of Uí Néill | Uí Néill dynasty | Uí Néill family
+- Ó Briain — O'Brien | Dál gCais | House of Ó Briain | Ó Briain dynasty | Ó Briain family
+- Ó Conchobhair — O'Connor | Ua Conchobair | House of Ó Conchobhair | Ó Conchobhair dynasty | Ó Conchobhair family
+- Eóganachta — House of Eóganachta | Eóganachta dynasty | Eóganachta family
+- Crovan — House of Crovan | Crovan dynasty | Crovan family
+- Bourbon-Parma — House of Bourbon-Parma | Bourbon-Parma dynasty | Bourbon-Parma family
+- Lusignan — House of Lusignan | Lusignan dynasty | Lusignan family
+- Zähringen — Baden | House of Zähringen | Zähringen dynasty | Zähringen family
+- Ascania — House of Ascania | Ascania dynasty | Ascania family | Anhalt | House of Anhalt | Anhalt-Zerbst | Anhalt-Dessau
+- Palatinate-Zweibrücken — House of Palatinate-Zweibrücken | Palatinate-Zweibrücken dynasty | Palatinate-Zweibrücken family
+- Zápolya — Szapolyai | House of Zápolya | Zápolya dynasty | Zápolya family
+- Gediminid — Gediminids | House of Gediminid | Gediminid dynasty | Gediminid family
+- Yngling — Ynglings | House of Yngling | Yngling dynasty | Yngling family
+- Fairhair — Hårfagre | House of Fairhair | Fairhair dynasty | Fairhair family
+- Sverre — House of Sverre | Sverre dynasty | Sverre family
+- Estridsen — House of Estridsen | Estridsen dynasty | Estridsen family
+- Bjälbo — Folkung | Folkungs | House of Bjälbo | Bjälbo dynasty | Bjälbo family
+- Munsö — House of Munsö | Munsö dynasty | Munsö family
+- Stenkil — House of Stenkil | Stenkil dynasty | Stenkil family
+- Sverker — House of Sverker | Sverker dynasty | Sverker family
+- Godunov — House of Godunov | Godunov dynasty | Godunov family
+- Shuysky — Shuisky | House of Shuysky | Shuysky dynasty | Shuysky family
+- Kotromanić — House of Kotromanić | Kotromanić dynasty | Kotromanić family
+- Trpimirović — House of Trpimirović | Trpimirović dynasty | Trpimirović family
+- Kastrioti — Castriota | House of Kastrioti | Kastrioti dynasty | Kastrioti family
+- Asen — Asenid | Asenids | House of Asen | Asen dynasty | Asen family
+- Shishman — Shishmanids | House of Shishman | Shishman dynasty | Shishman family
+- Dulo — House of Dulo | Dulo dynasty | Dulo family
+- Cometopuli — Comitopuli | House of Cometopuli | Cometopuli dynasty | Cometopuli family
+- Basarab — Bassarab | House of Basarab | Basarab dynasty | Basarab family
+- Drăculești — Dracul | House of Drăculești | Drăculești dynasty | Drăculești family
+- Mușat — Bogdan-Mușat | House of Mușat | Mușat dynasty | Mușat family
+- Zogu — House of Zogu | Zogu dynasty | Zogu family | Albanian royal family
+- Bagrationi — Bagration | Bagratids | House of Bagrationi | Bagrationi dynasty | Bagrationi family
+- Bagratuni — House of Bagratuni | Bagratuni dynasty | Bagratuni family
+- Artaxiad — Artaxiads | Artashesian | House of Artaxiad | Artaxiad dynasty | Artaxiad family
+- Rubenid — Rubenids | Roupenian | House of Rubenid | Rubenid dynasty | Rubenid family
+- Hethumid — Hethumids | Hetoumian | House of Hethumid | Hethumid dynasty | Hethumid family
+- Jiménez — House of Jiménez | Jiménez dynasty | Jiménez family
+- Barcelona — House of Aragon | Aragon | Aragonese | House of Barcelona | Barcelona dynasty | Barcelona family
+- Della Rovere — House of Della Rovere | Della Rovere dynasty | Della Rovere family
+- Montefeltro — House of Montefeltro | Montefeltro dynasty | Montefeltro family
+- Valentinian — House of Valentinian | Valentinian dynasty | Valentinian family
+- Leonid — Leonids | House of Leonid | Leonid dynasty | Leonid family | Thracian dynasty
+- Heraclian — House of Heraclian | Heraclian dynasty | Heraclian family
+- Isaurian — Syrian dynasty | House of Isaurian | Isaurian dynasty | Isaurian family
+- Amorian — Phrygian dynasty | House of Amorian | Amorian dynasty | Amorian family
+- Doukas — Ducas | House of Doukas | Doukas dynasty | Doukas family
+- Angelos — Angelus | House of Angelos | Angelos dynasty | Angelos family
+- Laskaris — Lascaris | House of Laskaris | Laskaris dynasty | Laskaris family
+- Amali — Amal | Amals | House of Amali | Amali dynasty | Amali family
+- Aeacid — Aeacidae | Aeacids | Molossian dynasty | House of Aeacid | Aeacid dynasty | Aeacid family
+- Agiad — Agiads | House of Agiad | Agiad dynasty | Agiad family
+- Eurypontid — Eurypontids | House of Eurypontid | Eurypontid dynasty | Eurypontid family
+- Mermnad — Mermnads | House of Mermnad | Mermnad dynasty | Mermnad family
+- Mithridatic — House of Mithridatic | Mithridatic dynasty | Mithridatic family
+- Orontid — Orontids | House of Orontid | Orontid dynasty | Orontid family
+- Magonid — Magonids | House of Magonid | Magonid dynasty | Magonid family
+- Omride — Omrides | House of Omri | House of Omride | Omride dynasty | Omride family
+- Sargonic — Akkadian dynasty | House of Sargonic | Sargonic dynasty | Sargonic family
+- Third Dynasty of Ur — Ur III | Ur III dynasty
+- Amorite — Amorite dynasty | First Babylonian dynasty | First Dynasty of Babylon | Hammurabi dynasty | House of Amorite | Amorite family
+- Kassite — Kassites | House of Kassite | Kassite dynasty | Kassite family
+- Chaldean — Neo-Babylonian dynasty | Chaldeans | House of Chaldean | Chaldean dynasty | Chaldean family
+- Sargonid — Sargonids | House of Sargonid | Sargonid dynasty | Sargonid family
+- Ghurid — Ghurids | House of Ghurid | Ghurid dynasty | Ghurid family | Ghurid Empire
+- Khwarazmian — Anushtegin | Khwarazmshah | House of Khwarazmian | Khwarazmian dynasty | Khwarazmian family
+- Shaybanid — Shaybanids | House of Shaybanid | Shaybanid dynasty | Shaybanid family
+- Barakzai — House of Barakzai | Barakzai dynasty | Barakzai family | Afghan royal family
+- Al Qasimi — Qawasim | House of Al Qasimi | Al Qasimi dynasty | Al Qasimi family | Sharjah royal family | Ras al-Khaimah royal family
+- Al Rashid — Rashidi | House of Al Rashid | Al Rashid dynasty | Al Rashid family
+- Hamidaddin — House of Hamidaddin | Hamidaddin dynasty | Hamidaddin family | Yemeni royal family
+- Rasulid — Rasulids | House of Rasulid | Rasulid dynasty | Rasulid family
+- Wattasid — Wattasids | House of Wattasid | Wattasid dynasty | Wattasid family
+- Idrisid — Idrisids | House of Idrisid | Idrisid dynasty | Idrisid family
+- Hafsid — Hafsids | House of Hafsid | Hafsid dynasty | Hafsid family
+- Zirid — Zirids | House of Zirid | Zirid dynasty | Zirid family
+- Aghlabid — Aghlabids | House of Aghlabid | Aghlabid dynasty | Aghlabid family
+- Tulunid — Tulunids | House of Tulunid | Tulunid dynasty | Tulunid family
+- Ikhshidid — Ikhshidids | House of Ikhshidid | Ikhshidid dynasty | Ikhshidid family
+- Hamdanid — Hamdanids | House of Hamdanid | Hamdanid dynasty | Hamdanid family
+- Husainid — Husseinite | House of Husainid | Husainid dynasty | Husainid family | Tunisian royal family
+- Karamanli — Qaramanli | House of Karamanli | Karamanli dynasty | Karamanli family
+- Senussi — Sanusi | House of Senussi | Senussi dynasty | Senussi family | Libyan royal family
+- Giray — Girays | Gerey | House of Giray | Giray dynasty | Giray family
+- Funj — House of Funj | Funj dynasty | Funj family
+- Sayyid dynasty — Sayyids
+- Shunga — Sunga | House of Shunga | Shunga dynasty | Shunga family
+- Kanva — House of Kanva | Kanva dynasty | Kanva family
+- Haryanka — House of Haryanka | Haryanka dynasty | Haryanka family
+- Shishunaga — House of Shishunaga | Shishunaga dynasty | Shishunaga family
+- Pushyabhuti — Vardhana | House of Pushyabhuti | Pushyabhuti dynasty | Pushyabhuti family
+- Sena — House of Sena | Sena dynasty | Sena family
+- Gurjara-Pratihara — Pratihara | House of Gurjara-Pratihara | Gurjara-Pratihara dynasty | Gurjara-Pratihara family
+- Kakatiya — House of Kakatiya | Kakatiya dynasty | Kakatiya family
+- Seuna — Seuna Yadava | Yadava | House of Seuna | Seuna dynasty | Seuna family
+- Sangama — House of Sangama | Sangama dynasty | Sangama family
+- Tuluva — House of Tuluva | Tuluva dynasty | Tuluva family
+- Bahmani — House of Bahmani | Bahmani dynasty | Bahmani family | Bahmani Sultanate
+- Adil Shahi — House of Adil Shahi | Adil Shahi dynasty | Adil Shahi family
+- Qutb Shahi — House of Qutb Shahi | Qutb Shahi dynasty | Qutb Shahi family
+- Scindia — Shinde | House of Scindia | Scindia dynasty | Scindia family | Gwalior royal family
+- Holkar — House of Holkar | Holkar dynasty | Holkar family | Indore royal family
+- Gaekwad — Gaekwar | House of Gaekwad | Gaekwad dynasty | Gaekwad family | Baroda royal family
+- Rathore — House of Rathore | Rathore dynasty | Rathore family | Rathore clan | Jodhpur royal family | Marwar royal family
+- Kachwaha — House of Kachwaha | Kachwaha dynasty | Kachwaha family | Kachwaha clan | Jaipur royal family | Amber royal family
+- Chauhan — Chahamana | House of Chauhan | Chauhan dynasty | Chauhan family | Chauhan clan
+- Chandela — Chandel | House of Chandela | Chandela dynasty | Chandela family
+- Paramara — House of Paramara | Paramara dynasty | Paramara family
+- Solanki — Chaulukya | House of Solanki | Solanki dynasty | Solanki family
+- Kadamba — House of Kadamba | Kadamba dynasty | Kadamba family
+- Ganga — Eastern Ganga | Western Ganga | House of Ganga | Ganga dynasty | Ganga family
+- Vakataka — House of Vakataka | Vakataka dynasty | Vakataka family
+- Ahom — House of Ahom | Ahom dynasty | Ahom family
+- Dogra — House of Dogra | Dogra dynasty | Dogra family
+- Nayak — Nayaka | Nayaks | House of Nayak | Nayak dynasty | Nayak family | Madurai Nayak | Madurai Nayaks | Nayaks of Madurai | Thanjavur Nayak | Nayaks of Kandy
+- Rana dynasty — Ranas | Rana
+- Namgyal — House of Namgyal | Namgyal dynasty | Namgyal family | Sikkimese royal family | Chogyal | Chogyals | Chogyal dynasty
+- Western Xia — Xi Xia | Tangut dynasty | House of Western Xia | Western Xia dynasty | Western Xia family
+- Xin — House of Xin | Xin dynasty | Xin family
+- Shu Han — Shu | House of Shu Han | Shu Han dynasty | Shu Han family
+- Eastern Wu — Sun Wu | House of Eastern Wu | Eastern Wu dynasty | Eastern Wu family
+- Liu Song — House of Liu Song | Liu Song dynasty | Liu Song family
+- Southern Qi — House of Southern Qi | Southern Qi dynasty | Southern Qi family
+- Liang — House of Liang | Liang dynasty | Liang family
+- Chen — House of Chen | Chen dynasty | Chen family
+- Northern Qi — House of Northern Qi | Northern Qi dynasty | Northern Qi family
+- Northern Zhou — House of Northern Zhou | Northern Zhou dynasty | Northern Zhou family
+- Later Liang — House of Later Liang | Later Liang dynasty | Later Liang family
+- Later Tang — House of Later Tang | Later Tang dynasty | Later Tang family
+- Later Jin — House of Later Jin | Later Jin dynasty | Later Jin family
+- Later Han — House of Later Han | Later Han dynasty | Later Han family
+- Later Zhou — House of Later Zhou | Later Zhou dynasty | Later Zhou family
+- Southern Tang — House of Southern Tang | Southern Tang dynasty | Southern Tang family
+- Wu Zhou — House of Wu Zhou | Wu Zhou dynasty | Wu Zhou family
+- Shun — House of Shun | Shun dynasty | Shun family
+- Balhae — Parhae | House of Balhae | Balhae dynasty | Balhae family
+- Hōjō — House of Hōjō | Hōjō dynasty | Hōjō family | Hōjō clan
+- Toyotomi — House of Toyotomi | Toyotomi dynasty | Toyotomi family | Toyotomi clan
+- Shō — Sho dynasty | House of Shō | Shō family
+- Yarlung — House of Yarlung | Yarlung dynasty | Yarlung family
+- Tây Sơn — House of Tây Sơn | Tây Sơn dynasty | Tây Sơn family
+- Mạc — House of Mạc | Mạc dynasty | Mạc family
+- Taungoo — Toungoo | House of Taungoo | Taungoo dynasty | Taungoo family
+- Pagan dynasty — Bagan dynasty
+- Sailendra — House of Sailendra | Sailendra dynasty | Sailendra family
+- Rajasa — House of Rajasa | Rajasa dynasty | Rajasa family
+- Kalākaua — House of Kalākaua | Kalākaua dynasty | Kalākaua family
+- Pōmare — House of Pōmare | Pōmare dynasty | Pōmare family
+- Zagwe — House of Zagwe | Zagwe dynasty | Zagwe family
+- Sonni — House of Sonni | Sonni dynasty | Sonni family
+- Moshoeshoe — Moshesh | Bakoena | House of Moshoeshoe | Moshoeshoe dynasty | Moshoeshoe family | Lesotho royal family | Basotho royal family
+- Khumalo — House of Khumalo | Khumalo dynasty | Khumalo family | Khumalo clan
+- Nyiginya — House of Nyiginya | Nyiginya dynasty | Nyiginya family | Nyiginya clan
+- Oyoko — House of Oyoko | Oyoko dynasty | Oyoko family | Oyoko clan | Ashanti royal family | Asante royal family | Asantehene
+- Ogiso — House of Ogiso | Ogiso dynasty | Ogiso family
+- Eweka — House of Eweka | Eweka dynasty | Eweka family
+- Merina — House of Merina | Merina dynasty | Merina family
+- Iturbide — House of Iturbide | Iturbide dynasty | Iturbide family | Mexican imperial family
+- Grey — House of Grey | Grey family | Greys | Grey dynasty
+- Chiang — Chiang family | Chiang dynasty | House of Chiang
+- Licchavi — Licchavis | Lichchhavi | Licchavi dynasty | House of Licchavi | Licchavi family
+- Ikshvaku — Ikshvaku dynasty | Ikshvakus | Suryavansha | Suryavanshi | Solar dynasty | Raghuvansha | House of Ikshvaku | Ikshvaku family
+- Kuru — Kuru dynasty | Kurus | Kauravas | House of Kuru | Kuru family
+- Saluva — Saluva dynasty | House of Saluva | Saluva family
+- Aravidu — Aravidu dynasty | Aravidus | House of Aravidu | Aravidu family
+- Nizam Shahi — Nizam Shahis | Nizam Shahi dynasty | Ahmadnagar Sultanate | House of Nizam Shahi | Nizam Shahi family
+- Imad Shahi — Imad Shahis | Berar Sultanate | House of Imad Shahi | Imad Shahi dynasty | Imad Shahi family
+- Barid Shahi — Barid Shahis | Bidar Sultanate | House of Barid Shahi | Barid Shahi dynasty | Barid Shahi family
+- Ilyas Shahi — Ilyas Shahis | House of Ilyas Shahi | Ilyas Shahi dynasty | Ilyas Shahi family
+- Hussain Shahi — Hussain Shahis | Husain Shahi | House of Hussain Shahi | Hussain Shahi dynasty | Hussain Shahi family
+- Sharqi — Sharqis | Jaunpur Sultanate | House of Sharqi | Sharqi dynasty | Sharqi family
+- Muzaffarid — Muzaffarids | Gujarat Sultanate | House of Muzaffarid | Muzaffarid dynasty | Muzaffarid family
+- Faruqi — Faruqis | Khandesh Sultanate | House of Faruqi | Faruqi dynasty | Faruqi family
+- Karkota — Karkota dynasty | House of Karkota | Karkota family
+- Utpala — Utpala dynasty | House of Utpala | Utpala family
+- Lohara — Lohara dynasty | House of Lohara | Lohara family
+- Shah Mir — Shah Miri | Shah Mir dynasty | House of Shah Mir | Shah Mir family
+- Kalachuri — Kalachuris | Kalachuri dynasty | Haihaya | House of Kalachuri | Kalachuri family
+- Tomara — Tomar | Tomaras | Tomara dynasty | House of Tomara | Tomara family
+- Gahadavala — Gahadavalas | Gahadavala dynasty | House of Gahadavala | Gahadavala family
+- Gajapati — Gajapatis | Suryavamsi Gajapati | Gajapati dynasty | House of Gajapati | Gajapati family
+- Varman — Varman dynasty | Varmans of Kamarupa | House of Varman | Varman family
+- Western Satraps — Western Kshatrapas | Kardamaka
+- Hindu Shahi — Hindu Shahis | Kabul Shahi | Kabul Shahis | House of Hindu Shahi | Hindu Shahi dynasty | Hindu Shahi family
+- Mahameghavahana — Mahameghavahanas | Chedi dynasty of Kalinga | House of Mahameghavahana | Mahameghavahana dynasty | Mahameghavahana family
+- Perumpadappu — Cochin royal family | Perumpadappu Swaroopam | House of Perumpadappu | Perumpadappu dynasty | Perumpadappu family
+- Zamorin — Zamorins | Samoothiri | Zamorins of Calicut | House of Zamorin | Zamorin dynasty | Zamorin family
+- Arakkal — Arakkal royal family | Arakkal dynasty | House of Arakkal | Arakkal family
+- Manikya — Manikya dynasty | Tripura royal family | House of Manikya | Manikya family
+- Koch — Koch dynasty | Cooch Behar royal family | House of Koch | Koch family
+- Ningthouja — Ningthouja dynasty | Manipur royal family | House of Ningthouja | Ningthouja family
+- Phulkian — Phulkian dynasty | Patiala royal family | Patiala | House of Phulkian | Phulkian family
+- Jadeja — Jadejas | Kutch royal family | House of Jadeja | Jadeja dynasty | Jadeja family
+- Bundela — Bundelas | Orchha royal family | House of Bundela | Bundela dynasty | Bundela family
+- Sukerchakia — Sukerchakia Misl | House of Sukerchakia | Sukerchakia dynasty | Sukerchakia family
+- Reddy dynasty — Reddi dynasty | Reddi kingdom
+- Vijaya dynasty — House of Vijaya | Sri Lankan royal family
+- Lambakanna — Lambakannas | House of Lambakanna | Lambakanna dynasty | Lambakanna family
+- Aryacakravarti — Arya Chakravarti | Jaffna royal family | House of Aryacakravarti | Aryacakravarti dynasty | Aryacakravarti family
+- Tahirid — Tahirids | House of Tahirid | Tahirid dynasty | Tahirid family
+- Artuqid — Artuqids | Artukid | House of Artuqid | Artuqid dynasty | Artuqid family
+- Danishmendid — Danishmends | Danishmendids | House of Danishmendid | Danishmendid dynasty | Danishmendid family
+- Karamanid — Karamanids | Karaman | Karamanoğlu | House of Karamanid | Karamanid dynasty | Karamanid family
+- Aq Qoyunlu — Ak Koyunlu | White Sheep Turkomans | White Sheep | House of Aq Qoyunlu | Aq Qoyunlu dynasty | Aq Qoyunlu family
+- Kara Koyunlu — Qara Qoyunlu | Black Sheep Turkomans | Black Sheep | House of Kara Koyunlu | Kara Koyunlu dynasty | Kara Koyunlu family
+- Jalayirid — Jalayirids | House of Jalayirid | Jalayirid dynasty | Jalayirid family
+- Sulayhid — Sulayhids | House of Sulayhid | Sulayhid dynasty | Sulayhid family
+- Rustamid — Rustamids | House of Rustamid | Rustamid dynasty | Rustamid family
+- Hammadid — Hammadids | House of Hammadid | Hammadid dynasty | Hammadid family
+- Zayyanid — Zayyanids | Abdalwadid | Abdalwadids | House of Zayyanid | Zayyanid dynasty | Zayyanid family
+- Karakhanid — Karakhanids | Qarakhanid | Qarakhanids | Ilek Khans | House of Karakhanid | Karakhanid dynasty | Karakhanid family
+- Hotak — Hotaki | Hotaks | Hotak dynasty | House of Hotak | Hotak family
+- Manghit — Manghits | Mangit | House of Manghit | Manghit dynasty | Manghit family
+- Al Nuaimi — Ajman royal family | House of Al Nuaimi | Al Nuaimi dynasty | Al Nuaimi family
+- Al Mualla — Umm al-Quwain royal family | House of Al Mualla | Al Mualla dynasty | Al Mualla family
+- Al Sharqi — Fujairah royal family | House of Al Sharqi | Al Sharqi dynasty | Al Sharqi family
+- Abbadid — Abbadids | House of Abbadid | Abbadid dynasty | Abbadid family
+- Qasimid — Qasimids | House of Qasimid | Qasimid dynasty | Qasimid family
+- Keira — Keira dynasty | Darfur sultans | House of Keira | Keira family
+- al-Kanemi — Kanemi | Shehus of Borno | House of al-Kanemi | al-Kanemi dynasty | al-Kanemi family
+- Fodio — Fodiawa | Dan Fodio | Sokoto royal family | House of Fodio | Fodio dynasty | Fodio family
+- Walashma — Walashma dynasty | House of Walashma | Walashma family
+- Babiito — Bito | Babito | Bunyoro royal family | House of Babiito | Babiito dynasty | Babiito family
+- Rozvi — Changamire | Changamire dynasty | House of Rozvi | Rozvi dynasty | Rozvi family
+- Mutapa — Monomotapa | Mwenemutapa | Mutapa dynasty | House of Mutapa | Mutapa family
+- Shirazi — Shirazi dynasty | Kilwa sultans | House of Shirazi | Shirazi family
+- Western Wei — House of Western Wei | Western Wei dynasty | Western Wei family
+- Eastern Wei — House of Eastern Wei | Eastern Wei dynasty | Eastern Wei family
+- Former Qin — House of Former Qin | Former Qin dynasty | Former Qin family
+- Later Zhao — House of Later Zhao | Later Zhao dynasty | Later Zhao family
+- Han Zhao — Former Zhao | House of Han Zhao | Han Zhao dynasty | Han Zhao family
+- Northern Liang — House of Northern Liang | Northern Liang dynasty | Northern Liang family
+- Southern Han — House of Southern Han | Southern Han dynasty | Southern Han family
+- Wuyue — House of Wuyue | Wuyue dynasty | Wuyue family
+- Former Shu — House of Former Shu | Former Shu dynasty | Former Shu family
+- Later Shu — House of Later Shu | Later Shu dynasty | Later Shu family
+- Northern Han — House of Northern Han | Northern Han dynasty | Northern Han family
+- Later Qin — House of Later Qin | Later Qin dynasty | Later Qin family
+- Nanzhao — Nanchao | House of Nanzhao | Nanzhao dynasty | Nanzhao family
+- Dali — Kingdom of Dali | Duan | Duan family | House of Duan | House of Dali | Dali dynasty | Dali family
+- Zheng of Tungning — Tungning | Kingdom of Tungning | Dongning | Koxinga | House of Koxinga
+- Nanyue — Nam Việt | Triệu dynasty | House of Nanyue | Nanyue dynasty | Nanyue family
+- Hồ — Ho dynasty | House of Hồ | Hồ family
+- Ngô — Ngo dynasty | House of Ngô | Ngô family
+- Đinh — Dinh dynasty | House of Đinh | Đinh family
+- Early Lê — Former Lê | Early Lê dynasty | House of Early Lê | Early Lê family
+- Trịnh lords — Trịnh
+- Gaya — Gaya confederacy | Kaya | Garak | House of Gaya | Gaya dynasty | Gaya family
+- Taebong — Later Goguryeo | House of Taebong | Taebong dynasty | Taebong family
+- Later Baekje — Hubaekje | House of Later Baekje | Later Baekje dynasty | Later Baekje family
+- Soga — Soga clan | House of Soga | Soga dynasty | Soga family
+- Oda — Oda clan | House of Oda | Oda dynasty | Oda family
+- Mangrai — Mangrai dynasty | Lanna royal family | House of Mangrai | Mangrai family
+- Khun Lo — Khun Lo dynasty | Lao royal family | Lan Xang royal family | House of Khun Lo | Khun Lo family
+- Sanjaya — Sanjaya dynasty | House of Sanjaya | Sanjaya family
+- Hamengkubuwono — Hamengkubuwana | Yogyakarta royal family | House of Hamengkubuwono | Hamengkubuwono dynasty | Hamengkubuwono family
+- Kiram — House of Kiram | Sulu sultans | Sultans of Sulu | Sulu | Kiram dynasty | Kiram family
+- O'Donnell — O'Donnells | Ó Domhnaill | House of O'Donnell | O'Donnell dynasty | O'Donnell family
+- MacCarthy — MacCarthys | Mac Carthaigh | MacCarthy Mór | House of MacCarthy | MacCarthy dynasty | MacCarthy family
+- MacMurrough — Mac Murchada | MacMurroughs | House of MacMurrough | MacMurrough dynasty | MacMurrough family
+- Moray — House of Moray | Moray dynasty | Moray family
+- MacDonald — MacDonalds | Clan Donald | Lords of the Isles | Clann Somhairle | House of MacDonald | MacDonald dynasty | MacDonald family
+- Idings — Idingas | House of Ida
+- Cunedda — House of Cunedda | Cunedda dynasty | Cunedda family
+- Uí Ímair — House of Ivar | Dynasty of Ivar | House of Uí Ímair | Uí Ímair dynasty | Uí Ímair family
+- Bosonid — Bosonids | House of Bosonid | Bosonid dynasty | Bosonid family
+- Dreux — House of Dreux | Dreux dynasty | Dreux family
+- Montfort — House of Montfort | Montfort of Brittany | Montfort dynasty | Montfort family
+- Évreux — House of Évreux | Évreux dynasty | Évreux family
+- Foix — House of Foix | Foix-Grailly | Foix dynasty | Foix family
+- Albret — House of Albret | d'Albret | Albret dynasty | Albret family
+- Ivrea — Anscarid | Anscarids | House of Ivrea | Ivrea dynasty | Ivrea family
+- Courtenay — House of Courtenay | Courtenay dynasty | Courtenay family
+- Villehardouin — House of Villehardouin | Villehardouin dynasty | Villehardouin family
+- Lekapenos — Lecapenus | Lekapenoi
+- Kantakouzenos — Cantacuzene | Cantacuzino | Kantakouzenoi
+- Dănești — House of Dănești | Dănești dynasty | Dănești family
+- Movilești — Movilă | House of Movilești | Movilești dynasty | Movilești family
+- Ghica — Ghika | Ghica family | House of Ghica | Ghica dynasty
+- Lazarević — House of Lazarević | Lazarević dynasty | Lazarević family
+- Branković — House of Branković | Branković dynasty | Branković family
+- Crnojević — House of Crnojević | Crnojević dynasty | Crnojević family
+- Balšić — House of Balšić | Balšić dynasty | Balšić family
+- Terter — Terteri | Terter dynasty | House of Terter | Terter family
+- Krum — Krum dynasty | Krumids | House of Krum | Krum family
+- Sratsimir — Sratsimir dynasty | House of Sratsimir | Sratsimir family
+- Rákóczi — House of Rákóczi | Rákóczi dynasty | Rákóczi family
+- Bethlen — Bethlen family | House of Bethlen | Bethlen dynasty
+- Poniatowski — Poniatowskis | House of Poniatowski | Poniatowski dynasty | Poniatowski family
+- Leszczyński — House of Leszczyński | Leszczyński dynasty | Leszczyński family
+- Wiśniowiecki — House of Wiśniowiecki | Wiśniowiecki dynasty | Wiśniowiecki family
+- Poděbrady — House of Poděbrady | Poděbrady dynasty | Poděbrady family
+- Wied — House of Wied | Wied-Neuwied | Wied dynasty | Wied family
+- Griffins — House of Pomerania | Griffin dynasty | Gryfici
+- Supplinburg — Süpplingenburg | Supplinburger | House of Supplinburg | Supplinburg dynasty | Supplinburg family
+- Conradine — Conradines | House of Conradine | Conradine dynasty | Conradine family
+- Billung — Billungs | House of Billung | Billung dynasty | Billung family
+- Lippe — House of Lippe | Lippe dynasty | Lippe family
+- Schaumburg-Lippe — House of Schaumburg-Lippe | Schaumburg-Lippe dynasty | Schaumburg-Lippe family
+- Reuss — House of Reuss
+- Schwarzburg — House of Schwarzburg | Schwarzburg dynasty | Schwarzburg family
+- Waldeck — Waldeck-Pyrmont | House of Waldeck | Waldeck dynasty | Waldeck family
+- House of Eric — Eric dynasty | Erikska ätten
+- Bonde — Bonde family | House of Bonde | Bonde dynasty
+- Sture — Stures | Sture family | House of Sture | Sture dynasty
+- Hardrada — Hardrada dynasty | House of Hardrada | Hardrada family
+- Malatesta — Malatestas | House of Malatesta | Malatesta dynasty | Malatesta family
+- Della Scala — Scaliger | Scaligeri | Scaligers | House of Della Scala | Della Scala dynasty | Della Scala family
+- Carrara — Carraresi | Da Carrara | House of Carrara | Carrara dynasty | Carrara family
+- Bentivoglio — House of Bentivoglio | Bentivoglio dynasty | Bentivoglio family
+- Aleramici — House of Aleramici | Aleramici dynasty | Aleramici family
+- Gordian — Gordian dynasty | Gordians | House of Gordian | Gordian family
+- Peisistratid — Peisistratids | Pisistratids | House of Peisistratid | Peisistratid dynasty | Peisistratid family
+- Cypselid — Cypselids | House of Cypselid | Cypselid dynasty | Cypselid family
+- Deinomenid — Deinomenids | House of Deinomenid | Deinomenid dynasty | Deinomenid family
+- Battiad — Battiads | House of Battiad | Battiad dynasty | Battiad family
+- Spartocid — Spartocids | House of Spartocid | Spartocid dynasty | Spartocid family
+- Sealand dynasty — First Sealand dynasty
+- House of Saul — Saulide | Saul dynasty
+- Jehu — House of Jehu | Jehuite | Jehu dynasty | Jehu family
+- Artsruni — Artsrunids | House of Artsruni | Artsruni dynasty | Artsruni family
+- Pharnavazid — Pharnavazids | House of Pharnavazid | Pharnavazid dynasty | Pharnavazid family
+- Chosroid — Chosroids | House of Chosroid | Chosroid dynasty | Chosroid family
+- Abgarid — Abgarids | House of Abgarid | Abgarid dynasty | Abgarid family
+- Ganwa — Baganwa | House of Ganwa | Ganwa dynasty | Ganwa family
+- Aliyev — Aliyevs | Aliyev family | Aliyev dynasty | Aliev
+- Gnassingbé — Gnassingbé family | Gnassingbé dynasty | Eyadéma
+- Déby — Déby family | Déby dynasty | Déby Itno
+- Berdimuhamedow — Berdimuhamedov | Berdymukhamedov | Berdimuhamedow family
+- Hun family — Hun dynasty | Hun Sen family | Hun Sen dynasty
+- Bongo — Bongos | Bongo family | Bongo dynasty | Bongo Ondimba
+- Castro — Castros | Castro family | Castro brothers | Castro dynasty
+
+### Tier 6: rare jackpots (3)
+
+- Petrović-Njegoš — House of Petrović-Njegoš | Petrović-Njegoš dynasty | Petrović-Njegoš family
+- Sayfawa — Sayfuwa | Sefuwa | House of Sayfawa | Sayfawa dynasty | Sayfawa family
+- Kaanul — Snake dynasty | Snake Kingdom | House of Kaanul | Kaanul dynasty | Kaanul family
+
+## Refused on purpose (25)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- House Stark | Lannister | House Lannister | Targaryen | House Targaryen | Baratheon | Tyrell | Martell | Greyjoy | Tully | Arryn | Bolton | Frey | Velaryon | Hightower | House of the Dragon | Atreides | House Atreides | Harkonnen | Corrino | Gryffindor | Slytherin | Hufflepuff | Ravenclaw | Carrington | Ewing | Roy family | Crawley | Bridgerton | Corleone | Skywalker | Elendil | Aragorn | House of Usher | Usher | House of Cards | House of Anubis | House of Lies | Addams Family — "A house of fiction, not of history."
+- Kennedy | Kennedys | Kennedy family | Rothschild | Rothschilds | Rothschild family | Bush family | Nehru–Gandhi family | Gandhi family | Rockefeller | Rockefellers | Vanderbilt | Kardashian | Kardashians | Murdoch | Trump family | Gucci | House of Gucci | Agnelli | Getty | Clinton family | Adams family | Kennedy dynasty | Bush dynasty | Trump dynasty | Clinton dynasty | Jackson family | Nehru | Gandhi | Nehru-Gandhi dynasty | Bhutto | Bhutto family | Sharif family | Marcos family — "A political or business family. It never ruled a state by right of birth."
+- Shah of Iran | Shah of Persia | Shahs of Iran | Caesar | Tsar | Czar | Kaiser | Sultan | Emperor | Caliph | Shogun | Maharaja | Pharaoh | King | Queen | Shah | Khan | Great Khan | Emir | Raja | Rajah | Rama | Nawab | Negus | Tlatoani | Khedive | Doge | Mansa | Kabaka — "A title, not a house. Name the family that held it."
+- Egyptian dynasty | Dynasty of Egypt | Egyptian | Ancient Egyptian dynasty | Pharaonic dynasty — "Egypt had more than thirty. Name one of them."
+- Chinese dynasty | Chinese | Chinese imperial family | Dynasty of China | Chinese royal family — "China had dozens. Name one of them."
+- Royal family | Royals | Royal house | Royal dynasty | Imperial family | Monarchy | Indian royal family — "There are rather a lot of those. Name one of the families."
+- Rashidun | Rashidun Caliphate | Rashidun caliphs — "Four caliphs who did not inherit the role, so not a dynasty."
+- Old Kingdom | Middle Kingdom | New Kingdom | Late Period | Intermediate Period | First Intermediate Period | Second Intermediate Period | Third Intermediate Period | Early Dynastic Period | Predynastic | Amarna Period — "An age of Egyptian history, not a dynasty."
+- Five Dynasties | Five Dynasties and Ten Kingdoms | Ten Kingdoms | Three Kingdoms | Warring States | Northern and Southern dynasties | Southern dynasties | Northern dynasties | Sixteen Kingdoms | Spring and Autumn | Spring and Autumn period — "An age of several dynasties, not one. Name one of them."
+- Anglo-Saxons | Saxons | Vikings | Franks | Mongols | Aztecs | Mayans | Huns | Goths | Celts | Rajputs | Marathas | Tatars | Moors | Greeks | Persians | Hittites | Babylonians | Assyrians — "A people, not a royal house."
+- Holy Roman Empire | Roman Empire | Byzantine Empire | Byzantine | Byzantines | British Empire | Russian Empire | Persian Empire | Mongol Empire | Aztec Empire | Austria-Hungary | Austro-Hungarian Empire | Delhi Sultanate | Vijayanagara | Vijayanagara Empire | Maratha Empire | Songhai Empire | Kingdom of Kush | Ancient Egypt | Sikh Empire | Deccan Sultanates | Ilkhanate | Golden Horde | Chagatai Khanate — "A realm, not a house. The families that ruled it would count."
+- Wars of the Roses | War of the Roses | Cousins' War — "A war between two houses, not a house itself."
+- Spencer | Spencers | Spencer family | Middleton | Middletons | Bowes-Lyon | Markle | Boleyn | Boleyns | Seymour | Seymours | Parr | Teck — "A family that married into royalty but never reigned."
+- Dracula | Count Dracula | Vlad the Impaler | Vlad Dracula — "One prince of Wallachia, and a count in a novel. His family would count, under its own name."
+- Henry VIII | Elizabeth I | Elizabeth II | Queen Victoria | Victoria | Charles III | Napoleon | Charlemagne | Alexander the Great | Cleopatra | Genghis Khan | Louis XIV | Peter the Great | Tutankhamun | Ramesses II | Akbar | Ashoka | Kublai Khan | Lady Jane Grey | Montezuma | Moctezuma | Macbeth | Meiji | Meiji dynasty | Ranjit Singh — "A monarch, not a house. Their family name would count."
+- House of Lords | House of Commons | Houses of Parliament | House of Representatives | House of Keys — "A chamber of Parliament, not a royal house."
+- House of Wisdom | Bayt al-Hikma — "A great library of medieval Baghdad, not a royal house."
+- House of Fraser | House of Chanel | House of Dior | House of Fun | House of Blues | House of Hearts — "Not that kind of house."
+- Protectorate | Commonwealth of England | Interregnum — "A regime, not a house. The family that ran it would count."
+- Malaysian royal family | Malay royal family — "Malaysia's king is chosen in turn from nine royal houses, so no one family is Malaysia's."
+- Pendragon | House of Pendragon | Pendragons | Uther Pendragon — "King Arthur's family belongs to legend."
+- House of Atreus | Atreus | Atreidae — "A cursed house of Greek myth, not of history."
+- Tetrarchy | Tetrarchs — "Four co-emperors picked for the job, not one family."
+- Neville | Nevilles | Percy | Percys | Howard | Howards | Beaufort | Beauforts | Douglas | Douglases | Campbell | Campbells | Mortimer | Mortimers | Cecil | Cecils — "A great noble family, but one that never reigned."
+- Refused without a reason (near misses of real answers): Duck Dynasty

@@ -1,0 +1,822 @@
+# Name a character from a Shakespeare play.
+
+Question id: `shakespeare-characters` · category: culture · source: `data/culture.json`
+
+Rules: Anyone in his plays, co-written ones included: kings, clowns, fairies, ghosts and the offstage figures the story turns on. Characters from his poems don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (752 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Hamlet — Prince Hamlet | Hamlet, Prince of Denmark | Prince of Denmark
+- Romeo — Romeo Montague | Romio
+- Juliet — Juliet Capulet | Juliette
+- Macbeth — King Macbeth | Thane of Glamis | Thane of Cawdor
+- Lady Macbeth — Gruoch | Macbeth's Wife | Lady M
+- Othello — The Moor of Venice | The Moor
+- Iago — Honest Iago
+- King Lear — Lear
+- Ophelia — Ofelia | Hamlet's girlfriend | Hamlet's lover
+- Puck — Robin Goodfellow | Goodfellow | Robin | Puk
+- Prospero
+- Falstaff — Sir John Falstaff | John Falstaff | Jack Falstaff | Sir John | Fat Jack | Sir John Oldcastle | Oldcastle | John
+- Shylock
+- Julius Caesar — Caesar | Julius | Caesar's Ghost | Ghost of Caesar
+- Cleopatra — Queen of Egypt | Cleo
+
+### Tier 2: common (55)
+
+- Desdemona — Othello's wife
+- Mercutio
+- Tybalt — Prince of Cats | King of Cats | Tibault | Tybault | Juliet's cousin
+- Bottom — Nick Bottom | Bottom the Weaver
+- Oberon — King of the Fairies | Titania's husband
+- Titania — Queen of the Fairies | Fairy Queen | Tatiana | Titiana | Oberon's wife
+- Caliban — Prospero's slave
+- Ariel — Aerial
+- Miranda — Prospero's daughter
+- Brutus — Marcus Brutus | Marcus Junius Brutus | Junius Brutus
+- Mark Antony — Antony | Marc Antony | Marcus Antonius | Anthony | Mark Anthony | Antonius
+- Portia — Porsha | Porcia | Brutus's wife
+- Viola — Cesario
+- Malvolio
+- Polonius — Ophelia's father
+- Horatio — Hamlet's friend | Hamlet's best friend
+- Laertes — Ophelia's brother
+- Gertrude — Queen Gertrude | Hamlet's Mother | Queen of Denmark
+- Claudius — King Claudius | Hamlet's uncle | Hamlet's stepfather | King of Denmark
+- Banquo — Banquo's Ghost | Ghost of Banquo | Banko | Banqo | Macbeth's friend
+- Macduff — Thane of Fife
+- Cordelia — Lear's youngest daughter
+- Goneril
+- Regan
+- Beatrice
+- Benedick — Benedict | Signior Benedick
+- Rosalind — Ganymede | Rosalinde
+- Petruchio
+- Katherina — Kate | Katherine | Katharina | Katharine | Katherine Minola | Katherina Minola | The Shrew | Catherine | Princess Katherine | Katherine of France
+- The Three Witches — Witches | Witch | Weird Sisters | Wyrd Sisters | Weyward Sisters | First Witch | Second Witch | Third Witch | Three Weird Sisters
+- Yorick — Poor Yorick | Yorick's Skull | Yorik | Hamlet's skull | The skull
+- The Nurse — Juliet's Nurse | Angelica
+- Friar Laurence — Friar Lawrence | Brother Laurence | Laurence | The Friar
+- Henry V — King Henry V | Prince Hal | Hal | Harry | King Harry | Henry of Monmouth | Harry Monmouth | Prince Henry | Harry of England | Henry | King Henry
+- Richard III — King Richard III | Richard of Gloucester | Duke of Gloucester | Crookback | Crouchback | Richard | King Richard
+- Rosencrantz
+- Guildenstern
+- Lysander
+- Hermia
+- Helena
+- Duncan — King Duncan
+- Cassius — Caius Cassius | Gaius Cassius
+- Orsino — Duke Orsino | Count Orsino
+- Olivia — Countess Olivia | Lady Olivia
+- Ghost of Hamlet's Father — The Ghost | King Hamlet | Old Hamlet | Hamlet's Father | Hamlet's Ghost | Ghost of Hamlet | Hamlet's dad | Hamlet Sr | Hamlet Senior | Ghost of King Hamlet | Old King Hamlet | Hamlet's dead father
+- Antonio
+- Paris — County Paris | Count Paris
+- Benvolio — Romeo's cousin
+- Lord Capulet — Capulet | Old Capulet | Juliet's father | Juliet's dad
+- Edmund — Edmund the Bastard
+- Edgar — Poor Tom | Tom o' Bedlam | Mad Tom
+- Demetrius
+- Sir Toby Belch — Toby Belch | Sir Toby | Toby | Belch
+- Bianca
+- The Fool — Lear's Fool | King Lear's Fool
+
+### Tier 3: known to fans (255)
+
+- Lord Montague — Montague | Old Montague | Romeo's father | Romeo's dad
+- Lady Capulet — Juliet's mother | Juliet's mum
+- Lady Montague — Romeo's mother | Romeo's mum
+- Escalus — Prince Escalus | Prince of Verona
+- Rosaline
+- Balthasar — Balthazar
+- The Apothecary
+- Queen Mab — Mab
+- Fortinbras — Prince Fortinbras | Prince of Norway
+- Osric
+- Marcellus
+- The Gravedigger — First Gravedigger | Sexton | First Clown | Second Clown | Second Gravedigger
+- Malcolm
+- Donalbain
+- Fleance — Banquo's son
+- Lady Macduff
+- Ross — Thane of Ross | Lord Ross
+- Lennox
+- Hecate — Hecat
+- The Porter
+- Gloucester — Earl of Gloucester | Gloster | Earl of Gloster
+- Kent — Earl of Kent
+- Albany — Duke of Albany
+- Cornwall — Duke of Cornwall
+- Oswald
+- Calpurnia — Calphurnia | Caesar's wife
+- Octavius — Octavius Caesar | Octavian | Augustus | Caesar Augustus
+- Casca
+- Cinna — Cinna the Poet
+- Decius Brutus — Decius
+- Lepidus
+- The Soothsayer — Philarmonus
+- Cicero
+- Bassanio
+- Jessica — Shylock's daughter
+- Nerissa
+- Gratiano
+- Lorenzo
+- Launcelot Gobbo — Launcelot | Lancelot Gobbo | Lancelet Gobbo | Lancelot | Gobbo
+- Tubal
+- Prince of Morocco — Morocco
+- Sebastian
+- Sir Andrew Aguecheek — Andrew Aguecheek | Sir Andrew | Aguecheek
+- Feste
+- Maria
+- Fabian
+- Hero
+- Claudio
+- Don Pedro — Pedro
+- Don John
+- Leonato
+- Dogberry
+- Verges
+- Borachio
+- Orlando — Orlando de Boys
+- Celia — Aliena
+- Touchstone
+- Jaques — Melancholy Jaques | Jacques | Jaques de Boys
+- Oliver — Oliver de Boys
+- Duke Senior
+- Duke Frederick — Frederick
+- Audrey
+- Silvius
+- Phebe — Phoebe
+- Corin
+- Adam
+- Baptista — Baptista Minola
+- Lucentio
+- Tranio
+- Gremio
+- Hortensio
+- Grumio
+- Christopher Sly — Sly | Christophero Sly
+- Enobarbus — Domitius Enobarbus
+- Charmian
+- Iras
+- Octavia
+- Pompey — Sextus Pompeius | Pompeius | Pompey Bum
+- Leontes
+- Hermione
+- Perdita
+- Polixenes
+- Florizel
+- Camillo
+- Paulina
+- Antigonus
+- Autolycus
+- Mamillius
+- The Bear
+- Antipholus — Antipholus of Syracuse | Antipholus of Ephesus
+- Dromio — Dromio of Syracuse | Dromio of Ephesus
+- Adriana
+- Luciana
+- Egeon — Aegeon
+- Angelo
+- Isabella
+- Duke Vincentio — Vincentio | Friar Lodowick
+- Lucio
+- Mariana
+- Mistress Overdone — Overdone
+- Mistress Quickly — Quickly | Hostess Quickly | Nell Quickly | Mrs Quickly | The Hostess | Nell
+- Bardolph
+- Pistol — Ancient Pistol
+- Nym — Corporal Nym
+- Mistress Ford — Alice Ford | Mrs Ford
+- Mistress Page — Margaret Page | Meg Page | Mrs Page
+- Master Ford — Frank Ford | Master Brook | Brook | Ford
+- Master Page — George Page | Page
+- Anne Page — Sweet Anne Page
+- Fenton
+- Slender — Abraham Slender
+- Justice Shallow — Shallow | Robert Shallow
+- Sir Hugh Evans — Hugh Evans | Evans | Parson Evans
+- Doctor Caius — Caius
+- Hotspur — Harry Hotspur | Henry Percy | Harry Percy | Percy | Lord Percy
+- Henry IV — King Henry IV | Bolingbroke | Henry Bolingbroke | Bullingbrook | Henry of Lancaster | Duke of Hereford
+- Owen Glendower — Glendower | Owain Glyndwr | Glyndwr
+- Poins — Ned Poins
+- Doll Tearsheet — Doll
+- Fluellen — Captain Fluellen | Llewellyn
+- Chorus
+- Henry VI — King Henry VI
+- Joan la Pucelle — Joan of Arc | La Pucelle | Joan | Pucelle | Jeanne d'Arc
+- Talbot — Lord Talbot | John Talbot
+- Margaret — Queen Margaret | Margaret of Anjou
+- Duke of York — York | Richard Plantagenet | Richard, Duke of York | Edmund of Langley | Plantagenet
+- Jack Cade — Cade | John Cade
+- Edward IV — King Edward IV | Earl of March | Edward | King Edward
+- Clarence — Duke of Clarence | George, Duke of Clarence | George Plantagenet | George
+- Lady Anne — Anne Neville | Anne
+- Queen Elizabeth — Elizabeth Woodville | Lady Grey | Elizabeth
+- Buckingham — Duke of Buckingham
+- Richmond — Earl of Richmond | Henry Tudor | Henry VII | King Henry VII
+- Hastings — Lord Hastings
+- Catesby
+- Tyrrel — Sir James Tyrrel | Tyrrell
+- The Princes in the Tower — Little Princes | Edward V
+- Richard II — King Richard II | Richard of Bordeaux
+- John of Gaunt — Gaunt | Duke of Lancaster | Lancaster
+- Aumerle — Duke of Aumerle
+- Mowbray — Thomas Mowbray
+- King John
+- Philip the Bastard — The Bastard | Philip Faulconbridge | Faulconbridge | Falconbridge | Bastard Faulconbridge | Philip
+- Prince Arthur — Arthur | Arthur of Brittany
+- Constance
+- Hubert — Hubert de Burgh
+- Henry VIII — King Henry VIII
+- Cardinal Wolsey — Wolsey | Thomas Wolsey
+- Katherine of Aragon — Queen Katherine | Catherine of Aragon | Katharine of Aragon
+- Anne Boleyn — Anne Bullen
+- Cranmer — Thomas Cranmer | Archbishop Cranmer
+- Thomas Cromwell — Cromwell
+- Coriolanus — Caius Martius | Martius | Caius Marcius | Marcius
+- Volumnia
+- Virgilia
+- Menenius — Menenius Agrippa
+- Aufidius — Tullus Aufidius | Tullus
+- Titus Andronicus — Titus
+- Tamora
+- Aaron — Aaron the Moor
+- Lavinia
+- Saturninus
+- Bassianus
+- Marcus Andronicus — Marcus
+- Chiron
+- Lucius — Caius Lucius
+- Timon — Timon of Athens
+- Apemantus
+- Alcibiades
+- Cymbeline
+- Imogen — Innogen | Fidele
+- Posthumus — Posthumus Leonatus | Leonatus
+- Iachimo — Giacomo | Jachimo
+- Cloten
+- Belarius
+- Guiderius — Polydore
+- Arviragus — Cadwal
+- Pisanio
+- Pericles — Prince of Tyre
+- Marina
+- Thaisa
+- Gower — John Gower
+- Antiochus
+- Troilus
+- Cressida — Cressid | Criseyde
+- Pandarus
+- Hector
+- Achilles
+- Ajax
+- Ulysses — Odysseus
+- Agamemnon
+- Helen — Helen of Troy
+- Priam — King Priam
+- Cassandra
+- Andromache
+- Thersites
+- Patroclus
+- Nestor
+- Menelaus
+- Aeneas
+- Berowne — Biron | Biroune
+- Ferdinand — King of Navarre | Ferdinand of Navarre
+- Longaville
+- Dumaine
+- Princess of France — The Princess
+- Don Armado — Armado | Don Adriano de Armado | Adriano de Armado
+- Costard
+- Holofernes
+- Proteus
+- Valentine
+- Julia
+- Silvia
+- Launce — Lance
+- Speed
+- Crab — Crab the Dog
+- Bertram — Count of Rossillion | Count of Roussillon
+- Parolles
+- Countess of Rossillion — Countess of Roussillon | The Countess
+- Diana
+- Palamon
+- Arcite
+- Theseus — Duke of Athens
+- Hippolyta — Queen of the Amazons
+- Egeus
+- Peter Quince — Quince
+- Francis Flute — Flute | Francis
+- Tom Snout — Snout
+- Snug — Snug the Joiner
+- Robin Starveling — Starveling
+- Peaseblossom — Peasblossom
+- Cobweb
+- Moth
+- Mustardseed
+- Pyramus
+- Thisbe — Thisby
+- Alonso — King of Naples
+- Gonzalo
+- Trinculo
+- Stephano
+- Sycorax
+- Emilia — Aemilia
+- Cassio — Michael Cassio
+- Roderigo
+- Brabantio
+- Lodovico
+- Lady Percy — Kate Percy
+- Mortimer — Edmund Mortimer | John Mortimer | Sir John Mortimer
+- Northumberland — Earl of Northumberland
+- Warwick — Earl of Warwick | Kingmaker | Warwick the Kingmaker | Richard Neville
+- Queen Elinor — Elinor | Eleanor of Aquitaine | Queen Eleanor | Eleanor
+- Duchess of York
+- Lord Stanley — Stanley | Earl of Derby | Derby
+- The Dauphin — Lewis the Dauphin | Louis the Dauphin | Charles the Dauphin | Lewis | Louis
+- The Clown — Young Shepherd
+- The Murderers — Murderer | First Murderer | Second Murderer | Third Murderer
+
+### Tier 4: obscure (185)
+
+- Reynaldo — Rinaldo
+- Bernardo — Barnardo
+- Francisco
+- Player King
+- Player Queen
+- Angus
+- Menteith
+- Caithness
+- Seyton
+- Siward
+- Young Siward
+- Young Macduff — Macduff's Son
+- Friar John
+- Sampson
+- Gregory
+- Peter — Friar Peter
+- Philostrate
+- Adrian
+- Boatswain
+- Iris
+- Ceres
+- Juno
+- Montano
+- Duke of Venice
+- King of France — French King | Charles VI
+- Burgundy — Duke of Burgundy
+- Trebonius
+- Metellus Cimber — Metellus | Cimber
+- Ligarius — Caius Ligarius
+- Titinius
+- Messala
+- Pindarus
+- Flavius
+- Marullus — Murellus
+- Artemidorus
+- Old Gobbo
+- Salarino
+- Solanio — Salanio
+- Salerio
+- Prince of Arragon — Arragon | Prince of Aragon
+- Curio
+- Conrade
+- Friar Francis
+- Ursula
+- William
+- Le Beau
+- Charles the Wrestler — Charles
+- Amiens
+- Sir Oliver Martext — Oliver Martext | Martext
+- Hymen
+- Biondello
+- The Widow
+- Mardian
+- Alexas
+- Menas
+- Agrippa
+- Maecenas — Mecaenas
+- Dolabella
+- Eros
+- Scarus
+- Diomedes — Diomed
+- Ventidius
+- Old Shepherd — Shepherd
+- Mopsa
+- Dorcas
+- Time
+- Solinus — Duke Solinus | Duke of Ephesus
+- Doctor Pinch — Pinch
+- Elbow
+- Froth
+- Abhorson
+- Barnardine
+- Peter Simple — Simple
+- John Rugby — Rugby
+- Host of the Garter — Host of the Garter Inn
+- Herne the Hunter — Herne
+- Peto
+- Gadshill
+- Worcester — Earl of Worcester | Thomas Percy
+- Douglas — Earl of Douglas | Archibald Douglas
+- Prince John — John of Lancaster | Prince John of Lancaster | Duke of Bedford | Bedford
+- Archbishop of York
+- Scroop — Lord Scroop | Archbishop Scroop | Sir Stephen Scroop
+- Sir Richard Vernon — Vernon
+- Sir Walter Blunt — Blunt | Walter Blunt | Sir James Blunt
+- Westmorland — Earl of Westmorland | Westmoreland
+- Justice Silence — Silence
+- Mouldy — Ralph Mouldy
+- Feeble — Francis Feeble
+- Bullcalf — Peter Bullcalf
+- Lord Chief Justice
+- Rumour
+- Alice
+- Constable of France — Constable
+- Montjoy — Mountjoy
+- Exeter — Duke of Exeter
+- Michael Williams — Williams
+- Macmorris — Captain Macmorris
+- Jamy — Captain Jamy
+- Archbishop of Canterbury — Canterbury
+- Sir Thomas Erpingham — Erpingham
+- Queen Isabel — Isabel | Queen of France
+- Duke Humphrey — Humphrey | Humphrey of Gloucester
+- Eleanor Cobham — Eleanor, Duchess of Gloucester
+- Cardinal Beaufort — Beaufort | Bishop of Winchester | Winchester | Henry Beaufort
+- Somerset — Duke of Somerset
+- Suffolk — Duke of Suffolk | Earl of Suffolk | William de la Pole
+- Dick the Butcher — Dick
+- Clifford — Lord Clifford | Young Clifford
+- Rutland — Earl of Rutland
+- Sir John Fastolf — Fastolf | Fastolfe | Sir John Fastolfe
+- Countess of Auvergne — Auvergne
+- Prince Edward — Edward, Prince of Wales | Edward of Westminster
+- Ratcliffe — Ratcliff | Sir Richard Ratcliffe
+- Lovell — Lord Lovel | Lovel | Sir Thomas Lovell
+- Earl Rivers — Rivers | Lord Rivers | Anthony Woodville
+- Dorset — Marquess of Dorset
+- Brakenbury — Sir Robert Brakenbury
+- Norfolk — Duke of Norfolk | Jockey of Norfolk
+- Bushy
+- Bagot
+- Green
+- Bishop of Carlisle — Carlisle
+- Sir Piers Exton — Exton | Piers Exton
+- The Gardener
+- King Philip — Philip of France | King Philip of France
+- Blanche — Blanche of Castile | Blanch
+- Cardinal Pandulph — Pandulph
+- Duke of Austria — Austria | Limoges
+- Salisbury — Earl of Salisbury
+- Gardiner — Stephen Gardiner
+- Cardinal Campeius — Campeius | Campeggio
+- Griffith
+- Lord Chamberlain
+- Princess Elizabeth — Elizabeth I | Queen Elizabeth I | Baby Elizabeth
+- Cominius
+- Titus Lartius — Lartius
+- Sicinius — Sicinius Velutus
+- Valeria
+- Young Lucius
+- Quintus
+- Mutius
+- Aemilius
+- Alarbus
+- Lucullus
+- Sempronius
+- Philario
+- Jupiter — Zeus
+- Cymbeline's Queen
+- Cleon
+- Dionyza
+- Simonides
+- Helicanus
+- Lysimachus
+- Cerimon
+- Leonine
+- Boult
+- Antenor
+- Calchas
+- Deiphobus
+- Helenus
+- Boyet
+- Jaquenetta
+- Sir Nathaniel — Nathaniel
+- Dull — Anthony Dull | Constable Dull
+- Marcadé — Mercade
+- Thurio
+- Lucetta
+- Sir Eglamour — Eglamour
+- Lafew — Lafeu
+- Lavatch — Lavache
+- Pirithous
+- Jailer's Daughter — Gaoler's Daughter
+- Edward III — King Edward III
+- Black Prince — Edward the Black Prince
+- Countess of Salisbury
+- Thomas More — Sir Thomas More
+- Lady Mortimer
+- Fulvia
+- Duke of Milan
+- Queen Philippa — Philippa | Philippa of Hainault
+- The Doctor — Doctor of Physic | Scottish Doctor | English Doctor
+- The Watch — Watchmen | Watchman | First Watchman | Second Watchman
+- The Fairy — First Fairy
+- Prologue — Epilogue
+
+### Tier 5: expert (239)
+
+- Voltemand — Voltimand
+- Cornelius
+- Lucianus
+- Gonzago — Duke Gonzago
+- Paddock
+- Abraham
+- Potpan
+- Susan
+- Wall
+- Moonshine
+- Lion
+- The Changeling Boy — Indian Boy | The Changeling
+- Claribel
+- Barbary
+- Curan
+- Strato
+- Popilius Lena — Popilius
+- Publius
+- Volumnius
+- Lucilius
+- Young Cato — Cato
+- Clitus
+- Varro
+- Dardanius
+- Leonardo
+- Leah
+- George Seacoal — Seacoal | Seacole
+- Hugh Oatcake — Oatcake
+- Dennis
+- Curtis
+- Bartholomew
+- The Pedant
+- Menecrates
+- Proculeius
+- Thidias — Thyreus
+- Dercetus — Decretas
+- Seleucus
+- Silius
+- Varrius
+- Canidius
+- Philo
+- Taurus
+- Archidamus
+- Cleomenes
+- Dion
+- Luce
+- Friar Thomas
+- Francisca
+- Kate Keepdown
+- The Provost
+- Davy
+- Simon Shadow — Shadow
+- Thomas Wart — Wart
+- Fang
+- Snare
+- Lady Northumberland
+- Coleville — Sir John Coleville | Colville
+- Morton
+- Travers
+- John Bates — Bates
+- Alexander Court — Court
+- Earl of Cambridge — Cambridge
+- Grey — Lord Grey | Sir Thomas Grey
+- Bishop of Ely — Ely
+- Duke of Orléans — Orléans
+- Bourbon — Duke of Bourbon
+- Monsieur Le Fer — Le Fer
+- Rambures
+- Grandpré
+- Lady Bona — Bona
+- King Lewis — Lewis XI | Louis XI
+- Basset
+- Reignier — René
+- Alençon — Duke of Alençon
+- Bastard of Orléans
+- Simpcox — Saunder Simpcox
+- Margery Jourdain — Jourdain | Jourdan
+- Roger Bolingbroke
+- Lord Saye — Lord Say | Saye | Say
+- Alexander Iden — Iden
+- Peter Thump — Thump
+- Thomas Horner — Horner
+- Walter Whitmore — Whitmore
+- Sir William Lucy — Lucy
+- Surrey — Earl of Surrey | Duke of Surrey
+- Oxford — Earl of Oxford
+- Christopher Urswick — Urswick
+- Tressel
+- Berkeley
+- Duchess of Gloucester
+- Abbot of Westminster
+- Willoughby
+- Fitzwater
+- Melun — Count Melun
+- Pembroke — Earl of Pembroke
+- Essex — Earl of Essex
+- Lord Bigot — Bigot
+- Peter of Pomfret
+- Lady Faulconbridge
+- Robert Faulconbridge
+- James Gurney — Gurney
+- Chatillon
+- Capuchius — Capucius | Chapuys
+- Lord Sands — Sands | Sandys
+- Guildford — Sir Henry Guildford
+- Abergavenny
+- Old Lady
+- Patience
+- Doctor Butts — Butts
+- Young Martius
+- Nicanor
+- Phrynia
+- Timandra
+- Caphis
+- Philotus
+- Hortensius
+- Flaminius
+- Servilius
+- Cupid
+- Sicilius Leonatus — Sicilius
+- Escanes
+- Thaliard
+- Lychorida
+- Pandar
+- Philemon
+- Margarelon
+- Alexander
+- Hecuba
+- Gerrold — Gerald
+- The Jailer — Gaoler
+- The Wooer
+- Valerius
+- Artesius
+- Three Queens
+- Lodowick
+- King John of France — John of France
+- Lord Audley — Audley
+- John Copland — Copland
+- John Lincoln — Lincoln
+- Doll Williamson
+- Erasmus
+- Alice Arden
+- Thomas Arden — Arden
+- Mosby — Mosbie
+- Black Will
+- Shakebag
+- Cardenio
+- Panthino — Pantino
+- Ragozine
+- Gallus
+- Euphronius
+- Sir Michael
+- Harcourt
+- Woodville — Woodvile
+- Sir Thomas Gargrave — Gargrave
+- Sir William Glansdale — Glansdale
+- John Hume — Hume
+- John Southwell — Southwell
+- Asmath — Asnath | The Spirit
+- Vaux — Sir William Vaux | Sir Nicholas Vaux
+- George Bevis — Bevis
+- John Holland — Holland
+- Smith the Weaver — Smith
+- Michael
+- Sir Humphrey Stafford — Stafford | Humphrey Stafford
+- William Stafford
+- Lord Scales — Scales
+- Emmanuel — Clerk of Chatham | Clerk of Chartham
+- Sir John Montgomery — Montgomery
+- Sir John Somerville — Somerville | Somervile
+- Brandon
+- Sir Anthony Denny — Denny
+- Bishop of Lincoln
+- Sir Thomas Vaughan — Vaughan
+- Sir Walter Herbert — Walter Herbert
+- Cardinal Bourchier — Bourchier
+- Lord Mayor of London — Lord Mayor | Mayor of London
+- Simon Catling
+- Hugh Rebeck
+- James Soundpost
+- Harpier
+- Duke of Florence
+- William Page
+- Joseph
+- Nicholas
+- Old Fortinbras — King Fortinbras
+- Macdonwald — Macdonald
+- King David — David of Scotland | King David of Scotland | King of Scotland
+- Robert of Artois — Artois
+- Villiers
+- Duke of Lorraine — Lorraine | Lorrain
+- King of Bohemia
+- Earl of Montfort — Montfort | Mountford
+- Gobin de Grey — Gobin
+- Charles of Normandy — Charles, Duke of Normandy | Duke of Normandy | Prince Charles
+- Prince Philip
+- Sir William Montague — William Montague | Mountague
+- Earl of Shrewsbury — Shrewsbury
+- Sir Thomas Palmer — Palmer
+- Sir Roger Cholmeley — Sir Roger Chomley | Cholmley
+- Suresby
+- Bishop of Rochester — Rochester | John Fisher
+- William Roper
+- Lady More
+- Mistress Roper — Margaret Roper
+- George Betts — Betts
+- Clown Betts — Ralph Betts
+- Williamson
+- Sherwin
+- Francis de Barde — De Barde
+- Caveler
+- Lifter
+- Smart
+- Morris
+- Faulkner
+- Gough
+- Randall
+- Crofts
+- Downes
+- Franklin
+- Clarke
+- Bradshaw
+- Adam Fowle
+- Dick Reede — Richard Reede | Reede
+- Lord Cheyne — Lord Cheiny
+- The Bavian
+- The Taborer — Timothy
+- Jailer's Brother — Gaoler's Brother
+- Arcas
+- Sennois
+- Rycas
+- Friz
+- Maudline
+- The Gentlewoman — Waiting-Gentlewoman
+- The Sea Captain — Viola's Captain
+- The Courtesan — Courtezan
+- The Poet
+- The Painter
+- The Tailor
+
+### Tier 6: rare jackpots (3)
+
+- Graymalkin — Greymalkin
+- Setebos
+- Violenta
+
+## Refused on purpose (36)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Anne Hathaway — "Shakespeare's wife, not one of his characters."
+- William Shakespeare | Shakespeare | The Bard | Will Shakespeare | Bard of Avon | Will — "The playwright himself. Tradition says he acted in his plays, but he isn't a character."
+- Romeo and Juliet | Antony and Cleopatra | Troilus and Cressida | Pyramus and Thisbe — "That's the play. Name one of the pair."
+- Rosencrantz and Guildenstern — "Two characters, famously interchangeable. Name one."
+- Doctor Faustus | Faustus | Dr Faustus | Mephistopheles | Mephistophilis | Tamburlaine | Barabas — "Christopher Marlowe's, not Shakespeare's."
+- The Duchess of Malfi | Bosola — "John Webster's, not Shakespeare's."
+- Volpone — "Ben Jonson's fox, not Shakespeare's."
+- Robin Hood — "Not in Shakespeare, though the exiles in As You Like It live 'like the old Robin Hood of England'."
+- King Arthur — "Camelot's king never reached Shakespeare's stage."
+- Merlin — "Not a character, though Lear's Fool jokes about a prophecy Merlin will one day make."
+- Tinker Bell — "J. M. Barrie's, not Shakespeare's."
+- Venus | Adonis | Lucrece — "From one of his long poems, not a play."
+- Dark Lady | Fair Youth | Rival Poet — "From the Sonnets, not the plays."
+- Richard Burbage | Burbage — "The actor who first played Hamlet, Lear and Othello. Not a character."
+- Will Kemp | Kemp | William Kempe | Kempe — "The star comic actor of Shakespeare's company. An actor, not a character."
+- King | Queen | Prince — "Just a title, and Shakespeare crowned dozens. Add a name."
+- Duke | Lord | Lady | Earl | Duchess — "Just a title, and Shakespeare has dozens. Add a name or a place."
+- Mrs Malaprop | Malaprop — "Sheridan's word-mangler, from The Rivals, 1775."
+- Cyrano de Bergerac | Cyrano — "Edmond Rostand's swordsman with the famous nose, from 1897."
+- Eliza Doolittle — "Shaw's flower girl, from Pygmalion."
+- Don Quixote | Sancho Panza — "Cervantes's, not Shakespeare's."
+- Faust — "Goethe's, and Marlowe's before him. Never Shakespeare's."
+- James I | King James | James VI — "The king of his later years, but never a character in a play."
+- Messenger | Herald | Servant | Soldier | Citizen | Gentleman | Officer | Attendant | Senator | Guard — "A nameless walk-on found in dozens of plays. Name a character."
+- Nero | Herod — "Named in passing, never on stage."
+- Susanna Hall | Judith Shakespeare | Susanna Shakespeare | Judith Quiney — "Shakespeare's daughter, not one of his characters."
+- Edward Alleyn | Alleyn — "The rival company's star, famous for Marlowe's heroes. An actor, not a character."
+- Richard I | King Richard I | Richard the Lionheart | Richard the Lionhearted | Richard Coeur de Lion | Coeur de Lion — "Richard the Lionheart is only mentioned, never seen. Check the number."
+- The Tempest | Twelfth Night | A Midsummer Night's Dream | Much Ado About Nothing | Much Ado | As You Like It | The Merchant of Venice | The Taming of the Shrew | The Winter's Tale | Measure for Measure | The Comedy of Errors | Love's Labour's Lost | All's Well That Ends Well | The Merry Wives of Windsor | The Two Gentlemen of Verona | The Two Noble Kinsmen — "A play, not a person. Name someone in it."
+- Beatrice and Benedick | Macbeth and Lady Macbeth | Montague and Capulet | Montagues and Capulets | Capulet and Montague | Capulets and Montagues | Oberon and Titania | Hermia and Lysander | Helena and Demetrius | Othello and Desdemona | Hamlet and Ophelia | Goneril and Regan | Viola and Sebastian — "Two characters. Name one of them."
+- Simba | Mufasa | Pumbaa — "Disney borrowed the plot from Hamlet, but the animals are its own."
+- Frankenstein | Dracula | Sherlock Holmes | Ebenezer Scrooge | Harry Potter | Mr Darcy | Elizabeth Bennet | Heathcliff | Peter Pan | Oliver Twist | Jane Eyre | Dorian Gray | Captain Ahab | Huckleberry Finn | Jay Gatsby | Atticus Finch — "From a later book, not a Shakespeare play."
+- Oedipus | Medea | Electra | Beowulf — "From a much older story, not a Shakespeare play."
+- Kenneth Branagh | Branagh | Laurence Olivier | Ian McKellen | Judi Dench | David Tennant | Leonardo DiCaprio | Claire Danes | Benedict Cumberbatch | Tom Hiddleston | Denzel Washington | John Gielgud | Patrick Stewart | Mel Gibson | Orson Welles — "An actor who has played his characters, not one of them."
+- Christopher Marlowe | Marlowe | Kit Marlowe | Ben Jonson | Jonson | Thomas Kyd | John Fletcher | Thomas Middleton | Francis Bacon — "A fellow playwright, not a character."
+- Stratford-upon-Avon | Stratford | Globe Theatre | The Globe | Elsinore | Birnam Wood | Dunsinane | Forest of Arden | Illyria — "A place, not a person."

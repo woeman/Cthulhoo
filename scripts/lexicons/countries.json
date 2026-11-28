@@ -1,7 +1,8 @@
 {
   "name": "countries",
   "about": "Real places a player might type on a country prompt. Used only by the validator: any entry that is not a valid answer must not be typo-matched into one.",
-  "guards": ["countries-africa", "landlocked-countries", "mediterranean-countries", "soviet-republics", "lost-countries", "world-cup-hosts"],
+  "guards": ["countries-africa", "landlocked-countries", "mediterranean-countries", "soviet-republics", "lost-countries", "world-cup-hosts",
+             "countries-asia", "countries-americas", "island-countries", "drive-on-left", "monarchies-today"],
   "entries": [
     "Afghanistan", "Albania", "Algeria", "Andorra", "Angola", "Antigua and Barbuda", "Argentina", "Armenia", "Australia", "Austria",
     "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh", "Barbados", "Belarus", "Belgium", "Belize", "Benin", "Bhutan",

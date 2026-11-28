@@ -1,0 +1,382 @@
+# Name a demon from folklore, scripture or demonology.
+
+Question id: `demons` · category: myth · source: `data/myth.json`
+
+Rules: Any named demon or kind of demon from the world's faiths, folklore and grimoires, the Goetia's seventy-two included. Older poems such as Dante's count; demons made up for modern novels, films and games don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (320 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (8)
+
+- Satan — The Devil | Old Nick | Old Scratch | Prince of Darkness | The Adversary | Satanas | Mr Scratch | The Fiend | Foul Fiend | Lord of Darkness | Old Harry | Old Hornie | Auld Clootie | Clootie | Auld Nick | Father of Lies | Prince of Lies | Diablo | El Diablo | Diabolus | Diable | Diavolo | Teufel | The devil himself | The Evil One | The Tempter | The Serpent | Old Serpent | Great Red Dragon | Red Dragon | The Great Dragon | Snake | Serpent of Eden | Serpent in the Garden | Snake in the Garden | Eden serpent | Lord of Hell | King of Hell
+- Lucifer — Morning Star | Lightbringer | Light-bearer | Son of the Morning | Dis | Lucifer Morningstar | Lucipher
+- Beelzebub — Belzebub | Beelzebul | Baalzebub | Belzebuth | Lord of the Flies
+- Lilith — Lilitu | Lilit | Liltu | Liliu | Lilt | Lili | Lilut
+- Incubus — Incubi
+- Succubus — Succubi | Succuba
+- Imp — Imps
+- Mephistopheles — Mephisto | Mephistophilis | Mephostophiles | Mefistofele | Mephistofele | Mefisto
+
+### Tier 2: common (14)
+
+- Asmodeus — Asmoday | Asmodai | Ashmedai | Asmodee
+- Belial — Beliar
+- Baal — Bael
+- Mammon — Mamon
+- Moloch — Molech | Molekh
+- Abaddon — Apollyon
+- Legion
+- Pazuzu
+- Azazel — Azazil | Azael | Azzael | Azrzel | Azaael | Azarel | Arael | Azrel
+- Leviathan — Leviatan
+- Krampus
+- Astaroth — Ashtaroth | Astarot
+- Baphomet — Bafomet | Baphamet
+- Oni
+
+### Tier 3: known to fans (20)
+
+- Belphegor
+- Samael — Sammael | Samiel
+- Behemoth
+- Iblis — Eblis
+- Shaitan — Shaytan | Sheitan | Shayatin
+- Jinn — Djinn | Djinni | Jinni | Genie | Jann
+- Ifrit — Efreet | Afreet | Afrit | Ifreet | Efrit
+- Ghoul — Ghul
+- Demogorgon
+- Rakshasa — Rakshas | Rakshasi
+- Asura
+- Ravana
+- Mara
+- Ahriman — Angra Mainyu | Ahreman
+- Paimon — Paymon
+- Lamashtu
+- Dybbuk — Dibbuk | Dybbukim
+- Wendigo — Windigo
+- Hellhound — Black Shuck | Barghest | Gytrash | Cŵn Annwn | Gwyllgi | Black dog | Moddey Dhoo | Yeth hound | Hound of hell | Hounds of hell | Devil dog
+- Familiar — Familiar spirit | Familiars
+
+### Tier 4: obscure (74)
+
+- Mastema — Mastemah
+- Dagon
+- Adramelech — Adrammelech
+- Tokoloshe — Tikoloshe | Tokolosh
+- Shuten-doji
+- Hannya
+- Akuma
+- Tzitzimitl — Tzitzimime | Tzitzimimeh
+- Aeshma — Aeshma-daeva | Aesma
+- Azi Dahaka — Zahhak | Zahak | Dahak
+- Daeva — Div | Daiva
+- Mahishasura
+- Holika
+- Vritra
+- Pishacha — Pisacha | Pishach
+- Vetala — Vetal | Betaal | Baital
+- Marid
+- Shedim — Shed | Sheddim
+- Alp
+- Mare — Nightmare | Zmora | Nocnitsa | Night hag | Old Hag | Sleep paralysis demon
+- Chort — Chert | Czort | Cert
+- Bull Demon King — Niu Mowang
+- Yaoguai — Yaomo
+- Kumbhakarna — Kumbhakaran
+- Vassago
+- Agares — Agreas
+- Barbatos
+- Marbas — Barbas
+- Amon — Aamon
+- Buer
+- Gusion — Gusoin | Gusoyn
+- Sitri — Sytry | Bitru
+- Beleth — Byleth | Bileth
+- Eligos — Abigor | Eligor
+- Stolas
+- Marchosias
+- Phenex — Pheynix | Phoenix | Phoeniex
+- Halphas
+- Malphas — Malpas
+- Furfur
+- Gremory — Gamori
+- Valac — Valak | Volac | Valu | The Nun | Valak the nun | Demon nun
+- Andras
+- Dantalion
+- Zagan
+- Naberius — Cerberus | Naberus
+- Glasya-Labolas — Caacrinolaas | Glasya
+- Bune — Bime
+- Berith — Bofry | Baal Berith
+- Forneus
+- Focalor — Forcalor
+- Sabnock — Savnok | Sabnac
+- Shax — Chax | Shaz
+- Bifrons
+- Haagenti — Haagent
+- Orobas
+- Amdusias
+- Decarabia
+- Andromalius
+- Raum — Raim
+- Vine — Vinea
+- Murmur
+- Caim — Camio | Caym
+- Kali
+- Shemyaza — Semjaza | Semyaza | Shemhazai | Samyaza | Shemihaza
+- Cacodemon — Cacodaemon | Kakodaimon
+- Lamia — Lamiae
+- Rahu
+- Churel — Chudail | Churail | Chudel
+- Ryōmen Sukuna — Sukuna
+- Supay — Zupay
+- Yōkai — Youkai
+- Tengu
+- Bunyip — Bunyips
+
+### Tier 5: expert (202)
+
+- Samigina — Gamigin
+- Valefor — Malephar | Valefar
+- Leraje — Leraikha | Oray
+- Zepar
+- Botis
+- Bathin — Bathym | Mathim
+- Sallos — Saleos | Zaleos
+- Purson — Pursan | Curson
+- Marax — Morax | Foraii
+- Ipos — Ipes | Ayperos
+- Aim — Haborym
+- Ronove — Ronwe | Roneve
+- Foras — Forcas | Furcas the Lesser
+- Gaap — Goap | Tap
+- Vepar
+- Vual — Uvall
+- Crocell — Procel | Pucel
+- Furcas
+- Balam
+- Alloces — Allocer | Alocer
+- Ose — Oso | Voso
+- Amy — Avnas
+- Orias — Oriax
+- Vapula — Naphula
+- Haures — Flauros | Hauras | Havres
+- Andrealphus
+- Kimaris — Cimejes | Cimeies
+- Seere — Sear | Seir
+- Lucifuge Rofocale — Lucifuge | Rofocale
+- Satanachia
+- Agaliarept
+- Fleurety
+- Sargatanas
+- Nebiros
+- Nergal
+- Ukobach — Ukobak
+- Verdelet
+- Nybras
+- Melchom
+- Alastor
+- Abraxas — Abrasax
+- Rimmon
+- Chemosh
+- Thammuz — Tammuz
+- Nisroch
+- Ornias
+- Agrat bat Mahlat — Agrat
+- Naamah
+- Eisheth Zenunim
+- Mazzikim
+- Ketev Meriri
+- Qarin — Qareen | Qarina
+- Nasnas
+- Hiranyakashipu — Hiranyakashyap
+- Narakasura — Naraka
+- Bakasura
+- Putana
+- Tataka
+- Shurpanakha — Surpanakha
+- Banasura
+- Raktabija
+- Daitya
+- Danava
+- Druj
+- Jahi
+- White Div — Div-e Sepid | Div-e Sefid
+- Akvan — Akvan Div
+- Bushyasta
+- Asag — Asakku | Azag
+- Utukku
+- Gallu
+- Rabisu
+- Ibaraki-doji
+- White Bone Demon — Baigujing | White Bone Spirit
+- Popobawa
+- Bies
+- Malacoda
+- Barbariccia
+- Farfarello
+- Scarmiglione
+- Alichino
+- Calcabrina
+- Cagnazzo
+- Libicocco
+- Draghignazzo
+- Ciriatto
+- Graffiacane
+- Rubicante
+- Tarakasura — Tarakaasura
+- Gadreel
+- Kokabiel — Kokabel
+- Penemue
+- Empusa — Empousa | Empusae
+- Mormo
+- Abyzou — Obizuth | Gylou | Gello | Obyzouth
+- Onoskelis
+- Abezethibou
+- Pruflas — Busas
+- Eurynomos — Eurynomus
+- Mulciber
+- Arioch
+- Se'irim — Sa'ir
+- Shabriri
+- Choronzon
+- Ardat-lili
+- Namtar
+- Al-Khannas — Khannas | Waswas | Al-Waswas al-Khannas
+- Si'lat — Si'la
+- Shiqq
+- Apaosha — Apaoša
+- Nasu — Druj Nasu | Nasush
+- Aka Manah — Akoman | Akem Manah
+- Pairika — Pairikas
+- Ketu
+- Shumbha
+- Nishumbha
+- Madhu
+- Kaitabha
+- Andhaka
+- Jalandhara
+- Bhasmasura
+- Indrajit — Meghnad | Meghanada
+- Brahmarakshasa — Brahmarakshas
+- Gozu and Mezu — Ox-Head and Horse-Face | Niutou Mamian | Gozu | Mezu | Ox-Head | Horse-Face
+- Red Boy — Hong Hai'er
+- Princess Iron Fan — Tieshan Gongzhu
+- Amanojaku — Amanjaku | Amanozako
+- Kijo
+- Ushi-oni — Gyuki
+- Namahage
+- Nuckelavee
+- Boruta
+- Rokita
+- Nephilim
+- Lilu
+- Alû
+- Kishi
+- Jersey Devil — Leeds Devil | Devil of the Pine Barrens
+- Hantu
+- Dakini
+- El Tío — Tio of Potosi
+- Xtabay — La Xtabay | Ixtabay
+- Camazotz — Camazots
+- Wekufe — Huecuvu | Huecufe | Wekufu
+- Chernobog — Chernabog | Czernobog | Crnobog | Black God
+- Mogwai — Mogui
+- Krasue
+- Tiyanak
+- Batibat — Bangungot
+- Bakhtak
+- Aisha Qandisha — Aicha Kandicha | Aisha Kandisha | Lalla Aicha
+- Zar
+- Anhangá
+- Jurupari — Yurupari
+- Zozo
+- Master Leonard — Leonard
+- Verrine
+- Gressil
+- Sonneillon — Sonnillon
+- Carreau
+- Carnivean — Carniveau
+- Oeillet
+- Rosier
+- Olivier
+- Luvart — Iuvart
+- Shulmus — Shulmas | Shulma
+- Al Basti — Albasty | Al Karisi
+- Ördög
+- Lidérc
+- Perkele
+- Piru
+- Hiisi
+- Lempo
+- Jumbie — Jumbee | Jumbi
+- Abere
+- Aitu
+- Nifoloa
+- Mokoi
+- Debil-debil — Devil-devil | Debbil-debbil
+- Vanth
+- Charun — Charu
+- Tuchulcha
+- Vucub Caquix — Seven Macaw
+- Zipacna
+- Cabrakan — Cabracan
+- Mahaha
+- Kappa
+- Rangda
+- Leyak — Leak
+- Pontianak — Kuntilanak | Matianak
+- Penanggalan — Penanggal
+- Aswang
+- Manananggal
+- Toyol — Tuyul
+- Humbaba — Huwawa
+- Ammit — Ammut | Devourer of the Dead
+- Apep — Apophis | Aapep
+- Watchers — Grigori
+- Quinkan — Quinkin | Quinkans | Quinkins | Imjim | Timara
+- Mamu
+- Namorrodor — Namorrodo
+- Yara-ma-yha-who
+
+### Tier 6: rare jackpots (2)
+
+- Titivillus — Tutivillus
+- Xaphan — Xapham
+
+## Refused on purpose (28)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Demon | Demons | Daemon | Daimon | Evil spirit | Unclean spirit — "That's the question. Name one."
+- Fallen angel | Fallen angels — "Which one? In Christian lore, nearly all of them were."
+- Michael | Gabriel | Raphael | Uriel | Metatron | Archangel | Angel | Cherub | Seraph | Azrael | Angel of Death — "An angel, and on the other side."
+- Hell | Gehenna | Pandemonium | Inferno | Sheol | Tartarus | Abyss | Bottomless Pit | Underworld | Xibalba | Jahannam | Purgatory | Limbo | Helheim | Diyu — "The place, not one of its residents."
+- Hades | Thanatos | Pluto | Anubis | Hel | Osiris | Yama | Ereshkigal | Mictlantecuhtli | Ah Puch | Kisin | Cizin | Persephone — "A god of the dead, not a demon."
+- Eshu | Elegua | Esu | Exu | Eleggua — "A Yoruba orisha, a trickster and messenger. Missionaries wrongly called him the Devil."
+- Cain — "The first murderer in Genesis. A man, not a demon."
+- Antichrist | The Beast | 666 | Number of the Beast | Dajjal | Al-Masih ad-Dajjal — "A deceiver foretold in scripture, usually thought of as human rather than a demon."
+- Vampire | Werewolf | Zombie | Ghost | Witch | Banshee | Poltergeist | Dracula | Golem | Goblin | Troll | Minotaur | Hydra | Cyclops | Harpy | Chimera | Typhon | Orc | Gremlin | Giant | Mummy | Kraken | Sphinx | Siren | Mermaid | Leprechaun | Baba Yaga | Skinwalker | Nosferatu | Strigoi | Jiangshi | Vrykolakas | Hobgoblin | Kelpie | Selkie | Pixie | Elf | Gnome | Dwarf | Wraith | Spectre | Phantom | La Llorona — "A creature of folklore, but not a demon."
+- Grim Reaper | Death | The Reaper — "Death personified, not a demon."
+- Gargoyle — "Carved stone, though it looks the part."
+- Boogeyman | Bogeyman | El Coco | El Cucuy | Cucuy | Sack Man — "A bogey to frighten children, not a demon of any faith."
+- Screwtape | Wormwood — "C. S. Lewis's invented tempter, from The Screwtape Letters."
+- Crowley | Aleister Crowley — "A demon from Good Omens, or a real occultist. Neither counts."
+- Hellboy | Ghost Rider | Pennywise | Freddy Krueger | Balrog | Vecna | Mind Flayer | Hastur | Ligur | Etrigan | Lord of Terror | Babadook | Slender Man | Annabelle | Bughuul | Zuul | Gozer | Dormammu | Trigon | Sauron | Morgoth | Voldemort | Dementor | Darth Vader | Thanos | Muzan | Muzan Kibutsuji | Nezuko | Tanjiro | Demon Slayer | Inuyasha | Sesshomaru | Kurama | Sebastian Michaelis | Charlie Morningstar | Angel Dust | Blitzo | Hazbin Hotel | Helluva Boss | Bill Cipher | Aku | Maleficent | Ursula | Jafar | Cyberdemon | Baron of Hell | Icon of Sin | Doom Slayer | Illidan | Sargeras | Archimonde | Kil'jaeden | Mannoroth | Pinhead | Cenobite | Slimer | Tiefling | Graz'zt | Mundus | Sam Winchester — "Invented for modern fiction."
+- Cthulhu | Azathoth | Nyarlathotep | Yog-Sothoth — "A monster from H. P. Lovecraft's stories, not a demon of any faith."
+- Kaali | Kali Ma | Goddess Kali | Mahakali | Kali Mata — "The goddess fights demons. She is not one."
+- Tiamat — "A Babylonian goddess of the primeval sea, not a demon, though Dungeons & Dragons made her one."
+- Judas | Judas Iscariot — "The apostle who betrayed Jesus. A man, not a demon."
+- Loki | Set | Zeus | Odin — "A god, however badly behaved. Not a demon."
+- God | Jesus | Jesus Christ | Christ | Holy Spirit — "Not a demon. Try the other side."
+- Four Horsemen | Four Horsemen of the Apocalypse | Horsemen of the Apocalypse | Pestilence | War | Conquest — "Riders of the Apocalypse in Revelation: bringers of the end, but not demons."
+- Drop bear | Drop bears — "Fearsome, carnivorous, and invented to frighten tourists. Not a demon of any faith."
+- Yowie | Bigfoot | Sasquatch | Mothman | Chupacabra | Loch Ness Monster | Nessie — "A hairy giant that people say they have seen: a cryptid, not a demon."
+- Tasmanian devil | Tassie devil | Tasmanian devils | Taz — "A marsupial with a foul temper and a worse scream, but no demon."
+- Maxwell's demon | Laplace's demon | Maxwell's daemon — "A thought experiment in physics: an imaginary doorkeeper sorting fast molecules from slow."
+- Red Devils | Manchester United | Man United | Melbourne Demons | New Jersey Devils | Blue Devils | Sun Devils — "A sports team, not a demon."
+- Hitler | Adolf Hitler | Stalin | My ex | My boss | Mother-in-law | My mother-in-law | The taxman — "A human being, whatever you think of them. Name a demon."

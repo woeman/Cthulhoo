@@ -1,0 +1,346 @@
+# Name a god, hero or creature of Chinese mythology.
+
+Question id: `chinese-myth` · category: myth · source: `data/myth.json`
+
+Rules: Any god, immortal, hero, demon or creature of Chinese myth, legend and folk religion, the novels Journey to the West and Investiture of the Gods included, by any of its names, Japanese and Korean ones too. Real people count only if they were later worshipped as gods.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (270 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Sun Wukong — Monkey King | Monkey | Wukong | Sun Wu-k'ung | Great Sage Equal to Heaven | Great Sage | Qitian Dasheng | Monkey Magic | Son Goku | Wuong | Handsome Monkey King | Mei Hou Wang | Stone Monkey | Suen Ng Hung | Syun Ng-hung | Wulong | Wujong | Wumong | Wuiong
+- Jade Emperor — Yu Huang | Yuhuang Dadi | Yu Di | August Personage of Jade | Jade Ruler | Yuk Wong | Yuk Wong Tai Dai | Yuk Wong Dai Dai
+- Chinese dragon — Dragon | Long | Lung | Loong | Oriental dragon | Eastern dragon | Golden dragon
+- Guanyin — Kuan Yin | Kwan Yin | Quan Yin | Kwun Yam | Guanshiyin | Kuan Shih Yin | Goddess of Mercy | Avalokiteshvara | Avalokitesvara | Kannon | Guanyn | Kuanyn | Guanyin Pusa | Guanshiyin Pusa | Gwun Yam | Kwan Im | Quan Âm
+- Chang'e — Chang-o | Heng'e | Heng-o | Moon goddess | Lady of the Moon | Moon Lady | Heng | Jōga
+- Qilin — Kirin | Ch'i-lin | Kylin | Kilin | Chinese unicorn | Kei lun | Qili
+- Fenghuang — Fung wong | Chinese phoenix | Phoenix | Feng | Hōō | Houou
+- Nüwa — Nü Kua | Nugua | Nu Kwa | Nuwa Niangniang | Joka
+- Pangu — P'an Ku | Pagu | Pang | Banko
+- Hua Mulan — Mulan | Fa Mulan | Hwa Mulan
+
+### Tier 2: common (30)
+
+- Zhu Bajie — Pigsy | Pig | Zhu Wuneng | Chu Pa-chieh | Bajie | Marshal Tianpeng | Tianpeng | Baije | Baji | Cho Hakkai | Hakkai | Pa-chieh
+- Sha Wujing — Sandy | Friar Sand | Sha Seng | Sha Heshang | Monk Sha | Sha Wu-ching | Sha Ho-shang | Wujing | Sha Monk | Sha Gojō | Sha Gojyo | Gojyo
+- Tang Sanzang — Tripitaka | Tang Seng | Tang Monk | Tang Priest | Xuanzang | Hsuan-tsang | Sanzang | San-tsang | Genjō Sanzō | Sanzō | Sanzō Hōshi
+- Nezha — Nazha | Na-cha | No Cha | Nuozha | Lotus Prince | Third Lotus Prince | Prince Nezha | Santaizi | Nataku
+- Erlang Shen — Erlang | Lord Erlang | Erh-lang | Erh Lang Shen | Yang Jian | Erlang Zhenjun | Three-eyed god | Yang Chien | Yōzen
+- Dragon King — Dragon Kings | Longwang | Lung Wang | Ao Guang | Ao Run | Ao Shun | Dragon King of the East Sea | Dragon Kings of the Four Seas | Sea Dragon King | Ryūjin | Ryuujin | Ryūō | Ao Qin
+- Queen Mother of the West — Xiwangmu | Hsi Wang Mu | Wangmu Niangniang | Wangmu | Queen Mother | Golden Mother | Yaochi Jinmu | Seiōbo
+- Houyi — Yi | Yi the Archer | Hou I | Archer Yi | Divine Archer
+- Jade Rabbit — Moon Rabbit | Moon Hare | Jade Hare | Yutu | Rabbit in the Moon | Rabbit | Hare | Moon bunny | Yuetu
+- Fuxi — Fu Hsi | Paoxi | Bao Xi | Fukki | Taihao | Fixi
+- Shennong — Shen-nung | Divine Farmer | Divine Husbandman | Emperor Shennong | Shenong | Shinnō
+- Yellow Emperor — Huangdi | Huang-ti | Xuanyuan | Xuanyuan Huangdi | Hsuan-yuan | Yellow Thearch | Hangdi | Hang-ti | Huandi | Huan-ti | Kōtei
+- Kitchen God — Stove God | Zao Jun | Zao Shen | Tsao Chün | Tsao Shen | Zao Wang | Kitchen Lord | Stove Master | Tsao Wang
+- Caishen — Ts'ai Shen | God of Wealth | Choi San | Tsai Shen Yeh | Caishen Ye | Wealth god | Money god
+- Mazu — Matsu | Tin Hau | Tianhou | T'ien Hou | Empress of Heaven | Queen of Heaven | Lin Moniang | Mazu Niangniang | A-Ma | Goddess of the Sea | Sea goddess | Masu | Matu
+- Guan Yu — Guandi | Kuan Yu | Kuan Ti | Kwan Tai | Kwan Kung | Guan Gong | Kuan Kung | Lord Guan | Emperor Guan | Guan Yunchang | Guan Laoye | Gandi | Guany | Kuany | Kan'u | Kan'u Unchō
+- Budai — Laughing Buddha | Pu-tai | Hotei | Happy Buddha | Fat Buddha | Milefo | Mi-lo Fo | Maitreya | Maitreya Buddha | Big Belly Buddha | Budi | Mi-lo
+- Jiangshi — Hopping vampire | Hopping corpse | Chinese vampire | Chinese zombie | Geung si | Kyonshi | Chiang-shih | Hopping ghost
+- Huli jing — Fox spirit | Hu-li ching | Fox fairy | Fox demon | Fox
+- Nine-tailed fox — Jiuweihu | Nine-tails | Fox with nine tails | Nine-tailed fox spirit | Kyūbi | Kyuubi | Kyūbi no Kitsune | Gumiho | Kumiho
+- Nian — Nian shou | Nien | New Year beast | New Year monster | Nian monster | Nian beast
+- Pixiu — Pi-hsiu | Pi yao | Bixie | Pi Xie | Pixi | Tianlu | T'ien-lu
+- Azure Dragon — Qinglong | Ch'ing-lung | Green Dragon | Blue Dragon | Azure Dragon of the East | Seiryu | Cerulean Dragon
+- White Tiger — Baihu | Pai-hu | Byakko | White Tiger of the West
+- Shishi — Guardian lions | Chinese guardian lions | Foo dog | Fu dog | Foo lion | Fu lion | Lion dog | Stone lions | Shi | Chinese lion | Lion | Imperial guardian lions | Shizi | Komainu
+- Bai Suzhen — White Snake | Lady White Snake | Madame White Snake | Madam White Snake | White Snake Lady | Bai Niangzi | Pai Su-chen | White Lady
+- Zhinü — Weaver Girl | Weaver | Weaving Girl | Weaving Maid | Weaver Maiden | Chih-nü | Weaver Princess
+- Niulang — Cowherd | Cowherd Boy | Herd Boy | Herdsman | Cowherder
+- Yanluo Wang — Yama | King Yama | Yanluo | Yanwang | King Yan | Yen-lo Wang | Yen Lo | Yama King | King of Hell | Lord of Hell | Lord Yama | Yim Lo Wong | Enma | Enma Daiō | Emma-ō
+- Confucius — Kongzi | Kong Fuzi | K'ung Fu-tzu
+
+### Tier 3: known to fans (44)
+
+- Black Tortoise — Xuanwu | Hsüan-wu | Black Warrior | Dark Warrior | Genbu | Black Turtle | Black Tortoise of the North | Dark Tortoise | Tortoise | Turtle
+- Vermilion Bird — Zhuque | Chu-ch'üeh | Red Bird | Scarlet Bird | Vermilion Bird of the South | Suzaku | Red Phoenix | Scarlet Phoenix
+- Meng Po — Lady Meng | Old Lady Meng | Grandmother Meng | Granny Meng | Goddess of Forgetfulness
+- Taishang Laojun — Laozi | Lao Tzu | Lao Tse | Laotze | Laojun | Daode Tianzun | T'ai-shang Lao-chün | Supreme Old Lord | Lao Tsu | Lazi | Rōshi
+- White Dragon Horse — Bai Long Ma | White Horse | Dragon Horse | Ao Lie | Yulong | White Dragon | Jade Dragon Prince
+- Bull Demon King — Niu Mowang | Demon Bull King | Bull King | Ox Demon King | Bull Demon | Gyūmaō | Gyumaoh
+- Princess Iron Fan — Iron Fan Princess | Tieshan Gongzhu | Raksasi | Lady Iron Fan | Iron Fan | Rasetsunyo | T'ieh-shan Kung-chu
+- Red Boy — Honghaier | Red Child | Shancai | Shancai Tongzi | Hung Hai-erh | Sudhana | Holy Child King | Kōgaiji | Kougaiji
+- White Bone Demon — Baigujing | White Bone Spirit | Lady White Bone | White Bone Lady | White Skeleton Demon | Skeleton Demon | White Bone Demoness | Pai-ku Ching
+- Li Jing — Pagoda-Bearing Heavenly King | Pagoda Bearer | Li Tianwang | Heavenly King Li | Tota Li Tianwang | Pagoda King | Li Ching | Li T'ien-wang
+- Rulai Buddha — Buddha | Rulai | Rulai Fo | Tathagata | Ju-lai | Sakyamuni | Shakyamuni | Gautama Buddha | Lord Buddha | Siddhartha
+- Zhong Kui — Chung K'uei | Chung Kwai | Demon Queller | Ghost catcher | Demon catcher | Shōki | Shouki
+- Tudigong — Tudi | Earth God | Earth Deity | Tu Ti | Tu-ti Kung | Tou Tei | Fude Zhengshen | Lord of the Soil | Land god | God of the Earth
+- Chenghuang — City God | Town God | Shing Wong | Chenghuang Ye
+- Menshen — Door god | Door gods | Shentu | Yulei | Qin Qiong | Yuchi Gong | Yuchi Jingde | Qin Shubao | Door guardian
+- Shouxing — Shou | Shou Lao | God of Longevity | Longevity Star | Star of Longevity | Old Man of the South Pole | Nanji Xianweng | Sau Sing | Shou-hsing | Old Man Star
+- Fuxing — Fu | Fu Star | Fortune Star | Star of Fortune | God of Fortune | Fu-hsing | Fuk Sing | Fuxin | Blessing Star
+- Luxing — Lu Star | Star of Prosperity | God of Prosperity | Prosperity Star | Lu-hsing | Luk Sing | Star of Status
+- Yue Lao — Yueh Lao | Yuexia Laoren | Old Man under the Moon | Old Man of the Moon | God of Marriage | Matchmaker god | Yu Lao
+- Leigong — Lei Kung | Thunder God | God of Thunder | Duke of Thunder | Lord of Thunder | Ligong
+- Lü Dongbin — Lü Tung-pin | Lü Zu | Ancestor Lü
+- Jiang Ziya — Jiang Taigong | Jiang Shang | Lü Shang | Taigong Wang | Chiang Tzu-ya | Chiang Tai-kung | Grand Duke Jiang | Ziya | Taikōbō | Taikoubou | Taigong
+- Daji — Su Daji | Su Ta-chi | Dakki | Ta Chi
+- Wong Tai Sin — Huang Daxian | Huang Chuping | Great Immortal Wong | Huang Ta-hsien
+- Chiyou — Ch'ih-yu | Chi Yu | Ciyu | Hiyu
+- Gonggong — Kung Kung | Kang Hui
+- Zhurong — Chu Jung | Fire God | God of Fire
+- Yan Di — Yan Emperor | Flame Emperor | Yen Ti | Red Emperor
+- Kuafu
+- Yu the Great — Da Yu | Great Yu | Yu | Ta Yu
+- Tiangou — Heavenly Dog | Celestial Dog | T'ien-kou | Sky dog | Heavenly Hound
+- Sanzuwu — Three-legged crow | Sun crow | Golden Crow | Jinwu | Three-legged bird | Crow of the Sun | Yangwu | San-tsu-wu
+- Jin Chan — Money toad | Money frog | Three-legged toad | Golden Toad | Chan Chu | Lucky toad | Fortune toad | Moon toad | Chin Ch'an
+- Bai Ze — Pai-tse | Hakutaku
+- Taotie — T'ao-t'ieh | Glutton | Tōtetsu
+- Peng — Peng bird | Dapeng | Kunpeng | Great Peng | Golden-winged Peng
+- Hungry ghost — E gui | Preta | Hungry spirit | Gaki
+- Yaoguai — Yao-kuai | Yaojing | Yaomo | Yokai
+- Xiaoqing — Green Snake | Qingshe | Little Green | Blue Snake | Hsiao-ch'ing
+- Fahai — Monk Fahai | Abbot Fahai
+- Liang Shanbo — Liang Shan-po | Shanbo
+- Zhu Yingtai — Chu Ying-t'ai | Yingtai
+- Zhao Gongming — Chao Kung-ming | Marshal Zhao | Zhao Xuantan
+- Wu Gang — Man in the Moon | Woodcutter in the Moon | Moon woodcutter | Wu Kang
+
+### Tier 4: obscure (64)
+
+- Six-eared Macaque — Liu'er Mihou | False Monkey King | Fake Monkey King | Six-eared Monkey
+- Golden Horn and Silver Horn — Golden Horn | Silver Horn | Jinjiao | Yinjiao | Golden Horn King | Silver Horn King
+- Taibai Jinxing — Taibai | T'ai-pai Chin-hsing | Great White Planet | Gold Star of Venus | Venus Star | Li Changgeng
+- Xiaotian Quan — Howling Celestial Dog | Roaring Celestial Dog | Erlang's dog | Celestial Hound | Hsiao-t'ien Ch'üan
+- Ao Bing — Ao Ping | Third Prince Ao Bing
+- Dizang — Dizang Wang | Ksitigarbha | Kshitigarbha | Ti-tsang | Dizang Pusa | Earth Store Bodhisattva | Earth Treasury Bodhisattva | Jizō | Jizou
+- Yuanshi Tianzun — Yuanshi | Yuan-shih T'ien-tsun | Primordial Lord of Heaven | Celestial Worthy of Primordial Beginning | Yuqing
+- Wenchang Wang — Wenchang | Wenchang Dijun | God of Literature | Man Cheong
+- Dianmu — Tien Mu | Mother of Lightning | Lightning Goddess | Goddess of Lightning
+- Fengbo — Fei Lian | Wind God | God of the Wind | Earl of Wind | Lord of the Wind | Feng Po
+- Yushi — Rain Master | Master of Rain | Rain God | God of Rain | Yü-shih | Lord of Rain
+- He Bo — River Earl | Earl of the River | Count of the River | Lord of the River | Ho Po | River God | Bingyi | Yellow River god
+- Zhang Guolao — Chang Kuo-lao | Zhang Guo | Elder Zhang Guo
+- Han Xiangzi — Han Hsiang-tzu | Han Xiang
+- He Xiangu — Ho Hsien-ku | Immortal Woman He
+- Lan Caihe — Lan Ts'ai-ho
+- Li Tieguai — Iron-crutch Li | Li T'ieh-kuai | Tieguai Li | Iron Crutch
+- Cao Guojiu — Ts'ao Kuo-chiu | Royal Uncle Cao | Imperial Uncle Cao
+- Zhongli Quan — Han Zhongli | Chung-li Ch'üan | Han Chung-li
+- Leizhenzi — Lei Chen-tzu
+- Shen Gongbao — Shen Kung-pao
+- Xihe — Hsi-ho | Mother of the Suns | Sun goddess | Sun mother
+- Jingwei — Ching-wei | Jingwei bird
+- Xingtian — Hsing-t'ien | Headless giant
+- Cangjie — Ts'ang Chieh
+- Emperor Yao — Yao | Tang Yao | Di Yao | Yao the Great
+- Emperor Shun — Shun | Yu Shun | Di Shun | Shun the Great
+- Ox-Head and Horse-Face — Ox-Head | Horse-Face | Niutou Mamian | Niutou | Mamian | Bull Head and Horse Face
+- Heibai Wuchang — Black and White Impermanence | Hei Wuchang | Bai Wuchang | Wuchang | White Impermanence | Black Impermanence | Xie Bi'an | Fan Wujiu | Hak Bak Mo Seung
+- Xu Xian — Hsü Hsien | Xu Xuan | Xu Hanwen
+- Meng Jiangnü — Lady Meng Jiang | Meng Jiang | Meng Chiang-nü
+- Dong Yong — Tung Yung
+- Seventh Fairy — Seven Fairies | Qi Xiannü | Seventh Fairy Maiden | Seventh Heavenly Princess | Ch'i Hsien-nü
+- Judge Bao — Bao Zheng | Bao Gong | Pao Kung | Bao Qingtian | Justice Bao | Pao Cheng | Lord Bao | Judge Pao
+- Xiezhi — Hsieh-chih | Xiezhai | Haizhi | Haechi | Haetae | Kaichi
+- Hundun — Hun-tun | Chaos | Emperor Hundun | Konton | Dijiang
+- Qiongqi — Ch'iung-ch'i
+- Taowu
+- Yellow Dragon — Huanglong | Huang-lung | Yellow Dragon of the Centre | Yellow Dragon of the Center | Kōryū
+- Bixi — Baxia | Stele-bearing tortoise
+- Jiaolong — Jiao | Flood dragon | Chiao-lung
+- Yinglong — Ying-lung | Responding Dragon | Winged dragon
+- Shenlong — Spirit Dragon | Divine Dragon | Shenron | Shen-lung
+- Kun — Kun fish
+- Bifang — Pi-fang | Bifang bird
+- Xiangliu — Hsiang-liu | Xiangyao | Nine-headed snake
+- Kui — Kui ox | One-legged Kui
+- Gui — Kuei | Kwei | Gwai | Chinese ghost
+- Shangdi — Shang Ti | Lord on High
+- Tian — T'ien | Heaven god
+- Leizu — Xiling | Silkworm goddess | Goddess of silk | Silk goddess | Lady of the Silkworms | Lei-tsu
+- Houtu — Houtu Niangniang | Empress Earth | Sovereign Earth | Earth goddess
+- Qu Yuan — Ch'ü Yüan | Qu Ping
+- Jigong — Crazy Monk | Mad Monk | Living Buddha Ji Gong
+- Luoshen — Goddess of the Luo River | Luo River Goddess | Nymph of the Luo River | Fufei | Lady of the Luo
+- Xuantian Shangdi — Zhenwu | Pak Tai | Beidi | Zhenwu Dadi | Xuanwu Dadi | Emperor of the North | Perfected Warrior | True Warrior | Hsüan-t'ien Shang-ti | Chen-wu
+- Zhuge Liang — Kongming | Zhuge Kongming | Chu-ko Liang | Sleeping Dragon | Kōmei | Shokatsu Ryō
+- Liu Bei
+- Yue Fei — Yueh Fei | Yue Wumu | Yue Wang | Yue Pengju
+- Tai Sui — Grand Duke Jupiter | Tai Sui Xingjun | Grand Year Star | Tai Sui god | Fan Tai Sui
+- Longnü — Dragon Girl | Dragon Maiden | Lung Nü | Ryūnyo
+- Yugong — Foolish Old Man | Foolish Old Man who removed the mountains | Foolish Old Man Who Moved the Mountains
+- Nie Xiaoqian — Nip Siu-sin | Nie Hsiao-ch'ien | Siu Sin
+- Jiutian Xuannü — Xuannü | Mysterious Lady of the Nine Heavens | Dark Lady
+
+### Tier 5: expert (120)
+
+- Yellow Wind Demon — Yellow Wind King | Huangfeng Guai | Yellow Wind Monster | Yellow Wind Sage
+- Black Bear Demon — Black Bear Spirit | Black Bear King | Black Wind King | Heixiong Jing | Black Bear Monster | Black Bear Guai
+- Spider Demons — Spider Demon | Spider Spirits | Seven Spider Demons | Spider women | Spider Sisters
+- Scorpion Demon — Scorpion Spirit | Scorpion Demoness | Scorpion Queen
+- Yellow-Robed Demon — Yellow Robe Demon | Huangpao Guai | Yellow-robed Monster
+- Subhuti — Puti Zushi | Patriarch Subhuti | Patriarch Puti | Bodhi Patriarch
+- Lingbao Tianzun — Lingbao | Ling-pao T'ien-tsun | Taishang Daojun | Shangqing
+- Amitabha — Amitabha Buddha | Amituofo | Amitofo | O-mi-to-fo | Amida
+- Wenshu — Wenshu Pusa | Manjushri | Manjusri | Bodhisattva of Wisdom | Monju
+- Puxian — Puxian Pusa | Samantabhadra | P'u-hsien | Fugen
+- Weituo — Wei T'o | Skanda | Weituo Pusa | Idaten
+- Kuixing — K'uei-hsing | God of Examinations
+- Changxi — Ch'ang-hsi | Mother of the Moons | Mother of the Twelve Moons
+- Taiyi — T'ai-i | Donghuang Taiyi | Eastern Emperor Taiyi | Grand One | Great Unity
+- Taiyi Zhenren — Master Taiyi | T'ai-i Chen-jen
+- King Father of the East — Dongwanggong | Tung Wang Kung | Mugong | Duke of the East | Lord King of the East
+- Che Kung — Che Gong | Marshal Che | Grand Marshal Che
+- Tam Kung
+- Hung Shing — Hong Sheng | Hung Shing Kung | Hung Hei
+- Baosheng Dadi — Baosheng | Wu Tao | Wu Ben | Emperor Baosheng
+- Bixia Yuanjun — Lady of Mount Tai | Goddess of Mount Tai | Taishan Niangniang | Princess of the Azure Clouds | Sovereign of the Azure Clouds
+- Qianliyan and Shunfeng'er — Qianliyan | Shunfeng'er | Thousand Li Eye | Thousand-Mile Eye | Wind-Following Ear | Thousand Li Eye and Wind Following Ear
+- Wen Zhong — Grand Tutor Wen | Wen Taishi
+- Hongjun Laozu — Hongjun | Hung-chün Lao-tsu | Daoist Hongjun | Patriarch Hongjun
+- Tongtian Jiaozhu — Tongtian | T'ung-t'ien Chiao-chu | Lord Tongtian | Master Tongtian
+- Houji — Hou Chi | Lord Millet | Prince Millet | Millet god | God of millet
+- Gun — Gun, father of Yu
+- Zhuanxu — Chuan-hsü | Gaoyang | Emperor Zhuanxu
+- Di Ku — Emperor Ku | Ku | Ti K'u | Gaoxin
+- Suiren — Suirenshi | Sui-jen | Fire Driller
+- Goumang — Kou-mang | God of Spring | Spring god
+- Dongyue Dadi — Dongyue | Great Emperor of the Eastern Peak | Emperor of the Eastern Peak | Emperor of Mount Tai | Lord of Mount Tai | Taishan Fujun | Tung-yüeh Ta-ti | God of Mount Tai
+- Doumu — Tou Mu | Mother of the Big Dipper | Dipper Mother | Doumu Yuanjun
+- Lu Ban — Lu Pan | Gongshu Ban | Kung-shu Pan
+- Wu Zixu — Wu Tzu-hsü | Tide god | God of the Tide
+- Zhang Daoling — Zhang Tianshi | Celestial Master Zhang | Chang Tao-ling | Zhang Ling | Heavenly Master Zhang
+- Magu — Hemp Maiden | Ma Ku
+- Pengzu — P'eng Tsu | Old Peng
+- Dongfang Shuo — Tung-fang Shuo
+- Ehuang and Nüying — Ehuang | Nüying | Xiang Goddesses | Goddesses of the Xiang | Xiang Furen | Xiangjun
+- Zhang Fei — Chang Fei | Zhang Yide
+- Duowen Tianwang — Duowen | Vaisravana | Vaishravana | Heavenly King of the North | Tamonten | Bishamonten | Bishamon
+- Chiguo Tianwang — Chiguo | Dhritarashtra | Heavenly King of the East | Jikokuten
+- Zengzhang Tianwang — Zengzhang | Virudhaka | Heavenly King of the South | Zōchōten
+- Guangmu Tianwang — Guangmu | Virupaksha | Virupaksa | Heavenly King of the West | Kōmokuten
+- Chiwen — Ch'ih-wen | Chiwei | Roof dragon
+- Pulao — Bell dragon
+- Bi'an
+- Qiuniu — Ch'iu-niu
+- Yazi
+- Suanni
+- Jiaotu — Chiao-t'u
+- Zhulong — Torch Dragon | Zhuyin | Candle Dragon
+- Panlong — P'an-lung | Coiled dragon
+- Longmu — Dragon Mother | Lung Mo
+- Jiufeng — Nine-headed bird | Nine-headed phoenix | Chiu-feng
+- Yeren — Yeh-jen | Chinese wildman | Wildman | Chinese Bigfoot | Chinese yeti | Shennongjia wildman
+- Bashe — Ba snake | Pa She | Elephant-eating snake
+- Mencius — Mengzi | Meng-tzu | Second Sage
+- Bi Gan — Pi Kan | Wen Caishen
+- Fan Li — Tao Zhu Gong | Fan Li Tao Zhu Gong
+- Hua Tuo — Hua T'o
+- Yaowang — Sun Simiao | Medicine King | King of Medicine
+- Zhuangzi — Chuang Tzu | Zhuang Zhou | Nanhua Zhenren
+- Bodhidharma — Damo | Tamo | Daruma
+- Zheng He — Cheng Ho | Sam Po Kong | Sam Poo Kong | Sanbao
+- Koxinga — Zheng Chenggong | Kaishan Shengwang
+- Muzha — Mucha | Huian
+- Jinzha
+- Qingniao — Ch'ing-niao | Blue Bird of the Queen Mother | Three Green Birds
+- Shaohao — Jintian | Shaohao Jintian
+- Youchao — Youchaoshi | Nest Builder
+- Fangfeng — Fangfeng Shi
+- Wuzhiqi — Wu-chih-ch'i
+- Lu Wu
+- Kaiming Shou — Kaiming | Kaiming beast
+- Longma — Lung-ma | Yellow River dragon horse
+- Chaofeng
+- Qiulong — Ch'iu-lung | Qiu
+- Luan — Luanniao | Luan bird
+- Jiuying — Chiu-ying | Nine Infants
+- Fengxi — Giant boar
+- Yayu — Zhayu
+- Zaochi — Chisel Teeth
+- Dafeng — Great Wind
+- Feiyi — Fei-i
+- Zhenniao — Zhen bird | Chen-niao | Poison bird
+- Chimei Wangliang — Chimei | Wangliang | Ch'ih-mei Wang-liang
+- Painted Skin — Hua Pi | Painted skin demon
+- Nü gui — Female ghost
+- Shuigui — Water ghost | Drowned ghost
+- Diaosigui — Hanged ghost
+- Mu Guiying — Mu Kuei-ying
+- Qingshui Zushi — Qingshui | Chhing-chui Chou-su | Ancestral Master of Clear Water
+- Wangye — Royal Lords | Ong-ia | Wangye gods
+- Jinhua Niangniang — Kam Fa | Lady Golden Flower | Golden Flower Lady
+- Zigu — Keng San Gu | Lady Purple | Toilet goddess
+- Hehe Erxian — He-He Twins | Twin Immortals of Harmony | Hanshan and Shide
+- Liu Hai — Liu Haichan | Lau Hoi
+- Matouniang — Can Nü | Horse-headed Lady | Silkworm maiden
+- Linshui Furen — Chen Jinggu | Lady Linshui
+- Chisongzi — Master Red Pine | Red Pine | Ch'ih-sung-tzu
+- Huye — Tiger Lord | Tiger God
+- Hundred-Eyed Demon Lord — Hundred-Eyed Daoist Master | Hundred-Eyed Daoist | Baiyan Mojun | Centipede demon
+- Yellow Brows — Yellowbrow | Yellow Brows Great King | Huangmei Dawang | Huangmei
+- Lingxuzi
+- Tiger Vanguard
+- Jade-faced Princess — Yumian Gongzhu
+- Green Lion Demon — Green-haired Lion | Azure Lion Demon
+- White Elephant Demon — Yellow-tusked Elephant
+- Nine-headed Lion — Jiuling Yuansheng | Nine-Spirit Primal Sage
+- Huang Feihu
+- Kong Xuan
+- Randeng Daoren — Randeng | Dipankara
+- Cihang Zhenren — Cihang | Cihang Daoren
+- Lady Yin — Yin Shiniang | Madam Yin
+- Huaguang Dadi — Huaguang | Ma Tianjun | Marshal Ma | Wa Kwong
+- Wang Lingguan — Lingguan | Wang Shan
+- Tianguan — Heavenly Official | Tianguan Dadi | Official of Heaven
+- Mo — Mo beast | Mo tapir
+
+### Tier 6: rare jackpots (2)
+
+- Luduan — Lu-tuan
+- Hanba — Han-pa | Drought demon | Drought goddess | Drought fiend | Goddess of drought
+
+## Refused on purpose (42)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Cthulhu — "A monster from H. P. Lovecraft's stories, not from Chinese myth."
+- Kitsune — "Japan's fox spirit. Give its Chinese cousin, in Chinese or in English."
+- Oni | Kappa | Raijin | Amaterasu | Susanoo | Izanagi | Izanami | Tanuki | Kami | Yamata no Orochi | Inari | Tengu — "From Japanese folklore, not Chinese."
+- Dokkaebi | Bulgasari | Imugi | Dangun — "From Korean folklore, not Chinese."
+- Mushu | Cri-Kee — "Disney's little dragon, made up for the 1998 film Mulan."
+- Kung Fu Panda | Po | Master Oogway | Oogway | Master Shifu | Shifu | Tai Lung | Tigress | Furious Five | Lord Shen | Mantis | Viper | Mr. Ping | Kai — "A DreamWorks film hero, not a figure of myth."
+- Shang-Chi — "A Marvel hero, created for comics in 1973."
+- Goku | Kakarot | Dragon Ball | Dragon Ball Z — "Dragon Ball's hero borrowed the Monkey King's name. Give the original."
+- Mogwai | Gremlin | Gizmo — "Gizmo's kind in the 1984 film Gremlins, though the word is Cantonese for a devil."
+- Rat | Ox | Horse | Goat | Sheep | Ram | Rooster | Cockerel | Dog | Zodiac | Chinese zodiac | Zodiac animals | Twelve animals — "A real animal, one of the twelve of the zodiac. Name a god or a creature of legend."
+- Tiger — "A real animal of the zodiac. If you mean a guardian of the sky, give it its colour."
+- Snake | Serpent — "A real animal of the zodiac. If you mean the legend, give the snake its colour."
+- Giant panda | Panda | Red panda — "A real animal, and a national treasure, but not a myth."
+- Carp | Koi | Koi carp | Golden carp — "A real fish, though legend says one that leaps the Dragon Gate becomes a dragon."
+- Vampire | Zombie | Ghoul — "From other lands. China's undead hop, and have a name of their own."
+- Unicorn — "The European one. China's one-horned beasts have names of their own."
+- Roc | Rukh — "The giant bird of Arabian tales. China's has a name of its own."
+- Diyu | Chinese hell | Hell | Naraka | Fengdu | Youdu | Underworld | Heaven | Penglai | Mount Penglai | Kunlun | Mount Kunlun | Jade Palace | Celestial Court | Heavenly Court | Mount Huaguo | Flower Fruit Mountain | Moon Palace | Guanghan Palace | Mount Buzhou | Tianting | Dragon Palace | Crystal Palace | Yaochi | Jade Pool | Five Elements Mountain | Mount Tai — "A place, not a being. Name someone who lives there."
+- Ruyi Jingu Bang | Golden Cudgel | Jingu Bang | Ruyi Bang | Monkey's staff | Peach of Immortality | Peaches of Immortality | Elixir of life | Elixir of immortality | Dragon pearl | Wind Fire Wheels | Universe Ring | Golden Headband | Banana Leaf Fan | Red thread of fate — "An object, not a being. Name whoever owned it."
+- Yin and yang | Yin yang | Tao | Dao | Taoism | Daoism | Qi | Chi | Feng shui | Bagua | I Ching | Five Elements | Tai chi | Kung fu | Karma | Confucianism | Buddhism — "An idea or a practice, not a being."
+- Journey to the West | Xiyouji | Investiture of the Gods | Fengshen Yanyi | Creation of the Gods | Water Margin | Romance of the Three Kingdoms | Three Kingdoms | Dream of the Red Chamber | Classic of Mountains and Seas | Shanhaijing | Black Myth: Wukong | Black Myth | Legend of the White Snake | Strange Tales from a Chinese Studio | Liaozhai — "A book, story or game, not a being. Name someone in it."
+- Sun Tzu | Sunzi | The Art of War — "A general of history, credited with The Art of War, not a figure of myth."
+- Qin Shi Huang | First Emperor | Shi Huangdi | Qin Shi Huangdi — "China's first emperor, a real man, though he hunted for the elixir of life."
+- Terracotta Army | Terracotta Warriors — "Real clay soldiers, buried with China's first emperor. Not a myth."
+- Cao Cao | Lü Bu | Sun Quan | Sima Yi | Dong Zhuo | Huang Zhong | Ma Chao | Zhao Yun | Diaochan — "A real man of the Three Kingdoms, a hero or villain of history and the novel rather than a god."
+- Song Jiang | Wu Song | Lin Chong | Li Kui | Lu Zhishen | Yan Qing | Hu Sanniang — "An outlaw hero of the novel Water Margin, a tale of bandits rather than of gods."
+- Eight Immortals | Ba Xian | Pa Hsien — "Which one? Name one of the eight."
+- Immortal | Immortals | God | Gods | Goddess | Deity | Spirit | Demon | Monster | Ghost | Fairy | Celestial | Hsien | Chinese god | Chinese gods | Chinese demon | Shen — "Which one? Name a particular god, immortal, spirit or beast."
+- Four Symbols | Four Guardians | Si Xiang | Four Benevolent Animals | Four Auspicious Beasts | Four Celestial Animals | Four Holy Beasts — "Which one? Name one of the four."
+- Four Perils | Four Fiends | Si Xiong | Four Evils — "Which one? Name one of the four."
+- Nine Sons of the Dragon | Nine Sons | Dragon's sons | Longsheng Jiuzi — "Which one? Name one of the nine."
+- Four Heavenly Kings | Four Great Heavenly Kings | Four Kings | Sida Tianwang | Four Diamond Kings | Lokapalas — "Which one? Name one of the four."
+- Three Pure Ones | Sanqing | Three Purities — "Which one? Name one of the three."
+- Fu Lu Shou | Three Star Gods | Sanxing | Three Stars | Fuk Luk Sau | Three Lucky Gods — "Which one? Name one of the three star gods."
+- Butterfly Lovers | Liang Zhu | Liang Shanbo and Zhu Yingtai — "Which one? Name one of the two lovers."
+- Cowherd and Weaver Girl | The Cowherd and the Weaver Girl | Niulang and Zhinu | Cowherd and Weaver — "Which one? Name one of the two lovers."
+- Five Emperors | Three Sovereigns | Three Sovereigns and Five Emperors | San Huang Wu Di | Three August Ones — "Which one? Name one of them."
+- Ten Kings of Hell | Ten Kings | Ten Yama Kings | Ten Judges of Hell | Ten Courts of Hell — "Which one? Name one, or the best known of them."
+- Chinese New Year | Lunar New Year | Spring Festival | Mid-Autumn Festival | Moon Festival | Lantern Festival | Dragon Boat Festival | Qixi | Qixi Festival | Ghost Festival | Hungry Ghost Festival | Qingming | Double Ninth | Lion dance | Dragon dance | Firecrackers | Red envelope | Hongbao | Mooncake | Lantern — "A festival or a custom, not a being. Name someone who turns up for it."
+- Cat — "Legend says the rat tricked the cat out of the zodiac race. A real animal: name a god or a creature of legend."
+- Li Shang | Captain Li Shang — "Made up for Disney's 1998 film Mulan, not the old ballad."
+- Destined One — "The hero made up for the game Black Myth: Wukong. Name someone from the novel."

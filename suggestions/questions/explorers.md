@@ -1,0 +1,473 @@
+# Name an explorer.
+
+Question id: `explorers` · category: history · source: `data/history.json`
+
+Rules: Any real explorer of land, sea, ice, sky or space, from any age. Astronauts, pioneering aviators and great mountaineers count; a surname is enough, and one that explorers shared counts as the best known of them.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (425 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Christopher Columbus — Columbus | Cristoforo Colombo | Cristóbal Colón | Colon | Chris Columbus
+- Marco Polo — Polo
+- James Cook — Cook | Captain Cook | Captain James Cook | Capt Cook | Cpt Cook
+- Ferdinand Magellan — Magellan | Fernão de Magalhães | Fernando de Magallanes
+- Vasco da Gama — da Gama | Gama
+- Francis Drake — Drake | Sir Francis Drake
+- David Livingstone — Livingstone | Dr Livingstone | Doctor Livingstone
+- Roald Amundsen — Amundsen
+- Ernest Shackleton — Shackleton | Sir Ernest Shackleton
+- Robert Falcon Scott — Scott | Captain Scott | Scott of the Antarctic | Robert Scott | Captain Robert Scott | Captain Robert Falcon Scott | Capt Scott
+- Edmund Hillary — Hillary | Sir Edmund Hillary | Ed Hillary | Sir Ed Hillary | Sir Edmund Percival Hillary
+- Neil Armstrong — Armstrong
+
+### Tier 2: common (35)
+
+- Amerigo Vespucci — Vespucci | Américo Vespucio
+- Leif Erikson — Leif Ericson | Leif Eriksson | Leif the Lucky | Erikson | Ericson | Eriksson
+- Erik the Red — Eric the Red | Erik Thorvaldsson
+- Walter Raleigh — Raleigh | Ralegh | Walter Ralegh | Sir Walter Raleigh
+- Henry Hudson — Hudson
+- John Cabot — Giovanni Caboto | Cabot
+- Bartolomeu Dias — Dias | Diaz | Bartholomew Diaz | Bartolomeu Diaz
+- Abel Tasman — Tasman | Abel Janszoon Tasman
+- Jacques Cartier — Cartier
+- Zheng He — Cheng Ho | Admiral Zheng He
+- Ibn Battuta — Battuta | Ibn Batuta
+- Hernán Cortés — Cortés | Cortez | Hernando Cortés | Hernan Cortez
+- Francisco Pizarro — Pizarro
+- Henry Morton Stanley — Stanley | H. M. Stanley | Henry Stanley | Stanley and Livingstone
+- Richard Burton — Burton | Sir Richard Burton | Richard Francis Burton
+- Mungo Park — Park
+- Meriwether Lewis — Lewis | Lewis and Clark
+- William Clark — Clark
+- Sacagawea — Sacajawea | Sakakawea
+- Robert O'Hara Burke — Burke | Burke and Wills | Robert Burke | Bruke
+- Robert Peary — Peary
+- Fridtjof Nansen — Nansen
+- John Franklin — Franklin | Sir John Franklin
+- Douglas Mawson — Mawson | Sir Douglas Mawson
+- Lawrence Oates — Oates | Captain Oates | Titus Oates
+- Ranulph Fiennes — Fiennes | Sir Ranulph Fiennes | Ran Fiennes | Sir Ranulph Twisleton-Wykeham-Fiennes | Ranulph Twisleton-Wykeham-Fiennes
+- Tenzing Norgay — Tenzing | Sherpa Tenzing | Tenzing Norkay | Norgay | Sherpa Tenzing Norgay | Tenzing Norgay Sherpa
+- Yuri Gagarin — Gagarin
+- Buzz Aldrin — Aldrin | Edwin Aldrin | Buzz | Edwin Buzz Aldrin | Edwin Eugene Aldrin
+- Valentina Tereshkova — Tereshkova
+- Tim Peake — Peake | Major Tim Peake
+- Amelia Earhart — Earhart
+- Charles Lindbergh — Lindbergh
+- Jacques Cousteau — Cousteau | Jacques-Yves Cousteau
+- Bear Grylls — Grylls | Edward Grylls
+
+### Tier 3: known to fans (55)
+
+- Sebastian Cabot
+- Pedro Álvares Cabral — Cabral
+- Vasco Núñez de Balboa — Balboa
+- Juan Ponce de León — Ponce de León | Ponce
+- Hernando de Soto — de Soto | Soto
+- Francisco Vázquez de Coronado — Coronado
+- Juan Sebastián Elcano — Elcano | del Cano | Juan Sebastián del Cano
+- Francisco de Orellana — Orellana
+- Henry the Navigator — Prince Henry the Navigator | Infante Henrique
+- Samuel de Champlain — Champlain
+- Giovanni da Verrazzano — Verrazzano | Verrazano
+- Martin Frobisher — Frobisher
+- Willem Barentsz — Barentsz | Barents | William Barents
+- Vitus Bering — Bering
+- George Vancouver — Vancouver
+- Matthew Flinders — Flinders
+- William Dampier — Dampier
+- William Bligh — Bligh | Captain Bligh
+- Thor Heyerdahl — Heyerdahl
+- John Hanning Speke — Speke | John Speke
+- Samuel Baker — Baker
+- Mary Kingsley — Kingsley
+- Gertrude Bell — Bell
+- Daniel Boone — Boone
+- Alexander Mackenzie — Mackenzie | Sir Alexander Mackenzie
+- Alexander von Humboldt — Humboldt
+- Percy Fawcett — Fawcett | Colonel Fawcett
+- Hiram Bingham — Bingham
+- William John Wills — Wills
+- Charles Darwin — Darwin
+- Joseph Banks — Banks | Sir Joseph Banks
+- Matthew Henson — Henson
+- James Clark Ross — Sir James Clark Ross | Ross
+- Richard E. Byrd — Byrd | Admiral Byrd | Richard Byrd
+- Tom Crean — Crean
+- George Mallory — Mallory
+- Reinhold Messner — Messner
+- Alexei Leonov — Leonov
+- John Glenn — Glenn
+- Alan Shepard — Shepard
+- Sally Ride — Ride
+- Helen Sharman — Sharman
+- Chris Hadfield — Hadfield
+- Kalpana Chawla — Chawla
+- Sunita Williams — Suni Williams | Williams
+- Michael Collins — Collins
+- Jim Lovell — Lovell | James Lovell
+- Amy Johnson — Johnson
+- Louis Blériot — Blériot
+- John Alcock — Alcock | Alcock and Brown
+- Jacques Piccard — Piccard
+- Robert Ballard — Ballard
+- Michael Palin — Palin
+- David Attenborough — Attenborough | Sir David Attenborough
+- Wright brothers — Orville Wright | Wilbur Wright | Wright | Orville and Wilbur Wright | Wilbur and Orville Wright
+
+### Tier 4: obscure (121)
+
+- Louis Antoine de Bougainville — Bougainville
+- Jean-François de La Pérouse — La Pérouse
+- William Baffin — Baffin
+- John Davis — Davis
+- Thomas Cavendish — Cavendish
+- Willem Janszoon — Janszoon | Willem Jansz
+- Dirk Hartog — Hartog
+- Martín Alonso Pinzón — Pinzón
+- Diogo Cão — Diogo Cam
+- Álvar Núñez Cabeza de Vaca — Cabeza de Vaca
+- Lope de Aguirre — Aguirre
+- Xuanzang — Hiuen Tsang | Hsuan Tsang
+- Zhang Qian — Chang Ch'ien
+- Leo Africanus
+- James Bruce — Bruce
+- Florence Baker
+- René Caillié — Caillié
+- Heinrich Barth — Barth
+- Hugh Clapperton — Clapperton
+- Richard Lander — Lander
+- Pierre Savorgnan de Brazza — de Brazza | Brazza
+- Johann Ludwig Burckhardt — Burckhardt | Jean Louis Burckhardt
+- Wilfred Thesiger — Thesiger
+- Freya Stark — Stark
+- Isabella Bird — Bird
+- Sven Hedin — Hedin
+- Nikolai Przhevalsky — Przhevalsky | Przewalski | Przhevalski
+- Aurel Stein — Stein
+- Francis Younghusband — Younghusband
+- Heinrich Harrer — Harrer
+- Roy Chapman Andrews — Andrews | Chapman Andrews
+- Zebulon Pike — Pike
+- John C. Frémont — Frémont | John Charles Frémont
+- Jedediah Smith
+- Kit Carson — Carson
+- John Wesley Powell — Powell
+- John Smith — Captain John Smith | Smith
+- Simon Fraser — Fraser
+- David Thompson — Thompson
+- Samuel Hearne — Hearne
+- Pierre-Esprit Radisson — Radisson
+- Jacques Marquette — Marquette | Père Marquette
+- Louis Jolliet — Jolliet | Joliet
+- René-Robert Cavelier de La Salle — La Salle | Sieur de La Salle
+- John McDouall Stuart — Stuart | McDouall Stuart
+- Ludwig Leichhardt — Leichhardt
+- Charles Sturt — Sturt
+- Edward John Eyre — Eyre
+- Hamilton Hume — Hume
+- Gregory Blaxland — Blaxland | Blaxland, Lawson and Wentworth
+- George Bass — Bass
+- Alfred Russel Wallace — Wallace
+- Frederick Cook — Dr Frederick Cook
+- John Ross — Sir John Ross
+- William Edward Parry — Parry | William Parry
+- Robert McClure — McClure
+- John Rae — Rae
+- Salomon August Andrée — Andrée
+- Umberto Nobile — Nobile
+- Knud Rasmussen — Rasmussen
+- Vilhjalmur Stefansson — Stefansson
+- Wally Herbert — Herbert
+- Adolf Erik Nordenskiöld — Nordenskiöld | Nordenskjöld
+- Edward Wilson — Wilson | Edward Adrian Wilson | Bill Wilson
+- Henry Bowers — Bowers | Birdie Bowers
+- Edgar Evans — Evans
+- Apsley Cherry-Garrard — Cherry-Garrard
+- Frank Wild — Wild
+- Frank Worsley — Worsley
+- Frank Hurley — Hurley
+- Jules Dumont d'Urville — Dumont d'Urville | d'Urville
+- Fabian von Bellingshausen — Bellingshausen | Thaddeus Bellingshausen
+- Vivian Fuchs — Fuchs | Sir Vivian Fuchs | Bunny Fuchs
+- Robert Swan — Swan
+- Mike Horn — Horn
+- Sandy Irvine — Andrew Irvine | Irvine
+- Junko Tabei — Tabei
+- Chris Bonington — Bonington | Sir Chris Bonington
+- Edward Whymper — Whymper
+- Nirmal Purja — Nims Purja | Nimsdai | Purja
+- Rakesh Sharma — Sharma
+- Mae Jemison — Jemison
+- Eileen Collins
+- Gene Cernan — Cernan | Eugene Cernan
+- Pete Conrad — Conrad
+- Alan Bean — Bean
+- Edgar Mitchell — Mitchell
+- Gus Grissom — Grissom | Virgil Grissom
+- Gherman Titov — Titov
+- Yang Liwei
+- Peggy Whitson — Whitson
+- Christina Koch — Koch
+- Scott Kelly — Kelly
+- Samantha Cristoforetti — Cristoforetti
+- Thomas Pesquet — Pesquet
+- Arthur Whitten Brown — Brown | Arthur Brown
+- Charles Kingsford Smith — Kingsford Smith
+- Jean Batten — Batten
+- Beryl Markham — Markham
+- Steve Fossett — Fossett
+- Richard Branson — Branson
+- Auguste Piccard
+- Bertrand Piccard
+- Don Walsh — Walsh
+- Sylvia Earle — Earle
+- James Cameron — Cameron
+- Levison Wood
+- Steve Backshall — Backshall
+- Ed Stafford
+- Ben Fogle — Fogle
+- Reid Wiseman — Wiseman
+- Victor Glover — Glover
+- Jeremy Hansen — Hansen
+- Shubhanshu Shukla — Shukla | Shux
+- Chuck Yeager — Yeager | Charles Yeager
+- Montgolfier brothers — Montgolfier | Joseph-Michel Montgolfier | Jacques-Étienne Montgolfier | Joseph Montgolfier | Étienne Montgolfier
+- Alberto Santos-Dumont — Santos-Dumont
+- Francis Chichester — Chichester | Sir Francis Chichester
+- Robin Knox-Johnston — Knox-Johnston | Sir Robin Knox-Johnston
+- Ellen MacArthur — MacArthur | Dame Ellen MacArthur | Ellen McArthur
+- Antonio Pigafetta — Pigafetta
+
+### Tier 5: expert (199)
+
+- Humphrey Gilbert — Gilbert
+- Jacob Roggeveen — Roggeveen
+- Samuel Wallis — Wallis
+- Philip Carteret — Carteret
+- John Byron — Byron
+- Alessandro Malaspina — Malaspina
+- Antoine Bruni d'Entrecasteaux — d'Entrecasteaux | Entrecasteaux
+- Nicolas Baudin — Baudin
+- Adam Johann von Krusenstern — Krusenstern
+- Juan Rodríguez Cabrillo — Cabrillo
+- Sebastián Vizcaíno — Vizcaíno
+- Álvaro de Mendaña — Mendaña
+- Pedro Fernandes de Queirós — Queirós
+- Luis Váez de Torres — Torres
+- Vicente Yáñez Pinzón
+- Gil Eanes — Eanes
+- Pêro da Covilhã
+- Gaspar Corte-Real — Corte-Real
+- Juan de la Cosa
+- Alonso de Ojeda — Ojeda
+- Fernão Mendes Pinto — Mendes Pinto
+- Estevanico — Esteban the Moor | Estebanico | Mustafa Azemmouri
+- Pedro de Valdivia — Valdivia
+- Diego de Almagro — Almagro
+- Pytheas — Pytheas of Massalia | Pytheas of Marseille
+- Himilco
+- Scylax of Caryanda — Scylax
+- Nearchus
+- Saint Brendan — Brendan the Navigator | Brendan | St Brendan the Navigator
+- Bjarni Herjólfsson
+- Thorfinn Karlsefni — Karlsefni
+- Faxian — Fa Hsien | Fa-Hien
+- William of Rubruck — Rubruck
+- Giovanni da Pian del Carpine — Carpini | John of Plano Carpini
+- Odoric of Pordenone
+- Niccolò de' Conti
+- Afanasy Nikitin — Nikitin
+- Rabban Bar Sauma — Bar Sauma
+- Ahmad ibn Fadlan — Ibn Fadlan
+- Benjamin of Tudela
+- Ibn Jubayr
+- Alexander Gordon Laing — Laing
+- Dixon Denham — Denham
+- Joseph Thomson — Thomson
+- Verney Lovett Cameron
+- Gustav Nachtigal — Nachtigal
+- Gerhard Rohlfs — Rohlfs
+- Paul Du Chaillu — Du Chaillu
+- Alexandrine Tinné — Tinné | Alexine Tinne
+- Samuel Teleki — Teleki
+- Bertram Thomas
+- Lady Hester Stanhope — Hester Stanhope | Stanhope
+- Isabelle Eberhardt — Eberhardt
+- Ida Pfeiffer — Pfeiffer
+- Alexandra David-Néel — David-Néel
+- Annie Royle Taylor
+- Ippolito Desideri — Desideri
+- Nain Singh — Nain Singh Rawat
+- Yermak — Yermak Timofeyevich
+- Semyon Dezhnev — Dezhnev
+- Yerofey Khabarov — Khabarov
+- Nikolai Miklukho-Maklai — Miklukho-Maklai
+- Jim Bridger — Bridger
+- John Colter — Colter
+- Henry Kelsey — Kelsey
+- Médard des Groseilliers — Groseilliers
+- Étienne Brûlé — Brûlé
+- Aimé Bonpland — Bonpland
+- Charles Marie de La Condamine — La Condamine
+- Cândido Rondon — Rondon
+- Theodore Roosevelt — Roosevelt | Teddy Roosevelt
+- William Hovell — Hovell
+- William Lawson — Lawson
+- William Wentworth — William Charles Wentworth | Wentworth
+- John Oxley — Oxley
+- Thomas Mitchell
+- Augustus Gregory — Gregory
+- Ernest Giles — Giles
+- John Forrest — Forrest
+- Paul Strzelecki — Strzelecki
+- Edmund Kennedy — Kennedy
+- Henry Walter Bates — Bates
+- Francis McClintock — McClintock | Leopold McClintock
+- Elisha Kent Kane — Kane
+- Charles Francis Hall — Hall
+- Adolphus Greely — Greely
+- George W. De Long — De Long
+- Otto Sverdrup — Sverdrup
+- Frederick Jackson — Jackson
+- Julius von Payer — Payer
+- Peter Freuchen — Freuchen
+- Robert Bartlett — Bob Bartlett | Bartlett
+- Ralph Plaisted — Plaisted
+- Aeneas Mackintosh — Mackintosh
+- Edgeworth David
+- Carsten Borchgrevink — Borchgrevink
+- Adrien de Gerlache — de Gerlache | Gerlache
+- Charles Wilkes — Wilkes
+- James Weddell — Weddell
+- Edward Bransfield — Bransfield
+- Nathaniel Palmer — Palmer
+- John Biscoe — Biscoe
+- Erich von Drygalski — Drygalski
+- William Speirs Bruce
+- Otto Nordenskjöld
+- Nobu Shirase — Shirase
+- Jean-Baptiste Charcot — Charcot
+- Lincoln Ellsworth — Ellsworth
+- Finn Ronne — Ronne
+- Felicity Aston — Aston
+- Liv Arnesen — Arnesen
+- Ann Bancroft — Bancroft
+- Børge Ousland — Ousland
+- Ben Saunders — Saunders
+- Henry Worsley
+- Colin O'Brady — O'Brady
+- Preet Chandi — Polar Preet | Harpreet Chandi
+- Erling Kagge — Kagge
+- Pen Hadow — Hadow
+- Maurice Herzog — Herzog
+- Alison Hargreaves — Hargreaves
+- David Scott
+- James Irwin — Irwin
+- John Young
+- Charles Duke
+- Harrison Schmitt — Schmitt
+- Ed White
+- Scott Carpenter — Carpenter
+- Gordon Cooper — Cooper
+- Wally Schirra — Schirra
+- Deke Slayton — Slayton
+- Frank Borman — Borman
+- Bill Anders — William Anders | Anders
+- Svetlana Savitskaya — Savitskaya
+- Michael Foale — Foale
+- Valeri Polyakov — Polyakov
+- Sergei Krikalev — Krikalev
+- Marc Garneau — Garneau
+- Roberta Bondar — Bondar
+- Bert Hinkler — Hinkler
+- Wiley Post
+- Brian Jones
+- Victor Vescovo — Vescovo
+- William Beebe — Beebe
+- Otis Barton — Barton
+- Hans Hass — Hass
+- Eugenie Clark
+- Mark Kelly — Mark E. Kelly
+- Joshua Slocum — Slocum
+- Chay Blyth — Blyth | Sir Chay Blyth
+- Jessica Watson
+- Peter Blake — Sir Peter Blake
+- Tim Severin — Severin
+- Benedict Allen
+- Hubert Wilkins — Sir Hubert Wilkins | George Hubert Wilkins
+- Jean-François Pilâtre de Rozier — Pilâtre de Rozier | de Rozier
+- Otto Lilienthal — Lilienthal
+- Bessie Coleman
+- Antoine de Saint-Exupéry — Saint-Exupéry
+- Per Lindstrand — Lindstrand
+- Dick Rutan
+- Jeana Yeager
+- Vladimir Komarov — Komarov
+- Liu Yang
+- Julie Payette — Payette
+- Alexander Gerst — Gerst
+- Guion Bluford — Guy Bluford | Bluford
+- Fred Haise — Haise
+- Jack Swigert — Swigert
+- Butch Wilmore — Barry Wilmore | Wilmore
+- Jared Isaacman — Isaacman
+- James Augustus Grant — James Grant
+- Tupaia
+- Bachendri Pal
+- Arunima Sinha
+- Jim Whittaker
+- Doug Scott
+- Kami Rita Sherpa — Kami Rita
+- Hermann Buhl
+- Jerzy Kukuczka
+- Walter Bonatti
+- Ueli Steck
+- Evliya Çelebi
+- Ahmad ibn Majid — Ibn Majid
+- Bento de Góis
+- Georg Steller — Steller
+- Aleksei Chirikov — Chirikov
+- Juan Díaz de Solís
+- Pedro Teixeira
+- Willem de Vlamingh — de Vlamingh
+- Willem Schouten
+- Jacob Le Maire
+- Alvise Cadamosto — Cadamosto
+- Tristão da Cunha
+- Gudrid Thorbjarnardóttir — Gudrid
+- Jens Munk
+- Pierre Gaultier de La Vérendrye — La Vérendrye
+- Herbert Ponting — Ponting
+- Will Steger
+
+### Tier 6: rare jackpots (3)
+
+- Jeanne Baret — Jeanne Barret | Jean Baret
+- Hanno the Navigator — Hanno
+- Ewart Grogan — Grogan
+
+## Refused on purpose (14)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Dora the Explorer | Dora | Indiana Jones | Indy | Lara Croft | Phileas Fogg | Captain Nemo | Nemo | Robinson Crusoe | Lemuel Gulliver | Gulliver | Sinbad | Sinbad the Sailor | Captain Kirk | James T. Kirk | Jean-Luc Picard | Buzz Lightyear | Tintin | Allan Quatermain | Professor Challenger | Moana | Captain Haddock | Nathan Drake | Carl Fredricksen | Charles Muntz | Christopher Robin — "An explorer of fiction, not of history."
+- Odysseus | Ulysses | Jason and the Argonauts | Argonauts | Aeneas | Gilgamesh | Maui — "A wanderer of legend, not of history."
+- Nellie Bly — "A journalist who raced around the world in 72 days, rather than an explorer."
+- Davy Crockett — "A frontiersman and congressman, rather than an explorer."
+- Howard Carter | Heinrich Schliemann | Schliemann | Arthur Evans | Leonard Woolley | Mary Leakey | Louis Leakey — "An archaeologist, who dug rather than explored."
+- Pocahontas — "A Powhatan woman remembered for meeting the English settlers, rather than an explorer."
+- Alexander the Great | Genghis Khan | Julius Caesar | Napoleon — "A conqueror rather than an explorer."
+- Jules Verne | H. G. Wells — "A writer who sent his characters on journeys he never made himself."
+- Laika | Ham the Chimp — "An animal sent into space, without being asked."
+- Elon Musk | Musk — "He builds rockets, but has never flown on one."
+- Jeff Bezos | Bezos | William Shatner | Shatner | Katy Perry — "A passenger on a ten-minute hop to the edge of space, not an explorer."
+- Steve Irwin — "A zookeeper and wildlife presenter, rather than an explorer."
+- Benjamin Franklin — "A founding father, not an explorer. A Sir John of that name is another matter."
+- Kupe — "The great navigator of Māori tradition, remembered in legend rather than record."

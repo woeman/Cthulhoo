@@ -1,0 +1,400 @@
+# Name an infectious disease.
+
+Question id: `infectious-diseases` · category: science · source: `data/science.json`
+
+Rules: Any disease caused by a germ, in people, animals or plants, under any name, old or new. Conditions nobody can catch, like diabetes, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (325 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Common cold — Cold | Head cold | Rhinovirus | Colds | Upper respiratory tract infection | URTI | URI
+- Influenza — Flu | Flu virus | Grippe | La grippe | Asian flu | Hong Kong flu | Russian flu | Seasonal flu | Flu A | Flu B | H3N2
+- COVID-19 — Covid | Coronavirus | SARS-CoV-2 | Corona | Long Covid | Covid-19 virus | Omicron | Delta variant
+- Chickenpox — Varicella
+- Measles — Rubeola
+- Malaria — Ague | Marsh fever | Paludism | Roman fever | Plasmodium
+- Tuberculosis — TB | Consumption | Phthisis | White plague | Great white plague | Pulmonary tuberculosis
+- HIV/AIDS — HIV | AIDS | HIV virus | Human immunodeficiency virus | Acquired immunodeficiency syndrome | Acquired immune deficiency syndrome | AIDS virus
+- Ebola — Ebola virus | Ebola virus disease | Ebola haemorrhagic fever | Ebola hemorrhagic fever | EVD
+- Plague — Black Death | Bubonic plague | Pneumonic plague | Septicaemic plague | Septicemic plague | Great Plague | Plague of Justinian | Yersinia pestis | Great Plague of London | Plague of London | Justinian plague | Justinianic plague | Sylvatic plague | Pestis | Yersinia | Bubonic
+- Cholera
+- Smallpox — Variola | Speckled monster | Alastrim | Variola minor | Variola major | Pox
+
+### Tier 2: common (38)
+
+- Mumps
+- Rubella — German measles
+- Polio — Poliomyelitis | Infantile paralysis | Poliovirus
+- Rabies — Rabies virus | Hydrophobia | Lyssavirus | Bat lyssavirus | Australian bat lyssavirus | European bat lyssavirus
+- Leprosy — Hansen's disease | Hansen's
+- Tetanus — Lockjaw
+- Diphtheria — Strangling angel
+- Whooping cough — Pertussis | Hundred-day cough | 100-day cough
+- Hepatitis — Hep | Viral hepatitis
+- Herpes — Herpes virus | Cold sores | Cold sore | Genital herpes | Herpes simplex | Fever blister
+- Shingles — Herpes zoster | Zoster
+- Syphilis — Great pox | French pox | French disease | Lues | Morbus gallicus | Syph
+- Gonorrhoea — Gonorrhea | Clap | Gleet
+- Chlamydia
+- Meningitis — Bacterial meningitis | Viral meningitis
+- Pneumonia — Walking pneumonia | Double pneumonia | Pneumococcal disease | Lung infection | Pneumococcus | Pneumococcal pneumonia | Streptococcus pneumoniae | Mycoplasma pneumonia | Mycoplasma pneumoniae
+- Scarlet fever — Scarlatina
+- Typhoid — Typhoid fever | Enteric fever
+- Typhus — Epidemic typhus | Gaol fever | Jail fever | Ship fever | Camp fever | Spotted fever | Murine typhus | Endemic typhus
+- Yellow fever — Yellow jack | Bronze John | Black vomit
+- Dengue — Dengue fever | Dengue virus | Breakbone fever
+- Zika — Zika virus | Zika fever
+- Lyme disease — Lyme | Lyme borreliosis | Borreliosis
+- Salmonellosis — Salmonella | Salmonella poisoning
+- E. coli infection — E. coli | Escherichia coli
+- Norovirus — Winter vomiting bug | Winter vomiting disease | Norwalk virus | Noro
+- Mpox — Monkeypox | Clade I mpox | Clade Ib mpox
+- Glandular fever — Mono | Mononucleosis | Infectious mononucleosis | Kissing disease | Epstein-Barr virus | EBV
+- Strep throat — Streptococcal pharyngitis | Strep | Group A strep | Group A streptococcus | Streptococcus | Streptococcal infection | Strethroat
+- Anthrax — Woolsorters' disease
+- Dysentery — Bloody flux | Flux | Bacillary dysentery
+- Food poisoning
+- Bird flu — Avian flu | Avian influenza | H5N1 | Fowl plague | Bird plague | H7N9 | H5N8 | HPAI | Highly pathogenic avian influenza
+- Swine flu — H1N1 | Pig flu
+- Spanish flu — 1918 flu | Spanish influenza | Spanish Lady
+- SARS — Severe acute respiratory syndrome | SARS-CoV | SARS coronavirus
+- Foot-and-mouth disease — Foot and mouth | FMD | Hoof-and-mouth disease
+- Mad cow disease — Mad cow | BSE | Bovine spongiform encephalopathy
+
+### Tier 3: known to fans (52)
+
+- Hepatitis A — Hep A
+- Hepatitis B — Hep B
+- Hepatitis C — Hep C
+- Tonsillitis — Tonsilitis
+- Bronchitis
+- Conjunctivitis — Pink eye
+- Gastroenteritis — Gastro | Stomach bug | Stomach flu | Tummy bug
+- Impetigo
+- Cellulitis
+- Sepsis — Septicaemia | Septicemia | Blood poisoning | Septic shock
+- MRSA — Methicillin-resistant Staphylococcus aureus | Meticillin-resistant Staphylococcus aureus
+- C. difficile — C. diff | Clostridium difficile | Clostridioides difficile
+- Legionnaires' disease — Legionnaires | Legionellosis | Legionella
+- Toxoplasmosis — Toxoplasma | Toxo
+- Listeriosis — Listeria
+- Campylobacteriosis — Campylobacter
+- Rotavirus — Rota
+- Hand, foot and mouth disease — Hand foot and mouth | HFMD | Coxsackievirus | Coxsackie
+- Athlete's foot — Tinea pedis
+- Ringworm — Tinea | Tinea corporis | Tinea capitis | Scalp ringworm
+- Thrush — Candidiasis | Yeast infection | Candida | Oral thrush | Vaginal thrush | Vaginal candidiasis | Vaginal yeast infection
+- Scabies — Seven-year itch
+- Head lice — Lice | Nits | Pediculosis | Body lice | Pubic lice | Crabs
+- Warts — Wart | Verruca | Verrucas | Verrucae | Plantar warts | Genital warts
+- HPV — Human papillomavirus | Papillomavirus
+- Trichomoniasis — Trich | Trichomonas
+- Sleeping sickness — African trypanosomiasis | Trypanosomiasis | Trypanosome | Trypanosoma | Trypanosomes | African sleeping sickness
+- Chagas disease — Chagas | American trypanosomiasis
+- Leishmaniasis — Kala-azar | Black fever | Oriental sore
+- Schistosomiasis — Bilharzia | Bilharziasis | Snail fever
+- River blindness — Onchocerciasis
+- Elephantiasis — Lymphatic filariasis | Filariasis
+- Guinea worm disease — Guinea worm | Dracunculiasis
+- Leptospirosis — Weil's disease | Lepto
+- Lassa fever — Lassa | Lassa virus
+- Marburg virus disease — Marburg | Marburg fever | Marburg virus
+- Hantavirus — Hantavirus pulmonary syndrome
+- West Nile fever — West Nile virus | West Nile
+- Chikungunya
+- MERS — Middle East respiratory syndrome | Camel flu
+- Creutzfeldt-Jakob disease — CJD | Variant CJD | vCJD | Creutzfeldt-Jakob
+- Myxomatosis — Myxo
+- Distemper — Canine distemper
+- Canine parvovirus — Parvo | Parvovirus
+- Kennel cough
+- Dutch elm disease
+- Potato blight — Late blight | Phytophthora | Blight
+- Botulism
+- Urinary tract infection — UTI | Cystitis | Bladder infection | Water infection
+- Tapeworm infection — Tapeworm | Taeniasis
+- Worms — Intestinal worms | Helminthiasis | Worm infection
+- Staph infection — Staphylococcus | Staph | Staphylococcal infection | Staphylococcus aureus
+
+### Tier 4: obscure (64)
+
+- Hepatitis D — Hep D
+- Hepatitis E — Hep E
+- Encephalitis
+- Gangrene — Gas gangrene | Wet gangrene
+- Sinusitis — Sinus infection
+- Laryngitis
+- Bronchiolitis
+- RSV — Respiratory syncytial virus
+- Croup
+- Chest infection — Respiratory infection | Respiratory tract infection | Lower respiratory tract infection | LRTI
+- Ear infection — Otitis media | Middle ear infection
+- Kidney infection — Pyelonephritis
+- Slapped cheek syndrome — Slapped cheek | Fifth disease | Erythema infectiosum | Parvovirus B19
+- Fungal nail infection — Onychomycosis | Nail fungus
+- Jock itch — Tinea cruris
+- Aspergillosis — Aspergillus
+- Brucellosis — Malta fever | Undulant fever | Bang's disease
+- Q fever
+- Tularaemia — Tularemia | Rabbit fever
+- Psittacosis — Parrot fever | Ornithosis
+- Cat scratch disease — Cat scratch fever | Bartonellosis | Cat scratch | Bartonella
+- Rocky Mountain spotted fever — RMSF
+- Trench fever
+- Paratyphoid
+- Shigellosis — Shigella
+- Meningococcal disease — Meningococcal septicaemia | Meningococcal septicemia | Meningococcus | Meningococcal meningitis | MenB | MenC | Neisseria meningitidis
+- Necrotising fasciitis — Necrotizing fasciitis | Flesh-eating disease
+- Toxic shock syndrome — TSS | Toxic shock
+- Yaws — Framboesia
+- Trachoma
+- Giardiasis — Giardia | Beaver fever
+- Cryptosporidiosis — Cryptosporidium
+- Amoebic dysentery — Amoebiasis | Amebiasis | Amebic dysentery
+- Hookworm — Hookworm disease | Ancylostomiasis
+- Roundworm — Ascariasis
+- Threadworm — Pinworm | Enterobiasis
+- Trichinosis — Trichinellosis | Trichinella
+- Mange — Sarcoptic mange | Demodectic mange
+- Nipah virus — Nipah
+- Japanese encephalitis
+- Tick-borne encephalitis
+- Kuru
+- Scrapie
+- Chronic wasting disease — CWD | Zombie deer disease
+- Rinderpest — Cattle plague
+- African swine fever — Swine fever
+- Bluetongue
+- Bovine tuberculosis — Bovine TB | bTB
+- Feline leukaemia — Feline leukemia | FeLV
+- Feline immunodeficiency virus — FIV | Cat AIDS | Feline AIDS
+- Chytridiomycosis — Chytrid | Chytrid fungus
+- Ash dieback — Chalara
+- Powdery mildew — Mildew
+- Cowpox
+- Puerperal fever — Childbed fever | Puerperal sepsis
+- Traveller's diarrhoea — Traveler's diarrhea | Traveller's diarrhea | Delhi belly | Montezuma's revenge
+- Eye infection — Eye infections | Keratitis
+- Wound infection — Infected wound | Surgical site infection
+- Invasive group A strep — iGAS | Invasive group A streptococcal disease
+- Bacterial vaginosis — BV
+- Pelvic inflammatory disease — PID
+- Abscess — Abscesses | Dental abscess | Tooth abscess | Skin abscess
+- Cat flu — Feline flu | Feline calicivirus | Feline herpesvirus
+- Squirrelpox — Squirrelpox virus
+
+### Tier 5: expert (157)
+
+- Sweating sickness — English sweat | English sweating sickness | Sudor anglicus
+- Scrofula — King's evil
+- Quinsy — Peritonsillar abscess
+- Erysipelas — St Anthony's fire
+- Endocarditis
+- Osteomyelitis
+- Septic arthritis
+- Peritonitis
+- Stye — Styes | Hordeolum
+- Boils — Boil | Furuncle | Carbuncle
+- Actinomycosis — Lumpy jaw
+- Nocardiosis
+- Whipple's disease
+- Glanders
+- Melioidosis
+- Scrub typhus
+- Relapsing fever
+- Rat-bite fever
+- Carrion's disease — Oroya fever | Verruga peruana
+- Ehrlichiosis
+- Anaplasmosis
+- Rickettsialpox
+- Pontiac fever
+- Chancroid
+- Lymphogranuloma venereum
+- Donovanosis — Granuloma inguinale
+- Buruli ulcer
+- Pinta
+- Bejel
+- Swimmer's ear — Otitis externa
+- Pharyngitis
+- Roseola — Sixth disease
+- Molluscum contagiosum — Molluscum
+- Cytomegalovirus — CMV
+- Adenovirus
+- Enterovirus — Enterovirus D68 | EV-D68 | Enterovirus 71 | EV71
+- Hendra virus — Hendra
+- Rift Valley fever
+- Crimean-Congo haemorrhagic fever — Crimean-Congo hemorrhagic fever | CCHF
+- Kyasanur Forest disease
+- Omsk haemorrhagic fever — Omsk hemorrhagic fever
+- Oropouche fever — Oropouche
+- Ross River fever — Ross River virus
+- Mayaro fever
+- Murray Valley encephalitis
+- Eastern equine encephalitis — Triple E | EEE
+- Western equine encephalitis
+- Venezuelan equine encephalitis
+- La Crosse encephalitis
+- St. Louis encephalitis
+- Powassan virus
+- Colorado tick fever
+- Sandfly fever
+- Bolivian haemorrhagic fever — Bolivian hemorrhagic fever | Machupo
+- Argentine haemorrhagic fever — Argentine hemorrhagic fever | Junin virus
+- Orf
+- Histoplasmosis
+- Coccidioidomycosis — Valley fever
+- Cryptococcosis
+- Candida auris — C. auris
+- Mucormycosis — Black fungus | Zygomycosis
+- Blastomycosis
+- Pneumocystis pneumonia — PCP | Pneumocystis
+- Sporotrichosis — Rose gardener's disease
+- Mycetoma — Madura foot
+- Chromoblastomycosis
+- Tinea versicolor — Pityriasis versicolor
+- Primary amoebic meningoencephalitis — Naegleria | Naegleria fowleri | Brain-eating amoeba | PAM
+- Babesiosis
+- Cysticercosis
+- Hydatid disease — Echinococcosis | Hydatid | Hydatid cyst
+- Whipworm — Trichuriasis
+- Strongyloidiasis
+- Toxocariasis — Toxocara
+- Loiasis — Eye worm | Loa loa
+- Myiasis — Screwworm | New World screwworm
+- Tungiasis — Jiggers | Chigoe flea
+- Liver fluke — Fascioliasis | Clonorchiasis | Fluke | Flukes
+- Anisakiasis
+- Fatal familial insomnia
+- Classical swine fever — Hog cholera
+- Equine influenza — Horse flu | Equine flu
+- Strangles
+- Newcastle disease
+- White-nose syndrome
+- Heartworm
+- Johne's disease
+- Equine infectious anaemia — Equine infectious anemia | Swamp fever
+- Mastitis
+- Lumpy skin disease
+- Peste des petits ruminants — Goat plague | PPR | Ovine rinderpest
+- Schmallenberg virus
+- Sheep pox
+- Marek's disease — Marek's
+- Feline infectious peritonitis — FIP
+- Rabbit haemorrhagic disease — Rabbit hemorrhagic disease | Rabbit calicivirus | RHD | RHDV2 | Viral haemorrhagic disease
+- American foulbrood — Foulbrood
+- Chestnut blight
+- Panama disease — Fusarium wilt | Fusarium
+- Citrus greening — Huanglongbing
+- Wheat rust — Stem rust | Rust | Rust fungus
+- Coffee rust — Coffee leaf rust | Hemileia vastatrix
+- Tobacco mosaic disease — Tobacco mosaic virus | Tobacco mosaic
+- Black spot
+- Downy mildew
+- Clubroot
+- Fire blight
+- Crown gall
+- Sudden oak death
+- Rice blast
+- Olive quick decline — Xylella | Olive quick decline syndrome
+- Ergot
+- Peach leaf curl — Leaf curl
+- Grey mould — Gray mold | Botrytis
+- Damping off
+- Cordyceps — Ophiocordyceps | Zombie ant fungus
+- H. pylori infection — H. pylori | Helicobacter pylori | Stomach ulcer | Peptic ulcer | Gastric ulcer
+- Tooth decay — Dental caries | Caries
+- Gum disease — Periodontitis | Gingivitis | Periodontal disease
+- Lungworm — Lungworms
+- Black rot
+- Group B strep — GBS | Strep B | Group B streptococcus
+- Mycoplasma genitalium — Mgen | M. genitalium | Mycoplasma
+- Non-specific urethritis — NSU | Non-gonococcal urethritis | NGU | Urethritis
+- Folliculitis
+- Whitlow — Herpetic whitlow | Paronychia
+- Hib — Haemophilus influenzae | Hemophilus influenzae | Haemophilus influenzae type b | Hib disease
+- Trench mouth — Vincent's angina | Vincent's disease | Acute necrotising ulcerative gingivitis | ANUG
+- Noma — Cancrum oris
+- O'nyong-nyong fever — O'nyong-nyong
+- African tick bite fever
+- Mediterranean spotted fever — Boutonneuse fever
+- HTLV-1 — HTLV | Human T-lymphotropic virus
+- Foot rot
+- Fowl pox — Avian pox
+- Blackleg
+- Crayfish plague
+- Avian malaria — Bird malaria
+- Duck plague — Duck viral enteritis
+- Epizootic haemorrhagic disease — Epizootic hemorrhagic disease | EHD
+- European foulbrood
+- Varroosis — Varroa | Varroa mite | Varroatosis
+- Nosemosis — Nosema
+- Sea lice — Salmon lice
+- White spot disease — Ich | Ick | Ichthyophthiriasis | White spot
+- Whirling disease
+- Snake fungal disease
+- Tulip breaking virus — Tulip breaking | TBV
+- Citrus canker
+- Verticillium wilt
+- Bacterial wilt
+- Banana bunchy top — Bunchy top
+- Cassava mosaic disease — Cassava mosaic
+- Early blight
+- Potato wart
+- Ring rot
+- Corn smut — Huitlacoche | Smut
+
+### Tier 6: rare jackpots (2)
+
+- Devil facial tumour disease — Devil facial tumor disease | DFTD | Devil facial tumour | Devil facial tumor | Tasmanian devil facial tumour disease | Tasmanian devil disease
+- Cocoliztli
+
+## Refused on purpose (41)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Virus | Bacteria | Bacterium | Germ | Germs | Fungus | Parasite | Prion | Infection | Disease | Pathogen | Microbe | Bug | Fungal infection | Bacterial infection | Viral infection | Parasitic infection | Yeast — "That covers a whole group of diseases. Name one."
+- Mosquito | Mosquitoes | Tick | Flea | Rat | Tsetse fly | Tsetse | Tick bite | Deer tick — "It carries diseases. It isn't one."
+- Pandemic | Epidemic | Outbreak | Endemic — "A spread of disease, not a disease. Name what spread."
+- Sexually transmitted infection | STI | STD | VD | Venereal disease | Sexually transmitted disease — "A whole group of diseases. Name one."
+- Fever | High temperature | Temperature — "A symptom, not a disease in itself. Many diseases are named for it: name one."
+- Cough | Rash | Diarrhoea | Diarrhea | Vomiting | Sneezing | Runny nose | Headache | Sore throat — "A symptom of many infections, not a disease in itself."
+- Disease X — "A placeholder the World Health Organization uses for a pandemic not yet known."
+- Typhoid Mary | Mary Mallon — "A cook who carried typhoid without falling ill. A person, not a disease."
+- Cancer | Leukaemia | Leukemia | Tumour | Tumor | Lymphoma | Melanoma — "Not catching: it's your own cells gone wrong."
+- Diabetes | Type 1 diabetes | Type 2 diabetes | Obesity | High blood pressure | Hypertension — "A condition nobody can catch."
+- Heart disease | Heart attack | Stroke | Heart failure | Coronary heart disease — "Not catching."
+- Asthma | Allergy | Hay fever | Eczema | Psoriasis — "Not catching, though a cold can set it off."
+- Acne | Spots | Pimples — "Not catching, whatever the playground says."
+- Arthritis | Rheumatoid arthritis | Osteoarthritis | Osteoporosis | Lupus — "Wear, tear or the immune system, not a germ."
+- Gout — "Too much uric acid, not a germ. Port takes the blame."
+- Alzheimer's disease | Alzheimer's | Dementia | Parkinson's disease | Parkinson's | Motor neurone disease | Motor neuron disease | ALS | Epilepsy | Migraine — "Not catching."
+- Multiple sclerosis | MS — "Not catching, though a common virus may help to trigger it."
+- Cystic fibrosis | Haemophilia | Hemophilia | Sickle cell disease | Sickle cell anaemia | Sickle cell | Down syndrome | Muscular dystrophy | Huntington's disease | Huntington's — "Inherited, not caught."
+- Crohn's disease | Crohn's | Coeliac disease | Celiac disease | Irritable bowel syndrome | IBS | Ulcerative colitis — "Not catching."
+- Scurvy | Rickets | Beriberi | Pellagra | Kwashiorkor | Anaemia | Anemia | Goitre | Goiter — "A lack of something in the diet, not a germ."
+- Dropsy | Oedema | Edema — "An old name for swelling with fluid, not an infection."
+- Apoplexy — "An old name for a stroke, not an infection."
+- Appendicitis — "A blocked, inflamed appendix. Germs join in later, but they don't start it."
+- Rheumatic fever — "A reaction that can follow strep throat, not an infection itself."
+- Trench foot | Frostbite — "Damage from cold and wet, not a germ."
+- Milk sickness — "Poisoning from the milk of cows that ate white snakeroot. It killed Abraham Lincoln's mother."
+- Ergotism — "Poisoning from eating infected rye, not an infection of the eater."
+- Dancing plague | Dancing mania | Choreomania — "A mystery of 1518, probably mass hysteria, not a germ."
+- Mercury poisoning | Lead poisoning | Radiation sickness | Altitude sickness | Motion sickness | Seasickness | Sunstroke | Heatstroke | Hangover — "Poisoning, not infection."
+- Man flu — "A cold, with complaining. Not a recognised disease."
+- Zombie virus | T-virus | Rage virus | Zombieism | Greyscale | Dragon pox | Captain Trips | Red Death | Lycanthropy | Vampirism | Simian flu | Andromeda strain — "Fictional, thankfully."
+- Jaundice — "Yellowed skin and eyes: a symptom, not a disease. Hepatitis is one cause."
+- MMR — "The jab, not the disease. It guards against measles, mumps and rubella."
+- Cooties — "Playground make-believe. Nobody has ever caught them."
+- Lurgy | Dreaded lurgy | Lurgi — "Made up for The Goon Show in 1954. Now it means whatever bug is going round."
+- Bed bugs | Bed bug — "Biting pests that live in your bed, not on you, and they spread no disease."
+- Colony collapse disorder | CCD — "Honeybees vanishing from their hives, with no single germ to blame."
+- Hepatitis G | Hep G | GB virus C — "Named for hepatitis, but the virus turned out not to cause it."
+- Mouth ulcer | Mouth ulcers | Canker sore | Aphthous ulcer — "Not catching. Cold sores, from a virus, are a different thing."
+- Cervical cancer — "Nearly always started by a virus, but the cancer itself isn't caught. Name the virus."
+- Plague of Athens | Antonine plague | Plague of Cyprian — "An ancient epidemic, not a disease. Its germ is still argued over."

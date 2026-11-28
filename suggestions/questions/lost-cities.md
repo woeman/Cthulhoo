@@ -1,0 +1,567 @@
+# Name an ancient city that now lies in ruins.
+
+Question id: `lost-cities` · category: history · source: `data/history.json`
+
+Rules: Any city of the ancient world that now lies in ruins: from before about AD 500 in Europe and around the Mediterranean, before about 1500 elsewhere. A modern town beside the ruins is fine, but cities still alive today and cities of legend don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (501 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Pompeii — Pompei | Pompeji | Ancient Pompeii | Ruins of Pompeii | Ancient Pompei | Ancient Pompeji
+- Troy — Ilion | Ilium | Troia | Hisarlik | Wilusa | Ancient Troy | City of Troy | Ancient Ilion | Ancient Ilium | Ancient Troia | Ancient Hisarlik | Ancient Wilusa
+- Machu Picchu — Ancient Machu Picchu
+- Petra — Raqmu | Ancient Petra | Ancient Raqmu
+- Babylon — Babel | Babil | Ancient Babylon | Ancient Babel | Ancient Babil
+- Carthage — Carthago | Qart Hadasht | Ancient Carthage | Ancient Carthago
+- Angkor — Angkor Wat | Angkor Thom | Yasodharapura | Ancient Angkor | Ancient Yasodharapura
+
+### Tier 2: common (27)
+
+- Herculaneum — Ercolano | Herculanum | Ancient Herculaneum | Ancient Ercolano | Ancient Herculanum
+- Ephesus — Ephesos | Efes | Ancient Ephesus | Ancient Ephesos | Ancient Efes
+- Mohenjo-daro — Moenjodaro | Ancient Mohenjo-daro | Ancient Moenjodaro
+- Teotihuacan — Ancient Teotihuacan
+- Chichen Itza — Chichen | Ancient Chichen Itza | Ancient Chichen
+- Tenochtitlan — Mexico-Tenochtitlan | Ancient Tenochtitlan | Ancient Mexico-Tenochtitlan
+- Palmyra — Tadmor | Ancient Palmyra | Ancient Tadmor
+- Persepolis — Takht-e Jamshid | Ancient Persepolis
+- Knossos — Knossus | Cnossus | Cnossos | Ancient Knossos | Ancient Knossus | Ancient Cnossus | Ancient Cnossos
+- Mycenae — Mykenai | Mykines | Mycenea | Ancient Mycenae | Ancient Mykenai | Ancient Mykines | Ancient Mycenea
+- Ur — Ur of the Chaldees | Ancient Ur
+- Nineveh — Nineve | Ancient Nineveh | Ancient Nineve
+- Thebes — Waset | Luxor | Egyptian Thebes | Thebes in Egypt | Diospolis Magna | Ancient Thebes | Ancient Waset | Ancient Luxor
+- Memphis — Men-nefer | Mit Rahina | Ancient Memphis | Ancient Men-nefer
+- Sparta — Lacedaemon | Lakedaimon | Ancient Sparta | Ancient Lacedaemon | Ancient Lakedaimon
+- Tikal — Mutal | Yax Mutal | Ancient Tikal | Ancient Mutal
+- Great Zimbabwe — Zimbabwe | Ancient Great Zimbabwe | Ancient Zimbabwe
+- Delphi — Delphoi | Pytho | Ancient Delphi | Ancient Delphoi | Ancient Pytho
+- Corinth — Korinthos | Ancient Corinth | Ancient Korinthos
+- Jericho — Tell es-Sultan | Ancient Jericho
+- Leptis Magna — Lepcis Magna | Leptis | Ancient Leptis Magna | Ancient Leptis
+- Uruk — Erech | Warka | Ancient Uruk | Ancient Erech | Ancient Warka
+- Harappa — Ancient Harappa
+- Palenque — Lakamha | Ancient Palenque | Ancient Lakamha
+- Tulum — Ancient Tulum
+- Pergamon — Pergamum | Ancient Pergamon | Ancient Pergamum
+- Ostia — Ostia Antica | Ancient Ostia
+
+### Tier 3: known to fans (65)
+
+- Hattusa — Hattusas | Hattusha | Bogazkoy | Bogazkale | Ancient Hattusa | Ancient Hattusas | Ancient Hattusha | Ancient Bogazkoy | Ancient Bogazkale
+- Copán — Copán Ruinas | Ancient Copán
+- Uxmal — Ancient Uxmal
+- Monte Albán — Ancient Monte Albán
+- Tiwanaku — Tiahuanaco | Tiwanacu | Puma Punku | Ancient Tiwanaku | Ancient Tiahuanaco | Ancient Tiwanacu
+- Chan Chan — Ancient Chan Chan
+- Caral — Caral-Supe | Ancient Caral | Ancient Caral-Supe
+- Akrotiri — Ancient Akrotiri
+- Delos — Ancient Delos
+- Phaistos — Phaestus | Festos | Ancient Phaistos | Ancient Phaestus | Ancient Festos
+- Paestum — Poseidonia | Ancient Paestum | Ancient Poseidonia
+- Akragas — Agrigentum | Agrigento | Valley of the Temples | Ancient Akragas | Ancient Agrigentum | Ancient Agrigento
+- Volubilis — Walili | Ancient Volubilis | Ancient Walili
+- Timgad — Thamugadi | Ancient Timgad | Ancient Thamugadi
+- Cyrene — Kyrene | Ancient Cyrene | Ancient Kyrene
+- Sabratha — Sabrata | Ancient Sabratha | Ancient Sabrata
+- Jerash — Gerasa | Ancient Jerash | Ancient Gerasa
+- Baalbek — Baalbec | Heliopolis in Lebanon | Ancient Baalbek | Ancient Baalbec | Heliopolis | Ancient Heliopolis
+- Hatra — al-Hadr | Ancient Hatra | Ancient al-Hadr
+- Ctesiphon — Taq Kasra | Ancient Ctesiphon
+- Nimrud — Kalhu | Calah | Ancient Nimrud | Ancient Kalhu | Ancient Calah
+- Assur — Ashur | Asshur | Ancient Assur | Ancient Ashur | Ancient Asshur
+- Eridu — Ancient Eridu
+- Nippur — Ancient Nippur
+- Mari — Ancient Mari
+- Ebla — Ancient Ebla
+- Ugarit — Ras Shamra | Ancient Ugarit
+- Megiddo — Armageddon | Tel Megiddo | Ancient Megiddo | Ancient Armageddon
+- Amarna — Akhetaten | Tell el-Amarna | El Amarna | Ancient Amarna | Ancient Akhetaten
+- Abydos — Ancient Abydos
+- Meroë — Ancient Meroë
+- Aksum — Axum | Ancient Aksum | Ancient Axum
+- Kilwa Kisiwani — Kilwa | Ancient Kilwa Kisiwani | Ancient Kilwa
+- Bagan — Pagan | Ancient Bagan | Ancient Pagan
+- Ayutthaya — Ayuthaya | Ayudhya | Ancient Ayutthaya | Ancient Ayuthaya | Ancient Ayudhya
+- Sukhothai — Ancient Sukhothai
+- Polonnaruwa — Ancient Polonnaruwa
+- Anuradhapura — Ancient Anuradhapura
+- Sigiriya — Sigiri | Lion Rock | Ancient Sigiriya | Ancient Sigiri
+- Hampi — Vijayanagara | Vijayanagar | Ancient Hampi | Ancient Vijayanagara | Ancient Vijayanagar
+- Lothal — Ancient Lothal
+- Taxila — Takshashila | Sirkap | Ancient Taxila | Ancient Takshashila | Ancient Sirkap
+- Merv — Marv | Ancient Merv | Ancient Marv
+- Karakorum — Kharkhorum | Ancient Karakorum | Ancient Kharkhorum
+- Xanadu — Shangdu | Ancient Xanadu | Ancient Shangdu
+- Mesa Verde — Cliff Palace | Ancient Mesa Verde
+- Chaco Canyon — Chaco | Pueblo Bonito | Ancient Chaco Canyon | Ancient Chaco
+- Cahokia — Ancient Cahokia
+- Ciudad Perdida — Teyuna | Ancient Ciudad Perdida | Ancient Teyuna
+- Çatalhöyük — Catal Huyuk | Ancient Çatalhöyük
+- Miletus — Miletos | Ancient Miletus | Ancient Miletos
+- Sardis — Sardes | Ancient Sardis | Ancient Sardes
+- Aphrodisias — Ancient Aphrodisias
+- Hierapolis — Pamukkale | Ancient Hierapolis | Ancient Pamukkale
+- Tiryns — Ancient Tiryns
+- Susa — Shush | Ancient Susa | Ancient Shush
+- Pasargadae — Ancient Pasargadae
+- Caesarea Maritima — Caesarea | Ancient Caesarea Maritima | Ancient Caesarea
+- Tula — Tollan | Ancient Tula | Ancient Tollan
+- Akkad — Agade | Ancient Akkad | Ancient Agade
+- Tanis — Djanet | San el-Hagar | Ancient Tanis | Ancient Djanet
+- Londinium — Ancient Londinium
+- Tyre — Ancient Tyre
+- Chang'an — Daxing | Ancient Chang'an | Ancient Daxing
+- Skara Brae — Ancient Skara Brae
+
+### Tier 4: obscure (148)
+
+- Byblos — Jbeil | Ancient Byblos | Ancient Jbeil
+- Calakmul — Ancient Calakmul
+- Caracol — Ancient Caracol
+- El Mirador — Ancient El Mirador
+- Yaxchilan — Ancient Yaxchilan
+- Bonampak — Ancient Bonampak
+- Coba — Ancient Coba
+- Mayapan — Ancient Mayapan
+- Xochicalco — Ancient Xochicalco
+- El Tajín — Tajin | Ancient El Tajín | Ancient Tajin
+- Mitla — Ancient Mitla
+- La Venta — Ancient La Venta
+- Kuelap — Ancient Kuelap
+- Choquequirao — Ancient Choquequirao
+- Vilcabamba — Espiritu Pampa | Ancient Vilcabamba
+- Pachacamac — Ancient Pachacamac
+- Avaris — Tell el-Dab'a | Ancient Avaris
+- Pi-Ramesses — Piramesse | Per-Ramesses | Ancient Pi-Ramesses | Ancient Piramesse | Ancient Per-Ramesses
+- Heliopolis in Egypt — Iunu | On | Egyptian Heliopolis | Ancient Iunu | Ancient On
+- Elephantine — Ancient Elephantine
+- Heracleion — Thonis | Thonis-Heracleion | Ancient Heracleion | Ancient Thonis | Ancient Thonis-Heracleion
+- Napata — Gebel Barkal | Jebel Barkal | Ancient Napata
+- Kerma — Ancient Kerma
+- Gedi — Gede | Ancient Gedi | Ancient Gede
+- Mapungubwe — Ancient Mapungubwe
+- Koumbi Saleh — Kumbi Saleh | Ancient Koumbi Saleh
+- Jenne-jeno — Djenne-Djenno | Ancient Jenne-jeno | Ancient Djenne-Djenno
+- Kerkouane — Kerkuane | Ancient Kerkouane | Ancient Kerkuane
+- Utica — Ancient Utica
+- Hippo Regius — Hippo | Ancient Hippo Regius | Ancient Hippo
+- Tipasa — Tipaza | Ancient Tipasa | Ancient Tipaza
+- Djemila — Cuicul | Ancient Djemila | Ancient Cuicul
+- Thysdrus — El Djem | El Jem | Ancient Thysdrus
+- Selinunte — Selinus | Ancient Selinunte | Ancient Selinus
+- Segesta — Egesta | Ancient Segesta | Ancient Egesta
+- Pylos — Palace of Nestor | Nestor's Palace | Ancient Pylos
+- Pella — Ancient Pella
+- Olynthus — Olynthos | Ancient Olynthus | Ancient Olynthos
+- Messene — Ancient Messene
+- Aigai — Vergina | Aegae | Ancient Aigai | Ancient Vergina | Ancient Aegae
+- Philippi — Ancient Philippi
+- Epidaurus — Epidauros | Epidavros | Ancient Epidaurus | Ancient Epidauros | Ancient Epidavros
+- Gortyn — Gortyna | Ancient Gortyn | Ancient Gortyna
+- Cumae — Kyme | Ancient Cumae | Ancient Kyme
+- Veii — Veio | Ancient Veii | Ancient Veio
+- Aquileia — Ancient Aquileia
+- Stabiae — Ancient Stabiae
+- Baiae — Ancient Baiae
+- Italica — Ancient Italica
+- Numantia — Numancia | Ancient Numantia | Ancient Numancia
+- Emporion — Empuries | Ampurias | Emporiae | Ancient Emporion | Ancient Empuries | Ancient Ampurias | Ancient Emporiae
+- Conímbriga — Ancient Conímbriga
+- Carnuntum — Ancient Carnuntum
+- Aquincum — Ancient Aquincum
+- Salona — Salonae | Solin | Ancient Salona | Ancient Salonae | Ancient Solin
+- Butrint — Buthrotum | Ancient Butrint | Ancient Buthrotum
+- Apollonia — Ancient Apollonia
+- Sarmizegetusa — Sarmizegetusa Regia | Ancient Sarmizegetusa
+- Chersonesus — Chersonesos | Khersones | Ancient Chersonesus | Ancient Chersonesos | Ancient Khersones
+- Bibracte — Ancient Bibracte
+- Alesia — Ancient Alesia
+- Silchester — Calleva Atrebatum | Calleva | Ancient Silchester | Ancient Calleva
+- Wroxeter — Viroconium | Uriconium | Ancient Wroxeter | Ancient Viroconium | Ancient Uriconium
+- Verulamium — Ancient Verulamium
+- Priene — Ancient Priene
+- Laodicea — Ancient Laodicea
+- Perge — Ancient Perge
+- Aspendos — Aspendus | Ancient Aspendos | Ancient Aspendus
+- Termessos — Ancient Termessos
+- Xanthos — Xanthus | Ancient Xanthos | Ancient Xanthus
+- Sagalassos — Ancient Sagalassos
+- Gordion — Gordium | Ancient Gordion | Ancient Gordium
+- Zeugma — Ancient Zeugma
+- Dura-Europos — Dura | Ancient Dura-Europos | Ancient Dura
+- Apamea — Apameia | Ancient Apamea | Ancient Apameia
+- Bosra — Bostra | Ancient Bosra | Ancient Bostra
+- Hazor — Tel Hazor | Ancient Hazor
+- Lachish — Tel Lachish | Ancient Lachish
+- Beit She'an — Scythopolis | Bet Shean | Ancient Beit She'an | Ancient Scythopolis
+- Capernaum — Kfar Nahum | Ancient Capernaum
+- Hegra — Mada'in Salih | Al-Hijr | Ancient Hegra | Ancient Al-Hijr
+- Marib — Ancient Marib
+- Lagash — Ancient Lagash
+- Kish — Ancient Kish
+- Dur-Sharrukin — Khorsabad | Ancient Dur-Sharrukin | Ancient Khorsabad
+- Seleucia — Seleucia on the Tigris | Ancient Seleucia
+- Chogha Zanbil — Dur Untash | Choga Zanbil | Ancient Chogha Zanbil
+- Shahr-e Sukhteh — Burnt City | Shahr-i Sokhta | Ancient Shahr-e Sukhteh
+- Ai-Khanoum — Ai Khanum | Alexandria on the Oxus | Ancient Ai-Khanoum
+- Dholavira — Ancient Dholavira
+- Yinxu — Ruins of Yin | Ancient Yinxu
+- Sanxingdui — Ancient Sanxingdui
+- Jiaohe — Ancient Jiaohe
+- Gaochang — Khocho | Qocho | Ancient Gaochang | Ancient Khocho | Ancient Qocho
+- Loulan — Kroraina | Ancient Loulan | Ancient Kroraina
+- Khara-Khoto — Ancient Khara-Khoto
+- Ek Balam — Ancient Ek Balam
+- Quiriguá — Ancient Quiriguá
+- Lamanai — Ancient Lamanai
+- Altun Ha — Ancient Altun Ha
+- Xunantunich — Ancient Xunantunich
+- Joya de Cerén
+- Tlatelolco — Ancient Tlatelolco
+- Poverty Point — Ancient Poverty Point
+- Naukratis — Naucratis | Ancient Naukratis | Ancient Naucratis
+- Sais — Ancient Sais
+- Bubastis — Ancient Bubastis
+- Canopus — Canopos | Ancient Canopus | Ancient Canopos
+- Deir el-Medina — Ancient Deir el-Medina
+- Argos — Ancient Argos
+- Metapontum — Metaponto | Ancient Metapontum | Ancient Metaponto
+- Velia — Ancient Velia
+- Olbia — Ancient Olbia
+- Augusta Raurica — Ancient Augusta Raurica
+- Glanum — Ancient Glanum
+- Salamis — Ancient Salamis
+- Kourion — Curium | Ancient Kourion | Ancient Curium
+- Myra — Ancient Myra
+- Knidos — Cnidus | Ancient Knidos | Ancient Cnidus
+- Assos — Ancient Assos
+- Karkemish — Carchemish | Ancient Karkemish | Ancient Carchemish
+- Shiloh — Ancient Shiloh
+- Gezer — Ancient Gezer
+- Samaria — Sebastia | Ancient Samaria | Ancient Sebastia
+- Sepphoris — Tzippori | Ancient Sepphoris | Ancient Tzippori
+- Qumran — Ancient Qumran
+- Afrasiyab — Maracanda | Ancient Afrasiyab | Ancient Maracanda
+- Kalibangan — Ancient Kalibangan
+- Rakhigarhi — Ancient Rakhigarhi
+- Mehrgarh — Ancient Mehrgarh
+- Vaishali — Ancient Vaishali
+- Kapilavastu — Ancient Kapilavastu
+- Koh Ker — Ancient Koh Ker
+- Erlitou — Ancient Erlitou
+- Liangzhu — Ancient Liangzhu
+- Banpo — Ancient Banpo
+- Pataliputra — Ancient Pataliputra
+- Gath — Tell es-Safi | Tel Zafit | Ancient Gath
+- Samarra — Samarra Archaeological City | Surra Man Ra'a | Ancient Samarra
+- Dougga — Thugga | Ancient Dougga | Ancient Thugga
+- Side — Ancient Side
+- Oxyrhynchus — el-Bahnasa | Oxyrhynchos | Ancient Oxyrhynchus | Ancient el-Bahnasa | Ancient Oxyrhynchos
+- Harran — Carrhae | Ancient Harran | Ancient Carrhae
+- Rajgir — Rajagriha | Rajgriha | Girivraja | Ancient Rajgir | Ancient Rajagriha | Ancient Rajgriha | Ancient Girivraja
+- Arg-e Bam — Bam Citadel | Bam | Ancient Arg-e Bam | Ancient Bam
+- Derinkuyu — Derinkuyu underground city | Ancient Derinkuyu
+- Pisac — Pisaq | Ancient Pisac | Ancient Pisaq
+- Huacas de Moche — Huaca del Sol | Huaca de la Luna | Huacas del Sol y de la Luna
+
+### Tier 5: expert (251)
+
+- Piedras Negras — Ancient Piedras Negras
+- Uaxactun — Ancient Uaxactun
+- Edzná — Ancient Edzná
+- Dzibilchaltún — Ancient Dzibilchaltún
+- Toniná — Ancient Toniná
+- Comalcalco — Ancient Comalcalco
+- Kabah — Ancient Kabah
+- Sayil — Ancient Sayil
+- Labna — Ancient Labna
+- Dos Pilas — Ancient Dos Pilas
+- Aguateca — Ancient Aguateca
+- Ceibal — Seibal | Ancient Ceibal | Ancient Seibal
+- Naranjo — Ancient Naranjo
+- Yaxha — Ancient Yaxha
+- Nakbe — Ancient Nakbe
+- Iximche — Ancient Iximche
+- Zaculeu — Ancient Zaculeu
+- Mixco Viejo — Ancient Mixco Viejo
+- Q'umarkaj — Utatlan | Gumarcaj | Ancient Q'umarkaj | Ancient Utatlan | Ancient Gumarcaj
+- Kaminaljuyu — Ancient Kaminaljuyu
+- Tazumal — Ancient Tazumal
+- Cantona — Ancient Cantona
+- Tzintzuntzan — Ancient Tzintzuntzan
+- Paquimé — Casas Grandes | Ancient Paquimé
+- Cuicuilco — Ancient Cuicuilco
+- San Lorenzo Tenochtitlán — San Lorenzo
+- Tres Zapotes — Ancient Tres Zapotes
+- Lubaantun — Ancient Lubaantun
+- Cahal Pech — Ancient Cahal Pech
+- Aztalan — Ancient Aztalan
+- Moundville — Ancient Moundville
+- Etowah — Ancient Etowah
+- Spiro — Ancient Spiro
+- Casa Grande — Ancient Casa Grande
+- Huánuco Pampa — Huanuco Viejo | Ancient Huánuco Pampa
+- Incallajta — Ancient Incallajta
+- Wari — Huari | Ancient Wari | Ancient Huari
+- Chavín de Huántar — Chavin | Ancient Chavin
+- Sechín — Cerro Sechin | Ancient Sechín
+- Cahuachi — Ancient Cahuachi
+- Pikillacta — Ancient Pikillacta
+- Hierakonpolis — Nekhen | Ancient Hierakonpolis | Ancient Nekhen
+- Pelusium — Ancient Pelusium
+- Berenice — Berenike | Ancient Berenice | Ancient Berenike
+- Musawwarat es-Sufra — Ancient Musawwarat es-Sufra
+- Naqa — Ancient Naqa
+- Old Dongola
+- Faras — Ancient Faras
+- Soba — Ancient Soba
+- Songo Mnara — Ancient Songo Mnara
+- Khami — Ancient Khami
+- Thulamela — Ancient Thulamela
+- Niani — Ancient Niani
+- Germa — Garama | Ancient Germa | Ancient Garama
+- Yeha — Ancient Yeha
+- Adulis — Ancient Adulis
+- Thuburbo Majus — Ancient Thuburbo Majus
+- Bulla Regia — Ancient Bulla Regia
+- Sbeitla — Sufetula | Ancient Sbeitla | Ancient Sufetula
+- Lixus — Ancient Lixus
+- Chellah — Sala Colonia | Ancient Chellah
+- Lambaesis — Ancient Lambaesis
+- Ptolemais — Ancient Ptolemais
+- Dion — Ancient Dion
+- Amphipolis — Ancient Amphipolis
+- Nicopolis — Ancient Nicopolis
+- Malia — Ancient Malia
+- Zakros — Ancient Zakros
+- Gournia — Ancient Gournia
+- Lato — Ancient Lato
+- Ancient Thera — Thera
+- Kameiros — Camirus | Ancient Kameiros | Ancient Camirus
+- Megara Hyblaea — Ancient Megara Hyblaea
+- Himera — Ancient Himera
+- Morgantina — Ancient Morgantina
+- Motya — Mozia | Ancient Motya | Ancient Mozia
+- Locri — Ancient Locri
+- Vulci — Ancient Vulci
+- Populonia — Ancient Populonia
+- Roselle — Rusellae | Ancient Roselle | Ancient Rusellae
+- Kainua — Marzabotto | Ancient Kainua | Ancient Marzabotto
+- Spina — Ancient Spina
+- Alba Fucens — Ancient Alba Fucens
+- Norba — Ancient Norba
+- Luni — Ancient Luni
+- Minturnae — Ancient Minturnae
+- Portus — Ancient Portus
+- Baelo Claudia — Ancient Baelo Claudia
+- Segobriga — Ancient Segobriga
+- Clunia — Ancient Clunia
+- Viminacium — Ancient Viminacium
+- Stobi — Ancient Stobi
+- Heraclea Lyncestis — Ancient Heraclea Lyncestis
+- Byllis — Ancient Byllis
+- Histria — Istros | Ancient Histria | Ancient Istros
+- Tanais — Ancient Tanais
+- Phanagoria — Ancient Phanagoria
+- Seuthopolis — Ancient Seuthopolis
+- Nicopolis ad Istrum
+- Aventicum — Ancient Aventicum
+- Colonia Ulpia Traiana — Xanten | Ancient Xanten
+- Gergovia — Ancient Gergovia
+- Venta Icenorum — Caistor St Edmund | Ancient Venta Icenorum
+- Heuneburg — Ancient Heuneburg
+- Manching — Ancient Manching
+- Biskupin — Ancient Biskupin
+- Lefkandi — Ancient Lefkandi
+- Enkomi — Ancient Enkomi
+- Amathus — Ancient Amathus
+- Patara — Ancient Patara
+- Olympos — Ancient Olympos
+- Phaselis — Ancient Phaselis
+- Kaunos — Caunus | Ancient Kaunos | Ancient Caunus
+- Pinara — Ancient Pinara
+- Arykanda — Ancient Arykanda
+- Selge — Ancient Selge
+- Euromos — Ancient Euromos
+- Iasos — Ancient Iasos
+- Magnesia on the Maeander
+- Colophon — Ancient Colophon
+- Antioch of Pisidia
+- Kanesh — Kultepe | Ancient Kanesh | Ancient Kultepe
+- Alacahöyük — Ancient Alacahöyük
+- Kerkenes — Ancient Kerkenes
+- Arslantepe — Ancient Arslantepe
+- Sam'al — Zincirli | Ancient Sam'al | Ancient Zincirli
+- Tushpa — Ancient Tushpa
+- Serjilla — Dead Cities | Ancient Serjilla
+- Resafa — Sergiopolis | Ancient Resafa | Ancient Sergiopolis
+- Qatna — Ancient Qatna
+- Emar — Ancient Emar
+- Tell Brak — Nagar | Ancient Tell Brak | Ancient Nagar
+- Tell Halaf — Guzana | Ancient Tell Halaf | Ancient Guzana
+- Amrit — Ancient Amrit
+- Ai — Ancient Ai
+- Bethsaida — Ancient Bethsaida
+- Magdala — Ancient Magdala
+- Gadara — Umm Qais | Ancient Gadara
+- Shabwa — Ancient Shabwa
+- Timna — Ancient Timna
+- Sumhuram — Ancient Sumhuram
+- Qal'at al-Bahrain — Ancient Qal'at al-Bahrain
+- Girsu — Telloh | Ancient Girsu | Ancient Telloh
+- Umma — Ancient Umma
+- Larsa — Ancient Larsa
+- Isin — Ancient Isin
+- Sippar — Ancient Sippar
+- Shuruppak — Ancient Shuruppak
+- Nuzi — Ancient Nuzi
+- Tepe Sialk — Sialk | Ancient Tepe Sialk | Ancient Sialk
+- Bishapur — Ancient Bishapur
+- Gur — Ardashir-Khwarrah | Ancient Gur | Ancient Ardashir-Khwarrah
+- Takht-e Soleyman — Ancient Takht-e Soleyman
+- Hecatompylos — Ancient Hecatompylos
+- Nisa — Ancient Nisa
+- Gonur Tepe — Ancient Gonur Tepe
+- Penjikent — Panjakent | Ancient Penjikent | Ancient Panjakent
+- Otrar — Ancient Otrar
+- Chanhudaro — Ancient Chanhudaro
+- Kot Diji — Ancient Kot Diji
+- Kaushambi — Ancient Kaushambi
+- Shravasti — Ancient Shravasti
+- Muziris — Ancient Muziris
+- Arikamedu — Ancient Arikamedu
+- Poompuhar — Kaveripattinam | Ancient Poompuhar | Ancient Kaveripattinam
+- Mandu — Ancient Mandu
+- Champaner — Ancient Champaner
+- Sri Ksetra — Ancient Sri Ksetra
+- Sambor Prei Kuk
+- Si Satchanalai — Ancient Si Satchanalai
+- Oc Eo — Ancient Oc Eo
+- Trowulan — Ancient Trowulan
+- Niya — Ancient Niya
+- Tongwancheng — Ancient Tongwancheng
+- Shimao — Ancient Shimao
+- Taosi — Ancient Taosi
+- Heijō-kyō — Nara | Ancient Heijō-kyō | Ancient Nara
+- Leluh — Ancient Leluh
+- Ekron — Tel Miqne | Ancient Ekron
+- Inwa — Ava | Ancient Inwa | Ancient Ava
+- Dara — Anastasiopolis | Daras | Ancient Dara | Ancient Anastasiopolis | Ancient Daras
+- Nora — Ancient Nora
+- Valeriana — Ancient Valeriana
+- Peñico — Ancient Peñico
+- Upano Valley — Upano | Kilamope | Sangay | Ancient Upano Valley | Ancient Upano | Ancient Kilamope | Ancient Sangay
+- Tugunbulak — Ancient Tugunbulak
+- Keeladi — Keezhadi | Keeladi excavation | Ancient Keeladi | Ancient Keezhadi
+- Ocomtún — Ancient Ocomtún
+- al-Natah — Natah | Ancient al-Natah | Ancient Natah
+- Cổ Loa — Cổ Loa Citadel | Ancient Cổ Loa
+- Hoa Lư — Ancient Hoa Lư
+- Old Oyo — Oyo-Ile | Katunga | Ancient Oyo-Ile | Ancient Katunga
+- Mahasthangarh — Pundranagara | Ancient Mahasthangarh | Ancient Pundranagara
+- Wari-Bateshwar — Ancient Wari-Bateshwar
+- Gaur — Gauda | Lakhnauti | Ancient Gaur | Ancient Gauda | Ancient Lakhnauti
+- Halebidu — Dorasamudra | Halebid | Ancient Halebidu | Ancient Dorasamudra | Ancient Halebid
+- Gangaikonda Cholapuram — Ancient Gangaikonda Cholapuram
+- Nagarjunakonda — Vijayapuri | Ancient Nagarjunakonda | Ancient Vijayapuri
+- Banawali — Ancient Banawali
+- Sisupalgarh — Ancient Sisupalgarh
+- Ahichchhatra — Ancient Ahichchhatra
+- Daulatabad — Devagiri | Ancient Daulatabad | Ancient Devagiri
+- Tughlaqabad — Ancient Tughlaqabad
+- Guge — Tsaparang | Ancient Guge | Ancient Tsaparang
+- Panlongcheng — Ancient Panlongcheng
+- Fujiwara-kyō — Ancient Fujiwara-kyō
+- Yoshinogari — Ancient Yoshinogari
+- Bujang Valley — Sungai Batu | Lembah Bujang | Ancient Bujang Valley
+- Beikthano — Ancient Beikthano
+- Halin — Halingyi | Ancient Halin | Ancient Halingyi
+- Avdat — Oboda | Ovdat | Ancient Avdat | Ancient Oboda | Ancient Ovdat
+- Borsippa — Birs Nimrud | Ancient Borsippa
+- Istakhr — Ancient Istakhr
+- Konye-Urgench — Kunya-Urgench | Old Urgench | Gurganj | Ancient Konye-Urgench | Ancient Kunya-Urgench | Ancient Gurganj
+- Balasagun — Burana | Ancient Balasagun | Ancient Burana
+- Ordu-Baliq — Karabalgasun | Ancient Ordu-Baliq | Ancient Karabalgasun
+- Dedan — Dadan | Ancient Dedan | Ancient Dadan
+- Alexandria Troas — Ancient Alexandria Troas
+- Stagira — Ancient Stagira
+- Eretria — Ancient Eretria
+- Mantinea — Ancient Mantinea
+- Tegea — Ancient Tegea
+- Sicyon — Sikyon | Ancient Sicyon | Ancient Sikyon
+- Orchomenos — Orchomenus | Ancient Orchomenos | Ancient Orchomenus
+- Pavlopetri — Ancient Pavlopetri
+- Perperikon — Ancient Perperikon
+- Arkaim — Ancient Arkaim
+- Cannae — Ancient Cannae
+- Thapsus — Ancient Thapsus
+- Aizanoi — Aezani | Ancient Aizanoi | Ancient Aezani
+- Tharros — Ancient Tharros
+- Caerwent — Venta Silurum | Ancient Caerwent
+- Old Sarum — Sorviodunum | Ancient Sorviodunum
+- Aztec Ruins — Ancient Aztec Ruins
+- Bandelier — Ancient Bandelier
+- Wupatki — Ancient Wupatki
+- Pecos — Pecos Pueblo | Cicuye | Ancient Pecos | Ancient Cicuye
+- Cacaxtla — Ancient Cacaxtla
+- La Quemada — Ancient La Quemada
+- Cempoala — Zempoala | Ancient Cempoala | Ancient Zempoala
+- Becan — Ancient Becan
+- Kohunlich — Ancient Kohunlich
+- Dzibanché — Ancient Dzibanché
+- Takalik Abaj — Ancient Takalik Abaj
+- Túcume — Valley of the Pyramids | Ancient Túcume
+- Samaipata — El Fuerte de Samaipata | Ancient Samaipata
+- Pucará de Tilcara — Tilcara | Ancient Tilcara
+- Quilmes — Ruins of Quilmes | Ancient Quilmes
+- Ingapirca — Ancient Ingapirca
+- Jarlshof — Ancient Jarlshof
+- Tashbulak — Ancient Tashbulak
+
+### Tier 6: rare jackpots (3)
+
+- Sybaris — Ancient Sybaris
+- Ani — Ancient Ani
+- Nan Madol — Ancient Nan Madol
+
+## Refused on purpose (35)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Atlantis | Lost City of Atlantis | Ancient Atlantis — "A legend, first told by Plato."
+- El Dorado | City of Gold | Ancient El Dorado — "A legend of a gilded king that grew into a city of gold. No one ever found it."
+- Camelot | Avalon | Lyonesse | Ancient Camelot | Ancient Avalon | Ancient Lyonesse — "King Arthur's court belongs to legend."
+- Ys | Kitezh | Vineta | Lemuria | Mu | Hy-Brasil | Thule | Shambhala | Agartha | Zerzura | Paititi | Lost City of Z | Z | Kumari Kandam | Ancient Ys | Ancient Kitezh | Ancient Vineta | Ancient Lemuria | Ancient Mu | Ancient Hy-Brasil | Ancient Thule | Ancient Shambhala | Ancient Agartha | Ancient Zerzura | Ancient Paititi | Ancient Kumari Kandam — "A place of legend, never found."
+- Ubar | Iram | Iram of the Pillars | Ancient Ubar | Ancient Iram — "A lost city of legend, though a desert site in Oman has been claimed for it."
+- Ciudad Blanca | White City | City of the Monkey God | Ancient Ciudad Blanca | Ancient White City — "A legend, though ruins found in the Honduran jungle have been linked to it."
+- Tartessos | Tartessus | Ancient Tartessos | Ancient Tartessus — "Its people were real, but their city has never been found."
+- Sodom | Gomorrah | Sodom and Gomorrah | Ancient Sodom | Ancient Gomorrah — "A city of the Bible whose site has never been firmly identified."
+- Tower of Babel — "A tower of legend, though the city it stood in is real."
+- Dwarka | Ancient Dwarka — "Still a living city. Its drowned forerunner belongs to legend."
+- R'lyeh | Kadath | Innsmouth | Arkham | Nameless City — "From H. P. Lovecraft's stories, not from history."
+- Sarnath | Ancient Sarnath — "A real Buddhist holy place in India, and a doomed city in H. P. Lovecraft's stories. Neither is a ruined ancient city."
+- Minas Tirith | Gondor | Asgard | Rivendell | Wakanda | Gotham | Shangri-La | King's Landing | Valyria | Old Valyria | Ancient Minas Tirith | Ancient Gondor | Ancient Asgard | Ancient Rivendell | Ancient Wakanda | Ancient Gotham | Ancient Shangri-La | Ancient King's Landing | Ancient Valyria | Ancient Old Valyria — "A city of fiction."
+- Rome | Athens | Jerusalem | Damascus | Aleppo | Alexandria | Cairo | Constantinople | Istanbul | Byzantium | Thessaloniki | Syracuse | Naples | Marseille | Antioch | Sidon | Beirut | Gaza | Tunis | Varanasi | Xi'an | Beijing | Luoyang | Cusco | Cuzco | Quito | Mexico City | Cholula | Ollantaytambo | London | York | Bath | Trier | Mérida | Tarragona | Split | Plovdiv | Cologne | Samarkand | Bukhara | Timbuktu | Djenné | Sana'a | Baghdad | Mosul | Erbil | Hamadan | Ecbatana | Kyoto | Gyeongju | Halicarnassus | Bodrum | Smyrna | Izmir | Rhodes | Lalibela | Basel | Ancient Rome | Ancient Athens | Ancient Alexandria | Ancient Jerusalem | Heian-kyō | Heian | Ayodhya | Patna | Budapest | Lutetia | Paris | Camulodunum | Colchester | Eboracum | Aquae Sulis | Deva | Chester | Kanchipuram | Madurai | Ujjain | Mathura | Balkh | Herat | Ghazni | Khiva | Ancient Damascus | Ancient Aleppo | Ancient Cairo | Ancient Constantinople | Ancient Istanbul | Ancient Byzantium | Ancient Thessaloniki | Ancient Syracuse | Ancient Naples | Ancient Marseille | Ancient Antioch | Ancient Sidon | Ancient Beirut | Ancient Gaza | Ancient Tunis | Ancient Varanasi | Ancient Xi'an | Ancient Beijing | Ancient Luoyang | Ancient Cusco | Ancient Cuzco | Ancient Quito | Ancient Mexico City | Ancient Cholula | Ancient Ollantaytambo | Ancient London | Ancient York | Ancient Bath | Ancient Trier | Ancient Mérida | Ancient Tarragona | Ancient Split | Ancient Plovdiv | Ancient Cologne | Ancient Samarkand | Ancient Bukhara | Ancient Timbuktu | Ancient Djenné | Ancient Sana'a | Ancient Baghdad | Ancient Mosul | Ancient Erbil | Ancient Hamadan | Ancient Ecbatana | Ancient Kyoto | Ancient Gyeongju | Ancient Halicarnassus | Ancient Bodrum | Ancient Smyrna | Ancient Izmir | Ancient Rhodes | Ancient Lalibela | Ancient Basel | Ancient Heian-kyō | Ancient Heian | Ancient Ayodhya | Ancient Patna | Ancient Budapest | Ancient Lutetia | Ancient Paris | Ancient Camulodunum | Ancient Colchester | Ancient Eboracum | Ancient Aquae Sulis | Ancient Deva | Ancient Chester | Ancient Kanchipuram | Ancient Madurai | Ancient Ujjain | Ancient Mathura | Ancient Balkh | Ancient Herat | Ancient Ghazni | Ancient Khiva — "Still a living city, ruins and all."
+- Stonehenge | Avebury | Newgrange | Carnac | Gobekli Tepe | Nazca Lines | Borobudur | Prambanan | Colosseum | Parthenon | Acropolis | Pantheon | Roman Forum | Hadrian's Wall | Great Wall of China | Great Wall | Terracotta Army | Taj Mahal | Alhambra | Ajanta | Ellora | Sanchi | Mount Nemrut | Abu Simbel | Karnak | Luxor Temple | Philae | Dendera | Edfu | Kom Ombo | Deir el-Bahari | My Son | Ta Prohm | Hadrian's Villa | Moray | Sphinx | Great Sphinx | Tara | Hill of Tara | Ancient Stonehenge | Ancient Avebury | Ancient Newgrange | Ancient Carnac | Ancient Gobekli Tepe | Ancient Nazca Lines | Ancient Borobudur | Ancient Prambanan | Ancient Colosseum | Ancient Parthenon | Ancient Acropolis | Ancient Pantheon | Ancient Roman Forum | Ancient Hadrian's Wall | Ancient Great Wall | Ancient Terracotta Army | Ancient Taj Mahal | Ancient Alhambra | Ancient Ajanta | Ancient Ellora | Ancient Sanchi | Ancient Mount Nemrut | Ancient Abu Simbel | Ancient Karnak | Ancient Luxor Temple | Ancient Philae | Ancient Dendera | Ancient Edfu | Ancient Kom Ombo | Ancient Deir el-Bahari | Ancient My Son | Ancient Ta Prohm | Ancient Hadrian's Villa | Ancient Moray | Ancient Sphinx | Ancient Great Sphinx | Ancient Tara — "A monument or temple, not a city."
+- Giza | Pyramids | Pyramids of Giza | Ancient Giza | Ancient Pyramids — "Giza is a busy living city, and its pyramids stand in a burial ground."
+- Hanging Gardens of Babylon | Hanging Gardens | Colossus of Rhodes | Lighthouse of Alexandria | Pharos | Great Pyramid | Great Pyramid of Giza | Temple of Artemis | Statue of Zeus | Mausoleum of Halicarnassus | Seven Wonders | Ancient Hanging Gardens | Ancient Pharos | Ancient Great Pyramid | Ancient Seven Wonders — "A wonder of the ancient world, not a city."
+- Masada | Sacsayhuaman | Vindolanda | Housesteads | Maiden Castle | Herodium | Krak des Chevaliers | Ancient Masada | Ancient Sacsayhuaman | Ancient Vindolanda | Ancient Housesteads | Ancient Maiden Castle | Ancient Herodium — "A fortress, not a city."
+- Olympia | Ancient Olympia — "A sanctuary of the gods and home of the Games, never a city in its own right."
+- Nalanda | Vikramashila | Somapura | Paharpur | Odantapuri | Ancient Nalanda | Ancient Vikramashila | Ancient Somapura | Ancient Paharpur | Ancient Odantapuri — "A great Buddhist monastery and university, not a city."
+- L'Anse aux Meadows — "A Norse camp of a few buildings, not a city."
+- Easter Island | Rapa Nui | Ancient Easter Island | Ancient Rapa Nui — "An island famous for its statues, not a city."
+- Pripyat | Chernobyl | Kolmanskop | Hashima | Battleship Island | Bodie | Centralia | Varosha | Kayakoy | Belchite | Fatehpur Sikri | Birka | Hedeby | Dunwich | Mystras | Mistra | Medina Azahara | Madinat al-Zahra | Old Goa | Ancient Pripyat | Ancient Chernobyl | Ancient Kolmanskop | Ancient Hashima | Ancient Battleship Island | Ancient Bodie | Ancient Centralia | Ancient Varosha | Ancient Kayakoy | Ancient Belchite | Ancient Fatehpur Sikri | Ancient Birka | Ancient Hedeby | Ancient Dunwich | Ancient Mystras | Ancient Mistra | Ancient Medina Azahara | Ancient Madinat al-Zahra | Ancient Old Goa — "Built or abandoned too late to count as ancient here."
+- Maya | Mayans | Inca | Incas | Aztec | Aztecs | Sumer | Sumerians | Mesopotamia | Indus Valley | Indus Valley Civilisation | Assyria | Babylonia | Akkadian Empire | Egypt | Ancient Egypt | Ancient Greece | Etruscans | Phoenicia | Persia | Persian Empire | Roman Empire | Nubia | Kush | Olmec | Olmecs | Minoans | Mycenaeans | Hittites | Khmer Empire | Mali Empire | Dilmun | Nabataeans | Toltecs | Zapotecs | Romans | Greeks | Carthaginians | Egyptians | Khmer | Moche | Chimú | Ghana | Ghana Empire | Mali | Songhai | Aksumites | Bactria | Kemet | Ancient Maya | Ancient Mayans | Ancient Inca | Ancient Incas | Ancient Aztec | Ancient Aztecs | Ancient Sumer | Ancient Sumerians | Ancient Mesopotamia | Ancient Indus Valley | Ancient Assyria | Ancient Babylonia | Ancient Etruscans | Ancient Phoenicia | Ancient Persia | Ancient Nubia | Ancient Kush | Ancient Olmec | Ancient Olmecs | Ancient Minoans | Ancient Mycenaeans | Ancient Hittites | Ancient Dilmun | Ancient Nabataeans | Ancient Toltecs | Ancient Zapotecs | Ancient Romans | Ancient Greeks | Ancient Carthaginians | Ancient Egyptians | Ancient Khmer | Ancient Moche | Ancient Chimú | Ancient Ghana | Ancient Mali | Ancient Songhai | Ancient Aksumites | Ancient Bactria | Ancient Kemet | Ancient Africa | Ancient Asia | Ancient Europe | Ancient Mexico | Ancient Nigeria | Ancient Spain | Ancient Italy | Ancient Russia | Ancient Syria | Ancient Turkey | Ancient Anatolia | Ancient Cambodia | Ancient Yemen | Ancient Libya | Ancient Tunisia | Ancient Jordan | Ancient Thailand | Ancient Indonesia | Ancient Afghanistan | Ancient Pakistan | Ancient Sri Lanka | Ancient Bolivia | Ancient Colombia | Ancient Guatemala | Ancient Ireland | Ancient Scotland | Ancient America | Ancient Americas | Ancient China | Ancient Japan | Ancient Korea | Ancient India | Ancient Iraq | Ancient Iran | Ancient Israel | Ancient Lebanon | Ancient Sudan | Ancient Britain | Ancient France | Ancient Germany | Ancient Gaul | Ancient Arabia | Ancient Ethiopia | Ancient Peru | Ancient Vietnam — "A civilisation, people or land, not a city. Name one of its cities."
+- Lost City | Ancient Lost City | Ancient City | Ancient cities | Ancient Ruins | Ruins | Ruined city — "Many cities have been lost. Name one."
+- Aztlan | Ancient Aztlan — "The Aztecs' homeland of legend, never found."
+- Valley of the Kings | Valley of the Queens | Saqqara | Sakkara | Dahshur | Sutton Hoo | Necropolis | Sipán | Ancient Saqqara | Ancient Sakkara | Ancient Dahshur | Ancient Sutton Hoo | Ancient Necropolis | Ancient Sipán — "A burial ground, not a city."
+- Dodona | Didyma | Branchidae | Ancient Dodona | Ancient Didyma | Ancient Branchidae — "An oracle of the gods, never a city in its own right."
+- Cibola | Seven Cities of Gold | Seven Cities of Cibola | Quivira | Ancient Cibola | Ancient Quivira — "Coronado went looking in 1540 and 1541 and found farming villages, with no gold at all."
+- Indraprastha | Indraprasth | Ancient Indraprastha | Ancient Indraprasth — "The Pandavas' city in the Mahabharata. Some place it under Delhi's Old Fort, but that is unproven."
+- Clonmacnoise | Glendalough | Lindisfarne | Iona | Jarrow | Skellig Michael | Ancient Clonmacnoise | Ancient Glendalough | Ancient Lindisfarne | Ancient Iona | Ancient Jarrow | Ancient Skellig Michael — "A monastery, not a city."
+- Refused without a reason (near misses of real answers): Suva | Cuba | Guyana | Malta

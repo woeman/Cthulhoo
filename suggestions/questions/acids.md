@@ -1,0 +1,437 @@
+# Name an acid.
+
+Question id: `acids` · category: science · source: `data/science.json`
+
+Rules: Any acid by its chemical, everyday or old name, or its formula: mineral or organic, strong or weak, including amino, fatty and nucleic acids. Salts, bases and sour foods don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (370 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Hydrochloric acid — HCl | Hydrogen chloride | Muriatic acid | Spirit of salt | Spirits of salt | Stomach acid | Gastric acid | Muratic acid | Hydrochloric | Muriatic | Muratic | Brick acid | Pool acid | Marine acid | Marine acid air | Acidum salis | Salt acid
+- Sulfuric acid — Sulphuric acid | H2SO4 | Oil of vitriol | Vitriol | Battery acid | Dihydrogen sulfate | Dihydrogen sulphate | Sulfuric | Sulphuric
+- Nitric acid — HNO3 | Aqua fortis | Spirit of nitre | Spirit of niter | Nitric
+- Citric acid — Sour salt | E330 | Citric | Citrus acid | C6H8O7 | Citrate
+- Acetic acid — Ethanoic acid | CH3COOH | Glacial acetic acid | E260 | Acetic | Ethanoic | Glacial acetic | C2H4O2 | CH3CO2H | Spirit of vinegar
+- Lactic acid — Milk acid | E270 | Lactic | C3H6O3 | Lactate
+- Deoxyribonucleic acid — DNA | Desoxyribonucleic acid | Mitochondrial DNA | mtDNA | cDNA | Complementary DNA | Deoxyribonucleic | Desoxyribonucleic
+
+### Tier 2: common (18)
+
+- Ascorbic acid — Vitamin C | Asorbic acid | L-ascorbic acid | E300 | Ascorbic | Asorbic | L-ascorbic | C6H8O6
+- Hydrofluoric acid — HF | Hydrogen fluoride | Hydrofluoric
+- Formic acid — Methanoic acid | Fromic acid | HCOOH | Formic | Methanoic | Fromic | HCO2H | CH2O2
+- Carbonic acid — H2CO3 | Carbonic
+- Phosphoric acid — Orthophosphoric acid | H3PO4 | E338 | Phosphoric | Orthophosphoric
+- Folic acid — Folate | Vitamin B9 | Folacin | Pteroylglutamic acid | Folic | Pteroylglutamic
+- Uric acid — Uric | C5H4N4O3
+- Boric acid — Boracic acid | Orthoboric acid | H3BO3 | Boric | Boracic | Orthoboric
+- Hydrocyanic acid — Prussic acid | Hydrogen cyanide | HCN | Hydrocyanic | Prussic
+- Salicylic acid — 2-Hydroxybenzoic acid | Salicylic | 2-Hydroxybenzoic | C7H6O3
+- Acetylsalicylic acid — Aspirin | ASA | Acetylsalicylic | C9H8O4
+- Oxalic acid — Ethanedioic acid | Acid of sugar | Oxalic | Ethanedioic | H2C2O4 | C2H2O4
+- Malic acid — E296 | Malic | C4H6O5 | Malate
+- Tartaric acid — E334 | Racemic acid | Tartaric | Racemic | C4H6O6
+- Benzoic acid — E210 | Benzoic | C6H5COOH | C7H6O2
+- Hyaluronic acid — Hyaluronan | Hyaluronic
+- Ribonucleic acid — RNA | Messenger RNA | mRNA | Transfer RNA | tRNA | Ribosomal RNA | rRNA | Messenger ribonucleic acid | Ribonucleic | Messenger ribonucleic
+- Carbolic acid — Phenol | Hydroxybenzene | Carbolic | C6H5OH
+
+### Tier 3: known to fans (41)
+
+- Hydrobromic acid — HBr | Hydrogen bromide | Hydrobromic
+- Hydroiodic acid — Hydriodic acid | HI | Hydrogen iodide | Hydroiodic | Hydriodic
+- Perchloric acid — HClO4 | Perchloric
+- Hypochlorous acid — HOCl | HClO | Hypochlorous
+- Nitrous acid — HNO2 | Nitrous
+- Sulfurous acid — H2SO3 | Sulphurous acid | Sulfurous | Sulphurous
+- Chromic acid — Cromic acid | Chromic | Cromic | H2CrO4
+- Aqua regia — Royal water | Nitrohydrochloric acid | Nitro-muriatic acid | Nitrohydrochloric | Nitro-muriatic
+- Fluoroantimonic acid — Hexafluoroantimonic acid | HSbF6 | Fluoroantimonic | Hexafluoroantimonic
+- Picric acid — Trinitrophenol | 2,4,6-Trinitrophenol | Lyddite | Melinite | Picric
+- Butyric acid — Butanoic acid | Butyric | Butanoic
+- Propionic acid — Propanoic acid | E280 | Propionic | Propanoic
+- Stearic acid — Octadecanoic acid | Stearic | Octadecanoic
+- Palmitic acid — Hexadecanoic acid | Palmitic | Hexadecanoic
+- Oleic acid — Oleic
+- Lauric acid — Dodecanoic acid | Lauric | Dodecanoic
+- Linoleic acid — Linoleic
+- Glutamic acid — Glutamate | L-glutamic acid | Glutamic | L-glutamic
+- Aspartic acid — Aspartate | L-aspartic acid | Aspartic | L-aspartic
+- Pyruvic acid — Pyruvic | Pyruvate
+- Succinic acid — Butanedioic acid | Spirit of amber | Succinic | Butanedioic | Succinate
+- Glycolic acid — Hydroxyacetic acid | Glycolic | Hydroxyacetic
+- Nicotinic acid — Niacin | Vitamin B3 | Nicotinic
+- Pantothenic acid — Vitamin B5 | Pantothenic
+- Gamma-aminobutyric acid — GABA | 4-Aminobutanoic acid | Aminobutyric acid | Gamma-aminobutyric | 4-Aminobutanoic | Aminobutyric
+- Lysergic acid — Lysergic
+- Sorbic acid — E200 | Sorbic
+- Acrylic acid — Propenoic acid | Acrylic | Propenoic
+- Tannic acid — Tannin | Tannic
+- Glycine
+- Alanine
+- Leucine
+- Phenylalanine
+- Tryptophan
+- Methionine
+- Cysteine
+- Tyrosine
+- Glutamine — Glutamin
+- Lysine
+- Arginine
+- Taurine — Aminoethanesulfonic acid | 2-Aminoethanesulfonic acid | Aminoethanesulphonic acid | 2-Aminoethanesulphonic acid | Aminoethanesulfonic | 2-Aminoethanesulfonic | Aminoethanesulphonic | 2-Aminoethanesulphonic
+
+### Tier 4: obscure (77)
+
+- Chloric acid — HClO3 | Chloric
+- Periodic acid — Periodic | HIO4 | H5IO6 | Orthoperiodic acid | Metaperiodic acid
+- Phosphorous acid — Phosphonic acid | H3PO3 | Phosphonic
+- Silicic acid — Orthosilicic acid | Silicic | Orthosilicic | H4SiO4
+- Arsenic acid — H3AsO4
+- Fulminic acid — Fulminic | HCNO
+- Oleum — Fuming sulfuric acid | Fuming sulphuric acid | Fuming sulfuric | Fuming sulphuric
+- Magic acid
+- Valeric acid — Pentanoic acid | Valeric | Pentanoic
+- Caproic acid — Hexanoic acid | Caproic | Hexanoic
+- Caprylic acid — Octanoic acid | Caprylic | Octanoic
+- Capric acid — Decanoic acid | Capric | Decanoic
+- Myristic acid — Tetradecanoic acid | Myristic | Tetradecanoic
+- Arachidonic acid — Arachidonic
+- Alpha-linolenic acid — Linolenic acid | Alpha-linolenic | Linolenic
+- Eicosapentaenoic acid — EPA | Icosapentaenoic acid | Eicosapentaenoic | Icosapentaenoic
+- Docosahexaenoic acid — DHA | Docosahexaenoic
+- Erucic acid — Erucic
+- Malonic acid — Propanedioic acid | Malonic | Propanedioic
+- Adipic acid — Hexanedioic acid | Adipic | Hexanedioic
+- Azelaic acid — Azelaic
+- Maleic acid — Maleic
+- Fumaric acid — E297 | Fumaric | Fumarate
+- Phthalic acid — Phthalic
+- Terephthalic acid — Terephthalic
+- Oxaloacetic acid — Oxaloacetic | Oxaloacetate
+- Alpha-ketoglutaric acid — Ketoglutaric acid | 2-Oxoglutaric acid | Oxoglutaric acid | Alpha-ketoglutaric | Ketoglutaric | 2-Oxoglutaric | Oxoglutaric
+- Acetoacetic acid — Acetoacetic
+- Mandelic acid — Mandelic
+- Gamma-hydroxybutyric acid — GHB | Gamma-hydroxybutyric
+- Cinnamic acid — Cinnamic
+- Gallic acid — Gallic
+- Ferulic acid — Ferulic
+- Chlorogenic acid — Chlorogenic
+- Shikimic acid — Shikimic
+- Mefenamic acid — Ponstan | Meftal | Mefenamic
+- Tranexamic acid — TXA | Tranexamic
+- Valproic acid — Valproic
+- Fusidic acid — Fucidin | Fusidic
+- Clavulanic acid — Clavulanic
+- Retinoic acid — Tretinoin | Isotretinoin | Vitamin A acid | Retinoic
+- Kojic acid — Kojic
+- Alpha-lipoic acid — Lipoic acid | Thioctic acid | Alpha-lipoic | Lipoic | Thioctic
+- Para-aminobenzoic acid — PABA | 4-Aminobenzoic acid | p-Aminobenzoic acid | Aminobenzoic acid | Para-aminobenzoic | 4-Aminobenzoic | p-Aminobenzoic | Aminobenzoic
+- Abscisic acid — Abscisic
+- Gibberellic acid — Gibberellic
+- Indole-3-acetic acid — Indoleacetic acid | IAA | Indole-3-acetic | Indoleacetic
+- Jasmonic acid — Jasmonic
+- Humic acid — Humic
+- Fulvic acid — Fulvic
+- Alginic acid — Alginic
+- Phytic acid — Inositol hexakisphosphate | IP6 | Phytic
+- Glucuronic acid — Glucuronic
+- Gluconic acid — Gluconic
+- Sialic acid — N-Acetylneuraminic acid | Neu5Ac | Sialic | N-Acetylneuraminic
+- Carminic acid — Carminic
+- Domoic acid — Domoic
+- Barbituric acid — Barbituric
+- Trichloroacetic acid — TCA | Trichloroacetic
+- Trifluoroacetic acid — TFA | Trifluoroacetic
+- Peracetic acid — Peroxyacetic acid | Peracetic | Peroxyacetic
+- Perfluorooctanoic acid — PFOA | Perfluorooctanoic
+- Ethylenediaminetetraacetic acid — EDTA | Ethylenediaminetetraacetic
+- Valine
+- Isoleucine
+- Proline
+- Serine
+- Threonine
+- Asparagine
+- Histidine
+- Ornithine
+- Citrulline
+- Theanine — L-theanine
+- Homocysteine
+- Beta-alanine
+- L-DOPA — Levodopa | DOPA
+- Hydroxybutyric acid — Hydroxybutyric
+
+### Tier 5: expert (224)
+
+- Chlorous acid — HClO2 | Chlorous
+- Bromic acid — Bromic | HBrO3
+- Bromous acid — Bromous
+- Hypobromous acid — Hypobromous | HOBr | HBrO
+- Perbromic acid — Perbromic
+- Iodic acid — Iodic | HIO3
+- Hypoiodous acid — Hypoiodous
+- Hypofluorous acid — Hypofluorous
+- Hyponitrous acid — Hyponitrous
+- Fuming nitric acid — Red fuming nitric acid | White fuming nitric acid | RFNA | WFNA | Fuming nitric | Red fuming nitric | White fuming nitric
+- Disulfuric acid — Pyrosulfuric acid | Disulphuric acid | Pyrosulphuric acid | Disulfuric | Pyrosulfuric | Disulphuric | Pyrosulphuric | H2S2O7
+- Thiosulfuric acid — Thiosulphuric acid | Thiosulfuric | Thiosulphuric
+- Dithionic acid — Dithionic
+- Peroxymonosulfuric acid — Caro's acid | Persulfuric acid | Peroxymonosulphuric acid | Persulphuric acid | Peroxymonosulfuric | Persulfuric | Peroxymonosulphuric | Persulphuric | H2SO5
+- Peroxydisulfuric acid — Marshall's acid | Peroxydisulphuric acid | Peroxydisulfuric | Peroxydisulphuric
+- Sulfamic acid — Amidosulfonic acid | Sulphamic acid | Amidosulphonic acid | Sulfamic | Amidosulfonic | Sulphamic | Amidosulphonic
+- Fluorosulfuric acid — Fluorosulfonic acid | Fluorosulphuric acid | Fluorosulphonic acid | Fluorosulfuric | Fluorosulfonic | Fluorosulphuric | Fluorosulphonic | HSO3F
+- Chlorosulfuric acid — Chlorosulfonic acid | Chlorosulphuric acid | Chlorosulphonic acid | Chlorosulfuric | Chlorosulfonic | Chlorosulphuric | Chlorosulphonic
+- Hypophosphorous acid — Phosphinic acid | Hypophosphorous | Phosphinic | H3PO2
+- Hypophosphoric acid — Hypophosphoric
+- Pyrophosphoric acid — Diphosphoric acid | Pyrophosphoric | Diphosphoric | H4P2O7
+- Metaphosphoric acid — Metaphosphoric
+- Polyphosphoric acid — Polyphosphoric
+- Arsenous acid — Arsenious acid | Arsenous | Arsenious
+- Selenic acid — Selenic | H2SeO4
+- Selenous acid — Selenious acid | Selenous | Selenious
+- Telluric acid — Telluric
+- Tellurous acid — Tellurous
+- Hydroselenic acid — Hydrogen selenide | Hydroselenic
+- Hydrosulfuric acid — Hydrogen sulfide | H2S | Sulfhydric acid | Hydrosulphuric acid | Hydrogen sulphide | Sulphhydric acid | Hydrosulfuric | Sulfhydric | Hydrosulphuric | Sulphhydric
+- Hydrazoic acid — Hydrogen azide | Hydrazoic | HN3
+- Cyanic acid — Cyanic
+- Isocyanic acid — Isocyanic
+- Thiocyanic acid — Thiocyanic | HSCN
+- Ferrocyanic acid — Ferrocyanic
+- Ferricyanic acid — Ferricyanic
+- Chloroauric acid — Tetrachloroauric acid | Chloroauric | Tetrachloroauric | HAuCl4
+- Chloroplatinic acid — Hexachloroplatinic acid | Chloroplatinic | Hexachloroplatinic
+- Hexafluorosilicic acid — Fluorosilicic acid | Hydrofluorosilicic acid | Hexafluorosilicic | Fluorosilicic | Hydrofluorosilicic | H2SiF6
+- Fluoroboric acid — Tetrafluoroboric acid | Fluoroboric | Tetrafluoroboric | HBF4
+- Hexafluorophosphoric acid — Hexafluorophosphoric
+- Dichromic acid — Dichromic | H2Cr2O7
+- Permanganic acid — Permanganic | HMnO4
+- Perrhenic acid — Perrhenic
+- Pertechnetic acid — Pertechnetic
+- Molybdic acid — Molybdic
+- Tungstic acid — Tungstic
+- Phosphomolybdic acid — Phosphomolybdic
+- Phosphotungstic acid — Phosphotungstic
+- Perxenic acid — Perxenic
+- Hydrogen peroxide — H2O2
+- Hydronium — Hydronium ion | H3O+ | Oxonium ion
+- Piranha solution — Piranha etch | Piranha acid
+- Boron trifluoride — BF3
+- Aluminium chloride — Aluminum chloride | AlCl3
+- Antimony pentafluoride — SbF5
+- Triflic acid — Trifluoromethanesulfonic acid | Trifluoromethanesulphonic acid | Triflic | Trifluoromethanesulfonic | Trifluoromethanesulphonic | CF3SO3H | TfOH
+- Isobutyric acid — Isobutyric
+- Isovaleric acid — Isovaleric
+- Pivalic acid — Pivalic
+- Enanthic acid — Heptanoic acid | Oenanthic acid | Enanthic | Heptanoic | Oenanthic
+- Pelargonic acid — Nonanoic acid | Pelargonic | Nonanoic
+- Undecylenic acid — Undecylenic
+- Margaric acid — Heptadecanoic acid | Margaric | Heptadecanoic
+- Arachidic acid — Eicosanoic acid | Icosanoic acid | Arachidic | Eicosanoic | Icosanoic
+- Behenic acid — Docosanoic acid | Behenic | Docosanoic
+- Lignoceric acid — Tetracosanoic acid | Lignoceric | Tetracosanoic
+- Cerotic acid — Hexacosanoic acid | Cerotic | Hexacosanoic
+- Montanic acid — Octacosanoic acid | Montanic | Octacosanoic
+- Melissic acid — Triacontanoic acid | Melissic | Triacontanoic
+- Myristoleic acid — Myristoleic
+- Palmitoleic acid — Palmitoleic
+- Sapienic acid — Sapienic
+- Elaidic acid — Elaidic
+- Vaccenic acid — Vaccenic
+- Petroselinic acid — Petroselinic
+- Gamma-linolenic acid — GLA | Gamma-linolenic
+- Stearidonic acid — Stearidonic
+- Docosapentaenoic acid — DPA | Docosapentaenoic
+- Mead acid
+- Conjugated linoleic acid — CLA | Conjugated linoleic
+- Rumenic acid — Rumenic
+- Punicic acid — Punicic
+- Ricinoleic acid — Ricinoleic
+- Nervonic acid — Nervonic
+- Naphthenic acid — Naphthenic
+- Chloroacetic acid — Monochloroacetic acid | Chloroacetic | Monochloroacetic
+- Dichloroacetic acid — Dichloroacetic
+- Fluoroacetic acid — Fluoroacetic
+- Thioglycolic acid — Thioglycolic
+- Thioacetic acid — Thioacetic
+- Performic acid — Performic
+- meta-Chloroperoxybenzoic acid — mCPBA | Chloroperbenzoic acid | meta-Chloroperoxybenzoic | Chloroperbenzoic
+- Methanesulfonic acid — Mesylic acid | Methanesulphonic acid | Methanesulfonic | Mesylic | Methanesulphonic
+- p-Toluenesulfonic acid — Tosylic acid | Toluenesulfonic acid | PTSA | p-Toluenesulphonic acid | Toluenesulphonic acid | p-Toluenesulfonic | Tosylic | Toluenesulfonic | p-Toluenesulphonic | Toluenesulphonic
+- Benzenesulfonic acid — Benzenesulphonic acid | Benzenesulfonic | Benzenesulphonic
+- Camphorsulfonic acid — Camphorsulphonic acid | Camphorsulfonic | Camphorsulphonic
+- Sulfanilic acid — Sulphanilic acid | Sulfanilic | Sulphanilic
+- Perfluorooctanesulfonic acid — PFOS | Perfluorooctanesulphonic acid | Perfluorooctanesulfonic | Perfluorooctanesulphonic
+- Nitrilotriacetic acid — Nitrilotriacetic
+- 2,4-Dichlorophenoxyacetic acid — 2,4-D | 2,4-Dichlorophenoxyacetic
+- Glyoxylic acid — Glyoxylic
+- Levulinic acid — Levulinic
+- Glyceric acid — Glyceric
+- Crotonic acid — Crotonic
+- Tiglic acid — Tiglic
+- Methacrylic acid — Methacrylic
+- Muconic acid — Muconic
+- Itaconic acid — Itaconic
+- Isocitric acid — Isocitric
+- Aconitic acid — Aconitic
+- Glutaric acid — Glutaric
+- Pimelic acid — Pimelic
+- Suberic acid — Suberic
+- Sebacic acid — Sebacic
+- Mucic acid — Galactaric acid | Mucic | Galactaric
+- Saccharic acid — Glucaric acid | Saccharic | Glucaric
+- Squaric acid — Squaric
+- Deltic acid — Deltic
+- Croconic acid — Croconic
+- Rhodizonic acid — Rhodizonic
+- Cyanuric acid — Cyanuric
+- Beta-hydroxybutyric acid — 3-Hydroxybutyric acid | BHB | Beta-hydroxybutyric | 3-Hydroxybutyric
+- Hydroxycitric acid — Hydroxycitric
+- Isophthalic acid — Isophthalic
+- Mellitic acid — Mellitic
+- Phenylacetic acid — Phenylacetic
+- Hippuric acid — Hippuric
+- Anthranilic acid — Anthranilic
+- Gentisic acid — Gentisic
+- Protocatechuic acid — Protocatechuic
+- Vanillic acid — Vanillic
+- Syringic acid — Syringic
+- Caffeic acid — Caffeic
+- Coumaric acid — p-Coumaric acid | Coumaric | p-Coumaric
+- Rosmarinic acid — Rosmarinic
+- Ellagic acid — Ellagic
+- Quinic acid — Quinic
+- Chorismic acid — Chorismic
+- Mevalonic acid — Mevalonic
+- Usnic acid — Usnic
+- Abietic acid — Abietic
+- Boswellic acid — Boswellic
+- Ursolic acid — Ursolic
+- Oleanolic acid — Oleanolic
+- Betulinic acid — Betulinic
+- Glycyrrhizic acid — Glycyrrhizin | Glycyrrhizic
+- Aristolochic acid — Aristolochic
+- Okadaic acid — Okadaic
+- Kainic acid — Kainic
+- Ibotenic acid — Ibotenic
+- Valerenic acid — Valerenic
+- Homovanillic acid — Homovanillic
+- Vanillylmandelic acid — VMA | Vanillylmandelic
+- 5-Hydroxyindoleacetic acid — 5-HIAA | 5-Hydroxyindoleacetic
+- Kynurenic acid — Kynurenic
+- Quinolinic acid — Quinolinic
+- Picolinic acid — Picolinic
+- Isonicotinic acid — Isonicotinic
+- Dehydroascorbic acid — Dehydroascorbic
+- Erythorbic acid — Isoascorbic acid | Erythorbic | Isoascorbic
+- Folinic acid — Leucovorin | Folinic
+- Orotic acid — Vitamin B13 | Orotic
+- Pangamic acid — Vitamin B15 | Pangamic
+- Biotin — Vitamin B7 | Vitamin H
+- Aminolevulinic acid — 5-Aminolevulinic acid | Delta-aminolevulinic acid | Aminolevulinic | 5-Aminolevulinic | Delta-aminolevulinic
+- Galacturonic acid — Galacturonic
+- Iduronic acid — Iduronic
+- Neuraminic acid — Neuraminic
+- Muramic acid — Muramic
+- Teichoic acid — Teichoic
+- Cholic acid — Cholic
+- Chenodeoxycholic acid — Chenodeoxycholic
+- Deoxycholic acid — Deoxycholic
+- Lithocholic acid — Lithocholic
+- Taurocholic acid — Taurocholic
+- Glycocholic acid — Glycocholic
+- Ursodeoxycholic acid — Ursodiol | Ursodeoxycholic
+- Zoledronic acid — Zoledronic
+- Alendronic acid — Alendronic
+- Nalidixic acid — Nalidixic
+- Mycophenolic acid — Mycophenolic
+- Aminocaproic acid — Aminocaproic
+- Ethacrynic acid — Ethacrynic
+- Tiaprofenic acid — Tiaprofenic
+- Flufenamic acid — Flufenamic
+- Pseudomonic acid — Mupirocin | Pseudomonic
+- Ibuprofen
+- Naproxen
+- Diclofenac
+- Selenocysteine
+- Pyrrolysine
+- Hydroxyproline
+- Sarcosine
+- Cystine
+- Canavanine
+- Norleucine
+- Norvaline
+- Homoserine
+- Lanthionine
+- Mimosine
+- BMAA — Beta-methylamino-L-alanine
+- Aminoisobutyric acid — 2-Aminoisobutyric acid | Aminoisobutyric | 2-Aminoisobutyric
+- Djenkolic acid — Djenkolic
+- Peptide nucleic acid — PNA | Peptide nucleic
+- Xeno nucleic acid — XNA | Xeno nucleic
+- Threose nucleic acid — TNA | Threose nucleic
+- Locked nucleic acid — LNA | Locked nucleic
+- Glycol nucleic acid — GNA | Glycol nucleic
+- Adenylic acid — Adenylic
+- Guanylic acid — Guanylic
+- Inosinic acid — Inosinic
+- Cytidylic acid — Cytidylic
+- Uridylic acid — Uridylic
+- Mycolic acid — Mycolic acids | Mycolic
+- Phosphatidic acid — Phosphatidic
+- Homogentisic acid — Homogentisic
+- Traumatic acid — Traumatic
+- N-acetylcysteine — NAC | Acetylcysteine | N-acetyl-L-cysteine
+- N-methyl-D-aspartic acid — NMDA | N-methyl-D-aspartate | N-methyl-D-aspartic
+- Indole-3-butyric acid — Indolebutyric acid | IBA | Indole-3-butyric | Indolebutyric
+- Lactobionic acid — Lactobionic
+- Methylmalonic acid — Methylmalonic
+- Creatine
+
+### Tier 6: rare jackpots (3)
+
+- Xenic acid — Xenic
+- Carborane acid — Carborane superacid
+- Angelic acid
+
+## Refused on purpose (33)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Acid | Acids — "That covers every acid. Name one."
+- Amino acid | Amino acids | Essential amino acid | Proteinogenic amino acid | Amino — "A family of twenty in your body's proteins. Name one."
+- Fatty acid | Omega-3 | Omega-3 fatty acid | Omega-6 | Omega-6 fatty acid | Omega-9 | Saturated fatty acid | Unsaturated fatty acid | Trans fatty acid | Essential fatty acid | Short-chain fatty acid — "A family of acids, not one acid. Name one."
+- Nucleic acid | Nucleic acids | Nucleic — "A family of acids, DNA among them. Name one."
+- Strong acid | Weak acid | Superacid | Mineral acid | Inorganic acid | Organic acid | Carboxylic acid | Oxoacid | Oxyacid | Hydracid | Lewis acid | Brønsted acid | Arrhenius acid | Hydroxy acid | Alpha hydroxy acid | AHA | Beta hydroxy acid | BHA | Keto acid | Bile acid | Dicarboxylic acid | Peracid | Conjugate acid | Polyprotic acid | Diprotic acid — "A kind of acid, not a particular one. Name one."
+- Vitamin B — "A family of vitamins, and only some are acids. Give its number."
+- LSD | Lysergic acid diethylamide — "Called acid on the street, but the drug itself is not an acid."
+- Acid house | Acid jazz | Acid rock | Acid techno | Acid trance — "A style of dance music, not a chemical."
+- Acid drop — "A sour boiled sweet, not a chemical."
+- Acid rain — "Rain turned acidic by pollution, not an acid itself."
+- Acid test — "The old test for gold, which used nitric acid. Name the acid itself."
+- Acid reflux | Heartburn — "Stomach acid rising into the gullet. Name the acid itself."
+- Vinegar | Malt vinegar | Cider vinegar | Balsamic vinegar | White vinegar — "Mostly water with some acetic acid in it. Name the acid itself."
+- Lemon juice | Lemon | Orange juice | Grapefruit juice — "Sour from citric acid, but a juice isn't an acid. Name the acid in it."
+- Lime | Lime juice — "Neither lime is an acid: the fruit is sour with citric acid, and the mineral is an alkali."
+- Coca-Cola | Coke | Cola | Pepsi — "Gets its bite from phosphoric acid, but a drink isn't an acid."
+- Sodium hydroxide | Caustic soda | Lye | NaOH | Potassium hydroxide | Caustic potash | KOH | Calcium hydroxide | Slaked lime | Quicklime | Ammonia | Bleach | Baking soda | Bicarbonate of soda | Sodium bicarbonate | Bicarb | Milk of magnesia | Alkali | Base — "An alkali, the opposite of an acid."
+- Sodium chloride | Salt | Table salt | NaCl | Monosodium glutamate | MSG | Epsom salt | Saltpetre | Saltpeter | Potassium nitrate — "A salt, not an acid."
+- Cream of tartar — "A salt of tartaric acid, not the acid itself."
+- Blue vitriol | Green vitriol | White vitriol | Copper sulfate | Copper sulphate — "An old name for a metal salt, such as copper sulfate, not an acid."
+- Acetate | Oxalate | Formate | Benzoate | Salicylate | Ascorbate | Sorbate | Tartrate | Butyrate | Propionate | Stearate | Palmitate | Oleate | Urate | Borate | Sulfate | Sulphate | Sulfite | Sulphite | Nitrate | Nitrite | Phosphate | Carbonate | Bicarbonate | Chloride | Fluoride | Bromide | Iodide | Cyanide | Hypochlorite | Chlorate | Perchlorate | Chromate | Permanganate | Silicate | Arsenate — "The salt or ion of an acid, not the acid itself. Try the acid's own name."
+- Hydrogen | Chlorine | Fluorine | Bromine | Iodine | Sulfur | Sulphur | Nitrogen | Phosphorus | Phosphorous | Oxygen | Carbon | Boron | Arsenic | Selenium | Chromium | Xenon — "An element, not an acid."
+- Adenine | Guanine | Cytosine | Thymine | Uracil | Nucleobase — "A base, one of the letters of DNA and RNA, not an acid."
+- Water | H2O | Dihydrogen monoxide — "It can give up a proton now and then, but water is neutral, not an acid."
+- Ethanol | Alcohol | Methanol | Ethyl alcohol | Methyl alcohol — "An alcohol, not an acid."
+- Acetone | Nail varnish remover | Nail polish remover — "A solvent, not an acid."
+- Nitrous oxide | Laughing gas | N2O — "Laughing gas, not an acid."
+- Aspartame — "A sweetener built from two amino acids. Name one of them instead."
+- Histamine | Dopamine | Serotonin | Adrenaline | Epinephrine | Noradrenaline | Melatonin — "Made in the body from an amino acid, but not an acid itself."
+- Thiamine | Thiamin | Vitamin B1 | Riboflavin | Vitamin B2 | Vitamin B6 | Pyridoxine | Vitamin B12 | Cobalamin | Vitamin A | Retinol | Vitamin D | Vitamin E | Vitamin K | Niacinamide | Nicotinamide — "A vitamin, but not an acid."
+- Litmus | Litmus paper | Indicator — "A dye that shows an acid is there, not an acid itself."
+- Xenomorph blood | Alien blood — "Fiction: the acid blood of the creature in Alien."
+- Branched-chain amino acids | BCAA | BCAAs — "Three amino acids sold together, not one acid. Name one of them."

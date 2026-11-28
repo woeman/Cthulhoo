@@ -1,0 +1,1062 @@
+# Name a classical composer.
+
+Question id: `classical-composers` · category: culture · source: `data/culture.json`
+
+Rules: Any composer of Western classical music, from medieval chant to living composers. Film and game composers count, and so do pop, rock and jazz musicians with well-known concert works or film scores.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (1015 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (14)
+
+- Wolfgang Amadeus Mozart — Mozart | Amadeus | W. A. Mozart | Wolfgang Mozart | Amadeus Mozart
+- Ludwig van Beethoven — Beethoven
+- Johann Sebastian Bach — Bach | J. S. Bach
+- George Frideric Handel — Handel | Haendel | Georg Friedrich Händel | George Frederick Handel | George Handel | Georg Händel | G. F. Handel
+- Antonio Vivaldi — Vivaldi
+- Pyotr Ilyich Tchaikovsky — Tchaikovsky | Tchaikowsky | Tschaikowsky | Chaikovsky | Peter Tchaikovsky | Piotr Tchaikovsky
+- Frédéric Chopin — Chopin
+- Joseph Haydn — Haydn | Franz Joseph Haydn
+- Franz Schubert — Schubert
+- Johannes Brahms — Brahms
+- Richard Wagner — Wagner
+- Claude Debussy — Debussy
+- Edward Elgar — Elgar | Sir Edward Elgar
+- Giuseppe Verdi — Verdi
+
+### Tier 2: common (40)
+
+- Franz Liszt — Liszt | Ferenc Liszt
+- Felix Mendelssohn — Felix Mendelssohn Bartholdy | Mendelssohn | Mendelssohn Bartholdy
+- Robert Schumann — R. Schumann | Schumann
+- Antonín Dvořák — Dvořák
+- Edvard Grieg — Grieg
+- Sergei Rachmaninoff — Rachmaninov | Sergei Rachmaninov | Rakhmaninov | Sergey Rachmaninoff | Rachmaninoff
+- Gustav Mahler — Mahler
+- Hector Berlioz — Berlioz
+- Georges Bizet — Bizet
+- Giacomo Puccini — Puccini
+- Gioachino Rossini — Gioacchino Rossini | Rossini
+- Igor Stravinsky — Stravinsky
+- Sergei Prokofiev — Prokofieff | Sergey Prokofiev | Prokofiev
+- Dmitri Shostakovich — Shostakovitch | Dmitry Shostakovich | Shostakovich
+- Maurice Ravel — Ravel
+- Erik Satie — Satie
+- Gustav Holst — Holst
+- Ralph Vaughan Williams — Vaughan Williams | RVW
+- Henry Purcell — Purcell
+- Johann Pachelbel — Pachelbel
+- Jean Sibelius — Sibelius
+- George Gershwin — Gershwin
+- Aaron Copland — Copland
+- Leonard Bernstein — Bernstein
+- Johann Strauss II — Johann Strauss | Johann Strauss Jr | Strauss II | Johann Strauss the Younger | Johann Strauss Junior | Strauss Jr | The Waltz King | Strauss
+- Richard Strauss — R. Strauss
+- Camille Saint-Saëns — Saint-Saens
+- Gabriel Fauré — Faure
+- Modest Mussorgsky — Moussorgsky | Musorgsky | Mussorgsky
+- Nikolai Rimsky-Korsakov — Rimsky-Korsakoff | Rimsky | Rimsky-Korsakov
+- Niccolò Paganini — Nicolo Paganini | Paganini
+- Claudio Monteverdi — Monteverdi
+- Benjamin Britten — Britten | Lord Britten
+- Béla Bartók — Bartók
+- Arnold Schoenberg — Schönberg | Arnold Schönberg | Schoenberg
+- Philip Glass — Glass
+- John Williams — Williams
+- Hans Zimmer — Zimmer | Hans Zimmerman
+- Anton Bruckner — Bruckner
+- John Cage — Cage
+
+### Tier 3: known to fans (78)
+
+- Leoš Janáček — Janáček
+- Bedřich Smetana — Smetana
+- Alexander Borodin — Borodin
+- Mikhail Glinka — Glinka
+- Alexander Scriabin — Skryabin | Scriabine | Scriabin
+- Alexander Glazunov — Glazunov
+- Aram Khachaturian — Khachaturian
+- Jules Massenet — Massenet
+- Charles Gounod — Gounod
+- Jacques Offenbach — Offenbach
+- Léo Delibes — Delibes
+- César Franck — Franck
+- Paul Dukas — Dukas
+- Francis Poulenc — Poulenc
+- Olivier Messiaen — Messiaen
+- Pierre Boulez — Boulez
+- Charles-Marie Widor — Widor
+- Gaetano Donizetti — Donizetti
+- Vincenzo Bellini — Bellini
+- Ottorino Respighi — Respighi
+- Pietro Mascagni — Mascagni
+- Ruggero Leoncavallo — Leoncavallo
+- Isaac Albéniz — Albéniz
+- Enrique Granados — Granados
+- Manuel de Falla — de Falla | Falla
+- Joaquín Rodrigo — Rodrigo
+- Carl Nielsen — Nielsen
+- Max Bruch — Bruch
+- Engelbert Humperdinck — Humperdinck
+- Carl Maria von Weber — Weber
+- Giacomo Meyerbeer — Meyerbeer
+- Franz von Suppé — Suppe
+- Franz Lehár — Lehár
+- Erich Wolfgang Korngold — Korngold
+- Paul Hindemith — Hindemith
+- Kurt Weill — Weill
+- Carl Orff — Orff
+- Karlheinz Stockhausen — Stockhausen
+- Alban Berg — Berg
+- György Ligeti — Ligeti
+- Zoltán Kodály — Kodály
+- Arvo Pärt — Pärt
+- Henryk Górecki — Górecki
+- Steve Reich — Reich
+- Charles Ives — Ives
+- Samuel Barber — Barber
+- Scott Joplin — Joplin
+- John Philip Sousa — Sousa
+- Heitor Villa-Lobos — Villa-Lobos
+- Astor Piazzolla — Piazzolla
+- Georg Philipp Telemann — Telemann
+- Arcangelo Corelli — Corelli
+- Jean-Philippe Rameau — Rameau
+- Jean-Baptiste Lully — Lulli | Lully
+- Tomaso Albinoni — Albinoni
+- Dieterich Buxtehude — Buxtehude
+- Giovanni Battista Pergolesi — Pergolesi
+- Christoph Willibald Gluck — Gluck
+- Antonio Salieri — Salieri
+- Luigi Boccherini — Boccherini
+- Clara Schumann — Clara Wieck
+- Hildegard of Bingen — Hildegard | Hildegard von Bingen
+- Thomas Tallis — Tallis
+- William Byrd — Byrd
+- Giovanni Pierluigi da Palestrina — Palestrina
+- Arthur Sullivan — Sullivan
+- Hubert Parry — Sir Hubert Parry | Parry
+- Frederick Delius — Delius
+- William Walton — Walton
+- Michael Tippett — Tippett
+- Samuel Coleridge-Taylor — Coleridge-Taylor
+- Karl Jenkins — Jenkins | Sir Karl Jenkins
+- John Rutter — Rutter
+- Ludovico Einaudi — Einaudi
+- Michael Nyman — Nyman
+- Max Richter — Richter
+- Ennio Morricone — Morricone
+- Howard Shore — Shore
+
+### Tier 4: obscure (139)
+
+- Anton Webern — Anton von Webern | Webern
+- Alexander von Zemlinsky — Zemlinsky
+- Ferruccio Busoni — Busoni
+- Max Reger — Reger
+- Hugo Wolf — Wolf
+- Hans Werner Henze — Henze
+- Iannis Xenakis — Xenakis
+- Luciano Berio — Berio
+- Luigi Nono — Nono
+- Edgard Varèse — Edgar Varese | Varèse
+- Morton Feldman — Feldman
+- Elliott Carter — Carter
+- George Crumb — Crumb
+- Terry Riley — Riley
+- John Adams — Adams
+- Thomas Adès — Adès
+- James MacMillan — MacMillan
+- Judith Weir — Weir | Dame Judith Weir
+- Peter Maxwell Davies — Maxwell Davies | Davies
+- Harrison Birtwistle — Birtwistle
+- John Tavener — Tavener | Sir John Tavener
+- Howard Goodall — Goodall
+- Eric Whitacre — Whitacre
+- Krzysztof Penderecki — Penderecki
+- Witold Lutosławski — Lutosławski
+- Karol Szymanowski — Szymanowski
+- Ignacy Jan Paderewski — Paderewski
+- Henryk Wieniawski — Wieniawski
+- Alfred Schnittke — Schnittke
+- Sofia Gubaidulina — Gubaidulina
+- Mieczysław Weinberg — Vainberg | Weinberg
+- Dmitri Kabalevsky — Kabalevsky
+- Reinhold Glière — Gliere
+- Anatoly Lyadov — Liadov | Lyadov
+- Anton Arensky — Arensky
+- Nikolai Medtner — Medtner
+- Mily Balakirev — Balakirev
+- Anton Rubinstein — Rubinstein
+- Bohuslav Martinů — Martinu
+- Ernő Dohnányi — Ernst von Dohnanyi | Dohnanyi
+- György Kurtág — Kurtág
+- Emmanuel Chabrier — Chabrier
+- Ernest Chausson — Chausson
+- Édouard Lalo — Lalo
+- Albert Roussel — Roussel
+- Jacques Ibert — Ibert
+- Darius Milhaud — Milhaud
+- Arthur Honegger — Honegger
+- Germaine Tailleferre — Tailleferre
+- Henri Dutilleux — Dutilleux
+- Maurice Duruflé — Durufle
+- Louis Vierne — Vierne
+- Lili Boulanger
+- Nadia Boulanger — Boulanger
+- Cécile Chaminade — Chaminade
+- Joseph Canteloube — Canteloube
+- Amilcare Ponchielli — Ponchielli
+- Arrigo Boito — Boito
+- Umberto Giordano — Giordano
+- Nino Rota — Rota
+- Gian Carlo Menotti — Menotti
+- Pablo de Sarasate — Sarasate
+- Fernando Sor — Sor
+- Francisco Tárrega — Tárrega
+- Tomás Luis de Victoria — Victoria
+- Alberto Ginastera — Ginastera
+- Carlos Chávez — Chávez
+- Einojuhani Rautavaara — Rautavaara
+- Kaija Saariaho — Saariaho
+- Toru Takemitsu — Takemitsu
+- Tan Dun
+- Ryuichi Sakamoto — Sakamoto
+- Joe Hisaishi — Hisaishi
+- A. R. Rahman — AR Rahman | Rahman
+- Jonny Greenwood — Greenwood
+- Arnold Bax — Bax | Sir Arnold Bax
+- Arthur Bliss — Bliss | Sir Arthur Bliss
+- John Ireland — Ireland
+- Gerald Finzi — Finzi
+- Herbert Howells — Howells
+- George Butterworth — Butterworth
+- Frank Bridge
+- Ethel Smyth — Smyth | Dame Ethel Smyth
+- Rebecca Clarke — Clarke
+- Charles Villiers Stanford — Stanford
+- Malcolm Arnold — Arnold
+- Percy Grainger — Grainger
+- Albert Ketèlbey — Ketelbey
+- Eric Coates — Coates
+- Edward German
+- John Dowland — Dowland
+- Orlando Gibbons — Gibbons
+- Thomas Weelkes — Weelkes
+- Thomas Morley — Morley
+- Josquin des Prez — Josquin
+- Guillaume de Machaut — Machaut
+- Orlande de Lassus — Orlando di Lasso | Lasso | Lassus
+- Carlo Gesualdo — Gesualdo
+- Giovanni Gabrieli — Gabrieli
+- Gregorio Allegri — Allegri
+- Heinrich Schütz — Schütz
+- Heinrich Ignaz Franz Biber — Biber
+- Girolamo Frescobaldi — Frescobaldi
+- Giuseppe Tartini — Tartini
+- Domenico Scarlatti — Scarlatti
+- Alessandro Scarlatti
+- François Couperin — Couperin le Grand | Couperin
+- Marc-Antoine Charpentier — Charpentier
+- Carl Philipp Emanuel Bach — C. P. E. Bach
+- Johann Christian Bach — J. C. Bach
+- Muzio Clementi — Clementi
+- Johann Nepomuk Hummel — Hummel
+- Carl Czerny — Czerny
+- John Field — Field
+- Louis Spohr — Spohr
+- Joseph Bologne — Chevalier de Saint-Georges | Saint-Georges | Bologne
+- Florence Price — Price
+- William Grant Still
+- Amy Beach
+- Fanny Mendelssohn — Fanny Hensel
+- Turlough O'Carolan — O'Carolan | Carolan
+- Bernard Herrmann — Herrmann
+- Max Steiner — Steiner
+- Miklós Rózsa — Rózsa
+- Jerry Goldsmith — Goldsmith
+- John Barry — Barry
+- James Horner — Horner
+- Danny Elfman — Elfman
+- Debbie Wiseman — Wiseman
+- Henry Mancini — Mancini
+- André Previn — Previn
+- Michael Giacchino — Giacchino
+- Ludwig Göransson — Göransson
+- Vangelis
+- Andrew Lloyd Webber — Lloyd Webber | Webber | Sir Andrew Lloyd Webber | Lord Lloyd Webber
+- Fritz Kreisler — Kreisler
+- Alan Menken — Menken
+- Randy Newman — Newman
+- Ferde Grofé — Grofé
+
+### Tier 5: expert (741)
+
+- Léonin — Leoninus
+- Pérotin — Perotinus
+- Adam de la Halle — Halle
+- Philippe de Vitry — Vitry
+- Francesco Landini — Landini
+- John Dunstable — Dunstaple | Dunstable
+- Guillaume Du Fay — Dufay | Fay
+- Gilles Binchois — Binchois
+- Johannes Ockeghem — Ockeghem
+- Jacob Obrecht — Obrecht
+- Heinrich Isaac — Isaac
+- Pierre de La Rue — Rue
+- Clément Janequin — Janequin
+- Nicolas Gombert — Gombert
+- Adrian Willaert — Willaert
+- Cipriano de Rore
+- Jacques Arcadelt — Arcadelt
+- Luca Marenzio — Marenzio
+- Cristóbal de Morales — Morales
+- Francisco Guerrero — Guerrero
+- Antonio de Cabezón — Cabezón
+- John Taverner — Taverner
+- John Sheppard — Sheppard
+- Robert Fayrfax — Fayrfax
+- Christopher Tye — Tye
+- Thomas Tomkins — Tomkins
+- John Bull
+- Peter Philips — Philips
+- Thomas Campion — Campion
+- John Wilbye — Wilbye
+- Andrea Gabrieli
+- Giulio Caccini — Caccini
+- Francesca Caccini
+- Jacopo Peri
+- Emilio de' Cavalieri — Cavalieri
+- Barbara Strozzi — Strozzi
+- Michael Praetorius — Praetorius
+- Samuel Scheidt — Scheidt
+- Johann Hermann Schein — Schein
+- Jan Pieterszoon Sweelinck — Sweelinck
+- Johann Jakob Froberger — Froberger
+- Georg Böhm — Böhm
+- Johann Joseph Fux — Fux
+- Jan Dismas Zelenka — Zelenka
+- Johann Friedrich Fasch
+- Johann Adolph Hasse — Hasse
+- Johann Joachim Quantz — Quantz
+- Carl Heinrich Graun — Graun
+- Francesco Geminiani — Geminiani
+- Pietro Locatelli — Locatelli
+- Giuseppe Torelli — Torelli
+- Alessandro Stradella — Stradella
+- Alessandro Marcello — Marcello
+- Benedetto Marcello
+- Nicola Porpora — Porpora
+- Louis Couperin
+- Marin Marais — Marais
+- Jean-Marie Leclair — Leclair
+- Michel Richard Delalande — Lalande | Delalande
+- André Campra — Campra
+- Élisabeth Jacquet de La Guerre
+- Joseph Bodin de Boismortier — Boismortier
+- Jean-Féry Rebel — Rebel
+- Matthew Locke — Locke
+- John Blow — Blow
+- Jeremiah Clarke
+- William Croft — Croft
+- Maurice Greene — Greene
+- William Boyce — Boyce
+- Thomas Arne — Arne
+- Charles Avison — Avison
+- John Stanley — Stanley
+- Johann Christoph Pepusch — Pepusch
+- Antonio Caldara — Caldara
+- Baldassare Galuppi — Galuppi
+- Giovanni Battista Sammartini — Sammartini
+- Domenico Cimarosa — Cimarosa
+- Giovanni Paisiello — Paisiello
+- Niccolò Jommelli — Jommelli
+- Giovanni Bononcini — Bononcini
+- Agostino Steffani — Steffani
+- Antonio Soler — Soler
+- Jean-Jacques Rousseau — Rousseau
+- Wilhelm Friedemann Bach — W. F. Bach
+- Johann Christoph Friedrich Bach
+- Leopold Mozart
+- Michael Haydn
+- Johann Stamitz — Stamitz
+- Carl Stamitz
+- Carl Ditters von Dittersdorf — Dittersdorf
+- Johann Baptist Vanhal — Wanhal | Vaňhal
+- Josef Mysliveček — Mysliveček
+- Ignaz Pleyel — Pleyel
+- Jan Ladislav Dussek — Dussek
+- Anton Reicha — Reicha
+- Ferdinand Ries
+- Franz Danzi — Danzi
+- Franz Krommer — Krommer
+- Maria Theresia von Paradis — Paradis
+- Marianna Martines — Martines
+- Juan Crisóstomo Arriaga — Arriaga
+- Joseph Martin Kraus — Kraus
+- Georg Benda — Benda
+- Gaspare Spontini — Spontini
+- Luigi Cherubini — Cherubini
+- Étienne Méhul — Méhul
+- André Grétry — Grétry
+- François-Joseph Gossec — Gossec
+- Daniel Auber
+- Fromental Halévy — Halévy
+- Adolphe Adam
+- Ambroise Thomas
+- Ferdinand Hérold — Hérold
+- Louise Farrenc — Farrenc
+- Pauline Viardot — Viardot
+- Augusta Holmès — Holmès
+- Mel Bonis — Bonis
+- Reynaldo Hahn
+- Henri Duparc — Duparc
+- Vincent d'Indy — d'Indy
+- Gabriel Pierné — Pierné
+- Charles Koechlin — Koechlin
+- Florent Schmitt — Schmitt
+- André Messager — Messager
+- Alexandre Guilmant — Guilmant
+- Eugène Gigout — Gigout
+- Léon Boëllmann — Boëllmann
+- Charles Tournemire — Tournemire
+- Jean Langlais — Langlais
+- Jehan Alain — Alain
+- Marcel Dupré — Dupré
+- Georges Auric — Auric
+- Louis Durey — Durey
+- André Jolivet — Jolivet
+- Jean Françaix — Françaix
+- Gérard Grisey — Grisey
+- Tristan Murail — Murail
+- Pascal Dusapin — Dusapin
+- Charles-Valentin Alkan — Alkan
+- Émile Waldteufel — Waldteufel
+- Emmerich Kálmán — Kálmán
+- Robert Stolz — Stolz
+- Oscar Straus
+- Johann Strauss I — Johann Strauss Sr | Johann Strauss the Elder | Strauss I
+- Josef Strauss
+- Eduard Strauss
+- Joseph Lanner — Lanner
+- Carl Loewe — Loewe
+- Heinrich Marschner — Marschner
+- Albert Lortzing — Lortzing
+- Otto Nicolai — Nicolai
+- Friedrich von Flotow — Flotow
+- Peter Cornelius — Cornelius
+- Joachim Raff
+- Karl Goldmark — Goldmark
+- Josef Rheinberger — Rheinberger
+- Hans Pfitzner — Pfitzner
+- Ernst Krenek — Krenek
+- Viktor Ullmann — Ullmann
+- Erwin Schulhoff — Schulhoff
+- Hanns Eisler — Eisler
+- Paul Dessau — Dessau
+- Boris Blacher — Blacher
+- Bernd Alois Zimmermann — Zimmermann
+- Wolfgang Rihm — Rihm
+- Helmut Lachenmann — Lachenmann
+- Aribert Reimann — Reimann
+- Jörg Widmann — Widmann
+- Olga Neuwirth — Neuwirth
+- Georg Friedrich Haas
+- Friedrich Kuhlau — Kuhlau
+- Ignaz Moscheles — Moscheles
+- Sigismond Thalberg — Thalberg
+- Joseph Joachim — Joachim
+- Franz Berwald — Berwald
+- Niels Gade — Gade
+- Johan Svendsen — Svendsen
+- Christian Sinding — Sinding
+- Hugo Alfvén — Alfvén
+- Wilhelm Stenhammar — Stenhammar
+- Johan Halvorsen — Halvorsen
+- Rued Langgaard — Langgaard
+- Per Nørgård — Nørgård
+- Aulis Sallinen — Sallinen
+- Magnus Lindberg — Lindberg
+- Esa-Pekka Salonen — Salonen
+- Erkki-Sven Tüür — Tüür
+- Veljo Tormis — Tormis
+- Pēteris Vasks — Vasks
+- Ēriks Ešenvalds — Ešenvalds
+- Ólafur Arnalds — Arnalds
+- Jóhann Jóhannsson — Jóhannsson
+- Hildur Guðnadóttir — Hildur | Guðnadóttir
+- Anna Thorvaldsdottir — Thorvaldsdottir
+- Nils Frahm — Frahm
+- César Cui — Cui
+- Sergei Taneyev — Taneyev
+- Vasily Kalinnikov — Kalinnikov
+- Mikhail Ippolitov-Ivanov — Ippolitov-Ivanov
+- Alexander Dargomyzhsky — Dargomyzhsky
+- Alexander Grechaninov — Grechaninov
+- Nikolai Myaskovsky — Myaskovsky
+- Georgy Sviridov — Sviridov
+- Rodion Shchedrin — Shchedrin
+- Edison Denisov — Denisov
+- Galina Ustvolskaya — Ustvolskaya
+- Valentin Silvestrov — Silvestrov
+- Giya Kancheli — Kancheli
+- Alexander Mosolov — Mosolov
+- Josef Suk — Suk
+- Zdeněk Fibich — Fibich
+- Vítězslav Novák — Novák
+- Pavel Haas — Haas
+- Hans Krása — Krása
+- Gideon Klein — Klein
+- Petr Eben
+- Ferenc Erkel — Erkel
+- Péter Eötvös — Eötvös
+- Stanisław Moniuszko — Moniuszko
+- Grażyna Bacewicz — Bacewicz
+- Andrzej Panufnik — Panufnik
+- Roxanna Panufnik
+- Wojciech Kilar — Kilar
+- Zbigniew Preisner — Preisner
+- Maria Szymanowska — Szymanowska
+- Mieczysław Karłowicz — Karłowicz
+- George Enescu — Georges Enesco | Enesco | Enescu
+- Mikis Theodorakis — Theodorakis
+- Manos Hadjidakis — Hadjidakis
+- Nikos Skalkottas — Skalkottas
+- Dora Pejačević — Pejačević
+- Joaquín Turina — Turina
+- Federico Mompou — Mompou
+- Roberto Gerhard — Gerhard
+- Xavier Montsalvatge — Montsalvatge
+- Federico Moreno Torroba — Torroba
+- Silvestre Revueltas — Revueltas
+- Manuel Ponce — Ponce
+- Ernesto Lecuona — Lecuona
+- Leo Brouwer — Brouwer
+- Agustín Barrios — Agustín Barrios Mangoré | Barrios
+- Carlos Gomes — Gomes
+- Camargo Guarnieri — Guarnieri
+- Arturo Márquez — Márquez
+- José Pablo Moncayo — Moncayo
+- Juventino Rosas
+- Osvaldo Golijov — Golijov
+- Gabriela Lena Frank — Gabriela Frank
+- Samuel Wesley — Wesley
+- Samuel Sebastian Wesley
+- William Sterndale Bennett
+- John Stainer — Stainer | Sir John Stainer
+- Hamish MacCunn — MacCunn
+- Alexander Mackenzie — Mackenzie
+- Havergal Brian — Brian
+- Granville Bantock — Bantock
+- Cyril Scott — Scott
+- Roger Quilter — Quilter
+- Ivor Gurney — Gurney
+- Peter Warlock — Philip Heseltine | Warlock
+- E. J. Moeran — Ernest John Moeran | Moeran
+- Edmund Rubbra — Rubbra
+- Alan Rawsthorne — Rawsthorne
+- Constant Lambert — Lambert
+- Lord Berners — Berners
+- Elisabeth Lutyens — Lutyens
+- Elizabeth Maconchy — Maconchy | Dame Elizabeth Maconchy
+- Imogen Holst
+- Ruth Gipps — Gipps
+- Grace Williams
+- William Mathias — Mathias
+- Alun Hoddinott — Hoddinott
+- Joseph Parry
+- Thea Musgrave — Musgrave | Dame Thea Musgrave
+- Richard Rodney Bennett — Bennett
+- Malcolm Williamson — Williamson
+- Robert Simpson — Simpson
+- Brian Ferneyhough — Ferneyhough
+- Jonathan Harvey — Harvey
+- Alexander Goehr — Goehr
+- Oliver Knussen — Knussen
+- Gavin Bryars — Bryars
+- Cornelius Cardew — Cardew
+- Jonathan Dove — Dove
+- Mark-Anthony Turnage — Turnage
+- George Benjamin
+- Errollyn Wallen — Wallen | Dame Errollyn Wallen
+- Anna Clyne — Clyne
+- Cecilia McDowall — McDowall
+- Judith Bingham — Bingham
+- Sally Beamish — Beamish
+- Bob Chilcott — Chilcott
+- Paul Mealor — Mealor
+- Patrick Hawes — Hawes
+- Will Todd — Todd
+- Rebecca Saunders — Saunders
+- Hannah Kendall — Kendall
+- Joby Talbot — Talbot
+- Rachel Portman — Portman
+- Patrick Doyle — Doyle
+- George Fenton — Fenton
+- Craig Armstrong — Armstrong
+- Clint Mansell — Mansell
+- David Arnold
+- Harry Gregson-Williams — Gregson-Williams
+- Rupert Gregson-Williams
+- John Powell — Powell
+- Trevor Jones
+- Stanley Myers — Myers
+- Carl Davis — Davis
+- Ron Goodwin — Goodwin
+- Ronald Binge — Binge
+- Haydn Wood
+- Robert Farnon — Farnon
+- Hamilton Harty — Harty
+- Michael William Balfe — Michael Balfe | Balfe
+- William Vincent Wallace — Wallace
+- Gerald Barry
+- Peter Sculthorpe — Sculthorpe
+- Ross Edwards — Edwards
+- Carl Vine
+- Elena Kats-Chernin — Kats-Chernin
+- Douglas Lilburn — Lilburn
+- Peggy Glanville-Hicks — Glanville-Hicks
+- Healey Willan — Willan
+- R. Murray Schafer — Murray Schafer | Schafer
+- Claude Vivier — Vivier
+- Calixa Lavallée — Lavallée
+- Edward MacDowell — MacDowell
+- Louis Moreau Gottschalk — Gottschalk
+- Charles Tomlinson Griffes — Griffes
+- Ruth Crawford Seeger — Seeger
+- Henry Cowell — Cowell
+- Howard Hanson — Hanson
+- Roy Harris
+- Walter Piston — Piston
+- William Schuman — Schuman
+- Virgil Thomson — Thomson
+- Randall Thompson — Thompson
+- Marc Blitzstein — Blitzstein
+- Alan Hovhaness — Hovhaness
+- Lou Harrison — Harrison
+- Harry Partch — Partch
+- Milton Babbitt — Babbitt
+- Earle Brown
+- Christian Wolff — Wolff
+- La Monte Young
+- Pauline Oliveros — Oliveros
+- Meredith Monk
+- Ned Rorem — Rorem
+- John Corigliano — Corigliano
+- William Bolcom — Bolcom
+- Joan Tower
+- Ellen Taaffe Zwilich — Zwilich
+- Libby Larsen — Larsen
+- Christopher Rouse
+- John Luther Adams
+- David Lang
+- Julia Wolfe — Wolfe
+- Michael Gordon
+- Jennifer Higdon — Higdon
+- Missy Mazzoli — Mazzoli
+- Caroline Shaw
+- Nico Muhly — Muhly
+- Mason Bates
+- Jake Heggie — Heggie
+- Kevin Puts — Puts
+- Jessie Montgomery — Montgomery
+- Tyshawn Sorey
+- George Walker
+- Margaret Bonds — Bonds
+- Terence Blanchard — Blanchard
+- Anthony Davis
+- Wynton Marsalis — Marsalis
+- Frank Zappa — Zappa
+- Leroy Anderson — Anderson
+- Morten Lauridsen — Lauridsen
+- Ola Gjeilo — Gjeilo
+- Carlisle Floyd
+- Dominick Argento — Argento
+- Elmer Bernstein
+- Alfred Newman
+- Thomas Newman
+- Dimitri Tiomkin — Tiomkin
+- Franz Waxman — Waxman
+- Alex North
+- Basil Poledouris — Poledouris
+- Alan Silvestri — Silvestri
+- James Newton Howard
+- Mychael Danna — Danna
+- Carter Burwell — Burwell
+- Angelo Badalamenti — Badalamenti
+- Nicholas Britell — Britell
+- Justin Hurwitz — Hurwitz
+- Bear McCreary — McCreary
+- Ramin Djawadi — Djawadi
+- Alexandre Desplat — Desplat
+- Gustavo Santaolalla — Santaolalla
+- Dario Marianelli — Marianelli
+- Trent Reznor — Reznor
+- Atticus Ross
+- Mica Levi — Levi
+- Maurice Jarre — Jarre
+- Michel Legrand — Legrand
+- Georges Delerue — Delerue
+- Vladimir Cosma — Cosma
+- Yann Tiersen — Tiersen
+- Gabriel Yared — Yared
+- Nobuo Uematsu — Uematsu
+- Koji Kondo — Kondo
+- Yoko Shimomura — Shimomura
+- Jeremy Soule
+- Austin Wintory — Wintory
+- Grant Kirkhope — Kirkhope
+- Toby Fox
+- Yasunori Mitsuda — Mitsuda
+- Koichi Sugiyama — Sugiyama
+- Isang Yun — Yun
+- Toshio Hosokawa — Hosokawa
+- Akira Ifukube — Ifukube
+- Toshiro Mayuzumi — Mayuzumi
+- Chen Yi
+- Bright Sheng — Sheng
+- Xian Xinghai
+- Unsuk Chin
+- Ilaiyaraaja
+- M. M. Keeravani — Keeravani
+- Yiruma
+- Ravi Shankar — Shankar
+- Fela Sowande — Sowande
+- Paul McCartney — McCartney | Sir Paul McCartney
+- Burt Bacharach — Bacharach
+- David Newman
+- William Alwyn — Alwyn
+- George Antheil — Antheil
+- Alma Mahler
+- Anton Diabelli — Diabelli
+- François-Adrien Boieldieu — Boieldieu
+- Louis Andriessen — Andriessen
+- Frank Martin
+- Ernest Bloch — Bloch
+- Lennox Berkeley — Sir Lennox Berkeley | Berkeley
+- Michael Berkeley
+- Richard Addinsell — Addinsell
+- Marvin Hamlisch — Hamlisch
+- John Carpenter
+- Mark Mothersbaugh — Mothersbaugh
+- Christophe Beck
+- Daniel Blumberg
+- Lalo Schifrin — Schifrin
+- Ron Grainer
+- Delia Derbyshire
+- Daphne Oram
+- Wendy Carlos
+- Barry Gray
+- Murray Gold
+- Monty Norman
+- Lorne Balfe
+- Junkie XL — Tom Holkenborg
+- Steven Price
+- Anne Dudley
+- Michael Kamen — Kamen
+- Elliot Goldenthal
+- Kris Bowers
+- Daniel Pemberton
+- Volker Bertelmann — Hauschka
+- Jerskin Fendrix
+- Germaine Franco
+- Marco Beltrami
+- John Debney
+- Francis Lai
+- Riz Ortolani
+- Nicola Piovani
+- Luis Bacalov
+- Jocelyn Pook
+- Jon Batiste
+- Stewart Copeland
+- Cliff Martinez
+- C418 — Daniel Rosenfeld
+- Martin O'Donnell
+- Darren Korb
+- Mick Gordon
+- Christopher Tin
+- Akira Yamaoka
+- Junichi Masuda
+- Yoko Kanno
+- Hiroyuki Sawano
+- Kenji Kawai
+- Shoji Meguro
+- Gareth Coker
+- Lena Raine
+- Jessica Curry
+- Jesper Kyd
+- Inon Zur
+- Yuka Kitamura
+- Motoi Sakuraba
+- David Wise
+- Franz Schreker — Schreker
+- Werner Egk — Egk
+- Mauricio Kagel — Kagel
+- Heiner Goebbels
+- Ernst Toch — Toch
+- Franz Schmidt
+- Gottfried von Einem — von Einem
+- Friedrich Cerha — Cerha
+- Carl Zeller — Zeller
+- Karl Millöcker — Millöcker
+- Carl Michael Ziehrer — Ziehrer
+- Leo Fall
+- Paul Lincke — Lincke
+- Ralph Benatzky — Benatzky
+- Francesco Cilea — Cilea
+- Alfredo Catalani — Catalani
+- Ermanno Wolf-Ferrari — Wolf-Ferrari
+- Riccardo Zandonai — Zandonai
+- Italo Montemezzi — Montemezzi
+- Franco Alfano — Alfano
+- Alfredo Casella — Casella
+- Gian Francesco Malipiero — Malipiero
+- Ildebrando Pizzetti — Pizzetti
+- Luigi Dallapiccola — Dallapiccola
+- Bruno Maderna — Maderna
+- Salvatore Sciarrino — Sciarrino
+- Giacinto Scelsi — Scelsi
+- Mario Castelnuovo-Tedesco — Castelnuovo-Tedesco
+- Francesco Paolo Tosti — Tosti
+- Saverio Mercadante — Mercadante
+- Giovanni Bottesini — Bottesini
+- Giuseppe Martucci — Martucci
+- Francesco Cavalli — Cavalli
+- Antonio Cesti — Cesti
+- Giovanni Legrenzi — Legrenzi
+- Giacomo Carissimi — Carissimi
+- Salamone Rossi
+- Antonio Lotti — Lotti
+- Niccolò Piccinni — Piccinni
+- Giovanni Battista Viotti — Viotti
+- Francesco Maria Veracini — Veracini
+- Mauro Giuliani — Giuliani
+- Ferdinando Carulli — Carulli
+- Matteo Carcassi — Carcassi
+- Johann Kuhnau — Kuhnau
+- Reinhard Keiser — Keiser
+- Johann Mattheson — Mattheson
+- Christoph Graupner — Graupner
+- Johann David Heinichen — Heinichen
+- Georg Muffat — Muffat
+- Johann Heinrich Schmelzer — Schmelzer
+- Carl Friedrich Abel — C. F. Abel
+- Emilie Mayer
+- Ruperto Chapí
+- Federico Chueca — Chueca
+- Tomás Bretón — Bretón
+- Francisco Asenjo Barbieri — Barbieri
+- Juan del Encina
+- Luis de Milán
+- Alonso Mudarra — Mudarra
+- Gaspar Sanz
+- Carlos Seixas — Seixas
+- Isaak Dunayevsky — Dunayevsky
+- Tikhon Khrennikov — Khrennikov
+- Dmitry Bortniansky — Bortniansky
+- Mykola Lysenko — Lysenko
+- Mykola Leontovych — Leontovych
+- Borys Lyatoshynsky — Lyatoshynsky
+- Komitas — Komitas Vardapet
+- Uzeyir Hajibeyov — Hajibeyov | Uzeyir Hajibeyli
+- Eduard Tubin — Tubin
+- Mikalojus Konstantinas Čiurlionis — Čiurlionis
+- Leevi Madetoja — Madetoja
+- Kalevi Aho
+- Allan Pettersson — Pettersson
+- Johan Helmich Roman
+- Ole Bull
+- Rikard Nordraak — Nordraak
+- Hans Christian Lumbye — Lumbye
+- Hans Abrahamsen — Abrahamsen
+- Jón Leifs — Leifs
+- Eugène Ysaÿe — Ysaÿe
+- Henri Vieuxtemps — Vieuxtemps
+- Guillaume Lekeu — Lekeu
+- Clemens non Papa
+- Philippe de Monte
+- Jan Václav Voříšek — Voříšek
+- Leopold Koželuch — Koželuch
+- Julius Fučík — Fučík
+- Jaromír Weinberger — Weinberger
+- Jenő Hubay — Hubay
+- Ciprian Porumbescu — Porumbescu
+- Ion Ivanovici — Ivanovici
+- Spyridon Samaras — Samaras
+- Eleni Karaindrou — Karaindrou
+- Michał Kleofas Ogiński — Ogiński
+- Abel Korzeniowski — Korzeniowski
+- Henry Bishop — Sir Henry Bishop | Henry Rowley Bishop
+- Rutland Boughton — Boughton
+- George Dyson — Sir George Dyson | Dyson
+- Edward Bairstow — Sir Edward Bairstow | Bairstow
+- Walford Davies — Sir Walford Davies | Henry Walford Davies
+- Nicholas Maw
+- Julian Anderson
+- William Lloyd Webber
+- Robert Carver
+- Giles Farnaby — Farnaby
+- Anthony Holborne — Holborne
+- William Lawes — Lawes
+- Henry Lawes
+- Helen Grime
+- Anna Meredith
+- Seán Ó Riada — Ó Riada
+- Bill Whelan
+- Patrick Cassidy
+- Nigel Hess
+- Ilan Eshkeri
+- Richard Meale — Meale
+- Nigel Westlake — Westlake
+- Brett Dean
+- Liza Lim
+- Mary Finsterer — Finsterer
+- Miriam Hyde
+- Margaret Sutherland
+- Alfred Hill
+- Arthur Benjamin
+- George Dreyfus
+- Bruce Rowland
+- Deborah Cheetham — Deborah Cheetham Fraillon
+- John Psathas — Psathas
+- Gareth Farr
+- Harry Somers
+- André Mathieu
+- Roger Sessions — Sessions
+- Charles Wuorinen — Wuorinen
+- John Harbison — Harbison
+- Tobias Picker — Picker
+- Ricky Ian Gordon
+- Mark Adamo
+- Douglas Moore
+- Robert Ward
+- Adolphus Hailstork — Hailstork
+- Valerie Coleman
+- Carlos Simon
+- Andrew Norman
+- Michael Daugherty — Daugherty
+- Frederic Rzewski — Rzewski
+- Morton Gould
+- Vincent Persichetti — Persichetti
+- George Whitefield Chadwick — George Chadwick | Chadwick
+- William Billings — Billings
+- Carl Ruggles — Ruggles
+- Alvin Lucier — Lucier
+- Harry T. Burleigh — Harry Burleigh | Burleigh
+- R. Nathaniel Dett — Nathaniel Dett
+- Karel Husa
+- Gunther Schuller — Schuller
+- Zhou Long
+- Du Yun
+- Ellen Reid
+- Tania León
+- Raven Chacon
+- Michael Abels
+- Joseph Schwantner — Schwantner
+- Leon Kirchner — Kirchner
+- George Perle — Perle
+- Steven Stucky — Stucky
+- Aaron Jay Kernis — Kernis
+- Melinda Wagner
+- Yehudi Wyner
+- Paul Moravec — Moravec
+- Gabriela Ortiz
+- Susie Ibarra
+- Alfred Reed
+- Frank Ticheli — Ticheli
+- Johan de Meij
+- John Mackey
+- Philip Sparke
+- Dan Forrest
+- Moses Hogan
+- Friedrich Burgmüller — Burgmüller
+- Cornelius Gurlitt — Gurlitt
+- Charles-Louis Hanon — Hanon
+- Johann Baptist Cramer — J. B. Cramer
+- William Gillock — Gillock
+- Rodolphe Kreutzer — Kreutzer
+- Friedrich Seitz — Seitz
+- Oskar Rieding — Rieding
+- Bernhard Crusell — Crusell
+- Jean-Baptiste Arban — Arban
+- Sigfrid Karg-Elert — Karg-Elert
+- Louis-Claude Daquin — Daquin
+- Silvius Leopold Weiss — S. L. Weiss
+- Moritz Moszkowski — Moszkowski
+- Leopold Godowsky — Godowsky
+- Friedrich Kalkbrenner — Kalkbrenner
+- Teresa Carreño — Carreño
+- Antonio Lauro — Lauro
+- Ernesto Nazareth
+- Chiquinha Gonzaga
+- Carlos Guastavino — Guastavino
+- Julián Carrillo — Carrillo
+- Pierre Schaeffer — Schaeffer
+- Pierre Henry
+- Déodat de Séverac — Séverac
+- Benjamin Godard
+- Charles Lecocq — Lecocq
+- Robert Planquette — Planquette
+- Hervé — Florimond Ronger
+- Jean-François Lesueur — Lesueur
+- Elfrida Andrée
+- Alma Deutscher — Deutscher
+- Bernart de Ventadorn
+- Beatriz de Dia — Comtessa de Dia
+- Walther von der Vogelweide
+- Oswald von Wolkenstein
+- Alfonso X — Alfonso the Wise
+- Johannes Ciconia — Ciconia
+- Baude Cordier
+- Leonel Power
+- Antoine Busnois — Busnois
+- Ludwig Senfl — Senfl
+- Giaches de Wert
+- S. D. Burman — Sachin Dev Burman
+- R. D. Burman — Rahul Dev Burman | Burman
+- Naushad
+- Pritam
+- Anirudh Ravichander — Anirudh
+- Laxmikant-Pyarelal
+- Shankar-Jaikishan
+- Salil Chowdhury
+- Madan Mohan
+- Ephraim Amu
+- Halim El-Dabh
+- Kevin Volans
+- Kosaku Yamada
+- Rentarō Taki
+- He Zhanhao
+- Chen Gang
+- Nie Er
+- Chen Qigang
+- Ahn Eak-tai
+- Duke Ellington — Ellington
+- Herbie Hancock — Hancock
+
+### Tier 6: rare jackpots (3)
+
+- Conlon Nancarrow — Nancarrow
+- Kaikhosru Sorabji — Sorabji
+- Moondog — Louis Hardin
+
+## Refused on purpose (13)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Jean-Michel Jarre | Brian Eno | Kraftwerk | Daft Punk | Aphex Twin — "An electronic music pioneer, not a classical composer."
+- Stephen Sondheim | Sondheim | Lin-Manuel Miranda | Cole Porter | Irving Berlin | Richard Rodgers | Rodgers and Hammerstein — "Best known for musicals rather than concert music."
+- Elton John | John Lennon | Lennon | Freddie Mercury | Billy Joel | Bob Dylan | Taylor Swift | Ed Sheeran | Adele | David Bowie | Michael Jackson | Elvis Presley | Elvis | The Beatles | ABBA | Queen — "A pop star, not a classical composer."
+- Miles Davis | Louis Armstrong | Thelonious Monk | Charles Mingus | John Coltrane | Count Basie | Charlie Parker | Dizzy Gillespie | Glenn Miller — "A jazz giant, not a classical composer."
+- Lang Lang | Yo-Yo Ma | Nigel Kennedy | Vanessa-Mae | Andrea Bocelli | Luciano Pavarotti | Pavarotti | Maria Callas | Katherine Jenkins | Sheku Kanneh-Mason | Jacqueline du Pré | Glenn Gould | Martha Argerich | Itzhak Perlman | Alfred Brendel | Herbert von Karajan | Karajan | Simon Rattle | André Rieu | Thomas Beecham | Malcolm Sargent | John Barbirolli | Gustavo Dudamel | Leopold Stokowski | Arturo Toscanini | Jascha Heifetz | Vladimir Horowitz — "A performer, not a composer."
+- Les Six — "A group of six French composers. Name one of them."
+- The Mighty Handful | The Five | The Mighty Five — "A group of five Russian composers. Name one of them."
+- Second Viennese School — "A school, not a composer. Name one of its members."
+- Gregorian chant | Pope Gregory | Gregory the Great — "Chant named after a pope, not written by him."
+- Anonymous — "The most prolific composer of all, but not a name."
+- Tim Rice | Sir Tim Rice — "A lyricist: the tunes were by others."
+- Mike Oldfield — "A rock musician, not a classical composer."
+- Prince — "A pop star, not a classical composer."

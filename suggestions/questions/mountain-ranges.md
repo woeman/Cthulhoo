@@ -1,0 +1,948 @@
+# Name a mountain range.
+
+Question id: `mountain-ranges` · category: geography · source: `data/geography.json`
+
+Rules: Any named range or chain of mountains or hills, large or small, including ridges under the sea and ranges on other worlds. Saying 'Mountains' or 'Range' after the name is optional. A single peak doesn't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (860 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (5)
+
+- Alps — Alpes | Alpen | Alpi | European Alps | Swiss Alps | French Alps | Italian Alps | Austrian Alps
+- Andes — Andes Mountains | Andean Mountains | Cordillera de los Andes | Andean Cordillera
+- Himalayas — Himalaya | Himalayan Mountains | Himalaya Mountains | Himalayan Range | Great Himalaya
+- Rocky Mountains — Rockies | Rocky Mountain Range | Canadian Rockies
+- Pyrenees — Pirineos | Pirineus | Pyrenees Mountains
+
+### Tier 2: common (23)
+
+- Appalachian Mountains — Appalachians | Appalachia | Appalachian
+- Ural Mountains — Urals | Ural
+- Atlas Mountains — Atlas Range | Atlas
+- Carpathians — Carpathian Mountains | Carpathian | Karpaty
+- Apennines — Apennine Mountains | Apennine | Appennini
+- Dolomites — Dolomiti | Dolomite Alps | Dolomite Mountains
+- Pennines — Pennine Hills | Pennine Chain | Pennine Range | Pennine | Backbone of England
+- Grampians — Grampian Mountains | Grampian | Grampian Hills | Gariwerd
+- Cairngorms — Cairngorm Mountains | Cairngorm
+- Sierra Nevada — Sierra Nevada Mountains | Sierra Nevadas | High Sierra | The Sierra | Sierras
+- Caucasus Mountains — Caucasus Range | Caucasian Mountains | Greater Caucasus | Kavkaz | Caucasus
+- Karakoram — Karakorum | Karakoram Range | Karakoram Mountains
+- Hindu Kush — Hindu Kush Mountains | Hindu Kush Range
+- Great Dividing Range — Great Divide | Great Dividing Mountains | Great Dividing
+- Drakensberg — Drakensberg Mountains | Drakensberge | uKhahlamba | Dragon Mountains
+- Blue Ridge Mountains — Blue Ridge
+- Cascade Range — Cascades | Cascade Mountains | Cascade
+- Brecon Beacons — Bannau Brycheiniog
+- Sierra Madre — Sierra Madre Mountains
+- Southern Alps — New Zealand Alps | Kā Tiritiri o te Moana
+- Blue Mountains
+- Great Smoky Mountains — Smokies | Smoky Mountains | Great Smokies | Great Smoky
+- Mid-Atlantic Ridge — Atlantic Ridge
+
+### Tier 3: known to fans (48)
+
+- Tian Shan — Tien Shan | Tian Shan Mountains | Celestial Mountains
+- Altai Mountains — Altay | Altay Mountains | Altai
+- Pamir Mountains — Pamirs | Pamir
+- Kunlun Mountains — Kunlun Shan | Kunlun
+- Zagros Mountains — Zagros
+- Taurus Mountains — Toros Mountains | Taurus
+- Western Ghats — Sahyadri | Sahyadri Hills | Ghats
+- Balkan Mountains — Stara Planina | Balkan Range | Balkan
+- Dinaric Alps — Dinarides | Dinaric Mountains
+- Tatra Mountains — Tatras | High Tatras | Tatry | Tatra
+- Jura Mountains — Jura Range | Jura
+- Vosges — Vosges Mountains
+- Black Forest — Schwarzwald
+- Harz — Harz Mountains
+- Massif Central — Central Massif
+- Scandinavian Mountains — Scandes | Kjølen | Kölen | Scandinavian Range
+- Ardennes — Ardenne | Ardennes Mountains
+- Transylvanian Alps — Southern Carpathians
+- Mourne Mountains — Mournes | Mountains of Mourne | Mourne
+- Wicklow Mountains — Wicklow
+- Cheviot Hills — Cheviots
+- Chiltern Hills — Chilterns
+- Malvern Hills — Malverns
+- Mendip Hills — Mendips
+- North Downs
+- South Downs — Downs
+- Black Mountains
+- Cambrian Mountains — Cambrian
+- Cotswolds — Cotswold Hills | Cotswold
+- Japanese Alps — Nihon Alps | Japan Alps
+- Sierra Madre Occidental — Western Sierra Madre | Sierra Tarahumara
+- Sierra Madre Oriental — Eastern Sierra Madre
+- Alaska Range — Alaska Mountains
+- Brooks Range — Brooks Mountains
+- Coast Mountains — Coast Range | Coast Ranges | Pacific Coast Ranges
+- Teton Range — Tetons | Teton Mountains | Teton
+- Adirondack Mountains — Adirondacks | Adirondack
+- Catskill Mountains — Catskills | Catskill
+- Ozark Mountains — Ozarks | Ozark Plateau | Ozark
+- White Mountains — Lefka Ori
+- Green Mountains
+- Black Hills
+- Transantarctic Mountains — Transantarctic
+- Rwenzori Mountains — Ruwenzori | Ruwenzori Mountains | Mountains of the Moon | Rwenzori
+- Snowy Mountains
+- Flinders Ranges — Flinders Range | Flinders
+- Australian Alps — Victorian Alps
+- Mid-Ocean Ridge — Mid-Oceanic Ridge | Global Mid-Ocean Ridge | Oceanic Ridge
+
+### Tier 4: obscure (140)
+
+- Alborz — Elburz | Alborz Mountains | Elburz Mountains
+- Pontic Mountains — Pontic Alps | Pontic
+- Hajar Mountains — Hajar
+- Lebanon Mountains — Mount Lebanon | Mount Lebanon Range | Mountains of Lebanon
+- Eastern Ghats
+- Vindhya Range — Vindhyas | Vindhya Mountains | Vindhya
+- Aravalli Range — Aravallis | Aravali | Aravalli Mountains | Aravalli
+- Satpura Range — Satpuras | Satpura Mountains | Satpura
+- Nilgiri Hills — Nilgiris | Nilgiri Mountains
+- Annamite Range — Annamites | Truong Son | Annamite Mountains | Annamite
+- Qinling — Qinling Mountains | Tsinling | Qin Mountains
+- Sayan Mountains — Sayans | Sayan
+- Verkhoyansk Range — Verkhoyansk Mountains | Verkhoyansk
+- Huangshan — Yellow Mountains
+- Simien Mountains — Semien | Semien Mountains | Simien
+- Aberdare Range — Aberdares | Nyandarua | Aberdare Mountains
+- Tibesti Mountains — Tibesti
+- Hoggar Mountains — Ahaggar | Ahaggar Mountains | Hoggar
+- Virunga Mountains — Virungas | Virunga
+- Rif Mountains — Rif | Riff | Er Rif
+- High Atlas — Haut Atlas | High Atlas Mountains | Grand Atlas
+- Pindus — Pindus Mountains | Pindos
+- Rhodope Mountains — Rhodopes | Rhodope
+- Sudetes — Sudeten | Sudeten Mountains | Sudety
+- Ore Mountains — Erzgebirge | Krušné hory
+- Giant Mountains — Krkonoše | Karkonosze | Riesengebirge
+- Eifel — Eifel Mountains
+- Cévennes
+- Cantabrian Mountains — Cordillera Cantábrica | Cantabrian
+- Picos de Europa — Picos
+- Sierra Morena
+- Sierra de Guadarrama — Guadarrama | Guadarrama Mountains
+- Serra da Estrela — Estrela
+- Bernese Alps — Bernese Oberland
+- Pennine Alps — Valais Alps
+- Julian Alps
+- Maritime Alps — Alpes Maritimes | Alpi Marittime
+- Bavarian Alps
+- Hohe Tauern — High Tauern
+- Jotunheimen — Jotunheim
+- Troodos Mountains — Troodos
+- Cuillin — Cuillins | Cuillin Hills | Black Cuillin
+- Sperrin Mountains — Sperrins | Sperrin
+- MacGillycuddy's Reeks — MacGillicuddy's Reeks | The Reeks
+- Ochil Hills — Ochils
+- Pentland Hills — Pentlands
+- Quantock Hills — Quantocks
+- Clwydian Range — Clwydian Hills | Clwydian Mountains | Clwydian
+- Cumbrian Mountains — Lakeland Fells | Cumbrian Fells | Cumbrian
+- Southern Uplands
+- Lincolnshire Wolds
+- Yorkshire Wolds — Wolds
+- Ellsworth Mountains — Ellsworth
+- MacDonnell Ranges — MacDonnell Range | MacDonnell
+- Bungle Bungle Range — Bungle Bungles | Purnululu | Bungle Bungle Mountains | Bungle Bungle
+- Owen Stanley Range — Owen Stanley Mountains | Owen Stanley
+- Remarkables
+- Bighorn Mountains — Bighorns | Bighorn
+- Wind River Range — Wind Rivers | Wind River Mountains
+- Wasatch Range — Wasatch Mountains | Wasatch
+- Uinta Mountains — Uintas | Uinta
+- Sangre de Cristo Mountains — Sangre de Cristo Range | Sangre de Cristo
+- San Juan Mountains
+- Front Range — Front Mountains
+- Bitterroot Range — Bitterroots | Bitterroot Mountains | Bitterroot
+- Olympic Mountains — Olympic Range
+- San Gabriel Mountains
+- Santa Monica Mountains
+- Ouachita Mountains — Ouachitas | Ouachita
+- Allegheny Mountains — Alleghenies | Allegheny
+- Berkshires — Berkshire Hills | Berkshire Mountains
+- Pocono Mountains — Poconos | Pocono
+- Laurentian Mountains — Laurentians | Laurentides | Laurentian
+- Mackenzie Mountains
+- Saint Elias Mountains — Saint Elias Range | Saint Elias
+- Chugach Mountains — Chugach
+- Superstition Mountains — Superstitions
+- Guadalupe Mountains
+- Trans-Mexican Volcanic Belt — Neovolcanic Axis | Cordillera Neovolcánica | Mexican Volcanic Belt
+- Sierra Maestra
+- Cordillera Central
+- Cordillera Blanca
+- Serra do Mar
+- Teutoburg Forest — Teutoburger Wald
+- Thuringian Forest
+- Bavarian Forest
+- Bohemian Forest — Šumava
+- Swabian Jura — Swabian Alb | Schwäbische Alb
+- Taunus
+- Mont Blanc Massif — Massif du Mont-Blanc
+- Shropshire Hills
+- Campsie Fells — Campsies
+- Preseli Hills — Preseli Mountains | Preselis | Presely Hills | Mynydd Preseli
+- Twelve Bens — Twelve Pins | Benna Beola
+- Cederberg — Cederberg Mountains | Cedarberg
+- Sierra Madre del Sur
+- Selkirk Mountains — Selkirks | Selkirk
+- Klamath Mountains — Klamath
+- San Bernardino Mountains
+- Sawtooth Range — Sawtooths | Sawtooth Mountains | Sawtooth
+- East Pacific Rise
+- Hawaiian–Emperor Seamount Chain — Hawaiian-Emperor Seamounts | Emperor Seamounts
+- Lomonosov Ridge
+- Siwalik Hills — Shivalik Hills | Siwaliks | Shivaliks
+- Annapurna Himal — Annapurna Massif | Annapurna Range | Annapurna Mountains
+- Khasi Hills
+- Arakan Mountains — Arakan Yoma | Rakhine Yoma | Rakhine Mountains | Arakan
+- Lesser Caucasus
+- Cardamom Mountains
+- Greater Khingan — Greater Khingan Range | Greater Hinggan | Da Hinggan Ling
+- Kopet Dag — Kopet Dagh
+- Spin Ghar — Safed Koh
+- Anti-Lebanon Mountains — Anti-Lebanon
+- Transhimalaya — Gangdise | Gangdise Shan | Gangdise Mountains | Kailash Range
+- Crimean Mountains
+- Kyrenia Mountains — Pentadaktylos | Kyrenia Range
+- Taygetus — Taygetos
+- Prokletije — Accursed Mountains | Albanian Alps
+- Beskids — Beskid Mountains | Beskydy
+- Low Tatras
+- Ötztal Alps
+- Sierra de Tramuntana — Serra de Tramuntana | Tramuntana
+- Sierra de Gredos — Gredos
+- Anti-Atlas
+- Nuba Mountains
+- Aleutian Range — Aleutian Mountains
+- Maxwell Montes
+- Zanskar Range — Zanskar Mountains | Zanskar
+- Misty Montes — Misty Mountains
+- Kenai Mountains — Kenai
+- Sawatch Range — Sawatch Mountains | Sawatch
+- Maloti Mountains — Maluti Mountains | Malutis | Maloti
+- Middle Atlas
+- Ngong Hills
+- Waitākere Ranges — Waitākere Range | Waitākere
+- Mount Lofty Ranges — Mount Lofty Range
+- Dandenong Ranges — Dandenongs | Dandenong Range
+- Presidential Range — Presidential Mountains
+- North Pennines
+- Titiwangsa Mountains — Banjaran Titiwangsa | Titiwangsa
+
+### Tier 5: expert (641)
+
+- Qilian Mountains — Qilian Shan | Qilian
+- Hengduan Mountains — Hengduan
+- Taihang Mountains — Taihang
+- Wuyi Mountains — Wuyishan | Wuyi
+- Hida Mountains — Northern Alps | Hida
+- Taebaek Mountains — Taebaek
+- Sikhote-Alin — Sikhote-Alin Mountains
+- Stanovoy Range — Stanovoy Mountains | Stanovoy
+- Chersky Range — Chersky Mountains | Chersky
+- Sulaiman Mountains — Suleiman Mountains | Sulaiman
+- Sarawat Mountains — Hejaz Mountains | Asir Mountains | Sarawat
+- Kaçkar Mountains — Kackar
+- Cardamom Hills
+- Naga Hills
+- Patkai — Patkai Hills | Patkai Bum
+- Pir Panjal Range — Pir Panjal Mountains | Pir Panjal
+- Ladakh Range — Ladakh Mountains
+- Mahalangur Himal — Mahalangur | Mahalangur Range
+- Tenasserim Hills — Tenasserim Range | Tanintharyi Hills
+- Barisan Mountains — Barisan
+- Crocker Range — Crocker Mountains | Crocker
+- Maoke Mountains — Maoke
+- Salt Range — Salt Mountains
+- Iberian System — Sistema Ibérico
+- Rhaetian Alps
+- Carnic Alps
+- Allgäu Alps
+- Apuan Alps — Alpi Apuane
+- Karwendel
+- Monti Sibillini — Sibillini | Sibillini Mountains
+- Rhön — Rhön Mountains
+- Bieszczady — Bieszczady Mountains
+- Apuseni Mountains — Apuseni
+- Făgăraș Mountains — Făgăraș
+- Velebit
+- Šar Mountains — Sharr Mountains
+- Pirin — Pirin Mountains
+- Rila — Rila Mountains
+- Dovrefjell
+- Rondane
+- Lyngen Alps
+- Khibiny Mountains — Khibiny
+- Howgill Fells — Howgills
+- Blackdown Hills
+- Lammermuir Hills — Lammermuirs
+- Monadhliath Mountains — Monadhliath
+- Mamores — Mamore
+- Carneddau — Carnedds
+- Glyderau — Glyders
+- Berwyn Range — Berwyns | Berwyn Mountains | Berwyn
+- Galtee Mountains — Galtees | Galty Mountains | Galtee
+- Comeragh Mountains — Comeragh
+- Slieve Bloom Mountains — Slieve Bloom
+- Maumturks — Maumturk Mountains
+- Blue Stack Mountains — Blue Stack
+- Derryveagh Mountains — Derryveagh
+- Usambara Mountains — Usambaras | Usambara
+- Eastern Arc Mountains — Eastern Arc
+- Cape Fold Mountains — Cape Fold Belt | Cape Fold
+- Magaliesberg
+- Outeniqua Mountains — Outeniqua
+- Mitumba Mountains — Mitumba
+- Chimanimani Mountains — Chimanimani
+- Mandara Mountains — Mandara
+- Red Sea Hills
+- Cordillera de Talamanca — Talamanca | Talamanca Range
+- Maya Mountains
+- Cordillera Real
+- Cordillera Huayhuash — Huayhuash
+- Cordillera Darwin
+- Cordillera Oriental
+- Cordillera Occidental
+- Serra da Mantiqueira — Mantiqueira
+- Serra do Espinhaço — Espinhaço
+- Sierra Nevada de Santa Marta — Santa Marta Mountains
+- Sierras de Córdoba — Sierra de Córdoba
+- Arctic Cordillera
+- Torngat Mountains — Torngat
+- Long Range Mountains
+- Purcell Mountains — Purcells | Purcell
+- Monashee Mountains — Monashees | Monashee
+- Columbia Mountains
+- Trinity Alps
+- Transverse Ranges — Transverse Range
+- Santa Lucia Range — Santa Lucia Mountains
+- Diablo Range — Diablo Mountains
+- Absaroka Range — Absarokas | Absaroka Mountains | Absaroka
+- Beartooth Mountains — Beartooths | Beartooth
+- Ruby Mountains
+- Chisos Mountains — Chisos
+- Sandia Mountains — Sandia
+- Musgrave Ranges — Musgrave Range | Musgrave
+- Hamersley Range — Hamersley Mountains | Hamersley
+- Stirling Range — Stirling Mountains
+- Darling Range — Darling Scarp | Darling Mountains
+- Warrumbungles — Warrumbungle Range | Warrumbungle Mountains
+- Tararua Range — Tararua Mountains | Tararua
+- Ruahine Range — Ruahine Mountains | Ruahine
+- Kaikōura Ranges — Kaikōura Range
+- Sentinel Range — Sentinel Mountains
+- Prince Charles Mountains
+- Queen Maud Mountains
+- Gakkel Ridge — Nansen Ridge | Nansen Cordillera
+- Southwest Indian Ridge
+- Ninety East Ridge
+- Reykjanes Ridge
+- Juan de Fuca Ridge
+- Walvis Ridge
+- Hillary Montes
+- Montes Apenninus — Lunar Apennines
+- Tharsis Montes — Tharsis Mountains
+- Vinson Massif
+- Mithrim Montes — Mountains of Mithrim
+- Moria Montes — Mountains of Moria
+- Angmar Montes — Mountains of Angmar
+- Luin Montes — Ered Luin
+- Lithui Montes — Ered Lithui
+- Echoriat Montes — Echoriath Montes
+- Dolmed Montes
+- Gram Montes
+- Irensaga Montes
+- Merlock Montes
+- Mindolluin Montes
+- Rerir Montes
+- Taniquetil Montes
+- Loma Mountains
+- Fann Mountains — Fann
+- Rodna Mountains — Rodnei Mountains | Munții Rodnei | Rodna
+- DeLong Mountains
+- Kodar Mountains — Kodar
+- Kiso Mountains — Central Alps | Chūō Alps | Kiso
+- Mealy Mountains
+- Stołowe Mountains — Góry Stołowe | Stołowe
+- Orlické hory — Eagle Mountains | Orlicke Mountains
+- Dabie Mountains — Dabie
+- Călimani Mountains — Călimani
+- Baetic Cordillera — Baetic System | Cordillera Bética | Sistema Bético
+- Ox Mountains — Slieve Gamph
+- Caha Mountains — Caha
+- Aïr Mountains — Aïr Massif
+- Alay Mountains — Alai Mountains | Alay Range | Alai Range | Alay
+- Yin Mountains — Yinshan
+- Helan Mountains — Helan Shan | Helan
+- Hidaka Mountains — Hidaka
+- Ōu Mountains
+- Star Mountains
+- Wallowa Mountains — Wallowa
+- Santa Rita Mountains
+- Huachuca Mountains — Huachuca
+- Boston Mountains
+- Cumberland Mountains
+- Selwyn Mountains
+- Bernina Range — Bernina Alps | Bernina Mountains | Bernina
+- Mátra — Mátra Mountains
+- Jizera Mountains — Jizerské hory | Izera Mountains | Góry Izerskie | Jizera
+- Owl Mountains — Góry Sowie
+- Sila — La Sila | Sila Mountains
+- Siebengebirge — Seven Mountains
+- Paparoa Range — Paparoa Mountains | Paparoa
+- Southeast Indian Ridge
+- Funeral Mountains
+- Judean Mountains — Judean Hills | Judaean Mountains
+- Manzano Mountains — Manzano
+- Zuni Mountains
+- Tushar Mountains — Tushar
+- Skeena Mountains — Skeena
+- Baffin Mountains
+- Chūgoku Mountains
+- Echigo Mountains — Echigo
+- Lüliang Mountains — Lüliang
+- Min Mountains — Minshan
+- Chin Hills
+- Diwata Mountains — Diwata
+- Talysh Mountains
+- Haraz Mountains — Haraz
+- Khangai Mountains — Khangay Mountains | Khangai
+- Bale Mountains
+- Dublin Mountains
+- Partry Mountains — Partry
+- Aurès Mountains — Aurès
+- Atakora Mountains — Atacora Mountains | Atakora
+- Daba Mountains — Daba Shan | Daba
+- Wuling Mountains — Wuling
+- Nanling Mountains — Nanling
+- Sobaek Mountains — Sobaek
+- Spring Mountains
+- Inyo Mountains — Inyo
+- Crazy Mountains
+- Elk Mountains
+- Wet Mountains
+- Jemez Mountains — Jemez
+- Organ Mountains
+- Davis Mountains
+- Henry Mountains
+- La Sal Mountains — La Sal
+- Wichita Mountains
+- Unaka Mountains — Unaka
+- Cassiar Mountains — Cassiar
+- Bunya Mountains — Bunya
+- Darran Mountains — Darran
+- Pare Mountains
+- Santa Ana Mountains
+- Chuska Mountains — Chuska
+- Glass Mountains
+- Iron Mountains
+- Baird Mountains
+- Parâng Mountains — Parâng
+- Dartry Mountains — Dartry
+- Shehy Mountains — Shehy
+- Daxue Mountains — Daxue Shan | Daxue
+- Ailao Mountains — Ailao
+- Dhofar Mountains
+- Nur Mountains — Amanus Mountains
+- Saharan Atlas
+- Tell Atlas
+- Uluguru Mountains — Uluguru
+- Udzungwa Mountains — Udzungwa
+- Mulanje Massif — Mount Mulanje Massif
+- Nyanga Mountains — Inyanga Mountains | Nyanga
+- Swartberg — Swartberg Mountains
+- Langeberg
+- Waterberg — Waterberg Mountains
+- Soutpansberg
+- Lebombo Mountains — Lebombo
+- Matobo Hills — Matopos | Matopo Hills
+- Adrar des Ifoghas
+- Djurdjura
+- Nimba Range — Nimba Mountains | Nimba
+- Crystal Mountains
+- Imatong Mountains — Imatong
+- Danakil Alps
+- Cal Madow
+- Tsaratanana Massif
+- Ankaratra
+- Cherangani Hills
+- Kaimai Range — Kaimai Mountains | Kaimai
+- Raukumara Range — Raukumara Mountains | Raukumara
+- Kaweka Range — Kaweka Mountains | Kaweka
+- Remutaka Range — Rimutaka Range | Remutaka Mountains | Remutaka
+- Richmond Range — Richmond Mountains
+- Spenser Mountains
+- Arrowsmith Range — Arrowsmith Mountains
+- Ben Ohau Range — Ben Ohau Mountains | Ben Ohau
+- Takitimu Mountains — Takitimu
+- Kaimanawa Range — Kaimanawa Mountains | Kaimanawa
+- Coromandel Range — Coromandel Mountains
+- Hunua Ranges — Hunua Range | Hunua
+- Rock and Pillar Range — Rock and Pillar Mountains | Rock and Pillar
+- Liverpool Range — Liverpool Mountains
+- McPherson Range — McPherson Mountains
+- Otway Ranges — Otways | Otway Range
+- Strzelecki Ranges — Strzelecki Range
+- Brindabella Range — Brindabellas | Brindabella Mountains | Brindabella
+- Budawang Range — Budawang Mountains | Budawang
+- Carnarvon Range — Carnarvon Mountains
+- Petermann Ranges — Petermann Range
+- Gawler Ranges — Gawler Range
+- Wunaamin Miliwundi Ranges — King Leopold Ranges | Wunaamin Miliwundi Range | Wunaamin Miliwundi
+- Porongurup Range — Porongurup Mountains | Porongurup
+- Great Western Tiers
+- Du Cane Range — Du Cane Mountains
+- Bismarck Range — Bismarck Mountains
+- Finisterre Range — Finisterre Mountains
+- Saruwaged Range — Saruwaged Mountains | Saruwaged
+- Torricelli Mountains
+- Sudirman Range — Sudirman Mountains
+- Jayawijaya Mountains — Jayawijaya
+- Central Range — Central Mountains
+- Mosquito Range — Mosquito Mountains
+- Gore Range — Gore Mountains
+- Park Range — Park Mountains
+- Medicine Bow Mountains — Medicine Bow
+- Laramie Mountains
+- Gallatin Range — Gallatin Mountains
+- Madison Range — Madison Mountains
+- Bridger Range — Bridger Mountains
+- Lewis Range — Lewis Mountains
+- Mission Mountains
+- Cabinet Mountains
+- Salmon River Mountains
+- Lost River Range — Lost River Mountains
+- Lemhi Range — Lemhi Mountains | Lemhi
+- Seven Devils Mountains
+- Warner Mountains
+- Toiyabe Range — Toiyabe Mountains | Toiyabe
+- Snake Range — Snake Mountains
+- Panamint Range — Panamint Mountains | Panamint
+- San Jacinto Mountains
+- Santa Rosa Mountains
+- Santa Ynez Mountains
+- Tehachapi Mountains
+- Santa Cruz Mountains
+- Chiricahua Mountains
+- Santa Catalina Mountains
+- Pinaleño Mountains — Pinaleño
+- Bradshaw Mountains
+- Mogollon Mountains — Mogollon
+- Sacramento Mountains
+- San Andres Mountains
+- Abajo Mountains
+- Oquirrh Mountains — Oquirrh
+- Gros Ventre Range — Gros Ventre Mountains
+- Wyoming Range — Wyoming Mountains
+- Big Belt Mountains
+- Little Belt Mountains
+- Bears Paw Mountains — Bears Paw
+- Arbuckle Mountains
+- Franklin Mountains
+- Taconic Mountains — Taconic
+- Shawangunk Ridge — Shawangunks | Gunks
+- Kittatinny Mountain — Kittatinny Ridge
+- Ramapo Mountains — Ramapo
+- Hudson Highlands
+- Longfellow Mountains
+- Mahoosuc Range — Mahoosuc Mountains | Mahoosuc
+- Franconia Range — Franconia Mountains
+- Sandwich Range — Sandwich Mountains
+- Massanutten Mountain
+- Uwharrie Mountains — Uwharrie
+- Koʻolau Range — Koʻolau Mountains | Koʻolau
+- Waiʻanae Range — Waiʻanae Mountains | Waiʻanae
+- Wrangell Mountains — Wrangell
+- Talkeetna Mountains — Talkeetna
+- Kuskokwim Mountains — Kuskokwim
+- Philip Smith Mountains
+- Romanzof Mountains — Romanzof
+- Fairweather Range — Fairweather Mountains
+- Boundary Ranges — Boundary Range
+- Cariboo Mountains
+- Omineca Mountains — Omineca
+- Hazelton Mountains
+- Pacific Ranges — Pacific Range
+- Kitimat Ranges — Kitimat Range
+- Insular Mountains — Vancouver Island Ranges
+- Ogilvie Mountains
+- Richardson Mountains
+- British Mountains
+- Chic-Choc Mountains — Chic-Chocs | Chic-Choc
+- Notre Dame Mountains
+- Sierra Madre de Chiapas
+- Sierra de San Pedro Mártir
+- Sierra de la Laguna
+- Sierra Gorda
+- Sierra Juárez
+- Northern Range — Northern Mountains
+- Escambray Mountains — Sierra del Escambray | Escambray
+- Sierra del Rosario
+- Massif de la Hotte
+- Massif de la Selle
+- Cordillera Septentrional
+- Luquillo Mountains — Luquillo
+- Cordillera de Guanacaste
+- Cordillera de Tilarán
+- Sierra de los Cuchumatanes — Cuchumatanes
+- Sierra de las Minas
+- Cordillera Negra
+- Cordillera Vilcanota
+- Cordillera Vilcabamba
+- Cordillera Urubamba
+- Cordillera Apolobamba
+- Cordillera de la Costa
+- Cordillera de Mérida
+- Serranía de Perijá
+- Sierra de la Ventana
+- Sierra de Famatina
+- Cordillera del Paine — Paine Massif
+- Pakaraima Mountains — Pakaraima
+- Tumuk Humak Mountains — Tumuk Humak
+- Kanuku Mountains — Kanuku
+- Serra Geral
+- Serra dos Órgãos
+- Serra da Canastra
+- Serra do Caparaó
+- Serra Parima
+- Graian Alps
+- Cottian Alps
+- Lepontine Alps
+- Glarus Alps
+- Uri Alps
+- Silvretta
+- Rätikon
+- Stubai Alps
+- Zillertal Alps
+- Kitzbühel Alps
+- Dachstein Mountains — Dachstein
+- Totes Gebirge
+- Karawanks — Karavanke
+- Kamnik–Savinja Alps
+- Bergamo Alps
+- Adamello-Presanella Alps — Adamello
+- Ortler Alps
+- Brenta Dolomites
+- Massif des Écrins — Écrins
+- Vercors
+- Chartreuse Mountains — Chartreuse
+- Aravis
+- Chablais
+- Berchtesgaden Alps
+- Wetterstein
+- Lechtal Alps
+- Niedere Tauern — Low Tauern
+- Northern Limestone Alps
+- Alpstein
+- Albula Alps
+- Sierra de Cazorla
+- Montes de Toledo
+- Sistema Central — Central System
+- Serra do Gerês
+- Serra de Monchique
+- Morvan
+- Monts Dore
+- Monts du Cantal
+- Massif de l'Esterel — Esterel
+- Luberon
+- Alpilles
+- Hunsrück
+- Westerwald
+- Rothaargebirge
+- Weser Uplands
+- Odenwald
+- Spessart
+- Fichtelgebirge
+- Elbe Sandstone Mountains — Elbe Sandstone
+- Lusatian Mountains
+- Hrubý Jeseník
+- Pieniny
+- Gorce
+- Slovak Ore Mountains — Slovak Ore
+- Malá Fatra
+- Veľká Fatra
+- Little Carpathians
+- White Carpathians
+- Bükk
+- Börzsöny
+- Bakony
+- Mecsek
+- Bucegi Mountains — Bucegi
+- Retezat Mountains — Retezat
+- Ceahlău Massif — Ceahlău
+- Piatra Craiului
+- Vitosha
+- Strandzha
+- Osogovo
+- Durmitor
+- Kopaonik
+- Zlatibor
+- Korab
+- Othrys
+- Dikti
+- Gran Sasso — Gran Sasso d'Italia
+- Maiella — Majella
+- Aspromonte
+- Pollino
+- Madonie
+- Nebrodi
+- Peloritani
+- Gennargentu
+- Supramonte
+- Trollheimen
+- Sunnmøre Alps
+- Timan Ridge
+- Valdai Hills
+- Snowdon Massif
+- Moelwynion — Moelwyns
+- Rhinogydd — Rhinogs
+- Arenig — Arenigs
+- Fforest Fawr
+- Radnor Forest
+- Stiperstones
+- Clee Hills
+- Lickey Hills
+- Clent Hills
+- Bowland Fells — Forest of Bowland
+- Cleveland Hills
+- Hambleton Hills
+- Brendon Hills
+- Purbeck Hills
+- Dorset Downs
+- Berkshire Downs
+- Marlborough Downs
+- Hampshire Downs
+- Gog Magog Hills — Gog Magogs
+- Moorfoot Hills
+- Lowther Hills
+- Galloway Hills
+- Trotternish — Trotternish Ridge
+- Torridon Hills
+- Fannichs
+- Five Sisters of Kintail
+- Arrochar Alps
+- Paps of Jura
+- Sidlaw Hills — Sidlaws
+- Gargunnock Hills
+- Kilpatrick Hills
+- Eildon Hills — Eildons
+- Black Mount
+- Grey Corries
+- Knockmealdown Mountains — Knockmealdowns | Knockmealdown
+- Silvermine Mountains
+- Ballyhoura Mountains — Ballyhoura
+- Nephin Beg Range — Nephin Beg Mountains | Nephin Beg
+- Ring of Gullion
+- Belfast Hills
+- Blackstairs Mountains — Blackstairs
+- Slieve Mish Mountains — Slieve Mish
+- Slieve Aughty Mountains — Slieve Aughty
+- Bricklieve Mountains — Bricklieve
+- Sheeffry Hills
+- Akaishi Mountains — Southern Alps of Japan | Minami Alps | Akaishi
+- Hakkōda Mountains — Hakkōda
+- Shikoku Mountains
+- Kitakami Mountains
+- Lesser Khingan
+- Changbai Mountains — Changbai
+- Wudang Mountains — Wudang
+- Gaoligong Mountains — Gaoligong
+- Nyenchen Tanglha Mountains — Nyenchen Tanglha | Nyainqêntanglha
+- Tanggula Mountains — Dangla Mountains | Tanggula
+- Bayan Har Mountains — Bayan Har
+- Amne Machin
+- Altyn-Tagh
+- Hindu Raj
+- Toba Kakar Range — Toba Kakar Mountains | Toba Kakar
+- Kirthar Range — Kirthar Mountains | Kirthar
+- Makran Range — Makran Mountains
+- Margalla Hills
+- Dhauladhar — Dhauladhar Range
+- Garhwal Himalaya
+- Kumaon Himalaya
+- Mishmi Hills
+- Garo Hills
+- Jaintia Hills
+- Lushai Hills — Mizo Hills
+- Shan Hills
+- Dawna Range — Dawna Mountains | Dawna
+- Bilauktaung
+- Phetchabun Mountains — Phetchabun
+- Luang Prabang Range — Luang Prabang Mountains
+- Hoàng Liên Sơn
+- Elephant Mountains
+- Dangrek Mountains — Dangrek
+- Zambales Mountains
+- Central Mountain Range — Central Mountain Mountains
+- Yushan Range — Yushan Mountains
+- Xueshan Range — Xueshan Mountains
+- Alishan Range — Alishan Mountains
+- Binalud — Binalud Mountains
+- Jebel Akhdar — Al Jabal al Akhdar
+- Nusayriyah Mountains — Alawite Mountains | Jabal Ansariyah | Nusayriyah
+- Zangezur Mountains — Zangezur
+- Likhi Range — Likhi Mountains | Likhi
+- Turkestan Range — Turkestan Mountains
+- Zarafshan Range — Zarafshan Mountains
+- Gissar Range — Hissar Range | Gissar Mountains | Gissar
+- Chatkal Range — Chatkal Mountains | Chatkal
+- Kyrgyz Ala-Too
+- Trans-Ili Alatau
+- Dzungarian Alatau
+- Tarbagatai Mountains — Tarbagatai
+- Khentii Mountains — Khentii
+- Gobi-Altai Mountains — Gobi-Altai
+- Byrranga Mountains — Byrranga
+- Kolyma Mountains
+- Koryak Mountains
+- Sredinny Range — Sredinny Mountains | Sredinny
+- Dzhugdzhur
+- Yablonovy Range — Yablonovy Mountains | Yablonovy
+- Barguzin Range — Barguzin Mountains | Barguzin
+- Khamar-Daban
+- Kuznetsk Alatau
+- Momsky Range — Momsky Mountains | Momsky
+- Chukotka Mountains
+- Meratus Mountains — Meratus
+- Müller Mountains
+- Schwaner Mountains
+- Queen Alexandra Range — Queen Alexandra Mountains
+- Britannia Range — Britannia Mountains
+- Admiralty Mountains
+- Pensacola Mountains
+- Shackleton Range — Shackleton Mountains
+- Horlick Mountains
+- Heritage Range — Heritage Mountains
+- Executive Committee Range — Executive Committee Mountains
+- Sør Rondane Mountains — Sør Rondane
+- Central Indian Ridge
+- Pacific-Antarctic Ridge
+- Chile Rise
+- Cocos Ridge
+- Nazca Ridge
+- Carnegie Ridge
+- Kolbeinsey Ridge
+- Mohns Ridge
+- Knipovich Ridge
+- Alpha Ridge
+- Mendeleev Ridge
+- Louisville Ridge — Louisville Seamount Chain
+- Tonga Ridge
+- Kermadec Ridge
+- Norfolk Ridge
+- Macquarie Ridge
+- Chagos-Laccadive Ridge
+- Aden Ridge
+- Explorer Ridge
+- Gorda Ridge
+- New England Seamounts
+- American-Antarctic Ridge
+- Wyville Thomson Ridge
+- Montes Alpes — Lunar Alps
+- Montes Caucasus
+- Montes Carpatus
+- Montes Jura
+- Montes Haemus
+- Montes Taurus
+- Montes Pyrenaeus
+- Montes Teneriffe
+- Montes Recti
+- Montes Spitzbergen
+- Montes Riphaeus
+- Montes Agricola
+- Montes Archimedes
+- Montes Cordillera
+- Montes Rook
+- Montes Harbinger
+- Montes Secchi
+- Phlegra Montes
+- Charitum Montes
+- Nereidum Montes
+- Libya Montes
+- Tartarus Montes
+- Geryon Montes
+- Erebus Montes
+- Hellespontus Montes
+- Akna Montes
+- Freyja Montes
+- Danu Montes
+- al-Idrisi Montes
+- Baret Montes
+- Clarke Montes
+- Caloris Montes
+- Boösaule Montes
+- Euboea Montes
+
+### Tier 6: rare jackpots (3)
+
+- Gamburtsev Mountains — Gamburtsev Subglacial Mountains | Gamburtsev Range | Gamburtsev
+- Tenzing Montes — Norgay Montes
+- Carlsberg Ridge
+
+## Refused on purpose (59)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Everest | Mount Everest | Chomolungma | Qomolangma | Sagarmatha — "A single peak, if the highest of them all. Its range would count."
+- K2 | Mount Godwin-Austen | Chhogori — "A single peak, the second highest on Earth."
+- Kilimanjaro | Mount Kilimanjaro | Kibo — "A lone volcano rising from the plains, not a range."
+- Mont Blanc | Monte Bianco — "A single peak, the highest in the Alps."
+- Matterhorn | Monte Cervino | Mont Cervin — "A single peak, astride the Swiss-Italian border."
+- Ben Nevis — "A single peak, the highest in Britain."
+- Snowdon | Yr Wyddfa | Mount Snowdon — "A single peak, the highest in Wales."
+- Scafell Pike | Scafell — "A single peak, the highest in England."
+- Denali | Mount McKinley | McKinley | Mount Denali — "A single peak, the highest in North America."
+- Mount Fuji | Fuji | Fujiyama | Fuji-san — "A single volcano, standing alone."
+- Mount Olympus | Olympus — "A single mountain, home of the Greek gods."
+- Olympus Mons — "A single volcano on Mars, the tallest known in the Solar System."
+- Table Mountain — "A single flat-topped mountain, looking down on Cape Town."
+- Uluru | Ayers Rock — "A single great rock, not a range."
+- Aconcagua — "A single peak, the highest in the Americas."
+- Kosciuszko | Mount Kosciuszko | Mount Kosciusko | Kosciusko — "A single peak, the highest in mainland Australia."
+- Elbrus | Mount Elbrus — "A single peak, often called the highest in Europe."
+- Mount Kenya — "A single old volcano, not a range."
+- Mount Rushmore | Rushmore — "A single mountain with four presidents carved into it. Its range would count."
+- Mount Ararat | Ararat — "A single volcano, where legend says Noah's Ark came to rest."
+- Mount Sinai | Jabal Musa — "A single mountain, where Moses is said to have received the Ten Commandments."
+- Mount Vinson | Vinson — "Antarctica's highest peak, not a range."
+- Pen y Fan — "A single peak, the highest in the Brecon Beacons."
+- Mount Kailash | Eiger | Jungfrau | Zugspitze | Triglav | Mont Ventoux | Grossglockner | Brocken | Aneto | Mulhacén | Monte Perdido | Kangchenjunga | Kanchenjunga | Lhotse | Makalu | Cho Oyu | Dhaulagiri | Manaslu | Nanga Parbat | Annapurna | Broad Peak | Shishapangma | Ama Dablam | Kailash | Nanda Devi | Mount Damavand | Damavand | Mount Kinabalu | Kinabalu | Mount Cook | Aoraki | Mount Logan | Mount Whitney | Mount Rainier | Mount Hood | Mount Shasta | Mount Washington | Pikes Peak | Longs Peak | Grand Teton | Half Dome | El Capitan | Mauna Kea | Mauna Loa | Chimborazo | Cotopaxi | Huascarán | Illimani | Mount Etna | Etna | Vesuvius | Mount Vesuvius | Teide | Mount Teide | Stromboli | Krakatoa | Mount St Helens | Popocatépetl | Mount Ida | Mount Parnassus | Parnassus | Mount Athos | Mount Hermon | Mount Tabor | Mount Zion | Helvellyn | Skiddaw | Cadair Idris | Cader Idris | Ben Lomond | Ben Macdui | Schiehallion | Slieve Donard | Carrauntoohil | Croagh Patrick | Arthur's Seat | The Wrekin | Kinder Scout | Cross Fell | Pendle Hill | Glastonbury Tor | Mount Erebus | Puncak Jaya | Carstensz Pyramid | Mount Apo | Mount Pinatubo | Mount Bromo | Mount Merapi | Mount Agung | Toubkal | Jebel Toubkal | Mount Cameroon | Mount Elgon | Mount Meru | Ras Dashen | Mount Wellington | Mount Roraima — "A single mountain, not a range."
+- Mountains of Madness | At the Mountains of Madness — "From H. P. Lovecraft's story At the Mountains of Madness, and found on no real map."
+- Lonely Mountain | Erebor | Mount Doom | Orodruin — "A single mountain, and Tolkien's besides."
+- Big Rock Candy Mountains | Big Rock Candy Mountain — "A hobo's paradise from an old folk song. The lemonade springs are not real."
+- Mountains of Kong | Kong Mountains — "Drawn on maps of West Africa for most of the 19th century. They never existed."
+- Brokeback Mountain — "Fictional, from a short story and the film made of it."
+- Highlands | Scottish Highlands | Highlands of Scotland | Northwest Highlands — "A region of Scotland, not one range. The Grampians would count."
+- Snowdonia | Eryri — "A national park full of mountains, not one range. Name one of its ranges."
+- Lake District | Lakeland — "A national park, not a range, though the mountains in it would count."
+- Peak District | The Peaks | Dark Peak | White Peak — "A national park at the southern end of the Pennines."
+- Yorkshire Dales — "Valleys and the fells between them. The Pennines run through them."
+- Dartmoor | Exmoor | Bodmin Moor | North York Moors — "A moor, not a range."
+- Tibetan Plateau | Tibet | Qinghai-Tibet Plateau — "A vast high plateau, ringed by ranges but not one itself."
+- Roof of the World — "A nickname claimed by a plateau and a range alike. Name the range."
+- Deccan Plateau | Deccan | Altiplano | Colorado Plateau | Ethiopian Highlands | Guiana Highlands | Brazilian Highlands | Iranian Plateau | Anatolian Plateau | Golan Heights | Hardangervidda | Kerguelen Plateau — "A plateau, not a range."
+- Great Rift Valley | Rift Valley | East African Rift — "A valley torn in the earth, not a range."
+- Grand Canyon — "A canyon, which is more or less a mountain range turned inside out."
+- Ring of Fire | Pacific Ring of Fire — "A horseshoe of volcanoes and trenches around the Pacific, not one range."
+- Mariana Trench | Marianas Trench — "A trench. Mountains go the other way."
+- Balkans | Balkan Peninsula — "A peninsula and a region, not a range."
+- Patagonia — "A region at the tip of South America, not a range."
+- Tyrol | Tirol | South Tyrol — "A region of the Alps, not a range of its own."
+- Cordillera — "That's just the word for a mountain chain. Name one."
+- Kerry Mountains — "Kerry has several ranges. Name one of them."
+- Hottentots-Holland Mountains | Hottentots Holland — "A real range near Cape Town, but its name holds an old slur for the Khoikhoi people, so the deep won't take it."
+- Continental Divide — "A watershed line along the crests of the Rockies and the Andes, not a range of its own."
+- Seven Hills of Rome | Seven Hills — "Hills of a city, not a range."
+- Montenegro — "A country, though its name means 'black mountain'."
+- Sierra Leone — "A country, though its name means 'lion mountains'."
+- Montana — "A state, whose name comes from the Spanish for 'mountain'."
+- Refused without a reason (near misses of real answers): Flanders | Riga | Juba | Honduras | Shanghai | Chiang Mai

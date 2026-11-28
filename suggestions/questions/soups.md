@@ -1,0 +1,370 @@
+# Name a soup.
+
+Question id: `soups` · category: food · source: `data/food.json`
+
+Rules: Any soup or broth, hot or cold, noodle soups included, named as a dish or by its main ingredient. Thick stews such as chilli don't count, and nor do curries, sauces or stocks.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (316 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Tomato soup — Cream of tomato | Cream of tomato soup | Tomato and basil soup | Tomato bisque | Roasted tomato soup | Tomato | Zupa pomidorowa | Pomidorowa | Sopa de tomate
+- Chicken soup — Cream of chicken | Cream of chicken soup | Jewish penicillin | Chicken broth | Caldo de pollo | Sopa de pollo | Chicken and rice soup | Chicken | Jewish penicillin soup | Chicken and mushroom soup | Chicken and mushroom
+- Vegetable soup — Veg soup | Veggie soup | Vegetable broth | Mixed vegetable soup | Garden vegetable soup | Vegetable
+- Mushroom soup — Cream of mushroom | Cream of mushroom soup | Wild mushroom soup | Mushroom and barley soup | Mushroom | Zupa grzybowa | Grzybowa
+- Leek and potato soup — Leek and potato | Potato and leek soup | Potato and leek | Potage Parmentier | Leek soup | Leek
+- Minestrone — Minestra | Minestrone soup
+- French onion soup — French onion | Onion soup | Soupe à l'oignon | Onion | Gratinée | Soupe à l'oignon gratinée | Sopa de cebolla
+- Chicken noodle soup — Chicken noodle
+- Pea soup — Pea and ham soup | Pea and ham | Ham and pea soup | Split pea soup | Split pea | Split pea and ham soup | Green pea soup | Erbsensuppe | Grochówka | Habitant pea soup | Pea | Grochówka soup | Pea and mint soup | Pea and mint | Potage Saint-Germain | Gule ærter | Ertesuppe
+- Lentil soup — Red lentil soup | Spiced lentil soup | Lentil and bacon soup | Shorbat adas | Mercimek çorbası | Mercimek | Linsensuppe | Lentil | Mercimek soup | Tomato and lentil soup | Sopa de lentejas
+- Carrot and coriander soup — Carrot and coriander | Carrot soup | Carrot and ginger soup | Carrot and cilantro soup | Carrot | Potage Crécy | Crème Crécy
+- Oxtail soup — Oxtail | Sop buntut | Sop buntut soup | Sup ekor
+
+### Tier 2: common (28)
+
+- Gazpacho — Gaspacho | Gazpacho andaluz | Andalusian gazpacho | Gazpacho soup | Gaspacho soup | Gazpacho andaluz soup | Andalusian gazpacho soup
+- Borscht — Borsch | Borshch | Borsht | Bortsch | Barszcz | Beetroot soup | Beet soup | Red borscht | Borscht soup | Borsch soup | Borshch soup | Borsht soup | Bortsch soup | Barszcz soup | Red borscht soup | Beetroot | Beet
+- Miso soup — Miso | Misoshiru | Misoshiru soup
+- Ramen — Ramen noodles | Ramen noodle soup | Tonkotsu | Tonkotsu ramen | Shoyu ramen | Miso ramen | Shio ramen | Ramen soup | Tonkotsu soup | Tonkotsu ramen soup | Shoyu ramen soup | Miso ramen soup | Shio ramen soup | Ramyeon | Ramyun | Instant ramen | Tantanmen
+- Pho — Pho soup | Pho bo | Pho ga | Beef pho | Chicken pho | Pho noodle soup | Pho bo soup | Pho ga soup | Beef pho soup | Chicken pho soup
+- Laksa — Curry laksa | Asam laksa | Assam laksa | Penang laksa | Sarawak laksa | Katong laksa | Laksa lemak | Laksa soup | Curry laksa soup | Asam laksa soup | Assam laksa soup | Penang laksa soup | Sarawak laksa soup | Katong laksa soup | Laksa lemak soup
+- Tom yum — Tom yam | Tom yum goong | Tom yum kung | Tom yam kung | Tom yum soup | Tom yam soup | Tom yum goong soup | Tom yum kung soup | Tom yam kung soup
+- Clam chowder — New England clam chowder | Boston clam chowder | Clam chowdah | Clam chowdah soup | Clam | Clam soup
+- Chowder — Fish chowder | Seafood chowder | Smoked haddock chowder
+- Bisque — Lobster bisque | Crab bisque | Prawn bisque | Shrimp bisque | Seafood bisque | Lobster | Lobster soup | Langoustine bisque
+- Consommé — Beef consommé | Double consommé | Clear soup
+- Vichyssoise — Crème vichyssoise | Vichyssoise soup | Crème vichyssoise soup
+- Mulligatawny — Mulligatawney | Mulligatawny soup | Mulligatawney soup
+- Scotch broth — Barley broth | Mutton broth | Lamb broth
+- Cock-a-leekie — Cocky-leeky | Cockie-leekie | Cock-a-leekie soup | Cocky-leeky soup | Cockie-leekie soup | Chicken and leek soup | Chicken and leek
+- Butternut squash soup — Butternut soup | Squash soup | Butternut squash | Roasted squash soup | Squash | Butternut
+- Pumpkin soup — Cream of pumpkin | Pumpkin | Cream of pumpkin soup
+- Broccoli soup — Broccoli and Stilton soup | Broccoli and Stilton | Broccoli cheddar soup | Broccoli and cheddar soup | Broccoli cheese soup | Cream of broccoli | Broccoli | Cream of broccoli soup
+- Potato soup — Baked potato soup | Loaded potato soup | Cream of potato | Kartoffelsuppe | Potato | Cream of potato soup
+- Goulash — Goulash soup | Gulyás | Gulyásleves | Gulaschsuppe | Hungarian goulash | Gulash | Gulyás soup | Gulyásleves soup | Hungarian goulash soup | Gulash soup
+- Bouillabaisse — Bouillabaise | Bouillabaisse soup | Bouillabaise soup
+- Gumbo — Seafood gumbo | Chicken gumbo | Gumbo z'herbes | Filé gumbo | Gumbo soup | Seafood gumbo soup | Chicken gumbo soup | Filé gumbo soup
+- Wonton soup — Wanton soup | Wonton noodle soup | Wonton noodles | Pancit molo | Molo soup | Wonton | Pancit molo soup
+- Hot and sour soup — Hot and sour | Suan la tang | Peking soup
+- Chicken and sweetcorn soup — Chicken and corn soup | Chicken sweetcorn soup | Sweetcorn soup | Corn soup | Crab and sweetcorn soup | Chicken and sweetcorn | Sweetcorn | Corn
+- Egg drop soup — Egg drop | Egg flower soup | Egg ribbon soup | Dan hua tang | Egg | Egg soup | Tomato egg drop soup | Tomato and egg soup | Seaweed and egg soup
+- Broth — Bone broth | Beef broth | Meat broth | Clear broth | Bouillon | Brodo | Beef tea | Bouillon soup | Caldo
+- Noodle soup — Noodle broth | Noodle
+
+### Tier 3: known to fans (43)
+
+- Cullen skink — Skink | Cullen skink soup | Skink soup
+- Brown Windsor soup — Brown Windsor
+- Mock turtle soup — Mock turtle
+- Turtle soup — Green turtle soup | Snapper soup | Turtle
+- Bird's nest soup — Swallow's nest soup | Swiftlet nest soup | Yan wo | Bird's nest | Yan wo soup
+- Shark fin soup — Shark's fin soup | Shark fin
+- Matzo ball soup — Matzah ball soup | Matza ball soup | Kneidlach | Knaidlach | Kneidel soup | Matzo ball | Kneidlach soup | Knaidlach soup
+- Corn chowder
+- Manhattan clam chowder — Manhattan chowder
+- Fish soup — Soupe de poisson | Zuppa di pesce | Fiskesuppe | Seafood soup | Psarosoupa | Sopa de pescado | Fish | Seafood | Sopa de mariscos | Caldo de pescado | Bergen fish soup
+- Avgolemono — Egg and lemon soup | Egg-lemon soup | Avgolemono soup
+- Harira — Harira soup
+- Pozole — Posole | Pozole rojo | Pozole verde | Pozole blanco | Pozole soup | Posole soup | Pozole rojo soup | Pozole verde soup | Pozole blanco soup
+- Tortilla soup — Sopa de tortilla | Sopa azteca | Aztec soup | Chicken tortilla soup
+- Menudo — Pancita | Menudo soup | Pancita soup
+- Caldo verde — Kale soup | Portuguese kale soup | Kale
+- Ribollita — Ribollita soup
+- Pasta e fagioli — Pasta fagioli | Pasta fazool | Pasta e fasoi | Pasta and bean soup | Pasta e fagioli soup | Pasta fagioli soup | Pasta fazool soup | Pasta e fasoi soup
+- Italian wedding soup — Wedding soup | Minestra maritata | Italian wedding
+- Tom kha gai — Tom kha | Tom kha kai | Tom ka gai | Coconut chicken soup | Tom kha gai soup | Tom kha soup | Tom kha kai soup | Tom ka gai soup
+- Khao soi — Khao soy | Khao soi soup | Khao soy soup
+- Udon soup — Udon | Kake udon | Kitsune udon | Udon noodle soup | Kake udon soup | Kitsune udon soup
+- Bean soup — White bean soup | Navy bean soup | Haricot bean soup | Ham and bean soup | Bean and bacon soup | Bean | Bableves | Jókai bableves | Zuppa di fagioli
+- Black bean soup — Sopa de frijoles negros | Black bean
+- Asparagus soup — Cream of asparagus | Asparagus | Cream of asparagus soup
+- Celery soup — Cream of celery | Celery | Cream of celery soup
+- Cauliflower soup — Cauliflower cheese soup | Cream of cauliflower | Cauliflower | Cream of cauliflower soup
+- Watercress soup — Cress soup | Potage cresson | Watercress
+- Parsnip soup — Spiced parsnip soup | Curried parsnip soup | Parsnip and apple soup | Parsnip
+- Sweet potato soup — Sweet potato
+- Spinach soup — Spinach
+- Nettle soup — Nettle
+- Cabbage soup — Kapuśniak | Cabbage | Kapuśniak soup | Kwaśnica | Soupe au chou | Sauerkraut soup
+- Garlic soup — Sopa de ajo | Česnečka | Aïgo boulido | Garlic | Česnečka soup | Aïgo boulido soup | Sopa castellana | Tourin
+- Beef and barley soup — Beef barley soup | Barley soup | Krupnik | Beef and barley | Krupnik soup | Barley
+- Alphabet soup
+- Red pepper soup — Roasted red pepper soup | Red pepper and tomato soup | Red pepper | Tomato and red pepper soup | Tomato and red pepper
+- Beef soup — Caldo de res | Vegetable beef soup | Beef and vegetable soup | Beef
+- Zuppa toscana
+- Congee — Jook | Juk | Rice porridge | Arroz caldo | Lugaw | Rice soup | Kanji | Congee soup | Jook soup | Lugaw soup | Kanji soup | Jok | Cháo | Okayu | Zhou | Rice gruel
+- Hot pot — Chinese hot pot | Huoguo | Steamboat | Sichuan hot pot | Mala hot pot | Hot pot soup | Chinese hot pot soup | Huoguo soup | Sichuan hot pot soup | Mala hot pot soup
+- Turkey soup — Turkey | Turkey noodle soup | Turkey and rice soup
+- Manchow soup — Manchow
+
+### Tier 4: obscure (66)
+
+- Stracciatella — Stracciatella soup
+- Pappa al pomodoro — Pappa al pomodoro soup
+- Tortellini in brodo
+- Cioppino — Cioppino soup
+- Soupe au pistou — Pistou soup | Pistou
+- Velouté — Velouté soup
+- Pottage — Potage
+- Salmorejo — Salmorejo soup
+- Ajoblanco — White gazpacho | Ajoblanco soup | White gazpacho soup
+- Waterzooi — Gentse waterzooi | Waterzooi soup | Gentse waterzooi soup
+- Shchi — Shchi soup
+- Solyanka — Selyanka | Solianka | Solyanka soup | Selyanka soup | Solianka soup
+- Okroshka — Okroshka soup
+- Cold borscht — Šaltibarščiai | Chłodnik | Svekolnik | Kholodnik | Cold beetroot soup | Cold beet soup | Cold borscht soup | Šaltibarščiai soup | Chłodnik soup | Svekolnik soup | Kholodnik soup
+- Żurek — Żur | Sour rye soup | White borscht | Biały barszcz | Żurek soup | White borscht soup | Biały barszcz soup
+- Halászlé — Fisherman's soup | Hungarian fish soup | Halászlé soup
+- Fasolada — Fasoulada | Fasolada soup | Fasoulada soup
+- Shorba — Shurpa | Chorba | Shorva | Çorba | Ciorbă | Chorba frik | Sorpa | Shurpa soup | Shorva soup | Sorpa soup
+- Molokhia — Mulukhiyah | Molokheya | Mloukhiya | Jute leaf soup | Molokhia soup | Mulukhiyah soup | Molokheya soup | Mloukhiya soup | Ewedu | Ewedu soup
+- Tripe soup — İşkembe çorbası | Işkembe | Shkembe | Shkembe chorba | Ciorbă de burtă | Flaki | Flaczki | Mondongo | Sopa de mondongo | Tripe | Işkembe soup | Shkembe soup | Flaki soup | Flaczki soup | Mondongo soup
+- Dal — Dhal | Dahl | Daal | Dhal soup | Dahl soup | Daal soup
+- Rasam — Saaru | Chaaru | Rasam soup | Saaru soup | Chaaru soup
+- Sambar — Sambhar | Sambaar | Sambar soup | Sambhar soup | Sambaar soup
+- Thukpa — Thukpa soup
+- Lagman — Laghman | Lagmon | Lagman soup | Laghman soup | Lagmon soup
+- Mohinga — Mohingar | Mohinga soup | Mohingar soup
+- Bún bò Huế — Bun bo | Bún bò Huế soup | Bun bo soup
+- Beef noodle soup — Taiwanese beef noodle soup | Lanzhou beef noodle soup | Lanzhou noodles | Niu rou mian | Beef noodle | Niu rou mian soup
+- Bak kut teh — Bah kut teh | Pork rib soup | Bak kut teh soup | Bah kut teh soup
+- Soto ayam — Soto | Soto ayam soup | Soto soup | Mee soto
+- Sinigang — Sinigang soup
+- Samgyetang — Ginseng chicken soup
+- Kimchi jjigae — Kimchi stew | Kimchi soup | Kimchi chigae | Kimchi chigae soup
+- Egusi soup — Egusi
+- Pepper soup — Nigerian pepper soup | Goat pepper soup | Catfish pepper soup
+- Okra soup — Okro soup | Okro | Okra
+- Groundnut soup — Peanut soup | Nkatenkwan | Peanut butter soup | Sopa de maní | Groundnut | Nkatenkwan soup | Peanut
+- Callaloo — Calalou | Kallaloo | Callaloo soup | Calalou soup | Kallaloo soup
+- Sancocho — Sancocho soup
+- Ajiaco — Ajiaco soup
+- Meatball soup — Albóndigas soup | Sopa de albóndigas | Albóndigas | Meatball
+- She-crab soup — Crab soup | She-crab | Crab
+- Chicken and dumplings — Chicken 'n' dumplings | Chicken and dumpling soup
+- Celeriac soup — Celeriac
+- Jerusalem artichoke soup — Artichoke soup | Sunchoke soup | Palestine soup | Jerusalem artichoke
+- Courgette soup — Zucchini soup | Courgette
+- Chestnut soup — Chestnut
+- Cucumber soup — Cold cucumber soup | Tarator | Cucumber | Tarator soup
+- Chickpea soup — Garbanzo soup | Garbanzo bean soup | Chickpea
+- Cheese soup — Beer cheese soup | Cheddar soup
+- Fruit soup — Fruktsoppa | Fruktsuppe | Kaltschale | Kaltschale soup | Fruit
+- Dumpling soup — Mandu-guk | Dumpling broth | Jhol momo | Momo soup | Maultaschen soup | Kreplach soup
+- Cawl — Welsh cawl | Cawl soup | Welsh cawl soup
+- Nabe — Nabemono | Chanko nabe | Yosenabe | Mizutaki | Shabu-shabu | Nabe soup | Nabemono soup | Chanko nabe soup | Yosenabe soup | Mizutaki soup | Shabu-shabu soup
+- Pot-au-feu — Pot-au-feu soup
+- Lamb soup — Lamb | Lamb and barley soup
+- Duck soup — Duck | Duck noodle soup | Duck broth
+- Oyster stew — Oyster soup | Oyster
+- Bread soup — Brotsuppe | Panada | Sopa de pan | Bread | Panada soup
+- Wild rice soup — Chicken wild rice soup | Minnesota wild rice soup | Wild rice
+- Lemon coriander soup — Lemon coriander
+- Soba noodle soup — Soba | Kake soba | Soba soup | Toshikoshi soba | Soba noodle | Kake soba soup | Toshikoshi soba soup
+- Jjamppong — Champong | Jjamppong soup | Champong soup
+- Malatang
+- Sopa de fideo — Fideo | Fideo soup | Vermicelli soup
+- Prawn soup — Shrimp soup | Prawn | Shrimp
+
+### Tier 5: expert (164)
+
+- Partan bree
+- Hairst bree — Hotchpotch | Harvest broth | Hotchpotch soup
+- Garbure — Garbure soup
+- Bourride — Bourride soup
+- Crème Dubarry — Potage Dubarry | Crème Dubarry soup
+- Billi-bi — Billy bi | Mussel soup | Billi-bi soup | Billy bi soup | Mussel
+- Acquacotta — Acquacotta soup
+- Zuppa pavese
+- Cacciucco — Cacciucco soup
+- Passatelli in brodo — Passatelli | Passatelli soup
+- Caldo gallego
+- Açorda — Açorda alentejana | Açorda soup | Açorda alentejana soup
+- Porrusalda — Porrusalda soup
+- Escudella — Escudella i carn d'olla | Escudella soup | Escudella i carn d'olla soup
+- Stone soup — Sopa da pedra | Sopa de pedra
+- Canja — Canja de galinha | Canja soup | Canja de galinha soup
+- Leberknödelsuppe — Liver dumpling soup | Leberknödel soup
+- Frittatensuppe — Flädlesuppe | Pancake strip soup
+- Grießnockerlsuppe — Semolina dumpling soup
+- Beer soup — Biersuppe
+- Erwtensoep — Snert | Dutch pea soup | Erwtensoep soup | Snert soup
+- Ärtsoppa — Swedish pea soup
+- Lohikeitto — Finnish salmon soup | Salmon soup | Salmon
+- Rose hip soup — Nyponsoppa | Rose hip
+- Bilberry soup — Blåbärssoppa | Blueberry soup | Bilberry | Blueberry
+- Kesäkeitto
+- Ukha — Ukha soup | Yushka
+- Rassolnik — Rassolnik soup
+- Botvinya — Botvinya soup
+- Rosół — Polish chicken soup | Rosół soup
+- Pickle soup — Ogórkowa | Zupa ogórkowa | Dill pickle soup | Pickled cucumber soup | Pickle | Ogórkowa soup | Zupa ogórkowa soup
+- Kulajda — Kulajda soup
+- Cold cherry soup — Sour cherry soup | Cherry soup | Hideg meggyleves | Meggyleves | Cold cherry | Hideg meggyleves soup | Meggyleves soup | Cherry
+- Pasulj — Pasulj soup
+- Kharcho — Kharcho soup
+- Chikhirtma — Chikhirtma soup
+- Piti — Piti soup
+- Khash — Khash soup
+- Bozbash — Bozbash soup
+- Mastava — Mastava soup
+- Yoghurt soup — Yogurt soup | Yayla çorbası | Dovga | Yoghurt | Dovga soup
+- Magiritsa — Magiritsa soup
+- Ezogelin — Ezogelin çorbası | Ezogelin soup
+- Schav — Sorrel soup | Green borscht | Schav soup | Green borscht soup | Sorrel
+- Ash reshteh — Aash reshteh | Ash-e reshteh | Persian noodle soup | Ash reshteh soup | Aash reshteh soup | Ash-e reshteh soup
+- Abgoosht — Abgusht | Dizi | Abgoosht soup | Abgusht soup | Dizi soup
+- Freekeh soup — Shorbat freekeh | Freekeh
+- Bissara — Bessara | Bissara soup | Bessara soup
+- Lablabi — Leblebi | Lablebi | Lablabi soup | Leblebi soup | Lablebi soup
+- Tonjiru — Butajiru | Pork miso soup | Tonjiru soup | Butajiru soup
+- Ozoni — Zoni | Ozouni | Ozoni soup | Zoni soup | Ozouni soup
+- Suimono — Suimono soup
+- Oden — Oden soup
+- Champon — Chanpon | Champon soup | Chanpon soup
+- Naengmyeon — Naengmyun | Cold noodle soup | Naengmyeon soup | Naengmyun soup
+- Kalguksu — Knife-cut noodle soup
+- Miyeokguk — Seaweed soup | Birthday soup | Seaweed
+- Tteokguk — Ddeokguk | Rice cake soup
+- Seolleongtang — Sullungtang | Ox bone soup
+- Galbitang — Short rib soup
+- Yukgaejang — Yukgaejang soup
+- Haejangguk — Hangover soup
+- Gamjatang — Pork bone soup
+- Sundubu jjigae — Sundubu | Soondubu | Soft tofu stew | Sundubu soup | Soondubu soup
+- Doenjang jjigae — Doenjang stew | Soybean paste stew
+- Budae jjigae — Army stew | Army base stew
+- Bún riêu — Bún riêu soup
+- Canh chua — Vietnamese sour soup | Canh chua soup
+- Hủ tiếu — Hu tiu | Hủ tiếu soup | Hu tiu soup
+- Bánh canh — Bánh canh soup
+- Boat noodles — Kuay teow reua | Boat noodle soup | Kuay teow reua soup
+- Tom saep — Tom saap | Tom zap | Tom saep soup | Tom saap soup | Tom zap soup
+- Gaeng jued — Kaeng chuet | Gaeng jeud | Gaeng jued soup | Kaeng chuet soup | Gaeng jeud soup
+- Sup kambing — Soup kambing | Mutton soup | Sup kambing soup
+- Rawon — Rawon soup
+- Bakso — Bakso soup
+- Coto Makassar — Coto Makassar soup
+- Sayur asem — Sayur asam | Sayur asem soup | Sayur asam soup
+- Tinola — Tinola soup
+- Bulalo — Bulalo soup
+- Batchoy — La Paz batchoy | Batchoy soup | La Paz batchoy soup
+- Sopas
+- Nilaga — Nilagang baka | Nilaga soup | Nilagang baka soup
+- Winter melon soup — Dong gua tang | Winter melon
+- Lotus root soup — Lotus root
+- Snow fungus soup — White fungus soup | Tremella soup | Snow fungus
+- Tong sui — Tangshui | Tong sui soup
+- Red bean soup — Hong dou tang | Sweet red bean soup | Adzuki bean soup | Red bean
+- Old fire soup — Lo foh tong | Laohuo tang | Lo foh tong soup
+- West Lake beef soup — West Lake beef
+- Crossing-the-bridge noodles — Guoqiao mixian | Guoqiao mixian soup
+- Thenthuk — Thenthuk soup
+- Paya — Paaya | Trotter soup | Kelle paça | Kaleh pacheh
+- Saimin — Saimin soup
+- Ogbono soup — Ogbono | Draw soup
+- Light soup — Ghanaian light soup | Nkrakra | Nkrakra soup
+- Palm nut soup — Banga soup | Banga | Abenkwan | Palm soup | Palm nut | Abenkwan soup
+- Edikang ikong — Edikaikong | Edikang ikong soup | Edikaikong soup
+- Afang soup — Afang
+- Efo riro — Efo riro soup
+- Nsala soup — White soup | Nsala
+- Bitterleaf soup — Ofe onugbu | Onugbu soup | Bitterleaf | Ofe onugbu soup
+- Pepper pot soup — Philadelphia pepper pot | Pepper pot | Philadelphia pepper pot soup
+- Fish tea
+- Red pea soup — Jamaican red pea soup | Red pea
+- Asopao
+- Sopa de lima — Lime soup
+- Caldo tlalpeño
+- Chupe de camarones — Chupe | Shrimp chupe | Chupe de camarones soup | Chupe soup | Shrimp chupe soup
+- Aguadito — Aguadito de pollo | Aguadito soup | Aguadito de pollo soup
+- Cazuela — Cazuela soup
+- Locro — Locro soup
+- Fanesca — Fanesca soup
+- Encebollado — Encebollado soup
+- Sopa de caracol — Conch soup
+- Tacacá — Tacacá soup
+- Senate bean soup — Senate bean
+- Tarhana — Tarhana çorbası | Tarhana soup
+- Düğün çorbası
+- Kubbeh soup — Kubbeh hamusta | Kubbeh | Kubbeh hamusta soup
+- Kakavia — Kakavia soup
+- Mannish water — Goat head soup | Mannish water soup
+- Cow foot soup — Cow heel soup | Cow foot
+- Goat water — Goat water soup
+- Chicken foot soup — Chicken foot
+- Caldo de siete mares — Siete mares | Seven seas soup | Siete mares soup
+- Caldillo de congrio — Conger eel soup | Caldillo de congrio soup
+- Changua — Changua soup
+- Chairo — Chairo soup
+- Sopa de quinua — Quinoa soup
+- Czernina — Czarna polewka | Duck blood soup | Czernina soup | Czarna polewka soup
+- Duck blood and vermicelli soup — Duck blood and vermicelli
+- Hochzeitssuppe — German wedding soup
+- Petite marmite — Petite marmite soup
+- Pastina — Pastina soup
+- Pasta in brodo
+- Brodetto — Brodetto di pesce | Brodetto soup | Brodetto di pesce soup
+- Gbegiri — Gbegiri soup
+- Oha soup — Ofe oha | Oha | Ofe oha soup
+- Ofe owerri — Ofe owerri soup
+- Kjötsúpa — Icelandic meat soup | Kjötsúpa soup
+- Kongnamul-guk — Bean sprout soup
+- Gomtang — Gomguk
+- Maeuntang — Spicy fish soup
+- Sujebi — Hand-torn noodle soup | Sujebi soup
+- Bugeoguk — Dried pollock soup
+- Snake soup — Snake
+- Fish ball soup — Fish ball noodle soup | Fish ball
+- Fish maw soup — Fish maw
+- Nyumen — Hot somen | Nyumen soup | Hot somen soup
+- Kenchinjiru — Kenchinjiru soup
+- Zōsui — Ojiya | Zōsui soup | Ojiya soup
+- Mami — Mami noodle soup | Mami soup
+- Lomi — Pancit lomi | Lomi soup | Pancit lomi soup
+- Khao tom — Thai rice soup | Khao tom soup
+- Kuay jab — Guay jub | Kuay jab soup | Guay jub soup
+- Ohn no khao swè — Burmese coconut noodle soup | Ohn no khao swè soup
+- Kuy teav
+- Samlor korko — Samlor korko soup
+- Pan mee — Ban mian | Pan mee soup | Ban mian soup
+- Prawn mee — Hokkien prawn mee | Hae mee | Prawn noodle soup | Prawn mee soup | Hokkien prawn mee soup | Hae mee soup
+- Taco soup — Taco
+- Hamburger soup — Hamburger
+- Cocido — Cocido madrileño | Sopa de cocido | Cocido soup | Cocido madrileño soup
+
+### Tier 6: rare jackpots (3)
+
+- Buddha Jumps Over the Wall — Fo tiao qiang | Buddha jumps over the wall soup | Fo tiao qiang soup
+- Soup joumou — Soupe joumou | Joumou | Joumou soup
+- London particular — London particular soup
+
+## Refused on purpose (20)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Soup | Soups | Soup of the day | Bowl of soup | Cream soup | Cold soup | Sopa | Zuppa | Suppe — "Which soup?"
+- Stew | Stews | Irish stew | Beef stew | Lamb stew | Lancashire hotpot | Casserole | Chilli | Chili | Chilli con carne | Chili con carne | Cassoulet | Ratatouille | Fabada | Brunswick stew | Burgoo | Mafé | Maafe | Feijoada | Boeuf bourguignon | Beef bourguignon | Coq au vin | Tagine | Scouse | Lobscouse | Étouffée | Stifado | Bigos | Eintopf | Ragout | Navarin | Dublin coddle | Coddle | Birria | Oil down — "A stew, not a soup."
+- Curry | Curries | Thai green curry | Green curry | Red curry | Korma | Tikka masala | Chicken tikka masala | Massaman curry | Vindaloo | Madras | Rogan josh | Jalfrezi | Balti | Dhansak | Katsu curry | Butter chicken — "A curry, not a soup."
+- Stock | Stock cube | Bouillon cube | Dashi | Fumet | Oxo | Bovril | Court bouillon | Fish stock | Chicken stock | Beef stock | Vegetable stock — "A base for soup, not a soup itself."
+- Gravy | Sauce | Bisto | Jus | Au jus | Ragù | Bolognese | Béchamel | Hollandaise | Salsa | Pesto | Ketchup | Custard — "A sauce, not a soup."
+- Porridge | Gruel | Oatmeal | Oats | Grits | Polenta | Semolina — "A porridge, not a soup."
+- Heinz | Campbell's | Baxters | Knorr | Cup a Soup | Batchelors | New Covent Garden | Pot Noodle | Cup Noodles | Maruchan | Nissin | Top Ramen | Maggi | Progresso | Crosse & Blackwell — "A brand, not a soup."
+- Xiaolongbao | Soup dumplings | Soup dumpling | Tangbao — "A dumpling with soup inside, not a soup."
+- Sopa paraguaya — "Despite its name, a cornbread, not a soup."
+- Fufu | Foofoo | Foufou | Ugali | Banku | Eba | Pounded yam | Nshima | Sadza — "A dough to eat with soup, not a soup itself."
+- Bunny chow — "Curry served in a hollowed-out loaf, not a soup."
+- Bread bowl | Tureen | Soup tureen | Ladle | Soup spoon | Bowl | Soup bowl | Soup kitchen | Thermos — "Something to serve soup in, not a soup."
+- Primordial soup | Primeval soup | Prebiotic soup — "Where life may have begun, but not on any menu."
+- Chicken Soup for the Soul — "A book series, not a soup."
+- Pea-souper — "A thick fog, not a soup."
+- Jambalaya | Paella | Risotto | Biryani | Pilaf | Pilau | Kedgeree — "A rice dish, not a soup."
+- Fondue | Cheese fondue | Bagna cauda — "Melted cheese for dipping, not a soup."
+- Sukiyaki — "Meat simmered in a shallow pan of sweet sauce, not a soup."
+- Zuppa inglese — "Despite its name, a custard trifle, not a soup."
+- Sopa seca — "A 'dry soup': pasta or rice with the broth cooked away."

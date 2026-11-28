@@ -1,0 +1,413 @@
+# Name a grape variety used to make wine.
+
+Question id: `wine-grapes` · category: food · source: `data/food.json`
+
+Rules: Any grape variety used to make wine, under any of its names. Wine regions, styles, blends and brands don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (368 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (9)
+
+- Chardonnay — Chard | Chardy | Chardonnay grape | Chard grape | Chardy grape | Morillon
+- Merlot — Merlot grape
+- Cabernet Sauvignon — Cab Sauv | Cab Sav | Cabernet Sauv | Cab | Cab Sauvignon | Cabernet Sauvignon grape | Cab Sauv grape | Cab Sav grape | Cabernet Sauv grape | Cab Sauvignon grape | Cabernet | Cabernet grape
+- Sauvignon Blanc — Sauv Blanc | Sav Blanc | Savvy B | Fumé Blanc | Blanc Fumé | Sauvignon Blanc grape | Sauv Blanc grape | Sav Blanc grape | Savvy B grape | Fumé Blanc grape | Blanc Fumé grape | Sauvignon | Sauv | Savvy
+- Pinot Noir — Pinot Nero | Spätburgunder | Blauburgunder | Pinot Noir grape | Pinot Nero grape | Spätburgunder grape | Blauburgunder grape | Pinot | Pinot grape
+- Pinot Gris — Pinot Grigio | Grauburgunder | Ruländer | Grigio | Szürkebarát | Pinot Gris grape | Pinot Grigio grape | Grauburgunder grape | Ruländer grape | Grigio grape | Szürkebarát grape | Pinot G | PG
+- Syrah — Shiraz | Sirah | Syrah grape | Shiraz grape | Sirah grape
+- Malbec — Côt | Malbec grape
+- Riesling — Rhine Riesling | Johannisberg Riesling | White Riesling | Weisser Riesling | Riesling grape | Rhine Riesling grape | Johannisberg Riesling grape | White Riesling grape | Weisser Riesling grape
+
+### Tier 2: common (27)
+
+- Zinfandel — Zin | Primitivo | Tribidrag | Crljenak Kaštelanski | Red Zinfandel | Zinfandel grape | Primitivo grape | Tribidrag grape | Crljenak Kaštelanski grape | Red Zinfandel grape | Kratošija | Crljenak
+- Chenin Blanc — Chenin | Steen | Pineau de la Loire | Chenin Blanc grape | Chenin grape | Steen grape | Pineau de la Loire grape
+- Grenache — Garnacha | Garnatxa | Cannonau | Grenache Noir | Garnacha Tinta | Grenache grape | Garnacha grape | Garnatxa grape | Cannonau grape | Grenache Noir grape | Garnacha Tinta grape | Lledoner Pelut
+- Tempranillo — Tinta Roriz | Aragonez | Tinto Fino | Cencibel | Tinta del País | Tinto del País | Ull de Llebre | Tinto de Toro | Tempranillo grape | Tinta Roriz grape | Aragonez grape | Tinto Fino grape | Cencibel grape | Tinta del País grape | Tinto del País grape | Ull de Llebre grape | Tinto de Toro grape
+- Sangiovese — Brunello | Morellino | Prugnolo Gentile | Nielluccio | Sangiovese Grosso | Sangioveto | Sangiovese grape | Brunello grape | Morellino grape | Prugnolo Gentile grape | Nielluccio grape | Sangiovese Grosso grape | Sangioveto grape
+- Nebbiolo — Spanna | Chiavennasca | Nebbiolo grape | Spanna grape | Chiavennasca grape
+- Cabernet Franc — Cab Franc | Bouchet | Breton | Cabernet Franc grape | Cab Franc grape | Bouchet grape | Breton grape
+- Gewürztraminer — Gewürz | Traminer | Traminer Aromatico | Tramini | Gewürztraminer grape | Gewürz grape | Traminer grape | Traminer Aromatico grape | Tramini grape
+- Viognier — Viognier grape
+- Pinotage — Pinotage grape
+- Gamay — Gamay Noir | Gamay grape | Gamay Noir grape
+- Muscat — Moscato | Moscatel | Muskat | Muskateller | Gelber Muskateller | Muscat Blanc | Muscat Blanc à Petits Grains | Muscat of Alexandria | Muscat d'Alexandrie | Zibibbo | Hanepoot | Moscato Bianco | Muscat de Frontignan | Muscadel | Sárgamuskotály | Moscato d'Asti | Orange Muscat | Black Muscat | Moscatel de Setúbal | Muscat grape | Moscato grape | Moscatel grape | Muskat grape | Muskateller grape | Gelber Muskateller grape | Muscat Blanc grape | Muscat Blanc à Petits Grains grape | Muscat of Alexandria grape | Muscat d'Alexandrie grape | Zibibbo grape | Hanepoot grape | Moscato Bianco grape | Muscat de Frontignan grape | Muscadel grape | Sárgamuskotály grape | Moscato d'Asti grape | Orange Muscat grape | Black Muscat grape | Moscatel de Setúbal grape | Moscatel de Alejandría | Moscato Giallo | Goldmuskateller | Rosenmuskateller | Moscato Rosa | Brown Muscat | Muscat Hamburg | Muscat of Hamburg
+- Sémillon — Sémillon grape
+- Grüner Veltliner — Grüner | Veltliner | GV | Grüner Veltliner grape | Grüner grape | Veltliner grape | Groovy
+- Albariño — Alvarinho | Albariño grape | Alvarinho grape
+- Carménère — Grande Vidure | Cabernet Gernischt | Carménère grape | Grande Vidure grape | Cabernet Gernischt grape
+- Pinot Blanc — Pinot Bianco | Weissburgunder | Pinot Blanc grape | Pinot Bianco grape | Weissburgunder grape | Klevner | Clevner
+- Trebbiano — Ugni Blanc | Trebbiano Toscano | Trebbiano grape | Ugni Blanc grape | Trebbiano Toscano grape
+- Petit Verdot — Petit Verdot grape
+- Mourvèdre — Monastrell | Mataro | Mourvèdre grape | Monastrell grape | Mataro grape
+- Barbera — Barbera grape
+- Montepulciano — Montepulciano d'Abruzzo | Montepulciano grape | Montepulciano d'Abruzzo grape
+- Torrontés — Torrontés grape
+- Verdejo — Verdejo grape
+- Petite Sirah — Durif | Petite Syrah | Petit Sirah | Petite Sirah grape | Durif grape | Petite Syrah grape | Petit Sirah grape
+- Pinot Meunier — Meunier | Schwarzriesling | Müllerrebe | Pinot Meunier grape | Meunier grape | Schwarzriesling grape | Müllerrebe grape
+- Glera — Prosecco grape | Glera grape | Prosecco
+
+### Tier 3: known to fans (53)
+
+- Nero d'Avola — Calabrese | Nero d'Avola grape | Calabrese grape
+- Aglianico — Aglianico grape
+- Dolcetto — Dolcetto grape
+- Corvina — Corvina grape
+- Carignan — Cariñena | Mazuelo | Carignano | Samsó | Carignane | Carignan grape | Cariñena grape | Mazuelo grape | Carignano grape | Samsó grape | Carignane grape
+- Cinsault — Cinsaut | Cinsault grape | Cinsaut grape | Hermitage
+- Touriga Nacional — Touriga | Touriga Nacional grape | Touriga grape
+- Tannat — Tannat grape
+- Marsanne — Marsanne grape
+- Roussanne — Roussanne grape
+- Vermentino — Rolle | Pigato | Favorita | Vermentinu | Vermentino grape | Rolle grape | Pigato grape | Favorita grape | Vermentinu grape
+- Garganega — Garganega grape
+- Fiano — Fiano grape
+- Greco — Greco di Tufo | Greco Bianco | Greco grape | Greco di Tufo grape | Greco Bianco grape
+- Falanghina — Falanghina grape
+- Cortese — Cortese grape
+- Arneis — Arneis grape
+- Müller-Thurgau — Rivaner | Mueller-Thurgau | Müller-Thurgau grape | Rivaner grape | Mueller-Thurgau grape
+- Silvaner — Sylvaner | Grüner Silvaner | Silvaner grape | Sylvaner grape | Grüner Silvaner grape
+- Melon de Bourgogne — Melon | Muscadet | Melon Blanc | Melon de Bourgogne grape | Melon grape | Muscadet grape | Melon Blanc grape
+- Furmint — Šipon | Moslavac | Furmint grape | Šipon grape | Moslavac grape
+- Blaufränkisch — Lemberger | Limberger | Kékfrankos | Frankovka | Modra frankinja | Blaufränkisch grape | Lemberger grape | Limberger grape | Kékfrankos grape | Frankovka grape | Modra frankinja grape
+- Zweigelt — Zweigelt grape | Rotburger | Blauer Zweigelt
+- Assyrtiko — Assyrtiko grape
+- Xinomavro — Xinomavro grape
+- Agiorgitiko — Saint George | St George | Agiorgitiko grape | Saint George grape | St George grape
+- Macabeo — Viura | Macabeu | Macabeo grape | Viura grape | Macabeu grape
+- Xarel·lo — Pansa Blanca | Xarel·lo grape | Pansa Blanca grape
+- Parellada — Parellada grape
+- Palomino — Listán | Palomino Fino | Listán Blanco | Palomino grape | Listán grape | Palomino Fino grape | Listán Blanco grape
+- Pedro Ximénez — PX | Pedro Jiménez | Pedro Ximénez grape | Pedro Jiménez grape
+- Godello — Gouveio | Godello grape | Gouveio grape
+- Mencía — Jaen | Mencía grape | Jaen grape
+- Bobal — Bobal grape
+- Graciano — Graciano grape | Tintilla de Rota
+- Colombard — Colombard grape
+- Malvasia — Malvoisie | Malmsey | Malvasia Bianca | Malvasia Fina | Malvasia grape | Malvoisie grape | Malmsey grape | Malvasia Bianca grape | Malvasia Fina grape
+- Lambrusco — Lambrusco Grasparossa | Lambrusco di Sorbara | Lambrusco Salamino | Lambrusco grape | Lambrusco Grasparossa grape | Lambrusco di Sorbara grape | Lambrusco Salamino grape
+- Concord — Concord grape
+- Saperavi — Saperavi grape
+- Negroamaro — Negroamaro grape
+- Verdicchio — Verdicchio grape | Turbiana | Trebbiano di Lugana | Trebbiano di Soave
+- Aligoté — Aligoté grape
+- Chasselas — Fendant | Gutedel | Chasselas grape | Fendant grape | Gutedel grape
+- Picpoul — Piquepoul | Picpoul de Pinet | Picpoul Blanc | Picpoul grape | Piquepoul grape | Picpoul de Pinet grape | Picpoul Blanc grape
+- Bacchus — Bacchus grape
+- Airén — Airén grape
+- Verdelho — Verdelho grape
+- Bonarda — Douce Noir | Charbono | Bonarda grape | Douce Noir grape | Charbono grape
+- Seyval Blanc — Seyval | Seyval Blanc grape | Seyval grape
+- Vidal — Vidal Blanc | Vidal grape | Vidal Blanc grape
+- Grenache Blanc — Garnacha Blanca | Garnatxa Blanca | Grenache Blanc grape | Garnacha Blanca grape | Garnatxa Blanca grape
+- Alicante Bouschet — Garnacha Tintorera | Alicante | Alicante Bouschet grape | Garnacha Tintorera grape | Alicante grape
+
+### Tier 4: obscure (85)
+
+- St. Laurent — Sankt Laurent | Svatovavřinecké | St. Laurent grape | Sankt Laurent grape | Svatovavřinecké grape
+- Kerner — Kerner grape
+- Scheurebe — Scheurebe grape | Sämling 88
+- Dornfelder — Dornfelder grape
+- Welschriesling — Olaszrizling | Graševina | Laški rizling | Riesling Italico | Welschriesling grape | Olaszrizling grape | Graševina grape | Laški rizling grape | Riesling Italico grape
+- Hárslevelű — Hárslevelű grape
+- Kadarka — Kadarka grape | Gamza
+- Moschofilero — Moschofilero grape
+- Roditis — Roditis grape
+- Malagousia — Malagousia grape
+- Mavrodaphne — Mavrodaphne grape
+- Rkatsiteli — Rkatsiteli grape
+- Plavac Mali — Plavac | Plavac Mali grape | Plavac grape
+- Vranac — Vranac grape
+- Mavrud — Mavrud grape
+- Fetească Neagră — Fetească Neagră grape
+- Lagrein — Lagrein grape
+- Teroldego — Teroldego grape
+- Schiava — Trollinger | Vernatsch | Schiava Grossa | Black Hamburg | Schiava grape | Trollinger grape | Vernatsch grape | Schiava Grossa grape | Black Hamburg grape
+- Refosco — Refošk | Refosco dal Peduncolo Rosso | Refosco grape | Refošk grape | Refosco dal Peduncolo Rosso grape
+- Sagrantino — Sagrantino grape
+- Nerello Mascalese — Nerello Mascalese grape
+- Frappato — Frappato grape
+- Canaiolo — Canaiolo grape
+- Grechetto — Grechetto grape | Pignoletto
+- Friulano — Tocai Friulano | Tocai | Sauvignonasse | Sauvignon Vert | Friulano grape | Tocai Friulano grape | Tocai grape | Sauvignonasse grape | Sauvignon Vert grape
+- Ribolla Gialla — Ribolla | Rebula | Ribolla Gialla grape | Ribolla grape | Rebula grape
+- Pecorino — Pecorino grape
+- Catarratto — Catarratto grape
+- Grillo — Grillo grape
+- Inzolia — Insolia | Ansonica | Inzolia grape | Insolia grape | Ansonica grape
+- Vernaccia — Vernaccia di San Gimignano | Vernaccia grape | Vernaccia di San Gimignano grape
+- Touriga Franca — Touriga Franca grape
+- Tinta Barroca — Tinta Barroca grape
+- Baga — Baga grape
+- Castelão — Periquita | Castelão grape | Periquita grape
+- Trincadeira — Tinta Amarela | Trincadeira grape | Tinta Amarela grape
+- Arinto — Arinto grape
+- Loureiro — Loureira | Loureiro grape | Loureira grape
+- Encruzado — Encruzado grape
+- Fernão Pires — Fernão Pires grape | Maria Gomes
+- Antão Vaz — Antão Vaz grape
+- Bual — Bual grape | Boal
+- Sercial — Esgana Cão | Sercial grape | Esgana Cão grape
+- Muscadelle — Topaque | Muscadelle grape | Topaque grape | Tokay
+- Muscadine — Muscadine grape
+- Norton — Cynthiana | Norton grape | Cynthiana grape
+- Chambourcin — Chambourcin grape
+- Catawba — Catawba grape
+- Niagara — Niagara grape
+- Baco Noir — Baco | Baco Noir grape | Baco grape
+- Maréchal Foch — Foch | Maréchal Foch grape | Foch grape
+- Marquette — Marquette grape
+- Frontenac — Frontenac grape
+- Traminette — Traminette grape
+- Koshu — Koshu grape
+- Clairette — Clairette grape
+- Bourboulenc — Bourboulenc grape
+- Gros Manseng — Gros Manseng grape
+- Petit Manseng — Petit Manseng grape
+- Mauzac — Mauzac grape
+- Folle Blanche — Folle Blanche grape | Gros Plant
+- Savagnin — Savagnin Blanc | Heida | Savagnin grape | Savagnin Blanc grape | Heida grape
+- Poulsard — Ploussard | Poulsard grape | Ploussard grape
+- Trousseau — Bastardo | Trousseau grape | Bastardo grape | Merenzao
+- Mondeuse — Mondeuse Noire | Mondeuse grape | Mondeuse Noire grape
+- Petite Arvine — Petite Arvine grape
+- Ruby Cabernet — Ruby Cabernet grape
+- Marselan — Marselan grape
+- Muscat Ottonel — Ottonel | Muscat Ottonel grape | Ottonel grape
+- Portugieser — Blauer Portugieser | Portugieser grape | Blauer Portugieser grape
+- Ortega — Ortega grape
+- Solaris — Solaris grape
+- Regent — Regent grape
+- Madeleine Angevine — Madeleine Angevine grape
+- Reichensteiner — Reichensteiner grape
+- Frühburgunder — Pinot Précoce | Frühburgunder grape | Pinot Précoce grape
+- Sultana — Thompson Seedless | Sultanina | Sultana grape | Thompson Seedless grape | Sultanina grape
+- País — Mission | Listán Prieto | Criolla Chica | País grape | Mission grape | Listán Prieto grape | Criolla Chica grape
+- Tinto Cão — Tinto Cão grape
+- Sousão — Sousão grape | Sousón
+- Tinta Negra — Tinta Negra Mole | Tinta Negra grape | Tinta Negra Mole grape | Negramoll
+- Isabella — Isabella grape
+- Delaware — Delaware grape
+- Brachetto — Brachetto grape
+
+### Tier 5: expert (192)
+
+- Rondinella — Rondinella grape
+- Molinara — Molinara grape
+- Corvinone — Corvinone grape
+- Marzemino — Marzemino grape
+- Schioppettino — Schioppettino grape
+- Pignolo — Pignolo grape
+- Cesanese — Cesanese grape
+- Gaglioppo — Gaglioppo grape
+- Nerello Cappuccio — Nerello Cappuccio grape
+- Perricone — Perricone grape
+- Monica — Monica grape
+- Bovale — Bovale grape
+- Ciliegiolo — Ciliegiolo grape
+- Colorino — Colorino grape
+- Freisa — Freisa grape
+- Grignolino — Grignolino grape
+- Ruchè — Ruchè grape
+- Pelaverga — Pelaverga grape
+- Croatina — Croatina grape
+- Vespolina — Vespolina grape
+- Nero di Troia — Uva di Troia | Nero di Troia grape | Uva di Troia grape
+- Susumaniello — Susumaniello grape
+- Piedirosso — Piedirosso grape
+- Lacrima — Lacrima grape
+- Raboso — Raboso grape
+- Picolit — Picolit grape
+- Verduzzo — Verduzzo grape
+- Passerina — Passerina grape
+- Coda di Volpe — Coda di Volpe grape
+- Carricante — Carricante grape
+- Timorasso — Timorasso grape
+- Erbaluce — Erbaluce grape
+- Albana — Albana grape
+- Bombino Bianco — Bombino Bianco grape
+- Nuragus — Nuragus grape
+- Torbato — Torbato grape
+- Nosiola — Nosiola grape
+- Vitovska — Vitovska grape
+- Hondarrabi Zuri — Hondarribi Zuri | Hondarrabi Zuri grape | Hondarribi Zuri grape
+- Treixadura — Trajadura | Treixadura grape | Trajadura grape
+- Prieto Picudo — Prieto Picudo grape
+- Listán Negro — Listán Negro grape
+- Trepat — Trepat grape
+- Callet — Callet grape
+- Manto Negro — Manto Negro grape
+- Albillo — Albillo grape
+- Alfrocheiro — Alfrocheiro grape
+- Vinhão — Vinhão grape
+- Bical — Bical grape
+- Avesso — Avesso grape
+- Viosinho — Viosinho grape
+- Terrantez — Terrantez grape
+- Roter Veltliner — Roter Veltliner grape
+- Neuburger — Neuburger grape
+- Zierfandler — Zierfandler grape | Spätrot
+- Rotgipfler — Rotgipfler grape
+- Elbling — Elbling grape
+- Huxelrebe — Huxelrebe grape
+- Siegerrebe — Siegerrebe grape
+- Rondo — Rondo grape
+- Phoenix — Phoenix grape
+- Juhfark — Juhfark grape
+- Irsai Olivér — Irsai Olivér grape
+- Ezerjó — Ezerjó grape
+- Kéknyelű — Kéknyelű grape
+- Cserszegi Fűszeres — Cserszegi Fűszeres grape
+- Leányka — Leányka grape
+- Királyleányka — Királyleányka grape
+- Fetească Albă — Fetească Albă grape
+- Fetească Regală — Fetească Regală grape
+- Grasă de Cotnari — Grasă de Cotnari grape
+- Tămâioasă Românească — Tămâioasă Românească grape
+- Băbească Neagră — Băbească Neagră grape
+- Melnik — Shiroka Melnishka | Melnik grape | Shiroka Melnishka grape
+- Rubin — Rubin grape
+- Dimyat — Dimyat grape
+- Misket — Misket grape
+- Pošip — Pošip grape
+- Malvazija Istarska — Malvazija Istarska grape
+- Teran — Terrano | Teran grape | Terrano grape
+- Babić — Babić grape
+- Žilavka — Žilavka grape
+- Blatina — Blatina grape
+- Prokupac — Prokupac grape
+- Tamjanika — Tamjanika grape
+- Vidiano — Vidiano grape
+- Robola — Robola grape
+- Savatiano — Savatiano grape
+- Liatiko — Liatiko grape
+- Limnio — Limnio grape
+- Mandilaria — Mandilaria grape
+- Kotsifali — Kotsifali grape
+- Athiri — Athiri grape
+- Xynisteri — Xynisteri grape
+- Maratheftiko — Maratheftiko grape
+- Öküzgözü — Öküzgözü grape
+- Boğazkere — Boğazkere grape
+- Kalecik Karası — Kalecik Karası grape
+- Narince — Narince grape
+- Emir — Emir grape
+- Obaideh — Obeidi | Obaideh grape | Obeidi grape
+- Merwah — Merwah grape
+- Dabouki — Dabouki grape
+- Mtsvane — Mtsvane grape
+- Kisi — Kisi grape
+- Tsolikouri — Tsolikouri grape
+- Aleksandrouli — Aleksandrouli grape
+- Areni — Areni grape
+- Muscat Bailey A — Muscat Bailey A grape
+- Grolleau — Groslot | Grolleau grape | Groslot grape
+- Pineau d'Aunis — Chenin Noir | Pineau d'Aunis grape | Chenin Noir grape
+- Romorantin — Romorantin grape
+- Len de l'El — Len de l'El grape
+- Négrette — Négrette grape
+- Fer Servadou — Fer | Mansois | Braucol | Fer Servadou grape | Mansois grape | Braucol grape
+- Duras — Duras grape
+- Counoise — Counoise grape
+- Tibouren — Tibouren grape
+- Sciaccerellu — Sciaccarello | Sciaccerellu grape | Sciaccarello grape
+- Jacquère — Jacquère grape
+- Altesse — Roussette | Altesse grape | Roussette grape
+- Cornalin — Cornalin grape
+- Humagne Rouge — Humagne Rouge grape
+- Completer — Completer grape
+- Amigne — Amigne grape
+- Auxerrois — Auxerrois Blanc | Pinot Auxerrois | Auxerrois grape | Auxerrois Blanc grape | Pinot Auxerrois grape
+- Sauvignon Gris — Sauvignon Gris grape
+- Arbane — Arbane grape
+- Petit Meslier — Petit Meslier grape
+- Scuppernong — Scuppernong grape
+- Léon Millot — Léon Millot grape
+- La Crescent — La Crescent grape
+- Vignoles — Vignoles grape
+- Cayuga White — Cayuga | Cayuga White grape | Cayuga grape
+- Noiret — Noiret grape
+- Brianna — Brianna grape
+- St. Croix — St. Croix grape
+- Petite Pearl — Petite Pearl grape
+- Itasca — Itasca grape
+- Muscardin — Muscardin grape
+- Valdiguié — Napa Gamay | Valdiguié grape | Napa Gamay grape
+- Vaccarèse — Brun Argenté | Vaccarèse grape | Brun Argenté grape
+- Picardan — Picardan grape
+- Terret Noir — Terret | Terret Noir grape | Terret grape
+- Schönburger — Schönburger grape
+- L'Acadie Blanc — L'Acadie Blanc grape
+- Tarrango — Tarrango grape
+- Uva Rara — Uva Rara grape
+- Ancellotta — Ancellotta grape
+- Mammolo — Mammolo grape
+- Pamid — Pamid grape
+- Plavina — Plavina grape
+- Grk
+- Debit — Debit grape
+- Zelen — Zelen grape
+- Chinuri — Chinuri grape
+- Ojaleshi — Ojaleshi grape
+- Usakhelauri — Usakhelauri grape
+- Voskehat — Voskehat grape
+- Argaman — Argaman grape
+- Mavro — Mavro grape
+- Vilana — Vilana grape
+- Rabigato — Rabigato grape
+- Ramisco — Ramisco grape
+- Juan García — Juan García grape
+- Rufete — Rufete grape
+- Caíño — Caiño Tinto | Caíño Blanco | Caíño grape | Caiño Tinto grape | Caíño Blanco grape
+- Brancellao — Brancellao grape
+- Hondarrabi Beltza — Hondarrabi Beltza grape
+- Doña Blanca — Doña Blanca grape
+- Moristel — Moristel grape
+- Sumoll — Sumoll grape
+- Picapoll — Picapoll grape
+- Courbu — Courbu grape
+- Prunelard — Prunelard grape
+- Abouriou — Abouriou grape
+- Biancu Gentile — Biancu Gentile grape
+- Caladoc — Caladoc grape
+- Egiodola — Egiodola grape
+- Arinarnoa — Arinarnoa grape
+- Chenanson — Chenanson grape
+- Carignan Blanc — Carignan Blanc grape
+- Morio-Muskat — Morio-Muskat grape
+- Pinotin — Pinotin grape
+- Acolon — Acolon grape
+- Cabernet Cortis — Cabernet Cortis grape
+- Dunkelfelder — Dunkelfelder grape
+- Ehrenfelser — Ehrenfelser grape
+- Faberrebe — Faberrebe grape
+- Optima — Optima grape
+- Würzer — Würzer grape
+- Blauer Wildbacher — Wildbacher | Blauer Wildbacher grape | Wildbacher grape
+
+### Tier 6: rare jackpots (2)
+
+- Žametovka — Žametna črnina | Modra kavčina | Žametovka grape | Žametna črnina grape | Modra kavčina grape
+- Gouais Blanc — Heunisch | Weisser Heunisch | Gouais | Gouais Blanc grape | Heunisch grape | Weisser Heunisch grape | Gouais grape
+
+## Refused on purpose (11)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Grape | Grapes | Red grape | White grape | Green grape | Black grape | Vine | Grapevine | Vitis vinifera | Wine grape — "Which grape?"
+- Tokaji | Tokaj — "A Hungarian wine and its region, not a grape."
+- White Zinfandel | White Zin | Blush Zinfandel — "A rosé style, not a grape. Drop the first word."
+- Champagne | Cava | Crémant | Franciacorta | Sekt | Asti | Asti Spumante | Spumante | Cap Classique — "A region and a wine, not a grape."
+- Rioja | Ribera del Duero | Priorat | Rueda | Rías Baixas | Jerez | Toro | Jumilla | Penedès | Navarra | Bordeaux | Burgundy | Bourgogne | Beaujolais | Chablis | Sancerre | Pouilly-Fumé | Pouilly-Fuissé | Vouvray | Rhône | Côtes du Rhône | Châteauneuf-du-Pape | Côte-Rôtie | Condrieu | Gigondas | Médoc | Saint-Émilion | Pomerol | Margaux | Pauillac | Graves | Cahors | Bandol | Tavel | Provence | Alsace | Languedoc | Loire | Jura | Savoie | Mosel | Rheingau | Pfalz | Wachau | Chianti | Chianti Classico | Barolo | Barbaresco | Brunello di Montalcino | Montalcino | Valpolicella | Amarone | Soave | Frascati | Orvieto | Gavi | Etna | Douro | Dão | Alentejo | Vinho Verde | Napa | Napa Valley | Sonoma | Barossa | Barossa Valley | Marlborough | Hawke's Bay | Coonawarra | Hunter Valley | Margaret River | Mendoza | Stellenbosch | Vino Nobile di Montepulciano — "A region, not a grape."
+- Rosé | Rosé wine | Blush | Rosado | Red wine | White wine | Red | White | Orange wine | Sparkling wine | Dessert wine | Fortified wine | Ice wine | Eiswein | Table wine | House wine | Claret | Hock | Sack | Retsina | Vin Santo | Plonk | Natural wine | Organic wine | Beaujolais Nouveau | Late harvest | Spätlese | Auslese | Kabinett | Trockenbeerenauslese | Grand cru — "A style, not a grape."
+- Port | Sherry | Madeira | Marsala | Manzanilla | Amontillado | Oloroso | Vermouth | Sangria | Mulled wine | Glühwein | Commandaria — "A style of wine, not a grape."
+- GSM | Meritage | Bordeaux blend | Super Tuscan | Red blend | Field blend | Gemischter Satz | Cuvée | Blend | Bull's Blood | Egri Bikavér — "A blend of grapes, not one."
+- Red Globe | Crimson Seedless | Flame Seedless | Cotton Candy | Autumn Royal | Moon Drops — "A table grape, not one for wine."
+- Elderberry | Elderflower | Damson | Blackberry | Plum | Rhubarb | Dandelion | Parsnip | Gooseberry | Cherry | Apple | Pear | Honey | Rice | Plum wine | Fruit wine | Mead — "Country wines use it, but it isn't a grape."
+- Yellow Tail | Blossom Hill | Echo Falls | Barefoot | Jacob's Creek | Hardys | Casillero del Diablo | Oyster Bay | Cloudy Bay | Kumala | Lindeman's | Blue Nun | Mateus | Black Tower | Lambrini | Buckfast | Two Buck Chuck | Penfolds | Grange | Opus One | Sassicaia | Château Lafite | Pétrus | Dom Pérignon | Moët | Moët & Chandon | Veuve Clicquot | Krug | Bollinger | Cristal | Manischewitz | MD 20/20 | Mad Dog | Thunderbird | Wolf Blass | Campo Viejo | 19 Crimes | Apothic | Kendall-Jackson | Robert Mondavi | Beringer — "A brand, not a grape."

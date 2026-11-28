@@ -1,0 +1,489 @@
+# Name a war.
+
+Question id: `wars` · category: history · source: `data/history.json`
+
+Rules: Any named war, ancient or modern, legendary ones like the Trojan War included: civil wars, wars of independence and long rebellions all count. Battles, sieges, risings put down within weeks and wars of gods or fiction don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (416 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- World War I — First World War | 1st World War | WW1 | WWI | World War One | Great War | War to End All Wars | 1914-1918 war | WWl | First World | 1st World | 1914-1918
+- World War II — Second World War | 2nd World War | WW2 | WWII | World War Two | 1939-1945 war | Second Wold War | Wold War II | Wold War 2 | Wold War Two | World War | World Wars | WW11 | World War 11 | WWll | Second World | 2nd World | 1939-1945
+- Vietnam War — Vietnam | Second Indochina War | War in Vietnam | Vietnam conflict | Resistance War Against America | American War | 'Nam | American War in Vietnam | Vietnam–American War | Vietnam War 1955 | Indochina War | Indochina
+- Korean War — Korea | Korean conflict | Forgotten War | Fatherland Liberation War | War to Resist US Aggression and Aid Korea | War to Resist America and Aid Korea | Resist America, Aid Korea | Korean War 1950
+- American Civil War — US Civil War | War Between the States | War of the Rebellion | War of Northern Aggression | War of Secession | Civil War (US) | Civil War | Civil Wars | US Civil | Northern Aggression
+- Cold War — Cold
+- Hundred Years' War — Hundred Year War | Hundred Years
+- Napoleonic Wars — Napoleon's wars | War of the Third Coalition | War of the Fourth Coalition | War of the Fifth Coalition | War of the Sixth Coalition | War of the Seventh Coalition | Coalition Wars | Hundred Days | Napoleonic | Napoleon's | Third Coalition | Fourth Coalition | Fifth Coalition | Sixth Coalition | Seventh Coalition
+- English Civil War — English Civil Wars | Great Civil War | First English Civil War | Second English Civil War | Third English Civil War | Great Civil
+- Gulf War — Gulf | First Gulf War | Persian Gulf War | Operation Desert Storm | Desert Storm | 1991 Gulf War | Kuwait War | Liberation of Kuwait | Gulf War 1991 | Gulf War of 1991 | First Iraq War | Iraq War 1991 | Desert Shield | Operation Desert Shield | Kuwait | Gulf War 1 | Gulf War I | Gulf War One | First Gulf | Persian Gulf | 1991 Gulf | First Iraq
+- Iraq War — Second Gulf War | Iraq | Irak | Irak War | Operation Iraqi Freedom | Invasion of Iraq | 2003 Iraq War | War in Iraq | Gulf War II | Operation Telic | Iraq War 2003 | War in Iraq 2003 | Gulf War 2003 | Second Iraq War | 2003 invasion of Iraq | Second Gulf | 2003 Iraq | Second Iraq
+- War in Afghanistan — Afghanistan War | Afghan War | Afghanistan | Operation Enduring Freedom | Operation Herrick | War in Afghanistan 2001 | 2001 Afghanistan War | Afghanistan War 2001 | Afghan War 2001 | Afghanistan war of 2001 | Afghan
+- Russo-Ukrainian War — Russia–Ukraine war | Russian invasion of Ukraine | War in Ukraine | Ukraine war | Ukraine | Ukrainian war | War in Donbas | Donbas war | Russia–Ukraine conflict | Russo-Ukrainian conflict | Special military operation | Invasion of Ukraine | Ukraine Russia war | Russia Ukraine | Ukrainian | Donbas | Russo-Ukrainian
+- American Revolutionary War — American War of Independence | American Revolution | Revolutionary War | US War of Independence | War of American Independence | War of Independence | Independence War | Wars of Independence | American Independence
+- Wars of the Roses — War of the Roses | Cousins' War | War of Roses | Wars of Roses | Roses | Cousins'
+
+### Tier 2: common (36)
+
+- Falklands War — Falklands | Falklands conflict | Falkland Islands War | Malvinas War | Guerra de las Malvinas | South Atlantic War | Malvinas | Guerra de Malvinas | Falklands War 1982
+- Crimean War — Crimea
+- Boer Wars — Boer War | First Boer War | 1st Boer War | Second Boer War | 2nd Boer War | Anglo-Boer War | South African War | Transvaal War | Boer | First Boer | 1st Boer | Second Boer | 2nd Boer | Anglo-Boer | Transvaal
+- War of 1812 — 1812 War | Anglo-American War of 1812 | 1812
+- Thirty Years' War — Thirty Year War | Thirty Years
+- Seven Years' War — Seven Years
+- Peloponnesian War
+- Punic Wars — Punic War | First Punic War | 1st Punic War | Second Punic War | 2nd Punic War | Third Punic War | 3rd Punic War | Hannibal's war | Hannibalic War | Punic | First Punic | 1st Punic | Second Punic | 2nd Punic | Third Punic | 3rd Punic | Hannibal's | Hannibalic
+- Trojan War — Siege of Troy | War of Troy | Fall of Troy | Troy | Rojan War | Trojan
+- Spanish Civil War
+- Russian Civil War
+- Six-Day War — Six Days' War | June War | 1967 war | 1967 Arab–Israeli War | Third Arab–Israeli War | Six-Day War 1967 | Six-Day | Six Days'
+- Yom Kippur War — Yom Kippur | October War | Ramadan War | 1973 war | 1973 Arab–Israeli War | Fourth Arab–Israeli War | Yom Kippur War 1973
+- Opium Wars — Opium War | First Opium War | 1st Opium War | Second Opium War | 2nd Opium War | Anglo-Chinese War | Arrow War | Opium | First Opium | 1st Opium | Second Opium | 2nd Opium
+- Crusades — Crusade | First Crusade | 1st Crusade | Second Crusade | 2nd Crusade | Third Crusade | 3rd Crusade | Fourth Crusade | 4th Crusade | Fifth Crusade | 5th Crusade | Sixth Crusade | 6th Crusade | Seventh Crusade | 7th Crusade | Eighth Crusade | 8th Crusade | Ninth Crusade | 9th Crusade | Albigensian Crusade | Northern Crusades | Baltic Crusades | People's Crusade | Holy War | Holy Wars
+- Mexican–American War — Mexican War | US–Mexican War | American intervention in Mexico | US–Mexican
+- Spanish–American War — War of 1898
+- Franco-Prussian War — Franco-German War | War of 1870
+- Russo-Japanese War
+- Anglo-Zulu War — Zulu War | Zulu Wars | Anglo-Zulu | Zulu
+- Iran–Iraq War — Iraq–Iran War | Imposed War | Sacred Defence | Sacred Defense | Iran–Iraq War 1980 | Iran–Iraq | Iraq–Iran
+- Soviet–Afghan War — Soviet war in Afghanistan | Soviet invasion of Afghanistan | Afghan–Soviet War | Russian–Afghan War | Russo-Afghan War | Russian war in Afghanistan | Russo-Afghan
+- Gaza war — Israel–Hamas war | War in Gaza | Israel–Gaza war | Gaza | Hamas–Israel war | Swords of Iron | Operation Swords of Iron | 2023 Gaza war | Gaza wars | Operation Cast Lead | Operation Protective Edge | 2014 Gaza War | Israel war | Israel Hamas | Hamas war | Israel–Gaza | Hamas–Israel | 2023 Gaza | 2014 Gaza | Hamas | War on Hamas | War with Hamas | War against Hamas
+- Syrian civil war — Syrian war | Syria | War in Syria | Syrian conflict | Syrian civil
+- Chinese Civil War — Chinese Communist Revolution
+- War on Terror — Global War on Terror | War on Terrorism | GWOT
+- Suez Crisis — Suez War | Sinai War | Second Arab–Israeli War | Tripartite Aggression | Suez Canal Crisis | Suez | Sinai campaign | Operation Musketeer | Sinai | Suez Canal
+- Irish War of Independence — Anglo-Irish War | Black and Tan War | Anglo-Irish | Black and Tan
+- Bosnian War — Bosnia | War in Bosnia | Bosnian civil war | War in Bosnia and Herzegovina | Bosnia and Herzegovina
+- Kosovo War — Kosovo | Kosovo conflict | NATO bombing of Yugoslavia | Operation Allied Force
+- Yugoslav Wars — Wars in Yugoslavia | Yugoslav civil war | Balkan conflict | Wars of Yugoslav succession | Yugoslavian War | Yugoslavian Wars | Yugoslavia War | Yugoslavia
+- Indian Rebellion of 1857 — Indian Mutiny | Sepoy Mutiny | Sepoy Rebellion | First War of Independence | Indian War of Independence | 1857 rebellion | Indian Uprising | Great Indian Mutiny | Revolt of 1857 | Mutiny | 1857 uprising | Sepoy
+- The Troubles — Northern Ireland conflict | Northern Irish Troubles | Irish Troubles | Northern Ireland Troubles | Troubles in Northern Ireland | Northern Ireland
+- French and Indian War
+- 2026 Iran war — Iran war | Iran war 2026 | US–Iran war | Iran–United States war | US–Israeli war on Iran | War on Iran | Operation Epic Fury | Operation Roaring Lion | 2026 Iran–Israel war | Third Gulf War | Gulf War III | Third Imposed War | Operation True Promise IV | Epic Fury | Roaring Lion | Iran | 2026 Iran | US–Iran | Third Gulf
+- Emu War — Great Emu War | Emu | Great Emu
+
+### Tier 3: known to fans (60)
+
+- Gallic Wars — Gallic War | Caesar's Gallic War | Conquest of Gaul | Roman conquest of Gaul | Gallic | Gaul
+- Greco-Persian Wars — Persian Wars | Graeco-Persian Wars | Greek–Persian Wars | Medic Wars | Persian War | Persian invasion of Greece | Persian invasions of Greece | Greco-Persian | Graeco-Persian | Greek–Persian
+- Great Northern War — Northern War | Northern Wars
+- War of the Spanish Succession — Spanish Succession
+- War of the Austrian Succession — Austrian Succession
+- Peninsular War — Spanish War of Independence | Peninsula War | Peninsula
+- French Revolutionary Wars — War of the First Coalition | War of the Second Coalition | French Revolutionary War | Wars of the French Revolution | First Coalition | Second Coalition | French Revolutionary
+- Jacobite risings — Jacobite rising | Jacobite rebellion | Jacobite rebellions | The Forty-Five | The '45 | Jacobite rising of 1745 | Jacobite rising of 1715 | The Fifteen | Jacobite uprising | Jacobite War | Jacobite Wars | Jacobite | Jacobites
+- Wars of the Three Kingdoms — British Civil Wars | Civil Wars of the Three Kingdoms | War of the Three Kingdoms | British Civil
+- Irish Civil War — Irish Civil
+- Eighty Years' War — Dutch Revolt | Dutch War of Independence | Eighty Year War | Eighty Years
+- French Wars of Religion — Wars of Religion | Huguenot Wars | French Religious Wars | Huguenot
+- Reconquista
+- Norman Conquest — Norman conquest of England | Norman invasion | Norman invasion of England
+- Wars of Scottish Independence — Scottish Wars of Independence | War of Scottish Independence | First War of Scottish Independence | Second War of Scottish Independence | Scottish War of Independence | Scottish Independence
+- Anglo-Dutch Wars — Anglo-Dutch War | First Anglo-Dutch War | 1st Anglo-Dutch War | Second Anglo-Dutch War | 2nd Anglo-Dutch War | Third Anglo-Dutch War | 3rd Anglo-Dutch War | Fourth Anglo-Dutch War | 4th Anglo-Dutch War | Dutch Wars | Dutch War | Anglo-Dutch
+- Anglo-Spanish War — Anglo-Spanish Wars
+- War of Jenkins' Ear — Jenkins' Ear | Guerra del Asiento
+- Philippine–American War — Philippine Insurrection | Filipino–American War | Philippine War
+- Mexican Revolution
+- Mexican War of Independence
+- Greek War of Independence — Greek Revolution | Greek Revolution of 1821
+- Balkan Wars — Balkan War | First Balkan War | 1st Balkan War | Second Balkan War | 2nd Balkan War | Balkan | First Balkan | 1st Balkan | 2nd Balkan
+- Turkish War of Independence
+- Russo-Turkish Wars — Russo-Turkish War | Russo-Ottoman wars | Russo-Ottoman war
+- Austro-Prussian War — Seven Weeks' War | Prussian–Austrian War | Austro-Prussian-Italian War | Seven Weeks'
+- Winter War — Russo-Finnish War | Soviet–Finnish War | Winter
+- Great Patriotic War — Great Fatherland War | Patriotic War
+- Pacific War — Asia-Pacific War | Greater East Asia War | War in the Pacific | Asia-Pacific
+- Second Sino-Japanese War — 2nd Sino-Japanese War | War of Resistance Against Japan | Anti-Japanese War | Sino-Japanese War of 1937 | War of Resistance | War of Resistance Against Japanese Aggression | Chinese People's War of Resistance Against Japanese Aggression | Sino-Japanese War
+- Taiping Rebellion — Taiping Civil War | Taiping Revolution | Taiping
+- Boxer Rebellion — Boxer Uprising | Yihetuan Movement | Boxer War | Boxer | Boxers
+- First Indochina War — 1st Indochina War | French Indochina War | Franco-Vietminh War | Anti-French Resistance War | Resistance War Against France
+- Algerian War — Algerian War of Independence | Algerian Revolution | Algeria
+- Nigerian Civil War — Biafran War | Biafra | Nigeria–Biafra war
+- Mau Mau Uprising — Mau Mau rebellion | Kenya Emergency | Mau Mau | Mau Mau revolt
+- Malayan Emergency — Anti-British National Liberation War | Malaya Emergency | Malaya
+- Sino-Indian War — India–China war | 1962 war | Sino-Indian border war | Indo-China War of 1962 | Indo-China War 1962 | 1962 Indo-China War | Sino-Indian War of 1962 | 1962 Sino-Indian War | India–China war of 1962 | Indo-Chinese War of 1962 | Sino-Indian | India–China
+- Indo-Pakistani Wars — Indo-Pakistani War | First Indo-Pakistani War | 1st Indo-Pakistani War | Second Indo-Pakistani War | 2nd Indo-Pakistani War | Third Indo-Pakistani War | 3rd Indo-Pakistani War | India–Pakistan war | Indo-Pak war | Indo-Pakistan war | First Kashmir War | Second Kashmir War | Indo-Pakistani War of 1965 | Indo-Pakistani War of 1971 | 2025 India–Pakistan conflict | Operation Sindoor | 1971 war | 1965 war | 1947 war | Kashmir War | Kashmir Wars | Indo-Pak war 1971 | Indo-Pak war 1965 | 1971 Indo-Pak war | 1965 Indo-Pak war | India–Pakistan war of 1971 | India–Pakistan war of 1965 | Operation Bunyan-um-Marsoos | Kashmir conflict | Kashmir | Indo-Pak | 1971 Indo-Pak | 1965 Indo-Pak | 2025 India–Pakistan | India–Pakistan
+- Bangladesh Liberation War — Bangladesh War of Independence | Liberation War | Bangladeshi War of Independence | Muktijuddho | Muktijuddha | 1971 Liberation War | Bangladesh
+- Sri Lankan Civil War — Sri Lanka civil war | Sri Lankan war | Eelam War | Eelam Wars | Eelam War IV | Sri Lanka | Eelam
+- 1948 Arab–Israeli War — Arab–Israeli War | First Arab–Israeli War | Israeli War of Independence | 1948 Palestine war | 1948 war | Palestine war | Arab–Israeli
+- Lebanese Civil War — Lebanon
+- Lebanon War — 1982 Lebanon War | 2006 Lebanon War | First Lebanon War | Second Lebanon War | Israel–Hezbollah war | Hezbollah war | Israel–Lebanon war | Operation Peace for Galilee | July War | 1982 Lebanon | 2006 Lebanon | Hezbollah
+- Yemeni civil war — Yemen | War in Yemen | Yemeni war | Yemen war | Yemeni civil
+- Chechen Wars — Chechen War | First Chechen War | 1st Chechen War | Second Chechen War | 2nd Chechen War | Chechnya | Russo-Chechen War | War in Chechnya | Chechen | 1st Chechen | 2nd Chechen
+- Russo-Georgian War — Georgian War | August War | Five-Day War | Russia–Georgia war | South Ossetia war | Georgia | Five-Day
+- Croatian War of Independence — Homeland War | Croatian War
+- Libyan civil war — Libyan Revolution | Second Libyan Civil War | First Libyan Civil War | Libya | Libyan War | Libyan Wars | Libyan civil
+- Sudanese civil war — Sudan war | War in Sudan | Sudanese civil wars | First Sudanese Civil War | Second Sudanese Civil War | Sudan | 2023 Sudan war | 2023 Sudan
+- Myanmar civil war — Burmese civil war | Myanmar conflict | Burmese conflict | Myanmar | Burma civil war | Burma | Burma civil
+- Twelve-Day War — Iran–Israel war | Israel–Iran war | Operation Rising Lion | Operation Midnight Hammer | 2025 Iran–Israel war | Operation True Promise III | Twelve-Day | Iran–Israel | Israel–Iran
+- Anglo-Afghan Wars — Anglo-Afghan War | First Anglo-Afghan War | 1st Anglo-Afghan War | Second Anglo-Afghan War | 2nd Anglo-Afghan War | Third Anglo-Afghan War | 3rd Anglo-Afghan War | Anglo-Afghan
+- Cod Wars — Cod War | First Cod War | 1st Cod War | Second Cod War | 2nd Cod War | Third Cod War | 3rd Cod War | Cod | First Cod | 1st Cod | Second Cod | 2nd Cod | Third Cod | 3rd Cod
+- Anglo-Zanzibar War — Zanzibar War | Shortest war | 38 minute war | Zanzibar | Shortest | 38 minute
+- Indian Wars — American Indian Wars | Native American wars | Indian War
+- New Zealand Wars — Māori Wars | Land Wars | New Zealand Land Wars | Anglo-Māori wars | New Zealand | Māori | Anglo-Māori | Land
+- Arab Revolt — Great Arab Revolt | Arab Revolt of 1916
+- War on Drugs — Drug war | Mexican drug war | War against drugs | Philippine drug war | Duterte's drug war | Drug | Mexican drug
+- Arab–Israeli conflict — Israeli–Palestinian conflict | Israel–Palestine conflict | Palestinian–Israeli conflict | Israel–Palestine war | Israeli–Palestinian war | Palestinian–Israeli | Israeli–Palestinian
+
+### Tier 4: obscure (124)
+
+- Kurukshetra War — Mahabharata War | Mahabharata | Kurukshetra
+- Phoney War — Phony War | Sitzkrieg | Drole de guerre | Phoney | Phony
+- Haitian Revolution — Haitian War of Independence | Haitian Revolutionary War | Haitian
+- Texas Revolution — Texas War of Independence | Texan Revolution
+- Cuban Revolution
+- Mongol invasions — Mongol conquests | Mongol invasion | Mongol invasions of Japan | Mongol conquest | Mongol wars
+- Muslim conquests — Arab conquests | Islamic conquests | Early Muslim conquests
+- Kalinga War — Kalinga
+- Imjin War — Japanese invasions of Korea | Imjin Wars | Imjin
+- Boshin War — Boshin
+- Satsuma Rebellion — Satsuma
+- Genpei War — Gempei War | Genpei | Gempei
+- Onin War — Onin
+- An Lushan Rebellion — An Lushan
+- First Sino-Japanese War — 1st Sino-Japanese War | Sino-Japanese War of 1894
+- Third Indochina War — 3rd Indochina War
+- Sino-Vietnamese War — Sino-Vietnamese war of 1979 | Vietnam–China war
+- Cambodian–Vietnamese War — Vietnamese invasion of Cambodia
+- Cambodian Civil War
+- Laotian Civil War — Secret War
+- Indonesia–Malaysia confrontation — Konfrontasi | Borneo confrontation | Indonesian confrontation | Indonesia–Malaysia
+- Indonesian War of Independence — Indonesian National Revolution | Indonesian Revolution
+- Kargil War — Kargil | Kargil conflict | Kargil war 1999 | 1999 Kargil War | 1999 Kargil
+- Anglo-Mysore Wars — Anglo-Mysore War | First Anglo-Mysore War | 1st Anglo-Mysore War | Second Anglo-Mysore War | 2nd Anglo-Mysore War | Third Anglo-Mysore War | 3rd Anglo-Mysore War | Fourth Anglo-Mysore War | 4th Anglo-Mysore War | Mysore Wars | Anglo-Mysore | Mysore
+- Anglo-Maratha Wars — Anglo-Maratha War | First Anglo-Maratha War | 1st Anglo-Maratha War | Second Anglo-Maratha War | 2nd Anglo-Maratha War | Third Anglo-Maratha War | 3rd Anglo-Maratha War | Maratha Wars | Maratha
+- Anglo-Sikh Wars — Anglo-Sikh War | First Anglo-Sikh War | 1st Anglo-Sikh War | Second Anglo-Sikh War | 2nd Anglo-Sikh War | Sikh Wars | Anglo-Sikh | Sikh
+- Anglo-Burmese Wars — Anglo-Burmese War | First Anglo-Burmese War | 1st Anglo-Burmese War | Second Anglo-Burmese War | 2nd Anglo-Burmese War | Third Anglo-Burmese War | 3rd Anglo-Burmese War | Burmese Wars | Burma Wars
+- Anglo-Nepalese War — Gurkha War | Anglo-Gorkha War | Gurkha | Anglo-Gorkha
+- Carnatic Wars — Carnatic War | First Carnatic War | 1st Carnatic War | Second Carnatic War | 2nd Carnatic War | Third Carnatic War | 3rd Carnatic War | Carnatic | 1st Carnatic | 2nd Carnatic | 3rd Carnatic
+- Mahdist War — Mahdist revolt | Sudan campaign | Mahdist
+- Anglo-Ashanti Wars — Anglo-Ashanti War | First Anglo-Ashanti War | 1st Anglo-Ashanti War | Second Anglo-Ashanti War | 2nd Anglo-Ashanti War | Third Anglo-Ashanti War | 3rd Anglo-Ashanti War | Fourth Anglo-Ashanti War | 4th Anglo-Ashanti War | Fifth Anglo-Ashanti War | 5th Anglo-Ashanti War | Ashanti Wars | War of the Golden Stool | Anglo-Asante wars | Ashanti | Golden Stool | Anglo-Asante
+- Xhosa Wars — Xhosa War | First Xhosa War | 1st Xhosa War | Second Xhosa War | 2nd Xhosa War | Third Xhosa War | 3rd Xhosa War | Fourth Xhosa War | 4th Xhosa War | Fifth Xhosa War | 5th Xhosa War | Sixth Xhosa War | 6th Xhosa War | Seventh Xhosa War | 7th Xhosa War | Eighth Xhosa War | 8th Xhosa War | Ninth Xhosa War | 9th Xhosa War | Cape Frontier Wars | Cape Frontier War | First Xhosa | 1st Xhosa | Second Xhosa | 2nd Xhosa | Third Xhosa | 3rd Xhosa | Fourth Xhosa | 4th Xhosa | Fifth Xhosa | 5th Xhosa | Sixth Xhosa | 6th Xhosa | 7th Xhosa | Eighth Xhosa | 8th Xhosa | Ninth Xhosa | 9th Xhosa
+- Italo-Ethiopian Wars — Italo-Ethiopian War | First Italo-Ethiopian War | 1st Italo-Ethiopian War | Second Italo-Ethiopian War | 2nd Italo-Ethiopian War | Abyssinian War | Italo-Abyssinian War | Second Italo-Abyssinian War
+- Rif War — Rif Wars | Riff War | Rif | Riff
+- Italo-Turkish War — Turco-Italian War
+- Greco-Turkish War — Greco-Turkish War of 1919–1922 | Greco-Turkish War of 1897 | Thirty Days' War | Asia Minor campaign | Thirty Days'
+- Polish–Soviet War — Polish–Bolshevik War | Soviet–Polish War
+- Continuation War
+- Greek Civil War — Greek Civil
+- Finnish Civil War
+- Turkish invasion of Cyprus — Cyprus War | Cyprus conflict
+- Nagorno-Karabakh War — First Nagorno-Karabakh War | 1st Nagorno-Karabakh War | Second Nagorno-Karabakh War | 2nd Nagorno-Karabakh War | Karabakh war | Artsakh war | 44-Day War | Karabakh | Artsakh | 44-Day
+- Rwandan Civil War — Rwanda
+- Angolan Civil War — Angolan war | Angola
+- Mozambican Civil War
+- Somali Civil War — Somalia | Somali Civil
+- Liberian civil wars — Liberian civil war | First Liberian Civil War | Second Liberian Civil War
+- Sierra Leone Civil War — Sierra Leonean Civil War | Sierra Leone
+- Ethiopian Civil War
+- Tigray War — Tigray conflict | Tigray civil war | Tigray | Tigray civil
+- Eritrean War of Independence
+- Eritrean–Ethiopian War — Ethiopian–Eritrean War | Badme war | Badme
+- Ogaden War — Ogaden
+- Rhodesian Bush War — Zimbabwe War of Liberation | Second Chimurenga | Rhodesian War | Rhodesia | Bush War | Bush Wars | Chimurenga
+- South African Border War — Namibian War of Independence | Angolan Bush War | Border War | Border Wars | Angolan Bush
+- Portuguese Colonial War — Angolan War of Independence | Mozambican War of Independence | Guinea-Bissau War of Independence | Overseas War | Colonial War
+- Congo Wars — Congo War | First Congo War | 1st Congo War | Second Congo War | 2nd Congo War | Africa's World War | Great African War | Congo Crisis | Congo | First Congo | 1st Congo | Second Congo | 2nd Congo
+- War in Darfur — Darfur | Darfur conflict | Darfur war
+- Uganda–Tanzania War — Kagera War | Liberation War of 1979 | Kagera
+- Algerian Civil War — Black Decade | Dark Decade
+- Afghan Civil War — Afghan Civil
+- Salvadoran Civil War
+- Guatemalan Civil War
+- Nicaraguan Revolution — Contra War | Nicaraguan Civil War | Contra
+- Colombian conflict — Colombian civil war | Colombian armed conflict
+- Dirty War — Guerra Sucia | Argentine Dirty War
+- Chaco War — Chaco
+- Paraguayan War — War of the Triple Alliance | Triple Alliance War | Paraguayan
+- War of the Pacific
+- Banana Wars — Banana War | Banana
+- French intervention in Mexico — Franco-Mexican War | Second French intervention in Mexico
+- Cuban War of Independence
+- Spanish American wars of independence — Latin American wars of independence | South American wars of independence | Wars of independence in Spanish America | Venezuelan War of Independence | Argentine War of Independence | Chilean War of Independence | Peruvian War of Independence | Bolivian War of Independence | Ecuadorian War of Independence
+- Football War — Soccer War | Hundred Hours' War | 100 Hour War | Football | Soccer | 100 Hour
+- Seminole Wars — Seminole War | First Seminole War | 1st Seminole War | Second Seminole War | 2nd Seminole War | Third Seminole War | 3rd Seminole War | Seminole | 1st Seminole | 2nd Seminole | 3rd Seminole
+- Apache Wars — Apache War | Apache
+- Great Sioux War — Great Sioux War of 1876 | Black Hills War | Sioux Wars | Sioux War | Great Sioux | Black Hills | Sioux
+- King Philip's War — Metacom's War | Metacomet's War | King Philip's | Metacom's | Metacomet's
+- Pontiac's War — Pontiac's Rebellion | Pontiac's Uprising | Pontiac's
+- Barbary Wars — Barbary War | First Barbary War | 1st Barbary War | Second Barbary War | 2nd Barbary War | Tripolitan War | Barbary | 1st Barbary | 2nd Barbary | Tripolitan
+- Anglo-Scottish Wars — Anglo-Scottish War
+- Rough Wooing
+- Bishops' Wars — Bishops' War | Bishops'
+- Nine Years' War — War of the Grand Alliance | War of the League of Augsburg | Tyrone's Rebellion | Nine Year War | Nine Years' | Grand Alliance | League of Augsburg | Nine Year
+- Williamite War in Ireland — Williamite War | Jacobite War in Ireland | Williamite–Jacobite War | Williamite
+- Cromwellian conquest of Ireland — Cromwellian War | Cromwell's conquest of Ireland | Cromwellian
+- Irish Rebellion of 1798 — 1798 Rebellion | Rising of 1798 | United Irishmen Rebellion
+- Hussite Wars — Hussite Revolution | Hussite War | Bohemian Wars | Hussite
+- Italian Wars — Great Italian Wars | Habsburg–Valois Wars | Habsburg–Valois
+- German Peasants' War — Peasants' War | Great Peasants' Revolt | Peasants'
+- Livonian War — Livonian
+- Silesian Wars — Silesian War | First Silesian War | 1st Silesian War | Second Silesian War | 2nd Silesian War | Third Silesian War | 3rd Silesian War | Silesian | 1st Silesian | 2nd Silesian | 3rd Silesian
+- War of the Polish Succession — Polish Succession
+- War of the Bavarian Succession — Potato War | Bavarian Succession | Potato
+- Ottoman–Habsburg wars — Habsburg–Ottoman wars | Ottoman wars in Europe | Austro-Turkish War | Austro-Turkish Wars | Ottoman–Habsburg | Habsburg–Ottoman
+- Italian Wars of Independence — Wars of Italian Unification | Wars of Italian Independence | First Italian War of Independence | Second Italian War of Independence | Third Italian War of Independence | Franco-Austrian War | Austro-Sardinian War | Second War of Italian Independence | Italian Unification | Italian Independence
+- Schleswig Wars — Schleswig War | First Schleswig War | 1st Schleswig War | Second Schleswig War | 2nd Schleswig War | Danish–Prussian War | Second War of Schleswig | Dano-Prussian War | Schleswig
+- Carlist Wars — Carlist War | First Carlist War | 1st Carlist War | Second Carlist War | 2nd Carlist War | Third Carlist War | 3rd Carlist War | Carlist | 1st Carlist | 2nd Carlist | 3rd Carlist
+- The Anarchy — Stephen and Matilda | English Civil War of 1135
+- Barons' Wars — Barons' War | First Barons' War | 1st Barons' War | Second Barons' War | 2nd Barons' War | Barons' | First Barons' | 1st Barons' | 2nd Barons'
+- Boudican revolt — Boudicca's revolt | Boudica's revolt | Boudicca's rebellion | Boudica's rebellion | Boudican rebellion | Iceni revolt
+- Roman conquest of Britain — Roman invasion of Britain | Claudian invasion of Britain
+- Caesar's Civil War — Great Roman Civil War | Roman Civil War | Roman Civil
+- Jewish–Roman wars — First Jewish–Roman War | Great Revolt | Great Jewish Revolt | Bar Kokhba revolt | Kitos War | Jewish revolt | Jewish War | Jewish–Roman | Kitos | Bar Kokhba
+- Roman–Persian Wars — Roman–Parthian Wars | Byzantine–Sasanian wars | Roman–Sasanian wars | Roman–Persian | Roman–Parthian | Byzantine–Sasanian | Roman–Sasanian
+- Pyrrhic War — Pyrrhic Wars | Pyrrhic
+- Samnite Wars — Samnite War | First Samnite War | 1st Samnite War | Second Samnite War | 2nd Samnite War | Third Samnite War | 3rd Samnite War | Samnite | 1st Samnite | 2nd Samnite | 3rd Samnite
+- Macedonian Wars — Macedonian War | First Macedonian War | 1st Macedonian War | Second Macedonian War | 2nd Macedonian War | Third Macedonian War | 3rd Macedonian War | Fourth Macedonian War | 4th Macedonian War | Macedonian
+- Mithridatic Wars — Mithridatic War | First Mithridatic War | 1st Mithridatic War | Second Mithridatic War | 2nd Mithridatic War | Third Mithridatic War | 3rd Mithridatic War | Mithridatic
+- Jugurthine War — Jugurthine
+- Servile Wars — Servile War | First Servile War | 1st Servile War | Second Servile War | 2nd Servile War | Third Servile War | 3rd Servile War | Spartacus revolt | Spartacus War | Gladiator War | Revolt of Spartacus | Servile | 1st Servile | 2nd Servile | 3rd Servile
+- Wars of Alexander the Great — Conquests of Alexander the Great | Alexander's conquests | Macedonian conquest of Persia | Alexander the Great's conquests
+- Australian frontier wars — Frontier Wars | Australian Frontier War | Bathurst War | Hawkesbury and Nepean Wars | Hawkesbury Wars | Kalkadoon Wars | Pemulwuy's War | Eumeralla Wars | Frontier | Hawkesbury and Nepean | Kalkadoon | Pemulwuy's | Eumeralla
+- War of Attrition — Egyptian–Israeli War of Attrition | Attrition
+- Ten-Day War — Slovenian War of Independence | Slovenian War | Ten-Day
+- Yugoslav Partisan war — People's Liberation War | Yugoslav People's Liberation War
+- Nepalese Civil War — Nepal civil war | Nepalese civil war of 1996 | Maoist insurgency in Nepal | Nepalese People's War | Nepal civil
+- War against the Islamic State — War against ISIS | War on ISIS | ISIS war | War against ISIL | War against Daesh | Iraqi Civil War | Iraqi civil war of 2014 | Operation Inherent Resolve | Operation Shader | Iraqi Civil | ISIS | ISIL | Islamic State | Daesh | IS war | Islamic State war | War with ISIS
+- Patriotic War of 1812 — Russian Patriotic War of 1812 | French invasion of Russia | Napoleon's invasion of Russia | Russian campaign of 1812
+- Whiskey Rebellion — Whisky Rebellion
+- Intifada — First Intifada | Second Intifada | Al-Aqsa Intifada | Intifadas | Al-Aqsa
+- 2025 Cambodia–Thailand conflict — Cambodia–Thailand war | Thai–Cambodian war | Cambodian–Thai border conflict | Thailand–Cambodia conflict | Cambodia–Thailand border war | Thai–Cambodian border conflict | 2025 Cambodia–Thailand | Thailand–Cambodia | Cambodia–Thailand
+- 2026 Afghanistan–Pakistan war — Afghanistan–Pakistan war | Pakistan–Afghanistan war | Afghan–Pakistani war | Pakistan–Taliban war
+- Hungarian Revolution of 1848 — Hungarian War of Independence | Hungarian War of Independence of 1848 | Hungarian Revolution of 1848–49
+
+### Tier 5: expert (178)
+
+- Pastry War — First French intervention in Mexico | Pastry
+- Toledo War — Toledo
+- War of the Stray Dog — Incident at Petrich | Petrich incident | Stray Dog | Petrich
+- Lobster War — Lobster
+- Turbot War — Turbot
+- Toyota War — Great Toyota War | Toyota | Great Toyota
+- Coconut War — Coconut
+- Three Hundred and Thirty Five Years' War — 335 Years' War | 335 Years'
+- Sonderbund War — Swiss Civil War | Sonderbund | Swiss Civil
+- Aroostook War — Pork and Beans War | Lumberjack War | Aroostook | Lumberjack
+- Honey War — Honey
+- Flower Wars — Flowery Wars | Flower War | Xochiyaoyotl | Flower
+- Black War
+- Musket Wars — Musket
+- Bougainville Civil War — Bougainville | Bougainville conflict | Bougainville crisis
+- Social War — Marsic War | Marsic
+- Corinthian War — Corinthian
+- Messenian Wars — Messenian War | First Messenian War | 1st Messenian War | Second Messenian War | 2nd Messenian War | Third Messenian War | 3rd Messenian War | Messenian
+- Lelantine War — Lelantine
+- Sacred Wars — Sacred War | First Sacred War | 1st Sacred War | Second Sacred War | 2nd Sacred War | Third Sacred War | 3rd Sacred War | Fourth Sacred War | 4th Sacred War
+- Lamian War — Lamian
+- Chremonidean War
+- Wars of the Diadochi — Wars of the Successors | Diadochi Wars | Diadochi
+- Dacian Wars — Trajan's Dacian Wars | Dacian War | Dacian | Trajan's Dacian
+- Marcomannic Wars — Marcomannic
+- Gothic War — Gothic Wars | Gothic
+- Cantabrian Wars — Cantabrian War | Astur-Cantabrian Wars | Cantabrian | Astur-Cantabrian
+- Sertorian War — Sertorian
+- Final War of the Roman Republic — War of Actium | Antony and Cleopatra's war
+- Chu–Han Contention — Chu–Han War | Chu–Han
+- Yellow Turban Rebellion — Yellow Turban | Yellow Turbans
+- Red Turban Rebellion — Red Turban Rebellions | Red Turban | Red Turbans
+- Revolt of the Three Feudatories — Three Feudatories
+- Sino-French War — Sino-French
+- Soviet–Japanese War — Soviet invasion of Manchuria | Manchurian Strategic Offensive
+- Aceh War — Aceh
+- Java War — Java
+- Padri War — Padri
+- Anglo-Bhutan War — Duar War | Anglo-Bhutan | Duar
+- Anglo-Persian War
+- Anglo-Egyptian War — Anglo-Egyptian War of 1882
+- Anglo-Aro War — Anglo-Aro
+- Anglo-Iraqi War — Anglo-Iraqi
+- Matabele Wars — Matabele War | First Matabele War | 1st Matabele War | Second Matabele War | 2nd Matabele War | First Chimurenga | Matabele Rebellion | Matabele | 1st Matabele | 2nd Matabele
+- Herero Wars — Herero and Nama war | Herero War | Herero
+- Maji Maji Rebellion — Maji Maji
+- Bambatha Rebellion — Bambatha
+- Hut Tax War — Hut Tax War of 1898 | Hut Tax
+- Western Sahara War
+- Ifni War — Ifni
+- Sand War — War of the Sands | Algerian–Moroccan war | Sand
+- Chadian–Libyan war — Chadian–Libyan conflict | Chad–Libya war | Chad–Libya
+- Ugandan Bush War — Ugandan Bush
+- Burundian Civil War — Burundian
+- Ivorian civil wars — Ivorian civil war | First Ivorian Civil War | Second Ivorian Civil War
+- Mali War — Malian civil war | War in Mali | Mali | Malian civil
+- Dhofar Rebellion — Dhofar
+- Aden Emergency — Aden
+- Cyprus Emergency — EOKA campaign
+- North Yemen Civil War — North Yemen
+- Tajikistani Civil War
+- Transnistria War
+- War in Abkhazia — Abkhazia
+- Lapland War — Finnish–German war | Lapland
+- Polish–Ukrainian War
+- Hungarian–Romanian War
+- Estonian War of Independence — Estonian
+- Latvian War of Independence — Latvian
+- Serbo-Bulgarian War
+- Franco-Turkish War
+- War of the Vendée — Vendée revolt | Vendee War | Wars of the Vendée | Vendée
+- Glyndwr Rising — Glyndwr rebellion | Owain Glyndwr's rebellion | Welsh Revolt | Glyndwr
+- Desmond Rebellions — Desmond
+- Irish Confederate Wars — Confederate Wars | Irish Confederate
+- Second Hundred Years' War
+- War of the Sicilian Vespers — Sicilian Vespers
+- War of the Breton Succession — Breton War of Succession | Breton Succession
+- War of Chioggia — Chioggia
+- War of the Eight Saints — Eight Saints
+- War of the Three Henrys — Three Henrys
+- War of the League of Cambrai — League of Cambrai
+- Swabian War — Swabian
+- Burgundian Wars — Burgundian War | Burgundian
+- Schmalkaldic War
+- Deluge — Swedish Deluge
+- Khmelnytsky Uprising — Khmelnytsky Rebellion | Chmielnicki Uprising | Khmelnytsky | Chmielnicki
+- Polish–Lithuanian–Teutonic War — Great War of 1409 | Teutonic war | Teutonic
+- Thirteen Years' War
+- Russo-Swedish Wars — Russo-Swedish War
+- Russo-Persian Wars — Russo-Persian War | Russo-Iranian wars | Russo-Iranian
+- Great Turkish War — War of the Holy League | Holy League
+- Byzantine–Arab wars — Arab–Byzantine wars | Byzantine–Arab | Arab–Byzantine
+- War of Devolution — Devolution
+- Franco-Dutch War — Guerre de Hollande | Franco-Dutch
+- War of the Quadruple Alliance — Quadruple Alliance
+- War of the Mantuan Succession — Mantuan Succession
+- War of the Castilian Succession — Castilian Succession
+- Portuguese Restoration War — Restoration War | Acclamation War
+- Pequot War — Pequot
+- Beaver Wars — Iroquois Wars | French and Iroquois Wars | Beaver | Iroquois | French and Iroquois
+- King William's War
+- Queen Anne's War — Queen Anne's
+- King George's War — King George's
+- Anglo-Cherokee War — Cherokee War | Cherokee
+- Yamasee War — Yamasee
+- Tuscarora War — Tuscarora
+- Anglo-Powhatan Wars — Powhatan Wars | Powhatan War | Anglo-Powhatan | Powhatan
+- Lord Dunmore's War
+- Quasi-War — Undeclared War with France
+- Creek War — Red Stick War | Reek War | Red Stick
+- Black Hawk War — Black Hawk
+- Dakota War of 1862 — Dakota War | Sioux Uprising | US–Dakota War | Dakota | US–Dakota
+- Red Cloud's War — Red Cloud's
+- Nez Perce War — Nez Perce
+- Comanche Wars — Comanche War | Comanche
+- Modoc War — Modoc
+- Utah War — Mormon War | Utah | Mormon
+- Fenian raids — Fenian raid
+- North-West Rebellion — North-West Resistance
+- Red River Rebellion — Red River Resistance
+- Ten Years' War — Great War (Cuba) | Ten Years'
+- Thousand Days' War — War of a Thousand Days
+- Cristero War — Cristero Rebellion | Cristiada | Cristero
+- Caste War of Yucatan — Caste War
+- Reform War — War of Reform | Three Years' War | Three Years'
+- Platine War — Platine
+- Cisplatine War — Argentine–Brazilian War | Cisplatine
+- War of the Confederation — Confederation
+- Cenepa War — Alto Cenepa war | Cenepa | Alto Cenepa
+- Ecuadorian–Peruvian War — Peruvian–Ecuadorian war
+- Costa Rican Civil War
+- Chilean Civil War of 1891
+- Mexican Border War
+- Philippine Revolution — Tagalog War
+- Brazilian War of Independence
+- Pig War — Pig War of 1859 | San Juan boundary dispute | Pig
+- Chadian Civil War — Chadian Civil Wars | Chad civil war | Chadian civil war of 1965 | Chadian civil war of 2005 | Chad civil
+- Scanian War — Scanian
+- Ottoman–Venetian wars — Ottoman–Venetian War | Venetian–Ottoman wars | Cretan War | War of Candia | Venetian–Ottoman | Cretan | Candia
+- Ottoman–Persian Wars — Ottoman–Persian War | Ottoman–Safavid wars | Ottoman–Safavid War | Ottoman–Iranian wars | Ottoman–Iranian | Ottoman–Persian
+- Serbian–Ottoman War — Serbo-Turkish War | Serbian–Turkish War | Serbian–Ottoman Wars | Serbian–Ottoman War of 1876
+- Polygar Wars — Polygar War | Palayakkarar Wars | Polygar | Palayakkarar
+- United States invasion of Panama — Invasion of Panama | Operation Just Cause | Panama
+- United States invasion of Grenada — Invasion of Grenada | Operation Urgent Fury | Grenada
+- Second Northern War — First Northern War | Little Northern War | Northern War of 1655
+- Northern Seven Years' War — Nordic Seven Years' War
+- Kalmar War — Kalmar
+- Torstenson War — Torstenson
+- Gunboat War — Gunboat
+- Smolensk War — Smolensk
+- Russo-Polish War (1654–1667) — Russo-Polish War | Polish–Russian War | Russo-Polish War of 1654 | Polish–Muscovite War | Dymitriads | Russo-Polish
+- Caucasian War — Caucasus War | Russian conquest of the Caucasus
+- Russo-Circassian War — Circassian War | Russian–Circassian War | Circassian
+- Serbian Revolution — First Serbian Uprising | Second Serbian Uprising | Serbian War of Independence
+- Anglo-French wars — Anglo-French War | Franco-British wars | Anglo-French | Franco-British
+- Franco-Spanish War — Franco-Spanish War of 1635
+- War of the Reunions — Reunions
+- Liberal Wars — Portuguese Civil War | War of the Two Brothers | Miguelite War | Two Brothers | Miguelite
+- South Sudanese Civil War — South Sudan civil war | South Sudanese war | South Sudan
+- Kurdish–Turkish conflict — PKK insurgency | Turkish–Kurdish conflict | Kurdish–Turkish war
+- Lithuanian Wars of Independence — Lithuanian War of Independence | Lithuanian Wars of Freedom | Lithuanian
+- Ukrainian War of Independence — Ukrainian–Soviet War | Ukrainian Revolution of 1917–1921
+- Dominican Civil War
+- Internal conflict in Peru — Shining Path insurgency | Peruvian internal conflict | Shining Path war | Shining Path
+- Central African Republic Civil War — CAR civil war | Central African civil war | CAR civil | Central African Republic
+- Boko Haram insurgency — Boko Haram war | War against Boko Haram | Boko Haram
+- Red River War — Red River
+- 1838 Mormon War — Missouri Mormon War | 1838 Mormon
+- Bleeding Kansas — Kansas–Missouri Border War | Bleeding Kansas war
+- Rebellions of 1837 — Rebellions of 1837–38 | Upper Canada Rebellion | Lower Canada Rebellion | Patriotes Rebellion
+- Waikato War — Invasion of the Waikato | Waikato campaign | Waikato
+- Flagstaff War — Northern War (New Zealand) | Hone Heke's War | Hōne Heke's rebellion | Flagstaff | Hone Heke's
+- Taranaki Wars — Taranaki War | First Taranaki War | Second Taranaki War | Taranaki
+- Moro Rebellion — Moro campaign | Moro
+- Indonesian invasion of East Timor — Invasion of East Timor | Indonesian occupation of East Timor | East Timor war | East Timor | East Timor crisis | East Timor conflict | INTERFET
+- Saxon Wars — Saxon War | Charlemagne's Saxon Wars | Saxon | Charlemagne's Saxon
+- Conquest of Wales by Edward I — Edwardian conquest of Wales | Conquest of Wales | Welsh Wars | Edward I's conquest of Wales
+- Viking invasions of England — Viking invasions | Viking invasion of England | Great Heathen Army | Danish invasion of England
+
+### Tier 6: rare jackpots (3)
+
+- Kettle War — Kettle
+- War of the Bucket — War of the Oaken Bucket | Bucket War | Bucket | Oaken Bucket
+- Whisky War — Whiskey War | Whisky Wars | Hans Island dispute | Whisky | Whiskey
+
+## Refused on purpose (39)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Battle of Hastings | Hastings | Waterloo | Battle of Waterloo | Agincourt | Battle of Agincourt | Gettysburg | Battle of Gettysburg | Stalingrad | Battle of Stalingrad | Trafalgar | Battle of Trafalgar | Bosworth | Battle of Bosworth | Culloden | Battle of Culloden | Thermopylae | Battle of Thermopylae | Marathon | Battle of Marathon | Salamis | Battle of Salamis | Bannockburn | Battle of Bannockburn | Somme | Battle of Somme | Verdun | Battle of Verdun | Gallipoli | Battle of Gallipoli | Ypres | Battle of Ypres | Passchendaele | Battle of Passchendaele | Dunkirk | Battle of Dunkirk | Normandy | Battle of Normandy | Midway | Battle of Midway | Alamo | Battle of Alamo | Little Bighorn | Battle of Little Bighorn | Isandlwana | Battle of Isandlwana | Rorke's Drift | Battle of Rorke's Drift | Balaclava | Battle of Balaclava | El Alamein | Battle of El Alamein | Dien Bien Phu | Battle of Dien Bien Phu | Lepanto | Battle of Lepanto | Arnhem | Battle of Arnhem | Kursk | Battle of Kursk | Iwo Jima | Battle of Iwo Jima | Okinawa | Battle of Okinawa | Guadalcanal | Battle of Guadalcanal | Antietam | Battle of Antietam | Bull Run | Battle of Bull Run | Shiloh | Battle of Shiloh | Saratoga | Battle of Saratoga | Yorktown | Battle of Yorktown | Bunker Hill | Battle of Bunker Hill | Austerlitz | Battle of Austerlitz | Borodino | Battle of Borodino | Leipzig | Battle of Leipzig | Blenheim | Battle of Blenheim | Naseby | Battle of Naseby | Marston Moor | Battle of Marston Moor | Edgehill | Battle of Edgehill | Flodden | Battle of Flodden | Boyne | Battle of Boyne | Plassey | Battle of Plassey | Cannae | Battle of Cannae | Zama | Battle of Zama | Actium | Battle of Actium | Teutoburg Forest | Battle of Teutoburg Forest | Hattin | Battle of Hattin | Crecy | Battle of Crecy | Poitiers | Battle of Poitiers | Stamford Bridge | Battle of Stamford Bridge | Manzikert | Battle of Manzikert | Kadesh | Battle of Kadesh | Mons | Battle of Mons | Jutland | Battle of Jutland | Fallujah | Battle of Fallujah | Mogadishu | Battle of Mogadishu | Bakhmut | Battle of Bakhmut | Tannenberg | Battle of Tannenberg | Marne | Battle of Marne | Battle of the Somme | Battle of the Boyne | Battle of the Bulge | Battle of Britain | Battle of the Atlantic | Battle of the Little Bighorn | Battle of the Marne | Charge of the Light Brigade | D-Day | Normandy landings | Pearl Harbor | Pearl Harbour | Attack on Pearl Harbor | Tet Offensive | Spanish Armada | Armada | Blitz | Operation Barbarossa | Barbarossa | Sherman's March to the Sea | Warsaw Uprising | Bay of Pigs | Bay of Pigs invasion | Siege of Leningrad | Siege of Sarajevo | Siege of Mafeking | Siege of Orleans | Siege of Constantinople | Fall of Constantinople | Siege of Vienna | Siege of Masada | Siege of Jerusalem | Siege of Mariupol | Siege of Stalingrad | Battle of Red Cliffs | Siege of Malta | Siege of Tobruk | Siege of Kut | Siege of Lucknow | Battle of Alesia | Siege of Alesia | Kokoda | Kokoda Track | Kokoda Trail | Kokoda Track campaign | Tobruk | Long Tan | Battle of Long Tan | Kapyong | Battle of Kapyong | Coral Sea | Battle of the Coral Sea | Milne Bay | Battle of Milne Bay | Fromelles | Pozières | Villers-Bretonneux | Beersheba | Battle of Beersheba | Bombing of Darwin | Fall of Singapore | Hiroshima | Bombing of Hiroshima | Battle of Brisbane | Vimy Ridge | Lone Pine | The Nek | Hamel | Battle of Crete | Khe Sanh | Inchon | Custer's Last Stand | Wounded Knee | Battle of Berlin | Operation Market Garden | Monte Cassino | Operation Overlord — "A single battle or campaign, not a whole war."
+- World War III | Third World War | WW3 | WWIII | World War Three | 3rd World War — "Not yet."
+- Star Wars | Clone Wars | Galactic Civil War — "A war in a galaxy far, far away, and fiction besides."
+- Ragnarök | Titanomachy | Gigantomachy | War in Heaven | Aesir-Vanir War — "A war of myth, not of history."
+- Armageddon — "Prophesied, not yet fought."
+- Holocaust | Shoah | Armenian genocide | Rwandan genocide | Cambodian genocide | Bosnian genocide | Srebrenica massacre — "A genocide, not a war."
+- Cola Wars | Browser wars | Console wars | War of the Currents | Current War | Format war | Trade war | Culture war | Price war | Streaming wars | War on Poverty | War on Christmas | War on Cancer | History wars | Class war | Class warfare | Bidding war | Flame war | Edit war — "A rivalry, not a war. Nobody was shot."
+- Tug of war — "A sport, and once an Olympic one."
+- War and Peace | War Horse | Saving Private Ryan | Apocalypse Now — "A story set in a war, not the war itself."
+- Art of War — "A book of strategy, not a war."
+- Cuban Missile Crisis | Missile Crisis — "A standoff of thirteen days, in which war never broke out."
+- Blitzkrieg — "A way of waging war, not a war itself."
+- Great Game — "A rivalry between Britain and Russia over Central Asia, fought mostly by spies."
+- Spanish Inquisition — "A court of the Church, not a war."
+- Easter Rising | Easter Rebellion | 1916 Rising — "A rising of six days in 1916, not a war. A war did follow it."
+- Peasants' Revolt | Peasants Revolt of 1381 | Wat Tyler's Rebellion | Great Rising — "A rising of a few weeks in 1381, not a war."
+- Monmouth Rebellion | Pitchfork Rebellion — "A rising of a few weeks in 1685, not a war."
+- Gunpowder Plot — "A plot that failed, not a war."
+- Boston Tea Party — "A protest, not a war, though one followed."
+- French Revolution — "A revolution, not a war, though it set off a string of them."
+- Russian Revolution | October Revolution | Bolshevik Revolution — "A revolution. The war that followed it has a name of its own."
+- Glorious Revolution — "A revolution of 1688, almost bloodless in England. The fighting came later, elsewhere."
+- Industrial Revolution — "A revolution of machines, not a war."
+- Arab Spring — "A wave of uprisings. Some of them became wars."
+- Hungarian Revolution of 1956 | Hungarian Uprising — "A rising crushed in under three weeks, not a war."
+- Eastern Front | Western Front — "A front of a war, not a war of its own."
+- Warring States | Warring States period | Three Kingdoms | Sengoku period | Sengoku | Viking Age — "An age of wars, not a single war."
+- Kaffir Wars | Kaffir War — "That old name is a slur. They are now named after the Xhosa people who fought them."
+- War of Succession | Wars of Succession | Succession War | Succession Wars — "Europe fought a long string of those. Name the throne at stake."
+- Second Cold War | Cold War II | Cold War 2 | New Cold War | Cold War 2.0 — "A name for today's rivalries, not a war that has been fought."
+- Greek War | Greek Wars — "Greece has fought a great many wars. Give this one its full name."
+- Roman War | Roman Wars — "Rome fought hundreds of wars. Give this one its full name."
+- Eureka Stockade | Eureka Rebellion | Battle of the Eureka Stockade — "A rebellion crushed in a single morning in 1854, not a war."
+- War of the Worlds | War of the Ring | War of the Five Kings | Dance of the Dragons | Time War | Infinity War | Kree–Skrull War | Dominion War | Wizarding War | Robot Wars | Game of Thrones | Hunger Games | Battle of Hogwarts | Call of Duty | Gears of War | World of Warcraft | Warcraft | Halo — "A war of fiction, not of history."
+- Prague Spring — "A season of reform, ended by invasion in 1968. No war was fought."
+- Venezuela war | US–Venezuela war | Invasion of Venezuela | Venezuela | Operation Absolute Resolve | US intervention in Venezuela | United States intervention in Venezuela — "A raid and an intervention, not a named war."
+- Rum Rebellion — "A coup against Governor Bligh in Sydney in 1808, won without a battle. Not a war."
+- Castle Hill rebellion | Castle Hill convict rebellion | Battle of Vinegar Hill | Vinegar Hill — "A convict rising of 1804, put down within days. Not a war."
+- Viet Cong | Tamil Tigers | Khmer Rouge | Taliban | Al-Qaeda | Irish Republican Army | Provisional IRA | Nazis | Nazi Germany | Allies | Axis | Confederacy | Confederates | Roundheads | Cavaliers | Yorkists | Lancastrians | Mujahideen | Red Army | NATO | Anzacs | Diggers — "A side in a war, not the war. Name the war it fought."

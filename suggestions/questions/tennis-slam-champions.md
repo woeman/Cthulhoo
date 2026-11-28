@@ -1,0 +1,423 @@
+# Name a player who has won a Grand Slam singles title in tennis.
+
+Question id: `tennis-slam-champions` · category: sport · source: `data/sport.json`
+
+Rules: Men's or women's singles at any of the four majors, from 1877 to today, amateur days included. Wheelchair singles count, and so do the early French Championships that only French clubs could enter.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (338 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Roger Federer — Fed | FedEx | King Roger | Fedrer | Feder | Roger | Federer
+- Rafael Nadal — Rafa | Rafa Nadal | King of Clay | Nadal
+- Novak Djokovic — Nole | Djoker | Novak Djokovich | Novak | Djokovic
+- Andy Murray — Sir Andy Murray | Muzza | Murray
+- Serena Williams — Serena | Williams
+- Venus Williams — Venus
+- Pete Sampras — Pistol Pete | Sampras
+- Andre Agassi — Agassi
+- Björn Borg — Ice Borg | Borg
+- John McEnroe — Johnny Mac | Mac | Superbrat | John MacEnroe | McEnroe
+- Steffi Graf — Stefanie Graf | Steffi | Graf
+- Martina Navratilova — Navratilova | Martina
+- Carlos Alcaraz — Carlitos Alcaraz | Carlitos | Alcaraz
+- Jannik Sinner — Sinner
+- Emma Raducanu — Raducanu
+
+### Tier 2: common (32)
+
+- Fred Perry — Perry
+- Virginia Wade — Wade
+- Chris Evert — Chris Evert Lloyd | Chrissie Evert | Chrissie | Christine Evert | Evert
+- Billie Jean King — Billie Jean | BJK | Billie Jean Moffitt | Billie Jean Moffitt King | King
+- Boris Becker — Boom Boom Becker | Becker
+- Jimmy Connors — Jimbo | Jimmy Conners | Connors
+- Ivan Lendl — Lendl
+- Stefan Edberg — Edberg
+- Mats Wilander — Wilander
+- Rod Laver — Rocket Rod | The Rocket | Laver
+- Arthur Ashe — Ashe
+- Margaret Court — Margaret Smith Court | Margaret Smith | Court
+- Evonne Goolagong — Evonne Goolagong Cawley | Evonne Cawley | Goolagong | Cawley
+- Maria Sharapova — Masha Sharapova | Sharapova
+- Monica Seles — Seles
+- Martina Hingis — Swiss Miss | Hingis
+- Iga Świątek — Swiontek | Schwiontek | Iga | Świątek
+- Aryna Sabalenka — Sabalenka
+- Coco Gauff — Coco | Cori Gauff | Gauff
+- Naomi Osaka — Osaka
+- Ashleigh Barty — Ash Barty | Barty
+- Kim Clijsters — Clijsters
+- Justine Henin — Justine Henin-Hardenne | Henin
+- Stan Wawrinka — Stanislas Wawrinka | Stanimal | Stan the Man | Wawrinka
+- Lleyton Hewitt — Rusty Hewitt | Hewitt
+- Andy Roddick — Roddick
+- Goran Ivanišević — Ivanišević
+- Pat Cash — Cash
+- Daniil Medvedev — Medvedev
+- Elena Rybakina — Rybakina
+- Lindsay Davenport — Davenport
+- Jennifer Capriati — Capriati
+
+### Tier 3: known to fans (66)
+
+- Marat Safin — Safin
+- Juan Martín del Potro — Delpo | del Potro
+- Marin Čilić — Čilić
+- Dominic Thiem — Thiem
+- Alexander Zverev — Sascha Zverev | Sascha | Alex Zverev | Zverev
+- Patrick Rafter — Pat Rafter | Rafter
+- Michael Chang — Chang
+- Jim Courier — Courier
+- Gustavo Kuerten — Guga | Guga Kuerten | Kuerten
+- Yevgeny Kafelnikov — Evgeny Kafelnikov | Kafelnikov
+- Michael Stich — Stich
+- Richard Krajicek — Krajicek
+- Ilie Năstase — Nasty Nastase | Năstase
+- Guillermo Vilas — Vilas
+- Yannick Noah — Noah
+- Carlos Moyá — Moyá
+- Juan Carlos Ferrero — JC Ferrero | Ferrero
+- Thomas Muster — Muster
+- Ken Rosewall — Muscles Rosewall | Rosewall
+- Roy Emerson — Emerson
+- John Newcombe — Newk | Newcombe
+- Lew Hoad — Hoad
+- Bill Tilden — Big Bill Tilden | Big Bill | Tilden
+- Don Budge — Budge
+- René Lacoste — The Crocodile | Le Crocodile | Lacoste
+- Jack Kramer — Kramer
+- Pancho Gonzales — Pancho Gonzalez | Richard Gonzales | Gonzalez | Gonzales
+- Bobby Riggs — Riggs
+- Stan Smith — Smith
+- Arantxa Sánchez Vicario — Arantxa Sánchez | Sánchez Vicario
+- Gabriela Sabatini — Gaby Sabatini | Sabatini
+- Tracy Austin — Austin
+- Hana Mandlíková — Mandlíková
+- Jana Novotná — Novotná
+- Mary Pierce — Pierce
+- Amélie Mauresmo — Mauresmo
+- Li Na — Na Li | Li
+- Petra Kvitová — Kvitová | Petra
+- Victoria Azarenka — Vika Azarenka | Azarenka
+- Angelique Kerber — Kerber
+- Garbiñe Muguruza — Muguruza
+- Simona Halep — Halep
+- Caroline Wozniacki — Wozniacki
+- Sloane Stephens — Stephens
+- Bianca Andreescu — Andreescu
+- Madison Keys — Keys
+- Mirra Andreeva — Andreeva
+- Marion Bartoli — Bartoli
+- Samantha Stosur — Sam Stosur | Stosur
+- Sue Barker — Barker
+- Ana Ivanovic — Ivanovic
+- Svetlana Kuznetsova — Kuznetsova
+- Barbora Krejčíková — Krejčíková
+- Markéta Vondroušová — Vondroušová
+- Jeļena Ostapenko — Ostapenko
+- Sofia Kenin — Sonya Kenin | Kenin
+- Suzanne Lenglen — Lenglen
+- Helen Wills Moody — Helen Wills | Helen Moody | Wills | Moody
+- Maureen Connolly — Little Mo | Maureen Connolly Brinker | Connolly
+- Althea Gibson — Gibson
+- Maria Bueno — Bueno
+- Linda Nosková — Nosková
+- Conchita Martínez — Martínez
+- Francesca Schiavone — Schiavone
+- Flavia Pennetta — Pennetta
+- Alfie Hewett — Hewett
+
+### Tier 4: obscure (86)
+
+- Jan Kodeš — Kodeš
+- Sergi Bruguera — Bruguera
+- Andrés Gómez — Gómez
+- Gastón Gaudio — Gaudio
+- Albert Costa — Costa
+- Thomas Johansson — Johansson
+- Petr Korda — Korda
+- Johan Kriek — Kriek
+- Vitas Gerulaitis — Gerulaitis
+- Roscoe Tanner — Tanner
+- Manuel Orantes — Orantes
+- Adriano Panatta — Panatta
+- Andrés Gimeno — Gimeno
+- Manuel Santana — Manolo Santana | Santana
+- Tony Roche — Roche
+- Fred Stolle — Stolle
+- Neale Fraser — Fraser
+- Frank Sedgman — Sedgman
+- Tony Trabert — Trabert
+- Ashley Cooper
+- Alex Olmedo — Olmedo
+- Chuck McKinley — McKinley
+- Rafael Osuna — Osuna
+- Ellsworth Vines — Vines
+- Jean Borotra — The Bounding Basque | Borotra
+- Henri Cochet — Cochet
+- Jack Crawford — Crawford
+- Gottfried von Cramm — von Cramm | Cramm
+- Jaroslav Drobný — Drobný
+- Vic Seixas — Seixas
+- Budge Patty — Patty
+- Dick Savitt — Savitt
+- Ted Schroeder — Schroeder
+- Frank Parker — Parker
+- Mark Edmondson — Edmondson
+- Brian Teacher — Teacher
+- Bill Johnston — Little Bill Johnston | Johnston
+- William Renshaw — Willie Renshaw | Renshaw
+- Ernest Renshaw
+- Laurence Doherty — Laurie Doherty | Doherty
+- Reginald Doherty — Reggie Doherty
+- Anthony Wilding — Tony Wilding | Wilding
+- Norman Brookes — Brookes
+- Mal Anderson — Malcolm Anderson | Anderson
+- Mervyn Rose — Rose
+- Ken McGregor — McGregor
+- Nicola Pietrangeli — Pietrangeli
+- Bill Bowrey
+- Richard Sears — Sears
+- Iva Majoli — Majoli
+- Anastasia Myskina — Myskina
+- Mima Jaušovec — Jaušovec
+- Virginia Ruzici — Ruzici
+- Chris O'Neil — O'Neil
+- Barbara Jordan — Jordan
+- Kerry Melville Reid — Kerry Reid | Kerry Melville | Melville
+- Nancy Richey — Nancy Richey Gunter | Richey
+- Ann Jones — Ann Haydon Jones | Ann Haydon | Jones | Haydon
+- Angela Mortimer — Angela Mortimer Barrett | Angela Barrett | Mortimer
+- Christine Truman — Christine Truman Janes | Christine Janes | Truman
+- Françoise Dürr — Dürr
+- Lesley Turner Bowrey — Lesley Turner | Lesley Bowrey | Bowrey | Turner
+- Darlene Hard — Hard
+- Doris Hart — Hart
+- Louise Brough — Louise Brough Clapp | Brough
+- Shirley Fry — Shirley Fry Irvin | Fry
+- Margaret Osborne duPont — Margaret duPont | Margaret Osborne | duPont | Osborne
+- Pauline Betz — Pauline Betz Addie | Betz
+- Alice Marble — Marble
+- Helen Jacobs — Jacobs
+- Dorothy Round — Dorothy Round Little | Round
+- Kitty Godfree — Kathleen McKane Godfree | Kitty McKane | Kathleen McKane | Kathleen Godfree | Kitty McKane Godfree | Godfree | McKane
+- Charlotte Cooper — Charlotte Cooper Sterry | Charlotte Sterry | Chattie Cooper | Cooper | Sterry
+- Maud Watson — Watson
+- Dorothea Lambert Chambers — Dorothea Douglass | Dorothea Chambers | Dorothea Douglass Lambert Chambers | Lambert Chambers | Chambers | Douglass
+- May Sutton — May Sutton Bundy | May Bundy | Sutton | Bundy
+- Molla Mallory — Molla Bjurstedt Mallory | Molla Bjurstedt | Mallory | Bjurstedt
+- Hazel Hotchkiss Wightman — Hazel Wightman | Hazel Hotchkiss | Wightman | Hotchkiss
+- Karen Hantze Susman — Karen Susman | Karen Hantze | Susman | Hantze
+- Shirley Bloomer — Shirley Bloomer Brasher | Shirley Brasher | Bloomer | Brasher
+- Zsuzsa Körmöczy — Körmöczy
+- Gordon Reid — Reid
+- Shingo Kunieda — Kunieda
+- Esther Vergeer — Vergeer
+- Diede de Groot — de Groot
+- Dylan Alcott — Alcott
+
+### Tier 5: expert (137)
+
+- Arthur Gore — Arthur Wentworth Gore | Gore
+- Frank Hadow — Hadow
+- John Hartley — Hartley
+- Herbert Lawford — Lawford
+- Willoughby Hamilton — Hamilton
+- Wilfred Baddeley — Baddeley
+- Joshua Pim — Pim
+- Harold Mahony — Mahony
+- Gerald Patterson — Patterson
+- Sidney Wood — Wood
+- Yvon Petra
+- Bob Falkenburg — Falkenburg
+- Henry Slocum — Slocum
+- Oliver Campbell — Campbell
+- Robert Wrenn — Wrenn
+- Fred Hovey — Hovey
+- Malcolm Whitman — Whitman
+- William Larned — Bill Larned | Larned
+- Holcombe Ward — Ward
+- Beals Wright — Wright
+- William Clothier — Clothier
+- Maurice McLoughlin — McLoughlin
+- R. Norris Williams — Richard Norris Williams | Norris Williams | Dick Williams
+- Lindley Murray — R. Lindley Murray | Robert Lindley Murray
+- John Doeg — Doeg
+- Wilmer Allison — Allison
+- Don McNeill — McNeill
+- Joe Hunt — Joseph Hunt | Hunt
+- Arthur Larsen — Art Larsen | Larsen
+- Henner Henkel — Henkel
+- Marcel Bernard — Bernard
+- József Asbóth — Asbóth
+- Sven Davidson — Davidson
+- Rodney Heath — Heath
+- Horace Rice
+- Fred Alexander
+- James Cecil Parke — J. C. Parke | James Parke | Cecil Parke | Parke
+- Ernie Parker — Ernest Parker
+- Arthur O'Hara Wood
+- Pat O'Hara Wood — O'Hara Wood
+- Gordon Lowe — Lowe
+- Algernon Kingscote — Kingscote
+- Rhys Gemmell — Gemmell
+- James Anderson
+- John Hawkes — Hawkes
+- John Colin Gregory — Colin Gregory | Gregory
+- Edgar Moon — Moon
+- Adrian Quist — Quist
+- Vivian McGrath — McGrath
+- John Bromwich — Bromwich
+- Dinny Pails — Pails
+- H. Briggs — Briggs
+- Jean Schopfer — Schopfer
+- Laurent Riboulet — Riboulet
+- André Vacherot — Vacherot
+- Michel Vacherot
+- Paul Aymé — Aymé
+- Max Decugis — Decugis
+- Maurice Germot — Germot
+- André Gobert — Gobert
+- Jean Samazeuilh — Samazeuilh
+- François Blanchy — Blanchy
+- Blanche Bingley — Blanche Bingley Hillyard | Blanche Hillyard | Hillyard | Bingley
+- Lena Rice — Helen Rice | Rice
+- Muriel Robb — Robb
+- Dora Boothby — Boothby
+- Ethel Thomson Larcombe — Ethel Larcombe | Ethel Thomson | Larcombe | Thomson
+- Cilly Aussem — Aussem
+- Ellen Hansell — Hansell
+- Bertha Townsend — Townsend
+- Ellen Roosevelt — Roosevelt
+- Mabel Cahill — Cahill
+- Aline Terry — Terry
+- Helen Hellwig — Hellwig
+- Juliette Atkinson — Atkinson
+- Elisabeth Moore — Moore
+- Marion Jones
+- Myrtle McAteer — McAteer
+- Helen Homans — Homans
+- Evelyn Sears
+- Maud Barger-Wallach — Barger-Wallach
+- Mary Browne — Browne
+- Betty Nuthall — Nuthall
+- Anita Lizana — Lizana
+- Sarah Palfrey Cooke — Sarah Palfrey | Sarah Cooke | Sarah Palfrey Fabyan | Palfrey | Cooke
+- Margaret Molesworth — Molesworth
+- Sylvia Lance Harper — Sylvia Harper | Sylvia Lance | Harper
+- Daphne Akhurst — Akhurst
+- Esna Boyd — Esna Boyd Robertson | Boyd
+- Coral Buttsworth — Coral McInnes Buttsworth | Coral McInnes | Buttsworth
+- Joan Hartigan — Hartigan
+- Nancye Wynne Bolton — Nancye Bolton | Nancye Wynne | Bolton | Wynne
+- Dorothy Bundy Cheney — Dorothy Bundy | Dorothy Cheney | Dodo Cheney | Cheney
+- Emily Hood Westacott — Emily Westacott | Emily Hood | Westacott
+- Thelma Coyne Long — Thelma Long | Thelma Coyne | Long | Coyne
+- Beryl Penrose — Penrose
+- Mary Carter Reitano — Mary Reitano | Mary Carter | Reitano
+- Kornelia Bouman — Bouman
+- Peggy Scriven — Peggy Scriven Vivian | Margaret Scriven | Scriven
+- Hilde Krahwinkel Sperling — Hilde Sperling | Hilde Krahwinkel | Sperling | Krahwinkel
+- Simonne Mathieu — Simonne Passemard Mathieu | Mathieu
+- Patricia Canning Todd — Pat Todd | Patricia Todd | Todd
+- Nelly Landry — Landry
+- Adine Masson — Masson
+- Yvonne Prévost — Prévost
+- Suzanne Girod — Girod
+- Kate Gillou — Kate Gillou-Fenwick | Kate Fenwick | Gillou | Fenwick
+- Comtesse de Kermel — Countess de Kermel | de Kermel
+- Jeanne Matthey — Matthey
+- Marguerite Broquedis — Broquedis
+- Julie Vlasto — Vlasto
+- Robin Ammerlaan — Ammerlaan
+- David Hall — Hall
+- Michaël Jérémiasz — Jérémiasz
+- Maikel Scheffers — Scheffers
+- Stéphane Houdet — Houdet
+- Gustavo Fernández
+- Stefan Olsson — Olsson
+- Joachim Gérard — Gérard
+- Tokito Oda — Oda
+- Yui Kamiji — Kamiji
+- Jiske Griffioen — Griffioen
+- Aniek van Koot — van Koot
+- Sabine Ellerbrock — Ellerbrock
+- Korie Homan — Homan
+- Mie Yaosa — Yaosa
+- Marjolein Buis — Buis
+- Jordanne Whiley — Whiley
+- Wang Ziying — Ziying Wang
+- Li Xiaohui — Xiaohui Li
+- Peter Norfolk — Norfolk
+- David Wagner — Wagner
+- Lucas Sithole — Sithole
+- Andy Lapthorne — Lapthorne
+- Sam Schröder — Schröder
+- Niels Vink — Vink
+- Guy Sasson — Sasson
+
+### Tier 6: rare jackpots (2)
+
+- Lottie Dod — Charlotte Dod | Dod
+- Spencer Gore
+
+## Refused on purpose (51)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Pete | Rafael | Andre | Boris | Bjorn | Monica | Aryna | Naomi | Ashleigh | Ash | Emma | Jannik | Rod | Roy | Ken | Lew | Fred | John | Jimmy | Jim | Ivan | Stefan | Mats | Lleyton | Goran | Daniil | Kim | Justine | Arantxa | Gabriela | Lindsay | Jennifer | Amelie | Svetlana | Victoria | Angelique | Simona | Caroline | Sloane | Bianca | Sofia | Barbora | Marketa | Madison | Linda | Evonne | Tracy | Sue | Chris | Billie | Michael | Pat | Patrick | Marat | Stan | Dominic | Alexander | Bill | Jack | Frank | Arthur | Tony | Don | Helen | Alfie | Shingo | Esther | Diede | Dylan | Gordon | Juan | Jelena | Maria | Andy | Carlos | Virginia | Margaret | Pancho | Lottie | Suzanne | Maureen | Althea | Mima | Iva | Jana | Conchita | Marion | Flavia | Francesca | Samantha | Ana | Anastasia | Kerry | Nancy | Ann | Darlene | Doris | Louise | Shirley | Angela | Christine | Pauline | Alice | Dorothy | Charlotte | Maud | Ilie | Guillermo | Yannick | Richard | Gustavo | Yevgeny | Spencer | Jean | Bobby | Neale | Manuel | Andres | Jan | Sergi | Roscoe | Brian | Adriano | Ashley | Chuck | Vic | Ted | Dick | Jaroslav | Mervyn | Mal | Nicola | Gottfried | Barbara | Kitty — "First names won't do here. The deep wants a surname."
+- Williams sisters — "That's two champions at once. Name one of them."
+- Tim Henman | Henman | Tiger Tim | Henman Hill — "Six Grand Slam semi-finals, but never a final."
+- Greg Rusedski | Rusedski — "Runner-up at the 1997 US Open, but never a champion."
+- Kevin Anderson — "Twice a Grand Slam runner-up, never a champion."
+- Casper Ruud | Ruud — "Three Grand Slam finals, no title."
+- Stefanos Tsitsipas | Tsitsipas — "Twice a Grand Slam runner-up, never a champion."
+- Taylor Fritz | Fritz — "Runner-up at the 2024 US Open, but no title."
+- Ben Shelton | Shelton — "Runner-up at the 2026 US Open, but no title yet."
+- Flavio Cobolli | Cobolli — "Runner-up at the 2026 French Open, but no title yet."
+- Jack Draper | Draper | Holger Rune | Andrey Rublev | Grigor Dimitrov | Hubert Hurkacz | Alex de Minaur | Felix Auger-Aliassime | Gael Monfils | Richard Gasquet | Cameron Norrie | Lorenzo Musetti | Norrie | Rublev | de Minaur | Dimitrov | Hurkacz | Rune | Musetti | Monfils | Gasquet | Auger-Aliassime | FAA — "No Grand Slam singles title, at least not yet."
+- Matteo Berrettini | Berrettini — "Runner-up at Wimbledon in 2021, but never a champion."
+- Nick Kyrgios | Kyrgios — "Runner-up at Wimbledon in 2022, but never a champion."
+- David Ferrer | Ferrer — "Runner-up at the 2013 French Open, but never a champion."
+- Marcelo Ríos | Rios — "Reached world No. 1 without ever winning a Grand Slam."
+- Tomáš Berdych | Berdych — "Runner-up at Wimbledon in 2010, but never a champion."
+- Robin Söderling | Soderling — "Twice runner-up in Paris, never a champion."
+- Milos Raonic | Raonic — "Runner-up at Wimbledon in 2016, but never a champion."
+- Kei Nishikori | Nishikori — "Runner-up at the 2014 US Open, but never a champion."
+- Jo-Wilfried Tsonga | Tsonga — "Runner-up at the 2008 Australian Open, but never a champion."
+- Marcos Baghdatis | Baghdatis — "Runner-up at the 2006 Australian Open, but never a champion."
+- Mark Philippoussis | Philippoussis | Scud — "Twice a Grand Slam runner-up, never a champion."
+- Cédric Pioline | Pioline — "Twice a Grand Slam runner-up, never a champion."
+- Àlex Corretja | Corretja — "Twice runner-up in Paris, never a champion."
+- Guillermo Coria | Coria — "Runner-up in Paris in 2004, but never a champion."
+- David Nalbandian | Nalbandian — "Runner-up at Wimbledon in 2002, but never a champion."
+- Fernando González — "Runner-up at the 2007 Australian Open, but never a champion."
+- Bunny Austin — "Twice a Wimbledon runner-up in the 1930s, never a champion."
+- Pancho Segura | Segura — "Won the professional majors of his day, but never one of the four Slams."
+- Dinara Safina | Safina — "World No. 1 and three times a runner-up, but never a champion."
+- Jelena Janković | Jankovic — "World No. 1, but never a Grand Slam champion."
+- Anna Kournikova | Kournikova — "Famous, but she never won a singles title on the main tour."
+- Jasmine Paolini | Paolini — "Runner-up twice in 2024, but no title yet."
+- Ons Jabeur | Jabeur — "Three Grand Slam finals, no title."
+- Karolína Plíšková | Pliskova — "Twice a Grand Slam runner-up, never a champion."
+- Karolína Muchová | Muchova — "Twice a Grand Slam runner-up, never a champion."
+- Leylah Fernandez — "Runner-up at the 2021 US Open, but no title yet."
+- Mary Joe Fernández | Mary Joe — "Three times a Grand Slam singles runner-up, but never the singles champion."
+- Fernandez — "Leylah and Mary Joe Fernández reached finals but never won one. Give a first name too."
+- Amanda Anisimova | Anisimova — "Runner-up at Wimbledon and the US Open in 2025, but no title yet."
+- Jessica Pegula | Pegula — "Runner-up at the 2024 US Open, but no title yet."
+- Maja Chwalińska | Chwalinska — "Reached the 2026 French Open final as a qualifier, but lost it."
+- Elena Dementieva | Dementieva — "Twice a Grand Slam runner-up, never a champion."
+- Vera Zvonareva | Zvonareva — "Twice a Grand Slam runner-up in 2010, never a champion."
+- Agnieszka Radwańska | Radwanska — "Runner-up at Wimbledon in 2012, but never a champion."
+- Eugenie Bouchard | Bouchard — "Runner-up at Wimbledon in 2014, but never a champion."
+- Johanna Konta | Konta — "Three Grand Slam semi-finals, but never a final."
+- Helena Suková | Sukova — "Four times a Grand Slam runner-up, never a champion."
+- Elizabeth Ryan | Ryan — "Won 19 Wimbledon titles, every one of them in doubles."
+- Jamie Murray | Bob Bryan | Mike Bryan | Bryan brothers | Todd Woodbridge | Mark Woodforde | Leander Paes | Mahesh Bhupathi | Sania Mirza | Pam Shriver | Joe Salisbury | Neal Skupski | Rohan Bopanna | Katerina Siniakova | Hsieh Su-wei | Rennae Stubbs | Gigi Fernandez — "A doubles champion. Only singles titles count here."
+- Bernard Destremau | Destremau — "Won the French title in 1941, under the occupation. Those wartime years don't count."

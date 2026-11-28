@@ -1,0 +1,400 @@
+# Name a hero or heroine of Greek myth.
+
+Question id: `greek-heroes` · category: myth · source: `data/myth.json`
+
+Rules: Any mortal or demigod of Greek myth and epic, heroines and Trojans included. Gods, monsters, the bandits that heroes cut down, and real Greeks from history don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (329 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Heracles — Hercules | Herakles | Alcides | Herc
+- Achilles — Achilleus | Akhilleus | Achillies | Akilles
+- Odysseus — Ulysses | Ulixes | Odysseas
+- Perseus — Pereus
+- Theseus
+- Jason — Iason
+- Hector — Hektor
+- Helen of Troy — Helen | Helen of Sparta | Helene
+- Orpheus — Orfeus
+- Icarus — Ikaros
+- Paris — Alexandros | Alexander
+
+### Tier 2: common (31)
+
+- Agamemnon
+- Menelaus — Menelaos
+- Patroclus — Patroklos
+- Aeneas — Aineias | Aeneus
+- Atalanta — Atalante
+- Penelope
+- Oedipus — Oidipous
+- Antigone
+- Medea — Medeia
+- Ariadne
+- Andromeda
+- Bellerophon — Bellerophontes
+- Cassandra — Kassandra
+- Priam — Priamos
+- Daedalus — Daidalos
+- Narcissus — Narkissos
+- Midas
+- Pandora
+- Electra — Elektra
+- Orestes
+- Telemachus — Telemachos
+- Castor — Kastor
+- Pollux — Polydeuces | Polydeukes
+- Hippolyta — Hippolyte
+- Eurydice — Eurydike
+- Sisyphus — Sisyphos
+- Tantalus — Tantalos
+- Clytemnestra — Klytaimnestra | Clytaemnestra | Clytemnestre
+- Iphigenia — Iphigeneia
+- Ajax the Great — Telamonian Ajax | Great Ajax | Ajax Telamon | Ajax son of Telamon | Big Ajax | Ajax the Greater | Ajax | Aias | Ajax Major
+- Hero
+
+### Tier 3: known to fans (59)
+
+- Nestor
+- Diomedes — Diomede
+- Philoctetes — Philoktetes
+- Neoptolemus — Neoptolemos | Pyrrhus
+- Andromache
+- Hecuba — Hekabe | Hecabe
+- Peleus
+- Telamon
+- Meleager — Meleagros
+- Cadmus — Kadmos
+- Pelops
+- Atreus
+- Minos
+- Phaedra — Phaidra
+- Hippolytus — Hippolytos
+- Europa
+- Danaë
+- Io
+- Leda
+- Alcestis
+- Laertes
+- Nausicaa — Nausikaa
+- Pygmalion
+- Arachne
+- Phaethon — Phaeton
+- Adonis
+- Ganymede — Ganymedes
+- Endymion
+- Hyacinthus — Hyakinthos | Hyacinth
+- Actaeon — Aktaion
+- Tiresias — Teiresias
+- Jocasta — Iocaste | Jocaste | Epicaste
+- Creon
+- Ismene
+- Polynices — Polyneices | Polyneikes
+- Deianira — Deianeira | Dejanira
+- Iolaus — Iolaos
+- Hylas
+- Pirithous — Peirithous | Perithous
+- Penthesilea — Penthesileia
+- Sarpedon
+- Troilus — Troilos
+- Briseis
+- Leander — Leandros
+- Deucalion — Deukalion
+- Orion
+- Ixion
+- Alcmene — Alcmena | Alkmene
+- Eurystheus
+- Aegeus — Aigeus
+- Niobe
+- Aegisthus — Aigisthos
+- Anchises
+- Laocoon — Laokoon
+- Psyche
+- Dioscuri — Castor and Pollux | Castor and Polydeuces | Tyndaridae | Gemini
+- Megara — Meg
+- Daphne
+- Cassiopeia — Cassiopea | Kassiopeia | Cassiope
+
+### Tier 4: obscure (81)
+
+- Ajax the Lesser — Locrian Ajax | Lesser Ajax | Little Ajax | Oilean Ajax | Ajax son of Oileus | Ajax Minor | Ajax the Locrian | Ajax Oileus
+- Teucer — Teukros | Teucros
+- Idomeneus
+- Palamedes
+- Antilochus — Antilochos
+- Protesilaus — Protesilaos
+- Thersites
+- Sinon
+- Glaucus — Glaukos
+- Pandarus — Pandaros
+- Deiphobus — Deiphobos
+- Helenus — Helenos
+- Astyanax — Scamandrius
+- Memnon
+- Polyxena — Polyxene
+- Chryseis
+- Zetes
+- Calais — Kalais
+- Argus
+- Lynceus — Lynkeus
+- Admetus — Admetos
+- Augeas — Augeias
+- Calchas — Kalchas
+- Amphiaraus — Amphiaraos
+- Melampus — Melampous
+- Adrastus — Adrastos
+- Tydeus
+- Haemon
+- Eteocles — Eteokles
+- Laius — Laios
+- Amphion
+- Pentheus — Penthes
+- Thyestes
+- Pylades
+- Hippodamia — Hippodameia
+- Acrisius — Akrisios
+- Amphitryon
+- Hyllus — Hyllos
+- Omphale
+- Erechtheus
+- Cecrops
+- Procne — Prokne
+- Philomela
+- Cephalus — Kephalos
+- Procris — Prokris
+- Pasiphae
+- Rhadamanthus — Rhadamanthys
+- Pelias
+- Aeetes — Aietes
+- Phrixus — Phrixos
+- Helle
+- Ino
+- Galatea — Galateia
+- Callisto — Kallisto
+- Semele
+- Pyrrha
+- Tithonus — Tithonos
+- Hippomenes — Melanion | Milanion
+- Oeneus
+- Althaea — Althaia
+- Antiope
+- Hermione
+- Creusa — Kreousa
+- Eumaeus — Eumaios
+- Eurycleia — Eurykleia | Euryclea
+- Alcinous — Alkinoos
+- Mentor
+- Elpenor
+- Ascanius — Iulus
+- Laomedon
+- Asclepius — Asklepios | Aesculapius
+- Aristaeus
+- Laodamia — Laodameia
+- Polites
+- Eurylochus — Eurylochos
+- Antinous
+- Cepheus — Kepheus
+- Tyndareus — Tyndareos | Tyndarus
+- Aeacus — Aiakos | Aeakos
+- Agave — Agaue
+- Meriones
+
+### Tier 5: expert (145)
+
+- Machaon
+- Podalirius
+- Menestheus
+- Automedon
+- Phoenix
+- Eurypylus
+- Epeius — Epeios | Epeus
+- Antenor
+- Dolon
+- Rhesus — Rhesos
+- Polydorus — Polydoros
+- Hesione
+- Tros
+- Ilus — Ilos
+- Dardanus — Dardanos
+- Cycnus — Kyknos
+- Chryses
+- Tiphys
+- Idas
+- Idmon
+- Mopsus
+- Euphemus — Euphemos
+- Periclymenus — Periklymenos
+- Ancaeus — Ankaios
+- Acastus — Akastos
+- Butes
+- Oileus
+- Nauplius — Nauplios
+- Poeas — Poias
+- Capaneus — Kapaneus
+- Parthenopaeus — Parthenopaios
+- Hippomedon
+- Zethus — Zethos
+- Menoeceus — Menoikeus
+- Dirce
+- Alcmaeon — Alkmaion | Alcmeon
+- Eriphyle
+- Oenomaus — Oinomaos
+- Myrtilus — Myrtilos
+- Chrysothemis
+- Proetus — Proitos
+- Danaus — Danaos
+- Hypermnestra — Hypermestra
+- Electryon
+- Iphicles — Iphikles
+- Polydectes — Polydektes
+- Dictys
+- Aethra
+- Erichthonius — Erichthonios
+- Pandion
+- Perdix
+- Demophon
+- Acamas
+- Androgeus
+- Catreus
+- Glauce
+- Aeson
+- Athamas — Athamus
+- Salmoneus
+- Tyro
+- Iole
+- Telephus — Telephos
+- Lichas
+- Abderus
+- Anticlea — Antikleia | Anticleia
+- Arete
+- Demodocus — Demodokos
+- Autolycus — Autolykos
+- Phineus
+- Apsyrtus — Absyrtus | Apsyrtos
+- Hypsipyle
+- Otrera
+- Melanippe
+- Linus
+- Arion
+- Musaeus — Musaios
+- Pyramus
+- Thisbe
+- Ceyx — Keyx
+- Alcyone — Halcyone | Alkyone
+- Baucis
+- Philemon
+- Cleobis and Biton — Kleobis and Biton | Cleobis | Biton
+- Hermaphroditus — Hermaphroditos
+- Iphis
+- Myrrha — Smyrna
+- Cinyras — Kinyras
+- Icarius
+- Erigone
+- Coronis — Koronis
+- Marpessa
+- Cyparissus — Kyparissos
+- Tereus
+- Lycaon — Lykaon
+- Agenor
+- Hellen
+- Caeneus — Kaineus | Caenis | Kainis
+- Proteus
+- Neleus
+- Pittheus
+- Euryalus — Euryalos
+- Eurymachus — Eurymachos
+- Amphinomus — Amphinomos
+- Melanthius — Melanthios
+- Melantho
+- Phemius — Phemios
+- Philoetius — Philoitios
+- Theoclymenus — Theoklymenos
+- Polydamas — Poulydamas
+- Sthenelus — Sthenelos
+- Tlepolemus — Tlepolemos
+- Nireus
+- Thoas
+- Cebriones — Kebriones
+- Aesacus — Aisakos
+- Theano
+- Laodice — Laodike
+- Eudorus — Eudoros
+- Cyzicus — Kyzikos
+- Iphitus — Iphitos
+- Eurytus — Eurytos
+- Ion
+- Xuthus — Xouthos
+- Orithyia — Oreithyia
+- Arcas — Arkas
+- Erysichthon
+- Acis — Akis
+- Chrysippus — Chrysippos
+- Aerope
+- Strophius
+- Lycomedes — Lykomedes
+- Deidamia — Deidameia
+- Stheneboea — Anteia | Sthenoboea
+- Iobates
+- Phyllis
+- Canace — Kanake
+- Cydippe
+- Acontius — Akontios
+- Oenone — Oinone
+- Thersander
+- Aegialeus
+- Nisus — Nisos
+- Lycus — Lykos
+- Lycurgus — Lykourgos
+- Evander — Evandros | Euandros
+
+### Tier 6: rare jackpots (2)
+
+- Thamyris — Thamyras
+- Euphorbus — Euphorbos
+
+## Refused on purpose (37)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Zeus | Hera | Poseidon | Hades | Athena | Apollo | Artemis | Ares | Aphrodite | Hermes | Hephaestus | Dionysus | Demeter | Hestia | Persephone | Eros | Hecate | Pan — "A god. Heroes had the inconvenience of being mortal."
+- Prometheus — "A Titan, not a mortal, though he did more for mortals than most."
+- Medusa | Gorgon | Minotaur | Hydra | Cerberus | Chimera | Sphinx | Cyclops | Scylla | Charybdis | Typhon | Harpy | Siren | Sirens | Nemean Lion | Python | Ladon | Geryon | Talos | Antaeus | Echidna | Asterion | Asterius — "A monster to be slain, not one of the slayers."
+- Polyphemus — "The Cyclops Odysseus blinded. Monstrous, and on the wrong side of the story."
+- Pegasus — "A winged horse, and a fine one, but a horse."
+- Chiron | Cheiron — "A centaur who taught the heroes, but was never one of them."
+- Circe | Calypso — "An immortal enchantress, not a mortal heroine."
+- Echo — "A nymph, not a mortal. Only her voice was left."
+- Procrustes | Sinis | Sciron | Skiron | Cercyon | Periphetes — "A bandit who met Theseus on the road to Athens, and came off worse."
+- Argos — "Odysseus's faithful old dog, or a city. Neither counts."
+- Argo — "The ship, not a sailor."
+- Trojan Horse | Wooden Horse — "The trick, not the man who thought of it."
+- Argonauts | Argonaut — "Which Argonaut? There were about fifty."
+- Amazons | Amazon — "Which Amazon?"
+- Myrmidons | Myrmidon — "Achilles's men, as a whole. Name one."
+- Leonidas — "A real king of Sparta. Legendary, but not from myth."
+- Homer | Hesiod | Sophocles | Euripides | Aeschylus | Ovid | Virgil — "The poet who told their stories, not one of the heroes."
+- Romulus | Remus | Turnus | Camilla | Lavinia | Dido — "From Rome's legends, not Greece's."
+- Kratos — "A video game's Spartan, or the god of strength. Neither counts here."
+- Percy Jackson | Percy — "A modern demigod, from the novels."
+- Xena — "A warrior princess from 1990s television."
+- Wonder Woman | Diana Prince — "An Amazon from American comics."
+- Cthulhu — "A monster from H. P. Lovecraft's stories, not from Greek myth."
+- Alexander the Great | Pericles | Themistocles | Pheidippides | Philippides | Archimedes | Socrates | Plato | Aristotle | Pythagoras | Solon | Diogenes | Sappho | Herodotus | Hippocrates — "A real Greek from history, not from myth."
+- Spartacus — "A real gladiator who fought Rome, and no Greek."
+- Atlas | Cronus | Kronos | Epimetheus | Titan | Titans | Hyperion | Oceanus | Rhea | Themis | Mnemosyne — "A Titan, not a mortal."
+- Centaurs | Centaur | Nessus | Pholus — "Half horse, and counted with the monsters here."
+- Morpheus — "A god of dreams, not a mortal."
+- Selene — "A goddess: the Moon herself."
+- Nereus — "A sea god, father of the sea nymphs."
+- Charon — "The ferryman of the dead, and no mortal."
+- Thetis — "A sea goddess, though she married a mortal and bore a hero."
+- Aesop — "A teller of fables, remembered as a real man, not a hero of myth."
+- Tartarus — "The pit beneath the underworld, not a person."
+- Bucephalus — "Alexander the Great's horse: real, and a horse."
+- Troy | Athens | Sparta | Ithaca | Mycenae | Ilium — "A city, not a hero."
+- Cressida | Criseyde | Criseida — "Added to the tale of Troy in the Middle Ages, so not Greek myth."

@@ -1,0 +1,458 @@
+# Name an ancient civilisation.
+
+Question id: `ancient-civilisations` · category: history · source: `data/history.json`
+
+Rules: Any civilisation, culture or people of the ancient world before about AD 500, plus those of the Americas, Africa, Asia and Oceania that flourished before about 1500. Peoples of legend and fiction don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (399 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Ancient Egypt — Egyptians | Ancient Egyptians | Egypt | Egyptian | Kemet | Egyptian civilisation | Ancient Egyptian civilisation | Ancient Egyptian | Ancient Kemet | Egypt civilisation | Kemet civilisation
+- Ancient Rome — Romans | Ancient Romans | Rome | Roman | Roman Empire | Roman Republic | Roman civilisation | Ancient Roman | Rome civilisation | Roma Empire
+- Ancient Greece — Greeks | Ancient Greeks | Greece | Greek | Hellenes | Hellenistic Greeks | Greek civilisation | Greek Empire | Hellenistic | Hellenistic civilisation | Classical Greece | Ancient Greek | Ancient Hellenes | Ancient Hellenistic Greeks | Ancient Hellenistic | Ancient Classical Greece | Greece civilisation | Hellenes civilisation
+- Maya — Mayans | Mayan | Maya civilisation | Ancient Maya | Ancient Mayans | Ancient Mayas | Ancient Mayan | Mayan civilisation
+- Aztecs — Aztec | Mexica | Aztec Empire | Ancient Aztecs | Aztec civilisation | Ancient Aztec | Ancient Mexica | Mexica civilisation
+- Incas — Inca | Inka | Incan | Inca Empire | Tawantinsuyu | Ancient Incas | Inca civilisation | Incan civilisation | Quechua | Ancient Inca | Ancient Inka | Ancient Incan | Ancient Tawantinsuyu | Ancient Quechua | Inka civilisation | Tawantinsuyu civilisation | Quechua civilisation
+- Sumer — Sumerians | Sumerian | Ancient Sumer | Ancient Sumerians | Sumerian civilisation | Ancient Sumerian | Sumer civilisation
+
+### Tier 2: common (21)
+
+- Babylonians — Babylon | Babylonia | Babylonian | Ancient Babylon | Ancient Babylonians | Babylonian civilisation | Babylonian Empire | Chaldeans | Chaldea | Neo-Babylonians | Neo-Babylonian Empire | Ancient Babylonia | Ancient Babylonian | Ancient Chaldeans | Ancient Chaldea | Ancient Neo-Babylonians | Babylon civilisation | Babylonia civilisation | Chaldeans civilisation | Chaldea civilisation | Neo-Babylonians civilisation
+- Assyrians — Assyria | Assyrian | Assyrian Empire | Ancient Assyria | Ancient Assyrians | Assyrian civilisation | Neo-Assyrians | Ancient Assyrian | Ancient Neo-Assyrians | Assyria civilisation | Neo-Assyrians civilisation
+- Persians — Persia | Persian Empire | Achaemenids | Achaemenid Empire | Ancient Persia | Persian civilisation | Ancient Persians | Ancient Achaemenids | Persians civilisation | Persia civilisation | Achaemenids civilisation | Ancient Iran | Ancient Iranians
+- Ancient China — Chinese | China | Ancient Chinese | Zhou | Zhou dynasty | Qin | Qin dynasty | Han | Han dynasty | Han Chinese | Chinese civilisation | Xia | Imperial China | Tang dynasty | Tang | Song dynasty | Song | Yuan dynasty | Yuan | Ancient Zhou | Ancient Qin | Ancient Han | Ancient Han Chinese | Ancient Xia | Ancient Imperial China | Ancient Tang | Ancient Song | Ancient Yuan | China civilisation | Zhou civilisation | Qin civilisation | Han civilisation | Xia civilisation | Tang civilisation | Song civilisation | Yuan civilisation
+- Indus Valley Civilisation — Indus Valley | Indus Valley Civilization | Indus civilisation | Harappans | Harappan civilisation | Harappan | Meluhha | Indus | Ancient Indus Valley | Ancient Harappans | Ancient Harappan | Ancient Meluhha | Ancient Indus | Meluhha civilisation
+- Ancient India — India | Vedic civilisation | Vedic India | Vedic period | Indian civilisation | Vedic people | Indo-Aryans | Ancient Vedic India | Ancient Indo-Aryans | India civilisation | Indo-Aryans civilisation | Ancient Indians
+- Mesopotamia — Mesopotamians | Mesopotamian | Ancient Mesopotamia | Mesopotamian civilisation | Ancient Mesopotamians | Ancient Mesopotamian | Mesopotamia civilisation | Ancient Iraq
+- Phoenicians — Phoenicia | Phoenician | Ancient Phoenicians | Phoenician civilisation | Ancient Phoenicia | Ancient Phoenician | Phoenicia civilisation | Ancient Lebanon
+- Minoans — Minoan | Minoan civilisation | Ancient Minoans | Ancient Crete | Crete | Ancient Minoan | Crete civilisation
+- Mycenaeans — Mycenaean | Mycenaean Greeks | Mycenaean civilisation | Mycenae | Ancient Mycenae | Ancient Mycenaeans | Ancient Mycenaean | Ancient Mycenaean Greeks | Mycenae civilisation
+- Celts — Celtic | Celtic peoples | Kelts | Ancient Celts | Celtic civilisation | Ancient Celtic | Ancient Kelts | Celts civilisation | Kelts civilisation
+- Etruscans — Etruscan | Etruria | Ancient Etruscans | Etruscan civilisation | Ancient Etruscan | Ancient Etruria | Etruria civilisation
+- Hittites — Hittite | Hittite Empire | Hatti | Ancient Hittites | Hittite civilisation | Ancient Hittite | Ancient Hatti | Hatti civilisation
+- Olmecs — Olmec | Ancient Olmecs | Olmec civilisation | Ancient Olmec
+- Carthaginians — Carthage | Carthaginian | Punic | Ancient Carthage | Ancient Carthaginians | Carthaginian civilisation | Carthaginian Empire | Ancient Carthaginian | Ancient Punic | Carthage civilisation | Punic civilisation
+- Spartans — Sparta | Spartan | Ancient Sparta | Ancient Spartans | Ancient Spartan | Sparta civilisation | Spartan civilisation
+- Kush — Kushites | Nubians | Nubia | Kingdom of Kush | Kushite | Ancient Kush | Ancient Nubia | Meroë | Meroitic | Napata | Kushite civilisation | Ancient Kushites | Ancient Nubians | Ancient Kushite | Ancient Meroë | Ancient Meroitic | Ancient Napata | Kush civilisation | Nubians civilisation | Nubia civilisation | Meroë civilisation | Meroitic civilisation | Napata civilisation | Ancient Sudan
+- Huns — Hunnic | Hun | Ancient Huns | Hunnic Empire | Ancient Hunnic | Ancient Hun | Hunnic civilisation | Hun civilisation
+- Gauls — Gaul | Gallic | Ancient Gaul | Ancient Gauls | Ancient Gallic | Gaul civilisation | Gallic civilisation | Ancient France
+- Vandals — Vandal | Ancient Vandals | Ancient Vandal | Vandal civilisation
+- Ming — Ming dynasty | Ming China | Ming Empire | Ancient Ming | Ancient Ming China | Ming civilisation | Mign
+
+### Tier 3: known to fans (51)
+
+- Akkadians — Akkad | Akkadian Empire | Akkadian | Ancient Akkadians | Ancient Akkad | Ancient Akkadian | Akkad civilisation | Akkadian civilisation
+- Elamites — Elam | Elamite | Ancient Elamites | Ancient Elam | Ancient Elamite | Elam civilisation | Elamite civilisation
+- Medes — Median Empire | Media | Ancient Medes | Ancient Media | Medes civilisation | Media civilisation
+- Parthians — Parthia | Parthian Empire | Arsacids | Ancient Parthians | Ancient Parthia | Ancient Arsacids | Parthians civilisation | Parthia civilisation | Arsacids civilisation
+- Sassanids — Sasanians | Sassanian Empire | Sasanian Empire | Ancient Sassanids | Ancient Sasanians | Sassanids civilisation | Sasanians civilisation
+- Scythians — Scythia | Scythian | Saka | Sakas | Shakas | Sacae | Indo-Scythians | Ancient Scythians | Ancient Scythia | Ancient Scythian | Ancient Saka | Ancient Sakas | Ancient Shakas | Ancient Sacae | Ancient Indo-Scythians | Scythia civilisation | Scythian civilisation | Saka civilisation | Shakas civilisation | Sacae civilisation | Indo-Scythians civilisation
+- Israelites — Hebrews | Ancient Israelites | Kingdom of Israel | Ancient Israel | Kingdom of Judah | Judah | Judeans | Judaeans | Jews | Ancient Jews | Ancient Hebrews | Ancient Judah | Ancient Judeans | Ancient Judaeans | Israelites civilisation | Hebrews civilisation | Judah civilisation | Judeans civilisation | Judaeans civilisation | Jews civilisation
+- Canaanites — Canaan | Canaanite | Ancient Canaanites | Ancient Canaan | Ancient Canaanite | Canaan civilisation | Canaanite civilisation
+- Philistines — Philistine | Philistia | Ancient Philistines | Ancient Philistine | Ancient Philistia | Philistine civilisation | Philistia civilisation
+- Nabataeans — Nabateans | Nabataea | Nabatean | Ancient Nabataeans | Ancient Nabateans | Ancient Nabataea | Ancient Nabatean | Nabataeans civilisation | Nabataea civilisation | Nabatean civilisation
+- Sabaeans — Saba | Sheba | Kingdom of Saba | Kingdom of Sheba | Ancient Sabaeans | Ancient Saba | Ancient Sheba | Sabaeans civilisation | Saba civilisation | Sheba civilisation
+- Trojans — Troy | Trojan | Ancient Trojans | Ancient Troy | Ancient Trojan | Troy civilisation | Trojan civilisation
+- Athenians — Athens | Athenian | Ancient Athenians | Ancient Athens | Ancient Athenian | Athens civilisation | Athenian civilisation
+- Macedonians — Macedon | Macedonia | Ancient Macedonians | Macedonian Empire | Ancient Macedon | Ancient Macedonia | Macedonians civilisation | Macedon civilisation | Macedonia civilisation
+- Byzantines — Byzantine Empire | Byzantium | Eastern Roman Empire | Ancient Byzantines | Ancient Byzantium | Byzantines civilisation | Byzantium civilisation
+- Maurya Empire — Mauryas | Mauryan Empire | Maurya | Ancient Mauryas | Ancient Maurya | Maurya civilisation
+- Gupta Empire — Guptas | Gupta | Ancient Guptas | Ancient Gupta | Gupta civilisation
+- Shang — Shang dynasty | Shang civilisation | Ancient Shang
+- Ancient Japan — Japan | Japanese | Yamato | Heian Japan | Heian period | Ancient Japanese | Ancient Yamato | Ancient Heian Japan | Japan civilisation | Japanese civilisation | Yamato civilisation
+- Khmer — Khmer Empire | Angkor | Ancient Khmer | Khmer civilisation | Ancient Angkor | Angkor civilisation
+- Aksum — Axum | Aksumites | Kingdom of Aksum | Axumite Empire | Abyssinia | Ancient Ethiopia | Ancient Aksum | Ancient Axum | Ancient Aksumites | Ancient Abyssinia | Aksum civilisation | Axum civilisation | Aksumites civilisation | Abyssinia civilisation
+- Berbers — Amazigh | Imazighen | Berber | Tuareg | Libyans | Ancient Libyans | Libu | Ancient Berbers | Ancient Amazigh | Ancient Imazighen | Ancient Berber | Ancient Tuareg | Ancient Libu | Amazigh civilisation | Imazighen civilisation | Berber civilisation | Tuareg civilisation | Libyans civilisation | Libu civilisation
+- Numidians — Numidia | Numidian | Ancient Numidians | Ancient Numidia | Ancient Numidian | Numidia civilisation | Numidian civilisation
+- Nok — Nok culture | Ancient Nok | Nok civilisation
+- Ghana Empire — Ghana | Wagadu | Ancient Ghana | Ancient Wagadu | Ghana civilisation | Wagadu civilisation
+- Mali Empire — Mali | Malian Empire | Ancient Mali | Mali civilisation
+- Songhai — Songhai Empire | Songhay | Ancient Songhai | Ancient Songhay | Songhai civilisation | Songhay civilisation
+- Great Zimbabwe — Kingdom of Zimbabwe | Shona | Zimbabwe | Ancient Zimbabwe | Ancient Great Zimbabwe | Ancient Shona | Great Zimbabwe civilisation | Shona civilisation | Zimbabwe civilisation
+- Benin Empire — Kingdom of Benin | Edo | Benin | Ancient Edo | Ancient Benin | Edo civilisation | Benin civilisation
+- Toltecs — Toltec | Ancient Toltecs | Ancient Toltec | Toltec civilisation
+- Zapotecs — Zapotec | Ancient Zapotecs | Ancient Zapotec | Zapotec civilisation
+- Teotihuacan — Teotihuacanos | Ancient Teotihuacan | Ancient Teotihuacanos | Teotihuacan civilisation | Teotihuacanos civilisation
+- Moche — Mochica | Ancient Moche | Ancient Mochica | Moche civilisation | Mochica civilisation
+- Nazca — Nasca | Nazca culture | Ancient Nazca | Ancient Nasca | Nazca civilisation | Nasca civilisation
+- Norte Chico — Caral-Supe | Caral | Caral civilisation | Ancient Norte Chico | Ancient Caral-Supe | Ancient Caral | Norte Chico civilisation | Caral-Supe civilisation
+- Ancestral Puebloans — Anasazi | Puebloans | Pueblo | Pueblo peoples | Ancient Ancestral Puebloans | Ancient Anasazi | Ancient Puebloans | Ancient Pueblo | Ancestral Puebloans civilisation | Anasazi civilisation | Puebloans civilisation | Pueblo civilisation
+- Aboriginal Australians — Aborigines | Aboriginal Australian | Indigenous Australians | First Australians | Ancient Aboriginal Australians | Ancient Aborigines | Ancient Aboriginal Australian | Ancient Indigenous Australians | Ancient First Australians | Aborigines civilisation
+- Polynesians — Polynesian | Ancient Polynesians | Ancient Polynesian | Polynesian civilisation
+- Rapa Nui — Easter Islanders | Ancient Rapa Nui | Rapa Nui civilisation
+- Picts — Pict | Pictish | Ancient Picts | Ancient Pict | Ancient Pictish | Pict civilisation | Pictish civilisation
+- Ancient Britons — Britons | Celtic Britons | Brythons | Ancient Brits | Ancient Celtic Britons | Ancient Brythons | Britons civilisation | Brythons civilisation | Ancient Britain
+- Germanic peoples — Germanic tribes | Germani | Ancient Germans | Germans | Ancient Germanic tribes | Ancient Germani | Germani civilisation | Germans civilisation
+- Goths — Gothic | Goth | Ancient Goths | Ancient Gothic | Ancient Goth | Gothic civilisation | Goth civilisation
+- Anglo-Saxons — Anglo-Saxon | Ancient Anglo-Saxons | Ancient Anglo-Saxon | Anglo-Saxon civilisation
+- Mongols — Mongol Empire | Mongol | Golden Horde | Ilkhanate | Ancient Mongols | Ancient Mongol | Ancient Golden Horde | Ancient Ilkhanate | Mongol civilisation | Ilkhanate civilisation
+- Ottomans — Ottoman Empire | Ottoman | Turks | Ancient Ottomans | Ancient Ottoman | Ancient Turks | Ottoman civilisation | Turks civilisation
+- Arabs — Arab | Ancient Arabs | Arabians | Ancient Arabia | Saracens | Ancient Arab | Ancient Arabians | Ancient Saracens | Arab civilisation | Arabians civilisation | Saracens civilisation
+- Iroquois — Haudenosaunee | Iroquois Confederacy | Six Nations | Five Nations | Iroquois League | Ancient Iroquois | Ancient Haudenosaunee | Ancient Six Nations | Ancient Five Nations | Iroquois civilisation | Haudenosaunee civilisation
+- Cherokee — Cherokees | Tsalagi | Ancient Cherokee | Ancient Cherokees | Ancient Tsalagi | Cherokee civilisation | Tsalagi civilisation
+- Inuit — Inuk | Inuits | Ancient Inuit | Ancient Inuk | Ancient Inuits | Inuit civilisation | Inuk civilisation
+- Abbasids — Abbasid | Abbasid Caliphate | Abbasid Empire | Islamic Golden Age | Islamic civilisation | Ancient Abbasids | Ancient Abbasid | Abbasid civilisation
+
+### Tier 4: obscure (130)
+
+- Visigoths — Visigoth | Ancient Visigoths | Ancient Visigoth | Visigoth civilisation
+- Ostrogoths — Ostrogoth | Ancient Ostrogoths | Ancient Ostrogoth | Ostrogoth civilisation
+- Franks — Frankish | Frank | Ancient Franks | Ancient Frankish | Ancient Frank | Frankish civilisation | Frank civilisation
+- Saxons — Saxon | Ancient Saxons | Ancient Saxon | Saxon civilisation
+- Lombards — Langobards | Langobardi | Ancient Lombards | Ancient Langobards | Ancient Langobardi | Lombards civilisation | Langobards civilisation | Langobardi civilisation
+- Alans — Alani | Ancient Alans | Ancient Alani | Alans civilisation | Alani civilisation
+- Teutons — Teutones | Ancient Teutons | Ancient Teutones | Teutons civilisation | Teutones civilisation
+- Iceni — Ancient Iceni | Iceni civilisation
+- Brigantes — Ancient Brigantes | Brigantes civilisation
+- Caledonians — Caledonii | Ancient Caledonians | Ancient Caledonii | Caledonians civilisation | Caledonii civilisation
+- Gaels — Gael | Gaelic | Ancient Irish | Ancient Gaels | Ancient Gael | Ancient Gaelic | Gael civilisation | Gaelic civilisation
+- Belgae — Ancient Belgae | Belgae civilisation
+- Helvetii — Helvetians | Ancient Helvetii | Ancient Helvetians | Helvetii civilisation | Helvetians civilisation
+- Thracians — Thrace | Thracian | Ancient Thracians | Ancient Thrace | Ancient Thracian | Thrace civilisation | Thracian civilisation
+- Dacians — Dacia | Dacian | Ancient Dacians | Ancient Dacia | Ancient Dacian | Dacia civilisation | Dacian civilisation
+- Illyrians — Illyria | Illyrian | Ancient Illyrians | Ancient Illyria | Ancient Illyrian | Illyria civilisation | Illyrian civilisation
+- Iberians — Iberian | Ancient Iberians | Ancient Iberian | Iberian civilisation
+- Latins — Latin people | Ancient Latins | Latins civilisation
+- Sabines — Sabine | Ancient Sabines | Ancient Sabine | Sabine civilisation
+- Samnites — Samnite | Ancient Samnites | Ancient Samnite | Samnite civilisation
+- Hallstatt culture — Hallstatt | Ancient Hallstatt | Hallstatt civilisation
+- La Tène culture — La Tene | Ancient La Tene
+- Yamnaya — Yamnaya culture | Pit Grave culture | Ancient Yamnaya | Yamnaya civilisation
+- Cycladic civilisation — Cycladic | Cycladic culture | Ancient Cycladic
+- Dorians — Dorian | Ancient Dorians | Ancient Dorian | Dorian civilisation
+- Ionians — Ionian | Ancient Ionians | Ancient Ionian | Ionian civilisation
+- Achaeans — Achaean | Ancient Achaeans | Ancient Achaean | Achaean civilisation
+- Lydians — Lydia | Lydian | Ancient Lydians | Ancient Lydia | Ancient Lydian | Lydia civilisation | Lydian civilisation
+- Phrygians — Phrygia | Phrygian | Ancient Phrygians | Ancient Phrygia | Ancient Phrygian | Phrygia civilisation | Phrygian civilisation
+- Lycians — Lycia | Lycian | Ancient Lycians | Ancient Lycia | Ancient Lycian | Lycia civilisation | Lycian civilisation
+- Luwians — Luwian | Ancient Luwians | Ancient Luwian | Luwian civilisation
+- Urartu — Urartians | Kingdom of Van | Ancient Urartu | Ancient Urartians | Urartu civilisation | Urartians civilisation
+- Hurrians — Hurrian | Ancient Hurrians | Ancient Hurrian | Hurrian civilisation
+- Mitanni — Mittani | Ancient Mitanni | Ancient Mittani | Mitanni civilisation | Mittani civilisation
+- Kassites — Kassite | Ancient Kassites | Ancient Kassite | Kassite civilisation
+- Amorites — Amorite | Ancient Amorites | Ancient Amorite | Amorite civilisation
+- Arameans — Aramaeans | Aramean | Ancient Arameans | Ancient Aramaeans | Ancient Aramean | Aramaeans civilisation | Aramean civilisation
+- Sea Peoples
+- Hyksos — Ancient Hyksos | Hyksos civilisation
+- Natufians — Natufian culture | Natufian | Ancient Natufians | Ancient Natufian | Natufian civilisation
+- Ubaid culture — Ubaid | Ancient Ubaid | Ubaid civilisation
+- Seleucids — Seleucid Empire | Ancient Seleucids | Seleucids civilisation
+- Ptolemaic Egypt — Ptolemaic Kingdom | Ptolemies | Ancient Ptolemaic Egypt | Ancient Ptolemies | Ptolemaic Egypt civilisation | Ptolemies civilisation
+- Bactrians — Bactria | Greco-Bactrians | Bactrian | Ancient Bactrians | Ancient Bactria | Ancient Greco-Bactrians | Ancient Bactrian | Bactria civilisation | Greco-Bactrians civilisation | Bactrian civilisation
+- Sogdians — Sogdia | Sogdiana | Sogdian | Ancient Sogdians | Ancient Sogdia | Ancient Sogdiana | Ancient Sogdian | Sogdia civilisation | Sogdiana civilisation | Sogdian civilisation
+- Kushan Empire — Kushans | Kushan | Ancient Kushans | Ancient Kushan | Kushan civilisation
+- Xiongnu — Ancient Xiongnu | Xiongnu civilisation
+- Magadha — Ancient Magadha | Magadha civilisation
+- Cholas — Chola Empire | Chola | Ancient Cholas | Ancient Chola | Chola civilisation
+- Jōmon — Jomon culture | Ancient Jōmon | Jōmon civilisation
+- Yayoi — Yayoi culture | Ancient Yayoi | Yayoi civilisation
+- Gojoseon — Ancient Gojoseon | Gojoseon civilisation
+- Goguryeo — Koguryo | Ancient Goguryeo | Ancient Koguryo | Goguryeo civilisation | Koguryo civilisation
+- Silla — Ancient Silla | Silla civilisation
+- Ancient Korea — Korea | Koreans | Three Kingdoms of Korea | Ancient Koreans | Korea civilisation | Koreans civilisation
+- Champa — Cham | Ancient Champa | Ancient Cham | Champa civilisation | Cham civilisation
+- Dong Son culture — Dong Son | Ancient Vietnam | Văn Lang | Âu Lạc | Ancient Dong Son | Ancient Văn Lang | Ancient Âu Lạc
+- Srivijaya — Ancient Srivijaya | Srivijaya civilisation
+- Majapahit — Ancient Majapahit | Majapahit civilisation
+- Kerma — Kerma culture | Ancient Kerma | Kerma civilisation
+- Punt — Land of Punt | Ancient Punt | Punt civilisation
+- Mapungubwe — Ancient Mapungubwe | Mapungubwe civilisation
+- Swahili — Swahili coast | Swahili city-states | Ancient Swahili | Ancient Swahili coast | Ancient Swahili city-states | Swahili civilisation
+- Ife — Ile-Ife | Ancient Ife | Ancient Ile-Ife | Ife civilisation | Ile-Ife civilisation
+- Kanem — Kanem Empire | Kanem-Bornu | Bornu | Bornu Empire | Ancient Kanem | Ancient Kanem-Bornu | Ancient Bornu | Kanem civilisation | Kanem-Bornu civilisation | Bornu civilisation
+- Kongo — Kingdom of Kongo | Ancient Kongo | Kongo civilisation
+- Mixtecs — Mixtec | Ancient Mixtecs | Ancient Mixtec | Mixtec civilisation
+- Totonacs — Totonac | Ancient Totonacs | Ancient Totonac | Totonac civilisation
+- Tarascans — Purépecha | Tarascan | Ancient Tarascans | Ancient Purépecha | Ancient Tarascan | Purépecha civilisation | Tarascan civilisation
+- Chavín — Chavin culture | Ancient Chavín | Chavín civilisation
+- Paracas — Paracas culture | Ancient Paracas | Paracas civilisation
+- Tiwanaku — Tiahuanaco | Ancient Tiwanaku | Ancient Tiahuanaco | Tiwanaku civilisation | Tiahuanaco civilisation
+- Wari — Huari | Ancient Wari | Ancient Huari | Wari civilisation | Huari civilisation
+- Chimú — Chimor | Ancient Chimú | Ancient Chimor | Chimú civilisation | Chimor civilisation
+- Chachapoya — Chachapoyas | Ancient Chachapoya | Ancient Chachapoyas | Chachapoya civilisation
+- Muisca — Chibcha | Ancient Muisca | Ancient Chibcha | Muisca civilisation | Chibcha civilisation
+- Tairona — Ancient Tairona | Tairona civilisation
+- Taíno — Ancient Taíno | Taíno civilisation
+- Arawaks — Arawak | Ancient Arawaks | Ancient Arawak | Arawak civilisation
+- Hohokam — Ancient Hohokam | Hohokam civilisation
+- Mogollon — Ancient Mogollon | Mogollon civilisation
+- Mississippians — Mississippian culture | Ancient Mississippians | Mississippians civilisation
+- Hopewell — Hopewell culture | Ancient Hopewell | Hopewell civilisation
+- Clovis — Clovis culture | Ancient Clovis | Clovis civilisation
+- Lapita — Lapita culture | Ancient Lapita | Lapita civilisation
+- Māori — Ancient Māori | Māori civilisation
+- Ancient Hawaiians — Hawaiians | Hawaiians civilisation
+- Moors — Ancient Moors | Moors civilisation
+- Göktürks — Turkic Khaganate | Celestial Turks | Kök Türks | Turkic | Ancient Göktürks | Ancient Celestial Turks | Ancient Kök Türks | Ancient Turkic | Göktürks civilisation | Turkic civilisation
+- Sioux — Lakota | Dakota | Nakota | Oceti Sakowin | Ancient Sioux | Ancient Lakota | Ancient Dakota | Ancient Nakota | Ancient Oceti Sakowin | Sioux civilisation | Lakota civilisation | Dakota civilisation | Nakota civilisation
+- Navajo — Navaho | Diné | Ancient Navajo | Ancient Navaho | Ancient Diné | Navajo civilisation | Navaho civilisation | Diné civilisation
+- Apache — Apaches | Ancient Apache | Ancient Apaches | Apache civilisation
+- Hopi — Ancient Hopi | Hopi civilisation
+- San — San people | Basarwa | Khoisan | Khoe-San | Ancient San | Ancient Basarwa | Ancient Khoisan | Ancient Khoe-San | San civilisation | Basarwa civilisation | Khoisan civilisation | Khoe-San civilisation
+- Umayyads — Umayyad | Umayyad Caliphate | Umayyads of Córdoba | Ancient Umayyads | Ancient Umayyad | Umayyad civilisation
+- Fatimids — Fatimid | Fatimid Caliphate | Ancient Fatimids | Ancient Fatimid | Fatimid civilisation
+- Seljuks — Seljuk | Seljuqs | Seljuk Turks | Seljuk Empire | Great Seljuks | Sultanate of Rum | Ancient Seljuks | Ancient Seljuk | Ancient Seljuqs | Ancient Seljuk Turks | Ancient Great Seljuks | Seljuk civilisation | Seljuqs civilisation
+- Mamluks — Mamluk | Mamelukes | Mamluk Sultanate | Ancient Mamluks | Ancient Mamluk | Ancient Mamelukes | Mamluk civilisation | Mamelukes civilisation
+- Timurids — Timurid | Timurid Empire | Ancient Timurids | Ancient Timurid | Timurid civilisation
+- Delhi Sultanate — Sultanate of Delhi
+- Vijayanagara — Vijayanagara Empire | Vijayanagar | Vijayanagar Empire | Karnata Empire | Ancient Vijayanagara | Ancient Vijayanagar | Vijayanagara civilisation | Vijayanagar civilisation
+- Rashtrakutas — Rashtrakuta | Rashtrakuta Empire | Ancient Rashtrakutas | Ancient Rashtrakuta | Rashtrakuta civilisation
+- Chalukyas — Chalukya | Badami Chalukyas | Western Chalukyas | Eastern Chalukyas | Ancient Chalukyas | Ancient Chalukya | Ancient Badami Chalukyas | Ancient Western Chalukyas | Ancient Eastern Chalukyas | Chalukya civilisation
+- Pallavas — Pallava | Pallava dynasty | Ancient Pallavas | Ancient Pallava | Pallava civilisation
+- Rajputs — Rajput | Rajput kingdoms | Ancient Rajputs | Ancient Rajput | Rajput civilisation
+- Sinhalese — Sinhala | Ancient Sri Lanka | Anuradhapura Kingdom | Kingdom of Anuradhapura | Polonnaruwa Kingdom | Ancient Sinhalese | Ancient Sinhala | Sinhalese civilisation | Sinhala civilisation
+- Ancient Tamils — Tamils | Tamilakam | Sangam | Sangam age | Sangam period | Ancient Tamilakam | Ancient Sangam | Tamils civilisation | Tamilakam civilisation | Sangam civilisation
+- Gandhara — Gandharan | Gandhara civilisation | Ancient Gandhara | Ancient Gandharan | Gandharan civilisation
+- Indo-Greeks — Indo-Greek Kingdom | Yavanas | Ancient Indo-Greeks | Ancient Yavanas | Indo-Greeks civilisation | Yavanas civilisation
+- Sarmatians — Ancient Sarmatians | Sarmatians civilisation
+- Cimmerians — Ancient Cimmerians | Cimmerians civilisation
+- Uyghurs — Uighurs | Uyghur Khaganate | Uighur Khaganate | Ancient Uyghurs | Ancient Uighurs | Uyghurs civilisation | Uighurs civilisation
+- Sanxingdui — Sanxingdui culture | Ancient Shu | Shu | Ancient Sanxingdui | Sanxingdui civilisation | Shu civilisation
+- Yangshao culture — Yangshao | Ancient Yangshao | Yangshao civilisation
+- Joseon — Joseon dynasty | Chosŏn | Yi dynasty | Ancient Joseon | Ancient Chosŏn | Joseon civilisation | Chosŏn civilisation
+- Goryeo — Koryo | Goryeo dynasty | Ancient Goryeo | Ancient Koryo | Goryeo civilisation | Koryo civilisation
+- Ainu — Ainu people | Ancient Ainu | Ainu civilisation
+- Đại Việt — Ly dynasty | Tran dynasty | Ancient Đại Việt | Đại Việt civilisation
+- Ayutthaya Kingdom — Ayutthaya | Kingdom of Ayutthaya | Ancient Ayutthaya | Ayutthaya civilisation
+- Basques — Vascones | Basque people | Ancient Basques | Ancient Vascones | Basques civilisation | Vascones civilisation
+- Guanches — Ancient Guanches | Guanches civilisation
+- Galatians — Ancient Galatians | Galatians civilisation
+- Armenians — Ancient Armenia | Ancient Armenians | Kingdom of Armenia | Armenia | Armenians civilisation | Armenia civilisation
+- Palmyrenes — Palmyrene Empire | Ancient Palmyrenes | Palmyrenes civilisation
+- Uruk period — Uruk culture | Uruk | Ancient Uruk | Uruk civilisation
+- Yoruba — Yoruba people | Oyo Empire | Oyo | Ancient Yoruba | Ancient Oyo | Yoruba civilisation | Oyo civilisation
+- Hausa — Hausa kingdoms | Hausa states | Hausaland | Ancient Hausa | Ancient Hausaland | Hausa civilisation | Hausaland civilisation
+- Mutapa — Mutapa Empire | Monomotapa | Mwenemutapa | Ancient Mutapa | Ancient Monomotapa | Ancient Mwenemutapa | Mutapa civilisation | Monomotapa civilisation | Mwenemutapa civilisation
+- Mapuche — Mapuches | Araucanians | Ancient Mapuche | Ancient Mapuches | Ancient Araucanians | Mapuche civilisation | Araucanians civilisation
+- Nahua — Nahuas | Nahua peoples | Ancient Nahua | Ancient Nahuas | Nahua civilisation
+
+### Tier 5: expert (187)
+
+- Angles — Ancient Angles | Angles civilisation
+- Jutes — Ancient Jutes | Jutes civilisation
+- Suebi — Suevi | Ancient Suebi | Ancient Suevi | Suebi civilisation | Suevi civilisation
+- Burgundians — Ancient Burgundians | Burgundians civilisation
+- Gepids — Ancient Gepids | Gepids civilisation
+- Heruli — Ancient Heruli | Heruli civilisation
+- Cimbri — Ancient Cimbri | Cimbri civilisation
+- Marcomanni — Ancient Marcomanni | Marcomanni civilisation
+- Alemanni — Alamanni | Ancient Alemanni | Ancient Alamanni | Alemanni civilisation | Alamanni civilisation
+- Frisians — Frisii | Ancient Frisians | Ancient Frisii | Frisians civilisation | Frisii civilisation
+- Batavians — Batavi | Ancient Batavians | Ancient Batavi | Batavians civilisation | Batavi civilisation
+- Arverni — Ancient Arverni | Arverni civilisation
+- Catuvellauni — Ancient Catuvellauni | Catuvellauni civilisation
+- Silures — Ancient Silures | Silures civilisation
+- Scoti — Ancient Scoti | Scoti civilisation
+- Celtiberians — Celtiberian | Ancient Celtiberians | Ancient Celtiberian | Celtiberian civilisation
+- Lusitanians — Lusitani | Ancient Lusitanians | Ancient Lusitani | Lusitanians civilisation | Lusitani civilisation
+- Ligurians — Ancient Ligurians | Ligurians civilisation
+- Oscans — Ancient Oscans | Oscans civilisation
+- Umbrians — Ancient Umbrians | Umbrians civilisation
+- Messapians — Ancient Messapians | Messapians civilisation
+- Sicels — Siculi | Ancient Sicels | Ancient Siculi | Sicels civilisation | Siculi civilisation
+- Elymians — Ancient Elymians | Elymians civilisation
+- Villanovan culture — Villanovan | Ancient Villanovan | Villanovan civilisation
+- Talayotic culture — Talayotic | Ancient Talayotic | Talayotic civilisation
+- Beaker culture — Bell Beaker culture | Beaker folk | Ancient Beaker folk
+- Corded Ware culture — Corded Ware | Ancient Corded Ware
+- Cucuteni-Trypillia — Trypillia | Cucuteni | Tripolye | Ancient Cucuteni-Trypillia | Ancient Trypillia | Ancient Cucuteni | Ancient Tripolye | Cucuteni-Trypillia civilisation | Trypillia civilisation | Cucuteni civilisation | Tripolye civilisation
+- Vinča culture — Vinca | Ancient Vinca | Vinca civilisation
+- Varna culture
+- Pelasgians — Ancient Pelasgians | Pelasgians civilisation
+- Aeolians — Ancient Aeolians | Aeolians civilisation
+- Epirotes — Epirus | Ancient Epirotes | Ancient Epirus | Epirotes civilisation | Epirus civilisation
+- Carians — Ancient Carians | Carians civilisation
+- Hattians — Ancient Hattians | Hattians civilisation
+- Gutians — Ancient Gutians | Gutians civilisation
+- Ammonites — Ancient Ammonites | Ammonites civilisation
+- Moabites — Moab | Ancient Moabites | Ancient Moab | Moabites civilisation | Moab civilisation
+- Edomites — Edom | Ancient Edomites | Ancient Edom | Edomites civilisation | Edom civilisation
+- Himyarites — Himyar | Ancient Himyarites | Ancient Himyar | Himyarites civilisation | Himyar civilisation
+- Qatabanians — Qataban | Ancient Qatabanians | Ancient Qataban | Qatabanians civilisation | Qataban civilisation
+- Minaeans — Ancient Minaeans | Minaeans civilisation
+- Magan — Ancient Magan | Magan civilisation
+- Halaf culture
+- Jemdet Nasr — Ancient Jemdet Nasr | Jemdet Nasr civilisation
+- Samarra culture
+- Oxus Civilisation — BMAC | Bactria-Margiana | Ancient Bactria-Margiana | Bactria-Margiana civilisation
+- Jiroft culture
+- Yuezhi — Ancient Yuezhi | Yuezhi civilisation
+- Satavahanas — Satavahana | Ancient Satavahanas | Ancient Satavahana | Satavahana civilisation
+- Pandyas — Pandya | Ancient Pandyas | Ancient Pandya | Pandya civilisation
+- Cheras — Chera | Ancient Cheras | Ancient Chera | Chera civilisation
+- Kalinga — Ancient Kalinga | Kalinga civilisation
+- Kofun — Kofun period | Ancient Kofun | Kofun civilisation
+- Baekje — Paekche | Ancient Baekje | Ancient Paekche | Baekje civilisation | Paekche civilisation
+- Funan — Ancient Funan | Funan civilisation
+- Pyu — Pyu city-states | Ancient Pyu | Ancient Pyu city-states | Pyu civilisation
+- Dvaravati — Ancient Dvaravati | Dvaravati civilisation
+- Pagan Kingdom
+- Sukhothai Kingdom — Sukhothai | Ancient Sukhothai | Sukhothai civilisation
+- Tibetan Empire — Tibetans | Ancient Tibet | Ancient Tibetans | Tibetans civilisation
+- D'mt — Ancient D'mt | D'mt civilisation
+- Igbo-Ukwu — Ancient Igbo-Ukwu | Igbo-Ukwu civilisation
+- Sao civilisation — Sao | Ancient Sao
+- Mauretania — Ancient Mauretania | Mauretania civilisation
+- Makuria — Ancient Makuria | Makuria civilisation
+- Alodia — Ancient Alodia | Alodia civilisation
+- Zagwe — Zagwe dynasty | Ancient Zagwe | Zagwe civilisation
+- Kilwa Sultanate — Kilwa | Ancient Kilwa | Kilwa civilisation
+- Huastecs — Huastec | Ancient Huastecs | Ancient Huastec | Huastec civilisation
+- Izapa — Ancient Izapa | Izapa civilisation
+- Epi-Olmec — Ancient Epi-Olmec | Epi-Olmec civilisation
+- Lambayeque — Sicán culture | Ancient Lambayeque | Lambayeque civilisation
+- Recuay — Ancient Recuay | Recuay civilisation
+- Valdivia culture
+- Marajoara — Ancient Marajoara | Marajoara civilisation
+- Caribs — Kalinago | Ancient Caribs | Ancient Kalinago | Caribs civilisation | Kalinago civilisation
+- Adena — Adena culture | Ancient Adena | Adena civilisation
+- Poverty Point culture
+- Fremont culture
+- Dorset culture
+- Thule people — Thule culture | Thule | Ancient Thule | Thule civilisation
+- Saudeleur — Saudeleur dynasty | Ancient Saudeleur | Saudeleur civilisation
+- Tu'i Tonga — Tui Tonga Empire | Ancient Tu'i Tonga | Tu'i Tonga civilisation
+- Early Slavs — Slavs | Ancient Early Slavs | Ancient Slavs | Early Slavs civilisation | Slavs civilisation
+- Badarian — Badarian culture | Badari | Ancient Badarian | Ancient Badari | Badarian civilisation | Badari civilisation
+- Naqada — Naqada culture | Gerzean | Amratian | Ancient Naqada | Ancient Gerzean | Ancient Amratian | Naqada civilisation | Gerzean civilisation | Amratian civilisation
+- Zuni — A:shiwi | Ancient Zuni | Ancient A:shiwi | Zuni civilisation | A:shiwi civilisation
+- Cree — Nehiyawak | Ancient Cree | Ancient Nehiyawak | Cree civilisation | Nehiyawak civilisation
+- Ojibwe — Ojibwa | Chippewa | Anishinaabe | Ancient Ojibwe | Ancient Ojibwa | Ancient Chippewa | Ancient Anishinaabe | Ojibwe civilisation | Ojibwa civilisation | Chippewa civilisation | Anishinaabe civilisation
+- Mohawk — Kanien'kehá:ka | Ancient Mohawk | Ancient Kanien'kehá:ka | Mohawk civilisation | Kanien'kehá:ka civilisation
+- Wendat — Huron | Hurons | Wyandot | Ancient Wendat | Ancient Huron | Ancient Hurons | Ancient Wyandot | Wendat civilisation | Huron civilisation | Wyandot civilisation
+- Calusa — Ancient Calusa | Calusa civilisation
+- Natchez — Ancient Natchez | Natchez civilisation
+- Mandan — Ancient Mandan | Mandan civilisation
+- Chumash — Ancient Chumash | Chumash civilisation
+- Haida — Ancient Haida | Haida civilisation
+- Khoikhoi — Khoekhoe | Khoi | Ancient Khoikhoi | Ancient Khoekhoe | Ancient Khoi | Khoikhoi civilisation | Khoekhoe civilisation | Khoi civilisation
+- Ayyubids — Ayyubid | Ayyubid Sultanate | Ancient Ayyubids | Ancient Ayyubid | Ayyubid civilisation
+- Almoravids — Almoravid | Ancient Almoravids | Ancient Almoravid | Almoravid civilisation
+- Almohads — Almohad | Almohad Caliphate | Ancient Almohads | Ancient Almohad | Almohad civilisation
+- Ghaznavids — Ghaznavid | Ghaznavid Empire | Ancient Ghaznavids | Ancient Ghaznavid | Ghaznavid civilisation
+- Khwarazmians — Khwarezm | Khwarazm | Chorasmia | Chorasmians | Khwarazmian Empire | Ancient Khwarazmians | Ancient Khwarezm | Ancient Khwarazm | Ancient Chorasmia | Ancient Chorasmians | Khwarazmians civilisation | Khwarezm civilisation | Khwarazm civilisation | Chorasmia civilisation | Chorasmians civilisation
+- Bahmani Sultanate — Bahmani | Bahmanis | Ancient Bahmani | Ancient Bahmanis | Bahmani civilisation
+- Palas — Pala Empire | Pala dynasty | Ancient Palas | Palas civilisation
+- Hoysalas — Hoysala | Hoysala Empire | Ancient Hoysalas | Ancient Hoysala | Hoysala civilisation
+- Kakatiyas — Kakatiya | Kakatiya dynasty | Ancient Kakatiyas | Ancient Kakatiya | Kakatiya civilisation
+- Gurjara-Pratiharas — Pratiharas | Gurjara-Pratihara | Ancient Gurjara-Pratiharas | Ancient Pratiharas | Ancient Gurjara-Pratihara | Pratiharas civilisation | Gurjara-Pratihara civilisation
+- Ahom — Ahoms | Ahom kingdom | Ancient Ahom | Ancient Ahoms | Ahom civilisation
+- Kosala — Kosala Kingdom | Koshala | Ancient Kosala | Ancient Koshala | Kosala civilisation | Koshala civilisation
+- Vajji — Vajjika League | Licchavis | Licchavi | Ancient Vajji | Ancient Licchavis | Ancient Licchavi | Vajji civilisation | Licchavi civilisation
+- Avanti — Ancient Avanti | Avanti civilisation
+- Kuru Kingdom — Kurus | Kuru | Ancient Kurus | Ancient Kuru | Kuru civilisation
+- Shakyas — Shakya | Sakya | Sakyas | Ancient Shakyas | Ancient Shakya | Ancient Sakya | Ancient Sakyas | Shakya civilisation | Sakya civilisation
+- Hephthalites — White Huns | Hephthalite Empire | Ancient Hephthalites | Ancient White Huns | Hephthalites civilisation
+- Massagetae — Ancient Massagetae | Massagetae civilisation
+- Tocharians — Tokharians | Ancient Tocharians | Ancient Tokharians | Tocharians civilisation | Tokharians civilisation
+- Xianbei — Ancient Xianbei | Xianbei civilisation
+- Khitans — Khitan | Liao dynasty | Ancient Khitans | Ancient Khitan | Khitan civilisation
+- Jurchens — Jurchen | Jurchen Jin | Ancient Jurchens | Ancient Jurchen | Ancient Jurchen Jin | Jurchen civilisation
+- Tanguts — Tangut | Western Xia | Xi Xia | Ancient Tanguts | Ancient Tangut | Ancient Western Xia | Ancient Xi Xia | Tangut civilisation
+- Khazars — Khazar Khaganate | Ancient Khazars | Khazars civilisation
+- Liangzhu culture — Liangzhu | Ancient Liangzhu | Liangzhu civilisation
+- Longshan culture — Longshan | Ancient Longshan | Longshan civilisation
+- Hongshan culture — Hongshan | Ancient Hongshan | Hongshan civilisation
+- Erlitou culture — Erlitou | Ancient Erlitou | Erlitou civilisation
+- Chu — State of Chu | Kingdom of Chu | Ancient Chu | Chu civilisation
+- Nanzhao — Nanchao | Kingdom of Dali | Dali | Ancient Nanzhao | Ancient Nanchao | Ancient Dali | Nanzhao civilisation | Nanchao civilisation | Dali civilisation
+- Dian — Dian Kingdom | Ancient Dian | Dian civilisation
+- Baiyue — Yue | Hundred Yue | Nanyue | Ancient Baiyue | Ancient Yue | Ancient Hundred Yue | Ancient Nanyue | Baiyue civilisation | Yue civilisation | Nanyue civilisation
+- Gaya — Gaya confederacy | Kaya | Garak | Ancient Gaya | Ancient Kaya | Ancient Garak | Gaya civilisation | Kaya civilisation | Garak civilisation
+- Buyeo — Puyo | Fuyu | Ancient Buyeo | Ancient Puyo | Ancient Fuyu | Buyeo civilisation | Puyo civilisation | Fuyu civilisation
+- Balhae — Bohai | Parhae | Ancient Balhae | Ancient Bohai | Ancient Parhae | Balhae civilisation | Bohai civilisation | Parhae civilisation
+- Ban Chiang — Ancient Ban Chiang | Ban Chiang civilisation
+- Chenla — Ancient Chenla | Chenla civilisation
+- Mon — Mon people | Mon kingdoms | Ancient Mon | Mon civilisation
+- Mataram — Mataram Kingdom | Medang | Sailendra | Ancient Mataram | Ancient Medang | Ancient Sailendra | Mataram civilisation | Medang civilisation | Sailendra civilisation
+- Malacca Sultanate — Melaka Sultanate | Sultanate of Malacca
+- Tartessians — Tartessos | Tartessus | Ancient Tartessians | Ancient Tartessos | Ancient Tartessus | Tartessians civilisation | Tartessos civilisation | Tartessus civilisation
+- Argaric culture — El Argar | Argaric | Ancient El Argar | Ancient Argaric | Argaric civilisation
+- Sámi — Saami | Sami people | Ancient Sámi | Ancient Saami | Sámi civilisation | Saami civilisation
+- Geats — Götar | Ancient Geats | Ancient Götar | Geats civilisation | Götar civilisation
+- Cherusci — Ancient Cherusci | Cherusci civilisation
+- Chatti — Ancient Chatti | Chatti civilisation
+- Boii — Ancient Boii | Boii civilisation
+- Parisii — Ancient Parisii | Parisii civilisation
+- Aedui — Ancient Aedui | Aedui civilisation
+- Trinovantes — Ancient Trinovantes | Trinovantes civilisation
+- Atrebates — Ancient Atrebates | Atrebates civilisation
+- Dumnonii — Ancient Dumnonii | Dumnonii civilisation
+- Durotriges — Ancient Durotriges | Durotriges civilisation
+- Ordovices — Ancient Ordovices | Ordovices civilisation
+- Volsci — Volscians | Ancient Volsci | Ancient Volscians | Volsci civilisation | Volscians civilisation
+- Veneti — Ancient Veneti | Veneti civilisation
+- Raetians — Rhaetians | Raeti | Rhaeti | Ancient Raetians | Ancient Rhaetians | Ancient Raeti | Ancient Rhaeti | Raetians civilisation | Rhaetians civilisation | Raeti civilisation | Rhaeti civilisation
+- Getae — Ancient Getae | Getae civilisation
+- Odrysians — Odrysian Kingdom | Ancient Odrysians | Odrysians civilisation
+- Colchians — Colchis | Ancient Colchians | Ancient Colchis | Colchians civilisation | Colchis civilisation
+- Ugarit — Ugaritians | Ugaritic | Ancient Ugarit | Ancient Ugaritians | Ancient Ugaritic | Ugarit civilisation | Ugaritians civilisation | Ugaritic civilisation
+- Ebla — Eblaites | Eblaite | Ancient Ebla | Ancient Eblaites | Ancient Eblaite | Ebla civilisation | Eblaite civilisation
+- Ghassanids — Ghassanid | Ancient Ghassanids | Ancient Ghassanid | Ghassanid civilisation
+- Lakhmids — Lakhmid | Ancient Lakhmids | Ancient Lakhmid | Lakhmid civilisation
+- Thamud — Thamudic | Ancient Thamud | Ancient Thamudic | Thamud civilisation | Thamudic civilisation
+- Lihyanites — Lihyan | Dedanites | Ancient Lihyanites | Ancient Lihyan | Ancient Dedanites | Lihyanites civilisation | Lihyan civilisation | Dedanites civilisation
+- Hadhramaut — Hadramawt | Hadramites | Ancient Hadhramaut | Ancient Hadramawt | Ancient Hadramites | Hadhramaut civilisation | Hadramawt civilisation | Hadramites civilisation
+- Samaritans — Ancient Samaritans | Samaritans civilisation
+- Jolof Empire — Jolof | Wolof Empire | Wolof | Ancient Jolof | Ancient Wolof | Jolof civilisation | Wolof civilisation
+- Mossi — Mossi Kingdoms | Ancient Mossi | Mossi civilisation
+- Buganda — Kingdom of Buganda | Ancient Buganda | Buganda civilisation
+- Nobatia — Ancient Nobatia | Nobatia civilisation
+- Blemmyes — Ancient Blemmyes | Blemmyes civilisation
+- Ajuran — Ajuran Sultanate | Ancient Ajuran | Ajuran civilisation
+- Adal — Adal Sultanate | Ancient Adal | Adal civilisation
+- Chinchorro — Chinchorro culture | Ancient Chinchorro | Chinchorro civilisation
+- Cañari — Ancient Cañari | Cañari civilisation
+- Quimbaya — Ancient Quimbaya | Quimbaya civilisation
+- San Agustín culture — San Agustín | Ancient San Agustín
+- Diaguita — Ancient Diaguita | Diaguita civilisation
+- Aymara — Ancient Aymara | Aymara civilisation
+- Guaraní — Ancient Guaraní | Guaraní civilisation
+- Tupi — Tupinambá | Tupi-Guarani | Ancient Tupi | Ancient Tupinambá | Ancient Tupi-Guarani | Tupi civilisation | Tupinambá civilisation | Tupi-Guarani civilisation
+- Tlaxcalans — Tlaxcala | Tlaxcaltecs | Ancient Tlaxcalans | Ancient Tlaxcala | Ancient Tlaxcaltecs | Tlaxcalans civilisation | Tlaxcala civilisation | Tlaxcaltecs civilisation
+- Tepanecs — Ancient Tepanecs | Tepanecs civilisation
+- Chichimecs — Chichimeca | Ancient Chichimecs | Ancient Chichimeca | Chichimecs civilisation | Chichimeca civilisation
+- Otomi — Ancient Otomi | Otomi civilisation
+- Chamorro — Chamorros | Ancient Chamorro | Ancient Chamorros | Chamorro civilisation
+- Torres Strait Islanders
+
+### Tier 6: rare jackpots (3)
+
+- Garamantes — Ancient Garamantes | Garamantes civilisation
+- Nuragic civilisation — Nuragic | Nuragic culture | Nuraghi | Ancient Nuragic | Ancient Nuraghi | Nuraghi civilisation
+- Dilmun — Ancient Dilmun | Dilmun civilisation
+
+## Refused on purpose (25)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Vikings | Viking | Norse | Norsemen | Ancient Vikings | Ancient Viking | Ancient Norse | Ancient Norsemen | Viking civilisation | Norse civilisation | Norsemen civilisation — "Seafarers of the 8th to 11th centuries, too late to count as ancient."
+- Normans | Crusaders | Knights Templar | Templars | Mughals | Mughal Empire | Holy Roman Empire | Venetians | Magyars | Tudors | Marathas | Maratha Empire | Sikh Empire | Ashanti | Asante | Dahomey | Zulu | Zulu Kingdom | Comanche | Ancient Normans | Ancient Crusaders | Ancient Knights Templar | Ancient Templars | Ancient Mughals | Ancient Venetians | Ancient Magyars | Ancient Tudors | Ancient Marathas | Ancient Ashanti | Ancient Asante | Ancient Dahomey | Ancient Zulu | Ancient Comanche | Normans civilisation | Crusaders civilisation | Templars civilisation | Mughals civilisation | Venetians civilisation | Magyars civilisation | Tudors civilisation | Marathas civilisation | Ashanti civilisation | Asante civilisation | Dahomey civilisation | Zulu civilisation | Comanche civilisation — "Too late to count as ancient."
+- Pharaohs | Pharaoh | Ancient Pharaohs | Ancient Pharaoh | Pharaoh civilisation — "Rulers, not a civilisation. Name the land they ruled."
+- Samurai | Ninja | Ninjas | Ancient Samurai | Ancient Ninja | Ancient Ninjas | Samurai civilisation | Ninja civilisation — "A warrior class of the Middle Ages and after, not a civilisation."
+- Druids | Druid | Ancient Druids | Ancient Druid | Druid civilisation — "Celtic priests, not a whole people."
+- Gladiators | Gladiator | Legionaries | Centurions | Ancient Gladiators | Ancient Gladiator | Ancient Legionaries | Ancient Centurions | Gladiator civilisation | Legionaries civilisation | Centurions civilisation — "Fighters in the arena, not a people."
+- Barbarians | Barbarian | Ancient Barbarians | Ancient Barbarian | Barbarian civilisation — "A Roman and Greek word for outsiders, not one people."
+- Native Americans | American Indians | First Nations | Indigenous peoples | Pre-Columbian | Mesoamericans | Plains Indians | Indians of the Americas | Ancient Native Americans | Ancient American Indians | Ancient First Nations | Ancient Pre-Columbian | Ancient Mesoamericans | Ancient Plains Indians | Native Americans civilisation | Pre-Columbian civilisation | Mesoamericans civilisation | Ancient America | Ancient Americas | Ancient Americans — "Many peoples, not one civilisation. Name one of them."
+- Neanderthals | Neanderthal | Cavemen | Caveman | Cro-Magnon | Homo erectus | Denisovans | Ancient Neanderthals | Ancient Neanderthal | Ancient Cavemen | Ancient Caveman | Ancient Cro-Magnon | Ancient Homo erectus | Ancient Denisovans | Neanderthal civilisation | Cavemen civilisation | Caveman civilisation | Cro-Magnon civilisation | Denisovans civilisation — "Early humans, not a civilisation."
+- Stone Age | Bronze Age | Iron Age | Neolithic | Palaeolithic | Paleolithic | Antiquity | Classical antiquity | Ancient Neolithic | Ancient Palaeolithic | Ancient Paleolithic | Ancient Antiquity | Ancient Classical antiquity | Neolithic civilisation | Palaeolithic civilisation | Paleolithic civilisation | Antiquity civilisation — "An age, not a civilisation."
+- Atlantis | Atlanteans | Lemuria | Lemurians | Mu | Hyperborea | Hyperboreans | Amazons | El Dorado | Agartha | Rama Empire | Ancient Atlantis | Ancient Atlanteans | Ancient Lemuria | Ancient Lemurians | Ancient Mu | Ancient Hyperborea | Ancient Hyperboreans | Ancient Amazons | Ancient El Dorado | Ancient Agartha | Atlantis civilisation | Atlanteans civilisation | Lemuria civilisation | Lemurians civilisation | Mu civilisation | Hyperborea civilisation | Hyperboreans civilisation | Amazons civilisation | Agartha civilisation — "A legend, not a real civilisation."
+- Anunnaki | Nephilim | Titans | Olympians | Aesir | Asgard | Asgardians | Ancient Anunnaki | Ancient Nephilim | Ancient Titans | Ancient Olympians | Ancient Aesir | Ancient Asgard | Ancient Asgardians | Anunnaki civilisation | Nephilim civilisation | Titans civilisation | Olympians civilisation | Aesir civilisation | Asgard civilisation | Asgardians civilisation — "Gods or giants of myth, not a people."
+- Wakanda | Wakandans | Klingons | Kryptonians | Numenor | Numenoreans | Gondor | Elves | Na'vi | Valyria | Valyrians | Dothraki | Hobbits | Middle-earth | Ancient Wakanda | Ancient Wakandans | Ancient Klingons | Ancient Kryptonians | Ancient Numenor | Ancient Numenoreans | Ancient Gondor | Ancient Elves | Ancient Na'vi | Ancient Valyria | Ancient Valyrians | Ancient Dothraki | Ancient Hobbits | Ancient Middle-earth | Wakanda civilisation | Wakandans civilisation | Klingons civilisation | Kryptonians civilisation | Numenor civilisation | Numenoreans civilisation | Gondor civilisation | Elves civilisation | Na'vi civilisation | Valyria civilisation | Valyrians civilisation | Dothraki civilisation | Hobbits civilisation | Middle-earth civilisation — "A civilisation of fiction."
+- Elder Things | Old Ones | Great Race | Great Race of Yith | Yithians | Deep Ones | Mi-Go — "From H. P. Lovecraft's stories, not from history."
+- Ancient aliens | Aliens | Ancient astronauts | Aliens civilisation — "Not on the evidence so far."
+- Machu Picchu | Petra | Pompeii | Chichen Itza | Tikal | Palenque | Persepolis | Knossos | Mohenjo-daro | Angkor Wat | Tenochtitlan | Ur | Nineveh | Hattusa | Cusco | Cuzco | Chan Chan | Timbuktu | Jericho | Palmyra | Ancient Machu Picchu | Ancient Petra | Ancient Pompeii | Ancient Chichen Itza | Ancient Tikal | Ancient Palenque | Ancient Persepolis | Ancient Knossos | Ancient Mohenjo-daro | Ancient Angkor Wat | Ancient Tenochtitlan | Ancient Ur | Ancient Nineveh | Ancient Hattusa | Ancient Cusco | Ancient Cuzco | Ancient Chan Chan | Ancient Timbuktu | Ancient Jericho | Ancient Palmyra | Machu Picchu civilisation | Petra civilisation | Pompeii civilisation | Tikal civilisation | Palenque civilisation | Persepolis civilisation | Knossos civilisation | Mohenjo-daro civilisation | Tenochtitlan civilisation | Ur civilisation | Nineveh civilisation | Hattusa civilisation | Cusco civilisation | Cuzco civilisation | Timbuktu civilisation | Jericho civilisation | Palmyra civilisation — "A city rather than a civilisation. Name the people who built it."
+- Stonehenge | Göbekli Tepe | Newgrange | Carnac | Avebury | Ancient Stonehenge | Ancient Göbekli Tepe | Ancient Newgrange | Ancient Carnac | Ancient Avebury | Stonehenge civilisation | Newgrange civilisation | Carnac civilisation | Avebury civilisation — "A monument whose builders left no name of their own."
+- Civilisation | Civilization | Ancient civilisation | Ancient civilization | Lost civilisation | Ancient people | Ancient culture | Ancient empire — "That's every answer at once. Name one civilisation."
+- Peruvians | Ancient Peruvians | Ancient Peru | Peruvians civilisation — "Many peoples lived in ancient Peru. Name one of them."
+- Qing | Manchu dynasty | Qing dynasty | Ancient Qing | Qing civilisation — "A dynasty of later China, too late to count as ancient here."
+- Mound Builders | Ancient Mound Builders | Mound Builders civilisation — "Several cultures built North America's great mounds. Name one of them."
+- Mahajanapadas | Mahajanapada | Sixteen Mahajanapadas | Ancient Mahajanapadas | Ancient Mahajanapada | Ancient Sixteen Mahajanapadas | Mahajanapada civilisation — "Sixteen great realms of ancient India, not one. Name one of them."
+- Pyramids | Great Pyramid | Pyramids of Giza | Sphinx | Great Sphinx | Ancient Pyramids | Ancient Great Pyramid | Ancient Sphinx | Ancient Great Sphinx | Pyramids civilisation | Sphinx civilisation — "A monument, not a civilisation. Name the people who built it."
+- Hunter-gatherers | Foragers | Ancient Hunter-gatherers | Ancient Foragers | Hunter-gatherers civilisation | Foragers civilisation — "A way of life, not one people."
+- Ancient Africa | Ancient Asia | Ancient Europe | Ancient Mexico | Ancient Nigeria | Ancient Spain | Ancient Italy | Ancient Russia | Ancient Turkey | Ancient Anatolia | Ancient Cambodia | Ancient Yemen | Ancient Libya | Ancient Tunisia | Ancient Jordan | Ancient Thailand | Ancient Indonesia | Ancient Afghanistan | Ancient Pakistan | Ancient Bolivia | Ancient Colombia | Ancient Guatemala | Ancient Ireland | Ancient Scotland | Ancient Africans | Ancient Europeans | Ancient Asians | African civilisation | European civilisation | Asian civilisation — "Many peoples lived there. Name one of them."
