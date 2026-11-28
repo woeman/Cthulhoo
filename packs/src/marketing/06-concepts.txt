@@ -1,0 +1,93 @@
+id: marketing-concepts
+text: Name a marketing concept, model or term.
+flavor: They have a word for everything you feel in a shop. They had it before you felt it.
+rules: Any idea, framework or piece of jargon from the study of marketing.
+section: Theory
+---
+1 Marketing mix | 4 Ps | Four Ps | 4Ps | 7 Ps | Seven Ps | 7Ps
+1 Target market | Target audience | Targeting | Target customer
+1 Brand | Branding | Brand awareness | Brand image | Brand identity
+1 Product
+1 Price | Pricing
+1 Promotion | Advertising
+1 Place | Distribution
+1 Market research | Research | Survey | Focus group | Market survey
+2 Segmentation | Market segmentation | Segment | Segments
+2 SWOT | SWOT analysis
+2 USP | Unique selling proposition | Unique selling point | Point of difference
+2 Positioning | Market positioning | Product positioning | Perceptual map | Positioning map
+2 Demographics | Demographic | Psychographics | Geographic segmentation | Behavioural segmentation
+2 Product life cycle | Product lifecycle | PLC
+2 Market share
+2 Brand loyalty | Customer loyalty | Loyalty
+2 Competitive advantage
+2 Niche | Niche market | Niche marketing | Mass market | Mass marketing
+2 Supply and demand | Demand | Consumer demand
+2 Customer | Consumer | Consumer behaviour | Consumer behavior | Buyer behaviour
+2 Logo | Slogan | Tagline | Jingle | Trade mark | Trademark
+2 Sales funnel | Funnel | Marketing funnel | Purchase funnel
+2 Call to action | CTA
+2 Viral marketing | Word of mouth
+2 ROI | Return on investment | ROAS
+2 PEST | PESTLE | PEST analysis | PESTEL | STEEPLE
+2 Value proposition | Customer value
+2 People | Process | Physical evidence
+2 Public relations | PR | Sales promotion | Personal selling | Direct marketing | Promotional mix
+2 Packaging
+2 B2B | B2C | Business to business | Business to consumer
+2 Customer relationship management | CRM | Relationship marketing
+2 Content marketing | Digital marketing | Influencer marketing | Social media marketing | Email marketing
+2 Persona | Buyer persona | Customer persona | Customer profile
+3 AIDA | Attention interest desire action
+3 Porter's five forces | Five forces | Porter's 5 forces
+3 BCG matrix | Boston matrix | Boston Consulting Group matrix | Growth-share matrix | Cash cow | Star | Dog | Question mark
+3 Ansoff matrix | Ansoff | Market penetration | Market development | Product development | Diversification
+3 STP | Segmentation, targeting and positioning
+3 Maslow's hierarchy | Hierarchy of needs | Maslow
+3 Diffusion of innovation | Early adopters | Innovators | Laggards | Early majority | Late majority | Adoption curve
+3 Customer lifetime value | CLV | Lifetime value | LTV | CLTV
+3 Net Promoter Score | NPS
+3 Customer journey | Customer journey map | Touchpoint | Touchpoints | Customer experience | CX
+3 Conversion rate | Conversion | Click-through rate | CTR | Impressions | Reach | Engagement | Bounce rate | CPM | CPC | Cost per click
+3 Brand equity | Brand value
+3 Brand extension | Line extension | Co-branding | Rebranding | Rebrand
+3 Differentiation | Product differentiation
+3 Cost leadership | Generic strategies | Porter's generic strategies | Focus strategy
+3 Market orientation | Product orientation | Marketing concept | Sales orientation | Production orientation | Societal marketing
+3 Integrated marketing communications | IMC
+3 Above the line | Below the line | Through the line | ATL | BTL
+3 Push strategy | Pull strategy | Push and pull
+3 Channel | Distribution channel | Channels | Intermediary | Wholesaler | Retailer | Omnichannel | Multichannel
+3 Cognitive dissonance | Buyer's remorse | Post-purchase dissonance
+3 Impulse buying | Impulse purchase
+3 Scarcity | FOMO | Social proof | Reciprocity | Urgency
+3 Primary research | Secondary research | Qualitative research | Quantitative research | Sampling
+3 A/B testing | Split testing | AB testing
+3 SEO | SEM | Search engine optimisation
+3 Greenwashing | Cause marketing | Corporate social responsibility | CSR | Green marketing
+3 Guerrilla marketing | Ambush marketing | Stealth marketing | Experiential marketing
+3 Cannibalisation | Cannibalization
+3 Planned obsolescence | Built-in obsolescence
+3 Churn | Churn rate | Retention | Customer retention | Customer acquisition | CAC | Customer acquisition cost
+3 Upselling | Cross-selling | Upsell | Cross-sell
+3 Lead | Lead generation | Leads | Prospect
+3 Elasticity | Price elasticity | Price elasticity of demand
+3 Market leader | Challenger | Follower | Nicher | First-mover advantage | First mover
+3 Blue ocean strategy | Blue ocean | Red ocean
+3 Long tail
+3 SMART objectives | SMART goals | SMART
+3 Marketing plan | Marketing strategy | Situation analysis | Marketing audit
+4 Hierarchy of effects | DAGMAR
+4 Elaboration likelihood model | ELM
+4 SERVQUAL | Service quality | Servicescape
+4 Total product concept | Core product | Augmented product | Actual product
+4 4 Cs | Four Cs | SIVA
+4 Share of voice | Share of wallet | Top of mind | Mindshare | Brand recall | Brand salience
+4 Halo effect | Mere exposure effect | Anchoring | Decoy effect | Framing
+4 Evoked set | Consideration set
+4 Involvement | High involvement | Low involvement
+4 Reference group | Opinion leader | Opinion leaders
+6 Mental availability | Physical availability | Distinctive assets | Double jeopardy | How Brands Grow :: Being easy to think of and easy to find. The gospel of Byron Sharp at the Ehrenberg-Bass Institute in Adelaide, whose 2010 book upended brand theory.
+6 Marketing myopia :: Theodore Levitt's 1960 warning: the railways declined because they thought they were in the railway business, when they were in the transport business.
+x Money | Sales | Profit | Business | Economics | Accounting | Finance | Company | Shop :: Business, yes, but not an idea from the marketing textbook.
+x Marketing | Concept | Theory | Model | Strategy | Idea :: Which one? Name it.

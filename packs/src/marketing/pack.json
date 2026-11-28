@@ -1,0 +1,9 @@
+{
+  "id": "marketing",
+  "name": "Marketing",
+  "title": "The Whisper in the Aisle",
+  "blurb": "Brands, slogans, channels, pricing and the arts of persuasion.",
+  "group": "Business",
+  "order": 10,
+  "asOf": "2026-11-28"
+}

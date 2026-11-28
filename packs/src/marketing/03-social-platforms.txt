@@ -1,0 +1,123 @@
+id: marketing-social-platforms
+text: Name a social media platform or messaging app.
+flavor: Something on the other side of the glass is learning what you like.
+rules: Any social network, video or photo sharing platform, forum or messaging app, living or dead.
+section: Digital
+asOf: 2026-11-28
+---
+1 Facebook | FB | Meta
+1 Instagram | Insta | IG
+1 TikTok | Tik Tok
+1 Snapchat | Snap
+1 YouTube | You Tube | YouTube Shorts
+1 X | Twitter
+2 WhatsApp | Whats App
+2 LinkedIn | Linked In
+2 Reddit
+2 Pinterest
+2 Discord
+2 Messenger | Facebook Messenger
+2 Threads
+2 Telegram
+2 WeChat | Weixin
+2 Tumblr
+2 BeReal | Be Real
+2 Twitch
+2 Myspace | My Space
+2 Bluesky | Blue Sky
+3 Signal
+3 Tinder | Bumble | Hinge | Grindr
+3 Mastodon
+3 Vine
+3 MSN | MSN Messenger | Windows Live Messenger
+3 Bebo
+3 Google+ | Google Plus
+3 Skype
+3 Viber
+3 Line | LINE
+3 KakaoTalk | Kakao
+3 QQ
+3 Weibo | Sina Weibo
+3 Douyin
+3 Xiaohongshu | RedNote | Little Red Book | Red
+3 Bilibili
+3 VK | VKontakte
+3 Quora
+3 Medium
+3 Substack
+3 Flickr
+3 Vimeo
+3 Clubhouse
+3 Kik
+3 Yik Yak
+3 Musical.ly | Musically
+3 Periscope
+3 Houseparty
+3 Omegle
+3 4chan
+3 Nextdoor
+3 Strava
+3 Letterboxd
+3 Goodreads
+3 Truth Social
+3 Parler | Gab | Rumble | Kick
+3 OnlyFans | Patreon
+3 Lemon8
+3 Slack | Microsoft Teams | Teams
+3 iMessage | FaceTime
+5 Friendster :: Three million users within months of launching in 2003. It turned down a 30 million dollar offer from Google, and was overtaken by Myspace within two years.
+4 Orkut
+4 Friends Reunited
+4 Classmates | Classmates.com
+6 SixDegrees | Six Degrees | SixDegrees.com :: Launched in 1997 and usually called the first social network: profiles, friend lists and all. It closed in 2001, a few years too early.
+4 LiveJournal
+4 Xanga
+4 Hi5
+4 Tagged
+4 Path
+4 Ello
+4 Peach
+4 Vero
+4 Dubsmash
+4 Triller
+4 Foursquare | Swarm
+4 Photobucket
+4 DeviantArt
+4 Behance | Dribbble
+4 SoundCloud | Bandcamp | Last.fm
+4 Steam
+4 Roblox
+4 Second Life | Habbo | Habbo Hotel | Club Penguin | Neopets
+4 ICQ
+4 AIM | AOL Instant Messenger
+4 Yahoo Messenger | Yahoo Groups
+4 IRC
+4 Usenet
+4 Digg
+4 StumbleUpon
+4 Delicious
+4 Ning
+4 Meetup
+4 Yelp
+4 Zalo
+4 Odnoklassniki
+4 Renren
+4 Mixi
+4 Cyworld
+4 Taringa
+4 Koo
+4 ShareChat | Moj | Josh
+4 Kuaishou
+4 Likee
+4 Imo
+4 Threema | Wickr | Wire
+4 Gettr
+4 Post | Post.news
+4 Spoutible
+4 Cohost
+4 Pillowfort
+4 Diaspora
+4 Pixelfed | Lemmy | Misskey | Fediverse
+4 Nostr
+x Google | Amazon | Netflix | Spotify | Email | Gmail | Outlook | ChatGPT | Wikipedia | eBay | Uber | Canva :: Online, and enormous, but not a social network or a messaging app.
+x Social media | Internet | App | Phone | Website | The socials :: Which one? Name the platform.

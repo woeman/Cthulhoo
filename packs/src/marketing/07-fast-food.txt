@@ -1,0 +1,141 @@
+id: marketing-fast-food
+text: Name a fast food or restaurant chain.
+flavor: The same sign on every highway in the world. You are never far from one. That is the idea.
+rules: Any chain of fast food outlets, cafés or casual restaurants, Australian or overseas.
+section: Brands
+asOf: 2026-11-28
+---
+1 McDonald's | McDonalds | Maccas | Macca's | Mickey D's
+1 KFC | Kentucky Fried Chicken
+1 Hungry Jack's | Hungry Jacks | Burger King | HJs
+1 Subway
+1 Domino's | Dominos | Domino's Pizza
+2 Red Rooster
+2 Nando's | Nandos
+2 Guzman y Gomez | GYG | Guzman
+2 Pizza Hut
+2 Oporto
+2 Grill'd | Grilld
+2 Starbucks
+2 Zambrero
+2 Boost Juice | Boost
+2 Krispy Kreme
+2 Donut King
+2 Taco Bell
+2 Sushi Train | Sushi Hub | Sushi Sushi
+2 Mad Mex
+2 Betty's Burgers | Bettys Burgers
+2 Chargrill Charlie's | Chargrill Charlies
+2 Schnitz
+2 Roll'd | Rolld
+2 Carl's Jr | Carls Jr
+2 Wendy's | Wendys | Wendy's Milk Bar | Wendys Supa Sundaes
+2 Five Guys
+2 Gloria Jean's | Gloria Jeans
+2 The Coffee Club | Coffee Club
+2 Muffin Break
+2 Michel's Patisserie | Michels
+2 Bakers Delight
+3 Brumby's | Brumbys
+3 Pie Face
+3 Chatime | Gong Cha | Sharetea
+3 Baskin-Robbins | Baskin Robbins
+3 Cold Rock | Cold Rock Ice Creamery
+3 Gelatissimo | Messina | Gelato Messina
+3 Max Brenner | San Churro | Oliver Brown
+3 Crust | Crust Pizza | Pizza Capers | Eagle Boys
+3 Noodle Box | Wok in a Box | Wokinabox
+3 El Jannah
+3 Soul Origin
+3 Jamaica Blue
+3 Hudsons Coffee | Hudsons
+3 Zarraffa's | Zarraffas
+3 McCafé | McCafe
+3 Hog's Breath | Hogs Breath | Hog's Breath Cafe | Hog's Australia's Steakhouse
+3 Rashays
+3 Outback Steakhouse
+3 Lone Star | Lone Star Rib House
+6 Sizzler :: The all-you-can-eat salad bar and its cheese toast, beloved of Australian families from 1985. The last nine restaurants closed in November 2020.
+3 Pancake Parlour | Pancakes on the Rocks | Pancake Manor
+3 La Porchetta
+3 Fasta Pasta
+3 Vapiano
+3 Ribs & Burgers | Ribs and Burgers
+3 Mos Burger | MOS Burger
+4 Wingstop
+4 Popeyes | Popeyes Louisiana Kitchen
+4 Chick-fil-A | Chick fil A
+4 In-N-Out | In-N-Out Burger | In N Out
+4 Shake Shack
+4 Chipotle
+4 Dunkin' | Dunkin Donuts | Dunkin' Donuts | Dunkin
+4 Panda Express
+4 Tim Hortons | Tim Hortons Canada | Timmies
+4 Little Caesars
+4 Papa John's | Papa Johns
+4 Arby's | Arbys
+4 Dairy Queen | DQ
+4 Sonic | Sonic Drive-In
+4 Jack in the Box
+4 White Castle
+4 Whataburger
+4 Panera | Panera Bread
+4 Pret a Manger | Pret
+4 Greggs
+4 Wagamama
+4 Jollibee
+4 Yo! Sushi | YO! Sushi
+4 Itsu
+4 Costa | Costa Coffee
+4 Tim Ho Wan | Din Tai Fung
+4 Yoshinoya | Sukiya | CoCo Ichibanya
+4 Lotteria
+4 Mixue
+4 Luckin | Luckin Coffee
+4 Pizza Express | PizzaExpress
+4 Olive Garden
+4 Applebee's | Applebees
+4 Denny's | Dennys
+4 IHOP
+4 Hooters
+4 TGI Fridays | TGI Friday's | Fridays
+4 Hard Rock Cafe
+4 Nobu
+4 Cheesecake Factory | The Cheesecake Factory
+4 Red Lobster
+4 Waffle House
+4 Cinnabon
+4 Auntie Anne's | Auntie Annes
+4 Quiznos
+4 Jimmy John's | Jersey Mike's
+4 Fatburger
+4 Johnny Rockets
+4 A&W
+4 Long John Silver's
+4 Church's Chicken | Texas Chicken
+4 Bojangles
+4 Raising Cane's | Raising Canes | Zaxby's
+4 Wimpy
+4 Chicken Treat
+4 Chooks | Chooks Fresh & Tasty
+6 Barnacle Bill | Barnacle Bill's :: An Adelaide seafood chain since 1970. South Australians will tell you it was the first drive-through in the country.
+4 Henny Penny
+4 Ali Baba | Ali Baba Kebabs
+4 Salsa's | Salsas Fresh Mex
+4 Montezuma's | Taco Bill
+4 Pizza Haven
+4 Australian Pizza Kitchen
+4 Frango | Frangos
+4 Hunky Dory
+4 Sumo Salad | SumoSalad
+4 Cibo | Cibo Espresso
+4 Degani
+4 Dôme | Dome | Dome Cafe
+4 Shingle Inn
+4 Stellarossa
+4 The Cheesecake Shop | Cheesecake Shop
+4 Ferguson Plarre
+4 Beechworth Bakery
+4 Banjo's | Banjos Bakery
+x Woolworths | Coles | Aldi | IGA | 7-Eleven | Bunnings | Kmart | Uber Eats | DoorDash | Menulog | Deliveroo :: You can get food there, or through it, but it is not a restaurant chain.
+x Burger | Pizza | Chips | Fish and chips | Kebab | Takeaway | Restaurant | Cafe | Pub | Fast food :: Which chain? Name it.
