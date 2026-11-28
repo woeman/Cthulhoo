@@ -286,6 +286,8 @@ const lexicons = loadLexicons();
 const seenIds = new Map();
 const riddleIds = new Map();
 const riddleDays = [];
+const promptDays = [];
+const PROMPTS_PER_DAY = 7; // as in src/game/daily.ts
 const rows = [];
 let riddleCount = 0;
 const files = readdirSync(dataDir).filter((f) => f.endsWith(".json") && f !== "theme.json").sort();
@@ -294,8 +296,8 @@ for (const file of files) {
   const where = `data/${file}`;
   const data = readJson(join(dataDir, file));
   if (!data) continue;
-  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles)) {
-    error(where, 'expected { "prompts": [ ... ] } or { "riddles": [ ... ] }');
+  if (!Array.isArray(data.prompts) && !Array.isArray(data.riddles) && !Array.isArray(data.days)) {
+    error(where, 'expected { "prompts": [ ... ] }, { "riddles": [ ... ] } or { "days": [ ... ] }');
     continue;
   }
   for (const key of Object.keys(data)) {
@@ -309,6 +311,30 @@ for (const file of files) {
     if (checkRiddle(riddle, where, riddleIds)) riddleCount++;
   }
   if (Array.isArray(data.riddles) && data.days !== undefined) riddleDays.push({ where, days: data.days });
+  else if (data.days !== undefined) promptDays.push({ where, days: data.days });
+}
+
+// Fixed daily dives (written by scripts/freeze-days.mjs) must name real prompts, at most a day's
+// worth and each once, and each date may be fixed only once across the bank.
+const promptDates = new Map();
+for (const { where, days } of promptDays) {
+  if (!Array.isArray(days)) {
+    error(where, "days must be a list");
+    continue;
+  }
+  for (const d of days) {
+    const date = d?.date;
+    if (!isText(date) || !/^\d{4}-\d{2}-\d{2}$/.test(date)) error(where, `day ${JSON.stringify(d).slice(0, 60)} needs a date like 2026-12-25`);
+    else if (promptDates.has(date)) error(where, `${date} is fixed twice (also in ${promptDates.get(date)})`);
+    else promptDates.set(date, where);
+    if (!isTextList(d?.prompts) || d.prompts.length === 0) {
+      error(where, `day ${date} needs a list of prompt ids`);
+      continue;
+    }
+    if (d.prompts.length > PROMPTS_PER_DAY) error(where, `day ${date} lists ${d.prompts.length} prompts; a day holds ${PROMPTS_PER_DAY}`);
+    if (new Set(d.prompts).size !== d.prompts.length) error(where, `day ${date} lists a prompt twice`);
+    for (const id of d.prompts) if (!seenIds.has(id)) error(where, `day ${date} names unknown prompt "${id}"`);
+  }
 }
 
 // Fixed riddle dates must name real riddles, once per date.
