@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import {
   CENSUS_DIVERS_MAX,
+  CENSUS_MIN,
   CENSUS_TOP,
   airLine,
   censusFull,
@@ -164,5 +165,13 @@ describe('the answers most given', () => {
     expect(outOfAir(count(10, 1, [['Paris', 10]]))).toBe(0);
     expect(airLine(30, 200, false)).toBe('15% ran out of air.');
     expect(airLine(30, 200, true)).toBe('15% ran out of air, you among them.');
+  });
+});
+
+describe('the bar for shares', () => {
+  it('shows shares from ten divers on a question', () => {
+    expect(CENSUS_MIN).toBe(10);
+    expect(censusLine(count(9, 2), CENSUS_MIN, true)).toBe('One of 9 divers to face this today.');
+    expect(censusLine(count(10, 2), CENSUS_MIN, true)).toBe('20% of today’s 10 divers said it.');
   });
 });

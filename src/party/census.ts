@@ -12,8 +12,12 @@ export const CENSUS_ANSWERS_MAX = 2000;
 export const CENSUS_PROMPTS_MAX = 64;
 /** Questions one read may ask about. */
 export const CENSUS_READ_MAX = 12;
-/** Below this many divers on a question, shares are not shown: a handful of divers says little. */
-export const CENSUS_MIN = 20;
+/**
+ * Below this many divers on a question, shares are not shown: a handful says little,
+ * and in a small group a share could tell whose answer was whose. Ten lets a group
+ * of friends see shares while keeping each answer one among many.
+ */
+export const CENSUS_MIN = 10;
 /**
  * Divers counted on one question in a day. Past it the shares are those of the
  * first this many, which keeps the census inside the relay's free allowance
