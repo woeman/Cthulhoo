@@ -1,0 +1,347 @@
+# Name a type of rock.
+
+Question id: `rocks` · category: science · source: `data/science.json`
+
+Rules: Any kind of rock, igneous, sedimentary or metamorphic, including the big families, named building stones, volcanic glass and rocks from space. Minerals, loose sediment and things people make don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (275 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Granite — Pink granite | Grey granite | Gray granite | Red granite | Aberdeen granite | Cornish granite | Shap granite | Rubislaw granite | Barre granite | Quincy granite | Dartmoor granite | Moorstone
+- Marble
+- Limestone
+- Sandstone — Red sandstone
+- Basalt — Basaltic rock | Columnar basalt | Pillow basalt | Pillow lava | Flood basalt | Basaltic lava
+- Slate — Welsh slate | Delabole slate | Cornish slate
+- Chalk
+- Igneous — Igneous rock
+- Sedimentary — Sedimentary rock
+- Metamorphic — Metamorphic rock
+- Pumice — Pumice stone
+- Obsidian — Volcanic glass | Dragonglass | Snowflake obsidian | Apache tear | Rainbow obsidian | Mahogany obsidian | Black obsidian
+
+### Tier 2: common (22)
+
+- Shale
+- Flint — Flintstone
+- Coal — Coal rock
+- Quartzite — Metaquartzite | Orthoquartzite | Sioux quartzite
+- Gneiss
+- Schist
+- Gabbro — Black granite | Absolute Black
+- Diorite
+- Andesite
+- Rhyolite
+- Tuff
+- Mudstone
+- Siltstone
+- Conglomerate
+- Breccia
+- Dolomite — Dolostone | Dolomite rock
+- Volcanic rock — Lava rock | Volcanic stone | Lava | Lava stone | Pahoehoe | Aa lava | Aa | Ropy lava
+- Scoria — Cinder | Volcanic cinder
+- Chert — Hornstone | Lydite | Lydian stone
+- Soapstone — Steatite | Soap rock
+- Travertine
+- Rock salt — Halite
+
+### Tier 3: known to fans (43)
+
+- Peridotite
+- Dacite
+- Dolerite — Diabase | Whinstone | Microgabbro
+- Porphyry — Quartz porphyry | Rhomb porphyry
+- Pegmatite
+- Syenite
+- Trachyte
+- Phyllite
+- Hornfels
+- Serpentinite — Serpentine
+- Amphibolite
+- Eclogite
+- Migmatite
+- Claystone
+- Greywacke — Graywacke
+- Arkose
+- Marl — Marlstone
+- Oolite — Oolitic limestone
+- Coquina
+- Tufa
+- Ironstone — Iron ore
+- Anthracite — Hard coal
+- Lignite — Brown coal
+- Bituminous coal — Black coal | Soft coal
+- Gypsum — Rock gypsum
+- Alabaster — Onyx marble | Egyptian alabaster | Calcite alabaster
+- Evaporite
+- Jade
+- Lapis lazuli — Lapis
+- Kimberlite
+- Ignimbrite — Welded tuff
+- Komatiite
+- Dunite
+- Anorthosite
+- Meteorite — Stony meteorite | Space rock | Iron meteorite | Stony-iron meteorite
+- Granodiorite
+- Diatomite — Kieselguhr | Diatomaceous earth
+- Bauxite
+- Mylonite
+- Granulite
+- Monzonite
+- Phonolite
+- Portland stone — Portland limestone
+
+### Tier 4: obscure (40)
+
+- Tonalite
+- Norite
+- Carbonatite
+- Perlite
+- Pitchstone
+- Larvikite — Blue Pearl granite | Blue Pearl | Emerald Pearl
+- Bluestone — Preseli bluestone | Spotted dolerite
+- Puddingstone — Hertfordshire puddingstone
+- Greensand
+- Gritstone — Grit
+- Flagstone
+- Millstone grit
+- Oil shale
+- Banded iron formation — Banded ironstone | BIF
+- Tillite
+- Blueschist — Glaucophane schist
+- Greenschist
+- Greenstone
+- Mica schist
+- Tektite
+- Chondrite — Carbonaceous chondrite | Ordinary chondrite
+- Moon rock — Lunar rock
+- Plutonic rock — Plutonic
+- Intrusive rock — Intrusive
+- Extrusive rock — Extrusive
+- Clastic rock — Clastic
+- Pyroclastic rock — Pyroclastic
+- Carrara marble — Calacatta | Calacatta marble | Statuario | Statuario marble
+- Purbeck marble
+- Bath stone
+- York stone
+- Old Red Sandstone — Old Red
+- Jasper
+- Coral rock — Coral stone | Coral limestone | Reef limestone | Reef rock
+- Brownstone
+- Mudrock
+- Carbonate rock
+- Agate
+- Bloodstone — Heliotrope
+- Tiger's eye — Tiger eye
+
+### Tier 5: expert (157)
+
+- Lamproite
+- Pyroxenite
+- Hornblendite
+- Harzburgite
+- Lherzolite
+- Aplite
+- Felsite
+- Basanite
+- Tephrite
+- Latite
+- Picrite
+- Troctolite
+- Charnockite
+- Essexite
+- Lamprophyre
+- Tachylite
+- Hyaloclastite
+- Spilite
+- Rapakivi granite — Baltic Brown
+- Graphic granite
+- Granophyre
+- Greisen
+- Ijolite
+- Nepheline syenite
+- Boninite
+- Agglomerate
+- Volcanic breccia
+- Pele's hair — Pele's tears
+- Reticulite
+- Ragstone — Kentish ragstone | Kentish rag
+- Freestone
+- Black shale
+- Laterite
+- Calcrete
+- Silcrete
+- Ferricrete
+- Caliche
+- Phosphorite
+- Radiolarite
+- Novaculite — Arkansas stone
+- Anhydrite
+- Cannel coal — Candle coal
+- Sub-bituminous coal
+- Jet
+- Stromatolite
+- Turbidite
+- Diamictite
+- Skarn — Tactite
+- Garnet schist
+- Argillite
+- Cataclasite
+- Pseudotachylite
+- Impactite
+- Suevite
+- Fulgurite
+- Moldavite
+- Pallasite
+- Achondrite — Eucrite | Howardite | Diogenite | HED meteorite
+- Cotswold stone
+- Caen stone
+- Connemara marble
+- New Red Sandstone
+- Lewisian gneiss
+- Coral rag
+- Petrified wood — Fossilised wood | Fossilized wood
+- Nephrite
+- Jadeite — Jadeitite
+- Taconite
+- Elvan
+- Sarsen — Sarsen stone | Sarsens | Greywether
+- Martian meteorite — Mars rock | Martian rock | Mars meteorite | Shergottite | Nakhlite | Chassignite
+- Pipestone — Catlinite
+- Makrana marble
+- Ham stone — Ham Hill stone
+- Carrstone
+- Micrite
+- Flowstone — Dripstone
+- Indiana limestone — Bedford stone
+- Jerusalem stone
+- Kota stone
+- Sydney sandstone — Hawkesbury sandstone
+- Tyndall stone
+- Pietra serena
+- Istrian stone
+- Ketton stone
+- Beer stone
+- Barnack stone — Barnack rag
+- Clipsham stone
+- Doulting stone
+- Chilmark stone
+- Reigate stone
+- Anston stone
+- Hopton Wood stone
+- Hornton stone
+- Horsham stone
+- Clunch
+- Sussex marble — Petworth marble
+- Frosterley marble
+- Kilkenny marble
+- Parian marble
+- Pentelic marble
+- Yule marble
+- Vermont marble
+- Georgia marble
+- Verde antique
+- Ailsa Craig granite — Ailsite | Ailsa Craig microgranite
+- Mesosiderite
+- Libyan desert glass — Libyan glass
+- Darwin glass
+- Porcellanite — Porcelanite
+- Unakite
+- Arenite — Quartz arenite
+- Wacke
+- Wackestone
+- Packstone
+- Grainstone
+- Boundstone
+- Psammite
+- Nummulitic limestone
+- Shelly limestone — Fossiliferous limestone
+- Crinoidal limestone
+- Lithographic limestone — Solnhofen limestone
+- Calcarenite
+- Ultramafic rock — Ultramafic
+- Mafic rock — Mafic
+- Felsic rock
+- Hypabyssal rock — Hypabyssal
+- Granitoid
+- Microgranite
+- Monzogranite
+- Leucogranite
+- Quartz diorite
+- Quartz monzonite
+- Monzodiorite
+- Trondhjemite
+- Adakite
+- Shoshonite
+- Hawaiite
+- Mugearite
+- Benmoreite
+- Trachyandesite
+- Trachybasalt
+- Basaltic andesite
+- Nephelinite
+- Rhyodacite
+- Augen gneiss
+- Orthogneiss
+- Paragneiss
+- Talc schist
+- Chlorite schist
+- Metaconglomerate
+- Metabasalt
+- Metagabbro
+- Sinter — Siliceous sinter | Geyserite
+- Sylvinite
+- Jaspilite
+- Itabirite
+
+### Tier 6: rare jackpots (1)
+
+- Itacolumite — Flexible sandstone
+
+## Refused on purpose (38)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Quartz | Feldspar | Mica | Calcite | Pyrite | Haematite | Magnetite | Lodestone | Olivine | Garnet | Diamond | Ruby | Sapphire | Emerald | Topaz | Turquoise | Opal | Amethyst | Fluorite | Talc | Graphite | Asbestos | Galena | Malachite | Azurite | Moonstone | Rose quartz | Zircon | Beryl | Corundum | Hornblende | Pyroxene | Muscovite | Biotite | Orthoclase | Plagioclase | Kaolinite | Chalcedony | Cinnabar | Sulphur | Sulfur | Mineral | Brimstone | Rock crystal | Selenite — "A mineral, not a rock. Rocks are made of minerals."
+- Gold | Silver | Iron | Copper | Lead | Tin | Platinum | Aluminium | Metal — "A metal, not a rock."
+- Amber | Copal — "Fossilised tree resin, not a rock."
+- Coral — "An animal. Its skeletons build reefs that can turn into limestone."
+- Fossil | Ammonite | Trilobite — "Rocks hold them, but a fossil isn't a kind of rock."
+- Magma | Molten rock — "Molten rock. Once it cools and sets, it becomes a rock such as basalt."
+- Volcanic ash | Ash — "Loose ash. Settled and hardened, it becomes tuff."
+- Sand | Sediment — "Loose sediment, not yet a rock. Cemented together, it becomes sandstone."
+- Mud | Clay | Silt | Ooze | Kaolin | China clay — "Loose sediment, not yet a rock. Pressed into stone, it becomes mudstone."
+- Soil | Dirt | Earth | Loam | Topsoil — "A mix of rock grains, rotting plants and life. Not a rock."
+- Peat — "Not yet a rock. Given time and pressure, it becomes coal."
+- Boulder | Pebble | Cobble | Cobblestone | Gravel — "A size of rock, not a kind of rock."
+- Crystal — "A shape that minerals grow in, not a rock."
+- Geode | Thunder egg — "A hollow stone lined with crystals: a shape, not a kind of rock."
+- Stalactite | Stalagmite — "A shape that rock takes in caves, not a kind of rock."
+- Meteor | Shooting star — "The streak of light, not the rock. The rock that lands has another name."
+- Asteroid | Comet — "A rocky body in space, not a kind of rock."
+- Concrete | Brick | Cement | Tarmac | Asphalt | Mortar | Terrazzo | Glass | Breeze block | Cinder block | Clinker | Porcelain | Coke — "Made by people, not by nature."
+- Rock and roll | Rock 'n' roll | Punk rock | Hard rock | Glam rock | Prog rock | Indie rock | Soft rock | Classic rock | Rock music — "Music, not geology."
+- Brighton rock | Seaside rock | Edinburgh rock | Rock candy | Rocky road | Rock cake | Rock bun — "Something to eat, not geology."
+- Dwayne Johnson — "A wrestler and actor, not geology."
+- Uluru | Ayers Rock | Rock of Gibraltar | Gibraltar | Plymouth Rock | Giant's Causeway — "A famous place, not a kind of rock. Name what it is made of."
+- Stonehenge — "A monument, not a kind of rock. It is built from two main kinds: name one."
+- Kidney stone | Gallstone — "Not that kind of stone."
+- Philosopher's stone | Sorcerer's stone — "A legend of the alchemists, never found."
+- Kryptonite — "A mineral from Superman's stories, and not a real one."
+- Charcoal — "Wood charred by people, not a rock."
+- Birthstone | Gemstone | Gem — "A jeweller's word. Most gems are minerals, not rocks."
+- Whetstone | Grindstone | Millstone | Curling stone | Hagstone | Touchstone | Hearthstone | Gravestone | Headstone | Tombstone | Cornerstone | Stepping stone — "Named for its use or shape, not a kind of rock. Name what it is made of."
+- Coade stone — "A fired clay made by people to look like carved stone."
+- Rock | Stone — "Which kind of rock? Name one."
+- Bedrock — "The solid rock beneath the soil, whatever kind it happens to be."
+- Scree | Shingle — "Loose broken rock or pebbles, not a kind of rock."
+- Tephra | Lapilli — "Loose fragments thrown out by a volcano. Hardened together, they become rock such as tuff."
+- Regolith | Lunar regolith | Moon dust — "Loose dust and broken rock, not a kind of rock."
+- Till | Boulder clay | Glacial till — "Loose sediment left by glaciers, not yet a rock."
+- Loess — "Wind-blown dust: loose sediment, not a rock."
+- Rosetta Stone | Blarney Stone | Stone of Scone | Stone of Destiny — "A famous stone, not a kind of rock. Name what it is made of."

@@ -1,0 +1,353 @@
+# Name a breed of dog.
+
+Question id: `dog-breeds` · category: nature · source: `data/nature.json`
+
+Rules: Any dog breed, past or present. Established crossbreeds with their own names, like the Labradoodle, count too.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (308 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Labrador Retriever — Labrador | Lab
+- German Shepherd — Alsatian | German Shepherd Dog | GSD
+- Golden Retriever — Golden
+- Poodle — Standard Poodle | Toy Poodle | Miniature Poodle
+- Bulldog — English Bulldog | British Bulldog
+- Chihuahua
+- Beagle
+- Pug
+- Dachshund — Sausage dog | Wiener dog | Doxie | Miniature Dachshund | Daschund | Dachsund
+- Siberian Husky — Husky
+
+### Tier 2: common (31)
+
+- Rottweiler — Rottie
+- Border Collie
+- Boxer
+- Dalmatian
+- Great Dane — Deutsche Dogge
+- Yorkshire Terrier — Yorkie
+- Jack Russell Terrier — Jack Russell | Russell Terrier
+- Cocker Spaniel — English Cocker Spaniel | American Cocker Spaniel | Cocker
+- Pomeranian — Pom
+- Shih Tzu — Shitzu
+- French Bulldog — Frenchie
+- Dobermann — Doberman | Doberman Pinscher | Dobie | Dobe
+- Greyhound
+- Pembroke Welsh Corgi — Corgi | Welsh Corgi | Pembroke Corgi
+- Labradoodle
+- Cockapoo — Cockerpoo | Spoodle
+- Saint Bernard — St Bernard
+- Rough Collie — Collie
+- Staffordshire Bull Terrier — Staffy | Staffie
+- American Pit Bull Terrier — Pit Bull
+- Schnauzer — Miniature Schnauzer | Giant Schnauzer | Standard Schnauzer
+- Maltese
+- Whippet
+- Chow Chow — Chow
+- Akita — Akita Inu | American Akita
+- Basset Hound — Basset
+- Bloodhound
+- English Springer Spaniel — Springer Spaniel | Springer
+- Bichon Frise — Bichon
+- Shar Pei — Chinese Shar-Pei
+- Basenji
+
+### Tier 3: known to fans (58)
+
+- Cavalier King Charles Spaniel — Cavalier
+- Weimaraner — Weim
+- Vizsla
+- Samoyed
+- Alaskan Malamute — Malamute
+- Shiba Inu — Shiba
+- Bernese Mountain Dog — Bernese | Berner
+- Newfoundland — Newfie
+- Irish Wolfhound — Wolfhound
+- Afghan Hound — Afghan
+- Lhasa Apso
+- Pekingese — Peke
+- Papillon
+- West Highland White Terrier — Westie | West Highland Terrier
+- Scottish Terrier — Scottie | Scotty
+- Bull Terrier — English Bull Terrier
+- Airedale Terrier — Airedale
+- Border Terrier
+- Old English Sheepdog — Bobtail
+- Shetland Sheepdog — Sheltie
+- Australian Shepherd — Aussie
+- Mastiff — English Mastiff
+- Bullmastiff
+- Cane Corso — Italian Mastiff
+- Rhodesian Ridgeback — Ridgeback
+- Boston Terrier
+- Miniature Pinscher — Min Pin
+- Havanese
+- Dogue de Bordeaux — French Mastiff
+- Great Pyrenees — Pyrenean Mountain Dog
+- Pointer — English Pointer
+- Irish Setter — Red Setter
+- English Setter
+- Saluki
+- Borzoi — Russian Wolfhound
+- Italian Greyhound
+- Leonberger
+- Keeshond
+- Goldendoodle — Groodle
+- Cavapoo — Cavoodle
+- Puggle
+- Maltipoo — Moodle
+- Australian Cattle Dog — Blue Heeler | Heeler | Red Heeler | Queensland Heeler
+- Kelpie — Australian Kelpie
+- Belgian Malinois — Malinois
+- German Shorthaired Pointer — GSP
+- Bearded Collie
+- Komondor — Hungarian Sheepdog | Mop dog
+- Xoloitzcuintli — Xolo | Mexican Hairless | Xoloitzcuintle
+- Chinese Crested — Chinese Crested Dog
+- Cairn Terrier
+- Fox Terrier — Wire Fox Terrier | Smooth Fox Terrier | Wire-haired Fox Terrier
+- American Staffordshire Terrier — AmStaff | Staffordshire Terrier
+- Patterdale Terrier
+- Lurcher
+- American Bulldog
+- American Bully — XL Bully | Bully XL
+- Belgian Shepherd — Belgian Shepherd Dog
+
+### Tier 4: obscure (102)
+
+- Puli — Pulik
+- Bedlington Terrier
+- Dandie Dinmont Terrier
+- Sealyham Terrier
+- Lakeland Terrier
+- Welsh Terrier
+- Kerry Blue Terrier
+- Soft-coated Wheaten Terrier — Wheaten Terrier | Wheaten
+- Norfolk Terrier
+- Norwich Terrier
+- Skye Terrier
+- Manchester Terrier
+- Parson Russell Terrier
+- Rat Terrier
+- Affenpinscher
+- Brussels Griffon — Griffon Bruxellois
+- Japanese Chin
+- Tibetan Spaniel
+- Tibetan Terrier
+- Tibetan Mastiff
+- Anatolian Shepherd — Anatolian Shepherd Dog
+- Kangal — Kangal Shepherd
+- Caucasian Shepherd
+- Neapolitan Mastiff
+- Presa Canario
+- Boerboel
+- Fila Brasileiro
+- Tosa
+- Dogo Argentino
+- Bouvier des Flandres — Bouvier
+- Briard
+- Beauceron
+- Portuguese Water Dog
+- Spanish Water Dog
+- Lagotto Romagnolo — Lagotto
+- Flat-coated Retriever
+- Chesapeake Bay Retriever
+- Nova Scotia Duck Tolling Retriever — Toller | Duck Tolling Retriever
+- Curly-coated Retriever
+- Clumber Spaniel
+- Sussex Spaniel
+- Field Spaniel
+- Welsh Springer Spaniel
+- Brittany — Brittany Spaniel
+- German Wirehaired Pointer
+- Spinone Italiano — Spinone | Italian Spinone
+- Bracco Italiano
+- Pharaoh Hound
+- Ibizan Hound
+- Scottish Deerhound — Deerhound
+- Otterhound
+- Harrier
+- Foxhound — English Foxhound | American Foxhound
+- Coonhound — Black and Tan Coonhound
+- Petit Basset Griffon Vendéen — PBGV
+- Norwegian Elkhound
+- Finnish Spitz
+- Swedish Vallhund
+- Cardigan Welsh Corgi — Cardigan Corgi
+- Jindo
+- American Eskimo Dog
+- Schipperke
+- Greater Swiss Mountain Dog — Swissy
+- Entlebucher Mountain Dog
+- Kuvasz
+- Catahoula Leopard Dog
+- Black Russian Terrier
+- Coton de Tuléar — Coton
+- Bolognese
+- Löwchen
+- Czechoslovakian Wolfdog — Czech Wolfdog
+- Saarloos Wolfdog
+- Alaskan Klee Kai
+- Australian Terrier
+- Silky Terrier
+- Toy Fox Terrier
+- Chinook
+- Eurasier
+- Hovawart
+- Polish Lowland Sheepdog
+- Bergamasco
+- Pyrenean Mastiff — Mastín del Pirineo
+- Estrela Mountain Dog
+- Plott Hound
+- Bluetick Coonhound — Bluetick
+- Redbone Coonhound
+- Treeing Walker Coonhound
+- Sprocker
+- Jackapoo
+- Schnoodle
+- Dingo
+- German Spitz
+- German Pinscher
+- Pomsky
+- Bernedoodle
+- Cavachon
+- Irish Terrier
+- Morkie
+- Maremma Sheepdog — Maremma | Maremmano-Abruzzese
+- Huntaway — New Zealand Huntaway
+- Sheepadoodle
+- King Charles Spaniel — English Toy Spaniel
+
+### Tier 5: expert (105)
+
+- Azawakh
+- Sloughi
+- Finnish Lapphund
+- Icelandic Sheepdog
+- Lapponian Herder
+- Karelian Bear Dog
+- Kai Ken
+- Kishu Ken
+- Shikoku
+- Hokkaido
+- Volpino Italiano
+- Japanese Spitz
+- Appenzeller Sennenhund
+- Spanish Mastiff
+- Mudi
+- Pumi
+- Croatian Sheepdog
+- Mountain Cur
+- Carolina Dog
+- Peruvian Inca Orchid — Peruvian Hairless Dog
+- Thai Ridgeback
+- Phu Quoc Ridgeback
+- Russian Toy
+- Biewer Terrier
+- Glen of Imaal Terrier
+- Cesky Terrier
+- Jagdterrier
+- Kooikerhondje — Kooiker
+- Stabyhoun
+- Drentse Patrijshond
+- Wetterhoun
+- Kromfohrländer
+- Pudelpointer
+- Large Münsterländer
+- Small Münsterländer
+- Bavarian Mountain Hound
+- Hanoverian Scenthound
+- Tatra Shepherd
+- Karakachan
+- Chippiparai
+- Rajapalayam
+- Mudhol Hound
+- Indian Pariah
+- Telomian
+- Canaan Dog
+- Africanis
+- Koolie
+- Tenterfield Terrier
+- Australian Stumpy Tail Cattle Dog
+- Grand Basset Griffon Vendéen
+- Basset Fauve de Bretagne
+- Wirehaired Pointing Griffon
+- Barbet
+- Braque du Bourbonnais
+- Picardy Spaniel
+- Small Swiss Hound
+- Segugio Italiano
+- Cirneco dell'Etna — Cirneco
+- Portuguese Podengo
+- Majorca Shepherd
+- Catalan Sheepdog
+- Pyrenean Shepherd
+- Berger Picard — Picardy Shepherd
+- Dutch Shepherd
+- Belgian Tervuren
+- Belgian Groenendael
+- Belgian Laekenois
+- Lancashire Heeler
+- Norwegian Buhund
+- Gordon Setter
+- Irish Red and White Setter
+- Irish Water Spaniel
+- Boykin Spaniel
+- American Water Spaniel
+- English Toy Terrier
+- Sporting Lucas Terrier
+- Plummer Terrier
+- Lucas Terrier
+- Danish-Swedish Farmdog
+- Chinese Chongqing Dog
+- Xiasi Dog
+- Bully Kutta
+- Gull Dong
+- Alano Español
+- Ca de Bou — Majorca Mastiff | Perro de Presa Mallorquin
+- Sarplaninac
+- Tornjak
+- Bosnian Coarse-haired Hound
+- Istrian Shorthaired Hound
+- Posavac Hound
+- Kintamani
+- Taiwan Dog
+- Korean Sapsali
+- Pungsan
+- Tibetan Kyi Apso
+- Talbot
+- St. John's Water Dog — St John's Dog | Lesser Newfoundland
+- Old English Bulldog
+- Molossus
+- Tahltan Bear Dog
+- Salish Wool Dog — Woolly dog
+- Hare Indian Dog
+- Galgo Español — Galgo | Spanish Greyhound
+- King Shepherd
+- Swedish Lapphund
+
+### Tier 6: rare jackpots (2)
+
+- Norwegian Lundehund — Lundehund | Puffin dog
+- Turnspit Dog — Turnspit | Kitchen dog | Vernepator Cur
+
+## Refused on purpose (11)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Wolf — "The ancestor, not a breed."
+- Mongrel | Mutt | Mixed breed | Heinz 57 — "Beloved, but a mixture, not a breed."
+- Hyena — "Closer to a cat than a dog, believe it or not."
+- Fox | Coyote | Jackal — "A different animal, however much it looks like a dog."
+- Scooby-Doo | Scooby — "A Great Dane, if you want the breed."
+- Snoopy — "A Beagle, if you want the breed."
+- Lassie — "A Rough Collie, if you want the breed."
+- Cerberus — "Three-headed guard dog of the underworld. Not a breed, sadly."
+- Hellhound — "Not a breed, though some owners would disagree."
+- Hound | Terrier | Spaniel | Retriever | Shepherd | Sheepdog | Setter | Pinscher | Spitz — "That is a whole family of breeds. Which one?"
+- Clifford — "Fictional, and enormous."

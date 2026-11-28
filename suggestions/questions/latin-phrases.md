@@ -1,0 +1,455 @@
+# Name a Latin phrase used in English.
+
+Question id: `latin-phrases` · category: language · source: `data/language.json`
+
+Rules: A phrase of two or more Latin words, or the Latin behind an abbreviation like etc. or e.g. Single words like ergo or alibi don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (405 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Carpe diem — Carpe diem, quam minimum credula postero
+- Et cetera — Etc | Et caetera | &c | Ect | Ektsetera
+- Ad hoc
+- Status quo
+- Per se — Per say
+- Vice versa
+- Bona fide — Bona fides
+- Quid pro quo
+- Alter ego
+- Veni, vidi, vici
+- Et tu, Brute — Et tu | Et tu Brutus
+- Ad infinitum
+
+### Tier 2: common (42)
+
+- Exempli gratia — e.g.
+- Id est — i.e.
+- Nota bene — N.B.
+- Post scriptum — P.S. | Postscript | Post post scriptum | PPS
+- Anno Domini — AD | A.D.
+- Ante meridiem — a.m. | am | Ante meridian
+- Post meridiem — p.m. | Post meridian
+- Curriculum vitae — CV
+- Requiescat in pace — RIP
+- Quod erat demonstrandum — QED
+- Cogito, ergo sum — Cogito
+- Habeas corpus
+- Ad nauseam
+- Mea culpa — Mea maxima culpa
+- Per annum
+- Per capita
+- Per diem
+- Pro bono — Pro bono publico
+- Pro rata
+- Caveat emptor
+- Tempus fugit
+- Memento mori
+- Persona non grata
+- Deus ex machina — Ex machina
+- In vitro — In vitro fertilisation | In vitro fertilization
+- In memoriam
+- Magnum opus
+- Alma mater
+- Terra firma
+- Rigor mortis
+- Non sequitur
+- De facto
+- Ad hominem — Argumentum ad hominem
+- Ad libitum — Ad lib
+- Modus operandi — MO
+- Post mortem
+- Magna Carta — Magna Charta
+- Homo sapiens
+- Vox populi — Vox pop | Vox populi, vox Dei
+- Versus — vs | v.
+- Circa — ca
+- Ave Maria
+
+### Tier 3: known to fans (74)
+
+- Lorem ipsum — Lorem ipsum dolor sit amet | Lorem ipsum dolor
+- Alea iacta est — Alea jacta est | Iacta alea est
+- In vino veritas
+- Semper fidelis — Semper fi
+- E pluribus unum
+- Et alii — Et al | Et alia | Et aliae
+- Ibidem — Ibid | Ib.
+- A priori
+- A posteriori
+- Prima facie
+- De jure
+- Ipso facto
+- Compos mentis
+- Non compos mentis — Non compos
+- In situ
+- In utero
+- In vivo
+- In absentia
+- In camera
+- In extremis
+- In loco parentis
+- In flagrante delicto — In flagrante
+- In toto
+- In medias res
+- Inter alia — Inter alios
+- Lingua franca
+- Mens rea
+- Sub judice
+- Pro forma
+- Pro tempore — Pro tem
+- Ex officio
+- Ex gratia
+- Ex libris
+- Terra incognita
+- Tabula rasa
+- Sine qua non
+- Sui generis
+- Summa cum laude
+- Magna cum laude
+- Cum laude
+- Reductio ad absurdum — Ad absurdum
+- Post hoc — Post hoc ergo propter hoc
+- Post partum
+- Annus horribilis
+- Annus mirabilis
+- Dramatis personae
+- Viva voce — Viva
+- Quis custodiet ipsos custodes — Quis custodiet
+- Cui bono
+- Quo vadis
+- Rara avis
+- Primus inter pares
+- Cave canem
+- Corpus Christi
+- Delirium tremens
+- Fiat lux
+- Sic transit gloria mundi
+- Per ardua ad astra
+- Per aspera ad astra — Ad astra per aspera
+- Ad astra
+- Citius, altius, fortius — Citius, altius, fortius, communiter
+- Mens sana in corpore sano
+- Nil desperandum
+- Dulce et decorum est — Dulce et decorum est pro patria mori
+- Amor vincit omnia — Omnia vincit amor
+- Pax Romana
+- Agnus Dei
+- Hocus pocus
+- Senatus Populusque Romanus — SPQR
+- Habemus papam
+- Philosophiae Doctor — PhD | DPhil | Doctor philosophiae
+- Aurora borealis
+- Spina bifida
+- Gluteus maximus
+
+### Tier 4: obscure (129)
+
+- Videlicet — viz
+- Confer — cf
+- Opere citato — op cit
+- Quod vide — q.v.
+- Scilicet — sc. | scil.
+- Idem — id.
+- Floruit — fl.
+- Per procurationem — pp | Per pro
+- Fidei defensor — Fid def | FD
+- Dei gratia — DG
+- Deo volente — DV
+- Deo gratias
+- Ad majorem Dei gloriam — Ad maiorem Dei gloriam | AMDG | A.M.D.G.
+- Iesus Nazarenus Rex Iudaeorum — Jesus Nazarenus Rex Judaeorum | INRI
+- Res judicata
+- Res ipsa loquitur
+- Stare decisis
+- Amicus curiae
+- Ultra vires
+- Obiter dictum
+- Mutatis mutandis
+- Nolo contendere
+- Ex parte
+- Ex post facto
+- Ex cathedra
+- Ex nihilo — Ex nihilo nihil fit | Creatio ex nihilo | Nihil ex nihilo
+- Ex tempore
+- De minimis
+- Mala fide
+- Jus soli — Ius soli
+- Jus sanguinis — Ius sanguinis
+- Jus primae noctis — Ius primae noctis
+- Terra nullius
+- Casus belli
+- Actus reus
+- Corpus delicti
+- Sub rosa
+- Sub poena — Subpena
+- Locum tenens — Locum
+- Sine die
+- A fortiori
+- Ab initio
+- De novo
+- De profundis
+- De mortuis nil nisi bonum — De mortuis nihil nisi bonum
+- De gustibus non est disputandum — De gustibus
+- Ad interim
+- Ad valorem
+- Ne plus ultra — Nec plus ultra | Non plus ultra
+- Errare humanum est
+- Mirabile dictu
+- Modus vivendi
+- Pater familias
+- Pater noster
+- Summum bonum
+- Urbi et orbi
+- Vade mecum
+- Ave atque vale
+- Morituri te salutant — Ave, Caesar, morituri te salutant | Ave Imperator, morituri te salutant | Ave Caesar | Ave Imperator
+- Ars gratia artis
+- Ars longa, vita brevis — Ars longa
+- Festina lente
+- Nemo me impune lacessit
+- Si vis pacem, para bellum — Si vis pacem
+- Fortes fortuna adiuvat — Fortes fortuna juvat | Audentes fortuna iuvat | Fortuna audaces iuvat
+- Panem et circenses
+- Carpe noctem
+- Semper paratus
+- Novus ordo seclorum
+- Pax Britannica
+- Pax Americana
+- Mare nostrum
+- Dominus vobiscum
+- Pax vobiscum
+- Gloria in excelsis Deo — Gloria in excelsis | In excelsis Deo | In excelsis
+- Dies irae
+- Te Deum
+- Nunc dimittis
+- Stabat Mater
+- Ecce homo
+- Sic semper tyrannis
+- Hic jacet — Hic iacet | Hic jacet sepultus
+- Honoris causa
+- In perpetuum
+- In re
+- In silico
+- Infra dig — Infra dignitatem
+- Lapsus linguae
+- Opus Dei
+- O tempora, o mores — O tempora
+- Timeo Danaos et dona ferentes — Timeo Danaos
+- Vanitas vanitatum — Vanitas vanitatum omnia vanitas
+- Nihil obstat
+- Noli me tangere
+- Gaudeamus igitur
+- Damnatio memoriae
+- Deus vult
+- Hic sunt dracones — Hic svnt dracones
+- Cum grano salis
+- Per centum — Per cent
+- Ante bellum
+- Fac simile
+- Coitus interruptus
+- Illegitimi non carborundum — Illegitimis non carborundum | Nil illegitimi carborundum
+- Magister Artium — MA | Artium Magister
+- Artium Baccalaureus — BA | Baccalaureus Artium
+- Medicinae Doctor — MD
+- Expecto patronum
+- Camera obscura
+- Aurora australis
+- Medulla oblongata
+- Vas deferens
+- Sapere aude
+- Amor fati
+- Aqua vitae
+- Audere est facere
+- Genius loci
+- Et in Arcadia ego
+- Tu quoque
+- Pro patria
+- Pontifex maximus
+- Sanctum sanctorum
+- In vacuo
+- Juris Doctor — JD | Doctor juris
+- Adeste fideles
+- Dona nobis pacem
+- Pie Jesu
+- O Fortuna
+- Homo erectus
+
+### Tier 5: expert (145)
+
+- Loco citato — loc cit
+- Et sequens — et seq | Et sequentes | Et sequentia
+- Legum Baccalaureus — LLB
+- Librae, solidi, denarii — LSD | £sd
+- Nemine contradicente — Nem con
+- Pro re nata — PRN
+- Bis in die — BID
+- Nil per os — NPO | Nihil per os
+- Ab urbe condita — AUC | A.U.C.
+- Intra vires
+- Ratio decidendi
+- Caveat lector
+- Lex talionis
+- Pacta sunt servanda
+- Ignorantia juris non excusat — Ignorantia legis neminem excusat | Ignorantia juris | Ignorantia legis
+- Audi alteram partem
+- Nemo judex in causa sua
+- Quantum meruit
+- Volenti non fit injuria
+- Corpus juris
+- Pendente lite
+- Sui juris
+- Uberrimae fidei
+- Doli incapax
+- Malum in se
+- Malum prohibitum
+- Nulla poena sine lege
+- Jus ad bellum
+- Jus in bello
+- Ad referendum
+- Ad rem
+- Ad finem
+- Ad personam
+- Per mensem
+- Post bellum
+- Ante mortem
+- Ab ovo
+- Ex situ
+- Ex hypothesi
+- Inter vivos
+- In propria persona
+- In hoc signo vinces
+- In nomine Patris
+- In omnia paratus
+- Multum in parvo
+- Nolens volens
+- Nosce te ipsum — Temet nosce
+- Ipse dixit
+- Ite, missa est
+- Lacrimae rerum
+- Homo homini lupus
+- Esse quam videri
+- Odi et amo
+- Vae victis
+- Requiem aeternam
+- Ora pro nobis
+- Salve Regina
+- Sursum corda
+- Tempora mutantur
+- Ubi sunt
+- Vox clamantis in deserto
+- Pecunia non olet
+- Fiat justitia ruat caelum — Fiat justitia | Fiat iustitia ruat caelum
+- Labor omnia vincit — Labor omnia vincit improbus
+- Lux et veritas
+- Annuit coeptis
+- Status quo ante bellum — Status quo ante
+- Materia medica
+- Quidquid Latine dictum sit, altum videtur — Quidquid Latine dictum sit, altum viditur
+- Homo habilis
+- Dura mater
+- Vena cava
+- Angina pectoris
+- Aqua regia
+- Aqua fortis
+- Horror vacui
+- Petitio principii
+- Ignoratio elenchi
+- Argumentum ad populum — Ad populum
+- Pari passu
+- Locus standi
+- Locus classicus
+- Sua sponte
+- Pro hac vice
+- Nolle prosequi
+- Lis pendens
+- Res gestae
+- Res nullius
+- Res publica
+- Legum Doctor — LLD
+- Baccalaureus Scientiae — BSc | Scientiae Baccalaureus
+- Magister Scientiae — MSc
+- Carmina Burana
+- In dulci jubilo
+- Ave verum corpus
+- Lux aeterna
+- Panis angelicus
+- Gloria Patri
+- Soli Deo gloria — SDG
+- Miserere mei, Deus — Miserere | Miserere mei
+- Hoc est corpus meum — Hoc est corpus
+- Sede vacante
+- Motu proprio
+- Vade retro Satana — Vade retro | Vade retro Satanas
+- Si monumentum requiris, circumspice — Si monumentum requiris | Lector, si monumentum requiris, circumspice
+- Timor mortis conturbat me
+- Ars moriendi
+- Malleus Maleficarum
+- Dis Manibus — Dis Manibus sacrum | DMS
+- Sit tibi terra levis — STTL
+- Hic et nunc
+- Felix culpa
+- Fluctuat nec mergitur
+- A mari usque ad mare
+- Dominus illuminatio mea
+- Nisi Dominus frustra
+- Post tenebras lux
+- Nulli secundus
+- Utrinque paratus
+- Per mare per terram
+- Dum spiro spero
+- Ora et labora
+- Nunc est bibendum
+- Credo quia absurdum — Credo quia absurdum est
+- Lex parsimoniae
+- Dura lex, sed lex
+- In dubio pro reo
+- Onus probandi
+- Modus ponens
+- Modus tollens
+- Sensu stricto — Stricto sensu
+- Sensu lato — Lato sensu
+- Sub specie aeternitatis
+- Sub voce — Sub verbo | s.v.
+- Tertium quid
+- Verbum sapienti sat est — Verbum sap | Verb sap | Verbum sapienti
+- Via media
+- Virgo intacta
+- Persona grata
+- Quod erat faciendum — QEF
+- Exeunt omnes
+- Libra pondo — Libra | lb | lbs
+- Statim — Stat
+- Ter in die — TID | Ter die sumendum | TDS
+- Quater in die — QID | Quater die sumendum | QDS
+
+### Tier 6: rare jackpots (3)
+
+- Ad usum Delphini — In usum Delphini
+- Ignis fatuus
+- Pons asinorum
+
+## Refused on purpose (16)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Latin | Latin phrase | Phrase | Motto — "Which one? Name a phrase."
+- Ergo | Sic | Verbatim | Gratis | Passim | Stet | Via | Quasi | Alibi | Agenda | Bonus | Ego | Veto | Status | Quorum | Data | Alumni | Memorandum | Memo | Referendum | Excelsior | Veritas | Caveat | Placebo | Alias | Minutiae | Addendum | Exit | Tandem | Ditto — "A single word, not a phrase."
+- Déjà vu | De rigueur | Raison d'être | Je ne sais quoi | Coup de grâce | Fait accompli | Esprit de corps | Carte blanche | Joie de vivre | Bon appétit | Faux pas | Laissez-faire | Noblesse oblige | Savoir faire | Hors d'oeuvre | Tête-à-tête | Vis-à-vis | C'est la vie | Honi soit qui mal y pense | Pièce de résistance | Crème de la crème | Nom de plume | Femme fatale | Bête noire | Cul-de-sac | Par excellence | En masse | En route | RSVP | Bon voyage | Avant-garde | Coup d'état | Double entendre | Fin de siècle | Ménage à trois | Enfant terrible | Dieu et mon droit | Plus ça change | Voilà | Danse macabre | Je pense, donc je suis | Bon vivant | Touché — "French, not Latin."
+- Sotto voce | Al fresco | Al dente | A cappella | Prima donna | La dolce vita | Dolce vita | Dolce far niente | Bravo | Ciao | Terracotta — "Italian, not Latin."
+- Kyrie eleison | Hoi polloi | Eureka | Hubris | Kudos | Gnothi seauton | Panta rhei | Alpha and omega — "Greek, not Latin."
+- Hasta la vista | Hasta la vista, baby | Mi casa es su casa | Que sera sera — "Spanish, or near enough. Not Latin."
+- Zeitgeist | Schadenfreude | Wanderlust | Gesundheit | Angst | Ich dien — "German, not Latin."
+- Hakuna matata — "Swahili, not Latin."
+- Rest in peace | The die is cast | I came, I saw, I conquered | Seize the day | I think, therefore I am | Time flies | Here be dragons | Know thyself | Fortune favours the bold | Who watches the watchmen | Buyer beware | Let the buyer beware | Nil by mouth | Bread and circuses | Peace be with you | Behold the man | In wine there is truth | Out of many, one | Remember you must die | God wills it | Dare to know — "That's the English. Try the Latin."
+- BC | Before Christ — "English: Before Christ. Its partner AD is the Latin one."
+- CE | BCE | Common Era | Before Common Era — "English: Common Era, not Latin."
+- Pig Latin — "A word game, not Latin."
+- Expelliarmus | Wingardium leviosa | Avada kedavra | Lumos | Accio | Crucio | Alohomora | Obliviate | Petrificus totalus | Riddikulus | Imperio — "A spell from Harry Potter, and not a real Latin phrase."
+- Tyrannosaurus rex | T rex — "Mostly Greek: only rex is Latin."
+- Abracadabra — "A magic word of unknown origin, not a Latin phrase."
+- Hallelujah | Alleluia | Hosanna | Amen — "Hebrew, though the Latin Mass sings it too."

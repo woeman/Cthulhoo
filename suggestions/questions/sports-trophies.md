@@ -1,0 +1,486 @@
+# Name a sports trophy.
+
+Question id: `sports-trophies` · category: sport · source: `data/sport.json`
+
+Rules: Any named trophy, cup, shield, plate or belt in sport, plus famous prizes like the Green Jacket. Name the trophy, not the league or event: the Super Bowl's trophy counts, the game itself doesn't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (432 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- FIFA World Cup Trophy — World Cup | Wold Cup | World Cup trophy | FIFA World Cup
+- FA Cup — Football Association Challenge Cup | Emirates FA Cup
+- Stanley Cup — Lord Stanley's Cup | Lord Stanley's Mug | Dominion Hockey Challenge Cup | Stanley
+- The Ashes — Ashes urn | The urn | Women's Ashes
+- Claret Jug — Golf Champion Trophy | Open Championship trophy | The Open trophy
+- Webb Ellis Cup — William Webb Ellis Cup | Webb Ellis | Rugby World Cup | Rugby World Cup trophy | William Webb Ellis Trophy | Webb Ellis Trophy
+- Vince Lombardi Trophy — Lombardi Trophy | Lombardi | Super Bowl trophy | Vince Lombardi
+- Ryder Cup
+- Davis Cup
+- Green Jacket — Masters green jacket
+- European Cup — European Champion Clubs' Cup | Big Ears | Old Big Ears | Champions League trophy | UEFA Champions League trophy
+- America's Cup — Auld Mug | Hundred Guinea Cup
+
+### Tier 2: common (27)
+
+- Jules Rimet Trophy — Jules Rimet | Jules Rimet Cup
+- League Cup — EFL Cup | Carabao Cup | Football League Cup | Milk Cup | Littlewoods Cup | Rumbelows Cup | Coca-Cola Cup | Worthington Cup | Carling Cup | Capital One Cup
+- Community Shield — Charity Shield | FA Community Shield | FA Charity Shield
+- UEFA Cup — Europa League trophy | UEFA Europa League trophy
+- Copa América
+- Copa Libertadores — Libertadores
+- Copa del Rey — King's Cup
+- Premier League trophy — Premiership trophy
+- Calcutta Cup
+- Bledisloe Cup — Bledisloe
+- Heineken Cup — Champions Cup | Heineken Champions Cup | Investec Champions Cup | European Rugby Champions Cup
+- Challenge Cup — Rugby League Challenge Cup
+- Larry O'Brien Trophy — Larry O'Brien | Larry O'Brien Championship Trophy | NBA championship trophy
+- Heisman Trophy — Heisman | Heisman Memorial Trophy
+- Wanamaker Trophy — Wanamaker | Rodman Wanamaker Trophy | PGA Championship trophy
+- Solheim Cup
+- Billie Jean King Cup — Fed Cup | Federation Cup | BJK Cup
+- Venus Rosewater Dish — Rosewater Dish
+- Lonsdale Belt — Lonsdale | Lonsdale Challenge Belt
+- Melbourne Cup
+- Cheltenham Gold Cup
+- Sam Maguire Cup — Sam Maguire | Sam
+- Liam MacCarthy Cup — Liam MacCarthy | Liam McCarthy Cup | Liam McCarthy | Liam
+- Yellow jersey — Maillot jaune
+- Ballon d'Or
+- Golden Boot — Golden Shoe | European Golden Shoe
+- Cricket World Cup trophy — Cricket World Cup | ICC Cricket World Cup | Prudential Cup
+
+### Tier 3: known to fans (52)
+
+- Cup Winners' Cup — European Cup Winners' Cup | UEFA Cup Winners' Cup
+- UEFA Super Cup
+- Intercontinental Cup — Toyota Cup | FIFA Intercontinental Cup
+- FIFA Club World Cup — Club World Cup | Club World Cup trophy | FIFA Club World Cup trophy
+- Henri Delaunay Trophy — Henri Delaunay | Henri Delaunay Cup | European Championship trophy | Euros trophy
+- Africa Cup of Nations — AFCON | African Cup of Nations | AFCON trophy
+- CONCACAF Gold Cup
+- Confederations Cup — FIFA Confederations Cup | King Fahd Cup
+- Scottish Cup — Scottish FA Cup
+- DFB-Pokal — German Cup | DFB Cup
+- Coppa Italia
+- Coupe de France
+- FIFA Women's World Cup trophy — Women's World Cup
+- Six Nations Trophy
+- Currie Cup
+- Ranfurly Shield — Ranfurly
+- Grey Cup
+- Commissioner's Trophy — World Series trophy
+- Conn Smythe Trophy — Conn Smythe
+- Walker Cup
+- Curtis Cup
+- Presidents Cup
+- FedEx Cup
+- Hopman Cup
+- Laver Cup
+- Coupe des Mousquetaires — Musketeers' Cup | Musketeers Trophy
+- Gentlemen's Singles Trophy
+- Border–Gavaskar Trophy — BGT
+- Ranji Trophy
+- Sheffield Shield
+- Champions Trophy — ICC Champions Trophy
+- T20 World Cup trophy — T20 World Cup | ICC T20 World Cup | World T20
+- Ascot Gold Cup
+- Borg-Warner Trophy — Borg-Warner | Indy 500 trophy | Indianapolis 500 trophy
+- Thomas Cup
+- Uber Cup
+- Crystal Globe — Big Crystal Globe
+- Sid Waddell Trophy — Sid Waddell
+- Maglia rosa — Pink jersey
+- Cy Young Award — Cy Young
+- Gold Glove — Rawlings Gold Glove | Gold Glove Award
+- Golden Glove
+- Golden Ball
+- AFL premiership cup — Premiership cup | AFL trophy
+- Little Brown Jug
+- Meisterschale — Bundesliga trophy | Salad bowl | Salatschüssel
+- Super League trophy
+- Brownlow Medal — Brownlow
+- Scudetto
+- Asia Cup — Asia Cup trophy
+- MLS Cup — Philip F. Anschutz Trophy | Anschutz Trophy
+- Bill Russell Trophy — Bill Russell NBA Finals MVP Award
+
+### Tier 4: obscure (94)
+
+- Scottish League Cup — Premier Sports Cup | Viaplay Cup
+- Welsh Cup
+- Irish Cup
+- FAI Cup
+- EFL Trophy — Football League Trophy | Papa John's Trophy | Johnstone's Paint Trophy | Freight Rover Trophy | Associate Members' Cup | Checkatrade Trophy | Jersey Mike's Trophy | Vertu Trophy | Bristol Street Motors Trophy
+- FA Trophy
+- FA Vase
+- Intertoto Cup — UEFA Intertoto Cup
+- Fairs Cup — Inter-Cities Fairs Cup
+- Copa Sudamericana — Sudamericana
+- AFC Asian Cup — Asian Cup
+- Women's FA Cup — Adobe Women's FA Cup
+- European Challenge Cup — EPCR Challenge Cup | Amlin Challenge Cup
+- Triple Crown — Triple Crown trophy
+- State of Origin Shield — Origin Shield | State of Origin trophy
+- Provan-Summons Trophy — NRL premiership trophy | NRL trophy
+- Lance Todd Trophy
+- Presidents' Trophy
+- Hart Trophy — Hart Memorial Trophy
+- Vezina Trophy — Vezina
+- Norris Trophy — James Norris Memorial Trophy
+- Art Ross Trophy
+- Memorial Cup
+- Spengler Cup
+- Gagarin Cup
+- Michael Jordan Trophy — NBA MVP trophy
+- NBA Cup — Emirates NBA Cup
+- Naismith Trophy — James Naismith Trophy
+- Silver Slugger — Silver Slugger Award
+- Seve Trophy
+- Vardon Trophy — Harry Vardon Trophy
+- Masters Trophy
+- Wightman Cup
+- United Cup
+- Norman Brookes Challenge Cup — Norman Brookes Cup
+- Daphne Akhurst Memorial Cup — Daphne Akhurst Cup
+- Coupe Suzanne Lenglen — Suzanne Lenglen Cup
+- World Test Championship mace — Test Championship mace | Test mace | WTC mace
+- Frank Worrell Trophy — Worrell Trophy
+- Basil D'Oliveira Trophy — D'Oliveira Trophy
+- Anderson–Tendulkar Trophy — Tendulkar–Anderson Trophy
+- Wisden Trophy
+- Richards–Botham Trophy
+- Plunket Shield
+- Gillette Cup
+- NatWest Trophy
+- Benson & Hedges Cup
+- One-Day Cup — Royal London Cup | Metro Bank One Day Cup
+- IPL trophy
+- Dubai World Cup
+- Breeders' Cup
+- Tourist Trophy — Isle of Man TT | RAC Tourist Trophy
+- Grand Challenge Cup
+- Admiral's Cup
+- Louis Vuitton Cup
+- Phil Taylor Trophy
+- WBC belt — WBC championship belt
+- Ring Magazine belt — The Ring belt
+- UFC belt — UFC championship belt
+- Christy Ring Cup
+- Brendan Martin Cup
+- O'Duffy Cup
+- Camanachd Cup
+- Swaythling Cup
+- Sudirman Cup
+- Green jersey — Maillot vert
+- Polka dot jersey — King of the Mountains jersey | Maillot à pois
+- Rainbow jersey — Rainbow stripes
+- Sports Personality of the Year trophy — Sports Personality of the Year | SPOTY | BBC Sports Personality of the Year
+- Puskás Award — Puskás
+- Hexagoal — Ligue 1 trophy
+- Norm Smith Medal
+- Dally M Medal
+- U.S. Open Trophy
+- Coppa Campioni d'Italia — Serie A trophy
+- Golden Boy — Golden Boy Award
+- WBA belt — WBA championship belt
+- WBO belt — WBO championship belt
+- IBF belt — IBF championship belt
+- Walter Cup
+- Supporters' Shield
+- U.S. Open Cup — Lamar Hunt U.S. Open Cup
+- Conference League trophy — UEFA Conference League trophy | Europa Conference League trophy
+- Nations League trophy — UEFA Nations League trophy
+- La Liga trophy
+- Ballon d'Or Féminin — Women's Ballon d'Or
+- Durand Cup
+- Santosh Trophy
+- Pichichi Trophy — Pichichi
+- Kobe Bryant Trophy
+- Northern Star Award — Lou Marsh Trophy | Lou Marsh Award
+- Emperor's Cup
+- Red jersey — Maillot rojo
+- White jersey — Maillot blanc | Maglia bianca
+
+### Tier 5: expert (244)
+
+- Anglo-Italian Cup
+- Full Members' Cup — Simod Cup | Zenith Data Systems Cup
+- Texaco Cup
+- Watney Cup
+- Mitropa Cup
+- Cook Cup
+- Millennium Trophy
+- Centenary Quaich
+- Giuseppe Garibaldi Trophy — Garibaldi Trophy
+- Doddie Weir Cup
+- Auld Alliance Trophy
+- Freedom Cup
+- Mandela Challenge Plate
+- Hopetoun Cup
+- Lansdowne Cup
+- Puma Trophy
+- Tom Richards Cup
+- Paul Barrière Trophy — Rugby League World Cup trophy
+- Harry Sunderland Trophy
+- Man of Steel
+- Calder Trophy — Calder Memorial Trophy
+- Lady Byng Trophy — Lady Byng Memorial Trophy
+- Selke Trophy — Frank J. Selke Trophy
+- Rocket Richard Trophy — Maurice Richard Trophy
+- Clarence S. Campbell Bowl — Campbell Bowl
+- Prince of Wales Trophy
+- William M. Jennings Trophy — Jennings Trophy
+- King Clancy Memorial Trophy — King Clancy Trophy
+- Bill Masterton Memorial Trophy — Masterton Trophy
+- Allan Cup
+- Calder Cup
+- Kelly Cup
+- George Halas Trophy
+- Lamar Hunt Trophy
+- Pete Rozelle Trophy
+- Paul Bunyan's Axe
+- Old Oaken Bucket
+- Jeweled Shillelagh
+- Commander-in-Chief's Trophy
+- Territorial Cup
+- Outland Trophy
+- Bronko Nagurski Trophy — Nagurski Trophy
+- Walter A. Brown Trophy
+- Maurice Podoloff Trophy
+- Eddie Gottlieb Trophy
+- Wilt Chamberlain Trophy
+- Hakeem Olajuwon Trophy
+- John Havlicek Trophy
+- Jerry West Trophy
+- George Mikan Trophy
+- Red Auerbach Trophy
+- Twyman–Stokes Trophy
+- Bob Cousy Trophy
+- Oscar Robertson Trophy
+- Larry Bird Trophy
+- Magic Johnson Trophy
+- Eisenhower Trophy
+- Espirito Santo Trophy
+- ATP Cup
+- Pataudi Trophy
+- Anthony de Mello Trophy
+- Chappell–Hadlee Trophy
+- Trans-Tasman Trophy
+- Benaud–Qadir Trophy
+- Warne–Muralitharan Trophy — Warne–Murali Trophy
+- Freedom Trophy — Gandhi–Mandela Trophy
+- Duleep Trophy
+- Irani Cup — Irani Trophy
+- Vijay Hazare Trophy
+- Syed Mushtaq Ali Trophy
+- Quaid-e-Azam Trophy
+- Bob Willis Trophy
+- Japan Cup
+- Caulfield Cup
+- Cox Plate
+- Harley J. Earl Trophy — Harley Earl Trophy | Daytona 500 trophy
+- Lorenzo Bandini Trophy — Bandini Trophy
+- Gordon Bennett Cup
+- Peter Brock Trophy
+- Diamond Challenge Sculls — Diamond Sculls
+- Ladies' Challenge Plate
+- Wingfield Sculls
+- Val Barker Trophy
+- Delaney Cup
+- Anglo-Celt Cup
+- Bob O'Keeffe Cup
+- Nestor Cup
+- Tommy Moore Cup
+- Andy Merrigan Cup
+- Joe McDonagh Cup
+- Nicky Rackard Cup
+- Lory Meagher Cup
+- Tailteann Cup
+- Sigerson Cup
+- Fitzgibbon Cup
+- McClelland Trophy
+- MacRobertson Shield
+- Corbillon Cup
+- Constellation Cup
+- Hamilton-Russell Cup
+- Clive Churchill Medal
+- Coleman Medal
+- Emirates Cup
+- Leagues Cup
+- Vare Trophy
+- Palmer Cup
+- Recopa Sudamericana — Recopa
+- Eredivisie trophy
+- FA Youth Cup
+- Supercopa de España — Spanish Super Cup
+- Supercoppa Italiana — Italian Super Cup
+- Trophée des Champions — French Super Cup
+- Coupe de la Ligue — French League Cup
+- KNVB Cup — KNVB Beker | Dutch Cup
+- Taça de Portugal — Portuguese Cup
+- Copa do Brasil
+- IFA Shield
+- Subroto Cup
+- Chatham Cup
+- Scottish Challenge Cup — SPFL Trust Trophy
+- Kopa Trophy
+- Yashin Trophy
+- Gerd Müller Trophy
+- Zamora Trophy
+- Joan Gamper Trophy — Gamper Trophy
+- Deodhar Trophy
+- Cooch Behar Trophy
+- Nidahas Trophy
+- Rose Bowl
+- Marsh One-Day Cup — Marsh Cup
+- Logan Cup
+- Shell Shield
+- Sir Garfield Sobers Trophy — Sobers Trophy
+- Rachael Heyhoe Flint Trophy — Heyhoe Flint Trophy
+- John R. Wooden Award — Wooden Award
+- Walter Payton Man of the Year Award — Walter Payton Man of the Year
+- Ed Thorp Memorial Trophy
+- Maxwell Award
+- Walter Camp Award
+- Butkus Award
+- Davey O'Brien Award
+- Biletnikoff Award
+- Stanford Axe
+- Victory Bell
+- Paul Bunyan Trophy
+- Cy-Hawk Trophy
+- Golden Hat
+- Apple Cup
+- Hank Aaron Award
+- Roberto Clemente Award
+- William Harridge Trophy
+- Warren C. Giles Trophy
+- Golden Spikes Award
+- St Andrews Trophy
+- Clarkson Cup
+- Avco World Trophy — Avco Cup
+- J. Ross Robertson Cup
+- Ted Lindsay Award — Lester B. Pearson Award
+- Hobey Baker Award
+- Jack Adams Award
+- Vanier Cup
+- Brier Tankard
+- Mann Cup
+- Minto Cup
+- Woodlawn Vase
+- August Belmont Trophy
+- Kentucky Derby Trophy
+- Saudi Cup
+- Hong Kong Cup
+- Goodwood Cup
+- Northumberland Plate
+- King's Plate — Queen's Plate
+- Westchester Cup
+- Cowdray Park Gold Cup
+- Coronation Cup
+- Aga Khan Trophy
+- King George V Gold Cup
+- Jules Verne Trophy
+- Prada Cup
+- Schneider Trophy
+- Vanderbilt Cup
+- Hawthorn Memorial Trophy
+- Segrave Trophy
+- Paul Hunter Trophy
+- Ray Reardon Trophy
+- Eric Bristow Trophy
+- Laureus World Sports Award — Laureus | Laureus Award
+- ESPY Award — ESPY
+- Hickok Belt
+- Khel Ratna — Major Dhyan Chand Khel Ratna | Rajiv Gandhi Khel Ratna
+- Arjuna Award
+- Sultan Azlan Shah Cup — Azlan Shah Cup
+- Beighton Cup
+- Nehru Trophy
+- Paris–Roubaix cobblestone — Roubaix cobblestone | Paris–Roubaix trophy
+- Leigh Matthews Trophy
+- Johan Cruyff Shield — Johan Cruijff Schaal
+- Taça da Liga — Portuguese League Cup
+- CONCACAF Champions Cup
+- SheBelieves Cup
+- Algarve Cup
+- Isobel Cup
+- Ed Chynoweth Cup
+- Lester Patrick Trophy
+- Kareem Abdul-Jabbar Trophy
+- Jackie Robinson Award
+- Eclipse Award
+- Maglia ciclamino — Cyclamen jersey | Purple jersey
+- Maglia azzurra — Blue jersey
+- Thames Challenge Cup
+- Temple Challenge Cup
+- Princess Elizabeth Challenge Cup
+- Stewards' Challenge Cup
+- Visitors' Challenge Cup
+- Silver Goblets — Silver Goblets and Nickalls' Challenge Cup
+- Remenham Challenge Cup
+- Prince Philip Challenge Cup
+- Queen Mother Challenge Cup
+- Fawley Challenge Cup
+- Wyfold Challenge Cup
+- Britannia Challenge Cup
+- Princess Royal Challenge Cup
+- Muhammad Ali Trophy
+- Dr McKenna Cup — McKenna Cup
+- O'Byrne Cup
+- Walsh Cup
+- Tommy Murphy Cup
+- Railway Cup — Railway Cups
+- Tewaaraton Award — Tewaaraton Trophy
+- Diamond Trophy — Diamond League trophy
+- James E. Sullivan Award — Sullivan Award
+- Shute Shield
+- Wally Lewis Medal
+- Jock McHale Medal
+- Magarey Medal
+- Sandover Medal
+- Melrose Cup
+- Hillary Shield
+- Dave Gallaher Trophy
+- Prince William Cup
+- James Bevan Trophy
+- Ella-Mobbs Trophy
+- Trophée des Bicentenaires
+- Baskerville Shield
+
+### Tier 6: rare jackpots (3)
+
+- Doggett's Coat and Badge
+- Floyd of Rosedale
+- Challenge Belt — Open Championship belt
+
+## Refused on purpose (20)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Gold Cup — "Which Gold Cup? Name the race or the tournament."
+- Champions League | UEFA Champions League | Europa League | UEFA Europa League | Conference League | Europa Conference League | UEFA Conference League | Nations League | UEFA Nations League — "That's the competition. Its trophy has a name of its own."
+- Premier League | La Liga | Serie A | Bundesliga | Ligue 1 | Super League | NRL | AFL | Eredivisie | Premiership | Six Nations | Six Nations Championship | MLS | Major League Soccer | NFL | NBA | NHL | MLB | IPL | Super Rugby — "That's the league. Name its trophy."
+- Super Bowl — "That's the game. Its trophy is named after a famous coach."
+- World Series — "That's the series. Its trophy has a plainer name."
+- NBA Finals | NBA Championship — "That's the series. Its trophy is named after a former commissioner."
+- The Open | Open Championship | British Open — "That's the championship. Its winner gets a jug."
+- The Masters | Augusta — "That's the tournament. Its winner gets a jacket."
+- Wimbledon | Wimbledon trophy | Australian Open trophy | French Open trophy — "Which trophy? The men's and women's singles champions get different ones."
+- Tour de France | Giro d'Italia | Vuelta a España — "That's the race. Its leader wears a jersey."
+- Olympic gold medal | Olympic gold | Gold medal | Olympic medal | Silver medal | Bronze medal | Medal — "A medal, not a trophy."
+- Olympics | Olympic Games | Commonwealth Games | Paralympics — "The Olympics hand out medals, not trophies."
+- Grand Slam | Golden Slam | Treble | Double | Quadruple — "A clean sweep, not a trophy."
+- Wooden spoon — "A booby prize for coming last, and not a real trophy."
+- Championship ring | Super Bowl ring | World Series ring | NBA ring — "Every champion gets one. Name a trophy."
+- WWE Championship | WWE belt | WWE title | Intercontinental Championship — "A prop in a scripted show, however shiny."
+- Oscar | Academy Award | BAFTA | Emmy | Grammy | Golden Globe | Palme d'Or — "That's for films. The deep doesn't do acting."
+- Trophy | Cup | Plate | Shield | Belt | Trophy cabinet — "Name one in particular."
+- Holy Grail — "A legend, not a sports trophy."
+- Lanterne rouge — "The name for the last rider home, not a prize."

@@ -1,0 +1,352 @@
+# Name a phobia.
+
+Question id: `phobias` · category: language · source: `data/language.json`
+
+Rules: Any named phobia, by its -phobia name. Phobias coined as jokes don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (309 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (4)
+
+- Arachnophobia
+- Claustrophobia
+- Agoraphobia — Agrophobia
+- Acrophobia — Altophobia | Hypsiphobia | Hypsophobia
+
+### Tier 2: common (21)
+
+- Hydrophobia
+- Aquaphobia
+- Nyctophobia — Achluophobia | Scotophobia | Lygophobia | Noctiphobia
+- Ophidiophobia — Ophiophobia
+- Trypophobia
+- Coulrophobia — Clownophobia | Clownphobia
+- Xenophobia
+- Homophobia — Homaphobia
+- Aerophobia — Aviophobia | Pteromerhanophobia
+- Glossophobia — Glosophobia
+- Emetophobia
+- Haemophobia — Hemophobia | Hematophobia | Haematophobia | Hemaphobia
+- Trypanophobia
+- Thanatophobia
+- Necrophobia
+- Mysophobia — Germophobia | Misophobia
+- Cynophobia
+- Triskaidekaphobia
+- Technophobia
+- Thalassophobia — Thalasophobia
+- Phobophobia
+
+### Tier 3: known to fans (20)
+
+- Ailurophobia — Felinophobia | Elurophobia | Aelurophobia
+- Gephyrophobia
+- Astraphobia — Astrapophobia | Tonitrophobia
+- Pyrophobia — Arsonphobia
+- Ornithophobia
+- Entomophobia — Insectophobia
+- Apiphobia — Melissophobia
+- Zoophobia
+- Dentophobia — Odontophobia
+- Sociophobia — Social phobia
+- Phasmophobia
+- Bathophobia
+- Nomophobia
+- Islamophobia
+- Transphobia
+- Photophobia
+- Biphobia
+- Russophobia
+- Anglophobia
+- Fatphobia
+
+### Tier 4: obscure (57)
+
+- Ombrophobia — Pluviophobia
+- Brontophobia
+- Musophobia — Murophobia | Suriphobia
+- Ichthyophobia
+- Selachophobia — Galeophobia
+- Herpetophobia
+- Equinophobia — Hippophobia
+- Iatrophobia
+- Tokophobia
+- Gamophobia
+- Philophobia
+- Atychiphobia
+- Ergophobia
+- Anthropophobia
+- Autophobia — Monophobia | Isolophobia
+- Catoptrophobia — Eisoptrophobia
+- Spectrophobia
+- Samhainophobia
+- Hexakosioihexekontahexaphobia
+- Tetraphobia
+- Friggatriskaidekaphobia — Paraskevidekatriaphobia
+- Somniphobia — Hypnophobia
+- Taphophobia
+- Pediophobia
+- Megalophobia
+- Heliophobia
+- Astrophobia — Siderophobia
+- Neophobia — Kainophobia | Kainolophobia
+- Panophobia — Pantophobia | Omniphobia
+- Acarophobia
+- Scopophobia — Scoptophobia
+- Phonophobia
+- Haphephobia — Aphenphosmphobia | Haptephobia | Chiraptophobia
+- Cherophobia
+- Gerontophobia
+- Nosophobia — Nosemaphobia
+- Chemophobia
+- Sinophobia
+- Francophobia — Gallophobia
+- Androphobia — Arrhenphobia
+- Gynophobia — Gynephobia
+- Hoplophobia
+- Telephonophobia
+- Cyberphobia — Logizomechanophobia
+- Koumpounophobia
+- Bibliophobia
+- Sesquipedalophobia
+- Spheksophobia
+- Anthophobia
+- Phagophobia
+- Cardiophobia
+- Carcinophobia — Cancerophobia | Carcinomatophobia
+- Theophobia
+- Sophophobia
+- Athazagoraphobia
+- Globophobia
+- Submechanophobia
+
+### Tier 5: expert (205)
+
+- Keraunophobia
+- Batrachophobia
+- Nosocomephobia
+- Gerascophobia
+- Anuptaphobia
+- Gymnophobia — Nudophobia
+- Decidophobia
+- Atelophobia
+- Daemonophobia — Demonophobia
+- Wiccaphobia
+- Chronophobia
+- Oneirophobia
+- Scoleciphobia — Vermiphobia
+- Automatonophobia
+- Hylophobia — Xylophobia
+- Cymophobia — Kymophobia
+- Potamophobia
+- Limnophobia
+- Bathmophobia — Climacophobia
+- Agyrophobia — Dromophobia
+- Amaxophobia
+- Cibophobia — Sitophobia
+- Lachanophobia
+- Turophobia
+- Alektorophobia
+- Pogonophobia
+- Omphalophobia
+- Podophobia
+- Trichophobia — Chaetophobia
+- Dermatophobia
+- Ommetaphobia — Ommatophobia
+- Chionophobia
+- Selenophobia
+- Kenophobia
+- Apeirophobia
+- Kakorrhaphiophobia
+- Mageirocophobia
+- Chirophobia
+- Chromophobia — Chromatophobia
+- Dendrophobia
+- Belonephobia
+- Taurophobia
+- Ligyrophobia
+- Aichmophobia
+- Ablutophobia
+- Gelotophobia
+- Chiroptophobia
+- Lepidopterophobia
+- Pharmacophobia
+- Radiophobia
+- Ochlophobia — Enochlophobia | Demophobia
+- Arithmophobia — Numerophobia
+- Algophobia
+- Osmophobia — Olfactophobia
+- Oikophobia — Domatophobia
+- Dysmorphophobia
+- Erythrophobia — Ereuthophobia
+- Germanophobia — Teutophobia
+- Judeophobia
+- Lilapsophobia
+- Ranidaphobia
+- Myrmecophobia
+- Hadephobia — Stygiophobia
+- Cetaphobia
+- Ostraconophobia
+- Pteronophobia
+- Lupophobia
+- Helminthophobia
+- Bufonophobia
+- Mottephobia
+- Cnidophobia
+- Agrizoophobia
+- Botanophobia
+- Alliumphobia
+- Carnophobia
+- Pedophobia — Paedophobia
+- Ephebiphobia
+- Erotophobia
+- Traumatophobia
+- Pnigophobia
+- Anginophobia
+- Dipsophobia
+- Methyphobia
+- Vaccinophobia
+- Maniaphobia
+- Dementophobia
+- Psychophobia
+- Clinophobia
+- Coimetrophobia
+- Placophobia
+- Obesophobia — Pocrescophobia
+- Caligynephobia — Venustraphobia
+- Rhytiphobia
+- Bromidrosiphobia — Bromidrophobia
+- Autodysomophobia
+- Automysophobia
+- Ankylophobia
+- Bacteriophobia
+- Verminophobia
+- Microphobia
+- Ophthalmophobia
+- Satanophobia
+- Hierophobia
+- Ecclesiophobia
+- Staurophobia
+- Uranophobia
+- Hagiophobia
+- Heortophobia
+- Peccatophobia
+- Enosiophobia
+- Anemophobia — Ancraophobia
+- Frigophobia — Cheimaphobia | Cheimatophobia
+- Thermophobia
+- Meteorophobia
+- Cometophobia
+- Nephophobia
+- Homichlophobia — Nebulaphobia
+- Pagophobia
+- Phengophobia
+- Eosophobia
+- Nyctohylophobia
+- Xanthophobia
+- Porphyrophobia
+- Chlorophobia
+- Leukophobia
+- Melanophobia
+- Ponophobia
+- Kopophobia
+- Ergasiophobia
+- Rhabdophobia
+- Poinephobia
+- Scolionophobia — Didaskaleinophobia
+- Epistemophobia
+- Verbophobia
+- Graphophobia
+- Lalophobia — Laliophobia
+- Onomatophobia — Nomatophobia
+- Testophobia
+- Allodoxaphobia
+- Metathesiophobia
+- Prosophobia
+- Ataxophobia — Ataxiophobia
+- Eleutherophobia
+- Politicophobia
+- Ideophobia
+- Phronemophobia
+- Hypengyophobia
+- Agateophobia
+- Mnemophobia
+- Hedonophobia
+- Euphobia
+- Katagelophobia — Catagelophobia
+- Acousticophobia
+- Ballistophobia
+- Polemophobia
+- Atomosophobia — Nucleomituphobia
+- Electrophobia
+- Mechanophobia
+- Robophobia
+- Masklophobia — Maskaphobia
+- Papyrophobia
+- Metallophobia
+- Crystallophobia — Hyalophobia
+- Linonophobia
+- Pupaphobia
+- Chrometophobia — Chrematophobia
+- Cleithrophobia — Cleisiophobia
+- Vehophobia
+- Motorphobia
+- Nostophobia
+- Illyngophobia
+- Anablephobia
+- Kathisophobia
+- Stasiphobia — Stasibasiphobia
+- Ambulophobia
+- Kinetophobia — Kinesophobia
+- Chorophobia
+- Dextrophobia
+- Levophobia
+- Sinistrophobia
+- Chronomentrophobia
+- Peniaphobia
+- Plutophobia
+- Kleptophobia
+- Scelerophobia
+- Harpaxophobia
+- Dikephobia
+- Novercaphobia
+- Vitricophobia
+- Pentheraphobia
+- Soceraphobia
+- Patroiophobia
+- Hispanophobia
+- Hellenophobia
+- Turcophobia — Turkophobia
+- Polonophobia
+- Japanophobia
+- Arabophobia
+- Hinduphobia
+- Christianophobia — Christophobia
+- Lesbophobia
+- Queerphobia
+- Indophobia
+- Iranophobia
+- Ukrainophobia
+
+### Tier 6: rare jackpots (2)
+
+- Siderodromophobia
+- Hellenologophobia
+
+## Refused on purpose (9)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Fear of spiders | Fear of heights | Fear of the dark | Fear of clowns | Fear of snakes | Fear of flying | Fear of water | Fear of death | Fear of needles | Fear of small spaces | Fear of open spaces | Fear of the sea | Fear | Fear of everything | Fear of germs | Fear of dogs | Fear of cats | Fear of blood | Fear of crowds | Fear of fire | Fear of birds | Fear of thunder | Fear of public speaking | Fear of the number 13 | Fear of holes | Fear of long words | Fear of missing out | FOMO — "Give it its proper name, ending in -phobia."
+- Phobia | Phobias — "Which one?"
+- Arachibutyrophobia — "Fear of peanut butter sticking to the roof of your mouth. Coined as a joke, so the deep won't have it."
+- Hippopotomonstrosesquippedaliophobia — "Fear of long words. A joke, and a cruel one."
+- Anatidaephobia — "The fear that somewhere, a duck is watching you. A cartoonist's joke."
+- Aibohphobia — "A joke word for the fear of palindromes. Read it backwards."
+- Hydrophobic — "An adjective, and usually about molecules."
+- Phobos | Deimos — "The Greek god of fear, and a moon of Mars. Not a phobia."
+- Luposlipaphobia — "A Far Side joke about wolves, socks and a freshly waxed floor."

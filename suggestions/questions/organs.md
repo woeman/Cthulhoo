@@ -1,0 +1,471 @@
+# Name an organ of the human body.
+
+Question id: `organs` · category: science · source: `data/science.json`
+
+Rules: Any organ or gland of the human body, from the skin inwards, vestigial ones included, and their named parts. Tissues such as blood, and whole systems, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (410 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Heart — Ticker
+- Brain
+- Lungs — Lung
+- Liver
+- Kidney — Kidneys
+- Stomach — Tummy | Belly
+- Skin
+- Intestines — Intestine | Gut | Bowel | Bowels | Entrails | Innards
+- Pancreas
+- Bladder — Urinary bladder
+- Spleen
+
+### Tier 2: common (25)
+
+- Appendix — Vermiform appendix
+- Gallbladder
+- Small intestine — Small bowel | Small intestines
+- Large intestine — Large bowel | Large intestines
+- Eyes — Eye | Eyeball | Eyeballs
+- Ears — Ear
+- Tongue
+- Nose
+- Thyroid — Thyroid gland
+- Oesophagus — Esophagus | Gullet | Food pipe
+- Colon — Ascending colon | Transverse colon | Descending colon
+- Uterus — Womb
+- Ovaries — Ovary
+- Testes — Testicles | Testicle | Testis | Balls
+- Prostate — Prostate gland
+- Trachea — Windpipe
+- Larynx — Voice box | Adam's apple
+- Tonsils — Tonsil | Palatine tonsils
+- Penis — Willy
+- Vagina
+- Spinal cord
+- Diaphragm
+- Teeth — Tooth | Molars | Molar | Incisors | Incisor | Canine teeth | Premolars | Canines | Canine | Milk teeth | Baby teeth | Deciduous teeth | Primary teeth | Front teeth | Eye teeth
+- Pituitary gland — Pituitary | Hypophysis | Master gland | Anterior pituitary | Posterior pituitary | Adenohypophysis | Neurohypophysis
+- Adrenal glands — Adrenal gland | Adrenals | Adrenal | Suprarenal glands | Suprarenal gland
+
+### Tier 3: known to fans (44)
+
+- Thymus — Thymus gland
+- Pineal gland — Pineal | Pineal body | Third eye | Epiphysis cerebri
+- Hypothalamus — Hypothalmus
+- Lymph nodes — Lymph node | Lymph glands | Lymph gland
+- Bone marrow — Marrow
+- Duodenum
+- Rectum
+- Anus — Anal canal
+- Pharynx — Throat
+- Epiglottis
+- Uvula
+- Bronchi — Bronchus | Bronchial tubes | Bronchial tube
+- Aorta
+- Blood vessels — Blood vessel | Vessels | Vessel
+- Arteries — Artery | Carotid artery | Carotid arteries | Carotid | Coronary artery | Coronary arteries | Femoral artery | Pulmonary artery | Radial artery | Brachial artery | Subclavian artery | Renal artery | Iliac artery | Arteriole | Arterioles
+- Veins — Vein | Jugular vein | Jugular | Femoral vein | Pulmonary vein | Saphenous vein | Renal vein | Hepatic vein | Venule | Venules
+- Nerves — Nerve | Ulnar nerve | Radial nerve | Median nerve | Femoral nerve | Phrenic nerve | Facial nerve | Trigeminal nerve | Olfactory nerve | Auditory nerve | Vestibulocochlear nerve | Cranial nerves | Spinal nerves | Funny bone
+- Placenta — Afterbirth
+- Fallopian tubes — Fallopian tube | Oviduct | Oviducts | Uterine tubes | Uterine tube | Fallopian
+- Cervix
+- Vulva
+- Clitoris
+- Scrotum
+- Ureters — Ureter
+- Urethra
+- Salivary glands — Salivary gland
+- Mouth — Oral cavity
+- Lips — Lip
+- Taste buds — Taste bud
+- Breast — Breasts | Mammary glands | Mammary gland | Boobs
+- Retina
+- Cornea — Conea
+- Iris
+- Eardrum — Tympanic membrane | Tympanum
+- Cochlea
+- Cerebellum — Little brain
+- Coccyx — Tailbone
+- Wisdom teeth — Wisdom tooth | Third molars | Third molar
+- Adenoids — Adenoid | Pharyngeal tonsil
+- Vocal cords — Vocal cord | Vocal chords | Vocal chord | Vocal folds | Vocal fold
+- Gonads — Sex glands | Goands
+- Genitals — Genitalia | Sex organs | Reproductive organs | Private parts
+- Parathyroid glands — Parathyroid gland | Parathyroid | Parathyroids
+- Mesentery
+
+### Tier 4: obscure (63)
+
+- Jejunum
+- Ileum
+- Caecum — Cecum
+- Gums — Gum | Gingiva
+- Palate — Roof of the mouth | Hard palate | Soft palate | Roof of mouth
+- Bile duct — Bile ducts | Common bile duct | Hepatic duct | Common hepatic duct
+- Bronchioles — Bronchiole
+- Alveoli — Alveolus | Air sacs | Air sac
+- Sinuses — Sinus | Paranasal sinuses
+- Pleura — Pleurae | Pleural membrane | Pleural membranes
+- Capillaries — Capillary
+- Vena cava — Venae cavae | Superior vena cava | Inferior vena cava
+- Ventricles — Ventricle | Left ventricle | Right ventricle
+- Atria — Atrium | Left atrium | Right atrium
+- Heart valves — Heart valve | Mitral valve | Aortic valve | Tricuspid valve | Pulmonary valve | Bicuspid valve
+- Pericardium — Epicardium
+- Bone — Bones | Femur | Thigh bone | Tibia | Shin bone | Fibula | Humerus | Radius | Ulna | Skull | Cranium | Rib | Ribs | Rib cage | Pelvis | Hip bone | Sternum | Breastbone | Clavicle | Collarbone | Scapula | Shoulder blade | Patella | Kneecap | Vertebra | Vertebrae | Spine | Backbone | Spinal column | Vertebral column | Mandible | Jaw | Jawbone | Maxilla | Sacrum | Phalanges | Metacarpals | Metatarsals | Carpals | Tarsals | Talus | Calcaneus | Heel bone | Cheekbone | Zygomatic bone | Scaphoid | Ilium | Ischium | Pubis | Sphenoid | Ethmoid | Occipital bone | Parietal bone | Temporal bone | Frontal bone | Nasal bone
+- Muscle — Muscles | Biceps | Bicep | Triceps | Tricep | Quadriceps | Quads | Hamstring | Hamstrings | Gluteus maximus | Glutes | Deltoid | Deltoids | Pectorals | Abdominals | Abs | Six-pack | Calf muscle | Gastrocnemius | Soleus | Trapezius | Latissimus dorsi | Lats | Sartorius | Masseter | Rectus abdominis | Obliques | Skeletal muscle | Psoas | Rotator cuff | Intercostal muscles | Sphincter | Sphincters | Anal sphincter | Oesophageal sphincter | Esophageal sphincter | Pyloric sphincter | Hip flexors | Adductors | Pelvic floor | Pelvic floor muscles | Sphincter of Oddi
+- Lens — Crystalline lens
+- Pupil
+- Sclera — White of the eye
+- Optic nerve
+- Eyelids — Eyelid
+- Lacrimal glands — Lacrimal gland | Tear gland | Tear glands
+- Tear ducts — Tear duct | Lacrimal duct | Nasolacrimal duct
+- Semicircular canals
+- Ossicles — Ossicle | Ear bones | Ear bone | Auditory ossicles | Stapes | Malleus | Incus | Stirrup | Hammer | Anvil
+- Inner ear
+- Middle ear
+- Outer ear — Pinna | Auricle | Ear flap | External ear
+- Eustachian tube — Eustachian tubes | Auditory tube | Pharyngotympanic tube
+- Ear canal — Auditory canal | External auditory canal
+- Nostrils — Nostril | Nares
+- Sweat glands — Sweat gland | Eccrine glands | Eccrine gland | Apocrine glands | Apocrine gland
+- Sebaceous glands — Sebaceous gland | Oil glands | Oil gland
+- Epidermis
+- Dermis
+- Nipples — Nipple | Areola
+- Epididymis
+- Vas deferens — Ductus deferens | Sperm duct | Sperm ducts | Vasa deferentia
+- Seminal vesicles — Seminal vesicle
+- Labia — Labia majora | Labia minora
+- Umbilical cord
+- Cerebrum — Telencephalon
+- Brainstem
+- Medulla oblongata — Medulla | Myelencephalon
+- Thalamus — Thalami
+- Hippocampus — Hippocampi | Hippocampal formation | Ammon's horn | Cornu ammonis | CA1 | CA3
+- Amygdala — Amygdalae | Amygdaloid body | Amygdaloid nucleus
+- Cerebral cortex — Cortex | Neocortex | Isocortex | Cerebral mantle
+- Vagus nerve
+- Sciatic nerve
+- Parotid glands — Parotid gland | Parotid
+- Peritoneum — Perioneum | Peritneum
+- Endometrium — Womb lining | Lining of the womb
+- Milk ducts — Milk duct | Lactiferous ducts | Lactiferous duct
+- Tendon — Tendons | Achilles tendon
+- Ligaments — Ligament | Cruciate ligament | Anterior cruciate ligament | ACL
+- Joints — Joint | Synovial joint | Synovial joints | Knee joint | Hip joint | Shoulder joint | Elbow joint | Jaw joint | Temporomandibular joint | TMJ
+- Cerebral hemispheres — Cerebral hemisphere | Hemisphere | Hemispheres | Left hemisphere | Right hemisphere | Left brain | Right brain
+- Grey matter — Gray matter | Grey cells | Little grey cells
+- Hymen
+- Amniotic sac — Amnion | Amniotic membrane | Bag of waters
+
+### Tier 5: expert (265)
+
+- Interstitium
+- Plica semilunaris — Semilunar fold | Third eyelid
+- Palmaris longus
+- Auricular muscles — Auricular muscle | Auricularis | Ear muscles | Ear-wiggling muscles
+- Arrector pili — Arrector pili muscles | Arrector pili muscle | Goosebump muscles
+- Plantaris
+- Pyramidalis
+- Darwin's tubercle — Darwinian tubercle | Woolner's tip
+- Islets of Langerhans — Pancreatic islets | Islets
+- Peyer's patches — Peyer's patch
+- Brunner's glands — Duodenal glands
+- Submandibular glands — Submandibular gland
+- Sublingual glands — Sublingual gland
+- Meibomian glands — Meibomian gland | Tarsal glands
+- Ceruminous glands — Ceruminous gland | Earwax glands
+- Bulbourethral glands — Bulbourethral gland | Cowper's glands | Cowper's gland
+- Bartholin's glands — Bartholin's gland | Bartholin glands
+- Skene's glands — Skene's gland | Paraurethral glands
+- Foreskin — Prepuce
+- Hair follicles — Hair follicle | Follicle | Follicles
+- Hypodermis — Subcutaneous layer | Subcutis
+- Omentum — Greater omentum | Lesser omentum
+- Pylorus
+- Villi — Villus | Intestinal villi
+- Nephrons — Nephron
+- Glomerulus — Glomeruli
+- Loop of Henle
+- Bowman's capsule — Glomerular capsule
+- Renal pelvis
+- Lymphatic vessels — Lymphatic vessel | Lymph vessels | Lymph vessel | Lymphatics | Thoracic duct
+- Sinoatrial node — SA node | Sinus node | Natural pacemaker
+- Atrioventricular node — AV node
+- Choroid
+- Ciliary body — Ciliary muscle
+- Macula — Macula lutea | Yellow spot
+- Fovea — Fovea centralis
+- Conjunctiva
+- Vitreous humour — Vitreous humor | Vitreous body | Vitreous
+- Optic chiasm — Optic chiasma
+- Earlobe — Earlobes
+- Vestibular system — Vestibule | Labyrinth | Inner ear labyrinth
+- Nasal cavity — Nasal passages | Nasal passage
+- Nasal septum — Septum
+- Turbinates — Turbinate | Nasal conchae | Nasal concha
+- Olfactory bulb — Olfactory bulbs
+- Pons — Pons Varolii
+- Midbrain — Mesencephalon
+- Corpus callosum
+- Frontal lobe — Frontal lobes | Frontal cortex | Frontal
+- Temporal lobe — Temporal lobes | Temporal cortex | Temporal
+- Parietal lobe — Parietal lobes | Parietal cortex | Parietal
+- Occipital lobe — Occipital lobes | Occipital cortex | Occipital
+- Prefrontal cortex — PFC | Dorsolateral prefrontal cortex | Ventromedial prefrontal cortex | vmPFC | DLPFC
+- Basal ganglia — Basal nuclei
+- Limbic system — Limbic lobe
+- Meninges — Dura mater | Arachnoid mater | Pia mater | Meninx | Brain membranes | Dura | Pia | Arachnoid | Arachnoid membrane
+- Choroid plexus
+- Ganglia — Ganglion
+- Myocardium — Heart muscle | Cardiac muscle
+- Interventricular septum — Heart septum
+- Sigmoid colon — Sigmoid
+- Hepatic portal vein — Portal vein
+- Cystic duct
+- Pancreatic duct
+- Prostate utricle
+- Glans — Glans penis | Glans clitoridis | Head of the penis
+- White matter
+- Broca's area — Broca area | Broca's | Broca's region
+- Wernicke's area — Wernicke area | Wernicke's
+- Motor cortex — Primary motor cortex | Motor strip
+- Visual cortex — Primary visual cortex | Striate cortex | V1
+- Brain ventricles — Cerebral ventricles | Lateral ventricles | Lateral ventricle | Third ventricle | Fourth ventricle | Ventricles of the brain | Ventricular system | 3rd ventricle | 4th ventricle
+- Insula — Insular cortex | Island of Reil | Insular lobe
+- Substantia nigra — Substantia nigra pars compacta | Pars compacta | Pars reticulata
+- Forebrain — Prosencephalon
+- Hindbrain — Rhombencephalon
+- Optic disc — Optic disk | Blind spot | Optic nerve head
+- Adrenal cortex
+- Adrenal medulla
+- Renal cortex
+- Renal medulla
+- Corpus luteum
+- Ovarian follicles — Ovarian follicle
+- Myometrium
+- Seminiferous tubules — Seminiferous tubule
+- Spermatic cord
+- Frenulum — Frenum | Lingual frenulum
+- Endocardium
+- Bundle of His — His bundle | Atrioventricular bundle
+- Purkinje fibres — Purkinje fibers | Purkinje fibre | Purkinje fiber
+- Chordae tendineae — Heart strings
+- Gastric glands — Gastric gland | Stomach glands
+- Tooth enamel — Enamel
+- Dentine — Dentin
+- Dental pulp — Pulp | Tooth pulp
+- Ileocaecal valve — Ileocecal valve
+- Ampulla of Vater — Hepatopancreatic ampulla
+- Fornix
+- Striatum — Corpus striatum | Dorsal striatum | Ventral striatum | Neostriatum
+- Caudate nucleus — Caudate
+- Putamen
+- Globus pallidus — Pallidum
+- Nucleus accumbens — Accumbens | Pleasure centre | Pleasure center | Reward centre | Reward center
+- Diencephalon — Interbrain
+- Mammillary bodies — Mammillary body | Mamillary bodies | Mamillary body
+- Cingulate gyrus — Cingulate cortex | Anterior cingulate cortex | Anterior cingulate | Posterior cingulate cortex | Cingulum | Cingulate
+- Gyri — Gyrus | Convolutions
+- Sulci — Sulcus | Fissures | Fissure
+- Central sulcus — Fissure of Rolando | Rolandic fissure | Central fissure
+- Lateral sulcus — Sylvian fissure | Lateral fissure | Fissure of Sylvius
+- Somatosensory cortex — Primary somatosensory cortex | Sensory cortex
+- Auditory cortex — Primary auditory cortex
+- Premotor cortex
+- Cerebral aqueduct — Aqueduct of Sylvius | Sylvian aqueduct | Mesencephalic aqueduct
+- Reticular formation — Reticular activating system
+- Vermis — Cerebellar vermis
+- Longitudinal fissure — Great longitudinal fissure | Interhemispheric fissure
+- Suprachiasmatic nucleus — SCN | Suprachiasmatic nuclei
+- Orbitofrontal cortex — OFC
+- Entorhinal cortex
+- Dentate gyrus
+- Precentral gyrus
+- Postcentral gyrus
+- Brodmann areas — Brodmann area
+- Epithalamus
+- Subthalamus
+- Subthalamic nucleus — Subthalamic nuclei
+- Tectum — Corpora quadrigemina | Quadrigeminal plate | Tectal plate | Colliculi
+- Tegmentum
+- Superior colliculus — Superior colliculi
+- Inferior colliculus — Inferior colliculi
+- Cerebral peduncles — Cerebral peduncle | Crus cerebri
+- Cerebellar peduncles — Cerebellar peduncle
+- Red nucleus
+- Ventral tegmental area — VTA
+- Periaqueductal grey — Periaqueductal gray | Central grey | Central gray
+- Raphe nuclei — Raphe nucleus
+- Olive — Olivary body | Olivary nucleus | Olives
+- Medullary pyramids — Pyramids | Pyramids of the medulla
+- Flocculus
+- Cerebellar hemispheres — Cerebellar hemisphere
+- Dentate nucleus
+- Deep cerebellar nuclei — Cerebellar nuclei | Fastigial nucleus | Interposed nucleus | Emboliform nucleus | Globose nucleus
+- Lateral geniculate nucleus — LGN | Lateral geniculate body
+- Medial geniculate nucleus — MGN | Medial geniculate body
+- Pulvinar
+- Habenula
+- Paraventricular nucleus — Paraventricular nuclei
+- Supraoptic nucleus
+- Arcuate nucleus
+- Preoptic area
+- Infundibulum — Pituitary stalk
+- Median eminence
+- Optic tract
+- Olfactory tract
+- Septum pellucidum
+- Septal nuclei — Septal area
+- Anterior commissure
+- Posterior commissure
+- Internal capsule
+- Corona radiata
+- Parahippocampal gyrus
+- Fusiform gyrus — Fusiform face area
+- Angular gyrus
+- Supramarginal gyrus
+- Heschl's gyrus — Transverse temporal gyrus | Heschl gyrus
+- Cuneus
+- Precuneus
+- Lingual gyrus
+- Supplementary motor area — SMA
+- Frontal eye fields — Frontal eye field
+- Calcarine sulcus — Calcarine fissure
+- Parieto-occipital sulcus
+- Interventricular foramen — Foramen of Monro | Interventricular foramina
+- Subarachnoid space
+- Falx cerebri
+- Tentorium cerebelli — Tentorium
+- Circle of Willis — Cerebral arterial circle | Circulus arteriosus
+- Blood-brain barrier — BBB
+- Lentiform nucleus — Lenticular nucleus
+- Uncus
+- Metencephalon
+- Perirhinal cortex
+- Corticospinal tract — Pyramidal tract
+- Mesolimbic pathway — Reward pathway
+- Arcuate fasciculus
+- Area postrema
+- Arbor vitae
+- Foramen of Magendie — Median aperture
+- Foramina of Luschka — Foramen of Luschka | Lateral apertures
+- Central canal
+- Arachnoid granulations — Arachnoid villi | Pacchionian granulations
+- Dural venous sinuses — Dural sinuses | Superior sagittal sinus | Venous sinuses
+- Glymphatic system
+- Flocculonodular lobe
+- Nucleus of the solitary tract — Solitary nucleus | Nucleus tractus solitarius | NTS
+- Nucleus ambiguus
+- Vestibular nuclei
+- Cochlear nuclei
+- Trigeminal nuclei
+- Hypoglossal nucleus
+- Facial nucleus
+- Edinger-Westphal nucleus
+- Oculomotor nucleus
+- Abducens nucleus
+- Nucleus basalis — Nucleus basalis of Meynert | Basal nucleus of Meynert
+- Ventromedial nucleus
+- Dorsomedial nucleus
+- Lateral hypothalamus
+- Tuber cinereum
+- Bed nucleus of the stria terminalis — BNST
+- Stria terminalis
+- Stria medullaris
+- Mammillothalamic tract
+- Indusium griseum
+- External capsule
+- Extreme capsule
+- Superior frontal gyrus
+- Middle frontal gyrus
+- Inferior frontal gyrus
+- Superior temporal gyrus
+- Middle temporal gyrus
+- Inferior temporal gyrus
+- Superior parietal lobule
+- Inferior parietal lobule
+- Gyrus rectus
+- Paracentral lobule
+- Retrosplenial cortex
+- Piriform cortex
+- Medial forebrain bundle
+- Uncinate fasciculus
+- Superior longitudinal fasciculus
+- Cerebellar tonsils
+- Nodulus
+- Hippocampal commissure
+- Lamina terminalis
+- Interthalamic adhesion — Massa intermedia | Intermediate mass
+- Pretectum
+- Substantia innominata
+- Ventral pallidum
+- Thalamic reticular nucleus
+- Nigrostriatal pathway
+- Inferior olivary nucleus
+- Pontine nuclei
+- Mesocortical pathway
+- Tuberoinfundibular pathway
+- Cerebral arteries — Middle cerebral artery | Anterior cerebral artery | Posterior cerebral artery | Basilar artery
+- Purkinje layer
+- Granular layer
+- Molecular layer
+- Archicortex
+- Paleocortex
+- Allocortex
+- Subiculum
+- Hippocampal sulcus
+- Operculum
+- Planum temporale
+- Claustrum
+- Locus coeruleus — Locus ceruleus | Locus caeruleus | Blue spot
+- Zona incerta
+- Rhinencephalon — Smell brain | Olfactory brain
+- Basal forebrain
+- Cerebellar cortex
+- Pyramidal decussation — Decussation of the pyramids | Motor decussation
+- Area MT — V5 | MT | Middle temporal area
+
+### Tier 6: rare jackpots (2)
+
+- Organ of Corti — Spiral organ
+- Vomeronasal organ — Jacobson's organ | Organ of Jacobson | VNO
+
+## Refused on purpose (27)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Nervous system | Digestive system | Circulatory system | Cardiovascular system | Respiratory system | Immune system | Lymphatic system | Endocrine system | Reproductive system | Urinary system | Excretory system | Muscular system | Skeletal system | Integumentary system | Central nervous system | Peripheral nervous system | Organ system | Digestive tract | Gastrointestinal tract | GI tract | Alimentary canal | Urinary tract | Respiratory tract | Airways — "A whole system of organs. Name one of them."
+- Skeleton — "A whole system of parts, not a single organ."
+- Blood | Plasma | Blood cells — "A tissue, and a liquid one. Not an organ."
+- Lymph — "A fluid. The glands it flows through would count."
+- Fat | Adipose tissue | Body fat | Blubber — "A tissue, though it makes hormones like a gland."
+- Cartilage | Gristle — "A tissue, found in many organs, not one itself."
+- Cell | Neuron | Red blood cell | White blood cell | Platelet | Stem cell | Sperm | Egg | Ovum — "A single cell, far too small to be an organ."
+- Hair | Eyelash | Eyebrow | Beard | Moustache | Mustache — "Dead keratin, grown by the skin. Not an organ."
+- Nails | Fingernail | Toenail — "Hard keratin, grown by the skin. Not an organ."
+- Bile | Saliva | Urine | Mucus | Snot | Phlegm | Tears | Sweat | Earwax | Semen | Cerebrospinal fluid | Aqueous humour | Aqueous humor | Stomach acid — "A fluid the body makes, not an organ."
+- Hand | Arm | Leg | Finger | Toe | Thumb | Neck | Shoulder | Elbow | Knee | Wrist | Ankle | Hip | Back | Torso | Thigh | Calf | Cheek | Chin | Forehead | Face | Bottom | Buttocks | Bum | Waist | Armpit | Heel | Palm | Body | Arse — "A body part, but not an organ."
+- Abdomen | Chest | Groin | Pelvic cavity — "A region of the body, home to many organs. Name one."
+- Belly button | Navel | Umbilicus — "A scar, healed over in your first weeks of life. Not an organ."
+- Gland | Glands | Endocrine gland | Endocrine glands | Exocrine gland | Exocrine glands — "Which gland? The body has dozens. Name one."
+- Microbiome | Gut flora | Gut bacteria | Gut microbiome — "Trillions of microbes, sometimes called a forgotten organ. Not yours, though."
+- Gills | Swim bladder | Lateral line — "Fish have them. You, presumably, do not."
+- Gizzard | Crop — "A bird's organ for storing or grinding its food. Humans make do without."
+- Udder — "A cow's milk gland. Wrong animal."
+- Tail — "Humans lose theirs before birth, all but a stub."
+- Wings | Feathers | Beak | Horns | Antlers | Tentacles | Scales — "Not on humans. Not yet."
+- Electric organ — "Electric eels have three. Humans have none."
+- Pipe organ | Church organ | Hammond organ | Organ — "A musical instrument. Wrong kind of organ."
+- Soul | Spirit — "Not an organ, whatever the poets say."
+- Mind — "Not an organ, though it lives in one."
+- Perineum — "A region between the legs, not an organ."
+- Rods and cones | Rods | Cones | Rod cells | Cone cells | Photoreceptors — "Single light-sensing cells, far too small to be organs."
+- Fascia — "A sheet of tough connective tissue, not an organ."

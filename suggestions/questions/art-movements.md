@@ -1,0 +1,486 @@
+# Name an art movement.
+
+Question id: `art-movements` · category: culture · source: `data/culture.json`
+
+Rules: Any movement, style or school of art, architecture or design, from antiquity to now. Techniques, genres, whole art forms and single artists don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (437 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Impressionism — Impressionist | Impressionists | Impressionist movement | Impressionist painting | French Impressionism | Impressionism movement | Impressionism style | Impressionism art | Impressionism architecture | Impressionist style | Impressionist art | Impressionist architecture | Impressionists movement | Impressionists style | Impressionists art | Impressionists architecture | Impressionist movement style | Impressionist movement art | Impressionist movement architecture | Impressionist painting movement | Impressionist painting style | Impressionist painting art | Impressionist painting architecture | French Impressionism movement | French Impressionism style | French Impressionism art | French Impressionism architecture
+- Cubism — Cubist | Analytic Cubism | Synthetic Cubism | Cubist movement | Cubist art | Cubist painting | Cubism movement | Cubism style | Cubism art | Cubism architecture | Cubist style | Cubist architecture | Analytic Cubism movement | Analytic Cubism style | Analytic Cubism art | Analytic Cubism architecture | Synthetic Cubism movement | Synthetic Cubism style | Synthetic Cubism art | Synthetic Cubism architecture | Cubist movement style | Cubist movement art | Cubist movement architecture | Cubist art movement | Cubist art style | Cubist art architecture | Cubist painting movement | Cubist painting style | Cubist painting art | Cubist painting architecture
+- Surrealism — Surrealist | Surreal | Surrealist movement | Surrealist art | Surrealist painting | Surrealism movement | Surrealism style | Surrealism art | Surrealism architecture | Surrealist style | Surrealist architecture | Surreal movement | Surreal style | Surreal art | Surreal architecture | Surrealist movement style | Surrealist movement art | Surrealist movement architecture | Surrealist art movement | Surrealist art style | Surrealist art architecture | Surrealist painting movement | Surrealist painting style | Surrealist painting art | Surrealist painting architecture
+- Renaissance — Italian Renaissance | Early Renaissance | Quattrocento | Renaissance art | Renaissance style | Renaissance architecture | Renaissance painting | English Renaissance | French Renaissance | German Renaissance | Spanish Renaissance | Renaissance movement | Italian Renaissance movement | Italian Renaissance style | Italian Renaissance art | Italian Renaissance architecture | Early Renaissance movement | Early Renaissance style | Early Renaissance art | Early Renaissance architecture | Quattrocento movement | Quattrocento style | Quattrocento art | Quattrocento architecture | Renaissance art movement | Renaissance art style | Renaissance art architecture | Renaissance style movement | Renaissance style art | Renaissance style architecture | Renaissance architecture movement | Renaissance architecture style | Renaissance architecture art | Renaissance painting movement | Renaissance painting style | Renaissance painting art | Renaissance painting architecture | English Renaissance movement | English Renaissance style | English Renaissance art | English Renaissance architecture | French Renaissance movement | French Renaissance style | French Renaissance art | French Renaissance architecture | German Renaissance movement | German Renaissance style | German Renaissance art | German Renaissance architecture | Spanish Renaissance movement | Spanish Renaissance style | Spanish Renaissance art | Spanish Renaissance architecture
+- Pop Art — Pop | Pop Art movement | Pop artists | Pop Art style | Pop Art architecture | Pop movement | Pop style | Pop architecture | Pop Art movement style | Pop Art movement art | Pop Art movement architecture | Pop artists movement | Pop artists style | Pop artists art | Pop artists architecture
+- Baroque — Baroque art | Flemish Baroque | Baroque style | Baroque architecture | Baroque painting | English Baroque | Italian Baroque | Spanish Baroque | Sicilian Baroque | Baroque movement | Baroque art movement | Baroque art style | Baroque art architecture | Flemish Baroque movement | Flemish Baroque style | Flemish Baroque art | Flemish Baroque architecture | Baroque style movement | Baroque style art | Baroque style architecture | Baroque architecture movement | Baroque architecture style | Baroque architecture art | Baroque painting movement | Baroque painting style | Baroque painting art | Baroque painting architecture | English Baroque movement | English Baroque style | English Baroque art | English Baroque architecture | Italian Baroque movement | Italian Baroque style | Italian Baroque art | Italian Baroque architecture | Spanish Baroque movement | Spanish Baroque style | Spanish Baroque art | Spanish Baroque architecture | Sicilian Baroque movement | Sicilian Baroque style | Sicilian Baroque art | Sicilian Baroque architecture
+- Art Deco — Deco | Art Deco style | Art Deco architecture | Art Deco movement | Art Deco art | Deco movement | Deco style | Deco art | Deco architecture | Art Deco style movement | Art Deco style art | Art Deco style architecture | Art Deco architecture movement | Art Deco architecture style | Art Deco architecture art | Art Deco movement style | Art Deco movement art | Art Deco movement architecture
+- Art Nouveau — Jugendstil | Catalan Modernisme | Stile Liberty | Liberty Style | Art Nouveau style | Art Nouveau architecture | Art Nouveau movement | Modernisme | Art Nouveau art | Jugendstil movement | Jugendstil style | Jugendstil art | Jugendstil architecture | Catalan Modernisme movement | Catalan Modernisme style | Catalan Modernisme art | Catalan Modernisme architecture | Stile Liberty movement | Stile Liberty style | Stile Liberty art | Stile Liberty architecture | Liberty Style movement | Liberty Style art | Liberty Style architecture | Art Nouveau style movement | Art Nouveau style art | Art Nouveau style architecture | Art Nouveau architecture movement | Art Nouveau architecture style | Art Nouveau architecture art | Art Nouveau movement style | Art Nouveau movement art | Art Nouveau movement architecture | Modernisme movement | Modernisme style | Modernisme art | Modernisme architecture
+- Expressionism — Expressionist | German Expressionism | Expressionist movement | Expressionist architecture | Expressionism movement | Expressionism style | Expressionism art | Expressionism architecture | Expressionist style | Expressionist art | German Expressionism movement | German Expressionism style | German Expressionism art | German Expressionism architecture | Expressionist movement style | Expressionist movement art | Expressionist movement architecture | Expressionist architecture movement | Expressionist architecture style | Expressionist architecture art
+- Dada — Dadaism | Dadaist | Dada movement | Dadaist movement | Dada art | Dada style | Dada architecture | Dadaism movement | Dadaism style | Dadaism art | Dadaism architecture | Dadaist style | Dadaist art | Dadaist architecture | Dada movement style | Dada movement art | Dada movement architecture | Dadaist movement style | Dadaist movement art | Dadaist movement architecture | Dada art movement | Dada art style | Dada art architecture
+- Post-Impressionism — Post-Impressionist | Post-Impressionist movement | Post-Impressionism movement | Post-Impressionism style | Post-Impressionism art | Post-Impressionism architecture | Post-Impressionist style | Post-Impressionist art | Post-Impressionist architecture | Post-Impressionist movement style | Post-Impressionist movement art | Post-Impressionist movement architecture
+- Abstract Expressionism — AbEx | Abstract Expressionist | Abstract Expressionist movement | Abstract Expressionism movement | Abstract Expressionism style | Abstract Expressionism art | Abstract Expressionism architecture | AbEx movement | AbEx style | AbEx art | AbEx architecture | Abstract Expressionist style | Abstract Expressionist art | Abstract Expressionist architecture | Abstract Expressionist movement style | Abstract Expressionist movement art | Abstract Expressionist movement architecture
+
+### Tier 2: common (22)
+
+- Romanticism — Romantic | Romantic movement | Romantic art | Romantic painting | Romanticism movement | Romanticism style | Romanticism art | Romanticism architecture | Romantic style | Romantic architecture | Romantic movement style | Romantic movement art | Romantic movement architecture | Romantic art movement | Romantic art style | Romantic art architecture | Romantic painting movement | Romantic painting style | Romantic painting art | Romantic painting architecture
+- Realism — Realist | Realist movement | Realist art | Realist painting | Realism movement | Realism style | Realism art | Realism architecture | Realist style | Realist architecture | Realist movement style | Realist movement art | Realist movement architecture | Realist art movement | Realist art style | Realist art architecture | Realist painting movement | Realist painting style | Realist painting art | Realist painting architecture
+- Modernism — Modern art | Modernist | Modern | Modern Movement | Modernist architecture | Modern architecture | Modernism movement | Modernism style | Modernism art | Modernism architecture | Modern art movement | Modern art style | Modern art architecture | Modernist movement | Modernist style | Modernist art | Modern style | Modern Movement style | Modern Movement art | Modern Movement architecture | Modernist architecture movement | Modernist architecture style | Modernist architecture art | Modern architecture movement | Modern architecture style | Modern architecture art
+- Minimalism — Minimal art | Minimalist | Minimalist art | Minimalist movement | Minimalist design | Minimalism movement | Minimalism style | Minimalism art | Minimalism architecture | Minimal art movement | Minimal art style | Minimal art architecture | Minimalist style | Minimalist architecture | Minimalist art movement | Minimalist art style | Minimalist art architecture | Minimalist movement style | Minimalist movement art | Minimalist movement architecture | Minimalist design movement | Minimalist design style | Minimalist design art | Minimalist design architecture
+- Gothic — Gothic art | Gothic architecture | Gothic style | Gothic movement | Gothic art movement | Gothic art style | Gothic art architecture | Gothic architecture movement | Gothic architecture style | Gothic architecture art | Gothic style movement | Gothic style art | Gothic style architecture
+- Rococo — Rococo style | Rococo art | Rococo architecture | Rococo movement | Rococo style movement | Rococo style art | Rococo style architecture | Rococo art movement | Rococo art style | Rococo art architecture | Rococo architecture movement | Rococo architecture style | Rococo architecture art
+- Neoclassicism — Neoclassical | Neoclassical architecture | Neoclassical style | Neoclassicism movement | Neoclassicism style | Neoclassicism art | Neoclassicism architecture | Neoclassical movement | Neoclassical art | Neoclassical architecture movement | Neoclassical architecture style | Neoclassical architecture art | Neoclassical style movement | Neoclassical style art | Neoclassical style architecture
+- Fauvism — Fauves | Les Fauves | Fauvist | Fauvism movement | Fauvism style | Fauvism art | Fauvism architecture | Fauves movement | Fauves style | Fauves art | Fauves architecture | Les Fauves movement | Les Fauves style | Les Fauves art | Les Fauves architecture | Fauvist movement | Fauvist style | Fauvist art | Fauvist architecture
+- Futurism — Futurist | Italian Futurism | Futurist movement | Futurist art | Futurism movement | Futurism style | Futurism art | Futurism architecture | Futurist style | Futurist architecture | Italian Futurism movement | Italian Futurism style | Italian Futurism art | Italian Futurism architecture | Futurist movement style | Futurist movement art | Futurist movement architecture | Futurist art movement | Futurist art style | Futurist art architecture
+- Pre-Raphaelites — Pre-Raphaelite Brotherhood | Pre-Raphaelite | Pre-Raphaelitism | PRB | Pre-Raphaelite movement | Pre-Raphaelite painters | Pre-Raphaelites movement | Pre-Raphaelites style | Pre-Raphaelites art | Pre-Raphaelites architecture | Pre-Raphaelite Brotherhood movement | Pre-Raphaelite Brotherhood style | Pre-Raphaelite Brotherhood art | Pre-Raphaelite Brotherhood architecture | Pre-Raphaelite style | Pre-Raphaelite art | Pre-Raphaelite architecture | Pre-Raphaelitism movement | Pre-Raphaelitism style | Pre-Raphaelitism art | Pre-Raphaelitism architecture | PRB movement | PRB style | PRB art | PRB architecture | Pre-Raphaelite movement style | Pre-Raphaelite movement art | Pre-Raphaelite movement architecture | Pre-Raphaelite painters movement | Pre-Raphaelite painters style | Pre-Raphaelite painters art | Pre-Raphaelite painters architecture
+- Bauhaus — Bauhaus movement | Bauhaus style | Bauhaus architecture | Bauhaus design | Bauhaus school | Bauhaus art | Bauhaus movement style | Bauhaus movement art | Bauhaus movement architecture | Bauhaus style movement | Bauhaus style art | Bauhaus style architecture | Bauhaus architecture movement | Bauhaus architecture style | Bauhaus architecture art | Bauhaus design movement | Bauhaus design style | Bauhaus design art | Bauhaus design architecture | Bauhaus school movement | Bauhaus school style | Bauhaus school art | Bauhaus school architecture
+- Pointillism — Pointillist | Pointillism movement | Pointillism style | Pointillism art | Pointillism architecture | Pointillist movement | Pointillist style | Pointillist art | Pointillist architecture
+- Conceptual art — Conceptualism | Conceptual art movement | Conceptual art style | Conceptual art architecture | Conceptualism movement | Conceptualism style | Conceptualism art | Conceptualism architecture
+- Abstract art — Abstraction | Abstract | Abstract art movement | Abstract art style | Abstract art architecture | Abstraction movement | Abstraction style | Abstraction art | Abstraction architecture | Abstract movement | Abstract style | Abstract architecture
+- Brutalism — Brutalist | New Brutalism | Brutalist architecture | Brutalist style | Brutalism movement | Brutalism style | Brutalism art | Brutalism architecture | Brutalist movement | Brutalist art | New Brutalism movement | New Brutalism style | New Brutalism art | New Brutalism architecture | Brutalist architecture movement | Brutalist architecture style | Brutalist architecture art | Brutalist style movement | Brutalist style art | Brutalist style architecture
+- Arts and Crafts — Arts and Crafts movement | Arts and Crafts style | Arts and Crafts art | Arts and Crafts architecture | Arts and Crafts movement style | Arts and Crafts movement art | Arts and Crafts movement architecture | Arts and Crafts style movement | Arts and Crafts style art | Arts and Crafts style architecture
+- Postmodernism — Postmodern | Postmodern architecture | Postmodernism movement | Postmodernism style | Postmodernism art | Postmodernism architecture | Postmodern movement | Postmodern style | Postmodern art | Postmodern architecture movement | Postmodern architecture style | Postmodern architecture art
+- Street art — Street art movement | Street art style | Street art architecture
+- Mannerism — Mannerist | Late Renaissance | Mannerism movement | Mannerism style | Mannerism art | Mannerism architecture | Mannerist movement | Mannerist style | Mannerist art | Mannerist architecture | Late Renaissance movement | Late Renaissance style | Late Renaissance art | Late Renaissance architecture
+- Op Art — Optical art | Op Art movement | Op Art style | Op Art architecture | Optical art movement | Optical art style | Optical art architecture
+- Classicism — Classical | Classical architecture | Classical art | Classical style | Classicism movement | Classicism style | Classicism art | Classicism architecture | Classical movement | Classical architecture movement | Classical architecture style | Classical architecture art | Classical art movement | Classical art style | Classical art architecture | Classical style movement | Classical style art | Classical style architecture
+- Constructivism — Constructivist | Russian Constructivism | Constructivist architecture | Constructivism movement | Constructivism style | Constructivism art | Constructivism architecture | Constructivist movement | Constructivist style | Constructivist art | Russian Constructivism movement | Russian Constructivism style | Russian Constructivism art | Russian Constructivism architecture | Constructivist architecture movement | Constructivist architecture style | Constructivist architecture art
+
+### Tier 3: known to fans (44)
+
+- High Renaissance — Cinquecento | High Renaissance movement | High Renaissance style | High Renaissance art | High Renaissance architecture | Cinquecento movement | Cinquecento style | Cinquecento art | Cinquecento architecture
+- Northern Renaissance — Northern Renaissance movement | Northern Renaissance style | Northern Renaissance art | Northern Renaissance architecture
+- Romanesque — Norman | Norman architecture | Romanesque architecture | Romanesque style | Romanesque art | Romanesque movement | Norman movement | Norman style | Norman art | Norman architecture movement | Norman architecture style | Norman architecture art | Romanesque architecture movement | Romanesque architecture style | Romanesque architecture art | Romanesque style movement | Romanesque style art | Romanesque style architecture | Romanesque art movement | Romanesque art style | Romanesque art architecture
+- Byzantine art — Byzantine | Byzantine architecture | Byzantine style | Byzantine art movement | Byzantine art style | Byzantine art architecture | Byzantine movement | Byzantine architecture movement | Byzantine architecture style | Byzantine architecture art | Byzantine style movement | Byzantine style art | Byzantine style architecture
+- Neo-Impressionism — Neo-Impressionist | Neo-Impressionism movement | Neo-Impressionism style | Neo-Impressionism art | Neo-Impressionism architecture | Neo-Impressionist movement | Neo-Impressionist style | Neo-Impressionist art | Neo-Impressionist architecture
+- Symbolism — Symbolist | Symbolist movement | Symbolist art | Symbolism movement | Symbolism style | Symbolism art | Symbolism architecture | Symbolist style | Symbolist architecture | Symbolist movement style | Symbolist movement art | Symbolist movement architecture | Symbolist art movement | Symbolist art style | Symbolist art architecture
+- Suprematism — Suprematism movement | Suprematism style | Suprematism art | Suprematism architecture
+- De Stijl — Neoplasticism | De Stijl movement | De Stijl style | De Stijl art | De Stijl architecture | Neoplasticism movement | Neoplasticism style | Neoplasticism art | Neoplasticism architecture
+- Vorticism — Vorticism movement | Vorticism style | Vorticism art | Vorticism architecture
+- Der Blaue Reiter — Blaue Reiter | The Blue Rider | Der Blaue Reiter movement | Der Blaue Reiter style | Der Blaue Reiter art | Der Blaue Reiter architecture | Blaue Reiter movement | Blaue Reiter style | Blaue Reiter art | Blaue Reiter architecture | The Blue Rider movement | The Blue Rider style | The Blue Rider art | The Blue Rider architecture
+- Die Brücke — Brücke | The Bridge | Die Brücke movement | Die Brücke style | Die Brücke art | Die Brücke architecture | Brücke movement | Brücke style | Brücke art | Brücke architecture | The Bridge movement | The Bridge style | The Bridge art | The Bridge architecture
+- Young British Artists — YBA | YBAs | Brit Art | Young British Art | Young British Artists movement | Young British Artists style | Young British Artists art | Young British Artists architecture | YBA movement | YBA style | YBA art | YBA architecture | YBAs movement | YBAs style | YBAs art | YBAs architecture | Brit Art movement | Brit Art style | Brit Art architecture | Young British Art movement | Young British Art style | Young British Art architecture
+- Land art — Earth art | Earthworks | Land art movement | Land art style | Land art architecture | Earth art movement | Earth art style | Earth art architecture | Earthworks movement | Earthworks style | Earthworks art | Earthworks architecture
+- Performance art — Performance art movement | Performance art style | Performance art architecture
+- Photorealism — Superrealism | Photorealism movement | Photorealism style | Photorealism art | Photorealism architecture | Superrealism movement | Superrealism style | Superrealism art | Superrealism architecture
+- Hyperrealism — Hyperrealism movement | Hyperrealism style | Hyperrealism art | Hyperrealism architecture
+- Art Brut — Outsider art | Art Brut movement | Art Brut style | Art Brut art | Art Brut architecture | Outsider art movement | Outsider art style | Outsider art architecture
+- Naïve art — Naïve | Naïf | Naïf art | Naïve painting | Naïve art movement | Naïve art style | Naïve art architecture | Naïve movement | Naïve style | Naïve architecture | Naïf movement | Naïf style | Naïf architecture | Naïf art movement | Naïf art style | Naïf art architecture | Naïve painting movement | Naïve painting style | Naïve painting art | Naïve painting architecture
+- Aestheticism — Aesthetic movement | Art for art's sake | Aestheticism movement | Aestheticism style | Aestheticism art | Aestheticism architecture | Aesthetic movement style | Aesthetic movement art | Aesthetic movement architecture | Art for art's sake movement | Art for art's sake style | Art for art's sake art | Art for art's sake architecture
+- Gothic Revival — Neo-Gothic | Gothic Revival architecture | Victorian Gothic | High Victorian Gothic | Gothic Revival movement | Gothic Revival style | Gothic Revival art | Neo-Gothic movement | Neo-Gothic style | Neo-Gothic art | Neo-Gothic architecture | Gothic Revival architecture movement | Gothic Revival architecture style | Gothic Revival architecture art | Victorian Gothic movement | Victorian Gothic style | Victorian Gothic art | Victorian Gothic architecture | High Victorian Gothic movement | High Victorian Gothic style | High Victorian Gothic art | High Victorian Gothic architecture
+- Ukiyo-e — Japanese woodblock prints | Ukiyo-e movement | Ukiyo-e style | Ukiyo-e art | Ukiyo-e architecture | Japanese woodblock prints movement | Japanese woodblock prints style | Japanese woodblock prints art | Japanese woodblock prints architecture
+- Hudson River School — Hudson River | Hudson River School movement | Hudson River School style | Hudson River School art | Hudson River School architecture | Hudson River movement | Hudson River style | Hudson River art | Hudson River architecture
+- Harlem Renaissance — Harlem Renaissance movement | Harlem Renaissance style | Harlem Renaissance art | Harlem Renaissance architecture
+- Social Realism — Social Realism movement | Social Realism style | Social Realism art | Social Realism architecture
+- Socialist Realism — Soviet Realism | Socialist Realism movement | Socialist Realism style | Socialist Realism art | Socialist Realism architecture | Soviet Realism movement | Soviet Realism style | Soviet Realism art | Soviet Realism architecture
+- Mexican Muralism — Muralism | Mexican mural movement | Mexican Muralism movement | Mexican Muralism style | Mexican Muralism art | Mexican Muralism architecture | Muralism movement | Muralism style | Muralism art | Muralism architecture | Mexican mural movement style | Mexican mural movement art | Mexican mural movement architecture
+- Neo-Expressionism — Neo-Expressionism movement | Neo-Expressionism style | Neo-Expressionism art | Neo-Expressionism architecture
+- Kinetic art — Kinetic art movement | Kinetic art style | Kinetic art architecture
+- Colour Field — Color Field | Colour Field painting | Color Field painting | Colour Field movement | Colour Field style | Colour Field art | Colour Field architecture | Color Field movement | Color Field style | Color Field art | Color Field architecture | Colour Field painting movement | Colour Field painting style | Colour Field painting art | Colour Field painting architecture | Color Field painting movement | Color Field painting style | Color Field painting art | Color Field painting architecture
+- Action painting — Action painting movement | Action painting style | Action painting art | Action painting architecture
+- Vienna Secession — Secession | Wiener Secession | Sezessionstil | Vienna Secession movement | Vienna Secession style | Vienna Secession art | Vienna Secession architecture | Secession movement | Secession style | Secession art | Secession architecture | Wiener Secession movement | Wiener Secession style | Wiener Secession art | Wiener Secession architecture | Sezessionstil movement | Sezessionstil style | Sezessionstil art | Sezessionstil architecture
+- Dutch Golden Age — Dutch Golden Age painting | Dutch Golden Age movement | Dutch Golden Age style | Dutch Golden Age art | Dutch Golden Age architecture | Dutch Golden Age painting movement | Dutch Golden Age painting style | Dutch Golden Age painting art | Dutch Golden Age painting architecture
+- Palladianism — Palladian | Palladian architecture | Palladian style | Neo-Palladian | Palladianism movement | Palladianism style | Palladianism art | Palladianism architecture | Palladian movement | Palladian art | Palladian architecture movement | Palladian architecture style | Palladian architecture art | Palladian style movement | Palladian style art | Palladian style architecture | Neo-Palladian movement | Neo-Palladian style | Neo-Palladian art | Neo-Palladian architecture
+- Beaux-Arts — Beaux-Arts architecture | Beaux-Arts style | Beaux-Arts movement | Beaux-Arts art | Beaux-Arts architecture movement | Beaux-Arts architecture style | Beaux-Arts architecture art | Beaux-Arts style movement | Beaux-Arts style art | Beaux-Arts style architecture
+- International Style — International Style movement | International Style art | International Style architecture
+- Mid-century modern — Mid-century | Mid-century modern movement | Mid-century modern style | Mid-century modern art | Mid-century modern architecture | Mid-century movement | Mid-century style | Mid-century art | Mid-century architecture
+- Psychedelic art — Psychedelic art movement | Psychedelic art style | Psychedelic art architecture
+- Feminist art — Feminist art movement | Feminist art style | Feminist art architecture
+- Naturalism — Naturalism movement | Naturalism style | Naturalism art | Naturalism architecture
+- Folk art — Folk art movement | Folk art style | Folk art architecture
+- Graffiti art — Graffiti | Graffito | Graffiti art movement | Graffiti art style | Graffiti art architecture | Graffiti movement | Graffiti style | Graffiti architecture | Graffito movement | Graffito style | Graffito art | Graffito architecture
+- Bloomsbury Group — Bloomsbury Group movement | Bloomsbury Group style | Bloomsbury Group art | Bloomsbury Group architecture
+- Neo-Dada — Neo-Dadaism | Neo-Dada movement | Neo-Dada style | Neo-Dada art | Neo-Dada architecture | Neo-Dadaism movement | Neo-Dadaism style | Neo-Dadaism art | Neo-Dadaism architecture
+- Fluxus — Fluxus movement | Fluxus style | Fluxus art | Fluxus architecture
+
+### Tier 4: obscure (92)
+
+- Tenebrism — Tenebrism movement | Tenebrism style | Tenebrism art | Tenebrism architecture
+- Caravaggisti — Caravaggism | Utrecht Caravaggisti | Caravaggisti movement | Caravaggisti style | Caravaggisti art | Caravaggisti architecture | Caravaggism movement | Caravaggism style | Caravaggism art | Caravaggism architecture | Utrecht Caravaggisti movement | Utrecht Caravaggisti style | Utrecht Caravaggisti art | Utrecht Caravaggisti architecture
+- International Gothic — International Gothic movement | International Gothic style | International Gothic art | International Gothic architecture
+- Early Netherlandish painting — Flemish Primitives | Early Netherlandish | Early Netherlandish painting movement | Early Netherlandish painting style | Early Netherlandish painting art | Early Netherlandish painting architecture | Flemish Primitives movement | Flemish Primitives style | Flemish Primitives art | Flemish Primitives architecture | Early Netherlandish movement | Early Netherlandish style | Early Netherlandish art | Early Netherlandish architecture
+- Venetian School — Venetian School movement | Venetian School style | Venetian School art | Venetian School architecture
+- Florentine School — Florentine School movement | Florentine School style | Florentine School art | Florentine School architecture
+- Sienese School — Sienese School movement | Sienese School style | Sienese School art | Sienese School architecture
+- Insular art — Hiberno-Saxon art | Insular art movement | Insular art style | Insular art architecture | Hiberno-Saxon art movement | Hiberno-Saxon art style | Hiberno-Saxon art architecture
+- Carolingian art — Carolingian | Carolingian art movement | Carolingian art style | Carolingian art architecture | Carolingian movement | Carolingian style | Carolingian architecture
+- Celtic art — Celtic art movement | Celtic art style | Celtic art architecture
+- Hellenistic art — Hellenistic | Hellenistic art movement | Hellenistic art style | Hellenistic art architecture | Hellenistic movement | Hellenistic style | Hellenistic architecture
+- Greek Revival — Greek Revival architecture | Greek Revival movement | Greek Revival style | Greek Revival art | Greek Revival architecture movement | Greek Revival architecture style | Greek Revival architecture art
+- Georgian — Georgian architecture | Georgian style | Georgian movement | Georgian art | Georgian architecture movement | Georgian architecture style | Georgian architecture art | Georgian style movement | Georgian style art | Georgian style architecture
+- Regency — Regency architecture | Regency style | Regency movement | Regency art | Regency architecture movement | Regency architecture style | Regency architecture art | Regency style movement | Regency style art | Regency style architecture
+- Victorian — Victorian architecture | Victorian style | Victorian movement | Victorian art | Victorian architecture movement | Victorian architecture style | Victorian architecture art | Victorian style movement | Victorian style art | Victorian style architecture
+- Tudor — Tudor architecture | Tudor style | Tudor movement | Tudor art | Tudor architecture movement | Tudor architecture style | Tudor architecture art | Tudor style movement | Tudor style art | Tudor style architecture
+- Biedermeier — Biedermeier movement | Biedermeier style | Biedermeier art | Biedermeier architecture
+- Barbizon School — Barbizon | Barbizon painters | Barbizon School movement | Barbizon School style | Barbizon School art | Barbizon School architecture | Barbizon movement | Barbizon style | Barbizon art | Barbizon architecture | Barbizon painters movement | Barbizon painters style | Barbizon painters art | Barbizon painters architecture
+- Les Nabis — Nabis | Les Nabis movement | Les Nabis style | Les Nabis art | Les Nabis architecture | Nabis movement | Nabis style | Nabis art | Nabis architecture
+- Divisionism — Divisionism movement | Divisionism style | Divisionism art | Divisionism architecture
+- Orphism — Orphic Cubism | Simultanism | Orphism movement | Orphism style | Orphism art | Orphism architecture | Orphic Cubism movement | Orphic Cubism style | Orphic Cubism art | Orphic Cubism architecture | Simultanism movement | Simultanism style | Simultanism art | Simultanism architecture
+- Metaphysical painting — Pittura metafisica | Metaphysical painting movement | Metaphysical painting style | Metaphysical painting art | Metaphysical painting architecture | Pittura metafisica movement | Pittura metafisica style | Pittura metafisica art | Pittura metafisica architecture
+- Neue Sachlichkeit — New Objectivity | Neue Sachlichkeit movement | Neue Sachlichkeit style | Neue Sachlichkeit art | Neue Sachlichkeit architecture | New Objectivity movement | New Objectivity style | New Objectivity art | New Objectivity architecture
+- Magic realism — Magical realism | Magic realism movement | Magic realism style | Magic realism art | Magic realism architecture | Magical realism movement | Magical realism style | Magical realism art | Magical realism architecture
+- Neo-Romanticism — Neo-Romantic | Neo-Romanticism movement | Neo-Romanticism style | Neo-Romanticism art | Neo-Romanticism architecture | Neo-Romantic movement | Neo-Romantic style | Neo-Romantic art | Neo-Romantic architecture
+- Precisionism — Precisionist | Precisionism movement | Precisionism style | Precisionism art | Precisionism architecture | Precisionist movement | Precisionist style | Precisionist art | Precisionist architecture
+- Regionalism — American Regionalism | Regionalism movement | Regionalism style | Regionalism art | Regionalism architecture | American Regionalism movement | American Regionalism style | American Regionalism art | American Regionalism architecture
+- Ashcan School — Ashcan | Ashcan School movement | Ashcan School style | Ashcan School art | Ashcan School architecture | Ashcan movement | Ashcan style | Ashcan art | Ashcan architecture
+- Group of Seven — Group of Seven movement | Group of Seven style | Group of Seven art | Group of Seven architecture
+- Heidelberg School — Australian Impressionism | Heidelberg School movement | Heidelberg School style | Heidelberg School art | Heidelberg School architecture | Australian Impressionism movement | Australian Impressionism style | Australian Impressionism art | Australian Impressionism architecture
+- Camden Town Group — Camden Town Group movement | Camden Town Group style | Camden Town Group art | Camden Town Group architecture
+- St Ives School — St Ives School movement | St Ives School style | St Ives School art | St Ives School architecture
+- Kitchen Sink School — Kitchen Sink realism | Kitchen Sink School movement | Kitchen Sink School style | Kitchen Sink School art | Kitchen Sink School architecture | Kitchen Sink realism movement | Kitchen Sink realism style | Kitchen Sink realism art | Kitchen Sink realism architecture
+- Scottish Colourists — Colourists | Scottish Colourists movement | Scottish Colourists style | Scottish Colourists art | Scottish Colourists architecture | Colourists movement | Colourists style | Colourists art | Colourists architecture
+- Glasgow School — Glasgow Style | Glasgow School movement | Glasgow School style | Glasgow School art | Glasgow School architecture | Glasgow Style movement | Glasgow Style art | Glasgow Style architecture
+- School of Paris — École de Paris | School of Paris movement | School of Paris style | School of Paris art | School of Paris architecture | École de Paris movement | École de Paris style | École de Paris art | École de Paris architecture
+- Wiener Werkstätte — Wiener Werkstätte movement | Wiener Werkstätte style | Wiener Werkstätte art | Wiener Werkstätte architecture
+- Decadent movement — Decadence | Decadent movement style | Decadent movement art | Decadent movement architecture | Decadence movement | Decadence style | Decadence art | Decadence architecture
+- Orientalism — Orientalism movement | Orientalism style | Orientalism art | Orientalism architecture
+- Academic art — Academicism | Academism | Art pompier | Academic art movement | Academic art style | Academic art architecture | Academicism movement | Academicism style | Academicism art | Academicism architecture | Academism movement | Academism style | Academism art | Academism architecture | Art pompier movement | Art pompier style | Art pompier art | Art pompier architecture
+- Luminism — Luminism movement | Luminism style | Luminism art | Luminism architecture
+- Tonalism — Tonalism movement | Tonalism style | Tonalism art | Tonalism architecture
+- Hard-edge painting — Hard-edge | Hard-edge painting movement | Hard-edge painting style | Hard-edge painting art | Hard-edge painting architecture | Hard-edge movement | Hard-edge style | Hard-edge art | Hard-edge architecture
+- Lyrical Abstraction — Lyrical Abstraction movement | Lyrical Abstraction style | Lyrical Abstraction art | Lyrical Abstraction architecture
+- Post-painterly abstraction — Post-painterly abstraction movement | Post-painterly abstraction style | Post-painterly abstraction art | Post-painterly abstraction architecture
+- Tachisme — Tachism | Tachisme movement | Tachisme style | Tachisme art | Tachisme architecture | Tachism movement | Tachism style | Tachism art | Tachism architecture
+- Art Informel — Informalism | Art Informel movement | Art Informel style | Art Informel art | Art Informel architecture | Informalism movement | Informalism style | Informalism art | Informalism architecture
+- CoBrA — CoBrA movement | CoBrA style | CoBrA art | CoBrA architecture
+- New York School — New York School movement | New York School style | New York School art | New York School architecture
+- Nouveau réalisme — New Realism | Nouveau réalisme movement | Nouveau réalisme style | Nouveau réalisme art | Nouveau réalisme architecture | New Realism movement | New Realism style | New Realism art | New Realism architecture
+- Situationist International — Situationism | Situationists | Situationist International movement | Situationist International style | Situationist International art | Situationist International architecture | Situationism movement | Situationism style | Situationism art | Situationism architecture | Situationists movement | Situationists style | Situationists art | Situationists architecture
+- Happenings — Happening | Happenings movement | Happenings style | Happenings art | Happenings architecture | Happening movement | Happening style | Happening art | Happening architecture
+- Post-minimalism — Post-minimalism movement | Post-minimalism style | Post-minimalism art | Post-minimalism architecture
+- Body art — Body art movement | Body art style | Body art architecture
+- Video art — Video art movement | Video art style | Video art architecture
+- Arte Povera — Arte Povera movement | Arte Povera style | Arte Povera art | Arte Povera architecture
+- Appropriation art — Appropriation art movement | Appropriation art style | Appropriation art architecture
+- Lowbrow — Pop Surrealism | Lowbrow art | Lowbrow movement | Lowbrow style | Lowbrow architecture | Pop Surrealism movement | Pop Surrealism style | Pop Surrealism art | Pop Surrealism architecture | Lowbrow art movement | Lowbrow art style | Lowbrow art architecture
+- Stuckism — Stuckists | Stuckism movement | Stuckism style | Stuckism art | Stuckism architecture | Stuckists movement | Stuckists style | Stuckists art | Stuckists architecture
+- Superflat — Superflat movement | Superflat style | Superflat art | Superflat architecture
+- Gutai — Gutai movement | Gutai style | Gutai art | Gutai architecture
+- Nihonga — Nihonga movement | Nihonga style | Nihonga art | Nihonga architecture
+- Bengal School — Bengal School movement | Bengal School style | Bengal School art | Bengal School architecture
+- Mughal painting — Mughal | Mughal art | Mogul painting | Moghul painting | Mughal painting movement | Mughal painting style | Mughal painting art | Mughal painting architecture | Mughal movement | Mughal style | Mughal architecture | Mughal art movement | Mughal art style | Mughal art architecture | Mogul painting movement | Mogul painting style | Mogul painting art | Mogul painting architecture | Moghul painting movement | Moghul painting style | Moghul painting art | Moghul painting architecture
+- Dot painting — Aboriginal dot painting | Dot painting movement | Dot painting style | Dot painting art | Dot painting architecture | Aboriginal dot painting movement | Aboriginal dot painting style | Aboriginal dot painting art | Aboriginal dot painting architecture
+- Afrofuturism — Afrofuturism movement | Afrofuturism style | Afrofuturism art | Afrofuturism architecture
+- Digital art — Digital art movement | Digital art style | Digital art architecture
+- Generative art — Algorithmic art | Generative art movement | Generative art style | Generative art architecture | Algorithmic art movement | Algorithmic art style | Algorithmic art architecture
+- Streamline Moderne — Streamline | Art Moderne | Streamline Moderne movement | Streamline Moderne style | Streamline Moderne art | Streamline Moderne architecture | Streamline movement | Streamline style | Streamline art | Streamline architecture | Art Moderne movement | Art Moderne style | Art Moderne art | Art Moderne architecture
+- Deconstructivism — Deconstructivist architecture | Deconstructivism movement | Deconstructivism style | Deconstructivism art | Deconstructivism architecture | Deconstructivist architecture movement | Deconstructivist architecture style | Deconstructivist architecture art
+- High-tech architecture — High-tech | High-tech architecture movement | High-tech architecture style | High-tech architecture art | High-tech movement | High-tech style | High-tech art
+- Prairie School — Prairie style | Prairie School movement | Prairie School style | Prairie School art | Prairie School architecture | Prairie style movement | Prairie style art | Prairie style architecture
+- Chicago School — Chicago School movement | Chicago School style | Chicago School art | Chicago School architecture
+- Memphis Group — Memphis | Memphis Group movement | Memphis Group style | Memphis Group art | Memphis Group architecture | Memphis movement | Memphis style | Memphis art | Memphis architecture
+- Primitivism — Primitivism movement | Primitivism style | Primitivism art | Primitivism architecture
+- Visionary art — Visionary art movement | Visionary art style | Visionary art architecture
+- Installation art — Installation | Installation art movement | Installation art style | Installation art architecture | Installation movement | Installation style | Installation architecture
+- Assemblage — Assemblage movement | Assemblage style | Assemblage art | Assemblage architecture
+- Maximalism — Maximalism movement | Maximalism style | Maximalism art | Maximalism architecture
+- Black Arts Movement — Black Arts Movement style | Black Arts Movement art | Black Arts Movement architecture
+- Japonisme — Japonism | Japonisme movement | Japonisme style | Japonisme art | Japonisme architecture | Japonism movement | Japonism style | Japonism art | Japonism architecture
+- Chinoiserie — Chinoiserie movement | Chinoiserie style | Chinoiserie art | Chinoiserie architecture
+- Picturesque — Picturesque movement | Picturesque style | Picturesque art | Picturesque architecture
+- Empire style — Empire | Empire style movement | Empire style art | Empire style architecture | Empire movement | Empire art | Empire architecture
+- Plein air — En plein air | Plein-air painting | Plein air movement | Plein air style | Plein air art | Plein air architecture | En plein air movement | En plein air style | En plein air art | En plein air architecture | Plein-air painting movement | Plein-air painting style | Plein-air painting art | Plein-air painting architecture
+- Figurative art — Figuration | Figurative | Figurative art movement | Figurative art style | Figurative art architecture | Figuration movement | Figuration style | Figuration art | Figuration architecture | Figurative movement | Figurative style | Figurative architecture
+- Concrete art — Concretism | Concretismo | Concrete art movement | Concrete art style | Concrete art architecture | Concretism movement | Concretism style | Concretism art | Concretism architecture | Concretismo movement | Concretismo style | Concretismo art | Concretismo architecture
+- Geometric abstraction — Geometric abstraction movement | Geometric abstraction style | Geometric abstraction art | Geometric abstraction architecture
+- Scandinavian design — Scandinavian modern | Danish modern | Scandi | Scandinavian design movement | Scandinavian design style | Scandinavian design art | Scandinavian design architecture | Scandinavian modern movement | Scandinavian modern style | Scandinavian modern art | Scandinavian modern architecture | Danish modern movement | Danish modern style | Danish modern art | Danish modern architecture | Scandi movement | Scandi style | Scandi art | Scandi architecture
+- Functionalism — Functionalist architecture | Funkis | Functionalism movement | Functionalism style | Functionalism art | Functionalism architecture | Functionalist architecture movement | Functionalist architecture style | Functionalist architecture art | Funkis movement | Funkis style | Funkis art | Funkis architecture
+- Italianate — Italianate architecture | Italianate style | Italianate movement | Italianate art | Italianate architecture movement | Italianate architecture style | Italianate architecture art | Italianate style movement | Italianate style art | Italianate style architecture
+- Russian avant-garde — Russian avant-garde movement | Russian avant-garde style | Russian avant-garde art | Russian avant-garde architecture
+
+### Tier 5: expert (265)
+
+- Severe style — Severe style movement | Severe style art | Severe style architecture
+- Geometric style — Geometric art | Geometric style movement | Geometric style art | Geometric style architecture | Geometric art movement | Geometric art style | Geometric art architecture
+- Archaic Greek art — Archaic | Archaic style | Archaic Greek art movement | Archaic Greek art style | Archaic Greek art architecture | Archaic movement | Archaic art | Archaic architecture | Archaic style movement | Archaic style art | Archaic style architecture
+- Black-figure — Black-figure pottery | Black-figure style | Black-figure movement | Black-figure art | Black-figure architecture | Black-figure pottery movement | Black-figure pottery style | Black-figure pottery art | Black-figure pottery architecture | Black-figure style movement | Black-figure style art | Black-figure style architecture
+- Red-figure — Red-figure pottery | Red-figure style | Red-figure movement | Red-figure art | Red-figure architecture | Red-figure pottery movement | Red-figure pottery style | Red-figure pottery art | Red-figure pottery architecture | Red-figure style movement | Red-figure style art | Red-figure style architecture
+- Gandhara — Gandhara art | Greco-Buddhist art | Gandhara movement | Gandhara style | Gandhara architecture | Gandhara art movement | Gandhara art style | Gandhara art architecture | Greco-Buddhist art movement | Greco-Buddhist art style | Greco-Buddhist art architecture
+- Mathura school — Mathura art | Mathura school movement | Mathura school style | Mathura school art | Mathura school architecture | Mathura art movement | Mathura art style | Mathura art architecture
+- Early Christian art — Early Christian art movement | Early Christian art style | Early Christian art architecture
+- Pre-Romanesque — Pre-Romanesque movement | Pre-Romanesque style | Pre-Romanesque art | Pre-Romanesque architecture
+- Ottonian art — Ottonian | Ottonian art movement | Ottonian art style | Ottonian art architecture | Ottonian movement | Ottonian style | Ottonian architecture
+- Anglo-Saxon art — Anglo-Saxon art movement | Anglo-Saxon art style | Anglo-Saxon art architecture
+- Viking art — Norse art | Viking art movement | Viking art style | Viking art architecture | Norse art movement | Norse art style | Norse art architecture
+- Urnes style — Urnes style movement | Urnes style art | Urnes style architecture
+- La Tène — La Tène style | La Tène movement | La Tène art | La Tène architecture | La Tène style movement | La Tène style art | La Tène style architecture
+- Perpendicular Gothic — Perpendicular | Perpendicular Gothic movement | Perpendicular Gothic style | Perpendicular Gothic art | Perpendicular Gothic architecture | Perpendicular movement | Perpendicular style | Perpendicular art | Perpendicular architecture
+- Decorated Gothic — Decorated Gothic movement | Decorated Gothic style | Decorated Gothic art | Decorated Gothic architecture
+- Early English Gothic — Early English | Early English Gothic movement | Early English Gothic style | Early English Gothic art | Early English Gothic architecture | Early English movement | Early English style | Early English art | Early English architecture
+- Rayonnant — Rayonnant movement | Rayonnant style | Rayonnant art | Rayonnant architecture
+- Flamboyant Gothic — Flamboyant | Flamboyant Gothic movement | Flamboyant Gothic style | Flamboyant Gothic art | Flamboyant Gothic architecture | Flamboyant movement | Flamboyant style | Flamboyant art | Flamboyant architecture
+- Proto-Renaissance — Trecento | Proto-Renaissance movement | Proto-Renaissance style | Proto-Renaissance art | Proto-Renaissance architecture | Trecento movement | Trecento style | Trecento art | Trecento architecture
+- Bolognese School — Bolognese School movement | Bolognese School style | Bolognese School art | Bolognese School architecture
+- School of Fontainebleau — Fontainebleau School | School of Fontainebleau movement | School of Fontainebleau style | School of Fontainebleau art | School of Fontainebleau architecture | Fontainebleau School movement | Fontainebleau School style | Fontainebleau School art | Fontainebleau School architecture
+- Danube School — Danube School movement | Danube School style | Danube School art | Danube School architecture
+- Delft School — Delft School movement | Delft School style | Delft School art | Delft School architecture
+- Norwich School — Norwich School movement | Norwich School style | Norwich School art | Norwich School architecture
+- Bristol School — Bristol School movement | Bristol School style | Bristol School art | Bristol School architecture
+- Düsseldorf School — Düsseldorf School movement | Düsseldorf School style | Düsseldorf School art | Düsseldorf School architecture
+- Hague School — Hague School movement | Hague School style | Hague School art | Hague School architecture
+- Amsterdam School — Amsterdam School movement | Amsterdam School style | Amsterdam School art | Amsterdam School architecture
+- Skagen Painters — Skagen Painters movement | Skagen Painters style | Skagen Painters art | Skagen Painters architecture
+- National Romanticism — National Romanticism movement | National Romanticism style | National Romanticism art | National Romanticism architecture
+- Nazarene movement — Nazarenes | Nazarene movement style | Nazarene movement art | Nazarene movement architecture | Nazarenes movement | Nazarenes style | Nazarenes art | Nazarenes architecture
+- Macchiaioli — Macchiaioli movement | Macchiaioli style | Macchiaioli art | Macchiaioli architecture
+- Scapigliatura — Scapigliatura movement | Scapigliatura style | Scapigliatura art | Scapigliatura architecture
+- Peredvizhniki — The Wanderers | The Itinerants | Peredvizhniki movement | Peredvizhniki style | Peredvizhniki art | Peredvizhniki architecture | The Wanderers movement | The Wanderers style | The Wanderers art | The Wanderers architecture | The Itinerants movement | The Itinerants style | The Itinerants art | The Itinerants architecture
+- Mir iskusstva — World of Art | Mir iskusstva movement | Mir iskusstva style | Mir iskusstva art | Mir iskusstva architecture | World of Art movement | World of Art style | World of Art architecture
+- Pont-Aven School — Pont-Aven School movement | Pont-Aven School style | Pont-Aven School art | Pont-Aven School architecture
+- Cloisonnism — Cloisonnism movement | Cloisonnism style | Cloisonnism art | Cloisonnism architecture
+- Synthetism — Synthetism movement | Synthetism style | Synthetism art | Synthetism architecture
+- Intimism — Intimism movement | Intimism style | Intimism art | Intimism architecture
+- Troubadour style — Troubadour style movement | Troubadour style art | Troubadour style architecture
+- Newlyn School — Newlyn School movement | Newlyn School style | Newlyn School art | Newlyn School architecture
+- Glasgow Boys — Glasgow Boys movement | Glasgow Boys style | Glasgow Boys art | Glasgow Boys architecture
+- Celtic Revival — Celtic Revival movement | Celtic Revival style | Celtic Revival art | Celtic Revival architecture
+- Euston Road School — Euston Road School movement | Euston Road School style | Euston Road School art | Euston Road School architecture
+- Omega Workshops — Omega Workshops movement | Omega Workshops style | Omega Workshops art | Omega Workshops architecture
+- Unit One — Unit One movement | Unit One style | Unit One art | Unit One architecture
+- Independent Group — Independent Group movement | Independent Group style | Independent Group art | Independent Group architecture
+- School of London — London School | School of London movement | School of London style | School of London art | School of London architecture | London School movement | London School style | London School art | London School architecture
+- Berlin Secession — Berlin Secession movement | Berlin Secession style | Berlin Secession art | Berlin Secession architecture
+- Munich Secession — Munich Secession movement | Munich Secession style | Munich Secession art | Munich Secession architecture
+- American Impressionism — American Impressionism movement | American Impressionism style | American Impressionism art | American Impressionism architecture
+- American Scene painting — American Scene | American Scene painting movement | American Scene painting style | American Scene painting art | American Scene painting architecture | American Scene movement | American Scene style | American Scene art | American Scene architecture
+- Rayonism — Rayonnism | Rayonism movement | Rayonism style | Rayonism art | Rayonism architecture | Rayonnism movement | Rayonnism style | Rayonnism art | Rayonnism architecture
+- Cubo-Futurism — Cubo-Futurism movement | Cubo-Futurism style | Cubo-Futurism art | Cubo-Futurism architecture
+- Neo-primitivism — Neo-primitivism movement | Neo-primitivism style | Neo-primitivism art | Neo-primitivism architecture
+- Synchromism — Synchromism movement | Synchromism style | Synchromism art | Synchromism architecture
+- Section d'Or — Puteaux Group | Section d'Or movement | Section d'Or style | Section d'Or art | Section d'Or architecture | Puteaux Group movement | Puteaux Group style | Puteaux Group art | Puteaux Group architecture
+- Purism — Purism movement | Purism style | Purism art | Purism architecture
+- Productivism — Productivism movement | Productivism style | Productivism art | Productivism architecture
+- Elementarism — Elementarism movement | Elementarism style | Elementarism art | Elementarism architecture
+- Novecento Italiano — Novecento | Novecento Italiano movement | Novecento Italiano style | Novecento Italiano art | Novecento Italiano architecture | Novecento movement | Novecento style | Novecento art | Novecento architecture
+- Deutscher Werkbund — Werkbund | Deutscher Werkbund movement | Deutscher Werkbund style | Deutscher Werkbund art | Deutscher Werkbund architecture | Werkbund movement | Werkbund style | Werkbund art | Werkbund architecture
+- Neue Wilde — Junge Wilde | Neue Wilde movement | Neue Wilde style | Neue Wilde art | Neue Wilde architecture | Junge Wilde movement | Junge Wilde style | Junge Wilde art | Junge Wilde architecture
+- Bay Area Figurative Movement — Bay Area Figurative | Bay Area Figurative Movement style | Bay Area Figurative Movement art | Bay Area Figurative Movement architecture | Bay Area Figurative style | Bay Area Figurative art | Bay Area Figurative architecture
+- Chicago Imagists — Hairy Who | Chicago Imagists movement | Chicago Imagists style | Chicago Imagists art | Chicago Imagists architecture | Hairy Who movement | Hairy Who style | Hairy Who art | Hairy Who architecture
+- Washington Color School — Washington Colour School | Washington Color School movement | Washington Color School style | Washington Color School art | Washington Color School architecture | Washington Colour School movement | Washington Colour School style | Washington Colour School art | Washington Colour School architecture
+- Light and Space — Light and Space movement | Light and Space style | Light and Space art | Light and Space architecture
+- Funk art — Funk art movement | Funk art style | Funk art architecture
+- Junk art — Junk art movement | Junk art style | Junk art architecture
+- Pattern and Decoration — Pattern and Decoration movement | Pattern and Decoration style | Pattern and Decoration art | Pattern and Decoration architecture
+- AfriCOBRA — AfriCOBRA movement | AfriCOBRA style | AfriCOBRA art | AfriCOBRA architecture
+- Chicano art movement — Chicano art | Chicano art movement style | Chicano art movement art | Chicano art movement architecture | Chicano art style | Chicano art architecture
+- Viennese Actionism — Viennese Actionism movement | Viennese Actionism style | Viennese Actionism art | Viennese Actionism architecture
+- Lettrism — Lettrism movement | Lettrism style | Lettrism art | Lettrism architecture
+- Spatialism — Spatialism movement | Spatialism style | Spatialism art | Spatialism architecture
+- Nuclear art — Arte Nucleare | Nuclear art movement | Nuclear art style | Nuclear art architecture | Arte Nucleare movement | Arte Nucleare style | Arte Nucleare art | Arte Nucleare architecture
+- ZERO group — Zero | Group Zero | ZERO group movement | ZERO group style | ZERO group art | ZERO group architecture | Zero movement | Zero style | Zero art | Zero architecture | Group Zero movement | Group Zero style | Group Zero art | Group Zero architecture
+- Figuration Libre — Figuration Libre movement | Figuration Libre style | Figuration Libre art | Figuration Libre architecture
+- Supports/Surfaces — Supports/Surfaces movement | Supports/Surfaces style | Supports/Surfaces art | Supports/Surfaces architecture
+- Dau al Set — Dau al Set movement | Dau al Set style | Dau al Set art | Dau al Set architecture
+- Mono-ha — Mono-ha movement | Mono-ha style | Mono-ha art | Mono-ha architecture
+- Rinpa — Rimpa | Rinpa movement | Rinpa style | Rinpa art | Rinpa architecture | Rimpa movement | Rimpa style | Rimpa art | Rimpa architecture
+- Kanō school — Kanō school movement | Kanō school style | Kanō school art | Kanō school architecture
+- Yamato-e — Yamato-e movement | Yamato-e style | Yamato-e art | Yamato-e architecture
+- Shin-hanga — Shin-hanga movement | Shin-hanga style | Shin-hanga art | Shin-hanga architecture
+- Sōsaku-hanga — Sōsaku-hanga movement | Sōsaku-hanga style | Sōsaku-hanga art | Sōsaku-hanga architecture
+- Mingei — Mingei movement | Mingei style | Mingei art | Mingei architecture
+- Dansaekhwa — Tansaekhwa | Dansaekhwa movement | Dansaekhwa style | Dansaekhwa art | Dansaekhwa architecture | Tansaekhwa movement | Tansaekhwa style | Tansaekhwa art | Tansaekhwa architecture
+- Literati painting — Wenrenhua | Literati painting movement | Literati painting style | Literati painting art | Literati painting architecture | Wenrenhua movement | Wenrenhua style | Wenrenhua art | Wenrenhua architecture
+- Shanghai School — Shanghai School movement | Shanghai School style | Shanghai School art | Shanghai School architecture
+- Lingnan School — Lingnan School movement | Lingnan School style | Lingnan School art | Lingnan School architecture
+- Political Pop — Political Pop movement | Political Pop style | Political Pop art | Political Pop architecture
+- Cynical Realism — Cynical Realism movement | Cynical Realism style | Cynical Realism art | Cynical Realism architecture
+- Progressive Artists' Group — Progressive Artists' Group movement | Progressive Artists' Group style | Progressive Artists' Group art | Progressive Artists' Group architecture
+- Rajput painting — Rajput painting movement | Rajput painting style | Rajput painting art | Rajput painting architecture
+- Pahari painting — Kangra painting | Basohli painting | Pahari painting movement | Pahari painting style | Pahari painting art | Pahari painting architecture | Kangra painting movement | Kangra painting style | Kangra painting art | Kangra painting architecture | Basohli painting movement | Basohli painting style | Basohli painting art | Basohli painting architecture
+- Kalighat painting — Kalighat painting movement | Kalighat painting style | Kalighat painting art | Kalighat painting architecture
+- Tanjore painting — Thanjavur painting | Tanjore painting movement | Tanjore painting style | Tanjore painting art | Tanjore painting architecture | Thanjavur painting movement | Thanjavur painting style | Thanjavur painting art | Thanjavur painting architecture
+- Company painting — Company style | Company painting movement | Company painting style | Company painting art | Company painting architecture | Company style movement | Company style art | Company style architecture
+- Madhubani — Mithila painting | Madhubani movement | Madhubani style | Madhubani art | Madhubani architecture | Mithila painting movement | Mithila painting style | Mithila painting art | Mithila painting architecture
+- Warli painting — Warli | Warli painting movement | Warli painting style | Warli painting art | Warli painting architecture | Warli movement | Warli style | Warli art | Warli architecture
+- Persian miniature — Persian painting | Persian miniature movement | Persian miniature style | Persian miniature art | Persian miniature architecture | Persian painting movement | Persian painting style | Persian painting art | Persian painting architecture
+- Qajar art — Qajar art movement | Qajar art style | Qajar art architecture
+- Hurufiyya — Hurufiyya movement | Hurufiyya style | Hurufiyya art | Hurufiyya architecture
+- Arabesque — Arabesque movement | Arabesque style | Arabesque art | Arabesque architecture
+- Indo-Saracenic — Indo-Saracenic movement | Indo-Saracenic style | Indo-Saracenic art | Indo-Saracenic architecture
+- Dravidian architecture — Dravidian architecture movement | Dravidian architecture style | Dravidian architecture art
+- Moorish — Moorish architecture | Moorish style | Moorish movement | Moorish art | Moorish architecture movement | Moorish architecture style | Moorish architecture art | Moorish style movement | Moorish style art | Moorish style architecture
+- Papunya Tula — Western Desert art movement | Papunya Tula movement | Papunya Tula style | Papunya Tula art | Papunya Tula architecture | Western Desert art movement style | Western Desert art movement art | Western Desert art movement architecture
+- Antipodeans — Antipodeans movement | Antipodeans style | Antipodeans art | Antipodeans architecture
+- Angry Penguins — Angry Penguins movement | Angry Penguins style | Angry Penguins art | Angry Penguins architecture
+- Tingatinga — Tingatinga movement | Tingatinga style | Tingatinga art | Tingatinga architecture
+- Estridentismo — Stridentism | Estridentismo movement | Estridentismo style | Estridentismo art | Estridentismo architecture | Stridentism movement | Stridentism style | Stridentism art | Stridentism architecture
+- Neo-Concretism — Neo-Concrete | Neo-Concretism movement | Neo-Concretism style | Neo-Concretism art | Neo-Concretism architecture | Neo-Concrete movement | Neo-Concrete style | Neo-Concrete art | Neo-Concrete architecture
+- Tropicália — Tropicália movement | Tropicália style | Tropicália art | Tropicália architecture
+- Les Automatistes — Automatistes | Les Automatistes movement | Les Automatistes style | Les Automatistes art | Les Automatistes architecture | Automatistes movement | Automatistes style | Automatistes art | Automatistes architecture
+- Painters Eleven — Painters Eleven movement | Painters Eleven style | Painters Eleven art | Painters Eleven architecture
+- Woodland School — Woodland School movement | Woodland School style | Woodland School art | Woodland School architecture
+- Northwest School — Northwest School movement | Northwest School style | Northwest School art | Northwest School architecture
+- Vancouver School — Vancouver School movement | Vancouver School style | Vancouver School art | Vancouver School architecture
+- Capitalist Realism — Capitalist Realism movement | Capitalist Realism style | Capitalist Realism art | Capitalist Realism architecture
+- Sots Art — Sots Art movement | Sots Art style | Sots Art architecture
+- Moscow Conceptualism — Moscow Conceptualism movement | Moscow Conceptualism style | Moscow Conceptualism art | Moscow Conceptualism architecture
+- Neo-Geo — Neo-Geo movement | Neo-Geo style | Neo-Geo art | Neo-Geo architecture
+- Pictures Generation — Pictures Generation movement | Pictures Generation style | Pictures Generation art | Pictures Generation architecture
+- Transavantgarde — Transavanguardia | Transavantgarde movement | Transavantgarde style | Transavantgarde art | Transavantgarde architecture | Transavanguardia movement | Transavanguardia style | Transavanguardia art | Transavanguardia architecture
+- Relational art — Relational aesthetics | Relational art movement | Relational art style | Relational art architecture | Relational aesthetics movement | Relational aesthetics style | Relational aesthetics art | Relational aesthetics architecture
+- Post-Internet art — Post-Internet | Post-Internet art movement | Post-Internet art style | Post-Internet art architecture | Post-Internet movement | Post-Internet style | Post-Internet architecture
+- Net art — Net art movement | Net art style | Net art architecture
+- Glitch art — Glitch art movement | Glitch art style | Glitch art architecture
+- Crypto art — NFT art | Crypto art movement | Crypto art style | Crypto art architecture | NFT art movement | NFT art style | NFT art architecture
+- Vaporwave — Vaporwave movement | Vaporwave style | Vaporwave art | Vaporwave architecture
+- Cyberpunk — Cyberpunk movement | Cyberpunk style | Cyberpunk art | Cyberpunk architecture
+- Steampunk — Steampunk movement | Steampunk style | Steampunk art | Steampunk architecture
+- Neo-Pop — Neo-Pop movement | Neo-Pop style | Neo-Pop art | Neo-Pop architecture
+- Remodernism — Remodernism movement | Remodernism style | Remodernism art | Remodernism architecture
+- Metamodernism — Metamodernism movement | Metamodernism style | Metamodernism art | Metamodernism architecture
+- Altermodern — Altermodern movement | Altermodern style | Altermodern art | Altermodern architecture
+- Zombie Formalism — Zombie Formalism movement | Zombie Formalism style | Zombie Formalism art | Zombie Formalism architecture
+- Classical Realism — Classical Realism movement | Classical Realism style | Classical Realism art | Classical Realism architecture
+- Institutional critique — Institutional critique movement | Institutional critique style | Institutional critique art | Institutional critique architecture
+- Auto-destructive art — Auto-destructive art movement | Auto-destructive art style | Auto-destructive art architecture
+- Environmental art — Ecological art | Eco-art | Environmental art movement | Environmental art style | Environmental art architecture | Ecological art movement | Ecological art style | Ecological art architecture | Eco-art movement | Eco-art style | Eco-art architecture
+- Mail art — Mail art movement | Mail art style | Mail art architecture
+- Sound art — Sound art movement | Sound art style | Sound art architecture
+- Bio art — Bio art movement | Bio art style | Bio art architecture
+- Process art — Process art movement | Process art style | Process art architecture
+- Pixel art — Pixel art movement | Pixel art style | Pixel art architecture
+- Punk art — Punk | Punk visual art | Punk art movement | Punk art style | Punk art architecture | Punk movement | Punk style | Punk architecture | Punk visual art movement | Punk visual art style | Punk visual art architecture
+- Underground comix — Underground comix movement | Underground comix style | Underground comix art | Underground comix architecture
+- Kitsch — Kitsch movement | Kitsch style | Kitsch art | Kitsch architecture | Kitsch movement style | Kitsch movement art | Kitsch movement architecture
+- Vanitas — Vanitas movement | Vanitas style | Vanitas art | Vanitas architecture
+- Pictorialism — Pictorialism movement | Pictorialism style | Pictorialism art | Pictorialism architecture
+- Group f/64 — f/64 | Group f/64 movement | Group f/64 style | Group f/64 art | Group f/64 architecture | f/64 movement | f/64 style | f/64 art | f/64 architecture
+- Straight photography — Straight photography movement | Straight photography style | Straight photography art | Straight photography architecture
+- New Topographics — New Topographics movement | New Topographics style | New Topographics art | New Topographics architecture
+- Photo-Secession — Photo-Secession movement | Photo-Secession style | Photo-Secession art | Photo-Secession architecture
+- Metabolism — Metabolism movement | Metabolism style | Metabolism art | Metabolism architecture
+- Organic architecture — Organic architecture movement | Organic architecture style | Organic architecture art
+- Neo-futurism — Neo-futurism movement | Neo-futurism style | Neo-futurism art | Neo-futurism architecture
+- Parametricism — Parametricism movement | Parametricism style | Parametricism art | Parametricism architecture
+- Blobitecture — Blobitecture movement | Blobitecture style | Blobitecture art | Blobitecture architecture
+- Googie — Googie movement | Googie style | Googie art | Googie architecture
+- Shingle Style — Shingle Style movement | Shingle Style art | Shingle Style architecture
+- Queen Anne style — Queen Anne | Queen Anne style movement | Queen Anne style art | Queen Anne style architecture | Queen Anne movement | Queen Anne art | Queen Anne architecture
+- Scottish Baronial — Baronial | Scottish Baronial movement | Scottish Baronial style | Scottish Baronial art | Scottish Baronial architecture | Baronial movement | Baronial style | Baronial art | Baronial architecture
+- Tudor Revival — Mock Tudor | Tudorbethan | Neo-Tudor | Tudor Revival movement | Tudor Revival style | Tudor Revival art | Tudor Revival architecture | Mock Tudor movement | Mock Tudor style | Mock Tudor art | Mock Tudor architecture | Tudorbethan movement | Tudorbethan style | Tudorbethan art | Tudorbethan architecture | Neo-Tudor movement | Neo-Tudor style | Neo-Tudor art | Neo-Tudor architecture
+- Egyptian Revival — Egyptian Revival movement | Egyptian Revival style | Egyptian Revival art | Egyptian Revival architecture
+- Romanesque Revival — Richardsonian Romanesque | Neo-Romanesque | Romanesque Revival movement | Romanesque Revival style | Romanesque Revival art | Romanesque Revival architecture | Richardsonian Romanesque movement | Richardsonian Romanesque style | Richardsonian Romanesque art | Richardsonian Romanesque architecture | Neo-Romanesque movement | Neo-Romanesque style | Neo-Romanesque art | Neo-Romanesque architecture
+- Neo-Renaissance — Renaissance Revival | Neo-Renaissance movement | Neo-Renaissance style | Neo-Renaissance art | Neo-Renaissance architecture | Renaissance Revival movement | Renaissance Revival style | Renaissance Revival art | Renaissance Revival architecture
+- Neo-Baroque — Baroque Revival | Neo-Baroque movement | Neo-Baroque style | Neo-Baroque art | Neo-Baroque architecture | Baroque Revival movement | Baroque Revival style | Baroque Revival art | Baroque Revival architecture
+- Neo-Byzantine — Byzantine Revival | Neo-Byzantine movement | Neo-Byzantine style | Neo-Byzantine art | Neo-Byzantine architecture | Byzantine Revival movement | Byzantine Revival style | Byzantine Revival art | Byzantine Revival architecture
+- Adam style — Adamesque | Adam style movement | Adam style art | Adam style architecture | Adamesque movement | Adamesque style | Adamesque art | Adamesque architecture
+- Federal style — Federal architecture | Federal style movement | Federal style art | Federal style architecture | Federal architecture movement | Federal architecture style | Federal architecture art
+- American Craftsman — Craftsman style | Mission style | Craftsman | Craftsman architecture | American Craftsman movement | American Craftsman style | American Craftsman art | American Craftsman architecture | Craftsman style movement | Craftsman style art | Craftsman style architecture | Mission style movement | Mission style art | Mission style architecture | Craftsman movement | Craftsman art | Craftsman architecture movement | Craftsman architecture style | Craftsman architecture art
+- Shaker style — Shaker | Shaker style movement | Shaker style art | Shaker style architecture | Shaker movement | Shaker art | Shaker architecture
+- Space Age design — Space Age | Space Age design movement | Space Age design style | Space Age design art | Space Age design architecture | Space Age movement | Space Age style | Space Age art | Space Age architecture
+- Swiss Style — International Typographic Style | Swiss Style movement | Swiss Style art | Swiss Style architecture | International Typographic Style movement | International Typographic Style art | International Typographic Style architecture
+- Jacobean — Jacobean movement | Jacobean style | Jacobean art | Jacobean architecture
+- Elizabethan — Elizabethan movement | Elizabethan style | Elizabethan art | Elizabethan architecture
+- Edwardian — Edwardian architecture | Edwardian style | Edwardian Baroque | Edwardian movement | Edwardian art | Edwardian architecture movement | Edwardian architecture style | Edwardian architecture art | Edwardian style movement | Edwardian style art | Edwardian style architecture | Edwardian Baroque movement | Edwardian Baroque style | Edwardian Baroque art | Edwardian Baroque architecture
+- Directoire — Directoire movement | Directoire style | Directoire art | Directoire architecture
+- Manueline — Manueline movement | Manueline style | Manueline art | Manueline architecture
+- Plateresque — Plateresque movement | Plateresque style | Plateresque art | Plateresque architecture
+- Churrigueresque — Churrigueresque movement | Churrigueresque style | Churrigueresque art | Churrigueresque architecture
+- Mudéjar — Mudéjar movement | Mudéjar style | Mudéjar art | Mudéjar architecture
+- Fantastic realism — Vienna School of Fantastic Realism | Fantastic realism movement | Fantastic realism style | Fantastic realism art | Fantastic realism architecture | Vienna School of Fantastic Realism movement | Vienna School of Fantastic Realism style | Vienna School of Fantastic Realism art | Vienna School of Fantastic Realism architecture
+- Rationalism — Italian Rationalism | Rationalist architecture | Razionalismo | Rationalism movement | Rationalism style | Rationalism art | Rationalism architecture | Italian Rationalism movement | Italian Rationalism style | Italian Rationalism art | Italian Rationalism architecture | Rationalist architecture movement | Rationalist architecture style | Rationalist architecture art | Razionalismo movement | Razionalismo style | Razionalismo art | Razionalismo architecture
+- Second Empire — Second Empire style | Second Empire architecture | Napoleon III style | Second Empire movement | Second Empire art | Second Empire style movement | Second Empire style art | Second Empire style architecture | Second Empire architecture movement | Second Empire architecture style | Second Empire architecture art | Napoleon III style movement | Napoleon III style art | Napoleon III style architecture
+- Merovingian art — Merovingian | Merovingian art movement | Merovingian art style | Merovingian art architecture | Merovingian movement | Merovingian style | Merovingian architecture
+- Mosan art — Mosan | Mosan art movement | Mosan art style | Mosan art architecture | Mosan movement | Mosan style | Mosan architecture
+- Nanga — Bunjinga | Nanga movement | Nanga style | Nanga art | Nanga architecture | Bunjinga movement | Bunjinga style | Bunjinga art | Bunjinga architecture
+- Neo-Georgian — Georgian Revival | Neo-Georgian architecture | Neo-Georgian movement | Neo-Georgian style | Neo-Georgian art | Georgian Revival movement | Georgian Revival style | Georgian Revival art | Georgian Revival architecture | Neo-Georgian architecture movement | Neo-Georgian architecture style | Neo-Georgian architecture art
+- Colonial Revival — Colonial Revival architecture | Colonial Revival movement | Colonial Revival style | Colonial Revival art | Colonial Revival architecture movement | Colonial Revival architecture style | Colonial Revival architecture art
+- Spanish Colonial Revival — Spanish Revival | Spanish Colonial Revival architecture | Spanish Colonial Revival movement | Spanish Colonial Revival style | Spanish Colonial Revival art | Spanish Revival movement | Spanish Revival style | Spanish Revival art | Spanish Revival architecture | Spanish Colonial Revival architecture movement | Spanish Colonial Revival architecture style | Spanish Colonial Revival architecture art
+- Mission Revival — Mission Revival architecture | Mission Revival movement | Mission Revival style | Mission Revival art | Mission Revival architecture movement | Mission Revival architecture style | Mission Revival architecture art
+- Stick style — Stick-Eastlake | Stick style movement | Stick style art | Stick style architecture | Stick-Eastlake movement | Stick-Eastlake style | Stick-Eastlake art | Stick-Eastlake architecture
+- Carpenter Gothic — Rural Gothic | Carpenter Gothic movement | Carpenter Gothic style | Carpenter Gothic art | Carpenter Gothic architecture | Rural Gothic movement | Rural Gothic style | Rural Gothic art | Rural Gothic architecture
+- Brick Gothic — Backsteingotik | Brick Gothic movement | Brick Gothic style | Brick Gothic art | Brick Gothic architecture | Backsteingotik movement | Backsteingotik style | Backsteingotik art | Backsteingotik architecture
+- Venetian Gothic — Venetian Gothic movement | Venetian Gothic style | Venetian Gothic art | Venetian Gothic architecture
+- Isabelline Gothic — Isabelline | Isabelline Gothic movement | Isabelline Gothic style | Isabelline Gothic art | Isabelline Gothic architecture | Isabelline movement | Isabelline style | Isabelline art | Isabelline architecture
+- Herrerian — Herrerian style | Herreresque | Herrerian movement | Herrerian art | Herrerian architecture | Herrerian style movement | Herrerian style art | Herrerian style architecture | Herreresque movement | Herreresque style | Herreresque art | Herreresque architecture
+- Pombaline — Pombaline style | Pombaline movement | Pombaline art | Pombaline architecture | Pombaline style movement | Pombaline style art | Pombaline style architecture
+- Mozarabic art — Mozarabic | Mozarabic art movement | Mozarabic art style | Mozarabic art architecture | Mozarabic movement | Mozarabic style | Mozarabic architecture
+- Cosmatesque — Cosmati work | Cosmati | Cosmatesque movement | Cosmatesque style | Cosmatesque art | Cosmatesque architecture | Cosmati work movement | Cosmati work style | Cosmati work art | Cosmati work architecture | Cosmati movement | Cosmati style | Cosmati art | Cosmati architecture
+- Czech Cubism — Rondocubism | Czech Cubism movement | Czech Cubism style | Czech Cubism art | Czech Cubism architecture | Rondocubism movement | Rondocubism style | Rondocubism art | Rondocubism architecture
+- Danish Golden Age — Golden Age of Danish Painting | Danish Golden Age movement | Danish Golden Age style | Danish Golden Age art | Danish Golden Age architecture | Golden Age of Danish Painting movement | Golden Age of Danish Painting style | Golden Age of Danish Painting art | Golden Age of Danish Painting architecture
+- Spanish Golden Age — Spanish Golden Age painting | Siglo de Oro | Spanish Golden Age movement | Spanish Golden Age style | Spanish Golden Age art | Spanish Golden Age architecture | Spanish Golden Age painting movement | Spanish Golden Age painting style | Spanish Golden Age painting art | Spanish Golden Age painting architecture | Siglo de Oro movement | Siglo de Oro style | Siglo de Oro art | Siglo de Oro architecture
+- New Leipzig School — Neue Leipziger Schule | Leipzig School | New Leipzig School movement | New Leipzig School style | New Leipzig School art | New Leipzig School architecture | Neue Leipziger Schule movement | Neue Leipziger Schule style | Neue Leipziger Schule art | Neue Leipziger Schule architecture | Leipzig School movement | Leipzig School style | Leipzig School art | Leipzig School architecture
+- London Group — London Group movement | London Group style | London Group art | London Group architecture
+- Glasgow Girls — Glasgow Girls movement | Glasgow Girls style | Glasgow Girls art | Glasgow Girls architecture
+- Hermannsburg School — Hermannsburg | Hermannsburg School movement | Hermannsburg School style | Hermannsburg School art | Hermannsburg School architecture | Hermannsburg movement | Hermannsburg style | Hermannsburg art | Hermannsburg architecture
+- Antropofagia — Anthropophagy | Anthropophagic movement | Movimento Antropofágico | Brazilian Modernism | Antropofagia movement | Antropofagia style | Antropofagia art | Antropofagia architecture | Anthropophagy movement | Anthropophagy style | Anthropophagy art | Anthropophagy architecture | Anthropophagic movement style | Anthropophagic movement art | Anthropophagic movement architecture | Movimento Antropofágico movement | Movimento Antropofágico style | Movimento Antropofágico art | Movimento Antropofágico architecture | Brazilian Modernism movement | Brazilian Modernism style | Brazilian Modernism art | Brazilian Modernism architecture
+- Madí — Arte Madí | Madi movement | Madí style | Madí art | Madí architecture | Arte Madí movement | Arte Madí style | Arte Madí art | Arte Madí architecture | Madi movement style | Madi movement art | Madi movement architecture
+- Archigram — Archigram movement | Archigram style | Archigram art | Archigram architecture
+- Usonian — Usonian style | Usonian architecture | Usonian movement | Usonian art | Usonian style movement | Usonian style art | Usonian style architecture | Usonian architecture movement | Usonian architecture style | Usonian architecture art
+- New Urbanism — New Urbanism movement | New Urbanism style | New Urbanism art | New Urbanism architecture
+- City Beautiful movement — City Beautiful | City Beautiful movement style | City Beautiful movement art | City Beautiful movement architecture | City Beautiful style | City Beautiful art | City Beautiful architecture
+- Garden city movement — Garden city | Garden city movement style | Garden city movement art | Garden city movement architecture | Garden city style | Garden city art | Garden city architecture
+- Critical regionalism — Critical regionalism movement | Critical regionalism style | Critical regionalism art | Critical regionalism architecture
+- Tropical Modernism — Tropical Modernism movement | Tropical Modernism style | Tropical Modernism art | Tropical Modernism architecture
+- Les XX — Les Vingt | Les XX movement | Les XX style | Les XX art | Les XX architecture | Les Vingt movement | Les Vingt style | Les Vingt art | Les Vingt architecture
+- Jack of Diamonds — Knave of Diamonds | Bubnovy Valet | Jack of Diamonds movement | Jack of Diamonds style | Jack of Diamonds art | Jack of Diamonds architecture | Knave of Diamonds movement | Knave of Diamonds style | Knave of Diamonds art | Knave of Diamonds architecture | Bubnovy Valet movement | Bubnovy Valet style | Bubnovy Valet art | Bubnovy Valet architecture
+- Blue Rose — Blue Rose movement | Blue Rose style | Blue Rose art | Blue Rose architecture
+- Verism — Verists | Verism movement | Verism style | Verism art | Verism architecture | Verists movement | Verists style | Verists art | Verists architecture
+- Biomorphism — Biomorphic art | Biomorphism movement | Biomorphism style | Biomorphism art | Biomorphism architecture | Biomorphic art movement | Biomorphic art style | Biomorphic art architecture
+- Atomic Age design — Atomic Age | Atomic style | Atomic Age design movement | Atomic Age design style | Atomic Age design art | Atomic Age design architecture | Atomic Age movement | Atomic Age style | Atomic Age art | Atomic Age architecture | Atomic style movement | Atomic style art | Atomic style architecture
+- Hollywood Regency — Hollywood Regency movement | Hollywood Regency style | Hollywood Regency art | Hollywood Regency architecture
+- Shabby chic — Shabby chic movement | Shabby chic style | Shabby chic art | Shabby chic architecture
+- Ulm School — Ulm School of Design | HfG Ulm | Ulm School movement | Ulm School style | Ulm School art | Ulm School architecture | Ulm School of Design movement | Ulm School of Design style | Ulm School of Design art | Ulm School of Design architecture | HfG Ulm movement | HfG Ulm style | HfG Ulm art | HfG Ulm architecture
+- Turquerie — Turquerie movement | Turquerie style | Turquerie art | Turquerie architecture
+- Finish Fetish — Finish Fetish movement | Finish Fetish style | Finish Fetish art | Finish Fetish architecture
+- Taos Society of Artists — Taos School | Taos art colony | Taos Society of Artists movement | Taos Society of Artists style | Taos Society of Artists art | Taos Society of Artists architecture | Taos School movement | Taos School style | Taos School art | Taos School architecture | Taos art colony movement | Taos art colony style | Taos art colony art | Taos art colony architecture
+- Brandywine School — Brandywine School movement | Brandywine School style | Brandywine School art | Brandywine School architecture
+- Rocky Mountain School — Rocky Mountain School movement | Rocky Mountain School style | Rocky Mountain School art | Rocky Mountain School architecture
+- The Eight — The Eight movement | The Eight style | The Eight art | The Eight architecture
+- Ten American Painters — The Ten | Ten American Painters movement | Ten American Painters style | Ten American Painters art | Ten American Painters architecture | The Ten movement | The Ten style | The Ten art | The Ten architecture
+- Transcendental Painting Group — Transcendental Painting Group movement | Transcendental Painting Group style | Transcendental Painting Group art | Transcendental Painting Group architecture
+- Monster Roster — Monster Roster movement | Monster Roster style | Monster Roster art | Monster Roster architecture
+- Spiral — Spiral Group | Spiral movement | Spiral style | Spiral art | Spiral architecture | Spiral Group movement | Spiral Group style | Spiral Group art | Spiral Group architecture
+- Brotherhood of Ruralists — Ruralists | Brotherhood of Ruralists movement | Brotherhood of Ruralists style | Brotherhood of Ruralists art | Brotherhood of Ruralists architecture | Ruralists movement | Ruralists style | Ruralists art | Ruralists architecture
+- The Ancients — Shoreham Ancients | The Ancients movement | The Ancients style | The Ancients art | The Ancients architecture | Shoreham Ancients movement | Shoreham Ancients style | Shoreham Ancients art | Shoreham Ancients architecture
+- Seven and Five Society — Seven and Five | Seven and Five Society movement | Seven and Five Society style | Seven and Five Society art | Seven and Five Society architecture | Seven and Five movement | Seven and Five style | Seven and Five art | Seven and Five architecture
+- Bamboccianti — Bamboccianti movement | Bamboccianti style | Bamboccianti art | Bamboccianti architecture
+- Neapolitan School — Neapolitan School movement | Neapolitan School style | Neapolitan School art | Neapolitan School architecture
+- Antwerp Mannerism — Antwerp Mannerists | Antwerp Mannerism movement | Antwerp Mannerism style | Antwerp Mannerism art | Antwerp Mannerism architecture | Antwerp Mannerists movement | Antwerp Mannerists style | Antwerp Mannerists art | Antwerp Mannerists architecture
+- Haarlem Mannerism — Haarlem Mannerists | Haarlem School | Haarlem Mannerism movement | Haarlem Mannerism style | Haarlem Mannerism art | Haarlem Mannerism architecture | Haarlem Mannerists movement | Haarlem Mannerists style | Haarlem Mannerists art | Haarlem Mannerists architecture | Haarlem School movement | Haarlem School style | Haarlem School art | Haarlem School architecture
+- Munich School — Munich School movement | Munich School style | Munich School art | Munich School architecture
+- Beaver Hall Group — Beaver Hall Group movement | Beaver Hall Group style | Beaver Hall Group art | Beaver Hall Group architecture
+- Regina Five — Regina Five movement | Regina Five style | Regina Five art | Regina Five architecture
+- Stars Group — Xing Xing | Star Art Group | Stars Group movement | Stars Group style | Stars Group art | Stars Group architecture | Xing Xing movement | Xing Xing style | Xing Xing art | Xing Xing architecture | Star Art Group movement | Star Art Group style | Star Art Group art | Star Art Group architecture
+- Wu School — Wu School movement | Wu School style | Wu School art | Wu School architecture
+- Zhe School — Zhe School movement | Zhe School style | Zhe School art | Zhe School architecture
+- Tosa school — Tosa school movement | Tosa school style | Tosa school art | Tosa school architecture
+- Minhwa — Minhwa movement | Minhwa style | Minhwa art | Minhwa architecture
+- Pattachitra — Pattachitra movement | Pattachitra style | Pattachitra art | Pattachitra architecture
+- Gond art — Gond painting | Gond art movement | Gond art style | Gond art architecture | Gond painting movement | Gond painting style | Gond painting art | Gond painting architecture
+- Deccani painting — Deccani painting movement | Deccani painting style | Deccani painting art | Deccani painting architecture
+- Madras Art Movement — Madras Movement | Madras School | Madras Art Movement style | Madras Art Movement art | Madras Art Movement architecture | Madras Movement style | Madras Movement art | Madras Movement architecture | Madras School movement | Madras School style | Madras School art | Madras School architecture
+- Gupta art — Gupta style | Gupta art movement | Gupta art style | Gupta art architecture | Gupta style movement | Gupta style art | Gupta style architecture
+- Saqqakhaneh — Saqqakhaneh movement | Saqqakhaneh style | Saqqakhaneh art | Saqqakhaneh architecture
+- Pompeian styles — Four Pompeian styles | Pompeian styles movement | Pompeian styles style | Pompeian styles art | Pompeian styles architecture | Four Pompeian styles movement | Four Pompeian styles style | Four Pompeian styles art | Four Pompeian styles architecture
+- Orientalizing — Orientalising | Orientalizing style | Orientalizing period | Orientalizing movement | Orientalizing art | Orientalizing architecture | Orientalising movement | Orientalising style | Orientalising art | Orientalising architecture | Orientalizing style movement | Orientalizing style art | Orientalizing style architecture | Orientalizing period movement | Orientalizing period style | Orientalizing period art | Orientalizing period architecture
+- Massurrealism — Massurrealism movement | Massurrealism style | Massurrealism art | Massurrealism architecture
+
+### Tier 6: rare jackpots (2)
+
+- Amarna art — Amarna style | Amarna | Amarna art movement | Amarna art style | Amarna art architecture | Amarna style movement | Amarna style art | Amarna style architecture | Amarna movement | Amarna architecture
+- Incoherents — Les Arts incohérents | Arts incohérents | Incoherent art | Incoherents movement | Incoherents style | Incoherents art | Incoherents architecture | Les Arts incohérents movement | Les Arts incohérents style | Les Arts incohérents art | Les Arts incohérents architecture | Arts incohérents movement | Arts incohérents style | Arts incohérents art | Arts incohérents architecture | Incoherent art movement | Incoherent art style | Incoherent art architecture
+
+## Refused on purpose (15)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Fresco | Sfumato | Chiaroscuro | Impasto | Tempera | Oil painting | Watercolour | Watercolor | Trompe-l'oeil | Perspective | Collage | Decoupage | Mosaic | Etching | Engraving | Lithography | Woodcut | Screen printing | Encaustic | Gouache | Pastel | Frottage | Grisaille | Sgraffito | Anamorphosis | Drip painting | Stippling | Cross-hatching | Decalcomania — "A technique, not a movement."
+- Portrait | Portraiture | Landscape | Still life | Nude | History painting | Genre painting | Self-portrait | Seascape | Marine painting | Religious art | Caricature | Cartoon — "A genre, not a movement."
+- Sculpture | Painting | Drawing | Photography | Printmaking | Ceramics | Pottery | Architecture | Calligraphy | Tapestry | Cave painting | Animation | Origami | Graphic design — "An art form, not a movement."
+- Anime | Manga — "A medium with many styles, not a movement."
+- Picasso | Pablo Picasso | Monet | Claude Monet | Manet | Van Gogh | Vincent van Gogh | Dalí | Salvador Dalí | Warhol | Andy Warhol | Banksy | Michelangelo | Leonardo da Vinci | Da Vinci | Rembrandt | Frida Kahlo | Kahlo | Pollock | Jackson Pollock | Matisse | Kandinsky | Mondrian | Klimt | Magritte | Hockney | Turner | Constable | Caravaggio | Raphael | Botticelli | Cézanne | Renoir | Degas | Seurat | Gauguin | Munch | Klee | Rothko | Lichtenstein | Basquiat | Hokusai | Duchamp | Vermeer | Goya | Titian | Bosch | Escher | Lowry | Damien Hirst | Tracey Emin | William Morris | Mucha | Gaudí | Rodin — "An artist, not a movement."
+- Contemporary art | Contemporary — "A label for art made now, not one movement."
+- Avant-garde — "A label for any boundary-pushing art, not one movement."
+- Middle Ages | Medieval | Medieval art | Dark Ages — "An era, not a movement. Its styles, like Gothic, count."
+- Antiquity | Stone Age | Prehistoric | Prehistoric art | Bronze Age | Iron Age | Ancient Greece | Ancient Rome | Ancient Egypt | Belle Époque | Jazz Age | Gilded Age | Roaring Twenties — "An era, not an art movement."
+- Egyptian art | Ancient Egyptian art | Egyptian | Greek art | Ancient Greek art | Roman art | Ancient Roman art | Chinese art | Japanese art | Indian art | Islamic art | African art | Aboriginal art | Native American art | Aztec art | Mayan art | Inca art — "A whole culture's art, spanning many styles, not one movement."
+- Enlightenment | Age of Enlightenment | Existentialism | Humanism | Nihilism | Transcendentalism — "A movement of ideas, not of art."
+- Beat Generation | The Beats | Imagism | Sturm und Drang — "A literary movement, not an art one."
+- Dogme 95 | Dogme | French New Wave | Nouvelle Vague | New Wave | Italian Neorealism | Neorealism | New Hollywood | Mumblecore | Soviet Montage — "A film movement, not an art one."
+- Grunge | Britpop | Jazz | Bebop — "A music scene, not an art movement."
+- Degenerate art | Entartete Kunst — "The Nazis' smear for modern art, not a movement."

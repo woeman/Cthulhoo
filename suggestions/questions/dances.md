@@ -1,0 +1,483 @@
+# Name a dance.
+
+Question id: `dances` · category: misc · source: `data/misc.json`
+
+Rules: Any named dance or dance style, from ballroom, stage, street, folk tradition or history, dance crazes included. Single ballet steps, such as a pirouette, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (434 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (8)
+
+- Waltz — Valse | Slow waltz | English waltz | Waltz dance | Waltz dancing | Valse dance | Valse dancing | Slow waltz dance | Slow waltz dancing | English waltz dance | English waltz dancing
+- Tango — Ballroom tango | Tango dance | Tango dancing | Ballroom tango dance | Ballroom tango dancing
+- Salsa — Cuban salsa | Salsa dancing | Salsa dance | Cuban salsa dance | Cuban salsa dancing
+- Ballet — Classical ballet | Ballet dance | Ballet dancing | Classical ballet dance | Classical ballet dancing
+- Tap dance — Tap | Tap dancing
+- Foxtrot — Slow foxtrot | Foxtrot dance | Foxtrot dancing | Slow foxtrot dance | Slow foxtrot dancing
+- Cha-cha — Cha-cha-cha | Cha-cha dance | Cha-cha dancing | Cha-cha-cha dance | Cha-cha-cha dancing
+- Samba — Samba dance | Samba dancing
+
+### Tier 2: common (28)
+
+- Macarena — Macarena dance | Macarena dancing
+- Conga — Conga line | Conga dance | Conga dancing | Conga line dance | Conga line dancing
+- Rumba — Rhumba | Rumba dance | Rumba dancing | Rhumba dance | Rhumba dancing
+- Quickstep — Quickstep dance | Quickstep dancing
+- Paso doble — Paso | Paso doble dance | Paso doble dancing | Paso dance | Paso dancing
+- Jive — Jive dance | Jive dancing
+- Charleston — Charleston dance | Charleston dancing
+- Flamenco — Flamenco dance | Flamenco dancing
+- Twist — Twist dance | Twist dancing
+- Limbo — Limbo dance | Limbo dancing
+- Disco — Disco dancing | Disco dance
+- Breakdancing — Breakdance | Breaking | B-boying | B-girling
+- Hip-hop — Street dance | Hip-hop dance | Hip-hop dancing | Street dancing
+- Swing — Swing dance | Swing dancing
+- Line dance — Line dancing
+- Square dance — Square dancing | Hoedown | Hoedown dance | Hoedown dancing
+- Morris dance — Morris dancing | Morris | Border Morris | Border Morris dance | Border Morris dancing
+- Maypole dance — Maypole dancing | Maypole
+- Hula — Hula dance | Hula dancing | Hula kahiko | Hula auana | Hula kahiko dance | Hula kahiko dancing | Hula auana dance | Hula auana dancing
+- Haka — Haka dance | Haka dancing | Kapa haka | Kapa haka dance | Kapa haka dancing
+- Belly dance — Belly dancing | Raqs sharqi | Oriental dance | Raqs sharqi dance | Raqs sharqi dancing
+- Can-can — Can-can dance | Can-can dancing
+- Polka — Polka dance | Polka dancing
+- Hokey cokey — Hokey pokey | Okey cokey | Hokey cokey dance | Hokey cokey dancing | Hokey pokey dance | Hokey pokey dancing | Okey cokey dance | Okey cokey dancing
+- Irish dancing — Irish dance | Irish step dance | Irish step dancing
+- Jig — Irish jig | Irish jig dance | Irish jig dancing | Jig dance | Jig dancing
+- Ballroom dancing — Ballroom | Ballroom dance
+- Latin dance — Latin | Latin American | Latin American dancing | Latin dancing | Latin American dance
+
+### Tier 3: known to fans (52)
+
+- Viennese waltz — Viennese waltz dance | Viennese waltz dancing
+- Argentine tango — Tango argentino | Argentine tango dance | Argentine tango dancing | Tango argentino dance | Tango argentino dancing
+- Mambo — Mambo dance | Mambo dancing
+- Bolero — Bolero dance | Bolero dancing
+- Lindy Hop — Lindy | Lindy Hop dance | Lindy Hop dancing | Lindy dance | Lindy dancing
+- Jitterbug — Jitterbug dance | Jitterbug dancing
+- Rock and roll — Rock 'n' roll | Rock and roll dancing | Rock and roll dance | Rock 'n' roll dance | Rock 'n' roll dancing
+- Hustle — Hustle dance | Hustle dancing
+- Slow dance — Slow dancing
+- Lambada — Lambada dance | Lambada dancing
+- Merengue — Merengue dance | Merengue dancing
+- Bachata — Bachata dance | Bachata dancing
+- Cumbia — Cumbia dance | Cumbia dancing
+- Fandango — Fandango dance | Fandango dancing
+- Tarantella — Tarantella dance | Tarantella dancing
+- Minuet — Menuet | Minuet dance | Minuet dancing | Menuet dance | Menuet dancing
+- Mazurka — Mazurka dance | Mazurka dancing
+- Highland fling — Highland dancing | Highland dance | Fling | Scottish dancing | Scottish dance
+- Sword dance — Highland sword dance | Ghillie Callum | Longsword dance | Ghillie Callum dance | Ghillie Callum dancing | Sword dancing
+- Reel — Scottish reel | Irish reel | Reel dance | Reel dancing | Scottish reel dance | Scottish reel dancing | Irish reel dance | Irish reel dancing
+- Hornpipe — Sailor's hornpipe | Hornpipe dance | Hornpipe dancing | Sailor's hornpipe dance | Sailor's hornpipe dancing
+- Clog dance — Clog dancing | Clogging | Clogs | Clogs dance | Clogs dancing
+- Strip the Willow — Strip the Willow dance | Strip the Willow dancing
+- Gay Gordons — Gay Gordons dance | Gay Gordons dancing
+- Barn dance — Barn dancing
+- Céilí dance — Ceilidh dance | Ceilidh dancing | Ceili dancing | Ceilidh | Ceili
+- Bhangra — Bhangra dance | Bhangra dancing
+- Kathak — Kathak dance | Kathak dancing
+- Bharatanatyam — Bharatnatyam | Bharatanatyam dance | Bharatanatyam dancing | Bharatnatyam dance | Bharatnatyam dancing
+- Bollywood dance — Bollywood | Bollywood dancing
+- Sirtaki — Syrtaki | Zorba | Zorba's dance | Zorba the Greek | Sirtaki dance | Sirtaki dancing | Syrtaki dance | Syrtaki dancing | Zorba dance | Zorba dancing | Zorba the Greek dance | Zorba the Greek dancing
+- Hora — Horo | Hora dance | Hora dancing | Horo dance | Horo dancing
+- Cossack dance — Prisyadka | Prisyadka dance | Prisyadka dancing | Squat dance
+- Capoeira — Capoeira dance | Capoeira dancing
+- Lion dance — Lion dancing | Chinese lion dance
+- Dragon dance — Dragon dancing | Chinese dragon dance
+- Rain dance — Rain dancing
+- Jazz dance — Jazz | Jazz dancing
+- Contemporary dance — Contemporary | Contemporary dancing
+- Modern dance — Modern | Modern dancing
+- Interpretive dance — Interpretative dance
+- Pole dance — Pole dancing
+- Popping — Popping dance | Popping and locking
+- Robot — Robot dance | Robot dancing
+- Moonwalk — Moonwalking | Backslide | Moonwalk dance | Moonwalk dancing | Backslide dance | Backslide dancing
+- Floss — Flossing | Floss dance | Floss dancing
+- Twerking — Twerk | Twerk dance | Twerk dancing
+- Vogue — Voguing | Vogueing | Vogue dance | Vogue dancing
+- Chicken dance — Birdie Song | Birdy Song | Birdie Song dance | Birdie Song dancing | Birdy Song dance | Birdy Song dancing
+- Time Warp — Time Warp dance | Time Warp dancing
+- Electric Slide — Electric Slide dance | Electric Slide dancing
+- Cha-Cha Slide — Cha-Cha Slide dance | Cha-Cha Slide dancing
+
+### Tier 4: obscure (81)
+
+- East Coast Swing
+- West Coast Swing
+- Boogie-woogie — Boogie | Boogie-woogie dance | Boogie-woogie dancing | Boogie dance | Boogie dancing
+- Two-step — Texas two-step | Two-step dance | Two-step dancing | Texas two-step dance | Texas two-step dancing
+- Ice dance — Ice dancing
+- Milonga — Milonga dance | Milonga dancing
+- Pavane — Pavan | Pavin | Pavane dance | Pavane dancing | Pavan dance | Pavan dancing | Pavin dance | Pavin dancing
+- Galliard — Gagliarda | Galliard dance | Galliard dancing | Gagliarda dance | Gagliarda dancing
+- Gavotte — Gavotte dance | Gavotte dancing
+- Polonaise — Polonez | Polonaise dance | Polonaise dancing | Polonez dance | Polonez dancing
+- Quadrille — Quadrille dance | Quadrille dancing
+- Cotillion — Cotillon | Cotillion dance | Cotillion dancing | Cotillon dance | Cotillon dancing
+- Galop — Gallop | Galop dance | Galop dancing | Gallop dance | Gallop dancing
+- Schottische — Schottische dance | Schottische dancing
+- Farandole — Farandole dance | Farandole dancing
+- Country dance — English country dance | Contredanse | Playford dance | Contredanse dance | Contredanse dancing | Country dancing | English country dancing
+- Cakewalk — Cakewalk dance | Cakewalk dancing
+- Shimmy — Shimmy dance | Shimmy dancing
+- Strathspey — Strathspey dance | Strathspey dancing
+- Eightsome reel — Eightsome reel dance | Eightsome reel dancing
+- Dashing White Sergeant — Dashing White Sergeant dance | Dashing White Sergeant dancing
+- Virginia reel — Virginia reel dance | Virginia reel dancing
+- Scottish country dance — Scottish country dancing
+- Contra dance — Contra dancing
+- Lambeth Walk — Lambeth Walk dance | Lambeth Walk dancing
+- Sevillanas — Sevillanas dance | Sevillanas dancing
+- Jota — Jota dance | Jota dancing
+- Sardana — Sardana dance | Sardana dancing
+- Schuhplattler — Schuhplattler dance | Schuhplattler dancing | Slap dance
+- Hopak — Gopak | Hopak dance | Hopak dancing | Gopak dance | Gopak dancing
+- Csárdás — Czardas | Csárdás dance | Csárdás dancing | Czardas dance | Czardas dancing
+- Kolo — Kolo dance | Kolo dancing
+- Dabke — Dabka | Debka | Dabkeh | Dabke dance | Dabke dancing | Dabka dance | Dabka dancing | Debka dance | Debka dancing | Dabkeh dance | Dabkeh dancing
+- Sufi whirling — Whirling | Whirling dervishes | Whirling dervish | Dervish dance | Whirling dervishes dance | Whirling dervishes dancing | Whirling dervish dance | Whirling dervish dancing | Sema | Sema dance | Sema dancing
+- Garba — Garba dance | Garba dancing | Garba raas | Raas garba | Garba raas dance | Garba raas dancing | Raas garba dance | Raas garba dancing
+- Dandiya — Dandiya Raas | Raas | Dandiya dance | Dandiya dancing | Dandiya Raas dance | Dandiya Raas dancing | Raas dance | Raas dancing
+- Kuchipudi — Kuchipudi dance | Kuchipudi dancing
+- Odissi — Odissi dance | Odissi dancing
+- Kathakali — Kathakali dance | Kathakali dancing
+- Poi — Poi dance | Poi dancing
+- Fan dance — Buchaechum | Buchaechum dance | Buchaechum dancing | Fan dancing
+- Bon Odori — Bon Odori dance | Bon Odori dancing | Bon dance
+- Butoh — Butō | Butoh dance | Butoh dancing | Butō dance | Butō dancing
+- Gumboot dance — Gumboot dancing | Isicathulo | Isicathulo dance | Isicathulo dancing
+- Kizomba — Kizomba dance | Kizomba dancing
+- Forró — Forró dance | Forró dancing
+- Dancehall — Dancehall dance | Dancehall dancing
+- Jarabe tapatío — Mexican hat dance | Jarabe tapatío dance | Jarabe tapatío dancing | Hat dance
+- War dance — War dancing
+- Hoop dance — Hoop dancing
+- Lyrical dance — Lyrical | Lyrical dancing
+- Freestyle — Freestyle dance | Freestyle disco | Freestyle dancing | Freestyle disco dance | Freestyle disco dancing
+- Burlesque — Burlesque dance | Burlesque dancing
+- Go-go dancing — Go-go | Go-go dance
+- Locking — Locking dance | Locking dancing
+- Krumping — Krump | Krump dance | Krump dancing | Krumping dance
+- House dance — House dancing
+- Shuffle — Melbourne shuffle | Cutting shapes | Shuffle dance | Shuffle dancing | Melbourne shuffle dance | Melbourne shuffle dancing | Cutting shapes dance | Cutting shapes dancing
+- Running man — Running man dance | Running man dancing
+- Worm — Worm dance | Worm dancing
+- Dab — Dabbing
+- Carlton — Carlton dance | Carlton dancing
+- Harlem Shake — Harlem Shake dance | Harlem Shake dancing
+- Gangnam Style — Gangnam Style dance | Gangnam Style dancing | Horse dance
+- Pogo — Pogoing | Pogo dance | Pogo dancing
+- YMCA — YMCA dance | YMCA dancing
+- Loco-motion — Loco-motion dance | Loco-motion dancing
+- Mashed Potato — Mashed Potato dance | Mashed Potato dancing
+- Madison — Madison dance | Madison dancing
+- Hand jive — Hand jive dance | Hand jive dancing
+- Cupid Shuffle — Cupid Shuffle dance | Cupid Shuffle dancing
+- Cotton-Eye Joe — Cotton-Eyed Joe | Cotton-Eye Joe dance | Cotton-Eye Joe dancing | Cotton-Eyed Joe dance | Cotton-Eyed Joe dancing
+- Zumba — Zumba dance | Zumba dancing
+- Step dance — Step dancing
+- Lap dance — Lap dancing
+- Striptease — Exotic dancing | Exotic dance | Stripping | Striptease dance | Striptease dancing
+- Corroboree — Corroboree dance | Corroboree dancing
+- Soft shoe — Soft-shoe shuffle | Soft-shoe dance | Soft shoe dancing | Soft-shoe shuffle dance | Soft-shoe shuffle dancing
+- Acro — Acro dance | Acrobatic dance | Acro dancing
+- Kabuki — Kabuki dance | Kabuki dancing
+- Yakshagana — Yakshagana dance | Yakshagana dancing
+
+### Tier 5: expert (262)
+
+- Balboa — Balboa dance | Balboa dancing
+- Shag — Carolina shag | Collegiate shag | Shag dance | Shag dancing | Carolina shag dance | Carolina shag dancing | Collegiate shag dance | Collegiate shag dancing
+- Black Bottom — Black Bottom dance | Black Bottom dancing
+- Turkey trot — Turkey trot dance | Turkey trot dancing
+- Bunny hug — Bunny hug dance | Bunny hug dancing
+- Bunny hop — Bunny hop dance | Bunny hop dancing
+- Castle walk — Castle walk dance | Castle walk dancing
+- Big Apple — Big Apple dance | Big Apple dancing
+- Stroll — Stroll dance | Stroll dancing
+- Watusi — Watusi dance | Watusi dancing
+- Frug — Frug dance | Frug dancing
+- Pony — Pony dance | Pony dancing
+- Monkey — Monkey dance | Monkey dancing
+- Hully Gully — Hully Gully dance | Hully Gully dancing
+- Bop — Bebop dance
+- Bump — Bump dance | Bump dancing
+- Bus Stop — Bus Stop dance | Bus Stop dancing
+- Boogaloo — Electric boogaloo | Boogaloo dance | Boogaloo dancing | Electric boogaloo dance | Electric boogaloo dancing
+- Dougie — Dougie dance | Dougie dancing
+- Nae Nae — Whip and Nae Nae | Nae Nae dance | Nae Nae dancing | Whip and Nae Nae dance | Whip and Nae Nae dancing
+- Griddy — Hit the Griddy | Griddy dance | Griddy dancing | Hit the Griddy dance | Hit the Griddy dancing
+- Thriller — Thriller dance | Thriller dancing
+- Agadoo — Agadoo dance | Agadoo dancing
+- Oops Upside Your Head — Rowing dance | Oops Upside Your Head dance | Oops Upside Your Head dancing
+- Palais glide — Palais glide dance | Palais glide dancing
+- Modern jive — Ceroc | LeRoc | Modern jive dance | Modern jive dancing | Ceroc dance | Ceroc dancing | LeRoc dance | LeRoc dancing
+- Sequence dancing — Sequence dance
+- Jazzercise — Jazzercise dance | Jazzercise dancing
+- Waacking — Whacking | Punking
+- Tutting — Tutting dance
+- Litefeet — Litefeet dance | Litefeet dancing
+- Flexing — Flexing dance | Flexing dancing
+- Footwork — Juke | Footwork dance | Footwork dancing | Juke dance | Juke dancing
+- Jookin — Jookin dance | Jookin dancing
+- Turfing — Turfing dance
+- C-Walk — Crip walk | Clown walk | C-Walk dance | C-Walk dancing | Crip walk dance | Crip walk dancing | Clown walk dance | Clown walk dancing
+- Stepping
+- Jumpstyle — Jumpstyle dance | Jumpstyle dancing
+- Tecktonik — Tecktonik dance | Tecktonik dancing
+- Moshing — Mosh | Mosh pit | Mosh dance | Mosh dancing | Mosh pit dance | Mosh pit dancing
+- Skanking
+- Volta — La volta | Lavolto | Volta dance | Volta dancing | La volta dance | La volta dancing | Lavolto dance | Lavolto dancing
+- Allemande — Allemande dance | Allemande dancing
+- Courante — Courante dance | Courante dancing
+- Sarabande — Zarabanda | Saraband | Sarabande dance | Sarabande dancing | Zarabanda dance | Zarabanda dancing | Saraband dance | Saraband dancing
+- Gigue — Giga | Gigue dance | Gigue dancing | Giga dance | Giga dancing
+- Bourrée — Bourrée dance | Bourrée dancing
+- Passepied — Passepied dance | Passepied dancing
+- Rigaudon — Rigaudon dance | Rigaudon dancing
+- Branle — Bransle | Brawl | Branle dance | Branle dancing | Bransle dance | Bransle dancing | Brawl dance | Brawl dancing
+- Basse danse — Bassadanza | Basse danse dance | Basse danse dancing | Bassadanza dance | Bassadanza dancing
+- Estampie — Estampie dance | Estampie dancing
+- Carole — Carole dance | Carole dancing
+- Moresca — Morisca | Moresque | Moresca dance | Moresca dancing | Morisca dance | Morisca dancing | Moresque dance | Moresque dancing
+- Canary — Canarios | Canario | Canary dance | Canary dancing | Canarios dance | Canarios dancing | Canario dance | Canario dancing
+- Chaconne — Chaconne dance | Chaconne dancing
+- Passacaglia — Passacaglia dance | Passacaglia dancing
+- Tourdion — Tourdion dance | Tourdion dancing
+- Saltarello — Saltarello dance | Saltarello dancing
+- Écossaise — Écossaise dance | Écossaise dancing
+- Lancers — Lancers dance | Lancers dancing
+- Varsovienne — Varsovienne dance | Varsovienne dancing
+- Sir Roger de Coverley — Sir Roger de Coverley dance | Sir Roger de Coverley dancing
+- Circassian circle — Circassian circle dance | Circassian circle dancing
+- Canadian barn dance
+- Military two-step — Military two-step dance | Military two-step dancing
+- St Bernard's waltz — St Bernard's waltz dance | St Bernard's waltz dancing
+- Seann triubhas — Shean Trews | Seann triubhas dance | Seann triubhas dancing | Shean Trews dance | Shean Trews dancing
+- Set dance — Set dancing
+- Sean-nós dance — Sean-nos | Sean nos dancing
+- Siege of Ennis — Siege of Ennis dance | Siege of Ennis dancing
+- Walls of Limerick — Walls of Limerick dance | Walls of Limerick dancing
+- Rapper sword — Rapper dance | Rapper | Rapper sword dance | Rapper sword dancing | Rapper dancing
+- Molly dancing — Molly dance
+- Zapateado — Zapateado dance | Zapateado dancing
+- Muiñeira — Muiñeira dance | Muiñeira dancing
+- Vira — Vira dance | Vira dancing
+- Pizzica — Pizzica dance | Pizzica dancing
+- Forlana — Forlana dance | Forlana dancing
+- Ländler — Ländler dance | Ländler dancing
+- Zwiefacher — Zwiefacher dance | Zwiefacher dancing
+- Polska — Polska dance | Polska dancing
+- Hambo — Hambo dance | Hambo dancing
+- Halling
+- Krakowiak — Krakowiak dance | Krakowiak dancing
+- Oberek — Oberek dance | Oberek dancing
+- Kujawiak — Kujawiak dance | Kujawiak dancing
+- Kazachok — Kozachok | Kazachok dance | Kazachok dancing | Kozachok dance | Kozachok dancing
+- Trepak — Trepak dance | Trepak dancing
+- Barynya — Barynya dance | Barynya dancing
+- Khorovod — Khorovod dance | Khorovod dancing
+- Lezginka — Lezginka dance | Lezginka dancing
+- Verbunkos — Verbunkos dance | Verbunkos dancing
+- Syrtos — Syrtos dance | Syrtos dancing
+- Kalamatianos — Kalamatianos dance | Kalamatianos dancing
+- Hasapiko — Butcher's dance | Hasapiko dance | Hasapiko dancing
+- Zeibekiko — Zeibekikos | Zeibekiko dance | Zeibekiko dancing | Zeibekikos dance | Zeibekikos dancing
+- Tsamiko — Tsamiko dance | Tsamiko dancing
+- Pentozali — Pentozali dance | Pentozali dancing
+- Khaleegi — Khaleegi dance | Khaleegi dancing
+- Tanoura — Tannoura | Tanoura dance | Tanoura dancing | Tannoura dance | Tannoura dancing
+- Attan — Atan | Attan dance | Attan dancing | Atan dance | Atan dancing
+- Giddha — Giddha dance | Giddha dancing
+- Manipuri — Manipuri dance | Manipuri dancing
+- Mohiniyattam — Mohiniattam | Mohiniyattam dance | Mohiniyattam dancing | Mohiniattam dance | Mohiniattam dancing
+- Sattriya — Sattriya dance | Sattriya dancing
+- Ghoomar — Ghoomar dance | Ghoomar dancing
+- Lavani — Lavani dance | Lavani dancing
+- Bihu — Bihu dance | Bihu dancing
+- Chhau — Chau | Chhau dance | Chhau dancing | Chau dance | Chau dancing
+- Kalbelia — Kalbelia dance | Kalbelia dancing
+- Legong — Legong dance | Legong dancing
+- Tinikling — Bamboo dance | Tinikling dance
+- Cariñosa — Cariñosa dance | Cariñosa dancing
+- Siva — Siva dance | Siva dancing
+- Tamure — Ori Tahiti | Tahitian dance | Tamure dance | Tamure dancing | Ori Tahiti dance | Ori Tahiti dancing
+- Yangge — Yangge dance | Yangge dancing
+- Nihon buyō — Nihon buyō dance | Nihon buyō dancing
+- Kagura — Kagura dance | Kagura dancing
+- Awa Odori — Awa Odori dance | Awa Odori dancing
+- Eisa — Eisa dance | Eisa dancing
+- Salpuri — Salpuri dance | Salpuri dancing
+- Talchum — Mask dance | Talchum dance | Talchum dancing | Mask dancing
+- Pantsula — Pantsula dance | Pantsula dancing
+- Indlamu — Indlamu dance | Indlamu dancing
+- Azonto — Azonto dance | Azonto dancing
+- Kpanlogo — Kpanlogo dance | Kpanlogo dancing
+- Adumu — Maasai jumping dance | Jumping dance | Adumu dance | Adumu dancing
+- Kuduro — Kuduro dance | Kuduro dancing
+- Semba — Semba dance | Semba dancing
+- Coupé-décalé — Coupé-décalé dance | Coupé-décalé dancing
+- Ndombolo — Ndombolo dance | Ndombolo dancing
+- Soukous — Soukous dance | Soukous dancing
+- Eskista — Eskista dance | Eskista dancing
+- Guedra — Guedra dance | Guedra dancing
+- Ahidus — Ahidus dance | Ahidus dancing
+- Frevo — Frevo dance | Frevo dancing
+- Axé — Axe dance | Axé dancing
+- Maxixe — Maxixe dance | Maxixe dancing
+- Zouk — Brazilian zouk | Zouk dance | Zouk dancing | Brazilian zouk dance | Brazilian zouk dancing
+- Rueda — Rueda de casino | Casino | Rueda dance | Rueda dancing | Rueda de casino dance | Rueda de casino dancing | Casino dance | Casino dancing
+- Chacarera — Chacarera dance | Chacarera dancing
+- Zamba — Zamba dance | Zamba dancing
+- Cueca — Cueca dance | Cueca dancing
+- Marinera — Marinera dance | Marinera dancing
+- Joropo — Joropo dance | Joropo dancing
+- Bambuco — Bambuco dance | Bambuco dancing
+- Danzón — Danzón dance | Danzón dancing
+- Bomba — Bomba dance | Bomba dancing
+- Plena — Plena dance | Plena dancing
+- Perreo — Reggaeton | Perreo dance | Perreo dancing | Reggaeton dance | Reggaeton dancing
+- Danza de los Viejitos — Dance of the Little Old Men | Danza de los Viejitos dance | Danza de los Viejitos dancing | Dance of the Little Old Men dance | Dance of the Little Old Men dancing
+- Huapango — Huapango dance | Huapango dancing
+- Pachanga — Pachanga dance | Pachanga dancing
+- Sun Dance — Sun dancing
+- Ghost Dance — Ghost dancing
+- Stomp dance — Stomp dancing
+- Grass dance — Grass dancing
+- Jingle dress dance
+- Dance of the Seven Veils — Seven veils | Dance of the Seven Veils dance | Dance of the Seven Veils dancing | Seven veils dance | Seven veils dancing
+- Fire dancing — Fire dance | Fire poi | Fire poi dance | Fire poi dancing
+- Buck dance — Buck dancing
+- Flatfooting
+- Fancy dance — Fancy war dance | Fancy shawl dance | Fancy dancing
+- Reed dance — Umhlanga | Umhlanga dance | Umhlanga dancing
+- Horon — Horon dance | Horon dancing
+- Cham dance — Cham | Cham dancing
+- Jhoomar — Jhumar | Jhoomar dance | Jhoomar dancing | Jhumar dance | Jhumar dancing
+- Pandanggo — Pandanggo sa Ilaw | Pandanggo dance | Pandanggo dancing | Pandanggo sa Ilaw dance | Pandanggo sa Ilaw dancing
+- Noh
+- Theyyam — Theyyam dance | Theyyam dancing
+- Kolattam — Kolatam | Kolattam dance | Kolattam dancing | Kolatam dance | Kolatam dancing
+- Kummi — Kummi dance | Kummi dancing
+- Oppana — Oppana dance | Oppana dancing
+- Thiruvathirakali — Thiruvathira | Kaikottikali | Thiruvathirakali dance | Thiruvathirakali dancing | Thiruvathira dance | Thiruvathira dancing | Kaikottikali dance | Kaikottikali dancing
+- Karakattam — Karagattam | Karakattam dance | Karakattam dancing | Karagattam dance | Karagattam dancing
+- Nati — Kullu Nati | Nati dance | Nati dancing | Kullu Nati dance | Kullu Nati dancing
+- Mujra — Mujra dance | Mujra dancing
+- Raslila — Raas Leela | Rasa lila | Raslila dance | Raslila dancing | Raas Leela dance | Raas Leela dancing | Rasa lila dance | Rasa lila dancing
+- Dhamal — Dhamal dance | Dhamal dancing
+- Luddi — Luddi dance | Luddi dancing
+- Bhavai — Bhavai dance | Bhavai dancing
+- Dollu Kunitha — Dollu Kunitha dance | Dollu Kunitha dancing
+- Pulikali — Tiger dance | Pulikali dance | Pulikali dancing
+- Cheraw — Cheraw dance | Cheraw dancing
+- Gotipua — Gotipua dance | Gotipua dancing
+- Rouf — Rouf dance | Rouf dancing
+- Bagurumba — Bagurumba dance | Bagurumba dancing
+- Chholiya — Chholiya dance | Chholiya dancing
+- Kandyan dance
+- Barong dance
+- Apsara dance
+- Khon — Khon dance | Khon dancing
+- Singkil — Singkil dance | Singkil dancing
+- Yosakoi — Yosakoi dance | Yosakoi dancing
+- Para Para — Para Para dance | Para Para dancing
+- Ribbon dance
+- Peacock dance
+- Sipi Tau — Sipi Tau dance | Sipi Tau dancing
+- Siva Tau — Siva Tau dance | Siva Tau dancing
+- Lakalaka — Lakalaka dance | Lakalaka dancing
+- Meke — Meke dance | Meke dancing
+- Pyrrhic dance — Pyrrhichios | Pyrrhichios dance | Pyrrhichios dancing
+- Ring shout — Ring shout dance | Ring shout dancing
+- Juba dance — Hambone | Hambone dance | Hambone dancing
+- Buck and wing
+- Shim Sham — Shim Sham Shimmy | Shim Sham dance | Shim Sham dancing | Shim Sham Shimmy dance | Shim Sham Shimmy dancing
+- Grizzly bear — Grizzly bear dance | Grizzly bear dancing
+- One-step — One-step dance | One-step dancing
+- Boston — Boston waltz | Boston dance | Boston dancing | Boston waltz dance | Boston waltz dancing
+- Veleta — Veleta dance | Veleta dancing
+- Paul Jones — Paul Jones dance | Paul Jones dancing
+- Jenkka — Jenkka dance | Jenkka dancing
+- Redowa — Redowa dance | Redowa dancing
+- Seguidillas — Seguidillas dance | Seguidillas dancing
+- Rachenitsa — Ruchenitsa | Rachenitsa dance | Rachenitsa dancing | Ruchenitsa dance | Ruchenitsa dancing
+- Tsifteteli — Tsifteteli dance | Tsifteteli dancing
+- Halay — Halay dance | Halay dancing
+- Mayim Mayim — Mayim Mayim dance | Mayim Mayim dancing
+- Ardah — Ardha | Ardah dance | Ardah dancing | Ardha dance | Ardha dancing
+- Tahtib — Tahtib dance | Tahtib dancing
+- Baladi — Baladi dance | Baladi dancing
+- Bandari — Bandari dance | Bandari dancing
+- Lazgi — Lazgi dance | Lazgi dancing
+- Kartuli — Kartuli dance | Kartuli dancing
+- Kochari — Kochari dance | Kochari dancing
+- Malambo — Malambo dance | Malambo dancing
+- Candombe — Candombe dance | Candombe dancing
+- Carimbó — Carimbó dance | Carimbó dancing
+- Guaguancó — Guaguancó dance | Guaguancó dancing
+- Punta — Punta dance | Punta dancing
+- Wining
+- Voladores — Danza de los Voladores | Voladores dance | Voladores dancing | Danza de los Voladores dance | Danza de los Voladores dancing
+- Round dance
+- Snake Dance
+- Kwassa kwassa — Kwassa kwassa dance | Kwassa kwassa dancing
+- Mapouka — Mapouka dance | Mapouka dancing
+- Atilogwu — Atilogwu dance | Atilogwu dancing
+- Adowa — Adowa dance | Adowa dancing
+- Gwara gwara — Gwara gwara dance | Gwara gwara dancing
+- Shaku shaku — Shaku shaku dance | Shaku shaku dancing
+- Zanku — Legwork | Zanku dance | Zanku dancing | Legwork dance | Legwork dancing
+- Zaouli — Zaouli dance | Zaouli dancing
+- Funky chicken — Funky chicken dance | Funky chicken dancing
+- Crank That — Soulja Boy | Crank That dance | Crank That dancing | Soulja Boy dance | Soulja Boy dancing
+- Wobble — Wobble dance | Wobble dancing
+- Renegade — Renegade dance | Renegade dancing
+- Default dance
+- Milly Rock — Milly Rock dance | Milly Rock dancing
+- Blues dance — Blues dancing
+- Peabody — Peabody dance | Peabody dancing
+- Ecstatic dance
+- Contact improvisation — Contact improv | Contact improvisation dance | Contact improvisation dancing | Contact improv dance | Contact improv dancing
+- Serpentine dance
+- Apache — Apache dance | Apache dancing
+- Bubble dance
+- Hoochie coochie — Hootchy-kootchy | Hoochie coochie dance | Hoochie coochie dancing | Hootchy-kootchy dance | Hootchy-kootchy dancing
+- Swim — Swim dance | Swim dancing
+- Jerk — Jerk dance | Jerk dancing
+- Sabar — Sabar dance | Sabar dancing
+- Saman — Saman dance | Saman dancing
+- Mapalé — Mapalé dance | Mapalé dancing
+
+### Tier 6: rare jackpots (3)
+
+- Horn Dance — Abbots Bromley Horn Dance | Abbots Bromley | Abbots Bromley dance | Abbots Bromley dancing | Horn dancing
+- Furry Dance — Floral Dance | Flora Dance | Helston Furry Dance | Flora Day | Helston | Flora Day dance | Flora Day dancing | Helston dance | Helston dancing | Furry dancing
+- Kecak — Ketjak | Monkey chant | Kecak dance | Kecak dancing | Ketjak dance | Ketjak dancing | Monkey chant dance | Monkey chant dancing
+
+## Refused on purpose (15)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Dance | Dancing | Folk dance | Folk dancing | Social dance | Social dancing | Greek dancing | Spanish dancing | Indian dance | African dance | Chinese dance — "Which dance? The deep wants a name."
+- Pirouette | Plié | Jeté | Grand jeté | Arabesque | Entrechat | Fouetté | Pas de chat | Splits | Cartwheel | Jazz hands | Box step | Twirl — "A single step or move, not a whole dance."
+- Rave | Powwow | Disco party | Dance party | Masked ball | Masquerade | Proms — "A party where dances happen. Name one of them."
+- Riverdance | Lord of the Dance — "A stage show, not a dance, though the Irish dancing in it counts."
+- Swan Lake | The Nutcracker | Giselle | The Rite of Spring | Sleeping Beauty | Coppélia | La Bayadère — "A ballet, one work rather than a kind of dance."
+- Strictly Come Dancing | Strictly | Dancing with the Stars | Dancing on Ice | So You Think You Can Dance — "A television show. Name a dance from it."
+- Dirty Dancing | Footloose | Billy Elliot | Flashdance | Saturday Night Fever | Step Up — "A film. Name a dance from it."
+- St Vitus' dance | Saint Vitus' dance — "An old name for an illness, Sydenham's chorea. Not a dance."
+- Dancing plague | Dancing mania | Choreomania — "A strange outbreak of 1518, when crowds in Strasbourg danced for days on end. A malady, not a dance."
+- Danse macabre | Dance of Death | Totentanz — "The Dance of Death: an allegory painted on church walls, not a dance anyone does."
+- Aerobics | Step aerobics | Keep fit | Pilates — "A workout, not a dance."
+- Gymnastics | Rhythmic gymnastics | Cheerleading | Figure skating | Ice skating | Synchronised swimming | Synchronized swimming | Artistic swimming — "A sport with dance in it, but not a dance itself."
+- Air guitar | Headbanging | Lip sync — "Moving to music, but not a dance."
+- Fado — "A song of longing, sung rather than danced."
+- Hula hoop — "A toy for twirling round the waist. The hula itself would count."

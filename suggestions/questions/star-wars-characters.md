@@ -1,0 +1,940 @@
+# Name a character from Star Wars.
+
+Question id: `star-wars-characters` · category: culture · source: `data/culture.json`
+
+Rules: Any character from the films, TV series, games, books and comics, including droids and creatures. Whole peoples and armies, like Ewoks or stormtroopers, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (843 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Luke Skywalker — Luke | Master Luke | Red Five
+- Darth Vader — Vader | Lord Vader | Anakin Skywalker | Anakin | Ani | Darth Vadar | Annie
+- Princess Leia — Leia | Leia Organa | Leia Organa Solo | General Leia | General Organa | Leia Skywalker | Princess Leia Organa | Senator Leia | Leah
+- Han Solo — Han | Solo | Hans Solo | Hans | Captain Solo
+- Chewbacca — Chewie | Chewy | Chewbaca
+- Yoda — Master Yoda | Grand Master Yoda
+- Obi-Wan Kenobi — Obi-Wan | Kenobi | Ben Kenobi | Old Ben | Obi-Wan Kenobe | General Kenobi | Old Ben Kenobi
+- Emperor Palpatine — Palpatine | Darth Sidious | Sidious | The Emperor | Sheev Palpatine | Sheev | Chancellor Palpatine | Senator Palpatine
+- Boba Fett — Boba
+- Jabba the Hutt — Jabba | Jaba | Jabba Desilijic Tiure
+- Darth Maul — Maul
+- Grogu — Baby Yoda | The Child | Din Grogu
+- Kylo Ren — Kylo | Ben Solo | Supreme Leader Kylo Ren | Ren
+- R2-D2 — Artoo | Artoo-Detoo | R2
+- C-3PO — C-3P0 | Threepio | See-Threepio | 3PO
+
+### Tier 2: common (30)
+
+- Rey — Rey Skywalker | Rey Palpatine | Ray
+- Jar Jar Binks — Jar Jar | Binks | Jar
+- Lando Calrissian — Lando | Calrissian
+- Padmé Amidala — Padmé | Amidala | Queen Amidala | Senator Amidala | Padmé Naberrie
+- Qui-Gon Jinn — Qui-Gon | Jinn | Qui-Gon Jin
+- Mace Windu — Mace | Windu
+- Count Dooku — Dooku | Darth Tyranus | Tyranus | Count Doku
+- General Grievous — Grievous | Grevious | General Grevious
+- Jango Fett — Jango
+- Finn — FN-2187
+- Poe Dameron — Poe | Dameron
+- Ahsoka Tano — Ahsoka | Ashoka | Asoka | Snips | Tano
+- Din Djarin — The Mandalorian | Mando | Din | Djarin | Din Jarin
+- Grand Moff Tarkin — Tarkin | Moff Tarkin | Wilhuff Tarkin | Governor Tarkin
+- Wicket — Wicket W. Warrick | Wicket the Ewok
+- Greedo
+- Supreme Leader Snoke — Snoke
+- General Hux — Hux | Armitage Hux
+- Captain Phasma — Phasma
+- Admiral Ackbar — Ackbar | Akbar | Admiral Akbar
+- Wedge Antilles — Wedge
+- Owen Lars — Uncle Owen | Owen
+- Cassian Andor — Cassian | Andor | Kassa
+- Jyn Erso — Jyn
+- Captain Rex — Rex | CT-7567
+- Grand Admiral Thrawn — Thrawn | Admiral Thrawn | Mitth'raw'nuruodo
+- Rose Tico — Rose
+- Maz Kanata — Maz | Kanata
+- BB-8
+- K-2SO — K2 | Kaytoo
+
+### Tier 3: known to fans (91)
+
+- Beru Lars — Aunt Beru | Beru | Beru Whitesun
+- Shmi Skywalker — Shmi
+- Watto
+- Sebulba
+- Mon Mothma
+- Bib Fortuna — Bib | Fortuna
+- Salacious Crumb — Salacious B. Crumb | Kowakian monkey-lizard | Salacious | Crumb
+- Bossk
+- Dengar
+- Lobot
+- Nien Nunb — Nien | Nunb
+- Biggs Darklighter — Biggs
+- Admiral Piett — Piett | Firmus Piett
+- Bail Organa — Bail
+- Plo Koon — Plo | Koon
+- Kit Fisto — Kit | Fisto
+- Ki-Adi-Mundi
+- Aayla Secura — Aayla | Secura
+- Nute Gunray — Nute | Gunray
+- Boss Nass — Nass
+- Asajj Ventress — Asajj | Ventress
+- Cad Bane — Cad
+- Savage Opress — Savage | Opress
+- Commander Cody — Cody | CC-2224
+- Ezra Bridger — Ezra
+- Kanan Jarrus — Kanan | Caleb Dume | Jarrus
+- Hera Syndulla — Hera
+- Sabine Wren — Sabine
+- Zeb Orrelios — Zeb | Garazeb Orrelios | Garazeb | Orrelios
+- Bo-Katan Kryze — Bo-Katan
+- Moff Gideon — Gideon
+- Cara Dune — Cara | Dune
+- Fennec Shand — Fennec | Shand
+- Greef Karga — Greef | Karga
+- The Armorer — The Armourer
+- Kuiil
+- Orson Krennic — Krennic | Director Krennic | Orson
+- Saw Gerrera — Saw
+- Chirrut Îmwe — Chirrut | Îmwe
+- Baze Malbus — Baze | Malbus
+- Bodhi Rook — Bodhi
+- Galen Erso — Galen
+- Qi'ra
+- Tobias Beckett — Beckett | Becket | Tobias
+- Amilyn Holdo — Holdo | Vice Admiral Holdo | Admiral Holdo | Amilyn
+- Luthen Rael — Luthen | Rael
+- Dedra Meero — Dedra | Meero
+- Syril Karn — Syril | Karn
+- Starkiller — Galen Marek | Darth Starkiller
+- Revan — Darth Revan
+- Mara Jade — Mara Jade Skywalker | Mara
+- Darth Plagueis — Plagueis | Darth Plagueis the Wise | Plagueis the Wise
+- Cal Kestis — Cal | Kestis
+- Grand Inquisitor
+- Hunter
+- Wrecker
+- Tech
+- Crosshair
+- Echo
+- Omega
+- Fives
+- Yaddle
+- Dexter Jettster — Dexter | Dex | Jettster
+- Zam Wesell — Zam | Wesell
+- Hondo Ohnaka — Hondo | Ohnaka
+- Satine Kryze — Duchess Satine | Satine
+- Captain Panaka — Panaka
+- Chancellor Valorum — Valorum | Finis Valorum
+- Shaak Ti — Shaak
+- Luminara Unduli — Luminara | Unduli
+- Barriss Offee — Barriss | Offee
+- Darth Bane
+- Max Rebo — Max | Rebo
+- Porkins — Jek Porkins | Red Six
+- Peli Motto — Peli | Motto
+- Agent Kallus — Kallus | Alexsandr Kallus
+- Third Sister — Reva | Reva Sevander | Third
+- Babu Frik — Babu | Frik
+- DJ
+- Unkar Plutt — Plutt | Unkar
+- Chopper — C1-10P
+- BD-1
+- IG-88
+- IG-11
+- L3-37 — L3
+- Rancor
+- Sarlacc
+- Wampa
+- Tauntaun
+- Porg
+- Rotta the Hutt — Rotta | Stinky
+
+### Tier 4: obscure (264)
+
+- Mother Talzin — Talzin
+- Pre Vizsla
+- Paz Vizsla — Paz
+- Migs Mayfeld — Mayfeld | Migs
+- Cobb Vanth — Cobb | Vanth | Marshal Vanth
+- Doctor Aphra — Aphra | Dr. Aphra | Chelli Aphra
+- Admiral Ozzel — Ozzel
+- General Veers — Veers
+- Captain Needa — Needa
+- Moff Jerjerrod — Jerjerrod
+- General Dodonna — Dodonna | Jan Dodonna
+- Admiral Motti — Motti
+- Sy Snootles — Snootles
+- Oola
+- Ponda Baba — Walrus Man | Ponda
+- Doctor Evazan — Dr. Evazan | Evazan | Cornelius Evazan
+- Chief Chirpa — Chirpa
+- Zuckuss
+- Jocasta Nu — Jocasta
+- Poggle the Lesser — Poggle
+- Ziro the Hutt — Ziro
+- Quinlan Vos — Quinlan
+- Aurra Sing — Sing | Aurra
+- Pong Krell — Krell
+- Commander Wolffe — Wolffe | Wolf | Commander Wolf
+- Fifth Brother
+- Second Sister — Trilla Suduri | Trilla
+- Baylan Skoll — Baylan
+- Shin Hati — Hati | Shin
+- Morgan Elsbeth — Elsbeth | Morgan
+- Jacen Syndulla
+- Arihnda Pryce — Governor Pryce | Pryce
+- Depa Billaba — Billaba
+- Nala Se
+- Sifo-Dyas — Master Sifo-Dyas | Syfo-Dias
+- Tarfful
+- Lor San Tekka — Tekka
+- Paige Tico — Paige
+- Allegiant General Pryde — General Pryde | Pryde | Enric Pryde
+- Zorii Bliss — Zorii | Bliss
+- Dryden Vos — Dryden
+- Enfys Nest — Nest | Enfys
+- Val
+- Rio Durant — Durant | Rio
+- Frog Lady
+- The Client
+- Doctor Pershing — Dr. Pershing | Pershing | Penn Pershing
+- Black Krrsantan — Krrsantan
+- Bix Caleen — Bix | Caleen
+- Kino Loy — Kino | Loy
+- Vel Sartha — Vel | Sartha
+- Maarva Andor — Maarva
+- Kleya Marki — Kleya
+- Karis Nemik — Nemik
+- Cinta Kaz — Cinta
+- Osha Aniseya — Osha
+- Mae Aniseya — Mae
+- Master Sol — Sol
+- Qimir — The Stranger
+- Vernestra Rwoh — Vernestra | Rwoh
+- Wim
+- Neel
+- Fern
+- KB
+- Jod Na Nawood — Jod | Nawood
+- Kay Vess — Kay | Vess
+- Cere Junda — Cere | Junda
+- Greez Dritus — Dritus | Greez
+- Merrin
+- Kreia — Darth Traya | Traya
+- Darth Nihilus — Nihilus
+- Darth Sion — Sion
+- Bastila Shan — Bastila | Shan
+- Carth Onasi — Carth
+- Darth Malak — Malak
+- Kyle Katarn — Katarn | Kyle
+- Iden Versio — Iden
+- Jacen Solo — Darth Caedus | Caedus
+- Jaina Solo — Jaina
+- Hobbie — Hobbie Klivian
+- Commander Bly — Bly
+- Commander Fox — Fox
+- Captain Gregor — Gregor
+- Hardcase
+- Jesse
+- Kix
+- Tup
+- Dogma
+- Waxer
+- Boil
+- Hevy
+- 99
+- Agen Kolar — Kolar
+- Saesee Tiin — Tiin
+- Eeth Koth — Koth
+- Even Piell — Piell
+- Adi Gallia — Gallia
+- Stass Allie — Allie
+- Lux Bonteri — Lux
+- Embo
+- Mas Amedda — Amedda
+- Sly Moore — Moore
+- Wat Tambor — Tambor
+- Lama Su
+- Taun We
+- Orn Free Taa — Taa
+- The Father
+- The Son
+- The Daughter
+- Seventh Sister
+- Fenn Rau — Rau
+- Gar Saxon
+- Ursa Wren — Ursa
+- Cham Syndulla — Cham
+- Commander Sato — Jun Sato
+- Admiral Yularen — Yularen
+- Cid
+- Doctor Hemlock — Dr. Hemlock | Hemlock
+- Vice Admiral Rampart — Admiral Rampart | Rampart
+- Captain Typho — Typho
+- Cliegg Lars
+- Kitster
+- Captain Tarpals — Tarpals
+- Sio Bibble — Governor Bibble | Bibble
+- Ric Olié
+- Ben Quadinaros — Quadinaros
+- Gasgano
+- Elan Sleazebaggano — Sleazebaggano
+- General Rieekan — Rieekan
+- General Madine — Madine | Crix Madine
+- Captain Antilles — Raymus Antilles
+- Red Leader — Garven Dreis
+- Gold Leader — Dutch Vander | Jon Vander
+- Dak Ralter — Ralter
+- Figrin D'an
+- Momaw Nadon — Hammerhead
+- Malakili
+- Droopy McCool — McCool
+- Boushh
+- Logray
+- Teebo
+- Paploo
+- Klaatu
+- Snap Wexley — Temmin Wexley | Snap
+- Kaydel Ko Connix — Connix
+- Lieutenant Mitaka — Mitaka
+- Lyra Erso — Lyra
+- General Draven — Draven
+- Admiral Raddus — Raddus
+- Bor Gullet — Gullet
+- Ruescott Melshi — Melshi
+- Lady Proxima — Proxima
+- Moloch
+- Jannah
+- Koska Reeves — Reeves | Koska
+- Axe Woves — Woves | Axe
+- Xi'an
+- Toro Calican — Calican
+- Burg
+- Omera
+- Carson Teva — Captain Teva | Teva | Carson
+- Elia Kane
+- Ragnar Vizsla — Ragnar
+- Garsa Fwip — Fwip | Garsa | Madam Garsa | Madame Garsa
+- Brasso
+- Wilmon Paak — Wilmon
+- Major Partagaz — Partagaz
+- Lonni Jung
+- Tala Durith — Durith
+- Jecki Lon — Jecki
+- Yord Fandar — Yord
+- Master Indara — Indara
+- Torbin
+- Mother Aniseya
+- Mother Koril — Koril
+- Fara
+- Wendle
+- Brutus
+- Bode Akuna — Bode
+- Dagan Gera — Dagan
+- Taron Malicos — Malicos
+- Canderous Ordo — Mandalore the Preserver | Canderous | Ordo
+- Mission Vao — Vao | Mission
+- Zaalbar
+- Juhani
+- Jolee Bindo — Jolee | Bindo
+- Atton Rand — Atton
+- Visas Marr — Visas
+- Darth Malgus — Malgus
+- Satele Shan — Satele
+- Juno Eclipse — Eclipse | Juno
+- Rahm Kota — Kota | General Kota
+- Jan Ors — Ors
+- Dash Rendar — Dash | Rendar
+- Prince Xizor — Xizor
+- Anakin Solo
+- Ben Skywalker
+- Kyp Durron — Durron | Kyp
+- Talon Karrde — Karrde
+- Gilad Pellaeon — Pellaeon
+- Corran Horn — Horn | Corran
+- Exar Kun — Kun | Exar
+- Darth Krayt
+- Cade Skywalker — Cade
+- Natasi Daala — Admiral Daala | Daala
+- Ysanne Isard — Isard
+- HK-47
+- D-O
+- R5-D4
+- 2-1B
+- Huyang
+- B2EMO — Bee
+- 4-LOM
+- SM-33
+- Gonk droid — Gonk | GNK power droid | Gonky
+- Probe droid — Viper probe droid | Probot
+- Mudhorn
+- Krayt dragon
+- Space slug — Exogorth
+- Mynock
+- Dewback
+- Bantha
+- Rathtar
+- Dianoga
+- Acklay
+- Nexu
+- Reek
+- Zillo Beast
+- Loth-wolf
+- Purrgil
+- T3-M4
+- EV-9D9
+- 8D8
+- AP-5
+- 0-0-0 — Triple-Zero
+- BT-1
+- PROXY
+- G0-T0
+- Mouse droid — MSE-6
+- IG-12
+- Q9-0 — Zero
+- Kaadu
+- Eopie
+- Ronto
+- Varactyl
+- Fathier
+- Vulptex
+- Loth-cat
+- Blurrg
+- Mythosaur
+- Womp rat
+- Gundark
+- Ysalamiri
+- Batcher
+- Nix
+- Colonel Ward
+- Darth Jar Jar
+- Sabé
+- Breha Organa — Queen Breha | Breha
+- Riyo Chuchi — Chuchi | Senator Chuchi
+- Kelleran Beq — Beq
+- FN-2199 — TR-8R | Nines
+- Trace Martez — Trace
+- Rafa Martez — Rafa
+
+### Tier 5: expert (440)
+
+- Commander Bacara — Bacara
+- Commander Neyo — Neyo
+- Commander Appo — Appo
+- Commander Gree — Gree
+- Cutup
+- Droidbait
+- Yarael Poof — Poof
+- Oppo Rancisis — Rancisis
+- Coleman Trebor — Trebor
+- Admiral Trench
+- Riff Tamson — Tamson
+- Lee-Char — Prince Lee-Char
+- Mina Bonteri
+- Steela Gerrera
+- Rush Clovis — Clovis
+- Onaconda Farr
+- Korkie Kryze
+- Almec — Prime Minister Almec
+- Rook Kast — Kast
+- Latts Razzi — Razzi
+- Moralo Eval
+- Cato Parasitti — Parasitti
+- Sugi
+- Seripas
+- Tera Sinube — Sinube
+- Feral
+- Colonel Gascon — Meebur Gascon | Gascon
+- San Hill
+- Shu Mai
+- Passel Argente — Argente
+- Rune Haako — Haako
+- Durge
+- Eighth Brother
+- Ninth Sister — Masana Tide
+- Fourth Sister
+- Marrok
+- Minister Tua — Maketh Tua
+- Tristan Wren
+- Ketsu Onyo
+- Rukh
+- Gall Trayvis — Trayvis
+- Cikatro Vizago — Vizago
+- Azmorigan
+- Ryder Azadi — Azadi
+- Mart Mattin — Mattin
+- Admiral Konstantine — Konstantine
+- Zare Leonis — Leonis
+- Jai Kell
+- Klik-Klak
+- The Bendu
+- Emerie Karr
+- Phee Genoa — Genoa
+- Scorch
+- Mayday
+- Cordé
+- Dormé
+- Tion Medon — Medon
+- Ratts Tyerell — Tyerell
+- Teemto Pagalies — Pagalies
+- General Tagge — Tagge
+- Zev Senesca — Senesca
+- Garindan
+- Wuher
+- Muftak
+- Labria
+- Ephant Mon
+- Yarna d'al' Gargan
+- Ree-Yees
+- Rystáll Sant
+- Joh Yowza — Yowza
+- Barada
+- Nikto
+- Kneesaa
+- Cindel Towani — Towani
+- Itchy — Attichitcuk
+- Malla — Mallatobuck
+- Ackmena
+- Jess Pava — Pava
+- Ello Asty — Asty
+- Larma D'Acy — D'Acy
+- Captain Canady — Canady
+- Bala-Tik
+- Tasu Leech — Leech
+- Ochi of Bestoon — Ochi
+- Beaumont Kin
+- Temiri Blagg — Broom Boy | Blagg
+- Bazine Netal — Netal
+- Bistan
+- Pao
+- General Merrick — Merrick
+- Ranzar Malk — Ran Malk | Ran
+- Mythrol
+- Captain Bombardier
+- Gorian Shard
+- Mok Shaiz — Shaiz
+- Drash
+- Salman Paak
+- Blevin
+- Arvel Skeen — Skeen
+- Lieutenant Gorn
+- Clem Andor
+- Perrin Fertha — Fertha
+- Tay Kolma
+- Davo Sculdun — Sculdun
+- Leida Mothma
+- Eedy Karn
+- Dr. Gorst — Gorst
+- Ulaf
+- Timm Karlo — Karlo
+- Haja Estree — Estree
+- Roken — Kawlan Roken
+- Captain Enoch
+- Kelnacca
+- Bazil
+- Kh'ymm
+- Devon Izara
+- Brander Lawson
+- Sliro Barsha — Barsha
+- Jaylen Vrax — Vrax
+- Rayvis
+- Eno Cordova — Cordova
+- Turgle
+- Prauf
+- Jaro Tapal — Tapal
+- Skoova Stev
+- Calo Nord — Nord
+- Darth Bandon
+- Hanharr
+- Bao-Dur
+- Meetra Surik — The Exile | Jedi Exile | Surik | Meetra
+- Valkorion — Vitiate | Darth Vitiate
+- Darth Marr
+- Lana Beniko — Beniko | Lana
+- Theron Shan — Theron
+- Arcann
+- Vaylin
+- Maris Brood — Brood
+- Kazdan Paratus — Paratus
+- Jerec
+- Jaden Korr
+- Desann
+- Tavion
+- Del Meeko
+- Gideon Hask
+- Fixer
+- Sev
+- Guri
+- Joruus C'baoth — C'baoth
+- Darth Zannah — Zannah
+- Ulic Qel-Droma — Qel-Droma
+- Nomi Sunrider — Sunrider
+- Vergere
+- Lumiya
+- Tenel Ka
+- Garm Bel Iblis — Iblis
+- Borsk Fey'lya — Fey'lya
+- Winter
+- Abeloth
+- Tahiri Veila — Veila
+- Tsavong Lah — Lah
+- Lowbacca — Lowie
+- Zekk
+- Wes Janson — Janson
+- Tycho Celchu — Celchu | Tycho
+- Gavin Darklighter
+- Marka Ragnos — Ragnos
+- Freedon Nadd — Nadd
+- Naga Sadow — Sadow
+- Darth Talon
+- Sana Starros — Starros
+- Eli Vanto — Vanto
+- Rae Sloane — Sloane
+- Norra Wexley
+- Jas Emari — Emari
+- Sinjir Rath Velus — Velus
+- Gallius Rax — Rax
+- Avar Kriss — Kriss
+- Elzar Mann
+- Stellan Gios — Gios
+- Loden Greatstorm — Greatstorm
+- Bell Zettifar — Zettifar
+- Burryaga
+- Keeve Trennis — Trennis
+- Marchion Ro
+- Lourna Dee
+- Imri Cantaros — Cantaros
+- Reath Silas — Silas
+- Cohmac Vitus — Vitus
+- Orla Jareni — Jareni
+- Porter Engle
+- Sskeer
+- Lina Soh
+- Kazuda Xiono — Kaz Xiono
+- Tam Ryvora — Ryvora
+- Jarek Yeager — Yeager
+- Neeku Vozo — Neeku | Vozo
+- Torra Doza
+- Hype Fazon — Fazon
+- Synara San
+- Kragan Gorr — Gorr
+- Major Vonreg
+- Commander Pyre
+- Kai Brightstar — Brightstar
+- Lys Solay — Solay
+- Nash Durango — Durango
+- Master Zia
+- R4-P17
+- R3-S6 — Goldie
+- WAC-47
+- AZI-3
+- NED-B
+- L0-LA59 — Lola
+- R7-A7
+- RJ-83
+- OOM-9
+- TC-14
+- CB-23
+- Bucket — R1-J5
+- ND-5
+- ZN-A4 — Zee
+- Pip
+- Mister Bones — Mr. Bones
+- Pit droid
+- Ember
+- Morai
+- Dume
+- Opee sea killer
+- Sando aqua monster
+- Colo claw fish
+- Happabore
+- Thala-siren
+- Convor
+- Massiff
+- Akk dog
+- Worrt
+- Krykna
+- Fyrnock
+- Gorax
+- Bogwing
+- Dragonsnake
+- Tooka
+- Fambaa
+- Falumpaset
+- Boss — RC-1138
+- Boga
+- Commander Ponds — Ponds
+- Commander Thire — Thire
+- Commander Doom — Doom
+- Captain Keeli — Keeli
+- Commander Thorn — Thorn
+- Oruba the Hutt — Oruba
+- Arok the Hutt — Arok
+- Marlo the Hutt — Marlo
+- Gardulla the Hutt — Gardulla
+- Mama the Hutt
+- Tseebo
+- Teedo
+- Leebo
+- Mira Bridger
+- Ephraim Bridger
+- Mira
+- Teek
+- Seek
+- Morag
+- Kybo Ren
+- Tallie Lintra — Tallie
+- Jira
+- Yané
+- Vane
+- Captain Silvo — Silvo
+- Eirtaé
+- Rabé
+- Saché
+- TK-421
+- Lang — Captain Lang
+- Valin Hess — Hess
+- Brendol Hux
+- The Duchess
+- Commissioner Helgait — Helgait
+- Winta
+- Qin
+- Trapper Wolf
+- Hutt Twins — The Twins
+- Majordomo
+- Skad
+- Dokk Strassi
+- Tak Rennod — Captain Tak Rennod | Captain Rennod | Rennod
+- Senator Rayencourt — Rayencourt
+- Sergeant Mosk — Mosk
+- Chief Hyne — Hyne
+- Supervisor Heert — Heert
+- Vect Nokru
+- Klothow
+- Aklay
+- Lorgo
+- Sig Greebling — Sig
+- Dev Greebling — Darth Dev | Devastator
+- Jedi Bob
+- Yesi Scala
+- Servo
+- Solitus
+- Jaxxon
+- TAY-0
+- Two-Boots
+- Eeko-Dio Daki — Master Eeko-Dio Daki
+- Looti Vario
+- Rylee Lawson
+- Rheena Sul
+- Icarus
+- Sergeant Slick — Slick
+- Sinker
+- Boost
+- Hawk
+- Oddball
+- Colt
+- Captain Howzer — Howzer
+- Todo 360
+- Pilf Mukmuk
+- Turk Falso
+- Old Daka
+- Lok Durd
+- General Kalani — Kalani
+- Halle Burtoni
+- Lott Dod
+- Nahdar Vebb
+- Tiplar
+- Tiplee
+- Gungi
+- Katooni
+- Petro
+- Zatt
+- Byph
+- Ganodi
+- Boss Lyonie — Lyonie
+- Rish Loo
+- Bolla Ropal
+- Highsinger
+- Robonino
+- Shahan Alama
+- Commandant Aresko — Aresko
+- Taskmaster Grint — Grint
+- Lieutenant Lyste — Lyste
+- Old Jho
+- Morad Sumar
+- Tiber Saxon
+- Alrich Wren
+- Tarre Vizsla
+- Captain Doza — Imanuel Doza
+- Flix
+- Orka
+- Griff Halloran
+- Hamato Xiono
+- Aunt Z
+- Kata Akuna
+- Sorc Tormo
+- Mical — The Disciple
+- Brianna — The Handmaiden
+- Atris
+- Vrook Lamar — Vrook
+- Vandar Tokare — Vandar
+- Zhar Lestin — Zhar
+- Saul Karath — Admiral Karath
+- Dustil Onasi
+- Yuthura Ban
+- Uthar Wynn
+- Shriv Suurgav — Shriv
+- Zay Versio
+- Garrick Versio
+- Rosh Penin
+- Jagged Fel — Jag Fel
+- Nom Anor
+- Ciena Ree
+- Thane Kyrell
+- Kir Kanos
+- Callista — Callista Ming
+- Raynar Thul
+- Charal
+- King Terak — Terak
+- Noa Briqualon — Noa
+- Latara
+- Jann Tosh
+- Kea Moll
+- Thall Joben
+- Mungo Baobab
+- Constable Zuvio — Zuvio
+- Grummgar
+- Sidon Ithano — Crimson Corsair
+- Admiral Statura — Statura
+- Major Ematt — Ematt
+- Captain Peavey — Peavey
+- BB-9E
+- Vicrul
+- Cardo
+- Trudgen
+- Kuruk
+- Ushar
+- Ap'lek
+- Klaud
+- Boolio
+- Aftab Ackbar
+- Yak Face — Saelt-Marae
+- Squid Head — Tessek
+- Prune Face — Orrimaarko
+- Hermi Odle
+- Amanaman
+- Lyn Me
+- Greeata
+- Rappertunie
+- Jubnuk
+- Arvel Crynyd
+- Kabe
+- Hem Dazon
+- Toryn Farr
+- Bren Derlin — Major Derlin
+- FX-7
+- Davish Krail — Gold Five
+- John D. Branon
+- Tiree
+- General Willard — Willard
+- Chief Bast — Bast
+- Commander Praji — Praji
+- Aldar Beedo
+- Mawhonic
+- Ody Mandrell
+- Bumpy Roose — Ark Roose
+- Clegg Holdfast
+- Dud Bolt
+- Fode and Beed — Fode | Beed
+- Wald
+- Amee
+- Sola Naberrie
+- Ruwee Naberrie
+- Jobal Naberrie
+- Daultay Dofine
+- Sun Fac
+- Tivik
+- Edrio Two Tubes
+- Benthic Two Tubes
+- Weeteef Cyu-Bee
+- Nubs
+
+### Tier 6: rare jackpots (3)
+
+- Lumpy — Lumpawarrump | Lumpawaroo
+- Willrow Hood — Ice Cream Maker Guy
+- Snaggletooth — Zutton
+
+## Refused on purpose (63)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Skywalker — "Which Skywalker? Luke and Anakin are only the start."
+- Lars — "Which Lars? Uncle Owen's whole family shares the name."
+- Kryze — "Which Kryze? A whole Mandalorian ruling family shares it."
+- Syndulla — "Which Syndulla? A Twi'lek family of rebels shares it."
+- Tico — "Which Tico? Rose and her sister share the name."
+- Vizsla — "Which Vizsla? Several Mandalorians share it."
+- Aniseya — "Which Aniseya? Twin sisters share it, and so does one of their mothers."
+- Vos — "Which Vos? A Jedi and a crime lord share it."
+- Organa — "Which Organa? Leia's adoptive family shares the name."
+- Bane — "Which Bane? A Sith Lord and a gunslinger share it."
+- Darth — "Which Darth? Vader is only the start."
+- Ben — "Which Ben? Kenobi and Solo both went by it."
+- Mon — "Which one? Two different characters share that name."
+- Jacen — "Which Jacen? Two sons of rebel heroes share the name."
+- Bonteri — "Which Bonteri? Two of the same family share it."
+- Wexley — "Which Wexley? Two of the same family share it."
+- Ewok | Ewoks — "A whole people, not one character. Wicket is the one everyone remembers."
+- Wookiee | Wookiees | Wookie | Wookies — "A whole people, not one character. Chewbacca is the famous one."
+- Jawa | Jawas — "A whole people of desert scavengers, not one character."
+- Tusken Raider | Tusken Raiders | Sand People | Tuskens | Tusken — "A whole people, not one character."
+- Gungan | Gungans — "A whole people, not one character. Jar Jar is the one you're thinking of."
+- Hutt | Hutts — "A whole people, not one character. Jabba is the famous one."
+- Twi'lek | Twi'leks | Rodian | Trandoshan | Gamorrean | Gamorrean guard | Mon Calamari | Bothan | Ugnaught | Kaminoan | Geonosian | Togruta | Zabrak | Chiss | Yuuzhan Vong | Nightsisters | Lasat | Neimoidian — "A whole people, not one character."
+- Stormtrooper | Stormtroopers | Clone trooper | Clone troopers | Clones | Snowtrooper | Scout trooper | Sandtrooper | Death trooper | Shoretrooper | TIE pilot | TIE fighter pilot | Royal Guard | Imperial Royal Guard | Praetorian Guard | Purge trooper | Dark trooper | Rebel trooper | Night Trooper | Night Troopers — "Faceless troops, not one character. FN-2187 was one, once."
+- Battle droid | Battle droids | B1 battle droid | Super battle droid | Droideka | Destroyer droid | MagnaGuard | Commando droid | Buzz droid — "A whole droid army, not one character."
+- Astromech | Astromech droid — "A whole class of droid. Name one, like R2-D2."
+- Protocol droid — "A whole class of droid. Name one, like C-3PO."
+- Jedi | Jedi Knight | Jedi Master | Jedi Council | Jedi Order | Youngling | Padawan — "An order of knights, not one character."
+- Sith | Sith Lord — "An order, not one character. Its Lords take the title Darth."
+- Inquisitor | Inquisitors | Inquisitorius — "Which one? The Empire had a whole order of Jedi hunters."
+- Knights of Ren | Knight of Ren — "A band of six, not one character. Name one of them."
+- Bad Batch | Clone Force 99 — "A whole squad. Name one of its members."
+- Rogue One | Rogue Squadron — "The whole team's call sign, not one character."
+- Rebel Alliance | Rebels | Rebellion | The Resistance | First Order | Galactic Empire | The Empire | Separatists | Galactic Republic | New Republic | Trade Federation — "A whole army, not one character."
+- Millennium Falcon | The Falcon | X-wing | TIE fighter | Star Destroyer | AT-AT | Slave I | Razor Crest | The Ghost | Tantive IV | Y-wing — "A ship, not a character, whatever Han says to it."
+- Death Star | Death Star II | Starkiller Base — "A battle station, not a character. That's no moon."
+- Lightsaber | Lightsabre | Darksaber | Blaster — "A weapon, not a character."
+- The Force | Midichlorians — "Not a character, though some say it has a will of its own."
+- Tatooine | Hoth | Endor | Naboo | Coruscant | Dagobah | Alderaan | Mustafar | Kashyyyk | Jakku | Bespin | Kamino | Geonosis | Lothal | Scarif | Jedha | Exegol | Yavin | Yavin 4 | Mos Eisley | Cloud City | Utapau | Ferrix | Ahch-To | Crait | Dathomir — "A planet, not a character."
+- Mark Hamill | Harrison Ford | Carrie Fisher | George Lucas | Ewan McGregor | Hayden Christensen | Natalie Portman | Adam Driver | Daisy Ridley | John Boyega | Oscar Isaac | Pedro Pascal | James Earl Jones | Alec Guinness | Peter Mayhew | Anthony Daniels | Kenny Baker | Liam Neeson | Ian McDiarmid | Samuel L. Jackson | Christopher Lee | Billy Dee Williams | Diego Luna | Felicity Jones | Rosario Dawson | Temuera Morrison | Frank Oz | Ray Park | David Prowse | Jude Law | Amandla Stenberg | Andy Serkis | Domhnall Gleeson | Gwendoline Christie | Kelly Marie Tran | Lupita Nyong'o | Donald Glover | Alden Ehrenreich | Emilia Clarke | Peter Cushing | Ahmed Best | Jon Favreau | Dave Filoni | J. J. Abrams | Rian Johnson | John Williams — "A real person behind the films, not a character."
+- Spock | Mr. Spock | Captain Kirk | James T. Kirk | Jean-Luc Picard | Picard | Worf | Uhura | Scotty | Sulu | Chekov — "Star Trek, not Star Wars."
+- Dark Helmet | Lone Starr | Barf | President Skroob | Yogurt | Princess Vespa | Pizza the Hutt | Dot Matrix — "From Spaceballs, Mel Brooks's spoof, not Star Wars."
+- Luke Starkiller — "Luke's surname in early drafts of the script. He became a Skywalker."
+- Fett — "Which Fett? Boba and Jango share it."
+- Erso — "Which Erso? Jyn's whole family shares it."
+- Antilles — "Which Antilles? Wedge and a rebel captain share it."
+- Wren — "Which Wren? A whole Mandalorian family shares it."
+- Gerrera — "Which Gerrera? A rebel and his sister share it."
+- Mothma — "Which Mothma? It runs in the family."
+- Darklighter — "Which Darklighter? Two pilots from the same family share it."
+- Kaz — "Which Kaz? Two quite different characters go by it."
+- Fulcrum — "Which Fulcrum? Ahsoka was only the first spy to use the name."
+- Bridger — "Which Bridger? A whole family from Lothal shares it."
+- Lawson — "Which Lawson? Two characters share it."
+- Naberrie — "Which Naberrie? Padmé's whole family shares it."
+- Saxon — "Which Saxon? Two Mandalorian brothers share it."
+- Xiono — "Which Xiono? It runs in the family."
+- Akuna — "Which Akuna? It runs in the family."
+- Versio — "Which Versio? Three generations of one family share it."
+- Martez — "Which Martez? Two sisters share it."
+- Two Tubes — "Which one? Two brothers share the name."
+- Mandalorians — "A whole people, not one character. Din Djarin is the one you're thinking of."
+- Mandalore — "A planet, and a title many Mandalorians have held. Name one of them."

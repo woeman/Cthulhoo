@@ -1,0 +1,692 @@
+# Name a stage musical.
+
+Question id: `stage-musicals` · category: culture · source: `data/culture.json`
+
+Rules: Any musical staged in a theatre, on Broadway, in the West End or anywhere else. Operettas and stage versions of films count; operas, plays and film musicals never staged don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (637 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (14)
+
+- Les Misérables — Les Mis | Les Miz | Les Misérables the Musical | Les Misérables musical | Les Mis the Musical | Les Mis musical | Les Miz the Musical | Les Miz musical
+- The Phantom of the Opera — Phantom | The Phantom of the Opera the Musical | The Phantom of the Opera musical | Phantom the Musical | Phantom musical
+- Hamilton — Hamilton: An American Musical | Hamilton the Musical | Hamilton musical
+- Cats — Cats: The Jellicle Ball | The Jellicle Ball | Cats the Musical | Cats musical | Cats: The Jellicle Ball the Musical | Cats: The Jellicle Ball musical | The Jellicle Ball the Musical | The Jellicle Ball musical
+- The Lion King — The Lion King the Musical | The Lion King musical
+- Wicked — Wicked: For Good | Wicked the Musical | Wicked musical | Wicked: For Good the Musical | Wicked: For Good musical
+- Mamma Mia! — Mamma Mia the Musical | Mamma Mia! musical
+- Grease — Grease the Musical | Grease musical
+- Chicago — Chicago the Musical | Chicago musical
+- The Sound of Music — The Sound of Music the Musical | The Sound of Music musical
+- West Side Story — West Side Story the Musical | West Side Story musical
+- Matilda — Matilda the Musical | Matilda musical
+- Oliver! — Oliver the Musical | Oliver! musical
+- Joseph and the Amazing Technicolor Dreamcoat — Joseph | Joseph and the Amazing Technicolour Dreamcoat | Technicolor Dreamcoat | Technicolour Dreamcoat | Joseph and the Amazing Technicolor Dreamcoat the Musical | Joseph and the Technicolor Dreamcoat | Joseph and the Technicolour Dreamcoat | Amazing Technicolor Dreamcoat | Amazing Technicolour Dreamcoat | Joseph and the Amazing Technicolor Dreamcoat musical | Joseph the Musical | Joseph musical | Joseph and the Amazing Technicolour Dreamcoat the Musical | Joseph and the Amazing Technicolour Dreamcoat musical | Technicolor Dreamcoat the Musical | Technicolor Dreamcoat musical | Technicolour Dreamcoat the Musical | Technicolour Dreamcoat musical | Joseph and the Technicolor Dreamcoat the Musical | Joseph and the Technicolor Dreamcoat musical | Joseph and the Technicolour Dreamcoat the Musical | Joseph and the Technicolour Dreamcoat musical | Amazing Technicolor Dreamcoat the Musical | Amazing Technicolor Dreamcoat musical | Amazing Technicolour Dreamcoat the Musical | Amazing Technicolour Dreamcoat musical
+
+### Tier 2: common (39)
+
+- Evita — Evita the Musical | Evita musical
+- Jesus Christ Superstar — Superstar | Jesus Christ Superstar the Musical | JCS | Jesus Christ Superstar musical | Superstar the Musical | Superstar musical | JCS the Musical | JCS musical
+- Miss Saigon — Miss Saigon the Musical | Miss Saigon musical
+- The Book of Mormon — The Book of Mormon the Musical | The Book of Mormon musical
+- Hairspray — Hairspray the Musical | Hairspray musical
+- Rent — Rent the Musical | Rent musical
+- Cabaret — Cabaret the Musical | Cabaret at the Kit Kat Club | Cabaret musical | Cabaret at the Kit Kat Club the Musical | Cabaret at the Kit Kat Club musical
+- My Fair Lady — My Fair Lady the Musical | My Fair Lady musical
+- Annie — Annie the Musical | Annie musical
+- Fiddler on the Roof — Fiddler | Fiddler on the Roof the Musical | Fiddler on the Roof musical | Fiddler the Musical | Fiddler musical
+- Oklahoma! — Oklahoma the Musical | Oklahoma! musical
+- The King and I — The King and I the Musical | The King and I musical
+- South Pacific — South Pacific the Musical | South Pacific musical
+- Mary Poppins — Mary Poppins the Musical | Mary Poppins musical
+- Billy Elliot — Billy Elliot the Musical | Billy Elliot musical
+- Dear Evan Hansen — Dear Evan Hansen the Musical | Dear Evan Hansen musical
+- Six — Six the Musical | Six musical
+- Hadestown — Hadestown the Musical | Hadestown musical
+- Little Shop of Horrors — Little Shop | Little Shop of Horrors the Musical | Little Shop of Horrors musical | Little Shop the Musical | Little Shop musical
+- The Rocky Horror Show — Rocky Horror | The Rocky Horror Picture Show | The Rocky Horror Show the Musical | The Rocky Horror Show musical | Rocky Horror the Musical | Rocky Horror musical | The Rocky Horror Picture Show the Musical | The Rocky Horror Picture Show musical
+- Sweeney Todd — Sweeney Todd: The Demon Barber of Fleet Street | Sweeney Todd the Musical | Sweeney Todd musical | Sweeney Todd: The Demon Barber of Fleet Street the Musical | Sweeney Todd: The Demon Barber of Fleet Street musical
+- Into the Woods — Into the Woods the Musical | Into the Woods musical
+- Guys and Dolls — Guys and Dolls the Musical | Guys and Dolls musical
+- Starlight Express — Starlight Express the Musical | Starlight | Starlight Express musical | Starlight the Musical | Starlight musical
+- Blood Brothers — Blood Brothers the Musical | Blood Brothers musical
+- Aladdin — Aladdin the Musical | Aladdin musical
+- Frozen — Frozen the Musical | Frozen musical
+- Beauty and the Beast — Beauty and the Beast the Musical | Beauty and the Beast musical
+- Kinky Boots — Kinky Boots the Musical | Kinky Boots musical
+- Jersey Boys — Jersey Boys the Musical | Jersey Boys musical
+- We Will Rock You — We Will Rock You the Musical | We Will Rock You musical
+- Moulin Rouge! — Moulin Rouge the Musical | Moulin Rouge! musical
+- Hello, Dolly! — Hello, Dolly the Musical | Hello, Dolly! musical
+- Legally Blonde — Legally Blonde the Musical | Legally Blonde musical
+- Hair — Hair the Musical | Hair musical
+- A Chorus Line — A Chorus Line the Musical | A Chorus Line musical
+- Charlie and the Chocolate Factory — Charlie and the Chocolate Factory the Musical | Charlie and the Chocolate Factory musical
+- The Wizard of Oz — The Wizard of Oz the Musical | The Wizard of Oz musical
+- The Producers — The Producers the Musical | The Producers musical
+
+### Tier 3: known to fans (87)
+
+- Avenue Q — Avenue Q the Musical | Avenue Q musical
+- Mean Girls — Mean Girls the Musical | Mean Girls musical
+- Everybody's Talking About Jamie — Jamie | Everybody's Talking About Jamie the Musical | Everybody's Talking About Jamie musical | Jamie the Musical | Jamie musical
+- Back to the Future — Back to the Future the Musical | Back to the Future musical
+- School of Rock — School of Rock the Musical | School of Rock musical
+- Come From Away — Come From Away the Musical | Come From Away musical
+- Heathers — Heathers the Musical | Heathers musical
+- Waitress — Waitress the Musical | Waitress musical
+- Shrek the Musical — Shrek | Shrek musical
+- Dreamgirls — Dreamgirls the Musical | Dreamgirls musical
+- Annie Get Your Gun — Annie Get Your Gun the Musical | Annie Get Your Gun musical
+- Kiss Me, Kate — Kiss Me, Kate the Musical | Kiss Me, Kate musical
+- Show Boat — Show Boat the Musical | Show Boat musical
+- Carousel — Carousel the Musical | Carousel musical
+- Anything Goes — Anything Goes the Musical | Anything Goes musical
+- Pippin — Pippin the Musical | Pippin musical
+- Godspell — Godspell the Musical | Godspell musical
+- The Wiz — The Wiz the Musical | The Wiz musical
+- Company — Company the Musical | Company musical
+- Gypsy — Gypsy the Musical | Gypsy musical
+- A Funny Thing Happened on the Way to the Forum — Forum | A Funny Thing Happened on the Way to the Forum the Musical | A Funny Thing Happened on the Way to the Forum musical | Forum the Musical | Forum musical
+- Sunset Boulevard — Sunset Blvd. | Sunset Boulevard the Musical | Sunset Boulevard musical | Sunset Blvd. the Musical | Sunset Blvd. musical
+- Chess — Chess the Musical | Chess musical
+- Spring Awakening — Spring Awakening the Musical | Spring Awakening musical
+- In the Heights — In the Heights the Musical | In the Heights musical
+- Next to Normal — Next to Normal the Musical | Next to Normal musical
+- Rock of Ages — Rock of Ages the Musical | Rock of Ages musical
+- Priscilla, Queen of the Desert — Priscilla | Priscilla, Queen of the Desert the Musical | Priscilla, Queen of the Desert musical | Priscilla the Musical | Priscilla musical
+- Sister Act — Sister Act the Musical | Sister Act musical
+- The Bodyguard — The Bodyguard the Musical | The Bodyguard musical
+- Ghost — Ghost the Musical | Ghost musical
+- Dirty Dancing — Dirty Dancing: The Classic Story on Stage | Dirty Dancing the Musical | Dirty Dancing musical | Dirty Dancing: The Classic Story on Stage the Musical | Dirty Dancing: The Classic Story on Stage musical
+- Pretty Woman — Pretty Woman: The Musical | Pretty Woman musical
+- Singin' in the Rain — Singing in the Rain | Singin' in the Rain the Musical | Singin' in the Rain musical | Singing in the Rain the Musical | Singing in the Rain musical
+- Chitty Chitty Bang Bang — Chitty Chitty | Chitty Chitty Bang Bang the Musical | Chitty Chitty Bang Bang musical | Chitty Chitty the Musical | Chitty Chitty musical
+- Bugsy Malone — Bugsy Malone the Musical | Bugsy Malone musical
+- Fame — Fame the Musical | Fame musical
+- Footloose — Footloose the Musical | Footloose musical
+- Saturday Night Fever — Saturday Night Fever the Musical | Saturday Night Fever musical
+- Mrs. Doubtfire — Mrs. Doubtfire the Musical | Mrs. Doubtfire musical
+- & Juliet — & Juliet the Musical | & Juliet musical
+- Tina — Tina: The Tina Turner Musical | Tina the Musical | The Tina Turner Musical | Tina musical
+- MJ — MJ the Musical | MJ musical
+- Beautiful — Beautiful: The Carole King Musical | Beautiful the Musical | Beautiful musical
+- The Devil Wears Prada — The Devil Wears Prada the Musical | The Devil Wears Prada musical
+- Operation Mincemeat — Operation Mincemeat the Musical | Operation Mincemeat musical
+- The Greatest Showman — The Greatest Showman the Musical | The Greatest Showman musical
+- Paddington — Paddington the Musical | Paddington musical
+- The Outsiders — The Outsiders the Musical | The Outsiders musical
+- Maybe Happy Ending — Maybe Happy Ending the Musical | Maybe Happy Ending musical
+- The Great Gatsby — The Great Gatsby the Musical | The Great Gatsby musical
+- Bat Out of Hell — Bat Out of Hell: The Musical | Bat Out of Hell musical
+- Me and My Girl — Me and My Girl the Musical | Me and My Girl musical
+- Camelot — Camelot the Musical | Camelot musical
+- The Music Man — The Music Man the Musical | The Music Man musical
+- Man of La Mancha — Man of La Mancha the Musical | Man of La Mancha musical
+- Peter Pan — Peter Pan the Musical | Peter Pan musical
+- Jekyll & Hyde — Jekyll & Hyde the Musical | Jekyll & Hyde musical
+- Titanic — Titanic the Musical | Titanic musical
+- Ragtime — Ragtime the Musical | Ragtime musical
+- The Little Mermaid — The Little Mermaid the Musical | The Little Mermaid musical
+- Tarzan — Tarzan the Musical | Tarzan musical
+- Newsies — Newsies the Musical | Newsies musical
+- The Addams Family — The Addams Family the Musical | The Addams Family musical
+- Young Frankenstein — Young Frankenstein the Musical | Young Frankenstein musical
+- Spamalot — Monty Python's Spamalot | Spamalot the Musical | Spamalot musical | Monty Python's Spamalot the Musical | Monty Python's Spamalot musical
+- The Color Purple — The Colour Purple | The Color Purple the Musical | The Color Purple musical | The Colour Purple the Musical | The Colour Purple musical
+- Hedwig and the Angry Inch — Hedwig | Hedwig and the Angry Inch the Musical | Hedwig and the Angry Inch musical | Hedwig the Musical | Hedwig musical
+- La Cage aux Folles — La Cage | La Cage aux Folles the Musical | La Cage aux Folles musical | La Cage the Musical | La Cage musical
+- The Full Monty — The Full Monty the Musical | The Full Monty musical
+- High School Musical — High School Musical On Stage | High School Musical On Stage the Musical | High School Musical On Stage musical
+- Funny Girl — Funny Girl the Musical | Funny Girl musical
+- Sweet Charity — Sweet Charity the Musical | Sweet Charity musical
+- 42nd Street — 42nd Street the Musical | 42nd Street musical
+- Bye Bye Birdie — Bye Bye Birdie the Musical | Bye Bye Birdie musical
+- The Secret Garden — The Secret Garden the Musical | The Secret Garden musical
+- Anastasia — Anastasia the Musical | Anastasia musical
+- Something Rotten! — Something Rotten! the Musical | Something Rotten! musical
+- Once — Once the Musical | Once musical
+- Aida — Aida the Musical | Aida musical
+- Roméo et Juliette — Romeo and Juliet | Roméo et Juliette the Musical | Roméo et Juliette musical | Romeo and Juliet the Musical | Romeo and Juliet musical
+- Beetlejuice — Beetlejuice the Musical | Beetlejuice musical
+- The Threepenny Opera — Die Dreigroschenoper | The Threepenny Opera the Musical | The Threepenny Opera musical | Die Dreigroschenoper the Musical | Die Dreigroschenoper musical
+- The Pirates of Penzance — Pirates! The Penzance Musical | The Pirates of Penzance the Musical | The Pirates of Penzance musical
+- The Mikado — Hot Mikado | The Mikado the Musical | The Mikado musical | Hot Mikado the Musical | Hot Mikado musical
+- HMS Pinafore — Pinafore | HMS Pinafore the Musical | HMS Pinafore musical | Pinafore the Musical | Pinafore musical
+- Porgy and Bess — Porgy and Bess the Musical | Porgy and Bess musical
+
+### Tier 4: obscure (143)
+
+- Kimberly Akimbo — Kimberly Akimbo the Musical | Kimberly Akimbo musical
+- Elf — Elf the Musical | Elf musical
+- Love Never Dies — Love Never Dies the Musical | Love Never Dies musical
+- Tommy — The Who's Tommy | Tommy the Musical | Tommy musical | The Who's Tommy the Musical | The Who's Tommy musical
+- A Strange Loop — A Strange Loop the Musical | A Strange Loop musical
+- The Band's Visit — The Band's Visit the Musical | The Band's Visit musical
+- Fun Home — Fun Home the Musical | Fun Home musical
+- A Gentleman's Guide to Love and Murder — A Gentleman's Guide to Love and Murder the Musical | A Gentleman's Guide to Love and Murder musical
+- Memphis — Memphis the Musical | Memphis musical
+- The Drowsy Chaperone — The Drowsy Chaperone the Musical | The Drowsy Chaperone musical
+- Thoroughly Modern Millie — Thoroughly Modern Millie the Musical | Thoroughly Modern Millie musical
+- Urinetown — Urinetown the Musical | Urinetown musical
+- The 25th Annual Putnam County Spelling Bee — Putnam County Spelling Bee | The Spelling Bee | The 25th Annual Putnam County Spelling Bee the Musical | The 25th Annual Putnam County Spelling Bee musical | Putnam County Spelling Bee the Musical | Putnam County Spelling Bee musical | The Spelling Bee the Musical | The Spelling Bee musical
+- Kiss of the Spider Woman — Kiss of the Spider Woman the Musical | Kiss of the Spider Woman musical
+- Passion — Passion the Musical | Passion musical
+- Crazy for You — Crazy for You the Musical | Crazy for You musical
+- City of Angels — City of Angels the Musical | City of Angels musical
+- Grand Hotel — Grand Hotel the Musical | Grand Hotel musical
+- Big River — Big River the Musical | Big River musical
+- The Mystery of Edwin Drood — Drood | The Mystery of Edwin Drood the Musical | The Mystery of Edwin Drood musical | Drood the Musical | Drood musical
+- Nine — Nine the Musical | Nine musical
+- Barnum — Barnum the Musical | Barnum musical
+- Mame — Mame the Musical | Mame musical
+- 1776 — 1776 the Musical | 1776 musical
+- Follies — Follies the Musical | Follies musical
+- A Little Night Music — A Little Night Music the Musical | A Little Night Music musical
+- Sunday in the Park with George — Sunday in the Park | Sunday in the Park with George the Musical | Sunday in the Park with George musical | Sunday in the Park the Musical | Sunday in the Park musical
+- Assassins — Assassins the Musical | Assassins musical
+- Merrily We Roll Along — Merrily | Merrily We Roll Along the Musical | Merrily We Roll Along musical | Merrily the Musical | Merrily musical
+- The Last Five Years — The Last Five Years the Musical | The Last Five Years musical
+- Parade — Parade the Musical | Parade musical
+- Falsettos — Falsettos the Musical | Falsettos musical
+- The Fantasticks — The Fantasticks the Musical | The Fantasticks musical
+- Once on This Island — Once on This Island the Musical | Once on This Island musical
+- Aspects of Love — Aspects of Love the Musical | Aspects of Love musical
+- Whistle Down the Wind — Whistle Down the Wind the Musical | Whistle Down the Wind musical
+- The Woman in White — The Woman in White the Musical | The Woman in White musical
+- By Jeeves — Jeeves | By Jeeves the Musical | By Jeeves musical | Jeeves the Musical | Jeeves musical
+- Tell Me on a Sunday — Tell Me on a Sunday the Musical | Tell Me on a Sunday musical
+- Cinderella — Bad Cinderella | Cinderella the Musical | Cinderella musical | Bad Cinderella the Musical | Bad Cinderella musical
+- Flower Drum Song — Flower Drum Song the Musical | Flower Drum Song musical
+- Brigadoon — Brigadoon the Musical | Brigadoon musical
+- Paint Your Wagon — Paint Your Wagon the Musical | Paint Your Wagon musical
+- Gigi — Gigi the Musical | Gigi musical
+- Kismet — Kismet the Musical | Kismet musical
+- The Pajama Game — The Pajama Game the Musical | The Pajama Game musical
+- Damn Yankees — Damn Yankees the Musical | Damn Yankees musical
+- Wonderful Town — Wonderful Town the Musical | Wonderful Town musical
+- On the Town — On the Town the Musical | On the Town musical
+- Candide — Candide the Musical | Candide musical
+- Gentlemen Prefer Blondes — Gentlemen Prefer Blondes the Musical | Gentlemen Prefer Blondes musical
+- She Loves Me — She Loves Me the Musical | She Loves Me musical
+- How to Succeed in Business Without Really Trying — How to Succeed | How to Succeed in Business Without Really Trying the Musical | How to Succeed in Business Without Really Trying musical | How to Succeed the Musical | How to Succeed musical
+- Mack and Mabel — Mack and Mabel the Musical | Mack and Mabel musical
+- Half a Sixpence — Half a Sixpence the Musical | Half a Sixpence musical
+- Salad Days — Salad Days the Musical | Salad Days musical
+- The Boy Friend — The Boy Friend the Musical | The Boy Friend musical
+- Scrooge — Scrooge: The Musical | Scrooge musical
+- Return to the Forbidden Planet — Return to the Forbidden Planet the Musical | Return to the Forbidden Planet musical
+- Buddy — Buddy: The Buddy Holly Story | Buddy the Musical | Buddy musical | Buddy: The Buddy Holly Story the Musical | Buddy: The Buddy Holly Story musical
+- Five Guys Named Moe — Five Guys Named Moe the Musical | Five Guys Named Moe musical
+- Our House — Our House the Musical | Our House musical
+- Sunny Afternoon — Sunny Afternoon the Musical | Sunny Afternoon musical
+- Taboo — Taboo the Musical | Taboo musical
+- Thriller Live — Thriller Live the Musical | Thriller Live musical
+- Motown — Motown: The Musical | Motown musical
+- Million Dollar Quartet — Million Dollar Quartet the Musical | Million Dollar Quartet musical
+- Jagged Little Pill — Jagged Little Pill the Musical | Jagged Little Pill musical
+- American Idiot — American Idiot the Musical | American Idiot musical
+- Ain't Too Proud — Ain't Too Proud the Musical | Ain't Too Proud musical
+- A Beautiful Noise — A Beautiful Noise the Musical | A Beautiful Noise musical
+- Girl from the North Country — Girl from the North Country the Musical | Girl from the North Country musical
+- All Shook Up — All Shook Up the Musical | All Shook Up musical
+- The Commitments — The Commitments the Musical | The Commitments musical
+- Bend It Like Beckham — Bend It Like Beckham the Musical | Bend It Like Beckham musical
+- Bombay Dreams — Bombay Dreams the Musical | Bombay Dreams musical
+- Top Hat — Top Hat the Musical | Top Hat musical
+- White Christmas — Irving Berlin's White Christmas | White Christmas the Musical | White Christmas musical | Irving Berlin's White Christmas the Musical | Irving Berlin's White Christmas musical
+- Holiday Inn — Holiday Inn the Musical | Holiday Inn musical
+- An American in Paris — An American in Paris the Musical | An American in Paris musical
+- Meet Me in St. Louis — Meet Me in St. Louis the Musical | Meet Me in St. Louis musical
+- Seven Brides for Seven Brothers — Seven Brides | Seven Brides for Seven Brothers the Musical | Seven Brides for Seven Brothers musical | Seven Brides the Musical | Seven Brides musical
+- Calamity Jane — Calamity Jane the Musical | Calamity Jane musical
+- The Hunchback of Notre Dame — Hunchback | The Hunchback of Notre Dame the Musical | The Hunchback of Notre Dame musical | Hunchback the Musical | Hunchback musical
+- Hercules — Hercules the Musical | Hercules musical
+- Spider-Man: Turn Off the Dark — Spider-Man | Spider-Man: Turn Off the Dark the Musical | Spider-Man: Turn Off the Dark musical | Spider-Man the Musical | Spider-Man musical
+- King Kong — King Kong the Musical | King Kong musical
+- SpongeBob SquarePants — SpongeBob | The SpongeBob Musical | SpongeBob SquarePants the Musical | SpongeBob SquarePants musical | SpongeBob the Musical
+- Groundhog Day — Groundhog Day the Musical | Groundhog Day musical
+- Big Fish — Big Fish the Musical | Big Fish musical
+- Catch Me If You Can — Catch Me If You Can the Musical | Catch Me If You Can musical
+- Dirty Rotten Scoundrels — Dirty Rotten Scoundrels the Musical | Dirty Rotten Scoundrels musical
+- The Wedding Singer — The Wedding Singer the Musical | The Wedding Singer musical
+- Xanadu — Xanadu the Musical | Xanadu musical
+- 9 to 5 — 9 to 5: The Musical | 9 to 5 musical
+- Rocky — Rocky the Musical | Rocky musical
+- Flashdance — Flashdance the Musical | Flashdance musical
+- The Prom — The Prom the Musical | The Prom musical
+- Be More Chill — Be More Chill the Musical | Be More Chill musical
+- Bring It On — Bring It On: The Musical | Bring It On musical
+- The Boy from Oz — The Boy from Oz the Musical | The Boy from Oz musical
+- Strictly Ballroom — Strictly Ballroom the Musical | Strictly Ballroom musical
+- Anne of Green Gables — Anne of Green Gables the Musical | Anne of Green Gables musical
+- Sarafina! — Sarafina! the Musical | Sarafina! musical
+- Notre-Dame de Paris — Notre-Dame de Paris the Musical | Notre-Dame de Paris musical
+- Standing at the Sky's Edge — Standing at the Sky's Edge the Musical | Standing at the Sky's Edge musical
+- Bonnie & Clyde — Bonnie & Clyde the Musical | Bonnie & Clyde musical
+- The Scarlet Pimpernel — The Scarlet Pimpernel the Musical | The Scarlet Pimpernel musical
+- Little Women — Little Women the Musical | Little Women musical
+- Willy Wonka — Roald Dahl's Willy Wonka | Willy Wonka and the Chocolate Factory | Willy Wonka the Musical | Willy Wonka musical | Roald Dahl's Willy Wonka the Musical | Roald Dahl's Willy Wonka musical | Willy Wonka and the Chocolate Factory the Musical | Willy Wonka and the Chocolate Factory musical
+- Hell's Kitchen — Hell's Kitchen the Musical | Hell's Kitchen musical
+- Suffs — Suffs the Musical | Suffs musical
+- Water for Elephants — Water for Elephants the Musical | Water for Elephants musical
+- The Notebook — The Notebook the Musical | The Notebook musical
+- Death Becomes Her — Death Becomes Her the Musical | Death Becomes Her musical
+- Buena Vista Social Club — Buena Vista Social Club the Musical | Buena Vista Social Club musical
+- Schmigadoon! — Schmigadoon! the Musical | Schmigadoon! musical
+- The Lost Boys — The Lost Boys the Musical | The Lost Boys musical
+- Titaníque — Titaníque the Musical | Titaníque musical
+- Natasha, Pierre & the Great Comet of 1812 — The Great Comet | Natasha, Pierre & the Great Comet of 1812 the Musical | Natasha, Pierre & the Great Comet of 1812 musical | The Great Comet the Musical | The Great Comet musical
+- The Curious Case of Benjamin Button — The Curious Case of Benjamin Button the Musical | The Curious Case of Benjamin Button musical
+- Tick, Tick... Boom! — Tick, Tick... Boom! the Musical | Tick, Tick... Boom! musical
+- You're a Good Man, Charlie Brown — Charlie Brown | You're a Good Man, Charlie Brown the Musical | You're a Good Man, Charlie Brown musical | Charlie Brown the Musical | Charlie Brown musical
+- Seussical — Seussical the Musical | Seussical musical
+- The Merry Widow — Die lustige Witwe | The Merry Widow the Musical | The Merry Widow musical | Die lustige Witwe the Musical | Die lustige Witwe musical
+- Die Fledermaus — Fledermaus | The Bat | Die Fledermaus the Musical | Die Fledermaus musical | Fledermaus the Musical | Fledermaus musical | The Bat the Musical | The Bat musical
+- Orpheus in the Underworld — Orphée aux enfers | Orpheus in the Underworld the Musical | Orpheus in the Underworld musical | Orphée aux enfers the Musical | Orphée aux enfers musical
+- The Student Prince — The Student Prince the Musical | The Student Prince musical
+- The Desert Song — The Desert Song the Musical | The Desert Song musical
+- The Beggar's Opera — The Beggar's Opera the Musical | The Beggar's Opera musical
+- The Gondoliers — The Gondoliers the Musical | The Gondoliers musical
+- Iolanthe — Iolanthe the Musical | Iolanthe musical
+- The Yeomen of the Guard — The Yeomen of the Guard the Musical | The Yeomen of the Guard musical
+- No, No, Nanette — No, No, Nanette the Musical | No, No, Nanette musical
+- The Best Little Whorehouse in Texas — Best Little Whorehouse | The Best Little Whorehouse in Texas the Musical | The Best Little Whorehouse in Texas musical | Best Little Whorehouse the Musical | Best Little Whorehouse musical
+- Jerry Springer: The Opera — Jerry Springer: The Opera the Musical | Jerry Springer: The Opera musical
+- The Prince of Egypt — The Prince of Egypt the Musical | The Prince of Egypt musical
+- Tootsie — Tootsie the Musical | Tootsie musical
+- American Psycho — American Psycho the Musical | American Psycho musical
+- Once Upon a Mattress — Once Upon a Mattress the Musical | Once Upon a Mattress musical
+- The Lord of the Rings — Lord of the Rings the Musical | The Lord of the Rings musical
+- Oh, What a Lovely War! — Oh, What a Lovely War! the Musical | Oh, What a Lovely War! musical
+- Violet — Violet the Musical | Violet musical
+
+### Tier 5: expert (351)
+
+- Applause — Applause the Musical | Applause musical
+- Shenandoah — Shenandoah the Musical | Shenandoah musical
+- Purlie — Purlie the Musical | Purlie musical
+- Promises, Promises — Promises, Promises the Musical | Promises, Promises musical
+- Hallelujah, Baby! — Hallelujah, Baby! the Musical | Hallelujah, Baby! musical
+- Raisin — Raisin the Musical | Raisin musical
+- Two Gentlemen of Verona — Two Gentlemen of Verona the Musical | Two Gentlemen of Verona musical
+- Redhead — Redhead the Musical | Redhead musical
+- Fiorello! — Fiorello! the Musical | Fiorello! musical
+- Ain't Misbehavin' — Ain't Misbehavin' the Musical | Ain't Misbehavin' musical
+- Jerome Robbins' Broadway — Jerome Robbins' Broadway the Musical | Jerome Robbins' Broadway musical
+- Fosse — Fosse the Musical | Fosse musical
+- Contact — Contact the Musical | Contact musical
+- Bring in 'da Noise, Bring in 'da Funk — Bring in da Noise | Noise/Funk | Bring in 'da Noise, Bring in 'da Funk the Musical | Bring in 'da Noise, Bring in 'da Funk musical | Bring in da Noise the Musical | Bring in da Noise musical | Noise/Funk the Musical | Noise/Funk musical
+- The Will Rogers Follies — The Will Rogers Follies the Musical | The Will Rogers Follies musical
+- Jelly's Last Jam — Jelly's Last Jam the Musical | Jelly's Last Jam musical
+- Victor/Victoria — Victor/Victoria the Musical | Victor/Victoria musical
+- Steel Pier — Steel Pier the Musical | Steel Pier musical
+- Side Show — Side Show the Musical | Side Show musical
+- The Life — The Life the Musical | The Life musical
+- Big — Big the Musical | Big musical
+- Smokey Joe's Cafe — Smokey Joe's Cafe the Musical | Smokey Joe's Cafe musical
+- Movin' Out — Movin' Out the Musical | Movin' Out musical
+- Caroline, or Change — Caroline, or Change the Musical | Caroline, or Change musical
+- The Light in the Piazza — The Light in the Piazza the Musical | The Light in the Piazza musical
+- Grey Gardens — Grey Gardens the Musical | Grey Gardens musical
+- Curtains — Curtains the Musical | Curtains musical
+- Passing Strange — Passing Strange the Musical | Passing Strange musical
+- Cry-Baby — Cry-Baby the Musical | Cry-Baby musical
+- Fela! — Fela the Musical | Fela! musical
+- Lestat — Lestat the Musical | Lestat musical
+- The Scottsboro Boys — The Scottsboro Boys the Musical | The Scottsboro Boys musical
+- Women on the Verge of a Nervous Breakdown — Women on the Verge of a Nervous Breakdown the Musical | Women on the Verge of a Nervous Breakdown musical
+- Wonderland — Wonderland the Musical | Wonderland musical
+- Leap of Faith — Leap of Faith the Musical | Leap of Faith musical
+- Nice Work If You Can Get It — Nice Work If You Can Get It the Musical | Nice Work If You Can Get It musical
+- A Christmas Story — A Christmas Story: The Musical | A Christmas Story musical
+- Hands on a Hardbody — Hands on a Hardbody the Musical | Hands on a Hardbody musical
+- First Date — First Date the Musical | First Date musical
+- Honeymoon in Vegas — Honeymoon in Vegas the Musical | Honeymoon in Vegas musical
+- The Last Ship — The Last Ship the Musical | The Last Ship musical
+- Holler If Ya Hear Me — Holler If Ya Hear Me the Musical | Holler If Ya Hear Me musical
+- Bullets Over Broadway — Bullets Over Broadway the Musical | Bullets Over Broadway musical
+- If/Then — If/Then the Musical | If/Then musical
+- Finding Neverland — Finding Neverland the Musical | Finding Neverland musical
+- Allegiance — Allegiance the Musical | Allegiance musical
+- On Your Feet! — On Your Feet! the Musical | On Your Feet! musical
+- Bright Star — Bright Star the Musical | Bright Star musical
+- Shuffle Along — Shuffle Along the Musical | Shuffle Along musical
+- Tuck Everlasting — Tuck Everlasting the Musical | Tuck Everlasting musical
+- Amélie — Amélie the Musical | Amélie musical
+- Bandstand — Bandstand the Musical | Bandstand musical
+- Escape to Margaritaville — Escape to Margaritaville the Musical | Escape to Margaritaville musical
+- Summer: The Donna Summer Musical
+- The Cher Show — The Cher Show the Musical | The Cher Show musical
+- Head Over Heels — Head Over Heels the Musical | Head Over Heels musical
+- Paradise Square — Paradise Square the Musical | Paradise Square musical
+- Mr. Saturday Night — Mr. Saturday Night the Musical | Mr. Saturday Night musical
+- Almost Famous — Almost Famous the Musical | Almost Famous musical
+- KPOP — KPOP the Musical | KPOP musical
+- Some Like It Hot — Some Like It Hot the Musical | Some Like It Hot musical
+- Shucked — Shucked the Musical | Shucked musical
+- New York, New York — New York, New York the Musical | New York, New York musical
+- Here Lies Love — Here Lies Love the Musical | Here Lies Love musical
+- Harmony — Harmony the Musical | Harmony musical
+- How to Dance in Ohio — How to Dance in Ohio the Musical | How to Dance in Ohio musical
+- Gutenberg! The Musical! — Gutenberg | Gutenberg musical
+- The Heart of Rock and Roll — The Heart of Rock and Roll the Musical | The Heart of Rock and Roll musical
+- Illinoise — Illinoise the Musical | Illinoise musical
+- Lempicka — Lempicka the Musical | Lempicka musical
+- Days of Wine and Roses — Days of Wine and Roses the Musical | Days of Wine and Roses musical
+- Swept Away — Swept Away the Musical | Swept Away musical
+- Boop! — Boop! The Musical | Boop! musical
+- Just in Time — Just in Time the Musical | Just in Time musical
+- Smash — Smash the Musical | Smash musical
+- Dead Outlaw — Dead Outlaw the Musical | Dead Outlaw musical
+- Real Women Have Curves — Real Women Have Curves the Musical | Real Women Have Curves musical
+- Floyd Collins — Floyd Collins the Musical | Floyd Collins musical
+- The Queen of Versailles — The Queen of Versailles the Musical | The Queen of Versailles musical
+- Two Strangers (Carry a Cake Across New York) — Two Strangers | Two Strangers (Carry a Cake Across New York) the Musical | Two Strangers (Carry a Cake Across New York) musical | Two Strangers the Musical | Two Strangers musical
+- Beaches — Beaches the Musical | Beaches musical
+- Wanted — Wanted the Musical | Wanted musical
+- Galileo — Galileo the Musical | Galileo musical
+- Pacific Overtures — Pacific Overtures the Musical | Pacific Overtures musical
+- Anyone Can Whistle — Anyone Can Whistle the Musical | Anyone Can Whistle musical
+- Road Show — Road Show the Musical | Road Show musical
+- Saturday Night — Saturday Night the Musical | Saturday Night musical
+- Here We Are — Here We Are the Musical | Here We Are musical
+- The Frogs — The Frogs the Musical | The Frogs musical
+- Do I Hear a Waltz? — Do I Hear a Waltz? the Musical | Do I Hear a Waltz? musical
+- Songs for a New World — Songs for a New World the Musical | Songs for a New World musical
+- The Bridges of Madison County — The Bridges of Madison County the Musical | The Bridges of Madison County musical
+- 13 — 13 the Musical | 13 musical
+- Dogfight — Dogfight the Musical | Dogfight musical
+- James and the Giant Peach — James and the Giant Peach the Musical | James and the Giant Peach musical
+- Edges — Edges the Musical | Edges musical
+- Song and Dance — Song and Dance the Musical | Song and Dance musical
+- Stephen Ward — Stephen Ward the Musical | Stephen Ward musical
+- The Beautiful Game — The Beautiful Game the Musical | The Beautiful Game musical
+- The Likes of Us — The Likes of Us the Musical | The Likes of Us musical
+- Stop the World – I Want to Get Off — Stop the World | Stop the World – I Want to Get Off the Musical | Stop the World – I Want to Get Off musical | Stop the World the Musical | Stop the World musical
+- Pickwick — Pickwick the Musical | Pickwick musical
+- Charlie Girl — Charlie Girl the Musical | Charlie Girl musical
+- Blitz! — Blitz the Musical | Blitz! musical
+- Maggie May — Maggie May the Musical | Maggie May musical
+- Fings Ain't Wot They Used T'Be — Fings Ain't Wot They Used T'Be the Musical | Fings Ain't Wot They Used T'Be musical
+- Expresso Bongo — Expresso Bongo the Musical | Expresso Bongo musical
+- Bless the Bride — Bless the Bride the Musical | Bless the Bride musical
+- Bitter Sweet — Bitter Sweet the Musical | Bitter Sweet musical
+- The Maid of the Mountains — The Maid of the Mountains the Musical | The Maid of the Mountains musical
+- The Arcadians — The Arcadians the Musical | The Arcadians musical
+- Billy — Billy the Musical | Billy musical
+- The Card — The Card the Musical | The Card musical
+- Betty Blue Eyes — Betty Blue Eyes the Musical | Betty Blue Eyes musical
+- Made in Dagenham — Made in Dagenham the Musical | Made in Dagenham musical
+- Mrs Henderson Presents — Mrs Henderson Presents the Musical | Mrs Henderson Presents musical
+- Dreamboats and Petticoats — Dreamboats and Petticoats the Musical | Dreamboats and Petticoats musical
+- Never Forget — Never Forget the Musical | Never Forget musical
+- The Band — The Band the Musical | The Band musical
+- Viva Forever! — Viva Forever! the Musical | Viva Forever! musical
+- Tonight's the Night — Tonight's the Night the Musical | Tonight's the Night musical
+- Desperately Seeking Susan — Desperately Seeking Susan the Musical | Desperately Seeking Susan musical
+- Lennon — Lennon the Musical | Lennon musical
+- Good Vibrations — Good Vibrations the Musical | Good Vibrations musical
+- The Girls — Calendar Girls the Musical | Calendar Girls | The Girls the Musical | The Girls musical | Calendar Girls musical
+- Sylvia — Sylvia the Musical | Sylvia musical
+- Kathy and Stella Solve a Murder! — Kathy and Stella Solve a Murder! the Musical | Kathy and Stella Solve a Murder! musical
+- The Little Big Things — The Little Big Things the Musical | The Little Big Things musical
+- Cable Street — Cable Street the Musical | Cable Street musical
+- Why Am I So Single? — Why Am I So Single? the Musical | Why Am I So Single? musical
+- The Unlikely Pilgrimage of Harold Fry — The Unlikely Pilgrimage of Harold Fry the Musical | The Unlikely Pilgrimage of Harold Fry musical
+- Fisherman's Friends: The Musical
+- The Witches — The Witches the Musical | The Witches musical
+- Honk! — Honk the Musical | Honk! musical
+- Ziegfeld Follies — Ziegfeld Follies the Musical | Ziegfeld Follies musical
+- Lady, Be Good — Lady, Be Good the Musical | Lady, Be Good musical
+- Funny Face — Funny Face the Musical | Funny Face musical
+- Oh, Kay! — Oh, Kay the Musical | Oh, Kay! musical
+- Strike Up the Band — Strike Up the Band the Musical | Strike Up the Band musical
+- Girl Crazy — Girl Crazy the Musical | Girl Crazy musical
+- Of Thee I Sing — Of Thee I Sing the Musical | Of Thee I Sing musical
+- Pal Joey — Pal Joey the Musical | Pal Joey musical
+- On Your Toes — On Your Toes the Musical | On Your Toes musical
+- Babes in Arms — Babes in Arms the Musical | Babes in Arms musical
+- The Boys from Syracuse — The Boys from Syracuse the Musical | The Boys from Syracuse musical
+- A Connecticut Yankee — A Connecticut Yankee the Musical | A Connecticut Yankee musical
+- Jumbo — Jumbo the Musical | Jumbo musical
+- Lady in the Dark — Lady in the Dark the Musical | Lady in the Dark musical
+- Finian's Rainbow — Finian's Rainbow the Musical | Finian's Rainbow musical
+- Where's Charley? — Where's Charley? the Musical | Where's Charley? musical
+- Call Me Madam — Call Me Madam the Musical | Call Me Madam musical
+- Can-Can — Can-Can the Musical | Can-Can musical
+- Silk Stockings — Silk Stockings the Musical | Silk Stockings musical
+- High Society — High Society the Musical | High Society musical
+- Bells Are Ringing — Bells Are Ringing the Musical | Bells Are Ringing musical
+- Li'l Abner — Li'l Abner the Musical | Li'l Abner musical
+- Wildcat — Wildcat the Musical | Wildcat musical
+- Little Me — Little Me the Musical | Little Me musical
+- Mr. President — Mr. President the Musical | Mr. President musical
+- Miss Liberty — Miss Liberty the Musical | Miss Liberty musical
+- The Most Happy Fella — The Most Happy Fella the Musical | The Most Happy Fella musical
+- Hans Christian Andersen — Hans Christian Andersen the Musical | Hans Christian Andersen musical
+- On a Clear Day You Can See Forever — On a Clear Day You Can See Forever the Musical | On a Clear Day You Can See Forever musical
+- Cabin in the Sky — Cabin in the Sky the Musical | Cabin in the Sky musical
+- Good News — Good News the Musical | Good News musical
+- Hit the Deck — Hit the Deck the Musical | Hit the Deck musical
+- Very Good Eddie — Very Good Eddie the Musical | Very Good Eddie musical
+- Roberta — Roberta the Musical | Roberta musical
+- Music in the Air — Music in the Air the Musical | Music in the Air musical
+- Allegro — Allegro the Musical | Allegro musical
+- Me and Juliet — Me and Juliet the Musical | Me and Juliet musical
+- Pipe Dream — Pipe Dream the Musical | Pipe Dream musical
+- State Fair — State Fair the Musical | State Fair musical
+- No Strings — No Strings the Musical | No Strings musical
+- Two by Two — Two by Two the Musical | Two by Two musical
+- I Remember Mama — I Remember Mama the Musical | I Remember Mama musical
+- Golden Boy — Golden Boy the Musical | Golden Boy musical
+- Flora the Red Menace — Flora the Red Menace the Musical | Flora the Red Menace musical
+- Zorba — Zorba the Musical | Zorba musical
+- The Rink — The Rink the Musical | The Rink musical
+- Woman of the Year — Woman of the Year the Musical | Woman of the Year musical
+- The Visit — The Visit the Musical | The Visit musical
+- The Rothschilds — The Rothschilds the Musical | The Rothschilds musical
+- The Apple Tree — The Apple Tree the Musical | The Apple Tree musical
+- Seesaw — Seesaw the Musical | Seesaw musical
+- I Love My Wife — I Love My Wife the Musical | I Love My Wife musical
+- On the Twentieth Century — On the Twentieth Century the Musical | On the Twentieth Century musical
+- They're Playing Our Song — They're Playing Our Song the Musical | They're Playing Our Song musical
+- Sugar Babies — Sugar Babies the Musical | Sugar Babies musical
+- Dear World — Dear World the Musical | Dear World musical
+- Carrie — Carrie the Musical | Carrie musical
+- Bat Boy — Bat Boy the Musical | Bat Boy musical
+- Reefer Madness — Reefer Madness the Musical | Reefer Madness musical
+- Evil Dead: The Musical — Evil Dead | Evil Dead musical
+- The Toxic Avenger — The Toxic Avenger the Musical | The Toxic Avenger musical
+- Ride the Cyclone — Ride the Cyclone the Musical | Ride the Cyclone musical
+- Nunsense — Nunsense the Musical | Nunsense musical
+- Children of Eden — Children of Eden the Musical | Children of Eden musical
+- The Baker's Wife — The Baker's Wife the Musical | The Baker's Wife musical
+- Working — Working the Musical | Working musical
+- I Love You, You're Perfect, Now Change — I Love You, You're Perfect, Now Change the Musical | I Love You, You're Perfect, Now Change musical
+- Altar Boyz — Altar Boyz the Musical | Altar Boyz musical
+- Forbidden Broadway — Forbidden Broadway the Musical | Forbidden Broadway musical
+- Side by Side by Sondheim — Side by Side by Sondheim the Musical | Side by Side by Sondheim musical
+- Jane Eyre — Jane Eyre the Musical | Jane Eyre musical
+- Dracula — Dracula, the Musical | Dracula musical
+- The Count of Monte Cristo — The Count of Monte Cristo the Musical | The Count of Monte Cristo musical
+- Death Note — Death Note: The Musical | Death Note musical
+- Frankenstein — Frankenstein the Musical | Frankenstein musical
+- Rebecca — Rebecca the Musical | Rebecca musical
+- Elisabeth — Elisabeth the Musical | Elisabeth musical
+- Mozart! — Mozart! the Musical | Mozart! musical
+- Tanz der Vampire — Dance of the Vampires | Tanz der Vampire the Musical | Tanz der Vampire musical | Dance of the Vampires the Musical | Dance of the Vampires musical
+- Starmania — Starmania the Musical | Starmania musical
+- Les Dix Commandements — Les Dix Commandements the Musical | Les Dix Commandements musical
+- Le Roi Soleil — Le Roi Soleil the Musical | Le Roi Soleil musical
+- 1789: Les Amants de la Bastille — 1789 | 1789: Les Amants de la Bastille the Musical | 1789: Les Amants de la Bastille musical | 1789 the Musical | 1789 musical
+- The Rose of Versailles — The Rose of Versailles the Musical | The Rose of Versailles musical
+- Mughal-e-Azam — Mughal-e-Azam the Musical | Mughal-e-Azam musical
+- The Far Pavilions — The Far Pavilions the Musical | The Far Pavilions musical
+- Monsoon Wedding — Monsoon Wedding the Musical | Monsoon Wedding musical
+- Umoja — Umoja the Musical | Umoja musical
+- Kat and the Kings — Kat and the Kings the Musical | Kat and the Kings musical
+- Muriel's Wedding — Muriel's Wedding the Musical | Muriel's Wedding musical
+- Ladies in Black — Ladies in Black the Musical | Ladies in Black musical
+- A Very Potter Musical
+- The Red Shoes — The Red Shoes the Musical | The Red Shoes musical
+- Pinocchio — Pinocchio the Musical | Pinocchio musical
+- The Jungle Book — The Jungle Book the Musical | The Jungle Book musical
+- Alice in Wonderland — Alice in Wonderland the Musical | Alice in Wonderland musical
+- Winnie the Pooh — Winnie the Pooh the Musical | Winnie the Pooh musical
+- 101 Dalmatians — 101 Dalmatians the Musical | 101 Dalmatians musical
+- Moana — Moana JR. | Moana the Musical | Moana musical | Moana JR. the Musical | Moana JR. musical
+- Mulan — Mulan JR. | Mulan the Musical | Mulan musical | Mulan JR. the Musical | Mulan JR. musical
+- Finding Nemo – The Musical
+- Tangled: The Musical
+- Toy Story: The Musical
+- Descendants — Descendants: The Musical | Descendants musical
+- Camp Rock — Camp Rock the Musical | Camp Rock musical
+- Freaky Friday — Freaky Friday the Musical | Freaky Friday musical
+- A Christmas Carol — A Christmas Carol the Musical | A Christmas Carol musical
+- Rose-Marie — Rose-Marie the Musical | Rose-Marie musical
+- Naughty Marietta — Naughty Marietta the Musical | Naughty Marietta musical
+- The Vagabond King — The Vagabond King the Musical | The Vagabond King musical
+- Babes in Toyland — Babes in Toyland the Musical | Babes in Toyland musical
+- The Chocolate Soldier — Der tapfere Soldat | The Chocolate Soldier the Musical | The Chocolate Soldier musical | Der tapfere Soldat the Musical | Der tapfere Soldat musical
+- The New Moon — The New Moon the Musical | The New Moon musical
+- Blossom Time — Das Dreimäderlhaus | Lilac Time | Blossom Time the Musical | Blossom Time musical | Das Dreimäderlhaus the Musical | Das Dreimäderlhaus musical | Lilac Time the Musical | Lilac Time musical
+- Song of Norway — Song of Norway the Musical | Song of Norway musical
+- Florodora — Florodora the Musical | Florodora musical
+- The Geisha — The Geisha the Musical | The Geisha musical
+- La Belle Hélène — Beautiful Helen | La Belle Hélène the Musical | La Belle Hélène musical | Beautiful Helen the Musical | Beautiful Helen musical
+- La Vie parisienne — La Vie parisienne the Musical | La Vie parisienne musical
+- The Land of Smiles — Das Land des Lächelns | The Land of Smiles the Musical | The Land of Smiles musical | Das Land des Lächelns the Musical | Das Land des Lächelns musical
+- White Horse Inn — Im weißen Rößl | White Horse Inn the Musical | White Horse Inn musical | Im weißen Rößl the Musical | Im weißen Rößl musical
+- The Gypsy Baron — Der Zigeunerbaron | The Gypsy Baron the Musical | The Gypsy Baron musical | Der Zigeunerbaron the Musical | Der Zigeunerbaron musical
+- Countess Maritza — Gräfin Mariza | Countess Maritza the Musical | Countess Maritza musical | Gräfin Mariza the Musical | Gräfin Mariza musical
+- The Count of Luxembourg — Der Graf von Luxemburg | The Count of Luxembourg the Musical | The Count of Luxembourg musical | Der Graf von Luxemburg the Musical | Der Graf von Luxemburg musical
+- Street Scene — Street Scene the Musical | Street Scene musical
+- Carmen Jones — Carmen Jones the Musical | Carmen Jones musical
+- Patience — Patience the Musical | Patience musical
+- Ruddigore — Ruddigore the Musical | Ruddigore musical
+- Trial by Jury — Trial by Jury the Musical | Trial by Jury musical
+- Princess Ida — Princess Ida the Musical | Princess Ida musical
+- The Sorcerer — The Sorcerer the Musical | The Sorcerer musical
+- Utopia, Limited — Utopia, Limited the Musical | Utopia, Limited musical
+- The Grand Duke — The Grand Duke the Musical | The Grand Duke musical
+- Thespis — Thespis the Musical | Thespis musical
+- Lazarus — Lazarus the Musical | Lazarus musical
+- Diana — Diana: The Musical | Diana musical
+- Tammy Faye — Tammy Faye the Musical | Tammy Faye musical
+- Martin Guerre — Martin Guerre the Musical | Martin Guerre musical
+- The Pirate Queen — The Pirate Queen the Musical | The Pirate Queen musical
+- Copacabana — Barry Manilow's Copacabana | Copacabana the Musical | Copacabana musical | Barry Manilow's Copacabana the Musical | Barry Manilow's Copacabana musical
+- Once Upon a One More Time — Once Upon a One More Time the Musical | Once Upon a One More Time musical
+- Get Up, Stand Up! — Get Up, Stand Up! The Bob Marley Musical | Get Up, Stand Up! the Musical | Get Up, Stand Up! musical
+- The Drifters Girl — The Drifters Girl the Musical | The Drifters Girl musical
+- Bedknobs and Broomsticks — Bedknobs and Broomsticks the Musical | Bedknobs and Broomsticks musical
+- How the Grinch Stole Christmas — Dr. Seuss' How the Grinch Stole Christmas! The Musical | The Grinch | How the Grinch Stole Christmas the Musical | How the Grinch Stole Christmas musical | The Grinch the Musical | The Grinch musical
+- Fantastic Mr Fox — Fantastic Mr Fox the Musical | Fantastic Mr Fox musical
+- Keating! — Keating! the Musical | Keating! musical
+- From Here to Eternity — From Here to Eternity the Musical | From Here to Eternity musical
+- Spend Spend Spend — Spend Spend Spend the Musical | Spend Spend Spend musical
+- Robert and Elizabeth — Robert and Elizabeth the Musical | Robert and Elizabeth musical
+- The Roar of the Greasepaint – The Smell of the Crowd — The Roar of the Greasepaint | The Roar of the Greasepaint – The Smell of the Crowd the Musical | The Roar of the Greasepaint – The Smell of the Crowd musical | The Roar of the Greasepaint the Musical | The Roar of the Greasepaint musical
+- Blondel — Blondel the Musical | Blondel musical
+- 1600 Pennsylvania Avenue — 1600 Pennsylvania Avenue the Musical | 1600 Pennsylvania Avenue musical
+- Coco — Coco the Musical | Coco musical
+- Love Life — Love Life the Musical | Love Life musical
+- I Married an Angel — I Married an Angel the Musical | I Married an Angel musical
+- By Jupiter — By Jupiter the Musical | By Jupiter musical
+- Too Many Girls — Too Many Girls the Musical | Too Many Girls musical
+- Gay Divorce — Gay Divorce the Musical | Gay Divorce musical
+- DuBarry Was a Lady — DuBarry Was a Lady the Musical | DuBarry Was a Lady musical
+- Panama Hattie — Panama Hattie the Musical | Panama Hattie musical
+- As Thousands Cheer — As Thousands Cheer the Musical | As Thousands Cheer musical
+- Louisiana Purchase — Louisiana Purchase the Musical | Louisiana Purchase musical
+- Sally — Sally the Musical | Sally musical
+- Sunny — Sunny the Musical | Sunny musical
+- Oh, Boy! — Oh, Boy! the Musical | Oh, Boy! musical
+- Maytime — Maytime the Musical | Maytime musical
+- The Firefly — The Firefly the Musical | The Firefly musical
+- The Red Mill — The Red Mill the Musical | The Red Mill musical
+- One Touch of Venus — One Touch of Venus the Musical | One Touch of Venus musical
+- Lost in the Stars — Lost in the Stars the Musical | Lost in the Stars musical
+- Knickerbocker Holiday — Knickerbocker Holiday the Musical | Knickerbocker Holiday musical
+- Happy End — Happy End the Musical | Happy End musical
+- High Button Shoes — High Button Shoes the Musical | High Button Shoes musical
+- Sugar — Sugar the Musical | Sugar musical
+- It's a Bird... It's a Plane... It's Superman — It's Superman | It's a Bird... It's a Plane... It's Superman the Musical | It's a Bird... It's a Plane... It's Superman musical | It's Superman the Musical | It's Superman musical
+- The Wild Party — The Wild Party the Musical | The Wild Party musical
+- Soft Power — Soft Power the Musical | Soft Power musical
+- A New Brain — A New Brain the Musical | A New Brain musical
+- The Magic Show — The Magic Show the Musical | The Magic Show musical
+- A Bronx Tale — A Bronx Tale the Musical | A Bronx Tale musical
+- The Cradle Will Rock — The Cradle Will Rock the Musical | The Cradle Will Rock musical
+- The Unsinkable Molly Brown — The Unsinkable Molly Brown the Musical | The Unsinkable Molly Brown musical
+- Carnival! — Carnival! the Musical | Carnival! musical
+- 110 in the Shade — 110 in the Shade the Musical | 110 in the Shade musical
+- I Do! I Do! — I Do! I Do! the Musical | I Do! I Do! musical
+- Dancin' — Dancin' the Musical | Dancin' musical
+- After Midnight — After Midnight the Musical | After Midnight musical
+- War Paint — War Paint the Musical | War Paint musical
+- Flying Over Sunset — Flying Over Sunset the Musical | Flying Over Sunset musical
+- Putting It Together — Putting It Together the Musical | Putting It Together musical
+- Marry Me a Little — Marry Me a Little the Musical | Marry Me a Little musical
+- Opening Night — Opening Night the Musical | Opening Night musical
+- Oh! Calcutta! — Oh! Calcutta! the Musical | Oh! Calcutta! musical
+- The Three Little Pigs — The Three Little Pigs the Musical | The Three Little Pigs musical
+- Clueless — Clueless the Musical | Clueless musical
+- Here & Now — Here & Now: The Steps Musical | Here & Now the Musical | Here & Now musical
+- La Périchole — La Périchole the Musical | La Périchole musical
+- La Grande-Duchesse de Gérolstein — The Grand Duchess of Gerolstein | La Grande-Duchesse de Gérolstein the Musical | La Grande-Duchesse de Gérolstein musical | The Grand Duchess of Gerolstein the Musical | The Grand Duchess of Gerolstein musical
+- Merrie England — Merrie England the Musical | Merrie England musical
+- Tom Jones — Tom Jones the Musical | Tom Jones musical
+- Cox and Box — Cox and Box the Musical | Cox and Box musical
+- Die Csárdásfürstin — The Gipsy Princess | The Csárdás Princess | The Gypsy Princess | Csárdásfürstin | Die Csardasfuerstin | Die Csárdásfürstin the Musical | Die Csárdásfürstin musical | The Gipsy Princess the Musical | The Gipsy Princess musical | The Csárdás Princess the Musical | The Csárdás Princess musical | The Gypsy Princess the Musical | The Gypsy Princess musical | Csárdásfürstin the Musical | Csárdásfürstin musical | Die Csardasfuerstin the Musical | Die Csardasfuerstin musical
+- The Beggar Student — Der Bettelstudent | The Beggar Student the Musical | The Beggar Student musical | Der Bettelstudent the Musical | Der Bettelstudent musical
+- A Night in Venice — Eine Nacht in Venedig | A Night in Venice the Musical | A Night in Venice musical | Eine Nacht in Venedig the Musical | Eine Nacht in Venedig musical
+- Wiener Blut — Vienna Blood | Wiener Blut the Musical | Wiener Blut musical | Vienna Blood the Musical | Vienna Blood musical
+- Der Vogelhändler — The Bird Seller | Der Vogelhändler the Musical | Der Vogelhändler musical | The Bird Seller the Musical | The Bird Seller musical
+- Boccaccio — Boccaccio the Musical | Boccaccio musical
+- Giuditta — Giuditta the Musical | Giuditta musical
+- The Tsarevich — Der Zarewitsch | The Tsarevich the Musical | The Tsarevich musical | Der Zarewitsch the Musical | Der Zarewitsch musical
+- A Waltz Dream — Ein Walzertraum | A Waltz Dream the Musical | A Waltz Dream musical | Ein Walzertraum the Musical | Ein Walzertraum musical
+- The Dollar Princess — Die Dollarprinzessin | The Dollar Princess the Musical | The Dollar Princess musical | Die Dollarprinzessin the Musical | Die Dollarprinzessin musical
+- The Circus Princess — Die Zirkusprinzessin | The Circus Princess the Musical | The Circus Princess musical | Die Zirkusprinzessin the Musical | Die Zirkusprinzessin musical
+- Light Cavalry — Leichte Kavallerie | Light Cavalry the Musical | Light Cavalry musical | Leichte Kavallerie the Musical | Leichte Kavallerie musical
+- Les cloches de Corneville — The Bells of Corneville | The Chimes of Normandy | Les cloches de Corneville the Musical | Les cloches de Corneville musical | The Bells of Corneville the Musical | The Bells of Corneville musical | The Chimes of Normandy the Musical | The Chimes of Normandy musical
+- La fille de Madame Angot — La fille de Madame Angot the Musical | La fille de Madame Angot musical
+- Véronique — Véronique the Musical | Véronique musical
+
+### Tier 6: rare jackpots (3)
+
+- The Black Crook — The Black Crook the Musical | The Black Crook musical
+- Dance a Little Closer — Dance a Little Closer the Musical | Dance a Little Closer musical
+- Chu Chin Chow — Chu Chin Chow the Musical | Chu Chin Chow musical
+
+## Refused on purpose (21)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Carmen | Tosca | La Traviata | The Magic Flute | The Marriage of Figaro | Don Giovanni | Così fan tutte | Rigoletto | Turandot | Nabucco | Otello | Fidelio | Der Rosenkavalier | Pagliacci | Cavalleria rusticana | The Barber of Seville | Eugene Onegin | Dido and Aeneas | Peter Grimes | Nixon in China | Einstein on the Beach | The Ring Cycle | Der Ring des Nibelungen | Tristan und Isolde | Lohengrin | Parsifal | Die Walküre | Norma | Lucia di Lammermoor | Akhnaten — "An opera, not a musical."
+- La Bohème — "An opera. Its musical retelling is Rent."
+- Madama Butterfly | Madame Butterfly — "An opera. Its musical retelling is Miss Saigon."
+- Swan Lake | The Nutcracker | Giselle | Coppélia | Spartacus — "A ballet, not a musical."
+- The Mousetrap | Hamlet | Macbeth | Death of a Salesman | Waiting for Godot | An Inspector Calls | The Play That Goes Wrong | Peter Pan Goes Wrong | Noises Off | Equus | The Importance of Being Earnest | The Lehman Trilogy | Stranger Things: The First Shadow | The First Shadow | Oh, Mary! | Life of Pi | The Curious Incident of the Dog in the Night-Time | Jerusalem | A Streetcar Named Desire | The Woman in Black | M. Butterfly — "A play, not a musical."
+- Harry Potter and the Cursed Child | Cursed Child | Harry Potter — "A play, not a musical, for all its magic."
+- War Horse — "A play with songs and puppets, not a musical."
+- Pygmalion — "A play. Its musical version is My Fair Lady."
+- Rocketman | Mamma Mia! Here We Go Again | Grease 2 — "A film musical, never staged."
+- La La Land — "A film musical. Its stage version is still in the works."
+- Encanto — "A film musical. Its first full stage musical is still to come."
+- KPop Demon Hunters — "An animated film, not a stage musical (yet)."
+- Bohemian Rhapsody — "A film about Queen. Their stage musical is We Will Rock You."
+- Dick Whittington | Mother Goose | Jack and the Beanstalk | Babes in the Wood | Pantomime — "A pantomime, not a musical."
+- Andrew Lloyd Webber | Lloyd Webber | Stephen Sondheim | Sondheim | Rodgers and Hammerstein | Lin-Manuel Miranda | Tim Rice | Cameron Mackintosh — "The name behind the musicals, not a musical."
+- Broadway | West End | Off-Broadway | Theatreland | Shaftesbury Avenue — "A theatre district, not a musical."
+- Glee — "A TV series, not a stage musical."
+- Stranger Things — "A play, not a musical."
+- Stereophonic — "A play with music, not a musical."
+- Spirited Away | My Neighbour Totoro | My Neighbor Totoro — "A stage play with music, not a musical."
+- Dear England — "A play, not a musical."

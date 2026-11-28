@@ -1,0 +1,329 @@
+# Name a variety of apple.
+
+Question id: `apple-varieties` · category: food · source: `data/food.json`
+
+Rules: Any named apple variety, eating or cooking, old or new. Trademark names count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (287 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Granny Smith — Granny Smith apple | Granny | Smith | Granny apple | Smith apple
+- Pink Lady — Cripps Pink | Pink Lady apple | Cripps Pink apple | Pink | Pink apple
+- Gala — Royal Gala | Gala apple | Royal Gala apple | Galaxy | Brookfield Gala | Buckeye Gala | Mondial Gala | Galaxy apple | Brookfield Gala apple | Buckeye Gala apple | Mondial Gala apple
+- Golden Delicious — Golden | Yellow Delicious | Golden Delicious apple | Yellow Delicious apple | Mullins Yellow Seedling | Golden apple | Mullins Yellow Seedling apple
+- Braeburn — Braeburn apple
+- Red Delicious — Red Delicious apple | Delicious | Starking | Starking Delicious | Starkrimson | Hawkeye | Red Chief | Delicious apple | Starking apple | Starking Delicious apple | Starkrimson apple | Hawkeye apple | Red Chief apple
+- Fuji — Fuji apple | Aztec Fuji | Sun Fuji | Aztec Fuji apple | Sun Fuji apple
+- Bramley — Bramley's Seedling | Bramley apple | Bramley's Seedling apple
+- Jazz — Scifresh | Jazz apple | Scifresh apple
+- Honeycrisp — Honeycrunch | Honeycrisp apple | Honeycrunch apple
+
+### Tier 2: common (20)
+
+- Cox's Orange Pippin — Cox | Cox's | Cox's Orange | Cox's Orange Pippin apple | Cox's apple | Cox's Orange apple | Pippin | Orange Pippin | Pippin apple | Orange Pippin apple
+- McIntosh — Macintosh | Mac | McIntosh apple | Macintosh apple | McIntosh Red | McIntosh Red apple
+- Jonagold — Jonagold apple
+- Empire — Empire apple
+- Cortland — Cortland apple
+- Egremont Russet — Egremont | Egremont Russet apple | Egremont apple | Russet | Russets | Russet apple | Russets apple
+- Envy — Scilate | Envy apple | Scilate apple
+- Cosmic Crisp — Cosmic Crisp apple | Cosmic | Cosmic apple
+- Ambrosia — Ambrosia apple
+- Opal — Opal apple
+- Rubens — Rubens apple
+- Kanzi — Nicoter | Kanzi apple | Nicoter apple
+- Discovery — Discovery apple
+- Worcester Pearmain — Worcester Pearmain apple | Worcester | Pearmain | Worcester apple | Pearmain apple
+- Spartan — Spartan apple
+- Jonathan — Jonathan apple | Kogyoku | Kogyoku apple
+- Rome — Rome Beauty | Rome apple | Rome Beauty apple
+- Northern Spy — Northern Spy apple | Spy
+- Winesap — Winesap apple
+- Crispin — Mutsu | Crispin apple | Mutsu apple
+
+### Tier 3: known to fans (22)
+
+- Newtown Pippin — Albemarle Pippin | Newtown Pippin apple | Albemarle Pippin apple | Newtown | Yellow Newtown | Newtown apple | Yellow Newtown apple
+- Baldwin — Baldwin apple
+- Gravenstein — Gravenstein apple | Gravensteiner | Gravensteiner apple
+- Macoun — Macoun apple
+- Pacific Rose — Pacific Rose apple
+- SweeTango — Sweet Tango | Minneiska | SweeTango apple | Sweet Tango apple | Minneiska apple
+- Zestar — Zestar apple
+- Paula Red — Paula Red apple
+- Idared — Idared apple
+- Elstar — Elstar apple
+- Boskoop — Belle de Boskoop | Boskoop apple | Belle de Boskoop apple | Schöner aus Boskoop | Roter Boskoop | Schöner aus Boskoop apple | Roter Boskoop apple
+- Topaz — Topaz apple
+- Cameo — Cameo apple
+- Snapdragon — Snapdragon apple
+- Sundowner — Cripps Red | Sundowner apple | Cripps Red apple
+- Red Pippin — Red Pippin apple | Fiesta | Fiesta apple
+- Wealthy — Wealthy apple
+- Haralson — Haralson apple
+- Liberty — Liberty apple
+- GoldRush — GoldRush apple
+- Melrose — Melrose apple
+- Ginger Gold — Ginger Gold apple
+
+### Tier 4: obscure (75)
+
+- Santana — Santana apple
+- Red Love — Red Love apple
+- Evelina — Evelina apple
+- Wellant — Wellant apple
+- Junami — Junami apple
+- Kissabel — Kissabel apple
+- Smitten — Smitten apple
+- Lady Alice — Lady Alice apple
+- Autumn Glory — Autumn Glory apple
+- Rave — Rave apple | First Kiss | First Kiss apple
+- Evercrisp — Evercrisp apple
+- Sugarbee — Sugarbee apple
+- Arkansas Black — Arkansas Black apple
+- Stayman — Stayman apple | Stayman Winesap | Stayman Winesap apple
+- York Imperial — York Imperial apple
+- Lodi — Lodi apple
+- Yellow Transparent — Yellow Transparent apple | White Transparent | Klarapfel | Transparent | White Transparent apple | Klarapfel apple | Transparent apple
+- Wolf River — Wolf River apple
+- Blenheim Orange — Blenheim Orange apple
+- Laxton's Superb — Laxton Superb | Laxton's Superb apple | Laxton Superb apple | Laxton | Laxton apple
+- Katy — Katy apple
+- James Grieve — James Grieve apple | Grieve | Grieve apple
+- Beauty of Bath — Beauty of Bath apple
+- Lord Lambourne — Lord Lambourne apple
+- Kiku — Kiku apple
+- Herefordshire Russet — Herefordshire Russet apple
+- Sunset — Sunset apple
+- Antonovka — Antonovka apple
+- Scrumptious — Scrumptious apple
+- Red Windsor — Red Windsor apple
+- Christmas Pippin — Christmas Pippin apple
+- Pinova — Piñata | Sonata | Pinova apple | Piñata apple | Sonata apple
+- Sturmer Pippin — Sturmer | Sturmer Pippin apple | Sturmer apple
+- Greensleeves — Greensleeves apple
+- Jupiter — Jupiter apple
+- Falstaff — Falstaff apple
+- Winter Banana — Winter Banana apple
+- Grimes Golden — Grimes Golden apple
+- Ben Davis — Ben Davis apple
+- Golden Russet — Golden Russet apple
+- Rhode Island Greening — Greening | Rhode Island Greening apple | Greening apple
+- Red Astrachan — Red Astrachan apple
+- Fameuse — Snow apple | Snow | Fameuse apple
+- Melba — Melba apple
+- Honeygold — Honeygold apple
+- Keepsake — Keepsake apple
+- Sweet Sixteen — Sweet Sixteen apple
+- Frostbite — Frostbite apple
+- SnowSweet — SnowSweet apple
+- Regent — Regent apple
+- Beacon — Beacon apple
+- State Fair — State Fair apple
+- Enterprise — Enterprise apple
+- Freedom — Freedom apple
+- Pristine — Pristine apple
+- Williams' Pride — Williams' Pride apple
+- CrimsonCrisp — CrimsonCrisp apple
+- Jonagored — Jonagored apple
+- Red Jonaprince — Jonaprince | Red Jonaprince apple | Jonaprince apple
+- Gloster — Gloster apple
+- Akane — Akane apple
+- Orin — Orin apple
+- Tsugaru — Tsugaru apple
+- Shinano Gold — Shinano Gold apple
+- Pazazz — Pazazz apple
+- RubyFrost — RubyFrost apple
+- Koru — Koru apple
+- Dazzle — Dazzle apple
+- Modi — Modi apple
+- Rockit — Rockit apple
+- Hidden Rose — Hidden Rose apple
+- Pink Pearl — Pink Pearl apple
+- Dabinett — Dabinett apple
+- Yarlington Mill — Yarlington Mill apple
+- Arlet — Swiss Gourmet | Arlet apple | Swiss Gourmet apple
+
+### Tier 5: expert (158)
+
+- Ludacrisp — Ludacrisp apple
+- Esopus Spitzenburg — Spitzenburg | Esopus Spitzenburg apple | Spitzenburg apple | Spitzenberg | Esopus Spitzenberg | Spitzenberg apple | Esopus Spitzenberg apple
+- Roxbury Russet — Roxbury Russet apple
+- Calville Blanc d'Hiver — Calville Blanc | Calville Blanc d'Hiver apple | Calville Blanc apple | White Winter Calville | White Winter Calville apple
+- Reine des Reinettes — Reine des Reinettes apple | King of the Pippins | Goldparmäne | Golden Winter Pearmain | Reinette | Reinettes | King of the Pippins apple | Goldparmäne apple | Golden Winter Pearmain apple | Reinette apple | Reinettes apple
+- Ashmead's Kernel — Ashmead's Kernel apple | Ashmead | Ashmead apple
+- Ribston Pippin — Ribston Pippin apple
+- Court Pendu Plat — Court Pendu Plat apple
+- Decio — Decio apple
+- Lady apple — Api | Pomme d'Api | Pomme d'Api apple
+- Pitmaston Pineapple
+- D'Arcy Spice — D'Arcy Spice apple
+- Ellison's Orange — Ellison's Orange apple
+- Charles Ross — Charles Ross apple
+- Howgate Wonder — Howgate Wonder apple
+- Grenadier — Grenadier apple
+- Newton Wonder — Newton Wonder apple
+- Annie Elizabeth — Annie Elizabeth apple
+- Knobby Russet — Knobby Russet apple
+- Flower of Kent — Flower of Kent apple
+- Hubbardston Nonesuch — Hubbardston Nonesuch apple
+- Duchess of Oldenburg — Duchess of Oldenburg apple
+- Sops of Wine — Sops of Wine apple
+- Black Twig — Black Twig apple
+- Kingston Black — Kingston Black apple
+- Rubinette — Rubinette apple
+- Devonshire Quarrenden — Devonshire Quarrenden apple
+- Irish Peach — Irish Peach apple
+- Gladstone — Gladstone apple
+- Lane's Prince Albert — Lane's Prince Albert apple
+- Peasgood's Nonsuch — Peasgood's Nonsuch apple
+- Golden Noble — Golden Noble apple
+- Norfolk Beefing — Norfolk Biffin | Biffin | Norfolk Beefing apple | Norfolk Biffin apple | Biffin apple
+- Keswick Codlin — Keswick Codlin apple
+- Lord Derby — Lord Derby apple
+- Arthur Turner — Arthur Turner apple
+- Golden Pippin — Golden Pippin apple
+- Orleans Reinette — Orleans Reinette apple
+- Cornish Gilliflower — Cornish Gilliflower apple
+- Tydeman's Late Orange — Tydeman's Late Orange apple
+- Tydeman's Early Worcester — Tydeman's Early | Tydeman's Early Worcester apple | Tydeman's Early apple
+- Laxton's Fortune — Fortune | Laxton's Fortune apple | Fortune apple
+- Laxton's Epicure — Epicure | Laxton's Epicure apple | Epicure apple
+- Kidd's Orange Red — Kidd's Orange Red apple
+- Adams's Pearmain — Adams Pearmain | Adams's Pearmain apple | Adams Pearmain apple
+- Claygate Pearmain — Claygate Pearmain apple
+- St Edmund's Pippin — St Edmund's Russet | St Edmund's Pippin apple | St Edmund's Russet apple
+- Beauty of Kent — Beauty of Kent apple
+- Bountiful — Bountiful apple
+- Dumelow's Seedling — Wellington | Dumelow's Seedling apple | Wellington apple
+- Edward VII — Edward VII apple
+- Monarch — Monarch apple
+- Saturn — Saturn apple
+- Red Falstaff — Red Falstaff apple
+- Suntan — Suntan apple
+- Nonpareil — Nonpareil apple
+- Margil — Margil apple
+- Foxwhelp — Foxwhelp apple
+- Tremlett's Bitter — Tremlett's Bitter apple
+- Stoke Red — Stoke Red apple
+- Harry Masters Jersey — Harry Masters Jersey apple
+- Brown Snout — Brown Snout apple
+- Michelin — Michelin apple
+- Somerset Redstreak — Somerset Redstreak apple
+- Redstreak — Herefordshire Redstreak | Scudamore's Redstreak | Redstreak apple | Herefordshire Redstreak apple | Scudamore's Redstreak apple
+- Ellis Bitter — Ellis Bitter apple
+- Chisel Jersey — Chisel Jersey apple
+- Porter's Perfection — Porter's Perfection apple
+- Sweet Coppin — Sweet Coppin apple
+- Bulmer's Norman — Bulmer's Norman apple
+- Médaille d'Or — Médaille d'Or apple
+- Brown's Apple
+- Black Oxford — Black Oxford apple
+- Blue Pearmain — Blue Pearmain apple
+- Chenango Strawberry — Chenango Strawberry apple
+- Fall Pippin — Fall Pippin apple
+- King David — King David apple
+- Lamb Abbey Pearmain — Lamb Abbey Pearmain apple
+- Ralls Janet — Ralls Genet | Ralls Janet apple | Ralls Genet apple
+- Red June — Red June apple
+- Smokehouse — Smokehouse apple
+- Summer Rambo — Summer Rambo apple
+- Rambo — Rambo apple
+- Tolman Sweet — Tolman Sweet apple
+- Twenty Ounce — Twenty Ounce apple
+- Virginia Beauty — Virginia Beauty apple
+- White Winter Pearmain — White Winter Pearmain apple
+- Yellow Bellflower — Yellow Bellflower apple
+- Pound Sweet — Pumpkin Sweet | Pound Sweet apple | Pumpkin Sweet apple
+- Early Joe — Early Joe apple
+- Primate — Primate apple
+- Porter — Porter apple
+- Sheepnose — Black Gilliflower | Sheepnose apple | Black Gilliflower apple
+- Swaar — Swaar apple
+- Tompkins King — King of Tompkins County | Tompkins King apple | King of Tompkins County apple
+- Peck's Pleasant — Peck's Pleasant apple
+- Maiden Blush — Maiden Blush apple
+- Early Harvest — Early Harvest apple
+- Wagener — Wagener apple
+- Mother — American Mother | Mother apple | American Mother apple
+- Northwest Greening — Northwestern Greening | Northwest Greening apple | Northwestern Greening apple
+- Lobo — Lobo apple
+- Jonamac — Jonamac apple
+- Redfree — Redfree apple
+- Prima — Prima apple
+- Priscilla — Priscilla apple
+- Sir Prize — Sir Prize apple
+- Novamac — Novamac apple
+- Jonafree — Jonafree apple
+- Dayton — Dayton apple
+- Jersey Mac — Jersey Mac apple
+- Mollie's Delicious — Mollie's Delicious apple
+- Golden Supreme — Golden Supreme apple
+- Prairie Spy — Prairie Spy apple
+- Fireside — Fireside apple
+- Connell Red — Connell Red apple
+- Shinano Sweet — Shinano Sweet apple
+- Sekai Ichi — Sekai Ichi apple
+- Hokuto — Hokuto apple
+- Toki — Toki apple
+- Juici — Juici apple
+- Lucy Glo — Lucy Glo apple
+- Crimson Gold — Crimson Gold apple
+- Salish — Salish apple
+- Silken — Silken apple
+- Nicola — Nicola apple
+- Aurora Golden Gala — Aurora Golden Gala apple
+- Sunrise — Sunrise apple
+- Berlepsch — Freiherr von Berlepsch | Berlepsch apple | Freiherr von Berlepsch apple
+- Ingrid Marie — Ingrid Marie apple
+- Aroma — Aroma apple
+- Reinette Grise du Canada — Canada Reinette | Reinette du Canada | Renetta Canada | Reinette Grise du Canada apple | Canada Reinette apple | Reinette du Canada apple | Renetta Canada apple
+- Chantecler — Belchard | Chantecler apple | Belchard apple
+- Aport — Aport apple
+- Sinap Orlovsky — Sinap Orlovsky apple
+- Ligol — Ligol apple
+- Šampion — Champion | Šampion apple | Champion apple
+- Rubinola — Rubinola apple
+- Annurca — Annurca apple
+- Glockenapfel — Glockenapfel apple
+- Jakob Fischer — Jakob Fischer apple
+- Kaiser Wilhelm — Kaiser Wilhelm apple
+- Danziger Kantapfel — Danziger Kantapfel apple
+- Ontario — Ontario apple
+- Florina — Querina | Florina apple | Querina apple
+- Ariane — Ariane apple
+- Delblush — Tentation | Delblush apple | Tentation apple
+- Ballarat — Ballarat Seedling | Ballarat apple | Ballarat Seedling apple
+- Democrat — Democrat apple
+- Pacific Beauty — Pacific Beauty apple
+- Pacific Queen — Pacific Queen apple
+- Splendour — Splendour apple
+- Bravo — Bravo apple
+- Ambri — Ambri apple
+- John Downie — John Downie apple
+- Dolgo — Dolgo apple
+- Chestnut Crab — Chestnut | Chestnut Crab apple | Chestnut apple
+- Whitney — Whitney Crab | Whitney apple | Whitney Crab apple
+
+### Tier 6: rare jackpots (2)
+
+- Bloody Ploughman — Bloody Ploughman apple
+- Westfield Seek-No-Further — Seek-No-Further | Westfield Seek-No-Further apple | Seek-No-Further apple
+
+## Refused on purpose (8)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Apple | Apples | Red apple | Green apple | Eating apple | Cooking apple | Cooker | Malus domestica | Malus — "Which variety?"
+- Crab apple — "A wild species, not a variety."
+- Pear | Quince | Asian pear | Nashi — "A different fruit, if a close cousin."
+- Big Apple — "New York."
+- Adam's apple — "A throat, not a fruit."
+- Toffee apple | Candy apple | Apple pie | Apple crumble | Cider — "A treat, not a variety."
+- Apple of Discord — "A myth. The deep prefers real orchards."
+- Custard apple | Pineapple | Sugar apple | Wax apple | Thorn apple | Cashew apple | Wood apple | Elephant apple | Kei apple — "Not an apple at all, whatever its name says."

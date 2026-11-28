@@ -1,0 +1,379 @@
+# Name a spirit or liqueur.
+
+Question id: `spirits-liqueurs` · category: food · source: `data/food.json`
+
+Rules: Any type of spirit, such as gin or rum, and any liqueur, by type or by brand. A brand of vodka, whisky or another plain spirit doesn't count, and nor do cocktails or wines.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (325 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Vodka
+- Gin — Mother's ruin | Ginebra
+- Rum — Ron | Rhum
+- Whisky — Whiskey | Uisge beatha | Usquebaugh
+- Tequila — Blanco tequila | Reposado | Añejo | Silver tequila | Gold tequila | Tequila blanco | Tequila reposado | Tequila añejo | Blanco | Plata | Joven | Extra añejo | Cristalino
+- Brandy — Weinbrand | Napoleon brandy
+- Cognac
+- Baileys — Baileys Irish Cream
+- Amaretto — Disaronno | Amaretto di Saronno | Almond liqueur
+- Sambuca — White sambuca | Black sambuca | Molinari
+- Absinthe — Absinth | Green Fairy | La Fée Verte
+- Schnapps — Schnaps | Schnap | Snaps
+
+### Tier 2: common (32)
+
+- Bourbon — Bourbon whiskey | Kentucky bourbon | Straight bourbon | Kentucky straight bourbon
+- Scotch — Scotch whisky | Scottish whisky
+- Irish whiskey — Irish whisky | Irish
+- Rye whiskey — Rye | Rye whisky | American rye | Straight rye
+- Single malt — Single malt Scotch | Single malt whisky | Malt whisky | Malt
+- Mezcal — Mescal
+- Ouzo
+- Grappa
+- Calvados
+- Pisco
+- Soju
+- Moonshine — Hooch | White lightning | White dog | White whiskey | Unaged whiskey | New make spirit | New make
+- Kahlúa
+- Tia Maria
+- Cointreau
+- Grand Marnier
+- Triple sec — Orange liqueur
+- Limoncello — Lemoncello | Lemon liqueur | Limoncino | Crema di limoncello | Limoncello cream
+- Jägermeister — Jäger | Jaeger
+- Southern Comfort — SoCo
+- Malibu — Coconut rum | Coconut liqueur
+- Campari
+- Aperol
+- Pimm's — Pimm's No. 1 | Pimm's No. 1 Cup | Pimm's Cup
+- Sloe gin
+- Advocaat — Advokaat | Warninks | Egg liqueur | Eggnog liqueur | Eierlikör | Verpoorten
+- Peach schnapps — Archers | Peach liqueur | Peachtree
+- Dark rum — Black rum | Brown rum
+- White rum — Light rum | Silver rum | Clear rum
+- Spiced rum
+- Irish cream — Irish cream liqueur | Cream liqueur
+- Fireball — Fireball whisky | Cinnamon whisky
+
+### Tier 3: known to fans (57)
+
+- Armagnac
+- Cachaça — Pinga
+- Curaçao — Blue Curaçao | Orange curaçao
+- Drambuie
+- Frangelico — Hazelnut liqueur
+- Chartreuse — Green Chartreuse | Yellow Chartreuse
+- Bénédictine — DOM Bénédictine
+- Midori — Melon liqueur
+- Crème de menthe — Mint liqueur
+- Crème de cassis — Cassis | Blackcurrant liqueur
+- London dry gin — London dry | London gin | Dry gin
+- Pastis — Ricard | Pastis 51
+- Herbal liqueur — Herb liqueur | Kräuterlikör
+- American whiskey — American whisky
+- Tennessee whiskey — Tennessee whisky
+- Japanese whisky — Japanese whiskey
+- Canadian whisky — Canadian whiskey | Canadian rye
+- Blended whisky — Blended Scotch | Blended malt | Blended whiskey
+- Poitín — Poteen | Potcheen
+- Golden rum — Gold rum | Amber rum
+- Navy rum
+- Overproof rum — Overproof | 151 rum
+- Rhum agricole — Agricole | Agricole rum
+- Old Tom gin — Old Tom
+- Genever — Jenever | Geneva | Dutch gin | Hollands | Oude genever | Jonge genever
+- Pink gin — Rhubarb gin | Flavoured gin | Flavored gin | Strawberry gin | Raspberry gin | Blood orange gin | Orange gin | Lemon gin | Cherry gin | Elderflower gin | Gooseberry gin | Blackberry gin | Rose gin | Parma violet gin | Pineapple gin | Passion fruit gin | Grapefruit gin
+- Applejack
+- Apple brandy — Cider brandy | Somerset cider brandy
+- Kirsch — Kirschwasser | Cherry eau de vie
+- Slivovitz — Slivovice | Śliwowica | Šljivovica | Plum brandy | Slivovica | Zwetschgenwasser | Zwetschgenschnaps | Pflümli
+- Pálinka
+- Rakia — Rakija | Rakiya
+- Eau de vie — Fruit brandy
+- Aguardiente
+- Arak
+- Raki — Lion's milk
+- Anisette — Anise liqueur
+- Pernod
+- Akvavit — Aquavit | Linie aquavit
+- Baijiu — Chinese white liquor | Chinese liquor | Shaojiu
+- Shochu
+- Bison grass vodka — Żubrówka | Bison vodka
+- Flavoured vodka — Flavored vodka | Vanilla vodka | Citrus vodka | Lemon vodka | Cherry vodka | Raspberry vodka | Orange vodka | Strawberry vodka | Apple vodka | Peach vodka | Mango vodka | Coconut vodka | Caramel vodka | Salted caramel vodka | Whipped cream vodka | Chocolate vodka | Coffee vodka | Honey vodka | Blackcurrant vodka | Passion fruit vodka | Watermelon vodka | Cucumber vodka | Grapefruit vodka | Lime vodka | Blueberry vodka | Pineapple vodka
+- Coffee liqueur — Licor de café
+- Amarula
+- Galliano
+- Fernet-Branca — Fernet
+- Amaro — Amaro Nonino | Amaro Lucano
+- Becherovka
+- Chambord
+- Maraschino — Luxardo | Maraschino liqueur
+- Cherry brandy — Cherry liqueur
+- Apricot brandy — Apricot liqueur | Marillenschnaps | Marillenbrand | Barackpálinka
+- Licor 43 — Cuarenta y Tres | Licor Cuarenta y Tres
+- St-Germain — Saint Germain | Elderflower liqueur
+- Crème de cacao — Chocolate liqueur
+- Angostura bitters — Angostura | Bitters | Aromatic bitters
+
+### Tier 4: obscure (88)
+
+- Grain whisky — Grain whiskey | Single grain
+- Corn whiskey — Corn whisky | Corn liquor
+- Islay whisky — Islay | Islay malt | Islay Scotch
+- Speyside whisky — Speyside | Speyside malt
+- Navy-strength gin — Navy-strength
+- Plymouth gin — Plymouth
+- Damson gin
+- Demerara rum — Demerara
+- Jamaican rum
+- Marc — Marc de Bourgogne | Marc de Champagne | Pomace brandy
+- Poire Williams — Williamine | Pear brandy | Williams pear brandy
+- Metaxa — Metaxa 12
+- Brandy de Jerez — Spanish brandy
+- Orujo — Aguardiente de orujo
+- Tsipouro
+- Chacha
+- Framboise — Raspberry eau de vie | Himbeergeist
+- Horilka
+- Samogon
+- Spirytus — Spirytus rektyfikowany | Rectified spirit
+- Grain alcohol — Grain spirit | Neutral grain spirit | Neutral spirit
+- Awamori
+- Arrack — Batavia arrack | Coconut arrack
+- Sotol
+- Mandarine Napoléon
+- Strega — Liquore Strega
+- Averna
+- Montenegro — Amaro Montenegro
+- Ramazzotti
+- Cynar
+- Unicum — Zwack Unicum | Zwack
+- Underberg
+- Kümmel — Caraway liqueur
+- Krupnik — Honey liqueur
+- Brennivín — Black Death
+- Riga Black Balsam — Black Balsam | Rīgas Melnais Balzams | Riga Balsam
+- Génépi — Génépy
+- Mastiha — Mastic liqueur | Masticha
+- Nocino — Walnut liqueur
+- Crème de mûre — Blackberry liqueur
+- Crème de framboise — Raspberry liqueur
+- Crème de banane — Banana liqueur
+- Crème de violette — Violet liqueur
+- Cherry Heering — Heering
+- Passoã — Passion fruit liqueur
+- Pisang Ambon
+- Ginjinha — Ginja
+- Patxaran — Pacharán
+- Umeshu — Plum liqueur | Plum wine
+- Glayva
+- Irish Mist
+- Goldschläger — Cinnamon schnapps | Cinnamon liqueur
+- Aftershock
+- Sourz — Apple Sourz | Sour apple schnapps
+- RumChata
+- Carolans
+- Sheridan's
+- Ginger liqueur — King's Ginger | Domaine de Canton
+- Peppermint schnapps — Rumple Minze
+- Korn — Kornbrand | Doppelkorn
+- Bathtub gin
+- Gin liqueur
+- Whisky liqueur — Whiskey liqueur | Flavoured whisky | Honey whiskey | Apple whiskey | Peach whiskey
+- Tequila Rose
+- Highland whisky — Highland | Highland malt | Highland Scotch
+- Indian whisky — Indian whiskey
+- Fruit liqueur
+- Fruit schnapps — Apple schnapps | Cherry schnapps | Raspberry schnapps | Banana schnapps | Blackberry schnapps | Strawberry schnapps | Watermelon schnapps | Root beer schnapps
+- Strawberry liqueur — Crème de fraise | Crème de fraise des bois | Fraise
+- Apple liqueur — Green apple liqueur | Manzana verde | Licor de manzana
+- Pear liqueur — Poire liqueur
+- Toffee liqueur — Caramel liqueur | Salted caramel liqueur | Dooley's
+- Rum liqueur — Rum cream | Rum cream liqueur
+- Flavoured rum — Pineapple rum | Banana rum | Mango rum | Cherry rum | Honey rum | Vanilla rum | Raspberry rum | Passion fruit rum
+- American single malt — American single malt whisky
+- Sour mash whiskey — Sour mash
+- Peated whisky — Peated Scotch | Peated malt | Smoky whisky
+- Aged rum — Añejo rum | Rum añejo | Rhum vieux | Vintage rum
+- Cuban rum — Ron cubano
+- Barbados rum — Bajan rum
+- Puerto Rican rum
+- Bols
+- De Kuyper
+- Hpnotiq
+- Alizé
+- Skrewball — Peanut butter whiskey
+- Pineau des Charentes — Pineau
+- Nut liqueur
+
+### Tier 5: expert (134)
+
+- Singani
+- Tsikoudia
+- Zivania
+- Mirabelle
+- Obstler
+- Medronho
+- Single pot still — Pot still whiskey | Single pot still whiskey
+- Wheat whiskey — Wheat whisky
+- Welsh whisky
+- Pepper vodka — Pertsovka | Chilli vodka | Chili vodka
+- Bimber
+- Okowita
+- Clairin
+- Charanda
+- Guaro
+- Raicilla
+- Bacanora
+- Feni — Fenny
+- Mahua
+- Korenwijn
+- Inländerrum — Stroh | Stroh rum
+- Lambanog
+- Kaoliang — Kinmen kaoliang | Sorghum liquor
+- Gammel Dansk
+- Izarra
+- Suze
+- Salers
+- Amer Picon
+- Herbsaint
+- Anís — Anis del Mono | Anís seco
+- Xtabentún
+- Mastika
+- Crème de noyaux — Noyaux
+- Crème de pêche
+- Crème Yvette
+- Parfait Amour
+- Mirto
+- Arancello
+- Rompope
+- Ponche crema
+- Bärenjäger
+- Kleiner Feigling
+- Apfelkorn
+- Tuaca
+- Falernum — Velvet Falernum
+- Allspice dram — Pimento dram
+- Peychaud's — Peychaud's bitters
+- Mr Black
+- Godiva liqueur — Godiva
+- Mozart — Mozart chocolate liqueur
+- Yukon Jack
+- Pommeau
+- Ratafia
+- Nalewka
+- Malört — Jeppson's Malört
+- Pelinkovac
+- Țuică
+- Borovička
+- Mampoer
+- Witblits
+- Waragi
+- Akpeteshie
+- Ogogoro
+- Chang'aa
+- Arkhi
+- Butterscotch schnapps — Buttershots
+- Lowland whisky — Lowland | Lowland malt | Lowland Scotch
+- Campbeltown whisky — Campbeltown | Campbeltown malt
+- English whisky — English whiskey
+- Wiśniówka
+- Vanilla liqueur
+- Chestnut liqueur — Crème de châtaigne
+- Pistachio liqueur — Pistachio cream liqueur | Crema di pistacchio
+- Rose liqueur — Rosolio | Crème de rose
+- Lychee liqueur — Litchi liqueur
+- Mango liqueur
+- Pineapple liqueur
+- Blueberry liqueur — Crème de myrtille | Myrtille
+- Cranberry liqueur
+- Grapefruit liqueur — Crème de pamplemousse | Pamplemousse
+- Pomegranate liqueur
+- Brandy liqueur — Cognac liqueur
+- Vodka liqueur
+- Tequila liqueur
+- Taiwanese whisky
+- Australian whisky — Tasmanian whisky
+- Mahón gin — Gin de Mahón | Menorcan gin
+- Steinhäger
+- Armenian brandy — Armenian cognac
+- Cane spirit — Cane liquor | Sugar cane spirit | Caña
+- Blackstrap rum
+- Erguotou
+- Desi daru — Country liquor | Desi sharab | Tharra
+- Urrak
+- Kasippu
+- Habushu — Habu sake | Habu snake liqueur
+- Yuzushu — Yuzu liqueur
+- Lao-Lao
+- Lao khao
+- Rượu đế
+- Mahia — Mahya
+- Boukha
+- Zibib
+- Kitron — Citron liqueur
+- Rakomelo
+- Van der Hum
+- Sodabi
+- Kachasu
+- Starka
+- Goldwasser — Danziger Goldwasser
+- Kümmerling
+- Killepitsch
+- Berliner Luft
+- Enzian — Enzianschnaps
+- Salmiakki — Salmiakki Koskenkorva | Salmari | Salmiakkikossu | Salty liquorice liqueur
+- Lakka — Cloudberry liqueur | Lakkalikööri
+- Minttu
+- Swedish punsch — Punsch | Arrack punsch | Caloric punsch
+- Brännvin
+- Get 27 — Pippermint | Pippermint Get | Get 31
+- Guignolet
+- Amaro del Capo — Vecchio Amaro del Capo | Del Capo
+- Braulio
+- Branca Menta
+- Marie Brizard
+- Rock and rye
+- Licor Beirão — Beirão
+- Damiana
+- Cocuy
+- Floc de Gascogne — Floc
+- Macvin — Macvin du Jura
+- Peach brandy
+- Blackberry brandy
+- Coffee brandy
+
+### Tier 6: rare jackpots (2)
+
+- Pox
+- Mezcal de pechuga — Pechuga | Pechuga mezcal
+
+## Refused on purpose (20)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Spirit | Spirits | Liquor | Booze | Alcohol | Hard liquor | Shot | Shots | Ethanol — "Which spirit?"
+- Liqueur | Liqueurs | Likör — "Which liqueur?"
+- Martini — "A cocktail, or a brand of vermouth: neither is a spirit."
+- Mojito | Margarita | Cosmopolitan | Daiquiri | Piña colada | Negroni | Old Fashioned | Manhattan | Long Island Iced Tea | Bloody Mary | Gin and tonic | G&T | Cuba libre | Mai Tai | Sex on the Beach | Espresso Martini | Aperol Spritz | Spritz | White Russian | Black Russian | Tom Collins | Moscow Mule | Caipirinha | Pisco sour | Whisky sour | Sidecar | Snowball | Hot toddy | Eggnog | Grog | Punch | Rum punch | Sangria | Mimosa | Bellini | Kir | Kir Royale | Jägerbomb | Irish coffee | Mint julep | Zombie | Hurricane | Sloe gin fizz | Tequila Sunrise | Screwdriver | Singapore Sling | Rusty Nail | B-52 | Baby Guinness | Grasshopper | Brandy Alexander | Gimlet | Paloma | Dark 'n' Stormy | Rum and Coke | Vodka tonic | Whisky and Coke | Jack and Coke | Sazerac | Aviation | Last Word | Boulevardier | French 75 | Vesper | Gibson | Caipiroska | Pornstar martini | Amaretto sour | Whisky mac | Mudslide | Godfather | Rob Roy | Bramble | Sea Breeze | Woo Woo | Hugo — "A cocktail, not a spirit."
+- Port | Sherry | Madeira | Marsala | Vermouth | Dry vermouth | Sweet vermouth | Lillet | Dubonnet | Cinzano | Noilly Prat | Cocchi Americano | Punt e Mes | Byrrh | Buckfast | Tonic wine | Ginger wine | Stone's | Stone's Ginger Wine | Amontillado | Fino | Oloroso | Manzanilla | Cream sherry | Pedro Ximénez | Tawny port | Ruby port | MD 20/20 | Mad Dog 20/20 | Commandaria | Mavrodaphne | Banyuls — "A fortified wine, not a spirit or a liqueur."
+- Sake | Beer | Wine | Cider | Mead | Perry | Pulque | Makgeolli | Kombucha | Palm wine | Champagne | Prosecco | Huangjiu | Shaoxing wine | Lager | Ale | Stout | Porter | Guinness | IPA | Pilsner | Rosé | Rosé wine | Red wine | White wine | Cava | Rice wine | Chicha | Kumis | Kvass | Tej | Palm toddy | Nihonshu | Tepache | Mulled wine | Glühwein — "Fermented, not distilled, so not a spirit."
+- Alcopop | Hard seltzer | WKD | Smirnoff Ice | Bacardi Breezer | Premix | Canned cocktail | Ready to drink | White Claw | VK | Four Loko | Mike's Hard Lemonade | Strong Zero | Chuhai | Reef | Truly — "A ready-mixed drink, not a spirit."
+- Smirnoff | Absolut | Grey Goose | Cîroc | Belvedere | Stolichnaya | Stoli | Russian Standard | Ketel One | Tito's | Finlandia | Skyy | Chopin | Glen's | Wyborowa | Sobieski | Koskenkorva | Eristoff | Beluga | Svedka | New Amsterdam | Smirnov | Pinnacle | Crystal Head | Nemiroff — "A brand of vodka, not a type."
+- Gordon's | Tanqueray | Bombay Sapphire | Bombay | Hendrick's | Beefeater | Sipsmith | Monkey 47 | The Botanist | Roku | Whitley Neill | Brockmans | Edinburgh Gin | Warner's | Malfy — "A brand of gin, not a type."
+- Bacardi | Captain Morgan | Havana Club | Mount Gay | Appleton | Appleton Estate | Kraken | Sailor Jerry | Lamb's | Wray & Nephew | Diplomático | Bumbu | Pusser's | Goslings | Myers's | Zacapa | Ron Zacapa | Don Papa | Old J | Dead Man's Fingers | Plantation | Brugal | El Dorado | Flor de Caña | Old Monk — "A brand of rum, not a type."
+- Jack Daniel's | Jim Beam | Maker's Mark | Wild Turkey | Buffalo Trace | Woodford Reserve | Bulleit | Four Roses | Evan Williams | Knob Creek | Pappy Van Winkle | Jameson | Bushmills | Tullamore Dew | Powers | Redbreast | Teeling | Johnnie Walker | Famous Grouse | Bell's | Grant's | Teacher's | Dewar's | Chivas Regal | Ballantine's | J&B | Whyte & Mackay | Glenfiddich | Glenlivet | Macallan | Glenmorangie | Laphroaig | Lagavulin | Talisker | Ardbeg | Bowmore | Highland Park | Oban | Dalmore | Monkey Shoulder | Crown Royal | Canadian Club | Suntory | Hibiki | Yamazaki | Nikka | Penderyn | Amrut | Paul John | McDowell's | Royal Stag | Officer's Choice | Blenders Pride | Imperial Blue | Kavalan — "A brand of whisky, not a type."
+- Hennessy | Rémy Martin | Courvoisier | Martell | Hine | Camus | Otard | Delamain | Frapin — "A brand of cognac, not a type."
+- Jose Cuervo | Cuervo | Patrón | Don Julio | Casamigos | Sauza | Olmeca | Espolòn | El Jimador | Herradura | Clase Azul | Moutai | Maotai | Kweichow Moutai | Jinro | Chamisul | Everclear — "A brand, not a type."
+- VSOP | XO | VS | Napoléon — "A grade of age, not a spirit."
+- Methylated spirits | Meths | Methanol | Surgical spirit | Rubbing alcohol | White spirit | Isopropyl alcohol — "Not for drinking, ever."
+- Angel's share — "The part that evaporates from the cask, sadly undrinkable."
+- Hip flask | Decanter | Tumbler | Shot glass | Snifter | Optic | Cask | Barrel — "Something to carry it in, not a spirit."
+- Grenadine | Orgeat | Simple syrup | Sugar syrup | Lime cordial | Rose's — "A syrup, not a liqueur."
+- Tonic | Tonic water | Soda water | Ginger ale | Lemonade | Coke | Cola | Ginger beer — "A mixer, not a spirit."
+- Torres | Fundador | Ararat | Emperador | Asbach | Asbach Uralt | St-Rémy | Three Barrels | E&J | Christian Brothers | Paul Masson | Mansion House | Honey Bee | Vecchia Romagna | Stock 84 — "A brand of brandy, not a type."

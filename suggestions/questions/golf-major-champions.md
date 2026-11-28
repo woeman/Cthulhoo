@@ -1,0 +1,485 @@
+# Name a golfer who has won a major championship.
+
+Question id: `golf-major-champions` · category: sport · source: `data/sport.json`
+
+Rules: Any winner of a men's or women's major, from the first Open in 1860 to today. Women's majors of the past count too; senior and amateur championships don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (382 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Tiger Woods — Tiger | Eldrick Woods | Woods
+- Jack Nicklaus — Golden Bear | Jack Nicklas | Nicklaus
+- Arnold Palmer — Arnie | Arnie Palmer | Palmer
+- Gary Player — The Black Knight | Player
+- Rory McIlroy — Rory Mcllroy | Rory MacIlroy | Rory | McIlroy
+- Phil Mickelson — Lefty | Phil | Mickelson
+- Seve Ballesteros — Seve | Severiano Ballesteros | Ballesteros
+- Nick Faldo — Faldo
+- Tom Watson
+- Scottie Scheffler — Scottie | Scheffler
+- Ben Hogan — Bantam Ben | The Hawk | Wee Ice Mon | Hogan
+- Greg Norman — The Shark | Norman
+
+### Tier 2: common (38)
+
+- Ernie Els — The Big Easy | Els
+- Lee Trevino — Supermex | Merry Mex | Trevino
+- Sam Snead — Slammin' Sammy | Sammy Snead | Snead
+- Bobby Jones — Bob Jones | Robert Tyre Jones
+- Walter Hagen — The Haig | Hagen
+- Jordan Spieth — Spith | Jordan Speith | Spieth
+- Brooks Koepka — Koepka
+- Bryson DeChambeau — Bryson | DeChambeau
+- Jon Rahm — Rahm
+- Justin Rose — Rose
+- Sergio García — El Niño | García
+- Pádraig Harrington — Paddy Harrington | Harrington
+- Ian Woosnam — Woosie | Woosnam
+- Sandy Lyle — Lyle
+- Bernhard Langer — Langer
+- Tony Jacklin — Jacklin
+- Shane Lowry — Lowry
+- Darren Clarke — Clarke
+- Graeme McDowell — McDowell
+- Dustin Johnson — DJ
+- Adam Scott — Scott
+- Vijay Singh — Singh
+- Payne Stewart — Stewart
+- John Daly — Long John Daly
+- Fred Couples — Freddie Couples | Boom Boom Couples | Couples
+- Bubba Watson — Bubba | Gerry Watson
+- Xander Schauffele — Xander | Alexander Schauffele | Schauffele
+- Collin Morikawa — Morikawa
+- Justin Thomas — JT | Thomas
+- Hideki Matsuyama — Matsuyama
+- Matt Fitzpatrick — Fitzpatrick
+- Harry Vardon — Vardon
+- Byron Nelson — Lord Byron
+- Old Tom Morris — Tom Morris Sr. | Tom Morris Senior | Old Tom
+- Annika Sörenstam — Annika | Sörenstam
+- Laura Davies — Davies
+- Nelly Korda — Nelly | Korda
+- Lydia Ko — Lydia
+
+### Tier 3: known to fans (122)
+
+- Danny Willett — Willett
+- Henrik Stenson — Stenson
+- Martin Kaymer — Kaymer
+- José María Olazábal — Ollie | Chema Olazabal | Olazábal
+- Retief Goosen — The Goose | Goosen
+- Jim Furyk — Furyk
+- Davis Love III — Davis Love | Love
+- Mark O'Meara — O'Meara
+- Paul Lawrie — Lawrie
+- Ben Curtis — Curtis
+- Todd Hamilton
+- Stewart Cink — Cink
+- Louis Oosthuizen — Oosthuizen
+- Charl Schwartzel — Schwartzel
+- Trevor Immelman — Immelman
+- Ángel Cabrera — El Pato | Cabrera
+- Zach Johnson
+- Lucas Glover — Glover
+- Webb Simpson
+- Jason Day — Day
+- Keegan Bradley
+- Jason Dufner — Dufner
+- Jimmy Walker
+- Patrick Reed — Reed
+- Francesco Molinari — Molinari
+- Gary Woodland — Woodland
+- Cameron Smith — Cam Smith
+- Brian Harman — Harman
+- Wyndham Clark — Clark
+- J. J. Spaun — Spaun
+- Aaron Rai — Rai
+- Ryan Fox — Fox
+- Mike Weir — Weir
+- Y. E. Yang — Yang Yong-eun | Yong-eun Yang
+- Geoff Ogilvy — Ogilvy
+- Michael Campbell — Campbell
+- David Duval — Duval
+- Justin Leonard — Leonard
+- Tom Lehman — Lehman
+- Mark Calcavecchia — Calcavecchia
+- Ian Baker-Finch — Baker-Finch
+- Nick Price — Price
+- Paul Azinger — Zinger | Azinger
+- Corey Pavin — Pavin
+- Tom Kite — Kite
+- Curtis Strange — Strange
+- Hale Irwin — Irwin
+- Raymond Floyd — Floyd
+- Johnny Miller
+- Ben Crenshaw — Gentle Ben | Crenshaw
+- Fuzzy Zoeller — Fuzzy | Frank Zoeller | Zoeller
+- Craig Stadler — Stadler
+- Larry Mize — Mize
+- Gene Sarazen — Sarazen
+- Peter Thomson — Thomson
+- Bobby Locke — Locke
+- Henry Cotton — Cotton
+- Billy Casper — Casper
+- Young Tom Morris — Tom Morris Jr. | Tom Morris Junior | Young Tom | Tommy Morris
+- James Braid — Braid
+- J. H. Taylor — John Henry Taylor | Taylor
+- Francis Ouimet — Ouimet
+- Bob Charles — Charles
+- Roberto De Vicenzo — De Vicenzo
+- Tom Weiskopf — Weiskopf
+- Babe Zaharias — Babe Didrikson | Babe Didrikson Zaharias | Babe | Mildred Didrikson | Zaharias | Didrikson
+- Patty Berg — Berg
+- Mickey Wright — Mary Kathryn Wright | Wright
+- Karrie Webb — Webb
+- Inbee Park — Park In-bee | Inbee
+- Se Ri Pak — Pak Se-ri | Pak
+- Lorena Ochoa — Ochoa
+- Nancy Lopez — Lopez
+- Juli Inkster — Inkster
+- Lexi Thompson — Alexis Thompson | Lexi | Thompson
+- Michelle Wie — Michelle Wie West | Wie
+- Paula Creamer — Creamer
+- Yani Tseng — Tseng
+- Stacy Lewis — Lewis
+- Cristie Kerr — Kerr
+- Catriona Matthew — Matthew
+- Georgia Hall — Hall
+- Brooke Henderson — Brooke M. Henderson | Henderson
+- Minjee Lee
+- Hannah Green
+- Ariya Jutanugarn — Jutanugarn
+- Anna Nordqvist — Nordqvist
+- Suzann Pettersen — Pettersen
+- Morgan Pressel — Pressel
+- Kathy Whitworth — Whitworth
+- Louise Suggs — Suggs
+- Betsy King — King
+- Pat Bradley
+- Patty Sheehan — Sheehan
+- JoAnne Carner — Carner
+- Beth Daniel — Daniel
+- Amy Alcott — Alcott
+- Meg Mallon — Mallon
+- Lilia Vu — Vu
+- Céline Boutier — Boutier
+- Ko Jin-young — Jin Young Ko
+- Chun In-gee — In Gee Chun | Chun
+- Kim Sei-young — Sei Young Kim
+- Ryu So-yeon — So Yeon Ryu
+- Shanshan Feng — Feng Shanshan | Feng
+- Jiyai Shin — Shin Ji-yai | Shin
+- Karen Stupples — Stupples
+- Alison Nicholas — Nicholas
+- Liselotte Neumann — Lotta Neumann | Neumann
+- Helen Alfredsson — Alfredsson
+- Sophia Popov — Popov
+- Ashleigh Buhai — Buhai
+- Allisen Corpuz — Corpuz
+- Maja Stark — Stark
+- Mao Saigo — Saigo
+- Grace Kim
+- Miyū Yamashita — Yamashita
+- Ryu Hae-ran — Hae Ran Ryu
+- Shiho Kuwaki — Kuwaki
+- Jennifer Kupcho — Kupcho
+- Yuka Saso — Saso
+- Betsy Rawls — Rawls
+
+### Tier 4: obscure (140)
+
+- Rich Beem — Beem
+- David Toms — Toms
+- Shaun Micheel — Micheel
+- Hubert Green
+- Andy North — North
+- Steve Elkington — Elkington
+- Lee Janzen — Janzen
+- Mark Brooks
+- Steve Jones
+- Willie Anderson
+- Jim Barnes — Barnes
+- Tommy Armour — Armour
+- Denny Shute — Densmore Shute | Shute
+- Ralph Guldahl — Guldahl
+- Jimmy Demaret — Demaret
+- Cary Middlecoff — Middlecoff
+- Julius Boros — Boros
+- Larry Nelson
+- Ted Ray — Ray
+- Jock Hutchison — Hutchison
+- Leo Diegel — Diegel
+- Olin Dutra — Dutra
+- Horton Smith
+- Paul Runyan — Runyan
+- Henry Picard — Picard
+- Craig Wood — Wood
+- Jack Burke Jr. — Jack Burke
+- Doug Ford — Ford
+- Dave Stockton — Stockton
+- David Graham
+- Lloyd Mangrum — Mangrum
+- Ken Venturi — Venturi
+- Tony Lema — Lema
+- Gene Littler — Littler
+- Gay Brewer — Brewer
+- Orville Moody — Moody
+- Lou Graham
+- Jerry Pate — Pate
+- Lanny Wadkins — Wadkins
+- Hal Sutton — Sutton
+- Bob Tway — Tway
+- Scott Simpson
+- Jeff Sluman — Sluman
+- Wayne Grady — Grady
+- Tommy Aaron
+- Charles Coody — Coody
+- George Archer — Archer
+- Bob Goalby — Goalby
+- Kel Nagle — Nagle
+- Max Faulkner — Faulkner
+- Fred Daly
+- Tommy Bolt — Bolt
+- Art Wall Jr. — Art Wall | Wall
+- Dow Finsterwald — Finsterwald
+- Bob Rosburg — Rosburg
+- Jerry Barber — Barber
+- Bobby Nichols — Nichols
+- Dave Marr — Marr
+- Al Geiberger — Geiberger
+- Don January — January
+- John Mahaffey — Mahaffey
+- Bill Rogers — Rogers
+- Willie Park Sr. — Willie Park Senior
+- Willie Park Jr. — Willie Park Junior
+- Harold Hilton — Hilton
+- John Ball — Ball
+- Bob Ferguson — Ferguson
+- Jamie Anderson — James Anderson
+- Bob Martin
+- Lawson Little
+- Johnny Goodman — Goodman
+- Chick Evans — Charles Evans | Evans
+- Jerome Travers — Jerry Travers | Travers
+- John McDermott — Johnny McDermott | McDermott
+- Alex Smith
+- Willie Smith
+- Sandy Herd
+- Jack White
+- George Duncan — Duncan
+- Arthur Havers — Havers
+- Sandra Haynie — Haynie
+- Donna Caponi — Donna Caponi Young | Caponi
+- Hollis Stacy — Stacy
+- Susie Berning — Susie Maxwell Berning | Susie Maxwell | Berning
+- Carol Mann — Mann
+- Jan Stephenson — Stephenson
+- Sally Little
+- Sandra Palmer
+- Jane Geddes — Geddes
+- Brandie Burton
+- Dottie Pepper — Dottie Mochrie | Dottie Pepper Mochrie | Mochrie | Pepper
+- Sherri Steinhauer — Steinhauer
+- Brittany Lincicome — Lincicome
+- Danielle Kang — Kang
+- Pernilla Lindberg — Lindberg
+- Hinako Shibuno — Shibuno
+- Patty Tavatanakit — Tavatanakit
+- Ayaka Furue — Furue
+- Yin Ruoning — Ruoning Yin | Yin
+- Mirim Lee
+- Lee Jeong-eun — Jeongeun Lee | Lee6
+- Park Sung-hyun — Sung Hyun Park
+- Kim Hyo-joo — Hyo Joo Kim
+- Kim A-lim — A Lim Kim
+- Birdie Kim — Kim Ju-yun
+- In-Kyung Kim — Kim In-kyung
+- Eun-Hee Ji — Ji Eun-hee | Ji
+- Na Yeon Choi — Choi Na-yeon | Choi
+- Jeong Jang — Jang Jeong | Jang
+- Grace Park — Park Ji-eun
+- Sun-Young Yoo — Yoo Sun-young | Yoo
+- Amy Yang — Yang Hee-young
+- Brittany Lang — Lang
+- Angela Stanford — Stanford
+- Mo Martin
+- Hilary Lunke — Lunke
+- Lauri Merten — Merten
+- Patricia Meunier-Lebouc — Meunier-Lebouc
+- Kelly Robbins — Robbins
+- Pat Hurst — Hurst
+- Tammie Green
+- Jenny Lidback — Lidback
+- Kathy Baker — Baker
+- Martha Nause — Nause
+- Colleen Walker
+- Christa Johnson
+- Cathy Johnston-Forbes — Cathy Johnston | Johnston-Forbes
+- Donna Andrews — Andrews
+- Nancy Scranton — Scranton
+- Nanci Bowen — Bowen
+- Sherri Turner — Turner
+- Marlene Hagge — Marlene Bauer Hagge | Marlene Bauer | Hagge
+- Mary Mills — Mills
+- Beverly Hanson — Hanson
+- Betty Jameson — Jameson
+- Fay Crocker — Crocker
+- Hisako Higuchi — Chako Higuchi | Higuchi
+- Sandra Post — Post
+- Alice Miller
+- Janet Anderson — Janet Alex
+
+### Tier 5: expert (67)
+
+- Andrew Strath — Strath
+- Tom Kidd — Kidd
+- Mungo Park
+- Willie Fernie — Fernie
+- Jack Simpson
+- David Brown — Brown
+- Jack Burns — Burns
+- Hugh Kirkaldy — Kirkaldy
+- Willie Auchterlonie
+- Horace Rawlins — Rawlins
+- James Foulis — Foulis
+- Joe Lloyd — Lloyd
+- Fred Herd
+- Laurie Auchterlonie
+- Alec Ross — Alex Ross | Ross
+- Fred McLeod — McLeod
+- George Sargent — Sargent
+- Cyril Walker
+- Willie Macfarlane — Macfarlane
+- Johnny Farrell — Farrell
+- Billy Burke
+- Tom Creavy — Creavy
+- Sam Parks Jr. — Sam Parks | Parks
+- Alf Perry
+- Johnny Revolta — Revolta
+- Tony Manero — Manero
+- Alf Padgham — Padgham
+- Reg Whitcombe — Whitcombe
+- Dick Burton
+- Vic Ghezzi — Ghezzi
+- Bob Hamilton
+- Herman Keiser — Keiser
+- Lew Worsham — Lou Worsham | Worsham
+- Jim Ferrier — Ferrier
+- Claude Harmon — Harmon
+- Chandler Harper — Harper
+- Jim Turnesa — Turnesa
+- Walter Burkemo — Burkemo
+- Ed Furgol — Furgol
+- Chick Harbert — Harbert
+- Dick Mayer — Mayer
+- Lionel Hebert
+- Jay Hebert
+- Mary Lena Faulk — Faulk
+- Kathy Cornelius — Cornelius
+- Marilynn Smith
+- Peggy Kirk Bell — Peggy Kirk | Bell
+- Judy Kimball — Kimball
+- Murle Lindstrom — Murle Breer | Breer | Lindstrom
+- Shirley Englehorn — Englehorn
+- Gloria Ehret — Ehret
+- Kathy Ahern — Ahern
+- Jerilyn Britz — Britz
+- Betty Burfeindt — Burfeindt
+- Sandra Spuzich — Spuzich
+- Joyce Ziske — Ziske
+- Helen Hicks — Hicks
+- Opal Hill — Hill
+- June Beebe — Beebe
+- Bea Barrett — Barrett
+- Dorothy Kirby — Kirby
+- Helen Dettweiler — Dettweiler
+- Marian McDougall — McDougall
+- Lucia Mida — Lee Mida | Mrs Lee Mida | Mida
+- Jane Weiller — Weiller
+- Jody Anschutz — Jody Rosenthal | Rosenthal | Anschutz
+- Pat O'Sullivan — O'Sullivan
+
+### Tier 6: rare jackpots (3)
+
+- Arnaud Massy — Massy
+- Jack Fleck — Fleck
+- Catherine Lacoste — Lacoste
+
+## Refused on purpose (69)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Watson — "Which Watson? Two of them have won one."
+- Jones — "Which Jones? Two of them have won one."
+- Johnson — "Which Johnson? Three of them have won one."
+- Daly — "Which Daly? Two of them have won one."
+- Nelson — "Which Nelson? Two of them have won one."
+- Morris — "Which Morris? A father and his son both won it."
+- Hamilton — "Which Hamilton? Two of them have won one."
+- Simpson — "Which Simpson? Three of them have won one."
+- Bradley — "Which Bradley? Two of them have won one."
+- Walker — "Which Walker? Three of them have won one."
+- Smith — "Which Smith? Five of them have won one."
+- Yang — "Which Yang? Two of them have won one."
+- Miller — "Which Miller? Two of them have won one."
+- Green — "Which Green? Three of them have won one."
+- Anderson — "Which Anderson? Three of them have won one."
+- Burke — "Which Burke? Two of them have won one."
+- Graham — "Which Graham? Two of them have won one."
+- Park — "Which Park? Six of them have won one, in Scotland and in Korea."
+- Martin — "Which Martin? Two of them have won one."
+- Little — "Which Little? Two of them have won one."
+- Herd — "Which Herd? Two of them have won one."
+- Auchterlonie — "Which Auchterlonie? Two brothers both won one."
+- Burton — "Which Burton? Two of them have won one."
+- Hebert — "Which Hebert? Two brothers both won one."
+- Ko — "Which Ko? Two of them have won one."
+- Lee — "Which Lee? Several winners have the name. Give the other one too."
+- Kim — "Which Kim? Six of them have won one."
+- Ryu — "Which Ryu? Two of them have won one."
+- Jack — "Which Jack? Several of them have won one. The deep wants a surname."
+- Gary — "Which Gary? Two of them have won one. The deep wants a surname."
+- Nick — "Which Nick? Two of them have won one. The deep wants a surname."
+- Ian — "Which Ian? Two of them have won one. The deep wants a surname."
+- John — "Which John? Several of them have won one. The deep wants a surname."
+- Fred — "Which Fred? Several of them have won one. The deep wants a surname."
+- Sam — "Which Sam? Two of them have won one. The deep wants a surname."
+- Bobby — "Which Bobby? Several of them have won one. The deep wants a surname."
+- Walter — "Which Walter? Two of them have won one. The deep wants a surname."
+- Ben — "Which Ben? Several of them have won one. The deep wants a surname."
+- Tom — "Which Tom? Several of them have won one. The deep wants a surname."
+- Jim — "Which Jim? Several of them have won one. The deep wants a surname."
+- Mark — "Which Mark? Several of them have won one. The deep wants a surname."
+- Paul — "Which Paul? Several of them have won one. The deep wants a surname."
+- Jason — "Which Jason? Two of them have won one. The deep wants a surname."
+- Jimmy — "Which Jimmy? Two of them have won one. The deep wants a surname."
+- Justin — "Which Justin? Several of them have won one. The deep wants a surname."
+- Nancy — "Which Nancy? Two of them have won one. The deep wants a surname."
+- Patty — "Which Patty? Several of them have won one. The deep wants a surname."
+- Kathy — "Which Kathy? Several of them have won one. The deep wants a surname."
+- Betsy — "Which Betsy? Two of them have won one. The deep wants a surname."
+- Grace — "Which Grace? Two of them have won one. The deep wants a surname."
+- Willie — "Which Willie? Several of them have won one. The deep wants a surname."
+- Bob — "Which Bob? Several of them have won one. The deep wants a surname."
+- Tony — "Which Tony? Several of them have won one. The deep wants a surname."
+- Sandy — "Which Sandy? Two of them have won one. The deep wants a surname."
+- Arnold | Ernie | Jordan | Jon | Sergio | Padraig | Bernhard | Shane | Darren | Graeme | Adam | Vijay | Payne | Harry | Collin | Hideki | Matt | Danny | Henrik | Retief | Louis | Charl | Trevor | Zach | Keegan | Patrick | Francesco | Cameron | Brian | Wyndham | Ryan | Dustin | Laura | Karrie | Lorena | Michelle | Paula | Yani | Mickey | Louise | Juli | Minjee | Hannah | Georgia | Brooke | Lilia | Ariya | Catriona | Greg — "First names won't do here. The deep wants a surname."
+- Brooks — "Which Brooks? It's one winner's first name and another's surname. Give both names."
+- Aaron — "Which Aaron? It's one winner's first name and another's surname. Give both names."
+- Perry — "Which Perry? Give a first name too."
+- Tom Morris — "Which Tom Morris? A father and his son both won it."
+- Willie Park — "Which Willie Park? Father and son both won it."
+- Colin Montgomerie | Montgomerie | Monty — "Five times a runner-up in majors. His only majors came on the senior tour, which doesn't count here."
+- Lee Westwood | Westwood — "World No. 1, but never a major winner."
+- Luke Donald — "World No. 1, but never a major winner."
+- Tommy Fleetwood | Fleetwood | Ian Poulter | Poulter | Paul Casey | Matt Kuchar | Rickie Fowler | Tony Finau | Viktor Hovland | Ludvig Aberg | Tyrrell Hatton | Patrick Cantlay | Charley Hull | Hull | Nasa Hataoka | Jeeno Thitikul | Carlota Ciganda | Leona Maguire | Mel Reid | Bronte Law — "No major title, at least not yet."
+- Steve Stricker | Stricker | Kenny Perry | Fred Funk | Jay Haas — "His majors came on the senior tour, which doesn't count here."
+- Jean van de Velde | Van de Velde — "Led the 1999 Open by three shots on the last tee, and lost it."
+- Doug Sanders — "Missed a short putt to win the 1970 Open, then lost the play-off."
+- Sophie Gustafson | Penny Grice-Whittaker | Debbie Massey | Jenny Lee Smith | Emilee Klein | Karen Lunn — "Won the Women's British Open before 2001, when it became a major."
+- Happy Gilmore | Roy McAvoy | Tin Cup | Bagger Vance | Carl Spackler | Shooter McGavin | Rannulph Junuh — "A film golfer. Not real, sadly."

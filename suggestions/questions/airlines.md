@@ -1,0 +1,910 @@
+# Name an airline.
+
+Question id: `airlines` · category: misc · source: `data/misc.json`
+
+Rules: Any airline that carries or once carried passengers or cargo, from any country and any era, long-gone ones included. Aircraft makers, airports and alliances don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (863 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- British Airways — BA | British Air | British Airlines | British Airways World Cargo | BA World Cargo
+- Ryanair — Ranair | Ryanair UK | Ryanair Airlines | Ryanair Airways
+- easyJet — easyJet Europe | easyJet Switzerland | easyJet UK | easyJet Airlines | easyJet Airways | easyJet Air
+- Virgin Atlantic — Virgin Atlantic Airways | Virgin Atlantic Airlines
+- Emirates — Fly Emirates | Emirates Airline | Emirates SkyCargo | Emirates Airways | Emirates Air
+- Lufthansa — Deutsche Lufthansa | Lufthansa Airlines | Lufthansa German Airlines | Lufthansa CityLine | Lufthansa Airways | Lufthansa Air
+- Air France — Air France Cargo
+- KLM — KLM Royal Dutch Airlines | Royal Dutch Airlines | KLM Airlines | Koninklijke Luchtvaart Maatschappij | KLM Cityhopper | KLM Cargo | KLM Air | KLM Airways
+- American Airlines — American | AA | American Air | American Airlines Cargo | American Airways
+- Delta — Delta Air Lines | Delta Connection | Delta Cargo | Delta Airways | Delta Air | Dela | Delat
+- United — United Airlines | United Express | United Airlines Cargo | United Airways | United Air
+- Qantas — Qantas Airways | Qantas Airlines | Qantas Empire Airways | Qantas Air
+
+### Tier 2: common (44)
+
+- Jet2 — Jet2.com | Jet2holidays | Channel Express | Jet2 Airlines | Jet2 Airways | Jet2 Air
+- TUI Airways — TUI | TUI fly | Thomson | Thomson Airways | Thomsonfly | TUI Airlines
+- Aer Lingus — Aer Lingus Regional
+- Wizz Air — Wizz | Wiz Air | Wizz Air Abu Dhabi | Wizz Air UK | Wizz Airlines | Wizz Airways
+- Norwegian — Norwegian Air | Norwegian Air Shuttle | Norwegian Air International | Norwegian Airlines | Norwegian Airways
+- Qatar Airways — Qatar | Qatar Airways Cargo | Qatar Air | Qatar Airlines | Qatar Cargo
+- Etihad — Etihad Airways | Etihad Airlines | Etihad Cargo | Etihad Air
+- Singapore Airlines — SIA | Singapore Air | Singapore Airlines Cargo | Singapore | Singapore Airways
+- Cathay Pacific — Cathay | Cathay Pacific Airways | Cathay Pacific Airlines | Cathay Airlines | Cathay Airways
+- Southwest — Southwest Airlines | Southwest Airways | Southwest Air
+- JetBlue — JetBlue Airways | JetBlue Airlines | JetBlue Air
+- Alaska Airlines — Alaska Air | Alaska | Alaska Airways
+- Hawaiian Airlines — Hawaiian | Hawaiian Air | Hawaiian Airways
+- Spirit — Spirit Airlines | Spirit Air | Spirit Airways
+- Air Canada — Trans-Canada Air Lines | TCA | Tango | Zip
+- Iberia — Iberia Airlines | Iberia Airways | Iberia Air
+- Aeroflot — Aeroflot Russian Airlines | Aeroflot Soviet Airlines
+- Turkish Airlines — Turkish | THY | Turkish Cargo | Türk Hava Yolları | Turkish Air | Turkish Airways
+- Air India — Tata Airlines | Air India International
+- Japan Airlines — JAL | Japan Airways | JAL Airlines | JAL Airways | Japan Air
+- ANA — All Nippon Airways | All Nippon | ANA Airlines | ANA Air | ANA Airways
+- Thai Airways — Thai | Thai Airways International | Thai Airlines | Thai Air
+- Malaysia Airlines — MAS | Malaysian Airlines | Malaysian Airline System | Malaysia Airways
+- Air New Zealand — Air NZ | Tasman Empire Airways | Tasman Empire Airways Limited | Air New Zealand Link
+- Virgin Australia — Virgin Blue | Virgin Australia Regional Airlines | V Australia | Pacific Blue | Virgin Australia Airlines | Virgin Australia Airways
+- Pan Am — Pan American | Pan American World Airways | Pan American Airways | Pan American Airlines | Pan Am Airlines | Pan Am Airways | Pan Am Air
+- TWA — Trans World Airlines | Transcontinental & Western Air | TWA Airlines | TWA Air | TWA Airways
+- Flybe — Jersey European | Jersey European Airways | British European | Flybe Airlines | Flybe Airways | Flybe Air
+- Monarch — Monarch Airlines | Monarch Airways | Monarch Air
+- Thomas Cook Airlines — Thomas Cook | JMC | JMC Air | JMC Airlines | Thomas Cook Airways
+- Alitalia — Alitalia Linee Aeree Italiane | Alitalia Airlines | Alitalia Airways | Alitalia Air
+- Swissair — Swissair Airlines | Swissair Airways
+- Swiss — Swiss International Air Lines | Swiss International | Swiss Air Lines | Swiss Airways
+- Icelandair — Icelandair Cargo | Flugfélag Íslands | Flugleiðir | Icelandair Airlines | Icelandair Airways
+- Finnair — Finair | Aero O/Y | Finnair Airlines | Finnair Airways
+- SAS — Scandinavian Airlines | Scandinavian Airlines System | Scandinavian | SAS Airlines
+- El Al — El Al Israel Airlines | El Al Cargo | El Al Airlines | El Al Airways | El Al Air
+- EgyptAir — Misrair | Misr Airwork | United Arab Airlines | EgyptAir Airlines | EgyptAir Airways
+- Vueling — Vueling Airlines | Vueling Airways | Vueling Air
+- Loganair — Loganair Airlines | Loganair Airways
+- BOAC — British Overseas Airways Corporation | BOAC Airlines | BOAC Airways | BOAC Air
+- Jetstar — Jetstar Airways | Jetstar Asia | Jetstar Airlines
+- AirAsia — AirAsia X | Thai AirAsia | Indonesia AirAsia | AirAsia Philippines | Philippines AirAsia | AirAsia Malaysia | AirAsia Cambodia | AirAsia Japan
+- Korean Air — Korean Airlines | KAL | Korean Air Cargo | Korean Airways
+
+### Tier 3: known to fans (105)
+
+- Austrian — Austrian Airlines | AUA | Austrian Airways | Austrian Air
+- Brussels Airlines — SN Brussels Airlines | Brussels Airways
+- TAP Air Portugal — TAP | TAP Portugal | Air Portugal | TAP Air Portugal Airlines | TAP Air Portugal Airways
+- ITA Airways — ITA | Italia Trasporto Aereo | ITA Airlines
+- Aegean — Aegean Airlines | Aegean Airways | Aegean Air
+- LOT — LOT Polish Airlines | Polish Airlines | LOT Airlines
+- Air Baltic
+- Transavia — Transavia Airlines | Transavia Airways | Transavia Air
+- Eurowings — Eurowings Airlines | Eurowings Airways | Eurowings Air
+- Condor — Condor Airlines | Condor Airways | Condor Air
+- Air Europa
+- Volotea — Volotea Airlines | Volotea Airways | Volotea Air
+- Croatia Airlines — Croatia Airways
+- Air Serbia — Jat Airways
+- Pegasus — Pegasus Airlines | Pegasus Airways | Pegasus Air
+- SunExpress — SunExpress Airlines | SunExpress Airways | SunExpress Air
+- Air Malta
+- Cyprus Airways — Cyprus Airlines
+- Luxair — Luxair Airlines | Luxair Airways
+- Olympic — Olympic Airways | Olympic Airlines | Olympic Air
+- Sabena — Sabena Belgian World Airlines | Sabena Airlines | Sabena Airways | Sabena Air
+- Air Berlin
+- Germanwings — Germanwings Airlines | Germanwings Airways | Germanwings Air
+- WOW air — WOW | WOW Airlines
+- Play — Fly Play | Play Airlines | Play Airways | Play Air
+- Laker Airways — Laker | Skytrain | Laker Skytrain | Laker Airlines | Laker Air
+- British Caledonian — BCal | British Caledonian Airlines | British Caledonian Airways
+- Dan-Air — Dan-Air Airlines | Dan-Air Airways
+- British Midland — bmi | British Midland International | British Midland Airlines | British Midland Airways | British Midland Air
+- bmibaby — bmibaby Airlines | bmibaby Airways | bmibaby Air
+- Go — Go Fly
+- Buzz — Ryanair Sun | Buzz Airlines | Buzz Airways | Buzz Air
+- BEA — British European Airways | BEA Airlines
+- Imperial Airways — Imperial Airlines
+- Aurigny — Aurigny Air Services | Aurigny Airlines | Aurigny Airways | Aurigny Air
+- Jet Airways — Jet Airlines | Jet Air
+- Kingfisher Airlines — Kingfisher | Kingfisher Airways
+- IndiGo — Indigo Airlines | IndiGo Airways | IndiGo Air
+- SpiceJet — SpiceJet Airlines | SpiceJet Airways | SpiceJet Air
+- Vistara — Vistara Airlines | Vistara Airways | Vistara Air
+- Cebu Pacific — Cebu Pacific Air | Cebu Pacific Airlines | Cebu Pacific Airways
+- Philippine Airlines — PAL | Philippine Airways
+- Vietnam Airlines — Vietnam Airways
+- VietJet — VietJet Air | Thai VietJet | Vietjet Thailand | VietJet Airlines | VietJet Airways
+- Garuda Indonesia — Garuda | Garuda Indonesia Airlines | Garuda Indonesia Airways | Garuda Airlines | Garuda Airways | Garuda Air
+- Lion Air — Lion Airlines | Lion Airways
+- Asiana — Asiana Airlines | Asiana Air | Asiana Airways
+- China Airlines — China Airlines Cargo | China Airways | China Air
+- EVA Air — EVA | EVA Airways | EVA Air Cargo | EVA Airlines
+- Air China — Air China Cargo
+- China Eastern — China Eastern Airlines | China Eastern Airways
+- China Southern — China Southern Airlines | China Southern Airways
+- Hainan Airlines — Hainan | Hainan Airways
+- HK Express — Hong Kong Express | HK Express Airlines | HK Express Airways | HK Express Air
+- Scoot — Scoot Airlines | Scoot Airways | Scoot Air
+- Tigerair — Tiger Airways | Tigerair Airlines | Tigerair Airways
+- Peach — Peach Aviation | Peach Airlines | Peach Airways | Peach Air
+- Gulf Air — Gulf Airlines | Gulf Airways
+- Oman Air — Oman Airlines | Oman Airways
+- Kuwait Airways — Kuwait Airlines
+- Saudia — Saudi Arabian Airlines | Saudi Airlines | Saudi Arabian | Saudi | Saudia Cargo | Saudia Airways | Saudia Air
+- Royal Jordanian — Royal Jordanian Airlines | Royal Jordanian Airways
+- Middle East Airlines — MEA | Middle East Airways
+- Royal Air Maroc — RAM | Royal Air Maroc Airlines | Royal Air Maroc Airways
+- Kenya Airways — Kenya Airlines | Kenya Air
+- Ethiopian Airlines — Ethiopian | Ethiopian Cargo | Ethiopian Air | Ethiopian Airways
+- South African Airways — SAA | South African Airlines
+- Air Mauritius
+- LATAM — LATAM Airlines | LATAM Cargo | LATAM Brasil | LATAM Airways | LATAM Air
+- Avianca — Avianca Airlines | Avianca Cargo | Avianca Airways | Avianca Air
+- Copa Airlines — Copa | Copa Airways
+- Aeroméxico — Aeronaves de México
+- Mexicana — Mexicana de Aviación | Mexicana Airlines | Mexicana Airways | Mexicana Air
+- Volaris — Volaris Airlines | Volaris Airways | Volaris Air
+- Aerolíneas Argentinas
+- GOL — Gol Linhas Aéreas | Gol Airlines | Gol Transportes Aéreos
+- Azul — Azul Brazilian Airlines | Azul Airlines | Azul Linhas Aéreas | Azul Airways | Azul Air
+- Varig — Varig Airlines | Varig Airways | Varig Air
+- Air Jamaica — Air Jamaica Express
+- Caribbean Airlines — Caribbean Airways
+- WestJet — WestJet Airlines | WestJet Encore | WestJet Airways | WestJet Air
+- Air Transat — Transat
+- Porter — Porter Airlines | Porter Airways | Porter Air
+- Canadian Airlines — Canadian Airlines International | Canadian | Canadian Airways
+- Frontier — Frontier Airlines | Frontier Airways | Frontier Air
+- Allegiant — Allegiant Air | Allegiant Airlines | Allegiant Airways
+- Sun Country — Sun Country Airlines | Sun Country Airways | Sun Country Air
+- Continental — Continental Airlines | Continental Express | Continental Micronesia | Continental Airways | Continental Air
+- Northwest — Northwest Airlines | Northwest Orient | Northwest Airways | Northwest Air
+- US Airways — USAir
+- Eastern Air Lines
+- Braniff — Braniff International | Braniff International Airways | Braniff Airlines | Braniff Airways | Braniff Air
+- Virgin America — Virgin America Airlines | Virgin America Airways
+- AirTran — AirTran Airways
+- People Express — PEOPLExpress | People Express Airlines | People Express Airways
+- FedEx — FedEx Express | Federal Express | FedEx Air | FedEx Airlines | FedEx Airways
+- UPS Airlines — UPS | UPS Air | United Parcel Service | UPS Air Cargo
+- DHL — DHL Aviation | DHL Air | European Air Transport | DHL Airways | DHL Air UK | DHL Airlines
+- Ansett — Ansett Australia | Ansett Airlines | Ansett Airways | Ansett Air
+- Fiji Airways — Air Pacific | Fiji Link | Fiji Airlines
+- Rex — Regional Express | Rex Airlines
+- Air Arabia — Air Arabia Abu Dhabi | Air Arabia Egypt | Air Arabia Maroc
+- flydubai — flydubai Airlines | flydubai Airways | flydubai Air
+- Cubana — Cubana de Aviación | Cubana Airlines | Cubana Airways | Cubana Air
+- Bahamasair — Bahamasair Airlines | Bahamasair Airways
+
+### Tier 4: obscure (180)
+
+- Iberia Express — Iberia Express Airlines | Iberia Express Airways | Iberia Express Air
+- Air Dolomiti
+- Neos — Neos Airlines | Neos Airways | Neos Air
+- Malév — Malev Hungarian Airlines | Malév Airlines | Malév Airways | Malév Air
+- Czech Airlines — ČSA | Czech Airways | Czech Air
+- Smartwings — Travel Service | Smartwings Airlines | Smartwings Airways | Smartwings Air
+- Tarom — Tarom Airlines | Tarom Airways | Tarom Air
+- Bulgaria Air — Bulgaria Airlines | Bulgaria Airways
+- Belavia — Belavia Belarusian Airlines | Belavia Airlines | Belavia Airways | Belavia Air
+- Ukraine International Airlines — UIA | Ukraine International | Ukraine International Airways | Ukraine International Air
+- S7 Airlines — S7 | Siberia Airlines | Sibir
+- Pobeda — Pobeda Airlines | Pobeda Airways | Pobeda Air
+- Rossiya — Rossiya Airlines | Rossiya Airways | Rossiya Air
+- UTair — UTair Airlines | UTair Airways
+- AJet — AnadoluJet | AJet Airlines | AJet Airways | AJet Air
+- Corendon — Corendon Airlines | Corendon Airways | Corendon Air
+- KM Malta Airlines — KM Malta | KM Malta Airways | KM Malta Air
+- Corsair — Corsair International | Corsair Airlines | Corsair Airways
+- French Bee — French Bee Airlines | French Bee Airways | French Bee Air
+- HOP! — Air France Hop | HOP! Airlines | HOP! Airways | HOP! Air
+- Air Inter
+- Widerøe — Widerøe Airlines | Widerøe Airways | Widerøe Air
+- Braathens — Braathens SAFE | Braathens Airlines | Braathens Airways | Braathens Air
+- Sterling — Sterling Airlines | Sterling Airways | Sterling Air
+- Maersk Air — Maersk Airlines | Maersk Airways
+- Adria Airways — Adria Airlines | Adria Air
+- JAT — JAT Yugoslav Airlines | Yugoslav Airlines | JAT Airlines
+- Norse Atlantic — Norse | Norse Atlantic Airways | Norse Atlantic Airlines | Norse Atlantic Air
+- BA CityFlyer — CityFlyer | CityFlyer Express | BA CityFlyer Airlines | BA CityFlyer Airways | BA CityFlyer Air
+- Titan Airways — Titan Airlines | Titan Air
+- Eastern Airways — Air Kilroe
+- Air UK
+- Air Europe
+- Britannia Airways — Britannia | Britannia Airlines | Britannia Air
+- XL Airways — XL
+- Flyglobespan — Globespan | Flyglobespan Airlines | Flyglobespan Airways | Flyglobespan Air
+- First Choice Airways — First Choice Airlines | First Choice Air
+- CityJet — CityJet Airlines | CityJet Airways | CityJet Air
+- Breeze Airways — Breeze | Breeze Airlines | Breeze Air
+- Avelo — Avelo Airlines | Avelo Airways | Avelo Air
+- SkyWest — SkyWest Airlines | SkyWest Airways | SkyWest Air
+- Republic Airways — Republic Airlines | Republic | Republic Air
+- Envoy — Envoy Air | American Eagle | Envoy Airlines | Envoy Airways
+- Horizon Air — Horizon | Horizon Airlines | Horizon Airways
+- Mesa Airlines — Mesa | Mesa Airways | Mesa Air
+- ExpressJet — ExpressJet Airlines | ExpressJet Airways | ExpressJet Air
+- Piedmont Airlines — Piedmont | Piedmont Airways | Piedmont Air
+- Pacific Southwest Airlines — PSA | PSA Airlines | Pacific Southwest | Pacific Southwest Airways | Pacific Southwest Air
+- Western Airlines — Western | Western Air Express | Western Airways
+- Ozark Air Lines — Ozark | Ozark Airways | Ozark Air
+- National Airlines — National Airways | National Air
+- Air Florida
+- Midway Airlines — Midway | Midway Airways | Midway Air
+- ATA Airlines — ATA | American Trans Air
+- Aloha Airlines — Aloha | Aloha Airways | Aloha Air
+- ValuJet — ValuJet Airlines | ValuJet Airways | ValuJet Air
+- America West — America West Airlines | America West Airways | America West Air
+- Flying Tiger Line — Flying Tigers | Flying Tiger Line Airlines | Flying Tiger Line Airways | Flying Tiger Line Air
+- Air America
+- Comair — Comair Airlines | Comair Airways
+- Atlas Air — Atlas Airlines | Atlas Air Worldwide | Atlas Airways
+- Kalitta Air — Kalitta | Kalitta Airlines | Kalitta Airways
+- Polar Air Cargo — Polar Air | Polar
+- ABX Air — Airborne Express | ABX Airlines
+- Cargolux — Cargolux Airlines | Cargolux Airlines International | Cargolux Airways | Cargolux Air
+- Lufthansa Cargo — Lufthansa Cargo Airlines | Lufthansa Cargo Airways | Lufthansa Cargo Air
+- Volga-Dnepr — Volga-Dnepr Airlines | Volga-Dnepr Airways | Volga-Dnepr Air
+- Antonov Airlines — Antonov | Antonov Airways | Antonov Air
+- Amazon Air — Amazon Prime Air | Prime Air | Amazon | Amazon Airlines | Amazon Airways
+- Martinair — Martinair Holland | Martinair Cargo | Martinair Airlines | Martinair Airways
+- NetJets — NetJets Airlines | NetJets Airways | NetJets Air
+- Swoop — Swoop Airlines | Swoop Airways | Swoop Air
+- Lynx Air — Lynx Airlines | Lynx Airways
+- Sunwing — Sunwing Airlines | Sunwing Airways | Sunwing Air
+- Flair Airlines — Flair | Flair Airways
+- Canada 3000 — Canada 3000 Airlines | Canada 3000 Airways | Canada 3000 Air
+- CP Air — Canadian Pacific Air Lines | Canadian Pacific
+- Wardair — Wardair Canada | Wardair Airlines | Wardair Airways
+- Jetsgo — Jetsgo Airways | Jetsgo Airlines | Jetsgo Air
+- Air Canada Rouge — Rouge
+- Jazz — Air Canada Jazz | Air Canada Express | Jazz Aviation | Jazz Airlines | Jazz Airways | Jazz Air
+- Harbour Air — Harbour Airlines | Harbour Airways
+- SilkAir — SilkAir Airlines | SilkAir Airways
+- Cathay Dragon — Dragonair | Cathay Dragon Airlines | Cathay Dragon Airways | Cathay Dragon Air
+- Hong Kong Airlines — Hong Kong Air
+- Zipair — Zipair Tokyo | Zipair Airlines | Zipair Airways
+- Skymark — Skymark Airlines | Skymark Airways | Skymark Air
+- Jeju Air — Jeju Airlines | Jeju Airways
+- Jin Air — Jin Airlines | Jin Airways
+- T'way Air — Tway | Trinity Airways | Trinity Air | T'way Airlines | T'way Airways
+- Air Busan
+- Air Seoul
+- Air Premia
+- Starlux — Starlux Airlines | Starlux Airways | Starlux Air
+- Xiamen Airlines — XiamenAir | Xiamen Airways
+- Sichuan Airlines — Sichuan Airways | Sichuan Air
+- Shenzhen Airlines — Shenzhen Airways | Shenzhen Air
+- Spring Airlines — Spring Airways | Spring Air
+- Shanghai Airlines — Shanghai Airways | Shanghai Air
+- Air Macau
+- Bangkok Airways — Bangkok Air | Bangkok Airlines
+- Nok Air — Nok Airlines | Nok Airways
+- Thai Smile — Thai Smile Airlines | Thai Smile Airways | Thai Smile Air
+- Bamboo Airways — Bamboo Airlines | Bamboo Air
+- Firefly — Firefly Airlines | Firefly Airways | Firefly Air
+- Batik Air — Batik Air Malaysia | Malindo Air | Malindo | Batik Airlines | Batik Airways
+- Citilink — Citilink Airlines | Citilink Airways | Citilink Air
+- Royal Brunei — Royal Brunei Airlines | Royal Brunei Airways | Royal Brunei Air
+- Biman Bangladesh — Biman | Biman Bangladesh Airlines | Biman Bangladesh Airways | Biman Bangladesh Air
+- SriLankan Airlines — SriLankan | Air Lanka | SriLankan Airways | SriLankan Air
+- PIA — Pakistan International Airlines | Pakistan International | PIA Airlines
+- Akasa Air — Akasa | Akasa Airlines | Akasa Airways
+- Air India Express — AirAsia India | AIX Connect | Air India Express Connect
+- Go First — GoAir | Go First Air | Go First Airlines | Go First Airways
+- Air Deccan
+- Indian Airlines — Indian Airways | Indian Air
+- Druk Air — Royal Bhutan Airlines | Druk Airlines | Druk Airways
+- Nepal Airlines — Royal Nepal Airlines | Nepal Airways | Nepal Air
+- Air Astana — Astana
+- Uzbekistan Airways — Uzbekistan Airlines | Uzbekistan Air
+- Azerbaijan Airlines — AZAL | Azerbaijan Airways | Azerbaijan Air
+- Jazeera Airways — Jazeera Airlines | Jazeera Air
+- SalamAir — SalamAir Airlines | SalamAir Airways
+- flynas — flynas Air | flynas Airlines | flynas Airways
+- flyadeal — flyadeal Airlines | flyadeal Airways | flyadeal Air
+- Riyadh Air — Riyadh Airlines | Riyadh Airways
+- Iran Air — Iran Airlines | Iran Airways
+- Mahan Air — Mahan Airlines | Mahan Airways
+- Iraqi Airways — Iraqi Airlines | Iraqi Air
+- Syrian Air — Syrian Airlines | Syrian Airways
+- Tunisair — Tunisair Airlines | Tunisair Airways
+- Air Algérie
+- Mango — Mango Airlines | Mango Airways | Mango Air
+- Kulula — Kulula.com | Kulula Airlines | Kulula Airways | Kulula Air
+- FlySafair — FlySafair Airlines | FlySafair Airways
+- Airlink
+- RwandAir — RwandAir Airlines | RwandAir Airways
+- Air Tanzania
+- Uganda Airlines — Uganda Airways | Uganda Air
+- Air Seychelles
+- Air Namibia
+- Air Zimbabwe — Air Zim
+- Arik Air — Arik Airlines | Arik Airways
+- Air Peace
+- Nigeria Airways — Nigeria Airlines | Nigeria Air
+- TAAG Angola — TAAG | TAAG Angola Airlines | TAAG Angola Airways | TAAG Angola Air
+- Fastjet — Fastjet Airlines | Fastjet Airways | Fastjet Air
+- Air Afrique
+- Bonza — Bonza Airlines | Bonza Airways | Bonza Air
+- Australian Airlines — Trans Australia Airlines | TAA | Australian Airways | Australian Air
+- Tigerair Australia — Tigerair Australia Airlines | Tigerair Australia Airways
+- Air Niugini
+- Air Vanuatu
+- Air Tahiti Nui
+- Aircalin — Air Calédonie International
+- QantasLink — QantasLink Airlines | QantasLink Airways | QantasLink Air
+- LAN — LAN Airlines | LAN Chile
+- TAM — TAM Airlines | TAM Linhas Aéreas
+- Interjet — Interjet Airlines | Interjet Airways | Interjet Air
+- Viva Aerobus — Viva Aerobus Airlines | Viva Aerobus Airways | Viva Aerobus Air
+- VASP — VASP Airlines | VASP Airways | VASP Air
+- Transbrasil — Transbrasil Airlines | Transbrasil Airways | Transbrasil Air
+- Flybondi — Flybondi Airlines | Flybondi Airways | Flybondi Air
+- JetSMART — JetSMART Airways | JetSMART Airlines | JetSMART Air
+- Sky Airline
+- Viva Air — Viva Air Colombia | Viva Airlines | Viva Airways
+- Conviasa — Conviasa Airlines | Conviasa Airways | Conviasa Air
+- BWIA — British West Indian Airways | BWIA West Indies Airways | BWIA Airlines | BWIA Airways | BWIA Air
+- LIAT — Leeward Islands Air Transport | LIAT Airlines | LIAT Airways | LIAT Air
+- Cayman Airways — Cayman Airlines | Cayman Air
+- Lauda Air — Lauda | Laudamotion | Lauda Europe | Lauda Airlines | Lauda Airways
+- Level — Level Europe | Fly Level | Level Airlines | Level Airways | Level Air
+- Edelweiss Air — Edelweiss | Edelweiss Airlines | Edelweiss Airways
+- LTU — LTU International | LTU Airlines
+- Interflug — Interflug Airlines | Interflug Airways | Interflug Air
+- Binter Canarias — Binter | Binter Canarias Airlines | Binter Canarias Airways | Binter Canarias Air
+- Spanair — Spanair Airlines | Spanair Airways
+- Azores Airlines — SATA | SATA Internacional | SATA Air Açores | Azores Airways | Azores Air
+- Transaero — Transaero Airlines | Transaero Airways | Transaero Air
+- TACA — TACA Airlines | Grupo TACA | TACA Airways | TACA Air
+
+### Tier 5: expert (519)
+
+- Air One
+- Meridiana — Air Italy | Meridiana fly | Alisarda | Meridiana Airlines | Meridiana Airways | Meridiana Air
+- Air Moldova
+- Ural Airlines — Ural Airways | Ural Air
+- Air Corsica
+- La Compagnie — La Compagnie Airlines | La Compagnie Airways | La Compagnie Air
+- UTA — Union de Transports Aériens | UTA Airlines
+- Aigle Azur — Aigle Azur Airlines | Aigle Azur Airways | Aigle Azur Air
+- Cimber — Cimber Sterling | Cimber Airways | Cimber Airlines | Cimber Air
+- Atlantic Airways — Atlantic Airlines | Atlantic Air
+- Air Greenland
+- Estonian Air — Estonian Airlines | Estonian Airways
+- Nordica — Nordica Airlines | Nordica Airways | Nordica Air
+- flyLAL — flyLAL Airlines | flyLAL Air | flyLAL Airways
+- Montenegro Airlines — Montenegro Airways | Montenegro Air
+- Air Lituanica — Lituanica
+- airBaltic Training
+- Blue Air — Blue Air Romania | Blue Airlines | Blue Airways
+- Bees Airlines — Bees | Bees Airways | Bees Air
+- Air Albania
+- Smartlynx — SmartLynx Airlines | Smartlynx Airways | Smartlynx Air
+- Braathens Regional — BRA | Braathens Regional Airlines | Braathens Regional Aviation | Malmö Aviation | Braathens Regional Airways | Braathens Regional Air
+- Isles of Scilly Skybus — Skybus | Scillonian Skybus | Isles of Scilly Skybus Airlines | Isles of Scilly Skybus Airways | Isles of Scilly Skybus Air
+- Hebridean Air Services — Hebridean Air
+- Blue Islands — Blue Islands Airlines | Blue Islands Airways | Blue Islands Air
+- Court Line — Court Line Aviation | Court Line Airlines | Court Line Airways | Court Line Air
+- Excel Airways — Sabre Airways | Excel Airlines | Excel Air
+- Astraeus — Astraeus Airlines | Astraeus Airways | Astraeus Air
+- Zoom Airlines — Zoom Airways | Zoom Air
+- MyTravel Airways — Airtours | Airtours International | MyTravel Airlines | MyTravel Air
+- Air 2000
+- KLM UK — KLM UK Airlines | KLM UK Airways | KLM UK Air
+- BA Connect — BA Connect Airlines | BA Connect Airways | BA Connect Air
+- Air Southwest
+- Scot Airways — Scot Airlines | Scot Air
+- Highland Airways — Highland Airlines | Highland Air
+- Aer Arann
+- Stobart Air — Stobart Airlines | Stobart Airways
+- Emerald Airlines — Emerald Airways | Emerald Air
+- Global Airlines — Global Airways | Global Air
+- Endeavor Air — Endeavor | Endeavor Airlines | Endeavor Airways
+- Cape Air — Cape Airlines | Cape Airways
+- Contour Airlines — Contour | Contour Airways | Contour Air
+- Silver Airways — Silver Airlines | Silver Air
+- Air Wisconsin
+- Reno Air — Reno Airlines | Reno Airways
+- Kiwi International — Kiwi International Air Lines | Kiwi International Airways | Kiwi International Air
+- Vanguard Airlines — Vanguard Airways | Vanguard Air
+- Independence Air — Independence Airlines | Independence Airways
+- Tower Air — Tower Airlines | Tower Airways
+- Midwest Airlines — Midwest Express | Midwest Airways | Midwest Air
+- Trump Shuttle — Trump Airlines | Trump Shuttle Airlines | Trump Shuttle Airways | Trump Shuttle Air
+- Song — Song Airlines | Song Airways | Song Air
+- Ted — Ted Airlines | Ted Airways | Ted Air
+- Southern Airways — Southern Airways Express | Southern Airlines
+- North Central Airlines — North Central Airways | North Central Air
+- Texas International — Texas International Airlines | Texas International Airways | Texas International Air
+- Hughes Airwest — Air West | Hughes Airwest Airlines | Hughes Airwest Airways
+- Mohawk Airlines — Mohawk | Mohawk Airways | Mohawk Air
+- Allegheny Airlines — Allegheny | Allegheny Airways | Allegheny Air
+- Capital Airlines — Capital Airways | Capital Air
+- Northeast Airlines — Northeast Airways | Northeast Air
+- Ravn Alaska — Ravn | Ravn Alaska Airlines | Ravn Alaska Airways | Ravn Alaska Air
+- PenAir — PenAir Airlines | PenAir Airways
+- Era Alaska — Era Aviation | Era Alaska Airlines | Era Alaska Airways | Era Alaska Air
+- Wien Air Alaska — Wien
+- Reeve Aleutian — Reeve Aleutian Airways | Reeve Aleutian Airlines | Reeve Aleutian Air
+- Amerijet — Amerijet Airlines | Amerijet Airways | Amerijet Air
+- Western Global — Western Global Airlines | Western Global Airways | Western Global Air
+- AirBridgeCargo
+- Cathay Cargo — Cathay Cargo Airlines | Cathay Cargo Airways | Cathay Cargo Air
+- Nippon Cargo Airlines — Nippon Cargo Airways | Nippon Cargo Air
+- China Cargo Airlines — China Cargo Airways | China Cargo Air
+- SF Airlines
+- Air Hong Kong
+- Silk Way — Silk Way Airlines | Silk Way West | Silk Way Airways | Silk Way Air
+- MNG Airlines
+- ASL Airlines — Air Contractors | ASL Airlines Ireland | ASL Airlines France | Europe Airpost
+- West Atlantic — West Atlantic Airlines | West Atlantic Airways | West Atlantic Air
+- Evergreen International — Evergreen International Airlines | Evergreen | Evergreen International Airways | Evergreen International Air
+- Southern Air
+- Kitty Hawk — Kitty Hawk Aircargo | Kitty Hawk Airlines | Kitty Hawk Airways | Kitty Hawk Air
+- Flexjet — Flexjet Airlines | Flexjet Airways | Flexjet Air
+- VistaJet — VistaJet Air | VistaJet Airlines | VistaJet Airways
+- JSX — JSX Airlines
+- Wheels Up — Wheels Up Airlines | Wheels Up Airways | Wheels Up Air
+- Pacific Western — Pacific Western Airlines | PWA | Pacific Western Airways | Pacific Western Air
+- Canadian North — Canadian North Airlines | Canadian North Airways | Canadian North Air
+- First Air — First Airlines | First Airways
+- Air North
+- Air Inuit
+- PAL Airlines — Provincial Airlines
+- Calm Air — Calm Airlines | Calm Airways
+- Pacific Coastal — Pacific Coastal Airlines | Pacific Coastal Airways | Pacific Coastal Air
+- Central Mountain Air — Central Mountain Airlines | Central Mountain Airways
+- Spring Japan — Spring Japan Airlines | Spring Japan Airways | Spring Japan Air
+- Jetstar Japan — Jetstar Japan Airlines | Jetstar Japan Airways | Jetstar Japan Air
+- Eastar Jet — Eastar Jet Airlines | Eastar Jet Airways | Eastar Jet Air
+- Mandarin Airlines — Mandarin Airways | Mandarin Air
+- Juneyao Air — Juneyao Airlines | Juneyao Airways
+- Shandong Airlines — Shandong Airways | Shandong Air
+- Tigerair Taiwan — Tigerair Taiwan Airlines | Tigerair Taiwan Airways
+- Thai Lion Air — Thai Lion Airlines | Thai Lion Airways
+- US-Bangla — US-Bangla Airways | US-Bangla Air
+- Airblue
+- JetLite — JetLite Airlines | JetLite Airways | JetLite Air
+- Air Sahara — Sahara Airlines
+- Bhutan Airlines — Bhutan Airways | Bhutan Air
+- Buddha Air — Buddha Airlines | Buddha Airways
+- Myanmar Airways International
+- Lao Airlines — Lao Airways | Lao Air
+- Cambodia Angkor Air — Air Cambodia | Cambodia Angkor Airlines | Cambodia Angkor Airways
+- MIAT — MIAT Mongolian Airlines | Mongolian Airlines | MIAT Airlines | MIAT Airways | MIAT Air
+- Georgian Airways — Georgian Airlines | Georgian Air
+- Yemenia — Yemen Airways | Yemenia Airlines | Yemenia Airways | Yemenia Air
+- Israir — Israir Airlines | Israir Airways
+- Arkia — Arkia Airlines | Arkia Airways | Arkia Air
+- Nile Air — Nile Airlines | Nile Airways
+- Libyan Airlines — Libyan Arab Airlines | Libyan Airways | Libyan Air
+- Afriqiyah — Afriqiyah Airlines | Afriqiyah Airways | Afriqiyah Air
+- Lift — Lift Airline | Lift Airlines | Lift Airways | Lift Air
+- Air Madagascar — Madagascar Airlines
+- Air Botswana
+- Ibom Air — Ibom Airlines | Ibom Airways
+- ASKY — ASKY Airlines | ASKY Airways | ASKY Air
+- Air Côte d'Ivoire — Air Ivoire
+- Air Sénégal
+- LAM Mozambique — LAM | LAM Mozambique Airlines | LAM Mozambique Airways | LAM Mozambique Air
+- Precision Air — Precision Airlines | Precision Airways
+- Ghana Airways — Ghana Airlines | Ghana Air
+- Cameroon Airlines — Cameroon Airways | Cameroon Air
+- Air Malawi
+- Zambia Airways — Zambia Airlines | Zambia Air
+- East-West Airlines — East West | East-West Airways | East-West Air
+- Compass Airlines — Compass Airways | Compass Air
+- Impulse Airlines — Impulse Airways | Impulse Air
+- Solomon Airlines — Solomon Airways | Solomon Air
+- Air Tahiti
+- Air Rarotonga
+- Nauru Airlines — Our Airline | Air Nauru | Nauru Airways | Nauru Air
+- Samoa Airways — Air Samoa | Samoa Airlines | Samoa Air
+- Polynesian Airlines — Polynesian Airways | Polynesian Air
+- Sounds Air — Sounds Airlines | Sounds Airways
+- Air Chathams
+- Alliance Airlines — Alliance Airways
+- Air Kiribati
+- Air Austral
+- Air Caraïbes
+- Aeroméxico Connect
+- Magnicharters — Magnicharters Airlines | Magnicharters Airways | Magnicharters Air
+- Austral — Austral Líneas Aéreas | Austral Airlines | Austral Airways | Austral Air
+- LADE — LADE Airlines | LADE Airways | LADE Air
+- Satena — Satena Airlines | Satena Airways | Satena Air
+- Wingo — Wingo Airlines | Wingo Airways | Wingo Air
+- Laser Airlines — Laser | Laser Airways | Laser Air
+- Avior — Avior Airlines | Avior Airways | Avior Air
+- Aeropostal
+- BoA — Boliviana de Aviación | BoA Airlines | BoA Airways | BoA Air
+- Lloyd Aéreo Boliviano — LAB | Lloyd Aéreo Boliviano Airlines | Lloyd Aéreo Boliviano Airways | Lloyd Aéreo Boliviano Air
+- Amaszonas — Amaszonas Airlines | Amaszonas Airways | Amaszonas Air
+- Star Perú — Star Perú Airlines | Star Perú Airways | Star Perú Air
+- Faucett — Faucett Perú | Faucett Airlines | Faucett Airways | Faucett Air
+- Ecuatoriana — Ecuatoriana Airlines | Ecuatoriana Airways | Ecuatoriana Air
+- TAME — TAME Ecuador | TAME Airlines | TAME Airways | TAME Air
+- Aerogal
+- interCaribbean — Air Turks and Caicos | InterCaribbean Airways | interCaribbean Airlines | interCaribbean Air
+- Winair — Winair Airlines | Winair Airways
+- Arajet — Arajet Airlines | Arajet Airways | Arajet Air
+- Surinam Airways — Surinam Airlines | Surinam Air
+- Aruba Airlines — Aruba Airways | Aruba Air
+- Insel Air — Insel Airlines | Insel Airways
+- Aeroitalia
+- Marabu — Marabu Airlines | Marabu Airways | Marabu Air
+- Discover Airlines — Discover | Discover Airways | Discover Air
+- Lufthansa City Airlines — Lufthansa City | Lufthansa City Airways | Lufthansa City Air
+- Fly91 — Fly91 Airlines | Fly91 Airways | Fly91 Air
+- Parata Air — Fly Gangwon | Parata Airlines | Parata Airways
+- Jambojet — Jambojet Airlines | Jambojet Airways | Jambojet Air
+- Aquila Airways — Aquila Airlines | Aquila Air
+- British Eagle — British Eagle International Airlines | British Eagle Airlines | British Eagle Airways | British Eagle Air
+- British United Airways — BUA | British United Airlines | British United Air
+- Caledonian Airways — British Airtours | Caledonian Airlines | Caledonian Air
+- Manx Airlines — Manx Airways | Manx Air
+- Cambrian Airways — Cambrian Airlines | Cambrian Air
+- Silver City Airways — Silver City Airlines | Silver City Air
+- Railway Air Services
+- Aircraft Transport and Travel
+- Instone Air Line — Instone
+- Handley Page Transport — Handley Page Transport Airlines | Handley Page Transport Airways | Handley Page Transport Air
+- Daimler Airway — Daimler Airway Airlines | Daimler Airway Airways
+- Channel Airways — Channel Airlines | Channel Air
+- Invicta International Airlines — Invicta | Invicta International Airways | Invicta International Air
+- Brymon Airways — Brymon | Brymon Airlines | Brymon Air
+- Debonair — Debonair Airways | Debonair Airlines
+- Silverjet — Silverjet Airlines | Silverjet Airways | Silverjet Air
+- flybmi — bmi regional | flybmi Airlines | flybmi Airways | flybmi Air
+- BA Euroflyer — BA Euroflyer Airlines | BA Euroflyer Airways | BA Euroflyer Air
+- Malta Air — Malta Airlines | Malta Airways
+- BKS Air Transport — BKS
+- Air Anglia
+- British Island Airways — British Island Airlines | British Island Air
+- Air Wales
+- EuroManx — EuroManx Airlines | EuroManx Airways | EuroManx Air
+- Air Atlantique
+- Niki — Flyniki | Niki Airlines | Niki Airways | Niki Air
+- Helvetic Airways — Helvetic | Helvetic Airlines | Helvetic Air
+- Crossair — Crossair Airlines | Crossair Airways
+- Hapag-Lloyd Express — HLX | Hapag-Lloyd Express Airlines | Hapag-Lloyd Express Airways | Hapag-Lloyd Express Air
+- Hapag-Lloyd Flug — Hapagfly | Hapag-Lloyd Flug Airlines | Hapag-Lloyd Flug Airways | Hapag-Lloyd Flug Air
+- dba — Deutsche BA | dba Airlines | dba Airways | dba Air
+- Germania — Germania Airlines | Germania Airways | Germania Air
+- Air Liberté
+- AOM French Airlines — AOM | Air Outre Mer | AOM French Airways | AOM French Air
+- Air Lib
+- Air Littoral
+- Brit Air — Brit Airlines | Brit Airways
+- ArkeFly — ArkeFly Airlines | ArkeFly Airways | ArkeFly Air
+- VLM Airlines — VLM
+- Air Belgium
+- TUI fly Belgium — Jetairfly | TUI fly Belgium Airlines | TUI fly Belgium Airways | TUI fly Belgium Air
+- Air Nostrum
+- Iberojet — Iberojet Airlines | Iberojet Airways | Iberojet Air
+- Evelop — Evelop Airlines | Evelop Airways | Evelop Air
+- Plus Ultra — Plus Ultra Líneas Aéreas | Plus Ultra Airlines | Plus Ultra Airways | Plus Ultra Air
+- World2Fly — World2Fly Airlines | World2Fly Airways | World2Fly Air
+- Wamos Air — Wamos | Pullmantur Air | Wamos Airlines | Wamos Airways
+- Air Madrid
+- Clickair — Clickair Airlines | Clickair Airways
+- Hi Fly — Hi Fly Airlines | Hi Fly Airways | Hi Fly Air
+- euroAtlantic Airways — euroAtlantic | euroAtlantic Airlines | euroAtlantic Air
+- Blue Panorama — Blue Panorama Airlines | Blue Panorama Airways | Blue Panorama Air
+- Sky Express — Sky Express Airlines | Sky Express Airways | Sky Express Air
+- Ellinair — Ellinair Airlines | Ellinair Airways
+- Cobalt — Cobalt Air | Cobalt Airlines | Cobalt Airways
+- Eurocypria — Eurocypria Airlines | Eurocypria Airways | Eurocypria Air
+- TUS Airways — TUS | TUS Airlines
+- Air Montenegro
+- B&H Airlines — B&H | BH Airlines | Air Bosna | B&H Airways | B&H Air
+- MAT Macedonian Airlines — MAT | Macedonian Airlines | MAT Macedonian Airways | MAT Macedonian Air
+- Albanian Airlines — Albanian Airways | Albanian Air
+- Balkan Bulgarian Airlines — Balkan | Balkan Airlines | Balkan Bulgarian Airways | Balkan Bulgarian Air
+- HiSky — HiSky Airlines | HiSky Airways | HiSky Air
+- Animawings — Animawings Airlines | Animawings Airways | Animawings Air
+- Enter Air — Enter Airlines | Enter Airways
+- SmallPlanet Airlines — SmallPlanet | SmallPlanet Airways | SmallPlanet Air
+- Windrose Airlines — Windrose | Windrose Airways | Windrose Air
+- SkyUp — SkyUp Airlines | SkyUp Airways | SkyUp Air
+- AeroSvit — Aerosvit Ukrainian Airlines
+- Azur Air — Azur Airlines | Azur Airways
+- Red Wings — Red Wings Airlines | Red Wings Airways | Red Wings Air
+- Nordwind — Nordwind Airlines | Nordwind Airways | Nordwind Air
+- Yakutia — Yakutia Airlines | Yakutia Airways | Yakutia Air
+- Aurora — Aurora Airlines | Aurora Airways | Aurora Air
+- Metrojet — Kogalymavia | Kolavia | Metrojet Airlines | Metrojet Airways | Metrojet Air
+- Iceland Express — Iceland Express Airlines | Iceland Express Airways | Iceland Express Air
+- Loftleiðir — Icelandic Airlines | Loftleiðir Airlines | Loftleiðir Airways | Loftleiðir Air
+- Air Atlanta Icelandic — Air Atlanta
+- Niceair — Niceair Airlines | Niceair Airways
+- Blue1 — Blue1 Airlines | Blue1 Airways | Blue1 Air
+- Linjeflyg — Linjeflyg Airlines | Linjeflyg Airways | Linjeflyg Air
+- Novair — Novair Airlines | Novair Airways
+- Jet Time — Jet Time Airlines | Jet Time Airways | Jet Time Air
+- Sun-Air — Sun-Air of Scandinavia | Sun-Air Airlines | Sun-Air Airways
+- Nordic Regional Airlines — Norra | Flybe Nordic | Nordic Regional Airways | Nordic Regional Air
+- Onur Air — Onur Airlines | Onur Airways
+- Atlasglobal — Atlasjet | Atlasglobal Airlines | Atlasglobal Airways | Atlasglobal Air
+- Freebird Airlines — Freebird | Freebird Airways | Freebird Air
+- Swiftair — iAero Airways | iAero | Swiftair Airlines | Swiftair Airways
+- Cham Wings — Cham Wings Airlines | Cham Wings Airways | Cham Wings Air
+- Iran Aseman Airlines — Aseman | Iran Aseman Airways | Iran Aseman Air
+- Kish Air — Kish Airlines | Kish Airways
+- Qeshm Air — Qeshm Airlines | Qeshm Airways
+- Caspian Airlines — Caspian | Caspian Airways | Caspian Air
+- Sun d'Or — Sun d'Or Airlines | Sun d'Or Airways | Sun d'Or Air
+- Air Sinai
+- Air Cairo
+- Nouvelair — Nouvelair Airlines | Nouvelair Airways
+- Air Congo
+- Congo Airways — Congo Airlines | Congo Air
+- Hewa Bora Airways — Hewa Bora | Hewa Bora Airlines | Hewa Bora Air
+- Daallo Airlines — Daallo | Daallo Airways | Daallo Air
+- Jubba Airways — Jubba Airlines | Jubba Air
+- Sudan Airways — Sudan Airlines | Sudan Air
+- Eritrean Airlines — Eritrean Airways | Eritrean Air
+- Proflight Zambia — Proflight | Proflight Zambia Airlines | Proflight Zambia Airways | Proflight Zambia Air
+- Bellview Airlines — Bellview | Bellview Airways | Bellview Air
+- Aero Contractors
+- Dana Air — Dana Airlines | Dana Airways
+- Overland Airways — Overland Airlines | Overland Air
+- Max Air — Max Airlines | Max Airways
+- United Nigeria Airlines — United Nigeria | United Nigeria Airways | United Nigeria Air
+- Green Africa Airways — Green Africa | Green Africa Airlines | Green Africa Air
+- 1Time — 1time Airline | 1Time Airlines | 1Time Airways | 1Time Air
+- CemAir — CemAir Airlines | CemAir Airways
+- SA Express — South African Express | SA Express Airlines | SA Express Airways | SA Express Air
+- Camair-Co — Camair-Co Airlines | Camair-Co Airways
+- Air Burkina
+- Air Mali
+- Airkenya — Airkenya Express
+- Nordair — Nordair Airlines | Nordair Airways
+- Quebecair — Quebecair Airlines | Quebecair Airways
+- Eastern Provincial Airways — EPA | Eastern Provincial Airlines | Eastern Provincial Air
+- Canada Jetlines — Canada Jetlines Airlines | Canada Jetlines Airways | Canada Jetlines Air
+- Nationair — Nationair Airlines | Nationair Airways
+- Harmony Airways — Harmony Airlines | Harmony Air
+- Royal Airlines — Royal Aviation | Royal Airways | Royal Air
+- CanJet — CanJet Airlines | CanJet Airways | CanJet Air
+- Roots Air — Roots Airlines | Roots Airways
+- Air Ontario
+- Air BC
+- Time Air — Time Airlines | Time Airways
+- Air Nova
+- Pascan Aviation — Pascan | Pascan Aviation Airlines | Pascan Aviation Airways | Pascan Aviation Air
+- Air Creebec
+- Perimeter Aviation — Perimeter | Perimeter Aviation Airlines | Perimeter Aviation Airways | Perimeter Aviation Air
+- AirCal — Air California
+- Muse Air — Muse Airlines | Muse Airways
+- New York Air — New York Airlines | New York Airways
+- Western Pacific Airlines — Western Pacific Airways | Western Pacific Air
+- MarkAir — MarkAir Airlines | MarkAir Airways
+- Mesaba Airlines — Mesaba | Mesaba Airways | Mesaba Air
+- Pinnacle Airlines — Pinnacle | Pinnacle Airways | Pinnacle Air
+- Colgan Air — Colgan Airlines | Colgan Airways
+- Atlantic Southeast Airlines — ASA | Atlantic Southeast Airways | Atlantic Southeast Air
+- Chautauqua Airlines — Chautauqua Airways | Chautauqua Air
+- Shuttle America — Shuttle America Airlines | Shuttle America Airways | Shuttle America Air
+- Trans States Airlines — Trans States Airways | Trans States Air
+- GoJet Airlines — GoJet | GoJet Airways | GoJet Air
+- CommutAir — CommutAir Airlines | CommutAir Airways
+- Mokulele Airlines — Mokulele | Mokulele Airways | Mokulele Air
+- Morris Air — Morris Airlines | Morris Airways
+- World Airways — World Airlines | World Air
+- Arrow Air — Arrow Airlines | Arrow Airways
+- Emery Worldwide — Emery Worldwide Airlines | Emery Worldwide Airways | Emery Worldwide Air
+- Seaboard World Airlines — Seaboard World Airways | Seaboard World Air
+- Air Transport International
+- Miami Air International — Miami Air
+- Omni Air International — Omni Air
+- North American Airlines — North American Airways | North American Air
+- Ryan International Airlines — Ryan International Airways | Ryan International Air
+- Global Crossing Airlines — GlobalX | Global Crossing Airways | Global Crossing Air
+- Surf Air — Surf Airlines | Surf Airways
+- Northern Air Cargo
+- Ameriflight — Ameriflight Airlines | Ameriflight Airways | Ameriflight Air
+- Kenmore Air — Kenmore Airlines | Kenmore Airways
+- Chalk's Ocean Airways — Chalk's | Chalk's International Airlines | Chalk's Ocean Airlines | Chalk's Ocean Air
+- Varney Air Lines — Varney Airways | Varney Air
+- Transcontinental Air Transport
+- Panagra — Pan American-Grace Airways | Panagra Airlines | Panagra Airways | Panagra Air
+- Tradewind Aviation — Tradewind Aviation Airlines | Tradewind Aviation Airways | Tradewind Aviation Air
+- Seaborne Airlines — Seaborne Airways | Seaborne Air
+- Great Lakes Airlines — Great Lakes Airways | Great Lakes Air
+- Eos Airlines — Eos | Eos Airways | Eos Air
+- MAXjet Airways — MAXjet | MAXjet Airlines | MAXjet Air
+- Western Air
+- PAWA Dominicana — PAWA Dominicana Airlines | PAWA Dominicana Airways | PAWA Dominicana Air
+- Sunrise Airways — Sunrise Airlines | Sunrise Air
+- Air Antilles
+- Divi Divi Air — Divi Divi Airlines | Divi Divi Airways
+- Aerocaribbean
+- Air Panama
+- LACSA — LACSA Airlines | LACSA Airways | LACSA Air
+- Aviateca — Aviateca Airlines | Aviateca Airways | Aviateca Air
+- SAHSA — SAHSA Airlines | SAHSA Airways | SAHSA Air
+- Sansa — Sansa Airlines | Sansa Airways | Sansa Air
+- Nature Air — Nature Airlines | Nature Airways
+- La Costeña — La Costeña Airlines | La Costeña Airways | La Costeña Air
+- TAG Airlines
+- Aeromar
+- Aviacsa — Aviacsa Airlines | Aviacsa Airways | Aviacsa Air
+- Aero California
+- TAR Aerolíneas — TAR Aerolíneas Airlines | TAR Aerolíneas Airways | TAR Aerolíneas Air
+- SAETA — SAETA Airlines | SAETA Airways | SAETA Air
+- Ultra Air — Ultra Airlines | Ultra Airways
+- EasyFly — EasyFly Airlines | EasyFly Airways | EasyFly Air
+- Avianca Brasil — Avianca Brasil Airlines | Avianca Brasil Airways | Avianca Brasil Air
+- Voepass — Passaredo | Voepass Linhas Aéreas | Voepass Airlines | Voepass Airways | Voepass Air
+- MAP Linhas Aéreas — MAP | MAP Linhas Aéreas Airlines | MAP Linhas Aéreas Airways | MAP Linhas Aéreas Air
+- TRIP Linhas Aéreas — TRIP | TRIP Linhas Aéreas Airlines | TRIP Linhas Aéreas Airways | TRIP Linhas Aéreas Air
+- Webjet — Webjet Airlines | Webjet Airways | Webjet Air
+- Cruzeiro do Sul — Cruzeiro do Sul Airlines | Cruzeiro do Sul Airways | Cruzeiro do Sul Air
+- Panair do Brasil — Panair | Panair do Brasil Airlines | Panair do Brasil Airways
+- LAPA — LAPA Airlines | LAPA Airways | LAPA Air
+- Southern Winds — Southern Winds Airlines | Southern Winds Airways | Southern Winds Air
+- Andes Líneas Aéreas — Andes Líneas Aéreas Airlines | Andes Líneas Aéreas Airways | Andes Líneas Aéreas Air
+- AeroPerú
+- Peruvian Airlines — Peruvian Airways | Peruvian Air
+- LC Perú — LC Perú Airlines | LC Perú Airways | LC Perú Air
+- Viasa — Viasa Airlines | Viasa Airways | Viasa Air
+- Avensa — Avensa Airlines | Avensa Airways | Avensa Air
+- Santa Bárbara Airlines — Santa Bárbara Airways | Santa Bárbara Air
+- Estelar — Estelar Airlines | Estelar Airways | Estelar Air
+- Rutaca — Rutaca Airlines | Rutaca Airways | Rutaca Air
+- AeroSur
+- EcoJet — EcoJet Airlines | EcoJet Airways | EcoJet Air
+- Pluna — Pluna Airlines | Pluna Airways | Pluna Air
+- Paranair — Paranair Airlines | Paranair Airways
+- AeroUnión
+- TransAsia Airways — TransAsia Airlines | TransAsia Air
+- Greater Bay Airlines — Greater Bay Airways | Greater Bay Air
+- UNI Air — UNI Airlines
+- Far Eastern Air Transport
+- Loong Air — Loong Airlines | Loong Airways
+- Tibet Airlines — Tibet Airways | Tibet Air
+- Chengdu Airlines — Chengdu Airways | Chengdu Air
+- Lucky Air — Lucky Airlines | Lucky Airways
+- West Air — West Airlines | West Airways
+- Beijing Capital Airlines — Beijing Capital Airways | Beijing Capital Air
+- Okay Airways — Okay Airlines | Okay Air
+- 9 Air
+- China Postal Airlines — China Postal Airways | China Postal Air
+- YTO Cargo Airlines — YTO Cargo Airways | YTO Cargo Air
+- JD Airlines
+- CAAC — Civil Aviation Administration of China | CAAC Airlines | CAAC Airways | CAAC Air
+- CNAC — China National Aviation Corporation | CNAC Airlines | CNAC Airways | CNAC Air
+- Air Do
+- Solaseed Air — Solaseed Airlines | Solaseed Airways
+- StarFlyer — StarFlyer Airlines | StarFlyer Airways | StarFlyer Air
+- Fuji Dream Airlines — Fuji Dream Airways | Fuji Dream Air
+- Ibex Airlines — Ibex Airways | Ibex Air
+- J-Air — J-Air Airlines | J-Air Airways
+- Japan Transocean Air — Japan Transocean Airlines | Japan Transocean Airways
+- Hokkaido Air System
+- Vanilla Air — Vanilla Airlines | Vanilla Airways
+- Air Japan
+- Toki Air — Toki Airlines | Toki Airways
+- Japan Air System
+- Japan Asia Airways — Japan Asia Airlines | Japan Asia Air
+- Aero K
+- Air Incheon
+- PAL Express — Air Philippines | Airphil Express | PAL Express Airlines | PAL Express Airways | PAL Express Air
+- Cebgo — Cebgo Airlines | Cebgo Airways | Cebgo Air
+- AirSWIFT
+- Orient Thai Airlines — Orient Thai Airways | Orient Thai Air
+- One-Two-Go — One-Two-Go Airlines | One-Two-Go Airways | One-Two-Go Air
+- Vietravel Airlines — Vietravel Airways | Vietravel Air
+- Sun PhuQuoc Airways — Sun PhuQuoc Airlines | Sun PhuQuoc Air
+- Pacific Airlines — Jetstar Pacific | Pacific Airways | Pacific Air
+- MASwings — MASwings Airlines | MASwings Airways | MASwings Air
+- Raya Airways — Raya Airlines | Raya Air
+- MYAirline — MYAirline Airlines | MYAirline Airways
+- Wings Air — Wings Airlines | Wings Airways
+- Sriwijaya Air — Sriwijaya Airlines | Sriwijaya Airways
+- Super Air Jet
+- TransNusa — TransNusa Airlines | TransNusa Airways | TransNusa Air
+- Pelita Air — Pelita Airlines | Pelita Airways
+- Merpati — Merpati Nusantara Airlines | Merpati Airlines | Merpati Airways | Merpati Air
+- Adam Air — Adam Airlines | Adam Airways
+- Mandala Airlines — Mandala Airways | Mandala Air
+- Myanmar National Airlines — Myanmar National Airways | Myanmar National Air
+- Air KBZ
+- US-Bangla Airlines
+- NovoAir — NovoAir Airlines | NovoAir Airways
+- GMG Airlines
+- Regent Airways — Regent Airlines | Regent Air
+- Mihin Lanka — Mihin Lanka Airlines | Mihin Lanka Airways | Mihin Lanka Air
+- Cinnamon Air — Cinnamon Airlines | Cinnamon Airways
+- FitsAir — FitsAir Airlines | FitsAir Airways
+- Maldivian — Maldivian Airlines | Maldivian Airways | Maldivian Air
+- Manta Air — Manta Airlines | Manta Airways
+- Trans Maldivian Airways — Trans Maldivian Airlines | Trans Maldivian Air
+- Yeti Airlines — Yeti Airways | Yeti Air
+- Shree Airlines — Shree Airways | Shree Air
+- Tara Air — Tara Airlines | Tara Airways
+- Himalaya Airlines — Himalaya Airways | Himalaya Air
+- Saurya Airlines — Saurya Airways | Saurya Air
+- Hunnu Air — Hunnu Airlines | Hunnu Airways
+- Alliance Air
+- Star Air — Star Airlines | Star Airways
+- Flybig — Flybig Airlines | Flybig Airways | Flybig Air
+- Paramount Airways — Paramount Airlines | Paramount Air
+- ModiLuft — ModiLuft Airlines | ModiLuft Airways | ModiLuft Air
+- Damania Airways — Damania Airlines | Damania Air
+- Vayudoot — Vayudoot Airlines | Vayudoot Airways | Vayudoot Air
+- TruJet — TruJet Airlines | TruJet Airways | TruJet Air
+- SereneAir — SereneAir Airlines | SereneAir Airways
+- AirSial
+- Fly Jinnah — Fly Jinnah Airlines | Fly Jinnah Airways | Fly Jinnah Air
+- Shaheen Air — Shaheen Airlines | Shaheen Airways
+- FlyArystan — FlyArystan Airlines | FlyArystan Airways | FlyArystan Air
+- SCAT Airlines — SCAT | SCAT Airways | SCAT Air
+- Qazaq Air — Qazaq Airlines | Qazaq Airways
+- Somon Air — Somon Airlines | Somon Airways
+- Tajik Air — Tajik Airlines | Tajik Airways
+- Turkmenistan Airlines — Turkmenistan Airways | Turkmenistan Air
+- Air Manas
+- Buta Airways — Buta Airlines | Buta Air
+- Armenia Airways — Armenia Airlines | Armenia Air
+- Fly Arna — Fly Arna Airlines | Fly Arna Airways | Fly Arna Air
+- Ariana Afghan Airlines — Ariana | Ariana Afghan Airways | Ariana Afghan Air
+- Kam Air — Kam Airlines | Kam Airways
+- Malayan Airways — Malayan Airlines | Malayan Air
+- Malaysia-Singapore Airlines — Malaysia-Singapore Airways | Malaysia-Singapore Air
+- Air Siam
+- Hong Kong Airways
+- NAC — National Airways Corporation | NAC Airlines
+- Mount Cook Airline — Mount Cook
+- Ansett New Zealand — Ansett New Zealand Airlines | Ansett New Zealand Airways | Ansett New Zealand Air
+- Origin Pacific Airways — Origin Pacific Airlines | Origin Pacific Air
+- Freedom Air — Freedom Airlines | Freedom Airways
+- Air Nelson
+- Kendell Airlines — Kendell Airways | Kendell Air
+- Hazelton Airlines — Hazelton Airways | Hazelton Air
+- OzJet — OzJet Airlines | OzJet Airways | OzJet Air
+- Australian National Airways — Australian National Airlines | Australian National Air
+- MacRobertson Miller Airlines — MacRobertson Miller Airways | MacRobertson Miller Air
+- Connellan Airways — Connellan Airlines | Connellan Air
+- Skytrans — Skytrans Airlines | Skytrans Airways | Skytrans Air
+- Network Aviation — Network Aviation Airlines | Network Aviation Airways | Network Aviation Air
+- Link Airways — Link Airlines | Link Air
+- Fly Corporate — Fly Corporate Airlines | Fly Corporate Airways | Fly Corporate Air
+- Air Fiji
+- PNG Air — PNG Airlines
+- Air Marshall Islands
+- Air Calédonie
+- Virgin Express — Virgin Express Airlines | Virgin Express Airways | Virgin Express Air
+- Virgin Nigeria — Virgin Nigeria Airlines | Virgin Nigeria Airways | Virgin Nigeria Air
+- Virgin Samoa — Polynesian Blue | Virgin Samoa Airlines | Virgin Samoa Airways | Virgin Samoa Air
+- DELAG — Deutsche Luftschiffahrts-AG | DELAG Airlines | DELAG Airways | DELAG Air
+
+### Tier 6: rare jackpots (3)
+
+- Aéropostale — Compagnie générale aéropostale | Ligne Aéropostale
+- Air Koryo — Air Koryo North Korea
+- St. Petersburg–Tampa Airboat Line — Airboat Line | Tampa Airboat Line
+
+## Refused on purpose (13)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Airline | Airlines | Budget airline | Low-cost airline | Flag carrier | Charter flights — "Which airline? The deep wants its name."
+- Virgin | Virgin Airlines | Virgin Air | Virgin Airways — "Which Virgin? There have been several."
+- Eastern | Eastern Air — "Which Eastern? Britain and America have both had one."
+- Boeing | Airbus | Embraer | Bombardier | Lockheed | Lockheed Martin | McDonnell Douglas | Douglas | Cessna | Learjet | Gulfstream | de Havilland | ATR | Sukhoi | Tupolev | Ilyushin | Fokker | Rolls-Royce | Piper | Beechcraft | Dassault | Antonov Design Bureau — "An aircraft maker, not an airline."
+- Concorde | Jumbo jet | Boeing 747 | Airbus A380 | Dreamliner — "An aircraft, flown by British Airways and Air France."
+- Heathrow | Gatwick | Stansted | Luton | JFK | LAX | O'Hare | Changi | Schiphol | Charles de Gaulle | Dubai International | Heathrow Airport | Manchester Airport — "An airport, not an airline."
+- Star Alliance | Oneworld | SkyTeam — "An alliance of airlines. Name one of its members."
+- IAG | International Airlines Group | Air France-KLM | Lufthansa Group | Virgin Group — "A holding group. Name one of its airlines."
+- Skyscanner | Expedia | Booking.com | Trailfinders | lastminute.com | Kayak | Trivago | Google Flights — "A booking site, not an airline."
+- RAF | Royal Air Force | US Air Force | Luftwaffe | Red Arrows | Air Force One — "Military flying, not an airline."
+- Oceanic Airlines | Oceanic | Ajira Airways — "Fictional: it flies only in films and on television, Lost among them."
+- Virgin Galactic — "A space-tourism company, not an airline."
+- National Express — "A coach company. It keeps to the roads."

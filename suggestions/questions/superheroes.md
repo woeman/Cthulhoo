@@ -1,0 +1,830 @@
+# Name a superhero.
+
+Question id: `superheroes` · category: culture · source: `data/culture.json`
+
+Rules: Any superhero, sidekick or antihero, from comics, film, TV, games or anime. Out-and-out villains don't count, and nor do other kinds of hero, like Jedi or wizards.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (741 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Superman — Clark Kent | Kal-El | Man of Steel | Clark
+- Batman — Bruce Wayne | The Dark Knight | Caped Crusader | Batman Beyond | Terry McGinnis
+- Spider-Man — Peter Parker | Spidey | Friendly Neighbourhood Spider-Man | Friendly Neighborhood Spider-Man | Iron Spider
+- Wonder Woman — Diana Prince | Diana | Diana of Themyscira
+- Iron Man — Tony Stark | Stark | Tony | Ironan
+- Captain America — Steve Rogers | Cap | Capt America | Steve
+- Hulk — The Incredible Hulk | Bruce Banner | Banner | Baner
+- Thor — Thor Odinson | God of Thunder
+- Wolverine — Logan | James Howlett | Weapon X
+- The Flash — Barry Allen | Wally West | Jay Garrick | Barry
+- Black Widow — Natasha Romanoff | Natasha Romanova | Nat Romanoff | Natasha | Nat
+- Aquaman — Arthur Curry
+- Green Lantern — Hal Jordan | John Stewart | Guy Gardner | Kyle Rayner | Alan Scott | Jessica Cruz | Simon Baz | Hal
+- Black Panther — T'Challa
+- Deadpool — Wade Wilson | Merc with a Mouth | Wade
+
+### Tier 2: common (30)
+
+- Robin — Damian Wayne | Tim Drake | Carrie Kelley | Stephanie Brown | Boy Wonder | Damian
+- Hawkeye — Clint Barton | Ronin | Clint
+- Doctor Strange — Stephen Strange | Sorcerer Supreme
+- Captain Marvel — Carol Danvers | Warbird | Binary | Carol
+- Ant-Man — Scott Lang | Hank Pym | Giant-Man | Yellowjacket
+- Scarlet Witch — Wanda Maximoff | Wanda
+- Vision — White Vision
+- Falcon — Sam Wilson | Joaquin Torres
+- Winter Soldier — Bucky Barnes | Bucky | James Buchanan Barnes | White Wolf
+- Star-Lord — Peter Quill
+- Groot — Baby Groot | I am Groot
+- Rocket — Rocket Raccoon
+- Cyclops — Scott Summers
+- Storm — Ororo Munroe | Ororo
+- Jean Grey — Phoenix | Marvel Girl | Dark Phoenix | Jean
+- Professor X — Charles Xavier | Professor Xavier | Xavier | Prof. X | Charles
+- Daredevil — Matt Murdock | The Man Without Fear | Matt
+- Punisher — Frank Castle | Frank
+- Venom — Eddie Brock | Agent Venom | Flash Thompson
+- Catwoman — Selina Kyle | Selina
+- Supergirl — Kara Zor-El | Kara Danvers | Linda Lee | Kara
+- Batgirl — Barbara Gordon | Cassandra Cain | Orphan | Barbara
+- Green Arrow — Oliver Queen | Ollie | The Arrow
+- Mr. Incredible — Mister Incredible | Bob Parr
+- Hellboy — Anung Un Rama
+- Silver Surfer — Norrin Radd | Shalla-Bal
+- Human Torch — Johnny Storm | Jim Hammond
+- Mister Fantastic — Mr. Fantastic | Reed Richards | Reed
+- Ghost Rider — Johnny Blaze | Danny Ketch | Robbie Reyes | Spirit of Vengeance
+- Shazam — Billy Batson
+
+### Tier 3: known to fans (114)
+
+- Gamora
+- Drax — Drax the Destroyer
+- Mantis
+- Nebula
+- Yondu — Yondu Udonta
+- Rogue — Anna Marie
+- Gambit — Remy LeBeau | Remy
+- Beast — Hank McCoy | Henry McCoy
+- Iceman — Bobby Drake
+- Nightcrawler — Kurt Wagner | Kurt
+- Colossus — Piotr Rasputin | Peter Rasputin
+- Jubilee — Jubilation Lee
+- Kitty Pryde — Shadowcat | Katherine Pryde | Kitty
+- Cable — Nathan Summers
+- Psylocke — Betsy Braddock
+- Emma Frost — White Queen
+- X-23 — Laura Kinney | Laura
+- Angel — Archangel | Warren Worthington
+- Magneto — Erik Lehnsherr | Max Eisenhardt
+- Quicksilver — Pietro Maximoff | Peter Maximoff | Pietro
+- Wasp — Janet van Dyne | Hope van Dyne
+- War Machine — James Rhodes | Rhodey | Iron Patriot
+- Black Canary — Dinah Lance
+- Cyborg — Victor Stone
+- Martian Manhunter — J'onn J'onzz | John Jones
+- Nightwing — Dick Grayson | Dick
+- Batwoman — Kate Kane | Ryan Wilder
+- Red Hood — Jason Todd
+- Harley Quinn — Harleen Quinzel | Harley
+- Raven — Rachel Roth
+- Starfire — Koriand'r | Kory Anders
+- Beast Boy — Garfield Logan | Changeling
+- Kid Flash — Impulse | Bart Allen
+- Hawkman — Carter Hall | Katar Hol
+- Hawkgirl — Shayera Hol | Kendra Saunders | Hawkwoman
+- Blue Beetle — Jaime Reyes | Ted Kord | Dan Garrett
+- Booster Gold
+- Plastic Man — Eel O'Brian
+- The Atom — Ray Palmer | Ryan Choi | Al Pratt
+- Firestorm — Ronnie Raymond | Jason Rusch | Martin Stein
+- Zatanna — Zatanna Zatara | Zatana
+- Doctor Fate — Kent Nelson | Khalid Nassour
+- Black Adam — Teth-Adam
+- The Thing — Ben Grimm
+- Invisible Woman — Sue Storm | Susan Storm | Invisible Girl | Sue Richards | Sue
+- She-Hulk — Jennifer Walters
+- Ms. Marvel — Kamala Khan | Miss Marvel | Kamala
+- Miles Morales — Miles | Spider-Man Miles Morales
+- Spider-Gwen — Gwen Stacy | Ghost-Spider | Gwen
+- Spider-Woman — Jessica Drew | Julia Carpenter | Mattie Franklin
+- Luke Cage — Power Man
+- Iron Fist — Danny Rand
+- Jessica Jones — Jewel
+- Elektra — Elektra Natchios
+- Moon Knight — Marc Spector | Steven Grant | Mr. Knight
+- Shang-Chi — Master of Kung Fu
+- Blade — Eric Brooks | Daywalker | Bade
+- Black Bolt — Blackagar Boltagon
+- Nova — Richard Rider | Sam Alexander
+- Namor — Namor the Sub-Mariner | Sub-Mariner
+- Loki — Loki Laufeyson | God of Mischief
+- Shuri
+- Valkyrie — Brunnhilde
+- Yelena Belova — Yelena
+- Kate Bishop
+- Captain Carter — Peggy Carter | Agent Carter | Peggy
+- Squirrel Girl — Doreen Green
+- America Chavez — Miss America
+- Ironheart — Riri Williams | Riri
+- Sentry — Robert Reynolds | Bob Reynolds
+- Wonder Man — Simon Williams
+- Red Guardian — Alexei Shostakov
+- Elastigirl — Helen Parr | Mrs. Incredible | Rita Farr
+- Frozone — Lucius Best
+- Dash — Dash Parr
+- Violet — Violet Parr
+- Jack-Jack — Jack-Jack Parr
+- Baymax
+- Hancock — John Hancock
+- Kick-Ass — Dave Lizewski
+- Hit-Girl — Mindy Macready
+- Spawn — Al Simmons
+- Invincible — Mark Grayson | Mark
+- Rorschach — Walter Kovacs
+- Doctor Manhattan — Jon Osterman
+- Sailor Moon — Usagi Tsukino | Serena | Usagi
+- All Might — Toshinori Yagi
+- Deku — Izuku Midoriya | Midoriya | Izuku
+- Saitama — One-Punch Man | Caped Baldy
+- Ben 10 — Ben Tennyson
+- Static — Static Shock | Virgil Hawkins
+- Power Girl — Karen Starr
+- Superboy — Conner Kent | Kon-El | Jon Kent
+- Krypto — Krypto the Superdog
+- Wonder Girl — Donna Troy | Cassie Sandsmark | Troia | Yara Flor
+- Steel — John Henry Irons
+- Mister Terrific — Mr. Terrific | Michael Holt
+- Peacemaker — Christopher Smith
+- Captain Planet
+- The Tick
+- Mighty Mouse
+- Danger Mouse
+- Bananaman — Eric Twinge
+- SuperTed
+- Blossom
+- Bubbles
+- Buttercup
+- He-Man — Prince Adam
+- Captain Underpants
+- Zorro — Diego de la Vega | Don Diego de la Vega
+- Leonardo — Leo
+- Donatello — Donnie
+- Raphael — Raph
+- Michelangelo — Mikey
+
+### Tier 4: obscure (133)
+
+- Havok — Havoc | Alex Summers
+- Polaris — Lorna Dane
+- Banshee — Sean Cassidy
+- Multiple Man — Jamie Madrox
+- Forge
+- Bishop
+- Dazzler — Alison Blaire
+- Domino — Neena Thurman
+- Cannonball — Sam Guthrie
+- Magik — Illyana Rasputina
+- Blink
+- Firestar — Angelica Jones
+- Morph
+- Negasonic Teenage Warhead
+- Mystique — Raven Darkholme
+- Spider-Man 2099 — Miguel O'Hara
+- Spider-Ham — Peter Porker
+- Spider-Punk — Hobie Brown
+- Scarlet Spider — Ben Reilly | Kaine
+- Silk — Cindy Moon
+- Spider-Girl — Mayday Parker | Anya Corazon | Araña
+- Madame Web — Cassandra Webb
+- Black Cat — Felicia Hardy
+- Morbius
+- Werewolf by Night — Jack Russell
+- Moon Girl — Lunella Lafayette
+- Cloak
+- Dagger
+- Howard the Duck
+- Misty Knight
+- White Tiger — Hector Ayala | Angela del Toro
+- Echo — Maya Lopez
+- Hellcat — Patsy Walker | Trish Walker
+- Tigra
+- Mockingbird — Bobbi Morse
+- Spectrum — Monica Rambeau | Photon | Monica
+- Black Knight — Dane Whitman
+- Sersi
+- Ikaris
+- Hercules
+- Beta Ray Bill
+- Lady Sif — Sif
+- Jane Foster — The Mighty Thor
+- Mar-Vell — Captain Mar-Vell
+- Okoye
+- Medusa
+- Lockjaw
+- Cosmo — Cosmo the Spacedog
+- Adam Warlock — Warlock
+- Captain Britain — Brian Braddock
+- Wiccan — Billy Kaplan | Billy Maximoff
+- Hulkling — Teddy Altman
+- Red Hulk — Thaddeus Ross
+- U.S. Agent — John Walker
+- Quake — Daisy Johnson
+- Rescue — Pepper Potts | Pepper
+- Wong
+- Huntress — Helena Bertinelli | Helena Wayne
+- Oracle
+- Ace the Bat-Hound — Ace
+- Swamp Thing
+- John Constantine — Constantine | Hellblazer
+- Animal Man — Buddy Baker
+- Elongated Man — Ralph Dibny
+- Vixen — Mari McCabe
+- Black Lightning — Jefferson Pierce
+- Metamorpho — Rex Mason
+- Mister Miracle — Mr. Miracle | Scott Free
+- Big Barda
+- Stargirl — Courtney Whitmore
+- Speedy — Roy Harper | Arsenal | Mia Dearden | Red Arrow | Thea Queen
+- The Question — Vic Sage | Renee Montoya
+- Aqualad — Kaldur'ahm | Jackson Hyde
+- Mera
+- Kilowog
+- Miss Martian — M'gann M'orzz | Megan Morse
+- Bloodsport
+- King Shark — Nanaue
+- Katana
+- Deadshot
+- Lobo
+- Nite Owl — Dan Dreiberg
+- Silk Spectre — Laurie Juspeczyk
+- Ozymandias — Adrian Veidt
+- The Comedian — Edward Blake
+- Omni-Man — Nolan Grayson | Nolan
+- Atom Eve — Eve
+- Starlight — Annie January | Annie
+- Queen Maeve
+- Hiro Hamada
+- Megamind
+- Metro Man
+- Big Daddy
+- Abe Sapien
+- The Mask — Stanley Ipkiss
+- Bloodshot
+- The Phantom
+- The Shadow — Lamont Cranston
+- Green Hornet — Britt Reid
+- Darkwing Duck
+- Underdog
+- Space Ghost
+- Hong Kong Phooey
+- Danny Phantom
+- Ladybug — Marinette Dupain-Cheng
+- Cat Noir — Chat Noir | Adrien Agreste
+- She-Ra — Princess Adora | Adora
+- Inspector Gadget
+- Astro Boy — Mighty Atom
+- Ultraman
+- Goku — Son Goku
+- Bakugo — Katsuki Bakugo | Bakugou
+- Shoto Todoroki — Todoroki
+- Red Ranger — Jason Lee Scott | Jason Scott
+- Pink Ranger — Kimberly Hart
+- Blue Ranger — Billy Cranston
+- Yellow Ranger — Trini Kwan
+- Black Ranger — Zack Taylor
+- Green Ranger — Tommy Oliver
+- Judge Dredd
+- Splinter
+- Ghost — Ava Starr
+- Vigilante
+- Poison Ivy
+- Buffy — Buffy Summers | Buffy the Vampire Slayer
+- Captain Boomerang — Boomerang | Digger Harkness
+- Vibe — Cisco Ramon | Cisco
+- White Canary — Sara Lance
+- Killer Frost — Caitlin Snow
+- Gwenpool — Gwen Poole
+- Sylvie
+- Krrish
+- Shaktimaan
+
+### Tier 5: expert (446)
+
+- Mirage — Dani Moonstar
+- Wolfsbane — Rahne Sinclair
+- Sunspot — Roberto da Costa
+- Longshot
+- Armor — Hisako Ichiki
+- Pixie
+- Hope Summers
+- Rachel Summers
+- Northstar
+- Aurora
+- Sunfire
+- Thunderbird
+- Doop
+- Siryn
+- Warpath
+- Shatterstar
+- Lady Deadpool
+- Dogpool
+- Yukio
+- Silver Sable
+- Kraven — Kraven the Hunter
+- Man-Thing
+- Elsa Bloodstone
+- Brother Voodoo — Doctor Voodoo
+- Daimon Hellstrom — Son of Satan
+- Devil Dinosaur
+- Colleen Wing
+- Thena
+- Kingo
+- Makkari
+- Gilgamesh
+- Ajak
+- Druig
+- Phastos
+- Sprite
+- Heimdall
+- Genis-Vell
+- Phyla-Vell
+- Quasar
+- Moondragon
+- Nighthawk
+- Hyperion
+- Blue Marvel
+- Patriot
+- Speed — Tommy Shepherd
+- Stature — Cassie Lang
+- Crystal
+- Karnak
+- Gorgon
+- Franklin Richards
+- Valeria Richards
+- H.E.R.B.I.E.
+- Union Jack
+- Spitfire
+- Miracleman — Marvelman
+- Kraglin
+- Lockheed
+- Goliath — Bill Foster
+- Speedball
+- Mr. Immortal — Mister Immortal
+- Flatman
+- Big Bertha
+- Isaiah Bradley
+- Scarlet Scarab — Layla El-Faouly
+- Spider-Man Noir — Spider-Noir
+- Peni Parker — SP//dr
+- Spider-Man India — Pavitr Prabhakar
+- Clea
+- Ka-Zar
+- Deathlok
+- Nomad
+- Songbird
+- Marvel Boy — Noh-Varr
+- Amadeus Cho — Totally Awesome Hulk | Brawn
+- Luna Snow
+- Jeff the Land Shark
+- Batwing
+- Azrael
+- Spoiler
+- Red Robin
+- Signal — Duke Thomas
+- Bat-Mite
+- Mary Marvel — Mary Bromfield
+- Freddy Freeman — Captain Marvel Jr. | Captain Marvel Junior
+- Etrigan — The Demon
+- Deadman — Boston Brand
+- The Spectre — Specter
+- Phantom Stranger
+- Captain Atom
+- Orion
+- Wildcat
+- Jesse Quick
+- Superwoman
+- Streaky
+- Bizarro
+- Nubia
+- Terra
+- Hawk
+- Dove
+- Mogo
+- Tomar-Re
+- Abin Sur
+- Saturn Girl
+- Cosmic Boy
+- Lightning Lad
+- Brainiac 5
+- Mon-El
+- Bouncing Boy
+- Chameleon Boy
+- Ultra Boy
+- Shrinking Violet
+- Triplicate Girl — Duo Damsel
+- Phantom Girl
+- Dream Girl
+- Timber Wolf
+- Element Lad
+- Star Boy
+- Arm-Fall-Off-Boy
+- Ice
+- Fire
+- Blue Devil
+- Red Tornado
+- Ratcatcher 2 — Ratcatcher
+- Polka-Dot Man
+- El Diablo
+- Jonah Hex
+- Robotman — Cliff Steele
+- Negative Man — Larry Trainor
+- Crazy Jane
+- Atom Smasher
+- Cyclone
+- Hourman
+- Starman
+- Sandman — Wesley Dodds
+- Doctor Mid-Nite
+- Liberty Belle
+- Doll Man
+- Phantom Lady
+- The Ray
+- Zan
+- Jayna
+- Ambush Bug
+- Hooded Justice
+- Sister Night
+- Allen the Alien
+- Battle Beast
+- Rex Splode
+- Dupli-Kate
+- Monster Girl
+- A-Train
+- The Deep
+- Black Noir
+- Soldier Boy
+- Kimiko
+- Translucent
+- Number Five — Five Hargreeves | Five
+- Luther Hargreeves — Spaceboy | Luther
+- Diego Hargreeves — The Kraken | Diego
+- Allison Hargreeves — The Rumor | The Rumour | Allison
+- Klaus Hargreeves — The Séance | Klaus
+- Vanya Hargreeves — Viktor Hargreeves | The White Violin | Vanya | Viktor
+- Ben Hargreeves — The Horror
+- Savage Dragon
+- Witchblade
+- X-O Manowar
+- Ninjak
+- Shadowman
+- Faith — Zephyr
+- Solar
+- Turok
+- Kato
+- The Spirit
+- Doc Savage
+- The Shield
+- Captain Midnight
+- Black Terror
+- Liz Sherman
+- Mandrake the Magician — Mandrake
+- The Lone Ranger
+- RoboCop
+- The Crow — Eric Draven
+- Darkman
+- The Rocketeer — Cliff Secord
+- David Dunn — The Overseer
+- Popeye
+- Atom Ant
+- Birdman
+- Super Chicken
+- Captain Caveman
+- Freakazoid
+- Batfink
+- Kim Possible
+- Catboy
+- Owlette
+- Gekko
+- Penfold
+- Spotty
+- Supergran
+- Billy the Cat
+- Captain Scarlet
+- Bolt
+- Gizmoduck
+- Super Goof
+- Duck Avenger — Paperinik
+- Casey Jones
+- GoGo Tomago — GoGo
+- Honey Lemon
+- Wasabi
+- Supertato
+- Superworm
+- Super Grover
+- Dog Man
+- Kamen Rider
+- Cyborg 009
+- Great Saiyaman — Gohan
+- Sailor Mercury
+- Sailor Mars
+- Sailor Jupiter
+- Sailor Venus
+- Sailor Saturn
+- Sailor Uranus
+- Sailor Neptune
+- Sailor Pluto
+- Sailor Chibi Moon — Chibiusa
+- Tuxedo Mask
+- Ochaco Uraraka — Uravity | Uraraka | Ochaco
+- Endeavor — Endeavour
+- Eraser Head — Shota Aizawa | Aizawa
+- Hawks
+- Tenya Iida — Ingenium | Iida
+- Kirishima — Red Riot | Eijiro Kirishima
+- Froppy — Tsuyu Asui | Tsuyu | Tsu
+- Lemillion — Mirio Togata | Mirio
+- Genos
+- Mumen Rider
+- Tatsumaki
+- Cole MacGrath
+- Delsin Rowe
+- Viewtiful Joe
+- The Greatest American Hero — Ralph Hinkley
+- The Six Million Dollar Man — Steve Austin
+- The Bionic Woman — Jaime Sommers
+- Hiro Nakamura
+- Claire Bennet
+- Peter Petrelli
+- Throg — Frog of Thunder | Simon Walterson
+- Captain Cold
+- Killer Croc
+- X-Man — Nate Grey
+- Husk — Paige Guthrie
+- Marrow
+- Angela
+- Midnight
+- King
+- Meteor Man
+- Condorman
+- Captain Barbell
+- Spider-UK — Billy Braddock
+- Invisible Kid
+- War Woman
+- Snowbird
+- The Immortal
+- Lightning — Jennifer Pierce
+- Thunder — Anissa Pierce
+- Nico Minoru — Sister Grimm | Nico
+- Karolina Dean — Karolina
+- Molly Hayes — Princess Powerful
+- Chase Stein
+- Gert Yorkes — Gert
+- Old Lace
+- Kwame
+- Wheeler
+- Linka
+- Gi
+- Ma-Ti
+- Guardian — Vindicator | James Hudson | Heather Hudson
+- Sasquatch
+- Puck
+- Shaman
+- Apache Chief
+- Black Vulcan
+- Samurai
+- El Dorado
+- Gleek
+- Doorman
+- Dinah Soar
+- Iron Lad
+- Prodigy
+- Fred — Fredzilla
+- Johnny Thunder
+- Martinex
+- Charlie-27
+- Starhawk — Stakar Ogord
+- Aleta
+- Major Victory — Vance Astro
+- Mr. Furious — Mister Furious
+- The Shoveler
+- The Blue Raja
+- The Bowler
+- Invisible Boy
+- The Spleen
+- The Sphinx
+- Captain Amazing
+- Voyd
+- Gazerbeam
+- Dynaguy
+- Thunderhead
+- Captain Metropolis
+- Mothman
+- Dollar Bill
+- Silhouette
+- Looking Glass
+- Marie Moreau — Marie
+- Jordan Li
+- Robot — Rudy
+- Black Samson
+- Green Ghost
+- Red Rush
+- Darkwing
+- Shrinking Rae
+- Bulletproof
+- Kid Omni-Man — Oliver Grayson | Oliver
+- Judomaster — Rip Jagger
+- Karate Kid
+- Sun Boy
+- Colossal Boy
+- Ferro Lad
+- Wildfire
+- Princess Projectra
+- Dawnstar
+- Light Lass
+- Bluebird — Harper Row
+- Tawky Tawny
+- Darla Dudley — Darla
+- Eugene Choi
+- Pedro Peña
+- G'nort
+- Ch'p
+- Saint Walker
+- Beppo — Beppo the Super-Monkey
+- Comet — Comet the Super-Horse
+- Jimmy Olsen — Elastic Lad | Superman's Pal
+- Rick Jones — A-Bomb
+- Toro
+- Doc Samson
+- Skaar
+- Red She-Hulk — Betty Ross
+- Thunderstrike — Eric Masterson
+- Night Thrasher
+- Namorita
+- Darwin
+- Chamber
+- Sage
+- Maggott
+- Fantomex
+- Hellion
+- Anole
+- Rockslide
+- Surge
+- Cecilia Reyes
+- Omega Sentinel
+- Karma
+- Cypher
+- Magma
+- Boom-Boom — Boomer | Meltdown
+- Legion — David Haller
+- Bumblebee — Karen Beecher
+- Jericho
+- Artemis — Artemis Crock
+- Spartan — John Diggle
+- Yo-Yo — Elena Rodriguez
+- Kahhori
+- Spider-Byte
+- Spider-Boy — Bailey Briggs
+- Superior Spider-Man
+- Jocasta
+- Kidpool
+- Nicepool
+- Headpool
+- Korg
+- White Ranger
+- Mirko — Rumi Usagiyama
+- Momo Yaoyorozu — Creati | Yaoyorozu | Momo
+- Tokoyami — Fumikage Tokoyami | Tsukuyomi
+- Kaminari — Denki Kaminari | Chargebolt
+- Mt. Lady — Mount Lady
+- Best Jeanist
+- Gran Torino
+- Present Mic
+- Shinso — Hitoshi Shinso
+- Fat Gum
+- Kamui Woods
+- Edgeshot
+- Silver Fang — Bang
+- Fubuki — Blizzard of Hell
+- Metal Bat
+- Puri-Puri Prisoner
+- Wild Tiger — Kotetsu Kaburagi
+- Anpanman
+- Golden Bat
+- Arthur
+- Launchpad McQuack — Launchpad
+- Gosalyn — Gosalyn Mallard | Quiverwing Quack
+- Ron Stoppable — Ron
+- Rufus
+- Earthworm Jim
+- Captain Man
+- Kid Danger — Henry Hart
+- Rena Rouge
+- Carapace
+- Queen Bee
+- Blankman
+- Thermoman
+- Mr. India — Mister India
+- Minnal Murali
+- Nagraj
+- Super Commando Dhruv — Dhruv
+- Doga
+- G.One
+- Flying Jatt
+- El Chapulín Colorado — Chapulín Colorado
+- Kalimán
+- Darna
+- Lastikman
+- Devilman
+- Madman
+- Flaming Carrot
+- The Maxx
+- Lobster Johnson
+- Samaritan
+- Midnighter
+- Apollo
+- Grifter
+- Zenith
+- Black Hammer
+- The Utopian
+- Adam Strange
+- Jade
+- Obsidian
+- Rocket Red
+- Uncle Sam
+- Kid Devil
+- Madame Xanadu
+- G.I. Robot
+- Eagly
+- Emma Meyer
+
+### Tier 6: rare jackpots (3)
+
+- Matter-Eater Lad — Tenzil Kem
+- Detective Chimp
+- Captain Carrot — Rodney Rabbit
+
+## Refused on purpose (55)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Joker — "Batman's archenemy, and no hero."
+- Lex Luthor | Luthor | Lex — "Superman's archenemy, and no hero."
+- Thanos — "A villain with designs on half the universe."
+- Green Goblin | Norman Osborn | Hobgoblin | Carnage | Mysterio | Vulture | Electro | Rhino | Lizard | Scorpion | Shocker — "One of Spider-Man's foes, not a hero."
+- Doctor Octopus | Doc Ock | Otto Octavius — "A villain, though he once took over Spider-Man's body."
+- Doctor Doom | Victor von Doom — "The Fantastic Four's archenemy, not a hero."
+- Two-Face | Riddler | Penguin | Scarecrow | Mr. Freeze | Ra's al Ghul | Mad Hatter | Clayface | Bane | Hush | Black Mask | Man-Bat | Solomon Grundy — "One of Batman's foes, not a hero."
+- Kingpin | Wilson Fisk — "A crime lord, not a hero."
+- Red Skull | Ultron | Galactus | Mandarin | Kang the Conqueror | Dormammu | Apocalypse | Mister Sinister | Sabretooth | Sabertooth | Juggernaut | Bullseye | Abomination | Baron Zemo | Killmonger | MODOK | Annihilus | Taskmaster | Kang | Zemo | Helmut Zemo | Hela | Mephisto | Mole Man | Ego — "A Marvel villain, not a hero."
+- Darkseid | Brainiac | Sinestro | Reverse-Flash | Black Manta | Cheetah | Doomsday | General Zod | Zod | Deathstroke | Gorilla Grodd — "A DC villain, not a hero."
+- Homelander | Stormfront — "The Boys' villain, whatever Vought's marketing says."
+- Syndrome — "The Incredibles' villain, not a hero."
+- Darth Vader — "Star Wars, and hardly a hero."
+- Edna Mode | Edna — "She designs the suits. She doesn't wear them. No capes!"
+- Alfred Pennyworth | Alfred — "Batman's butler, not a hero in a cape."
+- Commissioner Gordon | Jim Gordon — "Gotham's police commissioner, not a superhero."
+- Lois Lane — "Superman's reporter, not usually a superhero herself."
+- Nick Fury — "S.H.I.E.L.D.'s spymaster, not a superhero."
+- James Bond | 007 | Jason Bourne | Ethan Hunt — "A spy, not a superhero."
+- Sherlock Holmes | Sherlock | Hercule Poirot — "A detective, not a superhero."
+- Robin Hood | William Tell — "A folk hero, not a superhero."
+- Indiana Jones | Lara Croft | Tarzan | Conan the Barbarian | Conan — "An adventurer, not a superhero."
+- Flash Gordon | Buck Rogers | Dan Dare — "A space-opera hero, not a superhero."
+- Luke Skywalker | Obi-Wan Kenobi — "A Jedi, not a superhero."
+- Harry Potter | Gandalf — "A wizard, not a superhero."
+- Buzz Lightyear — "A space ranger toy, not a superhero."
+- Optimus Prime — "A Transformer, not a superhero."
+- Doctor Who | The Doctor — "A Time Lord, not a superhero."
+- Godzilla | King Kong — "A giant monster, not a superhero."
+- Naruto | Naruto Uzumaki — "A ninja, not a superhero."
+- Kryptonite — "Superman's weakness, not a hero."
+- Wonder Twins — "Pick one of the twins."
+- Cloak and Dagger — "Pick one of the pair."
+- Hawk and Dove — "Pick one of the pair."
+- Hargreeves — "Which Hargreeves? Sir Reginald adopted seven."
+- Hiro — "Which Hiro? Big Hero 6 and Heroes each have one."
+- Marvel | DC | DC Comics | Marvel Comics — "A publisher, not a hero. Name one of its heroes."
+- Avengers | X-Men | Justice League | Fantastic Four | Guardians of the Galaxy | Teen Titans | Titans | Thunderbolts | New Avengers | Defenders | Watchmen | The Incredibles | The Boys | Justice Society | Suicide Squad | Doom Patrol | Birds of Prey | Young Justice | Inhumans | Eternals | New Mutants | X-Force | Young Avengers | Great Lakes Avengers | Runaways | Alpha Flight | Power Rangers | Teenage Mutant Ninja Turtles | Ninja Turtles | TMNT | Turtles | Powerpuff Girls | Big Hero 6 | Umbrella Academy | PJ Masks | Sailor Scouts | Sailor Guardians | Legion of Super-Heroes | Super Friends | Planeteers | Shadowpact | Mighty Morphin Power Rangers | Justice League of America | JLA | Justice Society of America | JSA | The Seven | Mystery Men | Excalibur | X-Factor | Champions | Justice League Dark | Outsiders | Morlocks | The Authority | WildC.A.T.s | Minutemen | Guardians of the Globe | Legion of Super-Pets | Guardians | West Coast Avengers | Secret Avengers — "A whole team. Name one of its members."
+- Stan Lee — "He made the heroes, and made cameos, but he wasn't one."
+- Jack Kirby | Steve Ditko | Bob Kane | Bill Finger | Jerry Siegel | Joe Shuster | Kevin Feige | James Gunn — "A real creator of superheroes, not one himself."
+- Robert Downey Jr. | Chris Evans | Chris Hemsworth | Henry Cavill | Christopher Reeve | Hugh Jackman | Ryan Reynolds | Tom Holland | Gal Gadot | Lynda Carter | Christian Bale | Michael Keaton | Adam West | Robert Pattinson | Ben Affleck | Scarlett Johansson | Mark Ruffalo | Chadwick Boseman | Benedict Cumberbatch | Brie Larson | Tobey Maguire | Andrew Garfield | Tom Hiddleston | Jason Momoa | David Corenswet | Florence Pugh | Pedro Pascal — "A real actor, not a superhero. Try the part instead."
+- Luffy | Monkey D. Luffy — "A pirate, not a superhero, however far he can stretch."
+- Ronan the Accuser | Ronan — "A Kree villain, not a hero."
+- Bruce — "Which Bruce? Batman and the Hulk both answer to it."
+- Peter — "Which Peter? Spider-Man and Star-Lord are only the start."
+- Scott — "Which Scott? Ant-Man and Cyclops both answer to it."
+- Sam — "Which Sam? The Falcon is only one of them."
+- Johnny — "Which Johnny? More than one hero answers to it."
+- Billy — "Which Billy? Shazam is only one of them."
+- Ben — "Which Ben? More than one hero answers to it."
+- Danny — "Which Danny? More than one hero answers to it."
+- Kate — "Which Kate? More than one hero answers to it."
+- Jessica — "Which Jessica? One of them is a Green Lantern."
+- Bob — "Which Bob? Mr. Incredible is only one of them."
+- Ichigo | Ichigo Kurosaki — "A Soul Reaper, not a superhero."

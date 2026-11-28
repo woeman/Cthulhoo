@@ -1,0 +1,343 @@
+# Name a dinosaur.
+
+Question id: `dinosaurs` · category: science · source: `data/science.json`
+
+Rules: Any dinosaur genus. Flying pterosaurs and swimming plesiosaurs weren't dinosaurs. Birds technically are.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (291 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (5)
+
+- Tyrannosaurus — T. rex | Tyrannosaurus rex | Tyrannosaur
+- Triceratops
+- Velociraptor — Velociraptors
+- Stegosaurus — Stegosaur
+- Brachiosaurus
+
+### Tier 2: common (11)
+
+- Diplodocus — Seismosaurus
+- Spinosaurus
+- Ankylosaurus
+- Brontosaurus
+- Allosaurus
+- Iguanodon
+- Parasaurolophus
+- Pachycephalosaurus — Pachy
+- Apatosaurus
+- Dilophosaurus
+- Bird — Birds | Chicken | Pigeon | Sparrow | Ostrich | Emu | Penguin | Turkey | Robin | Eagle | Crow | Duck | Owl | Parrot | Seagull | Hummingbird | Blackbird | Thrush | Starling | Wren | Blue tit | Great tit | Finch | Goldfinch | Chaffinch | Bullfinch | Canary | Budgie | Budgerigar | Parakeet | Cockatoo | Macaw | Lovebird | Cockatiel | Kea | Kakapo | Dove | Raven | Rook | Jackdaw | Magpie | Jay | Blue jay | Cardinal | Swallow | Swift | Kingfisher | Woodpecker | Toucan | Hornbill | Cuckoo | Roadrunner | Hawk | Falcon | Peregrine | Kestrel | Buzzard | Kite | Vulture | Condor | Osprey | Heron | Egret | Stork | Crane | Ibis | Spoonbill | Flamingo | Pelican | Cormorant | Gannet | Albatross | Petrel | Puffin | Guillemot | Auk | Great auk | Gull | Tern | Goose | Swan | Mallard | Grebe | Loon | Coot | Moorhen | Hen | Rooster | Pheasant | Partridge | Quail | Grouse | Peacock | Peafowl | Guineafowl | Rhea | Cassowary | Kiwi | Moa | Dodo | Elephant bird | Lark | Skylark | Nightingale | Warbler | Wagtail | Nuthatch | Oriole | Mockingbird | Bluebird | Kookaburra | Lyrebird | Bird of paradise | Sandpiper | Plover | Lapwing | Curlew | Snipe | Woodcock | Oystercatcher | Nightjar | Frigatebird | Shoebill | Hoatzin | Myna | Hoopoe | Chickadee | Haast's eagle
+
+### Tier 3: known to fans (25)
+
+- Gallimimus
+- Carnotaurus
+- Giganotosaurus
+- Compsognathus
+- Oviraptor
+- Protoceratops
+- Archaeopteryx
+- Deinonychus
+- Utahraptor
+- Baryonyx
+- Megalosaurus
+- Styracosaurus
+- Therizinosaurus
+- Argentinosaurus
+- Maiasaura
+- Troodon
+- Hadrosaurus
+- Edmontosaurus — Anatosaurus
+- Ceratosaurus
+- Microraptor
+- Coelophysis
+- Herrerasaurus
+- Eoraptor
+- Corythosaurus
+- Lambeosaurus
+
+### Tier 4: obscure (70)
+
+- Kentrosaurus
+- Amargasaurus
+- Dreadnoughtus
+- Patagotitan
+- Mamenchisaurus
+- Camarasaurus
+- Plateosaurus
+- Nodosaurus
+- Euoplocephalus
+- Psittacosaurus
+- Pentaceratops
+- Chasmosaurus
+- Centrosaurus
+- Pachyrhinosaurus
+- Einiosaurus
+- Torosaurus
+- Albertosaurus
+- Daspletosaurus
+- Gorgosaurus
+- Tarbosaurus
+- Yutyrannus
+- Guanlong
+- Dilong
+- Sinosauropteryx
+- Caudipteryx
+- Ornithomimus
+- Struthiomimus
+- Deinocheirus
+- Saurolophus
+- Shantungosaurus
+- Muttaburrasaurus
+- Leaellynasaura
+- Minmi
+- Australovenator
+- Cryolophosaurus
+- Majungasaurus
+- Abelisaurus
+- Suchomimus
+- Irritator
+- Carcharodontosaurus
+- Acrocanthosaurus
+- Torvosaurus
+- Monolophosaurus
+- Sinraptor
+- Saltasaurus
+- Titanosaurus
+- Supersaurus
+- Sauroposeidon
+- Brachylophosaurus
+- Ouranosaurus
+- Tenontosaurus
+- Hypsilophodon
+- Heterodontosaurus
+- Scelidosaurus
+- Edmontonia
+- Borealopelta
+- Giraffatitan
+- Barosaurus
+- Mussaurus
+- Massospondylus
+- Nigersaurus
+- Alamosaurus
+- Mapusaurus
+- Concavenator
+- Kosmoceratops
+- Mononykus
+- Citipati
+- Velafrons
+- Dromaeosaurus
+- Hylaeosaurus
+
+### Tier 5: expert (177)
+
+- Lesothosaurus
+- Scutellosaurus
+- Gastonia
+- Polacanthus
+- Sauropelta
+- Pinacosaurus
+- Saichania
+- Tarchia
+- Talarurus
+- Crichtonsaurus
+- Scolosaurus
+- Anodontosaurus
+- Shunosaurus
+- Omeisaurus
+- Euhelopus
+- Dicraeosaurus
+- Rebbachisaurus
+- Europasaurus
+- Abydosaurus
+- Rapetosaurus
+- Isisaurus
+- Futalognkosaurus
+- Puertasaurus
+- Antarctosaurus
+- Opisthocoelicaudia
+- Nemegtosaurus
+- Cetiosaurus
+- Vulcanodon
+- Barapasaurus
+- Haplocanthosaurus
+- Anchisaurus
+- Thecodontosaurus
+- Riojasaurus
+- Lufengosaurus
+- Saturnalia
+- Staurikosaurus
+- Pisanosaurus
+- Eodromaeus
+- Tawa
+- Daemonosaurus
+- Liliensternus
+- Megapnosaurus — Syntarsus
+- Segisaurus
+- Alvarezsaurus
+- Shuvuuia
+- Avimimus
+- Incisivosaurus
+- Halszkaraptor
+- Austroraptor
+- Buitreraptor
+- Unenlagia
+- Rahonavis
+- Dakotaraptor
+- Achillobator
+- Pyroraptor
+- Balaur
+- Nothronychus
+- Segnosaurus
+- Beipiaosaurus
+- Falcarius
+- Nanotyrannus
+- Lythronax
+- Teratophoneus
+- Bistahieversor
+- Zhuchengtyrannus
+- Qianzhousaurus
+- Alioramus
+- Eotyrannus
+- Proceratosaurus
+- Ornitholestes
+- Juravenator
+- Sciurumimus
+- Scipionyx
+- Eustreptospondylus
+- Afrovenator
+- Elaphrosaurus
+- Limusaurus
+- Masiakasaurus
+- Rugops
+- Skorpiovenator
+- Aucasaurus
+- Tyrannotitan
+- Neovenator
+- Megaraptor
+- Fukuiraptor
+- Kulindadromeus
+- Tianyulong
+- Fruitadens
+- Thescelosaurus
+- Oryctodromeus
+- Dryosaurus
+- Camptosaurus
+- Mantellisaurus
+- Altirhinus
+- Bactrosaurus
+- Tsintaosaurus
+- Olorotitan
+- Charonosaurus
+- Hypacrosaurus
+- Gryposaurus
+- Kritosaurus
+- Prosaurolophus
+- Leptoceratops
+- Zuniceratops
+- Diabloceratops
+- Utahceratops
+- Nasutoceratops
+- Medusaceratops
+- Sinoceratops
+- Achelousaurus
+- Regaliceratops
+- Xenoceratops
+- Titanoceratops
+- Anchiceratops
+- Arrhinoceratops
+- Yinlong
+- Stegoceras
+- Prenocephale
+- Homalocephale
+- Dracorex — Dracorex hogwartsia
+- Huayangosaurus
+- Tuojiangosaurus
+- Dacentrurus
+- Miragaia
+- Gigantspinosaurus
+- Wuerhosaurus
+- Gargoyleosaurus
+- Panoplosaurus
+- Struthiosaurus
+- Hungarosaurus
+- Mei
+- Sinornithosaurus
+- Anchiornis
+- Epidexipteryx
+- Yi
+- Ambopteryx
+- Gigantoraptor
+- Khaan
+- Conchoraptor
+- Elmisaurus
+- Anzu
+- Chirostenotes
+- Spinophorosaurus
+- Jobaria
+- Turiasaurus
+- Galvesaurus
+- Leinkupal
+- Bajadasaurus
+- Brachytrachelopan
+- Ampelosaurus
+- Magyarosaurus
+- Paralititan
+- Aegyptosaurus
+- Bahariasaurus
+- Deltadromeus
+- Spinostropheus
+- Ichthyovenator
+- Oxalaia
+- Sigilmassasaurus
+- Siamosaurus
+- Siamotyrannus
+- Pelecanimimus
+- Harpymimus
+- Garudimimus
+- Anserimimus
+- Sinornithomimus
+- Nqwebasaurus
+- Noasaurus
+- Atrociraptor
+- Eotriceratops
+- Procompsognathus
+- Rajasaurus
+- Confuciusornis
+- Ichthyornis
+- Hesperornis
+- Gastornis — Diatryma
+- Phorusrhacos — Terror bird
+
+### Tier 6: rare jackpots (3)
+
+- Zuul
+- Stygimoloch
+- Gojirasaurus — Gojirasaurus quayi
+
+## Refused on purpose (18)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Pterodactyl | Pterodactylus | Pteranodon | Quetzalcoatlus | Pterosaur — "A pterosaur, a flying reptile, not a dinosaur."
+- Plesiosaur | Plesiosaurus | Elasmosaurus | Liopleurodon | Kronosaurus | Nothosaurus — "A marine reptile, not a dinosaur."
+- Mosasaurus | Mosasaur | Tylosaurus — "A giant sea lizard, not a dinosaur."
+- Ichthyosaurus | Ichthyosaur — "A marine reptile, not a dinosaur."
+- Dimetrodon | Edaphosaurus | Lystrosaurus — "Older than the dinosaurs, and more closely related to you than to them."
+- Megalodon — "A giant shark, and much later."
+- Woolly mammoth | Mammoth | Mastodon — "A mammal of the Ice Age."
+- Sabre-toothed tiger | Smilodon | Saber-toothed tiger | Sabretooth — "An Ice Age cat."
+- Godzilla — "Fictional, though a real dinosaur is named after him."
+- Indominus rex | Indoraptor — "Invented for Jurassic World."
+- Barney — "Fictional. Purple, too."
+- Loch Ness Monster | Nessie — "Unconfirmed. The deep is keeping quiet."
+- Crocodile | Alligator | Sarcosuchus | Deinosuchus | Postosuchus — "On the crocodile side of the family tree: a cousin of the dinosaurs, not one."
+- Komodo dragon — "A lizard, very much alive today."
+- Archelon — "A giant sea turtle."
+- Raptor — "A nickname. Give the dinosaur its full name."
+- Dragon — "Mythical. Probably."
+- Basilosaurus — "An early whale, despite the name."

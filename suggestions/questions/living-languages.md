@@ -1,0 +1,923 @@
+# Name a language that is still spoken today.
+
+Question id: `living-languages` · category: language · source: `data/language.json`
+
+Rules: Any language with native speakers today, sign languages included, or one revived after dying out, like Hebrew. Dead languages and ones invented for fiction don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (809 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- English — British English | American English | Australian English | Canadian English | Indian English | Irish English | Hiberno-English | Scottish English | Modern English | Standard English | Queen's English | King's English
+- French — Français | Québécois | Quebec French | Canadian French | Belgian French | Swiss French | Acadian French | Acadian
+- Spanish — Español | Castilian | Castellano | Mexican Spanish | Latin American Spanish | Argentine Spanish | Rioplatense Spanish
+- German — Deutsch | High German | Standard German | Hochdeutsch | Austrian German
+- Italian — Italiano
+- Mandarin — Mandarin Chinese | Putonghua | Standard Chinese | Standard Mandarin | Guoyu | Mandari | Mandain | Mandair | Chinese Mandarin | Taiwanese Mandarin
+- Chinese — Zhongwen
+- Japanese — Nihongo
+- Russian — Russkiy | Russky
+- Portuguese — Português | Brazilian Portuguese | European Portuguese
+- Arabic — Modern Standard Arabic | Standard Arabic | Al-Arabiyya
+- Hindi — Hind
+
+### Tier 2: common (31)
+
+- Welsh — Cymraeg
+- Irish — Gaeilge | Irish Gaelic | Erse | Gaelic Irish
+- Scottish Gaelic — Gàidhlig | Scots Gaelic
+- Dutch — Nederlands
+- Greek — Modern Greek | Ellinika
+- Korean — Hangugeo | Hangukeo | Chosonmal | Koren
+- Cantonese — Yue | Yue Chinese | Cantonese Chinese | Guangdonghua | Hong Kong Cantonese
+- Polish — Polski
+- Swedish — Svenska
+- Norwegian — Norsk | Bokmål | Nynorsk
+- Danish — Dansk
+- Finnish — Suomi
+- Turkish — Türkçe
+- Hebrew — Ivrit | Modern Hebrew | Israeli Hebrew | Israeli
+- Urdu
+- Bengali — Bangla
+- Punjabi — Panjabi
+- Swahili — Kiswahili
+- Hungarian — Magyar
+- Icelandic — Íslenska
+- Ukrainian — Ukrainska
+- Persian — Farsi | Iranian Persian
+- Vietnamese — Tiếng Việt
+- Thai — Siamese | Central Thai
+- Tamil
+- Afrikaans
+- Czech — Čeština | Bohemian
+- Zulu — isiZulu
+- Basque — Euskara | Euskera
+- Catalan — Català
+- Gaelic
+
+### Tier 3: known to fans (84)
+
+- Romanian — Rumanian | Roumanian | Moldovan | Moldavian
+- Bulgarian — Balgarski
+- Serbian — Srpski
+- Croatian — Hrvatski
+- Bosnian — Bosanski
+- Serbo-Croatian — Serbo-Croat | Croato-Serbian | BCMS | BCS | Yugoslav | Yugoslavian
+- Slovak — Slovakian | Slovenčina
+- Slovenian — Slovene | Slovenščina
+- Lithuanian — Lietuvių
+- Latvian — Lettish | Latviešu | Latvin | Latian
+- Estonian — Eesti
+- Albanian — Shqip
+- Macedonian
+- Belarusian — Belarusan | Byelorussian | Belorussian | White Russian
+- Maltese — Malti
+- Luxembourgish — Lëtzebuergesch | Letzeburgesch | Luxembourgian | Luxemburgish
+- Faroese — Føroyskt | Faeroese | Faroish
+- Frisian — West Frisian | Frysk
+- Flemish — Vlaams
+- Galician — Galego
+- Corsican — Corsu
+- Sicilian — Sicilianu
+- Breton — Brezhoneg
+- Cornish — Kernewek | Kernowek
+- Manx — Manx Gaelic | Gaelg | Gailck
+- Scots — Lallans | Lowland Scots | Broad Scots
+- Yiddish
+- Romani — Romany | Romanes
+- Sami — Saami | Northern Sami | North Sami
+- Swiss German — Schwiizerdütsch | Schweizerdeutsch | Schwyzerdütsch
+- Esperanto
+- Armenian — Hayeren | Western Armenian | Eastern Armenian
+- Georgian — Kartuli
+- Azerbaijani — Azeri | Azerbaijanian
+- Kazakh — Qazaq
+- Uzbek
+- Tatar — Tartar | Kazan Tatar
+- Chechen
+- Mongolian — Mongol | Khalkha | Khalkha Mongolian
+- Tibetan — Standard Tibetan | Lhasa Tibetan
+- Kurdish — Kurdi
+- Pashto — Pashtu | Pushto | Pakhto
+- Aramaic — Neo-Aramaic | Assyrian | Assyrian Neo-Aramaic | Syriac | Sureth | Suret | Chaldean | Aramic
+- Amharic — Amarigna | Amarinya
+- Somali — Somalian
+- Yoruba
+- Igbo — Ibo
+- Hausa
+- Xhosa — isiXhosa
+- Shona — chiShona
+- Tamazight — Berber | Amazigh
+- Gujarati — Gujerati
+- Marathi
+- Telugu
+- Kannada — Canarese | Kanarese
+- Malayalam
+- Nepali — Nepalese | Gorkhali
+- Sinhala — Sinhalese
+- Burmese — Myanmar | Bamar
+- Khmer — Cambodian
+- Lao — Laotian | Laotin
+- Tagalog
+- Filipino — Pilipino | Philippine
+- Indonesian — Bahasa Indonesia
+- Malay — Bahasa Melayu | Bahasa Malaysia | Malaysian | Melayu
+- Javanese — Basa Jawa
+- Hokkien — Min Nan | Southern Min | Taiwanese | Taiwanese Hokkien | Amoy | Fukienese
+- Maori — Te Reo Maori | Te Reo
+- Hawaiian — Olelo Hawaii
+- Samoan — Gagana Samoa
+- Tongan — Tonga
+- Fijian
+- Quechua — Runa Simi | Quichua | Kechua
+- Navajo — Navaho | Diné bizaad
+- Cherokee — Tsalagi
+- Inuktitut — Inuit
+- Greenlandic — Kalaallisut
+- Haitian Creole — Haitian | Kreyòl | Kreyol Ayisyen
+- Jamaican Patois — Patois | Patwa | Jamaican | Jamaican Creole
+- Tok Pisin
+- Maya — Mayan | Mayan languages
+- Nahuatl
+- British Sign Language — BSL
+- American Sign Language — ASL | Ameslan
+
+### Tier 4: obscure (98)
+
+- Montenegrin — Crnogorski
+- Valencian — Valencià
+- Occitan — Langue d'oc | Lenga d'òc
+- Sardinian — Sardu
+- Neapolitan — Napulitano | Napoletano
+- Venetian — Vèneto
+- Romansh — Romansch | Rumantsch | Romanche
+- Low German — Plattdeutsch | Plattdüütsch | Low Saxon | Platt
+- Bavarian — Austro-Bavarian | Boarisch
+- Ulster Scots — Ullans
+- Ladino — Judaeo-Spanish | Judeo-Spanish | Judezmo
+- Crimean Tatar
+- Bashkir
+- Chuvash
+- Ossetian — Ossetic
+- Circassian — Cherkess
+- Yakut — Sakha
+- Kyrgyz — Kirghiz | Kirgiz
+- Turkmen — Turkoman | Turkmenian
+- Tajik — Tajiki | Tadjik
+- Dari — Afghan Persian
+- Uyghur — Uighur | Uygur
+- Balochi — Baluchi
+- Hindustani
+- Odia — Oriya
+- Assamese — Asamiya
+- Sindhi
+- Kashmiri — Koshur
+- Konkani
+- Maithili
+- Bhojpuri
+- Rajasthani
+- Saraiki — Seraiki | Siraiki
+- Pahari-Pothwari — Pothwari | Potwari | Mirpuri | Pahari
+- Sylheti
+- Rohingya
+- Dhivehi — Divehi | Maldivian
+- Dzongkha — Bhutanese
+- Hakka — Hakka Chinese | Kejia
+- Shanghainese — Wu | Wu Chinese
+- Okinawan — Uchinaaguchi | Ryukyuan
+- Karen — S'gaw Karen
+- Shan
+- Hmong — Miao | Hmong Daw | Mong
+- Tetum — Tetun
+- Sundanese
+- Balinese
+- Cebuano — Bisaya | Binisaya | Visayan
+- Ilocano — Ilokano | Iloko
+- Egyptian Arabic — Masri | Masry | Egyptian
+- Moroccan Arabic — Darija | Moroccan
+- Oromo — Afaan Oromoo | Oromiffa
+- Tigrinya — Tigrigna
+- Wolof
+- Fula — Fulani | Fulfulde | Pulaar | Peul | Fulah
+- Twi
+- Akan
+- Ewe
+- Lingala
+- Kikongo — Kongo
+- Kinyarwanda — Rwanda | Rwandan | Ikinyarwanda
+- Luganda — Ganda
+- Ndebele — isiNdebele
+- Sesotho — Sotho | Southern Sotho
+- Setswana — Tswana
+- Chichewa — Nyanja | Chewa | Chinyanja
+- Malagasy
+- Kikuyu — Gikuyu
+- Krio
+- Nigerian Pidgin — Naija
+- Mauritian Creole — Morisien | Kreol Morisien
+- Aymara
+- Guarani
+- Mapudungun — Mapuche
+- Yucatec Maya — Yucatec | Yucatec Mayan
+- K'iche' — Quiché | Kiche Maya
+- Zapotec — Zapoteco
+- Mixtec — Mixteco
+- Lakota — Lakhota
+- Ojibwe — Ojibwa | Ojibway | Chippewa | Anishinaabemowin | Odawa | Ottawa
+- Cree — Nehiyawewin
+- Mohawk — Kanienkeha
+- Choctaw
+- Hopi
+- Apache — Western Apache
+- Blackfoot — Siksika
+- Inupiaq — Inupiat
+- Yup'ik — Central Yupik
+- Papiamento — Papiamentu
+- Pennsylvania Dutch — Pennsylvania German
+- Bislama
+- Tahitian
+- Chamorro
+- Auslan — Australian Sign Language
+- Warlpiri
+- Pitjantjatjara — Pitjantjara
+- Kriol
+- Singlish
+
+### Tier 5: expert (581)
+
+- Lombard — Lumbaart
+- Piedmontese — Piemontèis
+- Ligurian — Genoese
+- Friulian — Furlan
+- Ladin
+- Aragonese
+- Asturian — Asturianu | Bable
+- Leonese
+- Mirandese
+- Provençal
+- Gascon
+- Aranese
+- Franco-Provençal — Arpitan
+- Walloon
+- Picard — Chtimi
+- Norman — Norman French
+- Jèrriais — Jersey French | Jersey Norman French
+- Guernésiais — Guernsey French | Dgèrnésiais
+- Aromanian — Vlach
+- Istro-Romanian
+- Megleno-Romanian
+- Arbëresh
+- Griko — Grecanico
+- Pontic Greek — Pontic | Romeyka
+- Cappadocian Greek
+- Alemannic — Alemannisch | Swabian
+- Alsatian
+- Limburgish — Limburgs
+- North Frisian
+- Saterland Frisian — Seeltersk
+- Plautdietsch — Mennonite Low German
+- Cimbrian
+- Mòcheno
+- Wymysorys — Vilamovian
+- Sorbian
+- Kashubian — Cassubian
+- Silesian
+- Rusyn — Ruthenian | Lemko
+- Latgalian
+- Livonian
+- Karelian
+- Veps — Vepsian
+- Võro — Voru
+- Kven
+- Meänkieli — Tornedalen Finnish
+- Inari Sami
+- Skolt Sami
+- Lule Sami
+- Southern Sami
+- Shelta — Gammon | Irish Traveller Cant | Traveller Cant
+- Angloromani
+- Karaim
+- Gagauz
+- Udmurt
+- Mari — Meadow Mari
+- Komi — Komi-Zyrian | Komi-Permyak
+- Erzya
+- Moksha
+- Ingush
+- Avar
+- Lezgian — Lezgi | Lezgin
+- Dargwa — Dargin
+- Lak
+- Kumyk
+- Nogai
+- Karachay-Balkar
+- Kabardian — East Circassian
+- Adyghe — West Circassian
+- Abkhaz — Abkhazian
+- Mingrelian — Megrelian
+- Svan
+- Laz
+- Udi
+- Kalmyk — Oirat
+- Buryat
+- Tuvan — Tuvinian | Tyvan
+- Altai — Altay
+- Khakas
+- Evenki
+- Even
+- Nenets
+- Khanty
+- Mansi
+- Chukchi
+- Koryak
+- Nivkh — Gilyak
+- Ket
+- Yukaghir
+- Itelmen
+- Selkup
+- Nganasan
+- Karakalpak
+- Dungan
+- Wakhi
+- Shughni
+- Kurmanji — Northern Kurdish
+- Sorani — Central Kurdish
+- Zaza — Zazaki
+- Gilaki
+- Mazandarani
+- Luri
+- Talysh
+- Domari
+- Turoyo — Surayt
+- Mandaic
+- Judeo-Arabic — Judaeo-Arabic
+- Levantine Arabic — Shami | Syrian Arabic | Lebanese Arabic | Palestinian Arabic | Lebanese | Levantine
+- Gulf Arabic — Khaleeji | Emirati Arabic | Kuwaiti Arabic | Qatari Arabic
+- Iraqi Arabic — Iraqi
+- Sudanese Arabic — Sudanese
+- Algerian Arabic — Algerian
+- Tunisian Arabic — Tounsi | Tunisian
+- Hassaniya
+- Tulu
+- Marwari
+- Awadhi
+- Dogri
+- Santali — Santhali
+- Manipuri — Meitei | Meiteilon
+- Mizo — Lushai
+- Khasi
+- Garo
+- Bodo
+- Kokborok — Tripuri
+- Lepcha
+- Sikkimese — Bhutia | Drenjongke
+- Newari — Nepal Bhasa | Newar
+- Tharu
+- Limbu
+- Sherpa
+- Tamang
+- Gurung
+- Magar
+- Hindko
+- Shina
+- Balti
+- Ladakhi
+- Burushaski
+- Khowar
+- Brahui
+- Gondi
+- Bhili — Bhil
+- Kurukh — Oraon
+- Ho
+- Mundari
+- Kodava — Coorgi
+- Badaga
+- Toda
+- Haryanvi
+- Garhwali
+- Kumaoni
+- Chhattisgarhi
+- Magahi
+- Chittagonian
+- Nagamese
+- Teochew — Teochiu | Chaozhou | Chiuchow
+- Gan
+- Xiang — Hunanese
+- Fuzhounese — Min Dong | Eastern Min
+- Hainanese
+- Taishanese — Toisanese
+- Zhuang
+- Yi — Nuosu
+- Bai
+- Naxi — Nakhi
+- Dong — Kam
+- Lisu
+- Lahu
+- Akha
+- Hani
+- Jingpo — Kachin | Jinghpaw
+- Wa
+- Qiang
+- Manchu
+- Xibe — Sibe
+- Ainu
+- Jeju — Jejueo
+- Amis
+- Atayal
+- Paiwan
+- Mon
+- Rakhine — Arakanese
+- Chin
+- Cham
+- Isan — Northeastern Thai
+- Northern Thai — Kham Mueang | Lanna
+- Khmu
+- Madurese
+- Minangkabau — Minang
+- Acehnese — Achinese
+- Batak
+- Buginese — Bugis
+- Iban
+- Kadazan — Kadazandusun
+- Banjar — Banjarese
+- Betawi
+- Hiligaynon — Ilonggo
+- Waray — Waray-Waray
+- Kapampangan — Pampango
+- Bikol — Bicolano | Bikolano | Bicol
+- Pangasinan
+- Chavacano — Chabacano
+- Tausug
+- Maranao
+- Maguindanao
+- Tigre
+- Fante — Fanti
+- Ga
+- Tshiluba — Luba-Kasai | Ciluba
+- Kirundi — Rundi
+- Sepedi — Northern Sotho | Pedi
+- Tsonga — Xitsonga | Shangaan
+- Venda — Tshivenda
+- Swati — siSwati | Swazi
+- Bemba — Chibemba
+- Luo — Dholuo
+- Kalenjin
+- Maasai — Maa | Masai
+- Kabyle — Taqbaylit
+- Tuareg — Tamasheq | Tamajaq
+- Tashelhit — Shilha | Tachelhit
+- Riffian — Tarifit
+- Siwi
+- Kanuri
+- Mandinka — Mandingo
+- Bambara — Bamanankan
+- Dyula — Dioula
+- Soninke
+- Serer
+- Jola — Diola
+- Mooré — Mossi
+- Dinka
+- Nuer
+- Shilluk
+- Bari
+- Zande — Azande
+- Nobiin — Nubian
+- Beja — Bedawi
+- Fur
+- Afar
+- Sidamo — Sidama
+- Wolaytta
+- Harari
+- Sango
+- Fon
+- Edo
+- Efik
+- Ibibio
+- Tiv
+- Ijaw — Izon
+- Urhobo
+- Nupe
+- Igala
+- Songhay — Songhai
+- Zarma — Djerma
+- Temne — Themne
+- Mende
+- Kpelle
+- Vai
+- Baoulé — Baule
+- Dagbani — Dagbanli
+- Herero — Otjiherero
+- Oshiwambo — Ovambo | Owambo | Kwanyama
+- Khoekhoe — Nama | Khoekhoegowab
+- Taa — !Xóõ
+- Juǀʼhoan — Ju'hoansi
+- Hadza — Hadzane
+- Sandawe
+- Iraqw
+- Turkana
+- Acholi — Acoli
+- Lango
+- Ateso — Teso
+- Lugbara
+- Runyankole — Runyankore | Nkore
+- Lusoga
+- Sukuma
+- Chaga — Chagga
+- Nyamwezi
+- Makonde
+- Makhuwa — Makua
+- Sena
+- Ndau
+- Tumbuka — Chitumbuka
+- Lozi — Silozi
+- Chitonga — Zambian Tonga
+- Umbundu
+- Kimbundu
+- Chokwe
+- Fang
+- Duala
+- Ewondo
+- Bassa
+- Comorian — Shikomori
+- Seychellois Creole — Seselwa
+- Réunion Creole
+- Cape Verdean Creole — Kriolu | Kabuverdianu
+- Guinea-Bissau Creole — Guinea-Bissau Kriol
+- Cameroonian Pidgin — Kamtok
+- Fanagalo — Fanakalo
+- Kituba — Munukutuba
+- Q'eqchi' — Kekchi
+- Kaqchikel — Cakchiquel
+- Mam
+- Tzeltal
+- Tzotzil
+- Otomi — Hñähñu
+- Mazahua
+- Totonac
+- Purépecha — Tarascan
+- Huichol — Wixárika
+- Tarahumara — Rarámuri
+- Yaqui
+- Mixe
+- Garifuna
+- Miskito
+- Kuna — Guna
+- Emberá
+- Wayuu — Wayuunaiki | Guajiro
+- Kichwa
+- Shuar
+- Ticuna — Tikuna
+- Yanomami — Yanomamö
+- Pirahã
+- Nheengatu
+- Kayapo
+- Xavante
+- Wichí
+- Rapa Nui
+- Dakota — Sioux
+- Oneida
+- Seneca
+- Cayuga
+- Chickasaw
+- Muscogee — Creek | Mvskoke
+- Zuni
+- Tohono O'odham — O'odham | Papago | Pima
+- Mi'kmaq — Mi'kmaw | Micmac
+- Innu — Montagnais
+- Dene — Chipewyan
+- Gwich'in
+- Haida
+- Tlingit
+- Lushootseed
+- Shoshone
+- Comanche
+- Kiowa
+- Cheyenne
+- Arapaho
+- Crow
+- Osage
+- Ho-Chunk — Winnebago
+- Menominee
+- Potawatomi
+- Passamaquoddy — Maliseet | Maliseet-Passamaquoddy
+- Wampanoag — Wôpanâak | Massachusett
+- Nez Perce — Niimiipuutímt
+- Halkomelem
+- Squamish
+- Kwakwala
+- Nuu-chah-nulth — Nootka
+- Michif
+- Chinook Jargon — Chinuk Wawa | Chinook Wawa
+- Tewa
+- Keres
+- Yurok
+- Karuk
+- Hupa
+- Washo
+- Paiute
+- Ute
+- Aleut
+- Gullah — Geechee
+- Louisiana Creole — Kouri-Vini
+- Louisiana French — Cajun French | Cajun
+- Antillean Creole — Kwéyòl | Martinican Creole | Guadeloupean Creole | Dominican Creole
+- Sranan Tongo — Sranan
+- Saramaccan
+- Guyanese Creole — Creolese
+- Belizean Creole — Belize Kriol
+- Bajan — Barbadian Creole
+- Trinidadian Creole
+- Hawaiian Pidgin — Hawaii Creole English
+- Marshallese
+- Palauan
+- Gilbertese — Kiribati | Kiribatese
+- Nauruan
+- Tuvaluan
+- Niuean
+- Rarotongan — Cook Islands Maori
+- Tokelauan
+- Marquesan
+- Pitkern — Pitcairnese | Norfuk
+- Hiri Motu
+- Pijin
+- Enga
+- Huli
+- Arrernte — Aranda | Arrarnta
+- Yolngu — Yolngu Matha
+- Tiwi
+- Murrinh-Patha
+- Kala Lagaw Ya
+- Meriam Mir
+- Yumplatok — Torres Strait Creole
+- Anindilyakwa
+- Burarra
+- Djambarrpuyngu
+- Gupapuyngu
+- Alyawarr
+- Kaurna
+- Wiradjuri
+- Noongar — Nyungar
+- Gamilaraay — Kamilaroi
+- Kunwinjku — Bininj Kunwok
+- Luritja
+- Warumungu
+- Ngaanyatjarra
+- Wik Mungkan
+- Irish Sign Language
+- New Zealand Sign Language — NZSL
+- French Sign Language — LSF
+- Quebec Sign Language — LSQ
+- German Sign Language — DGS
+- Japanese Sign Language
+- Chinese Sign Language
+- Indian Sign Language — Indo-Pakistani Sign Language
+- Nicaraguan Sign Language
+- Plains Indian Sign Language — Plains Sign Talk | Hand Talk
+- Al-Sayyid Bedouin Sign Language — ABSL
+- Kata Kolok
+- Algonquin — Algonkin | Anicinàbemowin
+- Nakota — Nakoda | Assiniboine | Stoney
+- Tiwa — Southern Tiwa | Taos | Picuris
+- Towa — Jemez
+- Vedda
+- Kogi
+- Toba — Qom | Toba Qom
+- Warao
+- Okanagan — Nsyilxcen | Colville-Okanagan
+- Bahamian Creole
+- Fala
+- Sama-Bajau — Bajau
+- Southern Thai — Pak Tai
+- Guugu Yimithirr — Guugu Yimidhirr
+- Sentinelese
+- Jarawa
+- Onge
+- Nihali
+- Kusunda
+- Yaghnobi
+- Mehri
+- Soqotri — Socotri
+- Jibbali — Shehri
+- Yemeni Arabic
+- Libyan Arabic
+- Hijazi Arabic
+- Najdi Arabic
+- Bakhtiari
+- Qashqai
+- Tat
+- Juhuri — Judeo-Tat | Mountain Jewish
+- Abaza
+- Tabasaran
+- Archi
+- Bats — Tsova-Tush
+- Dolgan
+- Nanai
+- Siberian Yupik
+- Kildin Sami
+- Luhya — Luyia
+- Kamba — Kikamba
+- Ekegusii — Kisii | Gusii
+- Kimeru — Meru
+- Lomwe
+- Susu
+- Lunda
+- Maninka — Malinke
+- Mazatec
+- Huastec — Wastek | Tének
+- Ch'ol
+- Tz'utujil
+- Bribri
+- Ngäbere — Guaymí
+- Waorani — Huaorani
+- Shipibo — Shipibo-Conibo
+- Asháninka
+- Tsimané
+- Kaingang
+- Hixkaryana
+- Mundurukú
+- Macushi
+- Lokono — Arawak
+- Kari'na — Kalina | Carib
+- Onondaga
+- Tuscarora
+- Mikasuki
+- Shawnee
+- Oji-Cree
+- Atikamekw
+- Omaha — Omaha-Ponca
+- Kickapoo
+- Meskwaki — Fox | Sauk
+- Hidatsa
+- Koasati
+- Havasupai — Hualapai
+- Mojave
+- Kumeyaay
+- Secwepemc — Shuswap
+- Tsimshian
+- Nisga'a
+- Gitxsan
+- Dakelh — Carrier
+- Tłı̨chǫ — Dogrib
+- Slavey
+- Koyukon
+- Dena'ina
+- Inuinnaqtun
+- Inuvialuktun
+- Alutiiq — Sugpiaq
+- Ndyuka
+- Palenquero
+- Forro
+- Kristang
+- Chuukese
+- Pohnpeian
+- Kosraean
+- Yapese
+- Wallisian
+- Tolai — Kuanua
+- Melpa
+- Fiji Hindi
+- Rotuman
+- Drehu
+- Yankunytjatjara
+- Anmatyerr
+- Walmajarri
+- Martu Wangka
+- Gurindji
+- Kuku Yalanji
+- Bundjalung
+- Pintupi
+- Brazilian Sign Language — Libras
+- South African Sign Language
+- Sercquiais
+- Emilian-Romagnol — Emilian | Romagnol
+- Extremaduran
+- Monégasque
+- Walser German
+- Gutnish
+- Samogitian
+- Caló
+- Sinti
+- Hutterite German — Hutterisch
+- Sasak
+- Makassarese
+- Toraja
+- Papuan Malay
+- Muong
+- Tày
+- Jin Chinese
+- Wenzhounese
+- Iu Mien — Mien | Yao
+- Salar
+- Bunun
+- Seediq — Truku
+- Miyako
+- Bundeli
+- Braj — Braj Bhasha
+- Lambadi — Banjara
+- Saurashtra
+- Kinaray-a
+- Ifugao
+- Hawrami — Hawramani
+- Chadian Arabic — Shuwa Arabic
+- Juba Arabic
+- Kinubi — Nubi Creole
+- Cypriot Arabic — Cypriot Maronite Arabic | Maronite Arabic
+- Bahrani Arabic
+- Omani Arabic
+- Palawa kani
+- Myaamia — Miami-Illinois
+
+### Tier 6: rare jackpots (3)
+
+- Tsakonian
+- Elfdalian — Övdalian | Älvdalska | Övdalsk
+- Rotokas
+
+## Refused on purpose (80)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Latin | Ecclesiastical Latin | Church Latin | Classical Latin | Vulgar Latin | Medieval Latin — "No one's mother tongue for well over a thousand years, so the deep counts it among the dead."
+- Sanskrit | Vedic Sanskrit | Vedic — "Chanted, studied and still broadcast, but nobody's everyday mother tongue for many centuries."
+- Ancient Greek | Classical Greek | Koine Greek | Koine | Attic Greek | Homeric Greek | Biblical Greek | Mycenaean Greek — "The ancient tongue is dead. Its modern descendant counts."
+- Ancient Hebrew | Biblical Hebrew | Classical Hebrew — "The ancient form is long dead. Plain Hebrew counts."
+- Old English | Anglo-Saxon | Middle English | Old Norse | Old French | Old Irish | Middle Irish | Old High German | Middle High German | Old Saxon | Middle French | Old Japanese | Middle Persian | Old Persian | Shakespearean English | Elizabethan English | Old Welsh — "An older stage of a living language, with no native speakers left."
+- Sumerian | Akkadian | Babylonian | Hittite | Etruscan | Phoenician | Gothic | Ancient Egyptian | Elamite | Ugaritic | Punic | Oscan | Umbrian | Luwian | Lycian | Lydian | Thracian | Dacian | Illyrian | Gaulish | Pictish | Cumbric | Celtiberian | Tocharian | Minoan | Hurrian | Sogdian | Scythian | Parthian | Prakrit | Proto-Indo-European | Ancient Macedonian | Moabite | Edomite | Nabataean | Hunnic | Frankish | Vandalic | Old Prussian | Polabian | Mozarabic | Phrygian | Langobardic | Lombardic | Crimean Gothic — "Dead for centuries, if not thousands of years."
+- Coptic | Church Slavonic | Old Church Slavonic | Classical Syriac | Avestan — "A church language now, and nobody's mother tongue for centuries."
+- Classical Arabic — "The Arabic of the Quran: recited, but nobody's mother tongue. Plain Arabic counts."
+- Classical Chinese | Literary Chinese | Old Chinese | Middle Chinese — "Read, not spoken, for many centuries. Plain Chinese counts."
+- Ottoman Turkish | Ottoman — "Gave way to modern Turkish in the 1920s. Plain Turkish counts."
+- Norn — "Died out in Orkney and Shetland in the 1700s or 1800s."
+- Dalmatian — "Its last speaker died in 1898. Now it's just a dog."
+- Ubykh — "Its last fluent speaker died in 1992."
+- Eyak — "Its last native speaker died in 2008."
+- Yahgan | Yaghan | Yámana — "Its last native speaker died in 2022."
+- Taíno — "Its last speakers died centuries ago, though hammock and hurricane live on in English."
+- Aztec — "A people, not a language. Their language is still spoken: give its name."
+- Inca | Incan — "A people, not a language. Their language is spoken by millions: give its name."
+- Viking | Norse — "A people, and their Old Norse is dead. Icelandic is its closest living kin."
+- Celtic | Slavic | Slavonic | Germanic | Bantu | Semitic | Polynesian | Indo-European | Dravidian | Uralic | Sino-Tibetan | Afroasiatic | Nordic | Scandinavian | Algonquian | Athabaskan | Iroquois | Iroquoian — "A family of languages. Name one of them."
+- Scottish — "Which one? Scotland has two languages of its own, besides English."
+- American | Australian | British | Canadian | New Zealander | Aussie — "A nationality, not a language. English is spoken there."
+- Mexican | Argentinian | Argentine | Colombian | Peruvian | Chilean | Cuban | Venezuelan | Hispanic | Latino | Latin American — "A nationality, not a language. Spanish is spoken there."
+- Brazilian — "A nationality. Brazilians speak Portuguese."
+- Austrian — "A nationality. Austrians speak German."
+- Dane — "A person from Denmark. The language is Danish."
+- Swiss — "Switzerland has four national languages. Pick one."
+- Belgian — "Belgium has three official languages. Pick one."
+- Indian | South Indian | North Indian — "India has hundreds of languages. Pick one."
+- Pakistani — "Pakistan has dozens of languages. Pick one."
+- Nigerian — "Nigeria has over 500 languages. Pick one."
+- African — "Africa has some 2,000 languages. Pick one."
+- Native American | American Indian | First Nations | Amerindian | Indigenous — "There are hundreds of them. Pick one."
+- Aboriginal | Aborigine | Aboriginal Australian | Indigenous Australian — "Australia has many First Nations languages. Pick one."
+- Iranian — "A nationality. Iranians mostly speak Persian."
+- Afghan — "A nationality. Afghanistan has two main languages. Pick one."
+- Czechoslovak | Czechoslovakian — "Two close cousins were spoken there. Name one."
+- Amish — "A people, not a language. Theirs is a form of German."
+- Jewish — "Which one? Jewish communities have spoken many languages."
+- Hindu | Muslim | Islamic | Sikh | Buddhist — "A religion, not a language."
+- Sign language | Signing — "Which one? There are hundreds."
+- Makaton — "Signs and symbols that support speech, not a language of its own."
+- Creole — "Which one? There are dozens."
+- Pidgin | Pidgin English — "Which one? There are dozens."
+- Bahasa — "It just means 'language'. Which one?"
+- Cockney | Scouse | Geordie | Brummie | Mancunian | Yorkshire | Glaswegian | Doric | Received Pronunciation | Estuary English | Strine | AAVE | Ebonics | African American Vernacular English — "A dialect, not a language of its own."
+- Spanglish | Franglais | Hinglish | Taglish | Denglisch — "A mix of two languages, not one of its own."
+- Pig Latin | Back slang | Rhyming slang | Cockney rhyming slang | Polari | Thieves' cant | Verlan | Leetspeak | Ubbi Dubbi — "Slang or a word game, played inside another language."
+- Silbo Gomero | Silbo | Whistled Spanish — "A way of whistling Spanish across the valleys of La Gomera. Not a language of its own."
+- Pirate | Pirate speak — "Arr. An accent, not a language."
+- Gibberish | Double Dutch | Gobbledygook | Mumbo jumbo — "Nonsense, however fluent."
+- Body language — "Says a lot, but it isn't a language."
+- Klingon | Elvish | Quenya | Sindarin | Dothraki | High Valyrian | Valyrian | Na'vi | Parseltongue | Newspeak | Nadsat | Simlish | Huttese | Minionese | Dovahzul | Black Speech | Gallifreyan | Kryptonian | Atlantean | Lapine | Mando'a | Tolkien's Elvish — "Invented for fiction. The deep wants a language people grow up speaking."
+- R'lyehian — "From H. P. Lovecraft's stories. Nobody speaks it, as far as anyone knows."
+- Ido | Volapük | Interlingua | Interlingue | Occidental | Lojban | Loglan | Toki Pona | Novial | Solresol | Láadan | Blissymbols | Lingua Franca Nova | Kotava | Ithkuil — "An invented language with no community of native speakers."
+- Python | Java | JavaScript | C++ | C# | HTML | SQL | Ruby | Rust | Swift | Kotlin | COBOL | Fortran | BASIC | Perl | PHP | Scratch | Binary | Machine code — "A programming language. The deep wants one that people speak."
+- Morse code | Morse | Braille | Semaphore — "A code, not a language."
+- Cyrillic | Hangul | Kanji | Hiragana | Katakana | Devanagari | Gurmukhi | Pinyin | Runes | Ogham | Hieroglyphics | Hieroglyphs | Cuneiform | Linear B | Linear A | Simplified Chinese | Traditional Chinese | Latin alphabet | Roman alphabet — "A way of writing, not a language."
+- Emoji | Emoticons — "Pictures, not a language. Not yet, anyway."
+- Lappish | Lapp — "An old outsiders' name that many of its speakers find offensive. Try theirs."
+- Eskimo — "Many find that name offensive. Try the name the people use themselves."
+- Gypsy | Gipsy — "Many Roma find that word offensive. Try the name they use."
+- Yola — "Once spoken in County Wexford, it died out in the 1800s."
+- Fingallian — "Once spoken just north of Dublin, it died out in the 1800s."
+- Beothuk — "Died with its last known speaker, Shanawdithit, in 1829."
+- Old Tupi | Tupinamba — "Old Tupi is long dead, though a descendant is still spoken on the Amazon."
+- Biblical Aramaic | Old Aramaic | Imperial Aramaic — "The ancient form is long dead, though its modern descendants live on."
+- Martha's Vineyard Sign Language — "Its last deaf signers died in the mid-1900s."
+- Hottentot — "An old colonial name, now considered offensive. Try the name its speakers use."
+- Bushman | Bushmen — "An outsiders' name many San people dislike. Name one of their languages."
+- Aklo — "Arthur Machen's invention, later borrowed by H. P. Lovecraft. Nobody speaks it, as far as anyone knows."
+- Signed English | Sign Supported English | Signing Exact English | Signed Exact English | Manually Coded English — "English put into signs word for word, not a sign language of its own."
+- Singaporean — "A nationality. Singapore has four official languages. Pick one."
+- Kenyan | Ghanaian | South African | Congolese | Ethiopian | Cameroonian | Tanzanian — "A nationality, and the country has dozens of languages. Pick one."
+- Bangladeshi — "A nationality. Most Bangladeshis speak Bengali."
+- Sri Lankan — "A nationality. Sri Lanka has two main languages. Pick one."
+- South Korean | North Korean — "A nationality. Both Koreas speak Korean."
+- Saudi | Emirati | Kuwaiti | Qatari — "A nationality. Arabic is spoken there."
+- Cypriot — "A nationality. Cypriots mostly speak Greek or Turkish."
+- Pole | Swede | Spaniard | Finn | Frenchman | Frenchwoman | Welshman | Welshwoman | Croat — "A person, not a language. Try the adjective."

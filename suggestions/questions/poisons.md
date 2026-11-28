@@ -1,0 +1,452 @@
+# Name a poison.
+
+Question id: `poisons` · category: science · source: `data/science.json`
+
+Rules: Any poison, toxin, venom or poison gas, natural or man-made. Poisonous plants and fungi count by name, such as hemlock, and venomous animals count as their venom. Everyday medicines don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (393 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Arsenic — Arsenic trioxide | White arsenic | As2O3 | Arsenous oxide | Arsenic poisoning | Inheritance powder | Poudre de succession
+- Cyanide — Potassium cyanide | Sodium cyanide | KCN | NaCN | Cyanide pill | Cyanide capsule | Cyanide poisoning
+- Strychnine — Strychnine poisoning
+- Hemlock — Poison hemlock | Conium | Conium maculatum | Hemlock poisoning
+- Deadly nightshade — Belladonna | Nightshade | Atropa belladonna | Dwale | Deadly nightshade poisoning
+- Ricin — Ricin poisoning
+- Carbon monoxide — CO | Carbon monoxide poisoning | Coal gas | Town gas
+- Mercury — Quicksilver | Mercury poisoning | Mercury vapour | Mercury vapor
+- Lead — Lead paint | Lead poisoning
+- Rat poison — Rodenticide | Rat bait
+- Snake venom — Snake | Snakebite | Snake poison
+
+### Tier 2: common (30)
+
+- Polonium — Polonium-210 | Po-210 | Polonium poisoning
+- Thallium — Thallium poisoning | Thallium sulfate | Thallium sulphate
+- Sarin — Sarin gas | GB | Sarin poisoning
+- VX — VX nerve agent | VX gas | VX poisoning
+- Novichok — Novichok agent | A-234 | Novichok poisoning | A-232 | A-230
+- Mustard gas — Sulfur mustard | Sulphur mustard | Yperite | Mustard agent | Mustard gas poisoning
+- Chlorine — Chlorine gas | Chlorine poisoning
+- Hydrogen cyanide — Prussic acid | Hydrocyanic acid | HCN | Zyklon B | Hydrogen cyanide poisoning
+- Botulinum toxin — Botulinum | Botox | Botulism | Botulin | Botulism toxin | Botulinum neurotoxin | Botulinum toxin poisoning
+- Tetrodotoxin — TTX | Fugu | Fugu poison | Pufferfish | Pufferfish poison | Blowfish | Blue-ringed octopus | Tetrodotoxin poisoning | Rough-skinned newt | Newt | Taricha
+- Curare — Curare poisoning
+- Digitalis — Digitalin | Digitalis poisoning
+- Foxglove — Digitalis purpurea | Foxglove poisoning
+- Wolfsbane — Aconite | Monkshood | Aconitum | Queen of poisons | Devil's helmet | Wolfsbane poisoning
+- Nicotine — Nicotine poisoning
+- Oleander — Nerium oleander | Rose laurel | Oleander poisoning
+- Death cap — Death cap mushroom | Amanita phalloides | Death cap poisoning
+- Mandrake — Mandragora | Mandrake root | Mandrake poisoning
+- Atropine — Atropine poisoning
+- Bleach — Sodium hypochlorite | Chlorine bleach | Bleach poisoning
+- Ethylene glycol — Antifreeze | Ethylene glycol poisoning | Glycol
+- DDT — Dichlorodiphenyltrichloroethane | DDT poisoning
+- Weedkiller — Herbicide
+- Insecticide — Bug spray | Fly spray
+- Warfarin — Warfarin poisoning
+- Poison ivy — Toxicodendron radicans | Poison ivy poisoning
+- Scorpion venom — Scorpion | Scorpion sting | Deathstalker | Deathstalker scorpion | Bark scorpion | Arizona bark scorpion | Fat-tailed scorpion | Indian red scorpion
+- Spider venom — Spider | Spider bite | Tarantula
+- Bee venom — Bee | Bee sting | Apitoxin | Honeybee venom | Honey bee
+- Pesticide
+
+### Tier 3: known to fans (53)
+
+- Phosgene — Phosgene poisoning
+- Lewisite — Lewisite poisoning
+- Tabun — GA | Tabun poisoning
+- Soman — GD | Soman poisoning
+- Hydrogen sulfide — Hydrogen sulphide | H2S | Hydrogen sulfide poisoning
+- Methanol — Wood alcohol | Methyl alcohol | Methanol poisoning
+- Paraquat — Paraquat poisoning
+- Agent Orange — Agent Orange poisoning
+- Dioxin — TCDD | Dioxins | Doxin | Dioxin poisoning
+- Formaldehyde — Formalin | Formaldehyde poisoning
+- Chloroform — Chloroform poisoning
+- White phosphorus — Phosphorus | White phosphorus poisoning
+- Cadmium — Cadium | Cadmium poisoning
+- Antimony — Antimony poisoning
+- Plutonium — Plutonium poisoning
+- Fentanyl — Fentanyl poisoning
+- Ethanol — Alcohol | Ethyl alcohol | Ethanol poisoning
+- Aconitine — Aconitine poisoning
+- Coniine — Coniine poisoning
+- Digoxin — Digoxin poisoning
+- Digitoxin — Digitoxin poisoning
+- Hyoscine — Scopolamine | Devil's breath | Hyoscine poisoning
+- Solanine — Green potato | Green potatoes | Solanine poisoning | Potato leaves | Potato plant
+- Colchicine — Colchicine poisoning
+- Amygdalin — Laetrile | Vitamin B17 | Apple seeds | Apple pips | Amygdalin poisoning | Cherry pits | Cherry stones | Peach pits | Peach stones | Plum stones | Fruit stones
+- Urushiol — Urushiol poisoning
+- Ergot — Ergot fungus | Claviceps purpurea | Ergot poisoning
+- Aflatoxin — Aflatoxin poisoning
+- Amatoxin — Amanitin | Alpha-amanitin | Amatoxin poisoning
+- Abrin — Abrin poisoning
+- Batrachotoxin — Batracotoxin | Poison dart frog | Poison dart frog poison | Dart frog | Poison frog | Golden poison frog | Pitohui | Hooded pitohui | Batrachotoxin poisoning
+- Saxitoxin — STX | Paralytic shellfish poison | Saxitoxin poisoning
+- Tetanus toxin — Tetanospasmin | Tetanus | Tetanus toxin poisoning
+- Anthrax toxin — Anthrax | Anthrax toxin poisoning
+- Fly agaric — Amanita muscaria | Fly amanita | Fly agaric poisoning
+- Destroying angel — Amanita virosa | Amanita bisporigera | Amanita ocreata | Destroying angel poisoning
+- Yew — Yew tree | Taxus | English yew | Yew berries | Yew poisoning | Taxus baccata
+- Castor bean — Castor oil plant | Castor plant | Ricinus communis | Castor bean poisoning
+- Water hemlock — Cowbane | Cicuta | Water hemlock poisoning
+- Henbane — Hyoscyamus niger | Stinking nightshade | Henbane poisoning
+- Datura — Jimsonweed | Thorn apple | Devil's trumpet | Datura stramonium | Jamestown weed | Datura poisoning
+- Lily of the valley — Convallaria | Lily of the valley poisoning
+- Laburnum — Golden chain tree | Golden rain | Laburnum poisoning
+- Poison oak — Poison oak poisoning
+- Tobacco — Tobacco plant | Nicotiana | Tobacco poisoning
+- Cobra venom — Cobra | King cobra | King cobra venom | Spitting cobra | Egyptian cobra | Asp | Indian cobra
+- Black mamba venom — Black mamba | Mamba | Mamba venom | Green mamba
+- Rattlesnake venom — Rattlesnake | Rattler | Diamondback | Western diamondback
+- Black widow venom — Black widow | Black widow spider | Black widow bite
+- Wasp venom — Wasp | Wasp sting | Hornet | Hornet venom | Asian giant hornet | Murder hornet | Northern giant hornet
+- Jellyfish venom — Jellyfish | Jellyfish sting
+- Box jellyfish venom — Box jellyfish | Sea wasp | Irukandji | Irukandji jellyfish | Chironex
+- Stonefish venom — Stonefish
+
+### Tier 4: obscure (113)
+
+- Ammonia — Ammonia poisoning
+- Arsine — Arsine poisoning
+- Phosphine — Phosphine poisoning
+- Beryllium — Beryllium poisoning
+- Barium — Barium poisoning
+- Uranium — Uranium poisoning
+- Radium — Radium poisoning
+- Hexavalent chromium — Chromium-6 | Chromium VI | Hexavalent chromium poisoning
+- Fluorine — Fluorine poisoning
+- Dimethylmercury — Dimethylmercury poisoning
+- Methylmercury — Methylmercury poisoning
+- Tetraethyl lead — Leaded petrol | Leaded gasoline | TEL | Tetraethyl lead poisoning
+- Scheele's green — Copper arsenite | Scheele's green poisoning
+- Paris green — Emerald green | Copper acetoarsenite | Paris green poisoning
+- Benzene — Benzene poisoning
+- Carbon tetrachloride — Carbon tetrachloride poisoning
+- Diethylene glycol — Diethylene glycol poisoning
+- Caustic soda — Lye | Sodium hydroxide | Drain cleaner | Caustic soda poisoning | Oven cleaner
+- Hydrofluoric acid — Hydrogen fluoride | Hydrofluoric acid poisoning
+- Sodium azide — Sodium azide poisoning
+- Cyclosarin — GF | Cyclosarin poisoning
+- Chloropicrin — Chloropicrin poisoning
+- Cyanogen chloride — Cyanogen chloride poisoning
+- Tear gas — CS gas | CN gas | Tear gas poisoning
+- Glyphosate — Roundup | Glyphosate poisoning
+- Parathion — Parathion poisoning
+- Malathion — Malathion poisoning
+- Rotenone — Rotenone poisoning
+- Brodifacoum — Brodifacoum poisoning
+- Zinc phosphide — Zinc phosphide poisoning
+- Aluminium phosphide — Aluminum phosphide | Phostoxin | Aluminium phosphide poisoning
+- Sodium fluoroacetate — 1080 | Compound 1080 | Fluoroacetate | Sodium fluoroacetate poisoning
+- Metaldehyde — Slug pellets | Metaldehyde poisoning
+- Diphtheria toxin — Diphtheria | Diphtheria toxin poisoning
+- Cholera toxin — Cholera | Cholera toxin poisoning
+- Shiga toxin — Shiga toxin poisoning
+- Carfentanil — Carfentanil poisoning
+- Taxine — Taxin | Taxine poisoning
+- Hyoscyamine — Hyoscyamine poisoning
+- Oleandrin — Oleandrin poisoning
+- Cicutoxin — Cicutoxin poisoning
+- Muscarine — Muscarine poisoning
+- Muscimol — Muscimol poisoning
+- Ibotenic acid — Ibotenic acid poisoning
+- Phalloidin — Phalloidin poisoning
+- Orellanine — Orellanine poisoning
+- Ergotamine — Ergotamine poisoning
+- Grayanotoxin — Andromedotoxin | Grayanotoxin poisoning
+- Physostigmine — Eserine | Physostigmine poisoning
+- Tubocurarine — Tubocurarine poisoning
+- Ouabain — Ouabain poisoning
+- Picrotoxin — Picrotoxin poisoning
+- Brucine — Brucine poisoning
+- Cantharidin — Spanish fly | Blister beetle | Cantharidin poisoning
+- Bufotoxin — Toad venom | Cane toad | Toad poison | Toad | Bufotoxin poisoning
+- Ciguatoxin — Ciguatera | Ciguatoxin poisoning
+- Domoic acid — Amnesic shellfish poison | Domoic acid poisoning
+- Palytoxin — Palytoxin poisoning
+- Conotoxin — Cone snail | Cone snail venom | Cone shell | Conotoxin poisoning
+- Melittin — Melittin poisoning
+- Latrotoxin — Alpha-latrotoxin | Latrotoxin poisoning
+- Bungarotoxin — Alpha-bungarotoxin | Bungarotoxin poisoning
+- Panther cap — Amanita pantherina | Panther cap poisoning
+- Deadly webcap — Cortinarius rubellus | Deadly webcap poisoning
+- False morel — Gyromitra esculenta | Brain mushroom | False morel poisoning
+- Rosary pea — Jequirity bean | Abrus precatorius | Crab's eye | Precatory bean | Rosary pea poisoning | Jequirity
+- Hemlock water dropwort — Water dropwort | Dead man's fingers | Oenanthe crocata | Hemlock water dropwort poisoning
+- Angel's trumpet — Brugmansia | Angel's trumpet poisoning
+- Daffodil — Narcissus | Daffodil bulb | Daffodil poisoning
+- Rhubarb leaves — Rhubarb | Rhubarb leaf | Rhubarb leaves poisoning
+- Rhododendron — Azalea | Rhododendron poisoning
+- Mistletoe — Mistletoe poisoning
+- Poison sumac — Poison sumac poisoning
+- Strychnine tree — Nux vomica | Strychnos nux-vomica | Poison nut | Strychnine tree poisoning
+- Ackee — Akee | Unripe ackee | Ackee poisoning
+- Cassava — Manioc | Bitter cassava | Cassava poisoning
+- Manchineel — Manchineel tree | Beach apple | Little apple of death | Manzanilla de la muerte | Hippomane mancinella | Manchineel poisoning
+- Gympie-gympie — Stinging tree | Dendrocnide moroides | Gympie-gympie poisoning
+- Giant hogweed — Hogweed | Heracleum mantegazzianum | Giant hogweed poisoning
+- Hellebore — Christmas rose | Helleborus | Lenten rose | Black hellebore | Hellebore poisoning
+- White snakeroot — Snakeroot | Ageratina altissima | White snakeroot poisoning
+- Autumn crocus — Meadow saffron | Colchicum | Autumn crocus poisoning
+- Bitter almond — Bitter almonds | Bitter almond poisoning
+- Ragwort — Common ragwort | Tansy ragwort | Senecio jacobaea | Ragwort poisoning
+- Taipan venom — Taipan | Inland taipan | Fierce snake | Coastal taipan
+- Viper venom — Viper | Russell's viper | Saw-scaled viper | Gaboon viper | Pit viper | Puff adder
+- Adder venom — Adder | Common adder | European adder | Vipera berus
+- Krait venom — Krait | Common krait | Banded krait
+- Sea snake venom — Sea snake
+- Redback venom — Redback | Redback spider
+- Funnel-web venom — Funnel-web spider | Funnel-web | Sydney funnel-web | Atracotoxin
+- Brown recluse venom — Brown recluse | Recluse spider | Violin spider
+- Stingray venom — Stingray
+- Hydrochloric acid — Muriatic acid | Spirit of salt | Spirits of salt | Brick acid | Hydrochloric acid poisoning
+- Sulfuric acid — Sulphuric acid | Battery acid | Oil of vitriol | Vitriol | Sulfuric acid poisoning
+- Pepper spray — Capsaicin | OC spray | Mace | Pepper spray poisoning
+- Morphine — Diamorphine | Heroin | Morphine poisoning
+- Opium — Laudanum | Opium poppy | Poppy | Papaver somniferum | Opium poisoning
+- Lilies — Lily | Easter lily | Tiger lily | Lilium | Lilies poisoning
+- Holly — Holly berries | Ilex aquifolium | Holly poisoning
+- Bluebell — Bluebells | Common bluebell | Hyacinthoides non-scripta | Bluebell poisoning
+- Cherry laurel — Laurel | Common laurel | Prunus laurocerasus | Cherry laurel poisoning
+- Nutmeg — Myristicin | Nutmeg poisoning
+- Oxalic acid — Oxalic acid poisoning
+- Theobromine — Chocolate | Dark chocolate | Cocoa | Theobromine poisoning
+- Xylitol — Xylitol poisoning
+- Magic mushrooms — Liberty cap | Psilocybin | Psilocybin mushrooms | Psilocybe | Magic mushrooms poisoning
+- Petrol — Gasoline | Petrol poisoning
+- Kerosene — Paraffin | Paraffin oil | Lamp oil | Kerosene poisoning
+- Turpentine — Turps | Turpentine poisoning
+- Methylated spirits — Meths | Methylated spirit | Denatured alcohol | Methylated spirits poisoning
+- Mothballs — Naphthalene | Paradichlorobenzene | Mothballs poisoning
+- Ant venom — Ant | Ants | Ant sting | Fire ant | Fire ants | Bullet ant | Solenopsin | Poneratoxin
+
+### Tier 5: expert (183)
+
+- Osmium tetroxide — Osmium tetroxide poisoning
+- Nickel carbonyl — Nickel carbonyl poisoning
+- Hydrazine — Hydrazine poisoning
+- Acrolein — Acrolein poisoning
+- Acrylamide — Acrylamide poisoning
+- Nitrobenzene — Nitrobenzene poisoning
+- Phenol — Carbolic acid | Phenol poisoning
+- Vinyl chloride — Vinyl chloride poisoning
+- Polychlorinated biphenyls — PCBs | PCB | Polychlorinated biphenyls poisoning
+- PFAS — Forever chemicals | PFOA | PFOS | PFAS poisoning
+- Mercuric chloride — Corrosive sublimate | Mercury chloride | Mercuric chloride poisoning
+- Copper sulfate — Copper sulphate | Blue vitriol | Copper sulfate poisoning
+- Sodium nitrite — Sodium nitrite poisoning
+- Boric acid — Boric acid poisoning
+- Chlorine trifluoride — Chlorine trifluoride poisoning
+- Nitrogen dioxide — Nitrogen dioxide poisoning
+- Ozone — Ozone poisoning
+- Sulfur dioxide — Sulphur dioxide | Sulfur dioxide poisoning
+- Carbon dioxide — Carbon dioxide poisoning
+- Chloramine — Chloramine poisoning | Chloramine gas | Chloramines | Bleach and ammonia
+- Ethylene oxide — Ethylene oxide poisoning
+- Methyl isocyanate — Methyl isocyanate poisoning
+- Stibine — Stibine poisoning
+- Radon — Radon poisoning
+- Lead acetate — Sugar of lead | Lead acetate poisoning
+- White lead — Lead carbonate | Ceruse | Venetian ceruse | White lead poisoning
+- Isopropyl alcohol — Isopropanol | Rubbing alcohol | Isopropyl alcohol poisoning
+- Diphosgene — Diphosgene poisoning
+- VR — Russian VX | VR poisoning
+- Nitrogen mustard — Nitrogen mustard poisoning
+- BZ — Agent BZ | Quinuclidinyl benzilate | BZ poisoning
+- Adamsite — Adamsite poisoning
+- Diquat — Diquat poisoning
+- Atrazine — Atrazine poisoning
+- 2,4-D — 2,4-D poisoning
+- Dieldrin — Dieldrin poisoning
+- Aldrin — Aldrin poisoning
+- Lindane — Lindane poisoning
+- Chlordane — Chlordane poisoning
+- Endrin — Endrin poisoning
+- Heptachlor — Heptachlor poisoning
+- Mirex — Mirex poisoning
+- Toxaphene — Toxaphene poisoning
+- Chlorpyrifos — Chlorpyrifos poisoning
+- Diazinon — Diazinon poisoning
+- Dichlorvos — Dichlorvos poisoning
+- Aldicarb — Temik | Aldicarb poisoning
+- Carbofuran — Carbofuran poisoning
+- Carbaryl — Carbaryl poisoning
+- Methomyl — Methomyl poisoning
+- Imidacloprid — Imidacloprid poisoning
+- Pyrethrin — Pyrethrum | Pyrethrin poisoning
+- Permethrin — Permethrin poisoning
+- Bromadiolone — Bromadiolone poisoning
+- Difenacoum — Difenacoum poisoning
+- Bromethalin — Bromethalin poisoning
+- Red squill — Red squill poisoning
+- Chloralose — Alphachloralose | Chloralose poisoning
+- Tetramine — TETS | Tetramine poisoning | Tetamine
+- Succinylcholine — Suxamethonium | Succinylcholine poisoning
+- Chloral hydrate — Mickey Finn | Knockout drops | Chloral hydrate poisoning
+- Caffeine — Caffeine poisoning
+- Pertussis toxin — Pertussis toxin poisoning
+- Staphylococcal enterotoxin B — SEB | Staphylococcal enterotoxin B poisoning
+- Microcystin — Microcystin poisoning
+- Anatoxin-a — Very Fast Death Factor | Anatoxin-a poisoning
+- Ochratoxin — Ochratoxin poisoning
+- Patulin — Patulin poisoning
+- T-2 toxin — Yellow rain | T-2 toxin poisoning
+- Fumonisin — Fumonisin poisoning
+- Zearalenone — Zearalenone poisoning
+- Vomitoxin — Deoxynivalenol | Vomitoxin poisoning
+- Gyromitrin — Gyromitrin poisoning
+- Coprine — Coprine poisoning | Common ink cap | Inky cap | Tippler's bane | Coprinopsis atramentaria
+- Oenanthotoxin — Oenanthotoxin poisoning
+- Cytisine — Cytisine poisoning
+- Lycorine — Lycorine poisoning
+- Convallatoxin — Convallatoxin poisoning
+- Veratridine — Veratridine poisoning
+- Protoanemonin — Protoanemonin poisoning
+- Gelsemine — Gelsemine poisoning
+- Strophanthin — Strophanthin poisoning
+- Thevetin — Thevetin poisoning
+- Cerberin — Cerberin poisoning
+- Tremetol — Tremetol poisoning
+- Hypoglycin — Hypoglycin poisoning
+- Linamarin — Linamarin poisoning
+- Tutin — Tutin poisoning
+- Phytohaemagglutinin — Phytohemagglutinin | Raw kidney beans | Kidney beans | Phytohaemagglutinin poisoning
+- Bufotenin — Bufotenin poisoning
+- Okadaic acid — Diarrhetic shellfish poison | Okadaic acid poisoning
+- Brevetoxin — Red tide | Brevetoxin poisoning
+- Maitotoxin — Maitotoxin poisoning
+- Apamin — Apamin poisoning
+- Dendrotoxin — Dendrotoxin poisoning
+- Taipoxin — Taipoxin poisoning
+- Crotoxin — Crotoxin poisoning
+- Cobratoxin — Alpha-cobratoxin | Cobratoxin poisoning
+- Chlorotoxin — Chlorotoxin poisoning
+- Funeral bell — Galerina marginata | Autumn skullcap | Deadly galerina | Funeral bell poisoning
+- Fool's webcap — Cortinarius orellanus | Fool's webcap poisoning
+- Fool's funnel — Clitocybe rivulosa | Fool's funnel poisoning
+- Poison fire coral — Podostroma cornu-damae | Trichoderma cornu-damae | Poison fire coral poisoning
+- Woody nightshade — Bittersweet | Bittersweet nightshade | Solanum dulcamara | Woody nightshade poisoning
+- Black nightshade — Solanum nigrum | Black nightshade poisoning
+- Lords-and-ladies — Cuckoo pint | Arum maculatum | Wild arum | Lords-and-ladies poisoning
+- Larkspur — Delphinium | Larkspur poisoning
+- White hellebore — Veratrum | Veratrum album | False hellebore | White hellebore poisoning
+- Apricot kernels — Apricot kernel | Apricot seeds | Apricot kernels poisoning
+- Calabar bean — Physostigma venenosum | Ordeal bean | Calabar bean poisoning
+- Strophanthus — Strophanthus poisoning
+- Gelsemium — Yellow jessamine | Heartbreak grass | Gelsemium elegans | Gelsemium poisoning
+- Yellow oleander — Thevetia | Lucky nut | Yellow oleander poisoning
+- Pong-pong tree — Cerbera odollam | Pong-pong | Othalanga | Pong-pong tree poisoning | Suicide tree
+- Buttercup — Ranunculus | Buttercup poisoning
+- Lantana — Lantana poisoning
+- Wisteria — Wisteria poisoning
+- Bloodroot — Bloodroot poisoning
+- Pokeweed — Pokeberry | Pokeweed poisoning
+- Jerusalem cherry — Jerusalem cherry poisoning
+- Dieffenbachia — Dumb cane | Dieffenbachia poisoning
+- Sago palm — Cycad | Sago palm poisoning
+- Tutu — Tutu poisoning
+- Bracken — Bracken poisoning
+- Spurge — Euphorbia | Sun spurge | Spurge poisoning
+- Horse chestnut — Conker | Conkers | Horse chestnut poisoning
+- Boomslang venom — Boomslang
+- Tiger snake venom — Tiger snake
+- Brown snake venom — Brown snake | Eastern brown snake
+- Death adder venom — Death adder
+- Fer-de-lance venom — Fer-de-lance
+- Bushmaster venom — Bushmaster
+- Copperhead venom — Copperhead
+- Cottonmouth venom — Cottonmouth | Water moccasin
+- Coral snake venom — Coral snake
+- Wandering spider venom — Brazilian wandering spider | Wandering spider | Banana spider | Phoneutria
+- Portuguese man o' war venom — Portuguese man o' war | Man o' war | Bluebottle
+- Lionfish venom — Lionfish
+- Weever fish venom — Weever fish | Weever
+- Platypus venom — Platypus
+- Gila monster venom — Gila monster | Beaded lizard | Mexican beaded lizard
+- Komodo dragon venom — Komodo dragon
+- Centipede venom — Centipede
+- Solenodon venom — Solenodon
+- Nitric acid — Aqua fortis | Nitric acid poisoning
+- Grapes — Raisins | Sultanas | Currants | Grapes poisoning
+- White spirit — Mineral spirits | Paint thinner | White spirit poisoning
+- Camphor — Camphor poisoning | Camphorated oil
+- Laundry pods — Laundry capsules | Detergent pods | Liquitabs | Tide pods | Laundry pods poisoning
+- Butane — Lighter gas | Lighter refill | Butane poisoning
+- Toluene — Toluene poisoning
+- Caesium-137 — Cesium-137 | Caesium | Cesium | Radiocaesium | Caesium-137 poisoning
+- Strontium-90 — Radiostrontium | Strontium-90 poisoning
+- Ivy — English ivy | Common ivy | Hedera helix | Ivy poisoning
+- Privet — Privet berries | Ligustrum | Privet poisoning
+- Snowdrop — Snowdrops | Galanthus | Snowdrop poisoning
+- Hyacinth — Hyacinth bulbs | Hyacinth poisoning
+- Tulip — Tulips | Tulip bulbs | Tulip poisoning
+- Elder — Elderberry | Elderberries | Raw elderberries | Sambucus | Elder poisoning
+- Thujone — Wormwood | Thujone poisoning
+- Tansy — Tansy poisoning
+- Pennyroyal — Pennyroyal oil | Pulegone | Pennyroyal poisoning
+- Fool's parsley — Aethusa cynapium | Fool's parsley poisoning
+- Dog's mercury — Mercurialis perennis | Dog's mercury poisoning
+- Black bryony — Black bryony poisoning
+- Spindle — Spindle tree | Euonymus | Spindle poisoning
+- Mezereon — Daphne | Daphne mezereum | Mezereon poisoning
+- Lupin — Lupins | Lupin beans | Bitter lupin | Lupin poisoning
+- Sulphur tuft — Sulfur tuft | Hypholoma fasciculare | Sulphur tuft poisoning
+- Yellow stainer — Agaricus xanthodermus | Yellow stainer poisoning
+- Devil's bolete — Satan's bolete | Rubroboletus satanas | Devil's bolete poisoning
+- Brown roll-rim — Paxillus involutus | Poison pax | Brown roll-rim poisoning
+- Jack-o'-lantern mushroom — Jack-o'-lantern | Omphalotus | Jack-o'-lantern mushroom poisoning
+- Deadly dapperling — Lepiota | Deadly dapperling poisoning
+- Angel's wings — Pleurocybella porrigens | Angel's wings poisoning
+- Shrew venom — Shrew | Short-tailed shrew | Water shrew
+- Caterpillar venom — Puss caterpillar | Lonomia | Oak processionary caterpillar
+- Sea urchin venom — Sea urchin | Flower urchin
+- Samandarin — Fire salamander | Salamander | Salamander poison | Samandarin poisoning
+- Aqua Tofana — Acqua Tofana | Aqua Toffana | Aqua Tofana poisoning
+- Cantarella — La Cantarella | Cantarella poisoning
+- Calomel — Mercurous chloride | Calomel poisoning
+- Cinnabar — Vermilion | Mercury sulfide | Mercuric sulfide | Cinnabar poisoning
+
+### Tier 6: rare jackpots (3)
+
+- Mad honey — Deli bal | Rhododendron honey | Mad honey poisoning
+- Slow loris venom — Slow loris | Loris
+- Upas tree — Upas | Antiaris toxicaria | Antiaris | Upas tree poisoning
+
+## Refused on purpose (25)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Poison | Poisons — "Which one? Name it."
+- Toxin | Toxins | Neurotoxin | Haemotoxin | Hemotoxin | Cytotoxin | Cardiotoxin | Mycotoxin | Phytotoxin | Endotoxin | Exotoxin | Enterotoxin | Alkaloid | Heavy metal | Nerve agent | Nerve gas | Blister agent | Choking agent | Blood agent | Chemical weapon | Organophosphate | Neonicotinoid | Organochlorine — "A kind of poison, not a particular one. Name one."
+- Venom | Venoms — "Whose venom? Name the animal or its toxin."
+- Poison gas | Gas | Toxic gas | Poisonous gas — "Which gas? Name it."
+- Poisonous mushroom | Toadstool | Poisonous fungus | Mushroom | Poisonous plant | Poisonous berries | Berries — "Which one? Name it."
+- Paracetamol | Acetaminophen | Tylenol | Calpol | Panadol | Aspirin | Ibuprofen | Insulin — "A medicine, safe at the right dose, though an overdose is dangerous."
+- Water | H2O — "Paracelsus said the dose makes the poison, but water still isn't counted as one."
+- Asbestos — "Deadly to breathe in, but its fibres do the harm; it isn't a poison."
+- Radiation | Radioactivity | Nuclear radiation | Gamma rays — "Harmful energy, not a substance. Name a radioactive poison instead."
+- Bacteria | Bacterium | Virus | Germ | Germs | Salmonella | E. coli | Listeria — "Germs that cause infection, not a poison. Some make toxins: name the toxin."
+- Food poisoning — "An illness, not a poison. Name what causes it."
+- Napalm — "It burns rather than poisons."
+- Poinsettia — "Its reputation is a myth: it is only mildly irritating."
+- Antidote | Antivenom | Antivenin | Mithridate | Theriac — "The cure for a poison, not a poison."
+- Iocane powder | Iocane — "Fiction: the poison in The Princess Bride."
+- Nightlock | Nightlock berries — "Fiction: the berries from The Hunger Games."
+- Basilisk venom | Basilisk — "Fiction: from Harry Potter."
+- Kryptonite — "Fiction, and only deadly to Superman."
+- Poisoned apple | Poison apple | Apple — "Only Snow White's was poisoned. Apples themselves are safe to eat."
+- Ketamine — "A medicine, safe at the right dose, though an overdose is dangerous."
+- Absinthe — "A drink once blamed for madness. It was later cleared, and is sold again."
+- Stinging nettle | Nettle | Nettles | Stinging nettles — "It stings, but it won't poison you. Its young leaves make a fair soup."
+- Chromium — "Most chromium is harmless. Only one form of it is a poison, and you'd have to name it."
+- Amanita — "Which amanita? Some kill and some are eaten. Name one."
+- Natural gas | Propane | Mains gas — "It can suffocate or explode, but it isn't poisonous. Old coal gas was, for its carbon monoxide."

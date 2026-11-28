@@ -1,0 +1,417 @@
+# Name a geometric shape.
+
+Question id: `shapes` · category: science · source: `data/science.json`
+
+Rules: Any geometric shape, flat or solid, curve or polyhedron, in any number of dimensions. Polygons named for their number of sides count, and so do N-gon forms such as 7-gon.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (375 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Circle
+- Square — Regular quadrilateral
+- Rectangle — Oblong
+- Oval — Oval shape
+- Cube — Hexahedron | Regular hexahedron | D6
+- Sphere — Ball | Globe | Orb
+- Pyramid
+- Cylinder — Circular cylinder | Right circular cylinder
+- Cone — Circular cone | Right circular cone
+- Star — Star shape | Four-pointed star
+- Heart — Love heart | Heart shape
+- Triangle — Trigon | 3-gon
+- Pentagon — 5-gon
+- Hexagon — 6-gon
+- Octagon — 8-gon
+
+### Tier 2: common (30)
+
+- Rhombus — Diamond | Rhomb
+- Ellipse
+- Parallelogram — Rhomboid
+- Trapezium — Trapezoid
+- Kite — Deltoid
+- Semicircle — Half circle | Half moon
+- Crescent — Crescent moon
+- Polygon — Regular polygon | Irregular polygon
+- Cuboid — Rectangular prism | Rectangular box | Box | Rectangular cuboid | Rectangular solid
+- Prism
+- Tetrahedron — Triangular pyramid | D4 | Triangle-based pyramid | Triangular-based pyramid
+- Octahedron — D8 | Square bipyramid | Square dipyramid | Triangular antiprism
+- Dodecahedron — D12
+- Icosahedron — D20
+- Torus — Doughnut | Donut | Ring torus | Horn torus | Spindle torus
+- Hemisphere
+- Triangular prism
+- Pentagram — Pentangle | Five-pointed star
+- Spiral
+- Cross — Plus | Plus sign
+- Equilateral triangle — Equilateral | Equiangular triangle
+- Isosceles triangle — Isosceles
+- Scalene triangle — Scalene
+- Right-angled triangle — Right triangle | Right angle triangle
+- Polyhedron — Polyhedra
+- Quadrilateral — Quadrangle | Tetragon | 4-gon
+- Heptagon — Septagon | 7-gon
+- Nonagon — Enneagon | 9-gon
+- Decagon — 10-gon
+- Dodecagon — 12-gon
+
+### Tier 3: known to fans (49)
+
+- Parabola
+- Hyperbola
+- Helix
+- Lemniscate — Lemniscate of Bernoulli | Infinity symbol | Infinity sign | Figure of eight | Figure eight
+- Cardioid
+- Annulus — Ring
+- Sector
+- Lozenge
+- Arrow
+- Chevron
+- Hexagram — Star of David | Six-pointed star
+- Frustum — Truncated cone | Truncated pyramid | Conical frustum
+- Parallelepiped
+- Ellipsoid
+- Spheroid — Oblate spheroid | Prolate spheroid
+- Ovoid — Egg shape | Egg
+- Pentagonal prism
+- Hexagonal prism
+- Square pyramid — Square-based pyramid
+- Möbius strip — Möbius band | Moebius strip | Mobius loop
+- Klein bottle
+- Tesseract — Hypercube | 8-cell | Octachoron
+- Truncated icosahedron — Buckyball | Football shape | Soccer ball | Soccer ball shape
+- Rhombic dodecahedron
+- Cuboctahedron
+- Icosidodecahedron
+- Squircle
+- Reuleaux triangle
+- Quadrant — Quarter circle
+- Teardrop — Raindrop | Droplet
+- Obtuse triangle — Obtuse-angled triangle
+- Acute triangle — Acute-angled triangle
+- Koch snowflake — Koch curve | Von Koch snowflake
+- Sierpinski triangle — Sierpinski gasket
+- Cycloid — Brachistochrone | Tautochrone
+- Catenary
+- Logarithmic spiral
+- Golden spiral — Fibonacci spiral
+- Hendecagon — Undecagon | Endecagon | 11-gon
+- Tridecagon — Triskaidecagon | 13-gon
+- Icosagon — 20-gon
+- Chiliagon — 1000-gon
+- Wedge
+- Line — Straight line | Line segment | Ray
+- Platonic solid — Platonic solids
+- Mandelbrot set — Mandelbrot
+- Arc — Circular arc
+- Disc — Disk
+- Fractal
+
+### Tier 4: obscure (75)
+
+- Deltoid curve — Tricuspoid
+- Astroid
+- Nephroid
+- Limaçon
+- Rose curve — Rhodonea
+- Archimedean spiral
+- Fermat's spiral
+- Hypocycloid
+- Epicycloid
+- Superellipse — Lamé curve
+- Stadium — Discorectangle | Obround | Pill shape | Pill
+- Capsule — Spherocylinder
+- Lune
+- Vesica piscis — Mandorla
+- Segment
+- Trefoil — Shamrock
+- Quatrefoil
+- Dart — Arrowhead | Concave kite
+- Isosceles trapezium — Isosceles trapezoid
+- Star polygon
+- Heptagram — Seven-pointed star
+- Octagram — Eight-pointed star | Star of Lakshmi
+- Paraboloid
+- Hyperboloid
+- Pentagonal pyramid
+- Hexagonal pyramid
+- Octagonal prism
+- Bipyramid — Dipyramid
+- Antiprism
+- Rhombohedron
+- Truncated tetrahedron
+- Truncated cube
+- Truncated octahedron
+- Rhombicuboctahedron — Small rhombicuboctahedron
+- Snub cube
+- Truncated dodecahedron
+- Rhombicosidodecahedron — Small rhombicosidodecahedron
+- Rhombic triacontahedron
+- Small stellated dodecahedron
+- Great dodecahedron
+- Great stellated dodecahedron
+- Great icosahedron
+- Stellated octahedron — Stella octangula | Star tetrahedron | Merkaba
+- Geodesic sphere — Geodesic dome
+- Hypersphere — Glome | 3-sphere
+- Simplex
+- Polytope
+- Apeirogon
+- Decahedron
+- Polyomino
+- Tetromino
+- Pentomino
+- Sinusoid — Sine wave | Sine curve
+- Penrose triangle — Impossible triangle | Tribar
+- Golden rectangle
+- Tetradecagon — Tetrakaidecagon | 14-gon
+- Pentadecagon — Pentakaidecagon | 15-gon
+- Hexadecagon — Hexakaidecagon | 16-gon
+- Heptadecagon — Heptakaidecagon | 17-gon
+- Octadecagon — Octakaidecagon | 18-gon
+- Enneadecagon — Enneakaidecagon | Nonadecagon | 19-gon
+- Triacontagon — 30-gon
+- Hectogon — Hecatontagon | 100-gon
+- Myriagon — 10000-gon
+- Archimedean solid — Archimedean solids
+- Sierpinski carpet
+- Menger sponge
+- Square prism — Square cuboid
+- Rectangular pyramid — Rectangle-based pyramid | Rectangular-based pyramid
+- Domino
+- Bell curve — Gaussian curve | Normal curve
+- Lens — Lens shape
+- Rounded rectangle — Rounded square
+- Double helix
+- Conic section — Conic
+
+### Tier 5: expert (203)
+
+- Cissoid
+- Conchoid
+- Strophoid
+- Folium of Descartes
+- Cornu spiral — Euler spiral | Clothoid
+- Trochoid
+- Hypotrochoid
+- Epitrochoid
+- Dragon curve
+- Hilbert curve
+- Peano curve
+- Lissajous curve
+- Bézier curve
+- Arbelos
+- Salinon
+- Gnomon
+- Enneagram — Nine-pointed star
+- Decagram — Ten-pointed star
+- Dodecagram — Twelve-pointed star
+- Hexomino
+- Polyiamond
+- Googolgon
+- Truncated cuboctahedron — Great rhombicuboctahedron
+- Snub dodecahedron
+- Truncated icosidodecahedron — Great rhombicosidodecahedron
+- Triakis tetrahedron
+- Triakis octahedron
+- Tetrakis hexahedron
+- Deltoidal icositetrahedron
+- Disdyakis dodecahedron
+- Pentagonal icositetrahedron
+- Triakis icosahedron
+- Pentakis dodecahedron
+- Deltoidal hexecontahedron
+- Disdyakis triacontahedron
+- Pentagonal hexecontahedron
+- Pentahedron
+- Heptahedron
+- Enneahedron
+- Triangular bipyramid
+- Pentagonal bipyramid
+- Square antiprism
+- Trapezohedron — Hexagonal trapezohedron
+- Pentagonal trapezohedron — D10
+- Deltahedron
+- Zonohedron
+- Cupola — Triangular cupola | Square cupola | Pentagonal cupola
+- Rotunda — Pentagonal rotunda
+- Goldberg polyhedron
+- Szilassi polyhedron
+- Császár polyhedron
+- Hyperbolic paraboloid — Saddle | Saddle surface
+- Catenoid
+- Helicoid
+- Pseudosphere — Tractroid | Tractricoid
+- Oloid
+- Sphericon
+- Steinmetz solid — Bicylinder | Tricylinder
+- Spherical cap
+- 5-cell — Pentachoron | Pentatope | 4-simplex
+- 16-cell — Hexadecachoron
+- 24-cell — Icositetrachoron
+- 120-cell — Hecatonicosachoron
+- 600-cell — Hexacosichoron
+- Duocylinder
+- Cyclic quadrilateral
+- Golden triangle
+- Latin cross
+- Greek cross
+- Monogon — 1-gon
+- Digon — 2-gon
+- Tetracontagon — 40-gon
+- Pentacontagon — 50-gon
+- Hexacontagon — 60-gon
+- Heptacontagon — 70-gon
+- Octacontagon — 80-gon
+- Enneacontagon — 90-gon
+- Megagon — 1000000-gon
+- Icosihenagon — Icosikaihenagon | 21-gon
+- Icosidigon — Icosikaidigon | 22-gon
+- Icositrigon — Icosikaitrigon | 23-gon
+- Icositetragon — Icosikaitetragon | 24-gon
+- Icosipentagon — Icosikaipentagon | 25-gon
+- Icosihexagon — Icosikaihexagon | 26-gon
+- Icosiheptagon — Icosikaiheptagon | 27-gon
+- Icosioctagon — Icosikaioctagon | 28-gon
+- Icosienneagon — Icosikaienneagon | 29-gon
+- Triacontahenagon — Triacontakaihenagon | 31-gon
+- Triacontadigon — Triacontakaidigon | 32-gon
+- Triacontatrigon — Triacontakaitrigon | 33-gon
+- Triacontatetragon — Triacontakaitetragon | 34-gon
+- Triacontapentagon — Triacontakaipentagon | 35-gon
+- Triacontahexagon — Triacontakaihexagon | 36-gon
+- Triacontaheptagon — Triacontakaiheptagon | 37-gon
+- Triacontaoctagon — Triacontakaioctagon | 38-gon
+- Triacontaenneagon — Triacontakaienneagon | 39-gon
+- Tetracontahenagon — Tetracontakaihenagon | 41-gon
+- Tetracontadigon — Tetracontakaidigon | 42-gon
+- Tetracontatrigon — Tetracontakaitrigon | 43-gon
+- Tetracontatetragon — Tetracontakaitetragon | 44-gon
+- Tetracontapentagon — Tetracontakaipentagon | 45-gon
+- Tetracontahexagon — Tetracontakaihexagon | 46-gon
+- Tetracontaheptagon — Tetracontakaiheptagon | 47-gon
+- Tetracontaoctagon — Tetracontakaioctagon | 48-gon
+- Tetracontaenneagon — Tetracontakaienneagon | 49-gon
+- Pentacontahenagon — Pentacontakaihenagon | 51-gon
+- Pentacontadigon — Pentacontakaidigon | 52-gon
+- Pentacontatrigon — Pentacontakaitrigon | 53-gon
+- Pentacontatetragon — Pentacontakaitetragon | 54-gon
+- Pentacontapentagon — Pentacontakaipentagon | 55-gon
+- Pentacontahexagon — Pentacontakaihexagon | 56-gon
+- Pentacontaheptagon — Pentacontakaiheptagon | 57-gon
+- Pentacontaoctagon — Pentacontakaioctagon | 58-gon
+- Pentacontaenneagon — Pentacontakaienneagon | 59-gon
+- Hexacontahenagon — Hexacontakaihenagon | 61-gon
+- Hexacontadigon — Hexacontakaidigon | 62-gon
+- Hexacontatrigon — Hexacontakaitrigon | 63-gon
+- Hexacontatetragon — Hexacontakaitetragon | 64-gon
+- Hexacontapentagon — Hexacontakaipentagon | 65-gon
+- Hexacontahexagon — Hexacontakaihexagon | 66-gon
+- Hexacontaheptagon — Hexacontakaiheptagon | 67-gon
+- Hexacontaoctagon — Hexacontakaioctagon | 68-gon
+- Hexacontaenneagon — Hexacontakaienneagon | 69-gon
+- Heptacontahenagon — Heptacontakaihenagon | 71-gon
+- Heptacontadigon — Heptacontakaidigon | 72-gon
+- Heptacontatrigon — Heptacontakaitrigon | 73-gon
+- Heptacontatetragon — Heptacontakaitetragon | 74-gon
+- Heptacontapentagon — Heptacontakaipentagon | 75-gon
+- Heptacontahexagon — Heptacontakaihexagon | 76-gon
+- Heptacontaheptagon — Heptacontakaiheptagon | 77-gon
+- Heptacontaoctagon — Heptacontakaioctagon | 78-gon
+- Heptacontaenneagon — Heptacontakaienneagon | 79-gon
+- Octacontahenagon — Octacontakaihenagon | 81-gon
+- Octacontadigon — Octacontakaidigon | 82-gon
+- Octacontatrigon — Octacontakaitrigon | 83-gon
+- Octacontatetragon — Octacontakaitetragon | 84-gon
+- Octacontapentagon — Octacontakaipentagon | 85-gon
+- Octacontahexagon — Octacontakaihexagon | 86-gon
+- Octacontaheptagon — Octacontakaiheptagon | 87-gon
+- Octacontaoctagon — Octacontakaioctagon | 88-gon
+- Octacontaenneagon — Octacontakaienneagon | 89-gon
+- Enneacontahenagon — Enneacontakaihenagon | 91-gon
+- Enneacontadigon — Enneacontakaidigon | 92-gon
+- Enneacontatrigon — Enneacontakaitrigon | 93-gon
+- Enneacontatetragon — Enneacontakaitetragon | 94-gon
+- Enneacontapentagon — Enneacontakaipentagon | 95-gon
+- Enneacontahexagon — Enneacontakaihexagon | 96-gon
+- Enneacontaheptagon — Enneacontakaiheptagon | 97-gon
+- Enneacontaoctagon — Enneacontakaioctagon | 98-gon
+- Enneacontaenneagon — Enneacontakaienneagon | 99-gon
+- Johnson solid — Johnson solids
+- Catalan solid — Catalan solids
+- Kepler–Poinsot polyhedron — Kepler-Poinsot solid
+- Hendecahedron
+- Tetradecahedron
+- Icositetrahedron
+- Triacontahedron
+- Hexecontahedron
+- Heptagonal prism
+- Decagonal prism
+- Heptagonal pyramid
+- Octagonal pyramid
+- Hexagonal bipyramid
+- Pentagonal antiprism
+- Hexagonal antiprism
+- Julia set
+- Cantor set — Cantor dust
+- Apollonian gasket
+- Barnsley fern
+- Tromino — Triomino
+- Polycube
+- 65537-gon
+- 257-gon
+- Tractrix
+- Cassini oval — Oval of Cassini
+- Involute — Involute of a circle
+- Lituus
+- Butterfly curve
+- Trefoil knot
+- Boy's surface
+- Roman surface
+- Cross-cap
+- Real projective plane — Projective plane
+- Clifford torus
+- Penteract — 5-cube
+- Cross-polytope — Orthoplex
+- Duoprism
+- Double torus — Genus-2 surface
+- Bicone — Double cone | Dicone
+- Spherical triangle
+- Cinquefoil
+- Snub disphenoid
+- Disphenoid
+- Pseudorhombicuboctahedron — Elongated square gyrobicupola
+- Monkey saddle
+- Impossible trident — Blivet | Devil's tuning fork | Devil's fork | Poiuyt
+- Necker cube
+- Impossible cube
+- Reuleaux tetrahedron
+- Superegg
+- Kepler triangle
+- Triquetra
+- Borromean rings
+
+### Tier 6: rare jackpots (3)
+
+- Gömböc
+- Gyrobifastigium
+- Witch of Agnesi — Agnesi curve | Versiera
+
+## Refused on purpose (8)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Shape | Geometric shape | 2D shape | 3D shape | Figure — "Which shape? Name one."
+- Point | Dot | Vertex | Edge | Angle | Right angle | Chord | Radius | Diameter | Face — "Part of a shape, not a shape."
+- Curve — "Which curve? Name one."
+- Solid | Three-dimensional shape — "Which solid? Name one."
+- Tangram — "A puzzle made of seven shapes. Name one of the pieces."
+- Pi | Phi | Golden ratio — "A number, not a shape."
+- Stellated dodecahedron — "Which one? There is a small one and a great one."
+- N-gon — "Which N? Name the number of sides."

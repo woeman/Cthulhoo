@@ -1,0 +1,381 @@
+# Name a song by the Beatles.
+
+Question id: `beatles-songs` · category: culture · source: `data/culture.json`
+
+Rules: Any song the Beatles recorded as a band, released or not, including covers, B-sides and 2023's 'Now and Then'. Solo songs don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (319 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (19)
+
+- Hey Jude — Hey Jules
+- Let It Be
+- Yesterday — Scrambled Eggs
+- Yellow Submarine — We All Live in a Yellow Submarine
+- Help! — Help Me If You Can
+- Here Comes the Sun
+- Come Together — Come Together Right Now | Here Come Old Flat Top
+- Twist and Shout — Shake It Up Baby
+- I Want to Hold Your Hand — I Wanna Hold Your Hand | Hold Your Hand
+- All You Need Is Love — Love Is All You Need | All You Need
+- Love Me Do — Love Love Me Do
+- She Loves You — She Loves You Yeah Yeah Yeah | Yeah Yeah Yeah
+- Eleanor Rigby — All the Lonely People | Elenor Rigby | Eleanor Rigsby
+- Strawberry Fields Forever — Strawberry Fields
+- Penny Lane
+- Lucy in the Sky with Diamonds — Lucy in the Sky | Lucy
+- A Hard Day's Night — It's Been a Hard Day's Night
+- Can't Buy Me Love — Money Can't Buy Me Love | Can't Buy Love
+- Blackbird — Blackbird Singing
+
+### Tier 2: common (47)
+
+- Something — Something in the Way She Moves
+- Get Back — Get Back to Where You Once Belonged
+- Revolution — You Say You Want a Revolution
+- Paperback Writer
+- Day Tripper
+- We Can Work It Out — Work It Out
+- Ticket to Ride
+- Michelle — Michelle Ma Belle
+- In My Life
+- Norwegian Wood (This Bird Has Flown) — Norwegian Wood | This Bird Has Flown
+- With a Little Help from My Friends — A Little Help from My Friends | With a Little Help | I Get By with a Little Help | Little Help | Bad Finger Boogie | With a Little Help from Your Friends
+- Ob-La-Di, Ob-La-Da — Ob La Di
+- While My Guitar Gently Weeps — While My Guitar | My Guitar Gently Weeps | Guitar Gently Weeps | Gently Weeps
+- The Long and Winding Road
+- Drive My Car — Baby You Can Drive My Car
+- Nowhere Man
+- Back in the U.S.S.R. — Back in the Soviet Union
+- Helter Skelter
+- I Am the Walrus — I'm the Walrus | The Walrus | Goo Goo G'joob
+- Magical Mystery Tour
+- Please Please Me
+- From Me to You
+- Lady Madonna
+- All My Loving
+- Here, There and Everywhere
+- When I'm Sixty-Four
+- A Day in the Life — I Read the News Today | I Read the News Today Oh Boy
+- Across the Universe — Nothing's Gonna Change My World | Jai Guru Deva | Jai Guru Deva Om
+- Eight Days a Week
+- I Feel Fine
+- Hello, Goodbye
+- Sgt. Pepper's Lonely Hearts Club Band — Sgt Pepper | Sergeant Pepper | Sergeant Pepper's Lonely Hearts Club Band | Lonely Hearts Club Band | Sgt. Pepper's Lonely Hearts Club Band (Reprise) | Sgt Pepper Reprise
+- Octopus's Garden — Octopus Garden | Octopuses Garden | In an Octopus's Garden
+- Golden Slumbers
+- Don't Let Me Down
+- I Saw Her Standing There — She Was Just Seventeen
+- Taxman
+- Got to Get You into My Life — Gotta Get You into My Life
+- Good Day Sunshine
+- Dear Prudence
+- The Fool on the Hill
+- Maxwell's Silver Hammer — Silver Hammer | Bang Bang Maxwell's Silver Hammer
+- Oh! Darling
+- Rocky Raccoon
+- Now and Then
+- Free as a Bird
+- Her Majesty
+
+### Tier 3: known to fans (75)
+
+- Tomorrow Never Knows — The Void
+- Rain
+- And I Love Her
+- If I Fell
+- Things We Said Today
+- I'll Follow the Sun
+- No Reply
+- I'm a Loser
+- Rock and Roll Music
+- You've Got to Hide Your Love Away
+- I've Just Seen a Face — Auntie Gin's Theme
+- I'm Down
+- Girl
+- Run for Your Life
+- I'm Only Sleeping
+- She Said She Said
+- And Your Bird Can Sing
+- For No One
+- Doctor Robert — Dr. Robert
+- Getting Better
+- Fixing a Hole
+- She's Leaving Home
+- Being for the Benefit of Mr. Kite! — Mr. Kite | For the Benefit of Mr. Kite | Mister Kite | Being for the Benefit of Mister Kite
+- Within You Without You
+- Lovely Rita
+- Good Morning Good Morning — Good Morning
+- Your Mother Should Know
+- Baby, You're a Rich Man
+- Glass Onion
+- Happiness Is a Warm Gun — Warm Gun
+- Martha My Dear
+- I'm So Tired
+- Piggies
+- Julia
+- Birthday — You Say It's Your Birthday
+- Sexy Sadie
+- Revolution 9 — Revolution Number 9 | Revolution No. 9 | Number 9 | Number Nine | Revolution #9
+- Honey Pie
+- Good Night
+- Hey Bulldog
+- All Together Now
+- Because
+- You Never Give Me Your Money
+- Sun King — Here Comes the Sun King
+- Mean Mr. Mustard — Mean Mister Mustard
+- Polythene Pam — Polyethylene Pam
+- She Came In Through the Bathroom Window — Bathroom Window
+- Carry That Weight
+- The End
+- I Want You (She's So Heavy) — I Want You | She's So Heavy
+- Two of Us — On Our Way Home
+- I Me Mine
+- I've Got a Feeling
+- One After 909 — One After Nine-O-Nine | One After Nine Oh Nine
+- The Ballad of John and Yoko
+- P.S. I Love You
+- Do You Want to Know a Secret
+- Money (That's What I Want) — Money
+- Please Mr. Postman — Please Mister Postman | Mr. Postman
+- Roll Over Beethoven
+- Till There Was You
+- I Should Have Known Better
+- Real Love
+- Mother Nature's Son
+- Why Don't We Do It in the Road?
+- Long Tall Sally
+- I Will
+- Yer Blues
+- Dig a Pony
+- For You Blue
+- The Continuing Story of Bungalow Bill — Bungalow Bill
+- Only a Northern Song
+- It's All Too Much
+- Savoy Truffle
+- Cry Baby Cry
+
+### Tier 4: obscure (72)
+
+- Tell Me Why
+- Any Time at All
+- You Can't Do That
+- I'll Be Back
+- Words of Love
+- Kansas City — Kansas City/Hey-Hey-Hey-Hey! | Hey-Hey-Hey-Hey
+- Dizzy Miss Lizzy
+- Think for Yourself
+- Wait
+- What Goes On
+- You Won't See Me
+- I'm Looking Through You
+- The Word
+- If I Needed Someone
+- Yes It Is
+- This Boy
+- I'll Get You
+- Thank You Girl
+- She's a Woman
+- Love You To — Granny Smith
+- I Want to Tell You
+- Flying
+- Blue Jay Way
+- Wild Honey Pie
+- Long, Long, Long
+- Don't Pass Me By
+- Dig It — Can You Dig It
+- Maggie Mae
+- Old Brown Shoe
+- The Inner Light
+- Hold Me Tight
+- It Won't Be Long
+- All I've Got to Do
+- Don't Bother Me
+- Little Child
+- You Really Got a Hold on Me
+- I Wanna Be Your Man
+- Devil in Her Heart
+- Not a Second Time
+- Misery
+- Anna (Go to Him) — Anna
+- Chains
+- Boys
+- Ask Me Why
+- Baby It's You
+- A Taste of Honey
+- There's a Place
+- I'm Happy Just to Dance with You
+- I'll Cry Instead
+- When I Get Home
+- Baby's in Black
+- Mr. Moonlight — Mister Moonlight
+- Honey Don't
+- Every Little Thing
+- I Don't Want to Spoil the Party
+- What You're Doing
+- Everybody's Trying to Be My Baby
+- The Night Before
+- You're Going to Lose That Girl
+- It's Only Love
+- You Like Me Too Much
+- Tell Me What You See
+- I Need You
+- Another Girl
+- Act Naturally
+- I Call Your Name
+- Slow Down
+- Matchbox
+- Bad Boy
+- Revolution 1 — Revolution One | Revolution No. 1
+- Everybody's Got Something to Hide Except Me and My Monkey — Everybody's Got Something to Hide | Me and My Monkey
+- You Know My Name (Look Up the Number) — You Know My Name
+
+### Tier 5: expert (104)
+
+- Komm, gib mir deine Hand
+- Sie liebt dich
+- Christmas Time (Is Here Again) — Christmas Time
+- My Bonnie
+- Ain't She Sweet
+- Like Dreamers Do
+- Hello Little Girl
+- Love of the Loved
+- How Do You Do It?
+- Bésame Mucho
+- Leave My Kitten Alone
+- That Means a Lot
+- If You've Got Trouble
+- 12-Bar Original — Twelve-Bar Original
+- Not Guilty
+- What's the New Mary Jane
+- You'll Be Mine
+- Cayenne
+- Searchin' — Searching
+- Three Cool Cats
+- The Sheik of Araby
+- Lend Me Your Comb
+- Shout
+- Teddy Boy
+- Mailman, Bring Me No More Blues — Mailman Blues
+- Child of Nature
+- All Things Must Pass
+- That'll Be the Day
+- In Spite of All the Danger
+- Hallelujah, I Love Her So
+- You Know What to Do
+- Moonlight Bay
+- Junk
+- Come and Get It
+- Step Inside Love
+- Los Paranoias
+- Blue Suede Shoes
+- Rip It Up
+- Shake, Rattle and Roll
+- Baby I Don't Care
+- Can You Take Me Back?
+- Johnny B. Goode
+- Memphis, Tennessee — Memphis
+- Lucille
+- Some Other Guy
+- Carol
+- Soldier of Love
+- The Hippy Hippy Shake
+- Sure to Fall
+- Crying, Waiting, Hoping
+- To Know Her Is to Love Her
+- Clarabella
+- I Got a Woman
+- Too Much Monkey Business
+- Sweet Little Sixteen
+- That's All Right (Mama) — That's All Right
+- I'll Be on My Way
+- A Shot of Rhythm and Blues
+- Glad All Over
+- Nothin' Shakin'
+- Young Blood
+- I Just Don't Understand
+- So How Come (No One Loves Me) — So How Come
+- I Forgot to Remember to Forget
+- Lonesome Tears in My Eyes
+- Keep Your Hands Off My Baby
+- Ooh! My Soul
+- Don't Ever Change
+- The Honeymoon Song
+- I Got to Find My Baby
+- I'm Gonna Sit Right Down and Cry (Over You) — I'm Gonna Sit Right Down and Cry
+- Rocker
+- Save the Last Dance for Me
+- Beautiful Dreamer
+- I'm Talking About You — Talking About You
+- Talkin' 'Bout You — Talking 'Bout You
+- Dream Baby (How Long Must I Dream) — Dream Baby
+- Your Feet's Too Big
+- Reminiscing
+- Little Queenie
+- Falling in Love Again (Can't Help It) — Falling in Love Again
+- Red Sails in the Sunset
+- Sheila
+- I Remember You
+- Where Have You Been (All My Life) — Where Have You Been
+- Shimmy Shake
+- Be-Bop-A-Lula
+- Take Good Care of My Baby
+- September in the Rain
+- The Saints — When the Saints Go Marching In | When the Saints | The Saints Go Marching In
+- Sweet Georgia Brown
+- Nobody's Child
+- Why (Can't You Love Me Again)
+- Take Out Some Insurance on Me, Baby — If You Love Me, Baby | Take Out Some Insurance
+- A Picture of You
+- Gimme Some Truth — Give Me Some Truth
+- The Walk
+- Fancy My Chances with You
+- Wake Up Little Susie
+- Sour Milk Sea
+- Circles
+- The Long One
+- Jessie's Dream
+- From Us to You
+
+### Tier 6: rare jackpots (2)
+
+- Carnival of Light
+- Cry for a Shadow
+
+## Refused on purpose (28)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Imagine — "John Lennon's, from 1971, after the band had split."
+- Give Peace a Chance — "Credited to the Plastic Ono Band in 1969, not the Beatles."
+- Instant Karma! — "John and the Plastic Ono Band, 1970."
+- Jealous Guy — "A John solo song, though it began life as a Beatles-era demo with other words."
+- Happy Xmas (War Is Over) | Happy Xmas | War Is Over | Happy Christmas — "John and Yoko, 1971."
+- (Just Like) Starting Over | Starting Over — "John's last single in his lifetime, from 1980."
+- Woman — "John, 1980, from Double Fantasy."
+- Working Class Hero — "John, 1970, from his first solo album."
+- Live and Let Die — "Paul McCartney and Wings, for the 1973 Bond film."
+- Band on the Run | Jet — "Paul McCartney and Wings, 1973."
+- Mull of Kintyre — "Wings, 1977. It outsold every Beatles single in Britain."
+- Maybe I'm Amazed — "From Paul's first solo album, 1970."
+- Silly Love Songs — "Wings, 1976."
+- Ebony and Ivory — "Paul and Stevie Wonder, 1982."
+- My Sweet Lord | What Is Life — "George's solo hits, after the split."
+- Got My Mind Set on You — "George, 1987. A cover, and a solo hit."
+- Photograph | It Don't Come Easy — "Ringo's solo hits, both with help from George."
+- Hey Joe — "Jimi Hendrix. You want Jude."
+- Wonderwall — "Oasis. The influence is audible, but no."
+- Bohemian Rhapsody — "Queen."
+- Satisfaction | (I Can't Get No) Satisfaction | Paint It Black | Sympathy for the Devil — "The Rolling Stones."
+- Abbey Road | Rubber Soul | Revolver | Beatles for Sale | With the Beatles | White Album | The Beatles | Past Masters | Anthology | Meet the Beatles — "An album, not a song. Name one of its tracks."
+- Beautiful Boy | Beautiful Boy (Darling Boy) | Watching the Wheels | Mind Games | Power to the People | Nobody Told Me | Whatever Gets You Thru the Night | #9 Dream | Stand by Me — "John Lennon on his own, after the band."
+- Wonderful Christmastime | Say Say Say | Coming Up | Uncle Albert/Admiral Halsey | Uncle Albert | Let 'Em In | With a Little Luck | My Love | No More Lonely Nights | Hope of Deliverance | Pipes of Peace | Hi, Hi, Hi | Junior's Farm | Listen to What the Man Said | Helen Wheels | Venus and Mars | Goodnight Tonight | The Girl Is Mine | Temporary Secretary — "Paul McCartney after the Beatles, solo or with Wings."
+- All Those Years Ago | Give Me Love (Give Me Peace on Earth) | Give Me Love | Crackerbox Palace | Blow Away | When We Was Fab | Handle with Care | End of the Line — "George Harrison after the Beatles, solo or with the Traveling Wilburys."
+- Back Off Boogaloo | You're Sixteen | Oh My My | No No Song — "Ringo on his own, after the band."
+- Mrs. Robinson | Good Vibrations | Mr. Tambourine Man | Happy Together | Daydream Believer | I'm a Believer | House of the Rising Sun | My Generation | Waterloo Sunset | You Really Got Me — "A sixties classic, but not one of theirs."
+- A World Without Love — "Written by Paul, but a hit for Peter and Gordon in 1964."

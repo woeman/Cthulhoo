@@ -1,0 +1,370 @@
+# Name a weapon from before the age of gunpowder.
+
+Question id: `weapons` · category: misc · source: `data/misc.json`
+
+Rules: Any weapon worked by muscle, string or counterweight, from any land, even a sword still worn after guns arrived. Firearms, cannon, bombs and bayonets don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (321 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Sword — Swords | Sword and shield
+- Bow — Bow and arrow | Bow and arrows | Arrow | Arrows | Bows and arrows | Warbow | Compound bow
+- Spear — Spears | Throwing spear | Stabbing spear
+- Axe — Ax | Battle-axe | Battle ax | War axe | Hand axe | Stone axe | Axes | Great axe | Executioner's axe | Headsman's axe | Broad axe
+- Crossbow — Quarrel | Crossbow bolt | Bolt | Crossbow bolts
+- Longbow — English longbow | Welsh longbow
+- Catapult — Catapults | Torsion catapult | Siege catapult
+- Trebuchet — Trebucket | Counterweight trebuchet | Warwolf
+- Dagger
+- Mace — Flanged mace | Spiked mace
+- Club — War club | Bludgeon | Clubs
+- Katana — Katan | Samurai sword | Japanese sword
+- Knife — Knives | Bowie knife | Hunting knife | Combat knife | Fighting knife | Flint knife | Stone knife | Obsidian knife
+
+### Tier 2: common (25)
+
+- Lance — Jousting lance | Couched lance
+- Pike
+- Halberd — Halbert | Halberds
+- Javelin
+- Trident
+- Flail — Ball and chain | Military flail | Mace and chain
+- Morning star — Morgenstern | Holy water sprinkler | Spiked club
+- War hammer — Hammer | Battle hammer | Horseman's hammer
+- Battering ram — Ram | Siege ram
+- Ballista
+- Sling — Shepherd's sling
+- Scimitar
+- Rapier
+- Sabre — Saber | Cavalry sabre | Cavalry saber
+- Cutlass — Cutlas | Pirate sword
+- Broadsword
+- Longsword
+- Claymore — Claidheamh mòr
+- Gladius — Roman sword
+- Tomahawk — Tommyhawk
+- Boomerang — Kylie | Throwing stick | Hunting boomerang
+- Shuriken — Throwing star | Ninja star | Throwing stars
+- Nunchaku — Nunchucks | Nunchuks | Nunchuku | Numchucks | Nunchucku
+- Quarterstaff — Staff | Staves | Fighting staff
+- Slingshot
+
+### Tier 3: known to fans (53)
+
+- Greatsword — Two-handed sword
+- Zweihänder — Doppelhänder
+- Bastard sword — Hand-and-a-half sword
+- Short sword
+- Falchion
+- Arming sword — Knightly sword | Knight's sword
+- Machete
+- Glaive
+- Scythe
+- Hatchet
+- Throwing axe — Throwing hatchet
+- Throwing knife
+- Dirk
+- Stiletto
+- Kukri — Khukuri | Khukri | Gurkha knife
+- Kris — Keris | Kriss
+- Katar — Punch dagger
+- Wakizashi
+- Tantō
+- Naginata
+- Yari
+- Sai
+- Tonfa
+- Kama
+- Kunai
+- Bō — Bo staff
+- Spatha
+- Pilum
+- Khopesh — Sickle sword
+- Assegai — Assagai | Zulu spear
+- Blowgun — Blowpipe | Blow dart | Sumpit | Fukiya
+- Dart — Throwing dart | Poison dart | Poisoned dart
+- Bolas — Boleadoras
+- Harpoon
+- Atlatl — Spear-thrower | Woomera | Woomerah | Amentum
+- Chakram — Chakra | Chakkar
+- Mangonel
+- Onager
+- Siege tower — Belfry | Helepolis
+- Greek fire — Sea fire | Liquid fire | Byzantine fire | Wildfire
+- Caltrops — Caltrop | Makibishi
+- Chariot — War chariot
+- Whip — Bullwhip | Scourge | Cat o' nine tails | Stockwhip | Flagellum
+- Knuckleduster — Brass knuckles | Knuckles | Brass knucks
+- Cudgel
+- Shillelagh — Shillelah | Shillaly
+- Maul
+- Composite bow — Composite
+- Recurve bow — Recurve
+- Shortbow
+- Repeating crossbow — Chu-ko-nu | Zhuge crossbow | Zhuge nu
+- Épée
+- Fire arrow — Flaming arrow | Burning arrow | Fire arrows | Flaming arrows
+
+### Tier 4: obscure (85)
+
+- Estoc — Tuck
+- Messer — Langes Messer | Grosses Messer
+- Backsword
+- Flamberge — Flame-bladed sword | Flame blade
+- Basket-hilted sword — Basket hilt | Basket-hilt sword
+- Smallsword — Court sword
+- Executioner's sword — Headsman's sword
+- Viking sword — Ulfberht
+- Seax — Sax | Scramasax | Saex
+- Francisca — Frankish axe
+- Bearded axe
+- Dane axe — Viking axe | Danish axe
+- Labrys — Double-headed axe | Double axe | Bipennis
+- Pollaxe — Poleaxe | Poleax
+- Bardiche — Berdysh
+- Bill — Billhook | English bill | Bill-guisarme
+- Guisarme
+- Partisan
+- Boar spear
+- Winged spear
+- War scythe — Scythe-spear
+- Sarissa — Sarisa
+- Xiphos
+- Kopis
+- Falcata
+- Falx
+- Sica
+- Pugio
+- Cestus — Caestus
+- Poniard
+- Rondel dagger
+- Misericorde
+- Main-gauche — Parrying dagger | Left-hand dagger
+- Sgian-dubh — Skean dhu | Skene dhu
+- Jambiya — Janbiya
+- Khanjar
+- Shamshir — Persian sword
+- Kilij — Kilic | Turkish sabre
+- Yatagan — Yataghan
+- Talwar — Tulwar
+- Khanda
+- Urumi
+- Bagh nakh — Wagh nakh | Tiger claws | Bagh naka
+- Gada
+- Nodachi — Ōdachi
+- Tachi
+- Kusarigama
+- Kanabō
+- Jitte — Jutte
+- Tessen — War fan | Iron fan
+- Yumi — Daikyū | Japanese bow
+- Jian — Chinese sword | Chinese straight sword
+- Dao — Chinese sabre | Broadsword dao
+- Guan dao — Kwan dao | Yanyuedao | Green Dragon Crescent Blade
+- Hook sword — Hook swords | Tiger hook swords | Shuang gou
+- Butterfly sword — Butterfly swords | Hudiedao
+- Meteor hammer — Meteor ball
+- Rope dart — Shengbiao
+- Chain whip
+- Three-section staff — Sanjiegun
+- Karambit — Kerambit
+- Parang — Golok
+- Bolo — Bolo knife
+- Macuahuitl — Maquahuitl | Macana | Aztec sword | Aztec club | Obsidian sword | Obsidian club
+- Iklwa — Ikwla
+- Knobkerrie — Knobkierie | Knobkerry | Knopkierie | Iwisa
+- Arbalest — Arbalist | Arblast | Arbalète
+- Horse bow — Mongol bow | Mongolian bow | Scythian bow | Turkish bow
+- Staff sling — Fustibalus | Stave sling
+- Scorpion — Scorpio
+- War pick — Horseman's pick | Military pick
+- Garrotte — Garrote | Garotte
+- Truncheon — Baton | Billy club | Nightstick | Cosh | Blackjack | Sap
+- War elephant — Elephant | Elephants
+- Scythed chariot
+- Boiling oil — Hot oil | Boiling water | Hot sand | Boiling pitch | Hot pitch
+- Sickle — Reaping hook
+- Pitchfork — Hayfork
+- Sword cane — Swordstick | Shikomizue
+- Lathi — Lathee
+- Pickaxe — Pickax
+- Fencing foil — Foils
+- Bokken — Bokuto | Wooden sword
+- Trishula — Trishul | Trisula
+- War horse — Destrier | Charger
+
+### Tier 5: expert (142)
+
+- Spontoon — Half-pike
+- Ranseur
+- Voulge
+- Lucerne hammer
+- Bec de corbin — Crow's beak
+- Fauchard
+- Military fork — War fork
+- Corseque
+- Lochaber axe
+- Bohemian earspoon — Ear spoon
+- Ahlspiess
+- Spetum
+- Kontos
+- Xyston
+- Dory — Doru | Hoplite spear
+- Hasta
+- Angon
+- Plumbata — Martiobarbulus
+- Harpe
+- Rhomphaia
+- Akinakes — Acinaces
+- Sagaris
+- Baselard
+- Bollock dagger — Ballock dagger | Kidney dagger
+- Cinquedea
+- Ear dagger
+- Kindjal — Qama
+- Shashka
+- Karabela
+- Schiavona
+- Katzbalger
+- Kirpan
+- Pata
+- Haladie
+- Aruval
+- Tabar
+- Bhuj
+- Shotel
+- Takoba
+- Kaskara
+- Flyssa
+- Nimcha
+- Kpinga
+- Nzappa zap
+- Kampilan
+- Barong
+- Eskrima sticks — Escrima sticks | Arnis sticks | Kali sticks | Fighting sticks | Eskrima | Arnis
+- Ji
+- Qiang
+- Dagger-axe — Ge
+- Emei piercers — Emeici | Emei daggers
+- Wind and fire wheels
+- Monk's spade — Yueyachan
+- Dadao
+- Miao dao
+- Zhanmadao
+- Woldo
+- Kodachi
+- Kaiken
+- Nagamaki
+- Bisentō
+- Zanbatō
+- Tetsubō
+- Manriki-gusari — Kusari-fundo | Weighted chain
+- Kyoketsu-shoge
+- Sodegarami
+- Sasumata
+- Shuko
+- Jō — Jo staff
+- Hanbō
+- Tepoztopilli
+- Taiaha
+- Mere — Mere pounamu | Patu pounamu
+- Patu
+- Nulla nulla
+- Waddy
+- Shark-tooth sword — Shark's tooth sword
+- Gastraphetes — Belly bow
+- Self bow
+- Springald — Espringal
+- Polybolos
+- Oxybeles
+- Couillard
+- Net — Gladiator's net | Retiarius net
+- Fire ship
+- Valaška — Shepherd's axe
+- Fokos
+- Uchigatana
+- Ninjatō — Ninja sword | Ninjaken
+- Sjambok
+- Knout
+- Nagaika — Nagaika whip
+- Atgeir
+- Bodkin
+- Hurlbat
+- Welsh hook
+- Tsukubō
+- Pesh-kabz
+- Bichuwa — Bichwa
+- Kard
+- Firangi — Phirangi
+- Kora
+- Krabi
+- Dha
+- Spadroon
+- Pallasch — Palash
+- Dussack — Tesak
+- Montante
+- Koncerz
+- Machaira
+- Klewang
+- Mandau
+- Badik
+- Rencong
+- Tombak
+- Kujang
+- Sovnya
+- Bulava
+- Pernach — Shestopyor
+- Kisten
+- Brandistock
+- Pudao
+- Hunga munga
+- Ngulu
+- Seme — Simi
+- Rungu
+- Totokia
+- Ula
+- Wahaika
+- Kotiate
+- Tewhatewha
+- Leangle
+- Framea
+- Verutum
+- Spiculum
+- Soliferrum
+- Falarica
+- Arcuballista
+- Cheiroballistra — Manuballista
+- Carroballista
+- Stonebow — Pellet bow | Pellet crossbow
+- Traction trebuchet — Perrier
+
+### Tier 6: rare jackpots (3)
+
+- Goedendag — Godendag | Godendac | Goedendach
+- Leiomano — Shark-tooth club
+- Claw of Archimedes — Archimedes' claw | Ship shaker
+
+## Refused on purpose (15)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Gun | Guns | Firearm | Firearms | Musket | Arquebus | Harquebus | Matchlock | Wheellock | Flintlock | Blunderbuss | Pistol | Rifle | Revolver | Shotgun | Machine gun | Hand cannon | Handgonne | Musketoon | Carbine — "Gunpowder's own child, and the end of the age the deep asked for."
+- Cannon | Cannons | Bombard | Culverin | Mortar | Falconet | Swivel gun | Artillery | Mons Meg — "It fires with gunpowder, so it belongs to the age of guns."
+- Fire lance — "A Chinese gunpowder weapon: the ancestor of every gun."
+- Rocket | Hwacha | Rocket arrow | Fire rocket — "The first rockets ran on gunpowder."
+- Bomb | Grenade | Hand grenade | Petard | Gunpowder | Black powder | Dynamite | TNT | Landmine | Mine — "It runs on gunpowder, or worse."
+- Bayonet — "Made to fix on the end of a musket, so it can't come before gunpowder."
+- Lightsaber | Phaser | Blaster | Ray gun | Laser | Laser gun — "A weapon of the far future, or a long time ago in a galaxy far away."
+- Taser | Stun gun | Pepper spray | Mace spray | Drone | Missile | Nuclear bomb | Atom bomb | Flamethrower | Switchblade | Flick knife | Baseball bat — "Far too modern."
+- Excalibur | Mjolnir | Andúril | Narsil | Glamdring | Gungnir | Kusanagi | Durendal | Joyeuse | Gáe Bulg | Gae Bolg | Sword in the stone | Master Sword | Zulfiqar | Sudarshan Chakra | Gandiva | Brahmastra | Vajra | Pinaka | Thor's hammer — "A particular legendary weapon. Name the kind of weapon."
+- Shield | Shields | Buckler | Targe | Scutum | Aspis | Pavise | Kite shield | Armour | Armor | Helmet | Chainmail | Plate armour | Gauntlet — "Armour, not a weapon, though plenty of shields were swung at people."
+- Rock | Rocks | Stone | Stones | Brick | Stick | Sticks | Sticks and stones — "Sticks and stones are a start, but the deep wants a weapon made for the job."
+- Fists | Fist | Bare hands | Teeth — "Bare hands are not a weapon. Not officially."
+- Weapon | Weapons | Blade | Blades | Polearm | Polearms | Pole weapon | Siege engine | Siege weapon | Siege engines | Missile weapon | Projectile | Edged weapon | Bladed weapon — "Which weapon? The deep wants a name."
+- Magic wand — "Magic, not a weapon. Probably."
+- Poison | Hemlock | Arsenic — "Deadly, but it needs something to carry it. Name what delivered it."

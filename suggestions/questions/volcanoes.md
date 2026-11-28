@@ -1,0 +1,497 @@
+# Name a volcano.
+
+Question id: `volcanoes` · category: geography · source: `data/geography.json`
+
+Rules: Any named volcano, active, dormant or long extinct, on land, under the sea or on another world. Saying 'Mount' or 'Volcano' is optional. A mountain that was never a volcano doesn't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (434 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (5)
+
+- Vesuvius — Vesuvio | Mount Vesuvius | Vesuvius Volcano
+- Etna — Mongibello | Mount Etna | Etna Volcano
+- Mount Fuji — Fujiyama | Fuji-san | Fuji Volcano | Fuji
+- Krakatoa — Krakatau | Mount Krakatoa | Krakatoa Volcano
+- Mount St. Helens — Mount Saint Helens | Saint Helens | Saint Helen | St. Helens Volcano | St. Helens
+
+### Tier 2: common (12)
+
+- Kilimanjaro — Kibo | Mawenzi | Shira | Mount Kilimanjaro | Kilimanjaro Volcano
+- Yellowstone — Yellowstone Caldera | Yellowstone Supervolcano | Mount Yellowstone | Yellowstone Volcano
+- Eyjafjallajökull — Eyjafjalla | Mount Eyjafjallajökull | Eyjafjallajökull Volcano
+- Stromboli — Mount Stromboli | Stromboli Volcano
+- Mauna Loa
+- Kīlauea — Halemaʻumaʻu | Puʻu ʻŌʻō | Mauna Ulu | Mount Kīlauea | Kīlauea Volcano
+- Pinatubo — Mount Pinatubo | Pinatubo Volcano
+- Popocatépetl — Popo | El Popo | Mount Popocatépetl | Popocatépetl Volcano
+- Santorini — Thera | Santorini Caldera | Nea Kameni | Mount Santorini | Santorini Volcano
+- Teide — Pico del Teide | El Teide | Mount Teide | Teide Volcano
+- Olympus Mons — Nix Olympica
+- Mauna Kea
+
+### Tier 3: known to fans (48)
+
+- Tambora — Mount Tambora | Tambora Volcano
+- Hekla — Mount Hekla | Hekla Volcano
+- Mount Pelée — Montagne Pelée | Mont Pelée | Mount Pele | Pelée Volcano | Pelée
+- Mount Erebus — Erebus Volcano | Erebus
+- Cotopaxi — Mount Cotopaxi | Cotopaxi Volcano
+- Mount Rainier — Tahoma | Rainier Volcano | Rainier
+- Mount Kenya — Kirinyaga | Kenya Volcano
+- Mount Ararat — Ağrı Dağı | Masis | Ararat Volcano | Ararat
+- Mount Elbrus — Elbrus Volcano | Elbrus
+- Mount Taranaki — Taranaki Maunga | Mount Egmont | Egmont | Taranaki Volcano | Taranaki
+- Ruapehu — Mount Ruapehu | Ruapehu Volcano
+- Tongariro — Mount Tongariro | Tongariro Volcano
+- Whakaari — White Island | Mount Whakaari | Whakaari Volcano
+- Hunga Tonga–Hunga Haʻapai — Hunga Tonga | Hunga Haʻapai
+- Mount Agung — Gunung Agung | Agung Volcano | Agung
+- Merapi — Gunung Merapi | Mount Merapi | Merapi Volcano
+- Mount Bromo — Bromo Volcano | Bromo
+- Mayon — Mount Mayon | Mayon Volcano
+- Taal — Mount Taal | Taal Volcano
+- Sakurajima — Mount Sakurajima | Sakurajima Volcano
+- Nyiragongo — Mount Nyiragongo | Nyiragongo Volcano
+- Mount Cameroon — Cameroon Volcano
+- Katla — Mount Katla | Katla Volcano
+- Laki — Lakagígar | Laki Fissure | Mount Laki | Laki Volcano
+- Surtsey — Mount Surtsey | Surtsey Volcano
+- Fagradalsfjall — Geldingadalir | Litli-Hrútur | Meradalir | Mount Fagradalsfjall | Fagradalsfjall Volcano
+- Grímsvötn — Mount Grímsvötn | Grímsvötn Volcano
+- Vulcano — Mount Vulcano | Vulcano Volcano
+- Campi Flegrei — Phlegraean Fields
+- Cumbre Vieja
+- Soufrière Hills
+- La Soufrière — Soufrière | La Grande Soufrière
+- Parícutin — Mount Parícutin | Parícutin Volcano
+- Pico de Orizaba — Citlaltépetl | Orizaba
+- Volcán de Fuego — Fuego | Fuego Volcano
+- Arenal — Mount Arenal | Arenal Volcano
+- Nevado del Ruiz — Ruiz
+- Chimborazo — Mount Chimborazo | Chimborazo Volcano
+- Mount Shasta — Shasta Volcano | Shasta
+- Mount Hood — Wy'east | Hood Volcano
+- Mount Mazama — Crater Lake | Mazama Volcano | Mazama
+- Haleakalā — Mount Haleakalā | Haleakalā Volcano
+- Diamond Head — Lēʻahi
+- Toba — Lake Toba | Toba Caldera | Mount Toba | Toba Volcano
+- Arthur's Seat
+- Anak Krakatau — Anak Krakatoa | Child of Krakatoa
+- Lake Taupō — Taupō | Taupō Volcano
+- Ngorongoro — Ngorongoro Crater | Mount Ngorongoro | Ngorongoro Volcano
+
+### Tier 4: obscure (77)
+
+- Iztaccíhuatl — Izta | Mount Iztaccíhuatl | Iztaccíhuatl Volcano
+- Colima — Volcán de Colima | Mount Colima | Colima Volcano
+- Pacaya — Mount Pacaya | Pacaya Volcano
+- Irazú — Mount Irazú | Irazú Volcano
+- Poás — Mount Poás | Poás Volcano
+- Masaya — Mount Masaya | Masaya Volcano
+- Tungurahua — Mount Tungurahua | Tungurahua Volcano
+- Pichincha — Guagua Pichincha | Mount Pichincha | Pichincha Volcano
+- Ojos del Salado
+- Llullaillaco — Mount Llullaillaco | Llullaillaco Volcano
+- Villarrica — Mount Villarrica | Villarrica Volcano
+- Osorno — Mount Osorno | Osorno Volcano
+- El Misti — Misti
+- Mount Baker — Koma Kulshan | Baker Volcano
+- Lassen Peak — Mount Lassen | Lassen
+- Novarupta — Mount Novarupta | Novarupta Volcano
+- Mount Katmai — Katmai | Katmai Volcano
+- Askja — Mount Askja | Askja Volcano
+- Bárðarbunga — Holuhraun | Mount Bárðarbunga | Bárðarbunga Volcano
+- Eldfell — Mount Eldfell | Eldfell Volcano
+- Snæfellsjökull — Mount Snæfellsjökull | Snæfellsjökull Volcano
+- Timanfaya — Montañas del Fuego | Mountains of Fire | Mount Timanfaya | Timanfaya Volcano
+- Pico — Ponta do Pico | Mount Pico | Pico Volcano
+- Puy de Dôme
+- Chaîne des Puys
+- Ngauruhoe — Mount Ngauruhoe | Ngauruhoe Volcano
+- Tarawera — Mount Tarawera | Tarawera Volcano
+- Rangitoto — Mount Rangitoto | Rangitoto Volcano
+- Yasur — Mount Yasur | Yasur Volcano
+- Rabaul — Mount Rabaul | Rabaul Volcano
+- Semeru — Mount Semeru | Semeru Volcano
+- Rinjani — Mount Rinjani | Rinjani Volcano
+- Batur — Mount Batur | Batur Volcano
+- Ijen — Mount Ijen | Ijen Volcano
+- Mount Apo — Apo | Apo Volcano
+- Paektu — Paektusan | Changbai | Changbaishan | Baekdu | Baekdusan | Mount Paektu | Paektu Volcano
+- Hallasan — Halla | Mount Halla | Mount Hallasan | Hallasan Volcano
+- Klyuchevskaya Sopka — Klyuchevskoy | Kliuchevskoi
+- Mount Damavand — Damavand Volcano | Damavand
+- Mount Kazbek — Mkinvartsveri | Kazbek Volcano | Kazbek
+- Erta Ale
+- Mount Meru — Meru Volcano | Meru
+- Piton de la Fournaise — La Fournaise
+- Fogo — Pico do Fogo | Mount Fogo | Fogo Volcano
+- Mount Asama — Asamayama | Asama Volcano | Asama
+- Mount Aso — Aso | Asosan | Aso Volcano
+- Mount Unzen — Unzendake | Unzen Volcano | Unzen
+- Mount Ontake — Ontakesan | Ontake Volcano | Ontake
+- Deception Island
+- Monte Nuovo
+- Marsili — Marsili Seamount | Mount Marsili | Marsili Volcano
+- Shiveluch — Sheveluch | Mount Shiveluch | Shiveluch Volcano
+- Avachinsky — Avacha | Avachinskaya Sopka | Mount Avachinsky | Avachinsky Volcano
+- Sinabung — Mount Sinabung | Sinabung Volcano
+- Kelud — Kelut | Mount Kelud | Kelud Volcano
+- Nyamuragira — Nyamulagira | Mount Nyamuragira | Nyamuragira Volcano
+- Karthala — Mount Karthala | Karthala Volcano
+- Mount Elgon — Elgon Volcano | Elgon
+- Galeras — Mount Galeras | Galeras Volcano
+- Calbuco — Mount Calbuco | Calbuco Volcano
+- Chaitén — Mount Chaitén | Chaitén Volcano
+- Láscar — Mount Láscar | Láscar Volcano
+- Sangay — Mount Sangay | Sangay Volcano
+- Momotombo — Mount Momotombo | Momotombo Volcano
+- Pantelleria — Mount Pantelleria | Pantelleria Volcano
+- Huaynaputina — Mount Huaynaputina | Huaynaputina Volcano
+- Krafla — Mount Krafla | Krafla Volcano
+- Tavurvur — Mount Tavurvur | Tavurvur Volcano
+- Marapi — Mount Marapi | Gunung Marapi | Marapi Volcano
+- Kelimutu — Mount Kelimutu | Kelimutu Volcano
+- Hakone — Mount Hakone | Hakone Volcano
+- Acatenango — Mount Acatenango | Acatenango Volcano
+- Turrialba — Mount Turrialba | Turrialba Volcano
+- Quilotoa — Mount Quilotoa | Quilotoa Volcano
+- Three Sisters
+- Ischia — Monte Epomeo | Epomeo | Mount Ischia | Ischia Volcano
+- Doom Mons — Mount Doom
+
+### Tier 5: expert (289)
+
+- Cerro Negro
+- Izalco — Mount Izalco | Izalco Volcano
+- Santa María
+- El Chichón — Chichonal
+- Volcán de Agua
+- Puyehue — Mount Puyehue | Puyehue Volcano
+- Licancabur — Mount Licancabur | Licancabur Volcano
+- Ubinas — Mount Ubinas | Ubinas Volcano
+- Sabancaya — Mount Sabancaya | Sabancaya Volcano
+- Parinacota — Mount Parinacota | Parinacota Volcano
+- Mount Adams — Pahto | Adams Volcano
+- Mount Redoubt — Redoubt Volcano
+- Augustine Volcano — Augustine | Mount Augustine
+- Pavlof — Mount Pavlof | Pavlof Volcano
+- Mount Spurr — Spurr Volcano | Spurr
+- Hualālai — Mount Hualālai | Hualālai Volcano
+- Long Valley Caldera — Long Valley
+- Valles Caldera
+- Sunset Crater
+- Shiprock — Mount Shiprock | Shiprock Volcano
+- Mount Garibaldi — Garibaldi Volcano
+- Monte Vulture — Vulture
+- Nisyros — Mount Nisyros | Nisyros Volcano
+- Methana — Mount Methana | Methana Volcano
+- Tajogaite — Mount Tajogaite | Tajogaite Volcano
+- Capelinhos — Mount Capelinhos | Capelinhos Volcano
+- Sete Cidades
+- Laacher See
+- Beerenberg — Mount Beerenberg | Beerenberg Volcano
+- Sundhnúkur — Sundhnúksgígar | Svartsengi | Mount Sundhnúkur | Sundhnúkur Volcano
+- Öræfajökull — Mount Öræfajökull | Öræfajökull Volcano
+- Hengill — Mount Hengill | Hengill Volcano
+- Mount Bandai — Bandaisan | Bandai Volcano | Bandai
+- Mount Usu — Usu | Usuzan | Usu Volcano
+- Shōwa-shinzan — Mount Shōwa-shinzan | Shōwa-shinzan Volcano
+- Nishinoshima — Mount Nishinoshima | Nishinoshima Volcano
+- Lewotobi — Lewotobi Laki-laki | Mount Lewotobi | Lewotobi Volcano
+- Ruang — Mount Ruang | Ruang Volcano
+- Kanlaon — Canlaon | Mount Kanlaon | Kanlaon Volcano
+- Hibok-Hibok — Mount Hibok-Hibok | Hibok-Hibok Volcano
+- Bezymianny — Mount Bezymianny | Bezymianny Volcano
+- Kronotsky — Mount Kronotsky | Kronotsky Volcano
+- Tolbachik — Mount Tolbachik | Tolbachik Volcano
+- Barren Island
+- Mount Popa — Popa Volcano | Popa
+- Mount Hasan — Hasan Volcano
+- Erciyes — Argaeus | Mount Erciyes | Erciyes Volcano
+- Taftan — Mount Taftan | Taftan Volcano
+- Aragats — Mount Aragats | Aragats Volcano
+- Menengai — Mount Menengai | Menengai Volcano
+- Mount Longonot — Longonot Volcano | Longonot
+- Dallol — Mount Dallol | Dallol Volcano
+- Emi Koussi
+- Jebel Marra — Jebel Marrah
+- Tristan da Cunha — Queen Mary's Peak
+- Hayli Gubbi
+- Maungawhau — Mount Eden | Mount Maungawhau | Maungawhau Volcano
+- Ambrym — Mount Ambrym | Ambrym Volcano
+- Manam — Mount Manam | Manam Volcano
+- Mount Lamington — Lamington Volcano
+- Ulawun — Mount Ulawun | Ulawun Volcano
+- Kavachi — Sharkcano | Mount Kavachi | Kavachi Volcano
+- Mount Gambier — Gambier Volcano
+- Wollumbin — Mount Warning | Mount Wollumbin | Wollumbin Volcano
+- Budj Bim — Mount Eccles
+- Big Ben — Mawson Peak | Heard Island
+- Mount Terror — Terror Volcano
+- Mount Sidley — Sidley Volcano | Sidley
+- Axial Seamount
+- Kick 'em Jenny
+- Tamu Massif
+- Arsia Mons
+- Pavonis Mons
+- Ascraeus Mons
+- Alba Mons
+- Elysium Mons
+- Maat Mons
+- Ahuna Mons
+- Wright Mons
+- Loki Patera — Loki
+- Vulcan — Mount Vulcan | Vulcan Volcano
+- Ben Nevis
+- Krasheninnikov — Mount Krasheninnikov | Krasheninnikov Volcano
+- Raung — Mount Raung | Gunung Raung | Raung Volcano
+- Nevado del Huila — Huila
+- Mount Oku — Oku | Oku Volcano
+- Mount Zaō — Zaō | Zaosan | Zaō Volcano
+- Mount Hagen — Hagen Volcano
+- Tauhara — Mount Tauhara | Tauhara Volcano
+- Kolumbo — Mount Kolumbo | Kolumbo Volcano
+- Uturuncu — Mount Uturuncu | Uturuncu Volcano
+- Galunggung — Mount Galunggung | Galunggung Volcano
+- Okmok — Mount Okmok | Okmok Volcano
+- Tangkuban Perahu
+- Kerinci — Mount Kerinci | Kerinci Volcano
+- Nyos — Lake Nyos | Mount Nyos | Nyos Volcano
+- Karisimbi — Mount Karisimbi | Karisimbi Volcano
+- Bisoke — Visoke | Mount Bisoke | Bisoke Volcano
+- Muhabura — Mount Muhabura | Muhabura Volcano
+- Sabyinyo — Mount Sabyinyo | Sabyinyo Volcano
+- Mikeno — Mount Mikeno | Mikeno Volcano
+- Herðubreið — Mount Herðubreið | Herðubreið Volcano
+- Kverkfjöll — Mount Kverkfjöll | Kverkfjöll Volcano
+- Torfajökull — Mount Torfajökull | Torfajökull Volcano
+- Þríhnúkagígur — Mount Þríhnúkagígur | Þríhnúkagígur Volcano
+- Hverfjall — Hverfell | Mount Hverfjall | Hverfjall Volcano
+- Eldgjá — Mount Eldgjá | Eldgjá Volcano
+- Helgafell — Mount Helgafell | Helgafell Volcano
+- Snæfell — Mount Snæfell | Snæfell Volcano
+- Hofsjökull — Mount Hofsjökull | Hofsjökull Volcano
+- Kirishima — Shinmoedake | Mount Kirishima | Kirishima Volcano
+- Mount Iwate — Iwate Volcano | Iwate
+- Tarumae — Mount Tarumae | Tarumae Volcano
+- Tokachi — Tokachidake | Mount Tokachi | Tokachi Volcano
+- Kusatsu-Shirane — Mount Kusatsu-Shirane | Kusatsu-Shirane Volcano
+- Chōkai — Mount Chōkai | Chōkai Volcano
+- Yōtei — Mount Yōtei | Ezo Fuji | Yōtei Volcano
+- Kaimon — Kaimondake | Mount Kaimon | Kaimon Volcano
+- Miyakejima — Mount Miyakejima | Miyakejima Volcano
+- Mount Mihara — Izu Ōshima | Mihara Volcano | Mihara
+- Suwanosejima — Mount Suwanosejima | Suwanosejima Volcano
+- Hakusan — Mount Haku | Mount Hakusan | Hakusan Volcano
+- Koryaksky — Mount Koryaksky | Koryaksky Volcano
+- Karymsky — Mount Karymsky | Karymsky Volcano
+- Mutnovsky — Mount Mutnovsky | Mutnovsky Volcano
+- Gorely — Mount Gorely | Gorely Volcano
+- Kizimen — Mount Kizimen | Kizimen Volcano
+- Uzon — Mount Uzon | Uzon Volcano
+- Kambalny — Mount Kambalny | Kambalny Volcano
+- Ksudach — Mount Ksudach | Ksudach Volcano
+- Sarychev Peak
+- Alaid — Mount Alaid | Alaid Volcano
+- Santiaguito — Mount Santiaguito | Santiaguito Volcano
+- Tajumulco — Mount Tajumulco | Tajumulco Volcano
+- Atitlán — Mount Atitlán | Atitlán Volcano
+- Tolimán — Mount Tolimán | Tolimán Volcano
+- Concepción — Mount Concepción | Concepción Volcano
+- Maderas — Mount Maderas | Maderas Volcano
+- Telica — Mount Telica | Telica Volcano
+- Mombacho — Mount Mombacho | Mombacho Volcano
+- Cosigüina — Mount Cosigüina | Cosigüina Volcano
+- Rincón de la Vieja
+- Reventador — Mount Reventador | Reventador Volcano
+- Cayambe — Mount Cayambe | Cayambe Volcano
+- Antisana — Mount Antisana | Antisana Volcano
+- Imbabura — Mount Imbabura | Imbabura Volcano
+- Chachani — Mount Chachani | Chachani Volcano
+- Coropuna — Mount Coropuna | Coropuna Volcano
+- Ampato — Mount Ampato | Ampato Volcano
+- Sajama — Mount Sajama | Sajama Volcano
+- Lanín — Mount Lanín | Lanín Volcano
+- Llaima — Mount Llaima | Llaima Volcano
+- Copahue — Mount Copahue | Copahue Volcano
+- Cerro Hudson
+- Cordón Caulle
+- Nevado del Tolima
+- Puracé — Mount Puracé | Puracé Volcano
+- Nevado de Toluca — Xinantécatl
+- La Malinche — Matlalcueitl
+- Jorullo — Mount Jorullo | Jorullo Volcano
+- Xitle — Mount Xitle | Xitle Volcano
+- Tequila Volcano — Volcán de Tequila
+- Ceboruco — Mount Ceboruco | Ceboruco Volcano
+- Mount Liamuiga — Liamuiga Volcano | Liamuiga
+- Morne Trois Pitons
+- Mount Scenery — Scenery Volcano
+- The Quill
+- Qualibou — Sulphur Springs | Mount Qualibou | Qualibou Volcano
+- Pitons — Gros Piton | Petit Piton | Mount Pitons | Pitons Volcano
+- Mount Jefferson — Jefferson Volcano
+- Mount Bachelor — Bachelor Volcano
+- Newberry Volcano — Newberry
+- Glacier Peak
+- Medicine Lake Volcano
+- Mount Edgecumbe — Edgecumbe Volcano | Edgecumbe
+- Veniaminof — Mount Veniaminof | Veniaminof Volcano
+- Shishaldin — Mount Shishaldin | Shishaldin Volcano
+- Mount Cleveland — Cleveland Volcano
+- Aniakchak — Mount Aniakchak | Aniakchak Volcano
+- Akutan — Mount Akutan | Akutan Volcano
+- Makushin — Mount Makushin | Makushin Volcano
+- Great Sitkin
+- Mount Wrangell — Wrangell Volcano | Wrangell
+- Mount Edziza — Edziza Volcano | Edziza
+- Mount Meager — Meager Volcano
+- Mount Cayley — Cayley Volcano
+- Capulin — Capulin Volcano | Capulin Mountain | Mount Capulin
+- Mount Taylor — Taylor Volcano
+- San Francisco Peaks — San Francisco Mountain
+- Amboy Crater
+- Craters of the Moon
+- Kohala — Mount Kohala | Kohala Volcano
+- Punchbowl Crater — Punchbowl | Puowaina
+- Koko Head
+- Lipari — Mount Lipari | Lipari Volcano
+- Panarea — Mount Panarea | Panarea Volcano
+- Salina — Mount Salina | Salina Volcano
+- Colli Albani — Alban Hills
+- Monte Amiata
+- Roccamonfina — Mount Roccamonfina | Roccamonfina Volcano
+- Ciomadul — Mount Ciomadul | Ciomadul Volcano
+- Croscat — Garrotxa | Mount Croscat | Croscat Volcano
+- Teneguía — Mount Teneguía | Teneguía Volcano
+- Pico Viejo
+- Chinyero — Mount Chinyero | Chinyero Volcano
+- Bandama — Caldera de Bandama | Mount Bandama | Bandama Volcano
+- Vogelsberg — Mount Vogelsberg | Vogelsberg Volcano
+- Kaiserstuhl — Mount Kaiserstuhl | Kaiserstuhl Volcano
+- Hohentwiel — Mount Hohentwiel | Hohentwiel Volcano
+- Nemrut Caldera — Nemrut
+- Süphan — Mount Süphan | Süphan Volcano
+- Tendürek — Mount Tendürek | Tendürek Volcano
+- Suswa — Mount Suswa | Suswa Volcano
+- Rungwe — Mount Rungwe | Rungwe Volcano
+- Hanang — Mount Hanang | Hanang Volcano
+- Nabro — Mount Nabro | Nabro Volcano
+- Ardoukoba — Mount Ardoukoba | Ardoukoba Volcano
+- Pico Basilé
+- Piton des Neiges
+- Papandayan — Mount Papandayan | Papandayan Volcano
+- Salak — Mount Salak | Salak Volcano
+- Gede — Gede-Pangrango | Mount Gede | Gede Volcano
+- Slamet — Mount Slamet | Slamet Volcano
+- Sumbing — Mount Sumbing | Sumbing Volcano
+- Sindoro — Sundoro | Mount Sindoro | Sindoro Volcano
+- Lawu — Mount Lawu | Lawu Volcano
+- Merbabu — Mount Merbabu | Merbabu Volcano
+- Dieng — Dieng Plateau | Mount Dieng | Dieng Volcano
+- Lokon — Lokon-Empung | Mount Lokon | Lokon Volcano
+- Soputan — Mount Soputan | Soputan Volcano
+- Karangetang — Mount Karangetang | Karangetang Volcano
+- Gamalama — Mount Gamalama | Gamalama Volcano
+- Dukono — Mount Dukono | Dukono Volcano
+- Banda Api
+- Sangeang Api
+- Bulusan — Mount Bulusan | Bulusan Volcano
+- Banahaw — Mount Banahaw | Banahaw Volcano
+- Makiling — Mount Makiling | Makiling Volcano
+- Tatun — Datun | Qixing | Qixingshan | Mount Tatun | Tatun Volcano
+- Wudalianchi — Mount Wudalianchi | Wudalianchi Volcano
+- Sabalan — Mount Sabalan | Sabalan Volcano
+- Giluwe — Mount Giluwe | Giluwe Volcano
+- Bagana — Mount Bagana | Bagana Volcano
+- Kadovar — Mount Kadovar | Kadovar Volcano
+- Ambae — Manaro Voui | Mount Ambae | Ambae Volcano
+- Lopevi — Mount Lopevi | Lopevi Volcano
+- Tofua — Mount Tofua | Tofua Volcano
+- Home Reef
+- Fonuafoʻou — Falcon Island | Mount Fonuafoʻou | Fonuafoʻou Volcano
+- Matavanu — Mount Matavanu | Matavanu Volcano
+- Tinakula — Mount Tinakula | Tinakula Volcano
+- Savo — Mount Savo | Savo Volcano
+- Raoul Island
+- Maungakiekie — One Tree Hill | Mount Maungakiekie | Maungakiekie Volcano
+- Banks Peninsula — Lyttelton Volcano | Akaroa Volcano
+- Dunedin Volcano
+- Putauaki — Mount Putauaki | Putauaki Volcano
+- Mayor Island — Tūhua
+- Hanging Rock
+- Undara — Mount Undara | Undara Volcano
+- Mount Melbourne — Melbourne Volcano
+- Mount Takahe — Takahe Volcano
+- Castle Rock — Edinburgh Castle Rock
+- North Berwick Law
+- Bass Rock
+- Dumbarton Rock
+- Ailsa Craig
+- Hecates Tholus
+- Albor Tholus
+- Apollinaris Mons
+- Tyrrhenus Mons
+- Hadriacus Mons
+- Uranius Tholus
+- Ceraunius Tholus
+- Sapas Mons
+- Gula Mons
+- Sif Mons
+- Idunn Mons
+- Ozza Mons
+- Theia Mons
+- Prometheus
+- Tvashtar — Tvashtar Paterae
+- Masubi
+- Amirani
+- Ra Patera
+- Pillan Patera
+- Piccard Mons
+- Sotra Patera
+- Mons Rümker
+
+### Tier 6: rare jackpots (3)
+
+- Ol Doinyo Lengai — Lengai
+- Kamaʻehuakanaloa — Lōʻihi | Lōʻihi Seamount | Kamaʻehuakanaloa Seamount | Mount Kamaʻehuakanaloa | Kamaʻehuakanaloa Volcano
+- Ferdinandea — Graham Island | Isola Ferdinandea | Empedocles | Mount Ferdinandea | Ferdinandea Volcano
+
+## Refused on purpose (36)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Everest | Mount Everest — "Not a volcano. Its summit is limestone that was once the floor of a sea."
+- K2 — "Not a volcano, just a very tall mountain."
+- Matterhorn — "Not a volcano. Glaciers carved that pointed shape."
+- Mont Blanc — "Not a volcano. Granite, mostly."
+- Table Mountain — "Not a volcano. Sandstone, laid down long ago."
+- Uluru | Ayers Rock — "Not a volcano. A great hump of sandstone."
+- Denali | Mount McKinley | McKinley — "Not a volcano. A great block of granite."
+- Mount Cook | Aoraki | Aoraki Mount Cook — "Not a volcano. Pushed up where two plates grind together."
+- Glastonbury Tor | Glastonbury — "Not a volcano, though it looks the part. Sandstone over clay."
+- Mount Kinabalu | Kinabalu — "Not a volcano. A great dome of granite."
+- Sugarloaf Mountain | Sugar Loaf | Pão de Açúcar — "Not a volcano. A granite dome rising out of the bay at Rio."
+- Mount Olympus | Olympus — "The Greek one is limestone, not a volcano. The one on Mars would count."
+- Kangchenjunga | Lhotse | Annapurna | Nanga Parbat | Eiger | Jungfrau | Zugspitze | Triglav | Mount Whitney | Pikes Peak | Kosciuszko | Mount Kosciuszko | Ben Macdui | Mount Sinai | Mount Logan | Half Dome | El Capitan | Mount Rushmore | Kata Tjuta | Mount Kailash | Kailash | Monte Rosa — "Not a volcano, just a mountain."
+- Giant's Causeway | Fingal's Cave | Staffa — "Basalt columns from an ancient lava flow, but not a volcano with a name."
+- Pompeii | Herculaneum — "A city buried by a volcano, not a volcano itself."
+- Orodruin | Amon Amarth — "Tolkien's. A real New Zealand volcano played it in the films."
+- Dante's Peak — "A film's volcano, and a fictional one."
+- Ring of Fire | Pacific Ring of Fire — "Hundreds of volcanoes around the Pacific. Name one."
+- Supervolcano | Volcano | Stratovolcano | Shield Volcano | Caldera | Cinder Cone | Seamount — "That's a kind of volcano. Name one."
+- Hawaii | Big Island | Hawaiian Islands — "Islands built by volcanoes. Name one of the volcanoes."
+- Iceland — "An island built by volcanoes. Name one of them."
+- Montserrat — "An island. Its volcano has a name of its own."
+- Tenerife | La Palma | Lanzarote | Gran Canaria | Sicily | Bali | Java | Sumatra | Kamchatka — "An island or a land with volcanoes on it, not a volcano itself. Name one of them."
+- Saint Helena | St Helena — "An island built by long-dead volcanoes, not a volcano itself."
+- Vatnajökull | Mýrdalsjökull — "A glacier, not a volcano, though volcanoes lie beneath it."
+- Virunga | Virunga Mountains | Virungas — "A chain of volcanoes. Name one of them."
+- Naples — "A city in the shadow of volcanoes, not a volcano itself."
+- Cappadocia — "A landscape carved from old volcanic ash, not a volcano. The peaks that laid it down would count."
+- Refused without a reason (near misses of real answers): Fiji | Peru | Togo | Karachi | Shanghai | Chiang Mai | Hiroshima | Madras

@@ -1,0 +1,1569 @@
+# Name a space mission or spacecraft.
+
+Question id: `space-missions` · category: science · source: `data/science.json`
+
+Rules: Any crewed or robotic spacecraft or mission from any agency or company, flown or still waiting to launch, with each numbered mission counting on its own. Rockets, and missions cancelled before they flew, don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (1473 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Apollo 11 — First Moon landing | Apollo 11 Moon landing | Apollo 11 mission
+- Apollo 13 — Apollo 13 mission
+- Apollo — Apollo programme | Apollo program | Project Apollo | Apollo missions | Apollo Moon landings | Apollo mission
+- Sputnik 1 — Sputnik | PS-1 | Sputnik satellite | Sputnik 1 mission
+- Voyager — Voyager programme | Voyager program | Voyager probes | Voyager mission
+- Voyager 1 — Mariner 11 | Voyager 1 mission
+- Hubble Space Telescope — Hubble | HST | Hubble Telescope | Hubble Space Telescope mission
+- James Webb Space Telescope — James Webb | JWST | Webb | Webb Telescope | James Webb Telescope | Webb Space Telescope | James Webb Space Telescope mission
+- International Space Station — ISS | International Space Station mission
+- Space Shuttle — Shuttle | Space Shuttle programme | Space Shuttle program | Space Transportation System | STS | Shuttle orbiter | Space Shuttle mission
+- Challenger — Space Shuttle Challenger | Shuttle Challenger | OV-099 | Challenger mission | Apollo 17 lunar module | Challenger disaster | Space Shuttle Challenger disaster
+- Columbia — Space Shuttle Columbia | Shuttle Columbia | OV-102 | Columbia mission | Apollo 11 command module | Apollo 11 CM | Columbia command module | Columbia disaster | Space Shuttle Columbia disaster
+- Curiosity — Curiosity rover | Mars Science Laboratory | MSL | Curiosity mission
+- Perseverance — Perseverance rover | Percy | Mars 2020 | Perseverance mission
+- Artemis — Artemis programme | Artemis program | Project Artemis | Artemis mission
+
+### Tier 2: common (31)
+
+- Discovery — Space Shuttle Discovery | Shuttle Discovery | OV-103 | Discovery mission
+- Atlantis — Space Shuttle Atlantis | Shuttle Atlantis | OV-104 | Atlantis mission
+- Endeavour — Space Shuttle Endeavour | Shuttle Endeavour | Endeavor | Space Shuttle Endeavor | OV-105 | Crew Dragon Endeavour | Endeavour mission | Apollo 15 command module | Dragon Endeavour
+- Enterprise — Space Shuttle Enterprise | Shuttle Enterprise | OV-101 | Enterprise mission
+- Mir — Mir space station | Mir mission
+- Skylab — Skylab space station | Skylab 1 | Skylab mission
+- Gemini — Project Gemini | Gemini programme | Gemini program | Gemini mission
+- Mercury — Project Mercury | Mercury programme | Mercury program | Mercury mission
+- Soyuz — Soyuz spacecraft | Soyuz capsule | Soyuz programme | Soyuz program | Soyuz mission
+- Viking — Viking programme | Viking program | Viking landers | Viking mission
+- Pioneer — Pioneer programme | Pioneer program | Pioneer mission
+- Voyager 2 — Mariner 12 | Voyager 2 mission
+- Cassini — Cassini–Huygens | Cassini probe | Cassini spacecraft | Cassini mission
+- New Horizons — New Horizons mission
+- Rosetta — Rosetta probe | Rosetta mission
+- Opportunity — Opportunity rover | Oppy | MER-B | Opportunity mission
+- Galileo — Galileo probe | Galileo spacecraft | Galileo satellites | Galileo mission
+- Ingenuity — Ingenuity helicopter | Mars Helicopter | Ginny | Ingenuity mission
+- Starship — SpaceX Starship | Starship HLS | Starship mission
+- Dragon — SpaceX Dragon | Dragon capsule | Cargo Dragon | Dragon 1 | Dragon spacecraft | Dragon mission
+- Crew Dragon — SpaceX Crew Dragon | Dragon 2 | Crew Dragon capsule | Crew Dragon mission
+- Eagle — Apollo 11 lunar module | Apollo 11 LM | Eagle mission | Lunar Module Eagle | LM Eagle
+- Orion — Orion spacecraft | Orion capsule | Orion MPCV | Orion Multi-Purpose Crew Vehicle | Apollo 16 lunar module | Orion mission
+- Apollo 1 — Apollo 1 mission
+- Apollo 8 — Apollo 8 mission
+- Apollo 12 — Apollo 12 mission
+- Apollo 17 — Apollo 17 mission
+- Vostok 1 — Vostok 1 mission
+- Chandrayaan-3 — Chandrayaan-3 mission
+- Artemis 1 — Exploration Mission-1 | EM-1 | Artemis 1 mission
+- Artemis 2 — Artemis 2 mission
+
+### Tier 3: known to fans (81)
+
+- Apollo–Soyuz — Apollo–Soyuz Test Project | ASTP | Soyuz–Apollo | Apollo–Soyuz mission
+- Freedom 7 — Mercury-Redstone 3 | MR-3 | Freedom 7 mission
+- Friendship 7 — Mercury-Atlas 6 | MA-6 | Friendship 7 mission
+- Vostok — Vostok programme | Vostok program | Vostok spacecraft | Vostok mission
+- Shenzhou — Shenzhou spacecraft | Shenzhou programme | Shenzhou program | Shenzhou mission
+- Chang'e — Chang'e programme | Chang'e program | Chinese Lunar Exploration Programme | CLEP | Chang'e mission
+- Tiangong — Tiangong space station | Chinese space station | China Space Station | Heavenly Palace | CSS | Tiangong mission
+- Lunar Module — Lunar Excursion Module | LEM | LM | Apollo Lunar Module | Lunar lander | Lunar Module mission
+- Command Module — Apollo Command Module | Command and Service Module | CSM | Apollo CSM | Command Module mission
+- Lunar Roving Vehicle — LRV | Moon buggy | Lunar rover | Moon rover | Apollo Lunar Roving Vehicle | Lunar Roving Vehicle mission
+- Mariner — Mariner programme | Mariner program | Mariner mission
+- Venera — Venera programme | Venera program | Venera mission
+- Luna — Luna programme | Luna program | Lunik | Luna mission
+- Lunokhod 1 — Lunokhod | Lunokhod 1 mission
+- Buran — Buran shuttle | Soviet space shuttle | Soviet shuttle | Buran mission | Space Shuttle Buran | Buran orbiter | Energia-Buran
+- Salyut — Salyut programme | Salyut program | Salyut mission
+- Philae — Philae lander | Philae mission
+- Huygens — Huygens probe | Huygens mission
+- Giotto — Giotto mission
+- Mars Express — Mars Express mission
+- Beagle 2 — Beagle | Beagle 2 lander | Beagle 2 mission
+- Gaia — Gaia mission
+- Solar Orbiter — Solar Orbiter mission
+- JUICE — Jupiter Icy Moons Explorer | JUICE mission
+- Euclid — Euclid telescope | Euclid mission
+- BepiColombo — Bepi | BepiColombo mission
+- Herschel — Herschel Space Observatory | Herschel mission
+- Planck — Planck satellite | Planck telescope | Planck mission
+- SOHO — Solar and Heliospheric Observatory | SOHO mission
+- Spitzer — Spitzer Space Telescope | Spitzer mission
+- Chandra — Chandra X-ray Observatory | Chandra mission
+- Parker Solar Probe — Parker | Parker Probe | Solar Probe Plus | Parker Solar Probe mission
+- OSIRIS-REx — OSIRIS-APEX | Osiris | OSIRIS-REx mission
+- DART — Double Asteroid Redirection Test | DART mission
+- Europa Clipper — Clipper | Europa Clipper mission
+- InSight — InSight lander | Mars InSight | InSight mission
+- Dawn — Dawn mission
+- Lucy — Lucy mission
+- Psyche — Psyche mission
+- TESS — Transiting Exoplanet Survey Satellite | TESS mission
+- Juno — Juno probe | Juno spacecraft | Juno mission
+- Kepler — Kepler Space Telescope | Kepler telescope | K2 | Kepler mission
+- Spirit — Spirit rover | MER-A | Spirit mission
+- Sojourner — Sojourner rover | Sojourner mission
+- Mars Pathfinder — Pathfinder | Mars Pathfinder mission
+- Hayabusa — Hayabusa mission
+- Hayabusa2 — Hayabusa2 mission
+- Chandrayaan — Chandrayaan programme | Chandrayan | Chandrayaan mission
+- Mangalyaan — Mars Orbiter Mission | MOM | Mangalyan | Mangalyaan-1 | Mangalyaan mission
+- Tesla Roadster — Starman | Elon Musk's Tesla | Elon Musk's car | Tesla in space | Tesla Roadster mission
+- Starlink — Starlink satellites | Starlink mission
+- Telstar — Telstar 1 | Telstar mission
+- GPS — Global Positioning System | Navstar | GPS satellites | GPS mission
+- Landsat — Landsat 1 | Landsat 2 | Landsat 3 | Landsat 4 | Landsat 5 | Landsat 6 | Landsat 7 | Landsat 8 | Landsat 9 | Landsat mission
+- Inspiration4 — Inspiration4 mission
+- Polaris Dawn — Polaris Program | Polaris Dawn mission
+- Demo-2 — Crew Dragon Demo-2 | SpaceX Demo-2 | DM-2 | Demo-2 mission
+- Starliner — Boeing Starliner | CST-100 | CST-100 Starliner | Starliner mission
+- Starliner Crew Flight Test — Boeing Crew Flight Test | Crew Flight Test | CFT | Boe-CFT | Starliner CFT | Starliner Crew Flight Test mission
+- Dragonfly — Dragonfly mission
+- Nancy Grace Roman Space Telescope — Roman Space Telescope | Roman | Nancy Grace Roman | WFIRST | Roman telescope | Nancy Grace Roman Space Telescope mission
+- New Shepard — Blue Origin New Shepard | New Shepard mission
+- Apollo 7 — Apollo 7 mission
+- Apollo 10 — Apollo 10 mission
+- Apollo 14 — Apollo 14 mission
+- Apollo 15 — Apollo 15 mission
+- Apollo 16 — Apollo 16 mission
+- Vostok 6 — Vostok 6 mission
+- Voskhod 2 — Voskhod 2 mission
+- Shenzhou 5 — Shenzhou 5 mission
+- Explorer 1 — Explorer 1 mission
+- Pioneer 10 — Pioneer 10 mission
+- Sputnik 2 — Muttnik | Sputnik 2 mission
+- Chang'e 4 — Chang'e 4 mission
+- Chang'e 5 — Chang'e 5 mission
+- Chang'e 6 — Chang'e 6 mission
+- Chandrayaan-1 — Chandrayaan-1 mission
+- Chandrayaan-2 — Chandrayaan-2 mission
+- Tianwen-1 — Tianwen | Tianwen-1 mission
+- Artemis 3 — Artemis 3 mission
+- Viking 1 — Viking 1 mission | Viking Lander 1 | Viking 1 lander | Viking Orbiter 1
+
+### Tier 4: obscure (127)
+
+- Liberty Bell 7 — Liberty Bell | Mercury-Redstone 4 | MR-4 | Liberty Bell 7 mission
+- Voskhod — Voskhod programme | Voskhod program | Voskhod mission
+- Lunokhod 2 — Lunokhod 2 mission
+- Luna 25 — Luna-Glob | Luna 25 mission
+- Vanguard 1 — Vanguard | Vanguard satellite | Vanguard 1 mission
+- Aquarius — Apollo 13 lunar module | Aquarius mission
+- Falcon — Apollo 15 lunar module | Falcon mission
+- Integrity — Orion Integrity | Integrity mission
+- Endurance — Crew Dragon Endurance | Endurance mission | Dragon Endurance
+- Mars Reconnaissance Orbiter — MRO | Mars Reconnaissance Orbiter mission
+- Mars Global Surveyor — MGS | Mars Global Surveyor mission
+- Mars Odyssey — 2001 Mars Odyssey | Mars Odyssey mission
+- Mars Climate Orbiter — Mars Climate Orbiter mission
+- MAVEN — MAVEN mission
+- Phoenix — Phoenix lander | Phoenix Mars Lander | Phoenix mission
+- Magellan — Magellan probe | Magellan mission
+- MESSENGER — MESSENGER mission
+- Ulysses — Ulysses mission
+- Venus Express — Venus Express mission
+- Hipparcos — Hipparcos mission
+- XMM-Newton — XMM | Newton | XMM-Newton mission
+- SMART-1 — SMART-1 mission
+- ExoMars — ExoMars Trace Gas Orbiter | Trace Gas Orbiter | TGO | ExoMars mission
+- Schiaparelli — Schiaparelli lander | Schiaparelli mission
+- Rosalind Franklin — Rosalind Franklin rover | ExoMars rover | Rosalind Franklin mission
+- Hera — Hera mission
+- Lunar Reconnaissance Orbiter — LRO | Lunar Reconnaissance Orbiter mission
+- NEAR Shoemaker — NEAR | NEAR Shoemaker mission
+- Deep Impact — EPOXI | Deep Impact mission
+- Deep Space 1 — DS1 | Deep Space 1 mission
+- Stardust — Stardust mission
+- Genesis — Genesis probe | Genesis mission
+- Fermi — Fermi Gamma-ray Space Telescope | GLAST | Fermi mission
+- Swift — Swift Observatory | Neil Gehrels Swift Observatory | Swift mission
+- WISE — NEOWISE | Wide-field Infrared Survey Explorer | WISE mission
+- COBE — Cosmic Background Explorer | COBE mission
+- WMAP — Wilkinson Microwave Anisotropy Probe | WMAP mission
+- Compton Gamma Ray Observatory — Compton | CGRO | Compton Observatory | Compton Gamma Ray Observatory mission
+- SDO — Solar Dynamics Observatory | SDO mission
+- STEREO — STEREO mission
+- SPHEREx — SPHEREx mission
+- Echo 1 — Echo | Project Echo | Echo satellite | Echo 1 mission
+- TIROS-1 — TIROS | TIROS-1 mission
+- Iridium — Iridium satellites | Iridium mission
+- Aditya-L1 — Aditya | Aditya-L1 mission
+- Aryabhata — Aryabhatta | Aryabhata mission
+- Vikram — Vikram lander | Vikram mission
+- Pragyan — Pragyan rover | Pragyan mission
+- Gaganyaan — Gaganyan | Gaganyaan mission | Gaganyaan programme | Gaganyaan program
+- NISAR — NISAR mission
+- SLIM — Moon Sniper | Smart Lander for Investigating Moon | SLIM mission
+- Akatsuki — Venus Climate Orbiter | Planet-C | Akatsuki mission
+- Kaguya — SELENE | Kaguya mission
+- IKAROS — IKAROS mission
+- MMX — Martian Moons Exploration | MMX mission
+- Hakuto-R — Hakuto-R Mission 1 | Hakuto | Hakuto-R mission
+- Yutu — Jade Rabbit | Yutu rover | Yutu mission
+- Yutu-2 — Jade Rabbit 2 | Yutu-2 mission
+- Zhurong — Zhurong rover | Zhurong mission
+- Tiangong-1 — Tiangong-1 mission
+- Tiangong-2 — Tiangong-2 mission
+- Mengzhou — Mengzhou mission
+- Dong Fang Hong 1 — DFH-1 | Dong Fang Hong | Dong Fang Hong 1 mission
+- BeiDou — BeiDou Navigation Satellite System | BeiDou mission
+- GLONASS — GLONASS mission
+- Hope — Hope probe | Emirates Mars Mission | Al-Amal | Hope Mars Mission | Hope mission
+- Beresheet — Bereshit | Beresheet mission
+- Odysseus — IM-1 | Intuitive Machines IM-1 | Odie | Odysseus mission
+- Athena — IM-2 | Intuitive Machines IM-2 | NewAthena | Athena mission
+- Blue Ghost — Blue Ghost Mission 1 | Ghost Riders in the Sky | Firefly Blue Ghost | Blue Ghost mission | Blue Ghost 1 | Blue Ghost M1
+- Peregrine — Peregrine Mission One | Peregrine lander | Peregrine mission
+- Blue Moon — Blue Moon lander | Blue Moon MK1 | Blue Moon Mark 1 | Blue Moon mission
+- Dream Chaser — Tenacity | Dream Chaser Tenacity | Dream Chaser mission
+- X-37B — X-37 | Orbital Test Vehicle | Boeing X-37 | X-37B mission
+- SpaceShipOne — SpaceShipOne mission
+- SpaceShipTwo — SpaceShipTwo mission
+- VSS Unity — Virgin Space Ship Unity | VSS Unity mission
+- Unity 22 — Virgin Galactic Unity 22 | Unity 22 mission
+- Lunar Gateway — Gateway | Lunar Orbital Platform-Gateway | LOP-G | Lunar Gateway mission | Deep Space Gateway
+- VIPER — VIPER rover | VIPER mission
+- Cygnus — Cygnus spacecraft | Cygnus XL | Cygnus mission
+- Progress — Progress spacecraft | Progress cargo ship | Progress mission
+- Alouette 1 — Alouette | Alouette 1 mission
+- Astérix — A-1 | Astérix satellite | Astérix mission
+- Spacelab — Spacelab mission
+- Kounotori — HTV | H-II Transfer Vehicle | Kounotori mission
+- Automated Transfer Vehicle — ATV | Automated Transfer Vehicle mission
+- Apollo 9 — Apollo 9 mission
+- Gemini 3 — Molly Brown | Gemini 3 mission
+- Gemini 4 — Gemini 4 mission
+- Gemini 8 — Gemini 8 mission
+- Vostok 2 — Vostok 2 mission
+- Voskhod 1 — Voskhod 1 mission
+- Soyuz 1 — Soyuz 1 mission
+- Soyuz 11 — Soyuz 11 mission
+- STS-1 — STS-1 mission
+- STS-51-L — 51-L | STS-51-L mission
+- STS-107 — STS-107 mission
+- STS-135 — STS-135 mission
+- Crew-1 — SpaceX Crew-1 | NASA Crew-1 | Crew-1 mission
+- NS-16 — New Shepard NS-16 | Blue Origin NS-16 | NS-16 mission
+- NS-31 — New Shepard NS-31 | Blue Origin NS-31 | NS-31 mission
+- Luna 1 — Lunik 1 | Mechta | Luna 1 mission
+- Luna 2 — Lunik 2 | Luna 2 mission
+- Luna 3 — Lunik 3 | Luna 3 mission
+- Luna 9 — Luna 9 mission
+- Venera 7 — Venera 7 mission
+- Venera 13 — Venera 13 mission
+- Zond 5 — Zond 5 mission
+- Mars 3 — Mars 3 mission
+- Mariner 2 — Mariner 2 mission
+- Mariner 4 — Mariner 4 mission
+- Mariner 9 — Mariner 9 mission
+- Mariner 10 — Mariner 10 mission
+- Surveyor 1 — Surveyor 1 mission
+- Surveyor 3 — Surveyor 3 mission
+- Pioneer 11 — Pioneer 11 mission
+- Salyut 1 — Salyut 1 mission
+- Sputnik 5 — Korabl-Sputnik 2 | Sputnik 5 mission
+- Ariel 1 — Ariel 1 mission
+- Chang'e 1 — Chang'e 1 mission
+- Chang'e 3 — Chang'e 3 mission
+- Chang'e 7 — Chang'e 7 mission
+- Tianwen-2 — Tianwen-2 mission
+- Viking 2 — Viking 2 mission | Viking Lander 2 | Viking 2 lander | Viking Orbiter 2
+- Columbus — Columbus module | Columbus laboratory | Columbus mission
+- Tianzhou — Tianzhou spacecraft | Tianzhou programme | Tianzhou program | Tianzhou cargo ship | Tianzhou mission
+
+### Tier 5: expert (1217)
+
+- AS-201 — AS-201 mission
+- AS-202 — AS-202 mission
+- AS-203 — AS-203 mission
+- Aurora 7 — Mercury-Atlas 7 | MA-7 | Aurora 7 mission
+- Sigma 7 — Mercury-Atlas 8 | MA-8 | Sigma 7 mission
+- Faith 7 — Mercury-Atlas 9 | MA-9 | Faith 7 mission
+- Mercury-Redstone 2 — MR-2 | Mercury-Redstone 2 mission
+- Mercury-Atlas 5 — MA-5 | Mercury-Atlas 5 mission
+- Gumdrop — Apollo 9 command module | Gumdrop mission
+- Spider — Apollo 9 lunar module | Spider mission
+- Charlie Brown — Apollo 10 command module | Charlie Brown mission
+- Yankee Clipper — Apollo 12 command module | Yankee Clipper mission
+- Intrepid — Apollo 12 lunar module | Intrepid mission
+- Odyssey — Apollo 13 command module | Odyssey mission
+- Kitty Hawk — Apollo 14 command module | Kitty Hawk mission
+- Antares — Apollo 14 lunar module | Antares mission
+- Casper — Apollo 16 command module | Casper mission
+- America — Apollo 17 command module | America mission
+- Almaz — Almaz mission
+- Kvant-1 — Kvant | Kvant-1 mission
+- Kvant-2 — Kvant-2 mission
+- Kristall — Kristall mission
+- Spektr — Spektr mission
+- Priroda — Priroda mission
+- Zarya — Zarya mission
+- Zvezda — Zvezda mission
+- Unity — Node 1 | Unity mission
+- Destiny — Destiny module | US Lab | Destiny mission
+- Harmony — Node 2 | Harmony mission
+- Tranquility — Node 3 | Tranquility mission
+- Kibo — Japanese Experiment Module | JEM | Kibo mission
+- Cupola — Cupola mission
+- Nauka — Nauka mission
+- Poisk — Poisk mission
+- Rassvet — Rassvet mission
+- Pirs — Pirs mission
+- Prichal — Prichal mission
+- BEAM — Bigelow Expandable Activity Module | BEAM mission
+- Tianhe — Tianhe mission
+- Wentian — Wentian mission
+- Mengtian — Mengtian mission
+- Shuttle–Mir — Shuttle–Mir programme | Shuttle–Mir program | Shuttle–Mir mission
+- Genesis I — Genesis I mission
+- Genesis II — Genesis II mission
+- Haven-1 — Vast Haven-1 | Haven-1 mission
+- Calypso — Calypso mission
+- Resilience — Crew Dragon Resilience | Hakuto-R Mission 2 | Resilience mission | Dragon Resilience
+- Freedom — Crew Dragon Freedom | Freedom mission | Dragon Freedom
+- Grace — Crew Dragon Grace | GRACE-FO | Gravity Recovery and Climate Experiment | Grace mission | Dragon Grace
+- Demo-1 — Crew Dragon Demo-1 | SpaceX Demo-1 | DM-1 | Demo-1 mission
+- COTS Demo Flight 1 — COTS Demo 1 | COTS Demo Flight 1 mission
+- COTS Demo Flight 2 — COTS Demo 2 | Dragon C2+ | COTS Demo Flight 2 mission
+- Boe-OFT — Orbital Flight Test | OFT-1 | Starliner OFT | Starliner Orbital Flight Test | Boe-OFT mission
+- Boe-OFT 2 — OFT-2 | Orbital Flight Test 2 | Starliner OFT-2 | Boe-OFT 2 mission
+- Starliner-1 — Starliner-1 mission
+- Exploration Flight Test-1 — EFT-1 | Exploration Flight Test-1 mission
+- Fram2 — Fram2 mission
+- VSS Enterprise — VSS Enterprise mission
+- X-15 — North American X-15 | X-15 mission
+- Blue Ring — Blue Ring Pathfinder | Blue Ring mission
+- Lanyue — Lanyue mission
+- Qingzhou — Qingzhou mission
+- Shenlong — Shenlong mission
+- Queqiao — Queqiao relay satellite | Queqiao mission
+- Queqiao-2 — Queqiao-2 mission
+- Mozi — Micius | QUESS | Mozi mission
+- Wukong — DAMPE | Wukong mission
+- Huiyan — Insight-HXMT | HXMT | Huiyan mission
+- Einstein Probe — Einstein Probe mission
+- SVOM — SVOM mission
+- Xuntian — CSST | Chinese Space Station Telescope | Xuntian mission
+- Fengyun — Fengyun mission
+- Yinghuo-1 — Yinghuo-1 mission | Yinghuo
+- ICUBE-Q — iCube-Qamar | ICUBE-Q mission
+- Badr-1 — Badr | Badr-1 mission
+- Omid — Omid mission
+- Kwangmyongsong — Kwangmyongsong mission
+- Ofeq — Ofeq mission
+- Danuri — KPLO | Korea Pathfinder Lunar Orbiter | Danuri mission
+- Rashid — Rashid rover | Rashid mission
+- SORA-Q — LEV-2 | SORA-Q mission
+- Tenacious — Tenacious rover | Tenacious mission
+- Odin — Brokkr-2 | Odin mission
+- Lunar Trailblazer — Lunar Trailblazer mission
+- Lunar Flashlight — Lunar Flashlight mission
+- CAPSTONE — CAPSTONE mission
+- LADEE — LADEE mission
+- GRAIL — Ebb and Flow | GRAIL mission
+- Lunar Prospector — Lunar Prospector mission
+- Clementine — Clementine mission
+- LCROSS — LCROSS mission
+- Hiten — Hiten mission
+- Griffin — Griffin Mission One | Griffin-1 | Griffin lander | Griffin mission
+- IM-3 — Intuitive Machines IM-3 | IM-3 mission
+- Blue Ghost Mission 2 — Blue Ghost Mission 2 mission | Blue Ghost 2 | Blue Ghost M2
+- Ranger — Ranger programme | Ranger mission
+- Surveyor — Surveyor programme | Surveyor mission
+- Lunar Orbiter — Lunar Orbiter programme | Lunar Orbiter mission
+- Zond — Zond programme | Zond mission
+- Vega — Vega programme | Vega mission
+- Vega 1 — Vega 1 mission
+- Vega 2 — Vega 2 mission
+- Phobos 1 — Phobos 1 mission
+- Phobos 2 — Phobos 2 mission
+- Phobos-Grunt — Fobos-Grunt | Phobos-Grunt mission
+- Mars 96 — Mars 96 mission
+- Kosmos — Cosmos | Kosmos satellites | Kosmos mission
+- Kosmos 954 — Kosmos 954 mission
+- Molniya — Molniya mission
+- Polyot — Polyot mission
+- Polyus — Polyus mission | Polyus-Skif | Skif-DM
+- Zenit — Zenit mission
+- Proton — Proton mission
+- Spektr-R — RadioAstron | Spektr-R mission
+- Spektr-RG — SRG | Spektr-RG mission | eROSITA
+- Granat — Granat mission
+- Pioneer Venus 1 — Pioneer Venus Orbiter | Pioneer 12 | Pioneer Venus | Pioneer Venus 1 mission
+- Pioneer Venus 2 — Pioneer Venus Multiprobe | Pioneer 13 | Pioneer Venus 2 mission
+- Helios — Helios 1 | Helios 2 | Helios probes | Helios mission
+- Mars Polar Lander — Mars Polar Lander mission
+- Mars Observer — Mars Observer mission
+- Deep Space 2 — Deep Space 2 mission
+- Mars Cube One — MarCO | Mars Cube One mission
+- CONTOUR — CONTOUR mission
+- International Cometary Explorer — ICE | ISEE-3 | International Cometary Explorer mission
+- Sakigake — Sakigake mission
+- Suisei — Suisei mission
+- Nozomi — Planet-B | Nozomi mission
+- Hitomi — ASTRO-H | Hitomi mission
+- XRISM — XRISM mission
+- Akari — Akari mission
+- Suzaku — Suzaku mission
+- Hinode — Solar-B | Hinode mission
+- Yohkoh — Solar-A | Yohkoh mission
+- Ohsumi — Ohsumi mission
+- Mio — Mercury Magnetospheric Orbiter | MMO | Mio mission
+- MASCOT — MASCOT mission
+- Himawari — Himawari mission
+- Idefix — Idefix rover | Idefix mission
+- OMOTENASHI — OMOTENASHI mission
+- DESTINY+ — DESTINY+ mission
+- HTV-X1 — HTV-X | HTV-X1 mission
+- Jules Verne — ATV-1 | ATV Jules Verne | Jules Verne mission
+- Johannes Kepler — ATV-2 | Johannes Kepler mission
+- Edoardo Amaldi — ATV-3 | Edoardo Amaldi mission
+- Albert Einstein — ATV-4 | Albert Einstein mission
+- Georges Lemaître — ATV-5 | Georges Lemaître mission
+- INTEGRAL — INTEGRAL mission
+- Cluster — Cluster mission
+- CHEOPS — CHEOPS mission
+- PROBA-1 — PROBA-1 mission
+- PROBA-2 — PROBA-2 mission
+- PROBA-3 — PROBA-3 mission
+- PROBA-V — PROBA-V mission
+- LISA Pathfinder — LISA Pathfinder mission
+- LISA — Laser Interferometer Space Antenna | LISA mission
+- PLATO — PLATO mission
+- ARIEL — Ariel telescope | ARIEL mission
+- Comet Interceptor — Comet Interceptor mission
+- SMILE — SMILE mission
+- Biomass — Biomass mission
+- Aeolus — Aeolus mission
+- GOCE — GOCE mission
+- CryoSat — CryoSat-2 | CryoSat mission
+- SMOS — SMOS mission
+- Envisat — Envisat mission
+- ERS-1 — ERS | ERS-1 mission
+- ERS-2 — ERS-2 mission
+- EarthCARE — EarthCARE mission
+- Sentinel — Sentinel-1 | Sentinel-2 | Sentinel-3 | Sentinel-5P | Sentinel-6 | Copernicus Sentinel | Sentinel mission
+- Meteosat — Meteosat mission
+- MetOp — MetOp mission
+- Infrared Space Observatory — Infrared Space Observatory mission | ISO
+- IUE — International Ultraviolet Explorer | IUE mission
+- COS-B — COS-B mission
+- Exosat — Exosat mission
+- EnVision — EnVision mission
+- Ramses — Ramses mission
+- Principia — Principia mission
+- Project Juno — Project Juno mission
+- Copernicus — OAO-3 | Copernicus programme | Copernicus mission
+- Skynet — Skynet mission
+- CoRoT — CoRoT mission
+- SPOT — SPOT mission
+- Azur — Azur mission
+- ROSAT — ROSAT mission
+- TerraSAR-X — TerraSAR-X mission
+- San Marco 1 — San Marco | San Marco 1 mission
+- BeppoSAX — BeppoSAX mission
+- AGILE — AGILE mission
+- LICIACube — LICIACube mission
+- RADARSAT — RADARSAT mission
+- WRESAT — WRESAT mission
+- Bhaskara — Bhaskara mission
+- Rohini — Rohini mission
+- INSAT — INSAT mission
+- Cartosat — Cartosat mission
+- AstroSat — AstroSat mission
+- XPoSat — XPoSat mission
+- SpaDeX — SpaDeX mission
+- NavIC — NavIC mission
+- Shukrayaan — Venus Orbiter Mission | Shukrayaan-1 | Shukrayaan mission
+- Bharatiya Antariksh Station — Bharatiya Antariksh Station mission | BAS | Indian space station
+- IMAP — IMAP mission
+- PUNCH — PUNCH mission
+- Pandora — Pandora mission
+- NuSTAR — NuSTAR mission
+- GALEX — GALEX mission
+- IRAS — IRAS mission
+- Einstein Observatory — HEAO-2 | Einstein Observatory mission
+- Uhuru — Uhuru mission
+- TRACE — TRACE mission
+- RHESSI — RHESSI mission
+- IRIS — IRIS mission
+- ACE — Advanced Composition Explorer | ACE mission
+- IBEX — IBEX mission
+- THEMIS — THEMIS mission
+- Van Allen Probes — Van Allen Probes mission
+- MMS — Magnetospheric Multiscale Mission | MMS mission
+- ESCAPADE — ESCAPADE mission
+- Nimbus — Nimbus mission
+- Terra — Terra mission
+- Aqua — Aqua mission
+- Aura — Aura mission
+- GOES — GOES mission
+- ICESat — ICESat mission
+- SMAP — SMAP mission
+- OCO-2 — Orbiting Carbon Observatory | OCO-2 mission
+- SWOT — SWOT mission
+- PACE — PACE mission
+- TOPEX/Poseidon — TOPEX | TOPEX/Poseidon mission
+- Seasat — Seasat mission
+- DSCOVR — Deep Space Climate Observatory | Triana | DSCOVR mission
+- Corona — Corona mission
+- Syncom — Syncom 3 | Syncom mission | Syncom 2 | Syncom 1
+- Early Bird — Intelsat I | Early Bird mission
+- Intelsat — Intelsat mission
+- TDRS — Tracking and Data Relay Satellite | TDRS mission
+- SCORE — Project SCORE | SCORE mission
+- LightSail — LightSail 2 | LightSail mission
+- LAGEOS — LAGEOS mission
+- Gravity Probe B — Gravity Probe B mission
+- LDEF — Long Duration Exposure Facility | LDEF mission
+- CloudSat — CloudSat mission
+- CALIPSO — CALIPSO mission
+- OneWeb — OneWeb mission
+- Project Kuiper — Kuiper | Amazon Kuiper | Amazon Leo | Project Kuiper mission
+- Inmarsat — Inmarsat mission
+- Astra — Astra mission
+- Eutelsat — Eutelsat mission
+- NEO Surveyor — NEO Surveyor mission
+- DAVINCI — DAVINCI mission
+- VERITAS — VERITAS mission
+- Chang'e 8 — Chang'e 8 mission
+- Tianwen-3 — Tianwen-3 mission
+- Artemis 4 — Artemis 4 mission
+- Artemis 5 — Artemis 5 mission
+- Crew-14 — Crew-14 mission | SpaceX Crew-14 | NASA Crew-14
+- Soyuz MS-30 — Soyuz MS-30 mission
+- Shenzhou 24 — Shenzhou 24 mission
+- Ax-5 — Ax-5 mission | Axiom Mission 5 | Axiom-5
+- Starship Flight 15 — Starship Flight 15 mission | Starship Test Flight 15 | Starship Flight Test 15
+- Apollo 4 — Apollo 4 mission
+- Apollo 5 — Apollo 5 mission
+- Apollo 6 — Apollo 6 mission
+- Skylab 2 — Skylab 2 mission
+- Skylab 3 — Skylab 3 mission
+- Skylab 4 — Skylab 4 mission
+- Gemini 1 — Gemini 1 mission
+- Gemini 2 — Gemini 2 mission
+- Gemini 5 — Gemini 5 mission
+- Gemini 6A — Gemini 6 | Gemini 6A mission
+- Gemini 7 — Gemini 7 mission
+- Gemini 9A — Gemini 9 | Gemini 9A mission
+- Gemini 10 — Gemini 10 mission
+- Gemini 11 — Gemini 11 mission
+- Gemini 12 — Gemini 12 mission
+- Vostok 3 — Vostok 3 mission
+- Vostok 4 — Vostok 4 mission
+- Vostok 5 — Vostok 5 mission
+- Soyuz 2 — Soyuz 2 mission
+- Soyuz 3 — Soyuz 3 mission
+- Soyuz 4 — Soyuz 4 mission
+- Soyuz 5 — Soyuz 5 mission
+- Soyuz 6 — Soyuz 6 mission
+- Soyuz 7 — Soyuz 7 mission
+- Soyuz 8 — Soyuz 8 mission
+- Soyuz 9 — Soyuz 9 mission
+- Soyuz 10 — Soyuz 10 mission
+- Soyuz 12 — Soyuz 12 mission
+- Soyuz 13 — Soyuz 13 mission
+- Soyuz 14 — Soyuz 14 mission
+- Soyuz 15 — Soyuz 15 mission
+- Soyuz 16 — Soyuz 16 mission
+- Soyuz 17 — Soyuz 17 mission
+- Soyuz 18 — Soyuz 18 mission
+- Soyuz 19 — Soyuz 19 mission
+- Soyuz 20 — Soyuz 20 mission
+- Soyuz 21 — Soyuz 21 mission
+- Soyuz 22 — Soyuz 22 mission
+- Soyuz 23 — Soyuz 23 mission
+- Soyuz 24 — Soyuz 24 mission
+- Soyuz 25 — Soyuz 25 mission
+- Soyuz 26 — Soyuz 26 mission
+- Soyuz 27 — Soyuz 27 mission
+- Soyuz 28 — Soyuz 28 mission
+- Soyuz 29 — Soyuz 29 mission
+- Soyuz 30 — Soyuz 30 mission
+- Soyuz 31 — Soyuz 31 mission
+- Soyuz 32 — Soyuz 32 mission
+- Soyuz 33 — Soyuz 33 mission
+- Soyuz 34 — Soyuz 34 mission
+- Soyuz 35 — Soyuz 35 mission
+- Soyuz 36 — Soyuz 36 mission
+- Soyuz 37 — Soyuz 37 mission
+- Soyuz 38 — Soyuz 38 mission
+- Soyuz 39 — Soyuz 39 mission
+- Soyuz 40 — Soyuz 40 mission
+- Soyuz 18a — Soyuz 18-1 | Soyuz 18a mission
+- Soyuz T-1 — Soyuz T-1 mission
+- Soyuz T-2 — Soyuz T-2 mission
+- Soyuz T-3 — Soyuz T-3 mission
+- Soyuz T-4 — Soyuz T-4 mission
+- Soyuz T-5 — Soyuz T-5 mission
+- Soyuz T-6 — Soyuz T-6 mission
+- Soyuz T-7 — Soyuz T-7 mission
+- Soyuz T-8 — Soyuz T-8 mission
+- Soyuz T-9 — Soyuz T-9 mission
+- Soyuz T-10 — Soyuz T-10 mission
+- Soyuz T-11 — Soyuz T-11 mission
+- Soyuz T-12 — Soyuz T-12 mission
+- Soyuz T-13 — Soyuz T-13 mission
+- Soyuz T-14 — Soyuz T-14 mission
+- Soyuz T-15 — Soyuz T-15 mission
+- Soyuz T-10-1 — Soyuz T-10a | Soyuz T-10-1 mission
+- Soyuz TM-1 — Soyuz TM-1 mission
+- Soyuz TM-2 — Soyuz TM-2 mission
+- Soyuz TM-3 — Soyuz TM-3 mission
+- Soyuz TM-4 — Soyuz TM-4 mission
+- Soyuz TM-5 — Soyuz TM-5 mission
+- Soyuz TM-6 — Soyuz TM-6 mission
+- Soyuz TM-7 — Soyuz TM-7 mission
+- Soyuz TM-8 — Soyuz TM-8 mission
+- Soyuz TM-9 — Soyuz TM-9 mission
+- Soyuz TM-10 — Soyuz TM-10 mission
+- Soyuz TM-11 — Soyuz TM-11 mission
+- Soyuz TM-12 — Soyuz TM-12 mission
+- Soyuz TM-13 — Soyuz TM-13 mission
+- Soyuz TM-14 — Soyuz TM-14 mission
+- Soyuz TM-15 — Soyuz TM-15 mission
+- Soyuz TM-16 — Soyuz TM-16 mission
+- Soyuz TM-17 — Soyuz TM-17 mission
+- Soyuz TM-18 — Soyuz TM-18 mission
+- Soyuz TM-19 — Soyuz TM-19 mission
+- Soyuz TM-20 — Soyuz TM-20 mission
+- Soyuz TM-21 — Soyuz TM-21 mission
+- Soyuz TM-22 — Soyuz TM-22 mission
+- Soyuz TM-23 — Soyuz TM-23 mission
+- Soyuz TM-24 — Soyuz TM-24 mission
+- Soyuz TM-25 — Soyuz TM-25 mission
+- Soyuz TM-26 — Soyuz TM-26 mission
+- Soyuz TM-27 — Soyuz TM-27 mission
+- Soyuz TM-28 — Soyuz TM-28 mission
+- Soyuz TM-29 — Soyuz TM-29 mission
+- Soyuz TM-30 — Soyuz TM-30 mission
+- Soyuz TM-31 — Soyuz TM-31 mission
+- Soyuz TM-32 — Soyuz TM-32 mission
+- Soyuz TM-33 — Soyuz TM-33 mission
+- Soyuz TM-34 — Soyuz TM-34 mission
+- Soyuz TMA-1 — Soyuz TMA-1 mission
+- Soyuz TMA-2 — Soyuz TMA-2 mission
+- Soyuz TMA-3 — Soyuz TMA-3 mission
+- Soyuz TMA-4 — Soyuz TMA-4 mission
+- Soyuz TMA-5 — Soyuz TMA-5 mission
+- Soyuz TMA-6 — Soyuz TMA-6 mission
+- Soyuz TMA-7 — Soyuz TMA-7 mission
+- Soyuz TMA-8 — Soyuz TMA-8 mission
+- Soyuz TMA-9 — Soyuz TMA-9 mission
+- Soyuz TMA-10 — Soyuz TMA-10 mission
+- Soyuz TMA-11 — Soyuz TMA-11 mission
+- Soyuz TMA-12 — Soyuz TMA-12 mission
+- Soyuz TMA-13 — Soyuz TMA-13 mission
+- Soyuz TMA-14 — Soyuz TMA-14 mission
+- Soyuz TMA-15 — Soyuz TMA-15 mission
+- Soyuz TMA-16 — Soyuz TMA-16 mission
+- Soyuz TMA-17 — Soyuz TMA-17 mission
+- Soyuz TMA-18 — Soyuz TMA-18 mission
+- Soyuz TMA-19 — Soyuz TMA-19 mission
+- Soyuz TMA-20 — Soyuz TMA-20 mission
+- Soyuz TMA-21 — Soyuz TMA-21 mission
+- Soyuz TMA-22 — Soyuz TMA-22 mission
+- Soyuz TMA-01M — Soyuz TMA-1M | Soyuz TMA-01M mission
+- Soyuz TMA-02M — Soyuz TMA-2M | Soyuz TMA-02M mission
+- Soyuz TMA-03M — Soyuz TMA-3M | Soyuz TMA-03M mission
+- Soyuz TMA-04M — Soyuz TMA-4M | Soyuz TMA-04M mission
+- Soyuz TMA-05M — Soyuz TMA-5M | Soyuz TMA-05M mission
+- Soyuz TMA-06M — Soyuz TMA-6M | Soyuz TMA-06M mission
+- Soyuz TMA-07M — Soyuz TMA-7M | Soyuz TMA-07M mission
+- Soyuz TMA-08M — Soyuz TMA-8M | Soyuz TMA-08M mission
+- Soyuz TMA-09M — Soyuz TMA-9M | Soyuz TMA-09M mission
+- Soyuz TMA-10M — Soyuz TMA-10M mission
+- Soyuz TMA-11M — Soyuz TMA-11M mission
+- Soyuz TMA-12M — Soyuz TMA-12M mission
+- Soyuz TMA-13M — Soyuz TMA-13M mission
+- Soyuz TMA-14M — Soyuz TMA-14M mission
+- Soyuz TMA-15M — Soyuz TMA-15M mission
+- Soyuz TMA-16M — Soyuz TMA-16M mission
+- Soyuz TMA-17M — Soyuz TMA-17M mission
+- Soyuz TMA-18M — Soyuz TMA-18M mission
+- Soyuz TMA-19M — Soyuz TMA-19M mission
+- Soyuz TMA-20M — Soyuz TMA-20M mission
+- Soyuz MS-01 — Soyuz MS-1 | Soyuz MS-01 mission
+- Soyuz MS-02 — Soyuz MS-2 | Soyuz MS-02 mission
+- Soyuz MS-03 — Soyuz MS-3 | Soyuz MS-03 mission
+- Soyuz MS-04 — Soyuz MS-4 | Soyuz MS-04 mission
+- Soyuz MS-05 — Soyuz MS-5 | Soyuz MS-05 mission
+- Soyuz MS-06 — Soyuz MS-6 | Soyuz MS-06 mission
+- Soyuz MS-07 — Soyuz MS-7 | Soyuz MS-07 mission
+- Soyuz MS-08 — Soyuz MS-8 | Soyuz MS-08 mission
+- Soyuz MS-09 — Soyuz MS-9 | Soyuz MS-09 mission
+- Soyuz MS-10 — Soyuz MS-10 mission
+- Soyuz MS-11 — Soyuz MS-11 mission
+- Soyuz MS-12 — Soyuz MS-12 mission
+- Soyuz MS-13 — Soyuz MS-13 mission
+- Soyuz MS-14 — Soyuz MS-14 mission
+- Soyuz MS-15 — Soyuz MS-15 mission
+- Soyuz MS-16 — Soyuz MS-16 mission
+- Soyuz MS-17 — Soyuz MS-17 mission
+- Soyuz MS-18 — Soyuz MS-18 mission
+- Soyuz MS-19 — Soyuz MS-19 mission
+- Soyuz MS-20 — Soyuz MS-20 mission
+- Soyuz MS-21 — Soyuz MS-21 mission
+- Soyuz MS-22 — Soyuz MS-22 mission
+- Soyuz MS-23 — Soyuz MS-23 mission
+- Soyuz MS-24 — Soyuz MS-24 mission
+- Soyuz MS-25 — Soyuz MS-25 mission
+- Soyuz MS-26 — Soyuz MS-26 mission
+- Soyuz MS-27 — Soyuz MS-27 mission
+- Soyuz MS-28 — Soyuz MS-28 mission
+- Soyuz MS-29 — Soyuz MS-29 mission
+- Progress 1 — Progress 1 mission
+- Progress 2 — Progress 2 mission
+- Progress 3 — Progress 3 mission
+- Progress 4 — Progress 4 mission
+- Progress 5 — Progress 5 mission
+- Progress 6 — Progress 6 mission
+- Progress 7 — Progress 7 mission
+- Progress 8 — Progress 8 mission
+- Progress 9 — Progress 9 mission
+- Progress 10 — Progress 10 mission
+- Progress 11 — Progress 11 mission
+- Progress 12 — Progress 12 mission
+- Progress 13 — Progress 13 mission
+- Progress 14 — Progress 14 mission
+- Progress 15 — Progress 15 mission
+- Progress 16 — Progress 16 mission
+- Progress 17 — Progress 17 mission
+- Progress 18 — Progress 18 mission
+- Progress 19 — Progress 19 mission
+- Progress 20 — Progress 20 mission
+- Progress 21 — Progress 21 mission
+- Progress 22 — Progress 22 mission
+- Progress 23 — Progress 23 mission
+- Progress 24 — Progress 24 mission
+- Progress 25 — Progress 25 mission
+- Progress 26 — Progress 26 mission
+- Progress 27 — Progress 27 mission
+- Progress 28 — Progress 28 mission
+- Progress 29 — Progress 29 mission
+- Progress 30 — Progress 30 mission
+- Progress 31 — Progress 31 mission
+- Progress 32 — Progress 32 mission
+- Progress 33 — Progress 33 mission
+- Progress 34 — Progress 34 mission
+- Progress 35 — Progress 35 mission
+- Progress 36 — Progress 36 mission
+- Progress 37 — Progress 37 mission
+- Progress 38 — Progress 38 mission
+- Progress 39 — Progress 39 mission
+- Progress 40 — Progress 40 mission
+- Progress 41 — Progress 41 mission
+- Progress 42 — Progress 42 mission
+- Progress M-1 — Progress M-1 mission
+- Progress M-2 — Progress M-2 mission
+- Progress M-3 — Progress M-3 mission
+- Progress M-4 — Progress M-4 mission
+- Progress M-5 — Progress M-5 mission
+- Progress M-6 — Progress M-6 mission
+- Progress M-7 — Progress M-7 mission
+- Progress M-8 — Progress M-8 mission
+- Progress M-9 — Progress M-9 mission
+- Progress M-10 — Progress M-10 mission
+- Progress M-11 — Progress M-11 mission
+- Progress M-12 — Progress M-12 mission
+- Progress M-13 — Progress M-13 mission
+- Progress M-14 — Progress M-14 mission
+- Progress M-15 — Progress M-15 mission
+- Progress M-16 — Progress M-16 mission
+- Progress M-17 — Progress M-17 mission
+- Progress M-18 — Progress M-18 mission
+- Progress M-19 — Progress M-19 mission
+- Progress M-20 — Progress M-20 mission
+- Progress M-21 — Progress M-21 mission
+- Progress M-22 — Progress M-22 mission
+- Progress M-23 — Progress M-23 mission
+- Progress M-24 — Progress M-24 mission
+- Progress M-25 — Progress M-25 mission
+- Progress M-26 — Progress M-26 mission
+- Progress M-27 — Progress M-27 mission
+- Progress M-28 — Progress M-28 mission
+- Progress M-29 — Progress M-29 mission
+- Progress M-30 — Progress M-30 mission
+- Progress M-31 — Progress M-31 mission
+- Progress M-32 — Progress M-32 mission
+- Progress M-33 — Progress M-33 mission
+- Progress M-34 — Progress M-34 mission
+- Progress M-35 — Progress M-35 mission
+- Progress M-36 — Progress M-36 mission
+- Progress M-37 — Progress M-37 mission
+- Progress M-38 — Progress M-38 mission
+- Progress M-39 — Progress M-39 mission
+- Progress M-40 — Progress M-40 mission
+- Progress M-41 — Progress M-41 mission
+- Progress M-42 — Progress M-42 mission
+- Progress M-43 — Progress M-43 mission
+- Progress M-44 — Progress M-44 mission
+- Progress M-45 — Progress M-45 mission
+- Progress M-46 — Progress M-46 mission
+- Progress M-47 — Progress M-47 mission
+- Progress M-48 — Progress M-48 mission
+- Progress M-49 — Progress M-49 mission
+- Progress M-50 — Progress M-50 mission
+- Progress M-51 — Progress M-51 mission
+- Progress M-52 — Progress M-52 mission
+- Progress M-53 — Progress M-53 mission
+- Progress M-54 — Progress M-54 mission
+- Progress M-55 — Progress M-55 mission
+- Progress M-56 — Progress M-56 mission
+- Progress M-57 — Progress M-57 mission
+- Progress M-58 — Progress M-58 mission
+- Progress M-59 — Progress M-59 mission
+- Progress M-60 — Progress M-60 mission
+- Progress M-61 — Progress M-61 mission
+- Progress M-62 — Progress M-62 mission
+- Progress M-63 — Progress M-63 mission
+- Progress M-64 — Progress M-64 mission
+- Progress M-65 — Progress M-65 mission
+- Progress M-66 — Progress M-66 mission
+- Progress M-67 — Progress M-67 mission
+- Progress M1-10 — Progress M1-10 mission
+- Progress M1-11 — Progress M1-11 mission
+- Progress M-01M — Progress M-1M | Progress M-01M mission
+- Progress M-02M — Progress M-2M | Progress M-02M mission
+- Progress M-03M — Progress M-3M | Progress M-03M mission
+- Progress M-04M — Progress M-4M | Progress M-04M mission
+- Progress M-05M — Progress M-5M | Progress M-05M mission
+- Progress M-06M — Progress M-6M | Progress M-06M mission
+- Progress M-07M — Progress M-7M | Progress M-07M mission
+- Progress M-08M — Progress M-8M | Progress M-08M mission
+- Progress M-09M — Progress M-9M | Progress M-09M mission
+- Progress M-10M — Progress M-10M mission
+- Progress M-11M — Progress M-11M mission
+- Progress M-12M — Progress M-12M mission
+- Progress M-13M — Progress M-13M mission
+- Progress M-14M — Progress M-14M mission
+- Progress M-15M — Progress M-15M mission
+- Progress M-16M — Progress M-16M mission
+- Progress M-17M — Progress M-17M mission
+- Progress M-18M — Progress M-18M mission
+- Progress M-19M — Progress M-19M mission
+- Progress M-20M — Progress M-20M mission
+- Progress M-21M — Progress M-21M mission
+- Progress M-22M — Progress M-22M mission
+- Progress M-23M — Progress M-23M mission
+- Progress M-24M — Progress M-24M mission
+- Progress M-25M — Progress M-25M mission
+- Progress M-26M — Progress M-26M mission
+- Progress M-27M — Progress M-27M mission
+- Progress M-28M — Progress M-28M mission
+- Progress M-29M — Progress M-29M mission
+- Progress MS-01 — Progress MS-1 | Progress MS-01 mission
+- Progress MS-02 — Progress MS-2 | Progress MS-02 mission
+- Progress MS-03 — Progress MS-3 | Progress MS-03 mission
+- Progress MS-04 — Progress MS-4 | Progress MS-04 mission
+- Progress MS-05 — Progress MS-5 | Progress MS-05 mission
+- Progress MS-06 — Progress MS-6 | Progress MS-06 mission
+- Progress MS-07 — Progress MS-7 | Progress MS-07 mission
+- Progress MS-08 — Progress MS-8 | Progress MS-08 mission
+- Progress MS-09 — Progress MS-9 | Progress MS-09 mission
+- Progress MS-10 — Progress MS-10 mission
+- Progress MS-11 — Progress MS-11 mission
+- Progress MS-12 — Progress MS-12 mission
+- Progress MS-13 — Progress MS-13 mission
+- Progress MS-14 — Progress MS-14 mission
+- Progress MS-15 — Progress MS-15 mission
+- Progress MS-16 — Progress MS-16 mission
+- Progress MS-17 — Progress MS-17 mission
+- Progress MS-18 — Progress MS-18 mission
+- Progress MS-19 — Progress MS-19 mission
+- Progress MS-20 — Progress MS-20 mission
+- Progress MS-21 — Progress MS-21 mission
+- Progress MS-22 — Progress MS-22 mission
+- Progress MS-23 — Progress MS-23 mission
+- Progress MS-24 — Progress MS-24 mission
+- Progress MS-25 — Progress MS-25 mission
+- Progress MS-26 — Progress MS-26 mission
+- Progress MS-27 — Progress MS-27 mission
+- Progress MS-28 — Progress MS-28 mission
+- Progress MS-29 — Progress MS-29 mission
+- Progress MS-30 — Progress MS-30 mission
+- Progress MS-31 — Progress MS-31 mission
+- Progress MS-32 — Progress MS-32 mission
+- Progress MS-33 — Progress MS-33 mission
+- Progress MS-34 — Progress MS-34 mission
+- Progress MS-35 — Progress MS-35 mission
+- Shenzhou 1 — Shenzhou 1 mission
+- Shenzhou 2 — Shenzhou 2 mission
+- Shenzhou 3 — Shenzhou 3 mission
+- Shenzhou 4 — Shenzhou 4 mission
+- Shenzhou 6 — Shenzhou 6 mission
+- Shenzhou 7 — Shenzhou 7 mission
+- Shenzhou 8 — Shenzhou 8 mission
+- Shenzhou 9 — Shenzhou 9 mission
+- Shenzhou 10 — Shenzhou 10 mission
+- Shenzhou 11 — Shenzhou 11 mission
+- Shenzhou 12 — Shenzhou 12 mission
+- Shenzhou 13 — Shenzhou 13 mission
+- Shenzhou 14 — Shenzhou 14 mission
+- Shenzhou 15 — Shenzhou 15 mission
+- Shenzhou 16 — Shenzhou 16 mission
+- Shenzhou 17 — Shenzhou 17 mission
+- Shenzhou 18 — Shenzhou 18 mission
+- Shenzhou 19 — Shenzhou 19 mission
+- Shenzhou 20 — Shenzhou 20 mission
+- Shenzhou 21 — Shenzhou 21 mission
+- Shenzhou 22 — Shenzhou 22 mission
+- Shenzhou 23 — Shenzhou 23 mission
+- Tianzhou 1 — Tianzhou 1 mission
+- Tianzhou 2 — Tianzhou 2 mission
+- Tianzhou 3 — Tianzhou 3 mission
+- Tianzhou 4 — Tianzhou 4 mission
+- Tianzhou 5 — Tianzhou 5 mission
+- Tianzhou 6 — Tianzhou 6 mission
+- Tianzhou 7 — Tianzhou 7 mission
+- Tianzhou 8 — Tianzhou 8 mission
+- Tianzhou 9 — Tianzhou 9 mission
+- Tianzhou 10 — Tianzhou 10 mission
+- STS-2 — STS-2 mission
+- STS-3 — STS-3 mission
+- STS-4 — STS-4 mission
+- STS-5 — STS-5 mission
+- STS-6 — STS-6 mission
+- STS-7 — STS-7 mission
+- STS-8 — STS-8 mission
+- STS-9 — STS-9 mission
+- STS-41-B — STS-41-B mission
+- STS-41-C — STS-41-C mission
+- STS-41-D — STS-41-D mission
+- STS-41-G — STS-41-G mission
+- STS-51-A — STS-51-A mission
+- STS-51-C — STS-51-C mission
+- STS-51-D — STS-51-D mission
+- STS-51-B — STS-51-B mission
+- STS-51-G — STS-51-G mission
+- STS-51-F — STS-51-F mission
+- STS-51-I — STS-51-I mission
+- STS-51-J — STS-51-J mission
+- STS-61-A — STS-61-A mission
+- STS-61-B — STS-61-B mission
+- STS-61-C — STS-61-C mission
+- STS-26 — STS-26 mission
+- STS-27 — STS-27 mission
+- STS-28 — STS-28 mission
+- STS-29 — STS-29 mission
+- STS-30 — STS-30 mission
+- STS-31 — STS-31 mission
+- STS-32 — STS-32 mission
+- STS-33 — STS-33 mission
+- STS-34 — STS-34 mission
+- STS-35 — STS-35 mission
+- STS-36 — STS-36 mission
+- STS-37 — STS-37 mission
+- STS-38 — STS-38 mission
+- STS-39 — STS-39 mission
+- STS-40 — STS-40 mission
+- STS-41 — STS-41 mission
+- STS-42 — STS-42 mission
+- STS-43 — STS-43 mission
+- STS-44 — STS-44 mission
+- STS-45 — STS-45 mission
+- STS-46 — STS-46 mission
+- STS-47 — STS-47 mission
+- STS-48 — STS-48 mission
+- STS-49 — STS-49 mission
+- STS-50 — STS-50 mission
+- STS-51 — STS-51 mission
+- STS-52 — STS-52 mission
+- STS-53 — STS-53 mission
+- STS-54 — STS-54 mission
+- STS-55 — STS-55 mission
+- STS-56 — STS-56 mission
+- STS-57 — STS-57 mission
+- STS-58 — STS-58 mission
+- STS-59 — STS-59 mission
+- STS-60 — STS-60 mission
+- STS-61 — STS-61 mission
+- STS-62 — STS-62 mission
+- STS-63 — STS-63 mission
+- STS-64 — STS-64 mission
+- STS-65 — STS-65 mission
+- STS-66 — STS-66 mission
+- STS-67 — STS-67 mission
+- STS-68 — STS-68 mission
+- STS-69 — STS-69 mission
+- STS-70 — STS-70 mission
+- STS-71 — STS-71 mission
+- STS-72 — STS-72 mission
+- STS-73 — STS-73 mission
+- STS-74 — STS-74 mission
+- STS-75 — STS-75 mission
+- STS-76 — STS-76 mission
+- STS-77 — STS-77 mission
+- STS-78 — STS-78 mission
+- STS-79 — STS-79 mission
+- STS-80 — STS-80 mission
+- STS-81 — STS-81 mission
+- STS-82 — STS-82 mission
+- STS-83 — STS-83 mission
+- STS-84 — STS-84 mission
+- STS-85 — STS-85 mission
+- STS-86 — STS-86 mission
+- STS-87 — STS-87 mission
+- STS-88 — STS-88 mission
+- STS-89 — STS-89 mission
+- STS-90 — STS-90 mission
+- STS-91 — STS-91 mission
+- STS-92 — STS-92 mission
+- STS-93 — STS-93 mission
+- STS-94 — STS-94 mission
+- STS-95 — STS-95 mission
+- STS-96 — STS-96 mission
+- STS-97 — STS-97 mission
+- STS-98 — STS-98 mission
+- STS-99 — STS-99 mission
+- STS-100 — STS-100 mission
+- STS-101 — STS-101 mission
+- STS-102 — STS-102 mission
+- STS-103 — STS-103 mission
+- STS-104 — STS-104 mission
+- STS-105 — STS-105 mission
+- STS-106 — STS-106 mission
+- STS-108 — STS-108 mission
+- STS-109 — STS-109 mission
+- STS-110 — STS-110 mission
+- STS-111 — STS-111 mission
+- STS-112 — STS-112 mission
+- STS-113 — STS-113 mission
+- STS-114 — STS-114 mission
+- STS-115 — STS-115 mission
+- STS-116 — STS-116 mission
+- STS-117 — STS-117 mission
+- STS-118 — STS-118 mission
+- STS-119 — STS-119 mission
+- STS-120 — STS-120 mission
+- STS-121 — STS-121 mission
+- STS-122 — STS-122 mission
+- STS-123 — STS-123 mission
+- STS-124 — STS-124 mission
+- STS-125 — STS-125 mission
+- STS-126 — STS-126 mission
+- STS-127 — STS-127 mission
+- STS-128 — STS-128 mission
+- STS-129 — STS-129 mission
+- STS-130 — STS-130 mission
+- STS-131 — STS-131 mission
+- STS-132 — STS-132 mission
+- STS-133 — STS-133 mission
+- STS-134 — STS-134 mission
+- Crew-2 — SpaceX Crew-2 | NASA Crew-2 | Crew-2 mission
+- Crew-3 — SpaceX Crew-3 | NASA Crew-3 | Crew-3 mission
+- Crew-4 — SpaceX Crew-4 | NASA Crew-4 | Crew-4 mission
+- Crew-5 — SpaceX Crew-5 | NASA Crew-5 | Crew-5 mission
+- Crew-6 — SpaceX Crew-6 | NASA Crew-6 | Crew-6 mission
+- Crew-7 — SpaceX Crew-7 | NASA Crew-7 | Crew-7 mission
+- Crew-8 — SpaceX Crew-8 | NASA Crew-8 | Crew-8 mission
+- Crew-9 — SpaceX Crew-9 | NASA Crew-9 | Crew-9 mission
+- Crew-10 — SpaceX Crew-10 | NASA Crew-10 | Crew-10 mission
+- Crew-11 — SpaceX Crew-11 | NASA Crew-11 | Crew-11 mission
+- Crew-12 — SpaceX Crew-12 | NASA Crew-12 | Crew-12 mission
+- Crew-13 — SpaceX Crew-13 | NASA Crew-13 | Crew-13 mission
+- Ax-1 — Axiom Mission 1 | Axiom-1 | Ax-1 mission
+- Ax-2 — Axiom Mission 2 | Axiom-2 | Ax-2 mission
+- Ax-3 — Axiom Mission 3 | Axiom-3 | Ax-3 mission
+- Ax-4 — Axiom Mission 4 | Axiom-4 | Ax-4 mission
+- SpaceX CRS-1 — CRS-1 | SpX-1 | Dragon CRS-1 | SpaceX CRS-1 mission
+- SpaceX CRS-2 — CRS-2 | SpX-2 | Dragon CRS-2 | SpaceX CRS-2 mission
+- SpaceX CRS-3 — CRS-3 | SpX-3 | Dragon CRS-3 | SpaceX CRS-3 mission
+- SpaceX CRS-4 — CRS-4 | SpX-4 | Dragon CRS-4 | SpaceX CRS-4 mission
+- SpaceX CRS-5 — CRS-5 | SpX-5 | Dragon CRS-5 | SpaceX CRS-5 mission
+- SpaceX CRS-6 — CRS-6 | SpX-6 | Dragon CRS-6 | SpaceX CRS-6 mission
+- SpaceX CRS-7 — CRS-7 | SpX-7 | Dragon CRS-7 | SpaceX CRS-7 mission
+- SpaceX CRS-8 — CRS-8 | SpX-8 | Dragon CRS-8 | SpaceX CRS-8 mission
+- SpaceX CRS-9 — CRS-9 | SpX-9 | Dragon CRS-9 | SpaceX CRS-9 mission
+- SpaceX CRS-10 — CRS-10 | SpX-10 | Dragon CRS-10 | SpaceX CRS-10 mission
+- SpaceX CRS-11 — CRS-11 | SpX-11 | Dragon CRS-11 | SpaceX CRS-11 mission
+- SpaceX CRS-12 — CRS-12 | SpX-12 | Dragon CRS-12 | SpaceX CRS-12 mission
+- SpaceX CRS-13 — CRS-13 | SpX-13 | Dragon CRS-13 | SpaceX CRS-13 mission
+- SpaceX CRS-14 — CRS-14 | SpX-14 | Dragon CRS-14 | SpaceX CRS-14 mission
+- SpaceX CRS-15 — CRS-15 | SpX-15 | Dragon CRS-15 | SpaceX CRS-15 mission
+- SpaceX CRS-16 — CRS-16 | SpX-16 | Dragon CRS-16 | SpaceX CRS-16 mission
+- SpaceX CRS-17 — CRS-17 | SpX-17 | Dragon CRS-17 | SpaceX CRS-17 mission
+- SpaceX CRS-18 — CRS-18 | SpX-18 | Dragon CRS-18 | SpaceX CRS-18 mission
+- SpaceX CRS-19 — CRS-19 | SpX-19 | Dragon CRS-19 | SpaceX CRS-19 mission
+- SpaceX CRS-20 — CRS-20 | SpX-20 | Dragon CRS-20 | SpaceX CRS-20 mission
+- SpaceX CRS-21 — CRS-21 | SpX-21 | Dragon CRS-21 | SpaceX CRS-21 mission
+- SpaceX CRS-22 — CRS-22 | SpX-22 | Dragon CRS-22 | SpaceX CRS-22 mission
+- SpaceX CRS-23 — CRS-23 | SpX-23 | Dragon CRS-23 | SpaceX CRS-23 mission
+- SpaceX CRS-24 — CRS-24 | SpX-24 | Dragon CRS-24 | SpaceX CRS-24 mission
+- SpaceX CRS-25 — CRS-25 | SpX-25 | Dragon CRS-25 | SpaceX CRS-25 mission
+- SpaceX CRS-26 — CRS-26 | SpX-26 | Dragon CRS-26 | SpaceX CRS-26 mission
+- SpaceX CRS-27 — CRS-27 | SpX-27 | Dragon CRS-27 | SpaceX CRS-27 mission
+- SpaceX CRS-28 — CRS-28 | SpX-28 | Dragon CRS-28 | SpaceX CRS-28 mission
+- SpaceX CRS-29 — CRS-29 | SpX-29 | Dragon CRS-29 | SpaceX CRS-29 mission
+- SpaceX CRS-30 — CRS-30 | SpX-30 | Dragon CRS-30 | SpaceX CRS-30 mission
+- SpaceX CRS-31 — CRS-31 | SpX-31 | Dragon CRS-31 | SpaceX CRS-31 mission
+- SpaceX CRS-32 — CRS-32 | SpX-32 | Dragon CRS-32 | SpaceX CRS-32 mission
+- SpaceX CRS-33 — CRS-33 | SpX-33 | Dragon CRS-33 | SpaceX CRS-33 mission
+- SpaceX CRS-34 — CRS-34 | SpX-34 | Dragon CRS-34 | SpaceX CRS-34 mission
+- Cygnus NG-10 — NG-10 | Cygnus NG-10 mission
+- Cygnus NG-11 — NG-11 | Cygnus NG-11 mission
+- Cygnus NG-12 — NG-12 | Cygnus NG-12 mission
+- Cygnus NG-13 — NG-13 | Cygnus NG-13 mission
+- Cygnus NG-14 — NG-14 | Cygnus NG-14 mission
+- Cygnus NG-15 — NG-15 | Cygnus NG-15 mission
+- Cygnus NG-16 — NG-16 | Cygnus NG-16 mission
+- Cygnus NG-17 — NG-17 | Cygnus NG-17 mission
+- Cygnus NG-18 — NG-18 | Cygnus NG-18 mission
+- Cygnus NG-19 — NG-19 | Cygnus NG-19 mission
+- Cygnus NG-20 — NG-20 | Cygnus NG-20 mission
+- Cygnus NG-21 — NG-21 | Cygnus NG-21 mission
+- Cygnus NG-23 — NG-23 | Cygnus NG-23 mission
+- Cygnus NG-24 — NG-24 | Cygnus NG-24 mission
+- Cygnus Orb-D1 — Orb-D1 | Cygnus Orb-D1 mission
+- Cygnus Orb-1 — Orb-1 | Cygnus Orb-1 mission
+- Cygnus Orb-2 — Orb-2 | Cygnus Orb-2 mission
+- Cygnus Orb-3 — Orb-3 | Cygnus Orb-3 mission
+- Cygnus OA-4 — OA-4 | Cygnus OA-4 mission
+- Cygnus OA-5 — OA-5 | Cygnus OA-5 mission
+- Cygnus OA-6 — OA-6 | Cygnus OA-6 mission
+- Cygnus OA-7 — OA-7 | Cygnus OA-7 mission
+- Cygnus OA-8E — OA-8E | Cygnus OA-8E mission
+- Cygnus OA-9E — OA-9E | Cygnus OA-9E mission
+- HTV-1 — Kounotori 1 | HTV-1 mission
+- HTV-2 — Kounotori 2 | HTV-2 mission
+- HTV-3 — Kounotori 3 | HTV-3 mission
+- HTV-4 — Kounotori 4 | HTV-4 mission
+- HTV-5 — Kounotori 5 | HTV-5 mission
+- HTV-6 — Kounotori 6 | HTV-6 mission
+- HTV-7 — Kounotori 7 | HTV-7 mission
+- HTV-8 — Kounotori 8 | HTV-8 mission
+- HTV-9 — Kounotori 9 | HTV-9 mission
+- NS-1 — New Shepard NS-1 | Blue Origin NS-1 | NS-1 mission
+- NS-2 — New Shepard NS-2 | Blue Origin NS-2 | NS-2 mission
+- NS-3 — New Shepard NS-3 | Blue Origin NS-3 | NS-3 mission
+- NS-4 — New Shepard NS-4 | Blue Origin NS-4 | NS-4 mission
+- NS-5 — New Shepard NS-5 | Blue Origin NS-5 | NS-5 mission
+- NS-6 — New Shepard NS-6 | Blue Origin NS-6 | NS-6 mission
+- NS-7 — New Shepard NS-7 | Blue Origin NS-7 | NS-7 mission
+- NS-8 — New Shepard NS-8 | Blue Origin NS-8 | NS-8 mission
+- NS-9 — New Shepard NS-9 | Blue Origin NS-9 | NS-9 mission
+- NS-10 — New Shepard NS-10 | Blue Origin NS-10 | NS-10 mission
+- NS-11 — New Shepard NS-11 | Blue Origin NS-11 | NS-11 mission
+- NS-12 — New Shepard NS-12 | Blue Origin NS-12 | NS-12 mission
+- NS-13 — New Shepard NS-13 | Blue Origin NS-13 | NS-13 mission
+- NS-14 — New Shepard NS-14 | Blue Origin NS-14 | NS-14 mission
+- NS-15 — New Shepard NS-15 | Blue Origin NS-15 | NS-15 mission
+- NS-17 — New Shepard NS-17 | Blue Origin NS-17 | NS-17 mission
+- NS-18 — New Shepard NS-18 | Blue Origin NS-18 | NS-18 mission
+- NS-19 — New Shepard NS-19 | Blue Origin NS-19 | NS-19 mission
+- NS-20 — New Shepard NS-20 | Blue Origin NS-20 | NS-20 mission
+- NS-21 — New Shepard NS-21 | Blue Origin NS-21 | NS-21 mission
+- NS-22 — New Shepard NS-22 | Blue Origin NS-22 | NS-22 mission
+- NS-23 — New Shepard NS-23 | Blue Origin NS-23 | NS-23 mission
+- NS-24 — New Shepard NS-24 | Blue Origin NS-24 | NS-24 mission
+- NS-25 — New Shepard NS-25 | Blue Origin NS-25 | NS-25 mission
+- NS-26 — New Shepard NS-26 | Blue Origin NS-26 | NS-26 mission
+- NS-27 — New Shepard NS-27 | Blue Origin NS-27 | NS-27 mission
+- NS-28 — New Shepard NS-28 | Blue Origin NS-28 | NS-28 mission
+- NS-29 — New Shepard NS-29 | Blue Origin NS-29 | NS-29 mission
+- NS-30 — New Shepard NS-30 | Blue Origin NS-30 | NS-30 mission
+- NS-32 — New Shepard NS-32 | Blue Origin NS-32 | NS-32 mission
+- NS-33 — New Shepard NS-33 | Blue Origin NS-33 | NS-33 mission
+- NS-34 — New Shepard NS-34 | Blue Origin NS-34 | NS-34 mission
+- NS-35 — New Shepard NS-35 | Blue Origin NS-35 | NS-35 mission
+- NS-36 — New Shepard NS-36 | Blue Origin NS-36 | NS-36 mission
+- NS-37 — New Shepard NS-37 | Blue Origin NS-37 | NS-37 mission
+- NS-38 — New Shepard NS-38 | Blue Origin NS-38 | NS-38 mission
+- Galactic 01 — Galactic 1 | Galactic 01 mission
+- Galactic 02 — Galactic 2 | Galactic 02 mission
+- Galactic 03 — Galactic 3 | Galactic 03 mission
+- Galactic 04 — Galactic 4 | Galactic 04 mission
+- Galactic 05 — Galactic 5 | Galactic 05 mission
+- Galactic 06 — Galactic 6 | Galactic 06 mission
+- Galactic 07 — Galactic 7 | Galactic 07 mission
+- Starship Flight 1 — Starship Test Flight 1 | Starship Flight Test 1 | IFT-1 | Starship IFT-1 | Integrated Flight Test 1 | Starship Flight 1 mission
+- Starship Flight 2 — Starship Test Flight 2 | Starship Flight Test 2 | IFT-2 | Starship IFT-2 | Integrated Flight Test 2 | Starship Flight 2 mission
+- Starship Flight 3 — Starship Test Flight 3 | Starship Flight Test 3 | IFT-3 | Starship IFT-3 | Integrated Flight Test 3 | Starship Flight 3 mission
+- Starship Flight 4 — Starship Test Flight 4 | Starship Flight Test 4 | IFT-4 | Starship IFT-4 | Integrated Flight Test 4 | Starship Flight 4 mission
+- Starship Flight 5 — Starship Test Flight 5 | Starship Flight Test 5 | IFT-5 | Starship IFT-5 | Integrated Flight Test 5 | Starship Flight 5 mission
+- Starship Flight 6 — Starship Test Flight 6 | Starship Flight Test 6 | IFT-6 | Starship IFT-6 | Integrated Flight Test 6 | Starship Flight 6 mission
+- Starship Flight 7 — Starship Test Flight 7 | Starship Flight Test 7 | Starship Flight 7 mission
+- Starship Flight 8 — Starship Test Flight 8 | Starship Flight Test 8 | Starship Flight 8 mission
+- Starship Flight 9 — Starship Test Flight 9 | Starship Flight Test 9 | Starship Flight 9 mission
+- Starship Flight 10 — Starship Test Flight 10 | Starship Flight Test 10 | Starship Flight 10 mission
+- Starship Flight 11 — Starship Test Flight 11 | Starship Flight Test 11 | Starship Flight 11 mission
+- Starship Flight 12 — Starship Test Flight 12 | Starship Flight Test 12 | Starship Flight 12 mission
+- Starship Flight 13 — Starship Test Flight 13 | Starship Flight Test 13 | Starship Flight 13 mission
+- Starship Flight 14 — Starship Test Flight 14 | Starship Flight Test 14 | Starship Flight 14 mission
+- Expedition 1 — ISS Expedition 1 | Expedition 1 mission
+- Expedition 2 — ISS Expedition 2 | Expedition 2 mission
+- Expedition 3 — ISS Expedition 3 | Expedition 3 mission
+- Expedition 4 — ISS Expedition 4 | Expedition 4 mission
+- Expedition 5 — ISS Expedition 5 | Expedition 5 mission
+- Expedition 6 — ISS Expedition 6 | Expedition 6 mission
+- Expedition 7 — ISS Expedition 7 | Expedition 7 mission
+- Expedition 8 — ISS Expedition 8 | Expedition 8 mission
+- Expedition 9 — ISS Expedition 9 | Expedition 9 mission
+- Expedition 10 — ISS Expedition 10 | Expedition 10 mission
+- Expedition 11 — ISS Expedition 11 | Expedition 11 mission
+- Expedition 12 — ISS Expedition 12 | Expedition 12 mission
+- Expedition 13 — ISS Expedition 13 | Expedition 13 mission
+- Expedition 14 — ISS Expedition 14 | Expedition 14 mission
+- Expedition 15 — ISS Expedition 15 | Expedition 15 mission
+- Expedition 16 — ISS Expedition 16 | Expedition 16 mission
+- Expedition 17 — ISS Expedition 17 | Expedition 17 mission
+- Expedition 18 — ISS Expedition 18 | Expedition 18 mission
+- Expedition 19 — ISS Expedition 19 | Expedition 19 mission
+- Expedition 20 — ISS Expedition 20 | Expedition 20 mission
+- Expedition 21 — ISS Expedition 21 | Expedition 21 mission
+- Expedition 22 — ISS Expedition 22 | Expedition 22 mission
+- Expedition 23 — ISS Expedition 23 | Expedition 23 mission
+- Expedition 24 — ISS Expedition 24 | Expedition 24 mission
+- Expedition 25 — ISS Expedition 25 | Expedition 25 mission
+- Expedition 26 — ISS Expedition 26 | Expedition 26 mission
+- Expedition 27 — ISS Expedition 27 | Expedition 27 mission
+- Expedition 28 — ISS Expedition 28 | Expedition 28 mission
+- Expedition 29 — ISS Expedition 29 | Expedition 29 mission
+- Expedition 30 — ISS Expedition 30 | Expedition 30 mission
+- Expedition 31 — ISS Expedition 31 | Expedition 31 mission
+- Expedition 32 — ISS Expedition 32 | Expedition 32 mission
+- Expedition 33 — ISS Expedition 33 | Expedition 33 mission
+- Expedition 34 — ISS Expedition 34 | Expedition 34 mission
+- Expedition 35 — ISS Expedition 35 | Expedition 35 mission
+- Expedition 36 — ISS Expedition 36 | Expedition 36 mission
+- Expedition 37 — ISS Expedition 37 | Expedition 37 mission
+- Expedition 38 — ISS Expedition 38 | Expedition 38 mission
+- Expedition 39 — ISS Expedition 39 | Expedition 39 mission
+- Expedition 40 — ISS Expedition 40 | Expedition 40 mission
+- Expedition 41 — ISS Expedition 41 | Expedition 41 mission
+- Expedition 42 — ISS Expedition 42 | Expedition 42 mission
+- Expedition 43 — ISS Expedition 43 | Expedition 43 mission
+- Expedition 44 — ISS Expedition 44 | Expedition 44 mission
+- Expedition 45 — ISS Expedition 45 | Expedition 45 mission
+- Expedition 46 — ISS Expedition 46 | Expedition 46 mission
+- Expedition 47 — ISS Expedition 47 | Expedition 47 mission
+- Expedition 48 — ISS Expedition 48 | Expedition 48 mission
+- Expedition 49 — ISS Expedition 49 | Expedition 49 mission
+- Expedition 50 — ISS Expedition 50 | Expedition 50 mission
+- Expedition 51 — ISS Expedition 51 | Expedition 51 mission
+- Expedition 52 — ISS Expedition 52 | Expedition 52 mission
+- Expedition 53 — ISS Expedition 53 | Expedition 53 mission
+- Expedition 54 — ISS Expedition 54 | Expedition 54 mission
+- Expedition 55 — ISS Expedition 55 | Expedition 55 mission
+- Expedition 56 — ISS Expedition 56 | Expedition 56 mission
+- Expedition 57 — ISS Expedition 57 | Expedition 57 mission
+- Expedition 58 — ISS Expedition 58 | Expedition 58 mission
+- Expedition 59 — ISS Expedition 59 | Expedition 59 mission
+- Expedition 60 — ISS Expedition 60 | Expedition 60 mission
+- Expedition 61 — ISS Expedition 61 | Expedition 61 mission
+- Expedition 62 — ISS Expedition 62 | Expedition 62 mission
+- Expedition 63 — ISS Expedition 63 | Expedition 63 mission
+- Expedition 64 — ISS Expedition 64 | Expedition 64 mission
+- Expedition 65 — ISS Expedition 65 | Expedition 65 mission
+- Expedition 66 — ISS Expedition 66 | Expedition 66 mission
+- Expedition 67 — ISS Expedition 67 | Expedition 67 mission
+- Expedition 68 — ISS Expedition 68 | Expedition 68 mission
+- Expedition 69 — ISS Expedition 69 | Expedition 69 mission
+- Expedition 70 — ISS Expedition 70 | Expedition 70 mission
+- Expedition 71 — ISS Expedition 71 | Expedition 71 mission
+- Expedition 72 — ISS Expedition 72 | Expedition 72 mission
+- Expedition 73 — ISS Expedition 73 | Expedition 73 mission
+- Expedition 74 — ISS Expedition 74 | Expedition 74 mission
+- Expedition 75 — ISS Expedition 75 | Expedition 75 mission
+- Explorer 2 — Explorer 2 mission
+- Explorer 3 — Explorer 3 mission
+- Explorer 4 — Explorer 4 mission
+- Explorer 5 — Explorer 5 mission
+- Explorer 6 — Explorer 6 mission
+- Explorer 7 — Explorer 7 mission
+- Explorer 8 — Explorer 8 mission
+- Explorer 9 — Explorer 9 mission
+- Explorer 10 — Explorer 10 mission
+- Explorer 11 — Explorer 11 mission
+- Explorer 12 — Explorer 12 mission
+- Explorer 13 — Explorer 13 mission
+- Explorer 14 — Explorer 14 mission
+- Explorer 15 — Explorer 15 mission
+- Explorer 16 — Explorer 16 mission
+- Explorer 17 — Explorer 17 mission
+- Explorer 18 — Explorer 18 mission
+- Explorer 19 — Explorer 19 mission
+- Explorer 20 — Explorer 20 mission
+- Explorer 21 — Explorer 21 mission
+- Explorer 22 — Explorer 22 mission
+- Explorer 23 — Explorer 23 mission
+- Explorer 24 — Explorer 24 mission
+- Explorer 25 — Explorer 25 mission
+- Explorer 26 — Explorer 26 mission
+- Explorer 27 — Explorer 27 mission
+- Explorer 28 — Explorer 28 mission
+- Explorer 29 — Explorer 29 mission
+- Explorer 30 — Explorer 30 mission
+- Explorer 31 — Explorer 31 mission
+- Explorer 32 — Explorer 32 mission
+- Explorer 33 — Explorer 33 mission
+- Explorer 34 — Explorer 34 mission
+- Explorer 35 — Explorer 35 mission
+- Explorer 36 — Explorer 36 mission
+- Explorer 37 — Explorer 37 mission
+- Explorer 38 — Explorer 38 mission
+- Explorer 39 — Explorer 39 mission
+- Explorer 40 — Explorer 40 mission
+- Explorer 41 — Explorer 41 mission
+- Explorer 42 — Explorer 42 mission
+- Explorer 43 — Explorer 43 mission
+- Explorer 44 — Explorer 44 mission
+- Explorer 45 — Explorer 45 mission
+- Explorer 46 — Explorer 46 mission
+- Explorer 47 — Explorer 47 mission
+- Explorer 48 — Explorer 48 mission
+- Explorer 49 — Explorer 49 mission
+- Explorer 50 — Explorer 50 mission
+- Explorer 51 — Explorer 51 mission
+- Explorer 52 — Explorer 52 mission
+- Explorer 53 — Explorer 53 mission
+- Explorer 54 — Explorer 54 mission
+- Explorer 55 — Explorer 55 mission
+- Luna 4 — Luna 4 mission
+- Luna 5 — Luna 5 mission
+- Luna 6 — Luna 6 mission
+- Luna 7 — Luna 7 mission
+- Luna 8 — Luna 8 mission
+- Luna 10 — Luna 10 mission
+- Luna 11 — Luna 11 mission
+- Luna 12 — Luna 12 mission
+- Luna 13 — Luna 13 mission
+- Luna 14 — Luna 14 mission
+- Luna 15 — Luna 15 mission
+- Luna 16 — Luna 16 mission
+- Luna 17 — Luna 17 mission
+- Luna 18 — Luna 18 mission
+- Luna 19 — Luna 19 mission
+- Luna 20 — Luna 20 mission
+- Luna 21 — Luna 21 mission
+- Luna 22 — Luna 22 mission
+- Luna 23 — Luna 23 mission
+- Luna 24 — Luna 24 mission
+- Venera 1 — Venera 1 mission
+- Venera 2 — Venera 2 mission
+- Venera 3 — Venera 3 mission
+- Venera 4 — Venera 4 mission
+- Venera 5 — Venera 5 mission
+- Venera 6 — Venera 6 mission
+- Venera 8 — Venera 8 mission
+- Venera 9 — Venera 9 mission
+- Venera 10 — Venera 10 mission
+- Venera 11 — Venera 11 mission
+- Venera 12 — Venera 12 mission
+- Venera 14 — Venera 14 mission
+- Venera 15 — Venera 15 mission
+- Venera 16 — Venera 16 mission
+- Zond 1 — Zond 1 mission
+- Zond 2 — Zond 2 mission
+- Zond 3 — Zond 3 mission
+- Zond 4 — Zond 4 mission
+- Zond 6 — Zond 6 mission
+- Zond 7 — Zond 7 mission
+- Zond 8 — Zond 8 mission
+- Mars 1 — Mars 1 mission
+- Mars 2 — Mars 2 mission
+- Mars 4 — Mars 4 mission
+- Mars 5 — Mars 5 mission
+- Mars 6 — Mars 6 mission
+- Mars 7 — Mars 7 mission
+- Mariner 1 — Mariner 1 mission
+- Mariner 3 — Mariner 3 mission
+- Mariner 5 — Mariner 5 mission
+- Mariner 6 — Mariner 6 mission
+- Mariner 7 — Mariner 7 mission
+- Mariner 8 — Mariner 8 mission
+- Ranger 1 — Ranger 1 mission
+- Ranger 2 — Ranger 2 mission
+- Ranger 3 — Ranger 3 mission
+- Ranger 4 — Ranger 4 mission
+- Ranger 5 — Ranger 5 mission
+- Ranger 6 — Ranger 6 mission
+- Ranger 7 — Ranger 7 mission
+- Ranger 8 — Ranger 8 mission
+- Ranger 9 — Ranger 9 mission
+- Surveyor 2 — Surveyor 2 mission
+- Surveyor 4 — Surveyor 4 mission
+- Surveyor 5 — Surveyor 5 mission
+- Surveyor 6 — Surveyor 6 mission
+- Surveyor 7 — Surveyor 7 mission
+- Lunar Orbiter 1 — Lunar Orbiter 1 mission
+- Lunar Orbiter 2 — Lunar Orbiter 2 mission
+- Lunar Orbiter 3 — Lunar Orbiter 3 mission
+- Lunar Orbiter 4 — Lunar Orbiter 4 mission
+- Lunar Orbiter 5 — Lunar Orbiter 5 mission
+- Pioneer 0 — Pioneer 0 mission
+- Pioneer 1 — Pioneer 1 mission
+- Pioneer 2 — Pioneer 2 mission
+- Pioneer 3 — Pioneer 3 mission
+- Pioneer 4 — Pioneer 4 mission
+- Pioneer 5 — Pioneer 5 mission
+- Pioneer 6 — Pioneer 6 mission
+- Pioneer 7 — Pioneer 7 mission
+- Pioneer 8 — Pioneer 8 mission
+- Pioneer 9 — Pioneer 9 mission
+- Salyut 2 — Salyut 2 mission
+- Salyut 3 — Salyut 3 mission
+- Salyut 4 — Salyut 4 mission
+- Salyut 5 — Salyut 5 mission
+- Salyut 6 — Salyut 6 mission
+- Salyut 7 — Salyut 7 mission
+- Sputnik 3 — Sputnik 3 mission
+- Sputnik 4 — Korabl-Sputnik 1 | Sputnik 4 mission
+- Sputnik 6 — Korabl-Sputnik 3 | Sputnik 6 mission
+- Sputnik 7 — Sputnik 7 mission
+- Sputnik 8 — Sputnik 8 mission
+- Sputnik 9 — Korabl-Sputnik 4 | Sputnik 9 mission
+- Sputnik 10 — Korabl-Sputnik 5 | Sputnik 10 mission
+- Ariel 2 — Ariel 2 mission
+- Ariel 3 — Ariel 3 mission
+- Ariel 4 — Ariel 4 mission
+- Ariel 5 — Ariel 5 mission
+- Ariel 6 — Ariel 6 mission
+- Chang'e 2 — Chang'e 2 mission
+- Chandrayaan-4 — Chandrayaan-4 mission
+- Snoopy — Apollo 10 lunar module | Snoopy mission
+- Hermes — Communications Technology Satellite | CTS | Hermes satellite | Hermes mission
+- Quest — Quest Joint Airlock | Quest airlock | Quest mission
+- Leonardo — Leonardo MPLM | Permanent Multipurpose Module | PMM | Leonardo mission
+- Raffaello — Raffaello MPLM | Raffaello mission
+- Bishop — Bishop airlock | Nanoracks Bishop | Bishop mission
+- Roo-ver — Roo-ver mission
+- UARS — Upper Atmosphere Research Satellite | UARS mission
+- ATS-6 — Applications Technology Satellite 6 | ATS-6 mission
+- GOSAT — Ibuki | GOSAT mission
+- UoSAT-1 — UoSAT | UO-9 | UoSAT-1 mission
+- Agena Target Vehicle — Gemini Agena Target Vehicle | GATV | Agena Target Vehicle mission
+- Solar Maximum Mission — SMM | Solar Max | Solar Maximum Mission mission
+- IXPE — Imaging X-ray Polarimetry Explorer | IXPE mission
+- RXTE — Rossi X-ray Timing Explorer | RXTE mission
+- FUSE — Far Ultraviolet Spectroscopic Explorer | FUSE mission
+- EUVE — Extreme Ultraviolet Explorer | EUVE mission
+- ASCA — Asuka | Advanced Satellite for Cosmology and Astrophysics | ASCA mission
+- HEAO-1 — HEAO-1 mission
+- Kuafu — ASO-S | Advanced Space-based Solar Observatory | Kuafu mission
+- Xihe — CHASE | Chinese H-alpha Solar Explorer | Xihe mission
+- Tianwen-4 — Tianwen-4 mission
+- Qianfan — Thousand Sails | Spacesail | G60 Starlink | Qianfan mission
+- Guowang — China SatNet | Guowang mission
+- Chandrayaan-5 — LUPEX | Lunar Polar Exploration Mission | Chandrayaan-5 mission
+- Mangalyaan-2 — Mars Orbiter Mission 2 | MOM-2 | Mangalyaan-2 mission
+- Gaganyaan G1 — Gaganyaan-1 | Gaganyaan G1 mission
+- APPLE — Ariane Passenger Payload Experiment | APPLE mission
+- RLV-TD — Pushpak | Reusable Launch Vehicle Technology Demonstrator | RLV-TD mission
+- Michibiki — QZSS | Quasi-Zenith Satellite System | Michibiki mission
+- MINERVA-II — MINERVA | MINERVA-II-1 | MINERVA-II mission
+- EQUULEUS — EQUULEUS mission
+- BioSentinel — BioSentinel mission
+- ArgoMoon — ArgoMoon mission
+- NEA Scout — NEA Scout mission
+- LunaH-Map — LunaH-Map mission
+- Lunar IceCube — Lunar IceCube mission
+- Juventas — Juventas mission
+- Milani — Milani mission
+- MBR Explorer — Emirates Mission to the Asteroid Belt | EMA | MBR Explorer mission
+- Space Rider — Space Rider mission
+- Vigil — Vigil mission
+- TRACERS — TRACERS mission
+- Carruthers Geocorona Observatory — Carruthers | Carruthers Geocorona Observatory mission
+- SWFO-L1 — SWFO-L1 mission
+- Starlab — Starlab mission
+- Axiom Station — Axiom Station mission
+- Orbital Reef — Orbital Reef mission
+- Russian Orbital Station — ROS | Russian Orbital Station mission
+- Orel — Oryol | PTK NP | Orel mission
+- Luna 26 — Luna 26 mission
+- Luna 27 — Luna 27 mission
+- Bion-M2 — Bion-M No. 2 | Bion-M2 mission
+- Nyx — Mission Possible | Nyx Mission Possible | Nyx mission
+- MEV-1 — Mission Extension Vehicle | Mission Extension Vehicle-1 | MEV-1 mission
+- Relay 1 — Relay | Relay 1 mission
+- Anik A1 — Anik | Anik A1 mission
+- Unity 21 — Unity 21 mission
+- Unity 25 — Unity 25 mission
+- Vanguard 2 — Vanguard 2 mission
+- Vanguard 3 — Vanguard 3 mission
+- Varda W-1 — W-1 | Varda W-1 mission
+- ADRAS-J — ADRAS-J mission
+- ELSA-d — ELSA-d mission
+- Interkosmos — Intercosmos | Interkosmos mission
+- Starship SN15 — Starship SN15 mission
+- Progress MS-36 — Progress MS-36 mission
+- HTV-X2 — HTV-X2 mission
+
+### Tier 6: rare jackpots (2)
+
+- Prospero — Prospero X-3 | Prospero mission
+- Kosmos 482 — Kosmos 482 mission
+
+## Refused on purpose (62)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Saturn V | Saturn IB | Saturn I | Falcon 9 | Falcon Heavy | Space Launch System | SLS | Atlas V | Atlas | Titan II | Titan IV | Delta | Delta II | Delta IV Heavy | Ariane | Ariane 5 | Ariane 6 | Vega C | Proton-M | Energia | N1 | R-7 | Semyorka | Angara | Long March | Long March 5 | Chang Zheng | PSLV | GSLV | LVM3 | SSLV | H-IIA | H-IIB | H3 | Epsilon | Kuaizhou | Zhuque-3 | Nuri | Electron | Neutron | Vulcan | Vulcan Centaur | New Glenn | Terran 1 | Firefly Alpha | Minotaur | Pegasus | Black Arrow | Blue Streak | Redstone | Diamant | Scout | V-2 | Antares rocket | Saturn V rocket | Jupiter-C | Juno I | Falcon 1 | Vikram-S | Skylark — "A rocket, not the craft it carried."
+- Super Heavy | Super Heavy booster — "SpaceX's booster stage: a rocket, not a spacecraft."
+- Titan — "A moon of Saturn, and a family of rockets, but not a spacecraft."
+- Saturn — "A planet, and a family of rockets, but not a spacecraft."
+- Europa — "A moon of Jupiter, and an old European rocket, but not a spacecraft."
+- Mars — "A planet. The Soviet probes named after it carry numbers."
+- Moon — "Where many missions went. Name one of them."
+- Jupiter | Venus | Uranus | Neptune | Pluto | Earth | Sun — "A destination, not a mission. Name one that went there."
+- Moon landing | Moon landings | Moon mission | Lunar landing | Mars landing | Mars mission | Moonshot — "Which one? Name the mission."
+- Spacecraft | Spaceship | Space probe | Probe | Satellite | Capsule | Space capsule | Lander | Orbiter | Space mission | Mission | Spaceplane | Rover | Mars rover | Mars lander | Space telescope | Telescope | Space station | Station | CubeSat | Rocket ship — "Which one? Name it."
+- Rocket | Space rocket — "A rocket only carries the craft. Name the craft or its mission."
+- Space Race | Cold War | Space Age | Moon race — "A contest between nations, not a mission."
+- Spacewalk | EVA | Extravehicular activity | Moonwalk — "Something astronauts do outside the craft. Name the mission."
+- Apollo 2 | Apollo 3 — "NASA never used the names Apollo 2 and 3: after Apollo 1, the numbering jumped to 4."
+- Apollo 18 — "Cancelled in 1970 before it flew. The 2011 film about it is fiction."
+- Apollo 19 | Apollo 20 — "Cancelled in 1970 before it flew. The last Moon landing was in 1972."
+- Voyager 3 | Voyager 4 | Voyager 5 — "Only two Voyagers flew."
+- Voyager 6 — "Only two Voyagers flew. In Star Trek, a made-up Voyager 6 comes home as V'Ger."
+- Cygnus X-1 — "A black hole in the constellation of the Swan, not a spacecraft."
+- Mars Exploration Rover | MER — "Which one? There were two. Name it."
+- Explorer — "Which Explorer? NASA has launched dozens. Give its number."
+- Einstein — "Which one? Several craft carry his name. Add a word."
+- Axiom — "A space company. Name one of its missions."
+- Space Station Freedom — "Never built: its design became part of the International Space Station."
+- Ares III — "Fiction: the Mars mission in The Martian."
+- Mercury Seven | Mercury 7 | Original Seven — "The astronauts, not a mission. Their capsules had names ending in 7."
+- Neil Armstrong | Armstrong | Buzz Aldrin | Aldrin | Michael Collins | Yuri Gagarin | Gagarin | Valentina Tereshkova | Tereshkova | Alexei Leonov | John Glenn | Alan Shepard | Sally Ride | Tim Peake | Helen Sharman | Chris Hadfield | Jim Lovell | Rakesh Sharma | Kalpana Chawla | Sunita Williams | Shubhanshu Shukla | Yang Liwei | Peggy Whitson | Mae Jemison | Elon Musk | Jeff Bezos | Richard Branson | Wernher von Braun | Sergei Korolev — "A person, not a mission. Name the craft."
+- Laika | Belka | Strelka | Belka and Strelka | Ham | Ham the chimp | Enos | Félicette | Albert II — "An animal astronaut, not the craft. Name what it flew in."
+- NASA | ESA | European Space Agency | Roscosmos | CNSA | ISRO | JAXA | UK Space Agency | Canadian Space Agency | SpaceX | Blue Origin | Virgin Galactic | Rocket Lab | Boeing | Northrop Grumman | Lockheed Martin | Axiom Space | Intuitive Machines | Astrobotic | Firefly Aerospace | ispace | Sierra Space | JPL | Jet Propulsion Laboratory | Mission Control | Houston — "A space agency or company, not a mission. Name one of its craft."
+- Cape Canaveral | Kennedy Space Center | Kennedy Space Centre | Cape Kennedy | Baikonur | Baikonur Cosmodrome | Plesetsk | Vostochny | Wenchang | Jiuquan | Sriharikota | Tanegashima | Kourou | Guiana Space Centre | Woomera | Starbase | Vandenberg | Wallops — "A launch site, not a mission."
+- Jodrell Bank | Arecibo | Very Large Telescope | Keck | Extremely Large Telescope | Square Kilometre Array | Vera Rubin Observatory | Rubin Observatory | Lovell Telescope | Hale Telescope | Mount Palomar | Royal Observatory — "A telescope on the ground, not in space."
+- SOFIA | Stratospheric Observatory for Infrared Astronomy — "A telescope flown in a jumbo jet, not a spacecraft."
+- Canadarm | Canadarm2 — "A robotic arm on the Shuttle and the ISS, not a craft of its own."
+- Golden Record | Voyager Golden Record | Pioneer plaque — "Something a probe carried, not a craft itself."
+- Biosphere 2 — "A sealed habitat in the Arizona desert, firmly on the ground."
+- USS Enterprise | Starship Enterprise | NCC-1701 — "Fiction: Star Trek's ship. A real shuttle was named after it."
+- Millennium Falcon | X-wing | TIE fighter | Star Destroyer | Death Star — "Fiction, from Star Wars."
+- TARDIS — "Fiction: the Doctor's time machine, from Doctor Who."
+- Discovery One | HAL 9000 — "Fiction: the ship in Stanley Kubrick's 2001."
+- Nostromo | Sulaco — "Fiction: ships from the Alien films."
+- Event Horizon — "Fiction: the cursed ship in the 1997 film."
+- Serenity — "Fiction: the ship in Firefly."
+- Red Dwarf | Starbug — "Fiction: the mining ship in the TV comedy."
+- Heart of Gold — "Fiction, from The Hitchhiker's Guide to the Galaxy."
+- Thunderbird 3 | Thunderbird 5 — "Fiction: the Tracy family's spacecraft in Thunderbirds."
+- Rocinante — "Fiction: the ship in The Expanse."
+- Battlestar Galactica | Galactica — "Fiction, from the TV series."
+- Planet Express Ship — "Fiction, from Futurama."
+- Moonraker — "Fiction: the space shuttles in the 1979 Bond film."
+- Capricorn One — "Fiction: a 1978 film about a faked Mars landing."
+- Icarus II — "Fiction: the ship sent to restart the Sun in the film Sunshine."
+- Jupiter 2 — "Fiction, from Lost in Space."
+- Liberator — "Fiction: the ship in Blake's 7."
+- Normandy | SSV Normandy — "Fiction: the ship in the Mass Effect games."
+- Prometheus — "Fiction: the ship in Ridley Scott's 2012 film."
+- Avalon — "Fiction: the ship in the film Passengers."
+- Eagle Transporter — "Fiction, from Space: 1999."
+- Mars Sample Return | MSR | Mars Sample Return mission — "Cancelled in 2026 before it flew. Perseverance's sealed samples are still waiting on Mars."
+- dearMoon | dearMoon project — "Yusaku Maezawa's flight round the Moon on Starship, cancelled in 2024 before it flew."
+- Constellation programme | Constellation program | Project Constellation — "NASA's Moon plan of the 2000s, cancelled in 2010 before any crew flew. Its Orion capsule lives on."
+- Deep Space Nine | DS9 | Deep Space 9 — "Fiction: the space station in Star Trek."
+- X-33 | VentureStar | Dyna-Soar | X-20 | HOTOL — "A spaceplane cancelled before it ever flew."
