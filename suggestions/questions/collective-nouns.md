@@ -6,34 +6,34 @@ Rules: The word for the group, like pride, not the animal. Writing it out in ful
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (254 answers)
+## Accepted now (328 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (12)
 
-- Herd — Herd of cows | Herd of cattle | Herd of elephants | Herd of deer | Herd of buffalo | Herd of bison | Herd of horses | Herd of zebras | Herd of goats | Herd of antelope | Herd of wildebeest | Herd of reindeer | Herd of giraffes | Herd of hippos | Herd of yaks | Herd of pigs | Herd of swine | Herd of camels | Herd of llamas | Herd of elk | Herd of moose | Herd of sheep | Herd of seals | Herd of whales | Herd of swans | Herd of cranes | Herd of curlews | Herd of rhinos | Herd of caribou | Herd of gazelles | Herd of donkeys | Herd of ponies | Herd of animals | Herd of oxen | Herd of walruses | Herd of hippopotamuses | Herd of rhinoceroses | Herd of impala | Herd of impalas | Herd of mules | Herd of ox
-- Flock — Flock of sheep | Flock of birds | Flock of geese | Flock of pigeons | Flock of seagulls | Flock of gulls | Flock of ducks | Flock of chickens | Flock of starlings | Flock of parrots | Flock of goats | Flock of camels | Flock of lambs | Flock of doves | Flock of sparrows | Flock of turkeys | Flock of hens | Flock of crows | Flock of swallows | Flock of finches | Flock of emus | Flock of flamingos | Flock of ostriches | Flock of budgies | Flock of budgerigars | Flock of parakeets | Flock of pelicans | Flock of cockatoos | Flock of penguins | Flock of jackdaws | Flock of magpies | Flock of canaries | Flock of goose
+- Herd — Herd of cows | Herd of cattle | Herd of elephants | Herd of deer | Herd of buffalo | Herd of bison | Herd of horses | Herd of zebras | Herd of goats | Herd of antelope | Herd of wildebeest | Herd of reindeer | Herd of giraffes | Herd of hippos | Herd of yaks | Herd of pigs | Herd of swine | Herd of camels | Herd of llamas | Herd of elk | Herd of moose | Herd of sheep | Herd of seals | Herd of whales | Herd of swans | Herd of cranes | Herd of curlews | Herd of rhinos | Herd of caribou | Herd of gazelles | Herd of donkeys | Herd of ponies | Herd of animals | Herd of oxen | Herd of walruses | Herd of hippopotamuses | Herd of rhinoceroses | Herd of impala | Herd of impalas | Herd of mules | Herd of ox | Herd of kangaroos | Herd of roos | Herd of alpacas | Herd of brumbies | Herd of seahorses | Herd of dinosaurs | Herd of wrens | Bachelor herd
+- Flock — Flock of sheep | Flock of birds | Flock of geese | Flock of pigeons | Flock of seagulls | Flock of gulls | Flock of ducks | Flock of chickens | Flock of starlings | Flock of parrots | Flock of goats | Flock of camels | Flock of lambs | Flock of doves | Flock of sparrows | Flock of turkeys | Flock of hens | Flock of crows | Flock of swallows | Flock of finches | Flock of emus | Flock of flamingos | Flock of ostriches | Flock of budgies | Flock of budgerigars | Flock of parakeets | Flock of pelicans | Flock of cockatoos | Flock of penguins | Flock of jackdaws | Flock of magpies | Flock of canaries | Flock of goose | Flock of kookaburras | Flock of galahs | Flock of lorikeets | Flock of ibis | Flock of ibises | Flock of cockies | Flock of rosellas | Flock of corellas | Flock of cockatiels | Flock of bin chickens | Flock of bats
 - Pack — Pack of wolves | Pack of dogs | Pack of hounds | Pack of hyenas | Pack of coyotes | Pack of jackals | Pack of rats | Pack of mules | Pack of grouse | Pack of weasels | Pack of foxes | Pack of wild dogs | Pack of dingoes | Pack of huskies | Pack of wolf
-- Swarm — Swarm of bees | Swarm of insects | Swarm of flies | Swarm of locusts | Swarm of wasps | Swarm of ants | Swarm of hornets | Swarm of mosquitoes | Swarm of gnats | Swarm of eels | Swarm of butterflies | Swarm of midges | Swarm of termites | Swarm of rats | Swarm of mice | Swarm of grasshoppers | Swarm of cockroaches | Swarm of krill | Swarm of beetles | Swarm of jellyfish | Swarm of mouse
+- Swarm — Swarm of bees | Swarm of insects | Swarm of flies | Swarm of locusts | Swarm of wasps | Swarm of ants | Swarm of hornets | Swarm of mosquitoes | Swarm of gnats | Swarm of eels | Swarm of butterflies | Swarm of midges | Swarm of termites | Swarm of rats | Swarm of mice | Swarm of grasshoppers | Swarm of cockroaches | Swarm of krill | Swarm of beetles | Swarm of jellyfish | Swarm of mouse | Warm | Sworm
 - School — School of fish | School of dolphins | School of whales | School of porpoises | School of sharks | School of mackerel | School of tuna | School of herring | School of hippos | School of minnows | School of sardines | School of salmon | School of piranhas | School of cod | School of anchovies | School of squid
 - Shoal — Shoal of fish | Shoal of herring | Shoal of mackerel | Shoal of sardines | Shoal of minnows | Shoal of cod | Shoal of sprats | Shoal of bass | Shoal of squid | Shoal of salmon | Shoal of tuna | Shoal of anchovies | Shoal of piranhas
-- Pride — Pride of lions | Pride of peacocks
+- Pride — Pride of lions | Pride of peacocks | Pride of ostriches
 - Murder — Murder of crows | Murder of magpies | Murder of ravens
 - Gaggle — Gaggle of geese | Gaggle of goose
 - Pod — Pod of dolphins | Pod of whales | Pod of orcas | Pod of seals | Pod of hippos | Pod of porpoises | Pod of walruses | Pod of narwhals | Pod of pelicans | Pod of killer whales | Pod of belugas | Pod of sea lions
-- Colony — Colony of ants | Colony of bats | Colony of penguins | Colony of termites | Colony of seals | Colony of beavers | Colony of rabbits | Colony of frogs | Colony of gulls | Colony of rats | Colony of gannets | Colony of puffins | Colony of badgers | Colony of bees | Colony of sea lions | Colony of seabirds | Colony of prairie dogs
-- Troop — Troupe | Troup | Troop of monkeys | Troop of baboons | Troop of kangaroos | Troop of gorillas | Troop of apes | Troop of lemurs | Troop of chimpanzees | Troop of chimps | Troop of macaques | Troupe of monkeys | Troupe of baboons | Troupe of kangaroos | Troupe of gorillas | Troupe of apes | Troupe of lemurs | Troupe of chimpanzees | Troupe of chimps | Troupe of macaques | Troup of monkeys | Troup of baboons | Troup of kangaroos | Troup of gorillas | Troup of apes | Troup of lemurs | Troup of chimpanzees | Troup of chimps | Troup of macaques
+- Colony — Colony of ants | Colony of bats | Colony of penguins | Colony of termites | Colony of seals | Colony of beavers | Colony of rabbits | Colony of frogs | Colony of gulls | Colony of rats | Colony of gannets | Colony of puffins | Colony of badgers | Colony of bees | Colony of sea lions | Colony of seabirds | Colony of prairie dogs | Colony of koalas | Colony of wombats | Colony of flying foxes | Colony of fruit bats | Colony of platypuses | Colony of flamingos
+- Troop — Troupe | Troup | Troop of monkeys | Troop of baboons | Troop of kangaroos | Troop of gorillas | Troop of apes | Troop of lemurs | Troop of chimpanzees | Troop of chimps | Troop of macaques | Troupe of monkeys | Troupe of baboons | Troupe of kangaroos | Troupe of gorillas | Troupe of apes | Troupe of lemurs | Troupe of chimpanzees | Troupe of chimps | Troupe of macaques | Troup of monkeys | Troup of baboons | Troup of kangaroos | Troup of gorillas | Troup of apes | Troup of lemurs | Troup of chimpanzees | Troup of chimps | Troup of macaques | Troop of roos | Troop of wallabies | Troop of lions | Troupe of dolphins
 
 ### Tier 2: common (29)
 
-- Parliament — Parliament of owls | Parliament of rooks
+- Parliament — Parliament of owls | Parliament of rooks | Parliament of magpies | Parliament of crows
 - Litter — Litter of kittens | Litter of puppies | Litter of piglets | Litter of cubs | Litter of pigs | Litter of rabbits
 - Hive — Hive of bees
-- Brood — Brood of chickens | Brood of chicks | Brood of hens | Brood of jellyfish
+- Brood — Brood of chickens | Brood of chicks | Brood of hens | Brood of jellyfish | Bood
 - Murmuration — Murmuration of starlings
 - Exaltation — Exaltation of larks | Exaltation of skylarks
-- Crash — Crash of rhinos | Crash of rhinoceroses
+- Crash — Crash of rhinos | Crash of rhinoceroses | Crash of hippos
 - Tower — Tower of giraffes
 - Dazzle — Dazzle of zebras
 - Business — Business of ferrets | Business of flies
@@ -42,51 +42,51 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mischief — Mischief of mice | Mischief of rats | Mischief of magpies | Mischief of mouse
 - Bloat — Bloat of hippos | Bloat of hippopotamuses | Bloat of hippopotami
 - Skulk — Skulk of foxes
-- Mob — Mob of kangaroos | Mob of meerkats | Mob of emus | Mob of sheep | Mob of cattle | Mob of wallabies
-- Army — Army of ants | Army of frogs | Army of caterpillars | Army of herring
+- Mob — Mob of kangaroos | Mob of meerkats | Mob of emus | Mob of sheep | Mob of cattle | Mob of wallabies | Mob of roos | Mob of wombats | Mob of brumbies | Mob of horses | Mob of deer | Mob of cows | Mob of camels | Mob of koalas | Mob of dingoes
+- Army — Army of ants | Army of frogs | Army of caterpillars | Army of herring | Amry
 - Nest — Nest of vipers | Nest of snakes | Nest of ants | Nest of wasps | Nest of hornets | Nest of mice | Nest of rabbits | Nest of mouse
 - Drove — Drove of cattle | Drove of sheep | Drove of pigs | Drove of donkeys | Drove of hares | Drove of oxen | Drove of swine | Drove of ox
-- Flight — Flight of birds | Flight of pigeons | Flight of doves | Flight of swallows | Flight of butterflies
+- Flight — Flight of birds | Flight of pigeons | Flight of doves | Flight of swallows | Flight of butterflies | Flight of dragons | Flight of cormorants | Flight of geese
 - Clowder — Clowder of cats
-- Kindle — Kendle | Kindle of kittens | Kendle of kittens
-- Charm — Charm of goldfinches | Charm of finches | Charm of hummingbirds
-- Skein — Skein of geese | Skein of goose
+- Kindle — Kendle | Kindle of kittens | Kendle of kittens | Kindle of rabbits
+- Charm — Charm of goldfinches | Charm of finches | Charm of hummingbirds | Charm of magpies
+- Skein — Skein of geese | Skein of goose | Skene | Skane | Skien
 - Waddle — Waddle of penguins
 - Pandemonium — Pandemonium of parrots
 - Flamboyance — Flamboyance of flamingos | Flamboyance of flamingoes
 - Shiver — Shiver of sharks
-- Plague — Plague of locusts | Plague of rats
+- Plague — Plague of locusts | Plague of rats | Plague of mice
 
 ### Tier 3: known to fans (46)
 
 - Sleuth — Sloth | Sleuth of bears | Sleuth of pandas | Sloth of bears | Sloth of pandas
 - Cete — Cete of badgers
 - Romp — Romp of otters
-- Raft — Raft of otters | Raft of ducks | Raft of coots | Raft of penguins | Raft of puffins
+- Raft — Raft of otters | Raft of ducks | Raft of coots | Raft of penguins | Raft of puffins | Raft of sea otters | Raft of hippos
 - Prickle — Prickle of porcupines | Prickle of hedgehogs
 - Leap — Lepe | Leep | Leap of leopards | Lepe of leopards | Leep of leopards
 - Ambush — Ambush of tigers
-- Streak — Streak of tigers
+- Streak — Streak of tigers | Sreak | Steak
 - Cackle — Cackle of hyenas
-- Coalition — Coalition of cheetahs
+- Coalition — Coalition of cheetahs | Coalition of lions
 - Parade — Parade of elephants
 - Memory — Memory of elephants
 - Kettle — Kettle of hawks | Kettle of vultures | Kettle of buzzards
 - Wake — Wake of vultures | Wake of buzzards
 - Ostentation — Ostentation of peacocks
-- Bevy — Bevy of quail | Bevy of swans | Bevy of otters
+- Bevy — Bevy of quail | Bevy of swans | Bevy of otters | Bevy of larks | Bevy of deer
 - Covey — Cove | Covey of partridges | Covey of grouse | Covey of quail | Cove of partridges | Cove of grouse | Cove of quail
 - Team — Team of horses | Team of oxen | Team of ducks | Team of dolphins | Team of ox
 - Rookery — Rookery of penguins | Rookery of seals | Rookery of rooks
 - Wedge — Wedge of swans | Wedge of geese | Wedge of goose
 - Labour — Labor | Labour of moles | Labor of moles
 - Scurry — Scurry of squirrels
-- Drey — Dray | Drey of squirrels | Dray of squirrels
+- Drey — Dray | Drey of squirrels | Dray of squirrels | Dery
 - Fluffle — Fluffle of rabbits | Fluffle of bunnies
 - Warren — Warren of rabbits
 - Knot — Knot of toads | Knot of frogs | Knot of snakes
 - Rhumba — Rumba | Rhumba of rattlesnakes | Rumba of rattlesnakes
-- Lounge — Lounge of lizards
+- Lounge — Lounge of lizards | Longe | Louge
 - Bask — Bask of crocodiles
 - Implausibility — Implausibility of gnus | Implausibility of wildebeest
 - Obstinacy — Obstinacy of buffalo | Obstinacy of buffaloes
@@ -97,34 +97,34 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Smack — Smack of jellyfish
 - Bloom — Bloom of jellyfish
 - Frenzy — Frenzy of sharks
-- Kaleidoscope — Kaleidoscope of butterflies
+- Kaleidoscope — Kaleidoscope of butterflies | Kaleidoscope of giraffes
 - Cloud — Cloud of gnats | Cloud of flies | Cloud of bats | Cloud of grasshoppers | Cloud of starlings | Cloud of locusts
-- Huddle — Huddle of penguins
+- Huddle — Huddle of penguins | Huddle of walruses | Huddle of hippos
 - Harem — Harem of seals
-- Clutch — Clutch of chicks | Clutch of eggs
+- Clutch — Clutch of chicks | Clutch of eggs | Cutch | Cltch
 - Den — Den of snakes
-- Bed — Bed of snakes | Bed of oysters | Bed of clams | Bed of eels
-- Band — Band of gorillas | Band of jays | Band of horses | Band of wild horses
+- Bed — Bed of snakes | Bed of oysters | Bed of clams | Bed of eels | Bed of worms | Bed of scorpions
+- Band — Band of gorillas | Band of jays | Band of horses | Band of wild horses | Band of coyotes
 
 ### Tier 4: obscure (102)
 
 - Convocation — Convocation of eagles
 - Stare — Stare of owls
-- Siege — Seige | Siege of herons | Siege of cranes | Seige of herons | Seige of cranes
+- Siege — Seige | Siege of herons | Siege of cranes | Seige of herons | Seige of cranes | Siege of hippos
 - Sedge — Sedge of herons | Sedge of cranes | Sedge of bitterns
 - Mustering — Mustering of storks
 - Watch — Watch of nightingales
 - Host — Host of sparrows
 - Chattering — Clattering | Chattering of starlings | Chattering of choughs | Chattering of jackdaws | Clattering of starlings | Clattering of choughs | Clattering of jackdaws
 - Descent — Descent of woodpeckers
-- Tiding — Tiding of magpies
-- Gulp — Gulp of magpies | Gulp of cormorants
-- Muster — Muster of peacocks | Muster of storks
+- Tiding — Tiding of magpies | Tidings | Tidings of magpies
+- Gulp — Gulp of magpies | Gulp of cormorants | Gulp of swallows
+- Muster — Muster of peacocks | Muster of storks | Muster of crows
 - Company — Company of parrots | Company of moles | Company of widgeon
 - Stand — Stand of flamingos | Stand of plovers
-- Fall — Fall of woodcock
+- Fall — Fall of woodcock | Fall of lambs
 - Wisp — Wisp of snipe
-- Walk — Walk of snipe
+- Walk — Walk of snipe | Walk of snails
 - Peep — Peep of chickens
 - Bouquet — Bouquet of pheasants | Bouquet of hummingbirds
 - Nide — Nye | Nide of pheasants | Nye of pheasants
@@ -153,25 +153,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stud — Stud of horses
 - Pace — Pace of donkeys | Pace of asses
 - Caravan — Caravan of camels
-- Trip — Trip of goats
+- Trip — Trip of goats | Trip of dotterel | Trip of dotterels | Trip of sheep
 - Tribe — Tribe of goats | Tribe of monkeys
 - Fold — Fold of sheep
 - Sounder — Sounder of boars | Sounder of swine | Sounder of pigs
-- Passel — Passel of pigs | Passel of possums | Passel of opossums
+- Passel — Passel of pigs | Passel of possums | Passel of opossums | Passel of hogs
 - Farrow — Farrow of piglets
 - Cartload — Cartload of monkeys
 - Whoop — Whoop of gorillas
 - Congress — Congress of baboons
 - Flange — Flange of baboons
-- Gang — Gang of elk | Gang of buffalo | Gang of turkeys | Gang of meerkats
+- Gang — Gang of elk | Gang of buffalo | Gang of turkeys | Gang of meerkats | Gang of weasels
 - Confusion — Confusion of wildebeest
-- Destruction — Destruction of wild cats | Destruction of wild cat
+- Destruction — Destruction of wild cats | Destruction of wild cat | Destruction of cats
 - Clutter — Clutter of cats | Clutter of spiders
 - Glaring — Glaring of cats
 - Pounce — Pounce of cats
 - Intrigue — Intrigue of kittens
 - Earth — Earth of foxes
-- Rout — Route | Rout of wolves | Rout of wolf | Route of wolves | Route of wolf
+- Rout — Route | Rout of wolves | Rout of wolf | Route of wolves | Route of wolf | Rout of snails | Rout of coyotes
 - Clan — Clan of hyenas | Clan of badgers
 - Gaze — Gaze of raccoons
 - Nursery — Nursery of raccoons
@@ -179,18 +179,18 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stench — Stench of skunks
 - Coterie — Coterie of prairie dogs
 - Town — Town of prairie dogs
-- Horde — Horde of hamsters | Horde of gerbils | Horde of gnats | Horde of mice | Horde of mouse
+- Horde — Horde of hamsters | Horde of gerbils | Horde of gnats | Horde of mice | Horde of mouse | Horde of crows
 - Trace — Trace of hares
 - Husk — Husk of hares
-- Down — Down of hares
-- Parcel — Parcel of deer
+- Down — Down of hares | Down of sheep
+- Parcel — Parcel of deer | Parcel of penguins | Parcel of hogs
 - Chorus — Chorus of frogs
 - Bale — Bale of turtles
 - Dule — Dole | Dule of doves | Dule of turtles | Dole of doves | Dole of turtles
 - Creep — Creep of tortoises
 - Pit — Pit of snakes
 - Quiver — Quiver of cobras
-- Congregation — Congregation of alligators | Congregation of crocodiles | Congregation of plovers
+- Congregation — Congregation of alligators | Congregation of crocodiles | Congregation of plovers | Congregation of birds
 - Float — Float of crocodiles
 - Yoke — Yoke of oxen | Yoke of ox
 - Array — Array of hedgehogs
@@ -199,19 +199,19 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rafter — Rafter of turkeys
 - Kit — Kit of pigeons
 - Loft — Loft of pigeons
-- Wisdom — Wisdom of owls
+- Wisdom — Wisdom of owls | Wisdom of wombats
 - Slither — Slither of snakes
 - Cluster — Cluster of spiders
 - Menagerie — Menagerie of animals
 - Family — Family of otters | Family of beavers
-- Drift — Drift of swine | Drift of pigs | Drift of bees
+- Drift — Drift of swine | Drift of pigs | Drift of bees | Drift of quail | Drift of hogs
 - Stable — Stable of horses | Stable of ponies | Stable of racehorses
-- Brace — Brace of pheasants | Brace of partridges | Brace of grouse | Brace of ducks | Brace of greyhounds | Brace of raccoons
-- Train — Train of camels
+- Brace — Brace of pheasants | Brace of partridges | Brace of grouse | Brace of ducks | Brace of greyhounds | Brace of raccoons | Brace of mallards
+- Train — Train of camels | Train of jackdaws
 - Corps — Corps of giraffes
 - Embarrassment — Embarrassment of pandas
 
-### Tier 5: expert (62)
+### Tier 5: expert (131)
 
 - Span — Span of mules
 - Volery — Volery of birds
@@ -228,21 +228,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Party — Party of jays
 - Deceit — Deceit of lapwings
 - Desert — Desert of lapwings
-- Wing — Wing of plovers
-- Fling — Fling of dunlins
+- Wing — Wing of plovers | Wing of dragons
+- Fling — Fling of dunlins | Fling of sandpipers
 - Spring — Spring of teal
 - Improbability — Improbability of puffins
 - Circus — Circus of puffins
 - Glittering — Glittering of hummingbirds
 - Shimmer — Shimmer of hummingbirds
 - Bellowing — Bellowing of bullfinches
-- Dopping — Dopping of sheldrakes
+- Dopping — Dopping of sheldrakes | Dopping of ducks
 - Sord — Sord of mallards
-- Plump — Plump of wildfowl
+- Plump — Plump of wildfowl | Plump of geese | Plump of goose | Plump of ducks | Plump of waterfowl | Plump of moorhens
 - Piteousness — Piteousness of doves
-- Pitying — Pitying of turtle doves
-- Hover — Hover of crows | Hover of trout
-- Thunder — Thunder of hippos
+- Pitying — Pitying of turtle doves | Pitying of doves
+- Hover — Hover of crows | Hover of trout | Hover of hummingbirds
+- Thunder — Thunder of hippos | Thunder of dragons
 - Court — Court of kangaroos
 - Rangale — Rangale of deer
 - Dout — Dout of wild cats | Dout of wild cat
@@ -254,7 +254,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rag — Rag of colts
 - Rake — Rake of colts
 - Barren — Barren of mules
-- Bury — Bury of rabbits
+- Bury — Bury of rabbits | Bury of conies
 - Fesnying — Fesnyng | Fesnying of ferrets | Fesnyng of ferrets
 - Generation — Generation of vipers
 - Bind — Bind of salmon
@@ -264,7 +264,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Glint — Glint of goldfish
 - Turmoil — Turmoil of porpoises
 - Bob — Bob of seals
-- Consortium — Consortium of crabs
+- Consortium — Consortium of crabs | Consortium of octopuses | Consortium of octopi | Consortium of octopus
 - Bike — Bike of wasps | Bike of hornets
 - Erst — Erst of bees
 - Knob — Knob of toads
@@ -275,18 +275,92 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mutation — Mutation of thrushes
 - Covert — Covert of coots
 - Tuxedo — Tuxedo of penguins
+- Paddle — Paddle of platypuses | Paddle of platypi | Paddle of platypus
+- Crackle — Crackle of cockatoos | Crackle of cockies
+- Riot — Riot of kookaburras
+- Risk — Risk of lobsters
+- Mess — Mess of iguanas
+- Aurora — Aurora of polar bears
+- Celebration — Celebration of polar bears
+- Bamboo — Bamboo of pandas
+- Cupboard — Cupboard of pandas
+- Sneak — Sneak of weasels
+- Boogle — Boogle of weasels
+- Movement — Movement of moles
+- Stubbornness — Stubbornness of rhinos | Stubbornness of rhinoceroses
+- Cohort — Cohort of zebras
+- Storytelling — Storytelling of crows | Storytelling of ravens | Storytelling of rooks
+- Affliction — Affliction of starlings
+- Trembling — Trembling of finches | Trembling of goldfinches | Trimming | Trimming of finches | Trimming of goldfinches
+- Scream — Scream of swifts
+- Whiteness — Whiteness of swans
+- Ballet — Ballet of swans
+- Flush — Flush of ducks | Flush of mallards
+- Dance — Dance of cranes
+- Phalanx — Phalanx of storks
+- Squadron — Squadron of pelicans
+- Pouch — Pouch of pelicans
+- Screech — Screech of gulls | Screech of seagulls
+- Bazaar — Bazaar of guillemots | Bazaar of murres
+- Chime — Chime of wrens
+- Round — Round of robins
+- Worm — Worm of robins
+- Banditry — Banditry of titmice | Banditry of chickadees
+- Chatter — Chatter of budgerigars | Chatter of budgies
+- Escargatoire — Escargatoire of snails
+- Cornucopia — Cornucopia of slugs
+- Clew — Clew of worms
+- Eclipse — Eclipse of moths
+- Pledge — Pledge of wasps
+- Orchestra — Orchestra of crickets
+- Blessing — Blessing of unicorns | Blessing of narwhals
+- Posse — Posse of turkeys
+- Hedge — Hedge of herons
+- Study — Study of owls
+- Shadow — Shadow of jaguars
+- Prowl — Prowl of jaguars
+- Battery — Battery of barracudas | Battery of barracuda
+- Audience — Audience of squid | Audience of squids
+- Wobble — Wobble of ostriches
+- Crèche — Crèche of penguins
+- Lodge — Lodge of beavers | Lodge of otters
+- Fry — Fry of eels
+- Couple — Couple of hounds | Couple of spaniels
+- Constellation — Constellation of starfish | Constellation of sea stars
+- Galaxy — Galaxy of starfish | Galaxy of sea stars
+- Squad — Squad of squid | Squad of squids
+- Gobble — Gobble of turkeys
+- Tittering — Tittering of magpies
+- Catch — Catch of fish
+- Haul — Haul of fish
+- Ugly — Ugly of walruses | Ugly of walrus
+- Asylum — Asylum of loons
+- Lek — Lek of grouse | Lek of black grouse | Lek of capercaillie
+- Hooting — Hooting of owls
+- Looming — Looming of owls
+- Constable — Constable of ravens
+- Stretch — Stretch of giraffes
+- Brief — Brief of pelicans
+- Jamboree — Jamboree of jaguars
+- Hood — Hood of snails
+- Aerie — Eyrie | Aerie of eagles | Aerie of hawks | Eyrie of eagles | Eyrie of hawks
 
-### Tier 6: rare jackpots (3)
+### Tier 6: rare jackpots (8)
 
 - Singular — Singular of boars
-- Richesse — Richesse of martens
+- Richesse — Richesse of martens | Richness | Richness of martens
 - Gam — Gam of whales
+- Quantity — Quantity of smelt | Quantity of smelts
+- Tok — Tok of capercaillie | Tok of capercaillies
+- Hurtle — Hurtle of sheep
+- Sault — Sault of lions | Sawt | Sawt of lions | Sowse | Sowse of lions
+- Steam — Steam of minnows
 
-## Refused on purpose (10)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Crows | Lions | Owls | Geese | Goose | Sheep | Cows | Cattle | Wolves | Bees | Fish | Starlings | Ravens | Dolphins | Whales | Elephants | Giraffes | Zebras | Rhinos | Hippos | Monkeys | Ants | Penguins | Flamingos | Ferrets | Cats | Dogs | Horses | Birds | Ducks | Swans | Seals | Hares | Rabbits | Mules | Gulls | Doves — "That's the animal. Name the word for a group of them."
+- Crows | Lions | Owls | Geese | Goose | Sheep | Cows | Cattle | Wolves | Bees | Fish | Starlings | Ravens | Dolphins | Whales | Elephants | Giraffes | Zebras | Rhinos | Hippos | Monkeys | Ants | Penguins | Flamingos | Ferrets | Cats | Dogs | Horses | Birds | Ducks | Swans | Seals | Hares | Rabbits | Mules | Gulls | Doves | Kangaroos | Koalas | Wombats | Emus | Kookaburras | Cockatoos | Galahs | Magpies | Platypuses | Dingoes | Wallabies | Possums | Crocodiles | Snakes | Sharks | Spiders | Butterflies | Jellyfish | Pandas | Bears | Tigers | Leopards | Cheetahs | Hyenas | Foxes | Otters | Badgers | Pigs | Goats | Camels | Parrots | Peacocks | Pigeons | Turkeys | Chickens | Eagles | Vultures | Herons | Finches | Sparrows | Frogs | Toads | Turtles | Lizards | Locusts — "That's the animal. Name the word for a group of them."
 - Cubs | Kittens | Puppies | Calves | Foals | Joeys | Cygnets | Goslings | Leverets | Lambs | Piglets | Chicks | Fawns | Ducklings | Owlets | Eaglets | Tadpoles — "Young animals, not a group of them."
 - Vixen | Stallion | Sow | Ewe | Ram | Drake | Gander | Jill | Hob | Doe | Buck | Cob | Bull | Hen | Rooster | Cockerel | Billy | Nanny | Tom | Queen — "That's the name for one animal, not a group."
 - Roar | Bark | Moo | Neigh | Caw | Quack | Baa | Oink | Bray | Purr | Hiss | Croak | Buzz | Chirp | Squeak | Growl | Tweet — "A sound, not a group."
@@ -294,5 +368,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Fleet | Armada | Flotilla — "Ships come in fleets. Animals don't."
 - Coven — "Witches gather in covens. Animals have more sense."
 - Choir — "Angels may come in choirs, but angels aren't animals."
-- Zoo | Aviary | Aquarium | Sty — "A place, not a group."
-- Sett | Holt | Burrow | Eyrie | Aerie | Web — "That's where they live, not what you call them together."
+- Zoo | Aviary | Aquarium | Sty | Paddock | Ark | Noah's Ark — "A place, not a group."
+- Sett | Holt | Burrow | Web | Dovecote | Anthill — "That's where they live, not what you call them together."
+- Species | Phylum | Kingdom | Subspecies — "A rank in the classification of life, not a word for a gathering."

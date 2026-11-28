@@ -6,7 +6,7 @@ Rules: Any named dance or dance style, from ballroom, stage, street, folk tradit
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (434 answers)
+## Accepted now (465 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -15,7 +15,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Waltz — Valse | Slow waltz | English waltz | Waltz dance | Waltz dancing | Valse dance | Valse dancing | Slow waltz dance | Slow waltz dancing | English waltz dance | English waltz dancing
 - Tango — Ballroom tango | Tango dance | Tango dancing | Ballroom tango dance | Ballroom tango dancing
 - Salsa — Cuban salsa | Salsa dancing | Salsa dance | Cuban salsa dance | Cuban salsa dancing
-- Ballet — Classical ballet | Ballet dance | Ballet dancing | Classical ballet dance | Classical ballet dancing
+- Ballet — Classical ballet | Ballet dance | Ballet dancing | Classical ballet dance | Classical ballet dancing | Ballay | Balley | Ballett
 - Tap dance — Tap | Tap dancing
 - Foxtrot — Slow foxtrot | Foxtrot dance | Foxtrot dancing | Slow foxtrot dance | Slow foxtrot dancing
 - Cha-cha — Cha-cha-cha | Cha-cha dance | Cha-cha dancing | Cha-cha-cha dance | Cha-cha-cha dancing
@@ -25,7 +25,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Macarena — Macarena dance | Macarena dancing
 - Conga — Conga line | Conga dance | Conga dancing | Conga line dance | Conga line dancing
-- Rumba — Rhumba | Rumba dance | Rumba dancing | Rhumba dance | Rhumba dancing
+- Rumba — Rhumba | Rumba dance | Rumba dancing | Rhumba dance | Rhumba dancing | Ruba | Roomba
 - Quickstep — Quickstep dance | Quickstep dancing
 - Paso doble — Paso | Paso doble dance | Paso doble dancing | Paso dance | Paso dancing
 - Jive — Jive dance | Jive dancing
@@ -37,32 +37,32 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Breakdancing — Breakdance | Breaking | B-boying | B-girling
 - Hip-hop — Street dance | Hip-hop dance | Hip-hop dancing | Street dancing
 - Swing — Swing dance | Swing dancing
-- Line dance — Line dancing
-- Square dance — Square dancing | Hoedown | Hoedown dance | Hoedown dancing
+- Line dance — Line dancing | Line | Boot scooting | Boot scootin | Boot Scootin' Boogie | Achy Breaky | Achy Breaky Heart
+- Square dance — Square dancing | Hoedown | Hoedown dance | Hoedown dancing | Square
 - Morris dance — Morris dancing | Morris | Border Morris | Border Morris dance | Border Morris dancing
 - Maypole dance — Maypole dancing | Maypole
-- Hula — Hula dance | Hula dancing | Hula kahiko | Hula auana | Hula kahiko dance | Hula kahiko dancing | Hula auana dance | Hula auana dancing
+- Hula — Hula dance | Hula dancing | Hula kahiko | Hula auana | Hula kahiko dance | Hula kahiko dancing | Hula auana dance | Hula auana dancing | Hoola
 - Haka — Haka dance | Haka dancing | Kapa haka | Kapa haka dance | Kapa haka dancing
-- Belly dance — Belly dancing | Raqs sharqi | Oriental dance | Raqs sharqi dance | Raqs sharqi dancing
+- Belly dance — Belly dancing | Raqs sharqi | Oriental dance | Raqs sharqi dance | Raqs sharqi dancing | Belly
 - Can-can — Can-can dance | Can-can dancing
-- Polka — Polka dance | Polka dancing
+- Polka — Polka dance | Polka dancing | Pola | Polk | Polke
 - Hokey cokey — Hokey pokey | Okey cokey | Hokey cokey dance | Hokey cokey dancing | Hokey pokey dance | Hokey pokey dancing | Okey cokey dance | Okey cokey dancing
-- Irish dancing — Irish dance | Irish step dance | Irish step dancing
+- Irish dancing — Irish dance | Irish step dance | Irish step dancing | Irish | Irish step
 - Jig — Irish jig | Irish jig dance | Irish jig dancing | Jig dance | Jig dancing
-- Ballroom dancing — Ballroom | Ballroom dance
-- Latin dance — Latin | Latin American | Latin American dancing | Latin dancing | Latin American dance
+- Ballroom dancing — Ballroom | Ballroom dance | DanceSport
+- Latin dance — Latin | Latin American | Latin American dancing | Latin dancing | Latin American dance | Lain
 
-### Tier 3: known to fans (52)
+### Tier 3: known to fans (53)
 
 - Viennese waltz — Viennese waltz dance | Viennese waltz dancing
 - Argentine tango — Tango argentino | Argentine tango dance | Argentine tango dancing | Tango argentino dance | Tango argentino dancing
-- Mambo — Mambo dance | Mambo dancing
+- Mambo — Mambo dance | Mambo dancing | Mamboo
 - Bolero — Bolero dance | Bolero dancing
-- Lindy Hop — Lindy | Lindy Hop dance | Lindy Hop dancing | Lindy dance | Lindy dancing
+- Lindy Hop — Lindy | Lindy Hop dance | Lindy Hop dancing | Lindy dance | Lindy dancing | Liny | Lind | Liney
 - Jitterbug — Jitterbug dance | Jitterbug dancing
-- Rock and roll — Rock 'n' roll | Rock and roll dancing | Rock and roll dance | Rock 'n' roll dance | Rock 'n' roll dancing
+- Rock and roll — Rock 'n' roll | Rock and roll dancing | Rock and roll dance | Rock 'n' roll dance | Rock 'n' roll dancing | Rockabilly | Rockabilly jive
 - Hustle — Hustle dance | Hustle dancing
-- Slow dance — Slow dancing
+- Slow dance — Slow dancing | Slow
 - Lambada — Lambada dance | Lambada dancing
 - Merengue — Merengue dance | Merengue dancing
 - Bachata — Bachata dance | Bachata dancing
@@ -71,49 +71,50 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tarantella — Tarantella dance | Tarantella dancing
 - Minuet — Menuet | Minuet dance | Minuet dancing | Menuet dance | Menuet dancing
 - Mazurka — Mazurka dance | Mazurka dancing
-- Highland fling — Highland dancing | Highland dance | Fling | Scottish dancing | Scottish dance
-- Sword dance — Highland sword dance | Ghillie Callum | Longsword dance | Ghillie Callum dance | Ghillie Callum dancing | Sword dancing
+- Highland fling — Highland dancing | Highland dance | Fling | Scottish dancing | Scottish dance | Highland
+- Sword dance — Highland sword dance | Ghillie Callum | Longsword dance | Ghillie Callum dance | Ghillie Callum dancing | Sword dancing | Sword | Highland sword | Longsword
 - Reel — Scottish reel | Irish reel | Reel dance | Reel dancing | Scottish reel dance | Scottish reel dancing | Irish reel dance | Irish reel dancing
 - Hornpipe — Sailor's hornpipe | Hornpipe dance | Hornpipe dancing | Sailor's hornpipe dance | Sailor's hornpipe dancing
 - Clog dance — Clog dancing | Clogging | Clogs | Clogs dance | Clogs dancing
 - Strip the Willow — Strip the Willow dance | Strip the Willow dancing
 - Gay Gordons — Gay Gordons dance | Gay Gordons dancing
-- Barn dance — Barn dancing
-- Céilí dance — Ceilidh dance | Ceilidh dancing | Ceili dancing | Ceilidh | Ceili
+- Barn dance — Barn dancing | Barn | Progressive barn dance | Progressive barn dancing
+- Céilí dance — Ceilidh dance | Ceilidh dancing | Ceili dancing | Ceilidh | Ceili | Kayley | Kaylee | Caley
 - Bhangra — Bhangra dance | Bhangra dancing
 - Kathak — Kathak dance | Kathak dancing
 - Bharatanatyam — Bharatnatyam | Bharatanatyam dance | Bharatanatyam dancing | Bharatnatyam dance | Bharatnatyam dancing
 - Bollywood dance — Bollywood | Bollywood dancing
 - Sirtaki — Syrtaki | Zorba | Zorba's dance | Zorba the Greek | Sirtaki dance | Sirtaki dancing | Syrtaki dance | Syrtaki dancing | Zorba dance | Zorba dancing | Zorba the Greek dance | Zorba the Greek dancing
-- Hora — Horo | Hora dance | Hora dancing | Horo dance | Horo dancing
-- Cossack dance — Prisyadka | Prisyadka dance | Prisyadka dancing | Squat dance
+- Hora — Horo | Hora dance | Hora dancing | Horo dance | Horo dancing | Hoor | Hoora | Hava Nagila
+- Cossack dance — Prisyadka | Prisyadka dance | Prisyadka dancing | Squat dance | Cossack | Cossack dancing
 - Capoeira — Capoeira dance | Capoeira dancing
-- Lion dance — Lion dancing | Chinese lion dance
-- Dragon dance — Dragon dancing | Chinese dragon dance
-- Rain dance — Rain dancing
-- Jazz dance — Jazz | Jazz dancing
+- Lion dance — Lion dancing | Chinese lion dance | Lion | Chinese lion
+- Dragon dance — Dragon dancing | Chinese dragon dance | Dragon | Chinese dragon
+- Rain dance — Rain dancing | Rain
+- Jazz dance — Jazz | Jazz dancing | Jazz ballet
 - Contemporary dance — Contemporary | Contemporary dancing
 - Modern dance — Modern | Modern dancing
-- Interpretive dance — Interpretative dance
-- Pole dance — Pole dancing
-- Popping — Popping dance | Popping and locking
+- Interpretive dance — Interpretative dance | Interpretive | Interpretative
+- Pole dance — Pole dancing | Pole
+- Popping — Popping dance | Popping and locking | Pop and lock | Pop lock | Pop locking | Pop and locking
 - Robot — Robot dance | Robot dancing
 - Moonwalk — Moonwalking | Backslide | Moonwalk dance | Moonwalk dancing | Backslide dance | Backslide dancing
 - Floss — Flossing | Floss dance | Floss dancing
 - Twerking — Twerk | Twerk dance | Twerk dancing
 - Vogue — Voguing | Vogueing | Vogue dance | Vogue dancing
-- Chicken dance — Birdie Song | Birdy Song | Birdie Song dance | Birdie Song dancing | Birdy Song dance | Birdy Song dancing
+- Chicken dance — Birdie Song | Birdy Song | Birdie Song dance | Birdie Song dancing | Birdy Song dance | Birdy Song dancing | Chicken | Bird dance | Birdie dance | Birdy dance | Chicken song
 - Time Warp — Time Warp dance | Time Warp dancing
 - Electric Slide — Electric Slide dance | Electric Slide dancing
 - Cha-Cha Slide — Cha-Cha Slide dance | Cha-Cha Slide dancing
+- Nutbush — Nutbush City Limits
 
-### Tier 4: obscure (81)
+### Tier 4: obscure (86)
 
 - East Coast Swing
 - West Coast Swing
 - Boogie-woogie — Boogie | Boogie-woogie dance | Boogie-woogie dancing | Boogie dance | Boogie dancing
 - Two-step — Texas two-step | Two-step dance | Two-step dancing | Texas two-step dance | Texas two-step dancing
-- Ice dance — Ice dancing
+- Ice dance — Ice dancing | Ice
 - Milonga — Milonga dance | Milonga dancing
 - Pavane — Pavan | Pavin | Pavane dance | Pavane dancing | Pavan dance | Pavan dancing | Pavin dance | Pavin dancing
 - Galliard — Gagliarda | Galliard dance | Galliard dancing | Gagliarda dance | Gagliarda dancing
@@ -124,15 +125,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Galop — Gallop | Galop dance | Galop dancing | Gallop dance | Gallop dancing
 - Schottische — Schottische dance | Schottische dancing
 - Farandole — Farandole dance | Farandole dancing
-- Country dance — English country dance | Contredanse | Playford dance | Contredanse dance | Contredanse dancing | Country dancing | English country dancing
+- Country dance — English country dance | Contredanse | Playford dance | Contredanse dance | Contredanse dancing | Country dancing | English country dancing | Country | English country | Playford
 - Cakewalk — Cakewalk dance | Cakewalk dancing
 - Shimmy — Shimmy dance | Shimmy dancing
 - Strathspey — Strathspey dance | Strathspey dancing
 - Eightsome reel — Eightsome reel dance | Eightsome reel dancing
 - Dashing White Sergeant — Dashing White Sergeant dance | Dashing White Sergeant dancing
 - Virginia reel — Virginia reel dance | Virginia reel dancing
-- Scottish country dance — Scottish country dancing
-- Contra dance — Contra dancing
+- Scottish country dance — Scottish country dancing | Scottish country
+- Contra dance — Contra dancing | Contra
 - Lambeth Walk — Lambeth Walk dance | Lambeth Walk dancing
 - Sevillanas — Sevillanas dance | Sevillanas dancing
 - Jota — Jota dance | Jota dancing
@@ -142,37 +143,37 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Csárdás — Czardas | Csárdás dance | Csárdás dancing | Czardas dance | Czardas dancing
 - Kolo — Kolo dance | Kolo dancing
 - Dabke — Dabka | Debka | Dabkeh | Dabke dance | Dabke dancing | Dabka dance | Dabka dancing | Debka dance | Debka dancing | Dabkeh dance | Dabkeh dancing
-- Sufi whirling — Whirling | Whirling dervishes | Whirling dervish | Dervish dance | Whirling dervishes dance | Whirling dervishes dancing | Whirling dervish dance | Whirling dervish dancing | Sema | Sema dance | Sema dancing
+- Sufi whirling — Whirling | Whirling dervishes | Whirling dervish | Dervish dance | Whirling dervishes dance | Whirling dervishes dancing | Whirling dervish dance | Whirling dervish dancing | Sema | Sema dance | Sema dancing | Dervish
 - Garba — Garba dance | Garba dancing | Garba raas | Raas garba | Garba raas dance | Garba raas dancing | Raas garba dance | Raas garba dancing
 - Dandiya — Dandiya Raas | Raas | Dandiya dance | Dandiya dancing | Dandiya Raas dance | Dandiya Raas dancing | Raas dance | Raas dancing
 - Kuchipudi — Kuchipudi dance | Kuchipudi dancing
 - Odissi — Odissi dance | Odissi dancing
 - Kathakali — Kathakali dance | Kathakali dancing
 - Poi — Poi dance | Poi dancing
-- Fan dance — Buchaechum | Buchaechum dance | Buchaechum dancing | Fan dancing
+- Fan dance — Buchaechum | Buchaechum dance | Buchaechum dancing | Fan dancing | Fan
 - Bon Odori — Bon Odori dance | Bon Odori dancing | Bon dance
 - Butoh — Butō | Butoh dance | Butoh dancing | Butō dance | Butō dancing
-- Gumboot dance — Gumboot dancing | Isicathulo | Isicathulo dance | Isicathulo dancing
+- Gumboot dance — Gumboot dancing | Isicathulo | Isicathulo dance | Isicathulo dancing | Gumboot
 - Kizomba — Kizomba dance | Kizomba dancing
 - Forró — Forró dance | Forró dancing
 - Dancehall — Dancehall dance | Dancehall dancing
-- Jarabe tapatío — Mexican hat dance | Jarabe tapatío dance | Jarabe tapatío dancing | Hat dance
-- War dance — War dancing
-- Hoop dance — Hoop dancing
+- Jarabe tapatío — Mexican hat dance | Jarabe tapatío dance | Jarabe tapatío dancing | Hat dance | Mexican hat
+- War dance — War dancing | War
+- Hoop dance — Hoop dancing | Hoop
 - Lyrical dance — Lyrical | Lyrical dancing
 - Freestyle — Freestyle dance | Freestyle disco | Freestyle dancing | Freestyle disco dance | Freestyle disco dancing
 - Burlesque — Burlesque dance | Burlesque dancing
 - Go-go dancing — Go-go | Go-go dance
 - Locking — Locking dance | Locking dancing
 - Krumping — Krump | Krump dance | Krump dancing | Krumping dance
-- House dance — House dancing
-- Shuffle — Melbourne shuffle | Cutting shapes | Shuffle dance | Shuffle dancing | Melbourne shuffle dance | Melbourne shuffle dancing | Cutting shapes dance | Cutting shapes dancing
+- House dance — House dancing | House
+- Shuffle — Melbourne shuffle | Cutting shapes | Shuffle dance | Shuffle dancing | Melbourne shuffle dance | Melbourne shuffle dancing | Cutting shapes dance | Cutting shapes dancing | Shuffling
 - Running man — Running man dance | Running man dancing
 - Worm — Worm dance | Worm dancing
 - Dab — Dabbing
 - Carlton — Carlton dance | Carlton dancing
 - Harlem Shake — Harlem Shake dance | Harlem Shake dancing
-- Gangnam Style — Gangnam Style dance | Gangnam Style dancing | Horse dance
+- Gangnam Style — Gangnam Style dance | Gangnam Style dancing | Horse dance | Gangnam
 - Pogo — Pogoing | Pogo dance | Pogo dancing
 - YMCA — YMCA dance | YMCA dancing
 - Loco-motion — Loco-motion dance | Loco-motion dancing
@@ -183,15 +184,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cotton-Eye Joe — Cotton-Eyed Joe | Cotton-Eye Joe dance | Cotton-Eye Joe dancing | Cotton-Eyed Joe dance | Cotton-Eyed Joe dancing
 - Zumba — Zumba dance | Zumba dancing
 - Step dance — Step dancing
-- Lap dance — Lap dancing
+- Lap dance — Lap dancing | Lap
 - Striptease — Exotic dancing | Exotic dance | Stripping | Striptease dance | Striptease dancing
 - Corroboree — Corroboree dance | Corroboree dancing
 - Soft shoe — Soft-shoe shuffle | Soft-shoe dance | Soft shoe dancing | Soft-shoe shuffle dance | Soft-shoe shuffle dancing
-- Acro — Acro dance | Acrobatic dance | Acro dancing
+- Acro — Acro dance | Acrobatic dance | Acro dancing | Acrobatic
 - Kabuki — Kabuki dance | Kabuki dancing
 - Yakshagana — Yakshagana dance | Yakshagana dancing
+- Bush dance — Bush dancing | Australian bush dance
+- Heel and toe polka — Heel and toe | Heel toe polka | Brown Jug Polka
+- Pride of Erin — Pride of Erin waltz
+- Sprinkler
+- First dance — Wedding dance | Bridal waltz | Wedding waltz | Father-daughter dance
 
-### Tier 5: expert (262)
+### Tier 5: expert (287)
 
 - Balboa — Balboa dance | Balboa dancing
 - Shag — Carolina shag | Collegiate shag | Shag dance | Shag dancing | Carolina shag dance | Carolina shag dancing | Collegiate shag dance | Collegiate shag dancing
@@ -212,14 +218,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bus Stop — Bus Stop dance | Bus Stop dancing
 - Boogaloo — Electric boogaloo | Boogaloo dance | Boogaloo dancing | Electric boogaloo dance | Electric boogaloo dancing
 - Dougie — Dougie dance | Dougie dancing
-- Nae Nae — Whip and Nae Nae | Nae Nae dance | Nae Nae dancing | Whip and Nae Nae dance | Whip and Nae Nae dancing
+- Nae Nae — Whip and Nae Nae | Nae Nae dance | Nae Nae dancing | Whip and Nae Nae dance | Whip and Nae Nae dancing | Whip | Whip Nae Nae | Watch Me
 - Griddy — Hit the Griddy | Griddy dance | Griddy dancing | Hit the Griddy dance | Hit the Griddy dancing
 - Thriller — Thriller dance | Thriller dancing
 - Agadoo — Agadoo dance | Agadoo dancing
 - Oops Upside Your Head — Rowing dance | Oops Upside Your Head dance | Oops Upside Your Head dancing
 - Palais glide — Palais glide dance | Palais glide dancing
 - Modern jive — Ceroc | LeRoc | Modern jive dance | Modern jive dancing | Ceroc dance | Ceroc dancing | LeRoc dance | LeRoc dancing
-- Sequence dancing — Sequence dance
+- Sequence dancing — Sequence dance | Sequence | Old time dancing | Old time dance | Old-time
 - Jazzercise — Jazzercise dance | Jazzercise dancing
 - Waacking — Whacking | Punking
 - Tutting — Tutting dance
@@ -232,8 +238,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stepping
 - Jumpstyle — Jumpstyle dance | Jumpstyle dancing
 - Tecktonik — Tecktonik dance | Tecktonik dancing
-- Moshing — Mosh | Mosh pit | Mosh dance | Mosh dancing | Mosh pit dance | Mosh pit dancing
-- Skanking
+- Moshing — Mosh | Mosh pit | Mosh dance | Mosh dancing | Mosh pit dance | Mosh pit dancing | Slam dancing | Slam dance
+- Skanking — Skank
 - Volta — La volta | Lavolto | Volta dance | Volta dancing | La volta dance | La volta dancing | Lavolto dance | Lavolto dancing
 - Allemande — Allemande dance | Allemande dancing
 - Courante — Courante dance | Courante dancing
@@ -257,7 +263,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Varsovienne — Varsovienne dance | Varsovienne dancing
 - Sir Roger de Coverley — Sir Roger de Coverley dance | Sir Roger de Coverley dancing
 - Circassian circle — Circassian circle dance | Circassian circle dancing
-- Canadian barn dance
+- Canadian barn dance — Canadian barn
 - Military two-step — Military two-step dance | Military two-step dancing
 - St Bernard's waltz — St Bernard's waltz dance | St Bernard's waltz dancing
 - Seann triubhas — Shean Trews | Seann triubhas dance | Seann triubhas dancing | Shean Trews dance | Shean Trews dancing
@@ -266,7 +272,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Siege of Ennis — Siege of Ennis dance | Siege of Ennis dancing
 - Walls of Limerick — Walls of Limerick dance | Walls of Limerick dancing
 - Rapper sword — Rapper dance | Rapper | Rapper sword dance | Rapper sword dancing | Rapper dancing
-- Molly dancing — Molly dance
+- Molly dancing — Molly dance | Molly
 - Zapateado — Zapateado dance | Zapateado dancing
 - Muiñeira — Muiñeira dance | Muiñeira dancing
 - Vira — Vira dance | Vira dancing
@@ -305,10 +311,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chhau — Chau | Chhau dance | Chhau dancing | Chau dance | Chau dancing
 - Kalbelia — Kalbelia dance | Kalbelia dancing
 - Legong — Legong dance | Legong dancing
-- Tinikling — Bamboo dance | Tinikling dance
+- Tinikling — Bamboo dance | Tinikling dance | Bamboo
 - Cariñosa — Cariñosa dance | Cariñosa dancing
-- Siva — Siva dance | Siva dancing
-- Tamure — Ori Tahiti | Tahitian dance | Tamure dance | Tamure dancing | Ori Tahiti dance | Ori Tahiti dancing
+- Siva — Siva dance | Siva dancing | Siva Samoa
+- Tamure — Ori Tahiti | Tahitian dance | Tamure dance | Tamure dancing | Ori Tahiti dance | Ori Tahiti dancing | Tahitian
 - Yangge — Yangge dance | Yangge dancing
 - Nihon buyō — Nihon buyō dance | Nihon buyō dancing
 - Kagura — Kagura dance | Kagura dancing
@@ -320,7 +326,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Indlamu — Indlamu dance | Indlamu dancing
 - Azonto — Azonto dance | Azonto dancing
 - Kpanlogo — Kpanlogo dance | Kpanlogo dancing
-- Adumu — Maasai jumping dance | Jumping dance | Adumu dance | Adumu dancing
+- Adumu — Maasai jumping dance | Jumping dance | Adumu dance | Adumu dancing | Maasai jumping
 - Kuduro — Kuduro dance | Kuduro dancing
 - Semba — Semba dance | Semba dancing
 - Coupé-décalé — Coupé-décalé dance | Coupé-décalé dancing
@@ -344,19 +350,19 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bomba — Bomba dance | Bomba dancing
 - Plena — Plena dance | Plena dancing
 - Perreo — Reggaeton | Perreo dance | Perreo dancing | Reggaeton dance | Reggaeton dancing
-- Danza de los Viejitos — Dance of the Little Old Men | Danza de los Viejitos dance | Danza de los Viejitos dancing | Dance of the Little Old Men dance | Dance of the Little Old Men dancing
+- Danza de los Viejitos — Dance of the Little Old Men | Danza de los Viejitos dance | Danza de los Viejitos dancing | Dance of the Little Old Men dance | Dance of the Little Old Men dancing | Little Old Men
 - Huapango — Huapango dance | Huapango dancing
 - Pachanga — Pachanga dance | Pachanga dancing
-- Sun Dance — Sun dancing
-- Ghost Dance — Ghost dancing
+- Sun Dance — Sun dancing | Sun
+- Ghost Dance — Ghost dancing | Ghost
 - Stomp dance — Stomp dancing
-- Grass dance — Grass dancing
-- Jingle dress dance
+- Grass dance — Grass dancing | Grass
+- Jingle dress dance — Jingle dress
 - Dance of the Seven Veils — Seven veils | Dance of the Seven Veils dance | Dance of the Seven Veils dancing | Seven veils dance | Seven veils dancing
-- Fire dancing — Fire dance | Fire poi | Fire poi dance | Fire poi dancing
+- Fire dancing — Fire dance | Fire poi | Fire poi dance | Fire poi dancing | Fire
 - Buck dance — Buck dancing
 - Flatfooting
-- Fancy dance — Fancy war dance | Fancy shawl dance | Fancy dancing
+- Fancy dance — Fancy war dance | Fancy shawl dance | Fancy dancing | Fancy | Fancy war | Fancy shawl
 - Reed dance — Umhlanga | Umhlanga dance | Umhlanga dancing
 - Horon — Horon dance | Horon dancing
 - Cham dance — Cham | Cham dancing
@@ -382,22 +388,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rouf — Rouf dance | Rouf dancing
 - Bagurumba — Bagurumba dance | Bagurumba dancing
 - Chholiya — Chholiya dance | Chholiya dancing
-- Kandyan dance
-- Barong dance
-- Apsara dance
+- Kandyan dance — Kandyan
+- Barong dance — Barong
+- Apsara dance — Apsara
 - Khon — Khon dance | Khon dancing
 - Singkil — Singkil dance | Singkil dancing
 - Yosakoi — Yosakoi dance | Yosakoi dancing
 - Para Para — Para Para dance | Para Para dancing
-- Ribbon dance
-- Peacock dance
+- Ribbon dance — Ribbon
+- Peacock dance — Peacock
 - Sipi Tau — Sipi Tau dance | Sipi Tau dancing
 - Siva Tau — Siva Tau dance | Siva Tau dancing
 - Lakalaka — Lakalaka dance | Lakalaka dancing
 - Meke — Meke dance | Meke dancing
-- Pyrrhic dance — Pyrrhichios | Pyrrhichios dance | Pyrrhichios dancing
+- Pyrrhic dance — Pyrrhichios | Pyrrhichios dance | Pyrrhichios dancing | Pyrrhic
 - Ring shout — Ring shout dance | Ring shout dancing
-- Juba dance — Hambone | Hambone dance | Hambone dancing
+- Juba dance — Hambone | Hambone dance | Hambone dancing | Juba
 - Buck and wing
 - Shim Sham — Shim Sham Shimmy | Shim Sham dance | Shim Sham dancing | Shim Sham Shimmy dance | Shim Sham Shimmy dancing
 - Grizzly bear — Grizzly bear dance | Grizzly bear dancing
@@ -427,7 +433,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wining
 - Voladores — Danza de los Voladores | Voladores dance | Voladores dancing | Danza de los Voladores dance | Danza de los Voladores dancing
 - Round dance
-- Snake Dance
+- Snake Dance — Snake
 - Kwassa kwassa — Kwassa kwassa dance | Kwassa kwassa dancing
 - Mapouka — Mapouka dance | Mapouka dancing
 - Atilogwu — Atilogwu dance | Atilogwu dancing
@@ -442,32 +448,57 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Renegade — Renegade dance | Renegade dancing
 - Default dance
 - Milly Rock — Milly Rock dance | Milly Rock dancing
-- Blues dance — Blues dancing
+- Blues dance — Blues dancing | Blues
 - Peabody — Peabody dance | Peabody dancing
-- Ecstatic dance
+- Ecstatic dance — Ecstatic
 - Contact improvisation — Contact improv | Contact improvisation dance | Contact improvisation dancing | Contact improv dance | Contact improv dancing
-- Serpentine dance
+- Serpentine dance — Serpentine
 - Apache — Apache dance | Apache dancing
-- Bubble dance
+- Bubble dance — Bubble
 - Hoochie coochie — Hootchy-kootchy | Hoochie coochie dance | Hoochie coochie dancing | Hootchy-kootchy dance | Hootchy-kootchy dancing
 - Swim — Swim dance | Swim dancing
 - Jerk — Jerk dance | Jerk dancing
 - Sabar — Sabar dance | Sabar dancing
 - Saman — Saman dance | Saman dancing
 - Mapalé — Mapalé dance | Mapalé dancing
+- Duck dance
+- New Vogue — New Vogue dancing
+- Evening Three Step
+- Gypsy Tap
+- Stomp — Surfer stomp | Surf stomp | Stomping
+- Shake-a-leg
+- Bungul — Bunggul
+- Brolga dance — Brolga
+- Emu dance
+- Kangaroo dance
+- Shopping trolley — Shopping cart
+- Lawnmower — Starting the lawnmower
+- Hit the Quan
+- Stanky Leg — Stanky legg
+- Single Ladies — Single Ladies dance
+- Ketchup Song — Asereje | Las Ketchup
+- Saturday Night — Saturday Night dance | Whigfield
+- Grinding — Grind | Bump and grind
+- Dad dancing — Dad dance | Daggy dancing | Daggy dance
+- Dutty wine — Dutty wining
+- Hakken — Gabber | Gabber dance
+- Taualuga
+- Fire knife dance — Siva afi | Fire knife | Fire knife dancing
+- Pas de deux — Grand pas de deux
+- K-pop dance — K-pop | K-pop dancing
 
 ### Tier 6: rare jackpots (3)
 
-- Horn Dance — Abbots Bromley Horn Dance | Abbots Bromley | Abbots Bromley dance | Abbots Bromley dancing | Horn dancing
-- Furry Dance — Floral Dance | Flora Dance | Helston Furry Dance | Flora Day | Helston | Flora Day dance | Flora Day dancing | Helston dance | Helston dancing | Furry dancing
+- Horn Dance — Abbots Bromley Horn Dance | Abbots Bromley | Abbots Bromley dance | Abbots Bromley dancing | Horn dancing | Abbots Bromley Horn
+- Furry Dance — Floral Dance | Flora Dance | Helston Furry Dance | Flora Day | Helston | Flora Day dance | Flora Day dancing | Helston dance | Helston dancing | Furry dancing | Furry | Floral | Flora | Helston Furry
 - Kecak — Ketjak | Monkey chant | Kecak dance | Kecak dancing | Ketjak dance | Ketjak dancing | Monkey chant dance | Monkey chant dancing
 
-## Refused on purpose (15)
+## Refused on purpose (16)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Dance | Dancing | Folk dance | Folk dancing | Social dance | Social dancing | Greek dancing | Spanish dancing | Indian dance | African dance | Chinese dance — "Which dance? The deep wants a name."
-- Pirouette | Plié | Jeté | Grand jeté | Arabesque | Entrechat | Fouetté | Pas de chat | Splits | Cartwheel | Jazz hands | Box step | Twirl — "A single step or move, not a whole dance."
+- Dance | Dancing | Folk dance | Folk dancing | Social dance | Social dancing | Greek dancing | Spanish dancing | Indian dance | African dance | Chinese dance | Aboriginal dance | Aboriginal dancing | Indigenous dance | Islander dance — "Which dance? The deep wants a name."
+- Pirouette | Plié | Jeté | Grand jeté | Arabesque | Entrechat | Fouetté | Pas de chat | Splits | Cartwheel | Jazz hands | Box step | Twirl | Pointe | En pointe | Pointe work — "A single step or move, not a whole dance."
 - Rave | Powwow | Disco party | Dance party | Masked ball | Masquerade | Proms — "A party where dances happen. Name one of them."
 - Riverdance | Lord of the Dance — "A stage show, not a dance, though the Irish dancing in it counts."
 - Swan Lake | The Nutcracker | Giselle | The Rite of Spring | Sleeping Beauty | Coppélia | La Bayadère — "A ballet, one work rather than a kind of dance."
@@ -476,8 +507,9 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - St Vitus' dance | Saint Vitus' dance — "An old name for an illness, Sydenham's chorea. Not a dance."
 - Dancing plague | Dancing mania | Choreomania — "A strange outbreak of 1518, when crowds in Strasbourg danced for days on end. A malady, not a dance."
 - Danse macabre | Dance of Death | Totentanz — "The Dance of Death: an allegory painted on church walls, not a dance anyone does."
-- Aerobics | Step aerobics | Keep fit | Pilates — "A workout, not a dance."
+- Aerobics | Step aerobics | Keep fit | Pilates | Barre | Tai chi | Boxercise — "A workout, not a dance."
 - Gymnastics | Rhythmic gymnastics | Cheerleading | Figure skating | Ice skating | Synchronised swimming | Synchronized swimming | Artistic swimming — "A sport with dance in it, but not a dance itself."
-- Air guitar | Headbanging | Lip sync — "Moving to music, but not a dance."
+- Air guitar | Headbanging | Lip sync | Headbang — "Moving to music, but not a dance."
 - Fado — "A song of longing, sung rather than danced."
 - Hula hoop — "A toy for twirling round the waist. The hula itself would count."
+- Techno | Dubstep | EDM | Drum and bass | House music | Heavy metal — "Music to dance to, not a dance. Name what the dancers are doing."

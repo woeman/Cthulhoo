@@ -84,10 +84,10 @@ Each day's dive has seven questions, the same for every player on that local dat
 
 ## Tuesday, 8 December 2026
 
-1. [Name a collective noun for a group of animals.](questions/collective-nouns.md) (`collective-nouns`, 254 answers so far)
+1. [Name a collective noun for a group of animals.](questions/collective-nouns.md) (`collective-nouns`, 328 answers so far)
 2. [Name a county of England.](questions/english-counties.md) (`english-counties`, 73 answers so far)
-3. [Name a dance.](questions/dances.md) (`dances`, 434 answers so far)
-4. [Name a demon from folklore, scripture or demonology.](questions/demons.md) (`demons`, 248 answers so far)
+3. [Name a dance.](questions/dances.md) (`dances`, 465 answers so far)
+4. [Name a demon from folklore, scripture or demonology.](questions/demons.md) (`demons`, 320 answers so far)
 5. [Name a bird of prey.](questions/birds-of-prey.md) (`birds-of-prey`, 422 answers so far)
 6. [Name a subatomic particle.](questions/subatomic-particles.md) (`subatomic-particles`, 177 answers so far)
 7. [Name a winner of the World Snooker Championship.](questions/snooker-world-champions.md) (`snooker-world-champions`, 30 answers so far)

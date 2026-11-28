@@ -12,72 +12,72 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (13)
 
-- Kent
-- Yorkshire — Yorks | County of York | God's Own County
-- Essex
-- Surrey
-- Devon — Devonshire
-- Cornwall — Kernow
-- Norfolk
-- Suffolk
-- Lancashire — Lancs | County Palatine of Lancaster
-- Hampshire — Hants | County of Southampton | Southamptonshire
-- Sussex
-- Somerset — Somersetshire
-- Dorset — Dorsetshire
+- Kent — County of Kent
+- Yorkshire — Yorks | County of York | God's Own County | County of Yorkshire
+- Essex — County of Essex
+- Surrey — County of Surrey
+- Devon — Devonshire | County of Devon
+- Cornwall — Kernow | County of Cornwall
+- Norfolk — County of Norfolk
+- Suffolk — County of Suffolk
+- Lancashire — Lancs | County Palatine of Lancaster | County of Lancashire
+- Hampshire — Hants | County of Southampton | Southamptonshire | County of Hampshire
+- Sussex — County of Sussex
+- Somerset — Somersetshire | County of Somerset
+- Dorset — Dorsetshire | County of Dorset
 
 ### Tier 2: common (27)
 
-- Berkshire — Berks | Royal County of Berkshire
-- Oxfordshire — Oxon
-- Cambridgeshire — Cambs
-- Hertfordshire — Herts
-- Buckinghamshire — Bucks
-- Wiltshire — Wilts
-- Gloucestershire — Glos | Gloucs
-- Cheshire — County Palatine of Chester
-- Derbyshire — Derbys
-- Nottinghamshire — Notts
-- Lincolnshire — Lincs
-- Leicestershire — Leics
-- Warwickshire — Warks | Warwicks
-- Staffordshire — Staffs
-- Shropshire — Salop | Shrops
-- Worcestershire — Worcs
-- Northumberland — Northd | Northumb
-- Durham — County Durham | Co Durham | County Palatine of Durham
-- Cumbria
-- Greater Manchester — Gtr Manchester
-- Merseyside
-- West Midlands
-- Middlesex — Middx
-- West Yorkshire — W Yorkshire | West Yorks
-- North Yorkshire — N Yorkshire | North Yorks
-- South Yorkshire — S Yorkshire | South Yorks
-- Greater London — London
+- Berkshire — Berks | Royal County of Berkshire | County of Berkshire
+- Oxfordshire — Oxon | County of Oxfordshire
+- Cambridgeshire — Cambs | County of Cambridgeshire
+- Hertfordshire — Herts | County of Hertfordshire
+- Buckinghamshire — Bucks | County of Buckinghamshire
+- Wiltshire — Wilts | County of Wiltshire
+- Gloucestershire — Glos | Gloucs | County of Gloucestershire | Glostershire | Gloucestshire | Glosters
+- Cheshire — County Palatine of Chester | County of Cheshire
+- Derbyshire — Derbys | County of Derbyshire
+- Nottinghamshire — Notts | County of Nottinghamshire
+- Lincolnshire — Lincs | County of Lincolnshire
+- Leicestershire — Leics | County of Leicestershire | Lestershire | Lestershire county | Leicestershire county
+- Warwickshire — Warks | Warwicks | County of Warwickshire
+- Staffordshire — Staffs | County of Staffordshire
+- Shropshire — Salop | Shrops | County of Shropshire
+- Worcestershire — Worcs | County of Worcestershire | Wustershire | Woostershire | Worstershire | Worchestershire | Worcestshire
+- Northumberland — Northd | Northumb | County of Northumberland
+- Durham — County Durham | Co Durham | County Palatine of Durham | County of Durham
+- Cumbria — County of Cumbria
+- Greater Manchester — Gtr Manchester | County of Greater Manchester
+- Merseyside — County of Merseyside
+- West Midlands — County of West Midlands
+- Middlesex — Middx | County of Middlesex
+- West Yorkshire — W Yorkshire | West Yorks | County of West Yorkshire
+- North Yorkshire — N Yorkshire | North Yorks | County of North Yorkshire
+- South Yorkshire — S Yorkshire | South Yorks | County of South Yorkshire
+- Greater London — London | County of Greater London
 
 ### Tier 3: known to fans (14)
 
-- East Sussex — E Sussex
-- West Sussex — W Sussex
-- Bedfordshire — Beds
-- Northamptonshire — Northants
-- Herefordshire — Herefs
-- Rutland — Rutlandshire
+- East Sussex — E Sussex | County of East Sussex
+- West Sussex — W Sussex | County of West Sussex
+- Bedfordshire — Beds | County of Bedfordshire
+- Northamptonshire — Northants | County of Northamptonshire
+- Herefordshire — Herefs | County of Herefordshire
+- Rutland — Rutlandshire | County of Rutland
 - Isle of Wight — IOW | Wight | Vectis
 - Tyne and Wear
-- Cumberland
-- Westmorland — Westmoreland
+- Cumberland — County of Cumberland
+- Westmorland — Westmoreland | County of Westmorland
 - Avon — County of Avon
-- Humberside
-- Cleveland
+- Humberside — County of Humberside
+- Cleveland — County of Cleveland
 - East Riding of Yorkshire — East Riding | East Yorkshire | East Yorks
 
 ### Tier 4: obscure (7)
 
 - City of London — Square Mile
 - Bristol — City of Bristol | County of Bristol
-- Huntingdonshire — Hunts
+- Huntingdonshire — Hunts | County of Huntingdonshire
 - Hereford and Worcester
 - North Riding of Yorkshire — North Riding
 - West Riding of Yorkshire — West Riding
@@ -89,19 +89,19 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Soke of Peterborough — Peterborough Soke
 - Cambridgeshire and Isle of Ely
 - Huntingdon and Peterborough
-- East Suffolk
-- West Suffolk
-- Kesteven — Parts of Kesteven
-- Lindsey — Parts of Lindsey
-- Monmouthshire
+- East Suffolk — County of East Suffolk
+- West Suffolk — County of West Suffolk
+- Kesteven — Parts of Kesteven | County of Kesteven
+- Lindsey — Parts of Lindsey | County of Lindsey
+- Monmouthshire — County of Monmouthshire
 
 ### Tier 6: rare jackpots (3)
 
 - Holland — Parts of Holland
-- Hexhamshire — Liberty of Hexhamshire
-- Winchcombeshire — Winchcombshire
+- Hexhamshire — Liberty of Hexhamshire | County of Hexhamshire
+- Winchcombeshire — Winchcombshire | County of Winchcombeshire
 
-## Refused on purpose (55)
+## Refused on purpose (65)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -153,10 +153,20 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Plymouth | Exeter — "A city in Devon."
 - Norwich — "A city in Norfolk."
 - Ipswich — "A town in Suffolk."
-- Canterbury | Maidstone — "A city or town in Kent."
+- Canterbury | Maidstone | Dover | Margate | Folkestone — "A city or town in Kent."
 - Bath — "A city in Somerset."
 - Ely — "A cathedral city. Its isle was a county once, though; try the full name."
 - Peterborough — "A city. Its soke was a county once, though; try the full name."
 - North Somerset | South Gloucestershire | Bath and North East Somerset | BANES | West Berkshire | Central Bedfordshire | Cheshire East | Cheshire West and Chester | North Lincolnshire | North East Lincolnshire | North Northamptonshire | West Northamptonshire | Westmorland and Furness | Redcar and Cleveland | Telford and Wrekin | Blackburn with Darwen | Windsor and Maidenhead | Bracknell Forest | Brighton and Hove | Medway | Thurrock | Halton | Torbay | Milton Keynes | Swindon | Luton | Southend-on-Sea | Wokingham | Slough | Reading | Stockton-on-Tees | Hartlepool | Darlington | Middlesbrough | Warrington | Bournemouth, Christchurch and Poole | West Surrey | East Surrey — "A unitary council area, not a county. Try the county it sits in."
 - England — "That's the whole country. Name one of its counties."
-- Wales | Scotland | Ireland | Northern Ireland — "A country, not an English county."
+- Wales | Scotland | Ireland | Northern Ireland | Britain | Great Britain | UK | United Kingdom — "A country, not an English county."
+- Norfolk Island — "An Australian territory in the Pacific, named after a Duchess of Norfolk. The county is plain Norfolk."
+- New South Wales | NSW — "An Australian state. Cook named it after Wales, not after any English county."
+- Sutherland Shire — "Sydney's own Shire, and a long way from England."
+- New Hampshire | New York — "An American state with a name borrowed from England. The deep wants the original."
+- Windsor — "A town in Berkshire, castle and all."
+- Blackpool | Preston | Blackburn | Burnley — "A town in Lancashire."
+- Stonehenge — "A stone circle in Wiltshire, not a county."
+- Edinburgh | Glasgow | Cardiff | Swansea | Belfast | Aberdeen | Dundee | Inverness — "A city, and not an English one."
+- Isle of Skye | Skye | Hebrides | Outer Hebrides — "A Scottish island, not an English county."
+- Sherwood Forest | Sherwood — "A forest in Nottinghamshire, outlaws included. Not a county."

@@ -12,25 +12,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (8)
 
-- Ronnie O'Sullivan — The Rocket | Rocket Ronnie | Ronnie | Ronald O'Sullivan | O'Sullivan
+- Ronnie O'Sullivan — The Rocket | Rocket Ronnie | Ronnie | Ronald O'Sullivan | O'Sullivan | Ronnie O
 - Steve Davis — The Nugget | The Golden Nugget | Steve Interesting Davis | Steven Davis | Davis
 - Stephen Hendry — The King of the Crucible | The Golden Bairn | Steven Hendry | Hendrie | Hendry
 - Judd Trump — The Juddernaut | Judd | Trump
 - Mark Selby — The Jester from Leicester | The Torturer | Selby
 - John Higgins — The Wizard of Wishaw
-- Alex Higgins — The Hurricane | Hurricane Higgins | Alexander Higgins | Higgins
+- Alex Higgins — The Hurricane | Hurricane Higgins | Alexander Higgins | Higgins | Alex Hurricane Higgins
 - Dennis Taylor — Taylor
 
 ### Tier 2: common (9)
 
 - Mark Williams — The Welsh Potting Machine | Mark J Williams | Williams
 - Ray Reardon — Dracula | Reardon
-- Neil Robertson — The Thunder from Down Under | Robertson
+- Neil Robertson — The Thunder from Down Under | Robertson | Robbo | Neil Robbo
 - Shaun Murphy — The Magician | Murphy
 - Ken Doherty — Crafty Ken | The Darlin' of Dublin | The Darling of Dublin | Doherty
 - Joe Davis
 - Cliff Thorburn — The Grinder | Thorburn
-- Kyren Wilson — The Warrior | Wilson
+- Kyren Wilson — The Warrior | Wilson | Kieran Wilson | Kyran Wilson | Kyron Wilson
 - Zhao Xintong — Xintong Zhao | Xintong | The Cyclone | Zhao
 
 ### Tier 3: known to fans (7)
@@ -55,7 +55,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Walter Donaldson — Donaldson
 - Horace Lindrum — Lindrum
 
-## Refused on purpose (20)
+## Refused on purpose (27)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -68,14 +68,21 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Jak Jones — "Runner-up in 2024, but never the champion."
 - Nigel Bond — "Runner-up in 1995, but never the champion."
 - Doug Mountjoy | Mountjoy — "Runner-up in 1981, but never the champion."
-- Eddie Charlton | Charlton — "Three times the runner-up, but never the champion."
+- Eddie Charlton | Charlton | Steady Eddie — "Three times the runner-up, but never the champion."
 - Rex Williams — "Challenged for the title twice in the 1960s, but never took it."
 - Mark Allen | Allen — "Never the champion. He lost the 2026 semi-final by a single frame."
-- Willie Thorne | Thorne | Tony Drago | Tony Meo | Kirk Stevens | Tony Knowles | Patsy Fagan | Jack Lisowski | Thepchaiya Un-Nooh | Stephen Maguire | Silvino Francisco | David Taylor | Joe Perry | Perry | Si Jiahui — "Never the world champion."
-- Reanne Evans | Evans | Ng On-yee | Mink Nutcharut | Bai Yulu — "A women's world champion, but that's a different title."
+- Willie Thorne | Thorne | Tony Drago | Tony Meo | Kirk Stevens | Tony Knowles | Patsy Fagan | Jack Lisowski | Thepchaiya Un-Nooh | Stephen Maguire | Silvino Francisco | David Taylor | Joe Perry | Perry | Si Jiahui | Paul Hunter | Stephen Lee | Marco Fu | Anthony McGill | David Gilbert | Bill Werbeniuk | Big Bill Werbeniuk | James Wattana | Alan McManus | Dominic Dale | Ricky Walden | Anthony Hamilton | Hossein Vafaei | Yan Bingtao | Liang Wenbo | Quinten Hann | Vinnie Calabrese | Mark King | Ryan Day | Tom Ford | Gary Wilson | Zhang Anda | Xiao Guodong | Barry Pinches | Jimmy Robertson | Robert Milkins | Elliot Slessor | Chris Wakelin | Jackson Page | Mark Davis | Steve James | Dean Reynolds | Mike Hallett | Jackie Rea — "Never the world champion."
+- Reanne Evans | Evans | Ng On-yee | Mink Nutcharut | Bai Yulu | Allison Fisher — "A women's world champion, but that's a different title."
 - Perrie Mans | Mans — "Runner-up in 1978, but never the champion."
 - Clark McConachy | McConachy — "Lost the 1952 final. He and the champion were the only two players in it."
 - John Virgo | Virgo — "Big Break's trick-shot man, but never the world champion."
 - Ted Lowe | Whispering Ted — "Whispering Ted was the voice of snooker, not a champion."
 - Walter Lindrum — "A billiards legend, not a snooker champion."
-- Crucible | Crucible Theatre — "That's the theatre in Sheffield. Name a champion."
+- Crucible | Crucible Theatre | Sheffield — "That's the theatre in Sheffield. Name a champion."
+- Warren Simpson — "Runner-up when the championship came to Sydney in 1970, but never the champion."
+- Gary Owen — "Runner-up in 1969, but never the champion."
+- Donald Trump | President Trump — "Wrong Trump. The champion of 2019 is Judd."
+- Phil Taylor | Luke Littler | Michael van Gerwen | Eric Bristow | Raymond van Barneveld — "A darts champion. Wrong pub game."
+- Efren Reyes | Earl Strickland | Shane Van Boening — "A pool champion, not a snooker one."
+- 147 | Maximum break | Maximum | One four seven — "A maximum break, not a champion."
+- Pot Black | Big Break — "A television show, not a champion."

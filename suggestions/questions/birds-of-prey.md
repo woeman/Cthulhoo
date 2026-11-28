@@ -16,13 +16,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hawk — Hawks | Chicken Hawk | Hen Hawk | Baaz | Baz | Accipitridae | Accipitrid | Accipitriformes
 - Falcon — Tiercel | Tercel | Falco | Falconid | Falconidae | Falconiformes
 - Owl — Owls | Ullu | Strigiformes | Strigidae | Strigid
-- Vulture — Gidh | Giddh
+- Vulture — Gidh | Giddh | Vulcher | Vultcher
 - Kestrel — Common Kestrel | Eurasian Kestrel | Windhover | Kestrel falcon | Kestrel hawk | Falco tinnunculus
 - Buzzard
 - Osprey — Fish Hawk | Sea Hawk | Western Osprey | Eastern Osprey | Pandion | Pandion haliaetus | Pandionidae
 - Bald Eagle — American Eagle | American Bald Eagle | Haliaeetus leucocephalus
 - Golden Eagle — Berkut | Aquila chrysaetos
-- Peregrine Falcon — Peregrine | Duck Hawk | Shaheen | Shaheen Falcon | Shahin | Black shaheen | Falco peregrinus
+- Peregrine Falcon — Peregrine | Duck Hawk | Shaheen | Shaheen Falcon | Shahin | Black shaheen | Falco peregrinus | Paragon falcon | Peregrin | Perigrine
 - Condor — Condors
 
 ### Tier 2: common (28)
@@ -38,7 +38,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Goshawk — Northern Goshawk | Eurasian Goshawk | Accipiter gentilis | Astur gentilis | Astur
 - Barn Owl — Western Barn Owl | American Barn Owl | Common Barn Owl | Tyto | White owl | Australian barn owl | Tyto alba | Tytonidae | Tytonid
 - Tawny Owl — Brown Owl | Strix aluco
-- Snowy Owl — Arctic Owl | Bubo scandiacus | Nyctea scandiaca
+- Snowy Owl — Arctic Owl | Bubo scandiacus | Nyctea scandiaca | Snowy | Snow owl
 - Great Horned Owl — Hoot Owl | Tiger Owl | Horned owl | Bubo virginianus
 - Eagle Owl — Eurasian Eagle-Owl | Bubo | Bubo bubo
 - Little Owl — Athene | Athene noctua
@@ -60,7 +60,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Honey Buzzard — European Honey Buzzard | Pernis | Pernis apivorus
 - Rough-legged Buzzard — Rough-legged Hawk | Roughleg
-- Black Kite — Pariah Kite | Cheel | Chil | Fork-tailed kite | Black-eared kite | Milvus migrans
+- Black Kite — Pariah Kite | Cheel | Chil | Fork-tailed kite | Black-eared kite | Milvus migrans | Firehawk | Firehawks
 - Montagu's Harrier — Montague's Harrier
 - Northern Harrier — Marsh Hawk
 - Pallid Harrier
@@ -134,8 +134,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Saw-whet Owl — Northern Saw-whet Owl | Aegolius | Aegolius acadicus
 - Tengmalm's Owl — Boreal Owl
 - Ural Owl
-- Morepork — Ruru
-- Boobook — Southern Boobook | Mopoke | Ninox
+- Morepork — Ruru | Morepork owl
+- Boobook — Southern Boobook | Mopoke | Ninox | Boobook owl | Southern boobook owl | Mopoke owl
 - Owlet — Owlets
 
 ### Tier 4: obscure (156)
@@ -450,7 +450,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Black-thighed Falconet
 - Laughing Falcon — Herpetotheres
 
-## Refused on purpose (28)
+## Refused on purpose (29)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -482,3 +482,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Tawny frogmouth | Frogmouth | Owlet-nightjar — "Not an owl, though it looks like one: a cousin of the nightjars."
 - Kakapo | Owl parrot — "A flightless parrot of New Zealand, once called the owl parrot. Not a raptor."
 - Hedwig — "Harry Potter's owl. Name her species."
+- Emu | Cassowary | Ibis | Bin chicken | Cockatoo | Galah | Lyrebird | Brolga | Currawong | Magpie-lark | Peewee | Lorikeet | Rosella | Budgerigar | Parrot | Pigeon | Sparrow | Duck | Swan | Penguin | Ostrich | Mockingbird | Robin — "A bird, but not a bird of prey."
