@@ -1,0 +1,9 @@
+{
+  "id": "languages",
+  "name": "Languages",
+  "title": "The Unspeakable Tongues",
+  "blurb": "Living and dead languages, scripts, grammar, borrowed words and First Languages.",
+  "group": "Languages",
+  "order": 7,
+  "asOf": "2026-11-28"
+}

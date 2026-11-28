@@ -1,0 +1,218 @@
+id: geography-australian-rivers
+text: Name a river in Australia.
+flavor: Most of them run dry for years, then come back all at once. They are patient like that.
+rules: Any named Australian river or major creek.
+section: Australia
+---
+1 Murray | Murray River | River Murray | Millewa
+1 Yarra | Yarra River | Birrarung
+1 Darling | Darling River | Baaka | Barka
+1 Brisbane River | Brisbane | Maiwar
+1 Swan | Swan River | Derbarl Yerrigan
+2 Murrumbidgee | Murrumbidgee River | The Bidgee
+2 Parramatta River | Parramatta
+2 Hawkesbury | Hawkesbury River | Nepean | Nepean River | Hawkesbury-Nepean | Dyarubbin
+2 Snowy | Snowy River
+2 Derwent | Derwent River | River Derwent
+2 Torrens | River Torrens | Torrens River | Karrawirra Parri
+2 Franklin | Franklin River
+2 Hunter | Hunter River
+2 Fitzroy | Fitzroy River | Martuwarra
+2 Daintree | Daintree River
+2 Lachlan | Lachlan River
+2 Tamar | Tamar River | kanamaluka
+6 Todd | Todd River | Lhere Mparntwe :: Alice Springs holds a boat race on it every year, in a dry bed, with the crews running. The regatta was cancelled in 1993 because the river had water in it.
+2 Ord | Ord River
+2 Katherine River | Katherine
+2 Clarence | Clarence River
+2 Maribyrnong | Maribyrnong River
+2 Georges River | Georges
+2 Molonglo | Molonglo River
+3 Macquarie | Macquarie River | Wambuul
+3 Goulburn | Goulburn River
+3 Murchison | Murchison River
+3 Gascoyne | Gascoyne River
+3 Burdekin | Burdekin River
+3 Mary | Mary River
+3 Tweed | Tweed River
+3 Richmond River
+3 Manning | Manning River
+3 Hastings | Hastings River
+3 Macleay | Macleay River
+3 Bellinger | Bellinger River
+3 Shoalhaven | Shoalhaven River
+3 Cooks River | Cooks
+3 Lane Cove River | Lane Cove
+3 Namoi | Namoi River
+3 Gwydir | Gwydir River
+3 Barwon | Barwon River
+3 Castlereagh | Castlereagh River
+3 Bogan | Bogan River
+3 Paroo | Paroo River
+3 Warrego | Warrego River
+3 Condamine | Condamine River
+3 Balonne | Balonne River
+3 Culgoa
+3 Macintyre | Macintyre River | Dumaresq
+3 Cooper Creek | Coopers Creek | Cooper
+3 Diamantina | Diamantina River
+3 Georgina | Georgina River
+3 Finke | Finke River | Larapinta
+3 Flinders | Flinders River
+3 Mitchell | Mitchell River
+3 Gilbert River
+3 Norman River
+3 Leichhardt River
+3 Gregory River
+3 Barron | Barron River
+3 Johnstone | Johnstone River
+3 Tully River
+3 Herbert | Herbert River
+3 Pioneer River
+3 Dawson River
+3 Burnett | Burnett River
+3 Logan River | Albert River
+3 Nerang | Nerang River
+3 Bremer | Bremer River
+3 Pine River
+3 Noosa River
+3 Maroochy | Maroochy River
+3 Barcoo | Barcoo River
+3 Thomson | Thomson River
+3 Bulloo
+3 Ovens | Ovens River
+3 King River
+3 Kiewa | Kiewa River
+3 Mitta Mitta | Mitta Mitta River
+3 Campaspe | Campaspe River
+3 Loddon | Loddon River
+3 Wimmera | Wimmera River
+3 Glenelg River
+3 Hopkins River
+3 Latrobe | La Trobe River | Latrobe River
+3 Tambo
+3 Werribee River | Werribee
+3 Moorabool
+3 Avon | Avon River
+3 Canning | Canning River
+3 Blackwood | Blackwood River
+3 Margaret River
+3 Collie River
+3 Ashburton | Ashburton River
+3 Fortescue | Fortescue River
+3 De Grey | De Grey River
+3 Pentecost | Pentecost River
+3 Drysdale River
+3 King Edward River
+3 Victoria River | Victoria
+3 Daly | Daly River
+3 Roper | Roper River
+3 Adelaide River
+3 East Alligator | East Alligator River | Alligator Rivers | South Alligator | South Alligator River | West Alligator
+3 McArthur River
+3 Onkaparinga | Onkaparinga River
+3 Gordon | Gordon River
+3 Huon | Huon River
+3 Pieman | Pieman River
+3 Arthur River
+3 Mersey | Mersey River
+3 South Esk | North Esk | Esk River | South Esk River
+4 Cotter | Cotter River
+4 Queanbeyan River
+4 Tumut River
+4 Wollondilly | Wollondilly River
+4 Colo River
+4 Wingecarribee
+4 Abercrombie River
+4 Turon | Turon River
+4 Cudgegong
+4 Edward River | Kolety
+4 Wakool
+4 Paterson River | Williams River
+4 Myall River
+4 Nambucca | Nambucca River
+4 Brunswick River
+4 Wilsons River
+4 Clyde River
+4 Bega River
+4 Genoa River
+4 Tuross
+4 Mann River | Nymboida | Nymboida River
+4 Severn River
+4 Fish River
+4 Eucumbene
+4 Thredbo River | Crackenback
+4 Bass River
+4 Plenty River
+4 Merri Creek
+4 Moonee Ponds Creek
+4 Dandenong Creek
+4 Nicholson River
+4 Macalister
+4 Buffalo River
+4 Broken River
+4 Avoca River
+4 Gawler River
+4 Sturt River | Warriparri
+4 Broughton River
+4 Wakefield River
+4 Strzelecki Creek
+4 Warburton River | Warburton Creek
+4 Neales River
+4 Palmer River
+4 Wenlock River
+4 Jardine River
+4 Archer River
+4 Normanby River
+4 Endeavour River
+4 Mossman River
+4 Mulgrave River | Russell River
+4 Ross River
+4 Bowen River
+4 Isaac River
+4 Mackenzie River
+4 Nogoa
+4 Comet River
+4 Calliope River
+4 Boyne River
+4 Kolan River
+4 Stanley River
+4 Caboolture River
+4 Coomera River
+4 Currumbin Creek | Tallebudgera Creek
+4 Maranoa
+4 Moonie River
+4 Harding River
+4 Greenough River
+4 Irwin River
+4 Moore River
+4 Helena River
+4 Harvey River
+4 Preston River
+4 Warren River
+4 Frankland River
+4 Kalgan River
+4 Oakover River
+4 Durack River
+4 Chamberlain River
+4 Lennard River
+4 Isdell River
+4 Prince Regent River
+4 Keep River
+4 Fitzmaurice River
+4 Finniss River
+4 Jordan River
+4 Ouse River
+4 Meander River
+4 Forth River
+4 Leven River
+4 Savage River
+4 Henty River
+4 Ringarooma
+4 Prosser River
+4 Picton River
+4 Weld River
+6 Styx | Styx River :: Tasmania has a River Styx. It runs through a valley of swamp gums, the tallest flowering plants on Earth, some of them over 90 metres high.
+x Lake Eyre | Kati Thanda | Sydney Harbour | Port Phillip | Lake Burley Griffin | Great Barrier Reef | Bass Strait | Murray-Darling Basin | Lake Argyle :: Water, certainly, but not a river.
+x Nile | Amazon | Thames | Mississippi | Waikato | Sepik | Fly River | Clutha :: A river, but not an Australian one.
+x River | Creek | Billabong | Stream :: Which one? Name the river.
