@@ -39,7 +39,7 @@ export interface CandleActions {
 /** How long the question takes to rise, word by word (the daily's own timing). */
 export const riseMs = (text: string, reduced: boolean) => (reduced ? 0 : 180 + 700 + Math.min(text.split(/\s+/).length, 14) * 70);
 
-function questionBlock(prompt: CandlePrompt, id: string, rulesId: string, cls = 'question') {
+export function questionBlock(prompt: CandlePrompt, id: string, rulesId: string, cls = 'question') {
   return {
     q: h('h2', { class: cls, id, tabindex: '-1', style: '--rise-lead:180ms' }, risingWords(prompt.text)),
     rules: prompt.rules ? h('p', { class: 'rules', id: rulesId }, prompt.rules) : null,

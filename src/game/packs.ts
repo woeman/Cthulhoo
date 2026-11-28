@@ -6,7 +6,7 @@
 
 import { adoptPrompts, cleanPrompt, type Bank } from './bank';
 import { DAILY_GROUP, chosenTopics, dailyTopics, packOfTopic, packTopic, type Topic } from './topics';
-import type { PromptDef, ThemeCopy } from './types';
+import type { PromptDef, PromptMeta, ThemeCopy } from './types';
 
 export interface PackInfo {
   id: string;
@@ -157,11 +157,16 @@ export class TopicBook {
   private indexed = 0;
 
   constructor(
-    private bank: Pick<Bank, 'prompts' | 'byId'>,
+    private bank: Pick<Bank, 'prompts' | 'byId' | 'has' | 'about' | 'whole'>,
     private theme: Pick<ThemeCopy, 'categories'>,
     fetchJson: PackFetcher,
   ) {
     this.own = new Set(bank.prompts.map((p) => p.id));
+    // The daily bank asks first, whichever of its questions have been fetched: a pack that asks the same thing is its copy.
+    for (const p of bank.prompts) {
+      const words = wordsOf(p.text);
+      if (!this.firstToAsk.has(words)) this.firstToAsk.set(words, p.id);
+    }
     this.packs = new Packs(fetchJson, (prompts) => adoptPrompts(bank, prompts));
   }
 
@@ -176,10 +181,12 @@ export class TopicBook {
   }
 
   /**
-   * The questions a choice draws from. Rejects when a ticked pack cannot be
-   * loaded: asking about something else instead would not be what was chosen.
+   * The questions a choice draws from, to choose among: the daily bank's come
+   * without their answers (see Bank.whole), a class pack's are loaded with it.
+   * Rejects when a ticked pack cannot be loaded: asking about something else
+   * instead would not be what was chosen.
    */
-  async pool(choice: string[]): Promise<PromptDef[]> {
+  async pool(choice: string[]): Promise<PromptMeta[]> {
     const topics = await this.all();
     // A ticked pack that is not in the list means the list could not be fetched.
     if (choice.some((id) => packOfTopic(id) && !topics.some((t) => t.id === id))) throw new Error('A chosen class pack could not be reached.');
@@ -191,6 +198,11 @@ export class TopicBook {
       if (pack) out.push(...(await this.packs.load(pack)));
     }
     return out;
+  }
+
+  /** A class pack's questions, whole. Rejects when the pack cannot be had. */
+  pack(id: string): Promise<PromptDef[]> {
+    return this.packs.load(id);
   }
 
   /** The topic a question belongs to: its pack's when it came from one, else its category. */
@@ -208,9 +220,10 @@ export class TopicBook {
    */
   sameAs(id: string): string {
     const copied = this.copied(id);
-    const p = this.bank.byId.get(copied) ?? this.bank.byId.get(id);
+    const p = this.bank.about(copied) ?? this.bank.about(id);
     if (!p) return copied;
-    // The bank only grows (a pack is adopted when it loads), so the index is caught up when it has.
+    // What is here whole only grows (a pack is adopted when it loads, a daily question when it is fetched),
+    // so the index is caught up when it has. The daily bank's own words were all indexed at the start.
     if (this.indexed < this.bank.byId.size) {
       let i = 0;
       for (const other of this.bank.byId.values()) {
@@ -231,9 +244,15 @@ export class TopicBook {
     return this.own.has(rest) ? rest : id;
   }
 
-  /** Makes sure saved question ids from class packs can be found again after a reload. */
-  ensure(promptIds: string[]): Promise<void> {
-    return this.packs.ensure(promptIds.filter((id) => !this.bank.byId.has(id)));
+  /**
+   * Makes sure saved question ids can be found whole again after a reload: the
+   * daily bank's are fetched, and so is whichever class pack holds the others.
+   * Never rejects: what could not be had is simply still missing.
+   */
+  async ensure(promptIds: string[]): Promise<void> {
+    const missing = promptIds.filter((id) => !this.bank.byId.has(id));
+    if (!missing.length) return;
+    await Promise.all([this.bank.whole(missing.filter((id) => this.bank.has(id))), this.packs.ensure(missing.filter((id) => !this.bank.has(id)))]);
   }
 }
 

@@ -1,10 +1,14 @@
-// The surface relay for Cthulhoo. It holds séance rooms (one Durable Object per
-// sign, with WebSockets) and cult boards (one Durable Object per cult). No
-// accounts: a device is known by the random mark the game makes for it.
+// The surface relay for Cthulhoo. It holds séance rooms and convocations (one
+// Durable Object per sign, with WebSockets) and cult boards (one Durable Object
+// per cult). No accounts: a device is known by the random mark the game makes for it.
 //
 //   POST /seance                  open a séance, returns { sign }
 //   GET  /seance/:sign            { phase, sitters, full } or 404
 //   GET  /seance/:sign/socket     the WebSocket a device sits on
+//   POST /class                   open a convocation (a class-sized séance), returns { sign, key }:
+//                                 the key is the host's alone, and runs the class
+//   GET  /class/:sign             { phase, seats, full } or 404
+//   GET  /class/:sign/socket      the WebSocket the host or a diver sits on
 //   POST /cult                    { id, name, day } found a cult, returns { sign, board }
 //   GET  /cult/:sign?id=&day=     the week's board
 //   POST /cult/:sign/join         { id, name, day }
@@ -16,18 +20,21 @@
 //   GET  /census/:day             every question counted that day
 
 import { CENSUS_READ_MAX, cleanCensusAnswer, cleanPromptId } from '../../src/party/census';
+import { makeKey } from '../../src/party/classroom';
 import { makeSign, parseSign } from '../../src/party/codes';
 import { relayDay, validId } from '../../src/party/cult';
 import { Census } from './census';
+import { Classroom } from './classroom';
 import { Cult, type CultReply } from './cult';
 import { Seance } from './seance';
 
-export { Census, Cult, Seance };
+export { Census, Classroom, Cult, Seance };
 
 export interface Env {
   SEANCE: DurableObjectNamespace<Seance>;
   CULT: DurableObjectNamespace<Cult>;
   CENSUS: DurableObjectNamespace<Census>;
+  CLASSROOM: DurableObjectNamespace<Classroom>;
 }
 
 const CORS = {
@@ -76,6 +83,27 @@ async function seance(req: Request, env: Env, parts: string[]): Promise<Response
   if (parts.length === 2 && req.method === 'GET') {
     const peek = await stub.peek();
     return peek ? json({ sign, ...peek }) : oops('No séance has that sign.', 404);
+  }
+  return oops('Nothing lives here.', 404);
+}
+
+async function classroom(req: Request, env: Env, parts: string[]): Promise<Response> {
+  if (parts.length === 1) {
+    if (req.method !== 'POST') return oops('Use POST to open a class.', 405);
+    const key = makeKey(rand);
+    for (let i = 0; i < 16; i++) {
+      const sign = makeSign('class', rand);
+      if (await env.CLASSROOM.get(env.CLASSROOM.idFromName(sign)).open(sign, key)) return json({ sign, key });
+    }
+    return oops('Every sign is in use. Try again in a moment.', 503);
+  }
+  const sign = parseSign(decodeURIComponent(parts[1]), 'class');
+  if (!sign) return oops('No class has that sign.', 404);
+  const stub = env.CLASSROOM.get(env.CLASSROOM.idFromName(sign));
+  if (parts[2] === 'socket') return stub.fetch(req);
+  if (parts.length === 2 && req.method === 'GET') {
+    const peek = await stub.peek();
+    return peek ? json({ sign, ...peek }) : oops('No class has that sign.', 404);
   }
   return oops('Nothing lives here.', 404);
 }
@@ -144,6 +172,7 @@ export default {
     try {
       if (!parts.length || parts[0] === 'health') return json({ ok: true, relay: 'cthulhoo' });
       if (parts[0] === 'seance') return await seance(req, env, parts);
+      if (parts[0] === 'class') return await classroom(req, env, parts);
       if (parts[0] === 'cult') return await cult(req, env, parts, url);
       if (parts[0] === 'census') return await census(req, env, parts);
       return oops('Nothing lives here.', 404);

@@ -719,12 +719,25 @@ a.btn {
   height: 1.5em;
 }
 
-/* A returning diver's title carries the career as well: less air above the
-   crest on a phone, so the ways down (the descent, the riddle, the séance) stay
-   on the first screen. */
+/* A phone: less air above the crest and a little less in each way down, so
+   the four of them and the row beneath stay on the first screen. A returning
+   diver's title carries the career as well, and gives up the rest of the air. */
 @media (max-height: 940px) and (max-width: 639px) {
+  .title-screen {
+    padding-top: var(--space-4);
+  }
+
   .title-screen.has-career {
     padding-top: var(--space-1);
+  }
+
+  .title-screen .title-actions {
+    gap: var(--space-2);
+  }
+
+  .title-screen .mode-btn {
+    min-height: 52px;
+    padding-block: var(--space-1);
   }
 }
 
@@ -820,6 +833,59 @@ a.btn {
   letter-spacing: var(--tracking-caps);
   font-size: var(--step--2);
   border-radius: var(--radius-tag);
+}
+
+/* A dive's questions are fetched as it begins. This plate is seen only when the
+   line is slow or down: it stands where the first question will, clear of the
+   sounding line as a question is. */
+.fetch-screen {
+  justify-content: flex-start;
+  padding-right: calc(var(--space-4) + 14px);
+}
+
+.fetch-plate {
+  margin-top: clamp(var(--space-2), 4vh, var(--space-7));
+  display: grid;
+  justify-items: center;
+  gap: var(--space-2);
+  text-align: center;
+}
+
+.fetch-line {
+  margin: 0;
+  font-family: var(--font-text);
+  font-weight: 500;
+  font-size: var(--step-1);
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+.fetch-sub {
+  margin: 0;
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--step--1);
+  color: var(--color-ink-muted);
+  text-wrap: pretty;
+}
+
+/* waiting: the line breathes, so a slow fetch never looks like a stopped game */
+.fetch-plate[role='status'] .fetch-line {
+  animation: fetch-breathe 2.4s ease-in-out infinite;
+}
+
+@keyframes fetch-breathe {
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.fetch-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-2);
+  margin-top: var(--space-3);
 }
 
 /* the air gauge: a breath held, draining */
@@ -1697,6 +1763,7 @@ a.btn {
   flex: none;
   display: grid;
   justify-items: center;
+  gap: var(--space-3);
   padding: var(--space-4) var(--space-5) calc(var(--space-5) + env(safe-area-inset-bottom));
   border-top: 1px solid var(--color-rule-soft);
 }

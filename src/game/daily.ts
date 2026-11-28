@@ -1,5 +1,8 @@
 import type { BankDay, DayRecord, PromptDef } from './types';
 
+/** All the plan reads of a question: its answers are never needed to deal the days. */
+type Question = Pick<PromptDef, 'id' | 'category'>;
+
 // Day 1 is launch day, 27 November 2026. A new dive begins at local midnight.
 export const EPOCH_UTC = Date.UTC(2026, 10, 27);
 export const PROMPTS_PER_DAY = 7;
@@ -76,11 +79,11 @@ export function seededShuffle<T>(list: T[], seed: number): T[] {
 
 const SEED = 0x0c7a1a; // the deep's own number
 const scheduleCache = new Map<string, string[][]>();
-const byId = (a: PromptDef, b: PromptDef) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
-const largestFirst = (groups: PromptDef[][]) => groups.sort((a, b) => b.length - a.length);
+const byId = (a: Question, b: Question) => (a.id < b.id ? -1 : a.id > b.id ? 1 : 0);
+const largestFirst = (groups: Question[][]) => groups.sort((a, b) => b.length - a.length);
 
-function byCategory(pool: PromptDef[]): PromptDef[][] {
-  const groups = new Map<string, PromptDef[]>();
+function byCategory(pool: Question[]): Question[][] {
+  const groups = new Map<string, Question[]>();
   for (const p of pool) {
     const g = groups.get(p.category);
     if (g) g.push(p);
@@ -97,7 +100,7 @@ function byCategory(pool: PromptDef[]): PromptDef[][] {
  * into whole days leaves its spare prompts out of the cycle, taken from the
  * largest categories (different prompts each cycle).
  */
-export function planCycle(prompts: PromptDef[], cycle: number): string[][] {
+export function planCycle(prompts: Question[], cycle: number): string[][] {
   const sig = `${cycle}|${prompts.map((p) => `${p.id}:${p.category}`).join(',')}`;
   const hit = scheduleCache.get(sig);
   if (hit) return hit;
@@ -115,7 +118,7 @@ export function planCycle(prompts: PromptDef[], cycle: number): string[][] {
 }
 
 /** The bank's fixed days by day number: known prompts only, each once, at most a day's worth. */
-function fixedDays(prompts: PromptDef[], fixed: BankDay[]): Map<number, string[]> {
+function fixedDays(prompts: Question[], fixed: BankDay[]): Map<number, string[]> {
   const known = new Set(prompts.map((p) => p.id));
   const out = new Map<number, string[]>();
   for (const f of fixed) {
@@ -134,7 +137,7 @@ function fixedDays(prompts: PromptDef[], fixed: BankDay[]): Map<number, string[]
  * first day is swapped with a middle day if it would repeat a prompt from the
  * day before (the previous cycle's last day, which is never moved itself).
  */
-function cycleDays(prompts: PromptDef[], pins: Map<number, string[]>, cycle: number, length: number, settle: boolean): Map<number, string[]> {
+function cycleDays(prompts: Question[], pins: Map<number, string[]>, cycle: number, length: number, settle: boolean): Map<number, string[]> {
   const first = cycle * length + 1;
   const reserved = new Set<string>();
   const open: number[] = [];
@@ -168,7 +171,7 @@ function cycleDays(prompts: PromptDef[], pins: Map<number, string[]>, cycle: num
  *
  * `dateKey`, when given, must be the local date of `day`.
  */
-export function promptsForDay(prompts: PromptDef[], day: number, fixed: BankDay[] = [], dateKey?: string): string[] {
+export function promptsForDay(prompts: Question[], day: number, fixed: BankDay[] = [], dateKey?: string): string[] {
   if (!prompts.length) return [];
   const pins = fixedDays(prompts, fixed);
   const own = pins.get(dateKey === undefined ? day : (dayNumberForKey(dateKey) ?? NaN));
@@ -183,7 +186,7 @@ export function promptsForDay(prompts: PromptDef[], day: number, fixed: BankDay[
  * A run of days written out as fixed days, for the bank. Adding these before
  * the bank's prompts change keeps every one of those days exactly as it was.
  */
-export function freezeDays(prompts: PromptDef[], fixed: BankDay[], from: number, to: number): BankDay[] {
+export function freezeDays(prompts: Question[], fixed: BankDay[], from: number, to: number): BankDay[] {
   const out: BankDay[] = [];
   for (let day = Math.max(1, from); day <= to; day++) {
     const date = dateKeyForDay(day);
@@ -197,7 +200,7 @@ export function freezeDays(prompts: PromptDef[], fixed: BankDay[], from: number,
  * else to keep clear of), 1 to PRACTICE_HORIZON for the days ahead, and one more
  * than that for a prompt nobody is due to meet soon.
  */
-export function practiceRank(prompts: PromptDef[], avoid: string[], day?: number, fixed: BankDay[] = []): (id: string) => number {
+export function practiceRank(prompts: Question[], avoid: string[], day?: number, fixed: BankDay[] = []): (id: string) => number {
   const due = new Map<string, number>();
   if (day !== undefined) {
     for (let k = PRACTICE_HORIZON; k >= 1; k--) {
@@ -216,12 +219,12 @@ export function practiceRank(prompts: PromptDef[], avoid: string[], day?: number
  * question that one from elsewhere copies, so a copy waits as long as its original.
  */
 export function practiceQueue(
-  prompts: PromptDef[],
+  prompts: Question[],
   avoid: string[],
   seed: number,
   day?: number,
   fixed: BankDay[] = [],
-  among: PromptDef[] = prompts,
+  among: Question[] = prompts,
   same: (id: string) => string = (id) => id,
 ): string[] {
   const rank = practiceRank(prompts, avoid, day, fixed);
@@ -235,7 +238,7 @@ export function practiceQueue(
  * preview the coming dives. Only a bank too small for that falls back on them:
  * the furthest off first, today's last.
  */
-export function practicePrompts(prompts: PromptDef[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = []): string[] {
+export function practicePrompts(prompts: Question[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = []): string[] {
   return practiceQueue(prompts, avoid, seed, day, fixed).slice(0, PROMPTS_PER_DAY);
 }
 

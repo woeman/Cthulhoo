@@ -14,7 +14,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Oxygen — Oxygen gas | Liquid oxygen
 - Hydrogen — Hydrogen gas | Liquid hydrogen
-- Carbon
+- Carbon — Carbon 14 | Carbon 12 | Radiocarbon
 - Gold — Aurum
 - Iron — Ferrum
 - Helium — Helium gas | Liquid helium
@@ -23,16 +23,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 2: common (12)
 
 - Silver — Argentum
-- Copper — Cuprum
+- Copper — Cuprum | Coppa
 - Sodium — Natrium
-- Lead — Plumbum
+- Lead — Plumbum | Led
 - Neon — Neon gas
-- Uranium
+- Uranium — Uranium 235 | Uranium 238 | U-235 | U-238 | Enriched uranium | Depleted uranium
 - Mercury — Quicksilver | Hydrargyrum | Liquid mercury
-- Calcium
-- Plutonium
-- Aluminium — Aluminum | Alumium
-- Krypton — Krypton gas
+- Calcium — Calsium | Kalcium
+- Plutonium — Plutonium 239
+- Aluminium — Aluminum | Alumium | Ally | Alli
+- Krypton — Krypton gas | Cripton
 - Tungsten — Wolfram | Wolframium
 
 ### Tier 3: known to fans (13)
@@ -43,30 +43,30 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Magnesium
 - Lithium
 - Titanium
-- Chlorine — Chlorine gas
+- Chlorine — Chlorine gas | Klorine | Clorine
 - Sulfur — Sulphur | Brimstone
 - Tin — Stannum
 - Argon — Argon gas
 - Silicon
-- Iodine
-- Fluorine — Fluorine gas
+- Iodine — Ioden | Eyeodine
+- Fluorine — Fluorine gas | Florine
 
 ### Tier 4: obscure (31)
 
 - Radon — Niton | Radium emanation | Emanation | Thoron | Radon gas
-- Phosphorus — Phosphorous | Phosphor
+- Phosphorus — Phosphorous | Phosphor | Fosforus
 - Nickel
 - Cobalt
-- Xenon — Xenon gas
+- Xenon — Xenon gas | Zeenon
 - Radium
 - Boron
-- Beryllium — Glucinium | Glucinum
-- Chromium
+- Beryllium — Glucinium | Glucinum | Berilium
+- Chromium — Chrome
 - Manganese
-- Arsenic
+- Arsenic — Arsnick
 - Einsteinium
 - Polonium
-- Caesium — Cesium
+- Caesium — Cesium | Seesium | Seezium
 - Bismuth
 - Strontium
 - Barium
@@ -79,7 +79,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Thorium
 - Americium
 - Californium
-- Gallium — Eka-aluminium | Eka-aluminum
+- Gallium — Eka-aluminium | Eka-aluminum | Galium
 - Cadmium
 - Selenium
 - Germanium — Eka-silicon
@@ -90,9 +90,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Scandium — Eka-boron
 - Vanadium — Erythronium | Panchromium
 - Rubidium
-- Yttrium
+- Yttrium — Itrium
 - Niobium — Columbium
-- Molybdenum
+- Molybdenum — Moly
 - Technetium — Eka-manganese | Masurium
 - Ruthenium
 - Rhodium
@@ -115,7 +115,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hafnium — Celtium
 - Tantalum
 - Rhenium — Dvi-manganese
-- Thallium
+- Thallium — Thalium
 - Francium — Eka-caesium | Eka-cesium | Virginium
 - Actinium
 - Protactinium — Protoactinium | Brevium
@@ -146,7 +146,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ytterbium — Neoytterbium
 - Astatine — Eka-iodine | Alabamine
 
-## Refused on purpose (17)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -167,3 +167,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Silicone — "A rubbery polymer, not an element. The element has one letter fewer."
 - Au | H | He | Li | Be | B | C | N | O | F | Ne | Na | Mg | Al | Si | P | S | Cl | Ar | K | Ca | Sc | Ti | V | Cr | Mn | Fe | Co | Ni | Cu | Zn | Ga | Ge | As | Se | Br | Kr | Rb | Sr | Y | Zr | Nb | Mo | Tc | Ru | Rh | Pd | Ag | Cd | In | Sn | Sb | Te | I | Xe | Cs | Ba | La | Ce | Pr | Nd | Pm | Sm | Eu | Gd | Tb | Dy | Ho | Er | Tm | Yb | Lu | Hf | Ta | W | Re | Os | Ir | Pt | Hg | Tl | Pb | Bi | Po | At | Rn | Fr | Ra | Ac | Th | Pa | U | Np | Pu | Am | Cm | Bk | Cf | Es | Fm | Md | No | Lr | Rf | Db | Sg | Bh | Hs | Mt | Ds | Rg | Cn | Nh | Fl | Mc | Lv | Ts | Og — "A symbol. Give the element its name."
 - Ozone — "A molecule of three oxygen atoms. Plain oxygen would have counted."
+- Deuterium | Tritium | Protium — "An isotope of hydrogen: heavier, but the same element."
+- Bauxite | Iron ore | Yellowcake | Pyrite | Fool's gold | Quartz | Galena | Cinnabar | Haematite | Hematite — "An ore. The element is still locked inside it."
+- Noble gas | Noble gases | Halogen | Halogens | Alkali metal | Alkali metals | Rare earth | Rare earths | Rare earth metal | Lanthanide | Lanthanides | Actinide | Actinides | Transition metal | Metal | Gas — "A family of elements. Name one member."
+- Pewter | Alloy | Amalgam | Electrum | White gold | Rose gold | Sterling silver | Stainless steel — "An alloy: a blend of metals, not an element."

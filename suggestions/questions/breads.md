@@ -6,42 +6,42 @@ Rules: Any named bread from anywhere in the world, leavened or flat. Cakes, past
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (284 answers)
+## Accepted now (322 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (12)
 
-- Sourdough — Sourdough bread | Sourdough loaf | San Francisco sourdough | Pain au levain | Levain
-- Baguette — French stick | French bread | Baguette bread | French loaf | French baguette | Flûte | Parisienne
-- Ciabatta — Ciabatta bread
-- Bagel — Bagel bread | Beigel
-- Naan — Nan | Naan bread | Garlic naan | Peshwari naan | Peshawari naan | Keema naan
-- Pitta — Pita | Pitta bread | Pita bread | Kmaj
+- Sourdough — Sourdough bread | Sourdough loaf | San Francisco sourdough | Pain au levain | Levain | Sourdoe | Sourdo | Sourdoh | Sourdow | Rye sourdough | White sourdough | Wholemeal sourdough | Seeded sourdough | Fruit sourdough
+- Baguette — French stick | French bread | Baguette bread | French loaf | French baguette | Flûte | Parisienne | Baguet | Baggette
+- Ciabatta — Ciabatta bread | Ciabatta roll
+- Bagel — Bagel bread | Beigel | Montreal bagel | New York bagel | Everything bagel | Sesame bagel
+- Naan — Nan | Naan bread | Garlic naan | Peshwari naan | Peshawari naan | Keema naan | Cheese naan | Butter naan
+- Pitta — Pita | Pitta bread | Pita bread | Kmaj | Lebanese bread | Lebanese | Lebanese flatbread | Lebanese pita | Pocket bread | Pita pocket
 - Focaccia — Focaccia bread | Fugazza | Focaccia di Recco | Focaccia barese | Focaccia genovese | Focaccia pugliese
-- White bread — Sliced white | Sliced bread | Wonder Bread
-- Brown bread — Wheat bread | Hovis
+- White bread — Sliced white | Sliced bread | Wonder Bread | White | White loaf | White sliced | White sandwich | Toast bread | Tip Top | Wonder White | Mighty Soft | Sunblest | Kingsmill | Warburtons | Mother's Pride
+- Brown bread — Wheat bread | Hovis | Brown
 - Wholemeal — Whole wheat | Wholegrain | Wholemeal bread | Pain complet | Whole-wheat bread
 - Rye bread — Rye | Dark rye | Light rye | Jewish rye | Marble rye | Deli rye | Caraway rye | Roggenbrot | Pain de seigle
-- Bread roll — Roll | Bap | Batch | Barm | Barm cake | Bun | Breadcake | Cob | Dinner roll | Burger bun | Hamburger bun | Hot dog bun | Hoagie roll | Sub roll | Submarine roll | Finger roll | Bridge roll | Crusty roll | Cloverleaf roll
+- Bread roll — Roll | Bap | Batch | Barm | Barm cake | Bun | Breadcake | Cob | Dinner roll | Burger bun | Hamburger bun | Hot dog bun | Hoagie roll | Sub roll | Submarine roll | Finger roll | Bridge roll | Crusty roll | Cloverleaf roll | Hot dog roll | Long roll | Round roll | Knot roll | Knotted roll | Torpedo roll | Horseshoe roll | Lunch roll | White roll | Wholemeal roll | Soft roll | Slider bun | Milk bun | Panini | Panino | Bread bowl
 
 ### Tier 2: common (25)
 
 - Brioche — Brioche bread | Brioche bun
 - Tortilla — Flour tortilla | Corn tortilla | Wrap | Tortilla bread
 - Pumpernickel — Pumpernickel bread | Black bread
-- Soda bread — Irish soda bread | Wheaten bread | Wheaten
-- Cornbread
-- Garlic bread
+- Soda bread — Irish soda bread | Wheaten bread | Wheaten | Soda | Irish bread | Irish brown bread | Brown soda bread
+- Cornbread — Corn pone | Pone
+- Garlic bread — Garlic loaf | Garlic knots | Garlic knot
 - Challah — Challah bread | Hallah | Chollah | Challa | Barches | Berches
 - Chapati — Chapatti | Phulka | Chapati bread | Rotli | Pulka | Fulka
 - Roti — Roti bread | Sada roti
-- Paratha — Paratha bread | Parotta | Porotta | Kerala parotta | Lachha paratha | Aloo paratha | Buss up shut
+- Paratha — Paratha bread | Parotta | Porotta | Kerala parotta | Lachha paratha | Aloo paratha | Buss up shut | Parata | Pratha
 - Pretzel — Brezel | Bretzel | Pretzel bread | Soft pretzel | Laugenbrezel | Pretzel roll | Pretzel bun | Laugenbrötchen
 - Bloomer — Bloomer bread
-- Tiger bread — Dutch crunch | Giraffe bread
+- Tiger bread — Dutch crunch | Giraffe bread | Tiger loaf | Tiger roll
 - Granary — Granary bread
-- Multigrain — Seeded bread | Seeded | Multigrain bread
+- Multigrain — Seeded bread | Seeded | Multigrain bread | Seeded loaf | Seed loaf | Grain bread | Grainy bread | Mixed grain | Helga's | Abbott's | Abbott's Village Bakery | Seven grain | Nine grain
 - Crumpet — Crumpet bread
 - English muffin — English muffin bread | Muffin | Muffins
 - Hot cross bun — Hot cross buns
@@ -49,8 +49,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stollen — Stollen bread | Christstollen
 - Bao — Bao bun | Baozi | Steamed bun | Gua bao | Bao buns | Char siu bao | Pork bun
 - Teacake
-- Fruit loaf — Fruit bread | Tea loaf
-- Raisin bread
+- Fruit loaf — Fruit bread | Tea loaf | Fruit toast | Tea bread
+- Raisin bread — Raisin toast | Raisin loaf
 - Flatbread — Flatbreads
 
 ### Tier 3: known to fans (41)
@@ -60,38 +60,38 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Barmbrack — Barmbrack bread | Brack | Báirín breac
 - Bara brith — Bara brith loaf | Bara brith bread
 - Lavash — Lavash bread
-- Injera — Injera bread
+- Injera — Injera bread | Ethiopian bread
 - Arepa — Arepa bread
 - Pão de queijo — Cheese bread | Pão de queijo bread
 - Puri — Poori | Puri bread
 - Bhatura — Bhature | Bhatura bread | Chole bhature
-- Pide — Pide bread
+- Pide — Pide bread | Turkish bread | Turkish | Turkish pide | Turkish roll | Turkish loaf | Turkish flatbread
 - Simit — Simit bread
 - Fougasse — Fougasse bread
-- Pain de campagne — Country bread | Pain de campagne bread
+- Pain de campagne — Country bread | Pain de campagne bread | Country loaf | Rustic loaf | Rustic bread
 - Boule — Boule bread
 - Piadina — Piadina bread
 - Grissini — Breadsticks | Breadstick | Grissini bread
 - Pandoro — Pandoro bread
-- Brötchen — Semmel | Brötchen bread
+- Brötchen — Semmel | Brötchen bread | Schrippe
 - Kaiser roll — Kaisersemmel | Kaiser | Bulkie roll
 - Babka — Babka bread
 - Bannock — Bannock bread
-- Damper — Damper bread | Bush bread
+- Damper — Damper bread | Bush bread | Wattleseed damper | Damper roll | Bush damper | Beer damper
 - Cottage loaf
 - Matzo — Matzah | Matza | Matzo bread | Unleavened bread | Matzoh
 - Crispbread — Knäckebröd | Ryvita
-- Mantou — Mantou bread | Steamed bread | Chinese steamed bread
+- Mantou — Mantou bread | Steamed bread | Chinese steamed bread | Chinese steamed bun
 - Melonpan — Melonpan bread
-- Shokupan — Hokkaido milk bread | Milk bread | Shokupan bread
+- Shokupan — Hokkaido milk bread | Milk bread | Shokupan bread | Milk loaf | Japanese milk bread
 - Pan de muerto — Bread of the dead | Pan de muerto bread
 - Khachapuri — Khachapuri bread
 - Chelsea bun
-- Bánh mì — Bánh mì bread
+- Bánh mì — Bánh mì bread | Vietnamese roll | Banh mi roll | Pork roll | Vietnamese pork roll | Vietnamese bread | Vietnamese baguette
 - Pav — Pav bun | Ladi pav | Pao
-- Tin loaf — Pan loaf | Sandwich loaf | Sandwich bread
+- Tin loaf — Pan loaf | Sandwich loaf | Sandwich bread | High top | High top loaf | High tin | High tin loaf | Hi-top | Hi-top loaf | Toast loaf | Square loaf
 - Buttermilk biscuit — Southern biscuit | American biscuit | Buttermilk biscuits
-- Olive bread
+- Olive bread — Olive loaf
 - Cinnamon bread — Cinnamon swirl bread | Cinnamon raisin bread
 - Quick bread
 - Morning roll — Scottish morning roll | Glasgow roll | Softie
@@ -103,9 +103,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Appam — Appam bread | Hopper | Hoppers
 - Dosa — Dosa bread
 - Khubz — Khubz bread | Khobz | Arabic bread | Arab bread
-- Barbari — Barbari bread
+- Barbari — Barbari bread | Persian bread
 - Sangak — Sangak bread
-- Manakish — Manoushe | Manakeesh | Manakish bread
+- Manakish — Manoushe | Manakeesh | Manakish bread | Za'atar bread | Manoush | Manousheh | Za'atar manoushe
 - Pain de mie — Pain de mie bread | Pullman loaf | Pullman bread
 - Ficelle — Ficelle bread
 - Bâtard — Bâtard bread
@@ -113,7 +113,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kugelhopf — Gugelhupf | Kouglof | Kugelhopf bread
 - Zopf — Zopf bread | Hefezopf | Butterzopf
 - Vollkornbrot — Vollkornbrot bread
-- Rugbrød — Rugbrød bread
+- Rugbrød — Rugbrød bread | Danish rye | Danish rye bread
 - Lefse — Lefse bread
 - Tsoureki — Tsoureki bread | Çörek | Choreg
 - Koulouri — Koulouri bread
@@ -123,8 +123,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Johnnycake — Journey cake | Hoecake
 - Hushpuppy — Hushpuppy bread
 - Frybread — Indian fry bread | Fried bread
-- Soda farl — Soda farl bread
-- Potato farl — Tattie scone | Fadge | Potato bread | Potato farl bread | Potato cake bread
+- Soda farl — Soda farl bread | Farl
+- Potato farl — Tattie scone | Fadge | Potato bread | Potato farl bread | Potato cake bread | Potato scone
 - Boxty — Boxty bread
 - Stottie — Stotty | Stottie cake | Stottie bread
 - Split tin — Split tin bread
@@ -132,7 +132,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pandesal — Pandesal bread
 - Concha — Concha bread
 - Bolillo — Bolillo bread
-- Roti canai — Roti prata | Roti canai bread
+- Roti canai — Roti prata | Roti canai bread | Prata
 - Bing — Bing bread
 - Lángos — Lángos bread
 - Kifli — Kifli bread | Kipferl | Kiflice
@@ -140,13 +140,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pikelet — Pikelet bread
 - Monkey bread
 - Ezekiel bread
-- Spelt bread
+- Spelt bread — Spelt | Spelt loaf
 - Coco bread
 - Anpan — Anpan bread
 - Pineapple bun — Bolo bao
 - Kulich — Kulich bread
 - Pan dulce — Pan dulce bread
-- Lardy cake — Lardy bread
+- Lardy cake — Lardy bread | Lady cake
 - Hard dough bread — Hardo bread
 - Texas toast
 - Hardtack — Ship's biscuit | Pilot bread | Sea biscuit
@@ -156,12 +156,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Beer bread
 - Oat bread
 - Barley bread
-- Walnut bread
-- Gluten-free bread
+- Walnut bread — Walnut loaf | Fig and walnut | Fig and walnut bread | Fig and walnut loaf
+- Gluten-free bread — Gluten-free | GF bread
 - Spoon bread
 - Boston brown bread
-- Hawaiian sweet bread — Hawaiian bread | Portuguese sweet bread | Pão doce | Massa sovada
-- Batch loaf
+- Hawaiian sweet bread — Hawaiian bread | Portuguese sweet bread | Pão doce | Massa sovada | Hawaiian rolls | Hawaiian roll | King's Hawaiian
+- Batch loaf — Plain loaf | Scottish plain loaf | Plain bread | Batch bread
 - Buttery — Rowie | Aberdeen roll | Butteries
 - Bath bun
 - Belgian bun
@@ -175,25 +175,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pulla
 - Paska
 - Palyanytsya — Palianytsia | Palyanitsa
-- Cozonac
+- Cozonac — Kozunak
 - Bazlama
 - Yufka
 - Laffa
-- Aish baladi — Eish baladi | Baladi bread | Egyptian bread
+- Aish baladi — Eish baladi | Baladi bread | Egyptian bread | Aish
 - Roomali roti — Rumali roti
 - Tandoori roti
 - Scallion pancake — Cong you bing | Spring onion pancake | Green onion pancake
 - Curry bread — Kare pan | Curry pan
 - Fairy bread
 
-### Tier 5: expert (118)
+### Tier 5: expert (156)
 
 - Taftoon — Taftoon bread | Taftan
-- Markook — Markook bread | Saj bread | Shrak | Mountain bread
+- Markook — Markook bread | Saj bread | Shrak | Mountain bread | Saj
 - Ka'ak — Ka'ak bread | Ka'ak al-Quds | Jerusalem bagel
 - Épi — Pain d'épi
 - Couronne — Couronne bread
-- Pane di Altamura — Altamura bread | Pane di Altamura bread
+- Pane di Altamura — Altamura bread | Pane di Altamura bread | Altamura
 - Michetta — Michetta bread | Rosetta
 - Pane toscano — Pane toscano bread | Pane sciocco | Tuscan bread
 - Colomba — Colomba bread
@@ -203,8 +203,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lagana — Lagana bread
 - Paximadi — Paximadi bread
 - Somun — Somun bread
-- Borodinsky — Borodinsky bread
-- Karavai — Karavai bread
+- Borodinsky — Borodinsky bread | Russian black bread | Russian rye
+- Karavai — Karavai bread | Korovai
 - Kalach — Kalach bread | Kalács
 - Bublik — Bublik bread
 - Pampushky — Pampushky bread
@@ -222,7 +222,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Telera — Telera bread
 - Pan de cristal — Pan de cristal bread
 - Miche — Pain Poilâne | Poilâne
-- Pain viennois — Viennese bread | Vienna bread | Vienna loaf
+- Pain viennois — Viennese bread | Vienna bread | Vienna loaf | Vienna
 - Pain au lait
 - Pain brié
 - Schwarzbrot
@@ -302,27 +302,69 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pan sobao
 - Cemita
 - Birote
-- Rēwena — Rewena bread | Maori bread
+- Rēwena — Rewena bread | Maori bread | Paraoa rewena | Rewena paraoa
 - Piki
 - Socca — Farinata
 - Salt-rising bread
+- Soy and linseed bread — Soy and linseed | Soy linseed | Soy-lin | Soy and linseed loaf | Burgen
+- Pull-apart bread — Pull-apart | Pull-apart loaf | Cheese and bacon pull-apart
+- Cheese and bacon roll — Cheese and bacon bun | Bacon and cheese roll | Cheese and bacon topped roll
+- Cheesymite scroll — Cheesymite | Vegemite scroll | Cheese and Vegemite scroll | Vegemite and cheese scroll
+- Boston bun
+- London bun
+- Cream bun
+- Currant bun — Fruit bun | Spiced fruit bun
+- Pane di casa — Pane casareccio | Casareccio | Pane casereccio | Italian bread | Italian loaf
+- Pasta dura — Pane di pasta dura
+- Pizza bianca
+- Taralli
+- Bürli
+- Sushki — Sushka
+- Potato roll — Potato bun
+- Cocktail bun — Gai mei bao
+- Taboon bread — Taboon | Tabun bread
+- Mealie bread — Mielie bread
+- Mandazi — Mahamri
+- Gordita
+- Sopaipilla — Sopapilla
+- Pan de yuca
+- Broa — Broa de milho
+- Papo seco — Portuguese roll | Portuguese bun
+- Paraoa parai — Paraoa | Maori fry bread | Maori fried bread
+- Takakau
+- Afghan bread — Naan-e Afghani | Nan-e Afghani | Afghan naan
+- No-knead bread — Dutch oven bread
+- Low-carb bread — Low carb loaf | Keto bread | Protein bread
+- Essene bread — Sprouted bread | Sprouted grain bread
+- Kamut bread — Khorasan bread
+- Rice bread
+- Linseed bread — Leinsamenbrot | Flaxseed bread
+- Sunflower bread — Sonnenblumenbrot | Sunflower seed bread
+- Onion bread — Onion loaf | Zwiebelbrot
+- Tomato bread — Tomato loaf | Sun-dried tomato bread
+- Herb bread — Herb loaf | Rosemary bread
+- Cheese loaf — Cheese top loaf | Cheese-topped loaf
 
 ### Tier 6: rare jackpots (2)
 
 - Coppia Ferrarese — Coppia | Coppia Ferrarese bread
 - Bolo do caco — Bolo do caco bread
 
-## Refused on purpose (10)
+## Refused on purpose (14)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Bread | Loaf | Toast | Croutons | Breadcrumbs | Sandwich — "Which bread?"
+- Bread | Loaf | Toast | Croutons | Breadcrumbs | Sandwich | Pan | Ekmek | Stale bread | Day-old bread | Crusty bread | Crusty loaf | Homemade bread | Artisan bread | Bakery bread | Supermarket bread | Breadmaker bread | Greek bread | German bread | Indian bread — "Which bread?"
 - Sweetbread | Sweetbreads — "Offal. Not bread at all."
-- Banana bread | Gingerbread | Zucchini bread | Courgette bread | Pumpkin bread | Pain d'épices — "A cake in disguise."
+- Banana bread | Gingerbread | Zucchini bread | Courgette bread | Pumpkin bread | Pain d'épices | Banana loaf | Date loaf — "A cake in disguise."
 - Shortbread — "A biscuit, whatever its name says."
-- Croissant | Pain au chocolat | Danish | Danish pastry | Doughnut | Donut | Cinnamon roll | Eclair — "A pastry, not a bread."
-- Scone | Scones — "Closer to a cake, though nobody agrees how to say it."
+- Croissant | Pain au chocolat | Danish | Danish pastry | Doughnut | Donut | Cinnamon roll | Eclair | Burek | Börek | Sausage roll | Meat pie | Pastie | Cornish pasty | Spanakopita | Vanilla slice | Coffee scroll | Cinnamon scroll | Cinnamon bun | Cinnamon swirl | Apple turnover | Strudel | Churro | Churros | Pain aux raisins — "A pastry, not a bread."
+- Scone | Scones | Pumpkin scone | Date scone | Cheese scone | Lemonade scone — "Closer to a cake, though nobody agrees how to say it."
 - Pancake | Waffle | Crêpe | Yorkshire pudding — "A batter, not a bread."
-- Pizza | Calzone | French toast | Pain perdu | Bruschetta | Crostini | Bread pudding | Bread and butter pudding | Welsh rarebit | Cheese on toast | Lahmacun | Bunny chow — "A dish, built on bread."
-- Cracker | Crackers | Rice cake — "A biscuit for cheese, not a bread."
+- Pizza | Calzone | French toast | Pain perdu | Bruschetta | Crostini | Bread pudding | Bread and butter pudding | Welsh rarebit | Cheese on toast | Lahmacun | Bunny chow | Jaffle | Toastie | Toasted sandwich | Vegemite toast | Vegemite on toast | Avocado toast | Avo toast | Burger | Hamburger | Hot dog | Kebab | Sausage sandwich | Sausage sizzle | Sarnie | Pizza base | Pizza dough | Roujiamo | Salad roll — "A dish, built on bread."
+- Cracker | Crackers | Rice cake | Sao | Water cracker | Saltine | Salada — "A biscuit for cheese, not a bread."
 - Laverbread | Bara lawr — "Seaweed, cooked to a purée. Not a bread at all."
+- Cake | Cakes | Sponge cake | Lamington | Cupcake | Cookie | Anzac biscuit | Tim Tam — "A cake or a biscuit, and the deep only asked for bread."
+- Flour | Yeast | Dough | Bread dough | Sourdough starter | Starter — "What bread is made of, not a bread. Bake it first."
+- Breadfruit | Bread knife | Breadwinner | Breadboard | Bread bin | Bread box | Bread basket | Bread and butter | Toaster — "It only has bread in the name."
+- Bakers Delight | Brumby's | Brumby's Bakery | Coles bread | Woolies bread | Woolworths bread — "A shop, not a bread. Name something off its shelves."

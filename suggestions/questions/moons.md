@@ -15,12 +15,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Moon — Luna | Earth's Moon | Selene | Harvest Moon | Blue Moon | Blood Moon | Supermoon | Full Moon | New Moon | Half Moon | Crescent Moon | Hunter's Moon | Wolf Moon | Our Moon | Moon of Earth | Earth Moon | Earths satellite | Lunar | La Luna | Mond | Lune
 - Titan — Saturn VI | Titan moon | Saturn VI moon
 - Europa — Jupiter II | Europa moon | Jupiter II moon
-- Io — Jupiter I | Jupiter I moon | Io moon | Moon Io
+- Io — Jupiter I | Jupiter I moon | Io moon | Moon Io | Eyeo | Eye-oh
 - Ganymede — Jupiter III | Ganymed | Ganimedes | Ganymedes | Ganymede moon | Jupiter III moon | Ganymed moon | Ganimedes moon | Ganymedes moon
 
 ### Tier 2: common (6)
 
-- Phobos — Mars I | Fobos | Phobos moon | Mars I moon | Fobos moon
+- Phobos — Mars I | Fobos | Phobos moon | Mars I moon | Fobos moon | Phobos and Deimos
 - Deimos — Mars II | Deimos moon | Mars II moon
 - Callisto — Jupiter IV | Kallisto | Calisto | Callisto moon | Jupiter IV moon | Kallisto moon | Calisto moon
 - Enceladus — Saturn II | Enkelados | Encelado | Enceladas | Enceladus moon | Saturn II moon | Enkelados moon | Encelado moon | Enceladas moon
@@ -230,21 +230,24 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Valetudo — Valetudo moon
 - Hippocamp — Hippocamp moon
 
-## Refused on purpose (14)
+## Refused on purpose (17)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Pluto — "A dwarf planet, not a moon. It has five moons of its own."
 - Ceres — "A dwarf planet in the asteroid belt, not a moon."
-- Vesta — "An asteroid, not a moon."
+- Vesta | Bennu | Asteroid — "An asteroid, not a moon."
 - Sun — "A star. The deep is worried about you."
 - Death Star — "That's no moon. It's a space station."
 - Mercury | Venus — "A planet, and one of only two with no moons at all."
 - Mars — "A planet. Its two moons are what you want."
 - Jupiter | Saturn | Uranus | Neptune | Earth — "A planet, not a moon."
-- Endor — "Fictional. The Ewoks are also fictional, sadly."
-- Didymos | Ida | Kalliope | Dinkinesh — "An asteroid, though it has a little moon of its own."
+- Endor | Forest moon of Endor — "Fictional. The Ewoks are also fictional, sadly."
+- Didymos | Ida | Kalliope | Dinkinesh | Eugenia | Sylvia — "An asteroid, though it has a little moon of its own."
 - Cruithne | 3753 Cruithne | Kamoʻoalewa | Second moon | Mini moon — "An asteroid that shadows Earth around the Sun. Some call it a second moon, but it orbits the Sun, not us."
 - Eris | Makemake | Haumea | Sedna | Gonggong | Quaoar | Orcus | Dwarf planet — "A dwarf planet out past Neptune, not a moon, though most of them keep one."
-- Yavin 4 | Yavin IV | Yavin | LV-426 | Tatooine | Krypton | Arrakis — "Fictional. The deep has checked."
+- Yavin 4 | Yavin IV | Yavin | LV-426 | Tatooine | Krypton | Arrakis | Mustafar | Mun — "Fictional. The deep has checked."
 - ISS | International Space Station | Space station | Sputnik | Hubble | Hubble Space Telescope | Satellite | Starlink | Mir | Tiangong | Skylab — "Built by people. The deep wants the natural kind."
+- Galilean moons | Galilean moon | Galilean — "Four moons, not one: Io, Europa, Ganymede and Callisto. Pick any of them."
+- Neith — "Reported beside Venus for a century, and never there. Venus has no moon."
+- Lilith — "A dark second moon of Earth, claimed in 1898 and kept alive by astrologers. Nobody has seen it."

@@ -149,3 +149,10 @@
   margin: var(--space-3) 0 0;
   color: var(--color-refused);
 }
+
+/* the other way to dive on a topic: a revision dive on one class pack */
+.chart-lede.chart-revise {
+  margin: var(--space-4) 0 0;
+  padding-top: var(--space-3);
+  border-top: 1px dotted var(--color-rule-soft);
+}

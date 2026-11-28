@@ -12,23 +12,23 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (5)
 
-- Orion — Hunter | Orion the Hunter | Orionis | The Great Hunter
-- Ursa Major — Great Bear | Big Bear | Great She-Bear | Greater Bear | Larger Bear | Ursa Majoris | Ursa Mayor | Great Bear constellation
-- Andromeda — Chained Maiden | Chained Princess | Andromedae | Andromeda the Chained Maiden | Princess Andromeda
+- Orion — Hunter | Orion the Hunter | Orionis | The Great Hunter | Oryon | Orien | Oryan
+- Ursa Major — Great Bear | Big Bear | Great She-Bear | Greater Bear | Larger Bear | Ursa Majoris | Ursa Mayor | Great Bear constellation | Ursa | Bear | Ursa Major and Minor
+- Andromeda — Chained Maiden | Chained Princess | Andromedae | Andromeda the Chained Maiden | Princess Andromeda | Princess | Chained Lady | Chained Woman
 - Cassiopeia — Seated Queen | Queen | Cassiopea | Cassiopeiae | Kassiopeia | Casiopea | Cassiopeia the Queen | Queen Cassiopeia | Cassiopia
 - Ursa Minor — Little Bear | Lesser Bear | Small Bear | Smaller Bear | Ursa Minoris | Baby Bear
 
 ### Tier 2: common (19)
 
-- Leo — Lion | Leo the Lion | Leonis
-- Scorpius — Scorpio | Scorpion | Scorpii | Scorpio the Scorpion | Scorpious
+- Leo — Lion | Leo the Lion | Leonis | Leo Major
+- Scorpius — Scorpio | Scorpion | Scorpii | Scorpio the Scorpion | Scorpious | Maui's Fishhook | Maui's Hook | Fishhook | Manaiakalani | Te Matau a Maui
 - Taurus — Bull | Tauri | Taurus the Bull
-- Gemini — Twins | Geminorum | Gemini the Twins | Castor and Pollux | Heavenly Twins
+- Gemini — Twins | Geminorum | Gemini the Twins | Castor and Pollux | Heavenly Twins | Gemini twins
 - Sagittarius — Archer | Sagittarii | Sagitarius | Sagittarius the Archer | Centaur Archer
 - Aquarius — Water Bearer | Water Carrier | Aquarii | Waterman | Aquarius the Water Bearer | Water Pourer
 - Pegasus — Winged Horse | Flying Horse | Pegasi | Pegasus the Winged Horse
 - Perseus — Persei | Perseus the Hero | The Hero
-- Crux — Southern Cross | Crucis | Crux Australis | Southern Crux | Cross | Crux the Southern Cross
+- Crux — Southern Cross | Crucis | Crux Australis | Southern Crux | Cross | Crux the Southern Cross | Te Punga | Mahutonga | Southern Cross stars
 - Ophiuchus — Serpent Bearer | Snake Bearer | Snake Holder | Serpent Holder | Serpentarius | Ophiuchi | Ophiucus | Ophicus | Ophiuchius | Ophiocus | Ophiuchus the Serpent Bearer | Asclepius | Thirteenth sign | 13th zodiac sign
 - Draco — Dragon | Draconis | Draco the Dragon
 - Cygnus — Swan | Cygni | Cygnus the Swan
@@ -42,11 +42,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (12)
 
-- Canis Major — Great Dog | Greater Dog | Big Dog | Large Dog | Canis Majoris | Orion's Dog
-- Lyra — Lyre | Harp | Lyrae
+- Canis Major — Great Dog | Greater Dog | Big Dog | Large Dog | Canis Majoris | Orion's Dog | Canis | Dog
+- Lyra — Lyre | Harp | Lyrae | Lyra the Harp | Lyra the Lyre
 - Centaurus — Centaur | Centauri
 - Phoenix — Phoenicis | Phenix
-- Hydra — Water Snake | Sea Serpent | Hydrae | Female Water Snake | Hydra the Water Snake
+- Hydra — Water Snake | Sea Serpent | Hydrae | Female Water Snake | Hydra the Water Snake | Water Serpent
 - Aquila — Eagle | Aquilae | Aquila the Eagle
 - Canis Minor — Little Dog | Lesser Dog | Small Dog | Canis Minoris
 - Lupus — Wolf | Lupi
@@ -113,33 +113,38 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 6: rare jackpots (2)
 
-- Mensa — Table Mountain | Mensae | Mons Mensae
+- Mensa — Table Mountain | Mensae | Mons Mensae | Table
 - Fornax — Furnace | Fornacis | Chemical Furnace | Fornax Chemica
 
-## Refused on purpose (23)
+## Refused on purpose (28)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Big Dipper | Plough | The Plow | Charles's Wain | Charles' Wain | Great Wain | Saptarishi | Big Plough | Drinking Gourd — "An asterism, a pattern inside Ursa Major. Try the bear itself."
+- Big Dipper | Plough | The Plow | Charles's Wain | Charles' Wain | Great Wain | Saptarishi | Big Plough | Drinking Gourd | Dipper | Wain — "An asterism, a pattern inside Ursa Major. Try the bear itself."
 - Little Dipper | Little Plough | Little Wagon — "An asterism inside Ursa Minor. The bear counts; the dipper doesn't."
-- Orion's Belt | Belt of Orion | Orion's Sword | Sword of Orion | Three Kings — "Three stars in Orion. The hunter has more to him than his belt."
+- Orion's Belt | Belt of Orion | Orion's Sword | Sword of Orion | Three Kings | Tautoru — "Three stars in Orion. The hunter has more to him than his belt."
 - Pleiades | Seven Sisters | Subaru | Matariki | Messier 45 — "A star cluster inside Taurus."
 - Summer Triangle | Winter Triangle | Spring Triangle — "An asterism made of stars from three different constellations."
 - Milky Way | Galaxy — "Our galaxy, not a constellation."
 - Polaris | North Star | Pole Star — "A star, the tip of Ursa Minor's tail."
 - Sirius | Dog Star — "A star, the brightest in the night sky, not a constellation."
-- Betelgeuse — "A red supergiant star in Orion's shoulder."
+- Betelgeuse | Beetlejuice — "A red supergiant star in Orion's shoulder."
 - Argo Navis | Ship Argo | Argo the Ship | Ship of the Argonauts — "An ancient constellation, broken up in the 1750s. Its pieces count. It doesn't."
 - Northern Cross — "An asterism inside the Swan. The swan counts; the cross doesn't."
-- Saucepan — "An asterism. Down under, it is Orion's belt and sword."
-- Teapot — "An asterism inside the Archer. The archer counts; the teapot doesn't."
+- Saucepan | The Pot — "An asterism. Down under, it is Orion's belt and sword."
+- Teapot | Milk Dipper — "An asterism inside the Archer. The archer counts; the teapot doesn't."
 - Vega | Altair | Deneb — "A star, not a constellation, and one of the brightest in the summer sky."
-- Rigel | Aldebaran | Antares | Arcturus | Spica | Capella | Canopus | Procyon | Regulus | Fomalhaut | Achernar | Alpha Centauri | Proxima Centauri | Castor | Pollux | Mizar | Alcor | Algol | Bellatrix | Mintaka | Alnitak | Alnilam | Rigil Kentaurus | Dubhe | Merak | Alioth | Alkaid | Thuban | Kochab | Acrux | Shaula | Alphard | Gacrux | Albireo | Elnath | Alpheratz | Enif | Markab | Scheat | Hamal | Schedar | Mirfak | Saiph | Denebola | Rasalhague | Eltanin | Sadr | Alcyone | Electra | Merope | Taygeta | Barnard's Star | Tau Ceti | Eta Carinae | VY Canis Majoris | UY Scuti | Sun | Sol — "A star, not a constellation."
+- Rigel | Aldebaran | Antares | Arcturus | Spica | Capella | Canopus | Procyon | Regulus | Fomalhaut | Achernar | Alpha Centauri | Proxima Centauri | Castor | Pollux | Mizar | Alcor | Algol | Bellatrix | Mintaka | Alnitak | Alnilam | Rigil Kentaurus | Dubhe | Merak | Alioth | Alkaid | Thuban | Kochab | Acrux | Shaula | Alphard | Gacrux | Albireo | Elnath | Alpheratz | Enif | Markab | Scheat | Hamal | Schedar | Mirfak | Saiph | Denebola | Rasalhague | Eltanin | Sadr | Alcyone | Electra | Merope | Taygeta | Barnard's Star | Tau Ceti | Eta Carinae | VY Canis Majoris | UY Scuti | Sun | Sol | Alpha Crucis | Beta Crucis | Mimosa — "A star, not a constellation."
 - Great Square | Great Square of Pegasus | Winter Hexagon | Winter Circle | False Cross | Diamond Cross | Coathanger | Keystone | Sickle | Job's Coffin | Southern Pointers | Pointers | Asterism — "An asterism, a star pattern inside the constellations. Name the constellation instead."
 - Quadrans Muralis | Antinous | Cerberus | Felis | Noctua | Rangifer | Tarandus | Taurus Poniatovii | Turdus Solitarius | Psalterium Georgii | Officina Typographica | Machina Electrica | Globus Aerostaticus | Sceptrum Brandenburgicum | Robur Carolinum | Custos Messium | Mons Maenalus | Gallus | Lilium | Jordanus | Tigris | Vespa | Polophylax | Telescopium Herschelii | Mural Quadrant — "An old constellation, dropped when the official 88 were fixed in 1922."
 - Hyades — "A star cluster, the V of the bull's face in Taurus."
 - Andromeda Galaxy | Andromeda Nebula | Messier 31 | M31 — "A galaxy, though it sits in the constellation it is named after. Drop the galaxy."
 - Magellanic Clouds | Large Magellanic Cloud | Small Magellanic Cloud | Magellanic Cloud | LMC | SMC — "Small galaxies near our own, not constellations."
 - Coalsack | Coalsack Nebula — "A dark cloud of dust beside the Southern Cross, not a constellation."
-- Venus | Mercury | Mars | Jupiter | Saturn | Uranus | Neptune | Pluto | Earth | Moon — "A planet, not a constellation. It wanders through them."
+- Venus | Mercury | Mars | Jupiter | Saturn | Uranus | Neptune | Pluto | Earth | Moon | Morning Star | Evening Star — "A planet, not a constellation. It wanders through them."
 - Zodiac | Star sign | Star signs | Constellation — "The whole band of star signs. Name one of its constellations."
+- Emu in the Sky | The Emu | Dark Emu | Gawarrgay | Tchingal | Djulpan — "A constellation of Australia's First Peoples, older than any name on the list, but not one of the official 88."
+- Orion Nebula | Nebula | Horsehead Nebula | Crab Nebula | Carina Nebula | Eagle Nebula | Pillars of Creation | Tarantula Nebula | Jewel Box | Omega Centauri | Southern Pleiades | 47 Tucanae | Beehive Cluster — "Something inside a constellation, not the constellation itself. Name the pattern it sits in."
+- Halley's Comet | Comet | Shooting star | Meteor | Meteor shower | Satellite | International Space Station | ISS | Starlink — "A visitor passing through, not a pattern of stars."
+- Aurora Australis | Aurora Borealis | Southern Lights | Northern Lights — "Light in the upper air, not a pattern of stars. Worth staying up for, all the same."
+- Chinese zodiac | Year of the Dragon | Year of the Rat | Year of the Ox | Year of the Tiger | Year of the Rabbit | Year of the Snake | Year of the Horse | Year of the Goat | Year of the Monkey | Year of the Rooster | Year of the Dog | Year of the Pig | Rat | Ox | Monkey | Rooster | Pig — "The Chinese zodiac counts years, not stars."

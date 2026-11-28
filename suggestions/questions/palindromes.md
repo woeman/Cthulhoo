@@ -6,7 +6,7 @@ Rules: Any real word, name or well-known phrase, in any language, that reads the
 
 Spelling counts on this question: answers must match exactly.
 
-## Accepted now (354 answers)
+## Accepted now (535 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -100,7 +100,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Non
 - Was it a cat I saw
 - Was it a rat I saw
-- Mmm
+- Mmm — Mmmm | Mmmmm
 - Sus
 - AKA
 - TNT
@@ -116,7 +116,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dennis and Edna sinned
 - Pull up if I pull up
 - I did, did I?
-- Avid diva
+- Avid diva — Diva avid
 - Wet stew
 - Desserts stressed
 - Amor, Roma
@@ -125,9 +125,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ten animals I slam in a net
 - Never even
 - Now I won
-- Drawer reward
-- Star rats
-- Mood doom
+- Drawer reward — Reward drawer
+- Star rats — Rats star
+- Mood doom — Doom mood
 - I prefer pi
 
 ### Tier 4: obscure (119)
@@ -151,7 +151,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Borrow or rob
 - Don't nod
 - Bub
-- Zzz
+- Zzz — Zzzz | Zzzzz
 - Mm
 - Tet
 - Redivider
@@ -236,12 +236,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Too far, Edna, we wander afoot
 - Lepers repel
 - Repel a leper
-- Straw warts
-- Live evil
+- Straw warts — Warts straw
+- Live evil — Evil live
 - Gnu dung
 - Tuna nut
 - Bird rib
-- Pets step
+- Pets step — Step pets
 - Dumb mud
 - Mad Adam
 - Anita lava la tina
@@ -252,7 +252,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ésope reste ici et se repose
 - Engage le jeu que je le gagne
 
-### Tier 5: expert (122)
+### Tier 5: expert (303)
 
 - Detartrated
 - Rotavator
@@ -286,7 +286,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Do nine men interpret? Nine men, I nod
 - In girum imus nocte et consumimur igni
 - Reittier
-- Lagerregal
+- Lagerregal — Regal lager
 - Lepel
 - Ressasser
 - Ala
@@ -376,17 +376,202 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tarzan raised Desi Arnaz' rat
 - Now, Ned, I am a maiden nun; Ned, I am a maiden won
 - Nella's simple hymn: I attain my help, Miss Allen
+- Oppo
+- Put-up
+- Stets
+- Siris
+- Simis
+- Sulus
+- Susus
+- Kaiak
+- Deked
+- Deled
+- Tebet
+- Nauruan
+- Hadedah
+- Halalah
+- Seities
+- Hajjah
+- Kakkak
+- Anana
+- Aia
+- Peeweep
+- Qajaq
+- Sooloos
+- Lemel
+- Goog
+- Umu
+- Obo
+- Eme
+- Ene
+- Acca
+- Ee
+- Oo
+- Gog
+- Bab
+- Exe
+- Adda
+- Senones
+- Arora
+- Harrah
+- Odo
+- Kanak
+- Nitin
+- Nayan
+- Reinier
+- U Nu
+- Nisio Isin
+- Leon Noel
+- Stanley Yelnats
+- Sara Baras
+- Tumut
+- Parap
+- Arrawarra
+- Tubbut — But tub
+- Hattah
+- Aramara
+- Lal Lal
+- Paraparap
+- Wakaw
+- Idappadi
+- Ellemelle
+- Eleele
+- Qaanaaq
+- Capac
+- Sarras
+- Ubu
+- Aoxomoxoa
+- Zerorez
+- A Toyota
+- Race fast, safe car
+- My gym
+- Not a ton
+- Dee saw a seed
+- Oozy rat in a sanitary zoo
+- A dog, a panic in a pagoda
+- Dogma: I am God
+- God saw I was dog
+- Dog doo? Good God!
+- Was it a hat I saw?
+- Egad, no bondage
+- Flee to me, remote elf
+- Harass sensuousness, Sarah
+- He lived as a devil, eh?
+- I'm, alas, a salami
+- Kayak salad, Alaska yak
+- Lager, sir, is regal
+- Mix a maxim
+- Must sell at tallest sum
+- No lemons, no melon
+- No melon, no lemon
+- Now, sir, a war is won
+- Oh who was it I saw, oh who
+- Poor Dan is in a droop
+- Solo gigolos
+- Tangy gnat
+- Yawn a more Roman way
+- Zeus sees Suez
+- Yo boy
+- Oh, cameras are macho
+- Sex at noon taxes
+- Amy, must I jujitsu my ma?
+- On no
+- Stop pots — Pots stop
+- God dog — Dog god
+- Devil lived — Lived devil
+- Wolf flow — Flow wolf
+- Time emit — Emit time
+- Nap pan — Pan nap
+- Tip pit — Pit tip
+- Ten net — Net ten
+- Won now — Now won
+- Saw was — Was saw
+- Raw war — War raw
+- Tab bat — Bat tab
+- Mug gum — Gum mug
+- Stun nuts — Nuts stun
+- Pool loop — Loop pool
+- Peek keep — Keep peek
+- Deer reed — Reed deer
+- Trap part — Part trap
+- Tips spit — Spit tips
+- Paws swap — Swap paws
+- Naive Evian — Evian naive
+- Tide edit — Edit tide
+- Bad dab — Dab bad
+- Nip pin — Pin nip
+- Smart trams — Trams smart
+- Sleep peels — Peels sleep
+- Snug guns — Guns snug
+- Decaf faced — Faced decaf
+- Deliver reviled — Reviled deliver
+- Parts strap — Strap parts
+- Spoons snoops — Snoops spoons
+- Pals slap — Slap pals
+- Tuba abut — Abut tuba
+- Knits stink — Stink knits
+- Bus sub — Sub bus
+- Yam may — May yam
+- Ton not — Not ton
+- Top pot — Pot top
+- Bun nub — Nub bun
+- Dim mid — Mid dim
+- Dam mad — Mad dam
+- Gas sag — Sag gas
+- Rat tar — Tar rat
+- Tug gut — Gut tug
+- Are era — Era are
+- Bag gab — Gab bag
+- Bin nib — Nib bin
+- Bog gob — Gob bog
+- Bud dub — Dub bud
+- Cod doc — Doc cod
+- Dew wed — Wed dew
+- Don nod — Nod don
+- Eel lee — Lee eel
+- Flog golf — Golf flog
+- Gal lag — Lag gal
+- Gel leg — Leg gel
+- Gulp plug — Plug gulp
+- Keel leek — Leek keel
+- Liar rail — Rail liar
+- Loot tool — Tool loot
+- Maps spam — Spam maps
+- Meet teem — Teem meet
+- Moor room — Room moor
+- Nit tin — Tin nit
+- Pans snap — Snap pans
+- Pat tap — Tap pat
+- Pay yap — Yap pay
+- Pins snip — Snip pins
+- Ports strop — Strop ports
+- Rebut tuber — Tuber rebut
+- Redraw warder — Warder redraw
+- Reknit tinker — Tinker reknit
+- Remit timer — Timer remit
+- Saps spas — Spas saps
+- Sloop pools — Pools sloop
+- Smug gums — Gums smug
+- Spay yaps — Yaps spay
+- Spot tops — Tops spot
+- Stab bats — Bats stab
+- Sway yaws — Yaws sway
+- Diaper repaid — Repaid diaper
 
 ### Tier 6: rare jackpots (2)
 
 - Saippuakivikauppias
 - Tattarrattat
 
-## Refused on purpose (4)
+## Refused on purpose (8)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Redrum — "Murder spelled backwards. A reversal, not a palindrome. Ask the boy in The Shining."
 - Palindrome — "The word itself isn't one. Check."
-- Stressed | Desserts | Live | Evil | Stop | Pots | Drawer | Reward | Star | Rats | Diaper | Repaid | Dog | God — "It reverses into another word. Close, but not a palindrome."
-- Racecars — "The S spoils it."
+- Stressed | Desserts | Live | Evil | Stop | Pots | Drawer | Reward | Star | Rats | Diaper | Repaid | Dog | God | Devil | Lived | Regal | Lager | Wolf | Flow | Nametag | Gateman | Time | Emit | Nap | Pan | Tip | Pit | Ten | Net | Won | Now | Saw | Was | Raw | War | Tab | Bat | Mug | Gum | Stun | Nuts | Pool | Loop | Peek | Keep | Deer | Reed | Trap | Part | Tips | Spit | Pets | Step | Warts | Straw | Paws | Swap | Naive | Evian | Diva | Avid | Tide | Edit | Decaf | Faced | Deliver | Reviled | Parts | Strap | Spoons | Snoops | Pals | Slap | Tuba | Abut | Knits | Stink | Bus | Sub | Mood | Doom | Bad | Dab | Smart | Trams | Sleep | Peels | Snug | Guns — "It reverses into another word. Close, but not a palindrome."
+- Racecars | Kayaks | Levels | Radars | Moms | Dads | Mums | Hannahs | Rotors | Madams | Noons | Eyes | Bobs | Pups | Peeps | Deeds | Toots | Nuns | Refers | Tenets — "The S spoils it."
+- Mama | Papa | Nana | Dada | Haha | Yoyo | Lulu | Coco | Toto | Kiki | Mimi | Gigi | Bobo | Dodo | Tutu | Hehe | Xoxo | Bonbon | Murmur | Tartar | Cancan | Beriberi | Couscous | Bye-bye | Night night | No-no | Pompom | Tomtom | So-so | Go-go | Boo-boo | Choo-choo | Tsetse | Dumdum | Juju | Mahi-mahi | Wagga Wagga | Woy Woy | Kurri Kurri | Bora Bora | Baden-Baden | Walla Walla | Pago Pago | Sing Sing | Duran Duran | Tintin | Dik-dik | Aye-aye | Gaga | Fifi | Jojo | Pepe | Titi | Vivi | Zaza — "It repeats, but it does not mirror. Read it backwards and see."
+- Banana | Mississippi | Abracadabra | Bookkeeper | Hello | Mother | Dessert | Desert | Taco | Cat | Mirror | Backwards | Anagram | Palindromic | Onomatopoeia — "It has a rhythm to it, but it does not read the same backwards."
+- Semordnilap | Emordnilap — "The name for a word that reverses into a different word. It is 'palindromes' backwards, and not one itself."
+- 101 | 11 | 22 | 33 | 44 | 55 | 66 | 77 | 88 | 99 | 111 | 121 | 131 | 141 | 151 | 161 | 171 | 181 | 191 | 202 | 212 | 222 | 232 | 242 | 252 | 262 | 272 | 282 | 292 | 303 | 313 | 323 | 333 | 343 | 353 | 363 | 373 | 383 | 393 | 404 | 414 | 424 | 434 | 444 | 454 | 464 | 474 | 484 | 494 | 505 | 515 | 525 | 535 | 545 | 555 | 565 | 575 | 585 | 595 | 606 | 616 | 626 | 636 | 646 | 656 | 666 | 676 | 686 | 696 | 707 | 717 | 727 | 737 | 747 | 757 | 767 | 777 | 787 | 797 | 808 | 818 | 828 | 838 | 848 | 858 | 868 | 878 | 888 | 898 | 909 | 919 | 929 | 939 | 949 | 959 | 969 | 979 | 989 | 999 | 1001 | 1111 | 1221 | 1331 | 1441 | 1551 | 1661 | 1771 | 1881 | 1991 | 2002 | 2112 | 2222 | 2332 | 2442 | 2552 | 2662 | 2772 | 2882 | 2992 | 3003 | 3113 | 3223 | 3333 | 3443 | 3553 | 3663 | 3773 | 3883 | 3993 | 4004 | 4114 | 4224 | 4334 | 4444 | 4554 | 4664 | 4774 | 4884 | 4994 | 5005 | 5115 | 5225 | 5335 | 5445 | 5555 | 5665 | 5775 | 5885 | 5995 | 6006 | 6116 | 6226 | 6336 | 6446 | 6556 | 6666 | 6776 | 6886 | 6996 | 7007 | 7117 | 7227 | 7337 | 7447 | 7557 | 7667 | 7777 | 7887 | 7997 | 8008 | 8118 | 8228 | 8338 | 8448 | 8558 | 8668 | 8778 | 8888 | 8998 | 9009 | 9119 | 9229 | 9339 | 9449 | 9559 | 9669 | 9779 | 9889 | 9999 | 12321 | 1234321 | 123321 | 02/02/2020 | 22/02/2022 | 11/11/11 | 12/02/2021 | 20/02/2002 — "A palindromic number, true. The deep wants words."

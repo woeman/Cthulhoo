@@ -1,7 +1,9 @@
 // Seeds a preview's census with pretend divers, then plays it on two phones and a
 // desktop: the share on each reveal, the answers most given in the log, and the
-// Reliquary. It refuses any relay but a preview's or one on this machine, so
-// pretend divers never reach the live game.
+// Reliquary; the questions fetched a file at a time and kept for a log read with
+// no line; then the topics and the music, a class held on the desk with the
+// phones in it, and a revision dive. It refuses any relay but a preview's or one
+// on this machine, so pretend divers never reach the live game.
 // Run by .github/workflows/preview.yml, or by hand against `wrangler dev`.
 // usage: node dev/census-check.cjs <outDir>
 //   env BASE   the site (required)
@@ -150,11 +152,11 @@ async function device(browser, name, { desktop = false } = {}) {
   });
   await ctx.addInitScript(() => localStorage.setItem('cthulhoo.v1.flag.seenHowTo', '1'));
   const d = { name, ctx, errors: [] };
-  d.open = async (url) => {
+  d.open = async (url, opts) => {
     d.page = await ctx.newPage();
     d.page.on('pageerror', (e) => d.errors.push(e.message));
     d.page.on('console', (m) => m.type() === 'error' && d.errors.push(m.text()));
-    await d.page.goto(url);
+    await d.page.goto(url, opts);
     return d.page;
   };
   return d;
@@ -259,6 +261,12 @@ async function reliquary(page, who) {
 
     // ------------------------------------------------ Wren dives for the rare answers
     const wren = await device(browser, 'Wren');
+    // Every question the phone fetches from bank/, by name (the game asks for a question's answers when it needs them).
+    const banked = new Set();
+    wren.ctx.on('response', (r) => {
+      const m = /\/bank\/([a-z0-9-]+)\.json(\?|$)/.exec(r.url());
+      if (m && r.ok()) banked.add(m[1]);
+    });
     const p = await wren.open(`${BASE}?scale=2`);
     await p.waitForSelector('.title-screen', { timeout: 45000 });
     await p.waitForTimeout(1500);
@@ -275,6 +283,49 @@ async function reliquary(page, who) {
     const r1 = await reliquary(p, 'wren');
     if (r1.relics.length) pass(`The Reliquary keeps ${r1.relics.length} (${r1.note}), ${r1.told} with their share told. First: ${r1.relics[0].slice(0, 200)}`);
     else fail(`The Reliquary was empty (${r1.note}) after Wren's rare answers.`);
+    // ------------------------------------------------ the bank, a question at a time
+    // The script holds no answers: each question's are a file in bank/, fetched when needed and kept
+    // by the browser, so a dive begun can be finished, and its log read, with no line to the surface.
+    try {
+      if (banked.size >= 7) pass(`Wren's phone fetched its questions' answers as files of their own: ${banked.size} from bank/.`);
+      else fail(`Wren's phone fetched only ${banked.size} questions from bank/ for a dive of seven.`);
+      const kept = await p.evaluate(async () => (navigator.serviceWorker && navigator.serviceWorker.controller ? (await (await caches.open('cthulhoo-bank')).keys()).length : -1));
+      if (kept < 0) info('No service worker has this page (the game registers one only over https), so the questions kept and a log read with no line were not checked here.');
+      else {
+        if (kept >= 7) pass(`The browser kept ${kept} questions for a dive with no line to the surface.`);
+        else fail(`The browser kept only ${kept} questions.`);
+        const heard = wren.errors.length;
+        // The game is shut and opened again with no line, as a phone's is between visits. A new tab, not a reload:
+        // the old one, still drawing the sea in software, can keep a slow machine from turning the page for a minute.
+        await p.close().catch(() => {});
+        await wren.ctx.setOffline(true);
+        const began = Date.now();
+        const took = () => `${((Date.now() - began) / 1000).toFixed(1)} s`;
+        let at = 'opening the game';
+        try {
+          const o = await wren.open(`${BASE}?scale=2`, { waitUntil: 'commit', timeout: 90000 });
+          at = `waiting for the title (the page came after ${took()})`;
+          await o.waitForSelector('.title-screen', { timeout: 90000 });
+          at = `opening the log (the title came after ${took()})`;
+          await o.getByRole('button', { name: 'Read your log' }).click();
+          await o.waitForSelector('.dive-log > li', { timeout: 45000 });
+          await o.locator('.dive-log > li summary').first().click();
+          await o.waitForTimeout(400);
+          const more = flat(await o.locator('.dive-log > li .more').first().innerText());
+          if (/What everyone said|Unspeakable answers/.test(more)) pass(`With no line at all the game opens and the log is read again, answers and all (${took()}): ${more.slice(0, 160)}`);
+          else fail(`With no line, the log had no answers to show: "${more.slice(0, 160)}"`);
+        } catch (e) {
+          throw new Error(`with no line, ${at}: ${e.message.split('\n')[0]}`);
+        } finally {
+          await wren.ctx.setOffline(false);
+          // What could not be fetched with no line (the music, the census) is no fault; anything else still counts.
+          wren.errors = [...wren.errors.slice(0, heard), ...wren.errors.slice(heard).filter((e) => !/Failed to load resource|ERR_INTERNET_DISCONNECTED|Failed to fetch|NetworkError|Load failed/i.test(e))];
+        }
+      }
+    } catch (e) {
+      fail(`The check of the bank fetched a question at a time stopped: ${e.message.split('\n')[0]}`);
+    }
+
     // One phone at a time: a browser drawing the sea in software is slow enough already.
     const wrenErrors = [...wren.errors];
     await wren.ctx.close();
@@ -323,6 +374,123 @@ async function reliquary(page, who) {
     } catch (e) {
       await shot(d, 'desk-topics-fail');
       fail(`Charted Waters did not open: ${e.message.split('\n')[0]}`);
+    }
+
+    // ------------------------------------------------ the Convocation: a class held on the desk, the two phones in it
+    try {
+      await d.waitForSelector('.title-screen', { timeout: 15000 });
+      await d.locator('.mode-btn', { hasText: 'The Convocation' }).click();
+      await d.click('[data-way="hold"]');
+      await d.waitForSelector('.cv-host-lobby', { timeout: 45000 });
+      const sign = flat(await d.textContent('.sc-bar-sign'));
+      // Wren's phone was put away after her dive: a third diver, Ada, comes in by the link beside Bram.
+      const ada = await device(browser, 'Ada');
+      const link = `${BASE}?scale=1&class=${sign}`;
+      // Three pages drawing the sea in software load slowly on a small runner: wait for the join form, not for the whole page.
+      const slow = { waitUntil: 'commit', timeout: 120000 };
+      await ada.open(link, slow);
+      await bram.page.goto(link, slow);
+      for (const dev of [ada, bram]) {
+        await dev.page.waitForSelector('.cv-entry .sc-join', { timeout: 120000 });
+        await dev.page.fill('.sc-join input[name="diver-name"]', dev.name);
+        await dev.page.click('.sc-join button[type="submit"]');
+        await dev.page.waitForSelector('.cv-diver-lobby', { timeout: 45000 });
+      }
+      await d.waitForFunction(() => document.querySelectorAll('.cv-diver').length === 2, null, { timeout: 20000 });
+      await shot(d, 'class-host-lobby');
+      await shot(ada.page, 'class-diver-lobby');
+      await d.click('.cv-begin');
+      await d.waitForSelector('.cv-host-ask', { timeout: 45000 });
+      const q = flat(await d.textContent('.cv-hq-text'));
+      const answers = answersFor(q);
+      if (!answers.length) throw new Error(`no answers are known here for "${q}"`);
+      await shot(d, 'class-host-ask');
+      for (const [dev, a] of [[ada, answers[0]], [bram, answers[answers.length - 1]]]) {
+        await dev.page.waitForSelector('.cv-ask input.answer', { timeout: 45000 });
+        await dev.page.fill('.cv-ask input.answer', a);
+        await dev.page.press('.cv-ask input.answer', 'Enter');
+      }
+      // Everyone has answered, so the question closes by itself.
+      await d.waitForSelector('.cv-host-reveal', { timeout: 45000 });
+      await bram.page.waitForSelector('.cv-reveal', { timeout: 20000 });
+      await d.waitForTimeout(800);
+      await shot(d, 'class-host-reveal');
+      await shot(bram.page, 'class-diver-reveal');
+      const said = flat(await d.textContent('.cv-hr-said .cv-answers'));
+      const mine = flat(await bram.page.textContent('.cv-yours'));
+      pass(`A class was held at ${sign}: the desk asked "${q}", the two phones joined by its link and answered, and the answers surfaced: ${said.slice(0, 220)}`);
+      if (/\+[\d,]+ m/.test(mine)) pass(`Bram's phone shows his own answer and what it earned: ${mine.slice(0, 160)}`);
+      else fail(`Bram's phone does not show what his answer earned: "${mine.slice(0, 160)}"`);
+      // The host closes the class: it ends for the phones too.
+      await d.click('.sc-back');
+      await d.locator('.sc-confirm .btn.primary').click();
+      await d.waitForSelector('.title-screen', { timeout: 20000 });
+      await bram.page.waitForSelector('.cv-end', { timeout: 20000 });
+      pass('The host closed the class, and the phones were told it had surfaced.');
+      if (ada.errors.length) fail(`Ada's browser logged errors: ${[...new Set(ada.errors)].slice(0, 5).join(' | ')}`);
+      await ada.ctx.close();
+    } catch (e) {
+      await shot(d, 'class-fail-host');
+      if (bram.page) await shot(bram.page, 'class-fail-diver');
+      fail(`The Convocation stopped: ${e.message.split('\n')[0]}`);
+    }
+
+    // ------------------------------------------------ a revision dive: one class pack, sat alone on the desk
+    try {
+      const packsDir = path.join(root, 'packs');
+      const indexFile = path.join(packsDir, 'index.json');
+      const index = fs.existsSync(indexFile) ? (JSON.parse(fs.readFileSync(indexFile, 'utf8')).packs ?? []) : [];
+      if (!index.length) info('No class packs are in this branch, so no revision dive was made.');
+      else {
+        // Whatever the class left on the desk, the dive begins from a fresh title.
+        const slow = { waitUntil: 'commit', timeout: 120000 };
+        await d.goto(`${BASE}?scale=1`, slow);
+        await d.waitForSelector('.title-screen', { timeout: 120000 });
+        await d.locator('.mode-btn', { hasText: 'Charted Waters' }).click();
+        await d.locator('.sheet button', { hasText: 'Revise a class pack' }).click();
+        await d.waitForSelector('.rv-shelf .rv-pack', { timeout: 45000 });
+        const shelf = (await d.locator('.rv-pack-name').allInnerTexts()).map(flat);
+        await shot(d, 'revise-shelf');
+        const at = shelf.findIndex((name) => index.some((p) => p.name === name));
+        const pack = index.find((p) => p.name === shelf[at]);
+        if (!pack) throw new Error(`the shelf (${shelf.join(', ') || 'empty'}) holds none of the packs of this branch`);
+        await d.locator('.rv-pack').nth(at).click();
+        await d.waitForSelector('.rv-pack-scene .rv-q', { timeout: 45000 });
+        // A question in today's dive is held back until the dive is made: sit the first that is open.
+        const row = d.locator('.rv-q:not([disabled])').first();
+        const q = flat(await row.locator('.rv-q-text').innerText());
+        const prompt = JSON.parse(fs.readFileSync(path.join(packsDir, pack.file), 'utf8')).prompts.find((p) => flat(p.text) === q);
+        if (!prompt) throw new Error(`"${q}" is not in packs/${pack.file}`);
+        const sorted = [...prompt.answers].sort((a, b) => a.tier - b.tier);
+        const give = [sorted[0], sorted[sorted.length - 1]];
+        await row.click();
+        await d.waitForSelector('.rv-ask input.answer', { timeout: 45000 });
+        for (const [i, a] of give.entries()) {
+          await d.fill('.rv-ask input.answer', a.answer);
+          await d.press('.rv-ask input.answer', 'Enter');
+          await d.waitForFunction((n) => document.querySelectorAll('.rv-ask .rv-named .cv-named-a').length === n, i + 1, { timeout: 15000 });
+        }
+        const depth = flat(await d.textContent('.rv-ask .rv-depth'));
+        await shot(d, 'revise-ask');
+        await d.click('.rv-done');
+        await d.waitForSelector('.rv-result', { timeout: 20000 });
+        await d.waitForTimeout(600);
+        await shot(d, 'revise-missed');
+        const count = flat(await d.textContent('.rv-result .rv-count'));
+        const tiers = await d.locator('.rv-tier').count();
+        const missed = (await d.locator('.rv-chips.is-missed .cv-named-a').allInnerTexts()).map(flat);
+        if (parseInt(depth.replace(/\D/g, ''), 10) > 0 && tiers && missed.length) pass(`A revision dive on ${pack.name}: "${q}" took ${give.map((a) => a.answer).join(' and ')} down to ${depth} (${count}), then showed what was missed in ${tiers} tiers, beginning ${missed.slice(0, 5).join(', ')}.`);
+        else fail(`The revision dive on ${pack.name} came up short: depth "${depth}", ${tiers} tiers and ${missed.length} missed answers shown for "${q}".`);
+        // What was reached is kept on the device: the pack, opened again by its own link, remembers it.
+        await d.goto(`${BASE}?scale=1&revise=${pack.id}`, slow);
+        await d.waitForSelector('.rv-pack-scene .rv-q', { timeout: 120000 });
+        const kept = flat(await d.textContent('.rv-progress-line'));
+        if (/of the way down/.test(kept)) pass(`Opened again by its link (?revise=${pack.id}), the pack remembers the sitting: "${kept}".`);
+        else fail(`Opened again by its link (?revise=${pack.id}), the pack has forgotten the sitting: "${kept}".`);
+      }
+    } catch (e) {
+      await shot(d, 'revise-fail');
+      fail(`The revision dive stopped: ${e.message.split('\n')[0]}`);
     }
     for (const dev of [wren, bram, desk]) {
       const errs = [...new Set(dev.errors)];

@@ -70,7 +70,7 @@
    "asOf": "2026-11-28",
    "file": "geography.json",
    "prompts": 18,
-   "answers": 3040
+   "answers": 3057
   },
   {
    "id": "languages",
@@ -94,7 +94,7 @@
    "asOf": "2026-11-28",
    "file": "history.json",
    "prompts": 14,
-   "answers": 3841
+   "answers": 3865
   },
   {
    "id": "accounting",
@@ -142,7 +142,7 @@
    "asOf": "2026-11-28",
    "file": "psychology.json",
    "prompts": 9,
-   "answers": 1243
+   "answers": 1327
   }
  ]
 }

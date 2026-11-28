@@ -33,10 +33,10 @@ export const NO_RELAY = 'Séances across phones need the surface relay, which is
 export const NO_RELAY_LINK = 'That link is to a séance across phones, and those cannot be held here yet. Pass the lantern round one phone instead.';
 
 /** Every chair at the table, as the scene wants it: for the table drawn as a crest. */
-const allSeats = (state: (mark: number) => SeatState): TableSeat[] => Array.from({ length: SEATS }, (_, m) => ({ id: `chair-${m}`, name: '', mark: m, state: state(m) }));
+export const allSeats = (state: (mark: number) => SeatState): TableSeat[] => Array.from({ length: SEATS }, (_, m) => ({ id: `chair-${m}`, name: '', mark: m, state: state(m) }));
 
 /** The table as a crest, not a circle anyone sits at: its words are left to the heading. */
-function crestTable(cls: string): SeanceTable {
+export function crestTable(cls: string): SeanceTable {
   const t = new SeanceTable(allSeats(() => 'empty'), { cls });
   t.el.setAttribute('aria-hidden', 'true');
   t.describe('');

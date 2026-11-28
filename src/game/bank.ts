@@ -1,21 +1,36 @@
+import * as built from 'virtual:daily-bank';
 import placeholderBank from '../content/placeholder-bank.json';
 import { PROMPTS_PER_DAY } from './daily';
 import { PLACEHOLDER_THEME, buildTheme } from './theme';
-import type { AnswerDef, BankDay, PromptDef, ThemeCopy, TrapDef } from './types';
+import type { AnswerDef, BankDay, PromptDef, PromptMeta, ThemeCopy, TrapDef } from './types';
 
-// Every JSON file in data/ at the repo root is read at build time. Files with a
-// "prompts" or "days" array join the bank; data/theme.json supplies the copy.
-// Until the question-bank thread's files are merged, the placeholders in
-// src/content are used.
-
-const dataFiles = import.meta.glob('/data/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
+// The daily bank is every JSON file in data/ at the repo root with a "prompts"
+// or "days" array; data/theme.json supplies the copy. The build
+// (build/daily-bank.mjs) hands the script each question's words and topic at
+// once, and publishes each question's answers as a file of its own, fetched when
+// a dive, a séance or a log asks for them: the bank can grow without the game's
+// first load growing with it. Where the data cannot fill a day, the placeholders
+// in src/content make up the numbers.
 
 export interface Bank {
-  prompts: PromptDef[];
+  /** Every question of the daily bank, without its answers: the day's plan and the topics are made from these. */
+  prompts: PromptMeta[];
+  /** The questions that are here whole: those fetched so far, and a class pack's once it is loaded. */
   byId: Map<string, PromptDef>;
   days: BankDay[];
   theme: ThemeCopy;
   source: 'data' | 'placeholder';
+  /** Whether the daily bank asks this question, fetched or not. */
+  has(id: string): boolean;
+  /** What is known of a question now: all of it when it is here, its words and topic when it is not. */
+  about(id: string): PromptMeta | undefined;
+  /**
+   * These questions whole, fetching the ones that are not here yet. Resolves to
+   * those that could be had, in the order asked for and each once: a question
+   * the bank does not ask, or one the network would not give, is left out. Never
+   * rejects, and a question that failed is asked for afresh the next time.
+   */
+  whole(ids: string[]): Promise<PromptDef[]>;
 }
 
 type Json = Record<string, unknown>;
@@ -74,14 +89,46 @@ export function cleanPrompt(p: unknown): PromptDef | null {
   };
 }
 
+/** A question as the build lists it: no answers, and a stamp of the file that holds them. */
+interface Entry {
+  meta: PromptMeta;
+  /** The stamp of its published file: a list that changes gets a new one. Empty when there is no file. */
+  v: string;
+}
+
+/** One line of the build's list, checked. The words and the topic are read exactly as a whole question's are. */
+function cleanEntry(raw: unknown): Entry | null {
+  if (!isObj(raw) || !text(raw.id) || !text(raw.text)) return null;
+  return {
+    meta: { id: raw.id as string, text: raw.text as string, category: text(raw.category) ?? 'misc', flavor: text(raw.flavor), rules: text(raw.rules) },
+    v: text(raw.v) ?? '',
+  };
+}
+
+/** A whole question, less its lists. */
+export function metaOf(p: PromptDef): PromptMeta {
+  const { answers: _answers, traps: _traps, decoys: _decoys, exact: _exact, ...meta } = p;
+  return meta;
+}
+
+function cleanDays(list: unknown): BankDay[] {
+  const days: BankDay[] = [];
+  for (const d of Array.isArray(list) ? list : []) {
+    if (isObj(d) && typeof d.date === 'string' && Array.isArray(d.prompts)) {
+      days.push({ date: d.date, prompts: d.prompts.filter((id): id is string => typeof id === 'string') });
+    }
+  }
+  return days;
+}
+
 /**
  * Makes questions findable by id without adding them to the daily bank: class
  * packs, loaded when asked for. A dive, a séance and a reveal can then look them
- * up, and the daily plan (which reads `prompts`) never sees them. An id the bank
- * already has keeps the bank's question.
+ * up, and the daily plan (which reads `prompts`) never sees them. An id the
+ * daily bank asks keeps the bank's question, fetched or not.
  */
-export function adoptPrompts(bank: Pick<Bank, 'byId'>, prompts: PromptDef[]): void {
-  for (const p of prompts) if (!bank.byId.has(p.id)) bank.byId.set(p.id, p);
+export function adoptPrompts(bank: Pick<Bank, 'byId' | 'has'>, prompts: PromptDef[]): void {
+  for (const p of prompts) if (!bank.has(p.id) && !bank.byId.has(p.id)) bank.byId.set(p.id, p);
 }
 
 /** Prompts (first file to use an id wins) and fixed days from a list of bank files. */
@@ -94,11 +141,7 @@ export function collectBank(files: unknown[]): { prompts: PromptDef[]; days: Ban
       const p = cleanPrompt(raw);
       if (p && !byId.has(p.id)) byId.set(p.id, p);
     }
-    for (const d of Array.isArray(f.days) ? f.days : []) {
-      if (isObj(d) && typeof d.date === 'string' && Array.isArray(d.prompts)) {
-        days.push({ date: d.date, prompts: d.prompts.filter((id): id is string => typeof id === 'string') });
-      }
-    }
+    days.push(...cleanDays(f.days));
   }
   return { prompts: [...byId.values()], days };
 }
@@ -108,17 +151,157 @@ export function collectBank(files: unknown[]): { prompts: PromptDef[]; days: Ban
  * the placeholders make up the numbers, listed after the data so the data's
  * own version of a prompt both share wins.
  */
-export function bankFrom(files: unknown[], fallback: unknown): Pick<Bank, 'prompts' | 'days' | 'source'> {
+export function bankFrom(files: unknown[], fallback: unknown): { prompts: PromptDef[]; days: BankDay[]; source: Bank['source'] } {
   const data = collectBank(files);
   if (data.prompts.length >= PROMPTS_PER_DAY) return { ...data, source: 'data' };
   return { ...collectBank([...files, fallback]), source: 'placeholder' };
 }
 
-export function loadBank(): Bank {
-  const entries = Object.entries(dataFiles).sort(([a], [b]) => (a < b ? -1 : 1));
-  const themeRaw = entries.find(([path]) => path.endsWith('/theme.json'))?.[1];
-  const files = entries.filter(([path]) => !path.endsWith('/theme.json')).map(([, v]) => v);
-  const { prompts, days, source } = bankFrom(files, placeholderBank);
-  const theme = themeRaw ? buildTheme(themeRaw) : PLACEHOLDER_THEME;
-  return { prompts, byId: new Map(prompts.map((p) => [p.id, p])), days, theme, source };
+// ------------------------------------------------------------ fetching a question
+
+/** Fetches one published question (bank/<id>.json) as JSON. `v` is the stamp of its file. Rejects when it cannot be had. */
+export type BankFetcher = (id: string, v: string) => Promise<unknown>;
+
+/** How long one question may take to arrive before the wait is given up. */
+export const BANK_FETCH_MS = 12_000;
+
+/**
+ * Fetches from bank/ beside the game. The address carries the file's stamp, so
+ * a copy the browser kept is good until the list changes. With no line to the
+ * surface, or one too slow, any copy the browser still holds is taken.
+ */
+export function bankFetcher(base: string): BankFetcher {
+  // The service worker keeps each question it sees fetched, for a dive with no line to the surface.
+  // It never saw what was fetched before it had the page in hand: on a first visit it installs after
+  // the day's questions are here, and on the first visit after the game is published anew the page is
+  // still in the hand of the worker before it (one from before the bank had files keeps none of them).
+  // So whenever a worker takes the page, what this page has fetched is asked for again: what the
+  // worker already keeps never leaves the device, and the rest the browser still holds.
+  const worker = typeof navigator === 'undefined' ? undefined : navigator.serviceWorker;
+  const asked = new Set<string>();
+  worker?.addEventListener('controllerchange', () => {
+    for (const url of asked) void fetch(url).catch(() => {});
+  });
+  return async (id, v) => {
+    const url = new URL(`bank/${encodeURIComponent(id)}.json${v ? `?v=${encodeURIComponent(v)}` : ''}`, base);
+    const read = async (res: Response): Promise<unknown> => {
+      if (!res.ok) throw new Error(`bank/${id}.json: ${res.status}`);
+      return res.json();
+    };
+    // The clock runs until the whole list has arrived, not only its first bytes.
+    const stop = new AbortController();
+    const timer = setTimeout(() => stop.abort(), BANK_FETCH_MS);
+    try {
+      const got = await read(await fetch(url, { signal: stop.signal }));
+      if (worker) asked.add(url.href);
+      return got;
+    } catch {
+      return await read(await fetch(url, { cache: 'only-if-cached', mode: 'same-origin' }));
+    } finally {
+      clearTimeout(timer);
+    }
+  };
+}
+
+// ------------------------------------------------------------ the bank
+
+export interface BankParts {
+  /** The build's list: every question without its answers, each with the stamp of its file. */
+  index: unknown[];
+  /** Fixed days, as written in the files. */
+  days?: unknown[];
+  /** Every question whole, by id, where the build published no files: nothing is then fetched. */
+  bundled?: Record<string, unknown> | null;
+  /** The placeholder bank, for data that cannot fill a day. */
+  fallback?: unknown;
+  /** How a question's file is fetched; without it, only what is bundled can be had. */
+  fetchJson?: BankFetcher | null;
+}
+
+/** The bank's questions and how to have them whole: everything but the theme. */
+export function makeBank(parts: BankParts): Omit<Bank, 'theme'> {
+  const entries = new Map<string, Entry>();
+  const byId = new Map<string, PromptDef>();
+  for (const raw of parts.index) {
+    const e = cleanEntry(raw);
+    if (e && !entries.has(e.meta.id)) entries.set(e.meta.id, e);
+  }
+  if (parts.bundled) {
+    for (const id of [...entries.keys()]) {
+      const p = cleanPrompt(parts.bundled[id]);
+      // Bundled, a question is whole from the start or it cannot be asked at all.
+      if (p && p.id === id) byId.set(id, p);
+      else entries.delete(id);
+    }
+  }
+  let days = cleanDays(parts.days);
+  let source: Bank['source'] = 'data';
+  if (entries.size < PROMPTS_PER_DAY) {
+    const extra = collectBank([parts.fallback]);
+    for (const p of extra.prompts) {
+      if (entries.has(p.id)) continue;
+      entries.set(p.id, { meta: metaOf(p), v: '' });
+      byId.set(p.id, p);
+    }
+    days = [...days, ...extra.days];
+    source = 'placeholder';
+  }
+
+  const fetchJson = parts.fetchJson ?? null;
+  const loads = new Map<string, Promise<PromptDef | undefined>>();
+  const one = (id: string): Promise<PromptDef | undefined> => {
+    const here = byId.get(id);
+    if (here) return Promise.resolve(here);
+    const entry = entries.get(id);
+    if (!entry || !fetchJson) return Promise.resolve(undefined);
+    let load = loads.get(id);
+    if (!load) {
+      load = fetchJson(id, entry.v)
+        .then(
+          (raw) => {
+            const p = cleanPrompt(raw);
+            // The file must hold the question asked for, and nothing else may have taken its place meanwhile.
+            if (!p || p.id !== id) return undefined;
+            const kept = byId.get(id) ?? p;
+            byId.set(id, kept);
+            return kept;
+          },
+          () => undefined,
+        )
+        .finally(() => loads.delete(id));
+      loads.set(id, load);
+    }
+    return load;
+  };
+
+  return {
+    prompts: [...entries.values()].map((e) => e.meta),
+    byId,
+    days,
+    source,
+    has: (id) => entries.has(id),
+    about: (id) => byId.get(id) ?? entries.get(id)?.meta,
+    whole: async (ids) => (await Promise.all([...new Set(ids)].map(one))).filter((p): p is PromptDef => !!p),
+  };
+}
+
+/** A bank of questions that are all here whole, with nothing to fetch: for the tests and the benches. */
+export function wholeBank(prompts: PromptDef[], days: BankDay[] = []): Omit<Bank, 'theme'> {
+  const own = new Map(prompts.map((p) => [p.id, p]));
+  const byId = new Map(own);
+  return {
+    prompts,
+    byId,
+    days,
+    source: 'data',
+    has: (id) => own.has(id),
+    about: (id) => byId.get(id),
+    whole: async (ids) => [...new Set(ids)].flatMap((id) => byId.get(id) ?? []),
+  };
+}
+
+/** The bank the build made. In a page, questions are fetched from beside it; elsewhere only bundled ones can be had. */
+export function loadBank(fetchJson: BankFetcher | null = typeof document === 'undefined' ? null : bankFetcher(document.baseURI)): Bank {
+  const theme = built.theme ? buildTheme(built.theme) : PLACEHOLDER_THEME;
+  return { ...makeBank({ index: built.prompts, days: built.days, bundled: built.bundled, fallback: placeholderBank, fetchJson }), theme };
 }

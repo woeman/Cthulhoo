@@ -6,17 +6,17 @@ Rules: Any kind of vessel, from canoe to aircraft carrier. Named ships, like the
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (306 answers)
+## Accepted now (316 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (10)
 
-- Yacht — Superyacht | Sailing yacht | Megayacht | Motor yacht | Racing yacht | Royal yacht | Steam yacht | Luxury yacht | Gigayacht | Yacht boat
-- Canoe — Canadian canoe | Open canoe | Racing canoe | Canoe boat
-- Kayak — Sea kayak | Folding kayak | Sit-on-top kayak | Whitewater kayak | Qajaq | Kayak boat
+- Yacht — Superyacht | Sailing yacht | Megayacht | Motor yacht | Racing yacht | Royal yacht | Steam yacht | Luxury yacht | Gigayacht | Yacht boat | Yot | Yatch | Yaught | Maxi yacht | Maxi | Supermaxi
+- Canoe — Canadian canoe | Open canoe | Racing canoe | Canoe boat | Kanu | Canu | Canew | Kanoo
+- Kayak — Sea kayak | Folding kayak | Sit-on-top kayak | Whitewater kayak | Qajaq | Kayak boat | Kiak | Kyack
 - Submarine — Sub | Nuclear submarine | Nuclear sub | Attack submarine | Ballistic missile submarine | Hunter-killer submarine | Diesel submarine | Diesel-electric submarine | Submarine boat
-- Ferry — Ferryboat | Car ferry | Passenger ferry | Fast ferry | Foot ferry | Ferry ship
+- Ferry — Ferryboat | Car ferry | Passenger ferry | Fast ferry | Foot ferry | Ferry ship | Ferrie | Manly ferry | Sydney ferry | Vehicular ferry
 - Rowing boat — Rowboat
 - Sailing boat — Sailboat | Sailing ship | Sailing vessel | Sailing dinghy | Sailing craft
 - Speedboat — Powerboat
@@ -25,12 +25,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 2: common (30)
 
-- Dinghy — Rowing dinghy | Dinghy boat
-- Catamaran — Hobie Cat | Power catamaran | Catamaran boat
-- Gondola — Gondola boat | Venetian gondola
+- Dinghy — Rowing dinghy | Dinghy boat | Dingee | Dingie | Dingi
+- Catamaran — Hobie Cat | Power catamaran | Catamaran boat | Cat | Hobie
+- Gondola — Gondola boat | Venetian gondola | Gondoler
 - Barge — Canal barge | River barge | Dumb barge | Hopper barge | Dutch barge | Coal barge | Barge boat
 - Tugboat — Tug | Harbour tug | Harbor tug | Tractor tug | Ocean tug | Salvage tug | Tug ship
-- Trawler — Fishing trawler | Beam trawler | Stern trawler | Side trawler
+- Trawler — Fishing trawler | Beam trawler | Stern trawler | Side trawler | Prawn trawler | Prawn boat
 - Tanker — Oil tanker | Chemical tanker | Product tanker | Tanker ship | Crude carrier
 - Lifeboat — Rescue boat | Inshore lifeboat | Lifeboat ship
 - Pedalo — Pedal boat | Paddle boat
@@ -38,8 +38,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Aircraft carrier — Carrier | Supercarrier | Flattop | Fleet carrier | Carrier ship | Nuclear carrier
 - Battleship — Battlewagon
 - Destroyer — Guided-missile destroyer | Torpedo boat destroyer | Tin can | Destroyer ship
-- Frigate — Guided-missile frigate | Frigate ship
-- Galleon — Spanish galleon | Manila galleon | Treasure galleon | Galleon ship
+- Frigate — Guided-missile frigate | Frigate ship | Frigit | Frigget
+- Galleon — Spanish galleon | Manila galleon | Treasure galleon | Galleon ship | Gallion
 - Longship — Viking ship | Viking longship | Drakkar | Viking boat | Viking longboat | Dragon ship | Dreki | Drekar
 - Pirate ship — Pirate boat | Pirate galleon
 - Steamboat — Steamship | Steamer | Mississippi steamboat
@@ -58,7 +58,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (68)
 
-- Trimaran — Trimaran boat
+- Trimaran — Trimaran boat | Tri
 - Sloop
 - Ketch
 - Yawl
@@ -66,7 +66,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Brig — Brig ship
 - Brigantine — Hermaphrodite brig
 - Barque — Bark | Four-masted barque
-- Corvette — Corvette ship
+- Corvette — Corvette ship | Corvet
 - Gunboat — Motor gunboat | River gunboat
 - Ironclad — Ironclad warship
 - Man-of-war — Man o' war | Ship of the line | Line-of-battle ship | First-rate
@@ -75,7 +75,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Icebreaker
 - Dredger — Dredge | Hopper dredger
 - Whaler — Whaleship | Whaling ship | Whale catcher
-- Lugger — Chasse-marée | Pearling lugger
+- Lugger — Chasse-marée | Pearling lugger | Pearl lugger
 - Felucca — Feluca | Felucca boat
 - Outrigger canoe — Outrigger | Va'a | Waka ama
 - Galley — Roman galley | War galley
@@ -84,14 +84,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hydrofoil — Jetfoil | Hydrofoil boat
 - Airboat — Swamp boat | Fan boat
 - Longboat
-- Skiff — Skiff boat
+- Skiff — Skiff boat | 18 footer | 18-foot skiff | 18ft skiff | Eighteen footer | Eighteen-foot skiff | 16 footer | 16-foot skiff | 12 footer | 12-foot skiff
 - Dory — Dory boat
 - Junk — Chinese junk | Junk boat
-- Dhow — Arab dhow | Dhow boat
+- Dhow — Arab dhow | Dhow boat | Dow
 - Sampan — Sampan boat
 - Coracle — Coracle boat
 - Clipper — Clipper ship | Tea clipper | Baltimore clipper | Extreme clipper
-- Schooner — Topsail schooner | Grand Banks schooner | Pilot schooner | Schooner ship
+- Schooner — Topsail schooner | Grand Banks schooner | Pilot schooner | Schooner ship | Skooner
 - Trireme — Trieres
 - Dragon boat
 - Pontoon boat — Pontoon
@@ -99,7 +99,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Riverboat
 - Supertanker — Oil supertanker | VLCC | ULCC | Very large crude carrier
 - Bulk carrier — Bulker | Bulk freighter
-- Inflatable boat — Inflatable | Rubber dinghy | Zodiac | Rubber boat | Inflatable dinghy
+- Inflatable boat — Inflatable | Rubber dinghy | Zodiac | Rubber boat | Inflatable dinghy | IRB | Inflatable rescue boat | Rubber ducky | Rubber duckie | Rubber duck | Blow up boat
 - RIB — Rigid inflatable boat | Rigid-hulled inflatable boat | RHIB
 - Fireboat
 - Lightship — Light vessel
@@ -115,7 +115,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Submersible — Deep-sea submersible | DSV
 - Battlecruiser
 - Ghost ship — Phantom ship | Derelict ship | Derelict
-- Cabin cruiser — Motor cruiser
+- Cabin cruiser — Motor cruiser | Half cabin | Half cabin boat
 - Police boat — Police launch
 - Passenger ship — Passenger vessel
 - Pleasure boat — Pleasure craft
@@ -150,7 +150,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Scow
 - Lighter
 - Collier — Coal ship | Collier brig
-- Ro-ro ferry — Ro-ro | Roll-on roll-off ferry | Ropax
+- Ro-ro ferry — Ro-ro | Roll-on roll-off ferry | Ropax | Roll-on roll-off | Roll on roll off ship
 - Q-ship — Q-boat | Mystery ship
 - Currach — Curragh | Naomhog
 - Waka — Waka taua | Vaka
@@ -162,7 +162,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lake freighter
 - Racing shell — Rowing shell | Scull | Shell | Single scull | Sculling boat
 - Swan boat
-- Bark canoe — Birchbark canoe
+- Bark canoe — Birchbark canoe | Nawi
 - Reed boat — Balsa raft | Totora boat | Caballito de totora | Papyrus boat
 - Slave ship — Slaver
 - E-boat — S-boat | Schnellboot
@@ -233,7 +233,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mother ship
 - Galway hooker — Hooker
 
-### Tier 5: expert (92)
+### Tier 5: expert (102)
 
 - Galleass — Galeass | Galeazza
 - Xebec — Chebec | Zebec | Xebeck
@@ -272,7 +272,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bomb vessel — Bomb ketch
 - Turret ship
 - Littoral combat ship
-- Livestock carrier
+- Livestock carrier — Sheep ship | Live export ship
 - Pipe-laying ship — Pipelayer | Pipe-laying vessel
 - Crane vessel — Crane ship | Floating crane
 - Snagboat
@@ -327,6 +327,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Motorsailer
 - Pattamar — Patamar | Patimar
 - Corbita — Corbitae
+- Tinnie — Tinny | Tinnies | Tinny boat | Tinnie boat | Aluminium dinghy | Aluminium boat
+- Surf boat — Surf lifesaving boat | Surf rescue boat
+- Surf ski — Ocean ski | Spec ski
+- Ski boat — Wakeboard boat | Wake boat | Water ski boat
+- Bowrider
+- Laser — Laser dinghy | ILCA | ILCA dinghy
+- Sabot — Sabot dinghy
+- Optimist — Opti | Optimist dinghy | Oppy | Oppie
+- Couta boat — Barracouta boat
+- Putt-putt — Putt-putt boat
 
 ### Tier 6: rare jackpots (3)
 
@@ -338,7 +348,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Titanic | Mary Rose | HMS Victory | Victory | Cutty Sark | Mayflower | Santa Maria | Lusitania | Bismarck | Endeavour | Golden Hind | Queen Mary | Noah's Ark | Black Pearl | Nautilus | Mary Celeste | Argo | Kon-Tiki | Enterprise | Bounty | HMS Bounty — "A named ship, not a type of ship."
+- Titanic | Mary Rose | HMS Victory | Victory | Cutty Sark | Mayflower | Santa Maria | Lusitania | Bismarck | Endeavour | Golden Hind | Queen Mary | Noah's Ark | Black Pearl | Nautilus | Mary Celeste | Argo | Kon-Tiki | Enterprise | Bounty | HMS Bounty | HMS Endeavour | HMB Endeavour | Spirit of Tasmania | HMAS Sydney | Wild Oats | Wild Oats XI | Australia II | QE2 | Batavia — "A named ship, not a type of ship."
 - Boat | Ship | Vessel | Watercraft | Craft — "Which kind of boat? The deep wants a name."
 - Seaplane | Flying boat | Floatplane — "An aircraft that lands on water. Close, but it flies."
 - Spaceship | Rocket | Spacecraft | Space shuttle | Starship — "It sails the void, not the sea."

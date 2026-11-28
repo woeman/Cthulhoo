@@ -6,46 +6,46 @@ Rules: Any real ship that was wrecked, sank or was lost at sea, in any century. 
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (414 answers)
+## Accepted now (537 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (1)
 
-- Titanic — RMS Titanic | Titanc | Titani | SS Titanic | HMS Titanic
+- Titanic — RMS Titanic | Titanc | Titani | SS Titanic | HMS Titanic | Titanic wreck | Wreck of the Titanic
 
 ### Tier 2: common (12)
 
-- Lusitania — RMS Lusitania | SS Lusitania
-- Mary Rose — Henry VIII's flagship
-- Bismarck — KMS Bismarck | DKM Bismarck | Battleship Bismarck
-- Edmund Fitzgerald — SS Edmund Fitzgerald | The Fitz | Fitzgerald | Big Fitz | Mighty Fitz
-- Endurance — SY Endurance | Shackleton's ship
-- Costa Concordia — Concordia
-- Mary Celeste — Marie Celeste
-- USS Arizona — Arizona | Arizona Memorial
-- Britannic — HMHS Britannic | RMS Britannic
-- Andrea Doria — SS Andrea Doria
-- Bounty — HMS Bounty | HMAV Bounty | Bligh's ship
-- Santa María — La Santa María | La Gallega | Columbus's ship | Columbus's flagship
+- Lusitania — RMS Lusitania | SS Lusitania | Lusitania wreck | Wreck of the Lusitania
+- Mary Rose — Henry VIII's flagship | Henry VIII's ship | HMS Mary Rose | Mary Rose wreck | Wreck of the Mary Rose
+- Bismarck — KMS Bismarck | DKM Bismarck | Battleship Bismarck | Bismarck wreck | Wreck of the Bismarck
+- Edmund Fitzgerald — SS Edmund Fitzgerald | The Fitz | Fitzgerald | Big Fitz | Mighty Fitz | Edmund Fitz | Edmund Fitzgerald wreck | Wreck of the Edmund Fitzgerald
+- Endurance — SY Endurance | Shackleton's ship | Shackleton's Endurance | HMS Endurance | Endurance wreck | Wreck of the Endurance
+- Costa Concordia — Concordia | Costa Concordia wreck | Wreck of the Costa Concordia
+- Mary Celeste — Marie Celeste | HMS Mary Celeste | Mary Celeste wreck | Wreck of the Mary Celeste
+- USS Arizona — Arizona | Arizona Memorial | Arizona wreck | Wreck of the Arizona
+- Britannic — HMHS Britannic | RMS Britannic | Britannic wreck | Wreck of the Britannic
+- Andrea Doria — SS Andrea Doria | Andrea Doria wreck | Wreck of the Andrea Doria
+- Bounty — HMS Bounty | HMAV Bounty | Bligh's ship | Mutiny on the Bounty | Bounty wreck | Wreck of the Bounty
+- Santa María — La Santa María | La Gallega | Columbus's ship | Columbus's flagship | Santa María wreck | Wreck of the Santa María
 
 ### Tier 3: known to fans (36)
 
-- Vasa — Wasa
+- Vasa — Wasa | Vasa ship
 - Yamato — IJN Yamato | Battleship Yamato
 - HMS Hood — Hood
 - Wilhelm Gustloff — MV Wilhelm Gustloff | Gustloff
 - Empress of Ireland — RMS Empress of Ireland
 - Kursk — K-141 Kursk
-- USS Indianapolis — Indianapolis
+- USS Indianapolis — Indianapolis | Indy
 - HMS Erebus — Erebus | Franklin's ship | Franklin expedition
 - HMS Terror — Terror
 - Whydah Gally — Whydah | Whydah Galley
 - Queen Anne's Revenge — Blackbeard's ship
-- Batavia
+- Batavia — SS Batavia | HMS Batavia | Batavia wreck
 - MS Estonia — Estonia | MV Estonia
 - Herald of Free Enterprise — MS Herald of Free Enterprise | Zeebrugge ferry
-- Essex — Whaleship Essex
+- Essex — Whaleship Essex | Whaler Essex | HMS Essex | USS Essex | SS Essex
 - Medusa — Méduse | La Méduse | Raft of the Medusa
 - Admiral Graf Spee — Graf Spee | KMS Admiral Graf Spee
 - Tirpitz — KMS Tirpitz
@@ -64,7 +64,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Moskva — Moskva cruiser
 - Sewol — MV Sewol
 - Musashi — IJN Musashi
-- Titan — OceanGate Titan | Titan submersible | Titan sub
+- Titan — OceanGate Titan | Titan submersible | Titan sub | OceanGate | OceanGate sub | Titan submarine
 - HMS Wager — Wager
 - USS Cyclops — Cyclops
 
@@ -97,7 +97,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - USS Yorktown — Yorktown
 - USS Lexington — Lexington
 - PT-109
-- Andrea Gail
+- Andrea Gail — Perfect Storm
 - Carpathia — RMS Carpathia
 - USS Scorpion — Scorpion
 - El Faro — SS El Faro
@@ -105,13 +105,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Achille Lauro — MS Achille Lauro
 - Laconia — RMS Laconia
 - CSS Alabama — Alabama
-- Merrimack — CSS Virginia | USS Merrimack
+- Merrimack — CSS Virginia | USS Merrimack | Virginia
 - White Ship — Blanche-Nef | La Blanche-Nef
 - SS Californian — Californian
 - RMS Republic — Republic
 - RMS Leinster — Leinster
 - SS Morro Castle — Morro Castle
-- SS President Coolidge — President Coolidge
+- SS President Coolidge — President Coolidge | Coolidge
 - Zenobia — MS Zenobia
 - HMS Invincible — Invincible
 - HMS Indefatigable — Indefatigable
@@ -140,21 +140,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - USAT Dorchester — Dorchester | SS Dorchester
 - Armenia — MV Armenia
 - Admiral Nakhimov — SS Admiral Nakhimov
-- Mikhail Lermontov — MS Mikhail Lermontov
+- Mikhail Lermontov — MS Mikhail Lermontov | Lermontov
 - Novorossiysk — Giulio Cesare
 - Toya Maru
 - Ertuğrul — Ottoman frigate Ertuğrul | Ertogrul
 - MV Salem Express — Salem Express
 - TEV Wahine — Wahine
-- Loch Ard
-- HMAS Sydney
+- Loch Ard — SS Loch Ard
+- HMAS Sydney — Sydney
 - AHS Centaur — Centaur | HMAS Centaur
 - HMS Orpheus — Orpheus
 - Mignonette
 - Forfarshire — SS Forfarshire
 - HMS Eurydice — Eurydice
-- HMS Victoria
-- HMS Association — Scilly naval disaster
+- HMS Victoria — Victoria
+- HMS Association — Scilly naval disaster | Association
 - L'Orient — Orient
 - Bonhomme Richard — USS Bonhomme Richard
 - HMS Endeavour — Endeavour | Cook's ship | Lord Sandwich | HM Bark Endeavour
@@ -175,7 +175,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - RMS Rhone — Rhone
 - SMS Emden — Emden
 
-### Tier 5: expert (259)
+### Tier 5: expert (382)
 
 - Flor de la Mar
 - Belitung wreck — Belitung
@@ -184,8 +184,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - HMS Victory (1737) — HMS Victory 1744 | Victory 1744 | Victory 1737 | Balchin's Victory
 - Kyrenia ship — Kyrenia
 - La Belle
-- SS Atlantic
-- SS Arctic
+- SS Atlantic — Atlantic
+- SS Arctic — Arctic
 - Pamir
 - HMS Queen Mary
 - K-129
@@ -199,7 +199,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mendi — SS Mendi
 - Gneisenau — KMS Gneisenau | SMS Gneisenau
 - RMS Queen Elizabeth — Queen Elizabeth | Seawise University
-- SS Pacific
+- SS Pacific — Pacific
 - SS Brother Jonathan — Brother Jonathan
 - SS Vestris — Vestris
 - SS Noronic — Noronic
@@ -208,33 +208,33 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lady Elgin — PS Lady Elgin
 - MV Princess Victoria — Princess Victoria
 - Fujikawa Maru
-- HMS Defence
-- HMS Black Prince
+- HMS Defence — Defence
+- HMS Black Prince — Black Prince
 - SMS Lützow — Lützow
-- SMS Pommern
-- SMS Wiesbaden
-- HMS Aboukir
-- HMS Cressy
-- HMS Hogue
-- HMS Audacious
-- HMS Formidable
-- HMS Goliath
-- HMS Majestic
-- HMS Triumph
-- HMS Irresistible
+- SMS Pommern — Pommern
+- SMS Wiesbaden — Wiesbaden
+- HMS Aboukir — Aboukir
+- HMS Cressy — Cressy
+- HMS Hogue — Hogue
+- HMS Audacious — Audacious
+- HMS Formidable — Formidable
+- HMS Goliath — Goliath
+- HMS Majestic — Majestic
+- HMS Triumph — Triumph
+- HMS Irresistible — Irresistible
 - HMS Ocean
 - Bouvet
-- HMS Natal
-- HMS Vanguard (1909) — HMS Vanguard
-- HMS Bulwark
-- SMS Königsberg
+- HMS Natal — Natal
+- HMS Vanguard (1909) — HMS Vanguard | Vanguard
+- HMS Bulwark — Bulwark
+- SMS Königsberg — Königsberg
 - Léon Gambetta
-- SS Persia
-- RMS Hesperian
-- SS Arabic
-- SS Ancona
-- SS Sussex
-- SS Tuscania
+- SS Persia — Persia
+- RMS Hesperian — Hesperian
+- SS Arabic — Arabic
+- SS Ancona — Ancona
+- SS Sussex — Sussex
+- SS Tuscania — Tuscania
 - HMHS Rohilla — Rohilla
 - SS Laurentic — Laurentic
 - Shokaku
@@ -247,41 +247,41 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mutsu
 - Kongo
 - Nagato
-- USS Utah
-- USS Wasp
-- USS Houston
-- USS Samuel B. Roberts
-- USS Liscome Bay
-- USS Princeton
-- USS Saratoga
-- USS Squalus
-- USS Tang
-- USS Wahoo
-- USS Grunion
-- USS Harder
-- HMS Courageous
-- HMS Hermes
-- HMS Eagle
-- HMS Exeter
-- HMS Dasher
-- HMS Neptune
-- HMS Curacoa
-- HMS Affray
-- HMS Truculent
-- HMS Glowworm
-- HMS Gloucester
-- HMS Coventry
-- HMS Ardent
-- HMS Antelope
+- USS Utah — Utah
+- USS Wasp — Wasp
+- USS Houston — Houston
+- USS Samuel B. Roberts — Samuel B. Roberts
+- USS Liscome Bay — Liscome Bay
+- USS Princeton — Princeton
+- USS Saratoga — Saratoga
+- USS Squalus — Squalus
+- USS Tang — Tang
+- USS Wahoo — Wahoo
+- USS Grunion — Grunion
+- USS Harder — Harder
+- HMS Courageous — Courageous
+- HMS Hermes — Hermes
+- HMS Eagle — Eagle
+- HMS Exeter — Exeter
+- HMS Dasher — Dasher
+- HMS Neptune — Neptune
+- HMS Curacoa — Curacoa
+- HMS Affray — Affray
+- HMS Truculent — Truculent
+- HMS Glowworm — Glowworm
+- HMS Gloucester — Gloucester
+- HMS Coventry — Coventry
+- HMS Ardent — Ardent
+- HMS Antelope — Antelope
 - RFA Sir Galahad — Sir Galahad
 - Atlantic Conveyor — SS Atlantic Conveyor
 - SS General von Steuben — General von Steuben | Steuben
 - Junyo Maru
 - Lisbon Maru
 - Tsushima Maru
-- SS Ceramic
-- SS Leopoldville
-- SS Patria
+- SS Ceramic — Ceramic
+- SS Leopoldville — Leopoldville
+- SS Patria — Patria
 - HMT Rohna — Rohna
 - K-8
 - K-219
@@ -292,27 +292,27 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Oslyabya
 - Imperatritsa Mariya — Empress Maria
 - MS Princess of the Stars — Princess of the Stars
-- MV Bukoba
-- MV Spice Islander I — Spice Islander
-- MV Nyerere
+- MV Bukoba — Bukoba
+- MV Spice Islander I — Spice Islander | Spice Islander I
+- MV Nyerere — Nyerere
 - SS Kiangya — Kiangya
 - Taiping — SS Taiping
 - Eastern Star — Dongfang zhi Xing
 - Al-Salam Boccaccio 98 — Al Salam Boccaccio
-- Admella
-- Dunbar
+- Admella — SS Admella
+- Dunbar — SS Dunbar
 - Cataraqui
 - HSK Kormoran — Kormoran
-- HMAS Perth
-- HMAS Voyager
-- SS Gothenburg
+- HMAS Perth — Perth
+- HMAS Voyager — Voyager
+- SS Gothenburg — Gothenburg
 - SS Koombana — Koombana
 - Zuytdorp
 - Vergulde Draeck — Gilt Dragon
 - Zeewijk
-- HMS Sirius
-- SS Tararua
-- SS Penguin
+- HMS Sirius — Sirius
+- SS Tararua — Tararua
+- SS Penguin — Penguin
 - Boyd
 - Mahdia shipwreck — Mahdia
 - Cape Gelidonya wreck — Cape Gelidonya
@@ -333,67 +333,67 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nuestra Señora de las Mercedes
 - Nuestra Señora de la Concepción
 - Adventure Galley
-- HMS Stirling Castle
-- HMS Northumberland
+- HMS Stirling Castle — Stirling Castle
+- HMS Northumberland — Northumberland
 - HMS London
-- HMS Colossus
+- HMS Colossus — Colossus
 - HMS Captain
-- HMS Atalanta
-- HMS Serpent
+- HMS Atalanta — Atalanta
+- HMS Serpent — Serpent
 - HMS Sussex
-- HMS Investigator
-- HMS Breadalbane
+- HMS Investigator — Investigator
+- HMS Breadalbane — Breadalbane
 - Aurora — SY Aurora
 - Nimrod
 - Terra Nova — SS Terra Nova
 - Quest
 - Polaris
 - Belgica
-- SS Antarctic
+- SS Antarctic — Antarctic
 - Ann Alexander
 - Joyita — MV Joyita
 - Lyubov Orlova
-- SS Marine Electric
-- SS Poet
-- SS Marine Sulphur Queen
+- SS Marine Electric — Marine Electric
+- SS Poet — Poet
+- SS Marine Sulphur Queen — Marine Sulphur Queen
 - Witchcraft
 - SS Cotopaxi — Cotopaxi
 - Erika
 - Braer
-- MV Wakashio
+- MV Wakashio — Wakashio
 - Atlantic Empress
-- MV Golden Ray
-- MS Express Samina
-- MS Scandinavian Star
-- MV Tricolor
-- MV Rena
-- MS Sea Diamond
-- MS Explorer
-- MV Hans Hedtoft
+- MV Golden Ray — Golden Ray
+- MS Express Samina — Express Samina
+- MS Scandinavian Star — Scandinavian Star
+- MV Tricolor — Tricolor
+- MV Rena — Rena
+- MS Sea Diamond — Sea Diamond
+- MS Explorer — Explorer
+- MV Hans Hedtoft — Hans Hedtoft
 - TSMS Lakonia — Lakonia
-- SS Yarmouth Castle
-- SS Paris
+- SS Yarmouth Castle — Yarmouth Castle
+- SS Paris — Paris
 - RMS Tayleur — Tayleur
 - SS London
-- SS Schiller
-- SS Deutschland — Wreck of the Deutschland
-- SS Elbe
+- SS Schiller — Schiller
+- SS Deutschland — Wreck of the Deutschland | Deutschland
+- SS Elbe — Elbe
 - La Bourgogne
-- SS Norge
-- SS Valencia
-- SS Berlin
-- SS Stella
-- SS Mohegan
-- SS Drummond Castle
-- SS Utopia
+- SS Norge — Norge
+- SS Valencia — Valencia
+- SS Berlin — Berlin
+- SS Stella — Stella
+- SS Mohegan — Mohegan
+- SS Drummond Castle — Drummond Castle
+- SS Utopia — Utopia
 - Príncipe de Asturias
-- SS Sirio
-- SS Valbanera
-- SS Afrique
+- SS Sirio — Sirio
+- SS Valbanera — Valbanera
+- SS Afrique — Afrique
 - Principessa Mafalda
 - MV Neptune
-- USS Kearsarge
-- USS Cairo
+- USS Kearsarge — Kearsarge
+- USS Cairo — Cairo
 - SS Republic
 - Gaspee
 - Hamilton and Scourge
@@ -411,10 +411,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Neva
 - Schomberg
 - Ly-ee-Moon
-- SS Wairarapa
+- SS Wairarapa — Wairarapa
 - General Grant
 - Grafton
-- SS Elingamite
+- SS Elingamite — Elingamite
 - William Brown
 - Henrietta Marie
 - São José Paquete de África
@@ -436,13 +436,136 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Oceanos — MTS Oceanos
 - München — MS München | Muenchen | MS Muenchen | Munich | MS Munich
 - Tek Sing — Tek Sing junk | True Star
+- HMAS Canberra — Canberra
+- SS Maheno — Maheno | Maheno wreck
+- Tangalooma Wrecks — Tangalooma
+- HMAS Kuttabul — Kuttabul
+- Tryall — Trial
+- Sydney Cove
+- SS Lake Illawarra — Lake Illawarra
+- Greycliffe
+- Rodney
+- SS Cheviot — Cheviot
+- RMS Quetta — Quetta
+- Blythe Star — MV Blythe Star
+- Catterthun — SS Catterthun
+- MV Malabar — Malabar
+- Hereward
+- Collaroy — SS Collaroy
+- Catherine Adamson
+- Walter Hood
+- HMAS Armidale — Armidale
+- HMAS Parramatta — Parramatta
+- HMAS Yarra — Yarra
+- AE1 — HMAS AE1
+- AE2 — HMAS AE2
+- M-24 — Japanese midget submarine | Midget submarine | M24 midget submarine
+- SIEV X
+- SS Ventnor — Ventnor
+- RMS Niagara — Niagara
+- SS Ayrfield — Ayrfield | Homebush Bay wrecks | Homebush Bay wreck | Floating forest
+- MV Sygna — Sygna
+- Adolphe
+- SS Cawarra — Cawarra
+- PS Maitland — Maitland | SS Maitland
+- SS Wollongbar — Wollongbar
+- SS Bombo — Bombo
+- HMAS Adelaide — Ex-HMAS Adelaide | Adelaide
+- HMAS Brisbane — Ex-HMAS Brisbane | Brisbane
+- HMAS Swan — Ex-HMAS Swan | Swan
+- HMAS Hobart — Ex-HMAS Hobart | Hobart
+- HMAS Tobruk — Ex-HMAS Tobruk | Tobruk
+- SS Dee Why — Dee Why | Dee Why ferry
+- MV Baragoola — Baragoola
+- Bellubera — MV Bellubera
+- SS Tuggerah — Tuggerah
+- Birchgrove Park — SS Birchgrove Park
+- Duckenfield — SS Duckenfield
+- TSS Currajong — Currajong
+- Centennial — SS Centennial
+- Royal Shepherd — SS Royal Shepherd
+- SS Kelloe — Kelloe
+- SS Undola — Undola
+- Annie M Miller
+- Woniora — SS Woniora
+- Valiant
+- Empire Gladstone
+- SS Nord — Nord
+- Amsterdam
+- Princess Sophia — SS Princess Sophia
+- Revenge
+- Chelyuskin — SS Chelyuskin
+- Felicity Ace
+- X-Press Pearl
+- MV Conception — Conception
+- Rabaul Queen — MV Rabaul Queen
+- Princess Ashika — MV Princess Ashika
+- Preussen
+- Peter Iredale
+- USAT Liberty — Liberty wreck | USS Liberty | Tulamben wreck | Liberty
+- Prinz Eugen
+- San Francisco Maru
+- MSC Napoli — Napoli
+- HMAS Australia — Australia
+- HMAS Waterhen — Waterhen
+- HMAS Vampire — Vampire
+- HMAS Nestor — Nestor
+- HMAS Goorangai — Goorangai
+- HMAS Patricia Cam — Patricia Cam
+- USS Frank E. Evans — Frank E. Evans | USS Evans | Evans
+- HMVS Cerberus — Cerberus | HMAS Cerberus
+- Loch Vennachar
+- Falls of Halladale
+- Fiji
+- Marie Gabrielle
+- Eric the Red
+- City of Rayville
+- SS Cumberland — Cumberland
+- Mahogany Ship
+- Speke — SS Speke
+- Ozone — PS Ozone
+- PS Clonmel — Clonmel
+- City of Launceston — SS City of Launceston
+- Star of Greece
+- Clan Ranald — SS Clan Ranald
+- Zanoni
+- Ethel
+- SS Georgette — Georgette
+- Alkimos — SS Alkimos
+- SS Xantho — Xantho
+- SS Kwinana — Kwinana
+- SS Orizaba — Orizaba
+- SS Pericles — Pericles
+- Sanko Harvest — MV Sanko Harvest
+- Cherry Venture — MV Cherry Venture
+- SS Dicky — Dicky | Dicky wreck
+- Foam
+- HMS Porpoise — Porpoise
+- Cato
+- HMS Mermaid — Mermaid
+- SS Kyarra — Kyarra
+- USS Peary — Peary
+- MV Neptuna — Neptuna
+- SS Zealandia — Zealandia
+- British Motorist — MV British Motorist
+- USAT Meigs — Meigs
+- Mauna Loa — SS Mauna Loa
+- I-124
+- Booya
+- MV Macdhui — Macdhui
+- SIEV 221
+- HMNZS Canterbury — Canterbury
+- HMNZS Wellington — Wellington
+- HMNZS Waikato — Waikato
+- HMNZS Tui — Tui
+- RMS Rangitane — Rangitane
 
 ### Tier 6: rare jackpots (2)
 
 - Baychimo — SS Baychimo
 - Jeannette — USS Jeannette
 
-## Refused on purpose (31)
+## Refused on purpose (38)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -450,7 +573,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Ourang Medan — "A legendary 'death ship' found with all its crew dead. There is no proof it ever existed."
 - Black Pearl — "Fictional, and cursed."
 - Pequod — "Captain Ahab's ship in Moby-Dick. Fictional."
-- Poseidon | SS Poseidon — "The upside-down liner of The Poseidon Adventure. Fictional."
+- Poseidon | SS Poseidon | Poseidon Adventure — "The upside-down liner of The Poseidon Adventure. Fictional."
 - Nautilus — "Captain Nemo's submarine is fiction, and the real USS Nautilus is a museum."
 - HMS Victory | Victory — "Nelson's flagship is still in dry dock at Portsmouth. An older Victory sank in 1744: add the year."
 - Cutty Sark — "A tea clipper, preserved at Greenwich. Never wrecked."
@@ -466,8 +589,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Golden Hind — "Drake's ship was left to rot at Deptford. The one in London is a replica."
 - Pinta | Niña — "It made it home from Columbus's first voyage. His flagship was the one that wrecked."
 - Hesperus | Wreck of the Hesperus — "Longfellow's poem. The schooner is fiction, though its reef is real."
-- Ever Given — "It blocked the Suez Canal for six days in 2021, then floated free."
-- Dali — "It brought down Baltimore's Key Bridge in 2024, but stayed afloat."
+- Ever Given | Suez Canal ship — "It blocked the Suez Canal for six days in 2021, then floated free."
+- Dali | Baltimore bridge ship — "It brought down Baltimore's Key Bridge in 2024, but stayed afloat."
 - K-19 — "The 'Widowmaker' survived its 1961 reactor accident and was scrapped decades later."
 - Flight 19 — "Five planes, not ships. They vanished in 1945."
 - Spanish Armada | Armada — "A whole fleet. Name one of the ships it lost in 1588."
@@ -476,4 +599,11 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Fram — "Nansen's polar ship is safe in a museum in Oslo."
 - HMS Beagle | Beagle — "Darwin's ship ended as a coastguard watch vessel and was broken up in 1870."
 - USS Constitution | Old Ironsides — "Still afloat in Boston, and still in commission."
-- Bermuda Triangle — "A stretch of sea, not a ship."
+- Bermuda Triangle | Pearl Harbor | Pearl Harbour | Scapa Flow | Truk Lagoon | Chuuk Lagoon | Bikini Atoll | Shipwreck Coast | Skeleton Coast | Graveyard of the Atlantic | Ironbottom Sound — "A stretch of sea, not a ship."
+- Pasha Bulker | MV Pasha Bulker — "Blown onto Nobbys Beach at Newcastle in 2007 and hauled off 25 days later. Stranded, never wrecked."
+- Stockholm | MS Stockholm — "The liner that rammed the Andrea Doria. She limped home and sailed on for decades."
+- QE2 | Queen Elizabeth 2 — "Retired, not wrecked: she is a floating hotel in Dubai."
+- Shipwreck | Wreck | Submarine | Battleship | Aircraft carrier | Pirate ship | Ghost ship | Cruise ship — "Which one? The deep keeps a list."
+- SS Minnow | Minnow | Orca | Hispaniola | Jolly Roger | African Queen | Red October | Going Merry | Thousand Sunny | Dawn Treader | Love Boat — "A ship of fiction. The deep keeps the real ones."
+- HMAS Melbourne | Melbourne — "The carrier that cut two destroyers in half and survived both collisions. She was scrapped in 1985."
+- MV Tampa | Tampa — "The Tampa rescued 433 people from a sinking boat in 2001, and sailed on."

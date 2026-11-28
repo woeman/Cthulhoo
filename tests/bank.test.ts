@@ -1,6 +1,6 @@
-import { describe, expect, it } from 'vitest';
+import { afterEach, describe, expect, it, vi } from 'vitest';
 import placeholder from '../src/content/placeholder-bank.json';
-import { bankFrom, cleanPrompt, collectBank, loadBank } from '../src/game/bank';
+import { BANK_FETCH_MS, adoptPrompts, bankFetcher, bankFrom, cleanPrompt, collectBank, loadBank, makeBank, metaOf, wholeBank } from '../src/game/bank';
 import { matchAnswer } from '../src/game/matcher';
 import type { PromptDef } from '../src/game/types';
 
@@ -127,5 +127,246 @@ describe('collecting the bank', () => {
       expect(bank.prompts.length).toBeGreaterThanOrEqual(7);
     }
     expect(bank.byId.size).toBe(bank.prompts.length);
+  });
+});
+
+describe('a bank fetched a question at a time', () => {
+  // What the build hands the script: every question without its lists, each with a stamp of its file.
+  const whole = ids(9, 'q').map((p, i) => ({ ...p, text: `Name thing ${i}`, category: i < 5 ? 'science' : 'myth', ...(i === 0 ? { flavor: 'A flavour.' } : {}) })) as PromptDef[];
+  const index = whole.map((p, i) => ({ id: p.id, text: p.text, category: p.category, flavor: p.flavor, v: `v${i}` }));
+  const line = (files: Record<string, unknown> = Object.fromEntries(whole.map((p) => [p.id, p])), down: () => boolean = () => false) => {
+    const calls: string[] = [];
+    const fetchJson = async (id: string, v: string) => {
+      calls.push(`${id}?${v}`);
+      if (down() || !(id in files)) throw new Error('down');
+      return files[id];
+    };
+    return { calls, fetchJson };
+  };
+
+  it('knows every question’s words and topic at once, and none of its answers', () => {
+    const { calls, fetchJson } = line();
+    const bank = makeBank({ index, fetchJson });
+    expect(bank.source).toBe('data');
+    expect(bank.prompts.map((p) => p.id)).toEqual(whole.map((p) => p.id));
+    expect(bank.prompts[0]).toEqual({ id: 'q0', text: 'Name thing 0', category: 'science', flavor: 'A flavour.', rules: undefined });
+    expect(bank.prompts.some((p) => 'answers' in p || 'v' in p)).toBe(false);
+    expect(bank.byId.size).toBe(0);
+    expect(bank.has('q3')).toBe(true);
+    expect(bank.has('nope')).toBe(false);
+    expect(bank.about('q3')).toBe(bank.prompts[3]);
+    expect(bank.about('nope')).toBeUndefined();
+    expect(calls).toEqual([]);
+  });
+
+  it('reads a line of the list as it reads a whole question, and skips what is not one', () => {
+    const bank = makeBank({ index: [...index, { id: 'q0', text: 'Again' }, { id: 'bare', text: 'No topic', category: ' ' }, { id: '', text: 'No id' }, { id: 'wordless' }, 'nonsense', null] });
+    expect(bank.prompts.map((p) => p.id)).toEqual([...whole.map((p) => p.id), 'bare']);
+    expect(bank.about('q0')?.text).toBe('Name thing 0');
+    expect(bank.about('bare')?.category).toBe('misc');
+  });
+
+  it('fetches a question’s answers when they are asked for, each file once, by its stamp', async () => {
+    const { calls, fetchJson } = line();
+    const bank = makeBank({ index, fetchJson });
+    const got = await bank.whole(['q4', 'q1', 'q4', 'nope']);
+    expect(got.map((p) => p.id)).toEqual(['q4', 'q1']);
+    expect(got[0]).toEqual(cleanPrompt(whole[4]));
+    expect(calls).toEqual(['q4?v4', 'q1?v1']);
+    expect([...bank.byId.keys()].sort()).toEqual(['q1', 'q4']);
+    expect(bank.about('q4')).toBe(got[0]);
+    // Here now: asked for again, nothing more is fetched but what is new.
+    expect((await bank.whole(['q1', 'q4', 'q2'])).map((p) => p.id)).toEqual(['q1', 'q4', 'q2']);
+    expect(calls).toEqual(['q4?v4', 'q1?v1', 'q2?v2']);
+    // The list of the day's plan never changes for it.
+    expect(bank.prompts).toHaveLength(9);
+    expect(bank.prompts.some((p) => 'answers' in p)).toBe(false);
+  });
+
+  it('asks once for a question two things want at the same moment', async () => {
+    const { calls, fetchJson } = line();
+    const bank = makeBank({ index, fetchJson });
+    const [a, b] = await Promise.all([bank.whole(['q1', 'q2']), bank.whole(['q2', 'q3'])]);
+    expect([...calls].sort()).toEqual(['q1?v1', 'q2?v2', 'q3?v3']);
+    expect(a[1]).toBe(b[0]);
+  });
+
+  it('leaves out what the line would not give, never rejects, and asks afresh the next time', async () => {
+    let down = true;
+    const { calls, fetchJson } = line(undefined, () => down);
+    const bank = makeBank({ index, fetchJson });
+    expect(await bank.whole(['q1', 'q2'])).toEqual([]);
+    expect(bank.byId.size).toBe(0);
+    down = false;
+    expect((await bank.whole(['q1', 'q2'])).map((p) => p.id)).toEqual(['q1', 'q2']);
+    expect(calls).toHaveLength(4);
+  });
+
+  it('gives what it can when only some of a day’s questions arrive', async () => {
+    const { fetchJson } = line({ q1: whole[1], q3: whole[3] });
+    const bank = makeBank({ index, fetchJson });
+    expect((await bank.whole(['q1', 'q2', 'q3'])).map((p) => p.id)).toEqual(['q1', 'q3']);
+  });
+
+  it('refuses a file that holds another question, or nothing it can play', async () => {
+    const { fetchJson } = line({ q1: whole[2], q2: { id: 'q2', text: 'No answers' }, q3: 'nonsense', q4: whole[4] });
+    const bank = makeBank({ index, fetchJson });
+    expect((await bank.whole(['q1', 'q2', 'q3', 'q4'])).map((p) => p.id)).toEqual(['q4']);
+    expect([...bank.byId.keys()]).toEqual(['q4']);
+  });
+
+  it('has only what is here when there is no line at all', async () => {
+    const bank = makeBank({ index });
+    expect(await bank.whole(['q1'])).toEqual([]);
+    expect(bank.has('q1')).toBe(true);
+  });
+
+  it('holds every question whole from the start when the build bundled them, and fetches nothing', async () => {
+    const { calls, fetchJson } = line();
+    const bundled = Object.fromEntries(whole.map((p) => [p.id, p]));
+    const bank = makeBank({ index, bundled, fetchJson });
+    expect(bank.byId.size).toBe(9);
+    expect((await bank.whole(['q8', 'q0'])).map((p) => p.id)).toEqual(['q8', 'q0']);
+    expect(calls).toEqual([]);
+    // A question the bundle cannot give whole is not asked at all.
+    const short = makeBank({ index, bundled: { ...bundled, q0: { id: 'q0', text: 'Broken' }, q1: whole[2] } });
+    expect(short.prompts.map((p) => p.id)).toEqual(whole.slice(2).map((p) => p.id));
+    expect(short.has('q0')).toBe(false);
+    expect(short.byId.size).toBe(7);
+  });
+
+  it('makes up a short list from the placeholders, which are here whole, letting the data win a shared id', async () => {
+    const newer = { ...raw[0], text: 'The newer wording from data/' };
+    const { calls, fetchJson } = line({ [raw[0].id]: newer });
+    const days = [{ date: '2026-12-25', prompts: ['q0'] }, { date: '2026-12-26', riddle: 'a riddle’s day' }];
+    const bank = makeBank({ index: [{ id: newer.id, text: newer.text, v: 'x' }, ...index.slice(0, 2)], fallback: placeholder, fetchJson, days });
+    expect(bank.source).toBe('placeholder');
+    expect(bank.prompts).toHaveLength(raw.length + 2);
+    expect(bank.prompts.find((p) => p.id === raw[0].id)?.text).toBe('The newer wording from data/');
+    expect(bank.days).toEqual([{ date: '2026-12-25', prompts: ['q0'] }]);
+    // The placeholders need no fetching; the data's own questions still do.
+    expect(bank.byId.size).toBe(raw.length - 1);
+    expect((await bank.whole([raw[1].id])).map((p) => p.id)).toEqual([raw[1].id]);
+    expect(calls).toEqual([]);
+    expect((await bank.whole([raw[0].id]))[0].text).toBe('The newer wording from data/');
+    expect(calls).toEqual([`${raw[0].id}?x`]);
+  });
+
+  it('keeps its own question when a class pack uses the same id, fetched or not', async () => {
+    const { fetchJson } = line();
+    const bank = makeBank({ index, fetchJson });
+    adoptPrompts(bank, [{ ...whole[1], text: 'A pack’s wording' }, cleanPrompt(prompt({ id: 'pack-own' }))!]);
+    expect([...bank.byId.keys()]).toEqual(['pack-own']);
+    expect(bank.has('pack-own')).toBe(false);
+    expect(bank.about('pack-own')?.text).toBe('Name a thing');
+    expect((await bank.whole(['q1', 'pack-own'])).map((p) => p.text)).toEqual(['Name thing 1', 'Name a thing']);
+    expect(bank.prompts).toHaveLength(9);
+  });
+
+  it('strips a question to its words, and a bank of whole questions fetches nothing', async () => {
+    const p = cleanPrompt(prompt({ flavor: 'F', rules: 'R', exact: true, traps: [{ answer: 'Trap', reason: 'Why' }], decoys: ['Decoy'] }))!;
+    expect(metaOf(p)).toEqual({ id: 'q', text: 'Name a thing', category: 'misc', flavor: 'F', rules: 'R', topic: undefined, section: undefined, asOf: undefined, source: undefined });
+    const bank = wholeBank([p]);
+    expect(await bank.whole(['q', 'nope', 'q'])).toEqual([p]);
+    expect(bank.has('q') && !bank.has('nope')).toBe(true);
+    expect(bank.about('q')).toBe(p);
+  });
+});
+
+describe('fetching a question from beside the game', () => {
+  afterEach(() => {
+    vi.unstubAllGlobals();
+    vi.useRealTimers();
+  });
+  const answer = (body: unknown, status = 200) => ({ ok: status >= 200 && status < 300, status, json: async () => body }) as unknown as Response;
+
+  it('asks for bank/<id>.json beside the page, with the stamp of its list', async () => {
+    const seen: string[] = [];
+    vi.stubGlobal('fetch', async (url: URL) => (seen.push(String(url)), answer({ id: 'bones' })));
+    const get = bankFetcher('https://example.test/Cthulhoo/?revise=finance#top');
+    expect(await get('bones', 'aB3_-x9Z')).toEqual({ id: 'bones' });
+    await get('bones', '');
+    expect(seen).toEqual(['https://example.test/Cthulhoo/bank/bones.json?v=aB3_-x9Z', 'https://example.test/Cthulhoo/bank/bones.json']);
+  });
+
+  it('takes any copy the browser kept when the line is down, and rejects when there is none', async () => {
+    const seen: RequestInit[] = [];
+    let kept = true;
+    vi.stubGlobal('fetch', async (_url: URL, init: RequestInit = {}) => {
+      seen.push(init);
+      if (init.cache !== 'only-if-cached' || !kept) throw new TypeError('Failed to fetch');
+      return answer({ id: 'bones' });
+    });
+    const get = bankFetcher('https://example.test/');
+    expect(await get('bones', 'v')).toEqual({ id: 'bones' });
+    expect(seen[1]).toEqual({ cache: 'only-if-cached', mode: 'same-origin' });
+    kept = false;
+    await expect(get('bones', 'v')).rejects.toThrow();
+  });
+
+  it('asks again, whenever a service worker takes the page, for what the page has fetched', async () => {
+    const seen: string[] = [];
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer({})));
+    let taken: (() => void) | undefined;
+    const worker = { controller: null as object | null, addEventListener: (kind: string, fn: () => void) => kind === 'controllerchange' && (taken = fn) };
+    vi.stubGlobal('navigator', { serviceWorker: worker });
+    const get = bankFetcher('https://example.test/');
+    await get('bones', 'v1');
+    await get('rivers', 'v2');
+    expect(seen).toHaveLength(2);
+    // A first visit: the worker installs after the day's questions are here, then takes the page.
+    worker.controller = {};
+    taken?.();
+    expect(seen.slice(2)).toEqual(['https://example.test/bank/bones.json?v=v1', 'https://example.test/bank/rivers.json?v=v2']);
+    // The game is published anew: what was fetched in the older worker's hand is the new worker's to keep too,
+    // each question once however often it was fetched (a kept copy is answered without leaving the device).
+    await get('moons', 'v3');
+    await get('bones', 'v1');
+    seen.length = 0;
+    worker.controller = {};
+    taken?.();
+    expect(seen).toEqual(['https://example.test/bank/bones.json?v=v1', 'https://example.test/bank/rivers.json?v=v2', 'https://example.test/bank/moons.json?v=v3']);
+  });
+
+  it('asks for nothing twice where no service worker can be had, nor for what could not be fetched', async () => {
+    const seen: string[] = [];
+    let taken: (() => void) | undefined;
+    const worker = { controller: null, addEventListener: (_: string, fn: () => void) => (taken = fn) };
+    vi.stubGlobal('navigator', { serviceWorker: worker });
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer('Not found', 404)));
+    await expect(bankFetcher('https://example.test/')('gone', 'v')).rejects.toThrow('404');
+    seen.length = 0;
+    taken?.();
+    expect(seen).toEqual([]);
+    // A browser with no service workers at all (or a page not served securely): the fetch is all there is.
+    vi.stubGlobal('navigator', {});
+    vi.stubGlobal('fetch', async (url: URL | string) => (seen.push(String(url)), answer({ id: 'bones' })));
+    expect(await bankFetcher('https://example.test/')('bones', 'v')).toEqual({ id: 'bones' });
+    expect(seen).toEqual(['https://example.test/bank/bones.json?v=v']);
+  });
+
+  it('rejects when the file is not there', async () => {
+    vi.stubGlobal('fetch', async () => answer('Not found', 404));
+    await expect(bankFetcher('https://example.test/')('gone', 'v')).rejects.toThrow('404');
+  });
+
+  it('gives up on a line too slow, even one that stalls halfway through a list', async () => {
+    vi.useFakeTimers();
+    const aborted: boolean[] = [];
+    vi.stubGlobal('fetch', (_url: URL, init: RequestInit = {}) => {
+      if (init.cache === 'only-if-cached') return Promise.reject(new TypeError('Not kept'));
+      // The first bytes come at once; the rest never does, until the wait is given up.
+      const json = () => new Promise((_, reject) => init.signal?.addEventListener('abort', () => (aborted.push(true), reject(new DOMException('Aborted', 'AbortError')))));
+      return Promise.resolve({ ok: true, status: 200, json } as unknown as Response);
+    });
+    const tried = bankFetcher('https://example.test/')('slow', 'v').then(
+      () => 'had',
+      () => 'given up',
+    );
+    await vi.advanceTimersByTimeAsync(BANK_FETCH_MS - 1);
+    expect(aborted).toEqual([]);
+    await vi.advanceTimersByTimeAsync(2);
+    expect(await tried).toBe('given up');
+    expect(aborted).toEqual([true]);
   });
 });

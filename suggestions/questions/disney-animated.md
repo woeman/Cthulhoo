@@ -14,7 +14,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - The Lion King — Disney's The Lion King | Walt Disney's The Lion King
 - Frozen — Frozen 1 | Frozen One | La Reine des neiges | Disney's Frozen | Disney's Frozen 1 | Disney's Frozen One | Disney's La Reine des neiges | Walt Disney's Frozen
-- Aladdin — Disney's Aladdin | Walt Disney's Aladdin
+- Aladdin — Disney's Aladdin | Walt Disney's Aladdin | Alladin | Alladdin
 - Beauty and the Beast — Disney's Beauty and the Beast | Walt Disney's Beauty and the Beast
 - The Little Mermaid — Disney's The Little Mermaid | Walt Disney's The Little Mermaid
 - Snow White and the Seven Dwarfs — Snow White | Seven Dwarfs | Disney's Snow White and the Seven Dwarfs | Disney's Snow White | Disney's Seven Dwarfs | Walt Disney's Snow White and the Seven Dwarfs
@@ -28,7 +28,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Pinocchio — Disney's Pinocchio | Walt Disney's Pinocchio
 - Dumbo — Disney's Dumbo | Walt Disney's Dumbo
-- Fantasia — Disney's Fantasia | Walt Disney's Fantasia
+- Fantasia — Disney's Fantasia | Walt Disney's Fantasia | The Sorcerer's Apprentice | Night on Bald Mountain
 - Peter Pan — Disney's Peter Pan | Walt Disney's Peter Pan
 - Sleeping Beauty — Disney's Sleeping Beauty | Walt Disney's Sleeping Beauty
 - Lady and the Tramp — Disney's Lady and the Tramp | Walt Disney's Lady and the Tramp
@@ -40,7 +40,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pocahontas — Disney's Pocahontas | Walt Disney's Pocahontas
 - Hercules — Disney's Hercules | Walt Disney's Hercules
 - Tarzan — Disney's Tarzan | Walt Disney's Tarzan
-- Lilo & Stitch — Stitch | Lilo and Stich | Disney's Lilo & Stitch | Disney's Stitch | Disney's Lilo and Stich | Walt Disney's Lilo & Stitch
+- Lilo & Stitch — Stitch | Lilo and Stich | Disney's Lilo & Stitch | Disney's Stitch | Disney's Lilo and Stich | Walt Disney's Lilo & Stitch | Lilo
 - Zootopia — Zootropolis | Zoomania | Zootopie | Zootopia 1 | Disney's Zootopia | Disney's Zootropolis | Disney's Zoomania | Disney's Zootopie | Disney's Zootopia 1 | Walt Disney's Zootopia
 - Big Hero 6 — Big Hero Six | Disney's Big Hero 6 | Disney's Big Hero Six | Walt Disney's Big Hero 6
 - Wreck-It Ralph — Wreck It Ralph 1 | Ralph | Disney's Wreck-It Ralph | Disney's Wreck It Ralph 1 | Disney's Ralph | Walt Disney's Wreck-It Ralph
@@ -61,7 +61,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Rescuers — Disney's The Rescuers | Walt Disney's The Rescuers
 - The Rescuers Down Under — Rescuers 2 | Disney's The Rescuers Down Under | Disney's Rescuers 2 | Walt Disney's The Rescuers Down Under
 - Oliver & Company — Oliver and Co | Disney's Oliver & Company | Disney's Oliver and Co | Walt Disney's Oliver & Company
-- The Great Mouse Detective — Basil the Great Mouse Detective | The Adventures of the Great Mouse Detective | Disney's The Great Mouse Detective | Disney's Basil the Great Mouse Detective | Disney's The Adventures of the Great Mouse Detective | Walt Disney's The Great Mouse Detective
+- The Great Mouse Detective — Basil the Great Mouse Detective | The Adventures of the Great Mouse Detective | Disney's The Great Mouse Detective | Disney's Basil the Great Mouse Detective | Disney's The Adventures of the Great Mouse Detective | Walt Disney's The Great Mouse Detective | Basil of Baker Street
 - The Many Adventures of Winnie the Pooh — Disney's The Many Adventures of Winnie the Pooh | Walt Disney's The Many Adventures of Winnie the Pooh
 - Atlantis: The Lost Empire — Atlantis | Disney's Atlantis: The Lost Empire | Disney's Atlantis | Walt Disney's Atlantis: The Lost Empire
 - Treasure Planet — Disney's Treasure Planet | Walt Disney's Treasure Planet
@@ -70,7 +70,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chicken Little — Disney's Chicken Little | Walt Disney's Chicken Little
 - Meet the Robinsons — The Robinsons | Disney's Meet the Robinsons | Disney's The Robinsons | Walt Disney's Meet the Robinsons
 - Bolt — Volt | Disney's Bolt | Disney's Volt | Walt Disney's Bolt
-- Winnie the Pooh — Winnie the Pooh (2011) | Disney's Winnie the Pooh | Disney's Winnie the Pooh (2011) | Walt Disney's Winnie the Pooh
+- Winnie the Pooh — Winnie the Pooh (2011) | Disney's Winnie the Pooh | Disney's Winnie the Pooh (2011) | Walt Disney's Winnie the Pooh | Pooh
 - Ralph Breaks the Internet — Wreck-It Ralph 2 | Wreck-It Ralph Breaks the Internet | Ralph Breaks the Internet: Wreck-It Ralph 2 | Disney's Ralph Breaks the Internet | Disney's Wreck-It Ralph 2 | Disney's Wreck-It Ralph Breaks the Internet | Disney's Ralph Breaks the Internet: Wreck-It Ralph 2 | Walt Disney's Ralph Breaks the Internet
 - Raya and the Last Dragon — Raya | Disney's Raya and the Last Dragon | Disney's Raya | Walt Disney's Raya and the Last Dragon
 - Strange World — Disney's Strange World | Walt Disney's Strange World
@@ -91,7 +91,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Fun and Fancy Free — Disney's Fun and Fancy Free | Walt Disney's Fun and Fancy Free
 - Melody Time — Disney's Melody Time | Walt Disney's Melody Time
 - The Adventures of Ichabod and Mr. Toad — Ichabod and Mr. Toad | Ichabod | Mr. Toad | Disney's The Adventures of Ichabod and Mr. Toad | Disney's Ichabod and Mr. Toad | Disney's Ichabod | Disney's Mr. Toad | Walt Disney's The Adventures of Ichabod and Mr. Toad
-- DuckTales the Movie: Treasure of the Lost Lamp — DuckTales the Movie | Treasure of the Lost Lamp | Disney's DuckTales the Movie: Treasure of the Lost Lamp | Disney's DuckTales the Movie | Disney's Treasure of the Lost Lamp | Walt Disney's DuckTales the Movie: Treasure of the Lost Lamp
+- DuckTales the Movie: Treasure of the Lost Lamp — DuckTales the Movie | Treasure of the Lost Lamp | Disney's DuckTales the Movie: Treasure of the Lost Lamp | Disney's DuckTales the Movie | Disney's Treasure of the Lost Lamp | Walt Disney's DuckTales the Movie: Treasure of the Lost Lamp | DuckTales
 - Return to Never Land — Peter Pan 2 | Peter Pan: Return to Never Land | Peter Pan II | Peter Pan 2: Return to Neverland | Disney's Return to Never Land | Disney's Peter Pan 2 | Disney's Peter Pan: Return to Never Land | Disney's Peter Pan II | Disney's Peter Pan 2: Return to Neverland | Walt Disney's Return to Never Land
 - The Jungle Book 2 — Disney's The Jungle Book 2 | Walt Disney's The Jungle Book 2
 - Piglet's Big Movie — Disney's Piglet's Big Movie | Walt Disney's Piglet's Big Movie
@@ -137,10 +137,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Little Mermaid: Ariel's Beginning — Ariel's Beginning | The Little Mermaid 3 | Disney's The Little Mermaid: Ariel's Beginning | Disney's Ariel's Beginning | Disney's The Little Mermaid 3 | Walt Disney's The Little Mermaid: Ariel's Beginning
 - Lady and the Tramp II: Scamp's Adventure — Lady and the Tramp II | Lady and the Tramp 2 | Scamp's Adventure | Disney's Lady and the Tramp II: Scamp's Adventure | Disney's Lady and the Tramp II | Disney's Lady and the Tramp 2 | Disney's Scamp's Adventure | Walt Disney's Lady and the Tramp II: Scamp's Adventure
 - The Fox and the Hound 2 — Disney's The Fox and the Hound 2 | Walt Disney's The Fox and the Hound 2
-- Atlantis: Milo's Return — Disney's Atlantis: Milo's Return | Walt Disney's Atlantis: Milo's Return
+- Atlantis: Milo's Return — Disney's Atlantis: Milo's Return | Walt Disney's Atlantis: Milo's Return | Atlantis 2 | Atlantis II
 - Stitch! The Movie — Disney's Stitch! The Movie | Walt Disney's Stitch! The Movie
 - Leroy & Stitch — Disney's Leroy & Stitch | Walt Disney's Leroy & Stitch
-- The Hunchback of Notre Dame II — The Hunchback of Notre Dame 2 | Disney's The Hunchback of Notre Dame II | Disney's The Hunchback of Notre Dame 2 | Walt Disney's The Hunchback of Notre Dame II
+- The Hunchback of Notre Dame II — The Hunchback of Notre Dame 2 | Disney's The Hunchback of Notre Dame II | Disney's The Hunchback of Notre Dame 2 | Walt Disney's The Hunchback of Notre Dame II | Hunchback 2
 - Beauty and the Beast: The Enchanted Christmas — The Enchanted Christmas | Beauty and the Beast 2 | Disney's Beauty and the Beast: The Enchanted Christmas | Disney's The Enchanted Christmas | Disney's Beauty and the Beast 2 | Walt Disney's Beauty and the Beast: The Enchanted Christmas
 - Belle's Magical World — Disney's Belle's Magical World | Walt Disney's Belle's Magical World
 - Mickey, Donald, Goofy: The Three Musketeers — The Three Musketeers | Disney's Mickey, Donald, Goofy: The Three Musketeers | Disney's The Three Musketeers | Walt Disney's Mickey, Donald, Goofy: The Three Musketeers
@@ -180,13 +180,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Victory Through Air Power — Victory Thru Air Power | Disney's Victory Through Air Power | Disney's Victory Thru Air Power | Walt Disney's Victory Through Air Power
 
-## Refused on purpose (18)
+## Refused on purpose (25)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Toy Story | Finding Nemo | Monsters, Inc. | The Incredibles | Cars | Up | Inside Out | Ratatouille | WALL-E | Coco | Toy Story 2 | Toy Story 3 | Toy Story 4 | A Bug's Life | Brave | Finding Dory | Monsters University | Incredibles 2 | Inside Out 2 | Soul | Luca | Turning Red | Cars 2 | Cars 3 | Onward | Elemental | The Good Dinosaur | Lightyear | Toy Story 5 | Elio | Hoppers — "Pixar's. So close."
-- Shrek | Kung Fu Panda | How to Train Your Dragon | Madagascar | The Prince of Egypt | The Wild Robot — "DreamWorks. Shrek would be offended."
-- Despicable Me | Minions | Sing | The Secret Life of Pets — "Illumination, not Disney."
+- Shrek | Kung Fu Panda | How to Train Your Dragon | Madagascar | The Prince of Egypt | The Wild Robot | Antz — "DreamWorks. Shrek would be offended."
+- Despicable Me | Minions | Sing | The Secret Life of Pets | The Super Mario Bros. Movie | Mario Movie — "Illumination, not Disney."
 - Anastasia — "Made by Fox and Don Bluth. Disney only acquired it later, along with the rest of Fox."
 - Ice Age | Rio — "Blue Sky Studios, at Fox. Disney bought it later and closed the studio."
 - The Land Before Time | An American Tail | All Dogs Go to Heaven | Thumbelina | The Secret of NIMH — "Don Bluth, not Disney."
@@ -194,11 +194,18 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - The Iron Giant | Space Jam | Quest for Camelot | The Lego Movie | Happy Feet | Scooby-Doo | The Polar Express — "Warner Bros."
 - Coraline — "Laika's stop-motion nightmare, not Disney."
 - Corpse Bride — "Tim Burton's, but for Warner Bros. The Nightmare Before Christmas is the Disney one."
-- The Swan Princess — "Not Disney, despite appearances."
+- The Swan Princess | FernGully | FernGully: The Last Rainforest — "Not Disney, despite appearances."
 - Mary Poppins | Mary Poppins Returns | Enchanted | Bedknobs and Broomsticks | Pete's Dragon | Song of the South | Who Framed Roger Rabbit | The Reluctant Dragon | Space Jam: A New Legacy | Chip 'n Dale: Rescue Rangers | Disenchanted | So Dear to My Heart | Roger Rabbit | Christopher Robin — "Live action with cartoon scenes. The deep wants the fully drawn kind."
 - Mufasa | Mufasa: The Lion King — "A photorealistic prequel, made to look like live action."
 - Steamboat Willie | The Old Mill | Flowers and Trees | Paperman | Feast | Get a Horse! | Mickey's Christmas Carol | Once Upon a Studio | Frozen Fever | Olaf's Frozen Adventure | Prep & Landing | Tangled Ever After | The Band Concert | Ferdinand the Bull | The Little House | Lorenzo | John Henry | Destino | The Ugly Duckling | The Tortoise and the Hare | Three Little Pigs | The Brave Engineer | Runaway Brain | Mickey's Trailer | Plane Crazy | Oswald the Lucky Rabbit — "A short, not a feature."
-- Frozen III | Frozen 3 — "Not out yet. The deep can wait."
+- Frozen III | Frozen 3 | Frozen 4 | Frozen IV | Encanto 2 | Moana 3 | Zootopia 3 — "Not out yet. The deep can wait."
 - The Lion King (2019) — "The photorealistic remake, made to look like live action."
 - Spider-Man: Into the Spider-Verse | Into the Spider-Verse | Spider-Verse | Across the Spider-Verse | Hotel Transylvania | Cloudy with a Chance of Meatballs | The Mitchells vs. the Machines | KPop Demon Hunters — "Sony's, not Disney's."
 - Kingdom Hearts | Epic Mickey | Disney Infinity — "A video game, though Disney's worlds are in it."
+- Elsa | Simba | Olaf | Ariel | Mowgli | Baloo | Belle | Jasmine | Aurora | Mickey Mouse | Mickey | Minnie Mouse | Donald Duck | Goofy | Elsa and Anna | Anna and Elsa — "A character, not a film. Name the film."
+- Let It Go | We Don't Talk About Bruno | Hakuna Matata | Circle of Life | A Whole New World | Under the Sea | Be Our Guest | You're Welcome | How Far I'll Go | Bibbidi-Bobbidi-Boo | Can You Feel the Love Tonight — "A song, not a film. Name the film it comes from."
+- Disney | Walt Disney | Disneyland | Disney World | Disney Plus — "The studio. Name one of its films."
+- Maleficent | Cruella | 102 Dalmatians | Pirates of the Caribbean | High School Musical | Hocus Pocus | Tron | Tron Legacy | Oz the Great and Powerful | Descendants | Honey, I Shrunk the Kids | The Parent Trap | Freaky Friday | The Princess Diaries | Cool Runnings | The Mighty Ducks | Jungle Cruise | Haunted Mansion | Star Wars | The Avengers | Avatar — "Live action. The deep wants the drawn kind."
+- The Simpsons Movie | The Simpsons — "Made at Fox, long before Disney bought the studio."
+- Chicken Run | Wallace and Gromit | Flushed Away | Shaun the Sheep — "Aardman's plasticine, not Disney's ink."
+- Blinky Bill | Dot and the Kangaroo | The Magic Pudding — "Australian animation, and none of Disney's doing."

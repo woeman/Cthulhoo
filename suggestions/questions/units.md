@@ -6,23 +6,23 @@ Rules: Any unit for measuring something: length, mass, time, temperature, energy
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (1247 answers)
+## Accepted now (1287 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (11)
 
-- Metre — Meter
-- Kilogram — Kilo | kg | Kilogramme
-- Inch — Inches
+- Metre — Meter | Meeter | Meetre | Lineal metre | Linear metre | Running metre
+- Kilogram — Kilo | kg | Kilogramme | Kgs
+- Inch — Inches | In
 - Foot — Feet | ft
 - Mile — Miles | Statute mile | Land mile
-- Litre — Liter
+- Litre — Liter | Leeter | Leetre
 - Second — sec | secs
-- Gram — Gramme
+- Gram — Gramme | G
 - Pound — lb | lbs
-- Kilometre — Kilometer | km | Klick | Click | Klicks
-- Centimetre — Centimeter | cm
+- Kilometre — Kilometer | km | Klick | Click | Klicks | Kays | Kay | K's | kms
+- Centimetre — Centimeter | cm | cms
 
 ### Tier 2: common (21)
 
@@ -34,28 +34,28 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hour — hr | hrs
 - Ton — Short ton | Long ton
 - Celsius — Centigrade | Degree Celsius | Degrees Celsius | Degree centigrade | Degrees centigrade | Centigrad
-- Fahrenheit — Degree Fahrenheit | Degrees Fahrenheit
+- Fahrenheit — Degree Fahrenheit | Degrees Fahrenheit | Farenheight | Farenhite | Farenhight
 - Kelvin — Degree Kelvin | Degrees Kelvin
 - Millimetre — Millimeter | mm
 - Millilitre — Milliliter | ml
 - Stone
 - Volt
-- Watt
-- Joule
-- Newton
+- Watt — Wat
+- Joule — Jool
+- Newton — Nuton
 - Ampere — Amp
-- Calorie — Kilocalorie | kcal | Small calorie | Gram calorie
-- Degree — Degrees
+- Calorie — Kilocalorie | kcal | Small calorie | Gram calorie | Calory | Cal | Cals
+- Degree — Degrees | Deg
 - Light-year — ly
 
 ### Tier 3: known to fans (53)
 
-- Hertz — Hz | Cycles per second | Cycle per second
+- Hertz — Hz | Cycles per second | Cycle per second | Hurts
 - Ohm
 - Pascal — Pa
 - Decibel — dB
-- Acre
-- Hectare
+- Acre — Aker
+- Hectare — Ha
 - Knot
 - Nautical mile — Sea mile | nmi
 - Byte — Octet
@@ -64,7 +64,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gigabyte — GB | Gig | Gigs
 - Kilobyte — KB
 - Terabyte — TB
-- Horsepower — hp | Brake horsepower | bhp | Metric horsepower
+- Horsepower — hp | Brake horsepower | bhp | Metric horsepower | Pferdestärke | PS
 - Mole — Mol
 - Fathom
 - Furlong
@@ -72,11 +72,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Day
 - Week
 - Year — yr | yrs
-- Carat — Karat
+- Carat — Karat | ct
 - Parsec
 - Astronomical unit — AU
-- Cup
-- Teaspoon — tsp
+- Cup — Metric cup
+- Teaspoon — tsp | Teaspoonful
 - Tablespoon — tbsp
 - Mach — Mach number
 - Tonne — Metric ton | Metric tonne
@@ -90,15 +90,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Square mile — Square miles
 - Square kilometre — Square kilometer | km2 | sq km
 - Cubic metre — Cubic meter | m3
-- Cubic centimetre — Cubic centimeter | cc | cm3
+- Cubic centimetre — Cubic centimeter | cc | cm3 | ccs
 - Miles per hour — mph | Mile per hour
-- Kilometres per hour — Kilometers per hour | Kilometre per hour | km/h | kph
+- Kilometres per hour — Kilometers per hour | Kilometre per hour | km/h | kph | Kays an hour | Ks an hour | Ks per hour | Kays per hour
 - Metres per second — Meters per second | Metre per second | m/s
 - Revolutions per minute — Revolution per minute | rpm
 - Fluid ounce — fl oz
 - Megahertz — MHz
 - Gigahertz — GHz
-- Kilojoule — kJ
+- Kilojoule — kJ | Killajoule
 - Decilitre — Deciliter | dl
 - Centilitre — Centiliter | cl
 - Megapixel — Megapixels | MP
@@ -125,15 +125,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ångström
 - Micron — Micrometre | Micrometer
 - Cubit
-- Hand
+- Hand — Hands high | hh
 - Barrel
 - Bushel
-- Hundredweight — cwt | Long hundredweight
-- League
+- Hundredweight — cwt | Long hundredweight | Short hundredweight
+- League — Lieue
 - Chain
 - Electronvolt — eV
 - Torr
-- Dram
+- Dram — Drachm | Drachma
 - Grain
 - Troy ounce
 - Erg
@@ -143,7 +143,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Roentgen — Röntgen
 - Rad
 - Rem
-- Scoville
+- Scoville — SHU | Scoville heat unit
 - Pixel
 - Baud
 - Microgram — mcg
@@ -157,7 +157,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Century
 - Millennium
 - Fortnight
-- Kilolitre — Kiloliter
+- Kilolitre — Kiloliter | kL
 - Microlitre — Microliter
 - Hectolitre — Hectoliter
 - Megalitre — Megaliter
@@ -239,7 +239,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pixels per inch — ppi | Pixel per inch
 - FLOPS — Flop | Floating point operations per second
 
-### Tier 5: expert (1027)
+### Tier 5: expert (1067)
 
 - Katal
 - Steradian
@@ -287,8 +287,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Picosecond
 - Femtosecond
 - Millimetre of mercury — mmHg | Millimeter of mercury
-- Hectopascal — Millibar
-- Kilopascal
+- Hectopascal — Millibar | hPa
+- Kilopascal — kPa
 - Calorie (food) — Food calorie | Large calorie
 - Gigaparsec
 - Zeptosecond
@@ -330,7 +330,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rutherford
 - Hartree
 - Rydberg
-- Foot-pound — Foot-pounds
+- Foot-pound — Foot-pounds | ft lb
 - Poundal
 - Kip
 - Scruple
@@ -341,7 +341,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dunam
 - Rømer — Roemer
 - Delisle
-- Inch of mercury
+- Inch of mercury — Inches of mercury
 - Foot-candle
 - Lustrum
 - Quintal
@@ -487,7 +487,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Fluid dram — Fluid drachm | Fluidram
 - Drop
 - Smidgen — Smidge
-- Board foot
+- Board foot — Super foot | Superficial foot | Super feet
 - TEU — Twenty-foot equivalent unit
 - Pottle
 - Puncheon
@@ -503,7 +503,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Standard drink
 - Unit of alcohol — Alcohol unit | Units of alcohol
 - Chaldron
-- Litres per 100 kilometres — Liters per 100 kilometers | L/100 km | Litres per hundred kilometres
+- Litres per 100 kilometres — Liters per 100 kilometers | L/100 km | Litres per hundred kilometres | Litres per 100 km | Litres per hundred | Litres per 100k
 - Reyn
 - Pascal-second
 - Molal — Molality
@@ -523,7 +523,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Semitone
 - Brix — Degrees Brix | Degree Brix
 - Baumé — Degrees Baumé
-- Gauge
+- Gauge — AWG
 - Dobson unit — DU
 - Hounsfield unit — HU
 - Millihelen — Helen
@@ -587,7 +587,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Femtolitre — Femtoliter
 - Picolitre — Picoliter
 - Nanolitre — Nanoliter
-- Gigalitre — Gigaliter
+- Gigalitre — Gigaliter | GL
 - Teralitre — Teraliter
 - Petalitre — Petaliter
 - Exalitre — Exaliter
@@ -1268,6 +1268,46 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Decabyte — Dekabyte
 - Hectobyte
 - Dactyl — Daktylos | Dactylos | Dactylus
+- Schooner — Schooners | Schooner of beer
+- Middy — Middies | Pot | Pot of beer
+- Shot — Shots | Nip
+- Stubby — Stubbie | Stubbies
+- Longneck — Tallie | Tallies | King brown
+- Sydharb — Sydney Harbour | Sydney Harbours | Sydarb
+- Square — Squares | Building square
+- Tad
+- Hair's breadth — Hairbreadth
+- Quarter — Quarters
+- Bale — Bales | Wool bale | Bale of wool
+- Fifth
+- Nipperkin
+- Pin
+- Sheppey
+- Warhol
+- Wheaton
+- Go
+- Sho
+- Sun
+- Koku
+- Ri
+- Cun — Tsun
+- Pyeong
+- Tola
+- Fanega
+- Obol
+- Nail
+- Shackle
+- Okta — Oktas
+- Township
+- Proof — Degrees proof | Alcohol proof | Percent proof
+- Per cent — Percentage | Percentage point
+- Per mille — Per mil | Promille
+- Basis point — Basis points
+- Newton metre — Newton meter | Newton metres
+- Pound-foot — lb ft | Pound-feet
+- Kilometres per litre — km/L | Kilometers per liter | Kilometres per liter | kpl
+- International Bitterness Unit — IBU | IBUs | Bitterness unit | International bitterness units
+- Grams per square metre — GSM | g/m2 | Grammage | Grams per square meter
 
 ### Tier 6: rare jackpots (3)
 
@@ -1279,9 +1319,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Richter scale | Richter | Beaufort scale | Beaufort | Mohs scale | pH | pH scale | Fujita scale | Enhanced Fujita scale | Saffir-Simpson scale | Moment magnitude scale — "A scale rather than a unit. The deep is a pedant."
-- Banana | Bananas | Banana for scale | Football pitch | Football field | Olympic swimming pool | Double-decker bus | Blue whale | Size of Wales — "Only for scale."
-- Dozen | Gross | Score | Baker's dozen | Half-dozen | Half a dozen | Pair | Brace — "A number, not a measurement."
+- Richter scale | Richter | Beaufort scale | Beaufort | Mohs scale | pH | pH scale | Fujita scale | Enhanced Fujita scale | Saffir-Simpson scale | Moment magnitude scale | Fujita | Rockwell | Rockwell scale | UV index | AQI | Air quality index | SPF | BMI | Body mass index | IQ — "A scale rather than a unit. The deep is a pedant."
+- Banana | Bananas | Banana for scale | Football pitch | Football field | Olympic swimming pool | Double-decker bus | Blue whale | Size of Wales | Olympic pool | Footy field | Elephant | Jumbo jet | Wales | Tasmania | Library of Congress | Hiroshima — "Only for scale."
+- Dozen | Gross | Score | Baker's dozen | Half-dozen | Half a dozen | Pair | Brace | Crore | Slab | Carton | Six pack — "A number, not a measurement."
 - Ruler | Tape measure | Thermometer | Scales | Barometer | Clock | Stopwatch | Speedometer | Odometer | Protractor | Measuring tape | Measuring jug | Yardstick | Metre stick | Metre rule — "That measures things. It is not what they're measured in."
 - Length | Weight | Distance | Temperature | Volume | Energy | Pressure | Height | Density | Frequency | Velocity — "That's what gets measured. Name a unit that measures it."
 - Unit of measurement | Units of measurement | Measurement | SI unit | SI units | Unit of measure — "That's the category itself. Name a particular one."

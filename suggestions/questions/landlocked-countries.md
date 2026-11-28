@@ -12,11 +12,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (6)
 
-- Switzerland — Swiss Confederation | Schweiz | Suisse | Svizzera | Helvetia | Swiss | Confoederatio Helvetica | Svizra
-- Austria — Österreich | Oesterreich | Republic of Austria
-- Bolivia — Plurinational State of Bolivia | Republic of Bolivia
-- Hungary — Magyarország | Republic of Hungary
-- Mongolia — Outer Mongolia | Mongol Uls
+- Switzerland — Swiss Confederation | Schweiz | Suisse | Svizzera | Helvetia | Swiss | Confoederatio Helvetica | Svizra | Swissland
+- Austria — Österreich | Oesterreich | Republic of Austria | Ostria | Austrier
+- Bolivia — Plurinational State of Bolivia | Republic of Bolivia | Bolivier
+- Hungary — Magyarország | Republic of Hungary | Hungaria
+- Mongolia — Outer Mongolia | Mongol Uls | Mongolier
 - Paraguay — Republic of Paraguay
 
 ### Tier 2: common (8)
@@ -26,7 +26,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Czechia — Czech Republic | Česko | Czech | Czech Rep | Česká republika | Czechoslovakia | Checkia
 - Luxembourg — Luxemburg | Lëtzebuerg | Grand Duchy of Luxembourg
 - Kazakhstan — Kazakstan | Qazaqstan | Kazakh SSR | Kazakh Soviet Socialist Republic | Republic of Kazakhstan
-- Liechtenstein — Principality of Liechtenstein
+- Liechtenstein — Principality of Liechtenstein | Lickenstein | Liktenstein | Lichtenstine | Likenstine | Lickenstine
 - Vatican City — Vatican | Holy See | Vatican City State | Vatican State | State of the Vatican City | Città del Vaticano
 - Andorra — Principality of Andorra
 
@@ -36,22 +36,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Slovakia — Slovak Republic | Slovensko
 - Belarus — Byelorussia | Belorussia | White Russia | Byelorussian SSR | Belarusian SSR | Byelorussian Soviet Socialist Republic | Belarusian Soviet Socialist Republic | Republic of Belarus
 - Serbia — Srbija | Republic of Serbia | Servia
-- Zambia — Northern Rhodesia | Republic of Zambia
+- Zambia — Northern Rhodesia | Republic of Zambia | Zambier
 - Zimbabwe — Rhodesia | Southern Rhodesia
-- Ethiopia — Abyssinia
+- Ethiopia — Abyssinia | Ethiopier
 - Mali — French Sudan | Republic of Mali
 - Niger — Republic of Niger
-- Uganda — Republic of Uganda
-- Rwanda — Ruanda | Republic of Rwanda
+- Uganda — Republic of Uganda | Ugander
+- Rwanda — Ruanda | Republic of Rwanda | Rwander
 - San Marino — Republic of San Marino | Most Serene Republic of San Marino
 - Laos — Lao PDR | Lao | Lao People's Democratic Republic
-- Bhutan — Druk Yul | Kingdom of Bhutan
+- Bhutan — Druk Yul | Kingdom of Bhutan | Bootan
 
 ### Tier 4: obscure (8)
 
 - Uzbekistan — Uzbek SSR | Uzbek Soviet Socialist Republic | O'zbekiston | Republic of Uzbekistan
 - Botswana — Bechuanaland | Republic of Botswana
-- Lesotho — Basutoland | Kingdom of Lesotho
+- Lesotho — Basutoland | Kingdom of Lesotho | Lesuto | Lesutu | Lesootoo | Lasutu
 - Malawi — Nyasaland | Republic of Malawi
 - Moldova — Moldavia | Republic of Moldova | Moldavian SSR | Moldavian Soviet Socialist Republic
 - North Macedonia — Macedonia | FYROM | Republic of North Macedonia | Former Yugoslav Republic of Macedonia | Republic of Macedonia | Makedonija | Severna Makedonija
@@ -73,7 +73,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Eswatini — Swaziland | Kingdom of Eswatini | Kingdom of Swaziland
 - Azerbaijan — Azerbaidzhan | Azerbaijan SSR | Azerbaijani SSR | Azerbaijan Soviet Socialist Republic | Azerbaycan | Republic of Azerbaijan
 
-## Refused on purpose (60)
+## Refused on purpose (63)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -89,4 +89,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - South Ossetia — "A breakaway region of Georgia, recognised by only a handful of countries."
 - Inner Mongolia | Tibet | Xinjiang — "A region of China, which has a coast."
 - Artsakh | Nagorno-Karabakh | Republic of Artsakh — "A breakaway republic in the Caucasus that no UN member recognised. It was dissolved in 2024."
+- Australian Capital Territory | ACT | Canberra | Alice Springs | Kansas | Nebraska | Colorado | Wyoming | Utah | Bavaria | Tyrol | Transylvania | Bohemia | Kashmir — "Landlocked, yes. A country, no."
+- Wakanda | Mordor | Rohan | Narnia | Genovia — "Landlocked, yes. Real, no."
+- The Stans | Central Asia — "Several countries, most of them landlocked. Name one."
 - Refused without a reason (near misses of real answers): Australia | Gambia | Nigeria | Uruguay | Albania | Malta | Mauritania | Algeria | Somalia | Romania | Bulgaria | Siberia | Liberia | Ghana | Guinea | Iran | Syria | Cambodia | Myanmar | Mozambique | Namibia | Tanzania | Kenya | Cameroon | Gabon | Angola | Belgium | Germany | Poland | Ukraine | Russia | Georgia | Turkey | Pakistan | India | China | Thailand | Vietnam | Peru | Chile | Brazil | Argentina | Wales | Scotland | Brunei | Persia | Bali | Moravia

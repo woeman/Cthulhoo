@@ -39,7 +39,12 @@
     "King Tutenkhamun",
     "Boy King",
     "Boy Pharaoh",
-    "King Tutt"
+    "King Tutt",
+    "Tutancarmoon",
+    "Tutenkarmoon",
+    "Tootencarmoon",
+    "Tutankarmoon",
+    "Tootankarmoon"
    ],
    "tier": 1,
    "lore": "A minor king made immortal when Howard Carter found his tomb almost untouched in 1922."
@@ -118,7 +123,9 @@
     "Queen Cleopatra VII Thea Philopator",
     "Queen Kleopatra",
     "Cleopatra of Egypt",
-    "Queen of the Nile"
+    "Queen of the Nile",
+    "Cleo",
+    "Cleopatria"
    ],
    "tier": 1,
    "lore": "The last active ruler of Ptolemaic Egypt, and the first of her Greek dynasty to learn Egyptian."
@@ -142,7 +149,11 @@
     "King Kheops",
     "King Suphis",
     "King Khnum-Khufu",
-    "King Khufwy"
+    "King Khufwy",
+    "Koofoo",
+    "Khufoo",
+    "Kufoo",
+    "Cufu"
    ],
    "tier": 1,
    "lore": "Built the Great Pyramid, the tallest human-made structure on Earth for nearly 4,000 years."
@@ -176,7 +187,8 @@
     "King Akhnaton",
     "Heretic Pharaoh",
     "Heretic King",
-    "Akhenaten the Heretic"
+    "Akhenaten the Heretic",
+    "Aknaten"
    ],
    "tier": 1,
    "lore": "Swept away the old gods for a single sun disc, the Aten. His successors tried to erase him from history."
@@ -209,7 +221,8 @@
    "answer": "Nefertiti",
    "aliases": [
     "Pharaoh Nefertiti",
-    "Queen Nefertiti"
+    "Queen Nefertiti",
+    "Nefertiri"
    ],
    "tier": 2,
    "lore": "Akhenaten's queen. Many scholars think she ruled after him, under another name."
@@ -376,7 +389,8 @@
     "Pharaoh Djeser",
     "Pharaoh Tosorthros",
     "King Djeser",
-    "King Tosorthros"
+    "King Tosorthros",
+    "Jozer"
    ],
    "tier": 2,
    "lore": "His Step Pyramid, designed by Imhotep, is the oldest large stone building in Egypt."
@@ -442,7 +456,8 @@
    "answer": "Menes",
    "aliases": [
     "Pharaoh Menes",
-    "King Menes"
+    "King Menes",
+    "Meni"
    ],
    "tier": 2
   },
@@ -490,7 +505,8 @@
     "Pharaoh Ptolemy Lagides",
     "King Ptolemy Lagides",
     "Ptolemy son of Lagus",
-    "Ptolemy the Saviour"
+    "Ptolemy the Saviour",
+    "Tolomy"
    ],
    "tier": 2
   },
@@ -953,7 +969,8 @@
     "King Neferkare",
     "King Phiops II",
     "King Phiops",
-    "King Pepi Neferkare"
+    "King Pepi Neferkare",
+    "Pepy"
    ],
    "tier": 3,
    "lore": "Said to have reigned for over 90 years, the longest reign in history, though scholars now doubt it."
@@ -3358,6 +3375,22 @@
     "Cleopatra Selene II"
    ],
    "reason": "Cleopatra's daughter. She became queen of Mauretania, not Egypt."
+  },
+  {
+   "answer": "Pharaoh",
+   "aliases": [
+    "Pharoah",
+    "Pharaohs",
+    "Faro",
+    "King",
+    "Queen",
+    "King of Egypt"
+   ],
+   "reason": "That is the job. Name someone who held it."
+  },
+  {
+   "answer": "Joseph",
+   "reason": "Pharaoh's right hand in Genesis, never pharaoh himself."
   }
  ],
  "section": "World history",

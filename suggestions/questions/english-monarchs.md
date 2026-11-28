@@ -13,15 +13,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (6)
 
 - Henry VIII — Henry 8 | Henry the Eighth | King Henry VIII | Henry | King Henry | Bluff King Hal | Old Coppernose
-- Elizabeth I — Queen Elizabeth I | The Virgin Queen | Gloriana | Good Queen Bess | Elizabeth 1 | Elizabeth the First | Queen Bess
-- Elizabeth II — The Queen | Queen Elizabeth II | Elizabeth 2 | Elizabeth the Second | Elizabeth | Queen Elizabeth | Lilibet | Queen Elizabeth the Second
-- Victoria — Queen Victoria | Victoria I | Queen Victoria I | Alexandrina Victoria | Grandmother of Europe | Widow of Windsor
-- Charles III — King Charles | Prince Charles | King Charles III | Charles 3 | Charles the Third | Charles
+- Elizabeth I — Queen Elizabeth I | The Virgin Queen | Gloriana | Good Queen Bess | Elizabeth 1 | Elizabeth the First | Queen Bess | Elizabeth Tudor
+- Elizabeth II — The Queen | Queen Elizabeth II | Elizabeth 2 | Elizabeth the Second | Elizabeth | Queen Elizabeth | Lilibet | Queen Elizabeth the Second | QE2 | QEII | Queen Liz | Lizzie | Lizzy | Liz | Queen Lizzie | Liz II | Elizabeth Windsor | The late Queen | Her Majesty | Her Majesty the Queen | HM The Queen
+- Victoria — Queen Victoria | Victoria I | Queen Victoria I | Alexandrina Victoria | Grandmother of Europe | Widow of Windsor | Queen Vic | Vicky | Vic | Queen Vicky | Victoria Regina
+- Charles III — King Charles | Prince Charles | King Charles III | Charles 3 | Charles the Third | Charles | Chuck | King Chuck | Charles Windsor | The King | Current king | His Majesty | His Majesty the King | HM The King
 - William the Conqueror — William I | William 1 | William the First | William the Bastard | William of Normandy | The Conqueror | King William the Conqueror | King William I | King William of Normandy | William | King William
 
 ### Tier 2: common (18)
 
-- Richard III — Richard 3 | Richard the Third | King Richard III | Richard | King Richard | Richard of Gloucester | Richard Duke of Gloucester
+- Richard III — Richard 3 | Richard the Third | King Richard III | Richard | King Richard | Richard of Gloucester | Richard Duke of Gloucester | Crookback | Richard Crookback
 - George III — Mad King George | Farmer George | George 3 | George the Third | King George III | George | King George
 - Charles I — Charles 1 | Charles the First | King Charles I | Charles the Martyr | King Charles the Martyr
 - Charles II — Charles 2 | Charles the Second | The Merry Monarch | King Charles II | Old Rowley
@@ -32,7 +32,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - George VI — George 6 | George the Sixth | King George VI | Bertie | Albert Frederick Arthur George
 - Mary I — Bloody Mary | Mary Tudor | Mary 1 | Mary the First | Queen Mary I | Queen Mary Tudor | Mary | Queen Mary
 - Alfred the Great — Alfred | King Alfred the Great | King Alfred | Ælfred | Ælfred the Great
-- Anne — Queen Anne | Anne Stuart
+- Anne — Queen Anne | Anne Stuart | Ann
 - James I — James VI | James 6 | James the Sixth | James VI and I | James 1 | James the First | King James I | King James VI | King James VI and I | James | King James
 - Edward VI — Edward 6 | Edward the Sixth | King Edward VI
 - George V — George 5 | George the Fifth | King George V
@@ -89,7 +89,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Æthelbald — Ethelbald | King Æthelbald | King Ethelbald
 - Æthelberht — Ethelbert | Ethelberht | King Æthelberht | King Ethelbert | King Ethelberht
 - Æthelred I — Ethelred I | Ethelred 1 | Ethelred the First | Aethelred 1 | Aethelred the First | King Æthelred I | King Ethelred I
-- Philip of Spain — Philip II of Spain | King Philip | King Philip of Spain | King Philip II of Spain
+- Philip of Spain — Philip II of Spain | King Philip | King Philip of Spain | King Philip II of Spain | Philip II | Felipe II
 - Ine — Ine of Wessex | Ini | King Ine | King Ine of Wessex | King Ini
 - Cerdic — Cerdic of Wessex | King Cerdic | King Cerdic of Wessex
 - Cædwalla — Cadwalla | King Cædwalla | King Cadwalla
@@ -115,7 +115,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Edgar Ætheling — Edgar Atheling | Edgar the Atheling | Edgar II | Edgar 2 | Edgar the Second | King Edgar Ætheling | King Edgar Atheling | King Edgar the Atheling | King Edgar II
 - Ælfweard — Elfweard | Alfweard | King Ælfweard | King Elfweard | King Alfweard
 
-## Refused on purpose (38)
+## Refused on purpose (40)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -144,7 +144,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - George VII | George 7 | King George VII — "No such monarch. Not yet, anyway."
 - Victoria II | Victoria 2 | Queen Victoria II — "There has only ever been one."
 - Offa | King Offa | Penda | King Penda | Coenwulf — "King of Mercia: mighty, but never king of all England."
-- Philip — "Which Philip? Two were married to a queen, but only one was called king."
+- Philip — "Which Philip? A pair of them married a queen, but only one was called king."
 - James V | James 5 | King James V — "King of Scots, and father of Mary, Queen of Scots. Never King of England."
 - Louis of France | Prince Louis | Louis VIII | Louis the Lion | Louis | King Louis of France | King Louis VIII | King Louis the Lion | King Louis — "Proclaimed king in London in 1216 by rebel barons, but never crowned. He was paid to go home."
 - Anne Boleyn | Catherine of Aragon | Jane Seymour | Anne of Cleves | Catherine Howard | Catherine Parr | Queen Anne Boleyn | Queen Catherine of Aragon | Queen Jane Seymour | Queen Anne of Cleves | Queen Catherine Howard | Queen Catherine Parr — "One of Henry VIII's six wives: a queen by marriage, never a ruler."
@@ -155,5 +155,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Stephen II | Stephen 2 | King Stephen II — "There has only ever been one."
 - Rædwald | Redwald | Edwin of Northumbria | Oswald | Oswald of Northumbria | Oswiu | Edmund the Martyr | Saint Edmund | St Edmund the Martyr | Æthelberht of Kent | Ethelbert of Kent | Æthelflæd | Ethelfleda | Lady of the Mercians | Guthrum | Eric Bloodaxe | Erik Bloodaxe — "Ruled another kingdom in England, never Wessex or all of England."
 - Queen Mother | Queen Elizabeth The Queen Mother | Elizabeth Bowes-Lyon — "George VI's wife: a queen by marriage, never the monarch."
-- Princess Diana | Diana | Lady Diana | Diana Spencer | Lady Di | Diana, Princess of Wales — "Princess of Wales, never queen."
+- Princess Diana | Diana | Lady Diana | Diana Spencer | Lady Di | Diana, Princess of Wales | Kate Middleton | Princess Kate | Princess Catherine — "Princess of Wales, never queen."
 - Prince Harry | Duke of Sussex — "A prince, but never a king."
+- Meghan Markle | Meghan | Megan Markle | Duchess of Sussex — "A duchess, never a queen."
+- Tudor | Tudors | House of Tudor | Windsor | Windsors | House of Windsor | Stuart | Stuarts | House of Stuart | Plantagenet | Plantagenets | Hanover | Hanoverians | House of Hanover | House of York | House of Lancaster — "A dynasty, not a monarch. Name one of the family."

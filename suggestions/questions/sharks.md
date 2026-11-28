@@ -16,11 +16,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hammerhead Shark — Hammerhead | Sphyrna | Sphyrnidae
 - Tiger Shark — Galeocerdo | Galeocerdo cuvier | Tiger
 - Whale Shark — Rhincodon | Rhincodon typus | Whale | Rhincodontidae
-- Bull Shark — Zambezi Shark | Carcharhinus leucas | Bull | Lake Nicaragua shark | Nicaragua shark
+- Bull Shark — Zambezi Shark | Carcharhinus leucas | Bull | Lake Nicaragua shark | Nicaragua shark | Bullie | River whaler
 
 ### Tier 2: common (21)
 
-- Megalodon — Otodus megalodon | Carcharocles megalodon | Carcharocles | Meg
+- Megalodon — Otodus megalodon | Carcharocles megalodon | Carcharocles | Meg | Megadon | Megalon | Megladan | Megladone | Megladons | Megaladons
 - Basking Shark — Basking | Cetorhinus | Cetorhinus maximus | Cetorhinidae
 - Nurse Shark — Nurse | Ginglymostoma | Ginglymostoma cirratum | Ginglymostomatidae
 - Mako Shark — Mako | Isurus
@@ -30,30 +30,30 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Goblin Shark — Goblin | Mitsukurina | Mitsukurina owstoni | Mitsukurinidae
 - Greenland Shark — Gurry Shark | Grey Shark | Greenland Sleeper | Somniosus microcephalus | Greenland
 - Great Hammerhead — Great Hammerhead Shark | Sphyrna mokarran
-- Blacktip Reef Shark — Blacktip Reef | Carcharhinus melanopterus | Reef shark | Reef sharks
+- Blacktip Reef Shark — Blacktip Reef | Carcharhinus melanopterus | Reef shark | Reef sharks | Reefie
 - Whitetip Reef Shark — Whitetip Reef | Triaenodon obesus | Triaenodon | Whitetip
 - Megamouth Shark — Megamouth | Megachasma | Megachasma pelagios
-- Wobbegong — Wobbegong Shark | Wobby | Orectolobus | Orectolobidae
+- Wobbegong — Wobbegong Shark | Wobby | Orectolobus | Orectolobidae | Wobbie
 - Angel Shark — Squatina | Angel | Squatinidae | Squatina squatina
 - Leopard Shark — Leopard | Triakis semifasciata | Triakis
 - Zebra Shark — Zebra | Stegostoma | Stegostoma tigrinum | Stegostoma fasciatum
 - Cookiecutter Shark — Cookiecutter | Cigar Shark | Isistius | Isistius brasiliensis
 - Frilled Shark — Frill Shark | Chlamydoselachus | Frilled | Chlamydoselachus anguineus
-- Sand Tiger Shark — Sand Tiger | Grey Nurse Shark | Ragged-tooth Shark | Raggie | Carcharias | Carcharias taurus | Sand shark | Spotted ragged-tooth shark | Odontaspididae | Grey nurse | Grey nurses | Gray nurse
-- Dogfish — Dogfish shark | Squalidae
+- Sand Tiger Shark — Sand Tiger | Grey Nurse Shark | Ragged-tooth Shark | Raggie | Carcharias | Carcharias taurus | Sand shark | Spotted ragged-tooth shark | Odontaspididae | Grey nurse | Grey nurses | Gray nurse | Ragged tooth
+- Dogfish — Dogfish shark | Squalidae | Dog shark
 
 ### Tier 3: known to fans (44)
 
 - Oceanic Whitetip Shark — Oceanic Whitetip | Carcharhinus longimanus | Whitetip shark
 - Silky Shark — Silky | Carcharhinus falciformis
-- Dusky Shark — Dusky | Carcharhinus obscurus | Black whaler
+- Dusky Shark — Dusky | Carcharhinus obscurus | Black whaler | Dusky whaler
 - Sandbar Shark — Sandbar | Carcharhinus plumbeus | Brown shark | Thickskin shark
 - Porbeagle Shark — Porbeagle | Lamna nasus | Lamna
 - Salmon Shark — Lamna ditropis
 - Sixgill Shark — Sixgill | Cow Shark | Hexanchus | Bluntnose Sixgill Shark | Hexanchus griseus | Hexanchidae
-- Sevengill Shark — Sevengill | Broadnose Sevengill Shark | Notorynchus cepedianus | Notorynchus
+- Sevengill Shark — Sevengill | Broadnose Sevengill Shark | Notorynchus cepedianus | Notorynchus | Broadnose sevengill
 - Horn Shark — Heterodontus | Heterodontus francisci
-- Port Jackson Shark — Port Jackson | Heterodontus portusjacksoni
+- Port Jackson Shark — Port Jackson | Heterodontus portusjacksoni | PJ | PJ shark
 - Epaulette Shark — Epaulette | Walking Shark | Hemiscyllium | Hemiscyllium ocellatum | Epaulet shark
 - Bamboo Shark — Chiloscyllium | Bamboo | Hemiscylliidae | Longtail carpet shark
 - Carpet Shark — Orectolobiformes
@@ -63,9 +63,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sleeper Shark — Somniosus | Sleeper | Somniosidae
 - Gulper Shark — Gulper | Centrophorus | Centrophorus granulosus | Centrophoridae
 - Saw Shark — Pristiophorus | Pristiophoridae
-- Spiny Dogfish — Spurdog | Piked Dogfish | Squalus acanthias | Squalus
+- Spiny Dogfish — Spurdog | Piked Dogfish | Squalus acanthias | Squalus | Rock salmon
 - Smooth-hound — Mustelus | Mustelus mustelus | Common smooth-hound
-- Tope — Soupfin Shark | Tope Shark | School Shark | Galeorhinus galeus | Galeorhinus | Snapper shark
+- Tope — Soupfin Shark | Tope Shark | School Shark | Galeorhinus galeus | Galeorhinus | Snapper shark | Schoolie | Soupfin
 - Bonnethead Shark — Bonnethead | Bonnet Shark | Sphyrna tiburo | Shovelhead
 - Scalloped Hammerhead — Sphyrna lewini
 - Smooth Hammerhead — Sphyrna zygaena
@@ -74,8 +74,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Grey Reef Shark — Grey Reef | Carcharhinus amblyrhynchos | Gray Reef Shark | Blacktail reef shark
 - Caribbean Reef Shark — Caribbean Reef | Carcharhinus perezi
 - Blacktip Shark — Blacktip | Carcharhinus limbatus | Common blacktip shark
-- Spinner Shark — Carcharhinus brevipinna
-- Copper Shark — Narrowtooth Shark | Bronze Whaler | Carcharhinus brachyurus
+- Spinner Shark — Carcharhinus brevipinna | Spinner
+- Copper Shark — Narrowtooth Shark | Bronze Whaler | Carcharhinus brachyurus | Bronzie | Bronzy
 - Shortfin Mako — Isurus oxyrinchus | Blue pointer | Bonito shark | Shortfin mako shark
 - Longfin Mako — Isurus paucus | Longfin mako shark
 - Bigeye Thresher — Alopias superciliosus | Bigeye thresher shark
@@ -117,7 +117,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Weasel Shark — Hemigaleidae
 - Hooktooth Shark — Chaenogaleus macrostoma
 - Snaggletooth Shark — Hemipristis elongata | Hemipristis
-- Tawny Nurse Shark — Nebrius ferrugineus | Nebrius
+- Tawny Nurse Shark — Nebrius ferrugineus | Nebrius | Tawny nurse
 - Blind Shark — Brachaelurus waddi
 - Necklace Carpetshark — Parascyllium variolatum
 - Collared Carpetshark — Parascyllium collare
@@ -141,8 +141,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - White-spotted Bamboo Shark — Chiloscyllium plagiosum
 - Coral Catshark — Atelomycterus marmoratus
 - Small-spotted Catshark — Lesser Spotted Dogfish | Scyliorhinus canicula | Rough hound
-- Nursehound — Scyliorhinus stellaris | Bull huss | Greater spotted dogfish | Large-spotted dogfish
-- Gummy Shark — Mustelus antarcticus
+- Nursehound — Scyliorhinus stellaris | Bull huss | Greater spotted dogfish | Large-spotted dogfish | Huss
+- Gummy Shark — Mustelus antarcticus | Gummy | Gummie | Flake
 - Otodus
 - Squalicorax — Crow Shark
 - Xenacanthus
@@ -307,18 +307,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ninja Lanternshark — Etmopterus benchleyi
 - Pocket Shark — Mollisquama
 
-## Refused on purpose (11)
+## Refused on purpose (14)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Ghost Shark | Chimaera | Ratfish | Elephant shark | Elephantfish — "Not a true shark: a chimaera, a cousin that split away hundreds of millions of years ago."
-- Stingray | Manta ray | Ray | Skate | Eagle ray | Guitarfish — "A ray. A cousin of sharks, flattened."
+- Stingray | Manta ray | Ray | Skate | Eagle ray | Guitarfish | Banjo shark | Fiddler ray | Shovelnose shark | Shovelnose ray | Shovelnose — "A ray. A cousin of sharks, flattened."
 - Sawfish — "A ray with a saw. The sawshark is the shark."
-- Jaws — "Fictional. A great white, if you want the species."
+- Jaws | Bruce — "Fictional. A great white, if you want the species."
 - Sharknado — "Fictional, thankfully."
-- Loan shark | Card shark — "Dangerous, but not a fish."
+- Loan shark | Card shark | Pool shark — "Dangerous, but not a fish."
 - Killer whale | Orca — "A dolphin, and it eats sharks."
 - Dolphin — "A mammal. It breathes air."
 - Barracuda — "A bony fish, not a shark."
 - Bala shark | Silver shark | Red-tailed black shark | Red-tailed shark | Redtail shark | Rainbow shark — "A freshwater minnow sold for aquariums, not a shark."
 - Iridescent shark | Siamese shark — "A catfish sold for aquariums, not a shark."
+- Shark | Sharks — "That is all of them. Name one kind."
+- Noah's ark | Noah | Noahs — "Rhyming slang for the whole family. Name one kind."
+- Baby shark | Daddy shark — "A song, and it never ends. Not a species."

@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest';
-import { SIGN_WORDS, makeSign, parseSign, signSpoken } from '../src/party/codes';
+import { SIGN_WORDS, makeSign, parseSign, signKind, signSpoken } from '../src/party/codes';
 import {
   AWAY_GRACE_MS,
   GRACE_MS,
@@ -99,6 +99,26 @@ describe('signs', () => {
     expect(new Set(SIGN_WORDS).size).toBe(SIGN_WORDS.length);
   });
 
+  it('gives a class a word and three numbers, none of them 0 or 1', () => {
+    let n = 0;
+    const rand = () => [0, 0, 0.999, 0.5][n++ % 4];
+    expect(makeSign('class', rand)).toBe(`${SIGN_WORDS[0]}-296`);
+    for (let i = 0; i < 200; i++) expect(makeSign('class')).toMatch(/^[A-Z]{4,7}-[2-9]{3}$/);
+    for (const s of ['DAGON-247', 'dagon 247', 'Dagon247', ' dagon—247 ', 'DAGNO-247']) expect(parseSign(s, 'class')).toBe('DAGON-247');
+    for (const s of ['DAGON-7', 'DAGON-42', 'DAGON-217', 'DAGON-2470', 'DAGON']) expect(parseSign(s, 'class')).toBeNull();
+    expect(parseSign('DAGON-247', 'seance')).toBeNull();
+    expect(parseSign('DAGON-247', 'cult')).toBeNull();
+  });
+
+  it('tells which kind of sign was typed', () => {
+    expect(signKind('dagon 7')).toBe('seance');
+    expect(signKind('BRINE-42')).toBe('cult');
+    expect(signKind('Hydra 382')).toBe('class');
+    expect(signKind('DAGON-1')).toBeNull();
+    expect(signKind('hello')).toBeNull();
+    expect(signSpoken('DAGON-247')).toBe('Dagon two four seven');
+  });
+
   it('says a sign aloud', () => {
     expect(signSpoken('DAGON-7')).toBe('Dagon seven');
     expect(signSpoken('BRINE-42')).toBe('Brine four two');
@@ -165,8 +185,11 @@ describe('what a device may send', () => {
 
   it('keeps every answer and spelling the bank has, however long its lists grow', () => {
     // Guards the widened lists: an online séance once cut a question to 800 answers of 40 spellings each.
+    // Under test the build puts every question into the script whole (see build/daily-bank.mjs).
     const bank = loadBank();
-    expect(bank.prompts.length).toBeGreaterThan(50);
+    const whole = bank.prompts.map((p) => bank.byId.get(p.id)).filter((p): p is PromptDef => !!p);
+    expect(whole.length).toBe(bank.prompts.length);
+    expect(whole.length).toBeGreaterThan(50);
     const count = (ps: PromptDef[]) =>
       ps.map((p) => [
         p.id,
@@ -176,7 +199,7 @@ describe('what a device may send', () => {
         (p.traps ?? []).reduce((n, t) => n + (t.aliases?.length ?? 0), 0),
         p.decoys?.length ?? 0,
       ]);
-    expect(count(cleanPrompts(bank.prompts, bank.prompts.length))).toEqual(count(bank.prompts));
+    expect(count(cleanPrompts(whole, whole.length))).toEqual(count(whole));
 
     const many: PromptDef = {
       id: 'many',

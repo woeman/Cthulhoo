@@ -41,6 +41,12 @@ export interface PromptDef {
   source?: string;
 }
 
+/**
+ * What the game knows of a question before its answers are fetched: its words
+ * and where it is filed. The day's plan, the topics and the Logbook need no more.
+ */
+export type PromptMeta = Omit<PromptDef, 'answers' | 'traps' | 'decoys' | 'exact'>;
+
 export interface BankDay {
   date: string; // YYYY-MM-DD
   prompts: string[];

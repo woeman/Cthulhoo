@@ -6,386 +6,565 @@ Rules: Any real field of study whose name ends in -ology or -logy. Words that on
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (357 answers)
+## Accepted now (536 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (15)
 
-- Biology — Byology
-- Psychology — Psycology | Physcology | Physchology | Pyschology | Phsycology
-- Geology
-- Sociology — Socology
-- Archaeology — Archeology
-- Zoology — Zology
-- Theology
-- Astrology — Atrology | Asrology
-- Ecology
-- Anthropology
-- Criminology
-- Radiology
-- Cardiology — Caridology | Cadriology | Cardology | Cartiology
-- Dermatology
-- Neurology
+- Biology — Byology | Bio | Biologist | Byologist
+- Psychology — Psycology | Physcology | Physchology | Pyschology | Phsycology | Psych | Psychologist | Psycologist | Physcologist | Physchologist | Pyschologist | Phsycologist
+- Geology — Geologist
+- Sociology — Socology | Sociologist | Socologist
+- Archaeology — Archeology | Arkeology | Arkiology | Arkaeology | Archaeologist | Archeologist | Arkeologist | Arkiologist | Arkaeologist
+- Zoology — Zology | Zoologist | Zologist
+- Theology — Christian theology | Catholic theology | Islamic theology | Theologist | Christian theologist | Catholic theologist | Islamic theologist | Theologian
+- Astrology — Atrology | Asrology | Astrologist | Atrologist | Asrologist | Astrologer
+- Ecology — Ecologist
+- Anthropology — Anthro | Anthropologist
+- Criminology — Criminologist
+- Radiology — Radiologist
+- Cardiology — Caridology | Cadriology | Cardology | Cartiology | Cardiologist | Caridologist | Cadriologist | Cardologist | Cartiologist
+- Dermatology — Dermatologist
+- Neurology — Neurologist
 
 ### Tier 2: common (25)
 
-- Meteorology — Meterology | Metorology
-- Mythology — Mithology
-- Palaeontology — Paleontology
-- Physiology — Phsyiology
-- Pathology
-- Oncology — Onchology
-- Gynaecology — Gynecology
-- Ophthalmology — Opthomology | Ophthomology | Opthamology | Opthalmology
-- Entomology — Entymology
-- Ornithology
-- Egyptology
-- Cosmology
-- Etymology — Ettymology | Eetymology
-- Seismology
-- Toxicology — Toxcology
-- Virology
-- Immunology
-- Haematology — Hematology
-- Urology
-- Microbiology
-- Pharmacology
-- Epidemiology
-- Genealogy
-- Musicology
-- Technology
+- Meteorology — Meterology | Metorology | Meteorologist | Meterologist | Metorologist
+- Mythology — Mithology | Greek mythology | Norse mythology | Roman mythology | Egyptian mythology | Celtic mythology | Classical mythology | Comparative mythology | Hindu mythology | Japanese mythology | Chinese mythology | Aboriginal mythology | Mythologist | Mithologist | Greek mythologist | Norse mythologist | Roman mythologist | Egyptian mythologist | Celtic mythologist | Classical mythologist | Comparative mythologist | Hindu mythologist | Japanese mythologist | Chinese mythologist | Aboriginal mythologist
+- Palaeontology — Paleontology | Palaeontologist | Paleontologist
+- Physiology — Phsyiology | Physiologist | Phsyiologist
+- Pathology — Pathologist
+- Oncology — Onchology | Oncologist | Onchologist
+- Gynaecology — Gynecology | Gynaecologist | Gynecologist
+- Ophthalmology — Opthomology | Ophthomology | Opthamology | Opthalmology | Ophthalmologist | Opthomologist | Ophthomologist | Opthamologist | Opthalmologist
+- Entomology — Entymology | Entomologist | Entymologist
+- Ornithology — Ornithologist
+- Egyptology — Egyptologist
+- Cosmology — Cosmologist
+- Etymology — Ettymology | Eetymology | Etymologist | Ettymologist | Eetymologist
+- Seismology — Sysmology | Sismology | Seismologist | Sysmologist | Sismologist
+- Toxicology — Toxcology | Toxicologist | Toxcologist
+- Virology — Virologist
+- Immunology — Immunologist
+- Haematology — Hematology | Haematologist | Hematologist
+- Urology — Urologist
+- Microbiology — Microbiologist
+- Pharmacology — Pharmacologist
+- Epidemiology — Epidemiologist
+- Genealogy — Genealogist
+- Musicology — Musicologist
+- Technology — Design and technology | Design technology | Digital technology | Digital technologies | Technologist | Design and technologist | Design technologist | Digital technologist
 
 ### Tier 3: known to fans (60)
 
-- Endocrinology
-- Gerontology
-- Embryology
-- Histology — Hitology
-- Numerology
-- Phrenology — Phernology | Prhenology
-- Ufology
-- Cryptozoology
-- Herpetology
-- Ichthyology
-- Mycology
-- Volcanology — Vulcanology
-- Hydrology
-- Climatology
-- Mineralogy
-- Chronology — Chornology
-- Morphology
-- Phonology
-- Aetiology — Etiology
-- Ethnology
-- Gemology — Gemmology
-- Primatology
-- Bacteriology
-- Rheumatology
-- Nephrology
-- Gastroenterology — Gastrology
-- Audiology — Audology
-- Sexology
-- Demonology
-- Epistemology
-- Graphology
-- Oenology — Enology
-- Cryptology
-- Parapsychology
-- Reflexology
-- Methodology — Metodology
-- Cosmetology
-- Topology
-- Kinesiology — Applied kinesiology
-- Ethology
-- Marine biology
-- Molecular biology
-- Cell biology — Cellular biology
-- Evolutionary biology
-- Forensic psychology
-- Clinical psychology
-- Child psychology
-- Social psychology
-- Cognitive psychology
-- Developmental psychology
-- Forensic pathology
-- Biotechnology — Biotech
-- Nanotechnology — Nanotech
-- Information technology — IT | Info tech
-- Metrology
-- Psephology
-- Sovietology
-- Neuropsychology
-- Histopathology
-- Zoopsychology — Animal psychology
+- Endocrinology — Endocrinologist
+- Gerontology — Gerontologist
+- Embryology — Embryologist
+- Histology — Hitology | Histologist | Hitologist
+- Numerology — Numerologist
+- Phrenology — Phernology | Prhenology | Phrenologist | Phernologist | Prhenologist
+- Ufology — Ufologist
+- Cryptozoology — Cryptozoologist
+- Herpetology — Herpetologist
+- Ichthyology — Ichthyologist
+- Mycology — Mycologist
+- Volcanology — Vulcanology | Volcanologist | Vulcanologist
+- Hydrology — Hydrologist
+- Climatology — Climatologist
+- Mineralogy — Mineralogist
+- Chronology — Chornology | Chronologist | Chornologist
+- Morphology — Morphologist
+- Phonology — Phonologist
+- Aetiology — Etiology | Aetiologist | Etiologist
+- Ethnology — Ethnologist
+- Gemology — Gemmology | Gemologist | Gemmologist
+- Primatology — Primatologist
+- Bacteriology — Bacteriologist
+- Rheumatology — Rheumatologist
+- Nephrology — Nephrologist
+- Gastroenterology — Gastrology | Gastroenterologist | Gastrologist
+- Audiology — Audology | Audiologist | Audologist
+- Sexology — Sexologist
+- Demonology — Demonologist
+- Epistemology — Epistemologist
+- Graphology — Graphologist
+- Oenology — Enology | Vinology | Wineology | Oenologist | Enologist | Vinologist | Wineologist
+- Cryptology — Cryptologist
+- Parapsychology — Parapsychologist
+- Reflexology — Reflexologist
+- Methodology — Metodology | Methodologist | Metodologist
+- Cosmetology — Cosmetologist
+- Topology — Topologist
+- Kinesiology — Applied kinesiology | Kinesiologist | Applied kinesiologist
+- Ethology — Ethologist
+- Marine biology — Marine biologist
+- Molecular biology — Molecular biologist
+- Cell biology — Cellular biology | Cell biologist | Cellular biologist
+- Evolutionary biology — Evolutionary biologist
+- Forensic psychology — Forensic psychologist
+- Clinical psychology — Clinical psychologist
+- Child psychology — Child psychologist
+- Social psychology — Social psychologist
+- Cognitive psychology — Cognitive psychologist
+- Developmental psychology — Developmental psychologist
+- Forensic pathology — Forensic pathologist
+- Biotechnology — Biotech | Biotechnologist
+- Nanotechnology — Nanotech | Nanotechnologist
+- Information technology — IT | Info tech | Information technologist
+- Metrology — Metrologist
+- Psephology — Psephologist
+- Sovietology — Sovietologist
+- Neuropsychology — Neuropsychologist
+- Histopathology — Histopathologist
+- Zoopsychology — Animal psychology | Zoopsychologist | Animal psychologist
 
 ### Tier 4: obscure (102)
 
-- Glaciology
-- Speleology — Spelaeology
-- Campanology
-- Horology
-- Limnology
-- Petrology
-- Dendrology
-- Dendrochronology
-- Arachnology
-- Mammalogy
-- Parasitology
-- Serology
-- Cytology
-- Trichology
-- Odontology
-- Proctology
-- Pulmonology — Pneumology | Pneumonology
-- Hepatology
-- Anaesthesiology — Anesthesiology | Anaesthology | Anesthology
-- Otolaryngology — Otorhinolaryngology
-- Thanatology
-- Eschatology
-- Ontology
-- Phenomenology
-- Escapology
-- Futurology
-- Kremlinology
-- Sinology
-- Philology
-- Lexicology
-- Semiology
-- Ethnomusicology
-- Pomology
-- Scatology
-- Vexillology
-- Mixology
-- Astrobiology
-- Exobiology
-- Oceanology
-- Traumatology
-- Museology
-- Iridology
-- Sociobiology
-- Andrology
-- Angiology
-- Neonatology
-- Teratology
-- Osteology
-- Typology
-- Geomorphology
-- Hydrogeology
-- Paleoanthropology — Palaeoanthropology
-- Lepidopterology
-- Neurobiology
-- Psychopathology
-- Terminology
-- Evolutionary psychology
-- Educational psychology
-- Sports psychology — Sport psychology
-- Forensic anthropology
-- Forensic entomology
-- Forensic odontology
-- Social anthropology
-- Cultural anthropology
-- Biological anthropology — Physical anthropology
-- Developmental biology
-- Synthetic biology
-- Conservation biology
-- Plant biology
-- Human biology
-- Marine geology
-- Forensic archaeology
-- Industrial archaeology
-- Underwater archaeology — Marine archaeology | Maritime archaeology
-- Experimental archaeology
-- Forensic toxicology
-- Clinical pathology
-- Neuroradiology
-- Psychopharmacology
-- Neuropathology
-- Paleoclimatology — Palaeoclimatology
-- Phenology
-- Rheology
-- Tribology
-- Narratology
-- Ludology
-- Zooarchaeology — Archaeozoology | Zooarcheology
-- Anthrozoology
-- Radiobiology
-- Cryobiology
-- Hydrobiology
-- Geochronology
-- Astrogeology — Planetary geology
-- Paleobiology — Palaeobiology
-- Micropaleontology — Micropalaeontology
-- Hymnology
-- Enigmatology
-- Tegestology
-- Zythology
-- Polemology
-- Periodontology
-- Symbology
+- Glaciology — Glaciologist
+- Speleology — Spelaeology | Speleologist | Spelaeologist
+- Campanology — Campanologist
+- Horology — Horologist
+- Limnology — Limnologist
+- Petrology — Petrologist
+- Dendrology — Dendrologist
+- Dendrochronology — Dendrochronologist
+- Arachnology — Arachnologist
+- Mammalogy — Mammalogist
+- Parasitology — Parasitologist
+- Serology — Serologist
+- Cytology — Cytologist
+- Trichology — Trichologist
+- Odontology — Odontologist
+- Proctology — Proctologist
+- Pulmonology — Pneumology | Pneumonology | Pulmonologist | Pneumologist | Pneumonologist
+- Hepatology — Hepatologist
+- Anaesthesiology — Anesthesiology | Anaesthology | Anesthology | Anaesthesiologist | Anesthesiologist | Anaesthologist | Anesthologist
+- Otolaryngology — Otorhinolaryngology | Otolaryngologist | Otorhinolaryngologist
+- Thanatology — Thanatologist
+- Eschatology — Eschatologist
+- Ontology — Ontologist
+- Phenomenology — Phenomenologist
+- Escapology — Escapologist
+- Futurology — Futurologist
+- Kremlinology — Kremlinologist
+- Sinology — Sinologist
+- Philology — Philologist
+- Lexicology — Lexicologist
+- Semiology — Semiologist
+- Ethnomusicology — Ethnomusicologist
+- Pomology — Pomologist
+- Scatology — Coprology | Scatologist | Coprologist
+- Vexillology — Vexillologist
+- Mixology — Mixologist
+- Astrobiology — Astrobiologist
+- Exobiology — Exobiologist
+- Oceanology — Oceanologist
+- Traumatology — Traumatologist
+- Museology — Museologist
+- Iridology — Iridologist
+- Sociobiology — Sociobiologist
+- Andrology — Andrologist
+- Angiology — Angiologist
+- Neonatology — Neonatologist
+- Teratology — Teratologist
+- Osteology — Osteologist
+- Typology — Typologist
+- Geomorphology — Geomorphologist
+- Hydrogeology — Hydrogeologist
+- Paleoanthropology — Palaeoanthropology | Paleoanthropologist | Palaeoanthropologist
+- Lepidopterology — Lepidopterologist
+- Neurobiology — Neurobiologist
+- Psychopathology — Psychopathologist
+- Terminology — Terminologist
+- Evolutionary psychology — Evolutionary psychologist
+- Educational psychology — Educational psychologist
+- Sports psychology — Sport psychology | Sports psychologist | Sport psychologist
+- Forensic anthropology — Forensic anthropologist
+- Forensic entomology — Forensic entomologist
+- Forensic odontology — Forensic odontologist
+- Social anthropology — Social anthropologist
+- Cultural anthropology — Cultural anthropologist
+- Biological anthropology — Physical anthropology | Biological anthropologist | Physical anthropologist
+- Developmental biology — Developmental biologist
+- Synthetic biology — Synthetic biologist
+- Conservation biology — Conservation biologist
+- Plant biology — Plant biologist
+- Human biology — Human biologist
+- Marine geology — Marine geologist
+- Forensic archaeology — Forensic archeology | Forensic archaeologist | Forensic archeologist
+- Industrial archaeology — Industrial archeology | Industrial archaeologist | Industrial archeologist
+- Underwater archaeology — Marine archaeology | Maritime archaeology | Underwater archaeologist | Marine archaeologist | Maritime archaeologist
+- Experimental archaeology — Experimental archeology | Experimental archaeologist | Experimental archeologist
+- Forensic toxicology — Forensic toxicologist
+- Clinical pathology — Clinical pathologist
+- Neuroradiology — Neuroradiologist
+- Psychopharmacology — Psychopharmacologist
+- Neuropathology — Neuropathologist
+- Paleoclimatology — Palaeoclimatology | Paleoclimatologist | Palaeoclimatologist
+- Phenology — Phenologist
+- Rheology — Rheologist
+- Tribology — Tribologist
+- Narratology — Narratologist
+- Ludology — Ludologist
+- Zooarchaeology — Archaeozoology | Zooarcheology | Zooarchaeologist | Archaeozoologist | Zooarcheologist
+- Anthrozoology — Anthrozoologist
+- Radiobiology — Radiobiologist
+- Cryobiology — Cryobiologist
+- Hydrobiology — Hydrobiologist
+- Geochronology — Geochronologist
+- Astrogeology — Planetary geology | Astrogeologist | Planetary geologist
+- Paleobiology — Palaeobiology | Paleobiologist | Palaeobiologist
+- Micropaleontology — Micropalaeontology | Micropaleontologist | Micropalaeontologist
+- Hymnology — Hymnologist
+- Enigmatology — Enigmatologist
+- Tegestology — Tegestologist
+- Zythology — Beerology | Zythologist | Beerologist
+- Polemology — Polemologist
+- Periodontology — Periodontologist
+- Symbology — Symbologist
 
-### Tier 5: expert (153)
+### Tier 5: expert (332)
 
-- Palynology
-- Bryology
-- Lichenology
-- Malacology
-- Conchology
-- Myrmecology
-- Cetology
-- Nematology
-- Helminthology
-- Enzymology
-- Otology
-- Rhinology
-- Laryngology
-- Angelology
-- Soteriology
-- Christology
-- Ecclesiology
-- Hagiology
-- Teleology
-- Deontology
-- Axiology
-- Penology
-- Victimology
-- Assyriology
-- Indology
-- Japanology
-- Papyrology
-- Codicology
-- Dialectology
-- Zymology
-- Carpology
-- Selenology
-- Planetology
-- Areology
-- Deltiology
-- Garbology
-- Oneirology
-- Hypnology
-- Oology
-- Nephology
-- Pedology
-- Pteridology
-- Algology
-- Phycology
-- Speleobiology
-- Carcinology
-- Myology
-- Protozoology
-- Phlebology
-- Perinatology
-- Potamology
-- Cynology
-- Felinology
-- Ophiology
-- Iconology
-- Onomatology
-- Edaphology
-- Phytology
-- Apiology
-- Nosology
-- Lithology
-- Ichnology
-- Venereology
-- Acarology
-- Stomatology
-- Organology
-- Mariology
-- Pneumatology
-- Missiology
-- Allergology
-- Melittology
-- Agrostology
-- Hippology
-- Batrachology
-- Chronobiology
-- Sedimentology
-- Phraseology
-- Xenobiology
-- Photobiology
-- Aerobiology
-- Geobiology
-- Biometeorology
-- Neuroendocrinology
-- Psychoneuroimmunology
-- Cytopathology
-- Dermatopathology
-- Phytopathology — Plant pathology
-- Diabetology
-- Cariology
-- Craniology
-- Arthrology
-- Adenology
-- Somatology
-- Symptomatology
-- Posology
-- Tocology — Tokology
-- Typhlology
-- Bromatology
-- Trophology
-- Sitology — Sitiology
-- Balneology
-- Protistology
-- Coleopterology
-- Dipterology
-- Hymenopterology
-- Orthopterology
-- Astacology
-- Orchidology
-- Cecidology
-- Caliology
-- Karyology
-- Paleozoology — Palaeozoology
-- Paleoecology — Palaeoecology
-- Paleopathology — Palaeopathology
-- Orology — Oreology
-- Hyetology
-- Anemology
-- Aerology
-- Coniology — Koniology
-- Cryology
-- Thalassology
-- Uranology
-- Heliology
-- Agrology
-- Chorology
-- Heortology
-- Liturgiology
-- Patrology
-- Heresiology
-- Bibliology
-- Alethiology
-- Praxeology — Praxiology
-- Characterology
-- Chirology
-- Hoplology
-- Irenology
-- Glossology
-- Glottology
-- Tibetology
-- Turkology — Turcology
-- Iranology
-- Sumerology
-- Hittitology
-- Byzantinology
-- Celtology
-- Islamology
-- Urbanology
-- Gerontechnology
-- Ethnobiology
-- Ethnopharmacology
-- Martyrology
-- Buddhology
-- Podology
+- Palynology — Palynologist
+- Bryology — Bryologist
+- Lichenology — Lichenologist
+- Malacology — Malacologist
+- Conchology — Conchologist
+- Myrmecology — Myrmecologist
+- Cetology — Cetologist
+- Nematology — Nematologist
+- Helminthology — Helminthologist
+- Enzymology — Enzymologist
+- Otology — Otologist
+- Rhinology — Rhinologist
+- Laryngology — Laryngologist
+- Angelology — Angelologist
+- Soteriology — Soteriologist
+- Christology — Christologist
+- Ecclesiology — Ecclesiologist
+- Hagiology — Hagiologist
+- Teleology — Teleologist
+- Deontology — Deontologist
+- Axiology — Axiologist
+- Penology — Penologist
+- Victimology — Victimologist
+- Assyriology — Assyriologist
+- Indology — Indologist
+- Japanology — Japanologist
+- Papyrology — Papyrologist
+- Codicology — Codicologist
+- Dialectology — Dialectologist
+- Zymology — Zymologist
+- Carpology — Carpologist
+- Selenology — Selenologist
+- Planetology — Planetologist
+- Areology — Areologist
+- Deltiology — Deltiologist
+- Garbology — Garbologist
+- Oneirology — Oneirologist
+- Hypnology — Hypnologist
+- Oology — Oologist
+- Nephology — Nephologist
+- Pedology — Pedologist
+- Pteridology — Pteridologist
+- Algology — Algologist
+- Phycology — Phycologist
+- Speleobiology — Speleobiologist
+- Carcinology — Carcinologist
+- Myology — Myologist
+- Protozoology — Protozoologist
+- Phlebology — Phlebologist
+- Perinatology — Perinatologist
+- Potamology — Potamologist
+- Cynology — Cynologist
+- Felinology — Felinologist
+- Ophiology — Ophiologist
+- Iconology — Iconologist
+- Onomatology — Onomatologist
+- Edaphology — Edaphologist
+- Phytology — Phytologist
+- Apiology — Apiologist
+- Nosology — Nosologist
+- Lithology — Lithologist
+- Ichnology — Ichnologist
+- Venereology — Venereologist
+- Acarology — Acarologist
+- Stomatology — Stomatologist
+- Organology — Organologist
+- Mariology — Mariologist
+- Pneumatology — Pneumatologist
+- Missiology — Missiologist
+- Allergology — Allergologist
+- Melittology — Melittologist
+- Agrostology — Agrostologist
+- Hippology — Hippologist
+- Batrachology — Batrachologist
+- Chronobiology — Chronobiologist
+- Sedimentology — Sedimentologist
+- Phraseology — Phraseologist
+- Xenobiology — Xenobiologist
+- Photobiology — Photobiologist
+- Aerobiology — Aerobiologist
+- Geobiology — Geobiologist
+- Biometeorology — Biometeorologist
+- Neuroendocrinology — Neuroendocrinologist
+- Psychoneuroimmunology — Psychoneuroimmunologist
+- Cytopathology — Cytopathologist
+- Dermatopathology — Dermatopathologist
+- Phytopathology — Plant pathology | Phytopathologist | Plant pathologist
+- Diabetology — Diabetologist
+- Cariology — Cariologist
+- Craniology — Craniologist
+- Arthrology — Arthrologist
+- Adenology — Adenologist
+- Somatology — Somatologist
+- Symptomatology — Symptomatologist
+- Posology — Posologist
+- Tocology — Tokology | Tocologist | Tokologist
+- Typhlology — Typhlologist
+- Bromatology — Bromatologist
+- Trophology — Trophologist
+- Sitology — Sitiology | Sitologist | Sitiologist
+- Balneology — Balneologist
+- Protistology — Protistologist
+- Coleopterology — Coleopterologist
+- Dipterology — Dipterologist
+- Hymenopterology — Hymenopterologist
+- Orthopterology — Orthopterologist
+- Astacology — Astacologist
+- Orchidology — Orchidologist
+- Cecidology — Cecidologist
+- Caliology — Caliologist
+- Karyology — Karyologist
+- Paleozoology — Palaeozoology | Paleozoologist | Palaeozoologist
+- Paleoecology — Palaeoecology | Paleoecologist | Palaeoecologist
+- Paleopathology — Palaeopathology | Paleopathologist | Palaeopathologist
+- Orology — Oreology | Orologist | Oreologist
+- Hyetology — Hyetologist
+- Anemology — Anemologist
+- Aerology — Aerologist
+- Coniology — Koniology | Coniologist | Koniologist
+- Cryology — Cryologist
+- Thalassology — Thalassologist
+- Uranology — Uranologist
+- Heliology — Heliologist
+- Agrology — Agrologist
+- Chorology — Chorologist
+- Heortology — Heortologist
+- Liturgiology — Liturgiologist
+- Patrology — Patrologist
+- Heresiology — Heresiologist
+- Bibliology — Bibliologist
+- Alethiology — Alethiologist
+- Praxeology — Praxiology | Praxeologist | Praxiologist
+- Characterology — Characterologist
+- Chirology — Chirologist
+- Hoplology — Hoplologist
+- Irenology — Irenologist
+- Glossology — Glossologist
+- Glottology — Glottologist
+- Tibetology — Tibetologist
+- Turkology — Turcology | Turkologist | Turcologist
+- Iranology — Iranologist
+- Sumerology — Sumerologist
+- Hittitology — Hittitologist
+- Byzantinology — Byzantinologist
+- Celtology — Celtologist
+- Islamology — Islamologist
+- Urbanology — Urbanologist
+- Gerontechnology — Gerontechnologist
+- Ethnobiology — Ethnobiologist
+- Ethnopharmacology — Ethnopharmacologist
+- Martyrology — Martyrologist
+- Buddhology — Buddhologist
+- Podology — Podologist
+- Nidology — Nidologist
+- Pantology — Pantologist
+- Pestology — Pestologist
+- Tektology — Tektologist
+- Tidology — Tidologist
+- Tarotology — Tarotologist
+- Psychobiology — Psychobiologist
+- Suicidology — Suicidologist
+- Epileptology — Epileptologist
+- Lymphology — Lymphologist
+- Senology — Senologist
+- Erotology — Erotologist
+- Numismatology — Numismatologist
+- Dactylology — Dactylologist
+- Pseudology — Pseudologist
+- Nomology — Nomologist
+- Cereology — Cereologist
+- Choreology — Choreologist
+- Demology — Demologist
+- Emetology — Emetologist
+- Fetology — Foetology | Fetologist | Foetologist
+- Fromology — Fromologist
+- Fulminology — Fulminologist
+- Grammatology — Grammatologist
+- Hierology — Hierologist
+- Historiology — Historiologist
+- Onomasiology — Onomasiologist
+- Osmology — Osmologist
+- Philematology — Philematologist
+- Photology — Photologist
+- Piscatology — Piscatologist
+- Pogonology — Pogonologist
+- Pyrology — Pyrologist
+- Runology — Runologist
+- Satanology — Satanologist
+- Semasiology — Semasiologist
+- Sindonology — Sindonologist
+- Sophiology — Sophiologist
+- Spectrology — Spectrologist
+- Systematology — Systematologist
+- Thaumatology — Thaumatologist
+- Theriogenology — Theriogenologist
+- Thermology — Thermologist
+- Tonology — Tonologist
+- Xylology — Xylologist
+- Speech pathology — Speech-language pathology | Speech and language pathology | Speech pathologist | Speech-language pathologist | Speech and language pathologist
+- Exercise physiology — Sports physiology | Sport physiology | Exercise physiologist | Sports physiologist | Sport physiologist
+- Organisational psychology — Organizational psychology | Industrial psychology | Occupational psychology | Industrial and organisational psychology | Work psychology | Organisational psychologist | Organizational psychologist | Industrial psychologist | Occupational psychologist | Industrial and organisational psychologist | Work psychologist
+- Health psychology — Health psychologist
+- Counselling psychology — Counseling psychology | Counselling psychologist | Counseling psychologist
+- Behavioural psychology — Behavioral psychology | Behavioural psychologist | Behavioral psychologist
+- Abnormal psychology — Abnormal psychologist
+- Positive psychology — Positive psychologist
+- Criminal psychology — Criminal psychologist
+- Experimental psychology — Experimental psychologist
+- Personality psychology — Personality psychologist
+- Environmental psychology — Environmental psychologist
+- Community psychology — Community psychologist
+- Cultural psychology — Cross-cultural psychology | Cultural psychologist | Cross-cultural psychologist
+- Comparative psychology — Comparative psychologist
+- Humanistic psychology — Humanistic psychologist
+- Gestalt psychology — Gestalt psychologist
+- Analytical psychology — Jungian psychology | Analytical psychologist | Jungian psychologist
+- Biological psychology — Biopsychology | Biological psychologist | Biopsychologist
+- School psychology — School psychologist
+- Consumer psychology — Consumer psychologist
+- Structural biology — Structural biologist
+- Systems biology — Systems biologist
+- Computational biology — Computational biologist
+- Wildlife biology — Wildlife biologist
+- Mathematical biology — Mathematical biologist
+- Reproductive biology — Reproductive biologist
+- Chemical biology — Chemical biologist
+- Freshwater biology — Freshwater biologist
+- Soil biology — Soil biologist
+- Marine ecology — Marine ecologist
+- Plant ecology — Plant ecologist
+- Forest ecology — Forest ecologist
+- Landscape ecology — Landscape ecologist
+- Human ecology — Human ecologist
+- Behavioural ecology — Behavioral ecology | Behavioural ecologist | Behavioral ecologist
+- Population ecology — Population ecologist
+- Restoration ecology — Restoration ecologist
+- Community ecology — Community ecologist
+- Freshwater ecology — Freshwater ecologist
+- Urban ecology — Urban ecologist
+- Fire ecology — Fire ecologist
+- Soil ecology — Soil ecologist
+- Microbial ecology — Microbial ecologist
+- Chemical ecology — Chemical ecologist
+- Molecular ecology — Molecular ecologist
+- Agroecology — Agroecologist
+- Food technology — Food technologist
+- Medical technology — Medical technologist
+- Educational technology — Educational technologist
+- Urban sociology — Urban sociologist
+- Rural sociology — Rural sociologist
+- Medical sociology — Medical sociologist
+- Political sociology — Political sociologist
+- Economic sociology — Economic sociologist
+- Environmental sociology — Environmental sociologist
+- Plant physiology — Plant physiologist
+- Human physiology — Human physiologist
+- Animal physiology — Animal physiologist
+- Neurophysiology — Neurophysiologist
+- Electrophysiology — Electrophysiologist
+- Pathophysiology — Pathophysiologist
+- Ecophysiology — Ecophysiologist
+- Psychophysiology — Psychophysiologist
+- Veterinary pathology — Veterinary pathologist
+- Anatomical pathology — Anatomic pathology | Anatomical pathologist | Anatomic pathologist
+- Chemical pathology — Chemical pathologist
+- Molecular pathology — Molecular pathologist
+- Oral pathology — Oral pathologist
+- Paediatric cardiology — Pediatric cardiology | Paediatric cardiologist | Pediatric cardiologist
+- Interventional cardiology — Interventional cardiologist
+- Interventional radiology — Interventional radiologist
+- Diagnostic radiology — Diagnostic radiologist
+- Medical microbiology — Medical microbiologist
+- Clinical microbiology — Clinical microbiologist
+- Food microbiology — Food microbiologist
+- Soil microbiology — Soil microbiologist
+- Environmental microbiology — Environmental microbiologist
+- Industrial microbiology — Industrial microbiologist
+- Clinical pharmacology — Clinical pharmacologist
+- Neuropharmacology — Neuropharmacologist
+- Clinical immunology — Clinical immunologist
+- Radiation oncology — Radiation oncologist
+- Medical oncology — Medical oncologist
+- Surgical oncology — Surgical oncologist
+- Paediatric oncology — Pediatric oncology | Paediatric oncologist | Pediatric oncologist
+- Gynaecological oncology — Gynecologic oncology | Gynaecologic oncology | Gynecological oncology | Gynaecological oncologist | Gynecologic oncologist | Gynaecologic oncologist | Gynecological oncologist
+- Neuro-oncology — Neuro-oncologist
+- Paediatric neurology — Pediatric neurology | Paediatric neurologist | Pediatric neurologist
+- Reproductive endocrinology — Reproductive endocrinologist
+- Clinical toxicology — Clinical toxicologist
+- Environmental toxicology — Environmental toxicologist
+- Ecotoxicology — Ecotoxicologist
+- Medical entomology — Medical entomologist
+- Veterinary parasitology — Veterinary parasitologist
+- Clinical epidemiology — Clinical epidemiologist
+- Molecular epidemiology — Molecular epidemiologist
+- Liberation theology — Liberation theologist
+- Systematic theology — Systematic theologist
+- Moral theology — Moral theologist
+- Natural theology — Natural theologist
+- Pastoral theology — Pastoral theologist
+- Practical theology — Practical theologist
+- Historical theology — Historical theologist
+- Biblical theology — Biblical theologist
+- Dogmatic theology — Dogmatic theologist
+- Feminist theology — Feminist theologist
+- Process theology — Process theologist
+- Biblical archaeology — Biblical archeology | Biblical archaeologist | Biblical archeologist
+- Classical archaeology — Classical archeology | Classical archaeologist | Classical archeologist
+- Landscape archaeology — Landscape archeology | Landscape archaeologist | Landscape archeologist
+- Bioarchaeology — Bioarcheology | Bioarchaeologist | Bioarcheologist
+- Geoarchaeology — Geoarcheology | Geoarchaeologist | Geoarcheologist
+- Ethnoarchaeology — Ethnoarcheology | Ethnoarchaeologist | Ethnoarcheologist
+- Physical geology — Physical geologist
+- Historical geology — Historical geologist
+- Structural geology — Structural geologist
+- Engineering geology — Engineering geologist
+- Environmental geology — Environmental geologist
+- Petroleum geology — Petroleum geologist
+- Economic geology — Economic geologist
+- Mining geology — Mining geologist
+- Linguistic anthropology — Linguistic anthropologist
+- Medical anthropology — Medical anthropologist
+- Visual anthropology — Visual anthropologist
+- Economic anthropology — Economic anthropologist
+- Political anthropology — Political anthropologist
+- Applied anthropology — Applied anthropologist
+- Physical cosmology — Physical cosmologist
+- Historical musicology — Historical musicologist
+- Invertebrate zoology — Invertebrate zoologist
+- Vertebrate zoology — Vertebrate zoologist
+- Vertebrate palaeontology — Vertebrate paleontology | Vertebrate palaeontologist | Vertebrate paleontologist
+- Invertebrate palaeontology — Invertebrate paleontology | Invertebrate palaeontologist | Invertebrate paleontologist
 
 ### Tier 6: rare jackpots (2)
 
-- Teuthology
-- Batology
+- Teuthology — Teuthologist
+- Batology — Batologist
 
-## Refused on purpose (8)
+## Refused on purpose (9)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -396,4 +575,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Astronomy — "No -ology in it. Astrology is the other one."
 - Pedagogy — "-agogy, not -ology."
 - Ideology — "A system of beliefs, not a field of study."
-- Agronomy | Economy | Economics | Anatomy | Botany | Chemistry | Physics | Maths | Mathematics | Taxonomy | Gastronomy | Geography | History | Medicine | Science | Engineering | Philosophy | Psychiatry | Dentistry | Forestry | Geometry | Optometry | Podiatry — "A field of study, but with no -ology in its name."
+- Agronomy | Economy | Economics | Anatomy | Botany | Chemistry | Physics | Maths | Mathematics | Taxonomy | Gastronomy | Geography | History | Medicine | Science | Engineering | Philosophy | Psychiatry | Dentistry | Forestry | Geometry | Optometry | Podiatry | Oceanography | Linguistics | Genetics | Paediatrics | Pediatrics | Obstetrics | Statistics | Trigonometry | Algebra | Calculus | Biochemistry | Astrophysics | Geophysics | Accounting | Finance | Commerce | Politics | Political science | Computer science | Nursing | Architecture | Law | Literature | Earth science | Environmental science | Robotics | Electronics | Ethics | Logic | Semantics | Phonetics | Orthopaedics | Orthopedics | Geriatrics | Orthodontics | Cartography | Demography | Numismatics | Thermodynamics | English | Music | Art | Drama | PE — "A field of study, but with no -ology in its name."
+- Cthulhuology | Cthulhology | Dinosaurology — "Not a recognised field. Not yet."

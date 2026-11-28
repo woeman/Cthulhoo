@@ -11,7 +11,7 @@ import '../art/css/fonts.css';
 import '../art/css/components.css';
 import '../src/styles/app.css';
 import { applyDepth } from '../art/js/depth.js';
-import { loadBank } from '../src/game/bank';
+import { bankFetcher, loadBank } from '../src/game/bank';
 import { dateKeyForDay, dayNumberFor, EPOCH_UTC, mulberry32, promptsForDay } from '../src/game/daily';
 import { playerId } from '../src/game/storage';
 import type { AnswerDef, PromptDef } from '../src/game/types';
@@ -24,7 +24,7 @@ import type { ClientMsg, ErrorCode, SeanceView, ServerMsg } from '../src/party/t
 import { Abyss } from '../src/render/abyss';
 import { cultBody, PASS_KEY, postDiveToCult, seanceScreen, type SeanceDeps, type SeanceEnv, type SeanceOpts } from '../src/screens/seance';
 import { CULT_KEY, type CultOpts } from '../src/screens/cult';
-import { choosePrompts, relayId, tierDepths } from '../src/screens/seance/model';
+import { promptQueue, relayId, tierDepths } from '../src/screens/seance/model';
 import { NAME_KEY } from '../src/screens/seance/parts';
 import type { CultDeps, LinkLike } from '../src/screens/seance/types';
 import { icon, installArt } from '../src/ui/art';
@@ -166,7 +166,15 @@ function sinkTo(m: number) {
 
 // ------------------------------------------------------------------ the env
 
-const bank = loadBank();
+// The bench stages its rooms at once, so every question is fetched before anything is drawn.
+// The questions are published beside the game, one folder up from this page.
+const bank = loadBank(bankFetcher(new URL('../', document.baseURI).href));
+await bank.whole(bank.prompts.map((p) => p.id));
+/** A sitting's questions, chosen as the game chooses them. */
+const chooseNow = (key: string): PromptDef[] =>
+  promptQueue(bank, avoid, key, 0, today)
+    .flatMap((id) => bank.byId.get(id) ?? [])
+    .slice(0, CANDLES);
 const today = Math.round(num('today', isCult ? 9 : dayNumberFor(new Date())));
 const avoid = promptsForDay(bank.prompts, today, bank.days, dateKeyForDay(today));
 
@@ -174,6 +182,7 @@ const sound = (name: string) => () => log.sound.push(name);
 const env: SeanceEnv = {
   prompts: bank.prompts,
   byId: bank.byId,
+  whole: (ids) => bank.whole(ids),
   days: bank.days,
   avoid,
   theme: bank.theme,
@@ -582,7 +591,7 @@ function seatRoom(s: Sitting): Room {
     clock.set(t + 1000);
     return room;
   }
-  const prompts = choosePrompts(env, avoid, SIGN, 0, today, CANDLES);
+  const prompts = chooseNow(SIGN);
   begin(room, medium, prompts, tierDepths(env.theme), (t += 4000));
   if (away) setOnline(room, away, false);
   const last = room.prompts.length - 1;
@@ -627,7 +636,7 @@ function passRound(n: number, at: LanternAt): PassState {
   s.config = { candles: CANDLES, seconds: SECONDS };
   for (let i = 0; i < Math.max(2, Math.min(8, n)); i++) addSitter(s, NAMES[i]);
   if (at === 'setup') return s;
-  const ids = choosePrompts(env, avoid, 'lantern', 0, today, CANDLES).map((p) => p.id);
+  const ids = chooseNow('lantern').map((p) => p.id);
   startPass(s, ids, tierDepths(env.theme), s.config);
   let t = Date.now() - 20 * 60_000;
   const prompt = () => env.byId.get(s.promptIds[s.candle]) as PromptDef;
