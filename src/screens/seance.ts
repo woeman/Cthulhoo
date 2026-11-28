@@ -21,10 +21,11 @@ import { CandleScene, TableCandleScene, type CandleData } from './seance/candle'
 import { CallingScene, EntryScene, NO_RELAY_LINK, type EntryInit } from './seance/entry';
 import { HandoffScene, LanternSealedScene, LanternSetupScene } from './seance/lantern';
 import { LobbyScene, TableLobbyScene } from './seance/lobby';
-import { choosePrompts, deepest, lanternResume, listNames, relayId, seatsOf, tierDepths } from './seance/model';
+import { BEGIN_BUDGET, choosePrompts, deepest, lanternResume, listNames, relayId, seatsOf, tierDepths } from './seance/model';
 import { dropStore, loadName, readJson, writeStore } from './seance/parts';
 import { EndScene, RevealScene, TableEndScene, TableRevealScene, type Role } from './seance/reveal';
 import type { Ctx, Scene } from './seance/scene';
+import type { PromptDef } from '../game/types';
 import type { LinkFactory, LinkLike, SeanceDeps, SeanceEnv, SeanceOpts, Seat } from './seance/types';
 
 export type { SeanceDeps, SeanceEnv, SeanceOpts, SeanceSound } from './seance/types';
@@ -218,6 +219,9 @@ class SeanceScreen {
       this.pass = saved;
       this.mode = 'lantern';
       this.setBar('lantern');
+      // Questions from a class pack are not in the bank until their pack is fetched again.
+      const lost = saved.promptIds.filter((id) => !this.env.byId.has(id));
+      if (lost.length && this.env.topics) return void this.env.topics.ensure(lost).then(() => this.renderLantern());
       return this.renderLantern();
     }
     this.entry({ panel: opts.table && this.relay ? 'table' : 'ways' });
@@ -483,7 +487,7 @@ class SeanceScreen {
         } else {
           const key = `lobby:${role === 'medium' ? 'medium' : 'sitter'}`;
           if (cur instanceof LobbyScene && cur.key === key) cur.update(v);
-          else this.show(new LobbyScene(this.ctx, v, { config: (c, s) => this.link?.send({ t: 'config', candles: c, seconds: s }), begin: () => this.begin() }));
+          else this.show(new LobbyScene(this.ctx, v, { config: (c, s, topics) => this.link?.send({ t: 'config', candles: c, seconds: s, topics }), begin: () => void this.begin() }));
         }
         return;
       }
@@ -571,13 +575,33 @@ class SeanceScreen {
     if (words && ms) this.noticeOff = this.later(() => (this.noticeEl.hidden = true), ms);
   }
 
+  /**
+   * A sitting's questions: from the whole daily bank, or from the topics ticked
+   * on this device (class packs are fetched first). Rejects when a ticked pack
+   * cannot be had.
+   */
+  private async pick(choice: string[], key: string, a: { sittings: number; asked: string[] }, count: number, budget?: number): Promise<PromptDef[]> {
+    const topics = this.env.topics;
+    if (!topics || !choice.length) return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { budget });
+    const among = await topics.pool(choice);
+    return choosePrompts(this.env, this.env.avoid, key, a.sittings, this.env.today, count, a.asked, { among, topicOf: (p) => topics.topicOf(p), sameAs: (id) => topics.sameAs(id), budget });
+  }
+
   /** The medium lights the first candle: the questions are chosen on this device and sent whole. */
-  private begin() {
+  private async begin() {
     const v = this.view;
     const lobby = this.scene instanceof LobbyScene ? this.scene : null;
     if (!v) return;
     const a = loadAsked(v.sign);
-    const prompts = choosePrompts(this.env, this.env.avoid, v.sign, a.sittings, this.env.today, v.config.candles, a.asked);
+    let prompts: PromptDef[];
+    try {
+      prompts = await this.pick(lobby?.choice() ?? [], v.sign, a, v.config.candles, BEGIN_BUDGET);
+    } catch {
+      lobby?.fail('A class pack you ticked could not be fetched. Check the connection, or tick other topics.');
+      return;
+    }
+    // The packs may have taken a moment: the séance may have moved on without this device.
+    if (this.dead || this.scene !== lobby || this.view?.phase !== 'lobby') return;
     if (!prompts.length) {
       lobby?.fail('The deep has nothing to ask: the question bank is empty.');
       return;
@@ -645,7 +669,7 @@ class SeanceScreen {
                 s.config = { candles, seconds };
                 this.saveAndRender();
               },
-              begin: () => this.beginLantern(),
+              begin: () => void this.beginLantern(),
             }),
           );
         return;
@@ -742,11 +766,21 @@ class SeanceScreen {
     this.renderLantern();
   }
 
-  private beginLantern() {
+  private async beginLantern() {
     const s = this.pass;
+    const setup = this.scene instanceof LanternSetupScene ? this.scene : null;
     if (!s) return;
     const a = loadAsked('LANTERN');
-    const prompts = choosePrompts(this.env, this.env.avoid, 'lantern', a.sittings, this.env.today, s.config.candles, a.asked);
+    let prompts: PromptDef[];
+    try {
+      prompts = await this.pick(setup?.choice() ?? [], 'lantern', a, s.config.candles);
+    } catch {
+      const why = 'A class pack you ticked could not be fetched. Check the connection, or tick other topics.';
+      setup?.fail(why);
+      this.env.shout(why);
+      return;
+    }
+    if (this.dead || this.pass !== s || s.phase !== 'setup') return;
     const why = startPass(
       s,
       prompts.map((p) => p.id),

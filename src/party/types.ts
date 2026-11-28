@@ -18,7 +18,13 @@ export interface SeanceConfig {
   candles: number;
   /** How long each candle burns. */
   seconds: number;
+  /** The names of the topics the medium chose, for the circle to read. Absent for the whole daily deep. */
+  topics?: string[];
 }
+
+/** Topic names one room shows, and how long each may be. */
+export const TOPIC_NAMES_MAX = 24;
+export const TOPIC_NAME_MAX = 24;
 
 export interface Sitter {
   id: string;
@@ -38,6 +44,8 @@ export interface CandlePrompt {
   category: string;
   rules?: string;
   flavor?: string;
+  /** A class pack's question: the pack's name, shown in place of the category's. */
+  topic?: string;
 }
 
 /** One sitter's answer, once the answers surface. */
@@ -102,7 +110,7 @@ export type Verdict = 'unknown' | 'decoy' | 'trap' | 'ambiguous';
 
 export type ClientMsg =
   | { t: 'hello'; id: string; name: string; table?: boolean; rejoin?: boolean }
-  | { t: 'config'; candles: number; seconds: number }
+  | { t: 'config'; candles: number; seconds: number; topics?: string[] }
   | { t: 'begin'; prompts: PromptDef[]; depths: number[] }
   | { t: 'speak'; text: string }
   | { t: 'next' }

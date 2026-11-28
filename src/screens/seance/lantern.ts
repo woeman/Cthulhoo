@@ -8,6 +8,7 @@ import { h } from '../../ui/dom';
 import { PASS_MAX, PASS_MIN, orderFor, type PassState } from '../../party/passplay';
 import { CANDLE_CHOICES, NAME_MAX, SECONDS_CHOICES } from '../../party/types';
 import { candleSvg, handSvg } from './art';
+import { topicPicker, type TopicPicker } from '../../ui/topics';
 import { cardinal, capitalise, ordinal, type SeatState } from './model';
 import { choiceRow, markEl, SeanceTable, sitterStyle, tableSeats } from './parts';
 import type { Seat } from './types';
@@ -37,6 +38,7 @@ export class LanternSetupScene extends Scene {
   private seconds: ReturnType<typeof choiceRow>;
   private state: PassState;
   private table: SeanceTable;
+  private picker?: TopicPicker;
 
   constructor(
     ctx: Ctx,
@@ -45,6 +47,13 @@ export class LanternSetupScene extends Scene {
   ) {
     super(ctx);
     this.state = state;
+    const topics = this.env.topics;
+    if (topics) {
+      this.picker = topicPicker({ topics: topics.daily(), choice: topics.load(), legend: 'Ask about', onTick: () => this.env.sound?.key?.(), onChange: (choice) => topics.save(choice) });
+      let live = true;
+      this.stops.push(() => (live = false));
+      void topics.all().then((all) => live && this.picker?.setTopics(all));
+    }
     const titleId = uniq('sc-lsetup');
     const inputId = uniq('sc-add');
     this.list = h('ul', { class: 'sc-sitters sc-lantern-list' });
@@ -104,10 +113,21 @@ export class LanternSetupScene extends Scene {
       ),
       h('section', { class: 'plate sc-circle', 'aria-label': 'The circle' }, h('h3', { class: 'sc-h' }, 'The circle ', this.count), this.list, form, this.msg),
       h('section', { class: 'plate sc-config', 'aria-label': 'How the séance is held' }, h('h3', { class: 'sc-h' }, 'The candles'), this.candles.el, this.seconds.el),
+      this.picker ? h('section', { class: 'plate sc-config sc-topics', 'aria-label': 'What the séance asks about' }, h('h3', { class: 'sc-h' }, 'The questions'), this.picker.el) : null,
       h('div', { class: 'sc-actions' }, this.begin, this.hint),
     );
     this.update(state);
     if (state.sitters.length < PASS_MIN) this.focus = this.input;
+  }
+
+  /** The topics ticked: empty for the whole daily deep. */
+  choice(): string[] {
+    return this.picker?.choice() ?? [];
+  }
+
+  /** The questions could not be had: say why. */
+  fail(message: string) {
+    this.hint.textContent = message;
   }
 
   private pick(candles: number, seconds: number) {

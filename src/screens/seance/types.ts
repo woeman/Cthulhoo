@@ -1,5 +1,6 @@
 // What the Séance's screens need from the app, and what a test bench may swap in.
 
+import type { Topic } from '../../game/topics';
 import type { BankDay, PromptDef, ThemeCopy } from '../../game/types';
 import type { Hello, LinkHandlers, LinkStatus, SeancePeek } from '../../party/online';
 import type { CultBoard } from '../../party/cult';
@@ -39,6 +40,24 @@ export interface SeanceEnv {
   buzz?(pattern: number | number[]): void;
   /** The deepest total as the séance goes on, so the app can sink its abyss; 0 on leaving. */
   onDepth?(metres: number): void;
+  /** The topics a séance can be held on, when the app offers the choice. */
+  topics?: SeanceTopics;
+}
+
+/** The topic tick-boxes' supply: the daily categories at once, the class packs once fetched. */
+export interface SeanceTopics {
+  daily(): Topic[];
+  all(): Promise<Topic[]>;
+  /** The questions a choice draws from. Rejects when a ticked class pack cannot be fetched. */
+  pool(choice: string[]): Promise<PromptDef[]>;
+  topicOf(p: Pick<PromptDef, 'id' | 'category'>): string;
+  /** The question an id stands for: a class pack's copy of a daily question is that question. */
+  sameAs(id: string): string;
+  /** Fetches whichever class packs hold these question ids, for a séance picked up after a reload. */
+  ensure(promptIds: string[]): Promise<void>;
+  /** The choice last made on this device. */
+  load(): string[];
+  save(choice: string[]): void;
 }
 
 export interface SeanceOpts {

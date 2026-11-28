@@ -1,5 +1,5 @@
 import { loadBank, type Bank } from './game/bank';
-import { dayNumberFor, localDateKey, msUntilNextDay, practicePrompts, promptsForDay, repairDive } from './game/daily';
+import { PROMPTS_PER_DAY, dayNumberFor, localDateKey, msUntilNextDay, practiceQueue, practiceRank, promptsForDay, repairDive } from './game/daily';
 import { matchAnswer } from './game/matcher';
 import { omenById, omenForDay } from './game/omens';
 import { SANITY, clampSanity, depthFor, isBellQuestion, sanityAfterAnswer, timeLimitMs, totalDepth } from './game/scoring';
@@ -9,11 +9,15 @@ import { careerDay, computeCareer, type Career } from './game/career';
 import { resultsNews, titleNews, type News } from './game/news';
 import { personaFor } from './game/persona';
 import { computeSigils } from './game/sigils';
-import { isEphemeral, keepCensus, loadCensusKept, loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
+import { isEphemeral, loadTopics, saveTopics, keepCensus, loadCensusKept, loadDays, loadDisputes, loadFlag, loadNumber, loadRiddles, loadSettings, loadSightings, playerId, saveDay, saveFlag, saveNumber, saveSettings, saveSighting } from './game/storage';
 import { slipRemark } from './game/slips';
 import { cultRankFor, landmarkFor, pickLine, tierDef, zoneFor } from './game/theme';
+import { TopicBook, filedUnder, packFetcher } from './game/packs';
+import { dealByTopic, dropCopies } from './game/topics';
+import { topicPicker } from './ui/topics';
 import type { AnswerDef, AnswerRecord, DayRecord, PromptDef, Settings, ThemeCopy, Tier } from './game/types';
 import { Sound } from './audio/engine';
+import { Music } from './audio/music';
 import { Abyss } from './render/abyss';
 import { fmtMetres, focusables, h, risingWords, sleep } from './ui/dom';
 import { ICONS } from './ui/icons';
@@ -119,8 +123,14 @@ export class App {
   private bank: Bank = loadBank();
   private riddles: RiddleDeck = loadRiddleDeck();
   private theme: ThemeCopy = this.bank.theme;
+  /** The daily categories and the class packs: what a dive or a party can be asked about. */
+  private topics = new TopicBook(this.bank, this.theme, packFetcher(document.baseURI));
+  /** The topics of the practice dive in hand, for another like it. */
+  private diveTopics: string[] | null = null;
   private settings: Settings = loadSettings();
   private sound = new Sound();
+  /** The recorded beds under the engine's own sound: by depth in a dive, their own in the séance. */
+  private music = new Music(() => this.sound.musicBus(), document.baseURI);
   private abyss: Abyss;
   private reduced: boolean;
   private today = dayNumberFor(new Date());
@@ -167,6 +177,11 @@ export class App {
     this.buildShell();
     this.sound.setMuted(this.settings.muted);
     this.sound.setVolume(this.settings.volume);
+    this.music.setEnabled(this.settings.music);
+    this.syncMusic();
+    // Music may only begin inside a tap or a key press. These run after the tapped button's own
+    // handler, which is what starts the sound engine the music plays through.
+    for (const type of ['click', 'keydown', 'touchend']) window.addEventListener(type, () => this.music.unlock(), { passive: true });
     this.bindGlobal();
     this.abyss.start();
     this.paintDepth(0, true);
@@ -209,7 +224,11 @@ export class App {
     };
     window.addEventListener('pointerdown', unlock);
     window.addEventListener('keydown', unlock);
-    document.addEventListener('visibilitychange', () => (document.hidden ? this.sound.suspend() : this.sound.resume()));
+    document.addEventListener('visibilitychange', () => {
+      if (document.hidden) this.sound.suspend();
+      else this.sound.resume();
+      this.syncMusic();
+    });
     this.bindViewport();
     window.addEventListener('keydown', (e) => this.onKey(e));
   }
@@ -295,8 +314,14 @@ export class App {
     saveSettings(this.settings);
     if (!this.settings.muted) void this.sound.start();
     this.sound.setMuted(this.settings.muted);
+    this.syncMusic();
     this.renderSoundIcon();
     this.sound.click();
+  }
+
+  /** Music plays only while sound is on and the tab is in sight. */
+  private syncMusic() {
+    this.music.setOn(!this.settings.muted && !document.hidden);
   }
 
   private toast(msg: string, ms = 2600) {
@@ -368,6 +393,7 @@ export class App {
     // Whole metres: a camera that comes to rest at 239.6 paints 200 m, the Gloaming, not 199.6 m on the surface.
     const score = Math.max(0, Math.round(camDepth - CAM_OFFSET));
     this.sound.setDepth(camDepth);
+    this.music.setDepth(camDepth);
     if (score !== this.shown) this.paintDepth(score);
   }
 
@@ -520,7 +546,7 @@ export class App {
       actions.append(
         h('p', { class: 'done-note' }, `You reached ${fmtMetres(total)} m today.`),
         primary,
-        h('button', { class: 'btn', type: 'button', onclick: () => this.beginPractice() }, 'Practice dive'),
+        h('button', { class: 'btn', type: 'button', onclick: () => void this.beginPractice() }, 'Practice dive'),
         this.countdownEl(rec.day),
       );
     } else {
@@ -529,7 +555,7 @@ export class App {
       actions.append(primary);
     }
     actions.append(
-      h('div', { class: 'title-modes' }, this.riddleEntry(), this.seanceEntry()),
+      h('div', { class: 'title-modes' }, this.riddleEntry(), this.seanceEntry(), this.chartEntry()),
       h(
         'div',
         { class: 'row' },
@@ -615,16 +641,38 @@ export class App {
     await this.plunge();
   }
 
-  private async beginPractice() {
+  /**
+   * A practice dive, never recorded. With topics, the questions come from those
+   * alone, dealt evenly between them. False when a chosen class pack could not
+   * be fetched, and nothing has begun.
+   */
+  private async beginPractice(topics: string[] | null = null): Promise<boolean> {
     void this.sound.start();
     this.sound.click();
     const today = this.dailyRecord();
-    const ids = practicePrompts(this.bank.prompts, today.promptIds, Date.now() & 0xffff, this.today, this.bank.days);
+    let among = this.bank.prompts;
+    if (topics?.length) {
+      try {
+        among = await this.topics.pool(topics);
+      } catch {
+        return false;
+      }
+      // A dive still to be made today is not given away by a practice on its topic, nor by a class pack's copy of its questions.
+      if (!today.finished) among = among.filter((p) => !today.promptIds.includes(this.topics.sameAs(p.id)));
+    }
+    const same = (id: string) => this.topics.sameAs(id);
+    const base = practiceRank(this.bank.prompts, today.promptIds, this.today, this.bank.days);
+    const rank = (id: string) => base(same(id));
+    const queue = practiceQueue(this.bank.prompts, today.promptIds, Date.now() & 0xffff, this.today, this.bank.days, among, same);
+    const byId = new Map(among.map((p) => [p.id, p]));
+    const ids = topics?.length ? dropCopies(dealByTopic(queue, rank, (id) => this.topics.topicOf(byId.get(id) ?? { id, category: '' })), same) : queue;
+    if (!ids.length) return false;
+    this.diveTopics = topics?.length ? topics : null;
     this.rec = {
       day: this.today,
       date: localDateKey(new Date()),
       omen: 'still',
-      promptIds: ids,
+      promptIds: ids.slice(0, PROMPTS_PER_DAY),
       answers: [],
       sanity: SANITY.start,
       finished: false,
@@ -632,6 +680,52 @@ export class App {
       practice: true,
     };
     await this.plunge();
+    return true;
+  }
+
+  private chartEntry(): HTMLElement {
+    return modeButton('descend', 'Charted Waters', 'Pick your topics · a practice dive', 'new', () => this.openChart());
+  }
+
+  /** Charted Waters: tick what the deep asks about, then dive. Practice, so nothing is kept. */
+  private openChart() {
+    void this.sound.start().then(() => this.sound.setMuted(this.settings.muted));
+    this.sound.click();
+    const picker = topicPicker({ topics: this.topics.daily(), choice: loadTopics(), legend: 'Dive into', onChange: saveTopics, onTick: () => this.sound.key() });
+    void this.topics.all().then((all) => picker.setTopics(all));
+    const fail = h('p', { class: 'chart-fail', role: 'alert', hidden: true });
+    const go = h('button', { class: 'btn primary', type: 'button' }, 'Begin the dive') as HTMLButtonElement;
+    const sheet = this.sheet(
+      'Charted Waters',
+      [h('p', { class: 'chart-lede' }, 'Choose what the deep asks about. Seven questions, one answer each, as in the daily dive. Nothing is recorded: no depth is kept and no streak is at stake.'), picker.el, fail],
+      { actions: [go] },
+    );
+    go.addEventListener('click', () => {
+      if (go.disabled) return;
+      go.disabled = true;
+      go.setAttribute('aria-busy', 'true');
+      fail.hidden = true;
+      const choice = picker.choice();
+      const token = this.token;
+      void this.topics
+        .pool(choice)
+        .then(
+          () => true,
+          () => false,
+        )
+        .then((ok) => {
+          if (token !== this.token || !sheet.el.isConnected) return;
+          if (!ok) {
+            go.disabled = false;
+            go.removeAttribute('aria-busy');
+            fail.textContent = 'That class pack could not be fetched. Check the connection and try again.';
+            fail.hidden = false;
+            return;
+          }
+          sheet.close(true, false);
+          void this.beginPractice(choice);
+        });
+    });
   }
 
   /** From the moonlit surface down to wherever this dive has got to. */
@@ -688,7 +782,7 @@ export class App {
     const act = active;
     const count = rec.promptIds.length;
     this.hud.title.textContent = `${rec.practice ? 'Practice' : `No. ${rec.day}`} · ${index + 1}/${count}`;
-    const cat = this.theme.categories[prompt.category];
+    const filed = filedUnder(this.theme, prompt);
     const bell = isBellQuestion(rec, index);
 
     const fill = h('div', { class: 'air-fill' });
@@ -718,7 +812,7 @@ export class App {
       'div',
       { class: 'plate question-plate' },
       h('p', { class: 'kicker' }, `Question ${index + 1} of ${count}`),
-      cat ? h('p', { class: 'category', 'data-mad': '' }, cat.title) : null,
+      filed ? h('p', { class: 'category', 'data-mad': '' }, filed) : null,
       questionEl,
       prompt.rules ? h('p', { class: 'rules', id: 'rules' }, prompt.rules) : null,
       prompt.flavor ? h('p', { class: 'flavor' }, prompt.flavor) : null,
@@ -1377,7 +1471,7 @@ export class App {
       h(
         'div',
         { class: 'title-actions' },
-        h('button', { class: 'btn', type: 'button', onclick: () => this.beginPractice() }, rec.practice ? 'Another practice dive' : 'Practice dive'),
+        h('button', { class: 'btn', type: 'button', onclick: () => void this.beginPractice(rec.practice ? this.diveTopics : null) }, rec.practice ? 'Another practice dive' : 'Practice dive'),
         h('button', { class: 'btn ghost', type: 'button', onclick: () => this.showTitle() }, 'Return to the surface'),
       ),
     );
@@ -1699,6 +1793,16 @@ export class App {
       },
       // The water sinks with the deepest in the circle; the page takes the colour of where it is.
       onDepth: (m) => void this.abyss.descendTo(this.seanceCam(m), this.reduced ? 0 : 2600),
+      topics: {
+        daily: () => this.topics.daily(),
+        all: () => this.topics.all(),
+        pool: (choice) => this.topics.pool(choice),
+        topicOf: (p) => this.topics.topicOf(p),
+        sameAs: (id) => this.topics.sameAs(id),
+        ensure: (ids) => this.topics.ensure(ids),
+        load: loadTopics,
+        save: saveTopics,
+      },
     };
   }
 
@@ -1751,8 +1855,12 @@ export class App {
     this.closeEye();
     this.show(s.el, 'down', { bare: true });
     this.renderSoundIcon();
-    // Whatever screen comes next puts the candles out and closes the line.
-    this.loops.push(() => s.destroy());
+    this.music.setScene('seance');
+    // Whatever screen comes next puts the candles out and closes the line, and the dive's music returns.
+    this.loops.push(() => {
+      s.destroy();
+      this.music.setScene('dive');
+    });
   }
 
   /** The Cult's line in the Logbook. */
@@ -1838,10 +1946,18 @@ export class App {
     const sound = h('input', { type: 'checkbox' }) as HTMLInputElement;
     sound.checked = !this.settings.muted;
     sound.addEventListener('change', () => this.toggleSound());
+    const music = h('input', { type: 'checkbox' }) as HTMLInputElement;
+    music.checked = this.settings.music;
+    music.addEventListener('change', () => {
+      this.settings.music = music.checked;
+      saveSettings(this.settings);
+      this.music.setEnabled(music.checked);
+    });
     // Only phones that can vibrate are offered vibration.
     const canBuzz = typeof navigator.vibrate === 'function';
     this.sheet('Settings', [
       h('label', { class: 'setting' }, h('span', {}, 'Sound'), sound),
+      h('label', { class: 'setting' }, h('span', {}, 'Music'), music),
       h('label', { class: 'setting' }, h('span', {}, 'Volume'), vol),
       h('label', { class: 'setting' }, h('span', {}, 'Reduce motion'), motion),
       canBuzz ? h('label', { class: 'setting' }, h('span', {}, 'Vibration'), haptics) : null,

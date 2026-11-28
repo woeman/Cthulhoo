@@ -58,7 +58,7 @@ const isNum = (v: unknown): v is number => typeof v === 'number' && Number.isFin
 const isStr = (v: unknown): v is string => typeof v === 'string';
 const strings = (v: unknown): string[] => (Array.isArray(v) ? v.filter(isStr) : []);
 
-export const DEFAULT_SETTINGS: Settings = { muted: false, volume: 0.8, reducedMotion: 'auto', haptics: true };
+export const DEFAULT_SETTINGS: Settings = { muted: false, volume: 0.8, reducedMotion: 'auto', haptics: true, music: true };
 const MOTION: Array<Settings['reducedMotion']> = ['auto', 'on', 'off'];
 
 export function loadSettings(): Settings {
@@ -69,6 +69,7 @@ export function loadSettings(): Settings {
     volume: isNum(s.volume) ? Math.max(0, Math.min(1, s.volume)) : DEFAULT_SETTINGS.volume,
     reducedMotion: motion ?? DEFAULT_SETTINGS.reducedMotion,
     haptics: typeof s.haptics === 'boolean' ? s.haptics : DEFAULT_SETTINGS.haptics,
+    music: typeof s.music === 'boolean' ? s.music : DEFAULT_SETTINGS.music,
   };
 }
 
@@ -164,6 +165,16 @@ export function loadNumber(name: string): number | null {
 
 export function saveNumber(name: string, value: number): void {
   write(`num.${name}`, String(value));
+}
+
+/** The topics last ticked for a dive or a party, as topic ids. Checked against the topics there are when used. */
+export function loadTopics(): string[] {
+  const raw = readJson('topics');
+  return Array.isArray(raw) ? raw.filter((x): x is string => typeof x === 'string').slice(0, 64) : [];
+}
+
+export function saveTopics(choice: string[]): void {
+  write('topics', JSON.stringify(choice.slice(0, 64)));
 }
 
 const VERDICTS = ['unknown', 'decoy', 'trap', 'ambiguous'];

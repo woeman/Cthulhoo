@@ -13,6 +13,7 @@ import {
   cleanDepths,
   cleanName,
   cleanPrompts,
+  cleanTopicNames,
   configure,
   hear,
   heraldsOf,
@@ -190,6 +191,30 @@ describe('what a device may send', () => {
     expect(hear(m, 'answer number 2999')).toEqual({ kind: 'sealed', answer: 'Answer number 2999', tier: 6 });
     expect(hear(m, 'spelling 1499')).toEqual({ kind: 'sealed', answer: 'Answer number 0', tier: 1 });
     expect(hear(m, 'mistake 299')).toEqual({ kind: 'refused', verdict: 'trap', reason: 'No.' });
+  });
+
+  it('shows the circle the medium’s topics, and keeps them when an older copy of the game sends none', () => {
+    const r = newRoom('DAGON-7', 0);
+    join(r, 'ada1', 'Ada', false, 0);
+    expect(configure(r, 'ada1', 3, 20, 10, ['Finance', ' Business  Ethics ', 'Finance', 7, 'x'.repeat(40)]).ok).toBe(true);
+    expect(r.config).toEqual({ candles: 3, seconds: 20, topics: ['Finance', 'Business Ethics'] });
+    expect(viewFor(r, 'ada1', 20).config.topics).toEqual(['Finance', 'Business Ethics']);
+    configure(r, 'ada1', 5, 30, 30);
+    expect(r.config).toEqual({ candles: 5, seconds: 30, topics: ['Finance', 'Business Ethics'] });
+    configure(r, 'ada1', 5, 30, 40, []);
+    expect(r.config).toEqual({ candles: 5, seconds: 30 });
+    expect(cleanTopicNames('Finance')).toBeUndefined();
+    expect(cleanTopicNames(Array.from({ length: 40 }, (_, i) => `Topic ${i}`))).toHaveLength(24);
+  });
+
+  it('carries a class pack’s name with its question, to show in place of the category', () => {
+    const [p] = cleanPrompts([{ ...planets, topic: 'Astronomy', section: 'Planets' }], 1);
+    expect(p.topic).toBe('Astronomy');
+    expect('section' in p).toBe(false);
+    const r = newRoom('DAGON-7', 0);
+    join(r, 'ada1', 'Ada', false, 0);
+    begin(r, 'ada1', [p], DEPTHS, 10);
+    expect(viewFor(r, 'ada1', 20).prompt).toMatchObject({ id: 'planets', topic: 'Astronomy' });
   });
 
   it('takes a tier table of seven numbers only', () => {
