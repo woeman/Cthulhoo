@@ -1,0 +1,156 @@
+id: finance-crises
+text: Name a financial crisis, market crash or speculative bubble.
+flavor: The tide goes out all at once. Everyone on the beach swears they saw it coming.
+rules: Any named crash, panic, bubble, banking crisis or debt crisis in history. Single company collapses belong to the ethics pack.
+section: History
+---
+1 Global Financial Crisis | GFC | 2008 financial crisis | 2008 | Financial crisis of 2008 | 2008 crash | Great Recession | Subprime crisis | Subprime mortgage crisis | Credit crunch | 2007-2008 financial crisis | 2008 recession | Subprime | Global financial crisis of 2008 | 2008 GFC | Housing crash | US housing bubble | Housing bubble
+1 Great Depression | Depression | The Depression | 1930s Depression
+1 Wall Street Crash | 1929 | Wall Street Crash of 1929 | 1929 crash | Crash of 1929 | Black Tuesday | Black Thursday | Stock market crash of 1929 | Great Crash
+1 Dot-com bubble | Dotcom bubble | Dot com bubble | Dot-com crash | Tech bubble | Tech wreck | Dotcom crash | Internet bubble | Dot-com bust | Dotcom | 2000 crash | Tech crash
+1 COVID crash | COVID-19 crash | 2020 crash | Coronavirus crash | COVID | Covid recession | Pandemic crash | 2020 stock market crash | Covid-19 | COVID-19 recession
+2 Tulip mania | Tulipmania | Tulip bubble | Tulips | Dutch tulip mania | Tulip craze | Tulip
+2 Black Monday | 1987 crash | 1987 | Black Monday 1987 | Crash of 1987 | Stock market crash of 1987 | October 1987
+2 Asian financial crisis | Asian crisis | 1997 Asian financial crisis | Asian flu | Asian currency crisis | 1997 | Tom yum goong crisis
+2 South Sea Bubble | South Sea | South Sea Company
+2 Crypto crash | Crypto winter | Bitcoin crash | 2022 crypto crash | Crypto bubble | Bitcoin bubble | FTX collapse | Terra Luna collapse | Luna crash
+2 European debt crisis | Eurozone crisis | Euro crisis | European sovereign debt crisis | Eurozone debt crisis | Greek debt crisis | Greek crisis | Greek financial crisis | Euro debt crisis
+2 GameStop short squeeze | GameStop | Meme stock bubble | Meme stocks | GME squeeze | Meme stock mania
+2 Weimar hyperinflation | German hyperinflation | Weimar | Hyperinflation in Germany | 1923 hyperinflation | Weimar Republic hyperinflation
+2 1970s oil crisis | Oil crisis | 1973 oil crisis | Oil shock | 1973 oil shock | OPEC oil embargo | 1979 oil crisis | Oil embargo | Stagflation
+3 Japanese asset price bubble | Japanese bubble | Japan's lost decade | Lost decade | Japan bubble | Bubble economy | Japanese asset bubble | Lost decades
+3 Savings and loan crisis | S&L crisis | Savings and loans crisis | S and L crisis
+3 Black Wednesday | 1992 sterling crisis | ERM crisis | Sterling crisis
+3 Mississippi Bubble | Mississippi Company | Mississippi scheme
+3 Long-Term Capital Management collapse | LTCM | Long-Term Capital Management | LTCM collapse
+3 Russian financial crisis | Russian default | 1998 Russian crisis | Ruble crisis | Rouble crisis | 1998 Russian financial crisis
+3 Argentine default | Argentine crisis | Argentina 2001 | Argentine great depression | Argentine economic crisis | Corralito | Argentina default
+3 Icelandic financial crisis | Iceland banking collapse | Icelandic banking crisis | Iceland crisis | Kreppa
+3 Zimbabwe hyperinflation | Hyperinflation in Zimbabwe | Zimbabwean hyperinflation
+3 Venezuelan hyperinflation | Venezuela crisis | Hyperinflation in Venezuela
+3 Flash Crash | 2010 Flash Crash | Flash crash of 2010
+3 Silicon Valley Bank collapse | SVB collapse | 2023 banking crisis | 2023 bank failures | SVB | Regional banking crisis
+3 Poseidon bubble | Poseidon | Poseidon nickel boom | Nickel boom
+3 1890s Australian banking crisis | Australian banking crisis of 1893 | 1893 banking crisis | 1893 | Australian bank crash of 1893 | Melbourne land boom | Land boom | 1890s depression | Marvellous Melbourne land boom
+3 Recession we had to have | Early 1990s recession | 1990 recession | 1991 recession | Early 1990s recession in Australia | 1990s recession
+3 Chinese stock market crash | 2015 Chinese stock market crash | China 2015 | Chinese stock bubble
+3 Evergrande crisis | Chinese property crisis | Evergrande | China property crisis
+3 Irish banking crisis | Celtic Tiger crash | Irish property bubble | Irish financial crisis
+3 Cyprus banking crisis | Cypriot financial crisis | Cyprus bail-in
+3 Mexican peso crisis | Tequila crisis | Peso crisis | 1994 peso crisis
+3 Latin American debt crisis | 1980s debt crisis | Third World debt crisis | Lost decade of Latin America
+3 Panic of 1907 | 1907 | Knickerbocker crisis | Bankers' Panic
+3 Railway Mania | Railway bubble | Railroad mania
+3 Taper tantrum
+3 Repo crisis | 2019 repo crisis
+3 Liz Truss mini-budget crisis | Mini-budget crisis | UK gilt crisis | LDI crisis | Gilt crisis | 2022 gilt crisis | Truss mini budget
+3 Sri Lankan economic crisis | Sri Lanka default | Sri Lanka crisis
+3 Lebanese financial crisis | Lebanon crisis | Lebanese liquidity crisis
+3 Turkish currency crisis | Lira crisis | Turkish lira crisis
+3 Nifty Fifty bubble | Nifty Fifty
+3 Black Friday | Black Friday 1869 | Gold panic of 1869 | Gold Panic
+3 Bear Stearns collapse | Lehman collapse | Lehman Brothers collapse | Collapse of Lehman Brothers | Lehman
+3 Northern Rock run | Northern Rock
+3 Swiss franc shock | Francogeddon | 2015 Swiss franc unpegging
+3 Oil price crash of 2020 | Negative oil prices | 2020 oil crash | 2014 oil glut | Oil glut
+3 Volmageddon | 2018 volatility spike
+3 Liberation Day crash | 2025 tariff crash | Tariff crash | 2025 stock market crash | Trump tariff crash
+3 Uranium bubble | 2007 uranium bubble
+3 Lithium bubble | Lithium boom and bust
+3 Mining boom bust | End of the mining boom
+3 Beanie Babies bubble | Beanie Babies | Beanie Baby bubble
+3 NFT bubble | NFT crash | NFTs
+3 SPAC bubble | SPACs
+3 Everything bubble
+4 Panic of 1873 | 1873 | Long Depression | Gründerkrach | Vienna crash of 1873
+4 Panic of 1893
+4 Panic of 1837 | 1837
+4 Panic of 1857 | 1857
+4 Panic of 1819 | 1819
+4 Panic of 1825 | 1825
+4 Panic of 1866 | Overend Gurney crisis | Overend Gurney | Overend, Gurney and Company
+4 Panic of 1890 | Baring crisis | Barings crisis | Baring crisis of 1890
+4 Panic of 1884
+4 Panic of 1896
+4 Panic of 1901
+4 Panic of 1792
+4 Panic of 1796
+4 Panic of 1847
+4 Crisis of 1772 | Credit crisis of 1772 | 1772
+4 Depression of 1920-21 | Depression of 1920 | 1920 depression | Forgotten depression
+4 Recession of 1937 | Roosevelt recession | 1937 recession
+4 Kennedy Slide | Kennedy Slide of 1962 | Flash crash of 1962
+4 1973-74 stock market crash | 1973 crash | 1974 crash | 1973–1974 stock market crash
+4 Secondary banking crisis | Secondary banking crisis of 1973
+4 Silver Thursday | Hunt brothers silver | Hunt brothers | Silver Thursday 1980
+6 Souk Al-Manakh crash | Souk al-Manakh | Kuwait stock market crash | Souk Al Manakh :: Kuwait's unofficial exchange, housed in a car park, collapsed in 1982 leaving post-dated cheques worth about $94 billion that nobody could honour.
+4 Friday the 13th mini-crash | 1989 mini-crash | Mini-crash of 1989
+4 Nordic banking crisis | Swedish banking crisis | Scandinavian banking crisis | Finnish banking crisis
+4 Indian balance of payments crisis | 1991 Indian economic crisis | India 1991
+4 Harshad Mehta scam | 1992 Indian stock market scam | Harshad Mehta
+4 Bond market massacre | 1994 bond market crisis | Great Bond Massacre
+4 Barings collapse | Collapse of Barings | Barings
+4 Albanian pyramid scheme crisis | Albanian pyramid schemes | Albania 1997
+4 Brazilian currency crisis | Samba effect | Real crisis
+4 Ecuador banking crisis | Ecuadorian financial crisis
+4 Turkish banking crisis | 2001 Turkish economic crisis
+4 Uruguay banking crisis | 2002 Uruguay banking crisis
+4 Dominican banking crisis
+4 Quant quake | Quant meltdown | August 2007 quant crisis
+4 Dubai debt crisis | Dubai World | Dubai crisis
+4 Bangladesh share market scam | 2011 Bangladesh share market scam
+4 Knight Capital glitch | Knightmare
+4 Chinese banking liquidity crisis | 2013 Chinese interbank crisis | Shibor shock
+4 Russian financial crisis of 2014 | 2014 ruble crisis
+4 Greek bailout referendum | Grexit
+4 Brexit crash | Brexit | Brexit vote crash
+4 Cryptocurrency crash of 2018 | 2018 crypto crash | Great crypto crash
+4 Archegos collapse | Archegos
+4 Credit Suisse collapse | Credit Suisse
+4 Nickel short squeeze | LME nickel crisis | 2022 nickel squeeze
+4 Yen carry trade unwind | August 2024 crash | 2024 Nikkei crash | Carry trade unwind
+4 Roaring Twenties bubble | Florida land boom | Florida land bubble
+6 British bicycle mania | Bicycle mania | Bicycle bubble :: In 1896 hundreds of British bicycle makers floated on the stock market in a craze for the new safety bicycle. Most were gone within five years.
+4 Canal Mania | Canal bubble
+4 Encilhamento
+4 Bengal Bubble | Bengal Bubble of 1769
+4 Dutch Republic crisis of 1763 | Amsterdam banking crisis of 1763 | Crisis of 1763
+4 Kipper und Wipper | Kipper- und Wipperzeit | Kipper and Wipper
+4 Great Debasement
+4 Hungarian hyperinflation | Pengő hyperinflation | Pengo
+4 Yugoslav hyperinflation | Hyperinflation in Yugoslavia
+4 Greek hyperinflation
+4 Chinese hyperinflation | Gold yuan
+4 Brazilian hyperinflation
+4 Peruvian hyperinflation
+4 Bolivian hyperinflation
+4 Continental currency collapse | Not worth a continental | Continental dollar
+4 Assignat collapse | Assignats | Assignat hyperinflation
+4 Confederate inflation | Confederate dollar
+4 Great Slump | Great Slump of 1430
+4 Bardi and Peruzzi collapse | Bardi | Peruzzi | Florentine banking collapse
+4 Australian property bubble | Australian housing bubble
+4 Pyramid Building Society collapse | Pyramid collapse | Farrow collapse
+4 State Bank of Victoria collapse | Tricontinental collapse | Tricontinental
+4 State Bank of South Australia collapse
+4 WA Inc | Rothwells collapse | Rothwells
+4 Australian banking crisis of 1826 | Bank of New South Wales run
+4 1930s Australian depression | Premiers' Plan | Government Savings Bank of NSW collapse
+4 Wool crash | 1991 wool crash | Wool reserve price scheme collapse | Wool stockpile
+4 Credit squeeze of 1961 | 1961 credit squeeze | Credit squeeze
+4 HIH collapse
+4 Storm Financial collapse
+4 Babcock & Brown collapse
+5 Crisis of the Third Century | Roman debasement | Crisis of the third century debasement
+5 Diocletian's price edict | Edict on Maximum Prices
+5 Stop of the Exchequer | Great Stop of the Exchequer
+5 Lübeck crisis | Hamburg crisis of 1799 | Crisis of 1799
+5 Panic of 1910-11 | Rubber boom crash | Shanghai rubber stock market crisis
+5 Kreditanstalt collapse | Creditanstalt | Credit-Anstalt | Creditanstalt collapse
+5 Shōwa financial crisis | Showa financial crisis
+5 Heisei bubble
+5 Kuwaiti dinar crisis
+6 Financial crisis of AD 33 | Crisis of 33 | Panic of 33 | Crisis of AD 33 | Financial panic of 33 AD :: A credit crunch in Rome under Tiberius. Tacitus records that the emperor ended it with a hundred million sesterces of interest-free loans.
+x Enron | WorldCom | Theranos | Wirecard | FTX | HIH | One.Tel | Madoff | Ponzi scheme :: A company collapse or a fraud rather than a market-wide crisis. Save it for the scandals question.
+x Recession | Crash | Bubble | Crisis | Financial crisis | Bear market | Correction | Market crash | Stock market crash | Inflation | Hyperinflation | Panic | Bank run :: Which one? Give it a name, a place or a year.
+x World War II | World War I | September 11 | 9/11 | Black Death | Chernobyl | Spanish flu :: A catastrophe, and the markets noticed, but it was not a financial crisis in itself.

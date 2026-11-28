@@ -1,0 +1,222 @@
+id: finance-models
+text: Name a model, theory, formula or principle from finance.
+flavor: Elegant equations, proved on blackboards. The sea has never read any of them.
+rules: Any named theory, model, formula, hypothesis or rule of thumb used in finance or investing.
+section: Theory
+---
+1 CAPM | Capital asset pricing model | Capital asset pricing | Cap M
+1 Time value of money | TVM | Present value | Discounting | PV | Future value | FV
+1 Compound interest | Compounding | Compound interest formula
+1 Diversification | Don't put all your eggs in one basket | Diversify
+1 Supply and demand | Law of supply and demand | Demand and supply
+1 Risk-return trade-off | Risk and return | Risk return tradeoff | Risk-return tradeoff | Risk vs return | Risk return | Risk reward | Higher risk higher return
+2 Efficient market hypothesis | EMH | Efficient markets hypothesis | Efficient markets | Efficient market theory | Market efficiency
+2 Black-Scholes | Black-Scholes model | Black Scholes | Black-Scholes-Merton | Black-Scholes formula | BSM | Black Scholes Merton | Option pricing model
+2 Discounted cash flow | DCF | DCF model | Discounted cash flow model | DCF valuation
+2 Net present value | NPV | NPV rule
+2 Modern portfolio theory | MPT | Portfolio theory | Markowitz portfolio theory | Mean-variance optimisation | Mean-variance analysis | Markowitz model | Mean variance
+2 Dividend discount model | DDM | Gordon growth model | Gordon model | Dividend growth model | Constant growth model | Gordon growth
+2 WACC | Weighted average cost of capital
+2 Modigliani-Miller theorem | Modigliani-Miller | MM theorem | M&M | Modigliani and Miller | MM | Capital structure irrelevance | M&M theorem | Miller-Modigliani | MM propositions
+2 Rule of 72
+2 Random walk | Random walk theory | Random walk hypothesis
+2 Internal rate of return | IRR
+2 Behavioural finance | Behavioral finance
+2 Opportunity cost
+2 Dollar cost averaging | Dollar-cost averaging | DCA
+3 Arbitrage pricing theory | APT
+3 Fama-French three-factor model | Fama-French | Fama French | Three-factor model | Fama-French model | Five-factor model | Fama and French | Carhart four-factor model | Carhart
+3 Efficient frontier
+3 Security market line | SML
+3 Capital market line | CML
+3 Prospect theory
+3 Agency theory | Principal-agent problem | Agency problem | Agency costs | Principal agent problem
+3 Pecking order theory | Pecking order
+3 Trade-off theory | Tradeoff theory | Static trade-off theory | Trade off theory of capital structure
+3 Signalling theory | Signaling theory | Dividend signalling
+3 Dividend irrelevance | Dividend irrelevance theory | Bird in the hand | Bird-in-the-hand theory
+3 Clientele effect
+3 Purchasing power parity | PPP | Law of one price
+3 Interest rate parity | Covered interest parity | Uncovered interest parity | IRP
+3 Fisher effect | Fisher equation | International Fisher effect
+3 Expectations theory | Expectations hypothesis | Pure expectations theory
+3 Liquidity preference theory | Liquidity preference | Liquidity premium theory
+3 Market segmentation theory | Preferred habitat theory | Segmented markets
+3 Yield curve | Term structure of interest rates | Term structure
+3 Put-call parity | Put call parity
+3 Binomial model | Binomial option pricing | Binomial tree | Cox-Ross-Rubinstein | Binomial options pricing model
+3 Monte Carlo simulation | Monte Carlo | Monte Carlo method
+3 Value at risk | VaR
+3 Duration | Macaulay duration
+3 DuPont analysis | DuPont | DuPont model | DuPont identity
+3 Payback rule | Payback period
+3 No-arbitrage principle | Arbitrage | No arbitrage | Law of no arbitrage
+3 Greater fool theory | Greater fool
+3 Dow theory
+3 Technical analysis | Charting
+3 Fundamental analysis
+3 Value investing | Margin of safety
+3 Growth investing
+3 Momentum | Momentum investing | Momentum effect
+3 Mean reversion | Reversion to the mean | Regression to the mean
+3 Sharpe ratio
+3 Beta
+3 Alpha | Jensen's alpha
+3 Systematic risk | Unsystematic risk | Market risk | Idiosyncratic risk | Diversifiable risk
+3 Moral hazard
+3 Adverse selection | Market for lemons | Lemons problem
+3 Information asymmetry | Asymmetric information
+3 Loss aversion
+3 Herd behaviour | Herding | Herd mentality | Herd behavior
+3 Anchoring
+3 Overconfidence | Overconfidence bias
+3 Mental accounting
+3 Disposition effect
+3 Gresham's law | Greshams law | Bad money drives out good
+3 Quantity theory of money | MV = PQ | Equation of exchange
+3 Leverage | Financial leverage | Gearing
+3 Perpetuity formula | Perpetuity | Annuity formula | Present value of an annuity | Annuity
+3 Simple interest | Simple interest formula | I = PRT
+3 Effective annual rate | EAR | Effective interest rate | APR | Annual percentage rate
+3 Accounting equation | Assets = liabilities + equity | A = L + E | Balance sheet equation
+3 Matching principle | Maturity matching
+3 Hedging | Hedge
+3 Short selling | Shorting
+3 Real options | Real options analysis | Real option valuation
+3 Economic value added | EVA
+3 Free cash flow model | Free cash flow to firm | FCFF | FCFE | Free cash flow valuation
+3 Residual income model | Residual income
+3 Comparable company analysis | Comps | Multiples valuation | Relative valuation | Comparables | Trading multiples
+3 Capital budgeting
+3 Capital structure theory | Capital structure | Optimal capital structure
+3 Dividend policy
+3 Working capital management
+3 Portfolio rebalancing | Asset allocation | Strategic asset allocation
+3 Passive investing | Index investing | Indexing
+3 Four per cent rule | 4% rule | Four percent rule | 4 percent rule | Safe withdrawal rate
+3 Pareto principle | 80/20 rule | 80-20 rule
+3 Buy low sell high | Buy low, sell high
+3 Tax shield | Interest tax shield | Debt tax shield
+3 Dividend imputation | Franking | Imputation | Franking credits
+4 Miller-Orr model | Miller Orr
+4 Baumol model | Baumol-Tobin model | Baumol Tobin
+4 Economic order quantity | EOQ
+4 Tobin's Q | Q theory
+4 Tobin's separation theorem | Separation theorem | Two-fund separation | Fisher separation theorem | Mutual fund separation theorem
+4 Single-index model | Market model | Sharpe single-index model
+4 Zero-beta CAPM | Black CAPM
+4 Consumption CAPM | CCAPM | Intertemporal CAPM | ICAPM
+4 Black-Litterman model | Black-Litterman | Black Litterman
+4 Kelly criterion | Kelly formula | Kelly bet
+4 Merton model | Merton structural model
+4 Vasicek model | Vasicek
+4 Cox-Ingersoll-Ross model | CIR model | CIR
+4 Hull-White model | Hull White
+4 Heath-Jarrow-Morton | HJM
+4 Black model | Black-76 | Black 76
+4 Garman-Kohlhagen | Garman Kohlhagen
+4 Heston model | Heston
+4 GARCH | ARCH | GARCH model
+4 Geometric Brownian motion | Brownian motion | GBM | Wiener process
+4 Itô's lemma | Ito's lemma | Itos lemma
+4 Greeks | The Greeks | Delta hedging | Delta
+4 Volatility smile | Volatility skew | Implied volatility
+4 Martingale | Risk-neutral pricing | Risk-neutral valuation | Risk neutral pricing
+4 Stochastic discount factor | Pricing kernel
+4 Equity premium puzzle | Equity risk premium | Risk premium
+4 January effect | Calendar effects | Monday effect | Weekend effect | Sell in May | Santa Claus rally | Halloween effect
+4 Size effect | Small-firm effect | Small cap effect
+4 Value effect | Value premium | Book-to-market effect
+4 Post-earnings announcement drift | PEAD | Earnings drift
+4 Adaptive markets hypothesis | Adaptive market hypothesis
+4 Noise trader theory | Noise trading | Noise traders
+4 Limits to arbitrage
+4 Winner's curse | Winners curse
+4 Free cash flow hypothesis | Jensen's free cash flow theory
+4 Market timing theory | Market timing
+4 Catering theory
+4 Residual dividend policy | Residual dividend model
+4 Lintner model | Lintner's model | Dividend smoothing
+4 Walter's model | Walter model
+4 Net operating income approach | Traditional approach | Net income approach
+4 Hamada equation | Hamada
+4 Altman Z-score | Z-score
+4 Adjusted present value | APV
+4 Equivalent annual annuity | Equivalent annual cost | EAA | EAC
+4 Modified internal rate of return | MIRR
+4 Profitability index
+4 Certainty equivalent | Certainty equivalent method
+4 Sensitivity analysis | Scenario analysis | Break-even analysis
+4 Decision tree | Decision trees
+4 Bootstrapping | Bootstrap method
+4 Immunisation | Immunization | Duration matching
+4 Convexity
+4 Barbell strategy | Bullet strategy | Laddering | Bond ladder
+4 Carry trade
+4 Pairs trading | Statistical arbitrage | Stat arb
+4 Risk parity
+4 Core and satellite | Core-satellite
+4 Lifecycle investing | Life-cycle hypothesis | Glide path | Lifecycle theory
+4 Minsky moment | Financial instability hypothesis | Minsky
+4 Reflexivity | Soros's reflexivity | Theory of reflexivity
+4 Black swan theory | Black swan | Fat tails | Tail risk
+4 Elliott wave | Elliott wave theory | Elliott wave principle
+4 Fibonacci retracement | Fibonacci
+4 Moving average | Moving averages | Golden cross | Death cross | MACD
+4 Relative strength index | RSI | Bollinger Bands
+4 Head and shoulders | Support and resistance | Candlestick patterns | Candlestick charting
+4 Dogs of the Dow
+4 Magic formula | Magic formula investing
+4 CAN SLIM | CANSLIM
+4 Buffett's rules | Rule No. 1 | Never lose money | Circle of competence | Economic moat | Moat
+4 Mr Market | Mr. Market
+4 Rule of 70 | Rule of 69 | Rule of 114
+4 Rule of 40
+4 100 minus age rule | Rule of 100 | 110 minus age
+4 Taylor rule
+4 Triffin dilemma
+4 Mundell-Fleming model | Impossible trinity | Trilemma | Mundell Fleming
+4 Dornbusch overshooting | Overshooting model
+4 Balassa-Samuelson effect
+4 Bagehot's dictum | Bagehot's rule | Lender of last resort
+4 Goodhart's law
+4 Coase theorem
+4 Stakeholder theory | Shareholder primacy | Shareholder value | Friedman doctrine | Shareholder theory
+4 Stewardship theory
+4 Too big to fail
+4 Diamond-Dybvig model | Diamond Dybvig | Bank run model
+4 Efficient contracting
+4 Arrow-Debreu model | Arrow-Debreu | State prices
+4 Expected utility theory | Expected utility | Utility theory | Risk aversion
+4 St Petersburg paradox
+4 Gambler's ruin | Gambler's fallacy
+4 Benford's law
+5 Roll's critique | Roll critique
+5 Grossman-Stiglitz paradox | Grossman Stiglitz
+5 Joint hypothesis problem
+5 Samuelson's dictum
+5 Siegel's paradox
+5 Peso problem
+5 Forward premium puzzle | Forward premium anomaly
+5 Dividend puzzle
+5 Closed-end fund puzzle
+5 Volatility puzzle | Excess volatility puzzle
+6 Bachelier model | Bachelier | Theory of Speculation | Théorie de la spéculation :: Louis Bachelier's 1900 Paris thesis modelled share prices as a random walk, five years before Einstein's paper on Brownian motion. It was ignored for decades.
+5 Jarrow-Turnbull model | Jarrow Turnbull
+5 Longstaff-Schwartz | Longstaff Schwartz
+5 SABR model | SABR
+6 Gaussian copula | Li's copula | Copula | Gaussian copula model :: David X. Li's 2000 formula let banks price bundles of mortgages with one number for correlation. After 2008 it was called the formula that killed Wall Street.
+5 Feynman-Kac formula | Feynman Kac
+5 Girsanov theorem
+5 Treynor-Black model | Treynor Black
+5 Ohlson model
+5 Myers-Majluf model | Myers Majluf
+5 Jensen and Meckling | Jensen-Meckling
+5 Kyle model | Kyle's lambda
+5 Glosten-Milgrom model | Glosten Milgrom
+5 Hotelling's rule
+6 Hemline index | Hemline theory | Skirt length theory :: The notion, credited to economist George Taylor in 1926, that skirts rise with share prices and fall with them. Nobody has made money from it.
+5 Super Bowl indicator
+5 Lipstick effect | Lipstick index
+x Theory | Model | Formula | Finance | Maths | Mathematics | Statistics | Equation :: Which one? Give it its name.
+x Pythagoras | Pythagoras' theorem | Pythagorean theorem | E = mc2 | Relativity | Evolution | Gravity | Big Bang :: A fine theory, but from a different faculty.

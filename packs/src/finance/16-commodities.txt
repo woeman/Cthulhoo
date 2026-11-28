@@ -1,0 +1,200 @@
+id: finance-commodities
+text: Name a commodity traded on world markets.
+flavor: Dug up, drilled out, harvested, shipped. The earth keeps a ledger too, and it never forgives a debt.
+rules: Any raw material or farm product bought and sold in bulk on world markets: metals, energy, crops and livestock.
+section: Markets
+---
+1 Gold
+1 Oil | Crude oil | Crude | Petroleum | Brent | Brent crude | WTI | West Texas Intermediate | Petrol | Black gold
+1 Iron ore | Iron
+1 Coal | Thermal coal | Coking coal | Metallurgical coal | Met coal | Black coal
+1 Wheat
+1 Silver
+1 Natural gas | Gas | LNG | Liquefied natural gas
+2 Copper
+2 Wool
+2 Beef | Cattle | Live cattle | Feeder cattle
+2 Coffee | Arabica | Robusta | Coffee beans
+2 Sugar | Raw sugar | Cane sugar
+2 Lithium | Spodumene
+2 Cotton
+2 Corn | Maize
+2 Aluminium | Aluminum | Alumina | Bauxite
+2 Uranium | Yellowcake
+2 Rice | Rough rice
+2 Diamonds | Diamond
+2 Platinum
+2 Nickel
+2 Soybeans | Soy | Soya | Soya beans | Soybean
+2 Cocoa | Cacao
+2 Timber | Lumber | Wood | Woodchips | Logs
+2 Barley
+2 Steel
+2 Wine
+2 Lamb | Sheep | Mutton | Sheepmeat
+2 Milk | Dairy | Milk powder | Whole milk powder | Butter | Cheese
+3 Zinc
+3 Lead
+3 Tin
+3 Palladium
+3 Cobalt
+3 Rare earths | Rare earth elements | Neodymium | Rare earth
+3 Canola | Rapeseed
+3 Oats
+3 Sorghum
+3 Palm oil
+3 Rubber | Natural rubber
+3 Orange juice | Frozen concentrated orange juice | FCOJ | OJ
+3 Pork | Lean hogs | Hogs | Pork bellies | Pigs | Live hogs
+3 Diesel | Gasoline | Heating oil | Gas oil | Jet fuel | Fuel oil | Petrol and diesel | Gasoil
+3 Ethanol
+3 Electricity | Power
+3 Carbon | Carbon credits | Carbon permits | Emissions allowances
+3 Salt
+3 Tea
+3 Tobacco
+3 Potash
+3 Phosphate | Phosphate rock | Fertiliser | Fertilizer | Urea
+3 Manganese
+3 Mineral sands | Zircon | Rutile | Ilmenite | Titanium
+3 Tungsten
+3 Chickpeas | Lentils | Pulses | Lupins
+3 Salmon
+3 Opals | Opal
+3 Pearls | Pearl
+3 Hides | Leather | Skins
+3 Chicken | Poultry | Eggs
+3 Propane | LPG | Butane | Ethane | Naphtha
+3 Cement
+3 Sand
+3 Water
+3 Spices | Pepper | Black pepper
+3 Bitcoin
+4 Rhodium
+4 Iridium
+4 Ruthenium
+4 Molybdenum | Moly
+4 Vanadium
+4 Chromium | Chrome | Chromite
+4 Antimony
+4 Graphite
+4 Magnesium
+4 Silicon
+4 Gallium
+4 Germanium
+4 Indium
+4 Tantalum | Coltan
+4 Niobium
+4 Bismuth
+4 Tellurium
+4 Selenium
+4 Cadmium
+4 Mercury | Quicksilver
+4 Helium
+4 Soybean oil | Soyabean oil | Soy oil
+4 Soybean meal | Soymeal
+4 Sunflower oil | Sunflower seed
+4 Olive oil
+4 Coconut oil | Copra
+4 Cottonseed
+4 Rye
+4 Millet
+4 Durum | Durum wheat
+4 Spring wheat | Hard red winter wheat | Kansas wheat
+4 Azuki beans | Adzuki beans | Red beans
+4 Potatoes | Potato
+6 Onions | Onion | Onion futures :: Two traders cornered the Chicago onion market in 1955 and crashed it. Since 1958 it has been illegal to trade onion futures in the United States.
+4 Apples
+4 Bananas
+4 Peanuts | Groundnuts
+4 Almonds
+4 Macadamias | Macadamia
+4 Cashews
+4 Vanilla
+4 Saffron
+4 Cinnamon | Nutmeg | Cloves
+4 Hops
+4 Malt
+4 Honey
+4 Silk | Raw silk
+4 Jute
+4 Flax | Linseed
+4 Hemp
+4 Sisal
+4 Pulp | Wood pulp
+4 Plywood
+4 Skim milk powder | Whey
+4 Class III milk
+4 Shrimp | Prawns
+4 Tuna
+4 Rock lobster | Lobster | Crayfish
+4 Abalone
+4 Fishmeal
+4 Tallow | Lard
+4 Feeder lambs | Live sheep
+4 Kangaroo
+4 Guano
+4 Sulphur | Sulfur
+4 Soda ash
+4 Ammonia
+4 Methanol
+4 Polyethylene | Plastics | Polypropylene | PVC
+4 Bitumen | Asphalt
+4 Uranium oxide | U3O8
+4 Hydrogen | Green hydrogen
+4 Kerosene
+4 Coke | Petroleum coke | Petcoke
+4 Scrap metal | Scrap steel | Scrap
+4 Rebar | Hot rolled coil | Steel rebar
+4 Pig iron
+4 Ferrochrome | Ferrosilicon | Ferromanganese
+4 Lithium carbonate | Lithium hydroxide
+4 Freight | Shipping
+4 Ivory
+4 Furs | Fur | Beaver pelts
+4 Whale oil
+4 Indigo
+4 Opium
+4 Ice
+4 Amber
+4 Jade
+4 Emeralds | Rubies | Sapphires | Gemstones
+4 Sandalwood
+4 Frankincense | Myrrh
+4 Tulips | Tulip bulbs
+5 Osmium
+5 Rhenium
+5 Hafnium
+5 Scandium
+5 Yttrium
+5 Lanthanum
+5 Cerium
+5 Praseodymium
+5 Dysprosium
+5 Terbium
+5 Europium
+5 Beryllium
+5 Zirconium
+5 Strontium
+5 Caesium | Cesium
+5 Rubidium
+5 Thorium
+5 Fluorspar | Fluorite
+5 Barite | Baryte
+5 Kaolin
+5 Diatomite
+5 Garnet
+6 Trepang | Sea cucumber | Bêche-de-mer | Beche-de-mer :: Makassan fishermen sailed to northern Australia for it from at least the 1700s and traded with Yolngu people: Australia's first export industry.
+5 Cochineal
+5 Shellac | Lac
+5 Gum arabic
+5 Carnauba wax | Beeswax
+5 Quinine | Cinchona
+5 Cowrie shells | Cowries
+5 Nutmeg and mace | Mace
+5 Dried cocoons | Silk cocoons
+5 Broiler chickens
+x Shares | Stocks | Bonds | Property | Real estate | Houses | Currency | Dollars | US dollar | Money | Cash | ETFs | Options | Futures :: A financial asset, not a raw material. Commodities come out of the ground or off the farm.
+x Cars | iPhones | Phones | Computers | Clothes | Furniture | Televisions | Planes | Ships | Machinery | Medicines :: A manufactured product. Each one differs; a commodity is the same whoever sells it.
+x Commodity | Commodities | Metals | Minerals | Energy | Agriculture | Grains | Crops | Livestock | Resources | Raw materials | Soft commodities | Precious metals | Base metals | Food | Meat :: That is a whole family. Name one member.
+x Education | Tourism | Services | Banking | Software :: A service: a big export, but nobody ships it by the tonne.

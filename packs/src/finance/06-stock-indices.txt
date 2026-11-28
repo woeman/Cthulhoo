@@ -1,0 +1,199 @@
+id: finance-stock-indices
+text: Name a stock market index.
+flavor: One number to say how the whole market feels today. It never mentions what it is afraid of.
+rules: Any share market index, anywhere in the world. Volatility and bond indices count at depth. An exchange on its own is not an index.
+section: Markets
+---
+1 S&P 500 | S and P 500 | SP500 | S&P | Standard & Poor's 500 | Standard and Poor's 500 | SPX | S&P500 | The S&P
+1 Dow Jones | Dow | DJIA | Dow Jones Industrial Average | The Dow | Dow 30 | Dow Jones Industrial | Dow Jones Index
+1 ASX 200 | S&P/ASX 200 | XJO | ASX200 | S&P ASX 200 | The ASX 200
+1 Nasdaq Composite | Nasdaq | NASDAQ Index | IXIC | The Nasdaq
+2 All Ordinaries | All Ords | XAO | All Ordinaries Index | The All Ords
+2 FTSE 100 | FTSE | Footsie | UKX | FTSE100 | The Footsie
+2 Nikkei 225 | Nikkei | Nikkei Index | Nikkei Stock Average | N225
+2 Nasdaq 100 | Nasdaq-100 | NDX
+2 Hang Seng | Hang Seng Index | HSI
+3 DAX | DAX 40 | DAX 30 | Deutscher Aktienindex | German DAX
+3 CAC 40 | CAC | CAC40 | CAC Quarante
+3 Russell 2000 | Russell | RUT | Russell 2000 Index
+3 ASX 300 | S&P/ASX 300 | XKO
+3 ASX 50 | S&P/ASX 50 | XFL
+3 ASX 100 | S&P/ASX 100 | XTO
+3 ASX 20 | S&P/ASX 20 | XTL
+3 Small Ordinaries | Small Ords | XSO | S&P/ASX Small Ordinaries
+3 VIX | Volatility Index | Fear Index | Cboe Volatility Index | Fear Gauge
+3 NZX 50 | S&P/NZX 50 | NZ50 | NZX50
+3 Shanghai Composite | SSE Composite | Shanghai Index | Shanghai Composite Index
+3 MSCI World | MSCI World Index
+3 Euro Stoxx 50 | EURO STOXX 50 | Eurostoxx 50 | Stoxx 50 | SX5E | Eurostoxx
+3 Sensex | BSE Sensex | S&P BSE Sensex | BSE 30
+3 Nifty 50 | Nifty | NSE Nifty | Nifty Fifty
+3 KOSPI | Korea Composite Stock Price Index | KOSPI Composite
+4 TSX Composite | S&P/TSX Composite | S&P/TSX | TSX Composite Index | TSX
+4 FTSE 250 | FTSE250
+4 FTSE All-Share | FTSE All Share | All-Share
+4 FTSE AIM
+4 Topix | TOPIX | Tokyo Stock Price Index
+4 CSI 300 | CSI300 | China Securities Index 300
+4 Shenzhen Component | SZSE Component | Shenzhen Composite
+4 Hang Seng Tech | Hang Seng TECH Index
+4 Straits Times Index | STI | Straits Times | FTSE Straits Times
+4 Taiex | TAIEX | Taiwan Weighted | Taiwan Capitalization Weighted Stock Index
+4 Ibex 35 | IBEX | IBEX35
+4 FTSE MIB | MIB | FTSE MIB Index
+4 SMI | Swiss Market Index
+4 AEX | AEX Index | Amsterdam Exchange Index
+4 Stoxx Europe 600 | STOXX 600 | Stoxx 600 | SXXP
+4 Bovespa | Ibovespa | Bovespa Index | IBOV
+4 Russell 1000
+4 Russell 3000
+4 Wilshire 5000 | Wilshire | Wilshire 5000 Total Market Index
+4 S&P 100 | OEX
+4 S&P MidCap 400 | S&P 400 | S&P Midcap 400
+4 S&P SmallCap 600 | S&P 600
+4 Dow Jones Transportation Average | Dow Transports | DJTA | Dow Jones Transports
+4 Dow Jones Utility Average | Dow Utilities | DJUA
+4 NYSE Composite | NYA
+4 MSCI Emerging Markets | MSCI EM | MSCI Emerging Markets Index
+4 MSCI ACWI | MSCI All Country World Index | ACWI | MSCI All Country World
+4 MSCI EAFE | EAFE
+4 FTSE All-World | FTSE All World | FTSE Global All Cap
+4 Emerging Companies Index | S&P/ASX Emerging Companies | XEC
+4 ASX All Technology | S&P/ASX All Technology Index | XTX | All Tech Index
+4 ASX 200 Financials | XFJ | S&P/ASX 200 Financials
+4 ASX 200 Resources | XJR | S&P/ASX 200 Resources
+4 ASX 200 A-REIT | XPJ | A-REIT Index | S&P/ASX 200 A-REIT
+4 ASX MidCap 50 | S&P/ASX MidCap 50 | XMD
+4 All Australian 50 | S&P/ASX All Australian 50
+4 ASX VIX | A-VIX | S&P/ASX 200 VIX | XVI
+4 PHLX Semiconductor | SOX | Philadelphia Semiconductor Index | Semiconductor Index
+4 KOSDAQ | KOSDAQ Composite
+4 MOEX Russia Index | MOEX | RTS Index | RTS
+4 Tadawul All Share | TASI
+4 JSE Top 40 | FTSE/JSE Top 40 | JSE All Share
+4 OMX Stockholm 30 | OMXS30 | OMX 30
+4 BEL 20 | BEL20
+4 PSI 20 | PSI-20
+4 ATX | Austrian Traded Index
+4 ISEQ | ISEQ 20 | ISEQ Overall
+4 OBX | OBX Index | Oslo OBX
+4 OMX Copenhagen 25 | OMXC25 | OMX Copenhagen 20 | C25
+4 OMX Helsinki 25 | OMXH25
+4 WIG20 | WIG | WIG 20
+4 BIST 100 | XU100 | Borsa Istanbul 100
+4 TA-35 | TA 35 | Tel Aviv 35 | TA-125
+4 MDAX
+4 TecDAX
+4 SDAX
+4 SBF 120
+4 FTSE 350
+4 FTSE SmallCap
+4 IPC | S&P/BMV IPC | Mexican IPC | Indice de Precios y Cotizaciones
+4 Merval | MERVAL | S&P Merval
+4 IPSA | S&P IPSA
+4 KLCI | FTSE Bursa Malaysia KLCI | Kuala Lumpur Composite Index
+4 SET Index | SET50 | SET 50
+4 Jakarta Composite | IDX Composite | JCI | IHSG
+4 PSEi | PSE Composite | Philippine Stock Exchange Index
+4 VN-Index | VN Index | VNINDEX | VN30
+4 KSE 100 | KSE-100 | Karachi 100
+4 Nikkei 400 | JPX-Nikkei 400 | JPX Nikkei 400
+4 Hang Seng China Enterprises | HSCEI | H-shares Index
+4 FTSE China A50 | China A50 | A50
+4 SSE 50 | Shanghai 50
+4 ChiNext Index | ChiNext
+4 STAR 50 | SSE STAR 50
+5 Dow Jones Global Titans 50 | Global Titans
+5 S&P Global 100
+5 S&P Global 1200
+5 S&P Europe 350
+5 S&P Asia 50
+5 S&P Latin America 40
+5 Dow Jones Sustainability Index | DJSI | Dow Jones Sustainability World Index
+5 FTSE4Good | FTSE 4 Good
+5 MSCI Australia | MSCI Australia 200
+5 MSCI Asia ex Japan | MSCI AC Asia ex Japan
+5 MSCI Europe
+5 MSCI USA
+5 MSCI China
+5 MSCI Frontier Markets
+5 Nasdaq Biotechnology Index | NBI
+5 Nasdaq Financial 100
+5 NYSE Arca Gold Bugs | HUI | Gold Bugs Index
+5 NYSE FANG+ | FANG+ | NYSE FANG Plus
+5 KBW Bank Index | BKX
+5 Value Line Composite | Value Line
+5 CRSP US Total Market | CRSP
+5 Dow Jones US Total Stock Market | Dow Jones Total Market
+5 S&P 500 Equal Weight
+5 S&P Composite 1500 | S&P 1500
+5 MOVE Index | MOVE
+5 Bloomberg Global Aggregate | Global Aggregate | Global Agg | Bloomberg AusBond Composite | AusBond
+5 Baltic Dry Index | Baltic Dry | BDI
+5 Bloomberg Commodity Index | BCOM
+5 S&P GSCI | GSCI | Goldman Sachs Commodity Index
+5 CRB Index | CRB
+5 ASX 200 Banks | XBK
+5 ASX 200 Materials | XMJ
+5 ASX 200 Energy | XEJ
+5 ASX 200 Health Care | XHJ
+5 ASX 200 Information Technology | XIJ
+5 ASX 200 Consumer Staples | XSJ
+5 ASX 200 Consumer Discretionary | XDJ
+5 ASX 200 Industrials | XNJ
+5 ASX 200 Utilities | XUJ
+5 ASX 200 Communication Services | XTJ
+5 ASX All Ordinaries Gold | XGD | All Ords Gold | Gold Index
+5 ASX 300 Metals and Mining | XMM
+5 NZX 10
+5 NZX All | NZX All Index
+5 Hang Seng Composite
+5 Sensex 50
+5 Nifty Bank | Bank Nifty
+5 Nifty Next 50
+5 BSE 500
+5 Colombo All Share | ASPI
+5 DSEX
+5 EGX 30
+5 NSE All Share | NGX All Share
+5 NSE 20 | Nairobi 20
+5 MASI | Moroccan All Shares Index
+5 DFM General Index | DFMGI
+5 ADX General
+5 QE Index | QSE Index
+5 Tehran TEDPIX | TEDPIX
+5 PX Index | PX
+5 BUX
+5 BET | BET Index
+5 SOFIX
+5 CROBEX
+5 SBITOP
+5 BELEX15
+5 OMX Iceland 15 | OMXI15 | OMX Iceland 10
+5 OMX Tallinn | OMXT
+5 OMX Riga | OMXR
+5 OMX Vilnius | OMXV
+5 PFTS Index
+5 KASE Index
+5 MSE Top 20
+5 COLCAP | MSCI COLCAP
+5 S&P/BVL Peru General | IGBVL
+5 IBC Caracas | IBC
+5 S&P/TSX 60 | TSX 60
+5 S&P/TSX Venture Composite | TSX Venture Composite
+5 Nikkei 500
+5 TSE Mothers | Mothers Index | TSE Growth 250
+5 JASDAQ
+5 FTSE TWSE Taiwan 50 | Taiwan 50
+5 KRX 100
+5 KOSPI 200
+5 Athex Composite | Athens General | ATHEX Composite
+5 LuxX
+5 MSCI KLD 400 Social | Domini 400 Social Index | KLD 400
+6 Dow Jones Railroad Average | Dow Railroad Average | Railroad Average :: Charles Dow's first index, of 1884, was mostly railways. It survives today as the Dow Jones Transportation Average.
+6 Big Mac Index | Burgernomics :: The Economist's 1986 joke that stuck: it compares burger prices to judge whether currencies are fairly valued. An index, though not of shares.
+x ASX | NYSE | New York Stock Exchange | London Stock Exchange | LSE | Tokyo Stock Exchange | Wall Street | Euronext | HKEX | Hong Kong Stock Exchange | Shanghai Stock Exchange :: That is an exchange, where shares trade. Name an index that measures one.
+x Index | Stock index | Share index | Benchmark | Stock market :: Which one? Give the index its name.
+x CPI | Consumer Price Index | GDP | Inflation | PMI :: An economic indicator rather than a share market index.
+x Bitcoin | Gold | Oil | AUD | USD :: Something you can buy, not an index that measures a market.
+x SPY | QQQ | VAS | VGS | A200 | IVV | NDQ | VOO | IOZ | STW | VTI :: An exchange-traded fund that follows an index. Name the index it follows.

@@ -1,0 +1,15 @@
+id: finance-nyse-companies
+text: Name a company listed on the New York Stock Exchange.
+flavor: The opening bell has rung every morning since 1903. Nobody remembers agreeing to keep ringing it.
+rules: Any company with ordinary shares on the NYSE. The long tail follows the exchange's listings as they stood in November 2026.
+section: Listed companies
+source: NYSE listings in the Nasdaq Trader symbol directory (via the public datasets/nyse-other-listings snapshot), November 2026.
+listing: nyse-listed.csv
+curated: us-companies.inc
+---
+6 ED | Consolidated Edison | Con Edison | ConEd | Con Ed :: Through its ancestor the New York Gas Light Company, listed in 1824, it is said to be the longest continuously listed stock on the exchange.
+6 BK | BNY | Bank of New York Mellon | BNY Mellon | Bank of New York :: Founded by Alexander Hamilton in 1784. In 1792 it became the first company whose shares traded on the new exchange.
+x S&P 500 | Dow Jones | Dow | DJIA | Russell 2000 :: That is an index of many companies. Name one company.
+x Apple | Microsoft | Amazon | Google | Alphabet | Meta | Facebook | Tesla | Nvidia | Netflix | Intel | Costco | Starbucks | PayPal | Adobe | Pepsi | PepsiCo | Airbnb | Zoom | Atlassian | Palantir | eBay | Cisco | AMD :: Listed in New York, but on the other exchange: the Nasdaq.
+x Commonwealth Bank | CBA | Woolworths | Telstra | Qantas | Westpac | ANZ | NAB | Coles | Wesfarmers | CSL | Macquarie | Fortescue | Xero | Canva :: Not on the NYSE. Most of these live on the ASX.
+x OpenAI | SpaceX | Stripe | TikTok | ByteDance | Anthropic | Ikea | Lego | Samsung | Huawei | Twitter | X :: Not listed on the NYSE.

@@ -1,0 +1,566 @@
+id: finance-asx-companies
+text: Name a company listed on the ASX.
+flavor: The board flickers green and red. Some of these names will outlive us. Some already haven't.
+rules: Any company that is, or once was, listed on the Australian Securities Exchange. Names and three-letter codes both count.
+---
+1 Commonwealth Bank | CBA | CommBank | Commonwealth Bank of Australia | Comm Bank | Commbank | Commonwealth
+1 BHP | BHP Group | BHP Billiton | Broken Hill Proprietary | The Big Australian | Broken Hill Proprietary Company
+1 Woolworths | WOW | Woolworths Group | Woolies | Woolworths Limited
+1 Telstra | TLS | Telstra Group | Telstra Corporation | Telecom Australia
+1 Qantas | QAN | Qantas Airways
+1 Westpac | WBC | Westpac Banking Corporation | Bank of New South Wales
+1 ANZ | Australia and New Zealand Banking Group | ANZ Bank | ANZ Group | ANZ Banking Group
+1 NAB | National Australia Bank
+1 Coles | COL | Coles Group | Coles Myer | Coles Supermarkets
+1 Wesfarmers | WES | Bunnings | Kmart | Officeworks | Target | Bunnings Warehouse | Kmart Australia | Target Australia
+1 Rio Tinto | RIO | CRA | Conzinc Riotinto
+1 Macquarie | MQG | Macquarie Group | Macquarie Bank | MacBank
+2 CSL | Commonwealth Serum Laboratories | CSL Limited | CSL Behring
+2 Fortescue | FMG | Fortescue Metals | Fortescue Metals Group | FMG Fortescue
+2 Woodside | WDS | Woodside Energy | Woodside Petroleum | WPL
+2 Santos | STO
+2 Origin Energy | ORG | Origin
+2 AGL | AGL Energy | Australian Gas Light | Australian Gas Light Company
+2 JB Hi-Fi | JBH | JB HiFi | JB | JB Hi Fi
+2 Harvey Norman | HVN | Harvey Norman Holdings
+2 Transurban | TCL | Transurban Group
+2 Goodman Group | GMG | Goodman
+2 Afterpay | APT | Afterpay Touch | Afterpay Touch Group
+2 Xero | XRO
+2 Domino's | DMP | Domino's Pizza Enterprises | Dominos | Dominos Pizza
+2 Flight Centre | FLT | Flight Centre Travel Group
+2 REA Group | REA | realestate.com.au | Realestate
+2 Seek | SEK
+2 Medibank | MPL | Medibank Private
+2 Suncorp | SUN | Suncorp Group | Suncorp Metway
+2 QBE | QBE Insurance | QBE Insurance Group
+2 IAG | Insurance Australia Group | NRMA Insurance
+2 AMP | Australian Mutual Provident | AMP Limited | Australian Mutual Provident Society
+2 Bendigo Bank | BEN | Bendigo and Adelaide Bank | Bendigo
+2 Bank of Queensland | BOQ
+2 Myer | MYR | Myer Holdings
+3 Singtel | Optus | SGT | Singapore Telecommunications | SingTel Optus
+2 Newcrest | NCM | Newcrest Mining
+2 Crown Resorts | CWN | Crown | Crown Casino | Crown Limited
+2 Tabcorp | TAH | Tabcorp Holdings | TAB
+2 Star Entertainment | SGR | The Star | Star Entertainment Group | Star Casino | Echo Entertainment
+2 Aristocrat | ALL | Aristocrat Leisure
+2 Cochlear | COH
+2 ResMed | RMD
+2 Sonic Healthcare | SHL | Sonic
+2 Ramsay Health Care | RHC | Ramsay | Ramsay Healthcare
+2 Brambles | BXB | CHEP
+2 Scentre Group | SCG | Scentre | Westfield | Westfield Group | Westfield Holdings
+2 Stockland | SGP
+2 Mirvac | MGR | Mirvac Group
+2 Lendlease | LLC | Lend Lease | Lendlease Group
+2 Virgin Australia | VGN | VAH | Virgin Blue | Virgin Australia Holdings
+2 Zip | ZIP | Zip Co | Zip Pay | ZipMoney | Z1P
+2 WiseTech Global | WTC | WiseTech | Wisetech
+2 Guzman y Gomez | GYG | Guzman | Guzman and Gomez | GYG Mexican
+3 South32 | S32
+3 Northern Star | NST | Northern Star Resources
+3 Evolution Mining | EVN | Evolution
+3 Mineral Resources | MIN | MinRes
+3 Pilbara Minerals | PLS | PLS Group
+3 Lynas | LYC | Lynas Rare Earths | Lynas Corporation
+3 IGO | Independence Group
+3 BlueScope | BSL | BlueScope Steel | Bluescope
+3 Orica | ORI
+3 Incitec Pivot | IPL | Dyno Nobel | DNL
+3 Amcor | AMC
+3 Orora | ORA
+3 James Hardie | JHX | James Hardie Industries
+3 Boral | BLD
+3 CSR | CSR Limited | Colonial Sugar Refining | Colonial Sugar Refining Company
+3 Adbri | ABC | Adelaide Brighton
+3 Ampol | ALD | Caltex Australia | Caltex | CTX
+3 Viva Energy | VEA
+3 APA Group | APA | Australian Pipeline Trust
+3 Aurizon | AZJ | QR National
+3 Qube | QUB | Qube Holdings
+3 Atlas Arteria | ALX
+3 Sydney Airport | SYD
+3 Auckland Airport | AIA | Auckland International Airport
+3 Computershare | CPU
+3 ASX Limited
+3 Challenger | CGF
+3 Magellan | MFG | Magellan Financial Group | Magellan Financial
+3 Perpetual | PPT
+3 Insignia Financial | IFL | IOOF
+3 Pinnacle | PNI | Pinnacle Investment Management
+3 Netwealth | NWL
+3 Hub24 | HUB
+3 Judo Bank | JDO | Judo Capital | Judo
+3 Dexus | DXS
+3 GPT | GPT Group | General Property Trust
+3 Vicinity Centres | VCX | Vicinity
+3 Charter Hall | CHC | Charter Hall Group
+3 Treasury Wine Estates | TWE | Treasury Wines | Penfolds
+3 Endeavour Group | EDV | Endeavour | Dan Murphy's | BWS
+3 Metcash | MTS | IGA
+3 Coca-Cola Amatil | CCL | Amatil
+3 A2 Milk | A2M | The a2 Milk Company | a2
+3 Bega Cheese | BGA | Bega
+3 Inghams | ING | Inghams Group | Ingham's
+3 GrainCorp | GNC
+3 Elders | ELD
+3 Nufarm | NUF
+3 Super Retail Group | SUL | Supercheap Auto | Rebel | BCF
+3 Premier Investments | PMV | Just Group | Smiggle | Peter Alexander
+3 Lovisa | LOV
+3 Kogan | KGN | Kogan.com
+3 Temple & Webster | TPW | Temple and Webster
+3 Adairs | ADH
+3 Nick Scali | NCK
+3 Accent Group | AX1 | Platypus | Hype DC
+3 Universal Store | UNI
+3 City Chic | CCX | City Chic Collective
+3 The Reject Shop | TRS | Reject Shop
+3 Breville | BRG | Breville Group
+3 ARB | ARB Corporation
+3 Bapcor | BAP | Burson | Autobarn
+3 Eagers Automotive | APE | AP Eagers | Eagers
+3 Carsales | CAR | Car Group | carsales.com | Carsales.com.au
+3 Domain | DHG | Domain Holdings | Domain Group
+3 Nine Entertainment | NEC | Nine | Channel Nine | Nine Network | Channel 9
+3 Seven West Media | SWM | Channel Seven | Seven Network | Channel 7 | Seven
+3 News Corp | NWS | News Corporation | NWSA
+3 Fairfax | FXJ | Fairfax Media | John Fairfax Holdings
+3 Southern Cross Media | SXL | Southern Cross Austereo
+3 oOh!media | OML | Ooh Media | Oohmedia
+3 TPG | TPG Telecom | TPM | Vodafone Hutchison Australia | Vodafone
+3 Vocus | VOC | Vocus Group
+3 Aussie Broadband | ABB
+3 NextDC | NXT
+3 Megaport | MP1
+3 TechnologyOne | TNE | Technology One
+3 Altium | ALU
+3 Appen | APX
+3 Life360 | 360
+3 Pro Medicus | PME
+3 Block | XYZ | SQ2 | Square
+3 Nuix | NXL
+3 Iress | IRE
+3 Link Group | LNK | Link Administration
+3 Tyro | TYR | Tyro Payments
+3 EML Payments | EML
+3 PointsBet | PBH
+3 Webjet | WEB | Web Travel Group | WJL
+3 Corporate Travel Management | CTD | CTM
+3 Helloworld | HLO | Helloworld Travel
+3 Regional Express | REX | Rex | Rex Airlines
+3 Air New Zealand | AIZ
+3 Ansell | ANN | Pacific Dunlop
+3 Fisher & Paykel Healthcare | FPH | Fisher and Paykel | Fisher & Paykel | F&P Healthcare
+3 Healius | HLS | Primary Health Care
+3 Sigma Healthcare | SIG | Sigma | Chemist Warehouse | Sigma Pharmaceuticals
+3 Australian Clinical Labs | ACL
+3 Telix | TLX | Telix Pharmaceuticals
+3 Mesoblast | MSB
+3 Nanosonics | NAN
+3 Polynovo | PNV
+3 Blackmores | BKL
+3 Reece | REH | Reece Group
+3 Reliance Worldwide | RWC
+3 GWA | GWA Group
+3 Downer | DOW | Downer EDI
+3 Worley | WOR | WorleyParsons
+3 CIMIC | CIM | Leighton | Leighton Holdings
+3 Monadelphous | MND
+3 NRW Holdings | NWH | NRW
+3 Seven Group | SVW | SGH | Seven Group Holdings | SGH Limited
+3 Washington H. Soul Pattinson | SOL | Soul Patts | Soul Pattinson | Washington H Soul Pattinson | WHSP
+3 Brickworks | BKW
+3 Cleanaway | CWY | Cleanaway Waste Management | Transpacific
+3 Sims | SGM | Sims Metal | Sims Metal Management | Sims Limited
+3 Whitehaven Coal | WHC | Whitehaven
+3 New Hope | NHC | New Hope Corporation | New Hope Coal
+3 Yancoal | YAL
+3 Beach Energy | BPT | Beach Petroleum
+3 Karoon | KAR | Karoon Energy
+3 Paladin | PDN | Paladin Energy
+3 Boss Energy | BOE
+3 Liontown | LTR | Liontown Resources
+3 Sandfire | SFR | Sandfire Resources
+3 Iluka | ILU | Iluka Resources
+3 Alumina | AWC | Alumina Limited
+3 Champion Iron | CIA
+3 Newmont | NEM
+3 Light & Wonder | LNW | Light and Wonder
+3 Steadfast | SDF | Steadfast Group
+3 AUB Group | AUB | Austbrokers
+3 NIB | NHF | nib Holdings
+3 Helia | HLI | Genworth | Genworth Mortgage Insurance Australia
+3 Ingenia | INA | Ingenia Communities
+3 Lifestyle Communities | LIC
+3 Costa Group | CGC | Costa
+3 Collins Foods | CKF
+3 Retail Food Group | RFG
+3 Bank of Western Australia | BankWest | Bankwest
+3 St George Bank | SGB | St George | St. George
+4 Oil Search | OSH
+4 AusNet | AST | AusNet Services | SP AusNet
+4 Spark Infrastructure | SKI
+4 Spark New Zealand | SPK | Telecom New Zealand
+4 Chorus | CNU
+4 Infratil | IFT
+4 Mercury NZ | MCY
+4 Meridian Energy | MEZ
+4 Contact Energy | CEN
+4 Fletcher Building | FBU
+4 SkyCity | SKC | SkyCity Entertainment
+4 Ebos | EBO | Ebos Group
+4 Arena REIT | ARF
+4 Region Group | RGN | Shopping Centres Australasia
+4 National Storage | NSR | National Storage REIT
+4 Abacus | ABG | Abacus Property | Abacus Storage King | ASK
+4 BWP Trust | BWP | Bunnings Warehouse Property Trust
+4 Centuria | CNI | Centuria Capital
+4 HomeCo | HMC | HMC Capital | Home Consortium
+4 Cromwell | CMW | Cromwell Property
+4 Growthpoint | GOZ | Growthpoint Properties
+4 Waypoint REIT | WPR
+4 Charter Hall Long WALE REIT | CLW
+4 Argo Investments | ARG | Argo
+4 Australian Foundation Investment Company | AFI | AFIC
+4 Milton Corporation | MLT | Milton
+4 WAM Capital | WAM | Wilson Asset Management
+4 L1 Capital | LSF | L1 Long Short Fund | L1 Group
+4 Platinum Asset Management | PTM | Platinum
+4 GQG Partners | GQG
+4 Regal Partners | RPL | Regal
+4 Bell Financial | BFG | Bell Financial Group | Bell Potter
+4 Liberty Financial | LFG
+4 Pepper Money | PPM
+4 Latitude | LFS | Latitude Financial
+4 Humm | HUM | Humm Group | FlexiGroup
+4 Credit Corp | CCP
+4 MyState | MYS
+4 Auswide Bank | ABA
+4 Generation Development Group | GDG
+4 PEXA | PXA
+4 Dicker Data | DDR
+4 Data#3 | DTL | Data 3
+4 Codan | CDA
+4 Austal | ASB
+4 Electro Optic Systems | EOS
+4 DroneShield | DRO
+4 Brainchip | BRN
+4 Weebit Nano | WBT
+4 Novonix | NVX
+4 Sezzle | SZL
+4 Openpay | OPY
+4 Splitit | SPT
+4 Tesserent
+4 Catapult | CAT | Catapult Sports
+4 Siteminder | SDR
+4 Hansen Technologies | HSN
+4 Infomedia | IFM
+4 Objective Corporation | OCL
+4 Gentrack | GTK
+4 Bravura | BVS | Bravura Solutions
+4 Praemium | PPS
+4 Superloop | SLC
+4 Macquarie Technology | MAQ | Macquarie Telecom
+4 Uniti | UWL | Uniti Group
+4 IDP Education | IEL | IDP
+4 G8 Education | GEM
+4 Navitas | NVT
+4 InvoCare | IVC
+4 Propel Funeral Partners | PFP
+4 Monash IVF | MVF
+4 Virtus Health | VRT
+4 Integral Diagnostics | IDX
+4 Estia Health | EHE
+4 Regis Healthcare | REG
+4 Japara | JHC
+4 Clinuvel | CUV
+4 Neuren | NEU | Neuren Pharmaceuticals
+4 Imugene | IMU
+4 Starpharma | SPL
+4 Mayne Pharma | MYX
+4 Opthea | OPT
+4 Paradigm Biopharmaceuticals | PAR
+4 EBR Systems | EBR
+4 Regis Resources | RRL
+4 Ramelius | RMS | Ramelius Resources
+4 Perseus | PRU | Perseus Mining
+4 Gold Road | GOR | Gold Road Resources
+4 De Grey | DEG | De Grey Mining
+4 Bellevue Gold | BGL
+4 Capricorn Metals | CMM
+4 Westgold | WGX | Westgold Resources
+4 Genesis Minerals | GMD
+4 St Barbara | SBM
+4 Resolute | RSG | Resolute Mining
+4 West African Resources | WAF
+4 Emerald Resources | EMR
+4 Silver Lake Resources | SLR | Vault Minerals | VAU
+4 OZ Minerals | OZL | Oz Minerals
+4 Western Mining | WMC | WMC Resources | Western Mining Corporation
+4 MIM | MIM Holdings | Mount Isa Mines
+4 North Limited | North Broken Hill
+4 Nickel Industries | NIC
+4 Western Areas | WSA
+4 Chalice | CHN | Chalice Mining
+4 Core Lithium | CXO
+4 Sayona | SYA | Sayona Mining
+4 Allkem | AKE | Orocobre | Galaxy Resources
+4 Arcadium Lithium | LTM
+4 Vulcan Energy | VUL
+4 Syrah | SYR | Syrah Resources
+4 Deterra | DRR | Deterra Royalties
+4 Mount Gibson | MGX | Mount Gibson Iron
+4 Grange Resources | GRR
+4 Coronado | CRN | Coronado Global Resources
+4 Stanmore | SMR | Stanmore Resources
+4 Deep Yellow | DYL
+4 Bannerman | BMN | Bannerman Energy
+4 Strike Energy | STX
+4 Cooper Energy | COE
+4 Senex | SXY | Senex Energy
+4 Arrow Energy
+4 Infigen | IFN | Infigen Energy
+4 Genex | GNX | Genex Power
+4 Tilt Renewables
+4 Perenti | PRN | Ausdrill
+4 Emeco | EHL
+4 Macmahon | MAH
+4 Service Stream | SSM
+4 Ventia | VNT
+4 Lycopodium | LYL
+4 Johns Lyng | JLG | Johns Lyng Group
+4 Maas Group | MGH
+4 Fleetwood | FWD
+4 SmartGroup | SIQ
+4 McMillan Shakespeare | MMS
+4 FleetPartners | FPR | Eclipx
+4 Kelsian | KLS | SeaLink
+4 Lindsay Australia | LAU
+4 Toll | TOL | Toll Holdings | Toll Group
+4 Pact Group | PGH
+4 Pacific Brands | PBG
+4 Billabong | BBG
+4 Kathmandu | KMD | KMD Brands
+4 Michael Hill | MHJ
+4 David Jones | DJS
+4 Baby Bunting | BBN
+4 Beacon Lighting | BLX
+4 Dusk | DSK
+4 Cettire | CTT
+4 Step One | STP
+4 Best & Less | BST
+4 Mosaic Brands | MOZ | Noni B
+4 Autosports Group | ASG
+4 Peter Warren | PWR
+4 GUD Holdings | GUD | Amotiv | AOV
+4 PWR Holdings | PWH
+4 Ridley | RIC | Ridley Corporation
+4 Select Harvests | SHV
+4 Australian Agricultural Projects
+4 Tassal | TGR
+4 Huon | HUO | Huon Aquaculture
+4 Freedom Foods | FNP | Noumi | NOU
+4 Bubs | BUB | Bubs Australia
+4 Synlait | SM1
+4 Fonterra | FSF
+4 United Malt | UMG
+4 Lark Distilling | LRK
+4 Australian Vintage | AVG
+4 Jumbo Interactive | JIN | Oz Lotteries
+4 The Lottery Corporation | TLC | Lottery Corporation | Tatts | Tatts Group | Tattersall's | Tatts Lotteries
+4 Ainsworth | AGI | Ainsworth Game Technology
+4 Betr | BBT | BlueBet
+4 Event Hospitality | EVT | Event Cinemas | Amalgamated Holdings
+4 Village Roadshow | VRL
+4 Ardent Leisure | ALG | Dreamworld | Coast Entertainment
+4 Experience Co | EXP
+4 HT&E | HT1 | ARN Media | A1N | APN News & Media
+4 Ten Network | TEN | Channel Ten | Network Ten | Channel 10
+4 Prime Media | PRT
+4 Austar
+4 IVE Group | IGL
+4 Enero | EGG
+4 Alliance Aviation | AQZ
+4 ConnectEast
+4 Asciano | AIO
+4 Patrick Corporation | Patrick
+4 Dalrymple Bay | DBI | Dalrymple Bay Infrastructure
+4 Envestra
+4 Alinta | Alinta Energy
+4 Energy Developments
+4 Duet | DUE | Duet Group
+4 Babcock & Brown | BNB | Babcock and Brown
+4 Allco | Allco Finance Group
+4 Centro | CNP | Centro Properties
+4 ABC Learning | ABS | ABC Learning Centres
+4 HIH | HIH Insurance
+4 One.Tel | OneTel | One Tel
+4 Dick Smith | DSH | Dick Smith Holdings | Dick Smith Electronics
+4 Slater and Gordon | Slater & Gordon
+4 Blue Sky | Blue Sky Alternative Investments | BLA
+4 iSignthis | ISX
+4 Big Un | BIG
+4 Sirtex | SRX | Sirtex Medical
+4 Vita Group | VTG
+4 Bellamy's | BAL | Bellamys | Bellamy's Australia
+4 Capilano | CZZ | Capilano Honey
+4 Greencross | GXL
+4 Spotless | SPO | Spotless Group
+4 Programmed | PRG | Programmed Maintenance
+4 Nylex
+4 Pasminco
+4 Ansett | Ansett Transport Industries | Ansett Airlines
+4 Arnott's | Arnotts
+4 Foster's | FGL | Fosters | Foster's Group | Elders IXL | Carlton and United Breweries | CUB
+4 Lion Nathan | LNN
+4 Southcorp
+4 BRL Hardy
+4 Goodman Fielder | GFF
+4 Burns Philp | BPC
+4 Brashs
+4 Email Limited | Email
+4 Pioneer International | Pioneer Concrete
+4 Rinker | RIN | Rinker Group
+4 Mayne Nickless | Mayne Group | Mayne
+4 TAB Limited
+4 Jupiters
+4 Publishing and Broadcasting Limited | PBL | Consolidated Media Holdings | Consolidated Press
+4 Bond Corporation | Bond Corp
+4 Qintex
+4 Colonial | Colonial Mutual | Colonial First State | Colonial Limited
+4 Advance Bank
+4 Adelaide Bank
+4 RAMS | RAMS Home Loans
+4 GIO | GIO Australia
+4 Promina
+4 AXA Asia Pacific | AXA | National Mutual
+4 Tower
+4 Henderson | Janus Henderson | JHG
+4 BT Investment Management | BTT | Pendal | PDL | BT
+4 Platinum Capital
+4 Hunter Hall
+4 Zimplats | ZIM
+4 Lihir | LGL | Lihir Gold
+4 Normandy Mining | Normandy
+4 Placer Dome
+4 Equinox | Equinox Minerals
+4 Sundance Resources
+4 Atlas Iron | AGO
+4 Arrium | ARI | OneSteel
+4 Paladin Resources
+4 Energy Resources of Australia | ERA
+4 Linc Energy
+4 Nexus Energy
+4 AWE | Australian Worldwide Exploration
+4 Roc Oil
+4 Drillsearch
+4 Aquila Resources
+4 Macarthur Coal
+4 Felix Resources
+4 Gloucester Coal
+4 Centennial Coal
+4 Riversdale Mining
+4 AngloGold Ashanti | AGG
+4 Alcoa | AAI
+4 Unibail-Rodamco-Westfield | URW
+4 Virgin Money UK | VUK | CYBG | Clydesdale Bank
+4 Airtasker | ART
+4 Hipages | HPG
+4 Booktopia | BKG
+4 Redbubble | RBL | Articore | ATG
+4 Marley Spoon | MMM
+4 Youfoodz
+4 Carbon Revolution
+4 MyDeal
+4 Adore Beauty | ABY
+4 BWX | Sukin
+4 McPherson's | MCP
+4 Vitaco
+4 Pacific Smiles | PSQ
+4 1300SMILES | ONT
+4 Healthia
+4 Capitol Health | CAJ
+4 Cogstate | CGS
+4 Volpara
+4 4DMedical | 4DX
+4 PainChek
+4 Botanix
+4 Race Oncology
+4 Chimeric
+4 Immutep | IMM
+4 Bionomics
+4 Pharmaxis
+4 Prana Biotechnology
+4 Avita | AVH | Avita Medical
+4 Orthocell
+4 Aroa | ARX
+4 Compumedics
+4 Impedimed | IPD
+5 Poseidon Nickel | POS
+5 Lang Corporation
+5 TNT | Thomas Nationwide Transport
+5 Ampolex
+5 Comalco
+5 Ashton Mining
+5 Bougainville Copper | BOC
+5 Mount Lyell | Mount Lyell Mining and Railway Company
+5 Mount Morgan | Mount Morgan Gold Mining Company
+5 Great Boulder
+5 Elder Smith | Elder Smith Goldsbrough Mort
+5 Dalgety
+5 Tooth and Co | Tooth & Co | Tooth
+5 Tooheys
+5 Castlemaine Perkins | Castlemaine Tooheys
+5 Swan Brewery
+5 Bell Group | Bell Resources
+5 Ariadne | ARA
+5 Industrial Equity | Industrial Equity Limited
+5 Adelaide Steamship | Adsteam | Adelaide Steamship Company
+5 Rothwells
+5 Spedley
+5 Westmex
+5 Girvan
+5 Hooker Corporation
+5 Harris Scarfe
+5 Clive Peeters
+5 Angus & Coote | Angus and Coote
+5 Grace Bros | Grace Brothers
+5 Waltons
+5 H.C. Sleigh | HC Sleigh | Golden Fleece
+5 Repco
+5 Humes
+5 ACI | Australian Consolidated Industries
+5 ICI Australia | ICIANZ
+5 Kiwi | Nicholas Kiwi
+5 Herald and Weekly Times | HWT
+5 David Syme
+5 Kern Corporation
+5 Sons of Gwalia
+5 Minsec | Mineral Securities Australia
+5 Tasminex
+5 Nabarlek | Queensland Mines
+5 Pancontinental | Pancontinental Mining
+5 Great Southern | Great Southern Plantations
+5 Timbercorp
+5 City Pacific
+5 MFS | MFS Limited | Octaviar
+5 Rubicon
+5 Arasor
+5 Sausage Software
+5 LibertyOne
+5 Davnet
+5 Solution 6
+5 Ecorp
+5 Looksmart
+5 Open Telecommunications
+5 Strathfield Car Radios | Strathfield
+5 Compass Airlines
+5 Hazelton
+5 Skywest | Skywest Airlines
+6 Poseidon | Poseidon NL :: In the nickel boom of 1969 its shares ran from 80 cents to about $280 in five months, then collapsed. Australians still call such a frenzy a Poseidon.
+6 Australian Agricultural Company | AACo | AAC | AA Co :: Founded in 1824 by an Act of the British Parliament to raise fine wool, and still running cattle. It is Australia's oldest continuously operating company.
+x ASX 200 | All Ords | All Ordinaries | ASX 300 | ASX 50 | ASX 100 :: That is an index of many companies. Name one company.
+x Aldi | Australia Post | NBN | NBN Co | ABC | SBS | Vegemite | Hungry Jack's | Hungry Jacks | Cotton On | Linfox | Visy | Aussie Disposals | 7-Eleven | Bing Lee | The Good Guys | Rip Curl | Boost Juice | Hancock | Hancock Prospecting | Canva | Harris Farm | Aussie Home Loans | Foxtel | Roy Hill | Snowy Hydro | Medicare | Centrelink :: Not listed on the ASX in its own right: it is privately owned, government owned or part of a bigger listed company.
+x Atlassian | Apple | Google | Alphabet | Microsoft | Amazon | Tesla | Nvidia | Meta | Facebook | Netflix | Samsung | Toyota | McDonald's | Nike | Disney | Coca-Cola | Walmart | Costco | Starbucks :: Listed overseas, not on the ASX.

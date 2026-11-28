@@ -1,0 +1,40 @@
+{
+ "packs": [
+  {
+   "id": "finance",
+   "name": "Finance",
+   "title": "The Ledger of Drowned Fortunes",
+   "blurb": "Markets, listed companies, banks, ratios and the people who moved them.",
+   "order": 1,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "finance.json",
+   "prompts": 16,
+   "answers": 10904
+  },
+  {
+   "id": "economics",
+   "name": "Economics",
+   "title": "The Invisible Hand Below",
+   "blurb": "Economists, indicators, taxes, trade and the institutions that steer it all.",
+   "order": 2,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "economics.json",
+   "prompts": 0,
+   "answers": 0
+  },
+  {
+   "id": "ethics",
+   "name": "Business Ethics",
+   "title": "The Weighing of Souls",
+   "blurb": "Moral philosophy, scandals, fallacies, watchdogs and doing the right thing.",
+   "order": 3,
+   "asOf": "2026-11-28",
+   "group": "Business",
+   "file": "ethics.json",
+   "prompts": 0,
+   "answers": 0
+  }
+ ]
+}
