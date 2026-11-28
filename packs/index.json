@@ -119,6 +119,18 @@
    "file": "marketing.json",
    "prompts": 8,
    "answers": 868
+  },
+  {
+   "id": "law",
+   "name": "Business Law",
+   "title": "The Fine Print",
+   "blurb": "Courts, contracts, torts, statutes, landmark cases and the shapes a business can take.",
+   "group": "Business",
+   "order": 11,
+   "asOf": "2026-11-28",
+   "file": "law.json",
+   "prompts": 8,
+   "answers": 730
   }
  ]
 }

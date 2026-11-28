@@ -1,0 +1,102 @@
+id: law-torts-crimes
+text: Name a tort or a crime.
+flavor: Every wrong has a name. Some have two, depending on who is suing.
+rules: Any civil wrong or criminal offence known to the law, old or new.
+section: Wrongs
+---
+1 Murder | Homicide
+1 Theft | Stealing | Larceny | Robbery | Armed robbery | Burglary | Break and enter | Shoplifting
+1 Assault | Battery | Assault and battery | Common assault | Grievous bodily harm | GBH | Actual bodily harm
+1 Fraud | Deception | Obtaining by deception | Embezzlement
+1 Negligence
+1 Defamation | Libel | Slander
+2 Trespass | Trespass to land | Trespassing
+2 Manslaughter | Industrial manslaughter | Workplace manslaughter
+2 Arson
+2 Kidnapping | Abduction | False imprisonment
+2 Speeding | Drink driving | Drunk driving | DUI | Dangerous driving | Traffic offence
+2 Treason | Sedition | Espionage
+2 Perjury
+2 Bribery | Corruption
+2 Blackmail | Extortion
+2 Vandalism | Criminal damage | Malicious damage | Property damage | Graffiti
+2 Drug trafficking | Drug possession | Drug dealing | Possession | Supply
+2 Sexual assault | Rape | Indecent assault
+2 Money laundering
+2 Insider trading
+2 Tax evasion | Tax fraud
+2 Stalking | Harassment | Intimidation
+2 Forgery | Counterfeiting
+2 Nuisance | Public nuisance | Private nuisance
+2 Breach of contract
+2 Domestic violence | Family violence
+2 Piracy
+2 Identity theft | Hacking | Cybercrime | Computer crime | Unauthorised access
+2 Terrorism
+2 Contempt of court | Contempt
+2 Conspiracy
+2 Genocide | War crime | War crimes | Crimes against humanity
+3 Passing off
+3 Conversion
+4 Detinue
+3 Trespass to goods | Trespass to the person | Trespass to chattels
+3 Deceit | Fraudulent misrepresentation | Misrepresentation | Negligent misstatement | Negligent misrepresentation
+3 Misleading or deceptive conduct | Misleading and deceptive conduct | False advertising
+3 Malicious prosecution
+4 Injurious falsehood | Malicious falsehood
+3 Breach of statutory duty
+3 Breach of confidence
+3 Invasion of privacy
+3 Inducing breach of contract | Interference with contractual relations | Economic torts
+3 Product liability | Strict liability
+3 Occupier's liability | Occupiers' liability
+3 Vicarious liability
+3 Professional negligence | Medical negligence | Malpractice
+3 Nervous shock | Negligent infliction of emotional distress | Intentional infliction of emotional distress
+4 Rylands v Fletcher
+4 Misfeasance in public office
+3 Abuse of process
+4 Champerty | Maintenance | Barratry
+3 Cartel conduct | Price fixing | Collusion | Bid rigging
+3 Market manipulation
+3 Unconscionable conduct
+3 Wage theft | Underpayment
+5 Phoenixing | Illegal phoenix activity | Insolvent trading | Trading while insolvent :: Letting a company die with its debts, then rising the next morning as a new one with the same assets, the same staff and nothing owing.
+3 Breach of directors' duties | Breach of fiduciary duty | Breach of trust
+3 Obtaining financial advantage by deception | False accounting | Cooking the books
+3 Receiving stolen goods | Handling stolen goods | Fencing
+3 Affray | Riot | Unlawful assembly
+3 Offensive language | Offensive behaviour | Public drunkenness | Disorderly conduct | Indecent exposure
+3 Loitering | Vagrancy | Jaywalking | Littering | Fare evasion
+3 Carjacking | Car theft | Joyriding | Motor vehicle theft
+3 Home invasion | Aggravated burglary
+3 Attempted murder
+3 Infanticide
+3 Bigamy
+3 Incest
+3 Child abuse | Child neglect
+3 Animal cruelty
+3 Poaching | Illegal fishing
+3 Smuggling | People smuggling | Human trafficking | Slavery
+3 Escape from custody | Prison escape | Breach of bail | Breach of AVO | Resisting arrest
+3 Perverting the course of justice | Obstruction of justice | Witness tampering | Jury tampering
+3 Misconduct in public office
+3 Hate speech | Racial vilification | Incitement
+3 Hijacking | Hostage taking
+3 Mutiny | Desertion
+4 Blasphemy | Heresy | Witchcraft
+4 Usury
+4 Duelling | Dueling
+4 Sacrilege
+4 Eavesdropping
+6 Being a common scold | Common scold :: An old English offence: being a quarrelsome nuisance to the neighbours. The punishment was the ducking stool. A New Jersey woman was charged with it as late as 1972.
+4 Compounding a felony | Misprision of felony | Misprision of treason
+4 Simony
+6 Embracery :: Trying to sway a juror with bribes, threats or even persuasion. It was a common law crime for centuries, until bribery laws quietly took over its work.
+4 Mayhem
+4 Outraging public decency
+4 Cheating at gambling | Match fixing | Match-fixing
+4 Revenge porn | Image-based abuse
+4 Coercive control
+x Lying | Cheating | Swearing | Rudeness | Adultery | Being late | Gossip :: Poor form, but not in itself a tort or a crime here.
+x Crime | Tort | Offence | Felony | Misdemeanour | Wrong | Illegal | Guilty | Sin :: Which one? Name it.
