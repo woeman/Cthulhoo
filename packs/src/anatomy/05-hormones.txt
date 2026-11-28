@@ -1,0 +1,92 @@
+id: anatomy-hormones
+text: Name a hormone.
+flavor: Messages in the blood, sent by glands you have never seen. You obey every one.
+rules: Any chemical messenger made by the human body, by its full name or its abbreviation.
+section: Endocrine system
+---
+1 Adrenaline | Epinephrine | Adrenalin
+1 Insulin
+1 Testosterone
+1 Oestrogen | Estrogen | Oestradiol | Estradiol | Estrone | Estriol | Oestrone
+1 Melatonin
+1 Cortisol | Hydrocortisone | Stress hormone
+1 Dopamine
+1 Serotonin
+2 Oxytocin | Love hormone
+2 Growth hormone | Human growth hormone | HGH | Somatotropin | GH
+2 Progesterone
+2 Thyroxine | T4 | Thyroid hormone | Levothyroxine
+2 Endorphin | Endorphins | Beta-endorphin
+2 Glucagon
+2 Noradrenaline | Norepinephrine
+2 Leptin
+2 Ghrelin | Hunger hormone
+2 hCG | Human chorionic gonadotropin | Chorionic gonadotropin | Pregnancy hormone
+2 Vitamin D | Calcitriol | Cholecalciferol
+2 Prolactin
+3 Follicle-stimulating hormone | FSH | Follicle stimulating hormone
+3 Luteinising hormone | LH | Luteinizing hormone
+3 Antidiuretic hormone | ADH | Vasopressin | Arginine vasopressin
+3 Thyroid-stimulating hormone | TSH | Thyrotropin | Thyroid stimulating hormone
+3 Adrenocorticotropic hormone | ACTH | Corticotropin
+3 Aldosterone
+3 Erythropoietin | EPO
+3 Parathyroid hormone | PTH | Parathormone
+3 Calcitonin
+3 Triiodothyronine | T3
+3 Gastrin
+6 Secretin :: The first hormone ever identified. In 1902 Bayliss and Starling found it in the gut, and Starling coined the very word "hormone" three years later.
+3 Cholecystokinin | CCK
+3 Somatostatin
+3 Histamine
+3 Androgen | Androgens | Dihydrotestosterone | DHT | Androstenedione
+3 DHEA | Dehydroepiandrosterone
+3 Renin
+3 Angiotensin | Angiotensin II
+3 Relaxin
+3 Inhibin
+3 GnRH | Gonadotropin-releasing hormone | Gonadotrophin-releasing hormone
+3 TRH | Thyrotropin-releasing hormone
+3 CRH | Corticotropin-releasing hormone
+3 GHRH | Growth hormone-releasing hormone
+3 IGF-1 | Insulin-like growth factor | Somatomedin | IGF
+3 GLP-1 | Glucagon-like peptide-1 | Glucagon-like peptide 1 | Incretin
+3 Melanocyte-stimulating hormone | MSH
+3 Atrial natriuretic peptide | ANP | Atrial natriuretic factor | BNP | Brain natriuretic peptide
+3 Prostaglandin | Prostaglandins
+3 Amylin
+3 Corticosterone | Cortisone | Glucocorticoid | Glucocorticoids
+3 Thymosin
+3 Orexin | Hypocretin
+3 Adiponectin
+3 Anti-Müllerian hormone | AMH | Anti-Mullerian hormone
+3 Human placental lactogen | hPL | Placental lactogen
+4 Motilin
+4 GIP | Gastric inhibitory polypeptide | Glucose-dependent insulinotropic polypeptide
+4 Peptide YY | PYY
+4 Pancreatic polypeptide
+4 Vasoactive intestinal peptide | VIP
+4 Neuropeptide Y
+4 Kisspeptin
+4 Hepcidin
+4 Thrombopoietin
+4 Osteocalcin
+4 FGF23 | Fibroblast growth factor 23
+6 Irisin :: Released by muscle during exercise and named in 2012 after Iris, messenger of the Greek gods. Whether it does much in humans is still argued over.
+4 Resistin
+4 Enkephalin | Enkephalins
+4 Dynorphin
+4 Endothelin
+4 Bradykinin
+4 Leukotriene | Leukotrienes
+4 Thromboxane
+4 Prostacyclin
+4 Uroguanylin | Guanylin
+4 Betatrophin
+4 Calcidiol
+4 Pregnenolone
+4 Activin
+4 Lipotropin
+x Pheromone | Enzyme | Vitamin | Vitamin C | Protein | Haemoglobin | Hemoglobin | Collagen | Keratin | DNA | Bile | Pepsin | Amylase :: Made by the body, but it is not a hormone: it carries no message through the blood.
+x Hormone | Hormones | Steroid | Steroids | Gland | Thyroid | Pituitary | Adrenal :: Which one? Name the hormone itself.
+x Caffeine | Nicotine | Morphine | Auxin | Ethylene | Gibberellin :: Not one the human body makes.

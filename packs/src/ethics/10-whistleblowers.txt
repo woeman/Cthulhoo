@@ -1,0 +1,96 @@
+id: ethics-whistleblowers
+text: Name a famous whistleblower.
+flavor: They saw what was kept in the dark, and said so aloud. The dark has a long memory.
+rules: Anyone who exposed wrongdoing from inside an organisation, or is best known for bringing such secrets to light.
+section: Speaking up
+---
+1 Edward Snowden | Snowden | Ed Snowden
+1 Julian Assange | Assange | WikiLeaks
+1 Chelsea Manning | Manning | Bradley Manning
+2 Erin Brockovich | Brockovich | Erin Brokovich
+2 Daniel Ellsberg | Ellsberg | Pentagon Papers
+2 Frances Haugen | Haugen
+2 Mark Felt | Deep Throat | W. Mark Felt | Felt
+2 David McBride | McBride
+3 Jeffrey Wigand | Wigand | Jeff Wigand
+3 Sherron Watkins | Watkins
+3 Cynthia Cooper | Cooper
+3 Karen Silkwood | Silkwood
+3 Frank Serpico | Serpico
+3 Harry Markopolos | Markopolos
+3 Christopher Wylie | Wylie | Chris Wylie
+3 Tyler Shultz | Shultz
+3 Erika Cheung | Cheung
+3 Reality Winner | Winner
+3 Li Wenliang | Dr Li Wenliang | Wenliang
+3 Jeff Morris | Jeffrey Morris | Morris
+3 Richard Boyle | Boyle
+3 Witness K
+3 Bernard Collaery | Collaery
+3 Andrew Wilkie | Wilkie
+3 Toni Hoffman | Hoffman
+3 Susan Fowler | Fowler
+3 Mark Whitacre | Whitacre | The Informant
+3 Alexander Vindman | Vindman
+3 Mordechai Vanunu | Vanunu
+3 Katharine Gun | Gun | Katherine Gun
+3 Grigory Rodchenkov | Rodchenkov
+3 Linda Tripp | Tripp
+4 Bradley Birkenfeld | Birkenfeld | Brad Birkenfeld
+4 Hervé Falciani | Herve Falciani | Falciani
+4 Antoine Deltour | Deltour
+4 Howard Wilkinson | Wilkinson
+4 Rudolf Elmer | Elmer
+4 Michael Woodford | Woodford
+4 Coleen Rowley | Rowley
+4 Joseph Darby | Joe Darby | Darby
+4 Thomas Drake | Drake
+4 William Binney | Binney | Bill Binney
+4 John Kiriakou | Kiriakou
+4 Daniel Hale | Hale
+4 Sophie Zhang | Zhang
+4 Peiter Zatko | Mudge | Zatko
+4 John Barnett | Barnett
+4 Sam Salehpour | Salehpour
+4 Roger Boisjoly | Boisjoly
+4 Clive Ponting | Ponting
+4 Sarah Tisdall | Tisdall
+4 David Shayler | Shayler
+4 Cathy Massiter | Massiter
+4 Paul van Buitenen | Van Buitenen
+4 Marta Andreasen | Andreasen
+4 Ernest Fitzgerald | A. Ernest Fitzgerald | Ernie Fitzgerald
+4 Sibel Edmonds | Edmonds
+4 Mark Klein | Klein
+4 Russ Tice | Tice
+4 Bunnatine Greenhouse | Greenhouse | Bunny Greenhouse
+4 Karen Kwiatkowski | Kwiatkowski
+4 Eric Ben-Artzi | Ben-Artzi
+4 Paul Moore
+4 Carmen Segarra | Segarra
+4 Richard Bowen | Bowen
+4 Alayne Fleischmann | Fleischmann
+4 Eileen Foster | Foster
+4 Cheryl Eckard | Eckard
+4 David Graham
+4 Peter Rost | Rost
+4 Wendell Potter | Potter
+4 Yuliya Stepanova | Stepanova | Vitaly Stepanov | Stepanov | Yulia Stepanova
+4 Rui Pinto | Football Leaks
+4 Maria Efimova | Efimova
+4 John Doe | Panama Papers
+4 Allan Kessing | Kessing
+4 James Shelton | Shelton
+4 Brian Hood | Hood
+4 Troy Stolz | Stolz
+4 Dennis Gentilin | Gentilin
+4 Sally McDow | McDow
+4 Philip Arantz | Arantz
+4 Colin Dillon | Col Dillon | Dillon
+4 Nigel Powell | Powell
+5 Peter Buxtun | Buxtun | Peter Buxton :: A US health service interviewer who spent years objecting to the Tuskegee syphilis study before taking it to the press in 1972, which ended it.
+6 Samuel Shaw | Shaw | Richard Marven | Marven :: Shaw and Richard Marven reported their commodore for torturing British prisoners in 1777. Congress answered with America's first whistleblower law the next year.
+6 Stanley Adams | Adams :: Told Europe's regulators in 1973 that Hoffmann-La Roche was fixing vitamin prices. They let his name slip, and the Swiss jailed him for espionage.
+x Bob Woodward | Woodward | Carl Bernstein | Bernstein | Glenn Greenwald | Greenwald | Journalist | Reporter :: A reporter who told the story. Name the insider who brought it out.
+x Whistleblower | Whistle | Anonymous | Insider | Snitch | Dobber :: Which one? Give a name.
+x Richard Nixon | Nixon | Bernie Madoff | Madoff | Elizabeth Holmes | Holmes | Mark Zuckerberg | Zuckerberg :: That is who the whistle was blown on.

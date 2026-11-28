@@ -1,0 +1,43 @@
+id: geography-oceania
+text: Name a country or territory in Oceania.
+flavor: Scattered islands in the widest water on Earth. Whatever lives between them has room.
+rules: Any country, territory or island group of the Pacific region, with Australia and New Zealand included.
+section: Our region
+---
+1 Australia | Aus | Oz
+1 New Zealand | NZ | Aotearoa
+1 Fiji
+2 Papua New Guinea | PNG | Papua Niugini
+2 Samoa | Western Samoa
+2 Tonga
+2 Hawaii | Hawai'i
+2 Tahiti | French Polynesia | Bora Bora
+2 Vanuatu | New Hebrides
+3 Solomon Islands | Solomons | The Solomons
+3 New Caledonia | Nouvelle-Calédonie | Kanaky
+3 Cook Islands | Rarotonga | Cooks
+3 Guam
+3 Nauru
+3 Norfolk Island
+3 Easter Island | Rapa Nui
+3 Tuvalu | Ellice Islands
+3 Kiribati | Gilbert Islands
+3 American Samoa
+4 Palau | Belau
+4 Marshall Islands | Marshalls
+4 Micronesia | Federated States of Micronesia | FSM
+4 Niue
+4 Northern Mariana Islands | Northern Marianas | Saipan | Marianas
+4 Pitcairn Islands | Pitcairn | Pitcairn Island
+4 Wallis and Futuna | Wallis & Futuna
+4 Bougainville
+4 Lord Howe Island | Lord Howe
+4 West Papua | Papua | Western New Guinea
+4 Chatham Islands | Chathams
+4 Torres Strait Islands | Torres Strait
+5 Wake Island | Midway | Midway Atoll | Johnston Atoll
+5 Coral Sea Islands
+6 Tokelau :: Three atolls, about 1,500 people and no airport. In 2012 it became the first territory on Earth to run almost entirely on solar power.
+x Indonesia | Philippines | Japan | Timor-Leste | East Timor | Malaysia | Singapore | Taiwan | Bali | Maldives | Sri Lanka | Madagascar :: Close, but counted as Asia or Africa.
+x Oceania | Pacific | Polynesia | Melanesia | Australasia | South Pacific | The Pacific :: That is the region. Name a country or territory in it.
+x Christmas Island | Cocos Islands | Cocos (Keeling) Islands | Antarctica | Falkland Islands | Galapagos :: Not in Oceania: wrong ocean, or wrong continent.

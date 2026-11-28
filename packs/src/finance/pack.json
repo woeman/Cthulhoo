@@ -1,0 +1,9 @@
+{
+  "id": "finance",
+  "name": "Finance",
+  "title": "The Ledger of Drowned Fortunes",
+  "blurb": "Markets, listed companies, banks, ratios and the people who moved them.",
+  "order": 1,
+  "asOf": "2026-11-28",
+  "group": "Business"
+}

@@ -1,0 +1,192 @@
+id: ethics-theories
+text: Name an ethical theory, framework or principle.
+flavor: A rule for every choice. Follow any of them far enough down and it leads to the same locked door.
+rules: Any named theory, school, test or principle for deciding what is right, in philosophy or in business.
+section: Foundations
+---
+1 Utilitarianism | Utilitarian | Utilitarian ethics | Greatest good for the greatest number | Greatest happiness principle | Utility
+1 Deontology | Deontological ethics | Duty ethics | Kantian ethics | Kantianism | Duty-based ethics | Deontological | Kantian | Duty
+1 Virtue ethics | Virtue theory | Aristotelian ethics | Virtue | Virtues
+1 Golden Rule | Do unto others | Treat others as you would be treated | The golden rule
+1 Corporate social responsibility | CSR | Social responsibility | Corporate responsibility
+2 Consequentialism | Consequentialist | Teleology | Teleological ethics | Consequences | Ends justify the means | Consequentialist ethics
+2 Stakeholder theory | Stakeholder approach | Stakeholder model | Stakeholder
+2 Shareholder theory | Shareholder primacy | Friedman doctrine | Shareholder value | Stockholder theory | Shareholder model
+2 Relativism | Ethical relativism | Moral relativism | Cultural relativism
+2 Egoism | Ethical egoism | Self-interest | Psychological egoism | Enlightened self-interest | Rational egoism
+2 Rights theory | Rights-based ethics | Human rights | Rights | Natural rights | Rights approach
+2 Justice | Justice theory | Theory of justice | Justice as fairness | Fairness | Distributive justice | Rawlsian justice | Justice approach
+2 Triple bottom line | TBL | People, planet, profit | People planet profit | 3BL
+2 Categorical imperative | Universalisability | Universalizability | Universal law
+2 Social contract | Social contract theory | Contractarianism | Contractualism
+2 Hedonism | Epicureanism
+2 Stoicism | Stoic ethics
+2 Ethics of care | Care ethics | Feminist ethics | Care
+2 Natural law | Natural law theory
+2 Divine command theory | Divine command | Religious ethics | Ten Commandments | Christian ethics
+2 ESG | Environmental, social and governance | Environmental social governance
+2 Sustainability | Sustainable development | Intergenerational equity
+2 Altruism | Effective altruism
+2 Nihilism | Moral nihilism
+2 Existentialism
+2 Common good | Common good approach
+2 Karma | Dharma
+3 Act utilitarianism | Rule utilitarianism | Preference utilitarianism | Negative utilitarianism
+3 Absolutism | Moral absolutism | Ethical absolutism
+3 Objectivism | Moral objectivism | Moral realism | Ethical objectivism
+3 Subjectivism | Ethical subjectivism | Moral subjectivism
+3 Emotivism | Expressivism | Non-cognitivism
+3 Intuitionism | Ethical intuitionism
+3 Prima facie duties | Ross's duties
+3 Veil of ignorance | Original position | Difference principle
+3 Harm principle | Do no harm | Non-maleficence | First do no harm | Primum non nocere
+3 Beneficence | Autonomy | Principlism | Four principles | Informed consent
+3 Doctrine of double effect | Double effect
+3 Just war theory | Just war
+3 Precautionary principle
+3 Polluter pays principle | Polluter pays
+3 Fiduciary duty | Duty of care | Directors' duties | Best interests duty
+3 Corporate governance | Good governance | Comply or explain | If not, why not
+3 Social licence to operate | Social licence | Social license
+3 Carroll's pyramid | Pyramid of CSR | CSR pyramid
+3 Creating shared value | Shared value | CSV
+3 Conscious capitalism | Stakeholder capitalism | Inclusive capitalism
+3 Integrative social contracts theory | ISCT | Hypernorms
+3 Moral development | Kohlberg's stages | Kohlberg's stages of moral development | Kohlberg
+3 Moral intensity | Jones's model | Issue-contingent model
+3 Rest's four-component model | Four component model | Moral awareness
+3 Ethical decision-making model | Ethical decision making | PLUS model | Decision-making framework
+3 Front page test | Newspaper test | Sunlight test | Publicity test | Pub test | Mum test | Sunshine test | TV test
+3 Sleep test | Mirror test | Gut feeling
+3 Code of conduct | Code of ethics | Professional ethics | Codes of conduct
+3 Whistleblowing | Speak-up culture
+3 Integrity | Honesty | Transparency | Accountability
+3 Caveat emptor | Buyer beware | Let the buyer beware
+3 Fair trade | Fairtrade
+3 Corporate citizenship | Corporate philanthropy | Philanthropy
+3 Moral hazard
+3 Agency theory | Stewardship theory
+3 Tragedy of the commons
+3 Invisible hand
+3 Pareto efficiency | Pareto optimality | Cost-benefit analysis
+3 Libertarianism | Entitlement theory | Nozick's entitlement theory
+3 Egalitarianism | Equality | Equity
+3 Communitarianism
+3 Capability approach | Capabilities approach
+3 Marxism | Socialism
+3 Pragmatism | Pragmatic ethics
+3 Situation ethics | Situational ethics | Situationism
+3 Casuistry
+3 Discourse ethics
+3 Machiavellianism | Realpolitik
+3 Confucianism | Confucian ethics | Ren | Filial piety
+3 Buddhist ethics | Eightfold Path | Noble Eightfold Path | Five Precepts | Middle Way
+3 Ubuntu
+3 Ahimsa | Non-violence | Nonviolence
+3 Taoism | Daoism | Wu wei
+3 Islamic ethics | Sharia | Akhlaq
+3 Jewish ethics | Tikkun olam
+3 Humanism | Secular humanism
+3 Environmental ethics | Deep ecology | Land ethic | Biocentrism | Ecocentrism | Anthropocentrism
+3 Animal rights | Animal welfare | Speciesism | Animal ethics
+3 Bioethics | Medical ethics | Hippocratic Oath
+3 Business ethics | Applied ethics | Normative ethics | Metaethics | Descriptive ethics
+3 Moral luck
+3 Supererogation
+3 Silver Rule | Platinum Rule
+3 Mean | Golden mean | Doctrine of the mean
+3 Eudaimonia | Flourishing | Human flourishing
+3 Cardinal virtues | Seven virtues | Seven deadly sins
+3 Formula of humanity | Means to an end | Treat people as ends | Kingdom of ends | Respect for persons
+3 Hedonic calculus | Felicific calculus
+3 Noblesse oblige
+3 Paternalism
+3 Might makes right
+3 Social Darwinism
+3 Cynicism | Scepticism | Skepticism
+3 Moral particularism | Particularism
+3 Moral pluralism | Pluralism | Value pluralism
+3 Moral universalism | Universalism
+3 Error theory | Moral scepticism
+3 Prescriptivism
+3 Ideal observer theory
+3 Perfectionism
+3 Welfarism
+3 Prioritarianism | Sufficientarianism
+3 Longtermism
+3 Antinatalism
+3 Kantian constructivism | Constructivism
+4 Threshold deontology
+4 Agent-relative ethics
+4 Satisficing consequentialism
+4 Two-level utilitarianism
+4 Motive utilitarianism
+4 Ideal utilitarianism
+4 Rule consequentialism
+4 Scalar consequentialism
+4 State consequentialism | Mohism | Mohist consequentialism
+4 Legalism
+4 Cyrenaicism | Cyrenaic hedonism
+4 Asceticism
+4 Quietism
+4 Antinomianism
+4 Probabilism
+4 Personalism
+4 Normative stakeholder theory
+4 Instrumental stakeholder theory
+4 Corporate moral agency
+4 Corporate social performance | CSP
+4 Corporate social responsiveness
+4 Iron law of responsibility
+4 Political CSR
+4 Base of the pyramid | Bottom of the pyramid
+4 Blended value
+4 Doughnut economics
+4 Equator Principles
+4 UN Global Compact | Global Compact
+4 Ruggie principles | UN Guiding Principles on Business and Human Rights | Protect, Respect and Remedy
+4 OECD Guidelines for Multinational Enterprises | OECD Guidelines
+4 Caux Round Table Principles | Caux Principles
+6 Sullivan Principles | Sullivan Code :: Drafted in 1977 by the Reverend Leon Sullivan, a General Motors director, as a code for American firms doing business in apartheid South Africa.
+4 CERES Principles | Valdez Principles
+4 ISO 26000
+4 Cadbury Report | Cadbury Code
+4 ASX Corporate Governance Principles | ASX Principles
+4 Business judgment rule
+4 Nolan principles | Seven principles of public life
+4 Potter Box
+4 Giving Voice to Values | GVV
+6 Rotary Four-Way Test | Four-Way Test | Four Way Test :: Written in 1932 by Herbert Taylor to save a bankrupt cookware firm: is it the truth, is it fair, will it build goodwill, will it benefit all concerned?
+4 Blanchard and Peale test | Ethics check
+4 Laura Nash's twelve questions | Nash's twelve questions
+4 Markkula framework
+4 Ethical triangle
+4 Bounded ethicality
+4 Ethical fading
+4 Moral disengagement
+4 Fraud triangle
+4 Slippery slope
+4 Dirty hands | Problem of dirty hands
+4 Lesser of two evils | Lesser evil
+4 Is-ought problem | Hume's guillotine | Naturalistic fallacy | Open-question argument
+4 Euthyphro dilemma
+4 Ring of Gyges
+4 Repugnant conclusion
+4 Non-identity problem
+4 Reflective equilibrium
+4 Maximin | Maximin principle
+4 Categorical and hypothetical imperatives | Hypothetical imperative
+4 Moral sense theory | Sentimentalism
+4 Sympathy | Impartial spectator
+5 Tian | Mandate of Heaven
+6 Ma'at | Maat :: Ancient Egypt's principle of truth, balance and order. The dead had their hearts weighed against her feather to see if they had lived by it.
+5 Mussar
+5 Bushido
+5 Giri
+5 Guanxi
+5 Wasta
+5 Jeitinho
+5 Omertà | Omerta
+x Ethics | Morals | Morality | Theory | Philosophy | Right and wrong | Conscience | Law | The law | Rules :: Too broad. Name one theory or principle.
+x Capitalism | Democracy | Communism | Supply and demand | Profit maximisation | Profit :: An economic or political system rather than a theory of right and wrong.
+x Trolley problem | Prisoner's dilemma :: A thought experiment used to test theories, not a theory itself.

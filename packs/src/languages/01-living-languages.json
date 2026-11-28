@@ -1,0 +1,5400 @@
+{
+ "id": "languages-living-languages",
+ "text": "Name a language that is still spoken today.",
+ "category": "language",
+ "flavor": "Some seven thousand tongues still wag in the world above. The deep has been listening to every one.",
+ "rules": "Any language with native speakers today, sign languages included, or one revived after dying out, like Hebrew. Dead languages and ones invented for fiction don't count.",
+ "answers": [
+  {
+   "answer": "English",
+   "aliases": [
+    "British English",
+    "American English",
+    "Australian English",
+    "Canadian English",
+    "Indian English",
+    "Irish English",
+    "Hiberno-English",
+    "Scottish English",
+    "Modern English",
+    "Standard English",
+    "Queen's English",
+    "King's English"
+   ],
+   "tier": 1,
+   "lore": "The most spoken language on Earth once learners are counted, though Mandarin and Spanish both have more native speakers."
+  },
+  {
+   "answer": "French",
+   "aliases": [
+    "Français",
+    "Québécois",
+    "Quebec French",
+    "Canadian French",
+    "Belgian French",
+    "Swiss French",
+    "Acadian French",
+    "Acadian"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Spanish",
+   "aliases": [
+    "Español",
+    "Castilian",
+    "Castellano",
+    "Mexican Spanish",
+    "Latin American Spanish",
+    "Argentine Spanish",
+    "Rioplatense Spanish"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "German",
+   "aliases": [
+    "Deutsch",
+    "High German",
+    "Standard German",
+    "Hochdeutsch",
+    "Austrian German"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Italian",
+   "aliases": [
+    "Italiano"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Mandarin",
+   "aliases": [
+    "Mandarin Chinese",
+    "Putonghua",
+    "Standard Chinese",
+    "Standard Mandarin",
+    "Guoyu",
+    "Mandari",
+    "Mandain",
+    "Mandair",
+    "Chinese Mandarin",
+    "Taiwanese Mandarin"
+   ],
+   "tier": 1,
+   "lore": "Has more native speakers than any other language: close to a billion."
+  },
+  {
+   "answer": "Chinese",
+   "aliases": [
+    "Zhongwen"
+   ],
+   "tier": 1,
+   "lore": "Really a family of tongues as varied as the Romance languages, held together by one writing system."
+  },
+  {
+   "answer": "Japanese",
+   "aliases": [
+    "Nihongo"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Russian",
+   "aliases": [
+    "Russkiy",
+    "Russky"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Portuguese",
+   "aliases": [
+    "Português",
+    "Brazilian Portuguese",
+    "European Portuguese"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Arabic",
+   "aliases": [
+    "Modern Standard Arabic",
+    "Standard Arabic",
+    "Al-Arabiyya"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hindi",
+   "aliases": [
+    "Hind"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Welsh",
+   "aliases": [
+    "Cymraeg"
+   ],
+   "tier": 2,
+   "lore": "Still spoken in Patagonia, by descendants of settlers who sailed to Argentina in 1865."
+  },
+  {
+   "answer": "Irish",
+   "aliases": [
+    "Gaeilge",
+    "Irish Gaelic",
+    "Erse",
+    "Gaelic Irish"
+   ],
+   "tier": 2,
+   "lore": "Ireland's first official language, ranked above English in its constitution."
+  },
+  {
+   "answer": "Scottish Gaelic",
+   "aliases": [
+    "Gàidhlig",
+    "Scots Gaelic",
+    "Scottish"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dutch",
+   "aliases": [
+    "Nederlands"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Greek",
+   "aliases": [
+    "Modern Greek",
+    "Ellinika"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Korean",
+   "aliases": [
+    "Hangugeo",
+    "Hangukeo",
+    "Chosonmal",
+    "Koren"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cantonese",
+   "aliases": [
+    "Yue",
+    "Yue Chinese",
+    "Cantonese Chinese",
+    "Guangdonghua",
+    "Hong Kong Cantonese"
+   ],
+   "tier": 2,
+   "lore": "Has six to nine tones, depending on how you count them."
+  },
+  {
+   "answer": "Polish",
+   "aliases": [
+    "Polski"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Swedish",
+   "aliases": [
+    "Svenska"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Norwegian",
+   "aliases": [
+    "Norsk",
+    "Bokmål",
+    "Nynorsk"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Danish",
+   "aliases": [
+    "Dansk"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Finnish",
+   "aliases": [
+    "Suomi"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Turkish",
+   "aliases": [
+    "Türkçe"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Hebrew",
+   "aliases": [
+    "Ivrit",
+    "Modern Hebrew",
+    "Israeli Hebrew",
+    "Israeli"
+   ],
+   "tier": 2,
+   "lore": "Nobody's mother tongue for some 1,700 years, until its revival in the late 1800s. Millions now speak it."
+  },
+  {
+   "answer": "Urdu",
+   "tier": 2
+  },
+  {
+   "answer": "Bengali",
+   "aliases": [
+    "Bangla"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Punjabi",
+   "aliases": [
+    "Panjabi"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Swahili",
+   "aliases": [
+    "Kiswahili"
+   ],
+   "tier": 2,
+   "lore": "Its name comes from the Arabic for 'coasts'."
+  },
+  {
+   "answer": "Hungarian",
+   "aliases": [
+    "Magyar"
+   ],
+   "tier": 2,
+   "lore": "Not related to its neighbours' languages, but distantly to Finnish and Estonian."
+  },
+  {
+   "answer": "Icelandic",
+   "aliases": [
+    "Íslenska"
+   ],
+   "tier": 2,
+   "lore": "Has changed so little that Icelanders can still read the medieval sagas."
+  },
+  {
+   "answer": "Ukrainian",
+   "aliases": [
+    "Ukrainska"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Persian",
+   "aliases": [
+    "Farsi",
+    "Iranian Persian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vietnamese",
+   "aliases": [
+    "Tiếng Việt"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Thai",
+   "aliases": [
+    "Siamese",
+    "Central Thai"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tamil",
+   "tier": 2,
+   "lore": "One of the oldest living languages, with poetry around 2,000 years old."
+  },
+  {
+   "answer": "Afrikaans",
+   "tier": 2
+  },
+  {
+   "answer": "Czech",
+   "aliases": [
+    "Čeština",
+    "Bohemian"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Zulu",
+   "aliases": [
+    "isiZulu"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Basque",
+   "aliases": [
+    "Euskara",
+    "Euskera"
+   ],
+   "tier": 2,
+   "lore": "Related to no other known language. It was spoken in the Pyrenees before the Romans arrived."
+  },
+  {
+   "answer": "Catalan",
+   "aliases": [
+    "Català"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Gaelic",
+   "tier": 2,
+   "lore": "In Scotland, Gaelic means Scottish Gaelic. In Ireland the language is usually just called Irish."
+  },
+  {
+   "answer": "Romanian",
+   "aliases": [
+    "Rumanian",
+    "Roumanian",
+    "Moldovan",
+    "Moldavian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bulgarian",
+   "aliases": [
+    "Balgarski"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Serbian",
+   "aliases": [
+    "Srpski"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Croatian",
+   "aliases": [
+    "Hrvatski"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bosnian",
+   "aliases": [
+    "Bosanski"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Serbo-Croatian",
+   "aliases": [
+    "Serbo-Croat",
+    "Croato-Serbian",
+    "BCMS",
+    "BCS",
+    "Yugoslav",
+    "Yugoslavian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Slovak",
+   "aliases": [
+    "Slovakian",
+    "Slovenčina"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Slovenian",
+   "aliases": [
+    "Slovene",
+    "Slovenščina"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lithuanian",
+   "aliases": [
+    "Lietuvių"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Latvian",
+   "aliases": [
+    "Lettish",
+    "Latviešu",
+    "Latvin",
+    "Latian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Estonian",
+   "aliases": [
+    "Eesti"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Albanian",
+   "aliases": [
+    "Shqip"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Macedonian",
+   "tier": 3
+  },
+  {
+   "answer": "Belarusian",
+   "aliases": [
+    "Belarusan",
+    "Byelorussian",
+    "Belorussian",
+    "White Russian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maltese",
+   "aliases": [
+    "Malti"
+   ],
+   "tier": 3,
+   "lore": "The only Semitic language written in Latin letters as standard, and the only one official in the EU."
+  },
+  {
+   "answer": "Luxembourgish",
+   "aliases": [
+    "Lëtzebuergesch",
+    "Letzeburgesch",
+    "Luxembourgian",
+    "Luxemburgish"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Faroese",
+   "aliases": [
+    "Føroyskt",
+    "Faeroese",
+    "Faroish"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Frisian",
+   "aliases": [
+    "West Frisian",
+    "Frysk"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Flemish",
+   "aliases": [
+    "Vlaams"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Galician",
+   "aliases": [
+    "Galego"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Corsican",
+   "aliases": [
+    "Corsu"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sicilian",
+   "aliases": [
+    "Sicilianu"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Breton",
+   "aliases": [
+    "Brezhoneg"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cornish",
+   "aliases": [
+    "Kernewek",
+    "Kernowek"
+   ],
+   "tier": 3,
+   "lore": "Declared extinct by UNESCO in 2009, then moved back to 'critically endangered' in 2010 as its revival took hold."
+  },
+  {
+   "answer": "Manx",
+   "aliases": [
+    "Manx Gaelic",
+    "Gaelg",
+    "Gailck"
+   ],
+   "tier": 3,
+   "lore": "Its last native speaker, Ned Maddrell, died in 1974. Children now learn it at a Manx-medium primary school."
+  },
+  {
+   "answer": "Scots",
+   "aliases": [
+    "Lallans",
+    "Lowland Scots",
+    "Broad Scots"
+   ],
+   "tier": 3,
+   "lore": "Robert Burns wrote in it, Auld Lang Syne included."
+  },
+  {
+   "answer": "Yiddish",
+   "tier": 3
+  },
+  {
+   "answer": "Romani",
+   "aliases": [
+    "Romany",
+    "Romanes"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sami",
+   "aliases": [
+    "Saami",
+    "Northern Sami",
+    "North Sami"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Swiss German",
+   "aliases": [
+    "Schwiizerdütsch",
+    "Schweizerdeutsch",
+    "Schwyzerdütsch"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Esperanto",
+   "tier": 3,
+   "lore": "Created by L. L. Zamenhof in 1887. Perhaps a thousand people have grown up speaking it as a mother tongue."
+  },
+  {
+   "answer": "Armenian",
+   "aliases": [
+    "Hayeren",
+    "Western Armenian",
+    "Eastern Armenian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Georgian",
+   "aliases": [
+    "Kartuli"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Azerbaijani",
+   "aliases": [
+    "Azeri",
+    "Azerbaijanian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kazakh",
+   "aliases": [
+    "Qazaq"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Uzbek",
+   "tier": 3
+  },
+  {
+   "answer": "Tatar",
+   "aliases": [
+    "Tartar",
+    "Kazan Tatar"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Chechen",
+   "tier": 3
+  },
+  {
+   "answer": "Mongolian",
+   "aliases": [
+    "Mongol",
+    "Khalkha",
+    "Khalkha Mongolian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tibetan",
+   "aliases": [
+    "Standard Tibetan",
+    "Lhasa Tibetan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kurdish",
+   "aliases": [
+    "Kurdi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pashto",
+   "aliases": [
+    "Pashtu",
+    "Pushto",
+    "Pakhto"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aramaic",
+   "aliases": [
+    "Neo-Aramaic",
+    "Assyrian",
+    "Assyrian Neo-Aramaic",
+    "Syriac",
+    "Sureth",
+    "Suret",
+    "Chaldean",
+    "Aramic"
+   ],
+   "tier": 3,
+   "lore": "Jesus spoke it. Its modern forms live on in northern Iraq, a few Syrian villages and the Assyrian diaspora."
+  },
+  {
+   "answer": "Amharic",
+   "aliases": [
+    "Amarigna",
+    "Amarinya"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Somali",
+   "aliases": [
+    "Somalian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Yoruba",
+   "tier": 3
+  },
+  {
+   "answer": "Igbo",
+   "aliases": [
+    "Ibo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hausa",
+   "tier": 3
+  },
+  {
+   "answer": "Xhosa",
+   "aliases": [
+    "isiXhosa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Shona",
+   "aliases": [
+    "chiShona"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tamazight",
+   "aliases": [
+    "Berber",
+    "Amazigh"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gujarati",
+   "aliases": [
+    "Gujerati"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Marathi",
+   "tier": 3
+  },
+  {
+   "answer": "Telugu",
+   "tier": 3
+  },
+  {
+   "answer": "Kannada",
+   "aliases": [
+    "Canarese",
+    "Kanarese"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Malayalam",
+   "tier": 3
+  },
+  {
+   "answer": "Nepali",
+   "aliases": [
+    "Nepalese",
+    "Gorkhali"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sinhala",
+   "aliases": [
+    "Sinhalese"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Burmese",
+   "aliases": [
+    "Myanmar",
+    "Bamar"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Khmer",
+   "aliases": [
+    "Cambodian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lao",
+   "aliases": [
+    "Laotian",
+    "Laotin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tagalog",
+   "tier": 3
+  },
+  {
+   "answer": "Filipino",
+   "aliases": [
+    "Pilipino",
+    "Philippine"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Indonesian",
+   "aliases": [
+    "Bahasa Indonesia",
+    "Bahasa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Malay",
+   "aliases": [
+    "Bahasa Melayu",
+    "Bahasa Malaysia",
+    "Malaysian",
+    "Melayu"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Javanese",
+   "aliases": [
+    "Basa Jawa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Hokkien",
+   "aliases": [
+    "Min Nan",
+    "Southern Min",
+    "Taiwanese",
+    "Taiwanese Hokkien",
+    "Amoy",
+    "Fukienese"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maori",
+   "aliases": [
+    "Te Reo Maori",
+    "Te Reo"
+   ],
+   "tier": 3,
+   "lore": "Became an official language of New Zealand in 1987."
+  },
+  {
+   "answer": "Hawaiian",
+   "aliases": [
+    "Olelo Hawaii"
+   ],
+   "tier": 3,
+   "lore": "Its alphabet has just thirteen letters, one of them the ʻokina, a catch in the throat."
+  },
+  {
+   "answer": "Samoan",
+   "aliases": [
+    "Gagana Samoa"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tongan",
+   "aliases": [
+    "Tonga"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Fijian",
+   "tier": 3
+  },
+  {
+   "answer": "Quechua",
+   "aliases": [
+    "Runa Simi",
+    "Quichua",
+    "Kechua"
+   ],
+   "tier": 3,
+   "lore": "The language of the Inca Empire, still spoken by millions in the Andes."
+  },
+  {
+   "answer": "Navajo",
+   "aliases": [
+    "Navaho",
+    "Diné bizaad"
+   ],
+   "tier": 3,
+   "lore": "Navajo code talkers sent American messages in it during the Second World War. The code was never broken."
+  },
+  {
+   "answer": "Cherokee",
+   "aliases": [
+    "Tsalagi"
+   ],
+   "tier": 3,
+   "lore": "Sequoyah, who could not read or write, invented a writing system for it in the 1820s."
+  },
+  {
+   "answer": "Inuktitut",
+   "aliases": [
+    "Inuit"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Greenlandic",
+   "aliases": [
+    "Kalaallisut"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Haitian Creole",
+   "aliases": [
+    "Haitian",
+    "Kreyòl",
+    "Kreyol Ayisyen",
+    "Creole"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jamaican Patois",
+   "aliases": [
+    "Patois",
+    "Patwa",
+    "Jamaican",
+    "Jamaican Creole"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tok Pisin",
+   "aliases": [
+    "Pidgin",
+    "Pidgin English"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Maya",
+   "aliases": [
+    "Mayan",
+    "Mayan languages"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nahuatl",
+   "tier": 3
+  },
+  {
+   "answer": "British Sign Language",
+   "aliases": [
+    "BSL"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "American Sign Language",
+   "aliases": [
+    "ASL",
+    "Ameslan",
+    "Sign language",
+    "Signing"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Montenegrin",
+   "aliases": [
+    "Crnogorski"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Valencian",
+   "aliases": [
+    "Valencià"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Occitan",
+   "aliases": [
+    "Langue d'oc",
+    "Lenga d'òc"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sardinian",
+   "aliases": [
+    "Sardu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Neapolitan",
+   "aliases": [
+    "Napulitano",
+    "Napoletano"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Venetian",
+   "aliases": [
+    "Vèneto"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Romansh",
+   "aliases": [
+    "Romansch",
+    "Rumantsch",
+    "Romanche"
+   ],
+   "tier": 4,
+   "lore": "Switzerland's fourth national language, spoken by fewer than one Swiss in a hundred."
+  },
+  {
+   "answer": "Low German",
+   "aliases": [
+    "Plattdeutsch",
+    "Plattdüütsch",
+    "Low Saxon",
+    "Platt"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bavarian",
+   "aliases": [
+    "Austro-Bavarian",
+    "Boarisch"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ulster Scots",
+   "aliases": [
+    "Ullans"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ladino",
+   "aliases": [
+    "Judaeo-Spanish",
+    "Judeo-Spanish",
+    "Judezmo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Crimean Tatar",
+   "tier": 4
+  },
+  {
+   "answer": "Bashkir",
+   "tier": 4
+  },
+  {
+   "answer": "Chuvash",
+   "tier": 4
+  },
+  {
+   "answer": "Ossetian",
+   "aliases": [
+    "Ossetic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Circassian",
+   "aliases": [
+    "Cherkess"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yakut",
+   "aliases": [
+    "Sakha"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kyrgyz",
+   "aliases": [
+    "Kirghiz",
+    "Kirgiz"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Turkmen",
+   "aliases": [
+    "Turkoman",
+    "Turkmenian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tajik",
+   "aliases": [
+    "Tajiki",
+    "Tadjik"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dari",
+   "aliases": [
+    "Afghan Persian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Uyghur",
+   "aliases": [
+    "Uighur",
+    "Uygur"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Balochi",
+   "aliases": [
+    "Baluchi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hindustani",
+   "tier": 4
+  },
+  {
+   "answer": "Odia",
+   "aliases": [
+    "Oriya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Assamese",
+   "aliases": [
+    "Asamiya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sindhi",
+   "tier": 4
+  },
+  {
+   "answer": "Kashmiri",
+   "aliases": [
+    "Koshur"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Konkani",
+   "tier": 4
+  },
+  {
+   "answer": "Maithili",
+   "tier": 4
+  },
+  {
+   "answer": "Bhojpuri",
+   "tier": 4
+  },
+  {
+   "answer": "Rajasthani",
+   "tier": 4
+  },
+  {
+   "answer": "Saraiki",
+   "aliases": [
+    "Seraiki",
+    "Siraiki"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pahari-Pothwari",
+   "aliases": [
+    "Pothwari",
+    "Potwari",
+    "Mirpuri",
+    "Pahari"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sylheti",
+   "tier": 4
+  },
+  {
+   "answer": "Rohingya",
+   "tier": 4
+  },
+  {
+   "answer": "Dhivehi",
+   "aliases": [
+    "Divehi",
+    "Maldivian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dzongkha",
+   "aliases": [
+    "Bhutanese"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hakka",
+   "aliases": [
+    "Hakka Chinese",
+    "Kejia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shanghainese",
+   "aliases": [
+    "Wu",
+    "Wu Chinese"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Okinawan",
+   "aliases": [
+    "Uchinaaguchi",
+    "Ryukyuan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Karen",
+   "aliases": [
+    "S'gaw Karen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Shan",
+   "tier": 4
+  },
+  {
+   "answer": "Hmong",
+   "aliases": [
+    "Miao",
+    "Hmong Daw",
+    "Mong"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tetum",
+   "aliases": [
+    "Tetun"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sundanese",
+   "tier": 4
+  },
+  {
+   "answer": "Balinese",
+   "tier": 4
+  },
+  {
+   "answer": "Cebuano",
+   "aliases": [
+    "Bisaya",
+    "Binisaya",
+    "Visayan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ilocano",
+   "aliases": [
+    "Ilokano",
+    "Iloko"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Egyptian Arabic",
+   "aliases": [
+    "Masri",
+    "Masry",
+    "Egyptian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Moroccan Arabic",
+   "aliases": [
+    "Darija",
+    "Moroccan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Oromo",
+   "aliases": [
+    "Afaan Oromoo",
+    "Oromiffa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tigrinya",
+   "aliases": [
+    "Tigrigna"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Wolof",
+   "tier": 4
+  },
+  {
+   "answer": "Fula",
+   "aliases": [
+    "Fulani",
+    "Fulfulde",
+    "Pulaar",
+    "Peul",
+    "Fulah"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Twi",
+   "tier": 4
+  },
+  {
+   "answer": "Akan",
+   "tier": 4
+  },
+  {
+   "answer": "Ewe",
+   "tier": 4
+  },
+  {
+   "answer": "Lingala",
+   "tier": 4
+  },
+  {
+   "answer": "Kikongo",
+   "aliases": [
+    "Kongo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kinyarwanda",
+   "aliases": [
+    "Rwanda",
+    "Rwandan",
+    "Ikinyarwanda"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Luganda",
+   "aliases": [
+    "Ganda"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ndebele",
+   "aliases": [
+    "isiNdebele"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sesotho",
+   "aliases": [
+    "Sotho",
+    "Southern Sotho"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Setswana",
+   "aliases": [
+    "Tswana"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chichewa",
+   "aliases": [
+    "Nyanja",
+    "Chewa",
+    "Chinyanja"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Malagasy",
+   "tier": 4
+  },
+  {
+   "answer": "Kikuyu",
+   "aliases": [
+    "Gikuyu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Krio",
+   "tier": 4
+  },
+  {
+   "answer": "Nigerian Pidgin",
+   "aliases": [
+    "Naija"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mauritian Creole",
+   "aliases": [
+    "Morisien",
+    "Kreol Morisien"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Aymara",
+   "tier": 4
+  },
+  {
+   "answer": "Guarani",
+   "tier": 4,
+   "lore": "Spoken by most people in Paraguay, not just its Indigenous people."
+  },
+  {
+   "answer": "Mapudungun",
+   "aliases": [
+    "Mapuche"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yucatec Maya",
+   "aliases": [
+    "Yucatec",
+    "Yucatec Mayan"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "K'iche'",
+   "aliases": [
+    "Quiché",
+    "Kiche Maya"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zapotec",
+   "aliases": [
+    "Zapoteco"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mixtec",
+   "aliases": [
+    "Mixteco"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lakota",
+   "aliases": [
+    "Lakhota"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ojibwe",
+   "aliases": [
+    "Ojibwa",
+    "Ojibway",
+    "Chippewa",
+    "Anishinaabemowin",
+    "Odawa",
+    "Ottawa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cree",
+   "aliases": [
+    "Nehiyawewin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Mohawk",
+   "aliases": [
+    "Kanienkeha"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Choctaw",
+   "tier": 4
+  },
+  {
+   "answer": "Hopi",
+   "tier": 4
+  },
+  {
+   "answer": "Apache",
+   "aliases": [
+    "Western Apache"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Blackfoot",
+   "aliases": [
+    "Siksika"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Inupiaq",
+   "aliases": [
+    "Inupiat"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yup'ik",
+   "aliases": [
+    "Central Yupik"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Papiamento",
+   "aliases": [
+    "Papiamentu"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pennsylvania Dutch",
+   "aliases": [
+    "Pennsylvania German"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bislama",
+   "tier": 4
+  },
+  {
+   "answer": "Tahitian",
+   "tier": 4
+  },
+  {
+   "answer": "Chamorro",
+   "tier": 4
+  },
+  {
+   "answer": "Auslan",
+   "aliases": [
+    "Australian Sign Language"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Warlpiri",
+   "tier": 4
+  },
+  {
+   "answer": "Pitjantjatjara",
+   "aliases": [
+    "Pitjantjara"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kriol",
+   "tier": 4
+  },
+  {
+   "answer": "Singlish",
+   "tier": 4
+  },
+  {
+   "answer": "Lombard",
+   "aliases": [
+    "Lumbaart"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Piedmontese",
+   "aliases": [
+    "Piemontèis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ligurian",
+   "aliases": [
+    "Genoese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Friulian",
+   "aliases": [
+    "Furlan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ladin",
+   "tier": 5
+  },
+  {
+   "answer": "Aragonese",
+   "tier": 5
+  },
+  {
+   "answer": "Asturian",
+   "aliases": [
+    "Asturianu",
+    "Bable"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leonese",
+   "tier": 5
+  },
+  {
+   "answer": "Mirandese",
+   "tier": 5
+  },
+  {
+   "answer": "Provençal",
+   "tier": 5
+  },
+  {
+   "answer": "Gascon",
+   "tier": 5
+  },
+  {
+   "answer": "Aranese",
+   "tier": 5
+  },
+  {
+   "answer": "Franco-Provençal",
+   "aliases": [
+    "Arpitan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Walloon",
+   "tier": 5
+  },
+  {
+   "answer": "Picard",
+   "aliases": [
+    "Chtimi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Norman",
+   "aliases": [
+    "Norman French"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jèrriais",
+   "aliases": [
+    "Jersey French",
+    "Jersey Norman French"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guernésiais",
+   "aliases": [
+    "Guernsey French",
+    "Dgèrnésiais"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Aromanian",
+   "aliases": [
+    "Vlach"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Istro-Romanian",
+   "tier": 5
+  },
+  {
+   "answer": "Megleno-Romanian",
+   "tier": 5
+  },
+  {
+   "answer": "Arbëresh",
+   "tier": 5
+  },
+  {
+   "answer": "Griko",
+   "aliases": [
+    "Grecanico"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pontic Greek",
+   "aliases": [
+    "Pontic",
+    "Romeyka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cappadocian Greek",
+   "tier": 5
+  },
+  {
+   "answer": "Alemannic",
+   "aliases": [
+    "Alemannisch",
+    "Swabian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alsatian",
+   "tier": 5
+  },
+  {
+   "answer": "Limburgish",
+   "aliases": [
+    "Limburgs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "North Frisian",
+   "tier": 5
+  },
+  {
+   "answer": "Saterland Frisian",
+   "aliases": [
+    "Seeltersk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Plautdietsch",
+   "aliases": [
+    "Mennonite Low German"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cimbrian",
+   "tier": 5
+  },
+  {
+   "answer": "Mòcheno",
+   "tier": 5
+  },
+  {
+   "answer": "Wymysorys",
+   "aliases": [
+    "Vilamovian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sorbian",
+   "tier": 5
+  },
+  {
+   "answer": "Kashubian",
+   "aliases": [
+    "Cassubian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Silesian",
+   "tier": 5
+  },
+  {
+   "answer": "Rusyn",
+   "aliases": [
+    "Ruthenian",
+    "Lemko"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Latgalian",
+   "tier": 5
+  },
+  {
+   "answer": "Livonian",
+   "tier": 5,
+   "lore": "Its last native speaker died in 2013, but a small band of learners in Latvia keeps it spoken."
+  },
+  {
+   "answer": "Karelian",
+   "tier": 5
+  },
+  {
+   "answer": "Veps",
+   "aliases": [
+    "Vepsian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Võro",
+   "aliases": [
+    "Voru"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kven",
+   "tier": 5
+  },
+  {
+   "answer": "Meänkieli",
+   "aliases": [
+    "Tornedalen Finnish"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Inari Sami",
+   "tier": 5
+  },
+  {
+   "answer": "Skolt Sami",
+   "tier": 5
+  },
+  {
+   "answer": "Lule Sami",
+   "tier": 5
+  },
+  {
+   "answer": "Southern Sami",
+   "tier": 5
+  },
+  {
+   "answer": "Shelta",
+   "aliases": [
+    "Gammon",
+    "Irish Traveller Cant",
+    "Traveller Cant"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Angloromani",
+   "tier": 5
+  },
+  {
+   "answer": "Karaim",
+   "tier": 5
+  },
+  {
+   "answer": "Gagauz",
+   "tier": 5
+  },
+  {
+   "answer": "Udmurt",
+   "tier": 5
+  },
+  {
+   "answer": "Mari",
+   "aliases": [
+    "Meadow Mari"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Komi",
+   "aliases": [
+    "Komi-Zyrian",
+    "Komi-Permyak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Erzya",
+   "tier": 5
+  },
+  {
+   "answer": "Moksha",
+   "tier": 5
+  },
+  {
+   "answer": "Ingush",
+   "tier": 5
+  },
+  {
+   "answer": "Avar",
+   "tier": 5
+  },
+  {
+   "answer": "Lezgian",
+   "aliases": [
+    "Lezgi",
+    "Lezgin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dargwa",
+   "aliases": [
+    "Dargin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lak",
+   "tier": 5
+  },
+  {
+   "answer": "Kumyk",
+   "tier": 5
+  },
+  {
+   "answer": "Nogai",
+   "tier": 5
+  },
+  {
+   "answer": "Karachay-Balkar",
+   "tier": 5
+  },
+  {
+   "answer": "Kabardian",
+   "aliases": [
+    "East Circassian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adyghe",
+   "aliases": [
+    "West Circassian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Abkhaz",
+   "aliases": [
+    "Abkhazian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mingrelian",
+   "aliases": [
+    "Megrelian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Svan",
+   "tier": 5
+  },
+  {
+   "answer": "Laz",
+   "tier": 5
+  },
+  {
+   "answer": "Udi",
+   "tier": 5
+  },
+  {
+   "answer": "Kalmyk",
+   "aliases": [
+    "Oirat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Buryat",
+   "tier": 5
+  },
+  {
+   "answer": "Tuvan",
+   "aliases": [
+    "Tuvinian",
+    "Tyvan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Altai",
+   "aliases": [
+    "Altay"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khakas",
+   "tier": 5
+  },
+  {
+   "answer": "Evenki",
+   "tier": 5
+  },
+  {
+   "answer": "Even",
+   "tier": 5
+  },
+  {
+   "answer": "Nenets",
+   "tier": 5
+  },
+  {
+   "answer": "Khanty",
+   "tier": 5
+  },
+  {
+   "answer": "Mansi",
+   "tier": 5
+  },
+  {
+   "answer": "Chukchi",
+   "tier": 5
+  },
+  {
+   "answer": "Koryak",
+   "tier": 5
+  },
+  {
+   "answer": "Nivkh",
+   "aliases": [
+    "Gilyak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ket",
+   "tier": 5,
+   "lore": "The last of a Siberian family that some linguists link to Navajo and its kin across the Bering Strait."
+  },
+  {
+   "answer": "Yukaghir",
+   "tier": 5
+  },
+  {
+   "answer": "Itelmen",
+   "tier": 5
+  },
+  {
+   "answer": "Selkup",
+   "tier": 5
+  },
+  {
+   "answer": "Nganasan",
+   "tier": 5
+  },
+  {
+   "answer": "Karakalpak",
+   "tier": 5
+  },
+  {
+   "answer": "Dungan",
+   "tier": 5
+  },
+  {
+   "answer": "Wakhi",
+   "tier": 5
+  },
+  {
+   "answer": "Shughni",
+   "tier": 5
+  },
+  {
+   "answer": "Kurmanji",
+   "aliases": [
+    "Northern Kurdish"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sorani",
+   "aliases": [
+    "Central Kurdish"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zaza",
+   "aliases": [
+    "Zazaki"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gilaki",
+   "tier": 5
+  },
+  {
+   "answer": "Mazandarani",
+   "tier": 5
+  },
+  {
+   "answer": "Luri",
+   "tier": 5
+  },
+  {
+   "answer": "Talysh",
+   "tier": 5
+  },
+  {
+   "answer": "Domari",
+   "tier": 5
+  },
+  {
+   "answer": "Turoyo",
+   "aliases": [
+    "Surayt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mandaic",
+   "tier": 5
+  },
+  {
+   "answer": "Judeo-Arabic",
+   "aliases": [
+    "Judaeo-Arabic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Levantine Arabic",
+   "aliases": [
+    "Shami",
+    "Syrian Arabic",
+    "Lebanese Arabic",
+    "Palestinian Arabic",
+    "Lebanese",
+    "Levantine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gulf Arabic",
+   "aliases": [
+    "Khaleeji",
+    "Emirati Arabic",
+    "Kuwaiti Arabic",
+    "Qatari Arabic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Iraqi Arabic",
+   "aliases": [
+    "Iraqi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sudanese Arabic",
+   "aliases": [
+    "Sudanese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Algerian Arabic",
+   "aliases": [
+    "Algerian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tunisian Arabic",
+   "aliases": [
+    "Tounsi",
+    "Tunisian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hassaniya",
+   "tier": 5
+  },
+  {
+   "answer": "Tulu",
+   "tier": 5
+  },
+  {
+   "answer": "Marwari",
+   "tier": 5
+  },
+  {
+   "answer": "Awadhi",
+   "tier": 5
+  },
+  {
+   "answer": "Dogri",
+   "tier": 5
+  },
+  {
+   "answer": "Santali",
+   "aliases": [
+    "Santhali"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Manipuri",
+   "aliases": [
+    "Meitei",
+    "Meiteilon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mizo",
+   "aliases": [
+    "Lushai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khasi",
+   "tier": 5
+  },
+  {
+   "answer": "Garo",
+   "tier": 5
+  },
+  {
+   "answer": "Bodo",
+   "tier": 5
+  },
+  {
+   "answer": "Kokborok",
+   "aliases": [
+    "Tripuri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lepcha",
+   "tier": 5
+  },
+  {
+   "answer": "Sikkimese",
+   "aliases": [
+    "Bhutia",
+    "Drenjongke"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Newari",
+   "aliases": [
+    "Nepal Bhasa",
+    "Newar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tharu",
+   "tier": 5
+  },
+  {
+   "answer": "Limbu",
+   "tier": 5
+  },
+  {
+   "answer": "Sherpa",
+   "tier": 5
+  },
+  {
+   "answer": "Tamang",
+   "tier": 5
+  },
+  {
+   "answer": "Gurung",
+   "tier": 5
+  },
+  {
+   "answer": "Magar",
+   "tier": 5
+  },
+  {
+   "answer": "Hindko",
+   "tier": 5
+  },
+  {
+   "answer": "Shina",
+   "tier": 5
+  },
+  {
+   "answer": "Balti",
+   "tier": 5
+  },
+  {
+   "answer": "Ladakhi",
+   "tier": 5
+  },
+  {
+   "answer": "Burushaski",
+   "tier": 5,
+   "lore": "Spoken in the mountain valleys of northern Pakistan, and related to no other known language."
+  },
+  {
+   "answer": "Khowar",
+   "tier": 5
+  },
+  {
+   "answer": "Brahui",
+   "tier": 5
+  },
+  {
+   "answer": "Gondi",
+   "tier": 5
+  },
+  {
+   "answer": "Bhili",
+   "aliases": [
+    "Bhil"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kurukh",
+   "aliases": [
+    "Oraon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ho",
+   "tier": 5
+  },
+  {
+   "answer": "Mundari",
+   "tier": 5
+  },
+  {
+   "answer": "Kodava",
+   "aliases": [
+    "Coorgi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Badaga",
+   "tier": 5
+  },
+  {
+   "answer": "Toda",
+   "tier": 5
+  },
+  {
+   "answer": "Haryanvi",
+   "tier": 5
+  },
+  {
+   "answer": "Garhwali",
+   "tier": 5
+  },
+  {
+   "answer": "Kumaoni",
+   "tier": 5
+  },
+  {
+   "answer": "Chhattisgarhi",
+   "tier": 5
+  },
+  {
+   "answer": "Magahi",
+   "tier": 5
+  },
+  {
+   "answer": "Chittagonian",
+   "tier": 5
+  },
+  {
+   "answer": "Nagamese",
+   "tier": 5
+  },
+  {
+   "answer": "Teochew",
+   "aliases": [
+    "Teochiu",
+    "Chaozhou",
+    "Chiuchow"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gan",
+   "tier": 5
+  },
+  {
+   "answer": "Xiang",
+   "aliases": [
+    "Hunanese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fuzhounese",
+   "aliases": [
+    "Min Dong",
+    "Eastern Min"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hainanese",
+   "tier": 5
+  },
+  {
+   "answer": "Taishanese",
+   "aliases": [
+    "Toisanese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zhuang",
+   "tier": 5
+  },
+  {
+   "answer": "Yi",
+   "aliases": [
+    "Nuosu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bai",
+   "tier": 5
+  },
+  {
+   "answer": "Naxi",
+   "aliases": [
+    "Nakhi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dong",
+   "aliases": [
+    "Kam"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lisu",
+   "tier": 5
+  },
+  {
+   "answer": "Lahu",
+   "tier": 5
+  },
+  {
+   "answer": "Akha",
+   "tier": 5
+  },
+  {
+   "answer": "Hani",
+   "tier": 5
+  },
+  {
+   "answer": "Jingpo",
+   "aliases": [
+    "Kachin",
+    "Jinghpaw"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wa",
+   "tier": 5
+  },
+  {
+   "answer": "Qiang",
+   "tier": 5
+  },
+  {
+   "answer": "Manchu",
+   "tier": 5
+  },
+  {
+   "answer": "Xibe",
+   "aliases": [
+    "Sibe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ainu",
+   "tier": 5
+  },
+  {
+   "answer": "Jeju",
+   "aliases": [
+    "Jejueo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amis",
+   "tier": 5
+  },
+  {
+   "answer": "Atayal",
+   "tier": 5
+  },
+  {
+   "answer": "Paiwan",
+   "tier": 5
+  },
+  {
+   "answer": "Mon",
+   "tier": 5
+  },
+  {
+   "answer": "Rakhine",
+   "aliases": [
+    "Arakanese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chin",
+   "tier": 5
+  },
+  {
+   "answer": "Cham",
+   "tier": 5
+  },
+  {
+   "answer": "Isan",
+   "aliases": [
+    "Northeastern Thai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Northern Thai",
+   "aliases": [
+    "Kham Mueang",
+    "Lanna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khmu",
+   "tier": 5
+  },
+  {
+   "answer": "Madurese",
+   "tier": 5
+  },
+  {
+   "answer": "Minangkabau",
+   "aliases": [
+    "Minang"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Acehnese",
+   "aliases": [
+    "Achinese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Batak",
+   "tier": 5
+  },
+  {
+   "answer": "Buginese",
+   "aliases": [
+    "Bugis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Iban",
+   "tier": 5
+  },
+  {
+   "answer": "Kadazan",
+   "aliases": [
+    "Kadazandusun"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Banjar",
+   "aliases": [
+    "Banjarese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Betawi",
+   "tier": 5
+  },
+  {
+   "answer": "Hiligaynon",
+   "aliases": [
+    "Ilonggo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Waray",
+   "aliases": [
+    "Waray-Waray"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kapampangan",
+   "aliases": [
+    "Pampango"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bikol",
+   "aliases": [
+    "Bicolano",
+    "Bikolano",
+    "Bicol"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pangasinan",
+   "tier": 5
+  },
+  {
+   "answer": "Chavacano",
+   "aliases": [
+    "Chabacano"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tausug",
+   "tier": 5
+  },
+  {
+   "answer": "Maranao",
+   "tier": 5
+  },
+  {
+   "answer": "Maguindanao",
+   "tier": 5
+  },
+  {
+   "answer": "Tigre",
+   "tier": 5
+  },
+  {
+   "answer": "Fante",
+   "aliases": [
+    "Fanti"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ga",
+   "tier": 5
+  },
+  {
+   "answer": "Tshiluba",
+   "aliases": [
+    "Luba-Kasai",
+    "Ciluba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kirundi",
+   "aliases": [
+    "Rundi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sepedi",
+   "aliases": [
+    "Northern Sotho",
+    "Pedi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tsonga",
+   "aliases": [
+    "Xitsonga",
+    "Shangaan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Venda",
+   "aliases": [
+    "Tshivenda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Swati",
+   "aliases": [
+    "siSwati",
+    "Swazi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bemba",
+   "aliases": [
+    "Chibemba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luo",
+   "aliases": [
+    "Dholuo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kalenjin",
+   "tier": 5
+  },
+  {
+   "answer": "Maasai",
+   "aliases": [
+    "Maa",
+    "Masai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kabyle",
+   "aliases": [
+    "Taqbaylit"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tuareg",
+   "aliases": [
+    "Tamasheq",
+    "Tamajaq"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tashelhit",
+   "aliases": [
+    "Shilha",
+    "Tachelhit"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Riffian",
+   "aliases": [
+    "Tarifit"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Siwi",
+   "tier": 5
+  },
+  {
+   "answer": "Kanuri",
+   "tier": 5
+  },
+  {
+   "answer": "Mandinka",
+   "aliases": [
+    "Mandingo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bambara",
+   "aliases": [
+    "Bamanankan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dyula",
+   "aliases": [
+    "Dioula"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Soninke",
+   "tier": 5
+  },
+  {
+   "answer": "Serer",
+   "tier": 5
+  },
+  {
+   "answer": "Jola",
+   "aliases": [
+    "Diola"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mooré",
+   "aliases": [
+    "Mossi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dinka",
+   "tier": 5
+  },
+  {
+   "answer": "Nuer",
+   "tier": 5
+  },
+  {
+   "answer": "Shilluk",
+   "tier": 5
+  },
+  {
+   "answer": "Bari",
+   "tier": 5
+  },
+  {
+   "answer": "Zande",
+   "aliases": [
+    "Azande"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nobiin",
+   "aliases": [
+    "Nubian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Beja",
+   "aliases": [
+    "Bedawi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fur",
+   "tier": 5
+  },
+  {
+   "answer": "Afar",
+   "tier": 5
+  },
+  {
+   "answer": "Sidamo",
+   "aliases": [
+    "Sidama"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wolaytta",
+   "tier": 5
+  },
+  {
+   "answer": "Harari",
+   "tier": 5
+  },
+  {
+   "answer": "Sango",
+   "tier": 5
+  },
+  {
+   "answer": "Fon",
+   "tier": 5
+  },
+  {
+   "answer": "Edo",
+   "tier": 5
+  },
+  {
+   "answer": "Efik",
+   "tier": 5
+  },
+  {
+   "answer": "Ibibio",
+   "tier": 5
+  },
+  {
+   "answer": "Tiv",
+   "tier": 5
+  },
+  {
+   "answer": "Ijaw",
+   "aliases": [
+    "Izon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Urhobo",
+   "tier": 5
+  },
+  {
+   "answer": "Nupe",
+   "tier": 5
+  },
+  {
+   "answer": "Igala",
+   "tier": 5
+  },
+  {
+   "answer": "Songhay",
+   "aliases": [
+    "Songhai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zarma",
+   "aliases": [
+    "Djerma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Temne",
+   "aliases": [
+    "Themne"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mende",
+   "tier": 5
+  },
+  {
+   "answer": "Kpelle",
+   "tier": 5
+  },
+  {
+   "answer": "Vai",
+   "tier": 5
+  },
+  {
+   "answer": "Baoulé",
+   "aliases": [
+    "Baule"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dagbani",
+   "aliases": [
+    "Dagbanli"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Herero",
+   "aliases": [
+    "Otjiherero"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oshiwambo",
+   "aliases": [
+    "Ovambo",
+    "Owambo",
+    "Kwanyama"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Khoekhoe",
+   "aliases": [
+    "Nama",
+    "Khoekhoegowab"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taa",
+   "aliases": [
+    "!Xóõ"
+   ],
+   "tier": 5,
+   "lore": "Spoken in Botswana and Namibia, with dozens of click sounds and one of the largest sets of sounds of any language."
+  },
+  {
+   "answer": "Juǀʼhoan",
+   "aliases": [
+    "Ju'hoansi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hadza",
+   "aliases": [
+    "Hadzane"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sandawe",
+   "tier": 5
+  },
+  {
+   "answer": "Iraqw",
+   "tier": 5
+  },
+  {
+   "answer": "Turkana",
+   "tier": 5
+  },
+  {
+   "answer": "Acholi",
+   "aliases": [
+    "Acoli"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lango",
+   "tier": 5
+  },
+  {
+   "answer": "Ateso",
+   "aliases": [
+    "Teso"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lugbara",
+   "tier": 5
+  },
+  {
+   "answer": "Runyankole",
+   "aliases": [
+    "Runyankore",
+    "Nkore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lusoga",
+   "tier": 5
+  },
+  {
+   "answer": "Sukuma",
+   "tier": 5
+  },
+  {
+   "answer": "Chaga",
+   "aliases": [
+    "Chagga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nyamwezi",
+   "tier": 5
+  },
+  {
+   "answer": "Makonde",
+   "tier": 5
+  },
+  {
+   "answer": "Makhuwa",
+   "aliases": [
+    "Makua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sena",
+   "tier": 5
+  },
+  {
+   "answer": "Ndau",
+   "tier": 5
+  },
+  {
+   "answer": "Tumbuka",
+   "aliases": [
+    "Chitumbuka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lozi",
+   "aliases": [
+    "Silozi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chitonga",
+   "aliases": [
+    "Zambian Tonga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Umbundu",
+   "tier": 5
+  },
+  {
+   "answer": "Kimbundu",
+   "tier": 5
+  },
+  {
+   "answer": "Chokwe",
+   "tier": 5
+  },
+  {
+   "answer": "Fang",
+   "tier": 5
+  },
+  {
+   "answer": "Duala",
+   "tier": 5
+  },
+  {
+   "answer": "Ewondo",
+   "tier": 5
+  },
+  {
+   "answer": "Bassa",
+   "tier": 5
+  },
+  {
+   "answer": "Comorian",
+   "aliases": [
+    "Shikomori"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seychellois Creole",
+   "aliases": [
+    "Seselwa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Réunion Creole",
+   "tier": 5
+  },
+  {
+   "answer": "Cape Verdean Creole",
+   "aliases": [
+    "Kriolu",
+    "Kabuverdianu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guinea-Bissau Creole",
+   "aliases": [
+    "Guinea-Bissau Kriol"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cameroonian Pidgin",
+   "aliases": [
+    "Kamtok"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fanagalo",
+   "aliases": [
+    "Fanakalo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kituba",
+   "aliases": [
+    "Munukutuba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Q'eqchi'",
+   "aliases": [
+    "Kekchi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kaqchikel",
+   "aliases": [
+    "Cakchiquel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mam",
+   "tier": 5
+  },
+  {
+   "answer": "Tzeltal",
+   "tier": 5
+  },
+  {
+   "answer": "Tzotzil",
+   "tier": 5
+  },
+  {
+   "answer": "Otomi",
+   "aliases": [
+    "Hñähñu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mazahua",
+   "tier": 5
+  },
+  {
+   "answer": "Totonac",
+   "tier": 5
+  },
+  {
+   "answer": "Purépecha",
+   "aliases": [
+    "Tarascan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Huichol",
+   "aliases": [
+    "Wixárika"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tarahumara",
+   "aliases": [
+    "Rarámuri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yaqui",
+   "tier": 5
+  },
+  {
+   "answer": "Mixe",
+   "tier": 5
+  },
+  {
+   "answer": "Garifuna",
+   "tier": 5
+  },
+  {
+   "answer": "Miskito",
+   "tier": 5
+  },
+  {
+   "answer": "Kuna",
+   "aliases": [
+    "Guna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Emberá",
+   "tier": 5
+  },
+  {
+   "answer": "Wayuu",
+   "aliases": [
+    "Wayuunaiki",
+    "Guajiro"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kichwa",
+   "tier": 5
+  },
+  {
+   "answer": "Shuar",
+   "tier": 5
+  },
+  {
+   "answer": "Ticuna",
+   "aliases": [
+    "Tikuna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yanomami",
+   "aliases": [
+    "Yanomamö"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pirahã",
+   "tier": 5,
+   "lore": "Spoken on a tributary of the Amazon. It can be hummed or whistled, and may have no words for exact numbers."
+  },
+  {
+   "answer": "Nheengatu",
+   "tier": 5
+  },
+  {
+   "answer": "Kayapo",
+   "tier": 5
+  },
+  {
+   "answer": "Xavante",
+   "tier": 5
+  },
+  {
+   "answer": "Wichí",
+   "tier": 5
+  },
+  {
+   "answer": "Rapa Nui",
+   "tier": 5
+  },
+  {
+   "answer": "Dakota",
+   "aliases": [
+    "Sioux"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oneida",
+   "tier": 5
+  },
+  {
+   "answer": "Seneca",
+   "tier": 5
+  },
+  {
+   "answer": "Cayuga",
+   "tier": 5
+  },
+  {
+   "answer": "Chickasaw",
+   "tier": 5
+  },
+  {
+   "answer": "Muscogee",
+   "aliases": [
+    "Creek",
+    "Mvskoke"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zuni",
+   "tier": 5
+  },
+  {
+   "answer": "Tohono O'odham",
+   "aliases": [
+    "O'odham",
+    "Papago",
+    "Pima"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mi'kmaq",
+   "aliases": [
+    "Mi'kmaw",
+    "Micmac"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Innu",
+   "aliases": [
+    "Montagnais"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dene",
+   "aliases": [
+    "Chipewyan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gwich'in",
+   "tier": 5
+  },
+  {
+   "answer": "Haida",
+   "tier": 5
+  },
+  {
+   "answer": "Tlingit",
+   "tier": 5
+  },
+  {
+   "answer": "Lushootseed",
+   "tier": 5
+  },
+  {
+   "answer": "Shoshone",
+   "tier": 5
+  },
+  {
+   "answer": "Comanche",
+   "tier": 5
+  },
+  {
+   "answer": "Kiowa",
+   "tier": 5
+  },
+  {
+   "answer": "Cheyenne",
+   "tier": 5
+  },
+  {
+   "answer": "Arapaho",
+   "tier": 5
+  },
+  {
+   "answer": "Crow",
+   "tier": 5
+  },
+  {
+   "answer": "Osage",
+   "tier": 5
+  },
+  {
+   "answer": "Ho-Chunk",
+   "aliases": [
+    "Winnebago"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Menominee",
+   "tier": 5
+  },
+  {
+   "answer": "Potawatomi",
+   "tier": 5
+  },
+  {
+   "answer": "Passamaquoddy",
+   "aliases": [
+    "Maliseet",
+    "Maliseet-Passamaquoddy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wampanoag",
+   "aliases": [
+    "Wôpanâak",
+    "Massachusett"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nez Perce",
+   "aliases": [
+    "Niimiipuutímt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Halkomelem",
+   "tier": 5
+  },
+  {
+   "answer": "Squamish",
+   "tier": 5
+  },
+  {
+   "answer": "Kwakwala",
+   "tier": 5
+  },
+  {
+   "answer": "Nuu-chah-nulth",
+   "aliases": [
+    "Nootka"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Michif",
+   "tier": 5
+  },
+  {
+   "answer": "Chinook Jargon",
+   "aliases": [
+    "Chinuk Wawa",
+    "Chinook Wawa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tewa",
+   "tier": 5
+  },
+  {
+   "answer": "Keres",
+   "tier": 5
+  },
+  {
+   "answer": "Yurok",
+   "tier": 5,
+   "lore": "Its last native speaker died in 2013, yet it is now taught in Californian high schools."
+  },
+  {
+   "answer": "Karuk",
+   "tier": 5
+  },
+  {
+   "answer": "Hupa",
+   "tier": 5
+  },
+  {
+   "answer": "Washo",
+   "tier": 5
+  },
+  {
+   "answer": "Paiute",
+   "tier": 5
+  },
+  {
+   "answer": "Ute",
+   "tier": 5
+  },
+  {
+   "answer": "Aleut",
+   "tier": 5
+  },
+  {
+   "answer": "Gullah",
+   "aliases": [
+    "Geechee"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Louisiana Creole",
+   "aliases": [
+    "Kouri-Vini"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Louisiana French",
+   "aliases": [
+    "Cajun French",
+    "Cajun"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Antillean Creole",
+   "aliases": [
+    "Kwéyòl",
+    "Martinican Creole",
+    "Guadeloupean Creole",
+    "Dominican Creole"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sranan Tongo",
+   "aliases": [
+    "Sranan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saramaccan",
+   "tier": 5
+  },
+  {
+   "answer": "Guyanese Creole",
+   "aliases": [
+    "Creolese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Belizean Creole",
+   "aliases": [
+    "Belize Kriol"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bajan",
+   "aliases": [
+    "Barbadian Creole"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trinidadian Creole",
+   "tier": 5
+  },
+  {
+   "answer": "Hawaiian Pidgin",
+   "aliases": [
+    "Hawaii Creole English"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marshallese",
+   "tier": 5
+  },
+  {
+   "answer": "Palauan",
+   "tier": 5
+  },
+  {
+   "answer": "Gilbertese",
+   "aliases": [
+    "Kiribati",
+    "Kiribatese"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nauruan",
+   "tier": 5
+  },
+  {
+   "answer": "Tuvaluan",
+   "tier": 5
+  },
+  {
+   "answer": "Niuean",
+   "tier": 5
+  },
+  {
+   "answer": "Rarotongan",
+   "aliases": [
+    "Cook Islands Maori"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tokelauan",
+   "tier": 5
+  },
+  {
+   "answer": "Marquesan",
+   "tier": 5
+  },
+  {
+   "answer": "Pitkern",
+   "aliases": [
+    "Pitcairnese",
+    "Norfuk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hiri Motu",
+   "tier": 5
+  },
+  {
+   "answer": "Pijin",
+   "tier": 5
+  },
+  {
+   "answer": "Enga",
+   "tier": 5
+  },
+  {
+   "answer": "Huli",
+   "tier": 5
+  },
+  {
+   "answer": "Arrernte",
+   "aliases": [
+    "Aranda",
+    "Arrarnta"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yolngu",
+   "aliases": [
+    "Yolngu Matha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tiwi",
+   "tier": 5
+  },
+  {
+   "answer": "Murrinh-Patha",
+   "tier": 5
+  },
+  {
+   "answer": "Kala Lagaw Ya",
+   "tier": 5
+  },
+  {
+   "answer": "Meriam Mir",
+   "tier": 5
+  },
+  {
+   "answer": "Yumplatok",
+   "aliases": [
+    "Torres Strait Creole"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anindilyakwa",
+   "tier": 5
+  },
+  {
+   "answer": "Burarra",
+   "tier": 5
+  },
+  {
+   "answer": "Djambarrpuyngu",
+   "tier": 5
+  },
+  {
+   "answer": "Gupapuyngu",
+   "tier": 5
+  },
+  {
+   "answer": "Alyawarr",
+   "tier": 5
+  },
+  {
+   "answer": "Kaurna",
+   "tier": 5
+  },
+  {
+   "answer": "Wiradjuri",
+   "tier": 5
+  },
+  {
+   "answer": "Noongar",
+   "aliases": [
+    "Nyungar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gamilaraay",
+   "aliases": [
+    "Kamilaroi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kunwinjku",
+   "aliases": [
+    "Bininj Kunwok"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Luritja",
+   "tier": 5
+  },
+  {
+   "answer": "Warumungu",
+   "tier": 5
+  },
+  {
+   "answer": "Ngaanyatjarra",
+   "tier": 5
+  },
+  {
+   "answer": "Wik Mungkan",
+   "tier": 5
+  },
+  {
+   "answer": "Irish Sign Language",
+   "tier": 5
+  },
+  {
+   "answer": "New Zealand Sign Language",
+   "aliases": [
+    "NZSL"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "French Sign Language",
+   "aliases": [
+    "LSF"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quebec Sign Language",
+   "aliases": [
+    "LSQ"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "German Sign Language",
+   "aliases": [
+    "DGS"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Japanese Sign Language",
+   "tier": 5
+  },
+  {
+   "answer": "Chinese Sign Language",
+   "tier": 5
+  },
+  {
+   "answer": "Indian Sign Language",
+   "aliases": [
+    "Indo-Pakistani Sign Language"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nicaraguan Sign Language",
+   "tier": 5,
+   "lore": "Created by deaf children at new schools in Managua in the 1980s: a rare chance to watch a language being born."
+  },
+  {
+   "answer": "Plains Indian Sign Language",
+   "aliases": [
+    "Plains Sign Talk",
+    "Hand Talk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Al-Sayyid Bedouin Sign Language",
+   "aliases": [
+    "ABSL"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kata Kolok",
+   "tier": 5
+  },
+  {
+   "answer": "Algonquin",
+   "aliases": [
+    "Algonkin",
+    "Anicinàbemowin"
+   ],
+   "tier": 5,
+   "lore": "A living language of Quebec and Ontario, not to be confused with the Algonquian family it gave its name to."
+  },
+  {
+   "answer": "Nakota",
+   "aliases": [
+    "Nakoda",
+    "Assiniboine",
+    "Stoney"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tiwa",
+   "aliases": [
+    "Southern Tiwa",
+    "Taos",
+    "Picuris"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Towa",
+   "aliases": [
+    "Jemez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vedda",
+   "tier": 5
+  },
+  {
+   "answer": "Kogi",
+   "tier": 5
+  },
+  {
+   "answer": "Toba",
+   "aliases": [
+    "Qom",
+    "Toba Qom"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Warao",
+   "tier": 5
+  },
+  {
+   "answer": "Okanagan",
+   "aliases": [
+    "Nsyilxcen",
+    "Colville-Okanagan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bahamian Creole",
+   "tier": 5
+  },
+  {
+   "answer": "Fala",
+   "tier": 5
+  },
+  {
+   "answer": "Sama-Bajau",
+   "aliases": [
+    "Bajau"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Southern Thai",
+   "aliases": [
+    "Pak Tai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Guugu Yimithirr",
+   "aliases": [
+    "Guugu Yimidhirr"
+   ],
+   "tier": 5,
+   "lore": "Gave English the word kangaroo, noted down by Captain Cook's crew in 1770. Its speakers give directions by compass points, not left and right."
+  },
+  {
+   "answer": "Sentinelese",
+   "tier": 5,
+   "lore": "Spoken on North Sentinel Island by a people who refuse all contact, so almost nothing is known of it."
+  },
+  {
+   "answer": "Jarawa",
+   "tier": 5
+  },
+  {
+   "answer": "Onge",
+   "tier": 5
+  },
+  {
+   "answer": "Nihali",
+   "tier": 5
+  },
+  {
+   "answer": "Kusunda",
+   "tier": 5
+  },
+  {
+   "answer": "Yaghnobi",
+   "tier": 5
+  },
+  {
+   "answer": "Mehri",
+   "tier": 5
+  },
+  {
+   "answer": "Soqotri",
+   "aliases": [
+    "Socotri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Jibbali",
+   "aliases": [
+    "Shehri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Yemeni Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Libyan Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Hijazi Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Najdi Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Bakhtiari",
+   "tier": 5
+  },
+  {
+   "answer": "Qashqai",
+   "tier": 5
+  },
+  {
+   "answer": "Tat",
+   "tier": 5
+  },
+  {
+   "answer": "Juhuri",
+   "aliases": [
+    "Judeo-Tat",
+    "Mountain Jewish"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Abaza",
+   "tier": 5
+  },
+  {
+   "answer": "Tabasaran",
+   "tier": 5
+  },
+  {
+   "answer": "Archi",
+   "tier": 5
+  },
+  {
+   "answer": "Bats",
+   "aliases": [
+    "Tsova-Tush"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dolgan",
+   "tier": 5
+  },
+  {
+   "answer": "Nanai",
+   "tier": 5
+  },
+  {
+   "answer": "Siberian Yupik",
+   "tier": 5
+  },
+  {
+   "answer": "Kildin Sami",
+   "tier": 5
+  },
+  {
+   "answer": "Luhya",
+   "aliases": [
+    "Luyia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kamba",
+   "aliases": [
+    "Kikamba"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ekegusii",
+   "aliases": [
+    "Kisii",
+    "Gusii"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kimeru",
+   "aliases": [
+    "Meru"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lomwe",
+   "tier": 5
+  },
+  {
+   "answer": "Susu",
+   "tier": 5
+  },
+  {
+   "answer": "Lunda",
+   "tier": 5
+  },
+  {
+   "answer": "Maninka",
+   "aliases": [
+    "Malinke"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mazatec",
+   "tier": 5
+  },
+  {
+   "answer": "Huastec",
+   "aliases": [
+    "Wastek",
+    "Tének"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ch'ol",
+   "tier": 5
+  },
+  {
+   "answer": "Tz'utujil",
+   "tier": 5
+  },
+  {
+   "answer": "Bribri",
+   "tier": 5
+  },
+  {
+   "answer": "Ngäbere",
+   "aliases": [
+    "Guaymí"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Waorani",
+   "aliases": [
+    "Huaorani"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Shipibo",
+   "aliases": [
+    "Shipibo-Conibo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Asháninka",
+   "tier": 5
+  },
+  {
+   "answer": "Tsimané",
+   "tier": 5
+  },
+  {
+   "answer": "Kaingang",
+   "tier": 5
+  },
+  {
+   "answer": "Hixkaryana",
+   "tier": 5
+  },
+  {
+   "answer": "Mundurukú",
+   "tier": 5
+  },
+  {
+   "answer": "Macushi",
+   "tier": 5
+  },
+  {
+   "answer": "Lokono",
+   "aliases": [
+    "Arawak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kari'na",
+   "aliases": [
+    "Kalina",
+    "Carib"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Onondaga",
+   "tier": 5
+  },
+  {
+   "answer": "Tuscarora",
+   "tier": 5
+  },
+  {
+   "answer": "Mikasuki",
+   "tier": 5
+  },
+  {
+   "answer": "Shawnee",
+   "tier": 5
+  },
+  {
+   "answer": "Oji-Cree",
+   "tier": 5
+  },
+  {
+   "answer": "Atikamekw",
+   "tier": 5
+  },
+  {
+   "answer": "Omaha",
+   "aliases": [
+    "Omaha-Ponca"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kickapoo",
+   "tier": 5
+  },
+  {
+   "answer": "Meskwaki",
+   "aliases": [
+    "Fox",
+    "Sauk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hidatsa",
+   "tier": 5
+  },
+  {
+   "answer": "Koasati",
+   "tier": 5
+  },
+  {
+   "answer": "Havasupai",
+   "aliases": [
+    "Hualapai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mojave",
+   "tier": 5
+  },
+  {
+   "answer": "Kumeyaay",
+   "tier": 5
+  },
+  {
+   "answer": "Secwepemc",
+   "aliases": [
+    "Shuswap"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tsimshian",
+   "tier": 5
+  },
+  {
+   "answer": "Nisga'a",
+   "tier": 5
+  },
+  {
+   "answer": "Gitxsan",
+   "tier": 5
+  },
+  {
+   "answer": "Dakelh",
+   "aliases": [
+    "Carrier"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tłı̨chǫ",
+   "aliases": [
+    "Dogrib"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Slavey",
+   "tier": 5
+  },
+  {
+   "answer": "Koyukon",
+   "tier": 5
+  },
+  {
+   "answer": "Dena'ina",
+   "tier": 5
+  },
+  {
+   "answer": "Inuinnaqtun",
+   "tier": 5
+  },
+  {
+   "answer": "Inuvialuktun",
+   "tier": 5
+  },
+  {
+   "answer": "Alutiiq",
+   "aliases": [
+    "Sugpiaq"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ndyuka",
+   "tier": 5
+  },
+  {
+   "answer": "Palenquero",
+   "tier": 5
+  },
+  {
+   "answer": "Forro",
+   "tier": 5
+  },
+  {
+   "answer": "Kristang",
+   "tier": 5
+  },
+  {
+   "answer": "Chuukese",
+   "tier": 5
+  },
+  {
+   "answer": "Pohnpeian",
+   "tier": 5
+  },
+  {
+   "answer": "Kosraean",
+   "tier": 5
+  },
+  {
+   "answer": "Yapese",
+   "tier": 5
+  },
+  {
+   "answer": "Wallisian",
+   "tier": 5
+  },
+  {
+   "answer": "Tolai",
+   "aliases": [
+    "Kuanua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Melpa",
+   "tier": 5
+  },
+  {
+   "answer": "Fiji Hindi",
+   "tier": 5
+  },
+  {
+   "answer": "Rotuman",
+   "tier": 5
+  },
+  {
+   "answer": "Drehu",
+   "tier": 5
+  },
+  {
+   "answer": "Yankunytjatjara",
+   "tier": 5
+  },
+  {
+   "answer": "Anmatyerr",
+   "tier": 5
+  },
+  {
+   "answer": "Walmajarri",
+   "tier": 5
+  },
+  {
+   "answer": "Martu Wangka",
+   "tier": 5
+  },
+  {
+   "answer": "Gurindji",
+   "tier": 5
+  },
+  {
+   "answer": "Kuku Yalanji",
+   "tier": 5
+  },
+  {
+   "answer": "Bundjalung",
+   "tier": 5
+  },
+  {
+   "answer": "Pintupi",
+   "tier": 5
+  },
+  {
+   "answer": "Brazilian Sign Language",
+   "aliases": [
+    "Libras"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "South African Sign Language",
+   "tier": 5
+  },
+  {
+   "answer": "Sercquiais",
+   "tier": 5
+  },
+  {
+   "answer": "Emilian-Romagnol",
+   "aliases": [
+    "Emilian",
+    "Romagnol"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Extremaduran",
+   "tier": 5
+  },
+  {
+   "answer": "Monégasque",
+   "tier": 5
+  },
+  {
+   "answer": "Walser German",
+   "tier": 5
+  },
+  {
+   "answer": "Gutnish",
+   "tier": 5
+  },
+  {
+   "answer": "Samogitian",
+   "tier": 5
+  },
+  {
+   "answer": "Caló",
+   "tier": 5
+  },
+  {
+   "answer": "Sinti",
+   "tier": 5
+  },
+  {
+   "answer": "Hutterite German",
+   "aliases": [
+    "Hutterisch"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sasak",
+   "tier": 5
+  },
+  {
+   "answer": "Makassarese",
+   "tier": 5
+  },
+  {
+   "answer": "Toraja",
+   "tier": 5
+  },
+  {
+   "answer": "Papuan Malay",
+   "tier": 5
+  },
+  {
+   "answer": "Muong",
+   "tier": 5
+  },
+  {
+   "answer": "Tày",
+   "tier": 5
+  },
+  {
+   "answer": "Jin Chinese",
+   "tier": 5
+  },
+  {
+   "answer": "Wenzhounese",
+   "tier": 5
+  },
+  {
+   "answer": "Iu Mien",
+   "aliases": [
+    "Mien",
+    "Yao"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Salar",
+   "tier": 5
+  },
+  {
+   "answer": "Bunun",
+   "tier": 5
+  },
+  {
+   "answer": "Seediq",
+   "aliases": [
+    "Truku"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Miyako",
+   "tier": 5
+  },
+  {
+   "answer": "Bundeli",
+   "tier": 5
+  },
+  {
+   "answer": "Braj",
+   "aliases": [
+    "Braj Bhasha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lambadi",
+   "aliases": [
+    "Banjara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saurashtra",
+   "tier": 5
+  },
+  {
+   "answer": "Kinaray-a",
+   "tier": 5
+  },
+  {
+   "answer": "Ifugao",
+   "tier": 5
+  },
+  {
+   "answer": "Hawrami",
+   "aliases": [
+    "Hawramani"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chadian Arabic",
+   "aliases": [
+    "Shuwa Arabic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Juba Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Kinubi",
+   "aliases": [
+    "Nubi Creole"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cypriot Arabic",
+   "aliases": [
+    "Cypriot Maronite Arabic",
+    "Maronite Arabic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bahrani Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Omani Arabic",
+   "tier": 5
+  },
+  {
+   "answer": "Palawa kani",
+   "tier": 5
+  },
+  {
+   "answer": "Myaamia",
+   "aliases": [
+    "Miami-Illinois"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tsakonian",
+   "tier": 6,
+   "lore": "Descended from Doric, the Greek of ancient Sparta, not from the Greek of Athens. A few hundred to a few thousand people, mostly elderly, still speak it."
+  },
+  {
+   "answer": "Elfdalian",
+   "aliases": [
+    "Övdalian",
+    "Älvdalska",
+    "Övdalsk"
+   ],
+   "tier": 6,
+   "lore": "Spoken by about 2,500 people in one Swedish valley, whose ancestors were still writing in runes in the early 1900s."
+  },
+  {
+   "answer": "Rotokas",
+   "tier": 6,
+   "lore": "Spoken on the island of Bougainville, it has the smallest alphabet in use today: just twelve letters."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Latin",
+   "aliases": [
+    "Ecclesiastical Latin",
+    "Church Latin",
+    "Classical Latin",
+    "Vulgar Latin",
+    "Medieval Latin"
+   ],
+   "reason": "No one's mother tongue for well over a thousand years, so the deep counts it among the dead."
+  },
+  {
+   "answer": "Sanskrit",
+   "aliases": [
+    "Vedic Sanskrit",
+    "Vedic"
+   ],
+   "reason": "Chanted, studied and still broadcast, but nobody's everyday mother tongue for many centuries."
+  },
+  {
+   "answer": "Ancient Greek",
+   "aliases": [
+    "Classical Greek",
+    "Koine Greek",
+    "Koine",
+    "Attic Greek",
+    "Homeric Greek",
+    "Biblical Greek",
+    "Mycenaean Greek"
+   ],
+   "reason": "The ancient tongue is dead. Its modern descendant counts."
+  },
+  {
+   "answer": "Ancient Hebrew",
+   "aliases": [
+    "Biblical Hebrew",
+    "Classical Hebrew"
+   ],
+   "reason": "The ancient form is long dead. Plain Hebrew counts."
+  },
+  {
+   "answer": "Old English",
+   "aliases": [
+    "Anglo-Saxon",
+    "Middle English",
+    "Old Norse",
+    "Old French",
+    "Old Irish",
+    "Middle Irish",
+    "Old High German",
+    "Middle High German",
+    "Old Saxon",
+    "Middle French",
+    "Old Japanese",
+    "Middle Persian",
+    "Old Persian",
+    "Shakespearean English",
+    "Elizabethan English",
+    "Old Welsh"
+   ],
+   "reason": "An older stage of a living language, with no native speakers left."
+  },
+  {
+   "answer": "Sumerian",
+   "aliases": [
+    "Akkadian",
+    "Babylonian",
+    "Hittite",
+    "Etruscan",
+    "Phoenician",
+    "Gothic",
+    "Ancient Egyptian",
+    "Elamite",
+    "Ugaritic",
+    "Punic",
+    "Oscan",
+    "Umbrian",
+    "Luwian",
+    "Lycian",
+    "Lydian",
+    "Thracian",
+    "Dacian",
+    "Illyrian",
+    "Gaulish",
+    "Pictish",
+    "Cumbric",
+    "Celtiberian",
+    "Tocharian",
+    "Minoan",
+    "Hurrian",
+    "Sogdian",
+    "Scythian",
+    "Parthian",
+    "Prakrit",
+    "Proto-Indo-European",
+    "Ancient Macedonian",
+    "Moabite",
+    "Edomite",
+    "Nabataean",
+    "Hunnic",
+    "Frankish",
+    "Vandalic",
+    "Old Prussian",
+    "Polabian",
+    "Mozarabic",
+    "Phrygian",
+    "Langobardic",
+    "Lombardic",
+    "Crimean Gothic"
+   ],
+   "reason": "Dead for centuries, if not thousands of years."
+  },
+  {
+   "answer": "Coptic",
+   "aliases": [
+    "Church Slavonic",
+    "Old Church Slavonic",
+    "Classical Syriac",
+    "Avestan"
+   ],
+   "reason": "A church language now, and nobody's mother tongue for centuries."
+  },
+  {
+   "answer": "Classical Arabic",
+   "reason": "The Arabic of the Quran: recited, but nobody's mother tongue. Plain Arabic counts."
+  },
+  {
+   "answer": "Classical Chinese",
+   "aliases": [
+    "Literary Chinese",
+    "Old Chinese",
+    "Middle Chinese"
+   ],
+   "reason": "Read, not spoken, for many centuries. Plain Chinese counts."
+  },
+  {
+   "answer": "Ottoman Turkish",
+   "aliases": [
+    "Ottoman"
+   ],
+   "reason": "Gave way to modern Turkish in the 1920s. Plain Turkish counts."
+  },
+  {
+   "answer": "Norn",
+   "reason": "Died out in Orkney and Shetland in the 1700s or 1800s."
+  },
+  {
+   "answer": "Dalmatian",
+   "reason": "Its last speaker died in 1898. Now it's just a dog."
+  },
+  {
+   "answer": "Ubykh",
+   "reason": "Its last fluent speaker died in 1992."
+  },
+  {
+   "answer": "Eyak",
+   "reason": "Its last native speaker died in 2008."
+  },
+  {
+   "answer": "Yahgan",
+   "aliases": [
+    "Yaghan",
+    "Yámana"
+   ],
+   "reason": "Its last native speaker died in 2022."
+  },
+  {
+   "answer": "Taíno",
+   "reason": "Its last speakers died centuries ago, though hammock and hurricane live on in English."
+  },
+  {
+   "answer": "Aztec",
+   "reason": "A people, not a language. Their language is still spoken: give its name."
+  },
+  {
+   "answer": "Inca",
+   "aliases": [
+    "Incan"
+   ],
+   "reason": "A people, not a language. Their language is spoken by millions: give its name."
+  },
+  {
+   "answer": "Viking",
+   "aliases": [
+    "Norse"
+   ],
+   "reason": "A people, and their Old Norse is dead. Icelandic is its closest living kin."
+  },
+  {
+   "answer": "Celtic",
+   "aliases": [
+    "Slavic",
+    "Slavonic",
+    "Germanic",
+    "Bantu",
+    "Semitic",
+    "Polynesian",
+    "Indo-European",
+    "Dravidian",
+    "Uralic",
+    "Sino-Tibetan",
+    "Afroasiatic",
+    "Nordic",
+    "Scandinavian",
+    "Algonquian",
+    "Athabaskan",
+    "Iroquois",
+    "Iroquoian"
+   ],
+   "reason": "A family of languages. Name one of them."
+  },
+  {
+   "answer": "American",
+   "aliases": [
+    "Australian",
+    "British",
+    "Canadian",
+    "New Zealander",
+    "Aussie"
+   ],
+   "reason": "A nationality, not a language. English is spoken there."
+  },
+  {
+   "answer": "Mexican",
+   "aliases": [
+    "Argentinian",
+    "Argentine",
+    "Colombian",
+    "Peruvian",
+    "Chilean",
+    "Cuban",
+    "Venezuelan",
+    "Hispanic",
+    "Latino",
+    "Latin American"
+   ],
+   "reason": "A nationality, not a language. Spanish is spoken there."
+  },
+  {
+   "answer": "Brazilian",
+   "reason": "A nationality. Brazilians speak Portuguese."
+  },
+  {
+   "answer": "Austrian",
+   "reason": "A nationality. Austrians speak German."
+  },
+  {
+   "answer": "Dane",
+   "reason": "A person from Denmark. The language is Danish."
+  },
+  {
+   "answer": "Swiss",
+   "reason": "Switzerland has four national languages. Pick one."
+  },
+  {
+   "answer": "Belgian",
+   "reason": "Belgium has three official languages. Pick one."
+  },
+  {
+   "answer": "Indian",
+   "aliases": [
+    "South Indian",
+    "North Indian"
+   ],
+   "reason": "India has hundreds of languages. Pick one."
+  },
+  {
+   "answer": "Pakistani",
+   "reason": "Pakistan has dozens of languages. Pick one."
+  },
+  {
+   "answer": "Nigerian",
+   "reason": "Nigeria has over 500 languages. Pick one."
+  },
+  {
+   "answer": "African",
+   "reason": "Africa has some 2,000 languages. Pick one."
+  },
+  {
+   "answer": "Native American",
+   "aliases": [
+    "American Indian",
+    "First Nations",
+    "Amerindian",
+    "Indigenous"
+   ],
+   "reason": "There are hundreds of them. Pick one."
+  },
+  {
+   "answer": "Aboriginal",
+   "aliases": [
+    "Aborigine",
+    "Aboriginal Australian",
+    "Indigenous Australian"
+   ],
+   "reason": "Australia has many First Nations languages. Pick one."
+  },
+  {
+   "answer": "Iranian",
+   "reason": "A nationality. Iranians mostly speak Persian."
+  },
+  {
+   "answer": "Afghan",
+   "reason": "A nationality. Afghanistan has two main languages. Pick one."
+  },
+  {
+   "answer": "Czechoslovak",
+   "aliases": [
+    "Czechoslovakian"
+   ],
+   "reason": "Two close cousins were spoken there. Name one."
+  },
+  {
+   "answer": "Amish",
+   "reason": "A people, not a language. Theirs is a form of German."
+  },
+  {
+   "answer": "Jewish",
+   "reason": "Which one? Jewish communities have spoken many languages."
+  },
+  {
+   "answer": "Hindu",
+   "aliases": [
+    "Muslim",
+    "Islamic",
+    "Sikh",
+    "Buddhist"
+   ],
+   "reason": "A religion, not a language."
+  },
+  {
+   "answer": "Makaton",
+   "reason": "Signs and symbols that support speech, not a language of its own."
+  },
+  {
+   "answer": "Cockney",
+   "aliases": [
+    "Scouse",
+    "Geordie",
+    "Brummie",
+    "Mancunian",
+    "Yorkshire",
+    "Glaswegian",
+    "Doric",
+    "Received Pronunciation",
+    "Estuary English",
+    "Strine",
+    "AAVE",
+    "Ebonics",
+    "African American Vernacular English"
+   ],
+   "reason": "A dialect, not a language of its own."
+  },
+  {
+   "answer": "Spanglish",
+   "aliases": [
+    "Franglais",
+    "Hinglish",
+    "Taglish",
+    "Denglisch"
+   ],
+   "reason": "A mix of two languages, not one of its own."
+  },
+  {
+   "answer": "Pig Latin",
+   "aliases": [
+    "Back slang",
+    "Rhyming slang",
+    "Cockney rhyming slang",
+    "Polari",
+    "Thieves' cant",
+    "Verlan",
+    "Leetspeak",
+    "Ubbi Dubbi"
+   ],
+   "reason": "Slang or a word game, played inside another language."
+  },
+  {
+   "answer": "Silbo Gomero",
+   "aliases": [
+    "Silbo",
+    "Whistled Spanish"
+   ],
+   "reason": "A way of whistling Spanish across the valleys of La Gomera. Not a language of its own."
+  },
+  {
+   "answer": "Pirate",
+   "aliases": [
+    "Pirate speak"
+   ],
+   "reason": "Arr. An accent, not a language."
+  },
+  {
+   "answer": "Gibberish",
+   "aliases": [
+    "Double Dutch",
+    "Gobbledygook",
+    "Mumbo jumbo"
+   ],
+   "reason": "Nonsense, however fluent."
+  },
+  {
+   "answer": "Body language",
+   "reason": "Says a lot, but it isn't a language."
+  },
+  {
+   "answer": "Klingon",
+   "aliases": [
+    "Elvish",
+    "Quenya",
+    "Sindarin",
+    "Dothraki",
+    "High Valyrian",
+    "Valyrian",
+    "Na'vi",
+    "Parseltongue",
+    "Newspeak",
+    "Nadsat",
+    "Simlish",
+    "Huttese",
+    "Minionese",
+    "Dovahzul",
+    "Black Speech",
+    "Gallifreyan",
+    "Kryptonian",
+    "Atlantean",
+    "Lapine",
+    "Mando'a",
+    "Tolkien's Elvish"
+   ],
+   "reason": "Invented for fiction. The deep wants a language people grow up speaking."
+  },
+  {
+   "answer": "R'lyehian",
+   "reason": "From H. P. Lovecraft's stories. Nobody speaks it, as far as anyone knows."
+  },
+  {
+   "answer": "Ido",
+   "aliases": [
+    "Volapük",
+    "Interlingua",
+    "Interlingue",
+    "Occidental",
+    "Lojban",
+    "Loglan",
+    "Toki Pona",
+    "Novial",
+    "Solresol",
+    "Láadan",
+    "Blissymbols",
+    "Lingua Franca Nova",
+    "Kotava",
+    "Ithkuil"
+   ],
+   "reason": "An invented language with no community of native speakers."
+  },
+  {
+   "answer": "Python",
+   "aliases": [
+    "Java",
+    "JavaScript",
+    "C++",
+    "C#",
+    "HTML",
+    "SQL",
+    "Ruby",
+    "Rust",
+    "Swift",
+    "Kotlin",
+    "COBOL",
+    "Fortran",
+    "BASIC",
+    "Perl",
+    "PHP",
+    "Scratch",
+    "Binary",
+    "Machine code"
+   ],
+   "reason": "A programming language. The deep wants one that people speak."
+  },
+  {
+   "answer": "Morse code",
+   "aliases": [
+    "Morse",
+    "Braille",
+    "Semaphore"
+   ],
+   "reason": "A code, not a language."
+  },
+  {
+   "answer": "Cyrillic",
+   "aliases": [
+    "Hangul",
+    "Kanji",
+    "Hiragana",
+    "Katakana",
+    "Devanagari",
+    "Gurmukhi",
+    "Pinyin",
+    "Runes",
+    "Ogham",
+    "Hieroglyphics",
+    "Hieroglyphs",
+    "Cuneiform",
+    "Linear B",
+    "Linear A",
+    "Simplified Chinese",
+    "Traditional Chinese",
+    "Latin alphabet",
+    "Roman alphabet"
+   ],
+   "reason": "A way of writing, not a language."
+  },
+  {
+   "answer": "Emoji",
+   "aliases": [
+    "Emoticons"
+   ],
+   "reason": "Pictures, not a language. Not yet, anyway."
+  },
+  {
+   "answer": "Lappish",
+   "aliases": [
+    "Lapp"
+   ],
+   "reason": "An old outsiders' name that many of its speakers find offensive. Try theirs."
+  },
+  {
+   "answer": "Eskimo",
+   "reason": "Many find that name offensive. Try the name the people use themselves."
+  },
+  {
+   "answer": "Gypsy",
+   "aliases": [
+    "Gipsy"
+   ],
+   "reason": "Many Roma find that word offensive. Try the name they use."
+  },
+  {
+   "answer": "Yola",
+   "reason": "Once spoken in County Wexford, it died out in the 1800s."
+  },
+  {
+   "answer": "Fingallian",
+   "reason": "Once spoken just north of Dublin, it died out in the 1800s."
+  },
+  {
+   "answer": "Beothuk",
+   "reason": "Died with its last known speaker, Shanawdithit, in 1829."
+  },
+  {
+   "answer": "Old Tupi",
+   "aliases": [
+    "Tupinamba"
+   ],
+   "reason": "Old Tupi is long dead, though a descendant is still spoken on the Amazon."
+  },
+  {
+   "answer": "Biblical Aramaic",
+   "aliases": [
+    "Old Aramaic",
+    "Imperial Aramaic"
+   ],
+   "reason": "The ancient form is long dead, though its modern descendants live on."
+  },
+  {
+   "answer": "Martha's Vineyard Sign Language",
+   "reason": "Its last deaf signers died in the mid-1900s."
+  },
+  {
+   "answer": "Hottentot",
+   "reason": "An old colonial name, now considered offensive. Try the name its speakers use."
+  },
+  {
+   "answer": "Bushman",
+   "aliases": [
+    "Bushmen"
+   ],
+   "reason": "An outsiders' name many San people dislike. Name one of their languages."
+  },
+  {
+   "answer": "Aklo",
+   "reason": "Arthur Machen's invention, later borrowed by H. P. Lovecraft. Nobody speaks it, as far as anyone knows."
+  },
+  {
+   "answer": "Signed English",
+   "aliases": [
+    "Sign Supported English",
+    "Signing Exact English",
+    "Signed Exact English",
+    "Manually Coded English"
+   ],
+   "reason": "English put into signs word for word, not a language of its own."
+  },
+  {
+   "answer": "Singaporean",
+   "reason": "A nationality. Singapore has four official languages. Pick one."
+  },
+  {
+   "answer": "Kenyan",
+   "aliases": [
+    "Ghanaian",
+    "South African",
+    "Congolese",
+    "Ethiopian",
+    "Cameroonian",
+    "Tanzanian"
+   ],
+   "reason": "A nationality, and the country has dozens of languages. Pick one."
+  },
+  {
+   "answer": "Bangladeshi",
+   "reason": "A nationality. Most Bangladeshis speak Bengali."
+  },
+  {
+   "answer": "Sri Lankan",
+   "reason": "A nationality. Sri Lanka has two main languages. Pick one."
+  },
+  {
+   "answer": "South Korean",
+   "aliases": [
+    "North Korean"
+   ],
+   "reason": "A nationality. Both Koreas speak Korean."
+  },
+  {
+   "answer": "Saudi",
+   "aliases": [
+    "Emirati",
+    "Kuwaiti",
+    "Qatari"
+   ],
+   "reason": "A nationality. Arabic is spoken there."
+  },
+  {
+   "answer": "Cypriot",
+   "reason": "A nationality. Cypriots mostly speak Greek or Turkish."
+  },
+  {
+   "answer": "Pole",
+   "aliases": [
+    "Swede",
+    "Spaniard",
+    "Finn",
+    "Frenchman",
+    "Frenchwoman",
+    "Welshman",
+    "Welshwoman",
+    "Croat"
+   ],
+   "reason": "A person, not a language. Try the adjective."
+  }
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"living-languages\" on 28 November 2026."
+}

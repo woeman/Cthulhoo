@@ -1,0 +1,102 @@
+id: chemistry-plastics
+text: Name a plastic or other polymer.
+flavor: Long chains, patiently linked. Nothing we make lasts longer. It will be here after us.
+rules: Any plastic, synthetic fibre, rubber or natural polymer, by its chemical, common or brand name.
+section: Polymers
+---
+1 Nylon | Polyamide | Nylon 6,6 | Nylon 6
+1 Polyester
+1 PVC | Polyvinyl chloride | Vinyl | uPVC
+1 Polystyrene | Styrofoam | Styrene | Foam | Expanded polystyrene | EPS
+1 Polyethylene | Polythene | Polyethene | PE
+1 Rubber | Natural rubber | Latex | Polyisoprene
+1 Teflon | PTFE | Polytetrafluoroethylene
+1 Silicone | Polysiloxane
+2 PET | Polyethylene terephthalate | PETE | Dacron | Terylene | Mylar
+2 Perspex | Acrylic | Plexiglas | PMMA | Polymethyl methacrylate | Plexiglass | Lucite
+2 Polypropylene | PP | Polypropene
+2 Kevlar | Aramid
+2 Lycra | Spandex | Elastane
+2 Bakelite
+2 Polyurethane | PU | Memory foam
+2 Cellophane
+2 Polycarbonate | Lexan
+2 HDPE | High-density polyethylene | LDPE | Low-density polyethylene
+2 Neoprene | Polychloroprene
+2 Cellulose | Cotton
+2 Starch
+2 Protein | Proteins
+2 DNA | RNA
+2 Epoxy | Epoxy resin | Araldite
+2 Bioplastic | PLA | Polylactic acid
+2 Rayon | Viscose
+2 Glad wrap | Cling film | Cling wrap
+2 Fibreglass | Fiberglass
+2 Vulcanised rubber | Vulcanized rubber | Synthetic rubber
+2 Silk | Wool
+3 ABS | Acrylonitrile butadiene styrene | Lego plastic
+3 Celluloid | Cellulose nitrate
+3 Melamine | Melamine resin | Formica
+3 Nomex
+3 Gore-Tex
+3 Polyvinyl acetate | PVA | PVA glue
+3 Polyvinyl alcohol
+3 Styrene-butadiene rubber | SBR
+3 Nitrile | Nitrile rubber
+3 Butyl rubber
+3 Polybutadiene
+3 EVA | Ethylene-vinyl acetate
+3 Acetate | Cellulose acetate
+3 Orlon | Acrylic fibre | Polyacrylonitrile | PAN
+3 Saran | PVDC | Polyvinylidene chloride
+3 Polyacrylamide
+3 Superglue | Cyanoacrylate | Polycyanoacrylate
+3 Chitin | Chitosan
+3 Keratin | Collagen | Gelatin | Gelatine
+3 Lignin
+3 Glycogen
+3 Amber | Shellac | Resin
+3 Gutta-percha
+3 Carbon fibre | Carbon fiber
+3 Polyimide | Kapton
+3 PEEK | Polyether ether ketone
+3 Delrin | Acetal | Polyoxymethylene | POM
+3 Urea-formaldehyde | Phenol-formaldehyde | Phenolic resin
+3 Polyacetylene
+3 Polyethylene glycol | PEG
+3 Dyneema | UHMWPE | Spectra
+3 Thermoplastic | Thermoset | Thermosetting plastic | Elastomer
+3 Polysaccharide | Polypeptide | Amylose | Amylopectin | Pectin | Agar
+3 Sodium polyacrylate | Superabsorbent polymer
+3 PEX | Cross-linked polyethylene
+3 Tyvek
+4 PHA | Polyhydroxyalkanoate | PHB
+4 PVB | Polyvinyl butyral
+4 Viton | FKM
+4 EPDM
+4 Hypalon
+4 Zylon | PBO
+4 Vectran
+4 Twaron | Technora
+4 Tufnol | Micarta
+6 Galalith | Casein plastic | Milk stone | Erinoid :: "Milk stone": a plastic made from milk protein and formaldehyde in the 1890s. For decades it was the world's buttons, knitting needles and fountain pens.
+4 Vulcanite | Ebonite
+4 Polysulfone
+4 PVDF | Polyvinylidene fluoride | Kynar
+4 ETFE | Tefzel
+4 FEP
+4 Nafion
+4 PEDOT | Polyaniline | Polypyrrole
+4 Polycaprolactone | PCL | Polymorph
+4 Polyglycolic acid | PGA | PLGA
+4 Polydimethylsiloxane | PDMS
+4 Polyisobutylene
+4 Polybutylene terephthalate | PBT
+4 Polyphenylene oxide | Noryl
+4 Polyphenylene sulfide | PPS
+4 Polyethylenimine
+4 Polyvinylpyrrolidone | PVP | Povidone
+4 Parylene
+6 Parkesine :: The first man-made plastic, shown by Alexander Parkes at London's 1862 exhibition. It was cellulose nitrate, flammable and prone to cracking, and his company went broke.
+x Glass | Metal | Wood | Paper | Steel | Aluminium | Concrete | Ceramic | Diamond | Salt | Water | Graphite :: Not a polymer: it is not built from long chains of repeating units.
+x Plastic | Polymer | Polymers | Plastics | Monomer | Ethylene | Styrene monomer | Microplastics :: Which one? Name the plastic or polymer.

@@ -1,0 +1,1657 @@
+{
+ "id": "languages-german-loanwords",
+ "text": "Name a word English has borrowed from German.",
+ "category": "language",
+ "flavor": "Some words crossed the border one night and never went home.",
+ "rules": "Any word English took from German and still uses, from kindergarten to wanderlust. Names of people, places and brands don't count, nor do words that came by way of Dutch or Yiddish.",
+ "answers": [
+  {
+   "answer": "Kindergarten",
+   "tier": 1,
+   "lore": "Coined by Friedrich Fröbel in 1840: a garden of children."
+  },
+  {
+   "answer": "Wanderlust",
+   "tier": 1
+  },
+  {
+   "answer": "Zeitgeist",
+   "tier": 1
+  },
+  {
+   "answer": "Schadenfreude",
+   "tier": 1,
+   "openSecret": true,
+   "lore": "English has a rare word for it, epicaricacy, built from Greek, but almost nobody uses it."
+  },
+  {
+   "answer": "Angst",
+   "aliases": [
+    "Angsty"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Doppelgänger",
+   "aliases": [
+    "Doppleganger",
+    "Doppelgaenger"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Poltergeist",
+   "tier": 1
+  },
+  {
+   "answer": "Pretzel",
+   "aliases": [
+    "Bretzel",
+    "Brezel"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Sauerkraut",
+   "aliases": [
+    "Kraut"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hamburger",
+   "aliases": [
+    "Burger"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Gesundheit",
+   "tier": 1,
+   "lore": "German for 'health', wished on anyone who sneezes."
+  },
+  {
+   "answer": "Kaput",
+   "aliases": [
+    "Kaputt",
+    "Kpaut"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Frankfurter",
+   "aliases": [
+    "Frank",
+    "Frankfurt"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bratwurst",
+   "tier": 2
+  },
+  {
+   "answer": "Strudel",
+   "aliases": [
+    "Apfelstrudel",
+    "Apple strudel"
+   ],
+   "tier": 2,
+   "lore": "German for 'whirlpool', after the swirl of its layers."
+  },
+  {
+   "answer": "Lager",
+   "tier": 2,
+   "lore": "German for 'storehouse'. The beer was stored cool to mature."
+  },
+  {
+   "answer": "Rucksack",
+   "tier": 2,
+   "lore": "Rücken is German for 'back'."
+  },
+  {
+   "answer": "Kitsch",
+   "aliases": [
+    "Kitschy"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Blitz",
+   "tier": 2,
+   "lore": "German for 'lightning'."
+  },
+  {
+   "answer": "Blitzkrieg",
+   "tier": 2
+  },
+  {
+   "answer": "Dachshund",
+   "aliases": [
+    "Dachsund",
+    "Daschund"
+   ],
+   "tier": 2,
+   "lore": "German for 'badger dog', after the job it was bred for."
+  },
+  {
+   "answer": "Rottweiler",
+   "tier": 2,
+   "lore": "Named after the town of Rottweil, where butchers' dogs drove cattle to market."
+  },
+  {
+   "answer": "Poodle",
+   "tier": 2,
+   "lore": "From Pudelhund, roughly 'splash dog', for a water retriever."
+  },
+  {
+   "answer": "Hamster",
+   "tier": 2
+  },
+  {
+   "answer": "Noodle",
+   "tier": 2
+  },
+  {
+   "answer": "Muesli",
+   "aliases": [
+    "Müsli",
+    "Bircher muesli"
+   ],
+   "tier": 2,
+   "lore": "Swiss German, devised around 1900 by Dr Maximilian Bircher-Benner for his patients."
+  },
+  {
+   "answer": "Schnitzel",
+   "aliases": [
+    "Wiener schnitzel"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Wiener",
+   "aliases": [
+    "Weiner",
+    "Wienerwurst"
+   ],
+   "tier": 2,
+   "lore": "From Wien, the German name for Vienna."
+  },
+  {
+   "answer": "Pilsner",
+   "aliases": [
+    "Pilsener",
+    "Pils"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Schnapps",
+   "aliases": [
+    "Schnaps"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Delicatessen",
+   "aliases": [
+    "Deli"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Glockenspiel",
+   "tier": 2,
+   "lore": "German for 'bell play'."
+  },
+  {
+   "answer": "Lederhosen",
+   "aliases": [
+    "Lederhose"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Autobahn",
+   "tier": 2
+  },
+  {
+   "answer": "Uber",
+   "tier": 2
+  },
+  {
+   "answer": "U-boat",
+   "aliases": [
+    "U-Boot"
+   ],
+   "tier": 2,
+   "lore": "From U-Boot, short for Unterseeboot, 'undersea boat'."
+  },
+  {
+   "answer": "Flak",
+   "tier": 2,
+   "lore": "Short for Flugabwehrkanone, an anti-aircraft gun."
+  },
+  {
+   "answer": "Oktoberfest",
+   "aliases": [
+    "Octoberfest"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Wunderkind",
+   "tier": 2
+  },
+  {
+   "answer": "Hinterland",
+   "tier": 2
+  },
+  {
+   "answer": "Ersatz",
+   "tier": 2
+  },
+  {
+   "answer": "Schnauzer",
+   "tier": 2
+  },
+  {
+   "answer": "Edelweiss",
+   "tier": 2,
+   "lore": "'Noble white'. The Sound of Music song is no folk tune: Rodgers and Hammerstein wrote it in 1959."
+  },
+  {
+   "answer": "Wurst",
+   "tier": 2
+  },
+  {
+   "answer": "Gestalt",
+   "tier": 3
+  },
+  {
+   "answer": "Ubermensch",
+   "tier": 3
+  },
+  {
+   "answer": "Waltz",
+   "tier": 3,
+   "lore": "From walzen, to roll or turn."
+  },
+  {
+   "answer": "Fest",
+   "tier": 3
+  },
+  {
+   "answer": "Weltschmerz",
+   "tier": 3
+  },
+  {
+   "answer": "Realpolitik",
+   "tier": 3
+  },
+  {
+   "answer": "Leitmotif",
+   "aliases": [
+    "Leitmotiv"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Umlaut",
+   "tier": 3
+  },
+  {
+   "answer": "Snorkel",
+   "tier": 3,
+   "lore": "From Schnorchel, the air tube that let Second World War U-boats run their engines underwater."
+  },
+  {
+   "answer": "Abseil",
+   "aliases": [
+    "Abseiling"
+   ],
+   "tier": 3,
+   "lore": "British climbers abseil, from German. Americans rappel, from French."
+  },
+  {
+   "answer": "Spiel",
+   "aliases": [
+    "Shpiel"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Spitz",
+   "tier": 3
+  },
+  {
+   "answer": "Pinscher",
+   "tier": 3
+  },
+  {
+   "answer": "Doberman",
+   "aliases": [
+    "Dobermann",
+    "Doberman pinscher",
+    "Dobermann pinscher"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Weimaraner",
+   "tier": 3
+  },
+  {
+   "answer": "Zeppelin",
+   "tier": 3
+  },
+  {
+   "answer": "Kaiser",
+   "aliases": [
+    "Kaiser roll"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Reich",
+   "tier": 3
+  },
+  {
+   "answer": "Panzer",
+   "tier": 3
+  },
+  {
+   "answer": "Putsch",
+   "tier": 3
+  },
+  {
+   "answer": "Hausfrau",
+   "tier": 3
+  },
+  {
+   "answer": "Frau",
+   "tier": 3
+  },
+  {
+   "answer": "Fräulein",
+   "tier": 3
+  },
+  {
+   "answer": "Dummkopf",
+   "aliases": [
+    "Dumkopf",
+    "Dumbkopf"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Liverwurst",
+   "aliases": [
+    "Leberwurst"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pumpernickel",
+   "tier": 3,
+   "lore": "From German words for breaking wind and a goblin, perhaps for its effect on the stomach."
+  },
+  {
+   "answer": "Stollen",
+   "tier": 3
+  },
+  {
+   "answer": "Glühwein",
+   "aliases": [
+    "Gluehwein"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kirsch",
+   "aliases": [
+    "Kirschwasser"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Seltzer",
+   "tier": 3,
+   "lore": "From the mineral springs of Niederselters, in Germany."
+  },
+  {
+   "answer": "Spritzer",
+   "aliases": [
+    "Spritz"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Quark",
+   "tier": 3,
+   "lore": "The cheese is German. The physicist's quark came from a line in James Joyce."
+  },
+  {
+   "answer": "Kohlrabi",
+   "tier": 3
+  },
+  {
+   "answer": "Marzipan",
+   "tier": 3
+  },
+  {
+   "answer": "Riesling",
+   "tier": 3
+  },
+  {
+   "answer": "Yodel",
+   "aliases": [
+    "Yodelling",
+    "Yodeling"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Dirndl",
+   "tier": 3
+  },
+  {
+   "answer": "Flugelhorn",
+   "tier": 3
+  },
+  {
+   "answer": "Cobalt",
+   "tier": 3,
+   "lore": "From Kobold, a goblin of German mines, blamed for ores that gave off poisonous fumes."
+  },
+  {
+   "answer": "Nickel",
+   "tier": 3,
+   "lore": "From Kupfernickel, 'copper demon', an ore that looked like copper but would yield none."
+  },
+  {
+   "answer": "Zinc",
+   "tier": 3
+  },
+  {
+   "answer": "Quartz",
+   "aliases": [
+    "Quarz"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bauhaus",
+   "tier": 3
+  },
+  {
+   "answer": "Nazi",
+   "aliases": [
+    "Nazism"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Verboten",
+   "tier": 3
+  },
+  {
+   "answer": "Stein",
+   "aliases": [
+    "Beer stein"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Luftwaffe",
+   "tier": 3
+  },
+  {
+   "answer": "Gestapo",
+   "tier": 3
+  },
+  {
+   "answer": "Führer",
+   "aliases": [
+    "Fuehrer"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Auf Wiedersehen",
+   "aliases": [
+    "Auf Wiedersehn"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Neanderthal",
+   "aliases": [
+    "Neandertal",
+    "Neanderthal man"
+   ],
+   "tier": 3,
+   "lore": "Named after the Neander valley near Düsseldorf, which honours the hymn-writer Joachim Neander. His family name was Greek for Neumann, 'new man'."
+  },
+  {
+   "answer": "Lebensraum",
+   "tier": 4
+  },
+  {
+   "answer": "Anschluss",
+   "tier": 4
+  },
+  {
+   "answer": "Diktat",
+   "tier": 4
+  },
+  {
+   "answer": "Stalag",
+   "tier": 4
+  },
+  {
+   "answer": "Strafe",
+   "tier": 4,
+   "lore": "From the First World War slogan Gott strafe England, 'God punish England'."
+  },
+  {
+   "answer": "Weltanschauung",
+   "tier": 4
+  },
+  {
+   "answer": "Bildungsroman",
+   "tier": 4
+  },
+  {
+   "answer": "Sturm und Drang",
+   "tier": 4
+  },
+  {
+   "answer": "Gemütlichkeit",
+   "aliases": [
+    "Gemütlich"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lied",
+   "aliases": [
+    "Lieder"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kapellmeister",
+   "tier": 4
+  },
+  {
+   "answer": "Hefeweizen",
+   "aliases": [
+    "Weizen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bock",
+   "tier": 4
+  },
+  {
+   "answer": "Knackwurst",
+   "aliases": [
+    "Knockwurst"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lebkuchen",
+   "tier": 4
+  },
+  {
+   "answer": "Spätzle",
+   "aliases": [
+    "Spaetzle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sauerbraten",
+   "tier": 4
+  },
+  {
+   "answer": "Rollmop",
+   "aliases": [
+    "Rollmops"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zwieback",
+   "tier": 4
+  },
+  {
+   "answer": "Kuchen",
+   "tier": 4
+  },
+  {
+   "answer": "Kaffeeklatsch",
+   "aliases": [
+    "Klatsch",
+    "Coffee klatch",
+    "Coffee klatsch"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gewürztraminer",
+   "tier": 4
+  },
+  {
+   "answer": "Feldspar",
+   "tier": 4
+  },
+  {
+   "answer": "Gneiss",
+   "tier": 4
+  },
+  {
+   "answer": "Bismuth",
+   "tier": 4
+  },
+  {
+   "answer": "Wolfram",
+   "tier": 4
+  },
+  {
+   "answer": "Meerschaum",
+   "tier": 4,
+   "lore": "German for 'sea foam'."
+  },
+  {
+   "answer": "Eigenvalue",
+   "tier": 4
+  },
+  {
+   "answer": "Affenpinscher",
+   "tier": 4
+  },
+  {
+   "answer": "Diesel",
+   "tier": 4
+  },
+  {
+   "answer": "Dollar",
+   "tier": 4,
+   "lore": "From Thaler, a silver coin first struck in a Bohemian valley in the 1500s. English took it by way of Low German daler."
+  },
+  {
+   "answer": "Prosit",
+   "aliases": [
+    "Prost"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Herr",
+   "tier": 4
+  },
+  {
+   "answer": "Knapsack",
+   "tier": 4
+  },
+  {
+   "answer": "Hex",
+   "tier": 4,
+   "lore": "From Pennsylvania German hexe, to bewitch."
+  },
+  {
+   "answer": "Nix",
+   "tier": 4
+  },
+  {
+   "answer": "Zither",
+   "tier": 4
+  },
+  {
+   "answer": "Wehrmacht",
+   "tier": 4
+  },
+  {
+   "answer": "Stasi",
+   "tier": 4
+  },
+  {
+   "answer": "Biergarten",
+   "aliases": [
+    "Beergarten",
+    "Biergarden"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Currywurst",
+   "tier": 4
+  },
+  {
+   "answer": "Bockwurst",
+   "tier": 4
+  },
+  {
+   "answer": "Polka",
+   "tier": 4
+  },
+  {
+   "answer": "Schmaltz",
+   "aliases": [
+    "Schmalz",
+    "Schmaltzy"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bundesliga",
+   "tier": 4
+  },
+  {
+   "answer": "Bundestag",
+   "tier": 4
+  },
+  {
+   "answer": "Reichstag",
+   "tier": 4
+  },
+  {
+   "answer": "Sachertorte",
+   "tier": 4
+  },
+  {
+   "answer": "Rösti",
+   "aliases": [
+    "Roesti"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alpenhorn",
+   "aliases": [
+    "Alphorn"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kobold",
+   "tier": 4
+  },
+  {
+   "answer": "Ostpolitik",
+   "tier": 4
+  },
+  {
+   "answer": "Jugendstil",
+   "tier": 4
+  },
+  {
+   "answer": "Biedermeier",
+   "tier": 4
+  },
+  {
+   "answer": "Sekt",
+   "tier": 4
+  },
+  {
+   "answer": "Weissbier",
+   "aliases": [
+    "Weizenbier"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Heimat",
+   "tier": 4
+  },
+  {
+   "answer": "Geist",
+   "tier": 4
+  },
+  {
+   "answer": "Fernweh",
+   "tier": 4
+  },
+  {
+   "answer": "Radler",
+   "tier": 4
+  },
+  {
+   "answer": "Zugzwang",
+   "tier": 4,
+   "lore": "Chess for a position where any move makes things worse: German for 'compulsion to move'."
+  },
+  {
+   "answer": "Carabiner",
+   "aliases": [
+    "Karabiner"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Streusel",
+   "tier": 4
+  },
+  {
+   "answer": "Torte",
+   "aliases": [
+    "Linzer torte"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Stuka",
+   "tier": 4,
+   "lore": "Short for Sturzkampfflugzeug, 'dive combat aircraft'."
+  },
+  {
+   "answer": "Festschrift",
+   "tier": 5
+  },
+  {
+   "answer": "Gesamtkunstwerk",
+   "tier": 5
+  },
+  {
+   "answer": "Künstlerroman",
+   "tier": 5
+  },
+  {
+   "answer": "Kulturkampf",
+   "tier": 5
+  },
+  {
+   "answer": "Lumpenproletariat",
+   "aliases": [
+    "Lumpen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Weltpolitik",
+   "tier": 5
+  },
+  {
+   "answer": "Machtpolitik",
+   "tier": 5
+  },
+  {
+   "answer": "Wirtschaftswunder",
+   "tier": 5
+  },
+  {
+   "answer": "Gastarbeiter",
+   "tier": 5
+  },
+  {
+   "answer": "Junker",
+   "tier": 5
+  },
+  {
+   "answer": "Gauleiter",
+   "tier": 5
+  },
+  {
+   "answer": "Bundesbank",
+   "tier": 5
+  },
+  {
+   "answer": "Bundeswehr",
+   "tier": 5
+  },
+  {
+   "answer": "Ablaut",
+   "tier": 5
+  },
+  {
+   "answer": "Sprachbund",
+   "tier": 5
+  },
+  {
+   "answer": "Eszett",
+   "aliases": [
+    "Esszett"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ansatz",
+   "tier": 5
+  },
+  {
+   "answer": "Gedankenexperiment",
+   "tier": 5
+  },
+  {
+   "answer": "Bremsstrahlung",
+   "tier": 5
+  },
+  {
+   "answer": "Zwitterion",
+   "tier": 5
+  },
+  {
+   "answer": "Aufbau",
+   "aliases": [
+    "Aufbau principle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eigenvector",
+   "tier": 5
+  },
+  {
+   "answer": "Ecology",
+   "tier": 5,
+   "lore": "Coined in German by the zoologist Ernst Haeckel in 1866, from the Greek for 'house'."
+  },
+  {
+   "answer": "Plankton",
+   "tier": 5
+  },
+  {
+   "answer": "Ozone",
+   "tier": 5
+  },
+  {
+   "answer": "Paraffin",
+   "tier": 5
+  },
+  {
+   "answer": "Chromosome",
+   "tier": 5
+  },
+  {
+   "answer": "Enzyme",
+   "tier": 5
+  },
+  {
+   "answer": "Allergy",
+   "tier": 5
+  },
+  {
+   "answer": "Schizophrenia",
+   "tier": 5
+  },
+  {
+   "answer": "Autism",
+   "tier": 5
+  },
+  {
+   "answer": "Masochism",
+   "aliases": [
+    "Masochist"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seminar",
+   "tier": 5
+  },
+  {
+   "answer": "Semester",
+   "tier": 5
+  },
+  {
+   "answer": "Loess",
+   "tier": 5
+  },
+  {
+   "answer": "Graben",
+   "tier": 5
+  },
+  {
+   "answer": "Horst",
+   "tier": 5
+  },
+  {
+   "answer": "Karst",
+   "tier": 5
+  },
+  {
+   "answer": "Inselberg",
+   "tier": 5
+  },
+  {
+   "answer": "Firn",
+   "tier": 5
+  },
+  {
+   "answer": "Bergschrund",
+   "tier": 5
+  },
+  {
+   "answer": "Hornblende",
+   "tier": 5
+  },
+  {
+   "answer": "Pitchblende",
+   "tier": 5
+  },
+  {
+   "answer": "Kieselguhr",
+   "tier": 5
+  },
+  {
+   "answer": "Föhn",
+   "aliases": [
+    "Foehn"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alpenglow",
+   "tier": 5
+  },
+  {
+   "answer": "Aurochs",
+   "aliases": [
+    "Auroch"
+   ],
+   "tier": 5,
+   "lore": "The wild ox of Europe. The last known one died in a Polish forest in 1627."
+  },
+  {
+   "answer": "Lammergeier",
+   "aliases": [
+    "Lammergeyer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Leonberger",
+   "tier": 5
+  },
+  {
+   "answer": "Rinderpest",
+   "tier": 5
+  },
+  {
+   "answer": "Nixie",
+   "tier": 5
+  },
+  {
+   "answer": "Singspiel",
+   "tier": 5
+  },
+  {
+   "answer": "Konzertmeister",
+   "tier": 5
+  },
+  {
+   "answer": "Sprechgesang",
+   "tier": 5
+  },
+  {
+   "answer": "Heldentenor",
+   "tier": 5
+  },
+  {
+   "answer": "Loden",
+   "tier": 5
+  },
+  {
+   "answer": "Hock",
+   "tier": 5
+  },
+  {
+   "answer": "Kölsch",
+   "tier": 5
+  },
+  {
+   "answer": "Märzen",
+   "aliases": [
+    "Märzenbier"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dunkel",
+   "tier": 5
+  },
+  {
+   "answer": "Helles",
+   "tier": 5
+  },
+  {
+   "answer": "Rauchbier",
+   "tier": 5
+  },
+  {
+   "answer": "Doppelbock",
+   "tier": 5
+  },
+  {
+   "answer": "Liebfraumilch",
+   "tier": 5
+  },
+  {
+   "answer": "Spätlese",
+   "tier": 5
+  },
+  {
+   "answer": "Auslese",
+   "tier": 5
+  },
+  {
+   "answer": "Eiswein",
+   "tier": 5
+  },
+  {
+   "answer": "Braunschweiger",
+   "tier": 5
+  },
+  {
+   "answer": "Weisswurst",
+   "tier": 5
+  },
+  {
+   "answer": "Mettwurst",
+   "tier": 5
+  },
+  {
+   "answer": "Kugelhopf",
+   "aliases": [
+    "Gugelhupf",
+    "Kugelhupf",
+    "Kougelhopf"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hasenpfeffer",
+   "tier": 5
+  },
+  {
+   "answer": "Gasthaus",
+   "tier": 5
+  },
+  {
+   "answer": "Bierkeller",
+   "tier": 5
+  },
+  {
+   "answer": "Dunk",
+   "tier": 5
+  },
+  {
+   "answer": "Dreck",
+   "tier": 5
+  },
+  {
+   "answer": "Schuss",
+   "tier": 5
+  },
+  {
+   "answer": "Langlauf",
+   "tier": 5
+  },
+  {
+   "answer": "Skat",
+   "tier": 5
+  },
+  {
+   "answer": "Kriegspiel",
+   "aliases": [
+    "Kriegsspiel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Waldsterben",
+   "tier": 5
+  },
+  {
+   "answer": "Wunderkammer",
+   "tier": 5
+  },
+  {
+   "answer": "Wanderjahr",
+   "aliases": [
+    "Wanderjahre"
+   ],
+   "tier": 5,
+   "lore": "A year of travel before settling down, from the old custom of German journeymen."
+  },
+  {
+   "answer": "Gemeinschaft",
+   "tier": 5
+  },
+  {
+   "answer": "Gesellschaft",
+   "tier": 5
+  },
+  {
+   "answer": "Dasein",
+   "tier": 5
+  },
+  {
+   "answer": "Ding an sich",
+   "tier": 5
+  },
+  {
+   "answer": "Sehnsucht",
+   "tier": 5
+  },
+  {
+   "answer": "Fraktur",
+   "tier": 5
+  },
+  {
+   "answer": "Rathskeller",
+   "aliases": [
+    "Ratskeller"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Kümmel",
+   "tier": 5
+  },
+  {
+   "answer": "Accordion",
+   "aliases": [
+    "Accordian"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Schwa",
+   "tier": 5
+  },
+  {
+   "answer": "Shyster",
+   "tier": 5,
+   "lore": "American slang since the 1840s for a crooked lawyer, probably from German Scheisser, a worthless wretch."
+  },
+  {
+   "answer": "Ouch",
+   "tier": 5
+  },
+  {
+   "answer": "Bummer",
+   "tier": 5
+  },
+  {
+   "answer": "Gene",
+   "tier": 5
+  },
+  {
+   "answer": "Speck",
+   "tier": 5
+  },
+  {
+   "answer": "Urtext",
+   "tier": 5
+  },
+  {
+   "answer": "Gegenschein",
+   "tier": 5
+  },
+  {
+   "answer": "Zeitgeber",
+   "tier": 5
+  },
+  {
+   "answer": "Umwelt",
+   "tier": 5
+  },
+  {
+   "answer": "Ganzfeld",
+   "tier": 5
+  },
+  {
+   "answer": "Verstehen",
+   "tier": 5
+  },
+  {
+   "answer": "Uhlan",
+   "aliases": [
+    "Ulan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thuringer",
+   "tier": 5
+  },
+  {
+   "answer": "Pfeffernüsse",
+   "aliases": [
+    "Pfeffernuss"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Springerle",
+   "tier": 5
+  },
+  {
+   "answer": "Schottische",
+   "tier": 5
+  },
+  {
+   "answer": "Ländler",
+   "aliases": [
+    "Laendler"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Alpenstock",
+   "tier": 5
+  },
+  {
+   "answer": "Wedeln",
+   "tier": 5
+  },
+  {
+   "answer": "Echt",
+   "tier": 5
+  },
+  {
+   "answer": "Fingerspitzengefühl",
+   "tier": 5
+  },
+  {
+   "answer": "Zwischenzug",
+   "tier": 5
+  },
+  {
+   "answer": "Trockenbeerenauslese",
+   "tier": 5
+  },
+  {
+   "answer": "Beerenauslese",
+   "tier": 5
+  },
+  {
+   "answer": "Plunder",
+   "tier": 6,
+   "lore": "Picked up during the Thirty Years' War, from German plündern: at first, to carry off a household's furniture and goods."
+  },
+  {
+   "answer": "Carouse",
+   "aliases": [
+    "Carousal"
+   ],
+   "tier": 6,
+   "lore": "From German gar aus, 'right out': a toast to drain the glass, heard in England in the 1500s."
+  },
+  {
+   "answer": "Swindler",
+   "aliases": [
+    "Swindle"
+   ],
+   "tier": 6,
+   "lore": "From German Schwindler, from schwindeln, to be giddy. It reached English in the 1700s, and swindle was made from it."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Cookie",
+   "aliases": [
+    "Yacht",
+    "Boss",
+    "Easel",
+    "Landscape",
+    "Cruise",
+    "Waffle",
+    "Coleslaw",
+    "Brandy",
+    "Skipper",
+    "Sleigh",
+    "Spook",
+    "Gin",
+    "Booze",
+    "Wagon",
+    "Sloop",
+    "Keelhaul",
+    "Uproar",
+    "Dope",
+    "Santa Claus",
+    "Keeshond"
+   ],
+   "reason": "Dutch, not German."
+  },
+  {
+   "answer": "Schmooze",
+   "aliases": [
+    "Klutz",
+    "Schlep",
+    "Shlep",
+    "Schmuck",
+    "Chutzpah",
+    "Bagel",
+    "Lox",
+    "Kvetch",
+    "Mensch",
+    "Nosh",
+    "Oy vey",
+    "Shtick",
+    "Schtick",
+    "Schlock",
+    "Tchotchke",
+    "Maven",
+    "Mazel tov",
+    "Meshuggah",
+    "Nebbish",
+    "Nudnik",
+    "Schnozz",
+    "Schmear",
+    "Shmear",
+    "Zaftig",
+    "Kibitz"
+   ],
+   "reason": "Yiddish, a close cousin of German, but not German itself."
+  },
+  {
+   "answer": "Robot",
+   "reason": "Czech, not German."
+  },
+  {
+   "answer": "Paprika",
+   "aliases": [
+    "Goulash"
+   ],
+   "reason": "From Hungarian, not German."
+  },
+  {
+   "answer": "Slalom",
+   "aliases": [
+    "Ski",
+    "Fjord",
+    "Smorgasbord",
+    "Ombudsman",
+    "Tungsten",
+    "Moped",
+    "Lemming",
+    "Saga",
+    "Troll",
+    "Berserk"
+   ],
+   "reason": "From a Scandinavian language, not German."
+  },
+  {
+   "answer": "Déjà vu",
+   "aliases": [
+    "Rendezvous",
+    "Croissant",
+    "Café",
+    "Chauffeur",
+    "Bourgeois",
+    "Entrepreneur",
+    "Genre",
+    "Ballet",
+    "Restaurant",
+    "Carousel"
+   ],
+   "reason": "French, not German."
+  },
+  {
+   "answer": "Iceberg",
+   "reason": "Probably from Dutch or a Scandinavian tongue, not German."
+  },
+  {
+   "answer": "Beer garden",
+   "aliases": [
+    "Superman",
+    "Worldview",
+    "Homesickness",
+    "Loanword",
+    "Earworm",
+    "Antibody",
+    "Thought experiment",
+    "Power politics",
+    "Ice wine",
+    "Mulled wine",
+    "Black Forest gateau"
+   ],
+   "reason": "An English translation of the German, not the German word itself."
+  },
+  {
+   "answer": "Sausage dog",
+   "aliases": [
+    "Wiener dog",
+    "Weiner dog"
+   ],
+   "reason": "An English nickname. The dog's German name is the borrowed one: dachshund."
+  },
+  {
+   "answer": "German shepherd",
+   "aliases": [
+    "Alsatian"
+   ],
+   "reason": "An English name. Germans call it the Deutscher Schäferhund."
+  },
+  {
+   "answer": "Great Dane",
+   "reason": "An English name. Germans call it the Deutsche Dogge."
+  },
+  {
+   "answer": "Gift",
+   "reason": "Not from German. In German, Gift means poison."
+  },
+  {
+   "answer": "Hand",
+   "aliases": [
+    "House",
+    "Water",
+    "Mother",
+    "Father",
+    "Brother",
+    "Finger",
+    "Wind",
+    "Arm"
+   ],
+   "reason": "Native English. German just has a cousin of it."
+  },
+  {
+   "answer": "Volkswagen",
+   "aliases": [
+    "Audi",
+    "Porsche",
+    "Mercedes",
+    "BMW",
+    "Adidas",
+    "Haribo",
+    "Aldi",
+    "Bosch",
+    "Siemens",
+    "Lufthansa",
+    "Jägermeister",
+    "Berlin",
+    "Munich",
+    "Bavaria",
+    "Einstein",
+    "Beethoven",
+    "Bach",
+    "Goethe"
+   ],
+   "reason": "A name, not a borrowed word."
+  },
+  {
+   "answer": "Hertz",
+   "aliases": [
+    "Ohm",
+    "Fahrenheit",
+    "Gauss",
+    "Mach",
+    "Roentgen"
+   ],
+   "reason": "A unit named after a scientist, not a word taken from German."
+  },
+  {
+   "answer": "Achtung",
+   "aliases": [
+    "Danke",
+    "Danke schön",
+    "Jawohl",
+    "Wunderbar"
+   ],
+   "reason": "German, but English only says it in jest. It never moved in."
+  },
+  {
+   "answer": "Schmetterling",
+   "aliases": [
+    "Hund",
+    "Haus",
+    "Wasser",
+    "Kartoffel",
+    "Handschuh",
+    "Krankenwagen",
+    "Kummerspeck",
+    "Torschlusspanik",
+    "Backpfeifengesicht",
+    "Sprechen Sie Deutsch",
+    "Guten Tag",
+    "Guten Morgen",
+    "Bitte",
+    "Ja"
+   ],
+   "reason": "Just German. English never took it in."
+  },
+  {
+   "answer": "Ich bin ein Berliner",
+   "reason": "A famous line from a 1963 speech, not a word English borrowed."
+  },
+  {
+   "answer": "German word",
+   "aliases": [
+    "German",
+    "Deutsch"
+   ],
+   "reason": "Which one? Name a particular word."
+  },
+  {
+   "answer": "Kris Kringle",
+   "aliases": [
+    "Kriss Kringle"
+   ],
+   "reason": "A name, not a borrowed word, though it does come from German Christkindl, the Christ child."
+  },
+  {
+   "answer": "Boxer",
+   "reason": "The breed is German, but the name is English: Germany borrowed it from us."
+  },
+  {
+   "answer": "Rappel",
+   "reason": "French, not German. The British word for it is the German one."
+  },
+  {
+   "answer": "Pomeranian",
+   "reason": "An English name, after the region of Pomerania, not a borrowed word."
+  }
+ ],
+ "decoys": [
+  "Blunder",
+  "Arouse"
+ ],
+ "section": "Languages",
+ "source": "Copied from the daily question \"german-loanwords\" on 28 November 2026."
+}

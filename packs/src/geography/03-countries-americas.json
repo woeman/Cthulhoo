@@ -1,0 +1,551 @@
+{
+ "id": "geography-countries-americas",
+ "text": "Name a country in North or South America.",
+ "category": "geography",
+ "flavor": "Two continents joined by a thread of land, and a sea of islands strung between them.",
+ "rules": "Any of the 35 sovereign states of the Americas, Central America and the Caribbean included. Territories that belong to another country don't count.",
+ "answers": [
+  {
+   "answer": "United States",
+   "aliases": [
+    "USA",
+    "US",
+    "United States of America",
+    "America",
+    "The States",
+    "Estados Unidos"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Canada",
+   "tier": 1,
+   "lore": "Has the longest coastline of any country on Earth."
+  },
+  {
+   "answer": "Mexico",
+   "aliases": [
+    "Méjico",
+    "United Mexican States",
+    "Estados Unidos Mexicanos"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Brazil",
+   "aliases": [
+    "Brasil",
+    "Federative Republic of Brazil"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Argentina",
+   "aliases": [
+    "Argentine Republic",
+    "The Argentine",
+    "República Argentina"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Chile",
+   "tier": 2
+  },
+  {
+   "answer": "Peru",
+   "tier": 2
+  },
+  {
+   "answer": "Colombia",
+   "aliases": [
+    "Columbia",
+    "Republic of Colombia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cuba",
+   "tier": 2
+  },
+  {
+   "answer": "Jamaica",
+   "tier": 2
+  },
+  {
+   "answer": "Venezuela",
+   "aliases": [
+    "Bolivarian Republic of Venezuela"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Bolivia",
+   "aliases": [
+    "Plurinational State of Bolivia"
+   ],
+   "tier": 2,
+   "lore": "Has two capitals: La Paz, where the government sits, and Sucre, where the constitution says it is."
+  },
+  {
+   "answer": "Ecuador",
+   "tier": 2
+  },
+  {
+   "answer": "Uruguay",
+   "aliases": [
+    "Oriental Republic of Uruguay"
+   ],
+   "tier": 2,
+   "lore": "Hosted and won the first football World Cup, in 1930."
+  },
+  {
+   "answer": "Paraguay",
+   "tier": 2
+  },
+  {
+   "answer": "Panama",
+   "tier": 2
+  },
+  {
+   "answer": "Costa Rica",
+   "tier": 2
+  },
+  {
+   "answer": "Guatemala",
+   "tier": 3
+  },
+  {
+   "answer": "Honduras",
+   "tier": 3
+  },
+  {
+   "answer": "Nicaragua",
+   "tier": 3
+  },
+  {
+   "answer": "El Salvador",
+   "aliases": [
+    "Salvador"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Haiti",
+   "aliases": [
+    "Ayiti",
+    "Saint-Domingue"
+   ],
+   "tier": 3,
+   "lore": "Became independent in 1804, the first nation born of a successful revolt by enslaved people."
+  },
+  {
+   "answer": "Dominican Republic",
+   "aliases": [
+    "DR",
+    "Dominican",
+    "República Dominicana"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bahamas",
+   "aliases": [
+    "Commonwealth of the Bahamas"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Barbados",
+   "tier": 3
+  },
+  {
+   "answer": "Trinidad and Tobago",
+   "aliases": [
+    "Trinidad",
+    "Tobago",
+    "T&T"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Belize",
+   "aliases": [
+    "British Honduras"
+   ],
+   "tier": 3,
+   "lore": "The only country in Central America with English as its official language."
+  },
+  {
+   "answer": "Guyana",
+   "aliases": [
+    "British Guiana",
+    "Co-operative Republic of Guyana",
+    "Guiana"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Suriname",
+   "aliases": [
+    "Surinam",
+    "Dutch Guiana"
+   ],
+   "tier": 4,
+   "lore": "South America's smallest country, and the only one where Dutch is the official language."
+  },
+  {
+   "answer": "Grenada",
+   "tier": 4
+  },
+  {
+   "answer": "Saint Lucia",
+   "aliases": [
+    "St Lucia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Antigua and Barbuda",
+   "aliases": [
+    "Antigua",
+    "Barbuda"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dominica",
+   "aliases": [
+    "Commonwealth of Dominica"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Saint Kitts and Nevis",
+   "aliases": [
+    "St Kitts and Nevis",
+    "Saint Kitts",
+    "St Kitts",
+    "Saint Christopher and Nevis",
+    "St Christopher and Nevis",
+    "Nevis"
+   ],
+   "tier": 6,
+   "lore": "The smallest sovereign state in the Americas, both by area and by population."
+  },
+  {
+   "answer": "Saint Vincent and the Grenadines",
+   "aliases": [
+    "St Vincent and the Grenadines",
+    "Saint Vincent",
+    "St Vincent",
+    "SVG"
+   ],
+   "tier": 6,
+   "lore": "Its Wallilabou Bay was dressed up as Port Royal for the first Pirates of the Caribbean film."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Greenland",
+   "reason": "Geographically North American, but part of the Kingdom of Denmark."
+  },
+  {
+   "answer": "Puerto Rico",
+   "reason": "A territory of the United States, not a sovereign state."
+  },
+  {
+   "answer": "US Virgin Islands",
+   "aliases": [
+    "USVI"
+   ],
+   "reason": "A territory of the United States, not a sovereign state."
+  },
+  {
+   "answer": "British Virgin Islands",
+   "aliases": [
+    "BVI"
+   ],
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Virgin Islands",
+   "reason": "Both sets of Virgin Islands belong to someone else: Britain or the United States."
+  },
+  {
+   "answer": "Bermuda",
+   "reason": "A British Overseas Territory, out in the Atlantic."
+  },
+  {
+   "answer": "Cayman Islands",
+   "aliases": [
+    "Caymans",
+    "Cayman"
+   ],
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Turks and Caicos",
+   "aliases": [
+    "Turks and Caicos Islands"
+   ],
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Anguilla",
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Montserrat",
+   "reason": "A British Overseas Territory, not a sovereign state."
+  },
+  {
+   "answer": "Falkland Islands",
+   "aliases": [
+    "Falklands",
+    "Malvinas",
+    "Islas Malvinas"
+   ],
+   "reason": "A British Overseas Territory, claimed by Argentina as the Malvinas."
+  },
+  {
+   "answer": "South Georgia",
+   "aliases": [
+    "South Georgia and the South Sandwich Islands"
+   ],
+   "reason": "A British territory in the far South Atlantic, home mostly to penguins."
+  },
+  {
+   "answer": "French Guiana",
+   "reason": "Part of France: an overseas department on the South American mainland."
+  },
+  {
+   "answer": "The Guianas",
+   "reason": "A region of three lands, one of them still part of France. Name one of the other two."
+  },
+  {
+   "answer": "Guadeloupe",
+   "aliases": [
+    "Martinique"
+   ],
+   "reason": "Part of France, as an overseas department."
+  },
+  {
+   "answer": "Saint Martin",
+   "aliases": [
+    "St Martin",
+    "Sint Maarten",
+    "St Maarten"
+   ],
+   "reason": "An island split between France and the Netherlands, not a sovereign state."
+  },
+  {
+   "answer": "Saint Barthélemy",
+   "aliases": [
+    "St Barts",
+    "St Barths",
+    "Saint Barts"
+   ],
+   "reason": "A French overseas collectivity, not a sovereign state."
+  },
+  {
+   "answer": "Saint Pierre and Miquelon",
+   "aliases": [
+    "St Pierre and Miquelon"
+   ],
+   "reason": "French islands off Newfoundland, not a sovereign state."
+  },
+  {
+   "answer": "Aruba",
+   "aliases": [
+    "Curaçao"
+   ],
+   "reason": "A country within the Kingdom of the Netherlands, not a sovereign state."
+  },
+  {
+   "answer": "Bonaire",
+   "aliases": [
+    "Saba",
+    "Sint Eustatius",
+    "Statia"
+   ],
+   "reason": "Part of the Netherlands, as a special municipality."
+  },
+  {
+   "answer": "Netherlands Antilles",
+   "reason": "Dissolved in 2010. Its islands belong to the Kingdom of the Netherlands."
+  },
+  {
+   "answer": "Hawaii",
+   "reason": "A US state, out in the Pacific."
+  },
+  {
+   "answer": "Alaska",
+   "reason": "A US state, bought from Russia in 1867."
+  },
+  {
+   "answer": "Texas",
+   "aliases": [
+    "Republic of Texas"
+   ],
+   "reason": "A US state, though it was a republic of its own from 1836 to 1845."
+  },
+  {
+   "answer": "Quebec",
+   "aliases": [
+    "Ontario",
+    "British Columbia",
+    "Alberta",
+    "Nova Scotia",
+    "Newfoundland and Labrador",
+    "Manitoba",
+    "Saskatchewan",
+    "New Brunswick",
+    "Prince Edward Island"
+   ],
+   "reason": "A province of Canada."
+  },
+  {
+   "answer": "Yukon",
+   "aliases": [
+    "Nunavut",
+    "Northwest Territories"
+   ],
+   "reason": "A territory of Canada."
+  },
+  {
+   "answer": "Newfoundland",
+   "aliases": [
+    "Dominion of Newfoundland"
+   ],
+   "reason": "A dominion of its own until 1949, when it joined Canada."
+  },
+  {
+   "answer": "France",
+   "aliases": [
+    "French Republic"
+   ],
+   "reason": "An overseas department on the mainland makes it partly South American, but France isn't counted among the 35 states of the Americas."
+  },
+  {
+   "answer": "Netherlands",
+   "aliases": [
+    "Holland",
+    "Kingdom of the Netherlands"
+   ],
+   "reason": "Three Caribbean islands are part of it, but it isn't counted among the 35 states of the Americas."
+  },
+  {
+   "answer": "Denmark",
+   "aliases": [
+    "Kingdom of Denmark"
+   ],
+   "reason": "Greenland lies in North America, but Denmark isn't counted among the 35 states of the Americas."
+  },
+  {
+   "answer": "United Kingdom",
+   "aliases": [
+    "UK",
+    "Britain",
+    "Great Britain",
+    "England"
+   ],
+   "reason": "It still holds islands in the Americas, but it isn't one of the 35 states there."
+  },
+  {
+   "answer": "Hispaniola",
+   "reason": "An island shared by two countries. Name one of them."
+  },
+  {
+   "answer": "Tierra del Fuego",
+   "reason": "An island split between Argentina and Chile."
+  },
+  {
+   "answer": "Patagonia",
+   "reason": "A region split between Argentina and Chile."
+  },
+  {
+   "answer": "Galápagos",
+   "aliases": [
+    "Galápagos Islands"
+   ],
+   "reason": "Islands that belong to Ecuador."
+  },
+  {
+   "answer": "Easter Island",
+   "aliases": [
+    "Rapa Nui"
+   ],
+   "reason": "Chilean, though it lies far out in the Pacific."
+  },
+  {
+   "answer": "Grenadines",
+   "reason": "An island chain split between two countries. Name one of them."
+  },
+  {
+   "answer": "Caribbean",
+   "aliases": [
+    "West Indies",
+    "Antilles",
+    "Lesser Antilles",
+    "Greater Antilles"
+   ],
+   "reason": "A sea and a region, not a country."
+  },
+  {
+   "answer": "Latin America",
+   "aliases": [
+    "Central America",
+    "Mesoamerica"
+   ],
+   "reason": "A region, not a country."
+  },
+  {
+   "answer": "South America",
+   "aliases": [
+    "North America",
+    "The Americas"
+   ],
+   "reason": "That's a whole continent. Name one country in it."
+  },
+  {
+   "answer": "Gran Colombia",
+   "aliases": [
+    "Great Colombia"
+   ],
+   "reason": "Gone since 1831. Its pieces are countries now, though."
+  },
+  {
+   "answer": "Confederate States",
+   "aliases": [
+    "Confederacy",
+    "Confederate States of America",
+    "CSA"
+   ],
+   "reason": "Gone since 1865."
+  },
+  {
+   "answer": "Amazon",
+   "aliases": [
+    "Amazonia",
+    "Amazon Rainforest"
+   ],
+   "reason": "A river and a rainforest, shared by several countries."
+  },
+  {
+   "answer": "District of Columbia",
+   "aliases": [
+    "Washington DC",
+    "DC"
+   ],
+   "reason": "The US capital district, not a country."
+  }
+ ],
+ "decoys": [
+  "Guinea",
+  "Manama",
+  "Juba"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"countries-americas\" on 28 November 2026."
+}

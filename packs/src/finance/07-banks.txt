@@ -1,0 +1,313 @@
+id: finance-banks
+text: Name a bank.
+flavor: Vaults within vaults. Ask what is kept in the lowest one and the teller only smiles.
+rules: Any bank, anywhere, past or present: retail, investment, online or central. Insurers, super funds and payment apps that hold no banking licence don't count.
+section: Institutions
+---
+1 Commonwealth Bank | CBA | CommBank | Commonwealth Bank of Australia | Comm Bank | Commonwealth | Which Bank
+1 Westpac | WBC | Westpac Banking Corporation | Bank of New South Wales
+1 ANZ | Australia and New Zealand Banking Group | ANZ Bank
+1 NAB | National Australia Bank | National Bank
+1 Macquarie | Macquarie Bank | Macquarie Group | MacBank | MQG
+2 Bendigo Bank | Bendigo and Adelaide Bank | Bendigo
+2 Bank of Queensland | BOQ
+2 Suncorp | Suncorp Bank | Suncorp Metway
+2 ING | ING Direct | ING Bank | ING Group
+2 St George | St George Bank | St. George | Saint George Bank
+2 Bankwest | Bank of Western Australia | BankWest
+2 HSBC | Hongkong and Shanghai Banking Corporation | Hong Kong and Shanghai Banking Corporation | HSBC Holdings
+2 Reserve Bank of Australia | RBA | Reserve Bank
+2 JPMorgan Chase | JPMorgan | JP Morgan | J.P. Morgan | Chase | Chase Bank | JPM | Chase Manhattan
+2 Goldman Sachs | Goldman | GS
+2 Bank of America | BofA | BoA | Merrill Lynch | Bank of America Merrill Lynch
+2 Citibank | Citi | Citigroup | Citicorp
+2 Bank of Melbourne
+2 BankSA | Bank SA | Bank of South Australia
+2 Up | Up Bank
+2 UBank | U Bank | ubank
+2 ME Bank | Members Equity Bank | Members Equity | ME
+2 Great Southern Bank | CUA | Credit Union Australia
+2 Bank Australia
+2 Heritage Bank | People's Choice | Heritage and People's Choice | People First Bank | People's Choice Credit Union
+2 Morgan Stanley
+2 Wells Fargo
+2 Barclays | Barclays Bank
+2 Deutsche Bank | Deutsche
+2 UBS | Union Bank of Switzerland
+2 Credit Suisse
+2 Bank of England | BoE | Old Lady of Threadneedle Street
+2 Federal Reserve | The Fed | Fed | Federal Reserve System | US Federal Reserve
+2 World Bank
+3 Judo Bank | Judo
+3 AMP Bank | AMP
+3 Newcastle Permanent | Newcastle Permanent Building Society | NPBS
+3 Greater Bank | Greater Building Society | Newcastle Greater Mutual
+3 IMB | IMB Bank | Illawarra Mutual Building Society
+3 Beyond Bank | Beyond Bank Australia
+3 Teachers Mutual Bank | Teachers Mutual | TMB
+3 Bank of us | B&E
+3 MyState | MyState Bank
+3 Auswide Bank | Auswide
+3 BankVic | Police Financial Services
+3 P&N Bank | Police and Nurses | P and N Bank
+3 Defence Bank
+3 Australian Military Bank
+3 Police Bank
+3 Hume Bank
+3 Regional Australia Bank
+3 Unity Bank
+3 Gateway Bank
+3 Qudos Bank | Qantas Credit Union
+3 RACQ Bank
+3 Rabobank
+3 Bank of China
+3 86 400 | 86400
+3 Xinja
+3 Volt | Volt Bank
+3 Tyro | Tyro Payments
+3 Aussie | Aussie Home Loans
+3 RAMS
+3 Adelaide Bank
+3 Bank of Sydney
+3 Arab Bank | Arab Bank Australia
+3 Royal Bank of Scotland | RBS | NatWest Group
+3 NatWest | National Westminster Bank | National Westminster
+3 Lloyds | Lloyds Bank | Lloyds Banking Group | Lloyds TSB
+3 Santander | Banco Santander
+3 BNP Paribas | BNP
+3 Société Générale | Societe Generale | SocGen
+3 Standard Chartered | StanChart
+3 Royal Bank of Canada | RBC
+3 TD Bank | Toronto-Dominion | Toronto Dominion | TD
+3 Bank of Montreal | BMO
+3 Scotiabank | Bank of Nova Scotia
+3 Lehman Brothers | Lehman
+3 Bear Stearns
+3 Silicon Valley Bank | SVB
+3 Northern Rock
+3 Capital One
+3 American Express | Amex
+3 US Bank | U.S. Bancorp | US Bancorp
+3 PNC | PNC Bank
+3 Bank of New York Mellon | BNY Mellon | BNY | Bank of New York
+3 State Street
+3 Industrial and Commercial Bank of China | ICBC
+3 China Construction Bank | CCB
+3 Agricultural Bank of China | ABC | AgBank
+3 Mitsubishi UFJ | MUFG | Bank of Tokyo-Mitsubishi | Mitsubishi UFJ Financial Group
+3 Mizuho | Mizuho Bank
+3 Sumitomo Mitsui | SMBC | Sumitomo Mitsui Banking Corporation
+3 Nomura
+3 DBS | DBS Bank | Development Bank of Singapore
+3 OCBC | Oversea-Chinese Banking Corporation
+3 UOB | United Overseas Bank
+3 Kiwibank
+3 BNZ | Bank of New Zealand
+3 ASB | ASB Bank | Auckland Savings Bank
+3 European Central Bank | ECB
+3 Bank of Japan | BoJ
+3 Reserve Bank of New Zealand | RBNZ
+3 People's Bank of China | PBoC | PBOC
+3 Swiss National Bank | SNB
+3 Bundesbank | Deutsche Bundesbank
+3 Bank of Canada
+3 International Monetary Fund | IMF
+3 Bank for International Settlements | BIS
+3 Asian Development Bank | ADB
+3 Monzo
+3 Revolut
+3 Wise | TransferWise
+3 N26
+3 Starling | Starling Bank
+3 Nubank | Nu
+3 Bank of Ireland
+3 Allied Irish Banks | AIB
+3 Halifax | HBOS | Halifax Bank of Scotland | Bank of Scotland
+3 Nationwide | Nationwide Building Society
+3 Virgin Money | Clydesdale Bank | Yorkshire Bank
+3 TSB
+3 Co-operative Bank | Co-op Bank
+3 Metro Bank
+4 Commerzbank
+4 UniCredit
+4 Intesa Sanpaolo
+4 Monte dei Paschi di Siena | Monte dei Paschi | MPS | Banca Monte dei Paschi di Siena
+4 Crédit Agricole | Credit Agricole
+4 Crédit Lyonnais | Credit Lyonnais | LCL
+4 BBVA | Banco Bilbao Vizcaya Argentaria
+4 CaixaBank | La Caixa
+4 ABN AMRO | ABN Amro
+4 Nordea
+4 Danske Bank
+4 SEB | Skandinaviska Enskilda Banken
+4 Handelsbanken | Svenska Handelsbanken
+4 Swedbank
+4 DNB
+4 KBC
+4 Raiffeisen | Raiffeisen Bank
+4 Erste | Erste Group | Erste Bank
+4 Julius Baer | Julius Bär
+4 Pictet
+4 Lombard Odier
+4 Rothschild | Rothschild & Co | N M Rothschild | Rothschilds
+4 Lazard
+4 Barings | Barings Bank | Baring Brothers
+4 Coutts
+4 C. Hoare & Co | Hoare's Bank | Hoares
+4 Berenberg | Berenberg Bank
+4 Medici Bank | Medici
+4 Fugger | Fugger Bank
+4 Jefferies
+4 Evercore
+4 Moelis | Moelis & Company
+4 Citizens Bank | Citizens
+4 Truist | BB&T | SunTrust
+4 Fifth Third | Fifth Third Bank
+4 KeyBank | Key Bank
+4 Regions Bank | Regions
+4 Huntington | Huntington Bank
+4 M&T Bank | M and T Bank
+4 First Republic | First Republic Bank
+4 Signature Bank
+4 Washington Mutual | WaMu
+4 Wachovia
+4 Countrywide
+4 Ally | Ally Bank
+4 Discover | Discover Bank
+4 Charles Schwab | Schwab | Schwab Bank
+4 Northern Trust
+4 Sberbank
+4 VTB | VTB Bank
+4 State Bank of India | SBI
+4 HDFC | HDFC Bank
+4 ICICI | ICICI Bank
+4 Axis Bank
+4 Kotak Mahindra | Kotak
+4 Punjab National Bank | PNB
+4 Bank of Baroda
+4 Grameen Bank | Grameen
+4 Maybank | Malayan Banking
+4 CIMB
+4 Bangkok Bank
+4 Kasikornbank | KBank
+4 Bank Mandiri | Mandiri
+4 Bank Central Asia | BCA
+4 Bank Rakyat Indonesia | BRI
+4 BDO | BDO Unibank | Banco de Oro
+4 Vietcombank
+4 Hang Seng Bank
+4 Bank of East Asia | BEA
+4 Bank of Communications | BoCom
+4 China Merchants Bank
+4 Shinhan | Shinhan Bank
+4 KB Kookmin | Kookmin Bank | KB Financial
+4 Hana Bank | Hana
+4 Woori | Woori Bank
+4 Japan Post Bank | Yucho
+4 Itaú | Itau | Itaú Unibanco | Itau Unibanco
+4 Bradesco | Banco Bradesco
+4 Banco do Brasil
+4 Banorte
+4 Standard Bank
+4 FirstRand | First National Bank | FNB
+4 Absa | ABSA
+4 Nedbank
+4 Capitec
+4 Ecobank
+4 Zenith Bank
+4 Qatar National Bank | QNB
+4 Emirates NBD
+4 First Abu Dhabi Bank | FAB
+4 Al Rajhi | Al Rajhi Bank
+4 National Bank of Kuwait | NBK
+4 Bank Hapoalim | Hapoalim
+4 Bank Leumi | Leumi
+4 Türkiye İş Bankası | Isbank | İşbank
+4 Ziraat | Ziraat Bank | Ziraat Bankası
+4 National Bank of Greece
+4 Bank of Cyprus
+4 Banco Espírito Santo | Banco Espirito Santo
+4 Dexia
+4 Fortis
+4 Anglo Irish Bank | Anglo Irish
+4 Kaupthing
+4 Landsbanki | Icesave
+4 Glitnir
+4 BCCI | Bank of Credit and Commerce International
+4 Banco Ambrosiano
+4 Herstatt | Herstatt Bank | Bankhaus Herstatt
+4 Continental Illinois
+4 Long-Term Credit Bank of Japan | LTCB
+4 Westpac New Zealand
+4 TSB Bank
+4 SBS Bank
+4 Heartland | Heartland Bank
+4 Co-operative Bank New Zealand
+4 Bank South Pacific | BSP
+4 Kina Bank
+4 State Bank of Victoria | SBV
+4 State Bank of New South Wales | State Bank of NSW | State Bank NSW
+4 State Bank of South Australia
+4 Advance Bank
+4 Challenge Bank
+4 Colonial State Bank | Colonial
+4 Commercial Banking Company of Sydney | CBC | CBC Bank
+4 Commercial Bank of Australia
+4 English, Scottish and Australian Bank | ES&A | ES&A Bank
+4 Bank of Adelaide
+4 Rural Bank | Elders Rural Bank
+4 Tricontinental
+4 Pyramid Building Society | Pyramid
+4 Trustee Savings Bank
+4 Citibank Australia
+4 HSBC Australia
+4 Bank of Queensland Specialist | BOQ Specialist | Investec Australia
+4 Investec
+4 Members Banking Group
+4 Australian Unity | Australian Unity Bank | Big Sky
+4 G&C Mutual Bank | G&C Mutual
+4 Horizon Bank | Horizon
+4 Summerland Bank | Summerland
+4 Southern Cross Credit Union
+4 Bank First | Victoria Teachers Mutual Bank
+4 Credit Union SA
+4 Illawarra Credit Union
+4 Community First Bank | Community First
+4 Australian Mutual Bank | Sydney Mutual Bank | Endeavour Mutual Bank
+4 In1bank | in1bank
+4 Alex Bank | Alex
+4 Avenue Bank
+4 European Investment Bank | EIB
+4 European Bank for Reconstruction and Development | EBRD
+4 Inter-American Development Bank | IDB | IADB
+4 African Development Bank | AfDB
+4 Asian Infrastructure Investment Bank | AIIB
+4 New Development Bank | BRICS Bank | NDB
+4 Islamic Development Bank | IsDB
+4 KfW | Kreditanstalt für Wiederaufbau
+4 Export-Import Bank | Exim Bank | EXIM
+4 Bank of Korea
+4 Reserve Bank of India | RBI
+4 Monetary Authority of Singapore | MAS
+4 Hong Kong Monetary Authority | HKMA
+4 Banque de France | Bank of France
+4 Banca d'Italia | Bank of Italy
+4 Banco de España | Bank of Spain
+4 Riksbank | Sveriges Riksbank
+4 Norges Bank
+4 Bank of Russia | Central Bank of Russia
+4 Bank Indonesia
+4 Bank Negara Malaysia | Bank Negara
+4 Bank of Thailand
+4 South African Reserve Bank | SARB
+4 Bank of Israel
+4 Bank of Mexico | Banxico | Banco de México
+4 Central Bank of Brazil | Banco Central do Brasil
+6 Bank of Amsterdam | Amsterdamsche Wisselbank | Wisselbank | Amsterdam Wisselbank :: Founded in 1609 to tame a chaos of clipped coins. Its paper money, good anywhere, made it a forerunner of every central bank.
+6 Bank of Saint George | Banco di San Giorgio | Casa di San Giorgio | Bank of St George Genoa :: Genoa's bank, founded in 1407, lent to kings, governed colonies and counted Columbus among its customers.
+x PayPal | Afterpay | Zip | Apple Pay | Google Pay | Venmo | Klarna | Stripe | Square | Cash App | Beem | Alipay | WeChat Pay | Western Union | Visa | Mastercard :: A payments company, not a bank.
+x AustralianSuper | Hostplus | REST | UniSuper | Cbus | HESTA | Aware Super | Vanguard | BlackRock | Fidelity | Colonial First State :: A super fund or fund manager, not a bank.
+x Bank | Big four | Big 4 | Central bank | Investment bank | Credit union | Building society :: Which one? Give the bank its name.
+x AAMI | Allianz | NRMA | QBE | IAG | Medibank | Bupa | TAL | Zurich | AIA | Youi | Budget Direct :: An insurer, not a bank.
+x Blood bank | Food bank | Sperm bank | River bank | Riverbank | Piggy bank | Power bank | Memory bank | West Bank | Seed bank :: A bank of a kind, but not the kind this ledger records.
+x ASIC | APRA | ACCC | ATO | AUSTRAC :: A regulator. It watches the banks rather than being one.

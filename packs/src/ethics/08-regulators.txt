@@ -1,0 +1,128 @@
+id: ethics-regulators
+text: Name a regulator, watchdog or oversight body.
+flavor: Somebody has to watch. Somebody has to watch them, too, and so on, all the way down.
+rules: Any body, Australian or overseas, whose job is to police business, markets, workplaces or public conduct.
+section: Oversight
+---
+1 ASIC | Australian Securities and Investments Commission | Australian Securities & Investments Commission
+1 ACCC | Australian Competition and Consumer Commission | Australian Competition & Consumer Commission
+1 ATO | Australian Taxation Office | Tax office | Australian Tax Office
+1 Fair Work | Fair Work Commission | Fair Work Ombudsman | FWC | FWO | Fair Work Australia
+1 APRA | Australian Prudential Regulation Authority
+1 Reserve Bank of Australia | RBA | Reserve Bank
+2 AUSTRAC | Australian Transaction Reports and Analysis Centre
+2 ICAC | Independent Commission Against Corruption | NSW ICAC
+2 National Anti-Corruption Commission | NACC
+2 Ombudsman | Commonwealth Ombudsman | AFCA | Australian Financial Complaints Authority | Financial Ombudsman Service | Telecommunications Industry Ombudsman | TIO | Banking Ombudsman
+2 EPA | Environment Protection Authority | Environmental Protection Agency | Environmental Protection Authority
+2 Safe Work Australia | SafeWork | WorkSafe | SafeWork NSW | WorkSafe Victoria | Workplace Health and Safety Queensland | WorkCover | Worksafe
+2 SEC | Securities and Exchange Commission | US Securities and Exchange Commission
+2 ASX | Australian Securities Exchange | ASX Compliance
+2 Fair Trading | NSW Fair Trading | Consumer Affairs Victoria | Office of Fair Trading | Consumer Affairs | Consumer Protection WA
+2 Royal commission | Banking royal commission | Hayne royal commission | Royal commissions
+2 Police | AFP | Australian Federal Police | Federal Police
+2 ACMA | Australian Communications and Media Authority
+2 TGA | Therapeutic Goods Administration
+2 Privacy Commissioner | OAIC | Office of the Australian Information Commissioner | Information Commissioner
+2 Human Rights Commission | Australian Human Rights Commission | AHRC | Anti-Discrimination Board | Equal Opportunity Commission
+2 eSafety Commissioner | eSafety | Office of the eSafety Commissioner
+2 Auditor-General | ANAO | Australian National Audit Office | Audit Office
+2 FBI | Federal Bureau of Investigation
+2 Courts | Federal Court | High Court | The courts
+2 Parliament | Senate | Senate estimates | Senate committee | Parliamentary inquiry
+3 ACNC | Australian Charities and Not-for-profits Commission
+3 FIRB | Foreign Investment Review Board
+3 Productivity Commission
+3 ACLEI | CCC | Crime and Corruption Commission | IBAC | Corruption and Crime Commission | ICAC SA | Integrity Commission
+3 Tax Practitioners Board | TPB
+3 Takeovers Panel
+3 AER | Australian Energy Regulator | AEMO | AEMC | Essential Services Commission | IPART
+3 CASA | Civil Aviation Safety Authority | ATSB | Australian Transport Safety Bureau
+3 FSANZ | Food Standards Australia New Zealand | Food Standards | Food Authority
+3 APVMA | Australian Pesticides and Veterinary Medicines Authority
+3 AHPRA | Australian Health Practitioner Regulation Agency | Medical Board
+3 TEQSA | Tertiary Education Quality and Standards Agency | ASQA
+3 AASB | Australian Accounting Standards Board | AUASB | Financial Reporting Council | FRC
+3 CPA Australia | Chartered Accountants ANZ | CA ANZ | CAANZ | Law Society | Bar Association | Legal Services Commissioner
+3 Ad Standards | Advertising Standards Bureau | Advertising Standards Board
+3 Australian Press Council | Press Council
+3 Classification Board | Australian Classification Board
+3 Clean Energy Regulator | CER
+3 NOPSEMA
+3 Liquor and Gaming NSW | VGCCC | Victorian Gambling and Casino Control Commission | Independent Casino Commission | NICC | Liquor and Gaming
+3 Building Commission | Building Commissioner | VBA | Victorian Building Authority | QBCC
+3 Aged Care Quality and Safety Commission | Aged Care Commission | NDIS Quality and Safeguards Commission | NDIS Commission
+3 Inspector-General of Taxation | IGT | Inspector-General of Intelligence and Security | IGIS
+3 Registered Organisations Commission | ROC | ABCC | Australian Building and Construction Commission
+3 Workplace Gender Equality Agency | WGEA
+3 Anti-Slavery Commissioner | Modern Slavery Commissioner
+3 National Measurement Institute | Australian Border Force | ABF | Biosecurity
+3 Sport Integrity Australia | ASADA | WADA
+3 ACIC | Australian Criminal Intelligence Commission | DPP | CDPP | Director of Public Prosecutions
+3 ARPANSA | Office of the Gene Technology Regulator | NHMRC | Animal ethics committee | Human research ethics committee | HREC | Ethics committee
+3 Standards Australia
+3 CHOICE
+3 Board of directors | Audit committee | Internal audit | Auditors | External auditor | Compliance | Company secretary
+3 Whistleblowers | Media | Journalists | The press | Four Corners
+3 Financial Conduct Authority | FCA | Financial Services Authority | FSA
+3 Prudential Regulation Authority | PRA
+3 Bank of England
+3 Serious Fraud Office | SFO
+3 Competition and Markets Authority | CMA
+3 Ofcom | Ofgem | Ofwat | Ofsted
+3 Federal Reserve | The Fed | Fed
+3 FTC | Federal Trade Commission
+3 Department of Justice | DOJ | US Department of Justice
+3 FDA | Food and Drug Administration
+3 CFTC | Commodity Futures Trading Commission
+3 FINRA | Financial Industry Regulatory Authority
+3 CFPB | Consumer Financial Protection Bureau
+3 PCAOB | Public Company Accounting Oversight Board
+3 OSHA | Occupational Safety and Health Administration
+3 FCC | Federal Communications Commission
+3 FDIC | Federal Deposit Insurance Corporation | OCC | Office of the Comptroller of the Currency
+3 IRS | Internal Revenue Service | HMRC
+3 FAA | Federal Aviation Administration | NTSB
+3 EEOC | Equal Employment Opportunity Commission
+3 European Commission | DG Competition | European Central Bank | ECB
+3 ESMA | European Securities and Markets Authority | EBA | European Banking Authority
+3 BaFin
+3 FINMA
+3 Monetary Authority of Singapore | MAS
+3 Securities and Futures Commission | SFC | Hong Kong Monetary Authority | HKMA
+3 Commerce Commission | Financial Markets Authority | FMA | Reserve Bank of New Zealand | RBNZ
+3 SEBI | Securities and Exchange Board of India | Reserve Bank of India | RBI
+3 CSRC | China Securities Regulatory Commission
+3 Financial Services Agency | Japan FSA
+3 IOSCO | Basel Committee | Financial Stability Board | FSB | FATF | Financial Action Task Force | Bank for International Settlements
+3 IASB | International Accounting Standards Board | FASB | ISSB | International Sustainability Standards Board
+3 Interpol | Europol
+3 International Criminal Court | ICC
+3 United Nations | UN | International Labour Organization | ILO | WTO | World Trade Organization | OECD
+3 Transparency International | Amnesty International | Human Rights Watch | Greenpeace
+3 Fairtrade | Forest Stewardship Council | FSC | B Lab
+4 NCSC | National Companies and Securities Commission
+4 Trade Practices Commission | TPC | Prices Surveillance Authority
+4 Insurance and Superannuation Commission | ISC
+4 Australian Securities Commission | ASC
+4 Corporate Affairs Commission
+4 Australian Broadcasting Tribunal | Australian Broadcasting Authority | ABA
+4 HIH Royal Commission | Cole Royal Commission | Costigan Royal Commission | Fitzgerald Inquiry | Wood Royal Commission
+4 Financial System Inquiry | Wallis Inquiry | Campbell Committee | Murray Inquiry
+4 Council of Financial Regulators | CFR
+4 Payments System Board
+4 Australian Financial Security Authority | AFSA
+4 Companies Auditors Disciplinary Board | CADB
+4 Financial Services and Credit Panel | FSCP
+4 Superannuation Complaints Tribunal | SCT
+4 Australian Small Business and Family Enterprise Ombudsman | ASBFEO | Small Business Ombudsman
+4 Motor Vehicle Standards | ACCC Product Safety | Product Safety Australia
+4 Office of Thrift Supervision | OTS
+4 Interstate Commerce Commission
+6 Star Chamber | Court of Star Chamber :: An English court that sat in secret under a ceiling painted with stars. Abolished in 1641, its name still means oversight turned into tyranny.
+4 Board of Trade
+6 Pecora Commission | Pecora Investigation | Pecora :: The 1932 to 1934 US Senate inquiry whose grilling of Wall Street's bankers after the Crash led to the laws that created the SEC.
+6 Censor | Roman censor | Censors :: Two magistrates of the Roman Republic who counted the citizens and policed their morals. They could strike a senator off the roll for bad conduct.
+x CBA | Commonwealth Bank | Westpac | ANZ | NAB | Macquarie | AMP | Qantas | BHP | Telstra | Woolworths | Coles | PwC | KPMG | Deloitte | EY :: One of the watched, not one of the watchers.
+x Regulator | Watchdog | Government | The government | Authority | Commission | Agency | Law | The law :: Which one? Name the body.
+x Centrelink | Medicare | Services Australia | NDIS | Australia Post | NBN | ABS | CSIRO | BOM | Bureau of Meteorology :: A government service, but it delivers things rather than policing anyone.

@@ -1,0 +1,189 @@
+id: finance-super-funds
+text: Name an Australian super fund or fund manager.
+flavor: Your future self is down there somewhere, counting what you sent. They hope you chose well.
+rules: Any Australian superannuation fund, or any fund manager or investment platform that looks after Australians' money, past or present.
+section: Institutions
+---
+1 AustralianSuper | Australian Super | Aus Super
+1 Hostplus | Host Plus | HOSTPLUS
+1 Rest | REST Super | Retail Employees Superannuation Trust | REST | Rest Super
+1 UniSuper | Uni Super
+1 Vanguard | Vanguard Australia | Vanguard Super
+1 Cbus | CBUS | Cbus Super | Construction and Building Unions Superannuation
+2 Australian Retirement Trust | ART | Sunsuper | QSuper | Q Super | Sun Super
+2 Aware Super | Aware | First State Super | VicSuper | StatePlus | WA Super
+2 HESTA | Hesta | Health Employees Superannuation Trust Australia
+2 Colonial First State | CFS | First State | Colonial First State FirstChoice | FirstChoice | CommBank Super
+2 AMP | AMP Super | AMP Capital | AMP SignatureSuper
+2 Macquarie | Macquarie Asset Management | Macquarie Super | Macquarie Wrap | Macquarie Investment Management
+2 BT | BT Super | BT Financial Group | BT Panorama | Westpac BT | Bankers Trust | BT Funds Management
+2 MLC | MLC Super | MLC MasterKey | Plum | Plum Super | MLC Asset Management
+2 Future Fund | The Future Fund
+2 Spaceship | Spaceship Super | Spaceship Voyager
+2 Raiz | Raiz Invest | Acorns | Raiz Super
+2 Magellan | Magellan Financial Group | Magellan Asset Management
+2 Perpetual | Perpetual Investments | Perpetual Limited
+2 BlackRock | iShares | BlackRock Australia
+2 Betashares | BetaShares | Beta Shares
+2 Mercer | Mercer Super | Mercer Super Trust
+2 Australian Ethical | Australian Ethical Super | Australian Ethical Investment
+2 Brighter Super | LGIAsuper | LGIA Super | Energy Super
+2 CareSuper | Care Super
+2 Equip | Equip Super | Equipsuper | Catholic Super | TelstraSuper | Telstra Super
+2 NGS Super | NGS
+2 Insignia | Insignia Financial | IOOF | ANZ Smart Choice | OnePath | ANZ Super
+3 Team Super | TWUSUPER | TWU Super | TWUSuper | Mine Super | Transport Workers Union Super | Mine Wealth and Wellbeing | AUSCOAL Super
+3 First Super
+3 Legalsuper | Legal Super
+3 Prime Super
+3 Vision Super
+3 Active Super | Local Government Super | LGS
+3 Spirit Super | Tasplan | MTAA Super
+3 CSC | Commonwealth Superannuation Corporation | PSS | CSS | PSSap | Military Super | ADF Super | Public Sector Superannuation Scheme | MilitarySuper
+3 State Super | SAS Trustee Corporation | SASS | STC
+3 GESB | Government Employees Superannuation Board | GESB Super | West State Super
+3 Super SA | SuperSA | Triple S
+3 ESSSuper | ESS Super | Emergency Services and State Super
+3 Media Super
+3 BUSSQ | BUSS(Q) | BUSSQ Super
+3 Maritime Super
+3 AvSuper | AvSuper Fund
+3 Qantas Super
+3 Commonwealth Bank Group Super | CBA Group Super
+3 Guild Super | GuildSuper | Child Care Super
+3 Intrust Super | Intrust
+3 Club Plus | Club Plus Super
+3 EISS Super | EISS | Energy Industries Superannuation Scheme
+3 LUCRF | LUCRF Super
+3 Kinetic Super
+3 AustSafe Super | Austsafe
+3 Christian Super
+3 Crescent Wealth | Crescent Wealth Super
+3 Future Super
+3 Verve Super | Verve
+3 Virgin Money Super
+3 GigSuper
+3 Zuper
+3 Grow Super | GROW
+3 Student Super | Professional Super
+3 Superhero Super | Superhero
+3 Stake Super | Stake
+3 Pearler | Pearler Super
+3 SelfWealth | Selfwealth
+3 CommSec | CommSec Pocket
+3 Netwealth
+3 Hub24 | HUB24
+3 Praemium
+3 Platinum | Platinum Asset Management | Platinum Investment Management
+3 Pendal | BT Investment Management
+3 Challenger
+3 Pinnacle | Pinnacle Investment Management
+3 GQG Partners | GQG
+3 L1 Capital | L1
+3 Regal | Regal Funds Management | Regal Partners
+3 Wilson Asset Management | WAM | WAM Capital
+3 Argo | Argo Investments
+3 AFIC | Australian Foundation Investment Company
+3 Soul Patts | Washington H. Soul Pattinson | Soul Pattinson
+3 IFM Investors | IFM | Industry Funds Management
+3 QIC | Queensland Investment Corporation
+3 TCorp | NSW Treasury Corporation | New South Wales Treasury Corporation
+3 VFMC | Victorian Funds Management Corporation
+3 Funds SA
+3 State Street | State Street Global Advisors | SSGA | SPDR
+3 VanEck | Van Eck
+3 Global X | ETF Securities | ETFS
+3 Fidelity | Fidelity International
+3 Schroders | Schroder
+3 Dimensional | DFA | Dimensional Fund Advisors
+3 Russell Investments | Russell
+3 Lazard | Lazard Asset Management
+3 PIMCO | Pimco
+3 Janus Henderson | Henderson
+3 Franklin Templeton | Templeton
+3 T. Rowe Price | T Rowe Price
+3 Zurich | Zurich Investments
+3 Allan Gray | Allan Gray Australia
+3 Hyperion | Hyperion Asset Management
+3 Fidante | Fidante Partners
+3 Bennelong | Bennelong Funds Management
+3 Ausbil | Ausbil Investment Management
+3 Maple-Brown Abbott | Maple Brown Abbott
+3 Investors Mutual | IML
+3 Paradice | Paradice Investment Management
+3 Greencape | Greencape Capital
+3 Firetrail | Firetrail Investments
+3 Antipodes | Antipodes Partners
+3 Munro | Munro Partners
+3 Montgomery | Montgomery Investment Management
+3 Forager | Forager Funds
+3 Tribeca | Tribeca Investment Partners
+3 Ellerston | Ellerston Capital
+3 Caledonia | Caledonia Investments
+3 VGI Partners | VGI
+3 Milford | Milford Asset Management
+3 Metrics | Metrics Credit Partners
+3 La Trobe Financial | La Trobe
+3 Charter Hall
+3 Dexus | AMP Capital Real Estate
+3 Lendlease Investment Management
+3 Centuria
+3 Australian Unity | Australian Unity Investments
+3 Equity Trustees | EQT
+3 Mason Stevens
+3 Morningstar | Ibbotson
+3 Six Park | Stockspot | InvestSMART
+3 Colonial Mutual | Colonial
+3 National Mutual | AXA | AXA Australia
+3 Tower | Tower Australia
+3 Suncorp Super | Suncorp
+3 ING Super | ING Living Super
+3 Bendigo Super | Bendigo SmartStart | Sandhurst Trustees
+3 Aon Master Trust | smartMonday | Smart Monday
+3 Statewide Super | Statewide
+3 Kogan Super
+3 Victorian Independent Schools Super | VISSF
+3 Meat Industry Employees Super | MIESF
+3 Nationwide Super | NSF Super
+3 AMIST | AMIST Super | Australian Meat Industry Superannuation Trust
+3 REI Super
+3 Fire and Emergency Services Super | FES Super
+3 Lutheran Super
+3 NESS Super | NESS
+3 Emplus | Emplus Super
+3 Slate Super
+3 Elevate Super
+4 Health Super
+4 Asset Super | Asset
+4 AGEST | AGEST Super
+4 Westscheme
+6 Australian Retirement Fund | ARF | Superannuation Trust of Australia | STA :: Two of the first big industry funds, born of the 1980s award super deals. They merged in 2006 to form AustralianSuper.
+4 Just Super | JUST Super
+4 Print Super
+4 Tasmanian Accumulation Scheme | TAS
+4 Quadrant | Quadrant Super
+4 RBF | Retirement Benefits Fund
+4 Retirement Wrap | Asgard | Asgard eWRAP | Advance
+4 Trio Capital | Astarra
+4 Basis Capital
+4 Absolute Capital
+4 Babcock & Brown | Babcock and Brown
+4 Allco
+4 MFS | Octaviar
+4 City Pacific
+4 Blue Sky | Blue Sky Alternative Investments
+4 Hunter Hall
+4 Rothschild Australia Asset Management
+4 County NatWest | County Investment Management
+4 Mercantile Mutual
+4 Prudential Australia | Prudential
+4 Legal & General Australia | Legal and General
+4 Norwich Union Australia | Norwich Union
+4 Friends Provident
+4 City Mutual
+4 T&G | T&G Mutual | Temperance and General
+6 AMP Society | Australian Mutual Provident Society :: Founded in Sydney in 1849 as a mutual, so that the families of men who died would not be left destitute. It demutualised and listed in 1998.
+x CommBank | Commonwealth Bank | Westpac | ANZ | NAB | Bendigo Bank | Bank of Queensland | ING :: A bank first. Name its super or funds arm, or another fund altogether.
+x ATO | Australian Taxation Office | APRA | ASIC | Centrelink | Medicare | myGov :: A government agency. It chases lost super, but it doesn't invest it.
+x Super | Superannuation | Super fund | Industry fund | Retail fund | SMSF | Self-managed super fund | Fund manager | Managed fund | Industry super | Pension | 401k :: Which one? Name the fund.
+x Berkshire Hathaway | Bridgewater | Renaissance Technologies | Citadel | Sequoia | SoftBank | Blackstone | KKR :: A giant, but not one known for running Australians' savings.

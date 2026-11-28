@@ -1,0 +1,108 @@
+id: anatomy-eye-ear
+text: Name a part of the eye or the ear.
+flavor: You are reading this with one of them. Something may be listening with the other.
+rules: Any named structure of the human eye or ear, inside or out.
+section: Senses
+---
+1 Pupil
+1 Iris
+1 Retina
+1 Eardrum | Ear drum | Tympanic membrane | Tympanum
+1 Lens | Crystalline lens
+1 Cornea
+1 Earlobe | Ear lobe | Lobe | Lobule
+1 Cochlea
+2 Optic nerve
+2 Eyelid | Eyelids | Lid | Upper eyelid | Lower eyelid
+2 Eyelash | Eyelashes | Lashes
+2 Ear canal | Auditory canal | External auditory canal | External acoustic meatus | External auditory meatus
+2 Sclera | White of the eye | White
+2 Eustachian tube | Auditory tube | Pharyngotympanic tube
+2 Tear duct | Tear ducts | Lacrimal duct | Nasolacrimal duct | Tear gland | Lacrimal gland
+2 Rods | Rod | Rod cells
+2 Cones | Cone | Cone cells
+2 Outer ear | Pinna | Auricle | External ear
+2 Inner ear | Labyrinth
+2 Middle ear | Tympanic cavity
+2 Hammer | Malleus
+2 Anvil | Incus
+2 Stirrup | Stapes
+2 Eyeball | Globe
+2 Eyebrow | Brow
+3 Ossicles | Ossicle | Auditory ossicles | Ear bones
+3 Semicircular canals | Semicircular canal
+3 Vitreous humour | Vitreous humor | Vitreous | Vitreous body
+3 Aqueous humour | Aqueous humor | Aqueous
+3 Macula | Macula lutea
+3 Fovea | Fovea centralis
+3 Blind spot | Optic disc | Optic disk
+3 Conjunctiva
+3 Choroid
+3 Ciliary body | Ciliary muscle
+3 Auditory nerve | Cochlear nerve | Vestibulocochlear nerve | Vestibular nerve
+3 Vestibule
+3 Hair cells | Hair cell | Stereocilia
+3 Organ of Corti | Spiral organ
+3 Basilar membrane
+3 Oval window
+3 Round window
+3 Tragus
+3 Helix
+3 Antihelix
+3 Concha
+3 Anterior chamber
+3 Posterior chamber
+3 Photoreceptors | Photoreceptor
+3 Suspensory ligaments | Zonules | Zonule of Zinn | Zonular fibres | Suspensory ligament
+3 Orbit | Eye socket | Socket
+3 Extraocular muscles | Eye muscles | Lateral rectus | Medial rectus | Superior rectus | Inferior rectus | Superior oblique | Inferior oblique
+3 Earwax | Cerumen | Ceruminous glands
+3 Utricle
+3 Saccule
+3 Otoliths | Otolith | Otoconia | Ear stones | Ear crystals
+3 Meibomian glands | Meibomian gland | Tarsal glands
+3 Caruncle | Lacrimal caruncle
+3 Canthus | Corner of the eye
+3 Tear film | Tears
+3 Retinal pigment epithelium | RPE
+3 Ganglion cells | Retinal ganglion cells | Bipolar cells
+4 Antitragus
+4 Scapha
+4 Triangular fossa
+4 Intertragic notch
+4 Darwin's tubercle
+4 Tensor tympani
+4 Stapedius
+4 Endolymph
+4 Perilymph
+4 Scala vestibuli | Scala tympani | Scala media | Cochlear duct
+4 Tectorial membrane
+4 Reissner's membrane | Vestibular membrane
+4 Stria vascularis
+4 Ampulla | Crista ampullaris | Cupula
+4 Modiolus
+4 Helicotrema
+4 Mastoid | Mastoid air cells | Mastoid antrum
+4 Umbo
+4 Pars flaccida | Pars tensa
+4 Limbus | Corneal limbus
+4 Trabecular meshwork
+4 Canal of Schlemm | Schlemm's canal
+4 Bowman's layer | Bowman's membrane
+4 Descemet's membrane
+4 Corneal endothelium | Corneal epithelium | Corneal stroma
+4 Ora serrata
+4 Lens capsule
+4 Hyaloid canal | Cloquet's canal
+4 Tenon's capsule
+4 Tarsal plate | Tarsus
+4 Punctum | Lacrimal punctum | Puncta
+4 Canaliculus | Lacrimal canaliculus | Lacrimal sac
+4 Plica semilunaris
+4 Bruch's membrane
+4 Uvea | Uveal tract
+4 Pupillary sphincter | Dilator pupillae | Iris dilator | Sphincter pupillae
+4 Muller cells | Müller cells | Amacrine cells | Horizontal cells
+6 Dua's layer | Dua layer | Pre-Descemet's layer :: A layer of the cornea just 15 thousandths of a millimetre thick, announced in 2013 by Harminder Dua. Anatomy was still finding new parts of you.
+x Nose | Mouth | Tongue | Brain | Skull | Face | Glasses | Sinus | Throat | Tonsils :: Close by, but not part of either one.
+x Eye | Ear | Eyes | Ears | Sight | Hearing | Vision :: That is the whole thing. Name a part of it.

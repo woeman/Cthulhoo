@@ -1,0 +1,99 @@
+id: ethics-virtues-vices
+text: Name a virtue or a vice.
+flavor: Each of us is weighed in the end. It helps to know what goes on which side of the scale.
+rules: Any trait of character counted as a moral strength or a moral failing, including the seven deadly sins.
+section: Character
+---
+1 Honesty | Truthfulness | Being honest | Truth | Sincerity | Candour | Candor
+1 Greed | Avarice | Covetousness | Greediness | Cupidity | Avaritia
+1 Courage | Bravery | Fortitude | Valour | Valor | Being brave
+1 Pride | Hubris | Arrogance | Superbia | Conceit | Haughtiness
+1 Kindness | Being kind | Kindliness | Benevolence | Goodwill
+1 Lust | Luxuria | Lechery
+1 Envy | Jealousy | Invidia
+1 Patience
+2 Gluttony | Gula | Overindulgence
+2 Wrath | Anger | Rage | Ira | Fury
+2 Sloth | Laziness | Idleness | Indolence
+2 Integrity
+2 Loyalty | Fidelity | Faithfulness
+2 Compassion | Empathy | Sympathy | Caring
+2 Generosity | Charity | Giving | Liberality
+2 Humility | Modesty | Being humble
+2 Justice | Fairness | Being fair
+2 Wisdom | Prudence | Good judgement | Good judgment
+2 Temperance | Moderation | Self-control | Self control | Restraint | Self-restraint | Sobriety
+2 Faith
+2 Hope
+2 Love
+2 Respect | Courtesy | Politeness | Manners | Civility
+2 Responsibility | Accountability | Dependability | Reliability
+2 Selfishness | Self-interest | Egoism | Egotism
+2 Dishonesty | Lying | Deceit | Deception | Deceitfulness | Mendacity
+2 Cruelty | Malice | Spite | Sadism | Callousness
+2 Cowardice | Cowardliness
+2 Vanity | Narcissism | Vainglory
+2 Forgiveness | Mercy | Clemency
+2 Gratitude | Thankfulness
+2 Diligence | Hard work | Industriousness | Industry | Work ethic
+2 Trustworthiness | Trust
+2 Hypocrisy
+2 Corruption | Venality
+3 Chastity | Purity
+3 Perseverance | Persistence | Determination | Grit | Resilience | Tenacity
+3 Discipline | Self-discipline
+3 Tolerance | Open-mindedness | Acceptance
+3 Honour | Honor
+3 Dignity
+3 Duty | Dutifulness | Conscientiousness
+3 Altruism | Selflessness | Unselfishness
+3 Friendliness | Friendship
+3 Wit | Wittiness | Humour | Humor
+3 Magnanimity | Greatness of soul
+3 Magnificence
+3 Piety | Devotion | Reverence
+3 Filial piety | Xiao
+3 Ren | Humaneness
+3 Thrift | Frugality
+3 Cleanliness
+3 Obedience
+3 Gentleness | Meekness | Mildness
+3 Cheerfulness | Optimism
+3 Tact | Discretion
+3 Decency | Goodness
+3 Stinginess | Meanness | Miserliness
+3 Recklessness | Rashness | Foolhardiness
+3 Wastefulness | Prodigality | Extravagance
+3 Intemperance | Excess | Drunkenness
+3 Injustice | Unfairness
+3 Betrayal | Treachery | Disloyalty | Treason
+3 Impatience
+3 Ingratitude | Ungratefulness
+3 Rudeness | Disrespect
+3 Stubbornness | Obstinacy
+3 Bigotry | Prejudice | Intolerance | Racism
+3 Apathy | Indifference
+3 Ruthlessness
+3 Gossip | Slander
+3 Manipulation | Cunning
+3 Ambition
+3 Despair
+3 Folly | Foolishness
+4 Equanimity
+4 Sophrosyne
+4 Arete
+4 Metta | Loving-kindness
+4 Karuna
+4 Ahimsa | Non-violence
+4 Caritas
+4 Pusillanimity | Small-mindedness
+4 Boorishness
+4 Buffoonery
+4 Obsequiousness | Flattery
+4 Irascibility
+4 Schadenfreude
+5 Phronesis | Practical wisdom
+6 Acedia | Accidie :: The monks' "noonday demon", a listless despair of the soul. It was one of eight deadly thoughts before the list was cut to seven and sloth took its place.
+6 Eutrapelia :: Aristotle's virtue of ready wit: the happy middle between the buffoon, who will say anything for a laugh, and the boor, who never laughs at all.
+x Virtue | Vice | Sin | Good | Bad | Evil | Morality | Ethics | Seven deadly sins | Deadly sin :: Which one? Name the trait itself.
+x Murder | Theft | Stealing | Fraud | Adultery | Killing :: That is a deed rather than a trait of character. Name what drives it.

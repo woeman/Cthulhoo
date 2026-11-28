@@ -1,0 +1,54 @@
+id: economics-treasurers
+text: Name a federal Treasurer of Australia.
+flavor: Every one of them stood up on budget night and promised it would all add up. Every one.
+rules: Anyone who has held the office of Treasurer of Australia since 1901, however briefly. Surnames alone are fine.
+section: Australia
+asOf: 2026-11-28
+---
+1 Jim Chalmers | Chalmers | James Chalmers
+1 Paul Keating | Keating
+1 Peter Costello | Costello
+2 Josh Frydenberg | Frydenberg | Joshua Frydenberg
+2 Scott Morrison | Morrison | ScoMo
+2 John Howard | Howard
+2 Wayne Swan | Swan
+2 Joe Hockey | Hockey
+3 Bob Hawke | Hawke | Robert Hawke
+3 Gough Whitlam | Whitlam
+3 Robert Menzies | Menzies | Bob Menzies | Sir Robert Menzies
+3 Ben Chifley | Chifley | Joseph Benedict Chifley
+3 Harold Holt | Holt
+3 Chris Bowen | Bowen
+3 Bill Hayden | Hayden
+3 William McMahon | McMahon | Billy McMahon | Bill McMahon
+4 Jim Cairns | Cairns
+4 Arthur Fadden | Fadden | Artie Fadden
+4 Joseph Lyons | Lyons | Joe Lyons
+4 James Scullin | Scullin | Jim Scullin
+4 Andrew Fisher | Fisher
+4 Chris Watson | Watson | John Christian Watson
+4 Joseph Cook | Cook
+4 Stanley Bruce | Bruce | Stanley Melbourne Bruce
+4 Earle Page | Page
+4 John Dawkins | Dawkins
+4 Ralph Willis | Willis
+4 John Kerin | Kerin
+4 Frank Crean | Crean
+4 Billy Snedden | Snedden
+4 Phillip Lynch | Lynch | Phil Lynch
+4 Ted Theodore | Theodore | Red Ted | Edward Theodore | E. G. Theodore
+4 Richard Casey | Casey | R. G. Casey | Lord Casey
+4 John Forrest | Forrest | Sir John Forrest
+5 Leslie Bury | Bury | Les Bury
+5 Percy Spender | Spender
+5 William Lyne | Lyne
+5 William Watt | Watt
+6 George Turner | Turner | Sir George Turner :: The first, from 1901. A former Premier of Victoria, he held the purse under Barton, Deakin and Reid.
+6 William Higgs | Higgs :: Treasurer from 1915 to 1916. A Labor man, he resigned when Billy Hughes pushed for conscription.
+6 Alexander Poynton | Poynton :: Treasurer for a few months of 1916 and 1917 in Billy Hughes's breakaway National Labor ministry.
+x Anthony Albanese | Albanese | Albo | Kevin Rudd | Rudd | Julia Gillard | Gillard | Tony Abbott | Abbott | Malcolm Turnbull | Turnbull | Malcolm Fraser | Fraser | John Gorton | Gorton | John Curtin | Curtin | Billy Hughes | Hughes | Edmund Barton | Barton | Alfred Deakin | Deakin :: A Prime Minister, but one who never held the Treasury.
+x Penny Wong | Wong | Katy Gallagher | Gallagher | Mathias Cormann | Cormann | Simon Birmingham | Birmingham | Lindsay Tanner | Tanner | Nick Minchin | Minchin | Peter Walsh | Walsh :: Finance Minister: the Treasurer's neighbour, but a different job.
+x Philip Lowe | Lowe | Michele Bullock | Bullock | Glenn Stevens | Stevens | Ken Henry | Henry | Steven Kennedy :: An official of the Reserve Bank or the Treasury department, never the elected Treasurer.
+x Peter Dutton | Dutton | Angus Taylor | Taylor | Jane Hume | Hume | Bill Shorten | Shorten | Kim Beazley | Beazley | John Hewson | Hewson | Andrew Peacock | Peacock | Ted O'Brien :: In opposition or in another portfolio, but never Treasurer.
+x Daniel Mookhey | Mookhey | Tim Pallas | Pallas | Dominic Perrottet | Perrottet | Matt Kean | Kean | Cameron Dick | Mike Baird | Baird :: A state Treasurer. The question asks for the federal one.
+x Treasurer | The Treasurer | Prime Minister :: That is the office. Name someone who held it.

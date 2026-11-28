@@ -1,0 +1,559 @@
+{
+ "id": "geography-landlocked-countries",
+ "text": "Name a landlocked country.",
+ "category": "geography",
+ "flavor": "Nations the sea has never touched. They sleep soundly. For now.",
+ "rules": "Any sovereign state with no coastline on an ocean or sea. Shores on the Caspian, which is a lake, don't count.",
+ "answers": [
+  {
+   "answer": "Switzerland",
+   "aliases": [
+    "Swiss Confederation",
+    "Schweiz",
+    "Suisse",
+    "Svizzera",
+    "Helvetia",
+    "Swiss",
+    "Confoederatio Helvetica",
+    "Svizra"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Austria",
+   "aliases": [
+    "Österreich",
+    "Oesterreich",
+    "Republic of Austria"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Bolivia",
+   "aliases": [
+    "Plurinational State of Bolivia",
+    "Republic of Bolivia"
+   ],
+   "tier": 1,
+   "lore": "Lost its coast to Chile in the War of the Pacific (1879 to 1884), and still keeps a navy."
+  },
+  {
+   "answer": "Hungary",
+   "aliases": [
+    "Magyarország",
+    "Republic of Hungary"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Mongolia",
+   "aliases": [
+    "Outer Mongolia",
+    "Mongol Uls"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Paraguay",
+   "aliases": [
+    "Republic of Paraguay"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Nepal",
+   "tier": 2
+  },
+  {
+   "answer": "Afghanistan",
+   "aliases": [
+    "Islamic Emirate of Afghanistan",
+    "Islamic Republic of Afghanistan"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Czechia",
+   "aliases": [
+    "Czech Republic",
+    "Česko",
+    "Czech",
+    "Czech Rep",
+    "Česká republika",
+    "Czechoslovakia",
+    "Checkia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Luxembourg",
+   "aliases": [
+    "Luxemburg",
+    "Lëtzebuerg",
+    "Grand Duchy of Luxembourg"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kazakhstan",
+   "aliases": [
+    "Kazakstan",
+    "Qazaqstan",
+    "Kazakh SSR",
+    "Kazakh Soviet Socialist Republic",
+    "Republic of Kazakhstan"
+   ],
+   "tier": 2,
+   "lore": "The largest landlocked country on Earth."
+  },
+  {
+   "answer": "Liechtenstein",
+   "aliases": [
+    "Principality of Liechtenstein"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "One of only two doubly landlocked countries: every neighbour is landlocked too."
+  },
+  {
+   "answer": "Vatican City",
+   "aliases": [
+    "Vatican",
+    "Holy See",
+    "Vatican City State",
+    "Vatican State",
+    "State of the Vatican City",
+    "Città del Vaticano"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "The smallest country in the world, sealed inside Rome."
+  },
+  {
+   "answer": "Andorra",
+   "aliases": [
+    "Principality of Andorra"
+   ],
+   "tier": 2,
+   "openSecret": true
+  },
+  {
+   "answer": "Chad",
+   "aliases": [
+    "Tchad",
+    "Republic of Chad"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Slovakia",
+   "aliases": [
+    "Slovak Republic",
+    "Slovensko"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Belarus",
+   "aliases": [
+    "Byelorussia",
+    "Belorussia",
+    "White Russia",
+    "Byelorussian SSR",
+    "Belarusian SSR",
+    "Byelorussian Soviet Socialist Republic",
+    "Belarusian Soviet Socialist Republic",
+    "Republic of Belarus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Serbia",
+   "aliases": [
+    "Srbija",
+    "Republic of Serbia",
+    "Servia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zambia",
+   "aliases": [
+    "Northern Rhodesia",
+    "Republic of Zambia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zimbabwe",
+   "aliases": [
+    "Rhodesia",
+    "Southern Rhodesia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ethiopia",
+   "aliases": [
+    "Abyssinia"
+   ],
+   "tier": 3,
+   "lore": "Landlocked since Eritrea became independent in 1993."
+  },
+  {
+   "answer": "Mali",
+   "aliases": [
+    "French Sudan",
+    "Republic of Mali"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Niger",
+   "aliases": [
+    "Republic of Niger"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Uganda",
+   "aliases": [
+    "Republic of Uganda"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Rwanda",
+   "aliases": [
+    "Ruanda",
+    "Republic of Rwanda"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "San Marino",
+   "aliases": [
+    "Republic of San Marino",
+    "Most Serene Republic of San Marino"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Laos",
+   "aliases": [
+    "Lao PDR",
+    "Lao",
+    "Lao People's Democratic Republic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bhutan",
+   "aliases": [
+    "Druk Yul",
+    "Kingdom of Bhutan"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Uzbekistan",
+   "aliases": [
+    "Uzbek SSR",
+    "Uzbek Soviet Socialist Republic",
+    "O'zbekiston",
+    "Republic of Uzbekistan"
+   ],
+   "tier": 4,
+   "lore": "The other doubly landlocked country. Reaching the sea means crossing two borders."
+  },
+  {
+   "answer": "Botswana",
+   "aliases": [
+    "Bechuanaland",
+    "Republic of Botswana"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lesotho",
+   "aliases": [
+    "Basutoland",
+    "Kingdom of Lesotho"
+   ],
+   "tier": 4,
+   "lore": "Entirely surrounded by South Africa."
+  },
+  {
+   "answer": "Malawi",
+   "aliases": [
+    "Nyasaland",
+    "Republic of Malawi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Moldova",
+   "aliases": [
+    "Moldavia",
+    "Republic of Moldova",
+    "Moldavian SSR",
+    "Moldavian Soviet Socialist Republic"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "North Macedonia",
+   "aliases": [
+    "Macedonia",
+    "FYROM",
+    "Republic of North Macedonia",
+    "Former Yugoslav Republic of Macedonia",
+    "Republic of Macedonia",
+    "Makedonija",
+    "Severna Makedonija"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Burkina Faso",
+   "aliases": [
+    "Burkina",
+    "Upper Volta",
+    "Haute-Volta",
+    "Republic of Upper Volta"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Armenia",
+   "aliases": [
+    "Hayastan",
+    "Armenian SSR",
+    "Armenian Soviet Socialist Republic",
+    "Republic of Armenia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kyrgyzstan",
+   "aliases": [
+    "Kirghizia",
+    "Kyrgyz Republic",
+    "Kirgizstan",
+    "Kyrgyzia",
+    "Kirgizia",
+    "Kirghizstan",
+    "Kirghiz SSR",
+    "Kyrgyz SSR",
+    "Kirghiz Soviet Socialist Republic",
+    "Kyrgyz Soviet Socialist Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tajikistan",
+   "aliases": [
+    "Tadjikistan",
+    "Tadzhikistan",
+    "Tajik SSR",
+    "Tajik Soviet Socialist Republic",
+    "Tadzhik SSR"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Turkmenistan",
+   "aliases": [
+    "Turkmenia",
+    "Turkmen SSR",
+    "Turkmen Soviet Socialist Republic"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Burundi",
+   "aliases": [
+    "Urundi",
+    "Republic of Burundi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central African Republic",
+   "aliases": [
+    "CAR",
+    "Central African Empire",
+    "Ubangi-Shari",
+    "Oubangui-Chari",
+    "Centrafrique",
+    "Central African Rep",
+    "Central Africa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "South Sudan",
+   "aliases": [
+    "S Sudan",
+    "Southern Sudan",
+    "Republic of South Sudan"
+   ],
+   "tier": 5,
+   "lore": "The world's newest country, independent since 2011."
+  },
+  {
+   "answer": "Kosovo",
+   "aliases": [
+    "Kosova",
+    "Republic of Kosovo"
+   ],
+   "tier": 5,
+   "lore": "Declared independence in 2008 and is recognised by roughly half the world's countries."
+  },
+  {
+   "answer": "Eswatini",
+   "aliases": [
+    "Swaziland",
+    "Kingdom of Eswatini",
+    "Kingdom of Swaziland"
+   ],
+   "tier": 6,
+   "lore": "Called Swaziland until 2018, it is one of the world's last absolute monarchies."
+  },
+  {
+   "answer": "Azerbaijan",
+   "aliases": [
+    "Azerbaidzhan",
+    "Azerbaijan SSR",
+    "Azerbaijani SSR",
+    "Azerbaijan Soviet Socialist Republic",
+    "Azerbaycan",
+    "Republic of Azerbaijan"
+   ],
+   "tier": 6,
+   "lore": "Its long shoreline faces only the Caspian, usually counted as a lake, so it is landlocked after all."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Sudan",
+   "reason": "It has a coast on the Red Sea."
+  },
+  {
+   "answer": "Eritrea",
+   "reason": "Eritrea took Ethiopia's coastline with it when it became independent in 1993."
+  },
+  {
+   "answer": "Slovenia",
+   "reason": "Slovenia keeps a short stretch of Adriatic coast, about 47 km of it."
+  },
+  {
+   "answer": "Bosnia and Herzegovina",
+   "aliases": [
+    "Bosnia",
+    "Bosnia-Herzegovina"
+   ],
+   "reason": "Bosnia keeps a sliver of Adriatic coast at Neum."
+  },
+  {
+   "answer": "Congo",
+   "aliases": [
+    "DR Congo",
+    "DRC",
+    "Democratic Republic of the Congo",
+    "Republic of the Congo",
+    "Congo-Brazzaville",
+    "Zaire"
+   ],
+   "reason": "Both Congos reach the Atlantic, though DR Congo's coast is only about 40 km long."
+  },
+  {
+   "answer": "Iraq",
+   "reason": "Iraq has a short coast on the Persian Gulf."
+  },
+  {
+   "answer": "Jordan",
+   "reason": "Jordan holds a small foothold on the Red Sea at Aqaba."
+  },
+  {
+   "answer": "Monaco",
+   "reason": "Monaco is practically all coast."
+  },
+  {
+   "answer": "Transnistria",
+   "reason": "A breakaway region that no UN member recognises."
+  },
+  {
+   "answer": "South Ossetia",
+   "reason": "A breakaway region of Georgia, recognised by only a handful of countries."
+  },
+  {
+   "answer": "Inner Mongolia",
+   "aliases": [
+    "Tibet",
+    "Xinjiang"
+   ],
+   "reason": "A region of China, which has a coast."
+  },
+  {
+   "answer": "Artsakh",
+   "aliases": [
+    "Nagorno-Karabakh",
+    "Republic of Artsakh"
+   ],
+   "reason": "A breakaway republic in the Caucasus that no UN member recognised. It was dissolved in 2024."
+  }
+ ],
+ "decoys": [
+  "Australia",
+  "Gambia",
+  "Nigeria",
+  "Uruguay",
+  "Albania",
+  "Malta",
+  "Mauritania",
+  "Algeria",
+  "Somalia",
+  "Romania",
+  "Bulgaria",
+  "Siberia",
+  "Liberia",
+  "Ghana",
+  "Guinea",
+  "Iran",
+  "Syria",
+  "Cambodia",
+  "Myanmar",
+  "Mozambique",
+  "Namibia",
+  "Tanzania",
+  "Kenya",
+  "Cameroon",
+  "Gabon",
+  "Angola",
+  "Belgium",
+  "Germany",
+  "Poland",
+  "Ukraine",
+  "Russia",
+  "Georgia",
+  "Turkey",
+  "Pakistan",
+  "India",
+  "China",
+  "Thailand",
+  "Vietnam",
+  "Peru",
+  "Chile",
+  "Brazil",
+  "Argentina",
+  "Wales",
+  "Scotland",
+  "Brunei",
+  "Persia",
+  "Bali",
+  "Moravia"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"landlocked-countries\" on 28 November 2026."
+}

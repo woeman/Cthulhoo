@@ -1,0 +1,293 @@
+id: languages-french-loanwords
+text: Name a word or phrase English has borrowed from French.
+flavor: The Normans came in 1066 and left their words in the kitchen, the court and the bedroom.
+rules: Any word or phrase English took from French and still uses, with or without its accents.
+section: Borrowed words
+---
+1 Café | Cafe
+1 Restaurant
+1 Croissant
+1 Ballet
+1 Déjà vu | Deja vu
+1 Bon appétit | Bon appetit
+1 Rendezvous | Rendez-vous
+1 Chef
+1 Menu
+1 Baguette
+1 Fiancé | Fiance | Fiancée | Fiancee
+2 Cliché | Cliche
+2 Entrepreneur
+2 Souvenir
+2 Boutique
+2 Bouquet
+2 Chauffeur
+2 Champagne
+2 Crème brûlée | Creme brulee
+2 Encore
+2 Façade | Facade
+2 Faux pas
+2 Genre
+2 Résumé | Resume
+2 RSVP | Répondez s'il vous plaît | Repondez s'il vous plait
+2 Voilà | Voila
+2 Cul-de-sac | Cul de sac
+2 À la carte | A la carte
+2 Avant-garde | Avant garde
+2 Bureau
+2 Bourgeois | Bourgeoisie
+2 Cuisine
+2 Dessert
+2 Détour | Detour
+2 Élite | Elite
+2 En route
+2 Entrée | Entree
+2 Étiquette | Etiquette
+2 Garage
+2 Gourmet
+2 Lingerie
+2 Mayonnaise
+2 Omelette | Omelet
+2 Petite
+2 Chic
+2 Brunette
+2 Blonde | Blond
+2 Silhouette
+2 Sabotage
+2 Camouflage
+2 Massage
+2 Montage
+2 Mirage
+2 Parachute
+2 Premiere | Première
+2 Debut | Début
+2 Depot | Dépôt
+2 Critique
+2 Unique
+2 Antique
+2 Technique
+2 Fatigue
+2 Queue
+2 Ricochet
+2 Sauté | Saute
+2 Soufflé | Souffle
+2 Purée | Puree
+2 Pâté | Pate
+2 Crêpe | Crepe
+2 Éclair | Eclair
+2 Quiche
+2 Macaron | Macaroon
+2 Mousse
+2 Vinaigrette
+2 Hors d'oeuvre | Hors d'oeuvres | Hors d'œuvre
+2 Sommelier
+2 Maître d' | Maitre d' | Maître d'hôtel | Maitre d
+2 Concierge
+2 Carte blanche
+2 Coup | Coup d'état | Coup d'etat
+2 Crème de la crème | Creme de la creme
+2 C'est la vie | Cest la vie
+2 Bon voyage
+2 Joie de vivre
+2 Je ne sais quoi
+2 Laissez-faire | Laissez faire
+2 Mardi Gras
+2 Femme fatale
+2 Film noir | Noir
+2 Nouveau riche
+2 Papier-mâché | Papier mache | Paper mache
+2 Pot-pourri | Potpourri
+2 Tête-à-tête | Tete-a-tete | Tete a tete
+2 Vis-à-vis | Vis-a-vis | Vis a vis
+2 Touché | Touche
+2 Protégé | Protege
+2 Risqué | Risque
+2 Blasé | Blase
+2 Passé | Passe
+2 Naïve | Naive | Naïveté | Naivete
+2 Née | Nee
+2 Décor | Decor
+2 Liaison
+2 Reservoir
+2 Bureaucracy | Bureaucrat
+2 Espionage
+2 Regime | Régime
+2 Reconnaissance
+2 Lieutenant
+2 Sergeant
+2 Colonel
+2 Cadet
+2 Brigade
+2 Battalion
+2 Bayonet
+2 Beef | Pork | Mutton | Veal | Poultry | Venison
+2 Justice | Jury | Judge | Court | Attorney | Verdict | Parliament | Government | Crown
+2 Beauty | Colour | Color | Flower | Table | Chair | City | Country | Money | Castle | Prince | Princess | Duke | Royal | Very | Language
+3 Aperitif | Apéritif
+3 Digestif
+3 Amuse-bouche
+3 Au pair
+3 Au revoir
+3 Au contraire
+3 Au gratin
+3 Au naturel
+3 À la mode | A la mode
+3 Bête noire | Bete noire
+3 Billet-doux
+3 Bric-à-brac | Bric-a-brac
+3 Cache
+3 Cachet
+3 Canapé | Canape
+3 Cause célèbre | Cause celebre
+3 Chaise longue | Chaise lounge
+3 Chargé d'affaires | Charge d'affaires
+3 Cinéma vérité | Cinema verite
+3 Clique
+3 Cognac
+3 Communiqué | Communique
+3 Connoisseur
+3 Cordon bleu
+3 Corps
+3 Coup de grâce | Coup de grace
+3 Couture | Haute couture
+3 Cortège | Cortege
+3 Crèche | Creche
+3 Croquette
+3 Crouton | Croûton
+3 Debacle | Débâcle
+3 Débutante | Debutante
+3 Décolletage | Decolletage
+3 Dénouement | Denouement
+3 Déshabillé | Deshabille
+3 Détente | Detente
+3 Double entendre
+3 Dossier
+3 Eau de toilette | Eau de Cologne | Eau de parfum
+3 Élan | Elan
+3 Émigré | Emigre
+3 En masse
+3 En suite | Ensuite
+3 Enfant terrible
+3 Ennui
+3 Ensemble
+3 Entourage
+3 Esprit de corps
+3 Exposé | Expose
+3 Fait accompli
+3 Faux
+3 Fête | Fete
+3 Fin de siècle | Fin de siecle
+3 Finesse
+3 Flâneur | Flaneur
+3 Fleur-de-lis | Fleur de lys | Fleur-de-lys
+3 Foie gras
+3 Force majeure
+3 Forte
+3 Foyer
+3 Gaffe
+3 Gauche
+3 Gendarme
+3 Grand Prix
+3 Haute cuisine
+3 Hauteur
+3 Impasse
+3 Ingénue | Ingenue
+3 Julienne
+3 Macabre
+3 Malaise
+3 Mêlée | Melee
+3 Ménage à trois | Menage a trois
+3 Métier | Metier
+3 Milieu
+3 Mise en place
+3 Mise-en-scène | Mise en scene
+3 Motif
+3 Mot juste | Bon mot
+3 Négligée | Negligee
+3 Noblesse oblige
+3 Nom de plume | Nom de guerre
+3 Nonchalant | Nonchalance
+3 Nouvelle cuisine | Nouvelle vague
+3 Objet d'art
+3 Panache
+3 Par excellence
+3 Parkour
+3 Pastiche
+3 Penchant
+3 Pied-à-terre | Pied-a-terre
+3 Pince-nez
+3 Pirouette | Plié | Plie | Pas de deux | Arabesque | Jeté | Tutu
+3 Plat du jour
+3 Poste restante
+3 Potage
+3 Prêt-à-porter | Pret-a-porter
+3 Raconteur
+3 Raison d'être | Raison d'etre
+3 Rapport
+3 Rapprochement
+3 Ratatouille
+3 Repartee
+3 Repertoire
+3 Restaurateur
+3 Riposte
+3 Rouge
+3 Roulette
+3 Roux
+3 Sang-froid | Sangfroid
+3 Sans
+3 Savant
+3 Savoir-faire | Savoir faire
+3 Séance | Seance
+3 Soirée | Soiree
+3 Sobriquet
+3 Soupçon | Soupcon
+3 Suede
+3 Suite
+3 Surveillance
+3 Tableau
+3 Tour de force
+3 Triage
+3 Trompe-l'œil | Trompe l'oeil
+3 Venue
+3 Vignette
+3 Vol-au-vent
+3 Volte-face
+3 Voyeur
+3 Zest
+3 Abattoir
+3 Armoire
+3 Atelier
+3 Bidet
+3 Boudoir
+3 Chalet
+3 Chandelier
+3 Château | Chateau
+3 Cabaret
+3 Casserole
+3 Coupon
+3 Envelope
+3 Gateau | Gâteau
+3 Gratin
+3 Matinee | Matinée
+3 Meringue
+3 Nougat
+3 Petit four | Petits fours
+3 Praline
+3 Sorbet
+3 Toilet | Toilette
+3 Trousseau
+3 Bivouac
+3 Bon vivant
+3 Chagrin
+3 Charade
+3 Charlatan
+3 Chauvinism | Chauvinist
+3 Entente | Entente cordiale
+3 Guillotine
+6 Mayday | May day :: Coined in 1923 by a Croydon radio officer for pilots crossing the Channel. It is the French "m'aider", help me, spelled the way an Englishman hears it.
+5 Mortgage :: Old French for "dead pledge". The deal dies either when the debt is paid or when the payments stop.
+6 Curfew :: From the Old French "couvre-feu", cover the fire: the evening bell that told medieval townsfolk to bank their hearths so the town would not burn overnight.
+5 Dandelion :: From "dent de lion", lion's tooth, for its jagged leaves. The French themselves now call it pissenlit, which is rather less noble.
+5 Denim :: Serge "de Nîmes": cloth from the French town of Nîmes.
+5 Tennis :: Probably from "tenez!", meaning "take this!", which French players called out as they served.
+x Schadenfreude | Kindergarten | Zeitgeist | Pasta | Pizza | Siesta | Karaoke | Tsunami | Guru | Ciao | Fiesta | Paparazzi | Graffiti :: Borrowed, but not from French.
+x French | Bonjour | Merci | Oui | Fromage | Pamplemousse :: That is simply French. Name a word English speakers use as their own.

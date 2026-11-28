@@ -1,0 +1,192 @@
+id: chemistry-chemists
+text: Name a famous chemist.
+flavor: Half of them were burned, poisoned or blown up by their own work. They wrote it down first.
+rules: Anyone famous for their work in chemistry, from the alchemists onward. Surnames are fine.
+section: History of chemistry
+---
+1 Marie Curie | Curie | Madame Curie | Marie Sklodowska Curie | Maria Sklodowska | Marie Skłodowska-Curie
+1 Dmitri Mendeleev | Mendeleev | Mendeleyev | Dmitry Mendeleev | Mendelejev
+1 Alfred Nobel | Nobel
+1 Louis Pasteur | Pasteur
+1 Walter White | Heisenberg
+2 John Dalton | Dalton
+2 Antoine Lavoisier | Lavoisier | Antoine-Laurent Lavoisier
+2 Robert Boyle | Boyle
+2 Rosalind Franklin | Franklin
+2 Michael Faraday | Faraday
+2 Linus Pauling | Pauling
+2 Ernest Rutherford | Rutherford | Lord Rutherford
+2 Humphry Davy | Davy | Sir Humphry Davy | Humphrey Davy
+2 Amedeo Avogadro | Avogadro
+2 Robert Bunsen | Bunsen
+2 Niels Bohr | Bohr
+2 Joseph Priestley | Priestley
+2 Fritz Haber | Haber
+2 Margaret Thatcher | Thatcher
+2 Primo Levi | Levi
+3 Dorothy Hodgkin | Hodgkin | Dorothy Crowfoot Hodgkin
+3 Henry Cavendish | Cavendish
+3 Jöns Jacob Berzelius | Berzelius | Jons Jacob Berzelius | Jacob Berzelius
+3 Carl Wilhelm Scheele | Scheele | Carl Scheele
+3 Friedrich Wöhler | Wohler | Wöhler | Friedrich Wohler | Woehler
+3 August Kekulé | Kekule | Kekulé | Friedrich August Kekulé | August Kekule
+3 Justus von Liebig | Liebig | Justus Liebig
+3 Svante Arrhenius | Arrhenius
+3 Gilbert Lewis | G. N. Lewis | Gilbert N. Lewis | Lewis
+3 Jacques Charles | Charles
+3 Joseph Louis Gay-Lussac | Gay-Lussac | Gay Lussac
+3 Henri Le Chatelier | Le Chatelier | Le Châtelier
+3 Germain Hess | Hess
+3 Carl Bosch | Bosch
+3 Irène Joliot-Curie | Irene Joliot-Curie | Joliot-Curie | Irène Curie | Frédéric Joliot-Curie
+3 Glenn Seaborg | Seaborg | Glenn T. Seaborg
+3 Otto Hahn | Hahn
+3 Lise Meitner | Meitner
+3 Frederick Sanger | Sanger | Fred Sanger
+3 William Ramsay | Ramsay | Sir William Ramsay
+3 Harold Urey | Urey
+3 Stanley Miller | Miller
+3 Wallace Carothers | Carothers
+3 Leo Baekeland | Baekeland
+3 Percy Julian | Julian
+3 Alexander Fleming | Fleming
+3 Paracelsus
+3 Jabir ibn Hayyan | Geber | Jabir
+3 Nicolas Flamel | Flamel | Nicholas Flamel
+6 Hennig Brand | Brand | Henning Brand :: Boiled down thousands of litres of urine in 1669, looking for gold. He found a white glow in the dark instead, and became the first person to discover an element.
+3 Joseph Black | Black
+3 Jan Baptist van Helmont | Van Helmont | Helmont
+3 Johannes Diderik van der Waals | Van der Waals
+3 Jacobus van 't Hoff | Van 't Hoff | Van't Hoff | Vant Hoff
+3 Wilhelm Ostwald | Ostwald
+3 Walther Nernst | Nernst
+3 Søren Sørensen | Sorensen | Sørensen | Soren Sorensen
+3 Johannes Brønsted | Bronsted | Brønsted
+3 Thomas Lowry | Lowry | Martin Lowry
+3 Emil Fischer | Fischer | Hermann Emil Fischer
+3 Adolf von Baeyer | Baeyer
+3 William Henry Perkin | Perkin | William Perkin
+3 Charles Goodyear | Goodyear
+3 Stephanie Kwolek | Kwolek
+3 Roy Plunkett | Plunkett
+3 Albert Hofmann | Hofmann
+3 Alexander Shulgin | Shulgin | Sasha Shulgin
+3 Thomas Midgley | Midgley | Thomas Midgley Jr.
+3 Clair Patterson | Patterson
+3 Robert Burns Woodward | Woodward | R. B. Woodward
+3 Ahmed Zewail | Zewail
+3 Ada Yonath | Yonath
+3 Jennifer Doudna | Doudna
+3 Emmanuelle Charpentier | Charpentier
+3 Frances Arnold | Arnold
+3 Carolyn Bertozzi | Bertozzi
+3 John Goodenough | Goodenough
+3 Harry Kroto | Kroto | Sir Harry Kroto
+3 Kary Mullis | Mullis
+3 Mario Molina | Molina
+3 Paul Crutzen | Crutzen
+3 Roald Hoffmann | Hoffmann
+5 John Cornforth | Cornforth | Sir John Cornforth | Kappa Cornforth :: Sydney-born and profoundly deaf from his teens, he shared the 1975 Nobel Prize in Chemistry for working out how enzymes build molecules in three dimensions.
+3 Angela Merkel | Merkel
+3 Isaac Asimov | Asimov
+4 Stanislao Cannizzaro | Cannizzaro
+4 Julius Lothar Meyer | Lothar Meyer | Meyer
+4 John Newlands | Newlands
+4 Henry Moseley | Moseley
+4 J. J. Thomson | Thomson | JJ Thomson | Joseph John Thomson
+4 Frederick Soddy | Soddy
+4 Francis Aston | Aston
+4 Victor Grignard | Grignard
+4 Karl Ziegler | Ziegler | Giulio Natta | Natta
+4 Hermann Staudinger | Staudinger
+4 Otto Diels | Diels | Kurt Alder | Alder
+4 Georg Wittig | Wittig
+4 Friedrich Bergius | Bergius
+4 Claude Louis Berthollet | Berthollet
+4 Joseph Proust | Proust
+4 William Crookes | Crookes
+4 Zosimos of Panopolis | Zosimos
+4 Mary the Jewess | Maria the Jewess | Maria Prophetissa | Maria Hebraea
+6 Tapputi | Tapputi-Belatekallim :: A perfume-maker named on a Babylonian clay tablet from about 1200 BC. She distilled and filtered her scents, and is the first chemist whose name we know.
+4 Al-Razi | Rhazes | Razi
+4 Ge Hong
+4 Marie-Anne Paulze Lavoisier | Marie-Anne Lavoisier | Marie Lavoisier
+4 Ellen Swallow Richards | Ellen Richards
+4 Alice Ball | Ball
+4 Marie Maynard Daly | Daly
+4 Gertrude Elion | Elion
+4 Gerty Cori | Cori | Carl Cori
+4 Ida Noddack | Noddack
+4 Marguerite Perey | Perey
+4 Kathleen Lonsdale | Lonsdale
+4 Tu Youyou | Youyou
+4 Akira Yoshino | Yoshino | Stanley Whittingham | Whittingham
+4 Richard Smalley | Smalley | Robert Curl | Curl
+4 Fraser Stoddart | Stoddart
+4 Ben Feringa | Feringa
+4 Barry Sharpless | Sharpless | K. Barry Sharpless
+4 Morten Meldal | Meldal
+4 David Baker | Baker
+4 Moungi Bawendi | Bawendi | Louis Brus | Brus
+4 Benjamin List | List | David MacMillan | MacMillan
+4 Peter Agre | Agre
+4 Venki Ramakrishnan | Ramakrishnan
+4 Aaron Klug | Klug
+4 Max Perutz | Perutz | John Kendrew | Kendrew
+4 Peter Debye | Debye
+4 Lars Onsager | Onsager
+4 Ilya Prigogine | Prigogine
+4 Willard Libby | Libby
+4 Melvin Calvin | Calvin
+4 Hans Krebs | Krebs
+4 Friedrich Miescher | Miescher
+4 Erwin Chargaff | Chargaff
+4 Phoebus Levene | Levene
+4 Robert Robinson | Robinson | Sir Robert Robinson
+4 Derek Barton | Barton
+4 George Porter | Porter
+4 Cyril Hinshelwood | Hinshelwood
+4 William Lipscomb | Lipscomb
+4 Elias James Corey | E. J. Corey | Corey
+4 George Olah | Olah
+4 Richard Kuhn | Kuhn
+4 Paul Ehrlich | Ehrlich
+4 Charles Martin Hall | Hall | Paul Héroult | Heroult | Héroult
+4 Henry Bessemer | Bessemer
+4 Ernest Solvay | Solvay
+4 Nicolas Leblanc | Leblanc
+4 Ascanio Sobrero | Sobrero
+4 Christian Schönbein | Schonbein | Schönbein
+4 Johann Döbereiner | Dobereiner | Döbereiner
+4 Edward Frankland | Frankland
+4 Archibald Scott Couper | Couper
+4 Aleksandr Butlerov | Butlerov
+4 Vladimir Markovnikov | Markovnikov
+4 Thomas Graham | Graham
+4 William Henry | Henry
+4 François-Marie Raoult | Raoult
+4 Josiah Willard Gibbs | Gibbs | Willard Gibbs
+4 Johann Glauber | Glauber
+4 Georg Ernst Stahl | Stahl
+4 Johann Becher | Becher
+4 Andreas Libavius | Libavius
+4 Martin Klaproth | Klaproth | Martin Heinrich Klaproth
+4 Louis Nicolas Vauquelin | Vauquelin
+4 William Hyde Wollaston | Wollaston
+4 Smithson Tennant | Tennant
+4 Carl Gustaf Mosander | Mosander
+4 Paul-Émile Lecoq de Boisbaudran | Lecoq de Boisbaudran | Boisbaudran
+4 Clemens Winkler | Winkler
+4 Henri Moissan | Moissan
+4 Morris Travers | Travers
+4 Bernard Courtois | Courtois
+4 Antoine Balard | Balard
+4 James Smithson | Smithson
+4 Chaim Weizmann | Weizmann
+4 George Washington Carver | Carver
+4 Arthur Birch | Birch
+4 Ronald Nyholm | Nyholm | Sir Ronald Nyholm
+4 Alan Walsh | Walsh | Sir Alan Walsh
+4 Ezio Rizzardo | Rizzardo | David Solomon | Solomon
+x Albert Einstein | Einstein | Stephen Hawking | Hawking | Charles Darwin | Darwin | Galileo | Nikola Tesla | Tesla | Thomas Edison | Edison | Gregor Mendel | Mendel | Erwin Schrödinger | Schrodinger :: A great scientist, but not remembered for chemistry.
+x Chemist | Scientist | Pharmacist | Alchemist | Jesse Pinkman | Pinkman :: Name a chemist, by name. Jesse never did finish the course.

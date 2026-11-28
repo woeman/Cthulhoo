@@ -1,0 +1,1380 @@
+{
+ "id": "geography-seas",
+ "text": "Name a sea.",
+ "category": "geography",
+ "flavor": "Every sea has a floor. Not every floor is the bottom.",
+ "rules": "Anything named a sea counts, even the ones that are really lakes. Oceans, bays and gulfs don't.",
+ "answers": [
+  {
+   "answer": "Mediterranean Sea",
+   "aliases": [
+    "Mare Nostrum",
+    "Mediterranean",
+    "Med",
+    "Mare Internum",
+    "Great Sea",
+    "Middle Sea",
+    "Mediterranian Sea",
+    "Mediterranian",
+    "Mediteranean",
+    "Mittelmeer",
+    "Mar Mediterraneo"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Red Sea",
+   "aliases": [
+    "Erythraean Sea",
+    "Erythrean Sea",
+    "Mare Rubrum",
+    "Mare Erythraeum",
+    "Sea of Reeds",
+    "Yam Suph"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Black Sea",
+   "aliases": [
+    "Euxine",
+    "Euxine Sea",
+    "Pontus Euxinus",
+    "Pontic Sea",
+    "Karadeniz",
+    "Euxine Pontus"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Dead Sea",
+   "aliases": [
+    "Salt Sea",
+    "Sea of Lot",
+    "Lake Asphaltites",
+    "Sea of the Arabah",
+    "Yam ha-Melah",
+    "Bahr Lut"
+   ],
+   "tier": 1,
+   "lore": "Its shore is the lowest land on Earth, more than 400 m below sea level."
+  },
+  {
+   "answer": "Caribbean Sea",
+   "aliases": [
+    "Caribbean",
+    "Sea of the Antilles",
+    "Antilles Sea",
+    "Antillean Sea",
+    "Mar Caribe",
+    "Carribean Sea",
+    "Carribean",
+    "Caribean Sea"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "North Sea",
+   "aliases": [
+    "German Ocean",
+    "German Sea",
+    "Mare Germanicum",
+    "Nordsee",
+    "Noordzee",
+    "Vesterhavet"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Baltic Sea",
+   "aliases": [
+    "Baltic",
+    "Ostsee",
+    "Mare Balticum",
+    "Mare Suebicum",
+    "Varangian Sea",
+    "Itameri",
+    "Ostersjon"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Caspian Sea",
+   "aliases": [
+    "Hyrcanian Sea",
+    "Caspian",
+    "Khazar Sea",
+    "Sea of Khazar",
+    "Mazandaran Sea",
+    "Mare Caspium",
+    "Mare Hyrcanium"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Irish Sea",
+   "aliases": [
+    "Sea of Ireland",
+    "Mare Hibernicum"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Arabian Sea",
+   "aliases": [
+    "Arabian",
+    "Sea of Arabia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "South China Sea",
+   "aliases": [
+    "West Philippine Sea",
+    "Bien Dong",
+    "Nan Hai",
+    "South China"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Aegean Sea",
+   "aliases": [
+    "Aegean",
+    "Mare Aegaeum",
+    "Aegaean Sea",
+    "Egean Sea",
+    "Ege Denizi"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Adriatic Sea",
+   "aliases": [
+    "Adriatic",
+    "Mare Adriaticum",
+    "Mare Hadriaticum",
+    "Jadran"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sargasso Sea",
+   "aliases": [
+    "Sargasso"
+   ],
+   "tier": 2,
+   "openSecret": true,
+   "lore": "The only sea with no coastline, bounded by ocean currents alone. Eels cross the Atlantic to spawn there."
+  },
+  {
+   "answer": "Sea of Japan",
+   "aliases": [
+    "East Sea",
+    "Japan Sea",
+    "Nihonkai",
+    "Donghae",
+    "Japanese Sea"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Coral Sea",
+   "tier": 2
+  },
+  {
+   "answer": "Bering Sea",
+   "aliases": [
+    "Bering",
+    "Sea of Kamchatka",
+    "Kamchatka Sea"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tasman Sea",
+   "aliases": [
+    "Tasman",
+    "The Ditch"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ionian Sea",
+   "aliases": [
+    "Ionian",
+    "Mare Ionium"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tyrrhenian Sea",
+   "aliases": [
+    "Tyrrhenian",
+    "Mare Tyrrhenum",
+    "Mar Tirreno",
+    "Tyrrhenean Sea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Yellow Sea",
+   "aliases": [
+    "Yellow",
+    "Huang Hai",
+    "West Sea",
+    "Seohae"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "East China Sea",
+   "aliases": [
+    "Dong Hai",
+    "East China"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Philippine Sea",
+   "aliases": [
+    "Philippine",
+    "Sea of the Philippines"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Barents Sea",
+   "aliases": [
+    "Barents",
+    "Murman Sea",
+    "Murmansk Sea",
+    "Sea of Barents"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Norwegian Sea",
+   "aliases": [
+    "Norwegian",
+    "Sea of Norway"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Celtic Sea",
+   "aliases": [
+    "Celtic"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Labrador Sea",
+   "aliases": [
+    "Labrador",
+    "Sea of Labrador"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sea of Okhotsk",
+   "aliases": [
+    "Okhotsk Sea",
+    "Okhotsk",
+    "Sea of Lamut",
+    "Lamut Sea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Weddell Sea",
+   "aliases": [
+    "Weddell",
+    "King George IV Sea"
+   ],
+   "tier": 3,
+   "lore": "The ice there crushed Shackleton's ship Endurance in 1915. The wreck was found in 2022, 3,000 m down."
+  },
+  {
+   "answer": "Ross Sea",
+   "tier": 3
+  },
+  {
+   "answer": "Aral Sea",
+   "aliases": [
+    "Aral"
+   ],
+   "tier": 3,
+   "lore": "Once one of the four largest lakes in the world, now mostly dust after its rivers were diverted."
+  },
+  {
+   "answer": "Sea of Galilee",
+   "aliases": [
+    "Lake of Galilee",
+    "Kinneret",
+    "Lake Tiberias",
+    "Galilee Sea",
+    "Sea of Tiberias",
+    "Sea of Gennesaret",
+    "Lake Kinneret",
+    "Lake of Gennesaret",
+    "Lake Galilee",
+    "Sea of Chinnereth",
+    "Sea of Kinneret",
+    "Yam Kinneret",
+    "Galilee"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sea of Marmara",
+   "aliases": [
+    "Marmara Sea",
+    "Marmara",
+    "Propontis",
+    "Sea of Marmora",
+    "Marmora",
+    "Marmara Denizi"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Andaman Sea",
+   "aliases": [
+    "Andaman",
+    "Burma Sea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Java Sea",
+   "tier": 3
+  },
+  {
+   "answer": "Greenland Sea",
+   "aliases": [
+    "Greenland"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Beaufort Sea",
+   "aliases": [
+    "Beaufort"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ligurian Sea",
+   "aliases": [
+    "Ligurian",
+    "Mare Ligusticum",
+    "Mar Ligure"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Wadden Sea",
+   "aliases": [
+    "Wadden",
+    "Waddenzee",
+    "Wattenmeer",
+    "Vadehavet"
+   ],
+   "tier": 3,
+   "lore": "At low tide you can walk across its seabed from the mainland to the islands."
+  },
+  {
+   "answer": "Salton Sea",
+   "aliases": [
+    "Salton"
+   ],
+   "tier": 3,
+   "lore": "Created by accident in 1905, when the Colorado River burst through an irrigation canal."
+  },
+  {
+   "answer": "Sea of Azov",
+   "aliases": [
+    "Azov Sea",
+    "Azov",
+    "Maeotis",
+    "Lake Maeotis",
+    "Palus Maeotis",
+    "Maeotian Sea",
+    "Sea of Azof",
+    "Azof"
+   ],
+   "tier": 3,
+   "lore": "The shallowest sea in the world, nowhere much deeper than 14 m."
+  },
+  {
+   "answer": "White Sea",
+   "aliases": [
+    "Beloye More"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sea of Cortez",
+   "aliases": [
+    "Sea of Cortés",
+    "Gulf of California",
+    "Cortez Sea",
+    "Vermilion Sea",
+    "Mar Bermejo",
+    "Mar de Cortes"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Kara Sea",
+   "aliases": [
+    "Kara",
+    "Sea of Kara"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Laptev Sea",
+   "aliases": [
+    "Laptev",
+    "Nordenskiold Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "East Siberian Sea",
+   "tier": 4
+  },
+  {
+   "answer": "Chukchi Sea",
+   "aliases": [
+    "Chukchi",
+    "Chukchee Sea",
+    "Chukotsk Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Balearic Sea",
+   "aliases": [
+    "Balearic",
+    "Iberian Sea",
+    "Sea of the Balearics"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alboran Sea",
+   "aliases": [
+    "Alboran",
+    "Sea of Alboran"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Levantine Sea",
+   "aliases": [
+    "Levantine",
+    "Levant Sea",
+    "Sea of the Levant"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Banda Sea",
+   "tier": 4
+  },
+  {
+   "answer": "Arafura Sea",
+   "aliases": [
+    "Arafura"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Timor Sea",
+   "tier": 4
+  },
+  {
+   "answer": "Celebes Sea",
+   "aliases": [
+    "Celebes",
+    "Sulawesi Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sulu Sea",
+   "aliases": [
+    "Mindoro Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bismarck Sea",
+   "aliases": [
+    "Bismarck"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Solomon Sea",
+   "aliases": [
+    "Solomon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Scotia Sea",
+   "aliases": [
+    "Scotia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Amundsen Sea",
+   "aliases": [
+    "Amundsen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bellingshausen Sea",
+   "aliases": [
+    "Bellingshausen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of the Hebrides",
+   "aliases": [
+    "Hebrides Sea",
+    "Hebridean Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Irminger Sea",
+   "aliases": [
+    "Irminger"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lincoln Sea",
+   "aliases": [
+    "Lincoln"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Seto Inland Sea",
+   "aliases": [
+    "Inland Sea",
+    "Seto Naikai",
+    "Japanese Inland Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of Crete",
+   "aliases": [
+    "Crete Sea",
+    "Cretan Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Libyan Sea",
+   "aliases": [
+    "Libyan",
+    "Mare Libycum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thracian Sea",
+   "aliases": [
+    "Thracian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Laccadive Sea",
+   "aliases": [
+    "Laccadive",
+    "Lakshadweep Sea",
+    "Lakshadweep"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Molucca Sea",
+   "aliases": [
+    "Molucca",
+    "Maluku Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Flores Sea",
+   "aliases": [
+    "Flores"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bali Sea",
+   "tier": 4
+  },
+  {
+   "answer": "Salish Sea",
+   "aliases": [
+    "Salish"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bohai Sea",
+   "aliases": [
+    "Bohai"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bothnian Sea",
+   "aliases": [
+    "Sea of Bothnia",
+    "Bothnian"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of Serenity",
+   "aliases": [
+    "Mare Serenitatis",
+    "Serenity Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of Rains",
+   "aliases": [
+    "Mare Imbrium",
+    "Sea of Showers",
+    "Rains Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of Clouds",
+   "aliases": [
+    "Mare Nubium",
+    "Clouds Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sea of Tranquility",
+   "aliases": [
+    "Mare Tranquillitatis",
+    "Sea of Tranquillity",
+    "Tranquility Sea"
+   ],
+   "tier": 4,
+   "lore": "On the Moon. Apollo 11 landed there in 1969. It has never held a drop of water."
+  },
+  {
+   "answer": "Iceland Sea",
+   "aliases": [
+    "Icelandic Sea"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Zuiderzee",
+   "aliases": [
+    "Zuyder Zee"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tethys Sea",
+   "aliases": [
+    "Tethys",
+    "Tethys Ocean",
+    "Paleo-Tethys",
+    "Neo-Tethys"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Savu Sea",
+   "aliases": [
+    "Sawu Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Halmahera Sea",
+   "aliases": [
+    "Halmahera"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seram Sea",
+   "aliases": [
+    "Ceram Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sibuyan Sea",
+   "aliases": [
+    "Sibuyan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Visayan Sea",
+   "aliases": [
+    "Visayan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Camotes Sea",
+   "aliases": [
+    "Camotes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bohol Sea",
+   "aliases": [
+    "Mindanao Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pechora Sea",
+   "aliases": [
+    "Pechora"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wandel Sea",
+   "aliases": [
+    "Wandel",
+    "McKinley Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Åland",
+   "aliases": [
+    "Åland Sea",
+    "Alands hav"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Archipelago Sea",
+   "aliases": [
+    "Archipelago",
+    "Saaristomeri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Sardinia",
+   "aliases": [
+    "Sardinia Sea",
+    "Sardinian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Sicily",
+   "aliases": [
+    "Sicily Sea",
+    "Sicilian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Icarian Sea",
+   "aliases": [
+    "Icarian",
+    "Ikarian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Myrtoan Sea",
+   "aliases": [
+    "Myrtoan",
+    "Mirtoan Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cilician Sea",
+   "aliases": [
+    "Cilician"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cosmonauts Sea",
+   "aliases": [
+    "Cosmonauts",
+    "Cosmonaut Sea",
+    "Sea of Cosmonauts",
+    "Sea of the Cosmonauts"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cooperation Sea",
+   "aliases": [
+    "Cooperation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Davis Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Mawson Sea",
+   "aliases": [
+    "Mawson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dumont d'Urville Sea",
+   "aliases": [
+    "D'Urville Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Somov Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Lazarev Sea",
+   "aliases": [
+    "Lazarev"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Riiser-Larsen Sea",
+   "aliases": [
+    "Riiser-Larsen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "King Haakon VII Sea",
+   "aliases": [
+    "King Haakon Sea",
+    "Haakon VII Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Argentine Sea",
+   "aliases": [
+    "Argentine",
+    "Mar Argentino",
+    "Argentinian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Grau",
+   "aliases": [
+    "Mar de Grau",
+    "Grau Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Chiloé",
+   "aliases": [
+    "Chiloé Sea",
+    "Chiloé Inland Sea",
+    "Mar de Chiloé"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ariake Sea",
+   "aliases": [
+    "Ariake"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Fertility",
+   "aliases": [
+    "Mare Fecunditatis",
+    "Fertility Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Nectar",
+   "aliases": [
+    "Mare Nectaris",
+    "Nectar Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Vapours",
+   "aliases": [
+    "Mare Vaporum",
+    "Sea of Vapors",
+    "Vapours Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Cold",
+   "aliases": [
+    "Mare Frigoris",
+    "Cold Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Moisture",
+   "aliases": [
+    "Mare Humorum",
+    "Moisture Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Islands",
+   "aliases": [
+    "Mare Insularum",
+    "Islands Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Waves",
+   "aliases": [
+    "Mare Undarum",
+    "Waves Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Moscow",
+   "aliases": [
+    "Mare Moscoviense",
+    "Moscow Sea"
+   ],
+   "tier": 5,
+   "lore": "One of the few seas on the far side of the Moon, named by the Soviets who first photographed it."
+  },
+  {
+   "answer": "Samar Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Koro Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Somali Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Carpathian Sea",
+   "aliases": [
+    "Karpathian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Cognitum",
+   "aliases": [
+    "Known Sea",
+    "Sea that has become Known"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Orientale",
+   "aliases": [
+    "Eastern Sea",
+    "Orientale"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Australe",
+   "aliases": [
+    "Southern Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Marginis",
+   "aliases": [
+    "Sea of the Edge",
+    "Border Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Smythii",
+   "aliases": [
+    "Smyth's Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Ingenii",
+   "aliases": [
+    "Sea of Cleverness",
+    "Sea of Ingenuity"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ligeia Mare",
+   "aliases": [
+    "Ligeia Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Oman",
+   "aliases": [
+    "Oman Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Natuna Sea",
+   "aliases": [
+    "North Natuna Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cantabrian Sea",
+   "aliases": [
+    "Mar Cantabrico",
+    "Cantabric Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Belt Sea",
+   "aliases": [
+    "Baelthavet",
+    "Beltsee"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Inner Seas",
+   "aliases": [
+    "Inner Seas off the West Coast of Scotland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Queen Victoria Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Yatsushiro Sea",
+   "aliases": [
+    "Shiranui Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chilean Sea",
+   "aliases": [
+    "Mar de Chile",
+    "Mar Chileno"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mar Menor",
+   "aliases": [
+    "Minor Sea",
+    "Lesser Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mar Chiquita",
+   "aliases": [
+    "Little Sea",
+    "Mar Chiquita lake"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sivash",
+   "aliases": [
+    "Syvash",
+    "Rotten Sea",
+    "Putrid Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Paratethys",
+   "aliases": [
+    "Paratethys Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pannonian Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Western Interior Seaway",
+   "aliases": [
+    "Western Interior Sea",
+    "Niobrara Sea",
+    "Cretaceous Seaway"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Champlain Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Littorina Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Yoldia Sea",
+   "tier": 5
+  },
+  {
+   "answer": "Mare Anguis",
+   "aliases": [
+    "Serpent Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Humboldtianum",
+   "aliases": [
+    "Humboldt's Sea",
+    "Sea of Humboldt"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Spumans",
+   "aliases": [
+    "Foaming Sea",
+    "Sea of Foam"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Punga Mare",
+   "aliases": [
+    "Punga Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Acidalium",
+   "aliases": [
+    "Acidalian Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Sirenum",
+   "aliases": [
+    "Sea of the Sirens",
+    "Sirens Sea"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mare Cimmerium",
+   "tier": 5
+  },
+  {
+   "answer": "Sea of Crises",
+   "aliases": [
+    "Mare Crisium",
+    "Crises Sea"
+   ],
+   "tier": 6,
+   "lore": "On the Moon. In 1976 the Soviet probe Luna 24 scooped up its soil and flew it back to Earth."
+  },
+  {
+   "answer": "Kraken Mare",
+   "aliases": [
+    "Kraken Sea"
+   ],
+   "tier": 6,
+   "lore": "The largest sea on Saturn's moon Titan, made of liquid methane and ethane rather than water."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Atlantic Ocean",
+   "aliases": [
+    "Atlantic",
+    "Atlantic Sea"
+   ],
+   "reason": "That is an ocean. The deep is offended by the confusion."
+  },
+  {
+   "answer": "Pacific Ocean",
+   "aliases": [
+    "Pacific",
+    "Pacific Sea"
+   ],
+   "reason": "That is an ocean. The deep is offended by the confusion."
+  },
+  {
+   "answer": "Indian Ocean",
+   "reason": "That is an ocean, not a sea."
+  },
+  {
+   "answer": "Arctic Ocean",
+   "aliases": [
+    "Arctic Sea"
+   ],
+   "reason": "That is an ocean, the smallest one, but still not a sea."
+  },
+  {
+   "answer": "Southern Ocean",
+   "aliases": [
+    "Antarctic Ocean",
+    "Great Southern Ocean",
+    "Antarctic Sea"
+   ],
+   "reason": "That is an ocean, not a sea."
+  },
+  {
+   "answer": "Bay of Bengal",
+   "reason": "A bay, though it is larger than most seas."
+  },
+  {
+   "answer": "Bay of Biscay",
+   "reason": "A bay, not a sea."
+  },
+  {
+   "answer": "Gulf of Mexico",
+   "aliases": [
+    "Gulf of America"
+   ],
+   "reason": "A gulf, not a sea."
+  },
+  {
+   "answer": "Persian Gulf",
+   "aliases": [
+    "Arabian Gulf"
+   ],
+   "reason": "A gulf, not a sea."
+  },
+  {
+   "answer": "Hudson Bay",
+   "reason": "A bay, not a sea."
+  },
+  {
+   "answer": "English Channel",
+   "aliases": [
+    "La Manche"
+   ],
+   "reason": "A channel, not a sea."
+  },
+  {
+   "answer": "Ocean of Storms",
+   "aliases": [
+    "Oceanus Procellarum"
+   ],
+   "reason": "On the Moon, but it is an ocean, not a sea."
+  },
+  {
+   "answer": "Seven Seas",
+   "reason": "That is all of them at once. Pick one."
+  },
+  {
+   "answer": "Sea of Thieves",
+   "reason": "A video game, not a sea."
+  },
+  {
+   "answer": "South Sea",
+   "aliases": [
+    "South Seas"
+   ],
+   "reason": "An old name for the Pacific, which is an ocean."
+  },
+  {
+   "answer": "Sea of Monsters",
+   "reason": "Percy Jackson's sea. It is on no chart."
+  },
+  {
+   "answer": "Sea",
+   "aliases": [
+    "Seas",
+    "Ocean",
+    "Oceans",
+    "High seas",
+    "Open sea"
+   ],
+   "reason": "Name one. The deep knows dozens."
+  },
+  {
+   "answer": "Baffin Bay",
+   "reason": "A bay, not a sea."
+  },
+  {
+   "answer": "Gulf of Bothnia",
+   "reason": "A gulf, though its southern half is a sea in its own right."
+  }
+ ],
+ "decoys": [
+  "Lake Superior",
+  "Lake Victoria",
+  "Lake Baikal",
+  "Lake Titicaca",
+  "Great Salt Lake",
+  "Gulf of Aden",
+  "Gulf of Thailand",
+  "Gulf of Finland",
+  "Bay of Fundy",
+  "Strait of Gibraltar",
+  "Bosphorus",
+  "Red River",
+  "Black River",
+  "Coral Reef",
+  "Great Barrier Reef",
+  "Sea of Sand",
+  "Sea of Grass"
+ ],
+ "section": "World",
+ "source": "Copied from the daily question \"seas\" on 28 November 2026."
+}

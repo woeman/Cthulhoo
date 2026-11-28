@@ -1,0 +1,3111 @@
+{
+ "id": "anatomy-organs",
+ "text": "Name an organ of the human body.",
+ "category": "science",
+ "flavor": "They work for you in the dark, unseen and unthanked. The deep knows every one of them by name.",
+ "rules": "Any organ or gland of the human body, from the skin inwards, vestigial ones included, and their named parts. Tissues such as blood, and whole systems, don't count.",
+ "answers": [
+  {
+   "answer": "Heart",
+   "aliases": [
+    "Ticker"
+   ],
+   "tier": 1,
+   "lore": "Beats about 100,000 times a day: some two and a half billion times in a long life."
+  },
+  {
+   "answer": "Brain",
+   "tier": 1,
+   "lore": "About 2% of your weight, yet it burns around a fifth of your energy."
+  },
+  {
+   "answer": "Lungs",
+   "aliases": [
+    "Lung"
+   ],
+   "tier": 1,
+   "lore": "The left lung is smaller than the right, to leave room for the heart."
+  },
+  {
+   "answer": "Liver",
+   "tier": 1,
+   "lore": "The only internal organ that can regrow itself. Cut down to a third of its size, it grows back."
+  },
+  {
+   "answer": "Kidney",
+   "aliases": [
+    "Kidneys"
+   ],
+   "tier": 1,
+   "lore": "Each one holds about a million tiny filters, and most people can live well with just one."
+  },
+  {
+   "answer": "Stomach",
+   "aliases": [
+    "Tummy",
+    "Belly"
+   ],
+   "tier": 1,
+   "lore": "Its lining renews itself every few days, so that the stomach doesn't digest itself."
+  },
+  {
+   "answer": "Skin",
+   "tier": 1,
+   "openSecret": true,
+   "lore": "The body's largest organ, covering up to two square metres."
+  },
+  {
+   "answer": "Intestines",
+   "aliases": [
+    "Intestine",
+    "Gut",
+    "Bowel",
+    "Bowels",
+    "Entrails",
+    "Innards"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Pancreas",
+   "tier": 1
+  },
+  {
+   "answer": "Bladder",
+   "aliases": [
+    "Urinary bladder"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Spleen",
+   "tier": 1
+  },
+  {
+   "answer": "Appendix",
+   "aliases": [
+    "Vermiform appendix"
+   ],
+   "tier": 2,
+   "lore": "Long called useless, it may be a safe house for helpful gut bacteria."
+  },
+  {
+   "answer": "Gallbladder",
+   "tier": 2
+  },
+  {
+   "answer": "Small intestine",
+   "aliases": [
+    "Small bowel",
+    "Small intestines"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Large intestine",
+   "aliases": [
+    "Large bowel",
+    "Large intestines"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Eyes",
+   "aliases": [
+    "Eye",
+    "Eyeball",
+    "Eyeballs"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ears",
+   "aliases": [
+    "Ear"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tongue",
+   "tier": 2
+  },
+  {
+   "answer": "Nose",
+   "tier": 2
+  },
+  {
+   "answer": "Thyroid",
+   "aliases": [
+    "Thyroid gland"
+   ],
+   "tier": 2,
+   "lore": "Shaped like a butterfly, at the front of the neck."
+  },
+  {
+   "answer": "Oesophagus",
+   "aliases": [
+    "Esophagus",
+    "Gullet",
+    "Food pipe"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Colon",
+   "aliases": [
+    "Ascending colon",
+    "Transverse colon",
+    "Descending colon"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Uterus",
+   "aliases": [
+    "Womb"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ovaries",
+   "aliases": [
+    "Ovary"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Testes",
+   "aliases": [
+    "Testicles",
+    "Testicle",
+    "Testis",
+    "Balls"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Prostate",
+   "aliases": [
+    "Prostate gland"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Trachea",
+   "aliases": [
+    "Windpipe"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Larynx",
+   "aliases": [
+    "Voice box",
+    "Adam's apple"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Tonsils",
+   "aliases": [
+    "Tonsil",
+    "Palatine tonsils"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Penis",
+   "aliases": [
+    "Willy"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Vagina",
+   "tier": 2
+  },
+  {
+   "answer": "Spinal cord",
+   "tier": 2
+  },
+  {
+   "answer": "Diaphragm",
+   "tier": 2
+  },
+  {
+   "answer": "Teeth",
+   "aliases": [
+    "Tooth",
+    "Molars",
+    "Molar",
+    "Incisors",
+    "Incisor",
+    "Canine teeth",
+    "Premolars",
+    "Canines",
+    "Canine",
+    "Milk teeth",
+    "Baby teeth",
+    "Deciduous teeth",
+    "Primary teeth",
+    "Front teeth",
+    "Eye teeth"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Pituitary gland",
+   "aliases": [
+    "Pituitary",
+    "Hypophysis",
+    "Master gland",
+    "Anterior pituitary",
+    "Posterior pituitary",
+    "Adenohypophysis",
+    "Neurohypophysis"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Adrenal glands",
+   "aliases": [
+    "Adrenal gland",
+    "Adrenals",
+    "Adrenal",
+    "Suprarenal glands",
+    "Suprarenal gland"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Thymus",
+   "aliases": [
+    "Thymus gland"
+   ],
+   "tier": 3,
+   "lore": "Largest in childhood. After puberty it slowly shrinks and turns to fat."
+  },
+  {
+   "answer": "Pineal gland",
+   "aliases": [
+    "Pineal",
+    "Pineal body",
+    "Third eye",
+    "Epiphysis cerebri"
+   ],
+   "tier": 3,
+   "lore": "A gland the size of a grain of rice, deep in the brain. Descartes called it the principal seat of the soul."
+  },
+  {
+   "answer": "Hypothalamus",
+   "aliases": [
+    "Hypothalmus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lymph nodes",
+   "aliases": [
+    "Lymph node",
+    "Lymph glands",
+    "Lymph gland"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Bone marrow",
+   "aliases": [
+    "Marrow"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Duodenum",
+   "tier": 3
+  },
+  {
+   "answer": "Rectum",
+   "tier": 3
+  },
+  {
+   "answer": "Anus",
+   "aliases": [
+    "Anal canal"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pharynx",
+   "aliases": [
+    "Throat"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Epiglottis",
+   "tier": 3
+  },
+  {
+   "answer": "Uvula",
+   "tier": 3
+  },
+  {
+   "answer": "Bronchi",
+   "aliases": [
+    "Bronchus",
+    "Bronchial tubes",
+    "Bronchial tube"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Aorta",
+   "tier": 3
+  },
+  {
+   "answer": "Blood vessels",
+   "aliases": [
+    "Blood vessel",
+    "Vessels",
+    "Vessel"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Arteries",
+   "aliases": [
+    "Artery",
+    "Carotid artery",
+    "Carotid arteries",
+    "Carotid",
+    "Coronary artery",
+    "Coronary arteries",
+    "Femoral artery",
+    "Pulmonary artery",
+    "Radial artery",
+    "Brachial artery",
+    "Subclavian artery",
+    "Renal artery",
+    "Iliac artery",
+    "Arteriole",
+    "Arterioles"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Veins",
+   "aliases": [
+    "Vein",
+    "Jugular vein",
+    "Jugular",
+    "Femoral vein",
+    "Pulmonary vein",
+    "Saphenous vein",
+    "Renal vein",
+    "Hepatic vein",
+    "Venule",
+    "Venules"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Nerves",
+   "aliases": [
+    "Nerve",
+    "Ulnar nerve",
+    "Radial nerve",
+    "Median nerve",
+    "Femoral nerve",
+    "Phrenic nerve",
+    "Facial nerve",
+    "Trigeminal nerve",
+    "Olfactory nerve",
+    "Auditory nerve",
+    "Vestibulocochlear nerve",
+    "Cranial nerves",
+    "Spinal nerves",
+    "Funny bone"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Placenta",
+   "aliases": [
+    "Afterbirth"
+   ],
+   "tier": 3,
+   "lore": "A temporary organ, built in pregnancy partly from the baby's tissue and partly from the mother's, then delivered after the birth."
+  },
+  {
+   "answer": "Fallopian tubes",
+   "aliases": [
+    "Fallopian tube",
+    "Oviduct",
+    "Oviducts",
+    "Uterine tubes",
+    "Uterine tube",
+    "Fallopian"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cervix",
+   "tier": 3
+  },
+  {
+   "answer": "Vulva",
+   "tier": 3
+  },
+  {
+   "answer": "Clitoris",
+   "tier": 3
+  },
+  {
+   "answer": "Scrotum",
+   "tier": 3
+  },
+  {
+   "answer": "Ureters",
+   "aliases": [
+    "Ureter"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Urethra",
+   "tier": 3
+  },
+  {
+   "answer": "Salivary glands",
+   "aliases": [
+    "Salivary gland"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mouth",
+   "aliases": [
+    "Oral cavity"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lips",
+   "aliases": [
+    "Lip"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Taste buds",
+   "aliases": [
+    "Taste bud"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Breast",
+   "aliases": [
+    "Breasts",
+    "Mammary glands",
+    "Mammary gland",
+    "Boobs"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Retina",
+   "tier": 3
+  },
+  {
+   "answer": "Cornea",
+   "aliases": [
+    "Conea"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Iris",
+   "tier": 3
+  },
+  {
+   "answer": "Eardrum",
+   "aliases": [
+    "Tympanic membrane",
+    "Tympanum"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Cochlea",
+   "tier": 3,
+   "lore": "Named from the Greek for 'snail', for its coiled shape."
+  },
+  {
+   "answer": "Cerebellum",
+   "aliases": [
+    "Little brain"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Coccyx",
+   "aliases": [
+    "Tailbone"
+   ],
+   "tier": 3,
+   "lore": "All that is left of a tail. Every human embryo has a real one for a few weeks."
+  },
+  {
+   "answer": "Wisdom teeth",
+   "aliases": [
+    "Wisdom tooth",
+    "Third molars",
+    "Third molar"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Adenoids",
+   "aliases": [
+    "Adenoid",
+    "Pharyngeal tonsil"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Vocal cords",
+   "aliases": [
+    "Vocal cord",
+    "Vocal chords",
+    "Vocal chord",
+    "Vocal folds",
+    "Vocal fold"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gonads",
+   "aliases": [
+    "Sex glands",
+    "Goands"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Genitals",
+   "aliases": [
+    "Genitalia",
+    "Sex organs",
+    "Reproductive organs",
+    "Private parts"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Parathyroid glands",
+   "aliases": [
+    "Parathyroid gland",
+    "Parathyroid",
+    "Parathyroids"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mesentery",
+   "tier": 3,
+   "lore": "Folds that hold the gut in place, reclassified in 2016 as a single continuous organ."
+  },
+  {
+   "answer": "Jejunum",
+   "tier": 4
+  },
+  {
+   "answer": "Ileum",
+   "tier": 4
+  },
+  {
+   "answer": "Caecum",
+   "aliases": [
+    "Cecum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gums",
+   "aliases": [
+    "Gum",
+    "Gingiva"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Palate",
+   "aliases": [
+    "Roof of the mouth",
+    "Hard palate",
+    "Soft palate",
+    "Roof of mouth"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bile duct",
+   "aliases": [
+    "Bile ducts",
+    "Common bile duct",
+    "Hepatic duct",
+    "Common hepatic duct"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bronchioles",
+   "aliases": [
+    "Bronchiole"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alveoli",
+   "aliases": [
+    "Alveolus",
+    "Air sacs",
+    "Air sac"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sinuses",
+   "aliases": [
+    "Sinus",
+    "Paranasal sinuses"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pleura",
+   "aliases": [
+    "Pleurae",
+    "Pleural membrane",
+    "Pleural membranes"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Capillaries",
+   "aliases": [
+    "Capillary"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vena cava",
+   "aliases": [
+    "Venae cavae",
+    "Superior vena cava",
+    "Inferior vena cava"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ventricles",
+   "aliases": [
+    "Ventricle",
+    "Left ventricle",
+    "Right ventricle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Atria",
+   "aliases": [
+    "Atrium",
+    "Left atrium",
+    "Right atrium"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Heart valves",
+   "aliases": [
+    "Heart valve",
+    "Mitral valve",
+    "Aortic valve",
+    "Tricuspid valve",
+    "Pulmonary valve",
+    "Bicuspid valve"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pericardium",
+   "aliases": [
+    "Epicardium"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bone",
+   "aliases": [
+    "Bones",
+    "Femur",
+    "Thigh bone",
+    "Tibia",
+    "Shin bone",
+    "Fibula",
+    "Humerus",
+    "Radius",
+    "Ulna",
+    "Skull",
+    "Cranium",
+    "Rib",
+    "Ribs",
+    "Rib cage",
+    "Pelvis",
+    "Hip bone",
+    "Sternum",
+    "Breastbone",
+    "Clavicle",
+    "Collarbone",
+    "Scapula",
+    "Shoulder blade",
+    "Patella",
+    "Kneecap",
+    "Vertebra",
+    "Vertebrae",
+    "Spine",
+    "Backbone",
+    "Spinal column",
+    "Vertebral column",
+    "Mandible",
+    "Jaw",
+    "Jawbone",
+    "Maxilla",
+    "Sacrum",
+    "Phalanges",
+    "Metacarpals",
+    "Metatarsals",
+    "Carpals",
+    "Tarsals",
+    "Talus",
+    "Calcaneus",
+    "Heel bone",
+    "Cheekbone",
+    "Zygomatic bone",
+    "Scaphoid",
+    "Ilium",
+    "Ischium",
+    "Pubis",
+    "Sphenoid",
+    "Ethmoid",
+    "Occipital bone",
+    "Parietal bone",
+    "Temporal bone",
+    "Frontal bone",
+    "Nasal bone"
+   ],
+   "tier": 4,
+   "lore": "Strictly, every bone in the body is an organ in its own right, with blood vessels and nerves of its own."
+  },
+  {
+   "answer": "Muscle",
+   "aliases": [
+    "Muscles",
+    "Biceps",
+    "Bicep",
+    "Triceps",
+    "Tricep",
+    "Quadriceps",
+    "Quads",
+    "Hamstring",
+    "Hamstrings",
+    "Gluteus maximus",
+    "Glutes",
+    "Deltoid",
+    "Deltoids",
+    "Pectorals",
+    "Abdominals",
+    "Abs",
+    "Six-pack",
+    "Calf muscle",
+    "Gastrocnemius",
+    "Soleus",
+    "Trapezius",
+    "Latissimus dorsi",
+    "Lats",
+    "Sartorius",
+    "Masseter",
+    "Rectus abdominis",
+    "Obliques",
+    "Skeletal muscle",
+    "Psoas",
+    "Rotator cuff",
+    "Intercostal muscles",
+    "Sphincter",
+    "Sphincters",
+    "Anal sphincter",
+    "Oesophageal sphincter",
+    "Esophageal sphincter",
+    "Pyloric sphincter",
+    "Hip flexors",
+    "Adductors",
+    "Pelvic floor",
+    "Pelvic floor muscles",
+    "Sphincter of Oddi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lens",
+   "aliases": [
+    "Crystalline lens"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pupil",
+   "tier": 4
+  },
+  {
+   "answer": "Sclera",
+   "aliases": [
+    "White of the eye"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Optic nerve",
+   "tier": 4
+  },
+  {
+   "answer": "Eyelids",
+   "aliases": [
+    "Eyelid"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lacrimal glands",
+   "aliases": [
+    "Lacrimal gland",
+    "Tear gland",
+    "Tear glands"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tear ducts",
+   "aliases": [
+    "Tear duct",
+    "Lacrimal duct",
+    "Nasolacrimal duct"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Semicircular canals",
+   "tier": 4
+  },
+  {
+   "answer": "Ossicles",
+   "aliases": [
+    "Ossicle",
+    "Ear bones",
+    "Ear bone",
+    "Auditory ossicles",
+    "Stapes",
+    "Malleus",
+    "Incus",
+    "Stirrup",
+    "Hammer",
+    "Anvil"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Inner ear",
+   "tier": 4
+  },
+  {
+   "answer": "Middle ear",
+   "tier": 4
+  },
+  {
+   "answer": "Outer ear",
+   "aliases": [
+    "Pinna",
+    "Auricle",
+    "Ear flap",
+    "External ear"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eustachian tube",
+   "aliases": [
+    "Eustachian tubes",
+    "Auditory tube",
+    "Pharyngotympanic tube"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ear canal",
+   "aliases": [
+    "Auditory canal",
+    "External auditory canal"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Nostrils",
+   "aliases": [
+    "Nostril",
+    "Nares"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sweat glands",
+   "aliases": [
+    "Sweat gland",
+    "Eccrine glands",
+    "Eccrine gland",
+    "Apocrine glands",
+    "Apocrine gland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sebaceous glands",
+   "aliases": [
+    "Sebaceous gland",
+    "Oil glands",
+    "Oil gland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Epidermis",
+   "tier": 4
+  },
+  {
+   "answer": "Dermis",
+   "tier": 4
+  },
+  {
+   "answer": "Nipples",
+   "aliases": [
+    "Nipple",
+    "Areola"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Epididymis",
+   "tier": 4
+  },
+  {
+   "answer": "Vas deferens",
+   "aliases": [
+    "Ductus deferens",
+    "Sperm duct",
+    "Sperm ducts",
+    "Vasa deferentia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Seminal vesicles",
+   "aliases": [
+    "Seminal vesicle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Labia",
+   "aliases": [
+    "Labia majora",
+    "Labia minora"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Umbilical cord",
+   "tier": 4
+  },
+  {
+   "answer": "Cerebrum",
+   "aliases": [
+    "Telencephalon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Brainstem",
+   "tier": 4
+  },
+  {
+   "answer": "Medulla oblongata",
+   "aliases": [
+    "Medulla",
+    "Myelencephalon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Thalamus",
+   "aliases": [
+    "Thalami"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hippocampus",
+   "aliases": [
+    "Hippocampi",
+    "Hippocampal formation",
+    "Ammon's horn",
+    "Cornu ammonis",
+    "CA1",
+    "CA3"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Amygdala",
+   "aliases": [
+    "Amygdalae",
+    "Amygdaloid body",
+    "Amygdaloid nucleus"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cerebral cortex",
+   "aliases": [
+    "Cortex",
+    "Neocortex",
+    "Isocortex",
+    "Cerebral mantle"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Vagus nerve",
+   "tier": 4
+  },
+  {
+   "answer": "Sciatic nerve",
+   "tier": 4
+  },
+  {
+   "answer": "Parotid glands",
+   "aliases": [
+    "Parotid gland",
+    "Parotid"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peritoneum",
+   "aliases": [
+    "Perioneum",
+    "Peritneum"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Endometrium",
+   "aliases": [
+    "Womb lining",
+    "Lining of the womb"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Milk ducts",
+   "aliases": [
+    "Milk duct",
+    "Lactiferous ducts",
+    "Lactiferous duct"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Tendon",
+   "aliases": [
+    "Tendons",
+    "Achilles tendon"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ligaments",
+   "aliases": [
+    "Ligament",
+    "Cruciate ligament",
+    "Anterior cruciate ligament",
+    "ACL"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Joints",
+   "aliases": [
+    "Joint",
+    "Synovial joint",
+    "Synovial joints",
+    "Knee joint",
+    "Hip joint",
+    "Shoulder joint",
+    "Elbow joint",
+    "Jaw joint",
+    "Temporomandibular joint",
+    "TMJ"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cerebral hemispheres",
+   "aliases": [
+    "Cerebral hemisphere",
+    "Hemisphere",
+    "Hemispheres",
+    "Left hemisphere",
+    "Right hemisphere",
+    "Left brain",
+    "Right brain"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Grey matter",
+   "aliases": [
+    "Gray matter",
+    "Grey cells",
+    "Little grey cells"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hymen",
+   "tier": 4
+  },
+  {
+   "answer": "Amniotic sac",
+   "aliases": [
+    "Amnion",
+    "Amniotic membrane",
+    "Bag of waters"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Interstitium",
+   "tier": 5,
+   "lore": "In 2018 scientists proposed that the fluid-filled spaces between tissues form one organ, perhaps the body's largest."
+  },
+  {
+   "answer": "Plica semilunaris",
+   "aliases": [
+    "Semilunar fold",
+    "Third eyelid"
+   ],
+   "tier": 5,
+   "lore": "The pink fold in the inner corner of your eye, thought to be all that remains of a third eyelid."
+  },
+  {
+   "answer": "Palmaris longus",
+   "tier": 5,
+   "lore": "Roughly one person in seven is born without this wrist muscle. Surgeons borrow its tendon for repairs elsewhere."
+  },
+  {
+   "answer": "Auricular muscles",
+   "aliases": [
+    "Auricular muscle",
+    "Auricularis",
+    "Ear muscles",
+    "Ear-wiggling muscles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arrector pili",
+   "aliases": [
+    "Arrector pili muscles",
+    "Arrector pili muscle",
+    "Goosebump muscles"
+   ],
+   "tier": 5,
+   "lore": "Tiny muscles that raise each hair into a goosebump, from ancestors who fluffed up their fur."
+  },
+  {
+   "answer": "Plantaris",
+   "tier": 5
+  },
+  {
+   "answer": "Pyramidalis",
+   "tier": 5
+  },
+  {
+   "answer": "Darwin's tubercle",
+   "aliases": [
+    "Darwinian tubercle",
+    "Woolner's tip"
+   ],
+   "tier": 5,
+   "lore": "A small bump on the rim of some ears. Darwin took it for a trace of the pointed ears of our distant ancestors."
+  },
+  {
+   "answer": "Islets of Langerhans",
+   "aliases": [
+    "Pancreatic islets",
+    "Islets"
+   ],
+   "tier": 5,
+   "lore": "Clusters of insulin-making cells scattered through the pancreas, named after the student who found them in 1869."
+  },
+  {
+   "answer": "Peyer's patches",
+   "aliases": [
+    "Peyer's patch"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Brunner's glands",
+   "aliases": [
+    "Duodenal glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Submandibular glands",
+   "aliases": [
+    "Submandibular gland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sublingual glands",
+   "aliases": [
+    "Sublingual gland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Meibomian glands",
+   "aliases": [
+    "Meibomian gland",
+    "Tarsal glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceruminous glands",
+   "aliases": [
+    "Ceruminous gland",
+    "Earwax glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bulbourethral glands",
+   "aliases": [
+    "Bulbourethral gland",
+    "Cowper's glands",
+    "Cowper's gland"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bartholin's glands",
+   "aliases": [
+    "Bartholin's gland",
+    "Bartholin glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Skene's glands",
+   "aliases": [
+    "Skene's gland",
+    "Paraurethral glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Foreskin",
+   "aliases": [
+    "Prepuce"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hair follicles",
+   "aliases": [
+    "Hair follicle",
+    "Follicle",
+    "Follicles"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hypodermis",
+   "aliases": [
+    "Subcutaneous layer",
+    "Subcutis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Omentum",
+   "aliases": [
+    "Greater omentum",
+    "Lesser omentum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pylorus",
+   "tier": 5
+  },
+  {
+   "answer": "Villi",
+   "aliases": [
+    "Villus",
+    "Intestinal villi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nephrons",
+   "aliases": [
+    "Nephron"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Glomerulus",
+   "aliases": [
+    "Glomeruli"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Loop of Henle",
+   "tier": 5
+  },
+  {
+   "answer": "Bowman's capsule",
+   "aliases": [
+    "Glomerular capsule"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Renal pelvis",
+   "tier": 5
+  },
+  {
+   "answer": "Lymphatic vessels",
+   "aliases": [
+    "Lymphatic vessel",
+    "Lymph vessels",
+    "Lymph vessel",
+    "Lymphatics",
+    "Thoracic duct"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sinoatrial node",
+   "aliases": [
+    "SA node",
+    "Sinus node",
+    "Natural pacemaker"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Atrioventricular node",
+   "aliases": [
+    "AV node"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Choroid",
+   "tier": 5
+  },
+  {
+   "answer": "Ciliary body",
+   "aliases": [
+    "Ciliary muscle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Macula",
+   "aliases": [
+    "Macula lutea",
+    "Yellow spot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fovea",
+   "aliases": [
+    "Fovea centralis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Conjunctiva",
+   "tier": 5
+  },
+  {
+   "answer": "Vitreous humour",
+   "aliases": [
+    "Vitreous humor",
+    "Vitreous body",
+    "Vitreous"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Optic chiasm",
+   "aliases": [
+    "Optic chiasma"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Earlobe",
+   "aliases": [
+    "Earlobes"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vestibular system",
+   "aliases": [
+    "Vestibule",
+    "Labyrinth",
+    "Inner ear labyrinth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nasal cavity",
+   "aliases": [
+    "Nasal passages",
+    "Nasal passage"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nasal septum",
+   "aliases": [
+    "Septum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Turbinates",
+   "aliases": [
+    "Turbinate",
+    "Nasal conchae",
+    "Nasal concha"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Olfactory bulb",
+   "aliases": [
+    "Olfactory bulbs"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pons",
+   "aliases": [
+    "Pons Varolii"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Midbrain",
+   "aliases": [
+    "Mesencephalon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Corpus callosum",
+   "tier": 5
+  },
+  {
+   "answer": "Frontal lobe",
+   "aliases": [
+    "Frontal lobes",
+    "Frontal cortex",
+    "Frontal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Temporal lobe",
+   "aliases": [
+    "Temporal lobes",
+    "Temporal cortex",
+    "Temporal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Parietal lobe",
+   "aliases": [
+    "Parietal lobes",
+    "Parietal cortex",
+    "Parietal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Occipital lobe",
+   "aliases": [
+    "Occipital lobes",
+    "Occipital cortex",
+    "Occipital"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Prefrontal cortex",
+   "aliases": [
+    "PFC",
+    "Dorsolateral prefrontal cortex",
+    "Ventromedial prefrontal cortex",
+    "vmPFC",
+    "DLPFC"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Basal ganglia",
+   "aliases": [
+    "Basal nuclei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Limbic system",
+   "aliases": [
+    "Limbic lobe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Meninges",
+   "aliases": [
+    "Dura mater",
+    "Arachnoid mater",
+    "Pia mater",
+    "Meninx",
+    "Brain membranes",
+    "Dura",
+    "Pia",
+    "Arachnoid",
+    "Arachnoid membrane"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Choroid plexus",
+   "tier": 5
+  },
+  {
+   "answer": "Ganglia",
+   "aliases": [
+    "Ganglion"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Myocardium",
+   "aliases": [
+    "Heart muscle",
+    "Cardiac muscle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Interventricular septum",
+   "aliases": [
+    "Heart septum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sigmoid colon",
+   "aliases": [
+    "Sigmoid"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hepatic portal vein",
+   "aliases": [
+    "Portal vein"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cystic duct",
+   "tier": 5
+  },
+  {
+   "answer": "Pancreatic duct",
+   "tier": 5
+  },
+  {
+   "answer": "Prostate utricle",
+   "tier": 5
+  },
+  {
+   "answer": "Glans",
+   "aliases": [
+    "Glans penis",
+    "Glans clitoridis",
+    "Head of the penis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "White matter",
+   "tier": 5
+  },
+  {
+   "answer": "Broca's area",
+   "aliases": [
+    "Broca area",
+    "Broca's",
+    "Broca's region"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wernicke's area",
+   "aliases": [
+    "Wernicke area",
+    "Wernicke's"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Motor cortex",
+   "aliases": [
+    "Primary motor cortex",
+    "Motor strip"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Visual cortex",
+   "aliases": [
+    "Primary visual cortex",
+    "Striate cortex",
+    "V1"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Brain ventricles",
+   "aliases": [
+    "Cerebral ventricles",
+    "Lateral ventricles",
+    "Lateral ventricle",
+    "Third ventricle",
+    "Fourth ventricle",
+    "Ventricles of the brain",
+    "Ventricular system",
+    "3rd ventricle",
+    "4th ventricle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Insula",
+   "aliases": [
+    "Insular cortex",
+    "Island of Reil",
+    "Insular lobe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Substantia nigra",
+   "aliases": [
+    "Substantia nigra pars compacta",
+    "Pars compacta",
+    "Pars reticulata"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Forebrain",
+   "aliases": [
+    "Prosencephalon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hindbrain",
+   "aliases": [
+    "Rhombencephalon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Optic disc",
+   "aliases": [
+    "Optic disk",
+    "Blind spot",
+    "Optic nerve head"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Adrenal cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Adrenal medulla",
+   "tier": 5
+  },
+  {
+   "answer": "Renal cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Renal medulla",
+   "tier": 5
+  },
+  {
+   "answer": "Corpus luteum",
+   "tier": 5
+  },
+  {
+   "answer": "Ovarian follicles",
+   "aliases": [
+    "Ovarian follicle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Myometrium",
+   "tier": 5
+  },
+  {
+   "answer": "Seminiferous tubules",
+   "aliases": [
+    "Seminiferous tubule"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Spermatic cord",
+   "tier": 5
+  },
+  {
+   "answer": "Frenulum",
+   "aliases": [
+    "Frenum",
+    "Lingual frenulum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Endocardium",
+   "tier": 5
+  },
+  {
+   "answer": "Bundle of His",
+   "aliases": [
+    "His bundle",
+    "Atrioventricular bundle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Purkinje fibres",
+   "aliases": [
+    "Purkinje fibers",
+    "Purkinje fibre",
+    "Purkinje fiber"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chordae tendineae",
+   "aliases": [
+    "Heart strings"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gastric glands",
+   "aliases": [
+    "Gastric gland",
+    "Stomach glands"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tooth enamel",
+   "aliases": [
+    "Enamel"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dentine",
+   "aliases": [
+    "Dentin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dental pulp",
+   "aliases": [
+    "Pulp",
+    "Tooth pulp"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ileocaecal valve",
+   "aliases": [
+    "Ileocecal valve"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ampulla of Vater",
+   "aliases": [
+    "Hepatopancreatic ampulla"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Fornix",
+   "tier": 5
+  },
+  {
+   "answer": "Striatum",
+   "aliases": [
+    "Corpus striatum",
+    "Dorsal striatum",
+    "Ventral striatum",
+    "Neostriatum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caudate nucleus",
+   "aliases": [
+    "Caudate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Putamen",
+   "tier": 5
+  },
+  {
+   "answer": "Globus pallidus",
+   "aliases": [
+    "Pallidum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nucleus accumbens",
+   "aliases": [
+    "Accumbens",
+    "Pleasure centre",
+    "Pleasure center",
+    "Reward centre",
+    "Reward center"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Diencephalon",
+   "aliases": [
+    "Interbrain"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mammillary bodies",
+   "aliases": [
+    "Mammillary body",
+    "Mamillary bodies",
+    "Mamillary body"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cingulate gyrus",
+   "aliases": [
+    "Cingulate cortex",
+    "Anterior cingulate cortex",
+    "Anterior cingulate",
+    "Posterior cingulate cortex",
+    "Cingulum",
+    "Cingulate"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gyri",
+   "aliases": [
+    "Gyrus",
+    "Convolutions"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sulci",
+   "aliases": [
+    "Sulcus",
+    "Fissures",
+    "Fissure"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central sulcus",
+   "aliases": [
+    "Fissure of Rolando",
+    "Rolandic fissure",
+    "Central fissure"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lateral sulcus",
+   "aliases": [
+    "Sylvian fissure",
+    "Lateral fissure",
+    "Fissure of Sylvius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Somatosensory cortex",
+   "aliases": [
+    "Primary somatosensory cortex",
+    "Sensory cortex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Auditory cortex",
+   "aliases": [
+    "Primary auditory cortex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Premotor cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Cerebral aqueduct",
+   "aliases": [
+    "Aqueduct of Sylvius",
+    "Sylvian aqueduct",
+    "Mesencephalic aqueduct"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Reticular formation",
+   "aliases": [
+    "Reticular activating system"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vermis",
+   "aliases": [
+    "Cerebellar vermis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Longitudinal fissure",
+   "aliases": [
+    "Great longitudinal fissure",
+    "Interhemispheric fissure"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Suprachiasmatic nucleus",
+   "aliases": [
+    "SCN",
+    "Suprachiasmatic nuclei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Orbitofrontal cortex",
+   "aliases": [
+    "OFC"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Entorhinal cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Dentate gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Precentral gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Postcentral gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Brodmann areas",
+   "aliases": [
+    "Brodmann area"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Epithalamus",
+   "tier": 5
+  },
+  {
+   "answer": "Subthalamus",
+   "tier": 5
+  },
+  {
+   "answer": "Subthalamic nucleus",
+   "aliases": [
+    "Subthalamic nuclei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tectum",
+   "aliases": [
+    "Corpora quadrigemina",
+    "Quadrigeminal plate",
+    "Tectal plate",
+    "Colliculi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tegmentum",
+   "tier": 5
+  },
+  {
+   "answer": "Superior colliculus",
+   "aliases": [
+    "Superior colliculi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Inferior colliculus",
+   "aliases": [
+    "Inferior colliculi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cerebral peduncles",
+   "aliases": [
+    "Cerebral peduncle",
+    "Crus cerebri"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cerebellar peduncles",
+   "aliases": [
+    "Cerebellar peduncle"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Red nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Ventral tegmental area",
+   "aliases": [
+    "VTA"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Periaqueductal grey",
+   "aliases": [
+    "Periaqueductal gray",
+    "Central grey",
+    "Central gray"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Raphe nuclei",
+   "aliases": [
+    "Raphe nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Olive",
+   "aliases": [
+    "Olivary body",
+    "Olivary nucleus",
+    "Olives"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Medullary pyramids",
+   "aliases": [
+    "Pyramids",
+    "Pyramids of the medulla"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Flocculus",
+   "tier": 5
+  },
+  {
+   "answer": "Cerebellar hemispheres",
+   "aliases": [
+    "Cerebellar hemisphere"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dentate nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Deep cerebellar nuclei",
+   "aliases": [
+    "Cerebellar nuclei",
+    "Fastigial nucleus",
+    "Interposed nucleus",
+    "Emboliform nucleus",
+    "Globose nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lateral geniculate nucleus",
+   "aliases": [
+    "LGN",
+    "Lateral geniculate body"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Medial geniculate nucleus",
+   "aliases": [
+    "MGN",
+    "Medial geniculate body"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pulvinar",
+   "tier": 5
+  },
+  {
+   "answer": "Habenula",
+   "tier": 5
+  },
+  {
+   "answer": "Paraventricular nucleus",
+   "aliases": [
+    "Paraventricular nuclei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Supraoptic nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Arcuate nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Preoptic area",
+   "tier": 5
+  },
+  {
+   "answer": "Infundibulum",
+   "aliases": [
+    "Pituitary stalk"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Median eminence",
+   "tier": 5
+  },
+  {
+   "answer": "Optic tract",
+   "tier": 5
+  },
+  {
+   "answer": "Olfactory tract",
+   "tier": 5
+  },
+  {
+   "answer": "Septum pellucidum",
+   "tier": 5
+  },
+  {
+   "answer": "Septal nuclei",
+   "aliases": [
+    "Septal area"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anterior commissure",
+   "tier": 5
+  },
+  {
+   "answer": "Posterior commissure",
+   "tier": 5
+  },
+  {
+   "answer": "Internal capsule",
+   "tier": 5
+  },
+  {
+   "answer": "Corona radiata",
+   "tier": 5
+  },
+  {
+   "answer": "Parahippocampal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Fusiform gyrus",
+   "aliases": [
+    "Fusiform face area"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Angular gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Supramarginal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Heschl's gyrus",
+   "aliases": [
+    "Transverse temporal gyrus",
+    "Heschl gyrus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cuneus",
+   "tier": 5
+  },
+  {
+   "answer": "Precuneus",
+   "tier": 5
+  },
+  {
+   "answer": "Lingual gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Supplementary motor area",
+   "aliases": [
+    "SMA"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Frontal eye fields",
+   "aliases": [
+    "Frontal eye field"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Calcarine sulcus",
+   "aliases": [
+    "Calcarine fissure"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Parieto-occipital sulcus",
+   "tier": 5
+  },
+  {
+   "answer": "Interventricular foramen",
+   "aliases": [
+    "Foramen of Monro",
+    "Interventricular foramina"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Subarachnoid space",
+   "tier": 5
+  },
+  {
+   "answer": "Falx cerebri",
+   "tier": 5
+  },
+  {
+   "answer": "Tentorium cerebelli",
+   "aliases": [
+    "Tentorium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Circle of Willis",
+   "aliases": [
+    "Cerebral arterial circle",
+    "Circulus arteriosus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Blood-brain barrier",
+   "aliases": [
+    "BBB"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lentiform nucleus",
+   "aliases": [
+    "Lenticular nucleus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Uncus",
+   "tier": 5
+  },
+  {
+   "answer": "Metencephalon",
+   "tier": 5
+  },
+  {
+   "answer": "Perirhinal cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Corticospinal tract",
+   "aliases": [
+    "Pyramidal tract"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Mesolimbic pathway",
+   "aliases": [
+    "Reward pathway"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arcuate fasciculus",
+   "tier": 5
+  },
+  {
+   "answer": "Area postrema",
+   "tier": 5
+  },
+  {
+   "answer": "Arbor vitae",
+   "tier": 5
+  },
+  {
+   "answer": "Foramen of Magendie",
+   "aliases": [
+    "Median aperture"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Foramina of Luschka",
+   "aliases": [
+    "Foramen of Luschka",
+    "Lateral apertures"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Central canal",
+   "tier": 5
+  },
+  {
+   "answer": "Arachnoid granulations",
+   "aliases": [
+    "Arachnoid villi",
+    "Pacchionian granulations"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dural venous sinuses",
+   "aliases": [
+    "Dural sinuses",
+    "Superior sagittal sinus",
+    "Venous sinuses"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Glymphatic system",
+   "tier": 5
+  },
+  {
+   "answer": "Flocculonodular lobe",
+   "tier": 5
+  },
+  {
+   "answer": "Nucleus of the solitary tract",
+   "aliases": [
+    "Solitary nucleus",
+    "Nucleus tractus solitarius",
+    "NTS"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nucleus ambiguus",
+   "tier": 5
+  },
+  {
+   "answer": "Vestibular nuclei",
+   "tier": 5
+  },
+  {
+   "answer": "Cochlear nuclei",
+   "tier": 5
+  },
+  {
+   "answer": "Trigeminal nuclei",
+   "tier": 5
+  },
+  {
+   "answer": "Hypoglossal nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Facial nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Edinger-Westphal nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Oculomotor nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Abducens nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Nucleus basalis",
+   "aliases": [
+    "Nucleus basalis of Meynert",
+    "Basal nucleus of Meynert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ventromedial nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Dorsomedial nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Lateral hypothalamus",
+   "tier": 5
+  },
+  {
+   "answer": "Tuber cinereum",
+   "tier": 5
+  },
+  {
+   "answer": "Bed nucleus of the stria terminalis",
+   "aliases": [
+    "BNST"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stria terminalis",
+   "tier": 5
+  },
+  {
+   "answer": "Stria medullaris",
+   "tier": 5
+  },
+  {
+   "answer": "Mammillothalamic tract",
+   "tier": 5
+  },
+  {
+   "answer": "Indusium griseum",
+   "tier": 5
+  },
+  {
+   "answer": "External capsule",
+   "tier": 5
+  },
+  {
+   "answer": "Extreme capsule",
+   "tier": 5
+  },
+  {
+   "answer": "Superior frontal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Middle frontal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Inferior frontal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Superior temporal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Middle temporal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Inferior temporal gyrus",
+   "tier": 5
+  },
+  {
+   "answer": "Superior parietal lobule",
+   "tier": 5
+  },
+  {
+   "answer": "Inferior parietal lobule",
+   "tier": 5
+  },
+  {
+   "answer": "Gyrus rectus",
+   "tier": 5
+  },
+  {
+   "answer": "Paracentral lobule",
+   "tier": 5
+  },
+  {
+   "answer": "Retrosplenial cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Piriform cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Medial forebrain bundle",
+   "tier": 5
+  },
+  {
+   "answer": "Uncinate fasciculus",
+   "tier": 5
+  },
+  {
+   "answer": "Superior longitudinal fasciculus",
+   "tier": 5
+  },
+  {
+   "answer": "Cerebellar tonsils",
+   "tier": 5
+  },
+  {
+   "answer": "Nodulus",
+   "tier": 5
+  },
+  {
+   "answer": "Hippocampal commissure",
+   "tier": 5
+  },
+  {
+   "answer": "Lamina terminalis",
+   "tier": 5
+  },
+  {
+   "answer": "Interthalamic adhesion",
+   "aliases": [
+    "Massa intermedia",
+    "Intermediate mass"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pretectum",
+   "tier": 5
+  },
+  {
+   "answer": "Substantia innominata",
+   "tier": 5
+  },
+  {
+   "answer": "Ventral pallidum",
+   "tier": 5
+  },
+  {
+   "answer": "Thalamic reticular nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Nigrostriatal pathway",
+   "tier": 5
+  },
+  {
+   "answer": "Inferior olivary nucleus",
+   "tier": 5
+  },
+  {
+   "answer": "Pontine nuclei",
+   "tier": 5
+  },
+  {
+   "answer": "Mesocortical pathway",
+   "tier": 5
+  },
+  {
+   "answer": "Tuberoinfundibular pathway",
+   "tier": 5
+  },
+  {
+   "answer": "Cerebral arteries",
+   "aliases": [
+    "Middle cerebral artery",
+    "Anterior cerebral artery",
+    "Posterior cerebral artery",
+    "Basilar artery"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Purkinje layer",
+   "tier": 5
+  },
+  {
+   "answer": "Granular layer",
+   "tier": 5
+  },
+  {
+   "answer": "Molecular layer",
+   "tier": 5
+  },
+  {
+   "answer": "Archicortex",
+   "tier": 5
+  },
+  {
+   "answer": "Paleocortex",
+   "tier": 5
+  },
+  {
+   "answer": "Allocortex",
+   "tier": 5
+  },
+  {
+   "answer": "Subiculum",
+   "tier": 5
+  },
+  {
+   "answer": "Hippocampal sulcus",
+   "tier": 5
+  },
+  {
+   "answer": "Operculum",
+   "tier": 5
+  },
+  {
+   "answer": "Planum temporale",
+   "tier": 5
+  },
+  {
+   "answer": "Claustrum",
+   "tier": 5
+  },
+  {
+   "answer": "Locus coeruleus",
+   "aliases": [
+    "Locus ceruleus",
+    "Locus caeruleus",
+    "Blue spot"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Zona incerta",
+   "tier": 5
+  },
+  {
+   "answer": "Rhinencephalon",
+   "aliases": [
+    "Smell brain",
+    "Olfactory brain"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Basal forebrain",
+   "tier": 5
+  },
+  {
+   "answer": "Cerebellar cortex",
+   "tier": 5
+  },
+  {
+   "answer": "Pyramidal decussation",
+   "aliases": [
+    "Decussation of the pyramids",
+    "Motor decussation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Area MT",
+   "aliases": [
+    "V5",
+    "MT",
+    "Middle temporal area"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Organ of Corti",
+   "aliases": [
+    "Spiral organ"
+   ],
+   "tier": 6,
+   "lore": "The true organ of hearing, a ribbon of hair cells coiled inside the cochlea. Alfonso Corti described it in 1851."
+  },
+  {
+   "answer": "Vomeronasal organ",
+   "aliases": [
+    "Jacobson's organ",
+    "Organ of Jacobson",
+    "VNO"
+   ],
+   "tier": 6,
+   "lore": "Snakes taste the air with theirs. In humans it is a tiny pit inside the nose, probably useless."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Nervous system",
+   "aliases": [
+    "Digestive system",
+    "Circulatory system",
+    "Cardiovascular system",
+    "Respiratory system",
+    "Immune system",
+    "Lymphatic system",
+    "Endocrine system",
+    "Reproductive system",
+    "Urinary system",
+    "Excretory system",
+    "Muscular system",
+    "Skeletal system",
+    "Integumentary system",
+    "Central nervous system",
+    "Peripheral nervous system",
+    "Organ system",
+    "Digestive tract",
+    "Gastrointestinal tract",
+    "GI tract",
+    "Alimentary canal",
+    "Urinary tract",
+    "Respiratory tract",
+    "Airways"
+   ],
+   "reason": "A whole system of organs. Name one of them."
+  },
+  {
+   "answer": "Skeleton",
+   "reason": "A whole system of parts, not a single organ."
+  },
+  {
+   "answer": "Blood",
+   "aliases": [
+    "Plasma",
+    "Blood cells"
+   ],
+   "reason": "A tissue, and a liquid one. Not an organ."
+  },
+  {
+   "answer": "Lymph",
+   "reason": "A fluid. The glands it flows through would count."
+  },
+  {
+   "answer": "Fat",
+   "aliases": [
+    "Adipose tissue",
+    "Body fat",
+    "Blubber"
+   ],
+   "reason": "A tissue, though it makes hormones like a gland."
+  },
+  {
+   "answer": "Cartilage",
+   "aliases": [
+    "Gristle"
+   ],
+   "reason": "A tissue, found in many organs, not one itself."
+  },
+  {
+   "answer": "Cell",
+   "aliases": [
+    "Neuron",
+    "Red blood cell",
+    "White blood cell",
+    "Platelet",
+    "Stem cell",
+    "Sperm",
+    "Egg",
+    "Ovum"
+   ],
+   "reason": "A single cell, far too small to be an organ."
+  },
+  {
+   "answer": "Hair",
+   "aliases": [
+    "Eyelash",
+    "Eyebrow",
+    "Beard",
+    "Moustache",
+    "Mustache"
+   ],
+   "reason": "Dead keratin, grown by the skin. Not an organ."
+  },
+  {
+   "answer": "Nails",
+   "aliases": [
+    "Fingernail",
+    "Toenail"
+   ],
+   "reason": "Hard keratin, grown by the skin. Not an organ."
+  },
+  {
+   "answer": "Bile",
+   "aliases": [
+    "Saliva",
+    "Urine",
+    "Mucus",
+    "Snot",
+    "Phlegm",
+    "Tears",
+    "Sweat",
+    "Earwax",
+    "Semen",
+    "Cerebrospinal fluid",
+    "Aqueous humour",
+    "Aqueous humor",
+    "Stomach acid"
+   ],
+   "reason": "A fluid the body makes, not an organ."
+  },
+  {
+   "answer": "Hand",
+   "aliases": [
+    "Arm",
+    "Leg",
+    "Finger",
+    "Toe",
+    "Thumb",
+    "Neck",
+    "Shoulder",
+    "Elbow",
+    "Knee",
+    "Wrist",
+    "Ankle",
+    "Hip",
+    "Back",
+    "Torso",
+    "Thigh",
+    "Calf",
+    "Cheek",
+    "Chin",
+    "Forehead",
+    "Face",
+    "Bottom",
+    "Buttocks",
+    "Bum",
+    "Waist",
+    "Armpit",
+    "Heel",
+    "Palm",
+    "Body",
+    "Arse"
+   ],
+   "reason": "A body part, but not an organ."
+  },
+  {
+   "answer": "Abdomen",
+   "aliases": [
+    "Chest",
+    "Groin",
+    "Pelvic cavity"
+   ],
+   "reason": "A region of the body, home to many organs. Name one."
+  },
+  {
+   "answer": "Belly button",
+   "aliases": [
+    "Navel",
+    "Umbilicus"
+   ],
+   "reason": "A scar, healed over in your first weeks of life. Not an organ."
+  },
+  {
+   "answer": "Gland",
+   "aliases": [
+    "Glands",
+    "Endocrine gland",
+    "Endocrine glands",
+    "Exocrine gland",
+    "Exocrine glands"
+   ],
+   "reason": "The body has dozens of glands. Name one."
+  },
+  {
+   "answer": "Microbiome",
+   "aliases": [
+    "Gut flora",
+    "Gut bacteria",
+    "Gut microbiome"
+   ],
+   "reason": "Trillions of microbes, sometimes called a forgotten organ. Not yours, though."
+  },
+  {
+   "answer": "Gills",
+   "aliases": [
+    "Swim bladder",
+    "Lateral line"
+   ],
+   "reason": "Fish have them. You, presumably, do not."
+  },
+  {
+   "answer": "Gizzard",
+   "aliases": [
+    "Crop"
+   ],
+   "reason": "A bird's organ for storing or grinding its food. Humans make do without."
+  },
+  {
+   "answer": "Udder",
+   "reason": "A cow's milk gland. Wrong animal."
+  },
+  {
+   "answer": "Tail",
+   "reason": "Humans lose theirs before birth, all but a stub."
+  },
+  {
+   "answer": "Wings",
+   "aliases": [
+    "Feathers",
+    "Beak",
+    "Horns",
+    "Antlers",
+    "Tentacles",
+    "Scales"
+   ],
+   "reason": "Not on humans. Not yet."
+  },
+  {
+   "answer": "Electric organ",
+   "reason": "Electric eels have three. Humans have none."
+  },
+  {
+   "answer": "Pipe organ",
+   "aliases": [
+    "Church organ",
+    "Hammond organ",
+    "Organ"
+   ],
+   "reason": "A musical instrument. Wrong kind of organ."
+  },
+  {
+   "answer": "Soul",
+   "aliases": [
+    "Spirit"
+   ],
+   "reason": "Not an organ, whatever the poets say."
+  },
+  {
+   "answer": "Mind",
+   "reason": "Not an organ, though it lives in one."
+  },
+  {
+   "answer": "Perineum",
+   "reason": "A region between the legs, not an organ."
+  },
+  {
+   "answer": "Rods and cones",
+   "aliases": [
+    "Rods",
+    "Cones",
+    "Rod cells",
+    "Cone cells",
+    "Photoreceptors"
+   ],
+   "reason": "Single light-sensing cells, far too small to be organs."
+  },
+  {
+   "answer": "Fascia",
+   "reason": "A sheet of tough connective tissue, not an organ."
+  }
+ ],
+ "section": "Organs",
+ "source": "Copied from the daily question \"organs\" on 28 November 2026."
+}

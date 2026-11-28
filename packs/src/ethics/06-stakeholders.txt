@@ -1,0 +1,77 @@
+id: ethics-stakeholders
+text: Name a stakeholder of a business.
+flavor: Everyone the firm touches leaves a mark on it. Some of the marks are older than the firm.
+rules: Any person, group or body that affects a business or is affected by what it does.
+section: Foundations
+---
+1 Shareholders | Shareholder | Owners | Owner | Stockholders | Investors | Investor | Stockholder | Proprietors | Shareowners
+1 Employees | Employee | Staff | Workers | Workforce | Worker | Labour | Team members
+1 Customers | Customer | Consumers | Clients | Consumer | Client | Buyers | Shoppers
+1 Suppliers | Supplier | Vendors | Supply chain | Vendor | Wholesalers
+1 Government | Governments | The government | State | Federal government | State government | Local government
+1 Community | Local community | The community | Communities | Society | The public | General public | Public | Neighbours | Local residents | Residents
+2 Managers | Management | Manager | Executives | CEO | Senior management | Chief executive | Executive team
+2 Creditors | Lenders | Banks | Bank | Financiers | Creditor | Bondholders | Debt holders | Lender | Financial institutions
+2 Competitors | Competitor | Rivals | Competition
+2 Environment | The environment | Natural environment | Nature | Planet | The planet
+2 Directors | Board of directors | The board | Board | Director
+2 Unions | Trade unions | Union | Labour unions | Trade union
+2 Regulators | Regulator | ASIC | ACCC | APRA | Watchdogs | Regulatory bodies
+2 Media | The media | Press | Journalists | News media
+2 Tax office | ATO | Australian Taxation Office | Taxman | Tax authorities | Taxpayers
+2 Future generations
+2 Local council | Councils | Council
+2 Distributors | Retailers | Dealers | Franchisees | Agents | Resellers | Intermediaries
+2 Partners | Business partners | Joint venture partners | Alliance partners
+3 Interest groups | Pressure groups | Lobby groups | Activists | Activist groups | NGOs | Non-government organisations | Advocacy groups | Special interest groups | Environmental groups | Greenpeace | Civil society
+3 Traditional owners | First Nations | Indigenous communities | Indigenous people | Traditional Owners | Aboriginal communities | First Nations peoples | Native title holders | Land councils
+3 Contractors | Subcontractors | Contractor | Consultants | Freelancers | Gig workers
+3 Families of employees | Employees' families | Families | Family | Dependants
+3 Industry associations | Trade associations | Industry bodies | Professional bodies | Chambers of commerce | Peak bodies
+3 Analysts | Financial analysts | Ratings agencies | Credit rating agencies | Proxy advisers | Brokers | Stock exchange | ASX
+3 Auditors | Auditor | Accountants | External auditors
+3 Insurers | Insurance companies | Insurer
+3 Landlords | Landlord | Lessors | Tenants
+3 Institutional investors | Super funds | Superannuation funds | Fund managers | Pension funds
+3 Founders | Founder | Founding family
+3 Volunteers
+3 Donors | Members | Beneficiaries | Sponsors | Patrons
+3 Franchisor | Parent company | Head office | Subsidiaries
+3 Potential employees | Job applicants | Job seekers | Future employees | Graduates
+3 Former employees | Retirees | Alumni | Pensioners
+3 Potential customers | Future customers | Prospects
+3 Potential investors | Venture capitalists | Angel investors
+3 Courts | Legal system | Lawyers | Judiciary
+3 Police | Emergency services
+3 Politicians | Members of Parliament | Ministers | Political parties | Opposition
+3 Universities | Schools | Researchers | Academia | Educators | Students
+3 Animals | Wildlife | Livestock
+3 Charities | Not-for-profits | Community groups | Sporting clubs
+3 Consumer groups | CHOICE | Consumer advocates
+3 Whistleblowers
+3 Liquidators | Administrators | Receivers
+3 Foreign governments | Host governments | International organisations | United Nations | Trading partners
+3 Influencers | Social media users | Bloggers | Reviewers | Critics
+3 Patients | Passengers | Guests | Users | End users | Subscribers | Members of the public
+3 Farmers | Growers | Producers
+3 Utilities | Service providers
+3 Short sellers | Speculators | Day traders | Traders
+3 Minority shareholders | Majority shareholder | Activist investors | Activist shareholders
+3 Employees of suppliers | Supply chain workers | Factory workers | Outworkers
+3 Children | Young people | Vulnerable people | The elderly
+3 Downstream communities | Affected communities | Fenceline communities
+3 Religious groups | Churches
+3 Standards bodies | Standards Australia | ISO | Certifiers | Accreditation bodies
+3 Fair Work Commission | Fair Work Ombudsman | Safe Work | WorkSafe | EPA | Environment Protection Authority | Ombudsman
+4 Primary stakeholders | Secondary stakeholders | Internal stakeholders | External stakeholders | Key stakeholders
+4 Definitive stakeholders | Dormant stakeholders | Dangerous stakeholders | Latent stakeholders | Dependent stakeholders
+4 Non-human stakeholders | Ecosystems | Oceans | Climate
+6 Rivers | River | The river | Whanganui River :: In 2017 New Zealand made the Whanganui River a legal person with rights of its own, after 140 years of argument by the Whanganui iwi.
+6 The dead | Ancestors | Past generations :: G. K. Chesterton called tradition the democracy of the dead: giving a vote to our ancestors, the most obscure of all classes.
+4 Unborn | The unborn | Posterity
+4 Artificial intelligence | AI agents | Robots
+4 Company itself | The company | The corporation
+4 Hackers | Criminals
+x Profit | Profits | Money | Revenue | Sales | Products | Assets | Shares | Capital | Buildings | Equipment | Brand | Reputation :: Something a business has or makes, not somebody with a stake in it.
+x Stakeholder | Stakeholders | People | Everyone | Everybody | Anyone | Someone | Group | Person :: Too broad. Name a particular group.
+x Steak holder | Stakeholder theory | Shareholder theory :: Close, but that is a theory (or a butcher). Name a group with a stake.

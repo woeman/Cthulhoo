@@ -1,0 +1,137 @@
+id: chemistry-lab-equipment
+text: Name a piece of laboratory equipment.
+flavor: Glass, flame and patience. Wear the goggles. They are not there for the things you can see.
+rules: Any apparatus, glassware, instrument or safety gear found in a science lab.
+section: Practical skills
+---
+1 Bunsen burner | Bunsen | Burner
+1 Test tube | Test tubes | Boiling tube
+1 Beaker | Beakers
+1 Microscope | Light microscope
+1 Safety goggles | Goggles | Safety glasses | Eye protection
+1 Conical flask | Erlenmeyer flask | Erlenmeyer | Flask
+1 Pipette | Pipet | Dropper | Teat pipette | Pasteur pipette | Eye dropper | Micropipette | Volumetric pipette
+2 Petri dish | Petri dishes | Agar plate
+2 Thermometer
+2 Measuring cylinder | Graduated cylinder | Measuring jug
+2 Tripod | Tripod stand
+2 Burette | Buret
+2 Funnel | Filter funnel
+2 Lab coat | Laboratory coat | White coat
+2 Gloves | Latex gloves | Nitrile gloves
+2 Tongs | Crucible tongs | Test tube holder | Test tube tongs | Forceps | Tweezers
+2 Test tube rack | Rack
+2 Balance | Scales | Electronic balance | Scale | Analytical balance | Triple beam balance
+2 Filter paper
+2 Gauze mat | Wire gauze | Gauze
+2 Crucible
+2 Stirring rod | Glass rod | Stirrer | Glass stirring rod
+2 Spatula | Scoop | Scoopula
+2 Retort stand | Clamp stand | Ring stand | Clamp | Boss head | Stand | Bosshead
+2 Centrifuge
+2 Litmus paper | Litmus | pH paper | Universal indicator | Indicator paper
+2 Fume cupboard | Fume hood
+2 Heat mat | Heatproof mat | Bench mat
+2 Mortar and pestle | Pestle and mortar | Mortar | Pestle
+2 Round-bottom flask | Round bottom flask | Florence flask | Boiling flask | Round-bottomed flask
+2 Volumetric flask
+2 Evaporating dish | Evaporating basin
+2 Condenser | Liebig condenser
+2 Watch glass | Clock glass
+2 Hot plate | Hotplate
+2 Spirit burner | Alcohol burner
+2 Slide | Microscope slide | Coverslip | Cover slip
+2 Wash bottle | Squeeze bottle
+3 pH meter | pH probe
+3 Data logger | Probe
+3 Magnetic stirrer | Stir bar | Stirring flea | Flea
+3 Separating funnel | Separatory funnel | Sep funnel
+3 Büchner funnel | Buchner funnel | Büchner flask | Buchner flask | Filter flask
+3 Desiccator
+3 Distillation apparatus | Still | Distillation flask | Fractionating column
+3 Spectrometer | Spectrophotometer | Mass spectrometer | Colorimeter | Spectroscope
+3 Autoclave
+3 Incubator
+3 Water bath
+3 Oven | Drying oven | Furnace | Muffle furnace | Kiln
+3 Rotary evaporator | Rotavap | Rotovap
+3 Reflux condenser | Reflux apparatus
+3 Gas syringe | Syringe
+3 Gas jar | Gas collecting jar
+3 Bell jar
+3 Pipeclay triangle | Clay triangle
+3 Deflagrating spoon | Combustion spoon
+3 Dropping bottle | Reagent bottle
+3 Calorimeter | Bomb calorimeter
+3 Voltmeter | Ammeter | Multimeter | Power pack | Power supply
+3 Electrodes | Electrode | Electrolysis cell | Voltameter | Hofmann voltameter
+3 Stopwatch | Timer
+3 Ruler | Metre rule | Vernier calipers | Calipers | Micrometer
+3 Bung | Stopper | Rubber stopper | Cork
+3 Delivery tube | Glass tubing | Rubber tubing | Tubing
+3 Eyewash station | Eye wash | Safety shower
+3 Fire blanket | Fire extinguisher
+3 Splint | Wooden splint | Taper | Matches
+3 Dissection kit | Scalpel | Dissecting tray
+3 Electron microscope
+3 Chromatography paper | Chromatography column | TLC plate
+3 Thistle funnel
+3 Dropping funnel
+3 Trough | Pneumatic trough
+3 Inoculating loop | Wire loop
+3 Hydrometer
+3 Barometer | Manometer
+3 Geiger counter
+3 Oscilloscope
+3 Vacuum pump
+3 Glove box | Glovebox
+3 Cuvette
+3 Ice bath
+3 Tile | White tile | Spotting tile | Dimple tile
+3 Brush | Test tube brush
+3 Label | Lab book | Lab notebook
+6 Kipp's apparatus | Kipps apparatus | Kipp generator :: Three glass bulbs stacked like a snowman, invented by a Dutch pharmacist around 1844. It makes gas on demand and stops by itself when you close the tap.
+4 Soxhlet extractor | Soxhlet
+4 Dean-Stark apparatus | Dean-Stark trap
+4 Schlenk line | Schlenk flask
+4 Kjeldahl flask
+4 Claisen adapter | Claisen flask
+4 Vigreux column
+4 Graham condenser | Allihn condenser | Dimroth condenser | Friedrichs condenser
+4 Dewar flask | Dewar
+4 Retort
+4 Alembic
+4 Cold finger
+4 Drying tube | Guard tube
+4 Gas washing bottle | Dreschel bottle | Drechsel bottle | Bubbler
+4 Woulfe bottle
+4 Eudiometer
+4 Pycnometer | Density bottle
+4 Viscometer | Ostwald viscometer
+4 Polarimeter
+4 Refractometer
+4 Melting point apparatus | Thiele tube
+6 Abderhalden's drying pistol | Drying pistol | Abderhalden pistol :: Glassware shaped like a pistol, for drying samples in boiling vapour. Its namesake's celebrated "defence enzymes" turned out not to exist.
+4 Perkin triangle
+4 Kugelrohr
+4 Teclu burner | Meker burner | Méker burner
+4 Titration stand | Burette clamp
+4 Mohr pipette | Mohr clamp | Pinch clamp | Hoffman clamp
+4 Fritted funnel | Sintered glass funnel | Hirsch funnel
+4 Ground glass joint | Quickfit
+4 Heating mantle | Sand bath | Oil bath
+4 Sonicator | Ultrasonic bath
+4 Vortex mixer
+4 PCR machine | Thermal cycler
+4 Gel electrophoresis tank | Electrophoresis
+4 NMR spectrometer | NMR
+4 Gas chromatograph | HPLC
+4 Laminar flow hood | Biosafety cabinet
+4 Microtome
+4 Haemocytometer | Hemocytometer
+4 Crookes tube
+4 Leyden jar
+4 Van de Graaff generator
+4 Ticker timer
+x Chemical | Chemicals | Acid | Water | Sink | Desk | Bench | Stool | Whiteboard | Calculator | Pen :: In the room, perhaps, but not what we would call lab equipment.
+x Equipment | Apparatus | Glassware | Tool | Lab | Laboratory :: Which one? Name the piece.

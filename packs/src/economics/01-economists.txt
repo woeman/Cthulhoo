@@ -1,0 +1,400 @@
+id: economics-economists
+text: Name a famous economist.
+flavor: They promised to explain why we want what we want. The answer was down here all along.
+rules: Any notable economist, living or dead, including central bankers and well-known Australian economists. Surnames alone are fine.
+section: People
+---
+1 Adam Smith | Smith
+1 John Maynard Keynes | Keynes | Maynard Keynes | J. M. Keynes | Lord Keynes
+1 Karl Marx | Marx
+2 David Ricardo | Ricardo
+2 Thomas Malthus | Malthus | Thomas Robert Malthus
+2 Alfred Marshall | Marshall
+2 Joseph Schumpeter | Schumpeter
+2 John Stuart Mill | Mill | J. S. Mill
+2 Thomas Piketty | Piketty
+2 Janet Yellen | Yellen
+2 Alan Greenspan | Greenspan
+2 Jerome Powell | Powell | Jay Powell
+2 Philip Lowe | Lowe | Phil Lowe
+2 Michele Bullock | Bullock
+2 Ross Garnaut | Garnaut
+2 Ken Henry | Henry
+2 Yanis Varoufakis | Varoufakis
+2 Friedrich Engels | Engels
+2 John Kenneth Galbraith | Galbraith | J. K. Galbraith
+2 Steven Levitt | Levitt | Freakonomics
+3 Glenn Stevens | Stevens
+3 Ian Macfarlane | Macfarlane
+3 Bernie Fraser | Fraser
+3 Nugget Coombs | H. C. Coombs | Coombs | Herbert Coombs | HC Coombs
+3 Saul Eslake | Eslake
+3 Chris Richardson | Richardson
+3 John Quiggin | Quiggin
+3 Justin Wolfers | Wolfers
+3 Andrew Leigh | Leigh
+3 Shane Oliver | Oliver
+3 Stephen Koukoulas | Koukoulas | The Kouk
+3 Danielle Wood
+3 Richard Denniss | Denniss
+3 Warwick McKibbin | McKibbin
+3 Judith Sloan | Sloan
+3 Gigi Foster | Foster
+3 Richard Holden | Holden
+3 Steve Keen | Keen
+3 Bruce Chapman | Chapman
+3 Ian Harper | Harper
+3 Max Corden | Corden | W. Max Corden
+3 Trevor Swan | Swan
+3 Colin Clark | Clark
+3 Bob Gregory | Gregory
+3 Geoff Harcourt | Harcourt | Geoffrey Harcourt
+3 Heinz Arndt | Arndt
+3 Ludwig von Mises | Mises | von Mises
+3 Irving Fisher | Fisher
+3 Thorstein Veblen | Veblen
+3 Vilfredo Pareto | Pareto
+3 Léon Walras | Walras | Leon Walras
+3 Joan Robinson | Robinson
+3 Arthur Laffer | Laffer
+3 Arthur Pigou | Pigou | A. C. Pigou
+6 Bill Phillips | William Phillips | Phillips | A. W. Phillips | A. W. H. Phillips | Alban William Phillips :: The New Zealander behind the Phillips curve also built the MONIAC in 1949: a machine that modelled the British economy with flowing coloured water.
+3 Jean-Baptiste Say | Say | J. B. Say
+3 Nouriel Roubini | Roubini | Dr Doom
+3 Jeffrey Sachs | Sachs
+3 Larry Summers | Summers | Lawrence Summers
+3 Greg Mankiw | Mankiw | N. Gregory Mankiw
+3 Mariana Mazzucato | Mazzucato
+3 Kate Raworth | Raworth
+3 Thomas Sowell | Sowell
+3 Mario Draghi | Draghi
+3 Christine Lagarde | Lagarde
+3 Mark Carney | Carney
+3 Paul Volcker | Volcker
+3 Raghuram Rajan | Rajan
+3 Muhammad Yunus | Yunus
+3 Hernando de Soto | de Soto
+3 Ha-Joon Chang | Chang | Ha Joon Chang
+3 Dambisa Moyo | Moyo
+3 Tyler Cowen | Cowen
+3 Stephen Dubner | Dubner
+3 Tim Harford | Harford
+3 Mohamed El-Erian | El-Erian | El Erian
+3 Kenneth Rogoff | Rogoff
+3 Carmen Reinhart | Reinhart
+3 Olivier Blanchard | Blanchard
+3 Emmanuel Saez | Saez
+3 Gabriel Zucman | Zucman
+3 Stephanie Kelton | Kelton
+3 Hyman Minsky | Minsky
+6 Henry George :: He worked his passage to Melbourne as a ship's boy in 1855. His single tax on land later inspired the board game that became Monopoly.
+3 Jeremy Bentham | Bentham
+6 William Stanley Jevons | Jevons | W. S. Jevons | Stanley Jevons :: Before he helped found modern economics he spent five years in Sydney as an assayer at the Mint, from 1854, and wrote a social survey of the city.
+3 Carl Menger | Menger
+3 Knut Wicksell | Wicksell
+3 Michał Kalecki | Kalecki | Michal Kalecki
+3 Nicholas Kaldor | Kaldor
+3 Piero Sraffa | Sraffa
+3 Roy Harrod | Harrod
+3 Evsey Domar | Domar
+3 Anna Schwartz | Schwartz
+3 Murray Rothbard | Rothbard
+3 E. F. Schumacher | Schumacher | Ernst Schumacher
+3 Karl Polanyi | Polanyi
+3 Rosa Luxemburg | Luxemburg
+3 Max Weber | Weber
+3 Nikolai Kondratiev | Kondratiev | Kondratieff
+3 William Baumol | Baumol
+3 Anthony Atkinson | Atkinson | Tony Atkinson
+3 Harold Hotelling | Hotelling
+3 Frank Knight | Knight
+3 Lionel Robbins | Robbins
+3 William Beveridge | Beveridge
+3 Arthur Okun | Okun
+3 John Taylor | Taylor
+3 Gordon Tullock | Tullock
+3 Mancur Olson | Olson
+3 Albert Hirschman | Hirschman
+3 Raúl Prebisch | Prebisch | Raul Prebisch
+4 François Quesnay | Quesnay | Francois Quesnay
+4 Anne Robert Jacques Turgot | Turgot
+4 Richard Cantillon | Cantillon
+4 William Petty | Petty | Sir William Petty
+4 David Hume | Hume
+4 Bernard Mandeville | Mandeville
+4 Thomas Mun | Mun
+4 Jean-Baptiste Colbert | Colbert
+4 Friedrich List | List
+4 Antoine Augustin Cournot | Cournot
+4 Joseph Bertrand | Bertrand
+4 Francis Ysidro Edgeworth | Edgeworth
+4 Eugen von Böhm-Bawerk | Böhm-Bawerk | Bohm-Bawerk | Böhm Bawerk
+4 Friedrich von Wieser | Wieser
+4 Gustav Cassel | Cassel
+4 Eli Heckscher | Heckscher
+4 John Bates Clark
+4 Frédéric Bastiat | Bastiat | Frederic Bastiat
+4 Nassau Senior | Senior
+4 James Mill
+4 Harriet Martineau | Martineau
+4 Harriet Taylor Mill
+4 Walter Bagehot | Bagehot
+4 Henry Thornton | Thornton
+4 Robert Torrens | Torrens
+4 Jean Charles Léonard de Sismondi | Sismondi
+4 Pierre-Joseph Proudhon | Proudhon
+4 Robert Owen | Owen
+4 Sidney Webb | Beatrice Webb | Webb
+4 Thorold Rogers
+4 Arnold Toynbee | Toynbee
+4 Wesley Clair Mitchell
+4 Alvin Hansen
+4 Abba Lerner | Lerner
+4 Oskar Lange | Lange
+4 Jacob Viner | Viner
+4 Harry Johnson
+4 Paul Sweezy | Sweezy
+4 Paul Baran | Baran
+4 Ernest Mandel | Mandel
+4 Andre Gunder Frank | Gunder Frank
+4 Immanuel Wallerstein | Wallerstein
+4 Kenneth Boulding | Boulding
+4 Nicholas Georgescu-Roegen | Georgescu-Roegen
+4 Herman Daly | Daly
+4 Partha Dasgupta | Dasgupta
+4 Nicholas Stern | Stern | Lord Stern
+4 Jagdish Bhagwati | Bhagwati
+4 Dani Rodrik | Rodrik
+4 William Easterly | Easterly
+4 Paul Collier | Collier
+4 Branko Milanović | Milanovic | Branko Milanovic
+4 Tim Jackson
+4 Robert Barro | Barro
+4 Martin Feldstein | Feldstein
+4 Stanley Fischer | Fischer
+4 Rudi Dornbusch | Dornbusch | Rudiger Dornbusch
+4 Alan Blinder | Blinder
+4 John List
+4 Raj Chetty | Chetty
+4 Emily Oster | Oster
+4 Susan Athey | Athey
+4 Hal Varian | Varian
+4 Jason Furman | Furman
+4 Austan Goolsbee | Goolsbee
+4 Glenn Hubbard | Hubbard
+4 Christina Romer | David Romer
+4 Brad DeLong | DeLong | J. Bradford DeLong
+4 Robert Reich | Reich
+4 Robert Gordon
+4 Deirdre McCloskey | McCloskey
+4 Niall Ferguson | Ferguson
+4 Adam Tooze | Tooze
+4 Gita Gopinath | Gopinath
+4 Kristalina Georgieva | Georgieva
+4 Ngozi Okonjo-Iweala | Okonjo-Iweala
+4 Haruhiko Kuroda | Kuroda
+4 Kazuo Ueda | Ueda
+4 Mervyn King
+4 Andrew Bailey | Bailey
+4 Jean-Claude Trichet | Trichet
+4 Wim Duisenberg | Duisenberg
+4 Arthur Burns | Burns
+4 William McChesney Martin
+4 Marriner Eccles | Eccles
+4 Montagu Norman
+4 Hjalmar Schacht | Schacht
+4 Zhou Xiaochuan
+4 Manmohan Singh | Singh
+4 Adrian Orr | Orr
+4 Don Brash | Brash
+4 Guy Debelle | Debelle
+4 Luci Ellis | Ellis
+4 Stephen Grenville | Grenville
+4 David Gruen | Gruen
+4 Fred Gruen
+4 Steven Kennedy
+4 Martin Parkinson | Parkinson
+4 Ted Evans
+4 John Stone
+4 Roland Wilson
+4 Douglas Copland | Copland
+4 Lyndhurst Giblin | Giblin | L. F. Giblin
+4 Edward Shann | Shann
+4 Wilfred Salter | Salter
+4 Noel Butlin | Butlin
+4 Syd Butlin
+4 John Crawford
+4 Leslie Melville | Melville
+4 Fred Argy | Argy
+4 Helen Hughes
+4 Alan Fels | Fels
+4 Rod Sims
+4 Gary Banks | Banks
+4 Peter Harris
+4 Michael Brennan
+4 John Hewson | Hewson
+4 Craig Emerson | Emerson
+4 Peter Dixon
+4 Kym Anderson
+4 Adrian Pagan | Pagan
+4 John Freebairn | Freebairn
+4 Bob Officer
+4 Peter Swan
+4 Frank Milne
+4 Rabee Tourky
+4 Alison Booth
+4 Deborah Cobb-Clark | Cobb-Clark
+4 Lisa Cameron
+4 Miranda Stewart
+4 Chris Murphy
+4 Bill Mitchell
+4 Stephen King
+4 Joshua Gans | Gans
+4 Nicholas Gruen
+4 Peter Martin
+4 Ross Gittins | Gittins
+4 Alan Kohler | Kohler
+4 Jessica Irvine
+4 Alan Mitchell
+4 Terry McCrann | McCrann
+4 Callam Pickering
+4 Cherelle Murphy
+4 Sarah Hunter
+4 Su-Lin Ong
+4 Gareth Aird
+4 Bill Evans
+4 Besa Deda
+4 Jo Masters
+4 Leonora Risse | Risse
+4 Angela Jackson
+4 Brendan Coates
+4 John Daley
+5 Ibn Khaldun | Khaldun
+5 Nicole Oresme | Oresme
+5 Xenophon
+5 Chanakya | Kautilya
+5 Gregory King
+5 Dudley North
+5 Josiah Child
+5 Johann Heinrich von Thünen | von Thünen | Thunen | von Thunen
+5 Hermann Heinrich Gossen | Gossen
+5 Jules Dupuit | Dupuit
+5 Clément Juglar | Juglar
+5 Silvio Gesell | Gesell
+5 Mikhail Tugan-Baranovsky | Tugan-Baranovsky
+5 Evgeny Slutsky | Slutsky | Eugen Slutsky
+5 Nikolai Bukharin | Bukharin
+5 Yevgeni Preobrazhensky | Preobrazhensky
+5 János Kornai | Kornai | Janos Kornai
+5 Ota Šik | Ota Sik
+5 Włodzimierz Brus
+5 Oskar Morgenstern | Morgenstern
+5 John von Neumann | von Neumann
+5 Frank Ramsey | Ramsey
+5 Dennis Robertson
+5 Ralph Hawtrey | Hawtrey
+5 Richard Kahn
+2 Paul Samuelson | Samuelson
+3 Simon Kuznets | Kuznets
+3 John Hicks | Hicks | Sir John Hicks | J. R. Hicks
+3 Kenneth Arrow | Arrow | Ken Arrow
+3 Wassily Leontief | Leontief
+4 Gunnar Myrdal | Myrdal
+1 Friedrich Hayek | Hayek | F. A. Hayek | Friedrich von Hayek | Friedrich August von Hayek | von Hayek
+5 Tjalling Koopmans | Koopmans
+1 Milton Friedman | Friedman
+5 Bertil Ohlin | Ohlin
+5 James Meade | Meade
+3 Herbert Simon | Simon | Herbert A. Simon | Herb Simon
+5 Theodore Schultz | Schultz
+4 Arthur Lewis | W. Arthur Lewis | Lewis | Sir Arthur Lewis
+5 Lawrence Klein | Klein
+3 James Tobin | Tobin
+4 George Stigler | Stigler
+4 Gérard Debreu | Debreu | Gerard Debreu
+5 Richard Stone | Stone
+3 Franco Modigliani | Modigliani
+3 James Buchanan | Buchanan | James M. Buchanan
+3 Robert Solow | Solow
+5 Maurice Allais | Allais
+5 Trygve Haavelmo | Haavelmo
+3 Harry Markowitz | Markowitz
+4 Merton Miller | Miller
+3 William Sharpe | Sharpe | William F. Sharpe | Bill Sharpe
+3 Ronald Coase | Coase
+3 Gary Becker | Becker
+5 Robert Fogel | Fogel
+4 Douglass North | North
+4 John Harsanyi | Harsanyi
+2 John Nash | Nash | John Forbes Nash | John F. Nash
+5 Reinhard Selten | Selten
+3 Robert Lucas | Lucas | Robert Lucas Jr
+5 James Mirrlees | Mirrlees
+4 William Vickrey | Vickrey
+3 Robert Merton | Merton | Robert C. Merton
+3 Myron Scholes | Scholes
+2 Amartya Sen | Sen
+3 Robert Mundell | Mundell
+4 James Heckman | Heckman
+4 Daniel McFadden | McFadden
+3 George Akerlof | Akerlof
+4 Michael Spence | Spence
+2 Joseph Stiglitz | Stiglitz | Joe Stiglitz
+2 Daniel Kahneman | Kahneman
+4 Vernon Smith | Vernon L. Smith
+4 Robert Engle | Engle
+4 Clive Granger | Granger
+4 Finn Kydland | Kydland
+4 Edward Prescott | Prescott
+4 Robert Aumann | Aumann
+3 Thomas Schelling | Schelling
+4 Edmund Phelps | Phelps
+5 Leonid Hurwicz | Hurwicz
+4 Eric Maskin | Maskin
+4 Roger Myerson | Myerson
+1 Paul Krugman | Krugman
+3 Elinor Ostrom | Ostrom
+4 Oliver Williamson | Williamson
+4 Peter Diamond | Diamond
+5 Dale Mortensen | Mortensen
+4 Christopher Pissarides | Pissarides
+4 Thomas Sargent | Sargent
+4 Christopher Sims | Sims
+4 Alvin Roth | Roth | Al Roth
+4 Lloyd Shapley | Shapley
+3 Eugene Fama | Fama
+4 Lars Peter Hansen | Hansen | Lars Hansen
+3 Robert Shiller | Shiller
+3 Jean Tirole | Tirole
+3 Angus Deaton | Deaton
+4 Oliver Hart | Hart
+4 Bengt Holmström | Holmström | Holmstrom | Bengt Holmstrom
+2 Richard Thaler | Thaler
+3 William Nordhaus | Nordhaus
+3 Paul Romer | Romer
+3 Abhijit Banerjee | Banerjee
+3 Esther Duflo | Duflo
+4 Michael Kremer | Kremer
+4 Paul Milgrom | Milgrom
+4 Robert Wilson | Robert B. Wilson
+3 David Card | Card
+4 Joshua Angrist | Angrist | Josh Angrist
+4 Guido Imbens | Imbens
+2 Ben Bernanke | Bernanke
+4 Douglas Diamond | Doug Diamond
+4 Philip Dybvig | Dybvig
+3 Claudia Goldin | Goldin
+3 Daron Acemoglu | Acemoglu | Acemoğlu
+4 Simon Johnson | Johnson
+4 James Robinson | James A. Robinson
+4 Joel Mokyr | Mokyr
+4 Philippe Aghion | Aghion
+4 Peter Howitt | Howitt
+4 Robert Hall | Robert E. Hall | Hall | Bob Hall
+4 Michael Woodford | Woodford
+4 Ragnar Frisch | Frisch
+4 Jan Tinbergen | Tinbergen
+4 Leonid Kantorovich | Kantorovich
+x Warren Buffett | Buffett | Elon Musk | George Soros | Soros | Jeff Bezos | Bill Gates | Ray Dalio | Charlie Munger :: An investor or a business owner rather than an economist.
+x Anthony Albanese | Albanese | Scott Morrison | Paul Keating | Keating | Peter Costello | Costello | Josh Frydenberg | Frydenberg | Donald Trump | Trump | Margaret Thatcher | Thatcher | Ronald Reagan | Reagan :: A politician who ran an economy, which is not quite the same as studying one.
+x Economist | Professor | Treasurer | Governor | Central banker :: That is the job. Name someone who does it.

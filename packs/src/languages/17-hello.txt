@@ -1,0 +1,128 @@
+id: languages-hello
+text: Give a word for hello in a language other than English.
+flavor: Be polite. You never know what is on the other side of the door.
+rules: Any greeting used to say hello in another language, spelled in the Roman alphabet.
+section: World languages
+---
+1 Bonjour | Bonsoir
+1 Hola | Buenos días | Buenos dias | Buenas | Buenas tardes
+1 Ciao | Buongiorno | Buon giorno | Buonasera
+1 Konnichiwa | Konichiwa | Kon'nichiwa | Ohayo | Ohayō | Ohayou | Ohayo gozaimasu | Konbanwa | Moshi moshi
+1 Ni hao | Nǐ hǎo | Nihao | Nin hao
+1 Guten Tag | Hallo | Guten Morgen | Guten Abend
+1 Namaste | Namaskar | Namaskaram | Namaskara
+1 Kia ora
+1 Aloha
+2 Salaam | Salam | As-salamu alaykum | Assalamu alaikum | Salaam alaikum | Salam alaikum | Assalamualaikum | Salam aleikum
+2 Shalom
+2 Bula
+2 G'day | Gday
+2 Annyeonghaseyo | Annyeong | Anyeong | Annyeong haseyo | Anyong
+2 Privet | Zdravstvuyte | Zdravstvuite | Privyet | Zdrastvuyte
+2 Olá | Ola | Oi | Bom dia | Boa tarde
+2 Merhaba | Selam
+2 Marhaba | Ahlan | Ahlan wa sahlan
+2 Yassou | Yasou | Geia sou | Yia sou | Yassas | Kalimera | Geia sas
+2 Sawasdee | Sawadee | Sawatdee | Sawasdee krap | Sawasdee ka | Sawatdi
+2 Xin chào | Xin chao | Chào | Chao
+2 Jambo | Hujambo | Habari | Shikamoo
+2 Talofa | Malo
+2 Malo e lelei | Mālō e lelei
+2 Salut | Coucou | Allô | Allo
+2 Hej | Hejsan | Hei | Heisan | Hallå | Halla
+2 Kamusta | Kumusta | Mabuhay
+2 Selamat pagi | Halo | Selamat siang | Selamat | Selamat datang | Hai | Apa khabar | Apa kabar | Selamat sore | Selamat malam
+3 Sawubona | Sanibonani
+3 Dia dhuit | Dia duit
+3 Shwmae | Helo | S'mae | Bore da | Sut mae
+3 Salve | Ave
+3 Moi | Hei hei | Terve | Moikka
+3 Cześć | Czesc | Dzień dobry | Dzien dobry | Witaj
+3 Ahoj | Dobrý den | Dobry den | Čau | Cau
+3 Szia | Jó napot | Jo napot | Sziasztok | Szervusz
+3 Goedendag | Hoi | Goedemorgen | Goeiedag | Dag
+3 Grüß Gott | Gruss Gott | Servus | Moin | Grüezi | Gruezi | Moin moin | Grüß dich
+3 Bok | Zdravo | Dobar dan | Ćao | Cao | Dobro jutro
+3 Bună | Buna | Bună ziua | Buna ziua
+3 Zdraveite | Zdravei | Zdrasti
+3 Pryvit | Privit | Dobryi den
+3 Tere | Tervist
+3 Sveiki | Labdien
+3 Labas | Sveikas | Laba diena
+3 Halló | Góðan daginn | Godan daginn | Sæll | Sael
+4 Barev | Barev dzez
+4 Gamarjoba
+4 Salom | Assalomu alaykum
+4 Sälem | Salem | Salemetsiz be
+4 Sain baina uu | Sain uu
+4 Tashi delek | Tashi deleg
+4 Nei hou | Néih hóu | Lei ho | Nei ho
+4 Mingalaba | Mingalarbar | Mingalabar
+4 Sua s'dei | Chum reap suor | Suostei | Sua sdei
+4 Sabaidee | Sabaidi
+4 Vanakkam
+4 Sat sri akal | Sat sri akaal
+4 Ayubowan
+4 Kem cho
+4 Nomoskar | Nomoshkar
+4 Adaab | Aadab
+4 Kia orana
+4 Ia ora na | Ia orana | Iaorana
+4 Håfa adai | Hafa adai
+4 Halo olgeta | Gude
+4 Fakaalofa atu | Fakaalofa lahi atu
+4 Mauri | Kam na mauri
+4 Yokwe | Iakwe
+4 Ni sa bula | Bula vinaka
+3 Palya :: Hello, and also good, in Pitjantjatjara and other Western Desert languages.
+3 Kaya | Kaya wanjoo :: Hello in Noongar, the language of south-west Western Australia.
+3 Yaama | Yaama maliyaa :: Hello in Gamilaraay, from northern New South Wales.
+3 Wominjeka | Womindjeka :: Welcome, in the Woiwurrung language of the Wurundjeri people of Melbourne.
+3 Werte :: Hello in Arrernte, the language of Alice Springs.
+3 Jingeri | Jingi walla :: A greeting in Yugambeh, the language of the Gold Coast region.
+3 Niina marni | Naa marni :: "Are you good?": the Kaurna greeting of the Adelaide Plains.
+3 Ya pulingina :: Hello and welcome in palawa kani, the revived language of Tasmanian Aboriginal people.
+3 Budyeri kamaru :: A greeting in Dharug, the language of the Sydney basin.
+4 Sannu
+4 Tena yistilign | Tenaystilign
+4 Dumela | Dumelang
+4 Molo | Molweni
+4 Mhoro | Mhoroi
+4 Bawo ni | E kaaro
+4 Ndewo
+4 Mbote
+4 Salama | Manao ahoana
+4 Bonjou | Bonswa
+4 Saluton
+4 Yá'át'ééh | Yaateeh | Ya'at'eeh
+4 Osiyo
+4 Aanii | Boozhoo
+4 Hau | Hao
+4 Halito
+4 Ullaakkut
+4 Aluu | Haluu
+4 Bures | Buorre beaivi
+4 Kaixo
+4 Bon dia
+4 Demat
+4 Dydh da
+4 Fàilte | Halò | Feasgar math | Madainn mhath
+4 Moghrey mie | Fastyr mie
+4 Goeie dag | Goeie more | Goeiemore
+4 Sholem aleikhem | Sholem aleichem
+4 Rojbaş | Rojbas | Silav
+4 Dorood | Dorud
+4 Julley | Juley
+4 Kuzu zangpo | Kuzuzangpo
+4 Bondia | Botarde
+4 Maayong buntag | Maayong adlaw
+4 Sugeng enjing | Sugeng
+4 Om swastiastu | Swastiastu
+4 Horas
+4 Chào bạn | Chao ban
+6 nuqneH | Nuqneh :: Klingon has no word for hello. The nearest thing is nuqneH, which means "What do you want?", and is considered perfectly good manners.
+5 Mae govannen | Suilad | Aiya :: "Well met" in Sindarin, the Elvish that Tolkien built before he wrote the stories to hold it.
+5 M'athchomaroon | Mathchomaroon :: Dothraki, from Game of Thrones. It means "with respect".
+x Hello | Hi | Hey | Howdy | Good morning | Greetings | G'day mate | Yo | Sup | What's up | How are you :: That is English. Try another language.
+x Goodbye | Adiós | Adios | Au revoir | Arrivederci | Sayonara | Auf Wiedersehen | Hasta la vista | Tot ziens | Adieu | Do svidaniya :: That one means goodbye. They have already left.
+x Merci | Gracias | Danke | Arigato | Grazie | Por favor | Bitte | Oui | Si | Ja | Da | Nyet :: A real word, but not a greeting.

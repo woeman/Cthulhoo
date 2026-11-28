@@ -1,0 +1,99 @@
+id: languages-families
+text: Name a language family or branch.
+flavor: Every tongue has ancestors. Follow them back far enough and the names run out.
+rules: Any recognised family of related languages, or a branch of one, such as the group English belongs to.
+section: Linguistics
+---
+1 Romance | Romance languages | Latin languages | Italic | Romanic
+1 Germanic | Germanic languages | West Germanic | North Germanic | East Germanic
+1 Indo-European | Indo European | Indo-Germanic
+1 Slavic | Slavonic | Slavic languages | East Slavic | West Slavic | South Slavic
+1 Celtic | Celtic languages | Goidelic | Gaelic | Brythonic | Brittonic
+2 Semitic | Semitic languages
+2 Sino-Tibetan | Sino Tibetan | Chinese languages | Sinitic | Trans-Himalayan
+2 Bantu | Bantu languages
+2 Scandinavian | Nordic | Norse
+2 Polynesian | Polynesian languages
+2 Austronesian | Malayo-Polynesian
+2 Turkic | Turkic languages
+2 Dravidian
+2 Afro-Asiatic | Afroasiatic | Afro Asiatic | Hamito-Semitic
+2 Pama-Nyungan | Pama Nyungan | Australian Aboriginal languages
+2 Uralic | Finno-Ugric | Finno Ugric
+2 Baltic | Balto-Slavic
+2 Indo-Aryan | Indic | Indo-Iranian
+2 Hellenic | Greek
+2 Creole | Creoles | Pidgin | Pidgins
+2 Sign languages | Sign language | BANZSL
+3 Niger-Congo | Niger Congo | Atlantic-Congo
+3 Altaic
+3 Japonic | Japanese-Ryukyuan | Japanese
+3 Koreanic | Korean
+3 Mongolic | Mongolian
+3 Tungusic | Manchu-Tungus
+3 Tai-Kadai | Kra-Dai | Tai | Kra–Dai
+3 Austroasiatic | Austro-Asiatic | Mon-Khmer
+3 Hmong-Mien | Miao-Yao
+3 Tibeto-Burman
+3 Iranian | Iranic | Persian languages
+3 Nilo-Saharan | Nilotic
+3 Khoisan | Khoe | Khoe-Kwadi | Tuu | Kx'a
+3 Berber | Amazigh | Tamazight
+3 Cushitic
+3 Chadic
+3 Omotic
+3 Finnic | Baltic-Finnic | Ugric | Samoyedic | Sami | Permic
+3 Caucasian | Kartvelian | South Caucasian | Northwest Caucasian | Northeast Caucasian | Nakh-Daghestanian
+3 Eskimo-Aleut | Inuit | Eskaleut | Inuit-Yupik-Unangan | Yupik
+3 Na-Dene | Na-Dené | Athabaskan | Athabascan | Dené
+3 Algonquian | Algic | Algonkian
+3 Iroquoian
+3 Siouan | Siouan-Catawban
+3 Uto-Aztecan | Uto Aztecan | Nahuan
+3 Mayan | Maya
+3 Quechuan | Quechua
+3 Tupian | Tupi | Tupi-Guarani
+3 Arawakan | Arawak | Maipurean
+3 Cariban | Carib
+3 Trans-New Guinea | Papuan | Trans New Guinea
+3 Melanesian | Micronesian | Oceanic
+3 Albanian | Armenian
+3 Anatolian | Tocharian
+3 Language isolate | Isolate | Isolates
+3 Constructed languages | Conlang | Conlangs
+4 Anglo-Frisian | Frisian | Anglic
+4 Ibero-Romance | Gallo-Romance | Italo-Dalmatian | Eastern Romance | Rhaeto-Romance | Occitano-Romance
+4 Mande | Kwa | Gur | Atlantic | Volta-Niger
+4 Munda | Khmeric | Vietic
+4 Formosan
+4 Philippine | Philippine languages
+4 Malayic
+4 Ryukyuan
+4 Oto-Manguean | Otomanguean | Mixtecan | Zapotecan
+4 Muskogean
+4 Salishan | Salish
+4 Caddoan
+4 Kiowa-Tanoan
+4 Wakashan
+4 Tsimshianic
+6 Yeniseian | Dene-Yeniseian | Dené-Yeniseian :: A family from central Siberia with one living member, Ket. A widely argued proposal links it to Navajo and its relatives, 7,000 kilometres away.
+4 Chukotko-Kamchatkan
+4 Yukaghir
+4 Macro-Jê | Macro-Je | Jê
+4 Panoan | Pano-Tacanan
+4 Tucanoan
+4 Chibchan
+4 Aymaran | Aymara
+4 Mixe-Zoque
+4 Totonacan
+4 Andamanese | Great Andamanese | Ongan
+4 Sepik | Torricelli | Ramu | Lakes Plain
+4 Gunwinyguan | Nyulnyulan | Mirndi | Tangkic | Daly | Worrorran | Bunuban | Jarrakan | Iwaidjan | Yolngu languages | Western Desert | Arandic | Ngumpin-Yapa | Paman | Maric | Dyirbalic | Yuin-Kuric | Kulinic | Karnic | Thura-Yura
+4 Nostratic | Eurasiatic | Amerind | Dené-Caucasian
+4 Hurro-Urartian | Elamo-Dravidian
+6 Tyrsenian | Tyrrhenian :: A vanished family of three: Etruscan, the Alpine language Raetic, and the tongue of one stone slab found on Lemnos. Nothing else is known to be related.
+4 Songhay | Saharan | Kadu | Koman
+4 Ubangian | Adamawa
+4 Hokan | Penutian
+x English | French | Spanish | Mandarin | Latin | Arabic | Hindi | German | Italian | Basque | Swahili :: A single language. Name the family or branch it belongs to.
+x Language | Family | Languages | Linguistics | European | Asian | African | Tree :: Which one? Name the family.

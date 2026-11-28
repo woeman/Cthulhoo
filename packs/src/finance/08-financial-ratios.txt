@@ -1,0 +1,150 @@
+id: finance-ratios
+text: Name a financial ratio or metric used to judge a company or an investment.
+flavor: Divide one number by another and the truth comes up for air. Briefly.
+rules: Any ratio, multiple, margin, yield or return measure an analyst would use. Raw statement items, such as revenue, are a different question.
+section: Analysis
+---
+1 Price-to-earnings ratio | P/E | PE | PE ratio | P/E ratio | Price earnings | Price to earnings | Price earnings ratio | PER | Earnings multiple | P E ratio
+1 Return on equity | ROE
+1 Earnings per share | EPS
+1 Dividend yield | Yield | Div yield
+1 Debt-to-equity ratio | Debt to equity | D/E | Debt equity ratio | DE ratio | Debt/equity | Gearing | Gearing ratio | Leverage | Leverage ratio
+1 Return on investment | ROI
+1 Current ratio | Working capital ratio
+1 Profit margin | Net profit margin | Net margin | Margin | Profit margin ratio | Net profit ratio
+2 Return on assets | ROA
+2 Quick ratio | Acid test | Acid-test ratio | Acid test ratio | Liquid ratio
+2 Gross margin | Gross profit margin | Gross profit ratio | GP margin
+2 Operating margin | Operating profit margin | EBIT margin
+2 Net present value | NPV
+2 Internal rate of return | IRR
+2 Payback period | Payback
+2 Beta | Beta coefficient
+2 Price-to-book ratio | P/B | PB | Price to book | PB ratio | P/B ratio | Price book | Market to book | Market-to-book | Price to book value
+2 Dividend payout ratio | Payout ratio | Dividend payout
+2 Interest cover | Interest coverage | Interest coverage ratio | Times interest earned | TIE | Interest cover ratio
+2 Market capitalisation | Market cap | Market capitalization | Market value
+2 Sharpe ratio | Sharpe
+2 Return on capital employed | ROCE
+3 EBITDA margin
+3 EV/EBITDA | EV to EBITDA | Enterprise multiple | Enterprise value to EBITDA | EV EBITDA
+3 Enterprise value | EV
+3 Price-to-sales ratio | P/S | Price to sales | PS ratio | Price sales
+3 PEG ratio | PEG | Price earnings to growth | Price/earnings to growth
+3 Asset turnover | Total asset turnover | Asset turnover ratio
+3 Inventory turnover | Stock turnover | Inventory turns | Stock turn | Inventory turnover ratio
+3 Receivables turnover | Debtors turnover | Accounts receivable turnover | Debtor turnover
+3 Days sales outstanding | DSO | Debtor days | Receivable days | Average collection period | Days receivable | Collection period
+3 Days inventory outstanding | DIO | Inventory days | Days in inventory | Stock days | Days sales of inventory
+3 Days payable outstanding | DPO | Creditor days | Payable days
+3 Payables turnover | Creditors turnover | Accounts payable turnover
+3 Cash conversion cycle | CCC | Cash cycle
+3 Debt ratio | Debt-to-assets | Debt to assets | Total debt ratio | Debt to total assets
+3 Equity multiplier | Financial leverage
+3 Equity ratio | Proprietary ratio
+3 Cash ratio
+3 Operating cash flow ratio | Cash flow ratio
+3 Free cash flow yield | FCF yield
+3 Free cash flow | FCF
+3 Earnings yield
+3 Dividend cover | Dividend coverage | Dividend coverage ratio
+3 Dividends per share | DPS | Dividend per share
+3 Book value per share | BVPS | Net tangible assets per share | NTA per share | NTA | Net tangible assets
+3 Return on invested capital | ROIC
+3 Weighted average cost of capital | WACC | Cost of capital
+3 Cost of equity
+3 Alpha | Jensen's alpha
+3 Standard deviation | Volatility
+3 Total shareholder return | TSR | Total return
+3 Compound annual growth rate | CAGR
+3 Net interest margin | NIM
+3 Cost-to-income ratio | Cost to income | CTI | Efficiency ratio
+3 Loan-to-value ratio | LVR | LTV | Loan to value | Loan to valuation ratio | Loan-to-valuation ratio
+3 Debt service coverage ratio | DSCR | Debt service cover
+3 Net debt to EBITDA | Debt to EBITDA | Net debt/EBITDA | Debt/EBITDA
+3 Franking credit yield | Grossed-up yield | Grossed-up dividend yield | Gross yield
+3 Management expense ratio | MER | Expense ratio | Total expense ratio | TER | ICR | Indirect cost ratio
+3 Yield to maturity | YTM
+3 Break-even point | Breakeven | Break even | Break-even
+3 Profitability index | PI | Benefit-cost ratio | Benefit cost ratio
+3 Accounting rate of return | ARR | Average rate of return
+3 DuPont analysis | DuPont | Du Pont identity | DuPont identity
+3 Working capital | Net working capital
+3 Rule of 72
+4 Treynor ratio | Treynor
+4 Sortino ratio | Sortino
+4 Information ratio
+4 Tracking error
+4 Value at risk | VaR
+4 Maximum drawdown | Max drawdown | Drawdown
+4 R-squared | R squared
+4 Duration | Macaulay duration | Modified duration
+4 Convexity
+4 Current yield | Running yield
+4 Coupon rate | Coupon
+4 Credit spread | Spread
+4 Capitalisation rate | Cap rate | Capitalization rate
+4 Rental yield | Gross rental yield | Net rental yield
+4 Funds from operations | FFO
+4 Price to cash flow | P/CF | Price to cash flow ratio | Price cash flow
+4 Price to free cash flow | P/FCF
+4 EV/Sales | EV to sales | EV/Revenue | Enterprise value to sales
+4 EV/EBIT | EV to EBIT
+4 Tobin's Q | Tobins Q | Q ratio | Kaldor's v
+4 Shiller PE | CAPE | Cyclically adjusted price-to-earnings | CAPE ratio | Shiller P/E | PE10
+4 Altman Z-score | Z-score | Altman Z | Z score
+4 Piotroski F-score | F-score | Piotroski score
+4 Economic value added | EVA
+4 Residual income
+4 Sustainable growth rate
+4 Retention ratio | Plowback ratio | Retention rate
+4 Fixed asset turnover
+4 Working capital turnover
+4 Fixed charge coverage | Fixed charge cover
+4 Capital adequacy ratio | CAR | Tier 1 capital ratio | CET1 | CET1 ratio | Common equity tier 1 | Tier 1 ratio
+4 Liquidity coverage ratio | LCR
+4 Net stable funding ratio | NSFR
+4 Loan-to-deposit ratio | Loan to deposit | LDR
+4 Non-performing loan ratio | NPL ratio | Bad debt ratio
+4 Combined ratio
+4 Loss ratio | Claims ratio
+4 Same-store sales | Like-for-like sales | Comparable sales | Comps
+4 Customer acquisition cost | CAC
+4 Lifetime value | LTV to CAC | Customer lifetime value | CLV
+4 Churn rate | Churn
+4 Annual recurring revenue | Monthly recurring revenue | MRR | Recurring revenue
+4 Burn rate | Cash burn
+4 Rule of 40
+4 Gross rate of return
+4 Operating leverage | Degree of operating leverage | DOL
+4 Margin of safety
+4 Contribution margin | Contribution margin ratio
+4 Net tangible asset backing | NTA backing
+4 Short interest ratio | Days to cover | Short interest
+4 Put-call ratio | Put call ratio | Put/call ratio
+4 Buffett indicator | Market cap to GDP
+4 Price to NAV | Premium to NAV | Discount to NAV | Price to net asset value
+5 Modigliani risk-adjusted performance | M2 | M squared | Modigliani-Modigliani measure
+5 Calmar ratio
+5 Omega ratio
+5 Sterling ratio
+5 Upside capture ratio | Capture ratio | Downside capture ratio
+5 Beneish M-score | M-score
+5 Ohlson O-score | O-score
+6 Graham number | Graham's number :: Benjamin Graham's ceiling for a defensive investor: the square root of 22.5 times earnings per share times book value per share.
+5 Defensive interval ratio | Defensive interval
+6 Texas ratio :: Devised by analyst Gerard Cassidy in the 1980s to spot failing Texas banks: bad loans divided by capital plus reserves. Above 100% spells trouble.
+5 Greeks delta | Delta
+5 Gamma
+5 Vega
+5 Theta
+5 Implied volatility | IV
+5 Cash return on capital invested | CROCI
+5 Return on net assets | RONA
+5 Return on tangible equity | ROTE | RoTE
+5 Return on risk-weighted assets | RoRWA
+5 Risk-adjusted return on capital | RAROC
+x Revenue | Sales | Profit | Net profit | Net income | Assets | Liabilities | Equity | Cash | EBIT | EBITDA | Debt | Dividends | Expenses | Turnover | Earnings :: A figure from the accounts, but not yet a ratio. What would you divide it by?
+x Ratio | Financial ratio | Liquidity ratio | Profitability ratio | Solvency ratio | Liquidity | Profitability | Solvency | Multiple :: That is a family of ratios. Name one member of it.
+x GDP | CPI | Inflation | Unemployment rate | Interest rate | Cash rate | Exchange rate :: A number for a whole economy, not for a company or an investment.
+x Golden ratio | Pi | Fibonacci :: A fine number, but not one an analyst would put in a company report.

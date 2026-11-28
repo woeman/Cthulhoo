@@ -1,0 +1,121 @@
+id: chemistry-alloys
+text: Name an alloy.
+flavor: Two metals melted into one. Neither was asked, and neither can ever leave.
+rules: Any mixture of a metal with other elements, by its common or trade name.
+section: Metals
+---
+1 Steel | Carbon steel | Mild steel
+1 Bronze
+1 Brass
+1 Stainless steel | Stainless | Inox
+2 Sterling silver | Sterling | 925 silver
+2 Pewter
+2 Cast iron | Pig iron | Wrought iron
+2 White gold
+2 Rose gold | Pink gold | Red gold
+2 Solder
+2 Amalgam | Dental amalgam | Mercury amalgam
+2 Gold | 18 carat gold | 9 carat gold | 14 carat gold | Yellow gold | 18k gold
+3 Electrum | Green gold
+3 Duralumin | Duraluminium | Dural
+3 Nichrome
+3 Invar
+3 Gunmetal | Red brass
+3 Cupronickel | Copper-nickel | Cupro-nickel
+3 Nickel silver | German silver | Alpaca | Nickel brass
+3 Nitinol
+3 Chromoly | Chrome-moly | Chromium-molybdenum steel
+3 Tool steel | High-speed steel | High speed steel
+3 Damascus steel | Wootz steel | Wootz | Damascus
+4 Monel
+4 Inconel
+4 Hastelloy
+4 Zamak | Mazak | Pot metal | White metal
+4 Babbitt | Babbitt metal | Bearing metal
+4 Bell metal
+4 Britannia metal | Britannium
+4 Britannia silver
+4 Phosphor bronze
+4 Aluminium bronze | Aluminum bronze
+4 Manganese bronze
+4 Silicon bronze
+4 Beryllium copper | Beryllium bronze
+4 Constantan
+4 Manganin
+4 Alnico
+4 Mu-metal | Mumetal
+4 Permalloy
+4 Kovar
+4 Elinvar
+4 Stellite
+4 Vitallium
+4 Magnalium
+4 Elektron
+4 Field's metal
+6 Wood's metal | Woods metal | Lipowitz's alloy | Cerrobend :: Melts at about 70 degrees. The classic chemists' prank is a teaspoon cast from it, which vanishes into a hot cup of tea as the victim stirs.
+4 Rose's metal | Rose metal
+4 Galinstan
+4 NaK | Sodium-potassium alloy
+4 Type metal
+4 Terne | Terneplate
+4 Spiegeleisen | Ferromanganese | Ferrochrome | Ferrosilicon | Ferroalloy
+4 Muntz metal
+4 Admiralty brass | Naval brass | Cartridge brass
+4 Dutch metal | Dutch gold
+4 Pinchbeck
+4 Tombac
+4 Nordic gold
+4 Billon
+4 Shakudo | Shakudō
+4 Shibuichi
+4 Tumbaga
+4 Corinthian bronze | Corinthian brass
+4 Hepatizon
+6 Orichalcum | Aurichalcum :: Plato said it gleamed on the walls of Atlantis, second only to gold. Ingots found in a 2,600-year-old wreck off Sicily suggest it was a kind of brass.
+4 Speculum metal | Speculum
+4 Maraging steel
+4 Spring steel
+4 Weathering steel | Corten | Cor-ten | COR-TEN steel
+4 Manganese steel | Hadfield steel | Mangalloy
+4 Silicon steel | Electrical steel
+4 Crucible steel
+4 Bulat steel | Bulat
+4 Tamahagane
+4 Surgical steel | 316L
+4 Titanium alloy | Ti-6Al-4V | Grade 5 titanium
+4 Aluminium alloy | Aluminum alloy | 6061 | 7075 | Aircraft aluminium
+4 Magnesium alloy | Mag alloy
+4 Zircaloy
+4 Ferrocerium | Mischmetal | Lighter flint
+4 Cunife | Cunico
+4 Fernico
+4 Nicrosil | Nisil | Chromel | Alumel
+4 Platinum-iridium | Platiniridium
+4 Osmiridium | Iridosmine
+4 Goloid
+4 Argentium | Argentium silver
+4 Coin silver
+4 Crown gold
+4 Purple gold | Blue gold | Black gold
+4 Antimonial lead | Hard lead
+4 Gilding metal
+4 Prince's metal | Prince Rupert's metal
+4 Latten
+4 Paktong
+4 Tibetan silver
+4 Melchior
+4 Kanthal
+4 Waspaloy
+4 Rene 41 | René 41
+4 Nimonic
+4 Incoloy
+4 Sendust
+4 Terfenol-D
+4 Staballoy
+4 Reynolds 531 | 531
+4 Y alloy
+4 Hiduminium
+4 Birmabright
+x Iron | Copper | Tin | Zinc | Aluminium | Aluminum | Silver | Platinum | Titanium | Nickel | Lead | Mercury | Chromium | Tungsten :: That is a pure element. An alloy is a blend of a metal with something else.
+x Alloy | Metal | Mixture | Carbon fibre | Fibreglass | Concrete | Plastic | Glass | Kevlar | Ceramic | Graphene :: Not an alloy: there is no metal blended into another here.
+x Adamantium | Mithril | Vibranium | Unobtainium | Valyrian steel :: Sadly fictional.

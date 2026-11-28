@@ -1,0 +1,153 @@
+id: anatomy-muscles
+text: Name a muscle in the human body.
+flavor: Something under the skin tightens when you read this. You did not ask it to.
+rules: Any named muscle or well-known muscle group, by its anatomical or gym name.
+section: Muscles
+---
+1 Biceps | Bicep | Biceps brachii | Bis
+1 Triceps | Tricep | Triceps brachii | Tris
+1 Heart | Cardiac muscle | Myocardium | Heart muscle
+1 Quadriceps | Quads | Quadriceps femoris | Quad | Thigh muscle
+1 Hamstrings | Hamstring | Hammies
+1 Abdominals | Abs | Rectus abdominis | Six-pack | Six pack | Abdominal muscles | Stomach muscles
+1 Pectorals | Pecs | Pectoralis major | Pectoral | Pec | Chest muscle | Pectoralis
+1 Gluteus maximus | Glutes | Gluteals | Gluteus | Glute | Buttocks | Bum
+1 Calf | Calves | Calf muscle | Gastrocnemius | Triceps surae
+2 Deltoid | Deltoids | Delts | Shoulder muscle | Delt
+2 Trapezius | Traps | Trap
+2 Latissimus dorsi | Lats | Lat | Latissimus
+2 Diaphragm
+2 Tongue
+2 Obliques | External oblique | Internal oblique | Oblique | External obliques | Internal obliques
+2 Rotator cuff
+2 Forearm | Forearm muscles
+2 Groin | Adductors | Hip adductors
+2 Hip flexors | Hip flexor | Iliopsoas
+2 Core | Core muscles
+3 Soleus
+3 Masseter | Jaw muscle
+3 Sartorius
+3 Gluteus medius
+3 Gluteus minimus
+3 Rectus femoris
+3 Vastus lateralis
+3 Vastus medialis | VMO
+3 Vastus intermedius
+3 Biceps femoris
+3 Semitendinosus
+3 Semimembranosus
+3 Tibialis anterior | Shin muscle
+3 Tibialis posterior
+3 Rhomboids | Rhomboid | Rhomboid major | Rhomboid minor
+3 Serratus anterior | Serratus | Boxer's muscle
+3 Pectoralis minor
+3 Transversus abdominis | Transverse abdominis | TVA
+3 Erector spinae | Spinal erectors | Lower back muscles
+3 Sternocleidomastoid | SCM | Sternomastoid
+3 Supraspinatus
+3 Infraspinatus
+3 Teres minor
+3 Teres major
+3 Subscapularis
+3 Brachialis
+3 Brachioradialis
+3 Coracobrachialis
+3 Psoas | Psoas major | Psoas minor
+3 Iliacus
+3 Piriformis
+3 Adductor longus | Adductor magnus | Adductor brevis
+3 Gracilis
+3 Pectineus
+3 Tensor fasciae latae | TFL | Tensor fascia lata
+3 Intercostals | Intercostal muscles | External intercostals | Internal intercostals
+3 Pelvic floor | Pelvic floor muscles | Levator ani | Pubococcygeus | Kegel muscles
+3 Temporalis
+3 Orbicularis oculi
+3 Orbicularis oris
+3 Buccinator
+3 Zygomaticus | Zygomaticus major | Zygomaticus minor | Smiling muscle
+3 Frontalis | Occipitofrontalis
+3 Platysma
+3 Levator scapulae
+3 Multifidus
+3 Quadratus lumborum | QL
+3 Popliteus
+3 Plantaris
+3 Peroneus longus | Fibularis longus | Peroneals | Peroneus brevis | Fibularis brevis
+3 Anconeus
+3 Pronator teres
+3 Supinator
+3 Flexor carpi radialis
+3 Flexor carpi ulnaris
+3 Extensor carpi radialis | Extensor carpi radialis longus | Extensor carpi radialis brevis
+3 Extensor carpi ulnaris
+3 Palmaris longus
+3 Flexor digitorum profundus | Flexor digitorum superficialis | Flexor digitorum
+3 Extensor digitorum | Extensor digitorum longus
+3 Flexor hallucis longus | Extensor hallucis longus
+3 Scalenes | Scalene | Anterior scalene
+3 Splenius capitis | Splenius
+3 Obturator internus | Obturator externus
+3 Quadratus femoris
+3 Gemellus | Gemelli | Superior gemellus | Inferior gemellus
+3 Detrusor | Bladder muscle
+3 Sphincter | Anal sphincter | Pyloric sphincter | External anal sphincter
+3 Uterus | Myometrium
+3 Iris | Iris sphincter | Pupillary sphincter
+3 Ciliary muscle
+3 Smooth muscle | Skeletal muscle
+4 Lateral pterygoid | Medial pterygoid | Pterygoids | Pterygoid
+4 Digastric
+4 Mylohyoid
+4 Geniohyoid
+4 Sternohyoid
+4 Omohyoid
+4 Thyrohyoid | Sternothyroid
+4 Genioglossus
+4 Hyoglossus | Styloglossus | Palatoglossus
+4 Risorius
+4 Mentalis
+4 Procerus
+4 Corrugator supercilii | Corrugator
+4 Nasalis
+4 Levator labii superioris | Levator labii superioris alaeque nasi
+4 Depressor anguli oris
+4 Levator palpebrae superioris
+4 Superior rectus | Inferior rectus | Medial rectus | Lateral rectus
+4 Superior oblique | Inferior oblique
+4 Tensor tympani
+4 Cricothyroid | Posterior cricoarytenoid
+4 Longus colli | Longus capitis
+4 Semispinalis | Semispinalis capitis
+4 Longissimus
+4 Iliocostalis
+4 Spinalis
+4 Rotatores
+4 Serratus posterior | Serratus posterior superior | Serratus posterior inferior
+4 Subclavius
+4 Pronator quadratus
+4 Flexor pollicis longus | Flexor pollicis brevis
+4 Abductor pollicis longus | Abductor pollicis brevis
+4 Extensor pollicis longus | Extensor pollicis brevis
+4 Opponens pollicis
+4 Adductor pollicis
+4 Lumbricals | Lumbrical
+4 Interossei | Dorsal interossei | Palmar interossei
+4 Abductor digiti minimi
+4 Extensor indicis
+4 Extensor digiti minimi
+4 Pyramidalis
+4 Cremaster
+4 Bulbospongiosus | Ischiocavernosus
+4 Coccygeus
+4 Abductor hallucis
+4 Flexor digitorum brevis | Flexor digitorum longus
+4 Quadratus plantae
+4 Peroneus tertius | Fibularis tertius
+4 Articularis genus
+4 Dartos
+6 Stapedius :: The smallest skeletal muscle in the body, barely a millimetre long. It steadies the stapes, the smallest bone, to protect the inner ear from loud noise.
+6 Arrector pili | Arrector pilorum | Goosebump muscle | Erector pili :: The tiny muscles at the root of each hair. When they tighten, the hair stands on end. It is how you get goosebumps.
+x Achilles | Achilles tendon | Tendon | Ligament | ACL | Cartilage | Hamstring tendon | IT band | Iliotibial band :: That is connective tissue, not a muscle. It ties muscle to bone or bone to bone.
+x Muscle | Muscles | Arm | Leg | Back | Chest | Shoulder | Thigh | Neck | Stomach :: That is a region. Name a muscle found there.
+x Femur | Skull | Rib | Spine | Brain | Liver | Kidney | Lung | Skin :: Not a muscle.
