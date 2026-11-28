@@ -12,30 +12,30 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (6)
 
-- Kangaroo — Roo | Kangaroos | Kanga | Kangas | Joey | Joeys | Kangaru | Kangoroo | Kangarroo
-- Koala — Koala bear | Native bear | Kaola | Phascolarctos | Phascolarctos cinereus
+- Kangaroo — Roo | Kangaroos | Kanga | Kangas | Joey | Joeys | Kangaru | Kangoroo | Kangarroo | Kanguroo | Gangaroo | Kangooroo | Känguru | Kangourou | Canguro | Canguru | Boomer | Flyer | Old man kangaroo | Old man roo | Big roo | Skippy | Skippy the bush kangaroo | Kangro
+- Koala — Koala bear | Native bear | Kaola | Phascolarctos | Phascolarctos cinereus | Koaler | Kowalla
 - Wombat — Vombatus | Vombatidae | Vombatid
-- Wallaby — Wallabee | Wallabie | Wallabees
+- Wallaby — Wallabee | Wallabie | Wallabees | Wallabi | Wallabys | Wolaby | Wallerby
 - Opossum — Opposum | Opposums | American opossum | Didelphid | Didelphidae
-- Tasmanian Devil — Devil | Taz | Tassie Devil | Tas devil | Sarcophilus | Sarcophilus harrisii
+- Tasmanian Devil — Devil | Taz | Tassie Devil | Tas devil | Sarcophilus | Sarcophilus harrisii | Tazzy devil | Tazzie devil
 
 ### Tier 2: common (11)
 
-- Possum — Australian possum
+- Possum — Australian possum | Posom
 - Sugar Glider — Glider | Gliders | Gliding possum | Petaurus | Petaurus breviceps
-- Quokka — Kwokka | Setonix | Setonix brachyurus
-- Thylacine — Tasmanian Tiger | Tasmanian Wolf | Marsupial Wolf | Tassie Tiger | Thylacinus | Thylacinus cynocephalus
-- Bandicoot — Crash Bandicoot | Peramelid | Peramelidae
+- Quokka — Kwokka | Setonix | Setonix brachyurus | Quoker | Quokker | Quaka
+- Thylacine — Tasmanian Tiger | Tasmanian Wolf | Marsupial Wolf | Tassie Tiger | Thylacinus | Thylacinus cynocephalus | Marsupial tiger | Tassie wolf
+- Bandicoot — Crash Bandicoot | Peramelid | Peramelidae | Bandicute | Bandycute
 - Numbat — Banded Anteater | Walpurti | Myrmecobius | Myrmecobius fasciatus
 - Bilby — Rabbit-eared Bandicoot | Greater Bilby | Bilbie | Dalgyte | Easter bilby | Macrotis | Macrotis lagotis
-- Wallaroo — Euro | Common wallaroo | Eastern wallaroo | Hill kangaroo | Osphranter | Osphranter robustus
-- Tree Kangaroo — Tree roo | Dendrolagus
-- Quoll — Native Cat | Dasyure | Dasyurus
-- Grey Kangaroo — Gray Kangaroo | Grey roo | Gray roo
+- Wallaroo — Euro | Common wallaroo | Eastern wallaroo | Hill kangaroo | Osphranter | Osphranter robustus | Wallaru
+- Tree Kangaroo — Tree roo | Dendrolagus | Tree kanga
+- Quoll — Native Cat | Dasyure | Dasyurus | Kwoll
+- Grey Kangaroo — Gray Kangaroo | Grey roo | Gray roo | Grey kanga
 
 ### Tier 3: known to fans (29)
 
-- Red Kangaroo — Big red | Red roo | Osphranter rufus | Macropus rufus
+- Red Kangaroo — Big red | Red roo | Osphranter rufus | Macropus rufus | Blue flyer
 - Eastern Grey Kangaroo — Eastern Gray Kangaroo | Eastern grey | Great grey kangaroo | Forester | Forester kangaroo | Macropus giganteus
 - Western Grey Kangaroo — Western Gray Kangaroo | Western grey | Mallee kangaroo | Black-faced kangaroo | Sooty kangaroo | Kangaroo Island kangaroo | Macropus fuliginosus
 - Pademelon — Thylogale
@@ -159,7 +159,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wongai Ningaui
 - Nimbadon
 - Wynyardia
-- Ekaltadeta
+- Ekaltadeta — Killer kangaroo | Killer rat-kangaroo
 - Propleopus
 - Sthenurus
 - Simosthenurus
@@ -321,7 +321,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pig-footed Bandicoot — Chaeropus
 - Monito del Monte — Dromiciops | Colocolo opossum
 
-## Refused on purpose (17)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -342,3 +342,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hopping mouse — "An Australian rodent. It hops, but has no pouch."
 - Flying fox | Fruit bat — "A fruit bat, not a marsupial, though Australia has plenty of them."
 - Megalania — "A giant lizard of Ice Age Australia, not a marsupial."
+- Emu | Emus — "A bird. It shares Australia's coat of arms with the kangaroo, but not the pouch."
+- Kookaburra — "A bird. No pouch, though it laughs as if it knew better."
+- Cockatoo | Galah | Cassowary | Lyrebird | Magpie — "A bird. Feathers, yes. Pouch, no."
+- Crocodile | Croc | Saltie | Goanna | Frill-necked lizard | Blue-tongue lizard | Snake — "A reptile. Australia has plenty of those too."

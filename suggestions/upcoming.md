@@ -7,7 +7,7 @@ Each day's dive has seven questions, the same for every player on that local dat
 1. [Name a dead or extinct language.](questions/dead-languages.md) (`dead-languages`, 353 answers so far)
 2. [Name a country with a Mediterranean coastline.](questions/mediterranean-countries.md) (`mediterranean-countries`, 22 answers so far)
 3. [Name a play by William Shakespeare.](questions/shakespeare-plays.md) (`shakespeare-plays`, 40 answers so far)
-4. [Name a board game.](questions/board-games.md) (`board-games`, 347 answers so far)
+4. [Name a board game.](questions/board-games.md) (`board-games`, 359 answers so far)
 5. [Name a card of the tarot's Major Arcana.](questions/tarot-major-arcana.md) (`tarot-major-arcana`, 22 answers so far)
 6. [Name a vegetable.](questions/vegetables.md) (`vegetables`, 221 answers so far)
 7. [Name a republic of the Soviet Union.](questions/soviet-republics.md) (`soviet-republics`, 17 answers so far)
@@ -17,10 +17,10 @@ Each day's dive has seven questions, the same for every player on that local dat
 1. [Name a letter of the Greek alphabet.](questions/greek-letters.md) (`greek-letters`, 31 answers so far)
 2. [Name a US state.](questions/us-states.md) (`us-states`, 50 answers so far)
 3. [Name a chemical element.](questions/chemical-elements.md) (`chemical-elements`, 118 answers so far)
-4. [Name a type of boat or ship.](questions/boats-ships.md) (`boats-ships`, 304 answers so far)
+4. [Name a type of boat or ship.](questions/boats-ships.md) (`boats-ships`, 306 answers so far)
 5. [Name a god or goddess of Greek mythology.](questions/greek-gods.md) (`greek-gods`, 247 answers so far)
-6. [Name a kind of shark.](questions/sharks.md) (`sharks`, 277 answers so far)
-7. [Name a sport played with a racket or a bat.](questions/racket-bat-sports.md) (`racket-bat-sports`, 62 answers so far)
+6. [Name a kind of shark.](questions/sharks.md) (`sharks`, 279 answers so far)
+7. [Name a sport played with a racket or a bat.](questions/racket-bat-sports.md) (`racket-bat-sports`, 63 answers so far)
 
 ## Tuesday, 1 December 2026
 
@@ -36,7 +36,7 @@ Each day's dive has seven questions, the same for every player on that local dat
 
 1. [Name a Pixar film or short.](questions/pixar-films.md) (`pixar-films`, 89 answers so far)
 2. [Name a landlocked country.](questions/landlocked-countries.md) (`landlocked-countries`, 45 answers so far)
-3. [Name a unit of measurement.](questions/units.md) (`units`, 1246 answers so far)
+3. [Name a unit of measurement.](questions/units.md) (`units`, 1247 answers so far)
 4. [Name a variety of apple.](questions/apple-varieties.md) (`apple-varieties`, 287 answers so far)
 5. [Name a king or queen of England or Britain.](questions/english-monarchs.md) (`english-monarchs`, 87 answers so far)
 6. [Name a country that has hosted the men's football World Cup.](questions/world-cup-hosts.md) (`world-cup-hosts`, 19 answers so far)
@@ -45,19 +45,19 @@ Each day's dive has seven questions, the same for every player on that local dat
 ## Thursday, 3 December 2026
 
 1. [Name a song by the Beatles.](questions/beatles-songs.md) (`beatles-songs`, 319 answers so far)
-2. [Name a sea monster or water spirit from myth or folklore.](questions/sea-monsters.md) (`sea-monsters`, 230 answers so far)
+2. [Name a sea monster or water spirit from myth or folklore.](questions/sea-monsters.md) (`sea-monsters`, 231 answers so far)
 3. [Name a word with no vowels: no A, E, I, O or U.](questions/no-vowel-words.md) (`no-vowel-words`, 93 answers so far)
-4. [Name a fruit.](questions/fruits.md) (`fruits`, 259 answers so far)
-5. [Name a famous shipwreck.](questions/shipwrecks.md) (`shipwrecks`, 411 answers so far)
+4. [Name a fruit.](questions/fruits.md) (`fruits`, 294 answers so far)
+5. [Name a famous shipwreck.](questions/shipwrecks.md) (`shipwrecks`, 414 answers so far)
 6. [Name a whale, dolphin or porpoise.](questions/whales-dolphins.md) (`whales-dolphins`, 169 answers so far)
 7. [Name a knot.](questions/knots.md) (`knots`, 243 answers so far)
 
 ## Friday, 4 December 2026
 
-1. [Name a cheese.](questions/cheeses.md) (`cheeses`, 596 answers so far)
+1. [Name a cheese.](questions/cheeses.md) (`cheeses`, 624 answers so far)
 2. [Name a moon in our solar system.](questions/moons.md) (`moons`, 202 answers so far)
 3. [Name a currency.](questions/currencies.md) (`currencies`, 239 answers so far)
-4. [Name a breed of dog.](questions/dog-breeds.md) (`dog-breeds`, 597 answers so far)
+4. [Name a breed of dog.](questions/dog-breeds.md) (`dog-breeds`, 600 answers so far)
 5. [Name a god or goddess of ancient Egypt.](questions/egyptian-gods.md) (`egyptian-gods`, 141 answers so far)
 6. [Name a palindrome: a word or phrase that reads the same backwards.](questions/palindromes.md) (`palindromes`, 354 answers so far)
 7. [Name a Disney animated film that isn't from Pixar.](questions/disney-animated.md) (`disney-animated`, 152 answers so far)
@@ -65,7 +65,7 @@ Each day's dive has seven questions, the same for every player on that local dat
 ## Saturday, 5 December 2026
 
 1. [Name a constellation.](questions/constellations.md) (`constellations`, 88 answers so far)
-2. [Name a cocktail.](questions/cocktails.md) (`cocktails`, 350 answers so far)
+2. [Name a cocktail.](questions/cocktails.md) (`cocktails`, 351 answers so far)
 3. [Name a Formula One world drivers' champion.](questions/f1-champions.md) (`f1-champions`, 36 answers so far)
 4. [Name a musical instrument.](questions/musical-instruments.md) (`musical-instruments`, 550 answers so far)
 5. [Name a desert.](questions/deserts.md) (`deserts`, 135 answers so far)

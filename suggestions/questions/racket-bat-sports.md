@@ -6,7 +6,7 @@ Rules: Anything swung to hit a ball or shuttle counts, including paddles. Sticks
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (62 answers)
+## Accepted now (63 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -42,7 +42,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Basque pelota — Pelota | Pala | Paleta | Pelota vasca | Xare | Fronton | Pala corta | Paleta fronton
 - Paddleball
 
-### Tier 5: expert (39)
+### Tier 5: expert (40)
 
 - Rackets — Racquets
 - Platform tennis — Platform paddle | Platform paddle tennis
@@ -83,6 +83,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Stické — Stické tennis
 - Longue paume
 - Teqpong
+- Speed-ball — Egyptian speedball
 
 ### Tier 6: rare jackpots (3)
 

@@ -13,15 +13,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (5)
 
 - Lion — African Lion | White Lion | Lioness | Panthera leo
-- Tiger — White Tiger | Tigress | Panthera tigris | Golden tiger
-- Leopard — Panther | Black Panther | Black Leopard | Panthera pardus | Melanistic leopard
-- Cheetah — Acinonyx jubatus | Hunting leopard
+- Tiger — White Tiger | Tigress | Panthera tigris | Golden tiger | Tyger | Toger | Tiiger
+- Leopard — Panther | Black Panther | Black Leopard | Panthera pardus | Melanistic leopard | Leapord | Lepord | Pantha
+- Cheetah — Acinonyx jubatus | Hunting leopard | Chita
 - Jaguar — Black Jaguar | Panthera onca | Melanistic jaguar
 
 ### Tier 2: common (9)
 
-- Puma — Cougar | Mountain Lion | Catamount | Puma concolor
-- Lynx
+- Puma — Cougar | Mountain Lion | Catamount | Puma concolor | Pooma
+- Lynx — Links
 - Snow Leopard — Ounce | Irbis | Panthera uncia | Uncia uncia
 - Bobcat — Lynx rufus | Bay lynx | Red lynx
 - Ocelot — Leopardus pardalis
@@ -154,8 +154,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Liger | Tigon | Tiglon | Litigon | Tiliger — "A lion-tiger hybrid, born only in captivity."
 - Hyena — "Not a cat, though closer to cats than to dogs."
 - Fossa — "A Madagascan predator that looks like a cat but isn't one."
-- Civet | Genet | Binturong | Linsang | Palm civet | African civet | Mongoose | Ringtail | Ringtail cat | Cacomistle | Bearcat — "Cat-like, but not a cat."
-- Sphynx | Siamese | Persian | Maine Coon | Savannah | Tabby | Ragdoll | British Shorthair | Russian Blue | Scottish Fold | Abyssinian | Burmese | Birman | Norwegian Forest Cat | Exotic Shorthair | Devon Rex | Cornish Rex | Himalayan | American Shorthair | Oriental Shorthair | Turkish Van | Turkish Angora | Bombay | Egyptian Mau | Ragamuffin | Somali | Balinese | Tonkinese | Ocicat | Chartreux | Singapura | Korat | Japanese Bobtail | American Curl | Selkirk Rex | LaPerm | Munchkin | Havana Brown | Snowshoe | Burmilla | Nebelung | Toyger | Chausie | Pixie-bob | American Bobtail | Kurilian Bobtail | Peterbald | Donskoy | British Longhair | Cymric | Javanese | Colorpoint Shorthair | Oriental Longhair | Serengeti | Highlander | Minskin | Bambino | Dwelf | Ukrainian Levkoy | Australian Mist | Asian | Tiffanie | European Shorthair | Exotic Longhair | Scottish Straight | Neva Masquerade | American Wirehair | Minuet | German Rex | Chantilly-Tiffany | Thai | Arabian Mau | Aegean | Cyprus | Brazilian Shorthair | Ural Rex | Sokoke | Ojos Azules | Mekong Bobtail | York Chocolate | Bohemian Rex | Tennessee Rex | Kinkalow | Lambkin | Skookum | Safari | Mandalay | Raas | Toybob | Suphalak | Sam Sawet | Foldex | Kanaani | Anatolian | Ussuri | Seychellois | Dragon Li | Karelian Bobtail | Lykoi | Khao Manee — "A domestic breed, not a wild cat."
+- Civet | Genet | Binturong | Linsang | Palm civet | African civet | Mongoose | Ringtail | Ringtail cat | Cacomistle | Bearcat | Meerkat | Meercat | Polecat — "Cat-like, but not a cat."
+- Sphynx | Siamese | Persian | Maine Coon | Savannah | Tabby | Ragdoll | British Shorthair | Russian Blue | Scottish Fold | Abyssinian | Burmese | Birman | Norwegian Forest Cat | Exotic Shorthair | Devon Rex | Cornish Rex | Himalayan | American Shorthair | Oriental Shorthair | Turkish Van | Turkish Angora | Bombay | Egyptian Mau | Ragamuffin | Somali | Balinese | Tonkinese | Ocicat | Chartreux | Singapura | Korat | Japanese Bobtail | American Curl | Selkirk Rex | LaPerm | Munchkin | Havana Brown | Snowshoe | Burmilla | Nebelung | Toyger | Chausie | Pixie-bob | American Bobtail | Kurilian Bobtail | Peterbald | Donskoy | British Longhair | Cymric | Javanese | Colorpoint Shorthair | Oriental Longhair | Serengeti | Highlander | Minskin | Bambino | Dwelf | Ukrainian Levkoy | Australian Mist | Asian | Tiffanie | European Shorthair | Exotic Longhair | Scottish Straight | Neva Masquerade | American Wirehair | Minuet | German Rex | Chantilly-Tiffany | Thai | Arabian Mau | Aegean | Cyprus | Brazilian Shorthair | Ural Rex | Sokoke | Ojos Azules | Mekong Bobtail | York Chocolate | Bohemian Rex | Tennessee Rex | Kinkalow | Lambkin | Skookum | Safari | Mandalay | Raas | Toybob | Suphalak | Sam Sawet | Foldex | Kanaani | Anatolian | Ussuri | Seychellois | Dragon Li | Karelian Bobtail | Lykoi | Khao Manee | Bengal cat | Bengal kitten — "A domestic breed, not a wild cat."
 - Thylacine | Tasmanian Tiger | Thylacosmilus | Marsupial lion | Thylacoleo | Tiger quoll | Native cat — "A marsupial, not a cat."
 - Wampus cat — "A cat of Appalachian folklore. Unconfirmed."
 - Panthera — "A genus: lions, tigers, leopards, jaguars and snow leopards. Name one."

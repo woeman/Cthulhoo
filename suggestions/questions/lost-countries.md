@@ -6,13 +6,13 @@ Rules: Any country, empire or kingdom that no longer exists, including old colon
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (759 answers)
+## Accepted now (763 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (9)
 
-- Soviet Union — USSR | Union of Soviet Socialist Republics | CCCP | Soviet Russia | Soviets | SSSR | Soviet Empire | Union of Soviet Socialist Republic
+- Soviet Union — USSR | Union of Soviet Socialist Republics | CCCP | Soviet Russia | Soviets | SSSR | Soviet Empire | Union of Soviet Socialist Republic | ISSR | YSSR
 - Yugoslavia — Kingdom of Yugoslavia | SFR Yugoslavia | Socialist Federal Republic of Yugoslavia | Jugoslavia | Federal People's Republic of Yugoslavia | SFRY | SFRJ | Kingdom of Serbs, Croats and Slovenes | Kingdom of SHS | Yugoslav Republic | Jugoslavija
 - Czechoslovakia — ČSSR | ČSFR | Czechoslovak Socialist Republic | Czechoslovak Republic | Czech and Slovak Federative Republic | Czech and Slovak Federal Republic | Czechoslovak Federative Republic | Czechslovakia | Chekoslovakia | Checkoslovakia
 - East Germany — GDR | DDR | German Democratic Republic | Deutsche Demokratische Republik | Communist Germany | Communist East Germany | Ostdeutschland | East German Republic
@@ -84,7 +84,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Serbia and Montenegro — Federal Republic of Yugoslavia | FR Yugoslavia | FRY | State Union of Serbia and Montenegro
 - Kievan Rus' — Kyivan Rus | Rus' | Kiev Rus | Kievan Russia
 - Francia — Frankish Empire | Carolingian Empire | Kingdom of the Franks | Franks | Frankish Kingdom | Merovingian Kingdom | Merovingians | Carolingians | Empire of Charlemagne | Charlemagne's empire | Frankish Realm
-- Al-Andalus — Caliphate of Córdoba | Moorish Spain | Emirate of Córdoba | Islamic Spain | Muslim Spain | Andalus
+- Al-Andalus — Caliphate of Córdoba | Moorish Spain | Emirate of Córdoba | Islamic Spain | Muslim Spain | Andalus | Cordoba
 - Abbasid Caliphate — Abbasids | Abbasid Empire | Abbasid dynasty | Caliphate of Baghdad | Caliphate
 - Umayyad Caliphate — Umayyads | Umayyad Empire | Umayyad dynasty | Caliphate of Damascus
 - Safavid Empire — Safavid Persia | Safavids | Safavid dynasty | Safavid Iran
@@ -111,7 +111,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Han dynasty — Han China | Han Empire | Han | Western Han | Eastern Han
 - Empire of Japan — Imperial Japan | Japanese Empire | Great Japanese Empire | Dai Nippon Teikoku | Japanese Imperial Empire
 - British Raj — British India | Indian Empire | The Raj | British Indian Empire
-- East Pakistan
+- East Pakistan — Est Pakistan | Eest Pakistan | Aest Pakistan
 - French Indochina — Indochina | Indochinese Union
 - Belgian Congo
 - Congo Free State — Free State of the Congo | État indépendant du Congo
@@ -219,7 +219,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tang dynasty — Tang | Tang Empire | Tang China
 - Song dynasty — Song | Sung dynasty | Song China | Northern Song | Southern Song | Song Empire
 - Yuan dynasty — Yuan | Yuan Empire | Great Yuan
-- Korean Empire — Daehan Empire | Empire of Korea | Great Korean Empire
+- Korean Empire — Daehan Empire | Empire of Korea | Great Korean Empire | Korea | Unified Korea | Old Korea | Imperial Korea | Corea
 - Joseon — Chosŏn | Chosun | Joseon dynasty | Joseon Korea | Kingdom of Joseon | Yi dynasty
 - Ryukyu Kingdom — Ryukyu
 - Sultanate of Malacca — Malacca Sultanate | Melaka Sultanate
@@ -337,7 +337,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Teotihuacan
 - Chimú — Kingdom of Chimor | Chimor | Chimu Empire
 
-### Tier 5: expert (442)
+### Tier 5: expert (446)
 
 - Kingdom of Westphalia
 - Confederation of the Rhine
@@ -384,7 +384,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - California Republic — Bear Flag Republic
 - Peru-Bolivian Confederation
 - Tikal — Mutal
-- Kingdom of Sarawak — Raj of Sarawak
+- Kingdom of Sarawak — Raj of Sarawak | Sarawak
 - Champa
 - Pagan Kingdom — Bagan
 - Kingdom of Kandy
@@ -428,7 +428,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Baekje — Paekche
 - Lan Xang
 - North German Confederation
-- Khanate of Kazan — Kazan Khanate
+- Khanate of Kazan — Kazan Khanate | Kazan
 - Bukhara — Emirate of Bukhara | Khanate of Bukhara
 - Khiva — Khanate of Khiva
 - Kingdom of Finland
@@ -520,7 +520,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Septinsular Republic — United States of the Ionian Islands | Ionian Islands
 - Principality of Samos
 - Despotate of the Morea — Morea | Despotate of Morea
-- Empire of Nicaea — Nicaean Empire
+- Empire of Nicaea — Nicaean Empire | Nicaea
 - Principality of Achaea
 - Duchy of Athens
 - Kingdom of Thessalonica
@@ -774,13 +774,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Palenque
 - Chichen Itza
 - Kʼicheʼ Kingdom — Quiché Kingdom
-- Kingdom of Tahiti
+- Kingdom of Tahiti — Tahiti
 - Gilbert and Ellice Islands
 - Trust Territory of the Pacific Islands
 - German New Guinea
 - Dutch New Guinea — Netherlands New Guinea
 - German Samoa
 - Tuʻi Tonga Empire — Tongan Empire
+- West Pakistan
+- Couto Misto — Couto Mixto | Coto Mixto
+- Dutch Brazil — New Holland | Nieuw Holland
+- Hutt River — Principality of Hutt River | Hutt River Province | Hutt River Principality
 
 ### Tier 6: rare jackpots (2)
 
@@ -821,8 +825,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Ancient Greece | Ancient Greeks — "Never one country: a web of rival city-states."
 - Grenada — "Still here, in the Caribbean."
 - Palau — "Still here, in the Pacific."
-- Korea — "Two countries still carry the name."
 - Vikings | Viking Empire | Viking kingdom — "Raiders and traders from several kingdoms, never one country of their own."
 - Tartary | Tartaria | Great Tartary | Grand Tartary — "A vague old European name for the lands of Central and North Asia, never one country."
 - Pangaea | Pangea | Gondwana | Gondwanaland | Laurasia — "A supercontinent, millions of years before there were countries."
+- Van Diemen's Land | Van Diemen — "Renamed Tasmania in 1856. Same island, new name."
 - Refused without a reason (near misses of real answers): Kingdom of Algeria | Kingdom of Argentina | Kingdom of Austria | Kingdom of Bahrain | Kingdom of Belize | Republic of Belize | Republic of Benin | Kingdom of Bolivia | Kingdom of Brunei | Kingdom of Canada | Kingdom of Chad | Kingdom of Chile | Kingdom of China | Republic of Costa Rica | Kingdom of Cuba | Kingdom of Dominica | Republic of France | Kingdom of Gabon | Republic of Gabon | Kingdom of Gambia | Republic of Germany | Republic of Ghana | Kingdom of Grenada | Republic of Grenada | Kingdom of Guinea | Republic of Guinea | Kingdom of Guyana | Republic of Haiti | Kingdom of India | Kingdom of Iran | Kingdom of Japan | Kingdom of Jordan | Kingdom of Kenya | Republic of Kenya | Kingdom of Kuwait | Republic of Kuwait | Republic of Laos | Kingdom of Latvia | Kingdom of Lebanon | Kingdom of Liberia | Kingdom of Malawi | Republic of Malawi | Kingdom of Malta | Kingdom of Mexico | Republic of Mexico | Kingdom of Monaco | Kingdom of Namibia | Republic of Nepal | Kingdom of Niger | Kingdom of Oman | Kingdom of Palau | Kingdom of Peru | Republic of Peru | Kingdom of Russia | Republic of Samoa | Kingdom of Senegal | Kingdom of Somalia | Kingdom of Spain | Kingdom of Sudan | Kingdom of Sweden | Kingdom of Tanzania | Kingdom of Thailand | Kingdom of Togo | Republic of Togo | Kingdom of Tonga | Republic of Tonga | Kingdom of Uganda | Republic of Uganda | Kingdom of Zambia | Kingdom of Kosovo | Republic of Sudan | Bali | Haiti | Peru | Philippines

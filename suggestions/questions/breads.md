@@ -6,7 +6,7 @@ Rules: Any named bread from anywhere in the world, leavened or flat. Cakes, past
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (283 answers)
+## Accepted now (284 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -18,7 +18,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bagel — Bagel bread | Beigel
 - Naan — Nan | Naan bread | Garlic naan | Peshwari naan | Peshawari naan | Keema naan
 - Pitta — Pita | Pitta bread | Pita bread | Kmaj
-- Focaccia — Focaccia bread | Fugazza | Focaccia di Recco
+- Focaccia — Focaccia bread | Fugazza | Focaccia di Recco | Focaccia barese | Focaccia genovese | Focaccia pugliese
 - White bread — Sliced white | Sliced bread | Wonder Bread
 - Brown bread — Wheat bread | Hovis
 - Wholemeal — Whole wheat | Wholegrain | Wholemeal bread | Pain complet | Whole-wheat bread
@@ -53,7 +53,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Raisin bread
 - Flatbread — Flatbreads
 
-### Tier 3: known to fans (40)
+### Tier 3: known to fans (41)
 
 - Farmhouse loaf — Farmhouse
 - Malt loaf — Soreen
@@ -95,6 +95,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cinnamon bread — Cinnamon swirl bread | Cinnamon raisin bread
 - Quick bread
 - Morning roll — Scottish morning roll | Glasgow roll | Softie
+- Cob loaf — Cobb loaf | Cobb | Crusty cob
 
 ### Tier 4: obscure (86)
 

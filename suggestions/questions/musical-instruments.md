@@ -27,7 +27,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Bass Guitar — Bass | Electric Bass | Fretless bass | Acoustic bass guitar | Precision Bass | Fender Precision | Five-string bass
 - Electric Guitar — Stratocaster | Strat | Fender Stratocaster | Telecaster | Les Paul | Gibson Les Paul | Semi-acoustic guitar | Hollow-body guitar | Solid-body guitar | Lead guitar | Rhythm guitar | Flying V
-- Keyboard — Electronic Keyboard | Casio keyboard | Digital keyboard | Portable keyboard | Home keyboard
+- Keyboard — Electronic Keyboard | Casio keyboard | Digital keyboard | Portable keyboard | Home keyboard | Keyboards
 - Ukulele — Uke | Ukelele | Ukalele | Tenor ukulele | Baritone ukulele | Soprano ukulele | Concert ukulele
 - Banjo — Five-string banjo | Tenor banjo | Plectrum banjo | Bluegrass banjo
 - Harmonica — Mouth Organ | Blues Harp | Chromatic harmonica | Diatonic harmonica | French harp | Moothie
@@ -589,4 +589,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Amplifier | Amp | Speaker | Microphone | Mic | Effects pedal | Loop pedal | Mixer | Mixing desk | Headphones — "It makes instruments louder. It isn't one."
 - Metronome | Tuner | Music stand — "It keeps time. It doesn't play music."
 - Gramophone | Record Player | Jukebox | Radio | CD player | Walkman | Cassette player | iPod | Boombox | Stereo — "It plays records, but nobody plays it."
-- Brass | Woodwind | Strings | Percussion | String | Keyboards | Wind | Winds | Wind instrument | Brass instrument | Woodwinds | String instrument | Percussion instrument | Idiophone | Membranophone | Chordophone | Aerophone | Electrophone | Instrument | Musical instrument — "A whole family. Name one instrument."
+- Brass | Woodwind | Strings | Percussion | String | Wind | Winds | Wind instrument | Brass instrument | Woodwinds | String instrument | Percussion instrument | Idiophone | Membranophone | Chordophone | Aerophone | Electrophone | Instrument | Musical instrument — "A whole family. Name one instrument."

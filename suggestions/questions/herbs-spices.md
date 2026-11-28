@@ -154,13 +154,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Quatre épices
 - Advieh
 - Hawaij
-- Loomi — Black lime | Dried lime | Omani lime | Noomi basra
+- Loomi — Black lime | Dried lime | Omani lime | Noomi basra | Limu omani | Limoo amani | Limoo omani | Dried limes
 - Urfa biber — Isot | Isot pepper | Urfa pepper
 - Guajillo — Guajillo chilli
 - Pasilla — Pasilla chilli | Chile negro
 - Chile de árbol — Arbol chilli | Arbol
 - Grains of Selim — Kani pepper | Senegal pepper | Uda
-- Sansho — Japanese pepper
+- Sansho — Japanese pepper | Sansho pepper | Japanese prickly ash
 - Timut pepper — Timut | Timur | Nepal pepper
 - Voatsiperifery — Wild Madagascar pepper
 - Pepperberry — Tasmanian pepper | Mountain pepper | Tasmanian pepperberry

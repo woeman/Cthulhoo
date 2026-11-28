@@ -12,43 +12,43 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (5)
 
-- Death — The Nameless Arcanum | La Mort | La Morte | L'Arcane sans nom | Arcane sans nom | The Nameless Arcane | The Unnamed Card | Death card | La Muerte | Arcanum XIII
-- The Fool — The Excuse | Le Mat | Il Matto | Le Fou | The Jester | Il Folle | El Loco | The Madman | Fool card
-- The Lovers — The Lover | L'Amoureux | Gli Amanti | L'Amore | Love | Les Amoureux | Los Enamorados | Lovers card
-- The Magician — The Juggler | The Magus | Le Bateleur | The Mountebank | The Mage | Il Bagatto | Il Mago | The Conjurer | The Conjuror | El Mago | The Juggler card | Il Bagatello
-- The Devil — Le Diable | Il Diavolo | El Diablo | Devil card
+- Death — The Nameless Arcanum | La Mort | La Morte | L'Arcane sans nom | Arcane sans nom | The Nameless Arcane | The Unnamed Card | Death card | La Muerte | Arcanum XIII | Der Tod | A Morte | Tod
+- The Fool — The Excuse | Le Mat | Il Matto | Le Fou | The Jester | Il Folle | El Loco | The Madman | Fool card | Der Narr | O Louco | Narr | Louco
+- The Lovers — The Lover | L'Amoureux | Gli Amanti | L'Amore | Love | Les Amoureux | Los Enamorados | Lovers card | Die Liebenden | Os Enamorados | Os Amantes | Liebenden | Enamorados | Amantes
+- The Magician — The Juggler | The Magus | Le Bateleur | The Mountebank | The Mage | Il Bagatto | Il Mago | The Conjurer | The Conjuror | El Mago | The Juggler card | Il Bagatello | Der Magier | O Mago | Der Gaukler | O Mágico | Magier | Mago | Gaukler | Mágico
+- The Devil — Le Diable | Il Diavolo | El Diablo | Devil card | Der Teufel | O Diabo | Teufel | Diabo
 
 ### Tier 2: common (10)
 
-- The Hanged Man — The Hangman | The Traitor | Le Pendu | The Hanging Man | L'Appeso | L'Impiccato | The Hanged One | Il Traditore | Hanged | El Colgado | Hanged Man card | The Hung Man
-- The Tower — The House of God | La Maison Dieu | The Lightning | La Torre | Maison Dieu | La Saetta | Il Fuoco | La Casa del Diavolo | The House of the Devil | The Lightning-struck Tower | Struck Tower | The Lightning Tower | La Torre card | Tower card
-- The Moon — La Lune | La Luna | Moon card
-- The Sun — Le Soleil | Il Sole | El Sol | Sun card
-- The Star — L'Étoile | La Stella | Le Stelle | La Estrella | Star card | The Stars
-- The World — The Universe | Le Monde | Il Mondo | El Mundo | World card
-- The Emperor — L'Empereur | L'Imperatore | El Emperador | Emperor card
-- The Empress — L'Impératrice | La Emperatriz | Empress card
-- The High Priestess — The Popess | Papess | La Papesse | The Female Pope | Priestess | La Papessa | Pope Joan | Juno | Junon | La Sacerdotisa
-- Wheel of Fortune — The Wheel | Fortune | La Roue de Fortune | La Ruota della Fortuna | La Ruota | Fortune's Wheel | Rota Fortunae | The Wheel of Fortune card | La Rueda de la Fortuna
+- The Hanged Man — The Hangman | The Traitor | Le Pendu | The Hanging Man | L'Appeso | L'Impiccato | The Hanged One | Il Traditore | Hanged | El Colgado | Hanged Man card | The Hung Man | Der Gehängte | O Enforcado | Der Gehenkte | O Pendurado | Gehängte | Enforcado | Gehenkte | Pendurado
+- The Tower — The House of God | La Maison Dieu | The Lightning | La Torre | Maison Dieu | La Saetta | Il Fuoco | La Casa del Diavolo | The House of the Devil | The Lightning-struck Tower | Struck Tower | The Lightning Tower | La Torre card | Tower card | Der Turm | A Torre | Turm
+- The Moon — La Lune | La Luna | Moon card | Der Mond | A Lua | Mond
+- The Sun — Le Soleil | Il Sole | El Sol | Sun card | Die Sonne | O Sol | Sonne | Sol
+- The Star — L'Étoile | La Stella | Le Stelle | La Estrella | Star card | The Stars | Der Stern | A Estrela | Stern
+- The World — The Universe | Le Monde | Il Mondo | El Mundo | World card | Die Welt | O Mundo | Welt | Mundo
+- The Emperor — L'Empereur | L'Imperatore | El Emperador | Emperor card | Der Herrscher | O Imperador | Der Kaiser | Herrscher | Imperador | Kaiser
+- The Empress — L'Impératrice | La Emperatriz | Empress card | Die Herrscherin | A Imperatriz | Die Kaiserin | Herrscherin | Kaiserin
+- The High Priestess — The Popess | Papess | La Papesse | The Female Pope | Priestess | La Papessa | Pope Joan | Juno | Junon | La Sacerdotisa | Die Hohepriesterin | A Sacerdotisa | Die Päpstin | A Papisa | Hohepriesterin | Päpstin | Papss
+- Wheel of Fortune — The Wheel | Fortune | La Roue de Fortune | La Ruota della Fortuna | La Ruota | Fortune's Wheel | Rota Fortunae | The Wheel of Fortune card | La Rueda de la Fortuna | Das Rad des Schicksals | A Roda da Fortuna | Das Schicksalsrad | Das Glücksrad | Rad des Schicksals | Schicksalsrad | Glücksrad
 
 ### Tier 3: known to fans (4)
 
-- The Hermit — L'Hermite | L'Eremita | Il Gobbo | The Hunchback | Il Vecchio | The Old Man | Il Tempo | Time | Father Time | El Ermitaño | Hermit card
-- The Chariot — Le Chariot | Il Carro | The Charioteer | El Carro | Chariot card
-- Strength — Fortitude | Force | La Force | Lust | La Forza | La Fortezza | Strenght | Strength card | La Fuerza
-- Justice — Adjustment | La Justice | La Giustizia | Lady Justice | La Justicia | Justice card
+- The Hermit — L'Hermite | L'Eremita | Il Gobbo | The Hunchback | Il Vecchio | The Old Man | Il Tempo | Time | Father Time | El Ermitaño | Hermit card | Der Eremit | O Eremita | Eremit | Eremita
+- The Chariot — Le Chariot | Il Carro | The Charioteer | El Carro | Chariot card | Der Wagen | O Carro | Wagen | Carro
+- Strength — Fortitude | Force | La Force | Lust | La Forza | La Fortezza | Strenght | Strength card | La Fuerza | Die Kraft | A Força | Die Stärke | Kraft | Stärke
+- Justice — Adjustment | La Justice | La Giustizia | Lady Justice | La Justicia | Justice card | Die Gerechtigkeit | A Justiça | Gerechtigkeit
 
 ### Tier 4: obscure (1)
 
-- Judgement — Judgment | The Last Judgement | The Last Judgment | The Aeon | The Angel | Le Jugement | Il Giudizio | L'Angelo | Judgement Day | Judgment Day | El Juicio | Judgement card
+- Judgement — Judgment | The Last Judgement | The Last Judgment | The Aeon | The Angel | Le Jugement | Il Giudizio | L'Angelo | Judgement Day | Judgment Day | El Juicio | Judgement card | Das Gericht | O Julgamento | Das Jüngste Gericht | Gericht | Julgamento | Jüngste Gericht
 
 ### Tier 5: expert (1)
 
-- Temperance — Art | La Tempérance | La Temperanza | Temperence | La Templanza | Temperance card
+- Temperance — Art | La Tempérance | La Temperanza | Temperence | La Templanza | Temperance card | Die Mäßigkeit | A Temperança | Mäßigkeit
 
 ### Tier 6: rare jackpots (1)
 
-- The Hierophant — The Pope | Le Pape | The High Priest | Il Papa | Jupiter | The Pontiff | El Papa | Hierophant card
+- The Hierophant — The Pope | Le Pape | The High Priest | Il Papa | Jupiter | The Pontiff | El Papa | Hierophant card | Der Hohepriester | O Papa | Der Hierophant | Der Papst | O Hierofante | Hohepriester | Papa | Papst | Hierofante
 
 ## Refused on purpose (26)
 

@@ -6,7 +6,7 @@ Rules: Any board game, ancient or modern, including tile games like mahjong. Pla
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (347 answers)
+## Accepted now (359 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -64,12 +64,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rummikub — Rummy-O | Rummy tiles
 - Arkham Horror
 - Carrom — Carom | Karrom | Carrom board | Carroms
-- Cribbage — Crib | Cribbage board
+- Cribbage — Crib | Cribbage board | Creb
 - Game of the Goose — Goose game | Jeu de l'oie | Gioco dell'oca | Goose
 - Sequence
 - Words with Friends
 
-### Tier 4: obscure (85)
+### Tier 4: obscure (87)
 
 - Halma
 - Chaturanga
@@ -156,8 +156,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Scene It?
 - Tsuro
 - Hey, That's My Fish! — Fish Fish Fish
+- Just One
+- Wavelength
 
-### Tier 5: expert (209)
+### Tier 5: expert (219)
 
 - Janggi — Korean chess | Changgi
 - Makruk — Thai chess
@@ -368,6 +370,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hare and Hounds — Hare games | French military game
 - Aadu puli attam — Lambs and tigers
 - Ashta chamma
+- Telestrations
+- My City
+- Planet Unknown
+- Iki
+- Decrypto
+- Dorfromantik — Dorfromantik: The Board Game | Dorfromantik board game
+- The Search for Planet X — Planet X
+- Marrakech — Marrakesh
+- Skull — Skull and Roses
+- The White Castle
 
 ### Tier 6: rare jackpots (3)
 
@@ -379,7 +391,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Poker | Bridge | Blackjack | Rummy | Uno | Snap | Go Fish | Exploding Kittens | Cards Against Humanity | Magic: The Gathering | Patience | Klondike | Canasta | Taboo | Hearts | Spades | Gin rummy | Crazy eights | Old maid | Euchre | Whist | Pinochle | Baccarat | Skip-Bo | Phase 10 | Top Trumps | Pokémon cards | Yu-Gi-Oh! | Love Letter | Coup | Sushi Go | Hanabi | Bohnanza | Munchkin | Fluxx | Dobble | Spot It | Happy Families | Cheat | Durak | Apples to Apples | Solitaire card game | Gin | Cribbage card game | Mille Bornes | Monopoly Deal | Uno Flip | Snap card game — "A card game, not a board game."
+- Poker | Bridge | Blackjack | Rummy | Uno | Snap | Go Fish | Exploding Kittens | Cards Against Humanity | Magic: The Gathering | Patience | Klondike | Canasta | Taboo | Hearts | Spades | Gin rummy | Crazy eights | Old maid | Euchre | Whist | Pinochle | Baccarat | Skip-Bo | Phase 10 | Top Trumps | Pokémon cards | Yu-Gi-Oh! | Love Letter | Coup | Sushi Go | Hanabi | Bohnanza | Munchkin | Fluxx | Dobble | Spot It | Happy Families | Cheat | Durak | Apples to Apples | Solitaire card game | Gin | Cribbage card game | Mille Bornes | Monopoly Deal | Uno Flip | Snap card game | The Crew | The Crew: The Quest for Planet Nine | The Crew: Mission Deep Sea — "A card game, not a board game."
 - Yahtzee | Craps | Liar's dice | Farkle | Boggle | Pass the Pigs | Shut the box | Bunco | Perudo | Qwixx | Tenzi | Sic bo | Chuck-a-luck | Dice — "A dice game, not a board game."
 - Dungeons & Dragons | D&D | DnD | Call of Cthulhu | Pathfinder | Vampire: The Masquerade | Shadowrun | Traveller — "A role-playing game. No board required."
 - Warhammer | Warhammer 40k | Warhammer 40,000 | Age of Sigmar | Warmachine | Bolt Action | Necromunda | Kill Team | Mordheim | Flames of War — "A miniatures wargame, played across a tabletop, not a board."

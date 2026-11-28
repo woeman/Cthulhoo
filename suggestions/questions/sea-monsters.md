@@ -6,7 +6,7 @@ Rules: Any monster, spirit or creature of the sea, rivers or lakes from the worl
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (230 answers)
+## Accepted now (231 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -128,7 +128,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Grendel's mother — Grendel's mum | Grendel's dam
 - Jonah's whale — Jonah's fish | Great fish | Dag gadol | Whale of Jonah
 
-### Tier 5: expert (122)
+### Tier 5: expert (123)
 
 - Isonade
 - Tannin — Tanin | Tanninim
@@ -252,6 +252,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gloucester sea serpent
 - White River Monster — Whitey
 - Telchines — Telkhines
+- Abaia
 
 ### Tier 6: rare jackpots (2)
 

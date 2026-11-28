@@ -6,45 +6,45 @@ Rules: Home consoles and handhelds, past or present. Computers and phones don't 
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (148 answers)
+## Accepted now (155 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
 ### Tier 1: what most people say (8)
 
-- PlayStation 5 — PS5 | PS5 Pro | PS5 Slim | PS5 Digital Edition | PlayStation 5 Pro | PlayStation 5 Slim | Sony PlayStation 5 | PlayStation Five
-- PlayStation 4 — PS4 | PS4 Pro | PS4 Slim | PlayStation 4 Pro | Sony PlayStation 4 | PlayStation Four
-- PlayStation — PS1 | PSX | PSone | PlayStation 1 | Sony PlayStation | PS | Sony PlayStation 1 | Original PlayStation | PlayStation One
-- Nintendo Switch — Switch | Switch Lite | Switch OLED | Nintendo Switch Lite | Nintendo Switch OLED | Switch OLED Model | Nintendo Switch OLED Model | NX
-- Xbox — Original Xbox | Microsoft Xbox | Xbox Classic | OG Xbox
-- Xbox 360 — X360 | 360 | Xbox 360 S | Xbox 360 E | Xbox 360 Slim | Microsoft Xbox 360 | Xbox Three Sixty
-- Wii — Nintendo Wii | Revolution | Wii Mini | Nintendo Revolution | Wii Family Edition
-- Game Boy — Game Boy Pocket | DMG | Original Game Boy | Game Boy Classic | Nintendo Game Boy | Game Boy Light
+- PlayStation 5 — PS5 | PS5 Pro | PS5 Slim | PS5 Digital Edition | PlayStation 5 Pro | PlayStation 5 Slim | Sony PlayStation 5 | PlayStation Five | Sony PS5
+- PlayStation 4 — PS4 | PS4 Pro | PS4 Slim | PlayStation 4 Pro | Sony PlayStation 4 | PlayStation Four | Sony PS4 | PlayStation Pro
+- PlayStation — PS1 | PSX | PSone | PlayStation 1 | Sony PlayStation | PS | Sony PlayStation 1 | Original PlayStation | PlayStation One | Sony PS1
+- Nintendo Switch — Switch | Switch Lite | Switch OLED | Nintendo Switch Lite | Nintendo Switch OLED | Switch OLED Model | Nintendo Switch OLED Model | NX | Switch Nintendo
+- Xbox — Original Xbox | Microsoft Xbox | Xbox Classic | OG Xbox | Xbox original | First Xbox
+- Xbox 360 — X360 | 360 | Xbox 360 S | Xbox 360 E | Xbox 360 Slim | Microsoft Xbox 360 | Xbox Three Sixty | Xbox 360 Elite | Xbox 360 Arcade | Xbox 360 Pro
+- Wii — Nintendo Wii | Revolution | Wii Mini | Nintendo Revolution | Wii Family Edition | Wee
+- Game Boy — Game Boy Pocket | DMG | Original Game Boy | Game Boy Classic | Nintendo Game Boy | Game Boy Light | Game Boy original
 
 ### Tier 2: common (18)
 
-- PlayStation 2 — PS2 | PS2 Slim | Sony PlayStation 2 | PS2 Fat | PlayStation Two
-- PlayStation 3 — PS3 | PS3 Slim | Sony PlayStation 3 | PS3 Super Slim | PlayStation Three
+- PlayStation 2 — PS2 | PS2 Slim | Sony PlayStation 2 | PS2 Fat | PlayStation Two | PlayStation 2 Slim | Sony PS2
+- PlayStation 3 — PS3 | PS3 Slim | Sony PlayStation 3 | PS3 Super Slim | PlayStation Three | Sony PS3
 - Xbox One — Xbone | Xbox One X | Xbox One S | XB1 | Microsoft Xbox One | Xbox One S All-Digital
 - Xbox Series X — Xbox Series S | Series X | Series S | Xbox Series | Xbox Series X|S | Xbox Series X and S | XSX | Microsoft Xbox Series X
 - Nintendo Switch 2 — Switch 2 | Switch Two | Nintendo Switch Two
 - Wii U — Nintendo Wii U
 - GameCube — Nintendo GameCube | GCN | NGC | Panasonic Q
-- Nintendo 64 — N64 | Ultra 64 | Nintendo Ultra 64
+- Nintendo 64 — N64 | Ultra 64 | Nintendo Ultra 64 | Nintendo sixtyfour
 - SNES — Super Nintendo | Super Nintendo Entertainment System | Super NES | Super Famicom | SFC
-- NES — Nintendo Entertainment System | Famicom | Family Computer | Nintendo Famicom | Original Nintendo | AV Famicom | Twin Famicom
+- NES — Nintendo Entertainment System | Famicom | Family Computer | Nintendo Famicom | Original Nintendo | AV Famicom | Twin Famicom | Nintendo original
 - Game Boy Advance — GBA | Game Boy Advance SP | Game Boy Micro | GBA SP | Nintendo Game Boy Advance | GBA Micro
 - Nintendo DS — DS | DS Lite | DSi | Nintendo DSi | Nintendo DS Lite | NDS | DSi XL | Nintendo DSi XL | DS Phat | Original DS
 - Nintendo 3DS — 3DS | 2DS | Nintendo 2DS | New Nintendo 3DS | 3DS XL | Nintendo 3DS XL | New 3DS | New 3DS XL | 2DS XL | New 2DS XL | New Nintendo 3DS XL | New Nintendo 2DS XL | Nintendo 2DS XL
 - PSP — PlayStation Portable | PSP Go | PSP Street | PSP-1000 | PSP-2000 | PSP-3000 | Sony PSP
-- Mega Drive — Sega Mega Drive | Genesis | Sega Genesis | Genesis Nomad | Sega Genesis Model 2
+- Mega Drive — Sega Mega Drive | Genesis | Sega Genesis | Genesis Nomad | Sega Genesis Model 2 | Mega Drive 2 | Mega Drive II | Mega Drive 3 | Sega Mega Drive 2 | Genesis 2 | Genesis 3 | Sega Genesis 2
 - Dreamcast — Sega Dreamcast
 - Atari 2600 — Atari VCS | VCS | Atari | 2600 | Atari 2600 Jr | Heavy Sixer | Atari Video Computer System | Sears Video Arcade | Atari CX2600
 - Steam Deck — Steam Deck OLED | Steam Deck LCD | Valve Steam Deck
 
 ### Tier 3: known to fans (8)
 
-- PlayStation Vita — PS Vita | Vita | PS Vita Slim | Vita Slim | Sony Vita | PSV
+- PlayStation Vita — PS Vita | Vita | PS Vita Slim | Vita Slim | Sony Vita | PSV | Vite
 - Game Boy Color — GBC | Game Boy Colour | Nintendo Game Boy Color
 - Master System — Sega Master System | Sega Mark III | Mark III | SMS | Master System II | Sega Master System II
 - Sega Saturn — Saturn | V-Saturn | Hi-Saturn
@@ -70,22 +70,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - N-Gage — Nokia N-Gage | N-Gage QD | Nokia N-Gage QD
 - Ouya
 - Stadia — Google Stadia
-- Meta Quest — Oculus Quest | Quest | Meta Quest 2 | Meta Quest 3 | Meta Quest 3S | Quest 2 | Quest 3 | Quest 3S | Oculus Quest 2 | Meta Quest Pro | Quest Pro
+- Meta Quest — Oculus Quest | Quest | Meta Quest 2 | Meta Quest 3 | Meta Quest 3S | Quest 2 | Quest 3 | Quest 3S | Oculus Quest 2 | Meta Quest Pro | Quest Pro | Oculus | Oculus Go
 - ROG Ally — Asus ROG Ally | ROG Xbox Ally | Xbox Ally | ROG Ally X | Asus ROG Ally X
 - PlayStation Portal — PS Portal
 - Steam Machine
 - Nvidia Shield — Shield TV | Nvidia Shield TV | Shield Portable | Nvidia Shield Portable | Shield
 - Lenovo Legion Go — Legion Go | Legion Go S
 
-### Tier 5: expert (90)
+### Tier 5: expert (97)
 
 - Vectrex
 - Channel F — Fairchild Channel F
 - Neo Geo Pocket — Neo Geo Pocket Color | NGPC | Neo Geo Pocket Colour
 - Amiga CD32 — CD32
-- SG-1000
+- SG-1000 — Sega SG-1000
 - Sega Nomad — Nomad
-- Sega Pico
+- Sega Pico — Pico | Kids Computer Pico
 - WonderSwan — WonderSwan Color | SwanCrystal
 - Game.com — Tiger Game.com
 - Famicom Disk System
@@ -169,20 +169,27 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Capcom Home Arcade
 - Nuon
 - Sega Genesis Mini 2 — Mega Drive Mini 2
+- Watara Supervision — Supervision | QuickShot Supervision
+- Mega Duck — Cougar Boy
+- Gamate — Bit Corporation Gamate
+- LeapFrog Didj — Didj
+- XaviXPORT — Xavix
+- Action Max
+- RDI Halcyon — Halcyon
 
 ### Tier 6: rare jackpots (3)
 
-- Pippin — Apple Pippin | Bandai Pippin
+- Pippin — Apple Pippin | Bandai Pippin | Pippin Atmark
 - Gizmondo
 - PocketStation
 
-## Refused on purpose (10)
+## Refused on purpose (12)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Nintendo | Sony | Microsoft | Sega | Valve | Bandai | Nokia | Magnavox — "A maker, not a console. Name the machine."
-- Commodore 64 | C64 | ZX Spectrum | Spectrum | Amiga | BBC Micro | Amstrad CPC | MSX | Apple II — "A home computer, not a console."
-- PC | Gaming PC | Computer | Mac | Laptop | iPad | iPhone | Smartphone | Phone | Android | Raspberry Pi | Chromebook | Windows PC | Gaming laptop — "A computer, not a console."
+- Commodore 64 | C64 | ZX Spectrum | Spectrum | Amiga | BBC Micro | Amstrad CPC | MSX | Apple II | Atari ST | Amiga 500 | Amiga 1200 | Commodore Amiga | Amstrad | Atari 800 | Acorn Electron | ZX81 | VIC-20 | Commodore 128 | TRS-80 | Apple IIe | Sinclair Spectrum — "A home computer, not a console."
+- PC | Gaming PC | Computer | Mac | Laptop | iPad | iPhone | Smartphone | Phone | Android | Raspberry Pi | Chromebook | Windows PC | Gaming laptop | Mobile | Mobile phone | Tablet — "A computer, not a console."
 - Arcade machine | Arcade | Arcade cabinet | Pinball | Pinball machine — "An arcade cabinet, not a console."
 - Tamagotchi — "A digital pet, not a games console."
 - PlayStation 6 | PS6 — "Not out yet."
@@ -190,3 +197,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Nintendo PlayStation | SNES CD | Super NES CD-ROM | Super Nintendo CD — "A Sony and Nintendo prototype that never launched. A surviving unit sold for $360,000 in 2020."
 - Tetris | Mario | Sonic | Zelda | Pokemon | Minecraft | Fortnite | Pac-Man — "A game, not a console."
 - Steam | Steam store — "A games shop and launcher. Its handheld, the Steam Deck, would count."
+- Kinect | Xbox Kinect | PlayStation Move | PlayStation VR | PSVR | PSVR2 | PlayStation VR2 | Oculus Rift | HTC Vive | Vive | Valve Index | EyeToy | Wii Fit | Wii Balance Board | Power Glove | Game Genie — "An accessory. It needs a console or a computer behind it."
+- Game Pass | Xbox Game Pass | xCloud | Xbox Cloud Gaming | GeForce Now | Amazon Luna | Luna | PlayStation Plus | PS Plus | Xbox Live | Nintendo Switch Online | Apple Arcade — "A service, not a machine."

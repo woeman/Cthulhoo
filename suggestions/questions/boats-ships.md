@@ -6,7 +6,7 @@ Rules: Any kind of vessel, from canoe to aircraft carrier. Named ships, like the
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (304 answers)
+## Accepted now (306 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -40,7 +40,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Destroyer — Guided-missile destroyer | Torpedo boat destroyer | Tin can | Destroyer ship
 - Frigate — Guided-missile frigate | Frigate ship
 - Galleon — Spanish galleon | Manila galleon | Treasure galleon | Galleon ship
-- Longship — Viking ship | Viking longship | Drakkar | Viking boat | Viking longboat | Dragon ship
+- Longship — Viking ship | Viking longship | Drakkar | Viking boat | Viking longboat | Dragon ship | Dreki | Drekar
 - Pirate ship — Pirate boat | Pirate galleon
 - Steamboat — Steamship | Steamer | Mississippi steamboat
 - Paddle steamer — Paddle wheeler | Side-wheeler
@@ -233,7 +233,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mother ship
 - Galway hooker — Hooker
 
-### Tier 5: expert (90)
+### Tier 5: expert (92)
 
 - Galleass — Galeass | Galeazza
 - Xebec — Chebec | Zebec | Xebeck
@@ -325,6 +325,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tjalk
 - Humber keel
 - Motorsailer
+- Pattamar — Patamar | Patimar
+- Corbita — Corbitae
 
 ### Tier 6: rare jackpots (3)
 

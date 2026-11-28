@@ -6,7 +6,7 @@ Rules: Any car brand, past or present. Model names, like the Mustang, don't coun
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
-## Accepted now (403 answers)
+## Accepted now (417 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -15,7 +15,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ford — Ford Motor Company | Ford Motor Co
 - Toyota — Toyota Motor | Toyoda
 - BMW — Beemer | Bimmer | Beamer | Bayerische Motoren Werke | Bavarian Motor Works
-- Mercedes-Benz — Mercedes | Merc | Benz | AMG | Mercedes-AMG | Daimler-Benz
+- Mercedes-Benz — Mercedes | Merc | Benz | AMG | Mercedes-AMG | Daimler-Benz | Merc Benz
 - Volkswagen — VW | Vee-Dub | V-Dub
 - Honda — Hond
 - Ferrari
@@ -29,20 +29,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lamborghini — Lambo
 - Chevrolet — Chevy | Chev | Chevvy
 - Jaguar — Jag
-- Land Rover — Range Rover | Landie
+- Land Rover — Range Rover | Landie | Landy | Rangie
 - Volvo — Olvo
 - Hyundai
 - Kia — Kia Motors
 - Mazda
 - Fiat — Fabbrica Italiana Automobili Torino
-- Peugeot
-- Renault
+- Peugeot — Pug
+- Renault — Reno
 - Rolls-Royce — Rolls | Roller
 - Bentley
 - Aston Martin — Aston | Aton | Ason | Asto
 - Mini — Mini Cooper
 - Subaru — Subie
-- Mitsubishi
+- Mitsubishi — Mitsi | Mitsu | Mitsy
 - Lexus
 - Jeep
 - Vauxhall
@@ -58,7 +58,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Alfa Romeo — Alfa
 - Lotus
 - Opel — Poel
-- MG — Morris Garages
+- MG — Morris Garages | MG Motor | MG Motors
 
 ### Tier 3: known to fans (46)
 
@@ -76,14 +76,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - BYD — Build Your Dreams
 - Dacia
 - Smart — Smart car
-- Cupra — Upra
+- Cupra — Upra | Kupra
 - Saab
 - Pagani
 - Koenigsegg
 - Maybach — Mercedes-Maybach
 - Lada — AvtoVAZ | Zhiguli | VAZ
 - Daewoo
-- Proton — Roton | Poton
+- Proton — Roton | Poton | Priton | Riton
 - Tata — Tata Motors
 - Mahindra — Mahindra & Mahindra
 - Holden
@@ -103,13 +103,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Saturn
 - Mercury
 - DeLorean — DMC
-- Trabant — Trabi | Sachsenring
+- Trabant — Trabi | Sachsenring | Tarbant
 - Datsun
 - SsangYong — KGM | KG Mobility
 - Scion
 - Austin
 
-### Tier 4: obscure (65)
+### Tier 4: obscure (67)
 
 - Chery
 - Geely
@@ -136,7 +136,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Packard
 - Edsel
 - Jensen
-- Austin-Healey — Healey
+- Austin-Healey — Healey | Haley | Haeley
 - Simca
 - Talbot
 - Caterham
@@ -176,8 +176,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Renault Samsung — Samsung Motors | Renault Korea
 - HSV — Holden Special Vehicles
 - SRT — Street and Racing Technology
+- LDV — Leyland DAF Vans | LDV Maxus
+- Brabham — Brabham Automotive
 
-### Tier 5: expert (245)
+### Tier 5: expert (257)
 
 - Sunbeam
 - Humber
@@ -278,7 +280,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - David Brown Automotive — David Brown
 - Sinclair — Sinclair Vehicles
 - Wanderer
-- Goggomobil — Goggo
+- Goggomobil — Goggo | Go Go Mobile | Gogomobil | Goggo mobile
 - Glas — Hans Glas
 - Heinkel
 - Lloyd
@@ -424,6 +426,18 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Avanti
 - Excalibur
 - Foton — Foton Motor
+- FPV — Ford Performance Vehicles
+- Lightburn — Lightburn Zeta
+- Hartnett
+- Australian Six — Aussie Six
+- Purvis — Purvis Eureka
+- Giocattolo
+- Nota — Nota Sports and Racing Cars
+- Devaux — Devaux Cars
+- Joss — Joss Developments
+- Buckle — Buckle Motors
+- Ascort
+- Tarrant — Tarrant Motor
 
 ### Tier 6: rare jackpots (3)
 
@@ -431,14 +445,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Facel Vega — Facel
 - Hispano-Suiza
 
-## Refused on purpose (7)
+## Refused on purpose (8)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Mustang | Corvette | Beetle | Golf | Civic | Corolla | Model T | Model S | Prius | Camaro | Fiesta | Focus | Escort | Cortina | Capri | Mondeo | Astra | Corsa | Clio | Polo | Panda | Punto | Twingo | Micra | Qashqai | Land Cruiser | Hilux | F-150 | Charger | Challenger | Wrangler | Thunderbird | Countach | Diablo | Aventador | Veyron | Chiron | Enzo | Testarossa | Passat | Jetta | Cayenne | Countryman | Model 3 | Model Y | Model X | Cybertruck | Accord | Camry | Altima | Sentra | Leaf | Skyline | GT-R | Supra | RAV4 | CR-V | Outback | Impreza | Lancer | Miata | MX-5 | Boxster | Cayman | Macan | Defender | Discovery | Evoque | Silverado | Tahoe | Suburban | Escalade | Navigator | Explorer | Bronco | Ranger | Transit | Kuga | Zafira | Insignia | Vectra | Cavalier | Megane | Scenic | Laguna | 2CV | Octavia | Fabia | Ibiza | Juke | Almera | Yaris | Aygo | Celica | Tundra | Tacoma | Odyssey | Jazz | Prelude | NSX | E-Type | F-Type | Huracan | Urus | Gallardo | Murcielago | Miura | LaFerrari | F40 | GT40 | DB5 | Vantage | Phantom | Silver Ghost | Bentayga | Viper | Durango | Cherokee | Impala | Malibu | Bel Air | El Camino | Firebird | Trans Am | Spitfire | Allegro | Anglia | Esprit | Elise | Cobra — "A model, not a make of car."
+- Mustang | Corvette | Beetle | Golf | Civic | Corolla | Model T | Model S | Prius | Camaro | Fiesta | Focus | Escort | Cortina | Capri | Mondeo | Astra | Corsa | Clio | Polo | Panda | Punto | Twingo | Micra | Qashqai | Land Cruiser | Hilux | F-150 | Charger | Challenger | Wrangler | Thunderbird | Countach | Diablo | Aventador | Veyron | Chiron | Enzo | Testarossa | Passat | Jetta | Cayenne | Countryman | Model 3 | Model Y | Model X | Cybertruck | Accord | Camry | Altima | Sentra | Leaf | Skyline | GT-R | Supra | RAV4 | CR-V | Outback | Impreza | Lancer | Miata | MX-5 | Boxster | Cayman | Macan | Defender | Discovery | Evoque | Silverado | Tahoe | Suburban | Escalade | Navigator | Explorer | Bronco | Ranger | Transit | Kuga | Zafira | Insignia | Vectra | Cavalier | Megane | Scenic | Laguna | 2CV | Octavia | Fabia | Ibiza | Juke | Almera | Yaris | Aygo | Celica | Tundra | Tacoma | Odyssey | Jazz | Prelude | NSX | E-Type | F-Type | Huracan | Urus | Gallardo | Murcielago | Miura | LaFerrari | F40 | GT40 | DB5 | Vantage | Phantom | Silver Ghost | Bentayga | Viper | Durango | Cherokee | Impala | Malibu | Bel Air | El Camino | Firebird | Trans Am | Spitfire | Allegro | Anglia | Esprit | Elise | Cobra | Commodore | Falcon | Kingswood | Monaro | Torana | Kombi | Barina | Cruze | Territory | Triton | Navara | Patrol | Pajero | Magna | Swift | Jimny | WRX | Forester | Kluger | Prado | Tarago | CX-5 | RX-7 | Silvia | Pulsar | X-Trail | i30 | Tucson | Santa Fe | Sportage | Cerato | Rio | Carnival | Stinger | Captiva | Colorado | D-Max | BT-50 | Amarok | Maloo | Statesman | Caprice | Camira | Fairlane | Fairmont | Festiva | Hiace | Brumby — "A model, not a make of car."
 - General Motors | GM | Stellantis | Volkswagen Group | Hyundai Motor Group | Jaguar Land Rover | JLR | British Leyland | Fiat Chrysler | FCA | Fiat Chrysler Automobiles | Groupe PSA | PSA Group | Renault-Nissan Alliance | British Motor Corporation | Rootes Group | SAIC | Daimler AG | Mercedes-Benz Group | Geely Holding — "A carmaking group, not a make. Name one of its brands."
-- Harley-Davidson | Ducati | Yamaha | Kawasaki | Royal Enfield | Indian | Norton | Vespa | Aprilia | MV Agusta | Moto Guzzi | Husqvarna | Buell — "Motorcycles, not cars."
-- Scania | MAN | Iveco | Kenworth | Peterbilt | Mack | Freightliner | KamAZ — "Trucks and buses, not cars."
+- Harley-Davidson | Ducati | Yamaha | Kawasaki | Royal Enfield | Indian | Norton | Vespa | Aprilia | MV Agusta | Moto Guzzi | Husqvarna | Buell | Harley — "Motorcycles, not cars."
+- Scania | MAN | Iveco | Kenworth | Peterbilt | Mack | Freightliner | KamAZ | Fuso | UD Trucks | Western Star — "Trucks and buses, not cars."
 - Caterpillar | JCB | John Deere | Komatsu — "Diggers and bulldozers, not cars."
 - Michelin | Pirelli | Goodyear | Bridgestone | Dunlop — "Tyres, not cars."
 - Herbie | KITT | Christine | General Lee | Batmobile | Lightning McQueen | Chitty Chitty Bang Bang | Ecto-1 | Bumblebee | Mystery Machine | Bluesmobile | Greased Lightning | Mach 5 — "A famous car, not a make. Name the maker."
+- Ute | Utes | SUV | Hatchback | Hatch | Station wagon | Wagon | 4WD | Four-wheel drive | 4x4 | Van | Car | Truck | Coupe | Convertible | People mover | Electric car — "A kind of car, not a make. Who built it?"
