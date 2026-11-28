@@ -12,55 +12,55 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (5)
 
-- Egypt
-- Nigeria
-- South Africa — RSA | Republic of South Africa | Union of South Africa | S Africa
-- Kenya
-- Morocco
+- Egypt — Misr | Arab Republic of Egypt | United Arab Republic
+- Nigeria — Naija | Federal Republic of Nigeria
+- South Africa — RSA | Republic of South Africa | Union of South Africa | S Africa | SA | Mzansi
+- Kenya — Kenya Colony | East Africa Protectorate
+- Morocco — Maroc | Al-Maghrib | Kingdom of Morocco
 
 ### Tier 2: common (13)
 
-- Ethiopia — Abyssinia
+- Ethiopia — Abyssinia | Ityopia
 - Ghana — Gold Coast
-- Madagascar — Malagasy Republic
-- Algeria
-- Libya
-- Somalia
-- Zimbabwe — Rhodesia | Southern Rhodesia
+- Madagascar — Malagasy Republic | Madagasikara
+- Algeria — Algérie | Al-Jazair
+- Libya — Libyan Arab Jamahiriya | Jamahiriya | State of Libya
+- Somalia — Soomaaliya | Somali Republic | Italian Somaliland
+- Zimbabwe — Rhodesia | Southern Rhodesia | Zim | Zimbabwe Rhodesia
 - Uganda
 - Tanzania — Tanganyika | United Republic of Tanzania
-- Sudan — North Sudan | Republic of the Sudan
-- Tunisia
+- Sudan — North Sudan | Republic of the Sudan | Anglo-Egyptian Sudan
+- Tunisia — Tunisie
 - Rwanda
-- Democratic Republic of the Congo — DR Congo | DRC | Democratic Republic of Congo | Congo-Kinshasa | Zaire | Belgian Congo | Congo Free State | Congo
+- Democratic Republic of the Congo — DR Congo | DRC | Democratic Republic of Congo | Congo-Kinshasa | Zaire | Belgian Congo | Congo Free State | Congo | DROC | Congo DR | Congo-Léopoldville
 
 ### Tier 3: known to fans (13)
 
 - Senegal
 - Cameroon — Kamerun | Cameroun
 - Namibia — South West Africa
-- Chad
+- Chad — Tchad
 - Mali — French Sudan
 - Botswana — Bechuanaland
-- Angola
+- Angola — Portuguese West Africa
 - Zambia — Northern Rhodesia
 - Niger
-- Côte d'Ivoire — Ivory Coast
-- Mozambique
+- Côte d'Ivoire — Ivory Coast | Republic of Côte d'Ivoire
+- Mozambique — Portuguese East Africa
 - Liberia
-- Sierra Leone
+- Sierra Leone — Salone
 
 ### Tier 4: obscure (13)
 
 - Eritrea
 - Malawi — Nyasaland
 - Gambia
-- Gabon
+- Gabon — Gabonese Republic
 - Togo — Togoland | French Togoland
 - Benin — Dahomey
 - Burkina Faso — Burkina | Upper Volta
 - Lesotho — Basutoland
-- Guinea
+- Guinea — Guinea-Conakry | French Guinea
 - Mauritania
 - Mauritius
 - Seychelles
@@ -68,21 +68,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 5: expert (8)
 
-- Burundi
+- Burundi — Urundi
 - Central African Republic — CAR | Central African Empire | Ubangi-Shari | Oubangui-Chari
-- Djibouti — French Somaliland | French Territory of the Afars and the Issas
+- Djibouti — French Somaliland | French Territory of the Afars and the Issas | Jibuti
 - Eswatini — Swaziland
-- Republic of the Congo — Republic of Congo | Congo-Brazzaville | Congo Republic
+- Republic of the Congo — Republic of Congo | Congo-Brazzaville | Congo Republic | French Congo | Middle Congo | People's Republic of the Congo
 - Equatorial Guinea — Spanish Guinea
 - Cabo Verde — Cape Verde | Cape Verde Islands
 - Guinea-Bissau — Portuguese Guinea
 
 ### Tier 6: rare jackpots (2)
 
-- Comoros
+- Comoros — Comoro Islands | Union of the Comoros
 - São Tomé and Príncipe — São Tomé
 
-## Refused on purpose (34)
+## Refused on purpose (41)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -96,4 +96,11 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Timbuktu — "A city, not a country. It is real, though."
 - Wakanda — "Fictional. The deep checked."
 - Sahrawi Republic | SADR | Sahrawi Arab Democratic Republic — "In the African Union, but not the UN, so the usual count of 54 leaves it out."
+- Africa — "The continent. Name one of its countries."
+- Saint Helena | St Helena | Ascension Island | Tristan da Cunha — "A British overseas territory, not a country."
+- Madeira — "Portuguese islands, not a country."
+- Ceuta | Melilla — "A Spanish city on the African coast, not a country."
+- Biafra — "A breakaway state that lasted from 1967 to 1970."
+- Darfur — "A region of Sudan, not a country."
+- French Guiana — "Part of France, and in South America."
 - Refused without a reason (near misses of real answers): Guyana | Papua New Guinea | Bali | Brunei | Siberia | Yemen | Oman | Malta | Tonga | Mongolia | Monaco | Saudi Arabia | Iran | Iraq | Syria | Jordan | Lebanon | Israel | Palestine | Persia | Arabia | Romania | Tasmania | Bengal

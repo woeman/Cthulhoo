@@ -6,7 +6,7 @@ Rules: Any real English word that rhymes with deep. Phrases don't count, and spe
 
 Spelling counts on this question: answers must match exactly.
 
-## Accepted now (38 answers)
+## Accepted now (51 answers)
 
 Each answer is followed by the other spellings the game takes for it, separated by " | ".
 
@@ -44,14 +44,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bo-Peep — Little Bo-Peep
 - Scrapheap
 
-### Tier 4: obscure (4)
+### Tier 4: obscure (7)
 
 - Gatekeep
 - Upsweep
 - Overleap
 - Neep
+- Shopkeep
+- Slagheap
+- Dirt-cheap
 
-### Tier 5: expert (6)
+### Tier 5: expert (16)
 
 - Housekeep
 - Outleap
@@ -59,6 +62,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Outsleep
 - Dustheap
 - Storekeep
+- Bookkeep
+- Goalkeep
+- Timekeep
+- Wicketkeep
+- Peacekeep
+- Innkeep
+- Dungheap
+- Muckheap
+- Minesweep
+- Tweep
 
 ### Tier 6: rare jackpots (3)
 
@@ -66,7 +79,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Threap
 - Beweep
 
-## Refused on purpose (5)
+## Refused on purpose (6)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -75,3 +88,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Chimney sweep | Clean sweep — "Just sweep, with soot on."
 - Sheet | Seat | Sleet | Street | Sweet | Week | Weak | Seek | Peak | Keen | Seen | Dream | Steam | Team | Seem | Leak | Cheek | Heat | Jeer | Deer | Beat | Feet | Keel | Peel — "A near rhyme. The deep wants a true one."
 - Ship | Dip | Drip | Kip | Sip | Tip | Slip — "A different vowel."
+- Sleeps | Keeps | Weeps | Creeps | Peeps | Beeps | Jeeps | Leaps | Heaps | Reaps | Seeps | Sweeps | Steeps | Bleeps | Cheeps | Sheeps | Veeps — "That ends in -eeps, so it rhymes with deeps, not deep."
