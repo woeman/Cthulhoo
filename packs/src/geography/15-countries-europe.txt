@@ -1,0 +1,65 @@
+id: geography-countries-europe
+text: Name a country in Europe.
+flavor: An old continent, crowded with borders. Every one of them was drawn over something.
+rules: Any sovereign country wholly or partly in Europe. The four nations of the United Kingdom count too.
+section: World
+---
+1 France
+1 Germany | Deutschland
+1 Italy | Italia
+1 Spain | España | Espana
+1 United Kingdom | UK | Great Britain | Britain | U.K. | GB
+1 England
+2 Greece | Hellas
+2 Portugal
+2 Ireland | Republic of Ireland | Eire | Éire
+2 Netherlands | Holland | The Netherlands
+2 Switzerland
+2 Sweden
+2 Norway
+2 Poland
+2 Russia | Russian Federation
+2 Belgium
+2 Austria
+2 Denmark
+2 Scotland
+2 Ukraine
+2 Croatia
+2 Finland
+2 Turkey | Türkiye | Turkiye
+2 Wales | Cymru
+2 Iceland
+3 Hungary
+3 Czech Republic | Czechia
+3 Romania
+3 Serbia
+3 Bulgaria
+3 Northern Ireland
+3 Malta
+3 Cyprus
+3 Slovakia
+3 Slovenia
+3 Albania
+3 Estonia
+3 Latvia
+3 Lithuania
+3 Belarus
+3 Luxembourg
+3 Monaco
+3 Vatican City | Vatican | Holy See | The Vatican
+3 Bosnia and Herzegovina | Bosnia | Bosnia-Herzegovina | Bosnia Herzegovina | BiH
+4 Montenegro
+4 North Macedonia | Macedonia | Republic of Macedonia | FYROM
+4 Kosovo
+4 Moldova | Moldavia
+4 Georgia | Sakartvelo
+4 Armenia
+4 Azerbaijan
+4 Liechtenstein
+4 Andorra
+5 Kazakhstan
+6 San Marino | Most Serene Republic of San Marino :: The world's oldest surviving republic, by tradition founded in AD 301 by a stonemason hiding on a mountain. It is still run by two heads of state at once.
+x Greenland | Faroe Islands | Gibraltar | Jersey | Guernsey | Isle of Man | Åland | Aland | Svalbard | Channel Islands :: A territory or dependency, not a sovereign country.
+x Yugoslavia | Czechoslovakia | Soviet Union | USSR | East Germany | West Germany | Prussia | Bohemia | Austria-Hungary :: It was once. It is not on the map any more.
+x Israel | Morocco | Egypt | Australia | Lebanon | Tunisia | Syria :: Not in Europe, whatever Eurovision may suggest.
+x Europe | European Union | EU | Scandinavia | Balkans | Catalonia | Bavaria | Transnistria | Sicily | Sardinia | Corsica | Crete :: A region, a union or an island, not a country.

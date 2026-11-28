@@ -1,0 +1,151 @@
+id: geography-rivers
+text: Name a river.
+flavor: All of them are going to the same place. None of them is in any hurry to arrive.
+rules: Any named river anywhere in the world.
+section: World
+---
+1 Nile | River Nile | Nile River | White Nile | Blue Nile
+1 Amazon | Amazon River | Amazonas | Rio Amazonas
+1 Murray | Murray River | River Murray
+1 Thames | River Thames
+1 Mississippi | Mississippi River
+2 Yarra | Yarra River
+2 Darling | Darling River
+2 Ganges | Ganga | River Ganges
+2 Yangtze | Yangtze River | Chang Jiang | Yangtse | Yangzi
+2 Danube | Donau | Duna | Dunav
+2 Seine | River Seine
+2 Rhine | Rhein | Rijn | Rhin
+2 Mekong | Mekong River
+2 Congo | Congo River | Zaire River
+2 Jordan | River Jordan | Jordan River
+2 Tigris
+2 Euphrates
+2 Yellow River | Huang He | Hwang Ho | Huanghe
+2 Volga
+2 Colorado | Colorado River
+2 Hudson | Hudson River
+2 Zambezi | Zambesi
+2 Indus
+2 Brisbane River | Swan River | Swan | Murrumbidgee | Parramatta River | Hawkesbury | Derwent | Snowy River | Snowy | Torrens | Franklin
+2 Rio Grande | Río Bravo | Rio Bravo
+2 Missouri | Missouri River
+2 Niger | Niger River
+2 Tiber | Tevere
+2 Styx | River Styx
+3 Waikato | Waikato River
+3 Sepik | Fly | Fly River
+3 Brahmaputra | Tsangpo | Yarlung Tsangpo | Jamuna
+3 Irrawaddy | Ayeyarwady
+3 Yamuna
+3 Chao Phraya
+3 Red River | Song Hong
+3 Pearl River | Zhujiang
+3 Amur | Heilongjiang | Heilong Jiang
+3 Lena
+3 Ob | Ob River
+3 Yenisei | Yenisey
+3 Ural | Ural River
+3 Don | Don River
+3 Dnieper | Dnipro
+3 Dniester
+3 Vistula | Wisła | Wisla
+3 Oder | Odra
+3 Elbe | Labe
+3 Main
+3 Moselle | Mosel
+3 Loire
+3 Rhône | Rhone
+3 Garonne
+3 Dordogne
+3 Po | River Po
+3 Arno
+3 Tagus | Tejo | Tajo
+3 Douro | Duero
+3 Ebro
+3 Guadalquivir
+3 Severn | River Severn
+3 Mersey | River Mersey
+3 Tyne | River Tyne
+3 Trent | River Trent
+3 Avon | River Avon
+3 Clyde | River Clyde
+3 Shannon | River Shannon
+3 Liffey | River Liffey
+3 Tay | Spey | Forth | Tweed
+3 Humber | Ouse | Wye | Dee | Cam | Tees | Wear | Exe | Medway
+3 Orinoco
+3 Paraná | Parana
+3 Paraguay | Paraguay River
+3 Uruguay | Uruguay River
+3 River Plate | Río de la Plata | Rio de la Plata | Plate
+3 Magdalena
+3 São Francisco | Sao Francisco
+3 Rio Negro | Negro
+3 Madeira | Madeira River
+3 Tocantins | Xingu | Tapajós | Tapajos | Araguaia
+3 Yukon | Yukon River
+3 Mackenzie | Mackenzie River
+3 St Lawrence | Saint Lawrence | St Lawrence River | St. Lawrence
+3 Columbia | Columbia River
+3 Ohio | Ohio River
+3 Potomac
+3 Tennessee | Tennessee River
+3 Arkansas | Arkansas River
+3 Snake | Snake River
+3 Delaware | Delaware River
+3 Sacramento | San Joaquin
+3 Chicago River | Charles River | East River | Cuyahoga | Los Angeles River
+3 Fraser | Fraser River
+3 Limpopo
+3 Orange | Orange River | Gariep
+3 Senegal | Senegal River
+3 Gambia | Gambia River
+3 Volta | Volta River
+6 Okavango | Kavango | Cubango :: The river that never finds the sea. It runs 1,600 kilometres inland from Angola and simply spreads out and vanishes into the Kalahari.
+3 Kasai | Ubangi | Lualaba
+3 Amu Darya | Oxus
+3 Syr Darya | Jaxartes
+3 Helmand
+3 Kabul River
+3 Karun
+3 Salween | Thanlwin | Nu River
+3 Godavari | Krishna | Narmada | Kaveri | Cauvery | Mahanadi | Sutlej | Jhelum | Chenab | Ravi | Beas | Hooghly
+3 Kwai | River Kwai | Khwae
+3 Han River | Han
+3 Yalu | Tumen
+3 Sumida | Shinano | Tone
+3 Clutha | Whanganui | Waitaki | Rangitikei
+3 Lachlan | Hunter | Clarence | Fitzroy | Ord | Daintree | Todd | Maribyrnong | Georges River | Molonglo | Goulburn | Murchison | Burdekin | Cooper Creek | Diamantina | Finke | Gordon | Huon | Katherine River
+6 Rubicon | River Rubicon | Rubicone :: A shallow stream in northern Italy. Julius Caesar marched his army across it in 49 BC, which was treason, and "crossing the Rubicon" has meant no way back ever since.
+3 Lethe | Acheron | Cocytus | Phlegethon
+4 Vltava | Moldau
+4 Neva
+4 Moskva | Moscow River
+4 Spree | Havel
+4 Isar | Inn | Neckar | Weser | Ruhr | Saar
+4 Meuse | Maas | Scheldt | Schelde
+4 Marne | Somme | Oise | Aisne | Saône | Saone
+4 Sava | Drava | Tisza | Morava | Drina | Neretva | Vardar | Maritsa
+4 Daugava | Neman | Nemunas | Western Dvina
+4 Kama | Oka | Northern Dvina | Pechora
+4 Irtysh | Angara | Kolyma | Indigirka | Aldan | Tobol | Ishim
+4 Shatt al-Arab | Arvand Rud
+4 Litani | Orontes | Yarmouk
+4 Awash | Omo | Juba | Shebelle | Tana | Rufiji | Ruvuma | Atbara
+4 Benue | Sanaga | Ogooué | Ogooue | Cunene | Kunene | Cuanza | Kwanza
+4 Vaal | Tugela | Kafue | Luangwa | Shire | Save | Chobe
+4 Bío Bío | Biobio | Maipo | Loa | Mapocho
+4 Essequibo | Demerara | Courantyne | Suriname River | Maroni
+4 Putumayo | Japurá | Caquetá | Ucayali | Marañón | Maranon | Purus | Juruá | Beni | Mamoré | Pilcomayo | Iguazu | Iguaçu | Tietê | Tiete
+4 Usumacinta | Grijalva | Balsas | Lerma | San Juan River
+4 Platte | Red River of the South | Brazos | Pecos | Gila | Wabash | Cumberland | Susquehanna | Connecticut River | Mohawk | Allegheny | Monongahela | Savannah | Chattahoochee | James River | Shenandoah | Rappahannock | Kennebec | Penobscot | Willamette | Klamath | Yellowstone | Green River | Illinois River | Wisconsin River | Minnesota River | Des Moines River | Canadian River | Cimarron | Yazoo | Pearl | Suwannee | St Johns River | Truckee | Humboldt | Kuskokwim | Tanana | Copper River
+4 Ottawa River | Saguenay | Saskatchewan | Athabasca | Peace River | Nelson River | Churchill River | Red River of the North | Assiniboine | Skeena | Thompson | Klondike | Bow River | Saint John River
+4 Kizil Irmak | Kızılırmak | Sakarya | Meander | Büyük Menderes | Halys
+4 Aras | Kura | Terek | Kuban | Rioni
+4 Tarim | Ili | Chu | Zeravshan | Hari | Murghab
+4 Liao | Huai | Songhua | Min | Jialing | Wei | Xi | Li River | Gan | Xiang | Hai | Wu | Nen
+4 Kapuas | Mahakam | Barito | Musi | Mamberamo | Solo | Brantas | Citarum | Rajang | Kinabatangan | Pahang | Perak | Cagayan | Pasig | Agusan
+4 Kosi | Gandaki | Ghaghara | Son | Chambal | Betwa | Tapti | Tapi | Sabarmati | Mahi | Teesta | Meghna | Padma | Karnaphuli | Mahaweli | Kelani
+x Sydney Harbour | Lake Eyre | Loch Ness | Dead Sea | Suez Canal | Panama Canal | Niagara Falls | Victoria Falls | English Channel | Bosphorus | Great Barrier Reef | Lake Victoria :: Water, but not a river.
+x River | Creek | Stream | Waterfall | Delta | Estuary :: Which one? Name the river.

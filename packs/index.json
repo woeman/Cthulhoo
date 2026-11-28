@@ -59,6 +59,30 @@
    "file": "chemistry.json",
    "prompts": 10,
    "answers": 1486
+  },
+  {
+   "id": "geography",
+   "name": "Geography",
+   "title": "The Edges of the Map",
+   "blurb": "Countries, capitals, rivers, ranges, seas and every corner of Australia.",
+   "group": "Humanities",
+   "order": 6,
+   "asOf": "2026-11-28",
+   "file": "geography.json",
+   "prompts": 18,
+   "answers": 3040
+  },
+  {
+   "id": "languages",
+   "name": "Languages",
+   "title": "The Unspeakable Tongues",
+   "blurb": "Living and dead languages, scripts, grammar, borrowed words and First Languages.",
+   "group": "Languages",
+   "order": 7,
+   "asOf": "2026-11-28",
+   "file": "languages.json",
+   "prompts": 17,
+   "answers": 3663
   }
  ]
 }

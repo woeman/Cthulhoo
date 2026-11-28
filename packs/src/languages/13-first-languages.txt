@@ -1,0 +1,196 @@
+id: languages-first-languages
+text: Name an Aboriginal or Torres Strait Islander language.
+flavor: More than 250 languages were spoken here before 1788. Many are being woken again.
+rules: Any Australian First Nations language or language group, in any accepted spelling.
+section: First Languages
+---
+1 Pitjantjatjara | Pitjantjatjarra | Pitjantjara
+1 Wiradjuri | Wiradjuri language | Wiradhuri
+1 Noongar | Nyungar | Nyoongar | Nyungah | Noongah
+1 Arrernte | Aranda | Arunta | Eastern Arrernte | Western Arrernte | Central Arrernte | Arrarnta
+1 Warlpiri | Walpiri | Warlbiri
+1 Yolngu | Yolŋu Matha | Yolngu Matha | Yolŋu
+2 Kriol | Australian Kriol | Roper River Kriol
+2 Gamilaraay | Kamilaroi | Gamilaroi | Gomeroi
+2 Dharug | Darug | Dharuk | Sydney language | Eora
+2 Bundjalung | Banjalang | Bandjalang
+2 Kaurna
+2 Tiwi
+2 Torres Strait Creole | Yumplatok | Broken | Torres Strait Kriol
+2 Palawa kani | Palawa
+2 Yorta Yorta | Yota Yota
+2 Ngunnawal | Ngunawal
+2 Larrakia | Larrakiya
+2 Gumbaynggirr | Gumbaynggir | Kumbainggar
+2 Woiwurrung | Wurundjeri | Woi wurrung | Woiwurung
+5 Guugu Yimithirr | Guugu Yimidhirr | Gugu Yimithirr | Guguyimidjir | Guugu Yimidhirr language :: The Cooktown language that gave English "kangaroo" in 1770. Its speakers use north, south, east and west where English uses left and right.
+2 Ngarrindjeri
+2 Kala Lagaw Ya | Kalaw Lagaw Ya | Kalaw Kawaw Ya
+2 Meriam Mir | Meriam | Miriam Mer | Meriam Mer
+2 Luritja | Pintupi-Luritja | Loritja
+2 Pintupi | Pintubi
+2 Dharawal | Tharawal
+2 Yuin | Dhurga
+2 Gunditjmara | Dhauwurd Wurrung | Gunditj
+2 Gunaikurnai | Gunai | Kurnai
+2 Boonwurrung | Bunurong | Boon Wurrung
+2 Yawuru
+2 Murrinh-Patha | Murrinhpatha | Murrinh Patha
+2 Kuku Yalanji | Guugu Yalandji | Kuku-Yalanji
+2 Barkindji | Paakantyi | Baakandji | Barkandji
+2 Anangu | Western Desert language | Western Desert
+3 Yankunytjatjara | Yankunytjatjarra
+3 Ngaanyatjarra
+3 Martu Wangka | Martu
+3 Anmatyerr | Anmatyerre | Anmatjirra
+3 Alyawarr | Alyawarre | Alyawarra
+3 Kaytetye | Kaititj | Kaytej
+3 Warumungu | Warramunga
+3 Gurindji
+3 Djambarrpuyngu | Djambarrpuyŋu
+3 Gumatj
+3 Gupapuyngu | Gupapuyŋu
+3 Burarra
+3 Kunwinjku | Bininj Kunwok | Bininj Gun-wok | Gunwinggu
+3 Anindilyakwa | Enindhilyagwa
+3 Jawoyn
+3 Walmajarri | Walmatjarri
+3 Bunuba
+3 Kija | Gija
+3 Miriwoong | Miriuwung
+3 Nyikina
+3 Bardi
+3 Yindjibarndi
+3 Wajarri | Watjarri
+3 Adnyamathanha
+3 Narungga
+3 Barngarla | Parnkalla
+3 Kalkatungu | Kalkadoon | Kalkutungu
+3 Yidiny | Yidinj
+3 Dyirbal | Jirrbal
+3 Djabugay | Tjapukai | Dyaabugay
+3 Wik-Mungkan | Wik Mungkan | Wik
+3 Wakka Wakka | Waka Waka
+3 Gubbi Gubbi | Kabi Kabi
+3 Yugambeh
+3 Turrbal
+3 Yagara | Jagera | Yuggera
+3 Butchulla | Badtjala | Batjala
+3 Awabakal
+3 Darkinjung | Darkinyung
+3 Gundungurra | Gandangara
+3 Ngarigo | Ngarigu
+3 Dunghutti | Dhanggati | Thunghutti
+3 Biripi | Birpai | Birrbay
+3 Worimi | Gathang | Kattang
+3 Wemba Wemba | Wamba Wamba
+3 Dja Dja Wurrung | Djadjawurrung | Jaara
+3 Taungurung | Daung Wurrung
+3 Wathaurong | Wadawurrung | Wathawurrung
+3 Yuwaalaraay | Yuwalaraay | Euahlayi
+3 Ngiyampaa | Ngiyambaa | Wangaaypuwan
+3 Muruwari
+3 Wangkatha | Wongatha | Wangkatja
+3 Kukatja
+3 Nyangumarta | Nyangumarda
+3 Karajarri
+3 Ngarluma
+3 Banyjima | Panyjima
+4 Mirning
+4 Iwaidja
+4 Maung | Mawng
+4 Dalabon
+4 Rembarrnga
+4 Wardaman
+4 Gooniyandi
+4 Jingulu
+4 Mudburra
+4 Ngarinyman
+4 Garrwa | Garawa
+4 Yanyuwa | Yanyula
+4 Marra
+4 Alawa
+4 Nunggubuyu | Wubuy
+4 Ritharrngu
+4 Ndjébbana | Ndjebbana
+4 Kayardild
+4 Lardil
+6 Damin :: A secret ceremonial language of Lardil men on Mornington Island. It is the only language outside Africa known to use click sounds.
+4 Kuuk Thaayorre | Thaayorre
+4 Umpila
+4 Warrgamay
+4 Gugu Badhun
+4 Bidjara
+4 Gunggari
+4 Darumbal
+4 Gooreng Gooreng | Gureng Gureng
+4 Jandai
+4 Anaiwan | Nganyaywana
+4 Wergaia
+4 Pitta Pitta | Pitta-Pitta
+4 Nhanda
+4 Badimaya
+4 Ngadjuri
+4 Warlmanpa
+4 Djinang
+4 Gurr-goni
+4 Arabana | Arabunna
+4 Diyari | Dieri
+4 Wangkangurru
+4 Yandruwandha
+4 Wirangu
+4 Kokatha
+4 Antikirinya | Antikarinya
+4 Manyjilyjarra
+4 Jaru | Djaru
+4 Ngardi
+4 Worrorra
+4 Ngarinyin | Ungarinjin
+4 Wunambal
+4 Nyulnyul
+4 Jabirr Jabirr
+4 Thalanyji
+4 Kurrama
+4 Nyamal
+4 Kariyarra
+4 Ngarla
+4 Malgana
+4 Nyiyaparli
+4 Kunbarlang
+4 Gaagudju
+4 Wagiman
+4 Malak Malak | MalakMalak
+4 Marrithiyel
+4 Ngan'gityemerri | Ngan'gikurunggurr
+4 Jaminjung
+4 Ngaliwurru
+4 Warndarrang
+4 Waanyi
+6 Mbabaram | Barbaram :: A language of north Queensland famous among linguists for one coincidence: its word for dog was "dog", with no connection to English at all.
+4 Girramay
+4 Nyawaygi
+4 Biri | Birri Gubba
+4 Wangkumara
+4 Kullilli
+4 Budjiti | Badjiri
+4 Bigambul
+4 Githabul
+4 Yaegl
+4 Wonnarua
+4 Wailwan | Weilwan
+4 Nari Nari
+4 Mutti Mutti | Muthi Muthi
+4 Latji Latji | Latje Latje
+4 Wadi Wadi
+4 Barapa Barapa | Baraba Baraba
+4 Djab Wurrung | Djabwurrung
+4 Jardwadjali
+4 Bidawal | Bidhawal
+4 Dhudhuroa
+4 Waveroo | Waywurru
+4 Peramangk
+4 Nukunu
+4 Boandik | Bunganditj | Buandig
+x Māori | Maori | Te Reo | Tok Pisin | Hawaiian | Fijian | Samoan | Tongan | Hiri Motu :: A language of the Pacific, but not of Australia's First Peoples.
+x Aboriginal | Aboriginal language | Indigenous | Aboriginal English | Koori | Murri | Nunga | Dreamtime :: Which one? There were more than 250, so name a language itself.
+x Uluru | Kakadu | Arnhem Land | Kimberley | Pilbara | Torres Strait :: That is a place. Name a language spoken there.
