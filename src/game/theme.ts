@@ -2,6 +2,7 @@ import placeholder from '../content/theme.placeholder.json';
 import careerPlaceholder from '../content/career.placeholder.json';
 import type { CareerCopy, CreatureDef, CultRank, Landmark, MilestoneDef, ThemeCopy, TierDef, ZoneDef, ZoneKey } from './types';
 import { hashString } from './daily';
+import { usableSlips } from './slips';
 
 // Copy comes from data/theme.json (question-bank thread). Until that file is in
 // the repo, src/content/theme.placeholder.json (an early copy of it) is used.
@@ -200,6 +201,7 @@ export function buildTheme(raw: unknown): ThemeCopy {
     }
   }
   const share: Json = isObj(r.share) ? r.share : {};
+  const slips: Json = isObj(r.slips) ? r.slips : {};
 
   return {
     maxDepth: num(r.maxDepth, 7000),
@@ -230,6 +232,7 @@ export function buildTheme(raw: unknown): ThemeCopy {
       missEmoji: str(share.missEmoji, '🫧'),
     },
     howToPlay: strs(r.howToPlay, []),
+    slips: { lines: usableSlips(slips.lines) },
     cultRanks: CULT_RANKS,
     career: buildCareer(r.career),
     bestiary: buildBestiary(r.bestiary),

@@ -96,6 +96,8 @@ export interface ThemeCopy {
   /** Placeholders: {day} {depth} {emoji} {landmark} {zone} {sanity} {omen} {url} */
   share: { template: string; missEmoji: string };
   howToPlay: string[];
+  /** Remarks for an answer taken despite a spelling slip; each shows the right spelling where {answer} stands. */
+  slips: { lines: string[] };
   cultRanks: CultRank[];
   career: CareerCopy;
   bestiary: CreatureDef[];
