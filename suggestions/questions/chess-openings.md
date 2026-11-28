@@ -50,7 +50,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Queen's Gambit Accepted — QGA | Queen's Gambit Accepted Classical | Queen's Gambit Accepted Classical Variation
 - Semi-Slav Defence — Semi-Slav | Semi-Slav Opening | Queen's Gambit Declined Semi-Slav
-- Tarrasch Defence — QGD Tarrasch Defence | QGD Tarrasch Defense | QGD Tarrasch | Queen's Gambit Declined Tarrasch Defence | Queen's Gambit Declined Tarrasch Defense | Queen Gambit Declined Tarrasch Defence | Queen Gambit Declined Tarrasch Defense | Queen's Gambit Declined Tarrasch | Queen Gambit Declined Tarrasch | Queen's Gambit Tarrasch Defence | Queen's Gambit Tarrasch Defense | Queen Gambit Tarrasch Defence | Queen Gambit Tarrasch Defense | Queen's Gambit Tarrasch | Queen Gambit Tarrasch | Tarrasch Defence Symmetrical Variation | Tarrasch Defence Symmetrical | Tarrasch Defence Classical Variation | Tarrasch Defence Classical | Prague Variation | Tarrasch Prague Variation | Tarrasch Defence Prague Variation
+- Tarrasch Defence — Tarrasch | Tarrasch Opening | QGD Tarrasch Defence | QGD Tarrasch Defense | QGD Tarrasch | Queen's Gambit Declined Tarrasch Defence | Queen's Gambit Declined Tarrasch Defense | Queen Gambit Declined Tarrasch Defence | Queen Gambit Declined Tarrasch Defense | Queen's Gambit Declined Tarrasch | Queen Gambit Declined Tarrasch | Queen's Gambit Tarrasch Defence | Queen's Gambit Tarrasch Defense | Queen Gambit Tarrasch Defence | Queen Gambit Tarrasch Defense | Queen's Gambit Tarrasch | Queen Gambit Tarrasch | Tarrasch Defence Symmetrical Variation | Tarrasch Defence Symmetrical | Tarrasch Defence Classical Variation | Tarrasch Defence Classical | Prague Variation | Tarrasch Prague Variation | Tarrasch Defence Prague Variation
 - Albin Countergambit — Albin | QGD Albin Countergambit | QGD Albin | Queen's Gambit Declined Albin Countergambit | Queen Gambit Declined Albin Countergambit | Queen's Gambit Declined Albin | Queen Gambit Declined Albin | Queen's Gambit Albin Countergambit | Queen Gambit Albin Countergambit | Queen's Gambit Albin | Queen Gambit Albin
 - Colle System — Colle | Queen's Pawn Game Colle System | Indian Defence Colle System
 - Torre Attack — Torre | Queen's Pawn Game Torre Attack
@@ -63,7 +63,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Budapest Gambit — Budapest | Indian Defence Budapest Gambit | Budapest Gambit Accepted
 - King's Indian Attack — KIA
 - Bird's Opening — Bird Opening | Bird's | Bird
-- Modern Defence — Robatsch Defence | Robatsch Defense | Robatsch | Robatsch Opening
+- Modern Defence — Robatsch Defence | Robatsch Defense | Robatsch | Robatsch Opening | Modern
 - Bishop's Opening
 - Four Knights Game — Scotch Four Knights | Spanish Four Knights | Four Knights Variation | Four Knights
 - Philidor Defence — Philidor's Defence | Philidor's Defense | Philidor Defense | Hanham Variation | Philidor | Philidor Opening | Philidor's | Philidor's Opening | Hanham | Philidor Defence Exchange Variation | Philidor Exchange Variation | Philidor Defence Exchange | Philidor Exchange | Philidor Defence Hanham Variation
@@ -83,7 +83,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bongcloud Attack — Bongcloud Opening | Double Bongcloud | Bongcloud
 - Queen's Pawn Game — Queen's Pawn Opening | Queen Pawn Opening | Queen's Pawn | Queen Pawn | Queen's Pawn Game Symmetrical Variation | Queen's Pawn Symmetrical Variation | Queen's Pawn Game Symmetrical | Queen's Pawn Symmetrical
 - King's Pawn Game — King's Pawn Opening | King Pawn Opening | King's Pawn | King Pawn
-- Indian Defence — Indian Game
+- Indian Defence — Indian Game | Indian
 - Open Game — Double King's Pawn Opening | Double King's Pawn Game
 - Closed Game — Double Queen's Pawn Opening | Double Queen's Pawn Game
 
@@ -100,7 +100,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Halloween Gambit — Halloween | Four Knights Halloween Gambit | Four Knights Halloween | Four Knights Game Halloween Gambit | Müller–Schulze Gambit | Leipzig Gambit
 - Parham Attack — Wayward Queen Attack | Parham | Wayward Queen | King's Pawn Game Wayward Queen Attack
 - Damiano Defence — Damiano | Damiano Opening
-- Hungarian Defence — Italian Hungarian Defence | Italian Hungarian Defense | Italian Hungarian | Italian Game Hungarian Defence | Italian Game Hungarian Defense | Italian Game Hungarian | Two Knights Hungarian Defence | Two Knights Hungarian Defense | Two Knights Hungarian | Two Knights Defence Hungarian Defence | Two Knights Defense Hungarian Defense | Two Knights Defence Hungarian | Two Knights Defense Hungarian | Giuoco Piano Hungarian Defence | Giuoco Piano Hungarian Defense | Giuoco Piano Hungarian
+- Hungarian Defence — Hungarian | Italian Hungarian Defence | Italian Hungarian Defense | Italian Hungarian | Italian Game Hungarian Defence | Italian Game Hungarian Defense | Italian Game Hungarian | Two Knights Hungarian Defence | Two Knights Hungarian Defense | Two Knights Hungarian | Two Knights Defence Hungarian Defence | Two Knights Defense Hungarian Defense | Two Knights Defence Hungarian | Two Knights Defense Hungarian | Giuoco Piano Hungarian Defence | Giuoco Piano Hungarian Defense | Giuoco Piano Hungarian
 - Schliemann Defence — Jaenisch Gambit | Schliemann–Jaenisch Gambit | Schliemann Gambit | Schliemann | Schliemann Opening | Jaenisch | Schliemann–Jaenisch | Ruy Lopez Schliemann Defence | Ruy Lopez Schliemann Defense | Ruy Lopez Schliemann | Spanish Schliemann Defence | Spanish Schliemann Defense | Spanish Schliemann
 - Morphy Defence — Morphy | Morphy Opening | Ruy Lopez Morphy Defence | Ruy Lopez Morphy Defense | Ruy Lopez Morphy | Spanish Morphy Defence | Spanish Morphy Defense | Spanish Morphy
 - Falkbeer Countergambit — Falkbeer | King's Gambit Falkbeer Countergambit | King Gambit Falkbeer Countergambit | King's Gambit Falkbeer | King Gambit Falkbeer | King's Gambit Declined Falkbeer Countergambit | Falkbeer Countergambit Accepted
@@ -119,18 +119,18 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wing Gambit — Wing | Sicilian Wing Gambit | Sicilian Wing | Wing Sicilian | Sicilian Defence Wing Gambit | Sicilian Defense Wing Gambit | Sicilian Defence Wing | Sicilian Defense Wing | French Wing Gambit | French Wing | Wing French | French Defence Wing Gambit | French Defense Wing Gambit | French Defence Wing | French Defense Wing
 - Leningrad Dutch — Leningrad Variation | Leningrad | Dutch Leningrad | Dutch Leningrad Dutch | Dutch Defence Leningrad Dutch | Dutch Defense Leningrad Dutch | Dutch Defence Leningrad Variation | Dutch Leningrad Variation
 - Stonewall Dutch — Stonewall Defence | Stonewall Defense | Dutch Stonewall | Dutch Stonewall Dutch | Dutch Defence Stonewall Dutch | Dutch Defense Stonewall Dutch
-- Stonewall Attack — Queen's Pawn Game Stonewall Attack
+- Stonewall Attack — Stonewall | Queen's Pawn Game Stonewall Attack
 - Jobava London — Jobava London System | Jobava | Rapport–Jobava System | Rapport–Jobava
 - Veresov Attack — Veresov Opening | Richter–Veresov Attack | Veresov | Richter–Veresov | Queen's Pawn Game Veresov Attack | Queen's Pawn Game Veresov
 - Colle–Zukertort System — Colle–Zukertort
 - Zukertort Opening — Zukertort
 - Larsen's Opening — Nimzo-Larsen Attack | Nimzowitsch–Larsen Attack | Larsen Opening | Larsen's | Nimzo-Larsen | Nimzowitsch–Larsen | Larsen | Nimzo-Larsen Attack Classical Variation | Nimzo-Larsen Classical Variation | Nimzo-Larsen Attack Classical | Nimzo-Larsen Classical | Nimzo-Larsen Attack Modern Variation | Nimzo-Larsen Modern Variation | Nimzo-Larsen Attack Modern | Nimzo-Larsen Modern | Nimzo-Larsen Attack Symmetrical Variation | Nimzo-Larsen Symmetrical Variation | Nimzo-Larsen Attack Symmetrical | Nimzo-Larsen Symmetrical
-- Sokolsky Opening — Polish Opening | Orangutan Opening | Orangutan | Sokolsky | Polish Opening Symmetrical Variation | Polish Opening Symmetrical
+- Sokolsky Opening — Polish Opening | Orangutan Opening | Orangutan | Sokolsky | Polish | Polish Opening Symmetrical Variation | Polish Opening Symmetrical
 - Hippopotamus Defence — Hippo | Hippopotamus | Hippopotamus Opening
 - Hedgehog System — Hedgehog Defence | Hedgehog Defense | Hedgehog | Hedgehog Opening
 - Black Knights' Tango — Mexican Defence | Mexican Defense | Kevitz–Trajkovic Defence | Kevitz–Trajkovic Defense | Mexican | Mexican Opening | Kevitz–Trajkovic | Kevitz–Trajkovic Opening
 - Blumenfeld Gambit — Blumenfeld | Blumenfeld Countergambit | Blumenfeld Countergambit Accepted
-- Chigorin Defence — QGD Chigorin Defence | QGD Chigorin Defense | QGD Chigorin | Queen's Gambit Declined Chigorin Defence | Queen's Gambit Declined Chigorin Defense | Queen Gambit Declined Chigorin Defence | Queen Gambit Declined Chigorin Defense | Queen's Gambit Declined Chigorin | Queen Gambit Declined Chigorin | Queen's Gambit Chigorin Defence | Queen's Gambit Chigorin Defense | Queen Gambit Chigorin Defence | Queen Gambit Chigorin Defense | Queen's Gambit Chigorin | Queen Gambit Chigorin
+- Chigorin Defence — Tchigorin | Chigorin | Chigorin Opening | QGD Chigorin Defence | QGD Chigorin Defense | QGD Chigorin | Queen's Gambit Declined Chigorin Defence | Queen's Gambit Declined Chigorin Defense | Queen Gambit Declined Chigorin Defence | Queen Gambit Declined Chigorin Defense | Queen's Gambit Declined Chigorin | Queen Gambit Declined Chigorin | Queen's Gambit Chigorin Defence | Queen's Gambit Chigorin Defense | Queen Gambit Chigorin Defence | Queen Gambit Chigorin Defense | Queen's Gambit Chigorin | Queen Gambit Chigorin
 - Breyer Variation — Breyer | Ruy Lopez Breyer Variation | Ruy Lopez Breyer | Spanish Breyer Variation | Spanish Breyer
 - Mar del Plata Variation — Mar del Plata | King's Indian Mar del Plata Variation | King Indian Mar del Plata Variation | King's Indian Mar del Plata | King Indian Mar del Plata | King's Indian Defence Mar del Plata Variation | King's Indian Defense Mar del Plata Variation | King Indian Defence Mar del Plata Variation | King Indian Defense Mar del Plata Variation | King's Indian Defence Mar del Plata | King's Indian Defense Mar del Plata | King Indian Defence Mar del Plata | King Indian Defense Mar del Plata | KID Mar del Plata Variation | KID Mar del Plata
 - Sämisch Variation — Saemisch Variation | Sämisch | Saemisch | King's Indian Sämisch Variation | King Indian Sämisch Variation | King's Indian Sämisch | King Indian Sämisch | King's Indian Defence Sämisch Variation | King's Indian Defense Sämisch Variation | King Indian Defence Sämisch Variation | King Indian Defense Sämisch Variation | King's Indian Defence Sämisch | King's Indian Defense Sämisch | King Indian Defence Sämisch | King Indian Defense Sämisch | KID Sämisch Variation | KID Sämisch | Nimzo-Indian Sämisch Variation | Nimzo-Indian Sämisch | Nimzo Sämisch Variation | Nimzo Sämisch | Nimzo-Indian Defence Sämisch Variation
@@ -147,9 +147,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - MacCutcheon Variation — MacCutcheon | French MacCutcheon Variation | French MacCutcheon | MacCutcheon French | French Defence MacCutcheon Variation | French Defense MacCutcheon Variation | French Defence MacCutcheon | French Defense MacCutcheon
 - French Tarrasch — Tarrasch French | Tarrasch Variation | French Defence Tarrasch Variation | French Tarrasch Variation
 - Owen's Defence — Queen's Fianchetto Defence | Queen's Fianchetto Defense | Queen Fianchetto Defence | Queen Fianchetto Defense | Owen's | Owen's Opening | Owen Opening | Queen's Fianchetto | Queen Fianchetto | Queen's Fianchetto Opening | Queen Fianchetto Opening
-- Nimzowitsch Defence — Nimzovich Defence | Nimzovich Defense
+- Nimzowitsch Defence — Nimzovich Defence | Nimzovich Defense | Nimzowitch | Nimzowitsch | Nimzowitsch Opening | Nimzovich | Nimzovich Opening
 - St. George Defence — St. George | St. George Opening
-- Steinitz Defence — Old Steinitz Defence | Old Steinitz Defense | Modern Steinitz Defence | Modern Steinitz Defense | Old Steinitz | Old Steinitz Opening | Modern Steinitz | Modern Steinitz Opening | Ruy Lopez Steinitz Defence | Ruy Lopez Steinitz Defense | Ruy Lopez Steinitz | Spanish Steinitz Defence | Spanish Steinitz Defense | Spanish Steinitz
+- Steinitz Defence — Old Steinitz Defence | Old Steinitz Defense | Modern Steinitz Defence | Modern Steinitz Defense | Steinitz | Steinitz Opening | Old Steinitz | Old Steinitz Opening | Modern Steinitz | Modern Steinitz Opening | Ruy Lopez Steinitz Defence | Ruy Lopez Steinitz Defense | Ruy Lopez Steinitz | Spanish Steinitz Defence | Spanish Steinitz Defense | Spanish Steinitz
 - Blackburne Shilling Gambit — Kostić Gambit | Blackburne Shilling | Kostić | Italian Blackburne Shilling Gambit | Italian Blackburne Shilling | Italian Game Blackburne Shilling Gambit | Italian Game Blackburne Shilling | Two Knights Blackburne Shilling Gambit | Two Knights Blackburne Shilling | Two Knights Defence Blackburne Shilling Gambit | Two Knights Defense Blackburne Shilling Gambit | Two Knights Defence Blackburne Shilling | Two Knights Defense Blackburne Shilling | Giuoco Piano Blackburne Shilling Gambit | Giuoco Piano Blackburne Shilling | Blackburne–Kostić Gambit | Italian Game Blackburne–Kostić Gambit
 - Austrian Attack — Austrian | Pirc Austrian Attack | Pirc Austrian | Pirc Defence Austrian Attack | Pirc Defense Austrian Attack | Pirc Defence Austrian | Pirc Defense Austrian
 - Bayonet Attack — Bayonet | King's Indian Bayonet Attack | King Indian Bayonet Attack | King's Indian Bayonet | King Indian Bayonet | King's Indian Defence Bayonet Attack | King's Indian Defense Bayonet Attack | King Indian Defence Bayonet Attack | King Indian Defense Bayonet Attack | King's Indian Defence Bayonet | King's Indian Defense Bayonet | King Indian Defence Bayonet | King Indian Defense Bayonet | KID Bayonet Attack | KID Bayonet
@@ -239,7 +239,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nimzowitsch Sicilian
 - Bowdler Attack — Bowdler | Sicilian Bowdler Attack | Sicilian Bowdler | Bowdler Sicilian | Sicilian Defence Bowdler Attack | Sicilian Defense Bowdler Attack | Sicilian Defence Bowdler | Sicilian Defense Bowdler
 - Boleslavsky Variation — Boleslavsky | Sicilian Boleslavsky Variation | Sicilian Boleslavsky | Boleslavsky Sicilian | Sicilian Defence Boleslavsky Variation | Sicilian Defense Boleslavsky Variation | Sicilian Defence Boleslavsky | Sicilian Defense Boleslavsky
-- Keres Attack — Sicilian Keres Attack | Sicilian Keres | Keres Sicilian | Sicilian Defence Keres Attack | Sicilian Defense Keres Attack | Sicilian Defence Keres | Sicilian Defense Keres
+- Keres Attack — Keres | Sicilian Keres Attack | Sicilian Keres | Keres Sicilian | Sicilian Defence Keres Attack | Sicilian Defense Keres Attack | Sicilian Defence Keres | Sicilian Defense Keres
 - Schallopp Defence — Schallopp | Schallopp Opening | King's Gambit Schallopp Defence | King's Gambit Schallopp Defense | King Gambit Schallopp Defence | King Gambit Schallopp Defense | King's Gambit Schallopp | King Gambit Schallopp
 - Ulvestad Variation — Ulvestad | Italian Ulvestad Variation | Italian Ulvestad | Italian Game Ulvestad Variation | Italian Game Ulvestad | Two Knights Ulvestad Variation | Two Knights Ulvestad | Two Knights Defence Ulvestad Variation | Two Knights Defense Ulvestad Variation | Two Knights Defence Ulvestad | Two Knights Defense Ulvestad | Giuoco Piano Ulvestad Variation | Giuoco Piano Ulvestad
 - Fritz Variation — Fritz | Italian Fritz Variation | Italian Fritz | Italian Game Fritz Variation | Italian Game Fritz | Two Knights Fritz Variation | Two Knights Fritz | Two Knights Defence Fritz Variation | Two Knights Defense Fritz Variation | Two Knights Defence Fritz | Two Knights Defense Fritz | Giuoco Piano Fritz Variation | Giuoco Piano Fritz
@@ -292,25 +292,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Frankenstein–Dracula Variation — Frankenstein Dracula | Vienna Frankenstein–Dracula Variation | Vienna Frankenstein–Dracula | Vienna Game Frankenstein–Dracula Variation | Vienna Game Frankenstein–Dracula
 - Durkin Opening — Sodium Attack | Durkin Attack | Durkin | Sodium
 
-## Refused on purpose (22)
+## Refused on purpose (12)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Exchange Variation | Advance Variation | Classical Variation | Closed Variation | Open Variation | Main Line | Fianchetto Variation | Symmetrical Variation | Modern Variation | Normal Variation | Exchange | Advance | Classical | Accelerated | Accepted | Declined | Classical Defence — "Which opening's? Lots of them have one. Name the opening too."
-- Modern — "Which Modern? More than one opening is called that. Name the whole thing."
-- Centre — "Which one? Two openings start with that word. Name the whole thing."
-- Gambit | Countergambit — "Which gambit? There are dozens. Name one."
-- Indian — "Which Indian? There are several. Name the whole thing."
+- Exchange Variation | Advance Variation | Classical Variation | Closed Variation | Open Variation | Main Line | Fianchetto Variation | Symmetrical Variation | Modern Variation | Normal Variation | Exchange | Advance | Classical | Accelerated | Accepted | Declined | Classical Defence — "Lots of openings have one. Name the opening too."
+- Centre — "That's only half a name. Give the whole opening."
+- Gambit | Countergambit — "That's a kind of opening. Name a particular one."
 - Anti-Sicilian | Anti-Sicilians — "That's a whole family of ways to dodge the Sicilian. Name one."
 - Semi-Open Game | Semi-Closed Game | Flank Opening | Hypermodern | Hypermodern Opening | Irregular Opening — "A whole family of openings, not one. Name one of them."
-- Tarrasch — "Which Tarrasch? He gave his name to a defence and to a line of the French."
-- Steinitz — "Which Steinitz? His name is on more than one opening."
-- Chigorin | Tchigorin — "Which Chigorin? He has a defence and a line of the Ruy Lopez."
-- Nimzowitsch | Nimzovich | Nimzowitch — "Which Nimzowitsch? He gave his name to several openings. Name the whole thing."
-- Keres — "Which Keres? His name is on an attack and a defence."
-- Stonewall — "Which Stonewall? White has one, and so does Black."
-- Hungarian — "Which Hungarian? Both sides have an opening by that name."
-- Polish — "Which Polish? White has one, and so does Black."
 - Fool's Mate | Scholar's Mate | Légal's Mate | Back-rank mate | Smothered mate | Anastasia's mate | Four-move checkmate | Checkmate | Two-move checkmate | Blackburne's Mate — "A quick checkmate, not an opening."
 - Lasker Trap | Noah's Ark Trap | Elephant Trap | Fishing Pole Trap | Légal Trap | Siberian Trap | Rubinstein Trap | Mortimer Trap | Tarrasch Trap | Magnus Smith Trap | Würzburger Trap | Marshall Trap — "A trap set inside an opening, not an opening itself."
 - Castling | En passant | Fianchetto | Promotion | Zugzwang | Zwischenzug | Fork | Pin | Skewer | Discovered check | Gambit pawn — "A chess idea, not an opening."

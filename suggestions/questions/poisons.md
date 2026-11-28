@@ -42,7 +42,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wolfsbane — Aconite | Monkshood | Aconitum | Queen of poisons | Devil's helmet | Wolfsbane poisoning
 - Nicotine — Nicotine poisoning
 - Oleander — Nerium oleander | Rose laurel | Oleander poisoning
-- Death cap — Death cap mushroom | Amanita phalloides | Death cap poisoning
+- Death cap — Death cap mushroom | Amanita phalloides | Death cap poisoning | Amanita
 - Mandrake — Mandragora | Mandrake root | Mandrake poisoning
 - Atropine — Atropine poisoning
 - Bleach — Sodium hypochlorite | Chlorine bleach | Bleach poisoning
@@ -421,15 +421,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Slow loris venom — Slow loris | Loris
 - Upas tree — Upas | Antiaris toxicaria | Antiaris | Upas tree poisoning
 
-## Refused on purpose (25)
+## Refused on purpose (24)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Poison | Poisons — "Which one? Name it."
+- Poison | Poisons — "That covers every poison. Name one."
 - Toxin | Toxins | Neurotoxin | Haemotoxin | Hemotoxin | Cytotoxin | Cardiotoxin | Mycotoxin | Phytotoxin | Endotoxin | Exotoxin | Enterotoxin | Alkaloid | Heavy metal | Nerve agent | Nerve gas | Blister agent | Choking agent | Blood agent | Chemical weapon | Organophosphate | Neonicotinoid | Organochlorine — "A kind of poison, not a particular one. Name one."
 - Venom | Venoms — "Whose venom? Name the animal or its toxin."
-- Poison gas | Gas | Toxic gas | Poisonous gas — "Which gas? Name it."
-- Poisonous mushroom | Toadstool | Poisonous fungus | Mushroom | Poisonous plant | Poisonous berries | Berries — "Which one? Name it."
+- Poison gas | Gas | Toxic gas | Poisonous gas — "Many gases are poisonous. Name one."
+- Poisonous mushroom | Toadstool | Poisonous fungus | Mushroom | Poisonous plant | Poisonous berries | Berries — "That covers a great many. Name one."
 - Paracetamol | Acetaminophen | Tylenol | Calpol | Panadol | Aspirin | Ibuprofen | Insulin — "A medicine, safe at the right dose, though an overdose is dangerous."
 - Water | H2O — "Paracelsus said the dose makes the poison, but water still isn't counted as one."
 - Asbestos — "Deadly to breathe in, but its fibres do the harm; it isn't a poison."
@@ -448,5 +448,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Absinthe — "A drink once blamed for madness. It was later cleared, and is sold again."
 - Stinging nettle | Nettle | Nettles | Stinging nettles — "It stings, but it won't poison you. Its young leaves make a fair soup."
 - Chromium — "Most chromium is harmless. Only one form of it is a poison, and you'd have to name it."
-- Amanita — "Which amanita? Some kill and some are eaten. Name one."
 - Natural gas | Propane | Mains gas — "It can suffocate or explode, but it isn't poisonous. Old coal gas was, for its carbon monoxide."

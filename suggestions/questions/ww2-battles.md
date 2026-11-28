@@ -1,0 +1,391 @@
+# Name a battle of the Second World War.
+
+Question id: `ww2-battles` · category: history · source: `data/history.json`
+
+Rules: Any battle, siege, campaign or named military operation of 1939 to 1945, on land, at sea or in the air. Fighting in China from 1937 counts; plans never carried out don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (335 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- D-Day — Normandy landings | Operation Neptune | Neptune | Invasion of Normandy | Normandy invasion | Normandy | Longest Day | D-Day landings | Allied landings in Normandy | 6 June 1944 | D-Day 1944
+- Battle of Britain — Britain | Battle for Britain | Battle of Britain 1940
+- Battle of Stalingrad — Siege of Stalingrad | Stalingrad | Battle for Stalingrad | Battle of Stalingrad 1942
+- Battle of the Bulge — Ardennes Offensive | Ardennes Counteroffensive | Battle of the Ardennes | Wacht am Rhein | Operation Watch on the Rhine | Ardennes | Bulge | Battle for the Bulge | Battle of Bulge | Battle of the Bulge 1944
+- Attack on Pearl Harbor — Pearl Harbour | Attack on Pearl Harbour | Operation Z | Hawaii Operation | Pearl Harbor | Battle of Pearl Harbor | Raid on Pearl Harbor | Bombing of Pearl Harbor | Pearl Harbor 1941
+- Battle of Midway — Midway | Battle for Midway | Battle of Midway 1942
+- Dunkirk evacuation — Dunkirk | Battle of Dunkirk | Operation Dynamo | Evacuation of Dunkirk | Miracle of Dunkirk | Dunkerque | Battle for Dunkirk | Dunkirk 1940
+- Battle of El Alamein — First Battle of El Alamein | 1st Battle of El Alamein | Second Battle of El Alamein | 2nd Battle of El Alamein | Alamein | Battle of Alamein | Operation Lightfoot | El-Alamein | Battle for El Alamein | Second Battle of El Alamein 1942 | Battle of El Alamein 1942
+- Battle of Iwo Jima — Operation Detachment | Iwo Jima | Battle for Iwo Jima
+- Operation Barbarossa — German invasion of the Soviet Union | Invasion of the Soviet Union | Operation Barbarosa | Unternehmen Barbarossa | Barbarossa
+
+### Tier 2: common (26)
+
+- Battle of Normandy — Operation Overlord | Overlord | Normandy campaign | Battle for Normandy
+- Operation Market Garden — Battle of Arnhem | Arnhem | A Bridge Too Far | Battle for Arnhem | Market Garden | Battle of Arnhem 1944
+- Siege of Leningrad — Blockade of Leningrad | Leningrad blockade | 900-Day Siege | Leningrad | Battle of Leningrad
+- Battle of Berlin — Berlin | Fall of Berlin | Berlin Strategic Offensive | Battle for Berlin
+- Battle of Monte Cassino — Cassino | Battle of Cassino | Battle for Monte Cassino | Monte Cassino
+- Battle of Okinawa — Operation Iceberg | Typhoon of Steel | Okinawa | Battle for Okinawa | Battle of Okinawa 1945
+- Battle of the Atlantic — U-boat war | U-boat campaign | Atlantic | Battle for the Atlantic
+- The Blitz — London Blitz | Coventry Blitz | Liverpool Blitz | Clydebank Blitz | Belfast Blitz | Hull Blitz | Plymouth Blitz | Manchester Blitz | Birmingham Blitz | Swansea Blitz | Bristol Blitz | Cardiff Blitz | Sheffield Blitz | Southampton Blitz | Portsmouth Blitz | Bombing of Coventry | Coventry raid | Operation Moonlight Sonata | Second Great Fire of London
+- Battle of Kursk — Operation Citadel | Unternehmen Zitadelle | Battle of the Kursk Salient | Kursk | Battle for Kursk | Battle of Kursk 1943
+- Battle of Moscow — Operation Typhoon | Defence of Moscow | Defense of Moscow | Moscow | Battle for Moscow
+- Battle of the Coral Sea — Coral Sea | Battle for the Coral Sea
+- Guadalcanal campaign — Operation Watchtower | Guadalcanal | Battle of Guadalcanal
+- Battle of Leyte Gulf — Leyte Gulf | Second Battle of the Philippine Sea | Battle for Leyte Gulf
+- Fall of Singapore — Battle of Singapore | Singapore
+- Dambusters Raid — Dam Busters | Operation Chastise | Dams raid | Chastise | Raid on Dambusters
+- Battle of Crete — Operation Mercury | Crete | Battle for Crete
+- Battle of France — Fall of France | Fall Gelb | Case Yellow | Fall Rot | Case Red | German invasion of France | Invasion of France | France 1940 | France | Battle for France
+- Invasion of Poland — September Campaign | Polish campaign | Fall Weiss | Case White | Polish Defensive War | German invasion of Poland | Soviet invasion of Poland | Poland | Battle of Poland
+- Operation Torch — Allied invasion of North Africa | North African landings | Torch
+- Siege of Tobruk — Fall of Tobruk | Rats of Tobruk | Tobruk | Battle of Tobruk
+- Battle of the River Plate — Graf Spee | Admiral Graf Spee | Battle of the Plate | River Plate | Battle for the River Plate
+- Sinking of the Bismarck — Bismarck | Operation Rheinübung | Hunt for the Bismarck | Last battle of the battleship Bismarck
+- Battle of Anzio — Operation Shingle | Anzio landings | Anzio | Battle for Anzio
+- Allied invasion of Sicily — Operation Husky | Husky | Sicily | Sicilian campaign | Invasion of Sicily | Battle of Sicily
+- Warsaw Uprising — Warsaw Rising | Powstanie warszawskie | Warsaw | Battle of Warsaw
+- Atomic bombings of Hiroshima and Nagasaki — Hiroshima | Nagasaki | Bombing of Hiroshima | Atomic bombing of Hiroshima | Bombing of Nagasaki | Operation Centerboard | Atomic bombing of Nagasaki | Hiroshima and Nagasaki | Atomic bombings
+
+### Tier 3: known to fans (50)
+
+- Omaha Beach — Bloody Omaha | Omaha
+- Utah Beach — Utah
+- Juno Beach — Juno
+- Pegasus Bridge — Operation Deadstick | Battle of Pegasus Bridge
+- Battle of Caen — Operation Charnwood | Battle for Caen | Caen
+- Falaise Pocket — Battle of the Falaise Pocket | Falaise Gap | Battle of Falaise | Operation Tractable | Falaise
+- Liberation of Paris — Battle for Paris | Battle of Paris | Paris 1944 | Paris
+- Operation Dragoon — Allied invasion of southern France | Operation Anvil | Dragoon
+- Battle of Hürtgen Forest — Hurtgen Forest | Hürtgenwald | Battle of the Hürtgen Forest | Battle for Hürtgen Forest | Battle of Hurtgen | Battle of the Hurtgen
+- Battle of Remagen — Remagen | Ludendorff Bridge | Bridge at Remagen | Remagen Bridge | Battle for Remagen
+- Dieppe Raid — Operation Jubilee | Battle of Dieppe | Dieppe | Raid on Dieppe
+- St Nazaire Raid — Operation Chariot | Raid on St Nazaire | Saint-Nazaire Raid | St Nazaire
+- Operation Mincemeat — Mincemeat
+- Operation Anthropoid — Anthropoid | Assassination of Reinhard Heydrich | Heydrich assassination | Assassination of Heydrich | Killing of Heydrich
+- Siege of Malta — Malta | Battle of Malta | Malta convoys
+- Battle of Taranto — Raid on Taranto | Operation Judgement | Taranto raid | Taranto | Battle for Taranto
+- Western Desert campaign — North African campaign | Desert War | War in the Desert | Desert campaign | Western Desert | Battle of Western Desert
+- Battle of Kasserine Pass — Kasserine | Kasserine Pass | Battle for Kasserine Pass | Battle of Kasserine
+- Allied invasion of Italy — Operation Avalanche | Salerno | Salerno landings | Battle of Salerno | Operation Baytown | Italian campaign | Invasion of Italy
+- Battle of Kiev — Kiev | Kyiv | Battle of Kyiv | Battle of Kiev 1941 | Battle of Kiev 1943 | Kiev Pocket | Battle for Kiev
+- Battle of Kharkov — Kharkov | Kharkiv | Battle of Kharkiv | Second Battle of Kharkov | Third Battle of Kharkov | Fourth Battle of Kharkov | Battle for Kharkov | First Battle of Kharkov | First Battle of Kharkiv | 1st Battle of Kharkov | Battle of Kharkov 1943
+- Siege of Sevastopol — Sevastopol | Battle of Sevastopol | Sebastopol | Siege of Sebastopol
+- Operation Uranus — Uranus
+- Battle of the Dnieper — Lower Dnieper Offensive | Dnieper | Battle for the Dnieper | Battle of Dnieper
+- Operation Bagration — Belorussian Offensive | Byelorussian Offensive | Bagration
+- Battle of the Philippine Sea — Great Marianas Turkey Shoot | Marianas Turkey Shoot | Philippine Sea | Battle for the Philippine Sea
+- Battle of Saipan — Saipan | Battle for Saipan
+- Battle of Peleliu — Peleliu | Battle for Peleliu
+- Battle of Tarawa — Tarawa Atoll | Operation Galvanic | Battle of Betio | Tarawa | Battle for Tarawa
+- Battle of Wake Island — Wake Island | Battle for Wake Island
+- Battle of Bataan — Bataan | Battle for Bataan
+- Battle of Hong Kong — Fall of Hong Kong | Defence of Hong Kong | Hong Kong | Battle for Hong Kong
+- Kokoda Track campaign — Kokoda | Kokoda Trail | Kokoda campaign | Battle of Kokoda | Kokoda Trail campaign | Kokoda Track | Battle of Kokoda Track | Battle of Isurava | Isurava
+- Doolittle Raid — Doolittle | Tokyo Raid | Doolittle's raid | Raid on Doolittle
+- Bombing of Darwin — Battle of Darwin | Darwin raid | Attack on Darwin | Darwin | Raid on Darwin
+- Battle of Kohima — Battle of the Tennis Court | Kohima | Battle for Kohima
+- Battle of Imphal — Imphal | Battle for Imphal
+- Burma campaign — Burma | Battle of Burma | Burma Front
+- Battle of Shanghai — Battle of Songhu | Shanghai | Battle for Shanghai
+- Hacksaw Ridge — Maeda Escarpment | Battle of Hacksaw Ridge
+- Norwegian campaign — Operation Weserübung | Invasion of Norway | Battle of Norway | Norway | Norwegian | Battle of Norwegian
+- Battle of Narvik — Narvik | Battles of Narvik | Battle for Narvik
+- Warsaw Ghetto Uprising — Ghetto Uprising
+- Battle of the Netherlands — Invasion of the Netherlands | Battle of Holland | Netherlands | Battle for the Netherlands
+- Battle of Belgium — Invasion of Belgium | Belgian campaign | Belgium | Battle for Belgium
+- Channel Dash — Operation Cerberus | Operation Donnerkeil
+- Battle of Greece — Operation Marita | German invasion of Greece | Greece | Battle for Greece
+- Siege of Bastogne — Bastogne | Battle of Bastogne
+- Bombing of Dresden — Dresden | Firebombing of Dresden | Operation Thunderclap | Raid on Dresden
+- Operation Valkyrie — Valkyrie | 20 July plot | July Plot | Bomb plot
+
+### Tier 4: obscure (105)
+
+- Gold Beach — Gold
+- Sword Beach — Sword
+- Pointe du Hoc
+- Operation Goodwood — Battle of Bourguébus Ridge | Goodwood
+- Operation Cobra — Cobra
+- Battle of Cherbourg — Cherbourg | Battle for Cherbourg
+- Battle of Villers-Bocage — Villers-Bocage | Battle for Villers-Bocage
+- Battle of the Scheldt — Scheldt | Walcheren | Battle of Walcheren Causeway | Battle for the Scheldt
+- Battle of Aachen — Aachen | Battle for Aachen
+- Operation Plunder — Rhine crossing | Crossing of the Rhine | Plunder
+- Operation Varsity — Varsity
+- Ruhr Pocket — Battle of the Ruhr Pocket | Ruhr Gap
+- Battle of the Seelow Heights — Seelow Heights | Battle for the Seelow Heights
+- Operation Fortitude — Fortitude
+- Operation Gunnerside — Heavy water sabotage | Vemork raid | Norwegian heavy water sabotage | Gunnerside
+- Operation Frankton — Cockleshell Heroes | Cockleshell raid | Frankton
+- Operation Oak — Gran Sasso raid | Rescue of Mussolini | Oak
+- Operation Jericho — Amiens Raid | Amiens prison raid | Jericho
+- Battle of the Denmark Strait — Sinking of HMS Hood | Sinking of the Hood | Denmark Strait | Battle for the Denmark Strait
+- Battle of the North Cape — North Cape | Sinking of the Scharnhorst | Battle for the North Cape
+- Arctic convoys — Russian convoys | Arctic convoys of World War II
+- Convoy PQ 17 — PQ 17
+- Operation Pedestal — Pedestal convoy | Santa Marija convoy | Pedestal
+- Battle of Cape Matapan — Cape Matapan | Battle for Cape Matapan
+- Attack on Mers-el-Kébir — Operation Catapult | Battle of Mers-el-Kébir | Mers el Kebir | Raid on Mers-el-Kébir | Bombing of Mers-el-Kébir
+- Operation Compass — Compass | Battle of Sidi Barrani | Sidi Barrani
+- Operation Crusader — Crusader | Battle of Sidi Rezegh | Sidi Rezegh
+- Battle of Gazala — Gazala | Battle for Gazala
+- Battle of Bir Hakeim — Bir Hakeim | Battle for Bir Hakeim
+- Tunisian campaign — Tunisia | Battle of Tunisia | Tunisian | Battle of Tunisian
+- East African campaign — East Africa campaign | East African | Battle of East African
+- Greco-Italian War — Italian invasion of Greece | Greek campaign
+- Invasion of Yugoslavia — April War | Operation 25 | Yugoslavia | Battle of Yugoslavia
+- Battle of Ortona — Ortona | Battle for Ortona
+- Gothic Line — Operation Olive | Battle of the Gothic Line
+- Gustav Line — Winter Line | Battle of the Gustav Line
+- Battle of Fort Eben-Emael — Eben-Emael | Fort Eben-Emael | Battle for Fort Eben-Emael
+- Invasion of Denmark — Operation Weserübung Süd | Denmark | Battle of Denmark
+- Battle of Smolensk — Smolensk | Battle of Smolensk 1941 | Battle of Smolensk 1943 | Battle for Smolensk
+- Battle of Brest Fortress — Defence of Brest Fortress | Brest Fortress | Battle for Brest Fortress
+- Siege of Odessa — Odessa | Battle of Odessa
+- Case Blue — Fall Blau | Operation Blue
+- Battle of the Caucasus — Caucasus | Operation Edelweiss | Battle for the Caucasus
+- Operation Mars — Mars
+- Battles of Rzhev — Rzhev | Rzhev meat grinder | Battle of Rzhev
+- Battle of Prokhorovka — Prokhorovka | Battle for Prokhorovka
+- Korsun–Cherkassy Pocket — Battle of the Korsun–Cherkassy Pocket | Cherkassy Pocket | Korsun Pocket | Korsun–Cherkassy | Korsun–Cherkassy Gap | Battle of Korsun | Battle of Korsun–Cherkassy | Battle of Cherkassy
+- Siege of Budapest — Battle of Budapest | Budapest
+- Vistula–Oder offensive — Vistula-Oder
+- Battle of Königsberg — Konigsberg | Siege of Königsberg | Battle for Königsberg
+- Prague offensive
+- Soviet invasion of Manchuria — Operation August Storm | August Storm | Manchurian Strategic Offensive | Soviet–Japanese War
+- Battle of Khalkhin Gol — Battles of Khalkhin Gol | Nomonhan | Battle of Nomonhan | Nomonhan Incident | Khalkhin Gol | Battle for Khalkhin Gol
+- Battle of Savo Island — Savo Island | Battle for Savo Island
+- Naval Battle of Guadalcanal — Battle of Guadalcanal (naval)
+- Battle of Leyte — Leyte | Battle for Leyte
+- Battle off Samar — Samar | Battle of Samar | Taffy 3
+- Battle of Tinian — Tinian | Battle for Tinian
+- Battle of Guam — Guam | Battle of Guam 1941 | Battle of Guam 1944 | Battle for Guam
+- Battle of Kwajalein — Kwajalein | Battle for Kwajalein
+- Battle of Corregidor — Corregidor | Battle for Corregidor
+- Battle of Manila — Manila | Battle of Manila 1945 | Liberation of Manila | Battle for Manila
+- Battle of Luzon — Luzon | Battle for Luzon
+- Malayan campaign — Battle of Malaya | Malaya | Malayan | Battle of Malayan
+- Sinking of Prince of Wales and Repulse — Prince of Wales and Repulse | Battle off Kuantan | Sinking of HMS Prince of Wales
+- Battle of the Java Sea — Java Sea | Battle for the Java Sea | Battle of Java Sea
+- Battle of Milne Bay — Milne Bay | Battle for Milne Bay
+- Battle of Buna–Gona — Buna–Gona | Battle for Buna–Gona | Battle of Sanananda | Battle of Buna–Gona–Sanananda | Buna | Gona
+- Battle of the Bismarck Sea — Bismarck Sea | Battle for the Bismarck Sea
+- New Guinea campaign — New Guinea | Battle of New Guinea
+- Bougainville campaign — Bougainville | Battle of Bougainville
+- Operation Vengeance — Death of Yamamoto | Shooting down of Yamamoto | Vengeance
+- Attack on Sydney Harbour — Sydney Harbour attack | Attack on Sydney Harbor | Sydney Harbour | Battle of Sydney Harbour | Raid on Sydney Harbour | Bombing of Sydney Harbour
+- Aleutian Islands campaign — Aleutians campaign | Battle of the Aleutian Islands | Aleutians | Aleutian Islands | Battle of Aleutian Islands
+- Battle of Attu — Attu | Battle for Attu
+- Battle of the Admin Box — Admin Box | Battle of Ngakyedauk | Battle for the Admin Box
+- Battle of Meiktila and Mandalay — Battle of Meiktila | Battle of Mandalay | Meiktila | Mandalay | Meiktila and Mandalay | Battle for Meiktila and Mandalay
+- Chindit expeditions — Chindits | Operation Longcloth | Operation Thursday
+- Marco Polo Bridge Incident — Marco Polo Bridge | Battle of Lugou Bridge | Lugou Bridge Incident | Battle of Marco Polo Bridge
+- Battle of Nanking — Battle of Nanjing | Nanking | Nanjing | Battle for Nanking
+- Battle of Taierzhuang — Taierzhuang | Battle for Taierzhuang
+- Battle of Wuhan — Defence of Wuhan | Wuhan | Battle for Wuhan
+- Battles of Changsha — Changsha | Battle of Changsha
+- Hundred Regiments Offensive
+- Operation Ichi-Go — Ichi-Go
+- Battle of Suomussalmi — Suomussalmi | Battle for Suomussalmi
+- Operation Gomorrah — Battle of Hamburg | Bombing of Hamburg | Hamburg firestorm | Hamburg raids | Gomorrah
+- Battle of the Ruhr — Battle for the Ruhr | Battle of Ruhr
+- Big Week — Operation Argument
+- Schweinfurt–Regensburg mission — Schweinfurt raid | Regensburg raid | Black Thursday | Raid on Schweinfurt
+- Operation Tidal Wave — Ploiești raid | Raid on Ploiești | Ploiești | Tidal Wave
+- Siege of Warsaw — Siege of Warsaw 1939 | Defence of Warsaw | Battle of Warsaw 1939
+- Battle of the Bzura — Bzura | Battle for the Bzura | Battle of Bzura
+- Battle of Westerplatte — Westerplatte | Battle for Westerplatte
+- Operation Meetinghouse — Bombing of Tokyo | Firebombing of Tokyo | Tokyo firebombing | Great Tokyo air raid | Meetinghouse
+- Operation U-Go — U-Go offensive | U-Go | Japanese invasion of India | Japanese March on Delhi
+- Arakan campaign — Arakan campaign 1942–43 | First Arakan | Second Arakan | Battle of the Arakan | Arakan | Battle of Arakan
+- Sinking of HMAS Sydney — HMAS Sydney | HMAS Sydney and Kormoran | Sydney–Kormoran engagement | Kormoran
+- Operation Jaywick — Jaywick
+- Borneo campaign (1945) — Borneo campaign | Battle of Balikpapan | Balikpapan | Battle of Labuan | Oboe operations
+- Battle of the St. Lawrence — Battle of the Gulf of St Lawrence | St. Lawrence | Battle for the St. Lawrence
+- Sinking of HMS Royal Oak — Royal Oak | HMS Royal Oak | Attack on Scapa Flow | Scapa Flow raid
+- Operation Millennium — Thousand-bomber raid | Bombing of Cologne | Cologne raid | Millennium
+- Operation Drumbeat — Operation Paukenschlag | Unternehmen Paukenschlag | Second Happy Time | Drumbeat
+- Mariana and Palau Islands campaign — Marianas campaign | Operation Forager | Battle of the Marianas | Marianas | Mariana and Palau Islands | Battle of Mariana and Palau Islands
+
+### Tier 5: expert (141)
+
+- Merville Battery — Battle of Merville Gun Battery | Merville Gun Battery
+- Operation Tonga — British airborne landings in Normandy | Tonga
+- Battle of Carentan — Carentan | Battle for Carentan
+- Operation Epsom — Epsom
+- Operation Totalize — Totalize
+- Operation Bluecoat — Bluecoat
+- Battle of Hill 112 — Hill 112 | Battle for Hill 112
+- Battle of Brécourt Manor — Brecourt Manor | Battle for Brécourt Manor
+- Battle of Nijmegen — Nijmegen | Battle for Nijmegen
+- Operation Nordwind — North Wind | Nordwind
+- Operation Bodenplatte — Baseplate | Bodenplatte
+- Battle of Metz — Metz | Battle for Metz
+- Colmar Pocket — Colmar | Battle of the Colmar Pocket | Colmar Gap
+- Operation Veritable — Battle of the Reichswald | Reichswald | Veritable | Battle of the Rhineland | Rhineland offensive
+- Battle of Halbe — Halbe | Battle for Halbe
+- Mons Pocket — Battle of the Mons Pocket | Mons Gap
+- Battle of Arras (1940) — Arras 1940 | Battle of Arras
+- Battle of Sedan (1940) — Sedan 1940 | Battle of Sedan | Sedan
+- Battle of Hannut — Hannut | Battle for Hannut
+- Battle of the Grebbeberg — Grebbeberg | Battle for the Grebbeberg
+- Battle of Rotterdam — Rotterdam Blitz | Bombing of Rotterdam | Rotterdam | Battle for Rotterdam
+- Battle of Dakar — Operation Menace | Dakar | Battle for Dakar
+- Battle of Drøbak Sound — Drøbak Sound | Sinking of the Blücher | Oscarsborg | Battle for Drøbak Sound
+- Operation Source — X-craft raid | Source
+- Operation Tungsten — Tungsten
+- Operation Catechism — Sinking of the Tirpitz | Tirpitz | Catechism
+- Battle of the Barents Sea — Barents Sea | Battle for the Barents Sea
+- Battle of Calabria — Calabria | Battle for Calabria
+- Battle of Cape Spartivento — Cape Spartivento | Battle for Cape Spartivento
+- Battles of Sirte — Sirte | First Battle of Sirte | Second Battle of Sirte | Battle of Sirte
+- Battle of Beda Fomm — Beda Fomm | Battle for Beda Fomm
+- Battle of Bardia — Bardia | Battle for Bardia
+- Operation Battleaxe — Battleaxe
+- Operation Brevity — Brevity
+- Battle of Alam el Halfa — Alam Halfa | Alam el Halfa | Battle for Alam el Halfa
+- Battle of the Mareth Line — Mareth Line | Operation Pugilist | Battle for the Mareth Line
+- Battle of Keren — Keren | Battle for Keren
+- Anglo-Iraqi War
+- Syria–Lebanon campaign — Operation Exporter | Syria–Lebanon | Battle of Syria–Lebanon
+- Anglo-Soviet invasion of Iran — Operation Countenance | Invasion of Iran
+- Madagascar campaign — Battle of Madagascar | Operation Ironclad | Madagascar
+- Operation Diadem — Diadem
+- Air raid on Bari — Raid on Bari | Bari | Little Pearl Harbor
+- Battle of the Argenta Gap — Argenta Gap | Battle for the Argenta Gap
+- Operation Archery — Vaagso raid | Måløy raid | Archery
+- Operation Claymore — Lofoten raid | Claymore
+- Operation Biting — Bruneval raid | Biting
+- Operation Colossus — Colossus
+- Operation Postmaster — Postmaster
+- Operation Freshman — Freshman
+- Operation Greif — Skorzeny's commandos | Greif
+- Operation Bodyguard — Bodyguard
+- Battle of Białystok–Minsk — Battle of Minsk | Minsk | Białystok–Minsk | Battle for Białystok–Minsk
+- Battle of Uman — Uman | Battle for Uman
+- Battle of Vyazma — Vyazma | Battle of Vyazma–Bryansk | Vyazma–Bryansk | Battle for Vyazma
+- Battle of Rostov — Rostov | Battle for Rostov
+- Battle of the Kerch Peninsula — Kerch Peninsula | Battle for the Kerch Peninsula | Battle of Kerch | Kerch
+- Operation Winter Storm — Winter Storm
+- Operation Little Saturn — Little Saturn
+- Demyansk Pocket — Demyansk | Battle of the Demyansk Pocket | Demyansk Gap | Battle of Demyansk
+- Kholm Pocket — Kholm | Battle of the Kholm Pocket | Kholm Gap | Battle of Kholm
+- Kamenets-Podolsky Pocket — Kamenets-Podolsky | Battle of the Kamenets-Podolsky Pocket | Kamenets-Podolsky Gap
+- Battle of Narva — Narva | Battle for Narva
+- Jassy–Kishinev offensive
+- Battle of Debrecen — Debrecen | Battle for Debrecen
+- Operation Spring Awakening — Lake Balaton Offensive | Unternehmen Frühlingserwachen | Spring Awakening
+- Siege of Breslau — Festung Breslau | Breslau | Battle of Breslau
+- Courland Pocket — Kurland Pocket | Courland | Battle of the Courland Pocket | Courland Gap | Battle of Courland | Battle of Kurland
+- Slovak National Uprising
+- Battle of the Dukla Pass — Dukla Pass | Battle for the Dukla Pass
+- Prague uprising
+- Battle of Shumshu — Shumshu | Battle for Shumshu
+- Battle of Tali-Ihantala — Tali-Ihantala | Battle for Tali-Ihantala
+- Battle of Raate Road — Raate Road | Battle for Raate Road
+- Battle of Kollaa — Kollaa | Battle for Kollaa
+- Battle of Surigao Strait — Surigao Strait | Battle for Surigao Strait
+- Battle of the Eastern Solomons — Eastern Solomons | Battle for the Eastern Solomons
+- Battle of the Santa Cruz Islands — Santa Cruz Islands | Battle for the Santa Cruz Islands | Battle of Santa Cruz | Battle of Santa Cruz Islands
+- Battle of Cape Esperance — Cape Esperance | Battle for Cape Esperance
+- Battle of Tassafaronga — Tassafaronga | Battle for Tassafaronga
+- Battle of Edson's Ridge — Bloody Ridge | Battle of Bloody Ridge | Edson's Ridge | Battle for Edson's Ridge
+- Battle of the Tenaru — Tenaru | Battle for the Tenaru | Battle of Tenaru
+- Battle of Angaur — Angaur | Battle for Angaur
+- Battle of Makin — Makin | Battle for Makin
+- Battle of Eniwetok — Eniwetok | Battle for Eniwetok
+- Battle of Timor — Timor | Battle for Timor
+- Battle of Rabaul — Rabaul | Battle for Rabaul
+- Battle of Sunda Strait — Sunda Strait | Battle for Sunda Strait
+- Indian Ocean raid — Easter Sunday Raid | Operation C | Raid on Colombo
+- Battle of the Komandorski Islands — Komandorski Islands | Battle for the Komandorski Islands | Battle of Komandorski | Battle of Komandorski Islands | Battle of the Komandorskis
+- Operation Ten-Go — Sinking of the Yamato | Yamato | Ten-Go
+- Kiska — Operation Cottage | Invasion of Kiska | Battle of Kiska
+- Battle of Ramree Island — Ramree | Ramree Island | Battle for Ramree Island
+- Siege of Myitkyina — Myitkyina | Battle of Myitkyina
+- Battle of Yenangyaung — Yenangyaung | Battle for Yenangyaung
+- Battle of Sittang Bridge — Sittang Bridge | Battle for Sittang Bridge
+- Battle of Xuzhou — Xuzhou | Battle for Xuzhou
+- Battle of Kunlun Pass — Kunlun Pass | Battle for Kunlun Pass
+- Battle of Pingxingguan — Pingxingguan | Battle for Pingxingguan
+- Battle of Taiyuan — Taiyuan | Battle for Taiyuan
+- Battle of Xinkou — Xinkou | Battle for Xinkou
+- Battle of Changde — Changde | Battle for Changde
+- Battle of West Hunan — West Hunan | Battle for West Hunan
+- Battle of Hengyang — Hengyang | Battle for Hengyang
+- Battle of the Beams — Beams | Battle for the Beams | Battle of Beams
+- Baedeker Blitz — Baedeker raids | Baedeker
+- Operation Steinbock — Baby Blitz | Steinbock
+- Case Anton — Fall Anton | Operation Anton | Operation Attila | German occupation of Vichy France | Occupation of Vichy France
+- Operation Aerial — Operation Ariel | Sinking of the Lancastria | Lancastria | Evacuation from western France
+- Battle of Brest — Siege of Brest | Brest 1944 | Battle for Brest | Brest
+- Battle of Ambon — Ambon | Battle for Ambon
+- Battle of Muar — Muar | Battle for Muar
+- Battle of Gemas — Gemas | Battle for Gemas
+- Battle of Kampar — Kampar | Battle for Kampar
+- Battle of Jitra — Jitra | Battle for Jitra
+- Battle of Slim River — Slim River | Battle for Slim River
+- Battle of Tarakan — Tarakan | Battle for Tarakan
+- Battle of Sangshak — Sangshak | Battle for Sangshak
+- Operation Spring — Battle of Verrières Ridge | Verrières Ridge
+- Siege of Calais (1940) — Siege of Calais | Battle of Calais | Defence of Calais
+- Battle of Boulogne — Boulogne 1940 | Battle for Boulogne | Boulogne
+- Salamaua–Lae campaign — Battle of Lae | Landing at Lae | Lae | Salamaua | Salamaua–Lae | Battle of Salamaua–Lae
+- Operation Rimau — Rimau
+- Battle of Wau — Wau | Battle for Wau
+- Huon Peninsula campaign — Battle of Finschhafen | Finschhafen | Battle of Shaggy Ridge | Shaggy Ridge | Huon Peninsula | Battle of Huon Peninsula
+- Battle of Minqar Qaim — Minqar Qaim | Battle for Minqar Qaim
+- First Battle of Ruweisat Ridge — Battle of Ruweisat Ridge | Ruweisat Ridge
+- Battle of Takrouna — Takrouna | Battle for Takrouna
+- Sinking of HMS Glorious — HMS Glorious | Operation Juno
+- Operation Hailstone — Attack on Truk | Truk Lagoon raid | Battle of Truk Lagoon | Truk | Hailstone
+- Battle of Saint-Lô — Saint-Lô | St Lo | Battle for Saint-Lô
+- Battle of the Hedgerows — Hedgerow fighting | Bocage fighting | Hedgerows | Battle for the Hedgerows
+- Saar Offensive — Saar offensive of 1939 | French invasion of the Saar
+- Battle of El Guettar — El Guettar | Battle for El Guettar
+- Battle of Wadi Akarit — Wadi Akarit | Battle for Wadi Akarit
+- Battle of Medenine — Medenine | Battle for Medenine
+- Battle of Mersa Matruh — Mersa Matruh | Battle for Mersa Matruh
+- Battle of Longstop Hill — Longstop Hill | Battle for Longstop Hill
+- Moro River campaign — Battle of the Moro River | Battle of the Sangro | Sangro | Moro River | Battle of Moro River
+- Battle of San Pietro Infine — Battle of San Pietro | San Pietro | San Pietro Infine | Battle for San Pietro Infine
+- Battle of Rapido River — Battle of the Rapido | Rapido River | Rapido | Battle for Rapido River
+
+### Tier 6: rare jackpots (3)
+
+- Battle for Castle Itter — Castle Itter | Battle of Castle Itter | Itter
+- Battle of Los Angeles — Great Los Angeles Air Raid | Los Angeles air raid | Los Angeles | Battle for Los Angeles
+- Battle of Barking Creek — Barking Creek | Battle for Barking Creek
+
+## Refused on purpose (22)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Battle of the Somme | Somme | Battle of Verdun | Verdun | Battle of Ypres | Ypres | Passchendaele | Battle of Passchendaele | Gallipoli | Gallipoli campaign | Battle of Gallipoli | Battle of Jutland | Jutland | Battle of the Marne | Marne | Battle of Tannenberg | Tannenberg | Battle of Mons | Mons | Battle of Loos | Battle of Cambrai | Cambrai | Battle of Amiens | Battle of Vimy Ridge | Vimy Ridge | Battle of Messines | Battle of Caporetto | Caporetto | Battles of the Isonzo | Brusilov Offensive | Battle of Beersheba | Battle of Belleau Wood | Meuse-Argonne offensive | Battle of Coronel | Battle of the Falkland Islands | Battle of Dogger Bank | Zeebrugge Raid | Spring Offensive | Hundred Days Offensive | Battle of Megiddo — "A battle of the First World War."
+- Winter War | Continuation War | Second Sino-Japanese War — "A war of its own, though its battles count."
+- Eastern Front | Western Front | Pacific War | Pacific theatre | European theatre | Mediterranean theatre — "A whole theatre of the war, not one battle."
+- Holocaust | Shoah | Kristallnacht | Nanjing Massacre | Nanking Massacre | Rape of Nanking | Katyn massacre | Katyn | Lidice massacre | Oradour-sur-Glane massacre — "An atrocity against the defenceless, not a battle."
+- Bataan Death March — "A forced march of prisoners, not a battle."
+- Operation Sea Lion | Sea Lion | Unternehmen Seelöwe | Operation Downfall | Downfall | Operation Olympic | Operation Coronet | Operation Unthinkable | Unthinkable | Operation Herkules | Operation Felix | Operation Foxley | Operation Pike — "A plan never carried out."
+- Manhattan Project — "A secret programme to build the bomb, not a battle."
+- Enigma | Enigma machine | Bletchley Park | Ultra | Breaking Enigma — "A war of codes, fought at desks rather than on a battlefield."
+- Operation Paperclip | Paperclip — "A hunt for German scientists after the fighting, not a battle."
+- The Great Escape | Colditz | Wooden Horse | Stalag Luft III — "A breakout from a prison camp, not a battle."
+- Yalta Conference | Yalta | Potsdam Conference | Potsdam | Tehran Conference | Casablanca Conference | Munich Agreement | Munich | Atlantic Charter — "A conference, where the war's end was argued over, not fought."
+- VE Day | VJ Day | Victory in Europe Day | Victory over Japan Day — "A day of victory, not a battle."
+- Phoney War | Phony War | Sitzkrieg — "A long, uneasy lull, with barely any fighting in the West."
+- Blitzkrieg — "A way of fighting, not a battle."
+- Battle of Inchon | Inchon | Battle of Chosin Reservoir | Chosin Reservoir | Pork Chop Hill | Battle of Dien Bien Phu | Dien Bien Phu | Khe Sanh | Battle of Khe Sanh | Tet Offensive | Battle of Hue | Battle of Ia Drang | Hamburger Hill | Battle of Goose Green | Goose Green | Battle of Mount Tumbledown | Guernica | Bombing of Guernica | Battle of the Ebro | Battle of Jarama | Siege of Madrid | Operation Desert Storm | Desert Storm | Battle of Mogadishu | Black Hawk Down | Falklands War | Korean War | Vietnam War | Spanish Civil War | Battle of Waterloo | Waterloo | Battle of Hastings | Battle of Trafalgar | Battle of Gettysburg — "From another war."
+- Guns of Navarone | Navarone | Where Eagles Dare | Kelly's Heroes | Operation Kino | Inglourious Basterds | The Dirty Dozen | Saving Private Ryan — "A battle of fiction. Navarone was invented for the novel."
+- Bridge on the River Kwai | River Kwai | Battle of the River Kwai — "The film's raid is fiction, though the prisoners' railway bridge was real."
+- Battle of Brisbane — "A brawl between Allied servicemen in 1942, not a battle."
+- Burma Railway | Death Railway | Thai–Burma Railway | Burma–Siam Railway | Hellfire Pass — "A railway forced out of prisoners of war, not a battle."
+- Christmas truce — "A truce of the First World War, not a battle."
+- Battle of Dresden — "A battle of the Napoleonic Wars, fought in 1813."
+- Enola Gay | Bockscar | Little Boy | Fat Man | Atomic bomb | Atom bomb | A-bomb — "A bomber or a bomb, not a battle. Name the attack itself."

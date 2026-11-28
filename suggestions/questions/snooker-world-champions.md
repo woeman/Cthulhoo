@@ -13,12 +13,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (8)
 
 - Ronnie O'Sullivan — The Rocket | Rocket Ronnie | Ronnie | Ronald O'Sullivan | O'Sullivan
-- Steve Davis — The Nugget | The Golden Nugget | Steve Interesting Davis | Steven Davis
+- Steve Davis — The Nugget | The Golden Nugget | Steve Interesting Davis | Steven Davis | Davis
 - Stephen Hendry — The King of the Crucible | The Golden Bairn | Steven Hendry | Hendrie | Hendry
 - Judd Trump — The Juddernaut | Judd | Trump
 - Mark Selby — The Jester from Leicester | The Torturer | Selby
 - John Higgins — The Wizard of Wishaw
-- Alex Higgins — The Hurricane | Hurricane Higgins | Alexander Higgins
+- Alex Higgins — The Hurricane | Hurricane Higgins | Alexander Higgins | Higgins
 - Dennis Taylor — Taylor
 
 ### Tier 2: common (9)
@@ -55,16 +55,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Walter Donaldson — Donaldson
 - Horace Lindrum — Lindrum
 
-## Refused on purpose (25)
+## Refused on purpose (20)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Davis — "Which Davis? Three of them have won it."
-- Higgins — "Which Higgins? Two of them have won it."
-- John — "Which John? Four of them have won it. The deep wants a surname."
-- Mark — "Which Mark? Two of them have won it. The deep wants a surname."
-- Joe — "Which Joe? Two of them have won it. The deep wants a surname."
-- Steve | Stephen | Alex | Dennis | Ray | Neil | Shaun | Ken | Cliff | Terry | Stuart | Kyren | Luca | Graeme | Peter | Fred | Walter | Horace — "First names won't do here. The deep wants a surname."
+- Steve | John | Mark | Joe | Stephen | Alex | Dennis | Ray | Neil | Shaun | Ken | Cliff | Terry | Stuart | Kyren | Luca | Graeme | Peter | Fred | Walter | Horace — "First names won't do here. The deep wants a surname."
 - Jimmy White | White | The Whirlwind | Jimmy — "Six times the runner-up, but never the champion."
 - Ding Junhui | Ding | Junhui Ding — "Runner-up in 2016, but never the champion."
 - Ali Carter | Carter | Allister Carter — "Runner-up twice, but never the champion."

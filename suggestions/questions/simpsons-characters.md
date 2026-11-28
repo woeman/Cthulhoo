@@ -12,8 +12,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (15)
 
-- Homer Simpson — Homer | Homer J. Simpson | Homer Jay Simpson | Max Power | Mr. Plow | Pie Man | Homer Thompson | Homie | Homer Jay
-- Marge Simpson — Marge | Marjorie Simpson | Marjorie Bouvier | Marge Bouvier
+- Homer Simpson — Homer | Homer J. Simpson | Homer Jay Simpson | Max Power | Mr. Plow | Pie Man | Homer Thompson | Homie | Homer Jay | Simpson
+- Marge Simpson — Marge | Marjorie Simpson | Marjorie Bouvier | Marge Bouvier | Bouvier
 - Bart Simpson — Bart | Bartholomew Simpson | Bartholomew | Bartman | El Barto | Bartholomew JoJo Simpson | Bart JoJo Simpson
 - Lisa Simpson — Lisa | Lisa Marie Simpson | Lisa Marie
 - Maggie Simpson — Maggie | Margaret Simpson | Baby Maggie
@@ -22,21 +22,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ned Flanders — Flanders | Nedward | Ned | Neddy | Neddie
 - Moe Szyslak — Moe Syzlak | Moe | Szyslak
 - Apu Nahasapeemapetilon — Nahasapeemapetilon | Apu
-- Krusty the Clown — Krusty | Krusty the Klown | Herschel Krustofski
-- Milhouse Van Houten — Millhouse | Milhouse
+- Krusty the Clown — Krusty | Krusty the Klown | Herschel Krustofski | Krustofski
+- Milhouse Van Houten — Millhouse | Milhouse | Van Houten
 - Abe Simpson — Grampa | Grandpa | Grampa Simpson | Grandpa Simpson | Abraham Simpson | Abe
-- Chief Wiggum — Clancy Wiggum
+- Chief Wiggum — Clancy Wiggum | Wiggum | Clancy
 - Ralph Wiggum — Ralph | Ralphie
 
 ### Tier 2: common (33)
 
 - Barney Gumble — Plow King | Barney | Gumble
 - Principal Skinner — Skinner | Seymour Skinner | Seymour | Armin Tamzarian | Principal Seymour Skinner
-- Sideshow Bob — Bob | Robert Terwilliger | Bob Terwilliger
+- Sideshow Bob — Bob | Robert Terwilliger | Bob Terwilliger | Terwilliger
 - Nelson Muntz — Nelson | Muntz
 - Patty Bouvier — Patty
 - Selma Bouvier — Selma
-- Comic Book Guy — Jeff Albertson | Comic
+- Comic Book Guy — Jeff Albertson | Comic | Albertson
 - Groundskeeper Willie — Willie | Groundskeeper Willy | Willy
 - Otto Mann — Otto
 - Edna Krabappel — Mrs. Krabappel | Miss Krabappel | Edna | Krabappel
@@ -46,7 +46,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dr. Nick — Dr. Nick Riviera | Nick Riviera | Doctor Nick | Riviera | Nick
 - Troy McClure — Troy | McClure
 - Lionel Hutz — Lionel | Hutz
-- Fat Tony — Tony | Marion Anthony D'Amico
+- Fat Tony — Tony | Marion Anthony D'Amico | D'Amico
 - Mayor Quimby — Quimby | Joe Quimby | Diamond Joe Quimby | Diamond Joe
 - Kent Brockman — Kent | Brockman
 - Reverend Lovejoy — Lovejoy | Timothy Lovejoy | Rev. Lovejoy
@@ -55,7 +55,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hans Moleman — Hans | Moleman
 - Professor Frink — Frink | John Frink | Professor John Frink
 - Superintendent Chalmers — Chalmers | Gary Chalmers
-- Cletus — Cletus Spuckler | Cletus the Slack-Jawed Yokel
+- Cletus — Cletus Spuckler | Cletus the Slack-Jawed Yokel | Spuckler
 - Snake — Snake Jailbird | Jailbird
 - Itchy
 - Scratchy
@@ -80,7 +80,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gil Gunderson — Gil | Gunderson | Old Gil | Ol' Gil
 - Manjula Nahasapeemapetilon — Manjula
 - Mona Simpson — Mona
-- Herb Powell — Uncle Herb | Herb
+- Herb Powell — Uncle Herb | Herb | Powell
 - Jacqueline Bouvier — Jacqueline | Grandma Bouvier | Jackie Bouvier
 - Ling Bouvier — Ling
 - Frank Grimes — Grimey | Frank Grimes Jr. | Grimes | Frank
@@ -270,23 +270,17 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ms. Botz — Lucille Botzcowski | Babysitter Bandit
 - Hugo Simpson — Hugo
 
-## Refused on purpose (28)
+## Refused on purpose (18)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Simpson — "Which Simpson? Five of them live at 742 Evergreen Terrace alone."
-- Wiggum — "Which Wiggum? The chief and his son both count."
-- Bouvier — "Which Bouvier? Marge's sisters and her mother share it."
-- Spuckler — "Which Spuckler? Cletus has a very large family."
-- Powell — "Which Powell? Two quite different characters share it."
-- Clancy — "Which Clancy? The chief and Marge's father share it."
 - Itchy and Scratchy | The Itchy & Scratchy Show | Scratchy and Itchy — "Pick one of the pair."
 - Kang and Kodos | Kodos and Kang — "Pick one of the pair."
 - Lenny and Carl | Carl and Lenny — "Pick one of the pair."
 - Patty and Selma | Selma and Patty — "Pick one of the twins."
 - Sherri and Terri | Terri and Sherri — "Pick one of the twins."
 - Rod and Todd | Todd and Rod — "Pick one of the brothers."
-- Octuplets | Apu's octuplets — "Which one? Apu and his wife had eight."
+- Octuplets | Apu's octuplets — "Eight babies born at once. Name one of them."
 - The Be Sharps — "A barbershop quartet: Homer, Apu, Skinner and Barney."
 - Matt Groening | Dan Castellaneta | Julie Kavner | Nancy Cartwright | Yeardley Smith | Hank Azaria | Harry Shearer | Phil Hartman | Kelsey Grammer | Tress MacNeille | Pamela Hayden | James L. Brooks | Sam Simon | Al Jean | Danny Elfman — "A real person behind the show, not a character."
 - Stephen Hawking | Paul McCartney | Ringo Starr | Mick Jagger | Elon Musk | Lady Gaga | Tony Blair | Buzz Aldrin | Stephen King | Thomas Pynchon | Tom Hanks | Mark Hamill | Johnny Carson | Bob Hope | Leonard Nimoy | Elizabeth Taylor | Mr. T | Barry White | Green Day | Ramones | U2 | Aerosmith — "A real person playing themselves, not a character."
@@ -297,8 +291,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hank Hill | Bobby Hill | Peggy Hill | Dale Gribble | Boomhauer — "King of the Hill, not The Simpsons."
 - Springfield | Shelbyville | Moe's Tavern | Kwik-E-Mart | Krusty Burger | Springfield Elementary | Evergreen Terrace | 742 Evergreen Terrace | Capital City | Springfield Nuclear Power Plant — "A town, not a character, and nobody agrees which state it's in."
 - Duff Beer | Duff | Squishee | Buzz Cola | Flaming Moe | Krusty-O's — "A drink, not a character. Its mascot is another matter."
-- D'Amico — "Which D'Amico? Fat Tony's whole family shares it."
-- Van Houten — "Which Van Houten? Milhouse's parents share it too."
-- Terwilliger — "Which Terwilliger? Sideshow Bob's brother shares it."
-- Krustofski — "Which Krustofski? Krusty's father and daughter share it."
-- Albertson — "Which Albertson? Comic Book Guy's wife shares it."
+- The Simpsons | The Simpson family — "The whole family, and the show. Name one of them."

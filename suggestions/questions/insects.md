@@ -1,0 +1,816 @@
+# Name an insect.
+
+Question id: `insects` · category: nature · source: `data/nature.json`
+
+Rules: Any insect, living or extinct, as a group or a single species, young ones such as caterpillars included. Spiders and other creepy-crawlies without six legs don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (747 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Ant — Ants | Flying ant | Worker ant | Queen ant
+- Bee — Bees
+- Butterfly — Butterflies | Lepidoptera | Rhopalocera
+- Beetle — Beetles | Beatle | Coleoptera
+- Fly — Flies | Diptera
+- Wasp — Hymenoptera
+- Mosquito — Mosquitoes | Mozzie | Skeeter | Mossie
+- Ladybird — Ladybug | Lady beetle | Ladybird beetle
+- Grasshopper — Chapulines | Chapulin | Orthoptera
+- Moth — Moths
+- Dragonfly — Odonata | Anisoptera
+- Cockroach — Roach | Cockroaches | Blattodea
+- Cricket
+
+### Tier 2: common (35)
+
+- Bumblebee — Humblebee | Bombus
+- Honeybee — Western honeybee | Queen bee | Worker bee | Drone | Drone bee | Apis mellifera
+- Hornet — Hornets
+- Termite — White ant | Termites | Isoptera
+- Flea — Fleas | Siphonaptera
+- Louse — Lice | Phthiraptera | Pediculus humanus
+- Aphid — Greenfly | Plant louse | Aphids
+- Cicada — Cicadas
+- Praying Mantis — Mantis | Mantid | Preying mantis | Mantodea
+- Stick Insect — Walking stick | Stick bug | Phasmid | Giant stick insect | Phasmatodea
+- Earwig — Common earwig | European earwig | Forficula | Dermaptera
+- Firefly — Lightning bug | Fireflies | Firefly beetle | Lightning beetle
+- Housefly — Musca domestica
+- Horsefly — Cleg | Gadfly
+- Fruit Fly — Drosophila | Vinegar fly | Drosophila melanogaster
+- Bluebottle
+- Crane Fly — Daddy longlegs | Leatherjacket
+- Gnat — Gnats
+- Midge — Midges | Bloodworm | Chironomid | Non-biting midge | Mides | Miges
+- Locust
+- Caterpillar — Caterpillars
+- Silverfish — Zygentoma | Thysanura
+- Damselfly — Zygoptera
+- Mayfly — Mayflies | Ephemeroptera
+- Weevil — Weevils | Snout beetle
+- Stag Beetle — Giant stag beetle | Lucanus cervus
+- Dung Beetle — Dung roller
+- Bed Bug — Cimex lectularius | Cimex
+- Monarch Butterfly — Monarch | Wanderer | Danaus plexippus
+- Red Admiral — Vanessa atalanta
+- Fire Ant — Red imported fire ant | Solenopsis
+- Maggot — Maggots
+- Silkworm — Bombyx mori | Beondegi | Silkworm pupae
+- Shield Bug — Stink bug | Green shieldbug | Jumiles | Green stink bug
+- Bug
+
+### Tier 3: known to fans (119)
+
+- Water Boatman — Water boatmen
+- Pond Skater — Water strider | Jesus bug
+- Cabbage White — Large white | Small white | Cabbage butterfly | White butterfly | Pieris brassicae
+- Peacock Butterfly — Peacock
+- Painted Lady — Vanessa cardui
+- Swallowtail — Swallowtail butterfly
+- Atlas Moth — Attacus atlas | Atlas
+- Hawk-moth — Sphinx moth
+- Lacewing — Green lacewing | Neuroptera
+- Tsetse Fly — Tsetse
+- Katydid — Bush cricket
+- Scarab — Scarab beetle | Sacred scarab
+- Leaf Insect — Walking leaf
+- Hoverfly — Flower fly | Syrphid
+- Glow-worm
+- Greenbottle
+- Blowfly — Blowie
+- Botfly — Horse botfly | Human botfly
+- Sandfly
+- Blackfly — Buffalo gnat
+- Mole Cricket
+- Desert Locust — Schistocerca gregaria
+- Cockchafer — Maybug
+- June Bug — June beetle
+- Rhinoceros Beetle — Rhino beetle | Ox beetle
+- Hercules Beetle — Dynastes hercules | Eastern Hercules beetle | Unicorn beetle | Hercules
+- Goliath Beetle — Goliathus | Goliath
+- Longhorn Beetle — Longhorn | Long-horned beetle
+- Click Beetle — Skipjack
+- Bombardier Beetle
+- Tiger Beetle
+- Ground Beetle
+- Diving Beetle — Great diving beetle
+- Colorado Beetle — Colorado potato beetle | Potato beetle
+- Japanese Beetle
+- Boll Weevil
+- Woodworm
+- Death-watch Beetle
+- Mealworm — Mealworms | Tenebrio molitor
+- Carpet Beetle
+- Bark Beetle — Engraver beetle | Elm bark beetle
+- Emerald Ash Borer
+- Leafcutter Ant — Leaf cutting ant | Atta
+- Army Ant — Legionary ant | Soldier ant | Eciton
+- Bullet Ant — Paraponera
+- Carpenter Ant — Camponotus
+- Wood Ant — Red wood ant | Horse ant | Formica
+- Black Garden Ant — Black ant | Garden ant
+- Red Ant
+- Weaver Ant — Green ant | Green tree ant | Oecophylla
+- Honeypot Ant — Honey ant
+- Carpenter Bee
+- Mason Bee — Red mason bee
+- Leafcutter Bee — Leafcutting bee | Megachile
+- Killer Bee — Africanised bee | Africanised honeybee
+- Yellowjacket — Vespula
+- Paper Wasp — Red wasp
+- Asian Hornet — Yellow-legged hornet | Vespa velutina
+- Northern Giant Hornet — Asian giant hornet | Murder hornet | Giant hornet | Japanese giant hornet | Vespa mandarinia
+- European Hornet — Vespa crabro
+- Tarantula Hawk — Tarantula hawk wasp
+- Velvet Ant — Cow killer
+- Mud Dauber — Mud wasp
+- Ichneumon — Ichneumon wasp | Ichneumon fly | Giant ichneumon
+- Sawfly
+- Gall Wasp
+- Fig Wasp
+- Spotted Lanternfly — Lanternfly
+- Froghopper — Spittlebug
+- Leafhopper
+- Treehopper
+- Scale Insect — Scale
+- Mealybug
+- Whitefly
+- Cochineal
+- Assassin Bug
+- Kissing Bug — Triatomine
+- Water Scorpion
+- Giant Water Bug — Toe-biter | Electric light bug
+- Backswimmer
+- Head Louse — Head lice
+- Cat Flea
+- Booklouse — Booklice | Psocoptera
+- Thrips — Thunderfly | Thunderbug | Thysanoptera
+- Caddisfly — Caddis | Trichoptera
+- Stonefly — Plecoptera
+- Antlion — Doodlebug
+- Dobsonfly — Hellgrammite | Megaloptera
+- Inchworm — Looper | Measuring worm
+- Orchid Mantis
+- Madagascar Hissing Cockroach — Hissing cockroach
+- German Cockroach — Croton bug | Blattella germanica
+- American Cockroach — Palmetto bug | Periplaneta americana
+- Weta
+- Camel Cricket — Cave cricket | Spider cricket
+- Field Cricket — Black field cricket
+- Morpho — Blue morpho | Morpho butterfly | Morpho menelaus
+- Birdwing — Birdwing butterfly
+- Queen Alexandra's Birdwing — Ornithoptera alexandrae
+- Luna Moth — Moon moth | Actias luna
+- Death's-head Hawk-moth — Deaths head moth | Acherontia atropos
+- Hummingbird Hawk-moth — Hummingbird moth | Macroglossum stellatarum
+- Elephant Hawk-moth
+- Emperor Moth
+- Peppered Moth — Biston betularia
+- Clothes Moth — Clothing moth
+- Tiger Moth
+- Cinnabar Moth — Cinnabar
+- Comma — Comma butterfly
+- Brimstone — Brimstone butterfly
+- Orange-tip
+- Holly Blue
+- Common Blue — Blue butterfly
+- Small Tortoiseshell — Tortoiseshell
+- Meadow Brown
+- Fritillary — Fritillary butterfly
+- Skipper — Skipper butterfly
+- True Bug — Hemiptera
+- Witchetty Grub — Witchety grub | Witjuti grub | Bardi grub
+
+### Tier 4: obscure (218)
+
+- Oriental Cockroach
+- Jerusalem Cricket — Potato bug
+- House Cricket
+- Migratory Locust — Locusta migratoria
+- Lubber Grasshopper
+- Giant Weta — Wetapunga
+- Chinese Mantis
+- European Mantis — Mantis religiosa
+- Spongy Moth — Lymantria dispar
+- Codling Moth
+- Bogong Moth
+- Purple Emperor
+- Speckled Wood
+- Gatekeeper — Hedge brown
+- Ringlet
+- Marbled White
+- Small Copper
+- Large Blue
+- Adonis Blue
+- Hairstreak
+- Clouded Yellow
+- Camberwell Beauty — Mourning cloak
+- Viceroy
+- Tiger Swallowtail — Eastern tiger swallowtail
+- Black Swallowtail
+- Glasswing — Glasswing butterfly
+- Owl Butterfly
+- Zebra Longwing — Zebra butterfly
+- Sulphur — Cloudless sulphur | Sulfur | Orange sulphur | Clouded sulphur
+- Emperor Dragonfly — Blue emperor dragonfly | Anax imperator
+- Darter — Common darter
+- Hawker — Darner | Aeshnid | Common hawker
+- Skimmer
+- Banded Demoiselle
+- Meganeura — Griffinfly
+- Screwworm Fly — Screwworm
+- Flesh Fly
+- Robber Fly — Assassin fly
+- Bee Fly
+- Drone Fly
+- Soldier Fly — Black soldier fly
+- Fungus Gnat
+- Biting Midge — No-see-um | Punkie
+- Stalk-eyed Fly
+- Dung Fly
+- Deer Fly
+- Tiger Mosquito — Asian tiger mosquito
+- Anopheles — Malaria mosquito | Anopheles gambiae
+- Aedes — Yellow fever mosquito | Aedes aegypti
+- Atlas Beetle
+- Titan Beetle — Titanus giganteus
+- Rose Chafer
+- Minotaur Beetle
+- Dor Beetle
+- Lesser Stag Beetle
+- Devil's Coach Horse
+- Rove Beetle
+- Blister Beetle — Spanish fly
+- Oil Beetle
+- Soldier Beetle
+- Sexton Beetle — Burying beetle
+- Carrion Beetle
+- Darkling Beetle — Stink beetle | Pinacate beetle
+- Flour Beetle
+- Furniture Beetle
+- Jewel Beetle
+- Leaf Beetle
+- Tortoise Beetle
+- Flea Beetle
+- Lily Beetle
+- Rosemary Beetle
+- Asian Longhorn Beetle
+- Wasp Beetle
+- Violin Beetle
+- Giraffe Weevil
+- Acorn Weevil
+- Vine Weevil
+- Grain Weevil — Rice weevil
+- Christmas Beetle
+- Whirligig Beetle — Whirligig
+- Water Beetle
+- Mountain Pine Beetle
+- Seven-spot Ladybird — Seven-spot ladybug | 7-spot ladybird | Coccinella septempunctata
+- Harlequin Ladybird — Harlequin ladybug | Harmonia axyridis
+- Cardinal Beetle
+- Mining Bee
+- Sweat Bee
+- Stingless Bee
+- Orchid Bee
+- Cuckoo Bee
+- Spider Wasp
+- Potter Wasp — Mason wasp
+- Jewel Wasp — Emerald cockroach wasp | Emerald wasp
+- Cuckoo Wasp — Ruby-tailed wasp
+- Digger Wasp — Thread-waisted wasp
+- Cicada Killer
+- Wood Wasp — Horntail | Giant woodwasp
+- Parasitic Wasp — Parasitoid wasp
+- German Wasp
+- Common Wasp
+- Pharaoh Ant
+- Argentine Ant
+- Driver Ant — Siafu
+- Trap-jaw Ant
+- Jack Jumper — Jack jumper ant
+- Bulldog Ant — Bull ant
+- Harvester Ant
+- Squash Bug
+- Milkweed Bug
+- Box Elder Bug
+- Harlequin Bug
+- Chinch Bug
+- Firebug
+- Lace Bug
+- Lantern Bug — Peanut-head bug
+- Periodical Cicada — 17-year cicada | Seventeen-year locust | Magicicada | Thirteen-year cicada
+- Planthopper
+- Body Louse
+- Crab Louse — Pubic louse
+- Dog Flea
+- Chigoe Flea — Jigger | Chigoe | Sand flea | Tunga penetrans
+- Rat Flea — Oriental rat flea
+- Alderfly
+- Snakefly — Raphidioptera
+- Scorpionfly — Mecoptera
+- Bristletail — Jumping bristletail | Archaeognatha
+- Firebrat
+- Grub — Grubs
+- Wax Moth — Greater wax moth
+- Owlet Moth
+- Puss Moth
+- Lobster Moth
+- Buff-tip
+- Garden Tiger
+- Burnet Moth — Six-spot burnet
+- Magpie Moth
+- Yellow Underwing — Large yellow underwing
+- Oak Processionary — Oak processionary moth | Processionary caterpillar | Processionary moth
+- Ermine Moth
+- Leopard Moth
+- Goat Moth
+- Hornet Moth
+- Plume Moth
+- Silk Moth — Domestic silk moth
+- Polyphemus Moth
+- Cecropia Moth
+- Io Moth
+- Rosy Maple Moth
+- Comet Moth — Madagascan moon moth
+- Madagascan Sunset Moth
+- Hercules Moth
+- White Witch
+- Black Witch
+- Vampire Moth
+- Wireworm
+- Drain Fly — Moth fly | Sewer fly | Owl midge | Psychodid
+- Louse Fly — Ked | Sheep ked | Deer ked | Forest fly | Hippoboscid
+- Ghost Moth — Swift moth | Hepialid
+- Green Darner — Common green darner | Anax junius
+- Mopane Worm — Mopani worm | Gonimbrasia belina
+- Woolly Bear — Woolly bear caterpillar | Woolly worm | Isabella tiger moth
+- Hornworm — Tomato hornworm | Tobacco hornworm | Manduca
+- Armyworm — Fall armyworm
+- Cutworm
+- Bollworm — Cotton bollworm | Corn earworm | Helicoverpa
+- Bagworm — Bagworm moth
+- Tent Caterpillar
+- Leaf Miner
+- Palm Weevil — Red palm weevil | Sago grub | Sago worm | Rhynchophorus
+- Bush Fly — Musca vetustissima
+- March Fly — Bibionid | Lovebug
+- Cluster Fly — Pollenia
+- Medfly — Mediterranean fruit fly | Ceratitis capitata
+- Gall Midge
+- Buff-tailed Bumblebee — Bombus terrestris
+- Red-tailed Bumblebee — Bombus lapidarius
+- White-tailed Bumblebee — Bombus lucorum
+- Tree Bumblebee — Bombus hypnorum
+- Common Carder Bee — Bombus pascuorum
+- Asian Honey Bee — Eastern honey bee | Apis cerana
+- Giant Honey Bee — Rock bee | Apis dorsata
+- Cabbage Moth
+- Pantry Moth — Indian meal moth | Plodia
+- Box Tree Moth — Box moth
+- Brown-tail Moth
+- Winter Moth
+- Silver Y
+- Tussock Moth
+- Clearwing Moth — Clearwing
+- Poplar Hawk-moth
+- Lime Hawk-moth
+- Privet Hawk-moth
+- Eyed Hawk-moth
+- Green-veined White
+- Wall Brown — Wall
+- Small Heath
+- Chalkhill Blue
+- Small Skipper
+- Large Skipper
+- Purple Hairstreak
+- Green Hairstreak
+- Dark Green Fritillary
+- Great Spangled Fritillary
+- Rajah Brooke's Birdwing
+- Apollo — Apollo butterfly | Parnassius apollo
+- Longwing — Heliconius | Heliconian
+- Broad-bodied Chaser
+- Four-spotted Chaser
+- Migrant Hawker
+- Large Red Damselfly
+- Common Blue Damselfly
+- Wheel Bug
+- Brown Marmorated Stink Bug — Marmorated stink bug
+- Green Grocer
+- Rocky Mountain Locust
+- Field Grasshopper
+- Tree Cricket — Snowy tree cricket | Thermometer cricket | Oecanthus
+- Indian Stick Insect — Laboratory stick insect | Carausius morosus
+
+### Tier 5: expert (359)
+
+- Buckeye — Common buckeye
+- Question Mark
+- Gulf Fritillary
+- Pipevine Swallowtail
+- Giant Swallowtail
+- Karner Blue
+- Blue Tiger
+- Plain Tiger
+- Common Crow
+- Common Mormon
+- Lime Butterfly — Lime swallowtail | Chequered swallowtail | Lemon butterfly | Papilio demoleus
+- Common Jezebel
+- Southern Birdwing
+- Kaiser-i-Hind
+- Indian Leafwing — Oakleaf butterfly | Dead leaf butterfly | Orange oakleaf | Kallima
+- Ulysses Butterfly — Blue emperor | Ulysses | Ulysses swallowtail | Papilio ulysses
+- Cairns Birdwing
+- Duke of Burgundy
+- Silver-washed Fritillary
+- Grayling
+- Large Copper
+- White Admiral
+- Swallowtail Moth
+- Chaser
+- Globe Skimmer — Wandering glider
+- Golden-ringed Dragonfly
+- Southern Hawker
+- Beautiful Demoiselle
+- Azure Damselfly
+- Blue-tailed Damselfly
+- Stable Fly
+- Warble Fly
+- St Mark's Fly
+- Snipe Fly
+- Culex — Common house mosquito | Culex pipiens
+- Elephant Beetle
+- Two-spot Ladybird
+- 22-spot Ladybird
+- Bloody-nosed Beetle
+- Green Tiger Beetle
+- Bess Beetle
+- Namib Desert Beetle — Fog-basking beetle
+- Superworm
+- Waxworm
+- Wallace's Giant Bee — Megachile pluto
+- Wool Carder Bee
+- Ivy Bee
+- Tawny Mining Bee
+- Sand Wasp
+- Bee-wolf
+- Fairyfly
+- Bald-faced Hornet
+- Panda Ant
+- Crazy Ant — Yellow crazy ant
+- Sugar Ant
+- Meat Ant
+- Dracula Ant
+- Titanomyrma
+- Water Measurer
+- Hawthorn Shieldbug
+- Psyllid — Lerp | Jumping plant louse
+- Lac Insect
+- Woolly Aphid
+- Great Green Bush-cricket
+- Meadow Grasshopper
+- Groundhopper — Pygmy grasshopper
+- King Cricket — Parktown prawn
+- Mormon Cricket
+- Ghost Mantis
+- Devil's Flower Mantis
+- Giant Prickly Stick Insect — Macleay's spectre | Spiny leaf insect | Extatosoma
+- Webspinner — Embioptera
+- Ice Crawler — Rock crawler | Grylloblattid
+- Barklouse
+- Giant Earwig — Saint Helena earwig
+- Human Flea — Pulex irritans
+- Chewing Louse — Bird louse | Sheep louse
+- Fishfly
+- Owlfly
+- Mantisfly
+- Hangingfly
+- Formosan Termite
+- Death's Head Cockroach
+- Giant Burrowing Cockroach — Rhinoceros cockroach
+- Thick-headed Fly
+- Picture-winged Fly
+- Squash Bee — Peponapis
+- Spider Beetle
+- Larder Beetle — Bacon beetle
+- Pine Weevil — Hylobius abietis
+- Forktail — Eastern forktail | Ischnura
+- Common Castor
+- Common Sailer
+- Dainty Swallowtail
+- Common Brown
+- Maguey Worm — Agave worm | Mezcal worm | Gusano de maguey
+- Lucifer Bee — Megachile lucifer
+- Acrophylla alta
+- Swiftiephylus
+- Budworm — Spruce budworm
+- Webworm
+- Cankerworm
+- Huhu Grub — Huhu beetle | Huhu
+- Puriri Moth
+- Velvety Tree Ant — Escamoles | Liometopum
+- Lesser House Fly — Fannia
+- Scuttle Fly — Phorid fly | Phorid | Coffin fly
+- Olive Fly — Olive fruit fly | Bactrocera oleae
+- Carrot Fly
+- Onion Fly
+- Cabbage Root Fly
+- Tachinid Fly — Tachinid
+- Tumbu Fly — Mango fly | Cordylobia
+- Hessian Fly
+- Phantom Midge — Chaoborus | Glassworm
+- Gallinipper — Psorophora
+- Bee Louse — Braula
+- Snow Scorpionfly — Boreus
+- Angel Insect — Zorapteran | Zoraptera
+- Twisted-wing Parasite — Strepsipteran | Strepsiptera
+- Great Yellow Bumblebee
+- Rusty Patched Bumblebee — Bombus affinis
+- Dwarf Honey Bee — Apis florea
+- Teddy Bear Bee
+- Blue-banded Bee — Amegilla
+- Hairy-footed Flower Bee — Anthophora plumipes
+- Plasterer Bee — Polyester bee | Colletes
+- Yellow-faced Bee — Hylaeus
+- Digger Bee
+- Tree Wasp
+- Median Wasp
+- Saxon Wasp
+- Executioner Wasp — Polistes carnifex
+- Ensign Wasp
+- Scoliid Wasp — Scoliid
+- Braconid Wasp — Braconid
+- Chalcid Wasp — Chalcid
+- Diamondback Moth
+- Corn Borer — European corn borer
+- Cabbage Looper
+- Pine Processionary
+- Lappet — Lappet moth
+- Oak Eggar
+- Fox Moth
+- Drinker — Drinker moth
+- Kentish Glory
+- Vapourer — Vapourer moth | Rusty tussock moth
+- Herald — Herald moth
+- Angle Shades
+- Old Lady — Old lady moth
+- Red Underwing
+- Mother Shipton
+- Scarlet Tiger
+- Jersey Tiger
+- Ruby Tiger
+- Mottled Umber
+- Brimstone Moth
+- Lackey — Lackey moth
+- December Moth
+- Mint Moth
+- Pine Hawk-moth
+- Convolvulus Hawk-moth
+- Bee Hawk-moth
+- Oleander Hawk-moth
+- White-lined Sphinx
+- Giant Leopard Moth
+- Imperial Moth
+- Hickory Horned Devil — Regal moth | Royal walnut moth
+- Promethea Moth — Promethea silkmoth
+- Ailanthus Silkmoth — Samia cynthia
+- Indian Moon Moth — Actias selene
+- Tasar Silkworm — Tussah | Tussar | Antheraea mylitta
+- Muga Silkmoth — Antheraea assamensis
+- Eri Silkmoth — Eri silkworm | Samia ricini
+- Emperor Gum Moth
+- Zodiac Moth
+- Puss Caterpillar — Asp caterpillar | Southern flannel moth
+- Saddleback Caterpillar
+- Large Heath
+- Silver-studded Blue
+- Small Blue
+- Brown Argus
+- Northern Brown Argus
+- Essex Skipper
+- Dingy Skipper
+- Grizzled Skipper
+- Silver-spotted Skipper
+- Lulworth Skipper
+- Chequered Skipper
+- White-letter Hairstreak
+- Brown Hairstreak
+- Black Hairstreak
+- High Brown Fritillary
+- Pearl-bordered Fritillary
+- Small Pearl-bordered Fritillary
+- Marsh Fritillary
+- Glanville Fritillary
+- Heath Fritillary
+- Wood White
+- Large Tortoiseshell
+- Scotch Argus
+- Mountain Ringlet
+- Eastern Comma
+- American Lady — American painted lady
+- Pearl Crescent
+- Variegated Fritillary
+- Julia — Julia butterfly | Julia heliconian
+- Queen Butterfly
+- Spicebush Swallowtail
+- Zebra Swallowtail
+- Anise Swallowtail
+- Checkered White
+- Spring Azure
+- Eastern Tailed-blue
+- Gray Hairstreak — Grey hairstreak
+- Red-spotted Purple
+- Hackberry Emperor
+- Tawny Emperor
+- Common Wood-nymph
+- Baltimore Checkerspot
+- Fiery Skipper
+- Xerces Blue
+- Blue Mormon
+- Common Rose
+- Crimson Rose
+- Tailed Jay
+- Common Jay
+- Common Emigrant
+- Common Grass Yellow
+- Great Eggfly
+- Danaid Eggfly
+- Tawny Coster
+- Lemon Pansy
+- Peacock Pansy
+- Grey Pansy — Gray Pansy
+- Chocolate Pansy
+- Yellow Pansy
+- Common Evening Brown
+- Common Palmfly
+- Tamil Yeoman
+- Malabar Banded Peacock
+- Common Peacock
+- Paris Peacock
+- Malabar Tree Nymph
+- Red Pierrot
+- Common Pierrot
+- Grass Jewel
+- Striped Tiger
+- Richmond Birdwing
+- Orchard Swallowtail
+- Australian Painted Lady
+- Caper White
+- Lesser Wanderer
+- Meadow Argus
+- Imperial Hairstreak
+- Goliath Birdwing
+- Golden Birdwing
+- Paradise Birdwing
+- Postman Butterfly — Postman
+- Black-tailed Skimmer
+- Brown Hawker
+- Emerald Damselfly
+- Twelve-spotted Skimmer
+- Widow Skimmer
+- Eastern Pondhawk — Pondhawk
+- Halloween Pennant
+- Blue Dasher
+- Ebony Jewelwing — Jewelwing
+- Meadowhawk
+- Clubtail
+- Petaltail — Giant petaltail
+- Rubyspot
+- Bluet
+- Spreadwing
+- Drugstore Beetle — Biscuit beetle | Bread beetle
+- Cigarette Beetle
+- Hide Beetle — Dermestes
+- Powderpost Beetle
+- Ambrosia Beetle
+- Asparagus Beetle
+- Cucumber Beetle
+- Mexican Bean Beetle
+- Bean Weevil
+- Pea Weevil
+- Nut Weevil
+- Screech Beetle
+- Actaeon Beetle
+- Rainbow Stag Beetle
+- Golden Stag Beetle
+- Water Penny
+- Riffle Beetle
+- Toktokkie
+- Ambush Bug
+- Leaf-footed Bug
+- Capsid Bug — Capsid | Plant bug | Mirid
+- Seed Bug
+- Grape Phylloxera — Phylloxera
+- Hemlock Woolly Adelgid — Adelgid
+- Cottony Cushion Scale
+- Dog-day Cicada — Annual cicada
+- Yellow Monday
+- Black Prince
+- Cherry Nose
+- Floury Baker
+- Double Drummer
+- Brown Locust
+- Red Locust
+- Australian Plague Locust
+- Spur-throated Locust
+- Bombay Locust
+- Common Green Grasshopper
+- Rufous Grasshopper
+- Rainbow Grasshopper — Painted grasshopper
+- Two-spotted Cricket
+- Banded Cricket
+- Speckled Bush-cricket
+- Dark Bush-cricket
+- Oak Bush-cricket
+- Roesel's Bush-cricket
+- Wart-biter
+- Leaf-mimic Katydid
+- Peacock Katydid
+- Conehead — Conehead katydid
+- Shield-backed Katydid
+- Pink Katydid
+- Armoured Ground Cricket — Koringkriek | Armored Ground Cricket
+- Giant Asian Mantis — Hierodula
+- Dead Leaf Mantis
+- Carolina Mantis
+- Spiny Flower Mantis
+- Indian Flower Mantis
+- African Mantis
+- Boxer Mantis
+- Unicorn Mantis
+- Shield Mantis
+- Conehead Mantis
+- Grass Mantis
+- Jungle Nymph — Malaysian jungle nymph | Heteropteryx dilatata
+- Pink-winged Stick Insect
+- Thorny Devil Stick Insect — Eurycantha calcarata
+- Annam Stick Insect
+- Goliath Stick Insect — Eurycnema goliath
+- Chan's Megastick — Phobaeticus chani
+- Dubia Roach — Dubia cockroach | Orange-spotted cockroach | Blaptica dubia
+- Australian Cockroach
+- Smoky Brown Cockroach
+- Brown-banded Cockroach
+- Turkestan Cockroach
+- Surinam Cockroach
+- Asian Cockroach
+- Florida Woods Cockroach
+- Tawny Cockroach
+- Lobster Roach — Nauphoeta cinerea
+- Glow-spot Cockroach
+- Magnetic Termite — Compass termite
+- Cathedral Termite
+- Drywood Termite
+- Subterranean Termite
+- Giant Northern Termite — Mastotermes
+
+### Tier 6: rare jackpots (3)
+
+- Lord Howe Island Stick Insect — Lord Howe stick insect | Tree lobster | Dryococelus australis | Lord Howe Island phasmid | Dryococelus
+- Heel-walker — Gladiator | Mantophasmatodea | Mantophasmid
+- Diabolical Ironclad Beetle — Ironclad beetle | Phloeodes diabolicus
+
+## Refused on purpose (35)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Insect | Insects — "That's the question. Name one."
+- Creepy-crawly | Minibeast | Critter — "A word for any small creature, not just insects. Name one."
+- Spider | Spiders | Tarantula | Black widow | Wolf spider | Money spider | Cellar spider | Daddy longlegs spider | Spiderling | Whip spider | Amblypygid | Book scorpion | Whip scorpion | Vinegaroon | Pseudoscorpion | Camel spider | Solifuge | Sun spider — "An arachnid, with eight legs. Insects have six."
+- Scorpion | Scorpions — "An arachnid, with eight legs and a sting in its tail."
+- Tick | Ticks | Deer tick | Dog tick — "An arachnid, related to spiders. Count its legs: eight."
+- Mites | Dust mite | Spider mite | Red spider mite | Chigger | Harvest mite | Varroa mite — "An arachnid, a tiny cousin of the ticks."
+- Harvestman | Harvestmen | Harvest spider — "An arachnid, neither spider nor insect."
+- Centipede | Centipedes | Garden centipede | House centipede | Pauropod | Symphylan — "A myriapod, with far too many legs to be an insect."
+- Millipede | Millipedes | Arthropleura — "A myriapod, with two pairs of legs on most of its segments."
+- Woodlouse | Woodlice | Pill bug | Roly-poly | Slater | Sowbug | Pill woodlouse — "A crustacean, a land-living cousin of crabs and shrimps."
+- Earthworm | Worm | Worms | Leech — "An annelid, with no legs at all."
+- Slug | Snail | Slugs | Snails — "A mollusc, not an insect."
+- Springtail | Springtails | Proturan | Dipluran | Snow flea — "A six-legged cousin of the insects, but no longer counted as one."
+- Tardigrade | Water bear | Moss piglet — "A water bear, with eight stubby legs. Not an insect."
+- Trilobite | Trilobites | Sea scorpion | Eurypterid — "An ancient sea creature with jointed legs, not an insect."
+- Crabs | Lobster | Shrimp | Krill | Reef lobsters | Red lobsters | Green lobster | Rock lobster | Spiny lobster | Slipper lobster | Squat lobster | Blue lobster | Landhoppers | Sandhopper | Beach flea | Lawn shrimp | Sea louses | Fish louse | Barnacle | Water flea | Daphnia | Copepod | Brine shrimp | Sea monkey | Fairy shrimp | Tadpole shrimp | Sea slater | Isopod — "A crustacean, not an insect."
+- Gypsy moth — "Dropped in America in 2021 because it contains a slur. The moth's new name, from 2022, comes from its soft, sponge-like egg masses."
+- Cuckoo spit — "Froth, not an insect, though a young insect hides inside it."
+- Chrysalis | Pupa | Pupae | Cocoon | Larva | Larvae | Nymph — "A stage of life, not a kind of insect. Name the insect."
+- Nit — "A louse's egg. Name the insect that laid it."
+- Jiminy Cricket — "A character from Pinocchio, not a species."
+- Maya the Bee — "A cartoon bee, not a species."
+- Very Hungry Caterpillar | Hungry caterpillar — "A picture-book character, not a species."
+- Mothra — "A giant moth monster from Japanese films."
+- Ant-Man — "A Marvel superhero, not an ant."
+- Beetlejuice — "A ghost from the films, not a beetle."
+- Betelgeuse — "A red giant star in Orion, not a beetle."
+- Butterfree | Caterpie | Beedrill | Scyther | Heracross | Pinsir | Metapod | Weedle | Volcarona — "A Pokémon, not an insect of this world."
+- Slow worms | Blindworm — "A legless lizard, not a worm or an insect."
+- Water spiders | Diving bell spider — "A spider that lives under water in a bubble of air. Eight legs, so not an insect."
+- Sea spider | Pycnogonid — "A sea creature with long legs, neither spider nor insect."
+- Velvet worm | Peripatus | Onychophoran — "Neither worm nor insect, but an animal of its own kind, with far more than six legs."
+- Horseshoe crab — "A sea creature closer kin to spiders than to insects."
+- Tapeworm | Nematode | Roundworm | Flatworm | Planarian — "A worm with no legs at all, and not an insect."
+- Arthropod | Invertebrate | Hexapod — "Too broad. Name an insect."

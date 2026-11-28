@@ -13,10 +13,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (10)
 
 - Arsenal — Gunners | Arsenal London | Woolwich Arsenal | Royal Arsenal | Dial Square | Arsenal FC
-- Chelsea — CFC | Pensioners | Chelsea FC
-- Liverpool — LFC | Liverpool FC
-- Manchester United — Man United | Man Utd | Man U | Manchester Utd | MUFC | Red Devils | Man Untied | Newton Heath | Manchester United FC | Man United FC | Man Utd FC
-- Manchester City — Man City | MCFC | Citizens | Cityzens | Manchester Cty | Ardwick | Ardwick AFC | Manchester City FC | Man City FC
+- Chelsea — CFC | Pensioners | Chelsea FC | Blues
+- Liverpool — LFC | Liverpool FC | Reds
+- Manchester United — Man United | Man Utd | Man U | Manchester Utd | MUFC | Red Devils | Man Untied | Newton Heath | Manchester United FC | Man United FC | Man Utd FC | Manchester | United | Utd
+- Manchester City — Man City | MCFC | Citizens | Cityzens | Manchester Cty | Ardwick | Ardwick AFC | Manchester City FC | Man City FC | City
 - Tottenham Hotspur — Tottenham | Spurs | THFC | Lilywhites | Hotspur | Tottenham Hotspurs | Tottenham Hotspur FC | Tottenham FC
 - Everton — Toffees | EFC | St Domingo | St Domingo FC | Everton FC
 - Newcastle United — Newcastle | Magpies | Toon | NUFC | Newcastle Utd | Newcastle United FC | Newcastle FC
@@ -29,9 +29,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Leicester City — Leicester | Foxes | LCFC | Leicester Fosse | Leicester City FC | Leicester FC
 - Southampton — Saints | Soton | Southampton FC
 - Crystal Palace — Palace | Eagles | CPFC | Glaziers | Crystal Palace FC
-- Wolverhampton Wanderers — Wolves | Wolverhampton | Wolverhampton Wanderers FC | Wolves FC | Wolverhampton FC
+- Wolverhampton Wanderers — Wolves | Wolverhampton | Wolverhampton Wanderers FC | Wolves FC | Wolverhampton FC | Wanderers
 - Fulham — Cottagers | Fulham FC
-- Brighton & Hove Albion — Brighton | Brighton and Hove | Seagulls | BHAFC | Brighton Hove Albion | Brighton Albion | Brighton & Hove Albion FC | Brighton FC
+- Brighton & Hove Albion — Brighton | Brighton and Hove | Seagulls | BHAFC | Brighton Hove Albion | Brighton Albion | Brighton & Hove Albion FC | Brighton FC | Albion
 - Nottingham Forest — Forest | Nottm Forest | Notts Forest | NFFC | Nottingham | Nottingham Forest FC | Nottm Forest FC
 - Sunderland — Black Cats | SAFC | Sunderland FC
 - Middlesbrough — Boro | Middlesborough | Smoggies | Middlesbro | Middlesboro | Middlesbrough FC | Middlesborough FC
@@ -43,8 +43,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - West Bromwich Albion — West Brom | WBA | Baggies | Throstles | West Bromwich | West Bromwich Albion FC | West Brom FC
 - Stoke City — Stoke | Potters | Stoke City FC | Stoke FC
 - Watford — Hornets | Watford FC
-- Sheffield United — Sheffield Utd | Sheff Utd | Sheff United | Blades | Sheffield United FC | Sheffield Utd FC
-- Ipswich Town — Ipswich | Tractor Boys | ITFC | Ipswich Town FC | Ipswich FC
+- Sheffield United — Sheffield Utd | Sheff Utd | Sheff United | Blades | Sheffield United FC | Sheffield Utd FC | Sheffield
+- Ipswich Town — Ipswich | Tractor Boys | ITFC | Ipswich Town FC | Ipswich FC | Town
 
 ### Tier 3: known to fans (14)
 
@@ -53,7 +53,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Birmingham City — Birmingham | Brum | BCFC | Small Heath | Birmingham City FC | Birmingham FC
 - Charlton Athletic — Charlton | Addicks | Charlton Athletic FC | Charlton FC
 - Queens Park Rangers — QPR | Hoops | Queens Park | R's | Queens Park Rangers FC
-- Wigan Athletic — Wigan | Wigan Athletic FC | Wigan FC
+- Wigan Athletic — Wigan | Wigan Athletic FC | Wigan FC | Athletic | Latics
 - Hull City — Hull | Tigers | Hull City AFC | Hull City FC | Hull FC
 - Derby County — Derby | Rams | Derby County FC | Derby FC
 - Coventry City — Coventry | Sky Blues | Singers FC | Singers | Coventry City FC | Coventry FC
@@ -79,22 +79,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Swindon Town — Swindon | Swindon Town FC | Swindon FC
 - Oldham Athletic — Oldham | Oldham Athletic FC | Oldham FC
 
-## Refused on purpose (36)
+## Refused on purpose (25)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Manchester — "Which Manchester? City and United have both played in it."
-- Sheffield — "Which Sheffield? Both of its big clubs have played in it."
-- United | Utd — "Which United? Several have played in it."
-- City — "Which City? Plenty of them have played in it."
-- Town — "Which Town? Several have played in it."
-- Athletic — "Which Athletic? Several have played in it."
-- Albion — "Which Albion? Brighton and West Brom have both played in it."
-- Wanderers — "Which Wanderers? Two of them have played in it."
-- Latics — "Which Latics? Two clubs answer to that name."
-- Blues — "Which Blues? Several clubs answer to that name."
-- Reds — "Which Reds? Several clubs answer to that name."
-- Robins — "Which Robins? Several clubs answer to that name."
+- Robins — "Most clubs called the Robins never have. Give the club's name."
 - Millwall | Millwall FC | Lions — "Never in the Premier League. Their last top-flight season was 1989–90."
 - Preston North End | Preston | PNE | North End — "The Football League's first champions, in 1889, but never in the Premier League."
 - Bristol City — "Never in the Premier League. Their last top-flight season ended in 1980."
@@ -115,7 +104,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Southend United | Southend | Shrimpers — "Never in the Premier League."
 - Accrington Stanley | Accrington — "Accrington Stanley? Who are they? Not a Premier League club, anyway."
 - Celtic | Aberdeen | Hearts | Hibernian | Hibs | Glasgow Rangers | Glasgow Celtic | Rangers FC — "A Scottish club. The Premier League is England's, with a few Welsh guests."
-- Rangers — "Which Rangers? The Glasgow club never has. Give the full name."
+- Rangers — "The Glasgow club plays in Scotland, so it never has. Give the full name."
 - Real Madrid | Barcelona | Bayern Munich | Juventus | Paris Saint-Germain | PSG | AC Milan | Inter Milan — "A great club, but not an English one."
 - Wigan Warriors | Leeds Rhinos — "A rugby league side, not a football club."
 - Saracens | Leicester Tigers | Harlequins | Bath Rugby — "A rugby union side, not a football club."

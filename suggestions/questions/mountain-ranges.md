@@ -52,7 +52,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kunlun Mountains — Kunlun Shan | Kunlun
 - Zagros Mountains — Zagros
 - Taurus Mountains — Toros Mountains | Taurus
-- Western Ghats — Sahyadri | Sahyadri Hills
+- Western Ghats — Sahyadri | Sahyadri Hills | Ghats
 - Balkan Mountains — Stara Planina | Balkan Range | Balkan
 - Dinaric Alps — Dinarides | Dinaric Mountains
 - Tatra Mountains — Tatras | High Tatras | Tatry | Tatra
@@ -71,7 +71,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Malvern Hills — Malverns
 - Mendip Hills — Mendips
 - North Downs
-- South Downs
+- South Downs — Downs
 - Black Mountains
 - Cambrian Mountains — Cambrian
 - Cotswolds — Cotswold Hills | Cotswold
@@ -148,7 +148,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cumbrian Mountains — Lakeland Fells | Cumbrian Fells | Cumbrian
 - Southern Uplands
 - Lincolnshire Wolds
-- Yorkshire Wolds
+- Yorkshire Wolds — Wolds
 - Ellsworth Mountains — Ellsworth
 - MacDonnell Ranges — MacDonnell Range | MacDonnell
 - Bungle Bungle Range — Bungle Bungles | Purnululu | Bungle Bungle Mountains | Bungle Bungle
@@ -888,7 +888,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tenzing Montes — Norgay Montes
 - Carlsberg Ridge
 
-## Refused on purpose (62)
+## Refused on purpose (59)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -937,13 +937,10 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Balkans | Balkan Peninsula — "A peninsula and a region, not a range."
 - Patagonia — "A region at the tip of South America, not a range."
 - Tyrol | Tirol | South Tyrol — "A region of the Alps, not a range of its own."
-- Cordillera — "That's just the word for a mountain chain. Which one?"
+- Cordillera — "That's just the word for a mountain chain. Name one."
 - Kerry Mountains — "Kerry has several ranges. Name one of them."
 - Hottentots-Holland Mountains | Hottentots Holland — "A real range near Cape Town, but its name holds an old slur for the Khoikhoi people, so the deep won't take it."
 - Continental Divide — "A watershed line along the crests of the Rockies and the Andes, not a range of its own."
-- Ghats — "Which Ghats? There are two."
-- Wolds — "Which wolds? Several sets of hills share the name."
-- Downs — "Which downs? Name them in full."
 - Seven Hills of Rome | Seven Hills — "Hills of a city, not a range."
 - Montenegro — "A country, though its name means 'black mountain'."
 - Sierra Leone — "A country, though its name means 'lion mountains'."

@@ -185,7 +185,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Sleepwalkers — "A 1992 film from his own original screenplay, never a book."
 - Rose Red | Kingdom Hospital | Golden Years — "A TV miniseries he wrote, not a book."
 - Welcome to Derry | It: Welcome to Derry | Castle Rock | Chapelwaite — "A TV series built on his stories, not a book."
-- Gwendy — "Which Gwendy book? King co-wrote two of the three."
+- Gwendy — "King co-wrote two of the three Gwendy books. Give the full title."
 - Stranger Things — "The Duffer brothers' Netflix series. It owes King a great deal, but he didn't write it."
 - Pennywise | Pennywise the Dancing Clown | Annie Wilkes | Jack Torrance | Danny Torrance | Roland Deschain | Randall Flagg | Johnny Smith | The Losers' Club | The Overlook Hotel — "From one of his books, not the title of one. Name the book."
 - Richard Bachman | Bachman | Beryl Evans | John Swithen | Claudia Inez Bachman | Claudia Bachman — "His pen name, not a book."

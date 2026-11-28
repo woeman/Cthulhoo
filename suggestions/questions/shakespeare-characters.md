@@ -23,7 +23,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ophelia
 - Puck — Robin Goodfellow | Goodfellow | Robin
 - Prospero
-- Falstaff — Sir John Falstaff | John Falstaff | Jack Falstaff | Sir John | Fat Jack | Sir John Oldcastle | Oldcastle
+- Falstaff — Sir John Falstaff | John Falstaff | Jack Falstaff | Sir John | Fat Jack | Sir John Oldcastle | Oldcastle | John
 - Shylock
 - Julius Caesar — Caesar | Julius | Caesar's Ghost | Ghost of Caesar
 - Cleopatra — Queen of Egypt
@@ -63,8 +63,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Yorick — Poor Yorick | Yorick's Skull | Yorik
 - The Nurse — Juliet's Nurse | Angelica
 - Friar Laurence — Friar Lawrence | Brother Laurence | Laurence
-- Henry V — King Henry V | Prince Hal | Hal | Harry | King Harry | Henry of Monmouth | Harry Monmouth | Prince Henry | Harry of England
-- Richard III — King Richard III | Richard of Gloucester | Duke of Gloucester | Crookback | Crouchback
+- Henry V — King Henry V | Prince Hal | Hal | Harry | King Harry | Henry of Monmouth | Harry Monmouth | Prince Henry | Harry of England | Henry | King Henry
+- Richard III — King Richard III | Richard of Gloucester | Duke of Gloucester | Crookback | Crouchback | Richard | King Richard
 - Rosencrantz
 - Guildenstern
 - Lysander
@@ -188,7 +188,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lucio
 - Mariana
 - Mistress Overdone — Overdone
-- Mistress Quickly — Quickly | Hostess Quickly | Nell Quickly | Mrs Quickly | The Hostess
+- Mistress Quickly — Quickly | Hostess Quickly | Nell Quickly | Mrs Quickly | The Hostess | Nell
 - Bardolph
 - Pistol — Ancient Pistol
 - Nym — Corporal Nym
@@ -215,7 +215,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Margaret — Queen Margaret | Margaret of Anjou
 - Duke of York — York | Richard Plantagenet | Richard, Duke of York | Edmund of Langley | Plantagenet
 - Jack Cade — Cade | John Cade
-- Edward IV — King Edward IV | Earl of March
+- Edward IV — King Edward IV | Earl of March | Edward | King Edward
 - Clarence — Duke of Clarence | George, Duke of Clarence | George Plantagenet | George
 - Lady Anne — Anne Neville | Anne
 - Queen Elizabeth — Elizabeth Woodville | Lady Grey | Elizabeth
@@ -226,11 +226,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tyrrel — Sir James Tyrrel | Tyrrell
 - The Princes in the Tower — Little Princes | Edward V
 - Richard II — King Richard II | Richard of Bordeaux
-- John of Gaunt — Gaunt | Duke of Lancaster
+- John of Gaunt — Gaunt | Duke of Lancaster | Lancaster
 - Aumerle — Duke of Aumerle
 - Mowbray — Thomas Mowbray
 - King John
-- Philip the Bastard — The Bastard | Philip Faulconbridge | Faulconbridge | Falconbridge | Bastard Faulconbridge
+- Philip the Bastard — The Bastard | Philip Faulconbridge | Faulconbridge | Falconbridge | Bastard Faulconbridge | Philip
 - Prince Arthur — Arthur | Arthur of Brittany
 - Constance
 - Hubert — Hubert de Burgh
@@ -337,7 +337,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mortimer — Edmund Mortimer | John Mortimer | Sir John Mortimer
 - Northumberland — Earl of Northumberland
 - Warwick — Earl of Warwick | Kingmaker | Warwick the Kingmaker | Richard Neville
-- Queen Elinor — Elinor | Eleanor of Aquitaine | Queen Eleanor
+- Queen Elinor — Elinor | Eleanor of Aquitaine | Queen Eleanor | Eleanor
 - Duchess of York
 - Lord Stanley — Stanley | Earl of Derby | Derby
 - The Dauphin — Lewis the Dauphin | Louis the Dauphin | Charles the Dauphin | Lewis | Louis
@@ -426,7 +426,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gadshill
 - Worcester — Earl of Worcester | Thomas Percy
 - Douglas — Earl of Douglas | Archibald Douglas
-- Prince John — John of Lancaster | Prince John of Lancaster | Duke of Bedford | Bedford | Lancaster
+- Prince John — John of Lancaster | Prince John of Lancaster | Duke of Bedford | Bedford
 - Archbishop of York
 - Scroop — Lord Scroop | Archbishop Scroop | Sir Stephen Scroop
 - Sir Richard Vernon — Vernon
@@ -449,7 +449,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sir Thomas Erpingham — Erpingham
 - Queen Isabel — Isabel | Queen of France
 - Duke Humphrey — Humphrey | Humphrey of Gloucester
-- Eleanor Cobham — Eleanor | Eleanor, Duchess of Gloucester
+- Eleanor Cobham — Eleanor, Duchess of Gloucester
 - Cardinal Beaufort — Beaufort | Bishop of Winchester | Winchester | Henry Beaufort
 - Somerset — Duke of Somerset
 - Suffolk — Duke of Suffolk | Earl of Suffolk | William de la Pole
@@ -579,7 +579,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Archidamus
 - Cleomenes
 - Dion
-- Luce — Nell
+- Luce
 - Friar Thomas
 - Francisca
 - Kate Keepdown
@@ -780,7 +780,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Setebos
 - Violenta
 
-## Refused on purpose (32)
+## Refused on purpose (28)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -799,13 +799,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Dark Lady | Fair Youth | Rival Poet — "From the Sonnets, not the plays."
 - Richard Burbage | Burbage — "The actor who first played Hamlet, Lear and Othello. Not a character."
 - Will Kemp | Kemp | William Kempe | Kempe — "The star comic actor of Shakespeare's company. An actor, not a character."
-- Henry | King Henry — "Which Henry? Give the number."
-- Richard | King Richard — "Which Richard? Give the number."
-- Edward | King Edward — "Which Edward? Give the number or the title."
-- John — "Which John? There are kings, princes, friars and a villain."
-- Philip — "Which Philip? Two in one play share the name."
-- King | Queen | Prince — "Which one? Shakespeare crowned dozens. Give a name."
-- Duke | Lord | Lady | Earl | Duchess — "Which one? There are dozens. Give a name or a title."
+- King | Queen | Prince — "Just a title, and Shakespeare crowned dozens. Add a name."
+- Duke | Lord | Lady | Earl | Duchess — "Just a title, and Shakespeare has dozens. Add a name or a place."
 - Mrs Malaprop | Malaprop — "Sheridan's word-mangler, from The Rivals, 1775."
 - Cyrano de Bergerac | Cyrano — "Edmond Rostand's swordsman with the famous nose, from 1897."
 - Eliza Doolittle — "Shaw's flower girl, from Pygmalion."
@@ -816,3 +811,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Nero | Herod — "Named in passing, never on stage."
 - Susanna Hall | Judith Shakespeare | Susanna Shakespeare | Judith Quiney — "Shakespeare's daughter, not one of his characters."
 - Edward Alleyn | Alleyn — "The rival company's star, famous for Marlowe's heroes. An actor, not a character."
+- Richard I | King Richard I | Richard the Lionheart | Richard the Lionhearted | Richard Coeur de Lion | Coeur de Lion — "Richard the Lionheart is only mentioned, never seen. Check the number."

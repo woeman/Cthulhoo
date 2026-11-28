@@ -31,7 +31,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Franz Liszt — Liszt | Ferenc Liszt
 - Felix Mendelssohn — Felix Mendelssohn Bartholdy | Mendelssohn | Mendelssohn Bartholdy
-- Robert Schumann — R. Schumann
+- Robert Schumann — R. Schumann | Schumann
 - Antonín Dvořák — Dvořák
 - Edvard Grieg — Grieg
 - Sergei Rachmaninoff — Rachmaninov | Sergei Rachmaninov | Rakhmaninov | Sergey Rachmaninoff | Rachmaninoff
@@ -53,7 +53,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - George Gershwin — Gershwin
 - Aaron Copland — Copland
 - Leonard Bernstein — Bernstein
-- Johann Strauss II — Johann Strauss | Johann Strauss Jr | Strauss II | Johann Strauss the Younger | Johann Strauss Junior | Strauss Jr | The Waltz King
+- Johann Strauss II — Johann Strauss | Johann Strauss Jr | Strauss II | Johann Strauss the Younger | Johann Strauss Junior | Strauss Jr | The Waltz King | Strauss
 - Richard Strauss — R. Strauss
 - Camille Saint-Saëns — Saint-Saens
 - Gabriel Fauré — Faure
@@ -65,7 +65,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Béla Bartók — Bartók
 - Arnold Schoenberg — Schönberg | Arnold Schönberg | Schoenberg
 - Philip Glass — Glass
-- John Williams
+- John Williams — Williams
 - Hans Zimmer — Zimmer | Hans Zimmerman
 - Anton Bruckner — Bruckner
 - John Cage — Cage
@@ -138,7 +138,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - William Byrd — Byrd
 - Giovanni Pierluigi da Palestrina — Palestrina
 - Arthur Sullivan — Sullivan
-- Hubert Parry — Sir Hubert Parry
+- Hubert Parry — Sir Hubert Parry | Parry
 - Frederick Delius — Delius
 - William Walton — Walton
 - Michael Tippett — Tippett
@@ -167,7 +167,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Elliott Carter — Carter
 - George Crumb — Crumb
 - Terry Riley — Riley
-- John Adams
+- John Adams — Adams
 - Thomas Adès — Adès
 - James MacMillan — MacMillan
 - Judith Weir — Weir | Dame Judith Weir
@@ -206,7 +206,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Maurice Duruflé — Durufle
 - Louis Vierne — Vierne
 - Lili Boulanger
-- Nadia Boulanger
+- Nadia Boulanger — Boulanger
 - Cécile Chaminade — Chaminade
 - Joseph Canteloube — Canteloube
 - Amilcare Ponchielli — Ponchielli
@@ -236,9 +236,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - George Butterworth — Butterworth
 - Frank Bridge
 - Ethel Smyth — Smyth | Dame Ethel Smyth
-- Rebecca Clarke
+- Rebecca Clarke — Clarke
 - Charles Villiers Stanford — Stanford
-- Malcolm Arnold
+- Malcolm Arnold — Arnold
 - Percy Grainger — Grainger
 - Albert Ketèlbey — Ketelbey
 - Eric Coates — Coates
@@ -251,15 +251,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Guillaume de Machaut — Machaut
 - Orlande de Lassus — Orlando di Lasso | Lasso | Lassus
 - Carlo Gesualdo — Gesualdo
-- Giovanni Gabrieli
+- Giovanni Gabrieli — Gabrieli
 - Gregorio Allegri — Allegri
 - Heinrich Schütz — Schütz
 - Heinrich Ignaz Franz Biber — Biber
 - Girolamo Frescobaldi — Frescobaldi
 - Giuseppe Tartini — Tartini
-- Domenico Scarlatti
+- Domenico Scarlatti — Scarlatti
 - Alessandro Scarlatti
-- François Couperin — Couperin le Grand
+- François Couperin — Couperin le Grand | Couperin
 - Marc-Antoine Charpentier — Charpentier
 - Carl Philipp Emanuel Bach — C. P. E. Bach
 - Johann Christian Bach — J. C. Bach
@@ -278,7 +278,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Max Steiner — Steiner
 - Miklós Rózsa — Rózsa
 - Jerry Goldsmith — Goldsmith
-- John Barry
+- John Barry — Barry
 - James Horner — Horner
 - Danny Elfman — Elfman
 - Debbie Wiseman — Wiseman
@@ -290,7 +290,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Andrew Lloyd Webber — Lloyd Webber | Webber | Sir Andrew Lloyd Webber | Lord Lloyd Webber
 - Fritz Kreisler — Kreisler
 - Alan Menken — Menken
-- Randy Newman
+- Randy Newman — Newman
 - Ferde Grofé — Grofé
 
 ### Tier 5: expert (741)
@@ -326,7 +326,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Thomas Campion — Campion
 - John Wilbye — Wilbye
 - Andrea Gabrieli
-- Giulio Caccini
+- Giulio Caccini — Caccini
 - Francesca Caccini
 - Jacopo Peri
 - Emilio de' Cavalieri — Cavalieri
@@ -347,7 +347,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pietro Locatelli — Locatelli
 - Giuseppe Torelli — Torelli
 - Alessandro Stradella — Stradella
-- Alessandro Marcello
+- Alessandro Marcello — Marcello
 - Benedetto Marcello
 - Nicola Porpora — Porpora
 - Louis Couperin
@@ -382,7 +382,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Johann Christoph Friedrich Bach
 - Leopold Mozart
 - Michael Haydn
-- Johann Stamitz
+- Johann Stamitz — Stamitz
 - Carl Stamitz
 - Carl Ditters von Dittersdorf — Dittersdorf
 - Johann Baptist Vanhal — Wanhal | Vaňhal
@@ -507,7 +507,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Josef Suk — Suk
 - Zdeněk Fibich — Fibich
 - Vítězslav Novák — Novák
-- Pavel Haas
+- Pavel Haas — Haas
 - Hans Krása — Krása
 - Gideon Klein — Klein
 - Petr Eben
@@ -515,7 +515,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Péter Eötvös — Eötvös
 - Stanisław Moniuszko — Moniuszko
 - Grażyna Bacewicz — Bacewicz
-- Andrzej Panufnik
+- Andrzej Panufnik — Panufnik
 - Roxanna Panufnik
 - Wojciech Kilar — Kilar
 - Zbigniew Preisner — Preisner
@@ -543,7 +543,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Juventino Rosas
 - Osvaldo Golijov — Golijov
 - Gabriela Lena Frank — Gabriela Frank
-- Samuel Wesley
+- Samuel Wesley — Wesley
 - Samuel Sebastian Wesley
 - William Sterndale Bennett
 - John Stainer — Stainer | Sir John Stainer
@@ -569,7 +569,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Alun Hoddinott — Hoddinott
 - Joseph Parry
 - Thea Musgrave — Musgrave | Dame Thea Musgrave
-- Richard Rodney Bennett
+- Richard Rodney Bennett — Bennett
 - Malcolm Williamson — Williamson
 - Robert Simpson — Simpson
 - Brian Ferneyhough — Ferneyhough
@@ -599,12 +599,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Craig Armstrong — Armstrong
 - Clint Mansell — Mansell
 - David Arnold
-- Harry Gregson-Williams
+- Harry Gregson-Williams — Gregson-Williams
 - Rupert Gregson-Williams
 - John Powell — Powell
 - Trevor Jones
 - Stanley Myers — Myers
-- Carl Davis
+- Carl Davis — Davis
 - Ron Goodwin — Goodwin
 - Ronald Binge — Binge
 - Haydn Wood
@@ -697,7 +697,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Trent Reznor — Reznor
 - Atticus Ross
 - Mica Levi — Levi
-- Maurice Jarre
+- Maurice Jarre — Jarre
 - Michel Legrand — Legrand
 - Georges Delerue — Delerue
 - Vladimir Cosma — Cosma
@@ -736,7 +736,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Louis Andriessen — Andriessen
 - Frank Martin
 - Ernest Bloch — Bloch
-- Lennox Berkeley — Sir Lennox Berkeley
+- Lennox Berkeley — Sir Lennox Berkeley | Berkeley
 - Michael Berkeley
 - Richard Addinsell — Addinsell
 - Marvin Hamlisch — Hamlisch
@@ -900,7 +900,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Robert Carver
 - Giles Farnaby — Farnaby
 - Anthony Holborne — Holborne
-- William Lawes
+- William Lawes — Lawes
 - Henry Lawes
 - Helen Grime
 - Anna Meredith
@@ -1016,7 +1016,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ludwig Senfl — Senfl
 - Giaches de Wert
 - S. D. Burman — Sachin Dev Burman
-- R. D. Burman — Rahul Dev Burman
+- R. D. Burman — Rahul Dev Burman | Burman
 - Naushad
 - Pritam
 - Anirudh Ravichander — Anirudh
@@ -1043,33 +1043,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kaikhosru Sorabji — Sorabji
 - Moondog — Louis Hardin
 
-## Refused on purpose (39)
+## Refused on purpose (13)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Adams — "Which Adams? Two American composers called John share it."
-- Arnold — "Which Arnold? Malcolm or David?"
-- Barry — "Which Barry? John or Gerald?"
-- Bennett — "Which Bennett? William Sterndale or Richard Rodney?"
-- Boulanger — "Which Boulanger? Lili or her sister Nadia?"
-- Caccini — "Which Caccini? Giulio or his daughter Francesca?"
-- Clarke — "Which Clarke? Jeremiah or Rebecca?"
-- Couperin — "Which Couperin? François or his uncle Louis?"
-- Davis — "Which one? Several composers share that surname."
-- Gabrieli — "Which Gabrieli? Andrea or his nephew Giovanni?"
-- Gregson-Williams — "Which one? The brothers Harry and Rupert both write film scores."
-- Haas — "Which Haas? Pavel or Georg Friedrich?"
-- Marcello — "Which Marcello? The brothers Alessandro and Benedetto both composed."
-- Newman — "Which Newman? Alfred, his sons Thomas and David, or his nephew Randy?"
-- Panufnik — "Which Panufnik? Andrzej or his daughter Roxanna?"
-- Parry — "Which Parry? Hubert or Joseph?"
-- Scarlatti — "Which Scarlatti? Alessandro or his son Domenico?"
-- Schumann — "Which Schumann? Robert or Clara?"
-- Stamitz — "Which Stamitz? Johann or his son Carl?"
-- Strauss — "Which Strauss? Johann, Josef, Eduard or Richard?"
-- Wesley — "Which Wesley? Samuel or his son Samuel Sebastian?"
-- Williams — "Which Williams? John, Grace, or Ralph Vaughan Williams?"
-- Jarre — "Which Jarre? Maurice wrote film scores; his son Jean-Michel makes electronic music."
 - Jean-Michel Jarre | Brian Eno | Kraftwerk | Daft Punk | Aphex Twin — "An electronic music pioneer, not a classical composer."
 - Stephen Sondheim | Sondheim | Lin-Manuel Miranda | Cole Porter | Irving Berlin | Richard Rodgers | Rodgers and Hammerstein — "Best known for musicals rather than concert music."
 - Elton John | John Lennon | Lennon | Freddie Mercury | Billy Joel | Bob Dylan | Taylor Swift | Ed Sheeran | Adele | David Bowie | Michael Jackson | Elvis Presley | Elvis | The Beatles | ABBA | Queen — "A pop star, not a classical composer."
@@ -1083,6 +1060,3 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Tim Rice | Sir Tim Rice — "A lyricist: the tunes were by others."
 - Mike Oldfield — "A rock musician, not a classical composer."
 - Prince — "A pop star, not a classical composer."
-- Berkeley — "Which Berkeley? Lennox or his son Michael?"
-- Lawes — "Which Lawes? The brothers William and Henry both composed."
-- Burman — "Which Burman? S. D. or his son R. D.?"

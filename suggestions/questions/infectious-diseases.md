@@ -23,7 +23,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ebola — Ebola virus | Ebola virus disease | Ebola haemorrhagic fever | Ebola hemorrhagic fever | EVD
 - Plague — Black Death | Bubonic plague | Pneumonic plague | Septicaemic plague | Septicemic plague | Great Plague | Plague of Justinian | Yersinia pestis | Great Plague of London | Plague of London | Justinian plague | Justinianic plague | Sylvatic plague | Pestis | Yersinia | Bubonic
 - Cholera
-- Smallpox — Variola | Speckled monster | Alastrim | Variola minor | Variola major
+- Smallpox — Variola | Speckled monster | Alastrim | Variola minor | Variola major | Pox
 
 ### Tier 2: common (38)
 
@@ -114,7 +114,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Canine parvovirus — Parvo | Parvovirus
 - Kennel cough
 - Dutch elm disease
-- Potato blight — Late blight | Phytophthora
+- Potato blight — Late blight | Phytophthora | Blight
 - Botulism
 - Urinary tract infection — UTI | Cystitis | Bladder infection | Water infection
 - Tapeworm infection — Tapeworm | Taeniasis
@@ -175,7 +175,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Feline immunodeficiency virus — FIV | Cat AIDS | Feline AIDS
 - Chytridiomycosis — Chytrid | Chytrid fungus
 - Ash dieback — Chalara
-- Powdery mildew
+- Powdery mildew — Mildew
 - Cowpox
 - Puerperal fever — Childbed fever | Puerperal sepsis
 - Traveller's diarrhoea — Traveler's diarrhea | Traveller's diarrhea | Delhi belly | Montezuma's revenge
@@ -193,7 +193,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sweating sickness — English sweat | English sweating sickness | Sudor anglicus
 - Scrofula — King's evil
 - Quinsy — Peritonsillar abscess
-- Erysipelas
+- Erysipelas — St Anthony's fire
 - Endocarditis
 - Osteomyelitis
 - Septic arthritis
@@ -290,7 +290,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chestnut blight
 - Panama disease — Fusarium wilt | Fusarium
 - Citrus greening — Huanglongbing
-- Wheat rust — Stem rust
+- Wheat rust — Stem rust | Rust | Rust fungus
 - Coffee rust — Coffee leaf rust | Hemileia vastatrix
 - Tobacco mosaic disease — Tobacco mosaic virus | Tobacco mosaic
 - Black spot
@@ -346,26 +346,23 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Early blight
 - Potato wart
 - Ring rot
-- Corn smut — Huitlacoche
+- Corn smut — Huitlacoche | Smut
 
 ### Tier 6: rare jackpots (2)
 
 - Devil facial tumour disease — Devil facial tumor disease | DFTD | Devil facial tumour | Devil facial tumor | Tasmanian devil facial tumour disease | Tasmanian devil disease
 - Cocoliztli
 
-## Refused on purpose (47)
+## Refused on purpose (41)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Pox — "Which pox? Several diseases end in it. Name one in full."
-- Virus | Bacteria | Bacterium | Germ | Germs | Fungus | Parasite | Prion | Infection | Disease | Pathogen | Microbe | Bug | Fungal infection | Bacterial infection | Viral infection | Parasitic infection | Yeast — "Which one? Name the disease, not the germ."
+- Virus | Bacteria | Bacterium | Germ | Germs | Fungus | Parasite | Prion | Infection | Disease | Pathogen | Microbe | Bug | Fungal infection | Bacterial infection | Viral infection | Parasitic infection | Yeast — "That covers a great many diseases. Name one."
 - Mosquito | Mosquitoes | Tick | Flea | Rat | Tsetse fly | Tsetse | Tick bite | Deer tick — "It carries diseases. It isn't one."
 - Pandemic | Epidemic | Outbreak | Endemic — "A spread of disease, not a disease. Name what spread."
-- Sexually transmitted infection | STI | STD | VD | Venereal disease | Sexually transmitted disease — "Which one? Name it."
-- Fever | High temperature | Temperature — "Which fever? Many diseases go by one."
+- Sexually transmitted infection | STI | STD | VD | Venereal disease | Sexually transmitted disease — "A whole group of diseases. Name one."
+- Fever | High temperature | Temperature — "A symptom, not a disease in itself. Many diseases are named for it: name one."
 - Cough | Rash | Diarrhoea | Diarrhea | Vomiting | Sneezing | Runny nose | Headache | Sore throat — "A symptom of many infections, not a disease in itself."
-- Blight — "Which blight? Name the plant it strikes."
-- Mildew — "Which mildew? There are two kinds."
 - Disease X — "A placeholder the World Health Organization uses for a pandemic not yet known."
 - Typhoid Mary | Mary Mallon — "A cook who carried typhoid without falling ill. A person, not a disease."
 - Cancer | Leukaemia | Leukemia | Tumour | Tumor | Lymphoma | Melanoma — "Not catching: it's your own cells gone wrong."
@@ -387,7 +384,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Trench foot | Frostbite — "Damage from cold and wet, not a germ."
 - Milk sickness — "Poisoning from the milk of cows that ate white snakeroot. It killed Abraham Lincoln's mother."
 - Ergotism — "Poisoning from eating infected rye, not an infection of the eater."
-- St Anthony's fire — "Which one? The name meant rye poisoning, and also a skin infection."
 - Dancing plague | Dancing mania | Choreomania — "A mystery of 1518, probably mass hysteria, not a germ."
 - Mercury poisoning | Lead poisoning | Radiation sickness | Altitude sickness | Motion sickness | Seasickness | Sunstroke | Heatstroke | Hangover — "Poisoning, not infection."
 - Man flu — "A cold, with complaining. Not a recognised disease."
@@ -398,8 +394,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Lurgy | Dreaded lurgy | Lurgi — "Made up for The Goon Show in 1954. Now it means whatever bug is going round."
 - Bed bugs | Bed bug — "Biting pests that live in your bed, not on you, and they spread no disease."
 - Colony collapse disorder | CCD — "Honeybees vanishing from their hives, with no single germ to blame."
-- Rust | Rust fungus — "Which rust? Name the crop it strikes."
-- Smut — "Which smut? Name the crop it strikes."
 - Hepatitis G | Hep G | GB virus C — "Named for hepatitis, but the virus turned out not to cause it."
 - Mouth ulcer | Mouth ulcers | Canker sore | Aphthous ulcer — "Not catching. Cold sores, from a virus, are a different thing."
 - Cervical cancer — "Nearly always started by a virus, but the cancer itself isn't caught. Name the virus."

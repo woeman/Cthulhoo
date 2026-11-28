@@ -217,5 +217,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Niagara River — "A river, waterfall and all, not a strait."
 - Shatt al-Arab | Arvand Rud — "A river, formed where the Tigris and Euphrates meet, not a strait."
 - Hudson River | Thames | River Thames | Mississippi — "A river, and a real one, not a strait."
-- Strait | Passage — "Which one? There are dozens."
+- Strait | Passage — "That's just the word. There are dozens, so name one."
 - Refused without a reason (near misses of real answers): Iran | Tirana

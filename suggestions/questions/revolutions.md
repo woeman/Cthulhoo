@@ -1,0 +1,363 @@
+# Name a revolution.
+
+Question id: `revolutions` · category: history · source: `data/history.json`
+
+Rules: Any named revolution, revolt, rising or rebellion against those in power, from any age, plus history's great revolutions in farming, industry, science and technology. Civil wars, coups and plots count only if history calls them revolutions.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (303 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- French Revolution — Revolution of 1789 | 1789 Revolution | French Revolution of 1789 | Great French Revolution | French
+- Russian Revolution — Russian Revolution of 1917 | 1917 Revolution | Revolution of 1917 | Russian Revolutions of 1917 | Russian | Soviet Revolution
+- American Revolution — American War of Independence | American Revolutionary War | Revolutionary War | War of American Independence | US War of Independence | American Independence | American | Revolution of 1776 | American Revolution of 1776 | 1776
+- Industrial Revolution — First Industrial Revolution | British Industrial Revolution | Industrial
+- Agricultural Revolution — British Agricultural Revolution | Second Agricultural Revolution | English Agricultural Revolution | Agrarian Revolution | Agricultural
+- Glorious Revolution — Bloodless Revolution | Revolution of 1688 | 1688 Revolution | Glorious | Glorious Revolution of 1688
+- Cuban Revolution — Cuban Revolution of 1959 | Castro's revolution | Cuban
+
+### Tier 2: common (23)
+
+- October Revolution — Bolshevik Revolution | Great October Socialist Revolution | Red October | October Uprising | October
+- February Revolution — February Revolution of 1917 | February Revolution of 1848 | French Revolution of 1848 | February
+- Cultural Revolution — Great Proletarian Cultural Revolution | Chinese Cultural Revolution | Cultural
+- Iranian Revolution — Islamic Revolution | Iranian Islamic Revolution | Islamic Revolution of Iran | Iranian Revolution of 1979 | Iranian
+- Chinese Revolution — Chinese
+- Mexican Revolution — Mexican Revolution of 1910 | Mexican
+- Haitian Revolution — Haitian War of Independence | Saint-Domingue Revolution | Haitian
+- Velvet Revolution — Gentle Revolution | Czechoslovak Revolution | Czech Revolution | Velvet
+- Orange Revolution — Ukrainian Orange Revolution | Orange | Ukrainian Revolution
+- Scientific Revolution — Scientific | Newtonian Revolution
+- Green Revolution — Third Agricultural Revolution | Green
+- Digital Revolution — Third Industrial Revolution | Information Revolution | Computer Revolution | Internet revolution | Digital
+- Sexual Revolution — Sexual liberation | Sexual
+- Arab Spring — Arab Uprisings | Arab Revolutions
+- Revolutions of 1848 — Revolution of 1848 | 1848 Revolutions | 1848 | Springtime of the Peoples | Spring of Nations | Spring of the Peoples | Year of Revolutions | European Revolutions of 1848 | March Revolution | German Revolution of 1848 | German revolutions of 1848–49 | Austrian Revolution of 1848 | Austrian Revolution | Italian revolutions of 1848 | Sicilian revolution of 1848
+- Revolutions of 1989 — Fall of Communism | Autumn of Nations | 1989 Revolutions | Collapse of Communism | Revolutions of 1989 in Eastern Europe
+- Hungarian Revolution of 1956 — Hungarian Uprising | 1956 Hungarian Revolution | Hungarian Uprising of 1956 | Hungarian Revolution | Hungarian Rebellion
+- Easter Rising — Easter Rebellion | 1916 Rising | Rising of 1916 | Easter Rising of 1916 | Easter Revolt | Easter Uprising | Irish Rebellion | Irish Rising | Irish uprising | Irish revolt
+- Peasants' Revolt — Wat Tyler's Rebellion | Wat Tyler's Revolt | Great Rising | Peasants' Revolt of 1381 | Great Revolt of 1381 | English Peasants' Revolt | Peasants' Rebellion | Peasants' Uprising | Peasants' Rising
+- Jacobite rising — Jacobite rebellion | Jacobite risings | Jacobite uprising | Jacobite revolt | The Forty-Five | The Fifteen | Jacobite rising of 1745 | Jacobite rising of 1715 | Bonnie Prince Charlie's rising | '45 Rebellion | Jacobite Rebellion of 1745
+- Boxer Rebellion — Boxer Uprising | Boxer Revolt | Yihetuan Movement | Boxers | Boxer Rising
+- Indian Rebellion of 1857 — Indian Mutiny | Sepoy Mutiny | Indian Rebellion | First War of Independence | First War of Indian Independence | Indian War of Independence | Revolt of 1857 | Rebellion of 1857 | Sepoy Rebellion | Great Indian Revolt | Uprising of 1857 | Indian Revolt of 1857 | Indian Uprising of 1857 | Indian Rising of 1857 | 1857 revolt | 1857 Rebellion | 1857 uprising | 1857 Mutiny | 1857 War of Independence | 1857 ki Kranti | 1857 | Indian Revolution
+- English Revolution — English Civil War | English Civil Wars | Puritan Revolution | British Civil Wars | Wars of the Three Kingdoms | Great Rebellion
+
+### Tier 3: known to fans (45)
+
+- Neolithic Revolution — First Agricultural Revolution | Neolithic Agricultural Revolution | Neolithic
+- Second Industrial Revolution — Technological Revolution
+- Copernican Revolution — Copernican
+- Russian Revolution of 1905 — Revolution of 1905 | 1905 Revolution | First Russian Revolution | 1905 Russian Revolution
+- Xinhai Revolution — 1911 Revolution | Revolution of 1911 | Chinese Revolution of 1911 | Hsinhai Revolution | Xinhai
+- Chinese Communist Revolution — Communist Revolution in China | Chinese Revolution of 1949 | 1949 Revolution | Maoist Revolution | Mao's revolution
+- July Revolution — Revolution of 1830 | French Revolution of 1830 | Second French Revolution | Three Glorious Days | July Uprising | Monsoon Revolution | Student–People's Uprising | Bangladesh Revolution | Bangladeshi Revolution | July Revolution of 1830 | July Revolution of 2024
+- Paris Commune — Commune of Paris | Commune of 1871 | Communards
+- May 68 — May 1968 | Mai 68 | Events of May 1968 | May 1968 events | Paris 1968
+- Belgian Revolution — Belgian Revolution of 1830 | Belgian
+- Greek Revolution — Greek War of Independence | Greek Revolution of 1821 | Greek War of Liberation | Greek
+- Dutch Revolt — Eighty Years' War | Revolt of the Netherlands | Dutch War of Independence | Dutch Revolution | Dutch Rebellion | Dutch Uprising | Dutch Rising
+- Algerian Revolution — Algerian War | Algerian War of Independence | Algerian
+- Irish Rebellion of 1798 — 1798 Rebellion | United Irishmen Rebellion | Rebellion of 1798 | 1798 Rising | Irish Revolt of 1798 | Irish Uprising of 1798 | Irish Rising of 1798
+- Irish Revolution — Irish War of Independence | Anglo-Irish War | Irish revolutionary period
+- Carnation Revolution — 25 April Revolution | Portuguese Revolution of 1974 | Revolution of the Carnations | Carnation | Portuguese Revolution
+- Rose Revolution — Georgian Revolution | Rose
+- Euromaidan — Revolution of Dignity | Maidan Revolution | Maidan | Ukrainian Revolution of 2014 | Euromaidan Revolution | Madian Revolution | Maian Revolution
+- Tunisian Revolution — Jasmine Revolution | Sidi Bouzid Revolt | Tunisian Revolution of 2011 | Tunisian
+- Egyptian Revolution — Egyptian Revolution of 2011 | Egyptian Revolution of 1952 | Egyptian Revolution of 1919 | 25 January Revolution | Revolution of 1952 | 23 July Revolution | Free Officers' Revolution | Egyptian
+- Young Turk Revolution — Young Turks' Revolution | Young Turk Revolt | Young Turks
+- Arab Revolt — Great Arab Revolt | Arab Revolt of 1916
+- Taiping Rebellion — Taiping Revolution | Taiping Civil War | Taiping Revolt | Taiping Uprising | Taiping Rising
+- Meiji Restoration — Meiji Revolution | Meiji Ishin
+- People Power Revolution — EDSA Revolution | EDSA People Power Revolution | Yellow Revolution | People Power | Philippine Revolution of 1986
+- Philippine Revolution — Philippine Revolution of 1896 | Tagalog War | Philippine
+- Texas Revolution — Texas War of Independence | Texan Revolution | Texian Revolution | Texas
+- Nicaraguan Revolution — Sandinista Revolution | Sandinista | Nicaraguan
+- Quiet Revolution — Révolution tranquille | Quiet
+- Singing Revolution — Baltic revolutions | Singing
+- Romanian Revolution — Romanian Revolution of 1989 | Romanian
+- Hungarian Revolution of 1848 — Hungarian War of Independence | Hungarian Revolution of 1848–49 | 1848 Hungarian Revolution
+- German Revolution — German Revolution of 1918–19 | November Revolution | German Revolution of 1918
+- Decembrist revolt — Decembrists | Decembrist rebellion | Decembrist Uprising | Decembrist Rising
+- Warsaw Uprising — Warsaw Uprising of 1944 | Warsaw Rebellion | Warsaw Revolt | Warsaw Rising | Polish uprising | Polish Revolution | Polish rebellion | Polish insurrection | Polish rising
+- Warsaw Ghetto Uprising — Warsaw Ghetto Rebellion | Warsaw Ghetto Revolt | Warsaw Ghetto Rising
+- Mau Mau uprising — Mau Mau | Kenya Emergency | Mau Mau Rebellion | Mau Mau Revolt | Mau Mau Rising
+- Soweto uprising — Soweto riots | Soweto uprising of 1976 | Soweto Rebellion | Soweto Revolt | Soweto Rising | Soweto
+- Third Servile War — Spartacus revolt | Spartacus uprising | Spartacan revolt | Revolt of Spartacus | Spartacus rebellion | Gladiator War | War of Spartacus | Spartacus's revolt
+- Boudican revolt — Boudica's revolt | Boudicca's revolt | Boudica's rebellion | Boudicca's rebellion | Boudiccan revolt | Iceni revolt | Revolt of Boudica | Revolt of Boudicca | Boudica's uprising | Boudicca's uprising | Boudican Rebellion | Boudican Uprising | Boudican Rising
+- Maccabean Revolt — Revolt of the Maccabees | Maccabees' revolt | Maccabean Rebellion | Maccabean Uprising | Maccabean Rising
+- Pilgrimage of Grace
+- Satsuma Rebellion — Seinan War | Satsuma Revolt | Satsuma Uprising | Satsuma Rising
+- Intifada — First Intifada | Second Intifada | Al-Aqsa Intifada
+- Eureka Rebellion — Eureka Stockade | Eureka uprising | Battle of the Eureka Stockade | Eureka | Eureka Revolt | Eureka Rising
+
+### Tier 4: obscure (81)
+
+- Indonesian National Revolution — Indonesian Revolution | Indonesian War of Independence
+- Serbian Revolution — First Serbian Uprising | Second Serbian Uprising | Serbian Uprising
+- Mexican War of Independence — Grito de Dolores | Hidalgo revolt | Mexican Independence | Hidalgo's revolt
+- Peaceful Revolution — Wende | East German Revolution | Peaceful Revolution of 1989 | Friedliche Revolution
+- Bulldozer Revolution — 5 October Overthrow | Bulldozer
+- Tulip Revolution — Kyrgyz Revolution | Pink Revolution | Lemon Revolution | Tulip
+- Cedar Revolution — Independence Intifada | Cedar
+- Saffron Revolution — Saffron
+- Umbrella Revolution — Umbrella Movement | Umbrella
+- Colour revolutions — Color revolutions | Coloured revolutions
+- 8888 Uprising — Four Eights Uprising | 8888 Rebellion | 8888 Revolt | 8888 Rising
+- Gwangju Uprising — Gwangju Democratization Movement | Kwangju Uprising | Gwangju Rebellion | Gwangju Revolt | Gwangju Rising
+- April Revolution — April 19 Revolution | April Revolution of 1960
+- Donghak Peasant Revolution — Donghak Rebellion | Tonghak Rebellion | Donghak Revolution | Donghak Peasant Rebellion
+- Shimabara Rebellion — Shimabara Revolt | Shimabara Uprising | Shimabara Rising
+- Wuchang Uprising — Wuchang Rebellion | Wuchang Revolt | Wuchang Rising
+- August Revolution — Vietnamese August Revolution | August Revolution of 1945 | Vietnamese Revolution
+- Bolivarian Revolution — Bolivarian | Venezuelan Revolution
+- Libyan Revolution — Libyan Revolution of 2011 | 17 February Revolution | al-Fateh Revolution | Libyan Revolution of 1969 | 1 September Revolution
+- Syrian Revolution — Syrian Revolution of 2011
+- Iranian Constitutional Revolution — Persian Constitutional Revolution | Constitutional Revolution | Persian Revolution
+- White Revolution — Operation Flood | Iranian White Revolution
+- Abbasid Revolution — Hashimiyya revolt
+- Zanzibar Revolution
+- June Rebellion — Paris Uprising of 1832 | June Rebellion of 1832 | June Revolt | June Uprising | June Rising
+- Fronde — Frondes
+- Revolt in the Vendée — War in the Vendée | Vendée revolt | Vendée | Rebellion in the Vendée | Uprising in the Vendée | Rising in the Vendée
+- Jacquerie
+- Sicilian Vespers — War of the Sicilian Vespers
+- Revolt of the Comuneros — Comuneros revolt | Revolt of the Comunidades | Comunero revolt | Rebellion of the Comuneros | Uprising of the Comuneros | Rising of the Comuneros
+- Spanish Revolution — Spanish Revolution of 1936 | Spanish Revolution of 1868 | Revolution of 1868 | La Gloriosa | Spanish Glorious Revolution | Glorious Revolution of 1868
+- Nika riots — Nika revolt | Nika riot | Nika insurrection | Nika uprising
+- Ionian Revolt — Revolt of Ionia | Ionian Rebellion | Ionian Uprising | Ionian Rising
+- Great Jewish Revolt — First Jewish Revolt | First Jewish–Roman War | Great Revolt | Jewish Revolt | Great Jewish Rebellion | Great Jewish Uprising | Great Jewish Rising
+- Bar Kokhba revolt — Bar Kochba revolt | Bar Kochba rebellion | Third Jewish Revolt | Second Jewish Revolt | Bar Kokhba Rebellion | Bar Kokhba Uprising | Bar Kokhba Rising
+- Yellow Turban Rebellion — Yellow Turbans | Yellow Scarves Rebellion | Yellow Turban Revolt | Yellow Turban Uprising | Yellow Turban Rising
+- An Lushan Rebellion — An Shi Rebellion | An Lushan Revolt | An Lushan Uprising | An Lushan Rising
+- Cade's Rebellion — Jack Cade's Rebellion | Jack Cade's Revolt | Cade's Revolt | Cade's Uprising | Cade's Rising
+- Glyndŵr Rising — Owain Glyndŵr's revolt | Owain Glyndwr's rebellion | Glyndwr's revolt | Glyndŵr's rebellion | Welsh revolt of 1400 | Glyndŵr Rebellion | Glyndŵr Revolt | Glyndŵr Uprising
+- Kett's Rebellion — Robert Kett's rebellion | Kett's Revolt | Kett's Uprising | Kett's Rising
+- Wyatt's Rebellion — Wyatt's Revolt | Wyatt's Uprising | Wyatt's Rising
+- Monmouth Rebellion — Monmouth's Rebellion | Pitchfork Rebellion | West Country Rebellion | Monmouth Revolt | Monmouth Uprising | Monmouth Rising
+- Swing Riots — Captain Swing riots | Swing Rebellion | Captain Swing
+- Luddite uprising — Luddites | Luddite riots | Luddite Rebellion | Luddite Revolt | Luddite Rising
+- Irish Rebellion of 1641 — 1641 Rebellion | Rising of 1641 | Irish Revolt of 1641 | Irish Uprising of 1641 | Irish Rising of 1641
+- German Peasants' War — Peasants' War | Great Peasants' Revolt | German Peasants' Revolt
+- Hussite Revolution — Hussite Wars | Hussite revolt
+- Pugachev's Rebellion — Pugachev Rebellion | Peasants' War of 1773 | Pugachev's Revolt | Pugachev's Uprising | Pugachev's Rising
+- Khmelnytsky Uprising — Chmielnicki Uprising | Khmelnytsky Rebellion | Khmelnytsky Revolt | Khmelnytsky Rising
+- November Uprising — November Insurrection | Cadet Revolution | November Rebellion | November Revolt | November Rising
+- January Uprising — January Insurrection | January Rebellion | January Revolt | January Rising
+- Kościuszko Uprising — Kościuszko Insurrection | Kościuszko Rebellion | Kościuszko Revolt | Kościuszko Rising
+- Kronstadt rebellion — Kronstadt mutiny | Kronstadt Revolt | Kronstadt Uprising | Kronstadt Rising | Kronstadt
+- Spartacist uprising — January Uprising of 1919 | Spartacist Rebellion | Spartacist Revolt | Spartacist Rising
+- Shays' Rebellion — Shays's Rebellion | Shays' Revolt | Shays' Uprising | Shays' Rising
+- Whiskey Rebellion — Whisky Rebellion | Whiskey Insurrection | Whiskey Revolt | Whiskey Uprising | Whiskey Rising
+- Nat Turner's Rebellion — Southampton Insurrection | Nat Turner Rebellion | Nat Turner's slave rebellion | Nat Turner's Revolt | Nat Turner's Uprising | Nat Turner's Rising
+- Bacon's Rebellion — Bacon's Revolt | Bacon's Uprising | Bacon's Rising
+- Pueblo Revolt — Popé's Rebellion | Pueblo Rebellion | Pueblo Uprising | Pueblo Rising
+- Rebellion of Túpac Amaru II — Tupac Amaru rebellion | Túpac Amaru II rebellion | Tupac Amaru revolt | Tupac Amaru II's rebellion | Revolt of Túpac Amaru II | Uprising of Túpac Amaru II | Rising of Túpac Amaru II
+- Zapatista uprising — EZLN uprising | Chiapas uprising | Zapatista Revolution | Zapatistas | Zapatista Rebellion | Zapatista Revolt | Zapatista Rising
+- Red River Rebellion — Red River Resistance | Riel Rebellion | Red River Revolt | Red River Uprising | Red River Rising
+- Rebellions of 1837 — Rebellions of 1837–38 | Lower Canada Rebellion | Upper Canada Rebellion | Patriotes Rebellion | Patriote Rebellion
+- Stonewall uprising — Stonewall riots | Stonewall | Stonewall Rebellion | Stonewall Revolt | Stonewall Rising
+- Maji Maji Rebellion — Maji Maji War | Maji Maji Revolt | Maji Maji Uprising | Maji Maji Rising
+- May Revolution — Revolución de Mayo | Argentine May Revolution | May Revolution of 1810 | Argentine Revolution | Argentinian Revolution
+- Quit India Movement — Quit India | August Kranti | Bharat Chhodo Andolan | August Movement
+- Mahdist uprising — Mahdist War | Mahdist Rebellion | Mahdist Revolt | Mahdist Rising
+- Fourth Industrial Revolution — Industry 4.0 | 4IR
+- Commercial Revolution
+- Military Revolution
+- Cognitive Revolution
+- Printing Revolution — Print revolution | Gutenberg revolution
+- AI revolution — Artificial intelligence revolution
+- March 1st Movement — Samil Movement | March First Movement | 1 March Movement | March 1st Uprising
+- Siamese revolution of 1932 — Siamese Revolution | Thai Revolution | Thai Revolution of 1932 | Siamese coup of 1932 | 1932 Revolution | Revolution of 1932
+- Saur Revolution — Afghan Revolution | Afghan Revolution of 1978 | April Revolution of 1978
+- Munda Rebellion — Ulgulan | Birsa Munda's rebellion | Munda Ulgulan | Munda uprising | Munda Revolt | Munda Rising
+- 1959 Tibetan uprising — Tibetan uprising | Tibetan Revolution | Lhasa uprising | Tibetan rebellion of 1959 | 1959 Tibetan Rebellion | 1959 Tibetan Revolt | 1959 Tibetan Rising
+- Bohemian Revolt — Bohemian Rebellion | Bohemian Uprising | Revolt of the Bohemian Estates | Bohemian Rising
+- Slovak National Uprising — Slovak Uprising | Slovak National Uprising of 1944 | Slovak National Rebellion | Slovak National Revolt | Slovak National Rising
+
+### Tier 5: expert (144)
+
+- Revolt of Masaniello — Masaniello's revolt | Masaniello revolt | Neapolitan revolt of 1647 | Rebellion of Masaniello | Uprising of Masaniello | Rising of Masaniello
+- Five Days of Milan — Cinque Giornate
+- Reapers' War — Catalan Revolt | Revolt of the Catalans | Guerra dels Segadors
+- Liberal Revolution of 1820 — Portuguese Liberal Revolution | Porto Revolution | Revolution of 1820
+- 5 October 1910 revolution — Portuguese Republican Revolution | 5 October Revolution | Portuguese Revolution of 1910
+- Batavian Revolution
+- Brabant Revolution
+- Liège Revolution — Happy Revolution
+- Prayer Book Rebellion — Western Rising | Western Rebellion | Prayer Book Revolt | Prayer Book Uprising | Prayer Book Rising
+- Rising of the North — Northern Rebellion | Revolt of the Northern Earls | Rising of the Northern Earls | Rebellion of the North | Revolt of the North | Uprising of the North
+- Cornish Rebellion of 1497 — Cornish Rebellion | Cornish rising | Cornish Revolt of 1497 | Cornish Uprising of 1497 | Cornish Rising of 1497
+- Essex's Rebellion — Essex Rebellion | Essex's Revolt | Essex's Uprising | Essex's Rising
+- Fenian Rising — Fenian Rising of 1867 | Fenian Rebellion | Fenian Revolt | Fenian Uprising
+- Young Irelander Rebellion — Young Ireland rebellion | Famine Rebellion | Battle of Widow McCormack's Cabbage Patch | Young Irelander Rebellion of 1848 | Young Irelander Revolt | Young Irelander Uprising | Young Irelander Rising
+- Merthyr Rising — Merthyr Riots | Merthyr Rising of 1831 | Merthyr Rebellion | Merthyr Revolt | Merthyr Uprising
+- Newport Rising — Chartist uprising | Newport Chartist Rising | Chartist rising | Newport Rebellion | Newport Revolt | Newport Uprising
+- Pentrich Rising — Pentrich Revolution | Pentrich Rebellion | Pentrich Revolt | Pentrich Uprising
+- Radical War — Scottish Insurrection of 1820 | Radical Rising
+- Tambov Rebellion — Antonov Rebellion | Tambov Revolt | Tambov Uprising | Tambov Rising
+- Razin's rebellion — Stenka Razin's rebellion | Stenka Razin's revolt | Razin's Revolt | Razin's Uprising | Razin's Rising
+- Copper Riot
+- Salt Riot
+- Streltsy uprising — Moscow Uprising of 1682 | Streltsy Rebellion | Streltsy Revolt | Streltsy Rising
+- Ilinden Uprising — Ilinden–Preobrazhenie Uprising | Ilinden Rebellion | Ilinden Revolt | Ilinden Rising
+- April Uprising — Bulgarian April Uprising | April Uprising of 1876 | April Rebellion | April Revolt | April Rising
+- Poznań 1956 — Poznań protests of 1956 | Poznań June | Poznań uprising
+- East German uprising of 1953 — East German uprising | 17 June uprising | Uprising of 17 June | Uprising of 1953 | East German Rebellion of 1953 | East German Revolt of 1953 | East German Rising of 1953
+- Prague Uprising — Prague uprising of 1945 | Prague Rebellion | Prague Revolt | Prague Rising
+- Bagaudae — Bagaudae revolt | Bacaudae
+- Revolt of the Batavi — Batavian revolt | Revolt of Civilis | Rebellion of the Batavi | Uprising of the Batavi | Rising of the Batavi
+- Great Illyrian Revolt — Bellum Batonianum | Pannonian revolt | Great Illyrian Rebellion | Great Illyrian Uprising | Great Illyrian Rising
+- Zanj Rebellion — Zanj Revolt | Zanj Uprising | Zanj Rising
+- Urabi revolt — Urabi Revolution | Orabi revolt | Urabi Rebellion | Urabi Uprising | Urabi Rising
+- Great Revolt in Palestine — 1936–39 Arab revolt in Palestine | Great Palestinian Revolt | Arab revolt in Palestine
+- Dhofar Rebellion — Dhofar War | Dhofar Revolt | Dhofar Uprising | Dhofar Rising
+- 14 July Revolution — Iraqi Revolution | Iraqi Revolution of 1958
+- Yemeni Revolution — Yemeni Revolution of 2011
+- Sudanese Revolution — Sudanese Revolution of 2019 | December Revolution
+- Bahraini uprising — Bahraini uprising of 2011 | Pearl Revolution | Bahraini Rebellion | Bahraini Revolt | Bahraini Rising
+- Woman, Life, Freedom — Mahsa Amini protests | Woman Life Freedom movement | Iranian protests of 2022
+- Ethiopian Revolution — Ethiopian Revolution of 1974
+- Rwandan Revolution — Hutu Revolution | Rwandan Revolution of 1959
+- Burkinabé uprising — Burkina Faso uprising of 2014 | Burkinabé Rebellion | Burkinabé Revolt | Burkinabé Rising
+- Malagasy Uprising — Malagasy uprising of 1947 | Madagascar uprising of 1947 | Malagasy Rebellion | Malagasy Revolt | Malagasy Rising
+- Chilembwe uprising — John Chilembwe uprising | Chilembwe Rebellion | Chilembwe Revolt | Chilembwe Rising
+- Bambatha Rebellion — Poll Tax Rebellion | Bambatha Revolt | Bambatha Uprising | Bambatha Rising
+- Herero and Nama uprising — Herero uprising | Herero and Nama Rebellion | Herero and Nama Revolt | Herero and Nama Rising
+- Women's War — Aba Women's Riots | Aba Women's War | Igbo Women's War
+- Bolivian National Revolution — Bolivian Revolution | Bolivian Revolution of 1952
+- Guatemalan Revolution — Guatemalan Revolution of 1944
+- Brazilian Revolution of 1930 — Revolution of 1930
+- Stono Rebellion — Cato's Rebellion | Stono Revolt | Stono Uprising | Stono Rising
+- German Coast Uprising — 1811 German Coast Uprising | Deslondes revolt | German Coast Rebellion | German Coast Revolt | German Coast Rising
+- Baptist War — Christmas Rebellion | Sam Sharpe Rebellion | Great Jamaican Slave Revolt
+- Tacky's Revolt — Tacky's War | Tacky's Rebellion | Tacky's Uprising | Tacky's Rising
+- Morant Bay rebellion — Morant Bay Revolt | Morant Bay Uprising | Morant Bay Rising
+- Demerara rebellion — Demerara rebellion of 1823 | Demerara Revolt | Demerara Uprising | Demerara Rising
+- Malê Revolt — Malê Rebellion | Malê Uprising | Malê Rising
+- Bussa's Rebellion — Bussa Rebellion | Bussa's Revolt | Bussa's Uprising | Bussa's Rising
+- North-West Rebellion — North-West Resistance | Saskatchewan Rebellion | North-West Revolt | North-West Uprising | North-West Rising
+- Dorr Rebellion — Dorr Revolt | Dorr Uprising | Dorr Rising
+- Leisler's Rebellion — Leisler's Revolt | Leisler's Uprising | Leisler's Rising
+- Fries's Rebellion — Fries Rebellion | Fries's Revolt | Fries's Uprising | Fries's Rising
+- Cristero War — Cristero rebellion | Cristiada
+- Spring Revolution — Myanmar Spring Revolution
+- June Democratic Struggle — June Democracy Movement
+- Ikkō-ikki
+- Nanchang Uprising — Nanchang Rebellion | Nanchang Revolt | Nanchang Rising
+- Autumn Harvest Uprising — Autumn Harvest Rebellion | Autumn Harvest Revolt | Autumn Harvest Rising
+- Red Turban Rebellion — Red Turbans | Red Turban Revolt | Red Turban Uprising | Red Turban Rising
+- Huang Chao rebellion — Huang Chao Revolt | Huang Chao Uprising | Huang Chao Rising
+- Dazexiang uprising — Chen Sheng and Wu Guang uprising | Chen Sheng Wu Guang Uprising | Dazexiang Rebellion | Dazexiang Revolt | Dazexiang Rising
+- Red Eyebrows — Red Eyebrows Rebellion | Chimei
+- Dungan Revolt — Dungan Rebellion | Dungan Uprising | Dungan Rising
+- Nian Rebellion — Nian Revolt | Nian Uprising | Nian Rising
+- White Lotus Rebellion — White Lotus Revolt | White Lotus Uprising | White Lotus Rising
+- Mongolian Revolution — Mongolian Revolution of 1911 | Mongolian Revolution of 1921 | Mongolian Revolution of 1990 | Mongolian Democratic Revolution
+- Nepalese Revolution — Nepalese Revolution of 1951 | Loktantra Andolan | Jana Andolan | Nepalese Revolution of 2006
+- Aragalaya — Sri Lankan protests of 2022 | Sri Lankan uprising
+- Gen Z protests — Gen Z revolution | Gen Z uprising | Gen Z protests in Nepal | Nepalese Gen Z protests | Gen Z protests in Madagascar | Kenyan Gen Z protests | Gen Z protests in Kenya | 2024 Kenyan protests
+- Vellore Mutiny — Vellore mutiny of 1806
+- Santhal rebellion — Santhal Hul | Santal rebellion | Hul rebellion | Santal Hul | Santhal Revolt | Santhal Uprising | Santhal Rising
+- Paika Rebellion — Paika Bidroha | Paika Revolt | Paika Uprising | Paika Rising
+- Indigo revolt — Nil Bidroho | Indigo Rebellion | Indigo Uprising | Indigo Rising
+- Malabar rebellion — Moplah Rebellion | Mappila uprising | Moplah riots | Malabar Revolt | Malabar Uprising | Malabar Rising
+- Royal Indian Navy mutiny — RIN mutiny | Bombay mutiny | Naval mutiny of 1946
+- Chemical Revolution
+- Darwinian Revolution
+- Price Revolution
+- Financial Revolution
+- Market Revolution
+- Transportation Revolution — Transport revolution
+- Consumer Revolution
+- Urban Revolution
+- Upper Palaeolithic Revolution — Upper Paleolithic Revolution
+- Secondary products revolution
+- Keynesian Revolution
+- Marginal Revolution — Marginalist revolution
+- Blue Revolution
+- Candlelight Revolution — Candlelight Struggle | Candlelight protests
+- Emmet's Rising — Irish rebellion of 1803 | Robert Emmet's rising | Emmet's rebellion | Rising of 1803 | Emmet's Revolt | Emmet's Uprising
+- Reformasi — Fall of Suharto | Indonesian Reformasi | Reformasi 1998
+- Rand Rebellion — Rand Revolt | Red Revolt | Rand Strike | Rand Uprising | Rand Rising
+- Maritz Rebellion — Boer Revolt | Boer Rebellion of 1914 | Maritz Revolt | Maritz Uprising | Maritz Rising
+- Kittur rebellion — Kittur Chennamma's rebellion | Kittur revolt | Kittur uprising | Kittur Rising
+- Hukbalahap Rebellion — Huk Rebellion | Hukbalahap | Huk uprising | Hukbalahap Revolt | Hukbalahap Uprising | Hukbalahap Rising
+- Tây Sơn rebellion — Tây Sơn uprising | Tay Son revolt | Tây Sơn Rising
+- Trưng sisters' rebellion — Trung Sisters uprising | Hai Bà Trưng uprising | Trưng sisters' Revolt | Trưng sisters' Rising
+- Panthay Rebellion — Panthay revolt | Du Wenxiu Rebellion | Panthay Uprising | Panthay Rising
+- Armenian Revolution of 2018 — Armenian Velvet Revolution | Armenian Revolution | 2018 Armenian revolution
+- Ukrainian Revolution of 1917–1921 — Ukrainian Revolution of 1917 | Ukrainian War of Independence
+- Rojava Revolution — Kurdish Revolution | Revolution in Rojava
+- Second Revolution — Second Revolution of 1913 | Chinese Second Revolution
+- Ramadan Revolution — Ramadan Revolution of 1963
+- Peruvian Revolution — Peruvian Revolution of 1968 | Revolutionary Government of the Armed Forces
+- Revolución Argentina — Argentine Revolution of 1966
+- Turkish Revolution — Kemalist Revolution | Atatürk's Revolution
+- Silver Revolution — Indian Silver Revolution
+- Golden Revolution — Indian Golden Revolution
+- Quantum revolution — First quantum revolution | Quantum Revolution in physics
+- Ragamuffin War — Farroupilha Revolution | Revolução Farroupilha | Ragamuffin Revolution
+- Bear Flag Revolt — Bear Flag Rebellion | California Revolt | Bear Flag Uprising | Bear Flag Rising
+- Greater Poland Uprising — Wielkopolska Uprising | Greater Poland Uprising of 1918 | Greater Poland Rebellion | Greater Poland Revolt | Greater Poland Rising
+- Silesian Uprisings — Silesian Uprising | First Silesian Uprising | Second Silesian Uprising | Third Silesian Uprising
+- EDSA II — Second EDSA Revolution | EDSA Revolution of 2001 | Second People Power Revolution
+- February 28 incident — 228 incident | February 28 uprising | 228 uprising
+- Ghadar Mutiny — Ghadar conspiracy | Ghadar rebellion | Ghadar uprising
+- Telangana Rebellion — Telangana armed struggle | Telangana uprising | Telangana Peasants' Struggle | Telangana Revolt | Telangana Rising
+- Naxalbari uprising — Naxalbari | Naxalbari revolt | Naxalite uprising | Naxalbari Rebellion | Naxalbari Rising
+- Polygar Wars — Polygar rebellion | Palayakkarar rebellion
+- First Chimurenga — Chimurenga | Second Matabele War | Matabele Rebellion | Shona and Ndebele rising
+- JVP insurrections — JVP insurrection | 1971 JVP insurrection | 1987–89 JVP insurrection | JVP uprising
+- Grenada Revolution — Grenadian Revolution | Grenada Revolution of 1979
+- Kyrgyz Revolution of 2010 — Second Kyrgyz Revolution | Kyrgyz Revolution 2010
+- Desmond Rebellions — Desmond Rebellion | First Desmond Rebellion | Second Desmond Rebellion
+- Tyrone's Rebellion — Nine Years' War (Ireland) | Tyrone's Rising | Tyrone's Revolt | Tyrone's Uprising
+- Bulavin Rebellion — Bulavin's rebellion | Bulavin uprising | Bulavin Revolt | Bulavin Rising
+- Camisard revolt — Camisards | War of the Camisards | Camisard rebellion | Camisard Uprising | Camisard Rising
+- Athens Polytechnic uprising — Polytechnic uprising | Athens Polytechnic | Athens Polytechnic Rebellion | Athens Polytechnic Revolt | Athens Polytechnic Rising
+- Portuguese Restoration — Revolution of 1640 | Portuguese Revolution of 1640 | Restoration of Independence
+- 2025–2026 Iranian protests — 2025–26 Iranian protests | 2026 Iranian protests | Iranian protests of 2026 | 2025 Iranian protests | Iranian protests of 2025–2026 | Iranian protests | Iran protests
+- Non-cooperation movement — Asahayog Andolan
+- Civil Disobedience Movement — Savinay Avagya Andolan
+- Finnish Revolution — Finnish Civil War | Finnish Revolution of 1918 | Finnish Civil War of 1918
+
+### Tier 6: rare jackpots (3)
+
+- Revolt of the Ciompi — Ciompi revolt | Ciompi Revolution | Tumult of the Ciompi | Ciompi uprising | Ciompi | Rebellion of the Ciompi | Uprising of the Ciompi | Rising of the Ciompi
+- Rebecca Riots — Rebecca Riot | Rebecca and her Daughters | Rebeccaites
+- Secession of the Plebs — Secessio plebis | First Secession of the Plebs | Plebeian secession | Secessions of the Plebs
+
+## Refused on purpose (52)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Revolution — "Every answer here is a revolution. Give yours its full name."
+- Communist revolution | Socialist revolution | Proletarian revolution | Workers' revolution | Bourgeois revolution — "A kind of revolution that several countries had. Add the country."
+- Storming of the Bastille | Bastille Day | Fall of the Bastille | Reign of Terror | The Terror | Tennis Court Oath | Women's March on Versailles | Storming of the Winter Palace | Fall of the Berlin Wall | Berlin Wall | Baltic Way | Boston Tea Party | Boston Massacre | Long March | Execution of Louis XVI | Thermidor | Thermidorian Reaction | Shot heard round the world | Declaration of Independence | Lexington and Concord | Declaration of the Rights of Man | Salt March | Dandi March — "One episode in a revolution, not the revolution itself."
+- Peterloo | Peterloo Massacre | Bloody Sunday | Amritsar massacre | Jallianwala Bagh | Jallianwala Bagh massacre | Sharpeville | Sharpeville massacre | Kent State | Kent State shootings — "A massacre of peaceful crowds, not a revolution."
+- Tiananmen Square protests | Tiananmen | Tiananmen Square | Tiananmen Square massacre | June Fourth Incident | Tiananmen protests — "Protests for reform, crushed in 1989. Not a revolution."
+- Chartism | Chartists | Chartist movement | Civil Rights Movement | Suffragettes | Suffragists | Women's suffrage | Anti-apartheid movement | Black Lives Matter | Occupy Wall Street | Extinction Rebellion | Me Too | Abolitionism | Solidarity | Solidarność | Tolpuddle Martyrs | May Fourth Movement | Green Movement | Yellow vests | Gilets jaunes — "A movement for reform, not a revolution."
+- Prague Spring | Perestroika | Glasnost | Hundred Days' Reform | Khrushchev Thaw | Great Reform Act | Reform Act — "Reform from above, not a revolution."
+- Beer Hall Putsch | Munich Putsch | Kapp Putsch | March on Rome | Gunpowder Plot | Guy Fawkes | Bonfire Night | Cato Street Conspiracy | Babington Plot | Rye House Plot | Jameson Raid | John Brown's raid | Raid on Harpers Ferry | Harpers Ferry | Bay of Pigs | Bay of Pigs Invasion | Coup of 18 Brumaire | 18 Brumaire | Pride's Purge — "A plot, a raid or a coup, not a revolution."
+- Mutiny on the Bounty | Bounty mutiny | Potemkin mutiny | Battleship Potemkin — "A mutiny aboard one ship, not a revolution."
+- American Civil War | US Civil War | War Between the States | Civil War — "A civil war, not a revolution."
+- Russian Civil War | Chinese Civil War | Spanish Civil War | Syrian civil war | Libyan civil war — "A civil war that went hand in hand with a revolution. Name the revolution."
+- French Revolutionary Wars | Napoleonic Wars — "Wars that a revolution set off, not the revolution itself."
+- Wars of the Roses | War of the Roses — "A war between two royal houses, not a revolution."
+- Great Leap Forward — "An economic campaign that ended in famine, not a revolution."
+- Reformation | Protestant Reformation | English Reformation | Counter-Reformation | Dissolution of the Monasteries — "A religious upheaval, but history calls it a reformation."
+- Renaissance | Italian Renaissance — "A rebirth of art and learning, not a revolution."
+- Enlightenment | Age of Enlightenment | Age of Reason | Scottish Enlightenment — "An age of ideas that inspired revolutions, not one itself."
+- Velvet Divorce | Dissolution of Czechoslovakia — "A peaceful parting of two nations, not a revolution."
+- Risorgimento | Italian unification | Unification of Italy — "A long movement for unification, won by wars as much as risings."
+- Communism | Marxism | Socialism | Leninism | Maoism | Anarchism | Bolshevism | Bolsheviks | Jacobins | Sans-culottes | Republicanism — "An ideology or a party, not a revolution."
+- Spartacus | Boudica | Boudicca | Wat Tyler | Robespierre | Lenin | Trotsky | Che Guevara | Che | Fidel Castro | Castro | Mao | Mao Zedong | George Washington | Garibaldi | Toussaint Louverture | Nat Turner | Emiliano Zapata | Zapata | Pancho Villa | Simón Bolívar | Bolívar | Khomeini | Danton | Marat | Oliver Cromwell | Owain Glyndŵr | Jack Cade | Pugachev | Michael Collins | Patrick Pearse | Sun Yat-sen | Ho Chi Minh | Karl Marx | Marx | Bonnie Prince Charlie — "A revolutionary, not a revolution. Name the rising itself."
+- Animal Farm — "A novel. Its revolution only mirrors a real one."
+- Les Misérables | Les Mis — "A novel. Its barricades were real, though."
+- V for Vendetta | Hunger Games | Mockingjay | Star Wars | Rebel Alliance | Galactic Civil War | Matrix Revolutions | Revolutionary Road | Hamilton | Braveheart | Revolution 9 — "From a story or a song, not from history."
+- Indian independence movement | Indian freedom struggle | Indian freedom movement — "A long struggle with many risings in it. Name one of them."
+- Refused without a reason (near misses of real answers): Italian Revolution | Chilean Revolution | Dominican Revolution | Ugandan Revolution | Angolan Revolution | Nigerian Revolution | Senegalese Revolution | Malian Revolution | British Revolution | Swiss Revolution | Danish Revolution | Swedish Revolution | Latvian Revolution | Cypriot Revolution | Israeli Revolution | Saudi Revolution | Laotian Revolution | Bulgarian Revolution | Welsh Revolution | Croatian Revolution | Albanian Revolution | Korean Revolution | Japanese Revolution | Canadian Revolution | Jamaican Revolution | Ghanaian Revolution | Lao Revolution

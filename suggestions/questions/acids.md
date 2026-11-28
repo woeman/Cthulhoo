@@ -402,12 +402,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Acid | Acids — "Which one? Name it."
-- Amino acid | Amino acids | Essential amino acid | Proteinogenic amino acid | Amino — "Which one? There are twenty in your body's proteins. Name one."
+- Acid | Acids — "That covers every acid. Name one."
+- Amino acid | Amino acids | Essential amino acid | Proteinogenic amino acid | Amino — "A family of twenty in your body's proteins. Name one."
 - Fatty acid | Omega-3 | Omega-3 fatty acid | Omega-6 | Omega-6 fatty acid | Omega-9 | Saturated fatty acid | Unsaturated fatty acid | Trans fatty acid | Essential fatty acid | Short-chain fatty acid — "A family of acids, not one acid. Name one."
 - Nucleic acid | Nucleic acids | Nucleic — "A family of acids, DNA among them. Name one."
 - Strong acid | Weak acid | Superacid | Mineral acid | Inorganic acid | Organic acid | Carboxylic acid | Oxoacid | Oxyacid | Hydracid | Lewis acid | Brønsted acid | Arrhenius acid | Hydroxy acid | Alpha hydroxy acid | AHA | Beta hydroxy acid | BHA | Keto acid | Bile acid | Dicarboxylic acid | Peracid | Conjugate acid | Polyprotic acid | Diprotic acid — "A kind of acid, not a particular one. Name one."
-- Vitamin B — "Which one? Some B vitamins are acids. Give its number."
+- Vitamin B — "A family of vitamins, and only some are acids. Give its number."
 - LSD | Lysergic acid diethylamide — "Called acid on the street, but the drug itself is not an acid."
 - Acid house | Acid jazz | Acid rock | Acid techno | Acid trance — "A style of dance music, not a chemical."
 - Acid drop — "A sour boiled sweet, not a chemical."
@@ -416,7 +416,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Acid reflux | Heartburn — "Stomach acid rising into the gullet. Name the acid itself."
 - Vinegar | Malt vinegar | Cider vinegar | Balsamic vinegar | White vinegar — "Mostly water with some acetic acid in it. Name the acid itself."
 - Lemon juice | Lemon | Orange juice | Grapefruit juice — "Sour from citric acid, but a juice isn't an acid. Name the acid in it."
-- Lime | Lime juice — "Which lime? The fruit is sour with citric acid and the mineral is an alkali. Neither is an acid."
+- Lime | Lime juice — "Neither lime is an acid: the fruit is sour with citric acid, and the mineral is an alkali."
 - Coca-Cola | Coke | Cola | Pepsi — "Gets its bite from phosphoric acid, but a drink isn't an acid."
 - Sodium hydroxide | Caustic soda | Lye | NaOH | Potassium hydroxide | Caustic potash | KOH | Calcium hydroxide | Slaked lime | Quicklime | Ammonia | Bleach | Baking soda | Bicarbonate of soda | Sodium bicarbonate | Bicarb | Milk of magnesia | Alkali | Base — "An alkali, the opposite of an acid."
 - Sodium chloride | Salt | Table salt | NaCl | Monosodium glutamate | MSG | Epsom salt | Saltpetre | Saltpeter | Potassium nitrate — "A salt, not an acid."

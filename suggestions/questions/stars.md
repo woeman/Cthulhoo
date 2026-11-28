@@ -12,7 +12,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (7)
 
-- Alpha Centauri — Alpha Cen | Alpha Centaurus | Alpha Centauri AB | Alpha Centauri system | Bungula
+- Alpha Centauri — Alpha Cen | Alpha Centaurus | Alpha Centauri AB | Alpha Centauri system | Bungula | Centauri
 - Betelgeuse — Betelgeux | Betelgeuze | Beetlejuice | Alpha Orionis | Ardra | Betelgeuse A | Alpha Orionis A
 - Polaris — North Star | Pole Star | Northern Star | North Pole Star | Lodestar | Alpha Ursae Minoris | Stella Polaris | Cynosura | Dhruva | Dhruva Tara | Dhruv Tara | Polaris A
 - Proxima Centauri — Proxima | Alpha Centauri C | Proxima Cen | Proxima Centaurus | Gliese 551 | GJ 551
@@ -145,7 +145,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 4: obscure (193)
 
 - Lalande 21185 — Gliese 411
-- Luyten's Star — Gliese 273
+- Luyten's Star — Gliese 273 | Luyten
 - Van Maanen's Star — Van Maanen 2 | Van Maanen | Gliese 35
 - Kapteyn's Star — Gliese 191 | Kapteyn
 - Teegarden's Star — Teegarden
@@ -395,7 +395,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - RX J1856.5-3754
 - Double Pulsar — PSR J0737-3039
 - Tycho's Star — Tycho's Supernova | Tycho's Nova | SN 1572 | B Cassiopeiae
-- Kepler's Star — Kepler's Supernova | Kepler's Nova | SN 1604
+- Kepler's Star — Kepler's Supernova | Kepler's Nova | SN 1604 | Kepler
 - Sanduleak -69 202 — SN 1987A | Sanduleak | Supernova 1987A
 - Earendel — WHL0137-LS
 - Absolutno
@@ -726,7 +726,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Methuselah Star — Methuselah | HD 140283
 - Siwarha — Betelgeuse's Companion | Companion of Betelgeuse
 
-## Refused on purpose (43)
+## Refused on purpose (40)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -764,12 +764,9 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Death Star — "A fictional space station. That's no moon, and no star either."
 - Tatooine — "A fictional planet with two suns of its own."
 - Gallifrey | Krypton | Vulcan | Coruscant — "A planet from fiction, not a star."
-- Kepler — "Which Kepler star? The telescope found thousands, so give the number."
-- Gliese | GJ — "Which Gliese star? There are thousands, so give the number."
-- Wolf — "Which Wolf star? Give its catalogue number."
-- Ross — "Which Ross star? Give its catalogue number."
-- Luyten — "Which Luyten star? He catalogued thousands."
+- Gliese | GJ — "Gliese's catalogue holds thousands of stars. Give the number."
+- Wolf — "Max Wolf's catalogue holds over a thousand stars. Give the number."
+- Ross — "Frank Ross's catalogue holds hundreds of stars. Give the number."
 - Sirius Black — "A wizard named after the star. The star alone will do."
-- Centauri — "Which one? Alpha Centauri, Proxima Centauri, or another."
 - Proxima b | Proxima Centauri b | 51 Pegasi b | Kepler-22b | Kepler-452b | TRAPPIST-1e | Gliese 581g | Tau Ceti e | K2-18b | Exoplanet | Kepler-186f | Kepler-442b | Kepler-62e | Kepler-62f | Kepler-16b | Kepler-90i | Kepler-10b | Gliese 667 Cc | Gliese 12 b | Teegarden's Star b | Teegarden b | Ross 128 b | LHS 1140 b | TOI-700 d | Wolf 1061c | HD 209458 b | 55 Cancri e | HR 8799 b | Epsilon Eridani b | Barnard's Star b | Barnard b | Gliese 1214 b | WASP-12b | HD 189733 b | Fomalhaut b | Beta Pictoris b | Gliese 876 d | LTT 9779 b | Alpha Centauri Bb — "A planet circling a star, not the star itself."
 - Cassiopeia A — "The wreck of a star that exploded: a cloud of debris, not the star itself."

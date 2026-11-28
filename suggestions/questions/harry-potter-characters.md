@@ -14,7 +14,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Harry Potter — Potter | Harry | Poter | Hary | Harry James Potter | The Boy Who Lived | The Chosen One | Undesirable Number One
 - Hermione Granger — Granger | Hermione | Hermione Jean Granger | Hermoine | Hermoine Granger
-- Ron Weasley — Ron | Ronald Weasley | Ronald | Ronald Bilius Weasley | Ronniekins | Won-Won
+- Ron Weasley — Ron | Ronald Weasley | Ronald | Ronald Bilius Weasley | Ronniekins | Won-Won | Weasley
 - Albus Dumbledore — Dumbledore | Albus | Professor Dumbledore | Albus Percival Wulfric Brian Dumbledore
 - Lord Voldemort — Voldemort | Tom Riddle | Tom Marvolo Riddle | Riddle | Tom | You-Know-Who | He Who Must Not Be Named | The Dark Lord | Heir of Slytherin | Voldy
 - Severus Snape — Snape | Severus | Professor Snape | The Half-Blood Prince | Snivellus
@@ -22,11 +22,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Draco Malfoy — Malfoy | Draco | Draco Lucius Malfoy
 - Sirius Black — Black | Sirius | Padfoot | Snuffles
 - Dobby — Dobby the House-Elf | Dobbie
-- Neville Longbottom — Neville
+- Neville Longbottom — Neville | Longbottom
 - Ginny Weasley — Ginny | Ginevra Weasley | Ginevra | Ginny Potter | Ginerva | Ginerva Weasley
 - Minerva McGonagall — McGonagall | Professor McGonagall | MacGonagall | Minerva
 - Luna Lovegood — Lovegood | Luna | Loony Lovegood | Loony
-- Bellatrix Lestrange — Bellatrix | Bella | Bellatrix Black
+- Bellatrix Lestrange — Bellatrix | Bella | Bellatrix Black | Lestrange
 
 ### Tier 2: common (73)
 
@@ -34,7 +34,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Remus Lupin — Lupin | Remus | Moony | Professor Lupin
 - Fred Weasley — Fred | Gred
 - George Weasley — George | Forge
-- Molly Weasley — Molly | Mrs Weasley | Molly Prewett
+- Molly Weasley — Molly | Mrs Weasley | Molly Prewett | Prewett
 - Arthur Weasley — Mr Weasley | Arthur
 - Percy Weasley — Percy | Perce | Weatherby
 - Bill Weasley — William Weasley | Bill
@@ -65,7 +65,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nymphadora Tonks — Tonks | Nymphadora
 - Kingsley Shacklebolt — Kingsley | Shacklebolt
 - Cornelius Fudge — Cornelius | Fudge
-- Vernon Dursley — Uncle Vernon | Mr Dursley | Vernon
+- Vernon Dursley — Uncle Vernon | Mr Dursley | Vernon | Dursley
 - Petunia Dursley — Aunt Petunia | Mrs Dursley | Petunia Evans | Petunia
 - Dudley Dursley — Dudders | Big D | Duddy | Dudley
 - James Potter — James | Prongs
@@ -79,7 +79,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Salazar Slytherin — Slytherin | Salazar
 - Helga Hufflepuff — Hufflepuff | Helga
 - Rowena Ravenclaw — Ravenclaw | Rowena
-- Barty Crouch Jr — Barty Crouch Junior | Bartemius Crouch Jr | Young Barty Crouch | Bartemius Crouch Junior
+- Barty Crouch Jr — Barty Crouch Junior | Bartemius Crouch Jr | Young Barty Crouch | Bartemius Crouch Junior | Crouch | Barty | Bartemius
 - Fenrir Greyback — Fenrir | Greyback
 - Aragog
 - Griphook
@@ -106,7 +106,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (113)
 
-- Parvati Patil — Parvati
+- Parvati Patil — Parvati | Patil
 - Padma Patil — Padma
 - Pansy Parkinson — Pansy | Parkinson
 - Igor Karkaroff — Igor | Karkaroff
@@ -117,7 +117,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Marge Dursley — Aunt Marge | Marjorie Dursley | Marge
 - Madam Rosmerta — Rosmerta
 - Nicolas Flamel — Flamel | Nicholas Flamel | Nicolas
-- Tina Goldstein — Porpentina Goldstein | Tina | Porpentina
+- Tina Goldstein — Porpentina Goldstein | Tina | Porpentina | Goldstein
 - Queenie Goldstein — Queenie
 - Jacob Kowalski — Jacob | Kowalski
 - Credence Barebone — Credence | Barebone | Aurelius Dumbledore
@@ -128,7 +128,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Katie Bell — Katie | Bell
 - Angelina Johnson — Angelina | Johnson
 - Alicia Spinnet — Alicia | Spinnet
-- Colin Creevey — Colin
+- Colin Creevey — Colin | Creevey
 - Cormac McLaggen — Cormac | McLaggen
 - Romilda Vane — Romilda | Vane
 - Blaise Zabini — Blaise | Zabini
@@ -139,7 +139,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hannah Abbott — Abott | Hannah | Abbott
 - Justin Finch-Fletchley — Justin | Finch-Fletchley
 - Susan Bones — Susan
-- Zacharias Smith — Zacharias
+- Zacharias Smith — Zacharias | Smith
 - Michael Corner — Michael | Corner
 - Terry Boot — Terry | Boot
 - Anthony Goldstein — Anthony
@@ -150,7 +150,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rufus Scrimgeour — Rufus | Scrimgeour
 - Pius Thicknesse — Pius | Thicknesse
 - Ludo Bagman — Ludovic Bagman | Ludo | Bagman
-- Amelia Bones — Amelia
+- Amelia Bones — Amelia | Bones
 - Amos Diggory — Amos
 - Bertha Jorkins — Bertha | Jorkins
 - Stan Shunpike — Stan | Shunpike
@@ -159,7 +159,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Elphias Doge — Elphias | Doge
 - Arabella Figg — Mrs Figg | Arabella | Figg
 - Xenophilius Lovegood — Mr Lovegood | Xeno Lovegood | Xenophilius | Xeno
-- Frank Longbottom
+- Frank Longbottom — Frank
 - Alice Longbottom — Alice
 - Augusta Longbottom — Mrs Longbottom | Gran Longbottom | Neville's Gran | Augusta
 - Trevor — Trevor the Toad
@@ -167,7 +167,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Errol
 - Bathilda Bagshot — Bathilda | Bagshot
 - Ariana Dumbledore — Ariana
-- Merope Gaunt — Merope
+- Merope Gaunt — Merope | Gaunt
 - Marvolo Gaunt — Marvolo
 - Morfin Gaunt — Morfin
 - Tom Riddle Sr — Tom Riddle Senior
@@ -206,7 +206,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dennis Creevey — Dennis
 - James Sirius Potter
 - Lily Luna Potter
-- Rose Granger-Weasley — Rose Weasley | Rose
+- Rose Granger-Weasley — Rose Weasley | Rose | Granger-Weasley
 - Hugo Granger-Weasley — Hugo Weasley | Hugo
 - Delphi — Delphini | Delphi Diggory | The Augurey
 - Theseus Scamander — Theseus
@@ -214,7 +214,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Percival Graves — Percival | Graves
 - Seraphina Picquery — Madam Picquery | Seraphina | Picquery
 - Mary Lou Barebone — Mary
-- Ignotus Peverell — Ignotus
+- Ignotus Peverell — Ignotus | Peverell
 - Hokey
 - Gornuk
 - Magorian
@@ -231,14 +231,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Avery
 - Selwyn
 - Evan Rosier
-- Vinda Rosier
+- Vinda Rosier — Rosier
 - Nott Sr — Mr Nott
 - Crabbe Sr — Mr Crabbe
 - Goyle Sr — Mr Goyle
 - Mafalda Hopkirk — Hopkirk | Mafalda
-- Bob Ogden
+- Bob Ogden — Ogden
 - Albert Runcorn — Runcorn
-- Reg Cattermole — Reginald Cattermole
+- Reg Cattermole — Reginald Cattermole | Cattermole
 - Mary Cattermole
 - Dirk Cresswell — Cresswell
 - Griselda Marchbanks — Marchbanks
@@ -247,7 +247,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Barnabas Cuffe — Cuffe
 - Aurora Sinistra — Professor Sinistra | Sinistra
 - Septima Vector — Professor Vector | Vector
-- Hestia Jones
+- Hestia Jones — Jones
 - Emmeline Vance — Vance
 - Sturgis Podmore — Podmore
 - Marlene McKinnon — McKinnon
@@ -271,7 +271,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Graham Montague — Montague
 - Miles Bletchley — Bletchley
 - Daphne Greengrass
-- Astoria Greengrass
+- Astoria Greengrass — Greengrass
 - Eloise Midgen — Midgen
 - Leanne
 - Madam Puddifoot — Puddifoot
@@ -553,7 +553,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Silvanus Kettleburn — Professor Kettleburn | Kettleburn
 - Mr Tibbles — Tibbles
 
-## Refused on purpose (36)
+## Refused on purpose (16)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -572,24 +572,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Dumbledore's Army | Order of the Phoenix | Death Eaters | The Marauders | The Golden Trio | Weird Sisters | Snatchers — "A group, not one character."
 - Fred and George | The Weasley Twins | Gred and Forge — "One twin at a time."
 - Sebastian Sallow | Ominis Gaunt | Poppy Sweeting | Natsai Onai | Eleazar Fig | Professor Fig | Victor Rookwood — "From the Hogwarts Legacy video game, not the books or films."
-- Weasley — "Which Weasley? There are lots of them. Add a first name."
-- Dursley — "Which Dursley? Add a first name."
-- Lestrange — "Which Lestrange? Add a first name."
-- Longbottom — "Which Longbottom? There are several. Add a first name."
-- Patil — "Which Patil? There are twins."
-- Creevey — "Which Creevey? There are two brothers."
-- Crouch | Barty | Bartemius — "Which Crouch? Father or son?"
-- Granger-Weasley — "Which one? Ron and Hermione have two children."
-- Peverell — "Which Peverell? There were three brothers."
-- Gaunt — "Which Gaunt? Add a first name."
-- Prewett — "Which Prewett? Molly Weasley was born one, and had two brothers. Add a first name."
-- Greengrass — "Which Greengrass? There are two sisters."
-- Goldstein — "Which Goldstein? Add a first name."
-- Rosier — "Which Rosier? Add a first name."
-- Cattermole — "Which Cattermole? Add a first name."
-- Bones — "Which Bones? Add a first name."
-- Smith — "Which Smith? Add a first name."
-- Jones — "Which Jones? Add a first name."
-- Ogden — "Which Ogden? Add a first name."
-- Frank — "Which Frank? There are three. Add a surname, or say what he is."
 - Nigel | Nigel Wolpert — "Only in the Harry Potter films, not the books."

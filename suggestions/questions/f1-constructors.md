@@ -12,11 +12,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (10)
 
-- Ferrari — Scuderia Ferrari | Scuderia Ferrari HP | Ferrari F1 | Ferrari F1 Team | Prancing Horse
+- Ferrari — Scuderia Ferrari | Scuderia Ferrari HP | Ferrari F1 | Ferrari F1 Team | Prancing Horse | Scuderia
 - McLaren — McLaren F1 Team | McLaren Racing | McLaren Mastercard | Marlboro McLaren | Bruce McLaren Motor Racing | Team McLaren | McLaren Ford | McLaren Cosworth | McLaren BRM | McLaren TAG | McLaren TAG Porsche | McLaren Porsche | McLaren Honda | McLaren Peugeot | McLaren Mercedes | McLaren Renault
 - Mercedes — Mercedes-AMG | Mercedes AMG Petronas | Mercedes-AMG Petronas F1 Team | Mercedes-Benz | Mercedes GP | Mercedes F1 | Merc | Silver Arrows | AMG | Daimler-Benz
 - Red Bull Racing — Red Bull | RBR | Oracle Red Bull Racing | Red Bull F1 | Red Bull Racing Honda RBPT | Red Bull Racing Cosworth | Red Bull Racing Ferrari | Red Bull Racing Renault | Red Bull Racing TAG Heuer | Red Bull Racing Honda | Red Bull Racing Ford | Red Bull Racing RBPT | Red Bull Cosworth | Red Bull Ferrari | Red Bull Renault | Red Bull TAG Heuer | Red Bull Honda | Red Bull Ford | Red Bull RBPT
-- Williams — Williams Racing | Williams F1 | Williams Grand Prix Engineering | Atlassian Williams | Williams F1 Team | Rothmans Williams | Canon Williams | BMW Williams | Williams Ford | Williams Cosworth | Williams Honda | Williams Judd | Williams Renault | Williams Mecachrome | Williams Supertec | Williams BMW | Williams Toyota | Williams Mercedes
+- Williams — Williams Racing | Williams F1 | Williams Grand Prix Engineering | Atlassian Williams | Williams F1 Team | Rothmans Williams | Canon Williams | BMW Williams | Frank Williams | Williams Ford | Williams Cosworth | Williams Honda | Williams Judd | Williams Renault | Williams Mecachrome | Williams Supertec | Williams BMW | Williams Toyota | Williams Mercedes
 - Aston Martin — Aston Martin Aramco | Aston Martin F1 | Aston Martin F1 Team | Aston Martin Cognizant | AMR | Aston | Aston Martin Mercedes | Aston Martin Honda
 - Alpine — Alpine F1 | Alpine F1 Team | BWT Alpine | Alpine Renault | Alpine Mercedes
 - Haas — Haas F1 | Haas F1 Team | TGR Haas | TGR Haas F1 Team | MoneyGram Haas | Uralkali Haas | Team Haas | Haas Ferrari
@@ -224,7 +224,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Life — Life Racing Engines
 - Andrea Moda — Andrea Moda Formula
 
-## Refused on purpose (16)
+## Refused on purpose (14)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -240,7 +240,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Prema | ART Grand Prix | Carlin | Campos Racing | Trident | MP Motorsport — "A junior-series team, not Formula One."
 - Chaparral — "An American racing legend, but it never raced in Formula One."
 - Volkswagen | Bentley | Nissan | Hyundai | Koenigsegg | Chevrolet — "A carmaker that has never raced a Formula One car of its own."
-- Scuderia — "Which Scuderia? The word just means 'stable'. Name the whole thing."
-- Frank Williams — "Which team? He founded two. Name the team, not the man."
 - FIA | FOM | Formula One Management | Liberty Media | FOCA — "The sport's rulers, not a team."
 - Schumacher | Michael Schumacher | Senna | Ayrton Senna | Hamilton | Lewis Hamilton | Verstappen | Max Verstappen | Lauda | Vettel | Alonso | Hunt | Mansell | Fangio | Moss | Raikkonen | Button | Rosberg | Piquet | Hakkinen | Norris | Leclerc | Piastri | Russell | Antonelli | Clark | Villeneuve | Coulthard | Barrichello | Massa | Webber | Ricciardo | Perez | Sainz | Bottas | Mario Andretti — "A driver, not a team."

@@ -337,7 +337,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Birthstone | Gemstone | Gem — "A jeweller's word. Most gems are minerals, not rocks."
 - Whetstone | Grindstone | Millstone | Curling stone | Hagstone | Touchstone | Hearthstone | Gravestone | Headstone | Tombstone | Cornerstone | Stepping stone — "Named for its use or shape, not a kind of rock. Name what it is made of."
 - Coade stone — "A fired clay made by people to look like carved stone."
-- Rock | Stone — "Which kind of rock? Name one."
+- Rock | Stone — "That covers every rock. Name one kind."
 - Bedrock — "The solid rock beneath the soil, whatever kind it happens to be."
 - Scree | Shingle — "Loose broken rock or pebbles, not a kind of rock."
 - Tephra | Lapilli — "Loose fragments thrown out by a volcano. Hardened together, they become rock such as tuff."

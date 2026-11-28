@@ -84,7 +84,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Octave Lapize — Lapize
 - François Faber — Faber
 - Romain Maes
-- Sylvère Maes
+- Sylvère Maes — Maes
 - Georges Speicher — Speicher
 - Roger Lapébie — Lapébie
 - Lucien Buysse — Buysse
@@ -114,18 +114,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Millie Robinson
 
-## Refused on purpose (37)
+## Refused on purpose (30)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Maes — "Which Maes? Two of them have won it."
-- Bernard — "Which Bernard? Two of them have won it. The deep wants a surname."
-- Jan — "Which Jan? Two of them have won it. The deep wants a surname."
-- Lucien — "Which Lucien? Four of them have won it. The deep wants a surname."
-- Maurice — "Which Maurice? Two of them have won it. The deep wants a surname."
-- Roger — "Which Roger? Three of them have won it. The deep wants a surname."
-- Henri — "Which Henri? Two of them have won it. The deep wants a surname."
-- Eddy | Miguel | Chris | Bradley | Geraint | Tadej | Jonas | Greg | Alberto | Jacques | Marco | Cadel | Vincenzo | Egan | Laurent | Fausto | Gino | Stephen | Bjarne | Andy | Pedro | Joop | Louison | Demi | Annemiek | Pauline | Kasia | Jeannie | Federico | Charly | Luis | Felice | Carlos | Oscar | Hugo | Ferdi | Nicole | Emma | Marianne | Leontien | Philippe | Firmin | Ottavio | Nicolas | Antonin | Romain | Sylvère | Georges | Octave | Maria | Joane | Fabiana | Edita | Millie — "First names won't do here. The deep wants a surname."
+- Eddy | Bernard | Miguel | Chris | Bradley | Geraint | Tadej | Jonas | Greg | Alberto | Jacques | Marco | Cadel | Vincenzo | Egan | Laurent | Jan | Fausto | Gino | Stephen | Bjarne | Andy | Pedro | Joop | Louison | Demi | Annemiek | Pauline | Kasia | Jeannie | Federico | Charly | Lucien | Luis | Felice | Carlos | Oscar | Hugo | Ferdi | Maurice | Nicole | Emma | Marianne | Leontien | Roger | Henri | Philippe | Firmin | Ottavio | Nicolas | Antonin | Romain | Sylvère | Georges | Octave | Maria | Joane | Fabiana | Edita | Millie — "First names won't do here. The deep wants a surname."
 - Lance Armstrong | Armstrong | Lance — "Stripped of all seven of his wins, from 1999 to 2005."
 - Floyd Landis | Landis | Floyd — "Stripped of his 2006 win after a failed drug test."
 - Raymond Poulidor | Poulidor | Poupou — "Eight times on the podium, never once the winner."
@@ -154,4 +147,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Lotte Kopecky | Kopecky — "Second in the Tour de France Femmes in 2023, but never the winner."
 - Lizzie Deignan | Deignan | Lizzie Armitstead | Armitstead | Anna van der Breggen | Van der Breggen | Chloe Hosking | Hosking — "She won La Course, a race held at the Tour, not the Tour itself."
 - Brian Robinson — "A British pioneer who won stages, but never the overall title."
-- Robinson — "Which Robinson? Give the first name too."
+- Robinson — "Brian Robinson won stages but never the Tour. Give a first name too."

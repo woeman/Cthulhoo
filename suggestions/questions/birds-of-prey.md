@@ -1,0 +1,484 @@
+# Name a bird of prey.
+
+Question id: `birds-of-prey` · category: nature · source: `data/nature.json`
+
+Rules: Any raptor, living or extinct, as a group or a single species: eagles, hawks, falcons, kites, vultures, buzzards and the rest. Owls count too.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (422 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Eagle — Eagles | Aquila
+- Hawk — Hawks | Chicken Hawk | Hen Hawk | Baaz | Baz | Accipitridae | Accipitrid | Accipitriformes
+- Falcon — Tiercel | Tercel | Falco | Falconid | Falconidae | Falconiformes
+- Owl — Owls | Ullu | Strigiformes | Strigidae | Strigid
+- Vulture — Gidh | Giddh
+- Kestrel — Common Kestrel | Eurasian Kestrel | Windhover | Kestrel falcon | Kestrel hawk | Falco tinnunculus
+- Buzzard
+- Osprey — Fish Hawk | Sea Hawk | Western Osprey | Eastern Osprey | Pandion | Pandion haliaetus | Pandionidae
+- Bald Eagle — American Eagle | American Bald Eagle | Haliaeetus leucocephalus
+- Golden Eagle — Berkut | Aquila chrysaetos
+- Peregrine Falcon — Peregrine | Duck Hawk | Shaheen | Shaheen Falcon | Shahin | Black shaheen | Falco peregrinus
+- Condor — Condors
+
+### Tier 2: common (28)
+
+- Kite — Milvus
+- Red Kite — Glede | Milvus milvus
+- Sparrowhawk — Eurasian Sparrowhawk | Accipiter nisus
+- Harrier — Circus
+- Hen Harrier — Circus cyaneus
+- Marsh Harrier — Western Marsh Harrier
+- Merlin — Pigeon Hawk | Merlin falcon | Falco columbarius
+- Hobby — Eurasian Hobby | Hobby falcon | Falco subbuteo
+- Goshawk — Northern Goshawk | Eurasian Goshawk | Accipiter gentilis | Astur gentilis | Astur
+- Barn Owl — Western Barn Owl | American Barn Owl | Common Barn Owl | Tyto | White owl | Australian barn owl | Tyto alba | Tytonidae | Tytonid
+- Tawny Owl — Brown Owl | Strix aluco
+- Snowy Owl — Arctic Owl | Bubo scandiacus | Nyctea scandiaca
+- Great Horned Owl — Hoot Owl | Tiger Owl | Horned owl | Bubo virginianus
+- Eagle Owl — Eurasian Eagle-Owl | Bubo | Bubo bubo
+- Little Owl — Athene | Athene noctua
+- Harpy Eagle — Harpy | American Harpy Eagle | Harpia harpyja
+- Secretary Bird — Sagittarius serpentarius | Sagittariidae
+- Andean Condor — Vultur gryphus
+- California Condor — Gymnogyps | Gymnogyps californianus
+- Red-tailed Hawk — Redtail | Red-tailed buzzard | Buteo jamaicensis
+- White-tailed Eagle — White-tailed Sea Eagle | Erne | Grey Sea Eagle | Eurasian Sea Eagle
+- Sea Eagle — Haliaeetus
+- Griffon Vulture — Griffon | Eurasian Griffon | Gyps | Gyps fulvus
+- Turkey Vulture — Turkey Buzzard | Cathartes | Cathartes aura
+- Caracara
+- Gyrfalcon — Gyr | Gryfalcon | Falco rusticolus
+- Bearded Vulture — Lammergeier | Lammergeyer | Ossifrage | Lammergeier vulture | Gypaetus | Gypaetus barbatus
+- Common Buzzard — Eurasian Buzzard | Steppe Buzzard | Buteo buteo
+
+### Tier 3: known to fans (79)
+
+- Honey Buzzard — European Honey Buzzard | Pernis | Pernis apivorus
+- Rough-legged Buzzard — Rough-legged Hawk | Roughleg
+- Black Kite — Pariah Kite | Cheel | Chil | Fork-tailed kite | Black-eared kite | Milvus migrans
+- Montagu's Harrier — Montague's Harrier
+- Northern Harrier — Marsh Hawk
+- Pallid Harrier
+- Cooper's Hawk
+- Sharp-shinned Hawk — Sharpie
+- Red-shouldered Hawk
+- Broad-winged Hawk
+- Swainson's Hawk
+- Ferruginous Hawk
+- Harris's Hawk — Harris Hawk | Bay-winged Hawk
+- American Kestrel — American sparrowhawk | Falco sparverius
+- Lesser Kestrel
+- Saker Falcon — Saker
+- Lanner Falcon — Lanner | Lanneret | Falco biarmicus
+- Prairie Falcon
+- Red-footed Falcon
+- Eleonora's Falcon
+- Steppe Eagle
+- Imperial Eagle — Eastern Imperial Eagle
+- Spanish Imperial Eagle — Iberian Imperial Eagle | Adalbert's Eagle
+- Booted Eagle
+- Bonelli's Eagle
+- Short-toed Eagle — Short-toed Snake Eagle
+- Martial Eagle — Polemaetus | Polemaetus bellicosus
+- Crowned Eagle — African Crowned Eagle | Crowned Hawk-Eagle | Stephanoaetus | Stephanoaetus coronatus
+- Tawny Eagle
+- Verreaux's Eagle
+- Black Eagle — Indian black eagle | Ictinaetus malaiensis
+- Wedge-tailed Eagle — Wedgie | Eaglehawk | Wedge-tail | Aquila audax
+- Philippine Eagle — Monkey-eating Eagle | Great Philippine Eagle | Haribon | Pithecophaga | Pithecophaga jefferyi
+- Steller's Sea Eagle — Steller's Eagle | Pacific Sea Eagle | Kamchatka sea eagle | Kamchatkan sea eagle | Haliaeetus pelagicus
+- African Fish Eagle — African Sea Eagle | African eagle
+- Fish Eagle — Fishing Eagle
+- Bateleur — Bateleur Eagle | Terathopius | Terathopius ecaudatus
+- Snake Eagle — Circaetus
+- Serpent Eagle — Spilornis
+- Hawk-Eagle — Spizaetus | Nisaetus
+- Crested Caracara — Northern Crested Caracara | Southern Crested Caracara | Mexican eagle | Mexican buzzard | Audubon's caracara | Northern caracara | Southern caracara
+- Egyptian Vulture — Pharaoh's Chicken | White Scavenger Vulture | Scavenger Vulture | Neophron | Neophron percnopterus
+- Black Vulture — American Black Vulture | Coragyps | Coragyps atratus
+- Cinereous Vulture — Monk Vulture | Eurasian Black Vulture | Aegypius | Aegypius monachus
+- King Vulture — Sarcoramphus | Sarcoramphus papa
+- Hooded Vulture
+- Lappet-faced Vulture — Nubian Vulture
+- White-backed Vulture — African White-backed Vulture
+- Rüppell's Vulture — Rüppell's Griffon
+- Cape Vulture — Cape Griffon
+- Snail Kite — Everglade Kite
+- Swallow-tailed Kite
+- Mississippi Kite
+- Black-winged Kite — Elanus | Elanus caeruleus
+- Brahminy Kite — Red-backed Sea Eagle
+- Whistling Kite
+- White-tailed Kite
+- Haast's Eagle — Harpagornis | Pouakai | Hokioi | Hieraaetus moorei
+- Shikra
+- Old World Vulture — Old World Vultures
+- New World Vulture — New World Vultures | Cathartidae | Cathartid | Cathartiformes
+- Long-eared Owl — Asio otus
+- Short-eared Owl — Pueo | Asio flammeus
+- Burrowing Owl — Burrowing Owls
+- Screech Owl — Megascops
+- Elf Owl — Micrathene | Micrathene whitneyi
+- Great Grey Owl — Lapland Owl | Great Gray Owl
+- Barred Owl
+- Spotted Owl — Northern Spotted Owl | Mexican Spotted Owl | California spotted owl | Strix occidentalis
+- Pygmy Owl — Glaucidium
+- Scops Owl — Eurasian Scops Owl | Common Scops Owl | Otus | Otus scops
+- Hawk Owl — Northern Hawk-Owl | Surnia | Surnia ulula
+- Fish Owl — Fishing Owl | Ketupa
+- Saw-whet Owl — Northern Saw-whet Owl | Aegolius | Aegolius acadicus
+- Tengmalm's Owl — Boreal Owl
+- Ural Owl
+- Morepork — Ruru
+- Boobook — Southern Boobook | Mopoke | Ninox
+- Owlet — Owlets
+
+### Tier 4: obscure (156)
+
+- Accipiter — Accipiters
+- Buteo — Buteos
+- Falconet — Falconets
+- Forest Falcon
+- Bat Hawk
+- Bat Falcon
+- Aplomado Falcon
+- Barbary Falcon
+- Sooty Falcon
+- Amur Falcon — Eastern red-footed falcon | Falco amurensis
+- New Zealand Falcon — Kārearea | Bush Falcon
+- Brown Falcon
+- Black Falcon
+- Grey Falcon — Gray Falcon
+- Australian Hobby — Little Falcon
+- Pygmy Falcon — African Pygmy Falcon
+- Nankeen Kestrel — Australian Kestrel
+- Mauritius Kestrel
+- Striated Caracara — Johnny Rook | Forster's Caracara
+- Chimango Caracara — Chimango
+- Yellow-headed Caracara
+- White-headed Vulture
+- Himalayan Vulture — Himalayan Griffon
+- Indian Vulture — Long-billed Vulture
+- White-rumped Vulture — Oriental White-backed Vulture
+- Teratorn — Teratornis | Aiolornis | Teratornithidae
+- Argentavis — Argentavis magnificens | Giant Teratorn
+- White-bellied Sea Eagle — White-breasted Sea Eagle
+- Pallas's Fish Eagle — Pallas's Sea Eagle
+- Little Eagle
+- Lesser Spotted Eagle
+- Greater Spotted Eagle
+- Indian Spotted Eagle
+- Wahlberg's Eagle
+- Long-crested Eagle
+- African Hawk-Eagle
+- Ornate Hawk-Eagle
+- Black Hawk-Eagle
+- Changeable Hawk-Eagle — Crested Hawk-Eagle | Nisaetus cirrhatus
+- Mountain Hawk-Eagle — Hodgson's Hawk-Eagle
+- Crested Serpent Eagle
+- Brown Snake Eagle
+- Black-chested Snake Eagle
+- Crested Eagle
+- Black-chested Buzzard-Eagle — Grey Eagle-Buzzard
+- Buzzard-Eagle
+- Augur Buzzard
+- Jackal Buzzard
+- Long-legged Buzzard
+- Upland Buzzard
+- Lizard Buzzard
+- Grasshopper Buzzard — Grasshopper Buzzard-Eagle
+- White-eyed Buzzard — White-eyed Buzzard-Eagle
+- Grey-faced Buzzard — Grey-faced Buzzard-Eagle | Gray-faced Buzzard
+- Black-breasted Buzzard — Black-breasted kite | Hamirostra melanosternon
+- Crested Honey Buzzard — Oriental Honey Buzzard
+- Zone-tailed Hawk
+- Short-tailed Hawk
+- Grey Hawk — Gray Hawk
+- Roadside Hawk
+- Common Black Hawk — Black hawk | Buteogallus anthracinus
+- Great Black Hawk
+- Savanna Hawk
+- Crane Hawk
+- White Hawk
+- Galápagos Hawk
+- Hawaiian Hawk — ʻIo
+- Ridgway's Hawk
+- White-tailed Hawk
+- Variable Hawk — Red-backed Hawk | Puna Hawk
+- American Goshawk
+- Brown Goshawk
+- Grey Goshawk — White Goshawk | Gray Goshawk
+- Chanting Goshawk
+- Dark Chanting Goshawk
+- Pale Chanting Goshawk
+- Gabar Goshawk
+- Crested Goshawk
+- Black Sparrowhawk — Black Goshawk
+- Levant Sparrowhawk
+- Japanese Sparrowhawk
+- Besra
+- Collared Sparrowhawk
+- Baza — Cuckoo-Hawk
+- Pacific Baza — Crested Hawk | Crested Baza
+- Black-shouldered Kite
+- Hook-billed Kite
+- Letter-winged Kite
+- Square-tailed Kite
+- Plumbeous Kite
+- Swamp Harrier — Australasian Harrier | Kāhu
+- Pied Harrier
+- Spotted Harrier
+- African Marsh Harrier
+- Eastern Marsh Harrier
+- African Harrier-Hawk — Gymnogene | Harrier-Hawk
+- Collared Forest Falcon
+- Oriental Hobby
+- Taita Falcon
+- Orange-breasted Falcon
+- Laggar Falcon — Laggar | Jugger | Falco jugger
+- Red-necked Falcon — Turumti | Red-headed merlin | Falco chicquera
+- Greater Kestrel — White-eyed Kestrel
+- Rock Kestrel
+- Collared Falconet
+- Mountain Caracara
+- Lesser Yellow-headed Vulture
+- Greater Yellow-headed Vulture
+- Slender-billed Vulture
+- Red-headed Vulture — Asian King Vulture | Pondicherry Vulture
+- Eastern Screech Owl
+- Western Screech Owl
+- Whiskered Screech Owl
+- Flammulated Owl
+- Northern Pygmy Owl
+- Eurasian Pygmy Owl
+- Ferruginous Pygmy Owl — Cactus ferruginous pygmy owl | Glaucidium brasilianum
+- Barking Owl — Winking owl | Ninox connivens
+- Powerful Owl
+- Masked Owl — Australian masked owl | Tasmanian masked owl | Tyto novaehollandiae
+- Grass Owl — Australasian Grass Owl | African Grass Owl | Eastern grass owl | Tyto longimembris | Tyto capensis
+- Sooty Owl — Greater sooty owl | Tyto tenebricosa
+- Spectacled Owl — Pulsatrix | Pulsatrix perspicillata
+- Mottled Owl
+- Crested Owl
+- Striped Owl
+- Stygian Owl
+- Rufous Owl
+- Spotted Eagle-Owl
+- Verreaux's Eagle-Owl — Milky Eagle-Owl | Giant Eagle-Owl
+- Pharaoh Eagle-Owl
+- Cape Eagle-Owl
+- Indian Eagle-Owl — Rock Eagle-Owl | Bengal Eagle-Owl
+- Blakiston's Fish Owl — Blakiston's Eagle-Owl
+- Pel's Fishing Owl — Scotopelia | Scotopelia peli
+- Brown Fish Owl
+- Buffy Fish Owl
+- Spotted Owlet — Indian Spotted Owlet
+- Jungle Owlet
+- Forest Owlet
+- Wood Owl — Strix
+- Brown Wood Owl
+- Collared Scops Owl
+- Oriental Scops Owl
+- Brown Hawk-Owl
+- Desert Owl — Hume's Owl
+- Laughing Owl — Whēkau
+- Marsh Owl
+- White-faced Owl — Southern White-faced Owl | Northern White-faced Owl
+- African Wood Owl
+- Pearl-spotted Owlet
+- Red Goshawk — Erythrotriorchis radiatus
+- African Goshawk — Accipiter tachiro
+- Spotted Eagle — Spotted eagles | Clanga
+- Yellow-headed Vulture — Yellow-headed vultures
+- Yellow-billed Kite — Milvus aegyptius
+
+### Tier 5: expert (144)
+
+- Javan Hawk-Eagle
+- Cassin's Hawk-Eagle
+- Ayres's Hawk-Eagle
+- Black-and-white Hawk-Eagle
+- Solitary Eagle — Black Solitary Eagle
+- Chaco Eagle — Crowned Solitary Eagle
+- Gurney's Eagle
+- Sanford's Sea Eagle
+- Madagascar Fish Eagle
+- Grey-headed Fish Eagle — Gray-headed Fish Eagle
+- Lesser Fish Eagle
+- Beaudouin's Snake Eagle
+- Congo Serpent Eagle
+- Philippine Serpent Eagle
+- Madagascar Serpent Eagle
+- Malagasy Crowned Eagle — Stephanoaetus mahery
+- Forest Buzzard
+- Mountain Buzzard
+- Madagascar Buzzard
+- Red-necked Buzzard
+- Rufous-winged Buzzard — Rufous-winged Buzzard-Eagle
+- Himalayan Buzzard
+- Japanese Buzzard
+- Grey-lined Hawk — Gray-lined Hawk
+- Bicoloured Hawk — Bicolored Hawk
+- Tiny Hawk
+- Semicollared Hawk
+- Plumbeous Hawk
+- Slate-coloured Hawk — Slate-colored Hawk
+- Black-collared Hawk
+- Mantled Hawk
+- Barred Hawk
+- Rufous Crab Hawk
+- Chinese Sparrowhawk
+- Ovambo Sparrowhawk
+- Little Sparrowhawk
+- Frances's Sparrowhawk
+- Rufous-breasted Sparrowhawk
+- Black Baza
+- Jerdon's Baza
+- African Cuckoo-Hawk — African Baza
+- Double-toothed Kite
+- Grey-headed Kite — Gray-headed Kite
+- Pearl Kite
+- Slender-billed Kite
+- Scissor-tailed Kite — African Swallow-tailed Kite
+- Cuban Kite
+- Cinereous Harrier
+- Long-winged Harrier
+- Black Harrier
+- Réunion Harrier
+- Malagasy Harrier
+- Madagascar Harrier-Hawk
+- Barred Forest Falcon
+- African Hobby
+- Seychelles Kestrel
+- Madagascar Kestrel
+- Fox Kestrel
+- Grey Kestrel — Gray Kestrel
+- Dickinson's Kestrel
+- Banded Kestrel
+- Spotted Kestrel — Moluccan kestrel | Falco moluccensis
+- Philippine Falconet
+- Pied Falconet
+- White-rumped Falcon — White-rumped pygmy falcon | Polihierax insignis
+- Carunculated Caracara
+- White-throated Caracara
+- Black Caracara
+- Red-throated Caracara
+- Guadalupe Caracara
+- Titanohierax
+- Least Pygmy Owl
+- Mottled Wood Owl
+- Seychelles Scops Owl
+- Philippine Eagle-Owl
+- Dusky Eagle-Owl
+- Tawny Fish Owl
+- Oriental Bay Owl — Phodilus | Phodilus badius
+- Long-whiskered Owlet
+- Asian Barred Owlet — Barred Owlet
+- Collared Owlet
+- Cuban Giant Owl — Ornimegalonyx | Giant Cuban Owl
+- Omani Owl
+- Indian Scops Owl
+- African Scops Owl
+- Tropical Screech Owl
+- Sokoke Scops Owl
+- Lesser Sooty Owl
+- Ashy-faced Owl
+- Madagascar Red Owl
+- Fearful Owl
+- Maned Owl
+- Black-and-white Owl
+- Chaco Owl
+- Rusty-barred Owl
+- Variable Goshawk — Accipiter hiogaster
+- Barred Eagle-Owl — Malay eagle-owl | Ketupa sumatrana | Bubo sumatranus
+- Spotted Wood Owl — Strix seloputo
+- Papuan Eagle — New Guinea harpy eagle | New Guinea eagle | Harpyopsis novaeguineae
+- Black-and-chestnut Eagle — Isidor's eagle | Spizaetus isidori
+- Rufous-bellied Eagle — Rufous-bellied hawk-eagle | Lophotriorchis kienerii
+- Pygmy Eagle — Hieraaetus weiskei
+- Western Banded Snake Eagle — Banded snake eagle | Circaetus cinerascens
+- Southern Banded Snake Eagle — Circaetus fasciolatus
+- Andaman Serpent Eagle — Spilornis elgini
+- Great Nicobar Serpent Eagle — Spilornis klossi
+- Mountain Serpent Eagle — Kinabalu serpent eagle | Spilornis kinabaluensis
+- Wallace's Hawk-Eagle — Nisaetus nanus
+- Blyth's Hawk-Eagle — Nisaetus alboniger
+- Sulawesi Hawk-Eagle — Nisaetus lanceolatus
+- Philippine Hawk-Eagle — Nisaetus philippensis
+- Legge's Hawk-Eagle — Nisaetus kelaarti
+- Flores Hawk-Eagle — Nisaetus floris
+- Pinsker's Hawk-Eagle — Nisaetus pinskeri
+- Barred Honey Buzzard — Pernis celebensis
+- Socotra Buzzard — Buteo socotraensis
+- Archer's Buzzard — Buteo archeri
+- Papuan Harrier — Circus spilothorax
+- Lined Forest Falcon — Micrastur gilvicollis
+- Slaty-backed Forest Falcon — Micrastur mirandollei
+- Spot-winged Falconet — Spiziapteryx circumcincta
+- Rufous-thighed Kite — Harpagus diodon
+- Gundlach's Hawk — Astur gundlachi | Accipiter gundlachi
+- Rufous-tailed Hawk — Buteo ventralis
+- Andean Pygmy Owl — Glaucidium jardinii
+- Pallid Scops Owl — Striated scops owl | Otus brucei
+- Mountain Scops Owl — Otus spilocephalus
+- Rajah Scops Owl — Otus brookii
+- Moluccan Scops Owl — Otus magicus
+- Príncipe Scops Owl — Otus bikegila
+- Rufous Fishing Owl — Scotopelia ussheri
+- Vermiculated Fishing Owl — Scotopelia bouvieri
+- Fraser's Eagle-Owl — Bubo poensis | Ketupa poensis
+- Akun Eagle-Owl — Bubo leucostictus | Ketupa leucosticta
+- Shelley's Eagle-Owl — Bubo shelleyi | Ketupa shelleyi
+- Spot-bellied Eagle-Owl — Forest eagle-owl | Bubo nipalensis | Ketupa nipalensis
+- Usambara Eagle-Owl — Bubo vosseleri
+- Chestnut-backed Owlet — Glaucidium castanotum
+- Himalayan Wood Owl — Himalayan owl | Strix nivicolum
+- Hume's Hawk-Owl — Ninox obscura
+- Christmas Island Hawk-Owl — Christmas boobook | Ninox natalis
+- Papuan Hawk-Owl — Uroglaux dimorpha
+- Tawny-bellied Screech Owl — Megascops watsonii
+- Jalca Horned Owl — Bubo jalca
+
+### Tier 6: rare jackpots (3)
+
+- Palm-nut Vulture — Vulturine Fish Eagle
+- Black-thighed Falconet
+- Laughing Falcon — Herpetotheres
+
+## Refused on purpose (28)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Raptor | Bird of prey | Birds of prey — "That is what every one of them is. Name one."
+- Velociraptor | Utahraptor | Deinonychus — "A feathered dinosaur, not a bird of prey."
+- Shrike | Butcherbird | Great grey shrike | Red-backed shrike — "A songbird that hunts like a hawk, but it isn't a raptor."
+- Skua | Great skua | Bonxie | Jaeger — "A pirate of the seabird world, but a cousin of the gulls, not a raptor."
+- Gull | Seagull | Herring gull — "A seabird and a scavenger, but not a raptor."
+- Heron | Egret | Stork | Crane | Bittern | Pelican | Cormorant | Gannet | Marabou stork | Shoebill — "A big fishing or wading bird, but no raptor."
+- Kingfisher | Kookaburra — "A kingfisher, and a fine hunter, but not a raptor."
+- Raven | Crow | Rook | Jackdaw | Magpie | Jay — "The crow family: clever, sinister, and not raptors."
+- Nighthawk | Common nighthawk | Nightjar | Potoo — "A nightjar, despite the name. It catches moths."
+- Roadrunner — "A cuckoo that runs down lizards and snakes. Not a raptor."
+- Kea — "A New Zealand parrot that has been known to attack sheep. Still a parrot."
+- Seriema — "A long-legged snake-hunter of South America. Falcons are distant kin, but it isn't a raptor."
+- Terror bird | Phorusrhacos | Phorusrhacid | Kelenken — "A giant flightless hunter of long ago, kin to the seriemas rather than the raptors."
+- Pterodactyl | Pterosaur | Pteranodon | Quetzalcoatlus — "A flying reptile, not a bird."
+- Phoenix | Roc | Griffins | Gryphon | Thunderbird | Simurgh | Hippogriff | Fawkes | Buckbeak — "A bird of myth. Name a real one."
+- Garuda — "The great bird of Hindu and Buddhist myth. Name a real one."
+- Horus — "A falcon-headed god of Egypt, not a bird."
+- Hawk moth | Hummingbird hawk-moth — "A moth, however fast it flies."
+- Eagle ray | Manta ray — "A ray. It only flies underwater."
+- Vulturine guineafowl — "A guineafowl with a vulture's bald head. It eats seeds and insects."
+- Millennium Falcon — "A spaceship, and the fastest hunk of junk in the galaxy."
+- Eddie the Eagle — "A British ski jumper who flew, briefly, at the 1988 Winter Olympics."
+- Hawkeye — "An Avenger with a bow."
+- Bat — "A mammal, though some bats hunt like hawks."
+- Tony Hawk — "A skateboarder, not a bird."
+- Tawny frogmouth | Frogmouth | Owlet-nightjar — "Not an owl, though it looks like one: a cousin of the nightjars."
+- Kakapo | Owl parrot — "A flightless parrot of New Zealand, once called the owl parrot. Not a raptor."
+- Hedwig — "Harry Potter's owl. Name her species."

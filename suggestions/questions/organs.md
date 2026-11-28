@@ -455,7 +455,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Hand | Arm | Leg | Finger | Toe | Thumb | Neck | Shoulder | Elbow | Knee | Wrist | Ankle | Hip | Back | Torso | Thigh | Calf | Cheek | Chin | Forehead | Face | Bottom | Buttocks | Bum | Waist | Armpit | Heel | Palm | Body | Arse — "A body part, but not an organ."
 - Abdomen | Chest | Groin | Pelvic cavity — "A region of the body, home to many organs. Name one."
 - Belly button | Navel | Umbilicus — "A scar, healed over in your first weeks of life. Not an organ."
-- Gland | Glands | Endocrine gland | Endocrine glands | Exocrine gland | Exocrine glands — "Which gland? The body has dozens. Name one."
+- Gland | Glands | Endocrine gland | Endocrine glands | Exocrine gland | Exocrine glands — "The body has dozens of glands. Name one."
 - Microbiome | Gut flora | Gut bacteria | Gut microbiome — "Trillions of microbes, sometimes called a forgotten organ. Not yours, though."
 - Gills | Swim bladder | Lateral line — "Fish have them. You, presumably, do not."
 - Gizzard | Crop — "A bird's organ for storing or grinding its food. Humans make do without."

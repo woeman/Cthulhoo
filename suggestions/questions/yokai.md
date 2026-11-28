@@ -1,0 +1,344 @@
+# Name a creature or spirit of Japanese folklore.
+
+Question id: `yokai` · category: myth · source: `data/myth.json`
+
+Rules: Any yokai, ghost, demon, beast or spirit of Japanese folklore and legend, Okinawan and Ainu ones included, by any romanisation, and the kami of Shinto myth too. Creatures made up for modern manga, anime, films and games don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (290 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (7)
+
+- Kitsune — Fox spirit | Fox | Japanese fox | Kitsune spirit | White fox | Yōko | Kitsune-sama
+- Kappa — Kawatarō | Kawako | Kawappa | Gatarō | Water imp | River imp | River child | Enkō | Enkou
+- Tengu — Long-nosed goblin | Mountain goblin | Daitengu | Hanadaka-tengu
+- Oni — Ogre | Demon | Japanese demon | Japanese ogre
+- Yūrei — Yuurei | Yuhrei | Ghost | Japanese ghost
+- Tanuki — Bake-danuki | Raccoon dog | Racoon dog | Tanooki
+- Ryū — Ryuu | Ryuh | Tatsu | Dragon | Japanese dragon
+
+### Tier 2: common (24)
+
+- Yuki-onna — Snow woman | Snow maiden | Yuki-onago | Yuki-jorō | Snow lady
+- Kodama — Tree spirit | Tree spirits
+- Bakeneko — Ghost cat | Monster cat | Cat | Neko | Cat spirit | Cat demon
+- Rokurokubi — Long-necked woman | Long neck woman
+- Kuchisake-onna — Kuchisake | Slit-mouthed woman | Slit-mouth woman
+- Jorōgumo — Jorougumo | Joroogumo | Spider woman
+- Nopperabō — Nopperabou | Nupperabō | Faceless ghost
+- Kasa-obake — Karakasa-obake | Karakasa | Umbrella ghost | Umbrella yokai
+- Tsukumogami — Haunted objects | Haunted object
+- Gashadokuro — Gashadokuro skeleton | Ōdokuro | Giant skeleton
+- Shinigami — Death god | God of death | Death gods
+- Yamata no Orochi — Orochi | Eight-headed serpent | Eight-headed dragon | Yamato no Orochi
+- Kyūbi no Kitsune — Kyubi | Kyuubi | Nine-tailed fox | Nine-tails | Kyuubi no kitsune
+- Amaterasu — Amaterasu Ōmikami | Sun goddess
+- Raijin — Raiden | Kaminari-sama | Thunder god | Raijin-sama | Raijn
+- Fūjin — Fuujin | Wind god | Fūten
+- Inari — Inari Ōkami | Oinari | O-Inari-sama
+- Susanoo — Susanoo-no-Mikoto | Susanowo | Susano | Takehaya Susanoo
+- Baku — Dream eater
+- Ningyo — Japanese mermaid | Mermaid
+- Hannya — Hannya mask
+- Kirin — Qilin | Kylin | Japanese unicorn
+- Hanako-san — Hanako | Toire no Hanako-san | Hanako of the toilet | Toilet Hanako
+- Onryō — Onryou | Vengeful ghost | Vengeful spirit
+
+### Tier 3: known to fans (46)
+
+- Nekomata — Two-tailed cat
+- Nue
+- Umibōzu — Umibouzu | Sea monk
+- Funayūrei — Ship ghost | Ship ghosts
+- Zashiki-warashi — Zashiki-bokko
+- Nurikabe — Wall yokai
+- Ittan-momen — Flying cloth
+- Hitotsume-kozō — Hitotsume-kozou | One-eyed boy | One-eyed monk
+- Chōchin-obake — Chōchin | Lantern ghost | Paper lantern ghost | Chouchin obake
+- Nurarihyon
+- Yamauba — Yamanba | Mountain hag | Mountain witch
+- Futakuchi-onna — Two-mouthed woman
+- Tsuchigumo — Earth spider
+- Inugami — Dog god
+- Karasu-tengu — Kotengu | Crow tengu
+- Shuten-dōji — Shuten-douji
+- Tamamo-no-Mae — Tamamo | Sesshō-seki | Killing stone | Killing Stone of Nasu
+- Ryōmen Sukuna — Sukuna | Ryoumen Sukuna
+- Mujina — Badger
+- Kamaitachi — Sickle weasel
+- Hitodama — Soul fire
+- Gaki — Hungry ghost | Hungry ghosts | Preta
+- Enma — Enma-ō | Emma-ō | Enma Daiō | Emma | King Enma | Enma-sama | Yama
+- Daidarabotchi — Daidara-bocchi | Didarabotchi | Daidara | Daidarabotch
+- Amabie — Amabiko
+- Tsuchinoko
+- Teke Teke — Tekketeke
+- Komainu — Lion-dog | Lion dogs | Guardian lion | Guardian lions | Shishi | Karashishi | Kara-jishi
+- Shisa — Shiisaa | Okinawan lion
+- Shikigami — Shiki
+- Kaguya-hime — Princess Kaguya | Kaguya | Kaguy
+- Namahage
+- Izanagi — Izanagi-no-Mikoto
+- Izanami — Izanami-no-Mikoto
+- Tsukuyomi — Tsukiyomi | Tsukuyomi-no-Mikoto | Moon god
+- Ebisu — Yebisu
+- Hotei — Budai | Laughing Buddha
+- Ryūjin — Dragon King | Ryūō | Ryuou | Ryuuou | Ryūō-sama
+- Raijū — Raijuu | Thunder beast
+- Hōō — Houou | Ho-oh | Japanese phoenix | Phoenix | Fenghuang
+- Oiwa — Oiwa-san | Yotsuya Kaidan
+- Kitsunebi — Fox fire
+- Onibi — Demon fire
+- Yatagarasu — Yatagarasu crow | Three-legged crow | Eight-span crow
+- Konaki-jijii — Konaki-jiji | Crying-baby old man | Old man who cries like a baby
+- Sunakake-babaa — Sunakake-baba | Sand-throwing hag | Sand witch
+
+### Tier 4: obscure (77)
+
+- Aka-oni — Red oni
+- Ao-oni — Blue oni
+- Kijo — Ogress
+- Onibaba — Demon hag | Kurozuka | Onibaba of Adachigahara | Adachigahara
+- Ibaraki-dōji — Ibaraki-douji
+- Sōjōbō — Soujoubou | Kurama tengu
+- Kasha
+- Okuri-inu — Okuri-ōkami | Sending-off dog
+- Ōmukade — Oomukade | Giant centipede
+- Ubume
+- Nure-onna — Wet woman
+- Ushi-oni — Gyūki
+- Ikiryō — Ikiryou | Living ghost
+- Okiku — Okiku's ghost | Banchō Sarayashiki
+- Kiyohime — Anchin and Kiyohime | Dōjōji serpent
+- Hashihime
+- Kuzunoha — Kuzunoha fox | Fox wife | Kuzunoha-gitsune | Shinoda fox
+- Nukekubi
+- Hone-onna — Bone woman
+- Mokumokuren
+- Bake-zōri — Sandal ghost
+- Akaname — Filth licker
+- Azukiarai — Azuki bean washer | Bean washer
+- Ohaguro-bettari
+- Mikoshi-nyūdō — Mikoshi-nyuudou
+- Ashinaga-tenaga — Long-legs and long-arms
+- Tenome — Hand-eye
+- Satori
+- Shōjō — Shoujou
+- Wanyūdō — Wanyuudou
+- Amanojaku — Amanojaku imp | Amanjaku
+- Yamabiko — Echo spirit
+- Jubokko — Vampire tree
+- Binbōgami — Bimbogami | God of poverty | Poverty god
+- Kudan
+- Jinmenken — Human-faced dog
+- Aka Manto — Red cape | Red Cloak
+- Hachishakusama — Hasshaku-sama | Eight-foot-tall woman
+- Jikininki
+- Ayakashi
+- Otohime — Princess Otohime
+- Toyotama-hime
+- Crane wife — Tsuru no Ongaeshi | Tsuru Nyōbō | Grateful crane
+- Tennin — Tennyo | Celestial maiden | Hagoromo
+- Korpokkur — Koropokkuru | Koropokguru | Korobokkuru
+- Hachiman — Yawata
+- Daikokuten — Daikoku
+- Bishamonten — Bishamon | Tamonten
+- Benzaiten — Benten
+- Ame-no-Uzume — Uzume
+- Ōkuninushi — Ookuninushi
+- Kagutsuchi — Homusubi
+- Konohanasakuya-hime — Sakuya-hime | Konohanasakuya
+- Sarutahiko — Sarutahiko Ōkami
+- Watatsumi — Ōwatatsumi
+- Suijin — Water god
+- Yama-no-Kami — Mountain god
+- Tenjin — Sugawara no Michizane | Tenman Tenjin
+- Ōguchi no Magami — Okami | Wolf god
+- Shachihoko — Shachi | Kinshachi | Golden shachihoko | Tiger-headed carp
+- Bunbuku Chagama — Bunbuku | Lucky tea kettle | Magic teakettle | Tea-kettle tanuki | Shukaku
+- Shōki — Shouki | Shōki the Demon Queller | Zhong Kui | Demon Queller
+- Jizō — Jizou | Ojizō-sama | Ojizo-san | Jizō Bosatsu | Kasa Jizō | Ksitigarbha
+- Ao-andon — Blue lantern | Blue lantern ghost
+- Enenra — Enra-enra | Smoke yokai
+- Ippon-datara
+- Shirime
+- Betobeto-san — Betobeto
+- Akkorokamui — Akkorokamuy
+- Seiryū — Seiryuu | Azure Dragon | Blue Dragon | Green Dragon
+- Suzaku — Suzaku bird | Vermilion Bird | Red Bird | Scarlet Bird
+- Byakko — Byakko tiger | White Tiger
+- Genbu — Black Tortoise | Black Warrior | Black Turtle
+- Taira no Masakado — Masakado | Taira Masakado | Masakado's ghost | Masakado's head
+- Abe no Seimei — Seimei
+- Yamato Takeru
+- Kokkuri-san — Kokkuri | Kokkuri-sama
+
+### Tier 5: expert (133)
+
+- Ōtakemaru
+- Goryō
+- Otsuyu — Peony Lantern | Botan Dōrō
+- Iso-onna
+- Kerakera-onna
+- Ame-onna — Rain woman
+- Hari-onago
+- Tsurara-onna — Icicle woman
+- Kyōkotsu
+- Ungaikyō — Haunted mirror
+- Biwa-bokuboku
+- Katawaguruma
+- Tsurube-otoshi
+- Dorotabō
+- Otoroshi
+- Ōnyūdō — Oonyuudou
+- Hyakume
+- Nuppeppō
+- Yanari
+- Tenjōname — Ceiling licker
+- Abura-sumashi
+- Basan
+- Amanozako
+- Yama-otoko — Mountain man
+- Yamawaro
+- Kawauso — Otter spirit
+- Hyōsube
+- Garappa
+- Kenmun
+- Bake-kujira — Ghost whale
+- Isonade
+- Mizuchi
+- Wani
+- Kuda-gitsune — Pipe fox
+- Nogitsune — Field fox
+- Zenko
+- Shiranui — Shiranui lights
+- Hibagon
+- Jinmenju — Human-faced tree
+- Kunekune
+- Datsue-ba
+- Yakubyōgami — Plague god
+- Okikurumi
+- Fukurokuju
+- Jurōjin
+- Ninigi — Ninigi-no-Mikoto
+- Takemikazuchi
+- Kōjin — Sanbō-Kōjin
+- Ta-no-Kami — Rice field god
+- Hoori — Yamasachihiko | Hoori-no-Mikoto
+- Hoderi — Umisachihiko
+- Amenominakanushi
+- Hiruko — Leech child
+- Omoikane
+- Tajikarao — Ame-no-Tajikarao | Tajikarao-no-Mikoto
+- Kuraokami
+- Kannon — Kanzeon | Kwannon | Kannon Bosatsu | Guanyin | Avalokiteshvara
+- Emperor Sutoku — Sutoku | Sutoku-in | Sutoku Tennō
+- Gozu and Mezu — Gozu | Mezu | Gozu Mezu | Gozuki | Mezuki | Ox-head and Horse-face | Ox-head | Horse-face
+- Osakabe-hime — Osakabe
+- Tesso — Iron rat | Raigō's rat | Raigo
+- Oboroguruma
+- Amikiri — Net cutter
+- Nobusuma
+- Makuragaeshi — Pillow turner
+- Dodomeki
+- Kurobōzu — Kuroubouzu
+- Aobōzu — Aoboutzu
+- Kamikiri — Hair cutter
+- Sazae-oni — Turban-shell oni
+- Itsumade — Itsumaden
+- Uwan
+- Kosodate-yūrei — Kosodate yuurei | Ame-kai yūrei | Candy-buying ghost
+- Mōryō — Mouryou | Chimimōryō
+- Ikuchi
+- Nozuchi — Nozuchi snake
+- Hihi
+- Momiji — Kijo Momiji | Momiji of Togakushi
+- Suzuka Gozen — Suzuka
+- Yato-no-kami — Yatsu-no-kami
+- Hinoenma — Hinoenma demon
+- Yasha — Yaksha
+- Tenko — Tenko fox | Sky fox | Celestial fox
+- Kasane — Kasane-ga-fuchi | Kasane's ghost
+- Konoha-tengu
+- Koto-furunushi
+- Kyōrinrin — Kyourinrin
+- Boroboroton
+- Minogame — Straw-cloak tortoise
+- Hōkō — Houkou
+- Neko-musume — Cat girl
+- Sukunahikona — Sukunabikona
+- Kushinadahime — Kushinada | Kushiinada-hime
+- Iwanagahime
+- Ukemochi — Ukemochi no Kami
+- Ōgetsuhime
+- Toyouke — Toyouke-hime | Toyouke Ōmikami
+- Takeminakata — Takeminakata no Kami | Suwa Myōjin
+- Ōyamatsumi — Ōyamazumi
+- Ame-no-Koyane
+- Kotoshironushi
+- Kichijōten — Kisshōten
+- Kamuy Fuchi — Kamuy Huchi | Kamui Fuchi | Ape Fuchi | Apefuchi Kamuy
+- Kim-un Kamuy — Kimun Kamui
+- Repun Kamuy — Repun Kamui
+- Kotan Kor Kamuy — Kotan Koro Kamui
+- Horkew Kamuy — Horkeu Kamuy | Horkew Kamui
+- Hoyau Kamuy — Hoyau | Hoyau Kamui
+- Amamikyu — Amamikiyo | Amamichu
+- Yuki-warashi — Yukinko | Yuki-warabe | Snow child
+- Amazake-babaa — Amazake-baba
+- Oshiroi-babaa — Oshiroi-baba
+- Mikari-baba — Mikari-babaa
+- Tsurube-bi
+- Sōgenbi — Sougenbi
+- Furaribi
+- Kechibi
+- Aosagibi — Aosagi no hi | Blue heron fire
+- Kosenjōbi — Kosenjoubi
+- Abura-akago — Oil baby
+- Kawa-akago — River baby
+- Waira
+- Tenjō-sagari — Tenjou-sagari
+- Shōkera — Shoukera
+- Ōkamuro — Ookamuro | Oukamuro
+- Taka-onna — Tall woman
+- Yama-jijii — Yamajiji
+- Sodehiki-kozō — Sodehiki-kozou | Sleeve-puller
+- Kosode-no-te
+- Kosamebō — Kosamebou
+- Jinmengyo — Human-faced fish
+- Danzaburō-danuki — Danzaburou | Danzaburō
+- Kashima Reiko — Kashima-san
+
+### Tier 6: rare jackpots (3)
+
+- Kijimuna — Kijimunaa | Bunagaya
+- Hōsōgami — Housougami | Hōsōshin | Smallpox god
+- Hakutaku — Bai Ze
+
+## Refused on purpose (20)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Yōkai | Youkai | Obake | Bakemono | Mononoke | Henge | Kaii — "That's the whole family. Name one of them."
+- Kami | Kamisama | Yaoyorozu no Kami — "The word for every god and spirit of Shinto. Name one."
+- Hyakki Yagyō | Hyakki Yako | Night Parade of One Hundred Demons | Night Parade of a Hundred Demons | Night Parade — "The whole procession. Name one who marches in it."
+- Seven Lucky Gods | Shichifukujin | Seven Gods of Fortune — "All seven at once. Name one of them."
+- Kurama — "A mountain, whose tengu has a name of his own, or the fox in Naruto."
+- Godzilla | Gojira | Mothra | Rodan | King Ghidorah | Ghidorah | Gamera | Kaiju — "A film monster, not a creature of folklore."
+- Totoro | My Neighbour Totoro | My Neighbor Totoro | Catbus | No-Face | Kaonashi | Susuwatari | Soot sprites | Yubaba | Calcifer | Shishigami | Forest Spirit | Moro — "From a Studio Ghibli film, not from old folklore."
+- Pikachu | Pokémon | Vulpix | Gengar | Jigglypuff | Lucario — "A Pokémon, made up for the games, though some borrow from yokai."
+- Inuyasha | Sesshomaru | Ryuk | Jibanyan | Yo-kai Watch | Kitarō | GeGeGe no Kitarō | Nezuko | Muzan | Medama-oyaji | Nezumi-otoko | Shippo | Kirara — "A character made up for manga and anime, not old folklore."
+- Sadako | Sadako Yamamura | Samara | Kayako | Toshio — "A ghost of modern horror films, modelled on the ghosts of old tales."
+- Momotarō | Peach Boy | Kintarō | Urashima Tarō | Issun-bōshi | Minamoto no Raikō | Raikō | Watanabe no Tsuna | Benkei | Ushiwakamaru — "A human hero of folk tales, not a creature or spirit."
+- Ninja | Samurai | Geisha | Ronin | Shogun | Onmyōji | Yamabushi | Miko — "Real people, however magical the stories make them."
+- Maneki-neko | Beckoning cat | Lucky cat | Daruma | Daruma doll | Kokeshi — "A lucky charm, not a spirit."
+- Grim Reaper — "The Western figure. Japan has its own death gods."
+- Jiangshi | Hopping vampire | Huli jing | Nian | Sun Wukong | Monkey King | Pixiu — "Chinese folklore, not Japanese."
+- Gumiho | Kumiho | Dokkaebi | Haetae | Bulgasari — "Korean folklore, not Japanese, though the two share many creatures."
+- Shijin | Four Symbols | Four Gods | Four guardian beasts — "All four at once. Name one of the four guardians."
+- Kamuy | Kamui | Kamuy spirit — "The Ainu word for any god or spirit. Name one of them."
+- Ryūgū-jō | Ryugu | Ryuuguu | Dragon Palace — "A place, the Dragon King's palace under the sea. Name someone who lives there."
+- Spirit | Spirits | Monster | Creature | God | Goddess | Deity | Japanese spirit | Japanese monster — "Which one? Name a particular yokai, ghost or god."

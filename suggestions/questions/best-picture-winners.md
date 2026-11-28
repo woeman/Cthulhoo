@@ -24,7 +24,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Braveheart — Braveheart 1995
 - Oppenheimer — Oppenheimer 2023
 - Parasite — Gisaengchung | Parasite 2019 | Gisaengchung 2019
-- The Lord of the Rings: The Return of the King — The Return of the King | LOTR: The Return of the King | LOTR: Return of the King | The Lord of the Rings 3 | LOTR 3 | The Lord of the Rings: The Return of the King 2003 | The Return of the King 2003 | LOTR: The Return of the King 2003 | LOTR: Return of the King 2003 | The Lord of the Rings 3 2003 | LOTR 3 2003
+- The Lord of the Rings: The Return of the King — The Return of the King | LOTR: The Return of the King | LOTR: Return of the King | The Lord of the Rings 3 | LOTR 3 | The Lord of the Rings: The Return of the King 2003 | The Return of the King 2003 | LOTR: The Return of the King 2003 | LOTR: Return of the King 2003 | The Lord of the Rings 3 2003 | LOTR 3 2003 | The Lord of the Rings | LOTR | The Lord of the Rings 2003 | LOTR 2003
 
 ### Tier 2: common (26)
 
@@ -126,7 +126,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cimarron — Cimarron 1931
 - The Broadway Melody — The Broadway Melody of 1929 | The Broadway Melody 1929
 
-## Refused on purpose (33)
+## Refused on purpose (32)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -151,7 +151,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - It's a Wonderful Life — "Nominated, but lost to a drama about soldiers coming home."
 - The Social Network | Inception | Toy Story 3 | Black Swan | True Grit | The Fighter | 127 Hours | Winter's Bone — "Nominated, but lost to The King's Speech."
 - The Fellowship of the Ring | The Lord of the Rings: The Fellowship of the Ring | The Two Towers | The Lord of the Rings: The Two Towers — "Nominated, but only the third film in the trilogy won."
-- The Lord of the Rings | LOTR — "Which one? Only the third film, The Return of the King, won."
 - Beauty and the Beast — "The first cartoon ever nominated, but it lost to The Silence of the Lambs."
 - Sinners | Hamnet | Marty Supreme | Frankenstein | Bugonia | F1 | Sentimental Value | The Secret Agent | Train Dreams — "Nominated in 2026, but didn't win."
 - KPop Demon Hunters — "Won Best Animated Feature, not Best Picture."

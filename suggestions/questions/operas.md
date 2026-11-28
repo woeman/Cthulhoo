@@ -16,7 +16,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Magic Flute — Die Zauberflöte | Zauberflöte
 - La Bohème — Bohème
 - Madama Butterfly — Madame Butterfly | Butterfly
-- The Marriage of Figaro — Le nozze di Figaro | Nozze di Figaro | Le nozze | Nozze
+- The Marriage of Figaro — Le nozze di Figaro | Nozze di Figaro | Le nozze | Nozze | Figaro
 - La Traviata — Traviata
 - Tosca
 - Don Giovanni — Don Juan
@@ -72,12 +72,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gianni Schicchi — Schicchi
 - Samson and Delilah — Samson et Dalila
 - HMS Pinafore — Pinafore | The Lass That Loved a Sailor
-- Orpheus in the Underworld — Orphée aux enfers | Orpheus in the Underground
+- Orpheus in the Underworld — Orphée aux enfers | Orpheus in the Underground | Orpheus
 - Manon
 - Manon Lescaut
 - Werther
 - Lakmé
-- La Cenerentola — Cenerentola
+- La Cenerentola — Cenerentola | Cinderella
 - L'elisir d'amore — The Elixir of Love | Elisir d'amore | Elisir
 - Don Pasquale
 - La fille du régiment — The Daughter of the Regiment | La figlia del reggimento
@@ -113,7 +113,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Idomeneo
 - La clemenza di Tito — Clemenza di Tito | The Clemency of Titus
 - Orfeo ed Euridice — Orphée et Eurydice | Orpheus and Eurydice
-- L'Orfeo
+- L'Orfeo — Orfeo
 - Giulio Cesare — Julius Caesar | Giulio Cesare in Egitto
 - Rinaldo
 - Serse — Xerxes
@@ -1020,7 +1020,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Le devin du village — The Village Soothsayer
 - Treemonisha
 
-## Refused on purpose (67)
+## Refused on purpose (64)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -1039,10 +1039,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Mozart | Verdi | Giuseppe Verdi | Puccini | Giacomo Puccini | Wagner | Richard Wagner | Rossini | Handel | Bizet | Donizetti | Bellini | Monteverdi | Britten | Benjamin Britten | Richard Strauss | Strauss | Tchaikovsky | Gilbert and Sullivan | Philip Glass | Purcell | Gluck | Beethoven | Offenbach | Janáček | Massenet | Gounod | Wolfgang Amadeus Mozart — "The name behind the operas, not an opera."
 - Pavarotti | Luciano Pavarotti | Maria Callas | Callas | Plácido Domingo | Domingo | José Carreras | The Three Tenors | Andrea Bocelli | Bocelli | Katherine Jenkins | Kiri Te Kanawa | Enrico Caruso | Caruso | Joan Sutherland | Jenny Lind | Renée Fleming | Bryn Terfel | Montserrat Caballé — "A singer, not an opera."
 - La Scala | Teatro alla Scala | The Met | Metropolitan Opera | Covent Garden | Royal Opera House | Glyndebourne | Sydney Opera House | Bayreuth | English National Opera | Palais Garnier | Paris Opera | Vienna State Opera | La Fenice — "An opera house or company, not an opera."
-- Figaro — "Which one? Figaro is in The Barber of Seville and The Marriage of Figaro."
-- Orfeo | Orpheus — "Which one? Monteverdi, Gluck and others all set the Orpheus story."
-- Cinderella — "Which Cinderella? Rossini and Massenet both wrote one."
-- Iphigénie | Iphigenia — "Which Iphigénie? Gluck wrote two."
+- Iphigénie | Iphigenia — "Gluck wrote two Iphigénie operas. Give the full title."
 - Nessun dorma — "An aria, from Turandot. Name the opera."
 - Habanera | Toreador Song | Toreador — "An aria, from Carmen. Name the opera."
 - La donna è mobile — "An aria, from Rigoletto. Name the opera."

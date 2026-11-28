@@ -17,7 +17,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - India — Bharat | Republic of India | Hindustan
 - Thailand — Siam | Kingdom of Thailand | Prathet Thai
 - Vietnam — South Vietnam | North Vietnam
-- South Korea — Republic of Korea | ROK | S Korea | Hanguk | Daehan Minguk
+- South Korea — Republic of Korea | ROK | S Korea | Hanguk | Daehan Minguk | Korea
 - Indonesia — Republic of Indonesia | Dutch East Indies
 - Philippines — Pilipinas | Filipinas
 - Pakistan — Islamic Republic of Pakistan
@@ -80,11 +80,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Cyprus — Kypros | Republic of Cyprus
 
-## Refused on purpose (64)
+## Refused on purpose (63)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Korea — "Which Korea? There are two."
 - Hong Kong — "A special administrative region of China, not a sovereign state."
 - Macau | Macao — "A special administrative region of China, not a sovereign state."
 - Tibet — "A region of China, not a sovereign state."

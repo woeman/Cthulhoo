@@ -1,0 +1,916 @@
+# Name a tree.
+
+Question id: `trees` · category: nature · source: `data/nature.json`
+
+Rules: Any kind of tree, as a group or a single species, fruit trees and palms included, but not famous single trees. Shrubs that can grow into small trees count; bamboo is a grass and the banana a giant herb, so they don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (833 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Oak — Oaks | Quercus | Oaks tree | Quercus tree | Oak tree
+- Pine — Pine tree | Pinus | Pinus tree
+- Maple — Acer | Acer tree | Maple tree
+- Birch — Betula | Betula tree | Birch tree
+- Willow — Salix | Sallow | Salix tree | Sallow tree | Willow tree
+- Ash — Common ash | European ash | Common ash tree | European ash tree | Ash tree | Fraxinus | Fraxinus excelsior | Fraxinus tree | Fraxinus excelsior tree
+- Elm — Ulmus | Ulmus tree | Elm tree
+- Beech — Common beech | European beech | Common beech tree | European beech tree | Beech tree | Fagus | Fagus sylvatica | Beech hedge | Fagus tree | Fagus sylvatica tree
+- Fir — Fir tree | Abies | Christmas tree | Xmas tree | Abies tree
+- Spruce — Spruce tree | Picea | Picea tree
+- Cedar — Cedars | Cedars tree | Cedar tree | Cedrus | Cedrus tree
+- Palm — Palms | Palms tree | Palm tree
+- Apple — Apple tree | Malus | Malus tree
+- Cherry — Cherry tree | Prunus | Prunus tree
+- Redwood — Redwoods | Redwoods tree | Redwood tree
+
+### Tier 2: common (43)
+
+- Sycamore — Sycamore maple | Sycamore maple tree | Sycamore tree | Helicopter tree | Acer pseudoplatanus | Acer pseudoplatanus tree
+- Chestnut — Chestnut tree
+- Horse Chestnut — Conker tree | Horse-chestnut tree | Aesculus | Aesculus hippocastanum | Aesculus tree | Aesculus hippocastanum tree
+- Poplar — Poplar tree | Populus | Populus tree
+- Aspen — Aspen tree
+- Hazel — Filbert | Hazelnut | Filbert tree | Hazelnut tree | Hazel tree | Cobnut | Cob | Common hazel | Kentish cob | Corylus | Hazel bush | Cobnut tree | Common hazel tree | Kentish cob tree | Corylus tree
+- Holly — Common holly | English holly | Common holly tree | English holly tree | Holly tree | Holly bush
+- Yew — English yew | Common yew | European yew | English yew tree | Common yew tree | European yew tree | Yew tree | Taxus | Taxus baccata | Yew hedge | Taxus tree | Taxus baccata tree
+- Hawthorn — May tree | Whitethorn | Quickthorn | May | Whitethorn tree | Quickthorn tree | Hawthorn tree | Crataegus | Crataegus tree
+- Rowan — Rowan tree | Sorbus | Sorbus aucuparia | Sorbus tree | Sorbus aucuparia tree
+- Alder — Common alder | Black alder | Common alder tree | Black alder tree | Alder tree | Alnus | Alnus tree
+- Larch — Larch tree | Larix | Larix tree
+- Lime — Linden | Lime tree | Linden tree | Common lime | Common lime tree | Tilia | Tilia tree
+- Cypress — Cyprus | Cyprus tree | Cypress tree | Cupressus | Cupressus tree
+- Sequoia — Sequoia tree
+- Giant Sequoia — Wellingtonia | Sierra redwood | Giant redwood | Wellingtonia tree | Sierra redwood tree | Giant redwood tree | Giant Sequoia tree | Sequoiadendron | Sequoiadendron giganteum | Sequoiadendron tree | Sequoiadendron giganteum tree
+- Baobab — Upside-down tree | Monkey bread tree | Baobab tree | Adansonia | Adansonia digitata | Tree of life | Adansonia tree | Adansonia digitata tree | Tree of life tree
+- Eucalyptus — Gum | Gum tree | Eucalypt | Eucalypts | Eucalypt tree | Eucalypts tree | Eucalyptus tree
+- Magnolia — Magnolia tree
+- Walnut — Walnut tree | Common walnut | English walnut | Persian walnut | Juglans | Juglans regia | Akhrot | Common walnut tree | English walnut tree | Persian walnut tree | Juglans tree | Juglans regia tree | Akhrot tree
+- Pear — Pear tree | Pyrus | Pyrus tree
+- Plum — Plum tree | Japanese plum | European plum | Victoria plum | Prunus domestica | Japanese plum tree | European plum tree | Victoria plum tree | Prunus domestica tree
+- Peach — Peach tree
+- Orange — Orange tree | Sweet orange | Blood orange | Navel orange | Valencia orange | Citrus sinensis | Sweet orange tree | Blood orange tree | Navel orange tree | Valencia orange tree | Citrus sinensis tree
+- Lemon — Lemon tree | Citrus limon | Meyer lemon | Citrus limon tree | Meyer lemon tree
+- Olive — Olive tree | Wild olive | Olea | Olea europaea | Wild olive tree | Olea tree | Olea europaea tree
+- Fig — Fig tree | Common fig | Ficus | Ficus carica | Anjeer | Common fig tree | Ficus tree | Ficus carica tree | Anjeer tree
+- Mango — Mango tree | Aam | Mangifera | Mangifera indica | Mangifera tree | Mangifera indica tree
+- Banyan — Banyan tree | Bargad | Indian banyan | Ficus benghalensis | Vat | Vata | Bargad tree | Indian banyan tree | Ficus benghalensis tree | Vata tree
+- Coconut Palm — Coconut | Coconut tree | Coconut Palm tree | Nariyal | Cocos nucifera | Coco palm | Nariyal tree | Cocos nucifera tree | Coco palm tree
+- Date Palm — Date | Date tree | Date Palm tree | Khajur | Phoenix dactylifera | Khajur tree | Phoenix dactylifera tree
+- Monkey Puzzle — Chile pine | Araucaria | Chile pine tree | Araucaria tree | Monkey Puzzle tree | Monkey tree
+- Silver Birch — Silver Birch tree | Betula pendula | Betula pendula tree
+- Weeping Willow — Babylon willow | Babylon willow tree | Weeping Willow tree
+- Douglas Fir — Oregon pine | Oregon pine tree | Douglas-fir tree
+- Scots Pine — Scotch pine | Scotch pine tree | Scots Pine tree | Pinus sylvestris | Pinus sylvestris tree
+- Japanese Maple — Acer palmatum | Acer palmatum tree | Japanese Maple tree
+- Cherry Blossom — Japanese cherry | Sakura | Flowering cherry | Cherry blossom tree | Japanese cherry tree | Sakura tree | Flowering cherry tree
+- Mahogany — Mahogany tree | Swietenia | Honduras mahogany | Big-leaf mahogany | West Indian mahogany | Swietenia tree | Honduras mahogany tree | Big-leaf mahogany tree | West Indian mahogany tree
+- Acacia — Acacia tree
+- Ginkgo — Gingko | Ginko | Maidenhair tree | Gingko tree | Ginko tree | Ginkgo tree | Ginkgo biloba | Ginkgo biloba tree
+- Leyland Cypress — Leylandii | Leyland | Leylandii tree | Leyland tree | Leyland Cypress tree | Leylandii hedge
+- Conifer — Conifer tree
+
+### Tier 3: known to fans (131)
+
+- Sweet Chestnut — Spanish chestnut | Spanish chestnut tree | Sweet Chestnut tree | European chestnut | Castanea | European chestnut tree | Castanea tree
+- Sugar Maple — Rock maple | Hard maple | Rock maple tree | Hard maple tree | Sugar Maple tree | Acer saccharum | Acer saccharum tree
+- Teak — Teak tree | Sagwan | Sagaun | Tectona | Tectona grandis | Sagwan tree | Sagaun tree | Tectona tree | Tectona grandis tree
+- Ebony — Ebony tree | Diospyros | Diospyros tree
+- Rubber Tree — Para rubber tree | Hevea | Hevea tree | Rubber | Hevea brasiliensis | Hevea brasiliensis tree
+- Avocado — Avocado pear | Avocado pear tree | Avocado tree
+- Hornbeam — Hornbeam tree | Common hornbeam | European hornbeam | Carpinus | Common hornbeam tree | European hornbeam tree | Carpinus tree
+- Plane — Plane tree | Platanus | Platanus tree
+- London Plane — London Plane tree
+- Field Maple — Field Maple tree
+- Norway Maple — Norway Maple tree
+- Red Maple — Red Maple tree
+- Silver Maple — Silver Maple tree
+- Box Elder — Ash-leaved maple | Manitoba maple | Boxelder tree | Ash-leaved maple tree | Manitoba maple tree
+- English Oak — Common oak | Pedunculate oak | Common oak tree | Pedunculate oak tree | English Oak tree | Quercus robur | Quercus robur tree
+- Sessile Oak — Durmast oak | Durmast oak tree | Sessile Oak tree
+- Red Oak — Northern red oak | Northern red oak tree | Red Oak tree
+- White Oak — White Oak tree
+- Live Oak — Southern live oak | Southern live oak tree | Live Oak tree
+- Cork Oak — Cork Oak tree | Cork | Cork tree
+- Holm Oak — Evergreen oak | Holly oak | Ilex | Evergreen oak tree | Holly oak tree | Ilex tree | Holm Oak tree
+- Copper Beech — Purple beech | Purple beech tree | Copper Beech tree
+- Black Poplar — Black Poplar tree
+- Lombardy Poplar — Lombardy Poplar tree
+- White Poplar — Abele | Abele tree | White Poplar tree
+- Quaking Aspen — Trembling aspen | Trembling aspen tree | Quaking Aspen tree
+- Cottonwood — Cottonwood tree | Eastern cottonwood | Populus deltoides | Eastern cottonwood tree | Populus deltoides tree
+- Pussy Willow — Pussy Willow tree
+- White Willow — Cricket bat willow | Cricket bat willow tree | White Willow tree
+- Paper Birch — Canoe birch | White birch | Canoe birch tree | White birch tree | Paper Birch tree
+- Downy Birch — Downy Birch tree
+- Wych Elm — Scots elm | Witch elm | Scots elm tree | Witch elm tree | Wych Elm tree
+- English Elm — English Elm tree
+- American Elm — American Elm tree
+- Whitebeam — Whitebeam tree
+- Mountain Ash — Mountain Ash tree | Eucalyptus regnans | Swamp gum | Eucalyptus regnans tree | Swamp gum tree
+- Crab Apple — Wild apple | Crabapple tree | Wild apple tree
+- Wild Cherry — Gean | Mazzard | Sweet cherry | Gean tree | Mazzard tree | Sweet cherry tree | Wild Cherry tree
+- Blackthorn — Sloe | Sloe tree | Blackthorn tree
+- Elder — Elderberry | Elderflower | Elderberry tree | Elderflower tree | Elder tree | Elder bush
+- Dogwood — Flowering dogwood | Flowering dogwood tree | Dogwood tree | Cornus | Cornus tree
+- Box — Boxwood | Boxwood tree | Box tree | Buxus | Buxus tree
+- Bay — Bay laurel | Sweet bay | Bay laurel tree | Sweet bay tree | Bay tree | Laurus | Laurus nobilis | Bay bush | Laurus tree | Laurus nobilis tree
+- Laurel — Laurel tree | Laurel hedge
+- Laburnum — Golden chain tree | Golden rain | Laburnum tree
+- Sweet Gum — Liquidambar | Sweetgum tree | Liquidambar tree
+- Tulip Tree — Tulip poplar | Yellow poplar | Tulip poplar tree | Yellow poplar tree | Liriodendron | Liriodendron tree
+- Black Walnut — Black Walnut tree
+- Hickory — Hickory tree | Carya | Carya tree
+- Pecan — Pecan tree
+- Almond — Almond tree | Badam | Badam tree
+- Apricot — Apricot tree
+- Pomegranate — Pomegranate tree | Anar | Punica | Anar tree | Punica tree
+- Mulberry — Mulberry tree | Shahtoot | Morus | Shahtoot tree | Morus tree
+- Persimmon — Persimmon tree | Kaki | Sharon fruit | Japanese persimmon | Diospyros kaki | Kaki persimmon | Kaki tree | Sharon fruit tree | Japanese persimmon tree | Diospyros kaki tree | Kaki persimmon tree
+- Grapefruit — Grapefruit tree
+- Mandarin — Mandarin tree | Mandarin orange | Citrus reticulata | Mandarin orange tree | Citrus reticulata tree
+- Citrus — Citrus tree
+- Catalpa — Indian bean tree | Catalpa tree
+- Black Locust — False acacia | Robinia | Locust | False acacia tree | Robinia tree | Locust tree | Black Locust tree
+- Honey Locust — Honeylocust tree | Gleditsia | Gleditsia tree
+- Redbud — Eastern redbud | Eastern redbud tree | Redbud tree | Cercis | Cercis tree
+- Sassafras — Sassafras tree
+- Buckeye — Ohio buckeye | Ohio buckeye tree | Buckeye tree
+- Hemlock — Hemlock tree | Tsuga | Tsuga tree
+- Western Red Cedar — Giant arborvitae | Giant arborvitae tree | Western Red Cedar tree
+- Red Cedar — Australian red cedar | Australian red cedar tree | Red Cedar tree
+- Cedar of Lebanon — Lebanon cedar | Lebanese cedar | Lebanon cedar tree | Lebanese cedar tree | Cedar of Lebanon tree
+- Atlas Cedar — Blue atlas cedar | Blue atlas cedar tree | Atlas Cedar tree
+- Deodar — Deodar cedar | Himalayan cedar | Deodar cedar tree | Himalayan cedar tree | Deodar tree
+- Coast Redwood — California redwood | California redwood tree | Coast Redwood tree | Sequoia sempervirens | Sequoia sempervirens tree
+- Dawn Redwood — Dawn Redwood tree | Metasequoia | Metasequoia tree
+- Bristlecone Pine — Great Basin bristlecone pine | Bristlecone | Great Basin bristlecone pine tree | Bristlecone tree | Bristlecone Pine tree
+- Ponderosa Pine — Ponderosa | Western yellow pine | Ponderosa tree | Western yellow pine tree | Ponderosa Pine tree
+- Lodgepole Pine — Lodgepole Pine tree
+- Monterey Pine — Radiata pine | Radiata | Radiata pine tree | Radiata tree | Monterey Pine tree
+- Stone Pine — Umbrella pine | Italian stone pine | Parasol pine | Umbrella pine tree | Italian stone pine tree | Parasol pine tree | Stone Pine tree
+- White Pine — Eastern white pine | Weymouth pine | Eastern white pine tree | Weymouth pine tree | White Pine tree
+- Norfolk Island Pine — Norfolk pine | Norfolk pine tree | Norfolk Island Pine tree
+- Norway Spruce — Norway Spruce tree
+- Sitka Spruce — Sitka Spruce tree
+- Blue Spruce — Colorado blue spruce | Colorado spruce | Colorado blue spruce tree | Colorado spruce tree | Blue Spruce tree
+- Balsam Fir — Balsam Fir tree | Balsam | Balsam tree
+- Nordmann Fir — Caucasian fir | Caucasian fir tree | Nordmann Fir tree
+- European Larch — Common larch | Common larch tree | European Larch tree
+- Italian Cypress — Mediterranean cypress | Mediterranean cypress tree | Italian Cypress tree
+- Bald Cypress — Swamp cypress | Swamp cypress tree | Bald Cypress tree | Taxodium | Taxodium tree
+- Arborvitae — Thuja | Northern white cedar | White cedar | Thuja tree | Northern white cedar tree | White cedar tree | Arborvitae tree
+- Juniper — Common juniper | Common juniper tree | Juniper tree | Juniperus | Juniperus tree
+- Kauri — Kauri pine | Kauri pine tree | Kauri tree | Queensland kauri | Agathis | Agathis australis | Queensland kauri tree | Agathis tree | Agathis australis tree
+- Pohutukawa — New Zealand Christmas tree | Pōhutukawa tree
+- Blue Gum — Tasmanian blue gum | Southern blue gum | Tasmanian blue gum tree | Southern blue gum tree | Blue Gum tree | Eucalyptus globulus | Eucalyptus globulus tree
+- River Red Gum — Red gum | Red gum tree | River Red Gum tree
+- Ghost Gum — Ghost Gum tree
+- Wattle — Wattle tree
+- Golden Wattle — Golden Wattle tree
+- Mimosa — Persian silk tree | Silk tree | Albizia | Albizia tree | Mimosa tree
+- Bottlebrush — Bottlebrush tree | Callistemon | Callistemon tree
+- Paperbark — Melaleuca | Melaleuca tree | Paperbark tree
+- Tea Tree — Ti tree
+- Banksia — Banksia tree
+- Macadamia — Macadamia tree
+- Jacaranda — Jacaranda tree
+- Flame Tree
+- Royal Poinciana — Gulmohar | Flamboyant | Poinciana | Gulmohar tree | Flamboyant tree | Poinciana tree | Royal Poinciana tree
+- Frangipani — Plumeria | Plumeria tree | Frangipani tree
+- Neem — Indian lilac | Margosa | Indian lilac tree | Margosa tree | Neem tree | Azadirachta | Azadirachta indica | Nimba | Azadirachta tree | Azadirachta indica tree | Nimba tree
+- Sacred Fig — Peepal | Pipal | Peepul | Bodhi tree | Bo tree | Ficus religiosa | Peepal tree | Pipal tree | Peepul tree | Ficus religiosa tree | Sacred Fig tree | Bodhi | Pipul | Ashvattha | Pipul tree | Ashvattha tree
+- Jackfruit — Jack tree | Kathal | Kathal tree | Jackfruit tree | Panas | Artocarpus | Panas tree | Artocarpus tree
+- Tamarind — Imli | Imli tree | Tamarind tree | Tamarindus | Puli | Tamarindus tree | Puli tree
+- Sandalwood — Chandan | Chandan tree | Sandalwood tree | Santalum | Santalum tree
+- Rosewood — Rosewood tree | Dalbergia | Dalbergia tree
+- Moringa — Drumstick tree | Horseradish tree | Moringa tree | Drumstick | Sahjan | Sehjan | Murungai | Sahjan tree | Sehjan tree | Murungai tree
+- Lychee — Litchi | Lichee | Litchi tree | Lichee tree | Lychee tree
+- Durian — Durian tree
+- Breadfruit — Breadfruit tree | Ulu
+- Guava — Guava tree | Amrood | Amrud | Psidium | Amrood tree | Amrud tree | Psidium tree
+- Brazil Nut — Brazil Nut tree
+- Balsa — Balsa tree
+- Cinnamon — Cinnamon tree
+- Nutmeg — Nutmeg tree
+- Cocoa — Cacao | Cacao tree | Cocoa tree | Theobroma | Theobroma cacao | Theobroma tree | Theobroma cacao tree
+- Coffee — Coffee plant | Coffee bush | Coffee plant tree | Coffee bush tree | Coffee tree
+- Oil Palm — African oil palm | African oil palm tree | Oil Palm tree | Elaeis | Palm oil tree | Elaeis tree
+- Carob — Locust bean | St John's bread | Locust bean tree | St John's bread tree | Carob tree
+- Joshua Tree
+- Mesquite — Mesquite tree
+- Mangrove — Mangroves | Mangroves tree | Mangrove tree | Red mangrove | Black mangrove | White mangrove | Rhizophora | Avicennia | Red mangrove tree | Black mangrove tree | White mangrove tree | Rhizophora tree | Avicennia tree
+- Tree Fern — Soft tree fern | Man fern | Soft tree fern tree | Man fern tree | Tree Fern tree | Fern tree
+- Crape Myrtle — Crepe myrtle | Crepe myrtle tree | Crape Myrtle tree | Lagerstroemia | Lagerstroemia tree
+- Kapok — Ceiba | Silk-cotton tree | Cotton tree | Kapok tree | Ceiba tree
+
+### Tier 4: obscure (201)
+
+- Turkey Oak — Turkey Oak tree
+- Scarlet Oak — Scarlet Oak tree
+- Pin Oak — Pin Oak tree
+- Bur Oak — Bur Oak tree
+- Black Oak — Black Oak tree
+- Silky Oak — Silk oak | Silk oak tree | Silky Oak tree
+- She-oak — Beefwood | Sheoak tree | Beefwood tree
+- Paperbark Maple — Paperbark Maple tree
+- Bigleaf Maple — Bigleaf Maple tree
+- River Birch — River Birch tree
+- Yellow Birch — Yellow Birch tree
+- Himalayan Birch — Jacquemontii | Jacquemontii tree | Himalayan Birch tree
+- Crack Willow — Crack Willow tree
+- Goat Willow — Great sallow | Great sallow tree | Goat Willow tree
+- Osier — Basket willow | Basket willow tree | Osier tree
+- Balsam Poplar — Balsam Poplar tree
+- White Ash — White Ash tree
+- Green Ash — Green Ash tree
+- Dutch Elm — Dutch Elm tree
+- Chinese Elm — Lacebark elm | Lacebark elm tree | Chinese Elm tree
+- Siberian Elm — Siberian Elm tree
+- Slippery Elm — Red elm | Red elm tree | Slippery Elm tree
+- Field Elm — Field Elm tree
+- Zelkova — Zelkova tree
+- American Beech — American Beech tree
+- Southern Beech — Nothofagus | Nothofagus tree | Southern Beech tree
+- American Chestnut — American Chestnut tree
+- Hop Hornbeam — Hophornbeam tree
+- Red Alder — Red Alder tree
+- Small-leaved Lime — Small-leaved linden | Small-leaved linden tree | Small-leaved Lime tree
+- Large-leaved Lime — Large-leaved linden | Large-leaved linden tree | Large-leaved Lime tree
+- Basswood — American linden | American linden tree | Basswood tree
+- Oriental Plane — Chinar | Chinar tree | Oriental Plane tree
+- American Sycamore — Buttonwood | American plane | Buttonwood tree | American plane tree | American Sycamore tree
+- Wild Service Tree — Chequer tree | Chequers | Chequers tree | Wild service
+- Service Tree — True service tree
+- Bird Cherry — Bird Cherry tree
+- Black Cherry — Wild black cherry | Rum cherry | Wild black cherry tree | Rum cherry tree | Black Cherry tree
+- Cherry Plum — Myrobalan | Myrobalan tree | Cherry Plum tree
+- Damson — Damson tree
+- Medlar — Medlar tree
+- Quince — Quince tree
+- Nectarine — Nectarine tree
+- Loquat — Loquat tree | Japanese medlar | Eriobotrya | Japanese medlar tree | Eriobotrya tree
+- Jujube — Chinese date | Ber | Chinese date tree | Jujube tree | Ziziphus | Ziziphus tree
+- Tangerine — Tangerine tree
+- Kumquat — Cumquat | Cumquat tree | Kumquat tree
+- Pomelo — Pummelo | Shaddock | Pummelo tree | Shaddock tree | Pomelo tree
+- Spindle — Spindle tree
+- Buckthorn — Buckthorn tree
+- Sea Buckthorn — Sea Buckthorn tree
+- Cherry Laurel — Cherry Laurel tree
+- Witch Hazel — Witch Hazel tree | Hamamelis | Hamamelis tree
+- Sumac — Sumach | Stag's horn sumac | Staghorn sumac | Sumach tree | Stag's horn sumac tree | Staghorn sumac tree | Sumac tree
+- Tamarisk — Salt cedar | Salt cedar tree | Tamarisk tree
+- Oleander — Oleander tree | Oleander bush
+- Lilac — Lilac tree | Syringa | Lilac bush | Syringa tree
+- Rhododendron — Tree rhododendron | Burans | Tree rhododendron tree | Burans tree | Rhododendron tree | Rhododendron bush
+- Privet — Tree privet | Glossy privet | Tree privet tree | Glossy privet tree | Privet tree | Ligustrum | Privet hedge | Ligustrum tree
+- Myrtle — Myrtle tree
+- Judas Tree
+- Strawberry Tree — Arbutus | Arbutus tree
+- Madrone — Madrona | Pacific madrone | Madrona tree | Pacific madrone tree | Madrone tree
+- Southern Magnolia — Bull bay | Bull bay tree | Southern Magnolia tree
+- Butternut — Butternut tree
+- Shagbark Hickory — Shagbark | Shagbark tree | Shagbark Hickory tree
+- Pistachio — Pistachio tree
+- Cashew — Cashew tree | Kaju | Kaju tree
+- Shea — Shea tree | Karité | Karité tree
+- Osage Orange — Hedge apple | Bois d'arc | Hedge apple tree | Bois d'arc tree | Osage Orange tree | Osage | Bodark | Bodock | Osage tree | Bodark tree | Bodock tree
+- Hackberry — Hackberry tree
+- Pawpaw — Pawpaw tree
+- Serviceberry — Juneberry | Shadbush | Saskatoon | Juneberry tree | Shadbush tree | Saskatoon tree | Serviceberry tree | Amelanchier | Snowy mespilus | Amelanchier tree | Snowy mespilus tree
+- Ironwood — Ironwood tree
+- Tupelo — Black gum | Black tupelo | Sour gum | Nyssa | Black gum tree | Black tupelo tree | Sour gum tree | Nyssa tree | Tupelo tree
+- Tamarack — American larch | Hackmatack | American larch tree | Hackmatack tree | Tamarack tree
+- Japanese Larch — Japanese Larch tree
+- Eastern Hemlock — Eastern Hemlock tree
+- Western Hemlock — Western Hemlock tree
+- Eastern Red Cedar — Eastern Red Cedar tree
+- Lawson Cypress — Port Orford cedar | Port Orford cedar tree | Lawson Cypress tree
+- Monterey Cypress — Monterey Cypress tree
+- White Spruce — White Spruce tree
+- Black Spruce — Black Spruce tree
+- Engelmann Spruce — Engelmann Spruce tree
+- Noble Fir — Noble Fir tree
+- Grand Fir — Grand Fir tree
+- Fraser Fir — Fraser Fir tree
+- Silver Fir — Silver Fir tree
+- Sugar Pine — Sugar Pine tree
+- Jack Pine — Jack Pine tree
+- Loblolly Pine — Loblolly Pine tree | Loblolly | Loblolly tree
+- Longleaf Pine — Longleaf Pine tree | Longleaf | Longleaf tree
+- Red Pine — Red Pine tree
+- Black Pine — Austrian pine | Austrian pine tree | Black Pine tree
+- Corsican Pine — Corsican Pine tree
+- Maritime Pine — Cluster pine | Cluster pine tree | Maritime Pine tree
+- Aleppo Pine — Aleppo Pine tree
+- Pinyon Pine — Pinyon | Piñon | Pinyon tree | Piñon tree | Pinyon Pine tree
+- Huon Pine — Huon Pine tree
+- Wollemi Pine — Wollemi Pine tree
+- Bunya Pine — Bunya Pine tree
+- Hoop Pine — Hoop Pine tree
+- Pacific Yew — Pacific Yew tree
+- Japanese Cedar — Sugi | Cryptomeria | Sugi tree | Cryptomeria tree | Japanese Cedar tree
+- Hinoki — Hinoki cypress | Hinoki cypress tree | Hinoki tree
+- Camphor — Camphor laurel | Camphor laurel tree | Camphor tree
+- Paulownia — Empress tree | Foxglove tree | Princess tree | Paulownia tree | Royal paulownia | Royal paulownia tree
+- Tree of Heaven — Ailanthus | Ailanthus tree | Tree of Heaven tree
+- Katsura — Katsura tree
+- White Mulberry — White Mulberry tree
+- Black Mulberry — Black Mulberry tree
+- Longan — Longan tree
+- Mangosteen — Mangosteen tree
+- Rambutan — Rambutan tree
+- Starfruit — Carambola | Carambola tree | Starfruit tree
+- Papaya — Papaw | Papaw tree | Papaya tree
+- Soursop — Graviola | Guanabana | Graviola tree | Guanabana tree | Soursop tree
+- Custard Apple — Sugar apple | Sweetsop | Sitaphal | Sugar apple tree | Sweetsop tree | Sitaphal tree | Custard Apple tree
+- Cherimoya — Cherimoya tree
+- Sapodilla — Chikoo | Chiku | Chicle | Chikoo tree | Chiku tree | Chicle tree | Sapodilla tree
+- Ackee — Akee | Akee tree | Ackee tree
+- Clove — Clove tree
+- Allspice — Pimento | Pimento tree | Allspice tree
+- Agarwood — Oud | Aloeswood | Aloeswood tree | Agarwood tree | Aquilaria | Aquilaria tree
+- Frankincense — Boswellia | Boswellia tree | Frankincense tree
+- Myrrh — Myrrh tree
+- Cinchona — Quinine tree | Cinchona tree | Quinine
+- Lignum Vitae — Guaiacum | Guaiacum tree | Lignum Vitae tree
+- Brazilwood — Pau-brasil | Pernambuco | Pau-brasil tree | Pernambuco tree | Brazilwood tree
+- Gumbo Limbo — Tourist tree | Gumbo Limbo tree
+- Palo Verde — Palo Verde tree
+- Rainbow Eucalyptus — Rainbow gum | Mindanao gum | Rainbow gum tree | Mindanao gum tree | Rainbow Eucalyptus tree
+- Snow Gum — Snow Gum tree
+- Scribbly Gum — Scribbly Gum tree
+- Lemon-scented Gum — Lemon gum | Lemon gum tree | Lemon-scented Gum tree
+- Jarrah — Jarrah tree
+- Karri — Karri tree
+- Ironbark — Ironbark tree
+- Stringybark — Stringybark tree
+- Mallee — Mallee tree
+- Coolibah — Coolibah tree
+- Silver Wattle — Silver Wattle tree
+- Blackwood — Tasmanian blackwood | Tasmanian blackwood tree | Blackwood tree
+- Mulga — Mulga tree
+- Koa — Acacia koa | Acacia koa tree | Koa tree
+- Moreton Bay Fig — Moreton Bay Fig tree
+- Strangler Fig — Strangler Fig tree
+- Weeping Fig — Ficus benjamina | Benjamin fig | Ficus benjamina tree | Benjamin fig tree | Weeping Fig tree
+- Rubber Fig — Rubber plant | Ficus elastica | Indian rubber tree | Rubber plant tree | Ficus elastica tree | Rubber Fig tree
+- Lilly Pilly — Lilli pilli | Lillypilly tree | Lilli pilli tree
+- Boab — Australian baobab | Australian baobab tree | Boab tree
+- Casuarina — Australian pine | Ironwood pine | Australian pine tree | Ironwood pine tree | Casuarina tree
+- Grass Tree — Xanthorrhoea | Xanthorrhoea tree | Balga | Yacca | Yakka | Balga tree | Yacca tree | Yakka tree
+- Rimu — Rimu tree
+- Totara — Tōtara tree
+- Kahikatea — Kahikatea tree
+- Kowhai — Kōwhai tree
+- Manuka — Mānuka tree
+- Cabbage Tree — Ti kouka | Cordyline | Ti kouka tree | Cordyline tree | Torbay palm | Cornish palm | Torquay palm | Torbay palm tree | Cornish palm tree | Torquay palm tree
+- Silver Fern — Ponga | Punga | Ponga tree | Punga tree | Silver Fern tree
+- Umbrella Thorn — Umbrella thorn acacia | Umbrella acacia | Umbrella thorn acacia tree | Umbrella acacia tree | Umbrella Thorn tree
+- Fever Tree — Fever tree acacia | Fever tree acacia tree
+- Camel Thorn — Giraffe thorn | Camelthorn tree | Giraffe thorn tree
+- Marula — Marula tree
+- Mopane — Mopane tree
+- Sausage Tree — Kigelia | Kigelia tree
+- Yellowwood — Real yellowwood | Outeniqua yellowwood | Real yellowwood tree | Outeniqua yellowwood tree | Yellowwood tree
+- Dragon Tree — Dracaena draco | Dracaena draco tree | Dracaena | Dracaena tree
+- Dragon's Blood Tree — Socotra dragon tree
+- Argan — Argan tree
+- Sal — Sal tree | Shorea | Shorea tree | Saal | Shorea robusta | Saal tree | Shorea robusta tree
+- Sheesham — Shisham | Indian rosewood | Shisham tree | Indian rosewood tree | Sheesham tree
+- Palash — Flame of the forest | Dhak | Butea | Flame of the forest tree | Dhak tree | Butea tree | Palash tree
+- Golden Shower Tree — Amaltas | Indian laburnum | Cassia fistula | Golden shower | Amaltas tree | Indian laburnum tree | Cassia fistula tree
+- Ashoka — Ashok | Asoka | Ashok tree | Asoka tree | Ashoka tree
+- Jamun — Java plum | Black plum | Jambolan | Java plum tree | Black plum tree | Jambolan tree | Jamun tree
+- Curry Tree — Curry leaf tree | Curry leaf
+- Amla — Indian gooseberry | Amalaki | Indian gooseberry tree | Amalaki tree | Amla tree | Aonla | Phyllanthus emblica | Aonla tree | Phyllanthus emblica tree
+- Red Silk Cotton Tree — Semal | Simal | Bombax | Semal tree | Simal tree | Bombax tree
+- Rain Tree — Monkeypod | Saman | Monkeypod tree | Saman tree
+- Coral Tree — Erythrina | Indian coral tree | Erythrina tree | Lucky bean tree | Erythrina lysistemon | Erythrina lysistemon tree
+- Areca Palm — Betel nut palm | Betel palm | Areca | Betel nut palm tree | Betel palm tree | Areca tree | Areca Palm tree | Supari | Areca nut | Betel nut | Supari tree | Areca nut tree | Betel nut tree
+- Royal Palm — Cuban royal palm | Cuban royal palm tree | Royal Palm tree | Roystonea | Roystonea tree
+- Sago Palm — Sago Palm tree
+- Fan Palm — California fan palm | California fan palm tree | Fan Palm tree
+- Cabbage Palm — Sabal palm | Cabbage palmetto | Sabal palm tree | Cabbage palmetto tree | Cabbage Palm tree
+- Palmetto — Saw palmetto | Saw palmetto tree | Palmetto tree
+- Double Coconut — Coco de mer | Coco de mer tree | Double Coconut tree
+- Chinaberry — Bead tree | Persian lilac | Melia | Melia azedarach | Texas umbrella tree | Chinaberry tree | Persian lilac tree | Melia tree | Melia azedarach tree
+- Makrut Lime — Makrut | Citrus hystrix | Thai lime | Kieffer lime | Mauritius papeda | Lime leaf tree | Makrut Lime tree | Makrut tree | Citrus hystrix tree | Thai lime tree | Kieffer lime tree | Mauritius papeda tree
+- Sour Cherry — Morello | Morello cherry | Tart cherry | Prunus cerasus | Sour Cherry tree | Morello tree | Morello cherry tree | Tart cherry tree | Prunus cerasus tree
+- Yoshino Cherry — Somei-yoshino | Tokyo cherry | Prunus yedoensis | Yoshino Cherry tree | Somei-yoshino tree | Tokyo cherry tree | Prunus yedoensis tree
+- Bradford Pear — Callery pear | Ornamental pear | Pyrus calleryana | Cleveland pear | Bradford Pear tree | Callery pear tree | Ornamental pear tree | Pyrus calleryana tree | Cleveland pear tree
+- Pepper Tree — Peruvian pepper tree | California pepper tree | Peppercorn tree | Schinus molle | Pirul | Schinus molle tree | Pirul tree
+- Brush Box — Lophostemon | Queensland box | Brush Box tree | Lophostemon tree | Queensland box tree
+- Orchid Tree — Kachnar | Bauhinia | Mountain ebony | Hong Kong orchid tree | Kachnar tree | Bauhinia tree | Mountain ebony tree
+- Feijoa — Pineapple guava | Guavasteen | Acca sellowiana | Feijoa tree | Pineapple guava tree | Guavasteen tree | Acca sellowiana tree
+- Asian Pear — Nashi | Nashi pear | Sand pear | Apple pear | Pyrus pyrifolia | Asian Pear tree | Nashi tree | Nashi pear tree | Sand pear tree | Apple pear tree | Pyrus pyrifolia tree
+- Tea Plant — Tea | Tea bush | Camellia sinensis | Assam tea | Tea Plant tree | Tea bush tree | Camellia sinensis tree | Assam tea tree
+- Key Lime — Mexican lime | West Indian lime | Citrus lime | Citrus aurantiifolia | Key Lime tree | Mexican lime tree | West Indian lime tree | Citrus lime tree | Citrus aurantiifolia tree
+
+### Tier 5: expert (440)
+
+- Water Oak — Water Oak tree
+- Post Oak — Post Oak tree
+- Blackjack Oak — Blackjack Oak tree
+- Willow Oak — Willow Oak tree
+- Chestnut Oak — Chestnut Oak tree
+- Swamp White Oak — Swamp White Oak tree
+- Valley Oak — California white oak | California white oak tree | Valley Oak tree
+- Coast Live Oak — Coast Live Oak tree
+- Blue Oak — Blue Oak tree
+- Garry Oak — Oregon white oak | Oregon white oak tree | Garry Oak tree
+- Kermes Oak — Kermes Oak tree
+- Mongolian Oak — Mongolian Oak tree
+- Hungarian Oak — Hungarian Oak tree
+- Pyrenean Oak — Pyrenean Oak tree
+- Downy Oak — Downy Oak tree
+- Tanoak — Tanbark oak | Tanbark oak tree | Tanoak tree
+- Desert Oak — Desert Oak tree
+- Vine Maple — Vine Maple tree
+- Striped Maple — Striped Maple tree | Moosewood | Goosefoot maple | Moosewood tree | Goosefoot maple tree
+- Amur Maple — Amur Maple tree
+- Black Maple — Black Maple tree
+- Trident Maple — Trident Maple tree
+- Snakebark Maple — Snake-bark maple tree
+- Montpellier Maple — Montpellier Maple tree
+- Sweet Birch — Black birch | Cherry birch | Black birch tree | Cherry birch tree | Sweet Birch tree
+- Grey Willow — Gray Willow | Grey Willow tree | Gray Willow tree
+- Black Willow — Black Willow tree
+- Bay Willow — Bay Willow tree
+- Corkscrew Willow — Contorted willow | Twisted willow | Contorted willow tree | Twisted willow tree | Corkscrew Willow tree
+- Grey Poplar — Gray Poplar | Grey Poplar tree | Gray Poplar tree
+- Black Ash — Black Ash tree
+- Manna Ash — Flowering ash | Flowering ash tree | Manna Ash tree
+- Narrow-leaved Ash — Narrow-leaved Ash tree
+- Rock Elm — Rock Elm tree
+- Cedar Elm — Cedar Elm tree
+- Winged Elm — Winged Elm tree
+- Myrtle Beech — Myrtle Beech tree
+- Antarctic Beech — Antarctic Beech tree
+- Red Beech — Red Beech tree
+- Silver Beech — Silver Beech tree
+- Oriental Beech — Oriental Beech tree
+- Weeping Beech — Weeping Beech tree
+- Chinese Chestnut — Chinese Chestnut tree
+- Japanese Chestnut — Japanese Chestnut tree
+- Red Buckeye — Red Buckeye tree
+- Yellow Buckeye — Yellow Buckeye tree
+- Indian Horse Chestnut — Indian Horse Chestnut tree
+- Red Horse Chestnut — Red Horse Chestnut tree
+- Moreton Bay Chestnut — Black bean tree | Moreton Bay Chestnut tree
+- Cape Chestnut — Cape Chestnut tree
+- Turkish Hazel — Turkish Hazel tree
+- Grey Alder — Gray Alder | Grey Alder tree | Gray Alder tree
+- Italian Alder — Italian Alder tree
+- Silver Lime — Silver Lime tree
+- Greengage — Greengage tree
+- Mirabelle — Mirabelle tree
+- Satsuma — Satsuma tree
+- Clementine — Clementine tree
+- Yuzu — Yuzu tree
+- Bergamot — Bergamot tree
+- Citron — Etrog | Etrog tree | Citron tree
+- Alder Buckthorn — Alder Buckthorn tree
+- Portugal Laurel — Portugal Laurel tree
+- Wayfaring Tree
+- Smoke Tree — Cotinus | Cotinus tree
+- Camellia — Camellia tree | Camellia bush
+- Hibiscus — Hibiscus tree
+- Chaste Tree — Vitex | Chasteberry | Vitex tree | Chasteberry tree
+- Midland Hawthorn — Midland Hawthorn tree
+- Glastonbury Thorn — Holy thorn | Holy thorn tree | Glastonbury Thorn tree
+- Saucer Magnolia — Saucer Magnolia tree
+- Cucumber Tree — Cucumber magnolia | Cucumber magnolia tree
+- Pignut — Pignut tree
+- Bitternut — Bitternut tree
+- Candlenut — Candlenut tree | Kukui | Aleurites | Kukui tree | Aleurites tree
+- Kola — Cola | Kola nut | Cola tree | Kola nut tree | Kola tree
+- Sugarberry — Sugarberry tree
+- Kentucky Coffeetree — Kentucky coffee | Gymnocladus | Gymnocladus tree
+- Sourwood — Sourwood tree
+- Water Tupelo — Water Tupelo tree
+- Kousa Dogwood — Kousa Dogwood tree
+- Pacific Dogwood — Pacific Dogwood tree
+- American Holly — American Holly tree
+- Yaupon — Yaupon tree
+- Yerba Mate — Yerba maté tree
+- Pond Cypress — Pond Cypress tree
+- Arizona Cypress — Arizona Cypress tree
+- Incense Cedar — Incense Cedar tree
+- Alaska Cedar — Nootka cypress | Yellow cedar | Nootka cypress tree | Yellow cedar tree | Alaska Cedar tree
+- Cyprus Cedar — Cyprus Cedar tree
+- Western Larch — Western Larch tree
+- Golden Larch — Golden Larch tree
+- Serbian Spruce — Serbian Spruce tree
+- Red Spruce — Red Spruce tree
+- White Fir — White Fir tree | Concolor fir | Concolor | Abies concolor | Concolor fir tree | Concolor tree | Abies concolor tree
+- Korean Fir — Korean Fir tree
+- Subalpine Fir — Subalpine Fir tree
+- Greek Fir — Greek Fir tree
+- Spanish Fir — Spanish Fir tree
+- Slash Pine — Slash Pine tree
+- Pitch Pine — Pitch Pine tree
+- Whitebark Pine — Whitebark Pine tree
+- Limber Pine — Limber Pine tree
+- Torrey Pine — Torrey Pine tree
+- Swiss Pine — Arolla pine | Arolla pine tree | Swiss Pine tree
+- Mountain Pine — Mugo pine | Mugo pine tree | Mountain Pine tree
+- Chir Pine — Chir | Chir tree | Chir Pine tree
+- Blue Pine — Bhutan pine | Himalayan pine | Bhutan pine tree | Himalayan pine tree | Blue Pine tree | Kail | Kail tree
+- Japanese Red Pine — Japanese Red Pine tree
+- Japanese White Pine — Japanese White Pine tree
+- Lacebark Pine — Lacebark Pine tree
+- Canary Island Pine — Canary Island Pine tree
+- King Billy Pine — King Billy Pine tree
+- Celery-top Pine — Celery pine | Celery pine tree | Celery-top Pine tree
+- Irish Yew — Irish Yew tree
+- Japanese Umbrella Pine — Sciadopitys | Sciadopitys tree | Japanese Umbrella Pine tree
+- Chinese Fir — Chinese Fir tree
+- Chinese Tallow — Chinese Tallow tree
+- Dove Tree — Handkerchief tree | Ghost tree | Davidia | Davidia tree
+- Lacquer Tree
+- Tung Tree — Tung
+- Japanese Pagoda Tree — Pagoda tree | Scholar tree | Sophora | Sophora tree
+- Osmanthus — Sweet olive | Sweet olive tree | Osmanthus tree
+- Red Mulberry — Red Mulberry tree
+- Wood Apple — Elephant apple | Elephant apple tree | Wood Apple tree
+- Bael — Bengal quince | Stone apple | Bengal quince tree | Stone apple tree | Bael tree | Bel | Bilva | Aegle marmelos | Bilva tree | Aegle marmelos tree
+- Mamey — Mamey sapote | Mamey sapote tree | Mamey tree
+- Annatto — Achiote | Lipstick tree | Achiote tree | Annatto tree
+- Calabash Tree
+- Silk Floss Tree — Floss silk tree
+- Star Anise — Star Anise tree
+- Satinwood — Satinwood tree
+- Cocobolo — Cocobolo tree
+- Sapele — Sapele tree
+- Iroko — Iroko tree
+- Wenge — Wenge tree
+- Okoume — Okoume tree
+- Purpleheart — Purpleheart tree
+- Greenheart — Greenheart tree
+- Zebrawood — Zebrawood tree | Zebrano | Zebrano tree
+- Padauk — Padouk | Padouk tree | Padauk tree
+- Bubinga — Bubinga tree
+- Meranti — Lauan | Lauan tree | Meranti tree
+- Yellow Meranti — Yellow Meranti tree
+- Tualang — Tualang tree
+- Dipterocarp — Dipterocarp tree
+- Spanish Cedar — Spanish Cedar tree
+- Pau d'Arco — Ipe | Lapacho | Lapacho tree | Pau d'Arco tree | Trumpet tree | Tabebuia | Pink trumpet tree | Handroanthus | Tabebuia tree | Handroanthus tree
+- Quebracho — Quebracho tree
+- Guanacaste — Guanacaste tree
+- Ceibo — Cockspur coral tree | Ceibo tree
+- Cecropia — Cecropia tree
+- Cannonball Tree
+- Jabuticaba — Brazilian grape tree | Jabuticaba tree
+- Upas Tree — Upas | Antiaris | Antiaris tree
+- Desert Willow — Desert Willow tree
+- Spotted Gum — Spotted Gum tree
+- Marri — Marri tree
+- Wandoo — Wandoo tree
+- Tuart — Tuart tree
+- Bloodwood — Bloodwood tree
+- Messmate — Messmate tree
+- Blackbutt — Blackbutt tree
+- Tallowwood — Tallowwood tree
+- Flooded Gum — Flooded Gum tree
+- Manna Gum — Ribbon gum | Ribbon gum tree | Manna Gum tree
+- Sugar Gum — Sugar Gum tree
+- Yellow Box — Yellow Box tree
+- Grey Box — Gray Box | Grey Box tree | Gray Box tree
+- Angophora — Sydney red gum | Sydney red gum tree | Angophora tree
+- Brigalow — Brigalow tree
+- Gidgee — Gidgee tree
+- Myall — Myall tree
+- Black Wattle — Black Wattle tree
+- Cootamundra Wattle — Cootamundra Wattle tree
+- Port Jackson Fig — Port Jackson Fig tree
+- Sycamore Fig — Fig-mulberry | Fig-mulberry tree | Sycamore Fig tree
+- Grevillea — Grevillea tree
+- Kurrajong — Kurrajong tree
+- Illawarra Flame Tree
+- Queensland Bottle Tree — Bottle tree
+- Quandong — Quandong tree
+- Matai — Matai tree
+- Miro — Miro tree
+- Rata — Northern rata | Rātā tree | Northern rata tree | Southern rata | Southern rata tree
+- Kanuka — Kānuka tree
+- Puriri — Pūriri tree
+- Karaka — Karaka tree
+- Tawa — Tawa tree
+- Rewarewa — Rewarewa tree
+- Titoki — Titoki tree
+- Nikau Palm — Nīkau | Nīkau tree | Nikau Palm tree
+- Mamaku — Black tree fern | Black tree fern tree | Mamaku tree
+- Tree Fuchsia — Kotukutuku | Kotukutuku tree | Tree Fuchsia tree
+- Whistling Thorn — Whistling Thorn tree
+- Sweet Thorn — Sweet Thorn tree
+- Knob Thorn — Knob Thorn tree
+- African Mahogany — African Mahogany tree | Khaya | Khaya tree
+- Stinkwood — Stinkwood tree
+- Silver Tree
+- Leadwood — Leadwood tree
+- Jackalberry — African ebony | African ebony tree | Jackalberry tree
+- Candelabra Tree — Euphorbia ingens | Euphorbia ingens tree
+- Quiver Tree — Kokerboom | Kokerboom tree
+- Grandidier's Baobab — Grandidier's Baobab tree
+- African Tulip Tree — Spathodea | Fountain tree | Spathodea tree
+- Arjuna — Arjuna tree
+- Kadam — Kadamba | Kadamba tree | Kadam tree
+- Mahua — Mahua tree
+- Babul — Babool | Gum arabic tree | Babool tree | Babul tree
+- Khejri — Khejari | Ghaf | Khejari tree | Ghaf tree | Khejri tree
+- Karanj — Pongamia | Indian beech | Pongamia tree | Indian beech tree | Karanj tree
+- Champak — Champa | Champaca | Champa tree | Champaca tree | Champak tree
+- Indian Almond — Tropical almond | Country almond | Tropical almond tree | Country almond tree | Indian Almond tree
+- Red Sanders — Red sandalwood | Red sandalwood tree | Red Sanders tree
+- Terebinth — Turpentine tree | Terebinth tree
+- Mastic Tree
+- Windmill Palm — Chusan palm | Chusan palm tree | Windmill Palm tree | Trachycarpus | Trachycarpus tree
+- Washingtonia — Mexican fan palm | Mexican fan palm tree | Washingtonia tree
+- Canary Island Date Palm — Canary Island Date Palm tree
+- Palmyra Palm — Toddy palm | Palmyra | Toddy palm tree | Palmyra tree | Palmyra Palm tree
+- Sugar Palm — Sugar Palm tree
+- Raffia Palm — Raffia Palm tree
+- Talipot Palm — Talipot Palm tree
+- Nipa Palm — Nipa Palm tree
+- Peach Palm — Peach Palm tree
+- Acai Palm — Açaí palm tree
+- Doum Palm — Doum Palm tree
+- Carnauba — Carnauba tree
+- Bismarck Palm — Bismarck Palm tree
+- Queen Palm — Queen Palm tree
+- Kentia Palm — Kentia | Howea | Kentia tree | Howea tree | Kentia Palm tree
+- Fishtail Palm — Fishtail Palm tree
+- Chilean Wine Palm — Chilean Wine Palm tree
+- Jelly Palm — Jelly Palm tree | Pindo palm | Butia | Pindo palm tree | Butia tree
+- Quindio Wax Palm — Wax palm | Quindío wax palm tree | Wax palm tree
+- Dwarf Fan Palm — European fan palm | European fan palm tree | Dwarf Fan Palm tree | Chamaerops | Chamaerops tree
+- Traveller's Palm — Ravenala | Ravenala tree | Traveller's Palm tree
+- Screw Pine — Pandanus | Pandan | Pandanus tree | Pandan tree | Screw Pine tree
+- Ponytail Palm — Elephant's foot | Elephant's foot tree | Ponytail Palm tree
+- Yucca — Yucca tree
+- Cycad — Cycads | Cycads tree | Cycad tree
+- Money Tree — Pachira | Guiana chestnut | Pachira tree | Guiana chestnut tree
+- Tree Heath — Tree heather | Briar | Tree heather tree | Briar tree | Tree Heath tree
+- Tamarillo — Tree tomato | Tree tomato tree | Tamarillo tree
+- Blue Mahoe — Blue Mahoe tree
+- Fringe Tree — Chionanthus | White fringetree | Chionanthus tree
+- Umbrella Tree — Schefflera | Queensland umbrella tree | Octopus tree | Schefflera tree
+- Coulter Pine — Big-cone pine | Coulter Pine tree | Big-cone pine tree
+- Shellbark Hickory — Kingnut | Big shellbark | Shellbark Hickory tree | Kingnut tree | Big shellbark tree
+- Southern Red Oak — Spanish oak | Quercus falcata | Southern Red Oak tree | Spanish oak tree | Quercus falcata tree
+- Western White Pine — Idaho white pine | Silver pine | Western White Pine tree | Idaho white pine tree | Silver pine tree
+- Black Beech — Fuscospora solandri | Black Beech tree | Fuscospora solandri tree
+- Bakul — Maulsari | Spanish cherry | Mimusops | Bakul tree | Maulsari tree | Spanish cherry tree | Mimusops tree
+- Quillay — Soapbark | Soapbark tree | Quillaja | Quillay tree | Quillaja tree
+- Star Apple — Caimito | Chrysophyllum cainito | Star Apple tree | Caimito tree | Chrysophyllum cainito tree
+- Ume — Japanese apricot | Chinese plum | Mei | Plum blossom | Prunus mume | Ume tree | Japanese apricot tree | Chinese plum tree | Plum blossom tree | Prunus mume tree
+- Christ's Thorn — Sidr | Lote tree | Ziziphus spina-christi | Nabq | Christ's Thorn tree | Sidr tree | Ziziphus spina-christi tree | Nabq tree
+- Date Plum — Lotus tree | Caucasian persimmon | Diospyros lotus | Date Plum tree | Caucasian persimmon tree | Diospyros lotus tree
+- Amur Cork Tree — Phellodendron | Phellodendron tree
+- Gray Pine — Grey pine | Foothill pine | Ghost pine | Pinus sabiniana | Gray Pine tree | Grey pine tree | Foothill pine tree | Ghost pine tree | Pinus sabiniana tree
+- Bullace — Bullace plum | Prunus insititia | Bullace tree | Bullace plum tree | Prunus insititia tree
+- Wild Pear — Common pear | European wild pear | Pyrus pyraster | Wild Pear tree | Common pear tree | European wild pear tree | Pyrus pyraster tree
+- Plymouth Pear — Pyrus cordata | Plymouth Pear tree | Pyrus cordata tree
+- Cornelian Cherry — Cornus mas | Cornelian cherry dogwood | Cornelian Cherry tree | Cornus mas tree | Cornelian cherry dogwood tree
+- Guelder Rose — Viburnum opulus | Snowball tree | Water elder | Cranberry bush | Guelder Rose tree | Viburnum opulus tree | Water elder tree | Cranberry bush tree
+- Persian Ironwood — Parrotia | Parrotia persica | Persian Ironwood tree | Parrotia tree | Parrotia persica tree
+- Caucasian Wingnut — Wingnut | Pterocarya | Caucasian Wingnut tree | Wingnut tree | Pterocarya tree
+- Golden Rain Tree — Koelreuteria | Pride of India | Chinese rain tree | Koelreuteria tree | Pride of India tree
+- Swedish Whitebeam — Sorbus intermedia | Swedish Whitebeam tree | Sorbus intermedia tree
+- Cornish Elm — Cornish Elm tree
+- European White Elm — Fluttering elm | Ulmus laevis | European White Elm tree | Fluttering elm tree | Ulmus laevis tree
+- Hybrid Larch — Dunkeld larch | Hybrid Larch tree | Dunkeld larch tree
+- Tibetan Cherry — Birch-bark cherry | Prunus serrula | Tibetan Cherry tree | Birch-bark cherry tree | Prunus serrula tree
+- Weeping Cherry — Higan cherry | Weeping Cherry tree | Higan cherry tree
+- Photinia — Red robin | Photinia serratifolia | Photinia tree | Red robin tree | Photinia serratifolia tree
+- Pittosporum — Kohuhu | Tarata | Lemonwood | Pittosporum tree | Kohuhu tree | Tarata tree | Lemonwood tree
+- Russian Olive — Oleaster | Elaeagnus angustifolia | Russian Olive tree | Oleaster tree | Elaeagnus angustifolia tree
+- Chokecherry — Prunus virginiana | Chokecherry tree | Prunus virginiana tree
+- Pin Cherry — Fire cherry | Pin Cherry tree | Fire cherry tree
+- Chinkapin Oak — Chinquapin oak | Yellow chestnut oak | Chinkapin Oak tree | Chinquapin oak tree | Yellow chestnut oak tree
+- Chinquapin — Chinkapin | Allegheny chinquapin | Golden chinquapin | Chinquapin tree | Chinkapin tree | Allegheny chinquapin tree | Golden chinquapin tree
+- Shumard Oak — Shumard Oak tree
+- Laurel Oak — Swamp laurel oak | Laurel Oak tree | Swamp laurel oak tree
+- Gambel Oak — Quercus gambelii | Gambel Oak tree | Quercus gambelii tree
+- Canyon Live Oak — Maul oak | Goldcup oak | Canyon Live Oak tree | Maul oak tree | Goldcup oak tree
+- Sawtooth Oak — Sawtooth Oak tree
+- Overcup Oak — Overcup Oak tree
+- Freeman Maple — Autumn Blaze maple | Freeman Maple tree | Autumn Blaze maple tree
+- Mountain Maple — Mountain Maple tree
+- Grey Birch — Gray birch | Wire birch | Grey Birch tree | Gray birch tree | Wire birch tree
+- Mockernut Hickory — Mockernut | White hickory | Mockernut Hickory tree | Mockernut tree | White hickory tree
+- Bigtooth Aspen — Big-toothed aspen | Largetooth aspen | Bigtooth Aspen tree | Big-toothed aspen tree | Largetooth aspen tree
+- Black Cottonwood — Western balsam poplar | California poplar | Black Cottonwood tree | Western balsam poplar tree | California poplar tree
+- Blue Ash — Blue Ash tree
+- Oregon Ash — Oregon Ash tree
+- Shortleaf Pine — Shortleaf yellow pine | Shortleaf Pine tree | Shortleaf yellow pine tree
+- Virginia Pine — Scrub pine | Jersey pine | Virginia Pine tree | Scrub pine tree | Jersey pine tree
+- Jeffrey Pine — Jeffrey Pine tree
+- Foxtail Pine — Foxtail Pine tree
+- Knobcone Pine — Knobcone Pine tree
+- Bishop Pine — Bishop Pine tree
+- Red Fir — California red fir | Silvertip fir | Red Fir tree | California red fir tree | Silvertip fir tree
+- Pacific Silver Fir — Amabilis fir | Lovely fir | Pacific Silver Fir tree | Amabilis fir tree | Lovely fir tree
+- Mountain Hemlock — Mountain Hemlock tree
+- Atlantic White Cedar — Atlantic white cypress | Swamp cedar | Chamaecyparis thyoides | Atlantic White Cedar tree | Atlantic white cypress tree | Swamp cedar tree | Chamaecyparis thyoides tree
+- California Bay — California bay laurel | California laurel | Oregon myrtle | Myrtlewood | Pepperwood | Umbellularia | California Bay tree | California bay laurel tree | California laurel tree | Oregon myrtle tree | Myrtlewood tree | Pepperwood tree | Umbellularia tree
+- California Buckeye — California Buckeye tree
+- Elephant Tree — Bursera microphylla | Torote | Bursera microphylla tree | Torote tree
+- Catclaw Acacia — Catclaw | Gregg's catclaw | Senegalia greggii | Catclaw Acacia tree | Catclaw tree | Gregg's catclaw tree | Senegalia greggii tree
+- Mountain Mahogany — Cercocarpus | Mountain Mahogany tree | Cercocarpus tree
+- Manzanita — Arctostaphylos | Manzanita tree | Arctostaphylos tree
+- Sea Grape — Coccoloba | Sea Grape tree | Coccoloba tree
+- Sweetbay Magnolia — Magnolia virginiana | Sweetbay Magnolia tree | Magnolia virginiana tree
+- Star Magnolia — Magnolia stellata | Star Magnolia tree | Magnolia stellata tree
+- Carolina Silverbell — Silverbell | Halesia | Snowdrop tree | Carolina Silverbell tree | Silverbell tree | Halesia tree
+- Franklinia — Franklin tree | Franklinia alatamaha | Franklinia tree | Franklinia alatamaha tree
+- Poison Sumac — Thunderwood | Toxicodendron vernix | Poison Sumac tree | Thunderwood tree | Toxicodendron vernix tree
+- Poisonwood — Metopium | Poisonwood tree | Metopium tree
+- Chinese Pistache — Pistacia chinensis | Chinese Pistache tree | Pistacia chinensis tree
+- Brazilian Pepper — Brazilian peppertree | Christmasberry | Florida holly | Schinus terebinthifolia | Christmasberry tree | Florida holly tree | Schinus terebinthifolia tree
+- Fiddle-leaf Fig — Ficus lyrata | Fiddle-leaved fig | Fiddle-leaf Fig tree | Ficus lyrata tree | Fiddle-leaved fig tree
+- Alpine Ash — Eucalyptus delegatensis | Alpine Ash tree | Eucalyptus delegatensis tree
+- Sydney Blue Gum — Eucalyptus saligna | Sydney Blue Gum tree | Eucalyptus saligna tree
+- Salmon Gum — Salmon Gum tree
+- Cider Gum — Eucalyptus gunnii | Cider Gum tree | Eucalyptus gunnii tree
+- Swamp Mahogany — Swamp messmate | Eucalyptus robusta | Swamp Mahogany tree | Swamp messmate tree | Eucalyptus robusta tree
+- Tingle — Red tingle | Yellow tingle | Eucalyptus jacksonii | Tingle tree | Red tingle tree | Yellow tingle tree | Eucalyptus jacksonii tree
+- Turpentine — Syncarpia | Syncarpia tree
+- Peppermint Tree — WA peppermint | Willow myrtle | Agonis | Agonis flexuosa | WA peppermint tree | Willow myrtle tree | Agonis tree | Agonis flexuosa tree
+- Western Australian Christmas Tree — Moodjar | Nuytsia | WA Christmas tree | Moodjar tree | Nuytsia tree
+- Cypress Pine — Callitris | White cypress pine | Black cypress pine | Cypress Pine tree | Callitris tree | White cypress pine tree | Black cypress pine tree
+- Leatherwood — Eucryphia lucida | Leatherwood tree | Eucryphia lucida tree
+- Pencil Pine — Athrotaxis | Pencil Pine tree | Athrotaxis tree
+- Lemon Myrtle — Lemon ironwood | Backhousia | Lemon Myrtle tree | Lemon ironwood tree | Backhousia tree
+- Finger Lime — Caviar lime | Citrus australasica | Finger Lime tree | Caviar lime tree | Citrus australasica tree
+- Kakadu Plum — Gubinge | Billygoat plum | Terminalia ferdinandiana | Kakadu Plum tree | Gubinge tree | Billygoat plum tree | Terminalia ferdinandiana tree
+- Native Cherry — Cherry ballart | Exocarpos | Native Cherry tree | Cherry ballart tree | Exocarpos tree
+- Belah — Belah tree
+- River Oak — River she-oak | River Oak tree | River she-oak tree
+- Buloke — Bull oak | Buloke tree | Bull oak tree
+- Wilga — Wilga tree
+- Waratah — Telopea | Waratah tree | Telopea tree
+- Bangalow Palm — King palm | Piccabeen palm | Archontophoenix | Bangalow Palm tree | King palm tree | Piccabeen palm tree | Archontophoenix tree
+- Cabbage Tree Palm — Livistona | Cabbage Tree Palm tree | Livistona tree
+- Coachwood — Coachwood tree
+- Lacebark — Houhere | Lacebark tree | Hoheria | Brachychiton discolor | Houhere tree | Hoheria tree | Brachychiton discolor tree
+- Kamahi — Weinmannia | Kamahi tree | Weinmannia tree
+- Kohekohe — Kohekohe tree
+- Taraire — Taraire tree
+- Hinau — Elaeocarpus dentatus | Hinau tree | Elaeocarpus dentatus tree
+- Ngaio — Ngaio tree
+- Lancewood — Horoeka | Pseudopanax | Lancewood tree | Horoeka tree | Pseudopanax tree
+- Five Finger — Whauwhaupaku | Five Finger tree | Whauwhaupaku tree
+- Ribbonwood — Manatu | Plagianthus | Ribbonwood tree | Manatu tree | Plagianthus tree
+- Kawakawa — Piper excelsum | Macropiper | Kawakawa tree | Piper excelsum tree | Macropiper tree
+- Pukatea — Pukatea tree
+- Tanekaha — Phyllocladus trichomanoides | Tanekaha tree | Phyllocladus trichomanoides tree
+- Mountain Beech — Fuscospora cliffortioides | Mountain Beech tree | Fuscospora cliffortioides tree
+- Hard Beech — Fuscospora truncata | Hard Beech tree | Fuscospora truncata tree
+- Wheki — Rough tree fern | Dicksonia squarrosa | Wheki tree | Rough tree fern tree | Dicksonia squarrosa tree
+- Akeake — Hopbush | Dodonaea | Akeake tree | Hopbush tree | Dodonaea tree
+- Mahoe — Whiteywood | Melicytus | Mahoe tree | Whiteywood tree | Melicytus tree
+- Tendu — Kendu | Coromandel ebony | Diospyros melanoxylon | Tendu tree | Kendu tree | Coromandel ebony tree | Diospyros melanoxylon tree
+- Kusum — Ceylon oak | Lac tree | Schleichera | Kusum tree | Ceylon oak tree | Schleichera tree
+- Siris — Shirish | Woman's tongue tree | Albizia lebbeck | Frywood | Siris tree | Shirish tree | Albizia lebbeck tree | Frywood tree
+- Parijat — Harsingar | Night jasmine | Night-flowering jasmine | Coral jasmine | Nyctanthes | Parijat tree | Harsingar tree | Night jasmine tree | Night-flowering jasmine tree | Coral jasmine tree | Nyctanthes tree
+- Rudraksha — Elaeocarpus ganitrus | Rudraksha tree | Elaeocarpus ganitrus tree
+- Khair — Catechu | Black cutch | Acacia catechu | Senegalia catechu | Khair tree | Catechu tree | Black cutch tree | Acacia catechu tree | Senegalia catechu tree
+- Gular — Cluster fig | Ficus racemosa | Udumbara | Gular tree | Cluster fig tree | Ficus racemosa tree | Udumbara tree
+- Kokum — Garcinia indica | Kokum tree | Garcinia indica tree
+- Saptaparni — Devil's tree | Blackboard tree | Alstonia scholaris | Chhatim | Saptaparni tree | Alstonia scholaris tree | Chhatim tree
+- Henna — Mehndi | Mehendi | Lawsonia | Henna tree | Mehndi tree | Mehendi tree | Lawsonia tree
+- Msasa — Brachystegia | Msasa tree | Brachystegia tree
+- Kiaat — Mukwa | Muninga | Wild teak | Pterocarpus angolensis | Kiaat tree | Mukwa tree | Muninga tree | Wild teak tree | Pterocarpus angolensis tree
+- Shepherd's Tree — Witgat | Boscia | Witgat tree | Boscia tree
+- Milkwood — White milkwood | Sideroxylon inerme | Milkwood tree | White milkwood tree | Sideroxylon inerme tree
+- Monkey Orange — Strychnos spinosa | Monkey Orange tree | Strychnos spinosa tree
+- Ana Tree — Winter thorn | Apple-ring acacia | Faidherbia | Faidherbia albida | Winter thorn tree | Apple-ring acacia tree | Faidherbia tree | Faidherbia albida tree
+- Tamboti — Spirostachys | Tamboti tree | Spirostachys tree
+- Obeche — Ayous | Wawa | Triplochiton | Obeche tree | Ayous tree | Wawa tree | Triplochiton tree
+- Afrormosia — Assamela | Pericopsis | Afrormosia tree | Assamela tree | Pericopsis tree
+- African Blackwood — Mpingo | Grenadilla | Dalbergia melanoxylon | African Blackwood tree | Mpingo tree | Grenadilla tree | Dalbergia melanoxylon tree
+- Montezuma Cypress — Ahuehuete | Sabino | Mexican swamp cypress | Taxodium mucronatum | Montezuma Cypress tree | Ahuehuete tree | Sabino tree | Mexican swamp cypress tree | Taxodium mucronatum tree
+- Alerce — Patagonian cypress | Fitzroya | Lahuan | Alerce tree | Patagonian cypress tree | Fitzroya tree | Lahuan tree
+- Lenga — Lenga beech | Nothofagus pumilio | Lenga tree | Lenga beech tree | Nothofagus pumilio tree
+- Coigue — Coihue | Nothofagus dombeyi | Coigue tree | Coihue tree | Nothofagus dombeyi tree
+- Palo Santo — Bursera graveolens | Holy wood | Palo Santo tree | Bursera graveolens tree | Holy wood tree
+- Parana Pine — Brazilian pine | Araucaria angustifolia | Parana Pine tree | Brazilian pine tree | Araucaria angustifolia tree
+- Moriche Palm — Buriti | Aguaje | Mauritia | Moriche Palm tree | Buriti tree | Aguaje tree | Mauritia tree
+- Babassu — Babassu palm | Attalea speciosa | Babassu tree | Babassu palm tree | Attalea speciosa tree
+- Tagua — Ivory nut palm | Vegetable ivory | Phytelephas | Tagua tree | Ivory nut palm tree | Vegetable ivory tree | Phytelephas tree
+- Bay Rum Tree — West Indian bay | Pimenta racemosa | West Indian bay tree | Pimenta racemosa tree
+- Rose Apple — Syzygium jambos | Jambu | Rose Apple tree | Syzygium jambos tree | Jambu tree
+- Wax Apple — Java apple | Water apple | Chomphu | Syzygium samarangense | Wax Apple tree | Java apple tree | Water apple tree | Chomphu tree | Syzygium samarangense tree
+- Malay Apple — Mountain apple | Syzygium malaccense | Malay Apple tree | Mountain apple tree | Syzygium malaccense tree
+- Acerola — Barbados cherry | West Indian cherry | Acerola tree | Barbados cherry tree | West Indian cherry tree
+- Pitanga — Surinam cherry | Brazilian cherry | Eugenia uniflora | Pitanga tree | Surinam cherry tree | Brazilian cherry tree | Eugenia uniflora tree
+- Lucuma — Pouteria lucuma | Lucuma tree | Pouteria lucuma tree
+- Cupuacu — Theobroma grandiflorum | Cupuacu tree | Theobroma grandiflorum tree
+- Snakewood — Letterwood | Brosimum guianense | Snakewood tree | Letterwood tree | Brosimum guianense tree
+- Caribbean Pine — Caribbean Pine tree
+- Japanese Black Pine — Pinus thunbergii | Kuromatsu | Japanese Black Pine tree | Pinus thunbergii tree | Kuromatsu tree
+- Korean Pine — Pinus koraiensis | Korean Pine tree | Pinus koraiensis tree
+- Siberian Larch — Siberian Larch tree
+- Siberian Pine — Siberian cedar | Kedr | Siberian Pine tree | Siberian cedar tree | Kedr tree
+- Chinese Parasol Tree — Firmiana | Wutong | Firmiana tree | Wutong tree
+- Calamansi — Calamondin | Kalamansi | Philippine lime | Calamansi tree | Calamondin tree | Kalamansi tree | Philippine lime tree
+- Langsat — Lanzones | Duku | Lansium | Langsat tree | Lanzones tree | Duku tree | Lansium tree
+- Narra — Angsana | Amboyna | Pterocarpus indicus | Narra tree | Angsana tree | Amboyna tree | Pterocarpus indicus tree
+- Ylang-ylang — Cananga | Perfume tree | Ylang-ylang tree | Cananga tree
+- Gutta-percha — Palaquium | Palaquium gutta | Gutta-percha tree | Palaquium tree | Palaquium gutta tree
+- Bilimbi — Tree sorrel | Averrhoa bilimbi | Bilimbi tree | Tree sorrel tree | Averrhoa bilimbi tree
+- Noni — Indian mulberry | Morinda | Great morinda | Noni tree | Indian mulberry tree | Morinda tree | Great morinda tree
+- Tembusu — Fagraea | Tembusu tree | Fagraea tree
+- Ohia — Ohia lehua | Lehua | Metrosideros polymorpha | Ohia tree | Ohia lehua tree | Lehua tree | Metrosideros polymorpha tree
+- Kamani — Tamanu | Alexandrian laurel | Calophyllum | Kamani tree | Tamanu tree | Alexandrian laurel tree | Calophyllum tree
+- Wiliwili — Wiliwili tree
+- Cajeput — Cajuput | Melaleuca cajuputi | Cajeput tree | Cajuput tree | Melaleuca cajuputi tree
+- Strychnine Tree — Nux vomica | Strychnos nux-vomica | Nux vomica tree | Strychnos nux-vomica tree
+- Torreya — Nutmeg yew | Kaya | Stinking cedar | Torreya tree | Nutmeg yew tree | Kaya tree | Stinking cedar tree
+- Plum Yew — Cephalotaxus | Plum Yew tree | Cephalotaxus tree
+- Podocarp — Podocarpus | Plum pine | Podocarp tree | Podocarpus tree | Plum pine tree
+- Cassia — Chinese cinnamon | Cinnamomum cassia | Cassia bark | Cassia tree | Chinese cinnamon tree | Cinnamomum cassia tree | Cassia bark tree
+- Khat — Qat | Catha edulis | Khat tree | Catha edulis tree
+- Poinsettia — Euphorbia pulcherrima | Poinsettia tree | Euphorbia pulcherrima tree
+- Persian Lime — Tahiti lime | Bearss lime | Seedless lime | Persian Lime tree | Tahiti lime tree | Bearss lime tree | Seedless lime tree
+- Bitter Orange — Seville orange | Sour orange | Citrus aurantium | Bitter Orange tree | Seville orange tree | Sour orange tree | Citrus aurantium tree
+- Tangelo — Ugli | Ugli fruit | Minneola | Tangelo tree | Ugli tree | Ugli fruit tree | Minneola tree
+- Bottle Palm — Hyophorbe | Bottle Palm tree | Hyophorbe tree
+- Foxtail Palm — Wodyetia | Foxtail Palm tree | Wodyetia tree
+- Lipstick Palm — Sealing wax palm | Red sealing wax palm | Cyrtostachys | Lipstick Palm tree | Sealing wax palm tree | Red sealing wax palm tree | Cyrtostachys tree
+- Pygmy Date Palm — Dwarf date palm | Phoenix roebelenii | Pygmy Date Palm tree | Dwarf date palm tree | Phoenix roebelenii tree
+- Majesty Palm — Ravenea | Majesty Palm tree | Ravenea tree
+- Golden Cane Palm — Butterfly palm | Dypsis lutescens | Yellow palm | Golden Cane Palm tree | Butterfly palm tree | Dypsis lutescens tree | Yellow palm tree
+- Christmas Palm — Manila palm | Adonidia | Christmas Palm tree | Manila palm tree | Adonidia tree
+- Triangle Palm — Dypsis decaryi | Triangle Palm tree | Dypsis decaryi tree
+- Needle Palm — Rhapidophyllum | Needle Palm tree | Rhapidophyllum tree
+- Pong-pong — Suicide tree | Othalanga | Cerbera odollam | Pong-pong tree | Othalanga tree | Cerbera odollam tree
+- Wild Plum — Harpephyllum | Harpephyllum caffrum | American plum | Prunus americana | Wild Plum tree | Harpephyllum tree | Harpephyllum caffrum tree | American plum tree | Prunus americana tree
+
+### Tier 6: rare jackpots (3)
+
+- Sandbox Tree — Hura crepitans | Dynamite tree | Monkey no-climb | Hura crepitans tree | Monkey no-climb tree
+- Manchineel — Manchineel tree | Beach apple | Hippomane mancinella | Beach apple tree | Hippomane mancinella tree
+- Boojum Tree — Boojum | Cirio | Fouquieria columnaris | Cirio tree | Fouquieria columnaris tree
+
+## Refused on purpose (51)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Trees — "That's the question. Name one."
+- Bamboo | Bamboos — "A giant grass, not a tree, however tall it grows."
+- Banana plant | Bananas | Banana trees | Plantains — "A giant herb. Its trunk is just tightly rolled leaves."
+- Pineapple | Pineapple tree — "Grows on a low, spiky plant, not on a tree."
+- Cactus | Cacti | Saguaro | Prickly pear — "A cactus, however tall it stands."
+- Rose | Roses | Rose bush — "A shrub or a climber, never a tree."
+- Lavender | Rosemary | Sage | Thyme — "A small shrub, never a tree."
+- Heather — "A low shrub of the moors. A Mediterranean cousin grows into a small tree, but heather never does."
+- Gorse | Furze | Whin — "A spiny shrub of heaths and hillsides, never a tree."
+- Bramble | Blackberry | Raspberry | Gooseberry | Blueberry | Blackcurrant — "A thorny tangle or a soft-fruit bush, not a tree."
+- Ivy | Wisteria | Clematis | Honeysuckle — "A climber that grows on trees, not one itself."
+- Mistletoe — "A parasite that lives on trees, not a tree itself."
+- Ferns | Bracken — "A low plant of the forest floor. Only a few of its kind grow trunks."
+- Bonsai | Bonzai | Topiary — "A way of growing a tree small, not a kind of tree."
+- Evergreen | Evergreens | Deciduous | Broadleaf | Hardwood | Softwood | Fruit tree | Nut tree | Shade tree — "That describes many kinds of tree. Name one."
+- Shrub | Bush | Hedge — "Too vague. Name a kind that grows into a tree."
+- Sapling | Seedling — "A young tree of some kind. Name the kind."
+- Forest | Woods | Woodland | Jungle | Rainforest | Orchard — "Many trees. Name one kind."
+- Acorn | Conkers | Pine cone — "A seed or a cone, not a tree. Name the tree it comes from."
+- Yggdrasil | World tree — "The world tree of Norse myth, said to be an ash."
+- Tree of Knowledge — "A symbol of myth and faith, not a species."
+- Whomping Willow — "A violent tree at Hogwarts, from Harry Potter."
+- Ent | Ents | Treebeard — "A walking tree from The Lord of the Rings."
+- Groot — "A tree-like hero from Marvel's comics."
+- Truffula | Truffula tree — "A tufty tree from Dr Seuss's The Lorax."
+- Family tree — "A tree of ancestors, not of wood."
+- General Sherman — "A single tree, the largest on Earth: an individual, not a kind."
+- Hyperion — "A single redwood, the tallest tree known: an individual, not a kind."
+- Methuselah — "A single ancient pine in California: an individual, not a kind."
+- Major Oak — "A single great oak in Sherwood Forest: an individual, not a kind."
+- Pando — "A single vast aspen in Utah, joined at the root: an individual, not a kind."
+- Swiss cheese plant | Monstera — "A climbing houseplant, not a tree."
+- Sunflower — "A very tall flower, not a tree."
+- Cotton | Cotton plant — "A shrub grown for the fluff around its seeds."
+- Kelp | Seaweed | Giant kelp — "A seaweed, however tall its forests grow."
+- Vines | Grape | Grapes | Grape vine | Kiwi | Kiwifruit | Passion fruit | Bougainvillea | Jasmine — "A climbing vine, not a tree."
+- Sugar cane — "A giant grass, like bamboo, not a tree."
+- Aloes | Aloe vera — "A succulent. Only a few of its tree-sized cousins count, and they go by other names."
+- Lichens — "A fungus and an alga living as one, not a tree."
+- Clover | Shamrock — "A low meadow plant, not a tree."
+- Árbol del Tule | Tule trees | Tree of Tule — "A single vast cypress in Mexico, the stoutest trunk on Earth: an individual, not a kind."
+- Sycamore Gap | Sycamore Gap tree | Robin Hood tree — "A single famous sycamore on Hadrian's Wall, felled in 2023: an individual, not a kind."
+- Kaffir lime | Kaffir lime tree | Kaffir — "That old name uses a slur from southern Africa. Cooks now call it by its Thai name."
+- Digger pine — "That old name is a slur against California's native peoples. It's now named for its grey-green needles."
+- Blackboy | Blackboy tree — "That old name is now seen as racist. Its usual name comes from its grassy crown of leaves."
+- Kaffirboom | Kaffir tree — "That old name uses a slur. It's one of the trees named after red coral."
+- Kaffir plum — "That old name uses a slur. It's a South African plum that grows wild, and a cousin of the mango."
+- Old Tjikko | Prometheus | Tane Mahuta | Fortingall Yew | Angel Oak | Royal Oak | Sri Maha Bodhi | Lone Cypress — "A single famous tree: an individual, not a kind."
+- Refused without a reason (near misses of real answers): Beans | Planks | Shoe trees

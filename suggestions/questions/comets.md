@@ -40,7 +40,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet Biela — Biela's Comet | 3D/Biela | Biela | Biela comet | 3D | Comet 3D
 - Donati's Comet — Comet Donati | Donati | C/1858 L1 | Great Comet of 1858
 - Comet Holmes — 17P/Holmes | Holmes | Holmes comet | 17P | Comet 17P
-- Comet Pons–Brooks — 12P/Pons–Brooks | Devil Comet | Devil's Comet | Horned comet | Pons–Brooks | Pons–Brooks comet | 12P | Comet 12P
+- Comet Pons–Brooks — 12P/Pons–Brooks | Devil Comet | Devil's Comet | Horned comet | Pons–Brooks | Pons–Brooks comet | 12P | Comet 12P | Comet Pons
 - 2I/Borisov — Borisov | Comet Borisov | C/2019 Q4 | 2I | Comet 2I/Borisov | 2I/Borisov comet
 - Comet PanSTARRS — C/2011 L4 | PanSTARRS | PanSTARRS comet
 - Comet ATLAS — C/2019 Y4 | ATLAS | ATLAS comet
@@ -53,7 +53,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet Borrelly — 19P/Borrelly | Borrelly | Borrelly comet | 19P | Comet 19P
 - Comet Giacobini–Zinner — 21P/Giacobini–Zinner | Giacobini–Zinner | Giacobini–Zinner comet | 21P | Comet 21P
 - Comet Wirtanen — 46P/Wirtanen | Wirtanen | Wirtanen comet | 46P | Comet 46P
-- Schwassmann–Wachmann 1 — 29P/Schwassmann–Wachmann | Comet Schwassmann–Wachmann 1 | Schwassmann–Wachmann 1 comet | 29P | Comet 29P
+- Schwassmann–Wachmann 1 — 29P/Schwassmann–Wachmann | Comet Schwassmann–Wachmann 1 | Schwassmann–Wachmann 1 comet | 29P | Comet 29P | Schwassmann–Wachmann | Comet Schwassmann–Wachmann
 - Schwassmann–Wachmann 3 — 73P/Schwassmann–Wachmann | Comet Schwassmann–Wachmann 3 | Schwassmann–Wachmann 3 comet | 73P | Comet 73P
 - Comet Bennett — C/1969 Y1 | Bennett | Bennett comet
 - Comet Arend–Roland — C/1956 R1 | Arend–Roland | Arend–Roland comet
@@ -113,7 +113,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet SOHO — 322P/SOHO | SOHO comet | 322P | Comet 322P
 - Comet Sarabat — Great Comet of 1729 | C/1729 P1 | Sarabat | Sarabat comet
 - Comet Tewfik — Eclipse Comet of 1882 | X/1882 K1 | Tewfik | Tewfik comet
-- Eclipse Comet of 1948 — C/1948 V1 | Great Comet of 1948 | Great Comet 1948 | 1948 Great Comet | Comet of 1948 | 1948 comet
+- Eclipse Comet of 1948 — C/1948 V1 | Great Comet of 1948 | Great Comet 1948 | 1948 Great Comet | Comet of 1948 | 1948 comet | Eclipse Comet
 - Great Comet of 1106 — X/1106 C1 | Great Comet 1106 | 1106 Great Comet | Comet of 1106 | 1106 comet
 - Great Comet of 1264 — C/1264 N1 | Great Comet 1264 | 1264 Great Comet | Comet of 1264 | 1264 comet
 - Great Comet of 1402 — C/1402 D1 | Great Comet 1402 | 1402 Great Comet | Comet of 1402 | 1402 comet
@@ -203,14 +203,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Caesar's Comet — Sidus Iulium | Comet of 44 BC | Great Comet of 44 BC | Julian Star | Comet Caesar | Julius Caesar's comet | Comet of Caesar
 - Great Comet of 1744 — Comet de Chéseaux | Klinkenberg's Comet | C/1743 X1 | Great Comet 1744 | 1744 Great Comet | Comet of 1744 | 1744 comet | de Chéseaux's Comet | Klinkenberg
 
-## Refused on purpose (24)
+## Refused on purpose (21)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Comet | Comets — "Which one? Name it."
-- Great Comet — "Which one? Give its year."
-- Schwassmann–Wachmann | Comet Schwassmann–Wachmann — "Which one? There are three, numbered 1 to 3."
-- Comet Pons — "Which one? Jean-Louis Pons found dozens of comets."
+- Comet | Comets — "That covers every comet. Name one."
+- Great Comet — "Dozens of comets have been called great. Give the year."
 - Kreutz sungrazer | Kreutz group | Kreutz | Sungrazer | Sungrazing comet — "A whole family of comets that skim the Sun. Name one."
 - Interstellar object | Interstellar comet — "Three are known so far. Name one."
 - Periodic comet | Long-period comet | Short-period comet | Jupiter-family comet | Halley-type comet | Main-belt comet | Dark comet | Dirty snowball — "A kind of comet, not a named one. Name one."
@@ -230,4 +228,3 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Wolf–Biederman | Comet Wolf–Biederman — "Fiction: the comet in the film Deep Impact."
 - Comet in Moominland | Moomin comet — "Fiction: a Moomin story by Tove Jansson."
 - Comet Tiamat | Tiamat — "Fiction: the comet in the anime film Your Name."
-- Eclipse Comet — "Two comets go by that name. Give the year."

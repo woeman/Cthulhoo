@@ -30,7 +30,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Acadia — Lafayette National Park | Sieur de Monts | Sieur de Monts National Monument | Acadia National Park | Acadia NP
 - Denali — Mount McKinley National Park | Mount McKinley | McKinley | Denali National Park | Denali NP
 - Bryce Canyon — Bryce | Utah National Park | Bryce Canyon National Park | Bryce Canyon NP
-- Sequoia — Sequoia National Park | Sequoia NP
+- Sequoia — Sequoia and Kings Canyon | Sequoia-Kings Canyon | Sequoia National Park | Sequoia NP
 - Mount Rainier — Rainier | Mount Rainier National Park | Mount Rainier NP
 - Redwood — Redwoods | Redwood National and State Parks | Redwood National Park | Redwood NP
 - Olympic — Olympic National Park | Olympic NP
@@ -92,7 +92,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kobuk Valley — Kobuk | Kobuk Valley National Park | Kobuk Valley NP
 - American Samoa — National Park of American Samoa | American Samoa National Park | American Samoa NP
 
-## Refused on purpose (29)
+## Refused on purpose (28)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -115,7 +115,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Niagara Falls | Niagara Falls National Park — "A state park, the oldest in the country, not a national park."
 - Adirondack Park | Adirondacks | Adirondack National Park — "A state-protected park, not a national one."
 - Central Park — "A city park, though a famous one."
-- Sequoia and Kings Canyon | Sequoia-Kings Canyon — "Two parks, run together. Name either one."
 - Banff | Banff National Park | Jasper | Jasper National Park | Yoho | Yoho National Park | Kootenay | Kootenay National Park | Waterton Lakes | Waterton Lakes National Park | Algonquin | Algonquin National Park | Kruger | Kruger National Park | Serengeti | Serengeti National Park | Torres del Paine | Torres del Paine National Park | Fiordland | Fiordland National Park | Kakadu | Kakadu National Park | Lake District | Lake District National Park | Peak District | Peak District National Park | Snowdonia | Snowdonia National Park | Cairngorms | Cairngorms National Park — "A national park, but not an American one."
 - Lake Tahoe — "A lake, not a national park."
 - Grand Canyon of the Yellowstone — "A canyon inside a park that would count."

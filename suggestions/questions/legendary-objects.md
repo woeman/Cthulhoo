@@ -1,0 +1,496 @@
+# Name a legendary weapon or magical object.
+
+Question id: `legendary-objects` · category: myth · source: `data/myth.json`
+
+Rules: Any weapon or magical object from myth, legend, folklore, scripture, epic or fairy tale, by any name. Things made up for modern novels, films and games don't count, and nor do everyday lucky charms.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (416 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (10)
+
+- Excalibur — Caliburn | Caledfwlch | Caliburnus | Escalibor | King Arthur's sword | Arthur's sword | Sword of Arthur
+- Holy Grail — Grail | Sangreal | Holy Chalice | Sangraal | Cup of Christ | Gral | Grai | Holy Chalice of Valencia | Santo Cáliz | Nanteos Cup | Chalice of Christ | Cup of the Last Supper | Last Supper cup
+- Mjölnir — Mjollnir | Thor's hammer | Hammer of Thor | Mjölner
+- Pandora's box — Pandora's jar | Pithos | Box of Pandora | Jar of Pandora
+- Golden Fleece — Fleece of gold | Jason's fleece | Fleece | Golden ram's fleece
+- Philosopher's stone — Sorcerer's stone | Lapis philosophorum
+- Aladdin's lamp — Magic lamp | Genie's lamp | Genie lamp | Aladdin's magic lamp | Wonderful lamp | Lamp | Lamp of Aladdin
+- Magic carpet — Flying carpet | Kovyor-samolyot | Solomon's carpet | Carpet of Solomon
+- Ark of the Covenant — Ark of the Testimony | Ark of God | Lost Ark | Ark
+- Glass slipper — Glass slippers | Cinderella's slipper | Glass shoe | Cinderella's glass slipper
+
+### Tier 2: common (33)
+
+- Trojan Horse — Wooden horse | Horse of Troy | Wooden Horse of Troy
+- Trident of Poseidon — Poseidon's trident | Trident | Neptune's trident | Trident of Neptune
+- Thunderbolt of Zeus — Zeus's thunderbolt | Zeus' thunderbolt | Thunderbolt | Lightning bolt | Zeus's lightning bolt | Keraunos | Master bolt
+- Gungnir — Odin's spear | Gungner | Spear of Odin
+- Spear of Destiny — Holy Lance | Lance of Longinus | Spear of Longinus | Holy Spear | Bleeding Lance
+- Round Table — Winchester Round Table | Arthur's Round Table
+- Sword in the Stone — Sword from the stone
+- Elixir of life — Elixir of immortality | Elixir vitae | Elixir | Pill of immortality | Chang'e's elixir
+- Fountain of Youth — Waters of youth
+- Noah's Ark — Ark of Noah
+- Magic mirror — Mirror, mirror | Snow White's mirror | Mirror on the wall | Mirror mirror on the wall | Enchanted mirror
+- Poisoned apple — Snow White's apple | Poison apple
+- Magic beans — Jack's beans | Magic bean | Beanstalk | Jack's beanstalk
+- Seven-league boots — Boots of swiftness | Seven-mile boots | Sapogi-skorokhody
+- Golden goose
+- Cloak of invisibility — Invisibility cloak | Mantle of invisibility | Cloak of darkness
+- Broomstick — Witch's broom | Broom | Flying broom | Besom | Broomstick of a witch | Magic broom | Magic broomstick
+- Magic wand — Wand | Fairy wand | Wizard's wand | Fairy godmother's wand
+- Crystal ball — Scrying ball | Seer's crystal
+- Kusanagi — Kusanagi no Tsurugi | Ame-no-Murakumo | Grass-Cutting Sword | Grass Cutter | Sword of Kusanagi | Murakumo | Murakumo no Tsurugi | Ame-no-Murakumo no Tsurugi | Sword of the Gathering Clouds
+- Ruyi Jingu Bang — Ruyi Bang | Jingu Bang | Monkey King's staff | Sun Wukong's staff | Golden-hooped rod | Ruyi Jingu | Golden Cudgel | Gold-banded cudgel | Monkey's staff | Monkey's stick | Dinghai Shenzhen | Nyoibō | Nyoibou | Power Pole
+- Apple of Discord — Apple of Eris | Golden apple of Eris | Golden apple of discord | Eris's apple | Paris's apple | Golden apple
+- Medusa's head — Head of Medusa | Gorgon's head | Gorgoneion | Medusa head
+- Caduceus — Hermes' staff | Staff of Hermes | Kerykeion | Wand of Hermes | Mercury's staff | Hermes' wand | Rod of Hermes | Mercury's wand
+- Helm of Darkness — Helm of Hades | Cap of invisibility | Hades' helmet | Cap of Hades | Helmet of invisibility | Cap of darkness | Hades' cap
+- Aegis — Aegis of Zeus | Athena's aegis | Athena's shield | Shield of Athena | Zeus's aegis
+- Cornucopia — Horn of plenty | Horn of Amalthea
+- Golden apples of the Hesperides — Apples of the Hesperides | Hesperides' apples
+- Pumpkin carriage — Pumpkin coach | Cinderella's carriage | Cinderella's coach | Pumpkin
+- Pot of gold — Leprechaun's gold | Leprechaun's pot of gold | Crock of gold | Pot of gold at the end of the rainbow | Crock of gold at the end of the rainbow
+- Witch's cauldron — Cauldron | Magic cauldron | Witches' cauldron | Witch cauldron
+- Love potion — Love philtre | Love philter | Philtre | Philter | Love draught | Tristan's love potion
+- Spellbook — Grimoire | Book of spells | Magic book | Witch's spellbook | Wizard's spellbook
+
+### Tier 3: known to fans (67)
+
+- Draupnir — Odin's ring | Ring of Odin
+- Gleipnir — Fenrir's fetter | Gleipner | Fenrir's chain
+- Brísingamen — Freyja's necklace | Brising necklace | Necklace of Freyja
+- Skíðblaðnir — Skithblathnir | Freyr's ship | Frey's ship | Ship of Freyr
+- Gjallarhorn — Heimdall's horn | Horn of Heimdall
+- Gram — Balmung | Nothung | Notung | Sigurd's sword | Siegfried's sword | Nothun
+- Apples of Iðunn — Idun's apples | Iðunn's apples | Golden apples of Idunn
+- Lia Fáil — Stone of Fál | Coronation stone of Tara
+- Spear of Lugh — Lugh's spear | Areadbhair | Assal | Spear of Assal
+- Claíomh Solais — Claidheamh Soluis | Sword of Light | Sword of Nuada | Nuada's sword
+- Cauldron of the Dagda — Dagda's cauldron | Undry | Cauldron of plenty | Coire Ansic | Undry cauldron
+- Gáe Bulg — Gae Bolga | Cú Chulainn's spear | Gae Bolg
+- Talaria — Winged sandals | Hermes' sandals | Winged boots | Sandals of Hermes
+- Ring of Gyges — Gyges's ring | Gyges' ring | Ring of invisibility
+- Harpe — Sickle of Cronus | Perseus's sword | Harep | Scythe of Cronus | Scythe of Kronos | Cronus's sickle | Kronos's sickle | Adamantine sickle | Perseus's sickle
+- Ariadne's thread — Ball of thread | Thread of Ariadne | Clew
+- Wings of Icarus — Icarus's wings | Daedalus's wings | Wings of Daedalus | Icarus wings | Wax wings
+- Achilles' armour — Shield of Achilles | Armour of Achilles | Armor of Achilles | Achilles' shield
+- Lyre of Orpheus — Orpheus's lyre | Orpheus' lyre | Apollo's lyre | Lyre of Apollo | Lyre | Golden lyre
+- Arrows of Eros — Cupid's arrows | Cupid's arrow | Cupid's bow | Eros's arrows | Love's arrows
+- Ambrosia — Nectar | Nectar of the gods
+- Sword of Damocles — Damocles' sword | Damocles's sword
+- Staff of Moses — Rod of Moses | Moses' staff | Moses's rod | Moses' rod
+- Aaron's rod — Rod of Aaron | Aaron's staff | Staff of Aaron
+- Seal of Solomon — Ring of Solomon | Solomon's ring | Khatam Sulayman | Solomon's seal ring | Solomon's seal | King Solomon's ring | Ring of King Solomon
+- Tablets of Stone — Ten Commandments | Tablets of the Law | Stone tablets | Tablets of the Covenant | Moses' tablets | Tablets of Moses | Tablets of the Ten Commandments | Two tablets
+- Crown of Thorns — Holy Crown
+- True Cross — Holy Cross | Holy Rood
+- Golden calf
+- Shroud of Turin — Turin Shroud | Holy Shroud | Shroud | Sindone
+- Stone of Scone — Stone of Scoon | Coronation Stone | Stone of Destiny
+- Eye of Horus — Wedjat | Udjat | Wadjet eye | Udjat eye | Wadjet
+- Ankh — Key of life | Crux ansata | Key of the Nile
+- Book of Thoth — Thoth's book | Scroll of Thoth
+- Emerald Tablet — Tabula Smaragdina | Emerald Tablet of Hermes | Smaragdine Table | Tablet of Hermes
+- Sudarshana Chakra — Sudarshan Chakra | Sudarshana | Vishnu's discus | Chakra of Vishnu | Chakra | Vishnu's chakra
+- Vajra — Indra's thunderbolt | Dorje | Indra's vajra
+- Trishula — Trishul | Shiva's trident | Trisula | Shiva's trishul
+- Brahmastra — Brahma's weapon
+- Amrita — Amrit | Amritam | Nectar of immortality
+- Zulfiqar — Dhu al-Fiqar | Zulfikar | Zu al-Faqar | Dhulfiqar | Zulfaqar | Sword of Ali
+- Yata no Kagami — Yata Mirror | Sacred mirror | Eight-span mirror | Amaterasu's mirror
+- Yasakani no Magatama — Yasakani Jewel | Magatama | Sacred jewel | Magatama jewel | Curved jewel
+- Durendal — Durandal | Durlindana | Roland's sword
+- Sampo — Sammas | Sampo mill | Samp
+- Manaiakalani — Maui's fish-hook | Maui's hook | Fish-hook of Maui | Maui's jawbone
+- Tablet of Destinies — Tablet of Destiny | Tablets of Destiny
+- Cup of Jamshid — Jam-e Jam | Jam-e Jahan-nama | Jamshid's cup | Cup of Jam | Jam's cup
+- Hand of Glory
+- Spindle — Spinning wheel | Sleeping Beauty's spindle | Cursed spindle | Spinning wheel spindle
+- Pied Piper's pipe — Pipe of the Pied Piper | Magic pipe | Pied Piper's flute
+- Magic porridge pot — Sweet porridge pot | Porridge pot | Magic pot
+- Goose that laid the golden eggs — Golden eggs | Goose with the golden eggs | Golden egg | Hen that laid the golden eggs | Golden hen | Jack's hen
+- Golden harp — Singing harp | Jack's harp | Giant's harp | Magic harp | Harp of gold
+- Magic flute — Die Zauberflöte | Zauberflöte | Tamino's flute
+- Pan's pipes — Pan pipes | Pipes of Pan | Pan's flute | Syrinx | Pan flute
+- Forbidden fruit — Apple of Eden | Fruit of knowledge | Fruit of the tree of knowledge | Forbidden apple | Eve's apple | Apple of knowledge
+- Joseph's coat — Coat of many colours | Coat of many colors | Joseph's coat of many colours | Technicolor dreamcoat | Amazing Technicolor Dreamcoat | Technicolour dreamcoat
+- David's sling — Sling of David | David's slingshot | Sling
+- Feather of Ma'at — Feather of truth | Ma'at's feather
+- Peaches of immortality — Peach of immortality | Immortal peaches | Pantao | Heavenly peaches | Flat peaches of immortality
+- Dragon pearl — Dragon's pearl | Flaming pearl | Pearl of the dragon | Yeouiju | Wish-granting pearl
+- Salmon of Knowledge — Salmon of Wisdom | Bradán Feasa | Fionn's salmon
+- Unicorn horn — Alicorn | Unicorn's horn | Horn of a unicorn
+- Silver bullet
+- Golem — Golem of Prague | Prague Golem | Clay golem
+- Plant of immortality — Plant of youth | Gilgamesh's plant | Plant of rejuvenation | Plant of heartbeat
+
+### Tier 4: obscure (141)
+
+- Andvaranaut — Andvari's ring | Ring of the Nibelung | Nibelung ring | Ring of the Nibelungs
+- Mead of Poetry — Mead of Suttungr | Poetic mead | Kvasir's mead | Mead of Suttung | Óðrerir | Odhroerir
+- Tyrfing — Tirfing | Tyrving
+- Hǫfuð — Hofund | Heimdall's sword
+- Megingjörð — Megingjardar | Thor's belt | Belt of Thor | Belt of strength | Belt of power
+- Járngreipr — Thor's gloves | Iron gloves | Iron gauntlets | Thor's gauntlets | Gloves of Thor
+- Lævateinn — Lævatein
+- Naglfar — Naglfari | Ship of nails
+- Hliðskjálf — Odin's throne | Odin's high seat
+- Hrunting
+- Nægling — Nagling
+- Tarnkappe — Tarnhelm | Tarnkap | Siegfried's cloak
+- Fragarach — Freagarthach | The Answerer | Retaliator
+- Dagda's harp — Uaithne | Harp of the Dagda
+- Cauldron of Rebirth — Pair Dadeni | Peir Dadeni | Cauldron of regeneration
+- Carnwennan — Arthur's dagger | Carnwenhau
+- Rhongomyniad — Rhongomiant | Arthur's spear | Rhon
+- Prydwen — Pridwen | Arthur's ship
+- Siege Perilous — Perilous Seat
+- Clarent
+- Arondight — Aroundight | Lancelot's sword
+- Scabbard of Excalibur — Excalibur's scabbard | Arthur's scabbard | Excalibur's sheath | Sheath of Excalibur
+- Cauldron of Ceridwen — Ceridwen's cauldron
+- Fairy Flag — Fairy Flag of Dunvegan | Bratach Sìth
+- Rod of Asclepius — Staff of Asclepius | Asclepian rod | Rod of Aesculapius | Asclepius's staff | Asclepius' rod | Aesculapian staff | Staff of Aesculapius
+- Palladium — Palladion
+- Necklace of Harmonia — Harmonia's necklace
+- Golden bough
+- Girdle of Hippolyta — Belt of Hippolyta | Hippolyta's belt | Hippolyte's girdle | Hippolyta's girdle
+- Girdle of Aphrodite — Cestus | Aphrodite's girdle | Kestos himas | Aphrodite's belt
+- Moly
+- Argo — Argo Navis | Jason's ship
+- Talos — Talus | Bronze giant | Bronze man
+- Bag of winds — Aeolus's bag | Bag of the winds | Bag of Aeolus
+- Gordian Knot
+- Thyrsus — Thyrsos
+- Urim and Thummim — Urim | Thummim
+- Nehushtan — Brazen serpent | Bronze serpent | Serpent of brass | Brass serpent | Moses' serpent | Serpent of Moses
+- Jawbone of an ass — Samson's jawbone | Jawbone of a donkey
+- Veil of Veronica — Veronica's veil | Sudarium
+- Was-sceptre — Was scepter | Was
+- Gandiva — Gandeeva | Gandiv | Arjuna's bow
+- Pashupatastra — Pashupata
+- Kaumodaki — Vishnu's mace | Kaumodaki gada
+- Pinaka — Shiva's bow | Shiva Dhanush | Shiv Dhanush
+- Kalpavriksha — Kalpataru | Kalpavruksha | Wish-fulfilling tree | Wishing tree
+- Chintamani — Cintamani | Wish-fulfilling jewel | Wishing jewel | Wish-granting jewel | Cintamani stone
+- Pushpaka Vimana — Pushpaka | Pushpak Vimana | Ravana's chariot | Vimana
+- Vel — Murugan's spear | Velayudham | Sakthi Vel
+- Uchide no kozuchi — Magic mallet | Lucky mallet | Lucky hammer | Mallet of luck | Issun-bōshi's mallet
+- Tamatebako — Urashima's box | Urashima Tarō's box
+- Hagoromo — Feather robe | Feathered robe | Celestial robe | Feather mantle | Robe of feathers | Swan maiden's robe
+- Plantain Fan — Palm-leaf fan | Banana-leaf fan | Iron Fan Princess's fan | Bajiao Shan | Iron fan | Banana fan | Princess Iron Fan's fan
+- Green Dragon Crescent Blade — Guan Yu's blade | Green Dragon Blade | Qinglong Yanyue Dao | Guan Dao
+- Gan Jiang and Mo Ye — Ganjiang | Mo Ye
+- Joyeuse — Charlemagne's sword
+- Olifant — Oliphant | Roland's horn
+- Tizona — Tizón | El Cid's sword
+- Colada
+- Kladenets — Sword-Kladenets | Mech-kladenets | Self-swinging sword
+- Water of life — Water of life and death | Living water | Dead water | Water of death | Living and dead water
+- Fortunatus's purse — Bottomless purse | Purse of Fortunatus | Fortunatus' purse | Magic purse
+- Red shoes
+- Tinderbox
+- Snow Queen's mirror — Troll mirror | Devil's mirror | Mirror of the Snow Queen | Troll's mirror
+- Alkahest — Universal solvent | Alcahest
+- Mandrake — Mandragora | Mandrake root | Mandragora root
+- Book of the Dead — Egyptian Book of the Dead | Book of Coming Forth by Day | Book of Going Forth by Day
+- Muramasa — Muramasa blade | Muramasa sword
+- Bow of Heracles — Heracles' bow | Hercules' bow | Bow of Hercules | Bow of Philoctetes | Philoctetes' bow | Arrows of Heracles
+- Club of Heracles — Heracles' club | Hercules' club | Club of Hercules
+- Nemean lion's skin — Nemean lion skin | Skin of the Nemean lion | Pelt of the Nemean lion | Nemean lion pelt | Heracles' lion skin
+- Shirt of Nessus — Tunic of Nessus | Robe of Nessus | Nessus' shirt | Cloak of Nessus
+- Chariot of Helios — Helios' chariot | Sun chariot | Chariot of the Sun | Apollo's chariot | Phaethon's chariot
+- Bow of Odysseus — Odysseus' bow | Odysseus's bow | Ulysses' bow | Bow of Ulysses
+- Dragon's teeth — Dragon teeth | Teeth of the dragon | Dragon's tooth
+- Pomegranate seeds — Persephone's pomegranate | Pomegranate | Pomegranate of Persephone
+- Pygmalion's statue — Galatea | Statue of Galatea | Pygmalion statue
+- Gullinbursti — Freyr's boar | Golden boar | Frey's boar | Gullinborsti
+- Sif's golden hair — Sif's hair | Golden hair of Sif | Hair of Sif
+- Falcon cloak — Freyja's cloak | Feather cloak | Fjaðrhamr | Freyja's feather cloak | Falcon-feather cloak | Valshamr
+- Sword of Freyr — Freyr's sword | Frey's sword | Sword of Frey
+- Rhinegold — Rheingold | Nibelung hoard | Hoard of the Nibelungs | Nibelung treasure | Andvari's hoard | Andvari's gold
+- Caladbolg — Caladcholg | Fergus's sword
+- Dyrnwyn — White-Hilt | Sword of Rhydderch | Dyrnwyn the White-Hilt
+- Crane bag — Crane-skin bag | Corrbolg | Manannán's crane bag | Manannan's bag
+- Green girdle — Green sash | Gawain's girdle | Green lace | Girdle of Gawain | Gawain's green girdle
+- Ascalon — St George's lance | St George's sword | Sword of St George | Lance of St George
+- Brazen head — Brass head | Bronze head | Roger Bacon's head | Bacon's brazen head
+- Wooden stake — Stake | Vampire stake | Hawthorn stake
+- Robin Hood's bow — Robin Hood's longbow | Bow of Robin Hood | Robin Hood's arrow
+- Luck of Edenhall — Edenhall goblet | Edenhall glass
+- Drake's Drum — Drum of Drake | Francis Drake's drum | Sir Francis Drake's drum
+- Wishing well — Wishing fountain
+- Bluebeard's key — Key of Bluebeard | Bluebeard key
+- Genie's bottle — Genie bottle | Genie in a bottle | Djinn's bottle | Jinni's bottle | Brass bottle | Bottle of the djinn | Jinn's bottle
+- Ring of Aladdin — Aladdin's ring | Aladdin's magic ring | Genie of the ring
+- Anansi's pot of wisdom — Pot of wisdom | Anansi's pot | Ananse's pot of wisdom | Calabash of wisdom
+- Kantele — Väinämöinen's kantele | Pike-bone kantele | Kantele of Väinämöinen
+- Firebird's feather — Feather of the Firebird | Firebird feather
+- Akshaya Patra — Akshay Patra | Akshaya Pathram | Draupadi's vessel | Inexhaustible vessel
+- Hanuman's mace — Hanuman's gada | Gada | Mace of Hanuman | Hanuman gada
+- Sanjeevani — Sanjivani | Sanjeevani booti | Sanjivani booti | Sanjeevini
+- Soma — Haoma | Soma drink
+- Manna — Manna from heaven | Bread from heaven
+- Flaming sword — Flaming sword of Eden | Fiery sword | Sword of the cherubim | Sword of fire
+- Jacob's ladder — Ladder of Jacob
+- Gabriel's horn — Horn of Gabriel | Gabriel's trumpet | Last trumpet | Trumpet of Gabriel
+- Trumpets of Jericho — Jericho's trumpets | Trumpet of Jericho | Horns of Jericho | Jericho trumpets
+- Chariot of fire — Elijah's chariot | Fiery chariot | Chariot of Elijah
+- Crook and flail — Flail and crook | Heka and nekhakha | Pharaoh's crook and flail
+- Eye of Ra — Eye of Re
+- Magic paintbrush — Magic brush | Ma Liang's brush | Ma Liang's magic brush
+- Wind Fire Wheels — Wind and Fire Wheels | Nezha's wheels | Fire wheels | Fenghuolun | Hot Wind Wheels
+- Golden headband — Golden circlet | Tight headband | Monkey King's headband | Tightening crown | Sun Wukong's headband
+- Ame-no-nuboko — Amenonuhoko | Heavenly jewelled spear | Heavenly jeweled spear | Jewelled spear of heaven
+- Thuận Thiên — Heaven's Will | Sword of Lê Lợi | Le Loi's sword | Returned sword
+- Mistletoe — Mistletoe dart | Mistletoe spear | Mistletoe arrow | Mistilteinn | Baldr's bane
+- Golden bridle — Bridle of Pegasus | Pegasus's bridle | Bellerophon's bridle | Athena's bridle
+- Atalanta's apples — Apples of Atalanta | Hippomenes' apples | Hippomenes's apples | Golden apples of Atalanta
+- Bow of Apollo — Apollo's bow | Apollo's silver bow | Apollo's arrows
+- Bow of Artemis — Artemis's bow | Artemis' bow | Diana's bow | Bow of Diana | Artemis's arrows
+- Nepenthe — Nepenthes
+- Lotus fruit — Lotus of the Lotus-eaters | Lotus-eaters' fruit | Fruit of the lotus
+- Omphalos — Omphalos stone | Navel of the world | Omphalos of Delphi
+- Sibylline Books — Books of the Sibyl | Libri Sibyllini
+- Ægishjálmr — Aegishjalmur | Helm of Awe | Helm of Terror | Fafnir's helm
+- Lorg Mór — Dagda's club | Club of the Dagda | Dagda's staff
+- Selkie skin — Sealskin | Selkie's sealskin | Seal-woman's skin
+- Blarney Stone
+- Baba Yaga's hut — Hut on chicken legs | House on chicken legs | Izbushka | Baba Yaga's house
+- Parashu — Parasu | Parashurama's axe | Axe of Parashurama
+- Krishna's flute — Murali | Krishna's bansuri | Flute of Krishna
+- Kanabō — Oni's club | Kanabou
+- Somersault Cloud — Jindouyun | Cloud somersault | Kintoun | Flying Nimbus | Monkey King's cloud
+- Five-coloured stones — Nüwa's stones | Stones of Nüwa
+- Xuanyuan Sword — Xuanyuan Jian | Yellow Emperor's sword | Sword of the Yellow Emperor
+- Nine Tripod Cauldrons — Nine Tripods | Nine Cauldrons | Jiuding | Nine Ding | Tripods of Yu
+- Red thread of fate — Red string of fate | Red thread | Red string | Akai ito | Red thread of destiny
+- Dreamcatcher — Asabikeshiinh
+- Hope Diamond — Hope diamond curse | Cursed Hope Diamond
+
+### Tier 5: expert (162)
+
+- Dáinsleif
+- Hringhorni
+- Wynebgwrthucher
+- Galatine — Gawain's sword
+- Horn of Bran Galed — Horn of Bran
+- Kibisis — Perseus's bag | Perseus' bag
+- Petasos — Petasus | Hermes' hat | Winged helmet | Hermes's helmet | Helmet of Hermes | Winged hat
+- Sword of Goliath — Goliath's sword
+- Sharanga — Vishnu's bow | Sarnga
+- Syamantaka — Syamantaka jewel | Syamantaka mani
+- Kaustubha — Kaustubha gem
+- Agneyastra
+- Narayanastra
+- Nine-toothed rake — Zhu Bajie's rake | Nine-tooth rake | Pigsy's rake
+- Purple-gold gourd — Purple-gold red gourd | Magic gourd
+- Pangu's axe — Axe of Pangu
+- Hauteclere — Hauteclaire | Oliver's sword
+- Almace — Almice | Turpin's sword
+- Xiuhcoatl — Fire serpent of Huitzilopochtli
+- Tezcatlipoca's mirror — Smoking mirror | Obsidian mirror
+- Derafsh Kaviani — Kaveh's banner | Kaviani banner | Banner of Kaveh | Kaveh's apron
+- Self-laying tablecloth — Skatert-samobranka | Magic tablecloth | Self-spreading tablecloth
+- Ebony horse — Enchanted horse | Flying ebony horse
+- Golden ball — Frog Prince's golden ball
+- Beast's rose — Enchanted rose | Beauty's rose
+- Princess's pea — Pea | Princess and the Pea's pea
+- Koschei's needle — Koschei's death | Needle of Koschei | Koschei's egg | Egg of Koschei | Needle in the egg
+- Baba Yaga's mortar — Mortar and pestle | Baba Yaga's pestle | Baba Yaga's broom
+- Simurgh's feather — Feather of the Simurgh
+- Mímir's head — Head of Mimir
+- Shield of Perseus — Perseus's shield | Perseus' shield | Mirrored shield | Mirror shield
+- Ancile — Ancilia | Shield of Mars | Shield of Numa
+- Hephaestus's net — Hephaestus' net | Net of Hephaestus | Vulcan's net
+- Cauldron of Annwn — Cauldron of Annwfn | Pair Pen Annwfn | Cauldron of the Head of Annwn
+- Wave Sweeper — Scuabtuinne | Manannán's boat
+- Tathlum — Lugh's sling stone | Lugh's sling | Sling of Lugh
+- Hamper of Gwyddno Garanhir — Hamper of Gwyddno | Basket of Gwyddno | Gwyddno's hamper
+- Chariot of Morgan Mwynfawr — Chariot of Morgan | Morgan's chariot
+- Halter of Clydno Eiddyn — Halter of Clydno | Clydno's halter
+- Knife of Llawfrodedd — Knife of Llawfrodedd the Horseman | Llawfrodedd's knife
+- Cauldron of Dyrnwch — Cauldron of Dyrnwch the Giant | Dyrnwch's cauldron
+- Whetstone of Tudwal Tudglyd — Whetstone of Tudwal | Tudwal's whetstone
+- Coat of Padarn Beisrudd — Coat of Padarn | Padarn's coat
+- Crock and Dish of Rhygenydd — Crock and Dish of Rhygenydd the Cleric | Dish of Rhygenydd | Crock of Rhygenydd
+- Chessboard of Gwenddoleu — Gwenddoleu's chessboard | Chessboard of Gwenddolau
+- Mantle of Arthur — Arthur's mantle | Llen Arthur | Arthur's cloak
+- Ring of Eluned — Eluned's ring | Stone of Eluned | Luned's ring | Ring of Luned | Stone and Ring of Eluned
+- Mantle of Tegau — Tegau's mantle | Mantle of Tegau Eurfron
+- Curtana — Cortana | Sword of Mercy | Ogier's sword | Courtain | Cortain
+- Balisarda — Ruggiero's sword
+- Mimung — Mimming | Wayland's sword | Weland's sword
+- Sword of Attila — Attila's sword | Sword of Mars
+- William Tell's crossbow — Tell's crossbow | William Tell's bow | Crossbow of William Tell
+- Brahan Seer's stone — Brahan Seer stone | Coinneach Odhar's stone | Seer's stone
+- Witch bottle — Witch's bottle
+- Golden key — Grimm's golden key
+- Gusli-samogudy — Self-playing gusli
+- Golden staff of Manco Cápac — Manco Cápac's staff | Tupayauri | Golden rod of Manco Capac
+- Kavacha — Kavach | Karna's armour | Karna's armor | Kavacha and Kundala | Kavach-Kundal
+- Panchajanya — Krishna's conch | Panchjanya
+- Damaru — Shiva's drum | Damru | Shiva's damaru
+- Vasavi Shakti — Vasavi Shakthi | Indra's spear
+- Nandaka — Vishnu's sword
+- Chudamani — Choodamani | Sita's jewel
+- Rama's ring — Ram's ring | Rama's signet ring | Ring of Rama
+- Universe Ring — Qiankun Quan | Qiankun Circle | Qiankun Ring | Nezha's ring | Heaven and Earth Ring
+- Demon-revealing mirror — Zhaoyao jing | Monster-revealing mirror | Demon mirror
+- Heirloom Seal of the Realm — Heirloom Seal | Imperial Seal of China | Chuanguo Yuxi | Imperial Jade Seal | Jade Seal | Jade Seal of the Realm
+- Sky Piercer — Fangtian Huaji | Lü Bu's halberd | Painted halberd | Fangtian halberd
+- Honjō Masamune — Masamune | Masamune sword
+- Totsuka-no-Tsurugi — Totsuka sword | Ten-span sword
+- Dōjigiri — Doujigiri | Dōjigiri Yasutsuna
+- Tonbogiri — Tombogiri | Dragonfly Cutter
+- Hoshi no tama — Star ball | Kitsune's pearl | Fox's jewel
+- Manpasikjeok — Flute of ten thousand waves | Flute that calms the waves
+- Cheonbuin — Three Heavenly Seals | Heavenly seals
+- Nỏ Thần — Divine crossbow | Magic crossbow | An Duong Vuong's crossbow | Crossbow of An Dương Vương
+- Key of Solomon — Clavicula Salomonis | Lesser Key of Solomon | Greater Key of Solomon | Lemegeton | Goetia | Ars Goetia | Lesser Key | Solomon's key
+- Book of Raziel — Sefer Raziel | Sefer Raziel HaMalakh | Book of the Angel Raziel
+- Elijah's mantle — Mantle of Elijah | Elijah's cloak | Cloak of Elijah
+- Holy Robe — Seamless robe | Holy Tunic | Robe of Christ | Seamless robe of Jesus | Holy Coat
+- Mandylion — Image of Edessa
+- Hrotti — Fafnir's sword
+- Nagelring — Naglhring | Dietrich's sword | Sword of Dietrich
+- Chandrahas — Chandrahasa | Ravana's sword | Moon blade
+- Holy Nails — Nails of the Cross | Nails of the Crucifixion
+- Pelian spear — Spear of Achilles | Achilles' spear | Pelian ash
+- Medea's cauldron — Cauldron of Medea
+- Eye of the Graeae — Graeae's eye | Eye of the Grey Sisters | Grey Sisters' eye | Eye of the Graiai
+- Shield of Heracles — Heracles' shield | Hercules' shield | Shield of Hercules
+- Circe's wand — Circe's staff | Circe's potion | Wand of Circe
+- Surtr's sword — Sword of Surtr | Surt's sword | Surtr's flaming sword
+- Ridill — Refill | Regin's sword
+- Gríðarvölr — Grid's staff
+- Svalinn
+- Eldhrímnir
+- Dragvandil — Egil's sword
+- Angurvadal — Frithiof's sword
+- Silver Branch — Silver bough | Cormac's branch
+- Mac an Luin — Fionn's sword | Finn's sword
+- Moralltach — Diarmuid's sword
+- Gáe Dearg — Diarmuid's spear | Gáe Derg
+- Lúin of Celtchar — Lúin | Celtchar's spear
+- Ochain — Conchobar's shield | Shield of Conchobar
+- Cloak of Manannán — Manannán's cloak | Mantle of Manannán | Cloak of mist
+- Elf-shot — Elf arrow | Elf bolt | Fairy dart | Fairy arrow
+- Adder stone — Hag stone | Holey stone | Witch stone | Druid's egg | Anguinum | Glain neidr | Serpent's egg
+- Lee Penny — Lockhart's penny
+- Glastonbury Thorn — Holy Thorn | Joseph of Arimathea's staff
+- Sword of the Strange Belt — Sword of the Strange Girdle | Sword with the Strange Hangings | Galahad's sword
+- Murgleis — Ganelon's sword
+- Eckesachs — Eckesax | Ecke's sword
+- Holy Ampulla — Sainte Ampoule | Holy Ampoule
+- Oriflamme
+- Shapka-nevidimka — Invisibility hat
+- Rejuvenating apples — Apples of youth | Apples of rejuvenation | Molodilnye yabloki
+- Flying ship
+- Alatyr — Alatyr stone
+- Glass coffin — Snow White's coffin | Glass casket | Snow White's glass coffin
+- Wishing table — Table-be-set | Tischlein deck dich
+- Cudgel in the sack — Cudgel out of the sack | Knüppel aus dem Sack | Stick in the sack
+- Singing bone
+- Poppet — Witch's poppet | Pin doll | Wax doll | Witch doll
+- Babr-e Bayan — Rostam's armour | Rostam's tiger skin | Babr-i Bayan
+- Shamir — Shamir worm | Solomon's shamir
+- Breastplate of Aaron — Hoshen | Priestly breastplate | High Priest's breastplate | Breastplate of judgement | Breastplate of the High Priest
+- David's harp — Harp of David | King David's harp | David's lyre
+- Sudarium of Oviedo — Oviedo sudarium | Shroud of Oviedo
+- Codex Gigas — Devil's Bible
+- Kodanda — Kodandam | Kothandam | Rama's bow
+- Vijaya — Karna's bow | Vijaya Dhanush
+- Devadatta — Arjuna's conch
+- Nagastra
+- Varunastra
+- Brahmashirsha astra — Brahmashirsha | Brahmashira | Brahmashirastra
+- Nagapasha — Nagapash | Serpent noose
+- Ashwatthama's gem — Ashwatthama's jewel
+- Draupadi's sari — Endless sari
+- Tengu's fan — Hauchiwa | Tengu's feather fan
+- Higekiri — Onikiri | Beard Cutter
+- Kogarasumaru — Little Crow
+- Onimaru — Onimaru Kunitsuna
+- Ōdenta — Ōdenta Mitsuyo
+- Mikazuki Munechika — Mikazuki
+- Juzumaru — Juzumaru Tsunetsugu
+- Seven-Branched Sword — Shichishitō | Chiljido
+- Futsu-no-mitama — Futsunomitama no Tsurugi | Futsumitama
+- Dokkaebi bangmangi — Dokkaebi club | Goblin club | Bangmangi
+- Huntian Ling — Red Armillary Sash | Nezha's sash | Huntian sash
+- Linglong Pagoda — Li Jing's pagoda | Exquisite Golden Pagoda | Pagoda of Li Jing
+- Lotus Lantern — Precious Lotus Lantern | Baolian Deng
+- Three-Pointed Double-Edged Blade — Erlang's trident | Erlang Shen's trident | Sanjian Liangren Dao | Erlang's spear
+- Zhanlu — Zhanlu Sword
+- Brocade kasaya — Kasaya | Brocade cassock | Tripitaka's robe | Tang Sanzang's robe | Precious kasaya
+- Nine-ringed staff — Nine-ringed tin staff | Tripitaka's staff | Tang Sanzang's staff
+- Wooden ox — Wooden ox and gliding horse | Wooden ox and flowing horse | Muniu Liuma | Zhuge Liang's wooden ox
+- Djed — Djed pillar | Backbone of Osiris
+- Tyet — Knot of Isis | Isis knot | Blood of Isis
+- Benben — Benben stone
+- Scales of Anubis — Anubis's scales | Scales of Ma'at | Scales of judgement
+- Taming Sari — Keris Taming Sari | Hang Tuah's kris | Hang Tuah's keris
+- Keris Mpu Gandring — Mpu Gandring | Kris of Mpu Gandring
+
+### Tier 6: rare jackpots (3)
+
+- Sharur — Šar-ur | Ninurta's mace
+- Skofnung
+- Grótti — Grótti mill | Frodi's mill | Mill of Frodi
+
+## Refused on purpose (48)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- One Ring | Ring of Power | Rings of Power | Andúril | Narsil | Sting | Palantír | Arkenstone | Glamdring | Orcrist | Mithril shirt | Silmaril | Horn of Gondor | Phial of Galadriel | Nenya | Vilya | Narya | Morgul blade | Elven cloak | Evenstar | Mirror of Galadriel | Lembas — "Invented by Tolkien for his Middle-earth books."
+- Elder Wand | Resurrection Stone | Deathly Hallows | Sorting Hat | Time-Turner | Mirror of Erised | Marauder's Map | Horcrux | Golden Snitch | Sword of Gryffindor | Goblet of Fire | Pensieve | Firebolt | Nimbus 2000 | Felix Felicis | Polyjuice Potion | Portkey | Remembrall | Deluminator | Tom Riddle's diary | Ravenclaw's diadem | Hufflepuff's cup | Slytherin's locket | Vanishing Cabinet — "Invented for the Harry Potter books."
+- Lightsaber | Lightsabre | Kyber crystal | Holocron | Darksaber | Death Star — "Invented for the Star Wars films."
+- Infinity Gauntlet | Infinity Stones | Tesseract | Stormbreaker | Captain America's shield | Vibranium shield | Eye of Agamotto | Cloak of Levitation | Darkhold | Cosmic Cube | Ten Rings — "Invented for Marvel's comics and films."
+- Lasso of Truth | Golden Lasso | Lasso of Hestia | Kryptonite | Batmobile | Batarang | Green Lantern ring | Power ring | Bracelets of Submission | Mother Box | Helmet of Fate — "Invented for DC's comics and films."
+- Sonic screwdriver | TARDIS — "Invented for Doctor Who."
+- Master Sword | Keyblade | Buster Sword | Frostmourne | Leviathan Axe | Blades of Chaos | Gravity Gun | Portal gun | Triforce | Ocarina of Time | Bag of Holding | Poké Ball | Master Ball | Hylian Shield | Chaos Emeralds | Soul Edge | Soulcalibur | Ashbringer | Monado | Moonlight Greatsword — "Invented for a game."
+- Heart of Te Fiti — "Invented for Disney's Moana."
+- Ruby slippers | Dorothy's slippers | Silver shoes | Dorothy's shoes | Ruby shoes | Silver slippers — "Made up for The Wizard of Oz, a novel of 1900, where they were silver. The 1939 film made them ruby."
+- Wardrobe | Lucy's cordial | White Witch's wand — "Invented by C. S. Lewis for his Narnia books."
+- Alethiometer | Golden compass | Subtle knife | Amber spyglass — "Invented by Philip Pullman for His Dark Materials."
+- Holy Hand Grenade | Holy Hand Grenade of Antioch — "From Monty Python and the Holy Grail, a film of 1975."
+- Monkey's paw — "From W. W. Jacobs's short story of 1902: modern fiction rather than legend."
+- Portrait of Dorian Gray | Dorian Gray's portrait | Picture of Dorian Gray | Dorian Gray — "From Oscar Wilde's novel of 1890: modern fiction rather than legend."
+- Vorpal sword | Vorpal blade — "From Lewis Carroll's nonsense poem Jabberwocky, rather than legend."
+- Necronomicon | Al Azif | Necronomicon Ex-Mortis — "A book invented by H. P. Lovecraft for his stories, though hoaxers have since printed 'real' ones."
+- Shining Trapezohedron | Elder Sign | Silver Key | Pnakotic Manuscripts — "Invented by H. P. Lovecraft for his stories."
+- Cthulhu | Cthulhu idol | Idol of Cthulhu — "A monster from H. P. Lovecraft's stories, and not an object either."
+- Ouija board | Ouija | Talking board | Planchette | Spirit board — "A board game sold in America since the 1890s, not an object of legend."
+- Rabbit's foot | Lucky rabbit's foot | Horseshoe | Lucky horseshoe | Four-leaf clover | Lucky penny | Lucky charm | Wishbone | Shamrock | Lucky coin | Lucky dice | Cornicello | Corno | Lucky bamboo | Maneki-neko | Lucky cat | Nazar | Evil eye bead — "An everyday lucky charm, not an object of legend."
+- Tarot cards | Tarot | Tarot deck — "Real cards, for games and fortune-telling, not an object of legend."
+- Rosetta Stone — "A real stone in the British Museum, more useful than magical."
+- Voynich manuscript | Voynich | Voynich Codex — "A real book from the 1400s, kept at Yale. Mysterious, and still unread, but not magical."
+- Crystal skull | Mitchell-Hedges skull | Skull of Doom — "Despite the legends, tests show the famous ones were carved with modern tools."
+- Pandora — "The woman, not the thing she opened."
+- Genie | Djinn | Jinn | Djinni | Jinni — "The spirit, not what it lives in."
+- Thor | Odin | Zeus | Poseidon | King Arthur | Arthur | Merlin | Aladdin | Cinderella | Hermes | Perseus | Heracles | Hercules | Achilles | Loki | Lady of the Lake | Robin Hood | Sun Wukong | Monkey King | Longinus — "Someone, not something. Name a thing they owned."
+- Medusa | Gorgon — "The Gorgon herself. Think of what Perseus carried away."
+- Midas touch | Golden touch | King Midas | Midas — "A gift, or a curse, rather than an object."
+- Achilles' heel — "A weak spot, rather than an object."
+- Dragon | Pegasus | Sleipnir | Unicorn | Phoenix | Minotaur | Cerberus | Kraken | Griffin | Hydra | Arion | Bucephalus | Firebird | Red Hare | Bayard | Nemean lion | Leviathan | Ceryneian Hind — "A creature, not an object."
+- Atlantis | Camelot | El Dorado | Mount Olympus | Valhalla | Asgard | Labyrinth | Bifröst | Garden of Eden | Tower of Babel — "A place, rather than an object."
+- Yggdrasil | World tree | Yggdrasill — "A tree that links the nine worlds, rather than an object."
+- Thirteen Treasures of Britain | Thirteen Treasures | Thirteen Treasures of the Island of Britain — "All thirteen at once. Name one of them."
+- Four Treasures of the Tuatha Dé Danann | Four Treasures | Four Jewels of the Tuatha Dé Danann — "All four at once. Name one of them."
+- Imperial Regalia of Japan | Three Sacred Treasures | Sanshu no Jingi | Three treasures | Imperial regalia | Three Sacred Treasures of Japan | Japanese regalia — "All three at once. Name one of them."
+- Sword | Magic sword | Enchanted sword | Legendary sword | Spear | Magic spear | Ring | Magic ring | Enchanted ring | Hammer | Magic hammer | Shield | Magic shield | Harp | Mirror | Apple | Magic apple | Staff | Magic staff | Wizard's staff | Horn | Magic horn | Amulet | Magic amulet | Talisman | Chalice | Cup | Crown | Bow | Arrow | Axe | Potion | Magic potion | Necklace | Cloak | Magic cloak | Boots | Magic boots | Key | Magic key | Stone | Magic stone | Jewel | Gem | Belt | Helmet | Chariot | Ship | Drum | Flute | Pipe | Dagger | Knife | Lance | Trumpet | Feather — "Which one? Legend is full of them, so name a particular one."
+- Golden ticket | Wonka's golden ticket | Wishing chair — "Made up for a children's book of the 20th century, not handed down in legend."
+- Stormbringer | Mournblade | Sword of Shannara | Sword of Truth | Callandor — "Invented for modern fantasy novels."
+- Tenka Goken | Five Swords under Heaven — "All five at once. Name one of them."
+- Death Note | Dragon Balls | Tessaiga | Tetsusaiga | Shikon Jewel | Shikon no Tama | Zangetsu | Millennium Puzzle — "Invented for a Japanese manga."
+- Sankara stones | Dial of Destiny | Mask of Loki | Jumanji | Lament Configuration | Dead Man's Chest | Jack Sparrow's compass — "Invented for a modern film, or the book it came from."
+- Power Sword | Sword of Grayskull | Sword of Omens — "Invented for a cartoon of the 1980s."
+- Tree of knowledge | Tree of life | Tree of the knowledge of good and evil — "A tree, rather than an object. What grew on it is another matter."
+- Voodoo doll — "Pin dolls owe more to European folk magic and old films than to the Vodou faith."
+- Refused without a reason (near misses of real answers): Golden Hind | Holy book | Magic door

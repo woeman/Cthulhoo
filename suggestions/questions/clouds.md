@@ -123,7 +123,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Cloud | Low cloud | Low-level cloud | Middle cloud | Medium cloud | Mid-level cloud | High cloud | High-level cloud | Grey cloud | Gray cloud | Dark cloud | Black cloud | White cloud — "Which kind of cloud? Name it."
+- Cloud | Low cloud | Low-level cloud | Middle cloud | Medium cloud | Mid-level cloud | High cloud | High-level cloud | Grey cloud | Gray cloud | Dark cloud | Black cloud | White cloud — "That covers many kinds of cloud. Name one."
 - Rain | Snow | Hail | Sleet | Drizzle — "Weather that falls from clouds, not a cloud."
 - Rainbow | Fog bow — "Sunlight split by drops of water, not a cloud."
 - Halo | Sun dog | Parhelion | Fire rainbow | Circumhorizontal arc | Sun pillar | Light pillar | Glory | Brocken spectre | Brocken specter — "A trick of light in a cloud's ice or droplets, not the cloud itself."

@@ -1,0 +1,1162 @@
+# Name a fish.
+
+Question id: `fish` · category: nature · source: `data/nature.json`
+
+Rules: Any fish of sea or fresh water, living or extinct, as a group or a single species. Sharks and rays count; animals that are only called fish, like the starfish, don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (1086 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (15)
+
+- Salmon — Grilse | Salmon fish | Smoked salmon | Lox | Gravlax | Gravadlax | Sake | Pacific salmon | Parr | Kelt | Alevin
+- Cod — Codfish | Atlantic cod | Saltfish | Bacalao | Bacalhau | Baccalà | Stockfish | Klippfisk | Clipfish | Lutefisk | Cabillaud | Morue | Tara
+- Tuna — Tunny | Maguro | Tuna fish | Toro | Otoro
+- Trout — Trout fish
+- Goldfish
+- Shark — Sharks | Shark fish
+- Haddock — Finnan haddie | Haddock fish | Arbroath smokie | Smokie
+- Carp — Common carp | Carps | Carp fish | Ghost carp | Cyprinus carpio
+- Clownfish — Clowfish | Anemonefish | Clown anemonefish | Ocellaris | Ocellaris clownfish | False percula | Percula | Percula clownfish | Orange clownfish
+- Mackerel — Atlantic mackerel | Saba | Mackerel fish
+- Catfish
+- Pike — Northern pike | Jack pike | Pike fish
+- Bass — Bass fish
+- Swordfish — Broadbill
+- Herring — Kipper | Bloater | Atlantic herring | Silver darling | Herring fish | Sild | Red herring | Rollmop | Matjes | Buckling | Pacific herring | Nishin
+
+### Tier 2: common (36)
+
+- Sardine — Sardines | Sardine fish | Pacific sardine | Iwashi | Mathi | Chaala | Oil sardine | Indian oil sardine
+- Anchovy — Anchovie | Anchovies | Anchovy fish | Northern anchovy | Boquerones | Nethili | Kozhuva
+- Plaice — European plaice | Pleuronectes platessa
+- Sole — Common sole | Sole fish
+- Halibut — Atlantic halibut | Pacific halibut | Halibut fish
+- Hake — European hake | Cape hake | Hake fish | Merluza | Merlu | Merluzzo
+- Pollock — Pollack | Alaska pollock | Walleye pollock | Atlantic pollock | Pollock fish
+- Flounder — European flounder | Platichthys flesus | Hirame | Karei
+- Sea Bass — European sea bass | Branzino | Loup de mer | Lubina | Spigola | Suzuki
+- Perch — European perch | Perch fish | Redfin | Redfin perch
+- Minnow
+- Guppy — Guppy fish | Guppie | Poecilia reticulata
+- Piranha — Red-bellied piranha | Pirahna | Piranha fish
+- Eel — Eels | Elver | Glass eel | Eel fish
+- Seahorse
+- Pufferfish — Puffer | Blowfish | Fugu | Globefish | Balloonfish
+- Marlin — Marlin fish
+- Barracuda — Barracuda fish | Cuda | Great barracuda
+- Stingray
+- Ray — Rays
+- Great White Shark — Great white | White shark | White pointer | Carcharodon | Carcharodon carcharias
+- Whale Shark — Rhincodon | Rhincodon typus
+- Angelfish — Freshwater angelfish | Marine angelfish | Scalare
+- Koi — Koi carp | Nishikigoi | Koi fish
+- Tilapia — St Peter's fish | Tilapia fish | Nile tilapia | Mozambique tilapia | Red tilapia | Oreochromis
+- Sturgeon — Sturgeon fish
+- Monkfish — Goosefish | Lophius | Lotte | Anko
+- Snapper — Squire | Snapper fish | Pink snapper | Tamure | Pagrus auratus
+- Rainbow Trout — Rainbow | Steelhead | Steelhead trout
+- Moray Eel — Moray
+- Electric Eel — Electric knifefish
+- Neon Tetra — Neon | Neon Tetra fish
+- Megalodon — Otodus megalodon | Otodus | Carcharocles | Carcharocles megalodon | Meg
+- Flying Fish
+- Hammerhead Shark — Hammerhead | Sphyrna
+- Manta Ray — Manta | Giant manta | Oceanic manta | Reef manta | Mobula birostris
+
+### Tier 3: known to fans (150)
+
+- Turbot
+- Whiting — Whiting fish
+- Coley — Saithe | Coalfish
+- Ling — Common ling
+- Bream — Common bream | Bronze bream | Bream fish
+- Roach
+- Tench
+- Chub
+- Dace
+- Barbel
+- Stickleback — Three-spined stickleback | Tiddler
+- Grayling
+- Char — Charr
+- Arctic Char — Arctic charr | Torgoch
+- Zander — Pikeperch | Sander
+- Wels Catfish — Wels | Sheatfish
+- Channel Catfish — Channel cat | Ictalurus punctatus
+- Brown Trout
+- Sea Trout — Sewin | Peal | Salmon trout | Finnock
+- Brook Trout — Brookie | Brook char | Brook charr | Salvelinus fontinalis
+- Lake Trout — Laker | Mackinaw | Togue
+- Cutthroat Trout — Cutthroat
+- Atlantic Salmon
+- Sockeye Salmon — Sockeye | Red salmon | Blueback
+- Chinook Salmon — Chinook | King salmon | Spring salmon | Tyee
+- Coho Salmon — Coho | Silver salmon
+- Bluefin Tuna — Atlantic bluefin | Southern bluefin tuna | Bluefin | Thunnus thynnus
+- Yellowfin Tuna — Yellowfin | Ahi
+- Skipjack Tuna — Skipjack | Katsuo | Aku
+- Albacore — Albacore tuna | Longfin tuna
+- Bonito
+- Sprat — Brisling
+- Pilchard
+- Whitebait
+- Shad — Allis shad | Twaite shad | American shad
+- Smelt — Sparling | Rainbow smelt
+- Hilsa — Ilish | Hilsa shad | Hilsa fish
+- Pomfret — Silver pomfret | Black pomfret | Paplet | Pomfret fish | Rupchanda | Avoli
+- Rohu — Rui | Rohu carp | Rohu fish
+- Mahseer — Golden mahseer | Mahseer fish
+- Bombay Duck — Bombil | Bummalo | Loitta
+- Pangasius — Basa | Basa fish | Swai | Swai fish | Tra | Iridescent shark | Pangasius fish | Pangas
+- Snakehead — Murrel | Snakehead fish
+- Barramundi — Barra | Asian sea bass | Bhetki | Bekti | Giant perch | Barramundi fish
+- Murray Cod
+- Flathead — Dusky flathead
+- Grouper — Grouper fish
+- Goliath Grouper
+- Red Snapper — Huachinango
+- Mullet — Grey mullet | Striped mullet | Flathead mullet | Mullet fish | Thick-lipped grey mullet | Thin-lipped grey mullet | Golden grey mullet | Flathead grey mullet
+- Red Mullet — Surmullet | Rouget
+- Gurnard — Red gurnard | Grey gurnard | Tub gurnard | Sea robin
+- Wrasse
+- Blenny — Montagu's blenny
+- Goby — Gobies | Rock goby | Black goby | Common goby | Painted goby
+- Mudskipper
+- John Dory — Dory
+- Dogfish — Rock salmon | Huss | Lesser spotted dogfish | Rock eel | Small-spotted catshark | Lesser-spotted catshark | Scyliorhinus canicula | Dogfish shark
+- Conger Eel — Conger | Anago
+- Lamprey — Lampreys
+- Hagfish — Slime eel
+- Lungfish
+- Coelacanth — Latimeria | West Indian Ocean coelacanth | Latimeria chalumnae | Gombessa
+- Blobfish — Psychrolutes | Smooth-head blobfish
+- Anglerfish — Anglefish | Angler | Deep-sea anglerfish | Deep sea angler | Sea devil | Ceratioid
+- Stonefish
+- Lionfish — Turkeyfish
+- Scorpionfish — Rascasse
+- Sailfish
+- Mahi-mahi — Mahi | Dorado | Dolphinfish | Mahi-mahi fish
+- Parrotfish
+- Butterflyfish
+- Triggerfish
+- Boxfish — Spotted boxfish | Yellow boxfish
+- Surgeonfish
+- Tang
+- Blue Tang — Regal tang | Palette surgeonfish | Hippo tang
+- Remora — Suckerfish | Sharksucker
+- Sea Dragon
+- Leafy Seadragon
+- Pipefish — Snake pipefish | Greater pipefish | Worm pipefish
+- Ocean Sunfish — Mola | Mola mola
+- Sunfish — Sunny
+- Largemouth Bass — Bigmouth bass | Black bass | Bucketmouth | Largemouth | Micropterus salmoides
+- Smallmouth Bass — Smallie | Bronzeback | Smallmouth | Micropterus dolomieu
+- Striped Bass — Striper
+- Bluegill
+- Crappie — Calico bass | Papermouth | White crappie | Black crappie | Sac-a-lait
+- Walleye — Walleyed pike
+- Muskellunge — Musky | Muskie | Maskinonge
+- Gar
+- Alligator Gar
+- Paddlefish — Spoonbill | Polyodon
+- Bluefish — Tailor | Elf
+- Snook — Robalo
+- Tarpon — Tarpon fish
+- Bonefish
+- Amberjack — Greater amberjack | Kampachi | Kanpachi
+- Yellowtail — Yellowtail kingfish | Hamachi | Buri | Japanese amberjack
+- Trevally
+- Kingfish
+- Wahoo — Ono
+- Rockfish
+- Redfish — Norway haddock | Golden redfish
+- Tiger Shark — Galeocerdo | Galeocerdo cuvier
+- Bull Shark — Zambezi shark | Carcharhinus leucas
+- Basking Shark — Basking | Cetorhinus | Cetorhinus maximus
+- Mako Shark — Mako | Isurus
+- Nurse Shark — Ginglymostoma
+- Thresher Shark — Thresher | Alopias
+- Skate — Common skate | Skate wing
+- Eagle Ray
+- Electric Ray — Torpedo ray | Numbfish | Torpedo | Atlantic torpedo | Pacific electric ray | Marbled electric ray | Lesser electric ray
+- Sawfish
+- Cichlid — Cichlid fish | African cichlid
+- Tetra — Tetra fish
+- Betta — Siamese fighting fish | Fighting fish | Beta | Beta fish | Betta fish
+- Discus — Discus fish
+- Oscar — Oscar fish
+- Molly — Molly fish | Black molly | Sailfin molly | Dalmatian molly
+- Platy — Platy fish
+- Danio — Danio fish
+- Zebrafish — Zebra danio
+- Barb
+- Gourami — Gourami fish
+- Pleco — Plec | Plecostomus | Sailfin pleco | Suckermouth catfish | Pleco fish
+- Loach
+- Archerfish
+- Arowana — Asian arowana | Silver arowana | Arowana fish | Bonytongue | Osteoglossum
+- Arapaima — Pirarucu | Arapaima fish
+- Pacu
+- Mirror Carp
+- Grass Carp — White amur | Ctenopharyngodon
+- Flatfish
+- Oarfish — King of herrings | Giant oarfish | Regalecus
+- Orange Roughy — Slimehead | Roughy | Red roughy | Deep sea perch
+- Nile Perch — Lake Victoria perch | Lates niloticus
+- Whitefish — Lake whitefish
+- Garfish — Garpike
+- Dover Sole
+- Lemon Sole
+- Sea Bream — Gilt-head bream | Dorade | Dorada | Porgy | Red sea bream | Tai | Gilthead | Gilthead seabream | Blackspot seabream | Red bream | Daurade | Orata | Madai
+- Blue Marlin
+- Viperfish — Sloane's viperfish | Pacific viperfish | Chauliodus
+- Fangtooth — Fangtooth fish | Common fangtooth | Ogrefish | Anoplogaster
+- Gulper Eel — Pelican eel | Pelican gulper | Umbrella-mouth gulper | Gulper | Eurypharynx | Whiptail gulper | Saccopharynx
+- Lanternfish — Myctophid
+- Beluga Sturgeon — Beluga | Huso | Great sturgeon
+- Greenland Shark — Gurry shark | Grey shark | Greenland sleeper | Somniosus microcephalus
+- Bony Fish — Osteichthyes | Osteichthyan
+
+### Tier 4: obscure (259)
+
+- Brill
+- Dab — Common dab | Limanda limanda
+- Rudd
+- Gudgeon
+- Bleak
+- Ide — Orfe | Golden orfe
+- Ruffe — Pope
+- Burbot — Eelpout | Freshwater cod
+- Pacific Cod
+- Blue Whiting
+- Megrim
+- Fluke — Summer flounder
+- Greenland Halibut — Greenland turbot | Black halibut
+- Tonguefish — Tongue sole
+- Pink Salmon — Humpback salmon | Humpy
+- Chum Salmon — Chum | Dog salmon | Keta | Keta salmon
+- Golden Trout
+- Bull Trout
+- Dolly Varden
+- Huchen — Danube salmon
+- Taimen — Siberian taimen
+- Cisco — Lake herring | Tullibee
+- Bigeye Tuna — Bigeye | Thunnus obesus
+- Menhaden
+- Alewife
+- Capelin — Shishamo
+- Sand Eel — Sand lance | Launce | Lesser sand eel | Greater sand eel
+- Catla — Katla | Catla fish
+- Spanish Mackerel — Seer fish | Surmai | Narrow-barred Spanish mackerel | Seer | Vanjaram | Neymeen
+- Indian Mackerel — Bangda | Ayala | Ayila
+- King Mackerel
+- Horse Mackerel — Scad | Jack mackerel | Aji | Maasbanker
+- Ribbonfish — Hairtail | Cutlassfish | Belt fish
+- Threadfin — Indian threadfin | Rawas | Indian salmon | Threadfin salmon | King threadfin | Blue threadfin | Paradise threadfin | Mango fish | Topse
+- Walking Catfish — Magur
+- Goonch
+- Mekong Giant Catfish — Giant Mekong catfish
+- Blue Catfish — Blue cat | Ictalurus furcatus
+- Flathead Catfish — Flathead cat | Mudcat | Shovelhead | Yellow cat | Pylodictis olivaris
+- Redtail Catfish
+- Bullhead — Miller's thumb | Bullhead catfish | Brown bullhead | Yellow bullhead | Black bullhead | Horned pout
+- Sculpin — Fathead sculpin
+- Lumpsucker — Lumpfish
+- Weever — Weever fish | Lesser weever | Greater weever
+- Dragonet
+- Mandarinfish — Mandarin dragonet
+- Butterfish — Gunnel
+- Wolffish — Atlantic wolffish | Seawolf | Rock turbot | Anarhichas lupus
+- Wolf Eel
+- Garden Eel
+- Ribbon Eel
+- Japanese Eel — Unagi
+- European Eel
+- American Eel
+- Sea Lamprey
+- Chimaera — Chimera | Ratfish | Ghost shark | Longnose chimaera
+- Australian Lungfish — Queensland lungfish | Neoceratodus | Neoceratodus forsteri
+- Bichir — Dinosaur eel
+- Bowfin — Choupique | Grinnel | Mudfish | Amia calva
+- Longnose Gar
+- Yellow Perch
+- Pickerel — Chain pickerel
+- Sauger
+- White Bass
+- Black Sea Bass
+- Peacock Bass — Tucunaré
+- Pumpkinseed
+- Red Drum — Channel bass | Redfish drum
+- Black Drum
+- Croaker — Corvina | Corbina
+- Drum — Freshwater drum | Gaspergou | Aplodinotus
+- Weakfish
+- Spotted Seatrout — Speckled trout | Speck
+- Totoaba
+- Meagre
+- Mulloway — Kob | Kabeljou | Dusky kob | Argyrosomus japonicus
+- Permit
+- Pompano — Florida pompano
+- Cobia — Lemonfish | Rachycentron
+- Giant Trevally — GT | Ulua
+- Jack — Crevalle jack | Jack crevalle | Crevalle | Caranx hippos
+- Pilot Fish
+- Tilefish
+- Lingcod
+- Sablefish — Black cod
+- Garibaldi
+- Hogfish
+- Sheepshead
+- Red Emperor — Emperor red snapper
+- Coral Trout — Coral grouper | Plectropomus
+- Blue Groper
+- Gummy Shark — Flake | Gummy
+- Australian Salmon — Kahawai
+- Leatherjacket
+- King George Whiting
+- Blue Cod
+- Hoki — Blue grenadier | Blue hake
+- Snoek — Barracouta
+- Opah — Moonfish
+- Patagonian Toothfish — Chilean sea bass | Toothfish | Mero
+- Escolar — Walu
+- Halfbeak
+- Saury — Pacific saury | Sanma
+- Needlefish
+- Flashlight Fish
+- Squirrelfish
+- Hawkfish
+- Goatfish
+- Rabbitfish
+- Unicornfish
+- Moorish Idol
+- Damselfish — Damsel
+- Cowfish — Longhorn cowfish
+- Porcupinefish — Porcupine puffer | Porcupine pufferfish
+- Filefish — Orange-spotted filefish | Harlequin filefish
+- Picasso Triggerfish — Lagoon triggerfish | Huma huma | Blackbar triggerfish | Rhinecanthus aculeatus
+- Emperor Angelfish
+- Yellow Tang
+- Royal Gramma — Fairy basslet | Gramma loreto
+- Cleaner Wrasse
+- Humphead Wrasse — Napoleon wrasse | Maori wrasse
+- Ballan Wrasse
+- Cuckoo Wrasse
+- Giant Grouper — Queensland grouper
+- Nassau Grouper
+- Yellowtail Snapper
+- Grunt
+- Batfish — Deep-sea batfish | Ogcocephalid
+- Red-lipped Batfish
+- Frogfish
+- Toadfish — Oyster toadfish
+- Stargazer
+- Lizardfish
+- Weedy Seadragon
+- Pygmy Seahorse
+- Trumpetfish
+- Hatchetfish — Marine hatchetfish | Deep-sea hatchetfish | Argyropelecus
+- Barreleye — Spookfish | Barreleye fish | Pacific barreleye | Macropinna
+- Dragonfish — Scaly dragonfish | Black dragonfish | Barbeled dragonfish | Deep-sea dragonfish | Stomiid
+- Black Swallower — Great swallower | Chiasmodon
+- Grenadier — Rattail | Roundnose grenadier | Macrourid
+- Tripod Fish — Tripod spiderfish | Spiderfish | Bathypterois
+- Snailfish — Sea snail | Striped seasnail | Liparis | Liparid | Mariana snailfish | Hadal snailfish | Pseudoliparis | Bumpy snailfish | Dark snailfish | Sleek snailfish
+- Cookiecutter Shark — Cookiecutter | Isistius
+- Goblin Shark — Goblin | Mitsukurina
+- Frilled Shark — Frill shark | Chlamydoselachus
+- Megamouth Shark — Megamouth | Megachasma
+- Wobbegong — Carpet shark | Wobbegong shark | Wobby | Orectolobus
+- Angel Shark
+- Blacktip Reef Shark — Blacktip reef
+- Whitetip Reef Shark — Whitetip reef
+- Oceanic Whitetip Shark — Oceanic whitetip | Whitetip | Carcharhinus longimanus
+- Sand Tiger Shark — Sand tiger | Grey nurse shark | Ragged-tooth shark | Raggie | Carcharias taurus | Grey nurse
+- Porbeagle — Porbeagle shark
+- Tope — Tope shark | School shark | Soupfin shark | Soupfin
+- Blue Shark — Prionace | Prionace glauca
+- Lemon Shark — Negaprion
+- Leopard Shark
+- Zebra Shark
+- Catshark
+- Spiny Dogfish — Spurdog | Piked dogfish | Squalus acanthias
+- Thornback Ray — Roker | Thornback | Raja clavata
+- Guitarfish
+- Devil Ray — Mobula | Devilfish | Giant devil ray
+- Cownose Ray — Cownose | Rhinoptera
+- Spotted Eagle Ray
+- Corydoras — Cory | Corydoras catfish
+- Clown Loach
+- Kuhli Loach
+- Stone Loach
+- Swordtail
+- Tiger Barb
+- Killifish
+- Mosquitofish — Gambusia | Western mosquitofish | Eastern mosquitofish
+- Rainbowfish
+- Silver Dollar
+- Cardinal Tetra
+- Rasbora
+- Dwarf Gourami
+- Kissing Gourami
+- Paradise Fish
+- Jack Dempsey
+- Flowerhorn
+- Bristlenose Pleco — Bristlenose
+- Elephantnose Fish — Elephantfish | Peters' elephantnose | Mormyrid | Gnathonemus
+- Knifefish — Clown knifefish | Chital | Chitol | Chitala | Clown featherback
+- Bala Shark — Silver shark
+- Candiru — Toothpick fish
+- Tigerfish
+- Goliath Tigerfish
+- Crucian Carp — Crucian
+- Silver Carp
+- Bighead Carp
+- Asian Carp
+- Shubunkin
+- Fantail
+- Oranda
+- Medaka — Japanese rice fish | Ricefish
+- Milkfish — Bangus | Poomeen
+- Shiner — Golden shiner
+- Fathead Minnow
+- Darter
+- Pupfish
+- Sucker — White sucker
+- Cardinalfish
+- Dunkleosteus
+- Helicoprion
+- Four-eyed Fish — Anableps
+- Black Marlin
+- Striped Marlin
+- Spearfish
+- Pikeminnow — Northern pikeminnow
+- Sterlet
+- White Sturgeon
+- Grey Triggerfish — Gray triggerfish | Balistes capriscus
+- Clown Triggerfish — Balistoides conspicillum
+- Cartilaginous Fish — Chondrichthyes | Chondrichthyan
+- Ray-finned Fish — Actinopterygii | Actinopterygian
+- Lobe-finned Fish — Sarcopterygii | Sarcopterygian
+- Jawless Fish — Agnatha | Agnathan | Cyclostome
+- Great Hammerhead — Great Hammerhead Shark
+- Sevengill Shark — Sevengill | Broadnose Sevengill Shark
+- Saw Shark — Pristiophorus
+- Bonnethead Shark — Bonnethead | Bonnet Shark
+- Blacktip Shark — Blacktip | Common blacktip shark | Carcharhinus limbatus
+- Copper Shark — Narrowtooth Shark | Bronze Whaler | Bronzie
+- Shortfin Mako — Shortfin mako shark | Isurus oxyrinchus
+- Pyjama Shark — Pyjama Catshark | Striped Catshark | Pajama Shark
+- Nursehound — Bull huss | Greater spotted dogfish | Large-spotted dogfish | Scyliorhinus stellaris
+- Humpback Anglerfish — Black seadevil | Humpback angler | Melanocetus
+- Black Scabbardfish — Black scabbard | Espada | Aphanopus
+- Alfonsino — Splendid alfonsino | Kinmedai | Beryx
+- Black Bream — Spondyliosoma cantharus
+- Tompot Blenny — Tompot | Parablennius gattorugine
+- Blonde Ray — Raja brachyura
+- Undulate Ray — Raja undulata
+- Flapper Skate — Dipturus intermedius
+- Rock Bass — Ambloplites rupestris
+- White Perch — Morone americana
+- Russian Sturgeon — Osetra | Ossetra | Oscietra | Acipenser gueldenstaedtii
+- Mangrove Snapper — Gray snapper | Grey snapper | Lutjanus griseus
+- Gag Grouper — Gag | Mycteroperca microlepis
+- Little Tunny — False albacore | Albie | Euthynnus alletteratus
+- Giant Sea Bass — Stereolepis gigas
+- Yellowfin Bream — Acanthopagrus australis
+- Mangrove Jack — Lutjanus argentimaculatus
+- Elephant Shark — Australian ghost shark | Plough-nose chimaera | Callorhinchus | Callorhinchus milii
+- Icefish — Crocodile icefish | Channichthyid
+- Stinging Catfish — Singhi | Shingi | Heteropneustes fossilis
+- African Lungfish — Protopterus | Marbled lungfish
+- Indonesian Coelacanth — Latimeria menadoensis | Raja laut
+- Freshwater Stingray — River stingray | Motoro | Polka dot stingray | Potamotrygon
+- Powder Blue Tang — Acanthurus leucosternon
+- Queen Angelfish — Holacanthus ciliaris
+- Giant Moray — Gymnothorax javanicus
+- Humphead Parrotfish — Bumphead parrotfish | Bolbometopon muricatum
+- Spiny Eel — Fire eel | Tyre track eel | Mastacembelid
+- Swamp Eel — Asian swamp eel | Rice eel | Monopterus albus
+- Knightia
+
+### Tier 5: expert (623)
+
+- Pouting — Bib
+- Poor Cod
+- Tusk — Cusk | Torsk | Brosme
+- Rockling — Five-bearded rockling | Three-bearded rockling | Shore rockling
+- Tomcod
+- Witch — Witch sole | Witch flounder | Grey sole | Torbay sole
+- Topknot
+- Hogchoker
+- Winter Flounder
+- Starry Flounder
+- Masu Salmon — Masu | Cherry salmon | Yamame | Oncorhynchus masou
+- Kokanee
+- Marble Trout
+- Apache Trout
+- Gila Trout
+- Ferox Trout — Ferox
+- Lenok
+- Inconnu — Sheefish
+- Vendace
+- Powan
+- Pollan
+- Schelly — Skelly
+- Gwyniad
+- Ayu — Sweetfish
+- Eulachon — Candlefish | Hooligan
+- Mrigal
+- Pearl Spot — Karimeen | Green chromide
+- Ghol
+- Vundu
+- Kapenta
+- Tambaqui — Cachama
+- Golden Dorado
+- Payara — Vampire fish
+- Glass Catfish
+- Upside-down Catfish
+- Banjo Catfish
+- Electric Catfish
+- Madtom
+- Black Ghost Knifefish — Black ghost | Ghost knifefish | Apteronotus
+- Ropefish — Reedfish
+- Leaf Fish
+- Climbing Perch
+- Glassfish
+- Pencilfish
+- Harlequin Rasbora
+- White Cloud Mountain Minnow
+- Cherry Barb
+- Rosy Barb
+- Pearl Gourami
+- Giant Gourami
+- Convict Cichlid
+- Firemouth Cichlid
+- Kribensis — Krib
+- Peacock Cichlid
+- Otocinclus — Oto | Otto | Dwarf sucker
+- Bumblebee Goby
+- Red-tailed Black Shark
+- Rainbow Shark
+- Weather Loach — Weatherfish
+- Spined Loach
+- Bitterling
+- Nase
+- Vimba
+- Asp — Aspius
+- Sunbleak — Moderlieschen
+- Topmouth Gudgeon
+- Black Carp
+- Leather Carp
+- Comet Goldfish — Comet
+- Ryukin
+- Black Moor — Moor goldfish
+- Bubble Eye — Bubble-eye goldfish
+- Shanny
+- Sand Goby
+- Round Goby
+- Sea Scorpion — Father lasher | Bull rout | Long-spined sea scorpion | Short-spined sea scorpion
+- Corkwing — Corkwing wrasse
+- Dentex
+- Bogue
+- Comber
+- Wreckfish — Stone bass | Hapuku
+- Smooth-hound
+- Bamboo Shark — Chiloscyllium
+- Epaulette Shark — Epaulette | Walking shark | Hemiscyllium
+- Port Jackson Shark — Port Jackson
+- Horn Shark — Heterodontus
+- Sixgill Shark — Sixgill | Bluntnose sixgill | Cow shark | Bluntnose sixgill shark | Hexanchus
+- Lantern Shark — Etmopterus
+- Grey Reef Shark — Gray Reef Shark
+- Silky Shark — Silky
+- Blue-spotted Ray — Bluespotted ribbontail ray
+- Shovelnose Ray
+- Wedgefish
+- Butterfly Ray
+- Giant Freshwater Stingray
+- Brook Lamprey
+- River Lamprey
+- Spotted Gar
+- Mooneye
+- Goldeye
+- Buffalo Fish — Bigmouth buffalo
+- Tautog — Blackfish
+- Scup
+- Grunion
+- Opaleye
+- Cabezon
+- Greenling
+- Atka Mackerel — Hokke
+- Chub Mackerel
+- Rainbow Runner
+- Queenfish
+- Lookdown
+- Ladyfish — Ten-pounder
+- Ballyhoo
+- Houndfish
+- Pinecone Fish — Pineapple fish
+- Ponyfish
+- Soldierfish
+- Banggai Cardinalfish
+- Dottyback
+- Jawfish
+- Bannerfish
+- Fusilier
+- Anthias — Lyretail anthias | Sea goldie | Pseudanthias
+- Chromis
+- Sergeant Major
+- Porkfish
+- Spangled Emperor
+- Sooty Grunter
+- Golden Perch — Callop | Yellowbelly | Macquaria ambigua
+- Silver Perch
+- Australian Bass
+- Saratoga — Jardini
+- Dhufish — West Australian dhufish
+- Luderick
+- Morwong
+- Tarakihi
+- Kingklip
+- Oilfish
+- Snake Mackerel
+- Ghost Pipefish
+- Cornetfish
+- Shrimpfish — Razorfish
+- Snipefish
+- Clingfish
+- Plainfin Midshipman — Midshipman
+- Flying Gurnard
+- Lancetfish — Longnose lancetfish | Alepisaurus
+- Bristlemouth — Cyclothone
+- Stoplight Loosejaw — Loosejaw | Malacosteus
+- Whalefish — Flabby whalefish | Red velvet whalefish | Cetomimid
+- Brownsnout Spookfish — Dolichopteryx
+- Leedsichthys
+- Xiphactinus
+- Hyneria
+- Tiktaalik
+- Cladoselache
+- Cephalaspis
+- Eusthenopteron
+- Stethacanthus — Ironing-board shark
+- Mawsonia
+- Placoderm — Placoderms
+- Mummichog
+- Topminnow
+- Dogtooth Tuna — Dogtooth
+- Blackfin Tuna — Blackfin
+- White Marlin
+- Trunkfish
+- Ocean Perch — Atlantic redfish | Rose fish
+- Lake Sturgeon
+- Reef Triggerfish — Rectangular triggerfish | Wedgetail triggerfish | Rhinecanthus rectangulus | Humuhumu
+- Queen Triggerfish — Balistes vetula
+- Titan Triggerfish — Giant triggerfish | Moustache triggerfish | Balistoides viridescens | Mustache triggerfish
+- Niger Triggerfish — Red-toothed triggerfish | Redtooth triggerfish | Odonus niger
+- Undulated Triggerfish — Orange-lined triggerfish | Orangestriped triggerfish | Balistapus undulatus
+- Blue Triggerfish — Yellow-spotted triggerfish | Pseudobalistes fuscus
+- Scamp — Scamp grouper | Mycteroperca phenax
+- Waryfish — Scopelosaurus
+- Teleost — Teleostei
+- Elasmobranch — Elasmobranchii
+- Acanthodian — Spiny shark | Acanthodii
+- Ostracoderm
+- Dusky Shark
+- Sandbar Shark
+- Salmon Shark
+- Swell Shark
+- Sleeper Shark — Somniosus
+- Gulper Shark
+- Scalloped Hammerhead
+- Smooth Hammerhead
+- Winghead Shark — Winghead
+- Galápagos Shark
+- Caribbean Reef Shark
+- Spinner Shark — Carcharhinus brevipinna
+- Longfin Mako — Longfin mako shark
+- Bigeye Thresher
+- Pelagic Thresher
+- Crocodile Shark
+- Kitefin Shark — Kitefin
+- Requiem Shark — Carcharhinus
+- Cretoxyrhina — Ginsu shark
+- Hybodus
+- Silvertip Shark — Silvertip
+- Bullhead Shark
+- Mackerel Shark
+- Puffadder Shyshark
+- Draughtsboard Shark
+- Viper Dogfish — Viper shark
+- Dwarf Lanternshark
+- Pygmy Shark — Euprotomicrus
+- Velvet Belly Lanternshark
+- Prickly Shark
+- Bramble Shark
+- Angular Roughshark
+- Mandarin Dogfish
+- Speartooth Shark
+- Ganges Shark
+- Pondicherry Shark
+- River Shark
+- Northern River Shark
+- Borneo Shark
+- Daggernose Shark
+- Blacknose Shark
+- Atlantic Sharpnose Shark
+- Milk Shark
+- Spadenose Shark
+- Sicklefin Lemon Shark
+- Weasel Shark
+- Hooktooth Shark
+- Snaggletooth Shark
+- Tawny Nurse Shark
+- Blind Shark
+- Necklace Carpetshark
+- Collared Carpetshark
+- Tasselled Wobbegong
+- Ornate Wobbegong
+- Japanese Angelshark
+- Pacific Sleeper Shark
+- Portuguese Dogfish
+- Birdbeak Dogfish
+- Taillight Shark
+- Largetooth Cookiecutter Shark
+- Spined Pygmy Shark
+- Bigeye Sand Tiger
+- Smalltooth Sand Tiger
+- Southern Sawshark
+- Sixgill Sawshark
+- Japanese Sawshark
+- Longnose Sawshark
+- Great Lanternshark
+- Brown-banded Bamboo Shark
+- White-spotted Bamboo Shark
+- Coral Catshark
+- Squalicorax — Crow Shark
+- Xenacanthus — Xenacanth
+- Orthacanthus
+- Ptychodus
+- Houndshark
+- Graceful Shark
+- Lost Shark
+- Pigeye Shark
+- Bignose Shark
+- Night Shark
+- Smalltail Shark
+- Finetooth Shark
+- Whitecheek Shark
+- Creek Whaler
+- Australian Blacktip Shark
+- Hardnose Shark
+- Spot-tail Shark
+- Sliteye Shark
+- Broadfin Shark
+- Whitenose Shark
+- Bigeye Sixgill Shark
+- Sharpnose Sevengill Shark
+- Rough Longnose Dogfish
+- Velvet Dogfish
+- Black Dogfish
+- Smallmouth Velvet Dogfish
+- Ornate Dogfish
+- Shortnose Spurdog
+- Cuban Dogfish
+- Roughskin Dogfish
+- Leafscale Gulper Shark
+- Little Gulper Shark
+- Granular Dogfish
+- Combtooth Dogfish
+- Dwarf Gulper Shark
+- Smooth Lanternshark
+- Blackbelly Lanternshark
+- Splendid Lanternshark
+- Pygmy Ribbontail Catshark
+- Ghost Catshark
+- Lollipop Catshark
+- Shy Shark
+- Bareskin Dogfish
+- Barbeled Houndshark
+- Whiskery Shark
+- Sicklefin Weasel Shark
+- Arabian Carpetshark
+- Indonesian Speckled Carpetshark
+- Hooded Carpetshark
+- Sawback Angelshark
+- Ornate Angelshark
+- Pacific Angelshark
+- Bahamas Sawshark
+- Tropical Sawshark
+- Little Sleeper Shark
+- Southern Sleeper Shark
+- Ninja Lanternshark — Etmopterus benchleyi
+- Pocket Shark — Mollisquama
+- Snipe Eel — Nemichthys
+- Barracudina
+- Slickhead — Alepocephalid
+- Dealfish — Trachipterus
+- Football Fish — Himantolophus
+- Triplewart Seadevil — Cryptopsaras
+- Hairy Angler — Fanfin seadevil | Fanfin angler | Caulophryne
+- Bearded Seadevil — Netdevil | Linophryne
+- Wolftrap Angler — Wolftrap seadevil | Lasiognathus
+- Whipnose Angler — Whipnose | Gigantactis
+- Ghostly Seadevil — Haplophryne
+- Dreamer — Oneirodes
+- Krøyer's Deep Sea Anglerfish — Ceratias | Ceratias holboelli
+- Sabretooth Fish — Sabertooth fish | Evermannella
+- Daggertooth — Anotopterus
+- Telescopefish — Gigantura
+- Snaggletooth — Astronesthes
+- Deep-sea Lizardfish — Bathysaurus
+- Cusk Eel — Abyssal cusk-eel | Abyssobrotula | Ophidiid
+- Sea Toad — Coffinfish | Chaunax
+- Antarctic Toothfish — Dissostichus mawsoni
+- Pacific Blackdragon — Black dragon | Idiacanthus
+- Bigscale — Ridgehead | Melamphaid
+- Cutthroat Eel — Synaphobranchid
+- Deep-sea Spiny Eel — Notacanth | Notacanthid
+- Halosaur
+- Tubeshoulder
+- Pearleye
+- Crestfish — Lophotus
+- Tube-eye — Thread-tail | Stylephorus
+- Lightfish
+- Deep-sea Smelt — Bathylagid
+- Greeneye
+- Oreo Dory — Oreo | Smooth oreo | Black oreo
+- Pelagic Armourhead — Pelagic armorhead
+- Thornyhead — Shortspine thornyhead | Idiot fish | Kichiji
+- Viviparous Eelpout — Zoarces | Zoarcid | Vent eelpout
+- Australasian Narrow-nosed Spookfish — Narrow-nosed spookfish | Harriotta avia
+- Pandora — Common pandora | Pagellus erythrinus
+- Salema — Saupe | Dream fish | Sarpa salpa
+- Boarfish — Capros aper
+- Ray's Bream — Atlantic pomfret | Brama brama
+- Goldsinny — Goldsinny wrasse | Ctenolabrus rupestris
+- Rock Cook — Rock cook wrasse | Centrolabrus exoletus
+- Pogge — Hooknose | Armed bullhead | Agonus cataphractus
+- Scaldfish — Arnoglossus laterna
+- Solenette — Buglossidium luteum
+- Sand Smelt — Atherina presbyter
+- Houting — Coregonus oxyrinchus
+- Spotted Ray — Raja montagui
+- Small-eyed Ray — Painted ray | Raja microocellata
+- Cuckoo Ray — Leucoraja naevus
+- Starry Ray — Starry skate | Thorny skate | Amblyraja radiata
+- Blue Skate — Dipturus batis
+- Silver Bream — White bream | Blicca bjoerkna
+- Norway Pout — Trisopterus esmarkii
+- American Plaice — Long rough dab | Hippoglossoides platessoides
+- Spotted Bass — Kentucky bass | Micropterus punctulatus
+- Warmouth — Lepomis gulosus
+- Redear Sunfish — Shellcracker | Lepomis microlophus
+- Green Sunfish — Lepomis cyanellus
+- Longear Sunfish — Lepomis megalotis
+- Hybrid Striped Bass — Wiper | Sunshine bass | Palmetto bass
+- Yellow Bass — Morone mississippiensis
+- Saugeye
+- Tiger Muskie — Tiger muskellunge
+- Splake
+- Tiger Trout
+- Shovelnose Sturgeon — Sand sturgeon | Scaphirhynchus platorynchus
+- Pallid Sturgeon — Scaphirhynchus albus
+- Green Sturgeon — Acipenser medirostris
+- Atlantic Sturgeon — Acipenser oxyrinchus
+- Starry Sturgeon — Sevruga | Stellate sturgeon | Acipenser stellatus
+- Kaluga — Huso dauricus
+- Chinese Paddlefish — Chinese swordfish | Psephurus
+- Chinese Sturgeon — Acipenser sinensis
+- Quillback — Carpiodes cyprinus
+- River Carpsucker — Carpsucker
+- Redhorse — Redhorse sucker | Moxostoma
+- Stoneroller — Central stoneroller | Campostoma
+- Creek Chub — Semotilus atromaculatus
+- Fallfish — Semotilus corporalis
+- Emerald Shiner — Notropis atherinoides
+- Bluntnose Minnow — Pimephales notatus
+- Banded Killifish — Fundulus diaphanus
+- Spot — Spot croaker | Leiostomus xanthurus
+- Pinfish — Lagodon rhomboides
+- Pigfish — Orthopristis chrysoptera
+- Mutton Snapper — Lutjanus analis
+- Lane Snapper — Lutjanus synagris
+- Vermilion Snapper — Beeliner | Rhomboplites aurorubens
+- Cubera Snapper — Lutjanus cyanopterus
+- Red Grouper — Epinephelus morio
+- Black Grouper — Mycteroperca bonaci
+- Warsaw Grouper — Hyporthodus nigritus
+- Tripletail — Lobotes surinamensis
+- Almaco Jack — Seriola rivoliana
+- Cero — Cero mackerel | Scomberomorus regalis
+- Opakapaka — Crimson jobfish | Pristipomoides filamentosus
+- Onaga — Ruby snapper | Long-tail red snapper | Etelis coruscans
+- Green Jobfish — Uku | Aprion virescens
+- Yelloweye Rockfish — Sebastes ruberrimus
+- Rougheye Rockfish — Sebastes aleutianus
+- Bocaccio — Sebastes paucispinis
+- Vermilion Rockfish — Sebastes miniatus
+- Pacific Ocean Perch — Sebastes alutus
+- California Halibut — Paralichthys californicus
+- Petrale Sole — Petrale
+- Rex Sole
+- English Sole
+- Yellowtail Flounder
+- Windowpane Flounder — Windowpane
+- Arrowtooth Flounder
+- Kelp Bass — Paralabrax clathratus
+- White Seabass — Atractoscion nobilis
+- Surfperch — Pile perch | Embiotocid
+- Halfmoon — Medialuna californiensis
+- California Sheephead — Semicossyphus pulcher
+- Bat Ray — Myliobatis californica
+- Gizzard Shad — Kohada | Konoshiro | Dorosoma
+- Japanese Whiting — Kisu | Sillago japonica
+- Desert Pupfish — Cyprinodon macularius
+- Fringehead — Onespot fringehead | Yellowfin fringehead
+- Irish Lord — Red Irish lord | Hemilepidotus
+- Kelp Greenling — Hexagrammos decagrammus
+- Spotted Ratfish — Hydrolagus colliei
+- Sea Raven — Hemitripterus americanus
+- Tarwhine — Rhabdosargus sarba
+- Jungle Perch — Kuhlia rupestris
+- Sweetlips — Plectorhinchus
+- Nannygai — Centroberyx affinis
+- Trout Cod — Maccullochella macquariensis
+- Macquarie Perch — Macquaria australasica
+- Estuary Perch — Percalates colonorum
+- Eel-tailed Catfish — Tandan | Tandanus tandanus
+- Spangled Perch — Spangled grunter | Leiopotherapon unicolor
+- Barramundi Cod — Humpback grouper | Panther grouper | Cromileptes altivelis
+- Baldchin Groper — Choerodon rubescens
+- Pearl Perch — Glaucosoma scapulare
+- Teraglin
+- Dart — Swallowtail dart | Trachinotus botla
+- Tommy Ruff — Australian herring | Arripis georgianus
+- Blue Mackerel — Slimy mackerel | Scomber australasicus
+- Old Wife — Enoplosus armatus
+- Rig — Spotted estuary smooth-hound | Mustelus lenticulatus
+- Warehou — Blue warehou | Seriolella brama
+- Gemfish — Rexea solandri
+- Red Cod — Pseudophycis bachus
+- Bluenose — Bluenose warehou | Hyperoglyphe antarctica
+- Blue Moki — Moki | Latridopsis ciliaris
+- Inanga — Galaxias maculatus
+- Kokopu — Giant kokopu | Banded kokopu
+- Galaxias — Galaxiid
+- New Zealand Grayling — Upokororo | Prototroctes oxyrhynchus
+- Galjoen — Dichistius capensis
+- Geelbek — Cape salmon
+- Red Roman — Chrysoblephus laticeps
+- Steenbras — White steenbras | Red steenbras
+- Musselcracker — Black musselcracker | White musselcracker | Poenskop
+- Carpenter — Argyrozona argyrozona
+- Stumpnose — White stumpnose | Red stumpnose
+- Garrick — Leervis | Lichia amia
+- Antarctic Silverfish — Pleuragramma
+- Arctic Cod — Polar cod | Boreogadus saida
+- Notothen — Antarctic cod | Nototheniid
+- Handfish — Red handfish | Spotted handfish | Brachionichthyid
+- Ruby Seadragon — Phyllopteryx dewysea
+- Sargassum Fish — Histrio histrio
+- Stingaree — Urolophid
+- Banjo Shark — Fiddler ray | Banjo ray | Trygonorrhina
+- Coffin Ray — Hypnos monopterygius
+- Tengra — Tangra | Mystus
+- Pabda — Ompok pabda
+- Wallago — Boal | Wallago attu
+- Threadfin Bream — Pink perch | Rani | Rani fish | Nemipterus
+- Mojarra — Silver biddy | Gerreid
+- Giant Snakehead — Channa micropeltes
+- Chambo — Oreochromis karongae
+- Mbuna
+- Dagaa — Omena | Mukene | Rastrineobola argentea
+- South American Lungfish — Lepidosiren
+- Whipray — Leopard whipray | Himantura
+- Short-tail Stingray — Smooth stingray | Bathytoshia brevicaudata
+- Southern Stingray — Hypanus americanus
+- Round Stingray — Urobatis halleri
+- Yellow Stingray — Urobatis jamaicensis
+- Smalltooth Sawfish — Pristis pectinata
+- Largetooth Sawfish — Freshwater sawfish | Pristis pristis
+- Green Sawfish — Pristis zijsron
+- Bowmouth Guitarfish — Shark ray | Rhina ancylostoma
+- Munk's Devil Ray — Munk's pygmy devil ray | Mobula munkiana
+- Spinetail Devil Ray — Spinetail mobula | Mobula mobular
+- Barndoor Skate — Dipturus laevis
+- Little Skate — Leucoraja erinacea
+- Winter Skate — Leucoraja ocellata
+- Clearnose Skate — Rostroraja eglanteria
+- Big Skate — Beringraja binoculata
+- Longnose Skate
+- Lionhead Goldfish — Lionhead
+- Ranchu
+- Pearlscale — Pearlscale goldfish
+- Telescope Goldfish — Telescope eye | Panda moor | Demekin
+- Celestial Eye Goldfish — Celestial eye | Stargazer goldfish
+- Veiltail — Veiltail goldfish
+- Wakin
+- Pompom Goldfish — Pompom
+- Maroon Clownfish — Premnas biaculeatus
+- Tomato Clownfish — Amphiprion frenatus
+- Sailfin Tang — Zebrasoma veliferum
+- Achilles Tang — Acanthurus achilles
+- Naso Tang — Orangespine unicornfish
+- Purple Tang — Zebrasoma xanthurum
+- Convict Tang — Manini | Acanthurus triostegus
+- Foxface — Foxface rabbitfish | Siganus vulpinus
+- Fire Goby — Firefish | Fire dartfish | Nemateleotris magnifica
+- Coral Beauty — Centropyge bispinosa
+- Flame Angelfish — Centropyge loricula
+- French Angelfish — Pomacanthus paru
+- Dwarf Angelfish — Pygmy angelfish | Centropyge
+- Regal Angelfish — Royal angelfish | Pygoplites diacanthus
+- Copperband Butterflyfish — Chelmon rostratus
+- Raccoon Butterflyfish — Chaetodon lunula
+- Six-line Wrasse — Pseudocheilinus hexataenia
+- Fairy Wrasse — Cirrhilabrus
+- Pajama Cardinalfish — Pyjama cardinalfish | Polka-dot cardinalfish | Sphaeramia nematoptera
+- Yellow Watchman Goby — Watchman goby | Cryptocentrus cinctus
+- Humbug Damselfish — Humbug | Three-stripe damselfish | Dascyllus aruanus
+- Domino Damselfish — Domino | Dascyllus trimaculatus
+- Blue Devil Damselfish — Blue devil | Chrysiptera cyanea
+- Lawnmower Blenny — Salarias fasciatus
+- Harlequin Tuskfish — Tuskfish | Choerodon fasciatus
+- Snowflake Moray — Echidna nebulosa
+- Zebra Moray — Gymnomuraena zebra
+- Dragon Moray — Enchelycore pardalis
+- Dogface Puffer — Arothron nigropunctatus
+- Pea Puffer — Dwarf puffer | Carinotetraodon travancoricus
+- Figure-eight Puffer — Tetraodon biocellatus
+- Mbu Puffer — Giant freshwater puffer | Tetraodon mbu
+- Yellowhead Jawfish — Opistognathus aurifrons
+- Flame Hawkfish — Neocirrhites armatus
+- Longnose Hawkfish — Oxycirrhites typus
+- Basslet
+- Pearlfish — Carapid | Carapus
+- Potato Cod — Potato grouper | Epinephelus tukula
+- Peacock Grouper — Roi | Cephalopholis argus
+- Spadefish — Atlantic spadefish | Chaetodipterus faber
+- Sweeper — Glassy sweeper | Pempheris
+- Crocodilefish — Cymbacephalus beauforti
+- Leaf Scorpionfish — Paperfish | Taenianotus triacanthus
+- Seamoth — Pegasid
+- Peacock Flounder — Flowery flounder | Bothus mancus
+- German Blue Ram — Ram cichlid | Blue ram | Mikrogeophagus ramirezi
+- Apistogramma — Apisto | Dwarf cichlid
+- Severum — Banded cichlid | Heros severus
+- Green Terror — Andinoacara rivulatus
+- Texas Cichlid — Rio Grande cichlid | Herichthys cyanoguttatus
+- Jewel Cichlid — Hemichromis
+- Frontosa — Cyphotilapia frontosa
+- Electric Yellow Cichlid — Electric yellow | Labidochromis caeruleus
+- Endler's Livebearer — Endler | Endler guppy | Poecilia wingei
+- Siamese Algae Eater — Crossocheilus oblongus
+- Chinese Algae Eater — Gyrinocheilus aymonieri
+- Flying Fox — Epalzeorhynchos kalopterus
+- Hillstream Loach — Sewellia
+- Headstander — Striped headstander | Anostomus
+- Tiger Shovelnose Catfish — Tiger shovelnose | Pseudoplatystoma
+- Piraiba — Brachyplatystoma filamentosum
+- Trahira — Hoplias malabaricus
+- Featherback — Notopterid
+- Giant Barb — Siamese giant carp | Catlocarpio siamensis
+- Panda Cory — Panda corydoras | Corydoras panda
+- Zebra Pleco — Hypancistrus zebra
+- Freshwater Butterflyfish — African butterflyfish | Pantodon
+- Sacabambaspis
+- Edestus
+- Bothriolepis
+- Coccosteus
+- Pterichthyodes
+- Titanichthys
+- Materpiscis
+- Entelognathus
+- Climatius
+- Pteraspis
+- Drepanaspis
+- Arandaspis
+- Hemicyclaspis
+- Birkenia
+- Haikouichthys
+- Myllokunmingia
+- Guiyu
+- Psarolepis
+- Panderichthys
+- Elpistostege
+- Gogonasus
+- Rhizodus
+- Ceratodus
+- Onchopristis
+- Lepidotes
+- Dapedium
+- Gyrodus
+- Pachycormus
+- Aspidorhynchus
+- Saurichthys
+- Leptolepis
+- Bonnerichthys
+- Enchodus
+- Gillicus
+- Priscacara
+- Mioplosus
+- Diplomystus
+- Megapiranha
+- Blackspotted Croaker — Protonibea diacanthus
+
+### Tier 6: rare jackpots (3)
+
+- Humuhumunukunukuapuaa
+- Sarcastic Fringehead — Neoclinus blanchardi
+- Devils Hole Pupfish
+
+## Refused on purpose (42)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Fish | Fishes — "That's the question. Name one."
+- Tropical fish | Freshwater fish | Saltwater fish | Oily fish | Coarse fish | Game fish | Bait fish | Reef fish | Round fish | Pond fish | Sport fish | Deep-sea fish | Marine fish | Aquarium fish | Cold-water fish — "There are thousands of those. Name one."
+- Jellyfish | Portuguese man o' war | Man o' war | Box jellyfish — "A cnidarian, not a fish. It has no bones and no brain."
+- Starfish | Sea star | Brittle star — "An echinoderm, not a fish, which is why marine biologists call it a sea star."
+- Cuttlefish | Cuttle — "A mollusc, a cousin of the octopus."
+- Octopus | Squids | Nautilus | Calamari | Tako | Ika — "A mollusc, all arms and no bones."
+- Shellfish | Oyster | Mussel | Clam | Scallop | Cockle | Whelk | Winkle | Hotate | Limpet | Abalone | Conch | Razor clam — "Molluscs and crustaceans, not fish, whatever the menu says."
+- Crayfish | Crawfish | Crawdad | Yabby — "A freshwater crustacean, a small cousin of the lobster."
+- Lobster | Crabs | Shrimp | Prawns | Langoustine | Scampi | Krill | Sea louse | Fish louse | Mantis shrimp | Barnacle | Copepod | Sea slater | Ebi | Amaebi — "A crustacean, not a fish."
+- Silverfish — "A small, wingless insect that lives in damp corners of houses."
+- Whale | Blue whale | Killer whale | Orcas | Humpback whale | Sperm whale | Narwhal — "A mammal. It breathes air and feeds its young on milk."
+- Dolphin | Porpoise | Bottlenose dolphin — "A mammal, though it swims like a fish. The fish that anglers call dolphin goes by a longer name."
+- Seal | Sea lion | Walrus | Otters | Sea otter | Manatee | Dugong — "A mammal, and it eats fish."
+- Sea turtle | Turtle | Sea snake | Crocodile | Tortoise | Terrapin | Alligator | Sea krait | Water snake | Marine iguana | Cobra | Crush | Squirts — "A reptile, not a fish."
+- Penguin — "A bird that swims like a fish."
+- Axolotl | Mexican walking fish | Mudpuppy | Waterdog — "Nicknamed the Mexican walking fish, but an amphibian."
+- Tadpole — "A young frog or toad, not a fish."
+- Amphibian | Frogs | Toads | Newts | Salamanders | Congo eels | Amphiuma | Hellbender | Olm | Siren | Caecilian | Giant salamander — "An amphibian starts life in the water, but it isn't a fish."
+- Sea cucumber | Sea urchin | Sand dollar | Uni | Sea biscuit | Feather star — "An echinoderm, a cousin of the starfish."
+- Sea anemone | Anemone | Coral — "A cnidarian, a cousin of the jellyfish."
+- Sea slug | Nudibranch | Sea angel | Sea butterfly — "A mollusc, not a fish."
+- Lancelet | Amphioxus — "A fish-shaped cousin of the backboned animals, but not a fish."
+- Sea monkey | Sea monkeys | Brine shrimp — "A brine shrimp sold in a packet."
+- Ichthyosaur | Ichthyosaurus | Mosasaur | Mosasaurus | Plesiosaur — "A marine reptile that only looked like a fish."
+- Fish finger | Fish fingers | Fish stick | Fish sticks | Fish and chips | Fishcake — "Fish, technically, but breaded, and not a species."
+- Mermaid | Merman — "Half fish, if you believe the stories."
+- Squawfish — "That old name is a slur, retired in 1998. The fish is now named for a pike and a minnow."
+- Beluga whale — "A whale, which is a mammal. The fish of that name is a sturgeon."
+- Kingfisher | Osprey | Heron | Cormorant | Gannet | Puffin | Pelican | Fish eagle | Fish owl — "A bird that catches fish, not a fish."
+- Loan shark | Card shark | Pool shark — "Dangerous, but not a fish."
+- Baby shark | Baby Shark song — "A song, not a species. Name the shark."
+- Sea mouse | Bristle worm | Ragworm | Lugworm | Bobbit worm | Fireworm — "A bristly sea worm, not a fish."
+- Horseshoe crab — "Closer kin to spiders than to crabs, and not a fish."
+- Sea squirt | Tunicate | Ascidian | Sea pork — "A filter-feeder fixed to rocks. Its young look a little like tadpoles, but it isn't a fish."
+- Caviar | Roe | Fish roe | Cod roe | Fish eggs | Ikura | Tobiko | Masago | Taramasalata | Bottarga — "Eggs, not a fish. Name the fish that laid them."
+- Sushi | Sashimi | Seafood | Fish pie | Surimi | Crab stick | Kedgeree — "A dish, not a species. Name the fish in it."
+- Magikarp | Gyarados | Goldeen | Seaking | Feebas | Carvanha | Sharpedo | Qwilfish | Relicanth | Basculin | Wishiwashi | Arrokuda | Barraskewda | Finneon | Lumineon | Remoraid | Chinchou | Lanturn | Mantine | Luvdisc | Stunfisk | Bruxish | Huntail | Gorebyss — "A Pokémon, not a fish of this world."
+- Acanthostega | Ichthyostega | Tulerpeton — "An early four-legged animal with toes, counted with the tetrapods rather than the fish."
+- Jewfish | Jewie | Black jewfish — "That name was dropped in America in 2001 as offensive. The Atlantic giant is now named for a biblical giant, and Australia's goes by an Aboriginal word for 'the greatest one'."
+- Jaws — "Fictional. A great white, if you want the species."
+- Finding Nemo | Nemos — "A film. Nemo is a clownfish, if you want the species."
+- Fry | Fingerling — "A young fish, not a kind of fish. Name the fish."

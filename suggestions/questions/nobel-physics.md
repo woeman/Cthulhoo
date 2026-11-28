@@ -12,10 +12,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (8)
 
-- Marie Curie — Marie Skłodowska-Curie | Maria Skłodowska-Curie | Maria Skłodowska | Madame Curie | Mme Curie
+- Marie Curie — Marie Skłodowska-Curie | Maria Skłodowska-Curie | Maria Skłodowska | Madame Curie | Mme Curie | Curie
 - Max Planck — Planck
 - Albert Einstein — Einstein
-- Niels Bohr
+- Niels Bohr — Bohr
 - Werner Heisenberg — Heisenberg
 - Erwin Schrödinger — Schrödinger | Schroedinger
 - Richard Feynman — Feynman | Dick Feynman
@@ -26,7 +26,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wilhelm Röntgen — Röntgen | Roentgen | Wilhelm Roentgen | Wilhelm Conrad Röntgen
 - Henri Becquerel — Becquerel | Antoine Henri Becquerel
 - Pierre Curie
-- J. J. Thomson — Joseph John Thomson | Joseph Thomson | Sir J. J. Thomson | J. Thomson
+- J. J. Thomson — Joseph John Thomson | Joseph Thomson | Sir J. J. Thomson | J. Thomson | Thomson
 - Guglielmo Marconi — Marconi
 - Robert Millikan — Millikan | Robert A. Millikan
 - Louis de Broglie — de Broglie | Broglie | Louis-Victor de Broglie | Prince de Broglie
@@ -54,14 +54,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Johannes Diderik van der Waals — van der Waals | Johannes van der Waals
 - Heike Kamerlingh Onnes — Kamerlingh Onnes | Onnes | Heike Onnes
 - Max von Laue — von Laue | Laue
-- William Henry Bragg — W. H. Bragg | Henry Bragg | Sir William Henry Bragg | H. Bragg
-- Lawrence Bragg — William Lawrence Bragg | W. L. Bragg | Sir Lawrence Bragg | L. Bragg
+- William Henry Bragg — W. H. Bragg | Henry Bragg | Sir William Henry Bragg | H. Bragg | William Bragg | Sir William Bragg
+- Lawrence Bragg — William Lawrence Bragg | W. L. Bragg | Sir Lawrence Bragg | L. Bragg | Bragg
 - James Franck — Franck
 - Gustav Hertz — Hertz | Gustav Ludwig Hertz
 - Arthur Compton — Compton | Arthur Holly Compton
 - C. V. Raman — Raman | Chandrasekhara Venkata Raman | Sir C. V. Raman
 - Victor Hess — Hess | Victor Francis Hess
-- Carl Anderson — Carl David Anderson | Carl D. Anderson
+- Carl Anderson — Carl David Anderson | Carl D. Anderson | Anderson
 - Otto Stern — Stern
 - Isidor Isaac Rabi — Rabi | I. I. Rabi | Isidor Rabi
 - Hideki Yukawa — Yukawa
@@ -70,7 +70,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Felix Bloch — Bloch
 - Walter Brattain — Brattain | Walter Houser Brattain
 - Chen Ning Yang — Yang | C. N. Yang | Yang Chen-Ning | Frank Yang
-- Tsung-Dao Lee — T. D. Lee | Lee Tsung-Dao | Li Zhengdao | Li Tsung-Dao
+- Tsung-Dao Lee — T. D. Lee | Lee Tsung-Dao | Li Zhengdao | Li Tsung-Dao | Lee
 - Pavel Cherenkov — Cherenkov | Čerenkov | Pavel Čerenkov
 - Emilio Segrè — Segrè
 - Lev Landau — Landau
@@ -86,7 +86,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Philip Anderson — Philip W. Anderson | Phil Anderson
 - Pyotr Kapitsa — Kapitsa | Kapitza | Peter Kapitza | Pyotr Kapitza
 - Arno Penzias — Penzias | Arno Allan Penzias
-- Robert Woodrow Wilson — Robert Wilson | Robert W. Wilson
+- Robert Woodrow Wilson — Robert Wilson | Robert W. Wilson | Wilson
 - Sheldon Glashow — Glashow
 - Abdus Salam — Salam | Mohammad Abdus Salam
 - Subrahmanyan Chandrasekhar — Chandrasekhar | Chandra
@@ -148,7 +148,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Pierre-Gilles de Gennes — de Gennes | Gennes
 - Georges Charpak — Charpak
 - Russell Hulse — Hulse | Russell A. Hulse
-- Joseph Taylor — Joseph H. Taylor | Joseph Taylor Jr. | Joe Taylor
+- Joseph Taylor — Joseph H. Taylor | Joseph Taylor Jr. | Joe Taylor | Taylor
 - Martin Perl — Perl | Martin L. Perl
 - Frederick Reines — Reines | Fred Reines
 - Claude Cohen-Tannoudji — Cohen-Tannoudji | Tannoudji
@@ -207,8 +207,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Gabriel Lippmann — Lippmann | Lippman
 - Charles Barkla — Barkla | Charles Glover Barkla
-- Manne Siegbahn — Karl Manne Georg Siegbahn
-- Owen Richardson — Owen Willans Richardson
+- Manne Siegbahn — Karl Manne Georg Siegbahn | Siegbahn
+- Owen Richardson — Owen Willans Richardson | Richardson
 - Percy Bridgman — Bridgman | Percy Williams Bridgman
 - Edward Appleton — Appleton | Sir Edward Appleton | Edward Victor Appleton
 - Cecil Powell — Powell | Cecil Frank Powell | C. F. Powell
@@ -258,20 +258,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gustaf Dalén — Dalén | Nils Gustaf Dalén | Gustav Dalén
 - Charles Édouard Guillaume — Guillaume | Charles Guillaume
 
-## Refused on purpose (59)
+## Refused on purpose (49)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Curie — "Which Curie? Marie and Pierre shared the 1903 prize."
-- Bragg | William Bragg | Sir William Bragg — "Which Bragg? A father and son shared the 1915 prize."
-- Bohr — "Which Bohr? A father and son both won."
-- Thomson — "Which Thomson? A father and son both won."
-- Siegbahn — "Which Siegbahn? A father and son both won."
-- Wilson — "Which Wilson? Three of them have won."
-- Anderson — "Which Anderson? Two of them have won."
-- Richardson — "Which Richardson? Two of them have won."
-- Taylor — "Which Taylor? Two of them have won."
-- Lee — "Which Lee? Two of them have won."
 - Albert | Marie | Pierre | Niels | Max | Werner | Erwin | Enrico | Richard | Peter | Wolfgang | Andrea | Donna | Kip | Geoffrey | Murray | Steven | David | John | James | Robert | Charles | Arthur | William | Ernest | Carl | Francis | Anne | Michel | Gerard | Leon — "First names won't do here. The deep wants a surname."
 - Stephen Hawking | Hawking — "Never won. The radiation he predicted from black holes has never been seen."
 - Robert Oppenheimer | J. Robert Oppenheimer | Oppenheimer — "Nominated three times, never awarded."

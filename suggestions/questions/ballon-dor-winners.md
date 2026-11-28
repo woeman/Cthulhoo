@@ -13,7 +13,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (11)
 
 - Lionel Messi — Leo Messi | Lionel Andrés Messi | La Pulga | The Flea | Messi
-- Cristiano Ronaldo — CR7 | Cristiano | Cristiano Ronaldo dos Santos Aveiro | Ronaldo (Portugal) | Portuguese Ronaldo | C Ronaldo
+- Cristiano Ronaldo — CR7 | Cristiano | Cristiano Ronaldo dos Santos Aveiro | Ronaldo (Portugal) | Portuguese Ronaldo | C Ronaldo | Ronaldo
 - Ronaldo Nazário — Ronaldo (Brazil) | Brazilian Ronaldo | Ronaldo Luís Nazário de Lima | Ronaldo de Lima | R9 | O Fenômeno | Il Fenomeno | El Fenómeno | The Phenomenon | Original Ronaldo
 - Zinedine Zidane — Zizou | Zidane
 - Ronaldinho — Ronaldinho Gaúcho | Ronaldo de Assis Moreira | R10
@@ -80,14 +80,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Josef Masopust — Joseph Masopust | Masopust
 - Flórián Albert — Albert Flórián | Albert
 
-## Refused on purpose (51)
+## Refused on purpose (48)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Ronaldo — "Which Ronaldo? Two of them have won it."
-- George — "Which George? Two of them have won it. The deep wants a surname."
-- Luis — "Which Luis? Two of them have won it. The deep wants a surname."
-- Lionel | Leo | Zinedine | Luka | Karim | Harry | Michael | Johan | Bobby | Franz | Michel | Marco | Andriy | Fabio | Ousmane | Roberto | Kevin | Ruud | Ada | Alfredo | Stanley | Stan | Lothar | Gerd | Lev | Denis | Paolo | Pavel | Hristo | Karl-Heinz | Raymond | Jean-Pierre | Gianni | Omar | Oleg | Allan | Igor | Josef | Flórián — "First names won't do here. The deep wants a surname."
+- Lionel | Leo | Zinedine | Luka | Karim | Harry | Michael | Johan | George | Bobby | Franz | Michel | Marco | Luis | Andriy | Fabio | Ousmane | Roberto | Kevin | Ruud | Ada | Alfredo | Stanley | Stan | Lothar | Gerd | Lev | Denis | Paolo | Pavel | Hristo | Karl-Heinz | Raymond | Jean-Pierre | Gianni | Omar | Oleg | Allan | Igor | Josef | Flórián — "First names won't do here. The deep wants a surname."
 - Pelé — "Only Europeans could win it in his day. He was given an honorary one in 2014."
 - Diego Maradona | Maradona | Diego Armando Maradona — "Only Europeans could win it in his day, so he never did."
 - Sócrates — "An award on the night bears his name, but only Europeans could win in his day."

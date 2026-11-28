@@ -13,8 +13,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (15)
 
 - Superman — Clark Kent | Kal-El | Man of Steel | Clark
-- Batman — Bruce Wayne | The Dark Knight | Caped Crusader | Batman Beyond | Terry McGinnis
-- Spider-Man — Peter Parker | Spidey | Friendly Neighbourhood Spider-Man | Friendly Neighborhood Spider-Man | Iron Spider
+- Batman — Bruce Wayne | The Dark Knight | Caped Crusader | Batman Beyond | Terry McGinnis | Bruce
+- Spider-Man — Peter Parker | Spidey | Friendly Neighbourhood Spider-Man | Friendly Neighborhood Spider-Man | Iron Spider | Peter
 - Wonder Woman — Diana Prince | Diana | Diana of Themyscira
 - Iron Man — Tony Stark | Stark | Tony | Ironan
 - Captain America — Steve Rogers | Cap | Capt America | Steve
@@ -34,10 +34,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hawkeye — Clint Barton | Ronin | Clint
 - Doctor Strange — Stephen Strange | Sorcerer Supreme
 - Captain Marvel — Carol Danvers | Warbird | Binary | Carol
-- Ant-Man — Scott Lang | Hank Pym | Giant-Man | Yellowjacket
+- Ant-Man — Scott Lang | Hank Pym | Giant-Man | Yellowjacket | Scott
 - Scarlet Witch — Wanda Maximoff | Wanda
 - Vision — White Vision
-- Falcon — Sam Wilson | Joaquin Torres
+- Falcon — Sam Wilson | Joaquin Torres | Sam
 - Winter Soldier — Bucky Barnes | Bucky | James Buchanan Barnes | White Wolf
 - Star-Lord — Peter Quill
 - Groot — Baby Groot | I am Groot
@@ -52,14 +52,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Catwoman — Selina Kyle | Selina
 - Supergirl — Kara Zor-El | Kara Danvers | Linda Lee | Kara
 - Batgirl — Barbara Gordon | Cassandra Cain | Orphan | Barbara
-- Green Arrow — Oliver Queen | Ollie | The Arrow
-- Mr. Incredible — Mister Incredible | Bob Parr
+- Green Arrow — Oliver Queen | Ollie | The Arrow | Oliver
+- Mr. Incredible — Mister Incredible | Bob Parr | Bob
 - Hellboy — Anung Un Rama
 - Silver Surfer — Norrin Radd | Shalla-Bal
-- Human Torch — Johnny Storm | Jim Hammond
+- Human Torch — Johnny Storm | Jim Hammond | Johnny
 - Mister Fantastic — Mr. Fantastic | Reed Richards | Reed
 - Ghost Rider — Johnny Blaze | Danny Ketch | Robbie Reyes | Spirit of Vengeance
-- Shazam — Billy Batson
+- Shazam — Billy Batson | Billy
 
 ### Tier 3: known to fans (114)
 
@@ -68,7 +68,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mantis
 - Nebula
 - Yondu — Yondu Udonta
-- Rogue — Anna Marie
+- Rogue — Anna Marie | Marie
 - Gambit — Remy LeBeau | Remy
 - Beast — Hank McCoy | Henry McCoy
 - Iceman — Bobby Drake
@@ -114,8 +114,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Spider-Gwen — Gwen Stacy | Ghost-Spider | Gwen
 - Spider-Woman — Jessica Drew | Julia Carpenter | Mattie Franklin
 - Luke Cage — Power Man
-- Iron Fist — Danny Rand
-- Jessica Jones — Jewel
+- Iron Fist — Danny Rand | Danny
+- Jessica Jones — Jewel | Jessica
 - Elektra — Elektra Natchios
 - Moon Knight — Marc Spector | Steven Grant | Mr. Knight
 - Shang-Chi — Master of Kung Fu
@@ -127,7 +127,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Shuri
 - Valkyrie — Brunnhilde
 - Yelena Belova — Yelena
-- Kate Bishop
+- Kate Bishop — Kate
 - Captain Carter — Peggy Carter | Agent Carter | Peggy
 - Squirrel Girl — Doreen Green
 - America Chavez — Miss America
@@ -152,7 +152,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - All Might — Toshinori Yagi
 - Deku — Izuku Midoriya | Midoriya | Izuku
 - Saitama — One-Punch Man | Caped Baldy
-- Ben 10 — Ben Tennyson
+- Ben 10 — Ben Tennyson | Ben
 - Static — Static Shock | Virgil Hawkins
 - Power Girl — Karen Starr
 - Superboy — Conner Kent | Kon-El | Jon Kent
@@ -172,7 +172,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Buttercup
 - He-Man — Prince Adam
 - Captain Underpants
-- Zorro — Diego de la Vega | Don Diego de la Vega
+- Zorro — Diego de la Vega | Don Diego de la Vega | Diego
 - Leonardo — Leo
 - Donatello — Donnie
 - Raphael — Raph
@@ -269,7 +269,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Atom Eve — Eve
 - Starlight — Annie January | Annie
 - Queen Maeve
-- Hiro Hamada
+- Hiro Hamada — Hiro
 - Megamind
 - Metro Man
 - Big Daddy
@@ -471,9 +471,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Soldier Boy
 - Kimiko
 - Translucent
-- Number Five — Five Hargreeves | Five
+- Number Five — Five Hargreeves | Five | Hargreeves
 - Luther Hargreeves — Spaceboy | Luther
-- Diego Hargreeves — The Kraken | Diego
+- Diego Hargreeves — The Kraken
 - Allison Hargreeves — The Rumor | The Rumour | Allison
 - Klaus Hargreeves — The Séance | Klaus
 - Vanya Hargreeves — Viktor Hargreeves | The White Violin | Vanya | Viktor
@@ -628,7 +628,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Dollar Bill
 - Silhouette
 - Looking Glass
-- Marie Moreau — Marie
+- Marie Moreau
 - Jordan Li
 - Robot — Rudy
 - Black Samson
@@ -637,7 +637,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Darkwing
 - Shrinking Rae
 - Bulletproof
-- Kid Omni-Man — Oliver Grayson | Oliver
+- Kid Omni-Man — Oliver Grayson
 - Judomaster — Rip Jagger
 - Karate Kid
 - Sun Boy
@@ -769,7 +769,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Detective Chimp
 - Captain Carrot — Rodney Rabbit
 
-## Refused on purpose (55)
+## Refused on purpose (42)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -807,8 +807,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Wonder Twins — "Pick one of the twins."
 - Cloak and Dagger — "Pick one of the pair."
 - Hawk and Dove — "Pick one of the pair."
-- Hargreeves — "Which Hargreeves? Sir Reginald adopted seven."
-- Hiro — "Which Hiro? Big Hero 6 and Heroes each have one."
 - Marvel | DC | DC Comics | Marvel Comics — "A publisher, not a hero. Name one of its heroes."
 - Avengers | X-Men | Justice League | Fantastic Four | Guardians of the Galaxy | Teen Titans | Titans | Thunderbolts | New Avengers | Defenders | Watchmen | The Incredibles | The Boys | Justice Society | Suicide Squad | Doom Patrol | Birds of Prey | Young Justice | Inhumans | Eternals | New Mutants | X-Force | Young Avengers | Great Lakes Avengers | Runaways | Alpha Flight | Power Rangers | Teenage Mutant Ninja Turtles | Ninja Turtles | TMNT | Turtles | Powerpuff Girls | Big Hero 6 | Umbrella Academy | PJ Masks | Sailor Scouts | Sailor Guardians | Legion of Super-Heroes | Super Friends | Planeteers | Shadowpact | Mighty Morphin Power Rangers | Justice League of America | JLA | Justice Society of America | JSA | The Seven | Mystery Men | Excalibur | X-Factor | Champions | Justice League Dark | Outsiders | Morlocks | The Authority | WildC.A.T.s | Minutemen | Guardians of the Globe | Legion of Super-Pets | Guardians | West Coast Avengers | Secret Avengers — "A whole team. Name one of its members."
 - Stan Lee — "He made the heroes, and made cameos, but he wasn't one."
@@ -816,15 +814,4 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Robert Downey Jr. | Chris Evans | Chris Hemsworth | Henry Cavill | Christopher Reeve | Hugh Jackman | Ryan Reynolds | Tom Holland | Gal Gadot | Lynda Carter | Christian Bale | Michael Keaton | Adam West | Robert Pattinson | Ben Affleck | Scarlett Johansson | Mark Ruffalo | Chadwick Boseman | Benedict Cumberbatch | Brie Larson | Tobey Maguire | Andrew Garfield | Tom Hiddleston | Jason Momoa | David Corenswet | Florence Pugh | Pedro Pascal — "A real actor, not a superhero. Try the part instead."
 - Luffy | Monkey D. Luffy — "A pirate, not a superhero, however far he can stretch."
 - Ronan the Accuser | Ronan — "A Kree villain, not a hero."
-- Bruce — "Which Bruce? Batman and the Hulk both answer to it."
-- Peter — "Which Peter? Spider-Man and Star-Lord are only the start."
-- Scott — "Which Scott? Ant-Man and Cyclops both answer to it."
-- Sam — "Which Sam? The Falcon is only one of them."
-- Johnny — "Which Johnny? More than one hero answers to it."
-- Billy — "Which Billy? Shazam is only one of them."
-- Ben — "Which Ben? More than one hero answers to it."
-- Danny — "Which Danny? More than one hero answers to it."
-- Kate — "Which Kate? More than one hero answers to it."
-- Jessica — "Which Jessica? One of them is a Green Lantern."
-- Bob — "Which Bob? Mr. Incredible is only one of them."
 - Ichigo | Ichigo Kurosaki — "A Soul Reaper, not a superhero."

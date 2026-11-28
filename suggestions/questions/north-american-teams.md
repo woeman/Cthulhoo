@@ -2,7 +2,7 @@
 
 Question id: `north-american-teams` · category: sport · source: `data/sport.json`
 
-Rules: Any team from these leagues, past or present, under any of its names. For baseball, any league MLB counts as major, the Negro leagues included. A city or nickname alone will do when it fits just one of today's teams.
+Rules: Any team from these leagues, past or present, under any of its names. For baseball, any league MLB counts as major, the Negro leagues included. A city or nickname alone will do, and one that several teams share counts for the best known of them.
 
 The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
 
@@ -12,41 +12,41 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (12)
 
-- Dallas Cowboys — America's Team | Cowboys
+- Dallas Cowboys — America's Team | Cowboys | Dallas
 - Green Bay Packers — Pack | Packers | Green Bay
-- Kansas City Chiefs — Dallas Texans | KC Chiefs | Chiefs
-- Miami Dolphins — Fins | Dolphins
+- Kansas City Chiefs — Dallas Texans | KC Chiefs | Chiefs | Kansas City | KC
+- Miami Dolphins — Fins | Dolphins | Miami
 - New England Patriots — Pats | NE Patriots | Boston Patriots | Patriots | New England
-- Boston Celtics — Celts | Celtics
-- Chicago Bulls — Bulls
+- Boston Celtics — Celts | Celtics | Boston
+- Chicago Bulls — Bulls | Chicago
 - Golden State Warriors — Dubs | GSW | Philadelphia Warriors | San Francisco Warriors | Warriors | Golden State
-- Los Angeles Lakers — Minneapolis Lakers | LA Lakers | Lakers
+- Los Angeles Lakers — Minneapolis Lakers | LA Lakers | Lakers | Los Angeles | LA
 - New York Knicks — Nicks | New York Nicks | Knickerbockers | New York Knickerbockers | NY Knicks | Knicks
-- Boston Red Sox — BoSox | Boston Americans | Boston Pilgrims | Red Sox
-- New York Yankees — Yanks | Bronx Bombers | New York Highlanders | New York Yanks | NY Yankees | Yankees
+- Boston Red Sox — BoSox | Boston Americans | Boston Pilgrims | Red Sox | Sox
+- New York Yankees — Yanks | Bronx Bombers | New York Highlanders | New York Yanks | NY Yankees | Yankees | New York | NY | NYC | New York City
 
 ### Tier 2: common (35)
 
-- Baltimore Ravens — Ravens
-- Buffalo Bills — Bills
+- Baltimore Ravens — Ravens | Baltimore
+- Buffalo Bills — Bills | Buffalo
 - Chicago Bears — Da Bears | Decatur Staleys | Chicago Staleys | Bears
-- Denver Broncos — Broncos
+- Denver Broncos — Broncos | Denver
 - Jacksonville Jaguars — Jags | Jaguars | Jacksonville
-- Las Vegas Raiders — Oakland Raiders | Los Angeles Raiders | LA Raiders | Vegas Raiders | Raiders
+- Las Vegas Raiders — Oakland Raiders | Los Angeles Raiders | LA Raiders | Vegas Raiders | Raiders | Las Vegas | Vegas | Oakland
 - Los Angeles Rams — St. Louis Rams | Cleveland Rams | LA Rams | Rams
-- Minnesota Vikings — Vikes | Vikings
-- New York Giants — Big Blue | G-Men | New York Football Giants | NY Giants
-- New York Jets — New York Titans | Gang Green | NY Jets
-- Philadelphia Eagles — Philly Eagles | Eagles
-- Pittsburgh Steelers — Steelers
-- San Francisco 49ers — Niners | Forty Niners | SF 49ers | 49ers
-- Seattle Seahawks — Seahawks
-- Tampa Bay Buccaneers — Bucs | Tampa Bay Bucs | Tampa Buccaneers | Buccaneers
-- Washington Commanders — Washington Football Team | Commanders
+- Minnesota Vikings — Vikes | Vikings | Minnesota
+- New York Giants — Big Blue | G-Men | New York Football Giants | NY Giants | Giants
+- New York Jets — New York Titans | Gang Green | NY Jets | Jets
+- Philadelphia Eagles — Philly Eagles | Eagles | Philadelphia | Philly
+- Pittsburgh Steelers — Steelers | Pittsburgh
+- San Francisco 49ers — Niners | Forty Niners | SF 49ers | 49ers | San Francisco | SF
+- Seattle Seahawks — Seahawks | Seattle
+- Tampa Bay Buccaneers — Bucs | Tampa Bay Bucs | Tampa Buccaneers | Buccaneers | Tampa Bay | Tampa
+- Washington Commanders — Washington Football Team | Commanders | Washington | DC | Washington DC
 - Brooklyn Nets — New Jersey Nets | NJ Nets | New York Nets | New Jersey Americans | Nets | Brooklyn
-- Cleveland Cavaliers — Cavs | Cavaliers
+- Cleveland Cavaliers — Cavs | Cavaliers | Cleveland
 - Detroit Pistons — Fort Wayne Pistons | Pistons
-- Houston Rockets — San Diego Rockets | Rockets
+- Houston Rockets — San Diego Rockets | Rockets | Houston
 - Miami Heat — Heat
 - Philadelphia 76ers — Sixers | Seventy-Sixers | Philadelphia Seventy-Sixers | Philadelphia Sixers | Philly Sixers | Syracuse Nationals | Philly 76ers | 76ers
 - San Antonio Spurs — Dallas Chaparrals | Texas Chaparrals | Spurs | San Antonio
@@ -56,25 +56,25 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - New York Mets — Amazin' Mets | NY Mets | Mets
 - Boston Bruins — Bruins
 - Chicago Blackhawks — Blackhawks
-- Detroit Red Wings — Wings | Detroit Cougars | Red Wings
+- Detroit Red Wings — Wings | Detroit Cougars | Red Wings | Detroit
 - Edmonton Oilers — Alberta Oilers | Oilers | Edmonton
 - Montreal Canadiens — Habs | Montreal Canadians | Canadiens de Montreal | Les Canadiens | Canadiens | Montreal
-- New York Rangers — Blueshirts | NY Rangers
+- New York Rangers — Blueshirts | NY Rangers | Rangers
 - Pittsburgh Penguins — Pens | Penguins
-- Toronto Maple Leafs — Leafs | Toronto Arenas | Toronto St. Patricks | Toronto St. Pats | St. Pats | Maple Leafs
+- Toronto Maple Leafs — Leafs | Toronto Arenas | Toronto St. Patricks | Toronto St. Pats | St. Pats | Maple Leafs | Toronto
 
 ### Tier 3: known to fans (46)
 
-- Arizona Cardinals — Phoenix Cardinals | Chicago Cardinals | Racine Cardinals
+- Arizona Cardinals — Phoenix Cardinals | Chicago Cardinals | Racine Cardinals | Arizona
 - Atlanta Falcons — Falcons
-- Carolina Panthers
-- Cincinnati Bengals — Bengals
+- Carolina Panthers — Panthers | Carolina
+- Cincinnati Bengals — Bengals | Cincinnati
 - Cleveland Browns — Browns
 - Detroit Lions — Portsmouth Spartans | Lions
 - Houston Texans — Texans
 - Indianapolis Colts — Baltimore Colts | Indy Colts | Colts | Indianapolis
 - Los Angeles Chargers — San Diego Chargers | LA Chargers | Chargers
-- New Orleans Saints — Saints
+- New Orleans Saints — Saints | New Orleans
 - Tennessee Titans — Houston Oilers | Tennessee Oilers | Titans | Tennessee
 - Atlanta Hawks — St. Louis Hawks | Milwaukee Hawks | Tri-Cities Blackhawks | Hawks
 - Charlotte Hornets — Charlotte Bobcats | Bobcats | Hornets | Charlotte
@@ -83,7 +83,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Indiana Pacers — Pacers | Indiana
 - Los Angeles Clippers — Clips | San Diego Clippers | Buffalo Braves | LA Clippers | Clippers
 - Memphis Grizzlies — Grizz | Vancouver Grizzlies | Grizzlies | Memphis
-- Milwaukee Bucks — Bucks
+- Milwaukee Bucks — Bucks | Milwaukee
 - Minnesota Timberwolves — T-Wolves | Wolves | Timberwolves
 - New Orleans Pelicans — Pels | New Orleans Hornets | New Orleans/Oklahoma City Hornets | Oklahoma City Hornets | NO/OKC Hornets | Pelicans
 - Oklahoma City Thunder — Seattle SuperSonics | SuperSonics | Sonics | Seattle Sonics | OKC | Oklahoma | Oklahoma Thunder | OKC Thunder | Thunder | Oklahoma City
@@ -91,23 +91,23 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Phoenix Suns — Suns | Phoenix
 - Portland Trail Blazers — Blazers | Trailblazers | Portland
 - Sacramento Kings — Kansas City Kings | Cincinnati Royals | Rochester Royals | Kansas City-Omaha Kings | Omaha Kings | Sacramento
-- Utah Jazz — New Orleans Jazz | Jazz
+- Utah Jazz — New Orleans Jazz | Jazz | Utah
 - Washington Wizards — Washington Bullets | Bullets | Baltimore Bullets | Capital Bullets | Chicago Zephyrs | Chicago Packers | Wizards
-- Atlanta Braves — Boston Braves | Milwaukee Braves | Boston Beaneaters | Boston Bees | Boston Doves | Boston Red Stockings | Boston Red Caps | Boston Rustlers | Braves
+- Atlanta Braves — Boston Braves | Milwaukee Braves | Boston Beaneaters | Boston Bees | Boston Doves | Boston Red Stockings | Boston Red Caps | Boston Rustlers | Braves | Atlanta
 - Baltimore Orioles — O's | St. Louis Browns | Orioles
 - Detroit Tigers — Tigers
 - Houston Astros — Stros | Houston Colt .45s | Colt .45s | Astros
 - Philadelphia Phillies — Phils | Philly Phillies | Phillies
 - San Francisco Giants — New York Gothams | SF Giants
 - Seattle Mariners — M's | Mariners
-- St. Louis Cardinals — St. Louis Perfectos | St. Louis Brown Stockings
+- St. Louis Cardinals — St. Louis Perfectos | St. Louis Brown Stockings | Cardinals | St. Louis | Cards
 - Toronto Blue Jays — Jays | Blue Jays
 - Calgary Flames — Atlanta Flames | Flames | Calgary
-- Colorado Avalanche — Avs | Quebec Nordiques | Nordiques | Avalanche
-- Los Angeles Kings — LA Kings
+- Colorado Avalanche — Avs | Quebec Nordiques | Nordiques | Avalanche | Colorado
+- Los Angeles Kings — LA Kings | Kings
 - New York Islanders — Isles | NY Islanders | Islanders
 - Philadelphia Flyers — Broad Street Bullies | Philly Flyers | Flyers
-- Tampa Bay Lightning — Tampa Lightning | Lightning
+- Tampa Bay Lightning — Tampa Lightning | Lightning | Bolts
 - Vancouver Canucks — Nucks | Canucks | Vancouver
 - Vegas Golden Knights — VGK | Knights | Las Vegas Golden Knights | Golden Knights
 - Washington Capitals — Caps | Capitals
@@ -201,7 +201,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - St. Louis Bombers
 - Waterloo Hawks
 - Washington Capitols
-- Montreal Maroons
+- Montreal Maroons — Maroons
 - Montreal Wanderers
 - Hamilton Tigers — Quebec Bulldogs
 - New York Americans — NY Americans | Brooklyn Americans
@@ -312,52 +312,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Toronto Huskies
 - Cleveland Spiders
 
-## Refused on purpose (60)
+## Refused on purpose (18)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Cardinals — "Which Cardinals? There's one in the NFL and one in baseball."
-- Panthers — "Which Panthers? There's one in the NFL and one in the NHL."
-- Giants — "Which Giants? There's one in the NFL and one in baseball."
-- Jets — "Which Jets? There's one in the NFL and one in the NHL."
-- Kings — "Which Kings? There's one in the NBA and one in the NHL."
-- Rangers — "Which Rangers? There's one in baseball and one in the NHL."
-- Arizona — "Which Arizona team? Two carry the name today."
-- Atlanta — "Which Atlanta team? Three carry the name today."
-- Baltimore — "Which Baltimore team? Two carry the name today."
-- Buffalo — "Which Buffalo team? Two carry the name today."
-- Carolina — "Which Carolina team? Two carry the name today."
-- Chicago — "Which Chicago team? Five carry the name today."
-- Cincinnati — "Which Cincinnati team? Two carry the name today."
-- Cleveland — "Which Cleveland team? Three carry the name today."
-- Dallas — "Which Dallas team? Three carry the name today."
-- Denver — "Which Denver team? Two carry the name today."
-- Detroit — "Which Detroit team? Four carry the name today."
-- Houston — "Which Houston team? Three carry the name today."
-- Kansas City | KC — "Which Kansas City team? Two carry the name today."
-- Las Vegas | Vegas — "Which Las Vegas team? Two carry the name today."
-- Los Angeles | LA — "Which Los Angeles team? Seven carry the name today."
-- Miami — "Which Miami team? Three carry the name today."
-- Minnesota — "Which Minnesota team? Four carry the name today."
-- New Orleans — "Which New Orleans team? Two carry the name today."
-- New York | NY | NYC | New York City — "Which New York team? Seven carry the name today."
-- Philadelphia | Philly — "Which Philadelphia team? Four carry the name today."
-- Pittsburgh — "Which Pittsburgh team? Three carry the name today."
-- San Francisco | SF — "Which San Francisco team? Two carry the name today."
-- Seattle — "Which Seattle team? Three carry the name today."
-- Tampa Bay | Tampa — "Which Tampa Bay team? Three carry the name today."
-- Washington | DC | Washington DC — "Which Washington team? Four carry the name today."
-- Boston — "Which Boston team? Three carry the name today."
-- Milwaukee — "Which Milwaukee team? Two carry the name today."
-- Toronto — "Which Toronto team? Three carry the name today."
-- Utah — "Which Utah team? Two carry the name today."
-- Colorado — "Which Colorado team? Two carry the name today."
-- St. Louis — "Which St. Louis team? Two carry the name today."
-- Cards — "Which Cards? There are Cardinals in the NFL and in baseball."
-- Sox — "Which Sox? Red or White?"
-- Bolts — "Which Bolts? An NFL team and an NHL team both answer to it."
-- Maroons — "Which Maroons? Hockey, football and baseball have all had teams by that name."
-- Oakland — "Which Oakland team? Three have left the city since 2019."
 - Washington Redskins | Redskins | Boston Redskins — "The team dropped that name, a racial slur, in 2020. They're the Washington Commanders now."
 - Sheboygan Red Skins | Sheboygan — "A real NBA team for one season, 1949–50, but its name is a slur, so the deep won't take it."
 - London — "No team in these leagues calls London home, though the NFL visits for a few games each year."

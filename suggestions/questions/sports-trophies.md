@@ -44,10 +44,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wanamaker Trophy — Wanamaker | Rodman Wanamaker Trophy | PGA Championship trophy
 - Solheim Cup
 - Billie Jean King Cup — Fed Cup | Federation Cup | BJK Cup
-- Venus Rosewater Dish — Rosewater Dish
+- Venus Rosewater Dish — Rosewater Dish | Wimbledon trophy
 - Lonsdale Belt — Lonsdale | Lonsdale Challenge Belt
 - Melbourne Cup
-- Cheltenham Gold Cup
+- Cheltenham Gold Cup — Gold Cup
 - Sam Maguire Cup — Sam Maguire | Sam
 - Liam MacCarthy Cup — Liam MacCarthy | Liam McCarthy Cup | Liam McCarthy | Liam
 - Yellow jersey — Maillot jaune
@@ -82,7 +82,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - FedEx Cup
 - Hopman Cup
 - Laver Cup
-- Coupe des Mousquetaires — Musketeers' Cup | Musketeers Trophy
+- Coupe des Mousquetaires — Musketeers' Cup | Musketeers Trophy | French Open trophy
 - Gentlemen's Singles Trophy
 - Border–Gavaskar Trophy — BGT
 - Ranji Trophy
@@ -146,7 +146,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Masters Trophy
 - Wightman Cup
 - United Cup
-- Norman Brookes Challenge Cup — Norman Brookes Cup
+- Norman Brookes Challenge Cup — Norman Brookes Cup | Australian Open trophy
 - Daphne Akhurst Memorial Cup — Daphne Akhurst Cup
 - Coupe Suzanne Lenglen — Suzanne Lenglen Cup
 - World Test Championship mace — Test Championship mace | Test mace | WTC mace
@@ -460,11 +460,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Floyd of Rosedale
 - Challenge Belt — Open Championship belt
 
-## Refused on purpose (20)
+## Refused on purpose (19)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Gold Cup — "Which Gold Cup? Name the race or the tournament."
 - Champions League | UEFA Champions League | Europa League | UEFA Europa League | Conference League | Europa Conference League | UEFA Conference League | Nations League | UEFA Nations League — "That's the competition. Its trophy has a name of its own."
 - Premier League | La Liga | Serie A | Bundesliga | Ligue 1 | Super League | NRL | AFL | Eredivisie | Premiership | Six Nations | Six Nations Championship | MLS | Major League Soccer | NFL | NBA | NHL | MLB | IPL | Super Rugby — "That's the league. Name its trophy."
 - Super Bowl — "That's the game. Its trophy is named after a famous coach."
@@ -472,7 +471,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - NBA Finals | NBA Championship — "That's the series. Its trophy is named after a former commissioner."
 - The Open | Open Championship | British Open — "That's the championship. Its winner gets a jug."
 - The Masters | Augusta — "That's the tournament. Its winner gets a jacket."
-- Wimbledon | Wimbledon trophy | Australian Open trophy | French Open trophy — "Which trophy? The men's and women's singles champions get different ones."
+- Wimbledon — "That's the tournament. Its trophies have names of their own."
 - Tour de France | Giro d'Italia | Vuelta a España — "That's the race. Its leader wears a jersey."
 - Olympic gold medal | Olympic gold | Gold medal | Olympic medal | Silver medal | Bronze medal | Medal — "A medal, not a trophy."
 - Olympics | Olympic Games | Commonwealth Games | Paralympics — "The Olympics hand out medals, not trophies."

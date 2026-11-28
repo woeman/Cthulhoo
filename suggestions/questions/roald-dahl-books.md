@@ -12,7 +12,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (8)
 
-- Charlie and the Chocolate Factory — The Chocolate Factory
+- Charlie and the Chocolate Factory — The Chocolate Factory | Charlie
 - Matilda
 - The BFG — The Big Friendly Giant
 - The Witches
@@ -90,7 +90,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Roald Dahl's Guide to Railway Safety — Guide to Railway Safety
 - The Mildenhall Treasure
 
-## Refused on purpose (32)
+## Refused on purpose (31)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -101,7 +101,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Chitty-Chitty-Bang-Bang — "Ian Fleming wrote the book. Dahl wrote the 1968 film's screenplay."
 - You Only Live Twice — "Ian Fleming's novel. Dahl wrote the 1967 Bond film's screenplay."
 - Charlie in the White House — "An unfinished third Charlie book. Only a draft chapter survives."
-- Charlie — "Which Charlie book? There are two."
 - Willy Wonka | Oompa-Loompa | Oompa-Loompas | Augustus Gloop | Veruca Salt | Violet Beauregarde | Mike Teavee | Charlie Bucket | Grandpa Joe | Miss Trunchbull | Trunchbull | Miss Honey | The Grand High Witch | Mr Twit | Mrs Twit | Sophie | Snozzcumber | Mr Fox's Family | Boggis, Bunce and Bean — "From one of his books, not the title of one. Name the book."
 - Quentin Blake — "His illustrator, not a book."
 - Roald Dahl | Dahl — "The author, not a book."

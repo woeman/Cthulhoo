@@ -1,0 +1,443 @@
+# Name a mythical or legendary place.
+
+Question id: `mythical-places` · category: myth · source: `data/myth.json`
+
+Rules: Any place from myth, legend, folklore or scripture, from lost lands and phantom islands to the homes of gods and the dead. Places later writers made up, such as Shangri-La, don't count, and nor do real places that are simply famous.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (366 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (9)
+
+- Atlantis — Lost city of Atlantis | Atalantis | Atlantida | Lost Atlantis
+- El Dorado — City of Gold | Lost City of Gold | Manoa | El Dourado
+- Camelot — Camelott | Kamelot
+- Avalon — Isle of Avalon | Ynys Afallon | Insula Avallonis | Isle of Apples | Avallon | Avilion
+- Mount Olympus — Olympus | Olympos | Mount Olympos
+- Asgard — Asgardr
+- Valhalla — Valhöll | Walhalla | Hall of the Slain
+- Garden of Eden — Eden | Gan Eden | Paradise of Eden | Earthly Paradise
+- Troy — Ilium | Ilion | Troia | Wilusa | City of Troy
+
+### Tier 2: common (30)
+
+- Lemuria
+- Mu — Lost continent of Mu | Land of Mu
+- Lyonesse — Lyonnesse | Lionesse | Leonais | Lethowsow | Lyoness
+- Shambhala — Shambala | Shamballa | Kalapa
+- Hyperborea — Land of the Hyperboreans | Hyperboreans
+- Thule — Ultima Thule | Thoule
+- Hy-Brasil — Hy-Breasal | Hy Breasail | Isle of Brasil | O'Brazil | Brasil Island | Breasal | Brasil
+- Fountain of Youth — Fountain of eternal youth | Waters of youth
+- Tír na nÓg — Land of Youth | Tír na hÓige | Land of the Young | Land of Eternal Youth
+- Elysium — Elysian Fields | Elysian Plain | Elysion | Fields of Elysium
+- Hades — Greek underworld | House of Hades | Realm of Hades | Gates of Hades
+- Tartarus — Tartaros
+- Labyrinth — Cretan Labyrinth | Labyrinth of the Minotaur | Labyrinth of Crete | Minotaur's labyrinth
+- Tower of Babel — Babel | Babel tower
+- Sodom — Sodom and Gomorrah
+- Gomorrah — Gomorra
+- Heaven — Kingdom of Heaven | Heavens | Pearly Gates | Gates of Heaven
+- Hell — Inferno | Hellfire | Nine circles of Hell | Circles of Hell | Dante's Inferno
+- Paradise — Paradiso
+- Midgard — Miðgarðr | Mannheim
+- Jotunheim — Jötunheimr | Land of the giants
+- Bifröst — Bilröst | Rainbow Bridge
+- Yggdrasil — Yggdrasill | World Tree | World Ash
+- Hel — Helheim | Helheimr
+- Mount Meru — Meru | Sumeru | Mount Sumeru | Mahameru | Sineru
+- Kunlun — Mount Kunlun | Kunlun Mountain | Kunlun Shan
+- Fairyland — Faerie | Faery | Elfame | Elfhame | Elphame | Land of Faerie | Elfland | Fairy realm
+- Bermuda Triangle — Devil's Triangle
+- Styx — River Styx | Styx river
+- Stonehenge — Giants' Dance | Chorea Gigantum
+
+### Tier 3: known to fans (67)
+
+- Ys — Is | Ker-Is | Ker Ys | City of Ys
+- Kitezh — Kitezh-grad | Kitej | Great Kitezh | Lake Svetloyar | Svetloyar
+- Iram of the Pillars — Iram | Irem | Iram dhat al-Imad | Ubar | Wabar | Atlantis of the Sands | City of Pillars | Irem of the Pillars
+- Cantre'r Gwaelod — Lowland Hundred | Cantref Gwaelod | Maes Gwyddno | Welsh Atlantis
+- Vineta — Wineta | Vinetta
+- Cíbola — Seven Cities of Gold | Seven Cities of Cíbola
+- Aztlán — Aztatlan | Aztec homeland
+- Agartha — Agharta | Agarttha | Hollow Earth | Asgartha
+- Prester John's kingdom — Prester John | Kingdom of Prester John | Land of Prester John
+- Logres — Loegria | Lloegyr | Logris | Kingdom of Logres
+- Brocéliande — Forest of Brocéliande | Brecheliant | Paimpont forest
+- Annwn — Annwfn | Annwyn
+- Mag Mell — Magh Meall | Plain of Delight
+- Alfheim — Álfheimr | Ljosalfheim | Ljósálfheimr
+- Vanaheim — Vanaheimr
+- Muspelheim — Muspell | Muspellsheimr | Muspelheimr | Muspel
+- Niflheim — Niflheimr | Niflhel
+- Svartalfheim — Svartálfaheimr | Svartalfaheim | Nidavellir
+- Arcadia — Arcady | Arkadia
+- Aeaea — Aiaia | Circe's island | Island of Circe
+- Ogygia — Calypso's island | Island of Calypso
+- Garden of the Hesperides — Hesperides | Garden of Hesperides | Islands of the Hesperides
+- Isles of the Blessed — Islands of the Blessed | Fortunate Isles | Blessed Isles | Isles of the Blest | Fortunate Islands
+- Asphodel Meadows — Asphodel Fields | Fields of Asphodel | Asphodel
+- Penglai — Mount Penglai | Penglai Island | Hōrai | Mount Hōrai | Penglai Shan | Penglai Mountain
+- Takamagahara — Takamanohara | Plain of High Heaven | High Plain of Heaven
+- Ryūgū-jō — Ryugu | Dragon Palace | Palace of the Dragon King | Dragon King's palace | Longgong | Dragon Palace of the East Sea
+- Oni-ga-shima — Island of Ogres | Ogre Island | Demon Island | Island of the Oni
+- Yomi — Yomi-no-kuni | Land of Yomi
+- Duat — Tuat | Dwat
+- Field of Reeds — Aaru | Sekhet-Aaru | Field of Rushes | Fields of Aaru
+- Dilmun — Tilmun | Telmun
+- Ophir — Land of Ophir | King Solomon's Mines | Solomon's mines
+- Land of Nod — Nod | Land of Od
+- Purgatory — Purgatorio | Mount Purgatory
+- Limbo
+- Jannah — Janna | Jannat | Al-Jannah
+- Svarga — Swarga | Swarg | Svargaloka | Swargalok | Indraloka
+- Pohjola — Pohja | Sariola | Northland
+- Tuonela — Manala
+- Buyan — Bujan | Island of Buyan
+- Baba Yaga's hut — Hut on chicken legs | Izbushka | Chicken-legged hut | Baba Yaga's house | House on chicken legs
+- Cockaigne — Land of Cockaigne | Cockayne | Cocagne | Schlaraffenland | Luilekkerland | Lubberland | Cuccagna
+- Gingerbread house — Gingerbread cottage | Witch's gingerbread house | Candy house
+- Xibalba — Shibalba
+- Mictlan
+- Hawaiki — Havaiki | Hawaiiki | Kahiki
+- Happy Hunting Ground — Happy Hunting Grounds
+- Tintagel — Tintagel Castle
+- Sherwood Forest — Sherwood
+- Xanadu — Shangdu | Shang-tu | Xamdu
+- Lethe — River Lethe | River of Forgetfulness | River of Oblivion
+- Mount Sinai — Sinai | Mount Horeb | Horeb | Jabal Musa
+- Promised Land — Land of Canaan | Canaan | Land of milk and honey | Land flowing with milk and honey
+- Armageddon — Har Megiddo | Harmagedon
+- Hanging Gardens of Babylon — Hanging Gardens | Gardens of Babylon
+- Jahannam — Jahanam | Jahannum
+- Colchis — Kolkhis | Kolchis
+- Mount Parnassus — Parnassus | Parnassos
+- Tara — Hill of Tara | Temair | Teamhair
+- Sídhe — Sidhe mound | Fairy mound | Fairy fort | Sid | Sidh
+- Fairy ring — Fairy circle | Elf circle | Pixie ring | Elf ring
+- Giant's Causeway
+- Ram Setu — Rama Setu | Rama's Bridge | Adam's Bridge | Setu Bandhan | Nala Setu
+- Ama-no-Iwato — Heavenly Rock Cave | Rock Cave of Heaven | Amaterasu's cave | Ama-no-Iwaya
+- Sanzu River — Sanzu | River Sanzu | Sanzu no Kawa | River of Three Crossings
+- Delphi — Oracle of Delphi | Delphic Oracle | Delphoi
+
+### Tier 4: obscure (112)
+
+- Quivira — Gran Quivira
+- Paititi — Paytiti
+- City of the Caesars — City of the Césares | Ciudad de los Césares | Wandering City | Trapalanda
+- Lost City of Z — City of Z
+- Ciudad Blanca — White City | La Ciudad Blanca | City of the Monkey God | Lost City of the Monkey God
+- Chicomoztoc — Place of Seven Caves | Seven Caves
+- Tollan — Tollan-Xicocotitlan
+- Tlalocan
+- Kumari Kandam — Kumari Nadu
+- Saint Brendan's Island — Isle of St Brendan | Brendan's Isle | Promised Land of the Saints | San Borondón
+- Antillia — Antilia | Isle of Seven Cities | Island of the Seven Cities | Sete Cidades
+- Terra Australis — Terra Australis Incognita | Great Southern Continent | Unknown Southern Land
+- Mountains of the Moon — Lunae Montes | Montes Lunae
+- Corbenic — Carbonek | Grail Castle | Castle of the Grail | Castle Carbonek
+- Joyous Gard — Joyous Garde | Joyeuse Garde | Dolorous Gard | Dolorous Garde
+- Astolat — Shalott | Escalot | Ascolat
+- Emain Ablach — Emhain Abhlach | Isle of Apple Trees
+- Tír Tairngire — Land of Promise
+- Tír fo Thuinn — Land under the Wave | Land Under Wave
+- Utgard — Útgarðr
+- Ginnungagap
+- Gimlé
+- Fólkvangr — Folkvang | Sessrúmnir | Freyja's hall
+- Mímir's well — Mímisbrunnr | Well of Mimir | Well of wisdom
+- Urd's well — Urðarbrunnr | Well of Urd | Well of Urðr | Well of Fate
+- Scheria — Phaeacia | Land of the Phaeacians | Skheria
+- Symplegades — Clashing Rocks | Cyanean Rocks | Wandering Rocks | Planctae
+- Themiscyra — Themyscira | Themiskyra | City of the Amazons
+- Mount Othrys — Othrys
+- Pillars of Hercules — Pillars of Heracles | Columns of Hercules
+- Mount Ararat — Ararat | Mountains of Ararat
+- Venusberg — Hörselberg | Mountain of Venus | Venus Mountain
+- Glass Mountain — Glass Hill | Mountain of glass | Glasberg
+- East of the Sun and West of the Moon — East of the Sun, West of the Moon | Castle East of the Sun
+- Rapunzel's tower — Tower of Rapunzel
+- Sleeping Beauty's castle — Briar Rose's castle | Castle of Sleeping Beauty
+- Giant's castle — Castle in the clouds | Castle in the sky | Giant's castle in the clouds
+- Belovodye — Belovodie | White Waters | Kingdom of White Waters
+- Thrice-Ninth Kingdom — Tridevyatoye tsarstvo | Thrice-Tenth Kingdom | Tridesyatoye tsarstvo
+- Vyraj — Iriy | Vyrai | Wyraj | Irij
+- Kalevala — Land of Kaleva
+- Mount Qaf — Qaf | Kaf | Mount Kaf | Kuh-e Qaf | Jabal Qaf
+- City of Brass — Brass City | Madinat an-Nuhas
+- Lanka — Golden Lanka | Ravana's Lanka | Swarna Lanka | Lankapuri
+- Dvaraka — Dwarka | Dwaraka | Dvarka | Dwarkapuri | Dwaravati
+- Jambudvipa — Jambudweep
+- Ksheer Sagar — Kshira Sagara | Ocean of Milk | Milky Ocean | Sea of milk
+- Kailash — Mount Kailash | Kailasa | Kailas
+- Vaikuntha — Vaikunth | Vaikunta | Vaikuntham
+- Patala — Pathala | Paatal | Patal Lok | Patala Loka
+- Naraka — Narakam
+- Pure Land — Sukhavati | Western Paradise | Gokuraku
+- Fusang — Fusang tree | Fusō
+- Peach Blossom Spring — Peach Blossom Land | Taohuayuan | Land of Peach Blossoms | Peach Blossom Valley
+- Heavenly Palace — Celestial Palace | Palace of the Jade Emperor | Jade Emperor's palace | Heavenly Court | Tiangong | Tianting
+- Flower Fruit Mountain — Mount Huaguo | Huaguo Shan | Mountain of Flowers and Fruit | Flower and Fruit Mountain | Water Curtain Cave | Shuilian Dong
+- Moon Palace — Guanghan Palace | Palace of the Moon | Chang'e's palace | Palace of Boundless Cold
+- Mount Buzhou — Buzhou | Buzhou Mountain | Buzhoushan
+- Dragon Gate — Longmen | Dragon's Gate
+- Diyu — Chinese hell | Ten Courts of Hell
+- Huangquan — Yellow Springs
+- Tokoyo — Tokoyo no Kuni | Eternal Land
+- Onogoro-shima — Onogoro | Onogoro Island
+- Land of Punt — Punt | Pwenet | God's Land | Ta Netjer
+- Davy Jones's Locker — Davy Jones' Locker
+- Fiddler's Green
+- Sheol
+- Gehenna — Gehinnom
+- New Jerusalem — Heavenly Jerusalem | Celestial City
+- Glastonbury Tor — Glastonbury | Isle of Glass | Ynys Wydrin
+- Vinland — Vineland | Wineland
+- Kur — Irkalla | Arallu | Kurnugi | Land of No Return
+- Cloud Cuckoo Land — Nephelokokkygia
+- Acheron — River Acheron | River of Woe
+- Erebus — Erebos
+- Newgrange — Brú na Bóinne | Brugh na Bóinne
+- Bimini — Bimini Islands | Bimini Road
+- Mount Tai — Taishan | Mount Taishan | Dongyue
+- Bottomless pit — Abyss | Abaddon
+- Hellmouth — Mouth of Hell | Gates of Hell | Gate of Hell
+- St Patrick's Purgatory — Saint Patrick's Purgatory | Lough Derg cave
+- Island of the Sirens — Anthemoessa | Sirens' island | Isle of the Sirens | Sirenum scopuli
+- Mount Helicon — Helicon
+- Lake Avernus — Avernus
+- Cave of the Sibyl — Sibyl's cave | Cumaean Sibyl's cave | Antro della Sibilla | Cumae
+- Mount Mashu — Mashu
+- Cedar Forest — Forest of Cedars | Humbaba's forest | Cedar Mountain
+- Chinvat Bridge — Chinvat | Bridge of the Separator | Cinvat Bridge | Bridge of Judgement
+- Hara Berezaiti — High Hara | Alborz | Mount Alborz | Elburz
+- Emain Macha — Navan Fort | Emania
+- Caerleon — Caerleon-on-Usk | City of the Legions
+- Camlann — Battle of Camlann | Camlan
+- Green Chapel
+- Waste Land — Waste Land of the Fisher King
+- Náströnd — Corpse Shore | Shore of Corpses
+- Brocken — Blocksberg
+- Rungholt
+- Lost Dutchman's Mine — Lost Dutchman Mine | Lost Dutchman Gold Mine
+- Oak Island — Oak Island Money Pit | Money Pit
+- Mount Mandara — Mandara | Mandarachala
+- Brahmaloka — Satyaloka | Brahmalok | Brahmapura
+- Yamaloka — Yamapuri | Yamalok | Yama's realm
+- Jigoku — Japanese hell
+- Fengdu — Fengdu Ghost City | Fengdu City
+- Naihe Bridge — Bridge of Helplessness | Naihe Qiao | Bridge of Forgetfulness | Meng Po's bridge
+- Thunderclap Monastery — Leiyin Temple | Leiyin Si | Thunderclap Temple | Western Heaven | Lingshan
+- Land of the Lotus-eaters — Island of the Lotus-eaters | Lotus-eaters' island | Lotophagi
+- Island of the Cyclopes — Land of the Cyclopes | Cyclopes' island
+- Mount Fuji — Fuji | Fujisan | Fujiyama
+- Kurukshetra — Dharmakshetra | Kurukshetra battlefield
+- Turtle Island
+- Sannikov Land — Zemlya Sannikova
+
+### Tier 5: expert (146)
+
+- Aratta
+- Erytheia — Erythia | Island of Geryon
+- Aeolia — Aiolia | Island of Aeolus
+- Nysa — Mount Nysa
+- Cimmeria — Land of the Cimmerians
+- Castle Perilous
+- Sarras
+- Listenoise — Listinoise | Listenois
+- Gorre — Land of Gorre
+- Dún Scáith — Fortress of Shadows | Dún Scáthach
+- Tír na mBan — Land of Women | Island of Women
+- Gwales — Grassholm
+- Caer Sidi — Caer Siddi
+- Tech Duinn — House of Donn | Teach Duinn
+- Breidablik
+- Bilskirnir
+- Thrudheim — Þrúðheimr | Thrudvangar | Þrúðvangr
+- Glitnir
+- Himinbjörg
+- Idavoll — Iðavöllr | Ida plain
+- Hvergelmir
+- Vígríðr — Vigrid | Oskopnir
+- Lukomorye — Lukomorie
+- Jabulqa and Jabulsa — Jabulqa | Jabulsa | Jabalqa | Jabarsa
+- Wakwak — Waq-waq | Al-Waq Waq
+- Kishkindha — Kishkinda
+- Indraprastha — Indraprasth
+- Alaka — Alakapuri | Alkapuri
+- Amaravati — Amravati
+- Goloka — Golok | Goloka Vrindavana
+- Shvetadvipa — Svetadvipa
+- Uttarakuru
+- Tushita — Tusita
+- Yaochi — Jasper Lake | Jade Pool | Jade Lake
+- Fangzhang — Fanghu
+- Yingzhou
+- Youdu — Dark Capital
+- Ne-no-kuni — Root Country | Ne-no-katasu-kuni
+- Ashihara no Nakatsukuni — Central Land of Reed Plains | Reed Plain
+- Mayoiga — Mayohiga
+- Pulotu — Bulotu | Burotu
+- Norumbega — Norumbegue
+- Kingdom of Saguenay — Saguenay
+- Isle of Demons — Isle of Devils
+- Satanazes — Satanaxio
+- Mayda — Asmaida
+- Frisland — Frislanda
+- Buss Island
+- Sandy Island — Île de Sable
+- Pepys Island
+- Bermeja — Isla Bermeja
+- Crocker Land
+- Strait of Anián — Anian | Straits of Anian
+- Island of California — California island | Isle of California
+- Havilah — Land of Havilah
+- Tarshish — Tharshish
+- Snow Queen's palace — Snow Queen's castle | Palace of the Snow Queen
+- Amenti — Amentet
+- Myrkviðr — Mirkwood | Myrkwood
+- Cocytus — Kokytos | River of Wailing
+- Phlegethon — Pyriphlegethon | River of Fire
+- City of Dis — Dis
+- Waters of Death — Water of Death
+- Thrymheim — Þrymheimr | Skadi's hall
+- Daiyu
+- Yuanjiao
+- Abraham's bosom — Bosom of Abraham
+- Barzakh
+- Mount Hekla — Hekla
+- Malebolge
+- Hippocrene
+- Pierian Spring — Pieria
+- Mount Ida — Ida | Idaean Cave
+- Cape Tainaron — Taenarum | Tainaron | Cape Matapan
+- Ploutonion — Pluto's Gate | Plutonium of Hierapolis | Plutonium
+- Thrinacia — Thrinakia | Island of Helios | Island of the Sun
+- Leuke — White Island | Leuce | Island of Achilles
+- Lerna — Lake Lerna | Lernaean swamp
+- Hall of Two Truths — Hall of Ma'at | Hall of the Two Truths | Hall of Judgement
+- Var of Yima — Jamshid's Var | Vara of Yima | Yima's enclosure
+- Kangdez — Kangdiz
+- Airyanem Vaejah — Airyana Vaejah | Eranvej | Iranvej
+- Lochlann — Lochlainn | Lochlin
+- Falias
+- Gorias
+- Murias
+- Findias
+- Mag Tuired — Moytura | Magh Tuireadh
+- Cruachan — Rathcroghan | Cruachain | Oweynagat | Cave of Cats
+- Caer Arianrhod
+- Dinas Emrys
+- Chapel Perilous — Perilous Chapel
+- Celliwig — Kelliwic | Gelliwig
+- Dozmary Pool
+- Gjallarbrú — Gjöll bridge | Bridge over Gjöll
+- Járnviðr — Ironwood | Jarnvid
+- Valaskjálf
+- Gladsheim — Glaðsheimr
+- Nóatún — Njord's hall
+- Sökkvabekkr
+- Élivágar
+- Lysa Hora — Bald Mountain | Łysa Góra
+- Kyffhäuser
+- Untersberg
+- Dragon's Triangle — Devil's Sea | Formosa Triangle
+- Estotiland
+- Drogeo
+- Groclant
+- Aurora Islands
+- Thompson Island
+- Dougherty Island
+- Bluebeard's castle — Castle of Bluebeard
+- Hastinapura — Hastinapur
+- Nagaloka — Nagalok | Bhogavati
+- Dandaka Forest — Dandakaranya | Panchavati
+- Ashoka Vatika — Ashok Vatika | Ashokavana
+- Rasatala
+- Pitriloka — Pitrloka
+- Avici — Avichi
+- Trayastrimsha — Trāyastriṃśa | Tavatimsa | Heaven of the Thirty-three
+- Himavanta — Himmapan | Himaphan | Himmapan forest
+- Yomotsu Hirasaka — Slope of Yomi
+- Kakuriyo
+- Ieodo — Iodo | Ieo Island
+- Guixu
+- Ruoshui — Weak Water | Weak River
+- Rarohenga
+- Lua-o-Milu
+- Te Rerenga Wairua — Te Reinga | Cape Reinga | Leaping place of spirits
+- Asamando
+- Sipapu
+- Mount Pelion — Pelion
+- Castalian Spring — Castalia
+- Dictaean Cave — Mount Dicte | Diktaean Cave | Psychro Cave
+- Mount Etna — Etna | Forge of Hephaestus
+- Mount Badon — Badon | Mons Badonicus | Battle of Badon
+- Gjöll — River Gjöll
+- Gnipahellir
+- Hliðskjálf
+- Sutala
+- Lake Manasarovar — Manasarovar | Mansarovar | Manasa Sarovar
+- Te Pō — Po
+- Sky World — Skyland
+- Rupes Nigra
+- Tamoanchan
+- Orun — Orun Rere
+
+### Tier 6: rare jackpots (2)
+
+- Sambation — Sambatyon | Sabbatyon | River Sambation
+- Mountains of Kong — Kong Mountains
+
+## Refused on purpose (43)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Shangri-La — "Invented by James Hilton for his novel Lost Horizon, in 1933."
+- Utopia — "Invented by Thomas More for his book of 1516. The name means 'no place'."
+- Lilliput | Brobdingnag | Laputa | Blefuscu — "Invented by Jonathan Swift for Gulliver's Travels."
+- Middle-earth | Mordor | Rivendell | The Shire | Gondor | Rohan | Valinor | Númenor | Lothlórien | Isengard | Minas Tirith | Hobbiton | Erebor | Mount Doom | Undying Lands — "Invented by Tolkien, though he took the name Middle-earth from an old English word for the world of men, the Norse Midgard."
+- Narnia | Cair Paravel | Aslan's Country | Archenland — "Invented by C. S. Lewis for his books."
+- Hogwarts | Diagon Alley | Hogsmeade | Azkaban | Godric's Hollow — "Invented for the Harry Potter books."
+- Neverland | Never Never Land — "Invented by J. M. Barrie for Peter Pan."
+- Land of Oz | Oz | Emerald City | Munchkinland — "Invented by L. Frank Baum for his Oz books."
+- Wonderland | Looking-Glass Land — "Invented by Lewis Carroll for the Alice books."
+- Brigadoon — "From a Broadway musical of 1947, not from legend."
+- Big Rock Candy Mountain — "From Harry McClintock's song of 1928, rather than legend."
+- Westeros | Winterfell | King's Landing | Essos — "Invented by George R. R. Martin for his books."
+- Wakanda | Krypton | Gotham City | Metropolis | Latveria — "Invented for comic books and their films."
+- Hyrule | Tamriel | Skyrim | Azeroth | Rapture | Kanto | Mushroom Kingdom | Sovngarde | Silent Hill | Raccoon City | Yharnam | Lordran — "Invented for a video game."
+- R'lyeh | Kadath | Unknown Kadath | Leng | Plateau of Leng | Arkham | Innsmouth | Kingsport | Celephaïs | Ulthar | Yuggoth | Mountains of Madness | Miskatonic | Dreamlands — "From H. P. Lovecraft's stories, not from any older legend."
+- Dunwich — "Lovecraft borrowed the name for a story. The real Dunwich, in Suffolk, is a town mostly lost to the sea."
+- Loch Ness — "A real loch. It's the monster that's the legend."
+- Knossos — "A real palace on Crete, which may have inspired the legend of the Labyrinth."
+- Timbuktu | Timbuctoo | Tombouctou — "A real city in Mali, however far away it sounds."
+- Babylon — "A real city. Its tower of legend counts, but the city itself doesn't."
+- Machu Picchu | Petra | Angkor Wat | Great Zimbabwe | Chichen Itza | Nineveh | Ur — "A real ancient city, famous but not legendary."
+- Area 51 | Roswell — "A real air base, whatever the rumours."
+- Albion | Britannia | Hibernia | Caledonia — "An old name for Britain itself."
+- King Arthur | Arthur | Zeus | Odin | Thor | Merlin | Robin Hood | Hercules | Achilles | Poseidon | Gilgamesh — "Someone, not somewhere. Name a place in their story."
+- Kraken | Dragon | Loch Ness Monster | Nessie | Minotaur | Unicorn | Cyclops | Sphinx | Charybdis | Scylla | Scylla and Charybdis — "A creature, not a place."
+- Excalibur | Holy Grail | Golden Fleece | Pandora's box | Mjolnir | Trojan Horse | Noah's Ark | Round Table | Flying Dutchman — "An object, not a place."
+- Lost city | Lost continent | Lost island | Underworld | Mythical island | Enchanted forest | Fairy tale castle | Sunken city | Phantom island | Heaven on earth | Otherworld | Celtic Otherworld | Spirit world | Land of the dead | Realm of the dead | Afterlife — "Which one? Name a particular place."
+- Avebury — "A real stone circle, famous but not a place of legend."
+- Ithaca | Mycenae | Thebes | Athens | Corinth | Argos | Delos | Lemnos | Crete | Island of Crete — "A real place, still on the map. Many myths were set in real places."
+- Pandemonium — "Made up by John Milton for his poem Paradise Lost, in 1667."
+- Nine Worlds | Nine Realms — "All nine at once. Name one of them."
+- Doggerland — "A real land under the North Sea, drowned about 8,000 years ago and known from science, not legend."
+- Nirvana | Nibbana — "In Buddhism a state of release, rather than a place."
+- Discworld | Ankh-Morpork | Earthsea | Gormenghast | Ruritania | Erewhon | Macondo | Treasure Island | Lost World | Pellucidar — "Invented for a novel, not handed down in legend."
+- Skull Island | Jurassic Park | Twin Peaks | Hill Valley — "Invented for modern films and television, or the books behind them."
+- Sleepy Hollow — "A real village in New York. Its headless horseman comes from Washington Irving's story of 1820."
+- Transylvania | Castle Dracula | Dracula's Castle | Bran Castle — "Count Dracula and his castle come from Bram Stoker's novel of 1897, set in Transylvania, a real part of Romania."
+- Salem | Salem witch trials — "A real town, and its witch trials of 1692 are history rather than legend."
+- Hamelin | Hameln — "A real town in Germany. It's the Pied Piper who's the legend."
+- Jerusalem | Bethlehem | Nazareth | Jericho | Mecca | Medina | Ayodhya | Varanasi | Ile-Ife | Ife — "A real city, holy to many, and still lived in rather than lost to legend."
+- Bermuda — "Real islands. It's the stretch of sea named after them that has the legend."
+- Roanoke — "A real colony whose fate is a mystery of history rather than legend."
+- Dreamtime | The Dreaming — "In Aboriginal Australian belief the Dreaming is the time of creation and a living law, rather than a place."

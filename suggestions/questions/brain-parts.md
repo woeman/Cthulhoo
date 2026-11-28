@@ -244,8 +244,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
 - Brain | Whole brain — "The whole thing. The deep wants a piece of it."
-- Lobe — "Which lobe? Name it."
-- Nucleus — "Which nucleus? The brain has hundreds. Name one."
+- Lobe — "The brain has several lobes. Name one."
+- Nucleus — "The brain has hundreds of nuclei. Name one."
 - Spinal cord — "Joined to the brain at its base, but not part of it."
 - Skull | Cranium | Braincase — "The bone around the brain, not part of it."
 - Neuron | Neurone | Nerve cell | Brain cell — "A single cell. The brain has some 86 billion of them."

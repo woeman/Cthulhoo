@@ -1,0 +1,365 @@
+# Name a god or goddess of Roman mythology.
+
+Question id: `roman-gods` · category: myth · source: `data/myth.json`
+
+Rules: Any god, goddess or spirit of Roman myth or worship, by a name the Romans used, deified virtues included. Greek names don't count where Rome had its own, and nor do emperors or their families declared gods by the Senate.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (264 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (12)
+
+- Jupiter — Jove | Iuppiter | Juppiter | Jupiter Optimus Maximus | Diespiter | Jupiter Capitolinus | Jovis | Iovis | Diovis | Jupiter Stator | Jupiter Tonans | Jupiter Feretrius | Jupiter Latiaris | Jupiter Pluvius
+- Mars — Mars Ultor | Mars Gradivus | Mavors | Marspiter | Gradivus
+- Venus — Venus Genetrix | Venus Victrix | Venus Erycina | Venus Verticordia | Venus Felix | Venus Obsequens | Veus
+- Neptune — Neptunus
+- Mercury — Mercurius
+- Pluto — Pluton
+- Juno — Iuno | Juno Regina | Juno Sospita | Juno Caprotina | Juno Pronuba
+- Minerva — Menerva | Pallas Minerva | Minerva Medica | Minerver
+- Cupid — Cupido | Amor | Love
+- Saturn — Saturnus
+- Apollo — Phoebus | Phoebus Apollo | Appolo
+- Diana — Diana Nemorensis
+
+### Tier 2: common (13)
+
+- Vulcan — Vulcanus | Volcanus | Mulciber
+- Bacchus — Bacus | Backus
+- Ceres — Cres
+- Vesta
+- Janus — Ianus | Janus Bifrons
+- Aurora — Aroura
+- Fortuna — Fors Fortuna | Fortuna Primigenia | Fortuna Redux | Lady Fortune
+- Hercules — Hercles | Hercle | Hercules Victor | Hercules Invictus | Herucles | Hercales
+- Sol — Sol Invictus | Sol Indiges
+- Luna
+- Terra — Tellus | Terra Mater | Tellus Mater | Tera | Mother Earth
+- Victoria — Victory
+- Flora
+
+### Tier 3: known to fans (45)
+
+- Proserpina — Proserpine
+- Faunus — Faun | Fauni
+- Bellona — Duellona
+- Somnus
+- Nox
+- Mors
+- Ops — Opis
+- Liber — Liber Pater
+- Quirinus
+- Pomona
+- Silvanus — Sylvanus
+- Lares — Lar | Lar Familiaris | Lares Familiares
+- Penates — Di Penates | Dii Penates
+- Manes — Di Manes | Dii Manes
+- Genius — Genius loci | Genii
+- Aesculapius — Esculapius
+- Castor
+- Pollux
+- Mithras — Mithra
+- Magna Mater — Cybele | Kybele | Great Mother | Mater Magna | Mater Deum
+- Dis Pater — Dis | Father Dis
+- Orcus
+- Concordia — Concord
+- Pax — Peace
+- Salus
+- Spes — Hope
+- Fides — Faith | Good Faith
+- Libertas — Liberty | Lady Liberty
+- Justitia — Iustitia | Lady Justice | Justice
+- Terminus
+- Portunus — Portumnus
+- Vertumnus — Vortumnus
+- Bona Dea — Good Goddess
+- Maia
+- Juventas — Iuventas | Juventus | Iuventus
+- Latona
+- Caelus — Coelus | Caelum
+- Lucina — Juno Lucina
+- Discordia — Discord
+- Invidia
+- Fama — Fame | Rumour | Rumor
+- Roma — Dea Roma
+- Morpheus — Morfeus
+- Aeolus
+- Triton — Titon
+
+### Tier 4: obscure (58)
+
+- Fauna
+- Hecate — Hekate
+- Nemesis
+- Priapus
+- Psyche
+- Romulus
+- Aeneas — Aeneas Indiges | Jupiter Indiges
+- Isis
+- Trivia — Diana Trivia
+- Egeria
+- Carmenta — Carmentis
+- Picus
+- Juturna — Iuturna
+- Libitina
+- Laverna
+- Feronia
+- Pales
+- Consus
+- Februus
+- Angerona — Angeronia
+- Larunda — Lara | Muta | Tacita | Dea Tacita
+- Moneta — Juno Moneta
+- Mater Matuta — Matuta
+- Salacia
+- Volturnus — Vulturnus
+- Fons — Fontus
+- Tiberinus — Father Tiber | Pater Tiberinus
+- Pietas
+- Virtus
+- Honos — Honor
+- Clementia
+- Pudicitia
+- Abundantia
+- Felicitas
+- Annona
+- Aequitas
+- Providentia
+- Securitas
+- Copia
+- Libera
+- Anna Perenna
+- Epona
+- Cardea — Carna
+- Semo Sancus — Sancus | Dius Fidius
+- Nona
+- Decima
+- Morta
+- Vediovis — Veiovis | Vejovis
+- Acca Larentia — Larentia
+- Atlas
+- Prometheus
+- Oceanus
+- Iris
+- Calliope
+- Clio
+- Sulis Minerva — Sulis | Minerva Sulis | Dea Sulis
+- Nymphs — Nymph | Nymphae | Naiads | Naiad | Dryads | Dryad | Lymphae | Lympha
+- Luperca — Lupa | She-wolf
+
+### Tier 5: expert (133)
+
+- Mania
+- Lemures — Larvae
+- Inuus
+- Pecunia
+- Laetitia
+- Hilaritas
+- Liberalitas
+- Disciplina
+- Necessitas
+- Mens — Mens Bona
+- Nerio
+- Hora — Hersilia
+- Forculus
+- Limentinus
+- Abeona
+- Adeona
+- Cunina
+- Rumina
+- Levana
+- Vaticanus — Vagitanus
+- Fabulinus
+- Edusa — Educa
+- Potina — Potica
+- Antevorta — Porrima | Prorsa
+- Postvorta
+- Candelifera
+- Deverra
+- Intercidona
+- Pilumnus
+- Picumnus
+- Mellona — Mellonia
+- Fornax
+- Meditrina
+- Sterculius — Sterquilinus | Stercutus
+- Febris
+- Mefitis — Mephitis
+- Lua — Lua Mater
+- Naenia — Nenia
+- Orbona
+- Caca
+- Furrina
+- Soranus
+- Lupercus
+- Strenia — Strenua
+- Fascinus
+- Aius Locutius
+- Agenoria
+- Runcina
+- Volupia — Voluptas | Volupta
+- Dea Dia
+- Viriplaca
+- Domiduca
+- Bubona
+- Vacuna
+- Vallonia
+- Segetia
+- Tutilina
+- Virbius
+- Tempestates — Tempestas
+- Serapis — Sarapis
+- Elagabal — Elagabalus | Heliogabalus
+- Allecto — Alecto
+- Megaera
+- Tisiphone
+- Hyperion
+- Epimetheus
+- Themis
+- Tethys
+- Hymen — Hymenaeus | Hymenaios
+- Attis — Atys
+- Charon
+- Erato
+- Euterpe
+- Melpomene
+- Polyhymnia — Polymnia
+- Terpsichore
+- Thalia
+- Urania
+- Antinous
+- Camenae — Camena | Casmenae
+- Thetis
+- Fames — Famine | Hunger
+- Horae — Hours
+- Phantasos — Phantasus
+- Phobetor — Icelos | Icelus
+- Lucifer
+- Vesper — Hesperus
+- Proteus
+- Glaucus
+- Nereus
+- Silenus
+- Ganymede — Ganymedes | Catamitus
+- Hermaphroditus
+- Astraea — Astrea
+- Stimula
+- Aquilo — Aquilon | Septentrio
+- Favonius
+- Auster
+- Pavor
+- Pallor
+- Bonus Eventus
+- Aeternitas
+- Veritas
+- Fecunditas
+- Ubertas — Uberitas
+- Vica Pota
+- Venilia
+- Suadela — Suada
+- Stata Mater
+- Murcia — Murtia
+- Empanda
+- Cura
+- Viduus
+- Verminus
+- Fulgora
+- Palatua
+- Faustitas
+- Nascio — Natio
+- Mena
+- Mana Genita — Genita Mana
+- Tellumo
+- Ferentina
+- Di Nixi — Nixi | Dii Nixi
+- Erebus
+- Aether
+- Dies
+- Caligo
+- Coventina
+- Jupiter Dolichenus — Dolichenus
+- Anubis
+- Osiris
+- Harpocrates
+- Gratiae — Graces | Three Graces
+
+### Tier 6: rare jackpots (3)
+
+- Robigus — Robigo | Rubigus
+- Cloacina — Venus Cloacina | Cluacina
+- Summanus
+
+## Refused on purpose (67)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Zeus — "Greek. The Romans called him Jupiter."
+- Hera — "Greek. The Romans called her Juno."
+- Poseidon — "Greek. The Romans called him Neptune."
+- Hades | Aidoneus — "Greek. The Romans called him Pluto."
+- Ares — "Greek. The Romans called him Mars."
+- Athena | Athene | Pallas Athena | Pallas — "Greek. The Romans called her Minerva."
+- Aphrodite — "Greek. The Romans called her Venus."
+- Hermes — "Greek. The Romans called him Mercury."
+- Artemis — "Greek. The Romans called her Diana."
+- Hephaestus | Hephaistos — "Greek. The Romans called him Vulcan."
+- Hestia — "Greek. The Romans called her Vesta."
+- Demeter — "Greek. The Romans called her Ceres."
+- Dionysus | Dionysos — "Greek. The Romans called him Bacchus."
+- Eros — "Greek. The Romans called him Cupid."
+- Cronus | Kronos | Cronos — "Greek. The Romans called him Saturn."
+- Gaia | Gaea | Ge — "Greek. The Romans called her Terra."
+- Eos — "Greek. The Romans called her Aurora."
+- Helios | Helius — "Greek. The Romans called him Sol."
+- Selene — "Greek. The Romans called her Luna."
+- Nike — "Greek. The Romans called her Victoria."
+- Tyche — "Greek. The Romans called her Fortuna."
+- Heracles | Herakles — "Greek. The Romans called him Hercules."
+- Persephone | Kore — "Greek. The Romans had their own name for her."
+- Hypnos — "Greek. The Romans had their own god of sleep."
+- Thanatos — "Greek. The Romans had their own name for death."
+- Nyx — "Greek. The Romans had their own name for Night."
+- Eris — "Greek. Roman strife had another name."
+- Hebe — "Greek. The Romans had their own goddess of youth."
+- Leto — "Greek. The Romans had their own name for her."
+- Rhea — "Greek. The Romans had their own name for her."
+- Asclepius | Asklepios — "Greek. The Romans spelled him their own way."
+- Uranus | Ouranos — "The Greek sky god, though a planet took his name. The Romans had their own."
+- Pan — "Greek. The Romans saw him in a woodland god of their own."
+- Enyo — "Greek. The Romans had their own goddess of war."
+- Parcae | Fates | Fate | Moirai — "Which Fate? The Romans had three."
+- Furies | Furiae | Dirae | Fury | Erinyes — "Which Fury? There were three."
+- Muses | Muse — "Which Muse? There were nine."
+- Dioscuri | Castores | Gemini — "Which twin? There were two."
+- Titan | Titans — "Which Titan?"
+- Julius Caesar | Caesar | Divus Julius | Divus Iulius — "Declared a god by the Senate after his murder, which doesn't count here."
+- Caligula — "He said he was a god. The Senate disagreed."
+- Nero — "An emperor, and never declared a god."
+- Remus — "The twin who died as Rome was founded, and was never made a god."
+- Rhea Silvia | Ilia — "The twins' mortal mother, a priestess of Vesta."
+- Numa Pompilius | Numa — "A king of Rome. A goddess of a spring advised him, but he was no god."
+- Capitoline Wolf — "A bronze statue of the wolf who nursed the twins. As a goddess she had a name of her own."
+- Vestal Virgins | Vestals | Vestal | Vestal Virgin — "Priestesses of Vesta, not goddesses."
+- Sibyl | Cumaean Sibyl | Sibyl of Cumae — "A prophetess, not a goddess."
+- Cacus — "A fire-breathing giant slain by Hercules. A monster, not a god."
+- Medusa | Gorgon — "A Gorgon, Greek and monstrous."
+- Tinia | Uni | Turan | Fufluns | Turms | Sethlans — "Etruscan, from Rome's northern neighbours."
+- Odin | Thor | Loki | Freya | Woden — "Norse, not Roman."
+- Cthulhu — "A monster from H. P. Lovecraft's stories, not a Roman god."
+- Augustus | Octavian | Divus Augustus | Claudius | Vespasian | Titus | Trajan | Hadrian | Antoninus Pius | Marcus Aurelius | Lucius Verus | Commodus | Septimius Severus | Constantine | Livia | Diva Augusta | Drusilla | Faustina — "Declared divine by the Senate after death, which doesn't count here."
+- Tiberius — "An emperor, and the Senate never made him a god."
+- Megara — "Hercules' mortal wife, not a goddess."
+- Chiron — "A wise centaur who taught heroes, not a god."
+- Orpheus — "A mortal singer, not a god."
+- Father Time — "A much later figure, though he borrowed Saturn's scythe."
+- Cerberus — "The three-headed hound at the gate of the dead. A monster, not a god."
+- Deus | Dei | Dea | Di — "Latin for 'god'. Which one?"
+- Polydeuces | Polydeukes — "Greek. The Romans had their own name for him."
+- Amphitrite — "Greek. The Romans had their own queen of the sea."
+- Zephyrus | Zephyr | Boreas | Notus | Eurus | Anemoi — "Greek. The Romans had their own names for the winds."
+- Di Consentes | Dii Consentes | Dei Consentes — "Which one? There were twelve."
+- Charites — "Greek. The Romans had their own name for them."
+- Refused without a reason (near misses of real answers): Rome

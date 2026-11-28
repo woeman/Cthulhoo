@@ -26,7 +26,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bank
 - London Bridge
 - Westminster — Westminster Bridge
-- Tottenham Court Road — Oxford Street | TCR | Tottenham Court Rd
+- Tottenham Court Road — Oxford Street | TCR | Tottenham | Tottenham Court Rd
 
 ### Tier 2: common (50)
 
@@ -38,10 +38,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Charing Cross — London Charing Cross | Trafalgar Square | Strand
 - Embankment — Charing Cross Embankment
 - Knightsbridge
-- South Kensington
+- South Kensington — Kensington
 - Earl's Court
 - Notting Hill Gate — Notting Hill
-- Camden Town
+- Camden Town — Camden
 - Angel
 - Old Street — Old St
 - Moorgate — Moorgate Street
@@ -49,11 +49,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Tower Hill
 - St Paul's — Post Office
 - Brixton
-- Clapham Common
+- Clapham Common — Clapham
 - Wimbledon
 - Hammersmith
 - Shepherd's Bush
-- Wembley Park
+- Wembley Park — Wembley
 - Stratford
 - Canary Wharf
 - Mornington Crescent
@@ -76,9 +76,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Swiss Cottage
 - Golders Green
 - Richmond
-- Ealing Broadway
+- Ealing Broadway — Ealing
 - Cannon Street — London Cannon Street | Cannon St
-- Heathrow Terminals 2 & 3 — Heathrow Terminal 2 | Heathrow Terminal 3 | Heathrow Central | Heathrow Terminals 1, 2, 3 | Heathrow T2 | Heathrow T3 | Heathrow Terminal 1 | Heathrow T1
+- Heathrow Terminals 2 & 3 — Heathrow Terminal 2 | Heathrow Terminal 3 | Heathrow Central | Heathrow Terminals 1, 2, 3 | Heathrow T2 | Heathrow T3 | Heathrow Terminal 1 | Heathrow T1 | Heathrow | Heathrow Airport
 - Lancaster Gate
 
 ### Tier 3: known to fans (95)
@@ -115,20 +115,20 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Heathrow Terminal 4 — Heathrow T4
 - Heathrow Terminal 5 — Heathrow T5
 - Fulham Broadway — Walham Green
-- Putney Bridge
+- Putney Bridge — Putney
 - Parsons Green
 - West Brompton
 - West Kensington
 - Barons Court
 - Turnham Green
-- Acton Town — Mill Hill Park
+- Acton Town — Mill Hill Park | Acton
 - Ladbroke Grove
 - Warwick Avenue
 - Maida Vale
 - Queen's Park
 - Kilburn
 - West Hampstead
-- Finchley Road — Finchley Rd
+- Finchley Road — Finchley | Finchley Rd
 - St John's Wood
 - Chalk Farm
 - Belsize Park
@@ -160,7 +160,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Clapham South
 - Balham
 - Tooting Bec — Trinity Road
-- Tooting Broadway
+- Tooting Broadway — Tooting
 - Morden
 - Southfields
 - East Putney
@@ -170,7 +170,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Finchley Central — Church End | Finchley Church End
 - Brent Cross — Brent
 - Stanmore
-- Harrow-on-the-Hill
+- Harrow-on-the-Hill — Harrow
 - Uxbridge
 - Ealing Common
 - Epping
@@ -191,7 +191,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chorleywood
 - Colindale
 - Colliers Wood
-- Dagenham East
+- Dagenham East — Dagenham
 - Dollis Hill
 - East Acton
 - Gants Hill
@@ -204,7 +204,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hatton Cross
 - Hendon Central
 - Hornchurch
-- Hounslow Central — Heston Hounslow
+- Hounslow Central — Heston Hounslow | Hounslow
 - Hounslow East
 - Hounslow West — Hounslow Barracks
 - Kensal Green
@@ -297,25 +297,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Roding Valley
 - Chesham
 
-## Refused on purpose (54)
+## Refused on purpose (40)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Heathrow | Heathrow Airport — "Which terminal? Three Tube stations serve the airport."
-- Wembley — "Which Wembley? Three Tube stations carry the name."
-- Harrow — "Which Harrow? Several Tube stations share the name."
-- Ealing — "Which Ealing? Several Tube stations share the name."
-- Acton — "Which Acton? Several Tube stations share the name."
-- Clapham — "Which Clapham? Three Tube stations share the name."
-- Tooting — "Which Tooting? Two Tube stations share the name."
-- Hounslow — "Which Hounslow? Three Tube stations share the name."
-- Finchley — "Which Finchley? Several Tube stations share the name."
-- Kensington — "Which Kensington? Several Tube stations share the name."
-- Tottenham — "Which Tottenham? Two Tube stations share the name."
-- Dagenham — "Which Dagenham? Two Tube stations share the name."
-- Putney — "A main-line station. Two Tube stations carry its name."
 - Chiswick — "A main-line station. Only one Chiswick station is on the Tube, and it has a longer name."
-- Camden — "Which station? The Tube stops at Camden Town."
 - Bakerloo | Bakerloo line | Central line | Circle line | Circle | District line | District | Hammersmith & City line | Hammersmith & City | Jubilee line | Jubilee | Metropolitan line | Metropolitan | Northern line | Northern | Piccadilly line | Victoria line | Waterloo & City line | Waterloo & City | Elizabeth line | Elizabeth | Crossrail — "That's a line, not a station."
 - Lioness line | Lioness | Mildmay line | Mildmay | Windrush line | Windrush | Weaver line | Weaver | Suffragette line | Suffragette | Liberty line | Liberty — "One of the Overground's lines, named in 2024. Not a station, and not the Tube."
 - Overground | London Overground | DLR | Docklands Light Railway | Tube | Underground | London Underground | Tramlink — "That's a whole network. Name a station on the Tube."

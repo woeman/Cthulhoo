@@ -209,7 +209,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Subatomic particle | Particle | Subparticle | Elementary particle | Fundamental particle | Composite particle | Atomic particle | Point particle — "Which one? Name it."
+- Subatomic particle | Particle | Subparticle | Elementary particle | Fundamental particle | Composite particle | Atomic particle | Point particle — "That covers every particle. Name one."
 - Atom | Rydberg atom — "Too big: atoms are built from subatomic particles."
 - Molecule | Compound — "Too big: a molecule is built from atoms."
 - Ion | Cation | Anion — "An atom with an electric charge, too big to be subatomic."

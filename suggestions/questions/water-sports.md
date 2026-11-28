@@ -18,7 +18,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Surfing — Surf | Surfboarding | Longboard surfing | Wave surfing | Boardriding
 - Windsurfing — Boardsailing | Sailboarding | Windfoiling | Wave sailing | Windsurf
 - Kitesurfing — Kiteboarding | Kite foiling | Kiting | Kitesurf | Kiteboard
-- Water skiing — Slalom waterskiing | Trick skiing | Water ski | Water ski jumping
+- Water skiing — Slalom waterskiing | Trick skiing | Water ski | Water ski jumping | Slalom
 - Sailing — Yachting | Yacht racing | Sailboat racing | Sail racing | Yacht sailing | Saiing | Fleet racing
 - Rowing — Crew | Sweep rowing | Competitive rowing
 - Canoeing — Canoe | Paddling | Canadian canoeing | Whitewater canoeing
@@ -113,7 +113,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Wildwater canoeing — Wildwater racing | Downriver racing | Wildwater kayaking
 - Stone skimming — Stone skipping | Skimming stones | Rock skipping | Ducks and drakes | Skimming
 - Indoor surfing — Flowriding | Flowboarding
-- Modern pentathlon
+- Modern pentathlon — Pentathlon
 - Snake boat racing — Snake boat race | Vallam kali
 
 ### Tier 5: expert (67)
@@ -190,7 +190,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Fierljeppen — Canal vaulting | Canal jumping | Ditch vaulting | Polsstokverspringen
 
-## Refused on purpose (18)
+## Refused on purpose (16)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -203,7 +203,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Laser | ILCA | Finn | 49er | Optimist | Topper | Nacra 17 | 470 — "That's a sailing class. The sport is sailing."
 - The Boat Race | America's Cup | Henley Regatta | Henley | Cowes Week | Regatta | Fastnet | Vendée Globe | Sydney to Hobart — "That's an event. Name the sport."
 - Aquatics | Water sports | Water sport — "That's the whole family. Name one sport."
-- Pentathlon — "Which pentathlon? Only one kind has a swim in it."
 - Water slide | Water park | Lazy river | Sunbathing — "Fun, but not a sport."
 - Pool | Billiards — "Played on a table, and kept well away from water."
 - Jousting — "That one's on horseback. Try it on water."
@@ -211,4 +210,3 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Swan upping — "A royal count of swans on the Thames, not a sport."
 - Duck diving — "That's how a surfer slips under a wave, not a sport of its own."
 - Mud racing — "Mud isn't water, however hard it tries."
-- Slalom — "Which slalom? Canoes run one and so do water skis. Name the whole sport."

@@ -1,0 +1,707 @@
+# Name a fairy tale.
+
+Question id: `fairy-tales` · category: myth · source: `data/myth.json`
+
+Rules: Any fairy tale or folk tale, traditional or literary, from the Grimms, Perrault and Andersen to the world's storytellers, by any common title. Fables, myths, epics, Robin Hood and King Arthur, nursery rhymes, novels and films don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (635 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (13)
+
+- Cinderella — Cendrillon | Aschenputtel | Cenerentola | Ashputtel | The Little Glass Slipper | The Cat Cinderella | La Cenicienta | Cinderella, or the Little Glass Slipper | The Glass Slipper | Aschenbrödel | Zolushka
+- Snow White — Snow White and the Seven Dwarfs | Snow White and the Seven Dwarves | Schneewittchen | Little Snow-White | Blancanieves | Biancaneve
+- Little Red Riding Hood — Red Riding Hood | Little Red Cap | Rotkäppchen | Le Petit Chaperon Rouge | Caperucita Roja | Cappuccetto Rosso
+- Hansel and Gretel — Hänsel und Gretel | Hansel | Gretel
+- Rapunzel
+- Sleeping Beauty — Little Briar Rose | Briar Rose | Brier Rose | Dornröschen | La Belle au bois dormant | The Sleeping Beauty in the Wood
+- Goldilocks and the Three Bears — Goldilocks | The Three Bears | The Story of the Three Bears
+- Jack and the Beanstalk — The Story of Jack and the Beanstalk | Jack and the Bean Tree
+- The Three Little Pigs — Three Pigs | The Story of the Three Little Pigs | Los Tres Cerditos
+- Beauty and the Beast — La Belle et la Bête
+- Rumpelstiltskin — Rumplestiltskin | Rumpelstilzchen | Rumpelstilskin | Rumplestiltzkin | Rumpelstiltzkin
+- The Little Mermaid — Den lille Havfrue
+- The Frog Prince — The Frog King | The Frog King, or Iron Henry | The Princess and the Frog | The Frog King, or Iron Heinrich | Der Froschkönig | Iron Heinrich | Iron Henry
+
+### Tier 2: common (27)
+
+- The Ugly Duckling — Den grimme Ælling
+- The Princess and the Pea — The Princess on the Pea | The Real Princess | Prinsessen på Ærten
+- The Emperor's New Clothes — The Emperor's New Suit | Kejserens nye Klæder
+- Puss in Boots — The Master Cat | Le Maître chat | Le Chat botté | Der gestiefelte Kater
+- Three Billy Goats Gruff — Billy Goats Gruff | Three Billy Goats | Billy Goat Gruff
+- The Gingerbread Man — The Gingerbread Boy
+- Aladdin — Aladdin and the Wonderful Lamp | Aladdin and the Magic Lamp | Aladdin's Lamp
+- The Snow Queen — Snedronningen
+- Thumbelina — Thumbelisa | Tommelise | Inchelina | Thumblina | Thumbalina | Little Tiny | Little Tiny, or Thumbelina
+- The Little Match Girl — The Little Match Seller | The Match Girl
+- The Pied Piper of Hamelin — Pied Piper | The Ratcatcher of Hamelin
+- The Elves and the Shoemaker — The Shoemaker and the Elves | The Elves
+- Bluebeard — Barbe bleue | La Barbe bleue
+- Tom Thumb — Thumbling | Tom Thumbe | Thumbthick
+- The Twelve Dancing Princesses — The Shoes That Were Danced to Pieces | The Worn-Out Dancing Shoes | The Dancing Princesses | The Twelve Princesses
+- The Steadfast Tin Soldier — The Brave Tin Soldier | The Tin Soldier | The Constant Tin Soldier | The Hardy Tin Soldier
+- The Red Shoes
+- Ali Baba and the Forty Thieves — Ali Baba | Ali Baba and the 40 Thieves
+- Sinbad the Sailor — Sinbad | Sindbad | The Voyages of Sinbad | Sindbad the Sailor | The Seven Voyages of Sinbad
+- Dick Whittington — Dick Whittington and His Cat | Whittington and His Cat | Whittington
+- Jack the Giant Killer
+- Chicken Licken — Henny Penny | Chicken Little | Chicken Lickin | The Sky Is Falling
+- The Little Red Hen
+- The Enormous Turnip — The Giant Turnip | The Gigantic Turnip | Repka | The Great Big Enormous Turnip | The Turnip
+- The Bremen Town Musicians — The Town Musicians of Bremen | The Musicians of Bremen | The Bremen Musicians | Die Bremer Stadtmusikanten
+- Stone Soup — Nail Soup | Button Soup | Axe Soup | Axe Porridge
+- The Nutcracker — The Nutcracker and the Mouse King
+
+### Tier 3: known to fans (46)
+
+- The Golden Goose — Die goldene Gans
+- The Brave Little Tailor — The Valiant Little Tailor | Seven at One Blow | The Gallant Tailor | Das tapfere Schneiderlein
+- Snow-White and Rose-Red — Schneeweißchen und Rosenrot
+- The Goose Girl — Die Gänsemagd
+- The Fisherman and His Wife — Von dem Fischer un syner Fru
+- The Wolf and the Seven Little Kids — The Wolf and the Seven Young Goats | The Wolf and the Seven Kids | The Wolf and the Seven Goats | The Wolf and the Seven Young Kids | Der Wolf und die sieben jungen Geißlein
+- The Six Swans — Die sechs Schwäne
+- The Twelve Brothers — Die zwölf Brüder
+- The Seven Ravens — Die sieben Raben
+- The Juniper Tree — The Almond Tree | Von dem Machandelboom
+- Mother Holle — Mother Hulda | Frau Holle | Mother Holly
+- Brother and Sister — Little Brother and Little Sister | Brüderchen und Schwesterchen
+- The Magic Porridge Pot — Sweet Porridge | Der süße Brei
+- The Nightingale — The Emperor and the Nightingale | The Emperor's Nightingale
+- The Tinderbox
+- The Wild Swans — The Eleven Wild Swans | The Eleven Swans
+- The Fir Tree — The Little Fir Tree
+- The Happy Prince
+- The Selfish Giant
+- Babes in the Wood — The Children in the Wood
+- East of the Sun and West of the Moon — East o' the Sun and West o' the Moon
+- Vasilisa the Beautiful — Vasilisa the Fair | Vasilisa | Wassilissa the Beautiful | Vasilisa Prekrasnaya
+- The Frog Princess — The Frog Tsarevna | The Frog Queen | Tsarevna Lyagushka
+- The Firebird — Ivan Tsarevich, the Firebird and the Grey Wolf | Tsarevich Ivan, the Firebird and the Grey Wolf | Prince Ivan, the Firebird and the Grey Wolf | The Tale of the Firebird
+- The Snow Maiden — Snegurochka
+- Baba Yaga
+- Masha and the Bear — Masha i Medved
+- Momotaro — Peach Boy
+- Urashima Taro — Urashima
+- The Tale of the Bamboo Cutter — Princess Kaguya | Kaguya-hime | The Tale of Princess Kaguya | Taketori Monogatari
+- King Thrushbeard — King Grisly-Beard | König Drosselbart
+- Iron John — Iron Hans | Eisenhans
+- The Water of Life — Das Wasser des Lebens
+- The Golden Bird — Der goldene Vogel
+- Hans in Luck — Lucky Hans | Hans im Glück
+- The Robber Bridegroom — Der Räuberbräutigam
+- Anansi — Anansi the Spider | Ananse | Anancy | Kwaku Ananse
+- Brer Rabbit — Brer Rabbit and the Tar-Baby
+- The Velveteen Rabbit — The Velveteen Rabbit, or How Toys Become Real | How Toys Become Real
+- Rip Van Winkle
+- Mulan — Hua Mulan | Fa Mulan | The Ballad of Mulan | The Legend of Mulan
+- Saint George and the Dragon — George and the Dragon | St George and the Dragon | Saint George | St George
+- Peter and the Wolf
+- The Mitten — Rukavychka | The Mitten: A Ukrainian Folktale
+- Akbar and Birbal — Akbar Birbal | Birbal | Akbar and Birbal Stories | Akbar-Birbal Tales
+- The Sorcerer's Apprentice — Der Zauberlehrling
+
+### Tier 4: obscure (100)
+
+- The Girl Without Hands — The Handless Maiden | The Maiden Without Hands | The Armless Maiden
+- Faithful John — Trusty John | Faithful Johannes
+- The Devil with the Three Golden Hairs — The Devil's Three Golden Hairs | The Three Golden Hairs
+- The Three Spinners — The Three Spinning Women
+- The White Snake
+- Clever Elsie
+- Fitcher's Bird — Fitcher's Feathered Bird
+- The Singing Bone
+- The Boy Who Went Forth to Learn What Fear Was — The Story of the Youth Who Went Forth to Learn What Fear Was | The Boy Who Wanted to Learn What Fear Was | The Youth Who Could Not Shudder | The Boy Who Left Home to Learn Fear | The Boy Who Could Not Shudder | The Boy Who Knew No Fear | The Youth Who Wanted to Learn What Fear Was | The Story of a Boy Who Went Forth to Learn Fear
+- Godfather Death — Death as Godfather | Death the Godfather
+- The Wishing-Table — The Table, the Ass and the Stick | Table-Be-Set | The Wishing Table, the Gold Donkey and the Cudgel | Tischlein deck dich | The Ass, the Table and the Stick | Table-Be-Set, Gold-Donkey, and Cudgel-out-of-the-Sack
+- The Three Little Men in the Wood — The Three Little Men in the Woods
+- Jorinde and Joringel — Jorinda and Jorindel
+- All-Kinds-of-Fur — Allerleirauh | Many-Furs | Thousandfurs
+- The Star Money — The Star Talers | The Star Coins | Sterntaler
+- The Twelve Huntsmen
+- The Three Feathers
+- The Queen Bee
+- The Blue Light
+- Bearskin
+- Hans My Hedgehog — Hans the Hedgehog
+- The Hare and the Hedgehog — The Hedgehog and the Hare
+- Maid Maleen
+- The Golden Key
+- The Two Brothers
+- The Snowman
+- The Swineherd
+- Little Claus and Big Claus — Big Claus and Little Claus | Little Klaus and Big Klaus
+- The Shadow
+- The Shepherdess and the Chimney Sweep — The Shepherdess and the Sweep
+- The Story of a Mother
+- The Nightingale and the Rose
+- Molly Whuppie
+- Mr Fox
+- Cap o' Rushes
+- Tattercoats
+- Kate Crackernuts
+- Childe Rowland
+- Tom Tit Tot
+- Tam Lin — Tamlane
+- Lazy Jack
+- The Three Sillies
+- The Lambton Worm
+- The Princess on the Glass Hill — The Princess on the Glass Mountain | The Glass Mountain
+- The Giant Who Had No Heart in His Body — The Giant Who Had No Heart
+- Why the Sea Is Salt — Why the Sea Is Salty
+- The Pancake — The Runaway Pancake | The Fat Pancake
+- Koschei the Deathless — The Death of Koschei the Deathless | Koschei | Kashchey the Deathless
+- Morozko — Father Frost | Grandfather Frost
+- Maria Morevna — Marya Morevna
+- The Fool of the World and the Flying Ship — The Flying Ship
+- The Little Humpbacked Horse — The Humpbacked Horse | Konyok-Gorbunok
+- The Tale of Tsar Saltan — Tsar Saltan
+- The Tale of the Fisherman and the Fish — The Fisherman and the Golden Fish | The Golden Fish
+- The Golden Cockerel — The Tale of the Golden Cockerel
+- Kolobok — The Bun | The Little Bun
+- The Twelve Months
+- Ivan the Fool — Ivan the Ninny
+- The Fisherman and the Jinni — The Fisherman and the Genie | The Fisherman and the Djinn
+- Hop-o'-My-Thumb — Le Petit Poucet | Little Thumb | Little Poucet
+- Donkeyskin — Peau d'Âne
+- Diamonds and Toads — The Fairies | Toads and Diamonds
+- The White Cat
+- The Love for Three Oranges — The Three Oranges | The Three Citrons | The Love of Three Oranges
+- Undine — Ondine
+- Issun-boshi — One-Inch Boy | Little One-Inch | The Inch-High Samurai
+- The Crane Wife — The Grateful Crane | Tsuru no Ongaeshi | Tsuru Nyobo
+- Kintaro — Golden Boy
+- The Tongue-Cut Sparrow — Shita-kiri Suzume
+- Ye Xian — Yeh-Shen
+- Lon Po Po
+- The Cowherd and the Weaver Girl — The Weaver Girl and the Cowherd | The Cowherd and the Weaver
+- The Butterfly Lovers — Liang Zhu | Liang Shanbo and Zhu Yingtai
+- The Legend of the White Snake — Madame White Snake | The White Snake Lady | Lady White Snake
+- The Magic Paintbrush — Ma Liang and the Magic Brush | The Magic Brush | Ma Liang
+- Cupid and Psyche — Psyche and Cupid | Eros and Psyche
+- Anansi and the Pot of Wisdom
+- How Anansi Got the Stories — A Story, a Story | Anansi and the Sky God | Anansi and Nyame
+- The Children of Lir — The Fate of the Children of Lir
+- Teeny-Tiny — The Teeny-Tiny Woman
+- William Tell — Wilhelm Tell
+- Lady Godiva — Godiva
+- Paul Bunyan — Paul Bunyan and Babe the Blue Ox | Babe the Blue Ox
+- John Henry — John Henry the Steel-Driving Man | The Steel-Driving Man
+- Nasreddin — Nasreddin Hodja | Nasreddin Hoca | Mullah Nasruddin | Mulla Nasruddin | Nasruddin | Mulla Nasreddin | Juha | Djuha | Goha
+- Tenali Rama — Tenali Raman | Tenali Ramakrishna
+- Why Mosquitoes Buzz in People's Ears
+- Mufaro's Beautiful Daughters
+- Goblin Market
+- How the Leopard Got His Spots
+- The Elephant's Child — How the Elephant Got His Trunk
+- How the Camel Got His Hump
+- Thomas the Rhymer — True Thomas | Thomas Rhymer | Thomas of Erceldoune
+- The Selkie Bride — The Selkie Wife | The Seal Wife | The Seal Woman | The Seal Maiden
+- The Salmon of Knowledge — The Salmon of Wisdom
+- Finn McCool and the Giant's Causeway — Finn McCool | Finn MacCool | Fionn mac Cumhaill | Fin M'Coul | A Legend of Knockmany | The Giant's Causeway
+- La Llorona — The Weeping Woman
+- Tiddalik — Tiddalick | Tiddalik the Frog | Tiddalick the Frog
+- The Spirit in the Bottle — The Spirit in the Glass Bottle
+- One-Eye, Two-Eyes and Three-Eyes — Little One-Eye, Little Two-Eyes and Little Three-Eyes | Little Two-Eyes
+
+### Tier 5: expert (447)
+
+- The Mouse, the Bird and the Sausage
+- Clever Gretel
+- Donkey Cabbages — The Salad | Cabbage Donkey
+- The Old Woman in the Wood
+- The Glass Coffin
+- The Nixie of the Mill-Pond — The Nixie in the Pond
+- Frau Trude — Mother Trudy | Old Mother Trudy
+- The Clever Peasant Girl — The Peasant's Wise Daughter
+- The Three Snake-Leaves
+- The Iron Stove
+- The Drummer
+- Doctor Know-All — Doctor Know-it-all
+- The Master Thief
+- The Donkey — The Little Donkey
+- Simeli Mountain
+- How Six Made Their Way in the World — How Six Men Got On in the World | Six Go Through the Whole World
+- The Gold-Children
+- The Willful Child — The Wilful Child | The Stubborn Child
+- The Wren and the Bear — The Willow-Wren and the Bear
+- The Crystal Ball
+- The Raven
+- Strong Hans
+- The Sea-Hare
+- The Poor Miller's Boy and the Cat
+- The Spindle, the Shuttle and the Needle
+- The Water Nixie
+- Old Sultan
+- The Six Servants
+- The Lazy Spinner
+- The King of the Golden Mountain — The Golden Mountain
+- The Goose-Girl at the Well
+- Old Rinkrank
+- The Flying Trunk
+- Ole Lukoie — Ole Lukøje | Ole Shut-Eye | The Sandman
+- The Garden of Paradise
+- The Travelling Companion
+- The Elf of the Rose
+- The Bell
+- The Old House
+- The Galoshes of Fortune — The Goloshes of Fortune
+- The Storks
+- The Daisy
+- The Snail and the Rosebush — The Snail and the Rose-Tree
+- The Ice Maiden
+- The Girl Who Trod on the Loaf
+- Clumsy Hans — Jack the Dullard
+- The Marsh King's Daughter
+- The Darning Needle
+- The Top and the Ball — The Sweethearts
+- The Little Elder-Tree Mother — The Elder-Tree Mother
+- What the Old Man Does Is Always Right — What Father Does Is Always Right
+- The Drop of Water
+- Five Peas from a Pod — Five Peas in a Pod | Five Peas from One Pod | The Pea Blossom
+- The Happy Family
+- The Money Pig — The Piggy Bank
+- Auntie Toothache
+- The Old Street Lamp
+- The Star-Child
+- The Young King
+- The Fisherman and His Soul
+- The Remarkable Rocket
+- The Devoted Friend
+- The Birthday of the Infanta
+- The King of the Golden River
+- The Rose and the Ring
+- The Light Princess
+- The Reluctant Dragon
+- The Magic Fishbone
+- Johnny-Cake
+- Master of All Masters
+- The Old Woman and Her Pig
+- Mr Miacca
+- Nix Nought Nothing
+- The Well of the World's End
+- The Fish and the Ring
+- Binnorie
+- Catskin
+- Tom Hickathrift
+- The Hobyahs
+- Yallery Brown
+- The Black Bull of Norroway
+- The Three Heads of the Well
+- The Rose-Tree
+- The Magpie's Nest
+- Jack and His Golden Snuff-Box
+- Mr Vinegar — The Story of Mr Vinegar
+- The Laidly Worm — The Laidly Worm of Spindleston Heugh
+- Soria Moria Castle — Soria Moria
+- The Lad Who Went to the North Wind
+- The Mastermaid
+- The Three Princesses of Whiteland
+- The Cat on the Dovrefell
+- Tatterhood
+- Butterball
+- The Husband Who Was to Mind the House
+- Kari Woodengown
+- Boots and the Troll
+- Finist the Bright Falcon — The Feather of Finist the Falcon
+- The Tale of the Dead Princess
+- Teremok
+- Emelya and the Pike — At the Pike's Command | By the Pike's Wish | Emelya the Fool
+- Sister Alyonushka and Brother Ivanushka
+- Geese-Swans — The Magic Swan Geese | Swan-Geese | Gusi-Lebedi
+- The Scarlet Flower — The Little Scarlet Flower
+- Sivka-Burka
+- The Ebony Horse — The Enchanted Horse | The Magic Horse
+- Prince Ahmed and the Fairy Paribanou — Prince Ahmed | Prince Ahmed and the Fairy Peri-Banu
+- The City of Brass
+- The Three Apples
+- Riquet with the Tuft
+- Griselda — Patient Griselda
+- The Ridiculous Wishes
+- The Yellow Dwarf
+- Finette Cendron
+- Prince Darling
+- The Green Serpent
+- The Fair One with Golden Locks — Pretty Goldilocks | The Story of Pretty Goldilocks | Beauty with the Golden Hair
+- Princess Rosette
+- The Hind in the Wood
+- Melusine
+- Sun, Moon and Talia
+- Petrosinella
+- Prezzemolina
+- Little Muck
+- Dwarf Nose — Little Longnose
+- The Cold Heart
+- Caliph Stork
+- Peter Schlemihl — Peter Schlemihl's Wonderful Story | The Man Who Lost His Shadow
+- Kachi-kachi Yama
+- Bunbuku Chagama — The Lucky Tea Kettle | The Magic Tea Kettle | The Wonderful Tea Kettle
+- Hanasaka Jiisan — The Old Man Who Made Dead Trees Blossom | The Old Man Who Made the Trees Bloom
+- The Crab and the Monkey — Saru Kani Gassen | The Monkey and the Crab
+- Kongjwi and Patjwi — Kongjwi Patjwi
+- Heungbu and Nolbu — Heungbu Nolbu
+- The Sun and the Moon
+- Vikram and the Vetal — Vikram and Betaal | Baital Pachisi | Vikram Betaal | Vetala Panchavimshati
+- Anansi and the Turtle
+- Anansi and the Moss-Covered Rock
+- The Little Cockroach Martina — La Cucarachita Martina | Martina the Beautiful Cockroach
+- Juan Bobo
+- Pecos Bill
+- Johnny Appleseed
+- Gopal Bhar — Gopal Bhaar
+- Sheikh Chilli — Shaikh Chilli
+- Lalkamal Neelkamal — Lalkamal and Neelkamal
+- Abiyoyo
+- Why the Sun and the Moon Live in the Sky
+- Zomo the Rabbit — Zomo
+- Unanana and the Elephant
+- How the Rhinoceros Got His Skin
+- How the Whale Got His Throat
+- The Cat That Walked by Himself
+- The Butterfly That Stamped
+- The Crab That Played with the Sea
+- The Sing-Song of Old Man Kangaroo
+- The Beginning of the Armadillos
+- How the First Letter Was Written
+- How the Alphabet Was Made
+- The Wise Men of Gotham — The Fools of Gotham | The Mad Men of Gotham
+- The Stonecutter
+- The Empty Pot
+- Lady Meng Jiang — Meng Jiangnu | Lady Meng Jiang Weeps at the Great Wall
+- Kasa Jizo — The Grateful Statues | The Six Jizo
+- Omusubi Kororin — The Rolling Rice Ball
+- Yuki-onna — The Snow Woman
+- Kobutori Jiisan — The Old Man Who Lost His Wen | The Old Man and the Demons
+- The Tiger and the Persimmon — The Tiger and the Dried Persimmon
+- Shim Cheong — Shim Chung | Sim Cheong | Simcheongjeon | The Tale of Shim Cheong
+- The Woodcutter and the Fairy — The Fairy and the Woodcutter | The Woodcutter and the Heavenly Maiden
+- Tam and Cam — Tam Cam | The Story of Tam and Cam
+- Timun Mas — The Golden Cucumber
+- Malin Kundang
+- Sang Kancil — Kancil | The Mouse Deer
+- Juan Tamad
+- The Merchant and the Jinni — The Merchant and the Genie | The Trader and the Jinni
+- The Porter and the Three Ladies of Baghdad — The Porter and the Three Ladies
+- The Hunchback — The Tale of the Hunchback | The Hunchback's Tale
+- The Barber's Tale — The Barber's Six Brothers
+- Ma'ruf the Cobbler
+- The Sleeper Awakened — Abu Hasan the Wag | The Sleeper and the Waker
+- Camaralzaman — Qamar al-Zaman | Camaralzaman and Badoura | Prince Camaralzaman and the Princess Badoura
+- The Envious Sisters — The Talking Bird | Princess Parizade | The Two Sisters Who Envied Their Cadette | The Talking Bird, the Singing Tree and the Golden Water
+- Abdullah the Fisherman and Abdullah the Merman
+- Julnar the Sea-Born
+- The Tale of the Shipwrecked Sailor — The Shipwrecked Sailor
+- The Tale of Two Brothers — Anpu and Bata
+- Rhodopis — The Egyptian Cinderella
+- The Doomed Prince — The Tale of the Doomed Prince | The Enchanted Prince
+- Medio Pollito — The Half-Chick | The Little Half-Chick
+- Ratoncito Perez — Raton Perez | Perez the Mouse
+- Pedro Urdemales — Pedro de Urdemales
+- It Could Always Be Worse
+- The Wise Men of Chelm — The Fools of Chelm
+- The Rough-Face Girl — The Invisible One | Little Burnt-Face
+- The Legend of the Bluebonnet
+- Wiley and the Hairy Man
+- Tailypo
+- The Gunniwolf
+- Sody Sallyratus — Sody Saleratus
+- Sadko
+- The Tale of the Priest and of His Workman Balda — The Priest and His Workman Balda | The Tale of the Priest and Balda | Balda
+- The Stone Flower — The Malachite Box | The Malachite Casket | The Mistress of the Copper Mountain
+- Go I Know Not Whither and Fetch I Know Not What — Go I Know Not Whither | Go I Know Not Where, Bring I Know Not What
+- Sister Fox and the Wolf — The Fox and the Wolf
+- The Hare's Hut — The Fox and the Hare | Zayushkina Izbushka
+- The Straw Ox — The Straw Bull
+- Ivasyk-Telesyk — Ivasik-Telesik
+- The Wawel Dragon — Smok Wawelski | The Dragon of Wawel Hill
+- Long, Broad and Sharpsight — Long, Broad and Quickeye
+- Bash Tchelik — Bas Celik | Bash Chelik
+- Egle the Queen of Serpents — Egle, Queen of Serpents
+- Stribor's Forest
+- White-Bear-King-Valemon — King Valemon
+- The Twelve Wild Ducks
+- The Three Aunts
+- The Ash Lad — Askeladden | Espen Askeladd
+- Gudbrand on the Hillside — Gudbrand of the Hillside
+- The Squire's Bride
+- Why the Bear Is Stumpy-Tailed — How the Bear Lost Its Tail | How the Bear Lost His Tail | Why the Bear Has a Stumpy Tail
+- The Seven Foals
+- Taper Tom
+- Lord Peter
+- The Bushy Bride
+- Shortshanks
+- The Blue Bird — L'Oiseau bleu
+- Gracieuse and Percinet
+- The Golden Branch
+- Princess Belle-Etoile — Belle-Etoile
+- The Wonderful Sheep
+- The Island of Happiness
+- The Orange Tree and the Bee
+- Babiole
+- Princess Mayblossom
+- The Beneficent Frog
+- The Good Little Mouse
+- Peruonto
+- Vardiello
+- Cagliuso
+- The Myrtle
+- The Seven Doves
+- The Canary Prince
+- Giufa
+- The Golden Pot — Der goldne Topf
+- Fair Eckbert — Der blonde Eckbert | Blond Eckbert | Eckbert the Fair
+- The Green Snake and the Beautiful Lily — The Fairy Tale of the Green Snake and the Beautiful Lily
+- Prince Prigio
+- The Day Boy and the Night Girl
+- Little Daylight
+- The Wise Woman — The Lost Princess
+- The Giant's Heart
+- Many Moons
+- The Griffin and the Minor Canon
+- The Bee-Man of Orn
+- The Last of the Dragons
+- Titty Mouse and Tatty Mouse
+- The Master and His Pupil
+- How Jack Went to Seek His Fortune
+- Jack Hannaford
+- Mouse and Mouser
+- Earl Mar's Daughter
+- The Strange Visitor
+- The Cauld Lad of Hilton
+- The Red Ettin
+- The Golden Arm
+- The Stars in the Sky
+- Mossycoat
+- The Pedlar of Swaffham — The Peddler of Swaffham
+- The Hedley Kow
+- Gobborn Seer
+- The Wee Bannock
+- Fairy Ointment
+- My Own Self
+- Habetrot — Habetrot and Scantlie Mab
+- Duffy and the Devil
+- The Old Woman Who Lived in a Vinegar Bottle
+- Whippety Stourie
+- Assipattle and the Mester Stoorworm — Assipattle | The Mester Stoorworm
+- The Brownie of Blednock
+- Fair, Brown and Trembling
+- Guleesh
+- King O'Toole and His Goose
+- Connla and the Fairy Maiden
+- Munachar and Manachar
+- The Field of Boliauns
+- The Legend of Knockgrafton
+- Oisin in Tir na nOg — Oisin and Niamh
+- Gelert — Beddgelert | Gelert the Faithful Hound
+- The Lady of Llyn y Fan Fach — The Lady of the Lake of Llyn y Fan Fach
+- Cat and Mouse in Partnership — Cat and Mouse in Company | The Cat and the Mouse in Partnership
+- Mary's Child — Our Lady's Child | Marienkind
+- The Good Bargain
+- The Strange Musician — The Wonderful Musician
+- The Pack of Scoundrels — The Pack of Ragamuffins | The Riff-Raff
+- The Straw, the Coal and the Bean — Straw, Coal and Bean
+- The Riddle
+- The Louse and the Flea — Little Louse and Little Flea
+- Clever Hans
+- The Three Languages
+- The Tailor in Heaven
+- Thumbling's Travels — Thumbling as Journeyman
+- Mrs Fox's Wedding — The Wedding of Mrs Fox
+- Herr Korbes
+- Fundevogel — Foundling-Bird | Bird-Foundling
+- The Knapsack, the Hat and the Horn
+- Sweetheart Roland — Darling Roland | Dearest Roland | Beloved Roland
+- The Dog and the Sparrow
+- Frederick and Catherine — Freddy and Katy Lizzy | Frieder and Catherlieschen
+- The Little Peasant — The Little Farmer
+- The Hare's Bride
+- The Thief and His Master
+- The Three Children of Fortune — The Three Sons of Fortune
+- The Wolf and the Man
+- The Wolf and the Fox
+- The Fox and His Cousin — The Fox and the Godmother
+- The Fox and the Cat
+- The Carnation — The Pink
+- The Old Man and His Grandson — The Old Grandfather and His Grandson
+- The Death of the Little Hen
+- Brother Lustig — Brother Merry
+- Gambling Hansel
+- Hans Married — Hans Gets Married
+- The Fox and the Geese
+- The Poor Man and the Rich Man
+- The Singing, Springing Lark — The Singing, Soaring Lark
+- The Young Giant
+- Old Hildebrand
+- The Three Little Birds
+- The Devil's Sooty Brother
+- Wise Folks — The Clever People
+- Tales of the Paddock — Tales of the Toad
+- The Two Travellers
+- The Shroud — The Burial Shirt
+- The Skilful Huntsman — The Trained Huntsman
+- The Flail from Heaven — The Threshing-Flail from Heaven
+- The Two Kings' Children
+- The Clever Little Tailor
+- The Bright Sun Brings It to Light — The Bright Sun Will Bring It to Light
+- The Three Army Surgeons
+- The Seven Swabians
+- The Three Apprentices — The Three Journeymen
+- The King's Son Who Feared Nothing — The King's Son Who Is Afraid of Nothing
+- The Three Brothers
+- The Devil and His Grandmother
+- Ferdinand the Faithful and Ferdinand the Unfaithful
+- The Four Skilful Brothers
+- Fair Katrinelje and Pif-Paf-Poltrie
+- The Fox and the Horse
+- The White Bride and the Black Bride
+- The Three Black Princesses
+- Knoist and His Three Sons
+- The Maid of Brakel — The Girl from Brakel
+- My Household — Household Servants
+- The Lambkin and the Little Fish — The Little Lamb and the Little Fish
+- Going a-Travelling — Going Traveling
+- The Ungrateful Son
+- The Old Man Made Young Again — The Little Old Man Made Young by Fire
+- The Lord's Animals and the Devil's
+- The Rooster Beam — The Cock's Beam
+- The Old Beggar Woman
+- The Three Sluggards — The Three Lazy Ones
+- The Twelve Idle Servants — The Twelve Lazy Servants
+- The Shepherd Boy — The Little Shepherd Boy
+- The Stolen Farthings
+- Looking for a Bride — Choosing a Bride | Brides on Their Trial
+- The Hurds
+- The Sparrow and His Four Children
+- The Story of Schlauraffen Land — The Tale of Cockaigne | The Land of Cockaigne
+- The Ditmarsch Tale of Wonders — The Tall Tale from Ditmarsh
+- A Riddling Tale
+- The Wise Servant — The Clever Servant
+- Lazy Harry — Lazy Heinz
+- The Peasant in Heaven
+- Lean Lisa
+- The Hut in the Forest — The Hut in the Woods | The Forest House
+- Sharing Joy and Sorrow
+- The Willow-Wren — The Wren
+- The Sole — The Flounder
+- The Bittern and the Hoopoe
+- The Owl
+- The Moon
+- The Duration of Life
+- Death's Messengers
+- Master Pfriem
+- Eve's Various Children — Eve's Unequal Children
+- The Little Folks' Presents — The Gifts of the Little People
+- The Giant and the Tailor
+- The Nail
+- The Poor Boy in the Grave
+- The True Bride
+- The Peasant and the Devil
+- The Crumbs on the Table
+- The Ear of Corn — The Ear of Grain
+- The Grave-Mound
+- The Boots of Buffalo Leather
+- Little Ida's Flowers
+- The Naughty Boy
+- The Bronze Pig — The Metal Pig
+- The Buckwheat
+- The Angel
+- The Elfin Hill — The Elf Mound | The Elf Hill
+- The Jumpers — The Leap-Frog | The Leaping Match | The High Jumpers
+- Holger Danske — Holger the Dane
+- The Neighbouring Families
+- Little Tuk
+- The Shirt Collar — The False Collar
+- The Flax
+- The Phoenix Bird
+- The Old Gravestone
+- The Swan's Nest
+- It's Quite True! — It's Perfectly True | There Is No Doubt About It
+- The Goblin and the Huckster — The Elf and the Grocer
+- In a Thousand Years
+- Under the Willow Tree
+- The Last Pearl
+- A Leaf from Heaven
+- Ib and Little Christina
+- The Bottle Neck
+- The Philosopher's Stone
+- Soup from a Sausage Peg — Soup from a Sausage Skewer | Soup on a Sausage Peg
+- The Beetle — The Beetle Who Went on His Travels
+- The Butterfly
+- The Teapot
+- The Racers
+- The Wicked Prince — The Evil Prince
+- The Silver Shilling
+- The Windmill
+- The Most Incredible Thing
+- The Thorny Road of Honour
+- The Snowdrop
+- The Conceited Apple-Branch — The Apple Branch
+- The World's Fairest Rose — The Loveliest Rose in the World
+- Twelve by the Mail — The Mail-Coach Passengers
+- The Old Church Bell
+- The Pen and the Inkstand
+- The Last Dream of the Old Oak — The Old Oak Tree's Last Dream
+- The Porter's Son
+- The Candles
+- The Comet
+- Great-Grandfather
+- Luck May Lie in a Pin
+- The Court Cards
+- Chicken Grethe's Family
+- What the Whole Family Said
+- Sunshine Stories
+- Everything in Its Proper Place
+- The Story of the Year
+- She Was Good for Nothing
+
+### Tier 6: rare jackpots (2)
+
+- The Three Princes of Serendip — The Three Princes of Serendippo | Three Princes of Sarandib
+- The Buried Moon — The Dead Moon
+
+## Refused on purpose (38)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- The Tortoise and the Hare | The Hare and the Tortoise | The Boy Who Cried Wolf | The Ant and the Grasshopper | The Fox and the Grapes | The Lion and the Mouse | The Town Mouse and the Country Mouse | The Goose That Laid the Golden Eggs | The North Wind and the Sun | The Crow and the Pitcher | The Wolf in Sheep's Clothing | The Fox and the Crow | The Dog and His Reflection | The Grasshopper and the Ant | The Ant and the Dove | The Mouse and the Lion | The Country Mouse and the Town Mouse | The City Mouse and the Country Mouse | Sour Grapes | The Thirsty Crow | The Fox and the Stork | The Frog and the Ox | The Dog in the Manger | The Milkmaid and Her Pail | The Fox and the Goat | The Wolf and the Crane | The Frogs Who Desired a King | Androcles and the Lion | The Wind and the Sun — "One of Aesop's fables, not a fairy tale."
+- Panchatantra | Jataka tales | Hitopadesha | The Monkey and the Crocodile | The Blue Jackal | The Lion and the Rabbit | The Talkative Tortoise | The Loyal Mongoose — "Indian fables, not fairy tales."
+- Humpty Dumpty | Old Mother Hubbard | Little Bo Peep | Jack and Jill | Little Miss Muffet | Three Blind Mice | Old King Cole | Simple Simon | Little Boy Blue | Hey Diddle Diddle | Baa Baa Black Sheep | Mary Had a Little Lamb | The Grand Old Duke of York | Hickory Dickory Dock | Little Jack Horner | Georgie Porgie | The Old Woman Who Lived in a Shoe | There Was an Old Woman Who Lived in a Shoe | Twinkle Twinkle Little Star | Ring a Ring o' Roses | Ring Around the Rosie | Sing a Song of Sixpence | Who Killed Cock Robin | The House That Jack Built | Wee Willie Winkie | Jack Sprat | Mary Mary Quite Contrary | Pop Goes the Weasel | London Bridge Is Falling Down | Incy Wincy Spider | Itsy Bitsy Spider | Rock-a-bye Baby | Oranges and Lemons | Polly Put the Kettle On | The Muffin Man | Doctor Foster | Solomon Grundy | Peter Piper | Goosey Goosey Gander | Ding Dong Bell | Tom Tom the Piper's Son | Little Tommy Tucker — "A nursery rhyme, not a fairy tale."
+- Mother Goose | Tales of Mother Goose | Mother Goose Tales — "Perrault's tales went out under her name, but which tale?"
+- Arabian Nights | One Thousand and One Nights | 1001 Nights | Thousand and One Nights | Grimms' Fairy Tales | Brothers Grimm | Grimm | Hans Christian Andersen | Andersen | Charles Perrault | Perrault | Andrew Lang | The Blue Fairy Book | Kinder- und Hausmärchen | Children's and Household Tales | Scheherazade | Shahrazad | Pentamerone | Il Pentamerone | Giambattista Basile | Basile | Madame d'Aulnoy | d'Aulnoy | Joseph Jacobs | English Fairy Tales | Alexander Afanasyev | Afanasyev | Russian Fairy Tales | Asbjornsen and Moe | Norwegian Folktales | Italo Calvino | Italian Folktales | Oscar Wilde | Wilhelm Hauff | Ludwig Bechstein | Rudyard Kipling | Kipling | Just So Stories | The Red Fairy Book | The Green Fairy Book | The Yellow Fairy Book | Thakurmar Jhuli | Kathasaritsagara | Lang's Fairy Books — "The whole collection, or its teller. Which tale?"
+- Pinocchio | The Adventures of Pinocchio — "A novel, first serialised in an Italian children's magazine."
+- The Wizard of Oz | The Wonderful Wizard of Oz — "A novel, though L. Frank Baum called it a modernised fairy tale."
+- Peter Pan | Peter and Wendy — "A play and a novel by J. M. Barrie."
+- Alice in Wonderland | Alice's Adventures in Wonderland | Through the Looking-Glass — "A novel by Lewis Carroll."
+- The Water-Babies — "A novel, though its subtitle calls it a fairy tale for a land-baby."
+- The Little Prince | Le Petit Prince — "A novella by Antoine de Saint-Exupéry."
+- The Hobbit | The Lord of the Rings — "A novel by J. R. R. Tolkien."
+- A Christmas Carol — "A ghost story by Charles Dickens."
+- Shrek | Enchanted | Into the Woods — "A film or a show that sends fairy tales up, not a fairy tale itself."
+- Frozen — "A Disney film, loosely based on The Snow Queen."
+- Tangled — "A Disney film of Rapunzel."
+- Maleficent — "A film, and the villain of Sleeping Beauty."
+- Moana | Encanto | Brave | Zootopia — "A Disney film, not a fairy tale."
+- Prince Charming | Fairy Godmother | Big Bad Wolf | Wicked Stepmother | Evil Queen | Seven Dwarfs | Wicked Witch | Belle | The Beast | Ariel | Tinker Bell | Geppetto | Jiminy Cricket | Captain Hook | Genie — "A character, not a tale. Which tale?"
+- Pandora's Box | King Midas | Midas | Icarus | Orpheus and Eurydice | Medusa | Perseus | Theseus and the Minotaur | Narcissus | Persephone | Hercules | Heracles | Jason and the Argonauts | Jason and the Golden Fleece | The Golden Fleece | Odysseus | The Odyssey | Trojan Horse | Prometheus | Daedalus and Icarus | Demeter and Persephone | Hades and Persephone | Pygmalion | Arachne | Echo and Narcissus | Baucis and Philemon | Atalanta | Pegasus — "A Greek myth, not a fairy tale."
+- Robin Hood | Maid Marian | Little John | Friar Tuck | Sheriff of Nottingham | Robin Hood and Little John — "Robin Hood's ballads and legends don't count here."
+- The Call of Cthulhu | Cthulhu — "A horror story by H. P. Lovecraft, not a fairy tale."
+- Narnia | The Lion, the Witch and the Wardrobe | The Chronicles of Narnia — "Novels by C. S. Lewis."
+- The Canterville Ghost — "A comic ghost story by Oscar Wilde, not one of his fairy tales."
+- The Gruffalo | The Very Hungry Caterpillar | Where the Wild Things Are | The Paper Bag Princess | The Tiger Who Came to Tea | Room on the Broom | The Snail and the Whale | Stick Man | The Cat in the Hat | Green Eggs and Ham | The Stinky Cheese Man — "A picture book, not a fairy tale."
+- The Legend of Sleepy Hollow | Sleepy Hollow | The Headless Horseman — "A ghost story by Washington Irving, not a fairy tale."
+- King Arthur | Merlin | Camelot | Excalibur | The Sword in the Stone | Lancelot | Guinevere | The Holy Grail | Sir Gawain and the Green Knight | The Green Knight | Knights of the Round Table — "From the legends of King Arthur, which don't count here."
+- Beowulf | Gilgamesh | The Epic of Gilgamesh | The Kalevala | The Nibelungenlied | The Song of Roland — "An epic poem, not a fairy tale."
+- A Little Princess | The Secret Garden | Sara Crewe — "A novel by Frances Hodgson Burnett."
+- Swan Lake | The Swan Princess — "A ballet and the films made from it, not a fairy tale, though it borrows from them."
+- The Princess Bride | Stardust | Coraline | The NeverEnding Story | Howl's Moving Castle | Ella Enchanted | The Princess and the Goblin | At the Back of the North Wind | The Wind in the Willows | The Wonderful Adventures of Nils — "A novel, not a fairy tale."
+- Spirited Away | Labyrinth | Pan's Labyrinth | Ever After | Mirror Mirror | Snow White and the Huntsman | Three Hazelnuts for Cinderella | Three Wishes for Cinderella — "A film, not a fairy tale."
+- Wicked | Wicked: For Good — "A novel, a musical and two films spun from Oz, not a fairy tale."
+- Struwwelpeter | Shockheaded Peter | Slovenly Peter | Max and Moritz — "Cautionary tales in verse, not fairy tales."
+- Romulus and Remus | Pyramus and Thisbe — "A Roman myth, not a fairy tale."
+- Thor | Odin | Loki | Ragnarok | Norse Myths | Norse Mythology | Sigurd | Fafnir — "A Norse myth, not a fairy tale."
+- Santa Claus | Father Christmas | Tooth Fairy | Easter Bunny | Bogeyman | Boogeyman — "A figure of folklore, not a tale."
+- La Fontaine | Jean de La Fontaine | Ivan Krylov | Krylov | Aesop | Aesop's Fables — "Fables, and the writers who told them, don't count here."

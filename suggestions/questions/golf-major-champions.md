@@ -13,14 +13,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (12)
 
 - Tiger Woods — Tiger | Eldrick Woods | Woods
-- Jack Nicklaus — Golden Bear | Jack Nicklas | Nicklaus
+- Jack Nicklaus — Golden Bear | Jack Nicklas | Nicklaus | Jack
 - Arnold Palmer — Arnie | Arnie Palmer | Palmer
 - Gary Player — The Black Knight | Player
 - Rory McIlroy — Rory Mcllroy | Rory MacIlroy | Rory | McIlroy
 - Phil Mickelson — Lefty | Phil | Mickelson
 - Seve Ballesteros — Seve | Severiano Ballesteros | Ballesteros
 - Nick Faldo — Faldo
-- Tom Watson
+- Tom Watson — Watson | Wason
 - Scottie Scheffler — Scottie | Scheffler
 - Ben Hogan — Bantam Ben | The Hawk | Wee Ice Mon | Hogan
 - Greg Norman — The Shark | Norman
@@ -28,12 +28,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 2: common (38)
 
 - Ernie Els — The Big Easy | Els
-- Lee Trevino — Supermex | Merry Mex | Trevino
+- Lee Trevino — Supermex | Merry Mex | Trevino | Lee
 - Sam Snead — Slammin' Sammy | Sammy Snead | Snead
-- Bobby Jones — Bob Jones | Robert Tyre Jones
+- Bobby Jones — Bob Jones | Robert Tyre Jones | Jones
 - Walter Hagen — The Haig | Hagen
 - Jordan Spieth — Spith | Jordan Speith | Spieth
-- Brooks Koepka — Koepka
+- Brooks Koepka — Koepka | Brooks
 - Bryson DeChambeau — Bryson | DeChambeau
 - Jon Rahm — Rahm
 - Justin Rose — Rose
@@ -46,11 +46,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Shane Lowry — Lowry
 - Darren Clarke — Clarke
 - Graeme McDowell — McDowell
-- Dustin Johnson — DJ
+- Dustin Johnson — DJ | Johnson
 - Adam Scott — Scott
 - Vijay Singh — Singh
 - Payne Stewart — Stewart
-- John Daly — Long John Daly
+- John Daly — Long John Daly | Daly
 - Fred Couples — Freddie Couples | Boom Boom Couples | Couples
 - Bubba Watson — Bubba | Gerry Watson
 - Xander Schauffele — Xander | Alexander Schauffele | Schauffele
@@ -59,18 +59,18 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Hideki Matsuyama — Matsuyama
 - Matt Fitzpatrick — Fitzpatrick
 - Harry Vardon — Vardon
-- Byron Nelson — Lord Byron
-- Old Tom Morris — Tom Morris Sr. | Tom Morris Senior | Old Tom
+- Byron Nelson — Lord Byron | Nelson
+- Old Tom Morris — Tom Morris Sr. | Tom Morris Senior | Old Tom | Morris | Tom Morris
 - Annika Sörenstam — Annika | Sörenstam
 - Laura Davies — Davies
 - Nelly Korda — Nelly | Korda
-- Lydia Ko — Lydia
+- Lydia Ko — Lydia | Ko
 
 ### Tier 3: known to fans (122)
 
 - Danny Willett — Willett
 - Henrik Stenson — Stenson
-- Martin Kaymer — Kaymer
+- Martin Kaymer — Kaymer | Martin
 - José María Olazábal — Ollie | Chema Olazabal | Olazábal
 - Retief Goosen — The Goose | Goosen
 - Jim Furyk — Furyk
@@ -78,7 +78,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mark O'Meara — O'Meara
 - Paul Lawrie — Lawrie
 - Ben Curtis — Curtis
-- Todd Hamilton
+- Todd Hamilton — Hamilton
 - Stewart Cink — Cink
 - Louis Oosthuizen — Oosthuizen
 - Charl Schwartzel — Schwartzel
@@ -86,22 +86,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ángel Cabrera — El Pato | Cabrera
 - Zach Johnson
 - Lucas Glover — Glover
-- Webb Simpson
+- Webb Simpson — Simpson
 - Jason Day — Day
-- Keegan Bradley
+- Keegan Bradley — Bradley
 - Jason Dufner — Dufner
-- Jimmy Walker
+- Jimmy Walker — Walker
 - Patrick Reed — Reed
 - Francesco Molinari — Molinari
 - Gary Woodland — Woodland
-- Cameron Smith — Cam Smith
+- Cameron Smith — Cam Smith | Smith
 - Brian Harman — Harman
 - Wyndham Clark — Clark
 - J. J. Spaun — Spaun
-- Aaron Rai — Rai
+- Aaron Rai — Rai | Aaron
 - Ryan Fox — Fox
 - Mike Weir — Weir
-- Y. E. Yang — Yang Yong-eun | Yong-eun Yang
+- Y. E. Yang — Yang Yong-eun | Yong-eun Yang | Yang
 - Geoff Ogilvy — Ogilvy
 - Michael Campbell — Campbell
 - David Duval — Duval
@@ -116,7 +116,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Curtis Strange — Strange
 - Hale Irwin — Irwin
 - Raymond Floyd — Floyd
-- Johnny Miller
+- Johnny Miller — Miller
 - Ben Crenshaw — Gentle Ben | Crenshaw
 - Fuzzy Zoeller — Fuzzy | Frank Zoeller | Zoeller
 - Craig Stadler — Stadler
@@ -137,7 +137,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Patty Berg — Berg
 - Mickey Wright — Mary Kathryn Wright | Wright
 - Karrie Webb — Webb
-- Inbee Park — Park In-bee | Inbee
+- Inbee Park — Park In-bee | Inbee | Park
 - Se Ri Pak — Pak Se-ri | Pak
 - Lorena Ochoa — Ochoa
 - Nancy Lopez — Lopez
@@ -152,7 +152,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Georgia Hall — Hall
 - Brooke Henderson — Brooke M. Henderson | Henderson
 - Minjee Lee
-- Hannah Green
+- Hannah Green — Green
 - Ariya Jutanugarn — Jutanugarn
 - Anna Nordqvist — Nordqvist
 - Suzann Pettersen — Pettersen
@@ -170,8 +170,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Céline Boutier — Boutier
 - Ko Jin-young — Jin Young Ko
 - Chun In-gee — In Gee Chun | Chun
-- Kim Sei-young — Sei Young Kim
-- Ryu So-yeon — So Yeon Ryu
+- Kim Sei-young — Sei Young Kim | Kim
+- Ryu So-yeon — So Yeon Ryu | Ryu
 - Shanshan Feng — Feng Shanshan | Feng
 - Jiyai Shin — Shin Ji-yai | Shin
 - Karen Stupples — Stupples
@@ -202,7 +202,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lee Janzen — Janzen
 - Mark Brooks
 - Steve Jones
-- Willie Anderson
+- Willie Anderson — Anderson
 - Jim Barnes — Barnes
 - Tommy Armour — Armour
 - Denny Shute — Densmore Shute | Shute
@@ -219,10 +219,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Paul Runyan — Runyan
 - Henry Picard — Picard
 - Craig Wood — Wood
-- Jack Burke Jr. — Jack Burke
+- Jack Burke Jr. — Jack Burke | Burke
 - Doug Ford — Ford
 - Dave Stockton — Stockton
-- David Graham
+- David Graham — Graham
 - Lloyd Mangrum — Mangrum
 - Ken Venturi — Venturi
 - Tony Lema — Lema
@@ -255,21 +255,21 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Don January — January
 - John Mahaffey — Mahaffey
 - Bill Rogers — Rogers
-- Willie Park Sr. — Willie Park Senior
+- Willie Park Sr. — Willie Park Senior | Willie Park
 - Willie Park Jr. — Willie Park Junior
 - Harold Hilton — Hilton
 - John Ball — Ball
 - Bob Ferguson — Ferguson
 - Jamie Anderson — James Anderson
 - Bob Martin
-- Lawson Little
+- Lawson Little — Little
 - Johnny Goodman — Goodman
 - Chick Evans — Charles Evans | Evans
 - Jerome Travers — Jerry Travers | Travers
 - John McDermott — Johnny McDermott | McDermott
 - Alex Smith
 - Willie Smith
-- Sandy Herd
+- Sandy Herd — Herd
 - Jack White
 - George Duncan — Duncan
 - Arthur Havers — Havers
@@ -282,7 +282,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sally Little
 - Sandra Palmer
 - Jane Geddes — Geddes
-- Brandie Burton
+- Brandie Burton — Burton
 - Dottie Pepper — Dottie Mochrie | Dottie Pepper Mochrie | Mochrie | Pepper
 - Sherri Steinhauer — Steinhauer
 - Brittany Lincicome — Lincicome
@@ -344,7 +344,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - David Brown — Brown
 - Jack Burns — Burns
 - Hugh Kirkaldy — Kirkaldy
-- Willie Auchterlonie
+- Willie Auchterlonie — Auchterlonie
 - Horace Rawlins — Rawlins
 - James Foulis — Foulis
 - Joe Lloyd — Lloyd
@@ -378,7 +378,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Chick Harbert — Harbert
 - Dick Mayer — Mayer
 - Lionel Hebert
-- Jay Hebert
+- Jay Hebert — Hebert
 - Mary Lena Faulk — Faulk
 - Kathy Cornelius — Cornelius
 - Marilynn Smith
@@ -410,70 +410,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Jack Fleck — Fleck
 - Catherine Lacoste — Lacoste
 
-## Refused on purpose (69)
+## Refused on purpose (11)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Watson — "Which Watson? Two of them have won one."
-- Jones — "Which Jones? Two of them have won one."
-- Johnson — "Which Johnson? Three of them have won one."
-- Daly — "Which Daly? Two of them have won one."
-- Nelson — "Which Nelson? Two of them have won one."
-- Morris — "Which Morris? A father and his son both won it."
-- Hamilton — "Which Hamilton? Two of them have won one."
-- Simpson — "Which Simpson? Three of them have won one."
-- Bradley — "Which Bradley? Two of them have won one."
-- Walker — "Which Walker? Three of them have won one."
-- Smith — "Which Smith? Five of them have won one."
-- Yang — "Which Yang? Two of them have won one."
-- Miller — "Which Miller? Two of them have won one."
-- Green — "Which Green? Three of them have won one."
-- Anderson — "Which Anderson? Three of them have won one."
-- Burke — "Which Burke? Two of them have won one."
-- Graham — "Which Graham? Two of them have won one."
-- Park — "Which Park? Six of them have won one, in Scotland and in Korea."
-- Martin — "Which Martin? Two of them have won one."
-- Little — "Which Little? Two of them have won one."
-- Herd — "Which Herd? Two of them have won one."
-- Auchterlonie — "Which Auchterlonie? Two brothers both won one."
-- Burton — "Which Burton? Two of them have won one."
-- Hebert — "Which Hebert? Two brothers both won one."
-- Ko — "Which Ko? Two of them have won one."
-- Lee — "Which Lee? Several winners have the name. Give the other one too."
-- Kim — "Which Kim? Six of them have won one."
-- Ryu — "Which Ryu? Two of them have won one."
-- Jack — "Which Jack? Several of them have won one. The deep wants a surname."
-- Gary — "Which Gary? Two of them have won one. The deep wants a surname."
-- Nick — "Which Nick? Two of them have won one. The deep wants a surname."
-- Ian — "Which Ian? Two of them have won one. The deep wants a surname."
-- John — "Which John? Several of them have won one. The deep wants a surname."
-- Fred — "Which Fred? Several of them have won one. The deep wants a surname."
-- Sam — "Which Sam? Two of them have won one. The deep wants a surname."
-- Bobby — "Which Bobby? Several of them have won one. The deep wants a surname."
-- Walter — "Which Walter? Two of them have won one. The deep wants a surname."
-- Ben — "Which Ben? Several of them have won one. The deep wants a surname."
-- Tom — "Which Tom? Several of them have won one. The deep wants a surname."
-- Jim — "Which Jim? Several of them have won one. The deep wants a surname."
-- Mark — "Which Mark? Several of them have won one. The deep wants a surname."
-- Paul — "Which Paul? Several of them have won one. The deep wants a surname."
-- Jason — "Which Jason? Two of them have won one. The deep wants a surname."
-- Jimmy — "Which Jimmy? Two of them have won one. The deep wants a surname."
-- Justin — "Which Justin? Several of them have won one. The deep wants a surname."
-- Nancy — "Which Nancy? Two of them have won one. The deep wants a surname."
-- Patty — "Which Patty? Several of them have won one. The deep wants a surname."
-- Kathy — "Which Kathy? Several of them have won one. The deep wants a surname."
-- Betsy — "Which Betsy? Two of them have won one. The deep wants a surname."
-- Grace — "Which Grace? Two of them have won one. The deep wants a surname."
-- Willie — "Which Willie? Several of them have won one. The deep wants a surname."
-- Bob — "Which Bob? Several of them have won one. The deep wants a surname."
-- Tony — "Which Tony? Several of them have won one. The deep wants a surname."
-- Sandy — "Which Sandy? Two of them have won one. The deep wants a surname."
-- Arnold | Ernie | Jordan | Jon | Sergio | Padraig | Bernhard | Shane | Darren | Graeme | Adam | Vijay | Payne | Harry | Collin | Hideki | Matt | Danny | Henrik | Retief | Louis | Charl | Trevor | Zach | Keegan | Patrick | Francesco | Cameron | Brian | Wyndham | Ryan | Dustin | Laura | Karrie | Lorena | Michelle | Paula | Yani | Mickey | Louise | Juli | Minjee | Hannah | Georgia | Brooke | Lilia | Ariya | Catriona | Greg — "First names won't do here. The deep wants a surname."
-- Brooks — "Which Brooks? It's one winner's first name and another's surname. Give both names."
-- Aaron — "Which Aaron? It's one winner's first name and another's surname. Give both names."
-- Perry — "Which Perry? Give a first name too."
-- Tom Morris — "Which Tom Morris? A father and his son both won it."
-- Willie Park — "Which Willie Park? Father and son both won it."
+- Arnold | Gary | Nick | Ernie | Jordan | Jon | Sergio | Padraig | Ian | Bernhard | Shane | Darren | Graeme | Adam | Vijay | Payne | John | Fred | Sam | Bobby | Walter | Ben | Tom | Harry | Collin | Hideki | Matt | Danny | Henrik | Retief | Jim | Mark | Paul | Louis | Charl | Trevor | Zach | Jason | Keegan | Jimmy | Patrick | Francesco | Cameron | Brian | Wyndham | Ryan | Justin | Dustin | Laura | Karrie | Lorena | Michelle | Paula | Yani | Nancy | Patty | Mickey | Louise | Juli | Kathy | Betsy | Minjee | Hannah | Georgia | Brooke | Lilia | Ariya | Catriona | Grace | Willie | Bob | Tony | Sandy | Greg — "First names won't do here. The deep wants a surname."
+- Perry — "Kenny Perry's majors came on the senior tour, which doesn't count. Give a first name too."
 - Colin Montgomerie | Montgomerie | Monty — "Five times a runner-up in majors. His only majors came on the senior tour, which doesn't count here."
 - Lee Westwood | Westwood — "World No. 1, but never a major winner."
 - Luke Donald — "World No. 1, but never a major winner."

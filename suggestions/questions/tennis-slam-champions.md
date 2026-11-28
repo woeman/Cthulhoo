@@ -16,14 +16,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rafael Nadal — Rafa | Rafa Nadal | King of Clay | Nadal
 - Novak Djokovic — Nole | Djoker | Novak Djokovich | Novak | Djokovic
 - Andy Murray — Sir Andy Murray | Muzza | Murray
-- Serena Williams — Serena
+- Serena Williams — Serena | Williams
 - Venus Williams — Venus
 - Pete Sampras — Pistol Pete | Sampras
 - Andre Agassi — Agassi
 - Björn Borg — Ice Borg | Borg
 - John McEnroe — Johnny Mac | Mac | Superbrat | John MacEnroe | McEnroe
 - Steffi Graf — Stefanie Graf | Steffi | Graf
-- Martina Navratilova — Navratilova
+- Martina Navratilova — Navratilova | Martina
 - Carlos Alcaraz — Carlitos Alcaraz | Carlitos | Alcaraz
 - Jannik Sinner — Sinner
 - Emma Raducanu — Raducanu
@@ -102,7 +102,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Mary Pierce — Pierce
 - Amélie Mauresmo — Mauresmo
 - Li Na — Na Li | Li
-- Petra Kvitová — Kvitová
+- Petra Kvitová — Kvitová | Petra
 - Victoria Azarenka — Vika Azarenka | Azarenka
 - Angelique Kerber — Kerber
 - Garbiñe Muguruza — Muguruza
@@ -167,22 +167,22 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Budge Patty — Patty
 - Dick Savitt — Savitt
 - Ted Schroeder — Schroeder
-- Frank Parker
+- Frank Parker — Parker
 - Mark Edmondson — Edmondson
 - Brian Teacher — Teacher
 - Bill Johnston — Little Bill Johnston | Johnston
-- William Renshaw — Willie Renshaw
+- William Renshaw — Willie Renshaw | Renshaw
 - Ernest Renshaw
-- Laurence Doherty — Laurie Doherty
+- Laurence Doherty — Laurie Doherty | Doherty
 - Reginald Doherty — Reggie Doherty
 - Anthony Wilding — Tony Wilding | Wilding
 - Norman Brookes — Brookes
-- Mal Anderson — Malcolm Anderson
+- Mal Anderson — Malcolm Anderson | Anderson
 - Mervyn Rose — Rose
 - Ken McGregor — McGregor
 - Nicola Pietrangeli — Pietrangeli
 - Bill Bowrey
-- Richard Sears
+- Richard Sears — Sears
 - Iva Majoli — Majoli
 - Anastasia Myskina — Myskina
 - Mima Jaušovec — Jaušovec
@@ -191,11 +191,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Barbara Jordan — Jordan
 - Kerry Melville Reid — Kerry Reid | Kerry Melville | Melville
 - Nancy Richey — Nancy Richey Gunter | Richey
-- Ann Jones — Ann Haydon Jones | Ann Haydon | Haydon
+- Ann Jones — Ann Haydon Jones | Ann Haydon | Jones | Haydon
 - Angela Mortimer — Angela Mortimer Barrett | Angela Barrett | Mortimer
 - Christine Truman — Christine Truman Janes | Christine Janes | Truman
 - Françoise Dürr — Dürr
-- Lesley Turner Bowrey — Lesley Turner | Lesley Bowrey | Turner
+- Lesley Turner Bowrey — Lesley Turner | Lesley Bowrey | Bowrey | Turner
 - Darlene Hard — Hard
 - Doris Hart — Hart
 - Louise Brough — Louise Brough Clapp | Brough
@@ -206,16 +206,16 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Helen Jacobs — Jacobs
 - Dorothy Round — Dorothy Round Little | Round
 - Kitty Godfree — Kathleen McKane Godfree | Kitty McKane | Kathleen McKane | Kathleen Godfree | Kitty McKane Godfree | Godfree | McKane
-- Charlotte Cooper — Charlotte Cooper Sterry | Charlotte Sterry | Chattie Cooper | Sterry
+- Charlotte Cooper — Charlotte Cooper Sterry | Charlotte Sterry | Chattie Cooper | Cooper | Sterry
 - Maud Watson — Watson
 - Dorothea Lambert Chambers — Dorothea Douglass | Dorothea Chambers | Dorothea Douglass Lambert Chambers | Lambert Chambers | Chambers | Douglass
-- May Sutton — May Sutton Bundy | May Bundy | Sutton
+- May Sutton — May Sutton Bundy | May Bundy | Sutton | Bundy
 - Molla Mallory — Molla Bjurstedt Mallory | Molla Bjurstedt | Mallory | Bjurstedt
 - Hazel Hotchkiss Wightman — Hazel Wightman | Hazel Hotchkiss | Wightman | Hotchkiss
 - Karen Hantze Susman — Karen Susman | Karen Hantze | Susman | Hantze
 - Shirley Bloomer — Shirley Bloomer Brasher | Shirley Brasher | Bloomer | Brasher
 - Zsuzsa Körmöczy — Körmöczy
-- Gordon Reid
+- Gordon Reid — Reid
 - Shingo Kunieda — Kunieda
 - Esther Vergeer — Vergeer
 - Diede de Groot — de Groot
@@ -223,7 +223,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 5: expert (137)
 
-- Arthur Gore — Arthur Wentworth Gore
+- Arthur Gore — Arthur Wentworth Gore | Gore
 - Frank Hadow — Hadow
 - John Hartley — Hartley
 - Herbert Lawford — Lawford
@@ -262,7 +262,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - James Cecil Parke — J. C. Parke | James Parke | Cecil Parke | Parke
 - Ernie Parker — Ernest Parker
 - Arthur O'Hara Wood
-- Pat O'Hara Wood
+- Pat O'Hara Wood — O'Hara Wood
 - Gordon Lowe — Lowe
 - Algernon Kingscote — Kingscote
 - Rhys Gemmell — Gemmell
@@ -277,7 +277,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - H. Briggs — Briggs
 - Jean Schopfer — Schopfer
 - Laurent Riboulet — Riboulet
-- André Vacherot
+- André Vacherot — Vacherot
 - Michel Vacherot
 - Paul Aymé — Aymé
 - Max Decugis — Decugis
@@ -286,7 +286,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Jean Samazeuilh — Samazeuilh
 - François Blanchy — Blanchy
 - Blanche Bingley — Blanche Bingley Hillyard | Blanche Hillyard | Hillyard | Bingley
-- Lena Rice — Helen Rice
+- Lena Rice — Helen Rice | Rice
 - Muriel Robb — Robb
 - Dora Boothby — Boothby
 - Ethel Thomson Larcombe — Ethel Larcombe | Ethel Thomson | Larcombe | Thomson
@@ -366,63 +366,12 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lottie Dod — Charlotte Dod | Dod
 - Spencer Gore
 
-## Refused on purpose (102)
+## Refused on purpose (51)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Williams — "Which Williams? Three of them have won one."
-- Cooper — "Which Cooper? Two of them have won one."
-- Parker — "Which Parker? Two of them have won one."
-- Renshaw — "Which Renshaw? Twin brothers both won it."
-- Doherty — "Which Doherty? Two brothers both won it."
-- Anderson — "Which Anderson? Two of them have won one."
-- Bowrey — "Which Bowrey? Two of them have won one."
-- Sears — "Which Sears? Two of them have won one."
-- Reid — "Which Reid? Two of them have won one."
-- Jones — "Which Jones? Two of them have won one."
-- Bundy — "Which Bundy? A mother and her daughter both won it."
-- Gore — "Which Gore? Two of them have won one."
-- Rice — "Which Rice? Two of them have won one."
-- O'Hara Wood — "Which of the brothers? Both of them won it."
-- Vacherot — "Which Vacherot? Two of them have won one."
-- Rafael — "Which Rafael? Two of them have won one. The deep wants a surname."
-- Andre — "Which Andre? Three of them have won one. The deep wants a surname."
-- Ken — "Which Ken? Two of them have won one. The deep wants a surname."
-- Fred — "Which Fred? Four of them have won one. The deep wants a surname."
-- John — "Which John? Seven of them have won one. The deep wants a surname."
-- Stefan — "Which Stefan? Two of them have won one. The deep wants a surname."
-- Chris — "Which Chris? Two of them have won one. The deep wants a surname."
-- Michael — "Which Michael? Three of them have won one. The deep wants a surname."
-- Pat — "Which Pat? Two of them have won one. The deep wants a surname."
-- Stan — "Which Stan? Two of them have won one. The deep wants a surname."
-- Bill — "Which Bill? Three of them have won one. The deep wants a surname."
-- Jack — "Which Jack? Two of them have won one. The deep wants a surname."
-- Frank — "Which Frank? Three of them have won one. The deep wants a surname."
-- Arthur — "Which Arthur? Four of them have won one. The deep wants a surname."
-- Tony — "Which Tony? Two of them have won one. The deep wants a surname."
-- Don — "Which Don? Two of them have won one. The deep wants a surname."
-- Helen — "Which Helen? Four of them have won one. The deep wants a surname."
-- Gordon — "Which Gordon? Two of them have won one. The deep wants a surname."
-- Juan — "Which Juan? Two of them have won one. The deep wants a surname."
-- Martina — "Which Martina? Two of them have won one. The deep wants a surname."
-- Maria — "Which Maria? Two of them have won one. The deep wants a surname."
-- Andy — "Which Andy? Three of them have won one. The deep wants a surname."
-- Carlos — "Which Carlos? Two of them have won one. The deep wants a surname."
-- Virginia — "Which Virginia? Two of them have won one. The deep wants a surname."
-- Margaret — "Which Margaret? Three of them have won one. The deep wants a surname."
-- Suzanne — "Which Suzanne? Two of them have won one. The deep wants a surname."
-- Marion — "Which Marion? Two of them have won one. The deep wants a surname."
-- Shirley — "Which Shirley? Two of them have won one. The deep wants a surname."
-- Dorothy — "Which Dorothy? Two of them have won one. The deep wants a surname."
-- Maud — "Which Maud? Two of them have won one. The deep wants a surname."
-- Richard — "Which Richard? Two of them have won one. The deep wants a surname."
-- Gustavo — "Which Gustavo? Two of them have won one. The deep wants a surname."
-- Jean — "Which Jean? Three of them have won one. The deep wants a surname."
-- Manuel — "Which Manuel? Two of them have won one. The deep wants a surname."
-- Andres — "Which Andres? Two of them have won one. The deep wants a surname."
-- Pete | Boris | Bjorn | Monica | Aryna | Naomi | Ashleigh | Ash | Emma | Jannik | Rod | Roy | Lew | Jimmy | Jim | Ivan | Mats | Lleyton | Goran | Daniil | Kim | Justine | Arantxa | Gabriela | Lindsay | Jennifer | Amelie | Svetlana | Victoria | Angelique | Simona | Caroline | Sloane | Bianca | Sofia | Barbora | Marketa | Madison | Linda | Evonne | Tracy | Sue | Billie | Patrick | Marat | Dominic | Alexander | Alfie | Shingo | Esther | Diede | Dylan | Jelena | Pancho | Lottie | Maureen | Althea | Mima | Iva | Jana | Conchita | Flavia | Francesca | Samantha | Ana | Anastasia | Kerry | Nancy | Ann | Darlene | Doris | Louise | Angela | Christine | Pauline | Alice | Charlotte | Ilie | Guillermo | Yannick | Yevgeny | Spencer | Bobby | Neale | Jan | Sergi | Roscoe | Brian | Adriano | Ashley | Chuck | Vic | Ted | Dick | Jaroslav | Mervyn | Mal | Nicola | Gottfried | Barbara | Kitty — "First names won't do here. The deep wants a surname."
-- Williams sisters — "Which sister? Serena and Venus have both won it."
-- Petra — "Which Petra? It's one champion's first name and another's surname. Give both names."
+- Pete | Rafael | Andre | Boris | Bjorn | Monica | Aryna | Naomi | Ashleigh | Ash | Emma | Jannik | Rod | Roy | Ken | Lew | Fred | John | Jimmy | Jim | Ivan | Stefan | Mats | Lleyton | Goran | Daniil | Kim | Justine | Arantxa | Gabriela | Lindsay | Jennifer | Amelie | Svetlana | Victoria | Angelique | Simona | Caroline | Sloane | Bianca | Sofia | Barbora | Marketa | Madison | Linda | Evonne | Tracy | Sue | Chris | Billie | Michael | Pat | Patrick | Marat | Stan | Dominic | Alexander | Bill | Jack | Frank | Arthur | Tony | Don | Helen | Alfie | Shingo | Esther | Diede | Dylan | Gordon | Juan | Jelena | Maria | Andy | Carlos | Virginia | Margaret | Pancho | Lottie | Suzanne | Maureen | Althea | Mima | Iva | Jana | Conchita | Marion | Flavia | Francesca | Samantha | Ana | Anastasia | Kerry | Nancy | Ann | Darlene | Doris | Louise | Shirley | Angela | Christine | Pauline | Alice | Dorothy | Charlotte | Maud | Ilie | Guillermo | Yannick | Richard | Gustavo | Yevgeny | Spencer | Jean | Bobby | Neale | Manuel | Andres | Jan | Sergi | Roscoe | Brian | Adriano | Ashley | Chuck | Vic | Ted | Dick | Jaroslav | Mervyn | Mal | Nicola | Gottfried | Barbara | Kitty — "First names won't do here. The deep wants a surname."
+- Williams sisters — "That's two champions at once. Name one of them."
 - Tim Henman | Henman | Tiger Tim | Henman Hill — "Six Grand Slam semi-finals, but never a final."
 - Greg Rusedski | Rusedski — "Runner-up at the 1997 US Open, but never a champion."
 - Kevin Anderson — "Twice a Grand Slam runner-up, never a champion."
@@ -459,7 +408,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Karolína Muchová | Muchova — "Twice a Grand Slam runner-up, never a champion."
 - Leylah Fernandez — "Runner-up at the 2021 US Open, but no title yet."
 - Mary Joe Fernández | Mary Joe — "Three times a Grand Slam singles runner-up, but never the singles champion."
-- Fernandez — "Which Fernández? Several have reached finals, but only one has won, in a wheelchair."
+- Fernandez — "Leylah and Mary Joe Fernández reached finals but never won one. Give a first name too."
 - Amanda Anisimova | Anisimova — "Runner-up at Wimbledon and the US Open in 2025, but no title yet."
 - Jessica Pegula | Pegula — "Runner-up at the 2024 US Open, but no title yet."
 - Maja Chwalińska | Chwalinska — "Reached the 2026 French Open final as a qualifier, but lost it."

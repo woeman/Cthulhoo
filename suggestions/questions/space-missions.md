@@ -45,7 +45,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cassini — Cassini–Huygens | Cassini probe | Cassini spacecraft | Cassini mission
 - New Horizons — New Horizons mission
 - Rosetta — Rosetta probe | Rosetta mission
-- Opportunity — Opportunity rover | Oppy | MER-B | Opportunity mission
+- Opportunity — Opportunity rover | Oppy | MER-B | Opportunity mission | Mars Exploration Rover | MER
 - Galileo — Galileo probe | Galileo spacecraft | Galileo satellites | Galileo mission
 - Ingenuity — Ingenuity helicopter | Mars Helicopter | Ginny | Ingenuity mission
 - Starship — SpaceX Starship | Starship HLS | Starship mission
@@ -134,7 +134,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Vostok 6 — Vostok 6 mission
 - Voskhod 2 — Voskhod 2 mission
 - Shenzhou 5 — Shenzhou 5 mission
-- Explorer 1 — Explorer 1 mission
+- Explorer 1 — Explorer 1 mission | Explorer
 - Pioneer 10 — Pioneer 10 mission
 - Sputnik 2 — Muttnik | Sputnik 2 mission
 - Chang'e 4 — Chang'e 4 mission
@@ -487,7 +487,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - NuSTAR — NuSTAR mission
 - GALEX — GALEX mission
 - IRAS — IRAS mission
-- Einstein Observatory — HEAO-2 | Einstein Observatory mission
+- Einstein Observatory — HEAO-2 | Einstein Observatory mission | Einstein
 - Uhuru — Uhuru mission
 - TRACE — TRACE mission
 - RHESSI — RHESSI mission
@@ -1501,7 +1501,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Prospero — Prospero X-3 | Prospero mission
 - Kosmos 482 — Kosmos 482 mission
 
-## Refused on purpose (62)
+## Refused on purpose (59)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -1513,8 +1513,8 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Mars — "A planet. The Soviet probes named after it carry numbers."
 - Moon — "Where many missions went. Name one of them."
 - Jupiter | Venus | Uranus | Neptune | Pluto | Earth | Sun — "A destination, not a mission. Name one that went there."
-- Moon landing | Moon landings | Moon mission | Lunar landing | Mars landing | Mars mission | Moonshot — "Which one? Name the mission."
-- Spacecraft | Spaceship | Space probe | Probe | Satellite | Capsule | Space capsule | Lander | Orbiter | Space mission | Mission | Spaceplane | Rover | Mars rover | Mars lander | Space telescope | Telescope | Space station | Station | CubeSat | Rocket ship — "Which one? Name it."
+- Moon landing | Moon landings | Moon mission | Lunar landing | Mars landing | Mars mission | Moonshot — "Many missions fit that. Name one."
+- Spacecraft | Spaceship | Space probe | Probe | Satellite | Capsule | Space capsule | Lander | Orbiter | Space mission | Mission | Spaceplane | Rover | Mars rover | Mars lander | Space telescope | Telescope | Space station | Station | CubeSat | Rocket ship — "That covers hundreds of craft. Name one."
 - Rocket | Space rocket — "A rocket only carries the craft. Name the craft or its mission."
 - Space Race | Cold War | Space Age | Moon race — "A contest between nations, not a mission."
 - Spacewalk | EVA | Extravehicular activity | Moonwalk — "Something astronauts do outside the craft. Name the mission."
@@ -1524,9 +1524,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Voyager 3 | Voyager 4 | Voyager 5 — "Only two Voyagers flew."
 - Voyager 6 — "Only two Voyagers flew. In Star Trek, a made-up Voyager 6 comes home as V'Ger."
 - Cygnus X-1 — "A black hole in the constellation of the Swan, not a spacecraft."
-- Mars Exploration Rover | MER — "Which one? There were two. Name it."
-- Explorer — "Which Explorer? NASA has launched dozens. Give its number."
-- Einstein — "Which one? Several craft carry his name. Add a word."
 - Axiom — "A space company. Name one of its missions."
 - Space Station Freedom — "Never built: its design became part of the International Space Station."
 - Ares III — "Fiction: the Mars mission in The Martian."

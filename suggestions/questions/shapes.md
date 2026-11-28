@@ -37,7 +37,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Kite — Deltoid
 - Semicircle — Half circle | Half moon
 - Crescent — Crescent moon
-- Polygon — Regular polygon | Irregular polygon
+- Polygon — Regular polygon | Irregular polygon | N-gon
 - Cuboid — Rectangular prism | Rectangular box | Box | Rectangular cuboid | Rectangular solid
 - Prism
 - Tetrahedron — Triangular pyramid | D4 | Triangle-based pyramid | Triangular-based pyramid
@@ -153,7 +153,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Truncated dodecahedron
 - Rhombicosidodecahedron — Small rhombicosidodecahedron
 - Rhombic triacontahedron
-- Small stellated dodecahedron
+- Small stellated dodecahedron — Stellated dodecahedron
 - Great dodecahedron
 - Great stellated dodecahedron
 - Great icosahedron
@@ -403,15 +403,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Gyrobifastigium
 - Witch of Agnesi — Agnesi curve | Versiera
 
-## Refused on purpose (8)
+## Refused on purpose (6)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Shape | Geometric shape | 2D shape | 3D shape | Figure — "Which shape? Name one."
+- Shape | Geometric shape | 2D shape | 3D shape | Figure — "That covers every shape. Name one."
 - Point | Dot | Vertex | Edge | Angle | Right angle | Chord | Radius | Diameter | Face — "Part of a shape, not a shape."
-- Curve — "Which curve? Name one."
-- Solid | Three-dimensional shape — "Which solid? Name one."
+- Curve — "That covers every curve. Name one."
+- Solid | Three-dimensional shape — "That covers every solid. Name one."
 - Tangram — "A puzzle made of seven shapes. Name one of the pieces."
 - Pi | Phi | Golden ratio — "A number, not a shape."
-- Stellated dodecahedron — "Which one? There is a small one and a great one."
-- N-gon — "Which N? Name the number of sides."

@@ -1,0 +1,479 @@
+# Name a snake.
+
+Question id: `snakes` · category: nature · source: `data/nature.json`
+
+Rules: Any snake, living or extinct, as a group or a single species: cobras, pythons, vipers and the rest. Legless lizards and other snake-shaped animals don't count.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (415 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (11)
+
+- Cobra — Cobras | Cobra snake | Naja
+- King Cobra — Hamadryad | Ophiophagus hannah | King Cobra snake | Ophiophagus
+- Python — Python snake | Pythonidae | Pythonid
+- Rattlesnake — Rattler | Crotalus
+- Anaconda — Anaconda snake | Eunectes
+- Boa Constrictor — Red-tailed boa | Red tail boa | Common boa | Boa Constrictor snake
+- Black Mamba — Black Mamba snake | Dendroaspis polylepis
+- Viper — True viper | Viper snake
+- Adder — European adder | Common adder | Common European adder | Northern viper | Black adder | Vipera berus | Adder snake
+- Grass Snake — Ringed snake | Barred grass snake | Natrix | Natrix natrix | Natrix helvetica
+- Garter Snake — Garden snake | Gardener snake | Gartner snake | Garter | Common garter snake | Eastern garter snake | Red-sided garter snake | Thamnophis | Thamnophis sirtalis
+
+### Tier 2: common (33)
+
+- Boa — Boa snake
+- Mamba — Mamba snake | Dendroaspis
+- Green Mamba — Green Mamba snake
+- Corn Snake — Red rat snake | Pantherophis guttatus
+- Milk Snake — Eastern milk snake | Red milk snake | Lampropeltis triangulum
+- Kingsnake — Lampropeltis
+- Rat Snake — Chicken snake | Pantherophis | Elaphe
+- Water Snake — Nerodia
+- Sea Snake — Hydrophis | Hydrophiinae
+- Coral Snake — Micrurus
+- Copperhead — Highland moccasin | Copperhead snake | Northern copperhead | Southern copperhead | Agkistrodon contortrix
+- Cottonmouth — Water moccasin | Moccasin | Cottonmouth snake | Florida cottonmouth | Northern cottonmouth | Agkistrodon piscivorus
+- Sidewinder — Horned rattlesnake | Sidewinder snake | Sidewinder rattlesnake | Crotalus cerastes
+- Diamondback Rattlesnake — Diamondback | Diamondback Rattler
+- Pit Viper — Pit Viper snake | Crotalinae | Crotaline
+- Puff Adder — Puff Adder snake | Bitis arietans
+- Gaboon Viper — Gaboon adder | Gabon viper | Gaboon Viper snake | Bitis gabonica
+- Death Adder — Common death adder | Death Adder snake | Northern death adder | Desert death adder | Acanthophis | Acanthophis antarcticus
+- Taipan — Taipan snake | Oxyuranus
+- Inland Taipan — Fierce snake | Small-scaled snake | Western taipan | Inland Taipan snake | Oxyuranus microlepidotus
+- Tiger Snake — Mainland tiger snake | Eastern tiger snake | Black tiger snake | Notechis | Notechis scutatus
+- Brown Snake — DeKay's brown snake | Pseudonaja
+- Krait — Krait snake | Bungarus
+- Boomslang — Boomslang snake | Dispholidus typus
+- Burmese Python — Burmese Python snake | Python bivittatus
+- Ball Python — Royal python | Ball Python snake | Python regius
+- Reticulated Python — Retic | Reticulated Python snake | Malayopython reticulatus | Python reticulatus
+- Green Anaconda — Common anaconda | Southern green anaconda | Green Anaconda snake | Eunectes murinus
+- Green Tree Python — Chondro | Green Tree Python snake | Morelia viridis
+- Asp — Asp snake
+- Tree Snake
+- Spitting Cobra — Spitting Cobra snake
+- Hognose Snake — Hognose | Hog-nosed snake | Spreading adder | Heterodon
+
+### Tier 3: known to fans (61)
+
+- Titanoboa — Titanoboa snake
+- Indian Cobra — Spectacled cobra | Naag | Naja naja | Indian Cobra snake | Nag | Nagin | Naagin
+- Egyptian Cobra — Egyptian Cobra snake | Naja haje
+- Cape Cobra — Yellow cobra | Cape Cobra snake | Naja nivea
+- Common Krait — Indian krait | Common Krait snake | Bungarus caeruleus
+- Banded Krait — Banded Krait snake
+- Sea Krait — Banded sea krait | Yellow-lipped sea krait | Sea Krait snake | Laticauda
+- Russell's Viper — Chain viper | Daboia | Russell's Viper snake | Daboia russelii
+- Saw-scaled Viper — Carpet viper | Echis | Saw-scaled Viper snake | Phoorsa | Echis carinatus
+- Horned Viper — Horned Viper snake | Cerastes
+- Rhinoceros Viper — Rhino viper | River jack | Rhinoceros Viper snake | Bitis nasicornis
+- Bush Viper — Bush Viper snake | Atheris
+- Eyelash Viper — Eyelash pit viper | Eyelash Viper snake
+- Fer-de-lance — Terciopelo | Barba amarilla | Fer-de-lance snake | Bothrops asper | Bothrops atrox
+- Bushmaster — Surucucu | Bushmaster snake | Lachesis | Lachesis muta
+- Sand Viper — Sahara sand viper | Avicenna viper | Sand Viper snake
+- Eastern Diamondback — Eastern diamondback rattlesnake | Eastern Diamondback snake | Crotalus adamanteus
+- Western Diamondback — Western diamondback rattlesnake | Western Diamondback snake | Crotalus atrox
+- Timber Rattlesnake — Canebrake rattlesnake | Canebrake | Banded rattlesnake | Timber Rattler | Crotalus horridus
+- Prairie Rattlesnake — Prairie Rattler | Hopi rattlesnake | Crotalus viridis
+- Mojave Rattlesnake — Mojave green | Mojave | Mohave rattlesnake | Mojave Rattler
+- Smooth Snake — Coronella | Coronella austriaca
+- Aesculapian Snake — Aesculapian | Zamenis | Zamenis longissimus
+- Dice Snake
+- Viperine Snake — Viperine water snake
+- Whip Snake
+- Racer — Eastern racer | North American racer | Blue racer | Racer snake
+- Black Racer — Southern black racer | Black Racer snake
+- Coachwhip — Coachwhip snake | Masticophis
+- Indigo Snake — Eastern indigo snake | Indigo | Drymarchon
+- Gopher Snake — Pituophis
+- Bullsnake
+- Pine Snake
+- Ringneck Snake — Ring-necked snake | Ringneck | Diadophis
+- Ribbon Snake
+- Green Snake — Opheodrys
+- Brown Tree Snake — Night tiger | Boiga irregularis
+- Flying Snake — Flying tree snake | Gliding snake | Chrysopelea
+- Vine Snake — Asian vine snake | Green vine snake | Oriental whip snake | Ahaetulla
+- Tentacled Snake — Erpeton | Erpeton tentaculatum
+- Blind Snake — Typhlops | Scolecophidia
+- Worm Snake
+- Egg-eating Snake — Egg eater | Dasypeltis
+- Mangrove Snake — Gold-ringed cat snake
+- Keelback — Keelback snake | Freshwater snake | Tropidonophis mairii
+- Red-bellied Black Snake — Red-bellied black | Pseudechis porphyriacus
+- King Brown — Mulga snake | King brown snake | Pseudechis australis
+- Coastal Taipan — Common taipan | Eastern taipan | Coastal Taipan snake | Oxyuranus scutellatus
+- Eastern Brown Snake — Common brown snake | Eastern brown | Pseudonaja textilis
+- Carpet Python — Jungle carpet python | Carpet Python snake | Coastal carpet python | Murray-Darling carpet python | Morelia spilota
+- Rock Python — Rock Python snake
+- Sand Boa — Sand Boa snake | Javelin sand boa | Eryx
+- Emerald Tree Boa — Emerald Tree Boa snake | Corallus caninus
+- Rainbow Boa — Brazilian rainbow boa | Rainbow Boa snake | Epicrates cenchria
+- Yellow Anaconda — Paraguayan anaconda | Yellow Anaconda snake | Eunectes notaeus
+- California Kingsnake
+- Black Rat Snake — Pilot snake
+- Eastern Coral Snake — Harlequin coral snake | Micrurus fulvius
+- Blacksnake
+- Yellow-bellied Sea Snake — Pelagic sea snake | Hydrophis platurus | Pelamis platura
+- Habu — Habu snake | Okinawa habu | Protobothrops flavoviridis
+
+### Tier 4: obscure (101)
+
+- Vasuki — Vasuki indicus | Vasuki snake
+- Monocled Cobra — Monocled Cobra snake | Naja kaouthia
+- Forest Cobra — Black and white cobra | Forest Cobra snake
+- Chinese Cobra — Chinese Cobra snake | Naja atra
+- Philippine Cobra — Philippine Cobra snake
+- Mozambique Spitting Cobra — Mozambique Spitting Cobra snake
+- Black-necked Spitting Cobra — Black-necked Spitting Cobra snake | Naja nigricollis
+- Red Spitting Cobra — Red Spitting Cobra snake
+- Rinkhals — Ringhals | Rinkhals snake
+- Eastern Green Mamba — Eastern Green Mamba snake | Dendroaspis angusticeps
+- Western Green Mamba — Western Green Mamba snake
+- Jameson's Mamba — Jameson's Mamba snake
+- Malayan Krait — Blue krait | Malayan Krait snake
+- Many-banded Krait — Chinese krait | Many-banded Krait snake
+- Desert Horned Viper — Saharan horned viper | Desert Horned Viper snake
+- Nose-horned Viper — Long-nosed viper | Nose-horned Viper snake | Vipera ammodytes
+- Asp Viper — Aspic viper | Asp Viper snake | Vipera aspis
+- Hairy Bush Viper — Hairy Bush Viper snake
+- Berg Adder — Berg Adder snake
+- Horned Adder — Horned Adder snake
+- Night Adder — Night Adder snake | Causus
+- Mole Viper — Burrowing asp | Stiletto snake | Mole Viper snake | Atractaspis
+- Pygmy Rattlesnake — Pigmy rattlesnake | Pygmy Rattler | Ground rattler | Sistrurus miliarius
+- Massasauga — Massasauga snake | Swamp rattler | Sistrurus catenatus
+- Cantil — Cantil snake
+- Lancehead — Lancehead snake | Bothrops
+- Golden Lancehead — Golden Lancehead snake | Bothrops insularis
+- Jararaca — Jararaca snake
+- Palm Viper — Palm pit viper | Palm Viper snake
+- Mamushi — Mamushi snake
+- Malayan Pit Viper — Malayan Pit Viper snake | Calloselasma | Calloselasma rhodostoma
+- Temple Viper — Wagler's pit viper | Temple Viper snake
+- Bamboo Viper — Bamboo pit viper | White-lipped pit viper | Bamboo Viper snake
+- Green Pit Viper — Green Pit Viper snake | Trimeresurus
+- Western Brown Snake — Gwardar | Western brown
+- Dugite — Dugite snake
+- Bandy-bandy — Bandy-bandy snake
+- Diamond Python — Diamond Python snake
+- Children's Python — Children's Python snake
+- Woma — Woma python | Woma snake
+- Black-headed Python — Black-headed Python snake
+- Olive Python — Olive Python snake
+- Scrub Python — Amethystine python | Scrub Python snake
+- Water Python — Water Python snake
+- African Rock Python — African Rock Python snake | Python sebae
+- Indian Python — Indian rock python | Indian Python snake | Ajgar | Python molurus
+- Blood Python — Short-tailed python | Blood Python snake
+- Rosy Boa — Rosy Boa snake | Lichanura
+- Rubber Boa — Rubber Boa snake | Charina
+- Kenyan Sand Boa — Kenyan Sand Boa snake
+- Indian Sand Boa — Red sand boa | Indian Sand Boa snake | Two-headed snake | Double-headed snake | Eryx johnii
+- Dumeril's Boa — Dumeril's Boa snake
+- Amazon Tree Boa — Amazon Tree Boa snake
+- Tree Boa — Tree Boa snake
+- Eastern Kingsnake — Common kingsnake | Chain kingsnake | Chain snake | Lampropeltis getula
+- Scarlet Kingsnake
+- Texas Rat Snake
+- Yellow Rat Snake
+- Indian Rat Snake — Dhaman | Oriental rat snake
+- Northern Water Snake
+- Banded Water Snake — Southern water snake
+- Checkered Keelback — Chequered keelback | Asiatic water snake | Checkered Keelback snake
+- Montpellier Snake
+- Western Hognose — Western Hognose snake
+- Eastern Hognose — Eastern Hognose snake
+- Rough Green Snake
+- Smooth Green Snake
+- Mud Snake — Hoop snake | Stinging snake | Eastern mud snake | Western mud snake | Farancia | Farancia abacura
+- Queen Snake
+- Cat Snake — European cat snake | Telescopus fallax | Boiga
+- Green Tree Snake — Common tree snake
+- Paradise Tree Snake — Paradise flying snake
+- Twig Snake — Bird snake
+- Leaf-nosed Snake
+- House Snake — Brown house snake
+- Mole Snake
+- Wolf Snake
+- Kukri Snake
+- Mussurana — Mussurana snake | Clelia
+- File Snake — Wart snake | Elephant trunk snake | Acrochordus
+- Sunbeam Snake — Xenopeltis
+- Pipe Snake — Cylindrophis
+- Thread Snake — Slender blind snake | Leptotyphlops
+- Flowerpot Snake — Brahminy blind snake | Indotyphlops braminus | Ramphotyphlops braminus
+- Beaked Sea Snake — Hook-nosed sea snake
+- Olive Sea Snake
+- Belcher's Sea Snake — Faint-banded sea snake
+- Texas Coral Snake
+- Arizona Coral Snake — Sonoran coral snake | Western coral snake | Micruroides euryxanthus
+- Blue Coral Snake — Blue Malaysian coral snake
+- Elapid — Elapidae | Elapid snake
+- Colubrid — Colubridae | Colubrid snake
+- Western Rattlesnake — Northern Pacific rattlesnake | Western Rattler
+- Eastern Rat Snake — Pantherophis alleghaniensis | Everglades rat snake
+- Western Rat Snake — Pantherophis obsoletus
+- Earth Snake — Smooth earth snake | Rough earth snake
+- Golden Tree Snake — Ornate flying snake | Golden flying snake | Chrysopelea ornata
+- Fox Snake — Eastern fox snake | Western fox snake | Pantherophis vulpinus | Pantherophis gloydi
+- Australian Copperhead — Lowland copperhead | Highland copperhead | Pygmy copperhead | Austrelaps | Australian Copperhead snake
+- Central American Boa — Boa imperator | Central American Boa snake
+- Honduran Milk Snake — Lampropeltis hondurensis
+
+### Tier 5: expert (206)
+
+- Caspian Cobra — Oxus cobra | Caspian Cobra snake
+- Snouted Cobra — Snouted Cobra snake
+- Equatorial Spitting Cobra — Equatorial Spitting Cobra snake
+- Water Cobra — Water Cobra snake
+- Shield-nosed Cobra — Shield-nosed Cobra snake
+- Samar Cobra — Samar Cobra snake
+- Andaman Cobra — Andaman Cobra snake
+- Northern King Cobra — Northern King Cobra snake
+- Sunda King Cobra — Sunda King Cobra snake | Ophiophagus bungarus
+- Western Ghats King Cobra — Kaalinga | Western Ghats King Cobra snake | Ophiophagus kaalinga
+- Luzon King Cobra — Luzon King Cobra snake | Ophiophagus salvatoris
+- Central Ranges Taipan — Central Ranges Taipan snake
+- Meadow Viper — Orsini's viper | Meadow Viper snake
+- Lataste's Viper — Lataste's Viper snake
+- Seoane's Viper — Seoane's Viper snake
+- Ottoman Viper — Ottoman Viper snake
+- Levant Viper — Blunt-nosed viper | Levant Viper snake
+- Milos Viper — Milos Viper snake
+- Caucasian Viper — Caucasian Viper snake
+- Many-horned Adder — Many-horned Adder snake
+- Peringuey's Adder — Sidewinding adder | Peringuey's Adder snake
+- Persian Horned Viper — Persian Horned Viper snake
+- Fea's Viper — Fea's Viper snake
+- Hump-nosed Viper — Hump-nosed pit viper | Hump-nosed Viper snake
+- Tiger Rattlesnake — Tiger Rattler
+- Speckled Rattlesnake — Speckled Rattler
+- Black-tailed Rattlesnake — Black-tailed Rattler
+- Rock Rattlesnake — Rock Rattler | Banded rock rattlesnake | Crotalus lepidus
+- Red Diamond Rattlesnake — Red Diamond Rattler
+- Tropical Rattlesnake — South American rattlesnake | Cascabel | Tropical Rattler
+- Ridge-nosed Rattlesnake — Ridge-nosed Rattler
+- Aruba Island Rattlesnake — Aruba Island Rattler | Aruba rattlesnake | Crotalus unicolor
+- Santa Catalina Rattlesnake — Rattleless rattlesnake | Santa Catalina Rattler
+- Great Basin Rattlesnake — Great Basin Rattler
+- Jararacussu — Jararacussu snake
+- Urutu — Urutu snake
+- Hognosed Pit Viper — Hognosed Pit Viper snake
+- Jumping Viper — Jumping pit viper | Jumping Viper snake
+- Mangrove Pit Viper — Mangrove Pit Viper snake
+- Malabar Pit Viper — Malabar Pit Viper snake
+- Hundred-pace Viper — Hundred pacer | Sharp-nosed viper | Hundred-pace Viper snake | Chinese moccasin | Deinagkistrodon acutus
+- Himalayan Pit Viper — Himalayan Pit Viper snake
+- Rough-scaled Snake — Clarence River snake | Tropidechis carinatus
+- Small-eyed Snake — Eastern small-eyed snake | Cryptophis nigrescens
+- Yellow-faced Whip Snake
+- Broad-headed Snake
+- Stephens's Banded Snake
+- Collett's Snake
+- Curl Snake
+- Blue-bellied Black Snake — Spotted black snake
+- Spotted Python — Spotted Python snake
+- Stimson's Python — Stimson's Python snake
+- Pygmy Python — Anthill python | Pygmy Python snake
+- Angolan Python — Angolan Python snake
+- Bismarck Ringed Python — Bismarck Ringed Python snake
+- White-lipped Python — D'Albertis python | White-lipped Python snake
+- Boelen's Python — Boelen's Python snake
+- Timor Python — Timor Python snake
+- Papuan Python — Papuan Python snake
+- Calabar Python — Calabar burrowing python | Calabar Python snake
+- Madagascar Tree Boa — Madagascar Tree Boa snake
+- Cook's Tree Boa — Cook's Tree Boa snake
+- Pacific Boa — Pacific Boa snake
+- Round Island Boa — Keel-scaled boa | Round Island Boa snake
+- Dark-spotted Anaconda — Dark-spotted Anaconda snake
+- Bolivian Anaconda — Beni anaconda | Bolivian Anaconda snake
+- Northern Green Anaconda — Eunectes akayima | Northern Green Anaconda snake
+- Mexican Black Kingsnake
+- Grey-banded Kingsnake — Gray-banded Kingsnake
+- Speckled Kingsnake
+- Prairie Kingsnake
+- Grey Rat Snake — Gray Rat Snake
+- Japanese Rat Snake — Aodaisho
+- Beauty Rat Snake — Beauty snake
+- Mandarin Rat Snake
+- Leopard Snake
+- Ladder Snake
+- Four-lined Snake
+- Trans-Pecos Rat Snake
+- Diamondback Water Snake
+- Brown Water Snake
+- Red-necked Keelback — Red-necked Keelback snake
+- Tiger Keelback — Yamakagashi | Tiger Keelback snake
+- Western Whip Snake — Green whip snake
+- Balkan Whip Snake
+- Caspian Whip Snake — Large whip snake | Dolichophis caspius
+- Horseshoe Whip Snake
+- Southern Smooth Snake
+- Rainbow Snake
+- Scarlet Snake
+- Lyre Snake
+- Night Snake
+- Red-bellied Snake
+- Ground Snake
+- Black-headed Snake
+- Glossy Snake
+- Long-nosed Snake
+- Patch-nosed Snake
+- Shovel-nosed Snake
+- Hook-nosed Snake
+- Sharp-tailed Snake
+- Crayfish Snake
+- Swamp Snake
+- Bronzeback — Bronzeback snake
+- Parrot Snake
+- Blunt-headed Tree Snake
+- Sand Snake
+- Herald Snake — Red-lipped snake
+- Trinket Snake
+- Slug-eating Snake — Slug eater | Slug snake
+- Snail-eating Snake — Snail eater
+- Shovel-snout — Shovel-snout snake
+- Dog-faced Water Snake
+- Shieldtail — Shield-tailed snake | Shieldtail snake
+- Texas Blind Snake
+- Wood Snake — Dwarf boa
+- Malagasy Giant Hognose — Giant Malagasy hognose | Malagasy Giant Hognose snake
+- Turtle-headed Sea Snake
+- Dubois's Sea Snake
+- Stokes's Sea Snake
+- Elegant Sea Snake
+- Annulated Sea Snake
+- False Coral Snake
+- Viperid — Viperidae | Viperid snake
+- Boid — Boidae | Boid snake
+- Gigantophis — Gigantophis snake
+- Madtsoia — Madtsoia snake
+- Wonambi — Wonambi snake
+- Sanajeh — Sanajeh snake
+- Najash — Najash snake
+- Pachyrhachis — Pachyrhachis snake
+- Eupodophis — Eupodophis snake
+- Haasiophis — Haasiophis snake
+- Tetrapodophis — Tetrapodophis snake
+- Palaeophis — Palaeophis snake
+- Dinilysia — Dinilysia snake
+- Yurlunggur — Yurlunggur snake
+- Slash's Groundsnake — Lielaphis slashi
+- Green Water Snake — Florida green water snake | Mississippi green water snake | Nerodia floridana | Nerodia cyclopion
+- Red-naped Snake — Furina diadema
+- Tiger Rat Snake — Caninana | Spilotes pullatus
+- Lined Snake — Tropidoclonion lineatum
+- Marsh Snake — Black-bellied swamp snake | Hemiaspis signata
+- Pale-headed Snake — Hoplocephalus bitorquatus
+- Black Whip Snake — Demansia vestigiata
+- Slaty-grey Snake — Stegonotus cucullatus | Slaty-gray Snake
+- Oenpelli Python — Nawaran | Simalia oenpelliensis | Morelia oenpelliensis | Oenpelli Python snake
+- Rough-scaled Python — Morelia carinata | Rough-scaled Python snake
+- Macklot's Python — Freckled python | Liasis mackloti | Macklot's Python snake
+- Red-headed Krait — Bungarus flaviceps | Red-headed Krait snake
+- Black Krait — Bungarus niger | Black Krait snake
+- Sind Krait — Bungarus sindanus | Sind Krait snake
+- Striped Keelback — Buff striped keelback | Amphiesma stolatum | Striped Keelback snake
+- Green Keelback — Rhabdophis plumbicolor | Green Keelback snake
+- Red-tailed Racer — Red-tailed green rat snake | Gonyosoma oxycephalum | Red-tailed Racer snake
+- Radiated Rat Snake — Copper-headed trinket snake | Coelognathus radiatus
+- Mangshan Pit Viper — Protobothrops mangshanensis | Mangshan Pit Viper snake
+- Pope's Pit Viper — Trimeresurus popeiorum | Pope's Pit Viper snake
+- Sri Lankan Pit Viper — Trimeresurus trigonocephalus | Craspedocephalus trigonocephalus | Sri Lankan Pit Viper snake
+- Brown-spotted Pit Viper — Protobothrops mucrosquamatus | Brown-spotted Pit Viper snake
+- Zebra Spitting Cobra — Western barred spitting cobra | Naja nigricincta | Zebra Spitting Cobra snake
+- Indochinese Spitting Cobra — Naja siamensis | Indochinese Spitting Cobra snake
+- Javan Spitting Cobra — Naja sputatrix | Javan Spitting Cobra snake
+- Spotted Bush Snake — Philothamnus semivariegatus
+- Skaapsteker — Spotted skaapsteker | Psammophylax rhombeatus | Skaapsteker snake
+- Aurora House Snake — Lamprophis aurora
+- Southern African Python — Natal rock python | Python natalensis | Southern African Python snake
+- Cuban Boa — Chilabothrus angulifer | Cuban Boa snake
+- Puerto Rican Boa — Chilabothrus inornatus | Puerto Rican Boa snake
+- Jamaican Boa — Chilabothrus subflavus | Jamaican Boa snake
+- Madagascar Ground Boa — Acrantophis madagascariensis | Madagascar Ground Boa snake
+- Viper Boa — Candoia aspera | Viper Boa snake
+- Round Island Burrowing Boa — Bolyeria multocarinata | Round Island Burrowing Boa snake
+- Steppe Viper — Vipera renardi | Steppe Viper snake
+- False Smooth Snake — Macroprotodon
+- Dahl's Whip Snake — Platyceps najadum
+- Plains Garter Snake — Thamnophis radix
+- Checkered Garter Snake — Thamnophis marcianus
+- Western Terrestrial Garter Snake — Wandering garter snake | Thamnophis elegans
+- San Francisco Garter Snake — Thamnophis sirtalis tetrataenia
+- Two-striped Garter Snake — Thamnophis hammondii
+- Butler's Garter Snake — Thamnophis butleri
+- Northwestern Garter Snake — Thamnophis ordinoides
+- Plain-bellied Water Snake — Nerodia erythrogaster
+- Salt Marsh Snake — Nerodia clarkii
+- Kirtland's Snake — Clonophis kirtlandii
+- Southern Hognose Snake — Heterodon simus
+- Mexican Hognose Snake — Heterodon kennerlyi
+- Crowned Snake — Tantilla
+- Great Plains Rat Snake — Pantherophis emoryi
+- Baird's Rat Snake — Pantherophis bairdi
+- Mountain Kingsnake — California mountain kingsnake | Arizona mountain kingsnake | Lampropeltis zonata | Lampropeltis pyromelana
+- Desert Kingsnake — Lampropeltis splendida
+- Black Kingsnake — Lampropeltis nigra
+- Pueblan Milk Snake — Lampropeltis campbelli
+- Sinaloan Milk Snake — Lampropeltis sinaloae
+- Nelson's Milk Snake
+- Arizona Black Rattlesnake — Crotalus cerberus | Arizona Black Rattler
+- Panamint Rattlesnake — Crotalus stephensi | Panamint Rattler
+- Twin-spotted Rattlesnake — Crotalus pricei | Twin-spotted Rattler
+- Midget Faded Rattlesnake — Crotalus oreganus concolor | Midget Faded Rattler
+- Mexican West Coast Rattlesnake — Crotalus basiliscus | Mexican West Coast Rattler
+- Lycodon irwini
+- DiCaprio's Himalayan Snake — Anguiculus dicaprioi | DiCaprio's snake
+- Tachymenoides goodallae
+- Tachymenoides harrisonfordi
+
+### Tier 6: rare jackpots (3)
+
+- Spider-tailed Horned Viper — Spider-tailed viper | Pseudocerastes urarachnoides | Spider-tailed Horned Viper snake
+- Barbados Threadsnake — Leptotyphlops carlae | Tetracheilostoma carlae
+- Salazar's Pit Viper — Salazar pit viper | Trimeresurus salazar | Salazar's Pit Viper snake
+
+## Refused on purpose (30)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Snake | Serpent | Serpents | Ophidian | Ophidia — "That's the question. Name one."
+- Slow worm | Blindworm — "A legless lizard. It can blink, which no snake can."
+- Glass lizard | Glass snakes | Sheltopusik | Scheltopusik | European legless lizard — "A legless lizard, whatever it's called. It has eyelids and ear holes, which no snake has."
+- Legless lizard | Flap-footed lizard | Pygopod | Scaly-foot | Burton's legless lizard — "A lizard that lost its legs. It has eyelids and ear holes, which snakes don't."
+- Worm lizard | Amphisbaenian | Amphisbaena — "A burrowing reptile of its own kind, neither worm nor snake."
+- Caecilian — "A legless amphibian, closer to a frog than to any snake."
+- Eel | Moray eel | Electric eel | Conger eel | Snake eel | Lamprey | Hagfish — "A fish, however much it looks the part."
+- Snakehead | Snakehead fish — "A fish, named for its head."
+- Worm | Earthworm | Tapeworm | Ribbon worm | Bootlace worm — "No backbone at all, let alone a snake's."
+- Lizard | Komodo dragon | Gila monster | Iguana | Monitor lizard — "It has legs. Snakes gave theirs up long ago."
+- Basilisk | Cockatrice — "In legend, the king of serpents. In life, a lizard that runs on water."
+- Jörmungandr | Midgard Serpent | World Serpent — "The World Serpent of Norse myth."
+- Ouroboros | Uroboros — "A symbol: a serpent eating its own tail."
+- Quetzalcoatl | Feathered serpent | Kukulkan — "The Feathered Serpent, a god of the Aztecs."
+- Hydra | Lernaean Hydra — "A many-headed monster of Greek myth."
+- Medusa | Gorgon — "A Gorgon of Greek myth, with snakes for hair."
+- Sea serpent | Sea monster | Loch Ness Monster | Nessie — "A sailors' tale, never caught."
+- Nagas | Shesha | Ananta | Apep | Apophis | Nagaraja — "Serpent beings of myth, not of any field guide."
+- Dragon | Wyrm | Wyvern — "A creature of legend."
+- Kaa — "The python in The Jungle Book: a character, not a species."
+- Naginis — "Voldemort's snake in Harry Potter: a character, not a species."
+- Sir Hiss — "The snake in Disney's Robin Hood: a character, not a species."
+- Monty Python — "A comedy troupe, not a snake."
+- Ekans — "A Pokémon, and 'snake' spelt backwards."
+- Arbok — "A Pokémon, and 'kobra' spelt backwards."
+- Seviper | Serperior | Servine | Snivy | Onix | Silicobra — "A Pokémon, not a snake of this world."
+- Snake plant | Mother-in-law's tongue | Sansevieria — "A houseplant with tall, stiff leaves, not a snake."
+- Snakefly — "An insect with a long neck, not a snake."
+- Viperfish — "A deep-sea fish with fangs, not a viper."
+- Big Four — "India's four most dangerous snakes, together. Name one of them."

@@ -28,7 +28,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Paintball — Painball | Pintball
 - Racquetball — Racketball
-- Gaelic football — GAA football | Ladies' Gaelic football | Ladies' football
+- Gaelic football — GAA football | Ladies' Gaelic football | Gaelic | Ladies' football
 - Australian rules football — Aussie rules football | Australian football | AFL football
 - Korfball — Korfbal | Korball
 - Kickball — Soccer baseball | Kikball | Kicball
@@ -167,7 +167,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Ballooning — Hot air ballooning | Hot-air balloon racing | Gas ballooning | Balloon racing | Hot air balloon
 - Ball badminton
 
-## Refused on purpose (25)
+## Refused on purpose (24)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -178,7 +178,6 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Rugby | Rugby union | Rugby league | Rugby sevens | Touch rugby | Tag rugby | Beach rugby | Rugger — "Plain rugby has no 'ball' in its name."
 - Wheelchair rugby | Quad rugby — "No 'ball' in its name, at least not these days."
 - Quidditch | Muggle quidditch — "The real-life game took a new name in 2022, and that one counts."
-- Gaelic — "Which Gaelic game? Give its full name."
 - Bocce | Bocci | Boccia — "Plain bocce has no 'ball' in its name."
 - Pelota | Basque pelota | Jai alai | Pelota vasca — "Pelota means ball, but only in Spanish."
 - Roundnet — "Its official name has no 'ball', though its everyday one does."

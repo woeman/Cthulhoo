@@ -1,0 +1,621 @@
+# Name a primate.
+
+Question id: `primates` · category: nature · source: `data/nature.json`
+
+Rules: Any kind of primate, living or extinct, as a group or a single species: apes, monkeys, lemurs, lorises, bushbabies and tarsiers. Humans count too; individual animals and fictional apes don't.
+
+The game already forgives capitals, accents, punctuation, a leading "the", simple plurals, "St" for "Saint", number words, a title in front (King, Sir, Dr and the like), the question's own words at the end ("Cheddar cheese"), a year at the end, and small typos (one wrong letter in a short name, more in a long one), so there is no need to suggest those variants.
+
+## Accepted now (568 answers)
+
+Each answer is followed by the other spellings the game takes for it, separated by " | ".
+
+### Tier 1: what most people say (8)
+
+- Monkey — Monkeys
+- Ape — Apes
+- Gorilla — Silverback | Silverback gorilla
+- Chimpanzee — Chimp | Common chimpanzee | Robust chimpanzee | Pan troglodytes | Pan
+- Orangutan — Orangutang | Orang-outang | Orang | Pongo
+- Baboon — Papio
+- Lemur — Lemurid
+- Gibbon
+
+### Tier 2: common (26)
+
+- Human — Humans | Homo sapiens | Human being | Man | Men | Woman | Women | People | Person | Mankind | Humankind | Humanity | Modern human | Anatomically modern human | Homo | Homo sapiens sapiens | Caveman | Me | Myself | You | Us
+- Bonobo — Pygmy chimpanzee | Pygmy chimp | Gracile chimpanzee | Pan paniscus
+- Macaque — Macaque monkey | Macaca
+- Mandrill — Mandrill monkey | Mandrill baboon | Mandrillus | Mandrillus sphinx
+- Capuchin — Capuchin monkey | Sapajou | Organ grinder monkey | Cebid
+- Marmoset — Marmoset monkey | Callithrix | Callitrichid | Marmost
+- Tamarin — Tamarin monkey | Saguinus
+- Howler Monkey — Howler | Alouatta
+- Spider Monkey — Ateles | Atelid
+- Squirrel Monkey — Saimiri
+- Proboscis Monkey — Proboscis | Long-nosed monkey | Bekantan | Nasalis
+- Rhesus Macaque — Rhesus monkey | Rhesus | Macaca mulatta
+- Japanese Macaque — Snow monkey | Japanese snow monkey | Macaca fuscata
+- Barbary Macaque — Barbary ape | Rock ape | Gibraltar ape | Barbary monkey | Gibraltar monkey
+- Ring-tailed Lemur — Ringtail lemur | Ringtail | Lemur catta
+- Aye-aye — Daubentonia
+- Galago — Bushbaby | Nagapie | Night ape | Galagid
+- Loris — Lorisid
+- Slow Loris — Nycticebus
+- Tarsier — Tarsius | Tarsiid
+- Mountain Gorilla — Gorilla beringei beringei
+- Golden Lion Tamarin — Golden marmoset | Leontopithecus rosalia
+- Pygmy Marmoset — Finger monkey | Pocket monkey | Cebuella
+- Great Ape — Pongid
+- Neanderthal — Neandertal | Neanderthal man | Homo neanderthalensis
+- Colobus — Colobus monkey
+
+### Tier 3: known to fans (92)
+
+- Lesser Ape — Hylobatid | Hylobatidae
+- Old World Monkey — Cercopithecid | Cercopithecidae
+- New World Monkey — Platyrrhine | Platyrrhini
+- Simian — Simiiformes
+- Prosimian — Prosimii
+- Hominid — Hominidae
+- Guenon — Cercopithecus
+- Mangabey — Lophocebus | Cercocebus
+- Langur — Langur monkey
+- Snub-nosed Monkey — Rhinopithecus
+- Douc — Douc langur | Douc monkey | Pygathrix
+- Lion Tamarin — Leontopithecus
+- Night Monkey — Owl monkey | Douroucouli | Aotus | Aotid
+- Titi Monkey — Titi
+- Saki — Saki monkey | Pithecia | Pitheciid
+- Uakari — Uakari monkey | Cacajao
+- Woolly Monkey — Lagothrix
+- Muriqui — Woolly spider monkey | Brachyteles
+- Sifaka — Propithecus
+- Mouse Lemur — Microcebus
+- Ruffed Lemur — Varecia
+- Bamboo Lemur — Gentle lemur | Hapalemur
+- Brown Lemur — True lemur | Eulemur
+- Slender Loris
+- Potto — Perodicticus
+- Hoolock Gibbon — Hoolock | White-browed gibbon | Bunopithecus
+- Lowland Gorilla
+- Indri — Babakoto | Indri indri | Indriid
+- Siamang — Symphalangus
+- Drill — Drill monkey | Mandrillus leucophaeus
+- Gelada — Gelada baboon | Gelada monkey | Bleeding-heart monkey | Theropithecus
+- Hamadryas Baboon — Hamadryas | Sacred baboon
+- Olive Baboon — Anubis baboon | Papio anubis
+- Yellow Baboon
+- Chacma Baboon — Chacma | Cape baboon
+- Guinea Baboon
+- Vervet Monkey — Vervet | African green monkey | Chlorocebus
+- Green Monkey — Sabaeus monkey
+- Patas Monkey — Patas | Hussar monkey | Red patas
+- De Brazza's Monkey — De Brazza monkey | Brazza's monkey | De Brazza's guenon
+- Diana Monkey — Diana guenon
+- Mona Monkey — Mona guenon
+- Blue Monkey — Diademed monkey
+- Golden Monkey — Golden guenon
+- Black-and-white Colobus — Black and white colobus monkey
+- Red Colobus — Piliocolobus
+- Grey Langur — Hanuman langur | Hanuman | Hanuman monkey | Common langur | Sacred langur | Indian langur | Semnopithecus | Gray Langur
+- Golden Langur — Gee's golden langur | Gee's langur
+- Red-shanked Douc — Red-shanked douc langur | Costumed ape
+- Golden Snub-nosed Monkey — Sichuan golden monkey | Rhinopithecus roxellana
+- Crab-eating Macaque — Long-tailed macaque | Crab-eating monkey | Cynomolgus monkey | Cynomolgus macaque | Java macaque | Macaca fascicularis
+- Pig-tailed Macaque — Southern pig-tailed macaque | Pigtail macaque | Pig-tailed monkey | Beruk
+- Lion-tailed Macaque — Wanderoo
+- Bonnet Macaque — Bonnet monkey
+- Celebes Crested Macaque — Crested black macaque | Black crested macaque | Sulawesi crested macaque | Celebes macaque
+- Stump-tailed Macaque — Bear macaque | Stumptail macaque
+- Lar Gibbon — White-handed gibbon | Common gibbon | Lar | Hylobates lar
+- Bornean Orangutan — Pongo pygmaeus
+- Sumatran Orangutan — Pongo abelii
+- Western Lowland Gorilla — Gorilla gorilla gorilla
+- Eastern Lowland Gorilla — Grauer's gorilla
+- Western Gorilla — Gorilla gorilla
+- Eastern Gorilla — Gorilla beringei
+- Cross River Gorilla
+- Common Marmoset — White-tufted marmoset | White-tufted-ear marmoset | Callithrix jacchus
+- Cotton-top Tamarin — Cotton-headed tamarin
+- Emperor Tamarin
+- White-faced Capuchin — White-headed capuchin | White-throated capuchin
+- Tufted Capuchin — Brown capuchin | Black-capped capuchin
+- White-faced Saki — Guianan saki | Golden-faced saki
+- Bald Uakari — Red uakari | Red-faced uakari | White uakari
+- Black Howler — Black-and-gold howler
+- Mantled Howler — Golden-mantled howler
+- Red Howler — Venezuelan red howler
+- Geoffroy's Spider Monkey — Black-handed spider monkey | Central American spider monkey
+- Verreaux's Sifaka — Dancing lemur | Dancing sifaka | White sifaka
+- Coquerel's Sifaka — Coquerel sifaka
+- Black-and-white Ruffed Lemur
+- Red Ruffed Lemur
+- Golden Bamboo Lemur
+- Mongoose Lemur
+- Black Lemur
+- Crowned Lemur
+- Philippine Tarsier
+- Spectral Tarsier
+- Gigantopithecus — Giganto | Gigantopithecus blacki | Giant ape
+- Australopithecus — Australopithecine | Australopith | Southern ape
+- Homo erectus — Upright man | Java Man | Peking Man | Pithecanthropus | Sinanthropus | Erectus
+- Homo habilis — Handy man | Habilis
+- Homo floresiensis — Hobbit | Flores man | Floresiensis
+- Denisovan — Denisova hominin | Denisova man | Homo denisova
+- Cro-Magnon — Cro-Magnon man | Early modern human | European early modern human
+
+### Tier 4: obscure (118)
+
+- Hominin — Hominini
+- Hominoid — Hominoidea
+- Anthropoid — Anthropoidea
+- Leaf Monkey
+- Lutung — Trachypithecus
+- Surili — Presbytis
+- Crested Gibbon — Nomascus
+- Dwarf Lemur — Cheirogaleus
+- Sportive Lemur — Weasel lemur | Lepilemur
+- Woolly Lemur — Avahi
+- Bearded Saki — Chiropotes
+- Giant Lemur — Subfossil lemur
+- Strepsirrhine — Strepsirhine | Strepsirrhini | Wet-nosed primate
+- Haplorhine — Haplorrhine | Haplorhini | Dry-nosed primate
+- Catarrhine — Catarrhini
+- Kipunji — Highland mangabey | Rungwecebus | Rungwecebus kipunji
+- Sooty Mangabey
+- Grey-cheeked Mangabey — Gray-cheeked Mangabey
+- Collared Mangabey — Red-capped mangabey | White-collared mangabey
+- Kinda Baboon — Kinda
+- Grivet — Grivet monkey
+- Samango Monkey — Samango
+- Sykes' Monkey — Sykes's monkey | White-throated guenon
+- Red-tailed Monkey — Red-tailed guenon | Black-cheeked white-nosed monkey | Schmidt's guenon
+- L'Hoest's Monkey — L'Hoest monkey | Mountain monkey
+- Owl-faced Monkey — Hamlyn's monkey
+- Moustached Guenon — Moustached monkey | Mustached Guenon | Mustached monkey
+- Allen's Swamp Monkey — Allen's monkey | Swamp monkey
+- Talapoin — Talapoin monkey | Angolan talapoin | Gabon talapoin
+- Roloway Monkey — Roloway | Roloway guenon
+- Campbell's Mona Monkey — Campbell's monkey | Campbell's guenon
+- Putty-nosed Monkey — Greater spot-nosed monkey | Putty-nosed guenon
+- Lesser Spot-nosed Monkey — Lesser spot-nosed guenon
+- Lesula — Lesula monkey | Cercopithecus lomamiensis
+- Toque Macaque — Toque monkey
+- Tibetan Macaque
+- Formosan Rock Macaque — Taiwanese macaque | Formosan macaque | Taiwan macaque
+- King Colobus — Western black-and-white colobus | Colobus polykomos
+- Mantled Guereza — Guereza | Mantled colobus | Abyssinian black-and-white colobus | Eastern black-and-white colobus | Colobus guereza
+- Angolan Colobus — Angola colobus | Angolan black-and-white colobus | Colobus angolensis
+- Zanzibar Red Colobus — Kirk's red colobus | Kirk's colobus
+- Olive Colobus — Van Beneden's colobus | Procolobus | Procolobus verus
+- Black Colobus — Colobus satanas
+- Nilgiri Langur — Nilgiri black langur
+- Purple-faced Langur — Purple-faced leaf monkey
+- Capped Langur — Capped leaf monkey
+- Dusky Langur — Spectacled langur | Dusky leaf monkey | Spectacled leaf monkey
+- François' Langur — François's langur | François' leaf monkey
+- Silvery Lutung — Silvered leaf monkey | Silvery langur | Silvery leaf monkey
+- Javan Lutung — Javan langur | Ebony lutung | Ebony langur
+- Cat Ba Langur — Golden-headed langur
+- Black Snub-nosed Monkey — Yunnan snub-nosed monkey | Black-and-white snub-nosed monkey
+- Tonkin Snub-nosed Monkey
+- Myanmar Snub-nosed Monkey — Burmese snub-nosed monkey | Sneezing monkey
+- Agile Gibbon — Black-handed gibbon | Dark-handed gibbon
+- Müller's Gibbon — Mueller's gibbon | Bornean gibbon | Grey gibbon | Müller's Bornean gibbon | Gray gibbon
+- Silvery Gibbon — Javan gibbon | Moloch gibbon
+- Pileated Gibbon — Capped gibbon | Crowned gibbon
+- Western Hoolock Gibbon — Western hoolock
+- Eastern Hoolock Gibbon — Eastern hoolock
+- Black Crested Gibbon — Western black crested gibbon | Concolor gibbon
+- Hainan Gibbon — Hainan black crested gibbon | Hainan crested gibbon
+- Northern White-cheeked Gibbon — White-cheeked gibbon
+- Yellow-cheeked Gibbon — Golden-cheeked gibbon | Red-cheeked gibbon | Southern yellow-cheeked gibbon
+- Tapanuli Orangutan — Pongo tapanuliensis
+- Black-tufted Marmoset — Black-pencilled marmoset | Black-tufted-ear marmoset
+- Goeldi's Marmoset — Goeldi's monkey | Callimico
+- Black Lion Tamarin — Golden-rumped lion tamarin
+- Golden-headed Lion Tamarin
+- Saddle-back Tamarin — Brown-mantled tamarin
+- Pied Tamarin — Bare-faced tamarin | Brazilian bare-faced tamarin
+- White-fronted Capuchin
+- Common Squirrel Monkey
+- Central American Squirrel Monkey — Red-backed squirrel monkey
+- Dusky Titi — Red-bellied titi
+- Coppery Titi — Red titi
+- Monk Saki
+- Black-headed Uakari
+- Brown Howler
+- Guatemalan Black Howler — Yucatán black howler | Mexican black howler
+- Black-headed Spider Monkey
+- Brown Spider Monkey — Variegated spider monkey
+- Red-faced Spider Monkey — Guiana spider monkey | Red-faced black spider monkey
+- Common Woolly Monkey — Brown woolly monkey | Humboldt's woolly monkey
+- Yellow-tailed Woolly Monkey — Peruvian yellow-tailed woolly monkey
+- Diademed Sifaka — Diademed simpona
+- Silky Sifaka — Simpona
+- Grey Mouse Lemur — Lesser mouse lemur | Gray Mouse Lemur
+- Madame Berthe's Mouse Lemur — Berthe's mouse lemur | Madame Berthe mouse lemur | Microcebus berthae
+- Giant Mouse Lemur — Coquerel's giant mouse lemur | Coquerel's dwarf lemur
+- Fat-tailed Dwarf Lemur — Fat-tailed lemur
+- Greater Bamboo Lemur — Broad-nosed bamboo lemur | Broad-nosed gentle lemur
+- Common Brown Lemur
+- Red-fronted Lemur — Red-fronted brown lemur | Rufous brown lemur
+- Red-bellied Lemur
+- Blue-eyed Black Lemur — Sclater's lemur | Blue-eyed lemur
+- Megaladapis — Koala lemur
+- Sunda Slow Loris — Greater slow loris
+- Bengal Slow Loris
+- Pygmy Slow Loris — Pygmy loris | Lesser slow loris | Xanthonycticebus | Xanthonycticebus pygmaeus
+- Red Slender Loris
+- Northern Lesser Galago — Senegal bushbaby | Senegal galago | Lesser galago | Lesser bushbaby
+- Southern Lesser Galago — Moholi bushbaby | Moholi galago | South African galago
+- Greater Galago — Thick-tailed bushbaby | Thick-tailed galago | Greater bushbaby | Brown greater galago
+- Western Tarsier — Horsfield's tarsier | Bornean tarsier
+- Homo naledi — Naledi
+- Homo heidelbergensis — Heidelberg man | Heidelbergensis
+- Homo ergaster — Ergaster | Working man
+- Homo antecessor — Antecessor
+- Australopithecus afarensis — Afarensis
+- Australopithecus africanus — Africanus
+- Paranthropus — Robust australopithecine
+- Paranthropus boisei — Nutcracker man | Zinjanthropus | Zinj | Australopithecus boisei | Boisei
+- Ardipithecus
+- Sahelanthropus — Sahelanthropus tchadensis
+- Proconsul
+- Dryopithecus
+- Darwinius — Darwinius masillae
+
+### Tier 5: expert (321)
+
+- Colobine — Colobinae
+- Agile Mangabey
+- Golden-bellied Mangabey
+- Black Crested Mangabey — Black mangabey
+- Tana River Mangabey
+- Sanje Mangabey
+- White-naped Mangabey
+- Malbrouck — Malbrouck monkey
+- Tantalus Monkey — Tantalus
+- Bale Mountains Vervet — Bale vervet
+- Lowe's Mona Monkey — Lowe's monkey
+- Wolf's Mona Monkey — Wolf's monkey | Wolf's guenon
+- Dent's Mona Monkey — Dent's monkey
+- Crested Mona Monkey — Crowned guenon | Crowned monkey
+- Preuss's Monkey — Preuss's guenon
+- Sun-tailed Monkey
+- Silver Monkey
+- Red-eared Guenon — Red-eared monkey
+- Sclater's Guenon — Sclater's monkey
+- Dryas Monkey — Salonga monkey
+- Assam Macaque
+- Arunachal Macaque
+- White-cheeked Macaque
+- Moor Macaque
+- Booted Macaque
+- Tonkean Macaque
+- Heck's Macaque
+- Gorontalo Macaque
+- Siberut Macaque
+- Pagai Island Macaque — Pagai macaque | Mentawai macaque
+- Northern Pig-tailed Macaque — Northern pigtail macaque
+- Ursine Colobus — White-thighed colobus | Colobus vellerosus
+- Western Red Colobus
+- Tana River Red Colobus
+- Udzungwa Red Colobus — Iringa red colobus
+- Miss Waldron's Red Colobus
+- Phayre's Langur — Phayre's leaf monkey
+- White-headed Langur
+- Delacour's Langur
+- Hatinh Langur
+- Popa Langur
+- Shortridge's Langur
+- Banded Langur — Banded surili | Banded leaf monkey
+- Black-shanked Douc — Black-shanked douc langur
+- Grey-shanked Douc — Grey-shanked douc langur | Gray-shanked Douc | Gray-shanked douc langur
+- Grey Snub-nosed Monkey — Guizhou snub-nosed monkey | Gray Snub-nosed Monkey
+- Pig-tailed Langur — Simakobu | Pig-tailed snub-nosed monkey
+- Bornean White-bearded Gibbon — White-bearded gibbon
+- Abbott's Grey Gibbon — Abbott's Gray Gibbon
+- Northern Grey Gibbon — Northern Gray Gibbon
+- Kloss's Gibbon — Kloss gibbon | Mentawai gibbon | Bilou
+- Cao-vit Gibbon — Eastern black crested gibbon | Eastern black gibbon
+- Southern White-cheeked Gibbon
+- Northern Buffed-cheeked Gibbon — Northern yellow-cheeked gibbon
+- Junzi — Junzi imperialis
+- Western Chimpanzee
+- Central Chimpanzee — Tschego
+- Eastern Chimpanzee
+- Nigeria-Cameroon Chimpanzee — Nigerian chimpanzee
+- Buffy-tufted Marmoset
+- Geoffroy's Marmoset — White-headed marmoset | White-faced marmoset
+- Buffy-headed Marmoset
+- Silvery Marmoset
+- Black-tailed Marmoset
+- Santarem Marmoset
+- Maués Marmoset
+- Rondon's Marmoset
+- Superagui Lion Tamarin — Black-faced lion tamarin
+- Red-handed Tamarin — Golden-handed tamarin | Midas tamarin
+- Black-mantled Tamarin
+- Moustached Tamarin — Mustached Tamarin
+- Geoffroy's Tamarin — Rufous-naped tamarin
+- White-footed Tamarin
+- Mottle-faced Tamarin
+- White-lipped Tamarin
+- Panamanian White-faced Capuchin — Panamanian capuchin
+- Colombian White-faced Capuchin — Colombian capuchin
+- Black-striped Capuchin — Bearded capuchin
+- Black Capuchin
+- Golden-bellied Capuchin — Yellow-breasted capuchin
+- Blond Capuchin — Blonde capuchin
+- Weeper Capuchin — Wedge-capped capuchin
+- Ka'apor Capuchin
+- Large-headed Capuchin
+- Robust Capuchin — Sapajus
+- Gracile Capuchin — Cebus
+- Black-capped Squirrel Monkey — Bolivian squirrel monkey
+- Black Squirrel Monkey
+- Three-striped Night Monkey — Three-striped owl monkey
+- Azara's Night Monkey — Azara's owl monkey
+- Grey-bellied Night Monkey — Grey-bellied owl monkey | Gray-bellied Night Monkey | Gray-bellied owl monkey
+- Panamanian Night Monkey — Panamanian owl monkey
+- Black-fronted Titi
+- Collared Titi — Widow monkey
+- Masked Titi
+- Madidi Titi — GoldenPalace.com monkey | Golden Palace monkey | Golden Palace titi
+- Prince Bernhard's Titi
+- Coimbra-Filho's Titi
+- White-eared Titi
+- Black-handed Titi
+- Equatorial Saki
+- Buffy Saki — White-footed saki
+- Black Bearded Saki
+- Red-backed Bearded Saki
+- Brown-backed Bearded Saki
+- White-nosed Saki — White-nosed bearded saki
+- Uta Hick's Bearded Saki
+- Neblina Uakari
+- Aracá Uakari
+- Red-handed Howler
+- Bolivian Red Howler
+- Guyanan Red Howler
+- Purus Red Howler
+- Amazon Black Howler
+- Spix's Red-handed Howler
+- Coiba Island Howler
+- Maranhão Red-handed Howler
+- Juruá Red Howler
+- Alouatta iroi
+- Alouatta matogrossensis
+- White-bellied Spider Monkey — White-fronted spider monkey
+- Peruvian Spider Monkey — Black-faced black spider monkey
+- White-cheeked Spider Monkey
+- Grey Woolly Monkey — Gray Woolly Monkey
+- Silvery Woolly Monkey
+- Colombian Woolly Monkey
+- Northern Muriqui
+- Southern Muriqui
+- Golden-crowned Sifaka — Tattersall's sifaka
+- Decken's Sifaka
+- Crowned Sifaka
+- Perrier's Sifaka
+- Milne-Edwards's Sifaka — Milne-Edwards' sifaka
+- Brown Mouse Lemur — Rufous mouse lemur | Red mouse lemur
+- Goodman's Mouse Lemur
+- Pygmy Mouse Lemur — Peters' mouse lemur
+- Golden-brown Mouse Lemur
+- Greater Dwarf Lemur
+- Hairy-eared Dwarf Lemur
+- Grey Bamboo Lemur — Eastern lesser bamboo lemur | Lesser bamboo lemur | Grey gentle lemur | Gray Bamboo Lemur | Gray gentle lemur
+- Alaotran Gentle Lemur — Lac Alaotra bamboo lemur | Alaotra gentle lemur | Bandro
+- White-headed Lemur — White-headed brown lemur
+- Collared Brown Lemur — Collared lemur | Red-collared brown lemur | Red-collared lemur
+- Sanford's Brown Lemur — Sanford's lemur
+- Eastern Woolly Lemur
+- Western Woolly Lemur
+- Fork-marked Lemur — Fork-crowned lemur | Phaner
+- Archaeoindris
+- Palaeopropithecus
+- Sloth Lemur
+- Archaeolemur — Monkey lemur
+- Hadropithecus
+- Giant Aye-aye — Daubentonia robusta
+- Mesopropithecus
+- Babakotia
+- Pachylemur
+- Javan Slow Loris
+- Bornean Slow Loris
+- Philippine Slow Loris
+- Kayan River Slow Loris — Kayan slow loris
+- Bangka Slow Loris
+- Grey Slender Loris — Gray Slender Loris
+- Angwantibo — Golden potto | Calabar angwantibo
+- Northern Greater Galago — Garnett's greater galago | Small-eared greater galago
+- Silvery Greater Galago
+- Demidoff's Galago — Prince Demidoff's bushbaby | Demidoff's dwarf galago | Dwarf galago
+- Thomas's Dwarf Galago — Thomas's galago
+- Rondo Dwarf Galago — Rondo galago | Rondo bushbaby
+- Zanzibar Galago — Zanzibar bushbaby
+- Allen's Galago — Allen's squirrel galago | Allen's bushbaby
+- Needle-clawed Galago — Needle-clawed bushbaby
+- Somali Galago — Somali bushbaby
+- Kenya Coast Galago
+- Mountain Dwarf Galago
+- Dian's Tarsier
+- Pygmy Tarsier — Mountain tarsier
+- Lariang Tarsier
+- Siau Island Tarsier — Siau tarsier
+- Sangihe Tarsier
+- Wallace's Tarsier
+- Jatna's Tarsier — Supriatna's tarsier
+- Peleng Tarsier
+- Niemitz's Tarsier
+- Gursky's Spectral Tarsier — Gursky's tarsier
+- Homo rudolfensis — Rudolfensis
+- Homo rhodesiensis — Rhodesian man | Kabwe man | Broken Hill man | Rhodesiensis
+- Homo luzonensis — Luzonensis | Callao man
+- Homo longi — Dragon man | Harbin man | Longi
+- Homo juluensis — Juluensis | Juluren
+- Homo georgicus — Dmanisi man | Georgicus
+- Homo bodoensis — Bodoensis
+- Australopithecus sediba — Sediba
+- Australopithecus anamensis — Anamensis
+- Australopithecus garhi — Garhi
+- Australopithecus bahrelghazali
+- Australopithecus deyiremeda
+- Paranthropus robustus — Australopithecus robustus | Robustus
+- Paranthropus aethiopicus — Aethiopicus
+- Ardipithecus ramidus — Ramidus
+- Ardipithecus kadabba — Kadabba
+- Orrorin — Orrorin tugenensis | Millennium man
+- Kenyanthropus — Kenyanthropus platyops
+- Sivapithecus — Ramapithecus
+- Ekembo
+- Oreopithecus
+- Ouranopithecus
+- Pierolapithecus
+- Danuvius — Danuvius guggenmosi
+- Graecopithecus
+- Lufengpithecus
+- Khoratpithecus
+- Morotopithecus
+- Kenyapithecus
+- Nakalipithecus
+- Chororapithecus
+- Samburupithecus
+- Aegyptopithecus
+- Apidium
+- Parapithecus
+- Catopithecus
+- Notharctus
+- Adapis
+- Eosimias
+- Archicebus
+- Teilhardina
+- Smilodectes
+- Necrolemur
+- Plesiadapis
+- Purgatorius
+- Mesopithecus
+- Victoriapithecus
+- Dinopithecus
+- Paradolichopithecus
+- Libypithecus
+- Theropithecus oswaldi — Giant gelada
+- Xenothrix — Jamaican monkey
+- Protopithecus
+- Caipora
+- Antillothrix
+- Paralouatta — Cuban monkey
+- Homunculus
+- Branisella
+- Perupithecus
+- Ucayalipithecus
+- Homo soloensis — Solo man | Ngandong man | Homo erectus soloensis
+- Anoiapithecus
+- Amphipithecus
+- Rudapithecus
+- Afropithecus
+- Griphopithecus
+- Proteopithecus
+- Propliopithecus
+- Gorgopithecus
+- Turkanapithecus
+- Cercopithecoides
+- Rhinocolobus
+- Microcolobus
+- Meganthropus — Meganthropus palaeojavanicus
+- Pliopithecus
+- Ankarapithecus
+- Dendropithecus
+- Micropithecus
+- Limnopithecus
+- Laccopithecus
+- Oligopithecus
+- Buronius — Buronius manfredschmidi
+- Paranthropus capensis
+- Northern Pygmy Slow Loris — Northern pygmy loris | Xanthonycticebus intermedius
+- Homo sapiens idaltu — Idaltu | Herto man
+- Homo cepranensis — Ceprano man
+- Homo gautengensis
+- Homo mauritanicus — Atlanthropus
+- Australopithecus prometheus
+- False Potto — Pseudopotto
+- Northern Sportive Lemur — Lepilemur septentrionalis
+- Grey-headed Lemur — Gray-headed lemur | White-collared lemur | White-collared brown lemur | Eulemur cinereiceps
+- Saadanius
+- Nyanzapithecus
+- Pliobates
+- Hispanopithecus
+- Kapi
+- Yuanmoupithecus
+- Nacholapithecus
+- Equatorius
+- Epipliopithecus
+- Omomys
+- Tetonius
+- Shoshonius
+- Cantius
+- Carpolestes
+- Ignacius
+- Altiatlasius
+- Ganlea
+- Pondaungia
+- Biretia
+- Afrotarsius
+- Saharagalago
+- Wadilemur
+- Karanisia
+- Godinotia
+- Europolemur
+- Dolichopithecus
+- Procynocephalus
+- Theropithecus brumpti
+- Parapapio
+- Paracolobus
+- Prohylobates
+- Cartelles
+- Insulacebus
+- Stirtonia
+- Neosaimiri
+- Cebupithecia
+- Lagonimico
+- Killikaike
+- Tremacebus
+- Dolichocebus
+- Chilecebus
+- Soriacebus
+- Carlocebus
+- Mohanamico
+- Szalatavus
+
+### Tier 6: rare jackpots (3)
+
+- Skywalker Hoolock Gibbon — Skywalker gibbon | Skywalker hoolock | Gaoligong hoolock gibbon | Hoolock tianxing | Tianxing hoolock | Gaoligong gibbon
+- Cleese's Woolly Lemur — Cleese's avahi | Cleese's lemur | John Cleese's lemur | Bemaraha woolly lemur | Avahi cleesei
+- Likweli — Likweli monkey | Likweli colobus | Colobus congoensis
+
+## Refused on purpose (19)
+
+These are refused with the reason shown. If one of them is in fact a right answer, say so.
+
+- Primate — "That's the question, not an answer. Name a kind of primate."
+- Flying lemur | Flying lemurs | Colugo | Cobego — "A colugo, a gliding mammal and one of the primates' closest cousins. It is no lemur, and it can't fly."
+- Tree shrew — "Once filed with the primates, now given an order of its own."
+- Sloth | Three-toed sloth | Two-toed sloth — "A cousin of the anteaters, not a primate, however much time it spends in the trees."
+- Kinkajou | Honey bear — "A rainforest cousin of the raccoons, often mistaken for a monkey."
+- Sea monkeys | Brine shrimp — "Brine shrimp, sold as pets in a packet. A crustacean, not a primate."
+- Monkey puzzle | Monkey puzzle tree — "A spiky tree from Chile, not a primate."
+- Marmots — "A large ground squirrel, not a primate."
+- Lucy | Ardi | Ida | Turkana Boy | Taung Child | Little Foot | Toumai | Selam | Mrs Ples | Black Skull | Kabwe skull | Broken Hill skull | Udo | El Graeco — "A single famous fossil, not a kind of primate. Name the species it belongs to."
+- Harambe | Koko | Bubbles | Ham the Chimp | Guy the Gorilla | Kanzi | Washoe | Nim Chimpsky | Snowflake | Cheeta | Albert II | Naruto — "A famous individual, not a kind of primate. Name the species."
+- King Kong | Mighty Joe Young | Caesar | Cornelius | Zira | Dr Zaius | Planet of the Apes — "A monster of the cinema, not a species."
+- Donkey Kong | Diddy Kong | Dixie Kong | Cranky Kong | Funky Kong — "A video game ape, not a species."
+- Curious George | Rafiki | King Louie | Abu | King Julien | Mojo Jojo | Marcel the monkey | Grape Ape | Magilla Gorilla | Mr Nilsson — "A character from a book or cartoon, not a species."
+- Tarzan — "Raised by apes in the stories, but a fictional man, not a kind of primate."
+- Monkey King | Sun Wukong | Wukong — "Sun Wukong, the trickster hero of the Chinese legend Journey to the West. Not a species."
+- Yeti | Bigfoot | Sasquatch | Abominable Snowman | Yowie | Skunk ape | Orang pendek | Almas | Yeren — "A creature of legend. No one has ever caught one."
+- Missing link — "A phrase, not a species. Evolution never had just one."
+- Piltdown Man | Piltdown — "A famous fake, exposed in 1953: a human skull with an orangutan's jaw."
+- Primeape | Aipom | Ambipom | Infernape | Chimchar | Monferno | Oranguru | Passimians | Grookey | Thwackey | Rillaboom | Annihilape | Pansage | Pansear | Panpour | Simisage | Simisear | Simipour — "A Pokémon, not a primate of this world."

@@ -48,7 +48,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 4: obscure (5)
 
-- Guyana — British Guiana | Co-operative Republic of Guyana
+- Guyana — British Guiana | Co-operative Republic of Guyana | Guiana
 - Suriname — Surinam | Dutch Guiana
 - Grenada
 - Saint Lucia — St Lucia
@@ -80,7 +80,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Falkland Islands | Falklands | Malvinas | Islas Malvinas — "A British Overseas Territory, claimed by Argentina as the Malvinas."
 - South Georgia | South Georgia and the South Sandwich Islands — "A British territory in the far South Atlantic, home mostly to penguins."
 - French Guiana — "Part of France: an overseas department on the South American mainland."
-- Guiana | The Guianas — "Three Guianas share that coast, and one of them is still part of France. Which do you mean?"
+- The Guianas — "A region of three lands, one of them still part of France. Name one of the other two."
 - Guadeloupe | Martinique — "Part of France, as an overseas department."
 - Saint Martin | St Martin | Sint Maarten | St Maarten — "An island split between France and the Netherlands, not a sovereign state."
 - Saint Barthélemy | St Barts | St Barths | Saint Barts — "A French overseas collectivity, not a sovereign state."
@@ -94,7 +94,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Quebec | Ontario | British Columbia | Alberta | Nova Scotia | Newfoundland and Labrador | Manitoba | Saskatchewan | New Brunswick | Prince Edward Island — "A province of Canada."
 - Yukon | Nunavut | Northwest Territories — "A territory of Canada."
 - Newfoundland | Dominion of Newfoundland — "A dominion of its own until 1949, when it joined Canada."
-- France | French Republic — "French Guiana makes it partly South American, but France isn't counted among the 35 states of the Americas."
+- France | French Republic — "An overseas department on the mainland makes it partly South American, but France isn't counted among the 35 states of the Americas."
 - Netherlands | Holland | Kingdom of the Netherlands — "Three Caribbean islands are part of it, but it isn't counted among the 35 states of the Americas."
 - Denmark | Kingdom of Denmark — "Greenland lies in North America, but Denmark isn't counted among the 35 states of the Americas."
 - United Kingdom | UK | Britain | Great Britain | England — "It still holds islands in the Americas, but it isn't one of the 35 states there."
@@ -103,7 +103,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Patagonia — "A region split between Argentina and Chile."
 - Galápagos | Galápagos Islands — "Islands that belong to Ecuador."
 - Easter Island | Rapa Nui — "Chilean, though it lies far out in the Pacific."
-- Grenadines — "The Grenadines are split between two countries. Which do you mean?"
+- Grenadines — "An island chain split between two countries. Name one of them."
 - Caribbean | West Indies | Antilles | Lesser Antilles | Greater Antilles — "A sea and a region, not a country."
 - Latin America | Central America | Mesoamerica — "A region, not a country."
 - South America | North America | The Americas — "That's a whole continent. Name one country in it."

@@ -12,15 +12,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (15)
 
-- Luke Skywalker — Luke | Master Luke | Red Five
+- Luke Skywalker — Luke | Master Luke | Red Five | Skywalker
 - Darth Vader — Vader | Lord Vader | Anakin Skywalker | Anakin | Ani | Darth Vadar | Annie
-- Princess Leia — Leia | Leia Organa | Leia Organa Solo | General Leia | General Organa | Leia Skywalker | Princess Leia Organa | Senator Leia | Leah
+- Princess Leia — Leia | Leia Organa | Leia Organa Solo | General Leia | General Organa | Leia Skywalker | Princess Leia Organa | Senator Leia | Leah | Organa
 - Han Solo — Han | Solo | Hans Solo | Hans | Captain Solo
 - Chewbacca — Chewie | Chewy | Chewbaca
 - Yoda — Master Yoda | Grand Master Yoda
-- Obi-Wan Kenobi — Obi-Wan | Kenobi | Ben Kenobi | Old Ben | Obi-Wan Kenobe | General Kenobi | Old Ben Kenobi
+- Obi-Wan Kenobi — Obi-Wan | Kenobi | Ben Kenobi | Old Ben | Obi-Wan Kenobe | General Kenobi | Old Ben Kenobi | Ben
 - Emperor Palpatine — Palpatine | Darth Sidious | Sidious | The Emperor | Sheev Palpatine | Sheev | Chancellor Palpatine | Senator Palpatine
-- Boba Fett — Boba
+- Boba Fett — Boba | Fett
 - Jabba the Hutt — Jabba | Jaba | Jabba Desilijic Tiure
 - Darth Maul — Maul
 - Grogu — Baby Yoda | The Child | Din Grogu
@@ -33,7 +33,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Rey — Rey Skywalker | Rey Palpatine | Ray
 - Jar Jar Binks — Jar Jar | Binks | Jar
 - Lando Calrissian — Lando | Calrissian
-- Padmé Amidala — Padmé | Amidala | Queen Amidala | Senator Amidala | Padmé Naberrie
+- Padmé Amidala — Padmé | Amidala | Queen Amidala | Senator Amidala | Padmé Naberrie | Naberrie
 - Qui-Gon Jinn — Qui-Gon | Jinn | Qui-Gon Jin
 - Mace Windu — Mace | Windu
 - Count Dooku — Dooku | Darth Tyranus | Tyranus | Count Doku
@@ -41,7 +41,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Jango Fett — Jango
 - Finn — FN-2187
 - Poe Dameron — Poe | Dameron
-- Ahsoka Tano — Ahsoka | Ashoka | Asoka | Snips | Tano
+- Ahsoka Tano — Ahsoka | Ashoka | Asoka | Snips | Tano | Fulcrum
 - Din Djarin — The Mandalorian | Mando | Din | Djarin | Din Jarin
 - Grand Moff Tarkin — Tarkin | Moff Tarkin | Wilhuff Tarkin | Governor Tarkin
 - Wicket — Wicket W. Warrick | Wicket the Ewok
@@ -50,13 +50,13 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - General Hux — Hux | Armitage Hux
 - Captain Phasma — Phasma
 - Admiral Ackbar — Ackbar | Akbar | Admiral Akbar
-- Wedge Antilles — Wedge
-- Owen Lars — Uncle Owen | Owen
+- Wedge Antilles — Wedge | Antilles
+- Owen Lars — Uncle Owen | Owen | Lars
 - Cassian Andor — Cassian | Andor | Kassa
-- Jyn Erso — Jyn
+- Jyn Erso — Jyn | Erso
 - Captain Rex — Rex | CT-7567
 - Grand Admiral Thrawn — Thrawn | Admiral Thrawn | Mitth'raw'nuruodo
-- Rose Tico — Rose
+- Rose Tico — Rose | Tico
 - Maz Kanata — Maz | Kanata
 - BB-8
 - K-2SO — K2 | Kaytoo
@@ -67,14 +67,14 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Shmi Skywalker — Shmi
 - Watto
 - Sebulba
-- Mon Mothma
+- Mon Mothma — Mon | Mothma
 - Bib Fortuna — Bib | Fortuna
 - Salacious Crumb — Salacious B. Crumb | Kowakian monkey-lizard | Salacious | Crumb
 - Bossk
 - Dengar
 - Lobot
 - Nien Nunb — Nien | Nunb
-- Biggs Darklighter — Biggs
+- Biggs Darklighter — Biggs | Darklighter
 - Admiral Piett — Piett | Firmus Piett
 - Bail Organa — Bail
 - Plo Koon — Plo | Koon
@@ -84,15 +84,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Nute Gunray — Nute | Gunray
 - Boss Nass — Nass
 - Asajj Ventress — Asajj | Ventress
-- Cad Bane — Cad
+- Cad Bane — Cad | Bane
 - Savage Opress — Savage | Opress
 - Commander Cody — Cody | CC-2224
-- Ezra Bridger — Ezra
+- Ezra Bridger — Ezra | Bridger
 - Kanan Jarrus — Kanan | Caleb Dume | Jarrus
-- Hera Syndulla — Hera
-- Sabine Wren — Sabine
+- Hera Syndulla — Hera | Syndulla
+- Sabine Wren — Sabine | Wren
 - Zeb Orrelios — Zeb | Garazeb Orrelios | Garazeb | Orrelios
-- Bo-Katan Kryze — Bo-Katan
+- Bo-Katan Kryze — Bo-Katan | Kryze
 - Moff Gideon — Gideon
 - Cara Dune — Cara | Dune
 - Fennec Shand — Fennec | Shand
@@ -100,7 +100,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Armorer — The Armourer
 - Kuiil
 - Orson Krennic — Krennic | Director Krennic | Orson
-- Saw Gerrera — Saw
+- Saw Gerrera — Saw | Gerrera
 - Chirrut Îmwe — Chirrut | Îmwe
 - Baze Malbus — Baze | Malbus
 - Bodhi Rook — Bodhi
@@ -158,7 +158,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 4: obscure (264)
 
 - Mother Talzin — Talzin
-- Pre Vizsla
+- Pre Vizsla — Vizsla
 - Paz Vizsla — Paz
 - Migs Mayfeld — Mayfeld | Migs
 - Cobb Vanth — Cobb | Vanth | Marshal Vanth
@@ -197,7 +197,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Paige Tico — Paige
 - Allegiant General Pryde — General Pryde | Pryde | Enric Pryde
 - Zorii Bliss — Zorii | Bliss
-- Dryden Vos — Dryden
+- Dryden Vos — Dryden | Vos
 - Enfys Nest — Nest | Enfys
 - Val
 - Rio Durant — Durant | Rio
@@ -211,8 +211,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Maarva Andor — Maarva
 - Kleya Marki — Kleya
 - Karis Nemik — Nemik
-- Cinta Kaz — Cinta
-- Osha Aniseya — Osha
+- Cinta Kaz — Cinta | Kaz
+- Osha Aniseya — Osha | Aniseya
 - Mae Aniseya — Mae
 - Master Sol — Sol
 - Qimir — The Stranger
@@ -233,8 +233,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Carth Onasi — Carth
 - Darth Malak — Malak
 - Kyle Katarn — Katarn | Kyle
-- Iden Versio — Iden
-- Jacen Solo — Darth Caedus | Caedus
+- Iden Versio — Iden | Versio
+- Jacen Solo — Darth Caedus | Caedus | Jacen
 - Jaina Solo — Jaina
 - Hobbie — Hobbie Klivian
 - Commander Bly — Bly
@@ -255,7 +255,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Even Piell — Piell
 - Adi Gallia — Gallia
 - Stass Allie — Allie
-- Lux Bonteri — Lux
+- Lux Bonteri — Lux | Bonteri
 - Embo
 - Mas Amedda — Amedda
 - Sly Moore — Moore
@@ -268,7 +268,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Daughter
 - Seventh Sister
 - Fenn Rau — Rau
-- Gar Saxon
+- Gar Saxon — Saxon
 - Ursa Wren — Ursa
 - Cham Syndulla — Cham
 - Commander Sato — Jun Sato
@@ -300,7 +300,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Teebo
 - Paploo
 - Klaatu
-- Snap Wexley — Temmin Wexley | Snap
+- Snap Wexley — Temmin Wexley | Snap | Wexley
 - Kaydel Ko Connix — Connix
 - Lieutenant Mitaka — Mitaka
 - Lyra Erso — Lyra
@@ -335,7 +335,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Fara
 - Wendle
 - Brutus
-- Bode Akuna — Bode
+- Bode Akuna — Bode | Akuna
 - Dagan Gera — Dagan
 - Taron Malicos — Malicos
 - Canderous Ordo — Mandalore the Preserver | Canderous | Ordo
@@ -419,7 +419,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Riyo Chuchi — Chuchi | Senator Chuchi
 - Kelleran Beq — Beq
 - FN-2199 — TR-8R | Nines
-- Trace Martez — Trace
+- Trace Martez — Trace | Martez
 - Rafa Martez — Rafa
 
 ### Tier 5: expert (440)
@@ -540,7 +540,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Bazil
 - Kh'ymm
 - Devon Izara
-- Brander Lawson
+- Brander Lawson — Lawson
 - Sliro Barsha — Barsha
 - Jaylen Vrax — Vrax
 - Rayvis
@@ -616,7 +616,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Porter Engle
 - Sskeer
 - Lina Soh
-- Kazuda Xiono — Kaz Xiono
+- Kazuda Xiono — Kaz Xiono | Xiono
 - Tam Ryvora — Ryvora
 - Jarek Yeager — Yeager
 - Neeku Vozo — Neeku | Vozo
@@ -861,7 +861,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Sun Fac
 - Tivik
 - Edrio Two Tubes
-- Benthic Two Tubes
+- Benthic Two Tubes — Two Tubes
 - Weeteef Cyu-Bee
 - Nubs
 
@@ -871,26 +871,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Willrow Hood — Ice Cream Maker Guy
 - Snaggletooth — Zutton
 
-## Refused on purpose (63)
+## Refused on purpose (30)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Skywalker — "Which Skywalker? Luke and Anakin are only the start."
-- Lars — "Which Lars? Uncle Owen's whole family shares the name."
-- Kryze — "Which Kryze? A whole Mandalorian ruling family shares it."
-- Syndulla — "Which Syndulla? A Twi'lek family of rebels shares it."
-- Tico — "Which Tico? Rose and her sister share the name."
-- Vizsla — "Which Vizsla? Several Mandalorians share it."
-- Aniseya — "Which Aniseya? Twin sisters share it, and so does one of their mothers."
-- Vos — "Which Vos? A Jedi and a crime lord share it."
-- Organa — "Which Organa? Leia's adoptive family shares the name."
-- Bane — "Which Bane? A Sith Lord and a gunslinger share it."
-- Darth — "Which Darth? Vader is only the start."
-- Ben — "Which Ben? Kenobi and Solo both went by it."
-- Mon — "Which one? Two different characters share that name."
-- Jacen — "Which Jacen? Two sons of rebel heroes share the name."
-- Bonteri — "Which Bonteri? Two of the same family share it."
-- Wexley — "Which Wexley? Two of the same family share it."
+- Darth — "Just a Sith title. Add a name, as in Darth Vader."
 - Ewok | Ewoks — "A whole people, not one character. Wicket is the one everyone remembers."
 - Wookiee | Wookiees | Wookie | Wookies — "A whole people, not one character. Chewbacca is the famous one."
 - Jawa | Jawas — "A whole people of desert scavengers, not one character."
@@ -904,7 +889,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Protocol droid — "A whole class of droid. Name one, like C-3PO."
 - Jedi | Jedi Knight | Jedi Master | Jedi Council | Jedi Order | Youngling | Padawan — "An order of knights, not one character."
 - Sith | Sith Lord — "An order, not one character. Its Lords take the title Darth."
-- Inquisitor | Inquisitors | Inquisitorius — "Which one? The Empire had a whole order of Jedi hunters."
+- Inquisitor | Inquisitors | Inquisitorius — "A whole order of Jedi hunters. Name one of them."
 - Knights of Ren | Knight of Ren — "A band of six, not one character. Name one of them."
 - Bad Batch | Clone Force 99 — "A whole squad. Name one of its members."
 - Rogue One | Rogue Squadron — "The whole team's call sign, not one character."
@@ -918,23 +903,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Spock | Mr. Spock | Captain Kirk | James T. Kirk | Jean-Luc Picard | Picard | Worf | Uhura | Scotty | Sulu | Chekov — "Star Trek, not Star Wars."
 - Dark Helmet | Lone Starr | Barf | President Skroob | Yogurt | Princess Vespa | Pizza the Hutt | Dot Matrix — "From Spaceballs, Mel Brooks's spoof, not Star Wars."
 - Luke Starkiller — "Luke's surname in early drafts of the script. He became a Skywalker."
-- Fett — "Which Fett? Boba and Jango share it."
-- Erso — "Which Erso? Jyn's whole family shares it."
-- Antilles — "Which Antilles? Wedge and a rebel captain share it."
-- Wren — "Which Wren? A whole Mandalorian family shares it."
-- Gerrera — "Which Gerrera? A rebel and his sister share it."
-- Mothma — "Which Mothma? It runs in the family."
-- Darklighter — "Which Darklighter? Two pilots from the same family share it."
-- Kaz — "Which Kaz? Two quite different characters go by it."
-- Fulcrum — "Which Fulcrum? Ahsoka was only the first spy to use the name."
-- Bridger — "Which Bridger? A whole family from Lothal shares it."
-- Lawson — "Which Lawson? Two characters share it."
-- Naberrie — "Which Naberrie? Padmé's whole family shares it."
-- Saxon — "Which Saxon? Two Mandalorian brothers share it."
-- Xiono — "Which Xiono? It runs in the family."
-- Akuna — "Which Akuna? It runs in the family."
-- Versio — "Which Versio? Three generations of one family share it."
-- Martez — "Which Martez? Two sisters share it."
-- Two Tubes — "Which one? Two brothers share the name."
 - Mandalorians — "A whole people, not one character. Din Djarin is the one you're thinking of."
 - Mandalore — "A planet, and a title many Mandalorians have held. Name one of them."
