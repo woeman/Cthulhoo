@@ -295,17 +295,27 @@ async function reliquary(page, who) {
         if (kept >= 7) pass(`The browser kept ${kept} questions for a dive with no line to the surface.`);
         else fail(`The browser kept only ${kept} questions.`);
         const heard = wren.errors.length;
+        // The game is shut and opened again with no line, as a phone's is between visits. A new tab, not a reload:
+        // the old one, still drawing the sea in software, can keep a slow machine from turning the page for a minute.
+        await p.close().catch(() => {});
         await wren.ctx.setOffline(true);
+        const began = Date.now();
+        const took = () => `${((Date.now() - began) / 1000).toFixed(1)} s`;
+        let at = 'opening the game';
         try {
-          await p.reload({ waitUntil: 'commit', timeout: 60000 });
-          await p.waitForSelector('.title-screen', { timeout: 60000 });
-          await p.getByRole('button', { name: 'Read your log' }).click();
-          await p.waitForSelector('.dive-log > li', { timeout: 30000 });
-          await p.locator('.dive-log > li summary').first().click();
-          await p.waitForTimeout(400);
-          const more = flat(await p.locator('.dive-log > li .more').first().innerText());
-          if (/What everyone said|Unspeakable answers/.test(more)) pass(`With no line at all the page loads and the log is read again, answers and all: ${more.slice(0, 160)}`);
+          const o = await wren.open(`${BASE}?scale=2`, { waitUntil: 'commit', timeout: 90000 });
+          at = `waiting for the title (the page came after ${took()})`;
+          await o.waitForSelector('.title-screen', { timeout: 90000 });
+          at = `opening the log (the title came after ${took()})`;
+          await o.getByRole('button', { name: 'Read your log' }).click();
+          await o.waitForSelector('.dive-log > li', { timeout: 45000 });
+          await o.locator('.dive-log > li summary').first().click();
+          await o.waitForTimeout(400);
+          const more = flat(await o.locator('.dive-log > li .more').first().innerText());
+          if (/What everyone said|Unspeakable answers/.test(more)) pass(`With no line at all the game opens and the log is read again, answers and all (${took()}): ${more.slice(0, 160)}`);
           else fail(`With no line, the log had no answers to show: "${more.slice(0, 160)}"`);
+        } catch (e) {
+          throw new Error(`with no line, ${at}: ${e.message.split('\n')[0]}`);
         } finally {
           await wren.ctx.setOffline(false);
           // What could not be fetched with no line (the music, the census) is no fault; anything else still counts.
