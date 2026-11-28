@@ -1,6 +1,7 @@
 // Seeds a preview's census with pretend divers, then plays it on two phones and a
 // desktop: the share on each reveal, the answers most given in the log, and the
-// Reliquary; then the topics and the music, a class held on the desk with the
+// Reliquary; the questions fetched a file at a time and kept for a log read with
+// no line; then the topics and the music, a class held on the desk with the
 // phones in it, and a revision dive. It refuses any relay but a preview's or one
 // on this machine, so pretend divers never reach the live game.
 // Run by .github/workflows/preview.yml, or by hand against `wrangler dev`.
@@ -260,6 +261,12 @@ async function reliquary(page, who) {
 
     // ------------------------------------------------ Wren dives for the rare answers
     const wren = await device(browser, 'Wren');
+    // Every question the phone fetches from bank/, by name (the game asks for a question's answers when it needs them).
+    const banked = new Set();
+    wren.ctx.on('response', (r) => {
+      const m = /\/bank\/([a-z0-9-]+)\.json(\?|$)/.exec(r.url());
+      if (m && r.ok()) banked.add(m[1]);
+    });
     const p = await wren.open(`${BASE}?scale=2`);
     await p.waitForSelector('.title-screen', { timeout: 45000 });
     await p.waitForTimeout(1500);
@@ -276,6 +283,39 @@ async function reliquary(page, who) {
     const r1 = await reliquary(p, 'wren');
     if (r1.relics.length) pass(`The Reliquary keeps ${r1.relics.length} (${r1.note}), ${r1.told} with their share told. First: ${r1.relics[0].slice(0, 200)}`);
     else fail(`The Reliquary was empty (${r1.note}) after Wren's rare answers.`);
+    // ------------------------------------------------ the bank, a question at a time
+    // The script holds no answers: each question's are a file in bank/, fetched when needed and kept
+    // by the browser, so a dive begun can be finished, and its log read, with no line to the surface.
+    try {
+      if (banked.size >= 7) pass(`Wren's phone fetched its questions' answers as files of their own: ${banked.size} from bank/.`);
+      else fail(`Wren's phone fetched only ${banked.size} questions from bank/ for a dive of seven.`);
+      const kept = await p.evaluate(async () => (navigator.serviceWorker && navigator.serviceWorker.controller ? (await (await caches.open('cthulhoo-bank')).keys()).length : -1));
+      if (kept < 0) info('No service worker has this page (the game registers one only over https), so the questions kept and a log read with no line were not checked here.');
+      else {
+        if (kept >= 7) pass(`The browser kept ${kept} questions for a dive with no line to the surface.`);
+        else fail(`The browser kept only ${kept} questions.`);
+        const heard = wren.errors.length;
+        await wren.ctx.setOffline(true);
+        try {
+          await p.reload({ waitUntil: 'commit', timeout: 60000 });
+          await p.waitForSelector('.title-screen', { timeout: 60000 });
+          await p.getByRole('button', { name: 'Read your log' }).click();
+          await p.waitForSelector('.dive-log > li', { timeout: 30000 });
+          await p.locator('.dive-log > li summary').first().click();
+          await p.waitForTimeout(400);
+          const more = flat(await p.locator('.dive-log > li .more').first().innerText());
+          if (/What everyone said|Unspeakable answers/.test(more)) pass(`With no line at all the page loads and the log is read again, answers and all: ${more.slice(0, 160)}`);
+          else fail(`With no line, the log had no answers to show: "${more.slice(0, 160)}"`);
+        } finally {
+          await wren.ctx.setOffline(false);
+          // What could not be fetched with no line (the music, the census) is no fault; anything else still counts.
+          wren.errors = [...wren.errors.slice(0, heard), ...wren.errors.slice(heard).filter((e) => !/Failed to load resource|ERR_INTERNET_DISCONNECTED|Failed to fetch|NetworkError|Load failed/i.test(e))];
+        }
+      }
+    } catch (e) {
+      fail(`The check of the bank fetched a question at a time stopped: ${e.message.split('\n')[0]}`);
+    }
+
     // One phone at a time: a browser drawing the sea in software is slow enough already.
     const wrenErrors = [...wren.errors];
     await wren.ctx.close();
