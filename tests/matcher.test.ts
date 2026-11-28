@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 import bank from '../src/content/placeholder-bank.json';
-import { fold, foldKey, keyOf, keysOf, matchAnswer, normalize, osaDistance, typoAllowance } from '../src/game/matcher';
+import { fold, foldKey, genericWords, keyOf, keysOf, matchAnswer, normalize, osaDistance, secondChances, typoAllowance, typoReading } from '../src/game/matcher';
 import type { PromptDef } from '../src/game/types';
 
 const prompts = (bank as { prompts: PromptDef[] }).prompts;
@@ -212,5 +212,49 @@ describe('folding', () => {
     const p: PromptDef = { id: 'w', text: 'w', category: 'language', exact: true, answers: [{ answer: 'Seven', tier: 2 }] };
     expect(matchAnswer(p, 'Seven').kind).toBe('accept');
     expect(matchAnswer(p, '7').kind).toBe('reject');
+  });
+});
+
+describe('second chances', () => {
+  it('takes the words a question uses to say what it wants', () => {
+    expect([...genericWords('Name a kind of shark.')].sort()).toEqual(['kind', 'shark']);
+    expect([...genericWords('Name a God or Goddess of Norse mythology.')].sort()).toEqual(['god', 'goddess', 'mythology', 'norse']);
+    expect([...genericWords('Name a US state.')]).toEqual(['state']);
+    expect(genericWords(undefined).size).toBe(0);
+  });
+
+  it('reads an input without a title, the question’s words, a year or “teh”, shortest last', () => {
+    const generic = genericWords('Name a musical.');
+    expect(secondChances('barbie the musical', generic)).toEqual(['barbie']);
+    expect(secondChances('sir isaac newton', new Set())).toEqual(['isaac newton']);
+    expect(secondChances('teh lion king 1994', new Set())).toEqual(['lion king 1994', 'teh lion king', 'lion king']);
+    expect(secondChances('cheddar', genericWords('Name a cheese.'))).toEqual([]);
+  });
+
+  it('keeps one word, and a question’s word that comes before “of”', () => {
+    expect(secondChances('cheese', genericWords('Name a cheese.'))).toEqual([]);
+    expect(secondChances('sea of japan', genericWords('Name a sea.'))).toEqual([]);
+    expect(secondChances('king', new Set())).toEqual([]);
+  });
+
+  it('forgives typos without the question’s words and a year, never without a title', () => {
+    expect(typoReading('mojto cocktail', genericWords('Name a cocktail.'))).toBe('mojto');
+    expect(typoReading('toy stroy 1995', new Set())).toBe('toy stroy');
+    expect(typoReading('sir issac newton', new Set())).toBeNull();
+  });
+
+  it('calls an answer fuzzy only when a spelling slip was forgiven', () => {
+    const cheese: PromptDef = { id: 'c', text: 'Name a cheese.', category: 'food', answers: [{ answer: 'Cheddar', tier: 1 }] };
+    const film: PromptDef = { id: 'f', text: 'Name a Pixar film.', category: 'culture', answers: [{ answer: 'Toy Story', tier: 1 }] };
+    const fuzzy = (p: PromptDef, input: string) => {
+      const r = matchAnswer(p, input);
+      return r.kind === 'accept' ? r.fuzzy : r.kind;
+    };
+    expect(fuzzy(cheese, 'cheddar')).toBe(false);
+    expect(fuzzy(cheese, 'Cheddar cheese')).toBe(false);
+    expect(fuzzy(cheese, 'Chedar')).toBe(true);
+    expect(fuzzy(cheese, 'Chedar cheese')).toBe(true);
+    expect(fuzzy(film, 'Toy Story (1995)')).toBe(false);
+    expect(fuzzy(film, 'Toy Stroy 1995')).toBe(true);
   });
 });

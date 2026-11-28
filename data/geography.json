@@ -24,7 +24,7 @@
         {"answer": "Sudan", "aliases": ["North Sudan", "Republic of the Sudan"], "tier": 2},
         {"answer": "Tunisia", "tier": 2},
         {"answer": "Rwanda", "tier": 2},
-        {"answer": "Democratic Republic of the Congo", "aliases": ["DR Congo", "DRC", "Democratic Republic of Congo", "Congo-Kinshasa", "Zaire", "Belgian Congo", "Congo Free State"], "tier": 2},
+        {"answer": "Democratic Republic of the Congo", "aliases": ["DR Congo", "DRC", "Democratic Republic of Congo", "Congo-Kinshasa", "Zaire", "Belgian Congo", "Congo Free State", "Congo"], "tier": 2},
         {"answer": "Senegal", "tier": 3},
         {"answer": "Cameroon", "aliases": ["Kamerun", "Cameroun"], "tier": 3},
         {"answer": "Namibia", "aliases": ["South West Africa"], "tier": 3},
@@ -63,7 +63,6 @@
         {"answer": "São Tomé and Príncipe", "aliases": ["São Tomé"], "tier": 6, "lore": "Africa's second-smallest country: two volcanic islands, with the equator crossing a tiny islet just offshore."}
       ],
       "traps": [
-        {"answer": "Congo", "reason": "There are two Congos. Which one?"},
         {"answer": "Western Sahara", "reason": "A disputed territory, not one of Africa's 54 recognised states."},
         {"answer": "Somaliland", "reason": "It has governed itself since 1991, but few countries recognise it."},
         {"answer": "Zanzibar", "reason": "Part of Tanzania since 1964."},

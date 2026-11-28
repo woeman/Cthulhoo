@@ -19,8 +19,8 @@
         {"answer": "The Merchant of Venice", "tier": 2},
         {"answer": "Much Ado About Nothing", "aliases": ["Much Ado"], "tier": 2},
         {"answer": "The Taming of the Shrew", "tier": 2},
-        {"answer": "Richard III", "aliases": ["Richard 3", "Richard the Third", "King Richard III"], "tier": 2},
-        {"answer": "Henry V", "aliases": ["Henry 5", "Henry the Fifth", "King Henry V", "The Life of Henry the Fifth", "The Life of King Henry the Fifth"], "tier": 2},
+        {"answer": "Richard III", "aliases": ["Richard 3", "Richard the Third", "King Richard III", "Richard"], "tier": 2},
+        {"answer": "Henry V", "aliases": ["Henry 5", "Henry the Fifth", "King Henry V", "The Life of Henry the Fifth", "The Life of King Henry the Fifth", "Henry"], "tier": 2},
         {"answer": "As You Like It", "tier": 2},
         {"answer": "Antony and Cleopatra", "aliases": ["Anthony and Cleopatra", "The Tragedy of Antony and Cleopatra"], "tier": 2},
         {"answer": "The Winter's Tale", "tier": 3},
@@ -68,7 +68,6 @@
         {"answer": "10 Things I Hate About You", "aliases": ["Ten Things I Hate About You"], "reason": "The Taming of the Shrew, moved to a 1999 high school."},
         {"answer": "Rosencrantz and Guildenstern Are Dead", "reason": "Tom Stoppard's play, set in the wings of Hamlet."},
         {"answer": "Shakespeare in Love", "reason": "A 1998 film about him, not by him."},
-        {"answer": "Henry", "aliases": ["Richard"], "reason": "Which one? He wrote several."},
         {"answer": "Edward", "reason": "Which Edward? Give the number."},
         {"answer": "Kiss Me, Kate", "reason": "Cole Porter's 1948 musical, built around a staging of The Taming of the Shrew."}
       ]

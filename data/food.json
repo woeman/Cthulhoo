@@ -38,6 +38,8 @@
         {"answer": "American cheese", "aliases": ["Processed cheese", "Cheese slices", "Kraft Singles", "Kraft Singles cheese"], "tier": 2},
         {"answer": "Danish Blue", "aliases": ["Danish Blue cheese"], "tier": 2},
         {"answer": "Cathedral City", "aliases": ["Cathedral City cheese"], "tier": 2},
+        {"answer": "Chèvre", "aliases": ["Chèvre cheese", "Goat's cheese", "Goat cheese"], "tier": 2},
+        {"answer": "Blue cheese", "aliases": ["Blue"], "tier": 2},
         {"answer": "Colby", "aliases": ["Colby cheese"], "tier": 3},
         {"answer": "Lancashire", "aliases": ["Lancashire cheese"], "tier": 3},
         {"answer": "Cheshire", "aliases": ["Cheshire cheese"], "tier": 3},
@@ -114,7 +116,6 @@
         {"answer": "Mozzarella di bufala", "aliases": ["Buffalo mozzarella", "Mozzarella di bufala cheese", "Buffalo mozzarella cheese"], "tier": 4},
         {"answer": "Labneh", "aliases": ["Labne", "Labneh cheese", "Labne cheese"], "tier": 4},
         {"answer": "Akkawi", "aliases": ["Akkawi cheese"], "tier": 4},
-        {"answer": "Chèvre", "aliases": ["Chèvre cheese"], "tier": 4},
         {"answer": "Coulommiers", "aliases": ["Coulommiers cheese"], "tier": 4},
         {"answer": "Red Windsor", "aliases": ["Red Windsor cheese"], "tier": 4},
         {"answer": "Sage Derby", "aliases": ["Sage Derby cheese"], "tier": 4},
@@ -178,15 +179,14 @@
         {"answer": "Pule", "aliases": ["Donkey cheese", "Pule cheese"], "tier": 6, "lore": "Made from Balkan donkey milk at one nature reserve in Serbia, and among the costliest cheeses on Earth."}
       ],
       "traps": [
-        {"answer": "Goat's cheese", "aliases": ["Sheep's cheese", "Cow's cheese", "Buffalo cheese"], "reason": "A kind of milk, not a named cheese. Which one?"},
-        {"answer": "Blue cheese", "aliases": ["Blue"], "reason": "A whole family of cheeses. Which one?"},
         {"answer": "Cheese", "aliases": ["Hard cheese", "Soft cheese", "Smoked cheese", "Mature cheese", "Mild cheese"], "reason": "Yes, but which?"},
         {"answer": "Tofu", "reason": "Bean curd. A cheese only in spirit."},
         {"answer": "Butter", "aliases": ["Yoghurt", "Yogurt", "Cream", "Milk", "Ghee"], "reason": "Dairy, but not cheese."},
         {"answer": "Cheesecake", "reason": "A pudding, not a cheese."},
         {"answer": "Fondue", "aliases": ["Welsh rarebit", "Mac and cheese", "Macaroni cheese", "Cheese on toast"], "reason": "A dish of melted cheese, not a cheese."},
         {"answer": "Nacho cheese", "aliases": ["Cheese sauce", "Cheez Whiz"], "reason": "A sauce."},
-        {"answer": "Moon", "reason": "Not made of cheese, whatever you were told."}
+        {"answer": "Moon", "reason": "Not made of cheese, whatever you were told."},
+        {"answer": "Sheep's cheese", "aliases": ["Cow's cheese", "Buffalo cheese"], "reason": "A kind of milk, not a named cheese."}
       ]
     },
     {
@@ -678,7 +678,7 @@
         {"answer": "Cantaloupe", "aliases": ["Rockmelon"], "tier": 2},
         {"answer": "Honeydew", "aliases": ["Honeydew melon"], "tier": 2},
         {"answer": "Guava", "tier": 2},
-        {"answer": "Blackcurrant", "tier": 2},
+        {"answer": "Blackcurrant", "aliases": ["Currant", "Currants"], "tier": 2},
         {"answer": "Blood orange", "tier": 2},
         {"answer": "Redcurrant", "tier": 3},
         {"answer": "Kumquat", "tier": 3},
@@ -790,7 +790,6 @@
       ],
       "traps": [
         {"answer": "Fruit", "aliases": ["Berry", "Berries", "Citrus"], "reason": "Which one?"},
-        {"answer": "Currant", "aliases": ["Currants"], "reason": "Which currant? There are several, and one of them is dried."},
         {"answer": "Carrot", "aliases": ["Potato", "Onion", "Turnip", "Parsnip"], "reason": "A root. Delicious, but a root."},
         {"answer": "Mushroom", "reason": "A fungus. Its fruiting body does not count, however much it sounds like it should."},
         {"answer": "Sweetcorn", "aliases": ["Corn", "Maize", "Rice", "Wheat"], "reason": "A grain. The deep has to draw the line somewhere."},
@@ -983,7 +982,7 @@
         {"answer": "Granary", "aliases": ["Granary bread"], "tier": 2},
         {"answer": "Multigrain", "aliases": ["Seeded bread", "Seeded", "Multigrain bread"], "tier": 2},
         {"answer": "Crumpet", "aliases": ["Crumpet bread"], "tier": 2},
-        {"answer": "English muffin", "aliases": ["English muffin bread"], "tier": 2},
+        {"answer": "English muffin", "aliases": ["English muffin bread", "Muffin", "Muffins"], "tier": 2},
         {"answer": "Hot cross bun", "aliases": ["Hot cross buns"], "tier": 2},
         {"answer": "Panettone", "aliases": ["Panettone bread"], "tier": 2, "lore": "A sweet Milanese bread that can take days to make, because the dough rises again and again."},
         {"answer": "Stollen", "aliases": ["Stollen bread"], "tier": 2},
@@ -991,6 +990,7 @@
         {"answer": "Teacake", "tier": 2},
         {"answer": "Fruit loaf", "aliases": ["Fruit bread"], "tier": 2},
         {"answer": "Raisin bread", "tier": 2},
+        {"answer": "Flatbread", "aliases": ["Flatbreads"], "tier": 2},
         {"answer": "Farmhouse loaf", "aliases": ["Farmhouse"], "tier": 3},
         {"answer": "Malt loaf", "tier": 3},
         {"answer": "Barmbrack", "aliases": ["Barmbrack bread"], "tier": 3, "lore": "An Irish Halloween bread with tokens baked inside. Finding the ring means a wedding within the year."},
@@ -1117,10 +1117,8 @@
         {"answer": "Shortbread", "reason": "A biscuit, whatever its name says."},
         {"answer": "Croissant", "aliases": ["Pain au chocolat", "Danish", "Danish pastry", "Doughnut", "Donut", "Cinnamon roll", "Eclair"], "reason": "A pastry, not a bread."},
         {"answer": "Scone", "aliases": ["Scones"], "reason": "Closer to a cake, though nobody agrees how to say it."},
-        {"answer": "Muffin", "aliases": ["Muffins"], "reason": "Which muffin? One kind is bread. The other is cake."},
         {"answer": "Pancake", "aliases": ["Waffle", "Crêpe", "Yorkshire pudding"], "reason": "A batter, not a bread."},
         {"answer": "Pizza", "aliases": ["Calzone"], "reason": "A dish, built on bread."},
-        {"answer": "Flatbread", "aliases": ["Flatbreads"], "reason": "Which flatbread? There are hundreds."},
         {"answer": "Cracker", "aliases": ["Crackers", "Rice cake"], "reason": "A biscuit for cheese, not a bread."}
       ]
     },
@@ -1141,12 +1139,12 @@
         {"answer": "Bramley", "aliases": ["Bramley's Seedling", "Bramley apple", "Bramley's Seedling apple"], "tier": 1, "lore": "Every Bramley descends from one tree, grown from a pip in a Nottinghamshire garden around 1809."},
         {"answer": "Jazz", "aliases": ["Scifresh", "Jazz apple", "Scifresh apple"], "tier": 1},
         {"answer": "Honeycrisp", "aliases": ["Honeycrunch", "Honeycrisp apple", "Honeycrunch apple"], "tier": 1, "lore": "Crossed at the University of Minnesota in 1960 and released in 1991. Its cells are unusually large, so they burst as you bite."},
-        {"answer": "Cox's Orange Pippin", "aliases": ["Cox", "Cox's", "Cox's Orange", "Cox's Orange Pippin apple", "Cox's apple", "Cox's Orange apple"], "tier": 2, "lore": "Raised from a pip around 1830 by Richard Cox, a retired brewer."},
+        {"answer": "Cox's Orange Pippin", "aliases": ["Cox", "Cox's", "Cox's Orange", "Cox's Orange Pippin apple", "Cox's apple", "Cox's Orange apple", "Pippin"], "tier": 2, "lore": "Raised from a pip around 1830 by Richard Cox, a retired brewer."},
         {"answer": "McIntosh", "aliases": ["Macintosh", "Mac", "McIntosh apple", "Macintosh apple"], "tier": 2, "lore": "The Apple Macintosh computer was named after it, with a change of spelling."},
         {"answer": "Jonagold", "aliases": ["Jonagold apple"], "tier": 2},
         {"answer": "Empire", "aliases": ["Empire apple"], "tier": 2},
         {"answer": "Cortland", "aliases": ["Cortland apple"], "tier": 2},
-        {"answer": "Egremont Russet", "aliases": ["Egremont", "Egremont Russet apple", "Egremont apple"], "tier": 2},
+        {"answer": "Egremont Russet", "aliases": ["Egremont", "Egremont Russet apple", "Egremont apple", "Russet", "Russets"], "tier": 2},
         {"answer": "Envy", "aliases": ["Scilate", "Envy apple", "Scilate apple"], "tier": 2},
         {"answer": "Cosmic Crisp", "aliases": ["Cosmic Crisp apple"], "tier": 2, "lore": "Launched by Washington State in 2019 with a ten-million-dollar marketing campaign."},
         {"answer": "Ambrosia", "aliases": ["Ambrosia apple"], "tier": 2},
@@ -1236,8 +1234,6 @@
       ],
       "traps": [
         {"answer": "Apple", "aliases": ["Apples", "Red apple", "Green apple", "Eating apple", "Cooking apple", "Cooker"], "reason": "Which variety?"},
-        {"answer": "Pippin", "reason": "Which pippin? There are dozens."},
-        {"answer": "Russet", "aliases": ["Russets"], "reason": "A family of rough-skinned apples. Which one?"},
         {"answer": "Reinette", "aliases": ["Reinettes"], "reason": "A whole family of old French apples. Which one?"},
         {"answer": "Crab apple", "reason": "A wild species, not a variety."},
         {"answer": "Pear", "aliases": ["Quince", "Asian pear", "Nashi"], "reason": "A different fruit, if a close cousin."},

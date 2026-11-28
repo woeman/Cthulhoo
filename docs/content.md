@@ -181,7 +181,33 @@ The input's keys are looked up directly, along with simple singular and plural
 forms: an "s" added or removed, "es" removed, "ies" turned into "y". So
 "Beagles" finds Beagle and "Cherries" finds Cherry.
 
-### 4. Forgive typos
+### 4. Second chances: leave out the words the bank leaves out
+
+Players often type more than the answer. If the whole input has no exact
+match, it is looked up again, still exactly (plurals and folding allowed, no
+typos), in these shorter readings, in this order:
+
+| Reading | Example |
+| ------- | ------- |
+| A leading "teh" read as "the" (and so dropped) | "Teh Lion King" finds The Lion King |
+| Without titles at the start: sir, dame, lord, lady, king, queen, prince, princess, emperor, empress, tsar, czar, pharaoh, pope, president, general, admiral, captain, dr, doctor, professor, mr, mrs, ms, miss, mister, and the question's own words | "Sir Isaac Newton", "King Henry VIII", "Goddess Freya" |
+| Without the question's own words at the end, and a "the", "a", "an" or "of" before them | "Cheddar cheese", "Hammerhead sharks", "Cats the musical" |
+| Without a year at the end (1000 to 2099) | "Toy Story 1995", "Toy Story (1995)" |
+| All of these at once | "Teh Lion King film 1994" |
+
+The question's own words are the words of the prompt's text with three or
+more letters, other than common ones such as "name", "that" and "with", read
+in the singular: "Name a kind of shark." gives kind and shark. A riddle's
+verse is not used. One word always stays, and a question's word that comes
+before "of" is kept, so "Sea of Japan" stays itself. Saint is not a title
+here, because so many places begin with it.
+
+These come before any typo is forgiven, so "Mojito cocktail" finds Mojito
+before it can be read as three typos from the trap "Molotov cocktail". Typos
+are never forgiven on a bare name left after a title: "Galba" and "Lear" are
+too close to too many answers.
+
+### 5. Forgive typos
 
 If nothing matched exactly, the closest spelling within the allowance wins.
 Distance is counted in single-letter changes: a letter added, removed or
@@ -197,6 +223,14 @@ shorter of the two keys:
 
 Both the plain and folded keys are tried, and the smaller distance counts.
 
+When the input and a spelling both end with the question's own words, those
+words would stretch the allowance, so the rest is judged alone, by the longer
+of the two: "Mojto cocktail" is not a slip for "Molotov cocktail", and
+"Barbie the Musical" is not a slip for "Carrie the Musical", but "Bul shark"
+is still Bull Shark. If the whole input still matches nothing, its typos are
+forgiven once more without the question's words, a year or "teh" (never
+without a title): "Chedar cheese" is Cheddar, "Toy Stroy 1995" is Toy Story.
+
 **A typo never changes a number.** Two keys are only compared when they hold
 the same digits in the same order, so "Apollo 12" is never a slip for Apollo
 13, and "Fahrenheit 415" is never Fahrenheit 451. Roman numerals are only a
@@ -208,7 +242,7 @@ so that spelling keeps its plain key too. Typos in the name are still forgiven
 Eighty-Four"). A number that never existed, such as Henry IX, is refused
 unless a trap names it.
 
-### 5. Break ties
+### 6. Break ties
 
 - If a trap or decoy is at least as close as any right answer, the wrong
   answer wins. This is why traps and decoys exist: a real-but-wrong name must
@@ -218,14 +252,15 @@ unless a trap names it.
 - If two different right answers are equally close, the result is
   **ambiguous** and the player is asked to be more precise.
 
-### 6. Exact prompts
+### 7. Exact prompts
 
 Prompts marked `"exact": true` are about spelling itself, so only the listed
 spellings count: no folding, no plurals and no typo forgiveness. Tidying
 (case, accents, spaces, punctuation) still applies. Every acceptable spelling
-must therefore be listed, plurals included, where the rule allows them.
+must therefore be listed, plurals included, where the rule allows them. They
+get no second chances either.
 
-### 7. Edge cases
+### 8. Edge cases
 
 - Nothing typed but spaces: **empty**, which the game ignores.
 - Something typed that tidies away to nothing (another alphabet, only
@@ -238,7 +273,7 @@ must therefore be listed, plurals included, where the rule allows them.
 
 ### Keeping the two matchers in step
 
-`scripts/matcher-cases.json` holds small test prompts and about a hundred typed
+`scripts/matcher-cases.json` holds small test prompts and about 120 typed
 inputs with the result each must give, covering every rule above.
 `node scripts/check-matcher.mjs` runs them against the reference matcher, and
 the game's tests run the same file against the game's matcher. If the rules
