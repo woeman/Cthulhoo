@@ -13,9 +13,9 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 1: what most people say (11)
 
 - Lionel Messi — Leo Messi | Lionel Andrés Messi | La Pulga | The Flea | Messi
-- Cristiano Ronaldo — CR7 | Cristiano | Cristiano Ronaldo dos Santos Aveiro | Ronaldo (Portugal) | Portuguese Ronaldo | C Ronaldo | Ronaldo
-- Ronaldo Nazário — Ronaldo (Brazil) | Brazilian Ronaldo | Ronaldo Luís Nazário de Lima | Ronaldo de Lima | R9 | O Fenômeno | Il Fenomeno | El Fenómeno | The Phenomenon | Original Ronaldo
-- Zinedine Zidane — Zizou | Zidane
+- Cristiano Ronaldo — CR7 | Cristiano | Cristiano Ronaldo dos Santos Aveiro | Ronaldo (Portugal) | Portuguese Ronaldo | C Ronaldo | Ronaldo | Portugal Ronaldo | Ronaldo CR7 | CR7 Ronaldo | Ronaldo 7 | Ronaldo the Portuguese
+- Ronaldo Nazário — Ronaldo (Brazil) | Brazilian Ronaldo | Ronaldo Luís Nazário de Lima | Ronaldo de Lima | R9 | O Fenômeno | Il Fenomeno | El Fenómeno | The Phenomenon | Original Ronaldo | Fat Ronaldo | Real Ronaldo | OG Ronaldo | Old Ronaldo | Ronaldo 9 | Ronaldo R9 | R9 Ronaldo | Ronaldo Luis Nazario | Ronaldo Nazario de Lima | Ronaldo the Brazilian | Ronaldo Fenomeno | First Ronaldo | Brazil Ronaldo
+- Zinedine Zidane — Zizou | Zidane | Zinedine Yazid Zidane | Zizu
 - Ronaldinho — Ronaldinho Gaúcho | Ronaldo de Assis Moreira | R10
 - Kaká — Ricardo Kaká | Ricardo Izecson dos Santos Leite
 - Luka Modrić — Modrić
@@ -80,7 +80,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Josef Masopust — Joseph Masopust | Masopust
 - Flórián Albert — Albert Flórián | Albert
 
-## Refused on purpose (48)
+## Refused on purpose (52)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -124,11 +124,15 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Diego Forlán | Forlán — "Best player at the 2010 World Cup, but never the Ballon d'Or winner."
 - Jack Charlton — "It was his brother who won it, in 1966. Jack never did."
 - Thomas Müller | Thomas Mueller — "He never won it, though a namesake did."
-- Wayne Rooney | Rooney | Mohamed Salah | Mo Salah | Salah | Gareth Bale | Zlatan Ibrahimović | Zlatan | Ibrahimović | Paul Scholes | Scholes | Ryan Giggs | Giggs | Kenny Dalglish | Dalglish | Didier Drogba | Drogba | Samuel Eto'o | Eto'o | Andrea Pirlo | Pirlo | Patrick Vieira | Iker Casillas | Casillas | Arjen Robben | Robben | Bukayo Saka | Saka | Phil Foden | Foden | Jimmy Greaves | Greaves | Gordon Banks | Paul Gascoigne | Gascoigne | Gazza | Garrincha | Raphinha | Luis Díaz | Edinson Cavani | Bale | Vieira | Banks — "He has never won it."
+- Wayne Rooney | Rooney | Mohamed Salah | Mo Salah | Salah | Gareth Bale | Zlatan Ibrahimović | Zlatan | Ibrahimović | Paul Scholes | Scholes | Ryan Giggs | Giggs | Kenny Dalglish | Dalglish | Didier Drogba | Drogba | Samuel Eto'o | Eto'o | Andrea Pirlo | Pirlo | Patrick Vieira | Iker Casillas | Casillas | Arjen Robben | Robben | Bukayo Saka | Saka | Phil Foden | Foden | Jimmy Greaves | Greaves | Gordon Banks | Paul Gascoigne | Gascoigne | Gazza | Garrincha | Raphinha | Luis Díaz | Edinson Cavani | Bale | Vieira | Banks | Tim Cahill | Cahill | Harry Kewell | Kewell | Mark Viduka | Viduka | Mark Schwarzer | Schwarzer | Mat Ryan | Aaron Mooy | Mile Jedinak | Johnny Warren | Sergio Agüero | Agüero | Kun Agüero | Ángel Di María | Di María | Paulo Dybala | Dybala | Eden Hazard | Hazard | Paul Pogba | Pogba | N'Golo Kanté | Son Heung-min | Son | Bruno Fernandes | Marcus Rashford | Rashford | Declan Rice | Cole Palmer | Jack Grealish | Grealish | Raheem Sterling | Sterling | Robin van Persie | Van Persie | Wesley Sneijder | Sneijder | Francesco Totti | Totti | Alessandro Del Piero | Del Piero | Gabriel Batistuta | Batistuta | Cafu | John Terry | Rio Ferdinand | Roy Keane | Robbie Keane | Gento | Geoff Hurst | Hurst | Glenn Hoddle | Ian Rush | John Barnes | Peter Schmeichel | Schmeichel | Michael Laudrup | Laudrup | Gheorghe Hagi | Hagi | Bebeto | Franco Baresi | Baresi | Frank Rijkaard | Rijkaard | Ronald Koeman | Jürgen Klinsmann | Klinsmann | Jari Litmanen | Litmanen | Alessandro Nesta | Carles Puyol | Puyol | Sergio Ramos | Ramos | Gerard Piqué | Sergio Busquets | Busquets | Cesc Fàbregas | Fàbregas | Fernando Torres | Torres | David Villa | Deco | Yaya Touré | Riyad Mahrez | Mahrez | Pierre-Emerick Aubameyang | Aubameyang | Romelu Lukaku | Lukaku | Toni Kroos | Kroos | Philipp Lahm | Lahm | Bastian Schweinsteiger | Schweinsteiger | Michael Ballack | Ballack | Miroslav Klose | Klose | Mesut Özil | Özil | Marco Reus | Reus | Ter Stegen | Marc-André ter Stegen | Ruud van Nistelrooy | Van Nistelrooy | Clarence Seedorf | Seedorf | Edgar Davids | Davids | Patrick Kluivert | Kluivert | Henrik Larsson | Larsson | Martin Ødegaard | Ødegaard | Rodrygo | Vitinha | Achraf Hakimi | Hakimi | Jamal Musiala | Musiala | Florian Wirtz | Wirtz | Julián Álvarez | Lautaro Martínez | Carlos Tevez | Tevez | Juan Román Riquelme | Riquelme | Javier Zanetti | Zanetti | Cavani | James Rodríguez | Radamel Falcao | Falcao | Alexis Sánchez | Thiago Silva | Dani Alves | Marcelo | Casemiro | Adriano | Robinho | Park Ji-sung | Kaoru Mitoma | Mitoma | Trent Alexander-Arnold | Edwin van der Sar | Van der Sar | Petr Čech — "He has never won it."
 - Marta | Marta Vieira da Silva — "Six FIFA world player awards, but never the Ballon d'Or."
 - Beth Mead | Mead — "Second in 2022, but never the winner."
 - Lucy Bronze | Bronze — "Second in 2019, but never the winner."
 - Ewa Pajor | Pajor — "Second in 2026, but never the winner."
 - Khadija Shaw | Bunny Shaw | Shaw — "Third in 2026, but never the winner."
-- Sam Kerr | Kerr | Alex Morgan | Mary Earps | Earps | Leah Williamson | Vivianne Miedema | Miedema | Pernille Harder | Jenni Hermoso | Caroline Graham Hansen | Alessia Russo | Chloe Kelly | Lauren James | Ellen White — "She has never won it."
+- Sam Kerr | Kerr | Alex Morgan | Mary Earps | Earps | Leah Williamson | Vivianne Miedema | Miedema | Pernille Harder | Jenni Hermoso | Caroline Graham Hansen | Alessia Russo | Chloe Kelly | Lauren James | Ellen White | Mary Fowler | Ellie Carpenter | Caitlin Foord | Steph Catley | Hayley Raso | Mackenzie Arnold | Katrina Gorry | Kyra Cooney-Cross | Lauren Hemp | Keira Walsh | Mapi León | Salma Paralluelo | Trinity Rodman | Sophia Smith | Wendie Renard | Christine Sinclair | Fran Kirby — "She has never won it."
 - Mia Hamm | Abby Wambach | Wambach | Birgit Prinz | Kelly Smith | Hamm | Prinz — "The women's award only began in 2018, after her day."
+- GOAT | Greatest of all time — "Opinions differ on who that is. Name the player."
+- Pep Guardiola | Guardiola | Alex Ferguson | Sir Alex Ferguson | Ferguson | José Mourinho | Mourinho | Jürgen Klopp | Carlo Ancelotti | Ancelotti | Arsène Wenger | Wenger | Ange Postecoglou | Postecoglou | Mikel Arteta | Arteta | Graham Arnold | Tony Popovic — "A manager. The Ballon d'Or goes to players."
+- Real Madrid | Barcelona | Barça | Manchester United | Man United | Manchester City | Man City | Liverpool | Arsenal | Chelsea | Tottenham | Spurs | Bayern Munich | Juventus | AC Milan | Inter Milan | PSG | Paris Saint-Germain | Argentina | Brazil | France | Portugal | England | Germany | Italy | Netherlands | Socceroos | Matildas | Australia — "A team. The Ballon d'Or goes to one player."
+- Golden Boot | Golden Ball | Golden Glove | World Cup | FIFA World Cup | Champions League | FIFA World Player of the Year | Kopa Trophy | Yashin Trophy | Puskás Award | Golden Shoe | European Golden Shoe | Golden Boy — "A different prize. Name a player who has won the Ballon d'Or."

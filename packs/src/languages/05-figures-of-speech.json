@@ -7,6 +7,12 @@
  "answers": [
   {
    "answer": "Metaphor",
+   "aliases": [
+    "Metafor",
+    "Metaphorical",
+    "Metaphoric",
+    "Implied metaphor"
+   ],
    "tier": 1,
    "lore": "Aristotle thought a gift for metaphor was the one thing a poet could never learn from anyone else."
   },
@@ -19,28 +25,49 @@
    "aliases": [
     "Plosive alliteration",
     "Plosives",
-    "Fricative alliteration"
+    "Fricative alliteration",
+    "Alliterate",
+    "Alliterative"
    ],
    "tier": 1
   },
   {
    "answer": "Personification",
+   "aliases": [
+    "Personify",
+    "Personifying",
+    "Personified"
+   ],
    "tier": 1
   },
   {
    "answer": "Hyperbole",
    "aliases": [
     "Exaggeration",
-    "Overstatement"
+    "Overstatement",
+    "Exaggerate",
+    "Exaggerated",
+    "Overexaggeration"
    ],
    "tier": 1
   },
   {
    "answer": "Onomatopoeia",
+   "aliases": [
+    "Onamatapia",
+    "Onomonopia",
+    "Onamonapia",
+    "Onomatapia",
+    "Onamatopia",
+    "Onomatopoia"
+   ],
    "tier": 1
   },
   {
    "answer": "Oxymoron",
+   "aliases": [
+    "Contradiction in terms"
+   ],
    "tier": 1,
    "lore": "The word is one itself: Greek for 'sharp-dull'."
   },
@@ -52,7 +79,8 @@
     "Dramatic irony",
     "Situational irony",
     "Socratic irony",
-    "Cosmic irony"
+    "Cosmic irony",
+    "Irony of fate"
    ],
    "tier": 1
   },
@@ -61,14 +89,17 @@
    "aliases": [
     "Paronomasia",
     "Play on words",
-    "Wordplay"
+    "Wordplay",
+    "Punn",
+    "Punning"
    ],
    "tier": 1
   },
   {
    "answer": "Idiom",
    "aliases": [
-    "Idiomatic expression"
+    "Idiomatic expression",
+    "Idiomatic"
    ],
    "tier": 1
   },
@@ -85,7 +116,10 @@
    "answer": "Rhetorical question",
    "aliases": [
     "Erotema",
-    "Erotesis"
+    "Erotesis",
+    "Rhetorical",
+    "Rhetorical Q",
+    "Rhetorical questioning"
    ],
    "tier": 2
   },
@@ -95,6 +129,9 @@
   },
   {
    "answer": "Understatement",
+   "aliases": [
+    "Understating"
+   ],
    "tier": 2
   },
   {
@@ -106,10 +143,16 @@
   },
   {
    "answer": "Synecdoche",
+   "aliases": [
+    "Synecdoky"
+   ],
    "tier": 2
   },
   {
    "answer": "Paradox",
+   "aliases": [
+    "Paradoxical"
+   ],
    "tier": 2
   },
   {
@@ -125,17 +168,35 @@
   },
   {
    "answer": "Allusion",
+   "aliases": [
+    "Biblical allusion",
+    "Classical allusion",
+    "Literary allusion",
+    "Historical allusion",
+    "Mythological allusion",
+    "Cultural allusion",
+    "Intertextuality",
+    "Intertextual reference"
+   ],
    "tier": 2
   },
   {
    "answer": "Repetition",
    "aliases": [
-    "Repeating"
+    "Repeating",
+    "Repeat",
+    "Repeated words",
+    "Repeating words",
+    "Word repetition"
    ],
    "tier": 2
   },
   {
    "answer": "Cliché",
+   "aliases": [
+    "Platitude",
+    "Truism"
+   ],
    "tier": 2
   },
   {
@@ -157,12 +218,23 @@
     "Eye rhyme",
     "Pararhyme",
     "Full rhyme",
-    "End rhyme"
+    "End rhyme",
+    "Rime"
    ],
    "tier": 2
   },
   {
    "answer": "Imagery",
+   "aliases": [
+    "Visual imagery",
+    "Sensory imagery",
+    "Auditory imagery",
+    "Tactile imagery",
+    "Olfactory imagery",
+    "Gustatory imagery",
+    "Kinaesthetic imagery",
+    "Kinesthetic imagery"
+   ],
    "tier": 2
   },
   {
@@ -174,10 +246,17 @@
   },
   {
    "answer": "Juxtaposition",
+   "aliases": [
+    "Juxtapose",
+    "Juxtaposing"
+   ],
    "tier": 2
   },
   {
    "answer": "Allegory",
+   "aliases": [
+    "Allegorical"
+   ],
    "tier": 2
   },
   {
@@ -195,7 +274,11 @@
     "Power of three",
     "List of three",
     "Triplets",
-    "Group of three"
+    "Group of three",
+    "Triple",
+    "Tripling",
+    "Three part list",
+    "Rule of threes"
    ],
    "tier": 2
   },
@@ -211,7 +294,8 @@
   {
    "answer": "Malapropism",
    "aliases": [
-    "Dogberryism"
+    "Dogberryism",
+    "Malaprop"
    ],
    "tier": 2,
    "lore": "Named after Mrs Malaprop in Sheridan's 1775 play The Rivals, who praises 'the very pineapple of politeness'."
@@ -257,6 +341,9 @@
   },
   {
    "answer": "Tautology",
+   "aliases": [
+    "Redundancy"
+   ],
    "tier": 3
   },
   {
@@ -267,7 +354,10 @@
    "answer": "Parallelism",
    "aliases": [
     "Parallel structure",
-    "Parallel construction"
+    "Parallel construction",
+    "Parallel syntax",
+    "Syntactic parallelism",
+    "Parallel phrasing"
    ],
    "tier": 3
   },
@@ -278,7 +368,8 @@
   {
    "answer": "Extended metaphor",
    "aliases": [
-    "Sustained metaphor"
+    "Sustained metaphor",
+    "Controlling metaphor"
    ],
    "tier": 3
   },
@@ -484,7 +575,11 @@
   {
    "answer": "Anastrophe",
    "aliases": [
-    "Inversion"
+    "Inversion",
+    "Syntactic inversion",
+    "Inverted syntax",
+    "Inverted word order",
+    "Yoda speak"
    ],
    "tier": 4
   },
@@ -594,6 +689,11 @@
   },
   {
    "answer": "Ecphonesis",
+   "aliases": [
+    "Exclamation",
+    "Rhetorical exclamation",
+    "Exclamatio"
+   ],
    "tier": 5
   },
   {
@@ -654,7 +754,9 @@
   {
    "answer": "Ekphrasis",
    "aliases": [
-    "Ecphrasis"
+    "Ecphrasis",
+    "Ekphasis",
+    "Ecphasis"
    ],
    "tier": 5
   },
@@ -680,13 +782,23 @@
   {
    "answer": "Accumulatio",
    "aliases": [
-    "Accumulation"
+    "Accumulation",
+    "Listing",
+    "Cumulative listing",
+    "Cumulative list",
+    "Enumeration",
+    "List"
    ],
    "tier": 5
   },
   {
    "answer": "Antanagoge",
    "tier": 5
+  },
+  {
+   "answer": "Chremamorphism",
+   "tier": 5,
+   "lore": "Personification run backwards: a person given the qualities of a thing."
   },
   {
    "answer": "Adynaton",
@@ -724,7 +836,22 @@
     "Time flies",
     "Hit the nail on the head",
     "Cold feet",
-    "Butterflies in my stomach"
+    "Butterflies in my stomach",
+    "As brave as a lion",
+    "Brave as a lion",
+    "Life is a journey",
+    "Time is money",
+    "All the world's a stage",
+    "Buzz",
+    "Bang",
+    "Boom",
+    "Peter Piper",
+    "She sells sea shells",
+    "Jumbo shrimp",
+    "Deafening silence",
+    "Bittersweet",
+    "Passed away",
+    "I could eat a horse"
    ],
    "reason": "An example of one. Name the figure itself."
   },
@@ -737,7 +864,10 @@
     "Trope",
     "Rhetoric",
     "Scheme",
-    "Language technique"
+    "Language technique",
+    "Turn of phrase",
+    "Expression",
+    "Phrase"
    ],
    "reason": "Which one? Name a particular device."
   },
@@ -747,6 +877,9 @@
   },
   {
    "answer": "Contrast",
+   "aliases": [
+    "Contradiction"
+   ],
    "reason": "Which one? Several figures work by contrast."
   },
   {
@@ -786,7 +919,27 @@
     "Setting",
     "Dialogue",
     "Monologue",
-    "Soliloquy"
+    "Soliloquy",
+    "Foil",
+    "Character foil",
+    "Hamartia",
+    "Catharsis",
+    "Hubris",
+    "In medias res",
+    "Unreliable narrator",
+    "Dramatic monologue",
+    "Aside",
+    "Anagnorisis",
+    "Peripeteia",
+    "Denouement",
+    "Exposition",
+    "Conflict",
+    "Protagonist",
+    "Antagonist",
+    "Narrator",
+    "Narration",
+    "Frame narrative",
+    "Backstory"
    ],
    "reason": "A storytelling device, not a figure of speech."
   },
@@ -807,7 +960,18 @@
     "Poem",
     "Riddle",
     "Joke",
-    "Tongue twister"
+    "Tongue twister",
+    "Dad joke",
+    "Nursery rhyme",
+    "Ode",
+    "Elegy",
+    "Ballad",
+    "Novel",
+    "Essay",
+    "Speech",
+    "Myth",
+    "Legend",
+    "Fairy tale"
    ],
    "reason": "A kind of work, not a figure of speech."
   },
@@ -822,7 +986,15 @@
     "Stanza",
     "Couplet",
     "Verse",
-    "Refrain"
+    "Refrain",
+    "Rhyme scheme",
+    "Rhyming couplet",
+    "Rhythm",
+    "Free verse",
+    "Blank verse",
+    "Quatrain",
+    "Syllable",
+    "Line break"
    ],
    "reason": "A matter of metre and form, not a figure of speech."
   },
@@ -842,7 +1014,24 @@
     "Imperative",
     "Superlative",
     "Passive voice",
-    "Split infinitive"
+    "Split infinitive",
+    "Truncated sentence",
+    "Short sentence",
+    "Simple sentence",
+    "Complex sentence",
+    "Compound sentence",
+    "Minor sentence",
+    "Sentence fragment",
+    "First person",
+    "Second person",
+    "Third person",
+    "Personal pronoun",
+    "Modal verb",
+    "Tense",
+    "Past tense",
+    "Present tense",
+    "Exclamatory sentence",
+    "Declarative sentence"
    ],
    "reason": "A part of grammar, not a figure of speech."
   },
@@ -861,7 +1050,8 @@
     "Contraction",
     "Abbreviation",
     "Jargon",
-    "Slang"
+    "Slang",
+    "Colloquialism"
    ],
    "reason": "A kind of word, not a figure of speech."
   },
@@ -885,7 +1075,19 @@
     "Anecdote",
     "Facts",
     "Opinion",
-    "Imperatives"
+    "Imperatives",
+    "Inclusive language",
+    "High modality",
+    "Modality",
+    "Low modality",
+    "Colloquial language",
+    "Formal language",
+    "Informal language",
+    "Expert opinion",
+    "Appeal to emotion",
+    "Call to action",
+    "Persuasive language",
+    "Loaded language"
    ],
    "reason": "A persuasive technique, but not a figure of speech."
   },
@@ -908,6 +1110,10 @@
     "False dichotomy"
    ],
    "reason": "A fallacy in argument, not a figure of speech."
+  },
+  {
+   "answer": "Emphasis",
+   "reason": "What many figures are for, not a figure itself. Name one that does the emphasising."
   }
  ],
  "section": "Languages",

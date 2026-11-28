@@ -77,8 +77,8 @@ Each day's dive has seven questions, the same for every player on that local dat
 1. [Name a comet.](questions/comets.md) (`comets`, 175 answers so far)
 2. [Name a country where traffic drives on the left.](questions/drive-on-left.md) (`drive-on-left`, 56 answers so far)
 3. [Name a character from a Shakespeare play.](questions/shakespeare-characters.md) (`shakespeare-characters`, 752 answers so far)
-4. [Name a figure of speech.](questions/figures-of-speech.md) (`figures-of-speech`, 131 answers so far)
-5. [Name a coffee drink.](questions/coffee-drinks.md) (`coffee-drinks`, 172 answers so far)
+4. [Name a figure of speech.](questions/figures-of-speech.md) (`figures-of-speech`, 132 answers so far)
+5. [Name a coffee drink.](questions/coffee-drinks.md) (`coffee-drinks`, 184 answers so far)
 6. [Name a winner of the Ballon d'Or.](questions/ballon-dor-winners.md) (`ballon-dor-winners`, 52 answers so far)
 7. [Name a war.](questions/wars.md) (`wars`, 416 answers so far)
 

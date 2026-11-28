@@ -12,39 +12,39 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (3)
 
-- Halley's Comet — Halley | Comet Halley | 1P/Halley | Comet of 1066 | Bayeux comet | Haley's Comet | Hailey's Comet | Hayley's Comet | Haley | Hailey | Comet Haley | Comet Hailey | Halley comet | 1P | Comet 1P | Hale's Comet | Hale comet
-- Hale–Bopp — Comet Hale–Bopp | C/1995 O1 | Great Comet of 1997 | Bopp | Hale–Bopp comet | Comet Bopp
-- Shoemaker–Levy 9 — Comet Shoemaker–Levy 9 | Shoemaker–Levy | SL9 | D/1993 F2 | Shoemaker | Shoemaker–Levy 9 comet | Comet Shoemaker
+- Halley's Comet — Halley | Comet Halley | 1P/Halley | Comet of 1066 | Bayeux comet | Haley's Comet | Hailey's Comet | Hayley's Comet | Haley | Hailey | Comet Haley | Comet Hailey | Halley comet | 1P | Comet 1P | Hale's Comet | Hale comet | Hallies comet | Halle's Comet | Hally's | Bayeux Tapestry comet | Great Comet of 1066 | Comet of 1986 | Hayley's | Hallies | Halle | Hally | Haly | Halee | Halie | Halee's Comet | Halye | Haile | Halei
+- Hale–Bopp — Comet Hale–Bopp | C/1995 O1 | Great Comet of 1997 | Bopp | Hale–Bopp comet | Comet Bopp | Hail Bop | Hail Bopp | Hale Bob | Hale and Bopp | Hale Bopp 1997 | Hale
+- Shoemaker–Levy 9 — Comet Shoemaker–Levy 9 | Shoemaker–Levy | SL9 | D/1993 F2 | Shoemaker | Shoemaker–Levy 9 comet | Comet Shoemaker | Schumacher Levy | Schumacher Levy 9 | Shoemaker Levi 9 | Shoemaker and Levy
 
 ### Tier 2: common (10)
 
 - Comet Hyakutake — C/1996 B2 | Great Comet of 1996 | Hyakutake | Hyakutake comet
 - Comet NEOWISE — C/2020 F3 | Great Comet of 2020 | NEOWISE | NEOWISE comet
 - Comet Kohoutek — C/1973 E1 | Kohoutek | Kohoutek comet
-- 67P/Churyumov–Gerasimenko — 67P | Comet 67P | Churyumov–Gerasimenko | Comet Churyumov–Gerasimenko | Churyumov | Chury | Rosetta's comet | Rubber duck comet | Comet 67P/Churyumov–Gerasimenko | 67P/Churyumov–Gerasimenko comet | Rubber duck
+- 67P/Churyumov–Gerasimenko — 67P | Comet 67P | Churyumov–Gerasimenko | Comet Churyumov–Gerasimenko | Churyumov | Chury | Rosetta's comet | Rubber duck comet | Comet 67P/Churyumov–Gerasimenko | 67P/Churyumov–Gerasimenko comet | Rubber duck | Rosetta comet | Comet Rosetta | Philae's comet
 - Comet ISON — C/2012 S1 | ISON | ISON comet
 - Comet Swift–Tuttle — 109P/Swift–Tuttle | Swift | Comet Swift | Swift–Tuttle | Swift–Tuttle comet | 109P | Comet 109P
 - Comet Encke — Encke's Comet | 2P/Encke | Encke | Encke comet | 2P | Comet 2P
-- 'Oumuamua — 1I/'Oumuamua | 1I/2017 U1 | 1I | A/2017 U1 | C/2017 U1 | Comet 'Oumuamua | 'Oumuamua comet | Comet 1I
-- Comet Tsuchinshan–ATLAS — C/2023 A3 | Tsuchinshan | Comet Tsuchinshan | Zijinshan–ATLAS | Great Comet of 2024 | Tsuchinshan–ATLAS | Tsuchinshan–ATLAS comet
-- 3I/ATLAS — C/2025 N1 | C/2025 N1 (ATLAS) | 3I | Comet 3I/ATLAS | 3I/ATLAS comet
+- 'Oumuamua — 1I/'Oumuamua | 1I/2017 U1 | 1I | A/2017 U1 | C/2017 U1 | Comet 'Oumuamua | 'Oumuamua comet | Comet 1I | Oumoumoua | Omuamoa | Oumuamoa | Umuamua
+- Comet Tsuchinshan–ATLAS — C/2023 A3 | Tsuchinshan | Comet Tsuchinshan | Zijinshan–ATLAS | Great Comet of 2024 | Tsuchinshan–ATLAS | Tsuchinshan–ATLAS comet | Comet A3 | A3
+- 3I/ATLAS — C/2025 N1 | C/2025 N1 (ATLAS) | 3I | Comet 3I/ATLAS | 3I/ATLAS comet | Three I Atlas | Third interstellar object
 
 ### Tier 3: known to fans (14)
 
 - Comet McNaught — Great Comet of 2007 | C/2006 P1 | McNaught | McNaught comet
-- Comet Lovejoy — Great Comet of 2011 | C/2011 W3 | C/2014 Q2 | Lovejoy | Lovejoy comet
-- Tempel 1 — 9P/Tempel | Tempel | Comet Tempel | Temple 1 | Comet Temple | Comet Tempel 1 | Tempel 1 comet | 9P | Comet 9P
+- Comet Lovejoy — Great Comet of 2011 | C/2011 W3 | C/2014 Q2 | Lovejoy | Lovejoy comet | Christmas comet | Great Christmas Comet | Great Christmas Comet of 2011
+- Tempel 1 — 9P/Tempel | Tempel | Comet Tempel | Temple 1 | Comet Temple | Comet Tempel 1 | Tempel 1 comet | 9P | Comet 9P | Deep Impact comet
 - Comet West — C/1975 V1 | Great Comet of 1976 | West | West comet
 - Comet Ikeya–Seki — C/1965 S1 | Great Comet of 1965 | Ikeya–Seki | Ikeya–Seki comet
 - Comet Tempel–Tuttle — 55P/Tempel–Tuttle | Tempel–Tuttle | Tempel–Tuttle comet | 55P | Comet 55P
 - Comet Biela — Biela's Comet | 3D/Biela | Biela | Biela comet | 3D | Comet 3D
 - Donati's Comet — Comet Donati | Donati | C/1858 L1 | Great Comet of 1858
 - Comet Holmes — 17P/Holmes | Holmes | Holmes comet | 17P | Comet 17P
-- Comet Pons–Brooks — 12P/Pons–Brooks | Devil Comet | Devil's Comet | Horned comet | Pons–Brooks | Pons–Brooks comet | 12P | Comet 12P | Comet Pons
+- Comet Pons–Brooks — 12P/Pons–Brooks | Devil Comet | Devil's Comet | Horned comet | Pons–Brooks | Pons–Brooks comet | 12P | Comet 12P | Comet Pons | Mother of Dragons comet | Mother of Dragons
 - 2I/Borisov — Borisov | Comet Borisov | C/2019 Q4 | 2I | Comet 2I/Borisov | 2I/Borisov comet
 - Comet PanSTARRS — C/2011 L4 | PanSTARRS | PanSTARRS comet
 - Comet ATLAS — C/2019 Y4 | ATLAS | ATLAS comet
-- Comet ZTF — C/2022 E3 | Green comet | ZTF | ZTF comet
+- Comet ZTF — C/2022 E3 | Green comet | ZTF | ZTF comet | Comet E3 | E3
 
 ### Tier 4: obscure (30)
 
@@ -55,8 +55,8 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet Wirtanen — 46P/Wirtanen | Wirtanen | Wirtanen comet | 46P | Comet 46P
 - Schwassmann–Wachmann 1 — 29P/Schwassmann–Wachmann | Comet Schwassmann–Wachmann 1 | Schwassmann–Wachmann 1 comet | 29P | Comet 29P | Schwassmann–Wachmann | Comet Schwassmann–Wachmann
 - Schwassmann–Wachmann 3 — 73P/Schwassmann–Wachmann | Comet Schwassmann–Wachmann 3 | Schwassmann–Wachmann 3 comet | 73P | Comet 73P
-- Comet Bennett — C/1969 Y1 | Bennett | Bennett comet
-- Comet Arend–Roland — C/1956 R1 | Arend–Roland | Arend–Roland comet
+- Comet Bennett — C/1969 Y1 | Bennett | Bennett comet | Great Comet of 1970
+- Comet Arend–Roland — C/1956 R1 | Arend–Roland | Arend–Roland comet | Great Comet of 1957
 - Comet IRAS–Araki–Alcock — C/1983 H1 | IRAS–Araki–Alcock | IRAS–Araki–Alcock comet
 - Comet Elenin — C/2010 X1 | Elenin | Elenin comet
 - Comet Siding Spring — C/2013 A1 | Siding Spring | Siding Spring comet
@@ -65,15 +65,15 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet Lemmon — C/2025 A6 | C/2012 F6 | Lemmon | Lemmon comet
 - Comet SWAN — C/2025 R2 | C/2020 F8 | C/2006 M4 | SWAN | SWAN comet | C/2025 F2
 - Comet MAPS — C/2026 A1 | MAPS | MAPS comet
-- C/2024 G3 (ATLAS) — C/2024 G3 | Comet C/2024 G3 (ATLAS) | C/2024 G3 (ATLAS) comet
-- Comet Bernardinelli–Bernstein — C/2014 UN271 | Comet BB | Bernardinelli–Bernstein | Bernardinelli–Bernstein comet
+- C/2024 G3 (ATLAS) — C/2024 G3 | Comet C/2024 G3 (ATLAS) | C/2024 G3 (ATLAS) comet | Great Comet of 2025
+- Comet Bernardinelli–Bernstein — C/2014 UN271 | Comet BB | Bernardinelli–Bernstein | Bernardinelli–Bernstein comet | Mega comet
 - Great Comet of 1577 — C/1577 V1 | Tycho's Comet | Great Comet 1577 | 1577 Great Comet | Comet of 1577 | 1577 comet
-- Great Comet of 1680 — Kirch's Comet | Newton's Comet | C/1680 V1 | Great Comet 1680 | 1680 Great Comet | Comet of 1680 | 1680 comet | Comet Kirch
-- Great Comet of 1811 — Napoleon's Comet | Comet Flaugergues | C/1811 F1 | Great Comet 1811 | 1811 Great Comet | Comet of 1811 | 1811 comet | Flaugergues | Flaugergues' Comet
-- Great Comet of 1843 — Great March Comet | C/1843 D1 | Great Comet 1843 | 1843 Great Comet | Comet of 1843 | 1843 comet
-- Great Comet of 1861 — Tebbutt's Comet | Comet Tebbutt | C/1861 J1 | Great Comet 1861 | 1861 Great Comet | Comet of 1861 | 1861 comet
-- Great Comet of 1882 — Great September Comet | C/1882 R1 | Great Comet 1882 | 1882 Great Comet | Comet of 1882 | 1882 comet
-- Great January Comet of 1910 — Daylight Comet | Great Comet of 1910 | C/1910 A1 | Great Comet 1910 | 1910 Great Comet | Comet of 1910 | 1910 comet | Great January Comet | Great Daylight Comet
+- Great Comet of 1680 — Kirch's Comet | Newton's Comet | C/1680 V1 | Great Comet 1680 | 1680 Great Comet | Comet of 1680 | 1680 comet | Comet Kirch | Kirch | Kirch's
+- Great Comet of 1811 — Napoleon's Comet | Comet Flaugergues | C/1811 F1 | Great Comet 1811 | 1811 Great Comet | Comet of 1811 | 1811 comet | Flaugergues | Flaugergues' Comet | Great Comet of 1812
+- Great Comet of 1843 — Great March Comet | C/1843 D1 | Great Comet 1843 | 1843 Great Comet | Comet of 1843 | 1843 comet | Great March
+- Great Comet of 1861 — Tebbutt's Comet | Comet Tebbutt | C/1861 J1 | Great Comet 1861 | 1861 Great Comet | Comet of 1861 | 1861 comet | Tebbutt | Tebbutt's
+- Great Comet of 1882 — Great September Comet | C/1882 R1 | Great Comet 1882 | 1882 Great Comet | Comet of 1882 | 1882 comet | Great September
+- Great January Comet of 1910 — Daylight Comet | Great Comet of 1910 | C/1910 A1 | Great Comet 1910 | 1910 Great Comet | Comet of 1910 | 1910 comet | Great January Comet | Great Daylight Comet | Great January
 - Comet Grigg–Skjellerup — 26P/Grigg–Skjellerup | Grigg–Skjellerup | Grigg–Skjellerup comet | 26P | Comet 26P
 - Chiron — 95P/Chiron | 2060 Chiron | Comet Chiron | Chiron comet | 95P | Comet 95P
 - C/2024 S1 (ATLAS) — C/2024 S1 | Comet C/2024 S1 | Comet C/2024 S1 (ATLAS) | C/2024 S1 (ATLAS) comet
@@ -82,7 +82,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 5: expert (115)
 
 - Comet Mrkos — C/1957 P1 | Mrkos | Mrkos comet
-- Comet Seki–Lines — C/1962 C1 | Seki–Lines | Seki–Lines comet
+- Comet Seki–Lines — C/1962 C1 | Seki–Lines | Seki–Lines comet | Great Comet of 1962
 - Comet Humason — C/1961 R1 | Humason | Humason comet
 - Comet Pereyra — C/1963 R1 | Pereyra | Pereyra comet
 - Comet Tago–Sato–Kosaka — C/1969 T1 | Tago–Sato–Kosaka | Tago–Sato–Kosaka comet
@@ -110,7 +110,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Comet Machholz — C/2004 Q2 | 96P/Machholz | Machholz | Machholz comet | 96P | Comet 96P
 - Comet Wierzchoś — C/2024 E1 | Wierzchoś | Wierzchoś comet
 - Comet Ikeya–Zhang — 153P/Ikeya–Zhang | Ikeya–Zhang | Ikeya–Zhang comet | 153P | Comet 153P
-- Comet SOHO — 322P/SOHO | SOHO comet | 322P | Comet 322P
+- Comet SOHO — 322P/SOHO | SOHO comet | 322P | Comet 322P | SOHO
 - Comet Sarabat — Great Comet of 1729 | C/1729 P1 | Sarabat | Sarabat comet
 - Comet Tewfik — Eclipse Comet of 1882 | X/1882 K1 | Tewfik | Tewfik comet
 - Eclipse Comet of 1948 — C/1948 V1 | Great Comet of 1948 | Great Comet 1948 | 1948 Great Comet | Comet of 1948 | 1948 comet | Eclipse Comet
@@ -121,7 +121,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Great Comet of 1664 — C/1664 W1 | Great Comet 1664 | 1664 Great Comet | Comet of 1664 | 1664 comet
 - Great Comet of 1769 — Messier's Comet | C/1769 P1 | Great Comet 1769 | 1769 Great Comet | Comet of 1769 | 1769 comet
 - Great Comet of 1807 — C/1807 R1 | Great Comet 1807 | 1807 Great Comet | Comet of 1807 | 1807 comet
-- Great Comet of 1819 — Tralles' Comet | C/1819 N1 | Great Comet 1819 | 1819 Great Comet | Comet of 1819 | 1819 comet | Comet Tralles
+- Great Comet of 1819 — Tralles' Comet | C/1819 N1 | Great Comet 1819 | 1819 Great Comet | Comet of 1819 | 1819 comet | Comet Tralles | Tralles
 - Great Comet of 1823 — C/1823 Y1 | Great Comet 1823 | 1823 Great Comet | Comet of 1823 | 1823 comet
 - Great Comet of 1844 — C/1844 Y1 | Great Comet 1844 | 1844 Great Comet | Comet of 1844 | 1844 comet
 - Great Comet of 1854 — C/1854 F1 | Great Comet 1854 | 1854 Great Comet | Comet of 1854 | 1854 comet
@@ -200,10 +200,10 @@ Each answer is followed by the other spellings the game takes for it, separated 
 ### Tier 6: rare jackpots (3)
 
 - Lexell's Comet — Comet Lexell | Lexell | D/1770 L1
-- Caesar's Comet — Sidus Iulium | Comet of 44 BC | Great Comet of 44 BC | Julian Star | Comet Caesar | Julius Caesar's comet | Comet of Caesar
-- Great Comet of 1744 — Comet de Chéseaux | Klinkenberg's Comet | C/1743 X1 | Great Comet 1744 | 1744 Great Comet | Comet of 1744 | 1744 comet | de Chéseaux's Comet | Klinkenberg
+- Caesar's Comet — Sidus Iulium | Comet of 44 BC | Great Comet of 44 BC | Julian Star | Comet Caesar | Julius Caesar's comet | Comet of Caesar | Caesar's
+- Great Comet of 1744 — Comet de Chéseaux | Klinkenberg's Comet | C/1743 X1 | Great Comet 1744 | 1744 Great Comet | Comet of 1744 | 1744 comet | de Chéseaux's Comet | Klinkenberg | Chéseaux | Chéseaux's Comet
 
-## Refused on purpose (21)
+## Refused on purpose (26)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -213,7 +213,7 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Interstellar object | Interstellar comet — "Three are known so far. Name one."
 - Periodic comet | Long-period comet | Short-period comet | Jupiter-family comet | Halley-type comet | Main-belt comet | Dark comet | Dirty snowball — "A kind of comet, not a named one. Name one."
 - Coma | Comet tail | Ion tail | Dust tail | Anti-tail — "Part of a comet, not a comet."
-- Asteroid | Ceres | Vesta | Pallas | Eros | Apophis | Bennu | Ryugu | Itokawa | Dimorphos | Didymos | Psyche | Kamo'oalewa | Toutatis | Gaspra | Ida | Mathilde | Lutetia | Steins | Dinkinesh | Pholus | Chariklo | Asteroids — "A rocky asteroid, not a comet."
+- Asteroid | Ceres | Vesta | Pallas | Eros | Apophis | Bennu | Ryugu | Itokawa | Dimorphos | Didymos | Psyche | Kamo'oalewa | Toutatis | Gaspra | Ida | Mathilde | Lutetia | Steins | Dinkinesh | Pholus | Chariklo | Asteroids | Asteroid belt — "A rocky asteroid, not a comet."
 - Phaethon | 3200 Phaethon — "Parent of the Geminid meteors, but classed as an asteroid, not a comet."
 - Pluto | Eris | Sedna | Makemake | Haumea | Arrokoth | Ultima Thule | Quaoar | Gonggong | Orcus — "A dwarf planet or another icy world beyond Neptune, not a comet."
 - Perseids | Perseid meteor shower | Leonids | Geminids | Quadrantids | Lyrids | Orionids | Eta Aquariids | Draconids | Taurids | Ursids | Andromedids | Meteor shower | Meteor storm — "A meteor shower: dust left along a comet's or an asteroid's path, not a comet."
@@ -221,10 +221,15 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Oort cloud | Kuiper belt | Scattered disc — "Where many comets come from, not a comet itself."
 - Rosetta | Philae | Giotto | Stardust | Deep Impact | EPOXI | Vega 1 | Vega 2 | Suisei | Sakigake | Comet Interceptor | International Cometary Explorer — "A spacecraft sent to a comet, not a comet itself."
 - Star of Bethlehem — "Nobody knows what it was: a comet, a meeting of planets or a story. It has no comet's name."
-- Chicxulub | Chicxulub impactor — "A crater in Mexico, left by the impact that ended the dinosaurs."
+- Chicxulub | Chicxulub impactor | Dinosaur killer | Dinosaur comet | Dinosaur asteroid | The one that killed the dinosaurs — "A crater in Mexico, left by the impact that ended the dinosaurs."
 - Tunguska | Tunguska event — "An explosion over Siberia in 1908. Nobody knows for sure whether a comet or an asteroid caused it."
 - Nibiru | Planet X | Nemesis — "Imagined worlds that were never found, and no comets."
-- Comet Dibiasky | Dibiasky — "Fiction: the comet in the film Don't Look Up."
+- Comet Dibiasky | Dibiasky | Comet in Don't Look Up | Don't Look Up comet — "Fiction: the comet in the film Don't Look Up."
 - Wolf–Biederman | Comet Wolf–Biederman — "Fiction: the comet in the film Deep Impact."
 - Comet in Moominland | Moomin comet — "Fiction: a Moomin story by Tove Jansson."
 - Comet Tiamat | Tiamat — "Fiction: the comet in the anime film Your Name."
+- Vomit Comet — "A plane that flies steep arcs to make its passengers weightless, and often sick. Not a comet."
+- De Havilland Comet | Comet airliner | DH Comet — "The first jet airliner, not a comet."
+- Sozin's Comet | Sozin — "Fiction: the comet in Avatar: The Last Airbender."
+- Edmond Halley | Edmund Halley | Sir Edmond Halley — "The astronomer who worked out that it returns, not the comet. It carries his name."
+- Planet | Sun | Supernova | Black hole | Milky Way | Andromeda | Galaxy | Nebula | Jupiter | Saturn | Venus | Mercury | Uranus | Neptune | Earth | North Star | Polaris | Sirius | Southern Cross | Northern Lights | Aurora | UFO | Satellite | Sputnik — "Something else in the sky, not a comet."

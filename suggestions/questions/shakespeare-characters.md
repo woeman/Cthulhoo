@@ -20,49 +20,49 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Othello — The Moor of Venice | The Moor
 - Iago — Honest Iago
 - King Lear — Lear
-- Ophelia
-- Puck — Robin Goodfellow | Goodfellow | Robin
+- Ophelia — Ofelia | Hamlet's girlfriend | Hamlet's lover
+- Puck — Robin Goodfellow | Goodfellow | Robin | Puk
 - Prospero
 - Falstaff — Sir John Falstaff | John Falstaff | Jack Falstaff | Sir John | Fat Jack | Sir John Oldcastle | Oldcastle | John
 - Shylock
 - Julius Caesar — Caesar | Julius | Caesar's Ghost | Ghost of Caesar
-- Cleopatra — Queen of Egypt
+- Cleopatra — Queen of Egypt | Cleo
 
 ### Tier 2: common (55)
 
-- Desdemona
+- Desdemona — Othello's wife
 - Mercutio
-- Tybalt — Prince of Cats | King of Cats
+- Tybalt — Prince of Cats | King of Cats | Tibault | Tybault | Juliet's cousin
 - Bottom — Nick Bottom | Bottom the Weaver
-- Oberon — King of the Fairies
-- Titania — Queen of the Fairies | Fairy Queen
-- Caliban
-- Ariel
-- Miranda
+- Oberon — King of the Fairies | Titania's husband
+- Titania — Queen of the Fairies | Fairy Queen | Tatiana | Titiana | Oberon's wife
+- Caliban — Prospero's slave
+- Ariel — Aerial
+- Miranda — Prospero's daughter
 - Brutus — Marcus Brutus | Marcus Junius Brutus | Junius Brutus
 - Mark Antony — Antony | Marc Antony | Marcus Antonius | Anthony | Mark Anthony | Antonius
-- Portia
+- Portia — Porsha | Porcia | Brutus's wife
 - Viola — Cesario
 - Malvolio
-- Polonius
-- Horatio
-- Laertes
-- Gertrude — Queen Gertrude | Hamlet's Mother
-- Claudius — King Claudius
-- Banquo — Banquo's Ghost | Ghost of Banquo
+- Polonius — Ophelia's father
+- Horatio — Hamlet's friend | Hamlet's best friend
+- Laertes — Ophelia's brother
+- Gertrude — Queen Gertrude | Hamlet's Mother | Queen of Denmark
+- Claudius — King Claudius | Hamlet's uncle | Hamlet's stepfather | King of Denmark
+- Banquo — Banquo's Ghost | Ghost of Banquo | Banko | Banqo | Macbeth's friend
 - Macduff — Thane of Fife
-- Cordelia
+- Cordelia — Lear's youngest daughter
 - Goneril
 - Regan
 - Beatrice
 - Benedick — Benedict | Signior Benedick
-- Rosalind — Ganymede
+- Rosalind — Ganymede | Rosalinde
 - Petruchio
 - Katherina — Kate | Katherine | Katharina | Katharine | Katherine Minola | Katherina Minola | The Shrew | Catherine | Princess Katherine | Katherine of France
-- The Three Witches — Witches | Witch | Weird Sisters | Wyrd Sisters | Weyward Sisters | First Witch | Second Witch | Third Witch
-- Yorick — Poor Yorick | Yorick's Skull | Yorik
+- The Three Witches — Witches | Witch | Weird Sisters | Wyrd Sisters | Weyward Sisters | First Witch | Second Witch | Third Witch | Three Weird Sisters
+- Yorick — Poor Yorick | Yorick's Skull | Yorik | Hamlet's skull | The skull
 - The Nurse — Juliet's Nurse | Angelica
-- Friar Laurence — Friar Lawrence | Brother Laurence | Laurence
+- Friar Laurence — Friar Lawrence | Brother Laurence | Laurence | The Friar
 - Henry V — King Henry V | Prince Hal | Hal | Harry | King Harry | Henry of Monmouth | Harry Monmouth | Prince Henry | Harry of England | Henry | King Henry
 - Richard III — King Richard III | Richard of Gloucester | Duke of Gloucester | Crookback | Crouchback | Richard | King Richard
 - Rosencrantz
@@ -74,11 +74,11 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Cassius — Caius Cassius | Gaius Cassius
 - Orsino — Duke Orsino | Count Orsino
 - Olivia — Countess Olivia | Lady Olivia
-- Ghost of Hamlet's Father — The Ghost | King Hamlet | Old Hamlet | Hamlet's Father | Hamlet's Ghost | Ghost of Hamlet
+- Ghost of Hamlet's Father — The Ghost | King Hamlet | Old Hamlet | Hamlet's Father | Hamlet's Ghost | Ghost of Hamlet | Hamlet's dad | Hamlet Sr | Hamlet Senior | Ghost of King Hamlet | Old King Hamlet | Hamlet's dead father
 - Antonio
 - Paris — County Paris | Count Paris
-- Benvolio
-- Lord Capulet — Capulet | Old Capulet
+- Benvolio — Romeo's cousin
+- Lord Capulet — Capulet | Old Capulet | Juliet's father | Juliet's dad
 - Edmund — Edmund the Bastard
 - Edgar — Poor Tom | Tom o' Bedlam | Mad Tom
 - Demetrius
@@ -88,32 +88,32 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 3: known to fans (255)
 
-- Lord Montague — Montague | Old Montague
-- Lady Capulet
-- Lady Montague
+- Lord Montague — Montague | Old Montague | Romeo's father | Romeo's dad
+- Lady Capulet — Juliet's mother | Juliet's mum
+- Lady Montague — Romeo's mother | Romeo's mum
 - Escalus — Prince Escalus | Prince of Verona
 - Rosaline
 - Balthasar — Balthazar
 - The Apothecary
 - Queen Mab — Mab
-- Fortinbras — Prince Fortinbras
+- Fortinbras — Prince Fortinbras | Prince of Norway
 - Osric
 - Marcellus
 - The Gravedigger — First Gravedigger | Sexton | First Clown | Second Clown | Second Gravedigger
 - Malcolm
 - Donalbain
-- Fleance
+- Fleance — Banquo's son
 - Lady Macduff
 - Ross — Thane of Ross | Lord Ross
 - Lennox
 - Hecate — Hecat
 - The Porter
-- Gloucester — Earl of Gloucester
+- Gloucester — Earl of Gloucester | Gloster | Earl of Gloster
 - Kent — Earl of Kent
 - Albany — Duke of Albany
 - Cornwall — Duke of Cornwall
 - Oswald
-- Calpurnia — Calphurnia
+- Calpurnia — Calphurnia | Caesar's wife
 - Octavius — Octavius Caesar | Octavian | Augustus | Caesar Augustus
 - Casca
 - Cinna — Cinna the Poet
@@ -122,7 +122,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - The Soothsayer — Philarmonus
 - Cicero
 - Bassanio
-- Jessica
+- Jessica — Shylock's daughter
 - Nerissa
 - Gratiano
 - Lorenzo
@@ -493,7 +493,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Lucullus
 - Sempronius
 - Philario
-- Jupiter
+- Jupiter — Zeus
 - Cymbeline's Queen
 - Cleon
 - Dionyza
@@ -780,7 +780,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Setebos
 - Violenta
 
-## Refused on purpose (28)
+## Refused on purpose (36)
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
@@ -812,3 +812,11 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Susanna Hall | Judith Shakespeare | Susanna Shakespeare | Judith Quiney — "Shakespeare's daughter, not one of his characters."
 - Edward Alleyn | Alleyn — "The rival company's star, famous for Marlowe's heroes. An actor, not a character."
 - Richard I | King Richard I | Richard the Lionheart | Richard the Lionhearted | Richard Coeur de Lion | Coeur de Lion — "Richard the Lionheart is only mentioned, never seen. Check the number."
+- The Tempest | Twelfth Night | A Midsummer Night's Dream | Much Ado About Nothing | Much Ado | As You Like It | The Merchant of Venice | The Taming of the Shrew | The Winter's Tale | Measure for Measure | The Comedy of Errors | Love's Labour's Lost | All's Well That Ends Well | The Merry Wives of Windsor | The Two Gentlemen of Verona | The Two Noble Kinsmen — "A play, not a person. Name someone in it."
+- Beatrice and Benedick | Macbeth and Lady Macbeth | Montague and Capulet | Montagues and Capulets | Capulet and Montague | Capulets and Montagues | Oberon and Titania | Hermia and Lysander | Helena and Demetrius | Othello and Desdemona | Hamlet and Ophelia | Goneril and Regan | Viola and Sebastian — "Two characters. Name one of them."
+- Simba | Mufasa | Pumbaa — "Disney borrowed the plot from Hamlet, but the animals are its own."
+- Frankenstein | Dracula | Sherlock Holmes | Ebenezer Scrooge | Harry Potter | Mr Darcy | Elizabeth Bennet | Heathcliff | Peter Pan | Oliver Twist | Jane Eyre | Dorian Gray | Captain Ahab | Huckleberry Finn | Jay Gatsby | Atticus Finch — "From a later book, not a Shakespeare play."
+- Oedipus | Medea | Electra | Beowulf — "From a much older story, not a Shakespeare play."
+- Kenneth Branagh | Branagh | Laurence Olivier | Ian McKellen | Judi Dench | David Tennant | Leonardo DiCaprio | Claire Danes | Benedict Cumberbatch | Tom Hiddleston | Denzel Washington | John Gielgud | Patrick Stewart | Mel Gibson | Orson Welles — "An actor who has played his characters, not one of them."
+- Christopher Marlowe | Marlowe | Kit Marlowe | Ben Jonson | Jonson | Thomas Kyd | John Fletcher | Thomas Middleton | Francis Bacon — "A fellow playwright, not a character."
+- Stratford-upon-Avon | Stratford | Globe Theatre | The Globe | Elsinore | Birnam Wood | Dunsinane | Forest of Arden | Illyria — "A place, not a person."

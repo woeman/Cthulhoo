@@ -12,27 +12,27 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 ### Tier 1: what most people say (7)
 
-- United Kingdom — UK | Britain | Great Britain | United Kingdom of Great Britain and Northern Ireland | England | Scotland | Wales | Northern Ireland
-- Australia
+- United Kingdom — UK | Britain | Great Britain | United Kingdom of Great Britain and Northern Ireland | England | Scotland | Wales | Northern Ireland | GB | Eng | British Isles | Nth Ireland
+- Australia — Aus | Aust | Oz | Straya | Aussie | Down Under | Commonwealth of Australia
 - Japan — Nippon | Nihon
-- India — Bharat
-- Ireland — Republic of Ireland | Eire
-- New Zealand — NZ | Aotearoa
-- South Africa — RSA
+- India — Bharat | Inda | Indi
+- Ireland — Republic of Ireland | Eire | Southern Ireland | ROI | Irish Republic
+- New Zealand — NZ | Aotearoa | Aotearoa New Zealand | New Zealand Aotearoa | Kiwiland | N Zealand
+- South Africa — RSA | SA | S Africa | Sth Africa | Republic of South Africa
 
 ### Tier 2: common (15)
 
-- Thailand — Siam
+- Thailand — Siam | Thai | Kingdom of Thailand
 - Malaysia — Malaya
 - Singapore
-- Indonesia
+- Indonesia — Indo | Republic of Indonesia
 - Pakistan
 - Sri Lanka — Ceylon
 - Bangladesh
 - Jamaica
 - Kenya
 - Malta
-- Cyprus
+- Cyprus — Cypress
 - Fiji
 - Barbados
 - Bahamas
@@ -54,7 +54,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Seychelles
 - Trinidad and Tobago — Trinidad | Tobago
 - Guyana — British Guiana
-- Papua New Guinea — PNG
+- Papua New Guinea — PNG | Papua | Papua Niugini
 - Tonga
 - Lesotho — Basutoland
 - Eswatini — Swaziland
@@ -69,7 +69,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 - Saint Lucia — St Lucia
 - Dominica
 - Solomon Islands — Solomons
-- Kiribati — Gilbert Islands
+- Kiribati — Gilbert Islands | Kiribas
 - Tuvalu — Ellice Islands
 - Nauru
 
@@ -77,7 +77,7 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 - Saint Kitts and Nevis — Saint Kitts | St Kitts | Nevis | Saint Christopher and Nevis
 - Saint Vincent and the Grenadines — Saint Vincent | St Vincent | SVG
-- Cook Islands
+- Cook Islands — The Cooks
 
 ### Tier 6: rare jackpots (2)
 
@@ -88,23 +88,23 @@ Each answer is followed by the other spellings the game takes for it, separated 
 
 These are refused with the reason shown. If one of them is in fact a right answer, say so.
 
-- Hong Kong | Macau | Macao — "Drives on the left, but it's part of China."
+- Hong Kong | Macau | Macao | HK | Hong Kong SAR — "Drives on the left, but it's part of China."
 - Bermuda | Cayman Islands | Turks and Caicos Islands | Turks and Caicos | British Virgin Islands | Anguilla | Montserrat | Falkland Islands | Falklands | Saint Helena | Pitcairn Islands | Pitcairn | BVI | Akrotiri and Dhekelia — "Drives on the left, but it's a British overseas territory."
 - Isle of Man | Jersey | Guernsey | Channel Islands — "Drives on the left, but the British Crown dependencies aren't countries."
 - US Virgin Islands | United States Virgin Islands — "Drives on the left, but it's a US territory."
-- Christmas Island | Cocos Islands | Cocos (Keeling) Islands | Norfolk Island | Tasmania — "Drives on the left, but it's Australian."
+- Christmas Island | Cocos Islands | Cocos (Keeling) Islands | Norfolk Island | Tasmania | New South Wales | NSW | Queensland | Victoria | Western Australia | South Australia | Northern Territory | Lord Howe Island | Sydney | Melbourne — "Drives on the left, but it's Australian."
 - Tokelau — "A territory of New Zealand, not a country."
 - Northern Cyprus — "Drives on the left, but only Turkey recognises it."
 - Okinawa — "Drives on the left, as part of Japan, since switching back in 1978."
-- Zanzibar — "Drives on the left, but it's part of a larger country."
-- Bali | Sumatra — "Not a country that drives on the left. Bali and Sumatra do, but they belong to Indonesia."
+- Zanzibar | Rarotonga | Aitutaki | Phuket | Penang | Langkawi | Goa | Kerala — "Drives on the left, but it's part of a larger country."
+- Bali | Sumatra | Lombok — "Not a country that drives on the left. Bali and Sumatra do, but they belong to Indonesia."
 - Gozo — "Drives on the left, but it's part of Malta."
 - Borneo — "An island shared by three countries. Name one of them."
 - Timor — "An island shared by two countries. Name one of them."
 - New Guinea — "An island shared by two countries. Name one of them."
 - Gibraltar — "British, but it drives on the right, like Spain, and has since 1929."
-- American Samoa — "A US territory, and it drives on the right."
-- French Polynesia | Tahiti | New Caledonia | Wallis and Futuna — "French, and it drives on the right."
+- American Samoa | Puerto Rico | Northern Mariana Islands — "A US territory, and it drives on the right."
+- French Polynesia | Tahiti | New Caledonia | Wallis and Futuna | French Guiana | Guadeloupe | Martinique | Réunion — "French, and it drives on the right."
 - Western Sahara — "A disputed territory, mostly held by Morocco, and it drives on the right."
 - Sweden — "Switched to the right overnight in 1967, on a day called Dagen H."
 - Iceland — "Iceland switched to the right in 1968."
@@ -128,5 +128,5 @@ These are refused with the reason shown. If one of them is in fact a right answe
 - Dominican Republic | Dominican — "Drives on the right. A smaller near-namesake in the Caribbean drives on the left."
 - Hawaii — "Part of the United States, which drives on the right."
 - Palau — "Palau drives on the right."
-- United States | USA | America | France | Germany | Spain | Italy | Greece | Brazil | Mexico | Russia | Netherlands | Holland | Slovenia | Marshall Islands | Micronesia | Federated States of Micronesia | Philippines | Kuwait | Qatar | United Arab Emirates | Oman | Yemen | Somalia | Cameroon | Liberia | Guinea | Equatorial Guinea | South Sudan | Angola | Madagascar — "Drives on the right."
+- United States | USA | America | France | Germany | Spain | Italy | Greece | Brazil | Mexico | Russia | Netherlands | Holland | Slovenia | Marshall Islands | Micronesia | Federated States of Micronesia | Philippines | Kuwait | Qatar | United Arab Emirates | Oman | Yemen | Somalia | Cameroon | Liberia | Guinea | Equatorial Guinea | South Sudan | Angola | Madagascar | Vietnam | Cambodia | Laos | Mongolia | Afghanistan | Iran | Iraq | Saudi Arabia | UAE | Dubai | Abu Dhabi | Turkey | Türkiye | Jordan | Lebanon | Syria | Ethiopia | Morocco | Algeria | Tunisia | Libya | Senegal | Ivory Coast | DR Congo | Democratic Republic of the Congo | Chile | Peru | Colombia | Venezuela | Ecuador | Bolivia | Paraguay | Cuba | Haiti | Panama | Costa Rica | Guatemala | Honduras | El Salvador | Nicaragua | Poland | Switzerland | Belgium | Luxembourg | Denmark | Norway | Finland | Estonia | Latvia | Lithuania | Croatia | Serbia | Bosnia | Montenegro | Albania | North Macedonia | Bulgaria | Romania | Ukraine | Belarus | Moldova | Georgia | Armenia | Azerbaijan | Kazakhstan | Uzbekistan — "Drives on the right."
 - Refused without a reason (near misses of real answers): Málaga | Nice
