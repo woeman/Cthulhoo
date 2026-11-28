@@ -2,7 +2,8 @@
 // order the answers surface in, the circle's standings, and the small phrases
 // the screens are made of. Everything here is pure, so it is tested on its own.
 
-import { dateKeyForDay, hashString, practicePrompts } from '../../game/daily';
+import { dateKeyForDay, hashString, practiceQueue, practiceRank } from '../../game/daily';
+import { dealByTopic, fitBudget, topicsPhrase } from '../../game/topics';
 import type { BankDay, PromptDef, ThemeCopy } from '../../game/types';
 import type { CultBoard } from '../../party/cult';
 import { candleOut, type PassState } from '../../party/passplay';
@@ -50,13 +51,43 @@ export interface Bankish {
  * comes from the sign and the sitting, so the same circle sitting again is asked
  * new questions; any asked before in this séance go to the back of the queue.
  */
-export function choosePrompts(bank: Bankish, avoid: string[], key: string, sitting: number, today: number, count: number, asked: string[] = []): PromptDef[] {
+export function choosePrompts(bank: Bankish, avoid: string[], key: string, sitting: number, today: number, count: number, asked: string[] = [], from: Chosen = {}): PromptDef[] {
   const seed = hashString(`${key.toUpperCase()}#${sitting}`);
-  const ids = practicePrompts(bank.prompts, [...avoid, ...asked], seed, today, bank.days);
-  return ids
-    .map((id) => bank.byId.get(id))
-    .filter((p): p is PromptDef => !!p)
-    .slice(0, Math.max(1, count));
+  const skip = [...avoid, ...asked];
+  // Chosen topics may be few questions: today's dive is left out of them outright, not just put last.
+  const among = from.among?.filter((p) => !avoid.includes(p.id));
+  let ids = practiceQueue(bank.prompts, skip, seed, today, bank.days, among ?? bank.prompts);
+  if (among && from.topicOf) {
+    const byId = new Map(among.map((p) => [p.id, p]));
+    const topicOf = from.topicOf;
+    ids = dealByTopic(ids, practiceRank(bank.prompts, skip, today, bank.days), (id) => topicOf(byId.get(id) ?? { id, category: '' }));
+  }
+  const found = ids.map((id) => bank.byId.get(id)).filter((p): p is PromptDef => !!p);
+  return fitBudget(found, Math.max(1, count), from.budget ?? Infinity);
+}
+
+/** What a sitting's questions are drawn from, when the medium ticked topics. */
+export interface Chosen {
+  /** The questions of the ticked topics (class packs included). Absent: the whole daily bank. */
+  among?: PromptDef[];
+  /** A question's topic, so several topics are dealt evenly. */
+  topicOf?: (p: Pick<PromptDef, 'id' | 'category'>) => string;
+  /** The most characters the questions may come to as JSON (one message to the relay). */
+  budget?: number;
+}
+
+/**
+ * The questions of an online séance go to the relay in one message, which it
+ * caps at 1,000,000 characters. Seven of the daily bank's longest come to under
+ * half that; a class pack's list of every listed company is longer, so a sitting
+ * that would not fit asks the next question in line instead.
+ */
+export const BEGIN_BUDGET = 900_000;
+
+/** How the séance is held, in a line: candles, seconds, and the topics when some were chosen. */
+export function configLine(config: SeanceView['config']): string {
+  const base = `${capitalise(cardinal(config.candles))} candles · ${config.seconds} seconds each`;
+  return config.topics?.length ? `${base} · ${topicsPhrase(config.topics)}` : base;
 }
 
 /** The order the answers surface in: silence first, then shallowest to deepest. Ties keep the circle's order. */

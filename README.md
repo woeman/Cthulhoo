@@ -43,6 +43,18 @@ the engraved sea with sliders for depth, madness and the Eye.
   score; it changes how the world looks and sounds.
 - Typos are forgiven by edit distance, but a real wrong answer (an ocean when
   the question asks for a sea) is never "corrected" into a right one.
+- Topics: a practice dive (Charted Waters) or a séance can be held on ticked
+  topics only. The ten daily categories are topics, and so is each class pack in
+  `packs/` (finance, economics and so on). Several ticked topics are dealt
+  evenly. Class packs are never part of the daily dive: the build publishes
+  each as its own file (`packs/<id>.json`) and the game fetches a pack when it
+  is ticked.
+- Music: eight recorded ambient tracks (made for the game on Suno) lie under the
+  generated sound, two for each of the surface, the mid-depths, the abyss and
+  the séance. A dive hears the bed of its depth; the two tracks of a place take
+  turns, each coming in under the other's tail, from a random point. They
+  stream from `music/` when first needed and are never part of the script
+  (`src/audio/music.ts`). Settings has a Music switch beside the sound switch.
 
 ## Where things live
 
@@ -50,11 +62,13 @@ the engraved sea with sliders for depth, madness and the Eye.
 | --- | --- | --- |
 | `src/game/` | Rules: matching, daily selection, omens, scoring, saves, share text and card | game |
 | `src/render/` | The WebGL engraving of the sea, from moonlit surface to the Eye | game |
-| `src/audio/` | Generated ambient sound (no audio files) | game |
+| `src/audio/` | Generated ambient sound, and the player for the music beds | game |
 | `src/app.ts`, `src/ui/`, `src/styles/` | Screens and layout | game |
 | `art/` | Colours, depth palette, fonts and the house style ("Ink & Phosphor") | art |
 | `data/` | The question bank and the game's copy (`theme.json`) | questions |
-| `public/` | App icon and home-screen manifest | game |
+| `packs/` | Class packs: question sets by subject, fetched when ticked (`packs/README.md`) | class packs |
+| `build/` | Build steps: publishing the class packs beside the game | game |
+| `public/` | App icon, home-screen manifest and the music beds (`public/music/`, from `/mnt/project-files/music/`) | game |
 
 Until `data/` arrives, the game plays from a small placeholder bank in
 `src/content/`.

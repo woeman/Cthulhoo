@@ -193,12 +193,11 @@ export function freezeDays(prompts: PromptDef[], fixed: BankDay[], from: number,
 }
 
 /**
- * A practice set. It leaves out today's prompts and, when given the day, the
- * prompts due in the next PRACTICE_HORIZON days as well, so practice cannot
- * preview the coming dives. Only a bank too small for that falls back on them:
- * the furthest off first, today's last.
+ * How far off a prompt is from being asked in a dive: 0 for today's (and anything
+ * else to keep clear of), 1 to PRACTICE_HORIZON for the days ahead, and one more
+ * than that for a prompt nobody is due to meet soon.
  */
-export function practicePrompts(prompts: PromptDef[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = []): string[] {
+export function practiceRank(prompts: PromptDef[], avoid: string[], day?: number, fixed: BankDay[] = []): (id: string) => number {
   const due = new Map<string, number>();
   if (day !== undefined) {
     for (let k = PRACTICE_HORIZON; k >= 1; k--) {
@@ -206,9 +205,29 @@ export function practicePrompts(prompts: PromptDef[], avoid: string[], seed: num
     }
   }
   for (const id of avoid) due.set(id, 0);
-  const rank = (id: string) => due.get(id) ?? PRACTICE_HORIZON + 1;
-  const ids = seededShuffle(prompts.map((p) => p.id), seed);
-  return ids.sort((a, b) => rank(b) - rank(a)).slice(0, PROMPTS_PER_DAY);
+  return (id) => due.get(id) ?? PRACTICE_HORIZON + 1;
+}
+
+/**
+ * Every prompt in the order practice would ask them: shuffled by the seed, then
+ * the ones due soon moved to the back, the furthest off first and today's last.
+ * `among` narrows what is drawn from (chosen topics, class packs) while the
+ * days ahead are still read from the whole bank.
+ */
+export function practiceQueue(prompts: PromptDef[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = [], among: PromptDef[] = prompts): string[] {
+  const rank = practiceRank(prompts, avoid, day, fixed);
+  const ids = seededShuffle(among.map((p) => p.id), seed);
+  return ids.sort((a, b) => rank(b) - rank(a));
+}
+
+/**
+ * A practice set. It leaves out today's prompts and, when given the day, the
+ * prompts due in the next PRACTICE_HORIZON days as well, so practice cannot
+ * preview the coming dives. Only a bank too small for that falls back on them:
+ * the furthest off first, today's last.
+ */
+export function practicePrompts(prompts: PromptDef[], avoid: string[], seed: number, day?: number, fixed: BankDay[] = []): string[] {
+  return practiceQueue(prompts, avoid, seed, day, fixed).slice(0, PROMPTS_PER_DAY);
 }
 
 /**

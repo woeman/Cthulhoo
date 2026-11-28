@@ -6,17 +6,18 @@ import { h } from '../../ui/dom';
 import { icon } from '../../ui/art';
 import { signSpoken } from '../../party/codes';
 import { CANDLE_CHOICES, MAX_SITTERS, SECONDS_CHOICES, type SeanceView } from '../../party/types';
-import { cardinal, capitalise, seatsOf, shareLink, tablesOf } from './model';
+import { choiceNames } from '../../game/topics';
+import { topicPicker, type TopicPicker } from '../../ui/topics';
+import { cardinal, capitalise, configLine, seatsOf, shareLink, tablesOf } from './model';
 import { choiceRow, markEl, SeanceTable, shareButton, signEl, tableSeats } from './parts';
 import { Scene, uniq, type Ctx } from './scene';
 import type { Seat } from './types';
 
 export interface LobbyActions {
-  config(candles: number, seconds: number): void;
+  /** `topics` are the names of the ticked topics, for the circle to read: none for the whole daily deep. */
+  config(candles: number, seconds: number, topics: string[]): void;
   begin(): void;
 }
-
-const configLine = (v: Pick<SeanceView, 'config'>) => `${capitalise(cardinal(v.config.candles))} candles · ${v.config.seconds} seconds each`;
 
 /** The way to the séance, said plainly: the address with its sign. */
 const linkText = (sign: string) => shareLink(location.href, sign).replace(/^https?:\/\//, '');
@@ -91,6 +92,9 @@ export class LobbyScene extends Scene {
   private read: HTMLElement;
   private view: SeanceView;
   private held: HTMLElement | null = null;
+  private picker?: TopicPicker;
+  /** The names of the ticked topics, as last worked out. */
+  private names: string[] = [];
 
   constructor(
     ctx: Ctx,
@@ -141,10 +145,39 @@ export class LobbyScene extends Scene {
         this.begin.textContent = 'Lighting the candle…';
         this.actions.begin();
       });
-      parts.push(
-        h('section', { class: 'plate sc-config', 'aria-label': 'How the séance is held' }, h('h3', { class: 'sc-h' }, 'The candles'), this.candles.el, this.seconds.el),
-        h('div', { class: 'sc-actions' }, this.begin, this.hint),
-      );
+      parts.push(h('section', { class: 'plate sc-config', 'aria-label': 'How the séance is held' }, h('h3', { class: 'sc-h' }, 'The candles'), this.candles.el, this.seconds.el));
+      const topics = this.env.topics;
+      if (topics) {
+        this.names = view.config.topics ?? [];
+        const retell = (all: ReturnType<typeof topics.daily>) => {
+          const names = choiceNames(this.picker?.choice() ?? [], all);
+          if (names.join('|') === this.names.join('|')) return;
+          this.names = names;
+          this.actions.config(this.view.config.candles, this.view.config.seconds, names);
+        };
+        let known = topics.daily();
+        this.picker = topicPicker({
+          topics: known,
+          choice: topics.load(),
+          legend: 'Ask about',
+          onTick: () => this.env.sound?.key?.(),
+          onChange: (choice) => {
+            topics.save(choice);
+            retell(known);
+          },
+        });
+        // The class packs arrive a moment later; only then is this device's last choice told to the circle.
+        let live = true;
+        this.stops.push(() => (live = false));
+        void topics.all().then((all) => {
+          if (!live) return;
+          known = all;
+          this.picker?.setTopics(all);
+          retell(all);
+        });
+        parts.push(h('section', { class: 'plate sc-config sc-topics', 'aria-label': 'What the séance asks about' }, h('h3', { class: 'sc-h' }, 'The questions'), this.picker.el));
+      }
+      parts.push(h('div', { class: 'sc-actions' }, this.begin, this.hint));
     } else {
       parts.push(h('div', { class: 'sc-wait' }, h('p', { class: 'sc-wait-line' }, 'The medium will light the first candle.'), this.read));
     }
@@ -154,8 +187,13 @@ export class LobbyScene extends Scene {
 
   private pick(candles: number, seconds: number) {
     this.click();
-    this.view = { ...this.view, config: { candles, seconds } };
-    this.actions.config(candles, seconds);
+    this.view = { ...this.view, config: { ...this.view.config, candles, seconds } };
+    this.actions.config(candles, seconds, this.names);
+  }
+
+  /** The topics ticked on the medium's device: empty for the whole daily deep. */
+  choice(): string[] {
+    return this.picker?.choice() ?? [];
   }
 
   update(view: SeanceView) {
@@ -173,7 +211,7 @@ export class LobbyScene extends Scene {
     this.tables.hidden = !t;
     this.candles?.set(view.config.candles);
     this.seconds?.set(view.config.seconds);
-    this.read.textContent = configLine(view);
+    this.read.textContent = configLine(view.config);
     const here = seats.filter((s) => s.online).length;
     this.hint.textContent = here <= 1 ? 'You are alone in the circle. Wait for the others, or begin alone.' : `${capitalise(cardinal(here))} are sitting. Light the candle when the circle is ready.`;
   }
@@ -232,6 +270,6 @@ export class TableLobbyScene extends Scene {
     if (fresh.length && seats.length > fresh.length) this.env.announce(`${fresh.map((s) => s.name).join(' and ')} ${fresh.length === 1 ? 'sits' : 'sit'} down.`);
     const medium = seats.find((s) => s.medium);
     this.wait.textContent = !seats.length ? 'Nobody has sat down yet. The first to join lights the candles.' : medium ? `${medium.name} is the medium, and will light the first candle.` : 'The medium will light the first candle.';
-    this.read.textContent = configLine(view);
+    this.read.textContent = configLine(view.config);
   }
 }

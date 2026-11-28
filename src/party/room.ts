@@ -12,6 +12,8 @@ import {
   NAME_MAX,
   SECONDS_CHOICES,
   SPEAK_MAX,
+  TOPIC_NAMES_MAX,
+  TOPIC_NAME_MAX,
   type CandlePrompt,
   type CandleResult,
   type ErrorCode,
@@ -118,6 +120,7 @@ export const publicPrompt = (p: PromptDef): CandlePrompt => ({
   category: p.category,
   ...(p.rules ? { rules: p.rules } : {}),
   ...(p.flavor ? { flavor: p.flavor } : {}),
+  ...(p.topic ? { topic: p.topic } : {}),
 });
 
 /**
@@ -197,6 +200,7 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
     }
     const rules = str(r.rules, 300);
     const flavor = str(r.flavor, 300);
+    const topic = str(r.topic, 40);
     out.push({
       id,
       text,
@@ -207,6 +211,7 @@ export function cleanPrompts(list: unknown, max: number): PromptDef[] {
       traps,
       decoys: strs(r.decoys, 120, DECOYS_MAX),
       ...(r.exact === true ? { exact: true } : {}),
+      ...(topic ? { topic } : {}),
     });
   }
   return out;
@@ -219,14 +224,16 @@ export function cleanDepths(v: unknown): number[] | null {
   return out.some(Number.isNaN) ? null : [0, ...out.slice(1)];
 }
 
-/** A name as the circle will see it: no control or direction characters, no runs of spaces. */
-export function cleanName(raw: unknown): string {
-  return String(raw ?? '')
+/** Text as a room will show it: no control or direction characters, no runs of spaces. */
+const tidy = (raw: unknown): string =>
+  String(raw ?? '')
     .replace(/[\u0000-\u001f\u007f-\u009f\u200b-\u200f\u2028-\u202e\u2060-\u206f\ufeff]/g, '')
     .replace(/\s+/g, ' ')
-    .trim()
-    .slice(0, NAME_MAX)
     .trim();
+
+/** A name as the circle will see it: tidied, and cut to length. */
+export function cleanName(raw: unknown): string {
+  return tidy(raw).slice(0, NAME_MAX).trim();
 }
 
 const NUMERALS = ['II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII'];
@@ -246,6 +253,18 @@ export function cleanConfig(candles: unknown, seconds: unknown): SeanceConfig | 
   const c = (CANDLE_CHOICES as readonly number[]).includes(candles as number) ? (candles as number) : null;
   const s = (SECONDS_CHOICES as readonly number[]).includes(seconds as number) ? (seconds as number) : null;
   return c && s ? { candles: c, seconds: s } : null;
+}
+
+/** The topic names a medium sent, cleaned as names are. Undefined when none were sent at all (an older copy of the game). */
+export function cleanTopicNames(v: unknown): string[] | undefined {
+  if (!Array.isArray(v)) return undefined;
+  const out: string[] = [];
+  for (const x of v) {
+    const name = typeof x === 'string' ? tidy(x) : '';
+    if (name && name.length <= TOPIC_NAME_MAX && !out.includes(name)) out.push(name);
+    if (out.length >= TOPIC_NAMES_MAX) break;
+  }
+  return out;
 }
 
 // -------------------------------------------------------------------- a room
@@ -346,13 +365,15 @@ export function leave(room: Room, id: string, now: number): void {
 
 const mediumOnly = (room: Room, actor: string) => (mediumOf(room) === actor ? null : fail('medium', 'Only the medium can do that.'));
 
-export function configure(room: Room, actor: string, candles: unknown, seconds: unknown, now: number): Outcome {
+export function configure(room: Room, actor: string, candles: unknown, seconds: unknown, now: number, topics?: unknown): Outcome {
   const no = mediumOnly(room, actor);
   if (no) return no;
   if (room.phase !== 'lobby') return fail('phase', 'The candles are already lit.');
   const cfg = cleanConfig(candles, seconds);
   if (!cfg) return fail('bad', 'That is not a way to hold a séance.');
-  room.config = cfg;
+  // A copy of the game from before topics sends none: what the room shows then stays as it was.
+  const names = cleanTopicNames(topics) ?? room.config.topics ?? [];
+  room.config = names.length ? { ...cfg, topics: names } : cfg;
   room.touched = now;
   return { ok: true };
 }

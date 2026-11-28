@@ -107,7 +107,7 @@ export class Seance extends DurableObject<Env> {
 
     switch (msg.t) {
       case 'config':
-        return this.after(ws, configure(room, me, msg.candles, msg.seconds, now));
+        return this.after(ws, configure(room, me, msg.candles, msg.seconds, now, msg.topics));
       case 'begin':
         return this.after(ws, begin(room, me, msg.prompts, msg.depths, now));
       case 'next':
