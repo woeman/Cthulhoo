@@ -28,7 +28,8 @@
     "Ancient Latin",
     "Roman Latin",
     "Ancient Roman",
-    "Latin language"
+    "Latin language",
+    "Latten"
    ],
    "tier": 1,
    "lore": "Dead, though the Vatican still writes in it, and one of its cash machines offered instructions in Latin."
@@ -121,7 +122,8 @@
     "Manx Gaelic",
     "Gaelg",
     "Gailck",
-    "Manx language"
+    "Manx language",
+    "Manks"
    ],
    "tier": 2,
    "lore": "Its last native speaker, Ned Maddrell, died in 1974. It has since been revived."
@@ -205,7 +207,8 @@
     "Neshili",
     "Kanesian",
     "Ancient Hittite",
-    "Hittite language"
+    "Hittite language",
+    "Hetite"
    ],
    "tier": 2,
    "lore": "Forgotten for 3,000 years, until clay tablets in Turkey revealed the oldest written Indo-European language."
@@ -239,14 +242,19 @@
    "aliases": [
     "Canaanite",
     "Ancient Phoenician",
-    "Phoenician language"
+    "Phoenician language",
+    "Fonecian",
+    "Fonician",
+    "Finician"
    ],
    "tier": 2
   },
   {
    "answer": "Hebrew",
    "aliases": [
-    "Hebrew language"
+    "Hebrew language",
+    "Hebrue",
+    "Hebru"
    ],
    "tier": 2,
    "lore": "Nobody's mother tongue for some 1,700 years, until Eliezer Ben-Yehuda raised his son in it in 1880s Jerusalem."
@@ -2650,7 +2658,10 @@
     "Dharuk",
     "Sydney language",
     "Eora",
-    "Dharug language"
+    "Dharug language",
+    "Gadigal",
+    "Cadigal",
+    "Gadigal language"
    ],
    "tier": 5
   },
@@ -3122,6 +3133,34 @@
    "tier": 5
   },
   {
+   "answer": "Awabakal",
+   "aliases": [
+    "Awabagal",
+    "Awabakal language"
+   ],
+   "tier": 5,
+   "lore": "Spoken around Lake Macquarie and Newcastle. A missionary and a man named Biraban wrote its grammar down in the 1830s."
+  },
+  {
+   "answer": "Dharawal",
+   "aliases": [
+    "Tharawal",
+    "Thurawal",
+    "Dharawal language"
+   ],
+   "tier": 5,
+   "lore": "The language of Sydney's southern shore and the Illawarra, now being pieced back together from old wordlists."
+  },
+  {
+   "answer": "Ngunnawal",
+   "aliases": [
+    "Ngunawal",
+    "Ngunnawal language"
+   ],
+   "tier": 5,
+   "lore": "The language of the country Canberra was built on. Its people are teaching it again."
+  },
+  {
    "answer": "Crimean Gothic",
    "aliases": [
     "Crimean Gothic language"
@@ -3304,6 +3343,18 @@
   {
    "answer": "Macedonian",
    "reason": "Alive, as the Slavic language of North Macedonia. Its ancient namesake would have counted."
+  },
+  {
+   "answer": "Aboriginal languages",
+   "aliases": [
+    "Aboriginal",
+    "Aboriginal language",
+    "Australian Aboriginal",
+    "Australian languages",
+    "Indigenous languages",
+    "Indigenous Australian languages"
+   ],
+   "reason": "Hundreds of languages, and many are still spoken. Name one that has fallen silent."
   }
  ],
  "section": "Languages",
