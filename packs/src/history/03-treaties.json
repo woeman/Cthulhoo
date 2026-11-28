@@ -1,0 +1,4542 @@
+{
+ "id": "history-treaties",
+ "text": "Name a treaty.",
+ "category": "history",
+ "flavor": "Ink dries quickly. Promises take longer, and some were broken before the seals had cooled.",
+ "rules": "Any named treaty, pact, accord, convention or peace agreed between states, rulers, rebels or peoples, from any age to today. Statements of aims, doctrines, laws and plans don't count, and nor do the organisations that treaties created.",
+ "answers": [
+  {
+   "answer": "Treaty of Versailles",
+   "aliases": [
+    "Versailles",
+    "Treaty of Versailles 1919",
+    "Versailles Treaty",
+    "Peace of Versailles",
+    "Versailles 1919",
+    "Versailles Treaty 1919",
+    "Peace of Versailles 1919"
+   ],
+   "tier": 1,
+   "lore": "Signed on 28 June 1919, five years to the day after the shots at Sarajevo."
+  },
+  {
+   "answer": "Treaty of Paris",
+   "aliases": [
+    "Paris Peace Treaties",
+    "Treaty of Paris 1763",
+    "Treaty of Paris 1783",
+    "Treaty of Paris 1814",
+    "Treaty of Paris 1815",
+    "Treaty of Paris 1856",
+    "Treaty of Paris 1898",
+    "Treaty of Paris 1947",
+    "Treaty of Paris 1951",
+    "Paris Treaty",
+    "Peace of Paris",
+    "Peace of Paris 1763",
+    "Peace of Paris 1783",
+    "Peace of Paris 1856",
+    "Paris"
+   ],
+   "tier": 1,
+   "lore": "Paris has given its name to treaties ending wars in 1763, 1783, 1814, 1856 and 1898, among others."
+  },
+  {
+   "answer": "Peace of Westphalia",
+   "aliases": [
+    "Westphalia",
+    "Treaty of Munster",
+    "Treaty of Osnabruck",
+    "Westphalian peace",
+    "Peace of Westphalia 1648",
+    "Treaty of Westphalia",
+    "Treaty of Westphalia 1648",
+    "Westphalia 1648"
+   ],
+   "tier": 1,
+   "lore": "Agreed in two towns, Münster and Osnabrück, it ended the Thirty Years' War in 1648."
+  },
+  {
+   "answer": "Warsaw Pact",
+   "aliases": [
+    "Warsaw Treaty",
+    "Warsaw Treaty Organization",
+    "Treaty of Warsaw",
+    "Treaty of Warsaw 1955",
+    "Warsaw Treaty of 1955",
+    "Warsaw Pact 1955",
+    "Treaty of Friendship, Cooperation and Mutual Assistance"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Geneva Conventions",
+   "aliases": [
+    "Geneva Convention",
+    "Fourth Geneva Convention",
+    "First Geneva Convention",
+    "Geneva Convention 1949",
+    "Geneva Conventions of 1949",
+    "Geneva Convention 1864",
+    "Geneva",
+    "Treaty of Geneva"
+   ],
+   "tier": 1,
+   "lore": "The first was signed in 1864, inspired by Henry Dunant, founder of the Red Cross."
+  },
+  {
+   "answer": "Good Friday Agreement",
+   "aliases": [
+    "Belfast Agreement",
+    "Good Friday",
+    "Good Friday Accord",
+    "Good Friday Accords",
+    "Good Friday Agreement 1998",
+    "Belfast Agreement 1998"
+   ],
+   "tier": 1,
+   "lore": "Signed on Good Friday, 10 April 1998, and approved by voters on both sides of the Irish border."
+  },
+  {
+   "answer": "Treaty of Maastricht",
+   "aliases": [
+    "Maastricht",
+    "Maastricht Treaty",
+    "Peace of Maastricht",
+    "Treaty on European Union",
+    "TEU",
+    "Maastricht Treaty 1992",
+    "Treaty of Maastricht 1992"
+   ],
+   "tier": 1,
+   "lore": "Signed in 1992, it created the European Union and set the path to the euro."
+  },
+  {
+   "answer": "Treaty of Rome",
+   "aliases": [
+    "Treaty of Rome 1957",
+    "Rome Treaty",
+    "Peace of Rome",
+    "Treaty on the Functioning of the European Union",
+    "TFEU",
+    "EEC Treaty",
+    "Treaty establishing the European Economic Community",
+    "Rome"
+   ],
+   "tier": 2,
+   "lore": "Signed in 1957, it created the European Economic Community."
+  },
+  {
+   "answer": "Treaty of Lisbon",
+   "aliases": [
+    "Lisbon",
+    "Treaty of Lisbon 2007",
+    "Lisbon Treaty",
+    "Peace of Lisbon",
+    "Treaty of Lisbon 2009",
+    "Reform Treaty",
+    "Treaty of Lisbon 1668"
+   ],
+   "tier": 2,
+   "lore": "Its Article 50 sets out how a country may leave the EU, as Britain did."
+  },
+  {
+   "answer": "Treaty of Utrecht",
+   "aliases": [
+    "Utrecht",
+    "Treaty of Utrecht 1713",
+    "Utrecht Treaty",
+    "Peace of Utrecht"
+   ],
+   "tier": 2,
+   "lore": "Among much else, it gave Gibraltar to Britain in 1713. Britain holds it still."
+  },
+  {
+   "answer": "Treaty of Waitangi",
+   "aliases": [
+    "Waitangi",
+    "Te Tiriti o Waitangi",
+    "Waitangi Treaty",
+    "Peace of Waitangi",
+    "Te Tiriti",
+    "Tiriti o Waitangi",
+    "Treaty of Waitangi 1840"
+   ],
+   "tier": 2,
+   "lore": "Signed in 1840 by Māori chiefs and the British Crown, in English and Māori texts that don't say quite the same thing."
+  },
+  {
+   "answer": "Treaty of Tordesillas",
+   "aliases": [
+    "Tordesillas",
+    "Tordesillas Treaty",
+    "Peace of Tordesillas",
+    "Treaty of Tordesillas 1494"
+   ],
+   "tier": 2,
+   "lore": "In 1494 Spain and Portugal split the world's newly found lands between them, along a line through the Atlantic."
+  },
+  {
+   "answer": "Paris Agreement",
+   "aliases": [
+    "Paris Climate Agreement",
+    "Paris Climate Accord",
+    "Paris Climate Accords",
+    "Paris Accord",
+    "Paris Accords",
+    "Paris Agreement 2015",
+    "Paris Climate Agreement 2015",
+    "Paris Accord 2015"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kyoto Protocol",
+   "aliases": [
+    "Kyoto",
+    "Kyoto Agreement",
+    "Kyoto Treaty",
+    "Kyoto Accord",
+    "Kyoto Protocol 1997"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Molotov–Ribbentrop Pact",
+   "aliases": [
+    "Nazi-Soviet Pact",
+    "Hitler-Stalin Pact",
+    "German-Soviet Pact",
+    "Treaty of Non-Aggression between Germany and the Soviet Union",
+    "Molotov–Ribbentrop",
+    "Molotov–Ribbentrop Pact 1939",
+    "Nazi-Soviet Pact 1939"
+   ],
+   "tier": 2,
+   "lore": "Its secret protocol divided eastern Europe between Nazi Germany and the Soviet Union, days before the war began."
+  },
+  {
+   "answer": "Munich Agreement",
+   "aliases": [
+    "Munich Pact",
+    "Munich",
+    "Munich Accord",
+    "Munich Accords",
+    "Munich Agreement 1938"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Camp David Accords",
+   "aliases": [
+    "Camp David",
+    "Camp David Agreement",
+    "Camp David Accords 1978"
+   ],
+   "tier": 2,
+   "lore": "Agreed in 1978. Egypt's Sadat and Israel's Begin shared the Nobel Peace Prize for them."
+  },
+  {
+   "answer": "Oslo Accords",
+   "aliases": [
+    "Oslo",
+    "Oslo Agreement",
+    "Oslo Accords 1993"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Treaty of Brest-Litovsk",
+   "aliases": [
+    "Brest-Litovsk",
+    "Brest-Litovsk Treaty",
+    "Peace of Brest-Litovsk",
+    "Treaty of Brest-Litovsk 1918",
+    "Brest-Litovsk 1918"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Congress of Vienna",
+   "aliases": [
+    "Treaty of Vienna",
+    "Final Act of the Congress of Vienna",
+    "Vienna Settlement",
+    "Treaty of Vienna 1815",
+    "Congress of Vienna 1815",
+    "Vienna Congress",
+    "Vienna"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "North Atlantic Treaty",
+   "aliases": [
+    "Washington Treaty",
+    "NATO Treaty",
+    "North Atlantic Pact",
+    "North Atlantic Treaty 1949"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Treaty of Ghent",
+   "aliases": [
+    "Ghent",
+    "Ghent Treaty",
+    "Peace of Ghent",
+    "Treaty of Ghent 1814"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Treaty of Nanking",
+   "aliases": [
+    "Treaty of Nanjing",
+    "Nanking",
+    "Nanjing",
+    "Nanking Treaty",
+    "Peace of Nanking",
+    "Treaty of Nanking 1842",
+    "Treaty of Nanjing 1842"
+   ],
+   "tier": 2,
+   "lore": "It ended the First Opium War in 1842 and handed Hong Kong Island to Britain."
+  },
+  {
+   "answer": "Non-Proliferation Treaty",
+   "aliases": [
+    "NPT",
+    "Nuclear Non-Proliferation Treaty",
+    "Treaty on the Non-Proliferation of Nuclear Weapons"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Schengen Agreement",
+   "aliases": [
+    "Schengen",
+    "Schengen Accord",
+    "Schengen Accords",
+    "Schengen Agreement 1985"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Sykes–Picot Agreement",
+   "aliases": [
+    "Sykes-Picot",
+    "Sykes–Picot Accord",
+    "Sykes–Picot Accords",
+    "Sykes–Picot Agreement 1916"
+   ],
+   "tier": 2,
+   "lore": "A secret deal of 1916 in which Britain and France divided much of the Middle East between them."
+  },
+  {
+   "answer": "Treaty of Union",
+   "aliases": [
+    "Acts of Union",
+    "Act of Union",
+    "Union Treaty",
+    "Peace of Union",
+    "Union with Scotland",
+    "Treaty of Union 1707",
+    "Act of Union 1707",
+    "Acts of Union 1707",
+    "Union of 1707"
+   ],
+   "tier": 2,
+   "lore": "It joined the kingdoms of England and Scotland into Great Britain, from 1707."
+  },
+  {
+   "answer": "Anglo-Irish Treaty",
+   "aliases": [
+    "Irish Treaty",
+    "Treaty of 1921",
+    "Anglo-Irish Treaty of 1921",
+    "Anglo-Irish Treaty 1921",
+    "Articles of Agreement for a Treaty between Great Britain and Ireland"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Kellogg–Briand Pact",
+   "aliases": [
+    "Pact of Paris",
+    "Kellogg Pact",
+    "Kellogg–Briand",
+    "Kellogg–Briand Pact 1928"
+   ],
+   "tier": 2,
+   "lore": "In 1928 its signatories gave up war as an instrument of national policy. It is still in force."
+  },
+  {
+   "answer": "Treaty of Guadalupe Hidalgo",
+   "aliases": [
+    "Guadalupe Hidalgo",
+    "Guadalupe Hidalgo Treaty",
+    "Peace of Guadalupe Hidalgo",
+    "Treaty of Guadalupe Hidalgo 1848"
+   ],
+   "tier": 2,
+   "lore": "In 1848 Mexico gave up about half its territory to the United States."
+  },
+  {
+   "answer": "Treaty of London",
+   "aliases": [
+    "Treaty of London 1839",
+    "Treaty of London 1840",
+    "Treaty of London 1913",
+    "Treaty of London 1915",
+    "Treaty of London 1949",
+    "London Treaty",
+    "Peace of London",
+    "London"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Dayton Agreement",
+   "aliases": [
+    "Dayton Accords",
+    "Dayton",
+    "Dayton Peace Agreement",
+    "Dayton Accord",
+    "Dayton Agreement 1995",
+    "Dayton Accords 1995"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Entente Cordiale",
+   "aliases": [
+    "Entente Cordiale 1904"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Magna Carta",
+   "aliases": [
+    "Great Charter",
+    "Magna Charta",
+    "Magna Carta 1215",
+    "Magna Carta Libertatum"
+   ],
+   "tier": 3,
+   "lore": "Sealed by King John in 1215, it was annulled by the Pope within weeks."
+  },
+  {
+   "answer": "Treaty of Trianon",
+   "aliases": [
+    "Trianon",
+    "Trianon Treaty",
+    "Peace of Trianon",
+    "Treaty of Trianon 1920"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Sèvres",
+   "aliases": [
+    "Sevres",
+    "Sèvres Treaty",
+    "Peace of Sèvres",
+    "Treaty of Sèvres 1920"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Lausanne",
+   "aliases": [
+    "Lausanne",
+    "Lausanne Treaty",
+    "Peace of Lausanne",
+    "Treaty of Lausanne 1923"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Saint-Germain",
+   "aliases": [
+    "Saint-Germain",
+    "Treaty of St Germain",
+    "Saint-Germain Treaty",
+    "Peace of Saint-Germain",
+    "Treaty of Saint-Germain 1919"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Neuilly",
+   "aliases": [
+    "Neuilly",
+    "Neuilly Treaty",
+    "Peace of Neuilly",
+    "Treaty of Neuilly 1919"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Locarno Treaties",
+   "aliases": [
+    "Locarno Pact",
+    "Locarno",
+    "Treaty of Locarno",
+    "Locarno Treaties 1925"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Rapallo",
+   "aliases": [
+    "Rapallo",
+    "Treaty of Rapallo 1920",
+    "Treaty of Rapallo 1922",
+    "Rapallo Treaty",
+    "Peace of Rapallo"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pact of Steel",
+   "aliases": [
+    "Pact of Steel 1939"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Tripartite Pact",
+   "aliases": [
+    "Axis Pact",
+    "Berlin Pact",
+    "Tripartite Pact 1940"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Anti-Comintern Pact",
+   "aliases": [
+    "Anti-Comintern Pact 1936"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Shimonoseki",
+   "aliases": [
+    "Shimonoseki",
+    "Shimonoseki Treaty",
+    "Peace of Shimonoseki",
+    "Treaty of Shimonoseki 1895"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Portsmouth",
+   "aliases": [
+    "Portsmouth",
+    "Portsmouth Treaty",
+    "Peace of Portsmouth",
+    "Treaty of Portsmouth 1905"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Tilsit",
+   "aliases": [
+    "Tilsit",
+    "Tilsit Treaty",
+    "Peace of Tilsit",
+    "Treaty of Tilsit 1807"
+   ],
+   "tier": 3,
+   "lore": "Napoleon and Tsar Alexander I first met to agree it on a raft moored in the middle of the River Neman."
+  },
+  {
+   "answer": "Treaty of Amiens",
+   "aliases": [
+    "Amiens",
+    "Amiens Treaty",
+    "Peace of Amiens",
+    "Treaty of Amiens 1802"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Campo Formio",
+   "aliases": [
+    "Campo Formio",
+    "Campo Formio Treaty",
+    "Peace of Campo Formio",
+    "Treaty of Campo Formio 1797"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Aix-la-Chapelle",
+   "aliases": [
+    "Aix-la-Chapelle",
+    "Treaty of Aix-la-Chapelle 1668",
+    "Treaty of Aix-la-Chapelle 1748",
+    "Aix-la-Chapelle Treaty",
+    "Peace of Aix-la-Chapelle",
+    "Treaty of Aachen",
+    "Peace of Aachen",
+    "Aachen Treaty",
+    "Aachen"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Nijmegen",
+   "aliases": [
+    "Nijmegen",
+    "Nijmegen Treaty",
+    "Peace of Nijmegen",
+    "Treaty of Nijmegen 1678"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Ryswick",
+   "aliases": [
+    "Ryswick",
+    "Treaty of Rijswijk",
+    "Ryswick Treaty",
+    "Peace of Ryswick",
+    "Treaty of Ryswick 1697"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of the Pyrenees",
+   "aliases": [
+    "the Pyrenees Treaty",
+    "Peace of the Pyrenees",
+    "Treaty of the Pyrenees 1659"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Peace of Augsburg",
+   "aliases": [
+    "Augsburg",
+    "Treaty of Augsburg",
+    "Peace of Augsburg 1555"
+   ],
+   "tier": 3,
+   "lore": "It let each German prince choose his realm's religion, Catholic or Lutheran."
+  },
+  {
+   "answer": "Treaty of Troyes",
+   "aliases": [
+    "Troyes",
+    "Troyes Treaty",
+    "Peace of Troyes",
+    "Treaty of Troyes 1420"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Verdun",
+   "aliases": [
+    "Verdun Treaty",
+    "Peace of Verdun",
+    "Treaty of Verdun 843"
+   ],
+   "tier": 3,
+   "lore": "In 843 it split Charlemagne's empire between three of his grandsons."
+  },
+  {
+   "answer": "Treaty of Wedmore",
+   "aliases": [
+    "Wedmore",
+    "Wedmore Treaty",
+    "Peace of Wedmore",
+    "Treaty of Wedmore 878"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Edinburgh–Northampton",
+   "aliases": [
+    "Treaty of Northampton",
+    "Edinburgh–Northampton Treaty",
+    "Peace of Edinburgh–Northampton",
+    "Treaty of Edinburgh–Northampton 1328"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Limerick",
+   "aliases": [
+    "Limerick",
+    "Limerick Treaty",
+    "Peace of Limerick",
+    "Treaty of Limerick 1691"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Kiel",
+   "aliases": [
+    "Kiel Treaty",
+    "Peace of Kiel",
+    "Treaty of Kiel 1814"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Frankfurt",
+   "aliases": [
+    "Frankfurt Treaty",
+    "Peace of Frankfurt",
+    "Treaty of Frankfurt 1871"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of San Stefano",
+   "aliases": [
+    "San Stefano",
+    "San Stefano Treaty",
+    "Peace of San Stefano",
+    "Treaty of San Stefano 1878"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Berlin",
+   "aliases": [
+    "Congress of Berlin",
+    "Treaty of Berlin 1878",
+    "Berlin Treaty",
+    "Peace of Berlin"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Vereeniging",
+   "aliases": [
+    "Vereeniging",
+    "Vereeniging Treaty",
+    "Peace of Vereeniging",
+    "Treaty of Vereeniging 1902"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Kanagawa",
+   "aliases": [
+    "Convention of Kanagawa",
+    "Kanagawa",
+    "Kanagawa Treaty",
+    "Peace of Kanagawa",
+    "Treaty of Kanagawa 1854"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of San Francisco",
+   "aliases": [
+    "Treaty of Peace with Japan",
+    "San Francisco Peace Treaty",
+    "San Francisco Treaty",
+    "Peace of San Francisco",
+    "Treaty of San Francisco 1951"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Jay Treaty",
+   "aliases": [
+    "Jay's Treaty",
+    "Jay Treaty 1794"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Adams–Onís Treaty",
+   "aliases": [
+    "Transcontinental Treaty",
+    "Florida Treaty",
+    "Adams–Onís",
+    "Adams–Onís Treaty 1819"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Louisiana Purchase",
+   "aliases": [
+    "Louisiana Purchase Treaty",
+    "Louisiana Purchase 1803"
+   ],
+   "tier": 3,
+   "lore": "In 1803 the United States bought it from France, and roughly doubled in size."
+  },
+  {
+   "answer": "Oregon Treaty",
+   "aliases": [
+    "Oregon Treaty 1846"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Fort Laramie",
+   "aliases": [
+    "Fort Laramie Treaty",
+    "Treaty of Fort Laramie 1851",
+    "Treaty of Fort Laramie 1868",
+    "Peace of Fort Laramie"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Greenville",
+   "aliases": [
+    "Greenville Treaty",
+    "Peace of Greenville",
+    "Treaty of Greenville 1795"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Helsinki Accords",
+   "aliases": [
+    "Helsinki Final Act",
+    "Helsinki Declaration",
+    "Helsinki Agreement",
+    "Helsinki Accords 1975"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Antarctic Treaty",
+   "aliases": [
+    "Antarctic Treaty 1959"
+   ],
+   "tier": 3,
+   "lore": "Signed in 1959, it set aside a whole continent for peace and science."
+  },
+  {
+   "answer": "Outer Space Treaty",
+   "aliases": [
+    "Outer Space Treaty 1967"
+   ],
+   "tier": 3,
+   "lore": "It bans nuclear weapons from orbit, and says no nation may claim the Moon."
+  },
+  {
+   "answer": "Partial Test Ban Treaty",
+   "aliases": [
+    "Test Ban Treaty",
+    "Limited Test Ban Treaty",
+    "Nuclear Test Ban Treaty",
+    "Partial Test Ban Treaty 1963"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "SALT",
+   "aliases": [
+    "SALT I",
+    "SALT II",
+    "SALT treaties",
+    "Strategic Arms Limitation Treaty",
+    "Strategic Arms Limitation Talks"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "START",
+   "aliases": [
+    "START I",
+    "START II",
+    "Strategic Arms Reduction Treaty"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "INF Treaty",
+   "aliases": [
+    "Intermediate-Range Nuclear Forces Treaty",
+    "INF Treaty 1987"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Montreal Protocol",
+   "aliases": [
+    "Montreal Protocol 1987"
+   ],
+   "tier": 3,
+   "lore": "It phased out the chemicals destroying the ozone layer, and every member of the UN has ratified it."
+  },
+  {
+   "answer": "Charter of the United Nations",
+   "aliases": [
+    "UN Charter",
+    "United Nations Charter",
+    "UN Charter 1945"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Nice",
+   "aliases": [
+    "Nice Treaty",
+    "Peace of Nice",
+    "Treaty of Nice 2001"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Amsterdam",
+   "aliases": [
+    "Amsterdam Treaty",
+    "Peace of Amsterdam",
+    "Treaty of Amsterdam 1997"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Rome Statute",
+   "aliases": [
+    "Rome Statute of the International Criminal Court",
+    "Statute of Rome",
+    "ICC Statute",
+    "Rome Statute 1998"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Potsdam Agreement",
+   "aliases": [
+    "Potsdam",
+    "Potsdam Accord",
+    "Potsdam Accords",
+    "Potsdam Conference",
+    "Potsdam Agreement 1945"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Washington Naval Treaty",
+   "aliases": [
+    "Five-Power Treaty",
+    "Washington Naval Agreement",
+    "Washington Naval Treaty 1922"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Triple Entente",
+   "aliases": [
+    "Triple Entente 1907"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Triple Alliance",
+   "aliases": [
+    "Triple Alliance 1882"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Lateran Treaty",
+   "aliases": [
+    "Lateran Pacts",
+    "Lateran Accords",
+    "Lateran Treaty 1929"
+   ],
+   "tier": 3,
+   "lore": "In 1929 it created the Vatican City State, the smallest country in the world."
+  },
+  {
+   "answer": "Élysée Treaty",
+   "aliases": [
+    "Franco-German Treaty of Friendship",
+    "Élysée Treaty 1963"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Karlowitz",
+   "aliases": [
+    "Karlowitz",
+    "Treaty of Carlowitz",
+    "Karlowitz Treaty",
+    "Peace of Karlowitz",
+    "Treaty of Karlowitz 1699"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Küçük Kaynarca",
+   "aliases": [
+    "Kucuk Kaynarca",
+    "Treaty of Kuchuk Kainarji",
+    "Küçük Kaynarca Treaty",
+    "Peace of Küçük Kaynarca",
+    "Treaty of Küçük Kaynarca 1774"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Nystad",
+   "aliases": [
+    "Nystad",
+    "Treaty of Uusikaupunki",
+    "Nystad Treaty",
+    "Peace of Nystad",
+    "Treaty of Nystad 1721"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Brexit Withdrawal Agreement",
+   "aliases": [
+    "Withdrawal Agreement",
+    "Brexit deal",
+    "Brexit Withdrawal Accord",
+    "Brexit Withdrawal Accords"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Abraham Accords",
+   "aliases": [
+    "Abraham Agreement",
+    "Abraham Accords 2020"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Joint Comprehensive Plan of Action",
+   "aliases": [
+    "JCPOA",
+    "Iran nuclear deal",
+    "Iran deal"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sino-British Joint Declaration",
+   "aliases": [
+    "Sino-British Joint Declaration 1984"
+   ],
+   "tier": 3,
+   "lore": "Signed in 1984, it set the terms for Hong Kong's return to China in 1997."
+  },
+  {
+   "answer": "AUKUS",
+   "aliases": [
+    "AUKUS pact",
+    "AUKUS 2021"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Armistice of 11 November 1918",
+   "aliases": [
+    "Armistice of Compiegne",
+    "1918 Armistice",
+    "Armistice of 1918",
+    "Armistice"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "General Act of the Berlin Conference",
+   "aliases": [
+    "Berlin Conference",
+    "General Act of Berlin",
+    "Berlin Act"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Breda",
+   "aliases": [
+    "Breda Treaty",
+    "Peace of Breda",
+    "Treaty of Breda 1667"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Treaty of Dover",
+   "aliases": [
+    "Secret Treaty of Dover",
+    "Dover Treaty",
+    "Peace of Dover",
+    "Treaty of Dover 1670"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Paris Peace Accords",
+   "aliases": [
+    "Paris Peace Accord",
+    "Paris Peace Agreement",
+    "Paris Peace Agreements",
+    "Paris Peace Accords 1973",
+    "Treaty of Paris 1973",
+    "Vietnam peace accords",
+    "Agreement on Ending the War and Restoring Peace in Viet Nam"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "European Convention on Human Rights",
+   "aliases": [
+    "ECHR",
+    "Convention for the Protection of Human Rights and Fundamental Freedoms",
+    "European Convention on Human Rights 1950"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Refugee Convention",
+   "aliases": [
+    "1951 Refugee Convention",
+    "Refugee Convention 1951",
+    "UN Refugee Convention",
+    "Convention Relating to the Status of Refugees",
+    "Geneva Refugee Convention"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Anglo-Japanese Alliance",
+   "tier": 4
+  },
+  {
+   "answer": "Franco-American Alliance",
+   "aliases": [
+    "Treaty of Alliance 1778",
+    "Treaty of Amity and Commerce"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Dual Alliance",
+   "tier": 4
+  },
+  {
+   "answer": "Reinsurance Treaty",
+   "tier": 4
+  },
+  {
+   "answer": "Holy Alliance",
+   "tier": 4
+  },
+  {
+   "answer": "Franco-Russian Alliance",
+   "tier": 4
+  },
+  {
+   "answer": "Anglo-Russian Convention",
+   "aliases": [
+    "Anglo-Russian Entente"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Brétigny",
+   "aliases": [
+    "Brétigny Treaty",
+    "Peace of Brétigny"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Picquigny",
+   "aliases": [
+    "Picquigny",
+    "Picquigny Treaty",
+    "Peace of Picquigny"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peace of Cateau-Cambrésis",
+   "aliases": [
+    "Cateau-Cambresis",
+    "Treaty of Cateau-Cambrésis"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Madrid",
+   "aliases": [
+    "Treaty of Madrid 1526",
+    "Treaty of Madrid 1621",
+    "Treaty of Madrid 1630",
+    "Treaty of Madrid 1670",
+    "Treaty of Madrid 1750",
+    "Treaty of Madrid 1801",
+    "Treaty of Madrid 1880",
+    "Madrid Treaty",
+    "Peace of Madrid"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Westminster",
+   "aliases": [
+    "Treaty of Westminster 1153",
+    "Treaty of Westminster 1527",
+    "Treaty of Westminster 1654",
+    "Treaty of Westminster 1674",
+    "Treaty of Westminster 1756",
+    "Westminster Treaty",
+    "Peace of Westminster",
+    "Treaty of Wallingford",
+    "Treaty of Winchester"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Fontainebleau",
+   "aliases": [
+    "Treaty of Fontainebleau 1631",
+    "Treaty of Fontainebleau 1679",
+    "Treaty of Fontainebleau 1743",
+    "Treaty of Fontainebleau 1762",
+    "Treaty of Fontainebleau 1785",
+    "Treaty of Fontainebleau 1807",
+    "Treaty of Fontainebleau 1814",
+    "Fontainebleau Treaty",
+    "Peace of Fontainebleau"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Hubertusburg",
+   "aliases": [
+    "Hubertusburg",
+    "Hubertusburg Treaty",
+    "Peace of Hubertusburg"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Basel",
+   "aliases": [
+    "Treaty of Basel 1499",
+    "Treaty of Basel 1795",
+    "Basel Treaty",
+    "Peace of Basel"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Lunéville",
+   "aliases": [
+    "Luneville",
+    "Lunéville Treaty",
+    "Peace of Lunéville"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Pressburg",
+   "aliases": [
+    "Pressburg",
+    "Pressburg Treaty",
+    "Peace of Pressburg"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Schönbrunn",
+   "aliases": [
+    "Schonbrunn",
+    "Schönbrunn Treaty",
+    "Peace of Schönbrunn"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Adrianople",
+   "aliases": [
+    "Treaty of Edirne",
+    "Adrianople Treaty",
+    "Peace of Adrianople"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Bucharest",
+   "aliases": [
+    "Treaty of Bucharest 1812",
+    "Treaty of Bucharest 1886",
+    "Treaty of Bucharest 1913",
+    "Treaty of Bucharest 1918",
+    "Bucharest Treaty",
+    "Peace of Bucharest"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Passarowitz",
+   "aliases": [
+    "Passarowitz",
+    "Passarowitz Treaty",
+    "Peace of Passarowitz"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Roskilde",
+   "aliases": [
+    "Roskilde",
+    "Roskilde Treaty",
+    "Peace of Roskilde"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peace of Thorn",
+   "aliases": [
+    "Treaty of Thorn",
+    "Peace of Thorn 1411",
+    "Peace of Thorn 1466"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Union of Lublin",
+   "tier": 4
+  },
+  {
+   "answer": "Union of Utrecht",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Aigun",
+   "aliases": [
+    "Aigun",
+    "Aigun Treaty",
+    "Peace of Aigun"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Convention of Peking",
+   "aliases": [
+    "Treaty of Peking",
+    "Convention of Beijing"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Tientsin",
+   "aliases": [
+    "Treaty of Tianjin",
+    "Tientsin",
+    "Tientsin Treaty",
+    "Peace of Tientsin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Ganghwa",
+   "aliases": [
+    "Ganghwa Treaty",
+    "Japan-Korea Treaty of 1876",
+    "Peace of Ganghwa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Japan–Korea Annexation Treaty",
+   "aliases": [
+    "Japan-Korea Treaty of 1910",
+    "Annexation Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Simla Agreement",
+   "aliases": [
+    "Simla Accord",
+    "Simla Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Indus Waters Treaty",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Allahabad",
+   "aliases": [
+    "Allahabad",
+    "Allahabad Treaty",
+    "Peace of Allahabad"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Hudaybiyyah",
+   "aliases": [
+    "Hudaybiyyah",
+    "Hudaybiyyah Treaty",
+    "Peace of Hudaybiyyah"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Jaffa",
+   "aliases": [
+    "Treaty of Ramla",
+    "Jaffa Treaty",
+    "Peace of Jaffa"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Apamea",
+   "aliases": [
+    "Peace of Apamea",
+    "Apamea Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peace of Nicias",
+   "aliases": [
+    "Treaty of Nicias"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Concordat of Worms",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Saint-Clair-sur-Epte",
+   "aliases": [
+    "Saint-Clair-sur-Epte Treaty",
+    "Peace of Saint-Clair-sur-Epte"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Peace of Lodi",
+   "aliases": [
+    "Treaty of Lodi"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Auld Alliance",
+   "aliases": [
+    "Treaty of Paris 1295",
+    "Treaty of Corbeil"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Methuen",
+   "aliases": [
+    "Methuen Treaty",
+    "Port Wine Treaty",
+    "Peace of Methuen"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hay–Bunau-Varilla Treaty",
+   "aliases": [
+    "Hay–Bunau-Varilla"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Torrijos–Carter Treaties",
+   "aliases": [
+    "Panama Canal Treaties",
+    "Torrijos-Carter Treaty",
+    "Torrijos–Carter"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Córdoba",
+   "aliases": [
+    "Córdoba Treaty",
+    "Peace of Córdoba"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Velasco",
+   "aliases": [
+    "Velasco Treaty",
+    "Peace of Velasco"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Tlatelolco",
+   "aliases": [
+    "Tlatelolco",
+    "Tlatelolco Treaty",
+    "Peace of Tlatelolco"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gadsden Purchase",
+   "aliases": [
+    "Treaty of La Mesilla"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Alaska Purchase",
+   "aliases": [
+    "Treaty of Cession"
+   ],
+   "tier": 4,
+   "lore": "Russia sold Alaska to the United States in 1867 for $7.2 million."
+  },
+  {
+   "answer": "Webster–Ashburton Treaty",
+   "aliases": [
+    "Webster–Ashburton"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Rush–Bagot Agreement",
+   "aliases": [
+    "Rush-Bagot Treaty",
+    "Rush–Bagot",
+    "Rush–Bagot Accord",
+    "Rush–Bagot Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Pinckney's Treaty",
+   "aliases": [
+    "Treaty of San Lorenzo",
+    "Treaty of Madrid 1795"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of New Echota",
+   "aliases": [
+    "New Echota Treaty",
+    "Peace of New Echota"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "London Naval Treaty",
+   "tier": 4
+  },
+  {
+   "answer": "Anglo-German Naval Agreement",
+   "aliases": [
+    "Anglo-German Naval Accord",
+    "Anglo-German Naval Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Yalta Agreement",
+   "aliases": [
+    "Yalta",
+    "Yalta Agreements",
+    "Yalta Accord",
+    "Yalta Accords",
+    "Yalta Conference"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Bretton Woods Agreement",
+   "aliases": [
+    "Bretton Woods",
+    "Bretton Woods Agreements",
+    "Bretton Woods Accord",
+    "Bretton Woods Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "General Agreement on Tariffs and Trade",
+   "aliases": [
+    "GATT"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Brussels",
+   "aliases": [
+    "Brussels Pact",
+    "Treaty of Brussels 1948",
+    "Brussels Treaty",
+    "Peace of Brussels"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Dunkirk",
+   "aliases": [
+    "Dunkirk Treaty",
+    "Peace of Dunkirk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Austrian State Treaty",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Warsaw (1970)",
+   "aliases": [
+    "Warsaw Treaty 1970"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Two Plus Four Agreement",
+   "aliases": [
+    "Two Plus Four Treaty",
+    "Treaty on the Final Settlement with Respect to Germany",
+    "Two Plus Four Accord",
+    "Two Plus Four Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "ANZUS",
+   "aliases": [
+    "ANZUS Treaty",
+    "ANZUS Pact"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Manila Pact",
+   "aliases": [
+    "Southeast Asia Collective Defense Treaty",
+    "SEATO Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Baghdad Pact",
+   "tier": 4
+  },
+  {
+   "answer": "Egypt–Israel Peace Treaty",
+   "aliases": [
+    "Egypt-Israel Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sunningdale Agreement",
+   "aliases": [
+    "Sunningdale",
+    "Sunningdale Accord",
+    "Sunningdale Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Anglo-Irish Agreement",
+   "aliases": [
+    "Hillsborough Agreement",
+    "Anglo-Irish Accord",
+    "Anglo-Irish Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Single European Act",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Riga",
+   "aliases": [
+    "Peace of Riga",
+    "Treaty of Riga 1921",
+    "Riga Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Évian Accords",
+   "aliases": [
+    "Evian",
+    "Évian Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lancaster House Agreement",
+   "aliases": [
+    "Lancaster House Accord",
+    "Lancaster House Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Korean Armistice Agreement",
+   "aliases": [
+    "Korean Armistice",
+    "Korean Armistice Accord",
+    "Korean Armistice Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Comprehensive Nuclear-Test-Ban Treaty",
+   "aliases": [
+    "CTBT",
+    "Comprehensive Test Ban Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "New START",
+   "tier": 4
+  },
+  {
+   "answer": "ABM Treaty",
+   "aliases": [
+    "Anti-Ballistic Missile Treaty"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chemical Weapons Convention",
+   "aliases": [
+    "CWC"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ottawa Treaty",
+   "aliases": [
+    "Mine Ban Treaty",
+    "Landmine Treaty",
+    "Ottawa Convention"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "UNCLOS",
+   "aliases": [
+    "Law of the Sea",
+    "United Nations Convention on the Law of the Sea",
+    "Law of the Sea Convention"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hague Conventions",
+   "aliases": [
+    "Hague Convention"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Geneva Protocol",
+   "tier": 4
+  },
+  {
+   "answer": "Geneva Accords",
+   "aliases": [
+    "Geneva Agreements",
+    "Geneva Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Minsk agreements",
+   "aliases": [
+    "Minsk Protocol",
+    "Minsk II",
+    "Minsk"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Budapest Memorandum",
+   "tier": 4
+  },
+  {
+   "answer": "Belavezha Accords",
+   "aliases": [
+    "Belavezha Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "North American Free Trade Agreement",
+   "aliases": [
+    "NAFTA",
+    "North American Free Trade Accord",
+    "North American Free Trade Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Plaza Accord",
+   "aliases": [
+    "Plaza Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Doha Agreement",
+   "aliases": [
+    "Doha Accord",
+    "Doha Accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Windsor Framework",
+   "aliases": [
+    "Windsor"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Northern Ireland Protocol",
+   "aliases": [
+    "Protocol on Ireland and Northern Ireland",
+    "NI Protocol",
+    "Irish Protocol",
+    "Protocol on Ireland/Northern Ireland"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Heligoland–Zanzibar Treaty",
+   "aliases": [
+    "Heligoland–Zanzibar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Wuchale",
+   "aliases": [
+    "Treaty of Ucciale",
+    "Wuchale Treaty",
+    "Peace of Wuchale"
+   ],
+   "tier": 4,
+   "lore": "Its Italian and Amharic texts differed on one clause, and the quarrel led to war and Italy's defeat at Adwa."
+  },
+  {
+   "answer": "Treaty establishing a Constitution for Europe",
+   "aliases": [
+    "European Constitution",
+    "EU Constitution",
+    "Constitutional Treaty",
+    "European Constitutional Treaty",
+    "Constitution for Europe"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Tripoli",
+   "aliases": [
+    "Tripoli Treaty",
+    "Treaty of Peace and Friendship 1796",
+    "Peace of Tripoli"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Convention on the Rights of the Child",
+   "aliases": [
+    "UNCRC",
+    "UN Convention on the Rights of the Child",
+    "United Nations Convention on the Rights of the Child"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Genocide Convention",
+   "aliases": [
+    "Convention on the Prevention and Punishment of the Crime of Genocide",
+    "UN Genocide Convention"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "UNFCCC",
+   "aliases": [
+    "United Nations Framework Convention on Climate Change",
+    "UN Framework Convention on Climate Change",
+    "Framework Convention on Climate Change",
+    "Climate Change Convention"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "CPTPP",
+   "aliases": [
+    "Comprehensive and Progressive Agreement for Trans-Pacific Partnership",
+    "Trans-Pacific Partnership",
+    "TPP",
+    "TPP-11",
+    "Trans-Pacific Partnership Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "US–Japan Security Treaty",
+   "aliases": [
+    "Treaty of Mutual Cooperation and Security between the United States and Japan",
+    "Japan–US Security Treaty",
+    "Anpo"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Montreux Convention",
+   "aliases": [
+    "Montreux Convention Regarding the Regime of the Straits"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "League of the Three Emperors",
+   "aliases": [
+    "Dreikaiserbund",
+    "Three Emperors' League",
+    "League of Three Emperors"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Covenant of the League of Nations",
+   "aliases": [
+    "League of Nations Covenant",
+    "League Covenant",
+    "Covenant of the League"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Glasgow Climate Pact",
+   "aliases": [
+    "Glasgow Pact",
+    "COP26 agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Berne Convention",
+   "aliases": [
+    "Bern Convention",
+    "Berne Convention for the Protection of Literary and Artistic Works"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Artemis Accords",
+   "aliases": [
+    "Artemis Accord",
+    "Artemis Agreement"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Boxer Protocol",
+   "aliases": [
+    "Xinchou Treaty",
+    "Boxer Protocol of 1901"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Colombian peace agreement",
+   "aliases": [
+    "Colombian peace accord",
+    "Colombian peace deal",
+    "FARC peace deal",
+    "FARC peace agreement",
+    "Havana peace accords"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Great Peace of Montreal",
+   "aliases": [
+    "Grande Paix de Montréal",
+    "Peace of Montreal"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sino-Portuguese Joint Declaration",
+   "aliases": [
+    "Joint Declaration on the Question of Macau"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Kalmar Union",
+   "aliases": [
+    "Union of Kalmar",
+    "Treaty of Kalmar"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Poona Pact",
+   "aliases": [
+    "Pune Pact",
+    "Poona Pact of 1932"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Lucknow Pact",
+   "aliases": [
+    "Lucknow Pact of 1916"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gandhi–Irwin Pact",
+   "aliases": [
+    "Gandhi–Irwin"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of London (1604)",
+   "tier": 4
+  },
+  {
+   "answer": "Treaty of Windsor (1175)",
+   "aliases": [
+    "1175 Treaty of Windsor",
+    "Treaty of Windsor",
+    "Windsor Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Windsor (1899)",
+   "aliases": [
+    "1899 Treaty of Windsor"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Prague (1635)",
+   "aliases": [
+    "Treaty of Prague 1635",
+    "Prague Treaty 1635",
+    "Peace of Prague"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Prague (1866)",
+   "aliases": [
+    "Peace of Prague 1866",
+    "Prague Treaty 1866",
+    "Prague",
+    "Treaty of Prague",
+    "Prague Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Perth",
+   "aliases": [
+    "Perth Treaty",
+    "Peace of Perth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Montgomery",
+   "aliases": [
+    "Montgomery Treaty",
+    "Peace of Montgomery"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Aberconwy",
+   "aliases": [
+    "Aberconwy Treaty",
+    "Peace of Aberconwy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Falaise",
+   "aliases": [
+    "Falaise Treaty",
+    "Peace of Falaise"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of York",
+   "aliases": [
+    "York Treaty",
+    "Peace of York"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Le Goulet",
+   "aliases": [
+    "Le Goulet Treaty",
+    "Peace of Le Goulet"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Lambeth",
+   "aliases": [
+    "Lambeth Treaty",
+    "Peace of Lambeth"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Étaples",
+   "aliases": [
+    "Étaples Treaty",
+    "Peace of Étaples"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Medina del Campo",
+   "aliases": [
+    "Medina del Campo Treaty",
+    "Peace of Medina del Campo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Nonsuch",
+   "aliases": [
+    "Nonsuch Treaty",
+    "Peace of Nonsuch"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Greenwich",
+   "aliases": [
+    "Greenwich Treaty",
+    "Peace of Greenwich"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Berwick",
+   "aliases": [
+    "Berwick Treaty",
+    "Peace of Berwick"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Edinburgh",
+   "aliases": [
+    "Edinburgh Treaty",
+    "Peace of Edinburgh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Perpetual Peace",
+   "aliases": [
+    "Perpetual Peace Treaty",
+    "Peace of Perpetual Peace"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Hampton Court",
+   "aliases": [
+    "Hampton Court Treaty",
+    "Peace of Hampton Court"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Ripon",
+   "aliases": [
+    "Ripon Treaty",
+    "Peace of Ripon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Solemn League and Covenant",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Arras",
+   "aliases": [
+    "Treaty of Arras 1435",
+    "Treaty of Arras 1482",
+    "Arras Treaty",
+    "Peace of Arras"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Cambrai",
+   "aliases": [
+    "Ladies' Peace",
+    "Paix des Dames",
+    "Cambrai Treaty",
+    "Peace of Cambrai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Noyon",
+   "aliases": [
+    "Noyon Treaty",
+    "Peace of Noyon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "League of Cambrai",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Bärwalde",
+   "aliases": [
+    "Bärwalde Treaty",
+    "Peace of Bärwalde"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Seville",
+   "aliases": [
+    "Seville Treaty",
+    "Peace of Seville"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Dresden",
+   "aliases": [
+    "Dresden Treaty",
+    "Peace of Dresden"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Füssen",
+   "aliases": [
+    "Füssen Treaty",
+    "Peace of Füssen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of San Ildefonso",
+   "aliases": [
+    "San Ildefonso Treaty",
+    "Peace of San Ildefonso"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Aranjuez",
+   "aliases": [
+    "Aranjuez Treaty",
+    "Peace of Aranjuez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Valençay",
+   "aliases": [
+    "Valençay Treaty",
+    "Peace of Valençay"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Chaumont",
+   "aliases": [
+    "Chaumont Treaty",
+    "Peace of Chaumont"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Quadruple Alliance",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Zurich",
+   "aliases": [
+    "Zurich Treaty",
+    "Peace of Zurich"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gastein Convention",
+   "aliases": [
+    "Convention of Gastein"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Turin",
+   "aliases": [
+    "Treaty of Turin 1381",
+    "Treaty of Turin 1696",
+    "Treaty of Turin 1860",
+    "Turin Treaty",
+    "Peace of Turin"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Constantinople",
+   "aliases": [
+    "Treaty of Constantinople 1479",
+    "Treaty of Constantinople 1533",
+    "Treaty of Constantinople 1590",
+    "Treaty of Constantinople 1700",
+    "Treaty of Constantinople 1724",
+    "Treaty of Constantinople 1832",
+    "Treaty of Constantinople 1897",
+    "Treaty of Constantinople 1913",
+    "Constantinople Treaty",
+    "Peace of Constantinople"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Unkiar Skelessi",
+   "aliases": [
+    "Treaty of Hunkar Iskelesi",
+    "Unkiar Skelessi Treaty",
+    "Peace of Unkiar Skelessi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Jassy",
+   "aliases": [
+    "Treaty of Iasi",
+    "Jassy Treaty",
+    "Peace of Jassy"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Belgrade",
+   "aliases": [
+    "Treaty of Belgrade 1739",
+    "Belgrade Treaty",
+    "Peace of Belgrade"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Zsitvatorok",
+   "aliases": [
+    "Peace of Zsitvatorok",
+    "Zsitvatorok Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Amasya",
+   "aliases": [
+    "Treaty of Amasya"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Zuhab",
+   "aliases": [
+    "Treaty of Qasr-e Shirin",
+    "Zuhab Treaty",
+    "Peace of Zuhab"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Erzurum",
+   "aliases": [
+    "Erzurum Treaty",
+    "Peace of Erzurum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Stolbovo",
+   "aliases": [
+    "Stolbovo Treaty",
+    "Peace of Stolbovo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Oliva",
+   "aliases": [
+    "Oliva Treaty",
+    "Peace of Oliva"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Andrusovo",
+   "aliases": [
+    "Andrusovo Treaty",
+    "Peace of Andrusovo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pereyaslav Agreement",
+   "aliases": [
+    "Treaty of Pereyaslav",
+    "Pereyaslav Accord",
+    "Pereyaslav Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Åbo",
+   "aliases": [
+    "Treaty of Turku",
+    "Åbo Treaty",
+    "Peace of Åbo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Fredrikshamn",
+   "aliases": [
+    "Fredrikshamn Treaty",
+    "Peace of Fredrikshamn"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Melno",
+   "aliases": [
+    "Melno Treaty",
+    "Peace of Melno"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Kalisz",
+   "aliases": [
+    "Kalisz Treaty",
+    "Peace of Kalisz"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Union of Krewo",
+   "aliases": [
+    "Union of Kreva"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Venice",
+   "aliases": [
+    "Treaty of Venice"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Constance",
+   "aliases": [
+    "Treaty of Constance"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Nymphaeum",
+   "aliases": [
+    "Nymphaeum Treaty",
+    "Peace of Nymphaeum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Devol",
+   "aliases": [
+    "Devol Treaty",
+    "Peace of Devol"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Mersen",
+   "aliases": [
+    "Mersen Treaty",
+    "Peace of Mersen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Ribemont",
+   "aliases": [
+    "Ribemont Treaty",
+    "Peace of Ribemont"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Alfred and Guthrum",
+   "aliases": [
+    "Alfred and Guthrum Treaty",
+    "Peace of Alfred and Guthrum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Granada",
+   "aliases": [
+    "Granada Treaty",
+    "Peace of Granada"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Tunis",
+   "aliases": [
+    "Tunis Treaty",
+    "Peace of Tunis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anglo-Portuguese Alliance",
+   "aliases": [
+    "Anglo-Portuguese Treaty of 1373",
+    "Treaty of London 1373"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Alcáçovas",
+   "aliases": [
+    "Alcáçovas Treaty",
+    "Peace of Alcáçovas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Zaragoza",
+   "aliases": [
+    "Treaty of Saragossa",
+    "Zaragoza Treaty",
+    "Peace of Zaragoza"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Callias",
+   "aliases": [
+    "Treaty of Callias"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thirty Years' Peace",
+   "tier": 5
+  },
+  {
+   "answer": "King's Peace",
+   "aliases": [
+    "Peace of Antalcidas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Phoenice",
+   "aliases": [
+    "Peace of Phoenice",
+    "Phoenice Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Lutatius",
+   "aliases": [
+    "Lutatius Treaty",
+    "Peace of Lutatius"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Dardanos",
+   "aliases": [
+    "Peace of Dardanos",
+    "Dardanos Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Brundisium",
+   "aliases": [
+    "Brundisium Treaty",
+    "Peace of Brundisium"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Misenum",
+   "aliases": [
+    "Misenum Treaty",
+    "Peace of Misenum"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Nisibis",
+   "aliases": [
+    "Treaty of Nisibis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Margus",
+   "aliases": [
+    "Margus Treaty",
+    "Peace of Margus"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eternal Peace",
+   "aliases": [
+    "Perpetual Peace of 532"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Kyakhta",
+   "aliases": [
+    "Kyakhta Treaty",
+    "Peace of Kyakhta"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Wanghia",
+   "aliases": [
+    "Wanghia Treaty",
+    "Peace of Wanghia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Whampoa",
+   "aliases": [
+    "Whampoa Treaty",
+    "Peace of Whampoa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of the Bogue",
+   "aliases": [
+    "the Bogue Treaty",
+    "Peace of the Bogue"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Harris Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Shimoda",
+   "aliases": [
+    "Shimoda Treaty",
+    "Peace of Shimoda"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Japan–Korea Treaty of 1905",
+   "aliases": [
+    "Eulsa Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Taipei",
+   "aliases": [
+    "Taipei Treaty",
+    "Peace of Taipei"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sino-Soviet Treaty of Friendship",
+   "tier": 5
+  },
+  {
+   "answer": "Panchsheel",
+   "aliases": [
+    "Five Principles of Peaceful Coexistence"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tashkent Declaration",
+   "aliases": [
+    "Tashkent Agreement",
+    "Tashkent Accord"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Simla Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Sugauli",
+   "aliases": [
+    "Sugauli Treaty",
+    "Peace of Sugauli"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Salbai",
+   "aliases": [
+    "Salbai Treaty",
+    "Peace of Salbai"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Bassein",
+   "aliases": [
+    "Bassein Treaty",
+    "Peace of Bassein"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Seringapatam",
+   "aliases": [
+    "Seringapatam Treaty",
+    "Peace of Seringapatam",
+    "Treaty of Srirangapatna",
+    "Treaty of Srirangapatnam"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Mangalore",
+   "aliases": [
+    "Mangalore Treaty",
+    "Peace of Mangalore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Amritsar",
+   "aliases": [
+    "Treaty of Amritsar 1809",
+    "Treaty of Amritsar 1846",
+    "Amritsar Treaty",
+    "Peace of Amritsar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Lahore",
+   "aliases": [
+    "Treaty of Lahore 1846",
+    "Lahore Treaty",
+    "Peace of Lahore"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Gandamak",
+   "aliases": [
+    "Gandamak Treaty",
+    "Peace of Gandamak"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Durand Line Agreement",
+   "aliases": [
+    "Durand Line Accord",
+    "Durand Line Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Rawalpindi",
+   "aliases": [
+    "Rawalpindi Treaty",
+    "Peace of Rawalpindi"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Jeddah",
+   "aliases": [
+    "Jeddah Treaty",
+    "Peace of Jeddah"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anglo-Egyptian Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Algiers Agreement",
+   "aliases": [
+    "Algiers Accord",
+    "Algiers Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Taif Agreement",
+   "aliases": [
+    "Taif Accord",
+    "Taif Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Israel–Jordan Peace Treaty",
+   "aliases": [
+    "Wadi Araba Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Tartu",
+   "aliases": [
+    "Tartu Treaty",
+    "Peace of Tartu"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Moscow",
+   "aliases": [
+    "Moscow Peace Treaty",
+    "Strategic Offensive Reductions Treaty",
+    "Treaty of Moscow 1920",
+    "Treaty of Moscow 1921",
+    "Treaty of Moscow 1940",
+    "Treaty of Moscow 1970",
+    "Treaty of Moscow 2002"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Japan–Soviet Neutrality Pact",
+   "aliases": [
+    "Soviet-Japanese Neutrality Pact"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Stresa Front",
+   "tier": 5
+  },
+  {
+   "answer": "Hoare–Laval Pact",
+   "aliases": [
+    "Hoare–Laval"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Anglo-Polish Agreement",
+   "aliases": [
+    "Anglo-Polish Accord",
+    "Anglo-Polish Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Fez",
+   "aliases": [
+    "Fez Treaty",
+    "Peace of Fez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Bardo",
+   "aliases": [
+    "Bardo Treaty",
+    "Peace of Bardo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Tafna",
+   "aliases": [
+    "Tafna Treaty",
+    "Peace of Tafna"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Addis Ababa",
+   "aliases": [
+    "Addis Ababa Treaty",
+    "Peace of Addis Ababa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nkomati Accord",
+   "aliases": [
+    "Nkomati Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arusha Accords",
+   "aliases": [
+    "Arusha Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lusaka Protocol",
+   "tier": 5
+  },
+  {
+   "answer": "Comprehensive Peace Agreement",
+   "aliases": [
+    "Comprehensive Peace Accord",
+    "Comprehensive Peace Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Abuja",
+   "aliases": [
+    "Abuja Treaty",
+    "Peace of Abuja"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Ancón",
+   "aliases": [
+    "Ancón Treaty",
+    "Peace of Ancón"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Petrópolis",
+   "aliases": [
+    "Petrópolis Treaty",
+    "Peace of Petrópolis"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Montevideo",
+   "aliases": [
+    "Treaty of Montevideo 1828",
+    "Treaty of Montevideo 1960",
+    "Treaty of Montevideo 1980",
+    "Montevideo Treaty",
+    "Peace of Montevideo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Asunción",
+   "aliases": [
+    "Asunción Treaty",
+    "Peace of Asunción"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Chaguaramas",
+   "aliases": [
+    "Chaguaramas Treaty",
+    "Peace of Chaguaramas"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Esquipulas Peace Agreement",
+   "aliases": [
+    "Esquipulas II",
+    "Esquipulas Peace Accord",
+    "Esquipulas Peace Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Clayton–Bulwer Treaty",
+   "aliases": [
+    "Clayton–Bulwer"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Hay–Pauncefote Treaty",
+   "aliases": [
+    "Hay–Pauncefote"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Washington",
+   "aliases": [
+    "Treaty of Washington 1826",
+    "Treaty of Washington 1871"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rio Treaty",
+   "aliases": [
+    "Inter-American Treaty of Reciprocal Assistance"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "USMCA",
+   "aliases": [
+    "United States-Mexico-Canada Agreement",
+    "CUSMA"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Fort Stanwix",
+   "aliases": [
+    "Fort Stanwix Treaty",
+    "Peace of Fort Stanwix"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Hopewell",
+   "aliases": [
+    "Hopewell Treaty",
+    "Peace of Hopewell"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Canandaigua",
+   "aliases": [
+    "Canandaigua Treaty",
+    "Peace of Canandaigua"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Dancing Rabbit Creek",
+   "aliases": [
+    "Dancing Rabbit Creek Treaty",
+    "Peace of Dancing Rabbit Creek"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Medicine Lodge Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Hartford",
+   "aliases": [
+    "Hartford Treaty",
+    "Peace of Hartford"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Numbered Treaties",
+   "aliases": [
+    "Treaty 1",
+    "Treaty 2",
+    "Treaty 3",
+    "Treaty 4",
+    "Treaty 5",
+    "Treaty 6",
+    "Treaty 7",
+    "Treaty 8",
+    "Treaty 9",
+    "Treaty 10",
+    "Treaty 11",
+    "Numbered Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Basic Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Merger Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Seabed Treaty",
+   "aliases": [
+    "Seabed Arms Control Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Moon Treaty",
+   "aliases": [
+    "Moon Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Biological Weapons Convention",
+   "aliases": [
+    "BWC"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arms Trade Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty on the Prohibition of Nuclear Weapons",
+   "aliases": [
+    "TPNW",
+    "Nuclear Weapon Ban Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Convention on Cluster Munitions",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty on Open Skies",
+   "aliases": [
+    "Open Skies Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "CFE Treaty",
+   "aliases": [
+    "Treaty on Conventional Armed Forces in Europe"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ramsar Convention",
+   "tier": 5
+  },
+  {
+   "answer": "CITES",
+   "tier": 5
+  },
+  {
+   "answer": "Basel Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Stockholm Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Vienna Convention on Diplomatic Relations",
+   "aliases": [
+    "Vienna Convention"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vienna Convention on the Law of Treaties",
+   "tier": 5
+  },
+  {
+   "answer": "Istanbul Convention",
+   "tier": 5
+  },
+  {
+   "answer": "High Seas Treaty",
+   "aliases": [
+    "BBNJ Agreement",
+    "Agreement on Marine Biodiversity of Areas beyond National Jurisdiction"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "WHO Pandemic Agreement",
+   "aliases": [
+    "Pandemic Agreement",
+    "Pandemic Treaty",
+    "WHO Pandemic Accord",
+    "WHO Pandemic Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chagos Agreement",
+   "aliases": [
+    "Chagos deal",
+    "Chagos treaty",
+    "Diego Garcia treaty",
+    "Chagos Accord",
+    "Chagos Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Black Sea Grain Initiative",
+   "aliases": [
+    "Grain deal",
+    "Black Sea grain deal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Trade and Cooperation Agreement",
+   "aliases": [
+    "EU-UK Trade and Cooperation Agreement",
+    "Trade and Cooperation Accord",
+    "Trade and Cooperation Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "St Andrews Agreement",
+   "aliases": [
+    "St Andrews Accord",
+    "St Andrews Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "EEA Agreement",
+   "aliases": [
+    "Agreement on the European Economic Area",
+    "EEA Accord",
+    "EEA Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lomé Convention",
+   "aliases": [
+    "Lomé"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cotonou Agreement",
+   "aliases": [
+    "Cotonou Accord",
+    "Cotonou Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Louvre Accord",
+   "aliases": [
+    "Louvre Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Basel Accords",
+   "aliases": [
+    "Basel III",
+    "Basel II",
+    "Basel Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Baden",
+   "aliases": [
+    "Peace of Baden",
+    "Baden Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Rastatt",
+   "aliases": [
+    "Peace of Rastatt",
+    "Treaty of Rastadt",
+    "Rastatt Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Svalbard Treaty",
+   "aliases": [
+    "Spitsbergen Treaty",
+    "Treaty of Spitsbergen"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lombok Treaty",
+   "aliases": [
+    "Treaty of Lombok"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Le Touquet",
+   "aliases": [
+    "Le Touquet Treaty",
+    "Le Touquet agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Durham",
+   "aliases": [
+    "Durham Treaty",
+    "Peace of Durham"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Regional Comprehensive Economic Partnership",
+   "aliases": [
+    "RCEP"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Marrakesh Agreement",
+   "aliases": [
+    "Marrakech Agreement",
+    "WTO Agreement",
+    "Marrakesh Agreement Establishing the World Trade Organization",
+    "Marrakesh Accord",
+    "Marrakesh Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Copenhagen Accord",
+   "aliases": [
+    "Copenhagen Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Convention on Biological Diversity",
+   "aliases": [
+    "CBD",
+    "Biodiversity Convention",
+    "UN Convention on Biological Diversity"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "CETA",
+   "aliases": [
+    "Comprehensive Economic and Trade Agreement",
+    "EU–Canada Comprehensive Economic and Trade Agreement",
+    "Canada–EU trade agreement",
+    "EU–Canada trade agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Accession",
+   "aliases": [
+    "Accession Treaty",
+    "Treaty of Accession 1972",
+    "Treaty of Accession 1979",
+    "Treaty of Accession 1985",
+    "Treaty of Accession 1994",
+    "Treaty of Accession 2003",
+    "Treaty of Accession 2005",
+    "Treaty of Accession 2011"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nisga'a Final Agreement",
+   "aliases": [
+    "Nisga'a Treaty",
+    "Nisga'a Agreement",
+    "Nisga'a Final Accord",
+    "Nisga'a Final Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Purandar",
+   "aliases": [
+    "Purandar Treaty",
+    "Peace of Purandar"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Yandabo",
+   "aliases": [
+    "Yandabo Treaty",
+    "Peace of Yandabo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lahore Declaration",
+   "tier": 5
+  },
+  {
+   "answer": "Indo-Sri Lanka Accord",
+   "aliases": [
+    "Indo-Sri Lanka Peace Accord",
+    "India–Sri Lanka Accord",
+    "Rajiv–Jayewardene Accord",
+    "Indo-Sri Lanka Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Indo-Soviet Treaty of Friendship and Cooperation",
+   "aliases": [
+    "Indo-Soviet Treaty",
+    "Indo-Soviet Treaty of Peace, Friendship and Cooperation",
+    "Indo-Soviet Friendship Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Nehru–Liaquat Pact",
+   "aliases": [
+    "Liaquat–Nehru Pact",
+    "Nehru–Liaquat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Karachi Agreement",
+   "aliases": [
+    "Karachi Accord",
+    "Karachi Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Surat",
+   "aliases": [
+    "Surat Treaty",
+    "Peace of Surat"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Madras",
+   "aliases": [
+    "Madras Treaty",
+    "Peace of Madras"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Wadgaon",
+   "aliases": [
+    "Wadgaon Treaty",
+    "Peace of Wadgaon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "India–US Civil Nuclear Agreement",
+   "aliases": [
+    "Indo-US nuclear deal",
+    "India–US nuclear deal",
+    "Indo-US civil nuclear agreement",
+    "123 Agreement",
+    "India–US Civil Nuclear Accord",
+    "India–US Civil Nuclear Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Washington Accords for Peace and Prosperity",
+   "aliases": [
+    "Washington Accords",
+    "DRC–Rwanda peace agreement",
+    "Rwanda–DRC peace agreement",
+    "Congo–Rwanda peace deal",
+    "DRC–Rwanda peace deal"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Armenia–Azerbaijan peace agreement",
+   "aliases": [
+    "Armenia–Azerbaijan peace treaty",
+    "Armenia–Azerbaijan peace deal",
+    "Azerbaijan–Armenia peace agreement",
+    "Azerbaijan–Armenia peace treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "EU–Mercosur Agreement",
+   "aliases": [
+    "EU–Mercosur trade deal",
+    "EU–Mercosur trade agreement",
+    "EU–Mercosur free trade agreement",
+    "Mercosur deal",
+    "EU–Mercosur",
+    "EU–Mercosur Accord",
+    "EU–Mercosur Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "India–EU Free Trade Agreement",
+   "aliases": [
+    "EU–India Free Trade Agreement",
+    "India–EU FTA",
+    "EU–India FTA",
+    "India–EU trade deal",
+    "EU–India trade agreement",
+    "India–EU Free Trade Accord",
+    "India–EU Free Trade Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "India–UK CETA",
+   "aliases": [
+    "UK–India CETA",
+    "India–UK Comprehensive Economic and Trade Agreement",
+    "UK–India free trade agreement",
+    "India–UK free trade agreement",
+    "UK–India trade deal",
+    "India–UK FTA",
+    "UK–India FTA"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "UN Convention against Cybercrime",
+   "aliases": [
+    "United Nations Convention against Cybercrime",
+    "UN Cybercrime Convention",
+    "Hanoi Convention",
+    "UN cybercrime treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Budapest Convention",
+   "aliases": [
+    "Convention on Cybercrime",
+    "Budapest Convention on Cybercrime"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "US–Ukraine Minerals Agreement",
+   "aliases": [
+    "US–Ukraine minerals deal",
+    "Ukraine minerals deal",
+    "Minerals deal",
+    "US–Ukraine Reconstruction Investment Fund agreement",
+    "US–Ukraine Minerals Accord",
+    "US–Ukraine Minerals Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Statewide Treaty",
+   "aliases": [
+    "Victoria's Statewide Treaty",
+    "Victorian Statewide Treaty",
+    "Victorian Treaty",
+    "Victoria's Treaty",
+    "Victorian Aboriginal treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Gaza ceasefire agreement",
+   "aliases": [
+    "Gaza ceasefire",
+    "Gaza ceasefire deal",
+    "Gaza peace deal",
+    "Gaza peace agreement",
+    "Israel–Hamas ceasefire",
+    "Israel–Hamas ceasefire agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Prague (1973)",
+   "aliases": [
+    "Prague Treaty 1973"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Gulistan",
+   "aliases": [
+    "Gulistan Treaty",
+    "Peace of Gulistan"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Turkmenchay",
+   "aliases": [
+    "Treaty of Torkamanchay",
+    "Treaty of Turkmanchai",
+    "Turkmenchay Treaty",
+    "Peace of Turkmenchay"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Vervins",
+   "aliases": [
+    "Treaty of Vervins"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Hanover",
+   "aliases": [
+    "Alliance of Hanover",
+    "Hanover Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Breslau",
+   "aliases": [
+    "Peace of Breslau",
+    "Breslau Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Worms",
+   "aliases": [
+    "Worms Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Kardis",
+   "aliases": [
+    "Peace of Kardis",
+    "Kardis Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Teusina",
+   "aliases": [
+    "Peace of Teusina",
+    "Teusina Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Lyon",
+   "aliases": [
+    "Treaty of Lyons",
+    "Lyon Treaty",
+    "Peace of Lyon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Monzón",
+   "aliases": [
+    "Monzón Treaty",
+    "Peace of Monzón"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Cherasco",
+   "aliases": [
+    "Cherasco Treaty",
+    "Peace of Cherasco"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of El Pardo",
+   "aliases": [
+    "Treaty of El Pardo 1761",
+    "Treaty of El Pardo 1778",
+    "El Pardo Treaty",
+    "Peace of El Pardo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Blois",
+   "aliases": [
+    "Blois Treaty",
+    "Peace of Blois"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Akkerman",
+   "aliases": [
+    "Akkerman Convention",
+    "Akkerman Treaty",
+    "Peace of Akkerman"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Truce of Altmark",
+   "aliases": [
+    "Treaty of Altmark"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace of Szeged",
+   "aliases": [
+    "Treaty of Szeged"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Badajoz",
+   "aliases": [
+    "Badajoz Treaty",
+    "Peace of Badajoz"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pact of Zanjón",
+   "aliases": [
+    "Treaty of Zanjón"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Saint Petersburg",
+   "aliases": [
+    "Treaty of Saint Petersburg 1762",
+    "Treaty of Saint Petersburg 1805",
+    "Treaty of Saint Petersburg 1875",
+    "Treaty of Saint Petersburg 1881",
+    "Treaty of Ili",
+    "Saint Petersburg Treaty",
+    "Peace of Saint Petersburg"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Lhasa",
+   "aliases": [
+    "Convention of Lhasa",
+    "Anglo-Tibetan Treaty",
+    "Lhasa Treaty",
+    "Peace of Lhasa"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Saigon",
+   "aliases": [
+    "Treaty of Saigon 1862",
+    "Treaty of Saigon 1874",
+    "Saigon Treaty",
+    "Peace of Saigon"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Warsaw Convention",
+   "aliases": [
+    "Warsaw Convention 1929"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "UKUSA Agreement",
+   "aliases": [
+    "Five Eyes agreement",
+    "UKUSA Accord",
+    "UKUSA Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Björkö",
+   "aliases": [
+    "Bjorko Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Versailles (1783)",
+   "aliases": [
+    "Peace of Versailles 1783"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "First Treaty of Versailles",
+   "aliases": [
+    "Treaty of Versailles 1756"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Versailles (1768)",
+   "tier": 5
+  },
+  {
+   "answer": "Anglo-Dutch Treaty of 1824",
+   "aliases": [
+    "Anglo-Dutch Treaty",
+    "Treaty of London 1824"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pangkor Treaty",
+   "aliases": [
+    "Treaty of Pangkor",
+    "Pangkor Engagement",
+    "Pangkor Treaty of 1874"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Malaysia Agreement",
+   "aliases": [
+    "Malaysia Agreement 1963",
+    "MA63",
+    "Malaysia Accord",
+    "Malaysia Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Bowring Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Burney Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Pact of Biak-na-Bato",
+   "aliases": [
+    "Biak-na-Bato",
+    "Truce of Biak-na-Bato"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty on Basic Relations between Japan and the Republic of Korea",
+   "aliases": [
+    "Treaty on Basic Relations",
+    "Japan–Korea Basic Treaty",
+    "Japan–Korea Treaty of 1965"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Huế",
+   "aliases": [
+    "Treaty of Hue 1883",
+    "Treaty of Hue 1884",
+    "Patenôtre Treaty",
+    "Huế Treaty",
+    "Peace of Huế"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Chemulpo",
+   "aliases": [
+    "Chemulpo Treaty",
+    "Peace of Chemulpo"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Convention of Chuenpi",
+   "aliases": [
+    "Chuenpi Convention"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Tanggu Truce",
+   "tier": 5
+  },
+  {
+   "answer": "Convention for the Extension of Hong Kong Territory",
+   "aliases": [
+    "Second Convention of Peking",
+    "Convention of Peking 1898",
+    "New Territories lease"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of 1818",
+   "aliases": [
+    "Convention of 1818",
+    "Anglo-American Convention of 1818",
+    "1818 Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Convention of 1800",
+   "aliases": [
+    "Treaty of Mortefontaine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Fort Jackson",
+   "aliases": [
+    "Fort Jackson Treaty",
+    "Peace of Fort Jackson"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Fort Wayne",
+   "aliases": [
+    "Fort Wayne Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Point Elliott",
+   "aliases": [
+    "Point Elliott Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Medicine Creek",
+   "aliases": [
+    "Medicine Creek Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Traverse des Sioux",
+   "aliases": [
+    "Traverse des Sioux Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Burlingame Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Niagara",
+   "aliases": [
+    "Niagara Treaty",
+    "Peace of Niagara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Robinson Treaties",
+   "aliases": [
+    "Robinson–Huron Treaty",
+    "Robinson–Superior Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Peace and Friendship Treaties",
+   "aliases": [
+    "Treaties of Peace and Friendship"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Halibut Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Batman's Treaty",
+   "aliases": [
+    "Batman Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Torres Strait Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Timor Gap Treaty",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Rarotonga",
+   "aliases": [
+    "South Pacific Nuclear Free Zone Treaty",
+    "Rarotonga Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Pelindaba",
+   "aliases": [
+    "African Nuclear-Weapon-Free Zone Treaty",
+    "Pelindaba Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Bangkok",
+   "aliases": [
+    "Southeast Asian Nuclear-Weapon-Free Zone Treaty",
+    "Bangkok Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Canterbury",
+   "aliases": [
+    "Channel Tunnel Treaty",
+    "Treaty of Canterbury 1986",
+    "Canterbury Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lancaster House Treaties",
+   "tier": 5
+  },
+  {
+   "answer": "Stormont House Agreement",
+   "aliases": [
+    "Stormont House Accord",
+    "Stormont House Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "New Decade, New Approach",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Birgham",
+   "aliases": [
+    "Birgham Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Mellifont",
+   "aliases": [
+    "Mellifont Treaty",
+    "Peace of Mellifont"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Woodstock",
+   "aliases": [
+    "Woodstock Treaty",
+    "Peace of Woodstock"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Boulogne",
+   "aliases": [
+    "Boulogne Treaty",
+    "Peace of Boulogne"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Teschen",
+   "aliases": [
+    "Peace of Teschen",
+    "Teschen Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Copenhagen",
+   "aliases": [
+    "Peace of Copenhagen",
+    "Copenhagen Treaty"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Ankara",
+   "aliases": [
+    "Franklin-Bouillon Agreement",
+    "Ankara Treaty",
+    "Peace of Ankara"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Four Power Agreement on Berlin",
+   "aliases": [
+    "Quadripartite Agreement on Berlin",
+    "Berlin Agreement 1971"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "German–Polish Non-Aggression Pact",
+   "aliases": [
+    "Polish–German Non-Aggression Pact",
+    "German–Polish Declaration of Non-Aggression"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Little Entente",
+   "tier": 5
+  },
+  {
+   "answer": "Balkan Pact",
+   "aliases": [
+    "Balkan Entente"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Armistice of Mudros",
+   "tier": 5
+  },
+  {
+   "answer": "Armistice of Cassibile",
+   "tier": 5
+  },
+  {
+   "answer": "Armistice of 22 June 1940",
+   "aliases": [
+    "Second Armistice at Compiègne",
+    "Franco-German Armistice",
+    "Armistice of Compiègne 1940"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "1949 Armistice Agreements",
+   "aliases": [
+    "Arab–Israeli armistice agreements"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pretoria Agreement",
+   "aliases": [
+    "Pretoria peace agreement",
+    "Tigray peace agreement",
+    "Pretoria Accord",
+    "Pretoria Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lomé Peace Accord",
+   "aliases": [
+    "Lomé Peace Agreement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sand River Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Bloemfontein Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Pretoria Convention",
+   "tier": 5
+  },
+  {
+   "answer": "Pact of Bogotá",
+   "aliases": [
+    "American Treaty on Pacific Settlement"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cartagena Agreement",
+   "aliases": [
+    "Andean Pact",
+    "Cartagena Accord",
+    "Cartagena Accords"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Ciudad Juárez",
+   "aliases": [
+    "Ciudad Juárez Treaty",
+    "Peace of Ciudad Juárez"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chicago Convention",
+   "aliases": [
+    "Convention on International Civil Aviation"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "CEDAW",
+   "aliases": [
+    "Convention on the Elimination of All Forms of Discrimination against Women"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "International Covenant on Civil and Political Rights",
+   "aliases": [
+    "ICCPR"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "UN Convention against Torture",
+   "aliases": [
+    "Convention against Torture",
+    "UNCAT"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Paris (1229)",
+   "aliases": [
+    "Treaty of Meaux",
+    "Treaty of Meaux-Paris"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Paris (1259)",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Paris (1303)",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of London (1518)",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of London (1827)",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of London (1852)",
+   "aliases": [
+    "London Protocol of 1852"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of London (1864)",
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of London (1867)",
+   "aliases": [
+    "Second Treaty of London"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Treaty of Kadesh",
+   "aliases": [
+    "Kadesh",
+    "Egyptian-Hittite peace treaty",
+    "Egyptian-Hittite treaty",
+    "Kadesh Treaty",
+    "Peace of Kadesh",
+    "Eternal Treaty",
+    "Silver Treaty"
+   ],
+   "tier": 6,
+   "lore": "The oldest peace treaty whose text survives, made by Egypt and the Hittites around 1259 BC. A copy hangs at the UN."
+  },
+  {
+   "answer": "Treaty of Windsor (1386)",
+   "aliases": [
+    "1386 Treaty of Windsor"
+   ],
+   "tier": 6,
+   "lore": "It sealed England's alliance with Portugal, which still stands: the oldest of its kind in the world."
+  },
+  {
+   "answer": "Treaty of Nerchinsk",
+   "aliases": [
+    "Nerchinsk",
+    "Nerchinsk Treaty",
+    "Peace of Nerchinsk"
+   ],
+   "tier": 6,
+   "lore": "Russia and China's first treaty, in 1689. Jesuit priests interpreted, and the binding text was in Latin."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Peace treaty",
+   "aliases": [
+    "Treaty",
+    "Pact",
+    "Accord",
+    "Agreement",
+    "Peace Accord",
+    "Peace deal"
+   ],
+   "reason": "Every answer here is one. Give this one its name."
+  },
+  {
+   "answer": "Declaration of Independence",
+   "aliases": [
+    "US Declaration of Independence",
+    "Balfour Declaration",
+    "Universal Declaration of Human Rights",
+    "Atlantic Charter",
+    "Emancipation Proclamation",
+    "Fourteen Points",
+    "Potsdam Declaration",
+    "Cairo Declaration",
+    "Schuman Declaration",
+    "Downing Street Declaration",
+    "Declaration of Arbroath",
+    "Uluru Statement from the Heart",
+    "Panmunjom Declaration"
+   ],
+   "reason": "A declaration, not a treaty."
+  },
+  {
+   "answer": "Monroe Doctrine",
+   "aliases": [
+    "Truman Doctrine",
+    "Brezhnev Doctrine",
+    "Marshall Plan",
+    "Lend-Lease",
+    "Open Door Policy",
+    "New Deal",
+    "Appeasement",
+    "Containment",
+    "Detente"
+   ],
+   "reason": "A policy, not a treaty."
+  },
+  {
+   "answer": "Edict of Nantes",
+   "aliases": [
+    "Edict of Worms",
+    "Bill of Rights",
+    "Habeas Corpus",
+    "Statute of Westminster",
+    "Petition of Right",
+    "Corn Laws",
+    "Stamp Act",
+    "Reform Act",
+    "US Constitution",
+    "Constitution"
+   ],
+   "reason": "A decree or a law, not a treaty between powers."
+  },
+  {
+   "answer": "Zimmermann Telegram",
+   "aliases": [
+    "Zimmerman Telegram"
+   ],
+   "reason": "A secret telegram, not a treaty."
+  },
+  {
+   "answer": "NATO",
+   "aliases": [
+    "North Atlantic Treaty Organization",
+    "EU",
+    "European Union",
+    "UN",
+    "United Nations",
+    "League of Nations",
+    "EEC",
+    "Common Market",
+    "Commonwealth",
+    "SEATO",
+    "CENTO",
+    "OPEC",
+    "ASEAN",
+    "African Union",
+    "WTO",
+    "OSCE",
+    "Council of Europe",
+    "Mercosur",
+    "EFTA",
+    "Five Eyes",
+    "CARICOM",
+    "ECOWAS",
+    "SAARC"
+   ],
+   "reason": "An organisation, not the treaty behind it."
+  },
+  {
+   "answer": "Brexit",
+   "reason": "The departure, not the deal. The deal has a duller name."
+  },
+  {
+   "answer": "Tehran Conference",
+   "aliases": [
+    "Casablanca Conference",
+    "Tehran",
+    "Casablanca"
+   ],
+   "reason": "A wartime conference, not a treaty."
+  },
+  {
+   "answer": "Paris Peace Conference",
+   "reason": "A conference. The treaties it produced had names of their own."
+  },
+  {
+   "answer": "Sokovia Accords",
+   "aliases": [
+    "Khitomer Accords",
+    "Treaty of Algeron"
+   ],
+   "reason": "A treaty of fiction."
+  },
+  {
+   "answer": "Pirate Code",
+   "aliases": [
+    "Pirates' Code",
+    "Code of the Brethren"
+   ],
+   "reason": "More what you'd call guidelines than an actual treaty."
+  },
+  {
+   "answer": "Global Plastics Treaty",
+   "aliases": [
+    "Plastics treaty",
+    "Plastic treaty",
+    "UN plastics treaty",
+    "Plastic pollution treaty"
+   ],
+   "reason": "Still being argued over. No text has been agreed yet."
+  },
+  {
+   "answer": "Twenty-One Demands",
+   "aliases": [
+    "21 Demands"
+   ],
+   "reason": "Demands, not a treaty, though China was forced to sign treaties built on most of them."
+  },
+  {
+   "answer": "Domesday Book",
+   "reason": "A great survey of England, not a treaty."
+  },
+  {
+   "answer": "Schlieffen Plan",
+   "aliases": [
+    "Dawes Plan",
+    "Young Plan",
+    "Morgenthau Plan",
+    "Peel Plan",
+    "Mountbatten Plan",
+    "Cabinet Mission Plan",
+    "Trump peace plan",
+    "20-point plan",
+    "Gaza peace plan"
+   ],
+   "reason": "A plan, not a treaty."
+  },
+  {
+   "answer": "Unequal Treaties",
+   "aliases": [
+    "Unequal Treaty"
+   ],
+   "reason": "A name historians give a whole run of treaties forced on China, Japan and Korea. Name one of them."
+  },
+  {
+   "answer": "Armistice Day",
+   "aliases": [
+    "Remembrance Day",
+    "Veterans Day"
+   ],
+   "reason": "The day it is remembered, not the agreement itself."
+  },
+  {
+   "answer": "G7",
+   "aliases": [
+    "G20",
+    "BRICS",
+    "Quad"
+   ],
+   "reason": "A forum of states that meets to talk. No treaty founded it."
+  },
+  {
+   "answer": "Edict of Milan",
+   "reason": "An edict: two emperors agreed it, but it bound their subjects, not each other."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"treaties\" on 28 November 2026."
+}

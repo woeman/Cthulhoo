@@ -1,0 +1,1583 @@
+{
+ "id": "psychology-phobias",
+ "text": "Name a phobia.",
+ "category": "language",
+ "flavor": "Down here, every fear has a name. Some of them have names longer than you would think possible.",
+ "rules": "Any named phobia, by its -phobia name. Phobias coined as jokes don't count.",
+ "answers": [
+  {
+   "answer": "Arachnophobia",
+   "tier": 1
+  },
+  {
+   "answer": "Claustrophobia",
+   "tier": 1
+  },
+  {
+   "answer": "Agoraphobia",
+   "aliases": [
+    "Agrophobia"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Acrophobia",
+   "aliases": [
+    "Altophobia",
+    "Hypsiphobia",
+    "Hypsophobia"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Hydrophobia",
+   "tier": 2,
+   "lore": "Also an old name for rabies, which makes swallowing so painful that its victims come to dread water."
+  },
+  {
+   "answer": "Aquaphobia",
+   "tier": 2
+  },
+  {
+   "answer": "Nyctophobia",
+   "aliases": [
+    "Achluophobia",
+    "Scotophobia",
+    "Lygophobia",
+    "Noctiphobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Ophidiophobia",
+   "aliases": [
+    "Ophiophobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Trypophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Coulrophobia",
+   "aliases": [
+    "Clownophobia",
+    "Clownphobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Xenophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Homophobia",
+   "aliases": [
+    "Homaphobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Aerophobia",
+   "aliases": [
+    "Aviophobia",
+    "Pteromerhanophobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Glossophobia",
+   "aliases": [
+    "Glosophobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Emetophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Haemophobia",
+   "aliases": [
+    "Hemophobia",
+    "Hematophobia",
+    "Haematophobia",
+    "Hemaphobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Trypanophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Thanatophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Necrophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Mysophobia",
+   "aliases": [
+    "Germophobia",
+    "Misophobia"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Cynophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Triskaidekaphobia",
+   "tier": 2,
+   "lore": "Fear of the number 13. Many buildings still skip the 13th floor."
+  },
+  {
+   "answer": "Technophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Thalassophobia",
+   "aliases": [
+    "Thalasophobia"
+   ],
+   "tier": 2,
+   "lore": "Fear of the sea, and of what lives far beneath it. Reasonable, under the circumstances."
+  },
+  {
+   "answer": "Phobophobia",
+   "tier": 2
+  },
+  {
+   "answer": "Ailurophobia",
+   "aliases": [
+    "Felinophobia",
+    "Elurophobia",
+    "Aelurophobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Gephyrophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Astraphobia",
+   "aliases": [
+    "Astrapophobia",
+    "Tonitrophobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Pyrophobia",
+   "aliases": [
+    "Arsonphobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Ornithophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Entomophobia",
+   "aliases": [
+    "Insectophobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Apiphobia",
+   "aliases": [
+    "Melissophobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Zoophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Dentophobia",
+   "aliases": [
+    "Odontophobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Sociophobia",
+   "aliases": [
+    "Social phobia"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Phasmophobia",
+   "tier": 3,
+   "lore": "Fear of ghosts."
+  },
+  {
+   "answer": "Bathophobia",
+   "tier": 3,
+   "lore": "Fear of depths. You are reading this a long way down."
+  },
+  {
+   "answer": "Nomophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Islamophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Transphobia",
+   "tier": 3
+  },
+  {
+   "answer": "Photophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Biphobia",
+   "tier": 3
+  },
+  {
+   "answer": "Russophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Anglophobia",
+   "tier": 3
+  },
+  {
+   "answer": "Fatphobia",
+   "tier": 3
+  },
+  {
+   "answer": "Ombrophobia",
+   "aliases": [
+    "Pluviophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Brontophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Musophobia",
+   "aliases": [
+    "Murophobia",
+    "Suriphobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Ichthyophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Selachophobia",
+   "aliases": [
+    "Galeophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Herpetophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Equinophobia",
+   "aliases": [
+    "Hippophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Iatrophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Tokophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Gamophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Philophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Atychiphobia",
+   "tier": 4
+  },
+  {
+   "answer": "Ergophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Anthropophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Autophobia",
+   "aliases": [
+    "Monophobia",
+    "Isolophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Catoptrophobia",
+   "aliases": [
+    "Eisoptrophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Spectrophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Samhainophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Hexakosioihexekontahexaphobia",
+   "tier": 4,
+   "lore": "Fear of the number 666. The name is nearly as frightening as the number."
+  },
+  {
+   "answer": "Tetraphobia",
+   "tier": 4
+  },
+  {
+   "answer": "Friggatriskaidekaphobia",
+   "aliases": [
+    "Paraskevidekatriaphobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Somniphobia",
+   "aliases": [
+    "Hypnophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Taphophobia",
+   "tier": 4,
+   "lore": "Fear of being buried alive. In the 1800s you could buy a coffin with a bell to ring."
+  },
+  {
+   "answer": "Pediophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Megalophobia",
+   "tier": 4,
+   "lore": "Fear of very large things. Best to stay away from the bottom of the sea."
+  },
+  {
+   "answer": "Heliophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Astrophobia",
+   "aliases": [
+    "Siderophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Neophobia",
+   "aliases": [
+    "Kainophobia",
+    "Kainolophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Panophobia",
+   "aliases": [
+    "Pantophobia",
+    "Omniphobia"
+   ],
+   "tier": 4,
+   "lore": "A vague and terrible dread of everything, with no particular cause."
+  },
+  {
+   "answer": "Acarophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Scopophobia",
+   "aliases": [
+    "Scoptophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Phonophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Haphephobia",
+   "aliases": [
+    "Aphenphosmphobia",
+    "Haptephobia",
+    "Chiraptophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Cherophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Gerontophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Nosophobia",
+   "aliases": [
+    "Nosemaphobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Chemophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Sinophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Francophobia",
+   "aliases": [
+    "Gallophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Androphobia",
+   "aliases": [
+    "Arrhenphobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Gynophobia",
+   "aliases": [
+    "Gynephobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Hoplophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Telephonophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Cyberphobia",
+   "aliases": [
+    "Logizomechanophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Koumpounophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Bibliophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Sesquipedalophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Spheksophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Anthophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Phagophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Cardiophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Carcinophobia",
+   "aliases": [
+    "Cancerophobia",
+    "Carcinomatophobia"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Theophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Sophophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Athazagoraphobia",
+   "tier": 4
+  },
+  {
+   "answer": "Globophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Submechanophobia",
+   "tier": 4
+  },
+  {
+   "answer": "Keraunophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Batrachophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Nosocomephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Gerascophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Anuptaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Gymnophobia",
+   "aliases": [
+    "Nudophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Decidophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Atelophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Daemonophobia",
+   "aliases": [
+    "Demonophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Wiccaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chronophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Oneirophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Scoleciphobia",
+   "aliases": [
+    "Vermiphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Automatonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hylophobia",
+   "aliases": [
+    "Xylophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cymophobia",
+   "aliases": [
+    "Kymophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Potamophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Limnophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Bathmophobia",
+   "aliases": [
+    "Climacophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Agyrophobia",
+   "aliases": [
+    "Dromophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Amaxophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Cibophobia",
+   "aliases": [
+    "Sitophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lachanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Turophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Alektorophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pogonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Omphalophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Podophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Trichophobia",
+   "aliases": [
+    "Chaetophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dermatophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ommetaphobia",
+   "aliases": [
+    "Ommatophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chionophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Selenophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Kenophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Apeirophobia",
+   "tier": 5,
+   "lore": "Fear of infinity, and of things that never end."
+  },
+  {
+   "answer": "Kakorrhaphiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Mageirocophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chirophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chromophobia",
+   "aliases": [
+    "Chromatophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dendrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Belonephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Taurophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ligyrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Aichmophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ablutophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Gelotophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chiroptophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Lepidopterophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pharmacophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Radiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ochlophobia",
+   "aliases": [
+    "Enochlophobia",
+    "Demophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Arithmophobia",
+   "aliases": [
+    "Numerophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Algophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Osmophobia",
+   "aliases": [
+    "Olfactophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Oikophobia",
+   "aliases": [
+    "Domatophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Dysmorphophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Erythrophobia",
+   "aliases": [
+    "Ereuthophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Germanophobia",
+   "aliases": [
+    "Teutophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Judeophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Lilapsophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ranidaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Myrmecophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hadephobia",
+   "aliases": [
+    "Stygiophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cetaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ostraconophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pteronophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Lupophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Helminthophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Bufonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Mottephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Cnidophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Agrizoophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Botanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Alliumphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Carnophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pedophobia",
+   "aliases": [
+    "Paedophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ephebiphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Erotophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Traumatophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pnigophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Anginophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Dipsophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Methyphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Vaccinophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Maniaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Dementophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Psychophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Clinophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Coimetrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Placophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Obesophobia",
+   "aliases": [
+    "Pocrescophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Caligynephobia",
+   "aliases": [
+    "Venustraphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Rhytiphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Bromidrosiphobia",
+   "aliases": [
+    "Bromidrophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Autodysomophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Automysophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ankylophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Bacteriophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Verminophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Microphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ophthalmophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Satanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hierophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ecclesiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Staurophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Uranophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hagiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Heortophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Peccatophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Enosiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Anemophobia",
+   "aliases": [
+    "Ancraophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Frigophobia",
+   "aliases": [
+    "Cheimaphobia",
+    "Cheimatophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Thermophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Meteorophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Cometophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Nephophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Homichlophobia",
+   "aliases": [
+    "Nebulaphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Pagophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Phengophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Eosophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Nyctohylophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Xanthophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Porphyrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chlorophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Leukophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Melanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ponophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Kopophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ergasiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Rhabdophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Poinephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Scolionophobia",
+   "aliases": [
+    "Didaskaleinophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Epistemophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Verbophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Graphophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Lalophobia",
+   "aliases": [
+    "Laliophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Onomatophobia",
+   "aliases": [
+    "Nomatophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Testophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Allodoxaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Metathesiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Prosophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ataxophobia",
+   "aliases": [
+    "Ataxiophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Eleutherophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Politicophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ideophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Phronemophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hypengyophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Agateophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Mnemophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hedonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Euphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Katagelophobia",
+   "aliases": [
+    "Catagelophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Acousticophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ballistophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Polemophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Atomosophobia",
+   "aliases": [
+    "Nucleomituphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Electrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Mechanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Robophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Masklophobia",
+   "aliases": [
+    "Maskaphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Papyrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Metallophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Crystallophobia",
+   "aliases": [
+    "Hyalophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Linonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pupaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chrometophobia",
+   "aliases": [
+    "Chrematophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cleithrophobia",
+   "aliases": [
+    "Cleisiophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Vehophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Motorphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Nostophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Illyngophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Anablephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Kathisophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Stasiphobia",
+   "aliases": [
+    "Stasibasiphobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ambulophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Kinetophobia",
+   "aliases": [
+    "Kinesophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Chorophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Dextrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Levophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Sinistrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Chronomentrophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Peniaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Plutophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Kleptophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Scelerophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Harpaxophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Dikephobia",
+   "tier": 5
+  },
+  {
+   "answer": "Novercaphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Vitricophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Pentheraphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Soceraphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Patroiophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hispanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hellenophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Turcophobia",
+   "aliases": [
+    "Turkophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Polonophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Japanophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Arabophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Hinduphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Christianophobia",
+   "aliases": [
+    "Christophobia"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Lesbophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Queerphobia",
+   "tier": 5
+  },
+  {
+   "answer": "Indophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Iranophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Ukrainophobia",
+   "tier": 5
+  },
+  {
+   "answer": "Siderodromophobia",
+   "tier": 6,
+   "lore": "Fear of trains or rail travel. The word was coined in the 1870s, when the railway age was about fifty years old."
+  },
+  {
+   "answer": "Hellenologophobia",
+   "tier": 6,
+   "lore": "Fear of Greek terms or jargon. Most of this list would set it off."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Fear of spiders",
+   "aliases": [
+    "Fear of heights",
+    "Fear of the dark",
+    "Fear of clowns",
+    "Fear of snakes",
+    "Fear of flying",
+    "Fear of water",
+    "Fear of death",
+    "Fear of needles",
+    "Fear of small spaces",
+    "Fear of open spaces",
+    "Fear of the sea",
+    "Fear",
+    "Fear of everything",
+    "Fear of germs",
+    "Fear of dogs",
+    "Fear of cats",
+    "Fear of blood",
+    "Fear of crowds",
+    "Fear of fire",
+    "Fear of birds",
+    "Fear of thunder",
+    "Fear of public speaking",
+    "Fear of the number 13",
+    "Fear of holes",
+    "Fear of long words",
+    "Fear of missing out",
+    "FOMO"
+   ],
+   "reason": "Give it its proper name, ending in -phobia."
+  },
+  {
+   "answer": "Phobia",
+   "aliases": [
+    "Phobias"
+   ],
+   "reason": "Which one?"
+  },
+  {
+   "answer": "Arachibutyrophobia",
+   "reason": "Fear of peanut butter sticking to the roof of your mouth. Coined as a joke, so the deep won't have it."
+  },
+  {
+   "answer": "Hippopotomonstrosesquippedaliophobia",
+   "reason": "Fear of long words. A joke, and a cruel one."
+  },
+  {
+   "answer": "Anatidaephobia",
+   "reason": "The fear that somewhere, a duck is watching you. A cartoonist's joke."
+  },
+  {
+   "answer": "Aibohphobia",
+   "reason": "A joke word for the fear of palindromes. Read it backwards."
+  },
+  {
+   "answer": "Hydrophobic",
+   "reason": "An adjective, and usually about molecules."
+  },
+  {
+   "answer": "Phobos",
+   "aliases": [
+    "Deimos"
+   ],
+   "reason": "The Greek god of fear, and a moon of Mars. Not a phobia."
+  },
+  {
+   "answer": "Luposlipaphobia",
+   "reason": "A Far Side joke about wolves, socks and a freshly waxed floor."
+  }
+ ],
+ "section": "Anxiety",
+ "source": "Copied from the daily question \"phobias\" on 28 November 2026."
+}

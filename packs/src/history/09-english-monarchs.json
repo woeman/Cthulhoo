@@ -1,0 +1,1324 @@
+{
+ "id": "history-english-monarchs",
+ "text": "Name a king or queen of England or Britain.",
+ "category": "history",
+ "flavor": "Two princes vanished in the Tower. Some say they are still there. Some say they went somewhere deeper.",
+ "rules": "Any monarch of England, or of Britain after 1707, from the Anglo-Saxon kings of Wessex to Charles III. A name that several monarchs shared counts for the best known of them.",
+ "answers": [
+  {
+   "answer": "Henry VIII",
+   "aliases": [
+    "Henry 8",
+    "Henry the Eighth",
+    "King Henry VIII",
+    "Henry",
+    "King Henry",
+    "Bluff King Hal",
+    "Old Coppernose"
+   ],
+   "tier": 1,
+   "lore": "Six wives: divorced, beheaded, died, divorced, beheaded, survived."
+  },
+  {
+   "answer": "Elizabeth I",
+   "aliases": [
+    "Queen Elizabeth I",
+    "The Virgin Queen",
+    "Gloriana",
+    "Good Queen Bess",
+    "Elizabeth 1",
+    "Elizabeth the First",
+    "Queen Bess"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Elizabeth II",
+   "aliases": [
+    "The Queen",
+    "Queen Elizabeth II",
+    "Elizabeth 2",
+    "Elizabeth the Second",
+    "Elizabeth",
+    "Queen Elizabeth",
+    "Lilibet",
+    "Queen Elizabeth the Second"
+   ],
+   "tier": 1,
+   "lore": "Reigned for 70 years, longer than any other British monarch."
+  },
+  {
+   "answer": "Victoria",
+   "aliases": [
+    "Queen Victoria",
+    "Victoria I",
+    "Queen Victoria I",
+    "Alexandrina Victoria",
+    "Grandmother of Europe",
+    "Widow of Windsor"
+   ],
+   "tier": 1,
+   "lore": "Reigned for 63 years. Her descendants filled so many of Europe's thrones that she was called its grandmother."
+  },
+  {
+   "answer": "Charles III",
+   "aliases": [
+    "King Charles",
+    "Prince Charles",
+    "King Charles III",
+    "Charles 3",
+    "Charles the Third",
+    "Charles"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "William the Conqueror",
+   "aliases": [
+    "William I",
+    "William 1",
+    "William the First",
+    "William the Bastard",
+    "William of Normandy",
+    "The Conqueror",
+    "King William the Conqueror",
+    "King William I",
+    "King William of Normandy",
+    "William",
+    "King William"
+   ],
+   "tier": 1
+  },
+  {
+   "answer": "Richard III",
+   "aliases": [
+    "Richard 3",
+    "Richard the Third",
+    "King Richard III",
+    "Richard",
+    "King Richard",
+    "Richard of Gloucester",
+    "Richard Duke of Gloucester"
+   ],
+   "tier": 2,
+   "lore": "His skeleton turned up under a car park in Leicester in 2012."
+  },
+  {
+   "answer": "George III",
+   "aliases": [
+    "Mad King George",
+    "Farmer George",
+    "George 3",
+    "George the Third",
+    "King George III",
+    "George",
+    "King George"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Charles I",
+   "aliases": [
+    "Charles 1",
+    "Charles the First",
+    "King Charles I",
+    "Charles the Martyr",
+    "King Charles the Martyr"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Charles II",
+   "aliases": [
+    "Charles 2",
+    "Charles the Second",
+    "The Merry Monarch",
+    "King Charles II",
+    "Old Rowley"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Henry V",
+   "aliases": [
+    "Henry 5",
+    "Henry the Fifth",
+    "Prince Hal",
+    "Henry of Monmouth",
+    "King Henry V",
+    "King Henry of Monmouth"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Richard the Lionheart",
+   "aliases": [
+    "Richard I",
+    "Richard 1",
+    "Richard the First",
+    "Richard Coeur de Lion",
+    "Lionheart",
+    "Coeur de Lion",
+    "Richard Lionheart",
+    "King Richard the Lionheart",
+    "King Richard I",
+    "King Richard Coeur de Lion",
+    "King Coeur de Lion",
+    "King Richard Lionheart"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "King John",
+   "aliases": [
+    "John",
+    "John Lackland",
+    "Bad King John",
+    "Lackland",
+    "King John Lackland"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Edward VIII",
+   "aliases": [
+    "Duke of Windsor",
+    "Edward 8",
+    "Edward the Eighth",
+    "King Edward VIII",
+    "Edward",
+    "King Edward"
+   ],
+   "tier": 2,
+   "lore": "Abdicated in 1936, after less than a year, to marry Wallis Simpson."
+  },
+  {
+   "answer": "George VI",
+   "aliases": [
+    "George 6",
+    "George the Sixth",
+    "King George VI",
+    "Bertie",
+    "Albert Frederick Arthur George"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Mary I",
+   "aliases": [
+    "Bloody Mary",
+    "Mary Tudor",
+    "Mary 1",
+    "Mary the First",
+    "Queen Mary I",
+    "Queen Mary Tudor",
+    "Mary",
+    "Queen Mary"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Alfred the Great",
+   "aliases": [
+    "Alfred",
+    "King Alfred the Great",
+    "King Alfred",
+    "Ælfred",
+    "Ælfred the Great"
+   ],
+   "tier": 2,
+   "lore": "Legend says he hid from the Vikings in a swineherd's hut, and let the cakes burn."
+  },
+  {
+   "answer": "Anne",
+   "aliases": [
+    "Queen Anne",
+    "Anne Stuart"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "James I",
+   "aliases": [
+    "James VI",
+    "James 6",
+    "James the Sixth",
+    "James VI and I",
+    "James 1",
+    "James the First",
+    "King James I",
+    "King James VI",
+    "King James VI and I",
+    "James",
+    "King James"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Edward VI",
+   "aliases": [
+    "Edward 6",
+    "Edward the Sixth",
+    "King Edward VI"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "George V",
+   "aliases": [
+    "George 5",
+    "George the Fifth",
+    "King George V"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Henry VII",
+   "aliases": [
+    "Henry 7",
+    "Henry the Seventh",
+    "Henry Tudor",
+    "King Henry VII",
+    "King Henry Tudor"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Edward I",
+   "aliases": [
+    "Edward Longshanks",
+    "Longshanks",
+    "Hammer of the Scots",
+    "Edward 1",
+    "Edward the First",
+    "King Edward I",
+    "King Edward Longshanks"
+   ],
+   "tier": 2
+  },
+  {
+   "answer": "Lady Jane Grey",
+   "aliases": [
+    "Jane Grey",
+    "Queen Jane",
+    "The Nine Days' Queen",
+    "Jane",
+    "Queen Jane Grey"
+   ],
+   "tier": 2,
+   "lore": "Queen for nine days in 1553, and beheaded the following year."
+  },
+  {
+   "answer": "Edward VII",
+   "aliases": [
+    "Edward 7",
+    "Edward the Seventh",
+    "King Edward VII",
+    "Edward the Peacemaker"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "George IV",
+   "aliases": [
+    "Prince Regent",
+    "Prinny",
+    "George 4",
+    "George the Fourth",
+    "King George IV"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William IV",
+   "aliases": [
+    "Sailor King",
+    "Silly Billy",
+    "William 4",
+    "William the Fourth",
+    "King William IV"
+   ],
+   "tier": 3,
+   "lore": "Victoria's uncle. He had ten children with the actress Dorothea Jordan, but no legitimate heir who lived."
+  },
+  {
+   "answer": "George I",
+   "aliases": [
+    "George 1",
+    "George the First",
+    "King George I"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "George II",
+   "aliases": [
+    "George 2",
+    "George the Second",
+    "King George II"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "James II",
+   "aliases": [
+    "James VII",
+    "James 7",
+    "James the Seventh",
+    "James 2",
+    "James the Second",
+    "King James II",
+    "King James VII"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William III",
+   "aliases": [
+    "William of Orange",
+    "King Billy",
+    "William 3",
+    "William the Third",
+    "King William III",
+    "King William of Orange",
+    "William and Mary",
+    "William of Orange-Nassau"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Mary II",
+   "aliases": [
+    "Mary 2",
+    "Mary the Second",
+    "Queen Mary II"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Henry II",
+   "aliases": [
+    "Henry 2",
+    "Henry the Second",
+    "King Henry II",
+    "Henry Plantagenet",
+    "Henry Curtmantle",
+    "Henry FitzEmpress",
+    "King Henry Plantagenet"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Henry IV",
+   "aliases": [
+    "Henry 4",
+    "Henry the Fourth",
+    "Bolingbroke",
+    "Henry Bolingbroke",
+    "Henry of Bolingbroke",
+    "King Henry IV",
+    "King Henry Bolingbroke",
+    "King Henry of Bolingbroke"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Henry VI",
+   "aliases": [
+    "Henry 6",
+    "Henry the Sixth",
+    "King Henry VI",
+    "Henry of Windsor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Edward IV",
+   "aliases": [
+    "Edward 4",
+    "Edward the Fourth",
+    "King Edward IV"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Edward V",
+   "aliases": [
+    "Edward 5",
+    "Edward the Fifth",
+    "King Edward V",
+    "Princes in the Tower",
+    "Prince in the Tower"
+   ],
+   "tier": 3,
+   "lore": "One of the Princes in the Tower. He vanished in 1483, aged twelve."
+  },
+  {
+   "answer": "Edward II",
+   "aliases": [
+    "Edward 2",
+    "Edward the Second",
+    "Edward of Caernarfon",
+    "Edward of Carnarvon",
+    "King Edward II",
+    "King Edward of Caernarfon",
+    "King Edward of Carnarvon"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Edward III",
+   "aliases": [
+    "Edward 3",
+    "Edward the Third",
+    "King Edward III",
+    "Edward of Windsor"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Richard II",
+   "aliases": [
+    "Richard 2",
+    "Richard the Second",
+    "King Richard II",
+    "Richard of Bordeaux"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Henry III",
+   "aliases": [
+    "Henry 3",
+    "Henry the Third",
+    "King Henry III",
+    "Henry of Winchester"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Stephen",
+   "aliases": [
+    "King Stephen",
+    "Stephen of Blois",
+    "King Stephen of Blois"
+   ],
+   "tier": 3,
+   "lore": "His war with his cousin Matilda was so chaotic it is known simply as the Anarchy."
+  },
+  {
+   "answer": "Henry I",
+   "aliases": [
+    "Henry 1",
+    "Henry the First",
+    "Henry Beauclerc",
+    "Beauclerc",
+    "King Henry I",
+    "King Henry Beauclerc"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "William II",
+   "aliases": [
+    "William Rufus",
+    "Rufus",
+    "William 2",
+    "William the Second",
+    "King William II",
+    "King William Rufus"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Edward the Confessor",
+   "aliases": [
+    "King Edward the Confessor",
+    "The Confessor",
+    "Saint Edward the Confessor",
+    "Saint Edward"
+   ],
+   "tier": 3
+  },
+  {
+   "answer": "Harold II",
+   "aliases": [
+    "Harold Godwinson",
+    "King Harold",
+    "Harold",
+    "Harold 2",
+    "Harold the Second",
+    "King Harold II",
+    "King Harold Godwinson"
+   ],
+   "tier": 3,
+   "lore": "Killed at the Battle of Hastings in 1066, by tradition with an arrow in the eye."
+  },
+  {
+   "answer": "Cnut",
+   "aliases": [
+    "Canute",
+    "Knut",
+    "Cnut the Great",
+    "King Canute",
+    "King Cnut",
+    "King Knut",
+    "King Cnut the Great"
+   ],
+   "tier": 3,
+   "lore": "Legend says he ordered the tide to turn back, to show his courtiers that no king can command the sea."
+  },
+  {
+   "answer": "Æthelred the Unready",
+   "aliases": [
+    "Ethelred the Unready",
+    "Æthelred II",
+    "Æthelred 2",
+    "Æthelred the Second",
+    "Ethelred II",
+    "Ethelred 2",
+    "Ethelred the Second",
+    "King Æthelred the Unready",
+    "King Ethelred the Unready",
+    "King Æthelred II",
+    "King Ethelred II",
+    "Æthelred",
+    "Ethelred",
+    "King Æthelred",
+    "King Ethelred",
+    "Æthelred Unræd"
+   ],
+   "tier": 3,
+   "lore": "'Unready' means 'badly advised', a pun on his name, which means 'noble counsel'."
+  },
+  {
+   "answer": "Matilda",
+   "aliases": [
+    "Empress Matilda",
+    "Empress Maud",
+    "Maud",
+    "Queen Matilda",
+    "Queen Maud",
+    "Lady of the English"
+   ],
+   "tier": 3,
+   "lore": "Never crowned, but ruled briefly in 1141 as 'Lady of the English', during the Anarchy."
+  },
+  {
+   "answer": "Æthelstan",
+   "aliases": [
+    "Athelstan",
+    "King Æthelstan",
+    "King Athelstan"
+   ],
+   "tier": 4,
+   "lore": "The first king to rule all of England, from 927."
+  },
+  {
+   "answer": "Edward the Elder",
+   "aliases": [
+    "King Edward the Elder"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edmund Ironside",
+   "aliases": [
+    "Edmund II",
+    "Edmund 2",
+    "Edmund the Second",
+    "Ironside",
+    "King Edmund Ironside",
+    "King Edmund II",
+    "Edmund",
+    "King Edmund"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Harthacnut",
+   "aliases": [
+    "Hardicanute",
+    "Harthacanute",
+    "King Harthacnut",
+    "King Hardicanute",
+    "King Harthacanute",
+    "Hardeknud"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Harold Harefoot",
+   "aliases": [
+    "Harold I",
+    "Harold 1",
+    "Harold the First",
+    "Harefoot",
+    "King Harold Harefoot",
+    "King Harold I"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Sweyn Forkbeard",
+   "aliases": [
+    "Sweyn",
+    "Svein Forkbeard",
+    "King Sweyn Forkbeard",
+    "King Sweyn",
+    "King Svein Forkbeard",
+    "Svend Forkbeard",
+    "Sven Forkbeard",
+    "Svein"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edgar the Peaceful",
+   "aliases": [
+    "Edgar",
+    "Edgar I",
+    "Edgar 1",
+    "Edgar the First",
+    "King Edgar the Peaceful",
+    "King Edgar",
+    "King Edgar I"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edward the Martyr",
+   "aliases": [
+    "King Edward the Martyr"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Edmund I",
+   "aliases": [
+    "Edmund the Magnificent",
+    "Edmund the Deed-doer",
+    "Edmund 1",
+    "Edmund the First",
+    "King Edmund I",
+    "King Edmund the Magnificent",
+    "King Edmund the Deed-doer"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eadred",
+   "aliases": [
+    "Edred",
+    "King Eadred",
+    "King Edred"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Eadwig",
+   "aliases": [
+    "Edwy",
+    "Eadwig All-Fair",
+    "King Eadwig",
+    "King Edwy",
+    "King Eadwig All-Fair"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Egbert",
+   "aliases": [
+    "Ecgberht",
+    "King Egbert",
+    "King Ecgberht"
+   ],
+   "tier": 4
+  },
+  {
+   "answer": "Æthelwulf",
+   "aliases": [
+    "Ethelwulf",
+    "King Æthelwulf",
+    "King Ethelwulf"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Æthelbald",
+   "aliases": [
+    "Ethelbald",
+    "King Æthelbald",
+    "King Ethelbald"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Æthelberht",
+   "aliases": [
+    "Ethelbert",
+    "Ethelberht",
+    "King Æthelberht",
+    "King Ethelbert",
+    "King Ethelberht"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Æthelred I",
+   "aliases": [
+    "Ethelred I",
+    "Ethelred 1",
+    "Ethelred the First",
+    "Aethelred 1",
+    "Aethelred the First",
+    "King Æthelred I",
+    "King Ethelred I"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Philip of Spain",
+   "aliases": [
+    "Philip II of Spain",
+    "King Philip",
+    "King Philip of Spain",
+    "King Philip II of Spain"
+   ],
+   "tier": 5,
+   "lore": "As Mary I's husband, he was styled King of England for four years."
+  },
+  {
+   "answer": "Ine",
+   "aliases": [
+    "Ine of Wessex",
+    "Ini",
+    "King Ine",
+    "King Ine of Wessex",
+    "King Ini"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cerdic",
+   "aliases": [
+    "Cerdic of Wessex",
+    "King Cerdic",
+    "King Cerdic of Wessex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cædwalla",
+   "aliases": [
+    "Cadwalla",
+    "King Cædwalla",
+    "King Cadwalla"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceawlin",
+   "aliases": [
+    "Ceawlin of Wessex",
+    "King Ceawlin",
+    "King Ceawlin of Wessex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cynric",
+   "aliases": [
+    "Cynric of Wessex",
+    "King Cynric",
+    "King Cynric of Wessex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceol",
+   "aliases": [
+    "Ceolric",
+    "Ceola",
+    "King Ceol",
+    "King Ceolric",
+    "King Ceola"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Ceolwulf",
+   "aliases": [
+    "Ceolwulf of Wessex",
+    "King Ceolwulf",
+    "King Ceolwulf of Wessex"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cynegils",
+   "aliases": [
+    "King Cynegils"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cwichelm",
+   "aliases": [
+    "King Cwichelm"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cenwalh",
+   "aliases": [
+    "Cenwealh",
+    "Coenwalh",
+    "King Cenwalh",
+    "King Cenwealh",
+    "King Coenwalh"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Seaxburh",
+   "aliases": [
+    "Seaxburgh",
+    "Sexburga",
+    "Queen Seaxburh",
+    "Queen Seaxburgh",
+    "Queen Sexburga"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Æscwine",
+   "aliases": [
+    "Escwine",
+    "King Æscwine",
+    "King Escwine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Centwine",
+   "aliases": [
+    "King Centwine"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Æthelheard",
+   "aliases": [
+    "Ethelheard",
+    "King Æthelheard",
+    "King Ethelheard"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cuthred",
+   "aliases": [
+    "King Cuthred"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Sigeberht",
+   "aliases": [
+    "Sigebert",
+    "King Sigeberht",
+    "King Sigebert"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Cynewulf",
+   "aliases": [
+    "King Cynewulf"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Beorhtric",
+   "aliases": [
+    "Brihtric",
+    "King Beorhtric",
+    "King Brihtric"
+   ],
+   "tier": 5
+  },
+  {
+   "answer": "Henry the Young King",
+   "aliases": [
+    "The Young King",
+    "Young King Henry"
+   ],
+   "tier": 6,
+   "lore": "Crowned in 1170 as his father's co-king, but died in 1183 without ever ruling alone."
+  },
+  {
+   "answer": "Edgar Ætheling",
+   "aliases": [
+    "Edgar Atheling",
+    "Edgar the Atheling",
+    "Edgar II",
+    "Edgar 2",
+    "Edgar the Second",
+    "King Edgar Ætheling",
+    "King Edgar Atheling",
+    "King Edgar the Atheling",
+    "King Edgar II"
+   ],
+   "tier": 6,
+   "lore": "Proclaimed king after Hastings in 1066, but never crowned. He submitted to William."
+  },
+  {
+   "answer": "Ælfweard",
+   "aliases": [
+    "Elfweard",
+    "Alfweard",
+    "King Ælfweard",
+    "King Elfweard",
+    "King Alfweard"
+   ],
+   "tier": 6,
+   "lore": "Edward the Elder's son. He may have reigned for just sixteen days in 924, before dying himself."
+  }
+ ],
+ "traps": [
+  {
+   "answer": "Oliver Cromwell",
+   "aliases": [
+    "Cromwell",
+    "King Oliver Cromwell",
+    "King Cromwell",
+    "Lord Protector"
+   ],
+   "reason": "Lord Protector, not king. He turned down the crown in 1657."
+  },
+  {
+   "answer": "Richard Cromwell",
+   "aliases": [
+    "King Richard Cromwell"
+   ],
+   "reason": "Lord Protector after his father, briefly. Nicknamed Tumbledown Dick."
+  },
+  {
+   "answer": "King Arthur",
+   "aliases": [
+    "Arthur"
+   ],
+   "reason": "Legendary, if he existed at all."
+  },
+  {
+   "answer": "Prince Arthur",
+   "aliases": [
+    "Arthur Tudor"
+   ],
+   "reason": "Henry VIII's elder brother, who died before he could reign."
+  },
+  {
+   "answer": "Boudica",
+   "aliases": [
+    "Boadicea",
+    "Queen Boudica",
+    "Queen Boadicea"
+   ],
+   "reason": "Queen of the Iceni, who burned Roman London. Not a monarch of England."
+  },
+  {
+   "answer": "Mary, Queen of Scots",
+   "aliases": [
+    "Mary Stuart"
+   ],
+   "reason": "Queen of Scotland, executed on Elizabeth I's orders. Never Queen of England."
+  },
+  {
+   "answer": "Robert the Bruce",
+   "aliases": [
+    "Robert Bruce",
+    "King Robert the Bruce",
+    "King Robert Bruce"
+   ],
+   "reason": "King of Scots, who beat the English at Bannockburn."
+  },
+  {
+   "answer": "Macbeth",
+   "aliases": [
+    "King Macbeth"
+   ],
+   "reason": "A real King of Scots, from 1040. Never of England."
+  },
+  {
+   "answer": "James IV",
+   "aliases": [
+    "James 4",
+    "King James IV"
+   ],
+   "reason": "King of Scots, killed at Flodden in 1513. Never King of England."
+  },
+  {
+   "answer": "Harald Hardrada",
+   "aliases": [
+    "Harald",
+    "Harald III",
+    "King Harald Hardrada",
+    "King Harald",
+    "King Harald III"
+   ],
+   "reason": "King of Norway, killed invading England at Stamford Bridge in 1066."
+  },
+  {
+   "answer": "Prince Albert",
+   "aliases": [
+    "Albert"
+   ],
+   "reason": "Victoria's husband. A prince, never king."
+  },
+  {
+   "answer": "Prince Philip",
+   "reason": "The Queen's husband for 73 years, but never king."
+  },
+  {
+   "answer": "The Black Prince",
+   "aliases": [
+    "Edward the Black Prince"
+   ],
+   "reason": "Edward III's heir, who died a year before his father."
+  },
+  {
+   "answer": "Bonnie Prince Charlie",
+   "aliases": [
+    "Charles Edward Stuart",
+    "The Young Pretender"
+   ],
+   "reason": "The Young Pretender, a Jacobite claimant who never reigned."
+  },
+  {
+   "answer": "James III",
+   "aliases": [
+    "James 3",
+    "The Old Pretender",
+    "King James III"
+   ],
+   "reason": "The Old Pretender, a Jacobite claimant who never reigned."
+  },
+  {
+   "answer": "Henry IX",
+   "aliases": [
+    "Henry 9",
+    "King Henry IX"
+   ],
+   "reason": "A Jacobite cardinal who styled himself Henry IX. He never reigned."
+  },
+  {
+   "answer": "Richard IV",
+   "aliases": [
+    "Richard 4",
+    "Perkin Warbeck",
+    "King Richard IV",
+    "King Perkin Warbeck"
+   ],
+   "reason": "Perkin Warbeck claimed the name in the 1490s. He was hanged."
+  },
+  {
+   "answer": "John II",
+   "aliases": [
+    "John 2",
+    "King John II"
+   ],
+   "reason": "No king has taken the name since John. There has never been a John II."
+  },
+  {
+   "answer": "William V",
+   "aliases": [
+    "William 5",
+    "Prince William",
+    "King William V"
+   ],
+   "reason": "Not yet. The heir is waiting."
+  },
+  {
+   "answer": "Charles IV",
+   "aliases": [
+    "Charles 4",
+    "King Charles IV"
+   ],
+   "reason": "No such monarch. Not yet, anyway."
+  },
+  {
+   "answer": "Elizabeth III",
+   "aliases": [
+    "Elizabeth 3",
+    "Queen Elizabeth III"
+   ],
+   "reason": "No such monarch. Not yet, anyway."
+  },
+  {
+   "answer": "Edward IX",
+   "aliases": [
+    "Edward 9",
+    "King Edward IX"
+   ],
+   "reason": "No such monarch. Not yet, anyway."
+  },
+  {
+   "answer": "George VII",
+   "aliases": [
+    "George 7",
+    "King George VII"
+   ],
+   "reason": "No such monarch. Not yet, anyway."
+  },
+  {
+   "answer": "Victoria II",
+   "aliases": [
+    "Victoria 2",
+    "Queen Victoria II"
+   ],
+   "reason": "There has only ever been one."
+  },
+  {
+   "answer": "Offa",
+   "aliases": [
+    "King Offa",
+    "Penda",
+    "King Penda",
+    "Coenwulf"
+   ],
+   "reason": "King of Mercia: mighty, but never king of all England."
+  },
+  {
+   "answer": "Philip",
+   "reason": "Which Philip? Two were married to a queen, but only one was called king."
+  },
+  {
+   "answer": "James V",
+   "aliases": [
+    "James 5",
+    "King James V"
+   ],
+   "reason": "King of Scots, and father of Mary, Queen of Scots. Never King of England."
+  },
+  {
+   "answer": "Louis of France",
+   "aliases": [
+    "Prince Louis",
+    "Louis VIII",
+    "Louis the Lion",
+    "Louis",
+    "King Louis of France",
+    "King Louis VIII",
+    "King Louis the Lion",
+    "King Louis"
+   ],
+   "reason": "Proclaimed king in London in 1216 by rebel barons, but never crowned. He was paid to go home."
+  },
+  {
+   "answer": "Anne Boleyn",
+   "aliases": [
+    "Catherine of Aragon",
+    "Jane Seymour",
+    "Anne of Cleves",
+    "Catherine Howard",
+    "Catherine Parr",
+    "Queen Anne Boleyn",
+    "Queen Catherine of Aragon",
+    "Queen Jane Seymour",
+    "Queen Anne of Cleves",
+    "Queen Catherine Howard",
+    "Queen Catherine Parr"
+   ],
+   "reason": "One of Henry VIII's six wives: a queen by marriage, never a ruler."
+  },
+  {
+   "answer": "Eleanor of Aquitaine",
+   "aliases": [
+    "Queen Eleanor of Aquitaine"
+   ],
+   "reason": "Queen of England by marriage, twice a regent, never the monarch."
+  },
+  {
+   "answer": "Queen Camilla",
+   "aliases": [
+    "Camilla"
+   ],
+   "reason": "Queen by marriage. Charles III is the monarch."
+  },
+  {
+   "answer": "Mary III",
+   "aliases": [
+    "Mary 3",
+    "Queen Mary III"
+   ],
+   "reason": "There have only been two."
+  },
+  {
+   "answer": "Anne II",
+   "aliases": [
+    "Anne 2",
+    "Queen Anne II"
+   ],
+   "reason": "There has only ever been one."
+  },
+  {
+   "answer": "Stephen II",
+   "aliases": [
+    "Stephen 2",
+    "King Stephen II"
+   ],
+   "reason": "There has only ever been one."
+  },
+  {
+   "answer": "Rædwald",
+   "aliases": [
+    "Redwald",
+    "Edwin of Northumbria",
+    "Oswald",
+    "Oswald of Northumbria",
+    "Oswiu",
+    "Edmund the Martyr",
+    "Saint Edmund",
+    "St Edmund the Martyr",
+    "Æthelberht of Kent",
+    "Ethelbert of Kent",
+    "Æthelflæd",
+    "Ethelfleda",
+    "Lady of the Mercians",
+    "Guthrum",
+    "Eric Bloodaxe",
+    "Erik Bloodaxe"
+   ],
+   "reason": "Ruled another kingdom in England, never Wessex or all of England."
+  },
+  {
+   "answer": "Queen Mother",
+   "aliases": [
+    "Queen Elizabeth The Queen Mother",
+    "Elizabeth Bowes-Lyon"
+   ],
+   "reason": "George VI's wife: a queen by marriage, never the monarch."
+  },
+  {
+   "answer": "Princess Diana",
+   "aliases": [
+    "Diana",
+    "Lady Diana",
+    "Diana Spencer",
+    "Lady Di",
+    "Diana, Princess of Wales"
+   ],
+   "reason": "Princess of Wales, never queen."
+  },
+  {
+   "answer": "Prince Harry",
+   "aliases": [
+    "Duke of Sussex"
+   ],
+   "reason": "A prince, but never a king."
+  }
+ ],
+ "section": "World history",
+ "source": "Copied from the daily question \"english-monarchs\" on 28 November 2026."
+}

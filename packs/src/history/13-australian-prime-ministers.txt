@@ -1,0 +1,41 @@
+id: history-australian-prime-ministers
+text: Name a Prime Minister of Australia.
+flavor: Thirty-one have held the office. One of them walked into the sea and did not come back.
+rules: Anyone who has served as Prime Minister of Australia since 1901, including caretakers. Surnames are fine.
+section: Australia
+asOf: 2026-11-28
+---
+1 Anthony Albanese | Albanese | Albo
+1 Scott Morrison | Morrison | ScoMo | Scomo
+1 John Howard | Howard
+1 Kevin Rudd | Rudd | Kevin 07
+1 Julia Gillard | Gillard
+1 Bob Hawke | Hawke | Robert Hawke | Hawkie
+2 Malcolm Turnbull | Turnbull
+2 Tony Abbott | Abbott
+2 Paul Keating | Keating
+2 Gough Whitlam | Whitlam | Edward Gough Whitlam
+2 Robert Menzies | Menzies | Sir Robert Menzies | Bob Menzies | Ming
+2 Malcolm Fraser | Fraser
+2 Harold Holt | Holt
+3 Edmund Barton | Barton | Sir Edmund Barton | Toby Barton
+3 John Curtin | Curtin
+3 Ben Chifley | Chifley | Joseph Benedict Chifley
+3 Alfred Deakin | Deakin
+3 Billy Hughes | Hughes | William Morris Hughes | W. M. Hughes
+3 John Gorton | Gorton
+3 William McMahon | McMahon | Billy McMahon | Sir William McMahon
+4 Joseph Lyons | Lyons | Joe Lyons
+4 Andrew Fisher | Fisher
+4 Stanley Bruce | Bruce | Stanley Melbourne Bruce | S. M. Bruce
+4 James Scullin | Scullin
+4 John McEwen | McEwen | Black Jack McEwen
+4 George Reid | Reid | Sir George Reid
+4 Joseph Cook | Cook | Sir Joseph Cook
+5 Chris Watson | Watson | John Christian Watson | J. C. Watson
+5 Arthur Fadden | Fadden | Artie Fadden
+5 Earle Page | Page | Sir Earle Page
+6 Frank Forde | Forde | Francis Forde :: Australia's shortest-serving Prime Minister. He held the job for eight days in July 1945, between the death of John Curtin and the party's vote for Ben Chifley.
+x Peter Dutton | Dutton | Bill Shorten | Shorten | Kim Beazley | Beazley | Peter Costello | Costello | Mark Latham | Latham | John Hewson | Hewson | Doc Evatt | Evatt | Arthur Calwell | Calwell | Sussan Ley | Ley :: Led a party, or came close, but never became Prime Minister.
+x Henry Parkes | Parkes | Sir Henry Parkes :: The "Father of Federation" was Premier of New South Wales, and died five years before there was a Commonwealth to lead.
+x Jacinda Ardern | Ardern | Winston Churchill | Churchill | Boris Johnson | Queen Elizabeth | King Charles | Governor-General | John Kerr | Kerr :: Not a Prime Minister of Australia.

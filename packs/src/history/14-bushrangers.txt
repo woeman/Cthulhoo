@@ -1,0 +1,58 @@
+id: history-bushrangers
+text: Name an Australian bushranger or outlaw.
+flavor: They took to the bush with a stolen horse and a gun. Few of them saw thirty.
+rules: Any bushranger, gang member or notorious outlaw of colonial Australia. Surnames are fine.
+section: Australia
+---
+1 Ned Kelly | Kelly | Edward Kelly | Kelly Gang
+2 Ben Hall | Hall
+2 Dan Kelly | Daniel Kelly
+2 Captain Thunderbolt | Thunderbolt | Frederick Ward | Fred Ward
+2 Mad Dan Morgan | Dan Morgan | Mad Dog Morgan | Daniel Morgan | Morgan
+2 Captain Moonlite | Moonlite | Andrew George Scott | Captain Moonlight | Moonlight
+2 Joe Byrne | Byrne
+2 Steve Hart | Hart
+2 Frank Gardiner | Gardiner | The Darkie
+3 Jack Donahue | Bold Jack Donahue | Donahue | John Donohoe | Jack Donohoe | Wild Colonial Boy
+3 Martin Cash | Cash
+3 Matthew Brady | Brady | Gentleman Brady
+3 Harry Power | Power | Henry Johnson
+3 Johnny Gilbert | John Gilbert | Gilbert | Happy Jack
+3 John Dunn | Dunn | Johnny Dunn
+3 Jimmy Governor | Governor | Joe Governor
+3 John Vane | Vane
+3 Michael Howe | Howe | Black Howe
+6 Alexander Pearce | Pearce | Alexander Pierce | The Cannibal Convict :: Escaped Macquarie Harbour in 1822 with seven other convicts and walked out of the Tasmanian bush alone, having eaten his companions. Then he did it again.
+3 Musquito
+3 John Caesar | Black Caesar | Caesar
+3 Thomas Clarke | John Clarke | Clarke brothers | Clarke | Tom Clarke
+3 Mary Ann Bugg | Bugg
+3 Jessie Hickman | Hickman | Lady Bushranger
+6 Sam Poo | Poo :: Often called Australia's only Chinese bushranger. He robbed travellers on the road near Mudgee in 1865 and was hanged at Bathurst that December.
+3 Frank McCallum | Captain Melville | Melville
+3 Jackey Jackey | William Westwood | Westwood | Jacky Jacky
+3 Teddy the Jewboy | Edward Davis | Jewboy Gang
+3 Harry Readford | Readford | Henry Redford | Captain Starlight | Starlight | Redford
+4 John O'Meally | O'Meally | Johnny O'Meally
+4 Mickey Burke | Micky Burke
+4 Fred Lowry | Lowry | Frederick Lowry
+4 John Peisley | Peisley | Piesley
+4 Bluecap | Blue Cap | Robert Cotterell
+4 Thomas Jeffries | Jeffries | Mark Jeffries | Thomas Jeffrey
+4 Patrick Kenniff | Kenniff brothers | Kenniff | James Kenniff
+3 Moondyne Joe | Joseph Bolitho Johns | Moondyne | Joseph Johns
+4 Aaron Sherritt | Sherritt
+4 Rocky Whelan | John Whelan | Whelan
+4 Lawrence Kavenagh | Kavenagh | Kavanagh
+4 Harry Manns | Henry Manns | Manns
+4 John Bow | Bow
+4 Alexander Fordyce | Fordyce
+4 Dan Charters | Charters
+4 James McPherson | Wild Scotchman | McPherson | Wild Scotsman
+4 Gus Wernicke | Wernicke | Augustus Wernicke
+4 James Nesbitt | Nesbitt
+4 Paddy Curran | Curran | Patrick Curran
+x Pemulwuy | Jandamarra | Windradyne | Yagan | Dundalli | Tunnerminnerwait :: Outlawed by the colony, but remembered as a resistance leader defending Country rather than as a bushranger.
+x Robin Hood | Dick Turpin | Jesse James | Billy the Kid | Butch Cassidy | Al Capone | Bonnie and Clyde | Blackbeard :: An outlaw, but not one of ours.
+x Chopper Read | Chopper | Mark Read | Squizzy Taylor | Squizzy | Ivan Milat | Milat | Carl Williams | Tilly Devine :: A criminal of a later age. The bushrangers were gone by the 1900s.
+x Bushranger | Outlaw | Convict | Burke and Wills | Burke | Wills | Captain Cook | Banjo Paterson | Man from Snowy River | Clancy :: Not a bushranger.
