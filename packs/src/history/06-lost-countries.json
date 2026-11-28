@@ -15,7 +15,9 @@
     "Soviets",
     "SSSR",
     "Soviet Empire",
-    "Union of Soviet Socialist Republic"
+    "Union of Soviet Socialist Republic",
+    "ISSR",
+    "YSSR"
    ],
    "tier": 1,
    "lore": "Dissolved on 26 December 1991, the day after Gorbachev resigned."
@@ -790,7 +792,8 @@
     "Emirate of Córdoba",
     "Islamic Spain",
     "Muslim Spain",
-    "Andalus"
+    "Andalus",
+    "Cordoba"
    ],
    "tier": 3
   },
@@ -1061,6 +1064,11 @@
   },
   {
    "answer": "East Pakistan",
+   "aliases": [
+    "Est Pakistan",
+    "Eest Pakistan",
+    "Aest Pakistan"
+   ],
    "tier": 3
   },
   {
@@ -1878,7 +1886,12 @@
    "aliases": [
     "Daehan Empire",
     "Empire of Korea",
-    "Great Korean Empire"
+    "Great Korean Empire",
+    "Korea",
+    "Unified Korea",
+    "Old Korea",
+    "Imperial Korea",
+    "Corea"
    ],
    "tier": 4
   },
@@ -2978,7 +2991,8 @@
   {
    "answer": "Kingdom of Sarawak",
    "aliases": [
-    "Raj of Sarawak"
+    "Raj of Sarawak",
+    "Sarawak"
    ],
    "tier": 5
   },
@@ -3255,7 +3269,8 @@
   {
    "answer": "Khanate of Kazan",
    "aliases": [
-    "Kazan Khanate"
+    "Kazan Khanate",
+    "Kazan"
    ],
    "tier": 5
   },
@@ -3826,7 +3841,8 @@
   {
    "answer": "Empire of Nicaea",
    "aliases": [
-    "Nicaean Empire"
+    "Nicaean Empire",
+    "Nicaea"
    ],
    "tier": 5
   },
@@ -5348,6 +5364,9 @@
   },
   {
    "answer": "Kingdom of Tahiti",
+   "aliases": [
+    "Tahiti"
+   ],
    "tier": 5
   },
   {
@@ -5379,6 +5398,39 @@
     "Tongan Empire"
    ],
    "tier": 5
+  },
+  {
+   "answer": "West Pakistan",
+   "tier": 5,
+   "lore": "The western wing of Pakistan until 1971, when the eastern wing became Bangladesh."
+  },
+  {
+   "answer": "Couto Misto",
+   "aliases": [
+    "Couto Mixto",
+    "Coto Mixto"
+   ],
+   "tier": 5,
+   "lore": "A sliver of land between Spain and Portugal that answered to neither until 1868."
+  },
+  {
+   "answer": "Dutch Brazil",
+   "aliases": [
+    "New Holland",
+    "Nieuw Holland"
+   ],
+   "tier": 5,
+   "lore": "For a quarter of a century the Dutch held the sugar coast of Brazil and called it New Holland."
+  },
+  {
+   "answer": "Hutt River",
+   "aliases": [
+    "Principality of Hutt River",
+    "Hutt River Province",
+    "Hutt River Principality"
+   ],
+   "tier": 5,
+   "lore": "A wheat farm in Western Australia that seceded in 1970 and gave up in 2020, owing tax."
   },
   {
    "answer": "Neutral Moresnet",
@@ -5574,10 +5626,6 @@
    "reason": "Still here, in the Pacific."
   },
   {
-   "answer": "Korea",
-   "reason": "Two countries still carry the name."
-  },
-  {
    "answer": "Vikings",
    "aliases": [
     "Viking Empire",
@@ -5603,6 +5651,13 @@
     "Laurasia"
    ],
    "reason": "A supercontinent, millions of years before there were countries."
+  },
+  {
+   "answer": "Van Diemen's Land",
+   "aliases": [
+    "Van Diemen"
+   ],
+   "reason": "Renamed Tasmania in 1856. Same island, new name."
   }
  ],
  "decoys": [

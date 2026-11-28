@@ -52,3 +52,12 @@ refresh a listing, replace the CSV with a newer snapshot, rebuild, and update
 node scripts/build-packs.mjs        # writes packs/*.json and packs/index.json
 node scripts/validate-content.mjs   # checks data/ and packs/; fails if the index is stale
 ```
+
+## Questions reused from the daily game
+
+A source file `packs/src/<pack>/NN-<daily id>.json` is a daily question used in
+a pack under the id `<pack>-<daily id>`. While that daily question is in
+`data/`, `node scripts/build-packs.mjs` takes its wording, answers, refusals
+and decoys from there (the pack keeps its own section and dates), so after any
+change to a daily question, run the builder again. `node
+scripts/validate-content.mjs` fails when a reused question has fallen behind.

@@ -108,7 +108,9 @@
     "President Uncle Joe",
     "President Joseph R. Biden Jr.",
     "President Joseph Robinette Biden Jr.",
-    "President JRB"
+    "President JRB",
+    "Buden",
+    "President Buden"
    ],
    "tier": 1
   },
@@ -252,7 +254,8 @@
     "President Younger Bush",
     "President Junior Bush",
     "President George Bush the Younger",
-    "President George"
+    "President George",
+    "Busn"
    ],
    "tier": 1
   },
@@ -551,7 +554,9 @@
     "President Gerald Ford Jr.",
     "President Gerald R. Ford Jr.",
     "President Leslie Lynch King Jr.",
-    "President Leslie King"
+    "President Leslie King",
+    "Fore",
+    "Gord"
    ],
    "tier": 2
   },
@@ -792,7 +797,9 @@
     "President Red Fox of Kinderhook",
     "President Martin Van Ruin",
     "President MVB",
-    "President Matty Van"
+    "President Matty Van",
+    "Burn",
+    "Bure"
    ],
    "tier": 3
   },
@@ -1148,6 +1155,78 @@
     "President John Ellis Bush"
    ],
    "reason": "Governor of Florida, whose father and brother were both president."
+  },
+  {
+   "answer": "Eleanor Roosevelt",
+   "aliases": [
+    "Eleanor",
+    "President Eleanor Roosevelt"
+   ],
+   "reason": "First Lady for twelve years, and a force in her own right. Never president."
+  },
+  {
+   "answer": "Martin Luther King",
+   "aliases": [
+    "Martin Luther King Jr.",
+    "MLK",
+    "Dr King",
+    "Dr Martin Luther King",
+    "President Martin Luther King"
+   ],
+   "reason": "He changed the country without ever holding office."
+  },
+  {
+   "answer": "John McCain",
+   "aliases": [
+    "McCain",
+    "President McCain",
+    "Mitt Romney",
+    "Romney",
+    "President Romney",
+    "Bernie Sanders",
+    "Bernie",
+    "Sanders",
+    "John Kerry",
+    "Bob Dole",
+    "Michael Dukakis",
+    "Dukakis",
+    "Walter Mondale",
+    "Mondale",
+    "Barry Goldwater",
+    "Goldwater",
+    "Ross Perot",
+    "Perot"
+   ],
+   "reason": "He ran, and lost. Never president."
+  },
+  {
+   "answer": "Jed Bartlet",
+   "aliases": [
+    "Josiah Bartlet",
+    "President Bartlet",
+    "Bartlet",
+    "Frank Underwood",
+    "President Underwood",
+    "Selina Meyer",
+    "President Camacho",
+    "David Palmer",
+    "President David Palmer",
+    "Tom Kirkman",
+    "President Kirkman",
+    "Fitzgerald Grant",
+    "President Whitmore",
+    "Thomas Whitmore"
+   ],
+   "reason": "President only on television."
+  },
+  {
+   "answer": "Sam Houston",
+   "aliases": [
+    "Houston",
+    "President Sam Houston",
+    "President Houston"
+   ],
+   "reason": "President of the Republic of Texas, never of the United States."
   }
  ],
  "section": "World history",

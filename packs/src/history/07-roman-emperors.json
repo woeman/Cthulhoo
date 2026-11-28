@@ -42,7 +42,8 @@
     "Lucius Domitius Ahenobarbus",
     "Emperor Nero Claudius Caesar",
     "Emperor Nero Caesar",
-    "Emperor Lucius Domitius Ahenobarbus"
+    "Emperor Lucius Domitius Ahenobarbus",
+    "Nero Claudius Caesar Augustus Germanicus"
    ],
    "tier": 1,
    "lore": "Did not fiddle while Rome burned. The fiddle hadn't been invented."
@@ -58,7 +59,9 @@
     "Emperor Gaius",
     "Emperor Little Boots",
     "Emperor Gaius Caesar",
-    "Emperor Gaius Caesar Germanicus"
+    "Emperor Gaius Caesar Germanicus",
+    "Gaius Caesar Augustus Germanicus",
+    "Gaius Julius Caesar Germanicus"
    ],
    "tier": 1,
    "lore": "Said to have planned to make his horse a consul, though the tale may be slander."
@@ -119,7 +122,10 @@
     "Claudius I",
     "Emperor Tiberius Claudius Caesar",
     "Emperor Claudius Caesar",
-    "Emperor Claudius I"
+    "Emperor Claudius I",
+    "Tiberius Claudius Caesar Augustus Germanicus",
+    "Tiberius Claudius Caesar Augustus",
+    "Tiberius Claudius Drusus Nero Germanicus"
    ],
    "tier": 1
   },
@@ -168,7 +174,9 @@
    "aliases": [
     "Emperor Vespasian",
     "Vespasianus",
-    "Emperor Vespasianus"
+    "Emperor Vespasianus",
+    "Titus Flavius Vespasianus",
+    "Caesar Vespasianus Augustus"
    ],
    "tier": 2
   },
@@ -197,7 +205,9 @@
     "Diocletianus",
     "Diocles",
     "Emperor Diocletianus",
-    "Emperor Diocles"
+    "Emperor Diocles",
+    "Gaius Aurelius Valerius Diocletianus",
+    "Gaius Valerius Diocletianus"
    ],
    "tier": 2,
    "lore": "Split the empire in four, then retired to grow cabbages in what is now Croatia."
