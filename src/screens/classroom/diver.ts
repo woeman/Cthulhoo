@@ -13,7 +13,7 @@ import { questionBlock, riseMs } from '../seance/candle';
 import { sameWords } from '../seance/model';
 import { addTry, answerForm, CandleRow, sealEl, signEl, tierName, unsaidList, type FormParts } from '../seance/parts';
 import { Scene, uniq, type Ctx } from '../seance/scene';
-import { answerList, classLine, classStandings, MODE_COPY, nth, placeOf, plural, questionOf, tableBoard, tableName, tableRows, tableStyle } from './parts';
+import { answerList, boutLine, classLine, classStandings, lanternsEl, MODE_COPY, mySide, nth, placeOf, plural, questionOf, tableBoard, tableName, tableRows, tableStyle } from './parts';
 
 /** Where this diver's table stands, in words: "Kraken is 2nd of 4 tables". */
 function tableLine(view: ClassView): string | null {
@@ -92,7 +92,7 @@ export class DiverLobbyScene extends Scene {
       row.append(b);
     }
     const focused = this.tables.contains(document.activeElement) ? [...this.tables.querySelectorAll('button')].indexOf(document.activeElement as HTMLButtonElement) : -1;
-    this.tables.replaceChildren(h('h3', { class: 'sc-h' }, 'Your table ', h('span', { class: 'sc-count', style: tableStyle(mine) }, tableName(mine))), row, h('p', { class: 'cv-table-note' }, 'Sit with your friends: tap a table to move to it. A table wins its deepest different answers.'));
+    this.tables.replaceChildren(h('h3', { class: 'sc-h' }, 'Your table ', h('span', { class: 'sc-count', style: tableStyle(mine) }, tableName(mine))), row, h('p', { class: 'cv-table-note' }, `Sit with your friends: tap a table to move to it. ${view.config.mode === 'last' ? 'Your table takes its turns together, and anyone at it may answer.' : 'A table wins its deepest different answers.'}`));
     if (focused >= 0) (row.children[focused] as HTMLElement | undefined)?.focus({ preventScroll: true });
     if (tablesWere !== n || (mine && mine !== this.told)) {
       this.told = mine;
@@ -367,14 +367,15 @@ export class DiverAskScene extends Scene {
 // ------------------------------------------------------------------ the answers surface
 
 /** One of this diver's own answers, once revealed: what they said, how rare, how many said it, how deep. */
-function myAnswer(theme: Ctx['env']['theme'], a: { input: string; answer: string; tier: number; voices: number; depth: number }): HTMLElement {
+function myAnswer(theme: Ctx['env']['theme'], a: { input: string; answer: string; tier: number; voices: number; depth: number }, bout = false): HTMLElement {
   return h(
     'li',
-    { class: `cv-answer${a.voices === 1 ? ' is-lone' : ''}`, 'data-tier': String(a.tier), style: `--tier-color: var(--color-tier-${a.tier})` },
+    { class: `cv-answer${a.voices === 1 && !bout ? ' is-lone' : ''}`, 'data-tier': String(a.tier), style: `--tier-color: var(--color-tier-${a.tier})` },
     sealEl(a.tier, 'seal cv-answer-seal'),
     h('span', { class: 'cv-answer-a' }, a.answer, a.input && !sameWords(a.input, a.answer) ? h('span', { class: 'cv-answer-from' }, ` from “${a.input}”`) : null),
     h('span', { class: 'cv-answer-t' }, tierName(theme, a.tier)),
-    h('span', { class: 'cv-answer-who' }, a.voices === 1 ? 'a lone voice' : `${a.voices} voices`),
+    // In a bout every answer is named once, so there is no chorus to count.
+    h('span', { class: 'cv-answer-who' }, bout ? '' : a.voices === 1 ? 'a lone voice' : `${a.voices} voices`),
     h('span', { class: 'cv-answer-d' }, `+${fmtMetres(a.depth)}`, h('span', { class: 'u' }, ' m')),
   );
 }
@@ -387,11 +388,11 @@ function placeLine(view: ClassView): string {
 }
 
 /** The deepest few, with this diver's own row added below when they are not among them. */
-function deepestBoard(view: ClassView, gains: boolean): HTMLElement {
+function deepestBoard(view: ClassView, gains: boolean, marks?: (id: string) => HTMLElement | null): HTMLElement {
   const rows = [...(view.standings ?? [])];
   const you = view.you;
   if (you && !rows.some((r) => r.id === you.id)) rows.push({ id: you.id, name: you.name, table: you.table, total: you.total, gain: you.outcome?.gain ?? 0, rank: you.rank });
-  return classStandings(rows, { you: you?.id, gains, tables: !!view.config.tables });
+  return classStandings(rows, { you: you?.id, gains, tables: !!view.config.tables, ...(marks ? { marks } : {}) });
 }
 
 export class DiverRevealScene extends Scene {
@@ -404,34 +405,60 @@ export class DiverRevealScene extends Scene {
     const result = view.result;
     const out = view.you?.outcome;
     const titleId = uniq('cv-reveal');
-    const mine = h('section', { class: 'plate cv-yours', 'aria-label': 'Your answer' });
+    // A bout of last diver standing: who stood last, and whether that was this diver's side.
+    const bout = result?.last;
+    const tables = !!view.config.tables;
+    const side = bout ? mySide(view, bout.sides) : -1;
+    const stood = !!bout && bout.winner >= 0 && bout.winner === side;
+    const won = bout ? (stood ? (tables ? 'Your table is the last standing' : 'You are the last diver standing') : boutLine(bout, tables)) : '';
+    const mine = h('section', { class: 'plate cv-yours', 'aria-label': bout ? 'What you named' : 'Your answer' });
     const gave = out?.answers ?? [];
+    const gained = h('span', { class: 'sc-count cv-gain' }, `+${fmtMetres(out?.gain ?? 0)} m`);
     if (!gave.length) {
-      mine.append(h('p', { class: 'cv-yours-none' }, 'The candle went out before you sealed an answer.'));
+      mine.append(h('p', { class: 'cv-yours-none' }, bout ? (stood && !tables ? 'You named nothing, and still stood last.' : 'You named nothing in this bout.') : 'The candle went out before you sealed an answer.'));
+      if (bout && out?.gain) mine.prepend(h('h3', { class: 'sc-h' }, 'For standing last', gained));
     } else {
       const best = [...gave].sort((a, b) => b.depth - a.depth);
       mine.append(
-        h('h3', { class: 'sc-h' }, gave.length === 1 ? 'Your answer' : `Your ${gave.length} answers`, h('span', { class: 'sc-count cv-gain' }, `+${fmtMetres(out?.gain ?? 0)} m`)),
-        h('ul', { class: 'cv-answers is-mine' }, ...best.slice(0, 12).map((a) => myAnswer(theme, a))),
+        h('h3', { class: 'sc-h' }, bout ? (gave.length === 1 ? 'You named' : `You named ${gave.length}`) : gave.length === 1 ? 'Your answer' : `Your ${gave.length} answers`, gained),
+        h('ul', { class: 'cv-answers is-mine' }, ...best.slice(0, 12).map((a) => myAnswer(theme, a, !!bout))),
       );
       if (best.length > 12) mine.append(h('p', { class: 'cv-answer-more' }, `and ${plural(best.length - 12, 'more')}`));
+      if (bout && stood && !tables) mine.append(h('p', { class: 'cv-answer-more' }, `and ${fmtMetres(bout.bonus)} m for standing last`));
     }
     const place = h('p', { class: 'cv-place' }, placeLine(view));
     const tline = tableLine(view);
     const rows: ClassAnswerRow[] = result?.answers ?? [];
+    const lit = (pick: (s: NonNullable<typeof bout>['sides'][number]) => boolean) => {
+      const at = bout?.sides.find(pick);
+      return bout && at ? lanternsEl(at.lanterns, bout.lanterns, 'cv-board-lanterns') : null;
+    };
     const parts: Array<HTMLElement | null> = [
-      h('header', { class: 'sc-reveal-head' }, h('p', { class: 'kicker' }, `${questionOf(view)} · the answers surface`), this.heading('h2', result?.prompt.text ?? view.prompt?.text ?? '', 'sc-reveal-q cv-reveal-q', titleId)),
+      h(
+        'header',
+        { class: 'sc-reveal-head' },
+        h('p', { class: 'kicker' }, `${questionOf(view)} · ${bout ? 'the bout is over' : 'the answers surface'}`),
+        this.heading('h2', result?.prompt.text ?? view.prompt?.text ?? '', 'sc-reveal-q cv-reveal-q', titleId),
+        bout ? h('p', { class: `cv-hr-won${stood ? ' is-yours' : ''}` }, `${won}.`, stood && tables ? h('span', { class: 'cv-hr-bonus' }, ` +${fmtMetres(bout.bonus)} m for the table`) : null) : null,
+      ),
       mine,
       h('div', { class: 'cv-place-block' }, place, tline ? h('p', { class: 'cv-place-table' }, tline) : null),
-      rows.length ? h('section', { class: 'plate cv-said', 'aria-label': 'What the class said' }, h('h3', { class: 'sc-h' }, 'What the class said', h('span', { class: 'sc-count' }, `${plural(result?.given ?? rows.length, 'different answer')}`)), answerList(theme, rows, { given: result?.given })) : null,
-      result?.unsaid.length ? h('section', { class: 'sc-unsaid' }, h('h3', { class: 'sc-h sc-unsaid-k' }, 'What the deep knew'), h('p', { class: 'sc-unsaid-sub' }, 'The rarest answers nobody gave.'), unsaidList(theme, result.unsaid)) : null,
-      view.config.tables ? h('section', { class: 'plate cv-board', 'aria-label': 'The tables' }, h('h3', { class: 'sc-h' }, 'The tables'), tableBoard(tableRows(view, result?.tables), { you: view.you?.table, gains: true })) : null,
-      h('section', { class: 'plate cv-board', 'aria-label': 'The deepest divers' }, h('h3', { class: 'sc-h' }, 'The deepest'), deepestBoard(view, true)),
+      rows.length
+        ? h(
+            'section',
+            { class: 'plate cv-said', 'aria-label': bout ? 'What was named' : 'What the class said' },
+            h('h3', { class: 'sc-h' }, bout ? 'What was named' : 'What the class said', h('span', { class: 'sc-count' }, bout ? plural(result?.given ?? rows.length, 'answer') : plural(result?.given ?? rows.length, 'different answer'))),
+            answerList(theme, rows, { given: result?.given, bout: !!bout }),
+          )
+        : null,
+      result?.unsaid.length ? h('section', { class: 'sc-unsaid' }, h('h3', { class: 'sc-h sc-unsaid-k' }, 'What the deep knew'), h('p', { class: 'sc-unsaid-sub' }, bout ? 'The rarest answers nobody named.' : 'The rarest answers nobody gave.'), unsaidList(theme, result.unsaid)) : null,
+      tables ? h('section', { class: 'plate cv-board', 'aria-label': 'The tables' }, h('h3', { class: 'sc-h' }, 'The tables'), tableBoard(tableRows(view, result?.tables), { you: view.you?.table, gains: true, ...(bout ? { marks: (t: number) => lit((s) => s.table === t) } : {}) })) : null,
+      h('section', { class: 'plate cv-board', 'aria-label': 'The deepest divers' }, h('h3', { class: 'sc-h' }, 'The deepest'), deepestBoard(view, true, bout && !tables ? (id: string) => lit((s) => s.id === id) : undefined)),
       h('div', { class: 'sc-wait' }, h('p', { class: 'sc-wait-line' }, 'Watch the big screen. The host asks the next question.')),
     ];
-    this.el = h('div', { class: 'sc-scene cv-reveal', 'aria-labelledby': titleId }, ...parts);
+    this.el = h('div', { class: `sc-scene cv-reveal${bout ? ' is-bout' : ''}`, 'aria-labelledby': titleId }, ...parts);
     const gain = out?.gain ?? 0;
-    this.env.announce(`${gave.length ? `You sank ${fmtMetres(gain)} metres.` : 'You sealed nothing.'} ${placeLine(view)}`);
+    this.env.announce(`${bout ? `The bout is over. ${won}. ` : ''}${gave.length || gain ? `You sank ${fmtMetres(gain)} metres.` : bout ? 'You named nothing.' : 'You sealed nothing.'} ${placeLine(view)}`);
     if (gain > 0) this.later(() => this.env.sound?.accept?.(Math.max(1, ...gave.map((a) => a.tier))), 300);
     this.ctx.sink(view.you?.total ?? 0);
   }

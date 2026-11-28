@@ -4,7 +4,7 @@
 
 import { choiceNames } from '../../game/topics';
 import { filedUnder } from '../../game/packs';
-import { CLASS_MAX_SEATS, CLASS_QUESTIONS, CLASS_SECONDS, CLASS_TABLES, type ClassConfig, type ClassMode, type ClassSeatPublic, type ClassView } from '../../party/class-types';
+import { CLASS_LANTERNS, CLASS_MAX_SEATS, CLASS_MODES, CLASS_QUESTIONS, CLASS_SECONDS, CLASS_TABLES, LAST_MAX_ALONE, type ClassConfig, type ClassMode, type ClassSeatPublic, type ClassView } from '../../party/class-types';
 import { signSpoken } from '../../party/codes';
 import { fmtMetres, h } from '../../ui/dom';
 import { qrSvg } from '../../ui/qr';
@@ -13,7 +13,7 @@ import { questionBlock } from '../seance/candle';
 import { listNames, shareLink } from '../seance/model';
 import { CandleRow, shareButton, signEl, unsaidList } from '../seance/parts';
 import { Scene, uniq, type Ctx } from '../seance/scene';
-import { answerList, classStandings, MODE_COPY, pickRow, plural, questionOf, tableBoard, tableName, tableRows, tableStyle, type PickRow } from './parts';
+import { answerList, boutLine, classStandings, lanternsEl, MODE_COPY, pickRow, plural, questionOf, tableBoard, tableName, tableRows, tableStyle, type PickRow } from './parts';
 
 /** The game's own address with the class's sign on it: what the QR code holds. */
 export const classLink = (sign: string): string => shareLink(location.href, sign, 'class');
@@ -24,9 +24,12 @@ const secondsChoices = (mode: ClassMode) => CLASS_SECONDS[mode].map((s) => ({ va
 
 // ------------------------------------------------------------------ the lobby
 
+/** The choices a host makes about how the class is held. */
+export type HostChoices = Pick<ClassConfig, 'mode' | 'seconds' | 'tables' | 'questions' | 'lanterns'>;
+
 export interface HostLobbyActions {
   /** How the class is held; `topics` are the names of the ticked topics, for the class to read. */
-  config(c: Pick<ClassConfig, 'mode' | 'seconds' | 'tables' | 'questions'>, topics: string[]): void;
+  config(c: HostChoices, topics: string[]): void;
   begin(): void;
   remove(id: string): void;
 }
@@ -43,6 +46,7 @@ export class HostLobbyScene extends Scene {
   private seconds: PickRow<number>;
   private tables: PickRow<number>;
   private questions: PickRow<number>;
+  private lanterns: PickRow<number>;
   private how: HTMLElement;
   private picker?: TopicPicker;
   private names: string[] = [];
@@ -88,23 +92,25 @@ export class HostLobbyScene extends Scene {
     const rollPlate = h('section', { class: 'plate cv-roll', 'aria-label': 'The class' }, h('h3', { class: 'sc-h' }, 'The class ', this.rollCount), this.rollEmpty, this.roll);
 
     const c = view.config;
-    const send = (patch: Partial<Pick<ClassConfig, 'mode' | 'seconds' | 'tables' | 'questions'>>) => {
+    const send = (patch: Partial<HostChoices>) => {
       this.click();
       const cur = this.view.config;
       const mode = patch.mode ?? cur.mode;
-      // A blitz burns longer than a classic question: changing the mode takes its usual time.
+      // A blitz burns longer than a classic question, and a turn far shorter: changing the mode takes its usual time.
       const seconds = patch.seconds ?? (CLASS_SECONDS[mode].includes(cur.seconds) ? cur.seconds : CLASS_SECONDS[mode][0]);
-      const next = { mode, seconds, tables: patch.tables ?? cur.tables, questions: patch.questions ?? cur.questions };
+      const lanterns = patch.lanterns ?? cur.lanterns;
+      const next: HostChoices = { mode, seconds, tables: patch.tables ?? cur.tables, questions: patch.questions ?? cur.questions, ...(lanterns ? { lanterns } : {}) };
       this.view = { ...this.view, config: { ...cur, ...next } };
       this.syncConfig();
       this.actions.config(next, this.names);
     };
-    this.mode = pickRow<ClassMode>('How each question is played', (['classic', 'blitz'] as const).map((m) => ({ value: m, v: MODE_COPY[m].name, u: MODE_COPY[m].line })), c.mode, (mode) => send({ mode }), 'is-words');
+    this.mode = pickRow<ClassMode>('How each question is played', CLASS_MODES.map((m) => ({ value: m, v: MODE_COPY[m].name, u: MODE_COPY[m].line })), c.mode, (mode) => send({ mode }), 'is-words');
     this.how = h('p', { class: 'cv-how' });
     this.seconds = pickRow<number>('Each question burns for', secondsChoices(c.mode), c.seconds, (seconds) => send({ seconds }));
+    this.lanterns = pickRow<number>('Lanterns each', CLASS_LANTERNS.map((n) => ({ value: n, v: String(n), u: n === 1 ? 'lantern' : 'lanterns' })), c.lanterns ?? CLASS_LANTERNS[0], (lanterns) => send({ lanterns }));
     this.tables = pickRow<number>('Tables', CLASS_TABLES.map((t) => (t ? { value: t, v: String(t), u: 'tables' } : { value: 0, v: 'None', u: 'everyone alone' })), c.tables, (tables) => send({ tables }), 'is-tables');
     this.questions = pickRow<number>('Questions', CLASS_QUESTIONS.map((q) => ({ value: q, v: String(q), u: 'questions' })), c.questions, (questions) => send({ questions }));
-    const setup = h('section', { class: 'plate sc-config cv-setup', 'aria-label': 'How the class is held' }, h('h3', { class: 'sc-h' }, 'How the class is held'), this.mode.el, this.how, this.seconds.el, this.questions.el, this.tables.el);
+    const setup = h('section', { class: 'plate sc-config cv-setup', 'aria-label': 'How the class is held' }, h('h3', { class: 'sc-h' }, 'How the class is held'), this.mode.el, this.how, this.seconds.el, this.lanterns.el, this.questions.el, this.tables.el);
 
     const parts: HTMLElement[] = [join, rollPlate, setup];
     const topics = this.env.topics;
@@ -115,7 +121,7 @@ export class HostLobbyScene extends Scene {
         if (names.join('|') === this.names.join('|')) return;
         this.names = names;
         const cur = this.view.config;
-        this.actions.config({ mode: cur.mode, seconds: cur.seconds, tables: cur.tables, questions: cur.questions }, names);
+        this.actions.config({ mode: cur.mode, seconds: cur.seconds, tables: cur.tables, questions: cur.questions, ...(cur.lanterns ? { lanterns: cur.lanterns } : {}) }, names);
       };
       let known = topics.daily();
       this.picker = topicPicker({
@@ -172,18 +178,24 @@ export class HostLobbyScene extends Scene {
 
   private syncConfig() {
     const c = this.view.config;
+    const bout = c.mode === 'last';
     this.mode.set(c.mode);
+    this.seconds.setLabel(bout ? 'Each turn burns for' : 'Each question burns for');
     this.seconds.setOptions(secondsChoices(c.mode), c.seconds);
+    this.lanterns.el.hidden = !bout;
+    this.lanterns.set(c.lanterns ?? CLASS_LANTERNS[0]);
     this.tables.set(c.tables);
     this.questions.set(c.questions);
-    this.how.textContent = `${MODE_COPY[c.mode].how}${c.tables ? ' Each table also wins its deepest different answers.' : ''}`;
+    this.how.textContent = bout
+      ? `${MODE_COPY.last.how} ${c.tables ? 'The tables take the turns, and anyone at a table may answer for it.' : `With no tables every diver takes turns alone: that suits ${LAST_MAX_ALONE} divers or fewer.`}`
+      : `${MODE_COPY[c.mode].how}${c.tables ? ' Each table also wins its deepest different answers.' : ''}`;
   }
 
   update(view: ClassView) {
     const was = this.view.config;
     this.view = view;
     const c = view.config;
-    if (c.mode !== was.mode || c.seconds !== was.seconds || c.tables !== was.tables || c.questions !== was.questions) this.syncConfig();
+    if (c.mode !== was.mode || c.seconds !== was.seconds || c.tables !== was.tables || c.questions !== was.questions || c.lanterns !== was.lanterns) this.syncConfig();
     const fresh = (view.roll ?? []).filter((s) => !this.known.has(s.id));
     for (const s of fresh) this.known.add(s.id);
     if (fresh.length && fresh.length <= 3) this.env.announce(`${listNames(fresh.map((s) => s.name))} ${fresh.length === 1 ? 'sits' : 'sit'} down.`);
@@ -230,7 +242,16 @@ export class HostLobbyScene extends Scene {
     } else for (const s of roll) this.roll.append(this.chip(s));
     this.roll.classList.toggle('is-tabled', !!n);
     if (!this.begin.disabled) this.begin.textContent = this.beginLabel();
-    if (!this.begin.disabled) this.hint.textContent = !roll.length ? 'Wait for the class to sit down, or begin to see how it goes.' : `${plural(here, 'diver')} ${here === 1 ? 'is' : 'are'} here. Ask when the class is ready.`;
+    if (this.begin.disabled) return;
+    const bout = view.config.mode === 'last';
+    this.hint.textContent =
+      bout && !here
+        ? 'Last diver standing needs somebody here to take a turn.'
+        : bout && !n && here > LAST_MAX_ALONE
+          ? `${plural(here, 'diver')} are here. Last diver standing takes turns: with more than ${LAST_MAX_ALONE}, choose tables first.`
+          : !roll.length
+            ? 'Wait for the class to sit down, or begin to see how it goes.'
+            : `${plural(here, 'diver')} ${here === 1 ? 'is' : 'are'} here. Ask when the class is ready.`;
   }
 
   /** The question could not be asked: say why, and offer the button again. */
@@ -352,37 +373,52 @@ export class HostRevealScene extends Scene {
       this.click();
       actions.end();
     });
-    const sum = r
-      ? [
-          `${plural(r.spoke, 'diver')} answered`,
-          `${plural(r.given, 'different answer')} of the ${r.known.toLocaleString('en-GB')} the deep knew`,
-          r.silent ? `${r.silent} said nothing` : null,
-        ]
-          .filter(Boolean)
-          .join(' · ')
-      : '';
+    // A bout of last diver standing: who stood last, and the lanterns each side kept.
+    const bout = r?.last;
+    const won = bout ? boutLine(bout, tables) : '';
+    const sum = !r
+      ? ''
+      : bout
+        ? [`${plural(r.given, 'answer')} named of the ${r.known.toLocaleString('en-GB')} the deep knew`, plural(bout.turns, 'turn')].join(' · ')
+        : [`${plural(r.spoke, 'diver')} answered`, `${plural(r.given, 'different answer')} of the ${r.known.toLocaleString('en-GB')} the deep knew`, r.silent ? `${r.silent} said nothing` : null].filter(Boolean).join(' · ');
     const answers = r?.answers ?? [];
     const said = h(
       'section',
-      { class: 'cv-hr-said', 'aria-label': 'What the class said' },
-      h('h3', { class: 'sc-h' }, 'What the class said', h('span', { class: 'sc-count' }, 'rarest first')),
-      answers.length ? answerList(theme, answers, { max: tables ? 10 : 12, given: r?.given }) : h('p', { class: 'cv-roll-empty' }, 'Nobody sealed an answer.'),
+      { class: 'cv-hr-said', 'aria-label': bout ? 'What was named' : 'What the class said' },
+      h('h3', { class: 'sc-h' }, bout ? 'What was named' : 'What the class said', h('span', { class: 'sc-count' }, 'rarest first')),
+      answers.length ? answerList(theme, answers, { max: tables ? 10 : 12, given: r?.given, bout: !!bout }) : h('p', { class: 'cv-roll-empty' }, bout ? 'Nothing was named.' : 'Nobody sealed an answer.'),
       r?.unsaid.length ? h('div', { class: 'sc-unsaid cv-hr-unsaid' }, h('h3', { class: 'sc-h sc-unsaid-k' }, 'What the deep knew'), unsaidList(theme, r.unsaid)) : null,
     );
+    const lit = (pick: (s: NonNullable<typeof bout>['sides'][number]) => boolean) => {
+      const at = bout?.sides.find(pick);
+      return bout && at ? lanternsEl(at.lanterns, bout.lanterns, 'cv-board-lanterns') : null;
+    };
     const side = h(
       'div',
       { class: 'cv-hr-side' },
-      tables ? h('section', { class: 'plate cv-board', 'aria-label': 'The tables' }, h('h3', { class: 'sc-h' }, 'The tables'), tableBoard(tableRows(view, r?.tables), { gains: true })) : null,
-      h('section', { class: 'plate cv-board', 'aria-label': 'The deepest divers' }, h('h3', { class: 'sc-h' }, 'The deepest'), classStandings(view.standings ?? [], { gains: true, tables, max: tables ? 6 : 10 })),
+      tables ? h('section', { class: 'plate cv-board', 'aria-label': 'The tables' }, h('h3', { class: 'sc-h' }, 'The tables'), tableBoard(tableRows(view, r?.tables), { gains: true, ...(bout ? { marks: (t: number) => lit((s) => s.table === t) } : {}) })) : null,
+      h(
+        'section',
+        { class: 'plate cv-board', 'aria-label': 'The deepest divers' },
+        h('h3', { class: 'sc-h' }, 'The deepest'),
+        classStandings(view.standings ?? [], { gains: true, tables, max: tables ? 6 : 10, ...(bout && !tables ? { marks: (id: string) => lit((s) => s.id === id) } : {}) }),
+      ),
     );
     this.el = h(
       'div',
-      { class: 'sc-scene cv-host-reveal', 'aria-labelledby': titleId },
-      h('header', { class: 'sc-reveal-head cv-hr-head' }, h('p', { class: 'kicker' }, `${questionOf(view)} · the answers surface`), this.heading('h2', r?.prompt.text ?? '', 'sc-reveal-q cv-hr-q', titleId), h('p', { class: 'cv-hr-sum' }, sum)),
+      { class: `sc-scene cv-host-reveal${bout ? ' is-bout' : ''}`, 'aria-labelledby': titleId },
+      h(
+        'header',
+        { class: 'sc-reveal-head cv-hr-head' },
+        h('p', { class: 'kicker' }, `${questionOf(view)} · ${bout ? 'the bout is over' : 'the answers surface'}`),
+        this.heading('h2', r?.prompt.text ?? '', 'sc-reveal-q cv-hr-q', titleId),
+        bout ? h('p', { class: 'cv-hr-won' }, `${won}.`, bout.winner >= 0 ? h('span', { class: 'cv-hr-bonus' }, ` +${fmtMetres(bout.bonus)} m`) : null) : null,
+        h('p', { class: 'cv-hr-sum' }, sum),
+      ),
       h('div', { class: 'cv-hr-grid' }, said, side),
       h('div', { class: 'sc-actions cv-hr-acts' }, h('div', { class: 'sc-row' }, this.next, end), this.hint),
     );
-    this.env.announce(`The answers surface. ${sum}.`);
+    this.env.announce(bout ? `The bout is over. ${won}. ${sum}.` : `The answers surface. ${sum}.`);
     this.ctx.sink(view.standings?.[0]?.total ?? 0);
   }
 

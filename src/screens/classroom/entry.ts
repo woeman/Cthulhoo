@@ -134,7 +134,9 @@ export class ClassEntryScene extends Scene {
       'Everyone joins on their own phone, in the browser. Nothing to download, no account.',
       'The host asks a question. Seal a true answer before the candle burns out: nobody sees it until the answers surface.',
       'Rarer answers sink deeper, and one nobody else gives sinks half as deep again. In a blitz, give every answer you can.',
-      'With tables, each table also wins its deepest different answers. Whoever is deepest at the end is the Herald of the Deep.',
+      'With tables, each table also wins its deepest different answers.',
+      'In last diver standing the tables, or the divers, take turns naming an answer nobody has named. One already named, or a turn that runs out, puts out a lantern.',
+      'Whoever is deepest at the end is the Herald of the Deep.',
     ];
     this.el = h(
       'div',

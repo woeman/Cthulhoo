@@ -56,7 +56,12 @@ the engraved sea with sliders for depth, madness and the Eye.
   topics. Classic: one answer each. Blitz: every right answer you can before the
   candle is out. Rarer answers sink deeper, and a lone voice half as deep again.
   With tables (two to eight), each table also wins its few deepest different
-  answers. The rules are `src/party/classroom.ts`, run by the relay's
+  answers. Last diver standing: the tables (or, with no tables, up to twelve
+  divers) take turns naming an answer nobody has named yet. One already named,
+  or a turn that runs out, puts out one of the side's lanterns, and the last
+  side with a lantern lit wins the bout and 1,000 m. Only the side on turn is
+  heard, and the relay tells every device of every turn at once. The rules are
+  `src/party/classroom.ts`, run by the relay's
   `Classroom` room (`worker/src/classroom.ts`), which matches the answers so a
   phone never holds the answer list; the screens are `src/screens/classroom/`.
   `node dev/class-load.mjs 300` plays a pretend class of 300 against a local

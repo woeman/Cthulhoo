@@ -1,5 +1,6 @@
 // Fills a convocation (a class-sized séance) with pretend divers and times it:
-// everyone joins, answers a classic question, then a blitz, on a real relay.
+// everyone joins, answers a classic question, then a blitz, then the tables
+// play a bout of last diver standing, on a real relay.
 //
 //   cd worker && npx wrangler dev --port 8787 --ip 127.0.0.1     (in one terminal)
 //   node dev/class-load.mjs 150                                  (in another)
@@ -55,6 +56,7 @@ class Device {
       this.bytes += e.data.length;
       const msg = JSON.parse(e.data);
       if (msg.t === 'view') this.view = msg.view;
+      else if (msg.t === 'turn' && this.view) this.view = { ...this.view, last: msg.last };
       else if (msg.t === 'error') this.errors.push(msg);
       else if (msg.t === 'heard' || msg.t === 'refused') this.replies.shift()?.(msg);
       this.waits = this.waits.filter((w) => !w(msg));
@@ -233,11 +235,59 @@ async function main() {
   if (wrong.length) fail(`${wrong.length} divers were scored a different number of answers than the relay took from them`);
   if (blitzReveal.result.spoke !== N) fail(`the host was told ${blitzReveal.result.spoke} answered the blitz, not ${N}`);
 
+  // --- last diver standing: the four tables take turns, and every device is told of every turn
+  let n = 2;
+  if (N >= 8) {
+    n = 3;
+    host.send({ t: 'config', mode: 'last', seconds: 10, tables: 4, questions: 5, lanterns: 1 });
+    await host.until((m) => m.t === 'view' && m.view.config.mode === 'last', 10_000, 'last diver standing');
+    host.send({ t: 'ask', prompt, depths: DEPTHS });
+    await Promise.all([host, ...divers].map((d) => d.phase('asking', 3)));
+    const everyone = [host, ...divers];
+    const tableOnTurn = () => host.view.last.sides[host.view.last.turn].table;
+    const told = (turnN, what) => Promise.all(everyone.map((d) => d.until((m) => m.t === 'turn' && m.last.turnN === turnN, 15_000, what)));
+    const turns = [];
+    let named = 0;
+    for (let turn = 0; turn < 24; turn++) {
+      const was = host.view.last.turnN;
+      const table = tableOnTurn();
+      if (turn === 1) {
+        // Somebody of another table speaks out of turn: it costs nothing and moves nothing.
+        const r = await pick(divers.filter((d) => d.view.you.table !== table)).say(prompt.answers[0].answer);
+        if (r.msg.verdict !== 'wait') fail(`an answer out of turn was not told to wait (${r.msg.t} ${r.msg.verdict ?? ''})`);
+      }
+      const all = told(was + 1, `turn ${was + 1}`);
+      const at = Date.now();
+      const r = await pick(divers.filter((d) => d.view.you.table === table)).say(prompt.answers[named++].answer);
+      if (r.msg.t !== 'heard') fail(`turn ${turn + 1}: “${prompt.answers[named - 1].answer}” was not taken (${r.msg.verdict})`);
+      await all;
+      turns.push(Date.now() - at);
+      if (tableOnTurn() === table) fail(`turn ${turn + 1} did not pass to another table`);
+    }
+    stats('a turn told to every device', turns);
+    if (pct(turns, 95) > SLOW_MS) fail(`the relay took ${pct(turns, 95)} ms to tell the class of the slowest twentieth of turns`);
+    // Each table has one lantern: three name an answer already named, and the fourth stands last.
+    const sides = host.view.last.sides.length;
+    for (let out = 1; out < sides; out++) {
+      const was = host.view.last.turnN;
+      const all = told(was + 1, 'a lantern going dark');
+      const r = await pick(divers.filter((d) => d.view.you.table === tableOnTurn())).say(prompt.answers[0].answer);
+      if (r.msg.verdict !== 'burnt') fail(`an answer already named was not refused (${r.msg.t} ${r.msg.verdict ?? ''})`);
+      await all;
+    }
+    const bout = (await host.phase('reveal', 3)).result.last;
+    await Promise.all(divers.map((d) => d.phase('reveal', 3)));
+    if (!bout || bout.ended !== 'last' || bout.winner < 0) fail(`the bout ended “${bout?.ended}” with no table standing last`);
+    else console.log(`  a bout of ${bout.turns} turns over ${sides} tables: table ${bout.sides[bout.winner].table} stood last`);
+    const short = divers.filter((d) => d.view.result.last?.winner !== bout?.winner);
+    if (short.length) fail(`${short.length} divers were not told which table stood last`);
+  }
+
   // --- a diver reloads, the host removes another, the class ends
   const back = new Device(sign, 'Diver 1 again');
   await back.open;
   back.send({ t: 'hello', id: 'load-0000', name: 'Diver 1', rejoin: true });
-  const backView = await back.phase('reveal', 2);
+  const backView = await back.phase('reveal', n);
   if (backView.you.total !== divers[0].view.you.total) fail('a diver who reloaded lost their depth');
   if (N > 1) {
     host.send({ t: 'remove', id: `load-${String(N - 1).padStart(4, '0')}` });

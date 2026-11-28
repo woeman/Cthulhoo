@@ -22,6 +22,7 @@ import { h } from '../ui/dom';
 import { DiverAskScene, DiverEndScene, DiverLobbyScene, DiverRevealScene } from './classroom/diver';
 import { BAD_CLASS_SIGN, ClassCallingScene, ClassEntryScene, NO_CLASS_RELAY, type ClassEntryInit } from './classroom/entry';
 import { HostAskScene, HostEndScene, HostLobbyScene, HostRevealScene } from './classroom/host';
+import { DiverLastScene, HostLastScene } from './classroom/last';
 import { installSeanceArt } from './seance/art';
 import { choosePrompts, relayId, tierDepths } from './seance/model';
 import { loadName, readJson, writeStore } from './seance/parts';
@@ -105,6 +106,11 @@ class ClassScreen {
   /** The host's questions still to ask, chosen on this device. */
   private queue: PromptDef[] = [];
   private asking = false;
+  /** While a class is on, the screen is kept awake: a phone that sleeps drops its line, and the big screen must not dim. */
+  private wake: WakeLockSentinel | null = null;
+  private onVisible = () => {
+    if (document.visibilityState === 'visible') void this.stayAwake();
+  };
 
   constructor(
     private env: SeanceEnv,
@@ -145,6 +151,8 @@ class ClassScreen {
       now: () => this.link?.now() ?? Date.now(),
       sink: (m) => this.sink(m),
     };
+    // A browser lets go of the screen whenever the page is hidden: ask again when it is back.
+    document.addEventListener('visibilitychange', this.onVisible);
     this.open();
   }
 
@@ -161,6 +169,33 @@ class ClassScreen {
     const id = window.setTimeout(() => !this.dead && fn(), ms);
     this.timers.push(id);
     return id;
+  }
+
+  /** No class is on this screen: it is at the way in, or gone. */
+  private get idle(): boolean {
+    return this.dead || this.mode === 'entry';
+  }
+
+  private async stayAwake() {
+    if (this.idle || this.wake || document.visibilityState !== 'visible') return;
+    try {
+      const lock = await navigator.wakeLock?.request('screen');
+      if (!lock) return;
+      // The class may have ended while the browser was asked.
+      if (this.idle || this.wake) return void lock.release().catch(() => {});
+      this.wake = lock;
+      lock.addEventListener('release', () => {
+        if (this.wake === lock) this.wake = null;
+      });
+    } catch {
+      /* this browser will not hold the screen (an old phone, a low battery): the class goes on */
+    }
+  }
+
+  private sleepAgain() {
+    const lock = this.wake;
+    this.wake = null;
+    void lock?.release().catch(() => {});
   }
 
   /** One scene gives way to the next: the old drifts off as the new one surfaces. */
@@ -212,6 +247,7 @@ class ClassScreen {
 
   private entry(init: ClassEntryInit = {}) {
     this.closeLink(false);
+    this.sleepAgain();
     this.mode = 'entry';
     this.view = null;
     this.queue = [];
@@ -311,15 +347,16 @@ class ClassScreen {
     this.key = key;
     this.view = null;
     this.setBar();
+    void this.stayAwake();
     if (!(this.scene instanceof ClassCallingScene)) this.show(this.calling(sign, key, rejoin));
     const hello: ClassHello = key ? { host: true, key } : { id: relayId(this.env.playerId), name: cleanName(loadName()) };
     const handlers: ClassHandlers = {
       view: (v, cause) => this.onView(v, cause),
       heard: (hd) => {
-        if (this.scene instanceof DiverAskScene) this.scene.heard(hd);
+        if (this.scene instanceof DiverAskScene || this.scene instanceof DiverLastScene) this.scene.heard(hd);
       },
       refused: (r) => {
-        if (this.scene instanceof DiverAskScene) this.scene.refuse(r);
+        if (this.scene instanceof DiverAskScene || this.scene instanceof DiverLastScene) this.scene.refuse(r);
       },
       error: (code, message, final) => this.onError(code, message, final),
       status: (s) => this.onStatus(s),
@@ -392,7 +429,8 @@ class ClassScreen {
     const s = this.scene;
     if (s instanceof DiverAskScene) {
       if (code !== 'sealed') s.note(words);
-    } else if (s instanceof HostLobbyScene || s instanceof HostRevealScene) s.fail(words);
+    } else if (s instanceof DiverLastScene) s.note(code === 'late' ? message : words);
+    else if (s instanceof HostLobbyScene || s instanceof HostRevealScene) s.fail(words);
     else this.env.announce(words);
   }
 
@@ -409,7 +447,7 @@ class ClassScreen {
     const cur = this.scene;
     // Only the numbers or the roll moved: the scene on show takes them in.
     if (cause !== 'full') {
-      if (cur instanceof HostLobbyScene || cur instanceof HostAskScene || cur instanceof DiverLobbyScene || cur instanceof DiverAskScene) cur.update(v);
+      if (cur instanceof HostLobbyScene || cur instanceof HostAskScene || cur instanceof DiverLobbyScene || cur instanceof DiverAskScene || cur instanceof HostLastScene || cur instanceof DiverLastScene) cur.update(v);
       return;
     }
     this.render(v);
@@ -443,6 +481,13 @@ class ClassScreen {
       }
       case 'asking': {
         if (!v.prompt) return;
+        // Last diver standing has screens of its own: the bout is on them from its first turn to its last.
+        if (v.last) {
+          const key = `cv-last:${v.n}`;
+          if (cur?.key === key && (cur instanceof HostLastScene || cur instanceof DiverLastScene)) return cur.update(v);
+          this.show(host ? new HostLastScene(this.ctx, key, v, { reveal: () => this.link?.send({ t: 'reveal' }) }) : new DiverLastScene(this.ctx, key, v, { say: (text) => this.link?.send({ t: 'say', text }) ?? false }));
+          return;
+        }
         const key = `cv-ask:${v.n}`;
         if (cur?.key === key && (cur instanceof HostAskScene || cur instanceof DiverAskScene)) return cur.update(v);
         this.show(host ? new HostAskScene(this.ctx, key, v, { reveal: () => this.link?.send({ t: 'reveal' }) }) : new DiverAskScene(this.ctx, key, v, { say: (text) => this.link?.send({ t: 'say', text }) ?? false }));
@@ -596,5 +641,7 @@ class ClassScreen {
     for (const t of this.timers) clearTimeout(t);
     this.timers = [];
     this.closeLink(false);
+    document.removeEventListener('visibilitychange', this.onVisible);
+    this.sleepAgain();
   }
 }
